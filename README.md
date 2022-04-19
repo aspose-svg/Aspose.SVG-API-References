@@ -1,1 +1,0 @@
-# Aspose.SVG-API-References
