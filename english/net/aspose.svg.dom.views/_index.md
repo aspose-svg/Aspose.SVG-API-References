@@ -1,7 +1,7 @@
 ---
 title: Aspose.Svg.Dom.Views
 second_title: Aspose.SVG for .NET API Reference
-description: **Aspose.Svg.Dom.Views** namespace describes AbstractView and DocumentView interfaces according Document Object Model Views specification.
+description: Aspose.Svg.Dom.Views namespace describes AbstractView and DocumentView interfaces according Document Object Model Views specification.
 type: docs
 weight: 120
 url: /net/aspose.svg.dom.views/
