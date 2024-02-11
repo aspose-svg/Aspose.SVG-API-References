@@ -6,7 +6,7 @@ type: docs
 weight: 180
 url: /net/aspose.svg.builder/svgbuilderextensions/addfediffuselighting/
 ---
-## AddFeDiffuseLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEDistantLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;) {#addfediffuselighting_1}
+## AddFeDiffuseLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEDistantLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;) {#addfediffuselighting_1}
 
 Adds an 'feDiffuseLighting' element to the SVG builder, applying a diffuse lighting effect using a specified light source.
 
@@ -17,8 +17,8 @@ public static TBuilder AddFeDiffuseLighting<TBuilder>(this TBuilder builder,
     OneOf<string, FilterInput> @in = null, string result = null, 
     OneOf<double, (double, LengthType)> x = null, OneOf<double, (double, LengthType)> y = null, 
     OneOf<double, (double, LengthType)> width = null, 
-    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint, string> fill = null, 
-    OneOf<Color, Paint, string> stroke = null, string id = null, 
+    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint> fill = null, 
+    OneOf<Color, Paint> stroke = null, string id = null, 
     Action<SVGFEDiffuseLightingElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
 ```
@@ -37,8 +37,8 @@ public static TBuilder AddFeDiffuseLighting<TBuilder>(this TBuilder builder,
 | y | The y-coordinate of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | width | The width of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | height | The height of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
-| fill | The fill color, paint or paint server id for the element. Optional parameter. |
-| stroke | The stroke color, paint or paint server id for the element. Optional parameter. |
+| fill | The fill color or paint for the element. Optional parameter. |
+| stroke | The stroke color or paint for the element. Optional parameter. |
 | id | The unique identifier for the filter primitive element. Optional parameter. |
 | extend | An optional action to further configure the SVGFEDiffuseLightingElementBuilder. |
 
@@ -52,7 +52,6 @@ The builder instance, allowing for method chaining.
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [FilterInput](../../filterinput/)
 * enum [LengthType](../../lengthtype/)
-* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGFEDiffuseLightingElementBuilder](../../svgfediffuselightingelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
@@ -63,7 +62,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeDiffuseLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEPointLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;) {#addfediffuselighting_2}
+## AddFeDiffuseLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFEPointLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;) {#addfediffuselighting_2}
 
 Adds an 'feDiffuseLighting' element to the SVG builder, applying a diffuse lighting effect using a specified light source.
 
@@ -74,8 +73,8 @@ public static TBuilder AddFeDiffuseLighting<TBuilder>(this TBuilder builder,
     OneOf<string, FilterInput> @in = null, string result = null, 
     OneOf<double, (double, LengthType)> x = null, OneOf<double, (double, LengthType)> y = null, 
     OneOf<double, (double, LengthType)> width = null, 
-    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint, string> fill = null, 
-    OneOf<Color, Paint, string> stroke = null, string id = null, 
+    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint> fill = null, 
+    OneOf<Color, Paint> stroke = null, string id = null, 
     Action<SVGFEDiffuseLightingElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
 ```
@@ -94,8 +93,8 @@ public static TBuilder AddFeDiffuseLighting<TBuilder>(this TBuilder builder,
 | y | The y-coordinate of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | width | The width of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | height | The height of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
-| fill | The fill color, paint or paint server id for the element. Optional parameter. |
-| stroke | The stroke color, paint or paint server id for the element. Optional parameter. |
+| fill | The fill color or paint for the element. Optional parameter. |
+| stroke | The stroke color or paint for the element. Optional parameter. |
 | id | The unique identifier for the filter primitive element. Optional parameter. |
 | extend | An optional action to further configure the SVGFEDiffuseLightingElementBuilder. |
 
@@ -109,7 +108,6 @@ The builder instance, allowing for method chaining.
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [FilterInput](../../filterinput/)
 * enum [LengthType](../../lengthtype/)
-* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGFEDiffuseLightingElementBuilder](../../svgfediffuselightingelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
@@ -120,7 +118,7 @@ The builder instance, allowing for method chaining.
 
 ---
 
-## AddFeDiffuseLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFESpotLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint, string&gt;, OneOf&lt;Color, Paint, string&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;) {#addfediffuselighting_3}
+## AddFeDiffuseLighting&lt;TBuilder&gt;(this TBuilder, Action&lt;SVGFESpotLightElementBuilder&gt;, Color?, double?, double?, OneOf&lt;string, FilterInput&gt;, string, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;double, (double, LengthType)&gt;, OneOf&lt;Color, Paint&gt;, OneOf&lt;Color, Paint&gt;, string, Action&lt;SVGFEDiffuseLightingElementBuilder&gt;) {#addfediffuselighting_3}
 
 Adds an 'feDiffuseLighting' element to the SVG builder, applying a diffuse lighting effect using a specified light source.
 
@@ -131,8 +129,8 @@ public static TBuilder AddFeDiffuseLighting<TBuilder>(this TBuilder builder,
     OneOf<string, FilterInput> @in = null, string result = null, 
     OneOf<double, (double, LengthType)> x = null, OneOf<double, (double, LengthType)> y = null, 
     OneOf<double, (double, LengthType)> width = null, 
-    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint, string> fill = null, 
-    OneOf<Color, Paint, string> stroke = null, string id = null, 
+    OneOf<double, (double, LengthType)> height = null, OneOf<Color, Paint> fill = null, 
+    OneOf<Color, Paint> stroke = null, string id = null, 
     Action<SVGFEDiffuseLightingElementBuilder> extend = null)
     where TBuilder : ISVGElementBuilder, IFilterPrimitiveElementBuilder
 ```
@@ -151,8 +149,8 @@ public static TBuilder AddFeDiffuseLighting<TBuilder>(this TBuilder builder,
 | y | The y-coordinate of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | width | The width of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
 | height | The height of the filter primitive subregion. Can be a double or a ValueTuple with LengthType. Optional parameter. |
-| fill | The fill color, paint or paint server id for the element. Optional parameter. |
-| stroke | The stroke color, paint or paint server id for the element. Optional parameter. |
+| fill | The fill color or paint for the element. Optional parameter. |
+| stroke | The stroke color or paint for the element. Optional parameter. |
 | id | The unique identifier for the filter primitive element. Optional parameter. |
 | extend | An optional action to further configure the SVGFEDiffuseLightingElementBuilder. |
 
@@ -166,7 +164,6 @@ The builder instance, allowing for method chaining.
 * class [OneOf&lt;T1,T2&gt;](../../oneof-2/)
 * enum [FilterInput](../../filterinput/)
 * enum [LengthType](../../lengthtype/)
-* class [OneOf&lt;T1,T2,T3&gt;](../../oneof-3/)
 * enum [Paint](../../paint/)
 * class [SVGFEDiffuseLightingElementBuilder](../../svgfediffuselightingelementbuilder/)
 * interface [ISVGElementBuilder](../../isvgelementbuilder/)
