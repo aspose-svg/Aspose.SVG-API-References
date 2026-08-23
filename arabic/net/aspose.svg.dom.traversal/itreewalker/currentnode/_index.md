@@ -1,34 +1,32 @@
 ---
-title: ITreeWalker.CurrentNode
-second_title: Aspose.SVG لمرجع .NET API
-description: ITreeWalker ملكية. العقدة التي يتم وضع TreeWalker عليها حاليًا. قد تتسبب التغييرات في شجرة DOM في عدم قبول العقدة الحالية بواسطة مرشح TreeWalker المرتبط. ضمن الشجرة الفرعية المحددة بواسطة عقدة الجذر_ أو سيتم قبولها بواسطة المرشح وعلامة whatToShow. يحدث الاجتياز الإضافي بالنسبة إلى currentNode حتى إذا لم يكن جزءًا من العرض الحالي  عن طريق تطبيق المرشحات في الاتجاه المطلوب  إذا لم يكن هناك احتمال traversal  فلن يتم تغيير العقدة الحالية.
+title: "ITreeWalker.CurrentNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ITreeWalker CurrentNode. العقدة التي يتموضع عندها الـ TreeWalker حالياً. قد تتسبب التعديلات على شجرة DOM في عدم قبول العقدة الحالية من قبل الفلتر المرتبط بالـ TreeWalker. يمكن أيضاً تعيين currentNode صراحةً إلى أي عقدة سواء كانت ضمن الشجرة الفرعية المحددة بواسطة عقدة الجذر أو لا، أو ما إذا كانت ستُقبل بواسطة الفلتر وعلامات whatToShow. تستمر عملية التجوال الإضافية بالنسبة إلى currentNode حتى وإن لم تكن جزءاً من العرض الحالي عن طريق تطبيق الفلاتر في الاتجاه المطلوب؛ إذا لم يكن هناك إمكانية للتجوال لا يتم تغيير currentNode."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.traversal/itreewalker/currentnode/
 ---
 ## ITreeWalker.CurrentNode property
 
-العقدة التي يتم وضع TreeWalker عليها حاليًا. قد تتسبب التغييرات في شجرة DOM في عدم قبول العقدة الحالية بواسطة مرشح TreeWalker المرتبط. ضمن الشجرة الفرعية المحددة بواسطة عقدة الجذر_ أو سيتم قبولها بواسطة المرشح وعلامة whatToShow. يحدث الاجتياز الإضافي بالنسبة إلى currentNode حتى إذا لم يكن جزءًا من العرض الحالي ، عن طريق تطبيق المرشحات في الاتجاه المطلوب ؛ إذا لم يكن هناك احتمال traversal ، فلن يتم تغيير العقدة الحالية.
+العقدة التي يقع فيها TreeWalker حاليًا. قد تتسبب التعديلات على شجرة DOM في عدم قبول العقدة الحالية بواسطة الفلتر المرتبط بـ TreeWalker. يمكن أيضًا تعيين currentNode صراحةً إلى أي عقدة، سواء كانت ضمن الشجرة الفرعية المحددة بالعقدة الجذرية أو لا، أو ما إذا كانت ستُقبل بواسطة الفلتر وأعلام whatToShow. تستمر traversals الإضافية بالنسبة إلى currentNode حتى وإن لم تكن جزءًا من العرض الحالي، عن طريق تطبيق الفلاتر في الاتجاه المطلوب؛ إذا لم يكن هناك إمكانية للتنقل، لا يتم تغيير currentNode.
 
 ```csharp
 public Node CurrentNode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 العقدة الحالية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: يتم رفعه في حالة إجراء محاولة لضبط العقدة الحالية على قيمة خالية. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: يُرفع إذا تم محاولة تعيين currentNode إلى null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

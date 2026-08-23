@@ -1,26 +1,24 @@
 ---
-title: Aspose.Svg.Dom.XPath
-second_title: Aspose.SVG لمرجع .NET API
-description: تحتوي مساحة الاسم على أساليب للتنقل عبر العناصر والسمات في مستند XML .
+title: "Aspose.Svg.Dom.XPath"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "مساحة الأسماء Aspose.Svg.Dom.XPath تحتوي على طرق للتنقل عبر العناصر والسمات في مستند XML."
 type: docs
-weight: 130
+weight: 150
 url: /ar/net/aspose.svg.dom.xpath/
 ---
-تحتوي مساحة الاسم على أساليب للتنقل عبر العناصر والسمات في مستند XML .
+مساحة الاسم **Aspose.Svg.Drawing** تحتوي على كائنات وواجهات لتحديد القياسات والوحدات بالإضافة إلى كائنات سمة الرسم مثل الفُرَش، الألوان والخطوط.
 
-## واجهات
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IXPathEvaluator](./ixpathevaluator/) | يتم توفير تقييم تعبيرات XPath بواسطة[`IXPathEvaluator`](../aspose.svg.dom.xpath/ixpathevaluator/) . |
-| [IXPathExpression](./ixpathexpression/) | ملف`XPathExpression`تمثل الواجهة تعبير XPath الذي تم تحليله وتم تحليله. |
-| [IXPathNamespace](./ixpathnamespace/) | تم إرجاع واجهة XPathNamespace بواسطة واجهات XPathResult لتمثيل نوع عقدة مساحة اسم XPath التي يفتقر إليها DOM. |
-| [IXPathNSResolver](./ixpathnsresolver/) | ملف`XPathNSResolver` تصريح الواجهة`بادئة` سلاسل في التعبير المطلوب ربطه بشكل صحيح`مساحة الاسم` سلاسل. [`IXPathEvaluator`](../aspose.svg.dom.xpath/ixpathevaluator/) يمكن إنشاء تنفيذ [`IXPathNSResolver`](../aspose.svg.dom.xpath/ixpathnsresolver/) من عقدة ، أو قد يتم تنفيذ الواجهة بواسطة أي تطبيق . |
-| [IXPathResult](./ixpathresult/) | ملف`XPathResult` تمثل الواجهة نتيجة تقييم تعبير XPath 1.0 في سياق عقدة معينة. نظرًا لأن تقييم لتعبير XPath يمكن أن يؤدي إلى أنواع نتائج مختلفة ، فإن هذا الكائن يجعل ممكنًا لاكتشاف نوع النتيجة وقيمتها ومعالجتها. |
-## تعداد
+| [IXPathEvaluator](./ixpathevaluator/) | يتم توفير تقييم تعبيرات XPath بواسطة [`IXPathEvaluator`](../aspose.svg.dom.xpath/ixpathevaluator/). |
+| [IXPathExpression](./ixpathexpression/) | واجهة `XPathExpression` تمثل تعبير XPath تم تحليله وحله. |
+| [IXPathNamespace](./ixpathnamespace/) | واجهة XPathNamespace تُرجَع بواسطة واجهات XPathResult لتمثيل نوع عقدة مساحة اسم XPath التي يفتقر إليها DOM. |
+| [IXPathNSResolver](./ixpathnsresolver/) | واجهة `XPathNSResolver` تسمح بسلاسل `prefix` في التعبير بأن تُربط بشكل صحيح بسلاسل `namespaceURI`. يمكن لـ [`IXPathEvaluator`](../aspose.svg.dom.xpath/ixpathevaluator/) إنشاء تنفيذ لـ [`IXPathNSResolver`](../aspose.svg.dom.xpath/ixpathnsresolver/) من عقدة، أو قد تُنفَّذ الواجهة بواسطة أي تطبيق. |
+| [IXPathResult](./ixpathresult/) | واجهة `XPathResult` تمثل نتيجة تقييم تعبير XPath 1.0 ضمن سياق عقدة معينة. بما أن تقييم تعبير XPath يمكن أن ينتج أنواعًا متعددة من النتائج، يتيح هذا الكائن إمكانية اكتشاف وتعديل نوع وقيمة النتيجة. |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [XPathResultType](./xpathresulttype/) | اختصار بدون إشارة يشير إلى نوع هذه النتيجة. إذا كان محددًا`يكتب`تم تحديده ، ثم سيتم إرجاع النتيجة كنوع المقابل ، باستخدام تحويلات نوع XPath حيثما كان ذلك مطلوبًا وممكنًا. |
-
-
+| [XPathResultType](./xpathresulttype/) | عدد قصير غير موقع يشير إلى نوع النتيجة. إذا تم تحديد `type` محدد، فسيتم إرجاع النتيجة كنوع المقابل، باستخدام تحويلات نوع XPath حيثما يكون ذلك مطلوبًا وممكنًا. |

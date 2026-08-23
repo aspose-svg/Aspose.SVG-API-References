@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.Scale
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDisplacementMapElement ملكية. يتوافق مع السمة مقياس على عنصر feDisplacementMap المحدد .
+title: "SVGFEDisplacementMapElement.Scale"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Scale لـ SVGFEDisplacementMapElement. تتطابق مع السمة scale في العنصر feDisplacementMap المعطى."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.filters/svgfedisplacementmapelement/scale/
 ---
 ## SVGFEDisplacementMapElement.Scale property
 
-يتوافق مع السمة "مقياس" على عنصر "feDisplacementMap" المحدد .
+يتطابق مع السمة ‘scale’ في العنصر ‘feDisplacementMap’ المحدد.
 
 ```csharp
 public SVGAnimatedNumber Scale { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "مقياس" لعنصر "feDisplacementMap" المحدد .
+السمة ‘scale’ للعنصر ‘feDisplacementMap’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDisplacementMapElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

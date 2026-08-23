@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BackgroundAttachment
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية مرفق الخلفية في CSS2.
+title: "ICSS2Properties.BackgroundAttachment"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties BackgroundAttachment خاصية. انظر تعريف خاصية background-attachment في CSS2"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/icss2properties/backgroundattachment/
 ---
 ## ICSS2Properties.BackgroundAttachment property
 
-راجع تعريف خاصية مرفق الخلفية في CSS2.
+انظر تعريف خاصية background-attachment في CSS2.
 
 ```csharp
 public string BackgroundAttachment { get; set; }
@@ -16,12 +16,10 @@ public string BackgroundAttachment { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية مرفق الخلفية
+خاصية background-attachment
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Device2.BeginPage
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يبدأ عرض الصفحة الجديدة .
+title: "Device-2.BeginPage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device BeginPage. يبدأ عرض الصفحة الجديدة"
 type: docs
-weight: 60
+weight: 90
 url: /ar/net/aspose.svg.rendering/device-2/beginpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginPage method
+## Device<TGraphicContext,TRenderingOptions>.BeginPage method
 
-يبدأ عرض الصفحة الجديدة .
+يبدأ تصيير الصفحة الجديدة.
 
 ```csharp
 public virtual void BeginPage(SizeF size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | SizeF | حجم الصفحة. |
+| الحجم | SizeF | حجم الصفحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

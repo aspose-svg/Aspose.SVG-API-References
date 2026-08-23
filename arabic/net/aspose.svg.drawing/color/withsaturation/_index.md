@@ -1,31 +1,29 @@
 ---
-title: Color.WithSaturation
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إنشاء نسخة من اللون بالتشبع المحدد.
+title: "Color.WithSaturation"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color WithSaturation. تنشئ نسخة من اللون مع التشبع المحدد"
 type: docs
 weight: 480
 url: /ar/net/aspose.svg.drawing/color/withsaturation/
 ---
 ## Color.WithSaturation method
 
-إنشاء نسخة من اللون بالتشبع المحدد.
+ينشئ نسخة من اللون مع saturation المحدد.
 
 ```csharp
 public Color WithSaturation(float saturation)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | saturation | Single | قيمة التشبع. |
 
 ### قيمة الإرجاع
 
-&gt; مثيل جديد لملف[`Color`](../) فصل.
+&gt;كائن جديد من الفئة [`Color`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

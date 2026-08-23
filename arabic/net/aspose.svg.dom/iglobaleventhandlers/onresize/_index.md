@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnResize
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnResize أو تعيينه.
+title: "IGlobalEventHandlers.OnResize"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnResize الحدث. يحصل أو يضبط معالج الحدث لـ OnResize الحدث"
 type: docs
 weight: 380
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onresize/
 ---
 ## IGlobalEventHandlers.OnResize event
 
-الحصول على معالج الحدث لحدث OnResize أو تعيينه.
+الحصول أو تعيين معالج الحدث لـ OnResize.
 
 ```csharp
 public event DOMEventHandler OnResize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

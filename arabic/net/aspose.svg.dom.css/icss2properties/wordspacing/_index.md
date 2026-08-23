@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.WordSpacing
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية تباعد الكلمات في CSS2.
+title: "ICSS2Properties.WordSpacing"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية WordSpacing في ICSS2Properties. انظر تعريف خاصية word-spacing في CSS2"
 type: docs
-weight: 1210
+weight: 1240
 url: /ar/net/aspose.svg.dom.css/icss2properties/wordspacing/
 ---
 ## ICSS2Properties.WordSpacing property
 
-راجع تعريف خاصية تباعد الكلمات في CSS2.
+انظر تعريف خاصية word-spacing في CSS2.
 
 ```csharp
 public string WordSpacing { get; set; }
@@ -16,12 +16,10 @@ public string WordSpacing { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية تباعد الكلمات
+خاصية word-spacing
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

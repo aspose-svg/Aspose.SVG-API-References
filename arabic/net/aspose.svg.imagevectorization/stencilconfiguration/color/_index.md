@@ -1,24 +1,22 @@
 ---
-title: StencilConfiguration.Color
-second_title: Aspose.SVG لمرجع .NET API
-description: StencilConfiguration ملكية. الحصول على اللون أو تعيينه لعرض خطوط الاستنسل لنوع MonoColor .
+title: "StencilConfiguration.Color"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية اللون في StencilConfiguration. تحصل أو تعين اللون لتصوير خطوط القالب لنوع MonoColor."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.imagevectorization/stencilconfiguration/color/
 ---
 ## StencilConfiguration.Color property
 
-الحصول على اللون أو تعيينه لعرض خطوط الاستنسل لنوع MonoColor .
+يحصل أو يعيّن اللون لتصيير خطوط القالب لنوع MonoColor.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../../../aspose.svg.drawing/color/)
 * class [StencilConfiguration](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

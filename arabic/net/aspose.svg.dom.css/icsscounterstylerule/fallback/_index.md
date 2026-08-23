@@ -1,23 +1,21 @@
 ---
-title: ICSSCounterStyleRule.Fallback
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSCounterStyleRule ملكية. يحصل على احتياطي .
+title: "ICSSCounterStyleRule.Fallback"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Fallback في ICSSCounterStyleRule. يحصل على القيمة الاحتياطية"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/icsscounterstylerule/fallback/
 ---
 ## ICSSCounterStyleRule.Fallback property
 
-يحصل على احتياطي .
+يحصل على البديل.
 
 ```csharp
 public string Fallback { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSCounterStyleRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,26 @@
 ---
-title: GraphicContext.Transform
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext طريقة. تعديل مصفوفة التحويل الحالية بضرب المصفوفة المحددة.
+title: "GraphicContext.Transform"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GraphicContext Transform. عدل مصفوفة التحويل الحالية بضرب المصفوفة المحددة"
 type: docs
 weight: 180
 url: /ar/net/aspose.svg.rendering/graphiccontext/transform/
 ---
 ## GraphicContext.Transform method
 
-تعديل مصفوفة التحويل الحالية بضرب المصفوفة المحددة.
+عدّل مصفوفة التحويل الحالية بضرب المصفوفة المحددة.
 
 ```csharp
-public virtual void Transform(Matrix matrix)
+public virtual void Transform(IMatrix matrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | مصفوفة التحول. |
+| matrix | IMatrix | مصفوفة التحويل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

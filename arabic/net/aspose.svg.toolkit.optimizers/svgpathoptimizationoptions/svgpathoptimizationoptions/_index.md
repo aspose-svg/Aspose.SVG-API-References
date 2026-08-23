@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.SVGPathOptimizationOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathOptimizationOptions البناء. يقوم بتهيئة مثيل جديد لملفSVGPathOptimizationOptions فئة .
+title: "SVGPathOptimizationOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGPathOptimizationOptions constructor. يهيئ نسخة جديدة من الفئة SVGPathOptimizationOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions constructor
 
-يقوم بتهيئة مثيل جديد لملف[`SVGPathOptimizationOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SVGPathOptimizationOptions`](../).
 
 ```csharp
 public SVGPathOptimizationOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

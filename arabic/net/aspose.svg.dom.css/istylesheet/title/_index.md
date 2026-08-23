@@ -1,7 +1,7 @@
 ---
-title: IStyleSheet.Title
-second_title: Aspose.SVG لمرجع .NET API
-description: IStyleSheet ملكية. العنوان الاستشاري.
+title: "IStyleSheet.Title"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية العنوان لـ IStyleSheet. العنوان الاستشاري"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.css/istylesheet/title/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom.css/istylesheet/title/
 public string Title { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IStyleSheet](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../istylesheet/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

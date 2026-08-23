@@ -1,28 +1,26 @@
 ---
-title: SVGFEDistantLightElement.Azimuth
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDistantLightElement ملكية. يتوافق مع السمة السمت على عنصر feDistantLight المحدد .
+title: "SVGFEDistantLightElement.Azimuth"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Azimuth لـ SVGFEDistantLightElement. تتطابق مع الخاصية azimuth في عنصر feDistantLight المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.filters/svgfedistantlightelement/azimuth/
 ---
 ## SVGFEDistantLightElement.Azimuth property
 
-يتوافق مع السمة "السمت" على عنصر "feDistantLight" المحدد .
+يتطابق مع السمة ‘azimuth’ على العنصر ‘feDistantLight’ المحدد.
 
 ```csharp
 public SVGAnimatedNumber Azimuth { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "السمت" لعنصر "feDistantLight" المحدد .
+الخاصية ‘azimuth’ لعنصر ‘feDistantLight’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDistantLightElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedistantlightelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

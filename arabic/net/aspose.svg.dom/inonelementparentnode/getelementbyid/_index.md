@@ -1,32 +1,30 @@
 ---
-title: INonElementParentNode.GetElementById
-second_title: Aspose.SVG لمرجع .NET API
-description: INonElementParentNode طريقة. إرجاع العنصر الأول داخل أحفاد العقدة الذي يكون معرفه elementId.
+title: "INonElementParentNode.GetElementById"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة INnonElementParentNode GetElementById. تُرجع العنصر الأول ضمن سلالات العقد التي يكون معرفها elementId"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/inonelementparentnode/getelementbyid/
 ---
 ## INonElementParentNode.GetElementById method
 
-إرجاع العنصر الأول داخل أحفاد العقدة الذي يكون معرفه elementId.
+تُعيد العنصر الأول ضمن أبناء العقدة الذين يحملون المعرف elementId.
 
 ```csharp
 public Element GetElementById(string elementId)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | elementId | String | معرف العنصر. |
 
 ### قيمة الإرجاع
 
-إرجاع العنصر المطابق الأول.
+تُرجع العنصر المطابق الأول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * interface [INonElementParentNode](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../inonelementparentnode/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

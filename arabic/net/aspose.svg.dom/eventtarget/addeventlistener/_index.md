@@ -1,93 +1,97 @@
 ---
-title: EventTarget.AddEventListener
-second_title: Aspose.SVG لمرجع .NET API
-description: EventTarget طريقة. تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث.
+title: "EventTarget.AddEventListener"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة EventTarget AddEventListener. تُعد دالة سيتم استدعاؤها كلما تم تسليم الحدث المحدد إلى الهدف"
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/aspose.svg.dom/eventtarget/addeventlistener/
 ---
-## AddEventListener(string, DOMEventHandler, bool) {#addeventlistener}
+## AddEventListener(*string, [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/), bool*) {#addeventlistener}
 
-تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث.
+يضبط دالة سيتم استدعاؤها كلما تم تسليم الحدث المحدد إلى الهدف.
+
+يعمل عن طريق إضافة دالة أو كائن ينفّذ [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), إلى قائمة مستمعي الأحداث لنوع الحدث المحدد على [`EventTarget`](../) الذي يُستدعى عليه. إذا كانت الدالة أو الكائن موجودة بالفعل في قائمة مستمعي الأحداث لهذا الهدف، فلن تُضاف مرة ثانية.
 
 ```csharp
 public void AddEventListener(string type, DOMEventHandler handler, bool useCapture)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | String | نوع الحدث الذي يقوم المستخدم بالتسجيل من أجله |
-| handler | DOMEventHandler | يأخذ[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) ليتم استدعاؤها عند وقوع الحدث. |
-| useCapture | Boolean | إذا كان هذا صحيحًا ، يشير useCapture إلى أن المستخدم يرغب في بدء الالتقاط . بعد بدء الالتقاط ، سيتم إرسال جميع الأحداث من النوع المحدد إلى Register [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) قبل إرسالها إلى أي "أهداف حدث" تحتها في الشجرة. الأحداث التي تندفع لأعلى عبر الشجرة لن تؤدي إلى تشغيل[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) المعينة لاستخدام الالتقاط. |
+| type | String | نوع الحدث الذي يقوم المستخدم بتسجيله. |
+| handler | DOMEventHandler | يأخذ [`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) ليتم استدعاؤه عندما يحدث الحدث. |
+| useCapture | Boolean | إذا كان true، فإن useCapture يشير إلى أن المستخدم يرغب في بدء الالتقاط. بعد بدء الالتقاط، سيتم إرسال جميع الأحداث من النوع المحدد إلى [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) المسجل قبل إرسالها إلى أي أهداف حدث تحتها في الشجرة. الأحداث التي ترتفع صعودًا عبر الشجرة لن تُفعّل [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) المخصص لاستخدام الالتقاط. |
 
-### ملاحظات
+## ملاحظات
 
-إذا كان ملف[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) يضاف إلى[`EventTarget`](../) أثناء معالجة حدث ما ، لن يتم تشغيله بواسطة الإجراءات الحالية ولكن قد يتم تشغيله خلال مرحلة لاحقة من تدفق الحدث ، مثل مرحلة الفقاعة.
+إذا تم إضافة [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) إلى [`EventTarget`](../) أثناء معالجة حدث، فلن يتم تفعيله بواسطة الإجراءات الحالية ولكن قد يتم تفعيله في مرحلة لاحقة من تدفق الحدث، مثل مرحلة الفقاعات.
 
-إذا تم تسجيل العديد من مستمعي الأحداث المتطابقين في نفس الشيء[`EventTarget`](../)باستخدام نفس المعلمات ، يتم تجاهل المثيلات المكررة[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) ليتم استدعاؤها مرتين وبما أنه يتم التخلص منها فلا داعي لإزالتها باستخدام [`RemoveEventListener`](../removeeventlistener/) طريقة .
+إذا تم تسجيل مستمعي أحداث متطابقين متعددين على نفس [`EventTarget`](../) بنفس المعلمات، فسيتم تجاهل النسخ المكررة. لا تتسبب في استدعاء [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) مرتين، وبما أنها تم تجاهلها فلا حاجة لإزالتها باستخدام طريقة [`RemoveEventListener`](../removeeventlistener/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [EventTarget](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../eventtarget/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## AddEventListener(string, IEventListener) {#addeventlistener_1}
+## AddEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)*) {#addeventlistener_1}
 
-تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث.
+يضبط دالة سيتم استدعاؤها كلما تم تسليم الحدث المحدد إلى الهدف.
+
+يعمل عن طريق إضافة دالة أو كائن ينفّذ [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), إلى قائمة مستمعي الأحداث لنوع الحدث المحدد على [`EventTarget`](../) الذي يُستدعى عليه. إذا كانت الدالة أو الكائن موجودة بالفعل في قائمة مستمعي الأحداث لهذا الهدف، فلن تُضاف مرة ثانية.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | String | نوع الحدث الذي يقوم المستخدم بالتسجيل من أجله |
-| listener | IEventListener | يأخذ واجهة يتم تنفيذها من قبل المستخدم والتي تحتوي على الأساليب المطلوب استدعاؤها عند وقوع الحدث. |
+| type | String | نوع الحدث الذي يقوم المستخدم بتسجيله. |
+| مستمع | IEventListener | يأخذ واجهة تم تنفيذها من قبل المستخدم تحتوي على الطرق التي سيتم استدعاؤها عند حدوث الحدث. |
 
-### ملاحظات
+## ملاحظات
 
-إذا كان ملف[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) يضاف إلى[`EventTarget`](../) أثناء معالجة حدث ما ، لن يتم تشغيله بواسطة الإجراءات الحالية ولكن قد يتم تشغيله خلال مرحلة لاحقة من تدفق الحدث ، مثل مرحلة الفقاعة.
+إذا تم إضافة [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) إلى [`EventTarget`](../) أثناء معالجة حدث، فلن يتم تفعيله بواسطة الإجراءات الحالية ولكن قد يتم تفعيله في مرحلة لاحقة من تدفق الحدث، مثل مرحلة الفقاعات.
 
-إذا تم تسجيل العديد من مستمعي الأحداث المتطابقين في نفس الشيء[`EventTarget`](../)باستخدام نفس المعلمات ، يتم تجاهل المثيلات المكررة[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) ليتم استدعاؤها مرتين وبما أنه يتم التخلص منها فلا داعي لإزالتها باستخدام [`RemoveEventListener`](../removeeventlistener/) طريقة .
+إذا تم تسجيل مستمعي أحداث متطابقين متعددين على نفس [`EventTarget`](../) بنفس المعلمات، فسيتم تجاهل النسخ المكررة. لا تتسبب في استدعاء [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) مرتين، وبما أنها تم تجاهلها فلا حاجة لإزالتها باستخدام طريقة [`RemoveEventListener`](../removeeventlistener/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../eventtarget/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## AddEventListener(string, IEventListener, bool) {#addeventlistener_2}
+## AddEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/), bool*) {#addeventlistener_2}
 
-تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث.
+يضبط دالة سيتم استدعاؤها كلما تم تسليم الحدث المحدد إلى الهدف.
+
+يعمل عن طريق إضافة دالة أو كائن ينفّذ [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), إلى قائمة مستمعي الأحداث لنوع الحدث المحدد على [`EventTarget`](../) الذي يُستدعى عليه. إذا كانت الدالة أو الكائن موجودة بالفعل في قائمة مستمعي الأحداث لهذا الهدف، فلن تُضاف مرة ثانية.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | String | نوع الحدث الذي يقوم المستخدم بالتسجيل من أجله |
-| listener | IEventListener | يأخذ واجهة يتم تنفيذها من قبل المستخدم والتي تحتوي على الأساليب المطلوب استدعاؤها عند وقوع الحدث. |
-| useCapture | Boolean | إذا كان هذا صحيحًا ، يشير useCapture إلى أن المستخدم يرغب في بدء الالتقاط . بعد بدء الالتقاط ، سيتم إرسال جميع الأحداث من النوع المحدد إلى Register [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) قبل إرسالها إلى أي "أهداف حدث" تحتها في الشجرة. الأحداث التي تندفع لأعلى عبر الشجرة لن تؤدي إلى تشغيل[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) المعينة لاستخدام الالتقاط. |
+| type | String | نوع الحدث الذي يقوم المستخدم بتسجيله. |
+| مستمع | IEventListener | يأخذ واجهة تم تنفيذها من قبل المستخدم تحتوي على الطرق التي سيتم استدعاؤها عند حدوث الحدث. |
+| useCapture | Boolean | إذا كان true، فإن useCapture يشير إلى أن المستخدم يرغب في بدء الالتقاط. بعد بدء الالتقاط، سيتم إرسال جميع الأحداث من النوع المحدد إلى [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) المسجل قبل إرسالها إلى أي أهداف حدث تحتها في الشجرة. الأحداث التي ترتفع صعودًا عبر الشجرة لن تُفعّل [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) المخصص لاستخدام الالتقاط. |
 
-### ملاحظات
+## ملاحظات
 
-إذا كان ملف[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) يضاف إلى[`EventTarget`](../) أثناء معالجة حدث ما ، لن يتم تشغيله بواسطة الإجراءات الحالية ولكن قد يتم تشغيله خلال مرحلة لاحقة من تدفق الحدث ، مثل مرحلة الفقاعة.
+إذا تم إضافة [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) إلى [`EventTarget`](../) أثناء معالجة حدث، فلن يتم تفعيله بواسطة الإجراءات الحالية ولكن قد يتم تفعيله في مرحلة لاحقة من تدفق الحدث، مثل مرحلة الفقاعات.
 
-إذا تم تسجيل العديد من مستمعي الأحداث المتطابقين في نفس الشيء[`EventTarget`](../)باستخدام نفس المعلمات ، يتم تجاهل المثيلات المكررة[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) ليتم استدعاؤها مرتين وبما أنه يتم التخلص منها فلا داعي لإزالتها باستخدام [`RemoveEventListener`](../removeeventlistener/) طريقة .
+إذا تم تسجيل مستمعي أحداث متطابقين متعددين على نفس [`EventTarget`](../) بنفس المعلمات، فسيتم تجاهل النسخ المكررة. لا تتسبب في استدعاء [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) مرتين، وبما أنها تم تجاهلها فلا حاجة لإزالتها باستخدام طريقة [`RemoveEventListener`](../removeeventlistener/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../eventtarget/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

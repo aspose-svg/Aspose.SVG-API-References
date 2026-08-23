@@ -1,31 +1,29 @@
 ---
-title: IUrlSearchParams.Get
-second_title: Aspose.SVG لمرجع .NET API
-description: IUrlSearchParams طريقة. إرجاع قيمة الزوج الاسم والقيمة الأول الذي اسمهاسم .
+title: "IUrlSearchParams.Get"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IUrlSearchParams Get. تُرجع قيمة أول زوج اسم‑قيمة اسمه name."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/iurlsearchparams/get/
 ---
 ## IUrlSearchParams.Get method
 
-إرجاع قيمة الزوج الاسم والقيمة الأول الذي اسمه`اسم` .
+يعيد قيمة أول زوج اسم-قيمة يكون اسمه `name`.
 
 ```csharp
 public string Get(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | المفتاح الذي سيتم استخدامه للعثور على زوج الاسم والقيمة. |
+| الاسم | String | المفتاح الذي سيُستخدم للعثور على زوج الاسم‑القيمة. |
 
 ### قيمة الإرجاع
 
-قيمة زوج الاسم والقيمة الأول واسمه`اسم` أو فارغة إذا لم يكن هناك أي شيء.
+قيمة أول زوج اسم‑قيمة اسمه `name` أو null إذا لم يوجد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUrlSearchParams](../)
-* مساحة الاسم [Aspose.Svg](../../iurlsearchparams/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

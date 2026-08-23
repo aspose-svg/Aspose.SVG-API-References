@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.FileName
-second_title: Aspose.SVG لمرجع .NET API
-description: ErrorEvent ملكية. يجب أن ترجع سمة اسم الملف القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن  يجب تهيئة هذه السمة إلى سلسلة فارغة. إنه يمثل عنوان URL المطلق للبرنامج النصي الذي حدث فيه الخطأ في الأصل.
+title: "ErrorEvent.FileName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ErrorEvent FileName. يجب أن تُعيد سمة filename القيمة التي تم تهيئتها لها. عندما يُنشأ الكائن يجب تهيئة هذه السمة إلى سلسلة فارغة. تمثّل عنوان URL المطلق للنص البرمجي الذي حدث فيه الخطأ أصلاً"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.events/errorevent/filename/
 ---
 ## ErrorEvent.FileName property
 
-يجب أن ترجع سمة اسم الملف القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى سلسلة فارغة. إنه يمثل عنوان URL المطلق للبرنامج النصي الذي حدث فيه الخطأ في الأصل.
+يجب أن تُعيد الخاصية filename القيمة التي تم تهيئتها بها. عند إنشاء الكائن، يجب تهيئة هذه الخاصية إلى سلسلة فارغة. تمثل عنوان URL المطلق للسكريبت الذي حدث فيه الخطأ أصلاً.
 
 ```csharp
 public string FileName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الملف .
+اسم الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ErrorEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../errorevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

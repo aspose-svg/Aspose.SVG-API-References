@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Stress
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الضغط في CSS2.
+title: "ICSS2Properties.Stress"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties Stress. راجع تعريف خاصية stress في CSS2"
 type: docs
-weight: 1050
+weight: 1080
 url: /ar/net/aspose.svg.dom.css/icss2properties/stress/
 ---
 ## ICSS2Properties.Stress property
 
-راجع تعريف خاصية الضغط في CSS2.
+انظر إلى تعريف الخاصية stress في CSS2.
 
 ```csharp
 public string Stress { get; set; }
@@ -16,12 +16,10 @@ public string Stress { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الإجهاد
+خاصية stress
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

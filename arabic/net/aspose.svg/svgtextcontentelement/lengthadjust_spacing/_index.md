@@ -1,23 +1,21 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_SPACING
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextContentElement مجال. يتوافق مع القيمة تباعد .
+title: "SVGTextContentElement.LENGTHADJUST_SPACING"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTextContentElement LENGTHADJUST_SPACING. يتطابق مع القيمة spacing"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/svgtextcontentelement/lengthadjust_spacing/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACING field
 
-يتوافق مع القيمة "تباعد" .
+يتطابق مع القيمة 'spacing'.
 
 ```csharp
 public const ushort LENGTHADJUST_SPACING;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextContentElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextcontentelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

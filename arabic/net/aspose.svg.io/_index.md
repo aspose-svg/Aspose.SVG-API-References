@@ -1,29 +1,23 @@
 ---
-title: Aspose.Svg.IO
-second_title: Aspose.SVG لمرجع .NET API
-description: بالإضافة إلى أدوات الإدخال / الإخراج القياسية الإدخال / الإخراج ملف Aspose.Svg.IO تحتوي مساحة الاسم على فئات وواجهات مساعدة.
+title: "Aspose.Svg.IO"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "بالإضافة إلى أدوات الإدخال والإخراج القياسية، تحتوي مساحة الأسماء Aspose.Svg.IO على فئات ومواجهات مساعدة."
 type: docs
-weight: 180
+weight: 200
 url: /ar/net/aspose.svg.io/
 ---
-بالإضافة إلى أدوات الإدخال / الإخراج القياسية (الإدخال / الإخراج) ملف **Aspose.Svg.IO** تحتوي مساحة الاسم على فئات وواجهات مساعدة.
+بالإضافة إلى أدوات الإدخال والإخراج (IO) القياسية، يحتوي مساحة الاسم **Aspose.Svg.IO** على فئات مساعدة وواجهات.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [FileCreateStreamProvider](./filecreatestreamprovider/) | يمثلFileStream تنفيذ لتوفير تدفقات لأجهزة التقديم. |
-| [LocalFileSystemStorage](./localfilesystemstorage/) | تخزين نظام الملفات . |
-| [OutputStream](./outputstream/) | يلف تيار بديل تدفق الإخراج الحقيقي ويتحكم في الوصول إليه.[`OutputStream`](../aspose.svg.io/outputstream/) يحتوي على بيانات URI التي تصف موقع تدفق الإخراج. |
-| [OutputStreamContext](./outputstreamcontext/) | سياق لتهيئة تدفق الإخراج. |
-## واجهات
+| [FileCreateStreamProvider](./filecreatestreamprovider/) | يمثل تنفيذ FileStream لتوفير التدفقات إلى أجهزة العرض. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IBlob](./iblob/) | يشير كائن Blob إلى تسلسل بايت ، وله سمة الحجم وهي العدد الإجمالي للبايت في تسلسل البايت ، وسمة النوع ، وهي سلسلة مشفرة بواسطة ASCII في حالة صغيرة تمثل نوع الوسائط لتسلسل البايت . |
-| [ICreateStreamProvider](./icreatestreamprovider/) | يمثل واجهة يمكن تنفيذها بواسطة الفئات التي توفر تدفقات لأجهزة العرض. |
-| [IFile](./ifile/) | كائن الملف هو كائن Blob له سمة اسم ، وهي عبارة عن سلسلة ؛ يمكن إنشاؤه داخل تطبيق الويب عبر مُنشئ ، أو يعد مرجعًا لتسلسل بايت من ملف من نظام الملفات الأساسي (OS). |
-| [IFileList](./ifilelist/) | تمثيل الواجهة لقائمة الملفات . |
-| [IOutputStorage](./ioutputstorage/) | توفير إنشاء وإدارة تدفقات الإخراج[`OutputStream`](../aspose.svg.io/outputstream/) . |
-
-
+| [IBlob](./iblob/) | كائن Blob يشير إلى تسلسل بايتات، وله سمة size التي تمثل إجمالي عدد البايتات في التسلسل، وسمة type التي هي سلسلة مشفرة بـ ASCII بأحرف صغيرة تمثل نوع الوسائط للتسلسل. |
+| [ICreateStreamProvider](./icreatestreamprovider/) | يمثل واجهة يمكن تنفيذها بواسطة فئات توفر تدفقات إلى أجهزة العرض. |
+| [IFile](./ifile/) | كائن File هو كائن Blob مع سمة name، وهي سلسلة؛ يمكن إنشاؤه داخل تطبيق الويب عبر مُنشئ، أو يكون إشارة إلى تسلسل بايتات من ملف في نظام الملفات الأساسي (OS). |
+| [IFileList](./ifilelist/) | يمثل الواجهة لقائمة الملفات. |

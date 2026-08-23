@@ -1,33 +1,31 @@
 ---
-title: SVGPreserveAspectRatio.MeetOrSlice
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPreserveAspectRatio ملكية. نوع قيمة الالتقاء أو الشريحة كما هو محدد بواسطة أحد ثوابت SVG_MEETORSLICE_  المحددة في هذه الواجهة.
+title: "SVGPreserveAspectRatio.MeetOrSlice"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGPreserveAspectRatio MeetOrSlice خاصية. النوع لقيمة meet-or-slice كما هو محدد بأحد الثوابت SVG_MEETORSLICE_ المعرفة في هذه الواجهة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.datatypes/svgpreserveaspectratio/meetorslice/
 ---
 ## SVGPreserveAspectRatio.MeetOrSlice property
 
-نوع قيمة الالتقاء أو الشريحة كما هو محدد بواسطة أحد ثوابت SVG_MEETORSLICE_ * المحددة في هذه الواجهة.
+نوع قيمة meet-or-slice كما هو محدد بأحد ثوابت SVG_MEETORSLICE_* المعرفة في هذه الواجهة.
 
 ```csharp
 public ushort MeetOrSlice { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع اللقاء أو الشريحة
+نوع meet-or-slice
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . يتم رفعه عندما يتوافق الكائن مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُرفع عندما يكون الكائن مرتبطًا بصفة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPreserveAspectRatio](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

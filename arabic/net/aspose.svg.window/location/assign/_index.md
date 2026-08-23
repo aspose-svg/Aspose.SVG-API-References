@@ -1,9 +1,9 @@
 ---
-title: Location.Assign
-second_title: Aspose.SVG لمرجع .NET API
-description: Location طريقة. ينتقل إلى الصفحة المحددة.
+title: "Location.Assign"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Location Assign. تنتقل إلى الصفحة المحددة"
 type: docs
-weight: 10
+weight: 100
 url: /ar/net/aspose.svg.window/location/assign/
 ---
 ## Location.Assign method
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.window/location/assign/
 public void Assign(string url)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | url | String | عنوان URL للتنقل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Location](../)
-* مساحة الاسم [Aspose.Svg.Window](../../location/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

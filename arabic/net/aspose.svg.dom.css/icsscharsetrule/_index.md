@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSCharsetRule
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSCharsetRule واجهه المستخدم. تمثل واجهة CSSCharsetRule قاعدةcharset في ورقة أنماط CSS. لا تؤثر قيمة سمة الترميز على ترميز البيانات النصية في كائنات DOM  هذا الترميز دائمًا هو UTF16. بعد تحميل ورقة الأنماط  تكون قيمة سمة الترميز هي القيمة الموجودة في قاعدةcharset. إذا لم يكن هناكcharset في المستند الأصلي  فلن يتم إنشاء CSSCharsetRule. يمكن أيضًا استخدام قيمة سمة التشفير كتلميح للتشفير المستخدم في إنشاء تسلسل لورقة الأنماط.
+title: "واجهة ICSSCharsetRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Css.ICSSCharsetRule interface. تمثل واجهة CSSCharsetRule قاعدة مجموعة أحرف في ورقة أنماط CSS. لا تؤثر قيمة خاصية الترميز (encoding) على ترميز بيانات النص في كائنات DOM؛ هذا الترميز دائمًا UTF-16. بعد تحميل ورقة الأنماط تكون قيمة خاصية الترميز هي القيمة الموجودة في قاعدة مجموعة الأحرف. إذا لم يكن هناك مجموعة أحرف في المستند الأصلي فلن يتم إنشاء CSSCharsetRule. قد تُستخدم قيمة خاصية الترميز أيضًا كإشارة للترميز المستخدم عند تسلسل ورقة الأنماط."
 type: docs
-weight: 530
+weight: 2530
 url: /ar/net/aspose.svg.dom.css/icsscharsetrule/
 ---
 ## ICSSCharsetRule interface
 
-تمثل واجهة CSSCharsetRule قاعدةcharset في ورقة أنماط CSS. لا تؤثر قيمة سمة الترميز على ترميز البيانات النصية في كائنات DOM ؛ هذا الترميز دائمًا هو UTF-16. بعد تحميل ورقة الأنماط ، تكون قيمة سمة الترميز هي القيمة الموجودة في قاعدةcharset. إذا لم يكن هناكcharset في المستند الأصلي ، فلن يتم إنشاء CSSCharsetRule. يمكن أيضًا استخدام قيمة سمة التشفير كتلميح للتشفير المستخدم في إنشاء تسلسل لورقة الأنماط.
+تمثل واجهة CSSCharsetRule قاعدة @charset في ورقة أنماط CSS. لا يؤثر قيمة سمة الترميز على ترميز بيانات النص في كائنات DOM؛ هذا الترميز دائمًا UTF-16. بعد تحميل ورقة الأنماط، تكون قيمة سمة الترميز هي القيمة الموجودة في قاعدة @charset. إذا لم توجد قاعدة @charset في المستند الأصلي، فلن يتم إنشاء CSSCharsetRule. قد تُستخدم قيمة سمة الترميز أيضًا كإشارة للترميز المستخدم عند تسلسل ورقة الأنماط.
 
 ```csharp
 public interface ICSSCharsetRule : ICSSRule
@@ -16,14 +16,12 @@ public interface ICSSCharsetRule : ICSSRule
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Encoding](../../aspose.svg.dom.css/icsscharsetrule/encoding/) { get; set; } | معلومات الترميز المستخدمة في قاعدةcharset . |
+| [Encoding](../../aspose.svg.dom.css/icsscharsetrule/encoding/) { get; set; } | معلومات الترميز المستخدمة في قاعدة @charset هذه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../icssrule/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

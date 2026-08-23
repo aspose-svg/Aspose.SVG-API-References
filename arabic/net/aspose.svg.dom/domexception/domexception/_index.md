@@ -1,48 +1,46 @@
 ---
-title: DOMException.DOMException
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException البناء. يقوم بتهيئة مثيل جديد لملفDOMException فئة .
+title: "DOMException"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ DOMException. يهيئ نسخة جديدة من فئة DOMException"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/domexception/domexception/
 ---
-## DOMException(string) {#constructor}
+## DOMException(*string*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`DOMException`](../) فئة .
+يهيئ نسخة جديدة من فئة [`DOMException`](../).
 
 ```csharp
 public DOMException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ. |
+| رسالة | String | رسالة الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## DOMException(string, string) {#constructor_1}
+## DOMException(*string, string*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`DOMException`](../) فئة .
+يهيئ نسخة جديدة من فئة [`DOMException`](../).
 
 ```csharp
 public DOMException(string name, string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الخطأ. |
-| message | String | رسالة الخطأ. |
+| الاسم | String | اسم الخطأ. |
+| رسالة | String | رسالة الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

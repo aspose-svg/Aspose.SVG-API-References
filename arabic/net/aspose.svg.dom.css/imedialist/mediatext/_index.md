@@ -1,7 +1,7 @@
 ---
-title: IMediaList.MediaText
-second_title: Aspose.SVG لمرجع .NET API
-description: IMediaList ملكية. التمثيل النصي القابل للتحليل لقائمة الوسائط. هذه قائمة وسائط مفصولة بفواصل.
+title: "IMediaList.MediaText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MediaText في IMediaList. التمثيل النصي القابل للتحليل لقائمة الوسائط. هذه قائمة وسائط مفصولة بفواصل"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/imedialist/mediatext/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom.css/imedialist/mediatext/
 public string MediaText { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IMediaList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../imedialist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

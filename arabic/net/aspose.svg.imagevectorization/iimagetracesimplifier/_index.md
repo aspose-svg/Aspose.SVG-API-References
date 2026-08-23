@@ -1,9 +1,9 @@
 ---
-title: Interface IImageTraceSimplifier
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.IImageTraceSimplifier واجهه المستخدم. واجهة IImageTraceSimplifier مسؤولة عن تقليل النقاط في التتبع.
+title: "واجهة IImageTraceSimplifier"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.ImageVectorization.IImageTraceSimplifier. الواجهة IImageTraceSimplifier مسؤولة عن تقليل عدد النقاط في الأثر."
 type: docs
-weight: 2090
+weight: 4160
 url: /ar/net/aspose.svg.imagevectorization/iimagetracesimplifier/
 ---
 ## IImageTraceSimplifier interface
@@ -14,15 +14,13 @@ url: /ar/net/aspose.svg.imagevectorization/iimagetracesimplifier/
 public interface IImageTraceSimplifier
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify/)(IEnumerable&lt;PointF&gt;) | تقليل عدد النقاط في التتبع. |
+| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify/)(*IEnumerable&lt;PointF&gt;*) | يقلل عدد النقاط في الأثر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

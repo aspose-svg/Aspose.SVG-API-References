@@ -1,27 +1,25 @@
 ---
-title: MimeType.MimeType
-second_title: Aspose.SVG لمرجع .NET API
-description: MimeType البناء. تهيئة مثيل جديد من نوع MIME بناءً على قيمة السلسلة المتسلسلة.
+title: "MimeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ MimeType. يهيئ نسخة جديدة من نوع MIME بناءً على قيمة سلسلة مُسلسلة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/mimetype/mimetype/
 ---
 ## MimeType constructor
 
-تهيئة مثيل جديد من نوع MIME بناءً على قيمة السلسلة المتسلسلة.
+يُنشئ نسخة جديدة من نوع MIME بناءً على قيمة سلسلة مُسلسلة.
 
 ```csharp
 public MimeType(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| القيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

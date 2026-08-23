@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.SystemLanguage
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMaskElement ملكية. يتوافق مع السمة systemLanguage على العنصر المحدد.
+title: "SVGMaskElement.SystemLanguage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGMaskElement SystemLanguage. تتطابق مع السمة systemLanguage في العنصر المعطى."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgmaskelement/systemlanguage/
 ---
 ## SVGMaskElement.SystemLanguage property
 
-يتوافق مع السمة "systemLanguage" على العنصر المحدد.
+يتطابق مع السمة ‘systemLanguage’ على العنصر المعطى.
 
 ```csharp
 public SVGStringList SystemLanguage { get; }
 ```
 
-### Property_Value
+### Property Value
 
-لغة النظام .
+لغة النظام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGMaskElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgmaskelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

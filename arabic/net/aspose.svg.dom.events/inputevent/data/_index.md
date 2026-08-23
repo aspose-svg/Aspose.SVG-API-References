@@ -1,27 +1,25 @@
 ---
-title: InputEvent.Data
-second_title: Aspose.SVG لمرجع .NET API
-description: InputEvent ملكية. تحتفظ البيانات بقيمة الأحرف التي تم إنشاؤها بواسطة أسلوب الإدخال. قد يكون هذا حرف Unicode واحدًا أو سلسلة غير فارغة من أحرف Unicode Unicode. يجب تطبيع الأحرف على النحو المحدد في نموذج تسوية Unicode NFC  المحدد في UAX15. قد تحتوي هذه السمة على سلسلة فارغة.
+title: "InputEvent.Data"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية InputEvent Data. البيانات تحتفظ بقيمة الأحرف التي يولدها طريقة إدخال. قد تكون هذه قيمة حرف Unicode واحد أو تسلسل غير فارغ من أحرف Unicode. يجب أن تُطبع الأحرف وفقًا لنموذج التطبيع Unicode NFC كما هو معرف في UAX15. قد يحتوي هذا السمة على سلسلة فارغة."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.events/inputevent/data/
 ---
 ## InputEvent.Data property
 
-تحتفظ البيانات بقيمة الأحرف التي تم إنشاؤها بواسطة أسلوب الإدخال. قد يكون هذا حرف Unicode واحدًا أو سلسلة غير فارغة من أحرف Unicode [Unicode]. يجب تطبيع الأحرف على النحو المحدد في نموذج تسوية Unicode NFC ، المحدد في [UAX15]. قد تحتوي هذه السمة على سلسلة فارغة.
+تحمل البيانات قيمة الأحرف التي يولدها أسلوب الإدخال. قد تكون هذه قيمة حرف يونيكود واحد أو تسلسل غير فارغ من أحرف يونيكود [Unicode]. يجب تطبيع الأحرف كما هو محدد في نموذج التطبيع يونيكود NFC، المُعرّف في [UAX15]. قد يحتوي هذا السمة على سلسلة فارغة.
 
 ```csharp
 public string Data { get; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات الحدث .
+بيانات الحدث.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InputEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../inputevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

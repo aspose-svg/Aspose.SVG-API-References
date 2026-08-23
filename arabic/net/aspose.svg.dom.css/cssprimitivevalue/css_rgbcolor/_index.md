@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_RGBCOLOR
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي لون RGB. يمكن الحصول على القيمة باستخدام طريقة GetRGBColorValue.
+title: "CSSPrimitiveValue.CSS_RGBCOLOR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_RGBCOLOR. القيمة هي لون RGB. يمكن الحصول على القيمة باستخدام طريقة GetRGBColorValue method"
 type: docs
-weight: 370
+weight: 380
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_rgbcolor/
 ---
 ## CSSPrimitiveValue.CSS_RGBCOLOR field
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_rgbcolor/
 public const ushort CSS_RGBCOLOR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

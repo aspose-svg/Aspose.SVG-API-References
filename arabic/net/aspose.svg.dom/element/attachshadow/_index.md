@@ -1,40 +1,38 @@
 ---
-title: Element.AttachShadow
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. لإنشاء جذر الظل وإرفاقه بالعنصر الحالي.
+title: "Element.AttachShadow"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element AttachShadow. تنشئ جذر الظل وتربطه بالعنصر الحالي"
 type: docs
-weight: 230
+weight: 220
 url: /ar/net/aspose.svg.dom/element/attachshadow/
 ---
 ## Element.AttachShadow method
 
-لإنشاء جذر الظل وإرفاقه بالعنصر الحالي.
+ينشئ shadow root ويُرفقه بالعنصر الحالي.
 
 ```csharp
 public ShadowRoot AttachShadow(ShadowRootMode mode)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| mode | ShadowRootMode | الوضع الذي سيتم فيه إنشاء جذر الظل. |
+| mode | ShadowRootMode | الوضع الذي سيتم إنشاء جذر الظل فيه. |
 
 ### قيمة الإرجاع
 
-مخلوق[`ShadowRoot`](../../shadowroot/).
+تم الإنشاء [`ShadowRoot`](../../shadowroot/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| Error | NotSupportedError: العنصر لا يدعم شجرة الظل. |
-| Error | InvalidStateError: يحتوي العنصر بالفعل على شجرة ظل. |
+| خطأ | NotSupportedError: العنصر لا يدعم شجرة الظل. |
+| خطأ | InvalidStateError: العنصر يحتوي بالفعل على شجرة ظل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

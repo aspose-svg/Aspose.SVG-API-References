@@ -1,27 +1,31 @@
 ---
-title: Node.NodeValue
-second_title: Aspose.SVG لمرجع .NET API
-description: Node ملكية. قيمة هذه العقدة حسب نوعها.
+title: "Node.NodeValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Node NodeValue. تُرجع أو تعين قيمة العقدة الحالية"
 type: docs
-weight: 110
+weight: 100
 url: /ar/net/aspose.svg.dom/node/nodevalue/
 ---
 ## Node.NodeValue property
 
-قيمة هذه العقدة حسب نوعها.
+يعيد أو يضبط قيمة العقدة الحالية.
 
 ```csharp
 public virtual string NodeValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة العقدة .
+سلسلة تحتوي على قيمة العقدة الحالية، إن وجدت. بالنسبة للمستند نفسه، `NodeValue` تُرجع null. بالنسبة لعقد النص، التعليق، وCDATA، `NodeValue` تُرجع محتوى العقدة. بالنسبة لعقد السمات، تُرجع قيمة السمة.
 
-### أنظر أيضا
+## ملاحظات
+
+المرجع:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nodevalue).
+
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

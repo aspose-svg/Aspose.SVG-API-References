@@ -1,23 +1,21 @@
 ---
-title: SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMAXYMAX
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPreserveAspectRatio مجال. يتوافق مع القيمة xMaxYMax للسمة saveAspectRatio .
+title: "SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMAXYMAX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGPreserveAspectRatio SVG_PRESERVEASPECTRATIO_XMAXYMAX. يتطابق مع القيمة xMaxYMax للخاصية preserveAspectRatio"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymax/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMAXYMAX field
 
-يتوافق مع القيمة "xMaxYMax" للسمة "saveAspectRatio" .
+يتطابق مع القيمة 'xMaxYMax' للخاصية ‘preserveAspectRatio’.
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_XMAXYMAX;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPreserveAspectRatio](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

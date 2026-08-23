@@ -1,14 +1,14 @@
 ---
-title: Color.GetHue
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع تدرج اللون.
+title: "Color.GetHue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color GetHue. تُعيد درجة اللون للون"
 type: docs
 weight: 330
 url: /ar/net/aspose.svg.drawing/color/gethue/
 ---
 ## Color.GetHue method
 
-إرجاع تدرج اللون.
+يعيد قيمة Hue للون.
 
 ```csharp
 public float GetHue()
@@ -16,12 +16,10 @@ public float GetHue()
 
 ### قيمة الإرجاع
 
-هوى اللون.
+درجة لون للون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

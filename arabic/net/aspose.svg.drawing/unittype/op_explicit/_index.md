@@ -1,31 +1,29 @@
 ---
-title: UnitType.op_Explicit
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType طريقة. يقوم بإجراء تحويل صريح منUnitType لString .
+title: "UnitType.op_Explicit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة UnitType op_Explicit. تقوم بتحويل صريح من UnitType إلى String."
 type: docs
 weight: 350
 url: /ar/net/aspose.svg.drawing/unittype/op_explicit/
 ---
 ## UnitType Explicit operator
 
-يقوم بإجراء تحويل صريح من[`UnitType`](../) لString .
+يقوم بتحويل صريح من [`UnitType`](../) إلى String.
 
 ```csharp
 public static explicit operator string(UnitType value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | UnitType | القيمة. |
+| القيمة | UnitType | القيمة. |
 
 ### قيمة الإرجاع
 
-نتيجة التحويل .
+نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

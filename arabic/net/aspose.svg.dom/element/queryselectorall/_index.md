@@ -1,20 +1,20 @@
 ---
-title: Element.QuerySelectorAll
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. إرجاع قائمة NodeList لجميع العناصر الموجودة في المستند  والتي تطابق selector
+title: "Element.QuerySelectorAll"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Element QuerySelectorAll method. تُرجع NodeList لجميع العناصر في المستند التي تتطابق مع المحدد."
 type: docs
 weight: 350
 url: /ar/net/aspose.svg.dom/element/queryselectorall/
 ---
 ## Element.QuerySelectorAll method
 
-إرجاع قائمة NodeList لجميع العناصر الموجودة في المستند ، والتي تطابق selector
+تُرجع NodeList لجميع Elements في المستند التي تطابق المحدد.
 
 ```csharp
 public NodeList QuerySelectorAll(string selector)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | selector | String | المحدد |
 
@@ -22,11 +22,9 @@ public NodeList QuerySelectorAll(string selector)
 
 [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

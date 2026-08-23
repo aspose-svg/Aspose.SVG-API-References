@@ -1,42 +1,40 @@
 ---
-title: EventTarget.DispatchEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: EventTarget طريقة. تسمح هذه الطريقة بإرسال الأحداث إلى نموذج حدث عمليات التنفيذ.
+title: "EventTarget.DispatchEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة EventTarget DispatchEvent. تُرسل حدثًا إلى IEventTarget المحدد بشكل متزامن مع استدعاء مستمعي الأحداث المتأثرين بالترتيب المناسب. تنطبق قواعد معالجة الأحداث العادية بما في ذلك مرحلة الالتقاط والفقاعة الاختيارية أيضًا على الأحداث التي تُرسل يدويًا باستخدام DispatchEvent"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.svg.dom/eventtarget/dispatchevent/
 ---
 ## EventTarget.DispatchEvent method
 
-تسمح هذه الطريقة بإرسال الأحداث إلى نموذج حدث عمليات التنفيذ.
+يُرسل حدثًا إلى [`IEventTarget`](../../../aspose.svg.dom.events/ieventtarget/)، (متزامنًا) مع استدعاء مستمعي الأحداث المتأثرين بالترتيب المناسب. تنطبق قواعد معالجة الأحداث العادية (بما في ذلك مرحلة الالتقاط والفقاعة الاختيارية) أيضًا على الأحداث التي تُرسل يدويًا باستخدام [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/).
 
 ```csharp
 public bool DispatchEvent(Event @event)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| event | Event | يحدد نوع الحدث والسلوك والمعلومات السياقية التي سيتم استخدامها في معالجة الحدث. |
+| حدث | حدث | يحدد نوع الحدث والسلوك والمعلومات السياقية التي ستُستخدم في معالجة الحدث. |
 
 ### قيمة الإرجاع
 
-القيمة المرجعة لـ`DispatchEvent` يشير إلى ما إذا تم استدعاء أي من المستمعين الذين تعاملوا مع الحدث[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) . إذا[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) كان يسمى القيمة خاطئة ، وإلا كانت القيمة صحيحة .
+قيمة الإرجاع لـ `DispatchEvent` تشير إلى ما إذا كان أي من المستمعين الذين عالجوا الحدث قد استدعوا [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/). إذا تم استدعاء [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) تكون القيمة false، وإلا تكون القيمة true.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [DOMException](../../domexception/) |  |
 
-### ملاحظات
+## ملاحظات
 
-الأحداث المرسلة بهذه الطريقة سيكون لها نفس سلوك الالتقاط والفقاعات مثل الأحداث المرسلة مباشرة بواسطة التنفيذ. الهدف من الحدث هو[`EventTarget`](../) التي`DispatchEvent` يسمى .
+الأحداث التي تُرسل بهذه الطريقة ستحظى بنفس سلوك الالتقاط والفقاعة كما الأحداث التي تُرسل مباشرةً بواسطة التنفيذ. هدف الحدث هو [`EventTarget`](../) الذي يُستدعى عليه `DispatchEvent`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [EventTarget](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../eventtarget/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

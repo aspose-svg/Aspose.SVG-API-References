@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.Width
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPatternElement ملكية. يتوافق مع السمة العرض على عنصر النمط المحدد .
+title: "SVGPatternElement.Width"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Width لـ SVGPatternElement. تتطابق مع السمة width على عنصر النمط المعطى"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg/svgpatternelement/width/
 ---
 ## SVGPatternElement.Width property
 
-يتوافق مع السمة "العرض" على عنصر "النمط" المحدد .
+يتطابق مع السمة ‘width’ في العنصر ‘pattern’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "العرض" لعنصر "النمط" المحدد .
+السمة ‘width’ للعنصر ‘pattern’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpatternelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: CDATASection.NodeType
-second_title: Aspose.SVG لمرجع .NET API
-description: CDATASection ملكية. رمز يمثل نوع الكائن الأساسي.
+title: "CDATASection.NodeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CDATASection NodeType. رمز يمثل نوع الكائن الأساسي"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/cdatasection/nodetype/
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.dom/cdatasection/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع العقدة .
+نوع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CDATASection](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../cdatasection/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

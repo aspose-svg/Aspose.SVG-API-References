@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Type
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETurbulenceElement ملكية. يتوافق مع السمة type على عنصر feTurbulence المحدد. يأخذ أحد ثوابت SVG_TURBULENCE_TYPE_  المحددة في هذه الواجهة .
+title: "SVGFETurbulenceElement.Type"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Type في SVGFETurbulenceElement. تتطابق مع السمة type في عنصر feTurbulence المحدد. تأخذ واحدة من الثوابت SVG_TURBULENCE_TYPE_ المعرفة في هذه الواجهة."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.filters/svgfeturbulenceelement/type/
 ---
 ## SVGFETurbulenceElement.Type property
 
-يتوافق مع السمة "type" على عنصر "feTurbulence" المحدد. يأخذ أحد ثوابت SVG_TURBULENCE_TYPE_ * المحددة في هذه الواجهة .
+يتطابق مع السمة ‘type’ في العنصر ‘feTurbulence’ المحدد. يأخذ أحد ثابتات SVG_TURBULENCE_TYPE_* المعرفة في هذه الواجهة.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "النوع" لعنصر "feTurbulence" المحدد .
+السمة ‘type’ لعنصر ‘feTurbulence’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFETurbulenceElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

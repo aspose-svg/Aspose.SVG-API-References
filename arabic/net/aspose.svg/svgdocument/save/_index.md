@@ -1,241 +1,327 @@
 ---
-title: SVGDocument.Save
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGDocument طريقة. يحفظ المستند في الملف المحلي المحدد بواسطةعنوان url . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور  والذي سيتم إنشاء اسمه على النحو التالي output_file_name  _files .
+title: "SVGDocument.Save"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Save في SVGDocument. تحفظ المستند إلى ملف محلي محدد بواسطة url. سيتم حفظ جميع الموارد المستخدمة في هذا المستند في مجلد مجاور يُنشأ اسمه كـ output_file_name _files. إذا انتهى url المحدد بـ .svgz سيتم حفظ المستند كملف SVGZ مضغوط"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg/svgdocument/save/
 ---
-## Save(Url) {#save_3}
+## Save(*[Url](../../url/)*) {#save_4}
 
-يحفظ المستند في الملف المحلي المحدد بواسطة`عنوان url` . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور ، والذي سيتم إنشاء اسمه على النحو التالي: output_file_name + "_files" .
+يحفظ المستند إلى ملف محلي محدد بـ `url`. سيتم حفظ جميع الموارد المستخدمة في هذا المستند في مجلد مجاور، يُنشأ اسمه كالتالي: output_file_name + \"_files\". إذا انتهى `url` المحدد بـ ".svgz"، سيتم حفظ المستند كملف SVGZ مضغوط.
 
 ```csharp
 public void Save(Url url)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| url | Url | URL المحلي لملف الإخراج. |
+| url | عنوان URL | URL محلي لملف الإخراج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | أثار إذا كان المحدد`عنوان url` ليس عنوان URL صالحًا للملف المحلي. |
+| ArgumentException | يُرفع إذا كان `url` المحدد ليس عنوان URL ملف محلي صالح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string) {#save_6}
+## Save(*string*) {#save_8}
 
-يحفظ المستند في الملف المحلي المحدد بواسطة`طريق` . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور ، والذي سيتم إنشاء اسمه على النحو التالي: output_file_name + "_files" .
+يحفظ المستند إلى ملف محلي محدد بالمسار `path`. سيتم حفظ جميع الموارد المستخدمة في هذا المستند في مجلد مجاور، يُنشأ اسمه كالتالي: output_file_name + \"_files\". إذا انتهى `url` المحدد بـ ".svgz"، سيتم حفظ المستند كملف SVGZ مضغوط.
 
 ```csharp
 public void Save(string path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | المسار المحلي لملف الإخراج. |
+| path | String | مسار محلي لملف الإخراج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | أثار إذا كان المحدد`طريق` ليس مسار ملف محلي صالحًا. |
+| ArgumentException | يُرفع إذا كان `path` المحدد ليس مسار ملف محلي صالح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage) {#save}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)*) {#save}
 
-يحفظ محتوى الوثيقة والموارد في تخزين المخرجات.
+يحفظ محتوى المستند والموارد باستخدام [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
 ```csharp
-public void Save(IOutputStorage outputStorage)
+public void Save(ResourceHandler resourceHandler)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | معالج الموارد [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string, SVGSaveFormat) {#save_7}
+## Save(*string, [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_9}
 
-يحفظ المستند في الملف المحلي المحدد بواسطة`طريق` . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور ، والذي سيتم إنشاء اسمه على النحو التالي: output_file_name + "_files" .
+يحفظ المستند إلى ملف محلي محدد بواسطة `path`. سيتم حفظ جميع الموارد المستخدمة في هذا المستند في مجلد مجاور، سيتم إنشاء اسمه كالتالي: output_file_name + "_files".
 
 ```csharp
 public void Save(string path, SVGSaveFormat saveFormat)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | المسار المحلي لملف الإخراج. |
-| saveFormat | SVGSaveFormat | التنسيق الذي يتم حفظ المستند به. |
+| path | String | مسار محلي لملف الإخراج. |
+| saveFormat | SVGSaveFormat | التنسيق الذي يُحفظ به المستند. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | أثار إذا كان المحدد`طريق` ليس مسار ملف محلي صالحًا. |
+| ArgumentException | يُرفع إذا كان `path` المحدد ليس مسار ملف محلي صالح. |
+| ArgumentOutOfRangeException | يُرفع عندما تكون قيمة *saveFormat* المحددة غير معروفة من قبل التنفيذ الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage, SVGSaveFormat) {#save_1}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_1}
 
-يحفظ محتوى الوثيقة والموارد في تخزين المخرجات.
+يحفظ محتوى المستند والموارد باستخدام [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
 ```csharp
-public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
+public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
-| saveFormat | SVGSaveFormat | التنسيق الذي يتم حفظ المستند به. |
+| resourceHandler | ResourceHandler | معالج الموارد [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/). |
+| saveFormat | SVGSaveFormat | التنسيق الذي يُحفظ به المستند. |
 
-### أنظر أيضا
+### استثناءات
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+| استثناء | شرط |
+| --- | --- |
+| ArgumentOutOfRangeException | يُرفع عندما تكون قيمة *saveFormat* المحددة غير معروفة من قبل التنفيذ الحالي. |
+
+### انظر أيضًا
+
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string, SVGSaveOptions) {#save_8}
+## Save(*string, [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_10}
 
-يحفظ المستند في الملف المحلي المحدد بواسطة`طريق` . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور ، والذي سيتم إنشاء اسمه على النحو التالي: output_file_name + "_files" .
+يحفظ المستند كملف `.svg` إلى المسار المحلي المحدد بواسطة *path*. يتم كتابة أي موارد خارجية إلى مجلد شقيق يُسمى `{output_file_name}_files`.
 
 ```csharp
 public void Save(string path, SVGSaveOptions saveOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | المسار المحلي لملف الإخراج. |
-| saveOptions | SVGSaveOptions | خيارات حفظ SVG. |
+| path | String | المسار المطلق أو النسبي للملف `.svg` المستهدف. |
+| saveOptions | SVGSaveOptions | الخيارات التي تتحكم في تسلسل plain-SVG. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | أثار إذا كان المحدد`طريق` ليس مسار ملف محلي صالحًا. |
+| ArgumentException | يُرمى إذا *path* ليس مسار ملف محلي صالح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage, SVGSaveOptions) {#save_2}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_2}
 
-يحفظ محتوى الوثيقة والموارد في تخزين المخرجات.
+يحفظ محتوى المستند والموارد باستخدام [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
 
 ```csharp
-public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
+public void Save(ResourceHandler resourceHandler, SVGSaveOptions saveOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | معالج الموارد [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/). |
 | saveOptions | SVGSaveOptions | خيارات حفظ SVG. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(Url, SVGSaveFormat) {#save_4}
+## Save(*[Url](../../url/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_5}
 
-يحفظ المستند في الملف المحلي المحدد بواسطة`عنوان url` . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور ، والذي سيتم إنشاء اسمه على النحو التالي: output_file_name + "_files" .
+يحفظ المستند إلى ملف محلي محدد بـ `url`. سيتم حفظ جميع الموارد المستخدمة في هذا المستند في مجلد مجاور، سيكون اسمه مُنشأ كالتالي: output_file_name + "_files".
 
 ```csharp
 public void Save(Url url, SVGSaveFormat saveFormat)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| url | Url | URL المحلي لملف الإخراج. |
-| saveFormat | SVGSaveFormat | التنسيق الذي يتم حفظ المستند به. |
+| url | عنوان URL | URL محلي لملف الإخراج. |
+| saveFormat | SVGSaveFormat | التنسيق الذي يُحفظ به المستند. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | أثار إذا كان المحدد`عنوان url` ليس عنوان URL صالحًا للملف المحلي. |
+| ArgumentException | يُرمى عندما *url* لا يمثل موقع ملف محلي صالح (مثال: يكون null أو نسبيًا أو يشير إلى مخطط غير ملف). |
+| ArgumentOutOfRangeException | يُرمى عندما لا يتم التعرف على قيمة *saveFormat* المقدمة من قبل التنفيذ الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../../url/)
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(Url, SVGSaveOptions) {#save_5}
+## Save(*[Url](../../url/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_6}
 
-يحفظ المستند في الملف المحلي المحدد بواسطة`عنوان url` . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور ، والذي سيتم إنشاء اسمه على النحو التالي: output_file_name + "_files" .
+يحفظ المستند كملف `.svg` إلى *url*. يتم وضع جميع الموارد الخارجية في مجلد شقيق يُسمى `{output_file_name}_files`.
 
 ```csharp
 public void Save(Url url, SVGSaveOptions saveOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| url | Url | URL المحلي لملف الإخراج. |
-| saveOptions | SVGSaveOptions | خيارات حفظ SVG. |
+| url | عنوان URL | المسار المحلي للملف `.svg` المستهدف. |
+| saveOptions | SVGSaveOptions | الخيارات التي تتحكم في تسلسل plain-SVG. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | أثار إذا كان المحدد`عنوان url` ليس عنوان URL صالحًا للملف المحلي. |
+| ArgumentException | يُرمى إذا *url* ليس مسار ملف محلي صالح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../../url/)
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
+---
 
+## Save(*[Url](../../url/), [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_7}
+
+يحفظ المستند كملف `.svgz` مضغوط إلى *url*. يتم وضع جميع الموارد الخارجية في مجلد شقيق يُسمى `{output_file_name}_files`.
+
+```csharp
+public void Save(Url url, SVGZSaveOptions saveOptions)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| url | عنوان URL | المسار المحلي للملف `.svgz` المستهدف. |
+| saveOptions | SVGZSaveOptions | الخيارات التي تتحكم في تسلسل SVGZ. |
+
+### استثناءات
+
+| استثناء | شرط |
+| --- | --- |
+| ArgumentException | يُرمى إذا *url* ليس مسار ملف محلي صالح. |
+
+### انظر أيضًا
+
+* class [Url](../../url/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_3}
+
+يحفظ محتوى المستند والموارد المرتبطة باستخدام [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/).
+
+```csharp
+public void Save(ResourceHandler resourceHandler, SVGZSaveOptions saveOptions)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| resourceHandler | ResourceHandler | معالج الموارد لإدارة موارد المستند، مثل نظام الملفات أو التخزين القائم على الذاكرة. |
+| saveOptions | SVGZSaveOptions | الخيارات التي تحدد معلمات حفظ إضافية، مثل تفضيلات التحويل إلى متجهات. |
+
+### انظر أيضًا
+
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*string, [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_11}
+
+يحفظ المستند كملف `.svgz` مضغوط إلى المسار المحلي المحدد بواسطة *path*. يتم كتابة أي موارد خارجية إلى مجلد شقيق يُسمى `{output_file_name}_files`.
+
+```csharp
+public void Save(string path, SVGZSaveOptions saveOptions)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| path | String | المسار المطلق أو النسبي للملف `.svgz` المستهدف. |
+| saveOptions | SVGZSaveOptions | الخيارات التي تتحكم في تسلسل SVGZ. |
+
+### استثناءات
+
+| استثناء | شرط |
+| --- | --- |
+| ArgumentException | يُرمى إذا *path* ليس مسار ملف محلي صالح. |
+
+### انظر أيضًا
+
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

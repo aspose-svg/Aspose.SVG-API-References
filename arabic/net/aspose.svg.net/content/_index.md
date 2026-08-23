@@ -1,9 +1,9 @@
 ---
-title: Class Content
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.Content فصل. يمثل فئة أساسية لجسم كيان HTTP ورؤوس المحتوى.
+title: "فئة المحتوى"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.Content. يمثل فئة أساسية لجسم كيان HTTP ورؤوس المحتوى"
 type: docs
-weight: 2230
+weight: 4300
 url: /ar/net/aspose.svg.net/content/
 ---
 ## Content class
@@ -16,22 +16,20 @@ public abstract class Content : IDisposable
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | الحصول على رؤوس محتوى HTTP . |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | يحصل على رؤوس محتوى HTTP. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | تسلسل محتوى HTTP وإرجاع دفق يمثل المحتوى. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | تسلسل محتوى HTTP وإرجاع سلسلة تمثل المحتوى. |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | سلسل محتوى HTTP وأرجع مصفوفة بايت تمثل المحتوى. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | سلسل محتوى HTTP وأرجع تدفقًا يمثل المحتوى. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | سلسل محتوى HTTP وأرجع سلسلة تمثل المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Class SVGDefsElement
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.SVGDefsElement فصل. تتوافق واجهة SVGDefsElement مع عنصر defs.
+title: "فئة SVGDefsElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.SVGDefsElement. تتطابق واجهة SVGDefsElement مع عنصر defs."
 type: docs
-weight: 3170
+weight: 5240
 url: /ar/net/aspose.svg/svgdefselement/
 ---
 ## SVGDefsElement class
 
-تتوافق واجهة SVGDefsElement مع عنصر "defs".
+واجهة SVGDefsElement تتطابق مع العنصر ‘defs’.
 
 ```csharp
 public class SVGDefsElement : SVGGraphicsElement
@@ -16,109 +16,106 @@ public class SVGDefsElement : SVGGraphicsElement
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Attributes](../../aspose.svg.dom/element/attributes/) { get; } | خريطة NamedNodeMap تحتوي على سمات هذه العقدة (إذا كانت عنصرًا) أو خالية بخلاف ذلك. |
-| virtual [BaseURI](../../aspose.svg.dom/node/baseuri/) { get; } | URI الأساسي المطلق لهذه العقدة أو فارغ إذا لم يتمكن التطبيق من الحصول على URI مطلق. |
-| [ChildElementCount](../../aspose.svg.dom/element/childelementcount/) { get; } | إرجاع العدد الحالي لعقد العناصر التي هي عناصر فرعية لهذا العنصر. 0 إذا كان هذا العنصر لا يحتوي على عقد فرعية من نوع العقدة 1. |
-| [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | قائمة NodeList التي تحتوي على كافة توابع هذه العقدة. إذا لم يكن هناك أطفال ، فهذه قائمة NodeList لا تحتوي على عقد .. |
-| [Children](../../aspose.svg.dom/element/children/) { get; } | إرجاع العناصر الفرعية للعنصر الحالي. |
-| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } | إرجاع قائمة DOMTokenList الحية التي تحتوي على الرموز المميزة المستلمة من تحليل سمة "class" . |
-| [ClassName](../../aspose.svg/svgelement/classname/) { get; } | يتوافق مع السمة "class" في العنصر المحدد. |
-| [ClassName](../../aspose.svg.dom/element/classname/) { get; set; } | سمة الفئة الخاصة بالعنصر. تمت إعادة تسمية هذه السمة due لتعارضها مع الكلمة الأساسية "class" التي تعرضها العديد من اللغات. راجع تعريف سمة الفئة في HTML 4.01. |
-| [FarthestViewportElement](../../aspose.svg/svggraphicselement/farthestviewportelement/) { get; } | أبعد عنصر "svg" للأصل. لاغية إذا كان العنصر الحالي هو العنصر الأبعد svg . |
-| [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | الطفل الأول لهذه العقدة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية. |
-| [FirstElementChild](../../aspose.svg.dom/element/firstelementchild/) { get; } | إرجاع أول عقدة عنصر فرعي لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عناصر فرعية. |
-| [Id](../../aspose.svg/svgelement/id/) { get; set; } | قيمة سمة "id" في العنصر المحدد ، أو السلسلة الفارغة إذا لم يكن "id" موجودًا . |
-| [InnerHTML](../../aspose.svg.dom/element/innerhtml/) { get; set; } | إرجاع جزء من HTML أو XML يمثل محتويات العنصر. يمكن تعيينه لاستبدال محتويات العنصر بالعقد التي تم تحليلها من السلسلة المحددة. |
-| [LastChild](../../aspose.svg.dom/node/lastchild/) { get; } | آخر تابع لهذه العقدة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية. |
-| [LastElementChild](../../aspose.svg.dom/element/lastelementchild/) { get; } | إرجاع آخر عقدة عنصر فرعي لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عناصر فرعية. |
-| override [LocalName](../../aspose.svg.dom/element/localname/) { get; } | إرجاع الجزء المحلي من الاسم المؤهل لهذه العقدة . بالنسبة للعقد من أي نوع بخلاف ELEMENT_NODE و ATTRIBUTE_NODE والعقد التي تم إنشاؤها باستخدام طريقة DOM من المستوى 1 ، مثل Document.createElement () ، يكون هذا دائمًا فارغًا. |
-| override [NamespaceURI](../../aspose.svg.dom/element/namespaceuri/) { get; } | معرف مساحة الاسم لهذه العقدة ، أو فارغ إذا كانت غير محددة. |
-| [NearestViewportElement](../../aspose.svg/svggraphicselement/nearestviewportelement/) { get; } | العنصر الذي أنشأ إطار العرض الحالي. في كثير من الأحيان ، أقرب عنصر "svg" سلف. لاغية إذا كان العنصر الحالي هو العنصر الأبعد svg . |
-| [NextElementSibling](../../aspose.svg.dom/element/nextelementsibling/) { get; } | إرجاع عقدة العنصر الشقيقة التالية لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عقد شقيقة لعنصر تأتي بعد هذا في شجرة المستند. |
-| [NextSibling](../../aspose.svg.dom/node/nextsibling/) { get; } | العقدة التي تلي هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية. |
-| override [NodeName](../../aspose.svg.dom/element/nodename/) { get; } | اسم هذه العقدة حسب نوعها. |
+| [Attributes](../../aspose.svg.dom/element/attributes/) { get; } | خريطة NamedNodeMap تحتوي على سمات هذه العقدة (إذا كانت عنصرًا) أو null خلاف ذلك. |
+| virtual [BaseURI](../../aspose.svg.dom/node/baseuri/) { get; } | تُعيد عنوان URL الأساسي المطلق للمستند الذي يحتوي على العقدة. |
+| [ChildElementCount](../../aspose.svg.dom/element/childelementcount/) { get; } | يعيد العدد الحالي لعقد العناصر التي هي أبناء هذا العنصر. 0 إذا لم يكن لهذا العنصر أي عقدة فرعية من نوع nodeType 1. |
+| [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | تُعيد [`NodeList`](../../aspose.svg.collections/nodelist/) حيًا لعقد الأطفال للعنصر المحدد حيث يُعطى أول عقدة طفل الفهرس 0. تشمل عقد الأطفال العناصر والنصوص والتعليقات. |
+| [Children](../../aspose.svg.dom/element/children/) { get; } | يعيد العناصر الفرعية للعنصر الحالي. |
+| [ClassList](../../aspose.svg.dom/element/classlist/) { get; } | يعيد DOMTokenList حي يحتوي على الرموز المستلمة من تحليل السمة \"class\". |
+| [ClassName](../../aspose.svg/svgelement/classname/) { get; } | يتطابق مع السمة ‘class’ على العنصر المعطى. |
+| [ClassName](../../aspose.svg.dom/element/classname/) { get; set; } | سمة class للعنصر. تم إعادة تسمية هذه السمة بسبب التعارض مع كلمة المفتاح \"class\" التي تُظهرها العديد من اللغات. راجع تعريف سمة class في HTML 4.01. |
+| [FarthestViewportElement](../../aspose.svg/svggraphicselement/farthestviewportelement/) { get; } | أبعد سلف لعنصر ‘svg’. Null إذا كان العنصر الحالي هو العنصر svg الخارجي. |
+| [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | تُعيد أول طفل للعقدة في الشجرة، أو null إذا لم تكن للعقدة أي أطفال. |
+| [FirstElementChild](../../aspose.svg.dom/element/firstelementchild/) { get; } | يعيد أول عقدة عنصر فرعي لهذا العنصر. null إذا لم يكن لهذا العنصر أي عناصر فرعية. |
+| [Id](../../aspose.svg/svgelement/id/) { get; set; } | قيمة السمة ‘id’ على العنصر المعطى، أو السلسلة الفارغة إذا لم تكن السمة ‘id’ موجودة. |
+| [InnerHTML](../../aspose.svg.dom/element/innerhtml/) { get; set; } | يعيد جزءًا من HTML أو XML يمثل محتويات العنصر. يمكن تعيينه لاستبدال محتويات العنصر بالعقد التي تم تحليلها من السلسلة المعطاة. |
+| [LastChild](../../aspose.svg.dom/node/lastchild/) { get; } | تُعيد آخر طفل للعقدة. إذا كان والدها عنصرًا، فإن الطفل يكون عادةً عقدة عنصر أو عقدة نص أو عقدة تعليق. تُعيد null إذا لم توجد عناصر طفل. |
+| [LastElementChild](../../aspose.svg.dom/element/lastelementchild/) { get; } | يعيد عقدة العنصر الطفل الأخير لهذا العنصر. null إذا لم يكن لهذا العنصر أي عناصر طفل. |
+| override [LocalName](../../aspose.svg.dom/element/localname/) { get; } | تُعيد الجزء المحلي من الاسم المؤهل لهذه العقدة. بالنسبة للعقد من أي نوع غير ELEMENT_NODE و ATTRIBUTE_NODE والعقد التي تم إنشاؤها باستخدام طريقة DOM المستوى 1، مثل Document.createElement()، يكون هذا دائمًا null. |
+| override [NamespaceURI](../../aspose.svg.dom/element/namespaceuri/) { get; } | معرف URI لمساحة الاسم لهذه العقدة، أو null إذا لم يُحدَّد. |
+| [NearestViewportElement](../../aspose.svg/svggraphicselement/nearestviewportelement/) { get; } | العنصر الذي أنشأ مساحة العرض الحالية. غالبًا ما يكون أقرب سلف لعنصر ‘svg’. Null إذا كان العنصر الحالي هو العنصر svg الخارجي. |
+| [NextElementSibling](../../aspose.svg.dom/element/nextelementsibling/) { get; } | يعيد عقدة العنصر الشقيقة التالية لهذا العنصر. null إذا لم يكن لهذا العنصر أي عقد شقيقة عنصر تأتي بعده في شجرة المستند. |
+| [NextSibling](../../aspose.svg.dom/node/nextsibling/) { get; } | يرجع العقدة التي تلي المحددة مباشرةً في `ChildNodes` الخاصة بوالدها [`ChildNodes`](../../aspose.svg.dom/node/childnodes/)، أو يرجع null إذا كانت العقدة المحددة هي الطفل الأخير في العنصر الأب. |
+| override [NodeName](../../aspose.svg.dom/element/nodename/) { get; } | اسم هذه العقدة، حسب نوعها. |
 | override [NodeType](../../aspose.svg.dom/element/nodetype/) { get; } | رمز يمثل نوع الكائن الأساسي. |
-| virtual [NodeValue](../../aspose.svg.dom/node/nodevalue/) { get; set; } | قيمة هذه العقدة حسب نوعها. |
-| [OuterHTML](../../aspose.svg.dom/element/outerhtml/) { get; set; } | إرجاع جزء من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المحددة. |
-| virtual [OwnerDocument](../../aspose.svg.dom/node/ownerdocument/) { get; } | كائن المستند المرتبط بهذه العقدة. هذا هو أيضًا كائن المستند المستخدم لإنشاء عقد جديدة. عندما تكون هذه العقدة عبارة عن مستند أو نوع مستند لم يتم استخدامه مع أي مستند حتى الآن ، يكون هذا فارغًا. |
-| [OwnerSVGElement](../../aspose.svg/svgelement/ownersvgelement/) { get; } | أقرب عنصر "svg" للأصل. لاغية إذا كان العنصر المحدد هو العنصر الأبعد svg . |
-| [ParentElement](../../aspose.svg.dom/node/parentelement/) { get; } | يحصل على الوالد[`Element`](../../aspose.svg.dom/element/) من هذه العقدة. |
-| [ParentNode](../../aspose.svg.dom/node/parentnode/) { get; } | أصل هذه العقدة. قد يكون لجميع العقد ، باستثناء Attr و Document و DocumentFragment و Entity و Notation ، أصل. ومع ذلك ، إذا تم إنشاء عقدة للتو ولم تتم إضافتها بعد إلى الشجرة ، أو إذا تمت إزالتها من الشجرة ، فسيكون ذلك فارغًا. |
-| override [Prefix](../../aspose.svg.dom/element/prefix/) { get; } | بادئة مساحة الاسم لهذه العقدة ، أو فارغة إذا كانت غير محددة. عندما يتم تعريفه على أنه فارغ ، فإن الإعداد ليس له تأثير |
-| [PreviousElementSibling](../../aspose.svg.dom/element/previouselementsibling/) { get; } | إرجاع عقدة العنصر الشقيقة السابقة لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عقد شقيقة لعنصر تأتي قبل هذا في شجرة الوثيقة. |
-| [PreviousSibling](../../aspose.svg.dom/node/previoussibling/) { get; } | العقدة التي تسبق هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية. |
-| [RequiredExtensions](../../aspose.svg/svggraphicselement/requiredextensions/) { get; } | يتوافق مع السمة "requiredExtensions" في العنصر المحدد. |
-| [RequiredFeatures](../../aspose.svg/svggraphicselement/requiredfeatures/) { get; } | يتوافق مع السمة "requiredFeatures" في العنصر المحدد . |
-| [SchemaTypeInfo](../../aspose.svg.dom/element/schematypeinfo/) { get; } | نوع المعلومات المرتبطة بهذا العنصر . |
-| [ShadowRoot](../../aspose.svg.dom/element/shadowroot/) { get; } | تُرجع shadowRoot المخزنة في هذا العنصر أو تُرجع فارغة إذا كان مغلقًا. |
-| [Style](../../aspose.svg/svgelement/style/) { get; } | يتوافق مع السمة "النمط" على العنصر المحدد. إذا كان وكيل المستخدم لا يدعم التصميم باستخدام CSS ، فيجب أن يكون لهذه السمة دائمًا قيمة خالية. |
-| [SystemLanguage](../../aspose.svg/svggraphicselement/systemlanguage/) { get; } | يتوافق مع السمة "systemLanguage" على العنصر المحدد. |
-| [TagName](../../aspose.svg.dom/element/tagname/) { get; } | اسم العنصر . |
-| override [TextContent](../../aspose.svg.dom/element/textcontent/) { get; set; } | تقوم هذه السمة بإرجاع المحتوى النصي لهذه العقدة وتوابعها. عندما يتم تعريفه على أنه فارغ ، فإن تعيينه ليس له أي تأثير. عند الإعداد ، تتم إزالة أي أطفال محتملين قد تكون هذه العقدة لديهم ، وإذا لم تكن السلسلة الجديدة فارغة أو فارغة ، فسيتم استبدالها بعقدة نصية واحدة تحتوي على السلسلة التي تم تعيين هذه السمة عليها. |
-| [Transform](../../aspose.svg/svggraphicselement/transform/) { get; } | يتوافق مع السمة "التحويل" على العنصر المحدد. |
-| [ViewportElement](../../aspose.svg/svgelement/viewportelement/) { get; } | العنصر الذي أنشأ إطار العرض الحالي. في كثير من الأحيان ، أقرب عنصر "svg" سلف. لاغية إذا كان العنصر المحدد هو العنصر الأبعد svg . |
+| virtual [NodeValue](../../aspose.svg.dom/node/nodevalue/) { get; set; } | يعيد أو يضبط قيمة العقدة الحالية. |
+| [OuterHTML](../../aspose.svg.dom/element/outerhtml/) { get; set; } | يعيد جزءًا من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المعطاة. |
+| virtual [OwnerDocument](../../aspose.svg.dom/node/ownerdocument/) { get; } | يعيد كائن المستند الأعلى المستوى للعقدة. |
+| [OwnerSVGElement](../../aspose.svg/svgelement/ownersvgelement/) { get; } | أقرب عنصر أساسي ‘svg’. Null إذا كان العنصر المعطى هو عنصر svg الخارجي. |
+| [ParentElement](../../aspose.svg.dom/node/parentelement/) { get; } | يرجع العنصر الأب لعقدة DOM [`Element`](../../aspose.svg.dom/element/)، أو null إذا لم يكن للعقدة أب، أو إذا كان أبها ليس عنصر DOM. |
+| [ParentNode](../../aspose.svg.dom/node/parentnode/) { get; } | يعيد أب العقدة المحددة في شجرة DOM. |
+| override [Prefix](../../aspose.svg.dom/element/prefix/) { get; } | بادئة مساحة الاسم لهذه العقدة، أو null إذا لم تُحدد. عندما تُعرّف بأنها null، لا يؤثر ضبطها. |
+| [PreviousElementSibling](../../aspose.svg.dom/element/previouselementsibling/) { get; } | يعيد عقدة العنصر الشقيقة السابقة لهذا العنصر. null إذا لم يكن لهذا العنصر أي عقد شقيقة عنصر تأتي قبلها في شجرة المستند. |
+| [PreviousSibling](../../aspose.svg.dom/node/previoussibling/) { get; } | يرجع العقدة التي تسبق المحددة مباشرةً في قائمة `ChildNodes` الخاصة بوالدها [`ChildNodes`](../../aspose.svg.dom/node/childnodes/)، أو null إذا كانت العقدة المحددة هي الأولى في تلك القائمة. |
+| [RequiredExtensions](../../aspose.svg/svggraphicselement/requiredextensions/) { get; } | يتطابق مع السمة ‘requiredExtensions’ على العنصر المعطى. |
+| [RequiredFeatures](../../aspose.svg/svggraphicselement/requiredfeatures/) { get; } | يتطابق مع السمة ‘requiredFeatures’ على العنصر المعطى. |
+| [ShadowRoot](../../aspose.svg.dom/element/shadowroot/) { get; } | يعيد shadowRoot المخزن على هذا العنصر أو null إذا كان مغلقًا. |
+| [Style](../../aspose.svg/svgelement/style/) { get; } | يتطابق مع السمة ‘style’ على العنصر المعطى. إذا لم يدعم عميل المستخدم التنسيق باستخدام CSS، يجب أن تكون قيمة هذه السمة دائمًا null. |
+| [SystemLanguage](../../aspose.svg/svggraphicselement/systemlanguage/) { get; } | يتطابق مع السمة ‘systemLanguage’ على العنصر المعطى. |
+| [TagName](../../aspose.svg.dom/element/tagname/) { get; } | اسم العنصر. |
+| override [TextContent](../../aspose.svg.dom/element/textcontent/) { get; set; } | هذه السمة تُعيد محتوى النص لهذه العقدة ونسلها. عندما تُعرّف بأنها null، لا يؤثر ضبطها. عند الضبط، تُزال جميع الأطفال المحتملين لهذه العقدة، وإذا لم تكن السلسلة الجديدة فارغة أو null، تُستبدل بعقدة نص واحدة تحتوي على السلسلة التي تم ضبط السمة إليها. |
+| [Transform](../../aspose.svg/svggraphicselement/transform/) { get; } | يتطابق مع السمة ‘transform’ على العنصر المعطى. |
+| [ViewportElement](../../aspose.svg/svgelement/viewportelement/) { get; } | العنصر الذي أنشأ مساحة العرض الحالية. غالبًا ما يكون أقرب عنصر أساسي ‘svg’. Null إذا كان العنصر المعطى هو عنصر svg الخارجي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, IEventListener) | تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, DOMEventHandler, bool) | تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, IEventListener, bool) | تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث. |
-| [AppendChild](../../aspose.svg.dom/node/appendchild/)(Node) | يضيف العقدة newChild إلى نهاية قائمة العناصر الفرعية لهذه العقدة. إذا كان الطفل الجديد موجودًا بالفعل في الشجرة ، فسيتم إزالته أولاً. |
-| [AttachShadow](../../aspose.svg.dom/element/attachshadow/)(ShadowRootMode) | لإنشاء جذر الظل وإرفاقه بالعنصر الحالي. |
-| [CloneNode](../../aspose.svg.dom/node/clonenode/)() | إرجاع نسخة مكررة من هذه العقدة ، على سبيل المثال ، بمثابة مُنشئ نسخة عام للعقد. لا تحتوي العقدة المكررة على أصل (العقدة الأم خالية) ولا توجد بيانات مستخدم. |
-| [CloneNode](../../aspose.svg.dom/node/clonenode/)(bool) | إرجاع نسخة مكررة من هذه العقدة ، على سبيل المثال ، بمثابة مُنشئ نسخة عام للعقد. لا تحتوي العقدة المكررة على أصل (العقدة الأم خالية) ولا توجد بيانات مستخدم. |
-| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | تسمح هذه الطريقة بإرسال الأحداث إلى نموذج حدث عمليات التنفيذ. |
-| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [GetAttribute](../../aspose.svg.dom/element/getattribute/)(string) | استرداد قيمة سمة بالاسم. |
-| [GetAttributeNode](../../aspose.svg.dom/element/getattributenode/)(string) | استرداد عقدة سمة بالاسم. |
-| [GetAttributeNodeNS](../../aspose.svg.dom/element/getattributenodens/)(string, string) | استرداد عقدة Attr بالاسم المحلي ومساحة URI. |
-| [GetAttributeNS](../../aspose.svg.dom/element/getattributens/)(string, string) | استرداد قيمة سمة حسب الاسم المحلي ومساحة URI. |
-| [GetBBox](../../aspose.svg/svggraphicselement/getbbox/)() | إرجاع مربع الإحاطة الضيق في مساحة المستخدم الحالية (أي بعد تطبيق سمة "التحويل" ، إن وجدت) على هندسة جميع عناصر الرسوم المضمنة ، باستثناء تأثيرات التمسيد والقص والإخفاء والتصفية). لاحظ أن getBBox يجب أن يعيد مربع الإحاطة الفعلي في وقت استدعاء الطريقة ، حتى في حالة عدم تقديم العنصر بعد. |
-| [GetCTM](../../aspose.svg/svggraphicselement/getctm/)() | إرجاع مصفوفة التحويل من وحدات المستخدم الحالية (على سبيل المثال ، بعد تطبيق السمة "التحويل" ، إن وجدت) إلى نظام إحداثي منفذ العرض لأقرب منفذ عرض. |
-| [GetElementsByClassName](../../aspose.svg.dom/element/getelementsbyclassname/)(string) | إرجاع كائن NodeList مباشر يحتوي على جميع العناصر في المستند التي تحتوي على جميع الفئات المحددة في الوسيطة . http://www.w3.org/TR/dom/ |
-| [GetElementsByTagName](../../aspose.svg.dom/element/getelementsbytagname/)(string) | إرجاع NodeList لجميع العناصر التابعة مع اسم علامة محدد ، بترتيب المستند. |
-| [GetElementsByTagNameNS](../../aspose.svg.dom/element/getelementsbytagnamens/)(string, string) | إرجاع NodeList لجميع العناصر التابعة مع اسم محلي محدد ومساحة URI بترتيب المستند. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [GetScreenCTM](../../aspose.svg/svggraphicselement/getscreenctm/)() | تُرجع مصفوفة التحويل من وحدات المستخدم الحالية (على سبيل المثال ، بعد تطبيق سمة "التحويل" ، إن وجدت) إلى إشعار وكيل المستخدم الأصلي بـ "بكسل". بالنسبة لأجهزة العرض ، يمثل هذا بشكل مثالي بكسل شاشة فعلية. بالنسبة للأجهزة أو البيئات الأخرى التي لا تُعرف فيها أحجام البكسل المادية ، يمكن استخدام خوارزمية مشابهة لتعريف CSS2 لـ "بكسل" بدلاً من ذلك. لاحظ أنه يتم إرجاع القيمة null إذا لم يتم ربط هذا العنصر بشجرة المستندات. كان من الأفضل تسمية هذه الطريقة باسم getClientCTM ، ولكن يتم الاحتفاظ بالاسم getScreenCTM لأسباب تاريخية. |
-| [HasAttribute](../../aspose.svg.dom/element/hasattribute/)(string) | إرجاع صحيح عندما يتم تحديد سمة تحمل اسمًا معينًا في هذا العنصر أو عندما تكون لها قيمة افتراضية ، أو خطأ بخلاف ذلك. |
-| [HasAttributeNS](../../aspose.svg.dom/element/hasattributens/)(string, string) | إرجاع صحيح عندما يتم تحديد سمة ذات اسم محلي ومساحة اسم URI على هذا العنصر أو لها قيمة افتراضية ، خطأ بخلاف ذلك. |
-| override [HasAttributes](../../aspose.svg.dom/element/hasattributes/)() | إرجاع ما إذا كانت هذه العقدة (إذا كانت عنصرًا) لها أي سمات |
-| [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | إرجاع ما إذا كان لهذه العقدة أي توابع. |
-| [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(Node, Node) | يقوم بإدراج العقدة قبل تابع العقدة الفرعية الموجودة. إذا كان الطفل فارغًا ، فقم بإدراج العقدة في نهاية قائمة العناصر الفرعية . إذا كان الكائن الفرعي عبارة عن كائن DocumentFragment ، فسيتم إدراج جميع توابعه ، بالترتيب نفسه ، قبل التابع. إذا كان الطفل موجودًا بالفعل في الشجرة ، فسيتم إزالته أولاً. |
-| [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(string) | يتحقق هذا الأسلوب مما إذا كانت مساحة الاسم المحددة هي مساحة الاسم الافتراضية أم لا. |
-| [IsEqualNode](../../aspose.svg.dom/node/isequalnode/)(Node) | اختبار ما إذا كانت العقدتان متساويتان. تختبر هذه الطريقة المساواة بين العقد ، وليس التماثل (أي ما إذا كانت العقدتان مرجعيتان لنفس الكائن) والتي يمكن اختبارها باستخدام Node.isSameNode (). جميع العقد التي هي نفسها ستكون متساوية أيضًا ، على الرغم من أن العكس قد لا يكون صحيحًا. |
-| [IsSameNode](../../aspose.svg.dom/node/issamenode/)(Node) | إرجاع ما إذا كانت هذه العقدة هي نفس العقدة المحددة. توفر هذه الطريقة طريقة لتحديد ما إذا كان مرجعان للعقدة يتم إرجاعهما بواسطة مرجع التطبيق نفس الكائن. عندما يكون مراجعان للعقدة مراجع لنفس الكائن ، حتى لو كان ذلك من خلال وكيل ، يمكن استخدام المراجع بشكل تبادلي تمامًا ، بحيث يكون لجميع السمات نفس القيم واستدعاء نفس طريقة DOM على أي مرجع يكون له نفس التأثير دائمًا. |
-| [LookupNamespaceURI](../../aspose.svg.dom/node/lookupnamespaceuri/)(string) | ابحث عن مساحة الاسم URI المرتبطة بالبادئة المحددة ، بدءًا من هذه العقدة. |
-| [LookupPrefix](../../aspose.svg.dom/node/lookupprefix/)(string) | ابحث عن البادئة المرتبطة بمساحة الاسم المحددة URI ، بدءًا من هذه العقدة. يتم تجاهل تعريفات مساحة الاسم الافتراضية بهذه الطريقة. راجع بحث بادئة مساحة الاسم للحصول على تفاصيل حول الخوارزمية المستخدمة بواسطة هذه الطريقة. |
-| [Normalize](../../aspose.svg.dom/node/normalize/)() | وضع جميع العقد النصية في العمق الكامل للشجرة الفرعية أسفل هذه العقدة ، بما في ذلك عقد السمات ، في نموذج "عادي" حيث تفصل البنية فقط (على سبيل المثال ، العناصر والتعليقات وتعليمات المعالجة وأقسام CDATA ومراجع الكيانات) النص العقد ، أي لا توجد عقد نصية متجاورة ولا عقد نصية فارغة. يمكن استخدام هذا للتأكد من أن عرض DOM للمستند هو نفسه كما لو تم حفظه وإعادة تحميله ، ويكون مفيدًا عندما تكون العمليات (مثل عمليات بحث XPointer [XPointer]) التي تعتمد على بنية شجرة وثيقة معينة يستخدم. إذا كانت المعلمة "تطبيع الأحرف" لكائن DOMConfiguration المرفقة بـ Node.ownerDocument صحيحة ، فإن هذه الطريقة ستعمل أيضًا على تسوية أحرف العقد النصية بشكل كامل. |
-| [QuerySelector](../../aspose.svg.dom/element/queryselector/)(string) | إرجاع العنصر الأول في المستند الذي يتطابق مع selector |
-| [QuerySelectorAll](../../aspose.svg.dom/element/queryselectorall/)(string) | إرجاع قائمة NodeList لجميع العناصر الموجودة في المستند ، والتي تطابق selector |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/)*) | يضبط دالة سيتم استدعاؤها كلما تم تسليم الحدث المحدد إلى الهدف. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [DOMEventHandler](../../aspose.svg.dom.events/domeventhandler/), bool*) | يضبط دالة سيتم استدعاؤها كلما تم تسليم الحدث المحدد إلى الهدف. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/), bool*) | يضبط دالة سيتم استدعاؤها كلما تم تسليم الحدث المحدد إلى الهدف. |
+| [AppendChild](../../aspose.svg.dom/node/appendchild/)(*[Node](../../aspose.svg.dom/node/)*) | يضيف عقدة إلى نهاية قائمة الأطفال لعقدة أب محددة. إذا كان الطفل المعطى إشارة إلى عقدة موجودة في المستند، فإن [`AppendChild`](../../aspose.svg.dom/node/appendchild/) ينقلها من موقعها الحالي إلى الموقع الجديد (ليس هناك حاجة لإزالة العقدة من عقدة الأب قبل إلحاقها بعقدة أخرى). |
+| [AttachShadow](../../aspose.svg.dom/element/attachshadow/)(*[ShadowRootMode](../../aspose.svg.dom/shadowrootmode/)*) | ينشئ shadow root ويُرفقه بالعنصر الحالي. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode/)() | يعيد نسخة مكررة من العقدة التي تم استدعاء هذه الطريقة عليها. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode/)(*bool*) | يعيد نسخة مكررة من العقدة التي تم استدعاء هذه الطريقة عليها. يتحكم معاملها فيما إذا كان الجزء الفرعي الموجود داخل العقدة يُستنسخ أيضاً أم لا. |
+| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(*[Event](../../aspose.svg.dom.events/event/)*) | يبثّ حدثًا إلى [`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/)، (متزامنًا) مستدعيًا مستمعي الأحداث المتأثرين بالترتيب المناسب. تُطبق قواعد معالجة الأحداث العادية (بما في ذلك مرحلة الالتقاط والفقاعة الاختيارية) أيضًا على الأحداث التي تُبث يدويًا باستخدام [`DispatchEvent`](../../aspose.svg.dom.events/ieventtarget/dispatchevent/). |
+| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [GetAttribute](../../aspose.svg.dom/element/getattribute/)(*string*) | يسترجع قيمة سمة حسب الاسم. |
+| [GetAttributeNames](../../aspose.svg.dom/element/getattributenames/)() | يعيد أسماء سمات العنصر كمصفوفة من السلاسل. إذا لم يكن للعنصر سمات، يعيد مصفوفة فارغة. |
+| [GetAttributeNode](../../aspose.svg.dom/element/getattributenode/)(*string*) | يسترجع عقدة سمة حسب الاسم. |
+| [GetAttributeNodeNS](../../aspose.svg.dom/element/getattributenodens/)(*string, string*) | يسترجع عقدة Attr حسب الاسم المحلي ومسار مساحة الاسم URI. |
+| [GetAttributeNS](../../aspose.svg.dom/element/getattributens/)(*string, string*) | يسترجع قيمة سمة حسب الاسم المحلي ومسار مساحة الاسم URI. |
+| [GetBBox](../../aspose.svg/svggraphicselement/getbbox/)() | يرجع الصندوق المحيط الضيق في مساحة المستخدم الحالية (أي بعد تطبيق سمة ‘transform’، إن وجدت) على هندسة جميع عناصر الرسومات المتضمنة، مستثنياً التحديد، والقص، والتمويه وتأثيرات الفلتر). لاحظ أن الدالة getBBox يجب أن تُعيد الصندوق المحيط الفعلي في الوقت الذي تم استدعاء الطريقة فيه، حتى في حالة لم يتم رسم العنصر بعد. |
+| [GetCTM](../../aspose.svg/svggraphicselement/getctm/)() | يرجع مصفوفة التحويل من وحدات المستخدم الحالية (أي بعد تطبيق سمة ‘transform’، إن وجدت) إلى نظام إحداثيات مساحة العرض للعنصر nearestViewportElement. |
+| [GetElementsByClassName](../../aspose.svg.dom/element/getelementsbyclassname/)(*string*) | يرجع كائن [`HTMLCollection`](../../aspose.svg.collections/htmlcollection/) يحتوي على جميع العناصر داخل [`element`](../../aspose.svg.dom/element/) التي تمتلك جميع الفئات المحددة في الوسيط. |
+| [GetElementsByTagName](../../aspose.svg.dom/element/getelementsbytagname/)(*string*) | يرجع كائن [`HTMLCollection`](../../aspose.svg.collections/htmlcollection/) يحتوي على جميع [`elements`](../../aspose.svg.dom/element/) التي لها اسم علامة معين، بترتيب المستند. |
+| [GetElementsByTagNameNS](../../aspose.svg.dom/element/getelementsbytagnamens/)(*string, string*) | يرجع كائن [`HTMLCollection`](../../aspose.svg.collections/htmlcollection/) يحتوي على جميع [`elements`](../../aspose.svg.dom/element/) التي لها اسم محلي وسلسلة URI مساحة الاسم المحددة، بترتيب المستند. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [GetScreenCTM](../../aspose.svg/svggraphicselement/getscreenctm/)() | يرجع مصفوفة التحويل من وحدات المستخدم الحالية (أي بعد تطبيق سمة ‘transform’، إن وجدت) إلى ملاحظة الوكيل الأب للمستخدم للـ "pixel". بالنسبة لأجهزة العرض، يمثل ذلك عادةً بكسل الشاشة الفعلي. بالنسبة للأجهزة أو البيئات الأخرى التي لا تُعرف فيها أحجام البكسل الفعلية، يمكن استخدام خوارزمية مشابهة لتعريف CSS2 للـ "pixel". لاحظ أن null يُعاد إذا لم يكن هذا العنصر مرتبطًا بشجرة المستند. كان من الممكن تسمية هذه الطريقة بشكل أكثر دقة getClientCTM، لكن اسم getScreenCTM يُحافظ عليه لأسباب تاريخية. |
+| [HasAttribute](../../aspose.svg.dom/element/hasattribute/)(*string*) | يعيد true عندما تكون سمة بالاسم المحدد مُحددة على هذا العنصر أو لها قيمة افتراضية، وإلا يعيد false. |
+| [HasAttributeNS](../../aspose.svg.dom/element/hasattributens/)(*string, string*) | يعيد true عندما يتم تحديد سمة بالاسم المحلي المحدد وURI مساحة الاسم على هذا العنصر أو تكون لها قيمة افتراضية، وإلا يعيد false. |
+| [HasAttributes](../../aspose.svg.dom/element/hasattributes/)() | يعيد ما إذا كانت هذه العقدة (إذا كانت عنصرًا) تحتوي على أي سمات |
+| [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | يرجع قيمة منطقية تشير إلى ما إذا كانت الـ[`Node`](../../aspose.svg.dom/node/) المعطاة تحتوي على عقد أطفال أم لا. |
+| [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(*[Node](../../aspose.svg.dom/node/), [Node](../../aspose.svg.dom/node/)*) | يدرج العقدة قبل عقدة الطفل الموجودة child. إذا كان child null، يُدرج العقدة في نهاية قائمة الأطفال. إذا كان child كائن DocumentFragment، تُدرج جميع أطفاله، بنفس الترتيب، قبل child. إذا كان الطفل موجوداً بالفعل في الشجرة، يُزال أولاً. |
+| [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(*string*) | تتحقق هذه الطريقة مما إذا كان الـnamespaceURI المحدد هو مساحة الاسم الافتراضية أم لا. |
+| [IsEqualNode](../../aspose.svg.dom/node/isequalnode/)(*[Node](../../aspose.svg.dom/node/)*) | يفحص ما إذا كان العقدان متساويتين. تختبر هذه الطريقة مساواة العقد، وليس تماثلهما (أي ما إذا كانت العقدان إشارة إلى نفس الكائن) والذي يمكن اختباره باستخدام Node.isSameNode(). جميع العقد المتطابقة ستكون متساوية أيضاً، رغم أن العكس قد لا يكون صحيحاً. |
+| [IsSameNode](../../aspose.svg.dom/node/issamenode/)(*[Node](../../aspose.svg.dom/node/)*) | الطريقة هي اسم مستعار قديم للمشغل الصارم ===. أي أنها تختبر ما إذا كان العقدان نفسهما (بمعنى آخر، ما إذا كانا يشيران إلى نفس الكائن). |
+| [LookupNamespaceURI](../../aspose.svg.dom/node/lookupnamespaceuri/)(*string*) | ابحث عن URI مساحة الاسم المرتبط بالبادئة المعطاة، بدءاً من هذه العقدة. |
+| [LookupPrefix](../../aspose.svg.dom/node/lookupprefix/)(*string*) | ابحث عن البادئة المرتبطة بـ URI مساحة الاسم المعطى، بدءاً من هذه العقدة. تتجاهل هذه الطريقة إعلانات مساحة الاسم الافتراضية. راجع Namespace Prefix Lookup للحصول على تفاصيل حول الخوارزمية المستخدمة في هذه الطريقة. |
+| [Normalize](../../aspose.svg.dom/node/normalize/)() | يضع جميع عقد النص في العمق الكامل للشجرة الفرعية تحت هذه العقدة، بما في ذلك عقد السمات، في صيغة "عادية" حيث يفصل الهيكل فقط (مثل العناصر، التعليقات، تعليمات المعالجة، أقسام CDATA، وإشارات الكيانات) بين عقد النص، أي لا توجد عقد نص متجاورة ولا عقد نص فارغة. يمكن استخدام ذلك لضمان أن عرض DOM للمستند هو نفسه كما لو تم حفظه وإعادة تحميله، وهو مفيد عندما تُستخدم عمليات (مثل عمليات البحث XPointer [XPointer]) التي تعتمد على بنية شجرة مستند معينة. إذا كان معامل "normalize-characters" لكائن DOMConfiguration المرتبط بـ Node.ownerDocument صحيحاً، فإن هذه الطريقة ستقوم أيضاً بتطبيع أحرف عقد النص بالكامل. |
+| [QuerySelector](../../aspose.svg.dom/element/queryselector/)(*string*) | تُرجع أول Element في المستند الذي يطابق المحدد. |
+| [QuerySelectorAll](../../aspose.svg.dom/element/queryselectorall/)(*string*) | تُرجع NodeList لجميع Elements في المستند التي تطابق المحدد. |
 | [Remove](../../aspose.svg.dom/element/remove/)() | يزيل هذا المثيل. |
-| [RemoveAttribute](../../aspose.svg.dom/element/removeattribute/)(string) | يزيل سمة بالاسم . |
-| [RemoveAttributeNode](../../aspose.svg.dom/element/removeattributenode/)(Attr) | يزيل عقدة السمة المحددة. |
-| [RemoveAttributeNS](../../aspose.svg.dom/element/removeattributens/)(string, string) | يزيل سمة حسب الاسم المحلي ومساحة URI. |
-| [RemoveChild](../../aspose.svg.dom/node/removechild/)(Node) | يزيل العقدة الفرعية التي أشار إليها oldChild من قائمة الأطفال ، ويعيدها . |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, IEventListener) | تسمح هذه الطريقة بإزالة مستمعي الحدث من هدف الحدث. إذا كان[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) تمت إزالته من ملف[`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجة حدث ، لن يتم تشغيله من خلال الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتها. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, DOMEventHandler, bool) | تسمح هذه الطريقة بإزالة مستمعي الحدث من هدف الحدث. إذا كان[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) تمت إزالته من ملف[`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجة حدث ، لن يتم تشغيله من خلال الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتها. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, IEventListener, bool) | تسمح هذه الطريقة بإزالة مستمعي الحدث من هدف الحدث. إذا كان[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) تمت إزالته من ملف[`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجة حدث ، لن يتم تشغيله من خلال الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتها. |
-| [ReplaceChild](../../aspose.svg.dom/node/replacechild/)(Node, Node) | يستبدل العقدة الفرعية oldChild بـ newChild في قائمة الأطفال ، ويعيد العقدة oldChild. إذا كان newChild هو كائن DocumentFragment ، فسيتم استبدال oldChild بكافة العناصر الفرعية DocumentFragment ، والتي يتم إدراجها بنفس الترتيب. إذا كان الطفل الجديد موجودًا بالفعل في الشجرة ، فسيتم إزالته أولاً. |
-| [SetAttribute](../../aspose.svg.dom/element/setattribute/)(string, string) | إضافة سمة جديدة. إذا كانت السمة التي تحمل هذا الاسم موجودة بالفعل في العنصر ، فسيتم تغيير قيمتها لتصبح قيمة معلمة القيمة |
-| [SetAttributeNode](../../aspose.svg.dom/element/setattributenode/)(Attr) | إضافة عقدة سمة جديدة. إذا كانت السمة بهذا الاسم (nodeName) موجودة بالفعل في العنصر ، فسيتم استبدالها بالسمة الجديدة. |
-| [SetAttributeNodeNS](../../aspose.svg.dom/element/setattributenodens/)(Attr) | إضافة سمة جديدة. إذا كانت هناك سمة بهذا الاسم المحلي ومساحة URI موجودة بالفعل في العنصر ، فسيتم استبدالها بالسمة الجديدة. |
-| [SetAttributeNS](../../aspose.svg.dom/element/setattributens/)(string, string, string) | إضافة سمة جديدة. إذا كانت سمة تحمل نفس الاسم المحلي ومساحة URI موجودة بالفعل على العنصر ، فسيتم تغيير بادئتها لتكون جزء البادئة من الاسم المؤهل ، ويتم تغيير قيمتها لتكون معلمة القيمة. |
-| [SetIdAttribute](../../aspose.svg.dom/element/setidattribute/)(string, bool) | إذا كانت المعلمة isId صحيحة ، فإن هذه الطريقة تعلن أن السمة المحددة هي سمة معرف يحددها المستخدم. |
-| [SetIdAttributeNode](../../aspose.svg.dom/element/setidattributenode/)(Attr, bool) | إذا كانت المعلمة isId صحيحة ، فإن هذه الطريقة تعلن أن السمة المحددة هي سمة معرف يحددها المستخدم. |
-| [SetIdAttributeNS](../../aspose.svg.dom/element/setidattributens/)(string, string, bool) | إذا كانت المعلمة isId صحيحة ، فإن هذه الطريقة تعلن أن السمة المحددة هي سمة معرف يحددها المستخدم. |
-| override [ToString](../../aspose.svg.dom/node/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| [RemoveAttribute](../../aspose.svg.dom/element/removeattribute/)(*string*) | يزيل سمة بالاسم. |
+| [RemoveAttributeNode](../../aspose.svg.dom/element/removeattributenode/)(*[Attr](../../aspose.svg.dom/attr/)*) | يزيل عقدة السمة المحددة. |
+| [RemoveAttributeNS](../../aspose.svg.dom/element/removeattributens/)(*string, string*) | يزيل سمة بالاسم المحلي وURI مساحة الاسم. |
+| [RemoveChild](../../aspose.svg.dom/node/removechild/)(*[Node](../../aspose.svg.dom/node/)*) | يزيل عقدة فرعية من الـ DOM ويعيد العقدة التي تم إزالتها. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/)*) | تتيح هذه الطريقة إزالة مستمعي الأحداث من هدف الحدث. إذا تمت إزالة [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) من [`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجته لحدث، فلن يتم تفعيله بواسطة الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتهم. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [DOMEventHandler](../../aspose.svg.dom.events/domeventhandler/), bool*) | تتيح هذه الطريقة إزالة مستمعي الأحداث من هدف الحدث. إذا تمت إزالة [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) من [`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجته لحدث، فلن يتم تفعيله بواسطة الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتهم. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/), bool*) | تتيح هذه الطريقة إزالة مستمعي الأحداث من هدف الحدث. إذا تمت إزالة [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) من [`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجته لحدث، فلن يتم تفعيله بواسطة الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتهم. |
+| [ReplaceChild](../../aspose.svg.dom/node/replacechild/)(*[Node](../../aspose.svg.dom/node/), [Node](../../aspose.svg.dom/node/)*) | يستبدل عقدة الطفل oldChild بـ newChild في قائمة الأطفال، ويعيد عقدة oldChild. إذا كان newChild كائنًا من نوع DocumentFragment، يتم استبدال oldChild بجميع أطفال DocumentFragment، التي تُدرج بنفس الترتيب. إذا كان newChild موجودًا بالفعل في الشجرة، يتم إزالته أولاً. |
+| [SetAttribute](../../aspose.svg.dom/element/setattribute/)(*string, string*) | يضيف سمة جديدة. إذا كانت سمة بهذا الاسم موجودة بالفعل في العنصر، يتم تغيير قيمتها لتصبح قيمة المعامل value. |
+| [SetAttributeNode](../../aspose.svg.dom/element/setattributenode/)(*[Attr](../../aspose.svg.dom/attr/)*) | يضيف عقدة سمة جديدة. إذا كانت سمة بهذا الاسم (nodeName) موجودة بالفعل في العنصر، يتم استبدالها بالجديدة. |
+| [SetAttributeNodeNS](../../aspose.svg.dom/element/setattributenodens/)(*[Attr](../../aspose.svg.dom/attr/)*) | يضيف سمة جديدة. إذا كانت سمة بهذا الاسم المحلي وURI مساحة الاسم موجودة بالفعل في العنصر، يتم استبدالها بالجديدة. |
+| [SetAttributeNS](../../aspose.svg.dom/element/setattributens/)(*string, string, string*) | يضيف سمة جديدة. إذا كانت سمة بنفس الاسم المحلي وURI مساحة الاسم موجودة بالفعل على العنصر، يتم تغيير بادئتها لتصبح الجزء البادئ من qualifiedName، وتُغيّر قيمتها لتصبح قيمة المعامل value. |
+| [ToggleAttribute](../../aspose.svg.dom/element/toggleattribute/)(*string*) | إذا لم يتم تقديم force، "يقلب" qualifiedName، يزيله إذا كان موجودًا ويضيفه إذا لم يكن موجودًا. إذا كان force true، يضيف qualifiedName. إذا كان force false، يزيل qualifiedName. |
+| [ToggleAttribute](../../aspose.svg.dom/element/toggleattribute/)(*string, bool*) | إذا لم يتم تقديم force، "يقلب" qualifiedName، يزيله إذا كان موجودًا ويضيفه إذا لم يكن موجودًا. إذا كان force true، يضيف qualifiedName. إذا كان force false، يزيل qualifiedName. |
+| override [ToString](../../aspose.svg.dom/node/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGGraphicsElement](../svggraphicselement/)
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

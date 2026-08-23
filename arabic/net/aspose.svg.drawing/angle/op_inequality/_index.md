@@ -1,32 +1,30 @@
 ---
-title: Angle.op_Inequality
-second_title: Aspose.SVG لمرجع .NET API
-description: Angle طريقة. تنفذ عامل التشغيل  .
+title: "Angle.op_Inequality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Angle op_Inequality. تنفّذ العامل"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.drawing/angle/op_inequality/
 ---
 ## Angle Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفّذ العامل !=.
 
 ```csharp
 public static bool operator !=(Angle a, Angle b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Angle | المعلمة أ. |
-| b | Angle | المعلمة ب. |
+| a | Angle | المعامل a. |
+| b | Angle | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Angle](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../angle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

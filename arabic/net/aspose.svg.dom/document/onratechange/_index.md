@@ -1,24 +1,22 @@
 ---
-title: Document.OnRateChange
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث لحدث OnRateChange أو تعيينه.
+title: "Document.OnRateChange"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnRateChange. يحصل أو يعيّن معالج الحدث لحدث OnRateChange."
 type: docs
 weight: 630
 url: /ar/net/aspose.svg.dom/document/onratechange/
 ---
 ## Document.OnRateChange event
 
-الحصول على معالج الحدث لحدث OnRateChange أو تعيينه.
+الحصول أو تعيين معالج الحدث لـ OnRateChange.
 
 ```csharp
 public event DOMEventHandler OnRateChange;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

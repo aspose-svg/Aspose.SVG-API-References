@@ -1,44 +1,42 @@
 ---
-title: ImageVectorizer.ImageVectorizer
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageVectorizer البناء. يقوم بتهيئة مثيل جديد لملفImageVectorizer فئة .
+title: "ImageVectorizer"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ImageVectorizer المُنشئ. ينشئ مثلاً جديداً من الفئة ImageVectorizer"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.imagevectorization/imagevectorizer/imagevectorizer/
 ---
 ## ImageVectorizer() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageVectorizer`](../) فئة .
+ينشئ مثلاً جديداً من الفئة [`ImageVectorizer`](../).
 
 ```csharp
 public ImageVectorizer()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageVectorizer](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageVectorizer(ImageVectorizerConfiguration) {#constructor_1}
+## ImageVectorizer(*[ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageVectorizer`](../) فئة .
+ينشئ مثلاً جديداً من الفئة [`ImageVectorizer`](../).
 
 ```csharp
 public ImageVectorizer(ImageVectorizerConfiguration configuration)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| configuration | ImageVectorizerConfiguration | التكوين. |
+| التكوين | ImageVectorizerConfiguration | التكوين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)
 * class [ImageVectorizer](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

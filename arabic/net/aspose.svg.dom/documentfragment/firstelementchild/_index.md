@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.FirstElementChild
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentFragment ملكية. إرجاع أول عقدة عنصر فرعي لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عناصر فرعية.
+title: "DocumentFragment.FirstElementChild"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DocumentFragment FirstElementChild. تُعيد عقدة العنصر الابن الأولى لهذا العنصر. null إذا لم يكن لهذا العنصر أي عناصر ابنة."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom/documentfragment/firstelementchild/
 ---
 ## DocumentFragment.FirstElementChild property
 
-إرجاع أول عقدة عنصر فرعي لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عناصر فرعية.
+يعيد أول عقدة عنصر فرعي لهذا العنصر. null إذا لم يكن لهذا العنصر أي عناصر فرعية.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أول عنصر تابع .
+العنصر الطفل الأول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documentfragment/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

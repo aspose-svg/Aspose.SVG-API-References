@@ -1,23 +1,21 @@
 ---
-title: ImageTraceSmoother.Extent
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageTraceSmoother ملكية. الحصول على مدى مجموعات المنطقة التي يتم النظر فيها من خلال نقطة الاستعلام. يجب أن تكون في النطاق من 1 إلى 20. سيتم محاذاة أي قيم أعلى أو أقل مع قيم الحد الأدنى والحد الأقصى لهذا النطاق  وفقًا لذلك .
+title: "ImageTraceSmoother.Extent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ImageTraceSmoother Extent. يحصل على أو يضبط مدى المنطقة التي تُؤخذ في الاعتبار بنقطة الاستعلام. يجب أن تكون في النطاق من 1 إلى 20. أي قيم أعلى أو أقل سيتم محاذاتها مع القيم الدنيا والعليا لهذا النطاق وفقًا لذلك."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.imagevectorization/imagetracesmoother/extent/
 ---
 ## ImageTraceSmoother.Extent property
 
-الحصول على مدى مجموعات المنطقة التي يتم النظر فيها من خلال نقطة الاستعلام. يجب أن تكون في النطاق من 1 إلى 20. سيتم محاذاة أي قيم أعلى أو أقل مع قيم الحد الأدنى والحد الأقصى لهذا النطاق ، وفقًا لذلك .
+يحصل أو يحدد مدى المنطقة التي يُنظر إليها بواسطة نقطة الاستعلام. يجب أن يكون في النطاق من 1 إلى 20. أي قيم أعلى أو أقل سيتم تعديلها لتتناسب مع الحد الأدنى والحد الأقصى لهذا النطاق، وفقًا لذلك.
 
 ```csharp
 public int Extent { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageTraceSmoother](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

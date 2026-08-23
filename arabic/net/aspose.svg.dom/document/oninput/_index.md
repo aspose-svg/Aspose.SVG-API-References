@@ -1,24 +1,22 @@
 ---
-title: Document.OnInput
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على أو تعيين معالج الأحداث لحدث OnInput.
+title: "Document.OnInput"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnInput. يحصل أو يعيّن معالج الحدث لحدث OnInput"
 type: docs
 weight: 420
 url: /ar/net/aspose.svg.dom/document/oninput/
 ---
 ## Document.OnInput event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnInput.
+الحصول أو تعيين معالج الحدث لـ OnInput.
 
 ```csharp
 public event DOMEventHandler OnInput;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

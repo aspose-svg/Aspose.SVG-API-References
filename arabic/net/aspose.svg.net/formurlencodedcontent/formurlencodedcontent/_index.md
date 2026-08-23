@@ -1,27 +1,25 @@
 ---
-title: FormUrlEncodedContent.FormUrlEncodedContent
-second_title: Aspose.SVG لمرجع .NET API
-description: FormUrlEncodedContent البناء. يقوم بتهيئة مثيل جديد لملفFormUrlEncodedContent فئة .
+title: "FormUrlEncodedContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "المُنشئ FormUrlEncodedContent. يهيئ مثيلاً جديداً من الفئة FormUrlEncodedContent"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/formurlencodedcontent/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent constructor
 
-يقوم بتهيئة مثيل جديد لملف[`FormUrlEncodedContent`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`FormUrlEncodedContent`](../)
 
 ```csharp
 public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValueCollection)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| nameValueCollection | IEnumerable`1 | مجموعة قيمة الاسم. |
+| nameValueCollection | IEnumerable`1 | مجموعة القيم الاسمية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FormUrlEncodedContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../formurlencodedcontent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

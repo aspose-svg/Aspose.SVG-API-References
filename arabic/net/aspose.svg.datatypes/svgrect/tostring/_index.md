@@ -1,14 +1,14 @@
 ---
-title: SVGRect.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGRect طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "SVGRect.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGRect ToString. تُرجع String تمثل هذه المثيلة"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.datatypes/svgrect/tostring/
 ---
 ## SVGRect.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGRect](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgrect/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

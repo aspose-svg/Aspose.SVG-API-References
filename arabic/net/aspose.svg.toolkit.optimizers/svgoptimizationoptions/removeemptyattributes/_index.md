@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveEmptyAttributes
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على أو تحديد خيار إزالة السمات ذات القيم الفارغة. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveEmptyAttributes"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RemoveEmptyAttributes في SVGOptimizationOptions. يحصل على أو يضبط الخيار لإزالة السمات ذات القيم الفارغة. القيمة الافتراضية هي true"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptyattributes/
 ---
 ## SVGOptimizationOptions.RemoveEmptyAttributes property
 
-الحصول على أو تحديد خيار إزالة السمات ذات القيم الفارغة. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة السمات ذات القيم الفارغة. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveEmptyAttributes { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

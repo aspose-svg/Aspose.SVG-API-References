@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.FILTER_ACCEPT
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeFilter مجال. اقبل العقدة. طرق التنقل المحددة لـ ستعيد NodeIterator أو TreeWalker هذه العقدة .
+title: "NodeFilter.FILTER_ACCEPT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل NodeFilter FILTER_ACCEPT. قبول العقدة. طرق التنقل المعرفة لـ NodeIterator أو TreeWalker ستعيد هذه العقدة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.traversal.filters/nodefilter/filter_accept/
 ---
 ## NodeFilter.FILTER_ACCEPT field
 
-اقبل العقدة. طرق التنقل المحددة لـ ستعيد NodeIterator أو TreeWalker هذه العقدة .
+قبول العقدة. ستُعيد طرق التنقل المعرفة لـ NodeIterator أو TreeWalker هذه العقدة.
 
 ```csharp
 public const short FILTER_ACCEPT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeFilter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: Numeric.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: Numeric طريقة. تحديد ما إذا كان الملف المحددUnit  يساوي هذا المثال.
+title: "Numeric.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Numeric Equals method. تحدد ما إذا كانت الوحدة المحددة مساوية لهذا الكائن"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/numeric/equals/
 ---
 ## Numeric.Equals method
 
-تحديد ما إذا كان الملف المحدد[`Unit`](../../unit/) ، يساوي هذا المثال.
+تحدد ما إذا كانت [`Unit`](../../unit/) المحددة مساوية لهذا الكائن.
 
 ```csharp
 public override bool Equals(Unit other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | Unit | ال[`Unit`](../../unit/) للمقارنة مع هذه الحالة. |
+| other | Unit | الـ[`Unit`](../../unit/) للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحدد[`Unit`](../../unit/) يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت [`Unit`](../../unit/) المحددة مساوية لهذا الكائن؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../../unit/)
 * class [Numeric](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../numeric/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

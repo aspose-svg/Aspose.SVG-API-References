@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.Button
-second_title: Aspose.SVG لمرجع .NET API
-description: MouseEvent ملكية. أثناء أحداث الماوس الناتجة عن الضغط المنخفض أو تحرير زر الماوس  يجب استخدام الزر للإشارة إلى زر جهاز المؤشر الذي تغير حالته.
+title: "MouseEvent.Button"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MouseEvent Button. أثناء أحداث الفأرة الناجمة عن ضغط أو تحرير زر الفأرة يجب استخدام button للإشارة إلى أي زر من جهاز المؤشر تغير حالته"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.events/mouseevent/button/
 ---
 ## MouseEvent.Button property
 
-أثناء أحداث الماوس الناتجة عن الضغط المنخفض أو تحرير زر الماوس ، يجب استخدام الزر للإشارة إلى زر جهاز المؤشر الذي تغير حالته.
+أثناء أحداث الفأرة الناجمة عن ضغط أو تحرير زر الفأرة، يجب استخدام button للإشارة إلى أي زر من جهاز الإشارة تغير حالته.
 
 ```csharp
 public short Button { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الزر .
+الزر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MouseEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../mouseevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

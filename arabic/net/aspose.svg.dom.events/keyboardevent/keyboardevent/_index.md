@@ -1,48 +1,46 @@
 ---
-title: KeyboardEvent.KeyboardEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: KeyboardEvent البناء. يقوم بتهيئة مثيل جديد لملفKeyboardEvent فئة .
+title: "KeyboardEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ KeyboardEvent. يهيئ مثيلًا جديدًا من فئة KeyboardEvent"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.events/keyboardevent/keyboardevent/
 ---
-## KeyboardEvent(string) {#constructor}
+## KeyboardEvent(*string*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`KeyboardEvent`](../) فئة .
+يهيئ مثيلًا جديدًا من فئة [`KeyboardEvent`](../).
 
 ```csharp
 public KeyboardEvent(string type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KeyboardEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## KeyboardEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## KeyboardEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`KeyboardEvent`](../) فئة .
+يهيئ مثيلًا جديدًا من فئة [`KeyboardEvent`](../).
 
 ```csharp
 public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
-| eventInitDict | IDictionary`2 | الحدث تهيئة القاموس. |
+| eventInitDict | IDictionary`2 | قاموس تهيئة الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KeyboardEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

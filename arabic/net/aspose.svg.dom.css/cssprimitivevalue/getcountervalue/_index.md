@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetCounterValue
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue طريقة. تُستخدم هذه الطريقة للحصول على قيمة العداد. إذا كانت قيمة CSS هذه لا تحتوي على قيمة عداد  فسيتم رفع DOMException. يمكن إجراء التعديل على خاصية النمط المقابلة باستخدام واجهة العداد.
+title: "CSSPrimitiveValue.GetCounterValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "CSSPrimitiveValue GetCounterValue method. تُستخدم هذه الطريقة للحصول على قيمة العداد. إذا لم تحتوي قيمة CSS هذه على قيمة عداد، يتم رفع استثناء DOMException. يمكن تعديل خاصية النمط المقابلة باستخدام واجهة Counter"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/getcountervalue/
 ---
 ## CSSPrimitiveValue.GetCounterValue method
 
-تُستخدم هذه الطريقة للحصول على قيمة العداد. إذا كانت قيمة CSS هذه لا تحتوي على قيمة عداد ، فسيتم رفع DOMException. يمكن إجراء التعديل على خاصية النمط المقابلة باستخدام واجهة العداد.
+تُستخدم هذه الطريقة للحصول على قيمة Counter. إذا لم تحتوي قيمة CSS هذه على قيمة عداد، يتم رفع استثناء DOMException. يمكن تعديل الخاصية النمطية المقابلة باستخدام واجهة Counter.
 
 ```csharp
 public abstract Counter GetCounterValue()
@@ -16,13 +16,11 @@ public abstract Counter GetCounterValue()
 
 ### قيمة الإرجاع
 
-قيمة عداد المرتجعات
+إرجاع قيمة العداد
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Counter](../../counter/)
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

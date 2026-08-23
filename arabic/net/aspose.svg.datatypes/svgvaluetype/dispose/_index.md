@@ -1,23 +1,21 @@
 ---
-title: SVGValueType.Dispose
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGValueType طريقة. الإصدارات غير المُدارة و اختياريًا الموارد المُدارة.
+title: "SVGValueType.Dispose"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGValueType Dispose. تُطلق الموارد غير المُدارة و - اختياريًا - المُدارة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svgvaluetype/dispose/
 ---
 ## SVGValueType.Dispose method
 
-الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة.
+يطلق الموارد غير المُدارة و- اختياريًا - المُدارة.
 
 ```csharp
 public void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGValueType](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgvaluetype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: NodeFilter.AcceptNode
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeFilter طريقة. اختبر ما إذا كانت العقدة المحددة مرئية في العرض المنطقي لـ a TreeWalker أو NodeIterator. سيتم استدعاء هذه function من خلال تطبيق TreeWalker and NodeIterator لا يتم استدعاؤه عادةً مباشرةً من رمز المستخدم . على الرغم من أنه يمكنك القيام بذلك إذا كنت تريد استخدام مرشح same لتوجيه منطق التطبيق الخاص بك.
+title: "NodeFilter.AcceptNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة NodeFilter AcceptNode. اختبار ما إذا كانت عقدة محددة مرئية في العرض المنطقي لـ TreeWalker أو NodeIterator. سيتم استدعاء هذه الدالة من قبل تنفيذ TreeWalker و NodeIterator؛ عادةً لا يتم استدعاؤها مباشرةً من كود المستخدم. ومع ذلك يمكنك القيام بذلك إذا أردت استخدام نفس الفلتر لتوجيه منطق تطبيقك الخاص."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.traversal.filters/nodefilter/acceptnode/
 ---
 ## NodeFilter.AcceptNode method
 
-اختبر ما إذا كانت العقدة المحددة مرئية في العرض المنطقي لـ a TreeWalker أو NodeIterator. سيتم استدعاء هذه function من خلال تطبيق TreeWalker and NodeIterator؛ لا يتم استدعاؤه عادةً مباشرةً من رمز المستخدم . (على الرغم من أنه يمكنك القيام بذلك إذا كنت تريد استخدام مرشح same لتوجيه منطق التطبيق الخاص بك.)
+اختبر ما إذا كان العقد المحدد مرئيًا في العرض المنطقي لـ TreeWalker أو NodeIterator. سيتم استدعاء هذه الدالة من قبل تنفيذ TreeWalker و NodeIterator؛ عادةً لا يتم استدعاؤها مباشرةً من كود المستخدم. (مع أنه يمكنك فعل ذلك إذا أردت استخدام نفس الفلتر لتوجيه منطق تطبيقك.)
 
 ```csharp
 public abstract short AcceptNode(Node n)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| n | Node | عقدة للتحقق لمعرفة ما إذا كانت تتجاوز عامل التصفية أم لا. |
+| n | Node | العقدة للتحقق مما إذا كانت تجتاز الفلتر أم لا. |
 
 ### قيمة الإرجاع
 
-ثابت لتحديد ما إذا كانت العقدة مقبولة ، أو مرفوضة ، أو تم تخطيها ، كما هو محدد أعلاه.
+ثابت لتحديد ما إذا كان العقد مقبولًا أو مرفوضًا أو تم تخطيه، كما هو معرف أعلاه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeFilter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

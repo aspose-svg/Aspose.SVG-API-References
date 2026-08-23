@@ -1,21 +1,19 @@
 ---
-title: Aspose.Svg.Collections
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg المجموعات تتكون مساحة الاسم من فئات لتمثيل  تخزين ومعالجة العقد والعناصر.
+title: "Aspose.Svg.Collections"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "يتكون مساحة الأسماء Aspose.Svg.Collections من فئات لتمثيل وتخزين ومعالجة العقد والعناصر"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.svg.collections/
 ---
-ملف **Aspose.Svg المجموعات** تتكون مساحة الاسم من فئات لتمثيل ، تخزين ومعالجة العقد والعناصر.
+مساحة الاسم **Aspose.Svg.Collections** تتكون من فئات لتمثيل وتخزين ومعالجة العقد والعناصر.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [DOMTokenList](./domtokenlist/) | تمثل فئة DOMTokenList مجموعة من الرموز المميزة المفصولة بمسافات. يتم فهرسته بدءًا من 0 كما هو الحال مع كائنات JavaScript Array. دومًا تكون قائمة DOMTokenList حساسة لحالة الأحرف. |
-| [HTMLCollection](./htmlcollection/) | ملف[`HTMLCollection`](../aspose.svg.collections/htmlcollection/) يمثل مجموعة عامة من[`Element`](../aspose.svg.dom/element/) . |
+| [DOMTokenList](./domtokenlist/) | تمثل فئة DOMTokenList مجموعة من الرموز المفصولة بمسافات. يتم فهرستها بدءًا من 0 كما هو الحال مع كائنات مصفوفة JavaScript. DOMTokenList دائمًا حساسة لحالة الأحرف. |
+| [HTMLCollection](./htmlcollection/) | تمثل [`HTMLCollection`](../aspose.svg.collections/htmlcollection/) مجموعة عامة من [`Element`](../aspose.svg.dom/element/). |
 | [NamedNodeMap](./namednodemap/) | يمثل مجموعات من السمات التي يمكن الوصول إليها بالاسم. |
-| [NodeList](./nodelist/) | توفر NodeList تجريدًا لمجموعة مرتبة من العقد ، دون تحديد أو تقييد كيفية تنفيذ هذه المجموعة. |
-| [SVGListBase&lt;T&gt;](./svglistbase-1/) | تحدد هذه الواجهة قائمة أساسية لجميع قوائم SVG. |
-
-
+| [NodeList](./nodelist/) | توفر NodeList تجريدًا لمجموعة مرتبة من العقد، دون تعريف أو تقييد كيفية تنفيذ هذه المجموعة. |
+| [SVGListBase<T>](./svglistbase-1/) | تعرف هذه الواجهة قائمة أساسية لجميع قوائم SVG. |

@@ -1,28 +1,26 @@
 ---
-title: LengthOrAuto.Length
-second_title: Aspose.SVG لمرجع .NET API
-description: LengthOrAuto ملكية. الحصول على الطول أو تحديده .
+title: "LengthOrAuto.Length"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Length في LengthOrAuto. يحصل أو يضبط الطول"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.drawing/lengthorauto/length/
 ---
 ## LengthOrAuto.Length property
 
-الحصول على الطول أو تحديده .
+يحصل أو يضبط الطول.
 
 ```csharp
 public Length Length { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الطول .
+الطول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../lengthorauto/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

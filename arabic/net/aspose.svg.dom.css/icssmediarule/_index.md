@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSMediaRule
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSMediaRule واجهه المستخدم. تمثل واجهة CSSMediaRule قاعدةmedia في ورقة أنماط CSS. يمكن استخدام قاعدةmedia لتحديد قواعد الأنماط لأنواع وسائط معينة.
+title: "واجهة ICSSMediaRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Css.ICSSMediaRule واجهة. تمثل واجهة CSSMediaRule قاعدة وسائط في ورقة أنماط CSS. يمكن استخدام قاعدة وسائط لتحديد قواعد الأنماط لأنواع وسائط معينة."
 type: docs
-weight: 600
+weight: 2600
 url: /ar/net/aspose.svg.dom.css/icssmediarule/
 ---
 ## ICSSMediaRule interface
 
-تمثل واجهة CSSMediaRule قاعدةmedia في ورقة أنماط CSS. يمكن استخدام قاعدةmedia لتحديد قواعد الأنماط لأنواع وسائط معينة.
+واجهة CSSMediaRule تمثل قاعدة @media في ورقة أنماط CSS. يمكن استخدام قاعدة @media لتحديد قواعد الأنماط لأنواع وسائط محددة.
 
 ```csharp
 public interface ICSSMediaRule : ICSSRule
@@ -16,22 +16,20 @@ public interface ICSSMediaRule : ICSSRule
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CSSRules](../../aspose.svg.dom.css/icssmediarule/cssrules/) { get; } | قائمة بجميع قواعد CSS الموجودة في كتلة الوسائط. |
+| [CSSRules](../../aspose.svg.dom.css/icssmediarule/cssrules/) { get; } | قائمة بجميع قواعد CSS الموجودة داخل كتلة الوسائط. |
 | [Media](../../aspose.svg.dom.css/icssmediarule/media/) { get; } | قائمة بأنواع الوسائط لهذه القاعدة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DeleteRule](../../aspose.svg.dom.css/icssmediarule/deleterule/)(long) | يستخدم لحذف قاعدة من كتلة الوسائط. |
-| [InsertRule](../../aspose.svg.dom.css/icssmediarule/insertrule/)(string, long) | يستخدم لإدراج قاعدة جديدة في كتلة الوسائط. |
+| [DeleteRule](../../aspose.svg.dom.css/icssmediarule/deleterule/)(*long*) | يُستخدم لحذف قاعدة من كتلة الوسائط. |
+| [InsertRule](../../aspose.svg.dom.css/icssmediarule/insertrule/)(*string, long*) | يُستخدم لإدراج قاعدة جديدة في كتلة الوسائط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../icssrule/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

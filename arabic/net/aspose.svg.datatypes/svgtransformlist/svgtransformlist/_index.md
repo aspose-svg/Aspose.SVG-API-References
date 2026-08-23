@@ -1,44 +1,42 @@
 ---
-title: SVGTransformList.SVGTransformList
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransformList البناء. يقوم بتهيئة مثيل جديد لملفSVGTransformList فئة .
+title: "SVGTransformList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ SVGTransformList. يهيئ مثيلة جديدة من فئة SVGTransformList"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
 ## SVGTransformList() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGTransformList`](../) فئة .
+يهيئ مثيلة جديدة من الفئة [`SVGTransformList`](../).
 
 ```csharp
 public SVGTransformList()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransformList](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
+## SVGTransformList(*IEnumerable&lt;SVGTransform&gt;*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGTransformList`](../) فئة .
+يهيئ مثيلة جديدة من الفئة [`SVGTransformList`](../).
 
 ```csharp
 public SVGTransformList(IEnumerable<SVGTransform> enumerable)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | المعدود. |
+| قابل للتعداد | IEnumerable`1 | القابل للتعداد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../../svgtransform/)
 * class [SVGTransformList](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

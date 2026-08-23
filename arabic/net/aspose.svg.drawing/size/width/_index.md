@@ -1,28 +1,26 @@
 ---
-title: Size.Width
-second_title: Aspose.SVG لمرجع .NET API
-description: Size ملكية. الحصول على أو تحديد المكون الأفقي لهذاSize .
+title: "Size.Width"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Size Width. تحصل أو تعيين المكوّن الأفقي لهذا Size"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.drawing/size/width/
 ---
 ## Size.Width property
 
-الحصول على أو تحديد المكون الأفقي لهذا[`Size`](../) .
+تحصل أو تعيين المكوّن الأفقي لهذا [`Size`](../).
 
 ```csharp
 public Length Width { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المكون الأفقي لهذا[`Size`](../) .
+المكوّن الأفقي لهذا [`Size`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../../length/)
 * class [Size](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../size/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

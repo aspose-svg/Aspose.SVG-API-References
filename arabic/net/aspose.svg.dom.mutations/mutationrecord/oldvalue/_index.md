@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.OldValue
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationRecord ملكية. تعتمد القيمة المعادة على النوع. بالنسبة إلى السمات  فهي قيمة السمة التي تم تغييرها قبل التغيير.
+title: "MutationRecord.OldValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationRecord OldValue. قيمة الإرجاع تعتمد على النوع. بالنسبة للسمات تكون قيمة السمة المتغيرة قبل التغيير. بالنسبة للبيانات الحرفية تكون بيانات العقدة المتغيرة قبل التغيير. بالنسبة لقائمة الأطفال تكون null."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.mutations/mutationrecord/oldvalue/
 ---
 ## MutationRecord.OldValue property
 
-تعتمد القيمة المعادة على النوع. بالنسبة إلى "السمات" ، فهي قيمة السمة التي تم تغييرها قبل التغيير.
+قيمة الإرجاع تعتمد على النوع. بالنسبة لـ "attributes"، تكون قيمة الخاصية المتغيَّرة قبل التغيير. بالنسبة لـ "characterData"، تكون بيانات العقدة المتغيَّرة قبل التغيير. بالنسبة لـ "childList"، تكون null.
 
 ```csharp
 public string OldValue { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة القديمة .
+القيمة القديمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationRecord](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

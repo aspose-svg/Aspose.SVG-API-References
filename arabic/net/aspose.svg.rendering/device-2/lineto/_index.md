@@ -1,27 +1,25 @@
 ---
-title: Device2.LineTo
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. لإلحاق مقطع خط مستقيم من النقطة الحالية بالنقطة نقطة. النقطة الحالية الجديدة هي pt.
+title: "Device-2.LineTo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device LineTo. تُضيف مقطع خط مستقيم من النقطة الحالية إلى النقطة pt. النقطة الحالية الجديدة هي pt"
 type: docs
-weight: 180
+weight: 210
 url: /ar/net/aspose.svg.rendering/device-2/lineto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.LineTo method
+## Device<TGraphicContext,TRenderingOptions>.LineTo method
 
-لإلحاق مقطع خط مستقيم من النقطة الحالية بالنقطة (نقطة). النقطة الحالية الجديدة هي pt.
+يضيف مقطع خط مستقيم من النقطة الحالية إلى النقطة (pt). النقطة الحالية الجديدة هي pt.
 
 ```csharp
-public abstract void LineTo(PointF pt)
+public virtual void LineTo(PointF pt)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pt | PointF | نقطة مكان إنشاء الخط إلى. |
+| pt | PointF | نقطة لإنشاء الخط إليها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

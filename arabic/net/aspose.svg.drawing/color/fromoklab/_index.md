@@ -1,33 +1,31 @@
 ---
-title: Color.FromOklab
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيم الإضاءة A و B المطلوبة لنموذج OKLAB.
+title: "Color.FromOklab"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromOklab. تُرجع Color جديدًا بالقيم المطلوبة للسطوع A B لنموذج OKLAB"
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.drawing/color/fromoklab/
 ---
 ## Color.FromOklab method
 
-إرجاع لون جديد بقيم الإضاءة A و B المطلوبة لنموذج OKLAB.
+يرجع Color جديد مع القيم المطلوبة للسطوع، A، B لنموذج OKLAB.
 
 ```csharp
 public static Color FromOklab(float lightness, float a, float b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| lightness | Single | عائم يمثل مكون الإضاءة للون. |
-| a | Single | عدد عشري يمثل المكون "أ" للون. |
-| b | Single | عدد عشري يمثل المكون B للون. |
+| السطوع | Single | قيمة عائمة تمثل مكوّن السطوع للون. |
+| a | Single | قيمة float تمثل المكوّن A للون. |
+| b | Single | قيمة float تمثل المكوّن B لللون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

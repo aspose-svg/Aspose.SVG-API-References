@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.GetData
-second_title: Aspose.SVG لمرجع .NET API
-description: ITrueTypeFont طريقة. افتح الدفق ببيانات الخط. المتصل مسؤول عن التخلص من الدفق.
+title: "ITrueTypeFont.GetData"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ITrueTypeFont GetData. تفتح الدفق ببيانات الخط. المتصل مسؤول عن تحرير الدفق."
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.svg.drawing/itruetypefont/getdata/
 ---
 ## ITrueTypeFont.GetData method
 
-افتح الدفق ببيانات الخط. المتصل مسؤول عن التخلص من الدفق.
+يفتح الدفق (stream) ببيانات الخط. المتصل مسؤول عن تحرير الدفق.
 
 ```csharp
 public Stream GetData()
@@ -16,12 +16,10 @@ public Stream GetData()
 
 ### قيمة الإرجاع
 
-دفق مع بيانات الخط
+الدفق ببيانات الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITrueTypeFont](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itruetypefont/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

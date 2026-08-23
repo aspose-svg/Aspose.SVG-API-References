@@ -1,32 +1,30 @@
 ---
-title: UnitType.op_Equality
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType طريقة. تحديد ما إذا تم تحديد الاثنينUnitType القيم متساوية.
+title: "UnitType.op_Equality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة UnitType op_Equality. تحدد ما إذا كانت قيمتا UnitType المحددتان متساويتين"
 type: docs
 weight: 340
 url: /ar/net/aspose.svg.drawing/unittype/op_equality/
 ---
 ## UnitType Equality operator
 
-تحديد ما إذا تم تحديد الاثنين[`UnitType`](../) القيم متساوية.
+تحدد ما إذا كانت القيمتين المحددتين لـ [`UnitType`](../) متساويتين.
 
 ```csharp
 public static bool operator ==(UnitType first, UnitType second)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| first | UnitType | الأول[`UnitType`](../) قيمة للمقارنة. |
-| second | UnitType | الثاني[`UnitType`](../) قيمة للمقارنة. |
+| first | UnitType | القيمة الأولى [`UnitType`](../) للمقارنة. |
+| second | UnitType | القيمة الثانية [`UnitType`](../) للمقارنة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان كلاهما[`UnitType`](../) متساوون خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت كلا [`UnitType`](../) متساويتين؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

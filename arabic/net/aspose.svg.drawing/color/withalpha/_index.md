@@ -1,31 +1,29 @@
 ---
-title: Color.WithAlpha
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إنشاء نسخة من اللون بمكون ألفا محدد.
+title: "Color.WithAlpha"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color WithAlpha. تُنشئ نسخة من اللون مع مكوّن ألفا المحدد"
 type: docs
 weight: 450
 url: /ar/net/aspose.svg.drawing/color/withalpha/
 ---
 ## Color.WithAlpha method
 
-إنشاء نسخة من اللون بمكون ألفا محدد.
+ينشئ نسخة من اللون مع مكون ألفا المحدد.
 
 ```csharp
 public Color WithAlpha(float alpha)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| alpha | Single | قيمة مكون ألفا |
+| ألفا | Single | قيمة مكوّن ألفا |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

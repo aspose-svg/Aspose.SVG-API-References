@@ -1,27 +1,25 @@
 ---
-title: TimeEvent.Detail
-second_title: Aspose.SVG لمرجع .NET API
-description: TimeEvent ملكية. تحديد بعض المعلومات التفصيلية حول الحدث  اعتمادًا على نوع الحدث. بالنسبة لنوع الحدث هذا  يشير إلى رقم التكرار للرسوم المتحركة.
+title: "TimeEvent.Detail"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Detail في TimeEvent. يحدد بعض المعلومات التفصيلية حول الحدث اعتمادًا على نوع الحدث. لهذا النوع من الحدث يشير إلى رقم التكرار للرسوم المتحركة."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.events/timeevent/detail/
 ---
 ## TimeEvent.Detail property
 
-تحديد بعض المعلومات التفصيلية حول الحدث ، اعتمادًا على نوع الحدث. بالنسبة لنوع الحدث هذا ، يشير إلى رقم التكرار للرسوم المتحركة.
+يحدد بعض المعلومات التفصيلية حول الحدث، اعتمادًا على النوع **of the event**. لهذا **event type**، يشير إلى رقم التكرار **for the animation**.
 
 ```csharp
 public long Detail { get; }
 ```
 
-### Property_Value
+### Property Value
 
-التفاصيل.
+التفصيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeEvent](../)
-* مساحة الاسم [Aspose.Svg.Events](../../timeevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

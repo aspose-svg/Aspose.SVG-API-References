@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframesRule.AppendRule
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSKeyframesRule طريقة. تلحق طريقة appendRule CSSKeyframeRule التي تم تمريرها بالقائمة في key الذي تم تمريره
+title: "ICSSKeyframesRule.AppendRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة AppendRule في ICSSKeyframesRule. تقوم طريقة appendRule بإضافة CSSKeyframeRule الممرَّر إلى القائمة عند المفتاح الممرَّر"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/icsskeyframesrule/appendrule/
 ---
 ## ICSSKeyframesRule.AppendRule method
 
-تلحق طريقة appendRule CSSKeyframeRule التي تم تمريرها بالقائمة في key الذي تم تمريره
+طريقة appendRule تُضيف CSSKeyframeRule الممررة إلى القائمة عند المفتاح الممرر.
 
 ```csharp
 public void AppendRule(string rule)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rule | String | القاعدة المراد إلحاقها ، معبرًا عنها بنفس بناء الجملة لإدخال واحد في قاعدة "keyframes" |
+| قاعدة | String | القاعدة التي سيتم إلحاقها، معبرًا عنها بنفس صيغة أحد الإدخالات في قاعدة ‘@keyframes’ |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSKeyframesRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

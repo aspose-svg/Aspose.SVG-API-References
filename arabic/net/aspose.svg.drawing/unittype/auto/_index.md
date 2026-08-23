@@ -1,23 +1,21 @@
 ---
-title: UnitType.Auto
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس غير محدد .
+title: "UnitType.Auto"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Auto. القياس غير معرف"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/unittype/auto/
 ---
 ## UnitType.Auto field
 
-القياس غير محدد .
+القياس غير معرف.
 
 ```csharp
 public static readonly UnitType Auto;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

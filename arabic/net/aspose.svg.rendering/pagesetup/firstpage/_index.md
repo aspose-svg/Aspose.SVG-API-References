@@ -1,28 +1,26 @@
 ---
-title: PageSetup.FirstPage
-second_title: Aspose.SVG لمرجع .NET API
-description: PageSetup ملكية. الحصول على أو تعيين تهيئة الصفحة الأولى.
+title: "PageSetup.FirstPage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PageSetup FirstPage. الحصول أو تعيين تكوين الصفحة الأولى"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.rendering/pagesetup/firstpage/
 ---
 ## PageSetup.FirstPage property
 
-الحصول على أو تعيين تهيئة الصفحة الأولى.
+يحصل أو يضبط تكوين الصفحة الأولى.
 
 ```csharp
 public Page FirstPage { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الصفحة الأولى .
+الصفحة الأولى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../pagesetup/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

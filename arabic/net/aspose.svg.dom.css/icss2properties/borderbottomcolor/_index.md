@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderBottomColor
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية لون الحد السفلي في CSS2.
+title: "ICSS2Properties.BorderBottomColor"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties BorderBottomColor. انظر تعريف الخاصية border-bottom-color في CSS2"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.dom.css/icss2properties/borderbottomcolor/
 ---
 ## ICSS2Properties.BorderBottomColor property
 
-راجع تعريف خاصية لون الحد السفلي في CSS2.
+انظر تعريف خاصية border-bottom-color في CSS2.
 
 ```csharp
 public string BorderBottomColor { get; set; }
@@ -16,12 +16,10 @@ public string BorderBottomColor { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية لون الحد السفلي
+خاصية border-bottom-color
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

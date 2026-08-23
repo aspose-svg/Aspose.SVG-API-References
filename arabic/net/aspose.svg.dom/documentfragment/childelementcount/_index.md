@@ -1,27 +1,25 @@
 ---
-title: DocumentFragment.ChildElementCount
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentFragment ملكية. إرجاع العدد الحالي لعقد العناصر التي هي عناصر فرعية لهذا العنصر. 0 إذا كان هذا العنصر لا يحتوي على عقد فرعية من نوع العقدة 1.
+title: "DocumentFragment.ChildElementCount"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DocumentFragment ChildElementCount. تُعيد العدد الحالي لعقد العنصر التي هي أبناء لهذا العنصر. 0 إذا لم يكن لهذا العنصر أي عقد أبناء من النوع nodeType 1."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/documentfragment/childelementcount/
 ---
 ## DocumentFragment.ChildElementCount property
 
-إرجاع العدد الحالي لعقد العناصر التي هي عناصر فرعية لهذا العنصر. 0 إذا كان هذا العنصر لا يحتوي على عقد فرعية من نوع العقدة 1.
+يعيد العدد الحالي لعقد العناصر التي هي أبناء هذا العنصر. 0 إذا لم يكن لهذا العنصر أي عقدة فرعية من نوع nodeType 1.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد العناصر الفرعية .
+عدد العناصر الفرعية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentFragment](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documentfragment/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

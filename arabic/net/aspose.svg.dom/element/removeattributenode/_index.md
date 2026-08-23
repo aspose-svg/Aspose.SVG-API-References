@@ -1,7 +1,7 @@
 ---
-title: Element.RemoveAttributeNode
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. يزيل عقدة السمة المحددة.
+title: "Element.RemoveAttributeNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element RemoveAttributeNode. تزيل عقدة السمة المحددة"
 type: docs
 weight: 380
 url: /ar/net/aspose.svg.dom/element/removeattributenode/
@@ -14,19 +14,17 @@ url: /ar/net/aspose.svg.dom/element/removeattributenode/
 public Attr RemoveAttributeNode(Attr oldAttr)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| oldAttr | Attr | الطابع القديم. |
+| oldAttr | Attr | السمة القديمة. |
 
 ### قيمة الإرجاع
 
-إرجاع السمة
+تُعيد السمة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

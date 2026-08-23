@@ -1,28 +1,26 @@
 ---
-title: IUserAgentService.FontsSettings
-second_title: Aspose.SVG لمرجع .NET API
-description: IUserAgentService ملكية. يحصل على أHtml.FontsSettings كائن يستخدم لتكوين التعامل مع الخطوط .
+title: "IUserAgentService.FontsSettings"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IUserAgentService FontsSettings. تحصل على كائن Html.FontsSettings الذي يُستخدم لتكوين معالجة الخطوط."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.services/iuseragentservice/fontssettings/
 ---
 ## IUserAgentService.FontsSettings property
 
-يحصل على أ!:Html.FontsSettings كائن يستخدم لتكوين التعامل مع الخطوط .
+يحصل على كائن !:Html.FontsSettings الذي يُستخدم لتكوين معالجة الخطوط.
 
 ```csharp
 public FontsSettings FontsSettings { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف!:Html.FontsSettings الإعدادات .
+إعدادات !:Html.FontsSettings.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontsSettings](../../../aspose.svg/fontssettings/)
 * interface [IUserAgentService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../iuseragentservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

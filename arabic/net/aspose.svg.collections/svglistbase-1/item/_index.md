@@ -1,42 +1,40 @@
 ---
-title: SVGListBase1.Item
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGListBase ملكية. إرجاع عنصر الفهرس في القائمة.
+title: "SVGListBase-1.Item"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Item في SVGListBase. تُعيد العنصر رقم indexth في القائمة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.collections/svglistbase-1/item/
 ---
-## SVGListBase&lt;T&gt; indexer
+## SVGListBase<T> indexer
 
-إرجاع عنصر الفهرس في القائمة.
+يعيد العنصر رقم الفهرس في القائمة.
 
 ```csharp
 public T this[ulong index] { get; set; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | فهرس في القائمة. |
+| index | الفهرس في القائمة. |
 
 ### قيمة الإرجاع
 
-الكائن المخزن في موضع الفهرس في القائمة.
+الكائن المخزن في الموضع رقم indexth في القائمة.
 
-### Property_Value
+### Property Value
 
 نوع العنصر المخزن في القائمة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | شفرة[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يتم رفعه عندما يتعذر تعديل القائمة. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | شفرة[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). تُرفع إذا كان رقم الفهرس أكبر من أو يساوي numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُرفع عندما لا يمكن تعديل القائمة. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). يُرفع إذا كان رقم الفهرس أكبر من أو يساوي numberOfItems. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGListBase&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../svglistbase-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

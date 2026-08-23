@@ -1,55 +1,53 @@
 ---
-title: HttpMethod.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: HttpMethod طريقة. يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+title: "HttpMethod.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة HttpMethod Equals. تشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.net/httpmethod/equals/
 ---
-## Equals(HttpMethod) {#equals}
+## Equals(*[HttpMethod](../)*) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(HttpMethod other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | HttpMethod | كائن للمقارنة مع هذا الكائن. |
+| آخر | HttpMethod | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي*other* معامل؛ وإلا ، خطأ .
+صحيح إذا كان الكائن الحالي مساويًا للمعامل *other*؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HttpMethod](../)
-* مساحة الاسم [Aspose.Svg.Net](../../httpmethod/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد مساويًا لهذه الحالة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | كائن | الكائن للمقارنة مع هذه النسخة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد مساويًا لهذه النسخة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HttpMethod](../)
-* مساحة الاسم [Aspose.Svg.Net](../../httpmethod/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

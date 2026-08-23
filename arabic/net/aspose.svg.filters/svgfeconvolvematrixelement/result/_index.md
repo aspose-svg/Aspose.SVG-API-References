@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Result
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement ملكية. يتوافق مع السمة نتيجة على عنصر عامل التصفية المحدد .
+title: "SVGFEConvolveMatrixElement.Result"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Result لعنصر SVGFEConvolveMatrixElement. تتطابق مع السمة result على عنصر الفلتر المحدد"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/result/
 ---
 ## SVGFEConvolveMatrixElement.Result property
 
-يتوافق مع السمة "نتيجة" على عنصر "عامل التصفية" المحدد .
+يتطابق مع السمة ‘result’ في العنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "نتيجة" لعنصر "عامل التصفية" المحدد .
+السمة ‘result’ لعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

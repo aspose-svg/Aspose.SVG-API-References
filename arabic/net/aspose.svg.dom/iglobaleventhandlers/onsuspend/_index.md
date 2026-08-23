@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnSuspend
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnSuspend.
+title: "IGlobalEventHandlers.OnSuspend"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث OnSuspend في IGlobalEventHandlers. يحصل أو يضبط معالج الحدث لـ OnSuspend."
 type: docs
 weight: 460
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onsuspend/
 ---
 ## IGlobalEventHandlers.OnSuspend event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnSuspend.
+يحصل أو يعيّن معالج الحدث لحدث OnSuspend.
 
 ```csharp
 public event DOMEventHandler OnSuspend;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

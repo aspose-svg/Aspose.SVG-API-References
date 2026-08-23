@@ -1,23 +1,21 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_UNSPECIFIED
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGAngle مجال. لم يتم توفير نوع وحدة على سبيل المثال  تم تحديد قيمة بدون وحدة. بالنسبة للزوايا  يتم التعامل مع القيمة بدون وحدة كما لو تم تحديد الدرجات.
+title: "SVGAngle.SVG_ANGLETYPE_UNSPECIFIED"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGAngle SVG_ANGLETYPE_UNSPECIFIED. لم يتم توفير نوع وحدة أي تم تحديد قيمة بدون وحدة. بالنسبة للزوايا تُعامل القيمة بدون وحدة كما لو تم تحديد درجات."
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.datatypes/svgangle/svg_angletype_unspecified/
 ---
 ## SVGAngle.SVG_ANGLETYPE_UNSPECIFIED field
 
-لم يتم توفير نوع وحدة (على سبيل المثال ، تم تحديد قيمة بدون وحدة). بالنسبة للزوايا ، يتم التعامل مع القيمة بدون وحدة كما لو تم تحديد الدرجات.
+لم يتم توفير نوع وحدة (أي تم تحديد قيمة بدون وحدة). بالنسبة للزوايا، تُعامل القيمة بدون وحدة كما لو تم تحديد الدرجات.
 
 ```csharp
 public const ushort SVG_ANGLETYPE_UNSPECIFIED;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAngle](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgangle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: ImageRenderingOptions.Text
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageRenderingOptions ملكية. يحصل على أTextOptions الكائن المستخدم لتكوين عرض النص.
+title: "ImageRenderingOptions.Text"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ImageRenderingOptions Text. يحصل على كائن TextOptions الذي يُستخدم لتكوين عرض النص"
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.svg.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property
 
-يحصل على أ[`TextOptions`](../../textoptions/) الكائن المستخدم لتكوين عرض النص.
+يحصل على كائن [`TextOptions`](../../textoptions/) الذي يُستخدم لتكوين عرض النص.
 
 ```csharp
 public TextOptions Text { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`TextOptions`](../../textoptions/) الكائن .
+الكائن [`TextOptions`](../../textoptions/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextOptions](../../textoptions/)
 * class [ImageRenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

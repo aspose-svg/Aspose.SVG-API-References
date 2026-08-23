@@ -1,23 +1,21 @@
 ---
-title: NamedNodeMap.Length
-second_title: Aspose.SVG لمرجع .NET API
-description: NamedNodeMap ملكية. عدد العقد في هذه الخريطة .
+title: "NamedNodeMap.Length"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Length في NamedNodeMap. عدد العقد في هذه الخريطة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.collections/namednodemap/length/
 ---
 ## NamedNodeMap.Length property
 
-عدد العقد في هذه الخريطة .
+عدد العقد في هذه الخريطة.
 
 ```csharp
 public int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NamedNodeMap](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../namednodemap/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

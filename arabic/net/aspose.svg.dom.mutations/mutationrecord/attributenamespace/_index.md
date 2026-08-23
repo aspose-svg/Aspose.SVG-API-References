@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.AttributeNamespace
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationRecord ملكية. إرجاع مساحة الاسم للسمة التي تم تغييرها  وبخلاف ذلك خالية.
+title: "MutationRecord.AttributeNamespace"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationRecord AttributeNamespace. تُرجع مساحة الاسم للسمة المتغيرة أو null في غير ذلك."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.mutations/mutationrecord/attributenamespace/
 ---
 ## MutationRecord.AttributeNamespace property
 
-إرجاع مساحة الاسم للسمة التي تم تغييرها ، وبخلاف ذلك خالية.
+يرجع مساحة الاسم للخاصية المتغيَّرة، وإلا يكون null.
 
 ```csharp
 public string AttributeNamespace { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مساحة اسم السمة .
+مساحة اسم السمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationRecord](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.Values
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEColorMatrixElement ملكية. يتوافق مع السمة قيم على عنصر feColorMatrix المحدد.
+title: "SVGFEColorMatrixElement.Values"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Values في SVGFEColorMatrixElement. تتطابق مع السمة values في عنصر feColorMatrix المحدد."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.filters/svgfecolormatrixelement/values/
 ---
 ## SVGFEColorMatrixElement.Values property
 
-يتوافق مع السمة "قيم" على عنصر "feColorMatrix" المحدد.
+يتطابق مع السمة ‘values’ في العنصر ‘feColorMatrix’ المحدد.
 
 ```csharp
 public SVGAnimatedNumberList Values { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "قيم" لعنصر "feColorMatrix" المحدد .
+السمة ‘values’ في عنصر ‘feColorMatrix’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGFEColorMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

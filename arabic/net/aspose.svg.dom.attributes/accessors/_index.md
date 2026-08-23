@@ -1,32 +1,30 @@
 ---
-title: Enum Accessors
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Attributes.Accessors تعداد. يمثل تعداد موصِّلات الأعضاء التي تم تعريفها بواسطة W3C.
+title: "تعداد Accessors"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Attributes.Accessors تعداد. يمثل تعداد وصول الأعضاء الذي حددته W3C"
 type: docs
-weight: 360
+weight: 2360
 url: /ar/net/aspose.svg.dom.attributes/accessors/
 ---
 ## Accessors enumeration
 
-يمثل تعداد موصِّلات الأعضاء التي تم تعريفها بواسطة W3C.
+يمثل تعداد موصلات الأعضاء الذي تم تعريفه من قبل W3C.
 
 ```csharp
 [Flags]
 public enum Accessors : byte
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | يحدد أن الخاصية ليس لها أي معنى خاص. |
-| Getter | `1` | تحديد أنه يجب التعامل مع الخاصية أو الطريقة على أنها دالة getter . |
-| Setter | `2` | تحديد أنه يجب التعامل مع الخاصية أو الطريقة كمعيِّن. |
-| Deleter | `4` | تحديد أنه يجب التعامل مع الخاصية أو الطريقة عن طريق الحذف. |
+| None | `0` | يحدد أن الخاصية لا تحمل أي معنى خاص. |
+| Getter | `1` | يحدد أن الخاصية أو الطريقة يجب معالجتها كمستخرج. |
+| Setter | `2` | يحدد أن الخاصية أو الطريقة يجب معالجتها كمُعيّن. |
+| Deleter | `4` | يحدد أن الخاصية أو الطريقة يجب معالجتها بالحذف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

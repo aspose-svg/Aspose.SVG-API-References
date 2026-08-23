@@ -1,28 +1,26 @@
 ---
-title: SVGSymbolElement.ViewBox
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSymbolElement ملكية. يتوافق مع السمة viewBox في العنصر المحدد.
+title: "SVGSymbolElement.ViewBox"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ViewBox في SVGSymbolElement. تتطابق مع السمة viewBox في العنصر المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgsymbolelement/viewbox/
 ---
 ## SVGSymbolElement.ViewBox property
 
-يتوافق مع السمة "viewBox" في العنصر المحدد.
+يتطابق مع السمة ‘viewBox’ في العنصر المعطى.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Property_Value
+### Property Value
 
-"مربع العرض" الخاص بالعنصر المحدد.
+‘viewBox’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * class [SVGSymbolElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsymbolelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

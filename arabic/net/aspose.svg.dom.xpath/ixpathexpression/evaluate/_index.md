@@ -1,44 +1,42 @@
 ---
-title: IXPathExpression.Evaluate
-second_title: Aspose.SVG لمرجع .NET API
-description: IXPathExpression طريقة. بتقييم تعبير XPath هذا وإرجاع نتيجة.
+title: "IXPathExpression.Evaluate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Evaluate في IXPathExpression. تقيم هذا التعبير XPath وتعيد نتيجة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.xpath/ixpathexpression/evaluate/
 ---
 ## IXPathExpression.Evaluate method
 
-بتقييم تعبير XPath هذا وإرجاع نتيجة.
+يقوم بتقييم هذا التعبير XPath ويعيد نتيجة.
 
 ```csharp
 public IXPathResult Evaluate(Node contextNode, XPathResultType type, object result)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| contextNode | Node | ال`سياق` هي عقدة سياق لتقييم تعبير XPath هذا. إذا كان ملف[`IXPathEvaluator`](../../ixpathevaluator/) تم الحصول عليها عن طريق صب[`Document`](../../../aspose.svg.dom/document/) إذًا يجب أن يكون هذا مملوكًا لنفس المستند ويجب أن يكون ملف[`Document`](../../../aspose.svg.dom/document/) و[`Element`](../../../aspose.svg.dom/element/) و[`Attr`](../../../aspose.svg.dom/attr/) ، [`Text`](../../../aspose.svg.dom/text/) و[`CDATASection`](../../../aspose.svg.dom/cdatasection/) و[`Comment`](../../../aspose.svg.dom/comment/) و[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) أو أوXPathNamespace العقدة. إذا كانت عقدة السياق هي ملف[`Text`](../../../aspose.svg.dom/text/) أو أ[`CDATASection`](../../../aspose.svg.dom/cdatasection/)، ثم يتم تفسير السياق على أنه عقدة النص المنطقي بالكامل كما يراها XPath ، إلا إذا كانت العقدة فارغة وفي هذه الحالة قد لا تعمل كسياق XPath. |
-| type | XPathResultType | إذا كان ملف`يكتب` تم تحديده ، ثم سيتم إجبار النتيجة على إرجاع النوع المحدد الذي يعتمد على تحويلات XPath والفشل إذا كان الإكراه المطلوب غير ممكن. يجب أن تكون إحدى قيم[`XPathResultType`](../../xpathresulttype/). |
-| result | Object | ال`نتيجة` يحدد كائن نتيجة محدد يمكن إعادة استخدامه وإعادته بهذه الطريقة. إذا تم تحديد هذا على أنه`باطل`أو أن التطبيق لا يعيد استخدام نتيجة المحددة ، فسيتم إنشاء كائن نتيجة جديد وإرجاعه. بالنسبة لنتائج XPath 1.0 ، سيكون هذا الكائن من النوع[`IXPathResult`](../../ixpathresult/). |
+| contextNode | Node | الـ `context` هو عقدة السياق لتقييم هذا التعبير XPath. إذا تم الحصول على [`IXPathEvaluator`](../../ixpathevaluator/) عن طريق تحويل [`Document`](../../../aspose.svg.dom/document/) فإن هذا يجب أن يكون مملوكاً لنفس المستند ويجب أن يكون إما [`Document`](../../../aspose.svg.dom/document/), [`Element`](../../../aspose.svg.dom/element/), [`Attr`](../../../aspose.svg.dom/attr/), [`Text`](../../../aspose.svg.dom/text/), [`CDATASection`](../../../aspose.svg.dom/cdatasection/), [`Comment`](../../../aspose.svg.dom/comment/), [`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/), أو عقدة XPathNamespace. إذا كانت عقدة السياق هي [`Text`](../../../aspose.svg.dom/text/) أو [`CDATASection`](../../../aspose.svg.dom/cdatasection/), فسيتم تفسير السياق ككل عقدة نصية منطقية كما يراها XPath، ما لم تكن العقدة فارغة في هذه الحالة قد لا تُستخدم كالسياق XPath. |
+| type | XPathResultType | إذا تم تحديد `type` معين، فسيتم تحويل النتيجة لإرجاع النوع المحدد بالاعتماد على تحويلات XPath وستفشل إذا لم يكن التحويل المطلوب ممكنًا. يجب أن يكون هذا أحد قيم [`XPathResultType`](../../xpathresulttype/). |
+| result | Object | الـ `result` يحدد كائن نتيجة محدد قد يُعاد استخدامه وتُعيده هذه الطريقة. إذا تم تحديده كـ `null` أو إذا لم تُعيد التنفيذ إعادة استخدام النتيجة المحددة، فسيتم إنشاء كائن نتيجة جديد وإرجاعه. بالنسبة لنتائج XPath 1.0، سيكون هذا الكائن من النوع [`IXPathResult`](../../ixpathresult/). |
 
 ### قيمة الإرجاع
 
-نتيجة تقييم تعبير XPath. بالنسبة لنتائج XPath 1.0 ، سيكون هذا الكائن من النوع[`IXPathResult`](../../ixpathresult/).
+نتيجة تقييم تعبير XPath. بالنسبة لنتائج XPath 1.0، سيكون هذا الكائن من النوع [`IXPathResult`](../../ixpathresult/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: يتم رفعه إذا تعذر تحويل النتيجة لإرجاع النوع المحدد. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: العقدة من مستند لا يدعمه [`IXPathEvaluator`](../../ixpathevaluator/) التي خلقت هذا[`IXPathExpression`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: العقدة ليست نوعًا مسموحًا به كعقدة سياق XPath أو نوع الطلب غير مسموح به بواسطة هذا[`IXPathExpression`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: يُرفع إذا تعذّر تحويل النتيجة لإرجاع النوع المحدد. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: العقدة من مستند غير مدعوم من قبل [`IXPathEvaluator`](../../ixpathevaluator/) الذي أنشأ هذه [`IXPathExpression`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: العقدة ليست من النوع المسموح به كعقدة سياق XPath أو نوع الطلب غير مسموح به من قبل هذه [`IXPathExpression`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXPathResult](../../ixpathresult/)
 * class [Node](../../../aspose.svg.dom/node/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathExpression](../)
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../ixpathexpression/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

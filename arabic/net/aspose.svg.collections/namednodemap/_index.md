@@ -1,9 +1,9 @@
 ---
-title: Class NamedNodeMap
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Collections.NamedNodeMap فصل. يمثل مجموعات من السمات التي يمكن الوصول إليها بالاسم.
+title: "فئة NamedNodeMap"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Collections.NamedNodeMap. تمثل مجموعات من السمات التي يمكن الوصول إليها بالاسم."
 type: docs
-weight: 30
+weight: 2020
 url: /ar/net/aspose.svg.collections/namednodemap/
 ---
 ## NamedNodeMap class
@@ -11,34 +11,30 @@ url: /ar/net/aspose.svg.collections/namednodemap/
 يمثل مجموعات من السمات التي يمكن الوصول إليها بالاسم.
 
 ```csharp
-public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
+public class NamedNodeMap : DOMObject
 ```
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Item](../../aspose.svg.collections/namednodemap/item/) { get; } | إرجاع عنصر الفهرس في الخريطة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في هذه الخريطة ، فإن هذا يُرجع قيمة خالية. (2 indexers) |
-| [Length](../../aspose.svg.collections/namednodemap/length/) { get; } | عدد العقد في هذه الخريطة . |
+| [Item](../../aspose.svg.collections/namednodemap/item/) { get; } | يرجع العنصر رقم الفهرس في الخريطة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في هذه الخريطة، فإنها تُرجع null. (مؤشرين) |
+| [Length](../../aspose.svg.collections/namednodemap/length/) { get; } | عدد العقد في هذه الخريطة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetEnumerator](../../aspose.svg.collections/namednodemap/getenumerator/)() | إرجاع عداد يتكرر خلال المجموعة. |
-| [GetNamedItem](../../aspose.svg.collections/namednodemap/getnameditem/)(string) | استرداد العقدة المحددة بالاسم. |
-| [GetNamedItemNS](../../aspose.svg.collections/namednodemap/getnameditemns/)(string, string) | استرداد العقدة المحددة بواسطة الاسم المحلي ومساحة URI. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [RemoveNamedItem](../../aspose.svg.collections/namednodemap/removenameditem/)(string) | يزيل عقدة محددة بالاسم . |
-| [RemoveNamedItemNS](../../aspose.svg.collections/namednodemap/removenameditemns/)(string, string) | يزيل عقدة محددة بواسطة الاسم المحلي ومساحة URI. |
-| [SetNamedItem](../../aspose.svg.collections/namednodemap/setnameditem/)(Attr) | إضافة عقدة باستخدام السمة nodeName الخاصة بها. إذا كانت العقدة بهذا الاسم موجودة بالفعل في هذه الخريطة ، فسيتم استبدالها بالعقدة الجديدة. استبدال العقدة في حد ذاته ليس له أي تأثير. |
-| [SetNamedItemNS](../../aspose.svg.collections/namednodemap/setnameditemns/)(Attr) | يضيف عقدة باستخدام مساحة الاسم الخاصة بها UURI و localName. إذا كانت العقدة ذات مساحة الاسم URI وهذا الاسم المحلي موجودة بالفعل في هذه الخريطة ، فسيتم استبدالها بالاسم الجديد. استبدال العقدة في حد ذاته ليس له أي تأثير. |
+| [GetNamedItem](../../aspose.svg.collections/namednodemap/getnameditem/)(*string*) | يسترجع عقدة محددة بالاسم. |
+| [GetNamedItemNS](../../aspose.svg.collections/namednodemap/getnameditemns/)(*string, string*) | يسترجع عقدة محددة بالاسم المحلي وURI مساحة الاسم. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [RemoveNamedItem](../../aspose.svg.collections/namednodemap/removenameditem/)(*string*) | يزيل عقدة محددة بالاسم. |
+| [RemoveNamedItemNS](../../aspose.svg.collections/namednodemap/removenameditemns/)(*string, string*) | يزيل عقدة محددة بالاسم المحلي وURI مساحة الاسم. |
+| [SetNamedItem](../../aspose.svg.collections/namednodemap/setnameditem/)(*[Attr](../../aspose.svg.dom/attr/)*) | يضيف عقدة باستخدام خاصية nodeName الخاصة بها. إذا كانت هناك عقدة بهذا الاسم موجودة بالفعل في هذه الخريطة، يتم استبدالها بالعقدة الجديدة. استبدال عقدة بنفسها لا يؤثر. |
+| [SetNamedItemNS](../../aspose.svg.collections/namednodemap/setnameditemns/)(*[Attr](../../aspose.svg.dom/attr/)*) | يضيف عقدة باستخدام خاصيتي namespaceURI و localName. إذا كانت هناك عقدة بهذا الـ namespace URI وهذا الاسم المحلي موجودة بالفعل في هذه الخريطة، يتم استبدالها بالعقدة الجديدة. استبدال عقدة بنفسها لا يؤثر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* class [Attr](../../aspose.svg.dom/attr/)
-* مساحة الاسم [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

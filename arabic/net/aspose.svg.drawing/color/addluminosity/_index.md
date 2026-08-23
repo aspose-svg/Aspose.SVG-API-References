@@ -1,31 +1,29 @@
 ---
-title: Color.AddLuminosity
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. لإنشاء نسخة من اللون مع مجموع لمعانها وقيمة دلتا.
+title: "Color.AddLuminosity"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color AddLuminosity. تنشئ نسخة من الـ Color بمجموع إضاءتها وقيمة delta"
 type: docs
 weight: 280
 url: /ar/net/aspose.svg.drawing/color/addluminosity/
 ---
 ## Color.AddLuminosity method
 
-لإنشاء نسخة من اللون مع مجموع لمعانها وقيمة دلتا.
+ينشئ نسخة من Color مع مجموع إضائته وقيمة الدلتا.
 
 ```csharp
 public Color AddLuminosity(float delta)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| delta | Single | قيمة اللمعان |
+| delta | Single | قيمة السطوع |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

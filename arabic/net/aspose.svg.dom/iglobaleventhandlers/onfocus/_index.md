@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnFocus
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على أو تعيين معالج الأحداث لحدث OnFocus.
+title: "IGlobalEventHandlers.OnFocus"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnFocus الحدث. يحصل أو يضبط معالج الحدث لـ OnFocus الحدث"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onfocus/
 ---
 ## IGlobalEventHandlers.OnFocus event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnFocus.
+الحصول أو تعيين معالج الحدث لـ OnFocus.
 
 ```csharp
 public event DOMEventHandler OnFocus;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

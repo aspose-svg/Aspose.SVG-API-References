@@ -1,27 +1,25 @@
 ---
-title: Document.NodeName
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. اسم هذه العقدة حسب نوعها.
+title: "Document.NodeName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document NodeName. اسم هذه العقدة حسب نوعها"
 type: docs
 weight: 180
 url: /ar/net/aspose.svg.dom/document/nodename/
 ---
 ## Document.NodeName property
 
-اسم هذه العقدة حسب نوعها.
+اسم هذه العقدة، حسب نوعها.
 
 ```csharp
 public override string NodeName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم العقدة .
+اسم العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

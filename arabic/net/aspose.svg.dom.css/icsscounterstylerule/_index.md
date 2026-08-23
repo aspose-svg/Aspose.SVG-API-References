@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSCounterStyleRule
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSCounterStyleRule واجهه المستخدم. تسمح قاعدة  counterstyle للمؤلفين بتعريف نمط عداد مخصص.
+title: "واجهة ICSSCounterStyleRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Css.ICSSCounterStyleRule interface. تسمح قاعدة counter-style للمؤلفين بتعريف نمط عدّ مخصص"
 type: docs
-weight: 540
+weight: 2540
 url: /ar/net/aspose.svg.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface
 
-تسمح قاعدة @ counter-style للمؤلفين بتعريف نمط عداد مخصص.
+تسمح قاعدة @counter-style للمؤلفين بتعريف نمط عدّاد مخصص.
 
 ```csharp
 public interface ICSSCounterStyleRule : ICSSRule
@@ -16,19 +16,17 @@ public interface ICSSCounterStyleRule : ICSSRule
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CounterType](../../aspose.svg.dom.css/icsscounterstylerule/countertype/) { get; } | يحصل على نوع العداد . |
-| [Fallback](../../aspose.svg.dom.css/icsscounterstylerule/fallback/) { get; } | يحصل على احتياطي . |
-| [Glyphs](../../aspose.svg.dom.css/icsscounterstylerule/glyphs/) { get; } | يحصل على الصور الرمزية . |
-| [Name](../../aspose.svg.dom.css/icsscounterstylerule/name/) { get; } | يحصل على الاسم . |
-| [Prefix](../../aspose.svg.dom.css/icsscounterstylerule/prefix/) { get; } | يحصل على البادئة . |
+| [CounterType](../../aspose.svg.dom.css/icsscounterstylerule/countertype/) { get; } | يحصل على نوع العداد. |
+| [Fallback](../../aspose.svg.dom.css/icsscounterstylerule/fallback/) { get; } | يحصل على البديل. |
+| [Glyphs](../../aspose.svg.dom.css/icsscounterstylerule/glyphs/) { get; } | يحصل على الرموز. |
+| [Name](../../aspose.svg.dom.css/icsscounterstylerule/name/) { get; } | يحصل على الاسم. |
+| [Prefix](../../aspose.svg.dom.css/icsscounterstylerule/prefix/) { get; } | يحصل على البادئة. |
 | [Suffix](../../aspose.svg.dom.css/icsscounterstylerule/suffix/) { get; } | يحصل على اللاحقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../icssrule/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

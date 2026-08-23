@@ -1,135 +1,133 @@
 ---
-title: XpsDevice.XpsDevice
-second_title: Aspose.SVG لمرجع .NET API
-description: XpsDevice البناء. يقوم بتهيئة مثيل جديد لملفXpsDevice فئة .
+title: "XpsDevice"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ XpsDevice. يهيئ مثالًا جديدًا من الفئة XpsDevice"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
-## XpsDevice(ICreateStreamProvider) {#constructor}
+## XpsDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`XpsDevice`](../).
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | مزود البث. |
+| streamProvider | ICreateStreamProvider | مزوّد الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) class عن طريق تقديم الخيارات وموفر البث.
+يهيئ مثالًا جديدًا من الفئة [`XpsDevice`](../) باستخدام خيارات العرض ومزود الدفق.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | XpsRenderingOptions | خيارات التقديم. |
-| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) واجهه المستخدم |
+| options | XpsRenderingOptions | خيارات العرض. |
+| streamProvider | ICreateStreamProvider | كائن يطبق الواجهة [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(string) {#constructor_5}
+## XpsDevice(*string*) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`XpsDevice`](../).
 
 ```csharp
 public XpsDevice(string file)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | file | String | اسم ملف الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XpsDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), string*) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) class عن طريق تقديم الخيارات واسم ملف الإخراج.
+يهيئ مثالًا جديدًا من الفئة [`XpsDevice`](../) باستخدام خيارات العرض واسم ملف الإخراج.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | XpsRenderingOptions | خيارات التقديم. |
+| options | XpsRenderingOptions | خيارات العرض. |
 | file | String | اسم ملف الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(Stream) {#constructor_4}
+## XpsDevice(*Stream*) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`XpsDevice`](../).
 
 ```csharp
 public XpsDevice(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| دفق | Stream | الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XpsDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), Stream*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) class عن طريق تقديم الخيارات ودفق الإخراج.
+يهيئ مثالًا جديدًا من الفئة [`XpsDevice`](../) باستخدام خيارات العرض وتدفق الإخراج.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | XpsRenderingOptions | خيارات التقديم. |
-| stream | Stream | تيار الإخراج. |
+| options | XpsRenderingOptions | خيارات العرض. |
+| دفق | Stream | دفق الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

@@ -1,38 +1,36 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicRel
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement طريقة. إرجاع كائن SVGPathSegCurvetoCubicRel مستقل وغير أبوي.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicRel"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPathElement CreateSVGPathSegCurvetoCubicRel. تُرجع كائن SVGPathSegCurvetoCubicRel مستقل ولا يحتوي على أب"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicRel method
 
-إرجاع كائن SVGPathSegCurvetoCubicRel مستقل وغير أبوي.
+يرجع كائن SVGPathSegCurvetoCubicRel مستقل لا يملك أبًا.
 
 ```csharp
 public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float y, float x1, 
     float y1, float x2, float y2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | إحداثي X النسبي لنقطة نهاية مقطع المسار هذا. |
-| y | Single | إحداثي Y النسبي لنقطة نهاية مقطع المسار هذا. |
-| x1 | Single | إحداثي X النسبي لنقطة التحكم الأولى. |
-| y1 | Single | إحداثي Y النسبي لنقطة التحكم الأولى. |
-| x2 | Single | إحداثي X النسبي لنقطة التحكم الثانية. |
-| y2 | Single | الإحداثي النسبي Y لنقطة التحكم الثانية. |
+| x | Single | الإحداثي X النسبي لنقطة النهاية لهذا مقطع المسار. |
+| y | Single | الإحداثي Y النسبي لنقطة النهاية لهذا مقطع المسار. |
+| x1 | Single | الإحداثي X النسبي للنقطة التحكمية الأولى. |
+| y1 | Single | الإحداثي Y النسبي للنقطة التحكمية الأولى. |
+| x2 | Single | الإحداثي X النسبي للنقطة التحكمية الثانية. |
+| y2 | Single | الإحداثي Y النسبي للنقطة التحكمية الثانية. |
 
 ### قيمة الإرجاع
 
-كائن SVGPathSegCurvetoCubicRel قائم بذاته وبدون أب.
+كائن SVGPathSegCurvetoCubicRel مستقل ولا يحتوي على أب
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegCurvetoCubicRel](../../../aspose.svg.paths/svgpathsegcurvetocubicrel/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

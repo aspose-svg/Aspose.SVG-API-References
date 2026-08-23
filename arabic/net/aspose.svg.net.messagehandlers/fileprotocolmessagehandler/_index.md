@@ -1,41 +1,39 @@
 ---
-title: Class FileProtocolMessageHandler
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.MessageHandlers.FileProtocolMessageHandler فصل. يمثل ملفملف معالج رسائل البروتوكول.
+title: "الفئة FileProtocolMessageHandler"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Net.MessageHandlers.FileProtocolMessageHandler. تمثل معالج رسائل بروتوكول الملف"
 type: docs
-weight: 2360
+weight: 4430
 url: /ar/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler class
 
-يمثل ملف`ملف:` معالج رسائل البروتوكول.
+يمثل معالج رسالة بروتوكول `file:`.
 
 ```csharp
 public class FileProtocolMessageHandler : MessageHandler
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FileProtocolMessageHandler](fileprotocolmessagehandler/)() | يقوم بتهيئة مثيل جديد لملف`FileProtocolMessageHandler` فئة . |
+| [FileProtocolMessageHandler](fileprotocolmessagehandler/)() | يقوم بإنشاء نسخة جديدة من الفئة `FileProtocolMessageHandler`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | الحصول على قائمة عوامل التصفية المطابقة لنوع المعالج المحدد. |
+| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | يحصل على قائمة المرشحات التي تتوافق مع نوع المعالج المحدد. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/)(INetworkOperationContext) | عند التجاوز في فئة مشتقة يتم استخدامها لتنفيذ معالجة الرسائل. |
+| override [Invoke](../../aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | عند تجاوزها في فئة مشتقة تُستخدم لتنفيذ معالجة الرسائل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MessageHandler](../../aspose.svg.net/messagehandler/)
-* مساحة الاسم [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../)

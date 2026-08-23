@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Azimuth
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية السمت في CSS2.
+title: "ICSS2Properties.Azimuth"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Azimuth في ICSS2Properties. راجع تعريف خاصية azimuth في CSS2"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icss2properties/azimuth/
 ---
 ## ICSS2Properties.Azimuth property
 
-راجع تعريف خاصية السمت في CSS2.
+انظر تعريف خاصية azimuth في CSS2.
 
 ```csharp
 public string Azimuth { get; set; }
@@ -16,12 +16,10 @@ public string Azimuth { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية السمت
+خاصية azimuth
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

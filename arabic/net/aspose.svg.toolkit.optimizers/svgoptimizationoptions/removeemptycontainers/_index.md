@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveEmptyContainers
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على أو تحديد خيار إزالة الحاويات الفارغة. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveEmptyContainers"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGOptimizationOptions RemoveEmptyContainers. يحصل أو يضبط الخيار لإزالة الحاويات الفارغة. القيمة true بشكل افتراضي"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptycontainers/
 ---
 ## SVGOptimizationOptions.RemoveEmptyContainers property
 
-الحصول على أو تحديد خيار إزالة الحاويات الفارغة. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة الحاويات الفارغة. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveEmptyContainers { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية نمط الخط في CSS2.
+title: "ICSS2Properties.FontStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties FontStyle. راجع تعريف خاصية font-style في CSS2"
 type: docs
 weight: 520
 url: /ar/net/aspose.svg.dom.css/icss2properties/fontstyle/
 ---
 ## ICSS2Properties.FontStyle property
 
-راجع تعريف خاصية نمط الخط في CSS2.
+انظر تعريف خاصية font-style في CSS2.
 
 ```csharp
 public string FontStyle { get; set; }
@@ -16,12 +16,10 @@ public string FontStyle { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية نمط الخط
+خاصية font-style
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Device2.StrokeText
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. ضربات السلسلة النصية المحددة في الموقع المحدد.
+title: "Device-2.StrokeText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device StrokeText. تُرسم سلسلة النص المحددة في الموقع المحدد"
 type: docs
-weight: 240
+weight: 270
 url: /ar/net/aspose.svg.rendering/device-2/stroketext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method
+## Device<TGraphicContext,TRenderingOptions>.StrokeText method
 
-ضربات السلسلة النصية المحددة في الموقع المحدد.
+يرسم سلسلة النص المحددة في الموقع المحدد.
 
 ```csharp
-public abstract void StrokeText(string text, PointF pt)
+public virtual void StrokeText(string text, PointF pt)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | السلسلة إلى السكتة الدماغية. |
-| pt | PointF | النقطة التي تحدد الإحداثيات حيث يبدأ النص. |
+| نص | String | النص المراد رسمه. |
+| pt | PointF | النقطة التي تحدد الإحداثيات لبدء النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: ITraversal.Root
-second_title: Aspose.SVG لمرجع .NET API
-description: ITraversal ملكية. العقدة الجذرية لـ NodeIterator  كما هو محدد عند إنشاء it .
+title: "ITraversal.Root"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ITraversal Root. العقدة الجذرية لـ NodeIterator كما تم تحديدها عند إنشائه."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.traversal/itraversal/root/
 ---
 ## ITraversal.Root property
 
-العقدة الجذرية لـ NodeIterator ، كما هو محدد عند إنشاء it .
+العقدة الجذرية لـ NodeIterator، كما تم تحديدها عند إنشائها.
 
 ```csharp
 public Node Root { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الجذر .
+الجذر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITraversal](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

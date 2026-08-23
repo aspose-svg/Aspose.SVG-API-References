@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Widows
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الأرامل في CSS2.
+title: "ICSS2Properties.Widows"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties Widows. انظر تعريف خاصية widows في CSS2"
 type: docs
-weight: 1190
+weight: 1220
 url: /ar/net/aspose.svg.dom.css/icss2properties/widows/
 ---
 ## ICSS2Properties.Widows property
 
-راجع تعريف خاصية الأرامل في CSS2.
+انظر إلى تعريف الخاصية widows في CSS2.
 
 ```csharp
 public string Widows { get; set; }
@@ -16,12 +16,10 @@ public string Widows { get; set; }
 
 ### قيمة الإرجاع
 
-ممتلكات الأرامل
+خاصية widows
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

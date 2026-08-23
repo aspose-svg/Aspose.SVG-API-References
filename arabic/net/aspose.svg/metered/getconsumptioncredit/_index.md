@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.SVG لمرجع .NET API
-description: Metered طريقة. يحصل على ائتمان الاستهلاك
+title: "Metered.GetConsumptionCredit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Metered GetConsumptionCredit. تحصل على رصيد الاستهلاك"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-يحصل على ائتمان الاستهلاك
+يحصل على رصيد الاستهلاك
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -18,10 +18,8 @@ public static decimal GetConsumptionCredit()
 
 كمية الاستهلاك
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.Svg](../../metered/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Margin
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الهامش في CSS2.
+title: "ICSS2Properties.Margin"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Margin في ICSS2Properties. راجع تعريف خاصية margin في CSS2"
 type: docs
-weight: 630
+weight: 660
 url: /ar/net/aspose.svg.dom.css/icss2properties/margin/
 ---
 ## ICSS2Properties.Margin property
 
-راجع تعريف خاصية الهامش في CSS2.
+انظر تعريف خاصية margin في CSS2.
 
 ```csharp
 public string Margin { get; set; }
@@ -16,12 +16,10 @@ public string Margin { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الهامش
+خاصية margin
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

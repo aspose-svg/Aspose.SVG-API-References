@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Right
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف الخاصية الصحيح في CSS2.
+title: "ICSS2Properties.Right"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Right في ICSS2Properties. راجع تعريف خاصية right في CSS2"
 type: docs
-weight: 980
+weight: 1010
 url: /ar/net/aspose.svg.dom.css/icss2properties/right/
 ---
 ## ICSS2Properties.Right property
 
-راجع تعريف الخاصية الصحيح في CSS2.
+انظر إلى تعريف الخاصية right في CSS2.
 
 ```csharp
 public string Right { get; set; }
@@ -16,12 +16,10 @@ public string Right { get; set; }
 
 ### قيمة الإرجاع
 
-الملكية الصحيحة
+خاصية right
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

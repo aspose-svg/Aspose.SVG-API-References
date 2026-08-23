@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Content
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية المحتوى في CSS2.
+title: "ICSS2Properties.Content"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Content في ICSS2Properties. راجع تعريف خاصية content في CSS2"
 type: docs
 weight: 350
 url: /ar/net/aspose.svg.dom.css/icss2properties/content/
 ---
 ## ICSS2Properties.Content property
 
-راجع تعريف خاصية المحتوى في CSS2.
+انظر تعريف خاصية content في CSS2.
 
 ```csharp
 public string Content { get; set; }
@@ -16,12 +16,10 @@ public string Content { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية المحتوى
+خاصية content
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

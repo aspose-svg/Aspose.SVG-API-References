@@ -1,14 +1,14 @@
 ---
-title: Numeric.GetHashCode
-second_title: Aspose.SVG لمرجع .NET API
-description: Numeric طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "Numeric.GetHashCode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Numeric GetHashCode. تعيد رمز تجزئة لهذا الكائن"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.drawing/numeric/gethashcode/
 ---
 ## Numeric.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة (hash code) لهذه الحالة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذا الكائن، مناسب للاستخدام في خوارزميات التجزئة والهياكل البيانية مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Numeric](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../numeric/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

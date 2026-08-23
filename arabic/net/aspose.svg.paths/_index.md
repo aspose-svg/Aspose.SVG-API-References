@@ -1,42 +1,40 @@
 ---
-title: Aspose.Svg.Paths
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Dom.Svg.Paths تصف مساحة الاسم فئات من أجل تمثيل لمخطط الشكل الذي يمكن تعبئته أو الحد منه . يمكن أيضًا استخدام المسار كمسار قطع  لوصف الرسوم المتحركة  أو نص الموضع .
+title: "Aspose.Svg.Paths"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تصف مساحة الاسم Aspose.Svg.Dom.Svg.Paths فئات لتمثيل مخطط الشكل الذي يمكن ملؤه أو تحديده. يمكن أيضًا استخدام المسار كمسار قص لتوضيح الرسوم المتحركة أو موضع النص."
 type: docs
-weight: 230
+weight: 250
 url: /ar/net/aspose.svg.paths/
 ---
-ملف **Aspose.Svg.Dom.Svg.Paths** تصف مساحة الاسم فئات من أجل تمثيل لمخطط الشكل الذي يمكن تعبئته أو الحد منه . يمكن أيضًا استخدام المسار كمسار قطع ، لوصف الرسوم المتحركة ، أو نص الموضع .
+تصف مساحة الاسم **Aspose.Svg.Dom.Svg.Paths** فئات لتمثيل مخطط الشكل الذي يمكن ملؤه أو تحديد حدوده. يمكن أيضًا استخدام المسار كمسار قص، لوصف الرسوم المتحركة، أو لتحديد موضع النص.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [SVGPathSeg](./svgpathseg/) | واجهة SVGPathSeg هي واجهة أساسية تتوافق مع أمر واحد ضمن مواصفات بيانات المسار. |
-| [SVGPathSegArcAbs](./svgpathsegarcabs/) | تتوافق واجهة SVGPathSegArcAbs مع أمر بيانات مسار "arcto المطلق" (A). |
-| [SVGPathSegArcRel](./svgpathsegarcrel/) | تتوافق واجهة SVGPathSegArcRel مع أمر بيانات المسار "arcto النسبي" (أ). |
-| [SVGPathSegClosePath](./svgpathsegclosepath/) | تتوافق واجهة SVGPathSegClosePath مع أمر بيانات المسار "closepath" (z). |
-| [SVGPathSegCurvetoCubicAbs](./svgpathsegcurvetocubicabs/) | تتوافق واجهة SVGPathSegCurvetoCubicAbs مع أمر بيانات مسار "منحني بيزير مكعب مطلق" (C). |
-| [SVGPathSegCurvetoCubicRel](./svgpathsegcurvetocubicrel/) | تتوافق واجهة SVGPathSegCurvetoCubicRel مع أمر بيانات المسار "تكعيبي Bézier curveto النسبي" (c). |
-| [SVGPathSegCurvetoCubicSmoothAbs](./svgpathsegcurvetocubicsmoothabs/) | تتوافق واجهة SVGPathSegCurvetoCubicSmoothAbs مع أمر بيانات مسار "انحناء مكعب سلس مطلق" (S). |
-| [SVGPathSegCurvetoCubicSmoothRel](./svgpathsegcurvetocubicsmoothrel/) | تتوافق واجهة SVGPathSegCurvetoCubicSmoothRel مع أمر (أوامر) بيانات المسار "انحناء مكعب سلس نسبي". |
-| [SVGPathSegCurvetoQuadraticAbs](./svgpathsegcurvetoquadraticabs/) | تتوافق واجهة SVGPathSegCurvetoQuadraticAbs مع أمر بيانات مسار "منحني بيزيير تربيعي مطلق" (Q). |
-| [SVGPathSegCurvetoQuadraticRel](./svgpathsegcurvetoquadraticrel/) | واجهة SVGPathSegCurvetoQuadraticRel تتوافق مع أمر بيانات المسار التربيعي النسبي (q). |
-| [SVGPathSegCurvetoQuadraticSmoothAbs](./svgpathsegcurvetoquadraticsmoothabs/) | تتوافق واجهة SVGPathSegCurvetoQuadraticSmoothAbs مع أمر بيانات المسار "منحني مكعب سلس مطلق" (T). |
-| [SVGPathSegCurvetoQuadraticSmoothRel](./svgpathsegcurvetoquadraticsmoothrel/) | تتوافق واجهة SVGPathSegCurvetoQuadraticSmoothRel مع أمر بيانات المسار "انحناء مكعب سلس نسبي" (t). |
-| [SVGPathSegLinetoAbs](./svgpathseglinetoabs/) | تتوافق واجهة SVGPathSegLinetoAbs مع أمر بيانات المسار "الخط المطلق" (L). |
-| [SVGPathSegLinetoHorizontalAbs](./svgpathseglinetohorizontalabs/) | تتوافق واجهة SVGPathSegLinetoHorizontalAbs مع أمر بيانات مسار "خط أفقي مطلق" (H). |
-| [SVGPathSegLinetoHorizontalRel](./svgpathseglinetohorizontalrel/) | تتوافق واجهة SVGPathSegLinetoHorizontalRel مع أمر بيانات المسار "الخط الأفقي النسبي" (h). |
-| [SVGPathSegLinetoRel](./svgpathseglinetorel/) | تتوافق واجهة SVGPathSegLinetoRel مع أمر بيانات المسار "الخط النسبي" (l). |
-| [SVGPathSegLinetoVerticalAbs](./svgpathseglinetoverticalabs/) | تتوافق واجهة SVGPathSegLinetoVerticalAbs مع أمر بيانات مسار "خط عمودي مطلق" (V). |
-| [SVGPathSegLinetoVerticalRel](./svgpathseglinetoverticalrel/) | تتوافق واجهة SVGPathSegLinetoVerticalRel مع أمر بيانات المسار "الخط العمودي النسبي" (v). |
-| [SVGPathSegList](./svgpathseglist/) | تحدد هذه الواجهة قائمة بكائنات SVGPathSeg. |
-| [SVGPathSegMovetoAbs](./svgpathsegmovetoabs/) | تتوافق واجهة SVGPathSegMovetoAbs مع أمر بيانات مسار "moveto" (M) مطلق. |
-| [SVGPathSegMovetoRel](./svgpathsegmovetorel/) | تتوافق واجهة SVGPathSegMovetoRel مع أمر بيانات المسار "النسبي moveto" (m). |
-## واجهات
+| [SVGPathSeg](./svgpathseg/) | واجهة SVGPathSeg هي واجهة أساسية تتطابق مع أمر واحد داخل مواصفة بيانات المسار. |
+| [SVGPathSegArcAbs](./svgpathsegarcabs/) | واجهة SVGPathSegArcAbs تتطابق مع أمر بيانات مسار \"arcto مطلق\" (A). |
+| [SVGPathSegArcRel](./svgpathsegarcrel/) | واجهة SVGPathSegArcRel تتطابق مع أمر بيانات مسار \"arcto نسبي\" (a). |
+| [SVGPathSegClosePath](./svgpathsegclosepath/) | واجهة SVGPathSegClosePath تتطابق مع أمر بيانات مسار \"closepath\" (z). |
+| [SVGPathSegCurvetoCubicAbs](./svgpathsegcurvetocubicabs/) | واجهة SVGPathSegCurvetoCubicAbs تتطابق مع أمر بيانات مسار \"منحنى بيزيه مكعب مطلق\" (C). |
+| [SVGPathSegCurvetoCubicRel](./svgpathsegcurvetocubicrel/) | واجهة SVGPathSegCurvetoCubicRel تتطابق مع أمر بيانات مسار \"منحنى بيزيه مكعب نسبي\" (c). |
+| [SVGPathSegCurvetoCubicSmoothAbs](./svgpathsegcurvetocubicsmoothabs/) | واجهة SVGPathSegCurvetoCubicSmoothAbs تتطابق مع أمر بيانات مسار \"منحنى مكعب أملس مطلق\" (S). |
+| [SVGPathSegCurvetoCubicSmoothRel](./svgpathsegcurvetocubicsmoothrel/) | واجهة SVGPathSegCurvetoCubicSmoothRel تتطابق مع أمر بيانات مسار \"منحنى مكعب أملس نسبي\" (s). |
+| [SVGPathSegCurvetoQuadraticAbs](./svgpathsegcurvetoquadraticabs/) | واجهة SVGPathSegCurvetoQuadraticAbs تتطابق مع أمر بيانات مسار \"منحنى بيزيه رباعي مطلق\" (Q). |
+| [SVGPathSegCurvetoQuadraticRel](./svgpathsegcurvetoquadraticrel/) | واجهة SVGPathSegCurvetoQuadraticRel تتطابق مع أمر بيانات مسار \"منحنى بيزيه رباعي نسبي\" (q). |
+| [SVGPathSegCurvetoQuadraticSmoothAbs](./svgpathsegcurvetoquadraticsmoothabs/) | واجهة SVGPathSegCurvetoQuadraticSmoothAbs تتطابق مع أمر بيانات مسار \"منحنى مكعب أملس مطلق\" (T). |
+| [SVGPathSegCurvetoQuadraticSmoothRel](./svgpathsegcurvetoquadraticsmoothrel/) | واجهة SVGPathSegCurvetoQuadraticSmoothRel تتطابق مع أمر بيانات مسار \"منحنى مكعب أملس نسبي\" (t). |
+| [SVGPathSegLinetoAbs](./svgpathseglinetoabs/) | واجهة SVGPathSegLinetoAbs تقابل "absolute lineto" (L) أمر بيانات المسار. |
+| [SVGPathSegLinetoHorizontalAbs](./svgpathseglinetohorizontalabs/) | واجهة SVGPathSegLinetoHorizontalAbs تقابل "absolute horizontal lineto" (H) أمر بيانات المسار. |
+| [SVGPathSegLinetoHorizontalRel](./svgpathseglinetohorizontalrel/) | واجهة SVGPathSegLinetoHorizontalRel تقابل "relative horizontal lineto" (h) أمر بيانات المسار. |
+| [SVGPathSegLinetoRel](./svgpathseglinetorel/) | واجهة SVGPathSegLinetoRel تقابل "relative lineto" (l) أمر بيانات المسار. |
+| [SVGPathSegLinetoVerticalAbs](./svgpathseglinetoverticalabs/) | واجهة SVGPathSegLinetoVerticalAbs تقابل "absolute vertical lineto" (V) أمر بيانات المسار. |
+| [SVGPathSegLinetoVerticalRel](./svgpathseglinetoverticalrel/) | واجهة SVGPathSegLinetoVerticalRel تقابل "relative vertical lineto" (v) أمر بيانات المسار. |
+| [SVGPathSegList](./svgpathseglist/) | هذه الواجهة تعرف قائمة من كائنات SVGPathSeg. |
+| [SVGPathSegMovetoAbs](./svgpathsegmovetoabs/) | واجهة SVGPathSegMovetoAbs تقابل "absolute moveto" (M) أمر بيانات المسار. |
+| [SVGPathSegMovetoRel](./svgpathsegmovetorel/) | واجهة SVGPathSegMovetoRel تقابل "relative moveto" (m) أمر بيانات المسار. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [ISVGAnimatedPathData](./isvganimatedpathdata/) | تدعم واجهة SVGAnimatedPathData العناصر التي لها سمة 'd' التي تحتفظ ببيانات مسار SVG ، وتدعم القدرة على تحريك تلك السمة. |
-
-
+| [ISVGAnimatedPathData](./isvganimatedpathdata/) | واجهة SVGAnimatedPathData تدعم العناصر التي لديها سمة ‘d’ التي تحمل بيانات مسار SVG، وتدعم القدرة على تحريك تلك السمة. |

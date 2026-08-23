@@ -1,27 +1,25 @@
 ---
-title: ICSSCounterStyleRule.CounterType
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSCounterStyleRule ملكية. يحصل على نوع العداد .
+title: "ICSSCounterStyleRule.CounterType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CounterType في ICSSCounterStyleRule. يحصل على نوع العداد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icsscounterstylerule/countertype/
 ---
 ## ICSSCounterStyleRule.CounterType property
 
-يحصل على نوع العداد .
+يحصل على نوع العداد.
 
 ```csharp
 public string CounterType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع العداد .
+نوع العداد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSCounterStyleRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

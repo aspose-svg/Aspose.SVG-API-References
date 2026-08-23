@@ -1,68 +1,66 @@
 ---
-title: SplinePathBuilder.SplinePathBuilder
-second_title: Aspose.SVG لمرجع .NET API
-description: SplinePathBuilder البناء. يقوم بتهيئة مثيل جديد لملفSplinePathBuilder فئة .
+title: "SplinePathBuilder"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ SplinePathBuilder. يهيئ نسخة جديدة من فئة SplinePathBuilder."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.imagevectorization/splinepathbuilder/splinepathbuilder/
 ---
 ## SplinePathBuilder() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SplinePathBuilder`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplinePathBuilder](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SplinePathBuilder(float) {#constructor_2}
+## SplinePathBuilder(*float*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`SplinePathBuilder`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder(float tension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | tension | Single | التوتر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplinePathBuilder](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SplinePathBuilder(IImageTraceSmoother, IImageTraceSimplifier, float) {#constructor_1}
+## SplinePathBuilder(*[IImageTraceSmoother](../../iimagetracesmoother/), [IImageTraceSimplifier](../../iimagetracesimplifier/), float*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SplinePathBuilder`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifier traceSimplifier, 
     float tension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| traceSmoother | IImageTraceSmoother | تتبع أكثر سلاسة. |
-| traceSimplifier | IImageTraceSimplifier | مبسط التتبع. |
+| traceSmoother | IImageTraceSmoother | مُنعّم الأثر. |
+| traceSimplifier | IImageTraceSimplifier | مُبسط الأثر. |
 | tension | Single | التوتر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

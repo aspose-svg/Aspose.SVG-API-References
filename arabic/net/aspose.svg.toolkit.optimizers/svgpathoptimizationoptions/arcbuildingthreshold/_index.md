@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.ArcBuildingThreshold
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathOptimizationOptions ملكية. الحصول على أو تعيين قيمة المعلمة المستخدمة كخطأ حد لاستبدال مقاطع Bezier بمقاطع قوسية. إنه 2.5 افتراضيًا.
+title: "SVGPathOptimizationOptions.ArcBuildingThreshold"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ArcBuildingThreshold في SVGPathOptimizationOptions. يحصل على أو يضبط قيمة المعامل المستخدمة كخطأ العتبة لاستبدال مقاطع بيزيير بمقاطع قوس. القيمة الافتراضية هي 2.5"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/
 ---
 ## SVGPathOptimizationOptions.ArcBuildingThreshold property
 
-الحصول على أو تعيين قيمة المعلمة المستخدمة كخطأ حد لاستبدال مقاطع Bezier بمقاطع قوسية. إنه "2.5" افتراضيًا.
+يحصل أو يضبط قيمة المعامل المستخدمة كحدّ الخطأ لاستبدال مقاطع Bezier بمقاطع قوس. القيمة الافتراضية هي '2.5'.
 
 ```csharp
 public float ArcBuildingThreshold { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

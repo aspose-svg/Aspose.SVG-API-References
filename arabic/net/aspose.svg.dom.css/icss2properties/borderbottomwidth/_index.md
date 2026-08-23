@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderBottomWidth
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية borderbottomwidth في CSS2.
+title: "ICSS2Properties.BorderBottomWidth"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية BorderBottomWidth في ICSS2Properties. راجع تعريف خاصية border-bottom-width في CSS2"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.dom.css/icss2properties/borderbottomwidth/
 ---
 ## ICSS2Properties.BorderBottomWidth property
 
-راجع تعريف خاصية border-bottom-width في CSS2.
+انظر تعريف خاصية border-bottom-width في CSS2.
 
 ```csharp
 public string BorderBottomWidth { get; set; }
@@ -16,12 +16,10 @@ public string BorderBottomWidth { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية عرض الحد السفلي
+خاصية border-bottom-width
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

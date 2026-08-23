@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.In1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDiffuseLightingElement ملكية. يتوافق مع السمة in في عنصر feDiffuseLighting المحدد .
+title: "SVGFEDiffuseLightingElement.In1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEDiffuseLightingElement In1. تتطابق مع السمة in في العنصر ‘feDiffuseLighting’ المعطى."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.filters/svgfediffuselightingelement/in1/
 ---
 ## SVGFEDiffuseLightingElement.In1 property
 
-يتوافق مع السمة "in" في عنصر "feDiffuseLighting" المحدد .
+يتطابق مع السمة ‘in’ في العنصر ‘feDiffuseLighting’ المعطى.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "في" لعنصر "feDiffuseLighting" المحدد .
+السمة ‘in’ للعنصر ‘feDiffuseLighting’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDiffuseLightingElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

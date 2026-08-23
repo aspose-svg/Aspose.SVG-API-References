@@ -1,45 +1,44 @@
 ---
-title: Class ResponseMessage
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.ResponseMessage فصل. يمثل رسالة استجابة .
+title: "فئة ResponseMessage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.ResponseMessage. تمثّل رسالة استجابة"
 type: docs
-weight: 2440
+weight: 4510
 url: /ar/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
 
-يمثل رسالة استجابة .
+يمثل رسالة استجابة.
 
 ```csharp
 public class ResponseMessage : IDisposable
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | يقوم بتهيئة مثيل جديد لملف`ResponseMessage` فئة . |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | يُنشئ مثيلًا جديدًا لفئة `ResponseMessage`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | الحصول على محتوى الاستجابة أو تعيينه. |
-| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | الحصول على مجموعة ملفات تعريف الارتباط أو تعيينها. |
-| [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | يحصل على الرؤوس . |
-| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | يحصل على قيمة تشير إلى نجاح هذه الرسالة . |
-| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | الحصول على الطلب المرتبط أو تعيينه. |
-| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | الحصول على رمز الحالة أو تعيينه. |
+| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | يحصل على محتوى الاستجابة أو يعيّنه. |
+| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | يحصل أو يضبط مجموعة ملفات تعريف الارتباط. |
+| [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | يحصل على الرؤوس. |
+| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت هذه الرسالة ناجحة. |
+| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | يحصل أو يضبط الطلب المرتبط. |
+| [ResponseUri](../../aspose.svg.net/responsemessage/responseuri/) { get; set; } | يحصل أو يضبط عنوان URI للاستجابة. |
+| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | يحصل أو يضبط رمز الحالة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
+| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

@@ -1,41 +1,39 @@
 ---
-title: IXPathEvaluator.CreateExpression
-second_title: Aspose.SVG لمرجع .NET API
-description: IXPathEvaluator طريقة. لتكوين تعبير XPath تم تحليله باستخدام مساحات الأسماء التي تم حلها. يعد هذا مفيدًا عندما يُعاد استخدام تعبير في أحد التطبيقات لأنه يجعل من الممكن تجميع سلسلة التعبير في نموذج داخلي أكثر كفاءة و حل جميع بادئات مساحة الاسم التي تحدث داخل التعبير.
+title: "IXPathEvaluator.CreateExpression"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IXPathEvaluator CreateExpression. تُنشئ تعبير XPath مُحلل مع مساحات اسمية محلولة. هذا مفيد عندما يُعاد استخدام التعبير في تطبيق لأنه يجعل من الممكن تجميع سلسلة التعبير إلى شكل داخلي أكثر كفاءة وإعادة حل جميع بادئات المساحات الاسمية التي تظهر داخل التعبير."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.xpath/ixpathevaluator/createexpression/
 ---
 ## IXPathEvaluator.CreateExpression method
 
-لتكوين تعبير XPath تم تحليله باستخدام مساحات الأسماء التي تم حلها. يعد هذا مفيدًا عندما يُعاد استخدام تعبير في أحد التطبيقات لأنه يجعل من الممكن تجميع سلسلة التعبير في نموذج داخلي أكثر كفاءة و حل جميع بادئات مساحة الاسم التي تحدث داخل التعبير.
+ينشئ تعبير XPath محلل مع مساحات أسماء محلولة. هذا مفيد عندما سيتم إعادة استخدام التعبير في تطبيق لأنه يجعل من الممكن تجميع سلسلة التعبير إلى شكل داخلي أكثر كفاءة وإعادة حل جميع مسافات أسماء البادئات التي تظهر داخل التعبير.
 
 ```csharp
 public IXPathExpression CreateExpression(string expression, IXPathNSResolver resolver)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| expression | String | سلسلة تعبير XPath المراد تحليلها. |
-| resolver | IXPathNSResolver | ال`محلل` يسمح بترجمة جميع البادئات ، بما في ذلك`xml` بادئة مساحة الاسم ، ضمن تعبير XPath إلى مساحة الاسم المناسبة URIs. إذا تم تحديد هذا على أنه`باطل` ، سينتج عن أي مساحة اسم بادئة ضمن التعبير[`DOMException`](../../../aspose.svg.dom/domexception/) يتم طرحه مع الرمز `NAMESPACE_ERR`. |
+| expression | String | سلسلة تعبير XPath التي سيتم تحليلها. |
+| resolver | IXPathNSResolver | `resolver` يسمح بترجمة جميع البادئات، بما في ذلك بادئة مساحة الاسم `xml`، داخل تعبير XPath إلى عناوين URI مناسبة للمساحات الاسمية. إذا تم تحديده كـ `null`، فإن أي بادئة مساحة اسم داخل التعبير ستؤدي إلى رمي [`DOMException`](../../../aspose.svg.dom/domexception/) مع الرمز `NAMESPACE_ERR`. |
 
 ### قيمة الإرجاع
 
-الشكل المترجم لتعبير XPath.
+الصيغة المجمعة لتعبير XPath.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: يُرفع إذا لم يكن التعبير قانونيًا وفقًا لقواعد[`IXPathEvaluator`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: يتم رفعه إذا كان التعبير يحتوي على مساحة اسم بادئات لا يمكن حلها بواسطة المحدد[`IXPathNSResolver`](../../ixpathnsresolver/). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: يُرفع إذا كان التعبير غير قانوني وفقًا لقواعد [`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: يُرفع إذا كان التعبير يحتوي على بادئات مساحات اسمية لا يمكن حلها بواسطة [`IXPathNSResolver`](../../ixpathnsresolver/) المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXPathExpression](../../ixpathexpression/)
 * interface [IXPathNSResolver](../../ixpathnsresolver/)
 * interface [IXPathEvaluator](../)
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../ixpathevaluator/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: ISVGZoomAndPan.ZoomAndPan
-second_title: Aspose.SVG لمرجع .NET API
-description: ISVGZoomAndPan ملكية. يتوافق مع السمة zoomAndPan على العنصر المحدد. يجب أن تكون القيمة واحدة من ثوابت SVG_ZOOMANDPAN_  المحددة في هذه الواجهة.
+title: "ISVGZoomAndPan.ZoomAndPan"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ZoomAndPan في ISVGZoomAndPan. تتطابق مع السمة zoomAndPan في العنصر المحدد. يجب أن تكون القيمة واحدة من الثوابت SVG_ZOOMANDPAN_ المعرفة في هذه الواجهة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/isvgzoomandpan/zoomandpan/
 ---
 ## ISVGZoomAndPan.ZoomAndPan property
 
-يتوافق مع السمة "zoomAndPan" على العنصر المحدد. يجب أن تكون القيمة واحدة من ثوابت SVG_ZOOMANDPAN_ * المحددة في هذه الواجهة.
+يتطابق مع السمة ‘zoomAndPan’ على العنصر المعطى. يجب أن تكون القيمة واحدة من الثوابت SVG_ZOOMANDPAN_* المعرفة في هذه الواجهة.
 
 ```csharp
 public ushort ZoomAndPan { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التكبير والتحريك .
+التكبير والتحريك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . تم طرحه عند محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ISVGZoomAndPan](../)
-* مساحة الاسم [Aspose.Svg](../../isvgzoomandpan/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

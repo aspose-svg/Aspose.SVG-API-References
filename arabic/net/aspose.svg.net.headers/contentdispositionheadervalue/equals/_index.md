@@ -1,31 +1,29 @@
 ---
-title: ContentDispositionHeaderValue.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentDispositionHeaderValue طريقة. تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+title: "ContentDispositionHeaderValue.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Equals في ContentDispositionHeaderValue. تحدد ما إذا كان الكائن المحدد مساويًا لهذه المثيلة."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.net.headers/contentdispositionheadervalue/equals/
 ---
 ## ContentDispositionHeaderValue.Equals method
 
-تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذه النسخة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | كائن | الكائن للمقارنة مع هذه النسخة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع`.
+`true` إذا كان الكائن المحدد مساويًا لهذه النسخة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentDispositionHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

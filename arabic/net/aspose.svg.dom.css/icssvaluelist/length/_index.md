@@ -1,23 +1,21 @@
 ---
-title: ICSSValueList.Length
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSValueList ملكية. عدد قيم CSS في القائمة.
+title: "ICSSValueList.Length"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية الطول لـ ICSSValueList. عدد CSSValues في القائمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/icssvaluelist/length/
 ---
 ## ICSSValueList.Length property
 
-عدد قيم CSS في القائمة.
+عدد الـCSSValues في القائمة.
 
 ```csharp
 public int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSValueList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssvaluelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

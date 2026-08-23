@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextTransform
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية تحويل النص في CSS2.
+title: "ICSS2Properties.TextTransform"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties TextTransform. راجع تعريف خاصية text-transform في CSS2"
 type: docs
-weight: 1110
+weight: 1140
 url: /ar/net/aspose.svg.dom.css/icss2properties/texttransform/
 ---
 ## ICSS2Properties.TextTransform property
 
-راجع تعريف خاصية تحويل النص في CSS2.
+انظر إلى تعريف الخاصية text-transform في CSS2.
 
 ```csharp
 public string TextTransform { get; set; }
@@ -16,12 +16,10 @@ public string TextTransform { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية تحويل النص
+خاصية text-transform
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

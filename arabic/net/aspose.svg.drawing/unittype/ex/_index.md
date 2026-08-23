@@ -1,23 +1,21 @@
 ---
-title: UnitType.Ex
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس متناسب مع ارتفاع الحرف الصغير x لخط العنصر الأصلي.
+title: "UnitType.Ex"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Ex. القياس نسبي لارتفاع الحرف الصغير x من خط العنصر الأب."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.drawing/unittype/ex/
 ---
 ## UnitType.Ex field
 
-القياس متناسب مع ارتفاع الحرف الصغير x لخط العنصر الأصلي.
+القياس نسبي لارتفاع الحرف الصغير x في خط العنصر الأب.
 
 ```csharp
 public static readonly UnitType Ex;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

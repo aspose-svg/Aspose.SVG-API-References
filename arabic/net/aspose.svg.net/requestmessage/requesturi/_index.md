@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.RequestUri
-second_title: Aspose.SVG لمرجع .NET API
-description: RequestMessage ملكية. الحصول على أو تعيين URI للطلب.
+title: "RequestMessage.RequestUri"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RequestMessage RequestUri. يحصل أو يعيّن معرف URI للطلب"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.net/requestmessage/requesturi/
 ---
 ## RequestMessage.RequestUri property
 
-الحصول على أو تعيين URI للطلب.
+يحصل أو يضبط URI الطلب.
 
 ```csharp
 public Url RequestUri { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-طلب URI.
+معرف URI للطلب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestmessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

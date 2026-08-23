@@ -1,23 +1,21 @@
 ---
-title: UnitType.Rad
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالتقدير الدائري .
+title: "UnitType.Rad"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Rad. القياس بالراديان"
 type: docs
 weight: 220
 url: /ar/net/aspose.svg.drawing/unittype/rad/
 ---
 ## UnitType.Rad field
 
-القياس بالتقدير الدائري .
+القياس بالراديان.
 
 ```csharp
 public static readonly UnitType Rad;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

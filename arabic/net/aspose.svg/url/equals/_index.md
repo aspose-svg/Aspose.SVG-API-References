@@ -1,31 +1,29 @@
 ---
-title: Url.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: Url طريقة. تحديد ما إذا كان الملف المحددObject  يساوي هذا المثال.
+title: "Url.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Url Equals. تحدد ما إذا كان الكائن المحدد يساوي هذه المثيلة."
 type: docs
 weight: 140
 url: /ar/net/aspose.svg/url/equals/
 ---
 ## Url.Equals method
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد مساويًا لهذه الحالة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | كائن | الكائن للمقارنة مع هذه النسخة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد مساويًا لهذه النسخة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

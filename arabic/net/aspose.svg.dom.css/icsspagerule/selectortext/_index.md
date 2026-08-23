@@ -1,7 +1,7 @@
 ---
-title: ICSSPageRule.SelectorText
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSPageRule ملكية. التمثيل النصي القابل للتحليل لمحدد الصفحة للقاعدة.
+title: "ICSSPageRule.SelectorText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SelectorText في ICSSPageRule. التمثيل النصي القابل للتحليل لمحدد الصفحة للقاعدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icsspagerule/selectortext/
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.dom.css/icsspagerule/selectortext/
 public string SelectorText { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نص المحدد .
+نص المُحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSPageRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

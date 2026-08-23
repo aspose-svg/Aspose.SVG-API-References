@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGPoint
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement طريقة. لتكوين كائن SVGPoint خارج أي شجرة مستندات. يتم تهيئة الكائن إلى النقطة 00 في نظام إحداثيات المستخدم.
+title: "SVGSVGElement.CreateSVGPoint"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGSVGElement CreateSVGPoint. تُنشئ كائن SVGPoint خارج أي شجرة مستندات. يتم تهيئة الكائن إلى النقطة (0,0) في نظام إحداثيات المستخدم."
 type: docs
 weight: 160
 url: /ar/net/aspose.svg/svgsvgelement/createsvgpoint/
 ---
 ## SVGSVGElement.CreateSVGPoint method
 
-لتكوين كائن SVGPoint خارج أي شجرة مستندات. يتم تهيئة الكائن إلى النقطة (0،0) في نظام إحداثيات المستخدم.
+ينشئ كائن SVGPoint خارج أي شجرة مستندات. يتم تهيئة الكائن إلى النقطة (0,0) في نظام إحداثيات المستخدم.
 
 ```csharp
 public SVGPoint CreateSVGPoint()
@@ -18,11 +18,9 @@ public SVGPoint CreateSVGPoint()
 
 كائن SVGPoint.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

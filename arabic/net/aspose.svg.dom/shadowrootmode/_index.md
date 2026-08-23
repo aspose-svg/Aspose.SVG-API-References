@@ -1,29 +1,27 @@
 ---
-title: Enum ShadowRootMode
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.ShadowRootMode تعداد. الأوضاع التي يمكن أن يعمل بها ShadowRoot .
+title: "التعداد ShadowRootMode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "التعداد Aspose.Svg.Dom.ShadowRootMode. أوضاع يمكن للـ ShadowRoot أن يعمل بها."
 type: docs
-weight: 1190
+weight: 3190
 url: /ar/net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
 
-الأوضاع التي يمكن أن يعمل بها ShadowRoot .
+الأوضاع التي يمكن أن يعمل فيها ShadowRoot.
 
 ```csharp
 public enum ShadowRootMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Open | `0` | وضع "الفتح" . |
-| Closed | `1` | الوضع "مغلق". |
+| Open | `0` | "open" وضع. |
+| Closed | `1` | "closed" وضع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.CreateDocumentFragment
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. إنشاء كائن DocumentFragment فارغ .
+title: "Document.CreateDocumentFragment"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document CreateDocumentFragment. تُنشئ DocumentFragment فارغًا جديدًا يمكن إضافة عقد DOM إليه لبناء شجرة DOM خارجية"
 type: docs
 weight: 830
 url: /ar/net/aspose.svg.dom/document/createdocumentfragment/
 ---
 ## Document.CreateDocumentFragment method
 
-إنشاء كائن DocumentFragment فارغ .
+يُنشئ [`DocumentFragment`](../../documentfragment/) فارغًا جديدًا يمكن إضافة عقد DOM إليه لبناء شجرة DOM خارجية.
 
 ```csharp
 public DocumentFragment CreateDocumentFragment()
@@ -16,13 +16,11 @@ public DocumentFragment CreateDocumentFragment()
 
 ### قيمة الإرجاع
 
-ملف[`DocumentFragment`](../../documentfragment/) .
+ال [`DocumentFragment`](../../documentfragment/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentFragment](../../documentfragment/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Interface IChildNode
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.IChildNode واجهه المستخدم. يحددIChildNode الواجهة التي يجب تنفيذها بواسطةNode التي يمكن أن يكون لها أحد الوالدين.
+title: "واجهة IChildNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.IChildNode. تُعرّف واجهة IChildNode التي يجب أن تُطبق على Node التي يمكن أن يكون لها أصل."
 type: docs
-weight: 1030
+weight: 3030
 url: /ar/net/aspose.svg.dom/ichildnode/
 ---
 ## IChildNode interface
 
-يحدد`IChildNode` الواجهة التي يجب تنفيذها بواسطة[`Node`](../node/) التي يمكن أن يكون لها أحد الوالدين.
+تُعرّف واجهة `IChildNode` التي يجب أن تُطبق على [`Node`](../node/) التي يمكن أن يكون لها أصل.
 
 ```csharp
 public interface IChildNode
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Remove](../../aspose.svg.dom/ichildnode/remove/)() | يزيل العقدة الحالية من الأصل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

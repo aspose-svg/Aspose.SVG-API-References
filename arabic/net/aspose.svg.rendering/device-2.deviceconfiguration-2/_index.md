@@ -1,14 +1,14 @@
 ---
-title: Class DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions فصل. يمثل كائن التكوين للأجهزة.
+title: "فئة DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions. تمثل كائن تكوين للأجهزة."
 type: docs
-weight: 2750
+weight: 4830
 url: /ar/net/aspose.svg.rendering/device-2.deviceconfiguration-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> class
 
-يمثل كائن التكوين للأجهزة.
+تمثل كائن تكوين للأجهزة.
 
 ```csharp
 public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
@@ -16,24 +16,22 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
     where TRenderingOptions : RenderingOptions
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DeviceConfiguration](deviceconfiguration/)() | Default_Constructor |
+| [DeviceConfiguration](../../aspose.svg.rendering/device-2.deviceconfiguration-2/.ctor)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy/) { get; set; } | الحصول على استراتيجية كتابة الصفحة أو تعيينها. |
+| [PageWritingStrategy](../../aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy) { get; set; } | يحصل أو يضبط استراتيجية كتابة الصفحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

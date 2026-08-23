@@ -1,31 +1,29 @@
 ---
-title: DOMTokenList.Item
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTokenList ملكية. تُرجع العنصر في القائمة بفهرسها  أو فارغة إذا كان الفهرس أكبر من أو يساوي طول القائمة.
+title: "DOMTokenList.Item"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DOMTokenList Item. تُرجع العنصر في القائمة حسب فهرسه أو null إذا كان الفهرس أكبر من أو يساوي طول القائمة."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.collections/domtokenlist/item/
 ---
 ## DOMTokenList indexer
 
-تُرجع العنصر في القائمة بفهرسها ، أو فارغة إذا كان الفهرس أكبر من أو يساوي طول القائمة.
+يرجع العنصر في القائمة حسب فهرسه، أو null إذا كان الفهرس أكبر من أو يساوي طول القائمة.
 
 ```csharp
-public string this[ulong index] { get; }
+public string this[uint index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | مؤشر. |
+| index | الفهرس. |
 
 ### قيمة الإرجاع
 
-سلسلة تمثل رمزًا مميزًا في القائمة.
+سلسلة تمثل رمزًا في القائمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../domtokenlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: HttpMethod.Post
-second_title: Aspose.SVG لمرجع .NET API
-description: HttpMethod ملكية. يمثل طريقة بروتوكول HTTP POST .
+title: "HttpMethod.Post"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية HttpMethod Post. تمثل طريقة بروتوكول HTTP POST"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.net/httpmethod/post/
 ---
 ## HttpMethod.Post property
 
-يمثل طريقة بروتوكول HTTP POST .
+تمثل طريقة بروتوكول HTTP POST.
 
 ```csharp
 public static HttpMethod Post { get; }
 ```
 
-### Property_Value
+### Property Value
 
-طريقة بروتوكول HTTP POST .
+طريقة بروتوكول HTTP POST.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HttpMethod](../)
-* مساحة الاسم [Aspose.Svg.Net](../../httpmethod/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

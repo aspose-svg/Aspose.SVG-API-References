@@ -1,24 +1,22 @@
 ---
-title: Rect.Left
-second_title: Aspose.SVG لمرجع .NET API
-description: Rect ملكية. هذه السمة مستخدمة على يسار المستقيم .
+title: "Rect.Left"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Rect Left. يتم استخدام هذه السمة لتحديد الجانب الأيسر للمستطيل"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/rect/left/
 ---
 ## Rect.Left property
 
-هذه السمة مستخدمة على يسار المستقيم .
+تُستخدم هذه السمة لتحديد الجانب الأيسر من المستطيل.
 
 ```csharp
 public CSSPrimitiveValue Left { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../rect/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

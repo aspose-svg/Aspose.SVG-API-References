@@ -1,12 +1,12 @@
 ---
-title: FontsSettings.SetFontsLookupFolder
-second_title: Aspose.SVG لمرجع .NET API
-description: FontsSettings طريقة. يضبط المجلد المستخدم أثناء اختيار الخطوط.
+title: "FontsSettings.SetFontsLookupFolder"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة FontsSettings SetFontsLookupFolder. تحدد المجلد المستخدم أثناء اختيار الخطوط"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/fontssettings/setfontslookupfolder/
 ---
-## SetFontsLookupFolder(string) {#setfontslookupfolder}
+## SetFontsLookupFolder(*string*) {#setfontslookupfolder}
 
 يضبط المجلد المستخدم أثناء اختيار الخطوط.
 
@@ -14,19 +14,19 @@ url: /ar/net/aspose.svg/fontssettings/setfontslookupfolder/
 public void SetFontsLookupFolder(string fontsFolder)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontsFolder | String | مجلد الخطوط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontsSettings](../)
-* مساحة الاسم [Aspose.Svg](../../fontssettings/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolder(string, bool) {#setfontslookupfolder_1}
+## SetFontsLookupFolder(*string, bool*) {#setfontslookupfolder_1}
 
 يضبط المجلد المستخدم أثناء اختيار الخطوط.
 
@@ -34,15 +34,13 @@ public void SetFontsLookupFolder(string fontsFolder)
 public void SetFontsLookupFolder(string fontsFolder, bool recursive)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontsFolder | String | مجلد الخطوط. |
-| recursive | Boolean | إذا تم التعيين على`حقيقي` سيتم استخدام كافة الدلائل المتداخلة. القيمة الافتراضية هي`خطأ شنيع`. |
+| recursive | Boolean | إذا تم تعيينه إلى `true` فستُستخدم جميع الأدلة المتداخلة. القيمة الافتراضية هي `false`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontsSettings](../)
-* مساحة الاسم [Aspose.Svg](../../fontssettings/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

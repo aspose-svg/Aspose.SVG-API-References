@@ -1,24 +1,22 @@
 ---
-title: Document.OnToggle
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على أو تعيين معالج الأحداث لحدث OnToggle.
+title: "Document.OnToggle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث OnToggle في Document. يحصل أو يضبط معالج الحدث لـ OnToggle."
 type: docs
 weight: 760
 url: /ar/net/aspose.svg.dom/document/ontoggle/
 ---
 ## Document.OnToggle event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnToggle.
+يحصل أو يعيّن معالج الحدث لحدث OnToggle.
 
 ```csharp
 public event DOMEventHandler OnToggle;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

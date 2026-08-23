@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnDblClick
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على أو تعيين معالج الأحداث لحدث OnDblClick.
+title: "IGlobalEventHandlers.OnDblClick"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers حدث OnDblClick. يحصل أو يضبط معالج الحدث لحدث OnDblClick"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/ondblclick/
 ---
 ## IGlobalEventHandlers.OnDblClick event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnDblClick.
+يحصل أو يضبط معالج الحدث لحدث OnDblClick.
 
 ```csharp
 public event DOMEventHandler OnDblClick;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Entity.SystemId
-second_title: Aspose.SVG لمرجع .NET API
-description: Entity ملكية. معرّف النظام المرتبط بالكيان إذا تم تحديده  وخالٍ بخلاف ذلك. قد يكون هذا URI مطلقًا أم لا.
+title: "Entity.SystemId"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SystemId في Entity. المعرف النظامي المرتبط بالكيان إذا تم تحديده وإلا يكون null. قد يكون URI مطلقًا أو لا."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom/entity/systemid/
 ---
 ## Entity.SystemId property
 
-معرّف النظام المرتبط بالكيان إذا تم تحديده ، وخالٍ بخلاف ذلك. قد يكون هذا URI مطلقًا أم لا.
+المعرّف النظامي المرتبط بالكيان إذا تم تحديده، وإلا يكون null. قد يكون هذا URI مطلقًا أو لا.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف النظام .
+المعرف النظامي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Entity](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../entity/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

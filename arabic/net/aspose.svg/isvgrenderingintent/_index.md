@@ -1,22 +1,20 @@
 ---
-title: Interface ISVGRenderingIntent
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ISVGRenderingIntent واجهه المستخدم. تحدد واجهة SVGRenderingIntent القائمة التي تم تعدادها للقيم المحتملة لسمات أو واصفات هدف العرض.
+title: "واجهة ISVGRenderingIntent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.ISVGRenderingIntent. تُعرّف واجهة SVGRenderingIntent القائمة المُعدَّدة للقيم الممكنة لسمات أو أوصاف rendering-intent."
 type: docs
-weight: 2020
+weight: 4090
 url: /ar/net/aspose.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface
 
-تحدد واجهة SVGRenderingIntent القائمة التي تم تعدادها للقيم المحتملة لسمات أو واصفات "هدف العرض".
+تحدد واجهة SVGRenderingIntent القائمة المُعدّدة للقيم الممكنة لسمة أو وصف ‘rendering-intent’.
 
 ```csharp
 public interface ISVGRenderingIntent
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

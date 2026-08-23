@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Amplitude
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGComponentTransferFunctionElement ملكية. يتوافق مع السمة السعة على العنصر المحدد.
+title: "SVGComponentTransferFunctionElement.Amplitude"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Amplitude في SVGComponentTransferFunctionElement. تتطابق مع السمة amplitude في العنصر المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgcomponenttransferfunctionelement/amplitude/
 ---
 ## SVGComponentTransferFunctionElement.Amplitude property
 
-يتوافق مع السمة "السعة" على العنصر المحدد.
+يتطابق مع السمة ‘amplitude’ على العنصر المحدد.
 
 ```csharp
 public SVGAnimatedNumber Amplitude { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "سعة" العنصر المحدد.
+السمة ‘amplitude’ في العنصر المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

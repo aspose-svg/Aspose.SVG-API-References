@@ -1,14 +1,14 @@
 ---
-title: MimeType.GetHashCode
-second_title: Aspose.SVG لمرجع .NET API
-description: MimeType طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "MimeType.GetHashCode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MimeType GetHashCode. تُعيد قيمة تجزئة لهذا الكائن"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/mimetype/gethashcode/
 ---
 ## MimeType.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة (hash code) لهذه الحالة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذا الكائن، مناسب للاستخدام في خوارزميات التجزئة والهياكل البيانية مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

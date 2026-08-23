@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnClick
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnClick أو تعيينه.
+title: "IGlobalEventHandlers.OnClick"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث IGlobalEventHandlers OnClick. يحصل أو يعيّن معالج الحدث لحدث OnClick."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onclick/
 ---
 ## IGlobalEventHandlers.OnClick event
 
-الحصول على معالج الحدث لحدث OnClick أو تعيينه.
+يحصل أو يضبط معالج الحدث لحدث OnClick.
 
 ```csharp
 public event DOMEventHandler OnClick;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

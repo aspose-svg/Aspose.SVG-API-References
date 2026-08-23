@@ -1,34 +1,32 @@
 ---
-title: Color.FromLaba
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيم ألفا  A  B  الخفة المطلوبة.
+title: "Color.FromLaba"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromLaba. تُعيد لونًا جديدًا بقيم الإضاءة، A، B، والألفا المطلوبة"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.drawing/color/fromlaba/
 ---
 ## Color.FromLaba method
 
-إرجاع لون جديد بقيم ألفا ، A ، B ، الخفة المطلوبة.
+يرجع Color جديد مع القيم المطلوبة للسطوع، A، B، وألفا.
 
 ```csharp
 public static Color FromLaba(float lightness, float a, float b, float alpha)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| lightness | Single | عائم يمثل مكون الإضاءة للون. |
-| a | Single | عدد عشري يمثل المكون "أ" للون. |
-| b | Single | عدد عشري يمثل المكون B للون. |
-| alpha | Single | عدد عشري يمثل مكون ألفا للون. |
+| السطوع | Single | قيمة عائمة تمثل مكوّن السطوع للون. |
+| a | Single | قيمة float تمثل المكوّن A للون. |
+| b | Single | قيمة float تمثل المكوّن B لللون. |
+| ألفا | Single | قيمة عائمة تمثل المكوّن ألفا للون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

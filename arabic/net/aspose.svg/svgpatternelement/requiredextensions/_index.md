@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.RequiredExtensions
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPatternElement ملكية. يتوافق مع السمة requiredExtensions في العنصر المحدد.
+title: "SVGPatternElement.RequiredExtensions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RequiredExtensions لـ SVGPatternElement. تتطابق مع السمة requiredExtensions على العنصر المعطى"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svgpatternelement/requiredextensions/
 ---
 ## SVGPatternElement.RequiredExtensions property
 
-يتوافق مع السمة "requiredExtensions" في العنصر المحدد.
+يتطابق مع السمة ‘requiredExtensions’ على العنصر المعطى.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الامتدادات المطلوبة .
+الامتدادات المطلوبة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGPatternElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpatternelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

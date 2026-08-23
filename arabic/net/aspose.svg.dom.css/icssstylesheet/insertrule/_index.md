@@ -1,32 +1,30 @@
 ---
-title: ICSSStyleSheet.InsertRule
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleSheet طريقة. تُستخدم لإدراج قاعدة جديدة في ورقة الأنماط. أصبحت القاعدة الجديدة الآن جزءًا من التسلسل.
+title: "ICSSStyleSheet.InsertRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة InsertRule في ICSSStyleSheet. تُستخدم لإدراج قاعدة جديدة في ورقة الأنماط. تصبح القاعدة الجديدة الآن جزءًا من التسلسل الهرمي"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.css/icssstylesheet/insertrule/
 ---
 ## ICSSStyleSheet.InsertRule method
 
-تُستخدم لإدراج قاعدة جديدة في ورقة الأنماط. أصبحت القاعدة الجديدة الآن جزءًا من التسلسل.
+يُستخدم لإدراج قاعدة جديدة في ورقة الأنماط. تصبح القاعدة الجديدة الآن جزءًا من التسلسل الهرمي.
 
 ```csharp
 public long InsertRule(string rule, int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rule | String | حكم النمط. |
+| قاعدة | String | قاعدة النمط. |
 | index | Int32 | فهرس القاعدة. |
 
 ### قيمة الإرجاع
 
-الفهرس المدرج
+الفهرس المُدرج
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleSheet](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

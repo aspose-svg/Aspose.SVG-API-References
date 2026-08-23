@@ -1,28 +1,26 @@
 ---
-title: SVGGeometryElement.PathLength
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGeometryElement ملكية. يتوافق مع مسار السمة الطول على العنصر المحدد.
+title: "SVGGeometryElement.PathLength"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGGeometryElement PathLength. تتطابق مع السمة pathLength في العنصر المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svggeometryelement/pathlength/
 ---
 ## SVGGeometryElement.PathLength property
 
-يتوافق مع مسار السمة الطول على العنصر المحدد.
+يتطابق مع السمة pathLength على العنصر المحدد.
 
 ```csharp
 public SVGAnimatedNumber PathLength { get; }
 ```
 
-### Property_Value
+### Property Value
 
-طول مسار السمة على العنصر المحدد.
+السمة pathLength في العنصر المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGGeometryElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggeometryelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

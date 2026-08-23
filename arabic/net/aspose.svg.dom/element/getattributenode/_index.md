@@ -1,32 +1,30 @@
 ---
-title: Element.GetAttributeNode
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. استرداد عقدة سمة بالاسم.
+title: "Element.GetAttributeNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element GetAttributeNode. تسترجع عقدة سمة بالاسم."
 type: docs
 weight: 250
 url: /ar/net/aspose.svg.dom/element/getattributenode/
 ---
 ## Element.GetAttributeNode method
 
-استرداد عقدة سمة بالاسم.
+يسترجع عقدة سمة حسب الاسم.
 
 ```csharp
-public Attr GetAttributeNode(string name)
+public Attr GetAttributeNode(string qualifiedName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة. |
+| qualifiedName | String | اسم السمة. |
 
 ### قيمة الإرجاع
 
-قيمة السمة المرجعة
+يعيد قيمة السمة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

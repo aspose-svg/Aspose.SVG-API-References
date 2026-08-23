@@ -1,34 +1,32 @@
 ---
-title: SVGTransform.SetScale
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransform طريقة. يضبط نوع التحويل على SVG_TRANSFORM_SCALE  مع المعلمات sx و sy التي تحدد مقاييس الحجم.
+title: "SVGTransform.SetScale"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGTransform SetScale. تحدد نوع التحويل إلى SVG_TRANSFORM_SCALE مع المعلمات sx و sy التي تحدد مقادير التكبير"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.datatypes/svgtransform/setscale/
 ---
 ## SVGTransform.SetScale method
 
-يضبط نوع التحويل على SVG_TRANSFORM_SCALE ، مع المعلمات sx و sy التي تحدد مقاييس الحجم.
+يضبط نوع التحويل إلى SVG_TRANSFORM_SCALE، مع المعاملين sx و sy اللذين يحددان قيم المقياس.
 
 ```csharp
 public void SetScale(float sx, float sy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sx | Single | مقدار المقياس في X. |
-| sy | Single | مقدار المقياس في Y. |
+| sx | Single | قيمة التكبير في X. |
+| sy | Single | قيمة التكبير في Y. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . تم طرحه عند محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransform/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

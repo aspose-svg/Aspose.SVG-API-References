@@ -1,135 +1,133 @@
 ---
-title: PdfDevice.PdfDevice
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfDevice البناء. يقوم بتهيئة مثيل جديد لملفPdfDevice فئة .
+title: "PdfDevice"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ PdfDevice. يهيئ نسخة جديدة من فئة PdfDevice"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice(ICreateStreamProvider) {#constructor}
+## PdfDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | مزود البث. |
+| streamProvider | ICreateStreamProvider | مزوّد الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) class عن طريق تقديم الخيارات وموفر البث.
+يهيئ نسخة جديدة من الفئة [`PdfDevice`](../) باستخدام خيارات العرض ومزوّد الدفق.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | PdfRenderingOptions | خيارات التقديم. |
-| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) واجهه المستخدم |
+| options | PdfRenderingOptions | خيارات العرض. |
+| streamProvider | ICreateStreamProvider | كائن يطبق الواجهة [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(string) {#constructor_5}
+## PdfDevice(*string*) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(string file)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | file | String | اسم ملف الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) class عن طريق تقديم الخيارات واسم ملف الإخراج.
+يهيئ نسخة جديدة من الفئة [`PdfDevice`](../) باستخدام خيارات العرض واسم ملف الإخراج.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | PdfRenderingOptions | خيارات التقديم. |
+| options | PdfRenderingOptions | خيارات العرض. |
 | file | String | اسم ملف الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(Stream) {#constructor_4}
+## PdfDevice(*Stream*) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| دفق | Stream | الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) class عن طريق تقديم الخيارات ودفق الإخراج.
+يهيئ نسخة جديدة من الفئة [`PdfDevice`](../) باستخدام خيارات العرض ودفق الإخراج.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | PdfRenderingOptions | خيارات التقديم. |
-| stream | Stream | تيار الإخراج. |
+| options | PdfRenderingOptions | خيارات العرض. |
+| دفق | Stream | دفق الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

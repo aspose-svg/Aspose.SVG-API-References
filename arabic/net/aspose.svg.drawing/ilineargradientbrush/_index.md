@@ -1,14 +1,14 @@
 ---
-title: Interface ILinearGradientBrush
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.ILinearGradientBrush واجهه المستخدم. يحدد واجهة الفرشاة بتدرج خطي.
+title: "واجهة ILinearGradientBrush"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Drawing.ILinearGradientBrush. تُعرّف واجهة لفرشاة ذات تدرج خطي"
 type: docs
-weight: 1470
+weight: 3490
 url: /ar/net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface
 
-يحدد واجهة الفرشاة بتدرج خطي.
+يعرف واجهة لفرشاة ذات تدرج خطي.
 
 ```csharp
 public interface ILinearGradientBrush : IGradientBrush
@@ -16,19 +16,13 @@ public interface ILinearGradientBrush : IGradientBrush
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; } | الحصول على زاوية خط اتجاه التدرج ، مقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني. |
-| [EndColor](../../aspose.svg.drawing/ilineargradientbrush/endcolor/) { get; } | احصل على لون النهاية للتدرج الخطي . |
-| [EndPoint](../../aspose.svg.drawing/ilineargradientbrush/endpoint/) { get; } | احصل على نقطة البداية للتدرج الخطي . |
-| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; } | احصل على منطقة مستطيلة تحدد نقطتي البداية والنهاية للتدرج. |
-| [StartColor](../../aspose.svg.drawing/ilineargradientbrush/startcolor/) { get; } | احصل على لون البداية للتدرج الخطي . |
-| [StartPoint](../../aspose.svg.drawing/ilineargradientbrush/startpoint/) { get; } | احصل على نقطة البداية للتدرج الخطي . |
+| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; set; } | يحصل على أو يعيّن الزاوية، المقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني، لخط توجيه التدرج. |
+| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; set; } | يحصل أو يضبط المنطقة المستطيلة التي تحدد نقطتي البداية والنهاية للتدرج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientBrush](../igradientbrush/)
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

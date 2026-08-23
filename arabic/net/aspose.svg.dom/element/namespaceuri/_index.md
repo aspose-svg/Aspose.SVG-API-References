@@ -1,23 +1,21 @@
 ---
-title: Element.NamespaceURI
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. معرف مساحة الاسم لهذه العقدة  أو فارغ إذا كانت غير محددة.
+title: "Element.NamespaceURI"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element NamespaceURI. معرف مساحة الاسم لهذه العقدة أو null إذا لم يتم تحديده"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.dom/element/namespaceuri/
 ---
 ## Element.NamespaceURI property
 
-معرف مساحة الاسم لهذه العقدة ، أو فارغ إذا كانت غير محددة.
+معرف URI لمساحة الاسم لهذه العقدة، أو null إذا لم يُحدَّد.
 
 ```csharp
 public override string NamespaceURI { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

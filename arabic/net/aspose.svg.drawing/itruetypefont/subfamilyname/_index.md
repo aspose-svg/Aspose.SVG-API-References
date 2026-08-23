@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.SubFamilyName
-second_title: Aspose.SVG لمرجع .NET API
-description: ITrueTypeFont ملكية. يميز اسم الفئة الفرعية للخط الخط في مجموعة لها نفس اسم عائلة الخط. من المفترض أن يعالج هذا النمط مائل  مائل والوزن خفيف  غامق  أسود  إلخ. يجب أن يحتوي الخط الذي لا توجد به اختلافات معينة في الوزن أو النمط مثل الوزن المتوسط  وليس المائل ومجموعة بت 6 التحديد fs على السلسلة العادية المخزنة في هذا الموضع.
+title: "ITrueTypeFont.SubFamilyName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SubFamilyName في ITrueTypeFont. يميز اسم الفئة الفرعية الخط داخل مجموعة تحمل نفس اسم العائلة. يُفترض أن يعالج النمط (مائل، مائل مائل) والوزن (خفيف، عادي، غامق، أسود) إلخ. يجب أن يكون للخط الذي لا يختلف في الوزن أو النمط السلسلة \"Regular\"."
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.svg.drawing/itruetypefont/subfamilyname/
 ---
 ## ITrueTypeFont.SubFamilyName property
 
-يميز اسم الفئة الفرعية للخط الخط في مجموعة لها نفس اسم عائلة الخط. من المفترض أن يعالج هذا النمط (مائل ، مائل) والوزن (خفيف ، غامق ، أسود ، إلخ). يجب أن يحتوي الخط الذي لا توجد به اختلافات معينة في الوزن أو النمط (مثل الوزن المتوسط ، وليس المائل ومجموعة بت 6 التحديد fs) على السلسلة "العادية" المخزنة في هذا الموضع.
+اسم الفرعية يميز الخط ضمن مجموعة تحمل نفس اسم العائلة. يُفترض أن يُعالج النمط (italic, oblique) والوزن (light, bold, black, إلخ). يجب أن يحتوي الخط الذي لا يختلف في الوزن أو النمط على السلسلة "Regular".
 
 ```csharp
 public string SubFamilyName { get; }
@@ -16,12 +16,10 @@ public string SubFamilyName { get; }
 
 ### قيمة الإرجاع
 
-اسم الفصيلة الفرعية للخط
+اسم الفئة الفرعية للخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITrueTypeFont](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itruetypefont/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

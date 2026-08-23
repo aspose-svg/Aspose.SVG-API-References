@@ -1,32 +1,30 @@
 ---
-title: Document.CreateTextNode
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. يقوم بإنشاء عقدة نصية بالسلسلة المحددة .
+title: "Document.CreateTextNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document CreateTextNode. تنشئ عقدة Text بناءً على السلسلة المحددة"
 type: docs
 weight: 930
 url: /ar/net/aspose.svg.dom/document/createtextnode/
 ---
 ## Document.CreateTextNode method
 
-يقوم بإنشاء عقدة نصية بالسلسلة المحددة .
+ينشئ عقدة Text بناءً على السلسلة المحددة.
 
 ```csharp
 public Text CreateTextNode(string data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | String | بيانات النص. |
+| البيانات | String | بيانات النص. |
 
 ### قيمة الإرجاع
 
-ملف[`Text`](../../text/) .
+ال[`Text`](../../text/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Text](../../text/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

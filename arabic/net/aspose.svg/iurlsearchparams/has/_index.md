@@ -1,31 +1,29 @@
 ---
-title: IUrlSearchParams.Has
-second_title: Aspose.SVG لمرجع .NET API
-description: IUrlSearchParams طريقة. للتحقق مما إذا كان هناك زوج من الاسم والقيمة اسمهاسم في القائمة .
+title: "IUrlSearchParams.Has"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IUrlSearchParams Has. تتحقق مما إذا كان هناك زوج اسم‑قيمة اسمه name في القائمة."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
 
-للتحقق مما إذا كان هناك زوج من الاسم والقيمة اسمه`اسم` في القائمة .
+يتحقق مما إذا كان هناك زوج اسم-قيمة اسمه `name` في القائمة.
 
 ```csharp
 public bool Has(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | المفتاح الذي سيتم استخدامه للعثور على زوج الاسم والقيمة. |
+| الاسم | String | المفتاح الذي سيُستخدم للعثور على زوج الاسم‑القيمة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان هناك زوج اسم-قيمة اسمه`اسم` في القائمة ، و`خطأ شنيع` خلاف ذلك.
+`True` إذا كان هناك زوج اسم‑قيمة اسمه `name` في القائمة، و`false` خلاف ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUrlSearchParams](../)
-* مساحة الاسم [Aspose.Svg](../../iurlsearchparams/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

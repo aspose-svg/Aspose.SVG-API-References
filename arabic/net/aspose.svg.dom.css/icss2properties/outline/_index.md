@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Outline
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية المخطط التفصيلي في CSS2.
+title: "ICSS2Properties.Outline"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties Outline. راجع تعريف خاصية outline في CSS2"
 type: docs
-weight: 750
+weight: 780
 url: /ar/net/aspose.svg.dom.css/icss2properties/outline/
 ---
 ## ICSS2Properties.Outline property
 
-راجع تعريف خاصية المخطط التفصيلي في CSS2.
+انظر تعريف خاصية outline في CSS2.
 
 ```csharp
 public string Outline { get; set; }
@@ -16,12 +16,10 @@ public string Outline { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الخطوط العريضة
+خاصية outline
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

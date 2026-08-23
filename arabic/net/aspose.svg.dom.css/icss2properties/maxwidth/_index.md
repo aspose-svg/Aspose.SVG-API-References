@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MaxWidth
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية maxwidth في CSS2.
+title: "ICSS2Properties.MaxWidth"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MaxWidth في ICSS2Properties. راجع تعريف خاصية max-width في CSS2"
 type: docs
-weight: 710
+weight: 740
 url: /ar/net/aspose.svg.dom.css/icss2properties/maxwidth/
 ---
 ## ICSS2Properties.MaxWidth property
 
-راجع تعريف خاصية max-width في CSS2.
+انظر تعريف خاصية max-width في CSS2.
 
 ```csharp
 public string MaxWidth { get; set; }
@@ -18,10 +18,8 @@ public string MaxWidth { get; set; }
 
 خاصية max-width
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

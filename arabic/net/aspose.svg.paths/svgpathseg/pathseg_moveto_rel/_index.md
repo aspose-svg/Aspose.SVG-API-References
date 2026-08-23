@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_MOVETO_REL
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg مجال. يتطابق مع أمر بيانات المسار النسبي moveto m .
+title: "SVGPathSeg.PATHSEG_MOVETO_REL"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGPathSeg PATHSEG_MOVETO_REL حقل. يتطابق مع أمر بيانات مسار moveto m نسبي"
 type: docs
 weight: 210
 url: /ar/net/aspose.svg.paths/svgpathseg/pathseg_moveto_rel/
 ---
 ## SVGPathSeg.PATHSEG_MOVETO_REL field
 
-يتطابق مع أمر بيانات المسار "النسبي moveto" (m) .
+يتطابق مع أمر بيانات مسار "moveto" النسبي (m).
 
 ```csharp
 public const ushort PATHSEG_MOVETO_REL;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

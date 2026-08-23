@@ -1,28 +1,26 @@
 ---
-title: SVGImageElement.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGImageElement ملكية. يتوافق مع السمة y في عنصر الصورة المحدد .
+title: "SVGImageElement.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Y في SVGImageElement. تتطابق مع السمة y في عنصر الصورة المعطى"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgimageelement/y/
 ---
 ## SVGImageElement.Y property
 
-يتوافق مع السمة "y" في عنصر "الصورة" المحدد .
+يتطابق مع السمة ‘y’ على عنصر ‘image’ المعطى.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-يتوافق مع السمة "y" في عنصر "الصورة" المحدد .
+يتطابق مع السمة ‘y’ على عنصر ‘image’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGImageElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgimageelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

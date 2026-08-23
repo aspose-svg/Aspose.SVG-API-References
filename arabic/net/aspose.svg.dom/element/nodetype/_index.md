@@ -1,7 +1,7 @@
 ---
-title: Element.NodeType
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. رمز يمثل نوع الكائن الأساسي.
+title: "Element.NodeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element NodeType. رمز يمثل نوع الكائن الأساسي"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.dom/element/nodetype/
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.dom/element/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الكود الذي يمثل نوع العقدة .
+الرمز الذي يمثل نوع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

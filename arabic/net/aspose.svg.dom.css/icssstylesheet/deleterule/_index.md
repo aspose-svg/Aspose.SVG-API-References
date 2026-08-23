@@ -1,27 +1,25 @@
 ---
-title: ICSSStyleSheet.DeleteRule
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleSheet طريقة. يستخدم لحذف قاعدة من ورقة الأنماط.
+title: "ICSSStyleSheet.DeleteRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DeleteRule في ICSSStyleSheet. تُستخدم لحذف قاعدة من ورقة الأنماط"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/icssstylesheet/deleterule/
 ---
 ## ICSSStyleSheet.DeleteRule method
 
-يستخدم لحذف قاعدة من ورقة الأنماط.
+يُستخدم لحذف قاعدة من ورقة الأنماط.
 
 ```csharp
 public void DeleteRule(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر. |
+| index | Int32 | الفهرس. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleSheet](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

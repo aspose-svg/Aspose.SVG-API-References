@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframeRule.KeyText
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSKeyframeRule ملكية. تمثل هذه السمة محدد الإطارات الرئيسية كقائمة قيم النسبة المئوية مفصولة بفواصل. يتم تعيين الكلمات الرئيسية من و إلى إلى 0 و 100  على التوالي.
+title: "ICSSKeyframeRule.KeyText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية KeyText في ICSSKeyframeRule. تمثل هذه السمة محدد الإطار المفتاحي كقائمة مفصولة بفواصل من قيم النسبة المئوية. الكلمات المفتاحية from و to تُعادل 0 و 100 على التوالي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icsskeyframerule/keytext/
 ---
 ## ICSSKeyframeRule.KeyText property
 
-تمثل هذه السمة محدد الإطارات الرئيسية كقائمة قيم النسبة المئوية مفصولة بفواصل. يتم تعيين الكلمات الرئيسية "من" و "إلى" إلى "0٪" و "100٪" ، على التوالي.
+هذه الخاصية تمثل محدد الإطار المفتاحي كقائمة مفصولة بفواصل من قيم النسبة المئوية. الكلمات المفتاحية ‘from’ و ‘to’ تُطابق ‘0%’ و ‘100%’ على التوالي.
 
 ```csharp
 public string KeyText { get; }
 ```
 
-### Property_Value
+### Property Value
 
-النص الرئيسي .
+نص المفتاح
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSKeyframeRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

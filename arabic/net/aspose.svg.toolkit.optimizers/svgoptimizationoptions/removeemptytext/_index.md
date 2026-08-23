@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveEmptyText
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على أو تحديد خيار إزالة عناصر النص الفارغة. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveEmptyText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGOptimizationOptions RemoveEmptyText. يحصل أو يضبط الخيار لإزالة عناصر النص الفارغة. القيمة true بشكل افتراضي"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptytext/
 ---
 ## SVGOptimizationOptions.RemoveEmptyText property
 
-الحصول على أو تحديد خيار إزالة عناصر النص الفارغة. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة عناصر النص الفارغة. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveEmptyText { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,34 +1,32 @@
 ---
-title: Class Renderer
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Renderer فصل. يمثل فئة أساسية لجميع العارضين والواجهة القابلة للاستبدال.
+title: "فئة Renderer"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Rendering.Renderer. تمثل فئة أساسية لجميع العارضات وتنفذ واجهة IDisposable."
 type: docs
-weight: 2990
+weight: 5060
 url: /ar/net/aspose.svg.rendering/renderer/
 ---
 ## Renderer class
 
-يمثل فئة أساسية لجميع العارضين والواجهة القابلة للاستبدال.
+يمثل فئة أساسية لجميع المُعالجين ويُنفّذ واجهة IDisposable.
 
 ```csharp
 public class Renderer : IDisposable
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Renderer](renderer/)() | Default_Constructor |
+| [Renderer](renderer/)() | المنشئ الافتراضي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

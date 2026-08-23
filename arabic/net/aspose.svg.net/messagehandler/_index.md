@@ -1,9 +1,9 @@
 ---
-title: Class MessageHandler
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.MessageHandler فصل. يمثل نوعًا أساسيًا لمعالجات الرسائل.
+title: "فئة MessageHandler"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.MessageHandler. يمثل نوعًا أساسيًا لمعالجات الرسائل"
 type: docs
-weight: 2340
+weight: 4410
 url: /ar/net/aspose.svg.net/messagehandler/
 ---
 ## MessageHandler class
@@ -16,19 +16,17 @@ public abstract class MessageHandler
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | الحصول على قائمة عوامل التصفية المطابقة لنوع المعالج المحدد. |
+| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | يحصل على قائمة المرشحات التي تتوافق مع نوع المعالج المحدد. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(INetworkOperationContext) | عند التجاوز في فئة مشتقة يتم استخدامها لتنفيذ معالجة الرسائل. |
+| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | عند تجاوزها في فئة مشتقة تُستخدم لتنفيذ معالجة الرسائل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

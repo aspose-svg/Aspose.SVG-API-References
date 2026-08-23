@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_LINETO_REL
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg مجال. يتوافق مع أمر بيانات المسار الخط النسبي l.
+title: "SVGPathSeg.PATHSEG_LINETO_REL"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGPathSeg PATHSEG_LINETO_REL. يتطابق مع أمر مسار بيانات l خط نسبي"
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.paths/svgpathseg/pathseg_lineto_rel/
 ---
 ## SVGPathSeg.PATHSEG_LINETO_REL field
 
-يتوافق مع أمر بيانات المسار "الخط النسبي" (l).
+يتطابق مع أمر بيانات مسار "lineto" النسبي (l).
 
 ```csharp
 public const ushort PATHSEG_LINETO_REL;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: Device2.Stroke
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. رسم خط بطول المسار الحالي. يتبع الخط المحدد كل مقطع مستقيم أو منحني في المسار  متمركزًا على المقطع مع جوانب موازية له. يتم التعامل مع كل من المسارات الفرعية للمسار بشكل منفصل. تنهي هذه الطريقة المسار الحالي.
+title: "Device-2.Stroke"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device Stroke. ترسم خطًا على طول المسار الحالي. يتبع الخط المرسوم كل مقطع مستقيم أو منحني في المسار، مركّزًا على المقطع مع جوانب موازية له. يتم التعامل مع كل جزء فرعي من المسار بشكل منفصل. هذه الطريقة تنهي المسار الحالي"
 type: docs
-weight: 220
+weight: 250
 url: /ar/net/aspose.svg.rendering/device-2/stroke/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Stroke method
+## Device<TGraphicContext,TRenderingOptions>.Stroke method
 
-رسم خط بطول المسار الحالي. يتبع الخط المحدد كل مقطع مستقيم أو منحني في المسار ، متمركزًا على المقطع مع جوانب موازية له. يتم التعامل مع كل من المسارات الفرعية للمسار بشكل منفصل. تنهي هذه الطريقة المسار الحالي.
+يرسم خطًا على طول المسار الحالي. يتبع الخط المرسوم كل مقطع مستقيم أو منحني في المسار، مركّزًا على المقطع مع جوانب موازية له. يتم التعامل مع كل مسار فرعي للمسار بشكل منفصل. تنهي هذه الطريقة المسار الحالي.
 
 ```csharp
-public abstract void Stroke()
+public virtual void Stroke()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

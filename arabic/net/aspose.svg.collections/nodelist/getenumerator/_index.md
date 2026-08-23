@@ -1,14 +1,14 @@
 ---
-title: NodeList.GetEnumerator
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeList طريقة. إرجاع عداد يتكرر خلال المجموعة.
+title: "NodeList.GetEnumerator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetEnumerator في NodeList. تُرجع مُعدِّدًا يتنقل عبر المجموعة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.collections/nodelist/getenumerator/
 ---
 ## NodeList.GetEnumerator method
 
-إرجاع عداد يتكرر خلال المجموعة.
+يرجع كائن enumerator يتنقل عبر المجموعة.
 
 ```csharp
 public abstract IEnumerator<Node> GetEnumerator()
@@ -16,13 +16,11 @@ public abstract IEnumerator<Node> GetEnumerator()
 
 ### قيمة الإرجاع
 
-أIEnumerator التي يمكن استخدامها للتكرار من خلال المجموعة.
+مُعدِّد IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../nodelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

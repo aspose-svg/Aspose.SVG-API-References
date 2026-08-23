@@ -1,23 +1,21 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_CM
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLength مجال. تم تحديد قيمة باستخدام وحدات cm المحددة في CSS2.
+title: "SVGLength.SVG_LENGTHTYPE_CM"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGLength SVG_LENGTHTYPE_CM. تم تحديد قيمة باستخدام وحدات cm المعرفة في CSS2"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.datatypes/svglength/svg_lengthtype_cm/
 ---
 ## SVGLength.SVG_LENGTHTYPE_CM field
 
-تم تحديد قيمة باستخدام وحدات cm المحددة في CSS2.
+تم تحديد قيمة باستخدام وحدات cm المعرفة في CSS2.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_CM;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGLength](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svglength/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

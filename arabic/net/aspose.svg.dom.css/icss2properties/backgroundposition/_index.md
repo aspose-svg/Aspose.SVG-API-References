@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BackgroundPosition
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية وضع الخلفية في CSS2.
+title: "ICSS2Properties.BackgroundPosition"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties BackgroundPosition. راجع تعريف خاصية background-position في CSS2"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.css/icss2properties/backgroundposition/
 ---
 ## ICSS2Properties.BackgroundPosition property
 
-راجع تعريف خاصية وضع الخلفية في CSS2.
+انظر تعريف خاصية background-position في CSS2.
 
 ```csharp
 public string BackgroundPosition { get; set; }
@@ -16,12 +16,10 @@ public string BackgroundPosition { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية وضع الخلفية
+خاصية background-position
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Aspose.Svg.Dom.Attributes
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Dom. السمات تحتوي مساحة الاسم على فئات السمات الموحدة التي تحدد أو تؤهل أي كائن عقدة  عنصر  ... ميزة أو سلوك.
+title: "Aspose.Svg.Dom.Attributes"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تحتوي مساحة الاسم Aspose.Svg.Dom.Attributes على فئات سمات موحدة تحدد أو تؤهل أي عنصر عقدة كائن ... ميزة أو سلوك."
 type: docs
-weight: 60
+weight: 80
 url: /ar/net/aspose.svg.dom.attributes/
 ---
-ملف **Aspose.Svg.Dom. السمات** تحتوي مساحة الاسم على فئات السمات الموحدة التي تحدد أو تؤهل أي كائن (عقدة ، عنصر ، ...) ميزة أو سلوك.
+مساحة الاسم **Aspose.Svg.Dom.Attributes** تحتوي على فئات سمة موحدة تحدد أو تؤهل أي خاصية أو سلوك لكائن (عقدة، عنصر، ...).
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [DOMConstructorAttribute](./domconstructorattribute/) | يحدد المُنشئ الذي تم تحديده بواسطة W3C. |
-| [DOMNameAttribute](./domnameattribute/) | يحدد اسم كائن DOM الرسمي كما هو محدد بواسطة W3C. |
-| [DOMNamedPropertyGetterAttribute](./domnamedpropertygetterattribute/) | يحدد أنه سيتم استخدام الطريقة على أنها getter للخاصية المسماة. |
-| [DOMNoInterfaceObjectAttribute](./domnointerfaceobjectattribute/) | إذا ظهرت السمة الموسعة [NoInterfaceObject] على واجهة ، فإنها تشير إلى أن كائن الواجهة لن يكون موجودًا للواجهة في ربط ECMAScript. |
-| [DOMNullableAttribute](./domnullableattribute/) | يمكن تعيين قيمة فارغة لكائن DOM. |
-| [DOMObjectAttribute](./domobjectattribute/) | يحدد أن الكائن الذي تم تمييزه بهذه السمة معرف بواسطة W3C. |
-| [DOMTreatNullAsAttribute](./domtreatnullasattribute/) | يشير إلى أنه سيتم التعامل مع قيمة خالية من قيمة العضو كقيمة محددة. |
-## تعداد
+| [DOMConstructorAttribute](./domconstructorattribute/) | يحدد منشئًا تم تعريفه من قبل W3C. |
+| [DOMNameAttribute](./domnameattribute/) | يحدد الاسم الرسمي لكائن DOM كما تم تعريفه من قبل W3C. |
+| [DOMNamedPropertyGetterAttribute](./domnamedpropertygetterattribute/) | يحدد أن الطريقة ستُستخدم كـ getter لخاصية مسماة. |
+| [DOMNoInterfaceObjectAttribute](./domnointerfaceobjectattribute/) | إذا ظهر السمة الموسعة [NoInterfaceObject] على واجهة، فإن ذلك يشير إلى أن كائن الواجهة لن يكون موجودًا للواجهة في ربط ECMAScript. |
+| [DOMNullableAttribute](./domnullableattribute/) | يحدد أنه يمكن تعيين قيمة null لكائن DOM. |
+| [DOMObjectAttribute](./domobjectattribute/) | يحدد أن الكائن المعلَّم بهذه السمة معرف من قبل W3C. |
+| [DOMTreatNullAsAttribute](./domtreatnullasattribute/) | يشير إلى أن قيمة null لعضو القيمة ستُعامل كقيمة محددة. |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [Accessors](./accessors/) | يمثل تعداد موصِّلات الأعضاء التي تم تعريفها بواسطة W3C. |
-
-
+| [Accessors](./accessors/) | يمثل تعداد موصلات الأعضاء الذي تم تعريفه من قبل W3C. |

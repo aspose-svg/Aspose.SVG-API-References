@@ -1,32 +1,30 @@
 ---
-title: Node.ReplaceChild
-second_title: Aspose.SVG لمرجع .NET API
-description: Node طريقة. يستبدل العقدة الفرعية oldChild بـ newChild في قائمة الأطفال  ويعيد العقدة oldChild. إذا كان newChild هو كائن DocumentFragment  فسيتم استبدال oldChild بكافة العناصر الفرعية DocumentFragment  والتي يتم إدراجها بنفس الترتيب. إذا كان الطفل الجديد موجودًا بالفعل في الشجرة  فسيتم إزالته أولاً.
+title: "Node.ReplaceChild"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Node ReplaceChild. تستبدل العقدة الفرعية oldChild بـ newChild في قائمة الأطفال وتُرجِع عقدة oldChild. إذا كان newChild كائنًا من نوع DocumentFragment، يتم استبدال oldChild بجميع عقد DocumentFragment التي تُدرج بنفس الترتيب. إذا كان newChild موجودًا بالفعل في الشجرة، يتم إزالته أولاً."
 type: docs
-weight: 300
+weight: 280
 url: /ar/net/aspose.svg.dom/node/replacechild/
 ---
 ## Node.ReplaceChild method
 
-يستبدل العقدة الفرعية oldChild بـ newChild في قائمة الأطفال ، ويعيد العقدة oldChild. إذا كان newChild هو كائن DocumentFragment ، فسيتم استبدال oldChild بكافة العناصر الفرعية DocumentFragment ، والتي يتم إدراجها بنفس الترتيب. إذا كان الطفل الجديد موجودًا بالفعل في الشجرة ، فسيتم إزالته أولاً.
+يستبدل عقدة الطفل oldChild بـ newChild في قائمة الأطفال، ويعيد عقدة oldChild. إذا كان newChild كائنًا من نوع DocumentFragment، يتم استبدال oldChild بجميع أطفال DocumentFragment، التي تُدرج بنفس الترتيب. إذا كان newChild موجودًا بالفعل في الشجرة، يتم إزالته أولاً.
 
 ```csharp
 public Node ReplaceChild(Node node, Node child)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | node | Node | العقدة الجديدة. |
-| child | Node | الطفل العجوز. |
+| child | Node | العقدة الفرعية القديمة. |
 
 ### قيمة الإرجاع
 
 إرجاع العقدة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

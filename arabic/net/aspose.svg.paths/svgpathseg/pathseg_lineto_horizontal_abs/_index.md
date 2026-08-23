@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_LINETO_HORIZONTAL_ABS
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg مجال. يتوافق مع أمر بيانات المسار خط أفقي مطلق H.
+title: "SVGPathSeg.PATHSEG_LINETO_HORIZONTAL_ABS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGPathSeg PATHSEG_LINETO_HORIZONTAL_ABS. يتطابق مع أمر مسار بيانات H أفقي مطلق"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.paths/svgpathseg/pathseg_lineto_horizontal_abs/
 ---
 ## SVGPathSeg.PATHSEG_LINETO_HORIZONTAL_ABS field
 
-يتوافق مع أمر بيانات المسار "خط أفقي مطلق" (H).
+يتطابق مع أمر بيانات مسار "horizontal lineto" المطلق (H).
 
 ```csharp
 public const ushort PATHSEG_LINETO_HORIZONTAL_ABS;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

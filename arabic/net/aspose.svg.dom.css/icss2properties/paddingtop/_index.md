@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingTop
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية paddingtop في CSS2.
+title: "ICSS2Properties.PaddingTop"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PaddingTop في ICSS2Properties. راجع تعريف خاصية padding-top في CSS2"
 type: docs
-weight: 840
+weight: 870
 url: /ar/net/aspose.svg.dom.css/icss2properties/paddingtop/
 ---
 ## ICSS2Properties.PaddingTop property
 
-راجع تعريف خاصية padding-top في CSS2.
+انظر تعريف خاصية padding-top في CSS2.
 
 ```csharp
 public string PaddingTop { get; set; }
@@ -18,10 +18,8 @@ public string PaddingTop { get; set; }
 
 خاصية padding-top
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Height
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEGaussianBlurElement ملكية. يتوافق مع السمة الارتفاع على عنصر عامل التصفية المحدد .
+title: "SVGFEGaussianBlurElement.Height"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEGaussianBlurElement Height. تتطابق مع الخاصية height في عنصر filter المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.filters/svgfegaussianblurelement/height/
 ---
 ## SVGFEGaussianBlurElement.Height property
 
-يتوافق مع السمة "الارتفاع" على عنصر "عامل التصفية" المحدد .
+يتطابق مع السمة ‘height’ في العنصر ‘filter’ المعطى.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "ارتفاع" عنصر "عامل التصفية" المحدد .
+الخاصية �height� لعنصر �filter� المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

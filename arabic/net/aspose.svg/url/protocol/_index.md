@@ -1,27 +1,25 @@
 ---
-title: Url.Protocol
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. الحصول على تمثيل سلسلة لمخطط URL المحدد أو تعيينه.
+title: "Url.Protocol"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Protocol. يحصل أو يضبط تمثيلًا نصيًا للمخطط المحدد في URL"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg/url/protocol/
 ---
 ## Url.Protocol property
 
-الحصول على تمثيل سلسلة لمخطط URL المحدد أو تعيينه.
+يحصل أو يضبط تمثيلًا نصيًا لمخطط URL المحدد.
 
 ```csharp
 public string Protocol { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-البروتوكول .
+البروتوكول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

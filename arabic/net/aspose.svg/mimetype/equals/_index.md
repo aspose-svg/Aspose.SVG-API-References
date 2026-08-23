@@ -1,55 +1,53 @@
 ---
-title: MimeType.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: MimeType طريقة. يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+title: "MimeType.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MimeType Equals. تشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/mimetype/equals/
 ---
-## Equals(MimeType) {#equals}
+## Equals(*[MimeType](../)*) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(MimeType other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | MimeType | كائن للمقارنة مع هذا الكائن. |
+| آخر | MimeType | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي*other* معامل؛ وإلا ، خطأ .
+صحيح إذا كان الكائن الحالي مساويًا للمعامل *other*؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-تحديد ما إذا كان الملف المحددObject يساوي التيارObject .
+يحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع التيارObject. |
+| obj | كائن | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صحيح إذا تم تحديدهObject يساوي التيارObject ؛ وإلا ، خطأ .
+صحيح إذا كان الكائن المحدد مساويًا للكائن الحالي؛ وإلا خاطئ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

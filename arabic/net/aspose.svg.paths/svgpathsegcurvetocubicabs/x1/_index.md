@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegCurvetoCubicAbs.X1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegCurvetoCubicAbs ملكية. إحداثيات X المطلقة لنقطة التحكم الأولى .
+title: "SVGPathSegCurvetoCubicAbs.X1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSegCurvetoCubicAbs X1. الإحداثي المطلق X للنقطة التحكمية الأولى"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.paths/svgpathsegcurvetocubicabs/x1/
 ---
 ## SVGPathSegCurvetoCubicAbs.X1 property
 
-إحداثيات X المطلقة لنقطة التحكم الأولى .
+الإحداثي X المطلق للنقطة التحكمية الأولى.
 
 ```csharp
 public float X1 { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيق X المطلق
+الإحداثي المطلق X
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegCurvetoCubicAbs](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathsegcurvetocubicabs/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: IDeviceInformationService.HorizontalResolution
-second_title: Aspose.SVG لمرجع .NET API
-description: IDeviceInformationService ملكية. الحصول على الدقة الأفقية أو تعيينها .
+title: "IDeviceInformationService.HorizontalResolution"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IDeviceInformationService HorizontalResolution. تحصل أو تعين الدقة الأفقية."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.services/ideviceinformationservice/horizontalresolution/
 ---
 ## IDeviceInformationService.HorizontalResolution property
 
-الحصول على الدقة الأفقية أو تعيينها .
+يحصل أو يضبط الدقة الأفقية.
 
 ```csharp
 public Resolution HorizontalResolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الدقة الأفقية .
+الدقة الأفقية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../ideviceinformationservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

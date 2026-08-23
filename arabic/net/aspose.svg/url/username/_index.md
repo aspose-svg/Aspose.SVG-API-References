@@ -1,27 +1,25 @@
 ---
-title: Url.Username
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. الحصول على أو تعيين سلسلة تمثيل لاسم مستخدم URL المحدد.
+title: "Url.Username"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Username. يحصل أو يضبط تمثيلًا نصيًا لاسم المستخدم المحدد في URL"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg/url/username/
 ---
 ## Url.Username property
 
-الحصول على أو تعيين سلسلة تمثيل لاسم مستخدم URL المحدد.
+يحصل أو يضبط تمثيلًا نصيًا لاسم مستخدم URL المحدد.
 
 ```csharp
 public string Username { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 اسم المستخدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

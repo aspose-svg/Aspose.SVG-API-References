@@ -1,14 +1,14 @@
 ---
-title: Numeric.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: Numeric طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "Numeric.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ToString في Numeric. تُرجع سلسلة تمثل هذه الحالة"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.drawing/numeric/tostring/
 ---
 ## Numeric.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Numeric](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../numeric/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

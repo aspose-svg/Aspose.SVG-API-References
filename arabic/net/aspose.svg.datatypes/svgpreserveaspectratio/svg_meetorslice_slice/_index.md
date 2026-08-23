@@ -1,23 +1,21 @@
 ---
-title: SVGPreserveAspectRatio.SVG_MEETORSLICE_SLICE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPreserveAspectRatio مجال. يتوافق مع قيمة شريحة للسمة saveAspectRatio .
+title: "SVGPreserveAspectRatio.SVG_MEETORSLICE_SLICE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGPreserveAspectRatio SVG_MEETORSLICE_SLICE. يتطابق مع القيمة slice للخاصية preserveAspectRatio"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_slice/
 ---
 ## SVGPreserveAspectRatio.SVG_MEETORSLICE_SLICE field
 
-يتوافق مع قيمة "شريحة" للسمة "saveAspectRatio" .
+يتطابق مع القيمة 'slice' للخاصية ‘preserveAspectRatio’.
 
 ```csharp
 public const ushort SVG_MEETORSLICE_SLICE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPreserveAspectRatio](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

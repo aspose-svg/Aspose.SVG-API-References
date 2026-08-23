@@ -1,23 +1,21 @@
 ---
-title: IStyleSheet.Type
-second_title: Aspose.SVG لمرجع .NET API
-description: IStyleSheet ملكية. يحدد هذا لغة ورقة الأنماط لورقة الأنماط هذه. تم تحديد لغة ورقة الأنماط كنوع محتوى على سبيل المثال نص / css .
+title: "IStyleSheet.Type"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Type لـ IStyleSheet. تحدد لغة ورقة الأنماط لهذه الورقة. تُحدد لغة ورقة الأنماط كنوع محتوى مثل text/css"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom.css/istylesheet/type/
 ---
 ## IStyleSheet.Type property
 
-يحدد هذا لغة ورقة الأنماط لورقة الأنماط هذه. تم تحديد لغة ورقة الأنماط كنوع محتوى (على سبيل المثال "نص / css") .
+هذا يحدد لغة ورقة الأنماط لهذه الورقة. تُحدد لغة ورقة الأنماط كنوع محتوى (مثال: "text/css").
 
 ```csharp
 public string Type { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IStyleSheet](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../istylesheet/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: FtpProtocolMessageHandler.Invoke
-second_title: Aspose.SVG لمرجع .NET API
-description: FtpProtocolMessageHandler طريقة. عند التجاوز في فئة مشتقة يتم استخدامها لتنفيذ معالجة الرسائل.
+title: "FtpProtocolMessageHandler.Invoke"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Invoke في FtpProtocolMessageHandler. عندما يتم تجاوزها في فئة مشتقة تُستخدم لتنفيذ معالجة الرسائل"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/invoke/
 ---
 ## FtpProtocolMessageHandler.Invoke method
 
-عند التجاوز في فئة مشتقة يتم استخدامها لتنفيذ معالجة الرسائل.
+عند تجاوزها في فئة مشتقة تُستخدم لتنفيذ معالجة الرسائل.
 
 ```csharp
 public override void Invoke(INetworkOperationContext context)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | context | INetworkOperationContext | السياق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [INetworkOperationContext](../../../aspose.svg.net/inetworkoperationcontext/)
 * class [FtpProtocolMessageHandler](../)
-* مساحة الاسم [Aspose.Svg.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

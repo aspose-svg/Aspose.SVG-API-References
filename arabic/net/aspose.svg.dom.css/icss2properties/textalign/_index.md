@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextAlign
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية محاذاة النص في CSS2.
+title: "ICSS2Properties.TextAlign"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية TextAlign في ICSS2Properties. راجع تعريف خاصية text-align في CSS2"
 type: docs
-weight: 1070
+weight: 1100
 url: /ar/net/aspose.svg.dom.css/icss2properties/textalign/
 ---
 ## ICSS2Properties.TextAlign property
 
-راجع تعريف خاصية محاذاة النص في CSS2.
+انظر إلى تعريف الخاصية text-align في CSS2.
 
 ```csharp
 public string TextAlign { get; set; }
@@ -16,12 +16,10 @@ public string TextAlign { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية محاذاة النص
+خاصية text-align
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

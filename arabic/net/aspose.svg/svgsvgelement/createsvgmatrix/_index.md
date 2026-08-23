@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGMatrix
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement طريقة. لتكوين كائن SVGMatrix خارج أية شجرات مستندات. يتم تهيئة الكائن إلى مصفوفة الهوية.
+title: "SVGSVGElement.CreateSVGMatrix"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGSVGElement CreateSVGMatrix. تُنشئ كائن SVGMatrix خارج أي شجرة مستندات. يتم تهيئة الكائن إلى مصفوفة الهوية."
 type: docs
 weight: 140
 url: /ar/net/aspose.svg/svgsvgelement/createsvgmatrix/
 ---
 ## SVGSVGElement.CreateSVGMatrix method
 
-لتكوين كائن SVGMatrix خارج أية شجرات مستندات. يتم تهيئة الكائن إلى مصفوفة الهوية.
+ينشئ كائن SVGMatrix خارج أي شجرة مستندات. يتم تهيئة الكائن إلى مصفوفة الهوية.
 
 ```csharp
 public SVGMatrix CreateSVGMatrix()
@@ -18,11 +18,9 @@ public SVGMatrix CreateSVGMatrix()
 
 كائن SVGMatrix.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

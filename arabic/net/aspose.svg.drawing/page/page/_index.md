@@ -1,88 +1,86 @@
 ---
-title: Page.Page
-second_title: Aspose.SVG لمرجع .NET API
-description: Page البناء. يقوم بتهيئة مثيل جديد لملفPage فئة .
+title: "Page"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ Page. يهيئ نسخة جديدة من الفئة Page"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/page/page/
 ---
-## Page(Size, Margin) {#constructor_3}
+## Page(*[Size](../../size/), [Margin](../../margin/)*) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`Page`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Page`](../).
 
 ```csharp
 public Page(Size size, Margin margin)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | Size | حجم الصفحة. |
-| margin | Margin | الهامش. |
+| الحجم | Size | حجم الصفحة. |
+| الهامش | Margin | الهامش. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../page/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Size) {#constructor_2}
+## Page(*[Size](../../size/)*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`Page`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Page`](../).
 
 ```csharp
 public Page(Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | Size | حجم الصفحة. |
+| الحجم | Size | حجم الصفحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Size](../../size/)
 * class [Page](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../page/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Margin) {#constructor_1}
+## Page(*[Margin](../../margin/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Page`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Page`](../).
 
 ```csharp
 public Page(Margin margin)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| margin | Margin | الهامش. |
+| الهامش | Margin | الهامش. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../page/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Page() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Page`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Page`](../).
 
 ```csharp
 public Page()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Page](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../page/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

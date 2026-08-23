@@ -1,27 +1,25 @@
 ---
-title: Attr.Value
-second_title: Aspose.SVG لمرجع .NET API
-description: Attr ملكية. عند الاسترداد  يتم إرجاع قيمة السمة كسلسلة.
+title: "Attr.Value"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Attr Value. عند الاسترجاع تُرجع قيمة السمة كسلسلة."
 type: docs
-weight: 130
+weight: 110
 url: /ar/net/aspose.svg.dom/attr/value/
 ---
 ## Attr.Value property
 
-عند الاسترداد ، يتم إرجاع قيمة السمة كسلسلة.
+عند الاسترجاع، تُعاد قيمة السمة كسلسلة نصية.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../attr/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

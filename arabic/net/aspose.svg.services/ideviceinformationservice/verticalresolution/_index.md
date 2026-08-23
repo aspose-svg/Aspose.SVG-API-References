@@ -1,28 +1,26 @@
 ---
-title: IDeviceInformationService.VerticalResolution
-second_title: Aspose.SVG لمرجع .NET API
-description: IDeviceInformationService ملكية. الحصول على الدقة الرأسية أو تعيينها .
+title: "IDeviceInformationService.VerticalResolution"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IDeviceInformationService VerticalResolution. تحصل أو تعين الدقة العمودية."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.services/ideviceinformationservice/verticalresolution/
 ---
 ## IDeviceInformationService.VerticalResolution property
 
-الحصول على الدقة الرأسية أو تعيينها .
+يحصل أو يضبط الدقة العمودية.
 
 ```csharp
 public Resolution VerticalResolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الدقة الرأسية .
+الدقة العمودية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../ideviceinformationservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

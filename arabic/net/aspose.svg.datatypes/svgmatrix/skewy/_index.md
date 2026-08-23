@@ -1,20 +1,20 @@
 ---
-title: SVGMatrix.SkewY
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMatrix طريقة. يضاعف لاحقًا تحويلًا منحرفًا على المصفوفة الحالية ويعيد المصفوفة الناتجة.
+title: "SVGMatrix.SkewY"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGMatrix SkewY. تقوم بعملية ضرب ما بعد تحويل انحراف Y على المصفوفة الحالية وتعيد المصفوفة الناتجة."
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.datatypes/svgmatrix/skewy/
 ---
 ## SVGMatrix.SkewY method
 
-يضاعف لاحقًا تحويلًا منحرفًا على المصفوفة الحالية ويعيد المصفوفة الناتجة.
+يُضيف بعد الضرب تحويل انحراف Y إلى المصفوفة الحالية ويُعيد المصفوفة الناتجة.
 
 ```csharp
 public SVGMatrix SkewY(float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | angle | Single | الزاوية. |
 
@@ -22,10 +22,8 @@ public SVGMatrix SkewY(float angle)
 
 زاوية الانحراف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgmatrix/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

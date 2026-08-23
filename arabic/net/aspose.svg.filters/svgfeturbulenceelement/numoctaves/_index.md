@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.NumOctaves
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETurbulenceElement ملكية. يتوافق مع السمة عدد الأكتاف على عنصر feTurbulence المحدد .
+title: "SVGFETurbulenceElement.NumOctaves"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية NumOctaves في SVGFETurbulenceElement. تتطابق مع السمة numOctaves في عنصر feTurbulence المحدد."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.filters/svgfeturbulenceelement/numoctaves/
 ---
 ## SVGFETurbulenceElement.NumOctaves property
 
-يتوافق مع السمة "عدد الأكتاف" على عنصر "feTurbulence" المحدد .
+يتطابق مع السمة ‘numOctaves’ في العنصر ‘feTurbulence’ المحدد.
 
 ```csharp
 public SVGAnimatedInteger NumOctaves { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "عدد الأكتاف" لعنصر "feTurbulence" المحدد .
+السمة ‘numOctaves’ لعنصر ‘feTurbulence’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedInteger](../../../aspose.svg.datatypes/svganimatedinteger/)
 * class [SVGFETurbulenceElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

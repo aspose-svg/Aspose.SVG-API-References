@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_CURVETO_CUBIC_SMOOTH_REL
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg مجال. يتوافق مع أمر بيانات المسار منحني مكعب سلس نسبيًا.
+title: "SVGPathSeg.PATHSEG_CURVETO_CUBIC_SMOOTH_REL"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGPathSeg PATHSEG_CURVETO_CUBIC_SMOOTH_REL. يتطابق مع أمر بيانات مسار curveto مكعب أملس نسبي s"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_rel/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_CUBIC_SMOOTH_REL field
 
-يتوافق مع أمر بيانات المسار "منحني مكعب سلس نسبيًا".
+يتطابق مع أمر بيانات مسار "smooth cubic curveto" النسبي (s).
 
 ```csharp
 public const ushort PATHSEG_CURVETO_CUBIC_SMOOTH_REL;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

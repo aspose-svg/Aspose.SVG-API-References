@@ -1,23 +1,21 @@
 ---
-title: TypeInfo.DERIVATION_LIST
-second_title: Aspose.SVG لمرجع .NET API
-description: TypeInfo مجال. إذا كان مخطط المستند عبارة عن مخطط XML مخطط XML الجزء 1  فإن هذا الثابت يمثل القائمة.
+title: "TypeInfo.DERIVATION_LIST"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل TypeInfo DERIVATION_LIST. إذا كان مخطط المستندات هو XML Schema XML Schema Part 1، فإن هذا الثابت يمثل القائمة"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom/typeinfo/derivation_list/
 ---
 ## TypeInfo.DERIVATION_LIST field
 
-إذا كان مخطط المستند عبارة عن مخطط XML [مخطط XML الجزء 1] ، فإن هذا الثابت يمثل القائمة.
+إذا كان مخطط المستند هو مخطط XML [XML Schema Part 1]، فإن هذا الثابت يمثل القائمة.
 
 ```csharp
 public const ulong DERIVATION_LIST;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeInfo](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../typeinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

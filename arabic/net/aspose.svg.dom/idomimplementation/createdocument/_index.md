@@ -1,35 +1,33 @@
 ---
-title: IDOMImplementation.CreateDocument
-second_title: Aspose.SVG لمرجع .NET API
-description: IDOMImplementation طريقة. إنشاء كائن مستند DOM من النوع المحدد مع عنصر المستند الخاص به.
+title: "IDOMImplementation.CreateDocument"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDOMImplementation CreateDocument. تنشئ كائن مستند DOM من النوع المحدد مع عنصر المستند الخاص به"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/idomimplementation/createdocument/
 ---
 ## IDOMImplementation.CreateDocument method
 
-إنشاء كائن مستند DOM من النوع المحدد مع عنصر المستند الخاص به.
+ينشئ كائن DOM Document من النوع المحدد مع عنصر المستند الخاص به.
 
 ```csharp
 public Document CreateDocument(string namespaceURI, string qualifiedName, DocumentType doctype)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceURI | String | مساحة الاسم URI. |
+| namespaceURI | String | معرف namespace URI. |
 | qualifiedName | String | اسم المؤهل. |
-| doctype | DocumentType | النوع. |
+| doctype | DocumentType | نوع المستند. |
 
 ### قيمة الإرجاع
 
-إرجاع المستند.
+يعيد المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../idomimplementation/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

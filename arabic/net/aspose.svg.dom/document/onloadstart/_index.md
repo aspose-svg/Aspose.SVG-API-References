@@ -1,24 +1,22 @@
 ---
-title: Document.OnLoadStart
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على أو تعيين معالج الأحداث لحدث OnLoadStart.
+title: "Document.OnLoadStart"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnLoadStart. يحصل أو يضبط معالج الحدث لحدث OnLoadStart"
 type: docs
 weight: 500
 url: /ar/net/aspose.svg.dom/document/onloadstart/
 ---
 ## Document.OnLoadStart event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnLoadStart.
+الحصول أو تعيين معالج الحدث لـ OnLoadStart.
 
 ```csharp
 public event DOMEventHandler OnLoadStart;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

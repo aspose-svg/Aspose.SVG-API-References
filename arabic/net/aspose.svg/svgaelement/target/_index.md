@@ -1,28 +1,26 @@
 ---
-title: SVGAElement.Target
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGAElement ملكية. يتوافق مع السمة الهدف على عنصر أ المحدد .
+title: "SVGAElement.Target"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Target لعنصر SVGAElement. تتطابق مع السمة target على العنصر a المعطى"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgaelement/target/
 ---
 ## SVGAElement.Target property
 
-يتوافق مع السمة "الهدف" على عنصر "أ" المحدد .
+يتطابق مع السمة ‘target’ في العنصر ‘a’ المحدد.
 
 ```csharp
 public SVGAnimatedString Target { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "الهدف" لعنصر "أ" المحدد .
+السمة ‘target’ للعنصر ‘a’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGAElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgaelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

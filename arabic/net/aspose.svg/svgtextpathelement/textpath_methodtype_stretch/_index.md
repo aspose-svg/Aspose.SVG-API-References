@@ -1,23 +1,21 @@
 ---
-title: SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPathElement مجال. يتوافق مع القيمة امتداد .
+title: "SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل TEXTPATH_METHODTYPE_STRETCH لعنصر SVGTextPathElement. يتطابق مع القيمة stretch."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgtextpathelement/textpath_methodtype_stretch/
 ---
 ## SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH field
 
-يتوافق مع القيمة "امتداد" .
+يتطابق مع القيمة 'stretch'.
 
 ```csharp
 public const ushort TEXTPATH_METHODTYPE_STRETCH;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,30 +1,27 @@
 ---
-title: Interface INetworkService
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Services.INetworkService واجهه المستخدم. يوفر واجهة لعمليات الشبكة .
+title: "واجهة INetworkService"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Services.INetworkService. توفر واجهة لعمليات الشبكة"
 type: docs
-weight: 3720
+weight: 5850
 url: /ar/net/aspose.svg.services/inetworkservice/
 ---
 ## INetworkService interface
 
-يوفر واجهة لعمليات الشبكة .
+يوفر واجهة لعمليات الشبكة.
 
 ```csharp
-public interface INetworkService : IService
+public interface INetworkService
 ```
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | يحصل على قائمة[`MessageHandler`](../../aspose.svg.net/messagehandler/) الحالات التي سيتم الاحتجاج بها على أنها ملف[`RequestMessage`](../../aspose.svg.net/requestmessage/) ينفذ . |
-| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | الحصول على أو تعيين محلل عناوين URL . |
+| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | يحصل على قائمة من مثيلات [`MessageHandler`](../../aspose.svg.net/messagehandler/) لتُستدعى عندما يتم تنفيذ [`RequestMessage`](../../aspose.svg.net/requestmessage/). |
+| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | يحصل أو يضبط محلل URL. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IService](../iservice/)
-* مساحة الاسم [Aspose.Svg.Services](../../aspose.svg.services/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

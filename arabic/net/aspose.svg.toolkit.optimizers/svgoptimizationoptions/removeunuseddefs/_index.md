@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveUnusedDefs
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على مجموعات الخيار لإزالة محتوى defs التي لا يتم عرضها مباشرة بدون معرفات. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveUnusedDefs"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RemoveUnusedDefs في SVGOptimizationOptions. يحصل على أو يضبط الخيار لإزالة محتوى defs التي لا تُعرض مباشرةً بدون معرفات. القيمة الافتراضية هي true"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunuseddefs/
 ---
 ## SVGOptimizationOptions.RemoveUnusedDefs property
 
-الحصول على مجموعات الخيار لإزالة محتوى defs التي لا يتم عرضها مباشرة بدون معرفات. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة محتوى تعريفات (defs) التي لا تُعرض مباشرةً دون معرّفات. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveUnusedDefs { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

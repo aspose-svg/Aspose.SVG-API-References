@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Height
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDropShadowElement ملكية. يتوافق مع سمة الارتفاع على عنصر feDropShadow المحدد .
+title: "SVGFEDropShadowElement.Height"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Height لـ SVGFEDropShadowElement. تتطابق مع الخاصية height في عنصر feDropShadow المحدد."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.filters/svgfedropshadowelement/height/
 ---
 ## SVGFEDropShadowElement.Height property
 
-يتوافق مع سمة "الارتفاع" على عنصر "feDropShadow" المحدد .
+يتطابق مع السمة ‘height’ في العنصر ‘feDropShadow’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-سمة "الارتفاع" لعنصر "feDropShadow" المحدد .
+الخاصية ‘height’ لعنصر ‘feDropShadow’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDropShadowElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoAbs
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement طريقة. إرجاع كائن SVGPathSegLinetoAbs مستقل وغير أبوي.
+title: "SVGPathElement.CreateSVGPathSegLinetoAbs"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPathElement CreateSVGPathSegLinetoAbs. تُرجع كائن SVGPathSegLinetoAbs مستقل ولا يحتوي على أب"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg/svgpathelement/createsvgpathseglinetoabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoAbs method
 
-إرجاع كائن SVGPathSegLinetoAbs مستقل وغير أبوي.
+يرجع كائن SVGPathSegLinetoAbs مستقل لا يملك أبًا.
 
 ```csharp
 public SVGPathSegLinetoAbs CreateSVGPathSegLinetoAbs(float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | إحداثي X المطلق لنقطة نهاية مقطع المسار هذا. |
-| y | Single | إحداثي Y المطلق لنقطة نهاية مقطع المسار هذا. |
+| x | Single | الإحداثي X المطلق لنقطة النهاية لهذا الجزء من المسار. |
+| y | Single | الإحداثي Y المطلق لنقطة النهاية لهذا الجزء من المسار. |
 
 ### قيمة الإرجاع
 
-كائن SVGPathSegLinetoAbs قائم بذاته وبدون أب.
+كائن SVGPathSegLinetoAbs مستقل ولا يحتوي على أب
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegLinetoAbs](../../../aspose.svg.paths/svgpathseglinetoabs/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

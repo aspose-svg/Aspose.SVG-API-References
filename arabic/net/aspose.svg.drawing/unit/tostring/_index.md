@@ -1,14 +1,14 @@
 ---
-title: Unit.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: Unit طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "Unit.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Unit ToString. تعيد سلسلة تمثل هذا الكائن"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.drawing/unit/tostring/
 ---
 ## Unit.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,34 +1,32 @@
 ---
-title: CustomEvent.InitCustomEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: CustomEvent طريقة. ///InitEvent يتم استخدام طريقة لتهيئة قيمةEvent تم إنشاؤها من خلالIDocumentEvent الواجهة .
+title: "CustomEvent.InitCustomEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "CustomEvent InitCustomEvent method. /// تُستخدم طريقة InitEvent لتهيئة قيمة حدث تم إنشاؤه عبر واجهة IDocumentEvent"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.events/customevent/initcustomevent/
 ---
 ## CustomEvent.InitCustomEvent method
 
-///[`InitEvent`](../../event/initevent/) يتم استخدام طريقة لتهيئة قيمة[`Event`](../../event/) تم إنشاؤها من خلال[`IDocumentEvent`](../../idocumentevent/) الواجهة .
+/// تُستخدم طريقة [`InitEvent`](../../event/initevent/) لتهيئة قيمة [`Event`](../../event/) تم إنشاؤه عبر واجهة [`IDocumentEvent`](../../idocumentevent/).
 
 ```csharp
 public void InitCustomEvent(string type, bool bubbles, bool cancelable, object detail)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
-| bubbles | Boolean | إذا تم التعيين على`حقيقي` [فقاعات]. |
-| cancelable | Boolean | إذا تم التعيين على`حقيقي` [قابل للإلغاء]. |
-| detail | Object | البيانات المخصصة. |
+| bubbles | Boolean | إذا تم تعيينه إلى `true` [bubbles]. |
+| cancelable | Boolean | إذا تم تعيينه إلى `true` [cancelable]. |
+| detail | كائن | البيانات المخصصة. |
 
-### ملاحظات
+## ملاحظات
 
-لا يمكن استدعاء هذه الطريقة إلا قبل إرسال الحدث عبر[`DispatchEvent`](../../ieventtarget/dispatchevent/) الطريقة ، على الرغم من أنه قد يتم استدعاؤها عدة مرات خلال تلك المرحلة إذا لزم الأمر. إذا تم استدعاؤها عدة مرات ، يكون للطلب النهائي الأسبقية. لم تتغير.
+يمكن استدعاء هذه الطريقة فقط قبل أن يتم إرسال الحدث عبر طريقة [`DispatchEvent`](../../ieventtarget/dispatchevent/)، على الرغم من أنه يمكن استدعاؤها عدة مرات خلال تلك المرحلة إذا لزم الأمر. إذا تم الاستدعاء عدة مرات فإن الاستدعاء الأخير له أولوية. إذا تم الاستدعاء من فئة فرعية لواجهة Event فإن القيم المحددة في طريقة initEvent هي التي تُعدَّل، وتُترك جميع السمات الأخرى دون تغيير.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustomEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../customevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

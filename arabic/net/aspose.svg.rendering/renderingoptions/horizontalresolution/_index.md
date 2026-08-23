@@ -1,24 +1,22 @@
 ---
-title: RenderingOptions.HorizontalResolution
-second_title: Aspose.SVG لمرجع .NET API
-description: RenderingOptions ملكية. يضبط أو يحصل على الدقة الأفقية للصور الداخلية التي تُستخدم أثناء معالجة المرشحات  بالبكسل في البوصة. بشكل افتراضي  تكون هذه الخاصية 300 نقطة في البوصة.
+title: "RenderingOptions.HorizontalResolution"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RenderingOptions HorizontalResolution. يحدد أو يحصل على الدقة الأفقية للداخلية التي تُستخدم أثناء معالجة الفلاتر للصور بوحدات البكسل لكل بوصة. بشكل افتراضي، هذه الخاصية هي 300 نقطة في البوصة."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.rendering/renderingoptions/horizontalresolution/
 ---
 ## RenderingOptions.HorizontalResolution property
 
-يضبط أو يحصل على الدقة الأفقية للصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة.
+يضبط أو يحصل على الدقة الأفقية للصور الداخلية (المستخدمة أثناء معالجة الفلاتر)، بوحدة بكسل لكل بوصة. القيمة الافتراضية لهذا الخاصية هي 300 نقطة في البوصة.
 
 ```csharp
 public virtual Resolution HorizontalResolution { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * class [RenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

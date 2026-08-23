@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.Operator
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEMorphologyElement ملكية. يتوافق مع السمة عامل التشغيل على عنصر feMorphology المحدد. يأخذ أحد ثوابت SVG_MORPHOLOGY_OPERATOR_  المحددة في هذه الواجهة.
+title: "SVGFEMorphologyElement.Operator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Operator لعنصر SVGFEMorphologyElement. تتطابق مع السمة operator في عنصر feMorphology المحدد. تأخذ واحدة من الثوابت SVG_MORPHOLOGY_OPERATOR_ المعرفة في هذه الواجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.filters/svgfemorphologyelement/operator/
 ---
 ## SVGFEMorphologyElement.Operator property
 
-يتوافق مع السمة "عامل التشغيل" على عنصر "feMorphology" المحدد. يأخذ أحد ثوابت SVG_MORPHOLOGY_OPERATOR_ * المحددة في هذه الواجهة.
+يتطابق مع السمة ‘operator’ على العنصر ‘feMorphology’ المحدد. يأخذ أحد الثوابت SVG_MORPHOLOGY_OPERATOR_* المعرفة في هذه الواجهة.
 
 ```csharp
 public SVGAnimatedEnumeration Operator { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "المشغل" لعنصر "feMorphology" المحدد .
+السمة ‘operator’ لعنصر ‘feMorphology’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEMorphologyElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

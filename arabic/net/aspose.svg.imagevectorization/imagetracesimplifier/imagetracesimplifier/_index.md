@@ -1,43 +1,41 @@
 ---
-title: ImageTraceSimplifier.ImageTraceSimplifier
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageTraceSimplifier البناء. يقوم بتهيئة مثيل جديد لملفImageTraceSimplifier فئة .
+title: "ImageTraceSimplifier"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ImageTraceSimplifier. يقوم بإنشاء نسخة جديدة من فئة ImageTraceSimplifier."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.imagevectorization/imagetracesimplifier/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageTraceSimplifier`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`ImageTraceSimplifier`](../).
 
 ```csharp
 public ImageTraceSimplifier()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageTraceSimplifier](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSimplifier(float) {#constructor_1}
+## ImageTraceSimplifier(*float*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageTraceSimplifier`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`ImageTraceSimplifier`](../).
 
 ```csharp
 public ImageTraceSimplifier(float tolerance)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tolerance | Single | التسامح |
+| التحمل | Single | التحمل |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageTraceSimplifier](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

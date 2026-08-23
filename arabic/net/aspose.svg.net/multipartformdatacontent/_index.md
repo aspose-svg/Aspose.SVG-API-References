@@ -1,49 +1,47 @@
 ---
-title: Class MultipartFormDataContent
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.MultipartFormDataContent فصل. تمثيل المحتوى لخوارزمية تشفير البيانات متعددة الأجزاء / النموذجية
+title: "فئة MultipartFormDataContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.MultipartFormDataContent. تمثّل المحتوى لخوارزمية ترميز multipart/form-data"
 type: docs
-weight: 2400
+weight: 4470
 url: /ar/net/aspose.svg.net/multipartformdatacontent/
 ---
 ## MultipartFormDataContent class
 
-تمثيل المحتوى لخوارزمية تشفير البيانات متعددة الأجزاء / النموذجية
+يمثل المحتوى لخوارزمية ترميز multipart/form-data
 
 ```csharp
 public class MultipartFormDataContent : MultipartContent
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MultipartFormDataContent](multipartformdatacontent/#constructor)() | يقوم بتهيئة مثيل جديد لملف`MultipartFormDataContent` فئة . |
-| [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`MultipartFormDataContent` فئة . |
+| [MultipartFormDataContent](multipartformdatacontent/#constructor)() | يُنشئ مثيلًا جديدًا لفئة `MultipartFormDataContent`. |
+| [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(*string*) | يُنشئ مثيلًا جديدًا لفئة `MultipartFormDataContent`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | الحصول على رؤوس محتوى HTTP . |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | يحصل على رؤوس محتوى HTTP. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Add](../../aspose.svg.net/multipartformdatacontent/add/#add)(Content) | أضف المحتوى إلى ملف`MultipartFormDataContent` فئة |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_1)(Content, string) | أضف المحتوى إلى ملف`MultipartFormDataContent` فئة مع اسم المجال معلمة |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_2)(Content, string, string) | أضف المحتوى إلى ملف`MultipartFormDataContent` فئة مع حقل واسم ملف معلمة |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | إرجاع عداد يتكرر خلال مجموعة. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | تسلسل محتوى HTTP وإرجاع دفق يمثل المحتوى. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | تسلسل محتوى HTTP وإرجاع سلسلة تمثل المحتوى. |
+| override [Add](../../aspose.svg.net/multipartformdatacontent/add/#add)(*[Content](../content/)*) | أضف المحتوى إلى فئة `MultipartFormDataContent` |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_1)(*[Content](../content/), string*) | أضف المحتوى إلى فئة `MultipartFormDataContent` مع معلمة اسم الحقل |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_2)(*[Content](../content/), string, string*) | أضف المحتوى إلى فئة `MultipartFormDataContent` مع معلمة اسم الحقل واسم الملف |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | يرجع عدّادًا يتنقل عبر مجموعة. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | سلسل محتوى HTTP وأرجع مصفوفة بايت تمثل المحتوى. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | سلسل محتوى HTTP وأرجع تدفقًا يمثل المحتوى. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | سلسل محتوى HTTP وأرجع سلسلة تمثل المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultipartContent](../multipartcontent/)
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

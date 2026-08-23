@@ -1,24 +1,22 @@
 ---
-title: ILinkStyle.Sheet
-second_title: Aspose.SVG لمرجع .NET API
-description: ILinkStyle ملكية. الحصول على ورقة الأنماط المرتبطة.
+title: "ILinkStyle.Sheet"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ILinkStyle Sheet. يحصل على ورقة الأنماط المرتبطة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/ilinkstyle/sheet/
 ---
 ## ILinkStyle.Sheet property
 
-الحصول على ورقة الأنماط المرتبطة.
+يحصل على ورقة الأنماط المرتبطة.
 
 ```csharp
 public IStyleSheet Sheet { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IStyleSheet](../../istylesheet/)
 * interface [ILinkStyle](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../ilinkstyle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

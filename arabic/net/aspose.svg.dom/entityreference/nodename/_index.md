@@ -1,27 +1,25 @@
 ---
-title: EntityReference.NodeName
-second_title: Aspose.SVG لمرجع .NET API
-description: EntityReference ملكية. اسم هذه العقدة حسب نوعها.
+title: "EntityReference.NodeName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية EntityReference NodeName. اسم هذه العقدة حسب نوعها."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/entityreference/nodename/
 ---
 ## EntityReference.NodeName property
 
-اسم هذه العقدة حسب نوعها.
+اسم هذه العقدة، حسب نوعها.
 
 ```csharp
 public override string NodeName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم العقدة .
+اسم العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EntityReference](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../entityreference/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

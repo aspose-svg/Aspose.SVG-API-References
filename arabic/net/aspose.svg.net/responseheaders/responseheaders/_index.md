@@ -1,23 +1,21 @@
 ---
-title: ResponseHeaders.ResponseHeaders
-second_title: Aspose.SVG لمرجع .NET API
-description: ResponseHeaders البناء. يقوم بتهيئة مثيل جديد لملفRequestHeaders فئة .
+title: "ResponseHeaders"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ResponseHeaders. يهيئ نسخة جديدة من فئة RequestHeaders"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
 
-يقوم بتهيئة مثيل جديد لملف[`RequestHeaders`](../../requestheaders/) فئة .
+يُنشئ نسخة جديدة من الفئة [`RequestHeaders`](../../requestheaders/).
 
 ```csharp
 public ResponseHeaders()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResponseHeaders](../)
-* مساحة الاسم [Aspose.Svg.Net](../../responseheaders/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

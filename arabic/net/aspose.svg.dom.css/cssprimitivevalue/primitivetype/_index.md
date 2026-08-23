@@ -1,27 +1,25 @@
 ---
-title: CSSPrimitiveValue.PrimitiveType
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue ملكية. نوع القيمة كما حددتها الثوابت المحددة أعلاه.
+title: "CSSPrimitiveValue.PrimitiveType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PrimitiveType في CSSPrimitiveValue. النوع كما هو معرف بواسطة الثوابت المحددة أعلاه."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/primitivetype/
 ---
 ## CSSPrimitiveValue.PrimitiveType property
 
-نوع القيمة كما حددتها الثوابت المحددة أعلاه.
+نوع القيمة كما هو معرف بالثوابت المحددة أعلاه.
 
 ```csharp
 public ushort PrimitiveType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع البدائي .
+نوع العنصر الأساسي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: UnitType.Dppx
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالنقاط لكل وحدة بكسل .
+title: "UnitType.Dppx"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Dppx. القياس بوحدة النقاط لكل بكسل."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.drawing/unittype/dppx/
 ---
 ## UnitType.Dppx field
 
-القياس بالنقاط لكل وحدة بكسل .
+القياس بالنقاط لكل وحدة بكسل.
 
 ```csharp
 public static readonly UnitType Dppx;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

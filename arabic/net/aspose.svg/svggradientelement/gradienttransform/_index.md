@@ -1,28 +1,26 @@
 ---
-title: SVGGradientElement.GradientTransform
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGradientElement ملكية. يتوافق مع السمة gradientTransform على العنصر المحدد.
+title: "SVGGradientElement.GradientTransform"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGGradientElement GradientTransform. تتطابق مع السمة gradientTransform في العنصر المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svggradientelement/gradienttransform/
 ---
 ## SVGGradientElement.GradientTransform property
 
-يتوافق مع السمة "gradientTransform" على العنصر المحدد.
+يتطابق مع السمة ‘gradientTransform’ في العنصر المحدد.
 
 ```csharp
 public SVGAnimatedTransformList GradientTransform { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "gradientTransform" للعنصر المحدد.
+السمة ‘gradientTransform’ للعنصر المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

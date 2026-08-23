@@ -1,28 +1,26 @@
 ---
-title: SVGElement.Style
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGElement ملكية. يتوافق مع السمة النمط على العنصر المحدد. إذا كان وكيل المستخدم لا يدعم التصميم باستخدام CSS  فيجب أن يكون لهذه السمة دائمًا قيمة خالية.
+title: "SVGElement.Style"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Style لـ SVGElement. تتطابق مع سمة style على العنصر المحدد. إذا لم يدعم عميل المستخدم التنسيق باستخدام CSS يجب أن تكون قيمة هذه السمة دائمًا null."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgelement/style/
 ---
 ## SVGElement.Style property
 
-يتوافق مع السمة "النمط" على العنصر المحدد. إذا كان وكيل المستخدم لا يدعم التصميم باستخدام CSS ، فيجب أن يكون لهذه السمة دائمًا قيمة خالية.
+يتطابق مع السمة ‘style’ على العنصر المعطى. إذا لم يدعم عميل المستخدم التنسيق باستخدام CSS، يجب أن تكون قيمة هذه السمة دائمًا null.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Property_Value
+### Property Value
 
-النمط .
+النمط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../../../aspose.svg.dom.css/icssstyledeclaration/)
 * class [SVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: RenderingOptions.PageSetup
-second_title: Aspose.SVG لمرجع .NET API
-description: RenderingOptions ملكية. الحصول على كائن إعداد الصفحة يستخدم لمجموعة صفحة إخراج التكوين.
+title: "RenderingOptions.PageSetup"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RenderingOptions PageSetup. يحصل على كائن إعداد الصفحة الذي يُستخدم لتكوين مخرجات مجموعة الصفحات."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.rendering/renderingoptions/pagesetup/
 ---
 ## RenderingOptions.PageSetup property
 
-الحصول على كائن إعداد الصفحة يستخدم لمجموعة صفحة إخراج التكوين.
+يحصل على كائن إعداد الصفحة يُستخدم لتكوين مجموعة صفحات الإخراج.
 
 ```csharp
 public PageSetup PageSetup { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إعداد الصفحة .
+إعداد الصفحة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PageSetup](../../pagesetup/)
 * class [RenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

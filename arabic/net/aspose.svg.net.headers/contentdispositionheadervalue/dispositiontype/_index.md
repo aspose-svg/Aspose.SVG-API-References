@@ -1,23 +1,21 @@
 ---
-title: ContentDispositionHeaderValue.DispositionType
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentDispositionHeaderValue ملكية. الحصول على نوع التصرف أو تعيينه
+title: "ContentDispositionHeaderValue.DispositionType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DispositionType في ContentDispositionHeaderValue. تحصل أو تعين نوع التوزيع."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/
 ---
 ## ContentDispositionHeaderValue.DispositionType property
 
-الحصول على نوع التصرف أو تعيينه
+احصل أو اضبط نوع التوزيع
 
 ```csharp
 public string DispositionType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentDispositionHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

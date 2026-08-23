@@ -1,35 +1,33 @@
 ---
-title: SVGLength.NewValueSpecifiedUnits
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLength طريقة. إعادة تعيين القيمة كرقم مع نوع الوحدة المرتبط  وبالتالي استبدال القيم لجميع السمات الموجودة على الكائن.
+title: "SVGLength.NewValueSpecifiedUnits"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة NewValueSpecifiedUnits لـ SVGLength. تعيد تعيين القيمة كرقم مع نوع وحدة مرتبط، وبالتالي تستبدل القيم لجميع الخصائص على الكائن"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.datatypes/svglength/newvaluespecifiedunits/
 ---
 ## SVGLength.NewValueSpecifiedUnits method
 
-إعادة تعيين القيمة كرقم مع نوع الوحدة المرتبط ، وبالتالي استبدال القيم لجميع السمات الموجودة على الكائن.
+أعد ضبط القيمة كرقم مع unitType المرتبط، وبالتالي استبدال القيم لجميع السمات على الكائن.
 
 ```csharp
 public void NewValueSpecifiedUnits(ushort unitType, float valueInSpecifiedUnits)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | unitType | UInt16 | نوع الوحدة للقيمة. |
-| valueInSpecifiedUnits | Single | القيمة الجديدة .. |
+| valueInSpecifiedUnits | Single | القيمة الجديدة.. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) يتم رفعه إذا كان نوع الوحدة هو SVG_LENGTHTYPE_UNKNOWN أو أنه ليس ثابت نوع وحدة صالح (أحد ثوابت SVG_LENGTHTYPE_ * الأخرى المحددة في هذه الواجهة) . |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) تُرفع عندما يتوافق الطول مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) يُرفع إذا كان unitType هو SVG_LENGTHTYPE_UNKNOWN أو ليس ثابت وحدة صالح (أحد الثوابت الأخرى SVG_LENGTHTYPE_* المعرفة في هذه الواجهة). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) يُرفع عندما يتطابق الطول مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGLength](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svglength/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

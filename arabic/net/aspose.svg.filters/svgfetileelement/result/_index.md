@@ -1,28 +1,26 @@
 ---
-title: SVGFETileElement.Result
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETileElement ملكية. يتوافق مع السمة نتيجة على عنصر عامل التصفية المحدد .
+title: "SVGFETileElement.Result"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Result في SVGFETileElement. تتطابق مع السمة result في عنصر الفلتر المعطى"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.filters/svgfetileelement/result/
 ---
 ## SVGFETileElement.Result property
 
-يتوافق مع السمة "نتيجة" على عنصر "عامل التصفية" المحدد .
+يتطابق مع السمة ‘result’ في العنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "نتيجة" لعنصر "عامل التصفية" المحدد .
+السمة ‘result’ لعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFETileElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfetileelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

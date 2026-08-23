@@ -1,23 +1,21 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfDocumentInfo ملكية. اسم الشخص الذي قام بإنشاء المستند.
+title: "PdfDocumentInfo.Author"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PdfDocumentInfo Author. اسم الشخص الذي أنشأ المستند"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.pdf/pdfdocumentinfo/author/
 ---
 ## PdfDocumentInfo.Author property
 
-اسم الشخص الذي قام بإنشاء المستند.
+اسم الشخص الذي أنشأ المستند.
 
 ```csharp
 public string Author { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

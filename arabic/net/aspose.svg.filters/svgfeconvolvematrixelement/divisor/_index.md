@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Divisor
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement ملكية. يتوافق مع السمة القاسم على عنصر feConvolveMatrix المحدد.
+title: "SVGFEConvolveMatrixElement.Divisor"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Divisor لعنصر SVGFEConvolveMatrixElement. تتطابق مع السمة divisor على عنصر feConvolveMatrix المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/divisor/
 ---
 ## SVGFEConvolveMatrixElement.Divisor property
 
-يتوافق مع السمة "القاسم" على عنصر "feConvolveMatrix" المحدد.
+يتطابق مع السمة ‘divisor’ على العنصر ‘feConvolveMatrix’ المعطى.
 
 ```csharp
 public SVGAnimatedNumber Divisor { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "القاسم" لعنصر "feConvolveMatrix" المحدد .
+السمة ‘divisor’ لعنصر ‘feConvolveMatrix’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

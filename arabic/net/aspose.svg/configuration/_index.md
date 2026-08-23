@@ -1,43 +1,43 @@
 ---
-title: Class Configuration
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Configuration فصل. يمثل كائن سياق التكوين المستخدم لإعداد إعدادات البيئة للتطبيق.
+title: "فئة Configuration"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Configuration. تمثل كائن سياق التكوين الذي يُستخدم لإعداد إعدادات البيئة للتطبيق"
 type: docs
-weight: 60
+weight: 2050
 url: /ar/net/aspose.svg/configuration/
 ---
 ## Configuration class
 
-يمثل كائن سياق التكوين المستخدم لإعداد إعدادات البيئة للتطبيق.
+يمثل كائن سياق التكوين الذي يُستخدم لإعداد إعدادات البيئة للتطبيق.
 
 ```csharp
-public class Configuration : IServiceContainer
+public class Configuration : IDisposable, IServiceProvider
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Configuration](configuration/)() | يقوم بتهيئة مثيل جديد لملف`Configuration` فئة . |
+| [Configuration](configuration/)() | يُنشئ مثيلًا جديدًا للفئة `Configuration`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Security](../../aspose.svg/configuration/security/) { get; set; } | الحصول على علامة وضع الحماية للتهيئة أو تعيينها. |
+| [Security](../../aspose.svg/configuration/security/) { get; set; } | تتيح لك هذه الخاصية تعيين عدد من القيود على المحتوى المحمَّل في الإطار، على سبيل المثال، حظر النماذج والسكريبتات. راجع المقال حول [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AddService&lt;TService&gt;](../../aspose.svg/configuration/addservice/)(TService) | إضافة الخدمة المحددة إلى التكوين . |
-| [Dispose](../../aspose.svg/configuration/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [GetService&lt;TService&gt;](../../aspose.svg/configuration/getservice/)() | الحصول على الخدمة المطلوبة. |
+| static [Create](../../aspose.svg/configuration/create/#create)() | إنشاء وتكوين مثيل كائن Configuration. |
+| static [Create](../../aspose.svg/configuration/create/#create_1)(*Action&lt;IConfigurationBuilder&gt;*) | إنشاء وتكوين مثيل كائن Configuration. |
+| [Dispose](../../aspose.svg/configuration/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [GetService](../../aspose.svg/configuration/getservice/#getservice)(*Type*) | يحصل على الخدمة المطلوبة. |
+| [GetService<T>](../../aspose.svg/configuration/getservice/#getservice_1)() | يحصل على الخدمة المطلوبة. |
+| static [SetExtension](../../aspose.svg/configuration/setextension/)(*[IConfigurationExtension](../iconfigurationextension/)*) | يضبط الامتداد للتكوين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IServiceContainer](../../aspose.svg.services/iservicecontainer/)
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

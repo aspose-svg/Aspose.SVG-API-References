@@ -1,14 +1,14 @@
 ---
-title: IColorComponents.ToColor
-second_title: Aspose.SVG لمرجع .NET API
-description: IColorComponents طريقة. تحويل مكونات اللون إلى كائن اللون.
+title: "IColorComponents.ToColor"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IColorComponents ToColor. يحول مكونات اللون إلى كائن Color"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.drawing/icolorcomponents/tocolor/
 ---
 ## IColorComponents.ToColor method
 
-تحويل مكونات اللون إلى كائن اللون.
+يحوّل مكونات اللون إلى كائن Color.
 
 ```csharp
 public Color ToColor()
@@ -16,13 +16,11 @@ public Color ToColor()
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../../color/) فصل
+مثال جديد من الفئة [`Color`](../../color/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../../color/)
 * interface [IColorComponents](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../icolorcomponents/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

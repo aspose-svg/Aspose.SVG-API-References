@@ -1,33 +1,31 @@
 ---
-title: DocumentType.DocumentType
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentType البناء. يقوم بتهيئة مثيل جديد لملفDocumentType فئة .
+title: "DocumentType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ DocumentType. يهيئ نسخة جديدة من فئة DocumentType"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
 
-يقوم بتهيئة مثيل جديد لملف[`DocumentType`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`DocumentType`](../).
 
 ```csharp
 public DocumentType(string name, string publicId, string systemId, string internalSubset, 
     Document doc)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الكيان. |
-| publicId | String | المعرف العام. |
-| systemId | String | معرف النظام. |
+| الاسم | String | اسم الكيان. |
+| publicId | String | معرّف العمومي. |
+| systemId | String | معرّف النظام. |
 | internalSubset | String | المجموعة الداخلية. |
-| doc | Document | المستند. |
+| doc | المستند | المستند. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documenttype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

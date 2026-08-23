@@ -1,34 +1,32 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement طريقة. إرجاع كائن SVGPathSegCurvetoQuadraticSmoothRel مستقل وغير أبوي.
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPathElement CreateSVGPathSegCurvetoQuadraticSmoothRel. تُرجع كائن SVGPathSegCurvetoQuadraticSmoothRel مستقل ولا يحتوي على أب"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel method
 
-إرجاع كائن SVGPathSegCurvetoQuadraticSmoothRel مستقل وغير أبوي.
+يرجع كائن SVGPathSegCurvetoQuadraticSmoothRel مستقل لا يملك أبًا.
 
 ```csharp
 public SVGPathSegCurvetoQuadraticSmoothRel CreateSVGPathSegCurvetoQuadraticSmoothRel(float x, 
     float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | إحداثي X النسبي لنقطة نهاية مقطع المسار هذا. |
-| y | Single | إحداثي Y النسبي لنقطة نهاية مقطع المسار هذا. |
+| x | Single | الإحداثي X النسبي لنقطة النهاية لهذا مقطع المسار. |
+| y | Single | الإحداثي Y النسبي لنقطة النهاية لهذا مقطع المسار. |
 
 ### قيمة الإرجاع
 
-كائن SVGPathSegCurvetoQuadraticSmoothRel قائم بذاته وبدون أب.
+كائن SVGPathSegCurvetoQuadraticSmoothRel مستقل ولا يحتوي على أب
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegCurvetoQuadraticSmoothRel](../../../aspose.svg.paths/svgpathsegcurvetoquadraticsmoothrel/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

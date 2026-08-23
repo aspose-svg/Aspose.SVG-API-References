@@ -1,30 +1,28 @@
 ---
-title: Class SVGValueType
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.DataTypes.SVGValueType فصل. يتم استخدام نوع SVGValueType لتمثيل نوع قيمة SVG أساسي.
+title: "فئة SVGValueType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.DataTypes.SVGValueType. يُستخدم نوع SVGValueType لتمثيل نوع قيمة SVG أساسي"
 type: docs
-weight: 340
+weight: 2330
 url: /ar/net/aspose.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class
 
-يتم استخدام نوع SVGValueType لتمثيل نوع قيمة SVG أساسي.
+يُستخدم النوع SVGValueType لتمثيل نوع قيمة SVG أساسي.
 
 ```csharp
 public abstract class SVGValueType : DOMObject, IDisposable
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

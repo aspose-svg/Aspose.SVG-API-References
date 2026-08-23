@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.Height
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement ملكية. يتوافق مع سمة الارتفاع على عنصر svg المحدد .
+title: "SVGSVGElement.Height"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Height في SVGSVGElement. تتطابق مع السمة height في عنصر svg المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgsvgelement/height/
 ---
 ## SVGSVGElement.Height property
 
-يتوافق مع سمة "الارتفاع" على عنصر "svg" المحدد .
+يتطابق مع السمة ‘height’ في العنصر ‘svg’ المعطى.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-يتوافق مع سمة "الارتفاع" على عنصر "svg" المحدد .
+يتطابق مع السمة ‘height’ في العنصر ‘svg’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

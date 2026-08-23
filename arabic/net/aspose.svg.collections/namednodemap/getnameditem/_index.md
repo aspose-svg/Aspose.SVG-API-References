@@ -1,32 +1,30 @@
 ---
-title: NamedNodeMap.GetNamedItem
-second_title: Aspose.SVG لمرجع .NET API
-description: NamedNodeMap طريقة. استرداد العقدة المحددة بالاسم.
+title: "NamedNodeMap.GetNamedItem"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetNamedItem في NamedNodeMap. تسترجع عقدة محددة بالاسم"
 type: docs
-weight: 40
+weight: 30
 url: /ar/net/aspose.svg.collections/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method
 
-استرداد العقدة المحددة بالاسم.
+يسترجع عقدة محددة بالاسم.
 
 ```csharp
 public Attr GetNamedItem(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم العقدة. |
+| الاسم | String | اسم العقدة. |
 
 ### قيمة الإرجاع
 
-إرجاع العقدة.
+يرجع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../namednodemap/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

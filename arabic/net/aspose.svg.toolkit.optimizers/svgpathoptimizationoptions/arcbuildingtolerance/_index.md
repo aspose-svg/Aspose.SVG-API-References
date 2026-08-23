@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.ArcBuildingTolerance
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathOptimizationOptions ملكية. الحصول على أو تحديد قيمة المعلمة المستخدمة كنسبة مئوية من نصف القطر لاستبدال مقاطع Bezier بمقاطع قوسية. إنها 0.5 افتراضيًا.
+title: "SVGPathOptimizationOptions.ArcBuildingTolerance"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ArcBuildingTolerance في SVGPathOptimizationOptions. يحصل على أو يضبط قيمة المعامل المستخدمة كنسبة مئوية لنصف القطر لاستبدال مقاطع بيزيير بمقاطع قوس. القيمة الافتراضية هي 0.5"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/
 ---
 ## SVGPathOptimizationOptions.ArcBuildingTolerance property
 
-الحصول على أو تحديد قيمة المعلمة المستخدمة كنسبة مئوية من نصف القطر لاستبدال مقاطع Bezier بمقاطع قوسية. إنها "0.5" افتراضيًا.
+يحصل أو يضبط قيمة المعامل المستخدمة كنسبة مئوية لنصف القطر لاستبدال مقاطع Bezier بمقاطع قوس. القيمة الافتراضية هي '0.5'.
 
 ```csharp
 public float ArcBuildingTolerance { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

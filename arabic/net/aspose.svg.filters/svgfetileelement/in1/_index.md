@@ -1,28 +1,26 @@
 ---
-title: SVGFETileElement.In1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETileElement ملكية. يتوافق مع السمة in في عنصر feTile المحدد .
+title: "SVGFETileElement.In1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية In1 في SVGFETileElement. تتطابق مع السمة in في عنصر feTile المعطى"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.filters/svgfetileelement/in1/
 ---
 ## SVGFETileElement.In1 property
 
-يتوافق مع السمة "in" في عنصر "feTile" المحدد .
+يتطابق مع السمة ‘in’ في العنصر ‘feTile’ المحدد.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "في" لعنصر "feTile" المحدد .
+السمة ‘in’ لعنصر ‘feTile’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFETileElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfetileelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

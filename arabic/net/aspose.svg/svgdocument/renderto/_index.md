@@ -1,28 +1,26 @@
 ---
-title: SVGDocument.RenderTo
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGDocument طريقة. تُستخدم هذه الطريقة لطباعة محتويات المستند الحالي على الجهاز المحدد.
+title: "SVGDocument.RenderTo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGDocument RenderTo. تُستخدم هذه الطريقة لطباعة محتويات المستند الحالي إلى الجهاز المحدد"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg/svgdocument/renderto/
 ---
 ## SVGDocument.RenderTo method
 
-تُستخدم هذه الطريقة لطباعة محتويات المستند الحالي على الجهاز المحدد.
+تُستخدم هذه الطريقة لطباعة محتويات المستند الحالي إلى الجهاز المحدد.
 
 ```csharp
 public override void RenderTo(IDevice device)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز المستخدم. |
+| الجهاز | IDevice | جهاز المستخدم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../../aspose.svg.rendering/idevice/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

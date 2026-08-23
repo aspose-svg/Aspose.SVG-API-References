@@ -1,27 +1,25 @@
 ---
-title: ILinearGradientBrush.Angle
-second_title: Aspose.SVG لمرجع .NET API
-description: ILinearGradientBrush ملكية. الحصول على زاوية خط اتجاه التدرج  مقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني.
+title: "ILinearGradientBrush.Angle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ILinearGradientBrush Angle. تحصّل أو تعيين الزاوية المقاسة بالدرجات في اتجاه عقارب الساعة من محور x لخط توجيه الانحدار"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/ilineargradientbrush/angle/
 ---
 ## ILinearGradientBrush.Angle property
 
-الحصول على زاوية خط اتجاه التدرج ، مقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني.
+يحصل على أو يعيّن الزاوية، المقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني، لخط توجيه التدرج.
 
 ```csharp
-public float Angle { get; }
+public float Angle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الزاوية .
+زاوية خط توجيه الانحدار بالدرجات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILinearGradientBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../ilineargradientbrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

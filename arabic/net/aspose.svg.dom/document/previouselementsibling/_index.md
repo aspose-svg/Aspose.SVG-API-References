@@ -1,24 +1,22 @@
 ---
-title: Document.PreviousElementSibling
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. إرجاع عقدة العنصر الشقيقة السابقة لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عقد شقيقة لعنصر تأتي قبل هذا في شجرة الوثيقة.
+title: "Document.PreviousElementSibling"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document PreviousElementSibling. تُعيد عقدة العنصر الشقيق السابق لهذا العنصر. تكون القيمة null إذا لم يكن لهذا العنصر أي عقد شقيقة عنصرية تأتي قبلها في شجرة المستند."
 type: docs
 weight: 220
 url: /ar/net/aspose.svg.dom/document/previouselementsibling/
 ---
 ## Document.PreviousElementSibling property
 
-إرجاع عقدة العنصر الشقيقة السابقة لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عقد شقيقة لعنصر تأتي قبل هذا في شجرة الوثيقة.
+يعيد عقدة العنصر الشقيقة السابقة لهذا العنصر. null إذا لم يكن لهذا العنصر أي عقد شقيقة عنصر تأتي قبلها في شجرة المستند.
 
 ```csharp
 public Element PreviousElementSibling { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,48 +1,46 @@
 ---
-title: Class MultipartContent
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.MultipartContent فصل. يمثل محتوى متعدد الأجزاء / .
+title: "فئة MultipartContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.MultipartContent. يمثل محتوى multipart/."
 type: docs
-weight: 2390
+weight: 4460
 url: /ar/net/aspose.svg.net/multipartcontent/
 ---
 ## MultipartContent class
 
-يمثل محتوى متعدد الأجزاء / *.
+يمثل محتوى multipart/*.
 
 ```csharp
 public class MultipartContent : Content, IEnumerable<Content>
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MultipartContent](multipartcontent/#constructor)() | قم بإنشاء مثيل جديد لملف`MultipartContent` فئة . |
-| [MultipartContent](multipartcontent/#constructor_1)(string) | قم بإنشاء مثيل جديد لملف`MultipartContent` فئة ذات نوع فرعي. |
-| [MultipartContent](multipartcontent/#constructor_2)(string, string) | قم بإنشاء مثيل جديد لملف`MultipartContent` فئة ذات نوع فرعي وحد. |
+| [MultipartContent](multipartcontent/#constructor)() | أنشئ مثيلاً جديداً من الفئة `MultipartContent`. |
+| [MultipartContent](multipartcontent/#constructor_1)(*string*) | أنشئ مثيلاً جديداً من الفئة `MultipartContent` مع النوع الفرعي. |
+| [MultipartContent](multipartcontent/#constructor_2)(*string, string*) | أنشئ مثيلاً جديداً من الفئة `MultipartContent` مع النوع الفرعي والحد الفاصل. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | الحصول على رؤوس محتوى HTTP . |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | يحصل على رؤوس محتوى HTTP. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Add](../../aspose.svg.net/multipartcontent/add/)(Content) | أضف محتوى جديدًا إلى ملف`MultipartContent` |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | إرجاع عداد يتكرر خلال مجموعة. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | تسلسل محتوى HTTP وإرجاع دفق يمثل المحتوى. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | تسلسل محتوى HTTP وإرجاع سلسلة تمثل المحتوى. |
+| virtual [Add](../../aspose.svg.net/multipartcontent/add/)(*[Content](../content/)*) | أضف محتوىً جديداً إلى `MultipartContent` |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | يرجع عدّادًا يتنقل عبر مجموعة. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | سلسل محتوى HTTP وأرجع مصفوفة بايت تمثل المحتوى. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | سلسل محتوى HTTP وأرجع تدفقًا يمثل المحتوى. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | سلسل محتوى HTTP وأرجع سلسلة تمثل المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../content/)
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

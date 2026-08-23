@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedBoolean
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedBoolean فصل. تُستخدم للسمات من النوع المنطقي التي يمكن تحريكها.
+title: "فئة SVGAnimatedBoolean"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.DataTypes.SVGAnimatedBoolean. تُستخدم للسمات من نوع boolean والتي يمكن تحريكها"
 type: docs
-weight: 100
+weight: 2090
 url: /ar/net/aspose.svg.datatypes/svganimatedboolean/
 ---
 ## SVGAnimatedBoolean class
 
-تُستخدم للسمات من النوع المنطقي التي يمكن تحريكها.
+تُستخدم لسمات من النوع boolean التي يمكن تحريكها.
 
 ```csharp
 public class SVGAnimatedBoolean : SVGAnimatedValue<bool>
@@ -16,23 +16,21 @@ public class SVGAnimatedBoolean : SVGAnimatedValue<bool>
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedboolean/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedboolean/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

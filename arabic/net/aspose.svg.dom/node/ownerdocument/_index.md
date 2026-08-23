@@ -1,24 +1,34 @@
 ---
-title: Node.OwnerDocument
-second_title: Aspose.SVG لمرجع .NET API
-description: Node ملكية. كائن المستند المرتبط بهذه العقدة. هذا هو أيضًا كائن المستند المستخدم لإنشاء عقد جديدة. عندما تكون هذه العقدة عبارة عن مستند أو نوع مستند لم يتم استخدامه مع أي مستند حتى الآن  يكون هذا فارغًا.
+title: "Node.OwnerDocument"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Node OwnerDocument. إرجاع كائن المستند الأعلى المستوى للعقدة"
 type: docs
-weight: 120
+weight: 110
 url: /ar/net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-كائن المستند المرتبط بهذه العقدة. هذا هو أيضًا كائن المستند المستخدم لإنشاء عقد جديدة. عندما تكون هذه العقدة عبارة عن مستند أو نوع مستند لم يتم استخدامه مع أي مستند حتى الآن ، يكون هذا فارغًا.
+يعيد كائن المستند الأعلى المستوى للعقدة.
 
 ```csharp
 public virtual Document OwnerDocument { get; }
 ```
 
-### أنظر أيضا
+### Property Value
+
+كائن [`Document`](../../document/) هو الكائن الأعلى المستوى الذي تُنشأ فيه جميع العقد الفرعية.
+
+إذا تم استخدام هذه الخاصية على عقدة هي نفسها مستند، فإن القيمة تكون null.
+
+## ملاحظات
+
+المرجع:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
+
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

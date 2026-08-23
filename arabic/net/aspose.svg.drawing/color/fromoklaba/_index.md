@@ -1,34 +1,32 @@
 ---
-title: Color.FromOklaba
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيم ألفا  A  B  الخفة المطلوبة لنموذج OKLAB.
+title: "Color.FromOklaba"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromOklaba. تُرجع لونًا جديدًا مع قيم الإضاءة A B ألفا المطلوبة لنموذج OKLAB."
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.drawing/color/fromoklaba/
 ---
 ## Color.FromOklaba method
 
-إرجاع لون جديد بقيم ألفا ، A ، B ، الخفة المطلوبة لنموذج OKLAB.
+يرجع Color جديد مع القيم المطلوبة للسطوع، A، B، وألفا لنموذج OKLAB.
 
 ```csharp
 public static Color FromOklaba(float lightness, float a, float b, float alpha)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| lightness | Single | عائم يمثل مكون الإضاءة للون. |
-| a | Single | عدد عشري يمثل المكون "أ" للون. |
-| b | Single | عدد عشري يمثل المكون B للون. |
-| alpha | Single | عدد عشري يمثل مكون ألفا للون. |
+| السطوع | Single | قيمة عائمة تمثل مكوّن السطوع للون. |
+| a | Single | قيمة float تمثل المكوّن A للون. |
+| b | Single | قيمة float تمثل المكوّن B لللون. |
+| ألفا | Single | قيمة عائمة تمثل المكوّن ألفا للون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

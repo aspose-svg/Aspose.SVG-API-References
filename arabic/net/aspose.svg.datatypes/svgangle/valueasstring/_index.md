@@ -1,34 +1,32 @@
 ---
-title: SVGAngle.ValueAsString
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGAngle ملكية. قيمة الزاوية كقيمة سلسلة  بالوحدات التي يتم التعبير عنها بواسطة نوع الوحدة. سيؤدي تعيين هذه السمة إلى تحديث القيمة و valueInSpecifiedUnits و unitType تلقائيًا لتعكس هذا الإعداد.
+title: "SVGAngle.ValueAsString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGAngle ValueAsString. قيمة الزاوية كسلسلة في الوحدات التي يعبر عنها unitType. ضبط هذا السمة سيؤدي إلى تحديث value valueInSpecifiedUnits و unitType تلقائيًا لتعكس هذا الإعداد."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.datatypes/svgangle/valueasstring/
 ---
 ## SVGAngle.ValueAsString property
 
-قيمة الزاوية كقيمة سلسلة ، بالوحدات التي يتم التعبير عنها بواسطة نوع الوحدة. سيؤدي تعيين هذه السمة إلى تحديث القيمة و valueInSpecifiedUnits و unitType تلقائيًا لتعكس هذا الإعداد.
+قيمة الزاوية كسلسلة نصية، بالوحدات التي يحددها unitType. سيؤدي ضبط هذا السمة إلى تحديث value و valueInSpecifiedUnits و unitType تلقائيًا لتعكس هذا الإعداد.
 
 ```csharp
 public string ValueAsString { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة كسلسلة .
+القيمة كسلسلة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err/) تُرفع إذا تعذر تحليل السلسلة المعينة كزاوية صالحة. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) يتم رفعه عندما تتوافق الزاوية مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err/) يُرفع إذا تعذر تحليل السلسلة المعينة كزاوية صالحة. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الكود [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) يُرفع عندما تتطابق الزاوية مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAngle](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgangle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

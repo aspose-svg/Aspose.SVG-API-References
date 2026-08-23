@@ -1,48 +1,46 @@
 ---
-title: CustomEvent.CustomEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: CustomEvent البناء. يقوم بتهيئة مثيل جديد لملفCustomEvent فئة .
+title: "CustomEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ CustomEvent. يهيئ نسخة جديدة من فئة CustomEvent"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.events/customevent/customevent/
 ---
-## CustomEvent(string) {#constructor}
+## CustomEvent(*string*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CustomEvent`](../) فئة .
+يهيئ نسخة جديدة من فئة [`CustomEvent`](../).
 
 ```csharp
 public CustomEvent(string type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustomEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../customevent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CustomEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## CustomEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CustomEvent`](../) فئة .
+يهيئ نسخة جديدة من فئة [`CustomEvent`](../).
 
 ```csharp
 public CustomEvent(string type, IDictionary<string, object> eventInitDict)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
-| eventInitDict | IDictionary`2 | الحدث تهيئة القاموس. |
+| eventInitDict | IDictionary`2 | قاموس تهيئة الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustomEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../customevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: IFileList.Item
-second_title: Aspose.SVG لمرجع .NET API
-description: IFileList ملكية. إرجاع ملف الفهرس في القائمة.
+title: "IFileList Item"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Item في IFileList. تُعيد الملف في الفهرس المحدد في القائمة."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.io/ifilelist/item/
 ---
 ## IFileList indexer
 
-إرجاع ملف الفهرس في القائمة.
+يرجع الملف ذو الفهرس في القائمة.
 
 ```csharp
 public IFile this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الملف. |
 
@@ -22,11 +22,9 @@ public IFile this[int index] { get; }
 
 الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IFile](../../ifile/)
 * interface [IFileList](../)
-* مساحة الاسم [Aspose.Svg.IO](../../ifilelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

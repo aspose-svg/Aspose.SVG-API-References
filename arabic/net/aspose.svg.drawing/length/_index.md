@@ -1,9 +1,9 @@
 ---
-title: Class Length
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.Length فصل. يمثل وحدة قياس الطول.
+title: "فئة الطول"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Drawing.Length. تمثل وحدة قياس الطول"
 type: docs
-weight: 1520
+weight: 3550
 url: /ar/net/aspose.svg.drawing/length/
 ---
 ## Length class
@@ -16,34 +16,32 @@ public sealed class Length : Dimension
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة لملف[`Unit`](../unit/) . |
+| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة لـ [`Unit`](../unit/). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(Numeric) | يقارن المثيل الحالي بكائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كان المثيل الحالي يسبق أو يتبع أو يحدث في نفس الموضع في ترتيب الفرز مثل الكائن الآخر. |
-| override [Equals](../../aspose.svg.drawing/unit/equals/)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
-| override [Equals](../../aspose.svg.drawing/numeric/equals/)(Unit) | تحديد ما إذا كان الملف المحدد[`Unit`](../unit/) ، يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | يحصل على قيمة الوحدة . |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(UnitType) | الحصول على القيمة المحولة إلى القيمة المحددة[`UnitType`](../unittype/) . |
-| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
-| [operator +](../../aspose.svg.drawing/length/op_addition/) | تنفيذ عامل التشغيل + . |
-| [operator ==](../../aspose.svg.drawing/length/op_equality/) | تنفيذ عامل التشغيل == . |
-| [operator &gt;](../../aspose.svg.drawing/length/op_greaterthan/) | تنفيذ عامل التشغيل&gt; . |
-| [operator &gt;=](../../aspose.svg.drawing/length/op_greaterthanorequal/) | تنفيذ عامل التشغيل&gt; = . |
-| [operator !=](../../aspose.svg.drawing/length/op_inequality/) | تنفذ عامل التشغيل! = . |
-| [operator &lt;](../../aspose.svg.drawing/length/op_lessthan/) | تنفيذ عامل التشغيل &lt;. |
-| [operator &lt;=](../../aspose.svg.drawing/length/op_lessthanorequal/) | تنفذ عامل التشغيل &lt;= . |
-| [operator -](../../aspose.svg.drawing/length/op_subtraction/) | تنفيذ عامل التشغيل -. |
+| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(*[Numeric](../numeric/)*) | يقارن النسخة الحالية مع كائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كانت النسخة الحالية تسبق أو تتبع أو تقع في نفس الموضع في ترتيب الفرز مقارنةً بالكائن الآخر. |
+| override [Equals](../../aspose.svg.drawing/unit/equals/)(*object*) | يحدد ما إذا كان الكائن المحدد مساويًا لهذه الحالة. |
+| override [Equals](../../aspose.svg.drawing/numeric/equals/)(*[Unit](../unit/)*) | يحدد ما إذا كانت الـ [`Unit`](../unit/) المحددة مساوية لهذه النسخة. |
+| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | يرجع رمز تجزئة (hash code) لهذه الحالة. |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | يحصل على قيمة الوحدة. |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(*[UnitType](../unittype/)*) | يحصل على القيمة محوّلة إلى الـ [`UnitType`](../unittype/) المحدد. |
+| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
+| [operator +](../../aspose.svg.drawing/length/op_addition/) | ينفّذ العامل +. |
+| [operator ==](../../aspose.svg.drawing/length/op_equality/) | ينفّذ العامل ==. |
+| [operator >](../../aspose.svg.drawing/length/op_greaterthan/) | ينفّذ العامل &gt;. |
+| [operator >=](../../aspose.svg.drawing/length/op_greaterthanorequal/) | ينفّذ العامل &gt;=. |
+| [operator !=](../../aspose.svg.drawing/length/op_inequality/) | ينفّذ العامل !=. |
+| [operator <](../../aspose.svg.drawing/length/op_lessthan/) | ينفّذ العامل &lt;. |
+| [operator <=](../../aspose.svg.drawing/length/op_lessthanorequal/) | ينفّذ العامل &lt;=. |
+| [operator -](../../aspose.svg.drawing/length/op_subtraction/) | ينفّذ العامل -. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dimension](../dimension/)
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: Interface INonElementParentNode
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.INonElementParentNode واجهه المستخدم. يحددIParentNode التي ليست من نوع العنصر.
+title: "واجهة INonElementParentNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.INonElementParentNode. تُعرّف IParentNode التي ليست من نوع Element."
 type: docs
-weight: 1090
+weight: 3070
 url: /ar/net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
 
-يحدد[`IParentNode`](../iparentnode/) التي ليست من نوع العنصر.
+تُعرّف [`IParentNode`](../iparentnode/) التي ليست من نوع Element.
 
 ```csharp
 public interface INonElementParentNode
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(string) | إرجاع العنصر الأول داخل أحفاد العقدة الذي يكون معرفه elementId. |
+| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(*string*) | تُعيد العنصر الأول ضمن أبناء العقدة الذين يحملون المعرف elementId. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEMorphologyElement مجال. يتوافق مع القيمة تآكل .
+title: "SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_MORPHOLOGY_OPERATOR_ERODE لعنصر SVGFEMorphologyElement. يتطابق مع القيمة erode"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_erode/
 ---
 ## SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE field
 
-يتوافق مع القيمة "تآكل" .
+يتطابق مع القيمة 'erode'.
 
 ```csharp
 public const ushort SVG_MORPHOLOGY_OPERATOR_ERODE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEMorphologyElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

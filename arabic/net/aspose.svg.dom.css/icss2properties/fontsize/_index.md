@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontSize
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية حجم الخط في CSS2.
+title: "ICSS2Properties.FontSize"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties FontSize خاصية. انظر تعريف خاصية font-size في CSS2"
 type: docs
 weight: 490
 url: /ar/net/aspose.svg.dom.css/icss2properties/fontsize/
 ---
 ## ICSS2Properties.FontSize property
 
-راجع تعريف خاصية حجم الخط في CSS2.
+انظر تعريف خاصية font-size في CSS2.
 
 ```csharp
 public string FontSize { get; set; }
@@ -16,12 +16,10 @@ public string FontSize { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية حجم الخط
+خاصية font-size
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

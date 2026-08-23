@@ -1,14 +1,14 @@
 ---
-title: Class DeviceTGraphicContextTRenderingOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Device2TGraphicContextTRenderingOptions فصل. يمثل فئة أساسية لتنفيذ أجهزة عرض معينة.
+title: "فئة DeviceTGraphicContextTRenderingOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Rendering.Device2TGraphicContextTRenderingOptions class. يمثل الفئة الأساسية لتنفيذ أجهزة التصيير الخاصة."
 type: docs
-weight: 2740
+weight: 4820
 url: /ar/net/aspose.svg.rendering/device-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions> class
 
-يمثل فئة أساسية لتنفيذ أجهزة عرض معينة.
+يمثل الفئة الأساسية لتنفيذ أجهزة العرض المحددة.
 
 ```csharp
 public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevice
@@ -16,59 +16,60 @@ public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevi
     where TRenderingOptions : RenderingOptions
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| TGraphicContext | السياق الرسومي الذي يحتوي على معلمات التحكم في الرسومات الحالية |
-| TRenderingOptions | خيارات التقديم |
+| TGraphicContext | سياق رسومي يحتفظ بمعلمات التحكم الرسومية الحالية |
+| TRenderingOptions | خيارات التصيير |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GraphicContext](../../aspose.svg.rendering/device-2/graphiccontext/) { get; } | يحصل على سياق الرسم |
-| [Options](../../aspose.svg.rendering/device-2/options/) { get; } | يحصل على خيارات التقديم . |
+| [GraphicContext](../../aspose.svg.rendering/device-2/graphiccontext/) { get; } | يحصل على سياق الرسومات |
+| [Options](../../aspose.svg.rendering/device-2/options/) { get; } | يحصل على خيارات التصيير. |
+| virtual [Configuration](../../aspose.svg.rendering/device-2/configuration/) { get; } | يحصل على تكوين الجهاز. |
+| [OutputStream](../../aspose.svg.rendering/device-2/outputstream/) { get; } | يضبط ويسترجع تدفق الإخراج. |
+| [StreamProvider](../../aspose.svg.rendering/device-2/streamprovider/) { get; } | يحصل على كائن موفر التدفق. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [AddRect](../../aspose.svg.rendering/device-2/addrect/)(RectangleF) | إلحاق مستطيل بالمسار الحالي كمسار فرعي كامل. |
-| virtual [BeginDocument](../../aspose.svg.rendering/device-2/begindocument/)(Document) | يبدأ عرض المستند. |
-| abstract [BeginElement](../../aspose.svg.rendering/device-2/beginelement/)(Element, RectangleF) | يبدأ عرض العقدة . |
-| virtual [BeginPage](../../aspose.svg.rendering/device-2/beginpage/)(SizeF) | يبدأ عرض الصفحة الجديدة . |
-| abstract [Clip](../../aspose.svg.rendering/device-2/clip/)(FillMode) | يعدل مسار القطع الحالي عن طريق تقاطعه مع المسار الحالي ، باستخدام قاعدة FillMode لتحديد المنطقة المراد تعبئتها. تنهي هذه الطريقة المسار الحالي. |
-| abstract [ClosePath](../../aspose.svg.rendering/device-2/closepath/)() | لإغلاق المسار الفرعي الحالي بإلحاق مقطع بخط مستقيم من النقطة الحالية إلى نقطة بداية المسار الفرعي. إذا كان المسار الفرعي الحالي مغلقًا بالفعل ، فإن "ClosePath" لا يفعل شيئًا . ينهي عامل التشغيل هذا المسار الفرعي الحالي. يؤدي إلحاق مقطع آخر بالمسار الحالي إلى بدء مسار فرعي جديد ، حتى إذا بدأ المقطع الجديد عند نقطة النهاية التي تم الوصول إليها بواسطة طريقة "ClosePath" . |
-| abstract [CubicBezierTo](../../aspose.svg.rendering/device-2/cubicbezierto/)(PointF, PointF, PointF) | لإلحاق منحنى بيزير مكعب بالمسار الحالي. يمتد المنحنى من النقطة الحالية إلى النقطة pt2 ، باستخدام pt1 و pt2 كنقاط تحكم Bézier. النقطة الحالية الجديدة هي pt3. |
-| [Dispose](../../aspose.svg.rendering/device-2/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| abstract [DrawImage](../../aspose.svg.rendering/device-2/drawimage/)(byte[], ImageType, RectangleF) | يرسم الصورة المحددة . |
-| virtual [EndDocument](../../aspose.svg.rendering/device-2/enddocument/)() | ينتهي عرض المستند. |
-| abstract [EndElement](../../aspose.svg.rendering/device-2/endelement/)(Element) | ينتهي عرض العقدة . |
-| virtual [EndPage](../../aspose.svg.rendering/device-2/endpage/)() | ينتهي عرض الصفحة الحالية. |
-| abstract [Fill](../../aspose.svg.rendering/device-2/fill/)(FillMode) | يملأ المنطقة بأكملها المحاطة بالمسار الحالي. إذا كان المسار يتكون من عدة مسارات فرعية غير متصلة ، فإنه يملأ الدواخل لجميع المسارات الفرعية ، تعتبر معًا. تنهي هذه الطريقة المسار الحالي. |
-| abstract [FillText](../../aspose.svg.rendering/device-2/filltext/)(string, PointF) | يملأ السلسلة النصية المحددة في المكان المحدد. |
-| virtual [Flush](../../aspose.svg.rendering/device-2/flush/)() | مسح جميع البيانات لإخراج التدفق. |
-| abstract [LineTo](../../aspose.svg.rendering/device-2/lineto/)(PointF) | لإلحاق مقطع خط مستقيم من النقطة الحالية بالنقطة (نقطة). النقطة الحالية الجديدة هي pt. |
-| abstract [MoveTo](../../aspose.svg.rendering/device-2/moveto/)(PointF) | يبدأ مسارًا فرعيًا جديدًا عن طريق تحريك النقطة الحالية إلى إحداثيات المعلمة pt ، مع حذف أي مقطع خط متصل. إذا كانت طريقة إنشاء المسار السابقة في المسار الحالي هي أيضًا "MoveTo" ، فإن "MoveTo" الجديد يتجاوزها ؛ لا توجد آثار لعملية "MoveTo" السابقة في المسار. |
-| virtual [RestoreGraphicContext](../../aspose.svg.rendering/device-2/restoregraphiccontext/)() | يعيد سياق الرسومات بالكامل إلى قيمته السابقة عن طريق إخراجه من المكدس. |
-| virtual [SaveGraphicContext](../../aspose.svg.rendering/device-2/savegraphiccontext/)() | يدفع نسخة من سياق الرسوم بأكمله إلى المكدس. |
-| abstract [Stroke](../../aspose.svg.rendering/device-2/stroke/)() | رسم خط بطول المسار الحالي. يتبع الخط المحدد كل مقطع مستقيم أو منحني في المسار ، متمركزًا على المقطع مع جوانب موازية له. يتم التعامل مع كل من المسارات الفرعية للمسار بشكل منفصل. تنهي هذه الطريقة المسار الحالي. |
-| abstract [StrokeAndFill](../../aspose.svg.rendering/device-2/strokeandfill/)(FillMode) | ضربات وملء المسار الحالي. تنهي هذه الطريقة المسار الحالي. |
-| abstract [StrokeText](../../aspose.svg.rendering/device-2/stroketext/)(string, PointF) | ضربات السلسلة النصية المحددة في الموقع المحدد. |
+| virtual [AddRect](../../aspose.svg.rendering/device-2/addrect/)(*RectangleF*) | يضيف مستطيلًا إلى المسار الحالي كمسار فرعي كامل. |
+| virtual [BeginDocument](../../aspose.svg.rendering/device-2/begindocument/)(*[Document](../../aspose.svg.dom/document/)*) | يبدأ تصيير المستند. |
+| virtual [BeginElement](../../aspose.svg.rendering/device-2/beginelement/)(*[Element](../../aspose.svg.dom/element/), RectangleF*) | يبدأ رسم العقدة. |
+| virtual [BeginPage](../../aspose.svg.rendering/device-2/beginpage/)(*SizeF*) | يبدأ تصيير الصفحة الجديدة. |
+| virtual [Clip](../../aspose.svg.rendering/device-2/clip/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) | يعدّل مسار القص الحالي عن طريق تقاطعه مع المسار الحالي، باستخدام FillRule لتحديد المنطقة التي يجب ملؤها. تنهي هذه الطريقة المسار الحالي. |
+| virtual [ClosePath](../../aspose.svg.rendering/device-2/closepath/)() | يغلق المسار الفرعي الحالي بإضافة مقطع خط مستقيم من النقطة الحالية إلى نقطة البداية للمسار الفرعي. إذا كان المسار الفرعي الحالي مغلقًا بالفعل، فإن "ClosePath" لا يفعل شيئًا. هذا المشغل ينهي المسار الفرعي الحالي. إضافة مقطع آخر إلى المسار الحالي يبدأ مسارًا فرعيًا جديدًا، حتى إذا بدأ المقطع الجديد عند نقطة النهاية التي وصل إليها أسلوب "ClosePath". |
+| virtual [CubicBezierTo](../../aspose.svg.rendering/device-2/cubicbezierto/)(*PointF, PointF, PointF*) | يضيف منحنى بيزيه مكعب إلى المسار الحالي. يمتد المنحنى من النقطة الحالية إلى النقطة pt2، باستخدام pt1 و pt2 كنقاط تحكم بيزيه. النقطة الحالية الجديدة هي pt3. |
+| [Dispose](../../aspose.svg.rendering/device-2/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| virtual [DrawImage](../../aspose.svg.rendering/device-2/drawimage/)(*byte[], [WebImageFormat](../../aspose.svg.drawing/webimageformat/), RectangleF*) | يرسم الصورة المحددة. |
+| virtual [EndDocument](../../aspose.svg.rendering/device-2/enddocument/)() | ينهي تصيير المستند. |
+| virtual [EndElement](../../aspose.svg.rendering/device-2/endelement/)(*[Element](../../aspose.svg.dom/element/)*) | ينهي رسم العقدة. |
+| virtual [EndPage](../../aspose.svg.rendering/device-2/endpage/)() | ينهي تصيير الصفحة الحالية. |
+| virtual [Fill](../../aspose.svg.rendering/device-2/fill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) | يملأ المنطقة الكاملة المحصورة بالمسار الحالي. إذا كان المسار يتكون من عدة مسارات فرعية غير متصلة، فإنه يملأ داخل جميع المسارات الفرعية معًا. تنهي هذه الطريقة المسار الحالي. |
+| virtual [FillText](../../aspose.svg.rendering/device-2/filltext/)(*string, PointF*) | يملأ سلسلة النص المحددة في الموقع المحدد. |
+| virtual [Flush](../../aspose.svg.rendering/device-2/flush/)() | يفرغ جميع البيانات إلى تدفق الإخراج. |
+| virtual [LineTo](../../aspose.svg.rendering/device-2/lineto/)(*PointF*) | يضيف مقطع خط مستقيم من النقطة الحالية إلى النقطة (pt). النقطة الحالية الجديدة هي pt. |
+| virtual [MoveTo](../../aspose.svg.rendering/device-2/moveto/)(*PointF*) | يبدأ مسارًا فرعيًا جديدًا بنقل النقطة الحالية إلى إحداثيات المعامل pt، متجنبًا أي مقطع خط يربط بينهما. إذا كانت طريقة إنشاء المسار السابقة في المسار الحالي هي أيضًا "MoveTo"، فإن "MoveTo" الجديد يتجاوزها؛ ولا يبقى أي أثر لعملية "MoveTo" السابقة في المسار. |
+| virtual [RestoreGraphicContext](../../aspose.svg.rendering/device-2/restoregraphiccontext/)() | يعيد سياق الرسومات بالكامل إلى قيمته السابقة عن طريق إزالته من المكدس. |
+| virtual [SaveGraphicContext](../../aspose.svg.rendering/device-2/savegraphiccontext/)() | يدفع نسخة من سياق الرسومات بالكامل إلى المكدس. |
+| virtual [Stroke](../../aspose.svg.rendering/device-2/stroke/)() | يرسم خطًا على طول المسار الحالي. يتبع الخط المرسوم كل مقطع مستقيم أو منحني في المسار، مركّزًا على المقطع مع جوانب موازية له. يتم التعامل مع كل مسار فرعي للمسار بشكل منفصل. تنهي هذه الطريقة المسار الحالي. |
+| virtual [StrokeAndFill](../../aspose.svg.rendering/device-2/strokeandfill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) | يرسم ويملأ المسار الحالي. تنهي هذه الطريقة المسار الحالي. |
+| virtual [StrokeText](../../aspose.svg.rendering/device-2/stroketext/)(*string, PointF*) | يرسم سلسلة النص المحددة في الموقع المحدد. |
 
-## أعضاء آخرون
+## الأعضاء الأخرى
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](device-2.deviceconfiguration-2/) | يمثل كائن التكوين للأجهزة. |
-| enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](device-2.pagewritingstrategy-2/) | يحدد أنواع الاستراتيجيات لكتابة الصفحات في تدفق الإخراج \ تدفقات. |
+| class [DeviceConfiguration<TGraphicContext,TRenderingOptions>](../../aspose.svg.rendering/device-2.deviceconfiguration-2) | تمثل كائن تكوين للأجهزة. |
+| enum [PageWritingStrategy<TGraphicContext,TRenderingOptions>](../../aspose.svg.rendering/device-2.pagewritingstrategy-2) | يحدد أنواع الاستراتيجيات لكتابة الصفحات إلى تدفق\تدفقات الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device](../device/)
 * interface [IDevice](../idevice/)
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

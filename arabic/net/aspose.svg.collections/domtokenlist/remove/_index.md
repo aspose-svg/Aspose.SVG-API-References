@@ -1,27 +1,25 @@
 ---
-title: DOMTokenList.Remove
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTokenList طريقة. يزيل الرمز الرموز المحددة من القائمة.
+title: "DOMTokenList.Remove"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DOMTokenList Remove. تزيل الرموز المحددة من القائمة."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.collections/domtokenlist/remove/
 ---
 ## DOMTokenList.Remove method
 
-يزيل الرمز (الرموز) المحددة من القائمة.
+يزيل الرمز (الرموز) المحدد من القائمة.
 
 ```csharp
 public void Remove(params string[] tokens)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tokens | String[] | يمثل الرمز (الرموز) التي تريد إزالتها من القائمة. |
+| الرموز | String[] | يمثل الرمز (الرموز) التي تريد إزالتها من القائمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../domtokenlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

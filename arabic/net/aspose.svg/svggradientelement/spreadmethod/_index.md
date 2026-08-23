@@ -1,28 +1,26 @@
 ---
-title: SVGGradientElement.SpreadMethod
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGradientElement ملكية. يتوافق مع السمة طريقة الانتشار على العنصر المحدد. أحد أنواع طرق الانتشار المحددة في هذه الواجهة.
+title: "SVGGradientElement.SpreadMethod"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGGradientElement SpreadMethod. تتطابق مع السمة spreadMethod في العنصر المعطى. واحدة من أنواع Spread Method Types المعرفة في هذه الواجهة"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svggradientelement/spreadmethod/
 ---
 ## SVGGradientElement.SpreadMethod property
 
-يتوافق مع السمة "طريقة الانتشار" على العنصر المحدد. أحد أنواع طرق الانتشار المحددة في هذه الواجهة.
+يتطابق مع السمة ‘spreadMethod’ في العنصر المحدد. أحد أنواع طريقة الانتشار المعرفة في هذه الواجهة.
 
 ```csharp
 public SVGAnimatedEnumeration SpreadMethod { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "طريقة الانتشار" للعنصر المحدد.
+السمة ‘spreadMethod’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

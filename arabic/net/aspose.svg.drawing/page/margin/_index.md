@@ -1,28 +1,26 @@
 ---
-title: Page.Margin
-second_title: Aspose.SVG لمرجع .NET API
-description: Page ملكية. الحصول على هامش الصفحة أو تحديده.
+title: "Page.Margin"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Page Margin. تحصل أو تعين هامش الصفحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/page/margin/
 ---
 ## Page.Margin property
 
-الحصول على هامش الصفحة أو تحديده.
+يحصل أو يضبط هامش الصفحة.
 
 ```csharp
 public Margin Margin { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الهامش .
+الهامش.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../page/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

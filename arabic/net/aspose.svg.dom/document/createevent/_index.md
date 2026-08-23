@@ -1,38 +1,36 @@
 ---
-title: Document.CreateEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. ينشئ ملفEvent من النوع الذي يدعمه التنفيذ .
+title: "Document.CreateEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document CreateEvent. تنشئ Event من نوع يدعمه التنفيذ"
 type: docs
 weight: 880
 url: /ar/net/aspose.svg.dom/document/createevent/
 ---
 ## Document.CreateEvent method
 
-ينشئ ملف[`Event`](../../../aspose.svg.dom.events/event/) من النوع الذي يدعمه التنفيذ .
+ينشئ [`Event`](../../../aspose.svg.dom.events/event/) من نوع يدعمه التنفيذ.
 
 ```csharp
 public Event CreateEvent(string eventType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| eventType | String | تحدد المعلمة eventType نوع[`Event`](../../../aspose.svg.dom.events/event/) الواجهة المراد إنشاؤها .  إذا كان ملف[`Event`](../../../aspose.svg.dom.events/event/) يتم دعم الواجهة المحددة من خلال التنفيذ ، وستقوم هذه الطريقة بإرجاع ملف جديد[`Event`](../../../aspose.svg.dom.events/event/) من نوع الواجهة المطلوبة[`Event`](../../../aspose.svg.dom.events/event/)يتم إرسالها عبر[`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/) الطريقة المناسبة[`InitEvent`](../../../aspose.svg.dom.events/event/initevent/) يجب استدعاء طريقة بعد الإنشاء لتهيئة ملف[`Event`](../../../aspose.svg.dom.events/event/) قيم s . |
+| eventType | String | معامل eventType يحدد نوع واجهة [`Event`](../../../aspose.svg.dom.events/event/) التي سيتم إنشاؤها. إذا كانت واجهة [`Event`](../../../aspose.svg.dom.events/event/) المحددة مدعومة من قبل التنفيذ، فإن هذه الطريقة ستعيد [`Event`](../../../aspose.svg.dom.events/event/) جديدًا من نوع الواجهة المطلوب. إذا كان من المقرر إرسال [`Event`](../../../aspose.svg.dom.events/event/) عبر طريقة [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/) يجب استدعاء طريقة [`InitEvent`](../../../aspose.svg.dom.events/event/initevent/) المناسبة بعد الإنشاء لتهيئة قيم [`Event`](../../../aspose.svg.dom.events/event/). |
 
 ### قيمة الإرجاع
 
-الملف الذي تم إنشاؤه حديثًا[`Event`](../../../aspose.svg.dom.events/event/)
+الـ[`Event`](../../../aspose.svg.dom.events/event/) الذي تم إنشاؤه حديثًا
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: يُرفع إذا كان التنفيذ لا يدعم نوع[`Event`](../../../aspose.svg.dom.events/event/) مطلوب واجهة |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: يُرفع إذا لم يدعم التنفيذ نوع واجهة [`Event`](../../../aspose.svg.dom.events/event/) المطلوبة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

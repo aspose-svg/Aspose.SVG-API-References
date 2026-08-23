@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.Message
-second_title: Aspose.SVG لمرجع .NET API
-description: ErrorEvent ملكية. يجب أن ترجع سمة الرسالة القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن  يجب تهيئة هذه السمة إلى سلسلة فارغة. يمثل رسالة الخطأ.
+title: "ErrorEvent.Message"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ErrorEvent Message. يجب أن تُعيد سمة الرسالة القيمة التي تم تهيئتها بها. عند إنشاء الكائن يجب تهيئة هذه السمة إلى سلسلة فارغة. تمثل رسالة الخطأ"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.events/errorevent/message/
 ---
 ## ErrorEvent.Message property
 
-يجب أن ترجع سمة الرسالة القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى سلسلة فارغة. يمثل رسالة الخطأ.
+يجب أن تُعيد الخاصية message القيمة التي تم تهيئتها بها. عند إنشاء الكائن، يجب تهيئة هذه الخاصية إلى سلسلة فارغة. تمثل رسالة الخطأ.
 
 ```csharp
 public string Message { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الرسالة .
+الرسالة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ErrorEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../errorevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

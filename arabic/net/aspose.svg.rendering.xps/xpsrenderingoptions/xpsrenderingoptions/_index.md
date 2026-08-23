@@ -1,23 +1,21 @@
 ---
-title: XpsRenderingOptions.XpsRenderingOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: XpsRenderingOptions البناء. Default_Constructor
+title: "XpsRenderingOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ XpsRenderingOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.xps/xpsrenderingoptions/xpsrenderingoptions/
 ---
 ## XpsRenderingOptions constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public XpsRenderingOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XpsRenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../xpsrenderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Event.DefaultPrevented
-second_title: Aspose.SVG لمرجع .NET API
-description: Event ملكية. إرجاع صحيح إذا تم استدعاء PreventionDefault  بينما تكون قيمة السمة القابلة للإلغاء صحيحة  والخطأ في الحالات الأخرى.
+title: "Event.DefaultPrevented"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Event DefaultPrevented. تُعيد true إذا تم استدعاء preventDefault بينما كانت قيمة الخاصية cancelable تساوي true، وتُعيد false خلاف ذلك."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.events/event/defaultprevented/
 ---
 ## Event.DefaultPrevented property
 
-إرجاع صحيح إذا تم استدعاء PreventionDefault () بينما تكون قيمة السمة القابلة للإلغاء صحيحة ، والخطأ في الحالات الأخرى.
+يعيد true إذا تم استدعاء preventDefault() بينما تكون قيمة الخاصية cancelable هي true، وإلا يعيد false.
 
 ```csharp
 public bool DefaultPrevented { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [تم منع التقصير] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [تم إلغاء الافتراضي]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../event/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

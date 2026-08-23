@@ -1,27 +1,25 @@
 ---
-title: InputEvent.IsComposing
-second_title: Aspose.SVG لمرجع .NET API
-description: InputEvent ملكية. يكون صحيحًا إذا حدث حدث الإدخال كجزء من جلسة تكوين  أي بعد حدث مقطوعة موسيقية وقبل حدث التكوين المقابل. يجب أن تكون القيمة غير المهيأة لهذه السمة خاطئة.
+title: "InputEvent.IsComposing"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية InputEvent IsComposing. true إذا حدث حدث الإدخال كجزء من جلسة تركيب أي بعد حدث compositionstart وقبل حدث compositionend المقابل. يجب أن تكون القيمة غير المهيأة لهذا السمة false."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.events/inputevent/iscomposing/
 ---
 ## InputEvent.IsComposing property
 
-يكون صحيحًا إذا حدث حدث الإدخال كجزء من جلسة تكوين ، أي بعد حدث مقطوعة موسيقية وقبل حدث التكوين المقابل. يجب أن تكون القيمة غير المهيأة لهذه السمة خاطئة.
+صحيح إذا حدث حدث الإدخال كجزء من جلسة تكوين، أي بعد حدث compositionstart وقبل حدث compositionend المقابل. يجب أن تكون القيمة غير المهيأة لهذا السمة خاطئة.
 
 ```csharp
 public bool IsComposing { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال مؤلفًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن في وضع التركيب؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InputEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../inputevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

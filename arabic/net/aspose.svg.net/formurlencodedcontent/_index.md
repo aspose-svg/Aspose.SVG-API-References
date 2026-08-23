@@ -1,44 +1,42 @@
 ---
-title: Class FormUrlEncodedContent
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.FormUrlEncodedContent فصل. حاوية لصفوف الاسم / القيمة المشفرة باستخدام application / xwwwformurlencoded type MIME type .
+title: "فئة FormUrlEncodedContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Net.FormUrlEncodedContent. حاوية لأزواج الاسم/القيمة المشفرة باستخدام نوع MIME application/x-www-form-urlencoded."
 type: docs
-weight: 2250
+weight: 4320
 url: /ar/net/aspose.svg.net/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent class
 
-حاوية لصفوف الاسم / القيمة المشفرة باستخدام application / x-www-form-urlencoded type MIME type .
+حاوية لأزواج الاسم/القيمة المشفرة باستخدام نوع MIME application/x-www-form-urlencoded.
 
 ```csharp
 public class FormUrlEncodedContent : ByteArrayContent
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FormUrlEncodedContent](formurlencodedcontent/)(IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;) | يقوم بتهيئة مثيل جديد لملف`FormUrlEncodedContent` فئة . |
+| [FormUrlEncodedContent](formurlencodedcontent/)(*IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;*) | يقوم بتهيئة نسخة جديدة من الفئة `FormUrlEncodedContent`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | الحصول على رؤوس محتوى HTTP . |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | يحصل على رؤوس محتوى HTTP. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | تسلسل محتوى HTTP وإرجاع دفق يمثل المحتوى. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | تسلسل محتوى HTTP وإرجاع سلسلة تمثل المحتوى. |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | سلسل محتوى HTTP وأرجع مصفوفة بايت تمثل المحتوى. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | سلسل محتوى HTTP وأرجع تدفقًا يمثل المحتوى. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | سلسل محتوى HTTP وأرجع سلسلة تمثل المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ByteArrayContent](../bytearraycontent/)
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

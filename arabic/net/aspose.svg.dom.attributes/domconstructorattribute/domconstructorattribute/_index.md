@@ -1,23 +1,21 @@
 ---
-title: DOMConstructorAttribute.DOMConstructorAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMConstructorAttribute البناء. Default_Constructor
+title: "DOMConstructorAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMConstructorAttribute المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.attributes/domconstructorattribute/domconstructorattribute/
 ---
 ## DOMConstructorAttribute constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public DOMConstructorAttribute()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMConstructorAttribute](../)
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../domconstructorattribute/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

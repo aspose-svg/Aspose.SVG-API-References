@@ -1,23 +1,21 @@
 ---
-title: INodeIterator.Detach
-second_title: Aspose.SVG لمرجع .NET API
-description: INodeIterator طريقة. يفصل NodeIterator عن المجموعة التي تكررت مرة أخرى  وإطلاق أي موارد حسابية ووضع مكرر في حالة INVALID. بعد استدعاء الفصل  المكالمات إلى nextNode أو العقدة السابقة will سترفع الاستثناء INVALID_STATE_ERR.
+title: "INodeIterator.Detach"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة INodeIterator Detach. تفصل NodeIterator عن المجموعة التي كان يتنقل فيها، مطلقةً أي موارد حسابية وتضع المُكرِّر في الحالة INVALID. بعد استدعاء detach، ستؤدي الاستدعاءات إلى nextNode أو previousNode إلى رفع الاستثناء INVALID_STATE_ERR"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.traversal/inodeiterator/detach/
 ---
 ## INodeIterator.Detach method
 
-يفصل NodeIterator عن المجموعة التي تكررت مرة أخرى ، وإطلاق أي موارد حسابية ووضع مكرر في حالة INVALID. بعد استدعاء الفصل ، المكالمات إلى nextNode أو العقدة السابقة will سترفع الاستثناء INVALID_STATE_ERR.
+يفصل الـ NodeIterator عن المجموعة التي كان يتنقل خلالها، مطلقًا أي موارد حسابية ومُضعِفًا المتتبع في الحالة INVALID. بعد استدعاء الفاصل، ستؤدي الاستدعاءات إلى nextNode أو previousNode إلى رفع الاستثناء INVALID_STATE_ERR.
 
 ```csharp
 public void Detach()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [INodeIterator](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

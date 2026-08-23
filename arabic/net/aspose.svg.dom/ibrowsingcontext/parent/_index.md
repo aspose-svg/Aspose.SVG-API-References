@@ -1,27 +1,25 @@
 ---
-title: IBrowsingContext.Parent
-second_title: Aspose.SVG لمرجع .NET API
-description: IBrowsingContext ملكية. يحصل على السياق الأصلي  إن وجد.
+title: "IBrowsingContext.Parent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IBrowsingContext Parent. يحصل على سياق الوالد إذا كان موجودًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/ibrowsingcontext/parent/
 ---
 ## IBrowsingContext.Parent property
 
-يحصل على السياق الأصلي ، إن وجد.
+يحصل على سياق الأصل، إذا كان موجودًا.
 
 ```csharp
 public IBrowsingContext Parent { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الأصل.
+الأب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IBrowsingContext](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

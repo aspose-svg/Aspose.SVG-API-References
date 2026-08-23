@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Width
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGRectElement ملكية. يتوافق مع السمة العرض على عنصر المستقيم المحدد .
+title: "SVGRectElement.Width"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Width في SVGRectElement. تتطابق مع السمة width في عنصر rect المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgrectelement/width/
 ---
 ## SVGRectElement.Width property
 
-يتوافق مع السمة "العرض" على عنصر "المستقيم" المحدد .
+يتطابق مع السمة ‘width’ في العنصر ‘rect’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "العرض" لعنصر "rect" المحدد .
+السمة ‘width’ لعنصر ‘rect’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgrectelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

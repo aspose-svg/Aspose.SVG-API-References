@@ -1,82 +1,55 @@
 ---
-title: ImageVectorizer.Vectorize
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageVectorizer طريقة. تحويل الصورة النقطية من الملف المحدد.
+title: "ImageVectorizer.Vectorize"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ImageVectorizer Vectorize. تقوم بتحويل صورة نقطية من الملف المحدد."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
-## Vectorize(string) {#vectorize_2}
+## Vectorize(*string*) {#vectorize_1}
 
-تحويل الصورة النقطية من الملف المحدد.
+يقوم بتحويل صورة نقطية إلى متجه من الملف المحدد.
 
 ```csharp
 public SVGDocument Vectorize(string imageFile)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | imageFile | String | المسار إلى ملف الصورة. |
 
 ### قيمة الإرجاع
 
-وثيقة SVG.
+مستند SVG.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Vectorize(Stream) {#vectorize_1}
+## Vectorize(*Stream*) {#vectorize}
 
-تحويل الصورة النقطية من التدفق المحدد.
+يقوم بتحويل صورة نقطية إلى متجه من الدفق المحدد.
 
 ```csharp
 public SVGDocument Vectorize(Stream imageStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| imageStream | Stream | الدفق بالصورة. |
+| imageStream | Stream | الدفق الذي يحتوي على الصورة. |
 
 ### قيمة الإرجاع
 
-وثيقة SVG.
+مستند SVG.
 
-### أنظر أيضا
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageVectorizer](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* المجسم [Aspose.SVG](../../../)
-
----
-
-## Vectorize(Bitmap) {#vectorize}
-
-تحويل الصورة النقطية .
-
-```csharp
-public SVGDocument Vectorize(Bitmap image)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| image | Bitmap | الصورة النقطية. |
-
-### قيمة الإرجاع
-
-وثيقة SVG.
-
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.NodeType
-second_title: Aspose.SVG لمرجع .NET API
-description: ProcessingInstruction ملكية. رمز يمثل نوع الكائن الأساسي.
+title: "ProcessingInstruction.NodeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية NodeType في ProcessingInstruction. رمز يمثل نوع الكائن الأساسي"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/processinginstruction/nodetype/
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.dom/processinginstruction/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع العقدة .
+نوع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProcessingInstruction](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../processinginstruction/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Node.COMMENT_NODE
-second_title: Aspose.SVG لمرجع .NET API
-description: Node مجال. عقدة تعليق
+title: "Node.COMMENT_NODE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل Node COMMENT_NODE. عقدة تعليق"
 type: docs
-weight: 340
+weight: 320
 url: /ar/net/aspose.svg.dom/node/comment_node/
 ---
 ## Node.COMMENT_NODE field
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom/node/comment_node/
 public const ushort COMMENT_NODE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

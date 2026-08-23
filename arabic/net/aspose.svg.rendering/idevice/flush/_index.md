@@ -1,23 +1,21 @@
 ---
-title: IDevice.Flush
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice طريقة. مسح جميع البيانات لإخراج التدفق.
+title: "IDevice.Flush"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDevice Flush. يفرغ جميع البيانات إلى تدفق الإخراج"
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.rendering/idevice/flush/
 ---
 ## IDevice.Flush method
 
-مسح جميع البيانات لإخراج التدفق.
+يفرغ جميع البيانات إلى تدفق الإخراج.
 
 ```csharp
 public void Flush()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

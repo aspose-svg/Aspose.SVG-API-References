@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnProgress
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnProgress .
+title: "IGlobalEventHandlers.OnProgress"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnProgress حدث. يحصل أو يضبط معالج الحدث لـ OnProgress حدث"
 type: docs
 weight: 350
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onprogress/
 ---
 ## IGlobalEventHandlers.OnProgress event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnProgress .
+الحصول أو تعيين معالج الحدث لـ OnProgress.
 
 ```csharp
 public event DOMEventHandler OnProgress;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

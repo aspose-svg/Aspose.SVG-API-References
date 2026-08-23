@@ -1,14 +1,14 @@
 ---
-title: SVGMarkerElement.SetOrientToAuto
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMarkerElement طريقة. يضبط قيمة السمة الاتجاه على تلقائي .
+title: "SVGMarkerElement.SetOrientToAuto"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGMarkerElement SetOrientToAuto. تضبط قيمة السمة orient إلى auto"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg/svgmarkerelement/setorienttoauto/
 ---
 ## SVGMarkerElement.SetOrientToAuto method
 
-يضبط قيمة السمة "الاتجاه" على "تلقائي" .
+يضبط قيمة السمة ‘orient’ إلى 'auto'.
 
 ```csharp
 public void SetOrientToAuto()
@@ -16,14 +16,12 @@ public void SetOrientToAuto()
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . تم طرحه عند محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMarkerElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgmarkerelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

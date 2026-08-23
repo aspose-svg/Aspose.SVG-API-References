@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcAbs.R1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegArcAbs ملكية. نصف قطر المحور x للقطع الناقص على سبيل المثال  r1 .
+title: "SVGPathSegArcAbs.R1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSegArcAbs R1. نصف قطر المحور السيني للإهليلج أي r1"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.paths/svgpathsegarcabs/r1/
 ---
 ## SVGPathSegArcAbs.R1 property
 
-نصف قطر المحور x للقطع الناقص (على سبيل المثال ، r1) .
+نصف قطر محور x للقطع الناقص (أي r1).
 
 ```csharp
 public float R1 { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نصف قطر المحور السيني
+نصف القطر على محور x
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegArcAbs](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

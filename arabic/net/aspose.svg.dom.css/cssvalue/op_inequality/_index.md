@@ -1,32 +1,30 @@
 ---
-title: CSSValue.op_Inequality
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValue طريقة. تنفذ عامل التشغيل  .
+title: "CSSValue.op_Inequality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSValue op_Inequality. تنفّذ العامل"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.dom.css/cssvalue/op_inequality/
 ---
 ## CSSValue Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفّذ العامل !=.
 
 ```csharp
 public static bool operator !=(CSSValue left, CSSValue right)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | CSSValue | العنصر الأيسر. |
-| right | CSSValue | العنصر الصحيح. |
+| اليسار | CSSValue | العنصر الأيسر. |
+| يمين | CSSValue | العنصر الأيمن. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

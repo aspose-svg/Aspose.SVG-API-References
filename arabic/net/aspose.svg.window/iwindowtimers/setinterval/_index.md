@@ -1,33 +1,31 @@
 ---
-title: IWindowTimers.SetInterval
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindowTimers طريقة. جدولة مهلة لتشغيل المعالج كل مللي ثانية مهلة. يتم تمرير أي وسيطات مباشرة إلى المعالج.
+title: "IWindowTimers.SetInterval"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IWindowTimers SetInterval. تُجدول مهلة لتشغيل handler كل timeout مللي ثانية. يتم تمرير أي وسائط مباشرة إلى handler"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.window/iwindowtimers/setinterval/
 ---
 ## IWindowTimers.SetInterval method
 
-جدولة مهلة لتشغيل المعالج كل مللي ثانية مهلة. يتم تمرير أي وسيطات مباشرة إلى المعالج.
+يُجدول مهلة لتشغيل المعالج كل timeout مللي ثانية. يتم تمرير أي وسائط مباشرة إلى المعالج.
 
 ```csharp
 public int SetInterval(object handler, int timeout, params object[] args)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| handler | Object | المعالج. |
+| handler | كائن | المعالج. |
 | timeout | Int32 | المهلة. |
-| args | Object[] | الحجج. |
+| الوسائط | Object[] | الوسائط. |
 
 ### قيمة الإرجاع
 
-المقبض
+المعرف
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IWindowTimers](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindowtimers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

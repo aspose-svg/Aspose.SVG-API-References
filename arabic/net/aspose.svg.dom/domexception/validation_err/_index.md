@@ -1,23 +1,21 @@
 ---
-title: DOMException.VALIDATION_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. إذا كان استدعاء طريقة مثل insertBefore أو removeChild سيجعل العقدة غير صالحة فيما يتعلق بـ الصلاحية الجزئية  فسيتم رفع هذا الاستثناء ولن يتم تنفيذ العملية. يستخدم هذا الرمز في التحقق من المستوى 3 من DOM. الرجوع إلى هذه المواصفات للحصول على مزيد من المعلومات.
+title: "DOMException.VALIDATION_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMException VALIDATION_ERR حقل. إذا كان استدعاء طريقة مثل insertBefore أو removeChild سيجعل العقدة غير صالحة بالنسبة للصلاحية الجزئية، فسيتم رفع هذا الاستثناء ولن تُنفذ العملية. يُستخدم هذا الرمز في التحقق من صحة DOM المستوى 3. راجع هذه المواصفة لمزيد من المعلومات"
 type: docs
 weight: 300
 url: /ar/net/aspose.svg.dom/domexception/validation_err/
 ---
 ## DOMException.VALIDATION_ERR field
 
-إذا كان استدعاء طريقة مثل insertBefore أو removeChild سيجعل العقدة غير صالحة فيما يتعلق بـ "الصلاحية الجزئية" ، فسيتم رفع هذا الاستثناء ولن يتم تنفيذ العملية. يستخدم هذا الرمز في [التحقق من المستوى 3 من DOM]. الرجوع إلى هذه المواصفات للحصول على مزيد من المعلومات.
+إذا كان استدعاء طريقة مثل insertBefore أو removeChild سيجعل العقدة غير صالحة بالنسبة إلى الصلاحية الجزئية، فسيتم رفع هذا الاستثناء ولن تُنفذ العملية. يُستخدم هذا الرمز في [DOM Level 3 Validation]. راجع هذه المواصفة لمزيد من المعلومات.
 
 ```csharp
 public const ushort VALIDATION_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

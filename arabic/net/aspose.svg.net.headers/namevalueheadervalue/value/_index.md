@@ -1,27 +1,25 @@
 ---
-title: NameValueHeaderValue.Value
-second_title: Aspose.SVG لمرجع .NET API
-description: NameValueHeaderValue ملكية. الحصول على قيمة المعلمة أو تعيينها.
+title: "NameValueHeaderValue.Value"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Value في NameValueHeaderValue. يحصل أو يعيّن قيمة المعامل"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net.headers/namevalueheadervalue/value/
 ---
 ## NameValueHeaderValue.Value property
 
-الحصول على قيمة المعلمة أو تعيينها.
+يحصل أو يضبط قيمة المعامل.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NameValueHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

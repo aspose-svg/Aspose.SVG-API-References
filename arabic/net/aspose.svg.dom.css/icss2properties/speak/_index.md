@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Speak
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الكلام في CSS2.
+title: "ICSS2Properties.Speak"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties Speak. انظر تعريف خاصية speak في CSS2"
 type: docs
-weight: 1000
+weight: 1030
 url: /ar/net/aspose.svg.dom.css/icss2properties/speak/
 ---
 ## ICSS2Properties.Speak property
 
-راجع تعريف خاصية الكلام في CSS2.
+انظر إلى تعريف الخاصية speak في CSS2.
 
 ```csharp
 public string Speak { get; set; }
@@ -16,12 +16,10 @@ public string Speak { get; set; }
 
 ### قيمة الإرجاع
 
-تحدث الملكية
+خاصية speak
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

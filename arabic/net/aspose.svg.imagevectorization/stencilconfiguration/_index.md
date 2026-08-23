@@ -1,35 +1,33 @@
 ---
-title: Class StencilConfiguration
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.StencilConfiguration فصل. ملفStencilConfiguration تحدد الفئة تكوينًا لخيارات تأثير الاستنسل.
+title: "فئة StencilConfiguration"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.ImageVectorization.StencilConfiguration. فئة StencilConfiguration تعرف إعدادات خيارات تأثير القالب."
 type: docs
-weight: 2170
+weight: 4240
 url: /ar/net/aspose.svg.imagevectorization/stencilconfiguration/
 ---
 ## StencilConfiguration class
 
-ملف`StencilConfiguration` تحدد الفئة تكوينًا لخيارات تأثير الاستنسل.
+الفئة `StencilConfiguration` تعرف إعدادات خيارات تأثير القالب.
 
 ```csharp
 public class StencilConfiguration
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [StencilConfiguration](stencilconfiguration/)() | يقوم بتهيئة مثيل جديد لملف`StencilConfiguration` فئة . |
+| [StencilConfiguration](stencilconfiguration/)() | يُنشئ مثيلاً جديدًا من الفئة `StencilConfiguration`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | الحصول على اللون أو تعيينه لعرض خطوط الاستنسل لنوع MonoColor . |
-| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | يحصل أو يحدد ملف[`StencilType`](../stenciltype/) . |
+| [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | يحصل أو يعيّن اللون لتصيير خطوط القالب لنوع MonoColor. |
+| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | يحصل أو يعيّن الـ [`StencilType`](../stenciltype/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

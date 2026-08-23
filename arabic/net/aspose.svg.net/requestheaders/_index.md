@@ -1,28 +1,37 @@
 ---
-title: Class RequestHeaders
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.RequestHeaders فصل. يحتوي على رؤوس بروتوكول مرتبطة بالطلب .
+title: "فئة RequestHeaders"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Net.RequestHeaders. تحتوي على رؤوس البروتوكول المرتبطة بطلب."
 type: docs
-weight: 2410
+weight: 4480
 url: /ar/net/aspose.svg.net/requestheaders/
 ---
 ## RequestHeaders class
 
-يحتوي على رؤوس بروتوكول مرتبطة بالطلب .
+يحتوي على رؤوس البروتوكول المرتبطة بطلب.
 
 ```csharp
 public class RequestHeaders : WebHeaderCollection
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RequestHeaders](requestheaders/)() | Default_Constructor |
+| [RequestHeaders](requestheaders/)() | المنشئ الافتراضي. |
 
-### أنظر أيضا
+## الخصائص
 
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
+| الاسم | الوصف |
+| --- | --- |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 مؤشرات فهرسة) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
+### انظر أيضًا
 
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

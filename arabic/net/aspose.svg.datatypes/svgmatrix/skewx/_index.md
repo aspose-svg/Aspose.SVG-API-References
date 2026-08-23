@@ -1,20 +1,20 @@
 ---
-title: SVGMatrix.SkewX
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMatrix طريقة. الضرب اللاحق لتحويل skewX على المصفوفة الحالية وإرجاع المصفوفة الناتجة.
+title: "SVGMatrix.SkewX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGMatrix SkewX. تُجري post‑multiply لتحويل skewX على المصفوفة الحالية وتُعيد المصفوفة الناتجة"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.datatypes/svgmatrix/skewx/
 ---
 ## SVGMatrix.SkewX method
 
-الضرب اللاحق لتحويل skewX على المصفوفة الحالية وإرجاع المصفوفة الناتجة.
+يُضيف بعد الضرب تحويل انحراف X إلى المصفوفة الحالية ويُعيد المصفوفة الناتجة.
 
 ```csharp
 public SVGMatrix SkewX(float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | angle | Single | زاوية الانحراف. |
 
@@ -22,10 +22,8 @@ public SVGMatrix SkewX(float angle)
 
 المصفوفة الناتجة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgmatrix/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

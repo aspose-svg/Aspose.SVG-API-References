@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.CounterReset
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية إعادة تعيين عداد في CSS2.
+title: "ICSS2Properties.CounterReset"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties CounterReset. راجع تعريف خاصية counter-reset في CSS2"
 type: docs
 weight: 370
 url: /ar/net/aspose.svg.dom.css/icss2properties/counterreset/
 ---
 ## ICSS2Properties.CounterReset property
 
-راجع تعريف خاصية إعادة تعيين عداد في CSS2.
+انظر تعريف خاصية counter-reset في CSS2.
 
 ```csharp
 public string CounterReset { get; set; }
@@ -16,12 +16,10 @@ public string CounterReset { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية إعادة الضبط العكسي
+خاصية counter-reset
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

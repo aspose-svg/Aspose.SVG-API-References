@@ -1,14 +1,14 @@
 ---
-title: IBrush.Type
-second_title: Aspose.SVG لمرجع .NET API
-description: IBrush ملكية. احصل على نوع الفرشاة 
+title: "IBrush.Type"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IBrush Type. تحصّل نوع الفرشاة كـ BrushType"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/ibrush/type/
 ---
 ## IBrush.Type property
 
-احصل على نوع الفرشاة ؛
+تحصّل نوع الفرشاة كـ [`BrushType`](../../brushtype/).
 
 ```csharp
 public BrushType Type { get; }
@@ -18,11 +18,9 @@ public BrushType Type { get; }
 
 نوع الفرشاة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BrushType](../../brushtype/)
 * interface [IBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../ibrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

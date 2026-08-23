@@ -1,22 +1,22 @@
 ---
-title: License.License
-second_title: Aspose.SVG لمرجع .NET API
-description: License البناء. تهيئة مثيل جديد لهذه الفئة.
+title: "الترخيص"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ الترخيص. يهيئ مثيلاً جديداً لهذه الفئة."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/license/license/
 ---
 ## License constructor
 
-تهيئة مثيل جديد لهذه الفئة.
+ينشئ مثيلًا جديدًا لهذه الفئة.
 
 ```csharp
 public License()
 ```
 
-### أمثلة
+## أمثلة
 
-في هذا المثال ، سيتم إجراء محاولة للعثور على ملف ترخيص باسم MyLicense.lic في المجلد الذي يحتوي على  المكون ، في المجلد الذي يحتوي على التجميع الاستدعاء ، في مجلد تجميع الإدخال ثم في الموارد المضمنة لتجميع الاستدعاء.
+في هذا المثال، سيتم محاولة العثور على ملف ترخيص يُدعى MyLicense.lic في المجلد الذي يحتوي على المكوّن، وفي المجلد الذي يحتوي على التجميع المستدعي، وفي مجلد التجميع الرئيسي، ثم في الموارد المدمجة للتجميع المستدعي.
 
 ```csharp
 [C#]
@@ -25,17 +25,15 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-ملف جرة المكون:
+ملف jar المكوّن:
 
 ```csharp
 License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [License](../)
-* مساحة الاسم [Aspose.Svg](../../license/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,39 +1,37 @@
 ---
-title: Angle.op_Subtraction
-second_title: Aspose.SVG لمرجع .NET API
-description: Angle طريقة. تنفيذ عامل التشغيل .
+title: "Angle.op_Subtraction"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Angle op_Subtraction. تنفّذ العامل -"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.drawing/angle/op_subtraction/
 ---
 ## Angle Subtraction operator
 
-تنفيذ عامل التشغيل -.
+ينفّذ العامل -.
 
 ```csharp
 public static Angle operator -(Angle a, Angle b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Angle | المعلمة أ. |
-| b | Angle | المعلمة ب. |
+| a | Angle | المعامل a. |
+| b | Angle | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجج لاغية |
-| ArgumentException | الوسائط لها أنواع مختلفة or الوسائط لها دقة مختلفة أو |
+| ArgumentNullException | الوسائط فارغة |
+| ArgumentException | الوسائط لها أنواع مختلفة أو الوسائط لها حلول مختلفة أو |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Angle](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../angle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

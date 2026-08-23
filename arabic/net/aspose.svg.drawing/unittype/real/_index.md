@@ -1,23 +1,21 @@
 ---
-title: UnitType.Real
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس رقم حقيقي .
+title: "UnitType.Real"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Real. القياس عدد حقيقي"
 type: docs
 weight: 230
 url: /ar/net/aspose.svg.drawing/unittype/real/
 ---
 ## UnitType.Real field
 
-القياس رقم حقيقي .
+القياس عدد حقيقي.
 
 ```csharp
 public static readonly UnitType Real;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

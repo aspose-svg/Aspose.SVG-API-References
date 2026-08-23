@@ -1,38 +1,36 @@
 ---
-title: Class Page
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.Page فصل. يمثل كائن صفحة يُستخدم لصفحة إخراج التكوين. قيمة الثغرة لحجم الصفحة هي A4 210  297 مم
+title: "فئة الصفحة"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Drawing.Page class. يمثل كائن صفحة يُستخدم لتكوين صفحة الإخراج. قيمة الفجوة لحجم الصفحة هي A4210x297mm"
 type: docs
-weight: 1560
+weight: 3590
 url: /ar/net/aspose.svg.drawing/page/
 ---
 ## Page class
 
-يمثل كائن صفحة يُستخدم لصفحة إخراج التكوين. قيمة الثغرة لحجم الصفحة هي A4 (210 × 297 مم)
+يمثل كائن صفحة يُستخدم لتكوين صفحة الإخراج. القيمة الفارغة لحجم الصفحة هي A4(210x297مم)
 
 ```csharp
 public class Page
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Page](page/#constructor)() | يقوم بتهيئة مثيل جديد لملف`Page` فئة . |
-| [Page](page/#constructor_1)(Margin) | يقوم بتهيئة مثيل جديد لملف`Page` فئة . |
-| [Page](page/#constructor_2)(Size) | يقوم بتهيئة مثيل جديد لملف`Page` فئة . |
-| [Page](page/#constructor_3)(Size, Margin) | يقوم بتهيئة مثيل جديد لملف`Page` فئة . |
+| [Page](page/#constructor)() | يُهيئ مثيلاً جديداً من الفئة `Page`. |
+| [Page](page/#constructor_1)(*[Margin](../margin/)*) | يُهيئ مثيلاً جديداً من الفئة `Page`. |
+| [Page](page/#constructor_2)(*[Size](../size/)*) | يُهيئ مثيلاً جديداً من الفئة `Page`. |
+| [Page](page/#constructor_3)(*[Size](../size/), [Margin](../margin/)*) | يُهيئ مثيلاً جديداً من الفئة `Page`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Margin](../../aspose.svg.drawing/page/margin/) { get; set; } | الحصول على هامش الصفحة أو تحديده. |
-| [Size](../../aspose.svg.drawing/page/size/) { get; set; } | الحصول على حجم الصفحة أو تعيينه. |
+| [Margin](../../aspose.svg.drawing/page/margin/) { get; set; } | يحصل أو يضبط هامش الصفحة. |
+| [Size](../../aspose.svg.drawing/page/size/) { get; set; } | يحصل أو يضبط حجم الصفحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

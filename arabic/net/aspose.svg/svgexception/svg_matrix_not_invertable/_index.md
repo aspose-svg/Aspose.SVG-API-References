@@ -1,23 +1,21 @@
 ---
-title: SVGException.SVG_MATRIX_NOT_INVERTABLE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGException مجال. يتم رفعه عند إجراء محاولة لعكس مصفوفة غير قابلة للعكس .
+title: "SVGException.SVG_MATRIX_NOT_INVERTABLE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGException SVG_MATRIX_NOT_INVERTABLE. يُرفع عندما تُجرى محاولة لعكس مصفوفة غير قابلة للعكس."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgexception/svg_matrix_not_invertable/
 ---
 ## SVGException.SVG_MATRIX_NOT_INVERTABLE field
 
-يتم رفعه عند إجراء محاولة لعكس مصفوفة غير قابلة للعكس .
+يُرفع عندما يُجرى محاولة لعكس مصفوفة غير قابلة للعكس.
 
 ```csharp
 public const ushort SVG_MATRIX_NOT_INVERTABLE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGException](../)
-* مساحة الاسم [Aspose.Svg](../../svgexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

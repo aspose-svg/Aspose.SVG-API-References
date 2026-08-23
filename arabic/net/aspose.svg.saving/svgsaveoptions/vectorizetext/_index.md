@@ -1,23 +1,21 @@
 ---
-title: SVGSaveOptions.VectorizeText
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSaveOptions ملكية. الحصول على أو تحديد ما إذا كان سيتم استبدال عناصر النص بالمسارات.
+title: "SVGSaveOptions.VectorizeText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGSaveOptions VectorizeText. يحصل أو يضبط ما إذا كانت عناصر النص تُستبدل بالمسارات"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.saving/svgsaveoptions/vectorizetext/
 ---
 ## SVGSaveOptions.VectorizeText property
 
-الحصول على أو تحديد ما إذا كان سيتم استبدال عناصر النص بالمسارات.
+يحصل أو يضبط ما إذا كانت عناصر النص تُستبدل بالمسارات.
 
 ```csharp
 public bool VectorizeText { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGSaveOptions](../)
-* مساحة الاسم [Aspose.Svg.Saving](../../svgsaveoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

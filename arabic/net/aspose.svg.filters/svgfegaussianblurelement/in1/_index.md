@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.In1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEGaussianBlurElement ملكية. يتوافق مع السمة in على عنصر FeGaussianBlur المعطى .
+title: "SVGFEGaussianBlurElement.In1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEGaussianBlurElement In1. تتطابق مع الخاصية in في عنصر feGaussianBlur المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.filters/svgfegaussianblurelement/in1/
 ---
 ## SVGFEGaussianBlurElement.In1 property
 
-يتوافق مع السمة �in� على عنصر �FeGaussianBlur المعطى .
+يتطابق مع السمة ‘in’ في العنصر ‘feGaussianBlur’ المعطى.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة �في عنصر _FeGaussianBlur _ المحدد .
+الخاصية �in� لعنصر �feGaussianBlur� المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEGaussianBlurElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

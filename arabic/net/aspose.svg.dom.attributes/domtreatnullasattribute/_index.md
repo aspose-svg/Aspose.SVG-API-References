@@ -1,36 +1,35 @@
 ---
-title: Class DOMTreatNullAsAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Attributes.DOMTreatNullAsAttribute فصل. يشير إلى أنه سيتم التعامل مع قيمة خالية من قيمة العضو كقيمة محددة.
+title: "فئة DOMTreatNullAsAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Attributes.DOMTreatNullAsAttribute فئة. يشير إلى أن قيمة null للعضو ستُعامل كالقيمة المحددة"
 type: docs
-weight: 430
+weight: 2430
 url: /ar/net/aspose.svg.dom.attributes/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute class
 
-يشير إلى أنه سيتم التعامل مع قيمة خالية من قيمة العضو كقيمة محددة.
+يشير إلى أن قيمة null لعضو القيمة ستُعامل كقيمة محددة.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMTreatNullAsAttribute : Attribute
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DOMTreatNullAsAttribute](domtreatnullasattribute/)(Type, object) | يقوم بتهيئة مثيل جديد لملف`DOMTreatNullAsAttribute` فئة . |
+| [DOMTreatNullAsAttribute](domtreatnullasattribute/)(*Type, object*) | يقوم بإنشاء نسخة جديدة من الفئة `DOMTreatNullAsAttribute`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Type](../../aspose.svg.dom.attributes/domtreatnullasattribute/type/) { get; set; } | الحصول على نوع القيمة أو تعيينه. |
-| [Value](../../aspose.svg.dom.attributes/domtreatnullasattribute/value/) { get; set; } | الحصول على القيمة أو تعيينها. |
+| [Type](../../aspose.svg.dom.attributes/domtreatnullasattribute/type/) { get; set; } | يحصل أو يعيّن قيمة النوع. |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
+| [Value](../../aspose.svg.dom.attributes/domtreatnullasattribute/value/) { get; set; } | يحصل أو يعيّن القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

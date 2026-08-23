@@ -1,32 +1,30 @@
 ---
-title: IParentNode.QuerySelectorAll
-second_title: Aspose.SVG لمرجع .NET API
-description: IParentNode طريقة. إرجاع جميع توابع العنصر للعقدة التي تطابق المحددات.
+title: "IParentNode.QuerySelectorAll"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IParentNode QuerySelectorAll. تُعيد جميع العناصر الفرعية للعقدة التي تطابق المحددات"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom/iparentnode/queryselectorall/
 ---
 ## IParentNode.QuerySelectorAll method
 
-إرجاع جميع توابع العنصر للعقدة التي تطابق المحددات.
+تُعيد جميع العناصر التابعة للـ node والتي تتطابق مع المحددات.
 
 ```csharp
 public NodeList QuerySelectorAll(string selectors)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| selectors | String | المحددات. |
+| المحددات | String | المحددات. |
 
 ### قيمة الإرجاع
 
-تُرجع النتيجة الثابتة لتشغيل محددات سلسلة المحددات في النطاق المطابق لكائن السياق.
+يعيد النتيجة الثابتة لتشغيل مطابقة النطاق لسلسلة المحددات ضد كائن السياق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * interface [IParentNode](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iparentnode/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

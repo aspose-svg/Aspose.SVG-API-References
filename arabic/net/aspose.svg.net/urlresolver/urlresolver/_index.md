@@ -1,23 +1,21 @@
 ---
-title: UrlResolver.UrlResolver
-second_title: Aspose.SVG لمرجع .NET API
-description: UrlResolver البناء. Default_Constructor
+title: "UrlResolver"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "المُنشئ UrlResolver. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/urlresolver/urlresolver/
 ---
 ## UrlResolver constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public UrlResolver()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UrlResolver](../)
-* مساحة الاسم [Aspose.Svg.Net](../../urlresolver/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

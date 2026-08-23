@@ -1,14 +1,14 @@
 ---
-title: Content.ReadAsByteArray
-second_title: Aspose.SVG لمرجع .NET API
-description: Content طريقة. تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى.
+title: "Content.ReadAsByteArray"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ReadAsByteArray الخاصة بـ Content. تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.net/content/readasbytearray/
 ---
 ## Content.ReadAsByteArray method
 
-تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى.
+سلسل محتوى HTTP وأرجع مصفوفة بايت تمثل المحتوى.
 
 ```csharp
 public byte[] ReadAsByteArray()
@@ -16,12 +16,10 @@ public byte[] ReadAsByteArray()
 
 ### قيمة الإرجاع
 
-مصفوفة بايت متسلسلة تمثل المحتوى
+مصفوفة بايت مسلسلة تمثل المحتوى
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../)
-* مساحة الاسم [Aspose.Svg.Net](../../content/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

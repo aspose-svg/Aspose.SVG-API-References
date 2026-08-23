@@ -1,32 +1,30 @@
 ---
-title: Document.CreateAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. لإنشاء Attr بالاسم المحدد .
+title: "Document.CreateAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document CreateAttribute. تُنشئ هذه الطريقة عقدة صفة جديدة وتُعيدها. الكائن المُنشأ هو عقدة تُطبق فئة Attr. لا يفرض DOM نوع الصفات التي يمكن إضافتها إلى عنصر معين بهذه الطريقة"
 type: docs
 weight: 790
 url: /ar/net/aspose.svg.dom/document/createattribute/
 ---
 ## Document.CreateAttribute method
 
-لإنشاء Attr بالاسم المحدد .
+هذه الطريقة تُنشئ عقدة صفة جديدة، وتُعيدها. الكائن المُنشأ هو عقدة تُطبق فئة [`Attr`](../../attr/). لا يفرض DOM نوع الصفات التي يمكن إضافتها إلى عنصر معين بهذه الطريقة.
 
 ```csharp
 public Attr CreateAttribute(string localName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| localName | String | اسم السمة. |
+| localName | String | localName هو سلسلة تحتوي على اسم الصفة. |
 
 ### قيمة الإرجاع
 
-ملف[`Attr`](../../attr/) .
+عقدة [`Attr`](../../attr/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../attr/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

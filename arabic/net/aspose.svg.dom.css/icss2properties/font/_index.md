@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Font
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الخط في CSS2.
+title: "ICSS2Properties.Font"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties Font. انظر تعريف خاصية font في CSS2"
 type: docs
 weight: 470
 url: /ar/net/aspose.svg.dom.css/icss2properties/font/
 ---
 ## ICSS2Properties.Font property
 
-راجع تعريف خاصية الخط في CSS2.
+انظر تعريف خاصية font في CSS2.
 
 ```csharp
 public string Font { get; set; }
@@ -16,12 +16,10 @@ public string Font { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الخط
+خاصية font
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

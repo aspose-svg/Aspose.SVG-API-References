@@ -1,30 +1,28 @@
 ---
-title: Enum BrushType
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.BrushType تعداد. يحدد نوع الفرشاة .
+title: "تعداد BrushType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تعداد Aspose.Svg.Drawing.BrushType. يحدد نوع الفرشاة"
 type: docs
-weight: 1380
+weight: 3380
 url: /ar/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration
 
-يحدد نوع الفرشاة .
+يحدد نوع الفرشاة.
 
 ```csharp
 public enum BrushType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Solid | `0` | النوع هو ISolidBrush |
 | Texture | `1` | النوع هو ITextureBrush |
 | LinearGradient | `2` | النوع هو ILinearGradientBrush |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

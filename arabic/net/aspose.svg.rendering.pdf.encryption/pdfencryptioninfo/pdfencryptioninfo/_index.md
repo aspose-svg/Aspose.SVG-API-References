@@ -1,33 +1,31 @@
 ---
-title: PdfEncryptionInfo.PdfEncryptionInfo
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfEncryptionInfo البناء. يقوم بتهيئة مثيل جديد لملفPdfEncryptionInfo فئة .
+title: "PdfEncryptionInfo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ PdfEncryptionInfo. يهيئ مثالًا جديدًا من الفئة PdfEncryptionInfo"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo constructor
 
-يقوم بتهيئة مثيل جديد لملف[`PdfEncryptionInfo`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`PdfEncryptionInfo`](../).
 
 ```csharp
 public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissions permissions, 
     PdfEncryptionAlgorithm encryptionAlgorithm)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | userPassword | String | كلمة مرور المستخدم. |
 | ownerPassword | String | كلمة مرور المالك. |
 | permissions | PdfPermissions | الأذونات. |
 | encryptionAlgorithm | PdfEncryptionAlgorithm | خوارزمية التشفير. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

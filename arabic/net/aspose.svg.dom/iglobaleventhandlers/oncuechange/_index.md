@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnCueChange
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnCueChange.
+title: "IGlobalEventHandlers.OnCueChange"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers حدث OnCueChange. يحصل أو يضبط معالج الحدث لحدث OnCueChange"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/oncuechange/
 ---
 ## IGlobalEventHandlers.OnCueChange event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnCueChange.
+يحصل أو يضبط معالج الحدث لحدث OnCueChange.
 
 ```csharp
 public event DOMEventHandler OnCueChange;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

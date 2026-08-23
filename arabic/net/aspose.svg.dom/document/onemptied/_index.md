@@ -1,24 +1,22 @@
 ---
-title: Document.OnEmptied
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على أو تعيين معالج الأحداث لحدث OnEmptied.
+title: "Document.OnEmptied"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnEmptied. يحصل أو يضبط معالج الحدث لحدث OnEmptied"
 type: docs
 weight: 380
 url: /ar/net/aspose.svg.dom/document/onemptied/
 ---
 ## Document.OnEmptied event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnEmptied.
+يحصل أو يضبط معالج الحدث لحدث OnEmptied.
 
 ```csharp
 public event DOMEventHandler OnEmptied;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

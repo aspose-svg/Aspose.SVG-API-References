@@ -1,30 +1,28 @@
 ---
-title: Enum SVGZoomAndPan
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.SVGZoomAndPan تعداد. يحدد تعداد SVGZoomAndPan خاصية التكبير / التصغير والثوابت المرتبطة بها.
+title: "تعداد SVGZoomAndPan"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "التعداد Aspose.Svg.SVGZoomAndPan. يعرّف تعداد SVGZoomAndPan السمة zoomAndPan والثوابت المرتبطة بها"
 type: docs
-weight: 3600
+weight: 5670
 url: /ar/net/aspose.svg/svgzoomandpan/
 ---
 ## SVGZoomAndPan enumeration
 
-يحدد تعداد SVGZoomAndPan خاصية التكبير / التصغير والثوابت المرتبطة بها.
+تُعرّف تعداد SVGZoomAndPan السمة zoomAndPan والثوابت المرتبطة بها.
 
 ```csharp
 public enum SVGZoomAndPan : ushort
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SVG_ZOOMANDPAN_UNKNOWN | `0` | تم تعيين التعداد على قيمة ليست من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع. |
-| SVG_ZOOMANDPAN_DISABLE | `1` | يتوافق مع القيمة "تعطيل" . |
-| SVG_ZOOMANDPAN_MAGNIFY | `2` | يتوافق مع القيمة "تكبير" . |
+| SVG_ZOOMANDPAN_UNKNOWN | `0` | تم تعيين التعداد إلى قيمة ليست واحدة من الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع. |
+| SVG_ZOOMANDPAN_DISABLE | `1` | يتطابق مع القيمة 'disable'. |
+| SVG_ZOOMANDPAN_MAGNIFY | `2` | يتطابق مع القيمة 'magnify'. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

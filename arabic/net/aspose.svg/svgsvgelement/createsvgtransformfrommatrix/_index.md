@@ -1,20 +1,20 @@
 ---
-title: SVGSVGElement.CreateSVGTransformFromMatrix
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement طريقة. لتكوين كائن SVGTransform خارج أية شجرات مستندات. يتم تهيئة الكائن إلى تحويل المصفوفة المحدد على سبيل المثال  SVG_TRANSFORM_MATRIX. يتم نسخ القيم من مصفوفة المعلمة  ولا يتم اعتماد معلمة المصفوفة على أنها SVGTransform  matrix.
+title: "SVGSVGElement.CreateSVGTransformFromMatrix"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGSVGElement CreateSVGTransformFromMatrix. تُنشئ كائن SVGTransform خارج أي شجرة وثائق. يتم تهيئة الكائن إلى تحويل المصفوفة المعطى أي SVG_TRANSFORM_MATRIX. القيم من مصفوفة المعامل تُنسخ؛ معلمة المصفوفة لا تُعتمد كـ SVGTransformmatrix"
 type: docs
 weight: 190
 url: /ar/net/aspose.svg/svgsvgelement/createsvgtransformfrommatrix/
 ---
 ## SVGSVGElement.CreateSVGTransformFromMatrix method
 
-لتكوين كائن SVGTransform خارج أية شجرات مستندات. يتم تهيئة الكائن إلى تحويل المصفوفة المحدد (على سبيل المثال ، SVG_TRANSFORM_MATRIX). يتم نسخ القيم من مصفوفة المعلمة ، ولا يتم اعتماد معلمة المصفوفة على أنها SVGTransform :: matrix.
+ينشئ كائن SVGTransform خارج أي شجرة مستندات. يتم تهيئة الكائن إلى تحويل المصفوفة المعطى (أي SVG_TRANSFORM_MATRIX). تُنسخ القيم من مصفوفة المعامل، ولا يتم اعتماد معامل المصفوفة كـ SVGTransform::matrix.
 
 ```csharp
 public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | matrix | SVGMatrix | مصفوفة التحويل. |
 
@@ -22,12 +22,10 @@ public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
 
 كائن SVGTransform.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

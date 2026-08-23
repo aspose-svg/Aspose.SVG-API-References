@@ -1,24 +1,22 @@
 ---
-title: GraphicContext.FillBrush
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. تعيين كائن الفرشاة المستخدم لملء الأجزاء الداخلية من المسارات أو الحصول عليه.
+title: "GraphicContext.FillBrush"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext FillBrush. يضبط أو يحصل على كائن الفرشاة المستخدم لملء داخل المسارات"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.svg.rendering/graphiccontext/fillbrush/
 ---
 ## GraphicContext.FillBrush property
 
-تعيين كائن الفرشاة المستخدم لملء الأجزاء الداخلية من المسارات أو الحصول عليه.
+يضبط أو يحصل على كائن الفرشاة المستخدم لملء داخل المسارات.
 
 ```csharp
 public virtual IBrush FillBrush { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IBrush](../../../aspose.svg.drawing/ibrush/)
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

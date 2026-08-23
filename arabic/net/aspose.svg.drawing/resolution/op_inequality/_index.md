@@ -1,32 +1,30 @@
 ---
-title: Resolution.op_Inequality
-second_title: Aspose.SVG لمرجع .NET API
-description: Resolution طريقة. تنفذ عامل التشغيل  .
+title: "Resolution.op_Inequality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Resolution op_Inequality. تنفذ العامل"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.drawing/resolution/op_inequality/
 ---
 ## Resolution Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفّذ العامل !=.
 
 ```csharp
 public static bool operator !=(Resolution a, Resolution b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Resolution | المعلمة أ. |
-| b | Resolution | المعلمة ب. |
+| a | Resolution | المعامل a. |
+| b | Resolution | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Resolution](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../resolution/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

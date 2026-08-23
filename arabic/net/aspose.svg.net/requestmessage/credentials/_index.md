@@ -1,27 +1,25 @@
 ---
-title: RequestMessage.Credentials
-second_title: Aspose.SVG لمرجع .NET API
-description: RequestMessage ملكية. الحصول على أو تعيين معلومات المصادقة للطلب.
+title: "RequestMessage.Credentials"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RequestMessage Credentials. تحصل أو تعين معلومات المصادقة للطلب"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.net/requestmessage/credentials/
 ---
 ## RequestMessage.Credentials property
 
-الحصول على أو تعيين معلومات المصادقة للطلب.
+يحصل أو يضبط معلومات المصادقة للطلب.
 
 ```csharp
 public ICredentials Credentials { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات اعتماد System.Net.IC التي تحتوي على بيانات اعتماد المصادقة المرتبطة بالطلب. الافتراضي هو null .
+كائن System.Net.ICredentials يحتوي على بيانات الاعتماد المصادقة المرتبطة بالطلب. القيمة الافتراضية هي null.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RequestMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestmessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

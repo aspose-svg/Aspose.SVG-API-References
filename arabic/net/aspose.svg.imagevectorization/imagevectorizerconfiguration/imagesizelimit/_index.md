@@ -1,23 +1,21 @@
 ---
-title: ImageVectorizerConfiguration.ImageSizeLimit
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageVectorizerConfiguration ملكية. الحصول على أو تعيين أقصى بُعد للصورة يتم تحديده عن طريق مضاعفة عرض الصورة وارتفاعها. سيتم قياس حجم الصورة بناءً على هذه الخاصية. القيمة الافتراضية هي 1800000.
+title: "ImageVectorizerConfiguration.ImageSizeLimit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية حد حجم الصورة في ImageVectorizerConfiguration. تحصل أو تعين البُعد الأقصى للصورة المحدد بضرب عرض الصورة في ارتفاعها. سيتم تعديل حجم الصورة بناءً على هذه الخاصية. القيمة الافتراضية هي 1800000."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit/
 ---
 ## ImageVectorizerConfiguration.ImageSizeLimit property
 
-الحصول على أو تعيين أقصى بُعد للصورة يتم تحديده عن طريق مضاعفة عرض الصورة وارتفاعها. سيتم قياس حجم الصورة بناءً على هذه الخاصية. القيمة الافتراضية هي 1800000.
+يحصل أو يعيّن البُعد الأقصى للصورة المحدد بضرب عرض الصورة في ارتفاعها. سيتم تعديل حجم الصورة بناءً على هذه الخاصية. القيمة الافتراضية هي 1800000.
 
 ```csharp
 public int ImageSizeLimit { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageVectorizerConfiguration](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

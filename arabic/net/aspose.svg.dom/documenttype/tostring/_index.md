@@ -1,14 +1,14 @@
 ---
-title: DocumentType.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentType طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "DocumentType.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DocumentType ToString. تُرجع سلسلة تمثل هذه الحالة"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom/documenttype/tostring/
 ---
 ## DocumentType.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentType](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documenttype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

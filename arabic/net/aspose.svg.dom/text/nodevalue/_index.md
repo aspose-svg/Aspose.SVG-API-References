@@ -1,27 +1,25 @@
 ---
-title: Text.NodeValue
-second_title: Aspose.SVG لمرجع .NET API
-description: Text ملكية. قيمة هذه العقدة حسب نوعها.
+title: "Text.NodeValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Text NodeValue. قيمة هذه العقدة حسب نوعها."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/text/nodevalue/
 ---
 ## Text.NodeValue property
 
-قيمة هذه العقدة حسب نوعها.
+قيمة هذه العقدة، حسب نوعها.
 
 ```csharp
 public override string NodeValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة العقدة .
+قيمة العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Text](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../text/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

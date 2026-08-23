@@ -1,40 +1,38 @@
 ---
-title: Class RendererTDocument
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Renderer1TDocument فصل. يمثل فئة مجردة لجميع العارضين.
+title: "فئة RendererTSource"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Rendering.Renderer1TSource. الفئة الأساسية المجردة لجميع عارضات الرسوم"
 type: docs
-weight: 3000
+weight: 5070
 url: /ar/net/aspose.svg.rendering/renderer-1/
 ---
-## Renderer&lt;TDocument&gt; class
+## Renderer<TSource> class
 
-يمثل فئة مجردة لجميع العارضين.
+الفئة المجردة الأساسية لجميع المُعالجين.
 
 ```csharp
-public abstract class Renderer<TDocument> : Renderer
+public abstract class Renderer<TSource> : Renderer
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| TDocument | نوع الوثيقة. |
+| TSource | نوع المصدر. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_3)(IDevice, TDocument) | يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../idevice/) . |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_6)(IDevice, params TDocument[]) | يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../idevice/) . |
-| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_1)(IDevice, CancellationToken, params TDocument[]) | يحدد طريقة لتصيير متعدد!:TDocument ق في محدد[`IDevice`](../idevice/) ، باستخدام رمز إلغاء لطلب إلغاء العملية. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render)(IDevice, int, params TDocument[]) | يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../idevice/) . |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_4)(IDevice, TDocument, int) | يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../idevice/) . |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_5)(IDevice, TDocument, TimeSpan) | يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../idevice/) . |
-| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_2)(IDevice, TimeSpan, params TDocument[]) | يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../idevice/) . |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_3)(*[IDevice](../idevice/), TSource*) | يحدد طريقة لتصيير *TSource* إلى الجهاز المحدد [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_6)(*[IDevice](../idevice/), params TSource[]*) | يحدد طريقة لتصيير عدة *TSource*s إلى جهاز محدد [`IDevice`](../idevice/). |
+| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_1)(*[IDevice](../idevice/), CancellationToken, params TSource[]*) | يحدد طريقة لتصيير عدة *TSource*s إلى جهاز محدد [`IDevice`](../idevice/)، باستخدام رمز إلغاء لطلب إلغاء العملية. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render)(*[IDevice](../idevice/), int, params TSource[]*) | يحدد طريقة لتصيير عدة *TSource*s إلى جهاز محدد [`IDevice`](../idevice/). |
+| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_2)(*[IDevice](../idevice/), TimeSpan, params TSource[]*) | يحدد طريقة لتصيير عدة *TSource*s إلى جهاز محدد [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_4)(*[IDevice](../idevice/), TSource, int*) | يحدد طريقة لتصيير *TSource* إلى الجهاز المحدد [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_5)(*[IDevice](../idevice/), TSource, TimeSpan*) | يحدد طريقة لتصيير *TSource* إلى الجهاز المحدد [`IDevice`](../idevice/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Renderer](../renderer/)
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

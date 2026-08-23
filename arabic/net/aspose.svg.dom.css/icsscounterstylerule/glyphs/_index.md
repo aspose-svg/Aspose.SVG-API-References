@@ -1,23 +1,21 @@
 ---
-title: ICSSCounterStyleRule.Glyphs
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSCounterStyleRule ملكية. يحصل على الصور الرمزية .
+title: "ICSSCounterStyleRule.Glyphs"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Glyphs في ICSSCounterStyleRule. يحصل على الرموز"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/icsscounterstylerule/glyphs/
 ---
 ## ICSSCounterStyleRule.Glyphs property
 
-يحصل على الصور الرمزية .
+يحصل على الرموز.
 
 ```csharp
 public string Glyphs { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSCounterStyleRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegMovetoAbs.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegMovetoAbs ملكية. إحداثي X المطلق لنقطة نهاية مقطع المسار هذا.
+title: "SVGPathSegMovetoAbs.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSegMovetoAbs X. الإحداثي المطلق X لنقطة النهاية لهذا مقطع المسار"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.paths/svgpathsegmovetoabs/x/
 ---
 ## SVGPathSegMovetoAbs.X property
 
-إحداثي X المطلق لنقطة نهاية مقطع المسار هذا.
+الإحداثي X المطلق لنقطة النهاية لهذا الجزء من المسار.
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيق X المطلق
+الإحداثي المطلق X
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegMovetoAbs](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathsegmovetoabs/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: Document.QuerySelector
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. إرجاع العنصر الأول في المستند الذي يتطابق مع selector
+title: "Document.QuerySelector"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document QuerySelector. تُرجع أول Element في المستند الذي يطابق المحدد."
 type: docs
-weight: 1020
+weight: 1030
 url: /ar/net/aspose.svg.dom/document/queryselector/
 ---
 ## Document.QuerySelector method
 
-إرجاع العنصر الأول في المستند الذي يتطابق مع selector
+تُرجع أول Element في المستند الذي يطابق المحدد.
 
 ```csharp
 public Element QuerySelector(string selector)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | selector | String | المحدد. |
 
 ### قيمة الإرجاع
 
-العقدة المتطابقة.
+العقدة المطابقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

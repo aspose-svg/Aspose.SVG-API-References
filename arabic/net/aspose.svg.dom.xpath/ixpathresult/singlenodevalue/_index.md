@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.SingleNodeValue
-second_title: Aspose.SVG لمرجع .NET API
-description: IXPathResult ملكية. قيمة نتيجة هذه العقدة المفردة  والتي قد تكونباطل .
+title: "IXPathResult.SingleNodeValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IXPathResult SingleNodeValue. قيمة نتيجة العقدة المفردة هذه والتي قد تكون `null`"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.xpath/ixpathresult/singlenodevalue/
 ---
 ## IXPathResult.SingleNodeValue property
 
-قيمة نتيجة هذه العقدة المفردة ، والتي قد تكون`باطل` .
+قيمة نتيجة العقدة المفردة هذه، والتي قد تكون `null`.
 
 ```csharp
 public Node SingleNodeValue { get; }
@@ -16,15 +16,13 @@ public Node SingleNodeValue { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: رفع إذا لم تكن resultType `AnyUnorderedNode` اكتب أو`FirstOrderedNode` يكتب. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: يُرفع إذا لم يكن resultType من نوع `AnyUnorderedNode` أو `FirstOrderedNode`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

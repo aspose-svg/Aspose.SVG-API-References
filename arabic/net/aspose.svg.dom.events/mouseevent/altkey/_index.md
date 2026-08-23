@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.AltKey
-second_title: Aspose.SVG لمرجع .NET API
-description: MouseEvent ملكية. الرجوع إلى سمة altKey .
+title: "MouseEvent.AltKey"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MouseEvent AltKey. راجع سمة altKey"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.events/mouseevent/altkey/
 ---
 ## MouseEvent.AltKey property
 
-الرجوع إلى سمة altKey .
+ارجع إلى السمة altKey.
 
 ```csharp
 public bool AltKey { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [مفتاح بديل] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [مفتاح Alt]; وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MouseEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../mouseevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

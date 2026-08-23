@@ -1,32 +1,30 @@
 ---
-title: IParentNode.QuerySelector
-second_title: Aspose.SVG لمرجع .NET API
-description: IParentNode طريقة. إرجاع العنصر الأول التابع للعقدة التي تطابق المحددات.
+title: "IParentNode.QuerySelector"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IParentNode QuerySelector. تُعيد العنصر الأول الذي هو فرع للعقدة ويتطابق مع المحددات."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom/iparentnode/queryselector/
 ---
 ## IParentNode.QuerySelector method
 
-إرجاع العنصر الأول التابع للعقدة التي تطابق المحددات.
+تُعيد العنصر الأول الذي هو تابع للـ node ويتطابق مع المحددات.
 
 ```csharp
 public Element QuerySelector(string selectors)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| selectors | String | المحددات. |
+| المحددات | String | المحددات. |
 
 ### قيمة الإرجاع
 
-إرجاع العنصر المطابق الأول.
+تُرجع العنصر المطابق الأول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iparentnode/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

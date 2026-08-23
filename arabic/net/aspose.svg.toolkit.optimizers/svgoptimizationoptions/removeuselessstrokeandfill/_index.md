@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveUselessStrokeAndFill
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على من يحدد خيار إزالة سمات الحد والتعبئة غير المستخدمة. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveUselessStrokeAndFill"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RemoveUselessStrokeAndFill في SVGOptimizationOptions. يحصل على أو يضبط الخيار لإزالة سمات stroke و fill غير المستخدمة. القيمة الافتراضية هي true"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeuselessstrokeandfill/
 ---
 ## SVGOptimizationOptions.RemoveUselessStrokeAndFill property
 
-الحصول على من يحدد خيار إزالة سمات الحد والتعبئة غير المستخدمة. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة سمات الخط والملء غير المستخدمة. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveUselessStrokeAndFill { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

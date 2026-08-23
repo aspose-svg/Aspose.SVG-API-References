@@ -1,23 +1,21 @@
 ---
-title: MessageHandlerCollection.MessageHandlerCollection
-second_title: Aspose.SVG لمرجع .NET API
-description: MessageHandlerCollection البناء. Default_Constructor
+title: "MessageHandlerCollection"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ MessageHandlerCollection. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/messagehandlercollection/messagehandlercollection/
 ---
 ## MessageHandlerCollection constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public MessageHandlerCollection()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MessageHandlerCollection](../)
-* مساحة الاسم [Aspose.Svg.Net](../../messagehandlercollection/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

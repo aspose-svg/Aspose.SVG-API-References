@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnMouseMove
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnMouseMove.
+title: "IGlobalEventHandlers.OnMouseMove"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers حدث OnMouseMove. يحصل أو يضبط معالج الحدث لحدث OnMouseMove"
 type: docs
 weight: 270
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onmousemove/
 ---
 ## IGlobalEventHandlers.OnMouseMove event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnMouseMove.
+الحصول أو تعيين معالج الحدث لـ OnMouseMove.
 
 ```csharp
 public event DOMEventHandler OnMouseMove;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

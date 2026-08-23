@@ -1,27 +1,25 @@
 ---
-title: Url.Port
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. الحصول على تمثيل سلسلة لمنفذ URL المحدد أو تعيينه.
+title: "Url.Port"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Port. يحصل أو يضبط تمثيلًا نصيًا للمنفذ المحدد في URL"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg/url/port/
 ---
 ## Url.Port property
 
-الحصول على تمثيل سلسلة لمنفذ URL المحدد أو تعيينه.
+يحصل أو يضبط تمثيلًا نصيًا لمنفذ URL المحدد.
 
 ```csharp
 public string Port { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المنفذ .
+المنفذ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

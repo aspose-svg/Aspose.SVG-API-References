@@ -1,28 +1,26 @@
 ---
-title: IWindow.Location
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindow ملكية. يجب أن تقوم سمة الموقع لواجهة Window بإرجاع كائن الموقع لمستند كائن النافذة هذا.
+title: "IWindow.Location"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IWindow Location. يجب أن تُعيد سمة location في واجهة Window كائن Location الخاص بوثيقة ذلك الكائن Window."
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.svg.window/iwindow/location/
 ---
 ## IWindow.Location property
 
-يجب أن تقوم سمة الموقع لواجهة Window بإرجاع كائن الموقع لمستند كائن النافذة هذا.
+يجب أن تُعيد خاصية location في واجهة Window كائن Location الخاص بوثيقة كائن Window ذلك.
 
 ```csharp
 public Location Location { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الموقع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Location](../../location/)
 * interface [IWindow](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindow/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

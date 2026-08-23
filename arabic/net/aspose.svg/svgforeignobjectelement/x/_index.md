@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGForeignObjectElement ملكية. يتوافق مع السمة x في عنصر الكائن الأجنبي المحدد .
+title: "SVGForeignObjectElement.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGForeignObjectElement X. تتطابق مع السمة x في العنصر foreignObject المعطى"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgforeignobjectelement/x/
 ---
 ## SVGForeignObjectElement.X property
 
-يتوافق مع السمة "x" في عنصر "الكائن الأجنبي" المحدد .
+يتطابق مع السمة ‘x’ في عنصر ‘foreignObject’ المحدد.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "x" لعنصر "الكائن الأجنبي" المحدد .
+السمة ‘x’ للعنصر ‘foreignObject’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgforeignobjectelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

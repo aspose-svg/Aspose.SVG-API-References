@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.FarthestViewportElement
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGraphicsElement ملكية. أبعد عنصر svg للأصل. لاغية إذا كان العنصر الحالي هو العنصر الأبعد svg .
+title: "SVGGraphicsElement.FarthestViewportElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGGraphicsElement FarthestViewportElement. أبعد عنصر svg سلف. يكون Null إذا كان العنصر الحالي هو العنصر svg الخارجي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svggraphicselement/farthestviewportelement/
 ---
 ## SVGGraphicsElement.FarthestViewportElement property
 
-أبعد عنصر "svg" للأصل. لاغية إذا كان العنصر الحالي هو العنصر الأبعد svg .
+أبعد سلف لعنصر ‘svg’. Null إذا كان العنصر الحالي هو العنصر svg الخارجي.
 
 ```csharp
 public SVGElement FarthestViewportElement { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أبعد عنصر منفذ عرض .
+The farthest viewport element.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggraphicselement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: IWindowEventHandlers.OnMessage
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindowEventHandlers حدث. الحصول على معالج الأحداث أو تعيينه
+title: "IWindowEventHandlers.OnMessage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث IWindowEventHandlers OnMessage. يحصل أو يعيّن event handler"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.window/iwindoweventhandlers/onmessage/
 ---
 ## IWindowEventHandlers.OnMessage event
 
-الحصول على معالج الأحداث أو تعيينه
+يحصل أو يضبط معالج الحدث
 
 ```csharp
 public event DOMEventHandler OnMessage;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

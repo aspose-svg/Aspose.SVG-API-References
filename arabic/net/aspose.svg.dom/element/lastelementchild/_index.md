@@ -1,27 +1,25 @@
 ---
-title: Element.LastElementChild
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. إرجاع آخر عقدة عنصر فرعي لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عناصر فرعية.
+title: "Element.LastElementChild"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element LastElementChild. تعيد عقدة العنصر الطفل الأخير لهذا العنصر. null إذا لم يكن لهذا العنصر أي عناصر فرعية"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.dom/element/lastelementchild/
 ---
 ## Element.LastElementChild property
 
-إرجاع آخر عقدة عنصر فرعي لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عناصر فرعية.
+يعيد عقدة العنصر الطفل الأخير لهذا العنصر. null إذا لم يكن لهذا العنصر أي عناصر طفل.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Property_Value
+### Property Value
 
-آخر عنصر تابع .
+العنصر الطفل الأخير.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

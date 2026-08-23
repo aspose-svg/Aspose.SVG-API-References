@@ -1,27 +1,25 @@
 ---
-title: Text.IsElementContentWhitespace
-second_title: Aspose.SVG لمرجع .NET API
-description: Text ملكية. يعرض ما إذا كانت عقدة النص هذه تحتوي على مسافة بيضاء لمحتوى عنصر  وغالبًا ما يطلق عليها بشكل مسيء مسافة بيضاء يمكن تجاهلها .
+title: "Text.IsElementContentWhitespace"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Text IsElementContentWhitespace. تُعيد ما إذا كان عقدة النص هذه تحتوي على مسافات محتوى العنصر، والتي غالبًا ما تُسمى مسافات قابلة للتجاهل"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 
-يعرض ما إذا كانت عقدة النص هذه تحتوي على مسافة بيضاء لمحتوى عنصر ، وغالبًا ما يطلق عليها بشكل مسيء "مسافة بيضاء يمكن تجاهلها" .
+يعيد ما إذا كانت عقدة النص هذه تحتوي على مسافات بيضاء لمحتوى العنصر، والتي يُشار إليها غالبًا بشكل غير دقيق باسم "مسافات بيضاء قابلة للتجاهل".
 
 ```csharp
 public bool IsElementContentWhitespace { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال عبارة عن مسافة بيضاء لمحتوى عنصر ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا المثال يحتوي على مسافات محتوى العنصر؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Text](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../text/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,44 +1,42 @@
 ---
-title: Class ImageSaveOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Saving.ImageSaveOptions فصل. فئة بيانات الخيارات المحددة .
+title: "فئة ImageSaveOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Saving.ImageSaveOptions. فئة بيانات خيارات محددة"
 type: docs
-weight: 3620
+weight: 5690
 url: /ar/net/aspose.svg.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class
 
-فئة بيانات الخيارات المحددة .
+فئة بيانات الخيارات المحددة.
 
 ```csharp
 public class ImageSaveOptions : ImageRenderingOptions
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ImageSaveOptions` فصل؛Png سيتم استخدامه كتنسيق افتراضي للصورة. |
-| [ImageSaveOptions](imagesaveoptions/#constructor_1)(ImageFormat) | تنسيق الصورة[`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) على أساس التهيئة |
+| [ImageSaveOptions](imagesaveoptions/#constructor)() | ينشئ مثلاً جديداً من فئة `ImageSaveOptions`؛ سيتم استخدام Png كتنسيق الصورة الافتراضي. |
+| [ImageSaveOptions](imagesaveoptions/#constructor_1)(*[ImageFormat](../../aspose.svg.rendering.image/imageformat/)*) | تنسيق الصورة [`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) بناءً على التهيئة |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | يحصل أو يحددColor والتي تملأ خلفية كل صفحة. القيمة الافتراضية هيTransparent . |
-| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | تعيين تنسيق ملف الصورة ذي العلامات (TIFF) أو الحصول عليه[`Compression`](../../aspose.svg.rendering.image/compression/) . افتراضيا هذه الخاصية هيLZW . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | يحصل على أ[`CssOptions`](../../aspose.svg.rendering/cssoptions/) الكائن المستخدم لتكوين معالجة خصائص css. |
-| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | مجموعات أو يحصل[`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) . افتراضيا هذه الخاصية هيPng . |
-| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | لتعيين أو الحصول على دقة أفقية للمخرجات والصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | الحصول على كائن إعداد الصفحة يستخدم لمجموعة صفحة إخراج التكوين. |
-| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | الحصول على جودة العرض لهذه الرسومات أو تعيينها. |
-| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | يحصل على أ[`TextOptions`](../../aspose.svg.rendering.image/textoptions/) الكائن المستخدم لتكوين عرض النص. |
-| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | لتعيين أو الحصول على الدقة الرأسية للمخرجات والصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | يحصل أو يضبط اللون الذي سيملأ خلفية كل صفحة. القيمة الافتراضية هي شفافة. |
+| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | يضبط أو يحصل على تنسيق ملف الصورة الموسومة (TIFF) [`Compression`](../../aspose.svg.rendering.image/compression/). القيمة الافتراضية لهذه الخاصية هي LZW. |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | يحصل على كائن [`CssOptions`](../../aspose.svg.rendering/cssoptions/) يُستخدم لتكوين معالجة خصائص CSS. |
+| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | يضبط أو يحصل على [`ImageFormat`](../../aspose.svg.rendering.image/imageformat/). القيمة الافتراضية لهذه الخاصية هي Png. |
+| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | يضبط أو يحصل على الدقة الأفقية للصور الناتجة والداخلية (التي تُستخدم أثناء معالجة الفلاتر)، بوحدة البكسل لكل بوصة. القيمة الافتراضية لهذه الخاصية هي 300 نقطة في البوصة. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | يحصل على كائن إعداد الصفحة يُستخدم لتكوين مجموعة صفحات الإخراج. |
+| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | يحصل على كائن [`TextOptions`](../../aspose.svg.rendering.image/textoptions/) الذي يُستخدم لتكوين عرض النص. |
+| [UseAntialiasing](../../aspose.svg.rendering.image/imagerenderingoptions/useantialiasing/) { get; set; } | يحدد ما إذا كان سيتم استخدام مضاد التسنين. بشكل افتراضي، يكون مضاد التسنين مفعلاً. |
+| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | يضبط أو يحصل على الدقة العمودية للصور الناتجة والداخلية (التي تُستخدم أثناء معالجة الفلاتر)، بوحدة البكسل لكل بوصة. القيمة الافتراضية لهذه الخاصية هي 300 نقطة في البوصة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageRenderingOptions](../../aspose.svg.rendering.image/imagerenderingoptions/)
-* مساحة الاسم [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

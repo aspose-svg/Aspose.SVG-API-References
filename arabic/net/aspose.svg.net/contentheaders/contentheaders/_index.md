@@ -1,23 +1,21 @@
 ---
-title: ContentHeaders.ContentHeaders
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentHeaders البناء. يقوم بتهيئة مثيل جديد لملفContentHeaders فئة .
+title: "ContentHeaders"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ContentHeaders. يهيئ مثيلاً جديداً من الفئة ContentHeaders"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/contentheaders/contentheaders/
 ---
 ## ContentHeaders constructor
 
-يقوم بتهيئة مثيل جديد لملف[`ContentHeaders`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`ContentHeaders`](../).
 
 ```csharp
 public ContentHeaders()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentHeaders](../)
-* مساحة الاسم [Aspose.Svg.Net](../../contentheaders/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

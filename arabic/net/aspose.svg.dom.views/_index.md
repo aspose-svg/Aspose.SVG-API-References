@@ -1,18 +1,16 @@
 ---
-title: Aspose.Svg.Dom.Views
-second_title: Aspose.SVG لمرجع .NET API
-description: وجهات نظر Aspose.Svg.Dom تصف مساحة الاسم AbstractView و واجهات DocumentView مواصفات طرق عرض نموذج كائن المستند.
+title: "Aspose.Svg.Dom.Views"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "المجال Aspose.Svg.Dom.Views يصف واجهات AbstractView و DocumentView وفقًا لمواصفة Document Object Model Views."
 type: docs
-weight: 120
+weight: 140
 url: /ar/net/aspose.svg.dom.views/
 ---
-**وجهات نظر Aspose.Svg.Dom** تصف مساحة الاسم AbstractView و واجهات DocumentView مواصفات طرق عرض نموذج كائن المستند.
+**Aspose.Svg.Dom.Views** namespace describes AbstractView and DocumentView interfaces according Document Object Model Views specification.
 
-## واجهات
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IAbstractView](./iabstractview/) | واجهة أساسية يجب أن تشتق منها جميع طرق العرض. |
-| [IDocumentView](./idocumentview/) | يتم تنفيذ واجهة DocumentView بواسطة كائنات المستند في تطبيقات DOM التي تدعم طرق عرض DOM. يوفر سمة لاسترداد طريقة العرض الافتراضية للمستند. |
-
-
+| [IAbstractView](./iabstractview/) | واجهة أساسية يجب أن تستمد منها جميع العروض. |
+| [IDocumentView](./idocumentview/) | واجهة DocumentView يتم تنفيذها بواسطة كائنات Document في تطبيقات DOM التي تدعم عروض DOM. توفر سمة لاسترجاع العرض الافتراضي للمستند. |

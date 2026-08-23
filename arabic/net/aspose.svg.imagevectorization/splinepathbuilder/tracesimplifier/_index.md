@@ -1,24 +1,22 @@
 ---
-title: SplinePathBuilder.TraceSimplifier
-second_title: Aspose.SVG لمرجع .NET API
-description: SplinePathBuilder ملكية. الحصول على أو تعيين مبسط التتبع.
+title: "SplinePathBuilder.TraceSimplifier"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية مُبسط التتبع SplinePathBuilder. تحصل أو تعيين مُبسط الأثر."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/
 ---
 ## SplinePathBuilder.TraceSimplifier property
 
-الحصول على أو تعيين مبسط التتبع.
+يحصل أو يعيّن مبسط الأثر.
 
 ```csharp
 public IImageTraceSimplifier TraceSimplifier { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

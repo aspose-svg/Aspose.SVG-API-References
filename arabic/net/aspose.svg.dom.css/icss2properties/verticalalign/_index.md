@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.VerticalAlign
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية المحاذاة الرأسية في CSS2.
+title: "ICSS2Properties.VerticalAlign"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية VerticalAlign في ICSS2Properties. انظر تعريف خاصية vertical-align في CSS2"
 type: docs
-weight: 1140
+weight: 1170
 url: /ar/net/aspose.svg.dom.css/icss2properties/verticalalign/
 ---
 ## ICSS2Properties.VerticalAlign property
 
-راجع تعريف خاصية المحاذاة الرأسية في CSS2.
+انظر إلى تعريف الخاصية vertical-align في CSS2.
 
 ```csharp
 public string VerticalAlign { get; set; }
@@ -16,12 +16,10 @@ public string VerticalAlign { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية المحاذاة الرأسية
+خاصية vertical-align
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

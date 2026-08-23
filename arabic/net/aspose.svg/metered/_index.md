@@ -1,36 +1,37 @@
 ---
-title: Class Metered
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Metered فصل. يوفر طرقًا لتعيين المفتاح المقنن .
+title: "فئة Metered"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Metered. توفر طرقًا لتعيين المفتاح المقيس."
 type: docs
-weight: 2200
+weight: 4270
 url: /ar/net/aspose.svg/metered/
 ---
 ## Metered class
 
-يوفر طرقًا لتعيين المفتاح المقنن .
+يوفر طرقًا لتعيين المفتاح المقاس.
 
 ```csharp
 public class Metered
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Metered](metered/)() | تهيئة مثيل جديد لهذه الفئة. |
+| [Metered](metered/)() | ينشئ مثيلًا جديدًا لهذه الفئة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SetMeteredKey](../../aspose.svg/metered/setmeteredkey/)(string, string) | مجموعات المفاتيح العامة والخاصة التي تم قياسها . إذا قمت بشراء ترخيص مقنن ، عند بدء التطبيق ، يجب استدعاء واجهة برمجة التطبيقات هذه ، عادةً ، هذا يكفي. ومع ذلك ، إذا فشلت دائمًا في تحميل بيانات الاستهلاك وتجاوزت 24 ساعة ، فسيتم تعيين الترخيص على حالة التقييم ، لتجنب مثل هذه الحالة ، يجب عليك التحقق بانتظام من حالة الترخيص ، إذا كانت حالة التقييم ، فاتصل بواجهة برمجة التطبيقات هذه مرة أخرى. |
-| static [GetConsumptionCredit](../../aspose.svg/metered/getconsumptioncredit/)() | يحصل على ائتمان الاستهلاك |
+| [SetMeteredKey](../../aspose.svg/metered/setmeteredkey/)(*string, string*) | يضبط المفتاح العام والخاص المقيس. إذا قمت بشراء ترخيص مقيس، عند بدء التطبيق يجب استدعاء هذه الواجهة البرمجية، عادةً يكون ذلك كافيًا. ومع ذلك، إذا فشل دائمًا تحميل بيانات الاستهلاك وتجاوز 24 ساعة، سيتم تعيين الترخيص إلى حالة التقييم؛ لتجنب ذلك، يجب عليك فحص حالة الترخيص بانتظام، وإذا كانت في حالة التقييم، استدعِ هذه الواجهة البرمجية مرة أخرى. |
+| static [GetConsumptionCredit](../../aspose.svg/metered/getconsumptioncredit/)() | يحصل على رصيد الاستهلاك |
 | static [GetConsumptionQuantity](../../aspose.svg/metered/getconsumptionquantity/)() | يحصل على حجم ملف الاستهلاك |
+| static [IsMeteredLicensed](../../aspose.svg/metered/ismeteredlicensed/)() | تحقق مما إذا كان المتري مرخصًا |
 
-### أمثلة
+## أمثلة
 
-في هذا المثال ، ستُبذل محاولة لتعيين المفتاح العام والخاص الذي تم قياسه
+في هذا المثال، سيتم محاولة تعيين المفتاح العام والخاص للعداد
 
 ```csharp
 [C#]
@@ -45,16 +46,14 @@ Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-ملف جرة المكون:
+ملف jar المكوّن:
 
 ```csharp
 Metered matered = new Metered();
 matered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

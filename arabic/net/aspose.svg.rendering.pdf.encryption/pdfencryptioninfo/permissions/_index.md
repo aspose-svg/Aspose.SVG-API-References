@@ -1,28 +1,26 @@
 ---
-title: PdfEncryptionInfo.Permissions
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfEncryptionInfo ملكية. الحصول على الأذونات أو تعيينها.
+title: "PdfEncryptionInfo.Permissions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Permissions في PdfEncryptionInfo. تحصل أو تعين الأذونات"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
 ---
 ## PdfEncryptionInfo.Permissions property
 
-الحصول على الأذونات أو تعيينها.
+يحصل أو يعيّن الأذونات.
 
 ```csharp
 public PdfPermissions Permissions { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الأذونات .
+الأذونات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * class [PdfEncryptionInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: PdfRenderingOptions.DocumentInfo
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfRenderingOptions ملكية. يحتوي على معلومات حول مستند PDF الناتج.
+title: "PdfRenderingOptions.DocumentInfo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PdfRenderingOptions DocumentInfo. تحتوي على معلومات حول مستند PDF الناتج"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo/
@@ -14,11 +14,9 @@ url: /ar/net/aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo/
 public PdfDocumentInfo DocumentInfo { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../../pdfdocumentinfo/)
 * class [PdfRenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

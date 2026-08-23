@@ -1,27 +1,25 @@
 ---
-title: CharacterData.AppendData
-second_title: Aspose.SVG لمرجع .NET API
-description: CharacterData طريقة. قم بإلحاق السلسلة بنهاية بيانات الأحرف الخاصة بالعقدة.
+title: "CharacterData.AppendData"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CharacterData AppendData. أضف السلسلة إلى نهاية بيانات الأحرف للعقدة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom/characterdata/appenddata/
 ---
 ## CharacterData.AppendData method
 
-قم بإلحاق السلسلة بنهاية بيانات الأحرف الخاصة بالعقدة.
+أضف السلسلة إلى نهاية بيانات الأحرف للعقدة.
 
 ```csharp
 public virtual void AppendData(string data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | String | بيانات المحتوى. |
+| البيانات | String | بيانات المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CharacterData](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../characterdata/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

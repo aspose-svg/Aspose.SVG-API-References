@@ -1,23 +1,21 @@
 ---
-title: IStyleSheet.ParentStyleSheet
-second_title: Aspose.SVG لمرجع .NET API
-description: IStyleSheet ملكية. بالنسبة للغات ورقة الأنماط التي تدعم مفهوم تضمين ورقة الأنماط  تمثل هذه السمة ورقة أنماط التضمين  إن وجدت. إذا كانت ورقة الأنماط عبارة عن ورقة أنماط ذات مستوى أعلى  أو إذا كانت لغة ورقة الأنماط لا تدعم التضمين  فإن قيمة هذه السمة تكون خالية.
+title: "IStyleSheet.ParentStyleSheet"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ParentStyleSheet لـ IStyleSheet. بالنسبة للغات أوراق الأنماط التي تدعم مفهوم تضمين أوراق الأنماط، تمثل هذه الخاصية ورقة الأنماط الشاملة إذا وجدت. إذا كانت ورقة الأنماط ورقة عليا أو لا تدعم اللغة التضمين، تكون قيمة هذه الخاصية null"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.css/istylesheet/parentstylesheet/
 ---
 ## IStyleSheet.ParentStyleSheet property
 
-بالنسبة للغات ورقة الأنماط التي تدعم مفهوم تضمين ورقة الأنماط ، تمثل هذه السمة ورقة أنماط التضمين ، إن وجدت. إذا كانت ورقة الأنماط عبارة عن ورقة أنماط ذات مستوى أعلى ، أو إذا كانت لغة ورقة الأنماط لا تدعم التضمين ، فإن قيمة هذه السمة تكون خالية.
+بالنسبة للغات أوراق الأنماط التي تدعم مفهوم تضمين أوراق الأنماط، تمثل هذه السمة ورقة الأنماط المضمنة، إذا وجدت. إذا كانت ورقة الأنماط ورقة أنماط من المستوى الأعلى، أو إذا كانت لغة ورقة الأنماط لا تدعم التضمين، تكون قيمة هذه السمة فارغة (null).
 
 ```csharp
 public IStyleSheet ParentStyleSheet { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IStyleSheet](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../istylesheet/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

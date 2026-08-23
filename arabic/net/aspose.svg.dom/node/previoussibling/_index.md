@@ -1,23 +1,31 @@
 ---
-title: Node.PreviousSibling
-second_title: Aspose.SVG لمرجع .NET API
-description: Node ملكية. العقدة التي تسبق هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة  فإن هذا يعيد قيمة خالية.
+title: "Node.PreviousSibling"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Node PreviousSibling. إرجاع العقدة التي تسبق المحددة مباشرةً في قائمة ChildNodes الخاصة بوالدها أو null إذا كانت العقدة المحددة هي الأولى في تلك القائمة"
 type: docs
-weight: 160
+weight: 150
 url: /ar/net/aspose.svg.dom/node/previoussibling/
 ---
 ## Node.PreviousSibling property
 
-العقدة التي تسبق هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية.
+إرجاع العقدة التي تسبق المحددة مباشرةً في قائمة [`ChildNodes`](../childnodes/) الخاصة بوالدها، أو null إذا كانت العقدة المحددة هي الأولى في تلك القائمة.
 
 ```csharp
 public Node PreviousSibling { get; }
 ```
 
-### أنظر أيضا
+### Property Value
+
+كائن [`Node`](../) يمثل الأخ السابق للعقدة الحالية، أو null إذا لم يكن هناك أي منها.
+
+## ملاحظات
+
+المرجع:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-previoussibling).
+
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

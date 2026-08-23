@@ -1,14 +1,14 @@
 ---
-title: Class NodeList
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Collections.NodeList فصل. توفر NodeList تجريدًا لمجموعة مرتبة من العقد  دون تحديد أو تقييد كيفية تنفيذ هذه المجموعة.
+title: "فئة NodeList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Collections.NodeList. توفر NodeList تجريدًا لمجموعة مرتبة من العقد دون تحديد أو تقييد كيفية تنفيذ هذه المجموعة."
 type: docs
-weight: 40
+weight: 2030
 url: /ar/net/aspose.svg.collections/nodelist/
 ---
 ## NodeList class
 
-توفر NodeList تجريدًا لمجموعة مرتبة من العقد ، دون تحديد أو تقييد كيفية تنفيذ هذه المجموعة.
+توفر NodeList تجريدًا لمجموعة مرتبة من العقد، دون تعريف أو تقييد كيفية تنفيذ هذه المجموعة.
 
 ```csharp
 public abstract class NodeList : DOMObject, IEnumerable<Node>
@@ -16,23 +16,21 @@ public abstract class NodeList : DOMObject, IEnumerable<Node>
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Item](../../aspose.svg.collections/nodelist/item/) { get; } | تقوم الطريقة بإرجاع عنصر الفهرس في المجموعة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في القائمة ، فإن هذا يُرجع قيمة خالية. |
-| abstract [Length](../../aspose.svg.collections/nodelist/length/) { get; } | عدد العقد في القائمة . |
+| abstract [Item](../../aspose.svg.collections/nodelist/item/) { get; } | تُعيد الطريقة العنصر رقم الفهرس في المجموعة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في القائمة، فإن هذا يعيد null. |
+| abstract [Length](../../aspose.svg.collections/nodelist/length/) { get; } | عدد العقد في القائمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.svg.collections/nodelist/getenumerator/)() | إرجاع عداد يتكرر خلال المجموعة. |
-| override [GetPlatformType](../../aspose.svg.collections/nodelist/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| abstract [GetEnumerator](../../aspose.svg.collections/nodelist/getenumerator/)() | يرجع كائن enumerator يتنقل عبر المجموعة. |
+| override [GetPlatformType](../../aspose.svg.collections/nodelist/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
 * class [Node](../../aspose.svg.dom/node/)
-* مساحة الاسم [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarginLeft
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية marginleft في CSS2.
+title: "ICSS2Properties.MarginLeft"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties MarginLeft. انظر تعريف خاصية margin-left في CSS2"
 type: docs
-weight: 650
+weight: 680
 url: /ar/net/aspose.svg.dom.css/icss2properties/marginleft/
 ---
 ## ICSS2Properties.MarginLeft property
 
-راجع تعريف خاصية margin-left في CSS2.
+انظر تعريف خاصية margin-left في CSS2.
 
 ```csharp
 public string MarginLeft { get; set; }
@@ -16,12 +16,10 @@ public string MarginLeft { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية ترك الهامش
+خاصية margin-left
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

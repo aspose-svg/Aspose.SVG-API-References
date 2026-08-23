@@ -1,27 +1,25 @@
 ---
-title: Element.RemoveAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. يزيل سمة بالاسم .
+title: "Element.RemoveAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element RemoveAttribute. تُزيل سمةً بالاسم."
 type: docs
 weight: 370
 url: /ar/net/aspose.svg.dom/element/removeattribute/
 ---
 ## Element.RemoveAttribute method
 
-يزيل سمة بالاسم .
+يزيل سمة بالاسم.
 
 ```csharp
-public void RemoveAttribute(string name)
+public void RemoveAttribute(string qualifiedName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة. |
+| qualifiedName | String | اسم السمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

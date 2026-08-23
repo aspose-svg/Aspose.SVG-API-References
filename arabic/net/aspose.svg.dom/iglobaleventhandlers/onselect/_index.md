@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnSelect
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnSelect أو تعيينه.
+title: "IGlobalEventHandlers.OnSelect"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnSelect الحدث. يحصل أو يضبط معالج الحدث لـ OnSelect الحدث"
 type: docs
 weight: 420
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onselect/
 ---
 ## IGlobalEventHandlers.OnSelect event
 
-الحصول على معالج الحدث لحدث OnSelect أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnSelect.
 
 ```csharp
 public event DOMEventHandler OnSelect;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

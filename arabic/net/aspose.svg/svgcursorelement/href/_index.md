@@ -1,28 +1,26 @@
 ---
-title: SVGCursorElement.Href
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGCursorElement ملكية. يتوافق مع السمة xlink href في العنصر المحدد.
+title: "SVGCursorElement.Href"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGCursorElement Href. تتطابق مع السمة xlinkhref على العنصر المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgcursorelement/href/
 ---
 ## SVGCursorElement.Href property
 
-يتوافق مع السمة "xlink: href" في العنصر المحدد.
+يتطابق مع السمة ‘xlink:href’ على العنصر المعطى.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Property_Value
+### Property Value
 
-"xlink: href" للعنصر المحدد.
+‘xlink:href’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGCursorElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcursorelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

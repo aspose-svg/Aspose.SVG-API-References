@@ -1,23 +1,21 @@
 ---
-title: IDevice.EndDocument
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice طريقة. ينتهي عرض المستند.
+title: "IDevice.EndDocument"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDevice EndDocument. ينهي تصيير المستند"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.rendering/idevice/enddocument/
 ---
 ## IDevice.EndDocument method
 
-ينتهي عرض المستند.
+ينهي تصيير المستند.
 
 ```csharp
 public void EndDocument()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

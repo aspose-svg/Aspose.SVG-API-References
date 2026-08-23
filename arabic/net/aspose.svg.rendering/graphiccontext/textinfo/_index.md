@@ -1,28 +1,26 @@
 ---
-title: GraphicContext.TextInfo
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. يحصل على أTextInfo الكائن الذي يحتوي على معلومات حول النص المقدم.
+title: "GraphicContext.TextInfo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext TextInfo. يحصل على كائن TextInfo يحتوي على معلومات حول النص المعروض"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property
 
-يحصل على أ[`TextInfo`](../../textinfo/) الكائن الذي يحتوي على معلومات حول النص المقدم.
+يحصل على كائن [`TextInfo`](../../textinfo/) يحتوي على معلومات حول النص المعروض.
 
 ```csharp
 public virtual TextInfo TextInfo { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`TextInfo`](../../textinfo/) الكائن .
+الكائن [`TextInfo`](../../textinfo/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextInfo](../../textinfo/)
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGLinearGradientElement.Y1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLinearGradientElement ملكية. يتوافق مع السمة y1 على عنصر linearGradient المحدد .
+title: "SVGLinearGradientElement.Y1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Y1 لعنصر SVGLinearGradientElement. تتطابق مع السمة y1 على عنصر linearGradient المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svglineargradientelement/y1/
 ---
 ## SVGLinearGradientElement.Y1 property
 
-يتوافق مع السمة "y1" على عنصر "linearGradient" المحدد .
+يتطابق مع السمة ‘y1’ على العنصر ‘linearGradient’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Y1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "y1" لعنصر "linearGradient" المحدد .
+السمة ‘y1’ للعنصر ‘linearGradient’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svglineargradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: Element.SetAttributeNode
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. إضافة عقدة سمة جديدة. إذا كانت السمة بهذا الاسم nodeName موجودة بالفعل في العنصر  فسيتم استبدالها بالسمة الجديدة.
+title: "Element.SetAttributeNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element SetAttributeNode. تُضيف عقدة سمة جديدة. إذا كانت سمة بالاسم nodeName موجودة بالفعل في العنصر، يتم استبدالها بالجديدة."
 type: docs
 weight: 410
 url: /ar/net/aspose.svg.dom/element/setattributenode/
 ---
 ## Element.SetAttributeNode method
 
-إضافة عقدة سمة جديدة. إذا كانت السمة بهذا الاسم (nodeName) موجودة بالفعل في العنصر ، فسيتم استبدالها بالسمة الجديدة.
+يضيف عقدة سمة جديدة. إذا كانت سمة بهذا الاسم (nodeName) موجودة بالفعل في العنصر، يتم استبدالها بالجديدة.
 
 ```csharp
 public Attr SetAttributeNode(Attr newAttr)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newAttr | Attr | Attr الجديد. |
+| newAttr | Attr | السمة الجديدة. |
 
 ### قيمة الإرجاع
 
-إرجاع السمة
+تُعيد السمة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

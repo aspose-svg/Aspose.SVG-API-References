@@ -1,28 +1,26 @@
 ---
-title: SVGElement.OwnerSVGElement
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGElement ملكية. أقرب عنصر svg للأصل. لاغية إذا كان العنصر المحدد هو العنصر الأبعد svg .
+title: "SVGElement.OwnerSVGElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية OwnerSVGElement لعنصر SVGElement. أقرب عنصر svg أسلاف. فارغ إذا كان العنصر المحدد هو العنصر svg الخارجي"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
 
-أقرب عنصر "svg" للأصل. لاغية إذا كان العنصر المحدد هو العنصر الأبعد svg .
+أقرب عنصر أساسي ‘svg’. Null إذا كان العنصر المعطى هو عنصر svg الخارجي.
 
 ```csharp
 public SVGSVGElement OwnerSVGElement { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عنصر SVG للمالك .
+عنصر SVG المالك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

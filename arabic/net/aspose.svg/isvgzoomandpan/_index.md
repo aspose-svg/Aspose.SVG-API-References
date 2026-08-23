@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGZoomAndPan
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ISVGZoomAndPan واجهه المستخدم. تحدد واجهة SVGZoomAndPan خاصية التكبير / التصغير والثوابت المرتبطة بها.
+title: "واجهة ISVGZoomAndPan"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الواجهة Aspose.Svg.ISVGZoomAndPan. الواجهة SVGZoomAndPan تعرف السمة zoomAndPan والثوابت المرتبطة بها."
 type: docs
-weight: 2060
+weight: 4130
 url: /ar/net/aspose.svg/isvgzoomandpan/
 ---
 ## ISVGZoomAndPan interface
 
-تحدد واجهة SVGZoomAndPan خاصية التكبير / التصغير والثوابت المرتبطة بها.
+واجهة SVGZoomAndPan تعرف السمة zoomAndPan والثوابت المرتبطة بها.
 
 ```csharp
 public interface ISVGZoomAndPan
@@ -16,13 +16,11 @@ public interface ISVGZoomAndPan
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | يتوافق مع السمة "zoomAndPan" على العنصر المحدد. يجب أن تكون القيمة واحدة من ثوابت SVG_ZOOMANDPAN_ * المحددة في هذه الواجهة. |
+| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | يتطابق مع السمة ‘zoomAndPan’ على العنصر المعطى. يجب أن تكون القيمة واحدة من الثوابت SVG_ZOOMANDPAN_* المعرفة في هذه الواجهة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

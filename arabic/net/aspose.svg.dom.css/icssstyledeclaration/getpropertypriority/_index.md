@@ -1,31 +1,29 @@
 ---
-title: ICSSStyleDeclaration.GetPropertyPriority
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleDeclaration طريقة. تُستخدم لاسترداد أولوية خاصية CSS على سبيل المثال  المؤهل المهم إذا تم تعيين الخاصية صراحةً في كتلة الإعلان هذه.
+title: "ICSSStyleDeclaration.GetPropertyPriority"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ICSSStyleDeclaration GetPropertyPriority. تُستخدم لاسترجاع أولوية خاصية CSS، مثل المؤهل important إذا تم تعيين الخاصية صراحةً في كتلة الإعلان هذه"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.css/icssstyledeclaration/getpropertypriority/
 ---
 ## ICSSStyleDeclaration.GetPropertyPriority method
 
-تُستخدم لاسترداد أولوية خاصية CSS (على سبيل المثال ، المؤهل "المهم") إذا تم تعيين الخاصية صراحةً في كتلة الإعلان هذه.
+يُستخدم لاسترجاع أولوية خاصية CSS (مثل محدد "important") إذا تم تعيين الخاصية صراحةً في هذه كتلة التصريح.
 
 ```csharp
 public string GetPropertyPriority(string propertyName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| propertyName | String | اسم العقار. |
+| propertyName | String | اسم الخاصية. |
 
 ### قيمة الإرجاع
 
-إرجاع أولوية الملكية
+يرجع أولوية الخاصية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

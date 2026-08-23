@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.Dx
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEOffsetElement ملكية. يتوافق مع السمة dx على عنصر feOffset المحدد .
+title: "SVGFEOffsetElement.Dx"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEOffsetElement Dx. تتطابق مع السمة dx في عنصر feOffset المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.filters/svgfeoffsetelement/dx/
 ---
 ## SVGFEOffsetElement.Dx property
 
-يتوافق مع السمة "dx" على عنصر "feOffset" المحدد .
+يتطابق مع السمة ‘dx’ على العنصر ‘feOffset’ المحدد.
 
 ```csharp
 public SVGAnimatedNumber Dx { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "dx" لعنصر "feOffset" المحدد .
+السمة ‘dx’ في عنصر ‘feOffset’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEOffsetElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

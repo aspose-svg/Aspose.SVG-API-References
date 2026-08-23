@@ -1,44 +1,42 @@
 ---
-title: SVGPathSegList.SVGPathSegList
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegList البناء. يقوم بتهيئة مثيل جديد لملفSVGPathSegList فئة .
+title: "SVGPathSegList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ SVGPathSegList. يهيئ مثيلاً جديداً لفئة SVGPathSegList"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.paths/svgpathseglist/svgpathseglist/
 ---
 ## SVGPathSegList() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGPathSegList`](../) فئة .
+يهيئ مثيلاً جديداً لفئة [`SVGPathSegList`](../).
 
 ```csharp
 public SVGPathSegList()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegList](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseglist/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGPathSegList(IEnumerable&lt;SVGPathSeg&gt;) {#constructor_1}
+## SVGPathSegList(*IEnumerable&lt;SVGPathSeg&gt;*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGPathSegList`](../) فئة .
+يهيئ مثيلاً جديداً لفئة [`SVGPathSegList`](../).
 
 ```csharp
 public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | المعدود. |
+| قابل للتعداد | IEnumerable`1 | القابل للتعداد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../../svgpathseg/)
 * class [SVGPathSegList](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseglist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

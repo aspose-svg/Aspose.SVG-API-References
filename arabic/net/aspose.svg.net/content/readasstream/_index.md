@@ -1,14 +1,14 @@
 ---
-title: Content.ReadAsStream
-second_title: Aspose.SVG لمرجع .NET API
-description: Content طريقة. تسلسل محتوى HTTP وإرجاع دفق يمثل المحتوى.
+title: "Content.ReadAsStream"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ReadAsStream الخاصة بـ Content. تسلسل محتوى HTTP وإرجاع تدفق يمثل المحتوى"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.net/content/readasstream/
 ---
 ## Content.ReadAsStream method
 
-تسلسل محتوى HTTP وإرجاع دفق يمثل المحتوى.
+سلسل محتوى HTTP وأرجع تدفقًا يمثل المحتوى.
 
 ```csharp
 public Stream ReadAsStream()
@@ -16,12 +16,10 @@ public Stream ReadAsStream()
 
 ### قيمة الإرجاع
 
-دفق متسلسل يمثل المحتوى
+تدفق مسلسل يمثل المحتوى
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../)
-* مساحة الاسم [Aspose.Svg.Net](../../content/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

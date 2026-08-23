@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.CueAfter
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية cueafter في CSS2.
+title: "ICSS2Properties.CueAfter"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties CueAfter. انظر تعريف الخاصية cue-after في CSS2"
 type: docs
 weight: 390
 url: /ar/net/aspose.svg.dom.css/icss2properties/cueafter/
 ---
 ## ICSS2Properties.CueAfter property
 
-راجع تعريف خاصية cue-after في CSS2.
+انظر تعريف خاصية cue-after في CSS2.
 
 ```csharp
 public string CueAfter { get; set; }
@@ -16,12 +16,10 @@ public string CueAfter { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية جديلة بعد
+خاصية cue-after
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

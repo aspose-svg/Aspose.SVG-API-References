@@ -1,28 +1,26 @@
 ---
-title: CharacterData.DeleteData
-second_title: Aspose.SVG لمرجع .NET API
-description: CharacterData طريقة. قم بإزالة نطاق من وحدات 16 بت من العقدة.
+title: "CharacterData.DeleteData"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CharacterData DeleteData. إزالة نطاق من الوحدات ذات 16 بت من العقدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/characterdata/deletedata/
 ---
 ## CharacterData.DeleteData method
 
-قم بإزالة نطاق من وحدات 16 بت من العقدة.
+أزل نطاقًا من الوحدات ذات 16 بت من العقدة.
 
 ```csharp
 public virtual void DeleteData(int offset, int count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | offset | Int32 | الإزاحة. |
-| count | Int32 | العد. |
+| count | Int32 | العدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CharacterData](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../characterdata/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

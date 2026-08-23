@@ -1,23 +1,21 @@
 ---
-title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement مجال. يتوافق مع القيمة التفاف .
+title: "SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_EDGEMODE_WRAP لعنصر SVGFEConvolveMatrixElement. يتطابق مع القيمة wrap"
 type: docs
 weight: 210
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_wrap/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP field
 
-يتوافق مع القيمة "التفاف" .
+يتطابق مع القيمة 'wrap'.
 
 ```csharp
 public const ushort SVG_EDGEMODE_WRAP;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

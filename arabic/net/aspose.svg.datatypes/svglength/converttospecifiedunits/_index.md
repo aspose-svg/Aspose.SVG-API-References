@@ -1,34 +1,32 @@
 ---
-title: SVGLength.ConvertToSpecifiedUnits
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLength طريقة. احتفظ بنفس القيمة المخزنة الأساسية  لكن أعد تعيين معرف الوحدة المخزنة إلى نوع الوحدة المحدد. قد يتم تعديل سمات الكائن unitType و valueInSpecifiedUnits و valueAsString كنتيجة لهذه الطريقة. على سبيل المثال  إذا كانت القيمة الأصلية 0.5 سم وتم استدعاء الطريقة للتحويل إلى ملليمترات  فسيتم تغيير نوع الوحدة إلى SVG_LENGTHTYPE_MM  وسيتم تغيير valueInSpecifiedUnits إلى القيمة الرقمية 5 وسيتم تغيير القيمة AsString إلى 5mm.
+title: "SVGLength.ConvertToSpecifiedUnits"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGLength ConvertToSpecifiedUnits. تحتفظ بنفس القيمة المخزنة الأساسية ولكن تعيد تعيين معرف الوحدة المخزنة إلى unitType المعطى. قد يتم تعديل خصائص الكائن unitType و valueInSpecifiedUnits و valueAsString نتيجة لهذه الطريقة. على سبيل المثال إذا كانت القيمة الأصلية 0.5cm وتم استدعاء الطريقة للتحويل إلى مليمترات فإن unitType سيتغير إلى SVG_LENGTHTYPE_MM و valueInSpecifiedUnits سيتحول إلى القيمة الرقمية 5 و valueAsString سيتحول إلى 5mm."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.datatypes/svglength/converttospecifiedunits/
 ---
 ## SVGLength.ConvertToSpecifiedUnits method
 
-احتفظ بنفس القيمة المخزنة الأساسية ، لكن أعد تعيين معرف الوحدة المخزنة إلى نوع الوحدة المحدد. قد يتم تعديل سمات الكائن unitType و valueInSpecifiedUnits و valueAsString كنتيجة لهذه الطريقة. على سبيل المثال ، إذا كانت القيمة الأصلية "0.5 سم" وتم استدعاء الطريقة للتحويل إلى ملليمترات ، فسيتم تغيير نوع الوحدة إلى SVG_LENGTHTYPE_MM ، وسيتم تغيير valueInSpecifiedUnits إلى القيمة الرقمية 5 وسيتم تغيير القيمة AsString إلى "5mm".
+حافظ على نفس القيمة المخزنة الأساسية، ولكن أعد تعيين معرف الوحدة المخزنة إلى unitType المعطى. قد يتم تعديل سمات الكائن unitType و valueInSpecifiedUnits و valueAsString نتيجة لهذه الطريقة. على سبيل المثال، إذا كانت القيمة الأصلية "0.5cm" وتم استدعاء الطريقة للتحويل إلى مليمترات، فإن unitType سيتغير إلى SVG_LENGTHTYPE_MM، و valueInSpecifiedUnits سيتغير إلى القيمة العددية 5، و valueAsString سيتغير إلى "5mm".
 
 ```csharp
 public void ConvertToSpecifiedUnits(ushort unitType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| unitType | UInt16 | نوع الوحدة المراد التبديل إليه (على سبيل المثال ، SVG_LENGTHTYPE_MM). |
+| unitType | UInt16 | نوع الوحدة للتحويل إليه (مثال: SVG_LENGTHTYPE_MM). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) يتم رفعه إذا كان نوع الوحدة هو SVG_LENGTHTYPE_UNKNOWN أو أنه ليس ثابت نوع وحدة صالح (أحد ثوابت SVG_LENGTHTYPE_ * الأخرى المحددة في هذه الواجهة) . |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) تُرفع عندما يتوافق الطول مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) يُرفع إذا كان unitType هو SVG_LENGTHTYPE_UNKNOWN أو ليس ثابت وحدة صالح (أحد الثوابت الأخرى SVG_LENGTHTYPE_* المعرفة في هذه الواجهة). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) يُرفع عندما يتطابق الطول مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGLength](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svglength/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.K1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFECompositeElement ملكية. يتوافق مع السمة k1 على عنصر feComposite المحدد .
+title: "SVGFECompositeElement.K1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية K1 لعنصر SVGFECompositeElement. تتطابق مع السمة k1 في عنصر feComposite المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.filters/svgfecompositeelement/k1/
 ---
 ## SVGFECompositeElement.K1 property
 
-يتوافق مع السمة "k1" على عنصر "feComposite" المحدد .
+يتطابق مع السمة ‘k1’ على العنصر ‘feComposite’ المحدد.
 
 ```csharp
 public SVGAnimatedNumber K1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "k1" على عنصر "feComposite" المحدد .
+السمة ‘k1’ في عنصر ‘feComposite’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFECompositeElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

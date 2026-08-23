@@ -1,24 +1,22 @@
 ---
-title: Element.ClassList
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. إرجاع قائمة DOMTokenList الحية التي تحتوي على الرموز المميزة المستلمة من تحليل سمة class .
+title: "Element.ClassList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element ClassList. تُعيد DOMTokenList حي يحتوي على الرموز المستخرجة من تحليل سمة class."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom/element/classlist/
 ---
 ## Element.ClassList property
 
-إرجاع قائمة DOMTokenList الحية التي تحتوي على الرموز المميزة المستلمة من تحليل سمة "class" .
+يعيد DOMTokenList حي يحتوي على الرموز المستلمة من تحليل السمة \"class\".
 
 ```csharp
 public DOMTokenList ClassList { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../../../aspose.svg.collections/domtokenlist/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

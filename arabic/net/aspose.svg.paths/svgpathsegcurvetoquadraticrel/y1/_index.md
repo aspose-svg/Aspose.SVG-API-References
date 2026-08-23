@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegCurvetoQuadraticRel.Y1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegCurvetoQuadraticRel ملكية. إحداثي Y النسبي لنقطة التحكم الأولى.
+title: "SVGPathSegCurvetoQuadraticRel.Y1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSegCurvetoQuadraticRel Y1. الإحداثي النسبي Y للنقطة التحكمية الأولى"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.paths/svgpathsegcurvetoquadraticrel/y1/
 ---
 ## SVGPathSegCurvetoQuadraticRel.Y1 property
 
-إحداثي Y النسبي لنقطة التحكم الأولى.
+الإحداثي Y النسبي للنقطة التحكمية الأولى.
 
 ```csharp
 public float Y1 { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيق Y النسبي
+الإحداثي النسبي Y
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegCurvetoQuadraticRel](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathsegcurvetoquadraticrel/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

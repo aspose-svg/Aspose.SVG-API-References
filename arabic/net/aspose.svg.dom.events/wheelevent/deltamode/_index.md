@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaMode
-second_title: Aspose.SVG لمرجع .NET API
-description: WheelEvent ملكية. تحتوي سمة deltaMode على إشارة إلى وحدات القياس لقيم دلتا. القيمة الافتراضية هي DOM_DELTA_PIXEL بكسل .
+title: "WheelEvent.DeltaMode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية WheelEvent DeltaMode. تحتوي سمة deltaMode على إشارة إلى وحدات القياس لقيم الفرق. القيمة الافتراضية هي DOM_DELTA_PIXEL بكسل."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.events/wheelevent/deltamode/
 ---
 ## WheelEvent.DeltaMode property
 
-تحتوي سمة deltaMode على إشارة إلى وحدات القياس لقيم دلتا. القيمة الافتراضية هي DOM_DELTA_PIXEL (بكسل) .
+تحتوي خاصية deltaMode على إشارة إلى وحدات القياس لقيم الدلتا. القيمة الافتراضية هي DOM_DELTA_PIXEL (بكسل).
 
 ```csharp
 public ulong DeltaMode { get; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع دلتا .
+وضع delta.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WheelEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../wheelevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

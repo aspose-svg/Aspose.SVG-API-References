@@ -1,36 +1,34 @@
 ---
-title: HTMLCollection.Item
-second_title: Aspose.SVG لمرجع .NET API
-description: HTMLCollection ملكية. إرجاع عنصر الفهرس في المجموعة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في القائمة  فإن هذا يُرجع قيمة خالية.
+title: "HTMLCollection.Item"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Item في HTMLCollection. تُرجع العنصر رقم الفهرس في المجموعة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في القائمة فإنها تُعيد null"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.collections/htmlcollection/item/
 ---
 ## HTMLCollection indexer
 
-إرجاع عنصر الفهرس في المجموعة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في القائمة ، فإن هذا يُرجع قيمة خالية.
+يعيد العنصر رقم الفهرس في المجموعة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في القائمة، فإن هذا يعيد null.
 
 ```csharp
 public abstract Element this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | مؤشر. |
+| index | الفهرس. |
 
 ### قيمة الإرجاع
 
-إرجاع العنصر .
+يرجع العنصر.
 
-### Property_Value
+### Property Value
 
-ملف[`Element`](../../../aspose.svg.dom/element/) .
+ال[`Element`](../../../aspose.svg.dom/element/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../htmlcollection/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

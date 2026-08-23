@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Page
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الصفحة في CSS2.
+title: "ICSS2Properties.Page"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Page في ICSS2Properties. انظر تعريف خاصية page في CSS2"
 type: docs
-weight: 850
+weight: 880
 url: /ar/net/aspose.svg.dom.css/icss2properties/page/
 ---
 ## ICSS2Properties.Page property
 
-راجع تعريف خاصية الصفحة في CSS2.
+انظر تعريف خاصية page في CSS2.
 
 ```csharp
 public string Page { get; set; }
@@ -16,12 +16,10 @@ public string Page { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الصفحة
+خاصية page
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

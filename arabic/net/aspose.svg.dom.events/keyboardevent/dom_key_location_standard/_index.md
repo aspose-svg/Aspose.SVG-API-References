@@ -1,23 +1,21 @@
 ---
-title: KeyboardEvent.DOM_KEY_LOCATION_STANDARD
-second_title: Aspose.SVG لمرجع .NET API
-description: KeyboardEvent مجال. يجب عدم تمييز تنشيط المفتاح باعتباره الإصدار الأيمن أو الأيسر من المفتاح  و بخلاف مفتاح NumLock لم ينشأ من لوحة المفاتيح الرقمية أو لم ينشأ بمفتاح افتراضي يتوافق مع لوحة المفاتيح الرقمية .
+title: "KeyboardEvent.DOM_KEY_LOCATION_STANDARD"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل KeyboardEvent DOM_KEY_LOCATION_STANDARD. يجب ألا يتم تمييز تفعيل المفتاح كنسخة يسرى أو يمنى للمفتاح، وباستثناء مفتاح NumLock، لم ينشأ من لوحة الأرقام أو من مفتاح افتراضي يطابق لوحة الأرقام"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.dom.events/keyboardevent/dom_key_location_standard/
 ---
 ## KeyboardEvent.DOM_KEY_LOCATION_STANDARD field
 
-يجب عدم تمييز تنشيط المفتاح باعتباره الإصدار الأيمن أو الأيسر من المفتاح ، و (بخلاف مفتاح NumLock) لم ينشأ من لوحة المفاتيح الرقمية (أو لم ينشأ بمفتاح افتراضي يتوافق مع لوحة المفاتيح الرقمية) .
+يجب ألا يتم تمييز تفعيل المفتاح كنسخة يسرى أو يمنى من المفتاح، و(باستثناء مفتاح NumLock) لم ينشأ من لوحة الأرقام (أو لم ينشأ بمفتاح افتراضي يتطابق مع لوحة الأرقام).
 
 ```csharp
 public const ulong DOM_KEY_LOCATION_STANDARD;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KeyboardEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,30 +1,41 @@
 ---
-title: Class PlatformException
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.PlatformException فصل. يمثل الفئة الأساسية لكافة الاستثناءات التي قد تحدث أثناء تنفيذ التطبيق.
+title: "فئة PlatformException"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.PlatformException فئة. تمثل الفئة الأساسية لجميع الاستثناءات التي قد تحدث أثناء تنفيذ التطبيق"
 type: docs
-weight: 2700
+weight: 4770
 url: /ar/net/aspose.svg/platformexception/
 ---
 ## PlatformException class
 
-يمثل الفئة الأساسية لكافة الاستثناءات التي قد تحدث أثناء تنفيذ التطبيق.
+يمثل الفئة الأساسية لجميع الاستثناءات التي قد تحدث أثناء تنفيذ التطبيق.
 
 ```csharp
 public class PlatformException : Exception
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PlatformException](platformexception/#constructor)() | يقوم بتهيئة مثيل جديد لملف`PlatformException` فئة . |
-| [PlatformException](platformexception/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`PlatformException` فئة برسالة خطأ محددة. |
-| [PlatformException](platformexception/#constructor_2)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`PlatformException` فئة مع رسالة خطأ محددة ومرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [PlatformException](platformexception/#constructor)() | يُنشئ مثيلًا جديدًا من فئة `PlatformException`. |
+| [PlatformException](platformexception/#constructor_1)(*string*) | يُنشئ مثيلًا جديدًا من فئة `PlatformException` برسالة خطأ محددة. |
+| [PlatformException](platformexception/#constructor_2)(*string, Exception*) | يُنشئ مثيلًا جديدًا من فئة `PlatformException` برسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
-### أنظر أيضا
+## الخصائص
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
+| الاسم | الوصف |
+| --- | --- |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
+| virtual [Message](../../system/exception/message/) { get; } |  |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
+### انظر أيضًا
 
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

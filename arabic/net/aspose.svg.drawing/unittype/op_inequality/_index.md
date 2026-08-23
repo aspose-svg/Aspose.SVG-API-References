@@ -1,32 +1,30 @@
 ---
-title: UnitType.op_Inequality
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType طريقة. تحديد ما إذا تم تحديد الاثنينUnitType القيم ليست متساوية.
+title: "UnitType.op_Inequality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة UnitType op_Inequality. تحدد ما إذا كانت قيمتي UnitType المحددتين غير متساويتين"
 type: docs
 weight: 370
 url: /ar/net/aspose.svg.drawing/unittype/op_inequality/
 ---
 ## UnitType Inequality operator
 
-تحديد ما إذا تم تحديد الاثنين[`UnitType`](../) القيم ليست متساوية.
+يحدد ما إذا كانت القيمتين المحددتين [`UnitType`](../) غير متساويتين.
 
 ```csharp
 public static bool operator !=(UnitType first, UnitType second)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| first | UnitType | الأول[`UnitType`](../) قيمة للمقارنة. |
-| second | UnitType | الثاني[`UnitType`](../) قيمة للمقارنة. |
+| first | UnitType | القيمة الأولى [`UnitType`](../) للمقارنة. |
+| second | UnitType | القيمة الثانية [`UnitType`](../) للمقارنة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان كلاهما[`UnitType`](../) ليست متساوية خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت القيمتين [`UnitType`](../) غير متساويتين؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

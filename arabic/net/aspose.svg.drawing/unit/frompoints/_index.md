@@ -1,32 +1,30 @@
 ---
-title: Unit.FromPoints
-second_title: Aspose.SVG لمرجع .NET API
-description: Unit طريقة. إرجاع أLength الكائن الذي يتم تمثيله بالنقاط .
+title: "Unit.FromPoints"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Unit FromPoints. تُرجع كائن Length يُمثَّل بالنقاط"
 type: docs
 weight: 180
 url: /ar/net/aspose.svg.drawing/unit/frompoints/
 ---
 ## Unit.FromPoints method
 
-إرجاع أ[`Length`](../../length/) الكائن الذي يتم تمثيله بالنقاط .
+تُرجع كائن [`Length`](../../length/) يُمثَّل بالنقاط.
 
 ```csharp
 public static Length FromPoints(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة. |
+| القيمة | Double | القيمة. |
 
 ### قيمة الإرجاع
 
-يعود أ[`Length`](../../length/) هدف.
+تعيد كائن [`Length`](../../length/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../../length/)
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

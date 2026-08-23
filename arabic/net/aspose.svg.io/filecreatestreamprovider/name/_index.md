@@ -1,27 +1,25 @@
 ---
-title: FileCreateStreamProvider.Name
-second_title: Aspose.SVG لمرجع .NET API
-description: FileCreateStreamProvider ملكية. الحصول على الاسم أو تعيينه .
+title: "FileCreateStreamProvider.Name"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Name في FileCreateStreamProvider. تحصل على الاسم أو تعينه."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.io/filecreatestreamprovider/name/
 ---
 ## FileCreateStreamProvider.Name property
 
-الحصول على الاسم أو تعيينه .
+يحصل أو يعيّن الاسم.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 الاسم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

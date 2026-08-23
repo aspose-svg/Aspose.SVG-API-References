@@ -1,14 +1,14 @@
 ---
-title: Color.ToInt
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. لتشفير مكونات Color ARGB في int.
+title: "Color.ToInt"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color ToInt. تقوم بترميز مكونات Color ARGB إلى عدد صحيح"
 type: docs
 weight: 360
 url: /ar/net/aspose.svg.drawing/color/toint/
 ---
 ## Color.ToInt method
 
-لتشفير مكونات Color ARGB في int.
+يقوم بترميز مكونات ARGB للون إلى int.
 
 ```csharp
 public int ToInt()
@@ -16,12 +16,10 @@ public int ToInt()
 
 ### قيمة الإرجاع
 
-كثافة العمليات المشفرة.
+عدد صحيح مُرمّز.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

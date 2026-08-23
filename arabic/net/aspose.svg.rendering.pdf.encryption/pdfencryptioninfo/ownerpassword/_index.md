@@ -1,31 +1,29 @@
 ---
-title: PdfEncryptionInfo.OwnerPassword
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfEncryptionInfo ملكية. الحصول على أو تعيين كلمة مرور المالك.
+title: "PdfEncryptionInfo.OwnerPassword"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PdfEncryptionInfo OwnerPassword. يحصل أو يعيّن كلمة مرور المالك"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/
 ---
 ## PdfEncryptionInfo.OwnerPassword property
 
-الحصول على أو تعيين كلمة مرور المالك.
+يحصل أو يعيّن كلمة مرور المالك.
 
 ```csharp
 public string OwnerPassword { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-كلمة مرور المالك .
+كلمة مرور المالك.
 
-### ملاحظات
+## ملاحظات
 
-فتح المستند بكلمة مرور المالك الصحيحة (بافتراض أنها ليست نفس كلمة مرور المستخدم) يسمح بالوصول الكامل (للمالك) إلى المستند. يتضمن هذا الوصول غير المحدود القدرة على تغيير كلمات مرور المستند و أذونات الوصول.
+فتح المستند باستخدام كلمة مرور المالك الصحيحة (مع افتراض أنها ليست هي نفسها كلمة مرور المستخدم) يسمح بالوصول الكامل (كمالك) إلى المستند. هذا الوصول غير المحدود يشمل القدرة على تغيير كلمات مرور المستند وأذونات الوصول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfEncryptionInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

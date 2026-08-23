@@ -1,14 +1,14 @@
 ---
-title: ITreeWalker.FirstChild
-second_title: Aspose.SVG لمرجع .NET API
-description: ITreeWalker طريقة. نقل TreeWalker إلى أول تابع مرئي للعقدة الحالية_  وإرجاع العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no توابع مرئية  فتُرجع قيمة خالية  وتحتفظ بالعقدة الحالية.
+title: "ITreeWalker.FirstChild"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ITreeWalker FirstChild. تنقل الـ TreeWalker إلى أول طفل مرئي للعقدة الحالية وتعيد العقدة الجديدة. إذا لم تكن للعقدة الحالية أطفال مرئيون تُعيد null وتبقي على العقدة الحالية."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.traversal/itreewalker/firstchild/
 ---
 ## ITreeWalker.FirstChild method
 
-نقل TreeWalker إلى أول تابع مرئي للعقدة الحالية_ ، وإرجاع العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no توابع مرئية ، فتُرجع قيمة خالية ، وتحتفظ بالعقدة الحالية.
+ينقل TreeWalker إلى أول طفل مرئي للعقدة الحالية، ويعيد العقدة الجديدة. إذا لم تكن للعقدة الحالية أطفال مرئيون، يُعيد null، ويحتفظ بالعقدة الحالية.
 
 ```csharp
 public Node FirstChild()
@@ -16,13 +16,11 @@ public Node FirstChild()
 
 ### قيمة الإرجاع
 
-العقدة الجديدة ، أو فارغة إذا كانت العقدة الحالية بها no توابع مرئية في عرض TreeWalker المنطقي.
+العقدة الجديدة، أو null إذا لم يكن للعقدة الحالية أطفال مرئيون في العرض المنطقي للـ TreeWalker.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

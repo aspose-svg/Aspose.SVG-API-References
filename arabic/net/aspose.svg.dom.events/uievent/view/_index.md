@@ -1,28 +1,26 @@
 ---
-title: UIEvent.View
-second_title: Aspose.SVG لمرجع .NET API
-description: UIEvent ملكية. تحدد سمة العرض النافذة التي تم إنشاء الحدث منها. يجب أن تكون القيمة غير المهيأة لهذه السمة خالية.
+title: "UIEvent.View"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية UIEvent View. تحدد سمة view النافذة التي تم توليد الحدث منها. يجب أن تكون القيمة غير المهيأة لهذه السمة null"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.events/uievent/view/
 ---
 ## UIEvent.View property
 
-تحدد سمة العرض النافذة التي تم إنشاء الحدث منها. يجب أن تكون القيمة غير المهيأة لهذه السمة خالية.
+سمة view تحدد النافذة التي تم توليد الحدث منها. يجب أن تكون القيمة غير المبدئية لهذه السمة null.
 
 ```csharp
 public IWindow View { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مثيل النافذة .
+مثيل النافذة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * class [UIEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../uievent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

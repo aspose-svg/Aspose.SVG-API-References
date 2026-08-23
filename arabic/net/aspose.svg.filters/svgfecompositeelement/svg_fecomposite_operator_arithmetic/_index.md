@@ -1,23 +1,21 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFECompositeElement مجال. يتوافق مع القيمة الحسابية .
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGFECompositeElement SVG_FECOMPOSITE_OPERATOR_ARITHMETIC. يتطابق مع القيمة arithmetic"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_arithmetic/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC field
 
-يتوافق مع القيمة "الحسابية" .
+يتطابق مع القيمة 'arithmetic'.
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_ARITHMETIC;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFECompositeElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

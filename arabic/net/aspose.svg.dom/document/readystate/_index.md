@@ -1,23 +1,21 @@
 ---
-title: Document.ReadyState
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. إرجاع جاهزية المستند. التحميل أثناء تحميل المستند  تفاعلي بمجرد الانتهاء من التحليل مع استمرار تحميل الموارد الفرعية  و اكتمال بمجرد تحميله.
+title: "Document.ReadyState"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document ReadyState. تُعيد جاهزية المستند. يكون التحميل تفاعليًا بينما المستند قيد التحميل، يصبح تفاعليًا بمجرد الانتهاء من التحليل لكنه لا يزال يحمل الموارد الفرعية، ويصبح مكتملًا بمجرد تحميله بالكامل"
 type: docs
 weight: 230
 url: /ar/net/aspose.svg.dom/document/readystate/
 ---
 ## Document.ReadyState property
 
-إرجاع جاهزية المستند. "التحميل" أثناء تحميل المستند ، "تفاعلي" بمجرد الانتهاء من التحليل مع استمرار تحميل الموارد الفرعية ، و "اكتمال" بمجرد تحميله.
+يعيد حالة جاهزية المستند. "loading" أثناء تحميل المستند، "interactive" بمجرد انتهاء التحليل لكنه لا يزال يحمل الموارد الفرعية، و"complete" بمجرد أن يتم التحميل.
 
 ```csharp
 public string ReadyState { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

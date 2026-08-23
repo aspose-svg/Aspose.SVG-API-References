@@ -1,27 +1,25 @@
 ---
-title: Document.Origin
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. يحصل على اصل الوثيقة .
+title: "Document.Origin"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document Origin. يحصل على أصل المستند"
 type: docs
 weight: 200
 url: /ar/net/aspose.svg.dom/document/origin/
 ---
 ## Document.Origin property
 
-يحصل على اصل الوثيقة .
+يحصل على أصل المستند.
 
 ```csharp
 public string Origin { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الأصل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

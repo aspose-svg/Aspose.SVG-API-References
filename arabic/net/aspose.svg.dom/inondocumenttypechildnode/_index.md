@@ -1,14 +1,14 @@
 ---
-title: Interface INonDocumentTypeChildNode
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.INonDocumentTypeChildNode واجهه المستخدم. يحددIChildNode التي ليستDOCUMENT_TYPE_NODE .
+title: "واجهة INonDocumentTypeChildNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.INonDocumentTypeChildNode. تُعرّف IChildNode التي ليست DOCUMENT_TYPE_NODE"
 type: docs
-weight: 1080
+weight: 3060
 url: /ar/net/aspose.svg.dom/inondocumenttypechildnode/
 ---
 ## INonDocumentTypeChildNode interface
 
-يحدد[`IChildNode`](../ichildnode/) التي ليست[`DOCUMENT_TYPE_NODE`](../node/document_type_node/) .
+تُعرّف [`IChildNode`](../ichildnode/) التي ليست [`DOCUMENT_TYPE_NODE`](../node/document_type_node/).
 
 ```csharp
 public interface INonDocumentTypeChildNode
@@ -16,14 +16,12 @@ public interface INonDocumentTypeChildNode
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | إرجاع الشقيق التالي الأول وهو عنصر ، وبخلاف ذلك القيمة خالية. |
-| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | تُرجع الشقيق الأول السابق الذي يعتبر عنصرًا ، وإرجاع القيمة الفارغة في الحالات الأخرى. |
+| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | يرجع الأخ الأصغر التالي الأول الذي يكون عنصرًا، وإلا null. |
+| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | يرجع الأخ الأصغر السابق الأول الذي يكون عنصرًا، وإلا null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

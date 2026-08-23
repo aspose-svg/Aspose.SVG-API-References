@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathNamespace
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.XPath.IXPathNamespace واجهه المستخدم. تم إرجاع واجهة XPathNamespace بواسطة واجهات XPathResult لتمثيل نوع عقدة مساحة اسم XPath التي يفتقر إليها DOM.
+title: "واجهة IXPathNamespace"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الواجهة Aspose.Svg.Dom.XPath.IXPathNamespace. تُرجع واجهة XPathNamespace بواسطة واجهات XPathResult لتمثيل نوع عقدة مساحة الاسم XPath التي يفتقر إليها DOM"
 type: docs
-weight: 1340
+weight: 3340
 url: /ar/net/aspose.svg.dom.xpath/ixpathnamespace/
 ---
 ## IXPathNamespace interface
 
-تم إرجاع واجهة XPathNamespace بواسطة واجهات XPathResult لتمثيل نوع عقدة مساحة اسم XPath التي يفتقر إليها DOM.
+واجهة XPathNamespace تُرجَع بواسطة واجهات XPathResult لتمثيل نوع عقدة مساحة اسم XPath التي يفتقر إليها DOM.
 
 ```csharp
 public interface IXPathNamespace
@@ -16,13 +16,11 @@ public interface IXPathNamespace
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement/) { get; } | ملف[`Element`](../../aspose.svg.dom/element/)التي كانت مساحة الاسم في النطاق عند طلبها. لا يتغير هذا في عقدة مساحة الاسم التي تم إرجاعها حتى إذا تغير المستند مثل بحيث تخرج مساحة الاسم عن النطاق على هذا العنصر ولم يعد يتم العثور على هذه العقدة هناك بواسطة XPath. |
+| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement/) { get; } | الـ [`Element`](../../aspose.svg.dom/element/) الذي كانت مساحة الاسم فيه ضمن النطاق عندما تم طلبه. هذا لا يتغير في عقدة مساحة الاسم المعادة حتى إذا تغير المستند بحيث تخرج مساحة الاسم من النطاق على ذلك العنصر ولم يعد يمكن العثور على هذه العقدة هناك بواسطة XPath. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

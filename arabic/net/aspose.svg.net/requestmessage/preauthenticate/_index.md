@@ -1,27 +1,25 @@
 ---
-title: RequestMessage.PreAuthenticate
-second_title: Aspose.SVG لمرجع .NET API
-description: RequestMessage ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان سيتم إرسال رأس التفويض مع الطلب.
+title: "RequestMessage.PreAuthenticate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RequestMessage PreAuthenticate. يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب إرسال رأس Authorization مع الطلب"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.net/requestmessage/preauthenticate/
 ---
 ## RequestMessage.PreAuthenticate property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان سيتم إرسال رأس التفويض مع الطلب.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان يجب إرسال رأس Authorization مع الطلب.
 
 ```csharp
 public bool PreAuthenticate { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` لإرسال رأس ترخيص HTTP مع الطلبات بعد إجراء المصادقة ؛ خلاف ذلك،`خطأ شنيع` . الافتراضي هو`خطأ شنيع` .
+`true` لإرسال رأس تفويض HTTP مع الطلبات بعد إتمام المصادقة؛ وإلا، `false`. القيمة الافتراضية هي `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RequestMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestmessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

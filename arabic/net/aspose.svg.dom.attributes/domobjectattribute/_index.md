@@ -1,29 +1,33 @@
 ---
-title: Class DOMObjectAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Attributes.DOMObjectAttribute فصل. يحدد أن الكائن الذي تم تمييزه بهذه السمة معرف بواسطة W3C.
+title: "فئة DOMObjectAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Dom.Attributes.DOMObjectAttribute. يحدد أن الكائن المعلَّم بهذه السمة تم تعريفه من قبل W3C"
 type: docs
-weight: 420
+weight: 2420
 url: /ar/net/aspose.svg.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class
 
-يحدد أن الكائن الذي تم تمييزه بهذه السمة معرف بواسطة W3C.
+يحدد أن الكائن المعلَّم بهذه السمة معرف من قبل W3C.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMObjectAttribute : Attribute
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DOMObjectAttribute](domobjectattribute/)() | Default_Constructor |
+| [DOMObjectAttribute](domobjectattribute/)() | المنشئ الافتراضي. |
 
-### أنظر أيضا
+## الخصائص
 
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* المجسم [Aspose.SVG](../../)
+| الاسم | الوصف |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### انظر أيضًا
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

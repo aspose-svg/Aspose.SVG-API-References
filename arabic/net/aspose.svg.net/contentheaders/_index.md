@@ -1,34 +1,38 @@
 ---
-title: Class ContentHeaders
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.ContentHeaders فصل. يحتوي على الرؤوس المرتبطة بالمحتوى .
+title: "فئة ContentHeaders"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.ContentHeaders. تحتوي على رؤوس مرتبطة بالمحتوى"
 type: docs
-weight: 2240
+weight: 4310
 url: /ar/net/aspose.svg.net/contentheaders/
 ---
 ## ContentHeaders class
 
-يحتوي على الرؤوس المرتبطة بالمحتوى .
+يحتوي على الرؤوس المرتبطة بالمحتوى.
 
 ```csharp
 public class ContentHeaders : WebHeaderCollection
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ContentHeaders](contentheaders/)() | يقوم بتهيئة مثيل جديد لملف`ContentHeaders` فئة . |
+| [ContentHeaders](contentheaders/)() | يُهيئ حالة جديدة من فئة `ContentHeaders`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | الحصول على قيمة رأس نوع المحتوى. |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | يحصل على قيمة رأس Content-Type. |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 مؤشرات فهرسة) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

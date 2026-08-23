@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: LengthOrAuto طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "LengthOrAuto.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ToString في LengthOrAuto. تُرجع سلسلة تمثل هذا الكائن"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.drawing/lengthorauto/tostring/
 ---
 ## LengthOrAuto.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthOrAuto](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../lengthorauto/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

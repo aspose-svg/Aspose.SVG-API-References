@@ -1,23 +1,21 @@
 ---
-title: UnitType.Turn
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بدوره .
+title: "UnitType.Turn"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Turn. القياس بالدورات."
 type: docs
 weight: 260
 url: /ar/net/aspose.svg.drawing/unittype/turn/
 ---
 ## UnitType.Turn field
 
-القياس بدوره .
+القياس بالدورات.
 
 ```csharp
 public static readonly UnitType Turn;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

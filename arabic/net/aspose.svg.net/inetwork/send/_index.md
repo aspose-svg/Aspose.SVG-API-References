@@ -1,33 +1,31 @@
 ---
-title: INetwork.Send
-second_title: Aspose.SVG لمرجع .NET API
-description: INetwork طريقة. يرسل ملفRequestMessage الرسالة.
+title: "INetwork.Send"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة INetwork Send. تُرسل رسالة RequestMessage."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/inetwork/send/
 ---
 ## INetwork.Send method
 
-يرسل ملف[`RequestMessage`](../../requestmessage/) الرسالة.
+تُرسل رسالة [`RequestMessage`](../../requestmessage/).
 
 ```csharp
 public ResponseMessage Send(RequestMessage message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| message | RequestMessage | الرسالة المراد إرسالها. |
+| رسالة | RequestMessage | الرسالة المراد إرسالها. |
 
 ### قيمة الإرجاع
 
-أ[`ResponseMessage`](../../responsemessage/) رسالة
+رسالة [`ResponseMessage`](../../responsemessage/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResponseMessage](../../responsemessage/)
 * class [RequestMessage](../../requestmessage/)
 * interface [INetwork](../)
-* مساحة الاسم [Aspose.Svg.Net](../../inetwork/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

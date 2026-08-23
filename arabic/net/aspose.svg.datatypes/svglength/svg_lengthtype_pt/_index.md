@@ -1,7 +1,7 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_PT
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLength مجال. تم تحديد قيمة باستخدام وحدات pt المعرفة في CSS2.
+title: "SVGLength.SVG_LENGTHTYPE_PT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGLength SVG_LENGTHTYPE_PT. تم تحديد قيمة باستخدام وحدات pt المعرفة في CSS2"
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.datatypes/svglength/svg_lengthtype_pt/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.datatypes/svglength/svg_lengthtype_pt/
 public const ushort SVG_LENGTHTYPE_PT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGLength](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svglength/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

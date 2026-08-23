@@ -1,39 +1,37 @@
 ---
-title: Aspose.Svg.Net
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Netيتم تقديم مساحة الاسم من خلال الفئات والواجهات وهي مسؤولة عن المساعدة في معالجة الشبكة السهلة.
+title: "Aspose.Svg.Net"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "مساحة الأسماء Aspose.Svg.Net مقدمة بواسطة الفئات والواجهات التي تكون مسؤولة عن تسهيل معالجة الشبكة بسهولة"
 type: docs
-weight: 190
+weight: 210
 url: /ar/net/aspose.svg.net/
 ---
-ملف **Aspose.Svg.Net**يتم تقديم مساحة الاسم من خلال الفئات والواجهات وهي مسؤولة عن المساعدة في معالجة الشبكة السهلة.
+تُقدَّم مساحة الاسم **Aspose.Svg.Net** عبر فئات وواجهات مسؤولة عن تسهيل معالجة الشبكة بسهولة.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [ByteArrayContent](./bytearraycontent/) | يمثل المحتوى بناءً على مصفوفة البايت. |
+| [ByteArrayContent](./bytearraycontent/) | يمثل محتوى يعتمد على مصفوفة بايت. |
 | [Content](./content/) | يمثل فئة أساسية لجسم كيان HTTP ورؤوس المحتوى. |
-| [ContentHeaders](./contentheaders/) | يحتوي على الرؤوس المرتبطة بالمحتوى . |
-| [FormUrlEncodedContent](./formurlencodedcontent/) | حاوية لصفوف الاسم / القيمة المشفرة باستخدام application / x-www-form-urlencoded type MIME type . |
-| [HttpMethod](./httpmethod/) | يمثل فئة الأداة المساعدة لاسترداد ومقارنة طرق HTTP القياسية. |
-| [MessageFilter](./messagefilter/) | يمثل فئة أساسية مجردة لفئات مختلفة من المرشحات المستخدمة للاستعلام عن الرسائل |
+| [ContentHeaders](./contentheaders/) | يحتوي على الرؤوس المرتبطة بالمحتوى. |
+| [FormUrlEncodedContent](./formurlencodedcontent/) | حاوية لأزواج الاسم/القيمة المشفرة باستخدام نوع MIME application/x-www-form-urlencoded. |
+| [HttpMethod](./httpmethod/) | يمثل فئة مساعدة لاسترجاع ومقارنة طرق HTTP القياسية. |
+| [MessageFilter](./messagefilter/) | يمثل فئة أساسية مجردة لفئات مختلفة من المرشحات المستخدمة لاستعلام الرسائل |
 | [MessageHandler](./messagehandler/) | يمثل نوعًا أساسيًا لمعالجات الرسائل. |
-| [MessageHandlerCollection](./messagehandlercollection/) | يمثل جمع ملفات[`MessageHandler`](../aspose.svg.net/messagehandler/) . |
-| [MultipartContent](./multipartcontent/) | يمثل محتوى متعدد الأجزاء / *. |
-| [MultipartFormDataContent](./multipartformdatacontent/) | تمثيل المحتوى لخوارزمية تشفير البيانات متعددة الأجزاء / النموذجية |
-| [RequestHeaders](./requestheaders/) | يحتوي على رؤوس بروتوكول مرتبطة بالطلب . |
-| [RequestMessage](./requestmessage/) | يمثل رسالة طلب . |
-| [ResponseHeaders](./responseheaders/) | يحتوي على رؤوس بروتوكول مرتبطة بالاستجابة . |
-| [ResponseMessage](./responsemessage/) | يمثل رسالة استجابة . |
-| [StreamContent](./streamcontent/) | يمثل المحتوى بناءً على تيار . |
-| [StringContent](./stringcontent/) | يمثل المحتوى بناءً على سلسلة . |
-| [UrlResolver](./urlresolver/) | يمثل فئة الأداة المساعدة لحل عنوان URL المطلق بواسطة معرّف الموارد المنتظم (URI) . |
-## واجهات
+| [MessageHandlerCollection](./messagehandlercollection/) | يمثل مجموعة من [`MessageHandler`](../aspose.svg.net/messagehandler/). |
+| [MultipartContent](./multipartcontent/) | يمثل محتوى multipart/*. |
+| [MultipartFormDataContent](./multipartformdatacontent/) | يمثل المحتوى لخوارزمية ترميز multipart/form-data |
+| [RequestHeaders](./requestheaders/) | يحتوي على رؤوس البروتوكول المرتبطة بطلب. |
+| [RequestMessage](./requestmessage/) | يمثل رسالة طلب. |
+| [ResponseHeaders](./responseheaders/) | يحتوي على رؤوس البروتوكول المرتبطة باستجابة. |
+| [ResponseMessage](./responsemessage/) | يمثل رسالة استجابة. |
+| [StreamContent](./streamcontent/) | يمثل محتوى يعتمد على تدفق. |
+| [StringContent](./stringcontent/) | يمثل محتوى يعتمد على سلسلة نصية. |
+| [UrlResolver](./urlresolver/) | يمثل فئة مساعدة لحل عنوان URL المطلق بواسطة معرف الموارد الموحد (URI). |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [INetwork](./inetwork/) | يوفر واجهة لخدمات الشبكة . |
+| [INetwork](./inetwork/) | يوفر واجهة لخدمات الشبكة. |
 | [INetworkOperationContext](./inetworkoperationcontext/) | يوفر معلومات سياقية لخدمات الشبكة. |
-
-

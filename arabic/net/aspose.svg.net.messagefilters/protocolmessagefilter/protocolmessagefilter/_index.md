@@ -1,27 +1,25 @@
 ---
-title: ProtocolMessageFilter.ProtocolMessageFilter
-second_title: Aspose.SVG لمرجع .NET API
-description: ProtocolMessageFilter البناء. يقوم بتهيئة مثيل جديد لملفProtocolMessageFilter فئة .
+title: "ProtocolMessageFilter"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ProtocolMessageFilter. يهيئ مثيلًا جديدًا من فئة ProtocolMessageFilter"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net.messagefilters/protocolmessagefilter/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter constructor
 
-يقوم بتهيئة مثيل جديد لملف[`ProtocolMessageFilter`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`ProtocolMessageFilter`](../).
 
 ```csharp
 public ProtocolMessageFilter(params string[] protocols)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| protocols | String[] | البروتوكولات. |
+| البروتوكولات | String[] | البروتوكولات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProtocolMessageFilter](../)
-* مساحة الاسم [Aspose.Svg.Net.MessageFilters](../../protocolmessagefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../../)

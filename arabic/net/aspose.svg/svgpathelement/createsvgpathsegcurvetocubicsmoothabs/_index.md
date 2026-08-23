@@ -1,36 +1,34 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement طريقة. إرجاع كائن SVGPathSegCurvetoCubicSmoothAbs مستقل وغير أبوي.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPathElement CreateSVGPathSegCurvetoCubicSmoothAbs. تُرجِع كائن SVGPathSegCurvetoCubicSmoothAbs مستقل لا يملك أبًا."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs method
 
-إرجاع كائن SVGPathSegCurvetoCubicSmoothAbs مستقل وغير أبوي.
+يرجع كائن SVGPathSegCurvetoCubicSmoothAbs مستقل لا يملك أبًا.
 
 ```csharp
 public SVGPathSegCurvetoCubicSmoothAbs CreateSVGPathSegCurvetoCubicSmoothAbs(float x, float y, 
     float x2, float y2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | إحداثي X المطلق لنقطة نهاية مقطع المسار هذا. |
-| y | Single | إحداثي Y المطلق لنقطة نهاية مقطع المسار هذا. |
-| x2 | Single | إحداثيات X المطلقة لنقطة التحكم الثانية. |
-| y2 | Single | إحداثيات Y المطلقة لنقطة التحكم الثانية. |
+| x | Single | الإحداثي X المطلق لنقطة النهاية لهذا الجزء من المسار. |
+| y | Single | الإحداثي Y المطلق لنقطة النهاية لهذا الجزء من المسار. |
+| x2 | Single | الإحداثي X المطلق للنقطة التحكمية الثانية. |
+| y2 | Single | الإحداثي Y المطلق للنقطة التحكمية الثانية. |
 
 ### قيمة الإرجاع
 
-كائن SVGPathSegCurvetoCubicSmoothAbs قائم بذاته وبدون أب.
+كائن SVGPathSegCurvetoCubicSmoothAbs مستقل لا يملك أبًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegCurvetoCubicSmoothAbs](../../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

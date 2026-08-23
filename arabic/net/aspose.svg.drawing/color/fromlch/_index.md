@@ -1,33 +1,31 @@
 ---
-title: Color.FromLch
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيم النصوع والصفاء ودرجة اللون المطلوبة.
+title: "Color.FromLch"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromLch. تُرجع Color جديدًا بالقيم المطلوبة للإضاءة واللون والدرجة"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.drawing/color/fromlch/
 ---
 ## Color.FromLch method
 
-إرجاع لون جديد بقيم النصوع والصفاء ودرجة اللون المطلوبة.
+يرجع Color جديد مع القيم المطلوبة للإضاءة، التشبع اللوني، والدرجة.
 
 ```csharp
 public static Color FromLch(float luminance, float chroma, float hue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| luminance | Single | عائم يمثل مكون النصوع للون. |
-| chroma | Single | عوامة تمثل مكون الصبغ للون. |
-| hue | Single | عائم يمثل مكون تدرج اللون. |
+| luminance | Single | قيمة عائمة تمثل المكوّن السطوع للون. |
+| chroma | Single | قيمة عائمة تمثل المكوّن اللونية للون. |
+| hue | Single | قيمة عائمة تمثل المكوّن الدرجة للون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

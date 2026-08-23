@@ -1,32 +1,30 @@
 ---
-title: SVGGeometryElement.GetPointAtLength
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGeometryElement طريقة. إرجاع إحداثيات س  ص في مساحة المستخدم وهي وحدات مسافة على طول المسار  باستخدام خوارزمية المسافة على طول المسار لوكيل المستخدم.
+title: "SVGGeometryElement.GetPointAtLength"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGGeometryElement GetPointAtLength. تُرجع إحداثيات xy في مساحة المستخدم والتي هي وحدات مسافة على طول المسار باستخدام خوارزمية distance-along-a-path الخاصة بوكيل المستخدم."
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.svg/svggeometryelement/getpointatlength/
 ---
 ## SVGGeometryElement.GetPointAtLength method
 
-إرجاع إحداثيات (س ، ص) في مساحة المستخدم وهي وحدات مسافة على طول المسار ، باستخدام خوارزمية المسافة على طول المسار لوكيل المستخدم.
+إرجاع إحداثيات (x,y) في مساحة المستخدم التي هي وحدات مسافة على طول المسار، باستخدام خوارزمية المسافة على طول المسار الخاصة بوكيل المستخدم.
 
 ```csharp
 public SVGPoint GetPointAtLength(float distance)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| distance | Single | المسافة على طول المسار ، بالنسبة إلى بداية المسار ، كمسافة في نظام إحداثيات المستخدم الحالي. |
+| المسافة | Single | المسافة على طول المسار، بالنسبة إلى بداية المسار، كمسافة في نظام إحداثيات المستخدم الحالي. |
 
 ### قيمة الإرجاع
 
-النقطة التي تم إرجاعها في مساحة المستخدم.
+النقطة المرجعة في مساحة المستخدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGGeometryElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggeometryelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

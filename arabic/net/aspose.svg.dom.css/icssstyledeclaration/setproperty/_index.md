@@ -1,50 +1,48 @@
 ---
-title: ICSSStyleDeclaration.SetProperty
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleDeclaration طريقة. تُستخدم لتعيين قيمة خاصية ذات أولوية افتراضية ضمن كتلة الإعلان هذه. الأولوية الافتراضية ليست مهمة  أي String.Empty
+title: "ICSSStyleDeclaration.SetProperty"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ICSSStyleDeclaration SetProperty. تُستخدم لتعيين قيمة خاصية بأولوية افتراضية داخل كتلة الإعلان هذه. الأولوية الافتراضية غير مهمة أي String.Empty"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.dom.css/icssstyledeclaration/setproperty/
 ---
-## SetProperty(string, string) {#setproperty}
+## SetProperty(*string, string*) {#setproperty}
 
-تُستخدم لتعيين قيمة خاصية ذات أولوية افتراضية ضمن كتلة الإعلان هذه. الأولوية الافتراضية ليست "مهمة" ، أي String.Empty
+يُستخدم لتعيين قيمة خاصية بأولوية افتراضية داخل هذه كتلة التصريح. الأولوية الافتراضية ليست "important" أي String.Empty.
 
 ```csharp
 public void SetProperty(string propertyName, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| propertyName | String | اسم العقار. |
-| value | String | القيمة. |
+| propertyName | String | اسم الخاصية. |
+| القيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetProperty(string, string, string) {#setproperty_1}
+## SetProperty(*string, string, string*) {#setproperty_1}
 
-يُستخدم لتعيين قيمة الخاصية والأولوية ضمن كتلة الإعلان هذه.
+يُستخدم لتعيين قيمة خاصية وأولوية داخل هذه كتلة التصريح.
 
 ```csharp
 public void SetProperty(string propertyName, string value, string priority)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| propertyName | String | اسم العقار. |
-| value | String | القيمة. |
-| priority | String | الأولوية. |
+| propertyName | String | اسم الخاصية. |
+| القيمة | String | القيمة. |
+| الأولوية | String | الأولوية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

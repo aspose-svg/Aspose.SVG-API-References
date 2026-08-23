@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.IDocumentStyle واجهه المستخدم. توفر واجهة DocumentStyle آلية يمكن من خلالها استرداد أوراق الأنماط المضمنة في المستند. التوقع هو أنه يمكن الحصول على مثيل لواجهة DocumentStyle باستخدام طرق صب خاصة بالربط على مثيل لواجهة Document.
+title: "واجهة IDocumentStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Css.IDocumentStyle واجهة. توفر واجهة DocumentStyle آلية يمكن من خلالها استرجاع أوراق الأنماط المدمجة في المستند. من المتوقع أنه يمكن الحصول على نسخة من واجهة DocumentStyle باستخدام أساليب التحويل الخاصة بالربط على نسخة من واجهة Document."
 type: docs
-weight: 700
+weight: 2700
 url: /ar/net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface
 
-توفر واجهة DocumentStyle آلية يمكن من خلالها استرداد أوراق الأنماط المضمنة في المستند. التوقع هو أنه يمكن الحصول على مثيل لواجهة DocumentStyle باستخدام طرق صب خاصة بالربط على مثيل لواجهة Document.
+واجهة DocumentStyle توفر آلية يمكن من خلالها استرجاع أوراق الأنماط المدمجة في مستند. المتوقع هو أنه يمكن الحصول على مثال من واجهة DocumentStyle باستخدام طرق التحويل الخاصة بالربط على مثال من واجهة Document.
 
 ```csharp
 public interface IDocumentStyle
@@ -16,13 +16,11 @@ public interface IDocumentStyle
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | قائمة تحتوي على كافة أوراق الأنماط المرتبطة أو المضمنة في مستند بشكل صريح. بالنسبة لمستندات HTML ، يتضمن ذلك أوراق الأنماط الخارجية ، المضمنة عبر عنصر HTML LINK ، وعناصر النمط المضمنة. |
+| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | قائمة تحتوي على جميع أوراق الأنماط المرتبطة صراحةً أو المدمجة في مستند. بالنسبة لمستندات HTML، تشمل ذلك أوراق الأنماط الخارجية، المضمنة عبر عنصر HTML LINK، وعناصر STYLE المضمنة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

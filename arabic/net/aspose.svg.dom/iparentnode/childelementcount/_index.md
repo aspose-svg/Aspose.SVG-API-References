@@ -1,27 +1,25 @@
 ---
-title: IParentNode.ChildElementCount
-second_title: Aspose.SVG لمرجع .NET API
-description: IParentNode ملكية. يجب أن تُرجع سمة childElementCount عدد العناصر التابعة لكائن السياق.
+title: "IParentNode.ChildElementCount"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IParentNode ChildElementCount. يجب أن تُعيد سمة childElementCount عدد الأطفال لكائن السياق الذين هم عناصر."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/iparentnode/childelementcount/
 ---
 ## IParentNode.ChildElementCount property
 
-يجب أن تُرجع سمة childElementCount عدد العناصر التابعة لكائن السياق.
+يجب أن تُعيد خاصية childElementCount عدد الأطفال لكائن السياق الذين هم عناصر.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد العناصر الفرعية .
+عدد العناصر الفرعية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IParentNode](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iparentnode/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

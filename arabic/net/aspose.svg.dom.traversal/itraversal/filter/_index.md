@@ -1,28 +1,26 @@
 ---
-title: ITraversal.Filter
-second_title: Aspose.SVG لمرجع .NET API
-description: ITraversal ملكية. NodeFilter المستخدم لفحص العقد.
+title: "ITraversal.Filter"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ITraversal Filter. الـ NodeFilter المستخدم لتصفية العقد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
 
-NodeFilter المستخدم لفحص العقد.
+NodeFilter المستخدم لتصفية العقد.
 
 ```csharp
 public INodeFilter Filter { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المرشح .
+الفلتر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

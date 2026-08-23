@@ -1,23 +1,21 @@
 ---
-title: SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_UNKNOWN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEMorphologyElement مجال. النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+title: "SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_UNKNOWN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_MORPHOLOGY_OPERATOR_UNKNOWN لعنصر SVGFEMorphologyElement. النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_unknown/
 ---
 ## SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_UNKNOWN field
 
-النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع.
 
 ```csharp
 public const ushort SVG_MORPHOLOGY_OPERATOR_UNKNOWN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEMorphologyElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

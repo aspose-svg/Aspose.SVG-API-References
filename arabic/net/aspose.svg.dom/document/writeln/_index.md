@@ -1,27 +1,25 @@
 ---
-title: Document.WriteLn
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. اكتب سلسلة نصية متبوعة بحرف سطر جديد إلى دفق document مفتوح بواسطة open . لاحظ أن الوظيفة will تنتج مستندًا ليس بالضرورة مدفوعًا بـ DTD و لذلك قد ينتج نتيجة غير صالحة في سياق document
+title: "Document.WriteLn"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document WriteLn. يكتب سلسلة نصية متبوعة بحرف سطر جديد إلى تدفق مستند تم فتحه بواسطة open. لاحظ أن هذه الدالة ستنتج مستندًا قد لا يكون مدفوعًا بDTD وبالتالي قد ينتج نتيجة غير صالحة في سياق المستند."
 type: docs
-weight: 1060
+weight: 1070
 url: /ar/net/aspose.svg.dom/document/writeln/
 ---
 ## Document.WriteLn method
 
-اكتب سلسلة نصية متبوعة بحرف سطر جديد إلى دفق document مفتوح بواسطة open (). لاحظ أن الوظيفة will تنتج مستندًا ليس بالضرورة مدفوعًا بـ DTD و لذلك قد ينتج نتيجة غير صالحة في سياق document
+اكتب سلسلة نصية متبوعة بحرف سطر جديد إلى تدفق المستند المفتوح بواسطة `open()`. لاحظ أن الدالة ستنتج مستندًا قد لا يكون مدفوعًا بملف تعريف النوع (DTD) وبالتالي قد ينتج نتيجة غير صالحة في سياق المستند.
 
 ```csharp
 public void WriteLn(params string[] texts)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| texts | String[] | السلسلة المراد تحليلها في بنية ما في نموذج بنية المستند . |
+| نصوص | String[] | السلسلة التي سيتم تحليلها إلى بعض البنية في نموذج هيكل المستند. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: ICSSMediaRule.CSSRules
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSMediaRule ملكية. قائمة بجميع قواعد CSS الموجودة في كتلة الوسائط.
+title: "ICSSMediaRule.CSSRules"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CSSRules في ICSSMediaRule. قائمة بجميع قواعد CSS الموجودة داخل كتلة الوسائط."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icssmediarule/cssrules/
 ---
 ## ICSSMediaRule.CSSRules property
 
-قائمة بجميع قواعد CSS الموجودة في كتلة الوسائط.
+قائمة بجميع قواعد CSS الموجودة داخل كتلة الوسائط.
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSMediaRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

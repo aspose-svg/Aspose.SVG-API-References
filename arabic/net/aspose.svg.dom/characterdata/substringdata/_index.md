@@ -1,32 +1,30 @@
 ---
-title: CharacterData.SubstringData
-second_title: Aspose.SVG لمرجع .NET API
-description: CharacterData طريقة. استخراج نطاق من البيانات من العقدة .
+title: "CharacterData.SubstringData"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CharacterData SubstringData. تستخرج نطاقًا من البيانات من العقدة"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom/characterdata/substringdata/
 ---
 ## CharacterData.SubstringData method
 
-استخراج نطاق من البيانات من العقدة .
+يستخرج نطاقًا من البيانات من العقدة.
 
 ```csharp
 public virtual string SubstringData(int offset, int count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | offset | Int32 | الإزاحة. |
-| count | Int32 | العد. |
+| count | Int32 | العدد. |
 
 ### قيمة الإرجاع
 
 بيانات النص
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CharacterData](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../characterdata/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: ResponseMessage.Cookies
-second_title: Aspose.SVG لمرجع .NET API
-description: ResponseMessage ملكية. الحصول على مجموعة ملفات تعريف الارتباط أو تعيينها.
+title: "ResponseMessage.Cookies"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ResponseMessage Cookies. تحصل أو تعين مجموعة الكوكيز"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.net/responsemessage/cookies/
 ---
 ## ResponseMessage.Cookies property
 
-الحصول على مجموعة ملفات تعريف الارتباط أو تعيينها.
+يحصل أو يضبط مجموعة ملفات تعريف الارتباط.
 
 ```csharp
 public CookieCollection Cookies { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResponseMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../responsemessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderBottomStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية نمط الحد السفلي في CSS2.
+title: "ICSS2Properties.BorderBottomStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية BorderBottomStyle في ICSS2Properties. راجع تعريف خاصية border-bottom-style في CSS2"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.dom.css/icss2properties/borderbottomstyle/
 ---
 ## ICSS2Properties.BorderBottomStyle property
 
-راجع تعريف خاصية نمط الحد السفلي في CSS2.
+انظر تعريف خاصية border-bottom-style في CSS2.
 
 ```csharp
 public string BorderBottomStyle { get; set; }
@@ -16,12 +16,10 @@ public string BorderBottomStyle { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية نمط الحد السفلي
+خاصية border-bottom-style
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

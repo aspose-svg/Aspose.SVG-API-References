@@ -1,23 +1,21 @@
 ---
-title: DOMNamedPropertyGetterAttribute.DOMNamedPropertyGetterAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMNamedPropertyGetterAttribute البناء. Default_Constructor
+title: "DOMNamedPropertyGetterAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMNamedPropertyGetterAttribute المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public DOMNamedPropertyGetterAttribute()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMNamedPropertyGetterAttribute](../)
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../domnamedpropertygetterattribute/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

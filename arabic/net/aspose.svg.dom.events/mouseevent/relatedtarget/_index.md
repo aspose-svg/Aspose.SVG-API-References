@@ -1,28 +1,26 @@
 ---
-title: MouseEvent.RelatedTarget
-second_title: Aspose.SVG لمرجع .NET API
-description: MouseEvent ملكية. يُستخدم لتحديد هدف EventTarget ثانوي مرتبط بحدث واجهة المستخدم  اعتمادًا على نوع الحدث.
+title: "MouseEvent.RelatedTarget"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MouseEvent RelatedTarget. تُستخدم لتحديد EventTarget ثانوي مرتبط بحدث واجهة المستخدم اعتمادًا على نوع الحدث"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.dom.events/mouseevent/relatedtarget/
 ---
 ## MouseEvent.RelatedTarget property
 
-يُستخدم لتحديد هدف EventTarget ثانوي مرتبط بحدث واجهة المستخدم ، اعتمادًا على نوع الحدث.
+يُستخدم لتحديد EventTarget ثانوي مرتبط بحدث واجهة المستخدم، اعتمادًا على نوع الحدث.
 
 ```csharp
 public EventTarget RelatedTarget { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الهدف المرتبط .
+الهدف المرتبط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [MouseEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../mouseevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: FileProtocolMessageHandler.FileProtocolMessageHandler
-second_title: Aspose.SVG لمرجع .NET API
-description: FileProtocolMessageHandler البناء. يقوم بتهيئة مثيل جديد لملفFileProtocolMessageHandler فئة .
+title: "FileProtocolMessageHandler"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ FileProtocolMessageHandler. يهيئ نسخة جديدة من فئة FileProtocolMessageHandler"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler constructor
 
-يقوم بتهيئة مثيل جديد لملف[`FileProtocolMessageHandler`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FileProtocolMessageHandler`](../).
 
 ```csharp
 public FileProtocolMessageHandler()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileProtocolMessageHandler](../)
-* مساحة الاسم [Aspose.Svg.Net.MessageHandlers](../../fileprotocolmessagehandler/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

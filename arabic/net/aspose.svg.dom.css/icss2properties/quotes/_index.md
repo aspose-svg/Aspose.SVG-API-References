@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Quotes
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية علامات الاقتباس في CSS2.
+title: "ICSS2Properties.Quotes"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Quotes في ICSS2Properties. راجع تعريف خاصية quotes في CSS2"
 type: docs
-weight: 960
+weight: 990
 url: /ar/net/aspose.svg.dom.css/icss2properties/quotes/
 ---
 ## ICSS2Properties.Quotes property
 
-راجع تعريف خاصية علامات الاقتباس في CSS2.
+انظر إلى تعريف الخاصية quotes في CSS2.
 
 ```csharp
 public string Quotes { get; set; }
@@ -16,12 +16,10 @@ public string Quotes { get; set; }
 
 ### قيمة الإرجاع
 
-يقتبس الملكية
+خاصية quotes
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

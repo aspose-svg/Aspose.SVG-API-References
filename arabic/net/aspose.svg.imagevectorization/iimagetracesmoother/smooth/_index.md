@@ -1,31 +1,29 @@
 ---
-title: IImageTraceSmoother.Smooth
-second_title: Aspose.SVG لمرجع .NET API
-description: IImageTraceSmoother طريقة. ينعم التتبع .
+title: "IImageTraceSmoother.Smooth"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IImageTraceSmoother Smooth. تُنعّم الأثر."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.imagevectorization/iimagetracesmoother/smooth/
 ---
 ## IImageTraceSmoother.Smooth method
 
-ينعم التتبع .
+ينعم الأثر.
 
 ```csharp
 public IEnumerable<PointF> Smooth(IEnumerable<PointF> trace)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| trace | IEnumerable`1 | قائمة نقاط التتبع. |
+| الأثر | IEnumerable`1 | قائمة نقاط الأثر. |
 
 ### قيمة الإرجاع
 
-قائمة نقاط التتبع المصقولة.
+قائمة نقاط الأثر المُنقَّاة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageTraceSmoother](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../iimagetracesmoother/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

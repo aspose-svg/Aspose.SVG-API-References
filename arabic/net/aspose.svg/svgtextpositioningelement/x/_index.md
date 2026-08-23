@@ -1,28 +1,26 @@
 ---
-title: SVGTextPositioningElement.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPositioningElement ملكية. يتوافق مع السمة x في العنصر المحدد.
+title: "SVGTextPositioningElement.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGTextPositioningElement X. تتطابق مع السمة x على العنصر المعطى."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgtextpositioningelement/x/
 ---
 ## SVGTextPositioningElement.X property
 
-يتوافق مع السمة "x" في العنصر المحدد.
+يتطابق مع السمة ‘x’ في العنصر المعطى.
 
 ```csharp
 public SVGAnimatedLengthList X { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "x" للعنصر المحدد .
+السمة ‘x’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLengthList](../../../aspose.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpositioningelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

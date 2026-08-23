@@ -1,28 +1,26 @@
 ---
-title: TimeEvent.View
-second_title: Aspose.SVG لمرجع .NET API
-description: TimeEvent ملكية. تحدد سمة العرض AbstractView DOM2VIEWS الذي تم إنشاء الحدث منه.
+title: "TimeEvent.View"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية View في TimeEvent. تحدد سمة view الـ AbstractView من DOM2VIEWS التي تم إنشاء الحدث منها."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.events/timeevent/view/
 ---
 ## TimeEvent.View property
 
-تحدد سمة العرض AbstractView [DOM2VIEWS] الذي تم إنشاء الحدث منه.
+تحدد سمة view الـ AbstractView [DOM2VIEWS] التي تم إنشاء الحدث منها.
 
 ```csharp
 public IAbstractView View { get; }
 ```
 
-### Property_Value
+### Property Value
 
-العرض الحالي .
+العرض الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAbstractView](../../../aspose.svg.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* مساحة الاسم [Aspose.Svg.Events](../../timeevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

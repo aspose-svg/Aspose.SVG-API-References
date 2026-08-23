@@ -1,14 +1,14 @@
 ---
-title: Class CssOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.CssOptions فصل. يمثل خيارات عرض css .
+title: "فئة CssOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Rendering.CssOptions. تمثل خيارات عرض CSS."
 type: docs
-weight: 2720
+weight: 4800
 url: /ar/net/aspose.svg.rendering/cssoptions/
 ---
 ## CssOptions class
 
-يمثل خيارات عرض css .
+يمثل خيارات عرض css.
 
 ```csharp
 public class CssOptions
@@ -16,13 +16,11 @@ public class CssOptions
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype/) { get; set; } | يحصل أو يحدد[`MediaType`](../mediatype/) والتي سيتم استخدامها لحل استفسارات الوسائط أثناء التقديم. القيمة الافتراضية هي`مطبعة` . |
+| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype/) { get; set; } | يحصل أو يضبط [`MediaType`](../mediatype/) الذي سيُستخدم لحل استعلامات الوسائط أثناء العرض. القيمة الافتراضية هي `Print`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

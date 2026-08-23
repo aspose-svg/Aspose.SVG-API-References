@@ -1,20 +1,20 @@
 ---
-title: SVGListBase1.Initialize
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGListBase طريقة. مسح كافة العناصر الحالية الموجودة من القائمة وإعادة تهيئة القائمة للاحتفاظ بالعنصر الفردي المحدد بواسطة المعلمة.
+title: "SVGListBase-1.Initialize"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Initialize في SVGListBase. تمسح جميع العناصر الحالية الموجودة في القائمة وتعيد تهيئة القائمة لتحتوي على العنصر الوحيد المحدد بواسطة المعامل"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.collections/svglistbase-1/initialize/
 ---
-## SVGListBase&lt;T&gt;.Initialize method
+## SVGListBase<T>.Initialize method
 
-مسح كافة العناصر الحالية الموجودة من القائمة وإعادة تهيئة القائمة للاحتفاظ بالعنصر الفردي المحدد بواسطة المعلمة.
+يمسح جميع العناصر الحالية الموجودة في القائمة ويعيد تهيئة القائمة لتحتوي على العنصر الوحيد المحدد بواسطة المعامل.
 
 ```csharp
 public T Initialize(T newItem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newItem | T | العنصر الذي يجب أن يصبح العضو الوحيد في القائمة. |
 
@@ -24,14 +24,12 @@ public T Initialize(T newItem)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | شفرة[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). تُثار عندما لا يمكن تعديل القائمة. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُرفع عندما لا يمكن تعديل القائمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGListBase&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../svglistbase-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_NORMAL
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEBlendElement مجال. يتوافق مع القيمة عادي .
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_NORMAL"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FEBLEND_MODE_NORMAL في SVGFEBlendElement. يتطابق مع القيمة normal"
 type: docs
 weight: 200
 url: /ar/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_normal/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_NORMAL field
 
-يتوافق مع القيمة "عادي" .
+يتطابق مع القيمة 'normal'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_NORMAL;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEBlendElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeblendelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

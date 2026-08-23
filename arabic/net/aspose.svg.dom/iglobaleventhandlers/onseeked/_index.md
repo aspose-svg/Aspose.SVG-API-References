@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnSeeked
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnSeeked أو تعيينه.
+title: "IGlobalEventHandlers.OnSeeked"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnSeeked حدث. يحصل أو يضبط معالج الحدث لـ OnSeeked حدث"
 type: docs
 weight: 400
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onseeked/
 ---
 ## IGlobalEventHandlers.OnSeeked event
 
-الحصول على معالج الحدث لحدث OnSeeked أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnSeeked.
 
 ```csharp
 public event DOMEventHandler OnSeeked;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

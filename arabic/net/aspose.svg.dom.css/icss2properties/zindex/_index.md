@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.ZIndex
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية zindex في CSS2.
+title: "ICSS2Properties.ZIndex"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ZIndex في ICSS2Properties. راجع تعريف خاصية z-index في CSS2"
 type: docs
-weight: 1220
+weight: 1250
 url: /ar/net/aspose.svg.dom.css/icss2properties/zindex/
 ---
 ## ICSS2Properties.ZIndex property
 
-راجع تعريف خاصية z-index في CSS2.
+انظر تعريف خاصية z-index في CSS2.
 
 ```csharp
 public string ZIndex { get; set; }
@@ -18,10 +18,8 @@ public string ZIndex { get; set; }
 
 خاصية z-index
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

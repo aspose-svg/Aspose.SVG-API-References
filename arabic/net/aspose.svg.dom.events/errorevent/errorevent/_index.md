@@ -1,47 +1,45 @@
 ---
-title: ErrorEvent.ErrorEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: ErrorEvent البناء. يقوم بتهيئة مثيل جديد لملفErrorEvent فئة .
+title: "ErrorEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ErrorEvent. يهيئ مثيلاً جديداً من فئة ErrorEvent"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent(Exception) {#constructor_1}
+## ErrorEvent(*Exception*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ErrorEvent`](../) فئة .
+يُهيئ مثيلاً جديداً من فئة [`ErrorEvent`](../).
 
 ```csharp
 public ErrorEvent(Exception exception)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| exception | Exception | الاستثناء. |
+| استثناء | استثناء | الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ErrorEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../errorevent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
+## ErrorEvent(*IDictionary&lt;string, object&gt;*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ErrorEvent`](../) فئة .
+يُهيئ مثيلاً جديداً من فئة [`ErrorEvent`](../).
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | eventInitDict | IDictionary`2 | كائن تهيئة الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ErrorEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../errorevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

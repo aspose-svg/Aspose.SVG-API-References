@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.ShiftKey
-second_title: Aspose.SVG لمرجع .NET API
-description: KeyboardEvent ملكية. صحيح إذا كان معدِّل مفتاح Shift Shift نشطًا.
+title: "KeyboardEvent.ShiftKey"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية KeyboardEvent ShiftKey. true إذا كان معدل مفتاح Shift نشط"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.dom.events/keyboardevent/shiftkey/
 ---
 ## KeyboardEvent.ShiftKey property
 
-صحيح إذا كان معدِّل مفتاح Shift (Shift) نشطًا.
+true إذا كان معدل تعديل المفتاح shift (Shift) نشط.
 
 ```csharp
 public bool ShiftKey { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان التحول خلاف ذلك،`خطأ شنيع` .
+`true` إذا Shift؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KeyboardEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

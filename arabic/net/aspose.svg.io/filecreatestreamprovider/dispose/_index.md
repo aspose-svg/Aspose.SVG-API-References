@@ -1,23 +1,21 @@
 ---
-title: FileCreateStreamProvider.Dispose
-second_title: Aspose.SVG لمرجع .NET API
-description: FileCreateStreamProvider طريقة. تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها.
+title: "FileCreateStreamProvider.Dispose"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Dispose في FileCreateStreamProvider. تنفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.io/filecreatestreamprovider/dispose/
 ---
 ## FileCreateStreamProvider.Dispose method
 
-تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها.
+ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة.
 
 ```csharp
 public void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

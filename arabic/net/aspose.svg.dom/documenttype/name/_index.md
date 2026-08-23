@@ -1,27 +1,25 @@
 ---
-title: DocumentType.Name
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentType ملكية. اسم DTD  على سبيل المثال  الاسم الذي يلي الكلمة الأساسية DOCTYPE مباشرة.
+title: "DocumentType.Name"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DocumentType Name. اسم DTD أي الاسم الذي يلي مباشرة كلمة DOCTYPE"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom/documenttype/name/
 ---
 ## DocumentType.Name property
 
-اسم DTD ؛ على سبيل المثال ، الاسم الذي يلي الكلمة الأساسية DOCTYPE مباشرة.
+اسم DTD؛ أي الاسم الذي يلي مباشرة كلمة DOCTYPE.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم العقدة .
+اسم العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentType](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documenttype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

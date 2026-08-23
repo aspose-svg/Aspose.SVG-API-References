@@ -1,23 +1,21 @@
 ---
-title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_UNKNOWN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement مجال. النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+title: "SVGFEConvolveMatrixElement.SVG_EDGEMODE_UNKNOWN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_EDGEMODE_UNKNOWN لـ SVGFEConvolveMatrixElement. النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع"
 type: docs
 weight: 200
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_unknown/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_UNKNOWN field
 
-النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع.
 
 ```csharp
 public const ushort SVG_EDGEMODE_UNKNOWN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

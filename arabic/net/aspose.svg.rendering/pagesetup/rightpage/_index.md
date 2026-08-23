@@ -1,24 +1,22 @@
 ---
-title: PageSetup.RightPage
-second_title: Aspose.SVG لمرجع .NET API
-description: PageSetup ملكية. الحصول على تكوين الصفحات الزوجية .
+title: "PageSetup.RightPage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PageSetup RightPage. الحصول على تكوين الصفحة الزوجية"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.rendering/pagesetup/rightpage/
 ---
 ## PageSetup.RightPage property
 
-الحصول على تكوين الصفحات الزوجية .
+يحصل على تكوين الصفحة الزوجية.
 
 ```csharp
 public Page RightPage { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../pagesetup/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

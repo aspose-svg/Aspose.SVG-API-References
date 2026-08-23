@@ -1,14 +1,14 @@
 ---
-title: Interface ITransformableBrush
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.ITransformableBrush واجهه المستخدم. وصف طرق الحصول على مصفوفة التحويل ووضع الالتفاف.
+title: "ITransformableBrush Interface"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Drawing.ITransformableBrush interface. يعلن عن طرق للحصول على مصفوفة التحويل ووضع الالتفاف"
 type: docs
-weight: 1500
+weight: 3530
 url: /ar/net/aspose.svg.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface
 
-وصف طرق الحصول على مصفوفة التحويل ووضع الالتفاف.
+يعلن عن طرق للحصول على مصفوفة التحويل ووضع الالتفاف.
 
 ```csharp
 public interface ITransformableBrush : IBrush
@@ -16,15 +16,13 @@ public interface ITransformableBrush : IBrush
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; } | احصل على التحويل. يحدد التحويل تحويلًا هندسيًا محليًا لهذه الفرشاة. |
-| [WrapMode](../../aspose.svg.drawing/itransformablebrush/wrapmode/) { get; } | الحصول على أو تحديد وضع الالتفاف. يحدد وضع الالتفاف كيفية تجانب النسيج أو التدرج اللوني عندما يكون أصغر من المساحة التي يتم ملؤها. |
+| [SpreadMode](../../aspose.svg.drawing/itransformablebrush/spreadmode/) { get; set; } | يحصل أو يعيّن وضع SpreadMode. وضع SpreadMode يحدد كيفية تجانب النسيج أو التدرج عندما يكون أصغر من المنطقة التي يتم تعبئتها. |
+| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; set; } | احصل على التحويل. التحويل يحدد تحويلًا هندسيًا محليًا لهذه الفرشاة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IBrush](../ibrush/)
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

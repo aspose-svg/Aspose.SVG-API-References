@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.GraphicContext
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext البناء. يقوم بتهيئة مثيل جديد لملفGraphicContext فئة .
+title: "GraphicContext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ GraphicContext. يهيئ نسخة جديدة من فئة GraphicContext"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering/graphiccontext/graphiccontext/
 ---
 ## GraphicContext constructor
 
-يقوم بتهيئة مثيل جديد لملف[`GraphicContext`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`GraphicContext`](../).
 
 ```csharp
 public GraphicContext()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

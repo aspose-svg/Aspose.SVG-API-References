@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.MetaKey
-second_title: Aspose.SVG لمرجع .NET API
-description: KeyboardEvent ملكية. صحيح إذا كان معدِّل مفتاح التعريف Meta نشطًا.
+title: "KeyboardEvent.MetaKey"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية KeyboardEvent MetaKey. true إذا كان معدل مفتاح Meta نشط"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.events/keyboardevent/metakey/
 ---
 ## KeyboardEvent.MetaKey property
 
-صحيح إذا كان معدِّل مفتاح التعريف (Meta) نشطًا.
+true إذا كان معدل تعديل المفتاح meta (Meta) نشط.
 
 ```csharp
 public bool MetaKey { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا ميتا خلاف ذلك،`خطأ شنيع` .
+`true` إذا Meta؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KeyboardEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

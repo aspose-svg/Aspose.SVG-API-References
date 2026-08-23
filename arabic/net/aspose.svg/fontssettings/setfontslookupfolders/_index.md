@@ -1,48 +1,46 @@
 ---
-title: FontsSettings.SetFontsLookupFolders
-second_title: Aspose.SVG لمرجع .NET API
-description: FontsSettings طريقة. يحدد مصفوفة من المجلدات المستخدمة أثناء اختيار الخطوط.
+title: "FontsSettings.SetFontsLookupFolders"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة FontsSettings SetFontsLookupFolders. تعيين مصفوفة من المجلدات المستخدمة أثناء اختيار الخطوط"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/fontssettings/setfontslookupfolders/
 ---
-## SetFontsLookupFolders(string[]) {#setfontslookupfolders}
+## SetFontsLookupFolders(*string[]*) {#setfontslookupfolders}
 
-يحدد مصفوفة من المجلدات المستخدمة أثناء اختيار الخطوط.
+يضبط مصفوفة من المجلدات المستخدمة أثناء اختيار الخطوط.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontsFolders | String[] | مجلدات الخطوط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontsSettings](../)
-* مساحة الاسم [Aspose.Svg](../../fontssettings/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolders(string[], bool) {#setfontslookupfolders_1}
+## SetFontsLookupFolders(*string[], bool*) {#setfontslookupfolders_1}
 
-يحدد مصفوفة من المجلدات المستخدمة أثناء اختيار الخطوط.
+يضبط مصفوفة من المجلدات المستخدمة أثناء اختيار الخطوط.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontsFolders | String[] | مجلدات الخطوط. |
-| recursive | Boolean | إذا تم التعيين على`حقيقي` سيتم استخدام كافة الدلائل المتداخلة. القيمة الافتراضية هي`خطأ شنيع`. |
+| recursive | Boolean | إذا تم تعيينه إلى `true` فستُستخدم جميع الأدلة المتداخلة. القيمة الافتراضية هي `false`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontsSettings](../)
-* مساحة الاسم [Aspose.Svg](../../fontssettings/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGLineElement.X1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLineElement ملكية. يتوافق مع السمة x1 في عنصر السطر المحدد .
+title: "SVGLineElement.X1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGLineElement X1. تتطابق مع السمة x1 على عنصر الخط المعطى."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svglineelement/x1/
 ---
 ## SVGLineElement.X1 property
 
-يتوافق مع السمة "x1" في عنصر "السطر" المحدد .
+يتطابق مع السمة ‘x1’ في عنصر ‘line’ المعطى.
 
 ```csharp
 public SVGAnimatedLength X1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "x1" لعنصر "السطر" المحدد .
+السمة ‘x1’ للعنصر ‘line’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* مساحة الاسم [Aspose.Svg](../../svglineelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,89 +1,87 @@
 ---
-title: IDocumentTraversal.CreateTreeWalker
-second_title: Aspose.SVG لمرجع .NET API
-description: IDocumentTraversal طريقة. قم بإنشاء TreeWalker جديد فوق الشجرة الفرعية التي تم تحديد جذرها في العقدة المحددة.
+title: "IDocumentTraversal.CreateTreeWalker"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDocumentTraversal CreateTreeWalker. أنشئ TreeWalker جديدًا على الشجرة الفرعية التي جذورها العقدة المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.traversal/idocumenttraversal/createtreewalker/
 ---
-## CreateTreeWalker(Node) {#createtreewalker}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/)*) {#createtreewalker}
 
-قم بإنشاء TreeWalker جديد فوق الشجرة الفرعية التي تم تحديد جذرها في العقدة المحددة.
+إنشاء TreeWalker جديد فوق الشجرة الفرعية المتجذرة في العقدة المحددة.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| root | Node | العقدة التي ستعمل كجذر لـ the TreeWalker. لا تؤخذ إشارات whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة ؛ سيتم قبول أي نوع عقدة كجذر. تم تهيئة العقدة الحالية لـ TreeWalker إلى هذه العقدة ، سواء كانت مرئية أم لا. يعمل the root كنقطة توقف لطرق traversal التي تنظر إلى الأعلى في بنية المستند ، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا. |
+| root | Node | العقدة التي ستعمل كجذر لـ TreeWalker. لا يتم أخذ أعلام whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة؛ سيتم قبول أي نوع عقدة كجذر. يتم تهيئة currentNode الخاص بـ TreeWalker إلى هذه العقدة، سواء كانت مرئية أم لا. يعمل الجذر كنقطة توقف لطرق التجوال التي تنظر إلى الأعلى في بنية المستند، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا (null). |
 
 ### قيمة الإرجاع
 
-برنامج TreeWalker الذي تم إنشاؤه حديثًا .
+TreeWalker الذي تم إنشاؤه حديثًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long) {#createtreewalker_1}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long*) {#createtreewalker_1}
 
-قم بإنشاء TreeWalker جديد فوق الشجرة الفرعية التي تم تحديد جذرها في العقدة المحددة.
+إنشاء TreeWalker جديد فوق الشجرة الفرعية المتجذرة في العقدة المحددة.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| root | Node | العقدة التي ستعمل كجذر لـ the TreeWalker. لا تؤخذ إشارات whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة ؛ سيتم قبول أي نوع عقدة كجذر. تم تهيئة العقدة الحالية لـ TreeWalker إلى هذه العقدة ، سواء كانت مرئية أم لا. يعمل the root كنقطة توقف لطرق traversal التي تنظر إلى الأعلى في بنية المستند ، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا. |
-| whatToShow | Int64 | تحدد العلامة أنواع العقدة التي قد تظهر في العرض المنطقي للشجرة الذي يقدمه ممر الشجرة. راجع وصف لـ NodeFilter لمجموعة من القيم الممكنة SHOW_ يمكن دمج هذه العلامات باستخدام OR. |
+| root | Node | العقدة التي ستعمل كجذر لـ TreeWalker. لا يتم أخذ أعلام whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة؛ سيتم قبول أي نوع عقدة كجذر. يتم تهيئة currentNode الخاص بـ TreeWalker إلى هذه العقدة، سواء كانت مرئية أم لا. يعمل الجذر كنقطة توقف لطرق التجوال التي تنظر إلى الأعلى في بنية المستند، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا (null). |
+| whatToShow | Int64 | العلم يحدد أنواع العقد التي قد تظهر في العرض المنطقي للشجرة التي يقدمها الـ tree-walker. راجع وصف NodeFilter للحصول على مجموعة القيم الممكنة لـ SHOW_. يمكن دمج هذه العلامات باستخدام OR. |
 
 ### قيمة الإرجاع
 
-برنامج TreeWalker الذي تم إنشاؤه حديثًا .
+TreeWalker الذي تم إنشاؤه حديثًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long, [INodeFilter](../../inodefilter/)*) {#createtreewalker_2}
 
-قم بإنشاء TreeWalker جديد فوق الشجرة الفرعية التي تم تحديد جذرها في العقدة المحددة.
+إنشاء TreeWalker جديد فوق الشجرة الفرعية المتجذرة في العقدة المحددة.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| root | Node | العقدة التي ستعمل كجذر لـ the TreeWalker. لا تؤخذ إشارات whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة ؛ سيتم قبول أي نوع عقدة كجذر. تم تهيئة العقدة الحالية لـ TreeWalker إلى هذه العقدة ، سواء كانت مرئية أم لا. يعمل the root كنقطة توقف لطرق traversal التي تنظر إلى الأعلى في بنية المستند ، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا. |
-| whatToShow | Int64 | تحدد العلامة أنواع العقدة التي قد تظهر في العرض المنطقي للشجرة الذي يقدمه ممر الشجرة. راجع وصف لـ NodeFilter لمجموعة من القيم الممكنة SHOW_ يمكن دمج هذه العلامات باستخدام OR. |
-| filter | INodeFilter | NodeFilter للاستخدام مع this TreeWalker ، أو null للإشارة إلى عدم وجود عامل تصفية. |
+| root | Node | العقدة التي ستعمل كجذر لـ TreeWalker. لا يتم أخذ أعلام whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة؛ سيتم قبول أي نوع عقدة كجذر. يتم تهيئة currentNode الخاص بـ TreeWalker إلى هذه العقدة، سواء كانت مرئية أم لا. يعمل الجذر كنقطة توقف لطرق التجوال التي تنظر إلى الأعلى في بنية المستند، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا (null). |
+| whatToShow | Int64 | العلم يحدد أنواع العقد التي قد تظهر في العرض المنطقي للشجرة التي يقدمها الـ tree-walker. راجع وصف NodeFilter للحصول على مجموعة القيم الممكنة لـ SHOW_. يمكن دمج هذه العلامات باستخدام OR. |
+| filter | INodeFilter | NodeFilter لاستخدامه مع هذا TreeWalker، أو null للإشارة إلى عدم وجود مرشح. |
 
 ### قيمة الإرجاع
 
-برنامج TreeWalker الذي تم إنشاؤه حديثًا .
+TreeWalker الذي تم إنشاؤه حديثًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

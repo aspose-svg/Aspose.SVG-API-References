@@ -1,38 +1,36 @@
 ---
-title: NamedNodeMap.SetNamedItemNS
-second_title: Aspose.SVG لمرجع .NET API
-description: NamedNodeMap طريقة. يضيف عقدة باستخدام مساحة الاسم الخاصة بها UURI و localName. إذا كانت العقدة ذات مساحة الاسم URI وهذا الاسم المحلي موجودة بالفعل في هذه الخريطة  فسيتم استبدالها بالاسم الجديد. استبدال العقدة في حد ذاته ليس له أي تأثير.
+title: "NamedNodeMap.SetNamedItemNS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SetNamedItemNS في NamedNodeMap. تضيف عقدة باستخدام خاصيتي namespaceURI و localName. إذا كانت هناك عقدة بهذا الـ namespaceURI والاسم المحلي موجودة بالفعل في هذه الخريطة، يتم استبدالها بالعقدة الجديدة. استبدال عقدة بنفسها لا يؤثر."
 type: docs
-weight: 90
+weight: 80
 url: /ar/net/aspose.svg.collections/namednodemap/setnameditemns/
 ---
 ## NamedNodeMap.SetNamedItemNS method
 
-يضيف عقدة باستخدام مساحة الاسم الخاصة بها UURI و localName. إذا كانت العقدة ذات مساحة الاسم URI وهذا الاسم المحلي موجودة بالفعل في هذه الخريطة ، فسيتم استبدالها بالاسم الجديد. استبدال العقدة في حد ذاته ليس له أي تأثير.
+يضيف عقدة باستخدام خاصيتي namespaceURI و localName. إذا كانت هناك عقدة بهذا الـ namespace URI وهذا الاسم المحلي موجودة بالفعل في هذه الخريطة، يتم استبدالها بالعقدة الجديدة. استبدال عقدة بنفسها لا يؤثر.
 
 ```csharp
 public Attr SetNamedItemNS(Attr attr)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attr | Attr | السمة. |
+| attr | Attr | الخاصية. |
 
 ### قيمة الإرجاع
 
-إرجاع العقدة .
+يرجع العقدة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../namednodemap/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

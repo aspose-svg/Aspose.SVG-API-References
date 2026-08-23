@@ -1,14 +1,14 @@
 ---
-title: Color.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع سلسلة تتكون من قيم مكون RGBA.
+title: "Color.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color ToString. تُرجع سلسلة تتكوّن من قيم مكوّنات RGBA."
 type: docs
 weight: 430
 url: /ar/net/aspose.svg.drawing/color/tostring/
 ---
 ## Color.ToString method
 
-إرجاع سلسلة تتكون من قيم مكون RGBA.
+يعيد سلسلة تتكون من قيم مكونات RGBA.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة يمكن للبشر قراءتها.
+سلسلة قابلة للقراءة من قبل الإنسان.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

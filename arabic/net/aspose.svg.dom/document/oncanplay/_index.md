@@ -1,24 +1,22 @@
 ---
-title: Document.OnCanplay
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث أو تعيينه لحدث OnCanplay.
+title: "Document.OnCanplay"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnCanplay. يحصل أو يعيّن معالج الحدث لحدث OnCanplay"
 type: docs
 weight: 310
 url: /ar/net/aspose.svg.dom/document/oncanplay/
 ---
 ## Document.OnCanplay event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnCanplay.
+يحصل أو يضبط معالج الحدث لحدث OnCanplay.
 
 ```csharp
 public event DOMEventHandler OnCanplay;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

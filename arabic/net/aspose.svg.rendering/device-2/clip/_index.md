@@ -1,27 +1,26 @@
 ---
-title: Device2.Clip
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يعدل مسار القطع الحالي عن طريق تقاطعه مع المسار الحالي  باستخدام قاعدة FillMode لتحديد المنطقة المراد تعبئتها. تنهي هذه الطريقة المسار الحالي.
+title: "Device-2.Clip"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device Clip. تعدل مسار القص الحالي عن طريق تقاطعه مع المسار الحالي باستخدام FillRule لتحديد المنطقة التي يجب تعبئتها. هذه الطريقة تنهي المسار الحالي"
 type: docs
-weight: 70
+weight: 100
 url: /ar/net/aspose.svg.rendering/device-2/clip/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Clip method
+## Device<TGraphicContext,TRenderingOptions>.Clip method
 
-يعدل مسار القطع الحالي عن طريق تقاطعه مع المسار الحالي ، باستخدام قاعدة FillMode لتحديد المنطقة المراد تعبئتها. تنهي هذه الطريقة المسار الحالي.
+يعدّل مسار القص الحالي عن طريق تقاطعه مع المسار الحالي، باستخدام FillRule لتحديد المنطقة التي يجب ملؤها. تنهي هذه الطريقة المسار الحالي.
 
 ```csharp
-public abstract void Clip(FillMode mode)
+public virtual void Clip(FillRule rule)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| mode | FillMode | يحدد وضع التعبئة كيفية اقتصاص الجزء الداخلي من المسار المغلق |
+| قاعدة | FillRule | قاعدة التعبئة تحدد كيفية قص داخل مسار مغلق |
 
-### أنظر أيضا
+### انظر أيضًا
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

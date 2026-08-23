@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.In1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDisplacementMapElement ملكية. يتوافق مع السمة in في عنصر feDisplacementMap المحدد .
+title: "SVGFEDisplacementMapElement.In1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية In1 لـ SVGFEDisplacementMapElement. تتطابق مع السمة in في العنصر feDisplacementMap المعطى."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.filters/svgfedisplacementmapelement/in1/
 ---
 ## SVGFEDisplacementMapElement.In1 property
 
-يتوافق مع السمة "in" في عنصر "feDisplacementMap" المحدد .
+يتطابق مع السمة ‘in’ في العنصر ‘feDisplacementMap’ المحدد.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "في" لعنصر "feDisplacementMap" المحدد .
+السمة ‘in’ للعنصر ‘feDisplacementMap’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDisplacementMapElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

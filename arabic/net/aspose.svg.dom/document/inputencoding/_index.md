@@ -1,27 +1,25 @@
 ---
-title: Document.InputEncoding
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. الحصول على ترميز المستند.
+title: "Document.InputEncoding"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document InputEncoding. تحصل على ترميز المستند."
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.dom/document/inputencoding/
 ---
 ## Document.InputEncoding property
 
-الحصول على ترميز المستند.
+يحصل على ترميز المستند.
 
 ```csharp
 public string InputEncoding { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ترميز المستند .
+ترميز المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

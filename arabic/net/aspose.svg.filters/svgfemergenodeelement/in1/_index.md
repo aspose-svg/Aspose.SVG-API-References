@@ -1,28 +1,26 @@
 ---
-title: SVGFEMergeNodeElement.In1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEMergeNodeElement ملكية. يتوافق مع السمة في في عنصر feMergeNode المحدد .
+title: "SVGFEMergeNodeElement.In1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية In1 في SVGFEMergeNodeElement. تتطابق مع السمة in في عنصر feMergeNode المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.filters/svgfemergenodeelement/in1/
 ---
 ## SVGFEMergeNodeElement.In1 property
 
-يتوافق مع السمة "في" في عنصر "feMergeNode" المحدد .
+يتطابق مع السمة ‘in’ على العنصر ‘feMergeNode’ المعطى.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "في" لعنصر "feMergeNode" المحدد .
+السمة ‘in’ للعنصر ‘feMergeNode’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEMergeNodeElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfemergenodeelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

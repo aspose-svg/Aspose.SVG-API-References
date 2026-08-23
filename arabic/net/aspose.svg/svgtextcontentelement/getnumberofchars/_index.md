@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.GetNumberOfChars
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextContentElement طريقة. إرجاع العدد الإجمالي للأحرف المتاحة للعرض داخل العنصر الحالي  والذي يتضمن الأحرف المشار إليها من مرجع tref  بغض النظر عما إذا كان سيتم تقديمها أم لا. على نحو فعال  هذا يعادل طول سمة Node  textContent من DOM Level 3 Core DOM3  القسم 1.4  إذا وسعت هذه السمة أيضًا عناصر tref.
+title: "SVGTextContentElement.GetNumberOfChars"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGTextContentElement GetNumberOfChars. تُرجع العدد الكلي للأحرف المتاحة للرسم داخل العنصر الحالي، بما يشمل الأحرف المشار إليها من مرجع tref بغض النظر عما إذا كانت ستُرسم أم لا. عملياً، هذا يعادل طول السمة NodetextContent من DOM Level 3 Core (قسم DOM3 الفقرة 1.4) إذا كانت تلك السمة توسّع أيضاً عناصر tref."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgtextcontentelement/getnumberofchars/
 ---
 ## SVGTextContentElement.GetNumberOfChars method
 
-إرجاع العدد الإجمالي للأحرف المتاحة للعرض داخل العنصر الحالي ، والذي يتضمن الأحرف المشار إليها من مرجع "tref" ، بغض النظر عما إذا كان سيتم تقديمها أم لا. على نحو فعال ، هذا يعادل طول سمة Node :: textContent من DOM Level 3 Core ([DOM3] ، القسم 1.4) ، إذا وسعت هذه السمة أيضًا عناصر 'tref'.
+يعيد العدد الكلي للأحرف المتاحة للعرض داخل العنصر الحالي، بما يشمل الأحرف المشار إليها من مرجع ‘tref’، بغض النظر عما إذا كانت ستُعرض أم لا. عمليًا، هذا يعادل طول السمة Node::textContent من DOM Level 3 Core ([DOM3]، القسم 1.4)، إذا كانت تلك السمة توسّعت أيضًا لتشمل عناصر ‘tref’.
 
 ```csharp
 public long GetNumberOfChars()
@@ -16,12 +16,10 @@ public long GetNumberOfChars()
 
 ### قيمة الإرجاع
 
-العدد الإجمالي للأحرف.
+إجمالي عدد الأحرف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextContentElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextcontentelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

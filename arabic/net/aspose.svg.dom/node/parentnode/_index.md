@@ -1,23 +1,33 @@
 ---
-title: Node.ParentNode
-second_title: Aspose.SVG لمرجع .NET API
-description: Node ملكية. أصل هذه العقدة. قد يكون لجميع العقد  باستثناء Attr و Document و DocumentFragment و Entity و Notation  أصل. ومع ذلك  إذا تم إنشاء عقدة للتو ولم تتم إضافتها بعد إلى الشجرة  أو إذا تمت إزالتها من الشجرة  فسيكون ذلك فارغًا.
+title: "Node.ParentNode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Node ParentNode. تُرجع الأب للعقدة المحددة في شجرة DOM."
 type: docs
-weight: 140
+weight: 130
 url: /ar/net/aspose.svg.dom/node/parentnode/
 ---
 ## Node.ParentNode property
 
-أصل هذه العقدة. قد يكون لجميع العقد ، باستثناء Attr و Document و DocumentFragment و Entity و Notation ، أصل. ومع ذلك ، إذا تم إنشاء عقدة للتو ولم تتم إضافتها بعد إلى الشجرة ، أو إذا تمت إزالتها من الشجرة ، فسيكون ذلك فارغًا.
+يعيد أب العقدة المحددة في شجرة DOM.
+
+[`Document`](../../document/) and [`DocumentFragment`](../../documentfragment/) nodes can never have a parent, so ParentNode will always return null. It also returns null if the node has just been created and is not yet attached to the tree.
 
 ```csharp
 public Node ParentNode { get; }
 ```
 
-### أنظر أيضا
+### Property Value
+
+عقدة Node هي الأب للعقدة الحالية. أب العنصر هو عقدة [`Element`](../../element/)، أو عقدة [`Document`](../../document/)، أو عقدة [`DocumentFragment`](../../documentfragment/).
+
+## ملاحظات
+
+المرجع:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-parentnode).
+
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

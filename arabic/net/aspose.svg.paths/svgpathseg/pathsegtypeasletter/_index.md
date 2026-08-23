@@ -1,27 +1,25 @@
 ---
-title: SVGPathSeg.PathSegTypeAsLetter
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg ملكية. نوع مقطع المسار المحدد بواسطة اسم الأمر المقابل المكون من حرف واحد.
+title: "SVGPathSeg.PathSegTypeAsLetter"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSeg PathSegTypeAsLetter. نوع مقطع المسار المحدد باسم الأمر المكوّن من حرف واحد المقابل"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.paths/svgpathseg/pathsegtypeasletter/
 ---
 ## SVGPathSeg.PathSegTypeAsLetter property
 
-نوع مقطع المسار المحدد بواسطة اسم الأمر المقابل المكون من حرف واحد.
+نوع مقطع المسار، المحدد باسم الأمر المكوّن من حرف واحد المقابل.
 
 ```csharp
 public string PathSegTypeAsLetter { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع مقطع المسار .
+نوع مقطع المسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

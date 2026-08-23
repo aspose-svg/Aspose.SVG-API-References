@@ -1,29 +1,27 @@
 ---
-title: Delegate MutationCallback
-second_title: Aspose.SVG لمرجع .NET API
-description: يمثل الطريقة التي ستتعامل مع أحداث الطفرة.
+title: "المندوب MutationCallback"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "يمثل الطريقة التي ستتعامل مع أحداث التحول."
 type: docs
-weight: 1110
+weight: 3100
 url: /ar/net/aspose.svg.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate
 
-يمثل الطريقة التي ستتعامل مع أحداث الطفرة.
+يمثل الطريقة التي ستتعامل مع أحداث التحول.
 
 ```csharp
 public delegate void MutationCallback(IList<MutationRecord> mutations, MutationObserver observer);
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| mutations | IList`1 | قائمة سجلات الطفرات. |
-| observer | MutationObserver | مراقب الطفرة. |
+| التحولات | IList`1 | قائمة سجلات التحول. |
+| المراقب | MutationObserver | مراقب التحول. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationRecord](../mutationrecord/)
 * class [MutationObserver](../mutationobserver/)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

@@ -1,39 +1,37 @@
 ---
-title: Resolution.op_GreaterThanOrEqual
-second_title: Aspose.SVG لمرجع .NET API
-description: Resolution طريقة. تنفيذ عامل التشغيل  .
+title: "Resolution.op_GreaterThanOrEqual"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Resolution op_GreaterThanOrEqual. تنفذ العامل"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.drawing/resolution/op_greaterthanorequal/
 ---
 ## Resolution GreaterThanOrEqual operator
 
-تنفيذ عامل التشغيل&gt; = .
+ينفّذ العامل &gt;=.
 
 ```csharp
 public static bool operator >=(Resolution a, Resolution b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Resolution | المعلمة أ. |
-| b | Resolution | المعلمة ب. |
+| a | Resolution | المعامل a. |
+| b | Resolution | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | الحجج لها أنواع مختلفة |
-| ArgumentNullException | الحجة لاغية |
+| ArgumentException | الوسائط لها أنواع مختلفة |
+| ArgumentNullException | الوسيط فارغ |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Resolution](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../resolution/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

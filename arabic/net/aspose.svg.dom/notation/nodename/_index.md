@@ -1,27 +1,25 @@
 ---
-title: Notation.NodeName
-second_title: Aspose.SVG لمرجع .NET API
-description: Notation ملكية. اسم هذه العقدة حسب نوعها.
+title: "Notation.NodeName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Notation NodeName. اسم هذه العقدة حسب نوعها"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/notation/nodename/
 ---
 ## Notation.NodeName property
 
-اسم هذه العقدة حسب نوعها.
+اسم هذه العقدة، حسب نوعها.
 
 ```csharp
 public override string NodeName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم العقدة .
+اسم العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Notation](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../notation/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

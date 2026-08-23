@@ -1,27 +1,25 @@
 ---
-title: ContentDispositionHeaderValue.ContentDispositionHeaderValue
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentDispositionHeaderValue البناء. قم بإنشاء مثيل جديد من نوع الترتيب هذا.
+title: "ContentDispositionHeaderValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ContentDispositionHeaderValue. أنشئ مثيلة جديدة من هذا النوع من التوزيع."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net.headers/contentdispositionheadervalue/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue constructor
 
-قم بإنشاء مثيل جديد من نوع الترتيب هذا.
+إنشاء نسخة جديدة من نوع التوزيع هذا.
 
 ```csharp
 public ContentDispositionHeaderValue(string dispositionType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dispositionType | String | نوع الترتيب |
+| dispositionType | String | نوع التوزيع |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentDispositionHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

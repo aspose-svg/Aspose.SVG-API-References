@@ -1,38 +1,36 @@
 ---
-title: IDocumentEvent.CreateEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: IDocumentEvent طريقة. ينشئ ملفEvent من النوع الذي يدعمه التنفيذ .
+title: "IDocumentEvent.CreateEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDocumentEvent CreateEvent. تُنشئ حدثًا من نوع يدعمه التنفيذ"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.events/idocumentevent/createevent/
 ---
 ## IDocumentEvent.CreateEvent method
 
-ينشئ ملف[`Event`](../../event/) من النوع الذي يدعمه التنفيذ .
+ينشئ [`Event`](../../event/) من نوع يدعمه التنفيذ.
 
 ```csharp
 public Event CreateEvent(string eventType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| eventType | String | تحدد معلمة eventType نوع[`Event`](../../event/) الواجهة المراد إنشاؤها .  إذا كان ملف[`Event`](../../event/)الواجهة المحددة مدعومة من قبل التنفيذ ، وستقوم هذه الطريقة بإرجاع new [`Event`](../../event/) من نوع الواجهة المطلوبة[`Event`](../../event/)يتم إرسالها عبر[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) الطريقة المناسبة [`InitEvent`](../../event/initevent/) يجب استدعاء الطريقة بعد الإنشاء من أجل تهيئة[`Event`](../../event/) قيم s . |
+| eventType | String | معامل eventType يحدد نوع واجهة [`Event`](../../event/) التي سيتم إنشاؤها. إذا كانت واجهة [`Event`](../../event/) المحددة مدعومة من قبل التنفيذ، ستعيد هذه الطريقة [`Event`](../../event/) جديدًا من نوع الواجهة المطلوب. إذا كان من المقرر إرسال [`Event`](../../event/) عبر طريقة [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/)، يجب استدعاء طريقة [`InitEvent`](../../event/initevent/) المناسبة بعد الإنشاء لتهيئة قيم [`Event`](../../event/). |
 
 ### قيمة الإرجاع
 
-الملف الذي تم إنشاؤه حديثًا[`Event`](../../event/)
+الـ[`Event`](../../event/) الذي تم إنشاؤه حديثًا
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: يُثار إذا كان التنفيذ لا يدعم نوع[`Event`](../../event/) الواجهة المطلوبة |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: يُرفع إذا لم يدعم التنفيذ نوع واجهة [`Event`](../../event/) المطلوبة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../../event/)
 * interface [IDocumentEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../idocumentevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

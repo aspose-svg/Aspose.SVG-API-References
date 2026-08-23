@@ -1,28 +1,26 @@
 ---
-title: SVGTextContentElement.LengthAdjust
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextContentElement ملكية. يتوافق مع السمة lengthAdjust على العنصر المحدد. يجب أن تكون القيمة أحد ثوابت ضبط الطول المحددة في هذه الواجهة.
+title: "SVGTextContentElement.LengthAdjust"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGTextContentElement LengthAdjust. تتطابق مع السمة lengthAdjust في العنصر المعطى. يجب أن تكون القيمة واحدة من ثوابت تعديل الطول المعرفة في هذه الواجهة."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgtextcontentelement/lengthadjust/
 ---
 ## SVGTextContentElement.LengthAdjust property
 
-يتوافق مع السمة "lengthAdjust" على العنصر المحدد. يجب أن تكون القيمة أحد ثوابت ضبط الطول المحددة في هذه الواجهة.
+يتطابق مع السمة ‘lengthAdjust’ في العنصر المعطى. يجب أن تكون القيمة واحدة من ثوابت تعديل الطول المعرفة في هذه الواجهة.
 
 ```csharp
 public SVGAnimatedEnumeration LengthAdjust { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "lengthAdjust" للعنصر المحدد
+السمة ‘lengthAdjust’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextContentElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextcontentelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

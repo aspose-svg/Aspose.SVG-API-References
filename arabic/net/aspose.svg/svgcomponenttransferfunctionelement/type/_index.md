@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Type
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGComponentTransferFunctionElement ملكية. يتوافق مع السمة النوع في العنصر المحدد. يأخذ أحد ثوابت SVG_FECOMPONENTTRANSFER_TYPE_  المحددة في هذه الواجهة.
+title: "SVGComponentTransferFunctionElement.Type"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Type في SVGComponentTransferFunctionElement. تتطابق مع السمة type في العنصر المحدد. تأخذ واحدة من الثوابت SVG_FECOMPONENTTRANSFER_TYPE_ المعرفة في هذه الواجهة"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svgcomponenttransferfunctionelement/type/
 ---
 ## SVGComponentTransferFunctionElement.Type property
 
-يتوافق مع السمة "النوع" في العنصر المحدد. يأخذ أحد ثوابت SVG_FECOMPONENTTRANSFER_TYPE_ * المحددة في هذه الواجهة.
+يتطابق مع السمة ‘type’ على العنصر المحدد. يأخذ أحد الثوابت SVG_FECOMPONENTTRANSFER_TYPE_* المعرفة على هذه الواجهة.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "النوع" للعنصر المحدد .
+السمة ‘type’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGComponentTransferFunctionElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

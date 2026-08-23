@@ -1,14 +1,14 @@
 ---
-title: Class Resolution
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.Resolution فصل. يمثل وحدة دقة .
+title: "فئة الدقة"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Drawing.Resolution. تمثل وحدة دقة"
 type: docs
-weight: 1570
+weight: 3600
 url: /ar/net/aspose.svg.drawing/resolution/
 ---
 ## Resolution class
 
-يمثل وحدة دقة .
+يمثل وحدة الدقة.
 
 ```csharp
 public sealed class Resolution : Dimension
@@ -16,35 +16,33 @@ public sealed class Resolution : Dimension
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة لملف[`Unit`](../unit/) . |
+| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة لـ [`Unit`](../unit/). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(Numeric) | يقارن المثيل الحالي بكائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كان المثيل الحالي يسبق أو يتبع أو يحدث في نفس الموضع في ترتيب الفرز مثل الكائن الآخر. |
-| override [Equals](../../aspose.svg.drawing/unit/equals/)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
-| override [Equals](../../aspose.svg.drawing/numeric/equals/)(Unit) | تحديد ما إذا كان الملف المحدد[`Unit`](../unit/) ، يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | يحصل على قيمة الوحدة . |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(UnitType) | الحصول على القيمة المحولة إلى القيمة المحددة[`UnitType`](../unittype/) . |
-| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
-| [operator +](../../aspose.svg.drawing/resolution/op_addition/) | تنفيذ عامل التشغيل + . |
-| [operator ==](../../aspose.svg.drawing/resolution/op_equality/) | تنفيذ عامل التشغيل == . |
-| [operator &gt;](../../aspose.svg.drawing/resolution/op_greaterthan/) | تنفيذ عامل التشغيل&gt; . |
-| [operator &gt;=](../../aspose.svg.drawing/resolution/op_greaterthanorequal/) | تنفيذ عامل التشغيل&gt; = . |
-| [implicit operator](../../aspose.svg.drawing/resolution/op_implicit/#op_implicit) | يقوم بإجراء تحويل ضمني منDouble ل`Resolution` . (2 operators) |
-| [operator !=](../../aspose.svg.drawing/resolution/op_inequality/) | تنفذ عامل التشغيل! = . |
-| [operator &lt;](../../aspose.svg.drawing/resolution/op_lessthan/) | تنفيذ عامل التشغيل &lt;. |
-| [operator &lt;=](../../aspose.svg.drawing/resolution/op_lessthanorequal/) | تنفذ عامل التشغيل &lt;= . |
-| [operator -](../../aspose.svg.drawing/resolution/op_subtraction/) | تنفيذ عامل التشغيل -. |
+| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(*[Numeric](../numeric/)*) | يقارن النسخة الحالية مع كائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كانت النسخة الحالية تسبق أو تتبع أو تقع في نفس الموضع في ترتيب الفرز مقارنةً بالكائن الآخر. |
+| override [Equals](../../aspose.svg.drawing/unit/equals/)(*object*) | يحدد ما إذا كان الكائن المحدد مساويًا لهذه الحالة. |
+| override [Equals](../../aspose.svg.drawing/numeric/equals/)(*[Unit](../unit/)*) | يحدد ما إذا كانت الـ [`Unit`](../unit/) المحددة مساوية لهذه النسخة. |
+| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | يرجع رمز تجزئة (hash code) لهذه الحالة. |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | يحصل على قيمة الوحدة. |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(*[UnitType](../unittype/)*) | يحصل على القيمة محوّلة إلى الـ [`UnitType`](../unittype/) المحدد. |
+| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
+| [operator +](../../aspose.svg.drawing/resolution/op_addition/) | ينفّذ العامل +. |
+| [operator ==](../../aspose.svg.drawing/resolution/op_equality/) | ينفّذ العامل ==. |
+| [operator >](../../aspose.svg.drawing/resolution/op_greaterthan/) | ينفّذ العامل &gt;. |
+| [operator >=](../../aspose.svg.drawing/resolution/op_greaterthanorequal/) | ينفّذ العامل &gt;=. |
+| [implicit operator](../../aspose.svg.drawing/resolution/op_implicit/#op_implicit) | ينفّذ تحويلًا ضمنيًا من Double إلى `Resolution`. (2 عمليات) |
+| [operator !=](../../aspose.svg.drawing/resolution/op_inequality/) | ينفّذ العامل !=. |
+| [operator <](../../aspose.svg.drawing/resolution/op_lessthan/) | ينفّذ العامل &lt;. |
+| [operator <=](../../aspose.svg.drawing/resolution/op_lessthanorequal/) | ينفّذ العامل &lt;=. |
+| [operator -](../../aspose.svg.drawing/resolution/op_subtraction/) | ينفّذ العامل -. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dimension](../dimension/)
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

@@ -1,24 +1,22 @@
 ---
-title: Document.OnCueChange
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث أو تعيينه لحدث OnCueChange.
+title: "Document.OnCueChange"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnCueChange. يحصل أو يعيّن معالج الحدث لحدث OnCueChange"
 type: docs
 weight: 350
 url: /ar/net/aspose.svg.dom/document/oncuechange/
 ---
 ## Document.OnCueChange event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnCueChange.
+يحصل أو يضبط معالج الحدث لحدث OnCueChange.
 
 ```csharp
 public event DOMEventHandler OnCueChange;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

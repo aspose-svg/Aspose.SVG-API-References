@@ -1,27 +1,26 @@
 ---
-title: Device2.Fill
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يملأ المنطقة بأكملها المحاطة بالمسار الحالي. إذا كان المسار يتكون من عدة مسارات فرعية غير متصلة  فإنه يملأ الدواخل لجميع المسارات الفرعية  تعتبر معًا. تنهي هذه الطريقة المسار الحالي.
+title: "Device-2.Fill"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device Fill. تعبئ المنطقة الكاملة المغلقة بالمسار الحالي. إذا كان المسار يتكون من عدة أجزاء فرعية غير متصلة، فإنها تعبئ داخل كل جزء فرعي معًا. هذه الطريقة تنهي المسار الحالي"
 type: docs
-weight: 150
+weight: 180
 url: /ar/net/aspose.svg.rendering/device-2/fill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Fill method
+## Device<TGraphicContext,TRenderingOptions>.Fill method
 
-يملأ المنطقة بأكملها المحاطة بالمسار الحالي. إذا كان المسار يتكون من عدة مسارات فرعية غير متصلة ، فإنه يملأ الدواخل لجميع المسارات الفرعية ، تعتبر معًا. تنهي هذه الطريقة المسار الحالي.
+يملأ المنطقة الكاملة المحصورة بالمسار الحالي. إذا كان المسار يتكون من عدة مسارات فرعية غير متصلة، فإنه يملأ داخل جميع المسارات الفرعية معًا. تنهي هذه الطريقة المسار الحالي.
 
 ```csharp
-public abstract void Fill(FillMode mode)
+public virtual void Fill(FillRule rule)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| mode | FillMode | يحدد وضع التعبئة كيفية تعبئة الجزء الداخلي من المسار المغلق |
+| قاعدة | FillRule | قاعدة التعبئة تحدد كيفية ملء داخل مسار مغلق |
 
-### أنظر أيضا
+### انظر أيضًا
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

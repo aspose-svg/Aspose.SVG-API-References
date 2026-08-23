@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextDecoration
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية زخرفة النص في CSS2.
+title: "ICSS2Properties.TextDecoration"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية TextDecoration في ICSS2Properties. راجع تعريف خاصية text-decoration في CSS2"
 type: docs
-weight: 1080
+weight: 1110
 url: /ar/net/aspose.svg.dom.css/icss2properties/textdecoration/
 ---
 ## ICSS2Properties.TextDecoration property
 
-راجع تعريف خاصية زخرفة النص في CSS2.
+انظر إلى تعريف الخاصية text-decoration في CSS2.
 
 ```csharp
 public string TextDecoration { get; set; }
@@ -16,12 +16,10 @@ public string TextDecoration { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية زخرفة النص
+خاصية text-decoration
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PlayDuring
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية التشغيل أثناء التشغيل في CSS2.
+title: "ICSS2Properties.PlayDuring"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PlayDuring في ICSS2Properties. راجع تعريف خاصية play-during في CSS2"
 type: docs
-weight: 940
+weight: 970
 url: /ar/net/aspose.svg.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property
 
-راجع تعريف خاصية التشغيل أثناء التشغيل في CSS2.
+انظر تعريف خاصية play-during في CSS2.
 
 ```csharp
 public string PlayDuring { get; set; }
@@ -16,12 +16,10 @@ public string PlayDuring { get; set; }
 
 ### قيمة الإرجاع
 
-اللعب أثناء الممتلكات
+خاصية play-during
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

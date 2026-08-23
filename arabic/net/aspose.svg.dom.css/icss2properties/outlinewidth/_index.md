@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.OutlineWidth
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية عرض المخطط التفصيلي في CSS2.
+title: "ICSS2Properties.OutlineWidth"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية OutlineWidth في ICSS2Properties. انظر تعريف خاصية outline-width في CSS2"
 type: docs
-weight: 780
+weight: 810
 url: /ar/net/aspose.svg.dom.css/icss2properties/outlinewidth/
 ---
 ## ICSS2Properties.OutlineWidth property
 
-راجع تعريف خاصية عرض المخطط التفصيلي في CSS2.
+انظر تعريف خاصية outline-width في CSS2.
 
 ```csharp
 public string OutlineWidth { get; set; }
@@ -16,12 +16,10 @@ public string OutlineWidth { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية عرض المخطط التفصيلي
+خاصية outline-width
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

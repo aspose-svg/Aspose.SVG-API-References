@@ -1,27 +1,25 @@
 ---
-title: ContentTypeHeaderValue.CharSet
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentTypeHeaderValue ملكية. الحصول على مجموعة الأحرف للمحتوى أو تعيينها.
+title: "ContentTypeHeaderValue.CharSet"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CharSet في ContentTypeHeaderValue. تحصل أو تعين مجموعة الأحرف للمحتوى."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net.headers/contenttypeheadervalue/charset/
 ---
 ## ContentTypeHeaderValue.CharSet property
 
-الحصول على مجموعة الأحرف للمحتوى أو تعيينها.
+يحصل أو يضبط مجموعة الأحرف للمحتوى.
 
 ```csharp
 public string CharSet { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مجموعة الأحرف .
+مجموعة الأحرف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentTypeHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

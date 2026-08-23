@@ -1,23 +1,21 @@
 ---
-title: UnitType.Px
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالبكسل
+title: "UnitType.Px"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Px. القياس بالبكسلات"
 type: docs
 weight: 200
 url: /ar/net/aspose.svg.drawing/unittype/px/
 ---
 ## UnitType.Px field
 
-القياس بالبكسل
+القياس بالبكسلات
 
 ```csharp
 public static readonly UnitType Px;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

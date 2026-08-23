@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveUnusedNamespaces
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على أو تحديد خيار إزالة التصريح عن مساحات الأسماء غير المستخدمة من عنصر SVG التي لا يتم استخدامها في العناصر أو السمات. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveUnusedNamespaces"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RemoveUnusedNamespaces في SVGOptimizationOptions. يحصل على أو يضبط الخيار لإزالة إعلان المساحات الاسمية غير المستخدمة من عنصر SVG والتي لا تُستخدم في العناصر أو السمات. القيمة الافتراضية هي true"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunusednamespaces/
 ---
 ## SVGOptimizationOptions.RemoveUnusedNamespaces property
 
-الحصول على أو تحديد خيار إزالة التصريح عن مساحات الأسماء غير المستخدمة من عنصر SVG التي لا يتم استخدامها في العناصر أو السمات. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة إعلان المساحات الاسمية غير المستخدمة من عنصر SVG والتي لا تُستعمل في العناصر أو السمات. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveUnusedNamespaces { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

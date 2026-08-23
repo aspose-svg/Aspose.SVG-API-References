@@ -1,60 +1,58 @@
 ---
-title: Class MutationObserverInit
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Mutations.MutationObserverInit فصل. تمثل هذه الفئة مجموعة خيارات تُستخدم للتكوينMutationObserver .
+title: "فئة MutationObserverInit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Mutations.MutationObserverInit فئة. تمثل هذه الفئة مجموعة خيارات تُستخدم لتكوين MutationObserver."
 type: docs
-weight: 1130
+weight: 3120
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/
 ---
 ## MutationObserverInit class
 
-تمثل هذه الفئة مجموعة خيارات تُستخدم للتكوين[`MutationObserver`](../mutationobserver/) .
+تمثل هذه الفئة مجموعة خيارات تُستخدم لتكوين [`MutationObserver`](../mutationobserver/).
 
 ```csharp
 public class MutationObserverInit : IDictionary<string, object>
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MutationObserverInit](mutationobserverinit/)() | يقوم بتهيئة مثيل جديد لملف`MutationObserverInit` فئة . |
+| [MutationObserverInit](mutationobserverinit/)() | ينشئ مثيلًا جديدًا من فئة `MutationObserverInit`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AttributeFilter](../../aspose.svg.dom.mutations/mutationobserverinit/attributefilter/) { get; set; } | اضبط على قائمة بأسماء السمات المحلية (بدون مساحة الاسم) إذا لم تكن هناك حاجة إلى ملاحظة جميع طفرات السمات وكانت السمات صحيحة أو تم حذفها. |
-| [AttributeOldValue](../../aspose.svg.dom.mutations/mutationobserverinit/attributeoldvalue/) { get; set; } | اضبط على صواب إذا كانت السمات صحيحة أو محذوفة وقيمة سمة الهدف قبل الحاجة إلى تسجيل الطفرة. |
-| [Attributes](../../aspose.svg.dom.mutations/mutationobserverinit/attributes/) { get; set; } | اضبط على صواب إذا كان لابد من ملاحظة الطفرات في سمات الهدف. يمكن حذفها إذا تم تحديد attributeOldValue و / أو attributeFilter. |
-| [CharacterData](../../aspose.svg.dom.mutations/mutationobserverinit/characterdata/) { get; set; } | اضبط على صواب في حالة ملاحظة الطفرات في بيانات الهدف. يمكن حذفها إذا تم تحديد قيمة characterDataOldValue |
-| [CharacterDataOldValue](../../aspose.svg.dom.mutations/mutationobserverinit/characterdataoldvalue/) { get; set; } | اضبط على "true" إذا تم تعيين "characterData" على "صحيح" أو حذفه وبيانات الهدف قبل الحاجة إلى تسجيل الطفرة. |
-| [ChildList](../../aspose.svg.dom.mutations/mutationobserverinit/childlist/) { get; set; } | اضبط على صواب إذا كان لابد من ملاحظة الطفرات لأطفال الهدف. |
-| [Count](../../aspose.svg.dom.mutations/mutationobserverinit/count/) { get; } | يحصل على عدد أزواج المفاتيح / القيمة الموجودة في ملف`MutationObserverInit`جمع. |
-| [IsReadOnly](../../aspose.svg.dom.mutations/mutationobserverinit/isreadonly/) { get; } | يحدد ما إذا كان ملف`MutationObserverInit` المجموعة قابلة للتغيير. |
-| [Item](../../aspose.svg.dom.mutations/mutationobserverinit/item/) { get; set; } | الحصول على العنصر بالمفتاح المحدد أو تعيينه. |
-| [Keys](../../aspose.svg.dom.mutations/mutationobserverinit/keys/) { get; } | يحصل على مجموعة تحتوي على المفاتيح الموجودة في ملف`MutationObserverInit`جمع. |
-| [Subtree](../../aspose.svg.dom.mutations/mutationobserverinit/subtree/) { get; set; } | اضبط على صواب إذا كانت الطفرات ليست فقط الهدف ، ولكن أيضًا أحفاد الهدف يجب ملاحظتها |
-| [Values](../../aspose.svg.dom.mutations/mutationobserverinit/values/) { get; } | يحصل على مجموعة تحتوي على القيم الموجودة في ملف`MutationObserverInit`جمع. |
+| [AttributeFilter](../../aspose.svg.dom.mutations/mutationobserverinit/attributefilter/) { get; set; } | عيّن إلى قائمة بأسماء الخصائص المحلية (بدون مساحة اسم) إذا لم يكن من الضروري مراقبة جميع تعديلات الخصائص وكان attributes صحيحًا أو مُهملًا. |
+| [AttributeOldValue](../../aspose.svg.dom.mutations/mutationobserverinit/attributeoldvalue/) { get; set; } | عيّن إلى true إذا كان attributes صحيحًا أو مُهملًا وكان يجب تسجيل قيمة الخاصية للهدف قبل التعديل. |
+| [Attributes](../../aspose.svg.dom.mutations/mutationobserverinit/attributes/) { get; set; } | عيّن إلى true إذا كان يجب مراقبة الطفرات على سمات الهدف. يمكن حذفها إذا تم تحديد attributeOldValue و/أو attributeFilter. |
+| [CharacterData](../../aspose.svg.dom.mutations/mutationobserverinit/characterdata/) { get; set; } | عيّن إلى true إذا كان يجب مراقبة الطفرات على بيانات الهدف. يمكن حذفها إذا تم تحديد characterDataOldValue. |
+| [CharacterDataOldValue](../../aspose.svg.dom.mutations/mutationobserverinit/characterdataoldvalue/) { get; set; } | عيّن إلى true إذا كان characterData مضبوطًا على true أو محذوفًا وتحتاج بيانات الهدف قبل الطفرة إلى التسجيل. |
+| [ChildList](../../aspose.svg.dom.mutations/mutationobserverinit/childlist/) { get; set; } | عيّن إلى true إذا كان يجب مراقبة الطفرات على أبناء الهدف. |
+| [Count](../../aspose.svg.dom.mutations/mutationobserverinit/count/) { get; } | يحصل على عدد أزواج المفتاح/القيمة الموجودة في مجموعة `MutationObserverInit`. |
+| [IsReadOnly](../../aspose.svg.dom.mutations/mutationobserverinit/isreadonly/) { get; } | يحدد ما إذا كانت مجموعة `MutationObserverInit` قابلة للتغيير. |
+| [Item](../../aspose.svg.dom.mutations/mutationobserverinit/item/) { get; set; } | يحصل أو يعيّن العنصر بالمفتاح المحدد. |
+| [Keys](../../aspose.svg.dom.mutations/mutationobserverinit/keys/) { get; } | يحصل على مجموعة تحتوي على المفاتيح في مجموعة `MutationObserverInit`. |
+| [Subtree](../../aspose.svg.dom.mutations/mutationobserverinit/subtree/) { get; set; } | عيّن إلى true إذا كان يجب مراقبة الطفرات ليس فقط على الهدف، بل أيضًا على سلالته. |
+| [Values](../../aspose.svg.dom.mutations/mutationobserverinit/values/) { get; } | يحصل على مجموعة تحتوي على القيم في مجموعة `MutationObserverInit`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add/#add)(KeyValuePair&lt;string, object&gt;) | يضيف عنصرًا إلى ملف`MutationObserverInit`جمع. |
-| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add/#add_1)(string, object) | إضافة المفتاح والقيمة المحددين إلى ملف`MutationObserverInit`جمع. |
-| [Clear](../../aspose.svg.dom.mutations/mutationobserverinit/clear/)() | يزيل كل العناصر من ملف`MutationObserverInit`جمع. |
-| [Contains](../../aspose.svg.dom.mutations/mutationobserverinit/contains/)(KeyValuePair&lt;string, object&gt;) | يحدد ما إذا كان ملف`MutationObserverInit` تحتوي على زوج المفتاح / القيمة المحدد. |
-| [ContainsKey](../../aspose.svg.dom.mutations/mutationobserverinit/containskey/)(string) | يحدد ما إذا كان ملف`MutationObserverInit` تحتوي المجموعة على مفتاح محدد. |
-| [CopyTo](../../aspose.svg.dom.mutations/mutationobserverinit/copyto/)(KeyValuePair&lt;string, object&gt;[], int) | ينسخ ملف`MutationObserverInit` عناصر لمصفوفة موجودة أحادية البعد ، بدءًا من فهرس المصفوفة المحدد. |
-| [GetEnumerator](../../aspose.svg.dom.mutations/mutationobserverinit/getenumerator/)() | إرجاع عداد يتكرر خلال ملف`MutationObserverInit` العناصر . |
-| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove/#remove)(KeyValuePair&lt;string, object&gt;) | يزيل زوج المفتاح / القيمة المحدد من ملف`MutationObserverInit`جمع. |
-| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove/#remove_1)(string) | يزيل القيمة المرتبطة بالمفتاح المحدد من ملف`MutationObserverInit`جمع. |
-| [TryGetValue](../../aspose.svg.dom.mutations/mutationobserverinit/trygetvalue/)(string, out object) | يحصل على القيمة المرتبطة بالمفتاح المحدد. |
+| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add/#add)(*KeyValuePair&lt;string, object&gt;*) | يضيف عنصرًا إلى مجموعة `MutationObserverInit`. |
+| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add/#add_1)(*string, object*) | يضيف المفتاح والقيمة المحددين إلى مجموعة `MutationObserverInit`. |
+| [Clear](../../aspose.svg.dom.mutations/mutationobserverinit/clear/)() | يزيل جميع العناصر من مجموعة `MutationObserverInit`. |
+| [Contains](../../aspose.svg.dom.mutations/mutationobserverinit/contains/)(*KeyValuePair&lt;string, object&gt;*) | يحدد ما إذا كانت `MutationObserverInit` تحتوي على زوج المفتاح/القيمة المحدد. |
+| [ContainsKey](../../aspose.svg.dom.mutations/mutationobserverinit/containskey/)(*string*) | يحدد ما إذا كانت مجموعة `MutationObserverInit` تحتوي على مفتاح محدد. |
+| [CopyTo](../../aspose.svg.dom.mutations/mutationobserverinit/copyto/)(*KeyValuePair&lt;string, object&gt;[], int*) | ينسخ عناصر `MutationObserverInit` إلى مصفوفة أحادية البعد موجودة، بدءًا من الفهرس المحدد للمصفوفة. |
+| [GetEnumerator](../../aspose.svg.dom.mutations/mutationobserverinit/getenumerator/)() | يعيد عدادًا (enumerator) يتنقل عبر عناصر `MutationObserverInit`. |
+| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove/#remove)(*KeyValuePair&lt;string, object&gt;*) | يزيل زوج المفتاح/القيمة المحدد من مجموعة `MutationObserverInit`. |
+| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove/#remove_1)(*string*) | يزيل القيمة المرتبطة بالمفتاح المحدد من مجموعة `MutationObserverInit`. |
+| [TryGetValue](../../aspose.svg.dom.mutations/mutationobserverinit/trygetvalue/)(*string, out object*) | يحصل على القيمة المرتبطة بالمفتاح المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: IUrlSearchParams.Append
-second_title: Aspose.SVG لمرجع .NET API
-description: IUrlSearchParams طريقة. يتم إلحاق زوج جديد من الاسم والقيمة اسمهاسم والقيمةقيمة .
+title: "IUrlSearchParams.Append"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IUrlSearchParams Append. تُضيف زوج اسم‑قيمة جديد يكون اسمه name والقيمة value."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
 
-يتم إلحاق زوج جديد من الاسم والقيمة اسمه`اسم` والقيمة`قيمة` .
+يضيف زوج اسم-قيمة جديد يكون اسمه `name` وقيمته `value`.
 
 ```csharp
 public void Append(string name, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الزوج الجديد من الاسم والقيمة. |
-| value | String | قيمة زوج الاسم والقيمة الجديد. |
+| الاسم | String | اسم زوج الاسم‑القيمة الجديد. |
+| القيمة | String | قيمة زوج الاسم‑القيمة الجديد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUrlSearchParams](../)
-* مساحة الاسم [Aspose.Svg](../../iurlsearchparams/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

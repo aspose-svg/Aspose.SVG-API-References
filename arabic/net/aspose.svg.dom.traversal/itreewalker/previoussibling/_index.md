@@ -1,14 +1,14 @@
 ---
-title: ITreeWalker.PreviousSibling
-second_title: Aspose.SVG لمرجع .NET API
-description: ITreeWalker طريقة. ينقل TreeWalker إلى الشقيق السابق للعقدة الحالية_  ويعيد العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no شقيق سابق مرئي  فستُرجع قيمة خالية  وتحتفظ بالعقدة الحالية .
+title: "ITreeWalker.PreviousSibling"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ITreeWalker PreviousSibling. تنقل الـ TreeWalker إلى الأخ السابق للعقدة الحالية وتعيد العقدة الجديدة. إذا لم يكن للعقدة الحالية أخ سابق مرئي تُعيد null وتبقي على العقدة الحالية."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.traversal/itreewalker/previoussibling/
 ---
 ## ITreeWalker.PreviousSibling method
 
-ينقل TreeWalker إلى الشقيق السابق للعقدة الحالية_ ، ويعيد العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no شقيق سابق مرئي ، فستُرجع قيمة خالية ، وتحتفظ بالعقدة الحالية .
+ينقل TreeWalker إلى الأخ السابق للعقدة الحالية، ويعيد العقدة الجديدة. إذا لم يكن للعقدة الحالية أخ مرئي سابق، يعيد null، ويحتفظ بالعقدة الحالية.
 
 ```csharp
 public Node PreviousSibling()
@@ -16,13 +16,11 @@ public Node PreviousSibling()
 
 ### قيمة الإرجاع
 
-العقدة الجديدة ، أو خالية إذا كانت العقدة الحالية ليس لها أخ سابق. في عرض TreeWalker المنطقي.
+العقدة الجديدة، أو null إذا لم يكن للعقدة الحالية أخ سابق في العرض المنطقي للـ TreeWalker.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

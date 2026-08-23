@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.Content
-second_title: Aspose.SVG لمرجع .NET API
-description: RequestMessage ملكية. الحصول على محتوى الطلب أو تعيينه.
+title: "RequestMessage.Content"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RequestMessage Content. يحصل أو يعيّن محتوى الطلب"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net/requestmessage/content/
 ---
 ## RequestMessage.Content property
 
-الحصول على محتوى الطلب أو تعيينه.
+يحصل أو يضبط محتوى الطلب.
 
 ```csharp
 public Content Content { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الجسم .
+المحتوى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../../content/)
 * class [RequestMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestmessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

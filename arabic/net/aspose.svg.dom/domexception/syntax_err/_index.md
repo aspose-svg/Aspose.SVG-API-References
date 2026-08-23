@@ -1,7 +1,7 @@
 ---
-title: DOMException.SYNTAX_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. إذا تم تحديد سلسلة غير صالحة أو غير قانونية.
+title: "DOMException.SYNTAX_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMException SYNTAX_ERR حقل. إذا تم تحديد سلسلة غير صالحة أو غير قانونية"
 type: docs
 weight: 250
 url: /ar/net/aspose.svg.dom/domexception/syntax_err/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom/domexception/syntax_err/
 public const ushort SYNTAX_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: IDevice.EndPage
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice طريقة. ينتهي عرض الصفحة الحالية.
+title: "IDevice.EndPage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDevice EndPage. تنهي عرض الصفحة الحالية."
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.rendering/idevice/endpage/
 ---
 ## IDevice.EndPage method
 
-ينتهي عرض الصفحة الحالية.
+ينهي تصيير الصفحة الحالية.
 
 ```csharp
 public void EndPage()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

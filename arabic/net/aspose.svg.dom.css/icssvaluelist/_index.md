@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSValueList
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSValueList واجهه المستخدم. توفر الواجهة تجريدًا لمجموعة مرتبة من قيم CSS.
+title: "واجهة ICSSValueList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Css.ICSSValueList. توفر الواجهة تجريدًا لمجموعة مرتبة من قيم CSS"
 type: docs
-weight: 680
+weight: 2680
 url: /ar/net/aspose.svg.dom.css/icssvaluelist/
 ---
 ## ICSSValueList interface
 
-توفر الواجهة تجريدًا لمجموعة مرتبة من قيم CSS.
+الواجهة توفر تجريد مجموعة مرتبة من قيم CSS.
 
 ```csharp
 public interface ICSSValueList
@@ -16,14 +16,12 @@ public interface ICSSValueList
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/icssvaluelist/item/) { get; } | تقوم الطريقة بإرجاع ملف[`CSSValue`](../cssvalue/) على الفهرس المحدد . http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
-| [Length](../../aspose.svg.dom.css/icssvaluelist/length/) { get; } | عدد قيم CSS في القائمة. |
+| [Item](../../aspose.svg.dom.css/icssvaluelist/item/) { get; } | تُعيد الطريقة الـ[`CSSValue`](../cssvalue/) في الفهرس المحدد. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
+| [Length](../../aspose.svg.dom.css/icssvaluelist/length/) { get; } | عدد الـCSSValues في القائمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

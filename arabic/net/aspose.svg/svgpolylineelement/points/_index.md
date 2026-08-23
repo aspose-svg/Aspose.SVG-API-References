@@ -1,28 +1,26 @@
 ---
-title: SVGPolylineElement.Points
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPolylineElement ملكية. يوفر الوصول إلى المحتويات الأساسية أي الثابتة لسمة النقاط.
+title: "SVGPolylineElement.Points"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPolylineElement Points. توفر الوصول إلى المحتوى الأساسي أي الثابت لخاصية points"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgpolylineelement/points/
 ---
 ## SVGPolylineElement.Points property
 
-يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لسمة "النقاط".
+يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لخاصية ‘points’.
 
 ```csharp
 public SVGPointList Points { get; }
 ```
 
-### Property_Value
+### Property Value
 
-محتوى سمة "النقاط "
+محتوى الخاصية ‘points’
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * class [SVGPolylineElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpolylineelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Margin.Left
-second_title: Aspose.SVG لمرجع .NET API
-description: Margin ملكية. الحصول على اليسار أو تعيينه.
+title: "Margin.Left"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Margin Left. يحصل أو يضبط اليسار"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.drawing/margin/left/
 ---
 ## Margin.Left property
 
-الحصول على اليسار أو تعيينه.
+يحصل أو يعين الجزء الأيسر.
 
 ```csharp
 public LengthOrAuto Left { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 اليسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../margin/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

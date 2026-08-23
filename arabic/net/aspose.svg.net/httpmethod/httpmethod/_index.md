@@ -1,27 +1,25 @@
 ---
-title: HttpMethod.HttpMethod
-second_title: Aspose.SVG لمرجع .NET API
-description: HttpMethod البناء. يقوم بتهيئة مثيل جديد لملفHttpMethod فئة باستخدام طريقة HTTP محددة.
+title: "HttpMethod"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ HttpMethod. يهيئ نسخة جديدة من فئة HttpMethod بطريقة HTTP محددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/httpmethod/httpmethod/
 ---
 ## HttpMethod constructor
 
-يقوم بتهيئة مثيل جديد لملف[`HttpMethod`](../) فئة باستخدام طريقة HTTP محددة.
+يهيئ نسخة جديدة من الفئة [`HttpMethod`](../) بطريقة HTTP محددة.
 
 ```csharp
 public HttpMethod(string method)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| method | String | طريقة. |
+| طريقة | String | الطريقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HttpMethod](../)
-* مساحة الاسم [Aspose.Svg.Net](../../httpmethod/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

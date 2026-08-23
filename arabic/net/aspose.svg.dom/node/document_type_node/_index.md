@@ -1,23 +1,21 @@
 ---
-title: Node.DOCUMENT_TYPE_NODE
-second_title: Aspose.SVG لمرجع .NET API
-description: Node مجال. نوع المستند node
+title: "Node.DOCUMENT_TYPE_NODE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل Node DOCUMENT_TYPE_NODE. عقدة نوع المستند"
 type: docs
-weight: 370
+weight: 350
 url: /ar/net/aspose.svg.dom/node/document_type_node/
 ---
 ## Node.DOCUMENT_TYPE_NODE field
 
-نوع المستند node
+عقدة نوع المستند
 
 ```csharp
 public const ushort DOCUMENT_TYPE_NODE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

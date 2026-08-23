@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Direction
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الاتجاه في CSS2.
+title: "ICSS2Properties.Direction"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties Direction. راجع تعريف خاصية direction في CSS2"
 type: docs
 weight: 420
 url: /ar/net/aspose.svg.dom.css/icss2properties/direction/
 ---
 ## ICSS2Properties.Direction property
 
-راجع تعريف خاصية الاتجاه في CSS2.
+انظر تعريف خاصية direction في CSS2.
 
 ```csharp
 public string Direction { get; set; }
@@ -16,12 +16,10 @@ public string Direction { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الاتجاه
+خاصية direction
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

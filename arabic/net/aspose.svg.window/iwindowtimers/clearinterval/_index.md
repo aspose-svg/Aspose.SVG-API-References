@@ -1,27 +1,25 @@
 ---
-title: IWindowTimers.ClearInterval
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindowTimers طريقة. إلغاء تعيين المهلة باستخدام setInterval  المعرّف بواسطة handle
+title: "IWindowTimers.ClearInterval"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IWindowTimers ClearInterval. تلغي المهلة التي تم تعيينها باستخدام setInterval والمحددة بواسطة handle"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.window/iwindowtimers/clearinterval/
 ---
 ## IWindowTimers.ClearInterval method
 
-إلغاء تعيين المهلة باستخدام setInterval () المعرّف بواسطة handle
+يلغي المهلة المحددة بـ setInterval() والمُعرف بواسطة handle
 
 ```csharp
 public void ClearInterval(int handle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| handle | Int32 | المقبض. |
+| معرف | Int32 | المعرف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IWindowTimers](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindowtimers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

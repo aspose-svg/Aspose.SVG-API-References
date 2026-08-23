@@ -1,28 +1,26 @@
 ---
-title: ResponseMessage.Content
-second_title: Aspose.SVG لمرجع .NET API
-description: ResponseMessage ملكية. الحصول على محتوى الاستجابة أو تعيينه.
+title: "ResponseMessage.Content"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ResponseMessage Content. تحصل أو تعين محتوى الاستجابة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net/responsemessage/content/
 ---
 ## ResponseMessage.Content property
 
-الحصول على محتوى الاستجابة أو تعيينه.
+يحصل على محتوى الاستجابة أو يعيّنه.
 
 ```csharp
 public Content Content { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الجسم .
+المحتوى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../../content/)
 * class [ResponseMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../responsemessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

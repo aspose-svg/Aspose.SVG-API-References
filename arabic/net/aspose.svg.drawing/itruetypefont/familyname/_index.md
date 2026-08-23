@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.FamilyName
-second_title: Aspose.SVG لمرجع .NET API
-description: ITrueTypeFont ملكية. احصل على اسم عائلة الخطوط .
+title: "ITrueTypeFont.FamilyName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ITrueTypeFont FamilyName. تحصل على اسم عائلة الخط."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/itruetypefont/familyname/
 ---
 ## ITrueTypeFont.FamilyName property
 
-احصل على اسم عائلة الخطوط .
+يحصل على اسم عائلة الخط.
 
 ```csharp
 public string FamilyName { get; }
@@ -16,12 +16,10 @@ public string FamilyName { get; }
 
 ### قيمة الإرجاع
 
-اسم عائلة الخط
+اسم عائلة الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITrueTypeFont](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itruetypefont/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

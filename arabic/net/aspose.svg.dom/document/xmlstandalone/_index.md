@@ -1,27 +1,25 @@
 ---
-title: Document.XmlStandalone
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. سمة تحدد  كجزء من إعلان XML  ما إذا كان هذا المستند مستقلاً. هذا خطأ عندما يكون غير محدد.
+title: "Document.XmlStandalone"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document XmlStandalone. سمة تحدد كجزء من إعلان XML ما إذا كان هذا المستند مستقلاً. تكون false عندما لا يتم تحديدها"
 type: docs
 weight: 260
 url: /ar/net/aspose.svg.dom/document/xmlstandalone/
 ---
 ## Document.XmlStandalone property
 
-سمة تحدد ، كجزء من إعلان XML ، ما إذا كان هذا المستند مستقلاً. هذا خطأ عندما يكون غير محدد.
+خاصية تحدد، كجزء من إعلان XML، ما إذا كان هذا المستند مستقلًا. تكون false عندما لا يتم تحديدها.
 
 ```csharp
 public bool XmlStandalone { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان XML مستقل ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان XML مستقلاً؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

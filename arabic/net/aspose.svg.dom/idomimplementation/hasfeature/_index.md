@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.HasFeature
-second_title: Aspose.SVG لمرجع .NET API
-description: IDOMImplementation طريقة. اختبر ما إذا كان تنفيذ DOM ينفذ ميزة وإصدارًا معينين  كما هو محدد في ميزات DOM .
+title: "IDOMImplementation.HasFeature"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDOMImplementation HasFeature. تختبر ما إذا كان تنفيذ DOM يدعم ميزة وإصدار محددين كما هو موضح في ميزات DOM"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/idomimplementation/hasfeature/
 ---
 ## IDOMImplementation.HasFeature method
 
-اختبر ما إذا كان تنفيذ DOM ينفذ ميزة وإصدارًا معينين ، كما هو محدد في ميزات DOM .
+اختبر ما إذا كان تنفيذ DOM يدعم ميزة وإصدار محددين، كما هو موضح في ميزات DOM.
 
 ```csharp
 public bool HasFeature()
@@ -16,12 +16,10 @@ public bool HasFeature()
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كانت الميزة المحددة لها ميزة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت الميزة المحددة موجودة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDOMImplementation](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../idomimplementation/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

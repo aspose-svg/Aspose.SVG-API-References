@@ -1,24 +1,22 @@
 ---
-title: ICSSStyleSheet.OwnerRule
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleSheet ملكية. إذا كانت ورقة الأنماط هذه من قاعدةimport  فستحتوي السمة ownerRule على CSSImportRule. في هذه الحالة  ستكون السمة ownerNode في واجهة StyleSheet خالية. إذا كانت ورقة الأنماط تأتي من عنصر أو تعليمات معالجة  فستكون سمة ownerRule فارغة وستحتوي السمة ownerNode على العقدة.
+title: "ICSSStyleSheet.OwnerRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية OwnerRule في ICSSStyleSheet. إذا كانت ورقة الأنماط هذه تأتي من قاعدة استيراد، فإن الخاصية ownerRule ستحتوي على CSSImportRule. في هذه الحالة، ستكون الخاصية ownerNode في واجهة StyleSheet ذات قيمة null. إذا كانت ورقة الأنماط تأتي من عنصر أو تعليمات معالجة، فإن الخاصية ownerRule ستكون null وستحتوي الخاصية ownerNode على الـ Node"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/icssstylesheet/ownerrule/
 ---
 ## ICSSStyleSheet.OwnerRule property
 
-إذا كانت ورقة الأنماط هذه من قاعدةimport ، فستحتوي السمة ownerRule على CSSImportRule. في هذه الحالة ، ستكون السمة ownerNode في واجهة StyleSheet خالية. إذا كانت ورقة الأنماط تأتي من عنصر أو تعليمات معالجة ، فستكون سمة ownerRule فارغة وستحتوي السمة ownerNode على العقدة.
+إذا كانت ورقة الأنماط هذه ناتجة عن قاعدة @import، فستحتوي خاصية ownerRule على CSSImportRule. في هذه الحالة، ستكون خاصية ownerNode في واجهة StyleSheet ذات قيمة null. إذا كانت ورقة الأنماط ناتجة عن عنصر أو تعليمات معالجة، فستكون خاصية ownerRule ذات قيمة null وستحتوي خاصية ownerNode على Node.
 
 ```csharp
 public ICSSRule OwnerRule { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSStyleSheet](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

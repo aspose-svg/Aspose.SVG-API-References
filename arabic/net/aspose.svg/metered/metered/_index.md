@@ -1,23 +1,21 @@
 ---
-title: Metered.Metered
-second_title: Aspose.SVG لمرجع .NET API
-description: Metered البناء. تهيئة مثيل جديد لهذه الفئة.
+title: "Metered"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ Metered. يهيئ مثيلاً جديداً من هذه الفئة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/metered/metered/
 ---
 ## Metered constructor
 
-تهيئة مثيل جديد لهذه الفئة.
+ينشئ مثيلًا جديدًا لهذه الفئة.
 
 ```csharp
 public Metered()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.Svg](../../metered/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

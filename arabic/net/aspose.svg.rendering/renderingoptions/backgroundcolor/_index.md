@@ -1,23 +1,21 @@
 ---
-title: RenderingOptions.BackgroundColor
-second_title: Aspose.SVG لمرجع .NET API
-description: RenderingOptions ملكية. يحصل أو يحددColor والتي تملأ خلفية كل صفحة. القيمة الافتراضية هيTransparent .
+title: "RenderingOptions.BackgroundColor"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RenderingOptions BackgroundColor. تحصل أو تعين اللون الذي سيملأ خلفية كل صفحة. القيمة الافتراضية هي Transparent."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering/renderingoptions/backgroundcolor/
 ---
 ## RenderingOptions.BackgroundColor property
 
-يحصل أو يحددColor والتي تملأ خلفية كل صفحة. القيمة الافتراضية هيTransparent .
+يحصل أو يضبط اللون الذي سيملأ خلفية كل صفحة. القيمة الافتراضية هي شفافة.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

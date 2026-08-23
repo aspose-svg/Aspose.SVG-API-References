@@ -1,9 +1,9 @@
 ---
-title: Class MimeType
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.MimeType فصل. يمثل أنواع وسائط الإنترنت
+title: "فئة MimeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.MimeType. تمثل أنواع وسائط الإنترنت"
 type: docs
-weight: 2210
+weight: 4280
 url: /ar/net/aspose.svg/mimetype/
 ---
 ## MimeType class
@@ -14,35 +14,33 @@ url: /ar/net/aspose.svg/mimetype/
 public class MimeType : IEquatable<MimeType>
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MimeType](mimetype/)(string) | تهيئة مثيل جديد من نوع MIME بناءً على قيمة السلسلة المتسلسلة. |
+| [MimeType](mimetype/)(*string*) | يُنشئ نسخة جديدة من نوع MIME بناءً على قيمة سلسلة مُسلسلة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SubType](../../aspose.svg/mimetype/subtype/) { get; } | يحصل على نوع الوسائط الفرعية. |
-| [Type](../../aspose.svg/mimetype/type/) { get; } | يحصل على نوع الوسائط . |
+| [SubType](../../aspose.svg/mimetype/subtype/) { get; } | يحصل على نوع الوسائط الفرعي. |
+| [Type](../../aspose.svg/mimetype/type/) { get; } | يحصل على نوع الوسائط. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension/)(string) | ينشئ نوع MIME جديدًا بناءً على امتداد الملف. |
-| [Equals](../../aspose.svg/mimetype/equals/#equals)(MimeType) | يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع. |
-| override [Equals](../../aspose.svg/mimetype/equals/#equals_1)(object) | تحديد ما إذا كان الملف المحددObject يساوي التيارObject . |
-| override [GetHashCode](../../aspose.svg/mimetype/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| override [ToString](../../aspose.svg/mimetype/tostring/)() | إرجاع أString الذي يمثل نوع Mime. |
-| [operator ==](../../aspose.svg/mimetype/op_equality/) | يقارن نوعين من نوع Mime ويعيد قيمة منطقية تشير إلى ما إذا كان الاثنان متطابقين. |
-| [implicit operator](../../aspose.svg/mimetype/op_implicit/#op_implicit) | يقوم بإجراء تحويل ضمني منString ل`MimeType` . (2 operators) |
-| [operator !=](../../aspose.svg/mimetype/op_inequality/) | يقارن نوعين من نوع Mime ويعيد قيمة منطقية تشير إلى ما إذا كان الاثنان متطابقين. |
+| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension/)(*string*) | ينشئ نوع MIME جديد بناءً على امتداد الملف. |
+| [Equals](../../aspose.svg/mimetype/equals/#equals)(*MimeType*) | يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع. |
+| override [Equals](../../aspose.svg/mimetype/equals/#equals_1)(*object*) | يحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي. |
+| override [GetHashCode](../../aspose.svg/mimetype/gethashcode/)() | يرجع رمز تجزئة (hash code) لهذه الحالة. |
+| override [ToString](../../aspose.svg/mimetype/tostring/)() | يرجع سلسلة تمثل نوع Mime. |
+| [operator ==](../../aspose.svg/mimetype/op_equality/) | يقارن نوعي Mime ويعيد قيمة منطقية تشير إلى ما إذا كانا متطابقين. |
+| [implicit operator](../../aspose.svg/mimetype/op_implicit/#op_implicit) | يؤدي تحويلًا ضمنيًا من سلسلة إلى `MimeType`. (عاملان) |
+| [operator !=](../../aspose.svg/mimetype/op_inequality/) | يقارن نوعي Mime ويعيد قيمة منطقية تشير إلى ما إذا كانا متطابقين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGEllipseElement.Cx
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGEllipseElement ملكية. يتوافق مع السمة cx في عنصر الدائرة المحدد .
+title: "SVGEllipseElement.Cx"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Cx لعنصر SVGEllipseElement. تتطابق مع السمة cx على العنصر circle المعطى."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgellipseelement/cx/
 ---
 ## SVGEllipseElement.Cx property
 
-يتوافق مع السمة "cx" في عنصر "الدائرة" المحدد .
+يتطابق مع السمة ‘cx’ في عنصر ‘circle’ المعطى.
 
 ```csharp
 public SVGAnimatedLength Cx { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "cx" لعنصر "الدائرة" المحدد .
+السمة ‘cx’ لعنصر ‘circle’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgellipseelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

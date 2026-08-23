@@ -1,27 +1,25 @@
 ---
-title: ResponseMessage.ResponseMessage
-second_title: Aspose.SVG لمرجع .NET API
-description: ResponseMessage البناء. يقوم بتهيئة مثيل جديد لملفResponseMessage فئة .
+title: "ResponseMessage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ResponseMessage. يهيئ مثيلاً جديداً من فئة ResponseMessage"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/responsemessage/responsemessage/
 ---
 ## ResponseMessage constructor
 
-يقوم بتهيئة مثيل جديد لملف[`ResponseMessage`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`ResponseMessage`](../).
 
 ```csharp
 public ResponseMessage(HttpStatusCode status)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| status | HttpStatusCode | الحالة. |
+| الحالة | HttpStatusCode | الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResponseMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../responsemessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

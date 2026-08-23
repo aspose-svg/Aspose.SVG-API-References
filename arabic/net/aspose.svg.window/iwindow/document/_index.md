@@ -1,28 +1,26 @@
 ---
-title: IWindow.Document
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindow ملكية. يجب أن تقوم سمة المستند بإرجاع أحدث كائن مستند لكائن Window.
+title: "IWindow.Document"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IWindow Document. يجب أن تُعيد سمة document أحدث كائن Document لكائن Window."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.window/iwindow/document/
 ---
 ## IWindow.Document property
 
-يجب أن تقوم سمة المستند بإرجاع أحدث كائن مستند لكائن Window.
+يجب أن تُعيد خاصية document كائن Document الأحدث لكائن Window.
 
 ```csharp
 public Document Document { get; }
 ```
 
-### Property_Value
+### Property Value
 
 المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IWindow](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindow/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

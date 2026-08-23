@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PauseAfter
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الإيقاف المؤقت في CSS2.
+title: "ICSS2Properties.PauseAfter"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties PauseAfter. انظر تعريف الخاصية pause-after في CSS2"
 type: docs
-weight: 900
+weight: 930
 url: /ar/net/aspose.svg.dom.css/icss2properties/pauseafter/
 ---
 ## ICSS2Properties.PauseAfter property
 
-راجع تعريف خاصية الإيقاف المؤقت في CSS2.
+انظر تعريف خاصية pause-after في CSS2.
 
 ```csharp
 public string PauseAfter { get; set; }
@@ -16,12 +16,10 @@ public string PauseAfter { get; set; }
 
 ### قيمة الإرجاع
 
-وقفة بعد الممتلكات
+خاصية pause-after
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

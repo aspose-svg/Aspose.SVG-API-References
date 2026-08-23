@@ -1,41 +1,39 @@
 ---
-title: Class SVGAnimatedValueT
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedValue1T فصل. تُستخدم لسمات الأنواع التي يمكن تحريكها.
+title: "SVGAnimatedValueT فئة"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.DataTypes.SVGAnimatedValue1T فئة. تُستخدم للسمات من الأنواع التي يمكن تحريكها"
 type: docs
-weight: 210
+weight: 2200
 url: /ar/net/aspose.svg.datatypes/svganimatedvalue-1/
 ---
-## SVGAnimatedValue&lt;T&gt; class
+## SVGAnimatedValue<T> class
 
-تُستخدم لسمات الأنواع التي يمكن تحريكها.
+تُستخدم لسمات من الأنواع التي يمكن تحريكها.
 
 ```csharp
 public abstract class SVGAnimatedValue<T> : SVGValueType
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | T | كائن قيمة SVG. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } | إذا تم تحريك السمة أو الخاصية المحددة ، فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا ، فستحتوي على نفس قيمة baseVal. |
-| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } | القيمة الأساسية للسمة المحددة قبل تطبيق أي رسوم متحركة. |
+| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } | إذا كانت السمة أو الخاصية المحددة قيد التحريك، فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم تكن السمة أو الخاصية المحددة قيد التحريك حالياً، فإنها تحتوي على نفس القيمة كما في baseVal. |
+| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } | القيمة الأساسية للسمة المحددة قبل تطبيق أي تحريكات. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGValueType](../svgvaluetype/)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.URL
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGDocument ملكية. عنوان URL الكامل للمستند.
+title: "SVGDocument.URL"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية URL في SVGDocument. عنوان URI الكامل للمستند"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgdocument/url/
 ---
 ## SVGDocument.URL property
 
-عنوان URL الكامل للمستند.
+URI الكامل للمستند.
 
 ```csharp
 public string URL { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عنوان URL .
+عنوان URL.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

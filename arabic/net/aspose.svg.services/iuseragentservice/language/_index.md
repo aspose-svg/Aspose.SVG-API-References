@@ -1,27 +1,25 @@
 ---
-title: IUserAgentService.Language
-second_title: Aspose.SVG لمرجع .NET API
-description: IUserAgentService ملكية. ملفLanguage يحدد اللغة الأساسية لمحتويات العنصر ولأي من سمات العنصر التي تحتوي على نص. يجب أن تكون قيمتها BCP 47 صالحة  علامة اللغة  أو السلسلة الفارغة. يشير تعيين السمة إلى السلسلة الفارغة إلى أن اللغة الأساسية غير معروفة.
+title: "IUserAgentService.Language"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IUserAgentService Language. تحدد Language اللغة الأساسية لمحتويات العنصر وأي من سمات العنصر التي تحتوي على نص. يجب أن تكون قيمتها علامة لغة صالحة وفق BCP 47 أو سلسلة فارغة. تعيين السمة إلى سلسلة فارغة يشير إلى أن اللغة الأساسية غير معروفة."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.services/iuseragentservice/language/
 ---
 ## IUserAgentService.Language property
 
-ملف`Language` يحدد اللغة الأساسية لمحتويات العنصر ولأي من سمات العنصر التي تحتوي على نص. يجب أن تكون قيمتها BCP 47 صالحة ( علامة اللغة ، أو السلسلة الفارغة. يشير تعيين السمة إلى السلسلة الفارغة إلى أن اللغة الأساسية غير معروفة.
+الـ `Language` تحدد اللغة الأساسية لمحتويات العنصر وأي من سمات العنصر التي تحتوي على نص. يجب أن تكون قيمتها علامة لغة صالحة وفق BCP 47 أو سلسلة فارغة. تعيين السمة إلى سلسلة فارغة يشير إلى أن اللغة الأساسية غير معروفة.
 
 ```csharp
 public string Language { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-لغة وكيل المستخدم .
+لغة وكيل المستخدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUserAgentService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../iuseragentservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

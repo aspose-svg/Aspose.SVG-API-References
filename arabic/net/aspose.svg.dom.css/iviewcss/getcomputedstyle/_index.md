@@ -1,60 +1,58 @@
 ---
-title: IViewCSS.GetComputedStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: IViewCSS طريقة. تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو محدد في CSS2.
+title: "IViewCSS.GetComputedStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IViewCSS GetComputedStyle. تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو معرف في CSS2"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/iviewcss/getcomputedstyle/
 ---
-## GetComputedStyle(Element) {#getcomputedstyle}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/)*) {#getcomputedstyle}
 
-تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو محدد في CSS2.
+تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو معرف في CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| element | Element | العنصر الذي سيتم حساب أسلوبه. لا يمكن أن تكون هذه المعلمة خالية. |
+| عنصر | Element | العنصر الذي سيتم حساب نمطه. لا يمكن أن تكون هذه المعلمة null. |
 
 ### قيمة الإرجاع
 
-الأسلوب المحسوب
+النمط المحسوب
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../iviewcss/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetComputedStyle(Element, string) {#getcomputedstyle_1}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/), string*) {#getcomputedstyle_1}
 
-تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو محدد في CSS2.
+تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو معرف في CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoElement)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| element | Element | العنصر الذي سيتم حساب أسلوبه. لا يمكن أن تكون هذه المعلمة خالية. |
+| عنصر | Element | العنصر الذي سيتم حساب نمطه. لا يمكن أن تكون هذه المعلمة null. |
 | pseudoElement | String | العنصر الزائف. |
 
 ### قيمة الإرجاع
 
-الأسلوب المحسوب
+النمط المحسوب
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../iviewcss/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

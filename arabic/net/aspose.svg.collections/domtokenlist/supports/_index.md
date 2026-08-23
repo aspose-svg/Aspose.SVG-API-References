@@ -1,31 +1,29 @@
 ---
-title: DOMTokenList.Supports
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTokenList طريقة. إرجاع صحيح إذا كان رمز معين في الرموز المميزة المدعومة للسمة المرتبطة.
+title: "DOMTokenList.Supports"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DOMTokenList Supports. تُرجع true إذا كان الرمز المعطى موجودًا في الرموز المدعومة للسمات المرتبطة."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.collections/domtokenlist/supports/
 ---
 ## DOMTokenList.Supports method
 
-إرجاع صحيح إذا كان رمز معين في الرموز المميزة المدعومة للسمة المرتبطة.
+يرجع true إذا كان الرمز المعطى موجودًا في الرموز المدعومة للخاصية المرتبطة.
 
 ```csharp
 public bool Supports(string token)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| token | String | الرمز المميز للاستعلام عن. |
+| token | String | الرمز المطلوب الاستعلام عنه. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية تشير إلى ما إذا تم العثور على الرمز المميز.
+قيمة منطقية تشير إلى ما إذا تم العثور على الرمز.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../domtokenlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

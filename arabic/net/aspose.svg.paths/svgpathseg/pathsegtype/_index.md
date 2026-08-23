@@ -1,27 +1,25 @@
 ---
-title: SVGPathSeg.PathSegType
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg ملكية. نوع مقطع المسار كما هو محدد بواسطة أحد الثوابت المحددة في هذه الواجهة .
+title: "SVGPathSeg.PathSegType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGPathSeg PathSegType خاصية. النوع الخاص بمقطع المسار كما هو محدد بأحد الثوابت المعرفة في هذه الواجهة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.paths/svgpathseg/pathsegtype/
 ---
 ## SVGPathSeg.PathSegType property
 
-نوع مقطع المسار كما هو محدد بواسطة أحد الثوابت المحددة في هذه الواجهة .
+نوع مقطع المسار كما هو محدد بأحد الثوابت المعرفة في هذه الواجهة.
 
 ```csharp
 public ushort PathSegType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع مقطع المسار .
+نوع مقطع المسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

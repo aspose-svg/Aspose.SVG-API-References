@@ -1,34 +1,29 @@
 ---
-title: IPathBuilder.Build
-second_title: Aspose.SVG لمرجع .NET API
-description: IPathBuilder طريقة. ينشئ مقاطع مسار من قائمة نقاط التتبع .
+title: "IPathBuilder.Build"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IPathBuilder Build. تقوم بتحسين أثر معين إلى مقطع مسار SVG باستخدام أقل عدد ممكن من أوامر الخط ومنحنيات بيزيير لتمثيل دقيق."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.imagevectorization/ipathbuilder/build/
 ---
 ## IPathBuilder.Build method
 
-ينشئ مقاطع مسار من قائمة نقاط التتبع .
+يقوم بتحسين تتبع معين إلى مقطع مسار SVG، باستخدام أقل عدد ممكن من أوامر الخط ومنحنيات بيزيير لتحقيق تمثيل دقيق.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| trace | IEnumerable`1 | قائمة نقاط التتبع. |
-| path | SVGPathElement | عنصر مسار SVG حيث سيتم إضافة مقاطع المسار. |
+| الأثر | IEnumerable`1 | تسلسل من النقاط يحدد الأثر ليتم تحسينه إلى مسار SVG. |
 
 ### قيمة الإرجاع
 
-قائمة مقاطع المسار[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+سلسلة تمثل مقطع مسار SVG، تُقرب بفعالية الأثر الأصلي بأقل عدد من أوامر الخط ومنحنيات بيزيه.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * interface [IPathBuilder](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../ipathbuilder/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: IInterpolationColor.Position
-second_title: Aspose.SVG لمرجع .NET API
-description: IInterpolationColor ملكية. يحصل على موضع اللون .
+title: "IInterpolationColor.Position"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Position في IInterpolationColor. تحصل أو تعين موضع اللون"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/iinterpolationcolor/position/
 ---
 ## IInterpolationColor.Position property
 
-يحصل على موضع اللون .
+يحصل أو يعين موضع اللون.
 
 ```csharp
-public float Position { get; }
+public float Position { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الوضع .
+الموضع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IInterpolationColor](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

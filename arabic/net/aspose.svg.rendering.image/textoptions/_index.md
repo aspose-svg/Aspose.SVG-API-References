@@ -1,14 +1,14 @@
 ---
-title: Class TextOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Image.TextOptions فصل. يمثل خيارات عرض النص لـImageDevice .
+title: "فئة TextOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Rendering.Image.TextOptions. تمثل خيارات تصيير النص لـ ImageDevice."
 type: docs
-weight: 2870
+weight: 4950
 url: /ar/net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class
 
-يمثل خيارات عرض النص لـ[`ImageDevice`](../imagedevice/) .
+يمثل خيارات عرض النص لـ [`ImageDevice`](../imagedevice/).
 
 ```csharp
 public class TextOptions
@@ -16,13 +16,11 @@ public class TextOptions
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint/) { get; set; } | مجموعات أو يحصلTextRenderingHint مما يؤثر على جودة عرض النص. افتراضيا هذه الخاصية هيSystemDefault . |
+| [UseHinting](../../aspose.svg.rendering.image/textoptions/usehinting/) { get; set; } | يحدد ما إذا كان سيتم استخدام تحسين النص. بشكل افتراضي، يكون التحسين معطلاً. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

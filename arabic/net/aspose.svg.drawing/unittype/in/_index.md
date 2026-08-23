@@ -1,23 +1,21 @@
 ---
-title: UnitType.In
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالبوصة
+title: "UnitType.In"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType In. القياس بالبوصات"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.drawing/unittype/in/
 ---
 ## UnitType.In field
 
-القياس بالبوصة
+القياس بالبوصات
 
 ```csharp
 public static readonly UnitType In;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

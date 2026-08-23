@@ -1,32 +1,30 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement طريقة. إرجاع كائن SVGPathSegLinetoHorizontalAbs مستقل وغير أبوي.
+title: "SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPathElement CreateSVGPathSegLinetoHorizontalAbs. تُرجع كائن SVGPathSegLinetoHorizontalAbs مستقل ولا يحتوي على أب"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs method
 
-إرجاع كائن SVGPathSegLinetoHorizontalAbs مستقل وغير أبوي.
+يرجع كائن SVGPathSegLinetoHorizontalAbs مستقل لا يملك أبًا.
 
 ```csharp
 public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | إحداثي X المطلق لنقطة نهاية مقطع المسار هذا. |
+| x | Single | الإحداثي X المطلق لنقطة النهاية لهذا الجزء من المسار. |
 
 ### قيمة الإرجاع
 
-كائن SVGPathSegLinetoHorizontalAbs قائم بذاته وبدون أب.
+كائن SVGPathSegLinetoHorizontalAbs مستقل ولا يحتوي على أب
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegLinetoHorizontalAbs](../../../aspose.svg.paths/svgpathseglinetohorizontalabs/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

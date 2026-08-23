@@ -1,14 +1,14 @@
 ---
-title: Url.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: Url طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "Url.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Url ToString. تُرجع String تمثل هذا المثيل."
 type: docs
 weight: 170
 url: /ar/net/aspose.svg/url/tostring/
 ---
 ## Url.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

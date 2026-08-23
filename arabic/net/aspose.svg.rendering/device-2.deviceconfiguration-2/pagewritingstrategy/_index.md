@@ -1,28 +1,26 @@
 ---
-title: Device2.DeviceConfiguration2.PageWritingStrategy
-second_title: Aspose.SVG لمرجع .NET API
-description: DeviceConfiguration ملكية. الحصول على استراتيجية كتابة الصفحة أو تعيينها.
+title: "Device-2.DeviceConfiguration-2.PageWritingStrategy"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DeviceConfiguration PageWritingStrategy. يحصل على أو يحدد استراتيجية كتابة الصفحة."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy property
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions>.PageWritingStrategy property
 
-الحصول على استراتيجية كتابة الصفحة أو تعيينها.
+يحصل أو يضبط استراتيجية كتابة الصفحة.
 
 ```csharp
 public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrategy { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-استراتيجية كتابة الصفحة .
+استراتيجية كتابة الصفحة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](../../device-2.pagewritingstrategy-2/)
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2.deviceconfiguration-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

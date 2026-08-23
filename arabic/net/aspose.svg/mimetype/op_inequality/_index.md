@@ -1,32 +1,30 @@
 ---
-title: MimeType.op_Inequality
-second_title: Aspose.SVG لمرجع .NET API
-description: MimeType طريقة. يقارن نوعين من نوع Mime ويعيد قيمة منطقية تشير إلى ما إذا كان الاثنان متطابقين.
+title: "MimeType.op_Inequality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MimeType op_Inequality. تقارن نوعي MIME وتُرجع قيمة منطقية تشير إلى ما إذا كانا متطابقين"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg/mimetype/op_inequality/
 ---
 ## MimeType Inequality operator
 
-يقارن نوعين من نوع Mime ويعيد قيمة منطقية تشير إلى ما إذا كان الاثنان متطابقين.
+يقارن نوعي Mime ويعيد قيمة منطقية تشير إلى ما إذا كانا متطابقين.
 
 ```csharp
 public static bool operator !=(MimeType a, MimeType b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | a | MimeType | أول Mime للمقارنة. |
-| b | MimeType | التمثيل الصامت الثاني للمقارنة. |
+| b | MimeType | ثاني Mime للمقارنة. |
 
 ### قيمة الإرجاع
 
-حقيقي إذا كانت كلتا الأولويتين غير متساويتين ، وإلاخطأ شنيع .
+صحيح إذا لم تكن الأولويتان متساويتين، وإلا خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

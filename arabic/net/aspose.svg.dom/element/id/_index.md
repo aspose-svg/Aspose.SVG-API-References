@@ -1,27 +1,25 @@
 ---
-title: Element.Id
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. معرف العنصر. راجع تعريف سمة المعرف في HTML 4.01.
+title: "Element.Id"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element Id. معرف العنصر. راجع تعريف سمة id في HTML 4.01."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom/element/id/
 ---
 ## Element.Id property
 
-معرف العنصر. راجع تعريف سمة المعرف في HTML 4.01.
+معرّف العنصر. راجع تعريف سمة id في HTML 4.01.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف .
+المعرف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

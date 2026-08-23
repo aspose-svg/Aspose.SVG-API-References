@@ -1,32 +1,30 @@
 ---
-title: Interface IEventListener
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Events.IEventListener واجهه المستخدم. ملفIEventListenerالواجهة هي الطريقة الأساسية لمعالجة الأحداث. يقوم المستخدمون بتنفيذIEventListener واجهة وتسجيل المستمع الخاص بهم على ملفEventTarget باستخدامAddEventListener method. يجب على المستخدمين أيضًا إزالة ملفاتIEventListener منهاEventTarget بعد الانتهاء من استخدام المستمع.
+title: "IEventListener واجهة"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Events.IEventListener واجهة. واجهة IEventListener هي الطريقة الأساسية لمعالجة الأحداث. يقوم المستخدمون بتنفيذ واجهة IEventListener وتسجيل المستمع الخاص بهم على EventTarget باستخدام طريقة AddEventListener. يجب على المستخدمين أيضًا إزالة IEventListener من EventTarget الخاص به بعد الانتهاء من استخدام المستمع."
 type: docs
-weight: 950
+weight: 2950
 url: /ar/net/aspose.svg.dom.events/ieventlistener/
 ---
 ## IEventListener interface
 
-ملف`IEventListener`الواجهة هي الطريقة الأساسية لمعالجة الأحداث. يقوم المستخدمون بتنفيذ`IEventListener` واجهة وتسجيل المستمع الخاص بهم على ملف[`EventTarget`](../../aspose.svg.dom/eventtarget/) باستخدام[`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener/) method. يجب على المستخدمين أيضًا إزالة ملفات`IEventListener` منها[`EventTarget`](../../aspose.svg.dom/eventtarget/) بعد الانتهاء من استخدام المستمع.
+واجهة `IEventListener` هي الطريقة الأساسية لمعالجة الأحداث. يقوم المستخدمون بتنفيذ واجهة `IEventListener` وتسجيل المستمع الخاص بهم على [`EventTarget`](../../aspose.svg.dom/eventtarget/) باستخدام طريقة [`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener/). يجب على المستخدمين أيضًا إزالة `IEventListener` الخاص بهم من [`EventTarget`](../../aspose.svg.dom/eventtarget/) بعد الانتهاء من استخدام المستمع.
 
 ```csharp
 public interface IEventListener
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent/)(Event) | يتم استدعاء هذه الطريقة كلما حدث حدث من النوع الذي تم`IEventListener` تم تسجيل الواجهة. |
+| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent/)(*[Event](../event/)*) | يتم استدعاء هذه الطريقة كلما حدث حدث من النوع الذي تم تسجيل واجهة `IEventListener` من أجله. |
 
-### ملاحظات
+## ملاحظات
 
-عند نسخ عقدة باستخدام أسلوب cloneNode ، لا يتم إرفاق مستمعات الأحداث المرفقة بالعقدة المصدر بالعقدة المنسوخة.
+عند نسخ Node باستخدام طريقة cloneNode لا يتم إرفاق مستمعي الأحداث المرتبطين بـ Node المصدر إلى Node المنسوخ. إذا رغب المستخدم في إضافة نفس مستمعي الأحداث إلى النسخة التي تم إنشاؤها حديثًا، يجب على المستخدم إضافتها يدويًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

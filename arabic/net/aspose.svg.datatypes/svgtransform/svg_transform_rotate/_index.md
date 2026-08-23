@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_ROTATE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransform مجال. تحويل تدوير ... .
+title: "SVGTransform.SVG_TRANSFORM_ROTATE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTransform SVG_TRANSFORM_ROTATE. تحويل دوران."
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.datatypes/svgtransform/svg_transform_rotate/
 ---
 ## SVGTransform.SVG_TRANSFORM_ROTATE field
 
-تحويل "تدوير (...)" .
+تحويل 'rotate(…)'
 
 ```csharp
 public const ushort SVG_TRANSFORM_ROTATE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransform/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

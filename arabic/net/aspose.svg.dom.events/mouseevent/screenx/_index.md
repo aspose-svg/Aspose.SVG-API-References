@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ScreenX
-second_title: Aspose.SVG لمرجع .NET API
-description: MouseEvent ملكية. الإحداثي الأفقي الذي وقع فيه الحدث بالنسبة إلى أصل نظام إحداثيات الشاشة.
+title: "MouseEvent.ScreenX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MouseEvent ScreenX. الإحداثي الأفقي الذي حدث فيه الحدث بالنسبة لأصل نظام إحداثيات الشاشة"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.dom.events/mouseevent/screenx/
 ---
 ## MouseEvent.ScreenX property
 
-الإحداثي الأفقي الذي وقع فيه الحدث بالنسبة إلى أصل نظام إحداثيات الشاشة.
+الإحداثي الأفقي الذي وقع فيه الحدث بالنسبة لأصل نظام إحداثيات الشاشة.
 
 ```csharp
 public long ScreenX { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الشاشة x.
+الإحداثي السيني للشاشة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MouseEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../mouseevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

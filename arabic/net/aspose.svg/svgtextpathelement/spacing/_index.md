@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Spacing
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPathElement ملكية. يتوافق مع السمة التباعد على عنصر مسار النص المحدد.
+title: "SVGTextPathElement.Spacing"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGTextPathElement Spacing. تتطابق مع السمة spacing في عنصر textPath المعطى"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgtextpathelement/spacing/
 ---
 ## SVGTextPathElement.Spacing property
 
-يتوافق مع السمة "التباعد" على عنصر "مسار النص" المحدد.
+يتطابق مع السمة ‘spacing’ على عنصر ‘textPath’ المعطى.
 
 ```csharp
 public SVGAnimatedEnumeration Spacing { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "التباعد" لعنصر "مسار النص" المحدد .
+السمة ‘spacing’ للعنصر ‘textPath’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

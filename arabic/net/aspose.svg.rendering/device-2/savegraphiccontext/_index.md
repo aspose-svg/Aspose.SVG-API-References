@@ -1,23 +1,21 @@
 ---
-title: Device2.SaveGraphicContext
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يدفع نسخة من سياق الرسوم بأكمله إلى المكدس.
+title: "Device-2.SaveGraphicContext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device SaveGraphicContext. تدفع نسخة من كامل سياق الرسوميات إلى المكدس"
 type: docs
-weight: 210
+weight: 240
 url: /ar/net/aspose.svg.rendering/device-2/savegraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.SaveGraphicContext method
 
-يدفع نسخة من سياق الرسوم بأكمله إلى المكدس.
+يدفع نسخة من سياق الرسومات بالكامل إلى المكدس.
 
 ```csharp
 public virtual void SaveGraphicContext()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

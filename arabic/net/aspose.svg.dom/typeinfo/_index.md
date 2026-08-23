@@ -1,14 +1,14 @@
 ---
-title: Class TypeInfo
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.TypeInfo فصل. يمثل TypeInfo نوعًا مشار إليه من عقد Element أو Attr المحدد في المخططات المرتبطة بالمستند.
+title: "فئة TypeInfo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Dom.TypeInfo. تمثل TypeInfo نوعًا مُشارًا إليه من عقد Element أو Attr المحددة في المخططات المرتبطة بالمستند"
 type: docs
-weight: 1280
+weight: 3280
 url: /ar/net/aspose.svg.dom/typeinfo/
 ---
 ## TypeInfo class
 
-يمثل TypeInfo نوعًا مشار إليه من عقد Element أو Attr المحدد في المخططات المرتبطة بالمستند.
+تمثل TypeInfo نوعًا مُشارًا إليه من عقد Element أو Attr، محددًا في المخططات المرتبطة بالمستند.
 
 ```csharp
 public class TypeInfo : DOMObject
@@ -16,31 +16,29 @@ public class TypeInfo : DOMObject
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TypeName](../../aspose.svg.dom/typeinfo/typename/) { get; } | اسم نوع تم التصريح عنه للعنصر أو السمة المقترنة ، أو لاغٍ إذا كان غير معروف. |
-| [TypeNamespace](../../aspose.svg.dom/typeinfo/typenamespace/) { get; } | يحصل على مساحة اسم النوع. مساحة الاسم من النوع المعلن عنها للعنصر أو السمة المرتبطة أو فارغة إذا لم يكن للعنصر إعلان أو إذا لم تتوفر معلومات مساحة الاسم. |
+| [TypeName](../../aspose.svg.dom/typeinfo/typename/) { get; } | اسم النوع المُعلن للعنصر أو السمة المرتبطة، أو null إذا كان غير معروف. |
+| [TypeNamespace](../../aspose.svg.dom/typeinfo/typenamespace/) { get; } | يحصل على مساحة اسم النوع. مساحة اسم النوع المُعلن للعنصر أو السمة المرتبطة أو null إذا لم يكن للعنصر إعلان أو إذا لم تتوفر معلومات عن مساحة الاسم. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom/)(string, string, ulong) | ترجع هذه الطريقة إذا كان هناك اشتقاق بين تعريف نوع المرجع ، أي TypeInfo الذي يتم من خلاله استدعاء الطريقة ، وتعريف النوع الآخر ، أي الذي تم تمريره كمعامل . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom/)(*string, string, ulong*) | تعيد هذه الطريقة ما إذا كان هناك اشتقاق بين تعريف النوع المرجعي، أي TypeInfo التي تُستدعى عليها الطريقة، وتعريف النوع الآخر، أي الذي يُمرَّر كمعامل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [DERIVATION_EXTENSION](../../aspose.svg.dom/typeinfo/derivation_extension/) | إذا كان مخطط المستند عبارة عن مخطط XML [مخطط XML الجزء 1] ، فإن هذا الثابت يمثل الاشتقاق حسب الامتداد. |
-| const [DERIVATION_LIST](../../aspose.svg.dom/typeinfo/derivation_list/) | إذا كان مخطط المستند عبارة عن مخطط XML [مخطط XML الجزء 1] ، فإن هذا الثابت يمثل القائمة. |
-| const [DERIVATION_RESTRICTION](../../aspose.svg.dom/typeinfo/derivation_restriction/) | إذا كان مخطط المستند عبارة عن مخطط XML [مخطط XML الجزء 1] ، فإن هذا الثابت يمثل الاشتقاق عن طريق التقييد إذا كانت الأنواع المعقدة متضمنة ، أو تقييدًا إذا كانت الأنواع البسيطة متضمنة. |
-| const [DERIVATION_UNION](../../aspose.svg.dom/typeinfo/derivation_union/) | إذا كان مخطط المستند عبارة عن مخطط XML [مخطط XML الجزء 1] ، فإن هذا الثابت يمثل الاتحاد إذا كانت الأنواع البسيطة متضمنة. |
+| const [DERIVATION_EXTENSION](../../aspose.svg.dom/typeinfo/derivation_extension/) | إذا كان مخطط المستند هو مخطط XML [XML Schema Part 1]، فإن هذا الثابت يمثل الاشتقاق عن طريق التوسيع. |
+| const [DERIVATION_LIST](../../aspose.svg.dom/typeinfo/derivation_list/) | إذا كان مخطط المستند هو مخطط XML [XML Schema Part 1]، فإن هذا الثابت يمثل القائمة. |
+| const [DERIVATION_RESTRICTION](../../aspose.svg.dom/typeinfo/derivation_restriction/) | إذا كان مخطط المستند هو مخطط XML [XML Schema Part 1]، فإن هذا الثابت يمثل الاشتقاق عن طريق التقييد إذا كانت الأنواع المركبة متضمنة، أو تقييدًا إذا كانت الأنواع البسيطة متضمنة. |
+| const [DERIVATION_UNION](../../aspose.svg.dom/typeinfo/derivation_union/) | إذا كان مخطط المستند هو مخطط XML [XML Schema Part 1]، فإن هذا الثابت يمثل الاتحاد إذا كانت الأنواع البسيطة متضمنة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../domobject/)
-* مساحة الاسم [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

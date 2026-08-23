@@ -1,48 +1,46 @@
 ---
-title: MutationObserverInit.Add
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserverInit طريقة. يضيف عنصرًا إلى ملفMutationObserverInitجمع.
+title: "MutationObserverInit.Add"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Add في MutationObserverInit. تضيف عنصرًا إلى مجموعة MutationObserverInit"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/add/
 ---
-## Add(KeyValuePair&lt;string, object&gt;) {#add}
+## Add(*KeyValuePair&lt;string, object&gt;*) {#add}
 
-يضيف عنصرًا إلى ملف[`MutationObserverInit`](../)جمع.
+تضيف عنصرًا إلى مجموعة [`MutationObserverInit`](../).
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| item | KeyValuePair`2 | العنصر المراد إضافته. |
+| عنصر | KeyValuePair`2 | العنصر المراد إضافته. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(string, object) {#add_1}
+## Add(*string, object*) {#add_1}
 
-إضافة المفتاح والقيمة المحددين إلى ملف[`MutationObserverInit`](../)جمع.
+تضيف المفتاح والقيمة المحددين إلى مجموعة [`MutationObserverInit`](../).
 
 ```csharp
 public void Add(string key, object value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح العنصر المراد إضافته. |
-| value | Object | قيمة العنصر المراد إضافته. |
+| المفتاح | String | المفتاح للعنصر المراد إضافته. |
+| القيمة | كائن | القيمة للعنصر المراد إضافته. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

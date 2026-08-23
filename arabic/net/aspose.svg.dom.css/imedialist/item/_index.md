@@ -1,23 +1,21 @@
 ---
-title: IMediaList.Item
-second_title: Aspose.SVG لمرجع .NET API
-description: IMediaList ملكية. إرجاع الفهرس في القائمة. إذا كان الفهرس أكبر من أو يساوي عدد الوسائط في القائمة  فإن هذا يُرجع قيمة خالية.فهرس الوسائط.
+title: "IMediaList.Item"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Item في IMediaList. تُعيد العنصر في الفهرس المحدد في القائمة. إذا كان الفهرس أكبر من أو يساوي عدد الوسائط في القائمة فإنها تُعيد null. فهرس الوسائط"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/imedialist/item/
 ---
 ## IMediaList indexer
 
-إرجاع الفهرس في القائمة. إذا كان الفهرس أكبر من أو يساوي عدد الوسائط في القائمة ، فإن هذا يُرجع قيمة خالية.فهرس الوسائط.
+يرجع العنصر في الموضع index في القائمة. إذا كان index أكبر من أو يساوي عدد الوسائط في القائمة، فإنها تُعيد null. فهرس الوسائط.
 
 ```csharp
 public string this[int index] { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IMediaList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../imedialist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

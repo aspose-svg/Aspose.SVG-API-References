@@ -1,24 +1,22 @@
 ---
-title: GraphicContext.Font
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. تعيين أو الحصول على كائن خط النوع الحقيقي المستخدم في عرض النص.
+title: "GraphicContext.Font"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext Font. تعيين أو الحصول على كائن الخط TrueType المستخدم لتصيير النص"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.svg.rendering/graphiccontext/font/
 ---
 ## GraphicContext.Font property
 
-تعيين أو الحصول على كائن خط النوع الحقيقي المستخدم في عرض النص.
+يضبط أو يحصل على كائن الخط الحقيقي المستخدم لتصيير النص.
 
 ```csharp
 public virtual ITrueTypeFont Font { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITrueTypeFont](../../../aspose.svg.drawing/itruetypefont/)
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

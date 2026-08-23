@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnToggle
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على أو تعيين معالج الأحداث لحدث OnToggle.
+title: "IGlobalEventHandlers.OnToggle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث IGlobalEventHandlers OnToggle. يحصل أو يعيّن معالج الحدث لحدث OnToggle."
 type: docs
 weight: 480
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/ontoggle/
 ---
 ## IGlobalEventHandlers.OnToggle event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnToggle.
+يحصل أو يعيّن معالج الحدث لحدث OnToggle.
 
 ```csharp
 public event DOMEventHandler OnToggle;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

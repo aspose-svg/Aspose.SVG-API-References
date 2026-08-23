@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_ARC_REL
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg مجال. يتوافق مع أمر arcto النسبي أ بيانات المسار.
+title: "SVGPathSeg.PATHSEG_ARC_REL"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGPathSeg PATHSEG_ARC_REL. يتطابق مع أمر بيانات مسار arcto نسبي"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.paths/svgpathseg/pathseg_arc_rel/
 ---
 ## SVGPathSeg.PATHSEG_ARC_REL field
 
-يتوافق مع أمر "arcto النسبي" (أ) بيانات المسار.
+يتطابق مع أمر بيانات مسار "arcto" النسبي (a).
 
 ```csharp
 public const ushort PATHSEG_ARC_REL;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,45 +1,43 @@
 ---
-title: Class SplinePathBuilder
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.SplinePathBuilder فصل. ملفSplinePathBuilder الطبقة هي المسؤولة عن بناء مقاطع المسارSVGPathSeg من قائمة نقاط التتبع . يعتمد منشئ المسار هذا على تطبيق خط CatmullRoma spline على مجموعة من نقاط المسار المصقولة والمقلصة ..
+title: "فئة SplinePathBuilder"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.ImageVectorization.SplinePathBuilder. تم تصميم فئة SplinePathBuilder لإنشاء مسار ناعم عن طريق تحويل منحنيات CatmullRom المركزية إلى منحنيات بيزيه. توفر طريقة لتوليد مسار يتداخل بسلاسة عبر مجموعة من النقاط، مقدمةً توازنًا بين الدقة في تمثيل النقاط وسلاسة المنحنى."
 type: docs
-weight: 2160
+weight: 4230
 url: /ar/net/aspose.svg.imagevectorization/splinepathbuilder/
 ---
 ## SplinePathBuilder class
 
-ملف`SplinePathBuilder` الطبقة هي المسؤولة عن بناء مقاطع المسار[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) من قائمة نقاط التتبع . يعتمد منشئ المسار هذا على تطبيق خط Catmull-Roma spline على مجموعة من نقاط المسار المصقولة والمقلصة ..
+تم تصميم فئة `SplinePathBuilder` لإنشاء مسار ناعم عن طريق تحويل منحنيات Catmull–Rom المركزية إلى منحنيات بيزيه. توفر طريقة لتوليد مسار يتداخل بسلاسة عبر مجموعة من النقاط، مقدمةً توازنًا بين الدقة في تمثيل النقاط وسلاسة المنحنى.
 
 ```csharp
 public class SplinePathBuilder : IPathBuilder
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SplinePathBuilder](splinepathbuilder/#constructor)() | يقوم بتهيئة مثيل جديد لملف`SplinePathBuilder` فئة . |
-| [SplinePathBuilder](splinepathbuilder/#constructor_2)(float) | يقوم بتهيئة مثيل جديد لملف`SplinePathBuilder` فئة . |
-| [SplinePathBuilder](splinepathbuilder/#constructor_1)(IImageTraceSmoother, IImageTraceSimplifier, float) | يقوم بتهيئة مثيل جديد لملف`SplinePathBuilder` فئة . |
+| [SplinePathBuilder](splinepathbuilder/#constructor)() | يُنشئ مثيلًا جديدًا من فئة `SplinePathBuilder`. |
+| [SplinePathBuilder](splinepathbuilder/#constructor_2)(*float*) | يُنشئ مثيلًا جديدًا من فئة `SplinePathBuilder`. |
+| [SplinePathBuilder](splinepathbuilder/#constructor_1)(*[IImageTraceSmoother](../iimagetracesmoother/), [IImageTraceSimplifier](../iimagetracesimplifier/), float*) | يُنشئ مثيلًا جديدًا من فئة `SplinePathBuilder`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Tension](../../aspose.svg.imagevectorization/splinepathbuilder/tension/) { get; set; } | تؤثر قيمة التوترات على مدى حدة انحناء المنحنى عند نقاط التحكم (المقحمة) . يجب أن تكون في النطاق من 0 إلى 1. سيتم محاذاة أي قيم أعلى أو أدنى مع القيم الدنيا والحد الأقصى لهذا النطاق ، تبعا لذلك. |
-| [TraceSimplifier](../../aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/) { get; set; } | الحصول على أو تعيين مبسط التتبع. |
-| [TraceSmoother](../../aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/) { get; set; } | الحصول على التتبع أو تعيينه بشكل أكثر سلاسة. |
+| [Tension](../../aspose.svg.imagevectorization/splinepathbuilder/tension/) { get; set; } | قيمة التوترات تؤثر على مدى حدة انحناء المنحنى عند نقاط التحكم (interpolated). يجب أن تكون في النطاق من 0 إلى 1. أي قيم أعلى أو أقل سيتم محاذاتها مع القيم الدنيا والعليا لهذا النطاق، وفقًا لذلك. |
+| [TraceSimplifier](../../aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/) { get; set; } | يحصل أو يعيّن مبسط الأثر. |
+| [TraceSmoother](../../aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/) { get; set; } | يحصل أو يعيّن مملّس الأثر. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/splinepathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | ينشئ مقاطع مسار من قائمة نقاط التتبع . |
+| [Build](../../aspose.svg.imagevectorization/splinepathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | يبني مسارًا سلسًا عبر تسلسل من النقاط عن طريق تحويل منحنيات Centripetal Catmull–Rom إلى منحنيات Bezier. تضمن هذه الطريقة انتقالًا طبيعيًا وسلسًا عبر كل نقطة، وتُنشئ مسار SVG يتبع الأثر المقدم بدقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPathBuilder](../ipathbuilder/)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

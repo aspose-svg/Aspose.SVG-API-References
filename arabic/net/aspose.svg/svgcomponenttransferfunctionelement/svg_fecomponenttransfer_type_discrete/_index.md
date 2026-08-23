@@ -1,23 +1,21 @@
 ---
-title: SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGComponentTransferFunctionElement مجال. يتوافق مع القيمة المنفصلة .
+title: "SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGComponentTransferFunctionElement SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE. يتطابق مع القيمة discrete"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_discrete/
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE field
 
-يتوافق مع القيمة "المنفصلة" .
+يتطابق مع القيمة 'discrete'.
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGComponentTransferFunctionElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

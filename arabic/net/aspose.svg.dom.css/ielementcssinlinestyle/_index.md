@@ -1,14 +1,14 @@
 ---
-title: Interface IElementCSSInlineStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.IElementCSSInlineStyle واجهه المستخدم. يتم عرض معلومات النمط المضمنة المرفقة بالعناصر من خلال سمة النمط. يمثل هذا محتويات سمة STYLE لعناصر HTML أو عناصر في مخططات أو DTD أخرى تستخدم سمة STYLE بنفس الطريقة.
+title: "واجهة IElementCSSInlineStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Css.IElementCSSInlineStyle. يتم كشف معلومات النمط المضمن المرفقة بالعناصر عبر سمة style. يمثل هذا محتوى سمة STYLE لعناصر HTML أو العناصر في مخططات أو DTDs أخرى التي تستخدم سمة STYLE بنفس الطريقة."
 type: docs
-weight: 710
+weight: 2710
 url: /ar/net/aspose.svg.dom.css/ielementcssinlinestyle/
 ---
 ## IElementCSSInlineStyle interface
 
-يتم عرض معلومات النمط المضمنة المرفقة بالعناصر من خلال سمة النمط. يمثل هذا محتويات سمة STYLE لعناصر HTML (أو عناصر في مخططات أو DTD أخرى تستخدم سمة STYLE بنفس الطريقة).
+معلومات النمط المضمنة المرتبطة بالعناصر تُعرض عبر سمة style. هذا يمثل محتويات سمة STYLE لعناصر HTML (أو العناصر في مخططات أو DTDs أخرى التي تستخدم سمة STYLE بنفس الطريقة).
 
 ```csharp
 public interface IElementCSSInlineStyle
@@ -16,13 +16,11 @@ public interface IElementCSSInlineStyle
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Style](../../aspose.svg.dom.css/ielementcssinlinestyle/style/) { get; } | يمثل سمة نمط تسمح للمؤلف بتطبيق معلومات النمط مباشرة على عنصر معين. |
+| [Style](../../aspose.svg.dom.css/ielementcssinlinestyle/style/) { get; } | يمثل يمثل سمة نمط تسمح للمؤلف بتطبيق معلومات النمط مباشرةً على عنصر محدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

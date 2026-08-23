@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_PC
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة طول كمبيوتر. يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+title: "CSSPrimitiveValue.CSS_PC"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "CSSPrimitiveValue CSS_PC field. القيمة هي طول بوحدة pc. يمكن الحصول على القيمة باستخدام طريقة getFloatValue method"
 type: docs
-weight: 300
+weight: 310
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_pc/
 ---
 ## CSSPrimitiveValue.CSS_PC field
 
-القيمة طول (كمبيوتر). يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+القيمة هي طول (pc). يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
 
 ```csharp
 public const ushort CSS_PC;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

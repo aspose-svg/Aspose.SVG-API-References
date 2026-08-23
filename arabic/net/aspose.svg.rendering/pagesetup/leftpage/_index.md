@@ -1,24 +1,22 @@
 ---
-title: PageSetup.LeftPage
-second_title: Aspose.SVG لمرجع .NET API
-description: PageSetup ملكية. الحصول على تهيئة الصفحة الفردية .
+title: "PageSetup.LeftPage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PageSetup LeftPage. يحصل على تكوين الصفحة الفردية"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.rendering/pagesetup/leftpage/
 ---
 ## PageSetup.LeftPage property
 
-الحصول على تهيئة الصفحة الفردية .
+يحصل على تكوين الصفحة الفردية.
 
 ```csharp
 public Page LeftPage { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../pagesetup/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

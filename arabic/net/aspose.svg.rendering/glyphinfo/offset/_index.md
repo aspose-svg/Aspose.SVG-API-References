@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Offset
-second_title: Aspose.SVG لمرجع .NET API
-description: GlyphInfo ملكية. يحصل على الإزاحة للصورة الرمزية التالية بالنقاط .
+title: "GlyphInfo.Offset"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GlyphInfo Offset. يحصل على الإزاحة إلى الحرف التالي بالنقاط"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering/glyphinfo/offset/
 ---
 ## GlyphInfo.Offset property
 
-يحصل على الإزاحة للصورة الرمزية التالية بالنقاط .
+يحصل على الإزاحة إلى الرمز التالي بالنقاط.
 
 ```csharp
 public float Offset { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الإزاحة بالنقاط .
+الإزاحة بالنقاط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [GlyphInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../glyphinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

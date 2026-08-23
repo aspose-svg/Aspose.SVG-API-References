@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.BaseFrequencyY
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETurbulenceElement ملكية. يتوافق مع السمة baseFrequency على عنصر feTurbulence المحدد. يحتوي على المكوِّن Y لسمة baseFrequency ربما يتم حسابها تلقائيًا.
+title: "SVGFETurbulenceElement.BaseFrequencyY"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية BaseFrequencyY في SVGFETurbulenceElement. تتطابق مع السمة baseFrequency في عنصر feTurbulence المحدد. تحتوي على المكوّن Y للخاصية baseFrequency التي قد تُحسب تلقائيًا."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.filters/svgfeturbulenceelement/basefrequencyy/
 ---
 ## SVGFETurbulenceElement.BaseFrequencyY property
 
-يتوافق مع السمة "baseFrequency" على عنصر "feTurbulence" المحدد. يحتوي على المكوِّن Y لسمة "baseFrequency" (ربما يتم حسابها تلقائيًا).
+يتطابق مع السمة ‘baseFrequency’ في العنصر ‘feTurbulence’ المحدد. يحتوي على المكوّن Y للسمة ‘baseFrequency’ (التي قد تُحسب تلقائيًا).
 
 ```csharp
 public SVGAnimatedNumber BaseFrequencyY { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "baseFrequency" لعنصر "feTurbulence" المحدد .
+السمة ‘baseFrequency’ لعنصر ‘feTurbulence’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

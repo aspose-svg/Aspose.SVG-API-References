@@ -1,14 +1,14 @@
 ---
-title: Dimension.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: Dimension طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "Dimension.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Dimension ToString. تُرجع سلسلة تمثل هذا المثيل"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/dimension/tostring/
 ---
 ## Dimension.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dimension](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../dimension/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

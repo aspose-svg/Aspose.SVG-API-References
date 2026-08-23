@@ -1,53 +1,45 @@
 ---
-title: Class Location
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Window.Location فصل. توفر كائنات الموقع تمثيلاً لعنوان المستند النشط لسياق استعراض المستند الخاص بهم  وتسمح بتغيير الإدخال الحالي لمحفوظات جلسة سياق الاستعراض  عن طريق إضافة أو استبدال الإدخالات في كائن المحفوظات.
+title: "فئة Location"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Window.Location. توفر كائنات Location تمثيلًا لعنوان المستند النشط في سياق تصفح مستنداتهم وتسمح بتغيير الإدخال الحالي في سجل جلسة تصفح السياق عن طريق إضافة أو استبدال الإدخالات في كائن السجل."
 type: docs
-weight: 3850
+weight: 5950
 url: /ar/net/aspose.svg.window/location/
 ---
 ## Location class
 
-توفر كائنات الموقع تمثيلاً لعنوان المستند النشط لسياق استعراض المستند الخاص بهم ، وتسمح بتغيير الإدخال الحالي لمحفوظات جلسة سياق الاستعراض ، عن طريق إضافة أو استبدال الإدخالات في كائن المحفوظات.
+توفر كائنات Location تمثيلاً لعنوان المستند النشط في سياق التصفح الخاص بوثيقتهم، وتسمح بتغيير الإدخال الحالي في سجل جلسة سياق التصفح عن طريق إضافة أو استبدال الإدخالات في كائن السجل.
 
 ```csharp
-public sealed class Location : Url
+public sealed class Location : DOMObject
 ```
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Hash](../../aspose.svg/url/hash/) { get; set; } | الحصول على تمثيل سلسلة أو تعيينه لقطاع تجزئة عنوان URL المحدد. |
-| [Host](../../aspose.svg/url/host/) { get; set; } | الحصول على أو تعيين تمثيل سلسلة لمضيف عنوان URL المحدد. |
-| [Hostname](../../aspose.svg/url/hostname/) { get; set; } | الحصول على تمثيل سلسلة لاسم مضيف URL المحدد أو تعيينه. |
-| [Href](../../aspose.svg/url/href/) { get; set; } | الحصول على أو تعيين تمثيل متسلسل لمثيل عنوان URL المحدد. |
-| [Origin](../../aspose.svg/url/origin/) { get; } | يحصل على تمثيل سلسلة لأصل عنوان URL المحدد. |
-| [Password](../../aspose.svg/url/password/) { get; set; } | الحصول على أو تعيين سلسلة تمثيل لكلمة مرور URL المحددة. |
-| [Pathname](../../aspose.svg/url/pathname/) { get; set; } | الحصول على تمثيل سلسلة لمسار URL المحدد أو تعيينه. |
-| [Port](../../aspose.svg/url/port/) { get; set; } | الحصول على تمثيل سلسلة لمنفذ URL المحدد أو تعيينه. |
-| [Protocol](../../aspose.svg/url/protocol/) { get; set; } | الحصول على تمثيل سلسلة لمخطط URL المحدد أو تعيينه. |
-| [Search](../../aspose.svg/url/search/) { get; set; } | الحصول على أو تعيين تمثيل سلسلة لمقطع بحث URL المحدد. |
-| [SearchParams](../../aspose.svg/url/searchparams/) { get; } | يحصل على ملف[`IUrlSearchParams`](../../aspose.svg/iurlsearchparams/) الكائن . |
-| [Username](../../aspose.svg/url/username/) { get; set; } | الحصول على أو تعيين سلسلة تمثيل لاسم مستخدم URL المحدد. |
+| [Hash](../../aspose.svg.window/location/hash/) { get; set; } | يرجع الجزء (fragment) من عنوان URL لكائن Location (يتضمن العلامة "#" في البداية إذا لم يكن فارغًا). يمكن تعيينه للتنقل إلى نفس URL مع جزء مُغيّر (يتجاهل العلامة "#" في البداية). |
+| [Host](../../aspose.svg.window/location/host/) { get; set; } | يعيد مضيف ومنفذ URL الخاص بكائن Location (إذا كان مختلفًا عن المنفذ الافتراضي للمخطط). يمكن تعيينه للتنقل إلى نفس URL مع تغيير المضيف والمنفذ. |
+| [Hostname](../../aspose.svg.window/location/hostname/) { get; set; } | يعيد مضيف URL الخاص بكائن Location. يمكن تعيينه للتنقل إلى نفس URL مع تغيير المضيف. |
+| [Href](../../aspose.svg.window/location/href/) { get; set; } | يعيد URL الخاص بكائن Location. يمكن تعيينه للتنقل إلى URL المحدد. |
+| [Origin](../../aspose.svg.window/location/origin/) { get; } | يعيد أصل URL الخاص بكائن Location. |
+| [Pathname](../../aspose.svg.window/location/pathname/) { get; set; } | يعيد مسار URL الخاص بكائن Location. يمكن تعيينه للتنقل إلى نفس URL مع تغيير المسار. |
+| [Port](../../aspose.svg.window/location/port/) { get; set; } | يعيد منفذ URL الخاص بكائن Location. يمكن تعيينه للتنقل إلى نفس URL مع تغيير المنفذ. |
+| [Protocol](../../aspose.svg.window/location/protocol/) { get; set; } | يعيد مخطط URL الخاص بكائن Location. يمكن تعيينه للتنقل إلى نفس URL مع تغيير المخطط. |
+| [Search](../../aspose.svg.window/location/search/) { get; set; } | يعيد استعلام URL الخاص بكائن Location (يتضمن علامة \"?\" الأولية إذا لم يكن فارغًا). يمكن تعيينه للتنقل إلى نفس URL مع تغيير الاستعلام (يتجاهل علامة \"?\" الأولية). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Assign](../../aspose.svg.window/location/assign/)(string) | ينتقل إلى الصفحة المحددة. |
-| override [Equals](../../aspose.svg/url/equals/)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.svg/url/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [Reload](../../aspose.svg.window/location/reload/)() | إعادة تحميل الصفحة الحالية. |
-| [Replace](../../aspose.svg.window/location/replace/)(string) | يزيل الصفحة الحالية من محفوظات الجلسة وينتقل إلى الصفحة المحددة. |
-| [ToJson](../../aspose.svg/url/tojson/)() | إرجاع أString الذي يمثل هذا المثال. |
-| override [ToString](../../aspose.svg/url/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| [Assign](../../aspose.svg.window/location/assign/)(*string*) | ينتقل إلى الصفحة المحددة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [Reload](../../aspose.svg.window/location/reload/)() | يعيد تحميل الصفحة الحالية. |
+| [Replace](../../aspose.svg.window/location/replace/)(*string*) | يزيل الصفحة الحالية من سجل الجلسة ويتنقل إلى الصفحة المحددة. |
+| override [ToString](../../aspose.svg.window/location/tostring/)() | يعيد URL الخاص بكائن Location. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Url](../../aspose.svg/url/)
-* مساحة الاسم [Aspose.Svg.Window](../../aspose.svg.window/)
-* المجسم [Aspose.SVG](../../)
-
-
+* class [DOMObject](../../aspose.svg.dom/domobject/)
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

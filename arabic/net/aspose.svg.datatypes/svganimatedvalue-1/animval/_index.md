@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.AnimVal
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGAnimatedValue ملكية. إذا تم تحريك السمة أو الخاصية المحددة  فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا  فستحتوي على نفس قيمة baseVal.
+title: "SVGAnimatedValue-1.AnimVal"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGAnimatedValue AnimVal. إذا كانت السمة أو الخاصية المعطاة قيد التحريك فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم تكن السمة أو الخاصية قيد التحريك فإنها تحتوي على نفس القيمة مثل baseVal"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svganimatedvalue-1/animval/
 ---
-## SVGAnimatedValue&lt;T&gt;.AnimVal property
+## SVGAnimatedValue<T>.AnimVal property
 
-إذا تم تحريك السمة أو الخاصية المحددة ، فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا ، فستحتوي على نفس قيمة baseVal.
+إذا كانت السمة أو الخاصية المحددة قيد التحريك، فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم تكن السمة أو الخاصية المحددة قيد التحريك حالياً، فإنها تحتوي على نفس القيمة كما في baseVal.
 
 ```csharp
 public virtual T AnimVal { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [قيمة الرسوم المتحركة] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [anim value]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

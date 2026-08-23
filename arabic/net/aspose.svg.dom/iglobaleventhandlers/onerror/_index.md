@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnError
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnError أو تعيينه.
+title: "IGlobalEventHandlers.OnError"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnError حدث. يحصل أو يضبط معالج الحدث لـ OnError حدث"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onerror/
 ---
 ## IGlobalEventHandlers.OnError event
 
-الحصول على معالج الحدث لحدث OnError أو تعيينه.
+يحصل أو يضبط معالج الحدث لحدث OnError.
 
 ```csharp
 public event DOMEventHandler OnError;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: ImageRenderingOptions.Format
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageRenderingOptions ملكية. مجموعات أو يحصلImageFormat . افتراضيا هذه الخاصية هيPng .
+title: "ImageRenderingOptions.Format"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ImageRenderingOptions Format. تعيين أو الحصول على ImageFormat. بشكل افتراضي تكون هذه الخاصية Png"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.rendering.image/imagerenderingoptions/format/
 ---
 ## ImageRenderingOptions.Format property
 
-مجموعات أو يحصل[`ImageFormat`](../../imageformat/) . افتراضيا هذه الخاصية هيPng .
+تعيين أو الحصول على [`ImageFormat`](../../imageformat/). بشكل افتراضي تكون هذه الخاصية Png.
 
 ```csharp
 public ImageFormat Format { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

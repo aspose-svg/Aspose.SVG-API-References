@@ -1,18 +1,16 @@
 ---
-title: Aspose.Svg.Rendering.Fonts
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg التقديم والخطوط تحتوي مساحة الاسم على فئات وطرق تسمح لك بالتحكم في بعض أجزاء خوارزمية مطابقة الخط.
+title: "Aspose.Svg.Rendering.Fonts"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تحتوي مساحة الاسم Aspose.Svg.Rendering.Fonts على فئات وطرق تسمح لك بالتحكم في بعض أجزاء خوارزمية مطابقة الخطوط."
 type: docs
-weight: 250
+weight: 270
 url: /ar/net/aspose.svg.rendering.fonts/
 ---
-ملف **Aspose.Svg التقديم والخطوط** تحتوي مساحة الاسم على فئات وطرق تسمح لك بالتحكم في بعض أجزاء خوارزمية مطابقة الخط.
+تحتوي مساحة الاسم **Aspose.Svg.Rendering.Fonts** على فئات وطرق تتيح لك التحكم في بعض أجزاء خوارزمية مطابقة الخطوط.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [FontMatcher](./fontmatcher/) | تسمح لك هذه الفئة بالتحكم في بعض أجزاء خوارزمية مطابقة الخط. |
-| [FontMatchingProperties](./fontmatchingproperties/) | تحتوي هذه الفئة على خصائص تصف الخط الذي تتم مطابقته. |
-
-
+| [FontMatcher](./fontmatcher/) | تسمح لك هذه الفئة بالتحكم في بعض أجزاء خوارزمية مطابقة الخطوط. |
+| [FontMatchingProperties](./fontmatchingproperties/) | تحتوي هذه الفئة على خصائص تصف الخط الذي يتم مطابقته. |

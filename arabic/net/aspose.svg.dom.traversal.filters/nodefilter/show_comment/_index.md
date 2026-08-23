@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.SHOW_COMMENT
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeFilter مجال. إظهار عقد التعليق .
+title: "NodeFilter.SHOW_COMMENT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "NodeFilter SHOW_COMMENT حقل. إظهار عقد Comment"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.dom.traversal.filters/nodefilter/show_comment/
 ---
 ## NodeFilter.SHOW_COMMENT field
 
-إظهار عقد التعليق .
+إظهار عقد التعليق.
 
 ```csharp
 public const long SHOW_COMMENT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeFilter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

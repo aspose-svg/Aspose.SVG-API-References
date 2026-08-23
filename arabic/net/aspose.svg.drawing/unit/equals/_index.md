@@ -1,55 +1,53 @@
 ---
-title: Unit.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: Unit طريقة. تحديد ما إذا كان الملف المحددUnit  يساوي هذا المثال.
+title: "Unit.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Unit Equals. تحدد ما إذا كان الـ Unit المحدد يساوي هذه الحالة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/unit/equals/
 ---
-## Equals(Unit) {#equals}
+## Equals(*[Unit](../)*) {#equals}
 
-تحديد ما إذا كان الملف المحدد[`Unit`](../) ، يساوي هذا المثال.
+تحدد ما إذا كان الـ [`Unit`](../) المحدد، يساوي هذه الحالة.
 
 ```csharp
 public virtual bool Equals(Unit other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | Unit | ال[`Unit`](../) للمقارنة مع هذه الحالة. |
+| other | Unit | الـ [`Unit`](../) للمقارنة مع هذه الحالة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحدد[`Unit`](../) يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الـ [`Unit`](../) المحدد يساوي هذه الحالة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد مساويًا لهذه الحالة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | كائن | الكائن للمقارنة مع هذه النسخة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد مساويًا لهذه النسخة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

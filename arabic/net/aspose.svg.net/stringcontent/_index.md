@@ -1,46 +1,44 @@
 ---
-title: Class StringContent
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.StringContent فصل. يمثل المحتوى بناءً على سلسلة .
+title: "فئة StringContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Net.StringContent. تمثل محتوى يعتمد على سلسلة."
 type: docs
-weight: 2460
+weight: 4530
 url: /ar/net/aspose.svg.net/stringcontent/
 ---
 ## StringContent class
 
-يمثل المحتوى بناءً على سلسلة .
+يمثل محتوى يعتمد على سلسلة نصية.
 
 ```csharp
 public class StringContent : ByteArrayContent
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [StringContent](stringcontent/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`StringContent` فئة . |
-| [StringContent](stringcontent/#constructor_1)(string, Encoding) | يقوم بتهيئة مثيل جديد لملف`StringContent` فئة . |
-| [StringContent](stringcontent/#constructor_2)(string, Encoding, string) | يقوم بتهيئة مثيل جديد لملف`StringContent` فئة . |
+| [StringContent](stringcontent/#constructor)(*string*) | يقوم بتهيئة نسخة جديدة من الفئة `StringContent`. |
+| [StringContent](stringcontent/#constructor_1)(*string, Encoding*) | يقوم بتهيئة نسخة جديدة من الفئة `StringContent`. |
+| [StringContent](stringcontent/#constructor_2)(*string, Encoding, string*) | يقوم بتهيئة نسخة جديدة من الفئة `StringContent`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | الحصول على رؤوس محتوى HTTP . |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | يحصل على رؤوس محتوى HTTP. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | تسلسل محتوى HTTP وإرجاع دفق يمثل المحتوى. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | تسلسل محتوى HTTP وإرجاع سلسلة تمثل المحتوى. |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | سلسل محتوى HTTP وأرجع مصفوفة بايت تمثل المحتوى. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | سلسل محتوى HTTP وأرجع تدفقًا يمثل المحتوى. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | سلسل محتوى HTTP وأرجع سلسلة تمثل المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ByteArrayContent](../bytearraycontent/)
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

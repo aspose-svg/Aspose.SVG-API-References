@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.GetComputedTextLength
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextContentElement طريقة. المجموع الإجمالي لجميع القيم المتقدمة من عرض جميع الأحرف داخل هذا العنصر  بما في ذلك القيمة المتقدمة على الحروف الرسومية أفقيًا أو رأسيًا  وتأثير خصائص قرن الحروف و تباعد الأحرف و الكلمات التباعد والتعديلات بسبب السمتين dx و dy على عناصر tspan. بالنسبة للبيئات التي لا تقوم بالعرض  يجب على وكيل المستخدم وضع افتراضات معقولة حول مقاييس الصورة الرمزية.
+title: "SVGTextContentElement.GetComputedTextLength"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGTextContentElement GetComputedTextLength. المجموع الكلي لجميع قيم التقدم الناتجة عن رسم جميع الأحرف داخل هذا العنصر بما في ذلك قيمة التقدم على الحروف أفقياً أو عمودياً وتأثير خصائص kerning و letter-spacing و word-spacing والتعديلات الناتجة عن السمات dx و dy على عناصر tspan. في بيئات غير العرض، يجب على وكيل المستخدم إجراء افتراضات معقولة حول مقاييس الحروف."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgtextcontentelement/getcomputedtextlength/
 ---
 ## SVGTextContentElement.GetComputedTextLength method
 
-المجموع الإجمالي لجميع القيم المتقدمة من عرض جميع الأحرف داخل هذا العنصر ، بما في ذلك القيمة المتقدمة على الحروف الرسومية (أفقيًا أو رأسيًا) ، وتأثير خصائص "قرن الحروف" و "تباعد الأحرف" و "الكلمات- التباعد والتعديلات بسبب السمتين "dx" و "dy" على عناصر "tspan". بالنسبة للبيئات التي لا تقوم بالعرض ، يجب على وكيل المستخدم وضع افتراضات معقولة حول مقاييس الصورة الرمزية.
+المجموع الكلي لجميع قيم التقدم الناتجة عن عرض جميع الأحرف داخل هذا العنصر، بما في ذلك قيمة التقدم على الحروف (أفقية أو عمودية)، وتأثير الخصائص ‘kerning’ و‘letter-spacing’ و‘word-spacing’ والتعديلات الناجمة عن السمات ‘dx’ و‘dy’ في عناصر ‘tspan’. في بيئات غير العرض، يجب على وكيل المستخدم إجراء افتراضات معقولة حول مقاييس الحروف.
 
 ```csharp
 public float GetComputedTextLength()
@@ -18,10 +18,8 @@ public float GetComputedTextLength()
 
 مسافة تقدم النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextContentElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextcontentelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

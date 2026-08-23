@@ -1,23 +1,21 @@
 ---
-title: Aspose.Svg.Rendering.Pdf.Encryption
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Rendering.Pdf.Cryption تحتوي مساحة الاسم على فئات بيانات تصف تفاصيل تشفير pdf مثل كلمة المرور  وخوارزمية التشفير وما إلى ذلك.
+title: "Aspose.Svg.Rendering.Pdf.Encryption"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تحتوي مساحة الاسم Aspose.Svg.Rendering.Pdf.Encryption على فئات بيانات تصف تفاصيل تشفير PDF مثل خوارزمية تشفير كلمة المرور وما إلى ذلك."
 type: docs
-weight: 280
+weight: 300
 url: /ar/net/aspose.svg.rendering.pdf.encryption/
 ---
-ملف **Aspose.Svg.Rendering.Pdf.Cryption** تحتوي مساحة الاسم على فئات بيانات تصف تفاصيل تشفير pdf مثل كلمة المرور ، وخوارزمية التشفير وما إلى ذلك.
+تحتوي مساحة الاسم **Aspose.Svg.Rendering.Pdf.Encryption** على فئات بيانات تصف تفاصيل تشفير PDF مثل كلمة المرور، خوارزمية التشفير، وما إلى ذلك.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [PdfEncryptionInfo](./pdfencryptioninfo/) | يحتوي على تفاصيل لتشفير pdf . |
-## تعداد
+| [PdfEncryptionInfo](./pdfencryptioninfo/) | يحتوي على تفاصيل لتشفير PDF. |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | تعداد وضع التشفير. صِف باستخدام الخوارزمية وطول المفتاح. تم تمديد هذا التعداد للتمكن من زيادة الوظائف بشكل أكبر. |
-| [PdfPermissions](./pdfpermissions/) | يمثل هذا التعداد أذونات المستخدم لملف pdf. |
-
-
+| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | تعداد وضع التشفير. يصف باستخدام الخوارزمية وطول المفتاح. تم توسيع هذا التعداد لزيادة الوظائف. يطبق هذا التعداد نمط "Base-to-Core". |
+| [PdfPermissions](./pdfpermissions/) | يمثل هذا التعداد أذونات المستخدم لملف PDF. |

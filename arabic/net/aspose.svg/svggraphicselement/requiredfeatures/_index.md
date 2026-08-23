@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.RequiredFeatures
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGraphicsElement ملكية. يتوافق مع السمة requiredFeatures في العنصر المحدد .
+title: "SVGGraphicsElement.RequiredFeatures"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGGraphicsElement RequiredFeatures. تتطابق مع السمة requiredFeatures على العنصر المعطى"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svggraphicselement/requiredfeatures/
 ---
 ## SVGGraphicsElement.RequiredFeatures property
 
-يتوافق مع السمة "requiredFeatures" في العنصر المحدد .
+يتطابق مع السمة ‘requiredFeatures’ على العنصر المعطى.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الميزات المطلوبة .
+الميزات المطلوبة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGGraphicsElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggraphicselement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

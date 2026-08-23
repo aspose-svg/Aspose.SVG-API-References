@@ -1,23 +1,21 @@
 ---
-title: DOMException.INVALID_ACCESS_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. إذا لم يتم دعم معلمة أو عملية بواسطة الكائن الأساسي.
+title: "DOMException.INVALID_ACCESS_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل DOMException INVALID_ACCESS_ERR. إذا لم يكن معلمة أو عملية مدعومة من قبل الكائن الأساسي"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.dom/domexception/invalid_access_err/
 ---
 ## DOMException.INVALID_ACCESS_ERR field
 
-إذا لم يتم دعم معلمة أو عملية بواسطة الكائن الأساسي.
+إذا لم يكن المعامل أو العملية مدعومًا من قبل الكائن الأساسي.
 
 ```csharp
 public const ushort INVALID_ACCESS_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

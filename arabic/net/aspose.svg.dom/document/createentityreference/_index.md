@@ -1,32 +1,30 @@
 ---
-title: Document.CreateEntityReference
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. إنشاء كائن EntityReference. بالإضافة إلى ذلك  إذا كان الكيان المُشار إليه معروفًا  فستكون القائمة الفرعية لعقدة EntityReference مماثلة لقائمة عقدة الكيان المقابلة.
+title: "Document.CreateEntityReference"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document CreateEntityReference. تنشئ كائن EntityReference. بالإضافة إلى ذلك، إذا كانت الكيان المشار إليه معروفًا، يتم جعل قائمة الأطفال لعقدة EntityReference مماثلة لتلك الخاصة بعقدة Entity المقابلة."
 type: docs
 weight: 870
 url: /ar/net/aspose.svg.dom/document/createentityreference/
 ---
 ## Document.CreateEntityReference method
 
-إنشاء كائن EntityReference. بالإضافة إلى ذلك ، إذا كان الكيان المُشار إليه معروفًا ، فستكون القائمة الفرعية لعقدة EntityReference مماثلة لقائمة عقدة الكيان المقابلة.
+ينشئ كائن EntityReference. بالإضافة إلى ذلك، إذا كان الكيان المشار إليه معروفًا، تُجعل قائمة الأطفال لعقدة EntityReference مماثلة لتلك الخاصة بعقدة Entity المقابلة.
 
 ```csharp
 public EntityReference CreateEntityReference(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الكيان. |
+| الاسم | String | اسم الكيان. |
 
 ### قيمة الإرجاع
 
-ملف[`EntityReference`](../../entityreference/) .
+الـ [`EntityReference`](../../entityreference/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EntityReference](../../entityreference/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

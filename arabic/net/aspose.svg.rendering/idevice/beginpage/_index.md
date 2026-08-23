@@ -1,27 +1,25 @@
 ---
-title: IDevice.BeginPage
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice طريقة. يبدأ عرض الصفحة الجديدة .
+title: "IDevice.BeginPage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDevice BeginPage. يبدأ رسم الصفحة الجديدة."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.rendering/idevice/beginpage/
 ---
 ## IDevice.BeginPage method
 
-يبدأ عرض الصفحة الجديدة .
+يبدأ تصيير الصفحة الجديدة.
 
 ```csharp
 public void BeginPage(SizeF size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | SizeF | حجم الصفحة. |
+| الحجم | SizeF | حجم الصفحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ITextureBrush.Opacity
-second_title: Aspose.SVG لمرجع .NET API
-description: ITextureBrush ملكية. الحصول على قيمة العتامة في مصفوفة تحويل اللون.
+title: "ITextureBrush.Opacity"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ITextureBrush Opacity. احصل على قيمة الشفافية في مصفوفة تحويل اللون"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.drawing/itexturebrush/opacity/
 ---
 ## ITextureBrush.Opacity property
 
-الحصول على قيمة العتامة في مصفوفة تحويل اللون.
+احصل على قيمة الشفافية في مصفوفة تحويل اللون.
 
 ```csharp
-public float Opacity { get; }
+public float Opacity { get; set; }
 ```
 
 ### قيمة الإرجاع
 
-التعتيم.
+الشفافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextureBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itexturebrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

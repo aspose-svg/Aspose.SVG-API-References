@@ -1,24 +1,22 @@
 ---
-title: Document.OnScroll
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على أو تعيين معالج الأحداث لحدث OnScroll.
+title: "Document.OnScroll"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnScroll. يحصل على أو يعيّن معالج الحدث لحدث OnScroll."
 type: docs
 weight: 670
 url: /ar/net/aspose.svg.dom/document/onscroll/
 ---
 ## Document.OnScroll event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnScroll.
+يحصل أو يعيّن معالج الحدث لحدث OnScroll.
 
 ```csharp
 public event DOMEventHandler OnScroll;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

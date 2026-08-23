@@ -1,56 +1,54 @@
 ---
-title: SvgRenderer.Render
-second_title: Aspose.SVG لمرجع .NET API
-description: SvgRenderer طريقة. يحدد طريقة عرض متعددةSVGDocument ق محددةIDevice .
+title: "SvgRenderer.Render"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Render في SvgRenderer. تُعرّف طريقة لتصيير مستندات SVG المتعددة في IDevice محدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering/svgrenderer/render/
 ---
-## Render(IDevice, TimeSpan, params SVGDocument[]) {#render_6}
+## Render(*[IDevice](../../idevice/), TimeSpan, params SVGDocument[]*) {#render_6}
 
-يحدد طريقة عرض متعددة[`SVGDocument`](../../../aspose.svg/svgdocument/) ق محددة[`IDevice`](../../idevice/) .
+تُعرّف طريقة لتصيير عدة [`SVGDocument`](../../../aspose.svg/svgdocument/)s في [`IDevice`](../../idevice/) محدد.
 
 ```csharp
-public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] documents)
+public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] sources)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| timeout | TimeSpan | أTimeSpan الذي يمثل عدد المللي ثانية للانتظار ، أوTimeSpan يمثل -1 مللي ثانية للانتظار إلى أجل غير مسمى. |
-| documents | SVGDocument[] | المستندات المطلوب تقديمها. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| timeout | TimeSpan | TimeSpan يمثل عدد المللي ثانية للانتظار، أو TimeSpan يمثل -1 مللي ثانية للانتظار إلى أجل غير مسمى. |
+| المصادر | SVGDocument[] | مستندات SVG التي سيتم تصييرها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SvgRenderer](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../svgrenderer/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, CancellationToken, params SVGDocument[]) {#render_5}
+## Render(*[IDevice](../../idevice/), CancellationToken, params SVGDocument[]*) {#render_5}
 
-يحدد طريقة لتصيير متعدد[`SVGDocument`](../../../aspose.svg/svgdocument/) ق في محدد[`IDevice`](../../idevice/) ، باستخدام رمز إلغاء لطلب إلغاء العملية.
+تُعرّف طريقة لتصيير عدة [`SVGDocument`](../../../aspose.svg/svgdocument/)s في [`IDevice`](../../idevice/) محدد، باستخدام رمز إلغاء لطلب إلغاء العملية.
 
 ```csharp
 public override void Render(IDevice device, CancellationToken cancellationToken, 
-    params SVGDocument[] documents)
+    params SVGDocument[] sources)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| cancellationToken | CancellationToken | رمز إلغاء يجب مراقبته أثناء انتظار اكتمال المهمة. |
-| documents | SVGDocument[] | المستندات المطلوب تقديمها. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| cancellationToken | CancellationToken | رمز إلغاء لمراقبته أثناء انتظار إكمال المهمة. |
+| المصادر | SVGDocument[] | مستندات SVG التي سيتم تصييرها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SvgRenderer](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../svgrenderer/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

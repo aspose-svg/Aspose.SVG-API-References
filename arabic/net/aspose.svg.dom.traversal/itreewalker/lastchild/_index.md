@@ -1,14 +1,14 @@
 ---
-title: ITreeWalker.LastChild
-second_title: Aspose.SVG لمرجع .NET API
-description: ITreeWalker طريقة. نقل TreeWalker إلى آخر تابع مرئي للعقدة الحالية _  وإرجاع العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no توابع مرئية  فتُرجع قيمة خالية  وتحتفظ بالعقدة الحالية.
+title: "ITreeWalker.LastChild"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ITreeWalker LastChild method. تنقل الـ TreeWalker إلى آخر طفل مرئي للعقدة الحالية وتعيد العقدة الجديدة. إذا لم تكن للعقدة الحالية أطفال مرئيون تُعيد null وتبقي على العقدة الحالية"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.traversal/itreewalker/lastchild/
 ---
 ## ITreeWalker.LastChild method
 
-نقل TreeWalker إلى آخر تابع مرئي للعقدة الحالية _ ، وإرجاع العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no توابع مرئية ، فتُرجع قيمة خالية ، وتحتفظ بالعقدة الحالية.
+ينقل TreeWalker إلى آخر طفل مرئي للعقدة الحالية، ويعيد العقدة الجديدة. إذا لم تكن للعقدة الحالية أطفال مرئيون، يُعيد null، ويحتفظ بالعقدة الحالية.
 
 ```csharp
 public Node LastChild()
@@ -16,13 +16,11 @@ public Node LastChild()
 
 ### قيمة الإرجاع
 
-العقدة الجديدة ، أو فارغة إذا كانت العقدة الحالية تحتوي على no تابعين في عرض TreeWalker المنطقي.
+العقدة الجديدة، أو null إذا لم يكن للعقدة الحالية أطفال في العرض المنطقي للـ TreeWalker.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

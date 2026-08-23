@@ -1,23 +1,21 @@
 ---
-title: UnitType.Em
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس متناسب مع ارتفاع خط العنصر الأصلي.
+title: "UnitType.Em"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "UnitType حقل Em. القياس نسبي إلى ارتفاع خط العنصر الأب"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.drawing/unittype/em/
 ---
 ## UnitType.Em field
 
-القياس متناسب مع ارتفاع خط العنصر الأصلي.
+القياس نسبي لارتفاع خط العنصر الأب.
 
 ```csharp
 public static readonly UnitType Em;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

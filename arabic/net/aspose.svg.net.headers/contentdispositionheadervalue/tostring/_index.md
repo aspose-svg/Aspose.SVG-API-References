@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentDispositionHeaderValue طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "ContentDispositionHeaderValue.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ToString في ContentDispositionHeaderValue. تُرجع سلسلة تمثل هذه المثيلة."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.net.headers/contentdispositionheadervalue/tostring/
 ---
 ## ContentDispositionHeaderValue.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-يعود أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentDispositionHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

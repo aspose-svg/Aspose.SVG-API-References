@@ -1,27 +1,25 @@
 ---
-title: IUserAgentService.CharSet
-second_title: Aspose.SVG لمرجع .NET API
-description: IUserAgentService ملكية. الحصول على مجموعة الأحرف الأولية لمستند أو تعيينها.
+title: "IUserAgentService.CharSet"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IUserAgentService CharSet. تحصل أو تعين مجموعة الأحرف الأساسية للمستند."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.services/iuseragentservice/charset/
 ---
 ## IUserAgentService.CharSet property
 
-الحصول على مجموعة الأحرف الأولية لمستند أو تعيينها.
+يحصل أو يضبط مجموعة الأحرف الأساسية للمستند.
 
 ```csharp
 public string CharSet { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مجموعة الأحرف .
+مجموعة الأحرف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUserAgentService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../iuseragentservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

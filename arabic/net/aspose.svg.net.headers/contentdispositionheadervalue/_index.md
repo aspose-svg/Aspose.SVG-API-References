@@ -1,44 +1,42 @@
 ---
-title: Class ContentDispositionHeaderValue
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.Headers.ContentDispositionHeaderValue فصل. تقديم قيمة رأس ترتيب المحتوى.
+title: "فئة ContentDispositionHeaderValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.Headers.ContentDispositionHeaderValue. تمثل قيمة رأس Content-Disposition"
 type: docs
-weight: 2260
+weight: 4330
 url: /ar/net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
 
-تقديم قيمة رأس "ترتيب المحتوى".
+يمثل قيمة رأس Content-Disposition.
 
 ```csharp
 public class ContentDispositionHeaderValue
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(string) | قم بإنشاء مثيل جديد من نوع الترتيب هذا. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | إنشاء نسخة جديدة من نوع التوزيع هذا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | الحصول على نوع التصرف أو تعيينه |
-| [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | اسم الملف المخزن . |
-| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | اسم جزء من محتوى النص . |
-| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | الحصول على مجموعة من المعلمات |
+| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | احصل أو اضبط نوع التوزيع |
+| [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | اسم الملف المخزن. |
+| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | اسم جزء جسم المحتوى. |
+| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | احصل على مجموعة المعلمات |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(object) | تحديد ما إذا كان الملف المحددObject يساوي هذا المثال. |
-| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(*object*) | يحدد ما إذا كان الكائن المحدد يساوي هذه النسخة. |
+| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

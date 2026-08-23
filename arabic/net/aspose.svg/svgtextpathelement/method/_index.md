@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Method
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPathElement ملكية. يتوافق مع السمة الطريقة في عنصر مسار النص المحدد .
+title: "SVGTextPathElement.Method"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Method لعنصر SVGTextPathElement. تتطابق مع السمة method على العنصر textPath المعطى."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgtextpathelement/method/
 ---
 ## SVGTextPathElement.Method property
 
-يتوافق مع السمة "الطريقة" في عنصر "مسار النص" المحدد .
+يتطابق مع السمة ‘method’ على عنصر ‘textPath’ المعطى.
 
 ```csharp
 public SVGAnimatedEnumeration Method { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "الطريقة" لعنصر "مسار النص" المحدد .
+السمة ‘method’ للعنصر ‘textPath’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.TargetY
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement ملكية. يتوافق مع السمة targetY في عنصر feConvolveMatrix المحدد.
+title: "SVGFEConvolveMatrixElement.TargetY"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية TargetY في SVGFEConvolveMatrixElement. يتطابق مع السمة targetY في العنصر feConvolveMatrix المحدد"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/targety/
 ---
 ## SVGFEConvolveMatrixElement.TargetY property
 
-يتوافق مع السمة "targetY" في عنصر "feConvolveMatrix" المحدد.
+يتطابق مع السمة ‘targetY’ على العنصر ‘feConvolveMatrix’ المعطى.
 
 ```csharp
 public SVGAnimatedInteger TargetY { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "targetY" لعنصر "feConvolveMatrix" المحدد .
+السمة ‘targetY’ في العنصر ‘feConvolveMatrix’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedInteger](../../../aspose.svg.datatypes/svganimatedinteger/)
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

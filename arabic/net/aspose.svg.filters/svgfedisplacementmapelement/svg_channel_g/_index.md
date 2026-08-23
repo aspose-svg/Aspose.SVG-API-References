@@ -1,23 +1,21 @@
 ---
-title: SVGFEDisplacementMapElement.SVG_CHANNEL_G
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDisplacementMapElement مجال. يتوافق مع القيمة G .
+title: "SVGFEDisplacementMapElement.SVG_CHANNEL_G"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGFEDisplacementMapElement SVG_CHANNEL_G. يتطابق مع القيمة G"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.filters/svgfedisplacementmapelement/svg_channel_g/
 ---
 ## SVGFEDisplacementMapElement.SVG_CHANNEL_G field
 
-يتوافق مع القيمة "G" .
+يتطابق مع القيمة 'G'.
 
 ```csharp
 public const ushort SVG_CHANNEL_G;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEDisplacementMapElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

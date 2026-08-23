@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Border
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الحدود في CSS2.
+title: "ICSS2Properties.Border"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Border في ICSS2Properties. راجع تعريف خاصية border في CSS2"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.css/icss2properties/border/
 ---
 ## ICSS2Properties.Border property
 
-راجع تعريف خاصية الحدود في CSS2.
+انظر تعريف خاصية border في CSS2.
 
 ```csharp
 public string Border { get; set; }
@@ -16,12 +16,10 @@ public string Border { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الحدود
+خاصية border
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

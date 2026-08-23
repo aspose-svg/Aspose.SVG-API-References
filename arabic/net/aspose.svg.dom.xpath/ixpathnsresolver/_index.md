@@ -1,28 +1,26 @@
 ---
-title: Interface IXPathNSResolver
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.XPath.IXPathNSResolver واجهه المستخدم. ملفXPathNSResolver تصريح الواجهةبادئة سلاسل في التعبير المطلوب ربطه بشكل صحيحمساحة الاسم سلاسل. IXPathEvaluator يمكن إنشاء تنفيذ IXPathNSResolver من عقدة  أو قد يتم تنفيذ الواجهة بواسطة أي تطبيق .
+title: "واجهة IXPathNSResolver"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.XPath.IXPathNSResolver. تسمح واجهة XPathNSResolver بسلاسل البادئة في التعبير بأن تكون مرتبطة بشكل صحيح بسلاسل namespaceURI. يمكن لـ IXPathEvaluator إنشاء تنفيذ لـ IXPathNSResolver من عقدة أو قد يتم تنفيذ الواجهة من قبل أي تطبيق"
 type: docs
-weight: 1330
+weight: 3330
 url: /ar/net/aspose.svg.dom.xpath/ixpathnsresolver/
 ---
 ## IXPathNSResolver interface
 
-ملف`XPathNSResolver` تصريح الواجهة`بادئة` سلاسل في التعبير المطلوب ربطه بشكل صحيح`مساحة الاسم` سلاسل. [`IXPathEvaluator`](../ixpathevaluator/) يمكن إنشاء تنفيذ `IXPathNSResolver` من عقدة ، أو قد يتم تنفيذ الواجهة بواسطة أي تطبيق .
+تسمح واجهة `XPathNSResolver` بسلاسل `prefix` في التعبير بأن تكون مرتبطة بشكل صحيح بسلاسل `namespaceURI`. يمكن لـ [`IXPathEvaluator`](../ixpathevaluator/) إنشاء تنفيذ لـ `IXPathNSResolver` من عقدة، أو قد يتم تنفيذ الواجهة من قبل أي تطبيق.
 
 ```csharp
 public interface IXPathNSResolver
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(string) | ابحث عن معرف مساحة الاسم المرتبط ببادئة مساحة الاسم المحددة. يجب ألا يقوم مقيِّم XPath باستدعاء هذا مطلقًا بامتداد`باطل` أو وسيطة فارغة ، لأن نتيجة القيام بذلك غير محددة. |
+| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(*string*) | ابحث عن URI مساحة الاسم المرتبط بالبادئة المحددة. يجب ألا يستدعي مقيم XPath هذا أبداً مع قيمة `null` أو فارغة، لأن نتيجة القيام بذلك غير معرفة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

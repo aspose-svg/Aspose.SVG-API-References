@@ -1,28 +1,26 @@
 ---
-title: Interface IPathBuilder
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.IPathBuilder واجهه المستخدم. واجهة IPathBuilder مسؤولة عن إنشاء مقاطع المسارSVGPathSeg من قائمة نقاط التتبع.
+title: "واجهة IPathBuilder"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.ImageVectorization.IPathBuilder. واجهة IPathBuilder مسؤولة عن بناء مقاطع المسار SVGPathSeg من قائمة نقاط التتبع."
 type: docs
-weight: 2110
+weight: 4180
 url: /ar/net/aspose.svg.imagevectorization/ipathbuilder/
 ---
 ## IPathBuilder interface
 
-واجهة IPathBuilder مسؤولة عن إنشاء مقاطع المسار[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) من قائمة نقاط التتبع.
+واجهة IPathBuilder مسؤولة عن بناء مقاطع المسار [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) من قائمة نقاط التتبع.
 
 ```csharp
 public interface IPathBuilder
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | ينشئ مقاطع مسار من قائمة نقاط التتبع . |
+| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | يقوم بتحسين تتبع معين إلى مقطع مسار SVG، باستخدام أقل عدد ممكن من أوامر الخط ومنحنيات بيزيير لتحقيق تمثيل دقيق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

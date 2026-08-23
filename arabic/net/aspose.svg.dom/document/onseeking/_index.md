@@ -1,24 +1,22 @@
 ---
-title: Document.OnSeeking
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث لحدث OnSeeking أو تعيينه.
+title: "Document.OnSeeking"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnSeeking. يحصل أو يعيّن معالج الحدث لحدث OnSeeking"
 type: docs
 weight: 690
 url: /ar/net/aspose.svg.dom/document/onseeking/
 ---
 ## Document.OnSeeking event
 
-الحصول على معالج الحدث لحدث OnSeeking أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnSeeking.
 
 ```csharp
 public event DOMEventHandler OnSeeking;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFilterElement.FilterUnits
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFilterElement ملكية. يتوافق مع السمة filterUnits في عنصر التصفية المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
+title: "SVGFilterElement.FilterUnits"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية FilterUnits لعنصر SVGFilterElement. تتطابق مع السمة filterUnits على العنصر filter المعطى. تأخذ واحدة من الثوابت المعرفة في SVGUnitTypes"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgfilterelement/filterunits/
 ---
 ## SVGFilterElement.FilterUnits property
 
-يتوافق مع السمة "filterUnits" في عنصر "التصفية" المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
+يتطابق مع السمة ‘filterUnits’ في عنصر ‘filter’ المحدد. يأخذ واحدة من الثوابت المعرفة في SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration FilterUnits { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "filterUnits" لعنصر "التصفية" المحدد .
+السمة ‘filterUnits’ للعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFilterElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgfilterelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

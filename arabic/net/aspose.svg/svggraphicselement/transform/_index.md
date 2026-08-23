@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.Transform
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGraphicsElement ملكية. يتوافق مع السمة التحويل على العنصر المحدد.
+title: "SVGGraphicsElement.Transform"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGGraphicsElement Transform. تتطابق مع السمة transform على العنصر المعطى."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svggraphicselement/transform/
 ---
 ## SVGGraphicsElement.Transform property
 
-يتوافق مع السمة "التحويل" على العنصر المحدد.
+يتطابق مع السمة ‘transform’ على العنصر المعطى.
 
 ```csharp
 public SVGAnimatedTransformList Transform { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تحويل العنصر .
+تحويل العنصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGGraphicsElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggraphicselement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

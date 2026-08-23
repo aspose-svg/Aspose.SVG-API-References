@@ -1,28 +1,26 @@
 ---
-title: SVGPolylineElement.AnimatedPoints
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPolylineElement ملكية. يوفر الوصول إلى المحتويات المتحركة الحالية لسمة النقاط. إذا تم تحريك السمة أو الخاصية المحددة  فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا  فستحتوي على نفس قيمة النقاط.
+title: "SVGPolylineElement.AnimatedPoints"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPolylineElement AnimatedPoints. توفر الوصول إلى المحتوى المتحرك الحالي لخاصية points. إذا كانت الخاصية أو السمة المعطاة قيد التحريك، فإنها تحتوي على القيمة المتحركة الحالية للخاصية أو السمة. إذا لم تكن الخاصية أو السمة المعطاة قيد التحريك حالياً، فإنها تحتوي على نفس قيمة points."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgpolylineelement/animatedpoints/
 ---
 ## SVGPolylineElement.AnimatedPoints property
 
-يوفر الوصول إلى المحتويات المتحركة الحالية لسمة "النقاط". إذا تم تحريك السمة أو الخاصية المحددة ، فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا ، فستحتوي على نفس قيمة النقاط.
+يوفر الوصول إلى المحتويات المتحركة الحالية لخاصية ‘points’. إذا كانت الخاصية أو السمة المحددة قيد التحريك، يحتوي على القيمة المتحركة الحالية للخاصية أو السمة. إذا لم تكن الخاصية أو السمة المحددة قيد التحريك حاليًا، يحتوي على نفس قيمة points.
 
 ```csharp
 public SVGPointList AnimatedPoints { get; }
 ```
 
-### Property_Value
+### Property Value
 
-النقاط المتحركة .
+النقاط المتحركة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * class [SVGPolylineElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpolylineelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

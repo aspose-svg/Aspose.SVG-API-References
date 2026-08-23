@@ -1,31 +1,29 @@
 ---
-title: IXPathNSResolver.LookupNamespaceURI
-second_title: Aspose.SVG لمرجع .NET API
-description: IXPathNSResolver طريقة. ابحث عن معرف مساحة الاسم المرتبط ببادئة مساحة الاسم المحددة. يجب ألا يقوم مقيِّم XPath باستدعاء هذا مطلقًا بامتدادباطل أو وسيطة فارغة  لأن نتيجة القيام بذلك غير محددة.
+title: "IXPathNSResolver.LookupNamespaceURI"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IXPathNSResolver LookupNamespaceURI. ابحث عن URI مساحة الاسم المرتبط بالبادئة المحددة. يجب ألا يستدعي مُقَيِّم XPath هذه الطريقة أبداً مع وسيط فارغ أو null لأن النتيجة غير معرفة."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/
 ---
 ## IXPathNSResolver.LookupNamespaceURI method
 
-ابحث عن معرف مساحة الاسم المرتبط ببادئة مساحة الاسم المحددة. يجب ألا يقوم مقيِّم XPath باستدعاء هذا مطلقًا بامتداد`باطل` أو وسيطة فارغة ، لأن نتيجة القيام بذلك غير محددة.
+ابحث عن URI مساحة الاسم المرتبط بالبادئة المحددة. يجب ألا يستدعي مقيم XPath هذا أبداً مع قيمة `null` أو فارغة، لأن نتيجة القيام بذلك غير معرفة.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| prefix | String | البادئة التي يجب البحث عنها. |
+| بادئة | String | البادئة للبحث عنها. |
 
 ### قيمة الإرجاع
 
-تُرجع مساحة الاسم المرتبطة URI أو`باطل` إذا لم يتم العثور على أي .
+إرجاع URI مساحة الاسم المرتبط أو `null` إذا لم يتم العثور على أي منها.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXPathNSResolver](../)
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../ixpathnsresolver/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

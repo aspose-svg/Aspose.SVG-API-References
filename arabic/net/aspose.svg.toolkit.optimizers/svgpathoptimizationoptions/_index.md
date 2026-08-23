@@ -1,38 +1,36 @@
 ---
-title: Class SVGPathOptimizationOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Toolkit.Optimizers.SVGPathOptimizationOptions فصل. SVGPathOptimizationOptions عبارة عن فئة لتخزين الخيارات لتحسين مقاطع عناصر مسار SVG.
+title: "فئة SVGPathOptimizationOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Toolkit.Optimizers.SVGPathOptimizationOptions فئة. SVGPathOptimizationOptions هي فئة لتخزين الخيارات لتحسين مقاطع عناصر مسار SVG."
 type: docs
-weight: 3800
+weight: 5900
 url: /ar/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions class
 
-SVGPathOptimizationOptions عبارة عن فئة لتخزين الخيارات لتحسين مقاطع عناصر مسار SVG.
+SVGPathOptimizationOptions هي فئة لتخزين الخيارات الخاصة بتحسين مقاطع عناصر مسار SVG.
 
 ```csharp
 public class SVGPathOptimizationOptions
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | يقوم بتهيئة مثيل جديد لملف`SVGPathOptimizationOptions` فئة . |
+| [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | يُنشئ مثيلًا جديدًا من الفئة `SVGPathOptimizationOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ApplyTransforms](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/) { get; set; } | الحصول على أو تعيين الخيار لتطبيق عمليات التحويل على مقاطع المسار. إنها "خطأ" افتراضيًا. |
-| [ArcBuildingThreshold](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/) { get; set; } | الحصول على أو تعيين قيمة المعلمة المستخدمة كخطأ حد لاستبدال مقاطع Bezier بمقاطع قوسية. إنه "2.5" افتراضيًا. |
-| [ArcBuildingTolerance](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/) { get; set; } | الحصول على أو تحديد قيمة المعلمة المستخدمة كنسبة مئوية من نصف القطر لاستبدال مقاطع Bezier بمقاطع قوسية. إنها "0.5" افتراضيًا. |
-| [FloatPrecision](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/) { get; set; } | الحصول على أو تعيين خيار تقريب قيمة فاصلة عائمة بدقة تعويم إلى عدد محدد من الأرقام الكسرية. إنه "3" افتراضيًا. |
-| [RemoveSpaceAfterFlags](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/) { get; set; } | الحصول على أو تعيين خيار إزالة المساحة الزائدة بعد إشارات الأمر "arcto". إنها "خطأ" افتراضيًا. |
+| [ApplyTransforms](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/) { get; set; } | يحصل أو يضبط الخيار لتطبيق التحويلات على مقاطع Path. القيمة الافتراضية هي 'false'. |
+| [ArcBuildingThreshold](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/) { get; set; } | يحصل أو يضبط قيمة المعامل المستخدمة كحدّ الخطأ لاستبدال مقاطع Bezier بمقاطع قوس. القيمة الافتراضية هي '2.5'. |
+| [ArcBuildingTolerance](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/) { get; set; } | يحصل أو يضبط قيمة المعامل المستخدمة كنسبة مئوية لنصف القطر لاستبدال مقاطع Bezier بمقاطع قوس. القيمة الافتراضية هي '0.5'. |
+| [FloatPrecision](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/) { get; set; } | يحصل أو يضبط الخيار لتقريب قيمة عددية ذات دقة عائمة إلى عدد محدد من الأرقام العشرية. القيمة الافتراضية هي '3'. |
+| [RemoveSpaceAfterFlags](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/) { get; set; } | يحصل أو يضبط الخيار لإزالة المسافة الزائدة بعد أعلام أمر 'arcto'. القيمة الافتراضية هي 'false'. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_DUPLICATE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement مجال. يتوافق مع القيمة مكررة .
+title: "SVGFEConvolveMatrixElement.SVG_EDGEMODE_DUPLICATE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_EDGEMODE_DUPLICATE لـ SVGFEConvolveMatrixElement. يتطابق مع القيمة duplicate"
 type: docs
 weight: 180
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_duplicate/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_DUPLICATE field
 
-يتوافق مع القيمة "مكررة" .
+يتطابق مع القيمة 'duplicate'.
 
 ```csharp
 public const ushort SVG_EDGEMODE_DUPLICATE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

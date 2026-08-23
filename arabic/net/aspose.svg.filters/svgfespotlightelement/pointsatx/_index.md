@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.PointsAtX
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFESpotLightElement ملكية. يتوافق مع السمة PointsAtX على عنصر feSpotLight المحدد .
+title: "SVGFESpotLightElement.PointsAtX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PointsAtX في SVGFESpotLightElement. تتطابق مع السمة pointsAtX في عنصر feSpotLight المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.filters/svgfespotlightelement/pointsatx/
 ---
 ## SVGFESpotLightElement.PointsAtX property
 
-يتوافق مع السمة "PointsAtX" على عنصر "feSpotLight" المحدد .
+يتطابق مع السمة ‘pointsAtX’ على العنصر ‘feSpotLight’ المحدد.
 
 ```csharp
 public SVGAnimatedNumber PointsAtX { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "PointsAtX" لعنصر "feSpotLight" المحدد .
+السمة ‘pointsAtX’ لعنصر ‘feSpotLight’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

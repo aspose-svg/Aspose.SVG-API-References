@@ -1,34 +1,32 @@
 ---
-title: SVGTransform.SetTranslate
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransform طريقة. يضبط نوع التحويل إلى SVG_TRANSFORM_TRANSLATE  مع المعلمات tx و ty التي تحدد مقدار الترجمة.
+title: "SVGTransform.SetTranslate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGTransform SetTranslate. تُعيّن نوع التحويل إلى SVG_TRANSFORM_TRANSLATE مع المعاملين tx و ty اللذين يحددان مقدار الإزاحة."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.datatypes/svgtransform/settranslate/
 ---
 ## SVGTransform.SetTranslate method
 
-يضبط نوع التحويل إلى SVG_TRANSFORM_TRANSLATE ، مع المعلمات tx و ty التي تحدد مقدار الترجمة.
+يضبط نوع التحويل إلى SVG_TRANSFORM_TRANSLATE، مع المعاملين tx و ty اللذين يحددان كميات الترجمة.
 
 ```csharp
 public void SetTranslate(float tx, float ty)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tx | Single | مبلغ الترجمة في X. |
-| ty | Single | مبلغ الترجمة في Y. |
+| tx | Single | مقدار الإزاحة في X. |
+| ty | Single | مقدار الإزاحة في Y. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . تم طرحه عند محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransform/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

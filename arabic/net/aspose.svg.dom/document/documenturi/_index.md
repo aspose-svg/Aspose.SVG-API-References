@@ -1,27 +1,25 @@
 ---
-title: Document.DocumentURI
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. مكان المستند أو فارغ إذا لم يتم تعريفه أو إذا تم إنشاء المستند باستخدام DOMImplementation.createDocument.
+title: "Document.DocumentURI"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document DocumentURI. موقع المستند أو null إذا كان غير معرف أو إذا تم إنشاء المستند باستخدام DOMImplementation.createDocument"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.dom/document/documenturi/
 ---
 ## Document.DocumentURI property
 
-مكان المستند أو فارغ إذا لم يتم تعريفه أو إذا تم إنشاء المستند باستخدام DOMImplementation.createDocument.
+موقع المستند أو null إذا كان غير معرف أو إذا تم إنشاء المستند باستخدام DOMImplementation.createDocument.
 
 ```csharp
 public string DocumentURI { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف المستند URI.
+معرف URI للمستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

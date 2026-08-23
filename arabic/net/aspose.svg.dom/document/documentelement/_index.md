@@ -1,28 +1,26 @@
 ---
-title: Document.DocumentElement
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. هذه سمة ملائمة تتيح الوصول المباشر إلى العقدة الفرعية التي تمثل عنصر المستند في المستند.
+title: "Document.DocumentElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document DocumentElement. هذه سمة مريحة تسمح بالوصول المباشر إلى العقدة الفرعية التي هي عنصر الوثيقة للوثيقة."
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.dom/document/documentelement/
 ---
 ## Document.DocumentElement property
 
-هذه سمة ملائمة تتيح الوصول المباشر إلى العقدة الفرعية التي تمثل عنصر المستند في المستند.
+هذه خاصية تسهيلية تسمح بالوصول المباشر إلى العقدة الفرعية التي هي عنصر المستند لهذا المستند.
 
 ```csharp
 public Element DocumentElement { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عنصر المستند.
+عنصر الوثيقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

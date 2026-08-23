@@ -1,31 +1,29 @@
 ---
-title: Color.WithHue
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. لإنشاء نسخة من اللون مع تدرج اللون المحدد.
+title: "Color.WithHue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color WithHue. تُنشئ نسخة من اللون بالدرجة المحددة."
 type: docs
 weight: 460
 url: /ar/net/aspose.svg.drawing/color/withhue/
 ---
 ## Color.WithHue method
 
-لإنشاء نسخة من اللون مع تدرج اللون المحدد.
+ينشئ نسخة من اللون مع Hue المحدد.
 
 ```csharp
 public Color WithHue(float hue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| hue | Single | قيمة التدرج. |
+| hue | Single | قيمة الدرجة. |
 
 ### قيمة الإرجاع
 
-&gt; مثيل جديد لملف[`Color`](../) فصل.
+&gt;كائن جديد من الفئة [`Color`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

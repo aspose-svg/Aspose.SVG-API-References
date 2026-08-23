@@ -1,32 +1,30 @@
 ---
-title: Enum Compression
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Image.Compression تعداد. يحدد مخططات الضغط الممكنة للصور النقطية بتنسيق ملف الصورة ذي العلامات TIFF.
+title: "تعداد الضغط"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تعداد Aspose.Svg.Rendering.Image.Compression. يحدد مخططات الضغط الممكنة لصور تنسيق ملف الصورة الموسومة (TIFF) ذات البتات."
 type: docs
-weight: 2820
+weight: 4900
 url: /ar/net/aspose.svg.rendering.image/compression/
 ---
 ## Compression enumeration
 
-يحدد مخططات الضغط الممكنة للصور النقطية بتنسيق ملف الصورة ذي العلامات (TIFF).
+يحدد مخططات الضغط الممكنة لصور البت الممّزة بتنسيق TIFF (Tagged Image File Format).
 
 ```csharp
 public enum Compression
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | LZW | `2` | يتم استخدام مخطط ضغط LZW. |
 | CCITT3 | `3` | يتم استخدام مخطط ضغط CCITT3. |
 | CCITT4 | `4` | يتم استخدام مخطط ضغط CCITT4. |
-| Rle | `5` | يتم استخدام مخطط ضغط RLE . |
-| None | `6` | صورة تنسيق ملف الصورة ذات العلامات (TIFF) غير مضغوطة. |
+| Rle | `5` | يتم استخدام مخطط ضغط RLE. |
+| None | `6` | صورة تنسيق ملف الصورة الموسومة (TIFF) غير مضغوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

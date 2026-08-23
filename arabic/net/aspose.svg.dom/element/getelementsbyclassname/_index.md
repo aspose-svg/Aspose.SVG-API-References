@@ -1,32 +1,34 @@
 ---
-title: Element.GetElementsByClassName
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. إرجاع كائن NodeList مباشر يحتوي على جميع العناصر في المستند التي تحتوي على جميع الفئات المحددة في الوسيطة . http//www.w3.org/TR/dom/
+title: "Element.GetElementsByClassName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element GetElementsByClassName. تُرجع كائن HTMLCollection يحتوي على جميع العناصر داخل العنصر التي لديها جميع الفئات المحددة في الوسيط."
 type: docs
 weight: 280
 url: /ar/net/aspose.svg.dom/element/getelementsbyclassname/
 ---
 ## Element.GetElementsByClassName method
 
-إرجاع كائن NodeList مباشر يحتوي على جميع العناصر في المستند التي تحتوي على جميع الفئات المحددة في الوسيطة . http://www.w3.org/TR/dom/
+تُرجع كائن [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) يحتوي على جميع العناصر داخل [`element`](../) التي لديها جميع الفئات المحددة في الوسيط.
 
 ```csharp
 public HTMLCollection GetElementsByClassName(string classNames)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| classNames | String | سلسلة السلسلة التي تحتوي على مجموعة غير مرتبة من الرموز المميزة المفصولة بمسافات والتي تمثل الفئات (أسماء الفئات) |
+| classNames | String | السلسلة التي تحتوي على مجموعة غير مرتبة من الرموز الفريدة المفصولة بمسافات تمثل الفئات (أسماء الفئات) |
 
 ### قيمة الإرجاع
 
-ملف[`Element`](../) .
+مجموعة حية [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) من العناصر التي تم العثور عليها.
 
-### أنظر أيضا
+## ملاحظات
+
+راجع المواصفة الرسمية [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbyclassname).
+
+### انظر أيضًا
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

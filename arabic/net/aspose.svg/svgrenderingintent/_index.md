@@ -1,33 +1,31 @@
 ---
-title: Enum SVGRenderingIntent
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.SVGRenderingIntent تعداد. يعرّف تعداد SVGRenderingIntent القائمة التي تم تعدادها للقيم المحتملة لسمات أو واصفات هدف العرض.
+title: "تعداد SVGRenderingIntent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.SVGRenderingIntent تعداد. تعداد SVGRenderingIntent يحدد القائمة المُعدَّدة للقيم الممكنة لسمات أو أوصاف rendering-intent"
 type: docs
-weight: 3430
+weight: 5500
 url: /ar/net/aspose.svg/svgrenderingintent/
 ---
 ## SVGRenderingIntent enumeration
 
-يعرّف تعداد SVGRenderingIntent القائمة التي تم تعدادها للقيم المحتملة لسمات أو واصفات "هدف العرض".
+تُعرّف تعداد SVGRenderingIntent القائمة المُعدّدة للقيم الممكنة لسمة أو واصف ‘rendering-intent’.
 
 ```csharp
 public enum SVGRenderingIntent
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| RENDERING_INTENT_UNKNOWN | `0` | النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع. |
-| RENDERING_INTENT_AUTO | `1` | يتوافق مع قيمة "تلقائي" . |
-| RENDERING_INTENT_PERCEPTUAL | `2` | يتوافق مع قيمة "الإدراك الحسي" . |
-| RENDERING_INTENT_RELATIVE_COLORIMETRIC | `3` | يتوافق مع قيمة "النسبي اللوني" . |
-| RENDERING_INTENT_SATURATION | `4` | يتوافق مع قيمة "التشبع" . |
-| RENDERING_INTENT_ABSOLUTE_COLORIMETRIC | `5` | يتوافق مع قيمة "مقياس الألوان المطلق" . |
+| RENDERING_INTENT_UNKNOWN | `0` | النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع. |
+| RENDERING_INTENT_AUTO | `1` | يتطابق مع القيمة 'auto'. |
+| RENDERING_INTENT_PERCEPTUAL | `2` | يتطابق مع القيمة 'perceptual'. |
+| RENDERING_INTENT_RELATIVE_COLORIMETRIC | `3` | يتطابق مع القيمة 'relative-colorimetric'. |
+| RENDERING_INTENT_SATURATION | `4` | يتطابق مع القيمة 'saturation'. |
+| RENDERING_INTENT_ABSOLUTE_COLORIMETRIC | `5` | يتطابق مع القيمة 'absolute-colorimetric'. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.LineJoin
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. يضبط أو يحصل على الكود الذي يحدد شكل المفاصل بين الأجزاء المتصلة لمسار محدود.
+title: "GraphicContext.LineJoin"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext LineJoin. يضبط أو يحصل على الشيفرة التي تحدد شكل الوصلات بين القطاعات المتصلة لمسار مرسوم"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.rendering/graphiccontext/linejoin/
 ---
 ## GraphicContext.LineJoin property
 
-يضبط أو يحصل على الكود الذي يحدد شكل المفاصل بين الأجزاء المتصلة لمسار محدود.
+يضبط أو يحصل على الشيفرة التي تحدد شكل المفاصل بين القطاعات المتصلة لمسار مُرسم.
 
 ```csharp
-public virtual LineJoin LineJoin { get; set; }
+public virtual StrokeLineJoin LineJoin { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
+* enum [StrokeLineJoin](../../../aspose.svg.drawing/strokelinejoin/)
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

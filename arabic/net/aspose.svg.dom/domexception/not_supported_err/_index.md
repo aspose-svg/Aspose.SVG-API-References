@@ -1,23 +1,21 @@
 ---
-title: DOMException.NOT_SUPPORTED_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. إذا كان التنفيذ لا يدعم النوع المطلوب للكائن أو العملية.
+title: "DOMException.NOT_SUPPORTED_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل DOMException NOT_SUPPORTED_ERR. إذا لم تدعم التنفيذ النوع المطلوب من الكائن أو العملية"
 type: docs
 weight: 200
 url: /ar/net/aspose.svg.dom/domexception/not_supported_err/
 ---
 ## DOMException.NOT_SUPPORTED_ERR field
 
-إذا كان التنفيذ لا يدعم النوع المطلوب للكائن أو العملية.
+إذا لم يدعم التنفيذ نوع الكائن أو العملية المطلوبة.
 
 ```csharp
 public const ushort NOT_SUPPORTED_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR_BURN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEBlendElement مجال. يتوافق مع القيمة color_burn .
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR_BURN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FEBLEND_MODE_COLOR_BURN في SVGFEBlendElement. يتطابق مع القيمة color_burn"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color_burn/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR_BURN field
 
-يتوافق مع القيمة "color_burn" .
+يتطابق مع القيمة 'color_burn'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_COLOR_BURN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEBlendElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeblendelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

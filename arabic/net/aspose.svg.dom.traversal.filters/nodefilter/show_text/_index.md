@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.SHOW_TEXT
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeFilter مجال. إظهار العقد النصية .
+title: "NodeFilter.SHOW_TEXT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "NodeFilter SHOW_TEXT حقل. إظهار عقد Text"
 type: docs
 weight: 180
 url: /ar/net/aspose.svg.dom.traversal.filters/nodefilter/show_text/
 ---
 ## NodeFilter.SHOW_TEXT field
 
-إظهار العقد النصية .
+إظهار عقد Text.
 
 ```csharp
 public const long SHOW_TEXT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeFilter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

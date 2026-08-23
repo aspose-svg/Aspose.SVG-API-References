@@ -1,29 +1,27 @@
 ---
-title: Interface IDocumentCSS
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.IDocumentCSS واجهه المستخدم. تمثل هذه الواجهة مستندًا باستخدام طريقة عرض CSS .
+title: "واجهة IDocumentCSS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Css.IDocumentCSS. تمثل هذه الواجهة مستندًا مع عرض CSS"
 type: docs
-weight: 690
+weight: 2690
 url: /ar/net/aspose.svg.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface
 
-تمثل هذه الواجهة مستندًا باستخدام طريقة عرض CSS .
+هذه الواجهة تمثل مستندًا مع عرض CSS.
 
 ```csharp
 public interface IDocumentCSS : IDocumentStyle
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(Element, string) | تُستخدم هذه الطريقة لاسترداد إعلان نمط التجاوز لعنصر محدد وعنصر زائف محدد. |
+| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(*[Element](../../aspose.svg.dom/element/), string*) | تُستخدم هذه الطريقة لاسترجاع تعريف النمط المتجاوز لعنصر محدد وعنصر شبه-العنصر المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDocumentStyle](../idocumentstyle/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

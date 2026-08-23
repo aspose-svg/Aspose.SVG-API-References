@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vmin
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس نسبي بنسبة 1 من البُعد الأصغر لإطار العرض  جرِّبه
+title: "UnitType.Vmin"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Vmin. القياس نسبي إلى 1 من البُعد الأصغر لعرض المنفذ. جربها"
 type: docs
 weight: 290
 url: /ar/net/aspose.svg.drawing/unittype/vmin/
 ---
 ## UnitType.Vmin field
 
-القياس نسبي بنسبة 1٪ من البُعد الأصغر لإطار العرض * جرِّبه
+القياس نسبي لـ 1% من البُعد الأصغر لواجهة العرض* جرّبها
 
 ```csharp
 public static readonly UnitType Vmin;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

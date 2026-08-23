@@ -1,17 +1,15 @@
 ---
-title: Aspose.Svg.Net.MessageFilters
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Net.MessageFilters توفر مساحة الاسم الفئات التي تنفذ تجريد عامل تصفية الرسائل.
+title: "Aspose.Svg.Net.MessageFilters"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "توفر مساحة الأسماء Aspose.Svg.Net.MessageFilters فئات تُنفّذ تجريد مرشح الرسائل."
 type: docs
-weight: 210
+weight: 230
 url: /ar/net/aspose.svg.net.messagefilters/
 ---
-ملف **Aspose.Svg.Net.MessageFilters** توفر مساحة الاسم الفئات التي تنفذ تجريد عامل تصفية الرسائل.
+توفر مساحة الاسم **Aspose.Svg.Net.MessageFilters** فئات تنفّذ تجريد مرشح الرسائل.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [ProtocolMessageFilter](./protocolmessagefilter/) | يمثل تنفيذ عامل تصفية الرسائل بواسطة بروتوكول الموارد. |
-
-
+| [ProtocolMessageFilter](./protocolmessagefilter/) | يمثل تنفيذ مرشح الرسائل بواسطة بروتوكول المورد. |

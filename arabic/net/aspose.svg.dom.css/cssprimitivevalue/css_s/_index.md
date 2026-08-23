@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_S
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي الوقت الأوقات. يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+title: "CSSPrimitiveValue.CSS_S"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_S. القيمة هي زمن بوحدة s. يمكن الحصول على القيمة باستخدام طريقة getFloatValue."
 type: docs
-weight: 380
+weight: 390
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_s/
 ---
 ## CSSPrimitiveValue.CSS_S field
 
-القيمة هي الوقت (الأوقات). يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+القيمة هي زمن (s). يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
 
 ```csharp
 public const ushort CSS_S;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.SHOW_ELEMENT
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeFilter مجال. إظهار عقد العنصر .
+title: "NodeFilter.SHOW_ELEMENT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "NodeFilter SHOW_ELEMENT حقل. إظهار عقد Element"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.dom.traversal.filters/nodefilter/show_element/
 ---
 ## NodeFilter.SHOW_ELEMENT field
 
-إظهار عقد العنصر .
+إظهار عقد Element.
 
 ```csharp
 public const long SHOW_ELEMENT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeFilter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

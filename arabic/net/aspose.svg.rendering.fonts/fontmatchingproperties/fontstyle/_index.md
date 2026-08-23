@@ -1,23 +1,21 @@
 ---
-title: FontMatchingProperties.FontStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: FontMatchingProperties ملكية. يحصل على قيمة نمط الخط. يمكن أن تحتوي هذه الخاصية على مثل هذه القيم عادي  مائل  مائل.
+title: "FontMatchingProperties.FontStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية FontStyle في FontMatchingProperties. تحصل على قيمة نمط الخط. يمكن أن تكون لهذه الخاصية القيم التالية normal italic oblique"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontstyle/
 ---
 ## FontMatchingProperties.FontStyle property
 
-يحصل على قيمة نمط الخط. يمكن أن تحتوي هذه الخاصية على مثل هذه القيم: عادي ، مائل ، مائل.
+يحصل على قيمة نمط الخط. يمكن أن تكون لهذه الخاصية القيم التالية: عادي، مائل، مائل مائل.
 
 ```csharp
 public string FontStyle { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontMatchingProperties](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

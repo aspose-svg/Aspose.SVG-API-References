@@ -1,28 +1,26 @@
 ---
-title: Content.Headers
-second_title: Aspose.SVG لمرجع .NET API
-description: Content ملكية. الحصول على رؤوس محتوى HTTP .
+title: "Content.Headers"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Headers الخاصة بـ Content. تحصل على رؤوس محتوى HTTP"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/content/headers/
 ---
 ## Content.Headers property
 
-الحصول على رؤوس محتوى HTTP .
+يحصل على رؤوس محتوى HTTP.
 
 ```csharp
 public ContentHeaders Headers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الرؤوس .
+الرؤوس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* مساحة الاسم [Aspose.Svg.Net](../../content/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

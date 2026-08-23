@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.IterateNext
-second_title: Aspose.SVG لمرجع .NET API
-description: IXPathResult طريقة. يكرر ويعيد العقدة التالية من مجموعة العقدة أوباطل إذا لم يكن هناك المزيد من العقد.
+title: "IXPathResult.IterateNext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IXPathResult IterateNext. تتنقل وتعيد العقدة التالية من مجموعة العقد أو `null` إذا لم يتبق أي عقد."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.xpath/ixpathresult/iteratenext/
 ---
 ## IXPathResult.IterateNext method
 
-يكرر ويعيد العقدة التالية من مجموعة العقدة أو`باطل` إذا لم يكن هناك المزيد من العقد.
+يتكرر ويعيد العقدة التالية من مجموعة العقد أو `null` إذا لم يتبق أي عقد.
 
 ```csharp
 public Node IterateNext()
@@ -16,20 +16,18 @@ public Node IterateNext()
 
 ### قيمة الإرجاع
 
-إرجاع العقدة التالية.
+يعيد العقدة التالية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: رفع إذا`resultType` ليس `UnorderedNodeIterator` اكتب أو`OrderedNodeIterator` يكتب. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: تم تغيير المستند منذ إرجاع النتيجة. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: يُرفع إذا لم يكن `resultType` من نوع `UnorderedNodeIterator` أو `OrderedNodeIterator`. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: تم تعديل المستند منذ إرجاع النتيجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

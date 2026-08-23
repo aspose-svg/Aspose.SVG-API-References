@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Bias
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement ملكية. يتوافق مع السمة التحيز على عنصر feConvolveMatrix المحدد.
+title: "SVGFEConvolveMatrixElement.Bias"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Bias لعنصر SVGFEConvolveMatrixElement. تتطابق مع السمة bias على عنصر feConvolveMatrix المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/bias/
 ---
 ## SVGFEConvolveMatrixElement.Bias property
 
-يتوافق مع السمة "التحيز" على عنصر "feConvolveMatrix" المحدد.
+يتطابق مع السمة ‘bias’ على العنصر ‘feConvolveMatrix’ المعطى.
 
 ```csharp
 public SVGAnimatedNumber Bias { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "الانحياز" لعنصر "feConvolveMatrix" المحدد .
+السمة ‘bias’ لعنصر ‘feConvolveMatrix’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

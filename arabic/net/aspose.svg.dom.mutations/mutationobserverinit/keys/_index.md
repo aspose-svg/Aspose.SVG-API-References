@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Keys
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserverInit ملكية. يحصل على مجموعة تحتوي على المفاتيح الموجودة في ملفMutationObserverInitجمع.
+title: "MutationObserverInit.Keys"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationObserverInit Keys. تحصل على مجموعة تحتوي على المفاتيح في مجموعة MutationObserverInit."
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/keys/
 ---
 ## MutationObserverInit.Keys property
 
-يحصل على مجموعة تحتوي على المفاتيح الموجودة في ملف[`MutationObserverInit`](../)جمع.
+تحصل على مجموعة تحتوي على المفاتيح في مجموعة [`MutationObserverInit`](../).
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -18,10 +18,8 @@ public ICollection<string> Keys { get; }
 
 مجموعة تحتوي على المفاتيح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

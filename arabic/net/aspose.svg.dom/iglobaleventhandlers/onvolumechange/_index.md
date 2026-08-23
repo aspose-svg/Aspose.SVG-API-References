@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnVolumeChange
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnVolumeChange أو تعيينه.
+title: "IGlobalEventHandlers.OnVolumeChange"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnVolumeChange الحدث. يحصل أو يضبط معالج الحدث لـ OnVolumeChange الحدث"
 type: docs
 weight: 490
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onvolumechange/
 ---
 ## IGlobalEventHandlers.OnVolumeChange event
 
-الحصول على معالج الحدث لحدث OnVolumeChange أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnVolumeChange.
 
 ```csharp
 public event DOMEventHandler OnVolumeChange;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

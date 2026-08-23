@@ -1,29 +1,27 @@
 ---
-title: Enum PdfEncryptionAlgorithm
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionAlgorithm تعداد. تعداد وضع التشفير. صِف باستخدام الخوارزمية وطول المفتاح. تم تمديد هذا التعداد للتمكن من زيادة الوظائف بشكل أكبر.
+title: "تعداد PdfEncryptionAlgorithm"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "التعداد Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionAlgorithm. تعداد وضع التشفير. يصف باستخدام الخوارزمية وطول المفتاح. تم توسيع هذا التعداد لزيادة الوظائف. يطبق هذا التعداد نمط Base-to-Core."
 type: docs
-weight: 2910
+weight: 4980
 url: /ar/net/aspose.svg.rendering.pdf.encryption/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration
 
-تعداد وضع التشفير. صِف باستخدام الخوارزمية وطول المفتاح. تم تمديد هذا التعداد للتمكن من زيادة الوظائف بشكل أكبر.
+تعداد وضع التشفير. يصف باستخدام الخوارزمية وطول المفتاح. تم توسيع هذا التعداد لزيادة الوظائف. يطبق هذا التعداد نمط "Base-to-Core".
 
 ```csharp
 public enum PdfEncryptionAlgorithm
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| RC4_40 | `0` | خوارزمية ، بطول مفتاح تشفير RC4 يبلغ 40 بت ؛ |
-| RC4_128 | `1` | خوارزمية ، بطول مفتاح تشفير RC4 يبلغ 128 بت ومجموعة أذونات متقدمة ؛ |
+| RC4_40 | `0` | الخوارزمية، بطول مفتاح تشفير RC4 يبلغ 40 بت؛ |
+| RC4_128 | `1` | الخوارزمية، بطول مفتاح تشفير RC4 يبلغ 128 بت ومجموعة أذونات متقدمة؛ |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../)

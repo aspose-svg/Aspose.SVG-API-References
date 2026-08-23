@@ -1,28 +1,26 @@
 ---
-title: INetworkService.UrlResolver
-second_title: Aspose.SVG لمرجع .NET API
-description: INetworkService ملكية. الحصول على أو تعيين محلل عناوين URL .
+title: "INetworkService.UrlResolver"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية INetworkService UrlResolver. تحصل أو تعين محلل URL."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.services/inetworkservice/urlresolver/
 ---
 ## INetworkService.UrlResolver property
 
-الحصول على أو تعيين محلل عناوين URL .
+يحصل أو يضبط محلل URL.
 
 ```csharp
 public UrlResolver UrlResolver { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-محلل URL .
+محلل URL.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UrlResolver](../../../aspose.svg.net/urlresolver/)
 * interface [INetworkService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../inetworkservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

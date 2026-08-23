@@ -1,23 +1,21 @@
 ---
-title: FontMatchingProperties.FontStretch
-second_title: Aspose.SVG لمرجع .NET API
-description: FontMatchingProperties ملكية. يحصل على قيمة امتداد الخط .
+title: "FontMatchingProperties.FontStretch"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية FontStretch في FontMatchingProperties. تحصل على قيمة تمدد الخط"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontstretch/
 ---
 ## FontMatchingProperties.FontStretch property
 
-يحصل على قيمة امتداد الخط .
+يحصل على قيمة تمدد الخط.
 
 ```csharp
 public float FontStretch { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontMatchingProperties](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

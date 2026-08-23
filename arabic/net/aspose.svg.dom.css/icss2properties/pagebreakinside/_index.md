@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PageBreakInside
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية فاصل الصفحات في CSS2.
+title: "ICSS2Properties.PageBreakInside"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PageBreakInside في ICSS2Properties. راجع تعريف خاصية page-break-inside في CSS2"
 type: docs
-weight: 880
+weight: 910
 url: /ar/net/aspose.svg.dom.css/icss2properties/pagebreakinside/
 ---
 ## ICSS2Properties.PageBreakInside property
 
-راجع تعريف خاصية فاصل الصفحات في CSS2.
+انظر تعريف خاصية page-break-inside في CSS2.
 
 ```csharp
 public string PageBreakInside { get; set; }
@@ -16,12 +16,10 @@ public string PageBreakInside { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية فاصل الصفحات الداخلية
+خاصية page-break-inside
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

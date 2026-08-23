@@ -1,24 +1,22 @@
 ---
-title: Document.OnMouseOver
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث أو تعيينه لحدث OnMouseOver.
+title: "Document.OnMouseOver"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnMouseOver. يحصل أو يضبط معالج الحدث لحدث OnMouseOver"
 type: docs
 weight: 560
 url: /ar/net/aspose.svg.dom/document/onmouseover/
 ---
 ## Document.OnMouseOver event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnMouseOver.
+الحصول أو تعيين معالج الحدث لـ OnMouseOver.
 
 ```csharp
 public event DOMEventHandler OnMouseOver;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

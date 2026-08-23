@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.Method
-second_title: Aspose.SVG لمرجع .NET API
-description: RequestMessage ملكية. يحصل أو يحدد ملفHttpMethod .
+title: "RequestMessage.Method"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RequestMessage Method. يحصل أو يعيّن الـ HttpMethod"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.net/requestmessage/method/
 ---
 ## RequestMessage.Method property
 
-يحصل أو يحدد ملف[`HttpMethod`](../../httpmethod/) .
+يحصل أو يعيّن الـ [`HttpMethod`](../../httpmethod/).
 
 ```csharp
 public HttpMethod Method { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`HttpMethod`](../../httpmethod/) .
+الـ [`HttpMethod`](../../httpmethod/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HttpMethod](../../httpmethod/)
 * class [RequestMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestmessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontStretch
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية امتداد الخط في CSS2.
+title: "ICSS2Properties.FontStretch"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties FontStretch خاصية. راجع تعريف خاصية font-stretch في CSS2"
 type: docs
 weight: 510
 url: /ar/net/aspose.svg.dom.css/icss2properties/fontstretch/
 ---
 ## ICSS2Properties.FontStretch property
 
-راجع تعريف خاصية امتداد الخط في CSS2.
+انظر تعريف خاصية font-stretch في CSS2.
 
 ```csharp
 public string FontStretch { get; set; }
@@ -16,12 +16,10 @@ public string FontStretch { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية امتداد الخط
+font-stretch خاصية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

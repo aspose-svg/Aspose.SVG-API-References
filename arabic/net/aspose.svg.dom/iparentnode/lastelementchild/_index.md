@@ -1,28 +1,26 @@
 ---
-title: IParentNode.LastElementChild
-second_title: Aspose.SVG لمرجع .NET API
-description: IParentNode ملكية. إرجاع العنصر الفرعي الأخير  وقيمة فارغة بخلاف ذلك.
+title: "IParentNode.LastElementChild"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IParentNode LastElementChild. تُعيد الطفل الأخير الذي هو عنصر وإلا تُعيد null."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/iparentnode/lastelementchild/
 ---
 ## IParentNode.LastElementChild property
 
-إرجاع العنصر الفرعي الأخير ، وقيمة فارغة بخلاف ذلك.
+تُعيد الطفل الأخير الذي يكون عنصرًا، وإلا تُعيد null.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Property_Value
+### Property Value
 
-آخر عنصر تابع .
+العنصر الطفل الأخير.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iparentnode/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

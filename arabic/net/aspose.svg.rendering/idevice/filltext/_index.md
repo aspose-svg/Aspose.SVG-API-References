@@ -1,28 +1,26 @@
 ---
-title: IDevice.FillText
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice طريقة. يملأ السلسلة النصية المحددة في المكان المحدد.
+title: "IDevice.FillText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDevice FillText. تملأ سلسلة النص المحددة في الموقع المحدد"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.rendering/idevice/filltext/
 ---
 ## IDevice.FillText method
 
-يملأ السلسلة النصية المحددة في المكان المحدد.
+يملأ سلسلة النص المحددة في الموقع المحدد.
 
 ```csharp
 public void FillText(string text, PointF pt)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | السلسلة المراد ملؤها. |
-| pt | PointF | النقطة التي تحدد إحداثيات النص. |
+| نص | String | سلسلة لتعبئتها. |
+| pt | PointF | نقطة تحدد إحداثيات النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

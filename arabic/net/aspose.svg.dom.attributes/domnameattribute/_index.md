@@ -1,35 +1,34 @@
 ---
-title: Class DOMNameAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Attributes.DOMNameAttribute فصل. يحدد اسم كائن DOM الرسمي كما هو محدد بواسطة W3C.
+title: "فئة DOMNameAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Dom.Attributes.DOMNameAttribute. يحدد الاسم الرسمي لكائن DOM كما تم تعريفه من قبل W3C"
 type: docs
-weight: 380
+weight: 2380
 url: /ar/net/aspose.svg.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class
 
-يحدد اسم كائن DOM الرسمي كما هو محدد بواسطة W3C.
+يحدد الاسم الرسمي لكائن DOM كما تم تعريفه من قبل W3C.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNameAttribute : Attribute
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DOMNameAttribute](domnameattribute/)(string) | يقوم بتهيئة مثيل جديد لملف`DOMNameAttribute` فئة . |
+| [DOMNameAttribute](domnameattribute/)(*string*) | يُنشئ مثيلًا جديدًا من الفئة `DOMNameAttribute`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Name](../../aspose.svg.dom.attributes/domnameattribute/name/) { get; } | الحصول على اسم DOM . |
+| [Name](../../aspose.svg.dom.attributes/domnameattribute/name/) { get; } | يحصل على اسم DOM. |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

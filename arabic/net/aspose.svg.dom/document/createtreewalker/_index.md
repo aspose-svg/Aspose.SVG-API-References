@@ -1,107 +1,105 @@
 ---
-title: Document.CreateTreeWalker
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. قم بإنشاء TreeWalker جديد فوق الشجرة الفرعية التي تم تحديد جذرها في العقدة المحددة.
+title: "Document.CreateTreeWalker"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document CreateTreeWalker. تنشئ TreeWalker جديدًا على الشجرة الفرعية المتجذرة في العقدة المحددة."
 type: docs
 weight: 940
 url: /ar/net/aspose.svg.dom/document/createtreewalker/
 ---
-## CreateTreeWalker(Node) {#createtreewalker}
+## CreateTreeWalker(*[Node](../../node/)*) {#createtreewalker}
 
-قم بإنشاء TreeWalker جديد فوق الشجرة الفرعية التي تم تحديد جذرها في العقدة المحددة.
+إنشاء TreeWalker جديد فوق الشجرة الفرعية المتجذرة في العقدة المحددة.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| root | Node | العقدة التي ستعمل كجذر لـ the TreeWalker. لا تؤخذ إشارات whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة ؛ سيتم قبول أي نوع عقدة كجذر. تم تهيئة العقدة الحالية لـ TreeWalker إلى هذه العقدة ، سواء كانت مرئية أم لا. يعمل the root كنقطة توقف لطرق traversal التي تنظر إلى الأعلى في بنية المستند ، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا. |
+| root | Node | العقدة التي ستعمل كجذر لـ TreeWalker. لا يتم أخذ أعلام whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة؛ سيتم قبول أي نوع عقدة كجذر. يتم تهيئة currentNode الخاص بـ TreeWalker إلى هذه العقدة، سواء كانت مرئية أم لا. يعمل الجذر كنقطة توقف لطرق التجوال التي تنظر إلى الأعلى في بنية المستند، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا (null). |
 
 ### قيمة الإرجاع
 
-برنامج TreeWalker الذي تم إنشاؤه حديثًا .
+TreeWalker الذي تم إنشاؤه حديثًا.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: يُثار إذا كان الجذر المحدد هو فارغًا. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: يُرفع إذا كان الجذر المحدد null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
 * class [Node](../../node/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long) {#createtreewalker_1}
+## CreateTreeWalker(*[Node](../../node/), long*) {#createtreewalker_1}
 
-قم بإنشاء TreeWalker جديد فوق الشجرة الفرعية التي تم تحديد جذرها في العقدة المحددة.
+إنشاء TreeWalker جديد فوق الشجرة الفرعية المتجذرة في العقدة المحددة.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| root | Node | العقدة التي ستعمل كجذر لـ the TreeWalker. لا تؤخذ إشارات whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة ؛ سيتم قبول أي نوع عقدة كجذر. تم تهيئة العقدة الحالية لـ TreeWalker إلى هذه العقدة ، سواء كانت مرئية أم لا. يعمل the root كنقطة توقف لطرق traversal التي تنظر إلى الأعلى في بنية المستند ، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا. |
-| whatToShow | Int64 | تحدد العلامة أنواع العقدة التي قد تظهر في العرض المنطقي للشجرة الذي يقدمه ممر الشجرة. راجع وصف لـ NodeFilter لمجموعة من القيم الممكنة SHOW_ يمكن دمج هذه العلامات باستخدام OR. |
+| root | Node | العقدة التي ستعمل كجذر لـ TreeWalker. لا يتم أخذ أعلام whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة؛ سيتم قبول أي نوع عقدة كجذر. يتم تهيئة currentNode الخاص بـ TreeWalker إلى هذه العقدة، سواء كانت مرئية أم لا. يعمل الجذر كنقطة توقف لطرق التجوال التي تنظر إلى الأعلى في بنية المستند، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا (null). |
+| whatToShow | Int64 | العلم يحدد أنواع العقد التي قد تظهر في العرض المنطقي للشجرة التي يقدمها الـ tree-walker. راجع وصف NodeFilter للحصول على مجموعة القيم الممكنة لـ SHOW_. يمكن دمج هذه العلامات باستخدام OR. |
 
 ### قيمة الإرجاع
 
-برنامج TreeWalker الذي تم إنشاؤه حديثًا .
+TreeWalker الذي تم إنشاؤه حديثًا.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: يُثار إذا كان الجذر المحدد هو فارغًا. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: يُرفع إذا كان الجذر المحدد null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
 * class [Node](../../node/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[Node](../../node/), long, [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter/)*) {#createtreewalker_2}
 
-قم بإنشاء TreeWalker جديد فوق الشجرة الفرعية التي تم تحديد جذرها في العقدة المحددة.
+إنشاء TreeWalker جديد فوق الشجرة الفرعية المتجذرة في العقدة المحددة.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| root | Node | العقدة التي ستعمل كجذر لـ the TreeWalker. لا تؤخذ إشارات whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة ؛ سيتم قبول أي نوع عقدة كجذر. تم تهيئة العقدة الحالية لـ TreeWalker إلى هذه العقدة ، سواء كانت مرئية أم لا. يعمل the root كنقطة توقف لطرق traversal التي تنظر إلى الأعلى في بنية المستند ، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا. |
-| whatToShow | Int64 | تحدد العلامة أنواع العقدة التي قد تظهر في العرض المنطقي للشجرة الذي يقدمه ممر الشجرة. راجع وصف لـ NodeFilter لمجموعة من القيم الممكنة SHOW_ يمكن دمج هذه العلامات باستخدام OR. |
-| filter | INodeFilter | NodeFilter للاستخدام مع this TreeWalker ، أو null للإشارة إلى عدم وجود عامل تصفية. |
+| root | Node | العقدة التي ستعمل كجذر لـ TreeWalker. لا يتم أخذ أعلام whatToShow و NodeFilter في الاعتبار عند تعيين هذه القيمة؛ سيتم قبول أي نوع عقدة كجذر. يتم تهيئة currentNode الخاص بـ TreeWalker إلى هذه العقدة، سواء كانت مرئية أم لا. يعمل الجذر كنقطة توقف لطرق التجوال التي تنظر إلى الأعلى في بنية المستند، مثل parentNode و nextNode. يجب ألا يكون الجذر فارغًا (null). |
+| whatToShow | Int64 | العلم يحدد أنواع العقد التي قد تظهر في العرض المنطقي للشجرة التي يقدمها الـ tree-walker. راجع وصف NodeFilter للحصول على مجموعة القيم الممكنة لـ SHOW_. يمكن دمج هذه العلامات باستخدام OR. |
+| filter | INodeFilter | NodeFilter لاستخدامه مع هذا TreeWalker، أو null للإشارة إلى عدم وجود مرشح. |
 
 ### قيمة الإرجاع
 
-برنامج TreeWalker الذي تم إنشاؤه حديثًا .
+TreeWalker الذي تم إنشاؤه حديثًا.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: يُثار إذا كان الجذر المحدد هو فارغًا. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: يُرفع إذا كان الجذر المحدد null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
 * class [Node](../../node/)
 * interface [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

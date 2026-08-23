@@ -1,24 +1,22 @@
 ---
-title: ResourceHandlingOptions.JavaScript
-second_title: Aspose.SVG لمرجع .NET API
-description: ResourceHandlingOptions ملكية. الحصول على أو تعيين التعداد الذي يمثل طريقة معالجة البرامج النصية. حالياًSave وIgnore وDiscard وEmbed القيم المدعومة. القيمة الافتراضية هيSave .
+title: "ResourceHandlingOptions.JavaScript"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية JavaScript في ResourceHandlingOptions. يحصل أو يحدد تعداد يمثل طريقة معالجة النصوص البرمجية. حالياً يتم دعم القيم Save و Ignore و Discard و Embed. القيمة الافتراضية هي Save"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.saving/resourcehandlingoptions/javascript/
 ---
 ## ResourceHandlingOptions.JavaScript property
 
-الحصول على أو تعيين التعداد الذي يمثل طريقة معالجة البرامج النصية. حالياًSave وIgnore وDiscard وEmbed القيم المدعومة. القيمة الافتراضية هيSave .
+يحصل أو يعيّن التعداد الذي يمثل طريقة معالجة النصوص البرمجية. حالياً يتم دعم القيم Save و Ignore و Discard و Embed. القيمة الافتراضية هي Save.
 
 ```csharp
 public ResourceHandling JavaScript { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResourceHandling](../../resourcehandling/)
 * class [ResourceHandlingOptions](../)
-* مساحة الاسم [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

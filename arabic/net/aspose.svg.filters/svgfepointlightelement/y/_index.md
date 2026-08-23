@@ -1,28 +1,26 @@
 ---
-title: SVGFEPointLightElement.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEPointLightElement ملكية. يتوافق مع السمة y في عنصر fePointLight المحدد.
+title: "SVGFEPointLightElement.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Y في SVGFEPointLightElement. تتطابق مع السمة y في عنصر fePointLight المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.filters/svgfepointlightelement/y/
 ---
 ## SVGFEPointLightElement.Y property
 
-يتوافق مع السمة "y" في عنصر "fePointLight" المحدد.
+يتطابق مع السمة ‘y’ على العنصر ‘fePointLight’ المعطى.
 
 ```csharp
 public SVGAnimatedNumber Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "y" لعنصر "fePointLight" المحدد .
+السمة ‘y’ للعنصر ‘fePointLight’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEPointLightElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfepointlightelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

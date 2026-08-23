@@ -1,7 +1,7 @@
 ---
-title: DOMException.TYPE_MISMATCH_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. إذا كان نوع الكائن غير متوافق مع النوع المتوقع للمعامل المرتبط بالكائن.
+title: "DOMException.TYPE_MISMATCH_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل DOMException TYPE_MISMATCH_ERR. إذا كان نوع كائن غير متوافق مع النوع المتوقع للمعامل المرتبط بالكائن"
 type: docs
 weight: 280
 url: /ar/net/aspose.svg.dom/domexception/type_mismatch_err/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom/domexception/type_mismatch_err/
 public const ushort TYPE_MISMATCH_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

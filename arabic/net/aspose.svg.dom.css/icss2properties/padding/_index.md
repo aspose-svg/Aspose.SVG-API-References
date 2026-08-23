@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Padding
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الحشو في CSS2.
+title: "ICSS2Properties.Padding"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties Padding. انظر تعريف الخاصية padding في CSS2"
 type: docs
-weight: 800
+weight: 830
 url: /ar/net/aspose.svg.dom.css/icss2properties/padding/
 ---
 ## ICSS2Properties.Padding property
 
-راجع تعريف خاصية الحشو في CSS2.
+انظر تعريف خاصية padding في CSS2.
 
 ```csharp
 public string Padding { get; set; }
@@ -16,12 +16,10 @@ public string Padding { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الحشو
+خاصية padding
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

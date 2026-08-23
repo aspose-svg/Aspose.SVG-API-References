@@ -1,35 +1,33 @@
 ---
-title: Aspose.Svg.ImageVectorization
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.ImageVectorizationتحتوي مساحة الاسم على فئات لتوجيه الصور النقطية وتحويلها إلى مستندات SVG . تتضمن هذه العملية تقليل الصور النقطية إلى الأشكال الهندسية المكونة من عناصر المسار وتخزينها كـ SVG. وتكوين خيارات التوجيه.
+title: "Aspose.Svg.ImageVectorization"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تحتوي مساحة الاسم Aspose.Svg.ImageVectorization على فئات لتحويل الصور النقطية إلى رسومات متجهية وتحويلها إلى مستندات SVG. تتضمن هذه العملية تقليل الصور النقطية إلى أشكال هندسية مكوّنة من عناصر المسار وتخزينها كـ SVG. تشمل مساحة الاسم فئات لبناء مقاطع المسار وتبسيط ونقّح نقاط التتبع وتكوين خيارات التحويل المتجهية."
 type: docs
-weight: 170
+weight: 190
 url: /ar/net/aspose.svg.imagevectorization/
 ---
-ملف **Aspose.Svg.ImageVectorization**تحتوي مساحة الاسم على فئات لتوجيه الصور النقطية وتحويلها إلى مستندات SVG . تتضمن هذه العملية تقليل الصور النقطية إلى الأشكال الهندسية المكونة من عناصر المسار وتخزينها كـ SVG. وتكوين خيارات التوجيه.
+تحتوي مساحة الاسم **Aspose.Svg.ImageVectorization** على فئات لتوجيه الصور النقطية وتحويلها إلى مستندات SVG. تشمل هذه العملية تقليل ملفات البت ماب إلى أشكال هندسية مكوّنة من عناصر المسار وتخزينها كملفات SVG. تتضمن مساحة الاسم فئات لبناء مقاطع المسار، وتبسيط وتنعيم نقاط التتبع، وتكوين خيارات التوجيه.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [BezierPathBuilder](./bezierpathbuilder/) | ملف[`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) الطبقة هي المسؤولة عن بناء مقاطع المسار[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) من قائمة نقاط التتبع . يعتمد منشئ المسار هذا على استخدام طريقة المربعات الصغرى للعثور على نقاط تحكم بيزير لتتبع النقاط. |
-| [ImageTraceSimplifier](./imagetracesimplifier/) | تعتبر فئة ImageTraceSimplifier مسؤولة عن تقليل عدد النقاط في المنحنى الذي يتم تقريبه بواسطة سلسلة من نقاط التتبع. |
-| [ImageTraceSmoother](./imagetracesmoother/) | تعتبر فئة ImageTraceSimplifier مسؤولة عن تجانس عدد النقاط في المنحنى الذي يتم تقريبه بواسطة سلسلة من نقاط التتبع . تقوم هذه الفئة بتطبيق نهج أقرب الجوار. |
-| [ImageVectorizer](./imagevectorizer/) | تقوم فئة ImageVectorizer هذه بتوجيه الصور النقطية مثل PNG و JPG و GIF و BMP وغيرها ... وتعيد SVGDocument. في ظل التوجيه الاتجاهي ، نعني عملية تقليل الصور النقطية إلى أشكال هندسية مكونة من عناصر المسار وتخزينها بتنسيق SVG. |
-| [ImageVectorizerConfiguration](./imagevectorizerconfiguration/) | ملف[`ImageVectorizerConfiguration`](../aspose.svg.imagevectorization/imagevectorizerconfiguration/) تحدد الفئة تكوين طرق وخيارات تحويل الصورة. |
-| [SplinePathBuilder](./splinepathbuilder/) | ملف[`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) الطبقة هي المسؤولة عن بناء مقاطع المسار[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) من قائمة نقاط التتبع . يعتمد منشئ المسار هذا على تطبيق خط Catmull-Roma spline على مجموعة من نقاط المسار المصقولة والمقلصة .. |
-| [StencilConfiguration](./stencilconfiguration/) | ملف[`StencilConfiguration`](../aspose.svg.imagevectorization/stencilconfiguration/) تحدد الفئة تكوينًا لخيارات تأثير الاستنسل. |
-## واجهات
+| [BezierPathBuilder](./bezierpathbuilder/) | الفئة [`BezierPathBuilder`](../aspose.svg.imagevectorization/bezierpathbuilder/) مسؤولة عن إنشاء مسار بيزير من مجموعة نقاط معينة. تقرب تتبع النقاط بمنحنى بيزير، وتُحسّن عدد المقاطع لتطابق التتبع الأصلي بأقرب شكل مع تقليل التعقيد. |
+| [ImageTraceSimplifier](./imagetracesimplifier/) | الفئة ImageTraceSimplifier مسؤولة عن تقليل عدد النقاط في منحنى يتم تقريبها بسلسلة من نقاط التتبع. |
+| [ImageTraceSmoother](./imagetracesmoother/) | الفئة ImageTraceSimplifier مسؤولة عن تنعيم عدد النقاط في منحنى يتم تقريبها بسلسلة من نقاط التتبع. تُطبق هذه الفئة نهج أقرب جار. |
+| [ImageVectorizer](./imagevectorizer/) | هذه الفئة ImageVectorizer تقوم بتحويل الصور النقطية مثل PNG و JPG و GIF و BMP وغيرها... وتعيد كائن SVGDocument. تحت مفهوم التحويل نقصد عملية تقليل الصور النقطية إلى أشكال هندسية مكوّنة من عناصر المسار وتُخزن كـ SVG. |
+| [ImageVectorizerConfiguration](./imagevectorizerconfiguration/) | الفئة [`ImageVectorizerConfiguration`](../aspose.svg.imagevectorization/imagevectorizerconfiguration/) تُعرّف تكوين طرق وخيارات تحويل الصور. يُستخدم التكوين لتهيئة كائن ImageVectorizer ويُوفر خيارات التكوين لتحويل الصور. |
+| [SplinePathBuilder](./splinepathbuilder/) | الفئة [`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) مُصممة لبناء مسار ناعم عن طريق تحويل منحنيات Catmull–Rom المركزية إلى منحنيات بيزيه. تُقدّم طريقة لتوليد مسار يتداخل بسلاسة عبر مجموعة من النقاط، موفرةً توازناً بين الدقة للنقاط وسلاسة المنحنى. |
+| [StencilConfiguration](./stencilconfiguration/) | الفئة [`StencilConfiguration`](../aspose.svg.imagevectorization/stencilconfiguration/) تُعرّف تكوين خيارات تأثير القالب. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
 | [IImageTraceSimplifier](./iimagetracesimplifier/) | واجهة IImageTraceSimplifier مسؤولة عن تقليل النقاط في التتبع. |
-| [IImageTraceSmoother](./iimagetracesmoother/) | واجهة IImageTraceSmoother هي المسؤولة عن تجانس التتبع. |
-| [IPathBuilder](./ipathbuilder/) | واجهة IPathBuilder مسؤولة عن إنشاء مقاطع المسار[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) من قائمة نقاط التتبع. |
-## تعداد
+| [IImageTraceSmoother](./iimagetracesmoother/) | واجهة IImageTraceSmoother مسؤولة عن تنعيم التتبع. |
+| [IPathBuilder](./ipathbuilder/) | واجهة IPathBuilder مسؤولة عن بناء مقاطع المسار [`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) من قائمة نقاط التتبع. |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [StencilType](./stenciltype/) | ملف[`StencilType`](../aspose.svg.imagevectorization/stenciltype/) يحدد التعداد أنواع الاستنسل. |
-
-
+| [StencilType](./stenciltype/) | التعداد [`StencilType`](../aspose.svg.imagevectorization/stenciltype/) يُعرّف أنواع القوالب. |

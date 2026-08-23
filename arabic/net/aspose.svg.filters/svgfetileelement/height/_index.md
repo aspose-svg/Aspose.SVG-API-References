@@ -1,28 +1,26 @@
 ---
-title: SVGFETileElement.Height
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETileElement ملكية. يتوافق مع السمة الارتفاع على عنصر الفلتر المحدد .
+title: "SVGFETileElement.Height"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Height في SVGFETileElement. تتطابق مع السمة height في عنصر الفلتر المعطى"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.filters/svgfetileelement/height/
 ---
 ## SVGFETileElement.Height property
 
-يتوافق مع السمة "الارتفاع" على عنصر "الفلتر" المحدد .
+يتطابق مع السمة ‘height’ في عنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-سمة "الارتفاع" لعنصر "عامل التصفية" المحدد .
+السمة ‘height’ للعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFETileElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfetileelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

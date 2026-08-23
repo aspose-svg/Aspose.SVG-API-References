@@ -1,39 +1,37 @@
 ---
-title: Time.op_Addition
-second_title: Aspose.SVG لمرجع .NET API
-description: Time طريقة. تنفيذ عامل التشغيل  .
+title: "Time.op_Addition"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة op_Addition في Time. تنفذ العملية"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/time/op_addition/
 ---
 ## Time Addition operator
 
-تنفيذ عامل التشغيل + .
+ينفّذ العامل +.
 
 ```csharp
 public static Time operator +(Time a, Time b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Time | المعلمة أ. |
-| b | Time | المعلمة ب. |
+| a | Time | المعامل a. |
+| b | Time | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجج لاغية |
-| ArgumentException | الوسائط لها أنواع مختلفة or الوسائط لها دقة مختلفة أو |
+| ArgumentNullException | الوسائط فارغة |
+| ArgumentException | الوسائط لها أنواع مختلفة أو الوسائط لها دقة مختلفة أو |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Time](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../time/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

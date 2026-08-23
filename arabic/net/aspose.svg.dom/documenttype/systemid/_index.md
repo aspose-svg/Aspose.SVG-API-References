@@ -1,27 +1,25 @@
 ---
-title: DocumentType.SystemId
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentType ملكية. معرّف النظام الخاص بالمجموعة الفرعية الخارجية. قد يكون هذا URI مطلقًا أم لا.
+title: "DocumentType.SystemId"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DocumentType SystemId. المعرف النظامي للمجموعة الخارجية. قد يكون URI مطلقًا أو لا"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom/documenttype/systemid/
 ---
 ## DocumentType.SystemId property
 
-معرّف النظام الخاص بالمجموعة الفرعية الخارجية. قد يكون هذا URI مطلقًا أم لا.
+المعرّف النظامي للمجموعة الفرعية الخارجية. قد يكون هذا URI مطلقًا أو لا.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف النظام .
+المعرف النظامي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentType](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documenttype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,31 @@
 ---
-title: Node.NextSibling
-second_title: Aspose.SVG لمرجع .NET API
-description: Node ملكية. العقدة التي تلي هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة  فإن هذا يعيد قيمة خالية.
+title: "Node.NextSibling"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Node NextSibling. تُعيد العقدة التي تلي العقدة المحددة مباشرةً في ChildNodes الخاصة بوالدها أو تُعيد null إذا كانت العقدة المحددة هي العقدة الأخيرة في العنصر الأب."
 type: docs
-weight: 80
+weight: 70
 url: /ar/net/aspose.svg.dom/node/nextsibling/
 ---
 ## Node.NextSibling property
 
-العقدة التي تلي هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية.
+يعيد العقدة التي تلي العقدة المحددة مباشرةً في [`ChildNodes`](../childnodes/) الخاصة بالوالد، أو يعيد null إذا كانت العقدة المحددة هي العقدة الأخيرة في العنصر الأب.
 
 ```csharp
 public Node NextSibling { get; }
 ```
 
-### أنظر أيضا
+### Property Value
+
+[`Node`](../) يمثل الأخ التالي للعقدة الحالية، أو null إذا لم يكن هناك أي منها.
+
+## ملاحظات
+
+المرجع:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nextsibling).
+
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

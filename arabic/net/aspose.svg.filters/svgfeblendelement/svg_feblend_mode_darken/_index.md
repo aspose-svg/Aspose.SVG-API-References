@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_DARKEN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEBlendElement مجال. يتوافق مع القيمة تعتيم .
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_DARKEN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FEBLEND_MODE_DARKEN في SVGFEBlendElement. يتطابق مع القيمة darken"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_darken/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_DARKEN field
 
-يتوافق مع القيمة "تعتيم" .
+يتطابق مع القيمة 'darken'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_DARKEN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEBlendElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeblendelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: FtpProtocolMessageHandler.FtpProtocolMessageHandler
-second_title: Aspose.SVG لمرجع .NET API
-description: FtpProtocolMessageHandler البناء. يقوم بتهيئة مثيل جديد لملفFtpProtocolMessageHandler فئة .
+title: "FtpProtocolMessageHandler"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ FtpProtocolMessageHandler. يهيئ نسخة جديدة من فئة FtpProtocolMessageHandler"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler constructor
 
-يقوم بتهيئة مثيل جديد لملف[`FtpProtocolMessageHandler`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FtpProtocolMessageHandler`](../).
 
 ```csharp
 public FtpProtocolMessageHandler()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FtpProtocolMessageHandler](../)
-* مساحة الاسم [Aspose.Svg.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

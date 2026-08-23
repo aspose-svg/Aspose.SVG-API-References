@@ -1,27 +1,25 @@
 ---
-title: ICreateStreamProvider.ReleaseStream
-second_title: Aspose.SVG لمرجع .NET API
-description: ICreateStreamProvider طريقة. يصدر الدفق .
+title: "ICreateStreamProvider.ReleaseStream"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ReleaseStream في ICreateStreamProvider. تُطلق التدفق"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.io/icreatestreamprovider/releasestream/
 ---
 ## ICreateStreamProvider.ReleaseStream method
 
-يصدر الدفق .
+يطلق التدفق.
 
 ```csharp
 public void ReleaseStream(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | يتم إصدار الدفق. |
+| دفق | Stream | التدفق الجاري إصداره. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../icreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

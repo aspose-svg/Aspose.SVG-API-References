@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.LineDashPattern
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. تعيين أو الحصول على وصف لنمط الشرطة لاستخدامه عند تحديد المسارات.
+title: "GraphicContext.LineDashPattern"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext LineDashPattern. يضبط أو يحصل على وصف نمط الشرط الذي يُستخدم عند رسم المسارات. يمكن تعيينه إلى null أو مصفوفة فارغة لتعطيله"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.svg.rendering/graphiccontext/linedashpattern/
 ---
 ## GraphicContext.LineDashPattern property
 
-تعيين أو الحصول على وصف لنمط الشرطة لاستخدامه عند تحديد المسارات.
+يضبط أو يحصل على وصف نمط الخط المتقطع الذي سيُستخدم عندما تُرسم المسارات. يمكن تعيينه إلى null أو مصفوفة فارغة لتعطيله.
 
 ```csharp
 public virtual float[] LineDashPattern { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

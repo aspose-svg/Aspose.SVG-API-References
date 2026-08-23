@@ -1,27 +1,25 @@
 ---
-title: ICSSMediaRule.DeleteRule
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSMediaRule طريقة. يستخدم لحذف قاعدة من كتلة الوسائط.
+title: "ICSSMediaRule.DeleteRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DeleteRule في ICSSMediaRule. تُستخدم لحذف قاعدة من كتلة الوسائط."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/icssmediarule/deleterule/
 ---
 ## ICSSMediaRule.DeleteRule method
 
-يستخدم لحذف قاعدة من كتلة الوسائط.
+يُستخدم لحذف قاعدة من كتلة الوسائط.
 
 ```csharp
 public void DeleteRule(long index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int64 | مؤشر. |
+| index | Int64 | الفهرس. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSMediaRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

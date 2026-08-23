@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextIndent
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية المسافة البادئة للنص في CSS2.
+title: "ICSS2Properties.TextIndent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties TextIndent خاصية. انظر تعريف خاصية text-indent في CSS2"
 type: docs
-weight: 1090
+weight: 1120
 url: /ar/net/aspose.svg.dom.css/icss2properties/textindent/
 ---
 ## ICSS2Properties.TextIndent property
 
-راجع تعريف خاصية المسافة البادئة للنص في CSS2.
+انظر إلى تعريف الخاصية text-indent في CSS2.
 
 ```csharp
 public string TextIndent { get; set; }
@@ -16,12 +16,10 @@ public string TextIndent { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية المسافة البادئة للنص
+خاصية text-indent
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

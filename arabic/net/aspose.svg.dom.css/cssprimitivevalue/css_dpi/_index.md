@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_DPI
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي نقطة في البوصة dpi .
+title: "CSSPrimitiveValue.CSS_DPI"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_DPI. القيمة هي نقاط لكل بوصة dpi."
 type: docs
 weight: 180
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_dpi/
 ---
 ## CSSPrimitiveValue.CSS_DPI field
 
-القيمة هي نقطة في البوصة (dpi) .
+القيمة هي نقاط لكل بوصة (dpi).
 
 ```csharp
 public const ushort CSS_DPI;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

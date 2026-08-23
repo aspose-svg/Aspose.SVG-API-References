@@ -1,32 +1,30 @@
 ---
-title: Unit.FromMilliseconds
-second_title: Aspose.SVG لمرجع .NET API
-description: Unit طريقة. إرجاع أTime الكائن الذي يتم تمثيله بالملي ثانية.
+title: "Unit.FromMilliseconds"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Unit FromMilliseconds. تُرجع كائن Time يُمثَّل بالمللي ثانية."
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.drawing/unit/frommilliseconds/
 ---
 ## Unit.FromMilliseconds method
 
-إرجاع أ[`Time`](../../time/) الكائن الذي يتم تمثيله بالملي ثانية.
+تُرجع كائنًا [`Time`](../../time/) يُمثَّل بالمللي ثانية.
 
 ```csharp
 public static Time FromMilliseconds(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة. |
+| القيمة | Double | القيمة. |
 
 ### قيمة الإرجاع
 
-يعود أ[`Time`](../../time/) هدف.
+تُرجع كائنًا [`Time`](../../time/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Time](../../time/)
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

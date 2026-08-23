@@ -1,27 +1,25 @@
 ---
-title: Device2.MoveTo
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يبدأ مسارًا فرعيًا جديدًا عن طريق تحريك النقطة الحالية إلى إحداثيات المعلمة pt  مع حذف أي مقطع خط متصل. إذا كانت طريقة إنشاء المسار السابقة في المسار الحالي هي أيضًا MoveTo  فإن MoveTo الجديد يتجاوزها  لا توجد آثار لعملية MoveTo السابقة في المسار.
+title: "Device-2.MoveTo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MoveTo في Device. تبدأ مسارًا فرعيًا جديدًا بنقل النقطة الحالية إلى إحداثيات المعامل pt متجنبة أي مقطع خطي متصل. إذا كانت طريقة بناء المسار السابقة في المسار الحالي هي أيضًا MoveTo، فإن MoveTo الجديد يتجاوزها ولا يبقى أي أثر لعملية MoveTo السابقة في المسار."
 type: docs
-weight: 190
+weight: 220
 url: /ar/net/aspose.svg.rendering/device-2/moveto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.MoveTo method
+## Device<TGraphicContext,TRenderingOptions>.MoveTo method
 
-يبدأ مسارًا فرعيًا جديدًا عن طريق تحريك النقطة الحالية إلى إحداثيات المعلمة pt ، مع حذف أي مقطع خط متصل. إذا كانت طريقة إنشاء المسار السابقة في المسار الحالي هي أيضًا "MoveTo" ، فإن "MoveTo" الجديد يتجاوزها ؛ لا توجد آثار لعملية "MoveTo" السابقة في المسار.
+يبدأ مسارًا فرعيًا جديدًا بنقل النقطة الحالية إلى إحداثيات المعامل pt، متجنبًا أي مقطع خط يربط بينهما. إذا كانت طريقة إنشاء المسار السابقة في المسار الحالي هي أيضًا "MoveTo"، فإن "MoveTo" الجديد يتجاوزها؛ ولا يبقى أي أثر لعملية "MoveTo" السابقة في المسار.
 
 ```csharp
-public abstract void MoveTo(PointF pt)
+public virtual void MoveTo(PointF pt)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pt | PointF | نقطة حيث يتم نقل المسار إلى. |
+| pt | PointF | نقطة الوجهة التي يُنقل إليها المسار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

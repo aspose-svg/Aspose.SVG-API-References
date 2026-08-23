@@ -1,14 +1,14 @@
 ---
-title: FontsSettings.GetFontsLookupFolders
-second_title: Aspose.SVG لمرجع .NET API
-description: FontsSettings طريقة. يحصل على نسخة من المصفوفة التي تحتوي على مجلدات الخطوط. يتم استخدام الخطوط الموجودة في هذه المجلدات لعرض الأحرف.
+title: "FontsSettings.GetFontsLookupFolders"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة FontsSettings GetFontsLookupFolders. تحصل على نسخة من المصفوفة التي تحتوي على مجلدات الخطوط. الخطوط الموجودة في هذه المجلدات تُستخدم في عرض الأحرف"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/fontssettings/getfontslookupfolders/
 ---
 ## FontsSettings.GetFontsLookupFolders method
 
-يحصل على نسخة من المصفوفة التي تحتوي على مجلدات الخطوط. يتم استخدام الخطوط الموجودة في هذه المجلدات لعرض الأحرف.
+يحصل على نسخة من المصفوفة التي تحتوي على مجلدات الخطوط. تُستخدم الخطوط الموجودة في هذه المجلدات لتصيير الأحرف.
 
 ```csharp
 public string[] GetFontsLookupFolders()
@@ -16,12 +16,10 @@ public string[] GetFontsLookupFolders()
 
 ### قيمة الإرجاع
 
-نسخة من مجموعة مجلدات الخطوط.
+نسخة من مصفوفة مجلدات الخطوط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontsSettings](../)
-* مساحة الاسم [Aspose.Svg](../../fontssettings/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

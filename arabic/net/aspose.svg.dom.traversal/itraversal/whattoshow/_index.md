@@ -1,27 +1,25 @@
 ---
-title: ITraversal.WhatToShow
-second_title: Aspose.SVG لمرجع .NET API
-description: ITraversal ملكية. تحدد هذه السمة أنواع العقدة التي يتم تقديمها عبر مكرر . يتم تحديد مجموعة الثوابت المتاحة في واجهة NodeFilter. العقد التي لم يتم قبولها by سيتم تخطي whatToShow  ولكن لا يزال من الممكن اعتبار أطفالهم . لاحظ أن هذا التخطي له الأسبقية على عامل التصفية  إن وجد.
+title: "ITraversal.WhatToShow"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ITraversal WhatToShow. تحدد هذه السمة أنواع العقد التي يتم تقديمها عبر المت iterator. مجموعة الثوابت المتاحة معرفة في واجهة NodeFilter. العقد التي لا تقبلها whatToShow سيتم تخطيها لكن قد يتم اعتبار أبنائها. لاحظ أن هذا التخطي له أولوية على الفلتر إذا كان موجودًا."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.traversal/itraversal/whattoshow/
 ---
 ## ITraversal.WhatToShow property
 
-تحدد هذه السمة أنواع العقدة التي يتم تقديمها عبر مكرر . يتم تحديد مجموعة الثوابت المتاحة في واجهة NodeFilter. العقد التي لم يتم قبولها by سيتم تخطي whatToShow ، ولكن لا يزال من الممكن اعتبار أطفالهم . لاحظ أن هذا التخطي له الأسبقية على عامل التصفية ، إن وجد.
+تحدد هذه الخاصية أي أنواع العقد التي يتم تقديمها عبر الـ iterator. مجموعة الثوابت المتاحة معرفة في واجهة NodeFilter. العقد التي لا يقبلها whatToShow سيتم تخطيها، لكن قد تُؤخذ أبناؤها في الاعتبار. لاحظ أن هذا التخطي له أولوية على الفلتر، إذا كان موجودًا.
 
 ```csharp
 public long WhatToShow { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ما يجب إظهاره .
+ما الذي يجب عرضه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITraversal](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

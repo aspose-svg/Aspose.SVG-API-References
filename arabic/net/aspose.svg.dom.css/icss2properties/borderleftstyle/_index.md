@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderLeftStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية نمط الحدود اليسرى في CSS2.
+title: "ICSS2Properties.BorderLeftStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties BorderLeftStyle. راجع تعريف خاصية border-left-style في CSS2"
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.dom.css/icss2properties/borderleftstyle/
 ---
 ## ICSS2Properties.BorderLeftStyle property
 
-راجع تعريف خاصية نمط الحدود اليسرى في CSS2.
+انظر تعريف خاصية border-left-style في CSS2.
 
 ```csharp
 public string BorderLeftStyle { get; set; }
@@ -16,12 +16,10 @@ public string BorderLeftStyle { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية نمط يسار الحدود
+خاصية border-left-style
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

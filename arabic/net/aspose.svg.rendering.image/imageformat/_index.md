@@ -1,9 +1,9 @@
 ---
-title: Enum ImageFormat
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Image.ImageFormat تعداد. يحدد تنسيق ملف الصورة.
+title: "تعداد ImageFormat"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تعداد Aspose.Svg.Rendering.Image.ImageFormat. يحدد تنسيق ملف الصورة."
 type: docs
-weight: 2850
+weight: 4930
 url: /ar/net/aspose.svg.rendering.image/imageformat/
 ---
 ## ImageFormat enumeration
@@ -14,19 +14,18 @@ url: /ar/net/aspose.svg.rendering.image/imageformat/
 public enum ImageFormat
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Jpeg | `1` | تنسيق صورة مجموعة خبراء التصوير المشتركة (JPEG) . |
-| Png | `2` | تنسيق صورة W3C Portable Network Graphics (PNG). |
-| Bmp | `3` | تنسيق صورة الصورة النقطية (BMP) . |
-| Gif | `4` | تنسيق صورة بتنسيق تبادل الرسومات (GIF). |
-| Tiff | `5` | تنسيق صورة بتنسيق ملف الصورة ذي العلامات (TIFF) . |
+| Jpeg | `1` | تنسيق صورة مجموعة الخبراء المشتركة للتصوير الفوتوغرافي (JPEG). |
+| Png | `2` | تنسيق صورة رسومات الشبكة القابلة للنقل (PNG) من W3C. |
+| Bmp | `3` | تنسيق صورة البت ماب (BMP). |
+| Gif | `4` | تنسيق صورة تنسيق تبادل الرسوميات (GIF). |
+| Tiff | `5` | تنسيق صورة تنسيق ملف الصورة الموسومة (TIFF). |
+| Webp | `6` | تنسيق صورة الويب (WebP)، وهو تنسيق صورة حديث يوفر ضغطًا غير فقدانيًا وفاقدًا عالي الجودة للصور على الويب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

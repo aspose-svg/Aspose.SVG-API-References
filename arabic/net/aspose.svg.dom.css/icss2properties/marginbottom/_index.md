@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarginBottom
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الهامش السفلي في CSS2.
+title: "ICSS2Properties.MarginBottom"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MarginBottom في ICSS2Properties. راجع تعريف خاصية margin-bottom في CSS2"
 type: docs
-weight: 640
+weight: 670
 url: /ar/net/aspose.svg.dom.css/icss2properties/marginbottom/
 ---
 ## ICSS2Properties.MarginBottom property
 
-راجع تعريف خاصية الهامش السفلي في CSS2.
+انظر تعريف خاصية margin-bottom في CSS2.
 
 ```csharp
 public string MarginBottom { get; set; }
@@ -16,12 +16,10 @@ public string MarginBottom { get; set; }
 
 ### قيمة الإرجاع
 
-الهامش السفلي
+margin-bottom
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

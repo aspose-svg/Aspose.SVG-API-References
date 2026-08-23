@@ -1,28 +1,26 @@
 ---
-title: SVGFEBlendElement.In1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEBlendElement ملكية. يتوافق مع السمة in في عنصر feBlend المحدد .
+title: "SVGFEBlendElement.In1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية In1 في SVGFEBlendElement. يتطابق مع السمة in في العنصر feBlend المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.filters/svgfeblendelement/in1/
 ---
 ## SVGFEBlendElement.In1 property
 
-يتوافق مع السمة "in" في عنصر "feBlend" المحدد .
+يتطابق مع السمة ‘in’ على العنصر ‘feBlend’ المعطى.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "في" لعنصر "feBlend" المحدد .
+السمة ‘in’ في العنصر ‘feBlend’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEBlendElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeblendelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_MULTIPLY
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEBlendElement مجال. يتوافق مع القيمة مضاعفة .
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_MULTIPLY"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FEBLEND_MODE_MULTIPLY في SVGFEBlendElement. يتطابق مع القيمة multiply"
 type: docs
 weight: 190
 url: /ar/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_multiply/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_MULTIPLY field
 
-يتوافق مع القيمة "مضاعفة" .
+يتطابق مع القيمة 'multiply'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_MULTIPLY;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEBlendElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeblendelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

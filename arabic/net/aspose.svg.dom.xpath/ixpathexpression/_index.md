@@ -1,28 +1,26 @@
 ---
-title: Interface IXPathExpression
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.XPath.IXPathExpression واجهه المستخدم. ملفXPathExpressionتمثل الواجهة تعبير XPath الذي تم تحليله وتم تحليله.
+title: "واجهة IXPathExpression"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.XPath.IXPathExpression. تمثل واجهة XPathExpression تعبير XPath تم تحليله وحله"
 type: docs
-weight: 1320
+weight: 3320
 url: /ar/net/aspose.svg.dom.xpath/ixpathexpression/
 ---
 ## IXPathExpression interface
 
-ملف`XPathExpression`تمثل الواجهة تعبير XPath الذي تم تحليله وتم تحليله.
+واجهة `XPathExpression` تمثل تعبير XPath تم تحليله وحله.
 
 ```csharp
 public interface IXPathExpression
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Evaluate](../../aspose.svg.dom.xpath/ixpathexpression/evaluate/)(Node, XPathResultType, object) | بتقييم تعبير XPath هذا وإرجاع نتيجة. |
+| [Evaluate](../../aspose.svg.dom.xpath/ixpathexpression/evaluate/)(*[Node](../../aspose.svg.dom/node/), [XPathResultType](../xpathresulttype/), object*) | يقوم بتقييم هذا التعبير XPath ويعيد نتيجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

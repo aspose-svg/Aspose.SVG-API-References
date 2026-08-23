@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGFilterPrimitiveStandardAttributes
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Filters.ISVGFilterPrimitiveStandardAttributes واجهه المستخدم. تحدد هذه الواجهة مجموعة سمات DOM الشائعة عبر واجهات المرشح البدائية.
+title: "ISVGFilterPrimitiveStandardAttributes واجهة"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Filters.ISVGFilterPrimitiveStandardAttributes واجهة. تحدد هذه الواجهة مجموعة سمات DOM التي هي مشتركة عبر واجهات بدائية الفلتر"
 type: docs
-weight: 1640
+weight: 3730
 url: /ar/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface
 
-تحدد هذه الواجهة مجموعة سمات DOM الشائعة عبر واجهات المرشح البدائية.
+تحدد هذه الواجهة مجموعة سمات DOM المشتركة عبر واجهات بدائية الفلتر.
 
 ```csharp
 public interface ISVGFilterPrimitiveStandardAttributes
@@ -16,17 +16,15 @@ public interface ISVGFilterPrimitiveStandardAttributes
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | يتوافق مع السمة "الارتفاع" على عنصر "الفلتر" المحدد . |
-| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | يتوافق مع السمة "نتيجة" على عنصر "عامل التصفية" المحدد . |
-| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | يتوافق مع السمة "العرض" على عنصر "الفلتر" المحدد . |
-| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | يتوافق مع السمة "x" في عنصر "عامل التصفية" المحدد . |
-| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | يتوافق مع السمة "y" في عنصر "عامل التصفية" المحدد . |
+| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | يتطابق مع السمة ‘height’ في عنصر ‘filter’ المحدد. |
+| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | يتطابق مع السمة ‘result’ في العنصر ‘filter’ المحدد. |
+| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | يتطابق مع السمة ‘width’ في عنصر ‘filter’ المحدد. |
+| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | يتطابق مع السمة ‘x’ في عنصر ‘filter’ المحدد. |
+| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | يتطابق مع السمة ‘y’ في عنصر ‘filter’ المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Filters](../../aspose.svg.filters/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Filters](../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../)

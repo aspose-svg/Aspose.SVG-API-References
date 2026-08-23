@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGNumber
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement طريقة. لتكوين كائن SVGNumber خارج أية شجرات مستندات. تمت تهيئة الكائن إلى قيمة صفر.
+title: "SVGSVGElement.CreateSVGNumber"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CreateSVGNumber في SVGSVGElement. تنشئ كائن SVGNumber خارج أي شجرة مستندات. يتم تهيئة الكائن إلى القيمة صفر"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg/svgsvgelement/createsvgnumber/
 ---
 ## SVGSVGElement.CreateSVGNumber method
 
-لتكوين كائن SVGNumber خارج أية شجرات مستندات. تمت تهيئة الكائن إلى قيمة صفر.
+ينشئ كائن SVGNumber خارج أي شجرة مستندات. يتم تهيئة الكائن إلى قيمة صفر.
 
 ```csharp
 public SVGNumber CreateSVGNumber()
@@ -18,11 +18,9 @@ public SVGNumber CreateSVGNumber()
 
 كائن SVGNumber.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGNumber](../../../aspose.svg.datatypes/svgnumber/)
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

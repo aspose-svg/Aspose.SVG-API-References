@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_CLOSEPATH
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg مجال. يتطابق مع أمر بيانات المسار closeepath z .
+title: "SVGPathSeg.PATHSEG_CLOSEPATH"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGPathSeg PATHSEG_CLOSEPATH حقل. يتطابق مع أمر بيانات مسار closepath z"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.paths/svgpathseg/pathseg_closepath/
 ---
 ## SVGPathSeg.PATHSEG_CLOSEPATH field
 
-يتطابق مع أمر بيانات المسار "closeepath" (z) .
+يتطابق مع أمر بيانات مسار "closepath" (z).
 
 ```csharp
 public const ushort PATHSEG_CLOSEPATH;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

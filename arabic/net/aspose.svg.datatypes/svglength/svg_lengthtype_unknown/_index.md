@@ -1,23 +1,21 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_UNKNOWN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLength مجال. نوع الوحدة ليس أحد أنواع الوحدات المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+title: "SVGLength.SVG_LENGTHTYPE_UNKNOWN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGLength SVG_LENGTHTYPE_UNKNOWN. نوع الوحدة ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع"
 type: docs
 weight: 180
 url: /ar/net/aspose.svg.datatypes/svglength/svg_lengthtype_unknown/
 ---
 ## SVGLength.SVG_LENGTHTYPE_UNKNOWN field
 
-نوع الوحدة ليس أحد أنواع الوحدات المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+نوع الوحدة ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_UNKNOWN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGLength](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svglength/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

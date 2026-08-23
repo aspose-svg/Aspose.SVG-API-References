@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MaxHeight
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية maxheight في CSS2.
+title: "ICSS2Properties.MaxHeight"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties MaxHeight خاصية. انظر تعريف خاصية max-height في CSS2"
 type: docs
-weight: 700
+weight: 730
 url: /ar/net/aspose.svg.dom.css/icss2properties/maxheight/
 ---
 ## ICSS2Properties.MaxHeight property
 
-راجع تعريف خاصية max-height في CSS2.
+انظر تعريف خاصية max-height في CSS2.
 
 ```csharp
 public string MaxHeight { get; set; }
@@ -18,10 +18,8 @@ public string MaxHeight { get; set; }
 
 خاصية max-height
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

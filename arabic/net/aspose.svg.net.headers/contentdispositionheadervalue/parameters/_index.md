@@ -1,28 +1,26 @@
 ---
-title: ContentDispositionHeaderValue.Parameters
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentDispositionHeaderValue ملكية. الحصول على مجموعة من المعلمات
+title: "ContentDispositionHeaderValue.Parameters"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Parameters في ContentDispositionHeaderValue. احصل على مجموعة من المعلمات."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.net.headers/contentdispositionheadervalue/parameters/
 ---
 ## ContentDispositionHeaderValue.Parameters property
 
-الحصول على مجموعة من المعلمات
+احصل على مجموعة المعلمات
 
 ```csharp
 public ICollection<NameValueHeaderValue> Parameters { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المعلمات .
+المعلمات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NameValueHeaderValue](../../namevalueheadervalue/)
 * class [ContentDispositionHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

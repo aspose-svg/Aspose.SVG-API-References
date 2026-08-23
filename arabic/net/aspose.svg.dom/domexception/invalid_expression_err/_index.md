@@ -1,23 +1,21 @@
 ---
-title: DOMException.INVALID_EXPRESSION_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. يحتوي التعبير على خطأ في بناء الجملة أو أنه ليس تعبيرًا قانونيًا وفقًا لقواعد محدد XPathEvaluator أو يحتوي على وظائف أو متغيرات خاصة بالامتداد لا يدعمها هذا التطبيق.
+title: "DOMException.INVALID_EXPRESSION_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل DOMException INVALID_EXPRESSION_ERR. التعبير يحتوي على خطأ في الصياغة أو غير ذلك ليس تعبيرًا قانونيًا وفقًا لقواعد XPathEvaluator المحدد أو يحتوي على وظائف امتداد متخصصة أو متغيرات غير مدعومة من قبل هذا التنفيذ"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.dom/domexception/invalid_expression_err/
 ---
 ## DOMException.INVALID_EXPRESSION_ERR field
 
-يحتوي التعبير على خطأ في بناء الجملة أو أنه ليس تعبيرًا قانونيًا وفقًا لقواعد محدد XPathEvaluator أو يحتوي على وظائف أو متغيرات خاصة بالامتداد لا يدعمها هذا التطبيق.
+التعبير يحتوي على خطأ في الصياغة أو ليس تعبيرًا قانونيًا وفقًا لقواعد XPathEvaluator المحدد أو يحتوي على وظائف امتداد متخصصة أو متغيرات غير مدعومة من قبل هذا التنفيذ.
 
 ```csharp
 public const ushort INVALID_EXPRESSION_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

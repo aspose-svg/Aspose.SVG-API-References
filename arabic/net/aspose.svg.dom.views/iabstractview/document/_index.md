@@ -1,28 +1,26 @@
 ---
-title: IAbstractView.Document
-second_title: Aspose.SVG لمرجع .NET API
-description: IAbstractView ملكية. المصدر DocumentView الذي يعد عرض الملخص.
+title: "IAbstractView.Document"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IAbstractView Document. مصدر DocumentView الذي يُعد هذا AbstractView له"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.views/iabstractview/document/
 ---
 ## IAbstractView.Document property
 
-المصدر DocumentView الذي يعد عرض الملخص.
+DocumentView المصدر الذي يُعد هذا AbstractView له.
 
 ```csharp
 public IDocumentView Document { get; }
 ```
 
-### Property_Value
+### Property Value
 
 المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDocumentView](../../idocumentview/)
 * interface [IAbstractView](../)
-* مساحة الاسم [Aspose.Svg.Dom.Views](../../iabstractview/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

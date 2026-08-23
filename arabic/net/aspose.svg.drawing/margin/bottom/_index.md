@@ -1,28 +1,26 @@
 ---
-title: Margin.Bottom
-second_title: Aspose.SVG لمرجع .NET API
-description: Margin ملكية. يحصل على القاع أو يحدده.
+title: "Margin.Bottom"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Margin Bottom. يحصل أو يضبط الجزء السفلي"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/margin/bottom/
 ---
 ## Margin.Bottom property
 
-يحصل على القاع أو يحدده.
+يحصل أو يعين الجزء السفلي.
 
 ```csharp
 public LengthOrAuto Bottom { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القاع .
+الجزء السفلي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../margin/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

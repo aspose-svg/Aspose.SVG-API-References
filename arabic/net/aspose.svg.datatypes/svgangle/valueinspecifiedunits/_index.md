@@ -1,33 +1,31 @@
 ---
-title: SVGAngle.ValueInSpecifiedUnits
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGAngle ملكية. قيمة الزاوية كقيمة فاصلة عائمة بالوحدات التي يتم التعبير عنها بواسطة نوع الوحدة. سيؤدي تعيين هذه السمة إلى تحديث القيمة والقيمة AsString تلقائيًا لتعكس هذا الإعداد.
+title: "SVGAngle.ValueInSpecifiedUnits"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGAngle ValueInSpecifiedUnits. قيمة الزاوية كقيمة نقطية عائمة بالوحدات التي يحددها unitType. ضبط هذه السمة سيؤدي إلى تحديث value و valueAsString تلقائيًا لتعكس هذا الإعداد."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.datatypes/svgangle/valueinspecifiedunits/
 ---
 ## SVGAngle.ValueInSpecifiedUnits property
 
-قيمة الزاوية كقيمة فاصلة عائمة بالوحدات التي يتم التعبير عنها بواسطة نوع الوحدة. سيؤدي تعيين هذه السمة إلى تحديث القيمة والقيمة AsString تلقائيًا لتعكس هذا الإعداد.
+قيمة الزاوية كقيمة نقطية عائمة، بالوحدات التي يحددها unitType. سيؤدي ضبط هذا السمة إلى تحديث value و valueAsString تلقائيًا لتعكس هذا الإعداد.
 
 ```csharp
 public float ValueInSpecifiedUnits { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة بالوحدات المحددة .
+القيمة بالوحدات المحددة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) يتم رفعه عندما تتوافق الزاوية مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الكود [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) يُرفع عندما تتطابق الزاوية مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAngle](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgangle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

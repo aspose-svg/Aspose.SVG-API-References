@@ -1,28 +1,26 @@
 ---
-title: SVGFEImageElement.PreserveAspectRatio
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEImageElement ملكية. يتوافق مع السمة saveAspectRatio في عنصر feImage المحدد.
+title: "SVGFEImageElement.PreserveAspectRatio"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGFEImageElement PreserveAspectRatio property. تتطابق مع السمة preserveAspectRatio في عنصر feImage المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.filters/svgfeimageelement/preserveaspectratio/
 ---
 ## SVGFEImageElement.PreserveAspectRatio property
 
-يتوافق مع السمة "saveAspectRatio" في عنصر "feImage" المحدد.
+يتطابق مع السمة ‘preserveAspectRatio’ على العنصر ‘feImage’ المحدد.
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "saveAspectRatio" لعنصر "feImage" المحدد .
+السمة ‘preserveAspectRatio’ لعنصر ‘feImage’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGFEImageElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeimageelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

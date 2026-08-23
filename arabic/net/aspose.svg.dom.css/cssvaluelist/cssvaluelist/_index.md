@@ -1,65 +1,63 @@
 ---
-title: CSSValueList.CSSValueList
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValueList البناء. يقوم بتهيئة مثيل جديد لملفCSSValueList فئة .
+title: "CSSValueList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ CSSValueList. يهيئ مثيلًا جديدًا من فئة CSSValueList"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CSSValueList`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValueList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
+## CSSValueList(*IEnumerable&lt;CSSValue&gt;*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`CSSValueList`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList(IEnumerable<CSSValue> values)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| values | IEnumerable`1 | القيم. |
+| القيم | IEnumerable`1 | القيم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(params CSSValue[]) {#constructor_1}
+## CSSValueList(*params CSSValue[]*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CSSValueList`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList(params CSSValue[] values)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| values | CSSValue[] | القيم. |
+| القيم | CSSValue[] | القيم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

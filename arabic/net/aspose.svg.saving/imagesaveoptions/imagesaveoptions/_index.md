@@ -1,44 +1,42 @@
 ---
-title: ImageSaveOptions.ImageSaveOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageSaveOptions البناء. يقوم بتهيئة مثيل جديد لملفImageSaveOptions فصلPng سيتم استخدامه كتنسيق افتراضي للصورة.
+title: "ImageSaveOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ImageSaveOptions. يهيئ نسخة جديدة من فئة ImageSaveOptions وسيتم استخدام Png كتنسيق صورة افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.saving/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageSaveOptions`](../) فصل؛Png سيتم استخدامه كتنسيق افتراضي للصورة.
+يهيئ نسخة جديدة من الفئة [`ImageSaveOptions`](../)؛ سيتم استخدام Png كتنسيق صورة افتراضي.
 
 ```csharp
 public ImageSaveOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageSaveOptions](../)
-* مساحة الاسم [Aspose.Svg.Saving](../../imagesaveoptions/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageSaveOptions(ImageFormat) {#constructor_1}
+## ImageSaveOptions(*[ImageFormat](../../../aspose.svg.rendering.image/imageformat/)*) {#constructor_1}
 
-تنسيق الصورة[`ImageFormat`](../../../aspose.svg.rendering.image/imageformat/) على أساس التهيئة
+تنسيق الصورة [`ImageFormat`](../../../aspose.svg.rendering.image/imageformat/) بناءً على التهيئة
 
 ```csharp
 public ImageSaveOptions(ImageFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| format | ImageFormat | شكل صورة |
+| تنسيق | ImageFormat | تنسيق الصورة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ImageFormat](../../../aspose.svg.rendering.image/imageformat/)
 * class [ImageSaveOptions](../)
-* مساحة الاسم [Aspose.Svg.Saving](../../imagesaveoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

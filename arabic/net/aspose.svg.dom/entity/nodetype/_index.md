@@ -1,7 +1,7 @@
 ---
-title: Entity.NodeType
-second_title: Aspose.SVG لمرجع .NET API
-description: Entity ملكية. رمز يمثل نوع الكائن الأساسي.
+title: "Entity.NodeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية NodeType في Entity. رمز يمثل نوع الكائن الأساسي."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom/entity/nodetype/
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.dom/entity/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع العقدة .
+نوع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Entity](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../entity/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

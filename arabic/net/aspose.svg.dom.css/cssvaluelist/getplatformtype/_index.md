@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.GetPlatformType
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValueList طريقة. تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType .
+title: "CSSValueList.GetPlatformType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSValueList GetPlatformType. تُستخدم هذه الطريقة لاسترجاع نوع كائن ECMAScript"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.css/cssvaluelist/getplatformtype/
 ---
 ## CSSValueList.GetPlatformType method
 
-تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType .
+يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript.
 
 ```csharp
 public override Type GetPlatformType()
@@ -16,12 +16,10 @@ public override Type GetPlatformType()
 
 ### قيمة الإرجاع
 
-كائن ECMAScriptType .
+نوع كائن ECMAScript.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValueList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEComponentTransferElement.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEComponentTransferElement ملكية. يتوافق مع السمة y في عنصر عامل التصفية المحدد .
+title: "SVGFEComponentTransferElement.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Y لعنصر SVGFEComponentTransferElement. تتطابق مع السمة y في عنصر الفلتر المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.filters/svgfecomponenttransferelement/y/
 ---
 ## SVGFEComponentTransferElement.Y property
 
-يتوافق مع السمة "y" في عنصر "عامل التصفية" المحدد .
+يتطابق مع السمة ‘y’ في عنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "y" لعنصر "التصفية" المحدد .
+السمة ‘y’ للعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEComponentTransferElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecomponenttransferelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

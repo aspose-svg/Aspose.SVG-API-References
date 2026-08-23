@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.FILTER_SKIP
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeFilter مجال. تخطي هذه العقدة المفردة. طرق التنقل المحددة لـ لن تقوم NodeIterator أو TreeWalker بإرجاع هذه العقدة. لكل من NodeIterator و TreeWalker  سيظل اعتبار العناصر الفرعية لهذه العقدة .
+title: "NodeFilter.FILTER_SKIP"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "NodeFilter FILTER_SKIP حقل. تخطي هذه العقدة الوحيدة. طرق التنقل المعرفة لـ NodeIterator أو TreeWalker لن تُعيد هذه العقدة. بالنسبة لكل من NodeIterator و TreeWalker سيُنظر إلى أطفال هذه العقدة على الرغم من ذلك."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.traversal.filters/nodefilter/filter_skip/
 ---
 ## NodeFilter.FILTER_SKIP field
 
-تخطي هذه العقدة المفردة. طرق التنقل المحددة لـ لن تقوم NodeIterator أو TreeWalker بإرجاع هذه العقدة. لكل من NodeIterator و TreeWalker ، سيظل اعتبار العناصر الفرعية لهذه العقدة .
+تجاوز هذه العقدة الوحيدة. لن تُعيد طرق التنقل المعرفة لـ NodeIterator أو TreeWalker هذه العقدة. بالنسبة لكل من NodeIterator و TreeWalker، سيظل يُنظر إلى أبناء هذه العقدة.
 
 ```csharp
 public const short FILTER_SKIP;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeFilter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,70 +1,68 @@
 ---
-title: StringContent.StringContent
-second_title: Aspose.SVG لمرجع .NET API
-description: StringContent البناء. يقوم بتهيئة مثيل جديد لملفStringContent فئة .
+title: "StringContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ StringContent. يقوم بتهيئة نسخة جديدة من الفئة StringContent."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/stringcontent/stringcontent/
 ---
-## StringContent(string) {#constructor}
+## StringContent(*string*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`StringContent`](../) فئة .
+يقوم بتهيئة نسخة جديدة من الفئة [`StringContent`](../).
 
 ```csharp
 public StringContent(string content)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | content | String | المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../stringcontent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding) {#constructor_1}
+## StringContent(*string, Encoding*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`StringContent`](../) فئة .
+يقوم بتهيئة نسخة جديدة من الفئة [`StringContent`](../).
 
 ```csharp
 public StringContent(string content, Encoding encoding)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | content | String | المحتوى. |
-| encoding | Encoding | الترميز. |
+| الترميز | الترميز | الترميز. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../stringcontent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding, string) {#constructor_2}
+## StringContent(*string, Encoding, string*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`StringContent`](../) فئة .
+يقوم بتهيئة نسخة جديدة من الفئة [`StringContent`](../).
 
 ```csharp
 public StringContent(string content, Encoding encoding, string mediaType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | content | String | المحتوى. |
-| encoding | Encoding | الترميز. |
+| الترميز | الترميز | الترميز. |
 | mediaType | String | نوع الوسائط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../stringcontent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

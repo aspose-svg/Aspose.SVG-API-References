@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.CaptionSide
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية جانب التسمية التوضيحية في CSS2.
+title: "ICSS2Properties.CaptionSide"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CaptionSide في ICSS2Properties. راجع تعريف خاصية caption-side في CSS2"
 type: docs
 weight: 310
 url: /ar/net/aspose.svg.dom.css/icss2properties/captionside/
 ---
 ## ICSS2Properties.CaptionSide property
 
-راجع تعريف خاصية جانب التسمية التوضيحية في CSS2.
+انظر تعريف خاصية caption-side في CSS2.
 
 ```csharp
 public string CaptionSide { get; set; }
@@ -16,12 +16,10 @@ public string CaptionSide { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية جانب التسمية التوضيحية
+خاصية caption-side
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

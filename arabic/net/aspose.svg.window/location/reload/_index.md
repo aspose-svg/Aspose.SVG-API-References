@@ -1,23 +1,21 @@
 ---
-title: Location.Reload
-second_title: Aspose.SVG لمرجع .NET API
-description: Location طريقة. إعادة تحميل الصفحة الحالية.
+title: "Location.Reload"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Location Reload. تعيد تحميل الصفحة الحالية"
 type: docs
-weight: 20
+weight: 110
 url: /ar/net/aspose.svg.window/location/reload/
 ---
 ## Location.Reload method
 
-إعادة تحميل الصفحة الحالية.
+يعيد تحميل الصفحة الحالية.
 
 ```csharp
 public void Reload()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Location](../)
-* مساحة الاسم [Aspose.Svg.Window](../../location/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

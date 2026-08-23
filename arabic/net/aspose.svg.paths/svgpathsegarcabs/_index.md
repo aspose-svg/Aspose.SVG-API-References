@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegArcAbs
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Paths.SVGPathSegArcAbs فصل. تتوافق واجهة SVGPathSegArcAbs مع أمر بيانات مسار arcto المطلق A.
+title: "فئة SVGPathSegArcAbs"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Paths.SVGPathSegArcAbs. الواجهة SVGPathSegArcAbs تتطابق مع أمر بيانات مسار \"arcto\" المطلق A"
 type: docs
-weight: 2500
+weight: 4570
 url: /ar/net/aspose.svg.paths/svgpathsegarcabs/
 ---
 ## SVGPathSegArcAbs class
 
-تتوافق واجهة SVGPathSegArcAbs مع أمر بيانات مسار "arcto المطلق" (A).
+واجهة SVGPathSegArcAbs تتطابق مع أمر بيانات مسار \"arcto مطلق\" (A).
 
 ```csharp
 public class SVGPathSegArcAbs : SVGPathSeg
@@ -16,29 +16,27 @@ public class SVGPathSegArcAbs : SVGPathSeg
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Angle](../../aspose.svg.paths/svgpathsegarcabs/angle/) { get; set; } | زاوية الدوران بالدرجات للمحور x للقطع الناقص بالنسبة إلى المحور x لنظام إحداثيات المستخدم. |
-| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcabs/largearcflag/) { get; set; } | قيمة معلمة علم القوس الكبير. |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | نوع مقطع المسار كما هو محدد بواسطة أحد الثوابت المحددة في هذه الواجهة . |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | نوع مقطع المسار المحدد بواسطة اسم الأمر المقابل المكون من حرف واحد. |
-| [R1](../../aspose.svg.paths/svgpathsegarcabs/r1/) { get; set; } | نصف قطر المحور x للقطع الناقص (على سبيل المثال ، r1) . |
-| [R2](../../aspose.svg.paths/svgpathsegarcabs/r2/) { get; set; } | نصف قطر المحور y للقطع الناقص (على سبيل المثال ، r2) . |
-| [SweepFlag](../../aspose.svg.paths/svgpathsegarcabs/sweepflag/) { get; set; } | قيمة معلمة علامة المسح . |
-| [X](../../aspose.svg.paths/svgpathsegarcabs/x/) { get; set; } | إحداثي X المطلق لنقطة نهاية مقطع المسار هذا. |
-| [Y](../../aspose.svg.paths/svgpathsegarcabs/y/) { get; set; } | إحداثي Y المطلق لنقطة نهاية مقطع المسار هذا. |
+| [Angle](../../aspose.svg.paths/svgpathsegarcabs/angle/) { get; set; } | زاوية الدوران بالدرجات لمحور x للقطع الناقص بالنسبة لمحور x لنظام إحداثيات المستخدم. |
+| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcabs/largearcflag/) { get; set; } | قيمة معامل large-arc-flag. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | نوع مقطع المسار كما هو محدد بأحد الثوابت المعرفة في هذه الواجهة. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | نوع مقطع المسار، المحدد باسم الأمر المكوّن من حرف واحد المقابل. |
+| [R1](../../aspose.svg.paths/svgpathsegarcabs/r1/) { get; set; } | نصف قطر محور x للقطع الناقص (أي r1). |
+| [R2](../../aspose.svg.paths/svgpathsegarcabs/r2/) { get; set; } | نصف قطر محور y للقطع الناقص (أي r2). |
+| [SweepFlag](../../aspose.svg.paths/svgpathsegarcabs/sweepflag/) { get; set; } | قيمة معامل sweep-flag. |
+| [X](../../aspose.svg.paths/svgpathsegarcabs/x/) { get; set; } | الإحداثي X المطلق لنقطة النهاية لهذا الجزء من المسار. |
+| [Y](../../aspose.svg.paths/svgpathsegarcabs/y/) { get; set; } | الإحداثي Y المطلق لنقطة النهاية لهذا الجزء من المسار. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../svgpathseg/)
-* مساحة الاسم [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

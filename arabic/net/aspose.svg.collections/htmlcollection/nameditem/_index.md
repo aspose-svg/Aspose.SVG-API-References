@@ -1,32 +1,30 @@
 ---
-title: HTMLCollection.NamedItem
-second_title: Aspose.SVG لمرجع .NET API
-description: HTMLCollection طريقة. إرجاع العنصر في المجموعة الذي يتطابق مع الاسم المحدد.
+title: "HTMLCollection.NamedItem"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة NamedItem في HTMLCollection. تُرجع العنصر في المجموعة الذي يطابق الاسم المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.collections/htmlcollection/nameditem/
 ---
 ## HTMLCollection.NamedItem method
 
-إرجاع العنصر في المجموعة الذي يتطابق مع الاسم المحدد.
+يعيد العنصر في المجموعة الذي يطابق الاسم المحدد.
 
 ```csharp
 public Element NamedItem(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم العنصر. |
+| الاسم | String | اسم العنصر. |
 
 ### قيمة الإرجاع
 
 العنصر المطابق
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../htmlcollection/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

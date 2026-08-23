@@ -1,32 +1,30 @@
 ---
-title: SVGSVGElement.GetElementById
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement طريقة. يبحث في جزء مستند SVG هذا على سبيل المثال  يقتصر البحث على مجموعة فرعية من شجرة الوثيقة عن العنصر الذي يتم توفير معرفته بواسطة elementId. إذا تم العثور على عنصر  يتم إرجاع هذا العنصر. إذا لم يكن هذا العنصر موجودًا  فسيتم إرجاعه فارغًا. لا يتم تحديد السلوك إذا كان هناك أكثر من عنصر واحد يحتوي على هذا المعرف.
+title: "SVGSVGElement.GetElementById"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetElementById في SVGSVGElement. تبحث في هذا الجزء من مستند SVG أي أن البحث يقتصر على جزء من شجرة المستند لعنصر Element whose id is given by elementId. إذا تم العثور على عنصر يتم إرجاعه. إذا لم يوجد مثل هذا العنصر تُرجع null. السلوك غير معرف إذا كان هناك أكثر من عنصر يحمل هذا المعرف"
 type: docs
 weight: 210
 url: /ar/net/aspose.svg/svgsvgelement/getelementbyid/
 ---
 ## SVGSVGElement.GetElementById method
 
-يبحث في جزء مستند SVG هذا (على سبيل المثال ، يقتصر البحث على مجموعة فرعية من شجرة الوثيقة) عن العنصر الذي يتم توفير معرفته بواسطة elementId. إذا تم العثور على عنصر ، يتم إرجاع هذا العنصر. إذا لم يكن هذا العنصر موجودًا ، فسيتم إرجاعه فارغًا. لا يتم تحديد السلوك إذا كان هناك أكثر من عنصر واحد يحتوي على هذا المعرف.
+يبحث في جزء مستند SVG هذا (أي أن البحث يقتصر على مجموعة فرعية من شجرة المستند) عن عنصر يكون معرفه (id) هو elementId. إذا تم العثور على عنصر، يتم إرجاع ذلك العنصر. إذا لم يوجد مثل هذا العنصر، يتم إرجاع null. السلوك غير معرف إذا كان هناك أكثر من عنصر يحمل هذا المعرف.
 
 ```csharp
 public Element GetElementById(string elementId)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| elementId | String | قيمة المعرف الفريدة للعنصر. |
+| elementId | String | قيمة المعرف الفريدة لعنصر |
 
 ### قيمة الإرجاع
 
-العنصر المطابق.
+العنصر المطابق
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

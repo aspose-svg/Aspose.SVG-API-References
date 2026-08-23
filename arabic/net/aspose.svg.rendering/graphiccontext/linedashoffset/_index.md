@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.LineDashOffset
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. يعين أو يحصل على إزاحة المرحلة لنمط شرطة الخط الحالي.
+title: "GraphicContext.LineDashOffset"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext LineDashOffset. يحدد أو يحصل على إزاحة الطور لنمط الشرط الحالي."
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.svg.rendering/graphiccontext/linedashoffset/
 ---
 ## GraphicContext.LineDashOffset property
 
-يعين أو يحصل على إزاحة المرحلة لنمط شرطة الخط الحالي.
+يضبط أو يحصل على إزاحة الطور لنمط الخط المتقطع الحالي.
 
 ```csharp
 public virtual float LineDashOffset { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: DOMTokenList.Add
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTokenList طريقة. إضافة الرمز الرموز المحددة إلى القائمة.
+title: "DOMTokenList.Add"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DOMTokenList Add. تُضيف الرموز المحددة إلى القائمة"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.collections/domtokenlist/add/
 ---
 ## DOMTokenList.Add method
 
-إضافة الرمز (الرموز) المحددة إلى القائمة.
+يضيف الرمز (الرموز) المحدد إلى القائمة.
 
 ```csharp
 public void Add(params string[] tokens)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tokens | String[] | تمثيل الرمز (أو الرموز) لإضافتها إلى tokenList. |
+| الرموز | String[] | تمثيل الرمز (أو الرموز) لإضافتها إلى tokenList. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../domtokenlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

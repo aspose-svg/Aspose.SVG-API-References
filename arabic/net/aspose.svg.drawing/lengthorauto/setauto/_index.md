@@ -1,23 +1,21 @@
 ---
-title: LengthOrAuto.SetAuto
-second_title: Aspose.SVG لمرجع .NET API
-description: LengthOrAuto طريقة. إعادة تعيين الحاوية على الحالة تلقائي .
+title: "LengthOrAuto.SetAuto"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SetAuto في LengthOrAuto. تعيد ضبط الحاوية إلى الحالة التلقائية"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.drawing/lengthorauto/setauto/
 ---
 ## LengthOrAuto.SetAuto method
 
-إعادة تعيين الحاوية على الحالة "تلقائي" .
+يعيد تعيين الحاوية إلى الحالة 'auto'.
 
 ```csharp
 public void SetAuto()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthOrAuto](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../lengthorauto/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

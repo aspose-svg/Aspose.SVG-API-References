@@ -1,14 +1,14 @@
 ---
-title: Interface ILinkStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ILinkStyle واجهه المستخدم. توفر واجهة LinkStyle آلية يمكن من خلالها استرداد ورقة الأنماط من العقدة المسؤولة عن ربطها بمستند. يمكن الحصول على مثيل لواجهة LinkStyle باستخدام طرق الصب الخاصة بالربط على مثيل لعقدة ربط HTMLLinkElement أو HTMLStyleElement أو ProcessingInstruction في DOM Level 2 .
+title: "واجهة ILinkStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Css.ILinkStyle واجهة. توفر واجهة LinkStyle آلية يمكن من خلالها استرجاع ورقة الأنماط من العقدة المسؤولة عن ربطها بالمستند. يمكن الحصول على مثال من واجهة LinkStyle باستخدام طرق التحويل الخاصة بالربط على مثال لعقدة ربط HTMLLinkElement أو HTMLStyleElement أو ProcessingInstruction في DOM المستوى 2."
 type: docs
-weight: 720
+weight: 2720
 url: /ar/net/aspose.svg.dom.css/ilinkstyle/
 ---
 ## ILinkStyle interface
 
-توفر واجهة LinkStyle آلية يمكن من خلالها استرداد ورقة الأنماط من العقدة المسؤولة عن ربطها بمستند. يمكن الحصول على مثيل لواجهة LinkStyle باستخدام طرق الصب الخاصة بالربط على مثيل لعقدة ربط (HTMLLinkElement أو HTMLStyleElement أو ProcessingInstruction في DOM Level 2) .
+توفر واجهة LinkStyle آلية يمكن من خلالها استرجاع ورقة الأنماط من العقدة المسؤولة عن ربطها بالمستند. يمكن الحصول على مثال من واجهة LinkStyle باستخدام طرق التحويل الخاصة بالربط على مثال لعقدة الربط (HTMLLinkElement، HTMLStyleElement أو ProcessingInstruction في DOM Level 2).
 
 ```csharp
 public interface ILinkStyle
@@ -16,13 +16,11 @@ public interface ILinkStyle
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Sheet](../../aspose.svg.dom.css/ilinkstyle/sheet/) { get; } | الحصول على ورقة الأنماط المرتبطة. |
+| [Sheet](../../aspose.svg.dom.css/ilinkstyle/sheet/) { get; } | يحصل على ورقة الأنماط المرتبطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

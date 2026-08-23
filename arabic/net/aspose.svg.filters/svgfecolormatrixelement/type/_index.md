@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.Type
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEColorMatrixElement ملكية. يتوافق مع السمة النوع على عنصر feColorMatrix المحدد. يأخذ أحد ثوابت SVG_FECOLORMATRIX_TYPE_  المحددة في هذه الواجهة.
+title: "SVGFEColorMatrixElement.Type"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Type في SVGFEColorMatrixElement. تتطابق مع السمة type في عنصر feColorMatrix المحدد. تأخذ أحد ثوابت SVG_FECOLORMATRIX_TYPE_ المعرفة في هذه الواجهة."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.filters/svgfecolormatrixelement/type/
 ---
 ## SVGFEColorMatrixElement.Type property
 
-يتوافق مع السمة "النوع" على عنصر "feColorMatrix" المحدد. يأخذ أحد ثوابت SVG_FECOLORMATRIX_TYPE_ * المحددة في هذه الواجهة.
+يتطابق مع السمة ‘type’ في العنصر ‘feColorMatrix’ المحدد. يأخذ أحد الثوابت SVG_FECOLORMATRIX_TYPE_* المعرفة في هذه الواجهة.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "النوع" لعنصر "feColorMatrix" المحدد .
+السمة ‘type’ في عنصر ‘feColorMatrix’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEColorMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)
