@@ -1,23 +1,21 @@
 ---
-title: Configuration.Configuration
-second_title: Aspose.SVG لمرجع .NET API
-description: Configuration البناء. يقوم بتهيئة مثيل جديد لملفConfiguration فئة .
+title: "التكوين"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ Configuration. يهيئ مثيلاً جديداً لفئة Configuration"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/configuration/configuration/
 ---
 ## Configuration constructor
 
-يقوم بتهيئة مثيل جديد لملف[`Configuration`](../) فئة .
+يهيئ مثيلاً جديداً للفئة [`Configuration`](../).
 
 ```csharp
 public Configuration()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Configuration](../)
-* مساحة الاسم [Aspose.Svg](../../configuration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

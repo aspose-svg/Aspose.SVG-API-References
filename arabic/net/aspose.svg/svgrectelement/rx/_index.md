@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Rx
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGRectElement ملكية. يتوافق مع السمة rx على عنصر rect المحدد .
+title: "SVGRectElement.Rx"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Rx في SVGRectElement. تتطابق مع السمة rx في عنصر rect المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgrectelement/rx/
 ---
 ## SVGRectElement.Rx property
 
-يتوافق مع السمة "rx" على عنصر "rect" المحدد .
+يتطابق مع السمة ‘rx’ في العنصر ‘rect’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Rx { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "rx" لعنصر "rect" المحدد .
+السمة ‘rx’ لعنصر ‘rect’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgrectelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

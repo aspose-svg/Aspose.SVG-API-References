@@ -1,9 +1,9 @@
 ---
-title: Class Size
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.Size فصل. يخزن قيمًا تحدد الارتفاع والعرض.
+title: "فئة Size"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Drawing.Size. تخزن قيمًا تحدد الارتفاع والعرض."
 type: docs
-weight: 1580
+weight: 3610
 url: /ar/net/aspose.svg.drawing/size/
 ---
 ## Size class
@@ -14,24 +14,22 @@ url: /ar/net/aspose.svg.drawing/size/
 public class Size
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Size](size/#constructor)() | يقوم بتهيئة مثيل جديد لملف`Size` فئة . |
-| [Size](size/#constructor_2)(int, int) | يقوم بتهيئة مثيل جديد لملف`Size` فئة وتحديد الارتفاع والعرض بالبكسل. |
-| [Size](size/#constructor_1)(Length, Length) | يقوم بتهيئة مثيل جديد لملف`Size` فئة . |
+| [Size](size/#constructor)() | ينشئ مثيلًا جديدًا للفئة `Size`. |
+| [Size](size/#constructor_2)(*int, int*) | ينشئ مثيلًا جديدًا للفئة `Size` ويحدد الارتفاع والعرض بالبكسل. |
+| [Size](size/#constructor_1)(*[Length](../length/), [Length](../length/)*) | ينشئ مثيلًا جديدًا للفئة `Size`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Height](../../aspose.svg.drawing/size/height/) { get; set; } | الحصول على أو تحديد المكون الرأسي لهذا`Size` . |
-| [Width](../../aspose.svg.drawing/size/width/) { get; set; } | الحصول على أو تحديد المكون الأفقي لهذا`Size` . |
+| [Height](../../aspose.svg.drawing/size/height/) { get; set; } | يحصل أو يعين المكوّن العمودي لهذا `Size`. |
+| [Width](../../aspose.svg.drawing/size/width/) { get; set; } | يحصل أو يعين المكوّن الأفقي لهذا `Size`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

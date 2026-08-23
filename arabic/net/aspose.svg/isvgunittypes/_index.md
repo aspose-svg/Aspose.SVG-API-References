@@ -1,22 +1,20 @@
 ---
-title: Interface ISVGUnitTypes
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ISVGUnitTypes واجهه المستخدم. تحدد واجهة SVGUnitTypes مجموعة من الثوابت شائعة الاستخدام وهي واجهة أساسية يستخدمها SVGGradientElement و SVGPatternElement و SVGClipPathElement و SVGMaskElement و SVGFilterElement.
+title: "واجهة ISVGUnitTypes"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.ISVGUnitTypes. تُعرّف واجهة SVGUnitTypes مجموعة شائعة الاستخدام من الثوابت وتُعد واجهة أساسية تُستَخدم بواسطة SVGGradientElement وSVGPatternElement وSVGClipPathElement وSVGMaskElement وSVGFilterElement."
 type: docs
-weight: 2050
+weight: 4120
 url: /ar/net/aspose.svg/isvgunittypes/
 ---
 ## ISVGUnitTypes interface
 
-تحدد واجهة SVGUnitTypes مجموعة من الثوابت شائعة الاستخدام وهي واجهة أساسية يستخدمها SVGGradientElement و SVGPatternElement و SVGClipPathElement و SVGMaskElement و SVGFilterElement.
+تحدد واجهة SVGUnitTypes مجموعة شائعة الاستخدام من الثوابت وتُعد واجهة أساسية تُستخدم بواسطة SVGGradientElement و SVGPatternElement و SVGClipPathElement و SVGMaskElement و SVGFilterElement.
 
 ```csharp
 public interface ISVGUnitTypes
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

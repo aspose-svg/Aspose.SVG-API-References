@@ -1,29 +1,33 @@
 ---
-title: Class DOMNullableAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Attributes.DOMNullableAttribute فصل. يمكن تعيين قيمة فارغة لكائن DOM.
+title: "فئة DOMNullableAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Dom.Attributes.DOMNullableAttribute. يحدد أن كائن DOM يمكن تعيين قيمة null له"
 type: docs
-weight: 410
+weight: 2410
 url: /ar/net/aspose.svg.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class
 
-يمكن تعيين قيمة فارغة لكائن DOM.
+يحدد أنه يمكن تعيين قيمة null لكائن DOM.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNullableAttribute : Attribute
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DOMNullableAttribute](domnullableattribute/)() | Default_Constructor |
+| [DOMNullableAttribute](domnullableattribute/)() | المنشئ الافتراضي. |
 
-### أنظر أيضا
+## الخصائص
 
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* المجسم [Aspose.SVG](../../)
+| الاسم | الوصف |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### انظر أيضًا
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

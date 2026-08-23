@@ -1,27 +1,25 @@
 ---
-title: ContentDispositionHeaderValue.FileName
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentDispositionHeaderValue ملكية. اسم الملف المخزن .
+title: "ContentDispositionHeaderValue.FileName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية FileName في ContentDispositionHeaderValue. اسم الملف المخزن."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.net.headers/contentdispositionheadervalue/filename/
 ---
 ## ContentDispositionHeaderValue.FileName property
 
-اسم الملف المخزن .
+اسم الملف المخزن.
 
 ```csharp
 public string FileName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الملف .
+اسم الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentDispositionHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Overflow
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية تجاوز السعة في CSS2.
+title: "ICSS2Properties.Overflow"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Overflow في ICSS2Properties. راجع تعريف خاصية overflow في CSS2"
 type: docs
-weight: 790
+weight: 820
 url: /ar/net/aspose.svg.dom.css/icss2properties/overflow/
 ---
 ## ICSS2Properties.Overflow property
 
-راجع تعريف خاصية تجاوز السعة في CSS2.
+انظر تعريف خاصية overflow في CSS2.
 
 ```csharp
 public string Overflow { get; set; }
@@ -16,12 +16,10 @@ public string Overflow { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية تجاوز السعة
+خاصية overflow
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

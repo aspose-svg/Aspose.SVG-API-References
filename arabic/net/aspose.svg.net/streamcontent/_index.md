@@ -1,44 +1,42 @@
 ---
-title: Class StreamContent
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.StreamContent فصل. يمثل المحتوى بناءً على تيار .
+title: "فئة StreamContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Net.StreamContent. تمثل محتوى يعتمد على تدفق."
 type: docs
-weight: 2450
+weight: 4520
 url: /ar/net/aspose.svg.net/streamcontent/
 ---
 ## StreamContent class
 
-يمثل المحتوى بناءً على تيار .
+يمثل محتوى يعتمد على تدفق.
 
 ```csharp
 public class StreamContent : Content
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [StreamContent](streamcontent/)(Stream) | يقوم بتهيئة مثيل جديد لملف`StreamContent` فئة . |
+| [StreamContent](streamcontent/)(*Stream*) | يقوم بتهيئة نسخة جديدة من الفئة `StreamContent`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | الحصول على رؤوس محتوى HTTP . |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | يحصل على رؤوس محتوى HTTP. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | تسلسل محتوى HTTP وإرجاع مصفوفة بايت تمثل المحتوى. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | تسلسل محتوى HTTP وإرجاع دفق يمثل المحتوى. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | تسلسل محتوى HTTP وإرجاع سلسلة تمثل المحتوى. |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | سلسل محتوى HTTP وأرجع مصفوفة بايت تمثل المحتوى. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | سلسل محتوى HTTP وأرجع تدفقًا يمثل المحتوى. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | سلسل محتوى HTTP وأرجع سلسلة تمثل المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../content/)
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

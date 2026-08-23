@@ -1,24 +1,22 @@
 ---
-title: IElementCSSInlineStyle.Style
-second_title: Aspose.SVG لمرجع .NET API
-description: IElementCSSInlineStyle ملكية. يمثل سمة نمط تسمح للمؤلف بتطبيق معلومات النمط مباشرة على عنصر معين.
+title: "IElementCSSInlineStyle.Style"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IElementCSSInlineStyle Style. تمثل سمة نمط تسمح للمؤلف بتطبيق معلومات النمط مباشرةً على عنصر محدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/ielementcssinlinestyle/style/
 ---
 ## IElementCSSInlineStyle.Style property
 
-يمثل سمة نمط تسمح للمؤلف بتطبيق معلومات النمط مباشرة على عنصر معين.
+يمثل يمثل سمة نمط تسمح للمؤلف بتطبيق معلومات النمط مباشرةً على عنصر محدد.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [IElementCSSInlineStyle](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../ielementcssinlinestyle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

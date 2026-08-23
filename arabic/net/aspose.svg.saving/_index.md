@@ -1,29 +1,31 @@
 ---
-title: Aspose.Svg.Saving
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Saving يتم تقديم مساحة الاسم بواسطة فئات البيانات لوصف خيارات الحفظ المحددة في عملية التحويل / الحفظ .
+title: "Aspose.Svg.Saving"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "مساحة الأسماء Aspose.Svg.Saving تُقدَّم بواسطة فئات البيانات لوصف خيارات الحفظ المحددة في عملية التحويل/الحفظ"
 type: docs
-weight: 300
+weight: 320
 url: /ar/net/aspose.svg.saving/
 ---
-ملف **Aspose.Svg.Saving** يتم تقديم مساحة الاسم بواسطة فئات البيانات لوصف خيارات الحفظ المحددة في عملية التحويل / الحفظ .
+تُقدَّم مساحة الاسم **Aspose.Svg.Saving** عبر فئات بيانات لوصف خيارات الحفظ المحددة في عملية التحويل/الحفظ.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [ImageSaveOptions](./imagesaveoptions/) | فئة بيانات الخيارات المحددة . |
-| [PdfSaveOptions](./pdfsaveoptions/) | فئة بيانات الخيارات المحددة . |
-| [ResourceHandlingOptions](./resourcehandlingoptions/) | يمثل خيارات التعامل مع الموارد. |
+| [ImageSaveOptions](./imagesaveoptions/) | فئة بيانات الخيارات المحددة. |
+| [PdfSaveOptions](./pdfsaveoptions/) | فئة بيانات الخيارات المحددة. |
+| [Resource](./resource/) | تصف هذه الفئة موردًا وتوفر طرقًا لمعالجته. |
+| [ResourceHandlingContext](./resourcehandlingcontext/) | تحتوي هذه الفئة على معلومات تُستخدم عند معالجة الموارد. |
+| [ResourceHandlingOptions](./resourcehandlingoptions/) | يمثل خيارات معالجة الموارد. |
 | [SaveOptions](./saveoptions/) | هذه فئة أساسية مجردة للفئات التي تسمح للمستخدم بتحديد خيارات إضافية عند حفظ مستند بتنسيق معين. |
-| [SVGSaveOptions](./svgsaveoptions/) | يمثل خيارات حفظ SVG . |
-| [XpsSaveOptions](./xpssaveoptions/) | فئة بيانات الخيارات المحددة . |
-## تعداد
+| [SVGSaveOptions](./svgsaveoptions/) | يمثل خيارات حفظ SVG. |
+| [SVGZSaveOptions](./svgzsaveoptions/) | يمثل خيارات حفظ SVGZ. |
+| [XpsSaveOptions](./xpssaveoptions/) | فئة بيانات الخيارات المحددة. |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [ResourceHandling](./resourcehandling/) | يمثل هذا العدد خيارات معالجة الموارد. |
-| [SVGSaveFormat](./svgsaveformat/) | يحدد التنسيق الذي يتم حفظ المستند به . |
-| [UrlRestriction](./urlrestriction/) | يمثل هذا العدد قيدًا مطبقًا على عناوين URL الخاصة بالموارد التي تمت معالجتها. |
-
-
+| [ResourceHandling](./resourcehandling/) | يمثل هذا التعداد خيارات معالجة الموارد. |
+| [ResourceStatus](./resourcestatus/) | يشير إلى حالة المورد. |
+| [SVGSaveFormat](./svgsaveformat/) | يحدد الصيغة التي يُحفظ بها المستند. |
+| [UrlRestriction](./urlrestriction/) | يمثل هذا التعداد القيود المطبقة على عناوين URL للموارد المعالجة. |

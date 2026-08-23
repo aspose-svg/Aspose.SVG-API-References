@@ -1,28 +1,26 @@
 ---
-title: INetworkOperationContext.Response
-second_title: Aspose.SVG لمرجع .NET API
-description: INetworkOperationContext ملكية. الحصول على رسالة الاستجابة أو تعيينها .
+title: "INetworkOperationContext.Response"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية INetworkOperationContext Response. تحصل أو تعين رسالة الاستجابة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net/inetworkoperationcontext/response/
 ---
 ## INetworkOperationContext.Response property
 
-الحصول على رسالة الاستجابة أو تعيينها .
+يحصل أو يضبط رسالة الاستجابة.
 
 ```csharp
 public ResponseMessage Response { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-رسالة الرد .
+رسالة الاستجابة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResponseMessage](../../responsemessage/)
 * interface [INetworkOperationContext](../)
-* مساحة الاسم [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

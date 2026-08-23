@@ -1,23 +1,21 @@
 ---
-title: SVGTextPathElement.TEXTPATH_METHODTYPE_UNKNOWN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPathElement مجال. تم تعيين التعداد على قيمة ليست من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+title: "SVGTextPathElement.TEXTPATH_METHODTYPE_UNKNOWN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل TEXTPATH_METHODTYPE_UNKNOWN لعنصر SVGTextPathElement. تم تعيين التعداد إلى قيمة ليست من الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svgtextpathelement/textpath_methodtype_unknown/
 ---
 ## SVGTextPathElement.TEXTPATH_METHODTYPE_UNKNOWN field
 
-تم تعيين التعداد على قيمة ليست من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+تم تعيين التعداد إلى قيمة ليست واحدة من الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع.
 
 ```csharp
 public const ushort TEXTPATH_METHODTYPE_UNKNOWN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

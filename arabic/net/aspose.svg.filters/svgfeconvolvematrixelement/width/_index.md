@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Width
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement ملكية. يتوافق مع السمة العرض على عنصر الفلتر المحدد .
+title: "SVGFEConvolveMatrixElement.Width"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Width لعنصر SVGFEConvolveMatrixElement. تتطابق مع السمة width على عنصر الفلتر المحدد"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/width/
 ---
 ## SVGFEConvolveMatrixElement.Width property
 
-يتوافق مع السمة "العرض" على عنصر "الفلتر" المحدد .
+يتطابق مع السمة ‘width’ في عنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "العرض" لعنصر "عامل التصفية" المحدد .
+السمة ‘width’ للعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

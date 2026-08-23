@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.BaseVal
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGAnimatedValue ملكية. القيمة الأساسية للسمة المحددة قبل تطبيق أي رسوم متحركة.
+title: "SVGAnimatedValue-1.BaseVal"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGAnimatedValue BaseVal. القيمة الأساسية للسمة المعطاة قبل تطبيق أي رسوم متحركة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.datatypes/svganimatedvalue-1/baseval/
 ---
-## SVGAnimatedValue&lt;T&gt;.BaseVal property
+## SVGAnimatedValue<T>.BaseVal property
 
-القيمة الأساسية للسمة المحددة قبل تطبيق أي رسوم متحركة.
+القيمة الأساسية للسمة المحددة قبل تطبيق أي تحريكات.
 
 ```csharp
 public T BaseVal { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [القيمة الأساسية] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [base value]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: WheelEvent.DOM_DELTA_PIXEL
-second_title: Aspose.SVG لمرجع .NET API
-description: WheelEvent مجال. يجب أن تكون وحدات القياس للدلتا بالبكسل. هذه هي الحالة الأكثر شيوعًا في معظم تكوينات أنظمة التشغيل والتنفيذ.
+title: "WheelEvent.DOM_DELTA_PIXEL"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل WheelEvent DOM_DELTA_PIXEL. يجب أن تكون وحدات القياس للفرق هي البكسل. هذا هو الحال الأكثر شيوعًا في معظم أنظمة التشغيل وتكوينات التنفيذ"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.events/wheelevent/dom_delta_pixel/
 ---
 ## WheelEvent.DOM_DELTA_PIXEL field
 
-يجب أن تكون وحدات القياس للدلتا بالبكسل. هذه هي الحالة الأكثر شيوعًا في معظم تكوينات أنظمة التشغيل والتنفيذ.
+يجب أن تكون وحدات قياس الدلتا هي بكسل. هذا هو الحالة الأكثر شيوعًا في معظم أنظمة التشغيل وتكوينات التنفيذ.
 
 ```csharp
 public const ulong DOM_DELTA_PIXEL;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WheelEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../wheelevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

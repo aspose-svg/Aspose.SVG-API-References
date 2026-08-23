@@ -1,33 +1,31 @@
 ---
-title: SVGScriptElement.CrossOrigin
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGScriptElement ملكية. يتوافق مع السمة crossorigin في عنصر البرنامج النصي المحدد.
+title: "SVGScriptElement.CrossOrigin"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CrossOrigin لـ SVGScriptElement. تتطابق مع السمة crossorigin على عنصر السكريبت المعطى"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgscriptelement/crossorigin/
 ---
 ## SVGScriptElement.CrossOrigin property
 
-يتوافق مع السمة "crossorigin" في عنصر "البرنامج النصي" المحدد.
+يتطابق مع السمة ‘crossorigin’ على عنصر ‘script’ المحدد.
 
 ```csharp
 public string CrossOrigin { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "crossorigin" لعنصر "البرنامج النصي" المحدد .
+السمة ‘crossorigin’ للعنصر ‘script’ المعطى.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGScriptElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgscriptelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

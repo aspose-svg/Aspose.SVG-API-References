@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderColor
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية لون الحدود في CSS2.
+title: "ICSS2Properties.BorderColor"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties BorderColor. راجع تعريف خاصية border-color في CSS2"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.dom.css/icss2properties/bordercolor/
 ---
 ## ICSS2Properties.BorderColor property
 
-راجع تعريف خاصية لون الحدود في CSS2.
+انظر تعريف خاصية border-color في CSS2.
 
 ```csharp
 public string BorderColor { get; set; }
@@ -16,12 +16,10 @@ public string BorderColor { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية لون الحدود
+خاصية border-color
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

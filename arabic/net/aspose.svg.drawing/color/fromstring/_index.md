@@ -1,31 +1,29 @@
 ---
-title: Color.FromString
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. يوزع سلسلة تحتوي على لون CSS وتُرجع لونًا جديدًا.
+title: "Color.FromString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromString. تحلل سلسلة تحتوي على لون CSS وتُرجع كائن Color جديد."
 type: docs
 weight: 220
 url: /ar/net/aspose.svg.drawing/color/fromstring/
 ---
 ## Color.FromString method
 
-يوزع سلسلة تحتوي على لون CSS وتُرجع لونًا جديدًا.
+يقوم بتحليل السلسلة التي تحتوي على لون CSS ويعيد Color جديد.
 
 ```csharp
 public static Color FromString(string color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | String | سلسلة تحتوي على اللون بتنسيق RGB أو HEX أو HSL أو HSV أو HWB أو CMYK أو NCOL أو LCH أو OKLCH أو LAB أو OKLAB |
+| color | String | سلسلة تحتوي على اللون بالتنسيق RGB أو HEX أو HSL أو HSV أو HWB أو CMYK أو NCOL أو LCH أو OKLCH أو LAB أو OKLAB. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

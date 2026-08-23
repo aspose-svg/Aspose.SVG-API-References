@@ -1,23 +1,21 @@
 ---
-title: UnitType.Rem
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس مرتبط بحجم خط العنصر الجذر.
+title: "UnitType.Rem"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Rem. القياس نسبي لحجم الخط للعنصر الجذر"
 type: docs
 weight: 240
 url: /ar/net/aspose.svg.drawing/unittype/rem/
 ---
 ## UnitType.Rem field
 
-القياس مرتبط بحجم خط العنصر الجذر.
+القياس نسبي لحجم الخط للعنصر الجذر.
 
 ```csharp
 public static readonly UnitType Rem;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

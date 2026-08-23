@@ -1,27 +1,25 @@
 ---
-title: ICSSRule.CSSText
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSRule ملكية. التمثيل النصي القابل للتحليل للقاعدة. هذا يعكس الحالة الحالية للقاعدة وليس قيمتها الأولية.
+title: "ICSSRule.CSSText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CSSText في ICSSRule. التمثيل النصي القابل للتحليل للقاعدة. هذا يعكس الحالة الحالية للقاعدة وليس قيمتها الأولية"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icssrule/csstext/
 ---
 ## ICSSRule.CSSText property
 
-التمثيل النصي القابل للتحليل للقاعدة. هذا يعكس الحالة الحالية للقاعدة وليس قيمتها الأولية.
+التمثيل النصي القابل للتحليل للقاعدة. يعكس هذا الحالة الحالية للقاعدة وليس قيمتها الأولية.
 
 ```csharp
 public string CSSText { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نص CSS .
+نص CSS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssrule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

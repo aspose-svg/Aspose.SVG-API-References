@@ -1,14 +1,14 @@
 ---
-title: CharacterData.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: CharacterData طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "CharacterData.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CharacterData ToString. تُرجع سلسلة تمثل هذه المثيل"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom/characterdata/tostring/
 ---
 ## CharacterData.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CharacterData](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../characterdata/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

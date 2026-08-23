@@ -1,24 +1,22 @@
 ---
-title: ICSSFontFaceRule.Style
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSFontFaceRule ملكية. كتلة الإعلان عن هذه القاعدة .
+title: "ICSSFontFaceRule.Style"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSSFontFaceRule Style. كتلة الإعلان لهذا القاعدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icssfontfacerule/style/
 ---
 ## ICSSFontFaceRule.Style property
 
-كتلة الإعلان عن هذه القاعدة .
+كتلة التصريح لهذه القاعدة.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSFontFaceRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssfontfacerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

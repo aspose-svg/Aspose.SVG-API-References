@@ -1,31 +1,29 @@
 ---
-title: HttpMethod.op_Explicit
-second_title: Aspose.SVG لمرجع .NET API
-description: HttpMethod طريقة. يقوم بإجراء تحويل صريح منString لHttpMethod .
+title: "HttpMethod.op_Explicit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة HttpMethod op_Explicit. تقوم بتحويل صريح من String إلى HttpMethod"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.net/httpmethod/op_explicit/
 ---
 ## HttpMethod Explicit operator
 
-يقوم بإجراء تحويل صريح منString ل[`HttpMethod`](../) .
+يقوم بتحويل صريح من String إلى [`HttpMethod`](../).
 
 ```csharp
 public static explicit operator HttpMethod(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم طريقة http. |
+| الاسم | String | اسم طريقة http-method. |
 
 ### قيمة الإرجاع
 
-نتيجة التحويل .
+نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HttpMethod](../)
-* مساحة الاسم [Aspose.Svg.Net](../../httpmethod/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

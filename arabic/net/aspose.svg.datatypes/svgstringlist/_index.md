@@ -1,54 +1,52 @@
 ---
-title: Class SVGStringList
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.DataTypes.SVGStringList فصل. SVGStringList لها نفس السمات والأساليب مثل واجهات SVGxxxList الأخرى. قد يفكر المنفذون في استخدام فئة أساسية واحدة لتنفيذ واجهات SVGxxxList المختلفة.
+title: "فئة SVGStringList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.DataTypes.SVGStringList. تحتوي SVGStringList على نفس السمات والطرق مثل واجهات SVGxxxList الأخرى. قد ي考虑 المطورون استخدام فئة أساسية واحدة لتنفيذ واجهات SVGxxxList المتنوعة"
 type: docs
-weight: 310
+weight: 2300
 url: /ar/net/aspose.svg.datatypes/svgstringlist/
 ---
 ## SVGStringList class
 
-SVGStringList لها نفس السمات والأساليب مثل واجهات SVGxxxList الأخرى. قد يفكر المنفذون في استخدام فئة أساسية واحدة لتنفيذ واجهات SVGxxxList المختلفة.
+تحتوي SVGStringList على نفس السمات والطرق مثل واجهات SVGxxxList الأخرى. قد يفكر المطورون في استخدام فئة أساسية واحدة لتنفيذ واجهات SVGxxxList المتنوعة.
 
 ```csharp
 public class SVGStringList : SVGListBase<string>
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SVGStringList](svgstringlist/#constructor)() | يقوم بتهيئة مثيل جديد لملف`SVGStringList` فئة . |
-| [SVGStringList](svgstringlist/#constructor_1)(IEnumerable&lt;string&gt;) | يقوم بتهيئة مثيل جديد لملف`SVGStringList` فئة . |
+| [SVGStringList](svgstringlist/#constructor)() | يُنشئ نسخة جديدة من الفئة `SVGStringList`. |
+| [SVGStringList](svgstringlist/#constructor_1)(*IEnumerable&lt;string&gt;*) | يُنشئ نسخة جديدة من الفئة `SVGStringList`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } |  |
 | [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } |  |
 | [NumberOfItems](../../aspose.svg.collections/svglistbase-1/numberofitems/) { get; } |  |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(string) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*string*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(string) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(string, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(string, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgstringlist/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*string*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*string, ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*string, ulong*) |  |
+| override [ToString](../../aspose.svg.datatypes/svgstringlist/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: PdfRenderingOptions.PdfRenderingOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfRenderingOptions البناء. يقوم بتهيئة مثيل جديد لملفPdfRenderingOptions فئة .
+title: "PdfRenderingOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ PdfRenderingOptions. يهيئ مثيلاً جديداً من الفئة PdfRenderingOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.pdf/pdfrenderingoptions/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions constructor
 
-يقوم بتهيئة مثيل جديد لملف[`PdfRenderingOptions`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`PdfRenderingOptions`](../).
 
 ```csharp
 public PdfRenderingOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfRenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

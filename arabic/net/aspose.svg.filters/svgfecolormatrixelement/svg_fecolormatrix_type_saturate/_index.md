@@ -1,23 +1,21 @@
 ---
-title: SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_SATURATE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEColorMatrixElement مجال. يتوافق مع القيمة التشبع .
+title: "SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_SATURATE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FECOLORMATRIX_TYPE_SATURATE في SVGFEColorMatrixElement. يتطابق مع القيمة saturate."
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_saturate/
 ---
 ## SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_SATURATE field
 
-يتوافق مع القيمة "التشبع" .
+يتطابق مع القيمة 'saturate'.
 
 ```csharp
 public const ushort SVG_FECOLORMATRIX_TYPE_SATURATE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEColorMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

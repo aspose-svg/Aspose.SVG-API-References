@@ -1,23 +1,21 @@
 ---
-title: UnitType.Hz
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالهرتز .
+title: "UnitType.Hz"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Hz. القياس بالهرتز"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.drawing/unittype/hz/
 ---
 ## UnitType.Hz field
 
-القياس بالهرتز .
+القياس بالهرتز.
 
 ```csharp
 public static readonly UnitType Hz;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

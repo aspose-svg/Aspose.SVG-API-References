@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Toolkit.Optimizers
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg مجموعة أدوات. محسنات تحتوي مساحة الاسم على فئات لتحسين مستندات SVG. تتضمن عملية التحسين إزالة العناصر غير المستخدمة أو غير المرئية وسماتها  ودمج المجموعات  وتقليل حجم مقاطع المسار.
+title: "Aspose.Svg.Toolkit.Optimizers"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "المجال Aspose.Svg.Toolkit.Optimizers يحتوي على فئات لتحسين مستندات SVG. عملية التحسين تشمل إزالة العناصر غير المستخدمة أو غير المرئية وسماتها، دمج المجموعات، وتقليل حجم مقاطع المسار."
 type: docs
-weight: 320
+weight: 350
 url: /ar/net/aspose.svg.toolkit.optimizers/
 ---
-ملف **Aspose.Svg مجموعة أدوات. محسنات** تحتوي مساحة الاسم على فئات لتحسين مستندات SVG. تتضمن عملية التحسين إزالة العناصر غير المستخدمة أو غير المرئية وسماتها ، ودمج المجموعات ، وتقليل حجم مقاطع المسار.
+تحتوي مساحة الاسم **Aspose.Svg.Toolkit.Optimizers** على فئات لتحسين مستندات SVG. تشمل عملية التحسين إزالة العناصر غير المستخدمة أو غير المرئية وسماتها، دمج المجموعات، وتقليل حجم مقاطع المسار.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [SVGOptimizationOptions](./svgoptimizationoptions/) | SVGOptimizationOptions هي فئة لتخزين الخيارات لتحسين مستندات SVG. |
-| [SVGOptimizer](./svgoptimizer/) | SVGOptimizer هي فئة ثابتة مصممة لتحسين مستندات SVG . من خلال التحسين ، فإننا نعني إزالة العناصر غير المستخدمة أو غير المرئية وخصائصها ، ومجموعات الدمج ، وتقليل حجم مقاطع المسار . |
-| [SVGPathOptimizationOptions](./svgpathoptimizationoptions/) | SVGPathOptimizationOptions عبارة عن فئة لتخزين الخيارات لتحسين مقاطع عناصر مسار SVG. |
-
-
+| [SVGOptimizationOptions](./svgoptimizationoptions/) | SVGOptimizationOptions هي فئة لتخزين الخيارات الخاصة بتحسين مستندات SVG. |
+| [SVGOptimizer](./svgoptimizer/) | SVGOptimizer هي فئة ثابتة صُممت لتحسين مستندات SVG. يعني التحسين إزالة العناصر غير المستخدمة أو غير المرئية وسماتها، دمج المجموعات، وتقليل حجم مقاطع المسار. |
+| [SVGPathOptimizationOptions](./svgpathoptimizationoptions/) | SVGPathOptimizationOptions هي فئة لتخزين الخيارات الخاصة بتحسين مقاطع عناصر مسار SVG. |

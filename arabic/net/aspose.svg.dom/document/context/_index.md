@@ -1,7 +1,7 @@
 ---
-title: Document.Context
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. يحصل على سياق التصفح الحالي.
+title: "Document.Context"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document Context. تحصل على سياق التصفح الحالي."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom/document/context/
@@ -14,15 +14,13 @@ url: /ar/net/aspose.svg.dom/document/context/
 public IBrowsingContext Context { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السياق .
+السياق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IBrowsingContext](../../ibrowsingcontext/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,26 @@
 ---
-title: ITransformableBrush.TransformationMatrix
-second_title: Aspose.SVG لمرجع .NET API
-description: ITransformableBrush ملكية. احصل على التحويل. يحدد التحويل تحويلًا هندسيًا محليًا لهذه الفرشاة.
+title: "ITransformableBrush.TransformationMatrix"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية TransformationMatrix في ITransformableBrush. احصل على التحويل. التحويل يحدد تحويلًا هندسيًا محليًا لهذه الفرشاة"
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-احصل على التحويل. يحدد التحويل تحويلًا هندسيًا محليًا لهذه الفرشاة.
+احصل على التحويل. التحويل يحدد تحويلًا هندسيًا محليًا لهذه الفرشاة.
 
 ```csharp
-public Matrix TransformationMatrix { get; }
+public IMatrix TransformationMatrix { get; set; }
 ```
 
 ### قيمة الإرجاع
 
 مصفوفة التحويل
 
-### أنظر أيضا
+### انظر أيضًا
 
+* interface [IMatrix](../../imatrix/)
 * interface [ITransformableBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itransformablebrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

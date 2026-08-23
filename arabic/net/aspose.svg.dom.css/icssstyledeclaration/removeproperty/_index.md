@@ -1,31 +1,29 @@
 ---
-title: ICSSStyleDeclaration.RemoveProperty
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleDeclaration طريقة. تُستخدم لإزالة خاصية CSS إذا تم تعيينها صراحةً ضمن كتلة الإعلان هذه.
+title: "ICSSStyleDeclaration.RemoveProperty"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ICSSStyleDeclaration RemoveProperty. تُستخدم لإزالة خاصية CSS إذا تم تعيينها صراحةً داخل كتلة الإعلان هذه"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.css/icssstyledeclaration/removeproperty/
 ---
 ## ICSSStyleDeclaration.RemoveProperty method
 
-تُستخدم لإزالة خاصية CSS إذا تم تعيينها صراحةً ضمن كتلة الإعلان هذه.
+يُستخدم لإزالة خاصية CSS إذا تم تعيينها صراحةً داخل هذه كتلة التصريح.
 
 ```csharp
 public string RemoveProperty(string propertyName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| propertyName | String | اسم العقار. |
+| propertyName | String | اسم الخاصية. |
 
 ### قيمة الإرجاع
 
-إرجاع قيمة الممتلكات
+يرجع قيمة الخاصية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

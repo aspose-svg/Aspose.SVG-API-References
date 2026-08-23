@@ -1,27 +1,31 @@
 ---
-title: Node.Prefix
-second_title: Aspose.SVG لمرجع .NET API
-description: Node ملكية. بادئة مساحة الاسم لهذه العقدة  أو فارغة إذا كانت غير محددة. عندما يتم تعريفه على أنه فارغ  فإن الإعداد ليس له تأثير
+title: "Node.Prefix"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Node Prefix. تُعيد بادئة مساحة الاسم للعنصر المحدد أو null إذا لم يتم تحديد بادئة"
 type: docs
-weight: 150
+weight: 140
 url: /ar/net/aspose.svg.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-بادئة مساحة الاسم لهذه العقدة ، أو فارغة إذا كانت غير محددة. عندما يتم تعريفه على أنه فارغ ، فإن الإعداد ليس له تأثير
+يعيد بادئة مساحة الاسم للعنصر المحدد، أو null إذا لم يتم تحديد بادئة.
 
 ```csharp
 public virtual string Prefix { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-البادئة .
+الخاصية تُعيد بادئة مساحة الاسم المرتبطة.
 
-### أنظر أيضا
+## ملاحظات
+
+المرجع:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
+
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

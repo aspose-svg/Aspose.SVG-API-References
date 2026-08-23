@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Visibility
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الرؤية في CSS2.
+title: "ICSS2Properties.Visibility"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Visibility في ICSS2Properties. راجع تعريف خاصية visibility في CSS2"
 type: docs
-weight: 1150
+weight: 1180
 url: /ar/net/aspose.svg.dom.css/icss2properties/visibility/
 ---
 ## ICSS2Properties.Visibility property
 
-راجع تعريف خاصية الرؤية في CSS2.
+انظر إلى تعريف الخاصية visibility في CSS2.
 
 ```csharp
 public string Visibility { get; set; }
@@ -16,12 +16,10 @@ public string Visibility { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الرؤية
+خاصية visibility
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

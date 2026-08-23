@@ -1,23 +1,21 @@
 ---
-title: Node.CDATA_SECTION_NODE
-second_title: Aspose.SVG لمرجع .NET API
-description: Node مجال. عقدة قسم cdata
+title: "Node.CDATA_SECTION_NODE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل Node CDATA_SECTION_NODE. عقدة قسم CDATA."
 type: docs
-weight: 330
+weight: 310
 url: /ar/net/aspose.svg.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
 
-عقدة قسم cdata
+عقدة قسم CDATA
 
 ```csharp
 public const ushort CDATA_SECTION_NODE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

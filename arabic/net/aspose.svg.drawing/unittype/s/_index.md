@@ -1,23 +1,21 @@
 ---
-title: UnitType.S
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالثواني .
+title: "UnitType.S"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType S. القياس بالثواني."
 type: docs
 weight: 250
 url: /ar/net/aspose.svg.drawing/unittype/s/
 ---
 ## UnitType.S field
 
-القياس بالثواني .
+القياس بالثواني.
 
 ```csharp
 public static readonly UnitType S;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

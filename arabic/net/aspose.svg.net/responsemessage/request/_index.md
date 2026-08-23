@@ -1,28 +1,26 @@
 ---
-title: ResponseMessage.Request
-second_title: Aspose.SVG لمرجع .NET API
-description: ResponseMessage ملكية. الحصول على الطلب المرتبط أو تعيينه.
+title: "ResponseMessage.Request"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ResponseMessage Request. تحصل أو تعين الطلب المرتبط"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.net/responsemessage/request/
 ---
 ## ResponseMessage.Request property
 
-الحصول على الطلب المرتبط أو تعيينه.
+يحصل أو يضبط الطلب المرتبط.
 
 ```csharp
 public RequestMessage Request { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الطلب .
+الطلب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RequestMessage](../../requestmessage/)
 * class [ResponseMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../responsemessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

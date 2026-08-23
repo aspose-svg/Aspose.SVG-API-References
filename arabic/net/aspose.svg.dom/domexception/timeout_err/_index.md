@@ -1,23 +1,21 @@
 ---
-title: DOMException.TIMEOUT_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. انتهت مهلة العملية .
+title: "DOMException.TIMEOUT_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMException TIMEOUT_ERR حقل. انتهت مهلة العملية"
 type: docs
 weight: 260
 url: /ar/net/aspose.svg.dom/domexception/timeout_err/
 ---
 ## DOMException.TIMEOUT_ERR field
 
-انتهت مهلة العملية .
+انتهت مهلة العملية.
 
 ```csharp
 public const ushort TIMEOUT_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

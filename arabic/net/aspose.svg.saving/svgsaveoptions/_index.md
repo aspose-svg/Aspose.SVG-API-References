@@ -1,36 +1,34 @@
 ---
-title: Class SVGSaveOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Saving.SVGSaveOptions فصل. يمثل خيارات حفظ SVG .
+title: "فئة SVGSaveOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Saving.SVGSaveOptions. تمثل خيارات حفظ SVG"
 type: docs
-weight: 3670
+weight: 5790
 url: /ar/net/aspose.svg.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class
 
-يمثل خيارات حفظ SVG .
+يمثل خيارات حفظ SVG.
 
 ```csharp
 public class SVGSaveOptions : SaveOptions
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SVGSaveOptions](svgsaveoptions/)() | Default_Constructor |
+| [SVGSaveOptions](svgsaveoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | يحصل على أ[`ResourceHandlingOptions`](../resourcehandlingoptions/) الكائن المستخدم لتكوين معالجة الموارد. |
-| [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext/) { get; set; } | الحصول على أو تحديد ما إذا كان سيتم استبدال عناصر النص بالمسارات. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | يحصل على كائن [`ResourceHandlingOptions`](../resourcehandlingoptions/) يُستخدم لتكوين معالجة الموارد. |
+| [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext/) { get; set; } | يحصل أو يضبط ما إذا كانت عناصر النص تُستبدل بالمسارات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SaveOptions](../saveoptions/)
-* مساحة الاسم [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

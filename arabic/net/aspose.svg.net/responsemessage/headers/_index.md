@@ -1,28 +1,26 @@
 ---
-title: ResponseMessage.Headers
-second_title: Aspose.SVG لمرجع .NET API
-description: ResponseMessage ملكية. يحصل على الرؤوس .
+title: "ResponseMessage.Headers"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Headers الخاصة بـ ResponseMessage. تحصل على الرؤوس"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.net/responsemessage/headers/
 ---
 ## ResponseMessage.Headers property
 
-يحصل على الرؤوس .
+يحصل على الرؤوس.
 
 ```csharp
 public ResponseHeaders Headers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الرؤوس .
+الرؤوس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../responsemessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

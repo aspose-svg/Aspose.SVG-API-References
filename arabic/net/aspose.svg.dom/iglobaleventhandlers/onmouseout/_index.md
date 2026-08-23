@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnMouseOut
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnMouseOut.
+title: "IGlobalEventHandlers.OnMouseOut"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث IGlobalEventHandlers OnMouseOut. يحصل أو يعيّن معالج الحدث لحدث OnMouseOut."
 type: docs
 weight: 280
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onmouseout/
 ---
 ## IGlobalEventHandlers.OnMouseOut event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnMouseOut.
+الحصول أو تعيين معالج الحدث لـ OnMouseOut.
 
 ```csharp
 public event DOMEventHandler OnMouseOut;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

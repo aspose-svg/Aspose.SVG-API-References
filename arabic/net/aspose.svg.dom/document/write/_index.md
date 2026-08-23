@@ -1,27 +1,25 @@
 ---
-title: Document.Write
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. اكتب سلسلة نصية إلى تدفق مستند تم فتحه بواسطة open . لاحظ أن الوظيفة ستنتج document الذي لا يكون بالضرورة مدفوعًا بـ DTD وبالتالي قد ينتج عن ذلك نتيجة غير صالحة في سياق المستند.
+title: "Document.Write"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document Write. تكتب سلسلة نصية إلى تدفق مستند تم فتحه بواسطة open. لاحظ أن الدالة ستنتج مستندًا قد لا يكون مدفوعًا بملف DTD وبالتالي قد ينتج نتيجة غير صالحة في سياق المستند."
 type: docs
-weight: 1050
+weight: 1060
 url: /ar/net/aspose.svg.dom/document/write/
 ---
 ## Document.Write method
 
-اكتب سلسلة نصية إلى تدفق مستند تم فتحه بواسطة open (). لاحظ أن الوظيفة ستنتج document الذي لا يكون بالضرورة مدفوعًا بـ DTD وبالتالي قد ينتج عن ذلك نتيجة غير صالحة في سياق المستند.
+اكتب سلسلة نصية إلى تدفق المستند المفتوح بواسطة `open()`. لاحظ أن الدالة ستنتج مستندًا قد لا يكون مدفوعًا بملف تعريف النوع (DTD) وبالتالي قد ينتج نتيجة غير صالحة في سياق المستند.
 
 ```csharp
 public void Write(params string[] texts)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| texts | String[] | السلسلة المراد تحليلها في بنية ما في نموذج بنية المستند . |
+| نصوص | String[] | السلسلة التي سيتم تحليلها إلى بعض البنية في نموذج هيكل المستند. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

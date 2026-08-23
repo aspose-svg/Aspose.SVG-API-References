@@ -1,33 +1,31 @@
 ---
-title: SVGElement.Id
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGElement ملكية. قيمة سمة id في العنصر المحدد  أو السلسلة الفارغة إذا لم يكن id موجودًا .
+title: "SVGElement.Id"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Id لـ SVGElement. قيمة سمة id على العنصر المحدد أو سلسلة فارغة إذا لم تكن سمة id موجودة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgelement/id/
 ---
 ## SVGElement.Id property
 
-قيمة سمة "id" في العنصر المحدد ، أو السلسلة الفارغة إذا لم يكن "id" موجودًا .
+قيمة السمة ‘id’ على العنصر المعطى، أو السلسلة الفارغة إذا لم تكن السمة ‘id’ موجودة.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف .
+المعرف.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود NO_MODIFICATION_ALLOWED_ERR. أثارت محاولة لتغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز NO_MODIFICATION_ALLOWED_ERR. يُرفع عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

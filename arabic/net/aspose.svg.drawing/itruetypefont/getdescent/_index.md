@@ -1,31 +1,29 @@
 ---
-title: ITrueTypeFont.GetDescent
-second_title: Aspose.SVG لمرجع .NET API
-description: ITrueTypeFont طريقة. إرجاع النسب بالنقاط.
+title: "ITrueTypeFont.GetDescent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ITrueTypeFont GetDescent. تحصل على انخفاض الخط بالنقاط باستخدام حجم الخط المحدد."
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.svg.drawing/itruetypefont/getdescent/
 ---
 ## ITrueTypeFont.GetDescent method
 
-إرجاع النسب بالنقاط.
+يحصل على انخفاض الخط (descent) بالنقاط باستخدام حجم الخط المحدد.
 
 ```csharp
 public float GetDescent(float fontSize)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontSize | Single | حجم الخط. |
 
 ### قيمة الإرجاع
 
-النزول بالنقاط.
+انخفاض الخط بالنقاط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITrueTypeFont](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itruetypefont/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

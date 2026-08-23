@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.RemoveSpaceAfterFlags
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathOptimizationOptions ملكية. الحصول على أو تعيين خيار إزالة المساحة الزائدة بعد إشارات الأمر arcto. إنها خطأ افتراضيًا.
+title: "SVGPathOptimizationOptions.RemoveSpaceAfterFlags"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RemoveSpaceAfterFlags في SVGPathOptimizationOptions. يحصل على أو يضبط الخيار لإزالة المسافة الزائدة بعد أعلام أمر arcto. القيمة الافتراضية هي false"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/
 ---
 ## SVGPathOptimizationOptions.RemoveSpaceAfterFlags property
 
-الحصول على أو تعيين خيار إزالة المساحة الزائدة بعد إشارات الأمر "arcto". إنها "خطأ" افتراضيًا.
+يحصل أو يضبط الخيار لإزالة المسافة الزائدة بعد أعلام أمر 'arcto'. القيمة الافتراضية هي 'false'.
 
 ```csharp
 public bool RemoveSpaceAfterFlags { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

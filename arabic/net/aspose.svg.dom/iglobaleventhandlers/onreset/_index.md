@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnReset
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnReset أو تعيينه.
+title: "IGlobalEventHandlers.OnReset"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث IGlobalEventHandlers OnReset. يحصل أو يعيّن معالج الحدث لحدث OnReset."
 type: docs
 weight: 370
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onreset/
 ---
 ## IGlobalEventHandlers.OnReset event
 
-الحصول على معالج الحدث لحدث OnReset أو تعيينه.
+الحصول أو تعيين معالج الحدث لـ OnReset.
 
 ```csharp
 public event DOMEventHandler OnReset;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

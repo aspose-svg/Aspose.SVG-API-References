@@ -1,23 +1,21 @@
 ---
-title: SplinePathBuilder.Tension
-second_title: Aspose.SVG لمرجع .NET API
-description: SplinePathBuilder ملكية. تؤثر قيمة التوترات على مدى حدة انحناء المنحنى عند نقاط التحكم المقحمة . يجب أن تكون في النطاق من 0 إلى 1. سيتم محاذاة أي قيم أعلى أو أدنى مع القيم الدنيا والحد الأقصى لهذا النطاق  تبعا لذلك.
+title: "SplinePathBuilder.Tension"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية توتر SplinePathBuilder. تؤثر قيمة التوتر على مدى حدة انحناء المنحنى عند نقاط التحكم المستوفاة. يجب أن تكون في النطاق من 0 إلى 1. أي قيم أعلى أو أقل سيتم تعديلها لتتناسب مع الحد الأدنى والحد الأقصى لهذا النطاق وفقًا لذلك."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.imagevectorization/splinepathbuilder/tension/
 ---
 ## SplinePathBuilder.Tension property
 
-تؤثر قيمة التوترات على مدى حدة انحناء المنحنى عند نقاط التحكم (المقحمة) . يجب أن تكون في النطاق من 0 إلى 1. سيتم محاذاة أي قيم أعلى أو أدنى مع القيم الدنيا والحد الأقصى لهذا النطاق ، تبعا لذلك.
+قيمة التوترات تؤثر على مدى حدة انحناء المنحنى عند نقاط التحكم (interpolated). يجب أن تكون في النطاق من 0 إلى 1. أي قيم أعلى أو أقل سيتم محاذاتها مع القيم الدنيا والعليا لهذا النطاق، وفقًا لذلك.
 
 ```csharp
 public float Tension { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplinePathBuilder](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEGaussianBlurElement ملكية. يتوافق مع السمة  ص على عنصر التصفية المحدد .
+title: "SVGFEGaussianBlurElement.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEGaussianBlurElement Y. تتطابق مع السمة y في عنصر الفلتر المحدد"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.filters/svgfegaussianblurelement/y/
 ---
 ## SVGFEGaussianBlurElement.Y property
 
-يتوافق مع السمة � ص� على عنصر التصفية� المحدد .
+يتطابق مع السمة �y� في العنصر �filter� المحدد.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "ص" لعنصر "عامل التصفية" المحدد .
+السمة �y� للعنصر �filter� المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

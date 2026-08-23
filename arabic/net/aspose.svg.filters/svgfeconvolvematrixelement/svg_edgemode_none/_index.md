@@ -1,23 +1,21 @@
 ---
-title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement مجال. يتوافق مع القيمة لا شيء .
+title: "SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_EDGEMODE_NONE لـ SVGFEConvolveMatrixElement. يتطابق مع القيمة none"
 type: docs
 weight: 190
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_none/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE field
 
-يتوافق مع القيمة "لا شيء" .
+يتطابق مع القيمة 'none'.
 
 ```csharp
 public const ushort SVG_EDGEMODE_NONE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

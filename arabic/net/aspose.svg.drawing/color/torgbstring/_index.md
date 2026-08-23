@@ -1,14 +1,14 @@
 ---
-title: Color.ToRgbString
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع سلسلة تحتوي على لون RGB المحدد بواسطة rgb R  G  B .
+title: "Color.ToRgbString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color ToRgbString. تُعيد سلسلة تحتوي على لون RGB المحدد بواسطة rgbR G B"
 type: docs
 weight: 420
 url: /ar/net/aspose.svg.drawing/color/torgbstring/
 ---
 ## Color.ToRgbString method
 
-إرجاع سلسلة تحتوي على لون RGB المحدد بواسطة: rgb (R ، G ، B) .
+يعيد سلسلة تحتوي على لون RGB المحدد بـ: rgb(R, G, B).
 
 ```csharp
 public string ToRgbString()
@@ -16,12 +16,10 @@ public string ToRgbString()
 
 ### قيمة الإرجاع
 
-سلسلة RGB.
+سلسلة rgb.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

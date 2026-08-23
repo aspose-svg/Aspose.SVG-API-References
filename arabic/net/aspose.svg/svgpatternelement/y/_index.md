@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPatternElement ملكية. يتوافق مع السمة y في عنصر النمط المحدد .
+title: "SVGPatternElement.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Y في SVGPatternElement. تتطابق مع السمة y في عنصر pattern المحدد"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg/svgpatternelement/y/
 ---
 ## SVGPatternElement.Y property
 
-يتوافق مع السمة "y" في عنصر "النمط" المحدد .
+يتطابق مع السمة ‘y’ في العنصر ‘pattern’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "y" لعنصر "النمط" المحدد .
+السمة ‘y’ للعنصر ‘pattern’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpatternelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

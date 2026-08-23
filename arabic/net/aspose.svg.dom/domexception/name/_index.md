@@ -1,27 +1,25 @@
 ---
-title: DOMException.Name
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException ملكية. إرجاع سلسلة تحتوي على إحدى السلاسل المقترنة باسم خطأ.
+title: "DOMException.Name"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Name في DOMException. تُرجع سلسلة تحتوي على أحد السلاسل المرتبطة باسم الخطأ"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/domexception/name/
 ---
 ## DOMException.Name property
 
-إرجاع سلسلة تحتوي على إحدى السلاسل المقترنة باسم خطأ.
+يعيد سلسلة تحتوي على أحد السلاسل المرتبطة باسم الخطأ.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الخطأ .
+اسم الخطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

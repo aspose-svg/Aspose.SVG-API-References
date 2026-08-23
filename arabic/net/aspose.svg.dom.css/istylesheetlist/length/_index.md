@@ -1,23 +1,21 @@
 ---
-title: IStyleSheetList.Length
-second_title: Aspose.SVG لمرجع .NET API
-description: IStyleSheetList ملكية. عدد StyleSheets في القائمة. يتراوح نطاق فهارس ورقة الأنماط الفرعية الصالحة من 0 إلى 1 ضمناً.
+title: "IStyleSheetList.Length"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Length في IStyleSheetList. عدد أوراق الأنماط في القائمة. النطاق الصالح لمؤشرات أوراق الأنماط الفرعية هو من 0 إلى length-1 شاملًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/istylesheetlist/length/
 ---
 ## IStyleSheetList.Length property
 
-عدد StyleSheets في القائمة. يتراوح نطاق فهارس ورقة الأنماط الفرعية الصالحة من 0 إلى 1 ضمناً.
+عدد أوراق الأنماط في القائمة. النطاق الصالح لمؤشرات أوراق الأنماط الفرعية هو من 0 إلى length-1 شاملًا.
 
 ```csharp
 public int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IStyleSheetList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

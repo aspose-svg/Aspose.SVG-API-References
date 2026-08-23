@@ -1,23 +1,21 @@
 ---
-title: Renderer.Dispose
-second_title: Aspose.SVG لمرجع .NET API
-description: Renderer طريقة. الإصدارات غير المُدارة و اختياريًا الموارد المُدارة.
+title: "Renderer.Dispose"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Renderer Dispose. تُطلق الموارد غير المُدارة و - اختياريًا - الموارد المُدارة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering/renderer/dispose/
 ---
 ## Renderer.Dispose method
 
-الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة.
+يطلق الموارد غير المُدارة و- اختياريًا - المُدارة.
 
 ```csharp
 public void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Renderer](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

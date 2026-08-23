@@ -1,34 +1,32 @@
 ---
-title: SVGMarkerElement.SetOrientToAngle
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMarkerElement طريقة. يضبط قيمة السمة الاتجاه على الزاوية المحددة.
+title: "SVGMarkerElement.SetOrientToAngle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGMarkerElement SetOrientToAngle. تعيين قيمة السمة orient إلى الزاوية المعطاة"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg/svgmarkerelement/setorienttoangle/
 ---
 ## SVGMarkerElement.SetOrientToAngle method
 
-يضبط قيمة السمة "الاتجاه" على الزاوية المحددة.
+يضبط قيمة السمة ‘orient’ إلى الزاوية المحددة.
 
 ```csharp
 public void SetOrientToAngle(SVGAngle angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | SVGAngle | قيمة الزاوية المراد استخدامها للسمة "الاتجاه". |
+| angle | SVGAngle | قيمة الزاوية لاستخدامها في السمة ‘orient’. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . تم طرحه عند محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAngle](../../../aspose.svg.datatypes/svgangle/)
 * class [SVGMarkerElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgmarkerelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

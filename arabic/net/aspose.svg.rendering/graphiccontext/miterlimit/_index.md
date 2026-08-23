@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.MiterLimit
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. تعيين أو الحصول على الحد الأقصى لطول وصلات الخط المتري للمسارات المحدودة. تحدد هذه المعلمة طول المسامير التي يتم إنتاجها عندما تنضم مقاطع الخط بزوايا حادة.
+title: "GraphicContext.MiterLimit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext MiterLimit. يحدد أو يحصل على الحد الأقصى لطول وصلات الخط المثلثية للمسارات المرسومة. هذا المعامل يحد من طول الأشواك التي تُنتج عندما تتقاطع مقاطع الخط بزاويا حادة."
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.rendering/graphiccontext/miterlimit/
 ---
 ## GraphicContext.MiterLimit property
 
-تعيين أو الحصول على الحد الأقصى لطول وصلات الخط المتري للمسارات المحدودة. تحدد هذه المعلمة طول "المسامير" التي يتم إنتاجها عندما تنضم مقاطع الخط بزوايا حادة.
+يضبط أو يحصل على الحد الأقصى لطول وصلات الخط المثلثية للمسارات المرسومة. يحد هذا المعامل من طول "الأشواك" التي تُنتج عندما تتقاطع مقاطع الخط بزاويا حادة.
 
 ```csharp
 public virtual float MiterLimit { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,36 @@
 ---
-title: Document.GetElementById
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. إرجاع العنصر الذي يحتوي على سمة معرف بالقيمة المحددة. إذا لم يكن هذا العنصر موجودًا  فسيتم إرجاعه فارغًا. إذا كان هناك أكثر من عنصر واحد يحتوي على سمة معرف بهذه القيمة  فإن ما يتم إرجاعه يكون غير محدد.
+title: "Document.GetElementById"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document GetElementById. تُرجع هذه الطريقة كائن Element يمثل العنصر الذي تتطابق خاصية id الخاصة به مع السلسلة المحددة. بما أن معرفات العناصر يجب أن تكون فريدة إذا تم تحديدها، فهي طريقة مفيدة للوصول بسرعة إلى عنصر محدد"
 type: docs
 weight: 960
 url: /ar/net/aspose.svg.dom/document/getelementbyid/
 ---
 ## Document.GetElementById method
 
-إرجاع العنصر الذي يحتوي على سمة معرف بالقيمة المحددة. إذا لم يكن هذا العنصر موجودًا ، فسيتم إرجاعه فارغًا. إذا كان هناك أكثر من عنصر واحد يحتوي على سمة معرف بهذه القيمة ، فإن ما يتم إرجاعه يكون غير محدد.
+تُرجع هذه الطريقة كائن [`Element`](../../element/) يمثل العنصر الذي تتطابق خاصية id الخاصة به مع السلسلة المحددة. بما أن معرفات العناصر يجب أن تكون فريدة إذا تم تحديدها، فهي طريقة مفيدة للوصول بسرعة إلى عنصر محدد.
+
+إذا كنت بحاجة للوصول إلى عنصر لا يمتلك معرفًا، يمكنك استخدام [`QuerySelector`](../queryselector/) للعثور على العنصر باستخدام أي محدد.
 
 ```csharp
 public Element GetElementById(string elementId)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| elementId | String | معرف العنصر. |
+| elementId | String | معرف العنصر المراد تحديده. المعرف هو سلسلة حساسة لحالة الأحرف وتكون فريدة داخل المستند؛ لا يمكن أن يكون هناك أكثر من عنصر يحمل نفس المعرف. |
 
 ### قيمة الإرجاع
 
-ملف[`Element`](../../element/) .
+كائن [`Element`](../../element/) يصف كائن عنصر DOM المتطابق مع المعرف المحدد، أو null إذا لم يُعثر على عنصر متطابق في المستند.
 
-### أنظر أيضا
+## ملاحظات
+
+راجع المواصفة الرسمية [spec](https://dom.spec.whatwg.org/#dom-nonelementparentnode-getelementbyid).
+
+### انظر أيضًا
 
 * class [Element](../../element/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveIndentsAndLineBreaks
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على أو تحديد خيار إزالة المسافات البادئة والفواصل. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveIndentsAndLineBreaks"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGOptimizationOptions RemoveIndentsAndLineBreaks. يحصل أو يضبط الخيار لإزالة مسافات السطر والفواصل. القيمة true بشكل افتراضي"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeindentsandlinebreaks/
 ---
 ## SVGOptimizationOptions.RemoveIndentsAndLineBreaks property
 
-الحصول على أو تحديد خيار إزالة المسافات البادئة والفواصل. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة مسافات السطر والفواصل. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveIndentsAndLineBreaks { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

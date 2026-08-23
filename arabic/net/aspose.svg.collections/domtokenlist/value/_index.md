@@ -1,27 +1,25 @@
 ---
-title: DOMTokenList.Value
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTokenList ملكية. الحصول على أو تعيين قيمة السمة المقابلة.
+title: "DOMTokenList.Value"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DOMTokenList Value. تحصل أو تعين قيمة السمة المقابلة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.collections/domtokenlist/value/
 ---
 ## DOMTokenList.Value property
 
-الحصول على أو تعيين قيمة السمة المقابلة.
+يحصل أو يضبط قيمة السمة المقابلة.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة السمة المقابلة .
+قيمة السمة المقابلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../domtokenlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

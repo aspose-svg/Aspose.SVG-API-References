@@ -1,14 +1,14 @@
 ---
-title: Node.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: Node طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "Node.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Node ToString. تُرجع سلسلة تمثل هذه الحالة"
 type: docs
-weight: 310
+weight: 290
 url: /ar/net/aspose.svg.dom/node/tostring/
 ---
 ## Node.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

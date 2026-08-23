@@ -1,9 +1,9 @@
 ---
-title: Node.NOTATION_NODE
-second_title: Aspose.SVG لمرجع .NET API
-description: Node مجال. عقدة تدوين
+title: "Node.NOTATION_NODE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل Node NOTATION_NODE. عقدة تدوين."
 type: docs
-weight: 410
+weight: 390
 url: /ar/net/aspose.svg.dom/node/notation_node/
 ---
 ## Node.NOTATION_NODE field
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom/node/notation_node/
 public const ushort NOTATION_NODE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface IColorComponents
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.IColorComponents واجهه المستخدم. يوضح طريقة وخصائص معالجة مكونات اللون.
+title: "واجهة IColorComponents"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Drawing.IColorComponents. تعلن الطريقة والخصائص لمعالجة مكونات اللون"
 type: docs
-weight: 1440
+weight: 3450
 url: /ar/net/aspose.svg.drawing/icolorcomponents/
 ---
 ## IColorComponents interface
 
-يوضح طريقة وخصائص معالجة مكونات اللون.
+يعلن عن طريقة وخصائص لمعالجة مكونات اللون.
 
 ```csharp
 public interface IColorComponents
@@ -16,22 +16,20 @@ public interface IColorComponents
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Alpha](../../aspose.svg.drawing/icolorcomponents/alpha/) { get; } | إرجاع مكون ألفا . |
-| [Components](../../aspose.svg.drawing/icolorcomponents/components/) { get; } | إرجاع مكونات اللون كمصفوفة عائمة. |
-| [Model](../../aspose.svg.drawing/icolorcomponents/model/) { get; } | إرجاع نموذج اللون. |
+| [Alpha](../../aspose.svg.drawing/icolorcomponents/alpha/) { get; } | يعيد مكوّن ألفا. |
+| [Components](../../aspose.svg.drawing/icolorcomponents/components/) { get; } | يعيد مكونات اللون كمصفوفة من القيم العائمة. |
+| [Model](../../aspose.svg.drawing/icolorcomponents/model/) { get; } | يعيد نموذج اللون. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToColor](../../aspose.svg.drawing/icolorcomponents/tocolor/)() | تحويل مكونات اللون إلى كائن اللون. |
-| [ToString](../../aspose.svg.drawing/icolorcomponents/tostring/)(bool, bool, int) | تحويل مكونات اللون إلى تمثيل سلسلة . |
+| [ToColor](../../aspose.svg.drawing/icolorcomponents/tocolor/)() | يحوّل مكونات اللون إلى كائن Color. |
+| [ToString](../../aspose.svg.drawing/icolorcomponents/tostring/)(*bool, bool, int*) | يقوم بتحويل مكونات اللون إلى تمثيل نصي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

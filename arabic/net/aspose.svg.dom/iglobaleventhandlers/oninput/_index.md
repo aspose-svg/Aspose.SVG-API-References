@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnInput
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على أو تعيين معالج الأحداث لحدث OnInput.
+title: "IGlobalEventHandlers.OnInput"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers حدث OnInput. يحصل أو يضبط معالج الحدث لحدث OnInput"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/oninput/
 ---
 ## IGlobalEventHandlers.OnInput event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnInput.
+الحصول أو تعيين معالج الحدث لـ OnInput.
 
 ```csharp
 public event DOMEventHandler OnInput;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: BezierPathBuilder.BezierPathBuilder
-second_title: Aspose.SVG لمرجع .NET API
-description: BezierPathBuilder البناء. يقوم بتهيئة مثيل جديد لملفBezierPathBuilder فئة .
+title: "BezierPathBuilder"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ BezierPathBuilder. يهيئ مثيلاً جديداً من فئة BezierPathBuilder"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.imagevectorization/bezierpathbuilder/bezierpathbuilder/
 ---
 ## BezierPathBuilder constructor
 
-يقوم بتهيئة مثيل جديد لملف[`BezierPathBuilder`](../) فئة .
+يُهيئ مثيلاً جديداً من فئة [`BezierPathBuilder`](../).
 
 ```csharp
 public BezierPathBuilder()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BezierPathBuilder](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

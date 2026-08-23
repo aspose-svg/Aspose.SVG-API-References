@@ -1,30 +1,28 @@
 ---
-title: Interface IViewCSS
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.IViewCSS واجهه المستخدم. تمثل هذه الواجهة طريقة عرض CSS .
+title: "واجهة IViewCSS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Css.IViewCSS. تمثل هذه الواجهة عرض CSS"
 type: docs
-weight: 760
+weight: 2760
 url: /ar/net/aspose.svg.dom.css/iviewcss/
 ---
 ## IViewCSS interface
 
-تمثل هذه الواجهة طريقة عرض CSS .
+تمثل هذه الواجهة عرض CSS.
 
 ```csharp
 public interface IViewCSS : IAbstractView
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle)(Element) | تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو محدد في CSS2. |
-| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle_1)(Element, string) | تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو محدد في CSS2. |
+| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle)(*[Element](../../aspose.svg.dom/element/)*) | تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو معرف في CSS2. |
+| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle_1)(*[Element](../../aspose.svg.dom/element/), string*) | تُستخدم هذه الطريقة للحصول على النمط المحسوب كما هو معرف في CSS2. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAbstractView](../../aspose.svg.dom.views/iabstractview/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

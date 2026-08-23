@@ -1,24 +1,22 @@
 ---
-title: ResourceHandlingOptions.PageUrlRestriction
-second_title: Aspose.SVG لمرجع .NET API
-description: ResourceHandlingOptions ملكية. الحصول على أو تعيين قيود مطبقة على عناوين URL للصفحات التي تمت معالجتها. القيمة الافتراضية هيRootAndSubFolders .
+title: "ResourceHandlingOptions.PageUrlRestriction"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PageUrlRestriction في ResourceHandlingOptions. يحصل أو يحدد القيد المطبق على عناوين URL للصفحات المعالجة. القيمة الافتراضية هي RootAndSubFolders"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/
 ---
 ## ResourceHandlingOptions.PageUrlRestriction property
 
-الحصول على أو تعيين قيود مطبقة على عناوين URL للصفحات التي تمت معالجتها. القيمة الافتراضية هيRootAndSubFolders .
+يحصل أو يعيّن القيد المطبق على عناوين URL للصفحات المعالجة. القيمة الافتراضية هي RootAndSubFolders.
 
 ```csharp
 public UrlRestriction PageUrlRestriction { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [UrlRestriction](../../urlrestriction/)
 * class [ResourceHandlingOptions](../)
-* مساحة الاسم [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

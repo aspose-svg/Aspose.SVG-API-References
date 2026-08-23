@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.Headers
-second_title: Aspose.SVG لمرجع .NET API
-description: RequestMessage ملكية. يحصل على ملفRequestHeaders .
+title: "RequestMessage.Headers"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RequestMessage Headers. يحصل على الـ RequestHeaders"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.net/requestmessage/headers/
 ---
 ## RequestMessage.Headers property
 
-يحصل على ملف[`RequestHeaders`](../../requestheaders/) .
+يحصل على الـ [`RequestHeaders`](../../requestheaders/).
 
 ```csharp
 public RequestHeaders Headers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الرؤوس .
+الرؤوس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RequestHeaders](../../requestheaders/)
 * class [RequestMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestmessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

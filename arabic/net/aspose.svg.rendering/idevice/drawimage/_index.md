@@ -1,30 +1,28 @@
 ---
-title: IDevice.DrawImage
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice طريقة. يرسم الصورة المحددة .
+title: "IDevice.DrawImage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDevice DrawImage. يرسم الصورة المحددة"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.rendering/idevice/drawimage/
 ---
 ## IDevice.DrawImage method
 
-يرسم الصورة المحددة .
+يرسم الصورة المحددة.
 
 ```csharp
-public void DrawImage(byte[] data, ImageType type, RectangleF rect)
+public void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | مصفوفة من البايت تمثل الصورة. |
-| type | ImageType | نوع الصورة. |
-| rect | RectangleF | مستطيل يحدد موضع الرسم وحجمه. |
+| البيانات | Byte[] | مصفوفة من البايتات تمثل الصورة. |
+| imageFormat | WebImageFormat | تنسيق الصورة. |
+| rect | RectangleF | مستطيل يحدد الموقع والحجم للرسم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ImageType](../../imagetype/)
+* enum [WebImageFormat](../../../aspose.svg.drawing/webimageformat/)
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: Rect.Top
-second_title: Aspose.SVG لمرجع .NET API
-description: Rect ملكية. يتم استخدام هذه السمة لأعلى المستقيم .
+title: "Rect.Top"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Rect Top. يتم استخدام هذه السمة لتحديد أعلى المستطيل"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.css/rect/top/
 ---
 ## Rect.Top property
 
-يتم استخدام هذه السمة لأعلى المستقيم .
+تُستخدم هذه السمة لتحديد الجزء العلوي من المستطيل.
 
 ```csharp
 public CSSPrimitiveValue Top { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../rect/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

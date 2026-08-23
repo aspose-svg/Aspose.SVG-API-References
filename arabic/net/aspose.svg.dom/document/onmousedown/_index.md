@@ -1,24 +1,22 @@
 ---
-title: Document.OnMouseDown
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث أو تعيينه لحدث OnMouseDown.
+title: "Document.OnMouseDown"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnMouseDown. يحصل أو يعيّن معالج الحدث لحدث OnMouseDown"
 type: docs
 weight: 510
 url: /ar/net/aspose.svg.dom/document/onmousedown/
 ---
 ## Document.OnMouseDown event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnMouseDown.
+الحصول أو تعيين معالج الحدث لـ OnMouseDown.
 
 ```csharp
 public event DOMEventHandler OnMouseDown;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

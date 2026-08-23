@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.AttributeFilter
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserverInit ملكية. اضبط على قائمة بأسماء السمات المحلية بدون مساحة الاسم إذا لم تكن هناك حاجة إلى ملاحظة جميع طفرات السمات وكانت السمات صحيحة أو تم حذفها.
+title: "MutationObserverInit.AttributeFilter"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationObserverInit AttributeFilter. تُعيّن إلى قائمة بأسماء السمات المحلية دون مساحة اسم إذا لم تكن كل تغيّرات السمات بحاجة إلى الملاحظة وكان attributes صحيحًا أو مُهملة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/attributefilter/
 ---
 ## MutationObserverInit.AttributeFilter property
 
-اضبط على قائمة بأسماء السمات المحلية (بدون مساحة الاسم) إذا لم تكن هناك حاجة إلى ملاحظة جميع طفرات السمات وكانت السمات صحيحة أو تم حذفها.
+عيّن إلى قائمة بأسماء الخصائص المحلية (بدون مساحة اسم) إذا لم يكن من الضروري مراقبة جميع تعديلات الخصائص وكان attributes صحيحًا أو مُهملًا.
 
 ```csharp
 public IList<string> AttributeFilter { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

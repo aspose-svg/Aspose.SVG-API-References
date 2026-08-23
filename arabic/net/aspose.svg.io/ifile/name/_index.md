@@ -1,23 +1,21 @@
 ---
-title: IFile.Name
-second_title: Aspose.SVG لمرجع .NET API
-description: IFile ملكية. اسم الملف. عند الحصول عليه  يجب أن يعيد هذا اسم الملف كسلسلة .
+title: "IFile.Name"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IFile Name. اسم الملف. عند الحصول يجب إرجاع اسم الملف كسلسلة نصية"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.io/ifile/name/
 ---
 ## IFile.Name property
 
-اسم الملف. عند الحصول عليه ، يجب أن يعيد هذا اسم الملف كسلسلة .
+اسم الملف. عند الحصول، يجب إرجاع اسم الملف كسلسلة نصية.
 
 ```csharp
 public string Name { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IFile](../)
-* مساحة الاسم [Aspose.Svg.IO](../../ifile/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

@@ -1,34 +1,32 @@
 ---
-title: Color.FromHsla
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد مع تدرج اللون المطلوب  والتشبع  والتشبع  وقيم ألفا.
+title: "Color.FromHsla"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromHsla. تُرجع لونًا جديدًا مع قيم الدرجة، التشبع، والشفافية المطلوبة"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.drawing/color/fromhsla/
 ---
 ## Color.FromHsla method
 
-إرجاع لون جديد مع تدرج اللون المطلوب ، والتشبع ، والتشبع ، وقيم ألفا.
+يرجع Color جديد مع القيم المطلوبة للدرجة، التشبع، التشبع، وألفا.
 
 ```csharp
 public static Color FromHsla(float hue, float saturation, float lightness, float alpha)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| hue | Single | عائم يمثل مكون تدرج اللون. |
-| saturation | Single | عائم يمثل مكون تشبع اللون. |
-| lightness | Single | عائم يمثل مكون الإضاءة للون. |
-| alpha | Single | عدد عشري يمثل مكون ألفا للون. |
+| hue | Single | قيمة عائمة تمثل المكوّن الدرجة للون. |
+| saturation | Single | قيمة عائمة تمثل مكوّن التشبع للون. |
+| السطوع | Single | قيمة عائمة تمثل مكوّن السطوع للون. |
+| ألفا | Single | قيمة عائمة تمثل المكوّن ألفا للون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

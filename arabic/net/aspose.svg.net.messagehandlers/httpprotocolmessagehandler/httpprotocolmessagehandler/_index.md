@@ -1,23 +1,21 @@
 ---
-title: HttpProtocolMessageHandler.HttpProtocolMessageHandler
-second_title: Aspose.SVG لمرجع .NET API
-description: HttpProtocolMessageHandler البناء. يقوم بتهيئة مثيل جديد لملفHttpProtocolMessageHandler فئة .
+title: "HttpProtocolMessageHandler"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ HttpProtocolMessageHandler. يهيئ نسخة جديدة من فئة HttpProtocolMessageHandler"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler constructor
 
-يقوم بتهيئة مثيل جديد لملف[`HttpProtocolMessageHandler`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`HttpProtocolMessageHandler`](../).
 
 ```csharp
 public HttpProtocolMessageHandler()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HttpProtocolMessageHandler](../)
-* مساحة الاسم [Aspose.Svg.Net.MessageHandlers](../../httpprotocolmessagehandler/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

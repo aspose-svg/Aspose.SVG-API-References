@@ -1,24 +1,22 @@
 ---
-title: Document.OnLoadedData
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث أو تعيينه لحدث OnLoadedData.
+title: "Document.OnLoadedData"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnLoadedData. يحصل أو يعيّن معالج الحدث لحدث OnLoadedData"
 type: docs
 weight: 480
 url: /ar/net/aspose.svg.dom/document/onloadeddata/
 ---
 ## Document.OnLoadedData event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnLoadedData.
+الحصول أو تعيين معالج الحدث لـ OnLoadedData.
 
 ```csharp
 public event DOMEventHandler OnLoadedData;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

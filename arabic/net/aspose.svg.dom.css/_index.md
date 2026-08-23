@@ -1,56 +1,54 @@
 ---
-title: Aspose.Svg.Dom.Css
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Dom.Css مساحة الاسم مخصصة لجميع عمليات التلاعب ذات الصلة بـ CSS.
+title: "Aspose.Svg.Dom.Css"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "مساحة الأسماء Aspose.Svg.Dom.Css مخصصة لجميع التلاعبات المتعلقة بـ CSS. تركز حول أزواج اسم الخاصية - القيمة المحددة في الوثائق الرسمية لـ CSS."
 type: docs
-weight: 70
+weight: 90
 url: /ar/net/aspose.svg.dom.css/
 ---
-ملف **Aspose.Svg.Dom.Css** مساحة الاسم مخصصة لجميع عمليات التلاعب ذات الصلة بـ CSS.
+مساحة الاسم **Aspose.Svg.Dom.Css** مخصصة لجميع التلاعبات المتعلقة بـ CSS. تركز على أزواج اسم الخاصية - القيمة في CSS المحددة في الوثائق الرسمية لـ CSS.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [Counter](./counter/) | يتم استخدام واجهة العداد لتمثيل أي قيمة دالة للعداد. تعكس هذه الواجهة القيم الموجودة في خاصية النمط الأساسية. |
-| [CSSPrimitiveValue](./cssprimitivevalue/) | تمثل واجهة CSSPrimitiveValue قيمة CSS واحدة. يمكن استخدام هذه الواجهة لتحديد قيمة خاصية نمط معينة تم تعيينها حاليًا في كتلة أو لتعيين خاصية نمط معينة بشكل صريح داخل الكتلة. يمكن الحصول على مثيل لهذه الواجهة من طريقة getPropertyCSSValue لواجهة CSSStyleDeclusion. لا يحدث كائن CSSPrimitiveValue إلا في سياق خاصية CSS. |
-| [CSSValue](./cssvalue/) | يمثل قيمة بسيطة أو معقدة. لا يحدث كائن CSSValue إلا في سياق خاصية CSS. |
-| [CSSValueList](./cssvaluelist/) | توفر واجهة CSSValueList تجريدًا لمجموعة مرتبة من قيم CSS. |
-| [Rect](./rect/) | تُستخدم واجهة المستقيم لتمثيل أي قيمة مستقيمة. تعكس هذه الواجهة القيم الموجودة في خاصية النمط الأساسية. ومن ثم ، فإن التعديلات التي تم إجراؤها على كائنات CSSPrimitiveValue تعدل خاصية النمط. |
-| [RGBColor](./rgbcolor/) | يتم استخدام واجهة RGBColor لتمثيل أي قيمة ألوان RGB. تعكس هذه الواجهة القيم الموجودة في خاصية النمط الأساسية. ومن ثم ، فإن التعديلات التي تم إجراؤها على كائنات CSSPrimitiveValue تعدل خاصية النمط. |
-## واجهات
+| [Counter](./counter/) | تُستخدم واجهة Counter لتمثيل أي قيمة عدّاد أو قيمة دالة counters. تعكس هذه الواجهة القيم في خاصية النمط الأساسية. |
+| [CSSPrimitiveValue](./cssprimitivevalue/) | تمثل واجهة CSSPrimitiveValue قيمة CSS واحدة. يمكن استخدام هذه الواجهة لتحديد قيمة خاصية نمط معينة تم تعيينها حاليًا في كتلة أو لتعيين خاصية نمط معينة صراحةً داخل الكتلة. يمكن الحصول على مثال من هذه الواجهة عبر طريقة getPropertyCSSValue في واجهة CSSStyleDeclaration. لا يظهر كائن CSSPrimitiveValue إلا في سياق خاصية CSS. |
+| [CSSValue](./cssvalue/) | يمثل قيمة بسيطة أو مركبة. لا يظهر كائن CSSValue إلا في سياق خاصية CSS. |
+| [CSSValueList](./cssvaluelist/) | توفر واجهة CSSValueList تجريد مجموعة مرتبة من قيم CSS. |
+| [Rect](./rect/) | تُستخدم واجهة Rect لتمثيل أي قيمة rect. تعكس هذه الواجهة القيم في خاصية النمط الأساسية. وبالتالي، فإن التعديلات التي تُجرى على كائنات CSSPrimitiveValue تُعدّل خاصية النمط. |
+| [RGBColor](./rgbcolor/) | تُستخدم واجهة RGBColor لتمثيل أي قيمة لون RGB. تعكس هذه الواجهة القيم في خاصية النمط الأساسية. وبالتالي، فإن التعديلات التي تُجرى على كائنات CSSPrimitiveValue تُعدّل خاصية النمط. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [ICSS2Properties](./icss2properties/) | يوفر واجهة لخصائص CSS2 وتعيين القيم في سياق عنصر HTML معين |
-| [ICSSCharsetRule](./icsscharsetrule/) | تمثل واجهة CSSCharsetRule قاعدةcharset في ورقة أنماط CSS. لا تؤثر قيمة سمة الترميز على ترميز البيانات النصية في كائنات DOM ؛ هذا الترميز دائمًا هو UTF-16. بعد تحميل ورقة الأنماط ، تكون قيمة سمة الترميز هي القيمة الموجودة في قاعدةcharset. إذا لم يكن هناكcharset في المستند الأصلي ، فلن يتم إنشاء CSSCharsetRule. يمكن أيضًا استخدام قيمة سمة التشفير كتلميح للتشفير المستخدم في إنشاء تسلسل لورقة الأنماط. |
-| [ICSSCounterStyleRule](./icsscounterstylerule/) | تسمح قاعدة @ counter-style للمؤلفين بتعريف نمط عداد مخصص. |
-| [ICSSFontFaceRule](./icssfontfacerule/) | تمثل واجهة CSSFontFaceRule قاعدة @ font-face في ورقة أنماط CSS. تُستخدم قاعدة @ font-face للاحتفاظ بمجموعة من أوصاف الخط. |
-| [ICSSImportRule](./icssimportrule/) | تمثل واجهة CSSImportRule قاعدةimport داخل ورقة أنماط CSS. تُستخدم قاعدةimport لاستيراد قواعد الأنماط من أوراق الأنماط الأخرى. |
+| [ICSS2Properties](./icss2properties/) | توفر واجهة للتلاعب بقيم مجموعة خصائص CSS2 في سياق عنصر HTML معين |
+| [ICSSCharsetRule](./icsscharsetrule/) | تمثل واجهة CSSCharsetRule قاعدة @charset في ورقة أنماط CSS. لا يؤثر قيمة سمة الترميز على ترميز بيانات النص في كائنات DOM؛ هذا الترميز دائمًا UTF-16. بعد تحميل ورقة الأنماط، تكون قيمة سمة الترميز هي القيمة الموجودة في قاعدة @charset. إذا لم توجد قاعدة @charset في المستند الأصلي، فلن يتم إنشاء CSSCharsetRule. قد تُستخدم قيمة سمة الترميز أيضًا كإشارة للترميز المستخدم عند تسلسل ورقة الأنماط. |
+| [ICSSCounterStyleRule](./icsscounterstylerule/) | تسمح قاعدة @counter-style للمؤلفين بتعريف نمط عدّاد مخصص. |
+| [ICSSFontFaceRule](./icssfontfacerule/) | تمثل واجهة CSSFontFaceRule قاعدة @font-face في ورقة أنماط CSS. تُستخدم قاعدة @font-face للاحتفاظ بمجموعة من أوصاف الخطوط. |
+| [ICSSImportRule](./icssimportrule/) | تمثل واجهة CSSImportRule قاعدة @import داخل ورقة أنماط CSS. تُستخدم قاعدة @import لاستيراد قواعد الأنماط من أوراق أنماط أخرى. |
 | [ICSSKeyframeRule](./icsskeyframerule/) | تمثل واجهة CSSKeyframeRule قاعدة النمط لمفتاح واحد. |
-| [ICSSKeyframesRule](./icsskeyframesrule/) | تمثل واجهة CSSKeyframesRule مجموعة كاملة من الإطارات الرئيسية لرسوم متحركة واحد |
-| [ICSSMarginRule](./icssmarginrule/) | تمثل واجهة CSSMarginRule هامشًا في القاعدة . |
-| [ICSSMediaRule](./icssmediarule/) | تمثل واجهة CSSMediaRule قاعدةmedia في ورقة أنماط CSS. يمكن استخدام قاعدةmedia لتحديد قواعد الأنماط لأنواع وسائط معينة. |
-| [ICSSPageRule](./icsspagerule/) | تمثل واجهة CSSPageRule قاعدة @ صفحة داخل ورقة أنماط CSS. تُستخدم القاعدةpage لتحديد الأبعاد والاتجاه والهوامش وما إلى ذلك لمربع الصفحة للوسائط المقسمة إلى صفحات. |
-| [ICSSRule](./icssrule/) | واجهة CSSRule هي الواجهة الأساسية المجردة لأي نوع من عبارات CSS. يتضمن هذا كلاً من مجموعات القواعد و at-rules. من المتوقع أن يحافظ التطبيق على جميع القواعد المحددة في ورقة أنماط CSS ، حتى إذا لم يتعرف المحلل اللغوي على القاعدة. يتم تمثيل القواعد غير المعترف بها باستخدام!:ICSSUnknownRule الواجهة . |
-| [ICSSRuleList](./icssrulelist/) | توفر واجهة CSSRuleList تجريدًا لمجموعة مرتبة من قواعد CSS. |
-| [ICSSStyleDeclaration](./icssstyledeclaration/) | تمثل واجهة CSSStyleDeclusion كتلة إعلان CSS واحدة. يمكن استخدام هذه الواجهة لتحديد خصائص النمط المعينة حاليًا في كتلة أو لتعيين خصائص النمط بشكل صريح داخل الكتلة. |
-| [ICSSStyleRule](./icssstylerule/) | تمثل واجهة CSSStyleRule قاعدة واحدة تم تعيينها في ورقة أنماط CSS. |
-| [ICSSStyleSheet](./icssstylesheet/) | واجهة CSSStyleSheet هي واجهة ملموسة تستخدم لتمثيل ورقة أنماط CSS ، أي ورقة أنماط يكون نوع محتواها "text / css" . |
-| [ICSSUnknownRule](./icssunknownrule/) | تمثل واجهة CSSUnknownRule قاعدة عامة لا يدعمها وكيل المستخدم هذا. |
-| [ICSSValueList](./icssvaluelist/) | توفر الواجهة تجريدًا لمجموعة مرتبة من قيم CSS. |
-| [IDocumentCSS](./idocumentcss/) | تمثل هذه الواجهة مستندًا باستخدام طريقة عرض CSS . |
-| [IDocumentStyle](./idocumentstyle/) | توفر واجهة DocumentStyle آلية يمكن من خلالها استرداد أوراق الأنماط المضمنة في المستند. التوقع هو أنه يمكن الحصول على مثيل لواجهة DocumentStyle باستخدام طرق صب خاصة بالربط على مثيل لواجهة Document. |
-| [IElementCSSInlineStyle](./ielementcssinlinestyle/) | يتم عرض معلومات النمط المضمنة المرفقة بالعناصر من خلال سمة النمط. يمثل هذا محتويات سمة STYLE لعناصر HTML (أو عناصر في مخططات أو DTD أخرى تستخدم سمة STYLE بنفس الطريقة). |
-| [ILinkStyle](./ilinkstyle/) | توفر واجهة LinkStyle آلية يمكن من خلالها استرداد ورقة الأنماط من العقدة المسؤولة عن ربطها بمستند. يمكن الحصول على مثيل لواجهة LinkStyle باستخدام طرق الصب الخاصة بالربط على مثيل لعقدة ربط (HTMLLinkElement أو HTMLStyleElement أو ProcessingInstruction في DOM Level 2) . |
-| [IMediaList](./imedialist/) | توفر واجهة MediaList تجريدًا لمجموعة مرتبة من الوسائط ، بدون تعريف أو تقييد كيفية تنفيذ هذه المجموعة. القائمة الفارغة هي نفس القائمة التي تحتوي على الوسيط "الكل". |
-| [IStyleSheet](./istylesheet/) | واجهة StyleSheet هي الواجهة الأساسية المجردة لأي نوع من أوراق الأنماط. إنها تمثل ورقة نمط واحدة مرتبطة بمستند منظم. |
+| [ICSSKeyframesRule](./icsskeyframesrule/) | تمثل واجهة CSSKeyframesRule مجموعة كاملة من إطارات المفاتيح (keyframes) لتصميم واحد. |
+| [ICSSMarginRule](./icssmarginrule/) | واجهة CSSMarginRule تمثل قاعدة at-rule للهوامش. |
+| [ICSSMediaRule](./icssmediarule/) | واجهة CSSMediaRule تمثل قاعدة @media في ورقة أنماط CSS. يمكن استخدام قاعدة @media لتحديد قواعد الأنماط لأنواع وسائط محددة. |
+| [ICSSPageRule](./icsspagerule/) | واجهة CSSPageRule تمثل قاعدة @page داخل ورقة أنماط CSS. تُستخدم قاعدة @page لتحديد الأبعاد، الاتجاه، الهوامش، إلخ، لصندوق الصفحة للوسائط المصفحة. |
+| [ICSSRule](./icssrule/) | واجهة CSSRule هي الواجهة الأساسية المجردة لأي نوع من عبارات CSS. وهذا يشمل مجموعات القواعد وat-rules. من المتوقع أن تحتفظ أي تنفيذ بجميع القواعد المحددة في ورقة أنماط CSS، حتى إذا لم يتعرف المحلل على القاعدة. القواعد غير المعروفة يتم تمثيلها باستخدام واجهة ICSSUnknownRule. |
+| [ICSSRuleList](./icssrulelist/) | واجهة CSSRuleList توفر تجريد مجموعة مرتبة من قواعد CSS. |
+| [ICSSStyleDeclaration](./icssstyledeclaration/) | واجهة CSSStyleDeclaration تمثل كتلة إعلان CSS واحدة. يمكن استخدام هذه الواجهة لتحديد خصائص النمط الحالية في الكتلة أو لتعيين خصائص النمط صراحةً داخل الكتلة. |
+| [ICSSStyleRule](./icssstylerule/) | واجهة CSSStyleRule تمثل مجموعة قواعد واحدة في ورقة أنماط CSS. |
+| [ICSSStyleSheet](./icssstylesheet/) | واجهة CSSStyleSheet هي واجهة ملموسة تُستخدم لتمثيل ورقة أنماط CSS، أي ورقة أنماط يكون نوع محتواها "text/css". |
+| [ICSSUnknownRule](./icssunknownrule/) | واجهة CSSUnknownRule تمثل at-rule غير مدعومة من قبل هذا وكيل المستخدم. |
+| [ICSSValueList](./icssvaluelist/) | الواجهة توفر تجريد مجموعة مرتبة من قيم CSS. |
+| [IDocumentCSS](./idocumentcss/) | هذه الواجهة تمثل مستندًا مع عرض CSS. |
+| [IDocumentStyle](./idocumentstyle/) | واجهة DocumentStyle توفر آلية يمكن من خلالها استرجاع أوراق الأنماط المدمجة في مستند. المتوقع هو أنه يمكن الحصول على مثال من واجهة DocumentStyle باستخدام طرق التحويل الخاصة بالربط على مثال من واجهة Document. |
+| [IElementCSSInlineStyle](./ielementcssinlinestyle/) | معلومات النمط المضمنة المرتبطة بالعناصر تُعرض عبر سمة style. هذا يمثل محتويات سمة STYLE لعناصر HTML (أو العناصر في مخططات أو DTDs أخرى التي تستخدم سمة STYLE بنفس الطريقة). |
+| [ILinkStyle](./ilinkstyle/) | توفر واجهة LinkStyle آلية يمكن من خلالها استرجاع ورقة الأنماط من العقدة المسؤولة عن ربطها بالمستند. يمكن الحصول على مثال من واجهة LinkStyle باستخدام طرق التحويل الخاصة بالربط على مثال لعقدة الربط (HTMLLinkElement، HTMLStyleElement أو ProcessingInstruction في DOM Level 2). |
+| [IMediaList](./imedialist/) | توفر واجهة MediaList تجريدًا لمجموعة مرتبة من الوسائط، دون تعريف أو تقييد طريقة تنفيذ هذه المجموعة. القائمة الفارغة هي نفسها القائمة التي تحتوي على الوسيط "all". |
+| [IStyleSheet](./istylesheet/) | واجهة StyleSheet هي الواجهة الأساسية المجردة لأي نوع من أوراق الأنماط. تمثل ورقة نمط واحدة مرتبطة بمستند منظم. |
 | [IStyleSheetList](./istylesheetlist/) | توفر واجهة StyleSheetList تجريدًا لمجموعة مرتبة من أوراق الأنماط. |
-| [IViewCSS](./iviewcss/) | تمثل هذه الواجهة طريقة عرض CSS . |
-## تعداد
+| [IViewCSS](./iviewcss/) | تمثل هذه الواجهة عرض CSS. |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [CSSEngineMode](./cssenginemode/) | يحدد CSS وضع المحرك |
-
-
+| [CSSEngineMode](./cssenginemode/) | يحدد وضع CSSEngine |

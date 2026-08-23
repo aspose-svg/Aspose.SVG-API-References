@@ -1,23 +1,21 @@
 ---
-title: ImageVectorizerConfiguration.ImageVectorizerConfiguration
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageVectorizerConfiguration البناء. يقوم بتهيئة مثيل جديد لملفImageVectorizerConfiguration فئة .
+title: "ImageVectorizerConfiguration"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ImageVectorizerConfiguration. يهيئ مثالًا جديدًا من فئة ImageVectorizerConfiguration."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/imagevectorizerconfiguration/
 ---
 ## ImageVectorizerConfiguration constructor
 
-يقوم بتهيئة مثيل جديد لملف[`ImageVectorizerConfiguration`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`ImageVectorizerConfiguration`](../).
 
 ```csharp
 public ImageVectorizerConfiguration()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageVectorizerConfiguration](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

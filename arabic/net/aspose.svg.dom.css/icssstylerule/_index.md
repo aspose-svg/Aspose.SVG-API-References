@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSStyleRule
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSStyleRule واجهه المستخدم. تمثل واجهة CSSStyleRule قاعدة واحدة تم تعيينها في ورقة أنماط CSS.
+title: "واجهة ICSSStyleRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Css.ICSSStyleRule. تمثل واجهة CSSStyleRule مجموعة قواعد واحدة في ورقة أنماط CSS."
 type: docs
-weight: 650
+weight: 2650
 url: /ar/net/aspose.svg.dom.css/icssstylerule/
 ---
 ## ICSSStyleRule interface
 
-تمثل واجهة CSSStyleRule قاعدة واحدة تم تعيينها في ورقة أنماط CSS.
+واجهة CSSStyleRule تمثل مجموعة قواعد واحدة في ورقة أنماط CSS.
 
 ```csharp
 public interface ICSSStyleRule : ICSSRule
@@ -16,15 +16,13 @@ public interface ICSSStyleRule : ICSSRule
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SelectorText](../../aspose.svg.dom.css/icssstylerule/selectortext/) { get; } | التمثيل النصي للمحدد لمجموعة القواعد. قد يكون التطبيق قد جرد المسافات البيضاء غير المهمة أثناء تحليل المحدد. |
-| [Style](../../aspose.svg.dom.css/icssstylerule/style/) { get; } | كتلة الإعلان لمجموعة القواعد هذه. |
+| [SelectorText](../../aspose.svg.dom.css/icssstylerule/selectortext/) { get; } | التمثيل النصي للمحدد الخاص بمجموعة القواعد. قد تكون التنفيذ قد أزال الفراغات غير المهمة أثناء تحليل المحدد. |
+| [Style](../../aspose.svg.dom.css/icssstylerule/style/) { get; } | كتلة التصريح لهذه مجموعة القواعد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../icssrule/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

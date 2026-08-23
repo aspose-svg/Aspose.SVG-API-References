@@ -1,23 +1,21 @@
 ---
-title: DOMObject.DOMObject
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMObject البناء. Default_Constructor
+title: "DOMObject"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ DOMObject. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/domobject/domobject/
 ---
 ## DOMObject constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public DOMObject()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domobject/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

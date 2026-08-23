@@ -1,33 +1,31 @@
 ---
-title: Color.Convert
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع مكونات اللون بتنسيق نموذج اللون المحدد.
+title: "Color.Convert"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color Convert. تُرجع مكوّنات اللون بالتنسيق الخاص بنموذج اللون المحدد"
 type: docs
 weight: 290
 url: /ar/net/aspose.svg.drawing/color/convert/
 ---
 ## Color.Convert method
 
-إرجاع مكونات اللون بتنسيق نموذج اللون المحدد.
+يرجع مكونات اللون بالتنسيق الخاص بنموذج اللون المحدد.
 
 ```csharp
 public IColorComponents Convert(ColorModel model)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | model | ColorModel | نموذج اللون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`IColorComponents`](../../icolorcomponents/) واجهه المستخدم
+مثيل جديد من الواجهة [`IColorComponents`](../../icolorcomponents/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorComponents](../../icolorcomponents/)
 * enum [ColorModel](../../colormodel/)
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

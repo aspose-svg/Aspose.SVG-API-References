@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_DIFFERENCE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEBlendElement مجال. يتوافق مع فرق القيمة .
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_DIFFERENCE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FEBLEND_MODE_DIFFERENCE في SVGFEBlendElement. يتطابق مع القيمة difference"
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_difference/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_DIFFERENCE field
 
-يتوافق مع "فرق" القيمة .
+يتطابق مع القيمة 'difference'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_DIFFERENCE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEBlendElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeblendelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

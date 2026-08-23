@@ -1,64 +1,62 @@
 ---
-title: PlatformException.PlatformException
-second_title: Aspose.SVG لمرجع .NET API
-description: PlatformException البناء. يقوم بتهيئة مثيل جديد لملفPlatformException فئة .
+title: "PlatformException"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ PlatformException. يهيئ مثيلاً جديداً من فئة PlatformException"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PlatformException`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`PlatformException`](../).
 
 ```csharp
 public PlatformException()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlatformException](../)
-* مساحة الاسم [Aspose.Svg](../../platformexception/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string) {#constructor_1}
+## PlatformException(*string*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PlatformException`](../) فئة برسالة خطأ محددة.
+يهيئ مثيلاً جديداً من الفئة [`PlatformException`](../) برسالة خطأ محددة.
 
 ```csharp
 public PlatformException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة التي تصف الخطأ. |
+| رسالة | String | الرسالة التي تصف الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlatformException](../)
-* مساحة الاسم [Aspose.Svg](../../platformexception/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string, Exception) {#constructor_2}
+## PlatformException(*string, Exception*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`PlatformException`](../) فئة مع رسالة خطأ محددة ومرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلاً جديداً من الفئة [`PlatformException`](../) برسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public PlatformException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي توضح سبب الاستثناء. |
-| innerException | Exception | الاستثناء هو سبب الاستثناء الحالي ، أو مرجع فارغ إذا لم يتم تحديد استثناء داخلي. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
+| innerException | استثناء | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة إذا لم يتم تحديد استثناء داخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlatformException](../)
-* مساحة الاسم [Aspose.Svg](../../platformexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

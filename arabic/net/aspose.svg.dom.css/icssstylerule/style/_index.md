@@ -1,24 +1,22 @@
 ---
-title: ICSSStyleRule.Style
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleRule ملكية. كتلة الإعلان لمجموعة القواعد هذه.
+title: "ICSSStyleRule.Style"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSSStyleRule Style. كتلة الإعلان لهذه مجموعة القواعد."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/icssstylerule/style/
 ---
 ## ICSSStyleRule.Style property
 
-كتلة الإعلان لمجموعة القواعد هذه.
+كتلة التصريح لهذه مجموعة القواعد.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSStyleRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstylerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

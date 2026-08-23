@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.GetEnumerator
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValueList طريقة. إرجاع عداد يتكرر خلال المجموعة.
+title: "CSSValueList.GetEnumerator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSValueList GetEnumerator. تُعيد عدّادًا يتنقل عبر المجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.css/cssvaluelist/getenumerator/
 ---
 ## CSSValueList.GetEnumerator method
 
-إرجاع عداد يتكرر خلال المجموعة.
+يرجع كائن enumerator يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<CSSValue> GetEnumerator()
@@ -16,13 +16,11 @@ public IEnumerator<CSSValue> GetEnumerator()
 
 ### قيمة الإرجاع
 
-أIEnumerator التي يمكن استخدامها للتكرار من خلال المجموعة.
+مُعدِّد IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

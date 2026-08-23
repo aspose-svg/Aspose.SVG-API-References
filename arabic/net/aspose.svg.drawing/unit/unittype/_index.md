@@ -1,28 +1,26 @@
 ---
-title: Unit.UnitType
-second_title: Aspose.SVG لمرجع .NET API
-description: Unit ملكية. يحصل على نوع الوحدة لملفUnit .
+title: "Unit.UnitType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Unit UnitType property. تحصل على نوع الوحدة للـ Unit"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
 
-يحصل على نوع الوحدة لملف[`Unit`](../) .
+تحصل على نوع الوحدة للـ [`Unit`](../).
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الوحدة .
+نوع الوحدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

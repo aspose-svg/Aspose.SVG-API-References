@@ -1,28 +1,26 @@
 ---
-title: SVGEllipseElement.Ry
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGEllipseElement ملكية. يتوافق مع السمة ry في عنصر الدائرة المحدد .
+title: "SVGEllipseElement.Ry"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Ry لعنصر SVGEllipseElement. تتطابق مع السمة ry على العنصر circle المعطى."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgellipseelement/ry/
 ---
 ## SVGEllipseElement.Ry property
 
-يتوافق مع السمة "ry" في عنصر "الدائرة" المحدد .
+يتطابق مع السمة ‘ry’ على عنصر ‘circle’ المعطى.
 
 ```csharp
 public SVGAnimatedLength Ry { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "ry" لعنصر "الدائرة" المحدد .
+السمة ‘ry’ للعنصر ‘circle’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgellipseelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Domain
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGDocument ملكية. اسم المجال للخادم الذي خدم المستند  أو سلسلة فارغة إذا تعذر تحديد الخادم باسم المجال.
+title: "SVGDocument.Domain"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGDocument.Domain. اسم النطاق للخادم الذي قدم المستند أو سلسلة فارغة (null) إذا تعذر تحديد الخادم باسم نطاق."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgdocument/domain/
 ---
 ## SVGDocument.Domain property
 
-اسم المجال للخادم الذي خدم المستند ، أو سلسلة فارغة إذا تعذر تحديد الخادم باسم المجال.
+اسم النطاق الخاص بالخادم الذي قدم المستند، أو سلسلة فارغة إذا تعذر تحديد الخادم بواسطة اسم نطاق.
 
 ```csharp
 public string Domain { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المجال.
+النطاق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

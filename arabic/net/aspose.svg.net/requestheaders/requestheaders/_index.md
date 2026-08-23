@@ -1,23 +1,21 @@
 ---
-title: RequestHeaders.RequestHeaders
-second_title: Aspose.SVG لمرجع .NET API
-description: RequestHeaders البناء. Default_Constructor
+title: "RequestHeaders"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "المُنشئ RequestHeaders. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/requestheaders/requestheaders/
 ---
 ## RequestHeaders constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public RequestHeaders()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RequestHeaders](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestheaders/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

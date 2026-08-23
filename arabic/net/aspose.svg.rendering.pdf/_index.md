@@ -1,24 +1,22 @@
 ---
-title: Aspose.Svg.Rendering.Pdf
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Rendering.Pdfتوفر مساحة الاسم فئة جهاز محددة بالإضافة إلى عدد قليل من خيارات العرض class المسؤولة عن التقديم إلى مستند pdf.
+title: "Aspose.Svg.Rendering.Pdf"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تقدم مساحة الاسم Aspose.Svg.Rendering.Pdf فئة جهاز محددة بالإضافة إلى عدد قليل من فئات خيارات العرض المسؤولة عن العرض إلى مستند pdf."
 type: docs
-weight: 270
+weight: 290
 url: /ar/net/aspose.svg.rendering.pdf/
 ---
-ملف **Aspose.Svg.Rendering.Pdf**توفر مساحة الاسم فئة جهاز محددة بالإضافة إلى عدد قليل من خيارات العرض class المسؤولة عن التقديم إلى مستند pdf.
+توفر مساحة الاسم **Aspose.Svg.Rendering.Pdf** فئة جهاز محددة وعددًا قليلًا من فئات خيارات العرض المسؤولة عن العرض إلى مستند PDF.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [PdfDevice](./pdfdevice/) | يمثل التقديم إلى مستند pdf . |
-| [PdfDocumentInfo](./pdfdocumentinfo/) | يمثل المعلومات حول مستند PDF . |
-| [PdfRenderingOptions](./pdfrenderingoptions/) | يمثل خيارات التقديم لـ[`PdfDevice`](../aspose.svg.rendering.pdf/pdfdevice/) . |
-## تعداد
+| [PdfDevice](./pdfdevice/) | يمثل العرض إلى مستند pdf. |
+| [PdfDocumentInfo](./pdfdocumentinfo/) | يمثل المعلومات حول مستند PDF. |
+| [PdfRenderingOptions](./pdfrenderingoptions/) | يمثل خيارات العرض لـ [`PdfDevice`](../aspose.svg.rendering.pdf/pdfdevice/). |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [FormFieldBehaviour](./formfieldbehaviour/) | يتم استخدام هذا التعداد لتحديد سلوك حقول النموذج في مستند PDF الناتج. |
-
-
+| [FormFieldBehaviour](./formfieldbehaviour/) | يُستخدم هذا التعداد لتحديد سلوك حقول النموذج في مستند PDF الناتج. |

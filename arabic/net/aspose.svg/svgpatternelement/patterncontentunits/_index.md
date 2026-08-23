@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternContentUnits
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPatternElement ملكية. يتوافق مع السمة patternContentUnits على عنصر النمط المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
+title: "SVGPatternElement.PatternContentUnits"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PatternContentUnits في SVGPatternElement. تتطابق مع السمة patternContentUnits في عنصر pattern المحدد. تأخذ واحدة من الثوابت المعرفة في SVGUnitTypes"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgpatternelement/patterncontentunits/
 ---
 ## SVGPatternElement.PatternContentUnits property
 
-يتوافق مع السمة "patternContentUnits" على عنصر "النمط" المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
+يتطابق مع السمة ‘patternContentUnits’ في عنصر ‘pattern’ المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration PatternContentUnits { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "patternContentUnits" لعنصر "النمط" المحدد .
+السمة ‘patternContentUnits’ للعنصر ‘pattern’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGPatternElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpatternelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

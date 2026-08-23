@@ -1,28 +1,26 @@
 ---
-title: SVGFEMergeElement.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEMergeElement ملكية. يتوافق مع السمة y في عنصر عامل التصفية المحدد .
+title: "SVGFEMergeElement.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGFEMergeElement Y property. تتطابق مع السمة y في عنصر الفلتر المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.filters/svgfemergeelement/y/
 ---
 ## SVGFEMergeElement.Y property
 
-يتوافق مع السمة "y" في عنصر "عامل التصفية" المحدد .
+يتطابق مع السمة ‘y’ في عنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "y" لعنصر "التصفية" المحدد .
+السمة ‘y’ للعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEMergeElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfemergeelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

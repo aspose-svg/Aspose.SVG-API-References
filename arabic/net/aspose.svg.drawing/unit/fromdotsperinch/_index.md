@@ -1,32 +1,30 @@
 ---
-title: Unit.FromDotsPerInch
-second_title: Aspose.SVG لمرجع .NET API
-description: Unit طريقة. إرجاع أResolution يتم تمثيله بالنقاط في البوصة .
+title: "Unit.FromDotsPerInch"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Unit FromDotsPerInch. تُرجع كائن Resolution يُمثَّل بوحدات النقاط لكل بوصة"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.drawing/unit/fromdotsperinch/
 ---
 ## Unit.FromDotsPerInch method
 
-إرجاع أ[`Resolution`](../../resolution/) يتم تمثيله بالنقاط في البوصة .
+تُرجع كائنًا [`Resolution`](../../resolution/) يُمثَّل بوحدات النقاط لكل بوصة.
 
 ```csharp
 public static Resolution FromDotsPerInch(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة. |
+| القيمة | Double | القيمة. |
 
 ### قيمة الإرجاع
 
-يعود أ[`Resolution`](../../resolution/) هدف.
+تُرجع كائنًا [`Resolution`](../../resolution/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Resolution](../../resolution/)
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

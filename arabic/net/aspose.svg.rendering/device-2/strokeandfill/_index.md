@@ -1,27 +1,26 @@
 ---
-title: Device2.StrokeAndFill
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. ضربات وملء المسار الحالي. تنهي هذه الطريقة المسار الحالي.
+title: "Device-2.StrokeAndFill"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device StrokeAndFill. تقوم برسم وتعبئة المسار الحالي. هذه الطريقة تنهي المسار الحالي"
 type: docs
-weight: 230
+weight: 260
 url: /ar/net/aspose.svg.rendering/device-2/strokeandfill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeAndFill method
+## Device<TGraphicContext,TRenderingOptions>.StrokeAndFill method
 
-ضربات وملء المسار الحالي. تنهي هذه الطريقة المسار الحالي.
+يرسم ويملأ المسار الحالي. تنهي هذه الطريقة المسار الحالي.
 
 ```csharp
-public abstract void StrokeAndFill(FillMode mode)
+public virtual void StrokeAndFill(FillRule rule)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| mode | FillMode | يحدد وضع التعبئة كيفية تعبئة الجزء الداخلي من المسار المغلق. |
+| قاعدة | FillRule | قاعدة التعبئة تحدد كيفية ملء داخل مسار مغلق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

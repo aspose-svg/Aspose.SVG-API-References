@@ -1,24 +1,22 @@
 ---
-title: FontsSettings.FontMatcher
-second_title: Aspose.SVG لمرجع .NET API
-description: FontsSettings ملكية. الحصول على أو تعيين الفئة التي تتيح لك التحكم في بعض أجزاء خوارزمية مطابقة الخط.
+title: "FontsSettings.FontMatcher"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية FontsSettings FontMatcher. تحصل أو تعيّن الفئة التي تتيح لك التحكم في بعض أجزاء خوارزمية مطابقة الخطوط"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/fontssettings/fontmatcher/
 ---
 ## FontsSettings.FontMatcher property
 
-الحصول على أو تعيين الفئة التي تتيح لك التحكم في بعض أجزاء خوارزمية مطابقة الخط.
+يحصل أو يضبط الفئة التي تسمح لك بالتحكم في بعض أجزاء خوارزمية مطابقة الخطوط.
 
 ```csharp
 public FontMatcher FontMatcher { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontMatcher](../../../aspose.svg.rendering.fonts/fontmatcher/)
 * class [FontsSettings](../)
-* مساحة الاسم [Aspose.Svg](../../fontssettings/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

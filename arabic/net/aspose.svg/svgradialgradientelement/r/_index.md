@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.R
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGRadialGradientElement ملكية. يتوافق مع السمة r في عنصر التدرج الشعاعي المحدد.
+title: "SVGRadialGradientElement.R"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGRadialGradientElement R. تتطابق مع السمة r في عنصر radialGradient المعطى"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgradialgradientelement/r/
 ---
 ## SVGRadialGradientElement.R property
 
-يتوافق مع السمة "r" في عنصر "التدرج الشعاعي" المحدد.
+يتطابق مع السمة ‘r’ في عنصر ‘radialGradient’ المحدد.
 
 ```csharp
 public SVGAnimatedLength R { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "r" لعنصر "radialGradient" المحدد .
+السمة ‘r’ لعنصر ‘radialGradient’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgradialgradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

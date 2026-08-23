@@ -1,28 +1,26 @@
 ---
-title: Document.Children
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. إرجاع العناصر الفرعية .
+title: "Document.Children"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document Children. تُعيد العناصر الفرعية."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom/document/children/
 ---
 ## Document.Children property
 
-إرجاع العناصر الفرعية .
+يعيد العناصر الفرعية.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الأطفال .
+العناصر الفرعية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

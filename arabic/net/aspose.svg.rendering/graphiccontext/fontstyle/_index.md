@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.FontStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. تعيين نمط خط النص أو الحصول عليه.
+title: "GraphicContext.FontStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext FontStyle. يحدد أو يحصل على نمط خط النص."
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.svg.rendering/graphiccontext/fontstyle/
 ---
 ## GraphicContext.FontStyle property
 
-تعيين نمط خط النص أو الحصول عليه.
+يضبط أو يحصل على نمط خط النص.
 
 ```csharp
-public virtual FontStyle FontStyle { get; set; }
+public virtual WebFontStyle FontStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
+* enum [WebFontStyle](../../../aspose.svg.drawing/webfontstyle/)
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

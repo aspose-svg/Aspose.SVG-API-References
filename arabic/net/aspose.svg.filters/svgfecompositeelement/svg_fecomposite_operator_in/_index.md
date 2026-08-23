@@ -1,23 +1,21 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_IN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFECompositeElement مجال. يتوافق مع القيمة في .
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_IN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGFECompositeElement SVG_FECOMPOSITE_OPERATOR_IN. يتطابق مع القيمة in"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_in/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_IN field
 
-يتوافق مع القيمة "في" .
+يتطابق مع القيمة 'in'.
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_IN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFECompositeElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

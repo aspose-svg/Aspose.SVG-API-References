@@ -1,24 +1,22 @@
 ---
-title: Document.OnVolumeChange
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث لحدث OnVolumeChange أو تعيينه.
+title: "Document.OnVolumeChange"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnVolumeChange. يحصل أو يضبط معالج الحدث لحدث OnVolumeChange"
 type: docs
 weight: 770
 url: /ar/net/aspose.svg.dom/document/onvolumechange/
 ---
 ## Document.OnVolumeChange event
 
-الحصول على معالج الحدث لحدث OnVolumeChange أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnVolumeChange.
 
 ```csharp
 public event DOMEventHandler OnVolumeChange;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

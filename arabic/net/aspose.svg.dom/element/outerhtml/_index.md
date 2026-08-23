@@ -1,27 +1,25 @@
 ---
-title: Element.OuterHTML
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. إرجاع جزء من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المحددة.
+title: "Element.OuterHTML"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element OuterHTML. تُعيد جزءًا من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بعقد تم تحليلها من السلسلة المعطاة."
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.dom/element/outerhtml/
 ---
 ## Element.OuterHTML property
 
-إرجاع جزء من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المحددة.
+يعيد جزءًا من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المعطاة.
 
 ```csharp
 public string OuterHTML { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-HTML الخارجي .
+HTML الخارجي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

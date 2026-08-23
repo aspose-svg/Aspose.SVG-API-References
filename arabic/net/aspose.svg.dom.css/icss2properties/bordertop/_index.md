@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderTop
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية bordertop في CSS2.
+title: "ICSS2Properties.BorderTop"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties BorderTop خاصية. انظر تعريف خاصية border-top في CSS2"
 type: docs
 weight: 250
 url: /ar/net/aspose.svg.dom.css/icss2properties/bordertop/
 ---
 ## ICSS2Properties.BorderTop property
 
-راجع تعريف خاصية border-top في CSS2.
+انظر تعريف خاصية border-top في CSS2.
 
 ```csharp
 public string BorderTop { get; set; }
@@ -16,12 +16,10 @@ public string BorderTop { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الحد الأعلى
+خاصية border-top
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

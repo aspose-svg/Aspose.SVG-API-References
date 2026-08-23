@@ -1,32 +1,30 @@
 ---
-title: Frequency.op_Inequality
-second_title: Aspose.SVG لمرجع .NET API
-description: Frequency طريقة. تنفذ عامل التشغيل  .
+title: "Frequency.op_Inequality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Frequency op_Inequality. تنفذ المشغل"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.drawing/frequency/op_inequality/
 ---
 ## Frequency Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفّذ العامل !=.
 
 ```csharp
 public static bool operator !=(Frequency a, Frequency b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Frequency | المعلمة أ. |
-| b | Frequency | المعلمة ب. |
+| a | Frequency | المعامل a. |
+| b | Frequency | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Frequency](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../frequency/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع رمز تجزئة .
+title: "Color.GetHashCode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color GetHashCode. تُرجع رمز تجزئة"
 type: docs
 weight: 320
 url: /ar/net/aspose.svg.drawing/color/gethashcode/
 ---
 ## Color.GetHashCode method
 
-إرجاع رمز تجزئة .
+يعيد رمز تجزئة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-كود تجزئة.
+رمز تجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

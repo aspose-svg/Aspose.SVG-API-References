@@ -1,14 +1,14 @@
 ---
-title: Color.GetLuminosity
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لمعان اللون.
+title: "Color.GetLuminosity"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color GetLuminosity. تُعيد قيمة إضاءة للون"
 type: docs
 weight: 340
 url: /ar/net/aspose.svg.drawing/color/getluminosity/
 ---
 ## Color.GetLuminosity method
 
-إرجاع لمعان اللون.
+يعيد قيمة luminosity للون.
 
 ```csharp
 public float GetLuminosity()
@@ -16,12 +16,10 @@ public float GetLuminosity()
 
 ### قيمة الإرجاع
 
-لمعان اللون.
+إضاءة للون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

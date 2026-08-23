@@ -1,20 +1,20 @@
 ---
-title: ICSSRuleList.Item
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSRuleList ملكية. يُستخدم لاسترداد قاعدة CSS حسب عنصر الطريقة  http//www.w3.org/TR/DOMLevel2Style/css.htmlCSSCSSRuleList. يمثل الترتيب في هذه المجموعة ترتيب القواعد في ورقة أنماط CSS. إذا كان الفهرس أكبر من أو يساوي عدد القواعد في القائمة  فإن هذا يُرجع قيمة خالية.
+title: "ICSSRuleList.Item"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSSRuleList Item. تُستخدم لاسترجاع قاعدة CSS بواسطة الطريقة item http//www.w3.org/TR/DOM-Level-2-Style/css.htmlCSS-CSSRuleList. الترتيب في هذه المجموعة يمثل ترتيب القواعد في ورقة أنماط CSS. إذا كان الفهرس أكبر من أو يساوي عدد القواعد في القائمة فإنها تُعيد null"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icssrulelist/item/
 ---
 ## ICSSRuleList indexer
 
-يُستخدم لاسترداد قاعدة CSS حسب عنصر الطريقة () (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). يمثل الترتيب في هذه المجموعة ترتيب القواعد في ورقة أنماط CSS. إذا كان الفهرس أكبر من أو يساوي عدد القواعد في القائمة ، فإن هذا يُرجع قيمة خالية.
+يُستخدم لاسترجاع قاعدة CSS عبر الطريقة item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). يمثل الترتيب في هذه المجموعة ترتيب القواعد في ورقة أنماط CSS. إذا كان الفهرس أكبر من أو يساوي عدد القواعد في القائمة، تُعيد هذه القيمة فارغة (null).
 
 ```csharp
 public ICSSRule this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس القاعدة |
 
@@ -22,15 +22,13 @@ public ICSSRule this[int index] { get; }
 
 مثيل قاعدة CSS.
 
-### Property_Value
+### Property Value
 
-ملف[`ICSSRule`](../../icssrule/) .
+ال [`ICSSRule`](../../icssrule/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSRuleList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssrulelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,34 +1,32 @@
 ---
-title: Class UrlResolver
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.UrlResolver فصل. يمثل فئة الأداة المساعدة لحل عنوان URL المطلق بواسطة معرّف الموارد المنتظم URI .
+title: "فئة UrlResolver"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Net.UrlResolver. تمثل فئة مساعدة لحل عنوان URL المطلق بواسطة معرف الموارد الموحد URI."
 type: docs
-weight: 2470
+weight: 4540
 url: /ar/net/aspose.svg.net/urlresolver/
 ---
 ## UrlResolver class
 
-يمثل فئة الأداة المساعدة لحل عنوان URL المطلق بواسطة معرّف الموارد المنتظم (URI) .
+يمثل فئة مساعدة لحل عنوان URL المطلق بواسطة معرف الموارد الموحد (URI).
 
 ```csharp
 public class UrlResolver
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [UrlResolver](urlresolver/)() | Default_Constructor |
+| [UrlResolver](urlresolver/)() | المنشئ الافتراضي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Resolve](../../aspose.svg.net/urlresolver/resolve/)(string, string) | يحل URI المطلق من URI الأساسي والنسبي. |
+| virtual [Resolve](../../aspose.svg.net/urlresolver/resolve/)(*string, string*) | يقوم بحل URI المطلق من URI الأساسي والنسبي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

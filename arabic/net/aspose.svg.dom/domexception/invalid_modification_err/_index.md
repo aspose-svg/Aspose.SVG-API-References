@@ -1,23 +1,21 @@
 ---
-title: DOMException.INVALID_MODIFICATION_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. إذا جرت محاولة لتعديل نوع الكائن الأساسي.
+title: "DOMException.INVALID_MODIFICATION_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل DOMException INVALID_MODIFICATION_ERR. إذا تم محاولة تعديل نوع الكائن الأساسي"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.dom/domexception/invalid_modification_err/
 ---
 ## DOMException.INVALID_MODIFICATION_ERR field
 
-إذا جرت محاولة لتعديل نوع الكائن الأساسي.
+إذا تم محاولة تعديل نوع الكائن الأساسي.
 
 ```csharp
 public const ushort INVALID_MODIFICATION_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

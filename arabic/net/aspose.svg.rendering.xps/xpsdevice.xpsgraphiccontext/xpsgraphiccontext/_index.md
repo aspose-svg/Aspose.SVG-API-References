@@ -1,23 +1,21 @@
 ---
-title: XpsDevice.XpsGraphicContext.XpsGraphicContext
-second_title: Aspose.SVG لمرجع .NET API
-description: XpsGraphicContext البناء. Default_Constructor
+title: "XpsDevice.XpsGraphicContext.XpsGraphicContext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "XpsGraphicContext المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/xpsgraphiccontext/
 ---
 ## XpsDevice.XpsGraphicContext constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public XpsGraphicContext()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XpsGraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../xpsdevice.xpsgraphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

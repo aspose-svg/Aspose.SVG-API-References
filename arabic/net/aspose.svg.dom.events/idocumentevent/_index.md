@@ -1,32 +1,30 @@
 ---
-title: Interface IDocumentEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Events.IDocumentEvent واجهه المستخدم. ملفIDocumentEvent توفر الواجهة آلية يمكن للمستخدم من خلالها إنشاء ملفEvent من النوع الذي يدعمه التنفيذ .
+title: "واجهة IDocumentEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Events.IDocumentEvent. توفر واجهة IDocumentEvent آلية يمكن للمستخدم من خلالها إنشاء حدث من نوع يدعمه التنفيذ"
 type: docs
-weight: 940
+weight: 2940
 url: /ar/net/aspose.svg.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface
 
-ملف`IDocumentEvent` توفر الواجهة آلية يمكن للمستخدم من خلالها إنشاء ملف[`Event`](../event/) من النوع الذي يدعمه التنفيذ .
+توفر واجهة `IDocumentEvent` آلية يمكن للمستخدم من خلالها إنشاء [`Event`](../event/) من نوع يدعمه التنفيذ.
 
 ```csharp
 public interface IDocumentEvent
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(string) | ينشئ ملف[`Event`](../event/) من النوع الذي يدعمه التنفيذ . |
+| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(*string*) | ينشئ [`Event`](../event/) من نوع يدعمه التنفيذ. |
 
-### ملاحظات
+## ملاحظات
 
-من المتوقع أن يكون ملف`IDocumentEvent` سيتم تنفيذ الواجهة على نفس الكائن الذي يقوم بتنفيذ the [`Document`](../../aspose.svg.dom/document/) واجهة في تنفيذ تدعم نموذج الحدث.
+من المتوقع أن يتم تنفيذ واجهة `IDocumentEvent` على نفس الكائن الذي ينفذ واجهة [`Document`](../../aspose.svg.dom/document/) في تنفيذ يدعم نموذج الأحداث.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

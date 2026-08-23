@@ -1,32 +1,30 @@
 ---
-title: Interface IEventTarget
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Events.IEventTarget واجهه المستخدم. ملفEventTarget يتم تنفيذ الواجهة بواسطة جميع العقد في تطبيق يدعم نموذج حدث DOM . لذلك  يمكن الحصول على هذه الواجهة باستخدام طرق الصب الخاصة بالربط على مثيل لواجهة Node. تسمح الواجهة بتسجيل وإزالة مستمعي الأحداث على اEventTarget وإرسال الأحداث إلى ذلكIEventTarget .
+title: "واجهة IEventTarget"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Events.IEventTarget. يتم تنفيذ واجهة EventTarget بواسطة جميع العقد (Nodes) في تنفيذ يدعم نموذج أحداث DOM. لذلك يمكن الحصول على هذه الواجهة باستخدام أساليب التحويل الخاصة بالربط على مثيل من واجهة Node. تسمح الواجهة بتسجيل وإزالة مستمعي الأحداث على EventTarget وإرسال الأحداث إلى ذلك IEventTarget."
 type: docs
-weight: 960
+weight: 2960
 url: /ar/net/aspose.svg.dom.events/ieventtarget/
 ---
 ## IEventTarget interface
 
-ملف[`EventTarget`](../../aspose.svg.dom/eventtarget/) يتم تنفيذ الواجهة بواسطة جميع العقد في تطبيق يدعم نموذج حدث DOM . لذلك ، يمكن الحصول على هذه الواجهة باستخدام طرق الصب الخاصة بالربط على مثيل لواجهة Node. تسمح الواجهة بتسجيل وإزالة مستمعي الأحداث على ا[`EventTarget`](../../aspose.svg.dom/eventtarget/) وإرسال الأحداث إلى ذلك`IEventTarget` .
+The interface [`EventTarget`](../../aspose.svg.dom/eventtarget/) يتم تنفيذها من قبل جميع العقد في تنفيذ يدعم نموذج أحداث DOM. لذلك، يمكن الحصول على هذه الواجهة باستخدام طرق التحويل الخاصة بالربط على كائن من واجهة العقدة. تسمح الواجهة بالتسجيل وإزالة مستمعي الأحداث على [`EventTarget`](../../aspose.svg.dom/eventtarget/) وإرسال الأحداث إلى ذلك `IEventTarget`.
 
 ```csharp
 public interface IEventTarget
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener/#addeventlistener)(string, IEventListener) | تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث. |
-| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener/#addeventlistener_1)(string, IEventListener, bool) | تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث. |
-| [DispatchEvent](../../aspose.svg.dom.events/ieventtarget/dispatchevent/)(Event) | تسمح هذه الطريقة بإرسال الأحداث إلى نموذج حدث عمليات التنفيذ. |
-| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener/#removeeventlistener)(string, IEventListener) | تسمح هذه الطريقة بإزالة مستمعي الحدث من هدف الحدث. إذا كان[`IEventListener`](../ieventlistener/) تمت إزالته من ملف[`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجة حدث ، لن يتم تشغيله من خلال الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتها. |
-| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener/#removeeventlistener_1)(string, IEventListener, bool) | تسمح هذه الطريقة بإزالة مستمعي الحدث من هدف الحدث. إذا كان[`IEventListener`](../ieventlistener/) تمت إزالته من ملف[`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجة حدث ، لن يتم تشغيله من خلال الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتها. |
+| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener/#addeventlistener)(*string, [IEventListener](../ieventlistener/)*) | تسمح هذه الطريقة بتسجيل مستمعي الأحداث على هدف الحدث. |
+| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener/#addeventlistener_1)(*string, [IEventListener](../ieventlistener/), bool*) | تسمح هذه الطريقة بتسجيل مستمعي الأحداث على هدف الحدث. |
+| [DispatchEvent](../../aspose.svg.dom.events/ieventtarget/dispatchevent/)(*[Event](../event/)*) | تسمح هذه الطريقة بإرسال الأحداث إلى نموذج الأحداث الخاص بالتنفيذ. |
+| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener/#removeeventlistener)(*string, [IEventListener](../ieventlistener/)*) | تسمح هذه الطريقة بإزالة مستمعي الأحداث من هدف الحدث. إذا تم إزالة [`IEventListener`](../ieventlistener/) من [`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجة حدث، فلن يتم تشغيله بواسطة الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث أبداً بعد إزالتهم. |
+| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener/#removeeventlistener_1)(*string, [IEventListener](../ieventlistener/), bool*) | تسمح هذه الطريقة بإزالة مستمعي الأحداث من هدف الحدث. إذا تم إزالة [`IEventListener`](../ieventlistener/) من [`EventTarget`](../../aspose.svg.dom/eventtarget/) أثناء معالجة حدث، فلن يتم تشغيله بواسطة الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث أبداً بعد إزالتهم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

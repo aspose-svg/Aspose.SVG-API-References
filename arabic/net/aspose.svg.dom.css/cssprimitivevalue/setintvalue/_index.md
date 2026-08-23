@@ -1,28 +1,26 @@
 ---
-title: CSSPrimitiveValue.SetIntValue
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue طريقة. طريقة لتعيين قيمة int بوحدة محددة. إذا كانت الخاصية المرفقة بهذه القيمة لا تقبل الوحدة المحددة أو القيمة int  فلن تتغير القيمة وسيتم رفع استثناء DOM.
+title: "CSSPrimitiveValue.SetIntValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSPrimitiveValue SetIntValue. طريقة لتعيين قيمة int بوحدة محددة. إذا لم تستطع الخاصية المرتبطة بهذه القيمة قبول الوحدة المحددة أو قيمة int، ستبقى القيمة دون تغيير وسيتم رفع استثناء DOMException."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/setintvalue/
 ---
 ## CSSPrimitiveValue.SetIntValue method
 
-طريقة لتعيين قيمة int بوحدة محددة. إذا كانت الخاصية المرفقة بهذه القيمة لا تقبل الوحدة المحددة أو القيمة int ، فلن تتغير القيمة وسيتم رفع استثناء DOM.
+طريقة لتعيين قيمة int بوحدة محددة. إذا كانت الخاصية المرتبطة بهذه القيمة لا يمكنها قبول الوحدة المحددة أو قيمة int، فستظل القيمة دون تغيير وسيتم رفع استثناء DOMException.
 
 ```csharp
 public abstract void SetIntValue(ushort unitType, int intValue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | unitType | UInt16 | نوع الوحدة. |
 | intValue | Int32 | قيمة int. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

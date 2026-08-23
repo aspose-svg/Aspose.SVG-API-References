@@ -1,28 +1,26 @@
 ---
-title: ISVGFitToViewBox.ViewBox
-second_title: Aspose.SVG لمرجع .NET API
-description: ISVGFitToViewBox ملكية. يتوافق مع السمة viewBox في العنصر المحدد.
+title: "ISVGFitToViewBox.ViewBox"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ViewBox لعنصر ISVGFitToViewBox. تتطابق مع السمة viewBox على العنصر المعطى"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/isvgfittoviewbox/viewbox/
 ---
 ## ISVGFitToViewBox.ViewBox property
 
-يتوافق مع السمة "viewBox" في العنصر المحدد.
+يتطابق مع السمة ‘viewBox’ في العنصر المعطى.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Property_Value
+### Property Value
 
-"مربع العرض" الخاص بالعنصر المحدد.
+‘viewBox’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * interface [ISVGFitToViewBox](../)
-* مساحة الاسم [Aspose.Svg](../../isvgfittoviewbox/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

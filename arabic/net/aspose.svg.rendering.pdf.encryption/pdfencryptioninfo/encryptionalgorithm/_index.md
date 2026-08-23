@@ -1,28 +1,26 @@
 ---
-title: PdfEncryptionInfo.EncryptionAlgorithm
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfEncryptionInfo ملكية. الحصول على أو تحديد وضع التشفير.
+title: "PdfEncryptionInfo.EncryptionAlgorithm"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PdfEncryptionInfo EncryptionAlgorithm. يحصل أو يعيّن وضع التشفير"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/
 ---
 ## PdfEncryptionInfo.EncryptionAlgorithm property
 
-الحصول على أو تحديد وضع التشفير.
+يحصل أو يعيّن وضع التشفير.
 
 ```csharp
 public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-خوارزمية التشفير .
+خوارزمية التشفير.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

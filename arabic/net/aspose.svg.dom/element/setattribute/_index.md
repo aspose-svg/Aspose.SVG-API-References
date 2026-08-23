@@ -1,28 +1,26 @@
 ---
-title: Element.SetAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. إضافة سمة جديدة. إذا كانت السمة التي تحمل هذا الاسم موجودة بالفعل في العنصر  فسيتم تغيير قيمتها لتصبح قيمة معلمة القيمة
+title: "Element.SetAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Element SetAttribute method. تُضيف سمة جديدة. إذا كانت سمة بهذا الاسم موجودة بالفعل في العنصر، يتم تغيير قيمتها لتصبح قيمة معلمة value."
 type: docs
 weight: 400
 url: /ar/net/aspose.svg.dom/element/setattribute/
 ---
 ## Element.SetAttribute method
 
-إضافة سمة جديدة. إذا كانت السمة التي تحمل هذا الاسم موجودة بالفعل في العنصر ، فسيتم تغيير قيمتها لتصبح قيمة معلمة القيمة
+يضيف سمة جديدة. إذا كانت سمة بهذا الاسم موجودة بالفعل في العنصر، يتم تغيير قيمتها لتصبح قيمة المعامل value.
 
 ```csharp
-public void SetAttribute(string name, string value)
+public void SetAttribute(string qualifiedName, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة. |
-| value | String | القيمة. |
+| qualifiedName | String | اسم السمة. |
+| القيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,29 +1,35 @@
 ---
-title: Class MessageHandlerCollection
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.MessageHandlerCollection فصل. يمثل جمع ملفاتMessageHandler .
+title: "فئة MessageHandlerCollection"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.MessageHandlerCollection. تمثّل مجموعة من MessageHandler"
 type: docs
-weight: 2350
+weight: 4420
 url: /ar/net/aspose.svg.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
 
-يمثل جمع ملفات[`MessageHandler`](../messagehandler/) .
+تمثّل مجموعة من [`MessageHandler`](../messagehandler/).
 
 ```csharp
 public class MessageHandlerCollection : Collection<MessageHandler>
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MessageHandlerCollection](messagehandlercollection/)() | Default_Constructor |
+| [MessageHandlerCollection](messagehandlercollection/)() | المنشئ الافتراضي. |
 
-### أنظر أيضا
+## الخصائص
+
+| الاسم | الوصف |
+| --- | --- |
+| [Count](../../system.collections.objectmodel/collection-1/count/) { get; } |  |
+| [Item](../../system.collections.objectmodel/collection-1/item/) { get; set; } |  |
+| [Items](../../system.collections.objectmodel/collection-1/items/) { get; } |  |
+
+### انظر أيضًا
 
 * class [MessageHandler](../messagehandler/)
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_VMAX
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي نسبة مئوية من عرض أو ارتفاع منفذ العرض  أيهما أكبر.
+title: "CSSPrimitiveValue.CSS_VMAX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_VMAX. القيمة هي نسبة مئوية من عرض أو ارتفاع نافذة العرض، أيهما أكبر."
 type: docs
-weight: 430
+weight: 440
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_vmax/
 ---
 ## CSSPrimitiveValue.CSS_VMAX field
 
-القيمة هي نسبة مئوية من عرض أو ارتفاع منفذ العرض ، أيهما أكبر.
+القيمة هي نسبة مئوية من عرض أو ارتفاع العرض، أيهما أكبر.
 
 ```csharp
 public const ushort CSS_VMAX;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

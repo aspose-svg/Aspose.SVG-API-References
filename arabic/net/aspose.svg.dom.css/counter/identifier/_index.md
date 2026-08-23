@@ -1,27 +1,25 @@
 ---
-title: Counter.Identifier
-second_title: Aspose.SVG لمرجع .NET API
-description: Counter ملكية. يتم استخدام هذه السمة لمعرف العداد.
+title: "Counter.Identifier"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Counter Identifier. يتم استخدام هذه السمة لتحديد معرف العداد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/counter/identifier/
 ---
 ## Counter.Identifier property
 
-يتم استخدام هذه السمة لمعرف العداد.
+تُستخدم هذه السمة لتحديد معرّف العداد.
 
 ```csharp
 public string Identifier { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف العداد .
+معرف العداد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Counter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../counter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

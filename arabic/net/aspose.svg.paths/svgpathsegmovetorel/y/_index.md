@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegMovetoRel.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegMovetoRel ملكية. إحداثي Y النسبي لنقطة نهاية مقطع المسار هذا.
+title: "SVGPathSegMovetoRel.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSegMovetoRel Y. الإحداثي النسبي Y لنقطة النهاية لهذا مقطع المسار"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.paths/svgpathsegmovetorel/y/
 ---
 ## SVGPathSegMovetoRel.Y property
 
-إحداثي Y النسبي لنقطة نهاية مقطع المسار هذا.
+الإحداثي Y النسبي لنقطة النهاية لهذا مقطع المسار.
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيق Y النسبي
+الإحداثي النسبي Y
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegMovetoRel](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathsegmovetorel/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGException.Code
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGException ملكية. رمز يحدد سبب عدم تنفيذ العملية المطلوبة. ستكون قيمة هذا العضو أحد الثوابت في مجموعة التعليمات البرمجية SVGException.
+title: "SVGException.Code"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGException Code. رمز يحدد السبب الذي منع تنفيذ العملية المطلوبة. ستكون قيمة هذا العضو أحد الثوابت في مجموعة رموز SVGException."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgexception/code/
 ---
 ## SVGException.Code property
 
-رمز يحدد سبب عدم تنفيذ العملية المطلوبة. ستكون قيمة هذا العضو أحد الثوابت في مجموعة التعليمات البرمجية SVGException.
+رمز يحدد السبب الذي لم تُنفّذ العملية المطلوبة. ستكون قيمة هذا العضو واحدة من الثوابت في مجموعة رموز SVGException.
 
 ```csharp
 public ushort Code { get; }
 ```
 
-### Property_Value
+### Property Value
 
-رمز الخطأ .
+رمز الخطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGException](../)
-* مساحة الاسم [Aspose.Svg](../../svgexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

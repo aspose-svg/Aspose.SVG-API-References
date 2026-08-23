@@ -1,23 +1,21 @@
 ---
-title: Event.Cancelable
-second_title: Aspose.SVG لمرجع .NET API
-description: Event ملكية. يُستخدم للإشارة إلى ما إذا كان يمكن منع إجراء افتراضي لحدث أم لا. إذا كان من الممكن منع الإجراء الافتراضي  كانت القيمة صحيحة  وإلا تكون القيمة خاطئة.
+title: "Event.Cancelable"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Event Cancelable. تُستخدم لتحديد ما إذا كان يمكن منع الإجراء الافتراضي للحدث أم لا. إذا كان يمكن منع الإجراء الافتراضي تكون القيمة true وإلا تكون القيمة false"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.events/event/cancelable/
 ---
 ## Event.Cancelable property
 
-يُستخدم للإشارة إلى ما إذا كان يمكن منع إجراء افتراضي لحدث أم لا. إذا كان من الممكن منع الإجراء الافتراضي ، كانت القيمة صحيحة ، وإلا تكون القيمة خاطئة.
+يُستخدم لتحديد ما إذا كان يمكن منع الإجراء الافتراضي للحدث أم لا. إذا كان يمكن منع الإجراء الافتراضي تكون القيمة true، وإلا تكون القيمة false.
 
 ```csharp
 public bool Cancelable { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../event/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

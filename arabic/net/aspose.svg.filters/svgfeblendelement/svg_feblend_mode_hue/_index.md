@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_HUE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEBlendElement مجال. يتوافق مع قيمة hue .
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_HUE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FEBLEND_MODE_HUE في SVGFEBlendElement. يتطابق مع القيمة hue"
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_hue/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_HUE field
 
-يتوافق مع قيمة "hue" .
+يتطابق مع القيمة 'hue'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_HUE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEBlendElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeblendelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

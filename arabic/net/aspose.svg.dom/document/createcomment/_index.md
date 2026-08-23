@@ -1,32 +1,30 @@
 ---
-title: Document.CreateComment
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. يقوم بإنشاء عقدة تعليق بالنظر إلى السلسلة المحددة .
+title: "Document.CreateComment"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document CreateComment. تنشئ عقدة Comment بناءً على السلسلة المحددة."
 type: docs
 weight: 820
 url: /ar/net/aspose.svg.dom/document/createcomment/
 ---
 ## Document.CreateComment method
 
-يقوم بإنشاء عقدة تعليق بالنظر إلى السلسلة المحددة .
+ينشئ عقدة Comment بناءً على السلسلة المحددة.
 
 ```csharp
 public Comment CreateComment(string data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | String | بيانات التعليق. |
+| البيانات | String | بيانات التعليق. |
 
 ### قيمة الإرجاع
 
-ملف[`Comment`](../../comment/) .
+الـ [`Comment`](../../comment/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Comment](../../comment/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

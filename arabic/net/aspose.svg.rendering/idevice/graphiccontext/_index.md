@@ -1,24 +1,22 @@
 ---
-title: IDevice.GraphicContext
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice ملكية. يحصل على سياق الرسم .
+title: "IDevice.GraphicContext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IDevice GraphicContext. يحصل على سياق الرسومات"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering/idevice/graphiccontext/
 ---
 ## IDevice.GraphicContext property
 
-يحصل على سياق الرسم .
+يحصل على سياق الرسوم.
 
 ```csharp
 public GraphicContext GraphicContext { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../../graphiccontext/)
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Enum DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions تعداد. يحدد أنواع الاستراتيجيات لكتابة الصفحات في تدفق الإخراج  تدفقات.
+title: "DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions Enum"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions enum. يحدد أنواع الاستراتيجيات لكتابة الصفحات إلى تدفقات الإخراج."
 type: docs
-weight: 2760
+weight: 4840
 url: /ar/net/aspose.svg.rendering/device-2.pagewritingstrategy-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration
+## Device<TGraphicContext,TRenderingOptions>.PageWritingStrategy<TGraphicContext,TRenderingOptions> enumeration
 
-يحدد أنواع الاستراتيجيات لكتابة الصفحات في تدفق الإخراج \ تدفقات.
+يحدد أنواع الاستراتيجيات لكتابة الصفحات إلى تدفق\تدفقات الإخراج.
 
 ```csharp
 public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
@@ -16,19 +16,17 @@ public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
     where TRenderingOptions : RenderingOptions
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SingleStream | `0` | يكتب كل الصفحات في تدفق إخراج واحد. |
-| MultipleStreams | `1` | يكتب كل صفحة في التدفق الخاص بها. |
+| SingleStream | `0` | يكتب جميع الصفحات في تدفق إخراج واحد. |
+| MultipleStreams | `1` | يكتب كل صفحة في تدفق خاص بها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

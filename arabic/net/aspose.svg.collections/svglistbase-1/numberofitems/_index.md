@@ -1,27 +1,25 @@
 ---
-title: SVGListBase1.NumberOfItems
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGListBase ملكية. عدد العناصر في القائمة .
+title: "SVGListBase-1.NumberOfItems"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية NumberOfItems في SVGListBase. عدد العناصر في القائمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.collections/svglistbase-1/numberofitems/
 ---
-## SVGListBase&lt;T&gt;.NumberOfItems property
+## SVGListBase<T>.NumberOfItems property
 
-عدد العناصر في القائمة .
+عدد العناصر في القائمة.
 
 ```csharp
 public ulong NumberOfItems { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد العناصر .
+عدد العناصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGListBase&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../svglistbase-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

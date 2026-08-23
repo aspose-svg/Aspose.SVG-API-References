@@ -1,14 +1,14 @@
 ---
-title: Class Dimension
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.Dimension فصل. يوفر الفئة الأساسية للأبعاد. يشير المصطلح العام بُعد إلى رقم مرفق به وحدة  ويُشار إليه بالرمزUnitType .
+title: "فئة Dimension"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Drawing.Dimension. توفر الفئة الأساسية للأبعاد. المصطلح العام 'dimension' يشير إلى عدد مع وحدة مرفقة به ويتم الإشارة إليه بواسطة UnitType."
 type: docs
-weight: 1410
+weight: 3410
 url: /ar/net/aspose.svg.drawing/dimension/
 ---
 ## Dimension class
 
-يوفر الفئة الأساسية للأبعاد. يشير المصطلح العام "بُعد" إلى رقم مرفق به وحدة ، ويُشار إليه بالرمز[`UnitType`](../unittype/) .
+توفر الفئة الأساسية للأبعاد. المصطلح العام 'dimension' يشير إلى عدد مع وحدة مرفقة به، ويتم الإشارة إليه بواسطة [`UnitType`](../unittype/).
 
 ```csharp
 public abstract class Dimension : Numeric
@@ -16,27 +16,25 @@ public abstract class Dimension : Numeric
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة لملف[`Unit`](../unit/) . |
+| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة لـ [`Unit`](../unit/). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(Numeric) | يقارن المثيل الحالي بكائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كان المثيل الحالي يسبق أو يتبع أو يحدث في نفس الموضع في ترتيب الفرز مثل الكائن الآخر. |
-| override [Equals](../../aspose.svg.drawing/unit/equals/)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
-| override [Equals](../../aspose.svg.drawing/numeric/equals/)(Unit) | تحديد ما إذا كان الملف المحدد[`Unit`](../unit/) ، يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | يحصل على قيمة الوحدة . |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(UnitType) | الحصول على القيمة المحولة إلى القيمة المحددة[`UnitType`](../unittype/) . |
-| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(*[Numeric](../numeric/)*) | يقارن النسخة الحالية مع كائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كانت النسخة الحالية تسبق أو تتبع أو تقع في نفس الموضع في ترتيب الفرز مقارنةً بالكائن الآخر. |
+| override [Equals](../../aspose.svg.drawing/unit/equals/)(*object*) | يحدد ما إذا كان الكائن المحدد مساويًا لهذه الحالة. |
+| override [Equals](../../aspose.svg.drawing/numeric/equals/)(*[Unit](../unit/)*) | يحدد ما إذا كانت الـ [`Unit`](../unit/) المحددة مساوية لهذه النسخة. |
+| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | يرجع رمز تجزئة (hash code) لهذه الحالة. |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | يحصل على قيمة الوحدة. |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(*[UnitType](../unittype/)*) | يحصل على القيمة محوّلة إلى الـ [`UnitType`](../unittype/) المحدد. |
+| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../unit/)
 * class [Numeric](../numeric/)
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

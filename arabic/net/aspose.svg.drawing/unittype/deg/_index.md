@@ -1,23 +1,21 @@
 ---
-title: UnitType.Deg
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالدرجات .
+title: "UnitType.Deg"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Deg. القياس بالدرجات"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.drawing/unittype/deg/
 ---
 ## UnitType.Deg field
 
-القياس بالدرجات .
+القياس بالدرجات.
 
 ```csharp
 public static readonly UnitType Deg;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

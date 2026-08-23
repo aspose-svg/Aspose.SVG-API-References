@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.GetEnumerator
-second_title: Aspose.SVG لمرجع .NET API
-description: HTMLCollection طريقة. يحصل على العداد .
+title: "HTMLCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetEnumerator في HTMLCollection. تحصل على المُعدِّد"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.collections/htmlcollection/getenumerator/
 ---
 ## HTMLCollection.GetEnumerator method
 
-يحصل على العداد .
+يحصل على المُعدِّد.
 
 ```csharp
 public abstract IEnumerator<Element> GetEnumerator()
@@ -16,13 +16,11 @@ public abstract IEnumerator<Element> GetEnumerator()
 
 ### قيمة الإرجاع
 
-أنIEnumerator الكائن الذي يمكن استخدامه للتكرار من خلال المجموعة.
+كائن IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../htmlcollection/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

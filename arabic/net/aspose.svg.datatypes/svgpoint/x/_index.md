@@ -1,33 +1,31 @@
 ---
-title: SVGPoint.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPoint ملكية. إحداثيات X.
+title: "SVGPoint.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPoint X. إحداثي X"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svgpoint/x/
 ---
 ## SVGPoint.X property
 
-إحداثيات X.
+إحداثي X.
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إحداثيات X.
+إحداثي X.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . يتم رفعه إذا كان كائن SVGPoint للقراءة فقط ، أو يتوافق مع سمة DOM المقروءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُرفع إذا كان كائن SVGPoint للقراءة فقط، أو يتطابق مع سمة DOM للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPoint](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgpoint/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

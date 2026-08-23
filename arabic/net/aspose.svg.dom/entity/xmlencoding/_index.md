@@ -1,27 +1,25 @@
 ---
-title: Entity.XmlEncoding
-second_title: Aspose.SVG لمرجع .NET API
-description: Entity ملكية. سمة تحدد  كجزء من الإعلان النصي  ترميز هذا الكيان  عندما يكون كيانًا خارجيًا محللًا. هذا لاغى خلاف ذلك.
+title: "Entity.XmlEncoding"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية XmlEncoding في Entity. سمة تحدد كجزء من إعلان النص ترميز هذا الكيان عندما يكون كيانًا مُحللاً خارجيًا. تكون القيمة null في غير ذلك."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom/entity/xmlencoding/
 ---
 ## Entity.XmlEncoding property
 
-سمة تحدد ، كجزء من الإعلان النصي ، ترميز هذا الكيان ، عندما يكون كيانًا خارجيًا محللًا. هذا لاغى خلاف ذلك.
+خاصية تحدد، كجزء من إعلان النص، ترميز هذا الكيان عندما يكون كيانًا خارجيًا مُحللاً. تكون القيمة null في غير ذلك.
 
 ```csharp
 public string XmlEncoding { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ترميز XML .
+ترميز XML.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Entity](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../entity/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

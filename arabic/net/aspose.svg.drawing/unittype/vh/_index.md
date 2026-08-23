@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vh
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس متناسب مع 1 من ارتفاع إطار العرض  جربه
+title: "UnitType.Vh"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Vh. القياس نسبي لواحد من ارتفاع نافذة العرض. جرّبه"
 type: docs
 weight: 270
 url: /ar/net/aspose.svg.drawing/unittype/vh/
 ---
 ## UnitType.Vh field
 
-القياس متناسب مع 1٪ من ارتفاع إطار العرض * جربه
+القياس نسبي لـ 1% من ارتفاع نافذة العرض* جرّبها
 
 ```csharp
 public static readonly UnitType Vh;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

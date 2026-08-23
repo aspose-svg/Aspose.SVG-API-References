@@ -1,27 +1,25 @@
 ---
-title: SVGException.SVGException
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGException البناء. يقوم بتهيئة مثيل جديد لملفSVGException فئة .
+title: "SVGException"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ SVGException. يهيئ نسخة جديدة من فئة SVGException."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-يقوم بتهيئة مثيل جديد لملف[`SVGException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SVGException`](../).
 
 ```csharp
 public SVGException(ushort code)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| code | UInt16 | رمز الخطأ. |
+| الرمز | UInt16 | رمز الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGException](../)
-* مساحة الاسم [Aspose.Svg](../../svgexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

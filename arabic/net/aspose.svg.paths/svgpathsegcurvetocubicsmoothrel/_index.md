@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegCurvetoCubicSmoothRel
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Paths.SVGPathSegCurvetoCubicSmoothRel فصل. تتوافق واجهة SVGPathSegCurvetoCubicSmoothRel مع أمر أوامر بيانات المسار انحناء مكعب سلس نسبي.
+title: "فئة SVGPathSegCurvetoCubicSmoothRel"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Paths.SVGPathSegCurvetoCubicSmoothRel فئة. واجهة SVGPathSegCurvetoCubicSmoothRel تمثل أمر بيانات مسار من النوع s منحني مكعب أملس نسبي"
 type: docs
-weight: 2560
+weight: 4630
 url: /ar/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/
 ---
 ## SVGPathSegCurvetoCubicSmoothRel class
 
-تتوافق واجهة SVGPathSegCurvetoCubicSmoothRel مع أمر (أوامر) بيانات المسار "انحناء مكعب سلس نسبي".
+واجهة SVGPathSegCurvetoCubicSmoothRel تتطابق مع أمر بيانات مسار \"منحنى مكعب أملس نسبي\" (s).
 
 ```csharp
 public class SVGPathSegCurvetoCubicSmoothRel : SVGPathSeg
@@ -16,26 +16,24 @@ public class SVGPathSegCurvetoCubicSmoothRel : SVGPathSeg
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | نوع مقطع المسار كما هو محدد بواسطة أحد الثوابت المحددة في هذه الواجهة . |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | نوع مقطع المسار المحدد بواسطة اسم الأمر المقابل المكون من حرف واحد. |
-| [X](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x/) { get; set; } | إحداثي X النسبي لنقطة نهاية مقطع المسار هذا. |
-| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x2/) { get; set; } | إحداثي X النسبي لنقطة التحكم الثانية. |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y/) { get; set; } | إحداثي Y النسبي لنقطة نهاية مقطع المسار هذا. |
-| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/) { get; set; } | إحداثي Y النسبي لنقطة التحكم الثانية. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | نوع مقطع المسار كما هو محدد بأحد الثوابت المعرفة في هذه الواجهة. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | نوع مقطع المسار، المحدد باسم الأمر المكوّن من حرف واحد المقابل. |
+| [X](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x/) { get; set; } | الإحداثي X النسبي لنقطة النهاية لهذا مقطع المسار. |
+| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x2/) { get; set; } | الإحداثي X النسبي للنقطة التحكمية الثانية. |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y/) { get; set; } | الإحداثي Y النسبي لنقطة النهاية لهذا مقطع المسار. |
+| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/) { get; set; } | الإحداثي Y النسبي للنقطة التحكمية الثانية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../svgpathseg/)
-* مساحة الاسم [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

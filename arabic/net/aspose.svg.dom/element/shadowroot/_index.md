@@ -1,28 +1,26 @@
 ---
-title: Element.ShadowRoot
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. تُرجع shadowRoot المخزنة في هذا العنصر أو تُرجع فارغة إذا كان مغلقًا.
+title: "Element.ShadowRoot"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element ShadowRoot. تُرجع shadowRoot المخزّن على هذا العنصر أو null إذا كان مغلقًا."
 type: docs
-weight: 200
+weight: 190
 url: /ar/net/aspose.svg.dom/element/shadowroot/
 ---
 ## Element.ShadowRoot property
 
-تُرجع shadowRoot المخزنة في هذا العنصر أو تُرجع فارغة إذا كان مغلقًا.
+يعيد shadowRoot المخزن على هذا العنصر أو null إذا كان مغلقًا.
 
 ```csharp
 public ShadowRoot ShadowRoot { get; }
 ```
 
-### Property_Value
+### Property Value
 
-the shadowRoot .
+shadowRoot.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

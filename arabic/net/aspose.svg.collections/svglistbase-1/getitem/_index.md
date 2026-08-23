@@ -1,22 +1,22 @@
 ---
-title: SVGListBase1.GetItem
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGListBase طريقة. إرجاع العنصر المحدد من القائمة.
+title: "SVGListBase-1.GetItem"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetItem في SVGListBase. تُرجع العنصر المحدد من القائمة"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.collections/svglistbase-1/getitem/
 ---
-## SVGListBase&lt;T&gt;.GetItem method
+## SVGListBase<T>.GetItem method
 
-إرجاع العنصر المحدد من القائمة.
+يعيد العنصر المحدد من القائمة.
 
 ```csharp
 public T GetItem(ulong index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | UInt64 | فهرس العنصر الذي سيتم إرجاعه من القائمة. العنصر الأول هو رقم 0. |
+| index | UInt64 | فهرس العنصر من القائمة الذي سيتم إرجاعه. العنصر الأول هو الرقم 0. |
 
 ### قيمة الإرجاع
 
@@ -24,14 +24,12 @@ public T GetItem(ulong index)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | شفرة[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). تُرفع إذا كان رقم الفهرس أكبر من أو يساوي numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). يُرفع إذا كان رقم الفهرس أكبر من أو يساوي numberOfItems. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGListBase&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../svglistbase-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

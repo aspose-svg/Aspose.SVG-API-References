@@ -1,24 +1,22 @@
 ---
-title: ImageVectorizerConfiguration.Stencil
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageVectorizerConfiguration ملكية. الحصول على تكوين تأثير الاستنسل أو تعيينه. بشكل افتراضي  لا يتم تطبيق أي تأثير استنسل.
+title: "ImageVectorizerConfiguration.Stencil"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية القالب في ImageVectorizerConfiguration. تحصل أو تعين تكوين تأثير القالب. بشكل افتراضي لا يُطبق أي تأثير قالب."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/stencil/
 ---
 ## ImageVectorizerConfiguration.Stencil property
 
-الحصول على تكوين تأثير الاستنسل أو تعيينه. بشكل افتراضي ، لا يتم تطبيق أي تأثير استنسل.
+يحصل أو يعيّن تكوين تأثير القالب. بشكل افتراضي، لا يُطبّق أي تأثير قالب.
 
 ```csharp
 public StencilConfiguration Stencil { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StencilConfiguration](../../stencilconfiguration/)
 * class [ImageVectorizerConfiguration](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

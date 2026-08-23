@@ -1,28 +1,26 @@
 ---
-title: Device2.FillText
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يملأ السلسلة النصية المحددة في المكان المحدد.
+title: "Device-2.FillText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device FillText. تعبئ السلسلة النصية المحددة في الموقع المحدد"
 type: docs
-weight: 160
+weight: 190
 url: /ar/net/aspose.svg.rendering/device-2/filltext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.FillText method
+## Device<TGraphicContext,TRenderingOptions>.FillText method
 
-يملأ السلسلة النصية المحددة في المكان المحدد.
+يملأ سلسلة النص المحددة في الموقع المحدد.
 
 ```csharp
-public abstract void FillText(string text, PointF pt)
+public virtual void FillText(string text, PointF pt)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | السلسلة المراد ملؤها. |
-| pt | PointF | النقطة التي تحدد إحداثيات النص. |
+| نص | String | سلسلة لتعبئتها. |
+| pt | PointF | نقطة تحدد إحداثيات النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

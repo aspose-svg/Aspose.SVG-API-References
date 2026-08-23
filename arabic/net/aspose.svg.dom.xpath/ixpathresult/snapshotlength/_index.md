@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.SnapshotLength
-second_title: Aspose.SVG لمرجع .NET API
-description: IXPathResult ملكية. عدد العقد في لقطة النتيجة. القيم الصالحة لفهارس snapshotItem هي0 لالطول 1 شامل .
+title: "IXPathResult.SnapshotLength"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IXPathResult SnapshotLength. عدد العقد في لقطة النتيجة. القيم الصالحة لمؤشرات snapshotItem هي من 0 إلى snapshotLength-1 شاملًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.xpath/ixpathresult/snapshotlength/
 ---
 ## IXPathResult.SnapshotLength property
 
-عدد العقد في لقطة النتيجة. القيم الصالحة لفهارس snapshotItem هي`0` ل`الطول 1` شامل .
+عدد العقد في لقطة النتيجة. القيم الصالحة لمؤشرات snapshotItem هي من `0` إلى `snapshotLength-1` شاملًا.
 
 ```csharp
 public int SnapshotLength { get; }
@@ -16,14 +16,12 @@ public int SnapshotLength { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: رفع إذا لم تكن resultType `UnorderedNodeSnapshot` اكتب أو`OrderedNodeSnapshot` يكتب. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: يُرفع إذا لم يكن resultType من النوع `UnorderedNodeSnapshot` أو النوع `OrderedNodeSnapshot`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXPathResult](../)
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

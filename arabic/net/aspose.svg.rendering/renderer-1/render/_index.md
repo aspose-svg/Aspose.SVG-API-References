@@ -1,167 +1,165 @@
 ---
-title: Renderer1.Render
-second_title: Aspose.SVG لمرجع .NET API
-description: Renderer طريقة. يحدد طريقة العرضTDocument في المحددIDevice .
+title: "Renderer-1.Render"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Renderer Render. تحدد طريقة لتصيير TSource إلى IDevice المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_3}
+## Render(*[IDevice](../../idevice/), TSource*) {#render_3}
 
-يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice/) .
+تحدد طريقة لتصيير *TSource* إلى IDevice المحدد [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document)
+public void Render(IDevice device, TSource source)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| document | TDocument | المستند. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| المصدر | TSource | المصدر لتصيره. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer-1/)
-* المجسم [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_5}
+## Render(*[IDevice](../../idevice/), TSource, TimeSpan*) {#render_5}
 
-يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice/) .
+تحدد طريقة لتصيير *TSource* إلى IDevice المحدد [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document, TimeSpan timeout)
+public void Render(IDevice device, TSource source, TimeSpan timeout)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| document | TDocument | المستند. |
-| timeout | TimeSpan | أTimeSpan الذي يمثل عدد المللي ثانية للانتظار ، أوTimeSpan يمثل -1 مللي ثانية للانتظار إلى أجل غير مسمى. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| المصدر | TSource | المصدر لتصيره. |
+| timeout | TimeSpan | TimeSpan يمثل عدد المللي ثانية للانتظار، أو TimeSpan يمثل -1 مللي ثانية للانتظار إلى أجل غير مسمى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer-1/)
-* المجسم [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_4}
+## Render(*[IDevice](../../idevice/), TSource, int*) {#render_4}
 
-يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice/) .
+تحدد طريقة لتصيير *TSource* إلى IDevice المحدد [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document, int timeout)
+public void Render(IDevice device, TSource source, int timeout)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| document | TDocument | المستند. |
-| timeout | Int32 | عدد من المللي ثانية يمثل عدد المللي ثانية المراد انتظاره ، أو -1 ميلي ثانية للانتظار إلى أجل غير مسمى. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| المصدر | TSource | المصدر لتصيره. |
+| timeout | Int32 | عدد المللي ثانية الذي يمثل عدد المللي ثانية للانتظار، أو -1 مللي ثانية للانتظار إلى أجل غير مسمى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer-1/)
-* المجسم [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_6}
+## Render(*[IDevice](../../idevice/), params TSource[]*) {#render_6}
 
-يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice/) .
+تحدد طريقة لتصيير عدة *TSource*s إلى IDevice محدد [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, params TDocument[] documents)
+public void Render(IDevice device, params TSource[] sources)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| documents | TDocument[] | المستندات المطلوب تقديمها. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| المصادر | TSource[] | المصادر لتصيرها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer-1/)
-* المجسم [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, int, params TDocument[]) {#render}
+## Render(*[IDevice](../../idevice/), int, params TSource[]*) {#render}
 
-يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice/) .
+تحدد طريقة لتصيير عدة *TSource*s إلى IDevice محدد [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, int timeout, params TDocument[] documents)
+public void Render(IDevice device, int timeout, params TSource[] sources)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| timeout | Int32 | عدد من المللي ثانية يمثل عدد المللي ثانية المراد انتظاره ، أو -1 ميلي ثانية للانتظار إلى أجل غير مسمى. |
-| documents | TDocument[] | المستندات المطلوب تقديمها. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| timeout | Int32 | عدد المللي ثانية الذي يمثل عدد المللي ثانية للانتظار، أو -1 مللي ثانية للانتظار إلى أجل غير مسمى. |
+| المصادر | TSource[] | المصادر لتصيرها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer-1/)
-* المجسم [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
+## Render(*[IDevice](../../idevice/), TimeSpan, params TSource[]*) {#render_2}
 
-يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice/) .
+تحدد طريقة لتصيير عدة *TSource*s إلى IDevice محدد [`IDevice`](../../idevice/).
 
 ```csharp
-public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
+public abstract void Render(IDevice device, TimeSpan timeout, params TSource[] sources)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| timeout | TimeSpan | أTimeSpan الذي يمثل عدد المللي ثانية للانتظار ، أوTimeSpan يمثل -1 مللي ثانية للانتظار إلى أجل غير مسمى. |
-| documents | TDocument[] | المستندات المطلوب تقديمها. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| timeout | TimeSpan | TimeSpan يمثل عدد المللي ثانية للانتظار، أو TimeSpan يمثل -1 مللي ثانية للانتظار إلى أجل غير مسمى. |
+| المصادر | TSource[] | المصادر لتصيرها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer-1/)
-* المجسم [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+## Render(*[IDevice](../../idevice/), CancellationToken, params TSource[]*) {#render_1}
 
-يحدد طريقة لتصيير متعدد!:TDocument ق في محدد[`IDevice`](../../idevice/) ، باستخدام رمز إلغاء لطلب إلغاء العملية.
+تحدد طريقة لتصير عدة *TSource*s إلى IDevice محدد [`IDevice`](../../idevice/)، باستخدام رمز إلغاء لطلب إلغاء العملية.
 
 ```csharp
 public abstract void Render(IDevice device, CancellationToken cancellationToken, 
-    params TDocument[] documents)
+    params TSource[] sources)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| device | IDevice | جهاز الإخراج. |
-| cancellationToken | CancellationToken | أCancellationToken للمراقبة أثناء انتظار اكتمال المهمة. |
-| documents | TDocument[] | المستندات المطلوب تقديمها. |
+| الجهاز | IDevice | جهاز الإخراج. |
+| cancellationToken | CancellationToken | CancellationToken للمراقبة أثناء انتظار إكمال المهمة. |
+| المصادر | TSource[] | المصادر لتصيرها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

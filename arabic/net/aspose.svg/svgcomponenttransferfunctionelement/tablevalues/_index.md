@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.TableValues
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGComponentTransferFunctionElement ملكية. يتوافق مع السمة tableValues على العنصر المحدد.
+title: "SVGComponentTransferFunctionElement.TableValues"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGComponentTransferFunctionElement TableValues. تتطابق مع السمة tableValues في العنصر المعطى"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgcomponenttransferfunctionelement/tablevalues/
 ---
 ## SVGComponentTransferFunctionElement.TableValues property
 
-يتوافق مع السمة "tableValues" على العنصر المحدد.
+يتطابق مع السمة ‘tableValues’ على العنصر المحدد.
 
 ```csharp
 public SVGAnimatedNumberList TableValues { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "النوع" للعنصر المحدد .
+السمة ‘type’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGComponentTransferFunctionElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

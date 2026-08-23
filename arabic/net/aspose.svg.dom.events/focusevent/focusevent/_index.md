@@ -1,48 +1,46 @@
 ---
-title: FocusEvent.FocusEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: FocusEvent البناء. يقوم بتهيئة مثيل جديد لملفFocusEvent فئة .
+title: "FocusEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ FocusEvent. يهيئ نسخة جديدة من فئة FocusEvent"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.events/focusevent/focusevent/
 ---
-## FocusEvent(string) {#constructor}
+## FocusEvent(*string*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`FocusEvent`](../) فئة .
+يهيئ نسخة جديدة من فئة [`FocusEvent`](../).
 
 ```csharp
 public FocusEvent(string type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FocusEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../focusevent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FocusEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## FocusEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`FocusEvent`](../) فئة .
+يهيئ نسخة جديدة من فئة [`FocusEvent`](../).
 
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
-| eventInitDict | IDictionary`2 | الحدث تهيئة القاموس. |
+| eventInitDict | IDictionary`2 | قاموس تهيئة الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FocusEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../focusevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

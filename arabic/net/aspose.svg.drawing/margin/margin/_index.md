@@ -1,111 +1,109 @@
 ---
-title: Margin.Margin
-second_title: Aspose.SVG لمرجع .NET API
-description: Margin البناء. يقوم بتهيئة مثيل جديد لملفMargin فئة .
+title: "Margin"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ Margin. يهيئ نسخة جديدة من الفئة Margin"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Margin`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Margin`](../).
 
 ```csharp
 public Margin()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Margin](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../margin/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int) {#constructor_3}
+## Margin(*int*) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`Margin`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Margin`](../).
 
 ```csharp
 public Margin(int anyMargin)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| anyMargin | Int32 | أي حجم للهامش. |
+| anyMargin | Int32 | أي حجم هامش. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Margin](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../margin/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length) {#constructor_1}
+## Margin(*[Length](../../length/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Margin`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Margin`](../).
 
 ```csharp
 public Margin(Length anyMargin)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| anyMargin | Length | أي حجم للهامش. |
+| anyMargin | Length | أي حجم هامش. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../../length/)
 * class [Margin](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../margin/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int, int, int, int) {#constructor_4}
+## Margin(*int, int, int, int*) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`Margin`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Margin`](../).
 
 ```csharp
 public Margin(int left, int top, int right, int bottom)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | Int32 | الحجم الأيسر. |
-| top | Int32 | الحجم العلوي. |
-| right | Int32 | الحجم الصحيح. |
-| bottom | Int32 | الحجم السفلي. |
+| اليسار | Int32 | حجم اليسار. |
+| top | Int32 | حجم الأعلى. |
+| يمين | Int32 | حجم اليمين. |
+| bottom | Int32 | حجم الأسفل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Margin](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../margin/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length, Length, Length, Length) {#constructor_2}
+## Margin(*[Length](../../length/), [Length](../../length/), [Length](../../length/), [Length](../../length/)*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`Margin`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Margin`](../).
 
 ```csharp
 public Margin(Length left, Length top, Length right, Length bottom)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | Length | الحجم الأيسر. |
-| top | Length | الحجم العلوي. |
-| right | Length | الحجم الصحيح. |
-| bottom | Length | الحجم السفلي. |
+| اليسار | Length | حجم اليسار. |
+| top | Length | حجم الأعلى. |
+| يمين | Length | حجم اليمين. |
+| bottom | Length | حجم الأسفل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../../length/)
 * class [Margin](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../margin/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

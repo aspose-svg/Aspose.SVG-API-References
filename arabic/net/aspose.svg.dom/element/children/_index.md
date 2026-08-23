@@ -1,28 +1,26 @@
 ---
-title: Element.Children
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. إرجاع العناصر الفرعية للعنصر الحالي.
+title: "Element.Children"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element Children. تُرجع العناصر الفرعية للعنصر الحالي."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/element/children/
 ---
 ## Element.Children property
 
-إرجاع العناصر الفرعية للعنصر الحالي.
+يعيد العناصر الفرعية للعنصر الحالي.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مجموعة الأطفال
+مجموعة العناصر الفرعية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

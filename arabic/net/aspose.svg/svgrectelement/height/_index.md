@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Height
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGRectElement ملكية. يتوافق مع السمة الارتفاع على عنصر المستقيم المحدد .
+title: "SVGRectElement.Height"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Height في SVGRectElement. تتطابق مع السمة height في عنصر rect المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgrectelement/height/
 ---
 ## SVGRectElement.Height property
 
-يتوافق مع السمة "الارتفاع" على عنصر "المستقيم" المحدد .
+يتطابق مع السمة ‘height’ في العنصر ‘rect’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "الارتفاع" لعنصر "المستقيم" المحدد .
+السمة ‘height’ للعنصر ‘rect’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgrectelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

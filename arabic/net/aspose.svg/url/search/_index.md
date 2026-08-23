@@ -1,27 +1,25 @@
 ---
-title: Url.Search
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. الحصول على أو تعيين تمثيل سلسلة لمقطع بحث URL المحدد.
+title: "Url.Search"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Search. تحصل أو تعين تمثيلًا نصيًا للجزء البحثي المحدد من URL."
 type: docs
 weight: 110
 url: /ar/net/aspose.svg/url/search/
 ---
 ## Url.Search property
 
-الحصول على أو تعيين تمثيل سلسلة لمقطع بحث URL المحدد.
+يحصل أو يضبط تمثيلًا نصيًا لجزء البحث في URL المحدد.
 
 ```csharp
 public string Search { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 البحث.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

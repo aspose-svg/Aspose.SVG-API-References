@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.YChannelSelector
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDisplacementMapElement ملكية. يتوافق مع السمة yChannelSelector في عنصر feDisplacementMap المحدد. يأخذ أحد ثوابت SVG_CHANNEL_  المحددة في هذه الواجهة.
+title: "SVGFEDisplacementMapElement.YChannelSelector"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEDisplacementMapElement YChannelSelector. تتطابق مع الخاصية yChannelSelector في عنصر feDisplacementMap المحدد. تقبل أحد ثوابت SVG_CHANNEL_ المعرفة في هذه الواجهة"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.filters/svgfedisplacementmapelement/ychannelselector/
 ---
 ## SVGFEDisplacementMapElement.YChannelSelector property
 
-يتوافق مع السمة "yChannelSelector" في عنصر "feDisplacementMap" المحدد. يأخذ أحد ثوابت SVG_CHANNEL_ * المحددة في هذه الواجهة.
+يتطابق مع السمة ‘yChannelSelector’ في العنصر ‘feDisplacementMap’ المحدد. يأخذ أحد ثابتات SVG_CHANNEL_* المعرفة في هذه الواجهة.
 
 ```csharp
 public SVGAnimatedEnumeration YChannelSelector { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "yChannelSelector" لعنصر "feDisplacementMap" المحدد .
+الخاصية ‘yChannelSelector’ لعنصر ‘feDisplacementMap’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEDisplacementMapElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ITextureBrush.ImageArea
-second_title: Aspose.SVG لمرجع .NET API
-description: ITextureBrush ملكية. يحدد جزء الصورة الذي تستخدمه الفرشاة. إذا كان يساوي المستطيل F. فارغ  فسيتم استخدام الصورة بأكملها. الإحداثيات بالبكسل .
+title: "ITextureBrush.ImageArea"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ImageArea في ITextureBrush. تحدد الجزء من الصورة المستخدمة بواسطة الفرشاة. إذا كان يساوي RectangleF.Empty فسيتم استخدام الصورة كاملة. الإحداثيات بوحدات البكسل"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.drawing/itexturebrush/imagearea/
 ---
 ## ITextureBrush.ImageArea property
 
-يحدد جزء الصورة الذي تستخدمه الفرشاة. إذا كان يساوي المستطيل F. فارغ ، فسيتم استخدام الصورة بأكملها. الإحداثيات بالبكسل .
+يحدد الجزء من الصورة المستخدم بواسطة الفرشاة. إذا كان يساوي RectangleF.Empty فسيتم استخدام الصورة بالكامل. الإحداثيات بوحدات البكسل.
 
 ```csharp
 public RectangleF ImageArea { get; }
@@ -18,10 +18,8 @@ public RectangleF ImageArea { get; }
 
 منطقة الصورة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextureBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itexturebrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

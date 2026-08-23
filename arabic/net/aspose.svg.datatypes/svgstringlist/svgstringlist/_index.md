@@ -1,43 +1,41 @@
 ---
-title: SVGStringList.SVGStringList
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGStringList البناء. يقوم بتهيئة مثيل جديد لملفSVGStringList فئة .
+title: "SVGStringList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ SVGStringList. يهيئ كائنًا جديدًا من فئة SVGStringList"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGStringList`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SVGStringList`](../).
 
 ```csharp
 public SVGStringList()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStringList](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgstringlist/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&lt;string&gt;*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGStringList`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SVGStringList`](../).
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | المعدود. |
+| قابل للتعداد | IEnumerable`1 | القابل للتعداد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStringList](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgstringlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

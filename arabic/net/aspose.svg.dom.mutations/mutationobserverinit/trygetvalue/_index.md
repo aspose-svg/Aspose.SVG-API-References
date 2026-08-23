@@ -1,7 +1,7 @@
 ---
-title: MutationObserverInit.TryGetValue
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserverInit طريقة. يحصل على القيمة المرتبطة بالمفتاح المحدد.
+title: "MutationObserverInit.TryGetValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MutationObserverInit TryGetValue. تحصل على القيمة المرتبطة بالمفتاح المحدد."
 type: docs
 weight: 210
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/trygetvalue/
@@ -14,19 +14,17 @@ url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/trygetvalue/
 public bool TryGetValue(string key, out object value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح القيمة للحصول عليها. |
-| value | Object& | عندما ترجع هذه الطريقة ، تحتوي على القيمة المرتبطة بالمفتاح المحدد ، إذا تم العثور على المفتاح ؛ خلاف ذلك باطل. |
+| المفتاح | String | المفتاح الخاص بالقيمة للحصول عليها. |
+| القيمة | Object& | عند عودة هذه الطريقة، تحتوي على القيمة المرتبطة بالمفتاح المحدد إذا تم العثور على المفتاح؛ وإلا تكون null. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان[`MutationObserverInit`](../) تحتوي على مفتاح محدد ؛ خلاف ذلك ، خطأ.
+صحيح إذا كانت [`MutationObserverInit`](../) تحتوي على مفتاح محدد؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

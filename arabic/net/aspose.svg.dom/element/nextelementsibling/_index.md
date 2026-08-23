@@ -1,23 +1,21 @@
 ---
-title: Element.NextElementSibling
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. إرجاع عقدة العنصر الشقيقة التالية لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عقد شقيقة لعنصر تأتي بعد هذا في شجرة المستند.
+title: "Element.NextElementSibling"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element NextElementSibling. تُرجع عقدة العنصر الشقيقة التالية لهذا العنصر. null إذا لم يكن لهذا العنصر أي عقد شقيقة عنصر تأتي بعد هذا العنصر في شجرة المستند."
 type: docs
 weight: 130
 url: /ar/net/aspose.svg.dom/element/nextelementsibling/
 ---
 ## Element.NextElementSibling property
 
-إرجاع عقدة العنصر الشقيقة التالية لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عقد شقيقة لعنصر تأتي بعد هذا في شجرة المستند.
+يعيد عقدة العنصر الشقيقة التالية لهذا العنصر. null إذا لم يكن لهذا العنصر أي عقد شقيقة عنصر تأتي بعده في شجرة المستند.
 
 ```csharp
 public Element NextElementSibling { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

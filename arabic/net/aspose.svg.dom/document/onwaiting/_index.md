@@ -1,24 +1,22 @@
 ---
-title: Document.OnWaiting
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث للحدث OnWaiting أو تعيينه.
+title: "Document.OnWaiting"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnWaiting. يحصل أو يضبط معالج الحدث لحدث OnWaiting"
 type: docs
 weight: 780
 url: /ar/net/aspose.svg.dom/document/onwaiting/
 ---
 ## Document.OnWaiting event
 
-الحصول على معالج الحدث للحدث OnWaiting أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnWaiting.
 
 ```csharp
 public event DOMEventHandler OnWaiting;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

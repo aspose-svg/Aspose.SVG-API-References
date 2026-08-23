@@ -1,31 +1,29 @@
 ---
-title: Enum ResourceHandling
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Saving.ResourceHandling تعداد. يمثل هذا العدد خيارات معالجة الموارد.
+title: "تعداد ResourceHandling"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "التعداد Aspose.Svg.Saving.ResourceHandling. هذا التعداد يمثل خيارات معالجة الموارد"
 type: docs
-weight: 3640
+weight: 5740
 url: /ar/net/aspose.svg.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration
 
-يمثل هذا العدد خيارات معالجة الموارد.
+يمثل هذا التعداد خيارات معالجة الموارد.
 
 ```csharp
 public enum ResourceHandling
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Save | `0` | سيتم حفظ المورد كملف . |
-| Embed | `1` | سيتم إرسال المورد إلى المالك. |
-| Discard | `2` | سيتم تجاهل المورد . |
-| Ignore | `3` | لن يتم حفظ المورد . |
+| Save | `0` | سيتم حفظ المورد كملف. |
+| Embed | `1` | سيتم تضمين المورد داخل المالك. |
+| Discard | `2` | سيتم تجاهل المورد. |
+| Ignore | `3` | لن يتم حفظ المورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

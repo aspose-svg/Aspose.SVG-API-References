@@ -1,28 +1,26 @@
 ---
-title: SVGPolygonElement.Points
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPolygonElement ملكية. يوفر الوصول إلى المحتويات الأساسية أي الثابتة لسمة النقاط.
+title: "SVGPolygonElement.Points"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPolygonElement Points. توفر الوصول إلى المحتوى الأساسي أي الثابت لخاصية points"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgpolygonelement/points/
 ---
 ## SVGPolygonElement.Points property
 
-يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لسمة "النقاط".
+يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لخاصية ‘points’.
 
 ```csharp
 public SVGPointList Points { get; }
 ```
 
-### Property_Value
+### Property Value
 
-محتوى سمة "النقاط "
+محتوى الخاصية ‘points’
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * class [SVGPolygonElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpolygonelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

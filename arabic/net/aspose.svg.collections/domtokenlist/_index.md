@@ -1,14 +1,14 @@
 ---
-title: Class DOMTokenList
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Collections.DOMTokenList فصل. تمثل فئة DOMTokenList مجموعة من الرموز المميزة المفصولة بمسافات. يتم فهرسته بدءًا من 0 كما هو الحال مع كائنات JavaScript Array. دومًا تكون قائمة DOMTokenList حساسة لحالة الأحرف.
+title: "فئة DOMTokenList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Collections.DOMTokenList. تمثل فئة DOMTokenList مجموعة من الرموز المفصولة بمسافات. يتم فهرستها بدءًا من 0 كما هو الحال مع كائنات مصفوفة JavaScript. DOMTokenList حساسة دائمًا لحالة الأحرف."
 type: docs
-weight: 10
+weight: 2000
 url: /ar/net/aspose.svg.collections/domtokenlist/
 ---
 ## DOMTokenList class
 
-تمثل فئة DOMTokenList مجموعة من الرموز المميزة المفصولة بمسافات. يتم فهرسته بدءًا من 0 كما هو الحال مع كائنات JavaScript Array. دومًا تكون قائمة DOMTokenList حساسة لحالة الأحرف.
+تمثل فئة DOMTokenList مجموعة من الرموز المفصولة بمسافات. يتم فهرستها بدءًا من 0 كما هو الحال مع كائنات مصفوفة JavaScript. DOMTokenList دائمًا حساسة لحالة الأحرف.
 
 ```csharp
 public class DOMTokenList : DOMObject, IEnumerable<string>
@@ -16,30 +16,28 @@ public class DOMTokenList : DOMObject, IEnumerable<string>
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Item](../../aspose.svg.collections/domtokenlist/item/) { get; } | تُرجع العنصر في القائمة بفهرسها ، أو فارغة إذا كان الفهرس أكبر من أو يساوي طول القائمة. |
-| [Length](../../aspose.svg.collections/domtokenlist/length/) { get; } | إرجاع ulong الذي يمثل عدد الرموز المميزة المخزنة في هذه القائمة. |
-| [Value](../../aspose.svg.collections/domtokenlist/value/) { get; set; } | الحصول على أو تعيين قيمة السمة المقابلة. |
+| [Item](../../aspose.svg.collections/domtokenlist/item/) { get; } | يرجع العنصر في القائمة حسب فهرسه، أو null إذا كان الفهرس أكبر من أو يساوي طول القائمة. |
+| [Length](../../aspose.svg.collections/domtokenlist/length/) { get; } | يرجع قيمة ulong تمثل عدد الرموز المخزنة في هذه القائمة. |
+| [Value](../../aspose.svg.collections/domtokenlist/value/) { get; set; } | يحصل أو يضبط قيمة السمة المقابلة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.svg.collections/domtokenlist/add/)(params string[]) | إضافة الرمز (الرموز) المحددة إلى القائمة. |
-| [Contains](../../aspose.svg.collections/domtokenlist/contains/)(string) | إرجاع صحيح إذا كانت القائمة تحتوي على الرمز المحدد ، وإلا خطأ. |
-| [GetEnumerator](../../aspose.svg.collections/domtokenlist/getenumerator/)() | إرجاع عداد يتكرر خلال المجموعة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [Remove](../../aspose.svg.collections/domtokenlist/remove/)(params string[]) | يزيل الرمز (الرموز) المحددة من القائمة. |
-| [Replace](../../aspose.svg.collections/domtokenlist/replace/)(string, string) | يستبدل رمزًا مميزًا برمز جديد. لا يفعل شيئًا إذا لم يكن الرمز المميز الأول موجودًا. |
-| [Supports](../../aspose.svg.collections/domtokenlist/supports/)(string) | إرجاع صحيح إذا كان رمز معين في الرموز المميزة المدعومة للسمة المرتبطة. |
-| [Toggle](../../aspose.svg.collections/domtokenlist/toggle/#toggle)(string) | يزيل الرمز المميز من القائمة إذا كان موجودًا ، أو يضيف الرمز المميز إلى القائمة إذا لم يكن موجودًا. |
-| [Toggle](../../aspose.svg.collections/domtokenlist/toggle/#toggle_1)(string, bool?) | يزيل الرمز المميز من القائمة إذا كان موجودًا ، أو يضيف الرمز المميز إلى القائمة إذا لم يكن موجودًا. |
+| [Add](../../aspose.svg.collections/domtokenlist/add/)(*params string[]*) | يضيف الرمز (الرموز) المحدد إلى القائمة. |
+| [Contains](../../aspose.svg.collections/domtokenlist/contains/)(*string*) | يرجع true إذا كانت القائمة تحتوي على الرمز المعطى، وإلا false. |
+| [GetEnumerator](../../aspose.svg.collections/domtokenlist/getenumerator/)() | يرجع كائن enumerator يتنقل عبر المجموعة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [Remove](../../aspose.svg.collections/domtokenlist/remove/)(*params string[]*) | يزيل الرمز (الرموز) المحدد من القائمة. |
+| [Replace](../../aspose.svg.collections/domtokenlist/replace/)(*string, string*) | يستبدل رمزًا موجودًا برمز جديد. لا يفعل شيئًا إذا لم يكن الرمز الأول موجودًا. |
+| [Supports](../../aspose.svg.collections/domtokenlist/supports/)(*string*) | يرجع true إذا كان الرمز المعطى موجودًا في الرموز المدعومة للخاصية المرتبطة. |
+| [Toggle](../../aspose.svg.collections/domtokenlist/toggle/#toggle)(*string*) | يزيل الرمز من القائمة إذا كان موجودًا، أو يضيفه إلى القائمة إذا لم يكن موجودًا. |
+| [Toggle](../../aspose.svg.collections/domtokenlist/toggle/#toggle_1)(*string, bool*) | يزيل الرمز من القائمة إذا كان موجودًا، أو يضيفه إلى القائمة إذا لم يكن موجودًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* مساحة الاسم [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

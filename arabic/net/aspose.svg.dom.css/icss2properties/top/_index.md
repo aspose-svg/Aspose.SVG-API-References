@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Top
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. اطلع على تعريف الخاصية العلوي في CSS2.
+title: "ICSS2Properties.Top"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Top في ICSS2Properties. راجع تعريف خاصية top في CSS2"
 type: docs
-weight: 1120
+weight: 1150
 url: /ar/net/aspose.svg.dom.css/icss2properties/top/
 ---
 ## ICSS2Properties.Top property
 
-اطلع على تعريف الخاصية العلوي في CSS2.
+انظر إلى تعريف الخاصية top في CSS2.
 
 ```csharp
 public string Top { get; set; }
@@ -16,12 +16,10 @@ public string Top { get; set; }
 
 ### قيمة الإرجاع
 
-أعلى الممتلكات
+خاصية top
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

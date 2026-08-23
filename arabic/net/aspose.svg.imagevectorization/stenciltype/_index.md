@@ -1,30 +1,28 @@
 ---
-title: Enum StencilType
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.StencilType تعداد. ملفStencilType يحدد التعداد أنواع الاستنسل.
+title: "تعداد StencilType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "عدد ثابت Aspose.Svg.ImageVectorization.StencilType. يعرّف تعداد StencilType أنواع القوالب"
 type: docs
-weight: 2180
+weight: 4250
 url: /ar/net/aspose.svg.imagevectorization/stenciltype/
 ---
 ## StencilType enumeration
 
-ملف`StencilType` يحدد التعداد أنواع الاستنسل.
+يعرّف تعداد `StencilType` أنواع القوالب.
 
 ```csharp
 public enum StencilType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لن يتم تطبيق تأثير الاستنسل . |
-| MonoColor | `1` | يتم استخدام لون واحد فقط لعرض خطوط الاستنسل. |
-| Auto | `2` | تكتشف ألوان عرض خطوط الاستنسل تلقائيًا. |
+| None | `0` | لن يتم تطبيق تأثير القالب. |
+| MonoColor | `1` | يُستخدم لون واحد فقط لتصيير خطوط القالب. |
+| Auto | `2` | يتم اكتشاف الألوان لتصيير خطوط القالب تلقائيًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

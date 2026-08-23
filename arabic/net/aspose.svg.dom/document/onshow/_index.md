@@ -1,24 +1,22 @@
 ---
-title: Document.OnShow
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث لحدث OnShow أو تعيينه.
+title: "Document.OnShow"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnShow. يحصل أو يعيّن معالج الحدث لحدث OnShow."
 type: docs
 weight: 710
 url: /ar/net/aspose.svg.dom/document/onshow/
 ---
 ## Document.OnShow event
 
-الحصول على معالج الحدث لحدث OnShow أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnShow.
 
 ```csharp
 public event DOMEventHandler OnShow;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

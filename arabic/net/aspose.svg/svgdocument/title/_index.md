@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Title
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGDocument ملكية. عنوان المستند كما هو محدد بواسطة العنصر الفرعي العنوان للعنصر الجذر svg على سبيل المثال هنا العنوان... 
+title: "SVGDocument.Title"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Title في SVGDocument. عنوان المستند كما هو محدد في العنصر الفرعي title من عنصر الجذر svg أي مثال: هنا هو العنوان"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/svgdocument/title/
 ---
 ## SVGDocument.Title property
 
-عنوان المستند كما هو محدد بواسطة العنصر الفرعي "العنوان" للعنصر الجذر "svg" (على سبيل المثال ،هنا العنوان... )
+عنوان المستند كما هو محدد بواسطة العنصر الفرعي ‘title’ لعنصر الجذر ‘svg’ (مثال: Here is the title...).
 
 ```csharp
 public string Title { get; }
 ```
 
-### Property_Value
+### Property Value
 
 عنوان المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

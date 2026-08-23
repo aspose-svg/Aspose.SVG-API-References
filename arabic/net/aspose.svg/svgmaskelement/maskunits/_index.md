@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.MaskUnits
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMaskElement ملكية. يتوافق مع السمة maskUnits في عنصر القناع المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
+title: "SVGMaskElement.MaskUnits"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGMaskElement MaskUnits. تتطابق مع السمة maskUnits على عنصر القناع المعطى. تأخذ أحد الثوابت المعرفة في SVGUnitTypes."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgmaskelement/maskunits/
 ---
 ## SVGMaskElement.MaskUnits property
 
-يتوافق مع السمة "maskUnits" في عنصر "القناع" المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
+يتطابق مع السمة ‘maskUnits’ على عنصر ‘mask’ المعطى. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration MaskUnits { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "maskUnits" لعنصر "القناع" المحدد.
+السمة ‘maskUnits’ لعنصر ‘mask’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGMaskElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgmaskelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

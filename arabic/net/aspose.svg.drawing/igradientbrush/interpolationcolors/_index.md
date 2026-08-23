@@ -1,28 +1,26 @@
 ---
-title: IGradientBrush.InterpolationColors
-second_title: Aspose.SVG لمرجع .NET API
-description: IGradientBrush ملكية. احصل على ألوان الاستيفاء التي تحدد تدرجًا خطيًا متعدد الألوان.
+title: "IGradientBrush.InterpolationColors"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IGradientBrush InterpolationColors. تحصل أو تعين ألوان الاستيفاء التي تُعرّف تدرجًا خطيًا متعدد الألوان."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.drawing/igradientbrush/interpolationcolors/
 ---
 ## IGradientBrush.InterpolationColors property
 
-احصل على ألوان الاستيفاء التي تحدد تدرجًا خطيًا متعدد الألوان.
+يحصل أو يضبط ألوان الاستيفاء التي تحدد تدرجًا خطيًا متعدد الألوان.
 
 ```csharp
-public IInterpolationColor[] InterpolationColors { get; }
+public IInterpolationColor[] InterpolationColors { get; set; }
 ```
 
 ### قيمة الإرجاع
 
 ألوان الاستيفاء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IInterpolationColor](../../iinterpolationcolor/)
 * interface [IGradientBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../igradientbrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGElement.ClassName
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGElement ملكية. يتوافق مع السمة class في العنصر المحدد.
+title: "SVGElement.ClassName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ClassName لـ SVGElement. تتطابق مع سمة class على العنصر المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgelement/classname/
 ---
 ## SVGElement.ClassName property
 
-يتوافق مع السمة "class" في العنصر المحدد.
+يتطابق مع السمة ‘class’ على العنصر المعطى.
 
 ```csharp
 public SVGAnimatedString ClassName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الفصل .
+اسم الفئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

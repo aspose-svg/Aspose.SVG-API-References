@@ -1,55 +1,53 @@
 ---
-title: MutationObserverInit.Remove
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserverInit طريقة. يزيل زوج المفتاح / القيمة المحدد من ملفMutationObserverInitجمع.
+title: "MutationObserverInit.Remove"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MutationObserverInit Remove. تُزيل زوج المفتاح/القيمة المحدد من مجموعة MutationObserverInit"
 type: docs
 weight: 200
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/remove/
 ---
-## Remove(KeyValuePair&lt;string, object&gt;) {#remove}
+## Remove(*KeyValuePair&lt;string, object&gt;*) {#remove}
 
-يزيل زوج المفتاح / القيمة المحدد من ملف[`MutationObserverInit`](../)جمع.
+تُزيل زوج المفتاح/القيمة المحدد من مجموعة [`MutationObserverInit`](../).
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| item | KeyValuePair`2 | العنصر المراد إزالته. |
+| عنصر | KeyValuePair`2 | العنصر المراد إزالته. |
 
 ### قيمة الإرجاع
 
-صحيح إذا تمت إزالته بنجاح ؛ خلاف ذلك ، خطأ.
+صحيح إذا تم الإزالة بنجاح؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Remove(string) {#remove_1}
+## Remove(*string*) {#remove_1}
 
-يزيل القيمة المرتبطة بالمفتاح المحدد من ملف[`MutationObserverInit`](../)جمع.
+تُزيل القيمة المرتبطة بالمفتاح المحدد من مجموعة [`MutationObserverInit`](../).
 
 ```csharp
 public bool Remove(string key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح العنصر المراد إزالته. |
+| المفتاح | String | مفتاح العنصر المراد إزالته. |
 
 ### قيمة الإرجاع
 
-صحيح إذا تم العثور على العنصر وإزالته بنجاح ؛ خلاف ذلك ، خطأ.
+صحيح إذا تم العثور على العنصر وإزالته بنجاح؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

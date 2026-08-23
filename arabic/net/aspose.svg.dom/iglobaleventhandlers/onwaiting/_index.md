@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnWaiting
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث للحدث OnWaiting أو تعيينه.
+title: "IGlobalEventHandlers.OnWaiting"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnWaiting الحدث. يحصل أو يضبط معالج الحدث لـ OnWaiting الحدث"
 type: docs
 weight: 500
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onwaiting/
 ---
 ## IGlobalEventHandlers.OnWaiting event
 
-الحصول على معالج الحدث للحدث OnWaiting أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnWaiting.
 
 ```csharp
 public event DOMEventHandler OnWaiting;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

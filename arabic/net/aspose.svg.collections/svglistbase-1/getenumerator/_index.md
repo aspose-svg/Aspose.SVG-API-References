@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.GetEnumerator
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGListBase طريقة. يحصل على العداد .
+title: "SVGListBase-1.GetEnumerator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetEnumerator في SVGListBase. تحصل على المُعدِّد"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.collections/svglistbase-1/getenumerator/
 ---
-## SVGListBase&lt;T&gt;.GetEnumerator method
+## SVGListBase<T>.GetEnumerator method
 
-يحصل على العداد .
+يحصل على المُعدِّد.
 
 ```csharp
 public IEnumerator<T> GetEnumerator()
@@ -16,12 +16,10 @@ public IEnumerator<T> GetEnumerator()
 
 ### قيمة الإرجاع
 
-أنIEnumerator الكائن الذي يمكن استخدامه للتكرار من خلال المجموعة.
+كائن IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGListBase&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../svglistbase-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

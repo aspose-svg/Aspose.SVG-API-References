@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendFactors
-second_title: Aspose.SVG لمرجع .NET API
-description: IGradientBrush ملكية. احصل على عوامل المزج التي تحدد تراجعًا مخصصًا للتدرج اللوني .
+title: "IGradientBrush.BlendFactors"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IGradientBrush BlendFactors. تحصل أو تعين عوامل الدمج التي تحدد انخفاضًا مخصصًا للتدرج."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/igradientbrush/blendfactors/
 ---
 ## IGradientBrush.BlendFactors property
 
-احصل على عوامل المزج التي تحدد تراجعًا مخصصًا للتدرج اللوني .
+يحصل أو يضبط عوامل المزج التي تحدد انخفاضًا مخصصًا للتدرج.
 
 ```csharp
-public float[] BlendFactors { get; }
+public float[] BlendFactors { get; set; }
 ```
 
 ### قيمة الإرجاع
 
-عوامل المزج.
+عوامل الدمج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../igradientbrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

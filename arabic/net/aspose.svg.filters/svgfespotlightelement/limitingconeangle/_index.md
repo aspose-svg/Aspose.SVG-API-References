@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.LimitingConeAngle
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFESpotLightElement ملكية. يتوافق مع السمة LimitingConeAngle في عنصر feSpotLight المحدد.
+title: "SVGFESpotLightElement.LimitingConeAngle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية LimitingConeAngle لـ SVGFESpotLightElement. تتطابق مع الخاصية limitingConeAngle في عنصر feSpotLight المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.filters/svgfespotlightelement/limitingconeangle/
 ---
 ## SVGFESpotLightElement.LimitingConeAngle property
 
-يتوافق مع السمة "LimitingConeAngle" في عنصر "feSpotLight" المحدد.
+يتطابق مع السمة ‘limitingConeAngle’ على العنصر ‘feSpotLight’ المحدد.
 
 ```csharp
 public SVGAnimatedNumber LimitingConeAngle { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "LimitingConeAngle" لعنصر "feSpotLight" المحدد.
+الخاصية ‘limitingConeAngle’ لعنصر ‘feSpotLight’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

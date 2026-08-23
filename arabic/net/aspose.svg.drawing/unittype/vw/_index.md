@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vw
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. يتناسب القياس مع 1 من عرض منفذ العرض 
+title: "UnitType.Vw"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "UnitType حقل Vw. القياس نسبي إلى 1 من عرض منطقة العرض"
 type: docs
 weight: 300
 url: /ar/net/aspose.svg.drawing/unittype/vw/
 ---
 ## UnitType.Vw field
 
-يتناسب القياس مع 1٪ من عرض منفذ العرض *
+القياس نسبي لـ 1% من عرض نافذة العرض*
 
 ```csharp
 public static readonly UnitType Vw;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

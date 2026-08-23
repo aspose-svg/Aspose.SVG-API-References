@@ -1,31 +1,31 @@
 ---
-title: Node.RemoveChild
-second_title: Aspose.SVG لمرجع .NET API
-description: Node طريقة. يزيل العقدة الفرعية التي أشار إليها oldChild من قائمة الأطفال  ويعيدها .
+title: "Node.RemoveChild"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Node RemoveChild. تُزيل عقدة فرعية من DOM وتُرجع العقدة المُزالة."
 type: docs
-weight: 290
+weight: 270
 url: /ar/net/aspose.svg.dom/node/removechild/
 ---
 ## Node.RemoveChild method
 
-يزيل العقدة الفرعية التي أشار إليها oldChild من قائمة الأطفال ، ويعيدها .
+يزيل عقدة فرعية من الـ DOM ويعيد العقدة التي تم إزالتها.
+
+ملاحظة: طالما تم الاحتفاظ بإشارة إلى العنصر الفرعي المُزال، يظل موجودًا في الذاكرة، لكنه لم يعد جزءًا من DOM. يمكن إعادة استخدامه لاحقًا في الشيفرة. إذا لم يتم تخزين القيمة المرجعة من `RemoveChild`، ولم تُحفظ أي إشارة أخرى، فسيتم حذفها تلقائيًا من الذاكرة بعد وقت قصير.
 
 ```csharp
 public Node RemoveChild(Node child)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| child | Node | الطفل العجوز. |
+| child | Node | `[`Node`](../)` هو العقدة الفرعية التي سيتم إزالتها من DOM. |
 
 ### قيمة الإرجاع
 
-إرجاع العقدة
+على عكس [`CloneNode`](../clonenode/)، القيمة المرجعة تحتفظ بكائنات [`EventListener`](../../../aspose.svg.dom.events/ieventlistener/) المرتبطة بها.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: UnitType.KHz
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالكيلو هرتز.
+title: "UnitType.KHz"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType KHz. القياس بالكيلو هرتز."
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.drawing/unittype/khz/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.drawing/unittype/khz/
 public static readonly UnitType KHz;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

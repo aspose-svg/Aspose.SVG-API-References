@@ -1,23 +1,21 @@
 ---
-title: SVGZoomEvent.NewScale
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGZoomEvent ملكية. عامل القياس الذي سيكون ساري المفعول بعد معالجة عملية التكبير / التصغير .
+title: "SVGZoomEvent.NewScale"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية NewScale في SVGZoomEvent. عامل المقياس الذي سيكون ساريًا بعد معالجة عملية التكبير"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.events/svgzoomevent/newscale/
 ---
 ## SVGZoomEvent.NewScale property
 
-عامل القياس الذي سيكون ساري المفعول بعد معالجة عملية التكبير / التصغير .
+عامل المقياس الذي سيكون ساريًا بعد معالجة عملية التكبير.
 
 ```csharp
 public float NewScale { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGZoomEvent](../)
-* مساحة الاسم [Aspose.Svg.Events](../../svgzoomevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

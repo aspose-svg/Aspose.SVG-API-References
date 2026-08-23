@@ -1,24 +1,22 @@
 ---
-title: Document.OnDurationChange
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث لحدث OnDurationChange أو تعيينه.
+title: "Document.OnDurationChange"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnDurationChange. يحصل أو يعيّن معالج الحدث لحدث OnDurationChange"
 type: docs
 weight: 370
 url: /ar/net/aspose.svg.dom/document/ondurationchange/
 ---
 ## Document.OnDurationChange event
 
-الحصول على معالج الحدث لحدث OnDurationChange أو تعيينه.
+يحصل أو يضبط معالج الحدث لحدث OnDurationChange.
 
 ```csharp
 public event DOMEventHandler OnDurationChange;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

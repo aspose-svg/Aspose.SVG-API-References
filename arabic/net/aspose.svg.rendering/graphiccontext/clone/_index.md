@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.Clone
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext طريقة. إنشاء مثيل جديد لفئة GraphicContext بنفس قيم الخصائص كمثيل موجود.
+title: "GraphicContext.Clone"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GraphicContext Clone. تنشئ نسخة جديدة من فئة GraphicContext بنفس قيم الخصائص كما في نسخة موجودة"
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.rendering/graphiccontext/clone/
 ---
 ## GraphicContext.Clone method
 
-إنشاء مثيل جديد لفئة GraphicContext بنفس قيم الخصائص كمثيل موجود.
+ينشئ نسخة جديدة من فئة **GraphicContext** بنفس قيم الخصائص كما في النسخة الموجودة.
 
 ```csharp
 public virtual GraphicContext Clone()
@@ -16,12 +16,10 @@ public virtual GraphicContext Clone()
 
 ### قيمة الإرجاع
 
-مثيل GraphicContext
+نسخة من GraphicContext
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

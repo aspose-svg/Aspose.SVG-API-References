@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGAnimatedPathData
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Paths.ISVGAnimatedPathData واجهه المستخدم. تدعم واجهة SVGAnimatedPathData العناصر التي لها سمة d التي تحتفظ ببيانات مسار SVG  وتدعم القدرة على تحريك تلك السمة.
+title: "واجهة ISVGAnimatedPathData"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Paths.ISVGAnimatedPathData واجهة. تدعم واجهة SVGAnimatedPathData العناصر التي لديها سمة d التي تحتوي على بيانات مسار SVG وتدعم إمكانية تحريك تلك السمة"
 type: docs
-weight: 2480
+weight: 4550
 url: /ar/net/aspose.svg.paths/isvganimatedpathdata/
 ---
 ## ISVGAnimatedPathData interface
 
-تدعم واجهة SVGAnimatedPathData العناصر التي لها سمة 'd' التي تحتفظ ببيانات مسار SVG ، وتدعم القدرة على تحريك تلك السمة.
+واجهة SVGAnimatedPathData تدعم العناصر التي لديها سمة ‘d’ التي تحمل بيانات مسار SVG، وتدعم القدرة على تحريك تلك السمة.
 
 ```csharp
 public interface ISVGAnimatedPathData
@@ -16,14 +16,12 @@ public interface ISVGAnimatedPathData
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist/) { get; } | يوفر الوصول إلى المحتويات المتحركة الحالية للسمة "d" في نموذج يطابق واحدًا لواحد مع صيغة SVG. إذا تم تحريك السمة أو الخاصية المحددة ، فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية ، ويتم قراءة كل من الكائن نفسه ومحتوياته فقط. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا ، فستحتوي على نفس القيمة مثل pathSegList. |
-| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist/) { get; } | يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) للسمة "d" في نموذج يطابق واحدًا لواحد مع صيغة SVG. وبالتالي ، إذا كانت السمة 'd' تحتوي على أمر "الحركة المطلقة (M)" وأمر "arcto (A) المطلق" ، فسيكون لدى pathSegList إدخالان: SVG_PATHSEG_MOVETO_ABS و SVG_PATHSEG_ARC_ABS. |
+| [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist/) { get; } | يوفر الوصول إلى المحتويات المتحركة الحالية لسمة ‘d’ في صيغة تتطابق واحدًا لواحد مع صياغة SVG. إذا كانت السمة أو الخاصية المعطاة قيد التحريك، فإنه يحتوي على القيمة المتحركة الحالية لتلك السمة أو الخاصية، وكلا من الكائن نفسه ومحتوياته للقراءة فقط. إذا لم تكن السمة أو الخاصية المعطاة قيد التحريك حاليًا، فإنه يحتوي على نفس القيمة مثل pathSegList. |
+| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist/) { get; } | يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لسمة ‘d’ في صيغة تتطابق واحدًا لواحد مع صياغة SVG. وبالتالي، إذا كانت سمة ‘d’ تحتوي على أمر \"moveto مطلق (M)\" وأمر \"arcto مطلق (A)\", فإن pathSegList سيحتوي على مدخلين: SVG_PATHSEG_MOVETO_ABS و SVG_PATHSEG_ARC_ABS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

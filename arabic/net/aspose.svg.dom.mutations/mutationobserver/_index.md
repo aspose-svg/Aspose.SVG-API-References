@@ -1,39 +1,37 @@
 ---
-title: Class MutationObserver
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Mutations.MutationObserver فصل. أMutationObserver يمكن استخدام الكائن لمراقبة الطفرات في شجرةNode .
+title: "فئة MutationObserver"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Mutations.MutationObserver فئة. يمكن استخدام كائن MutationObserver لمراقبة التعديلات على شجرة Node"
 type: docs
-weight: 1120
+weight: 3110
 url: /ar/net/aspose.svg.dom.mutations/mutationobserver/
 ---
 ## MutationObserver class
 
-أ`MutationObserver` يمكن استخدام الكائن لمراقبة الطفرات في شجرة[`Node`](../../aspose.svg.dom/node/) .
+يمكن استخدام كائن `MutationObserver` لمراقبة التعديلات على شجرة [`Node`](../../aspose.svg.dom/node/).
 
 ```csharp
 public class MutationObserver : DOMObject
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MutationObserver](mutationobserver/)(MutationCallback) | إنشاء كائن MutationObserver وتعيين[`MutationCallback`](../mutationcallback/) لمعاودة الاتصال. يتم استدعاء رد الاتصال بقائمة كائنات MutationRecord كوسيطة أولى وكائن MutationObserver المركب كوسيطة ثانية. يتم استدعاؤه بعد العقد المسجلة مع!:Observe(Node, IMutationObserverInit) طريقة متحورة. |
+| [MutationObserver](mutationobserver/)(*[MutationCallback](../mutationcallback/)*) | ينشئ كائن MutationObserver ويضبط [`MutationCallback`](../mutationcallback/) الخاص به إلى callback. يتم استدعاء الـ callback مع قائمة من كائنات MutationRecord كوسيط أول وكائن MutationObserver المُنشأ كوسيط ثانٍ. يتم استدعاؤه بعد أن تُعدَّل العقد المسجَّلة باستخدام طريقة [`Observe`](./observe/). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Disconnect](../../aspose.svg.dom.mutations/mutationobserver/disconnect/)() | توقف المراقب عن ملاحظة أي طفرات. حتى يتم استخدام طريقة الملاحظة () مرة أخرى ، لن يتم استدعاء رد اتصال المراقب. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe)(Node) | يوجه وكيل المستخدم لملاحظة هدف معين (عقدة) والإبلاغ عن أي طفرات بناءً على المعايير التي تقدمها الخيارات (كائن) . تسمح وسيطة الخيارات بتعيين خيارات ملاحظة الطفرات عبر أعضاء الكائن. |
-| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe_1)(Node, MutationObserverInit) | يوجه وكيل المستخدم لملاحظة هدف معين (عقدة) والإبلاغ عن أي طفرات بناءً على المعايير التي تقدمها الخيارات (كائن) . تسمح وسيطة الخيارات بتعيين خيارات ملاحظة الطفرات عبر أعضاء الكائن. |
-| [TakeRecords](../../aspose.svg.dom.mutations/mutationobserver/takerecords/)() | تقوم الطريقة بإرجاع نسخة من قائمة انتظار السجل ثم إفراغ قائمة انتظار التسجيل. |
+| [Disconnect](../../aspose.svg.dom.mutations/mutationobserver/disconnect/)() | يوقف المراقب عن مراقبة أي تعديلات. حتى يتم استدعاء طريقة observe() مرة أخرى، لن يتم استدعاء callback الخاص بالمراقب. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe)(*[Node](../../aspose.svg.dom/node/)*) | يُعطي تعليمات لوكيل المستخدم لمراقبة هدف معين (عقدة) والإبلاغ عن أي تعديلات بناءً على المعايير المحددة في options (كائن). يسمح معامل options بتعيين خيارات مراقبة التعديلات عبر أعضاء الكائن. |
+| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe_1)(*[Node](../../aspose.svg.dom/node/), [MutationObserverInit](../mutationobserverinit/)*) | يُعطي تعليمات لوكيل المستخدم لمراقبة هدف معين (عقدة) والإبلاغ عن أي تعديلات بناءً على المعايير المحددة في options (كائن). يسمح معامل options بتعيين خيارات مراقبة التعديلات عبر أعضاء الكائن. |
+| [TakeRecords](../../aspose.svg.dom.mutations/mutationobserver/takerecords/)() | ترجع الطريقة نسخة من طابور السجلات ثم تُفرغ طابور السجلات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

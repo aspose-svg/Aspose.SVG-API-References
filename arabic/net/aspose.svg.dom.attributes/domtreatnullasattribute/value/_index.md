@@ -1,27 +1,25 @@
 ---
-title: DOMTreatNullAsAttribute.Value
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTreatNullAsAttribute ملكية. الحصول على القيمة أو تعيينها.
+title: "DOMTreatNullAsAttribute.Value"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMTreatNullAsAttribute Value property. يسترجع أو يعيّن القيمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
 ---
 ## DOMTreatNullAsAttribute.Value property
 
-الحصول على القيمة أو تعيينها.
+يحصل أو يعيّن القيمة.
 
 ```csharp
 public object Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTreatNullAsAttribute](../)
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

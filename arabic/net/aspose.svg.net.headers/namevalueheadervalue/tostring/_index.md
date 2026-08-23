@@ -1,14 +1,14 @@
 ---
-title: NameValueHeaderValue.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: NameValueHeaderValue طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "NameValueHeaderValue.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ToString في NameValueHeaderValue. تُعيد سلسلة تمثل هذه المثيل"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.net.headers/namevalueheadervalue/tostring/
 ---
 ## NameValueHeaderValue.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NameValueHeaderValue](../)
-* مساحة الاسم [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

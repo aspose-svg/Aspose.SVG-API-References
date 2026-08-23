@@ -1,32 +1,30 @@
 ---
-title: ICSSKeyframesRule.FindRule
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSKeyframesRule طريقة. ترجع طريقة findRule القاعدة بمفتاح يطابق المفتاح الذي تم تمريره. في حالة عدم وجود مثل هذه القاعدة  يتم إرجاع قيمة فارغة
+title: "ICSSKeyframesRule.FindRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة FindRule في ICSSKeyframesRule. تُعيد طريقة findRule القاعدة التي يطابق مفتاحها المفتاح الممرَّر. إذا لم توجد مثل هذه القاعدة تُرجع قيمة null"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.css/icsskeyframesrule/findrule/
 ---
 ## ICSSKeyframesRule.FindRule method
 
-ترجع طريقة findRule القاعدة بمفتاح يطابق المفتاح الذي تم تمريره. في حالة عدم وجود مثل هذه القاعدة ، يتم إرجاع قيمة فارغة
+طريقة findRule تُعيد القاعدة التي مفتاحها يطابق المفتاح الممرر. إذا لم توجد مثل هذه القاعدة، تُعاد قيمة فارغة (null).
 
 ```csharp
 public ICSSKeyframeRule FindRule(string key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح الذي وصف قاعدة البحث. يجب أن يتم حل المفتاح إلى رقم بين 0 و 1 ، أو يتم تجاهل القاعدة. |
+| المفتاح | String | المفتاح الذي يصف القاعدة التي يجب العثور عليها. يجب أن يكون المفتاح رقمًا بين 0 و 1، وإلا يتم تجاهل القاعدة |
 
 ### قيمة الإرجاع
 
-القاعدة الموجودة
+القاعدة التي تم العثور عليها
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSKeyframeRule](../../icsskeyframerule/)
 * interface [ICSSKeyframesRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

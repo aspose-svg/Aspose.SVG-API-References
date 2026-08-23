@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.Result
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEColorMatrixElement ملكية. يتوافق مع السمة نتيجة على عنصر عامل التصفية المحدد .
+title: "SVGFEColorMatrixElement.Result"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Result في SVGFEColorMatrixElement. تتطابق مع السمة result في عنصر الفلتر المحدد."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.filters/svgfecolormatrixelement/result/
 ---
 ## SVGFEColorMatrixElement.Result property
 
-يتوافق مع السمة "نتيجة" على عنصر "عامل التصفية" المحدد .
+يتطابق مع السمة ‘result’ في العنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "نتيجة" لعنصر "عامل التصفية" المحدد .
+السمة ‘result’ لعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEColorMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

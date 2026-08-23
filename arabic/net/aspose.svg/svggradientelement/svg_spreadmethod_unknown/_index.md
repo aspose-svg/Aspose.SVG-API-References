@@ -1,23 +1,21 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGradientElement مجال. النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+title: "SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGGradientElement SVG_SPREADMETHOD_UNKNOWN. النوع ليس أحد الأنواع المعرفة مسبقاً. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg/svggradientelement/svg_spreadmethod_unknown/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN field
 
-النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع.
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_UNKNOWN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

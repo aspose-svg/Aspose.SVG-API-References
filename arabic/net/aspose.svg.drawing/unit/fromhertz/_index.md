@@ -1,32 +1,30 @@
 ---
-title: Unit.FromHertz
-second_title: Aspose.SVG لمرجع .NET API
-description: Unit طريقة. إرجاع أFrequency الكائن الذي يتم تمثيله بالهرتز .
+title: "Unit.FromHertz"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Unit FromHertz. تُرجع كائن Frequency يُمثَّل بالهرتز"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.drawing/unit/fromhertz/
 ---
 ## Unit.FromHertz method
 
-إرجاع أ[`Frequency`](../../frequency/) الكائن الذي يتم تمثيله بالهرتز .
+تُرجع كائن [`Frequency`](../../frequency/) يُمثَّل بالهرتز.
 
 ```csharp
 public static Frequency FromHertz(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة. |
+| القيمة | Double | القيمة. |
 
 ### قيمة الإرجاع
 
-يعود أ[`Frequency`](../../frequency/) هدف.
+تُرجع كائن [`Frequency`](../../frequency/) .
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

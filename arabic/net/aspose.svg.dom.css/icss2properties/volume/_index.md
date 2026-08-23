@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Volume
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية وحدة التخزين في CSS2.
+title: "ICSS2Properties.Volume"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties Volume. انظر تعريف الخاصية volume في CSS2"
 type: docs
-weight: 1170
+weight: 1200
 url: /ar/net/aspose.svg.dom.css/icss2properties/volume/
 ---
 ## ICSS2Properties.Volume property
 
-راجع تعريف خاصية وحدة التخزين في CSS2.
+انظر إلى تعريف الخاصية volume في CSS2.
 
 ```csharp
 public string Volume { get; set; }
@@ -16,12 +16,10 @@ public string Volume { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الحجم
+خاصية volume
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

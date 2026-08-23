@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGTransform
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement طريقة. لتكوين كائن SVGTransform خارج أية شجرات مستندات. تتم تهيئة الكائن لتحويل مصفوفة الهوية SVG_TRANSFORM_MATRIX .
+title: "SVGSVGElement.CreateSVGTransform"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGSVGElement CreateSVGTransform. تنشئ كائن SVGTransform خارج أي شجرة مستندات. يتم تهيئة الكائن إلى تحويل مصفوفة هوية SVG_TRANSFORM_MATRIX"
 type: docs
 weight: 180
 url: /ar/net/aspose.svg/svgsvgelement/createsvgtransform/
 ---
 ## SVGSVGElement.CreateSVGTransform method
 
-لتكوين كائن SVGTransform خارج أية شجرات مستندات. تتم تهيئة الكائن لتحويل مصفوفة الهوية (SVG_TRANSFORM_MATRIX) .
+ينشئ كائن SVGTransform خارج أي شجرة مستندات. يتم تهيئة الكائن إلى تحويل مصفوفة هوية (SVG_TRANSFORM_MATRIX).
 
 ```csharp
 public SVGTransform CreateSVGTransform()
@@ -18,11 +18,9 @@ public SVGTransform CreateSVGTransform()
 
 كائن SVGTransform.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

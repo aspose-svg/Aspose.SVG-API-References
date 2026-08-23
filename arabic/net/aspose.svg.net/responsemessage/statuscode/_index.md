@@ -1,27 +1,25 @@
 ---
-title: ResponseMessage.StatusCode
-second_title: Aspose.SVG لمرجع .NET API
-description: ResponseMessage ملكية. الحصول على رمز الحالة أو تعيينه.
+title: "ResponseMessage.StatusCode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية StatusCode الخاصة بـ ResponseMessage. تحصل على أو تعيين رمز الحالة"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.svg.net/responsemessage/statuscode/
 ---
 ## ResponseMessage.StatusCode property
 
-الحصول على رمز الحالة أو تعيينه.
+يحصل أو يضبط رمز الحالة.
 
 ```csharp
 public HttpStatusCode StatusCode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-رمز الحالة .
+رمز الحالة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResponseMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../responsemessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

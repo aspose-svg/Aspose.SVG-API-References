@@ -1,23 +1,21 @@
 ---
-title: Interface ICSSUnknownRule
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSUnknownRule واجهه المستخدم. تمثل واجهة CSSUnknownRule قاعدة عامة لا يدعمها وكيل المستخدم هذا.
+title: "واجهة ICSSUnknownRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Css.ICSSUnknownRule. تمثل واجهة CSSUnknownRule قاعدة at-rule غير مدعومة من قبل وكيل المستخدم هذا."
 type: docs
-weight: 670
+weight: 2670
 url: /ar/net/aspose.svg.dom.css/icssunknownrule/
 ---
 ## ICSSUnknownRule interface
 
-تمثل واجهة CSSUnknownRule قاعدة عامة لا يدعمها وكيل المستخدم هذا.
+واجهة CSSUnknownRule تمثل at-rule غير مدعومة من قبل هذا وكيل المستخدم.
 
 ```csharp
 public interface ICSSUnknownRule : ICSSRule
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../icssrule/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

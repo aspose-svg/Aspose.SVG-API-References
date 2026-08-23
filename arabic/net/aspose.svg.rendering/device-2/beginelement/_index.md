@@ -1,33 +1,31 @@
 ---
-title: Device2.BeginElement
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يبدأ عرض العقدة .
+title: "Device-2.BeginElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device BeginElement. يبدأ عرض العقدة"
 type: docs
-weight: 50
+weight: 80
 url: /ar/net/aspose.svg.rendering/device-2/beginelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginElement method
+## Device<TGraphicContext,TRenderingOptions>.BeginElement method
 
-يبدأ عرض العقدة .
+يبدأ رسم العقدة.
 
 ```csharp
-public abstract bool BeginElement(Element element, RectangleF rect)
+public virtual bool BeginElement(Element element, RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | element | Element | ال[`Element`](../../../aspose.svg.dom/element/). |
-| rect | RectangleF | الصندوق المحيط بالعقدة. |
+| rect | RectangleF | مربع الإحاطة للعقدة. |
 
 ### قيمة الإرجاع
 
-إرجاع [صواب] إذا كان يجب معالجة العنصر.
+يرجع [true] إذا كان يجب معالجة العنصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

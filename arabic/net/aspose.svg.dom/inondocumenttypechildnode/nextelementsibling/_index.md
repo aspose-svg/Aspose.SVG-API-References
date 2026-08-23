@@ -1,28 +1,26 @@
 ---
-title: INonDocumentTypeChildNode.NextElementSibling
-second_title: Aspose.SVG لمرجع .NET API
-description: INonDocumentTypeChildNode ملكية. إرجاع الشقيق التالي الأول وهو عنصر  وبخلاف ذلك القيمة خالية.
+title: "INonDocumentTypeChildNode.NextElementSibling"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية INonDocumentTypeChildNode NextElementSibling. تُرجع أول أخ تابع يكون عنصرًا وإلا تُعيد null."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/
 ---
 ## INonDocumentTypeChildNode.NextElementSibling property
 
-إرجاع الشقيق التالي الأول وهو عنصر ، وبخلاف ذلك القيمة خالية.
+يرجع الأخ الأصغر التالي الأول الذي يكون عنصرًا، وإلا null.
 
 ```csharp
 public Element NextElementSibling { get; }
 ```
 
-### Property_Value
+### Property Value
 
-شقيق العنصر التالي .
+الأخ العنصر التالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * interface [INonDocumentTypeChildNode](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../inondocumenttypechildnode/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

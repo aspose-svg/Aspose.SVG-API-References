@@ -1,27 +1,25 @@
 ---
-title: ICSSCharsetRule.Encoding
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSCharsetRule ملكية. معلومات الترميز المستخدمة في قاعدةcharset .
+title: "ICSSCharsetRule.Encoding"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSSCharsetRule Encoding. معلومات الترميز المستخدمة في قاعدة مجموعة الأحرف هذه"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icsscharsetrule/encoding/
 ---
 ## ICSSCharsetRule.Encoding property
 
-معلومات الترميز المستخدمة في قاعدةcharset .
+معلومات الترميز المستخدمة في قاعدة @charset هذه.
 
 ```csharp
 public string Encoding { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الترميز .
+الترميز.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSCharsetRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsscharsetrule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

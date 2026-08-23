@@ -1,23 +1,21 @@
 ---
-title: Node.ENTITY_REFERENCE_NODE
-second_title: Aspose.SVG لمرجع .NET API
-description: Node مجال. عقدة مرجعية لكيان
+title: "Node.ENTITY_REFERENCE_NODE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل Node ENTITY_REFERENCE_NODE. عقدة إشارة كيان"
 type: docs
-weight: 400
+weight: 380
 url: /ar/net/aspose.svg.dom/node/entity_reference_node/
 ---
 ## Node.ENTITY_REFERENCE_NODE field
 
-عقدة مرجعية لكيان
+عقدة إشارة كيان
 
 ```csharp
 public const ushort ENTITY_REFERENCE_NODE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

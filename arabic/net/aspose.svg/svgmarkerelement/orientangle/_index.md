@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.OrientAngle
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMarkerElement ملكية. يتوافق مع السمة orient على عنصر العلامة المحدد. إذا كانت markerUnits هي SVG_MARKER_ORIENT_ANGLE  فإن قيمة الزاوية للسمة orient  وإلا فسيتم ضبطه على صفر.
+title: "SVGMarkerElement.OrientAngle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGMarkerElement OrientAngle. تتطابق مع السمة orient على عنصر marker المحدد. إذا كانت markerUnits هي SVG_MARKER_ORIENT_ANGLE فإن قيمة الزاوية للسمة orient ستُستخدم وإلا سيتم تعيينها إلى صفر"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgmarkerelement/orientangle/
 ---
 ## SVGMarkerElement.OrientAngle property
 
-يتوافق مع السمة "orient" على عنصر "العلامة" المحدد. إذا كانت markerUnits هي SVG_MARKER_ORIENT_ANGLE ، فإن قيمة الزاوية للسمة "orient" ؛ وإلا فسيتم ضبطه على صفر.
+يتطابق مع السمة ‘orient’ في عنصر ‘marker’ المحدد. إذا كانت markerUnits هي SVG_MARKER_ORIENT_ANGLE، فإن قيمة الزاوية للسمة ‘orient’; وإلا، سيتم تعيينها إلى صفر.
 
 ```csharp
 public SVGAnimatedAngle OrientAngle { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "الاتجاه" لعنصر "العلامة" المحدد .
+السمة ‘orient’ لعنصر ‘marker’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedAngle](../../../aspose.svg.datatypes/svganimatedangle/)
 * class [SVGMarkerElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgmarkerelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

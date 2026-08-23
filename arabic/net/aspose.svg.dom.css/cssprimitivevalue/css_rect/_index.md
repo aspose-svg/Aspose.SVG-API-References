@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_RECT
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي دالة مستقيمة. يمكن الحصول على القيمة باستخدام طريقة GetRectValue.
+title: "CSSPrimitiveValue.CSS_RECT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_RECT. القيمة هي دالة rect. يمكن الحصول على القيمة باستخدام طريقة GetRectValue."
 type: docs
-weight: 350
+weight: 360
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_rect/
 ---
 ## CSSPrimitiveValue.CSS_RECT field
 
-القيمة هي دالة مستقيمة. يمكن الحصول على القيمة باستخدام طريقة GetRectValue.
+القيمة هي دالة rect. يمكن الحصول على القيمة باستخدام طريقة GetRectValue.
 
 ```csharp
 public const ushort CSS_RECT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

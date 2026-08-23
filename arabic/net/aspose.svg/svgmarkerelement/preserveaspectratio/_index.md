@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.PreserveAspectRatio
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMarkerElement ملكية. يتوافق مع السمة saveAspectRatio للعنصر المحدد.
+title: "SVGMarkerElement.PreserveAspectRatio"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGMarkerElement PreserveAspectRatio. تتطابق مع السمة preserveAspectRatio على العنصر المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgmarkerelement/preserveaspectratio/
 ---
 ## SVGMarkerElement.PreserveAspectRatio property
 
-يتوافق مع السمة "saveAspectRatio" للعنصر المحدد.
+يتطابق مع السمة ‘preserveAspectRatio’ في العنصر المعطى.
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### Property_Value
+### Property Value
 
-"نسبة العرض إلى الارتفاع" للعنصر المحدد.
+‘preserveAspectRatio’ للعنصر المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGMarkerElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgmarkerelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

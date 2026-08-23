@@ -1,7 +1,7 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.SVG لمرجع .NET API
-description: Metered طريقة. يحصل على حجم ملف الاستهلاك
+title: "Metered.GetConsumptionQuantity"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Metered GetConsumptionQuantity. تحصل على حجم ملف الاستهلاك"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/metered/getconsumptionquantity/
@@ -18,10 +18,8 @@ public static decimal GetConsumptionQuantity()
 
 كمية الاستهلاك
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.Svg](../../metered/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

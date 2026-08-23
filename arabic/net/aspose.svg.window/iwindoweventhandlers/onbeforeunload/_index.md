@@ -1,24 +1,22 @@
 ---
-title: IWindowEventHandlers.OnBeforeUnload
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindowEventHandlers حدث. الحصول على معالج الأحداث أو تعيينه
+title: "IWindowEventHandlers.OnBeforeUnload"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IWindowEventHandlers حدث OnBeforeUnload. يحصل أو يضبط معالج الحدث"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.window/iwindoweventhandlers/onbeforeunload/
 ---
 ## IWindowEventHandlers.OnBeforeUnload event
 
-الحصول على معالج الأحداث أو تعيينه
+يحصل أو يضبط معالج الحدث
 
 ```csharp
 public event DOMEventHandler OnBeforeUnload;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

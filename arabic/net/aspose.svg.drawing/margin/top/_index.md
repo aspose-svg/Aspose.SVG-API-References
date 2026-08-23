@@ -1,28 +1,26 @@
 ---
-title: Margin.Top
-second_title: Aspose.SVG لمرجع .NET API
-description: Margin ملكية. الحصول على القمة أو تحديدها .
+title: "Margin.Top"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Margin Top. تحصل أو تعيين الأعلى"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.drawing/margin/top/
 ---
 ## Margin.Top property
 
-الحصول على القمة أو تحديدها .
+يحصل أو يضبط القيمة العلوية.
 
 ```csharp
 public LengthOrAuto Top { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القمة .
+الأعلى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../margin/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

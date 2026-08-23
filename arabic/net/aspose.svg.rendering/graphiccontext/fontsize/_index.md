@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.FontSize
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. تعيين حجم خط النص أو الحصول عليه.
+title: "GraphicContext.FontSize"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext FontSize. يضبط أو يحصل على حجم خط النص"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.svg.rendering/graphiccontext/fontsize/
 ---
 ## GraphicContext.FontSize property
 
-تعيين حجم خط النص أو الحصول عليه.
+يضبط أو يحصل على حجم خط النص.
 
 ```csharp
 public virtual float FontSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

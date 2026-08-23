@@ -1,33 +1,31 @@
 ---
-title: Interface IUserAgentService
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Services.IUserAgentService واجهه المستخدم. واجهة موصوفة بيئة وكيل المستخدم.
+title: "واجهة IUserAgentService"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Services.IUserAgentService. واجهة تصف بيئة وكيل المستخدم"
 type: docs
-weight: 3770
+weight: 5870
 url: /ar/net/aspose.svg.services/iuseragentservice/
 ---
 ## IUserAgentService interface
 
-واجهة موصوفة بيئة وكيل المستخدم.
+واجهة تصف بيئة وكيل المستخدم.
 
 ```csharp
-public interface IUserAgentService : IService
+public interface IUserAgentService
 ```
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CharSet](../../aspose.svg.services/iuseragentservice/charset/) { get; set; } | الحصول على مجموعة الأحرف الأولية لمستند أو تعيينها. |
-| [CSSEngineMode](../../aspose.svg.services/iuseragentservice/cssenginemode/) { get; set; } | الحصول على أو تعيين الوضع الذي يعمل فيه محرك CSS. |
-| [FontsSettings](../../aspose.svg.services/iuseragentservice/fontssettings/) { get; } | يحصل على أ!:Html.FontsSettings كائن يستخدم لتكوين التعامل مع الخطوط . |
-| [Language](../../aspose.svg.services/iuseragentservice/language/) { get; set; } | ملف[`Language`](./language/) يحدد اللغة الأساسية لمحتويات العنصر ولأي من سمات العنصر التي تحتوي على نص. يجب أن تكون قيمتها BCP 47 صالحة ( علامة اللغة ، أو السلسلة الفارغة. يشير تعيين السمة إلى السلسلة الفارغة إلى أن اللغة الأساسية غير معروفة. |
-| [UserStyleSheet](../../aspose.svg.services/iuseragentservice/userstylesheet/) { get; set; } | يسمح بتحديد معلومات النمط لمستند معين |
+| [CharSet](../../aspose.svg.services/iuseragentservice/charset/) { get; set; } | يحصل أو يضبط مجموعة الأحرف الأساسية للمستند. |
+| [CSSEngineMode](../../aspose.svg.services/iuseragentservice/cssenginemode/) { get; set; } | يحصل أو يضبط الوضع الذي يعمل به محرك CSS. |
+| [FontsSettings](../../aspose.svg.services/iuseragentservice/fontssettings/) { get; } | يحصل على كائن !:Html.FontsSettings الذي يُستخدم لتكوين معالجة الخطوط. |
+| [Language](../../aspose.svg.services/iuseragentservice/language/) { get; set; } | تحدد [`Language`](./language/) اللغة الأساسية لمحتويات العنصر وأي من سمات العنصر التي تحتوي على نص. يجب أن تكون قيمتها علامة لغة صالحة وفق BCP 47، أو السلسلة الفارغة. ضبط السمة على السلسلة الفارغة يشير إلى أن اللغة الأساسية غير معروفة. |
+| [ShowImagePlaceholders](../../aspose.svg.services/iuseragentservice/showimageplaceholders/) { get; set; } | يمكن للصور أن تحتوي على محتوى احتياطي: المحتوى الذي يجب استخدامه عندما لا يمكن استخدام مورد خارجي (على سبيل المثال، لأنه بتنسيق غير مدعوم). تحدد الخاصية [`ShowImagePlaceholders`](./showimageplaceholders/) ما إذا كان سيتم عرض الصورة الاحتياطية (القيمة الافتراضية هي true). |
+| [UserStyleSheet](../../aspose.svg.services/iuseragentservice/userstylesheet/) { get; set; } | يسمح بتحديد معلومات النمط لمستند معين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IService](../iservice/)
-* مساحة الاسم [Aspose.Svg.Services](../../aspose.svg.services/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

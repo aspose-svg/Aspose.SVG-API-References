@@ -1,28 +1,26 @@
 ---
-title: RenderingOptions.Css
-second_title: Aspose.SVG لمرجع .NET API
-description: RenderingOptions ملكية. يحصل على أCssOptions الكائن المستخدم لتكوين معالجة خصائص css.
+title: "RenderingOptions.Css"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RenderingOptions Css. يحصل على كائن CssOptions الذي يُستخدم لتكوين معالجة خصائص CSS."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.rendering/renderingoptions/css/
 ---
 ## RenderingOptions.Css property
 
-يحصل على أ[`CssOptions`](../../cssoptions/) الكائن المستخدم لتكوين معالجة خصائص css.
+يحصل على كائن [`CssOptions`](../../cssoptions/) الذي يُستخدم لتكوين معالجة خصائص CSS.
 
 ```csharp
 public CssOptions Css { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`CssOptions`](../../cssoptions/) الكائن .
+كائن [`CssOptions`](../../cssoptions/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CssOptions](../../cssoptions/)
 * class [RenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

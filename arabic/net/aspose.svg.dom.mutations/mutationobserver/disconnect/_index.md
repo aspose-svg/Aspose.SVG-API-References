@@ -1,23 +1,21 @@
 ---
-title: MutationObserver.Disconnect
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserver طريقة. توقف المراقب عن ملاحظة أي طفرات. حتى يتم استخدام طريقة الملاحظة  مرة أخرى  لن يتم استدعاء رد اتصال المراقب.
+title: "MutationObserver.Disconnect"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MutationObserver Disconnect. توقف المراقب عن مراقبة أي تغييرات. حتى يتم استخدام طريقة observe مرة أخرى لن يتم استدعاء callback الخاص بالمراقب."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.mutations/mutationobserver/disconnect/
 ---
 ## MutationObserver.Disconnect method
 
-توقف المراقب عن ملاحظة أي طفرات. حتى يتم استخدام طريقة الملاحظة () مرة أخرى ، لن يتم استدعاء رد اتصال المراقب.
+يوقف المراقب عن مراقبة أي تعديلات. حتى يتم استدعاء طريقة observe() مرة أخرى، لن يتم استدعاء callback الخاص بالمراقب.
 
 ```csharp
 public void Disconnect()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserver](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

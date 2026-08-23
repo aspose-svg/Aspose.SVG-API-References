@@ -1,23 +1,21 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfDocumentInfo ملكية. الكلمات الرئيسية المرتبطة بالمستند .
+title: "PdfDocumentInfo.Keywords"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PdfDocumentInfo Keywords. الكلمات المفتاحية المرتبطة بالمستند"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.rendering.pdf/pdfdocumentinfo/keywords/
 ---
 ## PdfDocumentInfo.Keywords property
 
-الكلمات الرئيسية المرتبطة بالمستند .
+الكلمات المفتاحية المرتبطة بالمستند.
 
 ```csharp
 public string Keywords { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

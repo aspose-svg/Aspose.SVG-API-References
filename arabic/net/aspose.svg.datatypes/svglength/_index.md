@@ -1,14 +1,14 @@
 ---
-title: Class SVGLength
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.DataTypes.SVGLength فصل. تتوافق واجهة SVGLength مع نوع البيانات الأساسي للطول. يمكن تعيين كائن SVGLength للقراءة فقط  مما يعني أن محاولات تعديل الكائن ستؤدي إلى طرح استثناء  كما هو موضح أدناه.
+title: "فئة SVGLength"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.DataTypes.SVGLength. تتطابق واجهة SVGLength مع نوع البيانات الأساسي للطول. يمكن تعيين كائن SVGLength على أنه للقراءة فقط، مما يعني أن محاولات تعديل الكائن ستؤدي إلى استثناء يُرمى كما هو موضح أدناه"
 type: docs
-weight: 220
+weight: 2210
 url: /ar/net/aspose.svg.datatypes/svglength/
 ---
 ## SVGLength class
 
-تتوافق واجهة SVGLength مع نوع البيانات الأساسي للطول. يمكن تعيين كائن SVGLength للقراءة فقط ، مما يعني أن محاولات تعديل الكائن ستؤدي إلى طرح استثناء ، كما هو موضح أدناه.
+واجهة SVGLength تتطابق مع نوع البيانات الأساسي length. يمكن تعيين كائن SVGLength كقراءة فقط، مما يعني أن محاولات تعديل الكائن ستؤدي إلى رمي استثناء، كما هو موضح أدناه.
 
 ```csharp
 public class SVGLength : SVGValueType
@@ -16,43 +16,41 @@ public class SVGLength : SVGValueType
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [UnitType](../../aspose.svg.datatypes/svglength/unittype/) { get; } | نوع القيمة كما هو محدد بواسطة أحد ثوابت SVG_LENGTHTYPE_ * المحددة في هذه الواجهة . |
-| [Value](../../aspose.svg.datatypes/svglength/value/) { get; set; } | القيمة كقيمة فاصلة عائمة بوحدات المستخدم. سيؤدي تعيين هذه السمة إلى تحديث valueInSpecifiedUnits و valueAsString تلقائيًا لتعكس هذا الإعداد. |
-| [ValueAsString](../../aspose.svg.datatypes/svglength/valueasstring/) { get; set; } | القيمة كقيمة سلسلة ، بالوحدات التي يتم التعبير عنها بواسطة نوع الوحدة. سيؤدي تعيين هذه السمة إلى تحديث القيمة و valueInSpecifiedUnits و unitType تلقائيًا لتعكس هذا الإعداد. |
-| [ValueInSpecifiedUnits](../../aspose.svg.datatypes/svglength/valueinspecifiedunits/) { get; set; } | القيمة كقيمة فاصلة عائمة بالوحدات التي يتم التعبير عنها بواسطة نوع الوحدة. سيؤدي تعيين هذه السمة إلى تحديث القيمة والقيمة AsString تلقائيًا لتعكس هذا الإعداد. |
+| [UnitType](../../aspose.svg.datatypes/svglength/unittype/) { get; } | نوع القيمة كما هو محدد بأحد الثوابت SVG_LENGTHTYPE_* المعرفة في هذه الواجهة. |
+| [Value](../../aspose.svg.datatypes/svglength/value/) { get; set; } | القيمة كقيمة نقطية عائمة، بوحدات المستخدم. سيؤدي ضبط هذه السمة إلى تحديث valueInSpecifiedUnits و valueAsString تلقائيًا لتعكس هذا الإعداد. |
+| [ValueAsString](../../aspose.svg.datatypes/svglength/valueasstring/) { get; set; } | القيمة كسلسلة نصية، بالوحدات التي يحددها unitType. سيؤدي ضبط هذه السمة إلى تحديث value و valueInSpecifiedUnits و unitType تلقائيًا لتعكس هذا الإعداد. |
+| [ValueInSpecifiedUnits](../../aspose.svg.datatypes/svglength/valueinspecifiedunits/) { get; set; } | القيمة كقيمة نقطية عائمة، بالوحدات التي يحددها unitType. سيؤدي ضبط هذه السمة إلى تحديث value و valueAsString تلقائيًا لتعكس هذا الإعداد. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ConvertToSpecifiedUnits](../../aspose.svg.datatypes/svglength/converttospecifiedunits/)(ushort) | احتفظ بنفس القيمة المخزنة الأساسية ، لكن أعد تعيين معرف الوحدة المخزنة إلى نوع الوحدة المحدد. قد يتم تعديل سمات الكائن unitType و valueInSpecifiedUnits و valueAsString كنتيجة لهذه الطريقة. على سبيل المثال ، إذا كانت القيمة الأصلية "0.5 سم" وتم استدعاء الطريقة للتحويل إلى ملليمترات ، فسيتم تغيير نوع الوحدة إلى SVG_LENGTHTYPE_MM ، وسيتم تغيير valueInSpecifiedUnits إلى القيمة الرقمية 5 وسيتم تغيير القيمة AsString إلى "5mm". |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [NewValueSpecifiedUnits](../../aspose.svg.datatypes/svglength/newvaluespecifiedunits/)(ushort, float) | إعادة تعيين القيمة كرقم مع نوع الوحدة المرتبط ، وبالتالي استبدال القيم لجميع السمات الموجودة على الكائن. |
-| override [ToString](../../aspose.svg.datatypes/svglength/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| [ConvertToSpecifiedUnits](../../aspose.svg.datatypes/svglength/converttospecifiedunits/)(*ushort*) | حافظ على نفس القيمة المخزنة الأساسية، ولكن أعد تعيين معرف الوحدة المخزنة إلى unitType المعطى. قد يتم تعديل سمات الكائن unitType و valueInSpecifiedUnits و valueAsString نتيجة لهذه الطريقة. على سبيل المثال، إذا كانت القيمة الأصلية "0.5cm" وتم استدعاء الطريقة للتحويل إلى مليمترات، فإن unitType سيتغير إلى SVG_LENGTHTYPE_MM، و valueInSpecifiedUnits سيتغير إلى القيمة العددية 5، و valueAsString سيتغير إلى "5mm". |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [NewValueSpecifiedUnits](../../aspose.svg.datatypes/svglength/newvaluespecifiedunits/)(*ushort, float*) | أعد ضبط القيمة كرقم مع unitType المرتبط، وبالتالي استبدال القيم لجميع السمات على الكائن. |
+| override [ToString](../../aspose.svg.datatypes/svglength/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [SVG_LENGTHTYPE_CM](../../aspose.svg.datatypes/svglength/svg_lengthtype_cm/) | تم تحديد قيمة باستخدام وحدات cm المحددة في CSS2. |
-| const [SVG_LENGTHTYPE_EMS](../../aspose.svg.datatypes/svglength/svg_lengthtype_ems/) | تم تحديد قيمة باستخدام وحدات em المحددة في CSS2. |
-| const [SVG_LENGTHTYPE_EXS](../../aspose.svg.datatypes/svglength/svg_lengthtype_exs/) | تم تحديد قيمة باستخدام الوحدات السابقة المحددة في CSS2. |
-| const [SVG_LENGTHTYPE_IN](../../aspose.svg.datatypes/svglength/svg_lengthtype_in/) | تم تحديد قيمة باستخدام الوحدات المحددة في CSS2. |
-| const [SVG_LENGTHTYPE_MM](../../aspose.svg.datatypes/svglength/svg_lengthtype_mm/) | تم تحديد قيمة باستخدام وحدات mm المحددة في CSS2. |
-| const [SVG_LENGTHTYPE_NUMBER](../../aspose.svg.datatypes/svglength/svg_lengthtype_number/) | لم يتم توفير نوع وحدة (على سبيل المثال ، تم تحديد قيمة بدون وحدة) ، مما يشير إلى قيمة بوحدات المستخدم. |
-| const [SVG_LENGTHTYPE_PC](../../aspose.svg.datatypes/svglength/svg_lengthtype_pc/) | تم تحديد قيمة باستخدام وحدات الكمبيوتر المحددة في CSS2. |
-| const [SVG_LENGTHTYPE_PERCENTAGE](../../aspose.svg.datatypes/svglength/svg_lengthtype_percentage/) | تم تحديد قيمة النسبة المئوية . |
+| const [SVG_LENGTHTYPE_CM](../../aspose.svg.datatypes/svglength/svg_lengthtype_cm/) | تم تحديد قيمة باستخدام وحدات cm المعرفة في CSS2. |
+| const [SVG_LENGTHTYPE_EMS](../../aspose.svg.datatypes/svglength/svg_lengthtype_ems/) | تم تحديد قيمة باستخدام وحدات em المعرفة في CSS2. |
+| const [SVG_LENGTHTYPE_EXS](../../aspose.svg.datatypes/svglength/svg_lengthtype_exs/) | تم تحديد قيمة باستخدام وحدات ex المعرفة في CSS2. |
+| const [SVG_LENGTHTYPE_IN](../../aspose.svg.datatypes/svglength/svg_lengthtype_in/) | تم تحديد قيمة باستخدام وحدات in المعرفة في CSS2. |
+| const [SVG_LENGTHTYPE_MM](../../aspose.svg.datatypes/svglength/svg_lengthtype_mm/) | تم تحديد قيمة باستخدام وحدات mm المعرفة في CSS2. |
+| const [SVG_LENGTHTYPE_NUMBER](../../aspose.svg.datatypes/svglength/svg_lengthtype_number/) | لم يتم توفير نوع وحدة (أي تم تحديد قيمة بدون وحدة)، مما يشير إلى قيمة بوحدات المستخدم. |
+| const [SVG_LENGTHTYPE_PC](../../aspose.svg.datatypes/svglength/svg_lengthtype_pc/) | تم تحديد قيمة باستخدام وحدات pc المعرفة في CSS2. |
+| const [SVG_LENGTHTYPE_PERCENTAGE](../../aspose.svg.datatypes/svglength/svg_lengthtype_percentage/) | تم تحديد قيمة كنسبة مئوية. |
 | const [SVG_LENGTHTYPE_PT](../../aspose.svg.datatypes/svglength/svg_lengthtype_pt/) | تم تحديد قيمة باستخدام وحدات pt المعرفة في CSS2. |
-| const [SVG_LENGTHTYPE_PX](../../aspose.svg.datatypes/svglength/svg_lengthtype_px/) | تم تحديد قيمة باستخدام وحدات البكسل المحددة في CSS2. |
-| const [SVG_LENGTHTYPE_UNKNOWN](../../aspose.svg.datatypes/svglength/svg_lengthtype_unknown/) | نوع الوحدة ليس أحد أنواع الوحدات المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع. |
+| const [SVG_LENGTHTYPE_PX](../../aspose.svg.datatypes/svglength/svg_lengthtype_px/) | تم تحديد قيمة باستخدام وحدات px المعرفة في CSS2. |
+| const [SVG_LENGTHTYPE_UNKNOWN](../../aspose.svg.datatypes/svglength/svg_lengthtype_unknown/) | نوع الوحدة ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGValueType](../svgvaluetype/)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

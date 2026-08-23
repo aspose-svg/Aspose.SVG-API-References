@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontWeight
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية وزن الخط في CSS2.
+title: "ICSS2Properties.FontWeight"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties FontWeight. انظر تعريف الخاصية font-weight في CSS2"
 type: docs
 weight: 540
 url: /ar/net/aspose.svg.dom.css/icss2properties/fontweight/
 ---
 ## ICSS2Properties.FontWeight property
 
-راجع تعريف خاصية وزن الخط في CSS2.
+انظر تعريف خاصية font-weight في CSS2.
 
 ```csharp
 public string FontWeight { get; set; }
@@ -16,12 +16,10 @@ public string FontWeight { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية وزن الخط
+خاصية font-weight
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

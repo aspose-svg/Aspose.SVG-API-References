@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegClosePath
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement طريقة. إرجاع كائن SVGPathSegClosePath مستقل وغير أبوي.
+title: "SVGPathElement.CreateSVGPathSegClosePath"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPathElement CreateSVGPathSegClosePath. تُرجِع كائن SVGPathSegClosePath مستقل لا يملك أبًا."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/svgpathelement/createsvgpathsegclosepath/
 ---
 ## SVGPathElement.CreateSVGPathSegClosePath method
 
-إرجاع كائن SVGPathSegClosePath مستقل وغير أبوي.
+يرجع كائن SVGPathSegClosePath مستقل لا يملك أبًا.
 
 ```csharp
 public SVGPathSegClosePath CreateSVGPathSegClosePath()
@@ -16,13 +16,11 @@ public SVGPathSegClosePath CreateSVGPathSegClosePath()
 
 ### قيمة الإرجاع
 
-كائن SVGPathSegClosePath قائم بذاته وبدون أب.
+كائن SVGPathSegClosePath مستقل لا يملك أبًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegClosePath](../../../aspose.svg.paths/svgpathsegclosepath/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

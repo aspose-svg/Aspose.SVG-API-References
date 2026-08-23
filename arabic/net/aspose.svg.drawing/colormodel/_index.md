@@ -1,36 +1,34 @@
 ---
-title: Enum ColorModel
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.ColorModel تعداد. يتم استخدام هذا التعداد لتحديد نموذج اللون للعمل مع مكونات اللون.
+title: "ColorModel تعداد"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تعداد Aspose.Svg.Drawing.ColorModel. يُستخدم هذا التعداد لاختيار نموذج اللون للعمل مع مكونات اللون"
 type: docs
-weight: 1400
+weight: 3400
 url: /ar/net/aspose.svg.drawing/colormodel/
 ---
 ## ColorModel enumeration
 
-يتم استخدام هذا التعداد لتحديد نموذج اللون للعمل مع مكونات اللون.
+يُستخدم هذا التعداد لتحديد نموذج اللون للعمل مع مكونات اللون.
 
 ```csharp
 public enum ColorModel
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Rgb | `0` | نموذج اللون الأحمر والأخضر والأزرق |
-| Hsl | `1` | نموذج لون تدرج اللون والتشبع واللمعان |
-| Hsv | `2` | نموذج لون قيمة تشبع تدرج اللون |
-| Hwb | `3` | نموذج لون التدرج-البياض-السواد |
-| Cmyk | `4` | نموذج الألوان السماوي والأرجواني والأصفر والمفتاح |
-| Lab | `5` | نموذج لون الإضاءة- AB |
-| Oklab | `6` | خفة محسّنة - طراز AB |
-| Lch | `7` | نموذج لون الإضاءة-كروما-هوى |
-| Oklch | `8` | نموذج ألوان محسّن من Luminance-Chroma-Hue |
+| Rgb | `0` | نموذج اللون الأحمر-الأخضر-الأزرق |
+| Hsl | `1` | نموذج اللون درجة-تشبع-إضاءة |
+| Hsv | `2` | نموذج اللون درجة-تشبع-قيمة |
+| Hwb | `3` | نموذج اللون درجة-بياض-سواد |
+| Cmyk | `4` | نموذج اللون سيان-ماجنتا-أصفر-المفتاح |
+| Lab | `5` | نموذج اللون الإضاءة-A-B |
+| Oklab | `6` | نموذج Lightness-A-B المحسن |
+| Lch | `7` | نموذج اللون Luminance-Chroma-Hue |
+| Oklch | `8` | نموذج اللون Luminance-Chroma-Hue المحسن |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

@@ -1,69 +1,69 @@
 ---
-title: Class Converter
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Converters.Converter فصل. الواجهة المشتركة فقط لسيناريوهات التحويل في أغلب الأحيان. ووظائف API منخفضة المستوى موثقة.
+title: "فئة Converter"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Converters.Converter. واجهة مشتركة فقط لأكثر سيناريوهات التحويل شيوعًا. توفر مجموعة واسعة من التحويلات إلى الصيغ الشائعة مثل PDF وXPS وصيغ الصور وغيرها. حالات الاستخدام المحددة أكثر للتحويل والعرض والحفظ تُقدم عبر وظائف API منخفضة المستوى المعروفة والموثقة."
 type: docs
-weight: 70
+weight: 2060
 url: /ar/net/aspose.svg.converters/converter/
 ---
 ## Converter class
 
-الواجهة المشتركة فقط لسيناريوهات التحويل في أغلب الأحيان. ووظائف API منخفضة المستوى موثقة.
+واجهة مشتركة فقط لأكثر سيناريوهات التحويل شيوعًا. توفر مجموعة واسعة من التحويلات إلى الصيغ الشائعة، مثل PDF و XPS وصيغ الصور، إلخ. حالات الاستخدام الخاصة بالتحويل (التصيير، الحفظ) الأكثر تحديدًا تُعرض عبر وظائف API منخفضة المستوى المعروفة والموثقة.
 
 ```csharp
 public static class Converter
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_24)(string, ImageSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_25)(string, ImageSaveOptions, string) | قم بتحويل مستند svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_26)(string, PdfSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_27)(string, PdfSaveOptions, string) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_28)(string, XpsSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_29)(string, XpsSaveOptions, string) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg)(SVGDocument, ImageSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_1)(SVGDocument, ImageSaveOptions, string) | قم بتحويل مستند svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_2)(SVGDocument, PdfSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_3)(SVGDocument, PdfSaveOptions, string) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_4)(SVGDocument, XpsSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_5)(SVGDocument, XpsSaveOptions, string) | قم بتحويل مستند svg إلى xps ، والنتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_12)(Url, ImageSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_13)(Url, ImageSaveOptions, string) | قم بتحويل مستند svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_14)(Url, PdfSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_15)(Url, PdfSaveOptions, string) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_16)(Url, XpsSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_17)(Url, XpsSaveOptions, string) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_18)(string, Configuration, ImageSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_19)(string, Configuration, ImageSaveOptions, string) | قم بتحويل مستند svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_20)(string, Configuration, PdfSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_21)(string, Configuration, PdfSaveOptions, string) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_22)(string, Configuration, XpsSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_23)(string, Configuration, XpsSaveOptions, string) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_36)(string, string, ImageSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_37)(string, string, ImageSaveOptions, string) | قم بتحويل مستند svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_38)(string, string, PdfSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_39)(string, string, PdfSaveOptions, string) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_40)(string, string, XpsSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_41)(string, string, XpsSaveOptions, string) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_6)(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_7)(Url, Configuration, ImageSaveOptions, string) | قم بتحويل مستند svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_8)(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_9)(Url, Configuration, PdfSaveOptions, string) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_10)(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_11)(Url, Configuration, XpsSaveOptions, string) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_30)(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_31)(string, string, Configuration, ImageSaveOptions, string) | قم بتحويل مستند svg إلى صورة. النتيجة هي ملف الصورة. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_32)(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_33)(string, string, Configuration, PdfSaveOptions, string) | تحويل مصدر svg إلى pdf. النتيجة هي ملف pdf. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_34)(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
-| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_35)(string, string, Configuration, XpsSaveOptions, string) | تحويل مصدر svg إلى xps. النتيجة هي ملف xps. |
+| static [ConvertImageToSVG](../../aspose.svg.converters/converter/convertimagetosvg/#convertimagetosvg)(*[ImageVectorizerConfiguration](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/), Stream, string*) | يقوم بتحويل صورة نقطية مقدمة كدفق إلى صيغة SVG. |
+| static [ConvertImageToSVG](../../aspose.svg.converters/converter/convertimagetosvg/#convertimagetosvg_1)(*[ImageVectorizerConfiguration](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/), string, string*) | يقوم بتحويل صورة نقطية موجودة على القرص إلى صيغة SVG. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_24)(*string, [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_25)(*string, [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), string*) | تحويل مستند SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_26)(*string, [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_27)(*string, [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), string*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_28)(*string, [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_29)(*string, [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), string*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg)(*[SVGDocument](../../aspose.svg/svgdocument/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_1)(*[SVGDocument](../../aspose.svg/svgdocument/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), string*) | تحويل مستند SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_2)(*[SVGDocument](../../aspose.svg/svgdocument/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_3)(*[SVGDocument](../../aspose.svg/svgdocument/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), string*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_4)(*[SVGDocument](../../aspose.svg/svgdocument/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_5)(*[SVGDocument](../../aspose.svg/svgdocument/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), string*) | تحويل مستند SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_12)(*[Url](../../aspose.svg/url/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_13)(*[Url](../../aspose.svg/url/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), string*) | تحويل مستند SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_14)(*[Url](../../aspose.svg/url/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_15)(*[Url](../../aspose.svg/url/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), string*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_16)(*[Url](../../aspose.svg/url/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_17)(*[Url](../../aspose.svg/url/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), string*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_18)(*string, [Configuration](../../aspose.svg/configuration/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_19)(*string, [Configuration](../../aspose.svg/configuration/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), string*) | تحويل مستند SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_20)(*string, [Configuration](../../aspose.svg/configuration/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_21)(*string, [Configuration](../../aspose.svg/configuration/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), string*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_22)(*string, [Configuration](../../aspose.svg/configuration/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_23)(*string, [Configuration](../../aspose.svg/configuration/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), string*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_36)(*string, string, [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_37)(*string, string, [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), string*) | تحويل مستند SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_38)(*string, string, [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_39)(*string, string, [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), string*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_40)(*string, string, [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_41)(*string, string, [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), string*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_6)(*[Url](../../aspose.svg/url/), [Configuration](../../aspose.svg/configuration/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_7)(*[Url](../../aspose.svg/url/), [Configuration](../../aspose.svg/configuration/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), string*) | تحويل مستند SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_8)(*[Url](../../aspose.svg/url/), [Configuration](../../aspose.svg/configuration/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_9)(*[Url](../../aspose.svg/url/), [Configuration](../../aspose.svg/configuration/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), string*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_10)(*[Url](../../aspose.svg/url/), [Configuration](../../aspose.svg/configuration/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_11)(*[Url](../../aspose.svg/url/), [Configuration](../../aspose.svg/configuration/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), string*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_30)(*string, string, [Configuration](../../aspose.svg/configuration/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_31)(*string, string, [Configuration](../../aspose.svg/configuration/), [ImageSaveOptions](../../aspose.svg.saving/imagesaveoptions/), string*) | تحويل مستند SVG إلى صورة. النتيجة ملف صورة. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_32)(*string, string, [Configuration](../../aspose.svg/configuration/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_33)(*string, string, [Configuration](../../aspose.svg/configuration/), [PdfSaveOptions](../../aspose.svg.saving/pdfsaveoptions/), string*) | تحويل مصدر SVG إلى PDF. النتيجة ملف PDF. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_34)(*string, string, [Configuration](../../aspose.svg/configuration/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
+| static [ConvertSVG](../../aspose.svg.converters/converter/convertsvg/#convertsvg_35)(*string, string, [Configuration](../../aspose.svg/configuration/), [XpsSaveOptions](../../aspose.svg.saving/xpssaveoptions/), string*) | تحويل مصدر SVG إلى XPS. النتيجة ملف XPS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Converters](../../aspose.svg.converters/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Converters](../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../)

@@ -1,73 +1,71 @@
 ---
-title: MultipartFormDataContent.Add
-second_title: Aspose.SVG لمرجع .NET API
-description: MultipartFormDataContent طريقة. أضف المحتوى إلى ملفMultipartFormDataContent فئة
+title: "MultipartFormDataContent.Add"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MultipartFormDataContent Add. أضف المحتوى إلى الفئة MultipartFormDataContent."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net/multipartformdatacontent/add/
 ---
-## Add(Content) {#add}
+## Add(*[Content](../../content/)*) {#add}
 
-أضف المحتوى إلى ملف[`MultipartFormDataContent`](../) فئة
+أضف المحتوى إلى الفئة [`MultipartFormDataContent`](../).
 
 ```csharp
 public override void Add(Content content)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| content | Content | المحتوى. |
+| content | المحتوى | المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartformdatacontent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string) {#add_1}
+## Add(*[Content](../../content/), string*) {#add_1}
 
-أضف المحتوى إلى ملف[`MultipartFormDataContent`](../) فئة مع اسم المجال معلمة
+أضف المحتوى إلى الفئة [`MultipartFormDataContent`](../) مع معامل اسم الحقل
 
 ```csharp
 public void Add(Content content, string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| content | Content | المحتوى. |
-| name | String | اسم الحقل. |
+| content | المحتوى | المحتوى. |
+| الاسم | String | اسم الحقل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartformdatacontent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string, string) {#add_2}
+## Add(*[Content](../../content/), string, string*) {#add_2}
 
-أضف المحتوى إلى ملف[`MultipartFormDataContent`](../) فئة مع حقل واسم ملف معلمة
+أضف المحتوى إلى الفئة [`MultipartFormDataContent`](../) مع معامل اسم الحقل واسم الملف
 
 ```csharp
 public void Add(Content content, string name, string fileName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| content | Content | المحتوى. |
-| name | String | اسم الحقل. |
+| content | المحتوى | المحتوى. |
+| الاسم | String | اسم الحقل. |
 | fileName | String | اسم الملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartformdatacontent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

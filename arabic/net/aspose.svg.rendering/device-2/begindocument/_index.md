@@ -1,28 +1,26 @@
 ---
-title: Device2.BeginDocument
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يبدأ عرض المستند.
+title: "Device-2.BeginDocument"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Device BeginDocument. يبدأ عرض المستند"
 type: docs
-weight: 40
+weight: 70
 url: /ar/net/aspose.svg.rendering/device-2/begindocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginDocument method
+## Device<TGraphicContext,TRenderingOptions>.BeginDocument method
 
-يبدأ عرض المستند.
+يبدأ تصيير المستند.
 
 ```csharp
 public virtual void BeginDocument(Document document)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند. |
+| المستند | المستند | المستند. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../../../aspose.svg.dom/document/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

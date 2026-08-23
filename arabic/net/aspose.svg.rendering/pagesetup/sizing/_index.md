@@ -1,24 +1,22 @@
 ---
-title: PageSetup.Sizing
-second_title: Aspose.SVG لمرجع .NET API
-description: PageSetup ملكية. الحصول على نوع التحجيم أو تعيينه.
+title: "PageSetup.Sizing"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PageSetup Sizing. الحصول أو تعيين نوع التحجيم"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.rendering/pagesetup/sizing/
 ---
 ## PageSetup.Sizing property
 
-الحصول على نوع التحجيم أو تعيينه.
+يحصل أو يضبط نوع التحجيم.
 
 ```csharp
 public SizingType Sizing { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SizingType](../../sizingtype/)
 * class [PageSetup](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../pagesetup/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

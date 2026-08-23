@@ -1,39 +1,37 @@
 ---
-title: SVGPathElement.CreateSVGPathSegArcRel
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement طريقة. إرجاع كائن SVGPathSegArcRel مستقل وغير أبوي.
+title: "SVGPathElement.CreateSVGPathSegArcRel"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPathElement CreateSVGPathSegArcRel. تُرجِع كائن SVGPathSegArcRel مستقل لا يملك أبًا."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgpathelement/createsvgpathsegarcrel/
 ---
 ## SVGPathElement.CreateSVGPathSegArcRel method
 
-إرجاع كائن SVGPathSegArcRel مستقل وغير أبوي.
+يرجع كائن SVGPathSegArcRel مستقل لا يملك أبًا.
 
 ```csharp
 public SVGPathSegArcRel CreateSVGPathSegArcRel(float x, float y, float r1, float r2, float angle, 
     bool largeArcFlag, bool sweepFlag)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | إحداثي X النسبي لنقطة نهاية مقطع المسار هذا. |
-| y | Single | إحداثي Y النسبي لنقطة نهاية مقطع المسار هذا. |
-| r1 | Single | نصف قطر المحور السيني للقطع الناقص (على سبيل المثال ، r1). |
-| r2 | Single | نصف قطر المحور y للقطع الناقص (أي r2). |
-| angle | Single | زاوية الدوران بالدرجات للمحور x للقطع الناقص بالنسبة إلى المحور x لنظام إحداثيات المستخدم. |
-| largeArcFlag | Boolean | قيمة معلمة علم القوس الكبير. |
-| sweepFlag | Boolean | قيمة معلمة علم القوس الكبير. |
+| x | Single | الإحداثي X النسبي لنقطة النهاية لهذا مقطع المسار. |
+| y | Single | الإحداثي Y النسبي لنقطة النهاية لهذا مقطع المسار. |
+| r1 | Single | نصف قطر محور x للقطع الناقص (أي r1). |
+| r2 | Single | نصف قطر محور y للقطع الناقص (أي r2). |
+| angle | Single | زاوية الدوران بالدرجات لمحور x للقطع الناقص بالنسبة لمحور x لنظام إحداثيات المستخدم. |
+| largeArcFlag | Boolean | قيمة معامل large-arc-flag. |
+| sweepFlag | Boolean | قيمة معامل large-arc-flag. |
 
 ### قيمة الإرجاع
 
-كائن SVGPathSegArcRel قائم بذاته وبدون أب.
+كائن SVGPathSegArcRel مستقل لا يملك أبًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegArcRel](../../../aspose.svg.paths/svgpathsegarcrel/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

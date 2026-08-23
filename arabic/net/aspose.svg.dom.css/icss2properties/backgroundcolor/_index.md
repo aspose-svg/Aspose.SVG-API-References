@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BackgroundColor
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية لون الخلفية في CSS2.
+title: "ICSS2Properties.BackgroundColor"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية BackgroundColor في ICSS2Properties. راجع تعريف خاصية background-color في CSS2"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.css/icss2properties/backgroundcolor/
 ---
 ## ICSS2Properties.BackgroundColor property
 
-راجع تعريف خاصية لون الخلفية في CSS2.
+انظر تعريف خاصية background-color في CSS2.
 
 ```csharp
 public string BackgroundColor { get; set; }
@@ -16,12 +16,10 @@ public string BackgroundColor { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية لون الخلفية
+خاصية background-color
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

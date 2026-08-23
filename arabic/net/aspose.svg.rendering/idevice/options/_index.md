@@ -1,24 +1,22 @@
 ---
-title: IDevice.Options
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice ملكية. يحصل على خيارات التقديم .
+title: "IDevice.Options"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IDevice Options. يحصل على خيارات العرض"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering/idevice/options/
 ---
 ## IDevice.Options property
 
-يحصل على خيارات التقديم .
+يحصل على خيارات التصيير.
 
 ```csharp
 public RenderingOptions Options { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenderingOptions](../../renderingoptions/)
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

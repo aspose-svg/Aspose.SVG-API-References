@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_DPCM
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي نقطة لكل سنتيمتر dpcm .
+title: "CSSPrimitiveValue.CSS_DPCM"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_DPCM. القيمة هي نقاط لكل سنتيمتر (dpcm)."
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_dpcm/
 ---
 ## CSSPrimitiveValue.CSS_DPCM field
 
-القيمة هي نقطة لكل سنتيمتر (dpcm) .
+القيمة هي نقاط لكل سنتيمتر (dpcm).
 
 ```csharp
 public const ushort CSS_DPCM;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

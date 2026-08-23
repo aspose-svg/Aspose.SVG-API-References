@@ -1,37 +1,35 @@
 ---
-title: CSSValue.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValue طريقة. تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+title: "CSSValue.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSValue Equals. تحدد ما إذا كان الكائن المحدد يساوي هذه النسخة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/cssvalue/equals/
 ---
 ## CSSValue.Equals method
 
-تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذه النسخة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | كائن | الكائن للمقارنة مع هذه النسخة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد مساويًا لهذه النسخة؛ وإلا، `false`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NullReferenceException | ملف*obj* المعلمة فارغة. |
+| NullReferenceException | المعامل *obj* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

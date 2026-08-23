@@ -1,14 +1,14 @@
 ---
-title: Interface IWindowEventHandlers
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Window.IWindowEventHandlers واجهه المستخدم. يمثل الواجهة التي يجب أن يتم توريثها بواسطة كائن النافذة
+title: "IWindowEventHandlers واجهة"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Window.IWindowEventHandlers واجهة. تمثل الواجهة التي يجب أن يرثها كائن النافذة"
 type: docs
-weight: 3830
+weight: 5930
 url: /ar/net/aspose.svg.window/iwindoweventhandlers/
 ---
 ## IWindowEventHandlers interface
 
-يمثل الواجهة التي يجب أن يتم توريثها بواسطة كائن النافذة
+يمثل واجهة يجب أن يرثها كائن النافذة
 
 ```csharp
 public interface IWindowEventHandlers
@@ -16,24 +16,22 @@ public interface IWindowEventHandlers
 
 ## الأحداث
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| event [OnAfterPrint](../../aspose.svg.window/iwindoweventhandlers/onafterprint/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnBeforePrint](../../aspose.svg.window/iwindoweventhandlers/onbeforeprint/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnBeforeUnload](../../aspose.svg.window/iwindoweventhandlers/onbeforeunload/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnHashChange](../../aspose.svg.window/iwindoweventhandlers/onhashchange/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnMessage](../../aspose.svg.window/iwindoweventhandlers/onmessage/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnOffline](../../aspose.svg.window/iwindoweventhandlers/onoffline/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnOnline](../../aspose.svg.window/iwindoweventhandlers/ononline/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnPageHide](../../aspose.svg.window/iwindoweventhandlers/onpagehide/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnPageShow](../../aspose.svg.window/iwindoweventhandlers/onpageshow/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnPopState](../../aspose.svg.window/iwindoweventhandlers/onpopstate/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnStorage](../../aspose.svg.window/iwindoweventhandlers/onstorage/) | الحصول على معالج الأحداث أو تعيينه |
-| event [OnUnload](../../aspose.svg.window/iwindoweventhandlers/onunload/) | الحصول على معالج الأحداث أو تعيينه |
+| event [OnAfterPrint](../../aspose.svg.window/iwindoweventhandlers/onafterprint/) | يحصل أو يضبط معالج الحدث |
+| event [OnBeforePrint](../../aspose.svg.window/iwindoweventhandlers/onbeforeprint/) | يحصل أو يضبط معالج الحدث |
+| event [OnBeforeUnload](../../aspose.svg.window/iwindoweventhandlers/onbeforeunload/) | يحصل أو يضبط معالج الحدث |
+| event [OnHashChange](../../aspose.svg.window/iwindoweventhandlers/onhashchange/) | يحصل أو يضبط معالج الحدث |
+| event [OnMessage](../../aspose.svg.window/iwindoweventhandlers/onmessage/) | يحصل أو يضبط معالج الحدث |
+| event [OnOffline](../../aspose.svg.window/iwindoweventhandlers/onoffline/) | يحصل أو يضبط معالج الحدث |
+| event [OnOnline](../../aspose.svg.window/iwindoweventhandlers/ononline/) | يحصل أو يضبط معالج الحدث |
+| event [OnPageHide](../../aspose.svg.window/iwindoweventhandlers/onpagehide/) | يحصل أو يضبط معالج الحدث |
+| event [OnPageShow](../../aspose.svg.window/iwindoweventhandlers/onpageshow/) | يحصل أو يضبط معالج الحدث |
+| event [OnPopState](../../aspose.svg.window/iwindoweventhandlers/onpopstate/) | يحصل أو يضبط معالج الحدث |
+| event [OnStorage](../../aspose.svg.window/iwindoweventhandlers/onstorage/) | يحصل أو يضبط معالج الحدث |
+| event [OnUnload](../../aspose.svg.window/iwindoweventhandlers/onunload/) | يحصل أو يضبط معالج الحدث |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Window](../../aspose.svg.window/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

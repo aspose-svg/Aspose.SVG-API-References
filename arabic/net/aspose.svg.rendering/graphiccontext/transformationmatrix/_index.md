@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.TransformationMatrix
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. تعيين مصفوفة التحويل أو الحصول عليها.
+title: "GraphicContext.TransformationMatrix"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext TransformationMatrix. يضبط أو يحصل على مصفوفة التحويل"
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.rendering/graphiccontext/transformationmatrix/
 ---
 ## GraphicContext.TransformationMatrix property
 
-تعيين مصفوفة التحويل أو الحصول عليها.
+يضبط أو يحصل على مصفوفة التحويل.
 
 ```csharp
-public virtual Matrix TransformationMatrix { get; set; }
+public virtual IMatrix TransformationMatrix { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

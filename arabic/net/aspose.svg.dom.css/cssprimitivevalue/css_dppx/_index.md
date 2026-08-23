@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_DPPX
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة عبارة عن نقاط لكل وحدة بكسل dppx .
+title: "CSSPrimitiveValue.CSS_DPPX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_DPPX. القيمة هي وحدة نقاط لكل بكسل dppx."
 type: docs
 weight: 190
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_dppx/
 ---
 ## CSSPrimitiveValue.CSS_DPPX field
 
-القيمة عبارة عن نقاط لكل وحدة "بكسل" (dppx) .
+القيمة هي نقاط لكل وحدة ‘px’ (dppx).
 
 ```csharp
 public const ushort CSS_DPPX;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

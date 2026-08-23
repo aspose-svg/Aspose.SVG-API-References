@@ -1,32 +1,30 @@
 ---
-title: ProtocolMessageFilter.Match
-second_title: Aspose.SVG لمرجع .NET API
-description: ProtocolMessageFilter طريقة. عند التجاوز في فئة مشتقة  يختبر ما إذا كان السياق يفي بمعايير التصفية.
+title: "ProtocolMessageFilter.Match"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ProtocolMessageFilter Match. عندما يتم تجاوزها في فئة مشتقة تختبر ما إذا كان Context يفي بمعايير الفلتر"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net.messagefilters/protocolmessagefilter/match/
 ---
 ## ProtocolMessageFilter.Match method
 
-عند التجاوز في فئة مشتقة ، يختبر ما إذا كان السياق يفي بمعايير التصفية.
+عند تجاوزها في فئة مشتقة، تختبر ما إذا كان السياق يفي بمعايير الفلتر.
 
 ```csharp
 public override bool Match(INetworkOperationContext context)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | context | INetworkOperationContext | السياق. |
 
 ### قيمة الإرجاع
 
-حقيقي إذا كان كائن السياق يفي بمعايير التصفية ؛ خلاف ذلك،خطأ شنيع .
+true إذا كان كائن Context يفي بمعايير الفلتر؛ وإلا، false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [INetworkOperationContext](../../../aspose.svg.net/inetworkoperationcontext/)
 * class [ProtocolMessageFilter](../)
-* مساحة الاسم [Aspose.Svg.Net.MessageFilters](../../protocolmessagefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../../)

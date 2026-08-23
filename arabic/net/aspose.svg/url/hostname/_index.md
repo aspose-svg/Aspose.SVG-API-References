@@ -1,27 +1,25 @@
 ---
-title: Url.Hostname
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. الحصول على تمثيل سلسلة لاسم مضيف URL المحدد أو تعيينه.
+title: "Url.Hostname"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Hostname. تحصل أو تعين تمثيلًا نصيًا لاسم المضيف المحدد في URL."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/url/hostname/
 ---
 ## Url.Hostname property
 
-الحصول على تمثيل سلسلة لاسم مضيف URL المحدد أو تعيينه.
+يحصل أو يعيّن تمثيلًا نصيًا لاسم المضيف (hostname) للعنوان URL المحدد.
 
 ```csharp
 public string Hostname { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم المضيف .
+اسم المضيف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

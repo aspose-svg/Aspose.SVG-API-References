@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.CtrlKey
-second_title: Aspose.SVG لمرجع .NET API
-description: KeyboardEvent ملكية. true إذا كان معدِّل مفتاح التحكم عنصر التحكم نشطًا. يجب أن تكون القيمة غير المهيأة لهذه السمة خاطئة.
+title: "KeyboardEvent.CtrlKey"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية KeyboardEvent CtrlKey. true إذا كان معدل مفتاح Control نشط. يجب أن تكون القيمة غير المبدئية لهذا السمة false"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.events/keyboardevent/ctrlkey/
 ---
 ## KeyboardEvent.CtrlKey property
 
-true إذا كان معدِّل مفتاح التحكم (عنصر التحكم) نشطًا. يجب أن تكون القيمة غير المهيأة لهذه السمة خاطئة.
+true إذا كان مُعدل المفتاح Control (التحكم) نشطًا. يجب أن تكون القيمة غير المهيأة لهذه الخاصية false.
 
 ```csharp
 public bool CtrlKey { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان التحكم ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا Control؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KeyboardEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

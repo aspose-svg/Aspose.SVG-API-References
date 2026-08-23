@@ -1,32 +1,30 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoVerticalRel
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement طريقة. إرجاع كائن SVGPathSegLinetoVerticalRel قائم بذاته وبدون أب.
+title: "SVGPathElement.CreateSVGPathSegLinetoVerticalRel"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPathElement CreateSVGPathSegLinetoVerticalRel. تُرجِع كائن SVGPathSegLinetoVerticalRel مستقل لا يملك أبًا."
 type: docs
 weight: 190
 url: /ar/net/aspose.svg/svgpathelement/createsvgpathseglinetoverticalrel/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoVerticalRel method
 
-إرجاع كائن SVGPathSegLinetoVerticalRel قائم بذاته وبدون أب.
+يرجع كائن SVGPathSegLinetoVerticalRel مستقل لا يملك أبًا.
 
 ```csharp
 public SVGPathSegLinetoVerticalRel CreateSVGPathSegLinetoVerticalRel(float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| y | Single | إحداثي Y النسبي لنقطة نهاية مقطع المسار هذا. |
+| y | Single | الإحداثي Y النسبي لنقطة النهاية لهذا مقطع المسار. |
 
 ### قيمة الإرجاع
 
-كائن SVGPathSegLinetoVerticalRel قائم بذاته وبدون أب.
+كائن SVGPathSegLinetoVerticalRel مستقل لا يملك أبًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegLinetoVerticalRel](../../../aspose.svg.paths/svgpathseglinetoverticalrel/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

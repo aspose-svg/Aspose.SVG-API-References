@@ -1,33 +1,31 @@
 ---
-title: SVGLength.ValueInSpecifiedUnits
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLength ملكية. القيمة كقيمة فاصلة عائمة بالوحدات التي يتم التعبير عنها بواسطة نوع الوحدة. سيؤدي تعيين هذه السمة إلى تحديث القيمة والقيمة AsString تلقائيًا لتعكس هذا الإعداد.
+title: "SVGLength.ValueInSpecifiedUnits"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGLength ValueInSpecifiedUnits. القيمة كقيمة نقطية عائمة بالوحدات التي يعبر عنها unitType. ضبط هذه الخاصية سيؤدي إلى تحديث value و valueAsString تلقائيًا لتعكس هذا الإعداد."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.datatypes/svglength/valueinspecifiedunits/
 ---
 ## SVGLength.ValueInSpecifiedUnits property
 
-القيمة كقيمة فاصلة عائمة بالوحدات التي يتم التعبير عنها بواسطة نوع الوحدة. سيؤدي تعيين هذه السمة إلى تحديث القيمة والقيمة AsString تلقائيًا لتعكس هذا الإعداد.
+القيمة كقيمة نقطية عائمة، بالوحدات التي يحددها unitType. سيؤدي ضبط هذه السمة إلى تحديث value و valueAsString تلقائيًا لتعكس هذا الإعداد.
 
 ```csharp
 public float ValueInSpecifiedUnits { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة بالوحدات المحددة .
+القيمة بالوحدات المحددة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) تُرفع عندما يتوافق الطول مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) يُرفع عندما يتطابق الطول مع سمة للقراءة فقط أو عندما يكون الكائن نفسه للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGLength](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svglength/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

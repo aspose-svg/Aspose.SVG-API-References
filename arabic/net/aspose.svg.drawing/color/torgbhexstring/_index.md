@@ -1,14 +1,14 @@
 ---
-title: Color.ToRgbHexString
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون سداسي عشري محدد بـ  RRGGBB.
+title: "Color.ToRgbHexString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color ToRgbHexString. تُرجع لونًا سداسيًا عشريًا يُحدَّد بصيغة RRGGBB"
 type: docs
 weight: 410
 url: /ar/net/aspose.svg.drawing/color/torgbhexstring/
 ---
 ## Color.ToRgbHexString method
 
-إرجاع لون سداسي عشري محدد بـ: # RRGGBB.
+يعيد لونًا سداسيًا عشريًا يُحدد بـ: #RRGGBB.
 
 ```csharp
 public string ToRgbHexString()
@@ -16,12 +16,10 @@ public string ToRgbHexString()
 
 ### قيمة الإرجاع
 
-سلسلة ألوان سداسية عشرية.
+سلسلة لون سداسي عشري.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

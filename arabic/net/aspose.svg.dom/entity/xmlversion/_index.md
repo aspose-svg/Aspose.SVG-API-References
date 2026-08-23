@@ -1,27 +1,25 @@
 ---
-title: Entity.XmlVersion
-second_title: Aspose.SVG لمرجع .NET API
-description: Entity ملكية. سمة تحدد  كجزء من الإعلان النصي  رقم إصدار هذا الكيان  عندما يكون كيانًا خارجيًا محللًا. هذا لاغى خلاف ذلك.
+title: "Entity.XmlVersion"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية XmlVersion في Entity. سمة تحدد كجزء من إعلان النص رقم إصدار هذا الكيان عندما يكون كيانًا مُحللاً خارجيًا. تكون القيمة null في غير ذلك."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom/entity/xmlversion/
 ---
 ## Entity.XmlVersion property
 
-سمة تحدد ، كجزء من الإعلان النصي ، رقم إصدار هذا الكيان ، عندما يكون كيانًا خارجيًا محللًا. هذا لاغى خلاف ذلك.
+خاصية تحدد، كجزء من إعلان النص، رقم إصدار هذا الكيان عندما يكون كيانًا خارجيًا مُحللاً. تكون القيمة null في غير ذلك.
 
 ```csharp
 public string XmlVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إصدار XML .
+إصدار XML.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Entity](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../entity/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

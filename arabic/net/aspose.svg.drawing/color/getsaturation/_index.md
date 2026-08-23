@@ -1,14 +1,14 @@
 ---
-title: Color.GetSaturation
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع تشبع اللون.
+title: "Color.GetSaturation"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color GetSaturation. تُرجع تشبع اللون."
 type: docs
 weight: 350
 url: /ar/net/aspose.svg.drawing/color/getsaturation/
 ---
 ## Color.GetSaturation method
 
-إرجاع تشبع اللون.
+يعيد قيمة saturation للون.
 
 ```csharp
 public float GetSaturation()
@@ -16,12 +16,10 @@ public float GetSaturation()
 
 ### قيمة الإرجاع
 
-تشبع اللون.
+تشبع للون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

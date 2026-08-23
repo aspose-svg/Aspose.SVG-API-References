@@ -1,14 +1,14 @@
 ---
-title: Node.HasChildNodes
-second_title: Aspose.SVG لمرجع .NET API
-description: Node طريقة. إرجاع ما إذا كان لهذه العقدة أي توابع.
+title: "Node.HasChildNodes"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Node HasChildNodes. تُعيد قيمة منطقية تشير إلى ما إذا كانت العقدة المعطاة تحتوي على عقد فرعية أم لا"
 type: docs
-weight: 210
+weight: 190
 url: /ar/net/aspose.svg.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method
 
-إرجاع ما إذا كان لهذه العقدة أي توابع.
+تُعيد قيمة منطقية تشير إلى ما إذا كانت الـ[`Node`](../) المعطاة تحتوي على عقد فرعية أم لا.
 
 ```csharp
 public bool HasChildNodes()
@@ -16,12 +16,10 @@ public bool HasChildNodes()
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان لديه عقد فرعية خلاف ذلك ،`خطأ شنيع` .
+قيمة منطقية تكون true إذا كانت العقدة تحتوي على عقد فرعية، وfalse خلاف ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

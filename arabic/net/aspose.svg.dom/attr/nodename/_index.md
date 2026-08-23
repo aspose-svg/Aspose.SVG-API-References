@@ -1,27 +1,25 @@
 ---
-title: Attr.NodeName
-second_title: Aspose.SVG لمرجع .NET API
-description: Attr ملكية. اسم هذه العقدة حسب نوعها.
+title: "Attr.NodeName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Attr NodeName. اسم هذه العقدة حسب نوعها."
 type: docs
-weight: 50
+weight: 40
 url: /ar/net/aspose.svg.dom/attr/nodename/
 ---
 ## Attr.NodeName property
 
-اسم هذه العقدة حسب نوعها.
+اسم هذه العقدة، حسب نوعها.
 
 ```csharp
 public override string NodeName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم العقدة .
+اسم العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../attr/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

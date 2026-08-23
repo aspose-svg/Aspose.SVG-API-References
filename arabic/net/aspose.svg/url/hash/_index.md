@@ -1,27 +1,25 @@
 ---
-title: Url.Hash
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. الحصول على تمثيل سلسلة أو تعيينه لقطاع تجزئة عنوان URL المحدد.
+title: "Url.Hash"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Hash. تحصل أو تعين تمثيل نصي لجزء التجزئة المحدد من عنوان URL."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/url/hash/
 ---
 ## Url.Hash property
 
-الحصول على تمثيل سلسلة أو تعيينه لقطاع تجزئة عنوان URL المحدد.
+يحصل أو يعيّن تمثيلًا نصيًا لجزء التجزئة (hash) للعنوان URL المحدد.
 
 ```csharp
 public string Hash { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التجزئة .
+التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

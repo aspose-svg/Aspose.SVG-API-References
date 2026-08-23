@@ -1,39 +1,37 @@
 ---
-title: Class ImageVectorizerConfiguration
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.ImageVectorizerConfiguration فصل. ملفImageVectorizerConfiguration تحدد الفئة تكوين طرق وخيارات تحويل الصورة.
+title: "فئة ImageVectorizerConfiguration"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.ImageVectorization.ImageVectorizerConfiguration. تُعرّف فئة ImageVectorizerConfiguration تكوينًا لطرق وخيارات تحويل الصور إلى متجهات. يُستخدم التكوين لتهيئة ImageVectorizer ويوفر خيارات التكوين لتوجيه الصور إلى متجهات."
 type: docs
-weight: 2150
+weight: 4220
 url: /ar/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/
 ---
 ## ImageVectorizerConfiguration class
 
-ملف`ImageVectorizerConfiguration` تحدد الفئة تكوين طرق وخيارات تحويل الصورة.
+تُعرّف فئة `ImageVectorizerConfiguration` تكوينًا لطرق وخيارات تحويل الصور إلى متجهات. يُستخدم التكوين لتهيئة ImageVectorizer ويوفر خيارات التكوين لتوجيه الصور إلى متجهات.
 
 ```csharp
 public class ImageVectorizerConfiguration
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageVectorizerConfiguration](imagevectorizerconfiguration/)() | يقوم بتهيئة مثيل جديد لملف`ImageVectorizerConfiguration` فئة . |
+| [ImageVectorizerConfiguration](imagevectorizerconfiguration/)() | يُنشئ مثيلًا جديدًا من فئة `ImageVectorizerConfiguration`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/backgroundcolor/) { get; set; } | الحصول على لون الخلفية أو تعيينه . القيمة الافتراضية بيضاء شفافة. |
-| [ColorsLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/colorslimit/) { get; set; } | الحصول على أو تعيين الحد الأقصى لعدد الألوان المستخدمة لتكميم الصورة. القيمة الافتراضية هي 25. |
-| [ImageSizeLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit/) { get; set; } | الحصول على أو تعيين أقصى بُعد للصورة يتم تحديده عن طريق مضاعفة عرض الصورة وارتفاعها. سيتم قياس حجم الصورة بناءً على هذه الخاصية. القيمة الافتراضية هي 1800000. |
-| [LineWidth](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/linewidth/) { get; set; } | الحصول على عرض الخط أو تحديده. تتأثر قيمة هذه المعلمة بمقياس الرسومات . القيمة الافتراضية هي 1. |
-| [PathBuilder](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder/) { get; set; } | الحصول على أو تعيين منشئ مقاطع مسار SVG. |
-| [Stencil](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/stencil/) { get; set; } | الحصول على تكوين تأثير الاستنسل أو تعيينه. بشكل افتراضي ، لا يتم تطبيق أي تأثير استنسل. |
+| [BackgroundColor](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/backgroundcolor/) { get; set; } | يحصل أو يعيّن لون الخلفية. القيمة الافتراضية هي الأبيض الشفاف. |
+| [ColorsLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/colorslimit/) { get; set; } | يحصل أو يعيّن الحد الأقصى لعدد الألوان المستخدمة لتكميم الصورة. القيمة الافتراضية هي 25. |
+| [ImageSizeLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit/) { get; set; } | يحصل أو يعيّن البُعد الأقصى للصورة المحدد بضرب عرض الصورة في ارتفاعها. سيتم تعديل حجم الصورة بناءً على هذه الخاصية. القيمة الافتراضية هي 1800000. |
+| [LineWidth](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/linewidth/) { get; set; } | يحصل أو يعيّن عرض الخط. تتأثر قيمة هذا المعامل بمقياس الرسومات. القيمة الافتراضية هي 1. |
+| [PathBuilder](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder/) { get; set; } | يحصل أو يعيّن مُنشئ مقاطع مسار SVG. |
+| [Stencil](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/stencil/) { get; set; } | يحصل أو يعيّن تكوين تأثير القالب. بشكل افتراضي، لا يُطبّق أي تأثير قالب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

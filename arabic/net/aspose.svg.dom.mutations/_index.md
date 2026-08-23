@@ -1,20 +1,18 @@
 ---
-title: Aspose.Svg.Dom.Mutations
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg دوم. طفرات يوفر فرصة لمراقبة طفرات DOM والحصول على معلومات محددة لمعاودة الاتصال.
+title: "Aspose.Svg.Dom.Mutations"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "توفر Aspose.Svg.Dom.Mutations فرصة لمراقبة تغيرات DOM والحصول على معلومات رد الاتصال المحددة"
 type: docs
-weight: 90
+weight: 110
 url: /ar/net/aspose.svg.dom.mutations/
 ---
-ملف **Aspose.Svg دوم. طفرات** يوفر فرصة لمراقبة طفرات DOM والحصول على معلومات محددة لمعاودة الاتصال.
+توفر **Aspose.Svg.Dom.Mutations** فرصة لمراقبة تحولات الـ DOM والحصول على معلومات رد الاتصال المحددة.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [MutationCallback](./mutationcallback/) | يمثل الطريقة التي ستتعامل مع أحداث الطفرة. |
-| [MutationObserver](./mutationobserver/) | أ[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) يمكن استخدام الكائن لمراقبة الطفرات في شجرة[`Node`](../aspose.svg.dom/node/) . |
-| [MutationObserverInit](./mutationobserverinit/) | تمثل هذه الفئة مجموعة خيارات تُستخدم للتكوين[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) . |
-| [MutationRecord](./mutationrecord/) | يمثل سجل الطفرة طفرة DOM فردية. إنه الكائن الذي يتم تمريره إليه[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) س[`MutationCallback`](../aspose.svg.dom.mutations/mutationcallback/) . |
-
-
+| [MutationCallback](./mutationcallback/) | يمثل الطريقة التي ستتعامل مع أحداث التحول. |
+| [MutationObserver](./mutationobserver/) | يمكن استخدام كائن [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) لمراقبة التحولات في شجرة [`Node`](../aspose.svg.dom/node/). |
+| [MutationObserverInit](./mutationobserverinit/) | هذه الفئة تمثل مجموعة خيارات تُستخدم لتكوين [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/). |
+| [MutationRecord](./mutationrecord/) | يمثل MutationRecord تحولًا فرديًا في DOM. وهو الكائن الذي يُمرّر إلى [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/)'s [`MutationCallback`](../aspose.svg.dom.mutations/mutationcallback/). |

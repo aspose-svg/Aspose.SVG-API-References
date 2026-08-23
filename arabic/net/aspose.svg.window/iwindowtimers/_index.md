@@ -1,31 +1,29 @@
 ---
-title: Interface IWindowTimers
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Window.IWindowTimers واجهه المستخدم. يسمح للمؤلفين بجدولة عمليات الاستدعاء المستندة إلى جهاز ضبط الوقت.
+title: "IWindowTimers واجهة"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Window.IWindowTimers واجهة. تسمح للمؤلفين بجدولة الاستدعاءات القائمة على المؤقت"
 type: docs
-weight: 3840
+weight: 5940
 url: /ar/net/aspose.svg.window/iwindowtimers/
 ---
 ## IWindowTimers interface
 
-يسمح للمؤلفين بجدولة عمليات الاستدعاء المستندة إلى جهاز ضبط الوقت.
+يسمح للمؤلفين بجدولة ردود نداء تعتمد على المؤقت.
 
 ```csharp
 public interface IWindowTimers
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval/)(int) | إلغاء تعيين المهلة باستخدام setInterval () المعرّف بواسطة handle |
-| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout/)(int) | يلغي المهلة التي تم ضبطها باستخدام setTimeout () المحددة بواسطة المقبض. |
-| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval/)(object, int, params object[]) | جدولة مهلة لتشغيل المعالج كل مللي ثانية مهلة. يتم تمرير أي وسيطات مباشرة إلى المعالج. |
-| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout/)(object, int, params object[]) | جدولة مهلة لتشغيل المعالج بعد انتهاء المهلة بالمللي ثانية. يتم تمرير أي وسيطات مباشرة إلى المعالج. |
+| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval/)(*int*) | يلغي المهلة المحددة بـ setInterval() والمُعرف بواسطة handle |
+| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout/)(*int*) | يلغي المهلة المحددة بـ setTimeout() والمُعرف بواسطة handle. |
+| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval/)(*object, int, params object[]*) | يُجدول مهلة لتشغيل المعالج كل timeout مللي ثانية. يتم تمرير أي وسائط مباشرة إلى المعالج. |
+| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout/)(*object, int, params object[]*) | يُجدول مهلة لتشغيل المعالج بعد timeout مللي ثانية. يتم تمرير أي وسائط مباشرة إلى المعالج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Window](../../aspose.svg.window/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

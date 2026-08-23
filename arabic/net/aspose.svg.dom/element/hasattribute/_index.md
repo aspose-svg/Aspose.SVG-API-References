@@ -1,31 +1,29 @@
 ---
-title: Element.HasAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. إرجاع صحيح عندما يتم تحديد سمة تحمل اسمًا معينًا في هذا العنصر أو عندما تكون لها قيمة افتراضية  أو خطأ بخلاف ذلك.
+title: "Element.HasAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element HasAttribute. تُعيد true عندما يتم تحديد سمة بالاسم المعطى على هذا العنصر أو يكون لها قيمة افتراضية false وإلا."
 type: docs
 weight: 310
 url: /ar/net/aspose.svg.dom/element/hasattribute/
 ---
 ## Element.HasAttribute method
 
-إرجاع صحيح عندما يتم تحديد سمة تحمل اسمًا معينًا في هذا العنصر أو عندما تكون لها قيمة افتراضية ، أو خطأ بخلاف ذلك.
+يعيد true عندما تكون سمة بالاسم المحدد مُحددة على هذا العنصر أو لها قيمة افتراضية، وإلا يعيد false.
 
 ```csharp
-public bool HasAttribute(string name)
+public bool HasAttribute(string qualifiedName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة. |
+| qualifiedName | String | اسم السمة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان الاسم المحدد له سمة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الاسم المحدد لديه سمة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

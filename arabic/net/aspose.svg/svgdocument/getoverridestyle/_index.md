@@ -1,34 +1,32 @@
 ---
-title: SVGDocument.GetOverrideStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGDocument طريقة. تُستخدم هذه الطريقة لاسترداد إعلان نمط التجاوز لعنصر محدد وعنصر زائف محدد.
+title: "SVGDocument.GetOverrideStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGDocument GetOverrideStyle. تُستخدم هذه الطريقة لاسترجاع تعريف نمط التجاوز لعنصر محدد وعنصر شبه-عنصري محدد."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svgdocument/getoverridestyle/
 ---
 ## SVGDocument.GetOverrideStyle method
 
-تُستخدم هذه الطريقة لاسترداد إعلان نمط التجاوز لعنصر محدد وعنصر زائف محدد.
+تُستخدم هذه الطريقة لاسترجاع تعريف النمط المتجاوز لعنصر محدد وعنصر شبه-العنصر المحدد.
 
 ```csharp
 public ICSSStyleDeclaration GetOverrideStyle(Element elt, string pseudoElt)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| elt | Element | العنصر الذي سيتم تعديل نمطه. لا يمكن أن تكون هذه المعلمة خالية. |
-| pseudoElt | String | العنصر الزائف أو لاغٍ إن لم يكن. |
+| elt | Element | العنصر الذي سيُعدل نمطه. لا يمكن أن تكون هذه المعلمة null. |
+| pseudoElt | String | العنصر الزائف أو null إذا لم يكن موجودًا. |
 
 ### قيمة الإرجاع
 
 إعلان نمط التجاوز
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../../../aspose.svg.dom.css/icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

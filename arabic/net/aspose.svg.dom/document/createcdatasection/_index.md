@@ -1,32 +1,30 @@
 ---
-title: Document.CreateCDATASection
-second_title: Aspose.SVG لمرجع .NET API
-description: Document طريقة. ينشئ عقدة CDATAS تكون قيمتها هي السلسلة المحددة.
+title: "Document.CreateCDATASection"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Document CreateCDATASection. تنشئ عقدة CDATASection تكون قيمتها السلسلة المحددة"
 type: docs
 weight: 810
 url: /ar/net/aspose.svg.dom/document/createcdatasection/
 ---
 ## Document.CreateCDATASection method
 
-ينشئ عقدة CDATAS تكون قيمتها هي السلسلة المحددة.
+ينشئ عقدة CDATASection تكون قيمتها السلسلة المحددة.
 
 ```csharp
 public CDATASection CreateCDATASection(string data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | String | بيانات CDATA. |
+| البيانات | String | بيانات CDATA. |
 
 ### قيمة الإرجاع
 
-ملف[`CDATASection`](../../cdatasection/) .
+الـ[`CDATASection`](../../cdatasection/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CDATASection](../../cdatasection/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

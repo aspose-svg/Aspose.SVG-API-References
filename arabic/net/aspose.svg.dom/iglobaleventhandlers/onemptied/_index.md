@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnEmptied
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على أو تعيين معالج الأحداث لحدث OnEmptied.
+title: "IGlobalEventHandlers.OnEmptied"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث OnEmptied في IGlobalEventHandlers. يحصل أو يضبط معالج الحدث لـ OnEmptied."
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onemptied/
 ---
 ## IGlobalEventHandlers.OnEmptied event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnEmptied.
+يحصل أو يضبط معالج الحدث لحدث OnEmptied.
 
 ```csharp
 public event DOMEventHandler OnEmptied;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

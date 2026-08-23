@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_TRANSLATE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransform مجال. تحويل ترجمة ... .
+title: "SVGTransform.SVG_TRANSFORM_TRANSLATE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTransform SVG_TRANSFORM_TRANSLATE. تحويل إزاحة."
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.datatypes/svgtransform/svg_transform_translate/
 ---
 ## SVGTransform.SVG_TRANSFORM_TRANSLATE field
 
-تحويل "ترجمة (...)" .
+تحويل 'translate(…)'
 
 ```csharp
 public const ushort SVG_TRANSFORM_TRANSLATE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransform/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

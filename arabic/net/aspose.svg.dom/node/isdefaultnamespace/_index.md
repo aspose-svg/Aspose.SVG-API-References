@@ -1,31 +1,29 @@
 ---
-title: Node.IsDefaultNamespace
-second_title: Aspose.SVG لمرجع .NET API
-description: Node طريقة. يتحقق هذا الأسلوب مما إذا كانت مساحة الاسم المحددة هي مساحة الاسم الافتراضية أم لا.
+title: "Node.IsDefaultNamespace"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Node IsDefaultNamespace. تتحقق هذه الطريقة مما إذا كان namespaceURI المحدد هو الفضاء الاسمي الافتراضي أم لا."
 type: docs
-weight: 230
+weight: 210
 url: /ar/net/aspose.svg.dom/node/isdefaultnamespace/
 ---
 ## Node.IsDefaultNamespace method
 
-يتحقق هذا الأسلوب مما إذا كانت مساحة الاسم المحددة هي مساحة الاسم الافتراضية أم لا.
+تتحقق هذه الطريقة مما إذا كان الـnamespaceURI المحدد هو مساحة الاسم الافتراضية أم لا.
 
 ```csharp
 public bool IsDefaultNamespace(string namespaceURI)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceURI | String | مساحة الاسم URI. |
+| namespaceURI | String | معرف namespace URI. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا [هي مساحة الاسم الافتراضية] [مساحة الاسم المحددة URI] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [is default namespace] [the specified namespace URI]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

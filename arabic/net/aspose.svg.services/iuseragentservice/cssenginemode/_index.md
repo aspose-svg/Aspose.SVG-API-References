@@ -1,28 +1,26 @@
 ---
-title: IUserAgentService.CSSEngineMode
-second_title: Aspose.SVG لمرجع .NET API
-description: IUserAgentService ملكية. الحصول على أو تعيين الوضع الذي يعمل فيه محرك CSS.
+title: "IUserAgentService.CSSEngineMode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IUserAgentService CSSEngineMode. تحصل أو تعين الوضع الذي يعمل به محرك CSS."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.services/iuseragentservice/cssenginemode/
 ---
 ## IUserAgentService.CSSEngineMode property
 
-الحصول على أو تعيين الوضع الذي يعمل فيه محرك CSS.
+يحصل أو يضبط الوضع الذي يعمل به محرك CSS.
 
 ```csharp
 public CSSEngineMode CSSEngineMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع المحرك .
+وضع المحرك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [CSSEngineMode](../../../aspose.svg.dom.css/cssenginemode/)
 * interface [IUserAgentService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../iuseragentservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

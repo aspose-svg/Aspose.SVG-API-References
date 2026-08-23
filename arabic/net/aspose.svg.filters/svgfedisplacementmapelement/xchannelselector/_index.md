@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.XChannelSelector
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDisplacementMapElement ملكية. يتوافق مع السمة xChannelSelector في عنصر feDisplacementMap المحدد. يأخذ أحد ثوابت SVG_CHANNEL_  المحددة في هذه الواجهة.
+title: "SVGFEDisplacementMapElement.XChannelSelector"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية XChannelSelector لـ SVGFEDisplacementMapElement. تتطابق مع السمة xChannelSelector في العنصر feDisplacementMap المعطى. تقبل أحد ثوابت SVG_CHANNEL_ المعرفة في هذه الواجهة"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.filters/svgfedisplacementmapelement/xchannelselector/
 ---
 ## SVGFEDisplacementMapElement.XChannelSelector property
 
-يتوافق مع السمة "xChannelSelector" في عنصر "feDisplacementMap" المحدد. يأخذ أحد ثوابت SVG_CHANNEL_ * المحددة في هذه الواجهة.
+يتطابق مع السمة ‘xChannelSelector’ في العنصر ‘feDisplacementMap’ المحدد. يأخذ أحد ثابتات SVG_CHANNEL_* المعرفة في هذه الواجهة.
 
 ```csharp
 public SVGAnimatedEnumeration XChannelSelector { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "xChannelSelector" لعنصر "feDisplacementMap" المحدد .
+السمة ‘xChannelSelector’ للعنصر ‘feDisplacementMap’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEDisplacementMapElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

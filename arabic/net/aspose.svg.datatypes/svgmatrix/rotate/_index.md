@@ -1,20 +1,20 @@
 ---
-title: SVGMatrix.Rotate
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMatrix طريقة. الضرب اللاحق لتحويل التدوير في المصفوفة الحالية وإرجاع المصفوفة الناتجة.
+title: "SVGMatrix.Rotate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGMatrix Rotate. تُجري post‑multiply لتحويل دوران على المصفوفة الحالية وتُعيد المصفوفة الناتجة"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.datatypes/svgmatrix/rotate/
 ---
 ## SVGMatrix.Rotate method
 
-الضرب اللاحق لتحويل التدوير في المصفوفة الحالية وإرجاع المصفوفة الناتجة.
+يضرب بعديًا تحويل دوران على المصفوفة الحالية ويُعيد المصفوفة الناتجة.
 
 ```csharp
 public SVGMatrix Rotate(float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | angle | Single | زاوية الدوران. |
 
@@ -22,10 +22,8 @@ public SVGMatrix Rotate(float angle)
 
 المصفوفة الناتجة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgmatrix/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

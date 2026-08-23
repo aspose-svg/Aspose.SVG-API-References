@@ -1,30 +1,28 @@
 ---
-title: Enum UrlRestriction
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Saving.UrlRestriction تعداد. يمثل هذا العدد قيدًا مطبقًا على عناوين URL الخاصة بالموارد التي تمت معالجتها.
+title: "تعداد UrlRestriction"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تعداد Aspose.Svg.Saving.UrlRestriction. يمثل هذا التعداد القيود المطبقة على عناوين URL للموارد المعالجة"
 type: docs
-weight: 3690
+weight: 5820
 url: /ar/net/aspose.svg.saving/urlrestriction/
 ---
 ## UrlRestriction enumeration
 
-يمثل هذا العدد قيدًا مطبقًا على عناوين URL الخاصة بالموارد التي تمت معالجتها.
+يمثل هذا التعداد القيود المطبقة على عناوين URL للموارد المعالجة.
 
 ```csharp
 public enum UrlRestriction
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| RootAndSubFolders | `0` | تتم معالجة الموارد الموجودة في المجلد الجذر والمجلدات الفرعية فقط. |
-| SameHost | `1` | تتم معالجة الموارد الموجودة في نفس المضيف فقط. |
-| None | `2` | تتم معالجة جميع الموارد . |
+| RootAndSubFolders | `0` | يتم معالجة الموارد الموجودة فقط في الجذر والمجلدات الفرعية. |
+| SameHost | `1` | يتم معالجة الموارد الموجودة فقط في نفس المضيف. |
+| None | `2` | جميع الموارد يتم معالجتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

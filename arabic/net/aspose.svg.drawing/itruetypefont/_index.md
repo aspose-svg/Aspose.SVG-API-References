@@ -1,14 +1,14 @@
 ---
-title: Interface ITrueTypeFont
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.ITrueTypeFont واجهه المستخدم. يعلن عن طرق للعمل مع خط TrueType .
+title: "واجهة ITrueTypeFont"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Drawing.ITrueTypeFont. تعلن عن طرق للعمل مع خطوط TrueType."
 type: docs
-weight: 1510
+weight: 3540
 url: /ar/net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
 
-يعلن عن طرق للعمل مع خط TrueType .
+يعلن عن طرق للعمل مع خطوط TrueType.
 
 ```csharp
 public interface ITrueTypeFont
@@ -16,24 +16,23 @@ public interface ITrueTypeFont
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | إرجاع حجم بيانات الخط بالبايت |
-| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | احصل على اسم عائلة الخطوط . |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | يجب أن يكون هذا مزيجًا من "FamilyName" و "SubFamilyName". استثناء: إذا كان الخط "عادي" كما هو مشار إليه في "SubFamilyName" ، فاستخدم اسم العائلة الموجود في "FamilyName" فقط. هناك استثناء للتعريف أعلاه لاسم الخط الكامل لسلاسل نظام Microsoft الأساسي لخطوط CFF OpenType: في هذه الحالة ، يجب أن تكون سلسلة اسم الخط الكامل مماثلة لـ PostScript FontName في اسم CFF INDEX. |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | يميز اسم الفئة الفرعية للخط الخط في مجموعة لها نفس اسم عائلة الخط. من المفترض أن يعالج هذا النمط (مائل ، مائل) والوزن (خفيف ، غامق ، أسود ، إلخ). يجب أن يحتوي الخط الذي لا توجد به اختلافات معينة في الوزن أو النمط (مثل الوزن المتوسط ، وليس المائل ومجموعة بت 6 التحديد fs) على السلسلة "العادية" المخزنة في هذا الموضع. |
+| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | يحصل على حجم بيانات الخط بالبايت. |
+| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | يحصل على اسم عائلة الخط. |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | عادةً ما يُمثَّل الاسم الكامل للخط كتركيبة من أسماء العائلة والفرعية. |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | احصل على نمط الخط الذي يجمع قيم قاعدة font-face والبيانات من الخط. |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | اسم الفرعية يميز الخط ضمن مجموعة تحمل نفس اسم العائلة. يُفترض أن يُعالج النمط (italic, oblique) والوزن (light, bold, black, إلخ). يجب أن يحتوي الخط الذي لا يختلف في الوزن أو النمط على السلسلة "Regular". |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | إرجاع الصعود بالنقاط. |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | افتح الدفق ببيانات الخط. المتصل مسؤول عن التخلص من الدفق. |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | إرجاع النسب بالنقاط. |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(*float*) | يحصل على ارتفاع الخط (ascent) بالنقاط باستخدام حجم الخط المحدد. |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | يفتح الدفق (stream) ببيانات الخط. المتصل مسؤول عن تحرير الدفق. |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(*float*) | يحصل على انخفاض الخط (descent) بالنقاط باستخدام حجم الخط المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

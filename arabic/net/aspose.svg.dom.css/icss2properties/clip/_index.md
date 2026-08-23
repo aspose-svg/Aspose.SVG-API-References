@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Clip
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية المقطع في CSS2.
+title: "ICSS2Properties.Clip"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Clip في ICSS2Properties. راجع تعريف خاصية clip في CSS2"
 type: docs
 weight: 330
 url: /ar/net/aspose.svg.dom.css/icss2properties/clip/
 ---
 ## ICSS2Properties.Clip property
 
-راجع تعريف خاصية المقطع في CSS2.
+انظر تعريف خاصية clip في CSS2.
 
 ```csharp
 public string Clip { get; set; }
@@ -16,12 +16,10 @@ public string Clip { get; set; }
 
 ### قيمة الإرجاع
 
-ملكية القصاصة
+خاصية clip
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

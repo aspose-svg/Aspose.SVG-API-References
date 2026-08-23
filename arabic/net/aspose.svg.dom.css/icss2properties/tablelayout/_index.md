@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TableLayout
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية تخطيط الجدول في CSS2.
+title: "ICSS2Properties.TableLayout"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية TableLayout في ICSS2Properties. انظر تعريف خاصية table-layout في CSS2"
 type: docs
-weight: 1060
+weight: 1090
 url: /ar/net/aspose.svg.dom.css/icss2properties/tablelayout/
 ---
 ## ICSS2Properties.TableLayout property
 
-راجع تعريف خاصية تخطيط الجدول في CSS2.
+انظر إلى تعريف الخاصية table-layout في CSS2.
 
 ```csharp
 public string TableLayout { get; set; }
@@ -16,12 +16,10 @@ public string TableLayout { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الجدول التخطيط
+خاصية table-layout
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

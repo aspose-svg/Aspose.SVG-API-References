@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveHiddenElements
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على أو تعيين خيار إزالة العناصر غير المرئية أثناء العرض. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveHiddenElements"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGOptimizationOptions RemoveHiddenElements. يحصل أو يضبط الخيار لإزالة العناصر التي لا تكون مرئية أثناء العرض. القيمة true بشكل افتراضي"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removehiddenelements/
 ---
 ## SVGOptimizationOptions.RemoveHiddenElements property
 
-الحصول على أو تعيين خيار إزالة العناصر غير المرئية أثناء العرض. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة العناصر غير المرئية أثناء العرض. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveHiddenElements { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

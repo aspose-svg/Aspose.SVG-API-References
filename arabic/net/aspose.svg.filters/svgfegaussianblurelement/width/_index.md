@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Width
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEGaussianBlurElement ملكية. يتوافق مع السمة العرض على عنصر التصفية المحدد .
+title: "SVGFEGaussianBlurElement.Width"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEGaussianBlurElement Width. تتطابق مع السمة width في عنصر الفلتر المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.filters/svgfegaussianblurelement/width/
 ---
 ## SVGFEGaussianBlurElement.Width property
 
-يتوافق مع السمة "العرض" على عنصر التصفية "المحدد .
+يتطابق مع السمة ‘width’ في العنصر ‘filter’ المعطى.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة �عرض� لعنصر التصفية� المحدد .
+السمة �width� للعنصر �filter� المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

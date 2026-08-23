@@ -1,28 +1,26 @@
 ---
-title: ContentHeaders.ContentType
-second_title: Aspose.SVG لمرجع .NET API
-description: ContentHeaders ملكية. الحصول على قيمة رأس نوع المحتوى.
+title: "ContentHeaders.ContentType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ContentHeaders ContentType. تحصل على قيمة رأس Content-Type"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net/contentheaders/contenttype/
 ---
 ## ContentHeaders.ContentType property
 
-الحصول على قيمة رأس نوع المحتوى.
+يحصل على قيمة رأس Content-Type.
 
 ```csharp
 public ContentTypeHeaderValue ContentType { get; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع المحتوى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ContentTypeHeaderValue](../../../aspose.svg.net.headers/contenttypeheadervalue/)
 * class [ContentHeaders](../)
-* مساحة الاسم [Aspose.Svg.Net](../../contentheaders/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

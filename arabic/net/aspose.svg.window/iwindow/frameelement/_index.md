@@ -1,28 +1,26 @@
 ---
-title: IWindow.FrameElement
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindow ملكية. كائن frameElement لمستند .
+title: "IWindow.FrameElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IWindow FrameElement. كائن frameElement الخاص بوثيقة Document."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.window/iwindow/frameelement/
 ---
 ## IWindow.FrameElement property
 
-كائن frameElement لمستند .
+كائن frameElement الخاص بمستند.
 
 ```csharp
 public Element FrameElement { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عنصر الإطار .
+عنصر الإطار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IWindow](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindow/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

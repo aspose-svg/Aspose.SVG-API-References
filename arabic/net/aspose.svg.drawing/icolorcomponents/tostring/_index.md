@@ -1,33 +1,31 @@
 ---
-title: IColorComponents.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: IColorComponents طريقة. تحويل مكونات اللون إلى تمثيل سلسلة .
+title: "IColorComponents.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IColorComponents ToString. يحول مكونات اللون إلى تمثيل نصي"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.drawing/icolorcomponents/tostring/
 ---
 ## IColorComponents.ToString method
 
-تحويل مكونات اللون إلى تمثيل سلسلة .
+يقوم بتحويل مكونات اللون إلى تمثيل نصي.
 
 ```csharp
 public string ToString(bool includeAlpha, bool asDecimal, int digits)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| includeAlpha | Boolean | يحدد ما إذا كان سيتم إضافة مكون ألفا. |
-| asDecimal | Boolean | يحدد ما إذا كان يتم الاحتفاظ بمكونات اللون كرقم عشري أو كنسبة مئوية. |
+| includeAlpha | Boolean | يحدد ما إذا كان سيتم إضافة مكون Alpha. |
+| asDecimal | Boolean | يحدد ما إذا كانت مكونات اللون تُحفظ كعدد عشري أو كنسبة مئوية. |
 | digits | Int32 | يضبط دقة التقريب لمكونات اللون. |
 
 ### قيمة الإرجاع
 
-تمثيل سلسلة لمكونات اللون.
+تمثيل نصي لمكونات اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorComponents](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../icolorcomponents/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

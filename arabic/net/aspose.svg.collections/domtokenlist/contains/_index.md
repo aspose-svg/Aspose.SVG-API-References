@@ -1,31 +1,29 @@
 ---
-title: DOMTokenList.Contains
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTokenList طريقة. إرجاع صحيح إذا كانت القائمة تحتوي على الرمز المحدد  وإلا خطأ.
+title: "DOMTokenList.Contains"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DOMTokenList Contains. تُرجع true إذا كانت القائمة تحتوي على الرمز المعطى وإلا false."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.collections/domtokenlist/contains/
 ---
 ## DOMTokenList.Contains method
 
-إرجاع صحيح إذا كانت القائمة تحتوي على الرمز المحدد ، وإلا خطأ.
+يرجع true إذا كانت القائمة تحتوي على الرمز المعطى، وإلا false.
 
 ```csharp
 public bool Contains(string token)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| token | String | الرمز المطلوب تحديد موقعه في القائمة. |
+| token | String | الرمز المراد تحديد موقعه في القائمة. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، وهي صحيحة إذا كانت قائمة الاتصال تحتوي على رمز مميز ، وإلا فهي خاطئة.
+قيمة منطقية تكون true إذا كانت القائمة المستدعية تحتوي على الرمز، وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../domtokenlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,44 +1,42 @@
 ---
-title: ImageRenderingOptions.ImageRenderingOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageRenderingOptions البناء. يقوم بتهيئة مثيل جديد لملفImageRenderingOptions فصلPng سيتم استخدامه كتنسيق افتراضي للصورة.
+title: "ImageRenderingOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ImageRenderingOptions. يهيئ مثيلاً جديداً من فئة ImageRenderingOptions. سيتم استخدام Png كتنسيق صورة افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageRenderingOptions`](../) فصل؛Png سيتم استخدامه كتنسيق افتراضي للصورة.
+يهيئ مثيلاً جديداً من الفئة [`ImageRenderingOptions`](../)؛ سيتم استخدام Png كتنسيق صورة افتراضي.
 
 ```csharp
 public ImageRenderingOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageRenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageRenderingOptions(ImageFormat) {#constructor_1}
+## ImageRenderingOptions(*[ImageFormat](../../imageformat/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageRenderingOptions`](../) فئة بتنسيق الصورة المحدد.
+يهيئ مثيلاً جديداً من الفئة [`ImageRenderingOptions`](../) باستخدام تنسيق صورة محدد.
 
 ```csharp
 public ImageRenderingOptions(ImageFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| format | ImageFormat | تنسيق صورة الإخراج. |
+| تنسيق | ImageFormat | تنسيق الصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

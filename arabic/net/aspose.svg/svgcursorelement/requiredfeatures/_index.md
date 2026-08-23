@@ -1,28 +1,26 @@
 ---
-title: SVGCursorElement.RequiredFeatures
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGCursorElement ملكية. يتوافق مع السمة requiredFeatures في العنصر المحدد .
+title: "SVGCursorElement.RequiredFeatures"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGCursorElement RequiredFeatures. تتطابق مع السمة requiredFeatures على العنصر المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgcursorelement/requiredfeatures/
 ---
 ## SVGCursorElement.RequiredFeatures property
 
-يتوافق مع السمة "requiredFeatures" في العنصر المحدد .
+يتطابق مع السمة ‘requiredFeatures’ على العنصر المعطى.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الميزات المطلوبة .
+الميزات المطلوبة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGCursorElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcursorelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

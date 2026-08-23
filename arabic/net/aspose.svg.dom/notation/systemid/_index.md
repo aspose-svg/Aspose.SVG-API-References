@@ -1,27 +1,25 @@
 ---
-title: Notation.SystemId
-second_title: Aspose.SVG لمرجع .NET API
-description: Notation ملكية. معرّف النظام الخاص بهذا الترميز. إذا لم يتم تحديد معرّف النظام  فسيكون هذا فارغًا. قد يكون هذا URI مطلقًا أم لا.
+title: "Notation.SystemId"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Notation SystemId. المعرف النظامي لهذا الترميز. إذا لم يتم تحديد المعرف النظامي يكون هذا null. قد يكون URI مطلقًا أو لا"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/notation/systemid/
 ---
 ## Notation.SystemId property
 
-معرّف النظام الخاص بهذا الترميز. إذا لم يتم تحديد معرّف النظام ، فسيكون هذا فارغًا. قد يكون هذا URI مطلقًا أم لا.
+المعرّف النظامي لهذا التدوين. إذا لم يُحدَّد المعرف النظامي، فستكون القيمة null. قد يكون هذا URI مطلقًا أو لا.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف النظام .
+المعرف النظامي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Notation](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../notation/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

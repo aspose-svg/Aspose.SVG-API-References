@@ -1,50 +1,48 @@
 ---
-title: Class SVGListBaseT
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Collections.SVGListBase1T فصل. تحدد هذه الواجهة قائمة أساسية لجميع قوائم SVG.
+title: "فئة SVGListBaseT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Collections.SVGListBase1T. تعرف هذه الواجهة قائمة أساسية لجميع قوائم SVG."
 type: docs
-weight: 50
+weight: 2040
 url: /ar/net/aspose.svg.collections/svglistbase-1/
 ---
-## SVGListBase&lt;T&gt; class
+## SVGListBase<T> class
 
-تحدد هذه الواجهة قائمة أساسية لجميع قوائم SVG.
+تعرف هذه الواجهة قائمة أساسية لجميع قوائم SVG.
 
 ```csharp
 public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | T | نوع العنصر المخزن في القائمة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } | إرجاع عنصر الفهرس في القائمة. |
-| [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } | عدد العناصر في القائمة . |
-| [NumberOfItems](../../aspose.svg.collections/svglistbase-1/numberofitems/) { get; } | عدد العناصر في القائمة . |
+| [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } | يعيد العنصر رقم الفهرس في القائمة. |
+| [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } | عدد العناصر في القائمة. |
+| [NumberOfItems](../../aspose.svg.collections/svglistbase-1/numberofitems/) { get; } | عدد العناصر في القائمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(T) | يتم إدراج عنصر جديد في نهاية القائمة. |
-| [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() | مسح كافة العناصر الحالية الموجودة من القائمة ، وتكون النتيجة قائمة فارغة. |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() | يحصل على العداد . |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) | إرجاع العنصر المحدد من القائمة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(T) | مسح كافة العناصر الحالية الموجودة من القائمة وإعادة تهيئة القائمة للاحتفاظ بالعنصر الفردي المحدد بواسطة المعلمة. |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(T, ulong) | إدراج عنصر جديد في القائمة في الموضع المحدد. العنصر الأول هو رقم 0. |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) | يزيل عنصرًا موجودًا من القائمة . |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(T, ulong) | استبدال عنصر موجود في القائمة بعنصر جديد. |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*T*) | يدرج عنصرًا جديدًا في نهاية القائمة. |
+| [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() | يمسح جميع العناصر الحالية الموجودة في القائمة، بحيث تكون النتيجة قائمة فارغة. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() | يحصل على المُعدِّد. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) | يعيد العنصر المحدد من القائمة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*T*) | يمسح جميع العناصر الحالية الموجودة في القائمة ويعيد تهيئة القائمة لتحتوي على العنصر الوحيد المحدد بواسطة المعامل. |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*T, ulong*) | يدرج عنصرًا جديدًا في القائمة في الموضع المحدد. العنصر الأول هو الرقم 0. |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) | يزيل عنصرًا موجودًا من القائمة. |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*T, ulong*) | يستبدل عنصرًا موجودًا في القائمة بعنصر جديد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGValueType](../../aspose.svg.datatypes/svgvaluetype/)
-* مساحة الاسم [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

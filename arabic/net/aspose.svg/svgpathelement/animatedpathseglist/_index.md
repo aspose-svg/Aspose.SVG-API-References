@@ -1,28 +1,26 @@
 ---
-title: SVGPathElement.AnimatedPathSegList
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement ملكية. يوفر الوصول إلى المحتويات المتحركة الحالية للسمة d في نموذج يطابق واحدًا لواحد مع صيغة SVG. إذا تم تحريك السمة أو الخاصية المحددة  فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية  ويتم قراءة كل من الكائن نفسه ومحتوياته فقط. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا  فستحتوي على نفس القيمة مثل pathSegList.
+title: "SVGPathElement.AnimatedPathSegList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathElement AnimatedPathSegList. توفر الوصول إلى المحتويات المتحركة الحالية للخاصية d بصيغة تتطابق واحدًا لواحد مع صياغة SVG. إذا كانت الخاصية أو السمة المحددة قيد التحريك، فإنها تحتوي على القيمة المتحركة الحالية للخاصية أو السمة، وكلا من الكائن نفسه ومحتوياته للقراءة فقط. إذا لم تكن الخاصية أو السمة المحددة قيد التحريك، فإنها تحتوي على نفس القيمة مثل pathSegList"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgpathelement/animatedpathseglist/
 ---
 ## SVGPathElement.AnimatedPathSegList property
 
-يوفر الوصول إلى المحتويات المتحركة الحالية للسمة "d" في نموذج يطابق واحدًا لواحد مع صيغة SVG. إذا تم تحريك السمة أو الخاصية المحددة ، فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية ، ويتم قراءة كل من الكائن نفسه ومحتوياته فقط. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا ، فستحتوي على نفس القيمة مثل pathSegList.
+يوفر الوصول إلى المحتويات المتحركة الحالية لسمة ‘d’ في صيغة تتطابق واحدًا لواحد مع صياغة SVG. إذا كانت السمة أو الخاصية المعطاة قيد التحريك، فإنه يحتوي على القيمة المتحركة الحالية لتلك السمة أو الخاصية، وكلا من الكائن نفسه ومحتوياته للقراءة فقط. إذا لم تكن السمة أو الخاصية المعطاة قيد التحريك حاليًا، فإنه يحتوي على نفس القيمة مثل pathSegList.
 
 ```csharp
 public SVGPathSegList AnimatedPathSegList { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قائمة مقطع المسار المتحرك .
+قائمة مقاطع المسار المتحركة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

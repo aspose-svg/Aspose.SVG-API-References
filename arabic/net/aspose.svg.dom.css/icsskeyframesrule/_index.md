@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSKeyframesRule
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSKeyframesRule واجهه المستخدم. تمثل واجهة CSSKeyframesRule مجموعة كاملة من الإطارات الرئيسية لرسوم متحركة واحد
+title: "واجهة ICSSKeyframesRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Css.ICSSKeyframesRule واجهة. تمثل واجهة CSSKeyframesRule مجموعة كاملة من الإطارات المفتاحية لتصميم واحد."
 type: docs
-weight: 580
+weight: 2580
 url: /ar/net/aspose.svg.dom.css/icsskeyframesrule/
 ---
 ## ICSSKeyframesRule interface
 
-تمثل واجهة CSSKeyframesRule مجموعة كاملة من الإطارات الرئيسية لرسوم متحركة واحد
+تمثل واجهة CSSKeyframesRule مجموعة كاملة من إطارات المفاتيح (keyframes) لتصميم واحد.
 
 ```csharp
 public interface ICSSKeyframesRule : ICSSRule
@@ -16,23 +16,21 @@ public interface ICSSKeyframesRule : ICSSRule
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CSSRules](../../aspose.svg.dom.css/icsskeyframesrule/cssrules/) { get; } | تتيح هذه السمة الوصول إلى الإطارات الرئيسية في القائمة |
-| [Name](../../aspose.svg.dom.css/icsskeyframesrule/name/) { get; } | هذه السمة هي اسم الإطارات الرئيسية المستخدمة بواسطة خاصية "اسم الحركة". |
+| [CSSRules](../../aspose.svg.dom.css/icsskeyframesrule/cssrules/) { get; } | هذه الخاصية توفر الوصول إلى الإطارات المفتاحية في القائمة. |
+| [Name](../../aspose.svg.dom.css/icsskeyframesrule/name/) { get; } | هذه الخاصية هي اسم الإطارات المفتاحية، تُستخدم بواسطة خاصية ‘animation‑name’. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AppendRule](../../aspose.svg.dom.css/icsskeyframesrule/appendrule/)(string) | تلحق طريقة appendRule CSSKeyframeRule التي تم تمريرها بالقائمة في key الذي تم تمريره |
-| [DeleteRule](../../aspose.svg.dom.css/icsskeyframesrule/deleterule/)(string) | طريقة deleteRule تحذف CSSKeyframeRule بالمفتاح الذي تم تمريره. في حالة عدم وجود قاعدة بهذا المفتاح ، فإن الطريقة لا تفعل شيئًا |
-| [FindRule](../../aspose.svg.dom.css/icsskeyframesrule/findrule/)(string) | ترجع طريقة findRule القاعدة بمفتاح يطابق المفتاح الذي تم تمريره. في حالة عدم وجود مثل هذه القاعدة ، يتم إرجاع قيمة فارغة |
+| [AppendRule](../../aspose.svg.dom.css/icsskeyframesrule/appendrule/)(*string*) | طريقة appendRule تُضيف CSSKeyframeRule الممررة إلى القائمة عند المفتاح الممرر. |
+| [DeleteRule](../../aspose.svg.dom.css/icsskeyframesrule/deleterule/)(*string*) | طريقة deleteRule تحذف CSSKeyframeRule بالمفتاح الممرر. إذا لم توجد قاعدة بهذا المفتاح، لا تفعل الطريقة شيئًا. |
+| [FindRule](../../aspose.svg.dom.css/icsskeyframesrule/findrule/)(*string*) | طريقة findRule تُعيد القاعدة التي مفتاحها يطابق المفتاح الممرر. إذا لم توجد مثل هذه القاعدة، تُعاد قيمة فارغة (null). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../icssrule/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

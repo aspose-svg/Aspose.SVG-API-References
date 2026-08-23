@@ -1,27 +1,25 @@
 ---
-title: Counter.ListStyle
-second_title: Aspose.SVG لمرجع .NET API
-description: Counter ملكية. تُستخدم هذه السمة لنمط القائمة .
+title: "Counter.ListStyle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Counter ListStyle. يتم استخدام هذه السمة لتحديد نمط القائمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/counter/liststyle/
 ---
 ## Counter.ListStyle property
 
-تُستخدم هذه السمة لنمط القائمة .
+تُستخدم هذه السمة لتحديد نمط القائمة.
 
 ```csharp
 public string ListStyle { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف نمط القائمة .
+معرف نمط القائمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Counter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../counter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

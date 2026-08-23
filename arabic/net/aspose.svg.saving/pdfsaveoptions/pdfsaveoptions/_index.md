@@ -1,23 +1,21 @@
 ---
-title: PdfSaveOptions.PdfSaveOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfSaveOptions البناء. Default_Constructor
+title: "PdfSaveOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ PdfSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.saving/pdfsaveoptions/pdfsaveoptions/
 ---
 ## PdfSaveOptions constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public PdfSaveOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfSaveOptions](../)
-* مساحة الاسم [Aspose.Svg.Saving](../../pdfsaveoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

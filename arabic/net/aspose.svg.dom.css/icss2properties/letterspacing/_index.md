@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.LetterSpacing
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية تباعد الأحرف في CSS2.
+title: "ICSS2Properties.LetterSpacing"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties LetterSpacing. انظر تعريف الخاصية letter-spacing في CSS2"
 type: docs
-weight: 570
+weight: 600
 url: /ar/net/aspose.svg.dom.css/icss2properties/letterspacing/
 ---
 ## ICSS2Properties.LetterSpacing property
 
-راجع تعريف خاصية تباعد الأحرف في CSS2.
+انظر تعريف خاصية letter-spacing في CSS2.
 
 ```csharp
 public string LetterSpacing { get; set; }
@@ -16,12 +16,10 @@ public string LetterSpacing { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية تباعد الأحرف
+خاصية letter-spacing
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

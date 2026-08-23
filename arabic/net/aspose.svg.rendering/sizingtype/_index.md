@@ -1,31 +1,29 @@
 ---
-title: Enum SizingType
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.SizingType تعداد. يمثل تعداد أنواع تحجيم الصفحات.
+title: "تعداد SizingType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Rendering.SizingType enum. يمثل تعداد أنواع حجم الصفحة"
 type: docs
-weight: 3020
+weight: 5090
 url: /ar/net/aspose.svg.rendering/sizingtype/
 ---
 ## SizingType enumeration
 
-يمثل تعداد أنواع تحجيم الصفحات.
+يمثل تعداد أنواع أحجام الصفحة.
 
 ```csharp
 public enum SizingType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| FitContent | `0` | تغيير الأحجام المحددة للصفحة لتناسب حجم المحتوى الذي تحتوي عليه. |
-| ScaleContent | `1` | قياس حجم المحتوى وفقًا للحجم المحدد للصفحة. |
-| Contain | `2` | ملاءمة حجم المحتوى لحجم الصفحة مع الحفاظ على نسبة العرض إلى الارتفاع المفضلة قدر الإمكان. |
-| Crop | `3` | وضع المحتوى على الصفحة واقتصاص كل شيء من حجم الصفحة المحدد. |
+| FitContent | `0` | تغيير الأحجام المحددة للصفحة لتتناسب مع حجم المحتوى الذي تحتويه. |
+| ScaleContent | `1` | تحجيم حجم المحتوى وفقًا للحجم المحدد للصفحة. |
+| Contain | `2` | ملاءمة حجم المحتوى مع حجم الصفحة مع الحفاظ على نسبة العرض إلى الارتفاع المفضلة قدر الإمكان. |
+| Crop | `3` | وضع المحتوى على الصفحة واقتصاص كل ما يقع خارج حجم الصفحة المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

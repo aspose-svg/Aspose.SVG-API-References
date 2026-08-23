@@ -1,23 +1,25 @@
 ---
-title: ILinearGradientBrush.Rect
-second_title: Aspose.SVG لمرجع .NET API
-description: ILinearGradientBrush ملكية. احصل على منطقة مستطيلة تحدد نقطتي البداية والنهاية للتدرج.
+title: "ILinearGradientBrush.Rect"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ILinearGradientBrush Rect. تحصّل أو تعيين المنطقة المستطيلة التي تحدد نقطتي البداية والنهاية للانحدار"
 type: docs
-weight: 40
+weight: 20
 url: /ar/net/aspose.svg.drawing/ilineargradientbrush/rect/
 ---
 ## ILinearGradientBrush.Rect property
 
-احصل على منطقة مستطيلة تحدد نقطتي البداية والنهاية للتدرج.
+يحصل أو يضبط المنطقة المستطيلة التي تحدد نقطتي البداية والنهاية للتدرج.
 
 ```csharp
-public RectangleF Rect { get; }
+public RectangleF Rect { get; set; }
 ```
 
-### أنظر أيضا
+### قيمة الإرجاع
+
+المنطقة المستطيلة التي تحدد نقطتي بداية ونهاية الانحدار.
+
+### انظر أيضًا
 
 * interface [ILinearGradientBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../ilineargradientbrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

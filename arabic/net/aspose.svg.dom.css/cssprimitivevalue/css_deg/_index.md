@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_DEG
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي زاوية درجة. يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+title: "CSSPrimitiveValue.CSS_DEG"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_DEG. القيمة هي زاوية deg. يمكن الحصول على القيمة باستخدام طريقة getFloatValue."
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_deg/
 ---
 ## CSSPrimitiveValue.CSS_DEG field
 
-القيمة هي زاوية (درجة). يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+القيمة هي زاوية (deg). يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
 
 ```csharp
 public const ushort CSS_DEG;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

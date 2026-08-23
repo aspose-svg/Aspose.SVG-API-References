@@ -1,23 +1,21 @@
 ---
-title: DOMException.HIERARCHY_REQUEST_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. إذا تم إدخال أي عقدة في مكان لا تنتمي إليه.
+title: "DOMException.HIERARCHY_REQUEST_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMException HIERARCHY_REQUEST_ERR حقل. إذا تم إدراج أي عقدة في مكان لا تنتمي إليه"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom/domexception/hierarchy_request_err/
 ---
 ## DOMException.HIERARCHY_REQUEST_ERR field
 
-إذا تم إدخال أي عقدة في مكان لا تنتمي إليه.
+إذا تم إدراج أي Node في مكان لا ينتمي إليه.
 
 ```csharp
 public const ushort HIERARCHY_REQUEST_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

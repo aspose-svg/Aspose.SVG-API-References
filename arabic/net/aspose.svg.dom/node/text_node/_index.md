@@ -1,23 +1,21 @@
 ---
-title: Node.TEXT_NODE
-second_title: Aspose.SVG لمرجع .NET API
-description: Node مجال. عقدة نصية
+title: "Node.TEXT_NODE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل Node TEXT_NODE. عقدة نصية"
 type: docs
-weight: 430
+weight: 410
 url: /ar/net/aspose.svg.dom/node/text_node/
 ---
 ## Node.TEXT_NODE field
 
-عقدة نصية
+عقدة نص
 
 ```csharp
 public const ushort TEXT_NODE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

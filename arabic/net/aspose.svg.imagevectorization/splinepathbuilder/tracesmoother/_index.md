@@ -1,24 +1,22 @@
 ---
-title: SplinePathBuilder.TraceSmoother
-second_title: Aspose.SVG لمرجع .NET API
-description: SplinePathBuilder ملكية. الحصول على التتبع أو تعيينه بشكل أكثر سلاسة.
+title: "SplinePathBuilder.TraceSmoother"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية مملس الأثر في SplinePathBuilder. تحصل أو تعين مملس الأثر."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/
 ---
 ## SplinePathBuilder.TraceSmoother property
 
-الحصول على التتبع أو تعيينه بشكل أكثر سلاسة.
+يحصل أو يعيّن مملّس الأثر.
 
 ```csharp
 public IImageTraceSmoother TraceSmoother { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * class [SplinePathBuilder](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

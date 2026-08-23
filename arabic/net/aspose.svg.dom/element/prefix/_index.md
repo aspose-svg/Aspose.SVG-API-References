@@ -1,27 +1,25 @@
 ---
-title: Element.Prefix
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. بادئة مساحة الاسم لهذه العقدة  أو فارغة إذا كانت غير محددة. عندما يتم تعريفه على أنه فارغ  فإن الإعداد ليس له تأثير
+title: "Element.Prefix"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Element Prefix property. بادئة مساحة الاسم لهذه العقدة أو null إذا لم تُحدّد. عندما تُحدد بأنها null لا يؤثر الضبط."
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.dom/element/prefix/
 ---
 ## Element.Prefix property
 
-بادئة مساحة الاسم لهذه العقدة ، أو فارغة إذا كانت غير محددة. عندما يتم تعريفه على أنه فارغ ، فإن الإعداد ليس له تأثير
+بادئة مساحة الاسم لهذه العقدة، أو null إذا لم تُحدد. عندما تُعرّف بأنها null، لا يؤثر ضبطها.
 
 ```csharp
 public override string Prefix { get; }
 ```
 
-### Property_Value
+### Property Value
 
 بادئة مساحة الاسم لهذه العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

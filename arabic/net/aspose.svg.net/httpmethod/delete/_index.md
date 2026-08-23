@@ -1,27 +1,25 @@
 ---
-title: HttpMethod.Delete
-second_title: Aspose.SVG لمرجع .NET API
-description: HttpMethod ملكية. يمثل طريقة بروتوكول HTTP DELETE .
+title: "HttpMethod.Delete"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية HttpMethod Delete. تمثل طريقة بروتوكول HTTP DELETE."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.net/httpmethod/delete/
 ---
 ## HttpMethod.Delete property
 
-يمثل طريقة بروتوكول HTTP DELETE .
+تمثل طريقة بروتوكول HTTP DELETE.
 
 ```csharp
 public static HttpMethod Delete { get; }
 ```
 
-### Property_Value
+### Property Value
 
-طريقة بروتوكول HTTP DELETE .
+طريقة بروتوكول HTTP DELETE.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HttpMethod](../)
-* مساحة الاسم [Aspose.Svg.Net](../../httpmethod/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

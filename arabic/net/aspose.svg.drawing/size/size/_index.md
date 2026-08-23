@@ -1,66 +1,64 @@
 ---
-title: Size.Size
-second_title: Aspose.SVG لمرجع .NET API
-description: Size البناء. يقوم بتهيئة مثيل جديد لملفSize فئة .
+title: "Size"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ Size. يتهيئ نسخة جديدة من الفئة Size"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Size`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`Size`](../).
 
 ```csharp
 public Size()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Size](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../size/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(int, int) {#constructor_2}
+## Size(*int, int*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`Size`](../) فئة وتحديد الارتفاع والعرض بالبكسل.
+تهيئ نسخة جديدة من الفئة [`Size`](../) وتحدد الارتفاع والعرض بالبكسل.
 
 ```csharp
 public Size(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | width | Int32 | العرض. |
-| height | Int32 | الإرتفاع. |
+| height | Int32 | الارتفاع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Size](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../size/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(Length, Length) {#constructor_1}
+## Size(*[Length](../../length/), [Length](../../length/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Size`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`Size`](../).
 
 ```csharp
 public Size(Length width, Length height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | width | Length | العرض. |
-| height | Length | الإرتفاع. |
+| height | Length | الارتفاع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../../length/)
 * class [Size](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../size/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGCursorElement.RequiredExtensions
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGCursorElement ملكية. يتوافق مع السمة requiredExtensions في العنصر المحدد.
+title: "SVGCursorElement.RequiredExtensions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGCursorElement RequiredExtensions. تتطابق مع السمة requiredExtensions على العنصر المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgcursorelement/requiredextensions/
 ---
 ## SVGCursorElement.RequiredExtensions property
 
-يتوافق مع السمة "requiredExtensions" في العنصر المحدد.
+يتطابق مع السمة ‘requiredExtensions’ على العنصر المعطى.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الامتدادات المطلوبة .
+الامتدادات المطلوبة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGCursorElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcursorelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

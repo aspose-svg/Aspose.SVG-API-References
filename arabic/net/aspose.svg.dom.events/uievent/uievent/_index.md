@@ -1,48 +1,46 @@
 ---
-title: UIEvent.UIEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: UIEvent البناء. يقوم بتهيئة مثيل جديد لملفUIEvent فئة .
+title: "UIEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ UIEvent. يهيئ نسخة جديدة من فئة UIEvent"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.events/uievent/uievent/
 ---
-## UIEvent(string) {#constructor}
+## UIEvent(*string*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`UIEvent`](../) فئة .
+يهيئ نسخة جديدة من فئة [`UIEvent`](../).
 
 ```csharp
 public UIEvent(string type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UIEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../uievent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## UIEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## UIEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`UIEvent`](../) فئة .
+يهيئ نسخة جديدة من فئة [`UIEvent`](../).
 
 ```csharp
 public UIEvent(string type, IDictionary<string, object> eventInitDict)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
-| eventInitDict | IDictionary`2 | الحدث تهيئة القاموس. |
+| eventInitDict | IDictionary`2 | قاموس تهيئة الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UIEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../uievent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

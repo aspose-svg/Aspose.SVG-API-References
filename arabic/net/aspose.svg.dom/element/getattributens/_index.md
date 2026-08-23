@@ -1,32 +1,30 @@
 ---
-title: Element.GetAttributeNS
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. استرداد قيمة سمة حسب الاسم المحلي ومساحة URI.
+title: "Element.GetAttributeNS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Element GetAttributeNS method. يسترجع قيمة السمة حسب الاسم المحلي ومسار مساحة الاسم URI."
 type: docs
 weight: 270
 url: /ar/net/aspose.svg.dom/element/getattributens/
 ---
 ## Element.GetAttributeNS method
 
-استرداد قيمة سمة حسب الاسم المحلي ومساحة URI.
+يسترجع قيمة سمة حسب الاسم المحلي ومسار مساحة الاسم URI.
 
 ```csharp
 public string GetAttributeNS(string namespaceURI, string localName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceURI | String | مساحة الاسم URI. |
+| namespaceURI | String | معرف namespace URI. |
 | localName | String | اسم المحلي. |
 
 ### قيمة الإرجاع
 
-إرجاع السمة
+تُعيد السمة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

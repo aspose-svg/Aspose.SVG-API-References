@@ -1,27 +1,25 @@
 ---
-title: Url.Origin
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. يحصل على تمثيل سلسلة لأصل عنوان URL المحدد.
+title: "Url.Origin"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Origin. يحصل على تمثيل نصي للأصل المحدد في URL"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/url/origin/
 ---
 ## Url.Origin property
 
-يحصل على تمثيل سلسلة لأصل عنوان URL المحدد.
+يحصل على تمثيل نصي لأصل URL المحدد.
 
 ```csharp
 public string Origin { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الأصل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

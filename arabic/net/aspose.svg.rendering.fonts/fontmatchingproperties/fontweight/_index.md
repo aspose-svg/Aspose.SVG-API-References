@@ -1,23 +1,21 @@
 ---
-title: FontMatchingProperties.FontWeight
-second_title: Aspose.SVG لمرجع .NET API
-description: FontMatchingProperties ملكية. يحصل على قيمة وزن الخط .
+title: "FontMatchingProperties.FontWeight"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية FontWeight في FontMatchingProperties. تحصل على قيمة وزن الخط"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontweight/
 ---
 ## FontMatchingProperties.FontWeight property
 
-يحصل على قيمة وزن الخط .
+يحصل على قيمة وزن الخط.
 
 ```csharp
 public int FontWeight { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontMatchingProperties](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

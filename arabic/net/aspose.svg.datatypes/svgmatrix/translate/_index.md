@@ -1,32 +1,30 @@
 ---
-title: SVGMatrix.Translate
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMatrix طريقة. الضرب اللاحق لتحويل الترجمة في المصفوفة الحالية وإرجاع المصفوفة الناتجة.
+title: "SVGMatrix.Translate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGMatrix Translate. تُجري post‑multiply لتحويل إزاحة على المصفوفة الحالية وتُعيد المصفوفة الناتجة"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.datatypes/svgmatrix/translate/
 ---
 ## SVGMatrix.Translate method
 
-الضرب اللاحق لتحويل الترجمة في المصفوفة الحالية وإرجاع المصفوفة الناتجة.
+يُضيف بعد الضرب تحويل إزاحة إلى المصفوفة الحالية ويُعيد المصفوفة الناتجة.
 
 ```csharp
 public SVGMatrix Translate(float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | المسافة المطلوب ترجمتها على طول المحور x. |
-| y | Single | المسافة المطلوب ترجمتها على طول المحور الصادي. |
+| x | Single | المسافة التي تُنقل على طول محور x. |
+| y | Single | المسافة للترجمة على طول المحور ص. |
 
 ### قيمة الإرجاع
 
 المصفوفة الناتجة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgmatrix/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

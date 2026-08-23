@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnAbort
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnAbort.
+title: "IGlobalEventHandlers.OnAbort"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnAbort الحدث. يحصل أو يضبط معالج الحدث لـ OnAbort الحدث"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onabort/
 ---
 ## IGlobalEventHandlers.OnAbort event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnAbort.
+يحصل أو يضبط معالج الحدث لحدث OnAbort.
 
 ```csharp
 public event DOMEventHandler OnAbort;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

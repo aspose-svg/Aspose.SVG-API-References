@@ -1,23 +1,21 @@
 ---
-title: RenderingOptions.RenderingOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: RenderingOptions البناء. يقوم بتهيئة مثيل جديد لملفRenderingOptions فئة .
+title: "RenderingOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ RenderingOptions. يهيئ مثيلًا جديدًا لفئة RenderingOptions."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering/renderingoptions/renderingoptions/
 ---
 ## RenderingOptions constructor
 
-يقوم بتهيئة مثيل جديد لملف[`RenderingOptions`](../) فئة .
+يهيئ مثيلًا جديدًا لفئة [`RenderingOptions`](../).
 
 ```csharp
 public RenderingOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenderingOptions](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderingoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

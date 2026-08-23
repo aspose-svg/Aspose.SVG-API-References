@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnScroll
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على أو تعيين معالج الأحداث لحدث OnScroll.
+title: "IGlobalEventHandlers.OnScroll"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث OnScroll في IGlobalEventHandlers. يحصل أو يضبط معالج الحدث لـ OnScroll."
 type: docs
 weight: 390
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onscroll/
 ---
 ## IGlobalEventHandlers.OnScroll event
 
-الحصول على أو تعيين معالج الأحداث لحدث OnScroll.
+يحصل أو يعيّن معالج الحدث لحدث OnScroll.
 
 ```csharp
 public event DOMEventHandler OnScroll;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

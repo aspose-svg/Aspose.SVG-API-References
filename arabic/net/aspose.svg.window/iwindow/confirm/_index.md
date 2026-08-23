@@ -1,31 +1,29 @@
 ---
-title: IWindow.Confirm
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindow طريقة. يعرض موجه موافق / إلغاء مشروط بالرسالة المحددة  وينتظر أن يقوم المستخدم برفضها  ويعيد صحيحًا إذا نقر المستخدم على موافق و خطأ إذا نقر المستخدم فوق إلغاء.
+title: "IWindow.Confirm"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IWindow Confirm. تعرض نافذة منبثقة مودالية بنص OK/Cancel مع الرسالة المعطاة، تنتظر المستخدم لإغلاقها وتُعيد true إذا نقر المستخدم على OK وfalse إذا نقر على Cancel."
 type: docs
-weight: 110
+weight: 140
 url: /ar/net/aspose.svg.window/iwindow/confirm/
 ---
 ## IWindow.Confirm method
 
-يعرض موجه موافق / إلغاء مشروط بالرسالة المحددة ، وينتظر أن يقوم المستخدم برفضها ، ويعيد صحيحًا إذا نقر المستخدم على "موافق" و "خطأ" إذا نقر المستخدم فوق "إلغاء".
+يعرض نافذة منبثقة نمطية OK/Cancel مع الرسالة المعطاة، ينتظر المستخدم لإغلاقها، ويُرجع true إذا نقر المستخدم على OK وfalse إذا نقر على Cancel.
 
 ```csharp
 public bool Confirm(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة. |
+| رسالة | String | الرسالة. |
 
 ### قيمة الإرجاع
 
-إرجاع صحيح إذا نقر المستخدم فوق "موافق" و "خطأ" إذا نقر المستخدم فوق "إلغاء الأمر"
+تُعيد true إذا نقر المستخدم على OK وfalse إذا نقر على Cancel.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IWindow](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindow/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

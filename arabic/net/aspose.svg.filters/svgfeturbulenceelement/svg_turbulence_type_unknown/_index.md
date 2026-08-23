@@ -1,23 +1,21 @@
 ---
-title: SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_UNKNOWN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETurbulenceElement مجال. النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+title: "SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_UNKNOWN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_TURBULENCE_TYPE_UNKNOWN في SVGFETurbulenceElement. النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تغيير قيمة موجودة إلى هذا النوع."
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.filters/svgfeturbulenceelement/svg_turbulence_type_unknown/
 ---
 ## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_UNKNOWN field
 
-النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع.
 
 ```csharp
 public const ushort SVG_TURBULENCE_TYPE_UNKNOWN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFETurbulenceElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

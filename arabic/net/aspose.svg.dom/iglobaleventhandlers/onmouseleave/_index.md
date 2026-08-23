@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnMouseLeave
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الأحداث أو تعيينه لحدث OnMouseLeave.
+title: "IGlobalEventHandlers.OnMouseLeave"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnMouseLeave الحدث. يحصل أو يضبط معالج الحدث لـ OnMouseLeave الحدث"
 type: docs
 weight: 260
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onmouseleave/
 ---
 ## IGlobalEventHandlers.OnMouseLeave event
 
-الحصول على معالج الأحداث أو تعيينه لحدث OnMouseLeave.
+الحصول أو تعيين معالج الحدث لـ OnMouseLeave.
 
 ```csharp
 public event DOMEventHandler OnMouseLeave;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

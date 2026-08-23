@@ -1,23 +1,21 @@
 ---
-title: IWindow.Window
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindow ملكية. إرجاع كائن WindowProxy الخاص بسياق الاستعراض الخاص بكائن Window.
+title: "IWindow.Window"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IWindow Window. تُعيد كائن WindowProxy لسياق التصفح الخاص بكائن Window."
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.svg.window/iwindow/window/
 ---
 ## IWindow.Window property
 
-إرجاع كائن WindowProxy الخاص بسياق الاستعراض الخاص بكائن Window.
+يعيد كائن WindowProxy لسياق تصفح كائن Window.
 
 ```csharp
 public IWindow Window { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IWindow](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindow/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

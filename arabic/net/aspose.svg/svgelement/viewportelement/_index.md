@@ -1,27 +1,25 @@
 ---
-title: SVGElement.ViewportElement
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGElement ملكية. العنصر الذي أنشأ إطار العرض الحالي. في كثير من الأحيان  أقرب عنصر svg سلف. لاغية إذا كان العنصر المحدد هو العنصر الأبعد svg .
+title: "SVGElement.ViewportElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ViewportElement لـ SVGElement. العنصر الذي أنشأ مساحة العرض الحالية. غالبًا ما يكون أقرب عنصر svg سلف. null إذا كان العنصر المحدد هو عنصر svg الخارجي."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/svgelement/viewportelement/
 ---
 ## SVGElement.ViewportElement property
 
-العنصر الذي أنشأ إطار العرض الحالي. في كثير من الأحيان ، أقرب عنصر "svg" سلف. لاغية إذا كان العنصر المحدد هو العنصر الأبعد svg .
+العنصر الذي أنشأ مساحة العرض الحالية. غالبًا ما يكون أقرب عنصر أساسي ‘svg’. Null إذا كان العنصر المعطى هو عنصر svg الخارجي.
 
 ```csharp
 public SVGElement ViewportElement { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عنصر منفذ العرض .
+عنصر مساحة العرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

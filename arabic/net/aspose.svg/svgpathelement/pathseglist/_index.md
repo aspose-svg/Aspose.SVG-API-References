@@ -1,28 +1,26 @@
 ---
-title: SVGPathElement.PathSegList
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathElement ملكية. يوفر الوصول إلى المحتويات الأساسية أي الثابتة للسمة d في نموذج يطابق واحدًا لواحد مع صيغة SVG. وبالتالي  إذا كانت السمة d تحتوي على أمر الحركة المطلقة M وأمر arcto A المطلق  فسيكون لدى pathSegList إدخالان SVG_PATHSEG_MOVETO_ABS و SVG_PATHSEG_ARC_ABS.
+title: "SVGPathElement.PathSegList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathElement PathSegList. تُوفر الوصول إلى المحتوى الأساسي أي الثابت لخاصية d في شكل يطابق بنية SVG واحدة لواحدة. وبالتالي إذا كان لخاصية d أمر تحريك مطلق M وأمر قوس مطلق A، فإن pathSegList سيحتوي على مدخلين: SVG_PATHSEG_MOVETO_ABS و SVG_PATHSEG_ARC_ABS."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgpathelement/pathseglist/
 ---
 ## SVGPathElement.PathSegList property
 
-يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) للسمة "d" في نموذج يطابق واحدًا لواحد مع صيغة SVG. وبالتالي ، إذا كانت السمة 'd' تحتوي على أمر "الحركة المطلقة (M)" وأمر "arcto (A) المطلق" ، فسيكون لدى pathSegList إدخالان: SVG_PATHSEG_MOVETO_ABS و SVG_PATHSEG_ARC_ABS.
+يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لسمة ‘d’ في صيغة تتطابق واحدًا لواحد مع صياغة SVG. وبالتالي، إذا كانت سمة ‘d’ تحتوي على أمر \"moveto مطلق (M)\" وأمر \"arcto مطلق (A)\", فإن pathSegList سيحتوي على مدخلين: SVG_PATHSEG_MOVETO_ABS و SVG_PATHSEG_ARC_ABS.
 
 ```csharp
 public SVGPathSegList PathSegList { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قائمة مقطع المسار .
+قائمة مقاطع المسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

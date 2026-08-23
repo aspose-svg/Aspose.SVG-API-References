@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.SVGOptimizationOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions البناء. يقوم بتهيئة مثيل جديد لملفSVGOptimizationOptions فئة .
+title: "SVGOptimizationOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGOptimizationOptions constructor. Initializes a new instance of the SVGOptimizationOptions class"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/svgoptimizationoptions/
 ---
 ## SVGOptimizationOptions constructor
 
-يقوم بتهيئة مثيل جديد لملف[`SVGOptimizationOptions`](../) فئة .
+منشئ SVGOptimizationOptions. يهيئ مثلاً جديداً من الفئة SVGOptimizationOptions
 
 ```csharp
 public SVGOptimizationOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

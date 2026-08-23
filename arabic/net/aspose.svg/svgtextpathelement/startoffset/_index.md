@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.StartOffset
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPathElement ملكية. يتوافق مع السمة startOffset على عنصر textPath المحدد.
+title: "SVGTextPathElement.StartOffset"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGTextPathElement StartOffset. تتطابق مع السمة startOffset في عنصر textPath المعطى"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgtextpathelement/startoffset/
 ---
 ## SVGTextPathElement.StartOffset property
 
-يتوافق مع السمة "startOffset" على عنصر "textPath" المحدد.
+يتطابق مع السمة ‘startOffset’ على عنصر ‘textPath’ المعطى.
 
 ```csharp
 public SVGAnimatedLength StartOffset { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "startOffset" لعنصر "مسار النص" المحدد .
+السمة ‘startOffset’ لعنصر ‘textPath’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGTextPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

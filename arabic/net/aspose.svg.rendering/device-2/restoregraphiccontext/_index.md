@@ -1,23 +1,21 @@
 ---
-title: Device2.RestoreGraphicContext
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. يعيد سياق الرسومات بالكامل إلى قيمته السابقة عن طريق إخراجه من المكدس.
+title: "Device-2.RestoreGraphicContext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة RestoreGraphicContext في Device. تُعيد سياق الرسومات بالكامل إلى قيمته السابقة عن طريق إزالته من المكدس."
 type: docs
-weight: 200
+weight: 230
 url: /ar/net/aspose.svg.rendering/device-2/restoregraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.RestoreGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.RestoreGraphicContext method
 
-يعيد سياق الرسومات بالكامل إلى قيمته السابقة عن طريق إخراجه من المكدس.
+يعيد سياق الرسومات بالكامل إلى قيمته السابقة عن طريق إزالته من المكدس.
 
 ```csharp
 public virtual void RestoreGraphicContext()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

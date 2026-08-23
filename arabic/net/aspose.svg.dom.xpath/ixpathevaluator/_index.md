@@ -1,30 +1,28 @@
 ---
-title: Interface IXPathEvaluator
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.XPath.IXPathEvaluator واجهه المستخدم. يتم توفير تقييم تعبيرات XPath بواسطةIXPathEvaluator .
+title: "واجهة IXPathEvaluator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.XPath.IXPathEvaluator. يتم توفير تقييم تعبيرات XPath بواسطة IXPathEvaluator"
 type: docs
-weight: 1310
+weight: 3310
 url: /ar/net/aspose.svg.dom.xpath/ixpathevaluator/
 ---
 ## IXPathEvaluator interface
 
-يتم توفير تقييم تعبيرات XPath بواسطة`IXPathEvaluator` .
+يتم توفير تقييم تعبيرات XPath بواسطة `IXPathEvaluator`.
 
 ```csharp
 public interface IXPathEvaluator
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateExpression](../../aspose.svg.dom.xpath/ixpathevaluator/createexpression/)(string, IXPathNSResolver) | لتكوين تعبير XPath تم تحليله باستخدام مساحات الأسماء التي تم حلها. يعد هذا مفيدًا عندما يُعاد استخدام تعبير في أحد التطبيقات لأنه يجعل من الممكن تجميع سلسلة التعبير في نموذج داخلي أكثر كفاءة و حل جميع بادئات مساحة الاسم التي تحدث داخل التعبير. |
-| [CreateNSResolver](../../aspose.svg.dom.xpath/ixpathevaluator/creatensresolver/)(Node) | تتكيف مع أي عقدة DOM لتحليل مساحات الأسماء بحيث يمكن بسهولة تقييم تعبير XPath بالنسبة إلى سياق العقدة حيث ظهر داخل المستند. يعمل هذا المحول مثل طريقة DOM المستوى 3`lookupNamespaceURI` على العقد في حل مساحة الاسمURI من بادئة معينة باستخدام المعلومات الحالية المتاحة في التسلسل الهرمي للعقدة في time lookupNamespaceURI ، يتم أيضًا حل بادئة xml الضمنية بشكل صحيح. |
-| [Evaluate](../../aspose.svg.dom.xpath/ixpathevaluator/evaluate/)(string, Node, IXPathNSResolver, XPathResultType, object) | بتقييم سلسلة تعبير XPath وإرجاع نتيجة من النوع المحدد إن أمكن. |
+| [CreateExpression](../../aspose.svg.dom.xpath/ixpathevaluator/createexpression/)(*string, [IXPathNSResolver](../ixpathnsresolver/)*) | ينشئ تعبير XPath محلل مع مساحات أسماء محلولة. هذا مفيد عندما سيتم إعادة استخدام التعبير في تطبيق لأنه يجعل من الممكن تجميع سلسلة التعبير إلى شكل داخلي أكثر كفاءة وإعادة حل جميع مسافات أسماء البادئات التي تظهر داخل التعبير. |
+| [CreateNSResolver](../../aspose.svg.dom.xpath/ixpathevaluator/creatensresolver/)(*[Node](../../aspose.svg.dom/node/)*) | يتكيف مع أي عقدة DOM لحل مساحات الأسماء بحيث يمكن تقييم تعبير XPath بسهولة بالنسبة لسياق العقدة التي ظهرت فيها داخل المستند. يعمل هذا المحول مثل طريقة DOM Level 3 `lookupNamespaceURI` على العقد في حل namespaceURI من بادئة معينة باستخدام المعلومات الحالية المتاحة في تسلسل العقدة الهرمي في الوقت الذي يتم فيه استدعاء lookupNamespaceURI، كما يحل بشكل صحيح البادئة الضمنية xml. |
+| [Evaluate](../../aspose.svg.dom.xpath/ixpathevaluator/evaluate/)(*string, [Node](../../aspose.svg.dom/node/), [IXPathNSResolver](../ixpathnsresolver/), [XPathResultType](../xpathresulttype/), object*) | يقيم سلسلة تعبير XPath ويعيد نتيجة من النوع المحدد إذا كان ذلك ممكنًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

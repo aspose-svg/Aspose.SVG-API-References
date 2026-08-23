@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_SKEWY
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransform مجال. تحول انحراف ....
+title: "SVGTransform.SVG_TRANSFORM_SKEWY"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTransform SVG_TRANSFORM_SKEWY. تحويل skewY"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.datatypes/svgtransform/svg_transform_skewy/
 ---
 ## SVGTransform.SVG_TRANSFORM_SKEWY field
 
-تحول "انحراف (...)".
+تحويل 'skewY(…)'
 
 ```csharp
 public const ushort SVG_TRANSFORM_SKEWY;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransform/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

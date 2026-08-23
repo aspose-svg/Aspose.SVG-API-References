@@ -1,31 +1,29 @@
 ---
-title: Color.FromGray
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيمة الرمادية المطلوبة.
+title: "Color.FromGray"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromGray. تُرجع لونًا جديدًا مع القيمة الرمادية المطلوبة"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.drawing/color/fromgray/
 ---
 ## Color.FromGray method
 
-إرجاع لون جديد بقيمة الرمادية المطلوبة.
+يرجع Color جديد مع القيمة المطلوبة للرمادي.
 
 ```csharp
 public static Color FromGray(float gray)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| gray | Single | عائم يمثل القيمة الرمادية للون. |
+| رمادي | Single | قيمة عائمة تمثل القيمة الرمادية للون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

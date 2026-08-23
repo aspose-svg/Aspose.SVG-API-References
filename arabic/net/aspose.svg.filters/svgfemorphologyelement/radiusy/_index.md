@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.RadiusY
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEMorphologyElement ملكية. يتوافق مع السمة radius على عنصر feMorphology المحدد.
+title: "SVGFEMorphologyElement.RadiusY"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية RadiusY لعنصر SVGFEMorphologyElement. تتطابق مع السمة radius في عنصر feMorphology المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.filters/svgfemorphologyelement/radiusy/
 ---
 ## SVGFEMorphologyElement.RadiusY property
 
-يتوافق مع السمة "radius" على عنصر "feMorphology" المحدد.
+يتطابق مع السمة ‘radius’ على العنصر ‘feMorphology’ المحدد.
 
 ```csharp
 public SVGAnimatedNumber RadiusY { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "radius" لعنصر "feMorphology" المحدد .
+السمة ‘radius’ لعنصر ‘feMorphology’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEMorphologyElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

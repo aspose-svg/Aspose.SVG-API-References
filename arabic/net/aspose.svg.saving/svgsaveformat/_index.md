@@ -1,28 +1,27 @@
 ---
-title: Enum SVGSaveFormat
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Saving.SVGSaveFormat تعداد. يحدد التنسيق الذي يتم حفظ المستند به .
+title: "تعداد SVGSaveFormat"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "التعداد Aspose.Svg.Saving.SVGSaveFormat. يحدد الصيغة التي يُحفظ بها المستند"
 type: docs
-weight: 3660
+weight: 5780
 url: /ar/net/aspose.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration
 
-يحدد التنسيق الذي يتم حفظ المستند به .
+يحدد الصيغة التي يُحفظ بها المستند.
 
 ```csharp
 public enum SVGSaveFormat
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SVG | `0` | سيتم حفظ المستند بتنسيق SVG. |
+| SVG | `0` | سيتم حفظ المستند كـ SVG. |
+| SVGZ | `1` | سيتم حفظ المستند كـ SVGZ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

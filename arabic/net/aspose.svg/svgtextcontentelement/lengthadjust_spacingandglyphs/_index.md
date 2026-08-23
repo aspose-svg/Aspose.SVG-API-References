@@ -1,23 +1,21 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextContentElement مجال. يتوافق مع القيمة spacingAndGlyphs .
+title: "SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTextContentElement LENGTHADJUST_SPACINGANDGLYPHS. يتطابق مع القيمة spacingAndGlyphs."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS field
 
-يتوافق مع القيمة "spacingAndGlyphs" .
+يتطابق مع القيمة 'spacingAndGlyphs'.
 
 ```csharp
 public const ushort LENGTHADJUST_SPACINGANDGLYPHS;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextContentElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextcontentelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

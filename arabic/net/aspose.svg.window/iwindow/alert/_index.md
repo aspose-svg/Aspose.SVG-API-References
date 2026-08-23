@@ -1,27 +1,25 @@
 ---
-title: IWindow.Alert
-second_title: Aspose.SVG لمرجع .NET API
-description: IWindow طريقة. يعرض تنبيهًا مشروطًا بالرسالة المحددة  وينتظر حتى يقوم المستخدم بإغلاقها
+title: "IWindow.Alert"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IWindow Alert. تعرض تنبيهًا موداليًا مع الرسالة المعطاة وتنتظر المستخدم لإغلاقه."
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.svg.window/iwindow/alert/
 ---
 ## IWindow.Alert method
 
-يعرض تنبيهًا مشروطًا بالرسالة المحددة ، وينتظر حتى يقوم المستخدم بإغلاقها
+يعرض تنبيهًا مودالي مع الرسالة المعطاة، وينتظر من المستخدم إغلاقه.
 
 ```csharp
 public void Alert(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة. |
+| رسالة | String | الرسالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IWindow](../)
-* مساحة الاسم [Aspose.Svg.Window](../../iwindow/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: ICSSCounterStyleRule.Name
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSCounterStyleRule ملكية. يحصل على الاسم .
+title: "ICSSCounterStyleRule.Name"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Name في ICSSCounterStyleRule. يحصل على الاسم"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.css/icsscounterstylerule/name/
 ---
 ## ICSSCounterStyleRule.Name property
 
-يحصل على الاسم .
+يحصل على الاسم.
 
 ```csharp
 public string Name { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSCounterStyleRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

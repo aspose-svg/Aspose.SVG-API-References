@@ -1,23 +1,21 @@
 ---
-title: PdfDocumentInfo.ModificationDate
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfDocumentInfo ملكية. الحصول على أو تعيين تاريخ تعديل المستند المحدد على أنه التوقيت العالمي المنسق UTC .
+title: "PdfDocumentInfo.ModificationDate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PdfDocumentInfo ModificationDate. تحصل أو تعين تاريخ تعديل المستند المحدد بتوقيت عالمي منسق UTC"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.rendering.pdf/pdfdocumentinfo/modificationdate/
 ---
 ## PdfDocumentInfo.ModificationDate property
 
-الحصول على أو تعيين تاريخ تعديل المستند المحدد على أنه التوقيت العالمي المنسق (UTC) .
+يحصل أو يضبط تاريخ تعديل المستند المحدد بالتوقيت العالمي المنسق (UTC).
 
 ```csharp
 public DateTime ModificationDate { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

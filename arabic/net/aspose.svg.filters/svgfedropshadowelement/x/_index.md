@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDropShadowElement ملكية. يتوافق مع السمة x في عنصر feDropShadow المحدد .
+title: "SVGFEDropShadowElement.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية X في SVGFEDropShadowElement. تتطابق مع السمة x في عنصر feDropShadow المحدد."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.filters/svgfedropshadowelement/x/
 ---
 ## SVGFEDropShadowElement.X property
 
-يتوافق مع السمة "x" في عنصر "feDropShadow" المحدد .
+يتطابق مع السمة ‘x’ في العنصر ‘feDropShadow’ المحدد.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "x" لعنصر "feDropShadow" المحدد .
+السمة ‘x’ لعنصر ‘feDropShadow’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDropShadowElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

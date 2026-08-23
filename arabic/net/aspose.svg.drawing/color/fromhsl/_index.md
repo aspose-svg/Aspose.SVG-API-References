@@ -1,33 +1,31 @@
 ---
-title: Color.FromHsl
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيم الصبغة والتشبع والتشبع المطلوبة.
+title: "Color.FromHsl"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromHsl. تُرجع كائن Color جديد بالقيم المطلوبة للدرجة والتشبع."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.drawing/color/fromhsl/
 ---
 ## Color.FromHsl method
 
-إرجاع لون جديد بقيم الصبغة والتشبع والتشبع المطلوبة.
+يرجع Color جديد مع القيم المطلوبة للدرجة، التشبع، التشبع.
 
 ```csharp
 public static Color FromHsl(float hue, float saturation, float lightness)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| hue | Single | عائم يمثل مكون تدرج اللون. |
-| saturation | Single | عائم يمثل مكون تشبع اللون. |
-| lightness | Single | عائم يمثل مكون الإضاءة للون. |
+| hue | Single | قيمة عائمة تمثل المكوّن الدرجة للون. |
+| saturation | Single | قيمة عائمة تمثل مكوّن التشبع للون. |
+| السطوع | Single | قيمة عائمة تمثل مكوّن السطوع للون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

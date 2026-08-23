@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_IN
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة طول بوصة. يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+title: "CSSPrimitiveValue.CSS_IN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "CSSPrimitiveValue CSS_IN field. القيمة هي طول بوحدة in. يمكن الحصول على القيمة باستخدام طريقة getFloatValue method"
 type: docs
-weight: 250
+weight: 260
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_in/
 ---
 ## CSSPrimitiveValue.CSS_IN field
 
-القيمة طول (بوصة). يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+القيمة هي طول (in). يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
 
 ```csharp
 public const ushort CSS_IN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

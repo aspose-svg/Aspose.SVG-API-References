@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.RefX
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMarkerElement ملكية. يتوافق مع السمة refX على عنصر العلامة المحدد .
+title: "SVGMarkerElement.RefX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGMarkerElement RefX. تتطابق مع السمة refX على عنصر marker المحدد"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svgmarkerelement/refx/
 ---
 ## SVGMarkerElement.RefX property
 
-يتوافق مع السمة "refX" على عنصر "العلامة" المحدد .
+يتطابق مع السمة ‘refX’ في عنصر ‘marker’ المحدد.
 
 ```csharp
 public SVGAnimatedLength RefX { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "refX" لعنصر "العلامة" المحدد .
+السمة ‘refX’ لعنصر ‘marker’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgmarkerelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

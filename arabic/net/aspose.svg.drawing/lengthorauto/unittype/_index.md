@@ -1,28 +1,26 @@
 ---
-title: LengthOrAuto.UnitType
-second_title: Aspose.SVG لمرجع .NET API
-description: LengthOrAuto ملكية. يحصل على نوع الوحدة لملفUnit .
+title: "LengthOrAuto.UnitType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية UnitType في LengthOrAuto. يحصل على نوع الوحدة للـ Unit"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.drawing/lengthorauto/unittype/
 ---
 ## LengthOrAuto.UnitType property
 
-يحصل على نوع الوحدة لملف[`Unit`](../../unit/) .
+يحصل على نوع الوحدة للـ [`Unit`](../../unit/).
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الوحدة .
+نوع الوحدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../../unittype/)
 * class [LengthOrAuto](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../lengthorauto/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

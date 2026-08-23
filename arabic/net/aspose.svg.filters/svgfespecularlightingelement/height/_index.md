@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.Height
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFESpecularLightingElement ملكية. يتوافق مع السمة الارتفاع على عنصر الفلتر المحدد .
+title: "SVGFESpecularLightingElement.Height"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGFESpecularLightingElement خاصية Height. تتطابق مع السمة height في عنصر الفلتر المعطى."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.filters/svgfespecularlightingelement/height/
 ---
 ## SVGFESpecularLightingElement.Height property
 
-يتوافق مع السمة "الارتفاع" على عنصر "الفلتر" المحدد .
+يتطابق مع السمة ‘height’ في عنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-سمة "الارتفاع" لعنصر "عامل التصفية" المحدد .
+السمة ‘height’ للعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFESpecularLightingElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

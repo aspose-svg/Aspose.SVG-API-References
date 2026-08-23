@@ -1,27 +1,25 @@
 ---
-title: Element.HasAttributes
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. إرجاع ما إذا كانت هذه العقدة إذا كانت عنصرًا لها أي سمات
+title: "Element.HasAttributes"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element HasAttributes. تُرجع ما إذا كانت هذه العقدة إذا كانت عنصرًا تحتوي على أي سمات."
 type: docs
 weight: 330
 url: /ar/net/aspose.svg.dom/element/hasattributes/
 ---
 ## Element.HasAttributes method
 
-إرجاع ما إذا كانت هذه العقدة (إذا كانت عنصرًا) لها أي سمات
+يعيد ما إذا كانت هذه العقدة (إذا كانت عنصرًا) تحتوي على أي سمات
 
 ```csharp
-public override bool HasAttributes()
+public bool HasAttributes()
 ```
 
 ### قيمة الإرجاع
 
-قيمة منطقية`حقيقي` إذا كانت هذه العقدة لها أي سمات ،`خطأ شنيع` خلاف ذلك.
+قيمة منطقية `true` إذا كانت هذه العقدة تحتوي على أي سمات، `false` خلاف ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

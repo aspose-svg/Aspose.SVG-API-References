@@ -1,27 +1,25 @@
 ---
-title: Event.IsTrusted
-second_title: Aspose.SVG لمرجع .NET API
-description: Event ملكية. يجب أن ترجع السمة isTrusted القيمة التي تمت تهيئتها إليها. عند إنشاء حدث  يجب تهيئة السمة إلى false .
+title: "Event.IsTrusted"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Event IsTrusted. يجب أن تُعيد الخاصية isTrusted القيمة التي تم تهيئتها بها. عند إنشاء حدث يجب تهيئة الخاصية إلى false."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom.events/event/istrusted/
 ---
 ## Event.IsTrusted property
 
-يجب أن ترجع السمة isTrusted القيمة التي تمت تهيئتها إليها. عند إنشاء حدث ، يجب تهيئة السمة إلى false .
+يجب أن تُعيد الخاصية isTrusted القيمة التي تم تهيئتها بها. عند إنشاء الحدث يجب تهيئة الخاصية إلى false.
 
 ```csharp
 public bool IsTrusted { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي`إذا كان هذا المثال موثوقًا به ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه العينة موثوقة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../event/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

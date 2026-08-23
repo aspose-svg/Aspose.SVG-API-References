@@ -1,14 +1,14 @@
 ---
-title: Url.GetHashCode
-second_title: Aspose.SVG لمرجع .NET API
-description: Url طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "Url.GetHashCode"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Url GetHashCode. تُرجع رمز تجزئة لهذه المثيلة."
 type: docs
 weight: 150
 url: /ar/net/aspose.svg/url/gethashcode/
 ---
 ## Url.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة (hash code) لهذه الحالة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذا الكائن، مناسب للاستخدام في خوارزميات التجزئة والهياكل البيانية مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

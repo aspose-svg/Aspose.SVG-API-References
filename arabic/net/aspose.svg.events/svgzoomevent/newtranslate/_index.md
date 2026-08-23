@@ -1,24 +1,22 @@
 ---
-title: SVGZoomEvent.NewTranslate
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGZoomEvent ملكية. قيم الترجمة التي سيتم وضعها بعد معالجة عملية التكبير / التصغير . يتم قراءة كائن SVGPoint فقط.
+title: "SVGZoomEvent.NewTranslate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية NewTranslate في SVGZoomEvent. قيم الترجمة التي ستكون سارية بعد معالجة عملية التكبير. كائن SVGPoint للقراءة فقط"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.events/svgzoomevent/newtranslate/
 ---
 ## SVGZoomEvent.NewTranslate property
 
-قيم الترجمة التي سيتم وضعها بعد معالجة عملية التكبير / التصغير . يتم قراءة كائن SVGPoint فقط.
+قِيَم الترجمة التي ستكون سارية بعد معالجة عملية التكبير. كائن SVGPoint للقراءة فقط.
 
 ```csharp
 public SVGPoint NewTranslate { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGZoomEvent](../)
-* مساحة الاسم [Aspose.Svg.Events](../../svgzoomevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,43 +1,41 @@
 ---
-title: ImageTraceSmoother.ImageTraceSmoother
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageTraceSmoother البناء. يقوم بتهيئة مثيل جديد لملفImageTraceSmoother فئة .
+title: "ImageTraceSmoother"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ImageTraceSmoother المُنشئ. ينشئ مثلاً جديداً من الفئة ImageTraceSmoother"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
 ## ImageTraceSmoother() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageTraceSmoother`](../) فئة .
+ينشئ مثلاً جديداً من الفئة [`ImageTraceSmoother`](../).
 
 ```csharp
 public ImageTraceSmoother()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageTraceSmoother](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSmoother(int) {#constructor_1}
+## ImageTraceSmoother(*int*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageTraceSmoother`](../) فئة .
+ينشئ مثلاً جديداً من الفئة [`ImageTraceSmoother`](../).
 
 ```csharp
 public ImageTraceSmoother(int severity)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| severity | Int32 | الشدة |
+| الخطورة | Int32 | الخطورة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageTraceSmoother](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

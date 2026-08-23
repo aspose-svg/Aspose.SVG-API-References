@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Exponent
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGComponentTransferFunctionElement ملكية. يتوافق مع السمة الأس على العنصر المحدد.
+title: "SVGComponentTransferFunctionElement.Exponent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGComponentTransferFunctionElement Exponent. تتطابق مع السمة exponent في العنصر المعطى"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgcomponenttransferfunctionelement/exponent/
 ---
 ## SVGComponentTransferFunctionElement.Exponent property
 
-يتوافق مع السمة "الأس" على العنصر المحدد.
+يتطابق مع السمة ‘exponent’ على العنصر المحدد.
 
 ```csharp
 public SVGAnimatedNumber Exponent { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "الأس" للعنصر المحدد .
+السمة ‘exponent’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMaskElement ملكية. يتوافق مع السمة x في عنصر القناع المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
+title: "SVGMaskElement.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGMaskElement X. تتطابق مع السمة x على عنصر القناع المعطى. تأخذ أحد الثوابت المعرفة في SVGUnitTypes."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg/svgmaskelement/x/
 ---
 ## SVGMaskElement.X property
 
-يتوافق مع السمة "x" في عنصر "القناع" المحدد. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
+يتطابق مع السمة ‘x’ على عنصر ‘mask’ المعطى. يأخذ أحد الثوابت المعرفة في SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "x" لعنصر "القناع" المحدد.
+السمة ‘x’ لعنصر ‘mask’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgmaskelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

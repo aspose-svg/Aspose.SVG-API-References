@@ -1,29 +1,27 @@
 ---
-title: PageSetup.SetLeftRightPage
-second_title: Aspose.SVG لمرجع .NET API
-description: PageSetup طريقة. يضبط تكوين الصفحة اليسرى / اليمنى.
+title: "PageSetup.SetLeftRightPage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة PageSetup SetLeftRightPage. تعيين تكوين الصفحة اليسرى/اليمنى"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.rendering/pagesetup/setleftrightpage/
 ---
 ## PageSetup.SetLeftRightPage method
 
-يضبط تكوين الصفحة اليسرى / اليمنى.
+يضبط تكوين الصفحة اليسرى/اليمنى.
 
 ```csharp
 public void SetLeftRightPage(Page leftPage, Page rightPage)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | leftPage | Page | الصفحة اليسرى. |
-| rightPage | Page | الصفحة الصحيحة. |
+| rightPage | Page | الصفحة اليمنى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../pagesetup/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

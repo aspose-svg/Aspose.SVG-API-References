@@ -1,27 +1,25 @@
 ---
-title: Device2.AddRect
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. إلحاق مستطيل بالمسار الحالي كمسار فرعي كامل.
+title: "Device-2.AddRect"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة AddRect في Device. تُضيف مستطيلًا إلى المسار الحالي كمسار فرعي كامل."
 type: docs
-weight: 30
+weight: 60
 url: /ar/net/aspose.svg.rendering/device-2/addrect/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.AddRect method
+## Device<TGraphicContext,TRenderingOptions>.AddRect method
 
-إلحاق مستطيل بالمسار الحالي كمسار فرعي كامل.
+يضيف مستطيلًا إلى المسار الحالي كمسار فرعي كامل.
 
 ```csharp
-public abstract void AddRect(RectangleF rect)
+public virtual void AddRect(RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | rect | RectangleF | مستطيل للرسم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

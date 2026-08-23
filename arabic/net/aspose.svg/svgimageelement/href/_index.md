@@ -1,28 +1,26 @@
 ---
-title: SVGImageElement.Href
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGImageElement ملكية. يتوافق مع السمة xlink href في العنصر المحدد.
+title: "SVGImageElement.Href"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Href في SVGImageElement. تتطابق مع السمة xlinkhref في العنصر المعطى"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgimageelement/href/
 ---
 ## SVGImageElement.Href property
 
-يتوافق مع السمة "xlink: href" في العنصر المحدد.
+يتطابق مع السمة ‘xlink:href’ على العنصر المعطى.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Property_Value
+### Property Value
 
-"xlink: href" للعنصر المحدد.
+‘xlink:href’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGImageElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgimageelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGMatrix.A
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMatrix ملكية. المكون أ في المصفوفة .
+title: "SVGMatrix.A"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGMatrix A. المكوّن A للمصفوفة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svgmatrix/a/
 ---
 ## SVGMatrix.A property
 
-المكون "أ" في المصفوفة .
+المكوّن A للمصفوفة.
 
 ```csharp
 public float A { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المكون "أ" في المصفوفة .
+المكوّن A للمصفوفة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . تم طرحه عند محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgmatrix/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

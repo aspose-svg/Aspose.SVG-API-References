@@ -1,31 +1,29 @@
 ---
-title: Color.WithLuminosity
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إنشاء نسخة من اللون بالسطوع المحدد.
+title: "Color.WithLuminosity"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color WithLuminosity. تُنشئ نسخة من اللون مع الإضاءة المحددة"
 type: docs
 weight: 470
 url: /ar/net/aspose.svg.drawing/color/withluminosity/
 ---
 ## Color.WithLuminosity method
 
-إنشاء نسخة من اللون بالسطوع المحدد.
+ينشئ نسخة من اللون مع luminosity المحدد.
 
 ```csharp
 public Color WithLuminosity(float luminosity)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| luminosity | Single | قيمة اللمعان |
+| الإضاءة | Single | قيمة السطوع |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل.
+مثال جديد من الفئة [`Color`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

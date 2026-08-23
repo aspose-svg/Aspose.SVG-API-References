@@ -1,24 +1,22 @@
 ---
-title: Document.OnBlur
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث أو تعيينه لحدث OnBlur.
+title: "Document.OnBlur"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnBlur. يحصل أو يضبط معالج الحدث لحدث OnBlur"
 type: docs
 weight: 290
 url: /ar/net/aspose.svg.dom/document/onblur/
 ---
 ## Document.OnBlur event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnBlur.
+يحصل أو يضبط معالج الحدث لحدث OnBlur.
 
 ```csharp
 public event DOMEventHandler OnBlur;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

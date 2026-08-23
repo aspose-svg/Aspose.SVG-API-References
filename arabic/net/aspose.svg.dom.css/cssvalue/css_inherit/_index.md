@@ -1,23 +1,21 @@
 ---
-title: CSSValue.CSS_INHERIT
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValue مجال. القيمة موروثة ويحتوي cssText على ترث .
+title: "CSSValue.CSS_INHERIT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSValue CSS_INHERIT. القيمة موروثة و cssText يحتوي على inherit"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.css/cssvalue/css_inherit/
 ---
 ## CSSValue.CSS_INHERIT field
 
-القيمة موروثة ويحتوي cssText على "ترث" .
+القيمة موروثة ويحتوي cssText على "inherit".
 
 ```csharp
 public const ushort CSS_INHERIT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

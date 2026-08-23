@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.In1
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDropShadowElement ملكية. يتوافق مع السمة in في عنصر feDropShadow المحدد .
+title: "SVGFEDropShadowElement.In1"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية In1 لـ SVGFEDropShadowElement. تتطابق مع الخاصية in في عنصر feDropShadow المحدد."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.filters/svgfedropshadowelement/in1/
 ---
 ## SVGFEDropShadowElement.In1 property
 
-يتوافق مع السمة "in" في عنصر "feDropShadow" المحدد .
+يتطابق مع السمة ‘in’ في العنصر ‘feDropShadow’ المحدد.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "في" لعنصر "feDropShadow" المحدد .
+الخاصية ‘in’ لعنصر ‘feDropShadow’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDropShadowElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

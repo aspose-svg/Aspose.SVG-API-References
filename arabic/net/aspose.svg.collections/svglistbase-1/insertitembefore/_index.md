@@ -1,38 +1,36 @@
 ---
-title: SVGListBase1.InsertItemBefore
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGListBase طريقة. إدراج عنصر جديد في القائمة في الموضع المحدد. العنصر الأول هو رقم 0.
+title: "SVGListBase-1.InsertItemBefore"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة InsertItemBefore في SVGListBase. تُدرج عنصرًا جديدًا في القائمة في الموضع المحدد. العنصر الأول هو الرقم 0"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.collections/svglistbase-1/insertitembefore/
 ---
-## SVGListBase&lt;T&gt;.InsertItemBefore method
+## SVGListBase<T>.InsertItemBefore method
 
-إدراج عنصر جديد في القائمة في الموضع المحدد. العنصر الأول هو رقم 0.
+يدرج عنصرًا جديدًا في القائمة في الموضع المحدد. العنصر الأول هو الرقم 0.
 
 ```csharp
 public T InsertItemBefore(T newItem, ulong index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newItem | T | العنصر الذي سيتم إدراجه في القائمة. |
-| index | UInt64 | فهرس العنصر الذي سيتم إدراج العنصر الجديد قبله. العنصر الأول هو رقم 0. إذا كان الفهرس يساوي 0 ، فسيتم إدراج العنصر الجديد في مقدمة القائمة. إذا كان الفهرس أكبر من أو يساوي numberOfItems ، فسيتم إلحاق العنصر الجديد بنهاية القائمة. |
+| index | UInt64 | فهرس العنصر الذي سيُدرج قبلّه العنصر الجديد. العنصر الأول هو الرقم 0. إذا كان الفهرس يساوي 0، يتم إدراج العنصر الجديد في مقدمة القائمة. إذا كان الفهرس أكبر من أو يساوي numberOfItems، يتم إلحاق العنصر الجديد بنهاية القائمة. |
 
 ### قيمة الإرجاع
 
-العنصر المدرج.
+العنصر المُدرج.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | شفرة[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). تُثار عندما لا يمكن تعديل القائمة. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُرفع عندما لا يمكن تعديل القائمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGListBase&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../svglistbase-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

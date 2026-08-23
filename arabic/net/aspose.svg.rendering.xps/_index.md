@@ -1,18 +1,16 @@
 ---
-title: Aspose.Svg.Rendering.Xps
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Rendering.Xps توفر مساحة الاسم فئة جهاز محددة بالإضافة إلى عدد قليل من فئات خيارات rendering المسؤولة عن التقديم إلى مستند xps.
+title: "Aspose.Svg.Rendering.Xps"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "توفر مساحة الاسم Aspose.Svg.Rendering.Xps فئة جهاز محددة بالإضافة إلى بعض فئات خيارات العرض المسؤولة عن العرض إلى مستند XPS."
 type: docs
-weight: 290
+weight: 310
 url: /ar/net/aspose.svg.rendering.xps/
 ---
-ملف **Aspose.Svg.Rendering.Xps** توفر مساحة الاسم فئة جهاز محددة بالإضافة إلى عدد قليل من فئات خيارات rendering المسؤولة عن التقديم إلى مستند xps.
+توفر مساحة الاسم **Aspose.Svg.Rendering.Xps** فئة جهاز محددة وعددًا قليلًا من فئات خيارات العرض المسؤولة عن العرض إلى مستند XPS.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [XpsDevice](./xpsdevice/) | يمثل التقديم إلى مستند xps . |
-| [XpsRenderingOptions](./xpsrenderingoptions/) | يمثل خيارات التقديم لـ[`XpsDevice`](../aspose.svg.rendering.xps/xpsdevice/) . |
-
-
+| [XpsDevice](./xpsdevice/) | يمثل العرض إلى مستند XPS. |
+| [XpsRenderingOptions](./xpsrenderingoptions/) | يمثل خيارات العرض لـ [`XpsDevice`](../aspose.svg.rendering.xps/xpsdevice/). |

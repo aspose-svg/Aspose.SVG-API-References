@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontVariant
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية متغير الخط في CSS2.
+title: "ICSS2Properties.FontVariant"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية FontVariant في ICSS2Properties. راجع تعريف خاصية font-variant في CSS2"
 type: docs
 weight: 530
 url: /ar/net/aspose.svg.dom.css/icss2properties/fontvariant/
 ---
 ## ICSS2Properties.FontVariant property
 
-راجع تعريف خاصية متغير الخط في CSS2.
+انظر تعريف خاصية font-variant في CSS2.
 
 ```csharp
 public string FontVariant { get; set; }
@@ -16,12 +16,10 @@ public string FontVariant { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية متغير الخط
+خاصية font-variant
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

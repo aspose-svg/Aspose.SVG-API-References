@@ -1,27 +1,25 @@
 ---
-title: Element.TagName
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. اسم العنصر .
+title: "Element.TagName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element TagName. اسم العنصر."
 type: docs
-weight: 210
+weight: 200
 url: /ar/net/aspose.svg.dom/element/tagname/
 ---
 ## Element.TagName property
 
-اسم العنصر .
+اسم العنصر.
 
 ```csharp
 public string TagName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم العنصر .
+اسم العنصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: IDocumentStyle.StyleSheets
-second_title: Aspose.SVG لمرجع .NET API
-description: IDocumentStyle ملكية. قائمة تحتوي على كافة أوراق الأنماط المرتبطة أو المضمنة في مستند بشكل صريح. بالنسبة لمستندات HTML  يتضمن ذلك أوراق الأنماط الخارجية  المضمنة عبر عنصر HTML LINK  وعناصر النمط المضمنة.
+title: "IDocumentStyle.StyleSheets"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IDocumentStyle StyleSheets. قائمة تحتوي على جميع أوراق الأنماط المرتبطة صراحةً أو المدمجة في المستند. بالنسبة لمستندات HTML تشمل أوراق الأنماط الخارجية المضمنة عبر عنصر HTML LINK وعناصر STYLE المضمنة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/idocumentstyle/stylesheets/
 ---
 ## IDocumentStyle.StyleSheets property
 
-قائمة تحتوي على كافة أوراق الأنماط المرتبطة أو المضمنة في مستند بشكل صريح. بالنسبة لمستندات HTML ، يتضمن ذلك أوراق الأنماط الخارجية ، المضمنة عبر عنصر HTML LINK ، وعناصر النمط المضمنة.
+قائمة تحتوي على جميع أوراق الأنماط المرتبطة صراحةً أو المدمجة في مستند. بالنسبة لمستندات HTML، تشمل ذلك أوراق الأنماط الخارجية، المضمنة عبر عنصر HTML LINK، وعناصر STYLE المضمنة.
 
 ```csharp
 public IStyleSheetList StyleSheets { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IStyleSheetList](../../istylesheetlist/)
 * interface [IDocumentStyle](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../idocumentstyle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnEnded
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الأحداث أو تعيينه لحدث OnEnded.
+title: "IGlobalEventHandlers.OnEnded"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers حدث OnEnded. يحصل أو يضبط معالج الحدث لحدث OnEnded"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onended/
 ---
 ## IGlobalEventHandlers.OnEnded event
 
-الحصول على معالج الأحداث أو تعيينه لحدث OnEnded.
+يحصل أو يضبط معالج الحدث لحدث OnEnded.
 
 ```csharp
 public event DOMEventHandler OnEnded;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

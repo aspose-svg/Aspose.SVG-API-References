@@ -1,34 +1,32 @@
 ---
-title: IDOMImplementation.CreateDocumentType
-second_title: Aspose.SVG لمرجع .NET API
-description: IDOMImplementation طريقة. إنشاء عقدة DocumentType فارغة. لا يتم توفير إعلانات الكيانات والترميزات. لا تحدث توسعات مرجع الكيان وإضافات السمات الافتراضية.
+title: "IDOMImplementation.CreateDocumentType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDOMImplementation CreateDocumentType. تنشئ عقدة DocumentType فارغة. لا تتوفر إعلانات الكيانات والرموز. لا تحدث توسيعات مرجع الكيان وإضافات السمات الافتراضية."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/idomimplementation/createdocumenttype/
 ---
 ## IDOMImplementation.CreateDocumentType method
 
-إنشاء عقدة DocumentType فارغة. لا يتم توفير إعلانات الكيانات والترميزات. لا تحدث توسعات مرجع الكيان وإضافات السمات الافتراضية.
+ينشئ عقدة DocumentType فارغة. لا تتوفر إعلانات الكيانات والرموز. لا تحدث توسيعات مرجع الكيان ولا إضافات السمات الافتراضية.
 
 ```csharp
 public DocumentType CreateDocumentType(string qualifiedName, string publicId, string systemId)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | qualifiedName | String | اسم المؤهل. |
-| publicId | String | المعرف العام. |
-| systemId | String | معرف النظام. |
+| publicId | String | معرّف العمومي. |
+| systemId | String | معرّف النظام. |
 
 ### قيمة الإرجاع
 
 ال[`DocumentType`](../../documenttype/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../idomimplementation/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

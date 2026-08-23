@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegLinetoAbs
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Paths.SVGPathSegLinetoAbs فصل. تتوافق واجهة SVGPathSegLinetoAbs مع أمر بيانات المسار الخط المطلق L.
+title: "فئة SVGPathSegLinetoAbs"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Paths.SVGPathSegLinetoAbs. واجهة SVGPathSegLinetoAbs تتطابق مع أمر بيانات مسار lineto L مطلق"
 type: docs
-weight: 2610
+weight: 4680
 url: /ar/net/aspose.svg.paths/svgpathseglinetoabs/
 ---
 ## SVGPathSegLinetoAbs class
 
-تتوافق واجهة SVGPathSegLinetoAbs مع أمر بيانات المسار "الخط المطلق" (L).
+واجهة SVGPathSegLinetoAbs تقابل "absolute lineto" (L) أمر بيانات المسار.
 
 ```csharp
 public class SVGPathSegLinetoAbs : SVGPathSeg
@@ -16,24 +16,22 @@ public class SVGPathSegLinetoAbs : SVGPathSeg
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | نوع مقطع المسار كما هو محدد بواسطة أحد الثوابت المحددة في هذه الواجهة . |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | نوع مقطع المسار المحدد بواسطة اسم الأمر المقابل المكون من حرف واحد. |
-| [X](../../aspose.svg.paths/svgpathseglinetoabs/x/) { get; set; } | إحداثي X المطلق لنقطة نهاية مقطع المسار هذا. |
-| [Y](../../aspose.svg.paths/svgpathseglinetoabs/y/) { get; set; } | إحداثي Y المطلق لنقطة نهاية مقطع المسار هذا. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | نوع مقطع المسار كما هو محدد بأحد الثوابت المعرفة في هذه الواجهة. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | نوع مقطع المسار، المحدد باسم الأمر المكوّن من حرف واحد المقابل. |
+| [X](../../aspose.svg.paths/svgpathseglinetoabs/x/) { get; set; } | الإحداثي X المطلق لنقطة النهاية لهذا الجزء من المسار. |
+| [Y](../../aspose.svg.paths/svgpathseglinetoabs/y/) { get; set; } | الإحداثي Y المطلق لنقطة النهاية لهذا الجزء من المسار. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../svgpathseg/)
-* مساحة الاسم [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

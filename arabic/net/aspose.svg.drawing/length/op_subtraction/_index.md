@@ -1,39 +1,37 @@
 ---
-title: Length.op_Subtraction
-second_title: Aspose.SVG لمرجع .NET API
-description: Length طريقة. تنفيذ عامل التشغيل .
+title: "Length.op_Subtraction"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Length op_Subtraction. تنفذ المشغل -"
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.drawing/length/op_subtraction/
 ---
 ## Length Subtraction operator
 
-تنفيذ عامل التشغيل -.
+ينفّذ العامل -.
 
 ```csharp
 public static Length operator -(Length a, Length b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Length | المعلمة أ. |
-| b | Length | المعلمة ب. |
+| a | Length | المعامل a. |
+| b | Length | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجج لاغية |
-| ArgumentException | الوسائط لها أنواع مختلفة or الوسائط لها دقة مختلفة أو |
+| ArgumentNullException | الوسائط فارغة |
+| ArgumentException | الوسائط لها أنواع مختلفة أو الوسائط لها حلول مختلفة أو |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../length/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

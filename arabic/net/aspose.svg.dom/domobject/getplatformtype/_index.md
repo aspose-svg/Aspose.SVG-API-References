@@ -1,14 +1,14 @@
 ---
-title: DOMObject.GetPlatformType
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMObject طريقة. تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType .
+title: "DOMObject.GetPlatformType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DOMObject GetPlatformType. تُستخدم هذه الطريقة لاسترجاع نوع كائن ECMAScript"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/domobject/getplatformtype/
 ---
 ## DOMObject.GetPlatformType method
 
-تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType .
+يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript.
 
 ```csharp
 public virtual Type GetPlatformType()
@@ -16,12 +16,10 @@ public virtual Type GetPlatformType()
 
 ### قيمة الإرجاع
 
-كائن ECMAScriptType .
+كائن ECMAScript.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domobject/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

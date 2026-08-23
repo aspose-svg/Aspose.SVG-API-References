@@ -1,28 +1,26 @@
 ---
-title: IBrowsingContext.Window
-second_title: Aspose.SVG لمرجع .NET API
-description: IBrowsingContext ملكية. الحصول على كائن WindowProxy .
+title: "IBrowsingContext.Window"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IBrowsingContext Window. يحصل على كائن WindowProxy"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom/ibrowsingcontext/window/
 ---
 ## IBrowsingContext.Window property
 
-الحصول على كائن WindowProxy .
+يحصل على كائن WindowProxy.
 
 ```csharp
 public IWindow Window { get; }
 ```
 
-### Property_Value
+### Property Value
 
-النافذة .
+النافذة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * interface [IBrowsingContext](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

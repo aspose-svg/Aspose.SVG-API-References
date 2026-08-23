@@ -1,24 +1,22 @@
 ---
-title: Attr.OwnerElement
-second_title: Aspose.SVG لمرجع .NET API
-description: Attr ملكية. عقدة العنصر التي ترتبط بها هذه السمة أو تكون خالية إذا لم تكن هذه السمة قيد الاستخدام.
+title: "Attr.OwnerElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Attr OwnerElement. عقدة العنصر التي تُرفق بها هذه السمة أو null إذا لم تُستخدم هذه السمة."
 type: docs
-weight: 80
+weight: 70
 url: /ar/net/aspose.svg.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 
-عقدة العنصر التي ترتبط بها هذه السمة أو تكون خالية إذا لم تكن هذه السمة قيد الاستخدام.
+عقدة العنصر التي تُرفق بهذه السمة أو null إذا لم تُستخدم هذه السمة.
 
 ```csharp
 public Element OwnerElement { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * class [Attr](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../attr/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

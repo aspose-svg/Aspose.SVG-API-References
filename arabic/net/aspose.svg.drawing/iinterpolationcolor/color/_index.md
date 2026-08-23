@@ -1,23 +1,21 @@
 ---
-title: IInterpolationColor.Color
-second_title: Aspose.SVG لمرجع .NET API
-description: IInterpolationColor ملكية. احصل على اللون الذي يمثل الألوان المراد استخدامها في المواضع المقابلة على طول التدرج اللوني .
+title: "IInterpolationColor.Color"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Color في IInterpolationColor. تحصل أو تعين اللون الذي يمثل الألوان المستخدمة في المواضع المقابلة على طول التدرج"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/iinterpolationcolor/color/
 ---
 ## IInterpolationColor.Color property
 
-احصل على اللون الذي يمثل الألوان المراد استخدامها في المواضع المقابلة على طول التدرج اللوني .
+احصل أو عيّن اللون الذي يمثل الألوان المستخدمة في المواضع المقابلة على طول التدرج.
 
 ```csharp
-public Color Color { get; }
+public Color Color { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IInterpolationColor](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

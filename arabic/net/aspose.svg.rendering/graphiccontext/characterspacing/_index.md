@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.CharacterSpacing
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. تعيين تباعد الأحرف أو الحصول عليه.
+title: "GraphicContext.CharacterSpacing"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext CharacterSpacing. يحدد أو يحصل على تباعد الأحرف."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.rendering/graphiccontext/characterspacing/
 ---
 ## GraphicContext.CharacterSpacing property
 
-تعيين تباعد الأحرف أو الحصول عليه.
+يضبط أو يحصل على تباعد الأحرف.
 
 ```csharp
 public virtual float CharacterSpacing { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

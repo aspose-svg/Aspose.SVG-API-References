@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.DataSize
-second_title: Aspose.SVG لمرجع .NET API
-description: ITrueTypeFont ملكية. إرجاع حجم بيانات الخط بالبايت
+title: "ITrueTypeFont.DataSize"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ITrueTypeFont DataSize. تحصل على حجم بيانات الخط بالبايت."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/itruetypefont/datasize/
 ---
 ## ITrueTypeFont.DataSize property
 
-إرجاع حجم بيانات الخط بالبايت
+يحصل على حجم بيانات الخط بالبايت.
 
 ```csharp
 public float DataSize { get; }
@@ -16,12 +16,10 @@ public float DataSize { get; }
 
 ### قيمة الإرجاع
 
-حجم بيانات الخط
+حجم بيانات الخط بالبايت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITrueTypeFont](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itruetypefont/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

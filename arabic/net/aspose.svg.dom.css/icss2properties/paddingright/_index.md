@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingRight
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية paddingright في CSS2.
+title: "ICSS2Properties.PaddingRight"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties PaddingRight خاصية. انظر تعريف خاصية padding-right في CSS2"
 type: docs
-weight: 830
+weight: 860
 url: /ar/net/aspose.svg.dom.css/icss2properties/paddingright/
 ---
 ## ICSS2Properties.PaddingRight property
 
-راجع تعريف خاصية padding-right في CSS2.
+انظر تعريف خاصية padding-right في CSS2.
 
 ```csharp
 public string PaddingRight { get; set; }
@@ -18,10 +18,8 @@ public string PaddingRight { get; set; }
 
 خاصية padding-right
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

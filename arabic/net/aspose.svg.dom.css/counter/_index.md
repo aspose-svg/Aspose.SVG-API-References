@@ -1,14 +1,14 @@
 ---
-title: Class Counter
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.Counter فصل. يتم استخدام واجهة العداد لتمثيل أي قيمة دالة للعداد. تعكس هذه الواجهة القيم الموجودة في خاصية النمط الأساسية.
+title: "فئة Counter"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Css.Counter فئة. تُستخدم واجهة Counter لتمثيل أي قيمة للعداد أو دالة counters. تعكس هذه الواجهة القيم في خاصية النمط الأساسية."
 type: docs
-weight: 510
+weight: 2510
 url: /ar/net/aspose.svg.dom.css/counter/
 ---
 ## Counter class
 
-يتم استخدام واجهة العداد لتمثيل أي قيمة دالة للعداد. تعكس هذه الواجهة القيم الموجودة في خاصية النمط الأساسية.
+تُستخدم واجهة Counter لتمثيل أي قيمة عدّاد أو قيمة دالة counters. تعكس هذه الواجهة القيم في خاصية النمط الأساسية.
 
 ```csharp
 public class Counter : DOMObject
@@ -16,22 +16,20 @@ public class Counter : DOMObject
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Identifier](../../aspose.svg.dom.css/counter/identifier/) { get; } | يتم استخدام هذه السمة لمعرف العداد. |
-| [ListStyle](../../aspose.svg.dom.css/counter/liststyle/) { get; } | تُستخدم هذه السمة لنمط القائمة . |
-| [Separator](../../aspose.svg.dom.css/counter/separator/) { get; } | تُستخدم هذه السمة لفاصل العدادات المتداخلة. |
+| [Identifier](../../aspose.svg.dom.css/counter/identifier/) { get; } | تُستخدم هذه السمة لتحديد معرّف العداد. |
+| [ListStyle](../../aspose.svg.dom.css/counter/liststyle/) { get; } | تُستخدم هذه السمة لتحديد نمط القائمة. |
+| [Separator](../../aspose.svg.dom.css/counter/separator/) { get; } | تُستخدم هذه السمة لتحديد الفاصل للعدادات المتداخلة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

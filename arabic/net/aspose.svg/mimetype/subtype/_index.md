@@ -1,27 +1,25 @@
 ---
-title: MimeType.SubType
-second_title: Aspose.SVG لمرجع .NET API
-description: MimeType ملكية. يحصل على نوع الوسائط الفرعية.
+title: "MimeType.SubType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MimeType SubType. تحصل على نوع الوسائط الفرعي"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/mimetype/subtype/
 ---
 ## MimeType.SubType property
 
-يحصل على نوع الوسائط الفرعية.
+يحصل على نوع الوسائط الفرعي.
 
 ```csharp
 public string SubType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الوسائط الفرعية .
+نوع الوسائط الفرعي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

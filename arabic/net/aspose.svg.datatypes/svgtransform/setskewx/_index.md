@@ -1,33 +1,31 @@
 ---
-title: SVGTransform.SetSkewX
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransform طريقة. يضبط نوع التحويل إلى SVG_TRANSFORM_SKEWX  بزاوية معامل تحدد مقدار الانحراف.
+title: "SVGTransform.SetSkewX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGTransform SetSkewX. تعيين نوع التحويل إلى SVG_TRANSFORM_SKEWX مع المعامل angle الذي يحدد مقدار الانحراف."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.datatypes/svgtransform/setskewx/
 ---
 ## SVGTransform.SetSkewX method
 
-يضبط نوع التحويل إلى SVG_TRANSFORM_SKEWX ، بزاوية معامل تحدد مقدار الانحراف.
+يضبط نوع التحويل إلى SVG_TRANSFORM_SKEWX، مع المعامل angle الذي يحدد مقدار الانحراف.
 
 ```csharp
 public void SetSkewX(float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | angle | Single | زاوية الانحراف. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . تم طرحه عند محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransform/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

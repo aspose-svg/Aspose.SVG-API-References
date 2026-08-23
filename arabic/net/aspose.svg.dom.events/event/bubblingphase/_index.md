@@ -1,23 +1,21 @@
 ---
-title: Event.BubblingPhase
-second_title: Aspose.SVG لمرجع .NET API
-description: Event مجال. مرحلة الحدث الحالي هي مرحلة الفقاعة.
+title: "Event.BubblingPhase"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل Event BubblingPhase. مرحلة الحدث الحالية هي مرحلة الفقاعات"
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.dom.events/event/bubblingphase/
 ---
 ## Event.BubblingPhase field
 
-مرحلة الحدث الحالي هي مرحلة الفقاعة.
+المرحلة الحالية للحدث هي مرحلة الفقاعات.
 
 ```csharp
 public const ushort BubblingPhase;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../event/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

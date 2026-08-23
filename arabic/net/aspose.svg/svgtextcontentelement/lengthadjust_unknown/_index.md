@@ -1,23 +1,21 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_UNKNOWN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextContentElement مجال. تم تعيين التعداد على قيمة ليست من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+title: "SVGTextContentElement.LENGTHADJUST_UNKNOWN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTextContentElement LENGTHADJUST_UNKNOWN. تم تعيين التعداد إلى قيمة ليست واحدة من الأنواع المعرفة مسبقاً. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svgtextcontentelement/lengthadjust_unknown/
 ---
 ## SVGTextContentElement.LENGTHADJUST_UNKNOWN field
 
-تم تعيين التعداد على قيمة ليست من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع.
+تم تعيين التعداد إلى قيمة ليست واحدة من الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة من هذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع.
 
 ```csharp
 public const ushort LENGTHADJUST_UNKNOWN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextContentElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextcontentelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

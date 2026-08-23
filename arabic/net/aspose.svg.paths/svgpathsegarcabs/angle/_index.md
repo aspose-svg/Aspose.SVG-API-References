@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcAbs.Angle
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegArcAbs ملكية. زاوية الدوران بالدرجات للمحور x للقطع الناقص بالنسبة إلى المحور x لنظام إحداثيات المستخدم.
+title: "SVGPathSegArcAbs.Angle"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSegArcAbs Angle. زاوية الدوران بالدرجات لمحور x للإهليلج بالنسبة لمحور x لنظام إحداثيات المستخدم"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.paths/svgpathsegarcabs/angle/
 ---
 ## SVGPathSegArcAbs.Angle property
 
-زاوية الدوران بالدرجات للمحور x للقطع الناقص بالنسبة إلى المحور x لنظام إحداثيات المستخدم.
+زاوية الدوران بالدرجات لمحور x للقطع الناقص بالنسبة لمحور x لنظام إحداثيات المستخدم.
 
 ```csharp
 public float Angle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 زاوية الدوران
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegArcAbs](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,30 +1,28 @@
 ---
-title: Enum SVGUnitTypes
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.SVGUnitTypes تعداد. يعرّف تعداد أنواع SVGUnitTypes مجموعة من الثوابت شائعة الاستخدام وهي واجهة أساسية يستخدمها SVGGradientElement و SVGPatternElement و SVGClipPathElement و SVGMaskElement و SVGFilterElement.
+title: "تعداد SVGUnitTypes"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "التعداد Aspose.Svg.SVGUnitTypes. يعرّف تعداد SVGUnitTypes مجموعة شائعة الاستخدام من الثوابت وهو واجهة أساسية تُستخدم بواسطة SVGGradientElement و SVGPatternElement و SVGClipPathElement و SVGMaskElement و SVGFilterElement"
 type: docs
-weight: 3570
+weight: 5640
 url: /ar/net/aspose.svg/svgunittypes/
 ---
 ## SVGUnitTypes enumeration
 
-يعرّف تعداد أنواع SVGUnitTypes مجموعة من الثوابت شائعة الاستخدام وهي واجهة أساسية يستخدمها SVGGradientElement و SVGPatternElement و SVGClipPathElement و SVGMaskElement و SVGFilterElement.
+تُعرّف تعداد SVGUnitTypes مجموعة شائعة من الثوابت وتُعد واجهة أساسية تُستخدم بواسطة SVGGradientElement وSVGPatternElement وSVGClipPathElement وSVGMaskElement وSVGFilterElement.
 
 ```csharp
 public enum SVGUnitTypes
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SVG_UNIT_TYPE_UNKNOWN | `0` | النوع ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع. |
-| SVG_UNIT_TYPE_USERSPACEONUSE | `1` | يتوافق مع القيمة "userSpaceOnUse" . |
-| SVG_UNIT_TYPE_OBJECTBOUNDINGBOX | `2` | يتوافق مع القيمة "objectBoundingBox" . |
+| SVG_UNIT_TYPE_UNKNOWN | `0` | النوع ليس أحد الأنواع المعرفة مسبقًا. من غير الصالح محاولة تعريف قيمة جديدة لهذا النوع أو محاولة تحويل قيمة موجودة إلى هذا النوع. |
+| SVG_UNIT_TYPE_USERSPACEONUSE | `1` | يتطابق مع القيمة 'userSpaceOnUse'. |
+| SVG_UNIT_TYPE_OBJECTBOUNDINGBOX | `2` | يتطابق مع القيمة 'objectBoundingBox'. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

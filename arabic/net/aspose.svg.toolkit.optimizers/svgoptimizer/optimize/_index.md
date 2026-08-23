@@ -1,51 +1,49 @@
 ---
-title: SVGOptimizer.Optimize
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizer طريقة. يحسنSVGDocument من خلال تطبيق مجموعة من خيارات التحسين الافتراضية.
+title: "SVGOptimizer.Optimize"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Optimize في SVGOptimizer. تقوم بتحسين SVGDocument عن طريق تطبيق مجموعة من خيارات التحسين الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizer/optimize/
 ---
-## Optimize(SVGDocument) {#optimize}
+## Optimize(*[SVGDocument](../../../aspose.svg/svgdocument/)*) {#optimize}
 
-يحسن[`SVGDocument`](../../../aspose.svg/svgdocument/) من خلال تطبيق مجموعة من خيارات التحسين الافتراضية.
+يقوم بتحسين [`SVGDocument`](../../../aspose.svg/svgdocument/) عن طريق تطبيق مجموعة من خيارات التحسين الافتراضية.
 
 ```csharp
 public static void Optimize(SVGDocument document)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| document | SVGDocument | مثيل SVGDocument. |
+| المستند | SVGDocument | مثيل SVGDocument. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizer](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Optimize(SVGDocument, SVGOptimizationOptions) {#optimize_1}
+## Optimize(*[SVGDocument](../../../aspose.svg/svgdocument/), [SVGOptimizationOptions](../../svgoptimizationoptions/)*) {#optimize_1}
 
-يحسن[`SVGDocument`](../../../aspose.svg/svgdocument/) من خلال تطبيق مجموعة من خيارات التحسين المحددة.
+يقوم بتحسين [`SVGDocument`](../../../aspose.svg/svgdocument/) عن طريق تطبيق مجموعة من خيارات التحسين المحددة.
 
 ```csharp
 public static void Optimize(SVGDocument document, SVGOptimizationOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| document | SVGDocument | مثيل SVGDocument. |
+| المستند | SVGDocument | مثيل SVGDocument. |
 | options | SVGOptimizationOptions | مثيل SVGOptimizationOptions. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizationOptions](../../svgoptimizationoptions/)
 * class [SVGOptimizer](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

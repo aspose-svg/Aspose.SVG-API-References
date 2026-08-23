@@ -1,55 +1,53 @@
 ---
-title: Resolution.op_Implicit
-second_title: Aspose.SVG لمرجع .NET API
-description: Resolution طريقة. يقوم بإجراء تحويل ضمني منDouble لResolution .
+title: "Resolution.op_Implicit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Resolution op_Implicit. تقوم بتحويل ضمني من Double إلى Resolution"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.drawing/resolution/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 
-يقوم بإجراء تحويل ضمني منDouble ل[`Resolution`](../) .
+يقوم بتحويل ضمني من Double إلى [`Resolution`](../).
 
 ```csharp
 public static implicit operator Resolution(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة التي يتم التعامل معها على أنها نقطة في البوصة. |
+| القيمة | Double | القيمة تُعامل كـ dpi. |
 
 ### قيمة الإرجاع
 
-نتيجة التحويل .
+نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Resolution](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../resolution/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## implicit operator {#op_implicit_1}
 
-يقوم بإجراء تحويل ضمني منSingle ل[`Resolution`](../) .
+يقوم بتحويل ضمني من Single إلى [`Resolution`](../).
 
 ```csharp
 public static implicit operator Resolution(float value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Single | القيمة التي يتم التعامل معها على أنها نقطة في البوصة. |
+| القيمة | Single | القيمة تُعامل كـ dpi. |
 
 ### قيمة الإرجاع
 
-نتيجة التحويل .
+نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Resolution](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../resolution/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,29 +1,27 @@
 ---
-title: Enum MediaType
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.MediaType تعداد. تحديد أنواع الوسائط المحتملة المستخدمة أثناء العرض.
+title: "تعداد MediaType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تعداد Aspose.Svg.Rendering.MediaType. يحدد أنواع الوسائط الممكنة المستخدمة أثناء العرض."
 type: docs
-weight: 2890
+weight: 4960
 url: /ar/net/aspose.svg.rendering/mediatype/
 ---
 ## MediaType enumeration
 
-تحديد أنواع الوسائط المحتملة المستخدمة أثناء العرض.
+يحدد أنواع الوسائط الممكنة المستخدمة أثناء العرض.
 
 ```csharp
 public enum MediaType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Print | `0` | ملف`مطبعة` يتم استخدام الوسائط أثناء العرض. |
-| Screen | `1` | ملف`شاشة` يتم استخدام الوسائط أثناء العرض. |
+| Print | `0` | يتم استخدام وسائط `Print` أثناء العرض. |
+| Screen | `1` | يتم استخدام وسائط `Screen` أثناء العرض. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

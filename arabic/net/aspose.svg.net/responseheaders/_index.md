@@ -1,34 +1,38 @@
 ---
-title: Class ResponseHeaders
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.ResponseHeaders فصل. يحتوي على رؤوس بروتوكول مرتبطة بالاستجابة .
+title: "فئة ResponseHeaders"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Net.ResponseHeaders. يحتوي على رؤوس البروتوكول المرتبطة بالاستجابة"
 type: docs
-weight: 2430
+weight: 4500
 url: /ar/net/aspose.svg.net/responseheaders/
 ---
 ## ResponseHeaders class
 
-يحتوي على رؤوس بروتوكول مرتبطة بالاستجابة .
+يحتوي على رؤوس البروتوكول المرتبطة باستجابة.
 
 ```csharp
 public class ResponseHeaders : WebHeaderCollection
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ResponseHeaders](responseheaders/)() | يقوم بتهيئة مثيل جديد لملف[`RequestHeaders`](../requestheaders/) فئة . |
+| [ResponseHeaders](responseheaders/)() | يُنشئ مثيلاً جديداً من الفئة [`RequestHeaders`](../requestheaders/). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ContentType](../../aspose.svg.net/responseheaders/contenttype/) { get; } | الحصول على قيمة رأس نوع المحتوى. |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| [ContentType](../../aspose.svg.net/responseheaders/contenttype/) { get; } | يحصل على قيمة رأس Content-Type. |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 مؤشرات فهرسة) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

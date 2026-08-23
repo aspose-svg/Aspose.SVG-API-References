@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderSpacing
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية تباعد الحدود في CSS2.
+title: "ICSS2Properties.BorderSpacing"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية BorderSpacing في ICSS2Properties. راجع تعريف خاصية border-spacing في CSS2"
 type: docs
 weight: 230
 url: /ar/net/aspose.svg.dom.css/icss2properties/borderspacing/
 ---
 ## ICSS2Properties.BorderSpacing property
 
-راجع تعريف خاصية تباعد الحدود في CSS2.
+انظر تعريف خاصية border-spacing في CSS2.
 
 ```csharp
 public string BorderSpacing { get; set; }
@@ -16,12 +16,10 @@ public string BorderSpacing { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية تباعد الحدود
+خاصية border-spacing
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

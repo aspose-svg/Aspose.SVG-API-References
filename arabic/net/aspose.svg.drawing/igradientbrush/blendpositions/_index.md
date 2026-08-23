@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendPositions
-second_title: Aspose.SVG لمرجع .NET API
-description: IGradientBrush ملكية. احصل على مواضع المزج التي تحدد تراجعًا مخصصًا للتدرج اللوني .
+title: "IGradientBrush.BlendPositions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IGradientBrush BlendPositions. تحصل أو تعين مواضع الدمج التي تحدد انخفاضًا مخصصًا للتدرج."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/igradientbrush/blendpositions/
 ---
 ## IGradientBrush.BlendPositions property
 
-احصل على مواضع المزج التي تحدد تراجعًا مخصصًا للتدرج اللوني .
+يحصل أو يضبط مواضع المزج التي تحدد انخفاضًا مخصصًا للتدرج.
 
 ```csharp
-public float[] BlendPositions { get; }
+public float[] BlendPositions { get; set; }
 ```
 
 ### قيمة الإرجاع
 
-مزج المواقف.
+مواضع الدمج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../igradientbrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: ImageDevice.ImageGraphicContext.ImageGraphicContext
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageGraphicContext البناء. Default_Constructor
+title: "ImageDevice.ImageGraphicContext.ImageGraphicContext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ImageGraphicContext. المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/imagegraphiccontext/
 ---
 ## ImageDevice.ImageGraphicContext constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public ImageGraphicContext()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageGraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagedevice.imagegraphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

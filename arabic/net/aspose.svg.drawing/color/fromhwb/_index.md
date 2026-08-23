@@ -1,33 +1,31 @@
 ---
-title: Color.FromHwb
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيم درجة اللون  البياض  السواد المطلوبة.
+title: "Color.FromHwb"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromHwb. تُرجع لونًا جديدًا مع قيم الدرجة، البياض، والظلام المطلوبة."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.drawing/color/fromhwb/
 ---
 ## Color.FromHwb method
 
-إرجاع لون جديد بقيم درجة اللون ، البياض ، السواد المطلوبة.
+يرجع Color جديد مع القيم المطلوبة للدرجة، البياض، السواد.
 
 ```csharp
 public static Color FromHwb(float hue, float whiteness, float blackness)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| hue | Single | عائم يمثل مكون تدرج اللون. |
-| whiteness | Single | عائم يمثل مكون البياض للون. |
-| blackness | Single | عائم يمثل عنصر السواد للون. |
+| hue | Single | قيمة عائمة تمثل المكوّن الدرجة للون. |
+| البياض | Single | قيمة عائمة تمثل مكوّن البياض للون. |
+| الظلام | Single | قيمة عائمة تمثل مكوّن الظلام في اللون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

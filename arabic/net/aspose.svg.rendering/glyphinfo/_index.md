@@ -1,14 +1,14 @@
 ---
-title: Struct GlyphInfo
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.GlyphInfo هيكل. يحتوي على معلومات ذات صلة بالحرف الرسومي .
+title: "بنية GlyphInfo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "بنية Aspose.Svg.Rendering.GlyphInfo. تحتوي على معلومات متعلقة بالرموز."
 type: docs
-weight: 2790
+weight: 4870
 url: /ar/net/aspose.svg.rendering/glyphinfo/
 ---
 ## GlyphInfo structure
 
-يحتوي على معلومات ذات صلة بالحرف الرسومي .
+يحتوي على معلومات متعلقة بالرموز.
 
 ```csharp
 public struct GlyphInfo
@@ -16,22 +16,20 @@ public struct GlyphInfo
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | يحصل على فهرس هذا الحرف الرسومي بالخط. |
-| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | يحصل على الإزاحة للصورة الرمزية التالية بالنقاط . |
-| [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | يحصل على تمثيل السلسلة لهذا الحرف الرسومي . |
-| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | الحصول على عرض الصورة الرمزية بالنقاط. |
+| [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | يحصل على فهرس هذا الرمز في الخط. |
+| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | يحصل على الإزاحة إلى الرمز التالي بالنقاط. |
+| [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | يحصل على تمثيل السلسلة لهذا الحرف. |
+| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | يحصل على عرض الحرف بالنقاط. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

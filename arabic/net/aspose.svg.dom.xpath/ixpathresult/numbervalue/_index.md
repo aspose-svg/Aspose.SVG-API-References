@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.NumberValue
-second_title: Aspose.SVG لمرجع .NET API
-description: IXPathResult ملكية. نتيجة هذا الرقم
+title: "IXPathResult.NumberValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية NumberValue في IXPathResult. قيمة هذا الناتج الرقمي"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.xpath/ixpathresult/numbervalue/
 ---
 ## IXPathResult.NumberValue property
 
-نتيجة هذا الرقم
+قيمة هذه النتيجة الرقمية.
 
 ```csharp
 public double NumberValue { get; }
@@ -16,14 +16,12 @@ public double NumberValue { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: رفع إذا`resultType` ليس `رقم` يكتب. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: يُرفع إذا لم يكن `resultType` من نوع `Number`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXPathResult](../)
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

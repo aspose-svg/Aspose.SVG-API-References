@@ -1,28 +1,26 @@
 ---
-title: SVGLineElement.Y2
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLineElement ملكية. يتوافق مع السمة y2 في عنصر السطر المحدد .
+title: "SVGLineElement.Y2"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGLineElement Y2. تتطابق مع السمة y2 على عنصر الخط المعطى."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svglineelement/y2/
 ---
 ## SVGLineElement.Y2 property
 
-يتوافق مع السمة "y2" في عنصر "السطر" المحدد .
+يتطابق مع السمة ‘y2’ في عنصر ‘line’ المعطى.
 
 ```csharp
 public SVGAnimatedLength Y2 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "y2" لعنصر "السطر" المحدد .
+السمة ‘y2’ للعنصر ‘line’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* مساحة الاسم [Aspose.Svg](../../svglineelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

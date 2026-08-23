@@ -1,48 +1,46 @@
 ---
-title: RequestMessage.RequestMessage
-second_title: Aspose.SVG لمرجع .NET API
-description: RequestMessage البناء. يقوم بتهيئة مثيل جديد لملفRequestMessage فئة .
+title: "RequestMessage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ RequestMessage. يهيئ نسخة جديدة من فئة RequestMessage"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/requestmessage/requestmessage/
 ---
-## RequestMessage(string) {#constructor_1}
+## RequestMessage(*string*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`RequestMessage`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`RequestMessage`](../).
 
 ```csharp
 public RequestMessage(string address)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| address | String | عنوان الطلب. |
+| العنوان | String | عنوان الطلب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RequestMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestmessage/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RequestMessage(Url) {#constructor}
+## RequestMessage(*[Url](../../../aspose.svg/url/)*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`RequestMessage`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`RequestMessage`](../).
 
 ```csharp
 public RequestMessage(Url uri)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| uri | Url | عنوان URL للطلب. |
+| معرف URI | عنوان URL | عنوان URL للطلب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../requestmessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

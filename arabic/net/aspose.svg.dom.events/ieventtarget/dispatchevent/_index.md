@@ -1,42 +1,40 @@
 ---
-title: IEventTarget.DispatchEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: IEventTarget طريقة. تسمح هذه الطريقة بإرسال الأحداث إلى نموذج حدث عمليات التنفيذ.
+title: "IEventTarget.DispatchEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IEventTarget DispatchEvent. تسمح هذه الطريقة بإرسال الأحداث إلى نموذج حدث التنفيذ."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.events/ieventtarget/dispatchevent/
 ---
 ## IEventTarget.DispatchEvent method
 
-تسمح هذه الطريقة بإرسال الأحداث إلى نموذج حدث عمليات التنفيذ.
+تسمح هذه الطريقة بإرسال الأحداث إلى نموذج الأحداث الخاص بالتنفيذ.
 
 ```csharp
 public bool DispatchEvent(Event @event)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| event | Event | يحدد نوع الحدث والسلوك والمعلومات السياقية التي سيتم استخدامها في معالجة الحدث. |
+| حدث | حدث | يحدد نوع الحدث والسلوك والمعلومات السياقية التي ستُستخدم في معالجة الحدث. |
 
 ### قيمة الإرجاع
 
-القيمة المرجعة لـ[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) يشير إلى ما إذا تم استدعاء أي من المستمعين الذين تعاملوا مع الحدث[`PreventDefault`](../../event/preventdefault/) . إذا[`PreventDefault`](../../event/preventdefault/) كان يسمى القيمة خاطئة ، وإلا كانت القيمة صحيحة .
+قيمة الإرجاع لـ [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) تشير إلى ما إذا كان أي من المستمعين الذين عالجوا الحدث قد استدعوا [`PreventDefault`](../../event/preventdefault/). إذا تم استدعاء [`PreventDefault`](../../event/preventdefault/) تكون القيمة false، وإلا تكون القيمة true.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
-### ملاحظات
+## ملاحظات
 
-الأحداث المرسلة بهذه الطريقة سيكون لها نفس سلوك الالتقاط والفقاعات مثل الأحداث المرسلة مباشرة بواسطة التنفيذ. الهدف من الحدث هو[`EventTarget`](../../../aspose.svg.dom/eventtarget/) التي[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) يسمى .
+الأحداث المرسلة بهذه الطريقة ستحصل على نفس سلوك الالتقاط والفقاعات كما في الأحداث المرسلة مباشرةً بواسطة التنفيذ. هدف الحدث هو [`EventTarget`](../../../aspose.svg.dom/eventtarget/) الذي يتم استدعاء [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) عليه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../../event/)
 * interface [IEventTarget](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ISolidBrush.Color
-second_title: Aspose.SVG لمرجع .NET API
-description: ISolidBrush ملكية. احصل على لون الفرشاة .
+title: "ISolidBrush.Color"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Color في ISolidBrush. احصل على لون الفرشاة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/isolidbrush/color/
 ---
 ## ISolidBrush.Color property
 
-احصل على لون الفرشاة .
+احصل على لون الفرشاة.
 
 ```csharp
 public Color Color { get; }
@@ -18,10 +18,8 @@ public Color Color { get; }
 
 لون الفرشاة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ISolidBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../isolidbrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

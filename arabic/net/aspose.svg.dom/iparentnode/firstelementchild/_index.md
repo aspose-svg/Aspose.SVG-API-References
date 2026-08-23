@@ -1,28 +1,26 @@
 ---
-title: IParentNode.FirstElementChild
-second_title: Aspose.SVG لمرجع .NET API
-description: IParentNode ملكية. إرجاع الطفل الأول الذي يعتبر عنصرًا  وقيمة فارغة بخلاف ذلك.
+title: "IParentNode.FirstElementChild"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IParentNode FirstElementChild. تُعيد الطفل الأول الذي هو عنصر وإلا تُعيد null."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom/iparentnode/firstelementchild/
 ---
 ## IParentNode.FirstElementChild property
 
-إرجاع الطفل الأول الذي يعتبر عنصرًا ، وقيمة فارغة بخلاف ذلك.
+تُعيد الطفل الأول الذي يكون عنصرًا، وإلا تُعيد null.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أول عنصر تابع .
+العنصر الطفل الأول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iparentnode/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

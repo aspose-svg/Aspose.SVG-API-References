@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnLoadedData
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnLoadedData.
+title: "IGlobalEventHandlers.OnLoadedData"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnLoadedData حدث. يحصل أو يضبط معالج الحدث لـ OnLoadedData حدث"
 type: docs
 weight: 210
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onloadeddata/
 ---
 ## IGlobalEventHandlers.OnLoadedData event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnLoadedData.
+الحصول أو تعيين معالج الحدث لـ OnLoadedData.
 
 ```csharp
 public event DOMEventHandler OnLoadedData;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

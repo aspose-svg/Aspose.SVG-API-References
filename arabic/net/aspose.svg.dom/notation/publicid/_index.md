@@ -1,27 +1,25 @@
 ---
-title: Notation.PublicId
-second_title: Aspose.SVG لمرجع .NET API
-description: Notation ملكية. المعرف العام لهذا الترميز. إذا لم يتم تحديد المعرف العام  فسيكون هذا فارغًا.
+title: "Notation.PublicId"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Notation PublicId. المعرف العام لهذا الترميز. إذا لم يتم تحديد المعرف العام يكون هذا null"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom/notation/publicid/
 ---
 ## Notation.PublicId property
 
-المعرف العام لهذا الترميز. إذا لم يتم تحديد المعرف العام ، فسيكون هذا فارغًا.
+المعرّف العام لهذا التدوين. إذا لم يُحدَّد المعرف العام، فستكون القيمة null.
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف العام .
+المعرف العام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Notation](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../notation/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

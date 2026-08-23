@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.NearestViewportElement
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGraphicsElement ملكية. العنصر الذي أنشأ إطار العرض الحالي. في كثير من الأحيان  أقرب عنصر svg سلف. لاغية إذا كان العنصر الحالي هو العنصر الأبعد svg .
+title: "SVGGraphicsElement.NearestViewportElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGGraphicsElement NearestViewportElement. العنصر الذي أنشأ مساحة العرض الحالية. غالبًا ما يكون أقرب عنصر svg سلف. يكون Null إذا كان العنصر الحالي هو العنصر svg الخارجي"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svggraphicselement/nearestviewportelement/
 ---
 ## SVGGraphicsElement.NearestViewportElement property
 
-العنصر الذي أنشأ إطار العرض الحالي. في كثير من الأحيان ، أقرب عنصر "svg" سلف. لاغية إذا كان العنصر الحالي هو العنصر الأبعد svg .
+العنصر الذي أنشأ مساحة العرض الحالية. غالبًا ما يكون أقرب سلف لعنصر ‘svg’. Null إذا كان العنصر الحالي هو العنصر svg الخارجي.
 
 ```csharp
 public SVGElement NearestViewportElement { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أقرب عنصر منفذ عرض .
+أقرب عنصر مساحة عرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggraphicselement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

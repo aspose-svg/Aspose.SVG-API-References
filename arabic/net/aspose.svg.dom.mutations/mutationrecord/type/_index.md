@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.Type
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationRecord ملكية. تُرجع السمات إذا كانت طفرة في السمة  و characterData إذا كانت طفرة في عقدة CharacterData و قائمة الأطفال إذا كانت طفرة في شجرة العقد.
+title: "MutationRecord.Type"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationRecord Type. تُرجع \"attributes\" إذا كان تعديل سمة، و\"characterData\" إذا كان تعديل لعقدة CharacterData، و\"childList\" إذا كان تعديل لشجرة العقد."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.dom.mutations/mutationrecord/type/
 ---
 ## MutationRecord.Type property
 
-تُرجع "السمات" إذا كانت طفرة في السمة ، و "characterData" إذا كانت طفرة في عقدة CharacterData و "قائمة الأطفال" إذا كانت طفرة في شجرة العقد.
+يرجع "attributes" إذا كان تعديلًا على خاصية، "characterData" إذا كان تعديلًا على عقدة CharacterData و "childList" إذا كان تعديلًا على شجرة العقد.
 
 ```csharp
 public string Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-النوع .
+النوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationRecord](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

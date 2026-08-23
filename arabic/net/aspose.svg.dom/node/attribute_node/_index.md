@@ -1,23 +1,21 @@
 ---
-title: Node.ATTRIBUTE_NODE
-second_title: Aspose.SVG لمرجع .NET API
-description: Node مجال. السمة node
+title: "Node.ATTRIBUTE_NODE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل Node ATTRIBUTE_NODE. عقدة سمة."
 type: docs
-weight: 320
+weight: 300
 url: /ar/net/aspose.svg.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
 
-السمة node
+عقدة سمة
 
 ```csharp
 public const ushort ATTRIBUTE_NODE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

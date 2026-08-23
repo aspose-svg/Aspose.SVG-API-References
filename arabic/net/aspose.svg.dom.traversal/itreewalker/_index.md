@@ -1,18 +1,18 @@
 ---
-title: Interface ITreeWalker
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Traversal.ITreeWalker واجهه المستخدم. يتم استخدام كائنات TreeWalker للتنقل في شجرة مستند أو شجرة فرعية باستخدام طريقة عرض المستند المحددة بواسطة علامات ومرشحات whatToShow الخاصة بهم إن وجدت. أي وظيفة تؤدي إلى التنقل باستخدام TreeWalker ستدعم تلقائيًا أي طريقة عرض محددة بواسطة TreeWalker.
+title: "واجهة ITreeWalker"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Traversal.ITreeWalker interface. تُستخدم كائنات TreeWalker للتنقل في شجرة المستند أو شجرة فرعية باستخدام عرض المستند المحدد بواسطة أعلام whatToShow والفلتر إذا كان موجودًا. أي دالة تقوم بالتنقل باستخدام TreeWalker ستدعم تلقائيًا أي عرض معرف بواسطة TreeWalker."
 type: docs
-weight: 1270
+weight: 3270
 url: /ar/net/aspose.svg.dom.traversal/itreewalker/
 ---
 ## ITreeWalker interface
 
-يتم استخدام كائنات TreeWalker للتنقل في شجرة مستند أو شجرة فرعية باستخدام طريقة عرض المستند المحددة بواسطة علامات ومرشحات whatToShow الخاصة بهم (إن وجدت). أي وظيفة تؤدي إلى التنقل باستخدام TreeWalker ستدعم تلقائيًا أي طريقة عرض محددة بواسطة TreeWalker.
+تُستخدم كائنات TreeWalker للتنقل في شجرة المستند أو شجرتها الفرعية باستخدام عرض المستند المحدد بأعلام whatToShow والفلتر (إن وجد). أي دالة تقوم بالتنقل باستخدام TreeWalker ستدعم تلقائيًا أي عرض يُحدَّد بواسطة TreeWalker.
 
-يمكن أن يؤدي حذف العقد من العرض المنطقي للشجرة الفرعية إلى بنية تختلف اختلافًا جوهريًا عن نفس الشجرة الفرعية في المستند الكامل الذي لم تتم تصفيته. قد تكون العقد التي هي أشقاء في طريقة العرض TreeWalker تابعة لعقد مختلفة ومفصولة على نطاق واسع في طريقة العرض الأصلية. على سبيل المثال ، ضع في اعتبارك NodeFilter الذي يتخطى جميع العقد باستثناء العقد النصية و العقدة الجذرية للمستند. في العرض المنطقي الذي ينتج عنه ، ستكون جميع العقد النصية أشقاء وستظهر كأبناء مباشرين للعقدة الجذرية ، لا بغض النظر عن مدى عمق بنية المستند الأصلي.
+إزالة العقد من العرض المنطقي لشجرة فرعية يمكن أن ينتج بنية تختلف اختلافًا كبيرًا عن نفس الشجرة الفرعية في المستند الكامل غير المفلتر. قد تكون العقد التي هي أخوة في عرض TreeWalker أطفالًا لعقد مختلفة، مفصولة على مسافات واسعة في العرض الأصلي. على سبيل المثال، اعتبر NodeFilter يتخطى جميع العقد باستثناء عقد النص والعقدة الجذرية للمستند. في العرض المنطقي الناتج، ستكون جميع عقد النص أخوة وتظهر كأطفال مباشرة للعقدة الجذرية، بغض النظر عن عمق بنية المستند الأصلي.
 
-راجع أيضًا ملف[نموذج كائن المستند (DOM) المستوى 2 الاجتياز وتحديد النطاق](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @ منذ DOM المستوى 2
+انظر أيضًا إلى [Document object Model (DOM) Level 2 Traversal and Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM Level 2
 
 ```csharp
 public interface ITreeWalker : ITraversal
@@ -20,26 +20,24 @@ public interface ITreeWalker : ITraversal
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode/) { get; set; } | العقدة التي يتم وضع TreeWalker عليها حاليًا. قد تتسبب التغييرات في شجرة DOM في عدم قبول العقدة الحالية بواسطة مرشح TreeWalker المرتبط. ضمن الشجرة الفرعية المحددة بواسطة عقدة الجذر_ أو سيتم قبولها بواسطة المرشح وعلامة whatToShow. يحدث الاجتياز الإضافي بالنسبة إلى currentNode حتى إذا لم يكن جزءًا من العرض الحالي ، عن طريق تطبيق المرشحات في الاتجاه المطلوب ؛ إذا لم يكن هناك احتمال traversal ، فلن يتم تغيير العقدة الحالية. |
+| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode/) { get; set; } | العقدة التي يقع فيها TreeWalker حاليًا. قد تتسبب التعديلات على شجرة DOM في عدم قبول العقدة الحالية بواسطة الفلتر المرتبط بـ TreeWalker. يمكن أيضًا تعيين currentNode صراحةً إلى أي عقدة، سواء كانت ضمن الشجرة الفرعية المحددة بالعقدة الجذرية أو لا، أو ما إذا كانت ستُقبل بواسطة الفلتر وأعلام whatToShow. تستمر traversals الإضافية بالنسبة إلى currentNode حتى وإن لم تكن جزءًا من العرض الحالي، عن طريق تطبيق الفلاتر في الاتجاه المطلوب؛ إذا لم يكن هناك إمكانية للتنقل، لا يتم تغيير currentNode. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild/)() | نقل TreeWalker إلى أول تابع مرئي للعقدة الحالية_ ، وإرجاع العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no توابع مرئية ، فتُرجع قيمة خالية ، وتحتفظ بالعقدة الحالية. |
-| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild/)() | نقل TreeWalker إلى آخر تابع مرئي للعقدة الحالية _ ، وإرجاع العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no توابع مرئية ، فتُرجع قيمة خالية ، وتحتفظ بالعقدة الحالية. |
-| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode/)() | ينقل TreeWalker إلى العقدة المرئية التالية بترتيب document المتعلق بالعقدة الحالية ، ويعيد العقدة الجديدة. إذا لم يكن للعقدة الحالية عقدة تالية ، أو إذا كان البحث عن nextNode try للانتقال لأعلى من عقدة root لـ TreeWalker ، فتُرجع قيمة فارغة ، وتحتفظ بالعقدة الحالية. |
-| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling/)() | ينقل TreeWalker إلى الشقيق التالي للعقدة الحالية ، ويعيد العقدة الجديدة. إذا كانت العقدة الحالية لا تحتوي على الشقيق التالي visual ، فستُرجع قيمة خالية ، وتحتفظ بالعقدة الحالية. |
-| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode/)() | للانتقال إلى أقرب عقدة سلف مرئية من العقدة الحالية وإرجاعها. إذا كان البحث عن parentNode يحاول الانتقال إلى step لأعلى من العقدة الجذرية لـ TreeWalker ، أو إذا فشل في العثور على عقدة سلف مرئية ، فإن هذه الطريقة تحتفظ بالموضع الحالي _ وإرجاع القيمة فارغة. |
-| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode/)() | ينقل TreeWalker إلى العقدة المرئية السابقة in ترتيب المستند المتعلق بالعقدة الحالية ، ويعيد العقدة new . إذا كانت العقدة الحالية لا تحتوي على عقدة سابقة ، أو إذا كان البحث عن العقدة السابقة تحاول التحرك لأعلى من عقدة جذر TreeWalker ، فتعيد فارغة ، وتحتفظ بالعقدة الحالية. |
-| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling/)() | ينقل TreeWalker إلى الشقيق السابق للعقدة الحالية_ ، ويعيد العقدة الجديدة. إذا كانت العقدة الحالية تحتوي على no شقيق سابق مرئي ، فستُرجع قيمة خالية ، وتحتفظ بالعقدة الحالية . |
+| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild/)() | ينقل TreeWalker إلى أول طفل مرئي للعقدة الحالية، ويعيد العقدة الجديدة. إذا لم تكن للعقدة الحالية أطفال مرئيون، يُعيد null، ويحتفظ بالعقدة الحالية. |
+| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild/)() | ينقل TreeWalker إلى آخر طفل مرئي للعقدة الحالية، ويعيد العقدة الجديدة. إذا لم تكن للعقدة الحالية أطفال مرئيون، يُعيد null، ويحتفظ بالعقدة الحالية. |
+| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode/)() | ينقل TreeWalker إلى العقدة المرئية التالية بترتيب المستند بالنسبة إلى العقدة الحالية، ويعيد العقدة الجديدة. إذا لم تكن للعقدة الحالية عقدة تالية، أو إذا حاول البحث عن nextNode الصعود من العقدة الجذرية لـ TreeWalker، يُعيد null، ويحتفظ بالعقدة الحالية. |
+| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling/)() | ينقل TreeWalker إلى الأخ الأصغر التالي للعقدة الحالية، ويعيد العقدة الجديدة. إذا لم يكن للعقدة الحالية أخ مرئي التالي، يُعيد null، ويحتفظ بالعقدة الحالية. |
+| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode/)() | ينقل إلى ويعيد أقرب عقدة سلف مرئية للعقدة الحالية. إذا حاول البحث عن parentNode الصعود من عقدة الجذر الخاصة بـ TreeWalker، أو إذا فشل في العثور على عقدة سلف مرئية، فإن هذه الطريقة تحتفظ بالموقع الحالي وتعيد null. |
+| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode/)() | ينقل TreeWalker إلى العقدة المرئية السابقة في ترتيب المستند بالنسبة للعقدة الحالية، ويعيد العقدة الجديدة. إذا لم تكن للعقدة الحالية عقدة سابقة، أو إذا حاول البحث عن previousNode الصعود من عقدة جذر TreeWalker، يعيد null، ويحتفظ بالعقدة الحالية. |
+| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling/)() | ينقل TreeWalker إلى الأخ السابق للعقدة الحالية، ويعيد العقدة الجديدة. إذا لم يكن للعقدة الحالية أخ مرئي سابق، يعيد null، ويحتفظ بالعقدة الحالية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITraversal](../itraversal/)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../)

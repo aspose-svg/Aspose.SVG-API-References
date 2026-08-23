@@ -1,7 +1,7 @@
 ---
-title: CSSPrimitiveValue.CSS_ATTR
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي دالة سمة. يمكن الحصول على القيمة باستخدام طريقة getStringValue.
+title: "CSSPrimitiveValue.CSS_ATTR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_ATTR. القيمة هي دالة سمة. يمكن الحصول على القيمة باستخدام طريقة getStringValue."
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_attr/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_attr/
 public const ushort CSS_ATTR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

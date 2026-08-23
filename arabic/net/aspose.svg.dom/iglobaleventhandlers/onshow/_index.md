@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnShow
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnShow أو تعيينه.
+title: "IGlobalEventHandlers.OnShow"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnShow الحدث. يحصل أو يضبط معالج الحدث لـ OnShow الحدث"
 type: docs
 weight: 430
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onshow/
 ---
 ## IGlobalEventHandlers.OnShow event
 
-الحصول على معالج الحدث لحدث OnShow أو تعيينه.
+يحصل أو يعيّن معالج الحدث لحدث OnShow.
 
 ```csharp
 public event DOMEventHandler OnShow;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

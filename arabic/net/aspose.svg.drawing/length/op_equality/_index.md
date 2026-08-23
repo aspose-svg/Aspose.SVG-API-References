@@ -1,32 +1,30 @@
 ---
-title: Length.op_Equality
-second_title: Aspose.SVG لمرجع .NET API
-description: Length طريقة. تنفيذ عامل التشغيل  .
+title: "Length.op_Equality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Length op_Equality. تنفذ المشغل"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/length/op_equality/
 ---
 ## Length Equality operator
 
-تنفيذ عامل التشغيل == .
+ينفّذ العامل ==.
 
 ```csharp
 public static bool operator ==(Length a, Length b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Length | المعلمة أ. |
-| b | Length | المعلمة ب. |
+| a | Length | المعامل a. |
+| b | Length | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../length/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

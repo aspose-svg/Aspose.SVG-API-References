@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement ملكية. يتوافق مع السمة x في عنصر svg المحدد .
+title: "SVGSVGElement.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGSVGElement X. تتطابق مع السمة x على عنصر svg المعطى"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svgsvgelement/x/
 ---
 ## SVGSVGElement.X property
 
-يتوافق مع السمة "x" في عنصر "svg" المحدد .
+يتطابق مع السمة ‘x’ في عنصر ‘svg’ المحدد.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Property_Value
+### Property Value
 
-يتوافق مع السمة "x" في عنصر "svg" المحدد .
+يتطابق مع السمة ‘x’ في عنصر ‘svg’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

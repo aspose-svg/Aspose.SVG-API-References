@@ -1,23 +1,21 @@
 ---
-title: SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_FRACTALNOISE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETurbulenceElement مجال. يتوافق مع القيمة fractalNoise.
+title: "SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_FRACTALNOISE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_TURBULENCE_TYPE_FRACTALNOISE في SVGFETurbulenceElement. يتطابق مع القيمة fractalNoise."
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.filters/svgfeturbulenceelement/svg_turbulence_type_fractalnoise/
 ---
 ## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_FRACTALNOISE field
 
-يتوافق مع القيمة "fractalNoise".
+يتطابق مع القيمة 'fractalNoise'.
 
 ```csharp
 public const ushort SVG_TURBULENCE_TYPE_FRACTALNOISE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFETurbulenceElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

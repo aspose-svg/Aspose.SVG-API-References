@@ -1,7 +1,7 @@
 ---
-title: Document.NodeType
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. رمز يمثل نوع الكائن الأساسي.
+title: "Document.NodeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document NodeType. رمز يمثل نوع الكائن الأساسي"
 type: docs
 weight: 190
 url: /ar/net/aspose.svg.dom/document/nodetype/
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.dom/document/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع العقدة .
+نوع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

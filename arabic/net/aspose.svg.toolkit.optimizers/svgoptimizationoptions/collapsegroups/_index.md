@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.CollapseGroups
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على أو تحديد خيار طي المجموعات الزائدة. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.CollapseGroups"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGOptimizationOptions CollapseGroups. يحصل أو يضبط الخيار لتقليص المجموعات الزائدة. القيمة true بشكل افتراضي"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/collapsegroups/
 ---
 ## SVGOptimizationOptions.CollapseGroups property
 
-الحصول على أو تحديد خيار طي المجموعات الزائدة. يكون "صحيحًا" افتراضيًا.
+يحصل أو يضبط الخيار لتقليص المجموعات الزائدة. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool CollapseGroups { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

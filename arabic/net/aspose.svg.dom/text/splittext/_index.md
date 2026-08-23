@@ -1,31 +1,29 @@
 ---
-title: Text.SplitText
-second_title: Aspose.SVG لمرجع .NET API
-description: Text طريقة. يكسر هذه العقدة إلى عقدتين عند الإزاحة المحددة  مع الاحتفاظ بكل منهما في الشجرة كأشقاء .
+title: "Text.SplitText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Text SplitText. تقسم هذه العقدة إلى عقدتين عند الإزاحة المحددة مع الحفاظ على كلتيهما كعقد شقيقة في الشجرة."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom/text/splittext/
 ---
 ## Text.SplitText method
 
-يكسر هذه العقدة إلى عقدتين عند الإزاحة المحددة ، مع الاحتفاظ بكل منهما في الشجرة كأشقاء .
+يقسم هذه العقدة إلى عقدتين عند الإزاحة المحددة، مع الحفاظ على كلاهما كأخوة في الشجرة.
 
 ```csharp
 public Text SplitText(int offset)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | offset | Int32 | الإزاحة. |
 
 ### قيمة الإرجاع
 
-ملف[`Text`](../) .
+ال [`Text`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Text](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../text/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

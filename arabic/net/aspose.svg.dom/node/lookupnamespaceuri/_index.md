@@ -1,31 +1,29 @@
 ---
-title: Node.LookupNamespaceURI
-second_title: Aspose.SVG لمرجع .NET API
-description: Node طريقة. ابحث عن مساحة الاسم URI المرتبطة بالبادئة المحددة  بدءًا من هذه العقدة.
+title: "Node.LookupNamespaceURI"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Node LookupNamespaceURI. تبحث عن URI مساحة الاسم المرتبط بالبادئة المعطاة بدءًا من هذه العقدة"
 type: docs
-weight: 260
+weight: 240
 url: /ar/net/aspose.svg.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method
 
-ابحث عن مساحة الاسم URI المرتبطة بالبادئة المحددة ، بدءًا من هذه العقدة.
+ابحث عن URI مساحة الاسم المرتبط بالبادئة المعطاة، بدءاً من هذه العقدة.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| prefix | String | البادئة. |
+| بادئة | String | البادئة. |
 
 ### قيمة الإرجاع
 
-إرجاع مساحة الاسم URI
+تُرجع URI مساحة الاسم
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../node/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

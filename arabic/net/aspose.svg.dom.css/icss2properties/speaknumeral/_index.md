@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.SpeakNumeral
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية Speaknumeral في CSS2.
+title: "ICSS2Properties.SpeakNumeral"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties SpeakNumeral. انظر تعريف الخاصية speak-numeral في CSS2"
 type: docs
-weight: 1020
+weight: 1050
 url: /ar/net/aspose.svg.dom.css/icss2properties/speaknumeral/
 ---
 ## ICSS2Properties.SpeakNumeral property
 
-راجع تعريف خاصية Speak-numeral في CSS2.
+انظر إلى تعريف الخاصية speak-numeral في CSS2.
 
 ```csharp
 public string SpeakNumeral { get; set; }
@@ -16,12 +16,10 @@ public string SpeakNumeral { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية نطق الأرقام
+خاصية speak-numeral
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

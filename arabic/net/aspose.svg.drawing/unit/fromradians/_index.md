@@ -1,32 +1,30 @@
 ---
-title: Unit.FromRadians
-second_title: Aspose.SVG لمرجع .NET API
-description: Unit طريقة. إرجاع أAngle الكائن الذي يتم تمثيله بالتقدير الدائري.
+title: "Unit.FromRadians"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Unit FromRadians. تُرجع كائن Angle يُمثَّل بالراديان"
 type: docs
 weight: 200
 url: /ar/net/aspose.svg.drawing/unit/fromradians/
 ---
 ## Unit.FromRadians method
 
-إرجاع أ[`Angle`](../../angle/) الكائن الذي يتم تمثيله بالتقدير الدائري.
+تُرجع كائن [`Angle`](../../angle/) يُمثَّل بالراديان.
 
 ```csharp
 public static Angle FromRadians(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة. |
+| القيمة | Double | القيمة. |
 
 ### قيمة الإرجاع
 
-يعود أ[`Angle`](../../angle/) هدف.
+تُرجع كائنًا [`Angle`](../../angle/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

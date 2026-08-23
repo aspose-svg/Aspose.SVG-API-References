@@ -1,27 +1,25 @@
 ---
-title: Attr.LocalName
-second_title: Aspose.SVG لمرجع .NET API
-description: Attr ملكية. إرجاع الجزء المحلي من الاسم المؤهل لهذه العقدة . بالنسبة للعقد من أي نوع بخلاف ELEMENT_NODE و ATTRIBUTE_NODE والعقد التي تم إنشاؤها باستخدام طريقة DOM من المستوى 1  مثل Document.createElement   يكون هذا دائمًا فارغًا.
+title: "Attr.LocalName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Attr LocalName. تُرجع الجزء المحلي من الاسم المؤهل لهذه العقدة. بالنسبة للعقد من أي نوع غير ELEMENT_NODE و ATTRIBUTE_NODE والعقد التي تم إنشاؤها باستخدام طريقة من مستوى DOM 1 مثل Document.createElement تكون دائمًا null."
 type: docs
-weight: 20
+weight: 10
 url: /ar/net/aspose.svg.dom/attr/localname/
 ---
 ## Attr.LocalName property
 
-إرجاع الجزء المحلي من الاسم المؤهل لهذه العقدة . بالنسبة للعقد من أي نوع بخلاف ELEMENT_NODE و ATTRIBUTE_NODE والعقد التي تم إنشاؤها باستخدام طريقة DOM من المستوى 1 ، مثل Document.createElement () ، يكون هذا دائمًا فارغًا.
+تُعيد الجزء المحلي من الاسم المؤهل لهذه العقدة. بالنسبة للعقد من أي نوع غير ELEMENT_NODE و ATTRIBUTE_NODE والعقد التي تم إنشاؤها باستخدام طريقة DOM المستوى 1، مثل Document.createElement()، يكون هذا دائمًا null.
 
 ```csharp
 public override string LocalName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الاسم المحلي .
+اسم المحلي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../attr/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

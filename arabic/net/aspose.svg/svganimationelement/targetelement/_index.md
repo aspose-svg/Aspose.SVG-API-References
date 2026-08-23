@@ -1,28 +1,26 @@
 ---
-title: SVGAnimationElement.TargetElement
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGAnimationElement ملكية. العنصر الذي يتم تحريكه .
+title: "SVGAnimationElement.TargetElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية TargetElement في SVGAnimationElement. العنصر الذي يتم تحريكه"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svganimationelement/targetelement/
 ---
 ## SVGAnimationElement.TargetElement property
 
-العنصر الذي يتم تحريكه .
+العنصر الذي يتم تحريكه.
 
 ```csharp
 public SVGElement TargetElement { get; }
 ```
 
-### Property_Value
+### Property Value
 
-العنصر الهدف .
+العنصر الهدف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGElement](../../svgelement/)
 * class [SVGAnimationElement](../)
-* مساحة الاسم [Aspose.Svg](../../svganimationelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

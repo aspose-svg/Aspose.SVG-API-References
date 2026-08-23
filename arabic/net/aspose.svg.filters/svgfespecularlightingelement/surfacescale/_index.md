@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.SurfaceScale
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFESpecularLightingElement ملكية. يتوافق مع السمة SurfaceScale على عنصر feSpecularLighting المحدد.
+title: "SVGFESpecularLightingElement.SurfaceScale"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGFESpecularLightingElement خاصية SurfaceScale. تتطابق مع السمة surfaceScale في عنصر feSpecularLighting المعطى."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.filters/svgfespecularlightingelement/surfacescale/
 ---
 ## SVGFESpecularLightingElement.SurfaceScale property
 
-يتوافق مع السمة "SurfaceScale" على عنصر "feSpecularLighting" المحدد.
+يتطابق مع السمة ‘surfaceScale’ في العنصر ‘feSpecularLighting’ المعطى.
 
 ```csharp
 public SVGAnimatedNumber SurfaceScale { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "SurfaceScale" لعنصر "feSpecularLighting" المحدد.
+السمة ‘surfaceScale’ لعنصر ‘feSpecularLighting’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

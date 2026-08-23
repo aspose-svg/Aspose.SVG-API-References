@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.Fx
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGRadialGradientElement ملكية. يتوافق مع السمة fx في عنصر التدرج الشعاعي المحدد.
+title: "SVGRadialGradientElement.Fx"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGRadialGradientElement Fx. تتطابق مع السمة fx في عنصر radialGradient المعطى."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgradialgradientelement/fx/
 ---
 ## SVGRadialGradientElement.Fx property
 
-يتوافق مع السمة "fx" في عنصر "التدرج الشعاعي" المحدد.
+يتطابق مع السمة ‘fx’ في عنصر ‘radialGradient’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Fx { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "fx" لعنصر "radialGradient" المحدد .
+السمة ‘fx’ لعنصر ‘radialGradient’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgradialgradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

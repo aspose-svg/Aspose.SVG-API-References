@@ -1,28 +1,26 @@
 ---
-title: ICSSKeyframesRule.CSSRules
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSKeyframesRule ملكية. تتيح هذه السمة الوصول إلى الإطارات الرئيسية في القائمة
+title: "ICSSKeyframesRule.CSSRules"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSSKeyframesRule CSSRules. تُتيح هذه السمة الوصول إلى الإطارات المفتاحية في القائمة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icsskeyframesrule/cssrules/
 ---
 ## ICSSKeyframesRule.CSSRules property
 
-تتيح هذه السمة الوصول إلى الإطارات الرئيسية في القائمة
+هذه الخاصية توفر الوصول إلى الإطارات المفتاحية في القائمة.
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قواعد CSS .
+قواعد CSS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSKeyframesRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

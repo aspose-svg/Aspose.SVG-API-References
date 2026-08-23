@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternTransform
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPatternElement ملكية. يتوافق مع السمة patternTransform على عنصر النمط المحدد .
+title: "SVGPatternElement.PatternTransform"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PatternTransform لـ SVGPatternElement. تتطابق مع السمة patternTransform على عنصر النمط المعطى"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgpatternelement/patterntransform/
 ---
 ## SVGPatternElement.PatternTransform property
 
-يتوافق مع السمة "patternTransform" على عنصر "النمط" المحدد .
+يتطابق مع السمة ‘patternTransform’ في عنصر ‘pattern’ المحدد.
 
 ```csharp
 public SVGAnimatedTransformList PatternTransform { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "patternTransform" لعنصر "النمط" المحدد .
+السمة ‘patternTransform’ للعنصر ‘pattern’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGPatternElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpatternelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

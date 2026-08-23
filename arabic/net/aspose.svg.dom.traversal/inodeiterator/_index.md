@@ -1,16 +1,16 @@
 ---
-title: Interface INodeIterator
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Traversal.INodeIterator واجهه المستخدم. يتم استخدام التكرارات للدخول إلى مجموعة من العقد  على سبيل المثال مجموعة العقد في NodeList  أو الشجرة الفرعية للمستند التي تحكمها عقدة معينة  أو نتائج استعلام  أو أي مجموعة أخرى من العقد. يتم تحديد مجموعة العقد المراد تكرارها من خلال تنفيذ لـ NodeIterator. يحدد DOM المستوى 2 تنفيذ NodeIterator الفردي لأمر المستندات اجتياز الشجرة الفرعية للمستند. يتم إنشاء مثيلات هذه التكرارات عن طريق استدعاء DocumentTraversal .createNodeIterator  .
+title: "واجهة INodeIterator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Traversal.INodeIterator. تُستخدم المكررات للانتقال عبر مجموعة من العقد مثل مجموعة العقد في NodeList، أو شجرة المستند الفرعية التي يتحكم فيها عقدة معينة، أو نتائج استعلام أو أي مجموعة أخرى من العقد. تُحدد مجموعة العقد التي سيتم تكرارها بواسطة تنفيذ NodeIterator. يحدد DOM Level 2 تنفيذًا واحدًا لـ NodeIterator لتجوال شجرة المستند الفرعية بترتيب المستند. تُنشأ مثيلات هذه المكررات عن طريق استدعاء DocumentTraversal.createNodeIterator"
 type: docs
-weight: 1250
+weight: 3250
 url: /ar/net/aspose.svg.dom.traversal/inodeiterator/
 ---
 ## INodeIterator interface
 
-يتم استخدام التكرارات للدخول إلى مجموعة من العقد ، على سبيل المثال مجموعة العقد في NodeList ، أو الشجرة الفرعية للمستند التي تحكمها عقدة معينة ، أو نتائج استعلام ، أو أي مجموعة أخرى من العقد. يتم تحديد مجموعة العقد المراد تكرارها من خلال تنفيذ لـ NodeIterator. يحدد DOM المستوى 2 تنفيذ NodeIterator الفردي لأمر المستندات اجتياز الشجرة الفرعية للمستند. يتم إنشاء مثيلات هذه التكرارات عن طريق استدعاء DocumentTraversal .createNodeIterator () .
+تُستخدم المكررات للانتقال عبر مجموعة من العقد، مثل مجموعة العقد في NodeList، الشجرة الفرعية للمستند التي تحكمها عقدة معينة، نتائج استعلام، أو أي مجموعة أخرى من العقد. تُحدَّد مجموعة العقد التي ستُكرر بواسطة تنفيذ NodeIterator. يحدد DOM المستوى 2 تنفيذًا واحدًا لـ NodeIterator لتصفح شجرة المستند بترتيب المستند. تُنشأ مثيلات هذه المكررات عن طريق استدعاء DocumentTraversal .createNodeIterator().
 
-راجع أيضًا ملف[نموذج كائن المستند (DOM) المستوى 2 الاجتياز وتحديد النطاق](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @ منذ DOM المستوى 2
+انظر أيضًا إلى [Document object Model (DOM) Level 2 Traversal and Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM Level 2
 
 ```csharp
 public interface INodeIterator : ITraversal
@@ -18,23 +18,21 @@ public interface INodeIterator : ITraversal
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PointerBeforeReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode/) { get; } | تحدد قيمة هذه العلامة ما إذا كانت العناصر الفرعية للعقد المرجعية للكيان مرئية للمكرر. إذا كانت خاطئة ، فسيتم رفضهم and أحفادهم. لاحظ أن هذا الرفض يأخذ الأسبقية على whatToShow والمرشح. لاحظ أيضًا أن هذا هو الموقف الوحيد حاليًا حيث قد ترفض NodeIterators شجرة فرعية كاملة بدلاً من تخطي العقد الفردية. قم بإخفاء مرجع الكيان node وقم بتعيين expandEntityReferences إلى true عند إنشاء the iterator. لإنتاج طريقة عرض للمستند تحتوي على عقد كيان ولكن بدون توسيع كيان ، استخدم whatToShow flags لإظهار عقدة مرجع الكيان و set expandEntityReferences to false . |
-| [ReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/referencenode/) { get; } | العقدة المرجعية الحالية . |
+| [PointerBeforeReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode/) { get; } | تحدد قيمة هذه العلامة ما إذا كانت أبناء عقد مراجع الكيان مرئية للمكرّر. إذا كان false، فسيتم رفضهم وتابعينهم. لاحظ أن هذا الرفض له أولوية على whatToShow والمرشح. كما لاحظ أن هذه هي الحالة الوحيدة حاليًا التي قد يرفض فيها NodeIterators شجرة فرعية كاملة بدلاً من تخطي العقد الفردية. لإنشاء عرض للمستند يحتوي على مراجع كيان موسعة ولا يكشف عن عقدة مرجع الكيان نفسها، استخدم علامات whatToShow لإخفاء عقدة مرجع الكيان واضبط expandEntityReferences إلى true عند إنشاء المكرّر. لإنشاء عرض للمستند يحتوي على عقد مراجع كيان دون توسيع الكيان، استخدم علامات whatToShow لإظهار عقدة مرجع الكيان واضبط expandEntityReferences إلى false. |
+| [ReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/referencenode/) { get; } | عقدة المرجع الحالية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Detach](../../aspose.svg.dom.traversal/inodeiterator/detach/)() | يفصل NodeIterator عن المجموعة التي تكررت مرة أخرى ، وإطلاق أي موارد حسابية ووضع مكرر في حالة INVALID. بعد استدعاء الفصل ، المكالمات إلى nextNode أو العقدة السابقة will سترفع الاستثناء INVALID_STATE_ERR. |
-| [NextNode](../../aspose.svg.dom.traversal/inodeiterator/nextnode/)() | تُرجع العقدة التالية في المجموعة وتقدم موضع مكرر في المجموعة. بعد إنشاء NodeIterator ، تُرجع المكالمة الأولى لـ nextNode () العقدة الأولى in المجموعة. |
-| [PreviousNode](../../aspose.svg.dom.traversal/inodeiterator/previousnode/)() | إرجاع العقدة السابقة في المجموعة ونقل موضع NodeIterator للخلف في المجموعة. |
+| [Detach](../../aspose.svg.dom.traversal/inodeiterator/detach/)() | يفصل الـ NodeIterator عن المجموعة التي كان يتنقل خلالها، مطلقًا أي موارد حسابية ومُضعِفًا المتتبع في الحالة INVALID. بعد استدعاء الفاصل، ستؤدي الاستدعاءات إلى nextNode أو previousNode إلى رفع الاستثناء INVALID_STATE_ERR. |
+| [NextNode](../../aspose.svg.dom.traversal/inodeiterator/nextnode/)() | يعيد العقدة التالية في المجموعة ويُحسّن موضع المتتبع في المجموعة. بعد إنشاء NodeIterator، تُعيد الاستدعاءة الأولى إلى nextNode() العقدة الأولى في المجموعة. |
+| [PreviousNode](../../aspose.svg.dom.traversal/inodeiterator/previousnode/)() | يعيد العقدة السابقة في المجموعة وينقل موضع NodeIterator إلى الخلف في المجموعة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITraversal](../itraversal/)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../)

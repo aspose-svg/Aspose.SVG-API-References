@@ -1,32 +1,30 @@
 ---
-title: DOMTokenList.Replace
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTokenList طريقة. يستبدل رمزًا مميزًا برمز جديد. لا يفعل شيئًا إذا لم يكن الرمز المميز الأول موجودًا.
+title: "DOMTokenList.Replace"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DOMTokenList Replace. تستبدل رمزًا موجودًا برمز جديد. لا تفعل شيئًا إذا لم يكن الرمز الأول موجودًا."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.collections/domtokenlist/replace/
 ---
 ## DOMTokenList.Replace method
 
-يستبدل رمزًا مميزًا برمز جديد. لا يفعل شيئًا إذا لم يكن الرمز المميز الأول موجودًا.
+يستبدل رمزًا موجودًا برمز جديد. لا يفعل شيئًا إذا لم يكن الرمز الأول موجودًا.
 
 ```csharp
 public bool Replace(string token, string newToken)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | token | String | الرمز الذي تريد استبداله. |
 | newToken | String | الرمز الذي تريد استبدال الرمز القديم به. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية`حقيقي` إذا تم العثور على الرمز المميز واستبداله ،`خطأ شنيع` خلاف ذلك.
+قيمة منطقية `true` إذا تم العثور على الرمز واستبداله، `false` خلاف ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../domtokenlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

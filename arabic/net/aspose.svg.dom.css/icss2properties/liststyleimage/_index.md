@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.ListStyleImage
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية liststyleimage في CSS2.
+title: "ICSS2Properties.ListStyleImage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties ListStyleImage. انظر تعريف الخاصية list-style-image في CSS2"
 type: docs
-weight: 600
+weight: 630
 url: /ar/net/aspose.svg.dom.css/icss2properties/liststyleimage/
 ---
 ## ICSS2Properties.ListStyleImage property
 
-راجع تعريف خاصية list-style-image في CSS2.
+انظر تعريف خاصية list-style-image في CSS2.
 
 ```csharp
 public string ListStyleImage { get; set; }
@@ -18,10 +18,8 @@ public string ListStyleImage { get; set; }
 
 خاصية list-style-image
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

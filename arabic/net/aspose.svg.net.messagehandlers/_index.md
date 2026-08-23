@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.MessageHandlers
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg.Net.MessageHandlers مساحة الاسم هي مقدمة بواسطة الفئات  معالجات الرسائل لبروتوكولات مختلفة.
+title: "Aspose.Svg.Net.MessageHandlers"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "مساحة الأسماء Aspose.Svg.Net.MessageHandlers تُقدَّم بواسطة فئات - معالجات رسائل لبروتوكولات مختلفة."
 type: docs
-weight: 220
+weight: 240
 url: /ar/net/aspose.svg.net.messagehandlers/
 ---
-ملف **Aspose.Svg.Net.MessageHandlers** مساحة الاسم هي مقدمة بواسطة الفئات - معالجات الرسائل لبروتوكولات مختلفة.
+تُقدَّم مساحة الاسم **Aspose.Svg.Net.MessageHandlers** عبر فئات - معالجات رسائل لبروتوكولات مختلفة.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | يمثل ملف`ملف:` معالج رسائل البروتوكول. |
-| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | يمثل ملف`بروتوكول نقل الملفات:` معالج رسائل البروتوكول. |
-| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | يمثل ملف`http:` معالج رسائل البروتوكول. |
-
-
+| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | يمثل معالج رسالة بروتوكول `file:`. |
+| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | يمثل معالج رسالة بروتوكول `ftp:`. |
+| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | يمثل معالج رسالة بروتوكول `http:`. |

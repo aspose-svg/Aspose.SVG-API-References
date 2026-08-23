@@ -1,28 +1,26 @@
 ---
-title: SVGDocument.RootElement
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGDocument ملكية. الجذر svg في التسلسل الهرمي للمستند.
+title: "SVGDocument.RootElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGDocument RootElement. عنصر الـ svg الجذر في تسلسل المستند"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/svgdocument/rootelement/
 ---
 ## SVGDocument.RootElement property
 
-الجذر "svg" في التسلسل الهرمي للمستند.
+العنصر الجذر ‘svg’ في تسلسل المستند.
 
 ```csharp
 public SVGSVGElement RootElement { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عنصر الجذر .
+العنصر الجذر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGDocument](../)
-* مساحة الاسم [Aspose.Svg](../../svgdocument/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

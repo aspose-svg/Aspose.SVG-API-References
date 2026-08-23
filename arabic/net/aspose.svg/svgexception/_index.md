@@ -1,43 +1,49 @@
 ---
-title: Class SVGException
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.SVGException فصل. يظهر هذا الاستثناء عندما يتعذر إجراء عملية SVG معينة .
+title: "فئة SVGException"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.SVGException. يتم رفع هذا الاستثناء عندما يكون من المستحيل تنفيذ عملية SVG محددة"
 type: docs
-weight: 3230
+weight: 5300
 url: /ar/net/aspose.svg/svgexception/
 ---
 ## SVGException class
 
-يظهر هذا الاستثناء عندما يتعذر إجراء عملية SVG معينة .
+يتم رفع هذا الاستثناء عندما يكون تنفيذ عملية SVG معينة مستحيلًا.
 
 ```csharp
 public class SVGException : PlatformException
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SVGException](svgexception/)(ushort) | يقوم بتهيئة مثيل جديد لملف`SVGException` فئة . |
+| [SVGException](svgexception/)(*ushort*) | يُنشئ مثيلًا جديدًا من الفئة `SVGException`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Code](../../aspose.svg/svgexception/code/) { get; } | رمز يحدد سبب عدم تنفيذ العملية المطلوبة. ستكون قيمة هذا العضو أحد الثوابت في مجموعة التعليمات البرمجية SVGException. |
+| [Code](../../aspose.svg/svgexception/code/) { get; } | رمز يحدد السبب الذي لم تُنفّذ العملية المطلوبة. ستكون قيمة هذا العضو واحدة من الثوابت في مجموعة رموز SVGException. |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
+| virtual [Message](../../system/exception/message/) { get; } |  |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [SVG_INVALID_VALUE_ERR](../../aspose.svg/svgexception/svg_invalid_value_err/) | تُرفع عند تمرير قيمة غير صالحة إلى عملية أو تعيينها لسمة. |
-| const [SVG_MATRIX_NOT_INVERTABLE](../../aspose.svg/svgexception/svg_matrix_not_invertable/) | يتم رفعه عند إجراء محاولة لعكس مصفوفة غير قابلة للعكس . |
-| const [SVG_WRONG_TYPE_ERR](../../aspose.svg/svgexception/svg_wrong_type_err/) | يتم رفعه عند تمرير كائن من نوع خاطئ إلى عملية. |
+| const [SVG_INVALID_VALUE_ERR](../../aspose.svg/svgexception/svg_invalid_value_err/) | يُرفع عندما يتم تمرير قيمة غير صالحة إلى عملية أو تعيينها إلى سمة. |
+| const [SVG_MATRIX_NOT_INVERTABLE](../../aspose.svg/svgexception/svg_matrix_not_invertable/) | يُرفع عندما يُجرى محاولة لعكس مصفوفة غير قابلة للعكس. |
+| const [SVG_WRONG_TYPE_ERR](../../aspose.svg/svgexception/svg_wrong_type_err/) | يُرفع عندما يُمرّر كائن من نوع غير صحيح إلى عملية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlatformException](../platformexception/)
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

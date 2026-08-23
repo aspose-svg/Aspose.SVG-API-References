@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGRectElement ملكية. يتوافق مع السمة y على عنصر rect المحدد .
+title: "SVGRectElement.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Y في SVGRectElement. تتطابق مع السمة y في عنصر rect المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgrectelement/y/
 ---
 ## SVGRectElement.Y property
 
-يتوافق مع السمة "y" على عنصر "rect" المحدد .
+يتطابق مع السمة ‘y’ في العنصر ‘rect’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "y" لعنصر "rect" المحدد .
+السمة ‘y’ لعنصر ‘rect’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgrectelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

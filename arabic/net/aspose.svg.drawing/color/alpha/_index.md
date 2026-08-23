@@ -1,23 +1,21 @@
 ---
-title: Color.Alpha
-second_title: Aspose.SVG لمرجع .NET API
-description: Color ملكية. يمثل مكون ألفا للون.
+title: "Color.Alpha"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Color Alpha. تمثل المكوّن ألفا في اللون."
 type: docs
 weight: 240
 url: /ar/net/aspose.svg.drawing/color/alpha/
 ---
 ## Color.Alpha property
 
-يمثل مكون ألفا للون.
+يمثل المكوّن ألفا للون.
 
 ```csharp
 public float Alpha { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

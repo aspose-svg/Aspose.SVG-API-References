@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.LineWidth
-second_title: Aspose.SVG لمرجع .NET API
-description: GraphicContext ملكية. يضبط أو يحصل على سماكة المسارات المراد رسمها.
+title: "GraphicContext.LineWidth"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GraphicContext LineWidth. يضبط أو يحصل على سمك المسارات التي سيتم رسمها"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.rendering/graphiccontext/linewidth/
 ---
 ## GraphicContext.LineWidth property
 
-يضبط أو يحصل على سماكة المسارات المراد رسمها.
+يضبط أو يحصل على سمك المسارات التي سيتم رسم حدودها.
 
 ```csharp
 public virtual float LineWidth { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../graphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

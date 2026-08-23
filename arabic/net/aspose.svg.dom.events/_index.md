@@ -1,34 +1,32 @@
 ---
-title: Aspose.Svg.Dom.Events
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف الأحداث توفر مساحة الاسم كائنات لـ أي أحداث متعلقة بتحديث DOM. يتضمن الاشتراك في مراقبة معلومات سياقية محددة المرتبطة بالحدث بالإضافة إلى إنشاء الأحداث المخصصة.
+title: "Aspose.Svg.Dom.Events"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "مساحة الأسماء Aspose.Svg.Dom.Events تُوفر كائنات لأي أحداث متعلقة بتحديث DOM. تشمل الاشتراك في ملاحظة معلومات سياقية محددة مرتبطة بالحدث بالإضافة إلى إنشاء أحداث مخصصة."
 type: docs
-weight: 80
+weight: 100
 url: /ar/net/aspose.svg.dom.events/
 ---
-ملف **الأحداث** توفر مساحة الاسم كائنات لـ أي أحداث متعلقة بتحديث DOM. يتضمن الاشتراك في مراقبة معلومات سياقية محددة المرتبطة بالحدث بالإضافة إلى إنشاء الأحداث المخصصة.
+مساحة الاسم **Aspose.Svg.Dom.Events** توفر كائنات لأي أحداث تتعلق بتحديث الـ DOM. تشمل الاشتراك في ملاحظة معلومات سياقية محددة مرتبطة بالحدث بالإضافة إلى إنشاء أحداث مخصصة.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [CustomEvent](./customevent/) | يمكن استخدام الأحداث التي تستخدم واجهة CustomEvent لنقل البيانات المخصصة. |
-| [DocumentLoadErrorEvent](./documentloaderrorevent/) | ملف[`DocumentLoadErrorEvent`](../aspose.svg.dom.events/documentloaderrorevent/) يحدث عندما لا يتوفر المورد المطلوب. |
-| [DOMEventHandler](./domeventhandler/) | يمثل رد الاتصال لمعالجة الحدث. |
-| [ErrorEvent](./errorevent/) | ملف[`ErrorEvent`](../aspose.svg.dom.events/errorevent/) يوفر معلومات سياقية حول الأخطاء التي حدثت أثناء وقت التشغيل. |
-| [Event](./event/) | ملف[`Event`](../aspose.svg.dom.events/event/) يستخدم لتوفير معلومات سياقية حول حدث للمعالج الذي يقوم بمعالجة الحدث. |
-| [FocusEvent](./focusevent/) | توفر واجهة FocusEvent معلومات سياقية محددة مرتبطة بأحداث التركيز. |
-| [InputEvent](./inputevent/) | يتم إرسال أحداث الإدخال كإخطارات عندما يتم تحديث DOM. |
-| [KeyboardEvent](./keyboardevent/) | توفر واجهة KeyboardEvent معلومات سياقية محددة مرتبطة بأجهزة لوحة المفاتيح. يشير كل حدث لوحة مفاتيح إلى مفتاح يستخدم قيمة. يتم توجيه أحداث لوحة المفاتيح بشكل عام إلى العنصر الذي يتم التركيز عليه. |
-| [MouseEvent](./mouseevent/) | توفر واجهة MouseEvent معلومات سياقية محددة مرتبطة بأحداث الماوس. |
-| [UIEvent](./uievent/) | توفر واجهة UIEvent معلومات سياقية محددة مرتبطة بأحداث واجهة المستخدم. |
-| [WheelEvent](./wheelevent/) | توفر واجهة WheelEvent معلومات سياقية محددة مرتبطة بأحداث العجلة. لإنشاء مثيل لواجهة WheelEvent ، استخدم مُنشئ WheelEvent ، وتمرير قاموس WheelEventInit الاختياري. |
-## واجهات
+| [CustomEvent](./customevent/) | يمكن استخدام الأحداث عبر واجهة CustomEvent لنقل بيانات مخصصة. |
+| [DocumentLoadErrorEvent](./documentloaderrorevent/) | الحدث [`DocumentLoadErrorEvent`](../aspose.svg.dom.events/documentloaderrorevent/) يحدث عندما لا يكون المورد المطلوب متاحاً. |
+| [DOMEventHandler](./domeventhandler/) | يمثّل رد النداء لمعالجة الحدث. |
+| [ErrorEvent](./errorevent/) | الحدث [`ErrorEvent`](../aspose.svg.dom.events/errorevent/) يُوفر معلومات سياقية حول الأخطاء التي حدثت أثناء وقت التشغيل. |
+| [Event](./event/) | الحدث [`Event`](../aspose.svg.dom.events/event/) يُستخدم لتوفير معلومات سياقية حول حدث للمعالج الذي يعالج الحدث. |
+| [FocusEvent](./focusevent/) | واجهة FocusEvent تُوفر معلومات سياقية محددة مرتبطة بأحداث التركيز. |
+| [InputEvent](./inputevent/) | يتم إرسال أحداث الإدخال كإشعارات كلما تم تحديث DOM. |
+| [KeyboardEvent](./keyboardevent/) | واجهة KeyboardEvent تُوفر معلومات سياقية محددة مرتبطة بأجهزة لوحة المفاتيح. كل حدث لوحة مفاتيح يشير إلى مفتاح باستخدام قيمة. عادةً ما تُوجه أحداث لوحة المفاتيح إلى العنصر الذي يملك التركيز. |
+| [MouseEvent](./mouseevent/) | واجهة MouseEvent تُوفر معلومات سياقية محددة مرتبطة بأحداث الفأرة. |
+| [UIEvent](./uievent/) | واجهة UIEvent تُوفر معلومات سياقية محددة مرتبطة بأحداث واجهة المستخدم. |
+| [WheelEvent](./wheelevent/) | واجهة WheelEvent تُوفر معلومات سياقية محددة مرتبطة بأحداث العجلة. لإنشاء مثال من واجهة WheelEvent، استخدم مُنشئ WheelEvent، مع تمرير قاموس WheelEventInit اختياري. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IDocumentEvent](./idocumentevent/) | ملف[`IDocumentEvent`](../aspose.svg.dom.events/idocumentevent/) توفر الواجهة آلية يمكن للمستخدم من خلالها إنشاء ملف[`Event`](../aspose.svg.dom.events/event/) من النوع الذي يدعمه التنفيذ . |
-| [IEventListener](./ieventlistener/) | ملف[`IEventListener`](../aspose.svg.dom.events/ieventlistener/)الواجهة هي الطريقة الأساسية لمعالجة الأحداث. يقوم المستخدمون بتنفيذ[`IEventListener`](../aspose.svg.dom.events/ieventlistener/) واجهة وتسجيل المستمع الخاص بهم على ملف[`EventTarget`](../aspose.svg.dom/eventtarget/) باستخدام[`AddEventListener`](../aspose.svg.dom/eventtarget/addeventlistener/) method. يجب على المستخدمين أيضًا إزالة ملفات[`IEventListener`](../aspose.svg.dom.events/ieventlistener/) منها[`EventTarget`](../aspose.svg.dom/eventtarget/) بعد الانتهاء من استخدام المستمع. |
-| [IEventTarget](./ieventtarget/) | ملف[`EventTarget`](../aspose.svg.dom/eventtarget/) يتم تنفيذ الواجهة بواسطة جميع العقد في تطبيق يدعم نموذج حدث DOM . لذلك ، يمكن الحصول على هذه الواجهة باستخدام طرق الصب الخاصة بالربط على مثيل لواجهة Node. تسمح الواجهة بتسجيل وإزالة مستمعي الأحداث على ا[`EventTarget`](../aspose.svg.dom/eventtarget/) وإرسال الأحداث إلى ذلك[`IEventTarget`](../aspose.svg.dom.events/ieventtarget/) . |
-
-
+| [IDocumentEvent](./idocumentevent/) | الواجهة [`IDocumentEvent`](../aspose.svg.dom.events/idocumentevent/) تُوفر آلية يمكن للمستخدم من خلالها إنشاء [`Event`](../aspose.svg.dom.events/event/) من نوع مدعوم من قبل التنفيذ. |
+| [IEventListener](./ieventlistener/) | The واجهة [`IEventListener`](../aspose.svg.dom.events/ieventlistener/) هي الطريقة الأساسية لمعالجة الأحداث. يقوم المستخدمون بتنفيذ واجهة [`IEventListener`](../aspose.svg.dom.events/ieventlistener/) وتسجيل المستمع الخاص بهم على [`EventTarget`](../aspose.svg.dom/eventtarget/) باستخدام طريقة [`AddEventListener`](../aspose.svg.dom/eventtarget/addeventlistener/). يجب على المستخدمين أيضًا إزالة [`IEventListener`](../aspose.svg.dom.events/ieventlistener/) من [`EventTarget`](../aspose.svg.dom/eventtarget/) بعد الانتهاء من استخدام المستمع. |
+| [IEventTarget](./ieventtarget/) | The واجهة [`EventTarget`](../aspose.svg.dom/eventtarget/) يتم تنفيذها من قبل جميع العقد في تنفيذ يدعم نموذج أحداث DOM. لذلك، يمكن الحصول على هذه الواجهة باستخدام طرق التحويل الخاصة بالربط على مثال من واجهة العقدة. تسمح الواجهة بتسجيل وإزالة مستمعي الأحداث على [`EventTarget`](../aspose.svg.dom/eventtarget/) وإرسال الأحداث إلى ذلك [`IEventTarget`](../aspose.svg.dom.events/ieventtarget/). |

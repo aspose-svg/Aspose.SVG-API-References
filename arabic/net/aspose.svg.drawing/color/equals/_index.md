@@ -1,31 +1,29 @@
 ---
-title: Color.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. تحديد ما إذا كان الملف المحددColor يساوي هذا المثال.
+title: "Color.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color Equals. تحدد ما إذا كان الـ Color المحدد يساوي هذا الكائن"
 type: docs
 weight: 300
 url: /ar/net/aspose.svg.drawing/color/equals/
 ---
 ## Color.Equals method
 
-تحديد ما إذا كان الملف المحدد[`Color`](../) يساوي هذا المثال.
+تحدد ما إذا كان الـ [`Color`](../) المحدد يساوي هذا الكائن.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | كائن | الكائن للمقارنة مع هذه النسخة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع`.
+`true` إذا كان الكائن المحدد مساويًا لهذه النسخة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SaveOptions.ResourceHandlingOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: SaveOptions ملكية. يحصل على أResourceHandlingOptions الكائن المستخدم لتكوين معالجة الموارد.
+title: "SaveOptions.ResourceHandlingOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SaveOptions ResourceHandlingOptions. يحصل على كائن ResourceHandlingOptions يُستخدم لتكوين معالجة الموارد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.saving/saveoptions/resourcehandlingoptions/
 ---
 ## SaveOptions.ResourceHandlingOptions property
 
-يحصل على أ[`ResourceHandlingOptions`](../../resourcehandlingoptions/) الكائن المستخدم لتكوين معالجة الموارد.
+يحصل على كائن [`ResourceHandlingOptions`](../../resourcehandlingoptions/) يُستخدم لتكوين معالجة الموارد.
 
 ```csharp
 public ResourceHandlingOptions ResourceHandlingOptions { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`ResourceHandlingOptions`](../../resourcehandlingoptions/) الكائن .
+كائن [`ResourceHandlingOptions`](../../resourcehandlingoptions/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceHandlingOptions](../../resourcehandlingoptions/)
 * class [SaveOptions](../)
-* مساحة الاسم [Aspose.Svg.Saving](../../saveoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

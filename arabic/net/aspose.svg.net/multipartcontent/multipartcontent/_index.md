@@ -1,70 +1,68 @@
 ---
-title: MultipartContent.MultipartContent
-second_title: Aspose.SVG لمرجع .NET API
-description: MultipartContent البناء. قم بإنشاء مثيل جديد لملفMultipartContent فئة .
+title: "MultipartContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ MultipartContent. أنشئ نسخة جديدة من فئة MultipartContent"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-قم بإنشاء مثيل جديد لملف[`MultipartContent`](../) فئة .
+أنشئ نسخة جديدة من الفئة [`MultipartContent`](../).
 
 ```csharp
 public MultipartContent()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultipartContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartcontent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string) {#constructor_1}
+## MultipartContent(*string*) {#constructor_1}
 
-قم بإنشاء مثيل جديد لملف[`MultipartContent`](../) فئة ذات نوع فرعي.
+أنشئ نسخة جديدة من الفئة [`MultipartContent`](../) مع النوع الفرعي.
 
 ```csharp
 public MultipartContent(string subtype)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| subtype | String | النوع الفرعي |
+| النوع الفرعي | String | النوع الفرعي |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultipartContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartcontent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string, string) {#constructor_2}
+## MultipartContent(*string, string*) {#constructor_2}
 
-قم بإنشاء مثيل جديد لملف[`MultipartContent`](../) فئة ذات نوع فرعي وحد.
+أنشئ نسخة جديدة من الفئة [`MultipartContent`](../) مع النوع الفرعي والحد الفاصل.
 
 ```csharp
 public MultipartContent(string subtype, string boundary)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| subtype | String | النوع الفرعي |
-| boundary | String | الحدود |
+| النوع الفرعي | String | النوع الفرعي |
+| boundary | String | الحد الفاصل |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | لا يمكن أن تكون الوسيطة سلسلة فارغة أو فارغة. |
+| ArgumentException | لا يمكن أن يكون المعامل فارغًا أو سلسلةً فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultipartContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartcontent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

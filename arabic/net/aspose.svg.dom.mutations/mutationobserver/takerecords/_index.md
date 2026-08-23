@@ -1,28 +1,26 @@
 ---
-title: MutationObserver.TakeRecords
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserver طريقة. تقوم الطريقة بإرجاع نسخة من قائمة انتظار السجل ثم إفراغ قائمة انتظار التسجيل.
+title: "MutationObserver.TakeRecords"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MutationObserver TakeRecords. تُعيد الطريقة نسخة من طابور السجلات ثم تُفرغ طابور السجلات."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.mutations/mutationobserver/takerecords/
 ---
 ## MutationObserver.TakeRecords method
 
-تقوم الطريقة بإرجاع نسخة من قائمة انتظار السجل ثم إفراغ قائمة انتظار التسجيل.
+ترجع الطريقة نسخة من طابور السجلات ثم تُفرغ طابور السجلات.
 
 ```csharp
-public IEnumerable<MutationRecord> TakeRecords()
+public IList<MutationRecord> TakeRecords()
 ```
 
 ### قيمة الإرجاع
 
-نسخة من قائمة انتظار السجل.
+نسخة من طابور السجلات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationRecord](../../mutationrecord/)
 * class [MutationObserver](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

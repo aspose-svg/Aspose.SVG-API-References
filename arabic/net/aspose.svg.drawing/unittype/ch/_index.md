@@ -1,23 +1,21 @@
 ---
-title: UnitType.Ch
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس متناسب مع عرض 0 صفر .
+title: "UnitType.Ch"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Ch. القياس نسبي لعرض الصفر 0."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/unittype/ch/
 ---
 ## UnitType.Ch field
 
-القياس متناسب مع عرض "0" (صفر) .
+القياس نسبي لعرض "0" (الصفر).
 
 ```csharp
 public static readonly UnitType Ch;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

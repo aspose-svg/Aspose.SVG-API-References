@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnKeyUp
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnKeyUp.
+title: "IGlobalEventHandlers.OnKeyUp"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث OnKeyUp في IGlobalEventHandlers. يحصل أو يضبط معالج الحدث لـ OnKeyUp."
 type: docs
 weight: 190
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onkeyup/
 ---
 ## IGlobalEventHandlers.OnKeyUp event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnKeyUp.
+الحصول أو تعيين معالج الحدث لـ OnKeyUp.
 
 ```csharp
 public event DOMEventHandler OnKeyUp;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

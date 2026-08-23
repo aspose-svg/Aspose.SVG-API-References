@@ -1,27 +1,25 @@
 ---
-title: ByteArrayContent.ByteArrayContent
-second_title: Aspose.SVG لمرجع .NET API
-description: ByteArrayContent البناء. يقوم بتهيئة مثيل جديد لملفByteArrayContent فئة .
+title: "ByteArrayContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "المُنشئ ByteArrayContent. يهيئ مثيلاً جديداً من الفئة ByteArrayContent"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/bytearraycontent/bytearraycontent/
 ---
 ## ByteArrayContent constructor
 
-يقوم بتهيئة مثيل جديد لملف[`ByteArrayContent`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`ByteArrayContent`](../).
 
 ```csharp
 public ByteArrayContent(byte[] content)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | content | Byte[] | المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ByteArrayContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../bytearraycontent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

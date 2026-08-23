@@ -1,67 +1,65 @@
 ---
-title: Class Event
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Events.Event فصل. ملفEvent يستخدم لتوفير معلومات سياقية حول حدث للمعالج الذي يقوم بمعالجة الحدث.
+title: "فئة Event"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Dom.Events.Event. تُستخدم الفئة Event لتوفير معلومات سياقية حول حدث ما للمعالج الذي يعالج الحدث."
 type: docs
-weight: 920
+weight: 2920
 url: /ar/net/aspose.svg.dom.events/event/
 ---
 ## Event class
 
-ملف`Event` يستخدم لتوفير معلومات سياقية حول حدث للمعالج الذي يقوم بمعالجة الحدث.
+تُستخدم الفئة `Event` لتوفير معلومات سياقية حول حدث ما للمعالج الذي يعالج الحدث.
 
 ```csharp
 public class Event : DOMObject
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Event](event/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`Event` فئة . |
-| [Event](event/#constructor_1)(string, IDictionary&lt;string, object&gt;) | يقوم بتهيئة مثيل جديد لملف`Event` فئة . |
+| [Event](event/#constructor)(*string*) | يُنشئ مثيلاً جديدًا من الفئة `Event`. |
+| [Event](event/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) | يُنشئ مثيلاً جديدًا من الفئة `Event`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | يُستخدم للإشارة إلى ما إذا كان الحدث عبارة عن حدث فقاعات أم لا. إذا كان الحدث يمكن أن ينفجر ، تكون القيمة صحيحة ، وإلا تكون القيمة خاطئة. |
-| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | يُستخدم للإشارة إلى ما إذا كان يمكن منع إجراء افتراضي لحدث أم لا. إذا كان من الممكن منع الإجراء الافتراضي ، كانت القيمة صحيحة ، وإلا تكون القيمة خاطئة. |
-| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | يُستخدم للإشارة إلى ملف[`IEventTarget`](../ieventtarget/) لمن[`IEventListener`](../ieventlistener/) يتم حاليًا معالجة الصورة . هذا مفيد بشكل خاص أثناء الالتقاط والفقاعات. |
-| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | إرجاع صحيح إذا تم استدعاء PreventionDefault () بينما تكون قيمة السمة القابلة للإلغاء صحيحة ، والخطأ في الحالات الأخرى. |
-| [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | يُستخدم للإشارة إلى أي مرحلة من مراحل تدفق الأحداث يتم تقييمها حاليًا. |
-| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | يجب أن ترجع السمة isTrusted القيمة التي تمت تهيئتها إليها. عند إنشاء حدث ، يجب تهيئة السمة إلى false . |
-| [Target](../../aspose.svg.dom.events/event/target/) { get; } | يُستخدم للإشارة إلى ملف[`IEventTarget`](../ieventtarget/) الذي تم إرسال الحدث إليه في الأصل. |
-| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | يُستخدم لتحديد الوقت (بالملي ثانية بالنسبة للعصر) الذي تم فيه إنشاء الحدث . نظرًا لأن بعض الأنظمة قد لا توفر هذه المعلومات ، فقد لا يكون الطابع الزمني متاحًا لجميع الأحداث. ، سيتم إرجاع القيمة 0. أمثلة على وقت الحقبة هي وقت بدء النظام أو 0: 0: 0 UTC 1 يناير 1970. |
-| [Type](../../aspose.svg.dom.events/event/type/) { get; } | اسم الحدث (غير حساس لحالة الأحرف). يجب أن يكون الاسم اسم XML . |
+| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | يُستخدم لتحديد ما إذا كان الحدث حدثًا متدفقًا أم لا. إذا كان الحدث يمكن أن يتدفق تكون القيمة true، وإلا تكون القيمة false. |
+| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | يُستخدم لتحديد ما إذا كان يمكن منع الإجراء الافتراضي للحدث أم لا. إذا كان يمكن منع الإجراء الافتراضي تكون القيمة true، وإلا تكون القيمة false. |
+| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | يُستخدم لتحديد الـ[`IEventTarget`](../ieventtarget/) الذي يتم حالياً معالجة الـ[`IEventListener`](../ieventlistener/) الخاص به. هذا مفيد بشكل خاص أثناء الالتقاط والتدفق. |
+| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | يعيد true إذا تم استدعاء preventDefault() بينما تكون قيمة الخاصية cancelable هي true، وإلا يعيد false. |
+| [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | يُستخدم لتحديد أي مرحلة من تدفق الحدث يتم تقييمها حاليًا. |
+| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | يجب أن تُعيد الخاصية isTrusted القيمة التي تم تهيئتها بها. عند إنشاء الحدث يجب تهيئة الخاصية إلى false. |
+| [Target](../../aspose.svg.dom.events/event/target/) { get; } | يُستخدم لتحديد الـ[`IEventTarget`](../ieventtarget/) الذي تم إرسال الحدث إليه أصلاً. |
+| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | يُستخدم لتحديد الوقت (بالمليثانية بالنسبة للحقبة) الذي تم إنشاء الحدث فيه. ونظرًا لأن بعض الأنظمة قد لا توفر هذه المعلومة، قد لا تكون قيمة timeStamp متاحة لجميع الأحداث. عندما لا تكون متاحة، سيتم إرجاع القيمة 0. من أمثلة وقت الحقبة وقت بدء النظام أو 0:0:0 UTC 1 يناير 1970. |
+| [Type](../../aspose.svg.dom.events/event/type/) { get; } | اسم الحدث (غير حساس لحالة الأحرف). يجب أن يكون الاسم اسم XML. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(string, bool, bool) | ملف[`InitEvent`](./initevent/) يتم استخدام طريقة لتهيئة قيمة`Event` تم إنشاؤه من خلال [`IDocumentEvent`](../idocumentevent/) الواجهة . |
-| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | إذا كان الحدث قابلاً للإلغاء ، فإن ملف[`PreventDefault`](./preventdefault/) يتم استخدام الطريقة للدلالة على أن الحدث سيتم إلغاؤه ، مما يعني أن أي إجراء افتراضي يتم اتخاذه عادةً بواسطة التنفيذ نتيجة للحدث لن يحدث. |
-| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | استدعاء هذه الطريقة يمنع الحدث من الوصول إلى أي مستمعين للأحداث مسجل بعد الحدث الحالي وعندما يتم إرساله في شجرة يمنع أيضًا الحدث من الوصول إلى أي كائنات أخرى. |
-| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | ملف[`StopPropagation`](./stoppropagation/) الطريقة المستخدمة لمنع المزيد من الانتشار لحدث ما أثناء تدفق الحدث. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(*string, bool, bool*) | تُستخدم طريقة [`InitEvent`](./initevent/) لتهيئة قيمة `Event` التي تم إنشاؤها عبر واجهة [`IDocumentEvent`](../idocumentevent/). |
+| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | إذا كان الحدث قابلًا للإلغاء، تُستخدم طريقة [`PreventDefault`](./preventdefault/) للدلالة على أن الحدث يجب إلغاؤه، مما يعني أن أي إجراء افتراضي عادةً ما تتخذه التنفيذ نتيجةً للحدث لن يحدث. |
+| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | استدعاء هذا الأسلوب يمنع وصول الحدث إلى أي مستمعي أحداث تم تسجيلهم بعد المستمع الحالي، وعند إرساله في شجرة يمنع أيضًا وصول الحدث إلى أي كائنات أخرى. |
+| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | تُستخدم طريقة [`StopPropagation`](./stoppropagation/) لمنع انتشار إضافي للحدث أثناء تدفقه. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [AtTargetPhase](../../aspose.svg.dom.events/event/attargetphase/) | مرحلة الحدث الحالي هي مرحلة الالتقاط. |
-| const [BubblingPhase](../../aspose.svg.dom.events/event/bubblingphase/) | مرحلة الحدث الحالي هي مرحلة الفقاعة. |
-| const [CapturingPhase](../../aspose.svg.dom.events/event/capturingphase/) | يتم حاليًا تقييم الحدث عند الهدف[`IEventTarget`](../ieventtarget/) . |
-| const [NonePhase](../../aspose.svg.dom.events/event/nonephase/) | الأحداث التي لم يتم إرسالها حاليًا موجودة في هذه المرحلة. |
+| const [AtTargetPhase](../../aspose.svg.dom.events/event/attargetphase/) | المرحلة الحالية للحدث هي مرحلة الالتقاط. |
+| const [BubblingPhase](../../aspose.svg.dom.events/event/bubblingphase/) | المرحلة الحالية للحدث هي مرحلة الفقاعات. |
+| const [CapturingPhase](../../aspose.svg.dom.events/event/capturingphase/) | يتم حالياً تقييم الحدث عند الهدف [`IEventTarget`](../ieventtarget/). |
+| const [NonePhase](../../aspose.svg.dom.events/event/nonephase/) | الأحداث التي لم تُرسل حاليًا تكون في هذه المرحلة. |
 
-### ملاحظات
+## ملاحظات
 
-كائن يقوم بتنفيذ ملف`Event` يتم تمريره بشكل عام كمعامل أول إلى معالج الأحداث . يتم تمرير معلومات سياق أكثر تحديدًا إلى معالجات الأحداث من خلال اشتقاق واجهات إضافية من`Event` التي تحتوي على معلومات تتعلق مباشرة بنوع الحدث المصاحب. يتم أيضًا تنفيذ هذه الواجهات المشتقة بواسطة الكائن الذي تم تمريره إلى مستمع الحدث.
+عادةً ما يتم تمرير كائن يُنفّذ `Event` كمعامل أول إلى معالج الحدث. يتم تمرير معلومات سياقية أكثر تحديدًا إلى معالجات الأحداث عن طريق اشتقاق واجهات إضافية من `Event` تحتوي على معلومات تتعلق مباشرةً بنوع الحدث المصاحب لها. تُنفّذ هذه الواجهات المشتقة أيضًا بواسطة الكائن الممرَّر إلى مستمع الحدث.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

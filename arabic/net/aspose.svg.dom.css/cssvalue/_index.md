@@ -1,14 +1,14 @@
 ---
-title: Class CSSValue
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.CSSValue فصل. يمثل قيمة بسيطة أو معقدة. لا يحدث كائن CSSValue إلا في سياق خاصية CSS.
+title: "الفئة CSSValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.Dom.Css.CSSValue. تمثل قيمة بسيطة أو مركبة. لا يظهر كائن CSSValue إلا في سياق خاصية CSS."
 type: docs
-weight: 490
+weight: 2490
 url: /ar/net/aspose.svg.dom.css/cssvalue/
 ---
 ## CSSValue class
 
-يمثل قيمة بسيطة أو معقدة. لا يحدث كائن CSSValue إلا في سياق خاصية CSS.
+يمثل قيمة بسيطة أو مركبة. لا يظهر كائن CSSValue إلا في سياق خاصية CSS.
 
 ```csharp
 public abstract class CSSValue : DOMObject
@@ -16,35 +16,33 @@ public abstract class CSSValue : DOMObject
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [CSSText](../../aspose.svg.dom.css/cssvalue/csstext/) { get; set; } | تمثيل سلسلة للقيمة الحالية. |
-| [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | كود يحدد نوع القيمة. |
+| abstract [CSSText](../../aspose.svg.dom.css/cssvalue/csstext/) { get; set; } | خاصية CSSText في واجهة `CSSValue` تمثل قيمة خاصية CSS المحسوبة الحالية. |
+| [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | رمز يحدد نوع القيمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(object) | تحديد ما إذا كان الملف المحددObject يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| override [GetPlatformType](../../aspose.svg.dom.css/cssvalue/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
-| [operator ==](../../aspose.svg.dom.css/cssvalue/op_equality/) | تنفيذ عامل التشغيل == . |
-| [operator !=](../../aspose.svg.dom.css/cssvalue/op_inequality/) | تنفذ عامل التشغيل! = . |
+| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(*object*) | يحدد ما إذا كان الكائن المحدد يساوي هذه النسخة. |
+| override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode/)() | يرجع رمز تجزئة (hash code) لهذه الحالة. |
+| override [GetPlatformType](../../aspose.svg.dom.css/cssvalue/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
+| [operator ==](../../aspose.svg.dom.css/cssvalue/op_equality/) | ينفّذ العامل ==. |
+| [operator !=](../../aspose.svg.dom.css/cssvalue/op_inequality/) | ينفّذ العامل !=. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [CSS_CUSTOM](../../aspose.svg.dom.css/cssvalue/css_custom/) | القيمة هي قيمة مخصصة . |
-| const [CSS_INHERIT](../../aspose.svg.dom.css/cssvalue/css_inherit/) | القيمة موروثة ويحتوي cssText على "ترث" . |
-| const [CSS_PRIMITIVE_VALUE](../../aspose.svg.dom.css/cssvalue/css_primitive_value/) | القيمة هي قيمة أولية ويمكن الحصول على مثيل لواجهة CSSPrimitiveValue باستخدام طرق الصب الخاصة بالربط في هذا المثيل لواجهة CSSValue. |
-| const [CSS_VALUE_LIST](../../aspose.svg.dom.css/cssvalue/css_value_list/) | القيمة هي قائمة CSSValue ويمكن الحصول على مثيل لواجهة CSSValueList باستخدام طرق الصب الخاصة بالربط على هذا المثيل لواجهة CSSValue. |
+| const [CSS_CUSTOM](../../aspose.svg.dom.css/cssvalue/css_custom/) | القيمة هي قيمة مخصصة. |
+| const [CSS_INHERIT](../../aspose.svg.dom.css/cssvalue/css_inherit/) | القيمة موروثة ويحتوي cssText على "inherit". |
+| const [CSS_PRIMITIVE_VALUE](../../aspose.svg.dom.css/cssvalue/css_primitive_value/) | القيمة هي قيمة بدائية ويمكن الحصول على نسخة من واجهة CSSPrimitiveValue باستخدام طرق التحويل الخاصة بالربط على هذه النسخة من واجهة CSSValue. |
+| const [CSS_VALUE_LIST](../../aspose.svg.dom.css/cssvalue/css_value_list/) | القيمة هي قائمة CSSValue ويمكن الحصول على مثيل من واجهة CSSValueList باستخدام طرق التحويل الخاصة بالربط على هذا المثيل من واجهة CSSValue. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

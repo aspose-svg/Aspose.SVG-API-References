@@ -1,9 +1,9 @@
 ---
-title: Class Unit
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.Unit فصل. يوفر الفئة الأساسية لوحدات القياس.
+title: "فئة Unit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Drawing.Unit. توفر الفئة الأساسية لوحدات القياس"
 type: docs
-weight: 1600
+weight: 3660
 url: /ar/net/aspose.svg.drawing/unit/
 ---
 ## Unit class
@@ -16,40 +16,38 @@ public abstract class Unit : IEquatable<Unit>
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة لملف`Unit` . |
+| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة للـ `Unit`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unit/equals/#equals_1)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
-| virtual [Equals](../../aspose.svg.drawing/unit/equals/#equals)(Unit) | تحديد ما إذا كان الملف المحدد`Unit` ، يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| override [ToString](../../aspose.svg.drawing/unit/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
-| static [FromCentimeters](../../aspose.svg.drawing/unit/fromcentimeters/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالسنتيمتر. |
-| static [FromDegrees](../../aspose.svg.drawing/unit/fromdegrees/)(double) | إرجاع أ[`Angle`](../angle/) الكائن الذي يتم تمثيله بالدرجات . |
-| static [FromDotsPerCentimeters](../../aspose.svg.drawing/unit/fromdotspercentimeters/)(double) | إرجاع أ[`Resolution`](../resolution/) الكائن الذي يتم تمثيله بالنقاط في السنتيمتر . |
-| static [FromDotsPerInch](../../aspose.svg.drawing/unit/fromdotsperinch/)(double) | إرجاع أ[`Resolution`](../resolution/) يتم تمثيله بالنقاط في البوصة . |
-| static [FromDotsPerPixel](../../aspose.svg.drawing/unit/fromdotsperpixel/)(double) | إرجاع أ[`Resolution`](../resolution/) يتم تمثيله بالنقاط لكل بكسل . |
-| static [FromGradians](../../aspose.svg.drawing/unit/fromgradians/)(double) | إرجاع أ[`Angle`](../angle/)الكائن الذي يتم تمثيله في Gradians . |
-| static [FromHertz](../../aspose.svg.drawing/unit/fromhertz/)(double) | إرجاع أ[`Frequency`](../frequency/) الكائن الذي يتم تمثيله بالهرتز . |
-| static [FromInches](../../aspose.svg.drawing/unit/frominches/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالبوصة . |
-| static [FromKiloHertz](../../aspose.svg.drawing/unit/fromkilohertz/)(double) | إرجاع أ[`Frequency`](../frequency/) الكائن الذي يتم تمثيله بالكيلو هرتز. |
-| static [FromMillimeters](../../aspose.svg.drawing/unit/frommillimeters/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالميليمترات . |
-| static [FromMilliseconds](../../aspose.svg.drawing/unit/frommilliseconds/)(double) | إرجاع أ[`Time`](../time/) الكائن الذي يتم تمثيله بالملي ثانية. |
-| static [FromPicas](../../aspose.svg.drawing/unit/frompicas/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله في البيكا . |
-| static [FromPixels](../../aspose.svg.drawing/unit/frompixels/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالبكسل . |
-| static [FromPoints](../../aspose.svg.drawing/unit/frompoints/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالنقاط . |
-| static [FromQuarterMillimeters](../../aspose.svg.drawing/unit/fromquartermillimeters/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بربع ملليمتر . |
-| static [FromRadians](../../aspose.svg.drawing/unit/fromradians/)(double) | إرجاع أ[`Angle`](../angle/) الكائن الذي يتم تمثيله بالتقدير الدائري. |
-| static [FromSeconds](../../aspose.svg.drawing/unit/fromseconds/)(double) | إرجاع أ[`Time`](../time/) الكائن الذي يتم تمثيله بالثواني. |
-| static [FromTurns](../../aspose.svg.drawing/unit/fromturns/)(double) | إرجاع أ[`Angle`](../angle/) الكائن الذي يتم تمثيله بالتناوب. |
+| override [Equals](../../aspose.svg.drawing/unit/equals/#equals_1)(*object*) | يحدد ما إذا كان الكائن المحدد مساويًا لهذه الحالة. |
+| virtual [Equals](../../aspose.svg.drawing/unit/equals/#equals)(*Unit*) | يحدد ما إذا كان `Unit` المحدد يساوي هذه الحالة. |
+| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | يرجع رمز تجزئة (hash code) لهذه الحالة. |
+| override [ToString](../../aspose.svg.drawing/unit/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
+| static [FromCentimeters](../../aspose.svg.drawing/unit/fromcentimeters/)(*double*) | يرجع كائن [`Length`](../length/) ممثل بالسنتيمترات. |
+| static [FromDegrees](../../aspose.svg.drawing/unit/fromdegrees/)(*double*) | يرجع كائن [`Angle`](../angle/) ممثل بالدرجات. |
+| static [FromDotsPerCentimeters](../../aspose.svg.drawing/unit/fromdotspercentimeters/)(*double*) | يرجع كائن [`Resolution`](../resolution/) ممثل بالنقاط لكل سنتيمتر. |
+| static [FromDotsPerInch](../../aspose.svg.drawing/unit/fromdotsperinch/)(*double*) | يرجع كائن [`Resolution`](../resolution/) ممثل بالنقاط لكل بوصة. |
+| static [FromDotsPerPixel](../../aspose.svg.drawing/unit/fromdotsperpixel/)(*double*) | يعيد كائن [`Resolution`](../resolution/) يتم تمثيله بنقاط لكل بكسل. |
+| static [FromGradians](../../aspose.svg.drawing/unit/fromgradians/)(*double*) | يعيد كائن [`Angle`](../angle/) يتم تمثيله بالجراديان. |
+| static [FromHertz](../../aspose.svg.drawing/unit/fromhertz/)(*double*) | يعيد كائن [`Frequency`](../frequency/) يتم تمثيله بالهرتز. |
+| static [FromInches](../../aspose.svg.drawing/unit/frominches/)(*double*) | يعيد كائن [`Length`](../length/) يتم تمثيله بالبوصات. |
+| static [FromKiloHertz](../../aspose.svg.drawing/unit/fromkilohertz/)(*double*) | يعيد كائن [`Frequency`](../frequency/) يتم تمثيله بالكيلو هرتز. |
+| static [FromMillimeters](../../aspose.svg.drawing/unit/frommillimeters/)(*double*) | يعيد كائن [`Length`](../length/) يتم تمثيله بالمليمترات. |
+| static [FromMilliseconds](../../aspose.svg.drawing/unit/frommilliseconds/)(*double*) | يعيد كائن [`Time`](../time/) يتم تمثيله بالمللي ثانية. |
+| static [FromPicas](../../aspose.svg.drawing/unit/frompicas/)(*double*) | يعيد كائن [`Length`](../length/) يتم تمثيله بالبيكات. |
+| static [FromPixels](../../aspose.svg.drawing/unit/frompixels/)(*double*) | يعيد كائن [`Length`](../length/) يتم تمثيله بالبكسلات. |
+| static [FromPoints](../../aspose.svg.drawing/unit/frompoints/)(*double*) | يعيد كائن [`Length`](../length/) يتم تمثيله بالنقاط. |
+| static [FromQuarterMillimeters](../../aspose.svg.drawing/unit/fromquartermillimeters/)(*double*) | يعيد كائن [`Length`](../length/) يتم تمثيله بالربع مليمتر. |
+| static [FromRadians](../../aspose.svg.drawing/unit/fromradians/)(*double*) | يعيد كائن [`Angle`](../angle/) يتم تمثيله بالراديان. |
+| static [FromSeconds](../../aspose.svg.drawing/unit/fromseconds/)(*double*) | يعيد كائن [`Time`](../time/) يتم تمثيله بالثواني. |
+| static [FromTurns](../../aspose.svg.drawing/unit/fromturns/)(*double*) | يعيد كائن [`Angle`](../angle/) يتم تمثيله بالدورات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

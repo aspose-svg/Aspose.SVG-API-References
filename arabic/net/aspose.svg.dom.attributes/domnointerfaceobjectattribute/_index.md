@@ -1,29 +1,33 @@
 ---
-title: Class DOMNoInterfaceObjectAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute فصل. إذا ظهرت السمة الموسعة NoInterfaceObject على واجهة  فإنها تشير إلى أن كائن الواجهة لن يكون موجودًا للواجهة في ربط ECMAScript.
+title: "فئة DOMNoInterfaceObjectAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute. إذا ظهرت السمة الموسعة NoInterfaceObject على واجهة، فإن ذلك يشير إلى عدم وجود كائن واجهة للواجهة في ربط ECMAScript"
 type: docs
-weight: 400
+weight: 2400
 url: /ar/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class
 
-إذا ظهرت السمة الموسعة [NoInterfaceObject] على واجهة ، فإنها تشير إلى أن كائن الواجهة لن يكون موجودًا للواجهة في ربط ECMAScript.
+إذا ظهر السمة الموسعة [NoInterfaceObject] على واجهة، فإن ذلك يشير إلى أن كائن الواجهة لن يكون موجودًا للواجهة في ربط ECMAScript.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNoInterfaceObjectAttribute : Attribute
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | Default_Constructor |
+| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | المنشئ الافتراضي. |
 
-### أنظر أيضا
+## الخصائص
 
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* المجسم [Aspose.SVG](../../)
+| الاسم | الوصف |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### انظر أيضًا
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

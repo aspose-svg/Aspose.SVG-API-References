@@ -1,32 +1,30 @@
 ---
-title: Angle.op_Equality
-second_title: Aspose.SVG لمرجع .NET API
-description: Angle طريقة. تنفيذ عامل التشغيل  .
+title: "Angle.op_Equality"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Angle op_Equality. تنفّذ العامل"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/angle/op_equality/
 ---
 ## Angle Equality operator
 
-تنفيذ عامل التشغيل == .
+ينفّذ العامل ==.
 
 ```csharp
 public static bool operator ==(Angle a, Angle b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Angle | المعلمة أ. |
-| b | Angle | المعلمة ب. |
+| a | Angle | المعامل a. |
+| b | Angle | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Angle](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../angle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.Buttons
-second_title: Aspose.SVG لمرجع .NET API
-description: MouseEvent ملكية. أثناء أي أحداث للماوس  يجب استخدام الأزرار للإشارة إلى مجموعة أزرار الماوس التي يتم الضغط عليها حاليًا  ويتم التعبير عنها كقناع بت.
+title: "MouseEvent.Buttons"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MouseEvent Buttons. أثناء أي أحداث الفأرة يجب استخدام buttons لتحديد أي تركيبة من أزرار الفأرة مضغوطة حاليًا، معبرًا عنها كقناع بت"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.events/mouseevent/buttons/
 ---
 ## MouseEvent.Buttons property
 
-أثناء أي أحداث للماوس ، يجب استخدام الأزرار للإشارة إلى مجموعة أزرار الماوس التي يتم الضغط عليها حاليًا ، ويتم التعبير عنها كقناع بت.
+أثناء أي أحداث للفأرة، يجب استخدام buttons للإشارة إلى أي تركيبة من أزرار الفأرة يتم ضغطها حالياً، معبرًا عنها كقناع بتات.
 
 ```csharp
 public ushort Buttons { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الأزرار .
+الأزرار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MouseEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../mouseevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

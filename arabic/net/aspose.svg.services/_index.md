@@ -1,23 +1,18 @@
 ---
-title: Aspose.Svg.Services
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف خدمات Aspose.Svg تحتوي مساحة الاسم على واجهات كبروتوكولات لتطبيقات الخدمة.
+title: "Aspose.Svg.Services"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تحتوي مساحة الأسماء Aspose.Svg.Services على واجهات كـ بروتوكولات لتنفيذ الخدمات."
 type: docs
-weight: 310
+weight: 340
 url: /ar/net/aspose.svg.services/
 ---
-ملف **خدمات Aspose.Svg** تحتوي مساحة الاسم على واجهات كبروتوكولات لتطبيقات الخدمة.
+تحتوي مساحة الاسم **Aspose.Svg.Services** على واجهات كبرتوكولات لتنفيذ الخدمات.
 
-## واجهات
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IDeviceInformationService](./ideviceinformationservice/) | واجهة يتم وصف البيئة فيها[`Document`](../aspose.svg.dom/document/) يتم تقديمه للمستخدم. |
-| [INetworkService](./inetworkservice/) | يوفر واجهة لعمليات الشبكة . |
-| [IRuntimeService](./iruntimeservice/) | تُستخدم هذه الخدمة لتكوين الخصائص ذات الصلة بوقت التشغيل. |
-| [IService](./iservice/) | يحدد واجهة أساسية لتنفيذ الخدمة. |
-| [IServiceContainer](./iservicecontainer/) | توفير حاوية للخدمات . |
-| [IServiceProvider](./iserviceprovider/) | يوفر حاوية ثابتة للخدمات. |
-| [IUserAgentService](./iuseragentservice/) | واجهة موصوفة بيئة وكيل المستخدم. |
-
-
+| [IDeviceInformationService](./ideviceinformationservice/) | واجهة تصف بيئة يتم فيها عرض [`Document`](../aspose.svg.dom/document/) للمستخدم. |
+| [INetworkService](./inetworkservice/) | يوفر واجهة لعمليات الشبكة. |
+| [IRuntimeService](./iruntimeservice/) | تُستخدم هذه الخدمة لتكوين الخصائص المتعلقة بوقت التشغيل. |
+| [IUserAgentService](./iuseragentservice/) | واجهة تصف بيئة وكيل المستخدم. |

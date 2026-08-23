@@ -1,14 +1,14 @@
 ---
-title: MultipartContent.GetEnumerator
-second_title: Aspose.SVG لمرجع .NET API
-description: MultipartContent طريقة. إرجاع عداد يتكرر خلال مجموعة.
+title: "MultipartContent.GetEnumerator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MultipartContent GetEnumerator. تُعيد كائن تعداد يتنقل عبر مجموعة."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.net/multipartcontent/getenumerator/
 ---
 ## MultipartContent.GetEnumerator method
 
-إرجاع عداد يتكرر خلال مجموعة.
+يرجع عدّادًا يتنقل عبر مجموعة.
 
 ```csharp
 public IEnumerator<Content> GetEnumerator()
@@ -16,13 +16,11 @@ public IEnumerator<Content> GetEnumerator()
 
 ### قيمة الإرجاع
 
-أنIEnumerator الكائن الذي يمكن استخدامه للتكرار من خلال المجموعة.
+كائن IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartcontent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

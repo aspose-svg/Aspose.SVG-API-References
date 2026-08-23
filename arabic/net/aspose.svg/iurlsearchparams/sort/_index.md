@@ -1,23 +1,21 @@
 ---
-title: IUrlSearchParams.Sort
-second_title: Aspose.SVG لمرجع .NET API
-description: IUrlSearchParams طريقة. يفرز جميع أزواج الاسم والقيمة  إن وجدت  حسب أسمائها.
+title: "IUrlSearchParams.Sort"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IUrlSearchParams Sort. ترتب جميع أزواج الاسم والقيمة إن وجدت حسب أسمائها."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/iurlsearchparams/sort/
 ---
 ## IUrlSearchParams.Sort method
 
-يفرز جميع أزواج الاسم والقيمة ، إن وجدت ، حسب أسمائها.
+يقوم بترتيب جميع أزواج اسم-قيمة، إن وجدت، حسب أسمائها.
 
 ```csharp
 public void Sort()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUrlSearchParams](../)
-* مساحة الاسم [Aspose.Svg](../../iurlsearchparams/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

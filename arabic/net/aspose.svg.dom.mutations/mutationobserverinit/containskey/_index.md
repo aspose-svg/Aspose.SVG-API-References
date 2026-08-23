@@ -1,31 +1,29 @@
 ---
-title: MutationObserverInit.ContainsKey
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserverInit طريقة. يحدد ما إذا كان ملفMutationObserverInit تحتوي المجموعة على مفتاح محدد.
+title: "MutationObserverInit.ContainsKey"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MutationObserverInit ContainsKey. تحدد ما إذا كانت مجموعة MutationObserverInit تحتوي على مفتاح محدد"
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/containskey/
 ---
 ## MutationObserverInit.ContainsKey method
 
-يحدد ما إذا كان ملف[`MutationObserverInit`](../) تحتوي المجموعة على مفتاح محدد.
+تحدد ما إذا كانت مجموعة [`MutationObserverInit`](../) تحتوي على مفتاح محدد.
 
 ```csharp
 public bool ContainsKey(string key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح التحقق. |
+| المفتاح | String | المفتاح للتحقق منه. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان[`MutationObserverInit`](../) تحتوي على مفتاح محدد ؛ خلاف ذلك ، خطأ.
+صحيح إذا كانت [`MutationObserverInit`](../) تحتوي على مفتاح محدد؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

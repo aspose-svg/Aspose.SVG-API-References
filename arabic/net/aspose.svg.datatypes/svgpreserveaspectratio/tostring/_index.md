@@ -1,14 +1,14 @@
 ---
-title: SVGPreserveAspectRatio.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPreserveAspectRatio طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "SVGPreserveAspectRatio.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGPreserveAspectRatio ToString. تُرجع String تمثل هذه الحالة"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.datatypes/svgpreserveaspectratio/tostring/
 ---
 ## SVGPreserveAspectRatio.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPreserveAspectRatio](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

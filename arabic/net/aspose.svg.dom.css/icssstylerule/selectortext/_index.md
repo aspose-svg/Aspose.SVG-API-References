@@ -1,23 +1,21 @@
 ---
-title: ICSSStyleRule.SelectorText
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleRule ملكية. التمثيل النصي للمحدد لمجموعة القواعد. قد يكون التطبيق قد جرد المسافات البيضاء غير المهمة أثناء تحليل المحدد.
+title: "ICSSStyleRule.SelectorText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSSStyleRule SelectorText. التمثيل النصي للمحدد لمجموعة القواعد. قد تكون التنفيذ قد أزال الفراغات غير المهمة أثناء تحليل المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icssstylerule/selectortext/
 ---
 ## ICSSStyleRule.SelectorText property
 
-التمثيل النصي للمحدد لمجموعة القواعد. قد يكون التطبيق قد جرد المسافات البيضاء غير المهمة أثناء تحليل المحدد.
+التمثيل النصي للمحدد الخاص بمجموعة القواعد. قد تكون التنفيذ قد أزال الفراغات غير المهمة أثناء تحليل المحدد.
 
 ```csharp
 public string SelectorText { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstylerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: SVGOptimizationOptions.PathOptimizationOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. يحصل على الخيار أو يحددهSVGPathOptimizationOptions . إذا كان هذا الخيار فارغًا  فلن يتم تنفيذ تحسين عنصر المسار.
+title: "SVGOptimizationOptions.PathOptimizationOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGOptimizationOptions PathOptimizationOptions. يحصل أو يضبط الخيار SVGPathOptimizationOptions. إذا كان هذا الخيار null فلن يتم تنفيذ تحسين عناصر المسار"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/
 ---
 ## SVGOptimizationOptions.PathOptimizationOptions property
 
-يحصل على الخيار أو يحدده[`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/) . إذا كان هذا الخيار فارغًا ، فلن يتم تنفيذ تحسين عنصر المسار.
+يحصل أو يضبط الخيار [`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/). إذا كان هذا الخيار null، فلن يتم تنفيذ تحسين عناصر المسار.
 
 ```csharp
 public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathOptimizationOptions](../../svgpathoptimizationoptions/)
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGViewElement.ViewTarget
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGViewElement ملكية. يتوافق مع السمة viewTarget في عنصر العرض المحدد. قائمة بقيم DOMString التي تحتوي على الأسماء المدرجة في السمة viewTarget. يمكن ربط كل من قيم سلسلة DOM بالعنصر المقابل باستخدام استدعاء أسلوب getElementById .
+title: "SVGViewElement.ViewTarget"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGViewElement ViewTarget. تتطابق مع السمة viewTarget في عنصر العرض المحدد. قائمة من قيم DOMString التي تحتوي على الأسماء المذكورة في سمة viewTarget. يمكن ربط كل قيمة من قيم DOMString بالعنصر المقابل باستخدام استدعاء الطريقة getElementById."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgviewelement/viewtarget/
 ---
 ## SVGViewElement.ViewTarget property
 
-يتوافق مع السمة "viewTarget" في عنصر "العرض" المحدد. قائمة بقيم DOMString التي تحتوي على الأسماء المدرجة في السمة "viewTarget". يمكن ربط كل من قيم سلسلة DOM بالعنصر المقابل باستخدام استدعاء أسلوب getElementById ().
+يتطابق مع السمة ‘viewTarget’ على العنصر ‘view’ المحدد. قائمة من قيم DOMString التي تحتوي على الأسماء المذكورة في سمة ‘viewTarget’. يمكن ربط كل قيمة من قيم DOMString بالعنصر المقابل باستخدام استدعاء الطريقة getElementById().
 
 ```csharp
 public SVGStringList ViewTarget { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "viewTarget" لعنصر "view" المحدد.
+السمة ‘viewTarget’ للعنصر ‘view’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGViewElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgviewelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGLinearGradientElement.X2
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLinearGradientElement ملكية. يتوافق مع السمة x2 على عنصر linearGradient المحدد .
+title: "SVGLinearGradientElement.X2"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية X2 لعنصر SVGLinearGradientElement. تتطابق مع السمة x2 على عنصر linearGradient المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svglineargradientelement/x2/
 ---
 ## SVGLinearGradientElement.X2 property
 
-يتوافق مع السمة "x2" على عنصر "linearGradient" المحدد .
+يتطابق مع السمة ‘x2’ على العنصر ‘linearGradient’ المحدد.
 
 ```csharp
 public SVGAnimatedLength X2 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "x2" لعنصر "linearGradient" المحدد .
+السمة ‘x2’ للعنصر ‘linearGradient’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svglineargradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

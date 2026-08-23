@@ -1,39 +1,37 @@
 ---
-title: Class XpsSaveOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Saving.XpsSaveOptions فصل. فئة بيانات الخيارات المحددة .
+title: "فئة XpsSaveOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Saving.XpsSaveOptions. فئة بيانات الخيارات المحددة"
 type: docs
-weight: 3700
+weight: 5830
 url: /ar/net/aspose.svg.saving/xpssaveoptions/
 ---
 ## XpsSaveOptions class
 
-فئة بيانات الخيارات المحددة .
+فئة بيانات الخيارات المحددة.
 
 ```csharp
 public class XpsSaveOptions : XpsRenderingOptions
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XpsSaveOptions](xpssaveoptions/)() | Default_Constructor |
+| [XpsSaveOptions](xpssaveoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | يحصل أو يحددColor والتي تملأ خلفية كل صفحة. القيمة الافتراضية هيTransparent . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | يحصل على أ[`CssOptions`](../../aspose.svg.rendering/cssoptions/) الكائن المستخدم لتكوين معالجة خصائص css. |
-| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution/) { get; set; } | يضبط أو يحصل على الدقة الأفقية للصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | الحصول على كائن إعداد الصفحة يستخدم لمجموعة صفحة إخراج التكوين. |
-| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution/) { get; set; } | لتعيين الدقة الرأسية للصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) أو الحصول عليها ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | يحصل أو يضبط اللون الذي سيملأ خلفية كل صفحة. القيمة الافتراضية هي شفافة. |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | يحصل على كائن [`CssOptions`](../../aspose.svg.rendering/cssoptions/) يُستخدم لتكوين معالجة خصائص CSS. |
+| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution/) { get; set; } | يضبط أو يحصل على الدقة الأفقية للصور الداخلية (المستخدمة أثناء معالجة الفلاتر)، بوحدة بكسل لكل بوصة. القيمة الافتراضية لهذا الخاصية هي 300 نقطة في البوصة. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | يحصل على كائن إعداد الصفحة يُستخدم لتكوين مجموعة صفحات الإخراج. |
+| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution/) { get; set; } | يضبط أو يحصل على الدقة العمودية للصور الداخلية (المستخدمة أثناء معالجة الفلاتر)، بوحدة بكسل لكل بوصة. القيمة الافتراضية لهذا الخاصية هي 300 نقطة في البوصة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XpsRenderingOptions](../../aspose.svg.rendering.xps/xpsrenderingoptions/)
-* مساحة الاسم [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

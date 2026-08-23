@@ -1,44 +1,42 @@
 ---
-title: LengthOrAuto.LengthOrAuto
-second_title: Aspose.SVG لمرجع .NET API
-description: LengthOrAuto البناء. يقوم بتهيئة مثيل جديد لملفLengthOrAuto فئة وتعيين الحالة على تلقائي .
+title: "LengthOrAuto"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ LengthOrAuto. يهيئ مثيلًا جديدًا من الفئة LengthOrAuto ويضبط الحالة إلى التلقائي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LengthOrAuto`](../) فئة وتعيين الحالة على "تلقائي" .
+يهيئ مثيلًا جديدًا من الفئة [`LengthOrAuto`](../) ويضبط الحالة إلى 'auto'.
 
 ```csharp
 public LengthOrAuto()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthOrAuto](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../lengthorauto/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## LengthOrAuto(Length) {#constructor_1}
+## LengthOrAuto(*[Length](../../length/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LengthOrAuto`](../)فئة وتعيين الحالة على "طول" .
+يُنشئ مثيلاً جديدًا للفئة [`LengthOrAuto`](../) ويضبط الحالة على 'lenght'.
 
 ```csharp
 public LengthOrAuto(Length length)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| length | Length | الطول. |
+| الطول | Length | الطول. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../lengthorauto/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

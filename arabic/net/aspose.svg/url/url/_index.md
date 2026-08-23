@@ -1,60 +1,58 @@
 ---
-title: Url.Url
-second_title: Aspose.SVG لمرجع .NET API
-description: Url البناء. يقوم بتهيئة مثيل جديد لملفUrl مع عنوان URL المحدد.
+title: "عنوان URL"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ Url. يهيئ نسخة جديدة من Url باستخدام عنوان URL المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/url/url/
 ---
-## Url(string) {#constructor}
+## Url(*string*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Url`](../) مع عنوان URL المحدد.
+يُهيئ نسخة جديدة من [`Url`](../) باستخدام عنوان URL المحدد.
 
 ```csharp
 public Url(string url)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| url | String | عنوان URL المطلوب معالجته. |
+| url | String | عنوان URL للمعالجة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| Error | TypeError: رفع إذا`عنوان url` لا يمكن تحليله كعنوان URL صالح. |
+| خطأ | TypeError: يُرفع إذا تعذر تحليل `url` كعنوان URL صالح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Url(string, string) {#constructor_1}
+## Url(*string, string*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Url`](../) باستخدام URL المحدد وعنوان URL الأساسي .
+يُنشئ مثيلاً جديدًا من [`Url`](../) باستخدام عنوان URL المحدد وعنوان URL الأساسي.
 
 ```csharp
 public Url(string url, string baseUrl)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| url | String | عنوان URL المطلوب معالجته. |
+| url | String | عنوان URL للمعالجة. |
 | baseUrl | String | عنوان URL الأساسي. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| Error | TypeError: رفع إذا`عنوان url` أو`قاعدة` لا يمكن تحليله كعنوان URL صالح. |
+| خطأ | TypeError: يُرفع إذا تعذر تحليل `url` أو `baseUrl` كعنوان URL صالح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Result
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEGaussianBlurElement ملكية. يتوافق مع السمة النتيجة على عنصر التصفية المحدد .
+title: "SVGFEGaussianBlurElement.Result"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEGaussianBlurElement Result. تتطابق مع الخاصية result في عنصر filter المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.filters/svgfegaussianblurelement/result/
 ---
 ## SVGFEGaussianBlurElement.Result property
 
-يتوافق مع السمة �النتيجة على عنصر التصفية� المحدد .
+يتطابق مع السمة ‘result’ في العنصر ‘filter’ المعطى.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "نتيجة" لعنصر "عامل التصفية" المحدد .
+الخاصية �result� لعنصر �filter� المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEGaussianBlurElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

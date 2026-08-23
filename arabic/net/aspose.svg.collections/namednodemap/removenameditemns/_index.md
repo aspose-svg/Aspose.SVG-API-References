@@ -1,33 +1,31 @@
 ---
-title: NamedNodeMap.RemoveNamedItemNS
-second_title: Aspose.SVG لمرجع .NET API
-description: NamedNodeMap طريقة. يزيل عقدة محددة بواسطة الاسم المحلي ومساحة URI.
+title: "NamedNodeMap.RemoveNamedItemNS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة RemoveNamedItemNS في NamedNodeMap. تزيل عقدة محددة بالاسم المحلي وURI مساحة الاسم"
 type: docs
-weight: 70
+weight: 60
 url: /ar/net/aspose.svg.collections/namednodemap/removenameditemns/
 ---
 ## NamedNodeMap.RemoveNamedItemNS method
 
-يزيل عقدة محددة بواسطة الاسم المحلي ومساحة URI.
+يزيل عقدة محددة بالاسم المحلي وURI مساحة الاسم.
 
 ```csharp
 public Attr RemoveNamedItemNS(string namespaceURI, string localName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceURI | String | مساحة الاسم URI. |
+| namespaceURI | String | معرف namespace URI. |
 | localName | String | اسم المحلي. |
 
 ### قيمة الإرجاع
 
-إرجاع العقدة.
+يرجع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../namednodemap/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

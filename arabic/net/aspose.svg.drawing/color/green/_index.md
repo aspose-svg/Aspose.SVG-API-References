@@ -1,23 +1,21 @@
 ---
-title: Color.Green
-second_title: Aspose.SVG لمرجع .NET API
-description: Color ملكية. يمثل المكون الأخضر للون.
+title: "Color.Green"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Color Green. تمثل مكوّن الأخضر في اللون."
 type: docs
 weight: 260
 url: /ar/net/aspose.svg.drawing/color/green/
 ---
 ## Color.Green property
 
-يمثل المكون الأخضر للون.
+يمثل المكوّن الأخضر للون.
 
 ```csharp
 public float Green { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

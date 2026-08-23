@@ -1,34 +1,32 @@
 ---
-title: Class DOMObject
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.DOMObject فصل. يُستخدم نوع DOMObject لتمثيل كائن أساسي لنموذج كائن المستند بالكامل. بالنسبة إلى Java و ECMAScript  يرتبط DOMObject بنوع الكائن.
+title: "فئة DOMObject"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Dom.DOMObject. يُستخدم نوع DOMObject لتمثيل كائن أساسي لكامل نموذج كائن المستند (Document Object Model). بالنسبة لـ Java و ECMAScript، يتم ربط DOMObject بنوع Object."
 type: docs
-weight: 800
+weight: 2800
 url: /ar/net/aspose.svg.dom/domobject/
 ---
 ## DOMObject class
 
-يُستخدم نوع DOMObject لتمثيل كائن أساسي لنموذج كائن المستند بالكامل. بالنسبة إلى Java و ECMAScript ، يرتبط DOMObject بنوع الكائن.
+نوع DOMObject يُستخدم لتمثيل كائن أساسي لكامل نموذج كائن المستند. بالنسبة لـ Java و ECMAScript، يتم ربط DOMObject بنوع Object.
 
 ```csharp
 public class DOMObject : INotifyPropertyChanged
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DOMObject](domobject/)() | Default_Constructor |
+| [DOMObject](domobject/)() | المنشئ الافتراضي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

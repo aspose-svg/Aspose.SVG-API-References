@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.Target
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationRecord ملكية. تُرجع العقدة التي تأثرت بها الطفرة  اعتمادًا على النوع. بالنسبة إلى السمات  هو العنصر الذي تغيرت صفته. بالنسبة لـ CharacterData  فهي عقدة CharacterData. بالنسبة إلى قائمة الأطفال  فإن العقدة هي التي تغيرت عناصرها الفرعية.
+title: "MutationRecord.Target"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationRecord Target. تُرجع العقدة التي تأثرت بالتعديل حسب النوع. بالنسبة للسمات تكون العنصر الذي تغيرت سمة فيه. بالنسبة للبيانات الحرفية تكون عقدة CharacterData. بالنسبة لقائمة الأطفال تكون العقدة التي تغير أطفالها."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.mutations/mutationrecord/target/
 ---
 ## MutationRecord.Target property
 
-تُرجع العقدة التي تأثرت بها الطفرة ، اعتمادًا على النوع. بالنسبة إلى "السمات" ، هو العنصر الذي تغيرت صفته. بالنسبة لـ "CharacterData" ، فهي عقدة CharacterData. بالنسبة إلى "قائمة الأطفال" ، فإن العقدة هي التي تغيرت عناصرها الفرعية.
+يرجع العقدة التي أثَّر عليها التعديل، حسب النوع. بالنسبة لـ "attributes"، تكون العنصر الذي تغيرت خاصيته. بالنسبة لـ "characterData"، تكون عقدة CharacterData. بالنسبة لـ "childList"، تكون العقدة التي تغير أطفالها.
 
 ```csharp
 public Node Target { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الهدف .
+الهدف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

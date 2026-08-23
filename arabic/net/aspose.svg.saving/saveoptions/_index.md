@@ -1,9 +1,9 @@
 ---
-title: Class SaveOptions
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Saving.SaveOptions فصل. هذه فئة أساسية مجردة للفئات التي تسمح للمستخدم بتحديد خيارات إضافية عند حفظ مستند بتنسيق معين.
+title: "فئة SaveOptions"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Saving.SaveOptions. هذه فئة أساسية مجردة للفئات التي تسمح للمستخدم بتحديد خيارات إضافية عند حفظ مستند بتنسيق معين"
 type: docs
-weight: 3680
+weight: 5810
 url: /ar/net/aspose.svg.saving/saveoptions/
 ---
 ## SaveOptions class
@@ -16,13 +16,11 @@ public abstract class SaveOptions
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | يحصل على أ[`ResourceHandlingOptions`](../resourcehandlingoptions/) الكائن المستخدم لتكوين معالجة الموارد. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | يحصل على كائن [`ResourceHandlingOptions`](../resourcehandlingoptions/) يُستخدم لتكوين معالجة الموارد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: DOMException.INUSE_ATTRIBUTE_ERR
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException مجال. إذا جرت محاولة لإضافة سمة مستخدمة بالفعل في مكان آخر.
+title: "DOMException.INUSE_ATTRIBUTE_ERR"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل DOMException INUSE_ATTRIBUTE_ERR. إذا تم محاولة إضافة سمة مستخدمة بالفعل في مكان آخر"
 type: docs
 weight: 100
 url: /ar/net/aspose.svg.dom/domexception/inuse_attribute_err/
 ---
 ## DOMException.INUSE_ATTRIBUTE_ERR field
 
-إذا جرت محاولة لإضافة سمة مستخدمة بالفعل في مكان آخر.
+إذا تم محاولة إضافة سمة مستخدمة بالفعل في مكان آخر.
 
 ```csharp
 public const ushort INUSE_ATTRIBUTE_ERR;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

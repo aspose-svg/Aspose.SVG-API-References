@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_LINETO_ABS
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg مجال. يتوافق مع أمر بيانات المسار الخط المطلق L.
+title: "SVGPathSeg.PATHSEG_LINETO_ABS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGPathSeg PATHSEG_LINETO_ABS. يتطابق مع أمر بيانات مسار lineto L مطلق"
 type: docs
 weight: 140
 url: /ar/net/aspose.svg.paths/svgpathseg/pathseg_lineto_abs/
 ---
 ## SVGPathSeg.PATHSEG_LINETO_ABS field
 
-يتوافق مع أمر بيانات المسار "الخط المطلق" (L).
+يتطابق مع أمر بيانات مسار "lineto" المطلق (L).
 
 ```csharp
 public const ushort PATHSEG_LINETO_ABS;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

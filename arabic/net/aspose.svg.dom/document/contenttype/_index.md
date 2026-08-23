@@ -1,27 +1,25 @@
 ---
-title: Document.ContentType
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. الحصول على نوع محتوى المستند.
+title: "Document.ContentType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document ContentType. يحصل على نوع محتوى المستند"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom/document/contenttype/
 ---
 ## Document.ContentType property
 
-الحصول على نوع محتوى المستند.
+يحصل على نوع محتوى المستند.
 
 ```csharp
 public string ContentType { get; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع المحتوى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

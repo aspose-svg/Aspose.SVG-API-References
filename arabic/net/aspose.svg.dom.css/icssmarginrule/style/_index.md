@@ -1,24 +1,22 @@
 ---
-title: ICSSMarginRule.Style
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSMarginRule ملكية. كتلة الإعلان عن هذه القاعدة .
+title: "ICSSMarginRule.Style"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية النمط لـ ICSSMarginRule. كتلة الإعلان لهذه القاعدة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/icssmarginrule/style/
 ---
 ## ICSSMarginRule.Style property
 
-كتلة الإعلان عن هذه القاعدة .
+كتلة التصريح لهذه القاعدة.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSMarginRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssmarginrule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

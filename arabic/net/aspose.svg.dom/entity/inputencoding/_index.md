@@ -1,27 +1,25 @@
 ---
-title: Entity.InputEncoding
-second_title: Aspose.SVG لمرجع .NET API
-description: Entity ملكية. سمة تحدد الترميز المستخدم لهذا الكيان في وقت التحليل  عندما يكون كيانًا خارجيًا محللًا. يعد هذا فارغًا إذا كان كيانًا من مجموعة فرعية داخلية أو إذا كان غير معروف.
+title: "Entity.InputEncoding"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية InputEncoding في Entity. سمة تحدد الترميز المستخدم لهذا الكيان عند التحليل عندما يكون كيانًا مُحللاً خارجيًا. تكون القيمة null إذا كان الكيان من المجموعة الداخلية أو إذا لم يكن معروفًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/entity/inputencoding/
 ---
 ## Entity.InputEncoding property
 
-سمة تحدد الترميز المستخدم لهذا الكيان في وقت التحليل ، عندما يكون كيانًا خارجيًا محللًا. يعد هذا فارغًا إذا كان كيانًا من مجموعة فرعية داخلية أو إذا كان غير معروف.
+خاصية تحدد الترميز المستخدم لهذا الكيان عند التحليل، عندما يكون كيانًا خارجيًا مُحللاً. تكون القيمة null إذا كان الكيان من المجموعة الداخلية أو إذا لم يكن معروفًا.
 
 ```csharp
 public string InputEncoding { get; }
 ```
 
-### Property_Value
+### Property Value
 
 ترميز الإدخال.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Entity](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../entity/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

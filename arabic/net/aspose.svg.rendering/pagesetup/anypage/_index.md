@@ -1,28 +1,26 @@
 ---
-title: PageSetup.AnyPage
-second_title: Aspose.SVG لمرجع .NET API
-description: PageSetup ملكية. الحصول على أو تعيين كافة تهيئة الصفحات في تسلسل الصفحات.
+title: "PageSetup.AnyPage"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PageSetup AnyPage. الحصول أو تعيين تكوين جميع الصفحات في تسلسل الصفحات"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering/pagesetup/anypage/
 ---
 ## PageSetup.AnyPage property
 
-الحصول على أو تعيين كافة تهيئة الصفحات في تسلسل الصفحات.
+يحصل أو يضبط تكوين جميع الصفحات في تسلسل الصفحات.
 
 ```csharp
 public Page AnyPage { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أي صفحة .
+أي صفحة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../pagesetup/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

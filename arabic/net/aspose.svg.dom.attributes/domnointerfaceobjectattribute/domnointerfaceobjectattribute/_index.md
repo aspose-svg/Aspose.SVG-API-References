@@ -1,23 +1,21 @@
 ---
-title: DOMNoInterfaceObjectAttribute.DOMNoInterfaceObjectAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMNoInterfaceObjectAttribute البناء. Default_Constructor
+title: "DOMNoInterfaceObjectAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMNoInterfaceObjectAttribute المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public DOMNoInterfaceObjectAttribute()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMNoInterfaceObjectAttribute](../)
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../domnointerfaceobjectattribute/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

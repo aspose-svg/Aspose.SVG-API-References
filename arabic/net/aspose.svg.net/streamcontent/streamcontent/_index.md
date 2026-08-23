@@ -1,27 +1,25 @@
 ---
-title: StreamContent.StreamContent
-second_title: Aspose.SVG لمرجع .NET API
-description: StreamContent البناء. يقوم بتهيئة مثيل جديد لملفStreamContent فئة .
+title: "StreamContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ StreamContent. يقوم بتهيئة نسخة جديدة من الفئة StreamContent."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/streamcontent/streamcontent/
 ---
 ## StreamContent constructor
 
-يقوم بتهيئة مثيل جديد لملف[`StreamContent`](../) فئة .
+يقوم بتهيئة نسخة جديدة من الفئة [`StreamContent`](../).
 
 ```csharp
 public StreamContent(Stream content)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | content | Stream | المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../streamcontent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

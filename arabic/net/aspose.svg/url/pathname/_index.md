@@ -1,27 +1,25 @@
 ---
-title: Url.Pathname
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. الحصول على تمثيل سلسلة لمسار URL المحدد أو تعيينه.
+title: "Url.Pathname"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Pathname. تحصل أو تعين تمثيلًا نصيًا للمسار المحدد في URL."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg/url/pathname/
 ---
 ## Url.Pathname property
 
-الحصول على تمثيل سلسلة لمسار URL المحدد أو تعيينه.
+يحصل أو يضبط تمثيلًا نصيًا لمسار URL المحدد.
 
 ```csharp
 public string Pathname { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم المسار .
+اسم المسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

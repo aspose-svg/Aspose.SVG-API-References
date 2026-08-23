@@ -1,9 +1,9 @@
 ---
-title: Interface INetworkOperationContext
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Net.INetworkOperationContext واجهه المستخدم. يوفر معلومات سياقية لخدمات الشبكة.
+title: "واجهة INetworkOperationContext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الواجهة Aspose.Svg.Net.INetworkOperationContext. توفر معلومات سياقية لخدمات الشبكة."
 type: docs
-weight: 2310
+weight: 4380
 url: /ar/net/aspose.svg.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface
@@ -16,14 +16,12 @@ public interface INetworkOperationContext
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | الحصول على رسالة الطلب أو تعيينها . |
-| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | الحصول على رسالة الاستجابة أو تعيينها . |
+| [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | يحصل أو يضبط رسالة الطلب. |
+| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | يحصل أو يضبط رسالة الاستجابة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Net](../../aspose.svg.net/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

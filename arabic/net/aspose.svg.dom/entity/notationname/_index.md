@@ -1,27 +1,25 @@
 ---
-title: Entity.NotationName
-second_title: Aspose.SVG لمرجع .NET API
-description: Entity ملكية. بالنسبة للكيانات التي لم يتم تحليلها  اسم الترميز الخاص بالكيان. بالنسبة للكيانات التي تم تحليلها  يعد هذا فارغًا .
+title: "Entity.NotationName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية NotationName في Entity. بالنسبة للكيانات غير المُحللة، اسم الترميز للكيان. بالنسبة للكيانات المُحللة تكون القيمة null"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/entity/notationname/
 ---
 ## Entity.NotationName property
 
-بالنسبة للكيانات التي لم يتم تحليلها ، اسم الترميز الخاص بالكيان. بالنسبة للكيانات التي تم تحليلها ، يعد هذا فارغًا .
+بالنسبة للكيانات غير المحللة، اسم الترميز للكيان. بالنسبة للكيانات المحللة، تكون القيمة null.
 
 ```csharp
 public string NotationName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم التدوين .
+اسم الترميز.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Entity](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../entity/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

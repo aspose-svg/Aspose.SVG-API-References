@@ -1,31 +1,29 @@
 ---
-title: ImageTraceSimplifier.Simplify
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageTraceSimplifier طريقة. يقلل من عدد النقاط بقائمة نقاط التتبع.
+title: "ImageTraceSimplifier.Simplify"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة ImageTraceSimplifier Simplify. تقلل عدد النقاط في قائمة نقاط الأثر."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.imagevectorization/imagetracesimplifier/simplify/
 ---
 ## ImageTraceSimplifier.Simplify method
 
-يقلل من عدد النقاط بقائمة نقاط التتبع.
+يقلل عدد النقاط في قائمة نقاط التتبع.
 
 ```csharp
 public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| trace | IEnumerable`1 | قائمة نقاط التتبع. |
+| الأثر | IEnumerable`1 | قائمة نقاط الأثر. |
 
 ### قيمة الإرجاع
 
-قائمة نقاط التتبع المخفضة.
+قائمة نقاط الأثر المخفضة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageTraceSimplifier](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

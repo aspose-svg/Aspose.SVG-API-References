@@ -1,27 +1,25 @@
 ---
-title: Text.WholeText
-second_title: Aspose.SVG لمرجع .NET API
-description: Text ملكية. إرجاع كل نص العقد النصية المتجاورة منطقيًا إلى هذه العقدة  متسلسلة بترتيب المستند.
+title: "Text.WholeText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Text WholeText. تُرجع كل نص عقد Text المتجاورة منطقياً لهذه العقدة مدموجًا بترتيب المستند."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom/text/wholetext/
 ---
 ## Text.WholeText property
 
-إرجاع كل نص العقد النصية المتجاورة منطقيًا إلى هذه العقدة ، متسلسلة بترتيب المستند.
+يعيد كل النصوص لعقد Text والعقد النصية المجاورة منطقياً لهذه العقدة، مدمجة بترتيب المستند.
 
 ```csharp
 public string WholeText { get; }
 ```
 
-### Property_Value
+### Property Value
 
-النص بأكمله.
+النص الكامل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Text](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../text/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

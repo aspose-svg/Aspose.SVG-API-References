@@ -1,43 +1,41 @@
 ---
-title: MultipartFormDataContent.MultipartFormDataContent
-second_title: Aspose.SVG لمرجع .NET API
-description: MultipartFormDataContent البناء. يقوم بتهيئة مثيل جديد لملفMultipartFormDataContent فئة .
+title: "MultipartFormDataContent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ MultipartFormDataContent. يهيئ نسخة جديدة من الفئة MultipartFormDataContent."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/multipartformdatacontent/multipartformdatacontent/
 ---
 ## MultipartFormDataContent() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`MultipartFormDataContent`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`MultipartFormDataContent`](../).
 
 ```csharp
 public MultipartFormDataContent()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultipartFormDataContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartformdatacontent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartFormDataContent(string) {#constructor_1}
+## MultipartFormDataContent(*string*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`MultipartFormDataContent`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`MultipartFormDataContent`](../).
 
 ```csharp
 public MultipartFormDataContent(string boundary)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| boundary | String | الحدود. |
+| boundary | String | الحد الفاصل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultipartFormDataContent](../)
-* مساحة الاسم [Aspose.Svg.Net](../../multipartformdatacontent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

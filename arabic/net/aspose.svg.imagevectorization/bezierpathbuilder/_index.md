@@ -1,43 +1,41 @@
 ---
-title: Class BezierPathBuilder
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.BezierPathBuilder فصل. ملفSplinePathBuilder الطبقة هي المسؤولة عن بناء مقاطع المسارSVGPathSeg من قائمة نقاط التتبع . يعتمد منشئ المسار هذا على استخدام طريقة المربعات الصغرى للعثور على نقاط تحكم بيزير لتتبع النقاط.
+title: "فئة BezierPathBuilder"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.ImageVectorization.BezierPathBuilder. فئة BezierPathBuilder مسؤولة عن إنشاء مسار Bezier من مجموعة نقاط معينة. تقرّب الأثر من النقاط باستخدام منحنى Bezier مع تحسين عدد القطاعات لتطابق الأثر الأصلي بدقة مع تقليل التعقيد."
 type: docs
-weight: 2080
+weight: 4150
 url: /ar/net/aspose.svg.imagevectorization/bezierpathbuilder/
 ---
 ## BezierPathBuilder class
 
-ملف[`SplinePathBuilder`](../splinepathbuilder/) الطبقة هي المسؤولة عن بناء مقاطع المسار[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) من قائمة نقاط التتبع . يعتمد منشئ المسار هذا على استخدام طريقة المربعات الصغرى للعثور على نقاط تحكم بيزير لتتبع النقاط.
+الفئة `BezierPathBuilder` مسؤولة عن إنشاء مسار بيزيير من مجموعة نقاط معينة. إنها تقرب تتبع النقاط بمنحنى بيزيير، مع تحسين عدد القطاعات لتطابق التتبع الأصلي عن كثب مع تقليل التعقيد.
 
 ```csharp
 public class BezierPathBuilder : IPathBuilder
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BezierPathBuilder](bezierpathbuilder/)() | يقوم بتهيئة مثيل جديد لملف`BezierPathBuilder` فئة . |
+| [BezierPathBuilder](bezierpathbuilder/)() | ينشئ مثيلاً جديداً للفئة `BezierPathBuilder`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ErrorThreshold](../../aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/) { get; set; } | الحصول على أو تعيين حد الخطأ . تحدد هذه المعلمة أقصى انحراف للنقاط إلى المنحنى المناسب. بشكل افتراضي 30. |
-| [MaxIterations](../../aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/) { get; set; } | الحصول على أو تعيين حد الخطأ . تحدد هذه المعلمة عدد التكرار لطريقة تقريب المربعات الصغرى. بشكل افتراضي 30. |
-| [TraceSmoother](../../aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/) { get; set; } | الحصول على التتبع أو تعيينه بشكل أكثر سلاسة. |
+| [ErrorThreshold](../../aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/) { get; set; } | يحصل أو يضبط عتبة الخطأ. هذا المعامل يحدد الحد الأقصى لانحراف النقاط عن المنحنى الملائم. بشكل افتراضي قيمته 30. |
+| [MaxIterations](../../aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/) { get; set; } | يحصل أو يضبط عتبة الخطأ. هذا المعامل يحدد عدد التكرارات لطريقة تقريب المربعات الصغرى. بشكل افتراضي قيمته 30. |
+| [TraceSmoother](../../aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/) { get; set; } | يحصل أو يعيّن مملّس الأثر. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | ينشئ مقاطع مسار من قائمة نقاط التتبع . |
+| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | يبني مسار بيزيير محسّن من تسلسل نقاط التتبع. الطريقة تقرب التتبع المعطى بمنحنى بيزيير، باستخدام مزيج من قطاعات الخط والمنحنى. تهدف إلى تقليل عدد القطاعات مع ضمان أن المسار يطابق التتبع الأصلي عن كثب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPathBuilder](../ipathbuilder/)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

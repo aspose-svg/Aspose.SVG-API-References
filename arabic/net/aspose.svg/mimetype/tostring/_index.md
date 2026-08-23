@@ -1,14 +1,14 @@
 ---
-title: MimeType.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: MimeType طريقة. إرجاع أString الذي يمثل نوع Mime.
+title: "MimeType.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MimeType ToString. تُرجع String تمثل نوع MIME"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/mimetype/tostring/
 ---
 ## MimeType.ToString method
 
-إرجاع أString الذي يمثل نوع Mime.
+يرجع سلسلة تمثل نوع Mime.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

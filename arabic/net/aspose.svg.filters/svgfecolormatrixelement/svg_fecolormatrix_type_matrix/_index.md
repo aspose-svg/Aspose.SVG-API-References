@@ -1,23 +1,21 @@
 ---
-title: SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_MATRIX
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEColorMatrixElement مجال. يتوافق مع قيمة المصفوفة .
+title: "SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_MATRIX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FECOLORMATRIX_TYPE_MATRIX في SVGFEColorMatrixElement. يتطابق مع القيمة matrix."
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_matrix/
 ---
 ## SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_MATRIX field
 
-يتوافق مع قيمة "المصفوفة" .
+يتطابق مع القيمة 'matrix'.
 
 ```csharp
 public const ushort SVG_FECOLORMATRIX_TYPE_MATRIX;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEColorMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

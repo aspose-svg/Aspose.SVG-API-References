@@ -1,27 +1,25 @@
 ---
-title: SVGTransform.Type
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransform ملكية. نوع القيمة كما هو محدد بواسطة أحد ثوابت SVG_TRANSFORM_  المحددة في هذه الواجهة.
+title: "SVGTransform.Type"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGTransform Type. نوع القيمة كما هو محدد بأحد ثوابت SVG_TRANSFORM_ المعرفة على هذه الواجهة."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.datatypes/svgtransform/type/
 ---
 ## SVGTransform.Type property
 
-نوع القيمة كما هو محدد بواسطة أحد ثوابت SVG_TRANSFORM_ * المحددة في هذه الواجهة.
+نوع القيمة كما هو محدد بأحد ثوابت SVG_TRANSFORM_* المعرفة على هذه الواجهة.
 
 ```csharp
 public ushort Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع التحويل .
+نوع التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransform/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

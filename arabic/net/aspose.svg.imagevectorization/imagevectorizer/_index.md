@@ -1,43 +1,40 @@
 ---
-title: Class ImageVectorizer
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.ImageVectorizer فصل. تقوم فئة ImageVectorizer هذه بتوجيه الصور النقطية مثل PNG و JPG و GIF و BMP وغيرها ... وتعيد SVGDocument. في ظل التوجيه الاتجاهي  نعني عملية تقليل الصور النقطية إلى أشكال هندسية مكونة من عناصر المسار وتخزينها بتنسيق SVG.
+title: "فئة ImageVectorizer"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.ImageVectorization.ImageVectorizer. تقوم هذه الفئة ImageVectorizer بتحويل الصور النقطية مثل PNG و JPG و GIF و BMP وغيرها إلى صور SVG وتعيد كائن SVGDocument. تحت مفهوم التحويل إلى متجهات نعني عملية تقليل الصور النقطية إلى أشكال هندسية مكوّنة من عناصر المسار وتُخزن كـ SVG"
 type: docs
-weight: 2140
+weight: 4210
 url: /ar/net/aspose.svg.imagevectorization/imagevectorizer/
 ---
 ## ImageVectorizer class
 
-تقوم فئة ImageVectorizer هذه بتوجيه الصور النقطية مثل PNG و JPG و GIF و BMP وغيرها ... وتعيد SVGDocument. في ظل التوجيه الاتجاهي ، نعني عملية تقليل الصور النقطية إلى أشكال هندسية مكونة من عناصر المسار وتخزينها بتنسيق SVG.
+هذه الفئة ImageVectorizer تقوم بتحويل الصور النقطية مثل PNG و JPG و GIF و BMP وغيرها... وتعيد كائن SVGDocument. تحت مفهوم التحويل نقصد عملية تقليل الصور النقطية إلى أشكال هندسية مكوّنة من عناصر المسار وتُخزن كـ SVG.
 
 ```csharp
 public class ImageVectorizer
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageVectorizer](imagevectorizer/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ImageVectorizer` فئة . |
-| [ImageVectorizer](imagevectorizer/#constructor_1)(ImageVectorizerConfiguration) | يقوم بتهيئة مثيل جديد لملف`ImageVectorizer` فئة . |
+| [ImageVectorizer](imagevectorizer/#constructor)() | يقوم بإنشاء نسخة جديدة من الفئة `ImageVectorizer`. |
+| [ImageVectorizer](imagevectorizer/#constructor_1)(*[ImageVectorizerConfiguration](../imagevectorizerconfiguration/)*) | يقوم بإنشاء نسخة جديدة من الفئة `ImageVectorizer`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Configuration](../../aspose.svg.imagevectorization/imagevectorizer/configuration/) { get; set; } | تكوين طرق وخيارات توجيه الصور |
+| [Configuration](../../aspose.svg.imagevectorization/imagevectorizer/configuration/) { get; set; } | إعدادات طرق تحويل الصور إلى متجهات والخيارات |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(Bitmap) | تحويل الصورة النقطية . |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(Stream) | تحويل الصورة النقطية من التدفق المحدد. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_2)(string) | تحويل الصورة النقطية من الملف المحدد. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(*Stream*) | يقوم بتحويل صورة نقطية إلى متجه من الدفق المحدد. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(*string*) | يقوم بتحويل صورة نقطية إلى متجه من الملف المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

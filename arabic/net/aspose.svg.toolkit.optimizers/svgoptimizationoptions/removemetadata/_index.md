@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveMetadata
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGOptimizationOptions ملكية. الحصول على أو تحديد خيار إزالة البيانات الوصفية. يكون صحيحًا افتراضيًا.
+title: "SVGOptimizationOptions.RemoveMetadata"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGOptimizationOptions RemoveMetadata. يحصل أو يضبط الخيار لإزالة البيانات الوصفية. القيمة true بشكل افتراضي"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removemetadata/
 ---
 ## SVGOptimizationOptions.RemoveMetadata property
 
-الحصول على أو تحديد خيار إزالة البيانات الوصفية. يكون "صحيحًا" افتراضيًا.
+يحصل أو يعيّن الخيار لإزالة البيانات الوصفية. القيمة الافتراضية هي 'true'.
 
 ```csharp
 public bool RemoveMetadata { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGOptimizationOptions](../)
-* مساحة الاسم [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

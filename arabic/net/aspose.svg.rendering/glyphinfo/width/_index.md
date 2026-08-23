@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Width
-second_title: Aspose.SVG لمرجع .NET API
-description: GlyphInfo ملكية. الحصول على عرض الصورة الرمزية بالنقاط.
+title: "GlyphInfo.Width"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GlyphInfo Width. يحصل على عرض الحرف بالنقاط"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property
 
-الحصول على عرض الصورة الرمزية بالنقاط.
+يحصل على عرض الحرف بالنقاط.
 
 ```csharp
 public float Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
-العرض بالنقاط .
+العرض بالنقاط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [GlyphInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../glyphinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

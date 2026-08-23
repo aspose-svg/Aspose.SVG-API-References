@@ -1,23 +1,21 @@
 ---
-title: SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_HUEROTATE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEColorMatrixElement مجال. يتوافق مع القيمة hueRotate .
+title: "SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_HUEROTATE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FECOLORMATRIX_TYPE_HUEROTATE في SVGFEColorMatrixElement. يتطابق مع القيمة hueRotate."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_huerotate/
 ---
 ## SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_HUEROTATE field
 
-يتوافق مع القيمة "hueRotate" .
+يتطابق مع القيمة 'hueRotate'.
 
 ```csharp
 public const ushort SVG_FECOLORMATRIX_TYPE_HUEROTATE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEColorMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

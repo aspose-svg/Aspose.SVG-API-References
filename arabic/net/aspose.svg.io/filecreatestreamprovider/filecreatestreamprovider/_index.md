@@ -1,64 +1,62 @@
 ---
-title: FileCreateStreamProvider.FileCreateStreamProvider
-second_title: Aspose.SVG لمرجع .NET API
-description: FileCreateStreamProvider البناء. يقوم بتهيئة مثيل جديد لملفFileCreateStreamProvider فئة .
+title: "FileCreateStreamProvider"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ FileCreateStreamProvider. يهيئ نسخة جديدة من الفئة FileCreateStreamProvider."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`FileCreateStreamProvider`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FileCreateStreamProvider(string) {#constructor_1}
+## FileCreateStreamProvider(*string*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`FileCreateStreamProvider`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الملف. |
+| الاسم | String | اسم الملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FileCreateStreamProvider(string, string) {#constructor_2}
+## FileCreateStreamProvider(*string, string*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`FileCreateStreamProvider`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider(string directory, string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| directory | String | الدليل. |
-| name | String | اسم الملف. |
+| دليل | String | الدليل. |
+| الاسم | String | اسم الملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

@@ -1,31 +1,29 @@
 ---
-title: IUrlSearchParams.GetAll
-second_title: Aspose.SVG لمرجع .NET API
-description: IUrlSearchParams طريقة. إرجاع كافة القيم التي يكون اسمهااسم .
+title: "IUrlSearchParams.GetAll"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IUrlSearchParams GetAll. تُرجع جميع القيم التي يكون اسمها name."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg/iurlsearchparams/getall/
 ---
 ## IUrlSearchParams.GetAll method
 
-إرجاع كافة القيم التي يكون اسمها`اسم` .
+يرجع جميع القيم التي اسمها `name`.
 
 ```csharp
 public IList<string> GetAll(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | المفتاح الذي سيتم استخدامه للعثور على زوج الاسم والقيمة. |
+| الاسم | String | المفتاح الذي سيُستخدم للعثور على زوج الاسم‑القيمة. |
 
 ### قيمة الإرجاع
 
-قائمة تحتوي على جميع القيم التي يكون اسمها`اسم`.
+قائمة تحتوي على جميع القيم التي يكون اسمها `name`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUrlSearchParams](../)
-* مساحة الاسم [Aspose.Svg](../../iurlsearchparams/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,51 +1,49 @@
 ---
-title: MutationObserver.Observe
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserver طريقة. يوجه وكيل المستخدم لملاحظة هدف معين عقدة والإبلاغ عن أي طفرات بناءً على المعايير التي تقدمها الخيارات كائن . تسمح وسيطة الخيارات بتعيين خيارات ملاحظة الطفرات عبر أعضاء الكائن.
+title: "MutationObserver.Observe"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MutationObserver Observe. تُوجه وكيل المستخدم لمراقبة هدف معين (عقدة) وتقرير أي تغييرات بناءً على المعايير المحددة بواسطة كائن options. يسمح معامل options بتعيين خيارات مراقبة التغييرات عبر أعضاء الكائن."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.mutations/mutationobserver/observe/
 ---
-## Observe(Node) {#observe}
+## Observe(*[Node](../../../aspose.svg.dom/node/)*) {#observe}
 
-يوجه وكيل المستخدم لملاحظة هدف معين (عقدة) والإبلاغ عن أي طفرات بناءً على المعايير التي تقدمها الخيارات (كائن) . تسمح وسيطة الخيارات بتعيين خيارات ملاحظة الطفرات عبر أعضاء الكائن.
+يُعطي تعليمات لوكيل المستخدم لمراقبة هدف معين (عقدة) والإبلاغ عن أي تعديلات بناءً على المعايير المحددة في options (كائن). يسمح معامل options بتعيين خيارات مراقبة التعديلات عبر أعضاء الكائن.
 
 ```csharp
 public void Observe(Node target)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| target | Node | الهدف للمراقبة. |
+| الهدف | Node | الهدف لـ observe. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserver](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Observe(Node, MutationObserverInit) {#observe_1}
+## Observe(*[Node](../../../aspose.svg.dom/node/), [MutationObserverInit](../../mutationobserverinit/)*) {#observe_1}
 
-يوجه وكيل المستخدم لملاحظة هدف معين (عقدة) والإبلاغ عن أي طفرات بناءً على المعايير التي تقدمها الخيارات (كائن) . تسمح وسيطة الخيارات بتعيين خيارات ملاحظة الطفرات عبر أعضاء الكائن.
+يُعطي تعليمات لوكيل المستخدم لمراقبة هدف معين (عقدة) والإبلاغ عن أي تعديلات بناءً على المعايير المحددة في options (كائن). يسمح معامل options بتعيين خيارات مراقبة التعديلات عبر أعضاء الكائن.
 
 ```csharp
 public void Observe(Node target, MutationObserverInit options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| target | Node | الهدف للمراقبة. |
+| الهدف | Node | الهدف لـ observe. |
 | options | MutationObserverInit | خيارات المراقب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserverInit](../../mutationobserverinit/)
 * class [MutationObserver](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

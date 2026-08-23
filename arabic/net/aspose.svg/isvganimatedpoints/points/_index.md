@@ -1,28 +1,26 @@
 ---
-title: ISVGAnimatedPoints.Points
-second_title: Aspose.SVG لمرجع .NET API
-description: ISVGAnimatedPoints ملكية. يوفر الوصول إلى المحتويات الأساسية أي الثابتة لسمة النقاط.
+title: "ISVGAnimatedPoints.Points"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ISVGAnimatedPoints Points. توفر وصولًا إلى المحتويات الأساسية، أي الثابتة، لخاصية points."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/isvganimatedpoints/points/
 ---
 ## ISVGAnimatedPoints.Points property
 
-يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لسمة "النقاط".
+يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لخاصية ‘points’.
 
 ```csharp
 public SVGPointList Points { get; }
 ```
 
-### Property_Value
+### Property Value
 
-محتوى سمة "النقاط "
+محتوى الخاصية ‘points’
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * interface [ISVGAnimatedPoints](../)
-* مساحة الاسم [Aspose.Svg](../../isvganimatedpoints/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

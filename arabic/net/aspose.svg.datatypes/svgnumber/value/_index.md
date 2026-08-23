@@ -1,33 +1,31 @@
 ---
-title: SVGNumber.Value
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGNumber ملكية. قيمة السمة المحددة .
+title: "SVGNumber.Value"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGNumber Value. قيمة السمة المعطاة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svgnumber/value/
 ---
 ## SVGNumber.Value property
 
-قيمة السمة المحددة .
+قيمة السمة المحددة.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | شفرة[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGNumber](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgnumber/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

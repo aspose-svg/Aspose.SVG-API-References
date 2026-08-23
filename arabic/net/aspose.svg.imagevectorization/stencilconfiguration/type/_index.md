@@ -1,24 +1,22 @@
 ---
-title: StencilConfiguration.Type
-second_title: Aspose.SVG لمرجع .NET API
-description: StencilConfiguration ملكية. يحصل أو يحدد ملفStencilType .
+title: "StencilConfiguration.Type"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية النوع في StencilConfiguration. تحصل أو تعين StencilType."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.imagevectorization/stencilconfiguration/type/
 ---
 ## StencilConfiguration.Type property
 
-يحصل أو يحدد ملف[`StencilType`](../../stenciltype/) .
+تحصل أو تعين [`StencilType`](../../stenciltype/).
 
 ```csharp
 public StencilType Type { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StencilType](../../stenciltype/)
 * class [StencilConfiguration](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

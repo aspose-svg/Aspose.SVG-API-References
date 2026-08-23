@@ -1,7 +1,7 @@
 ---
-title: UnitType.Pt
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس بالنقاط
+title: "UnitType.Pt"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "UnitType حقل Pt. القياس بالنقاط"
 type: docs
 weight: 190
 url: /ar/net/aspose.svg.drawing/unittype/pt/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.drawing/unittype/pt/
 public static readonly UnitType Pt;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

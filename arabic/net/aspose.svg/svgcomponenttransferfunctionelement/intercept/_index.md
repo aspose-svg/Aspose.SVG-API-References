@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Intercept
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGComponentTransferFunctionElement ملكية. يتوافق مع السمة التقاطع على العنصر المحدد.
+title: "SVGComponentTransferFunctionElement.Intercept"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGComponentTransferFunctionElement Intercept. تتطابق مع السمة intercept في العنصر المعطى"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgcomponenttransferfunctionelement/intercept/
 ---
 ## SVGComponentTransferFunctionElement.Intercept property
 
-يتوافق مع السمة "التقاطع" على العنصر المحدد.
+يتطابق مع السمة ‘intercept’ على العنصر المحدد.
 
 ```csharp
 public SVGAnimatedNumber Intercept { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "التقاطع" للعنصر المحدد.
+السمة ‘intercept’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

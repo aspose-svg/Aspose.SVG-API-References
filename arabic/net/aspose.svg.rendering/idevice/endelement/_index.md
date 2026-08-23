@@ -1,28 +1,26 @@
 ---
-title: IDevice.EndElement
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice طريقة. ينتهي عرض العنصر.
+title: "IDevice.EndElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDevice EndElement. ينهي تصيير العنصر"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.rendering/idevice/endelement/
 ---
 ## IDevice.EndElement method
 
-ينتهي عرض العنصر.
+ينهي تصيير العنصر.
 
 ```csharp
 public void EndElement(Element element)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | element | Element | ال[`Element`](../../../aspose.svg.dom/element/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

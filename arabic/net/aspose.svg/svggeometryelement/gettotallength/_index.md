@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetTotalLength
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGeometryElement طريقة. تُرجع القيمة المحسوبة لوكيل المستخدم للطول الإجمالي للمسار باستخدام خوارزمية المسافة على طول المسار لوكيل المستخدم  كمسافة في نظام إحداثيات المستخدم الحالي.
+title: "SVGGeometryElement.GetTotalLength"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGGeometryElement GetTotalLength. تُرجع القيمة التي حسبها وكيل المستخدم للطول الكلي للمسار باستخدام خوارزمية distance-along-a-path الخاصة بوكيل المستخدم كمسافة في نظام إحداثيات المستخدم الحالي."
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.svg/svggeometryelement/gettotallength/
 ---
 ## SVGGeometryElement.GetTotalLength method
 
-تُرجع القيمة المحسوبة لوكيل المستخدم للطول الإجمالي للمسار باستخدام خوارزمية المسافة على طول المسار لوكيل المستخدم ، كمسافة في نظام إحداثيات المستخدم الحالي.
+إرجاع القيمة المحسوبة من قبل وكيل المستخدم للطول الكلي للمسار باستخدام خوارزمية المسافة على طول المسار الخاصة بوكيل المستخدم، كمسافة في نظام إحداثيات المستخدم الحالي.
 
 ```csharp
 public float GetTotalLength()
@@ -16,12 +16,10 @@ public float GetTotalLength()
 
 ### قيمة الإرجاع
 
-الطول الإجمالي للمسار.
+الطول الكلي للمسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGGeometryElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggeometryelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

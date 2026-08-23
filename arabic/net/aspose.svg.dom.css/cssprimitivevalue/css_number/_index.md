@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_NUMBER
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue مجال. القيمة هي رقم بسيط. يمكن الحصول على القيمة باستخدام طريقة getFloatValue.
+title: "CSSPrimitiveValue.CSS_NUMBER"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل CSSPrimitiveValue CSS_NUMBER. القيمة هي رقم بسيط. يمكن الحصول على القيمة باستخدام طريقة getFloatValue method"
 type: docs
-weight: 290
+weight: 300
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_number/
 ---
 ## CSSPrimitiveValue.CSS_NUMBER field
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/css_number/
 public const ushort CSS_NUMBER;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

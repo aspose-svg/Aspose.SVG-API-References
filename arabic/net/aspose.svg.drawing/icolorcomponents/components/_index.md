@@ -1,23 +1,21 @@
 ---
-title: IColorComponents.Components
-second_title: Aspose.SVG لمرجع .NET API
-description: IColorComponents ملكية. إرجاع مكونات اللون كمصفوفة عائمة.
+title: "IColorComponents.Components"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IColorComponents Components. تُرجع مكونات اللون كمصفوفة من القيم العائمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/icolorcomponents/components/
 ---
 ## IColorComponents.Components property
 
-إرجاع مكونات اللون كمصفوفة عائمة.
+يعيد مكونات اللون كمصفوفة من القيم العائمة.
 
 ```csharp
 public float[] Components { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorComponents](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../icolorcomponents/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

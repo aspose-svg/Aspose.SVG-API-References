@@ -1,23 +1,21 @@
 ---
-title: UnitType.Pc
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType مجال. القياس ببيكاس
+title: "UnitType.Pc"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل UnitType Pc. القياس بالبيكات"
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.drawing/unittype/pc/
 ---
 ## UnitType.Pc field
 
-القياس ببيكاس
+القياس بالبيكات
 
 ```csharp
 public static readonly UnitType Pc;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

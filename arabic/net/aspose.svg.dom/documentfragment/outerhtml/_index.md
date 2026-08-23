@@ -1,27 +1,25 @@
 ---
-title: DocumentFragment.OuterHTML
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentFragment ملكية. إرجاع جزء من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المحددة.
+title: "DocumentFragment.OuterHTML"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DocumentFragment OuterHTML. تُعيد جزءًا من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينها لاستبدال العنصر بعقد تم تحليلها من السلسلة المعطاة."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.dom/documentfragment/outerhtml/
 ---
 ## DocumentFragment.OuterHTML property
 
-إرجاع جزء من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المحددة.
+يعيد جزءًا من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المعطاة.
 
 ```csharp
 public string OuterHTML { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-HTML الخارجي .
+HTML الخارجي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentFragment](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documentfragment/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

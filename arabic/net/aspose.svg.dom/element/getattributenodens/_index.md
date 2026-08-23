@@ -1,33 +1,31 @@
 ---
-title: Element.GetAttributeNodeNS
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. استرداد عقدة Attr بالاسم المحلي ومساحة URI.
+title: "Element.GetAttributeNodeNS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Element GetAttributeNodeNS method. يسترجع عقدة Attr حسب الاسم المحلي ومسار مساحة الاسم URI."
 type: docs
 weight: 260
 url: /ar/net/aspose.svg.dom/element/getattributenodens/
 ---
 ## Element.GetAttributeNodeNS method
 
-استرداد عقدة Attr بالاسم المحلي ومساحة URI.
+يسترجع عقدة Attr حسب الاسم المحلي ومسار مساحة الاسم URI.
 
 ```csharp
 public Attr GetAttributeNodeNS(string namespaceURI, string localName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceURI | String | مساحة الاسم URI. |
+| namespaceURI | String | معرف namespace URI. |
 | localName | String | اسم المحلي. |
 
 ### قيمة الإرجاع
 
-إرجاع السمة
+تُعيد السمة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,39 +1,37 @@
 ---
-title: Length.op_LessThan
-second_title: Aspose.SVG لمرجع .NET API
-description: Length طريقة. تنفيذ عامل التشغيل .
+title: "Length.op_LessThan"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Length op_LessThan. تنفّذ المشغل"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.drawing/length/op_lessthan/
 ---
 ## Length LessThan operator
 
-تنفيذ عامل التشغيل &lt;.
+ينفّذ العامل &lt;.
 
 ```csharp
 public static bool operator <(Length a, Length b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Length | المعلمة أ. |
-| b | Length | المعلمة ب. |
+| a | Length | المعامل a. |
+| b | Length | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | الحجج لها أنواع مختلفة |
-| ArgumentNullException | الحجة لاغية |
+| ArgumentException | الوسائط لها أنواع مختلفة |
+| ArgumentNullException | الوسيط فارغ |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../length/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PitchRange
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية نطاق الملعب في CSS2.
+title: "ICSS2Properties.PitchRange"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PitchRange في ICSS2Properties. راجع تعريف خاصية pitch-range في CSS2"
 type: docs
-weight: 930
+weight: 960
 url: /ar/net/aspose.svg.dom.css/icss2properties/pitchrange/
 ---
 ## ICSS2Properties.PitchRange property
 
-راجع تعريف خاصية نطاق الملعب في CSS2.
+انظر تعريف خاصية pitch-range في CSS2.
 
 ```csharp
 public string PitchRange { get; set; }
@@ -16,12 +16,10 @@ public string PitchRange { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية نطاق الملعب
+pitch-range خاصية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

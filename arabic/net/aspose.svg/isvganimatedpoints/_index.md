@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGAnimatedPoints
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ISVGAnimatedPoints واجهه المستخدم. تدعم واجهة SVGAnimatedPoints العناصر التي تحتوي على سمة نقاط والتي تحتوي على قائمة بقيم الإحداثيات والتي تدعم القدرة على تحريك هذه السمة. سيعكس استخدام استدعاء أسلوب getAttribute  أي تغييرات يتم إجراؤها على النقاط.
+title: "واجهة ISVGAnimatedPoints"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.ISVGAnimatedPoints. تدعم واجهة SVGAnimatedPoints العناصر التي تحتوي على سمة points التي تحتفظ بقائمة من قيم الإحداثيات وتدعم إمكانية تحريك تلك السمة. بالإضافة إلى ذلك، سمة points على العنصر الأصلي التي يتم الوصول إليها عبر XML DOM، مثل استخدام استدعاء طريقة getAttribute، ستعكس أي تغييرات تُجرى على points."
 type: docs
-weight: 2000
+weight: 4070
 url: /ar/net/aspose.svg/isvganimatedpoints/
 ---
 ## ISVGAnimatedPoints interface
 
-تدعم واجهة SVGAnimatedPoints العناصر التي تحتوي على سمة "نقاط" والتي تحتوي على قائمة بقيم الإحداثيات والتي تدعم القدرة على تحريك هذه السمة. سيعكس استخدام استدعاء أسلوب getAttribute ()) أي تغييرات يتم إجراؤها على النقاط.
+تدعم واجهة SVGAnimatedPoints العناصر التي تحتوي على سمة ‘points’ التي تحتفظ بقائمة من قيم الإحداثيات وتدعم إمكانية تحريك تلك السمة. بالإضافة إلى ذلك، سمة ‘points’ في العنصر الأصلي التي يتم الوصول إليها عبر XML DOM (مثلاً باستخدام استدعاء الطريقة getAttribute()) ستعكس أي تغييرات تُجرى على النقاط.
 
 ```csharp
 public interface ISVGAnimatedPoints
@@ -16,14 +16,12 @@ public interface ISVGAnimatedPoints
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AnimatedPoints](../../aspose.svg/isvganimatedpoints/animatedpoints/) { get; } | يوفر الوصول إلى المحتويات المتحركة الحالية لسمة "النقاط". إذا تم تحريك السمة أو الخاصية المحددة ، فإنها تحتوي على القيمة المتحركة الحالية للسمة أو الخاصية. إذا لم يتم تحريك السمة أو الخاصية المحددة حاليًا ، فستحتوي على نفس قيمة النقاط. |
-| [Points](../../aspose.svg/isvganimatedpoints/points/) { get; } | يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لسمة "النقاط". |
+| [AnimatedPoints](../../aspose.svg/isvganimatedpoints/animatedpoints/) { get; } | يوفر الوصول إلى المحتويات المتحركة الحالية لخاصية ‘points’. إذا كانت الخاصية أو السمة المحددة قيد التحريك، يحتوي على القيمة المتحركة الحالية للخاصية أو السمة. إذا لم تكن الخاصية أو السمة المحددة قيد التحريك حاليًا، يحتوي على نفس قيمة points. |
+| [Points](../../aspose.svg/isvganimatedpoints/points/) { get; } | يوفر الوصول إلى المحتويات الأساسية (أي الثابتة) لخاصية ‘points’. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

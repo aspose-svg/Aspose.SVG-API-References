@@ -1,20 +1,20 @@
 ---
-title: CSSPrimitiveValue.GetFloatValue
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue طريقة. تُستخدم هذه الطريقة للحصول على قيمة عائمة في وحدة محددة. إذا كانت قيمة CSS هذه لا تحتوي على قيمة عائمة أو لا يمكن تحويلها إلى الوحدة المحددة  فسيتم رفع استثناء DOM.
+title: "CSSPrimitiveValue.GetFloatValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSPrimitiveValue GetFloatValue. تُستخدم هذه الطريقة للحصول على قيمة عائمة بوحدة محددة. إذا لم تحتوي قيمة CSS هذه على قيمة عائمة أو لا يمكن تحويلها إلى الوحدة المحددة، يتم رفع استثناء DOMException."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/getfloatvalue/
 ---
 ## CSSPrimitiveValue.GetFloatValue method
 
-تُستخدم هذه الطريقة للحصول على قيمة عائمة في وحدة محددة. إذا كانت قيمة CSS هذه لا تحتوي على قيمة عائمة أو لا يمكن تحويلها إلى الوحدة المحددة ، فسيتم رفع استثناء DOM.
+تُستخدم هذه الطريقة للحصول على قيمة عائمة (float) بوحدة محددة. إذا لم تحتوي قيمة CSS هذه على قيمة عائمة أو لا يمكن تحويلها إلى الوحدة المحددة، يتم رفع استثناء DOMException.
 
 ```csharp
 public abstract float GetFloatValue(ushort unitType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | unitType | UInt16 | نوع الوحدة. |
 
@@ -22,10 +22,8 @@ public abstract float GetFloatValue(ushort unitType)
 
 إرجاع القيمة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

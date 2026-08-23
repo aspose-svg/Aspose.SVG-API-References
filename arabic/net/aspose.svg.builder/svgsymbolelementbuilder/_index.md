@@ -1,0 +1,56 @@
+---
+title: "فئة SVGSymbolElementBuilder"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Builder.SVGSymbolElementBuilder فئة. فئة الباني لإنشاء SVGSymbolElement والتي تُستخدم لتعريف كائنات القالب الرسومية داخل SVG"
+type: docs
+weight: 1650
+url: /ar/net/aspose.svg.builder/svgsymbolelementbuilder/
+---
+## SVGSymbolElementBuilder class
+
+فئة Builder لإنشاء SVGSymbolElement، والذي يُستخدم لتعريف كائنات القوالب الرسومية داخل SVG.
+
+```csharp
+public class SVGSymbolElementBuilder : SVGElementBuilder<SVGSymbolElement>, 
+    ICompositeElementBuilder, ICoreAttributeSetter, IDocumentElementEventAttributeSetter, 
+    IGlobalEventAttributeSetter, IGraphicalEventAttributeSetter, 
+    IPreserveAspectRatioAttributeSetter, IRefCoordinatesAttributeSetter, IViewBoxAttributeSetter
+```
+
+## البناؤات
+
+| الاسم | الوصف |
+| --- | --- |
+| [SVGSymbolElementBuilder](svgsymbolelementbuilder/)() | المنشئ الافتراضي. |
+
+## الخصائص
+
+| الاسم | الوصف |
+| --- | --- |
+| [Configurations](../../aspose.svg.builder/svgelementbuilder-1/configurations/) { get; } |  |
+
+## الطرق
+
+| الاسم | الوصف |
+| --- | --- |
+| [Attribute](../../aspose.svg.builder/svgelementbuilder-1/attribute/)(*string, string*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [Build](../../aspose.svg.builder/svgelementbuilder-1/build/)(*[SVGSymbolElement](../../aspose.svg/svgsymbolelement/)*) |  |
+| [BuildElement](../../aspose.svg.builder/svgelementbuilder-1/buildelement/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| [RefX](../../aspose.svg.builder/svgsymbolelementbuilder/refx/)(*double, [LengthType](../lengthtype/)*) | يضبط السمة 'refX' لعنصر الرمز، معرّفًا إحداثي x لنقطة المرجع للرمز. |
+| [RefY](../../aspose.svg.builder/svgsymbolelementbuilder/refy/)(*double, [LengthType](../lengthtype/)*) | يضبط السمة 'refY' لعنصر الرمز، معرّفًا إحداثي y لنقطة المرجع للرمز. |
+
+### انظر أيضًا
+
+* class [SVGElementBuilder&lt;T&gt;](../svgelementbuilder-1/)
+* class [SVGSymbolElement](../../aspose.svg/svgsymbolelement/)
+* interface [ICompositeElementBuilder](../icompositeelementbuilder/)
+* interface [ICoreAttributeSetter](../icoreattributesetter/)
+* interface [IDocumentElementEventAttributeSetter](../idocumentelementeventattributesetter/)
+* interface [IGlobalEventAttributeSetter](../iglobaleventattributesetter/)
+* interface [IGraphicalEventAttributeSetter](../igraphicaleventattributesetter/)
+* interface [IPreserveAspectRatioAttributeSetter](../ipreserveaspectratioattributesetter/)
+* interface [IRefCoordinatesAttributeSetter](../irefcoordinatesattributesetter/)
+* interface [IViewBoxAttributeSetter](../iviewboxattributesetter/)
+* namespace [Aspose.Svg.Builder](../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../)

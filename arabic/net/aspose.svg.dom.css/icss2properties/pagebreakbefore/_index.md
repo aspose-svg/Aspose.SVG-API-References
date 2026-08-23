@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PageBreakBefore
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية فاصل الصفحات قبل في CSS2.
+title: "ICSS2Properties.PageBreakBefore"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PageBreakBefore في ICSS2Properties. راجع تعريف خاصية page-break-before في CSS2"
 type: docs
-weight: 870
+weight: 900
 url: /ar/net/aspose.svg.dom.css/icss2properties/pagebreakbefore/
 ---
 ## ICSS2Properties.PageBreakBefore property
 
-راجع تعريف خاصية فاصل الصفحات قبل في CSS2.
+انظر تعريف خاصية page-break-before في CSS2.
 
 ```csharp
 public string PageBreakBefore { get; set; }
@@ -16,12 +16,10 @@ public string PageBreakBefore { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية فاصل الصفحة قبل
+خاصية page-break-before
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

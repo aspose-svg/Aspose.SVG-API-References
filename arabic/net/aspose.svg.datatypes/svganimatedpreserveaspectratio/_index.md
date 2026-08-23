@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedPreserveAspectRatio
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio فصل. يُستخدم للسمات من النوع SVGPreserveAspectRatio التي يمكن تحريكها.
+title: "فئة SVGAnimatedPreserveAspectRatio"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio. تُستخدم للسمات من النوع SVGPreserveAspectRatio التي يمكن تحريكها"
 type: docs
-weight: 170
+weight: 2160
 url: /ar/net/aspose.svg.datatypes/svganimatedpreserveaspectratio/
 ---
 ## SVGAnimatedPreserveAspectRatio class
 
-يُستخدم للسمات من النوع SVGPreserveAspectRatio التي يمكن تحريكها.
+تُستخدم لسمات من النوع SVGPreserveAspectRatio التي يمكن تحريكها.
 
 ```csharp
 public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspectRatio>
@@ -16,24 +16,22 @@ public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspect
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | يطلق الموارد غير المُدارة و- اختياريًا - المُدارة. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/)() | يرجع سلسلة نصية (String) تمثل هذه الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGPreserveAspectRatio](../svgpreserveaspectratio/)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

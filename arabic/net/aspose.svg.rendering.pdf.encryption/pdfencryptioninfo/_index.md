@@ -1,37 +1,35 @@
 ---
-title: Class PdfEncryptionInfo
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionInfo فصل. يحتوي على تفاصيل لتشفير pdf .
+title: "فئة PdfEncryptionInfo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionInfo فئة. يحتوي على تفاصيل لتشفير PDF"
 type: docs
-weight: 2920
+weight: 4990
 url: /ar/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo class
 
-يحتوي على تفاصيل لتشفير pdf .
+يحتوي على تفاصيل لتشفير PDF.
 
 ```csharp
 public class PdfEncryptionInfo
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PdfEncryptionInfo](pdfencryptioninfo/)(string, string, PdfPermissions, PdfEncryptionAlgorithm) | يقوم بتهيئة مثيل جديد لملف`PdfEncryptionInfo` فئة . |
+| [PdfEncryptionInfo](pdfencryptioninfo/)(*string, string, [PdfPermissions](../pdfpermissions/), [PdfEncryptionAlgorithm](../pdfencryptionalgorithm/)*) | يقوم بإنشاء نسخة جديدة من الفئة `PdfEncryptionInfo`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [EncryptionAlgorithm](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/) { get; set; } | الحصول على أو تحديد وضع التشفير. |
-| [OwnerPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/) { get; set; } | الحصول على أو تعيين كلمة مرور المالك. |
-| [Permissions](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/) { get; set; } | الحصول على الأذونات أو تعيينها. |
-| [UserPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword/) { get; set; } | الحصول على كلمة مرور المستخدم أو تعيينها. |
+| [EncryptionAlgorithm](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/) { get; set; } | يحصل أو يعيّن وضع التشفير. |
+| [OwnerPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/) { get; set; } | يحصل أو يعيّن كلمة مرور المالك. |
+| [Permissions](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/) { get; set; } | يحصل أو يعيّن الأذونات. |
+| [UserPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword/) { get; set; } | يحصل أو يعيّن كلمة مرور المستخدم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../)

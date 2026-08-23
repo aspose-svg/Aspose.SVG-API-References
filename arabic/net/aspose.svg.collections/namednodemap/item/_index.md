@@ -1,65 +1,63 @@
 ---
-title: NamedNodeMap.Item
-second_title: Aspose.SVG لمرجع .NET API
-description: NamedNodeMap ملكية. إرجاع عنصر الفهرس في الخريطة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في هذه الخريطة  فإن هذا يُرجع قيمة خالية.
+title: "NamedNodeMap.Item"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Item في NamedNodeMap. تُرجع العنصر رقم index في الخريطة. إذا كان index أكبر من أو يساوي عدد العقد في هذه الخريطة، فإنها تُرجع null."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.collections/namednodemap/item/
 ---
 ## NamedNodeMap indexer (1 of 2)
 
-إرجاع عنصر الفهرس في الخريطة. إذا كان الفهرس أكبر من أو يساوي عدد العقد في هذه الخريطة ، فإن هذا يُرجع قيمة خالية.
+تُرجع العنصر رقم index في الخريطة. إذا كان index أكبر من أو يساوي عدد العقد في هذه الخريطة، فإنها تُرجع null.
 
 ```csharp
 public Attr this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | مؤشر. |
+| index | الفهرس. |
 
 ### قيمة الإرجاع
 
-إرجاع العقدة .
+يرجع العقدة.
 
-### Property_Value
+### Property Value
 
-ملف[`Attr`](../../../aspose.svg.dom/attr/) .
+الـ[`Attr`](../../../aspose.svg.dom/attr/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../namednodemap/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## NamedNodeMap indexer (2 of 2)
 
-يحصل على ملف[`Attr`](../../../aspose.svg.dom/attr/) بالاسم المحدد.
+يحصل على الـ[`Attr`](../../../aspose.svg.dom/attr/) بالاسم المحدد.
 
 ```csharp
 public Attr this[string name] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم السمة. |
+| الاسم | اسم السمة. |
 
 ### قيمة الإرجاع
 
-إرجاع العقدة .
+يرجع العقدة.
 
-### Property_Value
+### Property Value
 
-ملف[`Attr`](../../../aspose.svg.dom/attr/) .
+الـ[`Attr`](../../../aspose.svg.dom/attr/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../namednodemap/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

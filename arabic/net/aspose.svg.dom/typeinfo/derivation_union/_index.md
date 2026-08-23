@@ -1,23 +1,21 @@
 ---
-title: TypeInfo.DERIVATION_UNION
-second_title: Aspose.SVG لمرجع .NET API
-description: TypeInfo مجال. إذا كان مخطط المستند عبارة عن مخطط XML مخطط XML الجزء 1  فإن هذا الثابت يمثل الاتحاد إذا كانت الأنواع البسيطة متضمنة.
+title: "TypeInfo.DERIVATION_UNION"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل TypeInfo DERIVATION_UNION. إذا كان مخطط المستندات هو XML Schema XML Schema Part 1، فإن هذا الثابت يمثل الاتحاد إذا كانت الأنواع بسيطة"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom/typeinfo/derivation_union/
 ---
 ## TypeInfo.DERIVATION_UNION field
 
-إذا كان مخطط المستند عبارة عن مخطط XML [مخطط XML الجزء 1] ، فإن هذا الثابت يمثل الاتحاد إذا كانت الأنواع البسيطة متضمنة.
+إذا كان مخطط المستند هو مخطط XML [XML Schema Part 1]، فإن هذا الثابت يمثل الاتحاد إذا كانت الأنواع البسيطة متضمنة.
 
 ```csharp
 public const ulong DERIVATION_UNION;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeInfo](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../typeinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

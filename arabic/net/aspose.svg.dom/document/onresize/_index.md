@@ -1,24 +1,22 @@
 ---
-title: Document.OnResize
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث لحدث OnResize أو تعيينه.
+title: "Document.OnResize"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnResize. يحصل أو يعيّن معالج الحدث لحدث OnResize."
 type: docs
 weight: 660
 url: /ar/net/aspose.svg.dom/document/onresize/
 ---
 ## Document.OnResize event
 
-الحصول على معالج الحدث لحدث OnResize أو تعيينه.
+الحصول أو تعيين معالج الحدث لـ OnResize.
 
 ```csharp
 public event DOMEventHandler OnResize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

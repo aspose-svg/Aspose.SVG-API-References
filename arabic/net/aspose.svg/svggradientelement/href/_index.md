@@ -1,28 +1,26 @@
 ---
-title: SVGGradientElement.Href
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGradientElement ملكية. يتوافق مع السمة xlink href في العنصر المحدد.
+title: "SVGGradientElement.Href"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGGradientElement Href. تتطابق مع السمة xlinkhref في العنصر المحدد."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svggradientelement/href/
 ---
 ## SVGGradientElement.Href property
 
-يتوافق مع السمة "xlink: href" في العنصر المحدد.
+يتطابق مع السمة ‘xlink:href’ على العنصر المعطى.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Property_Value
+### Property Value
 
-"xlink: href" للعنصر المحدد.
+‘xlink:href’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

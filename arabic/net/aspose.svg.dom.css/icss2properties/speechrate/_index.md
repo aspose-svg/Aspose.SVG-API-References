@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.SpeechRate
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية معدل الكلام في CSS2.
+title: "ICSS2Properties.SpeechRate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties SpeechRate خاصية. راجع تعريف خاصية speech-rate في CSS2"
 type: docs
-weight: 1040
+weight: 1070
 url: /ar/net/aspose.svg.dom.css/icss2properties/speechrate/
 ---
 ## ICSS2Properties.SpeechRate property
 
-راجع تعريف خاصية معدل الكلام في CSS2.
+انظر إلى تعريف الخاصية speech-rate في CSS2.
 
 ```csharp
 public string SpeechRate { get; set; }
@@ -16,12 +16,10 @@ public string SpeechRate { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية معدل الكلام
+speech-rate خاصية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

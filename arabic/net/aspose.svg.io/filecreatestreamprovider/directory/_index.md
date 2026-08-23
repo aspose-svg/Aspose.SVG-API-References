@@ -1,27 +1,25 @@
 ---
-title: FileCreateStreamProvider.Directory
-second_title: Aspose.SVG لمرجع .NET API
-description: FileCreateStreamProvider ملكية. الحصول على الدليل أو تعيينه.
+title: "FileCreateStreamProvider.Directory"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Directory في FileCreateStreamProvider. تحصل على الدليل أو تعينه."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.io/filecreatestreamprovider/directory/
 ---
 ## FileCreateStreamProvider.Directory property
 
-الحصول على الدليل أو تعيينه.
+يحصل أو يعيّن الدليل.
 
 ```csharp
 public string Directory { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الدليل .
+الدليل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

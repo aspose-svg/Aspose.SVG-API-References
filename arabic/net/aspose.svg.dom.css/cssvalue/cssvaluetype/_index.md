@@ -1,27 +1,25 @@
 ---
-title: CSSValue.CSSValueType
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValue ملكية. كود يحدد نوع القيمة.
+title: "CSSValue.CSSValueType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CSSValue CSSValueType. رمز يحدد نوع القيمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/cssvalue/cssvaluetype/
 ---
 ## CSSValue.CSSValueType property
 
-كود يحدد نوع القيمة.
+رمز يحدد نوع القيمة.
 
 ```csharp
 public ushort CSSValueType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع قيمة CSS .
+نوع قيمة CSS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

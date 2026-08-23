@@ -1,39 +1,37 @@
 ---
-title: Angle.op_LessThan
-second_title: Aspose.SVG لمرجع .NET API
-description: Angle طريقة. تنفيذ عامل التشغيل .
+title: "Angle.op_LessThan"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Angle op_LessThan. تنفّذ العامل"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.drawing/angle/op_lessthan/
 ---
 ## Angle LessThan operator
 
-تنفيذ عامل التشغيل &lt;.
+ينفّذ العامل &lt;.
 
 ```csharp
 public static bool operator <(Angle a, Angle b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Angle | المعلمة أ. |
-| b | Angle | المعلمة ب. |
+| a | Angle | المعامل a. |
+| b | Angle | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | الحجج لها أنواع مختلفة |
-| ArgumentNullException | الحجة لاغية |
+| ArgumentException | الوسائط لها أنواع مختلفة |
+| ArgumentNullException | الوسيط فارغ |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Angle](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../angle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Orphans
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الأيتام في CSS2.
+title: "ICSS2Properties.Orphans"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Orphans في ICSS2Properties. راجع تعريف خاصية orphans في CSS2"
 type: docs
-weight: 740
+weight: 770
 url: /ar/net/aspose.svg.dom.css/icss2properties/orphans/
 ---
 ## ICSS2Properties.Orphans property
 
-راجع تعريف خاصية الأيتام في CSS2.
+انظر تعريف خاصية orphans في CSS2.
 
 ```csharp
 public string Orphans { get; set; }
@@ -16,12 +16,10 @@ public string Orphans { get; set; }
 
 ### قيمة الإرجاع
 
-ممتلكات الأيتام
+خاصية orphans
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

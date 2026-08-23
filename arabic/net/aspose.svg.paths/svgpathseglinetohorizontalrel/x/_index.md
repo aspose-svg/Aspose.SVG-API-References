@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegLinetoHorizontalRel.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegLinetoHorizontalRel ملكية. إحداثي X النسبي لنقطة نهاية مقطع المسار هذا.
+title: "SVGPathSegLinetoHorizontalRel.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSegLinetoHorizontalRel X. الإحداثي النسبي X لنقطة النهاية لهذا الجزء من المسار"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.paths/svgpathseglinetohorizontalrel/x/
 ---
 ## SVGPathSegLinetoHorizontalRel.X property
 
-إحداثي X النسبي لنقطة نهاية مقطع المسار هذا.
+الإحداثي X النسبي لنقطة النهاية لهذا مقطع المسار.
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيق X النسبي
+الإحداثي النسبي X
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegLinetoHorizontalRel](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseglinetohorizontalrel/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

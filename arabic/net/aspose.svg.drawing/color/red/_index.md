@@ -1,23 +1,21 @@
 ---
-title: Color.Red
-second_title: Aspose.SVG لمرجع .NET API
-description: Color ملكية. يمثل المكون الأحمر للون
+title: "Color.Red"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Color Red. تمثل المكوّن الأحمر للون"
 type: docs
 weight: 270
 url: /ar/net/aspose.svg.drawing/color/red/
 ---
 ## Color.Red property
 
-يمثل المكون الأحمر للون
+يمثل المكوّن الأحمر للون.
 
 ```csharp
 public float Red { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

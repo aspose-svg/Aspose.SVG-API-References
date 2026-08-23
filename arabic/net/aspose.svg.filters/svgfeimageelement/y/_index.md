@@ -1,28 +1,26 @@
 ---
-title: SVGFEImageElement.Y
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEImageElement ملكية. يتوافق مع السمة y في عنصر عامل التصفية المحدد .
+title: "SVGFEImageElement.Y"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "SVGFEImageElement Y property. تتطابق مع السمة y في عنصر الفلتر المحدد"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.filters/svgfeimageelement/y/
 ---
 ## SVGFEImageElement.Y property
 
-يتوافق مع السمة "y" في عنصر "عامل التصفية" المحدد .
+يتطابق مع السمة ‘y’ في عنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "y" لعنصر "التصفية" المحدد .
+السمة ‘y’ للعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEImageElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeimageelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: IUserAgentService.UserStyleSheet
-second_title: Aspose.SVG لمرجع .NET API
-description: IUserAgentService ملكية. يسمح بتحديد معلومات النمط لمستند معين
+title: "IUserAgentService.UserStyleSheet"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IUserAgentService UserStyleSheet. تسمح بتحديد معلومات النمط لمستند معين."
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.svg.services/iuseragentservice/userstylesheet/
 ---
 ## IUserAgentService.UserStyleSheet property
 
-يسمح بتحديد معلومات النمط لمستند معين
+يسمح بتحديد معلومات النمط لمستند معين.
 
 ```csharp
 public string UserStyleSheet { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUserAgentService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../iuseragentservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

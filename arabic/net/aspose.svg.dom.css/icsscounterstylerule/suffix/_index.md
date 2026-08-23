@@ -1,7 +1,7 @@
 ---
-title: ICSSCounterStyleRule.Suffix
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSCounterStyleRule ملكية. يحصل على اللاحقة.
+title: "ICSSCounterStyleRule.Suffix"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Suffix في ICSSCounterStyleRule. يحصل على اللاحقة"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.css/icsscounterstylerule/suffix/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom.css/icsscounterstylerule/suffix/
 public string Suffix { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSCounterStyleRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGLength.UnitType
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLength ملكية. نوع القيمة كما هو محدد بواسطة أحد ثوابت SVG_LENGTHTYPE_  المحددة في هذه الواجهة .
+title: "SVGLength.UnitType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية UnitType لـ SVGLength. نوع القيمة كما هو محدد بأحد الثوابت SVG_LENGTHTYPE_ المعرفة في هذه الواجهة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svglength/unittype/
 ---
 ## SVGLength.UnitType property
 
-نوع القيمة كما هو محدد بواسطة أحد ثوابت SVG_LENGTHTYPE_ * المحددة في هذه الواجهة .
+نوع القيمة كما هو محدد بأحد الثوابت SVG_LENGTHTYPE_* المعرفة في هذه الواجهة.
 
 ```csharp
 public ushort UnitType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الوحدة .
+نوع الوحدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGLength](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svglength/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

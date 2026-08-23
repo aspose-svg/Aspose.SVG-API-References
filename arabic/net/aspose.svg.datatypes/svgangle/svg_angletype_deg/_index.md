@@ -1,23 +1,21 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_DEG
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGAngle مجال. تم ضبط نوع الوحدة بشكل صريح على درجات.
+title: "SVGAngle.SVG_ANGLETYPE_DEG"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGAngle SVG_ANGLETYPE_DEG. تم تعيين نوع الوحدة صراحةً إلى درجات."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.datatypes/svgangle/svg_angletype_deg/
 ---
 ## SVGAngle.SVG_ANGLETYPE_DEG field
 
-تم ضبط نوع الوحدة بشكل صريح على درجات.
+تم تعيين نوع الوحدة صراحةً إلى الدرجات.
 
 ```csharp
 public const ushort SVG_ANGLETYPE_DEG;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAngle](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgangle/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

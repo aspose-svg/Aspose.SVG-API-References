@@ -1,23 +1,21 @@
 ---
-title: PdfDevice.PdfGraphicContext.PdfGraphicContext
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfGraphicContext البناء. Default_Constructor
+title: "PdfDevice.PdfGraphicContext.PdfGraphicContext"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ PdfGraphicContext. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public PdfGraphicContext()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfGraphicContext](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

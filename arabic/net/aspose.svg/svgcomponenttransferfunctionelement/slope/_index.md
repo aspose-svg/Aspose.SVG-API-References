@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Slope
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGComponentTransferFunctionElement ملكية. يتوافق مع السمة المنحدر على العنصر المحدد.
+title: "SVGComponentTransferFunctionElement.Slope"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGComponentTransferFunctionElement Slope. تتطابق مع السمة slope في العنصر المعطى"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 
-يتوافق مع السمة "المنحدر" على العنصر المحدد.
+يتطابق مع السمة ‘slope’ على العنصر المحدد.
 
 ```csharp
 public SVGAnimatedNumber Slope { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "ميل" للعنصر المحدد .
+السمة ‘slope’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

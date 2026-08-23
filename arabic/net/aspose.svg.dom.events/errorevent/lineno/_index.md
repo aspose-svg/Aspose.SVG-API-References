@@ -1,23 +1,21 @@
 ---
-title: ErrorEvent.LineNo
-second_title: Aspose.SVG لمرجع .NET API
-description: ErrorEvent ملكية. يجب أن ترجع سمة lineno القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن  يجب تهيئة هذه السمة إلى الصفر. يمثل رقم السطر حيث حدث الخطأ في البرنامج النصي.
+title: "ErrorEvent.LineNo"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ErrorEvent LineNo. يجب أن تُعيد سمة lineno القيمة التي تم تهيئتها لها. عندما يُنشأ الكائن يجب تهيئة هذه السمة إلى الصفر. تمثّل رقم السطر الذي حدث فيه الخطأ في النص البرمجي"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.events/errorevent/lineno/
 ---
 ## ErrorEvent.LineNo property
 
-يجب أن ترجع سمة lineno القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى الصفر. يمثل رقم السطر حيث حدث الخطأ في البرنامج النصي.
+يجب أن تُعيد الخاصية lineno القيمة التي تم تهيئتها بها. عند إنشاء الكائن، يجب تهيئة هذه الخاصية إلى الصفر. تمثل رقم السطر الذي حدث فيه الخطأ في السكريبت.
 
 ```csharp
 public uint LineNo { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ErrorEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../errorevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

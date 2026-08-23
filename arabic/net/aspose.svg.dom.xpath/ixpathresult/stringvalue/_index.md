@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.StringValue
-second_title: Aspose.SVG لمرجع .NET API
-description: IXPathResult ملكية. نتيجة هذه السلسلة .
+title: "IXPathResult.StringValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IXPathResult StringValue. قيمة نتيجة السلسلة هذه"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom.xpath/ixpathresult/stringvalue/
 ---
 ## IXPathResult.StringValue property
 
-نتيجة هذه السلسلة .
+قيمة هذه النتيجة النصية.
 
 ```csharp
 public string StringValue { get; }
@@ -16,14 +16,12 @@ public string StringValue { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: رفع إذا`resultType` ليس `خيط` يكتب. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: يُرفع إذا لم يكن `resultType` من نوع `String`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXPathResult](../)
-* مساحة الاسم [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

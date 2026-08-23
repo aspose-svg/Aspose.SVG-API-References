@@ -1,14 +1,14 @@
 ---
-title: SVGGraphicsElement.GetCTM
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGraphicsElement طريقة. إرجاع مصفوفة التحويل من وحدات المستخدم الحالية على سبيل المثال  بعد تطبيق السمة التحويل  إن وجدت إلى نظام إحداثي منفذ العرض لأقرب منفذ عرض.
+title: "SVGGraphicsElement.GetCTM"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGGraphicsElement GetCTM. تُرجِع مصفوفة التحويل من وحدات المستخدم الحالية أي بعد تطبيق سمة transform إذا وجدت إلى نظام إحداثيات viewport للعنصر nearestViewportElement."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg/svggraphicselement/getctm/
 ---
 ## SVGGraphicsElement.GetCTM method
 
-إرجاع مصفوفة التحويل من وحدات المستخدم الحالية (على سبيل المثال ، بعد تطبيق السمة "التحويل" ، إن وجدت) إلى نظام إحداثي منفذ العرض لأقرب منفذ عرض.
+يرجع مصفوفة التحويل من وحدات المستخدم الحالية (أي بعد تطبيق سمة ‘transform’، إن وجدت) إلى نظام إحداثيات مساحة العرض للعنصر nearestViewportElement.
 
 ```csharp
 public SVGMatrix GetCTM()
@@ -18,11 +18,9 @@ public SVGMatrix GetCTM()
 
 كائن SVGMatrix يحدد CTM.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGGraphicsElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggraphicselement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

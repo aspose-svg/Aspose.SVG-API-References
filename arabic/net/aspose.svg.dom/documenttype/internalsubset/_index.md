@@ -1,27 +1,25 @@
 ---
-title: DocumentType.InternalSubset
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentType ملكية. المجموعة الفرعية الداخلية كسلسلة  أو فارغة إذا لم يكن هناك أي منها.
+title: "DocumentType.InternalSubset"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DocumentType InternalSubset. المجموعة الداخلية كسلسلة أو null إذا لم توجد"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/documenttype/internalsubset/
 ---
 ## DocumentType.InternalSubset property
 
-المجموعة الفرعية الداخلية كسلسلة ، أو فارغة إذا لم يكن هناك أي منها.
+المجموعة الفرعية الداخلية كسلسلة نصية، أو null إذا لم توجد.
 
 ```csharp
 public string InternalSubset { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المجموعة الفرعية الداخلية .
+المجموعة الداخلية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentType](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documenttype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

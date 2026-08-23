@@ -1,28 +1,26 @@
 ---
-title: MutationObserver.MutationObserver
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserver البناء. إنشاء كائن MutationObserver وتعيينMutationCallback لمعاودة الاتصال. يتم استدعاء رد الاتصال بقائمة كائنات MutationRecord كوسيطة أولى وكائن MutationObserver المركب كوسيطة ثانية. يتم استدعاؤه بعد العقد المسجلة معObserveNode IMutationObserverInit طريقة متحورة.
+title: "MutationObserver"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ MutationObserver. ينشئ كائن MutationObserver ويضبط MutationCallback الخاص به إلى callback. يتم استدعاء callback مع قائمة من كائنات MutationRecord كوسيط أول وكائن MutationObserver المُنشأ كوسيط ثانٍ. يتم استدعاؤه بعد تعديل العقد المسجلة باستخدام طريقة Observe."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.mutations/mutationobserver/mutationobserver/
 ---
 ## MutationObserver constructor
 
-إنشاء كائن MutationObserver وتعيين[`MutationCallback`](../../mutationcallback/) لمعاودة الاتصال. يتم استدعاء رد الاتصال بقائمة كائنات MutationRecord كوسيطة أولى وكائن MutationObserver المركب كوسيطة ثانية. يتم استدعاؤه بعد العقد المسجلة مع!:Observe(Node, IMutationObserverInit) طريقة متحورة.
+ينشئ كائن MutationObserver ويضبط [`MutationCallback`](../../mutationcallback/) الخاص به إلى callback. يتم استدعاء callback مع قائمة من كائنات MutationRecord كوسيط أول وكائن MutationObserver المُنشأ كوسيط ثانٍ. يتم استدعاؤه بعد تعديل العقد المسجلة باستخدام طريقة [`Observe`](../observe/).
 
 ```csharp
 public MutationObserver(MutationCallback callback)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| callback | MutationCallback | رد الاتصال. |
+| callback | MutationCallback | الـ callback. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [MutationCallback](../../mutationcallback/)
 * class [MutationObserver](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

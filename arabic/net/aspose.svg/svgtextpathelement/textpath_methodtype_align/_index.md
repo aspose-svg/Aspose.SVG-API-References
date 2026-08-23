@@ -1,23 +1,21 @@
 ---
-title: SVGTextPathElement.TEXTPATH_METHODTYPE_ALIGN
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPathElement مجال. يتوافق مع القيمة محاذاة .
+title: "SVGTextPathElement.TEXTPATH_METHODTYPE_ALIGN"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTextPathElement TEXTPATH_METHODTYPE_ALIGN. يتطابق مع القيمة align"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/svgtextpathelement/textpath_methodtype_align/
 ---
 ## SVGTextPathElement.TEXTPATH_METHODTYPE_ALIGN field
 
-يتوافق مع القيمة "محاذاة" .
+يتطابق مع القيمة 'align'.
 
 ```csharp
 public const ushort TEXTPATH_METHODTYPE_ALIGN;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

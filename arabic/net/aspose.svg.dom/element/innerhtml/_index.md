@@ -1,27 +1,25 @@
 ---
-title: Element.InnerHTML
-second_title: Aspose.SVG لمرجع .NET API
-description: Element ملكية. إرجاع جزء من HTML أو XML يمثل محتويات العنصر. يمكن تعيينه لاستبدال محتويات العنصر بالعقد التي تم تحليلها من السلسلة المحددة.
+title: "Element.InnerHTML"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Element InnerHTML. تُرجع جزءًا من HTML أو XML يمثل محتويات العنصر. يمكن تعيينها لاستبدال محتويات العنصر بالعقد التي تم تحليلها من السلسلة المعطاة."
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.dom/element/innerhtml/
 ---
 ## Element.InnerHTML property
 
-إرجاع جزء من HTML أو XML يمثل محتويات العنصر. يمكن تعيينه لاستبدال محتويات العنصر بالعقد التي تم تحليلها من السلسلة المحددة.
+يعيد جزءًا من HTML أو XML يمثل محتويات العنصر. يمكن تعيينه لاستبدال محتويات العنصر بالعقد التي تم تحليلها من السلسلة المعطاة.
 
 ```csharp
 public string InnerHTML { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-HTML الداخلي .
+HTML الداخلي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

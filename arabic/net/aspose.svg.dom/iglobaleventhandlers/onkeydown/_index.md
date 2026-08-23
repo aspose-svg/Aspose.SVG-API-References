@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnKeyDown
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnKeyDown.
+title: "IGlobalEventHandlers.OnKeyDown"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers OnKeyDown الحدث. يحصل أو يضبط معالج الحدث لـ OnKeyDown الحدث"
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onkeydown/
 ---
 ## IGlobalEventHandlers.OnKeyDown event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnKeyDown.
+الحصول أو تعيين معالج الحدث لـ OnKeyDown.
 
 ```csharp
 public event DOMEventHandler OnKeyDown;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

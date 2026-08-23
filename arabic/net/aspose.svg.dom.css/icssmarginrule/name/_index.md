@@ -1,23 +1,21 @@
 ---
-title: ICSSMarginRule.Name
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSMarginRule ملكية. يجب أن تقوم سمة الاسم بإرجاع اسم الهامش في القاعدة. لم يتم تضمين الحرف  في الاسم.
+title: "ICSSMarginRule.Name"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية الاسم لـ ICSSMarginRule. يجب أن تُعيد خاصية الاسم اسم قاعدة الهامش. الحرف غير مُدرج في الاسم"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.css/icssmarginrule/name/
 ---
 ## ICSSMarginRule.Name property
 
-يجب أن تقوم سمة الاسم بإرجاع اسم الهامش في القاعدة. لم يتم تضمين الحرف @ في الاسم.
+يجب أن تُعيد خاصية الاسم اسم قاعدة at-rule للهوامش. لا يُضمّن حرف @ في الاسم.
 
 ```csharp
 public string Name { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSMarginRule](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssmarginrule/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

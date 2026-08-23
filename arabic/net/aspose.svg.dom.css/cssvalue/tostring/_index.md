@@ -1,14 +1,14 @@
 ---
-title: CSSValue.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValue طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "CSSValue.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSValue ToString. تُرجع String تمثل هذه النسخة"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.css/cssvalue/tostring/
 ---
 ## CSSValue.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

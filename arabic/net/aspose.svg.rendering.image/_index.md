@@ -1,25 +1,23 @@
 ---
-title: Aspose.Svg.Rendering.Image
-second_title: Aspose.SVG لمرجع .NET API
-description: ملف Aspose.Svg التقديم صورة توفر مساحة الاسم فئة جهاز محددة بالإضافة إلى عدد قليل من خيارات العرض فئات مسؤولة عن التقديم إلى تنسيقات نقطية jpeg  png  bmp  gif  tiff .
+title: "Aspose.Svg.Rendering.Image"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "توفر مساحة الاسم Aspose.Svg.Rendering.Image فئة جهاز محددة بالإضافة إلى بعض فئات خيارات العرض المسؤولة عن العرض إلى صيغ الرسوم النقطية jpeg png bmp gif tiff."
 type: docs
-weight: 260
+weight: 280
 url: /ar/net/aspose.svg.rendering.image/
 ---
-ملف **Aspose.Svg التقديم صورة** توفر مساحة الاسم فئة جهاز محددة بالإضافة إلى عدد قليل من خيارات العرض فئات مسؤولة عن التقديم إلى تنسيقات نقطية: jpeg ، png ، bmp ، gif ، tiff .
+توفر مساحة الاسم **Aspose.Svg.Rendering.Image** فئة جهاز محددة بالإضافة إلى عدد قليل من فئات خيارات العرض المسؤولة عن العرض إلى صيغ نقطية: jpeg، png، bmp، gif، tiff.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [ImageDevice](./imagedevice/) | يمثل التقديم إلى التنسيقات النقطية: jpeg ، png ، bmp ، gif ، tiff . |
-| [ImageRenderingOptions](./imagerenderingoptions/) | يمثل خيارات التقديم لـ[`ImageDevice`](../aspose.svg.rendering.image/imagedevice/) . تُستخدم هذه الخيارات لتحديد تنسيق صورة الإخراج والضغط والدقة وما إلى ذلك. |
-| [TextOptions](./textoptions/) | يمثل خيارات عرض النص لـ[`ImageDevice`](../aspose.svg.rendering.image/imagedevice/) . |
-## تعداد
+| [ImageDevice](./imagedevice/) | يمثل العرض إلى صيغ الرسوم النقطية: jpeg, png, bmp, gif, tiff. |
+| [ImageRenderingOptions](./imagerenderingoptions/) | يمثل خيارات العرض لـ [`ImageDevice`](../aspose.svg.rendering.image/imagedevice/). تُستخدم هذه الخيارات لتحديد صيغة الصورة الناتجة، الضغط، الدقة، إلخ. |
+| [TextOptions](./textoptions/) | يمثل خيارات عرض النص لـ [`ImageDevice`](../aspose.svg.rendering.image/imagedevice/). |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [Compression](./compression/) | يحدد مخططات الضغط الممكنة للصور النقطية بتنسيق ملف الصورة ذي العلامات (TIFF). |
+| [Compression](./compression/) | يحدد مخططات الضغط الممكنة لصور البت الممّزة بتنسيق TIFF (Tagged Image File Format). |
 | [ImageFormat](./imageformat/) | يحدد تنسيق ملف الصورة. |
-
-

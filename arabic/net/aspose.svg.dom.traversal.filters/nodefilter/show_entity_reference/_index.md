@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.SHOW_ENTITY_REFERENCE
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeFilter مجال. إظهار عقد مرجع الكيان.
+title: "NodeFilter.SHOW_ENTITY_REFERENCE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "NodeFilter SHOW_ENTITY_REFERENCE حقل. إظهار عقد EntityReference"
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.dom.traversal.filters/nodefilter/show_entity_reference/
 ---
 ## NodeFilter.SHOW_ENTITY_REFERENCE field
 
-إظهار عقد مرجع الكيان.
+إظهار عقد EntityReference.
 
 ```csharp
 public const long SHOW_ENTITY_REFERENCE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeFilter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

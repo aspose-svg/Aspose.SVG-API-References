@@ -1,31 +1,29 @@
 ---
-title: SVGMatrix.Multiply
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMatrix طريقة. يقوم بضرب المصفوفة. يتم ضرب هذه المصفوفة لاحقًا بمصفوفة أخرى  لإرجاع المصفوفة الجديدة الناتجة.
+title: "SVGMatrix.Multiply"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGMatrix Multiply. تقوم بأداء ضرب المصفوفات. تُضرب هذه المصفوفة بعديًا بمصفوفة أخرى لتعيد المصفوفة الجديدة الناتجة"
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.datatypes/svgmatrix/multiply/
 ---
 ## SVGMatrix.Multiply method
 
-يقوم بضرب المصفوفة. يتم ضرب هذه المصفوفة لاحقًا بمصفوفة أخرى ، لإرجاع المصفوفة الجديدة الناتجة.
+يُجري ضربًا مصفوفيًا. تُضرب هذه المصفوفة بعديًا بمصفوفة أخرى، مما يُعيد المصفوفة الجديدة الناتجة.
 
 ```csharp
 public SVGMatrix Multiply(SVGMatrix secondMatrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| secondMatrix | SVGMatrix | المصفوفة التي يتم ضربها لاحقًا في هذه المصفوفة. |
+| secondMatrix | SVGMatrix | المصفوفة التي تُضرب بعديًا على هذه المصفوفة. |
 
 ### قيمة الإرجاع
 
 المصفوفة الناتجة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgmatrix/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

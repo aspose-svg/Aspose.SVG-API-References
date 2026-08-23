@@ -1,42 +1,40 @@
 ---
-title: Class ImageTraceSimplifier
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.ImageTraceSimplifier فصل. تعتبر فئة ImageTraceSimplifier مسؤولة عن تقليل عدد النقاط في المنحنى الذي يتم تقريبه بواسطة سلسلة من نقاط التتبع.
+title: "فئة ImageTraceSimplifier"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.ImageVectorization.ImageTraceSimplifier. فئة ImageTraceSimplifier مسؤولة عن تقليل عدد النقاط في منحنى يتم تقريبها بسلسلة من نقاط التتبع."
 type: docs
-weight: 2120
+weight: 4190
 url: /ar/net/aspose.svg.imagevectorization/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier class
 
-تعتبر فئة ImageTraceSimplifier مسؤولة عن تقليل عدد النقاط في المنحنى الذي يتم تقريبه بواسطة سلسلة من نقاط التتبع.
+الفئة ImageTraceSimplifier مسؤولة عن تقليل عدد النقاط في منحنى يتم تقريبها بسلسلة من نقاط التتبع.
 
 ```csharp
 public class ImageTraceSimplifier : IImageTraceSimplifier
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageTraceSimplifier](imagetracesimplifier/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ImageTraceSimplifier` فئة . |
-| [ImageTraceSimplifier](imagetracesimplifier/#constructor_1)(float) | يقوم بتهيئة مثيل جديد لملف`ImageTraceSimplifier` فئة . |
+| [ImageTraceSimplifier](imagetracesimplifier/#constructor)() | يقوم بإنشاء نسخة جديدة من الفئة `ImageTraceSimplifier`. |
+| [ImageTraceSimplifier](imagetracesimplifier/#constructor_1)(*float*) | يقوم بإنشاء نسخة جديدة من الفئة `ImageTraceSimplifier`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance/) { get; set; } | تحدد قيمة التفاوت الحد الأقصى لتفاوت الخطأ المسموح به لحذف نقطة من التتبع. يجب أن يكون في النطاق من 0 إلى 4. أي قيم أعلى أو أدنى ستتم محاذاة الحد الأدنى والأقصى لقيم هذا النطاق ، وفقًا لذلك. القيمة الافتراضية هي 0.3. |
+| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance/) { get; set; } | قيمة التسامح تحدد الحد الأقصى لتسامح الخطأ المسموح به لإزالة نقطة من التتبع. يجب أن تكون في النطاق من 0 إلى 4. أي قيم أعلى أو أقل سيتم تعديلها لتتناسب مع الحد الأدنى والحد الأقصى لهذا النطاق، وفقًا لذلك. القيمة الافتراضية هي 0.3. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Simplify](../../aspose.svg.imagevectorization/imagetracesimplifier/simplify/)(IEnumerable&lt;PointF&gt;) | يقلل من عدد النقاط بقائمة نقاط التتبع. |
+| [Simplify](../../aspose.svg.imagevectorization/imagetracesimplifier/simplify/)(*IEnumerable&lt;PointF&gt;*) | يقلل عدد النقاط في قائمة نقاط التتبع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageTraceSimplifier](../iimagetracesimplifier/)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

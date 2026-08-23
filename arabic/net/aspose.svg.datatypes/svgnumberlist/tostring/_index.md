@@ -1,14 +1,14 @@
 ---
-title: SVGNumberList.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGNumberList طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "SVGNumberList.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGNumberList ToString. تُعيد String تمثل هذه الحالة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.datatypes/svgnumberlist/tostring/
 ---
 ## SVGNumberList.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGNumberList](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgnumberlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

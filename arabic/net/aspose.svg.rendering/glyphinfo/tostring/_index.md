@@ -1,14 +1,14 @@
 ---
-title: GlyphInfo.ToString
-second_title: Aspose.SVG لمرجع .NET API
-description: GlyphInfo طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "GlyphInfo.ToString"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GlyphInfo ToString. تُرجع سلسلة تمثل هذه المثيلة"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.rendering/glyphinfo/tostring/
 ---
 ## GlyphInfo.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+يرجع سلسلة نصية (String) تمثل هذه الحالة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذه النسخة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [GlyphInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../glyphinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

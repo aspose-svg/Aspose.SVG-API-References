@@ -1,27 +1,25 @@
 ---
-title: Counter.Separator
-second_title: Aspose.SVG لمرجع .NET API
-description: Counter ملكية. تُستخدم هذه السمة لفاصل العدادات المتداخلة.
+title: "Counter.Separator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Separator في Counter. تُستخدم هذه السمة للفاصل بين العدادات المتداخلة."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom.css/counter/separator/
 ---
 ## Counter.Separator property
 
-تُستخدم هذه السمة لفاصل العدادات المتداخلة.
+تُستخدم هذه السمة لتحديد الفاصل للعدادات المتداخلة.
 
 ```csharp
 public string Separator { get; }
 ```
 
-### Property_Value
+### Property Value
 
-فاصل العداد .
+فاصل العدادات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Counter](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../counter/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

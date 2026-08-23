@@ -1,27 +1,25 @@
 ---
-title: DOMException.Message
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMException ملكية. إرجاع سلسلة تمثل رسالة أو وصفًا مرتبطًا باسم الخطأ المحدد.
+title: "DOMException.Message"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DOMException Message. تُرجع سلسلة تمثل رسالة أو وصفًا مرتبطًا باسم الخطأ المعطى"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom/domexception/message/
 ---
 ## DOMException.Message property
 
-إرجاع سلسلة تمثل رسالة أو وصفًا مرتبطًا باسم الخطأ المحدد.
+يعيد سلسلة تمثل رسالة أو وصفًا مرتبطًا باسم الخطأ المعطى.
 
 ```csharp
 public override string Message { get; }
 ```
 
-### Property_Value
+### Property Value
 
-رسالة الخطأ .
+رسالة الخطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMException](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../domexception/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Device2.EndElement
-second_title: Aspose.SVG لمرجع .NET API
-description: Device طريقة. ينتهي عرض العقدة .
+title: "Device-2.EndElement"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة EndElement في Device. تُنهي تصيير العقدة."
 type: docs
-weight: 130
+weight: 160
 url: /ar/net/aspose.svg.rendering/device-2/endelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
+## Device<TGraphicContext,TRenderingOptions>.EndElement method
 
-ينتهي عرض العقدة .
+ينهي رسم العقدة.
 
 ```csharp
-public abstract void EndElement(Element element)
+public virtual void EndElement(Element element)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | element | Element | ال[`Element`](../../../aspose.svg.dom/element/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../device-2/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

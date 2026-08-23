@@ -1,23 +1,21 @@
 ---
-title: IColorComponents.Alpha
-second_title: Aspose.SVG لمرجع .NET API
-description: IColorComponents ملكية. إرجاع مكون ألفا .
+title: "IColorComponents.Alpha"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IColorComponents Alpha. تُرجع مكون Alpha"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/icolorcomponents/alpha/
 ---
 ## IColorComponents.Alpha property
 
-إرجاع مكون ألفا .
+يعيد مكوّن ألفا.
 
 ```csharp
 public float Alpha { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorComponents](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../icolorcomponents/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

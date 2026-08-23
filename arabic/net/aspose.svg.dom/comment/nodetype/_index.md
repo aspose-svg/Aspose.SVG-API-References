@@ -1,7 +1,7 @@
 ---
-title: Comment.NodeType
-second_title: Aspose.SVG لمرجع .NET API
-description: Comment ملكية. رمز يمثل نوع الكائن الأساسي.
+title: "Comment.NodeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Comment NodeType. رمز يمثل نوع الكائن الأساسي"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/comment/nodetype/
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.dom/comment/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع العقدة .
+نوع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Comment](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../comment/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

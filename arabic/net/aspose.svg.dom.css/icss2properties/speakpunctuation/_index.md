@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.SpeakPunctuation
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية نطق علامات الترقيم في CSS2.
+title: "ICSS2Properties.SpeakPunctuation"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties SpeakPunctuation. انظر تعريف الخاصية speak-punctuation في CSS2"
 type: docs
-weight: 1030
+weight: 1060
 url: /ar/net/aspose.svg.dom.css/icss2properties/speakpunctuation/
 ---
 ## ICSS2Properties.SpeakPunctuation property
 
-راجع تعريف خاصية نطق علامات الترقيم في CSS2.
+انظر إلى تعريف الخاصية speak-punctuation في CSS2.
 
 ```csharp
 public string SpeakPunctuation { get; set; }
@@ -16,12 +16,10 @@ public string SpeakPunctuation { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية نطق علامات الترقيم
+خاصية speak-punctuation
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

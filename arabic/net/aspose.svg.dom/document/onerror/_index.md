@@ -1,24 +1,22 @@
 ---
-title: Document.OnError
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث لحدث OnError أو تعيينه.
+title: "Document.OnError"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnError. يحصل أو يعيّن معالج الحدث لحدث OnError."
 type: docs
 weight: 400
 url: /ar/net/aspose.svg.dom/document/onerror/
 ---
 ## Document.OnError event
 
-الحصول على معالج الحدث لحدث OnError أو تعيينه.
+يحصل أو يضبط معالج الحدث لحدث OnError.
 
 ```csharp
 public event DOMEventHandler OnError;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

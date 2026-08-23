@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.AddedNodes
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationRecord ملكية. إرجاع العقد المضافة .
+title: "MutationRecord.AddedNodes"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationRecord AddedNodes. تُرجع العقد المضافة."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
 ---
 ## MutationRecord.AddedNodes property
 
-إرجاع العقد المضافة .
+أرجع العقد المضافة.
 
 ```csharp
 public NodeList AddedNodes { get; }
 ```
 
-### Property_Value
+### Property Value
 
-العقد المضافة .
+العقد المضافة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

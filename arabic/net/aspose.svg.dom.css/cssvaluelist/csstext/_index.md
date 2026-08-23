@@ -1,27 +1,27 @@
 ---
-title: CSSValueList.CSSText
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSValueList ملكية. تمثيل سلسلة للقيمة الحالية.
+title: "CSSValueList.CSSText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CSSValueList CSSText. تمثل خاصية CSSText لواجهة CSSValue القيمة الحالية للخاصية المحسوبة في CSS"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/cssvaluelist/csstext/
 ---
 ## CSSValueList.CSSText property
 
-تمثيل سلسلة للقيمة الحالية.
+خاصية CSSText لواجهة [`CSSValue`](../../cssvalue/) تمثل القيمة الحالية للخاصية المحسوبة في CSS.
+
+ملاحظة: كانت هذه الخاصية جزءًا من محاولة لإنشاء نموذج كائن CSS مكتوب بنوع. تم التخلي عن هذه المحاولة، ولا تدعمها معظم المتصفحات.
 
 ```csharp
 public override string CSSText { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نص CSS .
+DOMString تمثل القيمة الحالية للخاصية في CSS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSValueList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: IBrowsingContext.DOMImplementation
-second_title: Aspose.SVG لمرجع .NET API
-description: IBrowsingContext ملكية. الحصول على تنفيذ DOM .
+title: "IBrowsingContext.DOMImplementation"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IB BrowsingContext DOMImplementation. يحصل على تنفيذ DOM"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
 ---
 ## IBrowsingContext.DOMImplementation property
 
-الحصول على تنفيذ DOM .
+يحصل على تنفيذ DOM.
 
 ```csharp
 public IDOMImplementation DOMImplementation { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تنفيذ DOM .
+تنفيذ DOM.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

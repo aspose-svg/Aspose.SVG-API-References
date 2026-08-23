@@ -1,135 +1,133 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageDevice البناء. يقوم بتهيئة مثيل جديد لملفImageDevice فئة .
+title: "ImageDevice"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ ImageDevice. يهيئ مثيلًا جديدًا من فئة ImageDevice."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
-## ImageDevice(ICreateStreamProvider) {#constructor}
+## ImageDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | مزود البث. |
+| streamProvider | ICreateStreamProvider | مزوّد الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) class عن طريق تقديم الخيارات وموفر البث.
+يهيئ مثيلًا جديدًا من الفئة [`ImageDevice`](../) باستخدام خيارات العرض ومزود الدفق.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | ImageRenderingOptions | خيارات التقديم. |
-| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) واجهه المستخدم |
+| options | ImageRenderingOptions | خيارات العرض. |
+| streamProvider | ICreateStreamProvider | كائن يطبق الواجهة [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(string) {#constructor_5}
+## ImageDevice(*string*) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(string file)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | file | String | اسم ملف الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), string*) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) class عن طريق تقديم الخيارات واسم ملف الإخراج.
+يهيئ مثيلًا جديدًا من الفئة [`ImageDevice`](../) باستخدام خيارات العرض واسم ملف الإخراج.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | ImageRenderingOptions | خيارات التقديم. |
+| options | ImageRenderingOptions | خيارات العرض. |
 | file | String | اسم ملف الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(Stream) {#constructor_4}
+## ImageDevice(*Stream*) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| دفق | Stream | الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), Stream*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) class عن طريق تقديم الخيارات ودفق الإخراج.
+يهيئ مثيلًا جديدًا من الفئة [`ImageDevice`](../) باستخدام خيارات العرض وتد الإخراج.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | ImageRenderingOptions | خيارات التقديم. |
-| stream | Stream | تيار الإخراج. |
+| options | ImageRenderingOptions | خيارات العرض. |
+| دفق | Stream | دفق الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: IDevice.StrokeText
-second_title: Aspose.SVG لمرجع .NET API
-description: IDevice طريقة. ضربات السلسلة النصية المحددة في الموقع المحدد.
+title: "IDevice.StrokeText"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IDevice StrokeText. يرسم النص المحدد في الموقع المحدد"
 type: docs
 weight: 230
 url: /ar/net/aspose.svg.rendering/idevice/stroketext/
 ---
 ## IDevice.StrokeText method
 
-ضربات السلسلة النصية المحددة في الموقع المحدد.
+يرسم سلسلة النص المحددة في الموقع المحدد.
 
 ```csharp
 public void StrokeText(string text, PointF pt)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | السلسلة إلى السكتة الدماغية. |
-| pt | PointF | النقطة التي تحدد الإحداثيات حيث يبدأ النص. |
+| نص | String | النص المراد رسمه. |
+| pt | PointF | النقطة التي تحدد الإحداثيات لبدء النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IDevice](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../idevice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: DocumentType.PublicId
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentType ملكية. المعرف العام للمجموعة الفرعية الخارجية .
+title: "DocumentType.PublicId"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DocumentType PublicId. المعرف العام للمجموعة الخارجية"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom/documenttype/publicid/
 ---
 ## DocumentType.PublicId property
 
-المعرف العام للمجموعة الفرعية الخارجية .
+المعرّف العام للمجموعة الفرعية الخارجية.
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف العام .
+المعرف العام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentType](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documenttype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OVER
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFECompositeElement مجال. يتوافق مع القيمة أكثر .
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OVER"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_FECOMPOSITE_OPERATOR_OVER لعنصر SVGFECompositeElement. يتطابق مع القيمة over"
 type: docs
 weight: 170
 url: /ar/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_over/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OVER field
 
-يتوافق مع القيمة "أكثر" .
+يتطابق مع القيمة 'over'.
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_OVER;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFECompositeElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

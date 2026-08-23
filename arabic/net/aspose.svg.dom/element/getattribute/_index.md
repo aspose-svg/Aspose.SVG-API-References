@@ -1,31 +1,29 @@
 ---
-title: Element.GetAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Element طريقة. استرداد قيمة سمة بالاسم.
+title: "Element.GetAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Element GetAttribute. تسترجع قيمة سمة حسب الاسم"
 type: docs
-weight: 240
+weight: 230
 url: /ar/net/aspose.svg.dom/element/getattribute/
 ---
 ## Element.GetAttribute method
 
-استرداد قيمة سمة بالاسم.
+يسترجع قيمة سمة حسب الاسم.
 
 ```csharp
-public string GetAttribute(string name)
+public string GetAttribute(string qualifiedName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة المراد استردادها. |
+| qualifiedName | String | اسم السمة المراد استرجاعها. |
 
 ### قيمة الإرجاع
 
-قيمة السمة المرجعة
+يعيد قيمة السمة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Element](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../element/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

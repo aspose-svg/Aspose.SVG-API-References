@@ -1,24 +1,22 @@
 ---
-title: Document.OnLoadedMetadata
-second_title: Aspose.SVG لمرجع .NET API
-description: Document حدث. الحصول على معالج الحدث لحدث OnLoadedMetadata أو تعيينه.
+title: "Document.OnLoadedMetadata"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث Document OnLoadedMetadata. يحصل أو يعيّن معالج الحدث لحدث OnLoadedMetadata."
 type: docs
 weight: 490
 url: /ar/net/aspose.svg.dom/document/onloadedmetadata/
 ---
 ## Document.OnLoadedMetadata event
 
-الحصول على معالج الحدث لحدث OnLoadedMetadata أو تعيينه.
+الحصول أو تعيين معالج الحدث لـ OnLoadedMetadata.
 
 ```csharp
 public event DOMEventHandler OnLoadedMetadata;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

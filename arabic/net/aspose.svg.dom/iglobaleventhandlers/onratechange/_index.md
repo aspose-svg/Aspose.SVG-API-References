@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnRateChange
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث لحدث OnRateChange أو تعيينه.
+title: "IGlobalEventHandlers.OnRateChange"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حدث OnRateChange في IGlobalEventHandlers. يحصل أو يضبط معالج الحدث لـ OnRateChange."
 type: docs
 weight: 360
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onratechange/
 ---
 ## IGlobalEventHandlers.OnRateChange event
 
-الحصول على معالج الحدث لحدث OnRateChange أو تعيينه.
+الحصول أو تعيين معالج الحدث لـ OnRateChange.
 
 ```csharp
 public event DOMEventHandler OnRateChange;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

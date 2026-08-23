@@ -1,31 +1,29 @@
 ---
-title: SVGMatrix.Scale
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGMatrix طريقة. الضرب اللاحق لتحويل مقياس منتظم في المصفوفة الحالية وإرجاع المصفوفة الناتجة.
+title: "SVGMatrix.Scale"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGMatrix Scale. تُجري post‑multiply لتحويل مقياس موحد على المصفوفة الحالية وتُعيد المصفوفة الناتجة"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg.datatypes/svgmatrix/scale/
 ---
 ## SVGMatrix.Scale method
 
-الضرب اللاحق لتحويل مقياس منتظم في المصفوفة الحالية وإرجاع المصفوفة الناتجة.
+يضرب بعديًا تحويل مقياس موحد على المصفوفة الحالية ويُعيد المصفوفة الناتجة.
 
 ```csharp
 public SVGMatrix Scale(float scaleFactor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| scaleFactor | Single | عامل الحجم في كل من X و Y. |
+| scaleFactor | Single | عامل المقياس في كل من X و Y. |
 
 ### قيمة الإرجاع
 
 المصفوفة الناتجة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGMatrix](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgmatrix/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

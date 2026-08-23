@@ -1,14 +1,14 @@
 ---
-title: Interface ISolidBrush
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.ISolidBrush واجهه المستخدم. يحدد واجهة الفرشاة بلون واحد
+title: "واجهة ISolidBrush"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Drawing.ISolidBrush. تحدد واجهة الفرشاة بلون واحد"
 type: docs
-weight: 1480
+weight: 3510
 url: /ar/net/aspose.svg.drawing/isolidbrush/
 ---
 ## ISolidBrush interface
 
-يحدد واجهة الفرشاة بلون واحد
+يعرف واجهة فرشاة بلون واحد
 
 ```csharp
 public interface ISolidBrush : IBrush
@@ -16,14 +16,12 @@ public interface ISolidBrush : IBrush
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.svg.drawing/isolidbrush/color/) { get; } | احصل على لون الفرشاة . |
+| [Color](../../aspose.svg.drawing/isolidbrush/color/) { get; } | احصل على لون الفرشاة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IBrush](../ibrush/)
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

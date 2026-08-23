@@ -1,76 +1,77 @@
 ---
-title: Class XpsDevice
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.Xps.XpsDevice فصل. يمثل التقديم إلى مستند xps .
+title: "فئة XpsDevice"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Rendering.Xps.XpsDevice فئة. يمثل عملية التصيير إلى مستند XPS"
 type: docs
-weight: 3050
+weight: 5120
 url: /ar/net/aspose.svg.rendering.xps/xpsdevice/
 ---
 ## XpsDevice class
 
-يمثل التقديم إلى مستند xps .
+يمثل العرض إلى مستند XPS.
 
 ```csharp
 public class XpsDevice : Device<XpsGraphicContext, XpsRenderingOptions>
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XpsDevice](xpsdevice/#constructor)(ICreateStreamProvider) | يقوم بتهيئة مثيل جديد لملف`XpsDevice` فئة . |
-| [XpsDevice](xpsdevice/#constructor_4)(Stream) | يقوم بتهيئة مثيل جديد لملف`XpsDevice` فئة . |
-| [XpsDevice](xpsdevice/#constructor_5)(string) | يقوم بتهيئة مثيل جديد لملف`XpsDevice` فئة . |
-| [XpsDevice](xpsdevice/#constructor_1)(XpsRenderingOptions, ICreateStreamProvider) | يقوم بتهيئة مثيل جديد لملف`XpsDevice` class عن طريق تقديم الخيارات وموفر البث. |
-| [XpsDevice](xpsdevice/#constructor_2)(XpsRenderingOptions, Stream) | يقوم بتهيئة مثيل جديد لملف`XpsDevice` class عن طريق تقديم الخيارات ودفق الإخراج. |
-| [XpsDevice](xpsdevice/#constructor_3)(XpsRenderingOptions, string) | يقوم بتهيئة مثيل جديد لملف`XpsDevice` class عن طريق تقديم الخيارات واسم ملف الإخراج. |
+| [XpsDevice](xpsdevice/#constructor)(*[ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | يقوم بإنشاء نسخة جديدة من الفئة `XpsDevice`. |
+| [XpsDevice](xpsdevice/#constructor_4)(*Stream*) | يقوم بإنشاء نسخة جديدة من الفئة `XpsDevice`. |
+| [XpsDevice](xpsdevice/#constructor_5)(*string*) | يقوم بإنشاء نسخة جديدة من الفئة `XpsDevice`. |
+| [XpsDevice](xpsdevice/#constructor_1)(*[XpsRenderingOptions](../xpsrenderingoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | يقوم بإنشاء نسخة جديدة من الفئة `XpsDevice` باستخدام خيارات التصيير ومزود الدفق. |
+| [XpsDevice](xpsdevice/#constructor_2)(*[XpsRenderingOptions](../xpsrenderingoptions/), Stream*) | يقوم بإنشاء نسخة جديدة من الفئة `XpsDevice` باستخدام خيارات التصيير وتدفق الإخراج. |
+| [XpsDevice](xpsdevice/#constructor_3)(*[XpsRenderingOptions](../xpsrenderingoptions/), string*) | يقوم بإنشاء نسخة جديدة من الفئة `XpsDevice` باستخدام خيارات التصيير واسم ملف الإخراج. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [GraphicContext](../../aspose.svg.rendering/device-2/graphiccontext/) { get; } |  |
 | [Options](../../aspose.svg.rendering/device-2/options/) { get; } |  |
+| virtual [Configuration](../../aspose.svg.rendering/device-2/configuration/) { get; } |  |
+| [OutputStream](../../aspose.svg.rendering/device-2/outputstream/) { get; } |  |
+| [StreamProvider](../../aspose.svg.rendering/device-2/streamprovider/) { get; } |  |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [AddRect](../../aspose.svg.rendering.xps/xpsdevice/addrect/)(RectangleF) | إلحاق مستطيل بالمسار الحالي كمسار فرعي كامل. |
-| override [BeginDocument](../../aspose.svg.rendering.xps/xpsdevice/begindocument/)(Document) | يبدأ عرض المستند. |
-| override [BeginElement](../../aspose.svg.rendering.xps/xpsdevice/beginelement/)(Element, RectangleF) | يبدأ عرض العنصر. |
-| override [BeginPage](../../aspose.svg.rendering.xps/xpsdevice/beginpage/)(SizeF) | يبدأ عرض الصفحة الجديدة . |
-| override [Clip](../../aspose.svg.rendering.xps/xpsdevice/clip/)(FillMode) | يعدل مسار القطع الحالي عن طريق تقاطعه مع المسار الحالي ، باستخدام قاعدة FillMode لتحديد المنطقة المراد تعبئتها. تنهي هذه الطريقة المسار الحالي. |
-| override [ClosePath](../../aspose.svg.rendering.xps/xpsdevice/closepath/)() | لإغلاق المسار الفرعي الحالي بإلحاق مقطع بخط مستقيم من النقطة الحالية إلى نقطة بداية المسار الفرعي. إذا كان المسار الفرعي الحالي مغلقًا بالفعل ، فإن "ClosePath" لا يفعل شيئًا . ينهي عامل التشغيل هذا المسار الفرعي الحالي. يؤدي إلحاق مقطع آخر بالمسار الحالي إلى بدء مسار فرعي جديد ، حتى إذا بدأ المقطع الجديد عند نقطة النهاية التي تم الوصول إليها بواسطة طريقة "ClosePath" . |
-| override [CubicBezierTo](../../aspose.svg.rendering.xps/xpsdevice/cubicbezierto/)(PointF, PointF, PointF) | لإلحاق منحنى بيزير مكعب بالمسار الحالي. يمتد المنحنى من النقطة الحالية إلى النقطة pt2 ، باستخدام pt1 و pt2 كنقاط تحكم Bézier. النقطة الحالية الجديدة هي pt3. |
+| virtual [AddRect](../../aspose.svg.rendering/device-2/addrect/)(*RectangleF*) |  |
+| virtual [BeginDocument](../../aspose.svg.rendering/device-2/begindocument/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [BeginElement](../../aspose.svg.rendering/device-2/beginelement/)(*[Element](../../aspose.svg.dom/element/), RectangleF*) |  |
+| virtual [BeginPage](../../aspose.svg.rendering/device-2/beginpage/)(*SizeF*) |  |
+| virtual [Clip](../../aspose.svg.rendering/device-2/clip/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [ClosePath](../../aspose.svg.rendering/device-2/closepath/)() |  |
+| virtual [CubicBezierTo](../../aspose.svg.rendering/device-2/cubicbezierto/)(*PointF, PointF, PointF*) |  |
 | [Dispose](../../aspose.svg.rendering/device-2/dispose/)() |  |
-| override [DrawImage](../../aspose.svg.rendering.xps/xpsdevice/drawimage/)(byte[], ImageType, RectangleF) | يرسم الصورة المحددة . |
+| virtual [DrawImage](../../aspose.svg.rendering/device-2/drawimage/)(*byte[], [WebImageFormat](../../aspose.svg.drawing/webimageformat/), RectangleF*) |  |
 | virtual [EndDocument](../../aspose.svg.rendering/device-2/enddocument/)() |  |
-| override [EndElement](../../aspose.svg.rendering.xps/xpsdevice/endelement/)(Element) | ينتهي عرض العنصر. |
-| override [EndPage](../../aspose.svg.rendering.xps/xpsdevice/endpage/)() | ينتهي عرض الصفحة الحالية. |
-| override [Fill](../../aspose.svg.rendering.xps/xpsdevice/fill/)(FillMode) | يملأ المنطقة بأكملها المحاطة بالمسار الحالي. إذا كان المسار يتكون من عدة مسارات فرعية غير متصلة ، فإنه يملأ الدواخل لجميع المسارات الفرعية ، تعتبر معًا. تنهي هذه الطريقة المسار الحالي. |
-| override [FillText](../../aspose.svg.rendering.xps/xpsdevice/filltext/)(string, PointF) | يملأ السلسلة النصية المحددة في المكان المحدد. |
-| override [Flush](../../aspose.svg.rendering.xps/xpsdevice/flush/)() | مسح جميع البيانات لإخراج التدفق. |
-| override [LineTo](../../aspose.svg.rendering.xps/xpsdevice/lineto/)(PointF) | لإلحاق مقطع خط مستقيم من النقطة الحالية بالنقطة (نقطة). النقطة الحالية الجديدة هي pt. |
-| override [MoveTo](../../aspose.svg.rendering.xps/xpsdevice/moveto/)(PointF) | يبدأ مسارًا فرعيًا جديدًا عن طريق تحريك النقطة الحالية إلى إحداثيات المعلمة pt ، مع حذف أي مقطع خط متصل. إذا كانت طريقة إنشاء المسار السابقة في المسار الحالي هي أيضًا "MoveTo" ، فإن "MoveTo" الجديد يتجاوزها ؛ لا توجد آثار لعملية "MoveTo" السابقة في المسار. |
-| override [RestoreGraphicContext](../../aspose.svg.rendering.xps/xpsdevice/restoregraphiccontext/)() | يعيد سياق الرسومات بالكامل إلى قيمته السابقة عن طريق إخراجه من المكدس. |
+| virtual [EndElement](../../aspose.svg.rendering/device-2/endelement/)(*[Element](../../aspose.svg.dom/element/)*) |  |
+| virtual [EndPage](../../aspose.svg.rendering/device-2/endpage/)() |  |
+| virtual [Fill](../../aspose.svg.rendering/device-2/fill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [FillText](../../aspose.svg.rendering/device-2/filltext/)(*string, PointF*) |  |
+| virtual [Flush](../../aspose.svg.rendering/device-2/flush/)() |  |
+| virtual [LineTo](../../aspose.svg.rendering/device-2/lineto/)(*PointF*) |  |
+| virtual [MoveTo](../../aspose.svg.rendering/device-2/moveto/)(*PointF*) |  |
+| virtual [RestoreGraphicContext](../../aspose.svg.rendering/device-2/restoregraphiccontext/)() |  |
 | virtual [SaveGraphicContext](../../aspose.svg.rendering/device-2/savegraphiccontext/)() |  |
-| override [Stroke](../../aspose.svg.rendering.xps/xpsdevice/stroke/)() | رسم خط بطول المسار الحالي. يتبع الخط المحدد كل مقطع مستقيم أو منحني في المسار ، متمركزًا على المقطع مع جوانب موازية له. يتم التعامل مع كل من المسارات الفرعية للمسار بشكل منفصل. تنهي هذه الطريقة المسار الحالي. |
-| override [StrokeAndFill](../../aspose.svg.rendering.xps/xpsdevice/strokeandfill/)(FillMode) | ضربات وملء المسار الحالي. تنهي هذه الطريقة المسار الحالي. |
-| override [StrokeText](../../aspose.svg.rendering.xps/xpsdevice/stroketext/)(string, PointF) | ضربات السلسلة النصية المحددة في الموقع المحدد. |
+| virtual [Stroke](../../aspose.svg.rendering/device-2/stroke/)() |  |
+| virtual [StrokeAndFill](../../aspose.svg.rendering/device-2/strokeandfill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [StrokeText](../../aspose.svg.rendering/device-2/stroketext/)(*string, PointF*) |  |
 
-## أعضاء آخرون
+## الأعضاء الأخرى
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| class [XpsGraphicContext](xpsdevice.xpsgraphiccontext/) | يحمل معلمات التحكم في الرسومات الحالية لجهاز XpsDevice. تحدد هذه المعلمات الإطار العام الذي ينفذ فيه مشغلو الرسومات. |
+| class [XpsGraphicContext](../../aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext) | يحتفظ بمعلمات التحكم الرسومية الحالية لجهاز XpsDevice. تحدد هذه المعلمات الإطار العام الذي تنفّذ فيه عمليات الرسوميات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../../aspose.svg.rendering/device-2/)
 * class [XpsGraphicContext](../xpsdevice.xpsgraphiccontext/)
 * class [XpsRenderingOptions](../xpsrenderingoptions/)
-* مساحة الاسم [Aspose.Svg.Rendering.Xps](../../aspose.svg.rendering.xps/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../)

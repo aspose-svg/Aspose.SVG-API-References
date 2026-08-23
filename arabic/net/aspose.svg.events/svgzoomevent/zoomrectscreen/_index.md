@@ -1,24 +1,22 @@
 ---
-title: SVGZoomEvent.ZoomRectScreen
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGZoomEvent ملكية. مستطيل التكبير المحدد في وحدات الشاشة . كائن SVGRect للقراءة فقط .
+title: "SVGZoomEvent.ZoomRectScreen"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ZoomRectScreen في SVGZoomEvent. مستطيل التكبير المحدد بوحدات الشاشة. كائن SVGRect للقراءة فقط"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.events/svgzoomevent/zoomrectscreen/
 ---
 ## SVGZoomEvent.ZoomRectScreen property
 
-مستطيل التكبير المحدد في وحدات الشاشة . كائن SVGRect للقراءة فقط .
+المستطيل المحدد للتكبير بوحدات الشاشة. كائن SVGRect للقراءة فقط.
 
 ```csharp
 public SVGRect ZoomRectScreen { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGRect](../../../aspose.svg.datatypes/svgrect/)
 * class [SVGZoomEvent](../)
-* مساحة الاسم [Aspose.Svg.Events](../../svgzoomevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

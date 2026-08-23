@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.PreviousSibling
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationRecord ملكية. إرجاع الشقيق السابق للعقد المضافة أو التي تمت إزالتها  أو فارغة.
+title: "MutationRecord.PreviousSibling"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationRecord PreviousSibling. تُرجع الأخ السابق للعقد المضافة أو المُزالة أو null"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.mutations/mutationrecord/previoussibling/
 ---
 ## MutationRecord.PreviousSibling property
 
-إرجاع الشقيق السابق للعقد المضافة أو التي تمت إزالتها ، أو فارغة.
+يرجع الأخ السابق للعقد المضافة أو المُزالة، أو null.
 
 ```csharp
 public Node PreviousSibling { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الأخ السابق .
+الأخ السابق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

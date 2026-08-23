@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.Height
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPatternElement ملكية. يتوافق مع سمة الارتفاع على عنصر النمط المحدد .
+title: "SVGPatternElement.Height"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Height لـ SVGPatternElement. تتطابق مع السمة height على عنصر النمط المعطى"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgpatternelement/height/
 ---
 ## SVGPatternElement.Height property
 
-يتوافق مع سمة "الارتفاع" على عنصر "النمط" المحدد .
+يتطابق مع السمة ‘height’ في عنصر ‘pattern’ المحدد.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-سمة "الارتفاع" لعنصر "النمط" المحدد .
+السمة ‘height’ للعنصر ‘pattern’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgpatternelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

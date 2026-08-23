@@ -1,33 +1,31 @@
 ---
-title: NamedNodeMap.GetNamedItemNS
-second_title: Aspose.SVG لمرجع .NET API
-description: NamedNodeMap طريقة. استرداد العقدة المحددة بواسطة الاسم المحلي ومساحة URI.
+title: "NamedNodeMap.GetNamedItemNS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetNamedItemNS في NamedNodeMap. تسترجع عقدة محددة بالاسم المحلي وURI مساحة الاسم."
 type: docs
-weight: 50
+weight: 40
 url: /ar/net/aspose.svg.collections/namednodemap/getnameditemns/
 ---
 ## NamedNodeMap.GetNamedItemNS method
 
-استرداد العقدة المحددة بواسطة الاسم المحلي ومساحة URI.
+يسترجع عقدة محددة بالاسم المحلي وURI مساحة الاسم.
 
 ```csharp
 public Attr GetNamedItemNS(string namespaceURI, string localName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceURI | String | مساحة الاسم URI. |
+| namespaceURI | String | معرف namespace URI. |
 | localName | String | اسم المحلي. |
 
 ### قيمة الإرجاع
 
-إرجاع العقدة.
+يرجع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../namednodemap/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

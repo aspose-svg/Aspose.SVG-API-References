@@ -1,28 +1,26 @@
 ---
-title: Url.SearchParams
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. يحصل على ملفIUrlSearchParams الكائن .
+title: "Url.SearchParams"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url SearchParams. يحصل على كائن IUrlSearchParams المرتبط"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg/url/searchparams/
 ---
 ## Url.SearchParams property
 
-يحصل على ملف[`IUrlSearchParams`](../../iurlsearchparams/) الكائن .
+يحصل على كائن [`IUrlSearchParams`](../../iurlsearchparams/) المرتبط.
 
 ```csharp
 public IUrlSearchParams SearchParams { get; }
 ```
 
-### Property_Value
+### Property Value
 
-[`IUrlSearchParams`](../../iurlsearchparams/) الكائن .
+[`IUrlSearchParams`](../../iurlsearchparams/) object.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IUrlSearchParams](../../iurlsearchparams/)
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

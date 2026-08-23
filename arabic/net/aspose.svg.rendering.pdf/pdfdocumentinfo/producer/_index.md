@@ -1,23 +1,21 @@
 ---
-title: PdfDocumentInfo.Producer
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfDocumentInfo ملكية. اسم المنتج الذي قام بتحويل المستند.
+title: "PdfDocumentInfo.Producer"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PdfDocumentInfo Producer. اسم المنتج الذي حول المستند"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.rendering.pdf/pdfdocumentinfo/producer/
 ---
 ## PdfDocumentInfo.Producer property
 
-اسم المنتج الذي قام بتحويل المستند.
+اسم المنتج الذي حول المستند.
 
 ```csharp
 public string Producer { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

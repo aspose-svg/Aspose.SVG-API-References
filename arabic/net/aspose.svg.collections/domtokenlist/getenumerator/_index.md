@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.GetEnumerator
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTokenList طريقة. إرجاع عداد يتكرر خلال المجموعة.
+title: "DOMTokenList.GetEnumerator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة DOMTokenList GetEnumerator. تُرجع كائن تعداد يتجول عبر المجموعة."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.collections/domtokenlist/getenumerator/
 ---
 ## DOMTokenList.GetEnumerator method
 
-إرجاع عداد يتكرر خلال المجموعة.
+يرجع كائن enumerator يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<string> GetEnumerator()
@@ -16,12 +16,10 @@ public IEnumerator<string> GetEnumerator()
 
 ### قيمة الإرجاع
 
-أنIEnumerator الكائن الذي يمكن استخدامه للتكرار من خلال المجموعة.
+كائن IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTokenList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../domtokenlist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

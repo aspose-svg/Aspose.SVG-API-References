@@ -1,28 +1,26 @@
 ---
-title: SVGTextPositioningElement.Rotate
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPositioningElement ملكية. يتوافق مع السمة استدارة على العنصر المحدد.
+title: "SVGTextPositioningElement.Rotate"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGTextPositioningElement Rotate. تتطابق مع السمة rotate على العنصر المعطى."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg/svgtextpositioningelement/rotate/
 ---
 ## SVGTextPositioningElement.Rotate property
 
-يتوافق مع السمة "استدارة" على العنصر المحدد.
+يتطابق مع السمة ‘rotate’ في العنصر المعطى.
 
 ```csharp
 public SVGAnimatedNumberList Rotate { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "استدارة" للعنصر المحدد.
+السمة ‘rotate’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGTextPositioningElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpositioningelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

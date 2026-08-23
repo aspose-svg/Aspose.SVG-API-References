@@ -1,14 +1,14 @@
 ---
-title: Numeric.GetValue
-second_title: Aspose.SVG لمرجع .NET API
-description: Numeric طريقة. يحصل على قيمة الوحدة .
+title: "Numeric.GetValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetValue في Numeric. يحصل على قيمة الوحدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.drawing/numeric/getvalue/
 ---
 ## GetValue() {#getvalue}
 
-يحصل على قيمة الوحدة .
+يحصل على قيمة الوحدة.
 
 ```csharp
 public double GetValue()
@@ -16,43 +16,41 @@ public double GetValue()
 
 ### قيمة الإرجاع
 
-قيمة الكائن .
+قيمة الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Numeric](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../numeric/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
-الحصول على القيمة المحولة إلى القيمة المحددة[`UnitType`](../../unittype/) .
+يحصل على القيمة محوّلة إلى الـ[`UnitType`](../../unittype/) المحدد.
 
 ```csharp
 public double GetValue(UnitType unitType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | unitType | UnitType | نوع الوحدة. |
 
 ### قيمة الإرجاع
 
-إرجاع القيمة التي تم تحويلها إلى النوع المحدد.
+يعيد القيمة التي تم تحويلها إلى النوع المحدد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | نوع الوحدة |
+| ArgumentNullException | unitType |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../numeric/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

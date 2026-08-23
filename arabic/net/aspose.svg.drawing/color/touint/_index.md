@@ -1,14 +1,14 @@
 ---
-title: Color.ToUint
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. ترميز مكونات Color ARGB إلى عدد صحيح غير موقعة.
+title: "Color.ToUint"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color ToUint. تُشفّر مكوّنات ARGB للون إلى عدد صحيح غير موقع."
 type: docs
 weight: 440
 url: /ar/net/aspose.svg.drawing/color/touint/
 ---
 ## Color.ToUint method
 
-ترميز مكونات Color ARGB إلى عدد صحيح غير موقعة.
+يقوم بترميز مكونات ARGB للون إلى unsigned int.
 
 ```csharp
 public uint ToUint()
@@ -16,12 +16,10 @@ public uint ToUint()
 
 ### قيمة الإرجاع
 
-عدد صحيح غير مشفر.
+عدد صحيح غير موقع مُشفّر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

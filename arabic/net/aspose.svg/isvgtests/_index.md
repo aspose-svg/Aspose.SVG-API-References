@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGTests
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ISVGTests واجهه المستخدم. Interface SVGTests اختبارات SVG للواجهة التي تنطبق على جميع العناصر التي لها سمات requiredFeatures و requiredExtensions و systemLanguage .
+title: "واجهة ISVGTests"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.ISVGTests. تُعرّف واجهة SVGTests واجهة تُطبق على جميع العناصر التي لديها السمات requiredFeatures و requiredExtensions و systemLanguage"
 type: docs
-weight: 2030
+weight: 4100
 url: /ar/net/aspose.svg/isvgtests/
 ---
 ## ISVGTests interface
 
-Interface SVGTests (اختبارات SVG) للواجهة التي تنطبق على جميع العناصر التي لها سمات "requiredFeatures" و "requiredExtensions" و "systemLanguage" .
+تحدد واجهة SVGTests واجهة تُطبق على جميع العناصر التي لديها سمات ‘requiredFeatures’ و ‘requiredExtensions’ و ‘systemLanguage’.
 
 ```csharp
 public interface ISVGTests
@@ -16,15 +16,13 @@ public interface ISVGTests
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions/) { get; } | يتوافق مع السمة "requiredExtensions" في العنصر المحدد. |
-| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures/) { get; } | يتوافق مع السمة "requiredFeatures" في العنصر المحدد . |
-| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage/) { get; } | يتوافق مع السمة "systemLanguage" على العنصر المحدد. |
+| [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions/) { get; } | يتطابق مع السمة ‘requiredExtensions’ على العنصر المعطى. |
+| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures/) { get; } | يتطابق مع السمة ‘requiredFeatures’ على العنصر المعطى. |
+| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage/) { get; } | يتطابق مع السمة ‘systemLanguage’ على العنصر المعطى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

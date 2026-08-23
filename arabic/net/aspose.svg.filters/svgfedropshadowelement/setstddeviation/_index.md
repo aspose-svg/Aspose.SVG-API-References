@@ -1,34 +1,32 @@
 ---
-title: SVGFEDropShadowElement.SetStdDeviation
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDropShadowElement طريقة. يضبط قيم السمة الانحراف القياسي .
+title: "SVGFEDropShadowElement.SetStdDeviation"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SetStdDeviation في SVGFEDropShadowElement. تعيين القيم للسمة stdDeviation."
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.filters/svgfedropshadowelement/setstddeviation/
 ---
 ## SVGFEDropShadowElement.SetStdDeviation method
 
-يضبط قيم السمة "الانحراف القياسي" .
+يضبط القيم للسمة ‘stdDeviation’.
 
 ```csharp
 public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stdDeviationX | Single | المكون X للسمة "الانحراف المعياري". |
-| stdDeviationY | Single | المكون Y للسمة "الانحراف القياسي". |
+| stdDeviationX | Single | المكوّن X للسمة ‘stdDeviation’. |
+| stdDeviationY | Single | المكوّن Y للخاصية ‘stdDeviation’. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFEDropShadowElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

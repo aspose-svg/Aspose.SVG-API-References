@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetStringValue
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue طريقة. تُستخدم هذه الطريقة للحصول على قيمة السلسلة. إذا كانت قيمة CSS لا تحتوي على قيمة سلسلة  فسيتم رفع استثناء DOM.
+title: "CSSPrimitiveValue.GetStringValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSPrimitiveValue GetStringValue. تُستخدم هذه الطريقة للحصول على القيمة النصية. إذا لم تحتوي قيمة CSS على قيمة نصية يتم رفع استثناء DOMException."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/getstringvalue/
 ---
 ## CSSPrimitiveValue.GetStringValue method
 
-تُستخدم هذه الطريقة للحصول على قيمة السلسلة. إذا كانت قيمة CSS لا تحتوي على قيمة سلسلة ، فسيتم رفع استثناء DOM.
+تُستخدم هذه الطريقة للحصول على القيمة النصية. إذا لم تحتوي قيمة CSS على قيمة نصية، يتم رفع استثناء DOMException.
 
 ```csharp
 public abstract string GetStringValue()
@@ -18,10 +18,8 @@ public abstract string GetStringValue()
 
 إرجاع القيمة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

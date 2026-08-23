@@ -1,23 +1,21 @@
 ---
-title: Renderer.Renderer
-second_title: Aspose.SVG لمرجع .NET API
-description: Renderer البناء. Default_Constructor
+title: "Renderer"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ Renderer. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering/renderer/renderer/
 ---
 ## Renderer constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public Renderer()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Renderer](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../renderer/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

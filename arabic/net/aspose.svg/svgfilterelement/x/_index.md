@@ -1,28 +1,26 @@
 ---
-title: SVGFilterElement.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFilterElement ملكية. يتوافق مع السمة x في عنصر عامل التصفية المحدد .
+title: "SVGFilterElement.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFilterElement X. تتطابق مع السمة x على عنصر filter المعطى."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg/svgfilterelement/x/
 ---
 ## SVGFilterElement.X property
 
-يتوافق مع السمة "x" في عنصر "عامل التصفية" المحدد .
+يتطابق مع السمة ‘x’ في عنصر ‘filter’ المحدد.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "x" لعنصر "التصفية" المحدد .
+السمة ‘x’ للعنصر ‘filter’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFilterElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgfilterelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

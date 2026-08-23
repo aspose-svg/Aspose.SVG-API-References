@@ -1,35 +1,35 @@
 ---
-title: Class License
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.License فصل. يوفر طرقًا لترخيص المكون.
+title: "فئة License"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.License فئة. يوفر طرقًا لترخيص المكوّن."
 type: docs
-weight: 2190
+weight: 4260
 url: /ar/net/aspose.svg/license/
 ---
 ## License class
 
-يوفر طرقًا لترخيص المكون.
+يوفر طرقًا لترخيص المكوّن.
 
 ```csharp
 public class License
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [License](license/)() | تهيئة مثيل جديد لهذه الفئة. |
+| [License](license/)() | ينشئ مثيلًا جديدًا لهذه الفئة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(Stream) | تراخيص المكون . |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(string) | تراخيص المكون . |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(*Stream*) | يرخص المكوّن. |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(*string*) | يرخص المكوّن. |
 
-### أمثلة
+## أمثلة
 
-في هذا المثال ، سيتم إجراء محاولة للعثور على ملف ترخيص باسم MyLicense.lic في المجلد الذي يحتوي على  المكون ، في المجلد الذي يحتوي على التجميع الاستدعاء ، في مجلد تجميع الإدخال ثم في الموارد المضمنة لتجميع الاستدعاء.
+في هذا المثال، سيتم محاولة العثور على ملف ترخيص يُدعى MyLicense.lic في المجلد الذي يحتوي على المكوّن، وفي المجلد الذي يحتوي على التجميع المستدعي، وفي مجلد التجميع الرئيسي، ثم في الموارد المدمجة للتجميع المستدعي.
 
 ```csharp
 [C#]
@@ -38,16 +38,14 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-ملف جرة المكون:
+ملف jar المكوّن:
 
 ```csharp
 License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

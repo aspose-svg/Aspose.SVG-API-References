@@ -1,33 +1,31 @@
 ---
-title: Url.Href
-second_title: Aspose.SVG لمرجع .NET API
-description: Url ملكية. الحصول على أو تعيين تمثيل متسلسل لمثيل عنوان URL المحدد.
+title: "Url.Href"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Url Href. تحصل أو تعين تمثيلًا مسلسلاً للمثيل المحدد من URL."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/url/href/
 ---
 ## Url.Href property
 
-الحصول على أو تعيين تمثيل متسلسل لمثيل عنوان URL المحدد.
+يحصل أو يعيّن تمثيلًا مسلسلاً للنسخة المحددة من العنوان URL.
 
 ```csharp
 public string Href { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-href.
+الـ href.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| Error | TypeError: رفع إذا`قيمة` لا يمكن تحليله كعنوان URL صالح. |
+| خطأ | TypeError: يُرفع إذا تعذر تحليل `value` كعنوان URL صالح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Url](../)
-* مساحة الاسم [Aspose.Svg](../../url/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.OutlineColor
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية لون المخطط التفصيلي في CSS2.
+title: "ICSS2Properties.OutlineColor"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ICSS2Properties OutlineColor. راجع تعريف خاصية outline-color في CSS2"
 type: docs
-weight: 760
+weight: 790
 url: /ar/net/aspose.svg.dom.css/icss2properties/outlinecolor/
 ---
 ## ICSS2Properties.OutlineColor property
 
-راجع تعريف خاصية لون المخطط التفصيلي في CSS2.
+انظر تعريف خاصية outline-color في CSS2.
 
 ```csharp
 public string OutlineColor { get; set; }
@@ -16,12 +16,10 @@ public string OutlineColor { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية لون المخطط التفصيلي
+خاصية outline-color
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

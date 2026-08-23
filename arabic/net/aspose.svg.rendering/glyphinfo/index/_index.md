@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Index
-second_title: Aspose.SVG لمرجع .NET API
-description: GlyphInfo ملكية. يحصل على فهرس هذا الحرف الرسومي بالخط.
+title: "GlyphInfo.Index"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية GlyphInfo Index. يحصل على فهرس هذا الحرف في الخط"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.rendering/glyphinfo/index/
 ---
 ## GlyphInfo.Index property
 
-يحصل على فهرس هذا الحرف الرسومي بالخط.
+يحصل على فهرس هذا الرمز في الخط.
 
 ```csharp
 public uint Index { get; }
 ```
 
-### Property_Value
+### Property Value
 
-فهرس الصورة الرمزية .
+فهرس الحرف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [GlyphInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering](../../glyphinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

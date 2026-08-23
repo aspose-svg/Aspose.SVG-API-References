@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.Subtree
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserverInit ملكية. اضبط على صواب إذا كانت الطفرات ليست فقط الهدف  ولكن أيضًا أحفاد الهدف يجب ملاحظتها
+title: "MutationObserverInit.Subtree"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationObserverInit Subtree. تُعيّن إلى true إذا كان يجب ملاحظة التغيّرات ليس فقط للهدف ولكن أيضًا لأبناء الهدف."
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/subtree/
 ---
 ## MutationObserverInit.Subtree property
 
-اضبط على صواب إذا كانت الطفرات ليست فقط الهدف ، ولكن أيضًا أحفاد الهدف يجب ملاحظتها
+عيّن إلى true إذا كان يجب مراقبة الطفرات ليس فقط على الهدف، بل أيضًا على سلالته.
 
 ```csharp
 public bool Subtree { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

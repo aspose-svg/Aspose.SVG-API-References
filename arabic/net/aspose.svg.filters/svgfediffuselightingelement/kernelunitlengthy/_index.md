@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.KernelUnitLengthY
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDiffuseLightingElement ملكية. يتوافق مع السمة kernelUnitLength في عنصر feDiffuseLighting المحدد.
+title: "SVGFEDiffuseLightingElement.KernelUnitLengthY"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFEDiffuseLightingElement KernelUnitLengthY. تتطابق مع السمة kernelUnitLength في العنصر ‘feDiffuseLighting’ المعطى."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.filters/svgfediffuselightingelement/kernelunitlengthy/
 ---
 ## SVGFEDiffuseLightingElement.KernelUnitLengthY property
 
-يتوافق مع السمة "kernelUnitLength" في عنصر "feDiffuseLighting" المحدد.
+يتطابق مع السمة ‘kernelUnitLength’ في العنصر ‘feDiffuseLighting’ المعطى.
 
 ```csharp
 public SVGAnimatedNumber KernelUnitLengthY { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "kernelUnitLength" لعنصر "feDiffuseLighting" المحدد.
+السمة ‘kernelUnitLength’ للعنصر ‘feDiffuseLighting’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

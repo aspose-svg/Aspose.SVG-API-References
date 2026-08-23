@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.In2
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFECompositeElement ملكية. يتوافق مع السمة in2 في عنصر feComposite المحدد .
+title: "SVGFECompositeElement.In2"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGFECompositeElement In2. تتطابق مع السمة in2 في عنصر feComposite المحدد."
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.filters/svgfecompositeelement/in2/
 ---
 ## SVGFECompositeElement.In2 property
 
-يتوافق مع السمة "in2" في عنصر "feComposite" المحدد .
+يتطابق مع السمة ‘in2’ على العنصر ‘feComposite’ المحدد.
 
 ```csharp
 public SVGAnimatedString In2 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "in2" على عنصر "feComposite" المحدد .
+السمة ‘in2’ في عنصر ‘feComposite’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFECompositeElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Attr.Prefix
-second_title: Aspose.SVG لمرجع .NET API
-description: Attr ملكية. بادئة مساحة الاسم لهذه العقدة  أو فارغة إذا كانت غير محددة. عندما يتم تعريفه على أنه فارغ  فإن الإعداد ليس له تأثير
+title: "Attr.Prefix"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Attr Prefix. بادئة النطاق لهذا العقدة أو null إذا لم تُحدد. عندما تكون معرفة بأنها null لا يؤثر الضبط."
 type: docs
-weight: 90
+weight: 80
 url: /ar/net/aspose.svg.dom/attr/prefix/
 ---
 ## Attr.Prefix property
 
-بادئة مساحة الاسم لهذه العقدة ، أو فارغة إذا كانت غير محددة. عندما يتم تعريفه على أنه فارغ ، فإن الإعداد ليس له تأثير
+بادئة مساحة الاسم لهذه العقدة، أو null إذا لم تُحدد. عندما تُعرّف بأنها null، لا يؤثر ضبطها.
 
 ```csharp
 public override string Prefix { get; }
 ```
 
-### Property_Value
+### Property Value
 
-البادئة .
+البادئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../attr/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnBlur
-second_title: Aspose.SVG لمرجع .NET API
-description: IGlobalEventHandlers حدث. الحصول على معالج الحدث أو تعيينه لحدث OnBlur.
+title: "IGlobalEventHandlers.OnBlur"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "IGlobalEventHandlers حدث OnBlur. يحصل أو يضبط معالج الحدث لحدث OnBlur"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/iglobaleventhandlers/onblur/
 ---
 ## IGlobalEventHandlers.OnBlur event
 
-الحصول على معالج الحدث أو تعيينه لحدث OnBlur.
+يحصل أو يضبط معالج الحدث لحدث OnBlur.
 
 ```csharp
 public event DOMEventHandler OnBlur;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

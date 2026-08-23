@@ -1,55 +1,53 @@
 ---
-title: UnitType.Equals
-second_title: Aspose.SVG لمرجع .NET API
-description: UnitType طريقة. تحديد ما إذا كان الملف المحددObject  يساوي هذا المثال.
+title: "UnitType.Equals"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة UnitType Equals. تحدد ما إذا كان الكائن المحدد يساوي هذه الحالة"
 type: docs
 weight: 310
 url: /ar/net/aspose.svg.drawing/unittype/equals/
 ---
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد مساويًا لهذه الحالة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | كائن | الكائن للمقارنة مع هذه النسخة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد مساويًا لهذه النسخة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(UnitType) {#equals}
+## Equals(*[UnitType](../)*) {#equals}
 
-تحديد ما إذا كان الملف المحدد[`UnitType`](../) ، يساوي هذا المثال.
+تحدد ما إذا كان [`UnitType`](../) المحدد يساوي هذه الحالة.
 
 ```csharp
 public bool Equals(UnitType other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | UnitType | ال[`UnitType`](../) للمقارنة مع هذه الحالة. |
+| other | UnitType | الـ [`UnitType`](../) للمقارنة مع هذه الحالة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحدد[`UnitType`](../) يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [`UnitType`](../) المحدد يساوي هذه الحالة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitType](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../unittype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

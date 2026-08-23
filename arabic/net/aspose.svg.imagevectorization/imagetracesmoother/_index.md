@@ -1,42 +1,40 @@
 ---
-title: Class ImageTraceSmoother
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ImageVectorization.ImageTraceSmoother فصل. تعتبر فئة ImageTraceSimplifier مسؤولة عن تجانس عدد النقاط في المنحنى الذي يتم تقريبه بواسطة سلسلة من نقاط التتبع . تقوم هذه الفئة بتطبيق نهج أقرب الجوار.
+title: "فئة ImageTraceSmoother"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.ImageVectorization.ImageTraceSmoother. فئة ImageTraceSimplifier مسؤولة عن تنعيم عدد النقاط في منحنى يتم تقريبها بسلسلة من نقاط التتبع. هذه الفئة تُطبق نهج أقرب جار."
 type: docs
-weight: 2130
+weight: 4200
 url: /ar/net/aspose.svg.imagevectorization/imagetracesmoother/
 ---
 ## ImageTraceSmoother class
 
-تعتبر فئة ImageTraceSimplifier مسؤولة عن تجانس عدد النقاط في المنحنى الذي يتم تقريبه بواسطة سلسلة من نقاط التتبع . تقوم هذه الفئة بتطبيق نهج أقرب الجوار.
+الفئة ImageTraceSimplifier مسؤولة عن تنعيم عدد النقاط في منحنى يتم تقريبها بسلسلة من نقاط التتبع. تُطبق هذه الفئة نهج أقرب جار.
 
 ```csharp
 public class ImageTraceSmoother : IImageTraceSmoother
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageTraceSmoother](imagetracesmoother/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ImageTraceSmoother` فئة . |
-| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(int) | يقوم بتهيئة مثيل جديد لملف`ImageTraceSmoother` فئة . |
+| [ImageTraceSmoother](imagetracesmoother/#constructor)() | يقوم بإنشاء نسخة جديدة من الفئة `ImageTraceSmoother`. |
+| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(*int*) | يقوم بإنشاء نسخة جديدة من الفئة `ImageTraceSmoother`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent/) { get; set; } | الحصول على مدى مجموعات المنطقة التي يتم النظر فيها من خلال نقطة الاستعلام. يجب أن تكون في النطاق من 1 إلى 20. سيتم محاذاة أي قيم أعلى أو أقل مع قيم الحد الأدنى والحد الأقصى لهذا النطاق ، وفقًا لذلك . |
+| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent/) { get; set; } | يحصل أو يحدد مدى المنطقة التي يُنظر إليها بواسطة نقطة الاستعلام. يجب أن يكون في النطاق من 1 إلى 20. أي قيم أعلى أو أقل سيتم تعديلها لتتناسب مع الحد الأدنى والحد الأقصى لهذا النطاق، وفقًا لذلك. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(IEnumerable&lt;PointF&gt;) | ينعم التتبع . |
+| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(*IEnumerable&lt;PointF&gt;*) | ينعم التتبع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageTraceSmoother](../iimagetracesmoother/)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

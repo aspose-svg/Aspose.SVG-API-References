@@ -1,23 +1,21 @@
 ---
-title: EventTarget.Dispose
-second_title: Aspose.SVG لمرجع .NET API
-description: EventTarget طريقة. تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها.
+title: "EventTarget.Dispose"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة EventTarget Dispose. تقوم بتنفيذ مهام محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة ضبط الموارد غير المدارة"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.svg.dom/eventtarget/dispose/
 ---
 ## EventTarget.Dispose method
 
-تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها.
+ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة.
 
 ```csharp
 public void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EventTarget](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../eventtarget/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

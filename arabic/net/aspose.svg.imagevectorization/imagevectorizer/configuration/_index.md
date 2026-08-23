@@ -1,24 +1,22 @@
 ---
-title: ImageVectorizer.Configuration
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageVectorizer ملكية. تكوين طرق وخيارات توجيه الصور
+title: "ImageVectorizer.Configuration"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ImageVectorizer Configuration. التكوين الخاص بطرق وخيارات تحويل الصورة إلى متجهات."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.imagevectorization/imagevectorizer/configuration/
 ---
 ## ImageVectorizer.Configuration property
 
-تكوين طرق وخيارات توجيه الصور
+إعدادات طرق تحويل الصور إلى متجهات والخيارات
 
 ```csharp
 public ImageVectorizerConfiguration Configuration { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)
 * class [ImageVectorizer](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentView
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Views.IDocumentView واجهه المستخدم. يتم تنفيذ واجهة DocumentView بواسطة كائنات المستند في تطبيقات DOM التي تدعم طرق عرض DOM. يوفر سمة لاسترداد طريقة العرض الافتراضية للمستند.
+title: "واجهة IDocumentView"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Views.IDocumentView. تُنفّذ كائنات Document في تطبيقات DOM التي تدعم DOM Views واجهة DocumentView. توفر سمة لاسترجاع العرض الافتراضي للمستند."
 type: docs
-weight: 1300
+weight: 3300
 url: /ar/net/aspose.svg.dom.views/idocumentview/
 ---
 ## IDocumentView interface
 
-يتم تنفيذ واجهة DocumentView بواسطة كائنات المستند في تطبيقات DOM التي تدعم طرق عرض DOM. يوفر سمة لاسترداد طريقة العرض الافتراضية للمستند.
+واجهة DocumentView يتم تنفيذها بواسطة كائنات Document في تطبيقات DOM التي تدعم عروض DOM. توفر سمة لاسترجاع العرض الافتراضي للمستند.
 
 ```csharp
 public interface IDocumentView : IAbstractView
@@ -16,14 +16,12 @@ public interface IDocumentView : IAbstractView
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DefaultView](../../aspose.svg.dom.views/idocumentview/defaultview/) { get; } | AbstractView الافتراضي لهذا المستند ، أو فارغ إذا لم يكن متاحًا. |
+| [DefaultView](../../aspose.svg.dom.views/idocumentview/defaultview/) { get; } | العرض التجريدي (AbstractView) الافتراضي لهذا المستند، أو null إذا لم يتوفر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAbstractView](../iabstractview/)
-* مساحة الاسم [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../)

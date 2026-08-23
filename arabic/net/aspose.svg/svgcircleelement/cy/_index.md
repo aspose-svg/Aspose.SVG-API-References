@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.Cy
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGCircleElement ملكية. يتوافق مع السمة cy في عنصر الدائرة المحدد .
+title: "SVGCircleElement.Cy"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGCircleElement Cy. تتطابق مع السمة cy في عنصر الدائرة المعطى"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg/svgcircleelement/cy/
 ---
 ## SVGCircleElement.Cy property
 
-يتوافق مع السمة "cy" في عنصر "الدائرة" المحدد .
+يتطابق مع السمة ‘cy’ في عنصر ‘circle’ المعطى.
 
 ```csharp
 public SVGAnimatedLength Cy { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "cy" لعنصر "الدائرة" المحدد .
+السمة ‘cy’ لعنصر ‘circle’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcircleelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

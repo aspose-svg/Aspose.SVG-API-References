@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSRuleList
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSRuleList واجهه المستخدم. توفر واجهة CSSRuleList تجريدًا لمجموعة مرتبة من قواعد CSS.
+title: "واجهة ICSSRuleList"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الواجهة Aspose.Svg.Dom.Css.ICSSRuleList. توفر واجهة CSSRuleList تجريدًا لمجموعة مرتبة من قواعد CSS."
 type: docs
-weight: 630
+weight: 2630
 url: /ar/net/aspose.svg.dom.css/icssrulelist/
 ---
 ## ICSSRuleList interface
 
-توفر واجهة CSSRuleList تجريدًا لمجموعة مرتبة من قواعد CSS.
+واجهة CSSRuleList توفر تجريد مجموعة مرتبة من قواعد CSS.
 
 ```csharp
 public interface ICSSRuleList : IEnumerable<ICSSRule>
@@ -16,15 +16,13 @@ public interface ICSSRuleList : IEnumerable<ICSSRule>
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/icssrulelist/item/) { get; } | يُستخدم لاسترداد قاعدة CSS حسب عنصر الطريقة () (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). يمثل الترتيب في هذه المجموعة ترتيب القواعد في ورقة أنماط CSS. إذا كان الفهرس أكبر من أو يساوي عدد القواعد في القائمة ، فإن هذا يُرجع قيمة خالية. |
-| [Length](../../aspose.svg.dom.css/icssrulelist/length/) { get; } | عدد CSSRules في القائمة. نطاق مؤشرات القاعدة الفرعية الصالحة هو من 0 إلى الطول -1 ضمناً . |
+| [Item](../../aspose.svg.dom.css/icssrulelist/item/) { get; } | يُستخدم لاسترجاع قاعدة CSS عبر الطريقة item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). يمثل الترتيب في هذه المجموعة ترتيب القواعد في ورقة أنماط CSS. إذا كان الفهرس أكبر من أو يساوي عدد القواعد في القائمة، تُعيد هذه القيمة فارغة (null). |
+| [Length](../../aspose.svg.dom.css/icssrulelist/length/) { get; } | عدد قواعد CSSRules في القائمة. نطاق مؤشرات القواعد الفرعية الصالحة هو من 0 إلى length-1 شاملًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../icssrule/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

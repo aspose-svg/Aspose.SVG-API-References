@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ClientY
-second_title: Aspose.SVG لمرجع .NET API
-description: MouseEvent ملكية. الإحداثي الرأسي الذي وقع فيه الحدث بالنسبة إلى منفذ العرض المرتبط بالحدث .
+title: "MouseEvent.ClientY"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MouseEvent ClientY. الإحداثي العمودي الذي حدث فيه الحدث بالنسبة إلى مساحة العرض المرتبطة بالحدث."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.events/mouseevent/clienty/
 ---
 ## MouseEvent.ClientY property
 
-الإحداثي الرأسي الذي وقع فيه الحدث بالنسبة إلى منفذ العرض المرتبط بالحدث .
+الإحداثي الرأسي الذي وقع فيه الحدث بالنسبة لمنطقة العرض المرتبطة بالحدث.
 
 ```csharp
 public long ClientY { get; }
 ```
 
-### Property_Value
+### Property Value
 
-العميل y.
+قيمة y للعميل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MouseEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../mouseevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

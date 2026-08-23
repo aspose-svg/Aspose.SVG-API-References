@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGFitToViewBox
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.ISVGFitToViewBox واجهه المستخدم. Interface SVGFitToViewBox تحدد سمات DOM التي تنطبق على العناصر التي لها سمات XML viewBox و saveAspectRatio .
+title: "واجهة ISVGFitToViewBox"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الواجهة Aspose.Svg.ISVGFitToViewBox. الواجهة SVGFitToViewBox تعرف سمات DOM التي تنطبق على العناصر التي لديها سمات XML viewBox و preserveAspectRatio"
 type: docs
-weight: 2010
+weight: 4080
 url: /ar/net/aspose.svg/isvgfittoviewbox/
 ---
 ## ISVGFitToViewBox interface
 
-Interface SVGFitToViewBox تحدد سمات DOM التي تنطبق على العناصر التي لها سمات XML "viewBox" و "saveAspectRatio" .
+تحدد واجهة SVGFitToViewBox سمات DOM التي تُطبق على العناصر التي لديها سمات XML ‘viewBox’ و ‘preserveAspectRatio’.
 
 ```csharp
 public interface ISVGFitToViewBox
@@ -16,14 +16,12 @@ public interface ISVGFitToViewBox
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio/) { get; } | يتوافق مع السمة "saveAspectRatio" للعنصر المحدد. |
-| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox/) { get; } | يتوافق مع السمة "viewBox" في العنصر المحدد. |
+| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio/) { get; } | يتطابق مع السمة ‘preserveAspectRatio’ في العنصر المعطى. |
+| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox/) { get; } | يتطابق مع السمة ‘viewBox’ في العنصر المعطى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg](../../aspose.svg/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

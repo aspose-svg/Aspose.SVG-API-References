@@ -1,7 +1,7 @@
 ---
-title: IChildNode.Remove
-second_title: Aspose.SVG لمرجع .NET API
-description: IChildNode طريقة. يزيل العقدة الحالية من الأصل.
+title: "IChildNode.Remove"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة IChildNode Remove. تُزيل العقدة الحالية من الوالد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/ichildnode/remove/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.dom/ichildnode/remove/
 public void Remove()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IChildNode](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../ichildnode/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

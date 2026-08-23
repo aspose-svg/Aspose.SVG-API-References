@@ -1,34 +1,32 @@
 ---
-title: Color.FromCmyk
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيم السماوي والأرجواني والأصفر والمفتاح الأسود المطلوبة.
+title: "Color.FromCmyk"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromCmyk. تُرجع كائن Color جديد بالقيم المطلوبة للسيان والماجنتا والأصفر والمفتاح (الكيا) والأسود."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/color/fromcmyk/
 ---
 ## Color.FromCmyk method
 
-إرجاع لون جديد بقيم السماوي والأرجواني والأصفر والمفتاح (الأسود) المطلوبة.
+يرجع Color جديد مع القيم المطلوبة للسيان، الماجنتا، الأصفر، المفتاح (الأسود).
 
 ```csharp
 public static Color FromCmyk(float cyan, float magenta, float yellow, float key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| cyan | Single | عدد عشري يمثل المكون السماوي للون. |
-| magenta | Single | عائم يمثل المكون الأرجواني للون. |
-| yellow | Single | عائم يمثل المكون الأصفر للون. |
-| key | Single | عدد عشري يمثل المكون الأساسي للون. |
+| سيان | Single | قيمة عائمة تمثل مكوّن السيان في اللون. |
+| ماجنتا | Single | قيمة عائمة تمثل مكوّن الماجنتا في اللون. |
+| أصفر | Single | قيمة عائمة تمثل مكوّن الأصفر في اللون. |
+| المفتاح | Single | قيمة عائمة تمثل مكوّن المفتاح (الكيا) في اللون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

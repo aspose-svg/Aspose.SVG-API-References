@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.PreserveAlpha
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEConvolveMatrixElement ملكية. يتوافق مع السمة keepAlpha على عنصر feConvolveMatrix المحدد .
+title: "SVGFEConvolveMatrixElement.PreserveAlpha"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PreserveAlpha لـ SVGFEConvolveMatrixElement. تتطابق مع السمة preserveAlpha في عنصر feConvolveMatrix المعطى"
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.filters/svgfeconvolvematrixelement/preservealpha/
 ---
 ## SVGFEConvolveMatrixElement.PreserveAlpha property
 
-يتوافق مع السمة "keepAlpha" على عنصر "feConvolveMatrix" المحدد .
+يتطابق مع السمة ‘preserveAlpha’ على العنصر ‘feConvolveMatrix’ المعطى.
 
 ```csharp
 public SVGAnimatedBoolean PreserveAlpha { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "keepAlpha" لعنصر "feConvolveMatrix" المحدد .
+السمة ‘preserveAlpha’ لعنصر ‘feConvolveMatrix’ المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedBoolean](../../../aspose.svg.datatypes/svganimatedboolean/)
 * class [SVGFEConvolveMatrixElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

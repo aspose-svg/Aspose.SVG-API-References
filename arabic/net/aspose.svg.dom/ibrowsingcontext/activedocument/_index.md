@@ -1,28 +1,26 @@
 ---
-title: IBrowsingContext.ActiveDocument
-second_title: Aspose.SVG لمرجع .NET API
-description: IBrowsingContext ملكية. الحصول على المستند الحالي .
+title: "IBrowsingContext.ActiveDocument"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IB BrowsingContext ActiveDocument. يحصل على المستند الحالي"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/ibrowsingcontext/activedocument/
 ---
 ## IBrowsingContext.ActiveDocument property
 
-الحصول على المستند الحالي .
+يحصل على المستند الحالي.
 
 ```csharp
 public Document ActiveDocument { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المستند النشط .
+المستند النشط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

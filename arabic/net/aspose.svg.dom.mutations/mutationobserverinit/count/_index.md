@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.Count
-second_title: Aspose.SVG لمرجع .NET API
-description: MutationObserverInit ملكية. يحصل على عدد أزواج المفاتيح / القيمة الموجودة في ملفMutationObserverInitجمع.
+title: "MutationObserverInit.Count"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MutationObserverInit Count. تحصل على عدد أزواج المفتاح/القيمة الموجودة في مجموعة MutationObserverInit."
 type: docs
 weight: 80
 url: /ar/net/aspose.svg.dom.mutations/mutationobserverinit/count/
 ---
 ## MutationObserverInit.Count property
 
-يحصل على عدد أزواج المفاتيح / القيمة الموجودة في ملف[`MutationObserverInit`](../)جمع.
+تحصل على عدد أزواج المفتاح/القيمة الموجودة في مجموعة [`MutationObserverInit`](../).
 
 ```csharp
 public int Count { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MutationObserverInit](../)
-* مساحة الاسم [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

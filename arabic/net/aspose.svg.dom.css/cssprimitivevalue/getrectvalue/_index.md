@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetRectValue
-second_title: Aspose.SVG لمرجع .NET API
-description: CSSPrimitiveValue طريقة. تُستخدم هذه الطريقة للحصول على قيمة Rect. إذا كانت قيمة CSS هذه لا تحتوي على قيمة مستقيمة  فسيتم رفع DOMException. يمكن إجراء التعديل على خاصية النمط المقابلة باستخدام واجهة Rect.
+title: "CSSPrimitiveValue.GetRectValue"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CSSPrimitiveValue GetRectValue. تُستخدم هذه الطريقة للحصول على قيمة Rect. إذا لم تحتوي قيمة CSS هذه على قيمة rect يتم رفع استثناء DOMException. يمكن تحقيق تعديل الخاصية النمطية المقابلة باستخدام واجهة Rect."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom.css/cssprimitivevalue/getrectvalue/
 ---
 ## CSSPrimitiveValue.GetRectValue method
 
-تُستخدم هذه الطريقة للحصول على قيمة Rect. إذا كانت قيمة CSS هذه لا تحتوي على قيمة مستقيمة ، فسيتم رفع DOMException. يمكن إجراء التعديل على خاصية النمط المقابلة باستخدام واجهة Rect.
+تُستخدم هذه الطريقة للحصول على قيمة Rect. إذا لم تحتوي قيمة CSS هذه على قيمة rect، يتم رفع استثناء DOMException. يمكن تعديل الخاصية النمطية المقابلة باستخدام واجهة Rect.
 
 ```csharp
 public abstract Rect GetRectValue()
@@ -16,13 +16,11 @@ public abstract Rect GetRectValue()
 
 ### قيمة الإرجاع
 
-إرجاع قيمة المستقيم
+إرجاع قيمة Rect
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rect](../../rect/)
 * class [CSSPrimitiveValue](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

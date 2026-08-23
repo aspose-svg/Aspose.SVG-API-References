@@ -1,28 +1,26 @@
 ---
-title: SVGCursorElement.X
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGCursorElement ملكية. يتوافق مع السمة x في عنصر المؤشر المحدد .
+title: "SVGCursorElement.X"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGCursorElement X. تتطابق مع السمة x على عنصر المؤشر المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg/svgcursorelement/x/
 ---
 ## SVGCursorElement.X property
 
-يتوافق مع السمة "x" في عنصر "المؤشر" المحدد .
+يتطابق مع السمة ‘x’ في عنصر ‘cursor’ المعطى.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "x" لعنصر "المؤشر" المحدد .
+السمة ‘x’ للعنصر ‘cursor’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCursorElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgcursorelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Creator
-second_title: Aspose.SVG لمرجع .NET API
-description: PdfDocumentInfo ملكية. اسم المنتج الذي أنشأ المستند الأصلي.
+title: "PdfDocumentInfo.Creator"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية PdfDocumentInfo Creator. اسم المنتج الذي أنشأ المستند الأصلي"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.rendering.pdf/pdfdocumentinfo/creator/
@@ -14,10 +14,8 @@ url: /ar/net/aspose.svg.rendering.pdf/pdfdocumentinfo/creator/
 public string Creator { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

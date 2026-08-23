@@ -1,28 +1,26 @@
 ---
-title: Configuration.Security
-second_title: Aspose.SVG لمرجع .NET API
-description: Configuration ملكية. الحصول على علامة وضع الحماية للتهيئة أو تعيينها.
+title: "Configuration.Security"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Configuration Security. تسمح لك هذه الخاصية بتعيين عدد من القيود على المحتوى المحمَّل في الإطار، على سبيل المثال حظر النماذج والسكربتات. راجع المقال حول العزل"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.svg/configuration/security/
 ---
 ## Configuration.Security property
 
-الحصول على علامة وضع الحماية للتهيئة أو تعيينها.
+تتيح لك هذه الخاصية تعيين عدد من القيود على المحتوى المحمَّل في الإطار، على سبيل المثال، حظر النماذج والسكريبتات. راجع المقال حول [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing).
 
 ```csharp
 public Sandbox Security { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الأمن.
+مجموعة علامات [`Sandbox`](../../sandbox/) هي مجموعة من صفر أو أكثر من العلامات، تُستخدم لتقييد قدرات الموارد التي قد لا تكون موثوقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [Sandbox](../../sandbox/)
 * class [Configuration](../)
-* مساحة الاسم [Aspose.Svg](../../configuration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

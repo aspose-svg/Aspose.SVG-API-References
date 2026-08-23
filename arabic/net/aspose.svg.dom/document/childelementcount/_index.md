@@ -1,23 +1,21 @@
 ---
-title: Document.ChildElementCount
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. إرجاع العدد الحالي لعقد العناصر التي هي عناصر فرعية لهذا العنصر. 0 إذا كان هذا العنصر لا يحتوي على عقد فرعية من نوع العقدة 1.
+title: "Document.ChildElementCount"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document ChildElementCount. تُعيد العدد الحالي لعُقد العناصر التي هي أبناء هذا العنصر. 0 إذا لم يكن لهذا العنصر أي عقدة فرعية من نوع nodeType 1."
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom/document/childelementcount/
 ---
 ## Document.ChildElementCount property
 
-إرجاع العدد الحالي لعقد العناصر التي هي عناصر فرعية لهذا العنصر. 0 إذا كان هذا العنصر لا يحتوي على عقد فرعية من نوع العقدة 1.
+يعيد العدد الحالي لعقد العناصر التي هي أبناء هذا العنصر. 0 إذا لم يكن لهذا العنصر أي عقدة فرعية من نوع nodeType 1.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

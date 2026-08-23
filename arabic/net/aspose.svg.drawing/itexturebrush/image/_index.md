@@ -1,14 +1,14 @@
 ---
-title: ITextureBrush.Image
-second_title: Aspose.SVG لمرجع .NET API
-description: ITextureBrush ملكية. الحصول على أو تحديد الصورة التي تستخدمها الفرشاة .
+title: "ITextureBrush.Image"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Image في ITextureBrush. يحصل أو يضبط الصورة المستخدمة بواسطة الفرشاة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/itexturebrush/image/
 ---
 ## ITextureBrush.Image property
 
-الحصول على أو تحديد الصورة التي تستخدمها الفرشاة .
+يحصل أو يضبط الصورة المستخدمة بواسطة الفرشاة.
 
 ```csharp
 public byte[] Image { get; }
@@ -18,10 +18,8 @@ public byte[] Image { get; }
 
 بيانات الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextureBrush](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../itexturebrush/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ResponseMessage.IsSuccess
-second_title: Aspose.SVG لمرجع .NET API
-description: ResponseMessage ملكية. يحصل على قيمة تشير إلى نجاح هذه الرسالة .
+title: "ResponseMessage.IsSuccess"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ResponseMessage IsSuccess. تحصل على قيمة تشير إلى ما إذا كانت هذه الرسالة ناجحة"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.net/responsemessage/issuccess/
 ---
 ## ResponseMessage.IsSuccess property
 
-يحصل على قيمة تشير إلى نجاح هذه الرسالة .
+يحصل على قيمة تشير إلى ما إذا كانت هذه الرسالة ناجحة.
 
 ```csharp
 public bool IsSuccess { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال هو النجاح ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الحالة ناجحة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResponseMessage](../)
-* مساحة الاسم [Aspose.Svg.Net](../../responsemessage/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

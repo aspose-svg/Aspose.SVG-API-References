@@ -1,23 +1,21 @@
 ---
-title: SVGSVGElement.PauseAnimations
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGSVGElement طريقة. يوقف على سبيل المثال  الإيقاف المؤقت جميع الرسوم المتحركة قيد التشغيل حاليًا والمحددة داخل جزء مستند SVG المقابل لعنصر svg هذا  مما يتسبب في بقاء ساعة الرسوم المتحركة المقابلة لجزء المستند ثابتة حتى يتم إلغاء الإيقاف المؤقت .
+title: "SVGSVGElement.PauseAnimations"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة SVGSVGElement PauseAnimations. تُعلق أي تُوقف جميع الرسوم المتحركة التي تعمل حالياً والمُعرفة داخل جزء وثيقة SVG المتعلق بهذا العنصر svg مما يجعل ساعة الرسوم المتحركة لهذا الجزء ثابتة حتى يتم إلغاء إيقافها"
 type: docs
 weight: 220
 url: /ar/net/aspose.svg/svgsvgelement/pauseanimations/
 ---
 ## SVGSVGElement.PauseAnimations method
 
-يوقف (على سبيل المثال ، الإيقاف المؤقت) جميع الرسوم المتحركة قيد التشغيل حاليًا والمحددة داخل جزء مستند SVG المقابل لعنصر "svg" هذا ، مما يتسبب في بقاء ساعة الرسوم المتحركة المقابلة لجزء المستند ثابتة حتى يتم إلغاء الإيقاف المؤقت .
+يعلق (أي يوقف مؤقتًا) جميع الرسوم المتحركة التي تعمل حاليًا والمُعرفة داخل جزء مستند SVG المقابل لهذا العنصر ‘svg’، مما يجعل ساعة الرسوم المتحركة لهذا الجزء تتوقف حتى يتم إلغاء التعليق.
 
 ```csharp
 public void PauseAnimations()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGSVGElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgsvgelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

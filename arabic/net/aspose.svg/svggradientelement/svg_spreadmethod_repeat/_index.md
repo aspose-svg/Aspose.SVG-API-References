@@ -1,23 +1,21 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_REPEAT
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGGradientElement مجال. يتوافق مع قيمة تكرار .
+title: "SVGGradientElement.SVG_SPREADMETHOD_REPEAT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGGradientElement SVG_SPREADMETHOD_REPEAT. يتطابق مع القيمة repeat."
 type: docs
 weight: 70
 url: /ar/net/aspose.svg/svggradientelement/svg_spreadmethod_repeat/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_REPEAT field
 
-يتوافق مع قيمة "تكرار" .
+يتطابق مع القيمة 'repeat'.
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_REPEAT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGGradientElement](../)
-* مساحة الاسم [Aspose.Svg](../../svggradientelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

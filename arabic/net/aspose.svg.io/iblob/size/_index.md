@@ -1,23 +1,21 @@
 ---
-title: IBlob.Size
-second_title: Aspose.SVG لمرجع .NET API
-description: IBlob ملكية. إرجاع حجم تسلسل البايت بعدد البايت . عند الحصول  يجب على وكلاء المستخدم المطابقين إرجاع العدد الإجمالي للبايتات التي يمكن قراءتها بواسطة كائن FileReader أو FileReaderSync  أو 0 إذا كان Blob لا يحتوي على وحدات بايت ليتم قراءتها .
+title: "IBlob.Size"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية IBlob Size. تُعيد حجم تسلسل البايتات بعدد البايتات. عند الحصول، يجب على وكلاء المستخدم المتوافقين إرجاع إجمالي عدد البايتات التي يمكن قراءتها بواسطة كائن FileReader أو FileReaderSync أو 0 إذا لم يحتوي الـ Blob على بايتات للقراءة"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.io/iblob/size/
 ---
 ## IBlob.Size property
 
-إرجاع حجم تسلسل البايت بعدد البايت . عند الحصول ، يجب على وكلاء المستخدم المطابقين إرجاع العدد الإجمالي للبايتات التي يمكن قراءتها بواسطة كائن FileReader أو FileReaderSync ، أو 0 إذا كان Blob لا يحتوي على وحدات بايت ليتم قراءتها .
+يرجع حجم تسلسل البايتات بعدد البايتات. عند الحصول، يجب على وكلاء المستخدم المتوافقين إرجاع إجمالي عدد البايتات التي يمكن قراءتها بواسطة كائن FileReader أو FileReaderSync، أو 0 إذا لم يحتوي Blob على بايتات للقراءة.
 
 ```csharp
 public ulong Size { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IBlob](../)
-* مساحة الاسم [Aspose.Svg.IO](../../iblob/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

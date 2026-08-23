@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.Children
-second_title: Aspose.SVG لمرجع .NET API
-description: DocumentFragment ملكية. إرجاع العناصر الفرعية للعنصر الحالي.
+title: "DocumentFragment.Children"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية DocumentFragment Children. تُرجع العناصر الفرعية للعنصر الحالي"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom/documentfragment/children/
 ---
 ## DocumentFragment.Children property
 
-إرجاع العناصر الفرعية للعنصر الحالي.
+يعيد العناصر الفرعية للعنصر الحالي.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مجموعة الأطفال
+مجموعة العناصر الفرعية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [DocumentFragment](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../documentfragment/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

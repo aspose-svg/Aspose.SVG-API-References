@@ -1,29 +1,27 @@
 ---
-title: Enum AtPagePriority
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Rendering.AtPagePriority تعداد. يحدد الأوامر الممكنة لتطبيق إقرارات حجم الصفحة.
+title: "تعداد AtPagePriority"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "تعداد Aspose.Svg.Rendering.AtPagePriority. يحدد الترتيبات الممكنة لتطبيق إعلانات حجم الصفحة."
 type: docs
-weight: 2710
+weight: 4780
 url: /ar/net/aspose.svg.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration
 
-يحدد الأوامر الممكنة لتطبيق إقرارات حجم الصفحة.
+يحدد الترتيبات الممكنة لتطبيق إعلانات حجم الصفحة.
 
 ```csharp
 public enum AtPagePriority
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| OptionsPriority | `0` | تحدد ذلك[`PageSetup`](../pagesetup/) القيم المعلنة في[`RenderingOptions`](../renderingoptions/) ستتجاوز القيم المحددة في css بواسطة`@صفحة` قواعد . |
-| CssPriority | `1` | تحدد ذلك`@صفحة` قواعد المحددة في css ستتجاوز القيم المحددة في[`PageSetup`](../pagesetup/) . |
+| OptionsPriority | `0` | يحدد أن قيم [`PageSetup`](../pagesetup/) المعلنة في [`RenderingOptions`](../renderingoptions/) ستتجاوز القيم المعرفة في css بواسطة قواعد `@page`. |
+| CssPriority | `1` | يحدد أن قواعد `@page` المعرفة في css ستتجاوز القيم المعرفة في [`PageSetup`](../pagesetup/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

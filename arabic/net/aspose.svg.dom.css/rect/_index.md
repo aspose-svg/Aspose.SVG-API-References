@@ -1,14 +1,14 @@
 ---
-title: Class Rect
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.Rect فصل. تُستخدم واجهة المستقيم لتمثيل أي قيمة مستقيمة. تعكس هذه الواجهة القيم الموجودة في خاصية النمط الأساسية. ومن ثم  فإن التعديلات التي تم إجراؤها على كائنات CSSPrimitiveValue تعدل خاصية النمط.
+title: "فئة Rect"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "Aspose.Svg.Dom.Css.Rect فئة. تُستخدم واجهة Rect لتمثيل أي قيمة مستطيلة. تعكس هذه الواجهة القيم في خاصية النمط الأساسية. وبالتالي فإن التعديلات التي تُجرى على كائنات CSSPrimitiveValue تعدل خاصية النمط."
 type: docs
-weight: 780
+weight: 2780
 url: /ar/net/aspose.svg.dom.css/rect/
 ---
 ## Rect class
 
-تُستخدم واجهة المستقيم لتمثيل أي قيمة مستقيمة. تعكس هذه الواجهة القيم الموجودة في خاصية النمط الأساسية. ومن ثم ، فإن التعديلات التي تم إجراؤها على كائنات CSSPrimitiveValue تعدل خاصية النمط.
+تُستخدم واجهة Rect لتمثيل أي قيمة rect. تعكس هذه الواجهة القيم في خاصية النمط الأساسية. وبالتالي، فإن التعديلات التي تُجرى على كائنات CSSPrimitiveValue تُعدّل خاصية النمط.
 
 ```csharp
 public class Rect : DOMObject
@@ -16,23 +16,21 @@ public class Rect : DOMObject
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bottom](../../aspose.svg.dom.css/rect/bottom/) { get; } | تُستخدم هذه السمة في الجزء السفلي من المستقيم . |
-| [Left](../../aspose.svg.dom.css/rect/left/) { get; } | هذه السمة مستخدمة على يسار المستقيم . |
-| [Right](../../aspose.svg.dom.css/rect/right/) { get; } | يتم استخدام هذه السمة على يمين المستقيم. |
-| [Top](../../aspose.svg.dom.css/rect/top/) { get; } | يتم استخدام هذه السمة لأعلى المستقيم . |
+| [Bottom](../../aspose.svg.dom.css/rect/bottom/) { get; } | تُستخدم هذه السمة لتحديد الجزء السفلي من المستطيل. |
+| [Left](../../aspose.svg.dom.css/rect/left/) { get; } | تُستخدم هذه السمة لتحديد الجانب الأيسر من المستطيل. |
+| [Right](../../aspose.svg.dom.css/rect/right/) { get; } | تُستخدم هذه السمة لتحديد الجانب الأيمن من المستطيل. |
+| [Top](../../aspose.svg.dom.css/rect/top/) { get; } | تُستخدم هذه السمة لتحديد الجزء العلوي من المستطيل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

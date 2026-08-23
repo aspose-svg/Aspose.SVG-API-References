@@ -1,14 +1,14 @@
 ---
-title: NodeList.GetPlatformType
-second_title: Aspose.SVG لمرجع .NET API
-description: NodeList طريقة. تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType .
+title: "NodeList.GetPlatformType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة GetPlatformType في NodeList. تُستخدم هذه الطريقة لاسترجاع نوع كائن ECMAScript"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.collections/nodelist/getplatformtype/
 ---
 ## NodeList.GetPlatformType method
 
-تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType .
+يُستخدم هذا الأسلوب لاسترجاع نوع كائن ECMAScript.
 
 ```csharp
 public override Type GetPlatformType()
@@ -16,12 +16,10 @@ public override Type GetPlatformType()
 
 ### قيمة الإرجاع
 
-كائن ECMAScriptType .
+نوع كائن ECMAScript.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NodeList](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../nodelist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

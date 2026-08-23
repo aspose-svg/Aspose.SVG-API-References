@@ -1,33 +1,31 @@
 ---
-title: SVGStyleElement.Media
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGStyleElement ملكية. يتوافق مع السمة الوسائط على العنصر المحدد.
+title: "SVGStyleElement.Media"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGStyleElement Media. تتطابق مع السمة media في العنصر المعطى."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgstyleelement/media/
 ---
 ## SVGStyleElement.Media property
 
-يتوافق مع السمة "الوسائط" على العنصر المحدد.
+يتطابق مع السمة ‘media’ في العنصر المحدد.
 
 ```csharp
 public string Media { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "الوسائط" على العنصر المحدد .
+السمة ‘media’ في العنصر المعطى.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . تم طرحه عند محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الكود [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُرفع عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGStyleElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgstyleelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

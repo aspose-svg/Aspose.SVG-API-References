@@ -1,7 +1,7 @@
 ---
-title: Text.NodeType
-second_title: Aspose.SVG لمرجع .NET API
-description: Text ملكية. رمز يمثل نوع الكائن الأساسي.
+title: "Text.NodeType"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Text NodeType. رمز يمثل نوع الكائن الأساسي"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.dom/text/nodetype/
@@ -14,14 +14,12 @@ url: /ar/net/aspose.svg.dom/text/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع العقدة .
+نوع العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Text](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../text/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcAbs.LargeArcFlag
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSegArcAbs ملكية. قيمة معلمة علم القوس الكبير.
+title: "SVGPathSegArcAbs.LargeArcFlag"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGPathSegArcAbs LargeArcFlag. قيمة معامل large-arc-flag"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.paths/svgpathsegarcabs/largearcflag/
 ---
 ## SVGPathSegArcAbs.LargeArcFlag property
 
-قيمة معلمة علم القوس الكبير.
+قيمة معامل large-arc-flag.
 
 ```csharp
 public bool LargeArcFlag { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معلمة علم القوس الكبير
+معامل large-arc-flag
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | كود[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . أثارت محاولة تغيير قيمة سمة للقراءة فقط. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | الرمز [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). يُثار عند محاولة تغيير قيمة سمة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSegArcAbs](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

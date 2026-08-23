@@ -1,28 +1,26 @@
 ---
-title: CharacterData.InsertData
-second_title: Aspose.SVG لمرجع .NET API
-description: CharacterData طريقة. أدخل سلسلة في إزاحة وحدة 16 بت المحددة.
+title: "CharacterData.InsertData"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة CharacterData InsertData. أدخل سلسلة عند الإزاحة المحددة بوحدة 16 بت"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.dom/characterdata/insertdata/
 ---
 ## CharacterData.InsertData method
 
-أدخل سلسلة في إزاحة وحدة 16 بت المحددة.
+أدرج سلسلة عند الإزاحة المحددة بوحدات 16 بت.
 
 ```csharp
 public virtual void InsertData(int offset, string data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | offset | Int32 | الإزاحة. |
-| data | String | بيانات المحتوى. |
+| البيانات | String | بيانات المحتوى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CharacterData](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../characterdata/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

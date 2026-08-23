@@ -1,48 +1,46 @@
 ---
-title: WheelEvent.WheelEvent
-second_title: Aspose.SVG لمرجع .NET API
-description: WheelEvent البناء. يقوم بتهيئة مثيل جديد لملفWheelEvent فئة .
+title: "WheelEvent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ WheelEvent. يهيئ نسخة جديدة من فئة WheelEvent."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.events/wheelevent/wheelevent/
 ---
-## WheelEvent(string) {#constructor}
+## WheelEvent(*string*) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`WheelEvent`](../) فئة .
+يُنشئ مثيلًا جديدًا للفئة [`WheelEvent`](../).
 
 ```csharp
 public WheelEvent(string type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WheelEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../wheelevent/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## WheelEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## WheelEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`WheelEvent`](../) فئة .
+يُنشئ مثيلًا جديدًا للفئة [`WheelEvent`](../).
 
 ```csharp
 public WheelEvent(string type, IDictionary<string, object> eventInitDict)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | type | String | نوع الحدث. |
-| eventInitDict | IDictionary`2 | الحدث تهيئة القاموس. |
+| eventInitDict | IDictionary`2 | قاموس تهيئة الحدث. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WheelEvent](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../wheelevent/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

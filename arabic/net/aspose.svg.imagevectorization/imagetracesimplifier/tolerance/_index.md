@@ -1,23 +1,21 @@
 ---
-title: ImageTraceSimplifier.Tolerance
-second_title: Aspose.SVG لمرجع .NET API
-description: ImageTraceSimplifier ملكية. تحدد قيمة التفاوت الحد الأقصى لتفاوت الخطأ المسموح به لحذف نقطة من التتبع. يجب أن يكون في النطاق من 0 إلى 4. أي قيم أعلى أو أدنى ستتم محاذاة الحد الأدنى والأقصى لقيم هذا النطاق  وفقًا لذلك. القيمة الافتراضية هي 0.3.
+title: "ImageTraceSimplifier.Tolerance"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ImageTraceSimplifier Tolerance. تحدد قيمة التحمل الحد الأقصى للخطأ المسموح به لإزالة نقطة من الأثر. يجب أن تكون في النطاق من 0 إلى 4. أي قيم أعلى أو أقل سيتم محاذاتها مع القيم الدنيا والعليا لهذا النطاق وفقًا لذلك. القيمة الافتراضية هي 0.3."
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.imagevectorization/imagetracesimplifier/tolerance/
 ---
 ## ImageTraceSimplifier.Tolerance property
 
-تحدد قيمة التفاوت الحد الأقصى لتفاوت الخطأ المسموح به لحذف نقطة من التتبع. يجب أن يكون في النطاق من 0 إلى 4. أي قيم أعلى أو أدنى ستتم محاذاة الحد الأدنى والأقصى لقيم هذا النطاق ، وفقًا لذلك. القيمة الافتراضية هي 0.3.
+قيمة التسامح تحدد الحد الأقصى لتسامح الخطأ المسموح به لإزالة نقطة من التتبع. يجب أن تكون في النطاق من 0 إلى 4. أي قيم أعلى أو أقل سيتم تعديلها لتتناسب مع الحد الأدنى والحد الأقصى لهذا النطاق، وفقًا لذلك. القيمة الافتراضية هي 0.3.
 
 ```csharp
 public float Tolerance { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageTraceSimplifier](../)
-* مساحة الاسم [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

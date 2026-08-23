@@ -1,28 +1,26 @@
 ---
-title: DOMTreatNullAsAttribute.DOMTreatNullAsAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMTreatNullAsAttribute البناء. يقوم بتهيئة مثيل جديد لملفDOMTreatNullAsAttribute فئة .
+title: "DOMTreatNullAsAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMTreatNullAsAttribute المُنشئ. يهيئ مثيلاً جديداً من الفئة DOMTreatNullAsAttribute"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.attributes/domtreatnullasattribute/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute constructor
 
-يقوم بتهيئة مثيل جديد لملف[`DOMTreatNullAsAttribute`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`DOMTreatNullAsAttribute`](../).
 
 ```csharp
 public DOMTreatNullAsAttribute(Type type, object value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | Type | نوع الكائن. |
-| value | Object | قيمة الكائن. |
+| type | نوع | نوع الكائن. |
+| القيمة | كائن | قيمة الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMTreatNullAsAttribute](../)
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

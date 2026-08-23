@@ -1,35 +1,33 @@
 ---
-title: Color.FromCmyka
-second_title: Aspose.SVG لمرجع .NET API
-description: Color طريقة. إرجاع لون جديد بقيم ألفا سماوي وأرجواني وأصفر ومفتاح أسود وقيم ألفا.
+title: "Color.FromCmyka"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة Color FromCmyka. تُرجع Color جديدًا بالقيم المطلوبة للسيان والماجنتا والأصفر والمفتاح الأسود والشفافية"
 type: docs
 weight: 30
 url: /ar/net/aspose.svg.drawing/color/fromcmyka/
 ---
 ## Color.FromCmyka method
 
-إرجاع لون جديد بقيم ألفا سماوي وأرجواني وأصفر ومفتاح (أسود) وقيم ألفا.
+يرجع Color جديد مع القيم المطلوبة للسيان، الماجنتا، الأصفر، المفتاح (الأسود)، وألفا.
 
 ```csharp
 public static Color FromCmyka(float cyan, float magenta, float yellow, float key, float alpha)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| cyan | Single | عدد عشري يمثل المكون السماوي للون. |
-| magenta | Single | عائم يمثل المكون الأرجواني للون. |
-| yellow | Single | عائم يمثل المكون الأصفر للون. |
-| key | Single | عدد عشري يمثل المكون الأساسي للون. |
-| alpha | Single | عدد عشري يمثل مكون ألفا للون. |
+| سيان | Single | قيمة عائمة تمثل مكوّن السيان في اللون. |
+| ماجنتا | Single | قيمة عائمة تمثل مكوّن الماجنتا في اللون. |
+| أصفر | Single | قيمة عائمة تمثل مكوّن الأصفر في اللون. |
+| المفتاح | Single | قيمة عائمة تمثل مكوّن المفتاح (الكيا) في اللون. |
+| ألفا | Single | قيمة عائمة تمثل المكوّن ألفا للون. |
 
 ### قيمة الإرجاع
 
-مثيل جديد لـ[`Color`](../) فصل
+مثال جديد من الفئة [`Color`](../)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

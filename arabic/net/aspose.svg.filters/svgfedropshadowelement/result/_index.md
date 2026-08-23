@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Result
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFEDropShadowElement ملكية. يتوافق مع السمة نتيجة على عنصر feDropShadow المحدد .
+title: "SVGFEDropShadowElement.Result"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Result لـ SVGFEDropShadowElement. تتطابق مع الخاصية result في عنصر feDropShadow المحدد."
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.filters/svgfedropshadowelement/result/
 ---
 ## SVGFEDropShadowElement.Result property
 
-يتوافق مع السمة "نتيجة" على عنصر "feDropShadow" المحدد .
+يتطابق مع السمة ‘result’ في العنصر ‘feDropShadow’ المحدد.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "نتيجة" لعنصر "feDropShadow" المحدد .
+الخاصية ‘result’ لعنصر ‘feDropShadow’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDropShadowElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

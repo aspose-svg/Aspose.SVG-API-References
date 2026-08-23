@@ -1,28 +1,26 @@
 ---
-title: INetworkService.MessageHandlers
-second_title: Aspose.SVG لمرجع .NET API
-description: INetworkService ملكية. يحصل على قائمةMessageHandler الحالات التي سيتم الاحتجاج بها على أنها ملفRequestMessage ينفذ .
+title: "INetworkService.MessageHandlers"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية INetworkService MessageHandlers. تحصل على قائمة من مثيلات MessageHandler لتُستدعى عندما يتم تنفيذ RequestMessage."
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.services/inetworkservice/messagehandlers/
 ---
 ## INetworkService.MessageHandlers property
 
-يحصل على قائمة[`MessageHandler`](../../../aspose.svg.net/messagehandler/) الحالات التي سيتم الاحتجاج بها على أنها ملف[`RequestMessage`](../../../aspose.svg.net/requestmessage/) ينفذ .
+يحصل على قائمة من مثيلات [`MessageHandler`](../../../aspose.svg.net/messagehandler/) لتُستدعى عندما يتم تنفيذ [`RequestMessage`](../../../aspose.svg.net/requestmessage/).
 
 ```csharp
 public MessageHandlerCollection MessageHandlers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معالجات الرسائل .
+معالجات الرسائل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MessageHandlerCollection](../../../aspose.svg.net/messagehandlercollection/)
 * interface [INetworkService](../)
-* مساحة الاسم [Aspose.Svg.Services](../../inetworkservice/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

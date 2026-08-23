@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarkerOffset
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية إزاحة العلامة في CSS2.
+title: "ICSS2Properties.MarkerOffset"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "ICSS2Properties MarkerOffset خاصية. راجع تعريف خاصية marker-offset في CSS2"
 type: docs
-weight: 680
+weight: 710
 url: /ar/net/aspose.svg.dom.css/icss2properties/markeroffset/
 ---
 ## ICSS2Properties.MarkerOffset property
 
-راجع تعريف خاصية إزاحة العلامة في CSS2.
+انظر تعريف خاصية marker-offset في CSS2.
 
 ```csharp
 public string MarkerOffset { get; set; }
@@ -16,12 +16,10 @@ public string MarkerOffset { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية تعويض العلامة
+marker-offset خاصية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

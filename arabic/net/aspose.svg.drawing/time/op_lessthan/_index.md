@@ -1,39 +1,37 @@
 ---
-title: Time.op_LessThan
-second_title: Aspose.SVG لمرجع .NET API
-description: Time طريقة. تنفيذ عامل التشغيل .
+title: "Time.op_LessThan"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة op_LessThan في Time. تنفذ العملية"
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.drawing/time/op_lessthan/
 ---
 ## Time LessThan operator
 
-تنفيذ عامل التشغيل &lt;.
+ينفّذ العامل &lt;.
 
 ```csharp
 public static bool operator <(Time a, Time b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Time | المعلمة أ. |
-| b | Time | المعلمة ب. |
+| a | Time | المعامل a. |
+| b | Time | المعامل b. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | الحجج لها أنواع مختلفة |
-| ArgumentNullException | الحجة لاغية |
+| ArgumentException | الوسائط لها أنواع مختلفة |
+| ArgumentNullException | الوسيط فارغ |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Time](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../time/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

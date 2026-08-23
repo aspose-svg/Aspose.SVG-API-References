@@ -1,28 +1,26 @@
 ---
-title: Document.Location
-second_title: Aspose.SVG لمرجع .NET API
-description: Document ملكية. مكان المستند .
+title: "Document.Location"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Document Location. موقع الوثيقة."
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.dom/document/location/
 ---
 ## Document.Location property
 
-مكان المستند .
+موقع المستند.
 
 ```csharp
 public Location Location { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الموقع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Location](../../../aspose.svg.window/location/)
 * class [Document](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../document/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

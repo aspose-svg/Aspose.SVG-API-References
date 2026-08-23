@@ -1,28 +1,26 @@
 ---
-title: ICSSStyleDeclaration.ParentRule
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSSStyleDeclaration ملكية. قاعدة CSS التي تحتوي على كتلة الإعلان هذه أو فارغة إذا لم يتم إرفاق إعلان CSSStyle هذا بقاعدة CSSRule.
+title: "ICSSStyleDeclaration.ParentRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية ParentRule في ICSSStyleDeclaration. قاعدة CSS التي تحتوي على كتلة الإعلان هذه أو null إذا لم يتم إرفاق هذا CSSStyleDeclaration بقاعدة CSSRule"
 type: docs
 weight: 40
 url: /ar/net/aspose.svg.dom.css/icssstyledeclaration/parentrule/
 ---
 ## ICSSStyleDeclaration.ParentRule property
 
-قاعدة CSS التي تحتوي على كتلة الإعلان هذه أو فارغة إذا لم يتم إرفاق إعلان CSSStyle هذا بقاعدة CSSRule.
+قاعدة CSS التي تحتوي على هذه كتلة التصريح أو null إذا لم يتم إرفاق هذا CSSStyleDeclaration بقاعدة CSS.
 
 ```csharp
 public ICSSRule ParentRule { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القاعدة الأصل .
+قاعدة الأصل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSStyleDeclaration](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

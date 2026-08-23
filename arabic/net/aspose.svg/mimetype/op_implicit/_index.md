@@ -1,55 +1,53 @@
 ---
-title: MimeType.op_Implicit
-second_title: Aspose.SVG لمرجع .NET API
-description: MimeType طريقة. يقوم بإجراء تحويل ضمني منString لMimeType .
+title: "MimeType.op_Implicit"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة MimeType op_Implicit. تقوم بتحويل ضمني من String إلى MimeType"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg/mimetype/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 
-يقوم بإجراء تحويل ضمني منString ل[`MimeType`](../) .
+يقوم بتحويل ضمني من String إلى [`MimeType`](../).
 
 ```csharp
 public static implicit operator MimeType(string @string)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| string | String | السلسلة. |
+| سلسلة | String | السلسلة. |
 
 ### قيمة الإرجاع
 
-نتيجة التحويل .
+نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## implicit operator {#op_implicit_1}
 
-يقوم بإجراء تحويل ضمني من[`MimeType`](../) لString .
+يقوم بتحويل ضمني من [`MimeType`](../) إلى String.
 
 ```csharp
 public static implicit operator string(MimeType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | MimeType | نوع التمثيل الصامت. |
+| type | MimeType | نوع MIME. |
 
 ### قيمة الإرجاع
 
-نتيجة التحويل .
+نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MimeType](../)
-* مساحة الاسم [Aspose.Svg](../../mimetype/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

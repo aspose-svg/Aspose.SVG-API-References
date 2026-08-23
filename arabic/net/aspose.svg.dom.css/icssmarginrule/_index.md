@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSMarginRule
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Css.ICSSMarginRule واجهه المستخدم. تمثل واجهة CSSMarginRule هامشًا في القاعدة .
+title: "واجهة ICSSMarginRule"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Dom.Css.ICSSMarginRule. تمثل واجهة CSSMarginRule قاعدة at-rule للهوامش"
 type: docs
-weight: 590
+weight: 2590
 url: /ar/net/aspose.svg.dom.css/icssmarginrule/
 ---
 ## ICSSMarginRule interface
 
-تمثل واجهة CSSMarginRule هامشًا في القاعدة .
+واجهة CSSMarginRule تمثل قاعدة at-rule للهوامش.
 
 ```csharp
 public interface ICSSMarginRule : ICSSRule
@@ -16,15 +16,13 @@ public interface ICSSMarginRule : ICSSRule
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | يجب أن تقوم سمة الاسم بإرجاع اسم الهامش في القاعدة. لم يتم تضمين الحرف @ في الاسم. |
-| [Style](../../aspose.svg.dom.css/icssmarginrule/style/) { get; } | كتلة الإعلان عن هذه القاعدة . |
+| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | يجب أن تُعيد خاصية الاسم اسم قاعدة at-rule للهوامش. لا يُضمّن حرف @ في الاسم. |
+| [Style](../../aspose.svg.dom.css/icssmarginrule/style/) { get; } | كتلة التصريح لهذه القاعدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSSRule](../icssrule/)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

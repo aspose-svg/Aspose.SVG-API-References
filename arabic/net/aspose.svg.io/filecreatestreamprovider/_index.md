@@ -1,47 +1,45 @@
 ---
-title: Class FileCreateStreamProvider
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.IO.FileCreateStreamProvider فصل. يمثلFileStream تنفيذ لتوفير تدفقات لأجهزة التقديم.
+title: "الفئة FileCreateStreamProvider"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "الفئة Aspose.Svg.IO.FileCreateStreamProvider. تمثل تنفيذ FileStream لتوفير التدفقات إلى أجهزة العرض."
 type: docs
-weight: 1910
+weight: 4020
 url: /ar/net/aspose.svg.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class
 
-يمثلFileStream تنفيذ لتوفير تدفقات لأجهزة التقديم.
+يمثل تنفيذ FileStream لتوفير التدفقات إلى أجهزة العرض.
 
 ```csharp
 public class FileCreateStreamProvider : ICreateStreamProvider
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor)() | يقوم بتهيئة مثيل جديد لملف`FileCreateStreamProvider` فئة . |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`FileCreateStreamProvider` فئة . |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_2)(string, string) | يقوم بتهيئة مثيل جديد لملف`FileCreateStreamProvider` فئة . |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor)() | يقوم بإنشاء نسخة جديدة من الفئة `FileCreateStreamProvider`. |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_1)(*string*) | يقوم بإنشاء نسخة جديدة من الفئة `FileCreateStreamProvider`. |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_2)(*string, string*) | يقوم بإنشاء نسخة جديدة من الفئة `FileCreateStreamProvider`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Directory](../../aspose.svg.io/filecreatestreamprovider/directory/) { get; set; } | الحصول على الدليل أو تعيينه. |
-| [Name](../../aspose.svg.io/filecreatestreamprovider/name/) { get; set; } | الحصول على الاسم أو تعيينه . |
+| [Directory](../../aspose.svg.io/filecreatestreamprovider/directory/) { get; set; } | يحصل أو يعيّن الدليل. |
+| [Name](../../aspose.svg.io/filecreatestreamprovider/name/) { get; set; } | يحصل أو يعيّن الاسم. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose/)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream)(string, string) | يوفر دفقًا للعرض . |
-| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream_1)(string, string, int) | يوفر دفقًا للعرض . |
-| [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream/)(Stream) | يصدر الدفق . |
+| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream)(*string, string*) | يوفر تدفقًا للعرض. |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream_1)(*string, string, int*) | يوفر تدفقًا للعرض. |
+| [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream/)(*Stream*) | يطلق التدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICreateStreamProvider](../icreatestreamprovider/)
-* مساحة الاسم [Aspose.Svg.IO](../../aspose.svg.io/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

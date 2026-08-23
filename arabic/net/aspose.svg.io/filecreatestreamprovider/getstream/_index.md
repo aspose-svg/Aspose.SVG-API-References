@@ -1,58 +1,56 @@
 ---
-title: FileCreateStreamProvider.GetStream
-second_title: Aspose.SVG لمرجع .NET API
-description: FileCreateStreamProvider طريقة. يوفر دفقًا للعرض .
+title: "FileCreateStreamProvider.GetStream"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "طريقة FileCreateStreamProvider GetStream. تُوفر تدفقًا للعرض"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.io/filecreatestreamprovider/getstream/
 ---
-## GetStream(string, string) {#getstream}
+## GetStream(*string, string*) {#getstream}
 
-يوفر دفقًا للعرض .
+يوفر تدفقًا للعرض.
 
 ```csharp
 public Stream GetStream(string name, string extension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الدفق. |
-| extension | String | ملحق اسم الملف المراد استخدامه في حالة إنشاء دفق ملف. |
+| الاسم | String | اسم التدفق. |
+| extension | String | امتداد اسم الملف الذي يُستخدم إذا تم إنشاء تدفق ملف. |
 
 ### قيمة الإرجاع
 
-كائن دفق يُستخدم لكتابة البيانات أثناء عمليات التقديم.
+كائن Stream يُستخدم لكتابة البيانات أثناء عمليات العرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetStream(string, string, int) {#getstream_1}
+## GetStream(*string, string, int*) {#getstream_1}
 
-يوفر دفقًا للعرض .
+يوفر تدفقًا للعرض.
 
 ```csharp
 public Stream GetStream(string name, string extension, int page)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الدفق. |
-| extension | String | ملحق اسم الملف المراد استخدامه في حالة إنشاء دفق ملف. |
-| page | Int32 | رقم صفحة المستند. |
+| الاسم | String | اسم التدفق. |
+| extension | String | امتداد اسم الملف الذي يُستخدم إذا تم إنشاء تدفق ملف. |
+| صفحة | Int32 | رقم الصفحة في المستند. |
 
 ### قيمة الإرجاع
 
-كائن دفق يُستخدم لكتابة البيانات أثناء عمليات التقديم.
+كائن Stream يُستخدم لكتابة البيانات أثناء عمليات العرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateStreamProvider](../)
-* مساحة الاسم [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

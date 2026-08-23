@@ -1,30 +1,28 @@
 ---
-title: Interface ICreateStreamProvider
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.IO.ICreateStreamProvider واجهه المستخدم. يمثل واجهة يمكن تنفيذها بواسطة الفئات التي توفر تدفقات لأجهزة العرض.
+title: "واجهة ICreateStreamProvider"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.IO.ICreateStreamProvider. تمثل واجهة يمكن تنفيذها بواسطة الفئات التي توفر تدفقات لأجهزة العرض."
 type: docs
-weight: 1930
+weight: 4040
 url: /ar/net/aspose.svg.io/icreatestreamprovider/
 ---
 ## ICreateStreamProvider interface
 
-يمثل واجهة يمكن تنفيذها بواسطة الفئات التي توفر تدفقات لأجهزة العرض.
+يمثل واجهة يمكن تنفيذها بواسطة فئات توفر تدفقات إلى أجهزة العرض.
 
 ```csharp
 public interface ICreateStreamProvider : IDisposable
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream/#getstream)(string, string) | يوفر دفقًا للعرض . |
-| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream/#getstream_1)(string, string, int) | يوفر دفقًا للعرض . |
-| [ReleaseStream](../../aspose.svg.io/icreatestreamprovider/releasestream/)(Stream) | يصدر الدفق . |
+| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream/#getstream)(*string, string*) | يوفر تدفقًا للعرض. |
+| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream/#getstream_1)(*string, string, int*) | يوفر تدفقًا للعرض. |
+| [ReleaseStream](../../aspose.svg.io/icreatestreamprovider/releasestream/)(*Stream*) | يطلق التدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.IO](../../aspose.svg.io/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

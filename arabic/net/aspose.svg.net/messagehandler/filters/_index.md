@@ -1,28 +1,26 @@
 ---
-title: MessageHandler.Filters
-second_title: Aspose.SVG لمرجع .NET API
-description: MessageHandler ملكية. الحصول على قائمة عوامل التصفية المطابقة لنوع المعالج المحدد.
+title: "MessageHandler.Filters"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية MessageHandler Filters. تُرجع قائمة الفلاتر التي تتطابق مع نوع المعالج المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/messagehandler/filters/
 ---
 ## MessageHandler.Filters property
 
-الحصول على قائمة عوامل التصفية المطابقة لنوع المعالج المحدد.
+يحصل على قائمة المرشحات التي تتوافق مع نوع المعالج المحدد.
 
 ```csharp
 public Collection<MessageFilter> Filters { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المرشحات .
+الفلاتر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MessageFilter](../../messagefilter/)
 * class [MessageHandler](../)
-* مساحة الاسم [Aspose.Svg.Net](../../messagehandler/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

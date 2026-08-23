@@ -1,27 +1,25 @@
 ---
-title: SVGListBase1.Length
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGListBase ملكية. عدد العناصر في القائمة .
+title: "SVGListBase-1.Length"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Length في SVGListBase. عدد العناصر في القائمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.collections/svglistbase-1/length/
 ---
-## SVGListBase&lt;T&gt;.Length property
+## SVGListBase<T>.Length property
 
-عدد العناصر في القائمة .
+عدد العناصر في القائمة.
 
 ```csharp
 public ulong Length { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد العناصر .
+عدد العناصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGListBase&lt;T&gt;](../)
-* مساحة الاسم [Aspose.Svg.Collections](../../svglistbase-1/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

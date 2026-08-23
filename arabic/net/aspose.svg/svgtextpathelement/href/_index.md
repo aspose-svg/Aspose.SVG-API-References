@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Href
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPathElement ملكية. يتوافق مع السمة xlink href في العنصر المحدد.
+title: "SVGTextPathElement.Href"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SVGTextPathElement Href. تتطابق مع السمة xlinkhref في العنصر المعطى"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgtextpathelement/href/
 ---
 ## SVGTextPathElement.Href property
 
-يتوافق مع السمة "xlink: href" في العنصر المحدد.
+يتطابق مع السمة ‘xlink:href’ على العنصر المعطى.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Property_Value
+### Property Value
 
-"xlink: href" للعنصر المحدد.
+‘xlink:href’ للعنصر المعطى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGTextPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

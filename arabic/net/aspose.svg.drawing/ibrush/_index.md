@@ -1,28 +1,26 @@
 ---
-title: Interface IBrush
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Drawing.IBrush واجهه المستخدم. يوضح طريقة الحصول على نوع الفرشاة.
+title: "واجهة IBrush"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Drawing.IBrush. تعلن طريقة للحصول على نوع الفرشاة"
 type: docs
-weight: 1430
+weight: 3440
 url: /ar/net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface
 
-يوضح طريقة الحصول على نوع الفرشاة.
+يعلن عن طريقة للحصول على نوع الفرشاة.
 
 ```csharp
-public interface IBrush
+public interface IBrush : IDisposable
 ```
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | احصل على نوع الفرشاة ؛ |
+| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | يحصل على نوع الفرشاة كـ [`BrushType`](../brushtype/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

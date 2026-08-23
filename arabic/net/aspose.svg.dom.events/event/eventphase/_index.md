@@ -1,23 +1,21 @@
 ---
-title: Event.EventPhase
-second_title: Aspose.SVG لمرجع .NET API
-description: Event ملكية. يُستخدم للإشارة إلى أي مرحلة من مراحل تدفق الأحداث يتم تقييمها حاليًا.
+title: "Event.EventPhase"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Event EventPhase. تُستخدم لتحديد أي مرحلة من تدفق الحدث يتم تقييمها حاليًا."
 type: docs
 weight: 60
 url: /ar/net/aspose.svg.dom.events/event/eventphase/
 ---
 ## Event.EventPhase property
 
-يُستخدم للإشارة إلى أي مرحلة من مراحل تدفق الأحداث يتم تقييمها حاليًا.
+يُستخدم لتحديد أي مرحلة من تدفق الحدث يتم تقييمها حاليًا.
 
 ```csharp
 public ushort EventPhase { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Event](../)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../event/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

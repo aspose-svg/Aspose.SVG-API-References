@@ -1,27 +1,25 @@
 ---
-title: CDATASection.NodeName
-second_title: Aspose.SVG لمرجع .NET API
-description: CDATASection ملكية. اسم هذه العقدة حسب نوعها.
+title: "CDATASection.NodeName"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية CDATASection NodeName. اسم هذه العقدة حسب نوعها"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom/cdatasection/nodename/
 ---
 ## CDATASection.NodeName property
 
-اسم هذه العقدة حسب نوعها.
+اسم هذه العقدة، حسب نوعها.
 
 ```csharp
 public override string NodeName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم العقدة .
+اسم العقدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CDATASection](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../cdatasection/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

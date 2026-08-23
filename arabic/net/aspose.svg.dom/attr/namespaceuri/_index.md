@@ -1,23 +1,21 @@
 ---
-title: Attr.NamespaceURI
-second_title: Aspose.SVG لمرجع .NET API
-description: Attr ملكية. معرف مساحة الاسم لهذه العقدة  أو فارغ إذا كانت غير محددة.
+title: "Attr.NamespaceURI"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Attr NamespaceURI. عنوان URI للمساحة الاسمية لهذه العقدة أو null إذا لم يُحدد."
 type: docs
-weight: 40
+weight: 30
 url: /ar/net/aspose.svg.dom/attr/namespaceuri/
 ---
 ## Attr.NamespaceURI property
 
-معرف مساحة الاسم لهذه العقدة ، أو فارغ إذا كانت غير محددة.
+معرف URI لمساحة الاسم لهذه العقدة، أو null إذا لم يُحدَّد.
 
 ```csharp
 public override string NamespaceURI { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Attr](../)
-* مساحة الاسم [Aspose.Svg.Dom](../../attr/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_MATRIX
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTransform مجال. تحويل مصفوفة ... .
+title: "SVGTransform.SVG_TRANSFORM_MATRIX"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTransform SVG_TRANSFORM_MATRIX. تحويل مصفوفة."
 type: docs
 weight: 110
 url: /ar/net/aspose.svg.datatypes/svgtransform/svg_transform_matrix/
 ---
 ## SVGTransform.SVG_TRANSFORM_MATRIX field
 
-تحويل "مصفوفة (...)" .
+تحويل 'matrix(…)'
 
 ```csharp
 public const ushort SVG_TRANSFORM_MATRIX;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTransform](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svgtransform/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

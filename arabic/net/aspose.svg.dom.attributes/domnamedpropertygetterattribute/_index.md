@@ -1,29 +1,33 @@
 ---
-title: Class DOMNamedPropertyGetterAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Dom.Attributes.DOMNamedPropertyGetterAttribute فصل. يحدد أنه سيتم استخدام الطريقة على أنها getter للخاصية المسماة.
+title: "فئة DOMNamedPropertyGetterAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "فئة Aspose.Svg.Dom.Attributes.DOMNamedPropertyGetterAttribute. يحدد أن الطريقة ستُستخدم كمستخرج خاصية مسماة"
 type: docs
-weight: 390
+weight: 2390
 url: /ar/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute class
 
-يحدد أنه سيتم استخدام الطريقة على أنها getter للخاصية المسماة.
+يحدد أن الطريقة ستُستخدم كـ getter لخاصية مسماة.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNamedPropertyGetterAttribute : Attribute
 ```
 
-## المنشئون
+## البناؤات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DOMNamedPropertyGetterAttribute](domnamedpropertygetterattribute/)() | Default_Constructor |
+| [DOMNamedPropertyGetterAttribute](domnamedpropertygetterattribute/)() | المنشئ الافتراضي. |
 
-### أنظر أيضا
+## الخصائص
 
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* المجسم [Aspose.SVG](../../)
+| الاسم | الوصف |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### انظر أيضًا
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

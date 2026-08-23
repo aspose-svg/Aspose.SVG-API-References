@@ -1,158 +1,156 @@
 ---
-title: Color.Color
-second_title: Aspose.SVG لمرجع .NET API
-description: Color البناء. يقوم بتهيئة مثيل جديد لملفColor class. اللون الافتراضي هو الأسود.
+title: "Color"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "منشئ Color. يهيئ مثيلًا جديدًا من الفئة Color. بشكل افتراضي يكون اللون أسود"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.drawing/color/color/
 ---
 ## Color() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Color`](../) class. اللون الافتراضي هو الأسود.
+يهيئ مثيلًا جديدًا من الفئة [`Color`](../). بشكل افتراضي يكون اللون أسود.
 
 ```csharp
 public Color()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float) {#constructor_5}
+## Color(*float, float, float*) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`Color`](../) class. يجب أن تكون جميع مكونات الألوان في النطاق 0-1.
+يهيئ مثيلًا جديدًا من الفئة [`Color`](../). يجب أن تكون جميع مكونات اللون في النطاق 0-1.
 
 ```csharp
 public Color(float red, float green, float blue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| red | Single | المكون الأحمر للون. |
-| green | Single | المكون الأخضر للون. |
-| blue | Single | المكون الأزرق للون. |
+| أحمر | Single | المكوّن الأحمر للون. |
+| أخضر | Single | المكوّن الأخضر للون. |
+| أزرق | Single | المكوّن الأزرق للون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float, float) {#constructor_6}
+## Color(*float, float, float, float*) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`Color`](../) class. يجب أن تكون جميع مكونات الألوان في النطاق 0-1.
+يهيئ مثيلًا جديدًا من الفئة [`Color`](../). يجب أن تكون جميع مكونات اللون في النطاق 0-1.
 
 ```csharp
 public Color(float red, float green, float blue, float alpha)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| red | Single | المكون الأحمر للون. |
-| green | Single | المكون الأخضر للون. |
-| blue | Single | المكون الأزرق للون. |
-| alpha | Single | مكون ألفا للون. |
+| أحمر | Single | المكوّن الأحمر للون. |
+| أخضر | Single | المكوّن الأخضر للون. |
+| أزرق | Single | المكوّن الأزرق للون. |
+| ألفا | Single | المكوّن ألفا للون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte) {#constructor_1}
+## Color(*byte, byte, byte*) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Color`](../)class. يجب أن تكون كافة مكونات الألوان في النطاق 0-255.
+يهيئ مثيلًا جديدًا من الفئة [`Color`](../). يجب أن تكون جميع مكونات اللون في النطاق 0-255.
 
 ```csharp
 public Color(byte red, byte green, byte blue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| red | Byte | المكون الأحمر للون. |
-| green | Byte | المكون الأخضر للون. |
-| blue | Byte | المكون الأزرق للون. |
+| أحمر | بايت | المكوّن الأحمر للون. |
+| أخضر | بايت | المكوّن الأخضر للون. |
+| أزرق | بايت | المكوّن الأزرق للون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte, byte) {#constructor_2}
+## Color(*byte, byte, byte, byte*) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`Color`](../)class. يجب أن تكون كافة مكونات الألوان في النطاق 0-255.
+يهيئ مثيلًا جديدًا من الفئة [`Color`](../). يجب أن تكون جميع مكونات اللون في النطاق 0-255.
 
 ```csharp
 public Color(byte red, byte green, byte blue, byte alpha)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| red | Byte | بايت يمثل المكون الأحمر للون. |
-| green | Byte | بايت يمثل المكون الأخضر للون. |
-| blue | Byte | بايت يمثل المكون الأزرق للون. |
-| alpha | Byte | بايت يمثل مكون ألفا للون. |
+| أحمر | بايت | بايت يمثل المكوّن الأحمر للون. |
+| أخضر | بايت | بايت يمثل المكوّن الأخضر للون. |
+| أزرق | بايت | بايت يمثل المكوّن الأزرق للون. |
+| ألفا | بايت | بايت يمثل مكوّن الشفافية للون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int) {#constructor_3}
+## Color(*int, int, int*) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`Color`](../)class. يجب أن تكون كافة مكونات الألوان في النطاق 0-255.
+يهيئ مثيلًا جديدًا من الفئة [`Color`](../). يجب أن تكون جميع مكونات اللون في النطاق 0-255.
 
 ```csharp
 public Color(int red, int green, int blue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| red | Int32 | المكون الأحمر للون. |
-| green | Int32 | المكون الأخضر للون. |
-| blue | Int32 | المكون الأزرق للون. |
+| أحمر | Int32 | المكوّن الأحمر للون. |
+| أخضر | Int32 | المكوّن الأخضر للون. |
+| أزرق | Int32 | المكوّن الأزرق للون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int, int) {#constructor_4}
+## Color(*int, int, int, int*) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`Color`](../)class. يجب أن تكون كافة مكونات الألوان في النطاق 0-255.
+يهيئ مثيلًا جديدًا من الفئة [`Color`](../). يجب أن تكون جميع مكونات اللون في النطاق 0-255.
 
 ```csharp
 public Color(int red, int green, int blue, int alpha)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| red | Int32 | المكون الأحمر للون. |
-| green | Int32 | المكون الأخضر للون. |
-| blue | Int32 | المكون الأزرق للون. |
-| alpha | Int32 | مكون ألفا للون. |
+| أحمر | Int32 | المكوّن الأحمر للون. |
+| أخضر | Int32 | المكوّن الأخضر للون. |
+| أزرق | Int32 | المكوّن الأزرق للون. |
+| ألفا | Int32 | المكوّن ألفا للون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Color](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../color/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

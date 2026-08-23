@@ -1,28 +1,26 @@
 ---
-title: INetworkOperationContext.Request
-second_title: Aspose.SVG لمرجع .NET API
-description: INetworkOperationContext ملكية. الحصول على رسالة الطلب أو تعيينها .
+title: "INetworkOperationContext.Request"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية INetworkOperationContext Request. تحصل أو تعين رسالة الطلب"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.net/inetworkoperationcontext/request/
 ---
 ## INetworkOperationContext.Request property
 
-الحصول على رسالة الطلب أو تعيينها .
+يحصل أو يضبط رسالة الطلب.
 
 ```csharp
 public RequestMessage Request { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-رسالة الطلب .
+رسالة الطلب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* مساحة الاسم [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGPathSeg مجال. يتوافق مع أمر بيانات المسار منحني تربيعي سلس مطلق T.
+title: "SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGPathSeg PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS. يتطابق مع أمر بيانات مسار T من نوع curveto تربيعي ناعم مطلق"
 type: docs
 weight: 120
 url: /ar/net/aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_smooth_abs/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS field
 
-يتوافق مع أمر بيانات المسار "منحني تربيعي سلس مطلق" (T).
+يتطابق مع أمر بيانات مسار "smooth quadratic curveto" المطلق (T).
 
 ```csharp
 public const ushort PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGPathSeg](../)
-* مساحة الاسم [Aspose.Svg.Paths](../../svgpathseg/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

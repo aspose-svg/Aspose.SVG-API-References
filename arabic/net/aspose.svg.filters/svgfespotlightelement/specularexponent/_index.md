@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.SpecularExponent
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFESpotLightElement ملكية. يتوافق مع السمة specularExponent على عنصر feSpotLight المحدد.
+title: "SVGFESpotLightElement.SpecularExponent"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية SpecularExponent في SVGFESpotLightElement. تتطابق مع السمة specularExponent في عنصر feSpotLight المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.svg.filters/svgfespotlightelement/specularexponent/
 ---
 ## SVGFESpotLightElement.SpecularExponent property
 
-يتوافق مع السمة "specularExponent" على عنصر "feSpotLight" المحدد.
+يتطابق مع السمة ‘specularExponent’ على العنصر ‘feSpotLight’ المحدد.
 
 ```csharp
 public SVGAnimatedNumber SpecularExponent { get; }
 ```
 
-### Property_Value
+### Property Value
 
-السمة "specularExponent" لعنصر "feSpotLight" المحدد.
+السمة ‘specularExponent’ لعنصر ‘feSpotLight’ المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

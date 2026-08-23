@@ -1,28 +1,26 @@
 ---
-title: Size.Height
-second_title: Aspose.SVG لمرجع .NET API
-description: Size ملكية. الحصول على أو تحديد المكون الرأسي لهذاSize .
+title: "Size.Height"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Size Height. تحصل أو تعيين المكوّن الرأسي لهذا Size"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.drawing/size/height/
 ---
 ## Size.Height property
 
-الحصول على أو تحديد المكون الرأسي لهذا[`Size`](../) .
+تحصل أو تعيين المكوّن الرأسي لهذا [`Size`](../).
 
 ```csharp
 public Length Height { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المكون الرأسي لهذا[`Size`](../) .
+المكوّن الرأسي لهذا [`Size`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Length](../../length/)
 * class [Size](../)
-* مساحة الاسم [Aspose.Svg.Drawing](../../size/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

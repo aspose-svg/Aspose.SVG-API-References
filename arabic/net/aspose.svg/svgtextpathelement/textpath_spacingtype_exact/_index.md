@@ -1,23 +1,21 @@
 ---
-title: SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGTextPathElement مجال. يتوافق مع القيمة بالضبط .
+title: "SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGTextPathElement TEXTPATH_SPACINGTYPE_EXACT. يتطابق مع القيمة exact"
 type: docs
 weight: 90
 url: /ar/net/aspose.svg/svgtextpathelement/textpath_spacingtype_exact/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT field
 
-يتوافق مع القيمة "بالضبط" .
+يتطابق مع القيمة 'exact'.
 
 ```csharp
 public const ushort TEXTPATH_SPACINGTYPE_EXACT;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGTextPathElement](../)
-* مساحة الاسم [Aspose.Svg](../../svgtextpathelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGFETurbulenceElement مجال. يتوافق مع قيمة الاضطرابات .
+title: "SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVG_TURBULENCE_TYPE_TURBULENCE في SVGFETurbulenceElement. يتطابق مع القيمة turbulence."
 type: docs
 weight: 160
 url: /ar/net/aspose.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbulence/
 ---
 ## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE field
 
-يتوافق مع قيمة "الاضطرابات" .
+يتطابق مع القيمة 'turbulence'.
 
 ```csharp
 public const ushort SVG_TURBULENCE_TYPE_TURBULENCE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGFETurbulenceElement](../)
-* مساحة الاسم [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

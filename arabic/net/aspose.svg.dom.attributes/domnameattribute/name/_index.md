@@ -1,27 +1,25 @@
 ---
-title: DOMNameAttribute.Name
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMNameAttribute ملكية. الحصول على اسم DOM .
+title: "DOMNameAttribute.Name"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMNameAttribute Name property. يسترجع اسم DOM"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.attributes/domnameattribute/name/
 ---
 ## DOMNameAttribute.Name property
 
-الحصول على اسم DOM .
+يحصل على اسم DOM.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الاسم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMNameAttribute](../)
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: IMediaList.Length
-second_title: Aspose.SVG لمرجع .NET API
-description: IMediaList ملكية. عدد الوسائط في القائمة. نطاق الوسائط الصالحة هو من 0 إلى الطول 1 ضمناً .
+title: "IMediaList.Length"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Length في IMediaList. عدد الوسائط في القائمة. النطاق الصالح للوسائط هو من 0 إلى length-1 شاملًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/imedialist/length/
 ---
 ## IMediaList.Length property
 
-عدد الوسائط في القائمة. نطاق الوسائط الصالحة هو من 0 إلى الطول -1 ضمناً .
+عدد الوسائط في القائمة. النطاق الصالح للوسائط هو من 0 إلى length-1 شاملًا.
 
 ```csharp
 public long Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IMediaList](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../imedialist/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

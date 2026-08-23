@@ -1,32 +1,29 @@
 ---
-title: Interface IDeviceInformationService
-second_title: Aspose.SVG لمرجع .NET API
-description: Aspose.Svg.Services.IDeviceInformationService واجهه المستخدم. واجهة يتم وصف البيئة فيهاDocument يتم تقديمه للمستخدم.
+title: "واجهة IDeviceInformationService"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "واجهة Aspose.Svg.Services.IDeviceInformationService. واجهة تصف بيئة يتم فيها عرض Document للمستخدم"
 type: docs
-weight: 3710
+weight: 5840
 url: /ar/net/aspose.svg.services/ideviceinformationservice/
 ---
 ## IDeviceInformationService interface
 
-واجهة يتم وصف البيئة فيها[`Document`](../../aspose.svg.dom/document/) يتم تقديمه للمستخدم.
+واجهة تصف بيئة يتم فيها عرض [`Document`](../../aspose.svg.dom/document/) للمستخدم.
 
 ```csharp
-public interface IDeviceInformationService : IService
+public interface IDeviceInformationService
 ```
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HorizontalResolution](../../aspose.svg.services/ideviceinformationservice/horizontalresolution/) { get; set; } | الحصول على الدقة الأفقية أو تعيينها . |
-| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize/) { get; set; } | الحصول على أو تحديد حجم الشاشة. |
-| [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution/) { get; set; } | الحصول على الدقة الرأسية أو تعيينها . |
-| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize/) { get; set; } | الحصول على أو تحديد حجم النافذة. |
+| [HorizontalResolution](../../aspose.svg.services/ideviceinformationservice/horizontalresolution/) { get; set; } | يحصل أو يضبط الدقة الأفقية. |
+| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize/) { get; set; } | يحصل أو يضبط حجم الشاشة. |
+| [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution/) { get; set; } | يحصل أو يضبط الدقة العمودية. |
+| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize/) { get; set; } | يحصل أو يضبط حجم النافذة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IService](../iservice/)
-* مساحة الاسم [Aspose.Svg.Services](../../aspose.svg.services/)
-* المجسم [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

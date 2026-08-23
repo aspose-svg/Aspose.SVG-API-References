@@ -1,27 +1,25 @@
 ---
-title: DOMNameAttribute.DOMNameAttribute
-second_title: Aspose.SVG لمرجع .NET API
-description: DOMNameAttribute البناء. يقوم بتهيئة مثيل جديد لملفDOMNameAttribute فئة .
+title: "DOMNameAttribute"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "DOMNameAttribute المُنشئ. يهيئ مثيلاً جديداً من الفئة DOMNameAttribute"
 type: docs
 weight: 10
 url: /ar/net/aspose.svg.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
 
-يقوم بتهيئة مثيل جديد لملف[`DOMNameAttribute`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`DOMNameAttribute`](../).
 
 ```csharp
 public DOMNameAttribute(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم DOM. |
+| الاسم | String | اسم DOM. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DOMNameAttribute](../)
-* مساحة الاسم [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

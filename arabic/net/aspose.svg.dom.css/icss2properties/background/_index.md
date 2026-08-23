@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Background
-second_title: Aspose.SVG لمرجع .NET API
-description: ICSS2Properties ملكية. راجع تعريف خاصية الخلفية في CSS2.
+title: "ICSS2Properties.Background"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "خاصية Background في ICSS2Properties. راجع تعريف خاصية background في CSS2"
 type: docs
 weight: 20
 url: /ar/net/aspose.svg.dom.css/icss2properties/background/
 ---
 ## ICSS2Properties.Background property
 
-راجع تعريف خاصية الخلفية في CSS2.
+انظر تعريف خاصية background في CSS2.
 
 ```csharp
 public string Background { get; set; }
@@ -16,12 +16,10 @@ public string Background { get; set; }
 
 ### قيمة الإرجاع
 
-خاصية الخلفية
+خاصية background
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICSS2Properties](../)
-* مساحة الاسم [Aspose.Svg.Dom.Css](../../icss2properties/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

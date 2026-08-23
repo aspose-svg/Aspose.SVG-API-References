@@ -1,23 +1,21 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_PERCENTAGE
-second_title: Aspose.SVG لمرجع .NET API
-description: SVGLength مجال. تم تحديد قيمة النسبة المئوية .
+title: "SVGLength.SVG_LENGTHTYPE_PERCENTAGE"
+second_title: "مرجع API لـ Aspose.SVG لـ .NET"
+description: "حقل SVGLength SVG_LENGTHTYPE_PERCENTAGE. تم تحديد قيمة نسبة مئوية."
 type: docs
 weight: 150
 url: /ar/net/aspose.svg.datatypes/svglength/svg_lengthtype_percentage/
 ---
 ## SVGLength.SVG_LENGTHTYPE_PERCENTAGE field
 
-تم تحديد قيمة النسبة المئوية .
+تم تحديد قيمة كنسبة مئوية.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_PERCENTAGE;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SVGLength](../)
-* مساحة الاسم [Aspose.Svg.DataTypes](../../svglength/)
-* المجسم [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
