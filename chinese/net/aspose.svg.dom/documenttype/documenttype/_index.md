@@ -1,33 +1,31 @@
 ---
-title: DocumentType.DocumentType
-second_title: Aspose.SVG for .NET API 参考
-description: DocumentType 构造函数. 初始化一个新的实例DocumentType类.
+title: "DocumentType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DocumentType 构造函数。初始化 DocumentType 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
 
-初始化一个新的实例[`DocumentType`](../)类.
+初始化 [`DocumentType`](../) 类的新实例。
 
 ```csharp
 public DocumentType(string name, string publicId, string systemId, string internalSubset, 
     Document doc)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 实体名称。 |
-| publicId | String | 公共标识。 |
-| systemId | String | 系统标识。 |
+| publicId | String | 公共 ID。 |
+| systemId | String | 系统 ID。 |
 | internalSubset | String | 内部子集。 |
-| doc | Document | 文档。 |
+| doc | 文档 | 文档。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* 命名空间 [Aspose.Svg.Dom](../../documenttype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

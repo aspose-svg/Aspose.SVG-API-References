@@ -1,23 +1,21 @@
 ---
-title: TypeInfo.DERIVATION_EXTENSION
-second_title: Aspose.SVG for .NET API 参考
-description: TypeInfo 场地. 如果文档的模式是 XML 模式 XML 模式第 1 部分则此常量表示扩展派生
+title: "TypeInfo.DERIVATION_EXTENSION"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "TypeInfo DERIVATION_EXTENSION 字段。如果文档的模式是 XML Schema（XML Schema Part 1），此常量表示通过扩展的派生"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom/typeinfo/derivation_extension/
 ---
 ## TypeInfo.DERIVATION_EXTENSION field
 
-如果文档的模式是 XML 模式 [XML 模式第 1 部分]，则此常量表示扩展派生。
+如果文档的模式是 XML Schema [XML Schema Part 1]，此常量表示通过扩展的派生。
 
 ```csharp
 public const ulong DERIVATION_EXTENSION;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeInfo](../)
-* 命名空间 [Aspose.Svg.Dom](../../typeinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

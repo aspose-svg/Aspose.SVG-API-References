@@ -1,23 +1,21 @@
 ---
-title: UnitType.Turn
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 轮流测量
+title: "UnitType.Turn"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Turn 字段。测量单位为回合"
 type: docs
 weight: 260
 url: /zh/net/aspose.svg.drawing/unittype/turn/
 ---
 ## UnitType.Turn field
 
-轮流测量。
+测量以 turn 为单位。
 
 ```csharp
 public static readonly UnitType Turn;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

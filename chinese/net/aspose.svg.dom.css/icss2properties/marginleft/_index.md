@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarginLeft
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 marginleft 属性定义
+title: "ICSS2Properties.MarginLeft"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties MarginLeft 属性。请参阅 CSS2 中的 margin-left 属性定义"
 type: docs
-weight: 650
+weight: 680
 url: /zh/net/aspose.svg.dom.css/icss2properties/marginleft/
 ---
 ## ICSS2Properties.MarginLeft property
 
-参见 CSS2 中的 margin-left 属性定义。
+请参阅 CSS2 中的 margin-left 属性定义。
 
 ```csharp
 public string MarginLeft { get; set; }
@@ -16,12 +16,10 @@ public string MarginLeft { get; set; }
 
 ### 返回值
 
-左边距属性
+margin-left 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

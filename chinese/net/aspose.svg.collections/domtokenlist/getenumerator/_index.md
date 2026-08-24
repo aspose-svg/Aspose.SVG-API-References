@@ -1,7 +1,7 @@
 ---
-title: DOMTokenList.GetEnumerator
-second_title: Aspose.SVG for .NET API 参考
-description: DOMTokenList 方法. 返回一个遍历集合的枚举器
+title: "DOMTokenList.GetEnumerator"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMTokenList GetEnumerator 方法。返回一个遍历集合的枚举器"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.collections/domtokenlist/getenumerator/
@@ -16,12 +16,10 @@ public IEnumerator<string> GetEnumerator()
 
 ### 返回值
 
-一个IEnumerator可用于遍历集合的对象。
+可用于遍历集合的 IEnumerator 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMTokenList](../)
-* 命名空间 [Aspose.Svg.Collections](../../domtokenlist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

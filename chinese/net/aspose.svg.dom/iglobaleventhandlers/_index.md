@@ -1,22 +1,22 @@
 ---
-title: Interface IGlobalEventHandlers
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.IGlobalEventHandlers 界面. 表示所有支持系统事件处理的元素必须继承的接口
+title: "IGlobalEventHandlers 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.IGlobalEventHandlers 接口。表示所有支持系统事件处理的元素必须继承的接口。"
 type: docs
-weight: 1070
+weight: 3050
 url: /zh/net/aspose.svg.dom/iglobaleventhandlers/
 ---
 ## IGlobalEventHandlers interface
 
-表示所有支持系统事件处理的元素必须继承的接口
+表示所有支持系统事件处理的元素必须继承的接口。
 
 ```csharp
 public interface IGlobalEventHandlers
 ```
 
-## 活动
+## 事件
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | event [OnAbort](../../aspose.svg.dom/iglobaleventhandlers/onabort/) | 获取或设置 OnAbort 事件的事件处理程序。 |
 | event [OnBlur](../../aspose.svg.dom/iglobaleventhandlers/onblur/) | 获取或设置 OnBlur 事件的事件处理程序。 |
@@ -69,9 +69,7 @@ public interface IGlobalEventHandlers
 | event [OnVolumeChange](../../aspose.svg.dom/iglobaleventhandlers/onvolumechange/) | 获取或设置 OnVolumeChange 事件的事件处理程序。 |
 | event [OnWaiting](../../aspose.svg.dom/iglobaleventhandlers/onwaiting/) | 获取或设置 OnWaiting 事件的事件处理程序。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

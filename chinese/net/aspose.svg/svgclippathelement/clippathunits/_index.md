@@ -1,28 +1,26 @@
 ---
-title: SVGClipPathElement.ClipPathUnits
-second_title: Aspose.SVG for .NET API 参考
-description: SVGClipPathElement 财产. 对应于给定clipPath元素上的属性clipPathUnits采用 SVGUnitTypes. 中定义的常量之一
+title: "SVGClipPathElement.ClipPathUnits"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGClipPathElement ClipPathUnits 属性。对应于给定 clipPath 元素的 clipPathUnits 属性。取自 SVGUnitTypes 中定义的常量之一"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgclippathelement/clippathunits/
 ---
 ## SVGClipPathElement.ClipPathUnits property
 
-对应于给定“clipPath”元素上的属性“clipPathUnits”。采用 SVGUnitTypes. 中定义的常量之一
+对应于给定 ‘clipPath’ 元素上的属性 ‘clipPathUnits’。取自 SVGUnitTypes 中定义的常量之一。
 
 ```csharp
 public SVGAnimatedEnumeration ClipPathUnits { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“clipPath”元素的属性“clipPathUnits”。
+给定 ‘clipPath’ 元素的 ‘clipPathUnits’ 属性。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGClipPathElement](../)
-* 命名空间 [Aspose.Svg](../../svgclippathelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

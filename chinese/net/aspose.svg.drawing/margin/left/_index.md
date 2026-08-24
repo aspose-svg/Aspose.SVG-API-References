@@ -1,7 +1,7 @@
 ---
-title: Margin.Left
-second_title: Aspose.SVG for .NET API 参考
-description: Margin 财产. 获取或设置左侧
+title: "Margin.Left"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Margin Left 属性。获取或设置左侧。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.drawing/margin/left/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.drawing/margin/left/
 public LengthOrAuto Left { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-左边.
+左侧。
 
-### 也可以看看
+### 另请参阅
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* 命名空间 [Aspose.Svg.Drawing](../../margin/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

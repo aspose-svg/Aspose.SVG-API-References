@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Page
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见CSS2中的页面属性定义
+title: "ICSS2Properties.Page"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Page 属性。请参阅 CSS2 中的 page 属性定义"
 type: docs
-weight: 850
+weight: 880
 url: /zh/net/aspose.svg.dom.css/icss2properties/page/
 ---
 ## ICSS2Properties.Page property
 
-参见CSS2中的页面属性定义。
+请参阅 CSS2 中的 page 属性定义。
 
 ```csharp
 public string Page { get; set; }
@@ -16,12 +16,10 @@ public string Page { get; set; }
 
 ### 返回值
 
-页面属性
+page 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

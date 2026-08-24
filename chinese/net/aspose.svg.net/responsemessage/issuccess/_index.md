@@ -1,27 +1,25 @@
 ---
-title: ResponseMessage.IsSuccess
-second_title: Aspose.SVG for .NET API 参考
-description: ResponseMessage 财产. 获取指示此消息是否成功的值
+title: "ResponseMessage.IsSuccess"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ResponseMessage IsSuccess 属性。获取一个值，指示此消息是否成功"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.net/responsemessage/issuccess/
 ---
 ## ResponseMessage.IsSuccess property
 
-获取指示此消息是否成功的值。
+获取一个值，指示此消息是否成功。
 
 ```csharp
 public bool IsSuccess { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例成功；否则，`错误的` .
+`true` 如果此实例成功；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [ResponseMessage](../)
-* 命名空间 [Aspose.Svg.Net](../../responsemessage/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

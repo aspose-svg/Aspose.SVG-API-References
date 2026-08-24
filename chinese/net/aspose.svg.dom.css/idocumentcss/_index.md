@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentCSS
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Css.IDocumentCSS 界面. 此接口表示具有 CSS 视图的文档
+title: "IDocumentCSS 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Css.IDocumentCSS 接口。此接口表示具有 CSS 视图的文档"
 type: docs
-weight: 690
+weight: 2690
 url: /zh/net/aspose.svg.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface
 
-此接口表示具有 CSS 视图的文档。
+该接口表示具有 CSS 视图的文档。
 
 ```csharp
 public interface IDocumentCSS : IDocumentStyle
@@ -16,14 +16,12 @@ public interface IDocumentCSS : IDocumentStyle
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(Element, string) | 此方法用于检索指定元素和指定伪元素的覆盖样式声明。 |
+| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(*[Element](../../aspose.svg.dom/element/), string*) | 此方法用于检索指定元素及其指定伪元素的覆盖样式声明。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IDocumentStyle](../idocumentstyle/)
-* 命名空间 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

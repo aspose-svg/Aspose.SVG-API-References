@@ -1,32 +1,30 @@
 ---
-title: Interface IElementTraversal
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Traversal.IElementTraversal 界面. ElementTraversal 接口是一组只读属性允许作者轻松地在文档中的元素之间导航在 Element Traversal 的一致性实现中所有实现 Element 的对象也必须实现 ElementTraversal 接口
+title: "IElementTraversal 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Traversal.IElementTraversal 接口。ElementTraversal 接口是一组只读属性，允许作者轻松在文档中的元素之间导航。在符合 Element Traversal 的实现中，所有实现 Element 的对象也必须实现 ElementTraversal 接口。"
 type: docs
-weight: 1230
+weight: 3230
 url: /zh/net/aspose.svg.dom.traversal/ielementtraversal/
 ---
 ## IElementTraversal interface
 
-ElementTraversal 接口是一组只读属性，允许作者轻松地在文档中的元素之间导航。在 Element Traversal 的一致性实现中，所有实现 Element 的对象也必须实现 ElementTraversal 接口。
+ElementTraversal 接口是一组只读属性，允许作者在文档中的元素之间轻松导航。在符合 Element Traversal 的实现中，所有实现 Element 的对象也必须实现 ElementTraversal 接口。
 
 ```csharp
 public interface IElementTraversal
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ChildElementCount](../../aspose.svg.dom.traversal/ielementtraversal/childelementcount/) { get; } | 返回作为该元素子元素的元素节点的当前数量。如果此元素没有节点类型为 1. 的子节点，则为 0 |
-| [FirstElementChild](../../aspose.svg.dom.traversal/ielementtraversal/firstelementchild/) { get; } | 返回该元素的第一个子元素节点。如果此元素没有子元素，则为 null. |
-| [LastElementChild](../../aspose.svg.dom.traversal/ielementtraversal/lastelementchild/) { get; } | 返回该元素的最后一个子元素节点。如果此元素没有子元素，则为 null. |
-| [NextElementSibling](../../aspose.svg.dom.traversal/ielementtraversal/nextelementsibling/) { get; } | 返回此元素的下一个兄弟元素节点。如果此元素在文档树中没有此元素之后的元素兄弟节点，则为 null. |
-| [PreviousElementSibling](../../aspose.svg.dom.traversal/ielementtraversal/previouselementsibling/) { get; } | 返回该元素的前一个兄弟元素节点。如果此元素在文档树中没有出现在该元素之前的元素兄弟节点，则为 null. |
+| [ChildElementCount](../../aspose.svg.dom.traversal/ielementtraversal/childelementcount/) { get; } | 返回当前作为此元素子节点的元素节点数量。如果此元素没有 nodeType 为 1 的子节点，则返回 0。 |
+| [FirstElementChild](../../aspose.svg.dom.traversal/ielementtraversal/firstelementchild/) { get; } | 返回此元素的第一个子元素节点。如果此元素没有子元素，则返回 null。 |
+| [LastElementChild](../../aspose.svg.dom.traversal/ielementtraversal/lastelementchild/) { get; } | 返回此元素的最后一个子元素节点。如果此元素没有子元素，则返回 null。 |
+| [NextElementSibling](../../aspose.svg.dom.traversal/ielementtraversal/nextelementsibling/) { get; } | 返回此元素的下一个兄弟元素节点。如果此元素在文档树中没有后续的元素兄弟节点，则为 null。 |
+| [PreviousElementSibling](../../aspose.svg.dom.traversal/ielementtraversal/previouselementsibling/) { get; } | 返回此元素的前一个兄弟元素节点。如果此元素在文档树中没有前面的元素兄弟节点，则为 null。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../)

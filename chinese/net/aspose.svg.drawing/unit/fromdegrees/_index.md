@@ -1,32 +1,30 @@
 ---
-title: Unit.FromDegrees
-second_title: Aspose.SVG for .NET API 参考
-description: Unit 方法. 返回一个Angle以度数表示的对象.
+title: "Unit.FromDegrees"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Unit FromDegrees 方法。返回一个以度为单位的 Angle 对象"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.drawing/unit/fromdegrees/
 ---
 ## Unit.FromDegrees method
 
-返回一个[`Angle`](../../angle/)以度数表示的对象.
+返回一个以度为单位的 [`Angle`](../../angle/) 对象。
 
 ```csharp
 public static Angle FromDegrees(double value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 价值。 |
+| value | Double | 该值。 |
 
 ### 返回值
 
-返回一个[`Angle`](../../angle/)目的。
+返回一个 [`Angle`](../../angle/) 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

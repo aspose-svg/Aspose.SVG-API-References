@@ -1,9 +1,9 @@
 ---
-title: Class Metered
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Metered 班级. 提供设置计量密钥的方法
+title: "Metered 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Metered 类。提供设置计量密钥的方法"
 type: docs
-weight: 2200
+weight: 4270
 url: /zh/net/aspose.svg/metered/
 ---
 ## Metered class
@@ -16,21 +16,22 @@ public class Metered
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Metered](metered/)() | 初始化此类的新实例。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SetMeteredKey](../../aspose.svg/metered/setmeteredkey/)(string, string) | 设置计量公钥和私钥。 如果你购买了计量许可证，当启动应用程序时，应该调用这个 API，通常，这就足够了。 但是，如果总是上传消费数据失败，超过24小时，license会被设置为评估状态， 为避免这种情况，您应该定期检查license状态，如果是评估状态，请重新调用此API。 |
-| static [GetConsumptionCredit](../../aspose.svg/metered/getconsumptioncredit/)() | 获得消费积分 |
-| static [GetConsumptionQuantity](../../aspose.svg/metered/getconsumptionquantity/)() | 获取消费文件大小 |
+| [SetMeteredKey](../../aspose.svg/metered/setmeteredkey/)(*string, string*) | 设置计量的公钥和私钥。如果您购买了计量许可证，在启动应用程序时应调用此 API，通常这就足够了。然而，如果始终未能上传使用数据且超过 24 小时，许可证将被设为评估状态。为避免此情况，您应定期检查许可证状态，如果处于评估状态，请再次调用此 API。 |
+| static [GetConsumptionCredit](../../aspose.svg/metered/getconsumptioncredit/)() | 获取使用额度 |
+| static [GetConsumptionQuantity](../../aspose.svg/metered/getconsumptionquantity/)() | 获取使用文件大小 |
+| static [IsMeteredLicensed](../../aspose.svg/metered/ismeteredlicensed/)() | 检查计量是否已授权 |
 
-### 例子
+## 示例
 
-在此示例中，将尝试设置计量公钥和私钥
+在此示例中，将尝试设置计量的公钥和私钥
 
 ```csharp
 [C#]
@@ -52,9 +53,7 @@ Metered matered = new Metered();
 matered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg](../../aspose.svg/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

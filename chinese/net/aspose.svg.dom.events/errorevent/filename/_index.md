@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.FileName
-second_title: Aspose.SVG for .NET API 参考
-description: ErrorEvent 财产. 文件名属性必须返回它被初始化的值创建对象时必须将此属性初始化为空字符串它表示最初发生错误的脚本的绝对 URL
+title: "ErrorEvent.FileName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ErrorEvent FileName 属性。filename 属性必须返回其初始化时的值。对象创建时，此属性必须初始化为空字符串。它表示最初发生错误的脚本的绝对 URL。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.events/errorevent/filename/
 ---
 ## ErrorEvent.FileName property
 
-文件名属性必须返回它被初始化的值。创建对象时，必须将此属性初始化为空字符串。它表示最初发生错误的脚本的绝对 URL。
+filename 属性必须返回其初始化时的值。对象创建时，该属性必须初始化为空字符串。它表示错误最初发生的脚本的绝对 URL。
 
 ```csharp
 public string FileName { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 文件名。
 
-### 也可以看看
+### 另请参阅
 
 * class [ErrorEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

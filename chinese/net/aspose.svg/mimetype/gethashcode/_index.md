@@ -1,7 +1,7 @@
 ---
-title: MimeType.GetHashCode
-second_title: Aspose.SVG for .NET API 参考
-description: MimeType 方法. 返回此实例的哈希码
+title: "MimeType.GetHashCode"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MimeType GetHashCode 方法。返回此实例的哈希码"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/mimetype/gethashcode/
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### 返回值
 
-此实例的哈希码，适用于哈希算法和哈希表等数据结构。
+此实例的哈希码，可用于哈希算法和诸如哈希表之类的数据结构。
 
-### 也可以看看
+### 另请参阅
 
 * class [MimeType](../)
-* 命名空间 [Aspose.Svg](../../mimetype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

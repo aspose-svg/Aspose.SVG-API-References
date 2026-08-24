@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MaxWidth
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 maxwidth 属性定义
+title: "ICSS2Properties.MaxWidth"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties MaxWidth 属性。请参阅 CSS2 中 max-width 属性的定义。"
 type: docs
-weight: 710
+weight: 740
 url: /zh/net/aspose.svg.dom.css/icss2properties/maxwidth/
 ---
 ## ICSS2Properties.MaxWidth property
 
-参见 CSS2 中的 max-width 属性定义。
+请参阅 CSS2 中的 max-width 属性定义。
 
 ```csharp
 public string MaxWidth { get; set; }
@@ -16,12 +16,10 @@ public string MaxWidth { get; set; }
 
 ### 返回值
 
-最大宽度属性
+max-width 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

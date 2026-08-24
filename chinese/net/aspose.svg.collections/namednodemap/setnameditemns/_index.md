@@ -1,20 +1,20 @@
 ---
-title: NamedNodeMap.SetNamedItemNS
-second_title: Aspose.SVG for .NET API 参考
-description: NamedNodeMap 方法. 使用其名称空间 URI 和本地名称添加节点如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中则它将被新节点替换自己替换一个节点是没有效果的
+title: "NamedNodeMap.SetNamedItemNS"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "NamedNodeMap SetNamedItemNS 方法。使用其 namespaceURI 和 localName 添加节点。如果映射中已存在具有相同命名空间 URI 和本地名称的节点，则会被新节点替换。用自身替换节点没有任何效果。"
 type: docs
-weight: 90
+weight: 80
 url: /zh/net/aspose.svg.collections/namednodemap/setnameditemns/
 ---
 ## NamedNodeMap.SetNamedItemNS method
 
-使用其名称空间 URI 和本地名称添加节点。如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中，则它将被新节点替换。自己替换一个节点是没有效果的。
+使用其 namespaceURI 和 localName 添加节点。如果映射中已存在具有相同命名空间 URI 和本地名称的节点，则会被新节点替换。用自身替换节点没有任何效果。
 
 ```csharp
 public Attr SetNamedItemNS(Attr attr)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | attr | Attr | 属性。 |
 
@@ -22,17 +22,15 @@ public Attr SetNamedItemNS(Attr attr)
 
 返回节点。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
-### 也可以看看
+### 另请参阅
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* 命名空间 [Aspose.Svg.Collections](../../namednodemap/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

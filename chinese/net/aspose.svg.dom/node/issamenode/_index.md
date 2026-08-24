@@ -1,31 +1,31 @@
 ---
-title: Node.IsSameNode
-second_title: Aspose.SVG for .NET API 参考
-description: Node 方法. 返回此节点是否与给定节点相同 此方法提供了一种方法来确定实现返回的两个 Node 引用是否引用同一对象当两个 Node 引用是对同一对象的引用时即使通过代理引用也可以完全互换使用这样所有属性都具有相同的值并且在任一引用上调用相同的 DOM 方法始终具有完全相同的效果
+title: "Node.IsSameNode"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node IsSameNode 方法。该方法是严格相等运算符的旧别名。它用于测试两个节点是否相同，即它们是否引用同一个对象。"
 type: docs
-weight: 250
+weight: 230
 url: /zh/net/aspose.svg.dom/node/issamenode/
 ---
 ## Node.IsSameNode method
 
-返回此节点是否与给定节点相同。 此方法提供了一种方法来确定实现返回的两个 Node 引用是否引用同一对象。当两个 Node 引用是对同一对象的引用时，即使通过代理，引用也可以完全互换使用，这样所有属性都具有相同的值，并且在任一引用上调用相同的 DOM 方法始终具有完全相同的效果。
+该方法是 === 严格相等运算符的旧别名。即，它测试两个节点是否相同（换句话说，它们是否引用同一对象）。
+
+注意：无需使用 `IsSameNode`；请改用 === 严格相等运算符。
 
 ```csharp
 public bool IsSameNode(Node otherNode)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| otherNode | Node | 另一个节点。 |
+| otherNode | Node | 用于测试的节点。 |
 
 ### 返回值
 
-`真的`if [是同一节点] [指定的其他节点]；否则，`错误的` .
+布尔值，如果两个节点严格相等则为 true，否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

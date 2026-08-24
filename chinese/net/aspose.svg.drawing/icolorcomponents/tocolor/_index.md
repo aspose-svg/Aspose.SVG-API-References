@@ -1,7 +1,7 @@
 ---
-title: IColorComponents.ToColor
-second_title: Aspose.SVG for .NET API 参考
-description: IColorComponents 方法. 将颜色分量转换为 Color 对象
+title: "IColorComponents.ToColor"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IColorComponents ToColor 方法。将颜色组件转换为 Color 对象"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/icolorcomponents/tocolor/
@@ -16,13 +16,11 @@ public Color ToColor()
 
 ### 返回值
 
-的一个新实例[`Color`](../../color/)班级
+一个新的 [`Color`](../../color/) 类实例
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../../color/)
 * interface [IColorComponents](../)
-* 命名空间 [Aspose.Svg.Drawing](../../icolorcomponents/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

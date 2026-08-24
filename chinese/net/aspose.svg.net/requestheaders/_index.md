@@ -1,9 +1,9 @@
 ---
-title: Class RequestHeaders
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Net.RequestHeaders 班级. 包含与请求关联的协议标头
+title: "RequestHeaders 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Net.RequestHeaders 类。包含与请求关联的协议头部"
 type: docs
-weight: 2410
+weight: 4480
 url: /zh/net/aspose.svg.net/requestheaders/
 ---
 ## RequestHeaders class
@@ -16,13 +16,22 @@ public class RequestHeaders : WebHeaderCollection
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [RequestHeaders](requestheaders/)() | 默认构造函数。 |
 
-### 也可以看看
+## 属性
 
-* 命名空间 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 部件 [Aspose.SVG](../../)
+| 名称 | 描述 |
+| --- | --- |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 个索引器) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
+### 另请参阅
 
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

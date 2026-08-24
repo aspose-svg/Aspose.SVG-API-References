@@ -1,23 +1,21 @@
 ---
-title: SVGZoomEvent.NewScale
-second_title: Aspose.SVG for .NET API 参考
-description: SVGZoomEvent 财产. 处理缩放操作后将到位的比例因子
+title: "SVGZoomEvent.NewScale"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGZoomEvent NewScale 属性。缩放操作处理后将生效的比例因子"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.events/svgzoomevent/newscale/
 ---
 ## SVGZoomEvent.NewScale property
 
-处理缩放操作后将到位的比例因子。
+缩放操作处理完成后将生效的比例因子。
 
 ```csharp
 public float NewScale { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGZoomEvent](../)
-* 命名空间 [Aspose.Svg.Events](../../svgzoomevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Notation.PublicId
-second_title: Aspose.SVG for .NET API 参考
-description: Notation 财产. 此表示法的公共标识符如果未指定公共标识符则为 null.
+title: "Notation.PublicId"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Notation PublicId 属性。此标记的公共标识符。如果未指定公共标识符，则为 null。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom/notation/publicid/
 ---
 ## Notation.PublicId property
 
-此表示法的公共标识符。如果未指定公共标识符，则为 null.
+此符号的公共标识符。如果未指定公共标识符，则为 null。
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 公共标识符。
 
-### 也可以看看
+### 另请参阅
 
 * class [Notation](../)
-* 命名空间 [Aspose.Svg.Dom](../../notation/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

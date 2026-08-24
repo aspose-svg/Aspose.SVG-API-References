@@ -1,33 +1,31 @@
 ---
-title: IWindowTimers.SetTimeout
-second_title: Aspose.SVG for .NET API 参考
-description: IWindowTimers 方法. 安排超时以在超时毫秒后运行处理程序任何参数都直接传递给处理程序
+title: "IWindowTimers.SetTimeout"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IWindowTimers SetTimeout 方法。安排一个超时，在 timeout 毫秒后运行 handler。任何参数都会直接传递给 handler。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.window/iwindowtimers/settimeout/
 ---
 ## IWindowTimers.SetTimeout method
 
-安排超时以在超时毫秒后运行处理程序。任何参数都直接传递给处理程序。
+安排一个超时，使 handler 在 timeout 毫秒后运行。任何参数都会直接传递给 handler。
 
 ```csharp
 public int SetTimeout(object handler, int timeout, params object[] args)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| handler | Object | 处理者。 |
-| timeout | Int32 | 超时。 |
-| args | Object[] | 论点。 |
+| 处理程序 | 对象 | 处理程序。 |
+| 超时 | Int32 | 超时。 |
+| 参数 | Object[] | 参数。 |
 
 ### 返回值
 
-手柄
+句柄
 
-### 也可以看看
+### 另请参阅
 
 * interface [IWindowTimers](../)
-* 命名空间 [Aspose.Svg.Window](../../iwindowtimers/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: Unit.FromGradians
-second_title: Aspose.SVG for .NET API 参考
-description: Unit 方法. 返回一个Angle以 gradians. 表示的对象
+title: "Unit.FromGradians"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Unit FromGradians 方法。返回一个以百分度表示的 Angle 对象。"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.drawing/unit/fromgradians/
 ---
 ## Unit.FromGradians method
 
-返回一个[`Angle`](../../angle/)以 gradians. 表示的对象
+返回一个[`Angle`](../../angle/)对象，以百分度表示。
 
 ```csharp
 public static Angle FromGradians(double value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 价值。 |
+| value | Double | 该值。 |
 
 ### 返回值
 
-返回一个[`Angle`](../../angle/)目的。
+返回一个 [`Angle`](../../angle/) 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

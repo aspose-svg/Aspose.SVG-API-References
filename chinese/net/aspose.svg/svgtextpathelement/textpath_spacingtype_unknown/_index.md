@@ -1,23 +1,21 @@
 ---
-title: SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN
-second_title: Aspose.SVG for .NET API 参考
-description: SVGTextPathElement 场地. 枚举设置为不是预定义类型之一的值尝试定义此类型的新值或尝试将现有值切换为此类型是无效的
+title: "SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGTextPathElement TEXTPATH_SPACINGTYPE_UNKNOWN 字段。枚举被设置为一个不在预定义类型中的值。尝试定义此类型的新值或尝试将现有值切换到此类型都是无效的。"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg/svgtextpathelement/textpath_spacingtype_unknown/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN field
 
-枚举设置为不是预定义类型之一的值。尝试定义此类型的新值或尝试将现有值切换为此类型是无效的。
+枚举被设置为非预定义类型之一的值。尝试为此类型定义新值或尝试将现有值切换到此类型都是无效的。
 
 ```csharp
 public const ushort TEXTPATH_SPACINGTYPE_UNKNOWN;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGTextPathElement](../)
-* 命名空间 [Aspose.Svg](../../svgtextpathelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

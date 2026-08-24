@@ -1,7 +1,7 @@
 ---
-title: MessageFilter.Match
-second_title: Aspose.SVG for .NET API 参考
-description: MessageFilter 方法. 在派生类中重写时测试 Context 是否满足过滤条件
+title: "MessageFilter.Match"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MessageFilter Match 方法。 在派生类中重写时，用于测试 Context 是否满足过滤条件"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/messagefilter/match/
@@ -14,19 +14,17 @@ url: /zh/net/aspose.svg.net/messagefilter/match/
 public abstract bool Match(INetworkOperationContext context)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| context | INetworkOperationContext | 上下文。 |
+| context | 该 Context。 | 如果 Context 对象满足过滤条件则返回 true；否则返回 false。 |
 
 ### 返回值
 
-真的如果 Context 对象满足过滤条件；否则，错误的.
+INetwork.Send
 
-### 也可以看看
+### 另请参阅
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageFilter](../)
-* 命名空间 [Aspose.Svg.Net](../../messagefilter/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

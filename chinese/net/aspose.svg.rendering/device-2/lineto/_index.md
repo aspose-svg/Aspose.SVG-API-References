@@ -1,27 +1,25 @@
 ---
-title: Device2.LineTo
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 从当前点到该点 pt 追加一条直线段新的当前点是 pt.
+title: "Device-2.LineTo"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device LineTo 方法。将一条从当前点到点 pt 的直线段追加到路径。新的当前点为 pt"
 type: docs
-weight: 180
+weight: 210
 url: /zh/net/aspose.svg.rendering/device-2/lineto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.LineTo method
+## Device<TGraphicContext,TRenderingOptions>.LineTo method
 
-从当前点到该点 (pt) 追加一条直线段。新的当前点是 pt.
+追加一条从当前点到点 (pt) 的直线段。新的当前点为 pt。
 
 ```csharp
-public abstract void LineTo(PointF pt)
+public virtual void LineTo(PointF pt)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pt | PointF | 创建线的位置。 |
+| pt | PointF | 要创建线段的目标点。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

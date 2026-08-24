@@ -1,7 +1,7 @@
 ---
-title: MimeType.Type
-second_title: Aspose.SVG for .NET API 参考
-description: MimeType 财产. 获取媒体类型
+title: "MimeType.Type"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MimeType Type 属性。获取媒体类型"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/mimetype/type/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg/mimetype/type/
 public string Type { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 媒体类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [MimeType](../)
-* 命名空间 [Aspose.Svg](../../mimetype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

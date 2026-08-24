@@ -1,23 +1,21 @@
 ---
-title: SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_MATRIX
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEColorMatrixElement 场地. 对应于值矩阵.
+title: "SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_MATRIX"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEColorMatrixElement SVG_FECOLORMATRIX_TYPE_MATRIX 字段。对应于值 matrix"
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_matrix/
 ---
 ## SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_MATRIX field
 
-对应于值“矩阵”.
+对应值 ‘matrix’。
 
 ```csharp
 public const ushort SVG_FECOLORMATRIX_TYPE_MATRIX;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGFEColorMatrixElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

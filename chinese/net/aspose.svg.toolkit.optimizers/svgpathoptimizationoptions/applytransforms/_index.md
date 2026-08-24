@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.ApplyTransforms
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathOptimizationOptions 财产. 获取或设置将转换应用于路径段的选项默认情况下为假
+title: "SVGPathOptimizationOptions.ApplyTransforms"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathOptimizationOptions ApplyTransforms 属性。获取或设置对路径段应用变换的选项。默认值为 false"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/
 ---
 ## SVGPathOptimizationOptions.ApplyTransforms property
 
-获取或设置将转换应用于路径段的选项。默认情况下为“假”。
+获取或设置对路径段应用转换的选项。默认值为 'false'。
 
 ```csharp
 public bool ApplyTransforms { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathOptimizationOptions](../)
-* 命名空间 [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: ICSSStyleSheet.CSSRules
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSStyleSheet 财产. 样式表中包含的所有 CSS 规则的列表这包括规则集和 atrules.
+title: "ICSSStyleSheet.CSSRules"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSStyleSheet CSSRules 属性。样式表中包含的所有 CSS 规则的列表。它包括规则集和 at-rule。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssstylesheet/cssrules/
 ---
 ## ICSSStyleSheet.CSSRules property
 
-样式表中包含的所有 CSS 规则的列表。这包括规则集和 at-rules.
+样式表中包含的所有 CSS 规则的列表。包括规则集和 at-rule。
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSStyleSheet](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

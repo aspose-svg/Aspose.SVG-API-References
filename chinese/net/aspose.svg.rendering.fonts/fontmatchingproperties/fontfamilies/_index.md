@@ -1,7 +1,7 @@
 ---
-title: FontMatchingProperties.FontFamilies
-second_title: Aspose.SVG for .NET API 参考
-description: FontMatchingProperties 财产. 获取字体系列的集合
+title: "FontMatchingProperties.FontFamilies"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "FontMatchingProperties FontFamilies 属性。获取字体系列的集合"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontfamilies/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontfamilies/
 public IEnumerable<string> FontFamilies { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FontMatchingProperties](../)
-* 命名空间 [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

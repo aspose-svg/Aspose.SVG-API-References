@@ -1,56 +1,54 @@
 ---
-title: DOMTokenList.Toggle
-second_title: Aspose.SVG for .NET API 参考
-description: DOMTokenList 方法. 如果令牌存在则从列表中删除令牌如果不存在则将令牌添加到列表中
+title: "DOMTokenList.Toggle"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMTokenList Toggle 方法。若标记已存在则从列表中移除，否则将标记添加到列表中"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.collections/domtokenlist/toggle/
 ---
-## Toggle(string) {#toggle}
+## Toggle(*string*) {#toggle}
 
-如果令牌存在，则从列表中删除令牌，如果不存在，则将令牌添加到列表中。
+如果标记已存在于列表中则将其移除，否则将标记添加到列表中。
 
 ```csharp
 public bool Toggle(string token)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| token | String | 您要切换的令牌。 |
+| token | String | 您想要切换的标记。 |
 
 ### 返回值
 
-一个布尔值，指示调用后令牌是否在列表中。
+一个布尔值，指示调用后标记是否在列表中。
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMTokenList](../)
-* 命名空间 [Aspose.Svg.Collections](../../domtokenlist/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Toggle(string, bool?) {#toggle_1}
+## Toggle(*string, bool*) {#toggle_1}
 
-如果令牌存在，则从列表中删除令牌，如果不存在，则将令牌添加到列表中。
+如果标记已存在于列表中则将其移除，否则将标记添加到列表中。
 
 ```csharp
-public bool Toggle(string token, bool? force)
+public bool Toggle(string token, bool force)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| token | String | 您要切换的令牌。 |
-| force | Nullable`1 | 一个布尔值，如果包含，则将切换转换为单向操作。如果设置为false，那么token只会被移除，不会被添加。如果设置为 true，则只会添加令牌，不会删除令牌。 |
+| token | String | 您想要切换的标记。 |
+| force | Boolean | 一个布尔值（如果包含），将切换操作变为单向操作。若设为 false，则仅移除标记，不会添加。若设为 true，则仅添加标记，不会移除。 |
 
 ### 返回值
 
-一个布尔值，指示调用后令牌是否在列表中。
+一个布尔值，指示调用后标记是否在列表中。
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMTokenList](../)
-* 命名空间 [Aspose.Svg.Collections](../../domtokenlist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

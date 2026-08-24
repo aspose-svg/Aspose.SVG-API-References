@@ -1,7 +1,7 @@
 ---
-title: ISolidBrush.Color
-second_title: Aspose.SVG for .NET API 参考
-description: ISolidBrush 财产. 获取画笔的颜色
+title: "ISolidBrush.Color"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ISolidBrush Color 属性。获取画笔的颜色"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/isolidbrush/color/
@@ -16,12 +16,10 @@ public Color Color { get; }
 
 ### 返回值
 
-画笔颜色
+画笔的颜色
 
-### 也可以看看
+### 另请参阅
 
 * interface [ISolidBrush](../)
-* 命名空间 [Aspose.Svg.Drawing](../../isolidbrush/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

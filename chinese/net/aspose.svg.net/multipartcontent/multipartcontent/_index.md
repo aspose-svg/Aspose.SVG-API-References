@@ -1,70 +1,68 @@
 ---
-title: MultipartContent.MultipartContent
-second_title: Aspose.SVG for .NET API 参考
-description: MultipartContent 构造函数. 创建一个新的实例MultipartContent类.
+title: "MultipartContent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MultipartContent 构造函数。创建 MultipartContent 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-创建一个新的实例[`MultipartContent`](../)类.
+创建 [`MultipartContent`](../) 类的新实例。
 
 ```csharp
 public MultipartContent()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [MultipartContent](../)
-* 命名空间 [Aspose.Svg.Net](../../multipartcontent/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string) {#constructor_1}
+## MultipartContent(*string*) {#constructor_1}
 
-创建一个新的实例[`MultipartContent`](../)子类型类.
+使用子类型创建 [`MultipartContent`](../) 类的新实例。
 
 ```csharp
 public MultipartContent(string subtype)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| subtype | String | 亚型 |
+| 子类型 | String | 该子类型 |
 
-### 也可以看看
+### 另请参阅
 
 * class [MultipartContent](../)
-* 命名空间 [Aspose.Svg.Net](../../multipartcontent/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string, string) {#constructor_2}
+## MultipartContent(*string, string*) {#constructor_2}
 
-创建一个新的实例[`MultipartContent`](../)具有子类型和边界的类.
+使用子类型和边界创建 [`MultipartContent`](../) 类的新实例。
 
 ```csharp
 public MultipartContent(string subtype, string boundary)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| subtype | String | 亚型 |
-| boundary | String | 边界 |
+| 子类型 | String | 该子类型 |
+| boundary | String | 该边界 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 参数不能为 null 或空字符串。 |
+| ArgumentException | 参数不能为空或空字符串。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [MultipartContent](../)
-* 命名空间 [Aspose.Svg.Net](../../multipartcontent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

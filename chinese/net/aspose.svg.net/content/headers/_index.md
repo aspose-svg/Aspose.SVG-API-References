@@ -1,7 +1,7 @@
 ---
-title: Content.Headers
-second_title: Aspose.SVG for .NET API 参考
-description: Content 财产. 获取 HTTP 内容标头
+title: "Content.Headers"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Content Headers 属性。获取 HTTP 内容头"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/content/headers/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.net/content/headers/
 public ContentHeaders Headers { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-标头.
+这些标头。
 
-### 也可以看看
+### 另请参阅
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* 命名空间 [Aspose.Svg.Net](../../content/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

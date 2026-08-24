@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Border
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中border属性定义.
+title: "ICSS2Properties.Border"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Border 属性。请参阅 CSS2 中 border 属性的定义"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.css/icss2properties/border/
 ---
 ## ICSS2Properties.Border property
 
-见CSS2中border属性定义.
+参见 CSS2 中的 border 属性定义。
 
 ```csharp
 public string Border { get; set; }
@@ -16,12 +16,10 @@ public string Border { get; set; }
 
 ### 返回值
 
-边境财产
+border 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Offset
-second_title: Aspose.SVG for .NET API 参考
-description: GlyphInfo 财产. 获取下一个字形的偏移量以点为单位
+title: "GlyphInfo.Offset"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "GlyphInfo Offset 属性。获取到下一个字形的偏移量（单位：点）"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.rendering/glyphinfo/offset/
 ---
 ## GlyphInfo.Offset property
 
-获取下一个字形的偏移量（以点为单位）。
+获取到下一个字形的偏移量（单位：点）。
 
 ```csharp
 public float Offset { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 以点为单位的偏移量。
 
-### 也可以看看
+### 另请参阅
 
 * struct [GlyphInfo](../)
-* 命名空间 [Aspose.Svg.Rendering](../../glyphinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

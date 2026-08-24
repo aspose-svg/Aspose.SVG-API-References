@@ -1,33 +1,31 @@
 ---
-title: SVGStyleElement.Type
-second_title: Aspose.SVG for .NET API 参考
-description: SVGStyleElement 财产. 对应于给定元素上的属性类型
+title: "SVGStyleElement.Type"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGStyleElement Type 属性。对应给定元素上的 type 属性"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svgstyleelement/type/
 ---
 ## SVGStyleElement.Type property
 
-对应于给定元素上的属性“类型”。
+对应给定元素的属性 ‘type’。
 
 ```csharp
 public string Type { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定元素上的属性“类型”。
+给定元素上的属性 ‘type’。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时引发。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGStyleElement](../)
-* 命名空间 [Aspose.Svg](../../svgstyleelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

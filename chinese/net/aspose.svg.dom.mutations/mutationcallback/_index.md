@@ -1,29 +1,27 @@
 ---
-title: Delegate MutationCallback
-second_title: Aspose.SVG for .NET API 参考
-description: 表示将处理突变事件的方法
+title: "MutationCallback 委托"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "表示将处理突变事件的方法"
 type: docs
-weight: 1110
+weight: 3100
 url: /zh/net/aspose.svg.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate
 
-表示将处理突变事件的方法。
+表示将处理变更事件的方法。
 
 ```csharp
 public delegate void MutationCallback(IList<MutationRecord> mutations, MutationObserver observer);
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| mutations | IList`1 | 突变记录列表。 |
-| observer | MutationObserver | 突变观察者。 |
+| 突变 | IList`1 | 突变记录的列表。 |
+| 观察者 | MutationObserver | 突变观察者。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationRecord](../mutationrecord/)
 * class [MutationObserver](../mutationobserver/)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

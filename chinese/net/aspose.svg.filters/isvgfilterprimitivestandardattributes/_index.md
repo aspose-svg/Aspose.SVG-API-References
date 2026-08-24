@@ -1,32 +1,30 @@
 ---
-title: Interface ISVGFilterPrimitiveStandardAttributes
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Filters.ISVGFilterPrimitiveStandardAttributes 界面. 该接口定义了过滤器原语接口中通用的 DOM 属性集
+title: "ISVGFilterPrimitiveStandardAttributes 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Filters.ISVGFilterPrimitiveStandardAttributes 接口。此接口定义了在过滤器原语接口之间通用的 DOM 属性集合"
 type: docs
-weight: 1640
+weight: 3730
 url: /zh/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface
 
-该接口定义了过滤器原语接口中通用的 DOM 属性集。
+此接口定义了在过滤器原语接口之间通用的 DOM 属性集合。
 
 ```csharp
 public interface ISVGFilterPrimitiveStandardAttributes
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | 对应于给定“过滤器”元素上的属性“高度”。 |
-| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | 对应于给定“过滤器”元素上的属性“结果”。 |
-| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | 对应于给定“过滤器”元素上的属性“宽度”。 |
-| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | 对应于给定“过滤器”元素上的属性“x”。 |
-| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | 对应于给定“过滤器”元素上的属性“y”。 |
+| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | 对应于给定 ‘filter’ 元素的属性 ‘height’。 |
+| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | 对应给定 ‘filter’ 元素的属性 ‘result’。 |
+| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | 对应于给定 ‘filter’ 元素的属性 ‘width’。 |
+| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | 对应于给定 ‘filter’ 元素的属性 ‘x’。 |
+| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | 对应于给定 ‘filter’ 元素的属性 ‘y’。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Filters](../../aspose.svg.filters/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Filters](../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../)

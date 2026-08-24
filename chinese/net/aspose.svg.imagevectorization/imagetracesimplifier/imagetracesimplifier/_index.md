@@ -1,43 +1,41 @@
 ---
-title: ImageTraceSimplifier.ImageTraceSimplifier
-second_title: Aspose.SVG for .NET API 参考
-description: ImageTraceSimplifier 构造函数. 初始化一个新的实例ImageTraceSimplifier类.
+title: "ImageTraceSimplifier"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ImageTraceSimplifier 构造函数。初始化 ImageTraceSimplifier 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.imagevectorization/imagetracesimplifier/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier() {#constructor}
 
-初始化一个新的实例[`ImageTraceSimplifier`](../)类.
+初始化 [`ImageTraceSimplifier`](../) 类的新实例。
 
 ```csharp
 public ImageTraceSimplifier()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageTraceSimplifier](../)
-* 命名空间 [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSimplifier(float) {#constructor_1}
+## ImageTraceSimplifier(*float*) {#constructor_1}
 
-初始化一个新的实例[`ImageTraceSimplifier`](../)类.
+初始化 [`ImageTraceSimplifier`](../) 类的新实例。
 
 ```csharp
 public ImageTraceSimplifier(float tolerance)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| tolerance | Single | 公差 |
+| 容差 | Single | 该容差 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageTraceSimplifier](../)
-* 命名空间 [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

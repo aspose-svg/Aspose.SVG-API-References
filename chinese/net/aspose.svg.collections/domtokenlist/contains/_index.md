@@ -1,31 +1,29 @@
 ---
-title: DOMTokenList.Contains
-second_title: Aspose.SVG for .NET API 参考
-description: DOMTokenList 方法. 如果列表包含给定的标记则返回真否则返回假
+title: "DOMTokenList.Contains"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMTokenList Contains 方法。若列表包含给定的令牌则返回 true，否则返回 false。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.collections/domtokenlist/contains/
 ---
 ## DOMTokenList.Contains method
 
-如果列表包含给定的标记则返回真，否则返回假。
+如果列表包含给定的标记，则返回 true，否则返回 false。
 
 ```csharp
 public bool Contains(string token)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| token | String | 要在列表中定位的标记。 |
+| token | String | 要在列表中定位的令牌。 |
 
 ### 返回值
 
-一个布尔值，如果调用列表包含令牌则为真，否则为假。
+一个布尔值，如果调用的列表包含该令牌则为 true，否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMTokenList](../)
-* 命名空间 [Aspose.Svg.Collections](../../domtokenlist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

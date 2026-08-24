@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vmax
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量值是相对于视口的 1 较大尺寸试试看
+title: "UnitType.Vmax"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Vmax 字段。测量相对于视口较大维度的 1。尝试一下"
 type: docs
 weight: 280
 url: /zh/net/aspose.svg.drawing/unittype/vmax/
 ---
 ## UnitType.Vmax field
 
-测量值是相对于视口的 1%* 较大尺寸试试看
+测量相对于视口的*更大维度的 1% 试一下
 
 ```csharp
 public static readonly UnitType Vmax;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

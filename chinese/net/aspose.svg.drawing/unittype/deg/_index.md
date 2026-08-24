@@ -1,7 +1,7 @@
 ---
-title: UnitType.Deg
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量单位为度
+title: "UnitType.Deg"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Deg 字段。测量单位为度"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/unittype/deg/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.drawing/unittype/deg/
 public static readonly UnitType Deg;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

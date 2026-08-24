@@ -1,7 +1,7 @@
 ---
-title: INetworkService.UrlResolver
-second_title: Aspose.SVG for .NET API 参考
-description: INetworkService 财产. 获取或设置 URL 解析器
+title: "INetworkService.UrlResolver"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "INetworkService UrlResolver 属性。获取或设置 URL 解析器。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.services/inetworkservice/urlresolver/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.services/inetworkservice/urlresolver/
 public UrlResolver UrlResolver { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 URL 解析器。
 
-### 也可以看看
+### 另请参阅
 
 * class [UrlResolver](../../../aspose.svg.net/urlresolver/)
 * interface [INetworkService](../)
-* 命名空间 [Aspose.Svg.Services](../../inetworkservice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

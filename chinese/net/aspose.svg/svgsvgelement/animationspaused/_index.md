@@ -1,7 +1,7 @@
 ---
-title: SVGSVGElement.AnimationsPaused
-second_title: Aspose.SVG for .NET API 参考
-description: SVGSVGElement 方法. 如果此 SVG 文档片段处于暂停状态则返回 true
+title: "SVGSVGElement.AnimationsPaused"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGSVGElement AnimationsPaused 方法。若此 SVG 文档片段处于暂停状态则返回 true"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg/svgsvgelement/animationspaused/
@@ -16,12 +16,10 @@ public bool AnimationsPaused()
 
 ### 返回值
 
-指示此 SVG 文档片段是否处于暂停状态的布尔值。
+布尔值，指示此 SVG 文档片段是否处于暂停状态。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGSVGElement](../)
-* 命名空间 [Aspose.Svg](../../svgsvgelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

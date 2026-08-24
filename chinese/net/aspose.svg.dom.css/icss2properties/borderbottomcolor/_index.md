@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderBottomColor
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中borderbottomcolor属性定义.
+title: "ICSS2Properties.BorderBottomColor"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties BorderBottomColor 属性。请参阅 CSS2 中 border-bottom-color 属性的定义。"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.dom.css/icss2properties/borderbottomcolor/
 ---
 ## ICSS2Properties.BorderBottomColor property
 
-见CSS2中border-bottom-color属性定义.
+查看 CSS2 中的 border-bottom-color 属性定义。
 
 ```csharp
 public string BorderBottomColor { get; set; }
@@ -16,12 +16,10 @@ public string BorderBottomColor { get; set; }
 
 ### 返回值
 
-边框底部颜色属性
+border-bottom-color 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendFactors
-second_title: Aspose.SVG for .NET API 参考
-description: IGradientBrush 财产. 获取定义渐变自定义衰减的混合因子
+title: "IGradientBrush.BlendFactors"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IGradientBrush BlendFactors 属性。获取或设置定义渐变自定义衰减的混合因子"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/igradientbrush/blendfactors/
 ---
 ## IGradientBrush.BlendFactors property
 
-获取定义渐变自定义衰减的混合因子。
+获取或设置定义渐变自定义衰减的混合因子。
 
 ```csharp
-public float[] BlendFactors { get; }
+public float[] BlendFactors { get; set; }
 ```
 
 ### 返回值
 
-混合因素。
+混合因子。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IGradientBrush](../)
-* 命名空间 [Aspose.Svg.Drawing](../../igradientbrush/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

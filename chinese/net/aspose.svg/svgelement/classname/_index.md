@@ -1,28 +1,26 @@
 ---
-title: SVGElement.ClassName
-second_title: Aspose.SVG for .NET API 参考
-description: SVGElement 财产. 对应于给定元素上的属性类
+title: "SVGElement.ClassName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGElement ClassName 属性。对应于给定元素上的属性 class"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgelement/classname/
 ---
 ## SVGElement.ClassName property
 
-对应于给定元素上的属性“类”。
+对应于给定元素的 ‘class’ 属性。
 
 ```csharp
 public SVGAnimatedString ClassName { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 类的名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGElement](../)
-* 命名空间 [Aspose.Svg](../../svgelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

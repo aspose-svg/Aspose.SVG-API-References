@@ -1,14 +1,14 @@
 ---
-title: RGBColor.ToNative
-second_title: Aspose.SVG for .NET API 参考
-description: RGBColor 方法. 转换为原生颜色对象
+title: "RGBColor.ToNative"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "RGBColor ToNative 方法。将其转换为本机颜色对象"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom.css/rgbcolor/tonative/
 ---
 ## RGBColor.ToNative method
 
-转换为原生颜色对象。
+转换为本机颜色对象。
 
 ```csharp
 public Color ToNative()
@@ -16,12 +16,10 @@ public Color ToNative()
 
 ### 返回值
 
-这Color目的。
+Color 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [RGBColor](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../rgbcolor/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

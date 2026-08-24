@@ -1,31 +1,29 @@
 ---
-title: ITrueTypeFont.GetAscent
-second_title: Aspose.SVG for .NET API 参考
-description: ITrueTypeFont 方法. 返回上升点以点为单位
+title: "ITrueTypeFont.GetAscent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ITrueTypeFont GetAscent 方法。使用指定的字体大小获取字体的上升值（以点为单位）。"
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.svg.drawing/itruetypefont/getascent/
 ---
 ## ITrueTypeFont.GetAscent method
 
-返回上升点，以点为单位。
+使用指定的字体大小获取字体的上升度（点）。
 
 ```csharp
 public float GetAscent(float fontSize)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontSize | Single | 字体的大小。 |
 
 ### 返回值
 
-上升点。
+字体的上升值（以点为单位）。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITrueTypeFont](../)
-* 命名空间 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

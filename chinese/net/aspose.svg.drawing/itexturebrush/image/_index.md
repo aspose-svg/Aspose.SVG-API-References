@@ -1,7 +1,7 @@
 ---
-title: ITextureBrush.Image
-second_title: Aspose.SVG for .NET API 参考
-description: ITextureBrush 财产. 获取或设置画笔使用的图像
+title: "ITextureBrush.Image"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ITextureBrush Image 属性。获取或设置画笔使用的图像"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.drawing/itexturebrush/image/
@@ -18,10 +18,8 @@ public byte[] Image { get; }
 
 图像数据。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextureBrush](../)
-* 命名空间 [Aspose.Svg.Drawing](../../itexturebrush/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Richness
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中richness属性定义.
+title: "ICSS2Properties.Richness"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Richness 属性。请参阅 CSS2 中 richness 属性的定义"
 type: docs
-weight: 970
+weight: 1000
 url: /zh/net/aspose.svg.dom.css/icss2properties/richness/
 ---
 ## ICSS2Properties.Richness property
 
-见CSS2中richness属性定义.
+请参阅 CSS2 中的 richness 属性定义。
 
 ```csharp
 public string Richness { get; set; }
@@ -16,12 +16,10 @@ public string Richness { get; set; }
 
 ### 返回值
 
-财富属性
+richness 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

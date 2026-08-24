@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.SubFamilyName
-second_title: Aspose.SVG for .NET API 参考
-description: ITrueTypeFont 财产. Font Subfamily 名称区分组中具有相同 Font Family 名称的字体 这假定用于解决样式斜体倾斜和粗细浅色粗体黑色等 粗细或样式没有特别差异的字体例如中等粗细非斜体和 fsSelection 位 6 设置应在该位置存储字符串Regular
+title: "ITrueTypeFont.SubFamilyName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ITrueTypeFont SubFamilyName 属性。子族名称用于区分同一族名组中的字体。它通常用于表示斜体、倾斜、粗细（如轻、粗、黑等）等样式。没有特定粗细或样式差异的字体应使用字符串 Regular。"
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.svg.drawing/itruetypefont/subfamilyname/
 ---
 ## ITrueTypeFont.SubFamilyName property
 
-Font Subfamily 名称区分组中具有相同 Font Family 名称的字体。 这假定用于解决样式（斜体、倾斜）和粗细（浅色、粗体、黑色等）。 粗细或样式没有特别差异的字体（例如，中等粗细、非斜体和 fsSelection 位 6 设置）应在该位置存储字符串“Regular”。
+子族名称用于区分同一族名组中的字体。它通常用于表示样式（斜体、倾斜）和粗细（细体、粗体、黑体等）。没有特定粗细或样式差异的字体应使用字符串 “Regular”。
 
 ```csharp
 public string SubFamilyName { get; }
@@ -16,12 +16,10 @@ public string SubFamilyName { get; }
 
 ### 返回值
 
-字体的子家族名称
+字体的子族名称。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITrueTypeFont](../)
-* 命名空间 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

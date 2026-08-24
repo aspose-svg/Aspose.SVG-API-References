@@ -1,23 +1,21 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFECompositeElement 场地. 对应于值 arithmetic.
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFECompositeElement SVG_FECOMPOSITE_OPERATOR_ARITHMETIC 字段。对应于值 arithmetic。"
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_arithmetic/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC field
 
-对应于值 'arithmetic'.
+对应于值 'arithmetic'。
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_ARITHMETIC;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGFECompositeElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

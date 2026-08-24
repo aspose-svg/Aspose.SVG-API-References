@@ -1,27 +1,25 @@
 ---
-title: Entity.SystemId
-second_title: Aspose.SVG for .NET API 参考
-description: Entity 财产. 与实体关联的系统标识符如果指定否则为空这可能是绝对 URI也可能不是
+title: "Entity.SystemId"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Entity SystemId 属性。与实体关联的系统标识符（如果已指定），否则为 null。它可以是绝对 URI，也可以不是"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom/entity/systemid/
 ---
 ## Entity.SystemId property
 
-与实体关联的系统标识符（如果指定），否则为空。这可能是绝对 URI，也可能不是。
+如果已指定，则返回与实体关联的系统标识符，否则为 null。它可以是绝对 URI，也可以不是。
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 系统标识符。
 
-### 也可以看看
+### 另请参阅
 
 * class [Entity](../)
-* 命名空间 [Aspose.Svg.Dom](../../entity/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

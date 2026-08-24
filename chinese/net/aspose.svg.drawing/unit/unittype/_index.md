@@ -1,28 +1,26 @@
 ---
-title: Unit.UnitType
-second_title: Aspose.SVG for .NET API 参考
-description: Unit 财产. 获取单位类型Unit .
+title: "Unit.UnitType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Unit UnitType 属性。获取 Unit 的单位类型"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
 
-获取单位类型[`Unit`](../) .
+获取 [`Unit`](../) 的单位类型。
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-单元的类型。
+单位的类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

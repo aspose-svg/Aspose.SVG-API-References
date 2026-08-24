@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.Height
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEColorMatrixElement 财产. 对应于给定过滤器元素上的属性高度
+title: "SVGFEColorMatrixElement.Height"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEColorMatrixElement Height 属性。对应于给定 filter 元素上的属性 height"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.filters/svgfecolormatrixelement/height/
 ---
 ## SVGFEColorMatrixElement.Height property
 
-对应于给定“过滤器”元素上的属性“高度”。
+对应于给定 ‘filter’ 元素的属性 ‘height’。
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“过滤器”元素的属性“高度”。
+给定 ‘filter’ 元素的属性 ‘height’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEColorMatrixElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

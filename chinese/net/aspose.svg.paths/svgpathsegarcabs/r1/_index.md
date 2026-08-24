@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegArcAbs.R1
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegArcAbs 财产. 椭圆的 x 轴半径即 r1
+title: "SVGPathSegArcAbs.R1"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathSegArcAbs R1 属性。椭圆的 x 轴半径，即 r1"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.paths/svgpathsegarcabs/r1/
@@ -14,20 +14,18 @@ url: /zh/net/aspose.svg.paths/svgpathsegarcabs/r1/
 public float R1 { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-x轴半径
+x 轴半径
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegArcAbs](../)
-* 命名空间 [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

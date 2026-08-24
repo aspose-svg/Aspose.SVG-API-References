@@ -1,50 +1,48 @@
 ---
-title: Class SVGListBaseT
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Collections.SVGListBase1T 班级. 该接口定义了所有 SVG 列表的基本列表
+title: "SVGListBaseT 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Collections.SVGListBase1T 类。此接口定义所有 SVG 列表的基础列表"
 type: docs
-weight: 50
+weight: 2040
 url: /zh/net/aspose.svg.collections/svglistbase-1/
 ---
-## SVGListBase&lt;T&gt; class
+## SVGListBase<T> class
 
-该接口定义了所有 SVG 列表的基本列表。
+此接口定义了所有 SVG 列表的基础列表。
 
 ```csharp
 public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| T | 存储在列表中的项目类型。 |
+| T | 列表中存储的项的类型。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } | 返回列表中的第 indexth 项。 |
-| [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } | 列表中的项目数。 |
-| [NumberOfItems](../../aspose.svg.collections/svglistbase-1/numberofitems/) { get; } | 列表中的项目数。 |
+| [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } | 返回列表中第 index 项。 |
+| [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } | 列表中项的数量。 |
+| [NumberOfItems](../../aspose.svg.collections/svglistbase-1/numberofitems/) { get; } | 列表中项的数量。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(T) | 在列表末尾插入一个新项目。 |
-| [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() | 从列表中清除所有现有的当前项目，结果是一个空列表。 |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 释放非托管和 - 可选 - 托管资源。 |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*T*) | 在列表末尾插入一个新项。 |
+| [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() | 清除列表中所有现有的当前项，结果是一个空列表。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 释放非托管资源以及（可选的）托管资源。 |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() | 获取枚举器。 |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) | 从列表中返回指定的项目。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | 此方法用于检索 ECMAScript 对象Type . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(T) | 从列表中清除所有现有的当前项目并重新初始化列表以保存参数指定的单个项目。 |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(T, ulong) | 在列表的指定位置插入一个新项目。第一项是数字 0. |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) | 从列表中删除现有项目。 |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(T, ulong) | 用新项目替换列表中的现有项目。 |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) | 返回列表中指定的项。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | 此方法用于检索 ECMAScript 对象的类型。 |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*T*) | 清除列表中所有现有的当前项，并重新初始化列表以容纳参数指定的单个项。 |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*T, ulong*) | 在列表中指定位置插入一个新项。第一个项的编号为 0。 |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) | 从列表中移除现有的项。 |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*T, ulong*) | 用新项替换列表中现有的项。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGValueType](../../aspose.svg.datatypes/svgvaluetype/)
-* 命名空间 [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

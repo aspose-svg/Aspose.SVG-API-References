@@ -1,21 +1,21 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicAbs
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathElement 方法. 返回一个独立的无父项的 SVGPathSegCurvetoCubicAbs 对象
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicAbs"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicAbs 方法。返回一个独立的、无父级的 SVGPathSegCurvetoCubicAbs 对象。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicAbs method
 
-返回一个独立的、无父项的 SVGPathSegCurvetoCubicAbs 对象。
+返回一个独立的、无父级的 SVGPathSegCurvetoCubicAbs 对象。
 
 ```csharp
 public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float y, float x1, 
     float y1, float x2, float y2)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Single | 此路径段终点的绝对 X 坐标。 |
 | y | Single | 此路径段终点的绝对 Y 坐标。 |
@@ -26,13 +26,11 @@ public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float 
 
 ### 返回值
 
-一个独立的、无父对象的 SVGPathSegCurvetoCubicAbs 对象。
+一个独立的、无父级的 SVGPathSegCurvetoCubicAbs 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegCurvetoCubicAbs](../../../aspose.svg.paths/svgpathsegcurvetocubicabs/)
 * class [SVGPathElement](../)
-* 命名空间 [Aspose.Svg](../../svgpathelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

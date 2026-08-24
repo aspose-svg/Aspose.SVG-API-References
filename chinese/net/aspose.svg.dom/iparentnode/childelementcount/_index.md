@@ -1,27 +1,25 @@
 ---
-title: IParentNode.ChildElementCount
-second_title: Aspose.SVG for .NET API 参考
-description: IParentNode 财产. childElementCount 属性必须返回作为元素的上下文对象的子项数
+title: "IParentNode.ChildElementCount"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IParentNode ChildElementCount 属性。childElementCount 属性必须返回上下文对象中作为元素的子节点数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/iparentnode/childelementcount/
 ---
 ## IParentNode.ChildElementCount property
 
-childElementCount 属性必须返回作为元素的上下文对象的子项数。
+childElementCount 属性必须返回上下文对象中作为元素的子节点数量。
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 子元素计数。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IParentNode](../)
-* 命名空间 [Aspose.Svg.Dom](../../iparentnode/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

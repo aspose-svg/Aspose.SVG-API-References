@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Result
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEGaussianBlurElement 财产. 对应于给定过滤器元素上的属性结果
+title: "SVGFEGaussianBlurElement.Result"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEGaussianBlurElement Result 属性。对应于给定 filter 元素的属性 result"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.filters/svgfegaussianblurelement/result/
 ---
 ## SVGFEGaussianBlurElement.Result property
 
-对应于给定“过滤器”元素上的属性“结果”。
+对应于给定 �filter� 元素的属性 �result�。
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“过滤器”元素的属性“结果”。
+给定 filter 元素的属性 result。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEGaussianBlurElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

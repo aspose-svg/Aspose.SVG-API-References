@@ -1,7 +1,7 @@
 ---
-title: SvgRenderer.SvgRenderer
-second_title: Aspose.SVG for .NET API 参考
-description: SvgRenderer 构造函数. 默认构造函数
+title: "SvgRenderer"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SvgRenderer 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering/svgrenderer/svgrenderer/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.rendering/svgrenderer/svgrenderer/
 public SvgRenderer()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SvgRenderer](../)
-* 命名空间 [Aspose.Svg.Rendering](../../svgrenderer/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

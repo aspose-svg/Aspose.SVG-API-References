@@ -1,23 +1,21 @@
 ---
-title: StencilConfiguration.StencilConfiguration
-second_title: Aspose.SVG for .NET API 参考
-description: StencilConfiguration 构造函数. 初始化一个新的实例StencilConfiguration类.
+title: "StencilConfiguration"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "StencilConfiguration 构造函数。初始化 StencilConfiguration 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.imagevectorization/stencilconfiguration/stencilconfiguration/
 ---
 ## StencilConfiguration constructor
 
-初始化一个新的实例[`StencilConfiguration`](../)类.
+初始化 [`StencilConfiguration`](../) 类的新实例。
 
 ```csharp
 public StencilConfiguration()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [StencilConfiguration](../)
-* 命名空间 [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

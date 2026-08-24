@@ -1,27 +1,25 @@
 ---
-title: LengthOrAuto.IsAuto
-second_title: Aspose.SVG for .NET API 参考
-description: LengthOrAuto 财产. 获取一个值指示此实例是否处于自动状态
+title: "LengthOrAuto.IsAuto"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "LengthOrAuto IsAuto 属性。获取指示此实例是否为自动的值。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.drawing/lengthorauto/isauto/
 ---
 ## LengthOrAuto.IsAuto property
 
-获取一个值，指示此实例是否处于“自动”状态。
+获取一个值，指示此实例是否处于 'auto' 状态。
 
 ```csharp
 public bool IsAuto { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个实例是自动的；否则，`错误的` .
+`true` 表示此实例是自动的；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [LengthOrAuto](../)
-* 命名空间 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

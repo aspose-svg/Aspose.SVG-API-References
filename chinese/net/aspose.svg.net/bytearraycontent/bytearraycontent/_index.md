@@ -1,27 +1,25 @@
 ---
-title: ByteArrayContent.ByteArrayContent
-second_title: Aspose.SVG for .NET API 参考
-description: ByteArrayContent 构造函数. 初始化一个新的实例ByteArrayContent类.
+title: "ByteArrayContent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ByteArrayContent 构造函数。初始化 ByteArrayContent 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/bytearraycontent/bytearraycontent/
 ---
 ## ByteArrayContent constructor
 
-初始化一个新的实例[`ByteArrayContent`](../)类.
+初始化 [`ByteArrayContent`](../) 类的新实例。
 
 ```csharp
 public ByteArrayContent(byte[] content)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| content | Byte[] | 内容。 |
+| 内容 | Byte[] | 该内容。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ByteArrayContent](../)
-* 命名空间 [Aspose.Svg.Net](../../bytearraycontent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGElement.Id
-second_title: Aspose.SVG for .NET API 参考
-description: SVGElement 财产. 给定元素上id属性的值如果id不存在则为空字符串
+title: "SVGElement.Id"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGElement Id 属性。给定元素上 id 属性的值，如果不存在 id，则为空字符串"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgelement/id/
 ---
 ## SVGElement.Id property
 
-给定元素上“id”属性的值，如果“id”不存在则为空字符串。
+给定元素的 ‘id’ 属性的值，如果不存在 ‘id’，则为空字符串。
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 标识符。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 NO_MODIFICATION_ALLOWED_ERR。在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 NO_MODIFICATION_ALLOWED_ERR。尝试更改只读属性的值时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGElement](../)
-* 命名空间 [Aspose.Svg](../../svgelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: EventTarget.Dispose
-second_title: Aspose.SVG for .NET API 参考
-description: EventTarget 方法. 执行与释放释放或重置非托管资源相关的应用程序定义的任务
+title: "EventTarget.Dispose"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "EventTarget Dispose 方法。执行与释放、释放或重置非托管资源相关的应用程序定义任务"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.svg.dom/eventtarget/dispose/
 ---
 ## EventTarget.Dispose method
 
-执行与释放、释放或重置非托管资源相关的应用程序定义的任务。
+执行应用程序定义的任务，以释放、清理或重置非托管资源。
 
 ```csharp
 public void Dispose()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [EventTarget](../)
-* 命名空间 [Aspose.Svg.Dom](../../eventtarget/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

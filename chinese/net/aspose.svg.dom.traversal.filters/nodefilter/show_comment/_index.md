@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_COMMENT
-second_title: Aspose.SVG for .NET API 参考
-description: NodeFilter 场地. 显示注释节点
+title: "NodeFilter.SHOW_COMMENT"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "NodeFilter SHOW_COMMENT 字段。显示 Comment 节点"
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.traversal.filters/nodefilter/show_comment/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.dom.traversal.filters/nodefilter/show_comment/
 public const long SHOW_COMMENT;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [NodeFilter](../)
-* 命名空间 [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

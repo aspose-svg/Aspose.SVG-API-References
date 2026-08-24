@@ -1,14 +1,14 @@
 ---
-title: Class ProtocolMessageFilter
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter 班级. 表示资源协议对消息过滤器的实现
+title: "ProtocolMessageFilter 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter 类。表示通过资源协议实现的消息过滤器。"
 type: docs
-weight: 2330
+weight: 4400
 url: /zh/net/aspose.svg.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class
 
-表示资源协议对消息过滤器的实现。
+表示资源协议实现的消息过滤器。
 
 ```csharp
 public class ProtocolMessageFilter : MessageFilter
@@ -16,20 +16,18 @@ public class ProtocolMessageFilter : MessageFilter
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter/)(params string[]) | 初始化一个新的实例`ProtocolMessageFilter`类. |
+| [ProtocolMessageFilter](protocolmessagefilter/)(*params string[]*) | 初始化 `ProtocolMessageFilter` 类的新实例。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(INetworkOperationContext) | 在派生类中重写时，测试 Context 是否满足过滤条件。 |
+| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | 在派生类中重写时，测试 Context 是否满足过滤条件。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [MessageFilter](../../aspose.svg.net/messagefilter/)
-* 命名空间 [Aspose.Svg.Net.MessageFilters](../../aspose.svg.net.messagefilters/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../)

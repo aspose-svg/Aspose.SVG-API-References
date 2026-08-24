@@ -1,36 +1,34 @@
 ---
-title: IStyleSheetList.Item
-second_title: Aspose.SVG for .NET API 参考
-description: IStyleSheetList 财产. 用于根据 http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/stylesheets.html. 方法 itemint index 检索样式表
+title: "IStyleSheetList.Item"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IStyleSheetList Item 属性。用于通过方法 itemint 索引检索样式表，依据 http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-用于根据 http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html. 方法 item(int index) 检索样式表
+用于通过方法 item(int index) 检索样式表，参考 http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html。
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 样式表索引 |
+| 索引 | 样式表索引 |
 
 ### 返回值
 
 CSS 样式表实例。
 
-### 适当的价值
+### Property Value
 
-的[`ICSSStyleSheet`](../../icssstylesheet/) .
+该 [`ICSSStyleSheet`](../../icssstylesheet/)。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [IStyleSheetList](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

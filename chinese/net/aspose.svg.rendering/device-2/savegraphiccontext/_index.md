@@ -1,23 +1,21 @@
 ---
-title: Device2.SaveGraphicContext
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 将整个图形上下文的副本推送到堆栈上
+title: "Device-2.SaveGraphicContext"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device SaveGraphicContext 方法。将整个图形上下文的副本压入堆栈"
 type: docs
-weight: 210
+weight: 240
 url: /zh/net/aspose.svg.rendering/device-2/savegraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.SaveGraphicContext method
 
-将整个图形上下文的副本推送到堆栈上。
+将整个图形上下文的副本压入堆栈。
 
 ```csharp
 public virtual void SaveGraphicContext()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class CSSValueList
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Css.CSSValueList 班级. CSSValueList 接口提供了 CSS 值有序集合的抽象
+title: "CSSValueList 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Css.CSSValueList 类。CSSValueList 接口提供了有序 CSS 值集合的抽象。"
 type: docs
-weight: 500
+weight: 2500
 url: /zh/net/aspose.svg.dom.css/cssvaluelist/
 ---
 ## CSSValueList class
 
-CSSValueList 接口提供了 CSS 值有序集合的抽象。
+CSSValueList 接口提供了有序 CSS 值集合的抽象。
 
 ```csharp
 public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
@@ -16,36 +16,34 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CSSValueList](cssvaluelist/#constructor)() | 初始化一个新的实例`CSSValueList`类. |
-| [CSSValueList](cssvaluelist/#constructor_1)(params CSSValue[]) | 初始化一个新的实例`CSSValueList`类. |
-| [CSSValueList](cssvaluelist/#constructor_2)(IEnumerable&lt;CSSValue&gt;) | 初始化一个新的实例`CSSValueList`类. |
+| [CSSValueList](cssvaluelist/#constructor)() | 初始化 `CSSValueList` 类的新实例。 |
+| [CSSValueList](cssvaluelist/#constructor_1)(*params CSSValue[]*) | 初始化 `CSSValueList` 类的新实例。 |
+| [CSSValueList](cssvaluelist/#constructor_2)(*IEnumerable&lt;CSSValue&gt;*) | 初始化 `CSSValueList` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [CSSText](../../aspose.svg.dom.css/cssvaluelist/csstext/) { get; set; } | 当前值的字符串表示。 |
-| [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | 定义值类型的代码。 |
-| [Item](../../aspose.svg.dom.css/cssvaluelist/item/) { get; } | 获取[`CSSValue`](../cssvalue/)在指定的索引处. |
-| [Length](../../aspose.svg.dom.css/cssvaluelist/length/) { get; } | 列表中 CSSValues 的数量。 |
+| override [CSSText](../../aspose.svg.dom.css/cssvaluelist/csstext/) { get; set; } | [`CSSValue`](../cssvalue/) 接口的 CSSText 属性表示当前计算的 CSS 属性值。 |
+| [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | 定义该值类型的代码。 |
+| [Item](../../aspose.svg.dom.css/cssvaluelist/item/) { get; } | 获取指定索引处的 [`CSSValue`](../cssvalue/)。 |
+| [Length](../../aspose.svg.dom.css/cssvaluelist/length/) { get; } | CSSValueList 接口的 length 只读属性表示列表中 CSSValue 的数量。索引的有效取值范围为 0 到 length-1（含）。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(object) | 判断指定的是否Object等于这个实例. |
+| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(*object*) | 确定指定的 Object 是否等于此实例。 |
 | [GetEnumerator](../../aspose.svg.dom.css/cssvaluelist/getenumerator/)() | 返回一个遍历集合的枚举器。 |
 | override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode/)() | 返回此实例的哈希码。 |
-| override [GetPlatformType](../../aspose.svg.dom.css/cssvaluelist/getplatformtype/)() | 此方法用于检索 ECMAScript 对象Type . |
-| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | 返回一个String代表这个实例. |
+| override [GetPlatformType](../../aspose.svg.dom.css/cssvaluelist/getplatformtype/)() | 此方法用于检索 ECMAScript 对象的类型。 |
+| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | 返回表示此实例的字符串。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSValue](../cssvalue/)
 * interface [ICSSValueList](../icssvaluelist/)
-* 命名空间 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

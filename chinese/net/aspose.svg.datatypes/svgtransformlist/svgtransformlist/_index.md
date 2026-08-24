@@ -1,44 +1,42 @@
 ---
-title: SVGTransformList.SVGTransformList
-second_title: Aspose.SVG for .NET API 参考
-description: SVGTransformList 构造函数. 初始化一个新的实例SVGTransformList类.
+title: "SVGTransformList"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGTransformList 构造函数。初始化 SVGTransformList 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
 ## SVGTransformList() {#constructor}
 
-初始化一个新的实例[`SVGTransformList`](../)类.
+初始化 [`SVGTransformList`](../) 类的新实例。
 
 ```csharp
 public SVGTransformList()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGTransformList](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
+## SVGTransformList(*IEnumerable&lt;SVGTransform&gt;*) {#constructor_1}
 
-初始化一个新的实例[`SVGTransformList`](../)类.
+初始化 [`SVGTransformList`](../) 类的新实例。
 
 ```csharp
 public SVGTransformList(IEnumerable<SVGTransform> enumerable)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | 可枚举的。 |
+| 可枚举的 | IEnumerable`1 | 该可枚举对象。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGTransform](../../svgtransform/)
 * class [SVGTransformList](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,38 +1,36 @@
 ---
-title: SVGSVGElement.CreateEvent
-second_title: Aspose.SVG for .NET API 参考
-description: SVGSVGElement 方法. 创建一个Event实现支持的类型
+title: "SVGSVGElement.CreateEvent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGSVGElement CreateEvent 方法。创建一个实现支持的类型的 Event。"
 type: docs
 weight: 110
 url: /zh/net/aspose.svg/svgsvgelement/createevent/
 ---
 ## SVGSVGElement.CreateEvent method
 
-创建一个[`Event`](../../../aspose.svg.dom.events/event/)实现支持的类型。
+创建一个实现支持类型的 [`Event`](../../../aspose.svg.dom.events/event/)。
 
 ```csharp
 public Event CreateEvent(string eventType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| eventType | String | eventType 参数指定的类型[`Event`](../../../aspose.svg.dom.events/event/)要创建的接口.  如果[`Event`](../../../aspose.svg.dom.events/event/)实现支持指定的接口此方法将返回 new [`Event`](../../../aspose.svg.dom.events/event/)请求的接口类型。 如果[`Event`](../../../aspose.svg.dom.events/event/)将通过[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/)方法 appropriate [`InitEvent`](../../../aspose.svg.dom.events/event/initevent/)方法必须在创建后调用以初始化[`Event`](../../../aspose.svg.dom.events/event/) 值. |
+| eventType | String | eventType 参数指定要创建的 [`Event`](../../../aspose.svg.dom.events/event/) 接口的类型。 如果实现支持指定的 [`Event`](../../../aspose.svg.dom.events/event/) 接口，此方法将返回一个请求的接口类型的新 [`Event`](../../../aspose.svg.dom.events/event/)。 如果要通过 [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) 方法分派该 [`Event`](../../../aspose.svg.dom.events/event/)，则在创建后必须调用相应的 [`InitEvent`](../../../aspose.svg.dom.events/event/initevent/) 方法以初始化该 [`Event`](../../../aspose.svg.dom.events/event/) 的值。 |
 
 ### 返回值
 
-新创建的[`Event`](../../../aspose.svg.dom.events/event/)
+新创建的 [`Event`](../../../aspose.svg.dom.events/event/)
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR：如果实现不支持类型则引发[`Event`](../../../aspose.svg.dom.events/event/)接口请求 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: 如果实现不支持请求的 [`Event`](../../../aspose.svg.dom.events/event/) 接口类型，则会抛出此错误 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [SVGSVGElement](../)
-* 命名空间 [Aspose.Svg](../../svgsvgelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

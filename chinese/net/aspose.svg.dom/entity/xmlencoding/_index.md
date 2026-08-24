@@ -1,27 +1,25 @@
 ---
-title: Entity.XmlEncoding
-second_title: Aspose.SVG for .NET API 参考
-description: Entity 财产. 一个属性作为文本声明的一部分当它是一个外部解析的实体时指定该实体的编码否则为空
+title: "Entity.XmlEncoding"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Entity XmlEncoding 属性。作为文本声明的一部分，指定当它是外部解析实体时此实体的编码。如果不是，则为 null"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom/entity/xmlencoding/
 ---
 ## Entity.XmlEncoding property
 
-一个属性，作为文本声明的一部分，当它是一个外部解析的实体时，指定该实体的编码。否则为空。
+当它是外部已解析实体时，此属性作为文本声明的一部分指定实体的编码。否则为 null。
 
 ```csharp
 public string XmlEncoding { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 XML 编码。
 
-### 也可以看看
+### 另请参阅
 
 * class [Entity](../)
-* 命名空间 [Aspose.Svg.Dom](../../entity/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

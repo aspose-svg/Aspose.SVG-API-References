@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Clip
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见css2中的clip属性定义.
+title: "ICSS2Properties.Clip"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Clip 属性。请参阅 CSS2 中 clip 属性的定义"
 type: docs
 weight: 330
 url: /zh/net/aspose.svg.dom.css/icss2properties/clip/
 ---
 ## ICSS2Properties.Clip property
 
-见css2中的clip属性定义.
+查看 CSS2 中的 clip 属性定义。
 
 ```csharp
 public string Clip { get; set; }
@@ -16,12 +16,10 @@ public string Clip { get; set; }
 
 ### 返回值
 
-剪辑属性
+clip 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

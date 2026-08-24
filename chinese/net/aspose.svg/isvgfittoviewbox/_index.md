@@ -1,29 +1,27 @@
 ---
-title: Interface ISVGFitToViewBox
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.ISVGFitToViewBox 界面. 接口 SVGFitToViewBox 定义了适用于具有 XML 属性viewBox和preserveAspectRatio的元素的 DOM 属性
+title: "ISVGFitToViewBox 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.ISVGFitToViewBox 接口。SVGFitToViewBox 接口定义适用于具有 XML 属性 viewBox 和 preserveAspectRatio 的元素的 DOM 属性"
 type: docs
-weight: 2010
+weight: 4080
 url: /zh/net/aspose.svg/isvgfittoviewbox/
 ---
 ## ISVGFitToViewBox interface
 
-接口 SVGFitToViewBox 定义了适用于具有 XML 属性“viewBox”和“preserveAspectRatio”的元素的 DOM 属性。
+SVGFitToViewBox 接口定义适用于具有 XML 属性 ‘viewBox’ 和 ‘preserveAspectRatio’ 的元素的 DOM 属性。
 
 ```csharp
 public interface ISVGFitToViewBox
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio/) { get; } | 对应于给定元素上的属性“preserveAspectRatio”。 |
-| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox/) { get; } | 对应于给定元素上的属性“viewBox”。 |
+| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio/) { get; } | 对应给定元素的属性 ‘preserveAspectRatio’。 |
+| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox/) { get; } | 对应给定元素的属性 ‘viewBox’。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg](../../aspose.svg/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

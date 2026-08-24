@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetEquivalentPath
-second_title: Aspose.SVG for .NET API 参考
-description: SVGGeometryElement 方法. 返回一个新的实例实例SVGPathSegList这代表SVGGeometryElement作为路径段.
+title: "SVGGeometryElement.GetEquivalentPath"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGGeometryElement GetEquivalentPath 方法。返回一个新的 SVGPathSegList 实例，该实例将 SVGGeometryElement 表示为路径段"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.svg/svggeometryelement/getequivalentpath/
 ---
 ## SVGGeometryElement.GetEquivalentPath method
 
-返回一个新的实例实例[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/)这代表[`SVGGeometryElement`](../)作为路径段.
+返回一个新的 [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) 实例，该实例将 [`SVGGeometryElement`](../) 表示为路径段。
 
 ```csharp
 public SVGPathSegList GetEquivalentPath()
@@ -16,13 +16,11 @@ public SVGPathSegList GetEquivalentPath()
 
 ### 返回值
 
-一个新的实例实例[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
+一个新的 [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) 实例。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGGeometryElement](../)
-* 命名空间 [Aspose.Svg](../../svggeometryelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.VerticalAlign
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见CSS2中的verticalalign属性定义
+title: "ICSS2Properties.VerticalAlign"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties VerticalAlign 属性。请参阅 CSS2 中的 vertical-align 属性定义"
 type: docs
-weight: 1140
+weight: 1170
 url: /zh/net/aspose.svg.dom.css/icss2properties/verticalalign/
 ---
 ## ICSS2Properties.VerticalAlign property
 
-参见CSS2中的vertical-align属性定义。
+请参阅 CSS2 中的 vertical-align 属性定义。
 
 ```csharp
 public string VerticalAlign { get; set; }
@@ -16,12 +16,10 @@ public string VerticalAlign { get; set; }
 
 ### 返回值
 
-垂直对齐属性
+vertical-align 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

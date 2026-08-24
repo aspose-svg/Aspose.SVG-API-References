@@ -1,23 +1,21 @@
 ---
-title: IDevice.EndDocument
-second_title: Aspose.SVG for .NET API 参考
-description: IDevice 方法. 结束文档呈现
+title: "IDevice.EndDocument"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IDevice EndDocument 方法。结束文档的渲染。"
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.rendering/idevice/enddocument/
 ---
 ## IDevice.EndDocument method
 
-结束文档呈现。
+结束文档渲染。
 
 ```csharp
 public void EndDocument()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IDevice](../)
-* 命名空间 [Aspose.Svg.Rendering](../../idevice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

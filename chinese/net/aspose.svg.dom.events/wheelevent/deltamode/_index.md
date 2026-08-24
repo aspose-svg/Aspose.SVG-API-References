@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaMode
-second_title: Aspose.SVG for .NET API 参考
-description: WheelEvent 财产. deltaMode 属性包含增量值测量单位的指示默认值为 DOM_DELTA_PIXEL像素.
+title: "WheelEvent.DeltaMode"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "WheelEvent DeltaMode 属性。deltaMode 属性包含对 delta 值的计量单位的指示。默认值是 DOM_DELTA_PIXEL 像素。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.events/wheelevent/deltamode/
 ---
 ## WheelEvent.DeltaMode property
 
-deltaMode 属性包含增量值测量单位的指示。默认值为 DOM_DELTA_PIXEL（像素）.
+deltaMode 属性指示 delta 值的计量单位。默认值为 DOM_DELTA_PIXEL（像素）。
 
 ```csharp
 public ulong DeltaMode { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-增量模式。
+delta 模式。
 
-### 也可以看看
+### 另请参阅
 
 * class [WheelEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../wheelevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

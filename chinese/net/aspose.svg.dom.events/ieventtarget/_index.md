@@ -1,14 +1,14 @@
 ---
-title: Interface IEventTarget
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Events.IEventTarget 界面. 的EventTarget接口由支持 DOM 事件模型的实现中的所有节点实现 因此可以通过在 Node 接口的实例上使用特定于绑定的转换方法来获得此接口 该接口允许注册和删除事件侦听器一个EventTarget并向其发送事件IEventTarget .
+title: "IEventTarget 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Events.IEventTarget 接口。EventTarget 接口由所有支持 DOM 事件模型的实现中的节点实现。因此，可以通过在 Node 接口的实例上使用特定绑定的强制转换方法来获取此接口。该接口允许在 EventTarget 上注册和移除事件监听器，并将事件分派给该 IEventTarget。"
 type: docs
-weight: 960
+weight: 2960
 url: /zh/net/aspose.svg.dom.events/ieventtarget/
 ---
 ## IEventTarget interface
 
-的[`EventTarget`](../../aspose.svg.dom/eventtarget/)接口由支持 DOM 事件模型的实现中的所有节点实现。 因此，可以通过在 Node 接口的实例上使用特定于绑定的转换方法来获得此接口。 该接口允许注册和删除事件侦听器一个[`EventTarget`](../../aspose.svg.dom/eventtarget/)并向其发送事件`IEventTarget` .
+[`EventTarget`](../../aspose.svg.dom/eventtarget/) 接口由所有支持 DOM 事件模型的实现中的节点实现。因此，可以通过在 Node 接口的实例上使用特定绑定的强制转换方法来获取此接口。该接口允许在 [`EventTarget`](../../aspose.svg.dom/eventtarget/) 上注册和移除事件监听器，并将事件分派给该 `IEventTarget`。
 
 ```csharp
 public interface IEventTarget
@@ -16,17 +16,15 @@ public interface IEventTarget
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener/#addeventlistener)(string, IEventListener) | 此方法允许在事件目标上注册事件侦听器。 |
-| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener/#addeventlistener_1)(string, IEventListener, bool) | 此方法允许在事件目标上注册事件侦听器。 |
-| [DispatchEvent](../../aspose.svg.dom.events/ieventtarget/dispatchevent/)(Event) | 此方法允许将事件分派到实现事件模型中。 |
-| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener/#removeeventlistener)(string, IEventListener) | 此方法允许从事件目标中删除事件侦听器。 如果一个[`IEventListener`](../ieventlistener/)从中删除[`EventTarget`](../../aspose.svg.dom/eventtarget/)当它正在处理一个事件时，它不会被当前的动作触发。 事件监听器在被移除后永远不会被调用。 |
-| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener/#removeeventlistener_1)(string, IEventListener, bool) | 此方法允许从事件目标中删除事件侦听器。 如果一个[`IEventListener`](../ieventlistener/)从中删除[`EventTarget`](../../aspose.svg.dom/eventtarget/)当它正在处理一个事件时，它不会被当前的动作触发。 事件监听器在被移除后永远不会被调用。 |
+| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener/#addeventlistener)(*string, [IEventListener](../ieventlistener/)*) | 此方法允许在事件目标上注册事件监听器。 |
+| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener/#addeventlistener_1)(*string, [IEventListener](../ieventlistener/), bool*) | 此方法允许在事件目标上注册事件监听器。 |
+| [DispatchEvent](../../aspose.svg.dom.events/ieventtarget/dispatchevent/)(*[Event](../event/)*) | 此方法允许将事件分派到实现的事件模型中。 |
+| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener/#removeeventlistener)(*string, [IEventListener](../ieventlistener/)*) | 此方法允许从事件目标移除事件监听器。如果在处理事件时从 [`EventTarget`](../../aspose.svg.dom/eventtarget/) 中移除 [`IEventListener`](../ieventlistener/)，则该监听器不会在当前操作中被触发。事件监听器在被移除后永远不会被调用。 |
+| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener/#removeeventlistener_1)(*string, [IEventListener](../ieventlistener/), bool*) | 此方法允许从事件目标移除事件监听器。如果在处理事件时从 [`EventTarget`](../../aspose.svg.dom/eventtarget/) 中移除 [`IEventListener`](../ieventlistener/)，则该监听器不会在当前操作中被触发。事件监听器在被移除后永远不会被调用。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

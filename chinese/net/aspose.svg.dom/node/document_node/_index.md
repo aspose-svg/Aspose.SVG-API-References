@@ -1,23 +1,21 @@
 ---
-title: Node.DOCUMENT_NODE
-second_title: Aspose.SVG for .NET API 参考
-description: Node 场地. 文档 node
+title: "Node.DOCUMENT_NODE"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node DOCUMENT_NODE 字段。文档节点。"
 type: docs
-weight: 360
+weight: 340
 url: /zh/net/aspose.svg.dom/node/document_node/
 ---
 ## Node.DOCUMENT_NODE field
 
-文档 node
+一个文档节点
 
 ```csharp
 public const ushort DOCUMENT_NODE;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.Type
-second_title: Aspose.SVG for .NET API 参考
-description: MutationRecord 财产. 如果它是属性突变则返回attributes如果它是对 CharacterData 节点的突变则返回characterData如果它是对节点树的突变则返回childList
+title: "MutationRecord.Type"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationRecord Type 属性。如果是属性变更则返回 attributes；如果是对 CharacterData 节点的变更则返回 characterData；如果是对节点树的变更则返回 childList。"
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/type/
 ---
 ## MutationRecord.Type property
 
-如果它是属性突变则返回“attributes”，如果它是对 CharacterData 节点的突变则返回“characterData”，如果它是对节点树的突变则返回“childList”。
+如果是属性变更则返回 "attributes"，如果是对 CharacterData 节点的变更则返回 "characterData"，如果是对节点树的变更则返回 "childList"。
 
 ```csharp
 public string Type { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationRecord](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

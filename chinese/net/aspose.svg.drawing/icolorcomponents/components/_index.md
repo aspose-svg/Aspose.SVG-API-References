@@ -1,23 +1,21 @@
 ---
-title: IColorComponents.Components
-second_title: Aspose.SVG for .NET API 参考
-description: IColorComponents 财产. 将颜色分量作为浮点数组返回
+title: "IColorComponents.Components"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IColorComponents Components 属性。以 float 数组返回颜色组件"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.drawing/icolorcomponents/components/
 ---
 ## IColorComponents.Components property
 
-将颜色分量作为浮点数组返回。
+以 float 数组形式返回颜色分量。
 
 ```csharp
 public float[] Components { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorComponents](../)
-* 命名空间 [Aspose.Svg.Drawing](../../icolorcomponents/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

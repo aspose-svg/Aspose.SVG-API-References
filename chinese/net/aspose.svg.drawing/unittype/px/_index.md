@@ -1,7 +1,7 @@
 ---
-title: UnitType.Px
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量单位为像素
+title: "UnitType.Px"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Px 字段。测量单位为像素"
 type: docs
 weight: 200
 url: /zh/net/aspose.svg.drawing/unittype/px/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.drawing/unittype/px/
 public static readonly UnitType Px;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

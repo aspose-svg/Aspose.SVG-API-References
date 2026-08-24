@@ -1,7 +1,7 @@
 ---
-title: INetworkOperationContext.Response
-second_title: Aspose.SVG for .NET API 参考
-description: INetworkOperationContext 财产. 获取或设置响应消息
+title: "INetworkOperationContext.Response"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "INetworkOperationContext Response 属性。获取或设置响应消息"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.net/inetworkoperationcontext/response/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.net/inetworkoperationcontext/response/
 public ResponseMessage Response { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 响应消息。
 
-### 也可以看看
+### 另请参阅
 
 * class [ResponseMessage](../../responsemessage/)
 * interface [INetworkOperationContext](../)
-* 命名空间 [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

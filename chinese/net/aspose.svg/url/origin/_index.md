@@ -1,27 +1,25 @@
 ---
-title: Url.Origin
-second_title: Aspose.SVG for .NET API 参考
-description: Url 财产. 获取指定 URL 来源的字符串表示形式
+title: "Url.Origin"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Url Origin 属性。获取指定的 URL 来源的字符串表示。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/url/origin/
 ---
 ## Url.Origin property
 
-获取指定 URL 来源的字符串表示形式。
+获取指定 URL 来源的字符串表示。
 
 ```csharp
 public string Origin { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-起源.
+来源。
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../)
-* 命名空间 [Aspose.Svg](../../url/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

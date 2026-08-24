@@ -1,24 +1,22 @@
 ---
-title: ResourceHandlingOptions.Default
-second_title: Aspose.SVG for .NET API 参考
-description: ResourceHandlingOptions 财产. 获取或设置表示资源处理的默认方式的枚举现在SaveIgnore和Embed值得到支持默认值为Save .
+title: "ResourceHandlingOptions.Default"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ResourceHandlingOptions Default 属性。获取或设置表示资源处理默认方式的枚举。目前支持 Save、Ignore 和 Embed 值。默认值为 Save"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.saving/resourcehandlingoptions/default/
 ---
 ## ResourceHandlingOptions.Default property
 
-获取或设置表示资源处理的默认方式的枚举。现在Save,Ignore和Embed值得到支持。默认值为Save .
+获取或设置表示资源处理默认方式的枚举。目前支持 Save、Ignore 和 Embed 值。默认值为 Save。
 
 ```csharp
 public ResourceHandling Default { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResourceHandling](../../resourcehandling/)
 * class [ResourceHandlingOptions](../)
-* 命名空间 [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

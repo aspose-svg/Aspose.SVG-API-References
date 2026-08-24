@@ -1,23 +1,21 @@
 ---
-title: SVGFEDisplacementMapElement.SVG_CHANNEL_UNKNOWN
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEDisplacementMapElement 场地. 该类型不是预定义类型之一尝试定义此类型的新值或尝试将现有值切换为此类型是无效的
+title: "SVGFEDisplacementMapElement.SVG_CHANNEL_UNKNOWN"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEDisplacementMapElement SVG_CHANNEL_UNKNOWN 字段。该类型不是预定义类型之一。尝试为此类型定义新值或尝试将现有值切换为此类型都是无效的"
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.filters/svgfedisplacementmapelement/svg_channel_unknown/
 ---
 ## SVGFEDisplacementMapElement.SVG_CHANNEL_UNKNOWN field
 
-该类型不是预定义类型之一。尝试定义此类型的新值或尝试将现有值切换为此类型是无效的。
+该类型不是预定义类型之一。尝试为此类型定义新值或尝试将现有值切换到此类型都是无效的。
 
 ```csharp
 public const ushort SVG_CHANNEL_UNKNOWN;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGFEDisplacementMapElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

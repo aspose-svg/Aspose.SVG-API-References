@@ -1,37 +1,35 @@
 ---
-title: Interface IColorComponents
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Drawing.IColorComponents 界面. 声明处理颜色分量的方法和属性
+title: "IColorComponents 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Drawing.IColorComponents 接口。声明用于处理颜色分量的方法和属性。"
 type: docs
-weight: 1440
+weight: 3450
 url: /zh/net/aspose.svg.drawing/icolorcomponents/
 ---
 ## IColorComponents interface
 
-声明处理颜色分量的方法和属性。
+声明用于处理颜色分量的方法和属性。
 
 ```csharp
 public interface IColorComponents
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Alpha](../../aspose.svg.drawing/icolorcomponents/alpha/) { get; } | 返回 alpha 分量。 |
-| [Components](../../aspose.svg.drawing/icolorcomponents/components/) { get; } | 将颜色分量作为浮点数组返回。 |
+| [Components](../../aspose.svg.drawing/icolorcomponents/components/) { get; } | 以 float 数组形式返回颜色分量。 |
 | [Model](../../aspose.svg.drawing/icolorcomponents/model/) { get; } | 返回颜色模型。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [ToColor](../../aspose.svg.drawing/icolorcomponents/tocolor/)() | 将颜色分量转换为 Color 对象。 |
-| [ToString](../../aspose.svg.drawing/icolorcomponents/tostring/)(bool, bool, int) | 将颜色分量转换为字符串表示。 |
+| [ToString](../../aspose.svg.drawing/icolorcomponents/tostring/)(*bool, bool, int*) | 将颜色分量转换为字符串表示。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

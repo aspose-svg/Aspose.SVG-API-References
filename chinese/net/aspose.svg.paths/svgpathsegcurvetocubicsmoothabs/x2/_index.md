@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegCurvetoCubicSmoothAbs.X2
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegCurvetoCubicSmoothAbs 财产. 第二个控制点的绝对 X 坐标
+title: "SVGPathSegCurvetoCubicSmoothAbs.X2"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathSegCurvetoCubicSmoothAbs X2 属性。第二控制点的绝对 X 坐标"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/x2/
@@ -14,20 +14,18 @@ url: /zh/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/x2/
 public float X2 { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-绝对 X 坐标.
+绝对 X 坐标。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegCurvetoCubicSmoothAbs](../)
-* 命名空间 [Aspose.Svg.Paths](../../svgpathsegcurvetocubicsmoothabs/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

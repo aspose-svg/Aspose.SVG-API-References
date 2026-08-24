@@ -1,7 +1,7 @@
 ---
-title: PdfDevice.PdfGraphicContext.PdfGraphicContext
-second_title: Aspose.SVG for .NET API 参考
-description: PdfGraphicContext 构造函数. 默认构造函数
+title: "PdfDevice.PdfGraphicContext.PdfGraphicContext"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "PdfGraphicContext 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/pdfgraphiccontext/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/pdfgraphiccont
 public PdfGraphicContext()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfGraphicContext](../)
-* 命名空间 [Aspose.Svg.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

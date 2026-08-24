@@ -1,135 +1,133 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Aspose.SVG for .NET API 参考
-description: ImageDevice 构造函数. 初始化一个新的实例ImageDevice类.
+title: "ImageDevice"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ImageDevice 构造函数。初始化 ImageDevice 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
-## ImageDevice(ICreateStreamProvider) {#constructor}
+## ImageDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-初始化一个新的实例[`ImageDevice`](../)类.
+初始化 [`ImageDevice`](../) 类的新实例。
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | 流提供者。 |
+| streamProvider | ICreateStreamProvider | 流提供程序。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-初始化一个新的实例[`ImageDevice`](../)按渲染选项和流提供程序分类。
+通过渲染选项和流提供程序初始化 [`ImageDevice`](../) 类的新实例。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | options | ImageRenderingOptions | 渲染选项。 |
-| streamProvider | ICreateStreamProvider | 实现的对象[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)界面 |
+| streamProvider | ICreateStreamProvider | 实现 [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) 接口的对象 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(string) {#constructor_5}
+## ImageDevice(*string*) {#constructor_5}
 
-初始化一个新的实例[`ImageDevice`](../)类.
+初始化 [`ImageDevice`](../) 类的新实例。
 
 ```csharp
 public ImageDevice(string file)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | file | String | 输出文件名。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), string*) {#constructor_3}
 
-初始化一个新的实例[`ImageDevice`](../)按渲染选项和输出文件名分类。
+通过渲染选项和输出文件名初始化 [`ImageDevice`](../) 类的新实例。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | options | ImageRenderingOptions | 渲染选项。 |
 | file | String | 输出文件名。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(Stream) {#constructor_4}
+## ImageDevice(*Stream*) {#constructor_4}
 
-初始化一个新的实例[`ImageDevice`](../)类.
+初始化 [`ImageDevice`](../) 类的新实例。
 
 ```csharp
 public ImageDevice(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流。 |
+| 流 | Stream | 流。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), Stream*) {#constructor_2}
 
-初始化一个新的实例[`ImageDevice`](../)按渲染选项和输出流分类。
+通过渲染选项和输出流初始化 [`ImageDevice`](../) 类的新实例。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | options | ImageRenderingOptions | 渲染选项。 |
-| stream | Stream | 输出流。 |
+| 流 | Stream | 输出流。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

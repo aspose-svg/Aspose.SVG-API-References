@@ -1,31 +1,29 @@
 ---
-title: Color.ToNaturalColorString
-second_title: Aspose.SVG for .NET API 参考
-description: Color 方法. 返回自然色 NCol 指定的颜色使用带有数字的颜色字母指定与颜色的距离百分比
+title: "Color.ToNaturalColorString"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color ToNaturalColorString 方法。返回一个使用颜色字母加数字指定与颜色距离（百分比）的自然颜色 NCol 指定颜色"
 type: docs
 weight: 380
 url: /zh/net/aspose.svg.drawing/color/tonaturalcolorstring/
 ---
 ## Color.ToNaturalColorString method
 
-返回自然色 (NCol) 指定的颜色，使用带有数字的颜色字母指定与颜色的距离（百分比）。
+返回使用颜色字母和数字指定距离（百分比）的自然颜色 (NCol)。
 
 ```csharp
 public string ToNaturalColorString(int digits)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| digits | Int32 | 设置颜色分量的舍入精度。 |
+| digits | Int32 | 设置颜色组件的四舍五入精度。 |
 
 ### 返回值
 
-自然色 (NCol) 字符串
+一个自然颜色 (NCol) 字符串
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Element.ShadowRoot
-second_title: Aspose.SVG for .NET API 参考
-description: Element 财产. 返回存储在此元素上的 shadowRoot如果关闭则返回 null
+title: "Element.ShadowRoot"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element ShadowRoot 属性。返回存储在此元素上的 shadowRoot，如果已关闭则返回 null。"
 type: docs
-weight: 200
+weight: 190
 url: /zh/net/aspose.svg.dom/element/shadowroot/
 ---
 ## Element.ShadowRoot property
 
-返回存储在此元素上的 shadowRoot，如果关闭则返回 null。
+返回存储在此元素上的 shadowRoot，如果已关闭则返回 null。
 
 ```csharp
 public ShadowRoot ShadowRoot { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-shadowRoot.
+该 shadowRoot。
 
-### 也可以看看
+### 另请参阅
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

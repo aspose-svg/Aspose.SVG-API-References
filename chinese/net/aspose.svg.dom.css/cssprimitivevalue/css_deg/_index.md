@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_DEG
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 场地. 该值为角度deg该值可以通过getFloatValue方法获取
+title: "CSSPrimitiveValue.CSS_DEG"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue CSS_DEG 字段。该值是角度 deg。可以使用 getFloatValue 方法获取该值。"
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_deg/
 ---
 ## CSSPrimitiveValue.CSS_DEG field
 
-该值为角度（deg）。该值可以通过getFloatValue方法获取。
+该值是角度 (deg)。可以使用 getFloatValue 方法获取该值。
 
 ```csharp
 public const ushort CSS_DEG;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

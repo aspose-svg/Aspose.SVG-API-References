@@ -1,7 +1,7 @@
 ---
-title: ICSSCounterStyleRule.CounterType
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSCounterStyleRule 财产. 获取计数器的类型
+title: "ICSSCounterStyleRule.CounterType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSCounterStyleRule CounterType 属性。获取计数器的类型。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icsscounterstylerule/countertype/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom.css/icsscounterstylerule/countertype/
 public string CounterType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 计数器的类型。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSCounterStyleRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

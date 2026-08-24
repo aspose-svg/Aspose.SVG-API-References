@@ -1,32 +1,30 @@
 ---
-title: CharacterData.SubstringData
-second_title: Aspose.SVG for .NET API 参考
-description: CharacterData 方法. 从节点中提取一系列数据
+title: "CharacterData.SubstringData"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CharacterData SubstringData 方法。从节点中提取一段数据。"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom/characterdata/substringdata/
 ---
 ## CharacterData.SubstringData method
 
-从节点中提取一系列数据。
+从节点中提取一段数据。
 
 ```csharp
 public virtual string SubstringData(int offset, int count)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | offset | Int32 | 偏移量。 |
-| count | Int32 | 伯爵。 |
+| 计数 | Int32 | 计数。 |
 
 ### 返回值
 
 文本数据
 
-### 也可以看看
+### 另请参阅
 
 * class [CharacterData](../)
-* 命名空间 [Aspose.Svg.Dom](../../characterdata/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

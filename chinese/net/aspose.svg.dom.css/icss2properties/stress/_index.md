@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Stress
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 stress 属性定义
+title: "ICSS2Properties.Stress"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Stress 属性。请参阅 CSS2 中 stress 属性的定义"
 type: docs
-weight: 1050
+weight: 1080
 url: /zh/net/aspose.svg.dom.css/icss2properties/stress/
 ---
 ## ICSS2Properties.Stress property
 
-参见 CSS2 中的 stress 属性定义。
+请参阅 CSS2 中的 stress 属性定义。
 
 ```csharp
 public string Stress { get; set; }
@@ -16,12 +16,10 @@ public string Stress { get; set; }
 
 ### 返回值
 
-应力特性
+stress 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

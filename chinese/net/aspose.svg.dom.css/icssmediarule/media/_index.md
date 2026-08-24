@@ -1,7 +1,7 @@
 ---
-title: ICSSMediaRule.Media
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSMediaRule 财产. 此规则的媒体类型列表
+title: "ICSSMediaRule.Media"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSMediaRule Media 属性。此规则的媒体类型列表"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/icssmediarule/media/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg.dom.css/icssmediarule/media/
 public IMediaList Media { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IMediaList](../../imedialist/)
 * interface [ICSSMediaRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

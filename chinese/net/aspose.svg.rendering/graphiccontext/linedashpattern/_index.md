@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.LineDashPattern
-second_title: Aspose.SVG for .NET API 参考
-description: GraphicContext 财产. 设置或获取描边路径时要使用的破折号模式的描述
+title: "GraphicContext.LineDashPattern"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "GraphicContext LineDashPattern 属性。设置或获取在描边路径时使用的虚线模式描述。可以设置为 null 或空数组以禁用"
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.svg.rendering/graphiccontext/linedashpattern/
 ---
 ## GraphicContext.LineDashPattern property
 
-设置或获取描边路径时要使用的破折号模式的描述。
+设置或获取在描边路径时使用的虚线模式描述。可以将其设置为 null 或空数组以禁用。
 
 ```csharp
 public virtual float[] LineDashPattern { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicContext](../)
-* 命名空间 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

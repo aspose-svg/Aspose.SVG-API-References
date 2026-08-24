@@ -1,31 +1,29 @@
 ---
-title: Color.FromGray
-second_title: Aspose.SVG for .NET API 参考
-description: Color 方法. 返回具有请求的灰度值的新颜色
+title: "Color.FromGray"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color FromGray 方法。返回一个具有请求的灰度值的新 Color"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/color/fromgray/
 ---
 ## Color.FromGray method
 
-返回具有请求的灰度值的新颜色。
+返回一个具有请求的灰度值的新 Color。
 
 ```csharp
 public static Color FromGray(float gray)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| gray | Single | 表示颜色灰度值的浮点数。 |
+| 灰度 | Single | 一个表示颜色灰度值的浮点数。 |
 
 ### 返回值
 
-的一个新实例[`Color`](../)班级
+一个新的 [`Color`](../) 类实例
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

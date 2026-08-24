@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_VMIN
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 场地. 该值是视口宽度或高度的百分比以较小者为准
+title: "CSSPrimitiveValue.CSS_VMIN"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue CSS_VMIN 字段。该值是视口宽度或高度中较小者的百分比。"
 type: docs
-weight: 440
+weight: 450
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_vmin/
 ---
 ## CSSPrimitiveValue.CSS_VMIN field
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_vmin/
 public const ushort CSS_VMIN;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

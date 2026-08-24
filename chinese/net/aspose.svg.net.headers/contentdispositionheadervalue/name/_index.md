@@ -1,27 +1,25 @@
 ---
-title: ContentDispositionHeaderValue.Name
-second_title: Aspose.SVG for .NET API 参考
-description: ContentDispositionHeaderValue 财产. 内容正文部分的名称
+title: "ContentDispositionHeaderValue.Name"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ContentDispositionHeaderValue Name 属性。内容主体部分的名称"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.net.headers/contentdispositionheadervalue/name/
 ---
 ## ContentDispositionHeaderValue.Name property
 
-内容正文部分的名称。
+内容主体部分的名称。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-名字.
+名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [ContentDispositionHeaderValue](../)
-* 命名空间 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

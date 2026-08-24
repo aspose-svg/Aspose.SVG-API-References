@@ -1,32 +1,34 @@
 ---
-title: Element.GetElementsByClassName
-second_title: Aspose.SVG for .NET API 参考
-description: Element 方法. 返回一个实时 NodeList 对象其中包含文档中所有元素这些元素具有参数中指定的所有类 http//www.w3.org/TR/dom/
+title: "Element.GetElementsByClassName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element GetElementsByClassName 方法。返回一个 HTMLCollection 对象，包含元素中具有参数中指定的所有类的所有元素"
 type: docs
 weight: 280
 url: /zh/net/aspose.svg.dom/element/getelementsbyclassname/
 ---
 ## Element.GetElementsByClassName method
 
-返回一个实时 NodeList 对象，其中包含文档中所有元素，这些元素具有参数中指定的所有类。 http://www.w3.org/TR/dom/
+返回一个 [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) 对象，包含在 [`element`](../) 中具有参数指定的所有类的所有元素。
 
 ```csharp
 public HTMLCollection GetElementsByClassName(string classNames)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| classNames | String | 包含表示类（类名）的一组无序的唯一空格分隔标记的字符串 |
+| classNames | String | 包含一组无序唯一的以空格分隔的标记，表示类（类名）的字符串。 |
 
 ### 返回值
 
-的[`Element`](../) .
+一个实时的[`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/)，包含找到的元素。
 
-### 也可以看看
+## 备注
+
+请参阅官方 [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbyclassname)。
+
+### 另请参阅
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

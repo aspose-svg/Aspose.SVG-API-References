@@ -1,36 +1,34 @@
 ---
-title: ICSSValueList.Item
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSValueList 财产. 方法返回CSSValue在指定的索引处 http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/css.htmlCSSCSSValueList
+title: "ICSSValueList.Item"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSValueList Item 属性。方法返回指定索引处的 CSSValue。http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.htmlCSS-CSSValueList"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssvaluelist/item/
 ---
 ## ICSSValueList indexer
 
-方法返回[`CSSValue`](../../cssvalue/)在指定的索引处。 http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
+方法返回指定索引处的 [`CSSValue`](../../cssvalue/)。http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
 
 ```csharp
 public CSSValue this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| 索引 | 索引。 |
 
 ### 返回值
 
-CSSValue.
+CSSValue。
 
-### 适当的价值
+### Property Value
 
-的[`CSSValue`](../../cssvalue/) .
+该 [`CSSValue`](../../cssvalue/)。
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSValue](../../cssvalue/)
 * interface [ICSSValueList](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssvaluelist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframesRule.DeleteRule
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSKeyframesRule 方法. deleteRule 方法使用传递的键删除 CSSKeyframeRule如果不存在具有此键的规则则该方法不执行任何操作
+title: "ICSSKeyframesRule.DeleteRule"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSKeyframesRule DeleteRule 方法。deleteRule 方法删除具有给定键的 CSSKeyframeRule。如果不存在具有该键的规则，方法不执行任何操作。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.css/icsskeyframesrule/deleterule/
 ---
 ## ICSSKeyframesRule.DeleteRule method
 
-deleteRule 方法使用传递的键删除 CSSKeyframeRule。如果不存在具有此键的规则，则该方法不执行任何操作
+deleteRule 方法会删除具有给定键的 CSSKeyframeRule。如果不存在具有该键的规则，方法不执行任何操作。
 
 ```csharp
 public void DeleteRule(string key)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 描述要删除的规则的键。密钥必须解析为 0 到 1 之间的数字，否则规则将被忽略 |
+| key | String | 描述待删除规则的键。键必须解析为 0 到 1 之间的数值，否则该规则将被忽略。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSKeyframesRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: INodeIterator.PreviousNode
-second_title: Aspose.SVG for .NET API 参考
-description: INodeIterator 方法. 返回集合中的前一个节点并将 NodeIterator在集合中的位置向后移动
+title: "INodeIterator.PreviousNode"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "INodeIterator PreviousNode 方法。返回集合中的前一个节点并将 NodeIterator 在集合中的位置向后移动。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom.traversal/inodeiterator/previousnode/
 ---
 ## INodeIterator.PreviousNode method
 
-返回集合中的前一个节点并将 NodeIterator在集合中的位置向后移动。
+返回集合中的上一个节点并将 NodeIterator 在集合中的位置后移。
 
 ```csharp
 public Node PreviousNode()
@@ -16,19 +16,17 @@ public Node PreviousNode()
 
 ### 返回值
 
-正在迭代的集合中的前一个节点， 如果该集合中没有更多成员，则为 null.
+在被迭代的集合中之前的节点，如果该集合中没有更多成员，则为 null。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR：如果在调用 the detach 方法之后调用此方法，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR：如果在调用 detach 方法之后调用此方法，则会抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeIterator](../)
-* 命名空间 [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

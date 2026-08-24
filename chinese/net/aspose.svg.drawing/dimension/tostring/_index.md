@@ -1,14 +1,14 @@
 ---
-title: Dimension.ToString
-second_title: Aspose.SVG for .NET API 参考
-description: Dimension 方法. 返回一个String代表这个实例.
+title: "Dimension.ToString"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Dimension ToString 方法。返回表示此实例的字符串。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/dimension/tostring/
 ---
 ## Dimension.ToString method
 
-返回一个String代表这个实例.
+返回表示此实例的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 返回值
 
-一个String代表这个实例.
+一个表示此实例的 String。
 
-### 也可以看看
+### 另请参阅
 
 * class [Dimension](../)
-* 命名空间 [Aspose.Svg.Drawing](../../dimension/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

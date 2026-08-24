@@ -1,7 +1,7 @@
 ---
-title: GlyphInfo.Index
-second_title: Aspose.SVG for .NET API 参考
-description: GlyphInfo 财产. 获取此字形在字体中的索引
+title: "GlyphInfo.Index"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "GlyphInfo Index 属性。获取此字形在字体中的索引。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering/glyphinfo/index/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.rendering/glyphinfo/index/
 public uint Index { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-字形索引。
+字形的索引。
 
-### 也可以看看
+### 另请参阅
 
 * struct [GlyphInfo](../)
-* 命名空间 [Aspose.Svg.Rendering](../../glyphinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

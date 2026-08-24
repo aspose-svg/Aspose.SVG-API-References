@@ -1,27 +1,25 @@
 ---
-title: CSSPrimitiveValue.PrimitiveType
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 财产. 由上面指定的常量定义的值的类型
+title: "CSSPrimitiveValue.PrimitiveType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue PrimitiveType 属性。该值的类型由上述常量定义。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/primitivetype/
 ---
 ## CSSPrimitiveValue.PrimitiveType property
 
-由上面指定的常量定义的值的类型。
+值的类型，由上述常量定义。
 
 ```csharp
 public ushort PrimitiveType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 原始类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

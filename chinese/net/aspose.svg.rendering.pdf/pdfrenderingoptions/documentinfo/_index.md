@@ -1,7 +1,7 @@
 ---
-title: PdfRenderingOptions.DocumentInfo
-second_title: Aspose.SVG for .NET API 参考
-description: PdfRenderingOptions 财产. 包含有关输出 PDF 文档的信息
+title: "PdfRenderingOptions.DocumentInfo"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "PdfRenderingOptions DocumentInfo 属性。包含有关输出 PDF 文档的信息。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo/
 public PdfDocumentInfo DocumentInfo { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfDocumentInfo](../../pdfdocumentinfo/)
 * class [PdfRenderingOptions](../)
-* 命名空间 [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

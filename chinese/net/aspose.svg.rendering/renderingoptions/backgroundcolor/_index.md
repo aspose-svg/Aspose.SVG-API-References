@@ -1,23 +1,21 @@
 ---
-title: RenderingOptions.BackgroundColor
-second_title: Aspose.SVG for .NET API 参考
-description: RenderingOptions 财产. 获取或设置Color这将填充每一页的背景默认值为Transparent .
+title: "RenderingOptions.BackgroundColor"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "RenderingOptions BackgroundColor 属性。获取或设置用于填充每页背景的颜色。默认值为 Transparent。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.rendering/renderingoptions/backgroundcolor/
 ---
 ## RenderingOptions.BackgroundColor property
 
-获取或设置Color这将填充每一页的背景。默认值为Transparent .
+获取或设置用于填充每页背景的颜色。默认值为 Transparent。
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [RenderingOptions](../)
-* 命名空间 [Aspose.Svg.Rendering](../../renderingoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

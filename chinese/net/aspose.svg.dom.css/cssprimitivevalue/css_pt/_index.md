@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_PT
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 场地. 该值为长度 pt该值可以通过getFloatValue方法获取
+title: "CSSPrimitiveValue.CSS_PT"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue CSS_PT 字段。该值是长度 pt。可以通过使用 getFloatValue 方法获取该值。"
 type: docs
-weight: 320
+weight: 330
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_pt/
 ---
 ## CSSPrimitiveValue.CSS_PT field
 
-该值为长度 (pt)。该值可以通过getFloatValue方法获取。
+该值是长度（pt）。该值可通过使用 getFloatValue 方法获取。
 
 ```csharp
 public const ushort CSS_PT;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

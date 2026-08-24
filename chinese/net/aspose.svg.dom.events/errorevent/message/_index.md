@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.Message
-second_title: Aspose.SVG for .NET API 参考
-description: ErrorEvent 财产. 消息属性必须返回它被初始化的值创建对象时必须将此属性初始化为空字符串它代表错误信息
+title: "ErrorEvent.Message"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ErrorEvent Message 属性。message 属性必须返回其初始化时的值。对象创建时，此属性必须初始化为空字符串。它表示错误信息。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom.events/errorevent/message/
 ---
 ## ErrorEvent.Message property
 
-消息属性必须返回它被初始化的值。创建对象时，必须将此属性初始化为空字符串。它代表错误信息。
+message 属性必须返回其初始化时的值。对象创建时，该属性必须初始化为空字符串。它表示错误信息。
 
 ```csharp
 public string Message { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-消息.
+消息。
 
-### 也可以看看
+### 另请参阅
 
 * class [ErrorEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

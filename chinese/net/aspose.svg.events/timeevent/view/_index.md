@@ -1,28 +1,26 @@
 ---
-title: TimeEvent.View
-second_title: Aspose.SVG for .NET API 参考
-description: TimeEvent 财产. 视图属性标识生成事件的 AbstractView DOM2VIEWS
+title: "TimeEvent.View"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "TimeEvent View 属性。view 属性标识生成事件的 AbstractView DOM2VIEWS。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.events/timeevent/view/
 ---
 ## TimeEvent.View property
 
-视图属性标识生成事件的 AbstractView [DOM2VIEWS]。
+view 属性标识生成事件的 AbstractView [DOM2VIEWS]。
 
 ```csharp
 public IAbstractView View { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 当前视图。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IAbstractView](../../../aspose.svg.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* 命名空间 [Aspose.Svg.Events](../../timeevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

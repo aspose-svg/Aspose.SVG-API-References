@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.AttributeNamespace
-second_title: Aspose.SVG for .NET API 参考
-description: MutationRecord 财产. 返回已更改属性的名称空间否则返回 null
+title: "MutationRecord.AttributeNamespace"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationRecord AttributeNamespace 属性。返回已更改属性的命名空间，否则返回 null"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/attributenamespace/
 ---
 ## MutationRecord.AttributeNamespace property
 
-返回已更改属性的名称空间，否则返回 null。
+返回已更改属性的命名空间，否则返回 null。
 
 ```csharp
 public string AttributeNamespace { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-属性命名空间。
+属性的命名空间。
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationRecord](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

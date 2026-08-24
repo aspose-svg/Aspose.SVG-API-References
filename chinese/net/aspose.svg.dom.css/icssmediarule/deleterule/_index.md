@@ -1,7 +1,7 @@
 ---
-title: ICSSMediaRule.DeleteRule
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSMediaRule 方法. 用于从媒体块中删除规则
+title: "ICSSMediaRule.DeleteRule"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSMediaRule DeleteRule 方法。用于从媒体块中删除规则"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.css/icssmediarule/deleterule/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom.css/icssmediarule/deleterule/
 public void DeleteRule(long index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int64 | 索引。 |
+| 索引 | Int64 | 索引。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSMediaRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

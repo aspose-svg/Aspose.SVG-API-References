@@ -1,27 +1,25 @@
 ---
-title: DOMNameAttribute.DOMNameAttribute
-second_title: Aspose.SVG for .NET API 参考
-description: DOMNameAttribute 构造函数. 初始化一个新的实例DOMNameAttribute类.
+title: "DOMNameAttribute"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMNameAttribute 构造函数。初始化 DOMNameAttribute 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
 
-初始化一个新的实例[`DOMNameAttribute`](../)类.
+初始化 [`DOMNameAttribute`](../) 类的新实例。
 
 ```csharp
 public DOMNameAttribute(string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | DOM 名称。 |
+| name | String | 该 DOM 名称。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMNameAttribute](../)
-* 命名空间 [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

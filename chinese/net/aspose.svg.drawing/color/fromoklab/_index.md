@@ -1,33 +1,31 @@
 ---
-title: Color.FromOklab
-second_title: Aspose.SVG for .NET API 参考
-description: Color 方法. 返回具有 OKLAB 模型请求的亮度AB 值的新颜色
+title: "Color.FromOklab"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color FromOklab 方法。返回一个针对 OKLAB 模型的、具有请求的亮度、A、B 值的新 Color"
 type: docs
 weight: 160
 url: /zh/net/aspose.svg.drawing/color/fromoklab/
 ---
 ## Color.FromOklab method
 
-返回具有 OKLAB 模型请求的亮度、A、B 值的新颜色。
+返回一个针对 OKLAB 模型、具有请求的亮度、A、B 值的新 Color。
 
 ```csharp
 public static Color FromOklab(float lightness, float a, float b)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| lightness | Single | 表示颜色亮度分量的浮点数。 |
-| a | Single | 表示颜色的 A 分量的浮点数。 |
-| b | Single | 表示颜色的 B 分量的浮点数。 |
+| 明度 | Single | 一个表示颜色明度分量的浮点数。 |
+| a | Single | 一个表示颜色 A 分量的 float。 |
+| b | Single | 一个表示颜色 B 分量的 float。 |
 
 ### 返回值
 
-的一个新实例[`Color`](../)班级
+一个新的 [`Color`](../) 类实例
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

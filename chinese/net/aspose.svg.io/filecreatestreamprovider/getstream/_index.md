@@ -1,12 +1,12 @@
 ---
-title: FileCreateStreamProvider.GetStream
-second_title: Aspose.SVG for .NET API 参考
-description: FileCreateStreamProvider 方法. 提供用于渲染的流
+title: "FileCreateStreamProvider.GetStream"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "FileCreateStreamProvider GetStream 方法。提供用于渲染的流"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.io/filecreatestreamprovider/getstream/
 ---
-## GetStream(string, string) {#getstream}
+## GetStream(*string, string*) {#getstream}
 
 提供用于渲染的流。
 
@@ -14,24 +14,24 @@ url: /zh/net/aspose.svg.io/filecreatestreamprovider/getstream/
 public Stream GetStream(string name, string extension)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 流的名称。 |
-| extension | String | 创建文件流时要使用的文件扩展名。 |
+| 扩展名 | String | 如果正在创建文件流，则使用的文件名扩展名。 |
 
 ### 返回值
 
-用于在呈现操作期间写入数据的 Stream 对象。
+在渲染操作期间用于写入数据的 Stream 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [FileCreateStreamProvider](../)
-* 命名空间 [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetStream(string, string, int) {#getstream_1}
+## GetStream(*string, string, int*) {#getstream_1}
 
 提供用于渲染的流。
 
@@ -39,20 +39,18 @@ public Stream GetStream(string name, string extension)
 public Stream GetStream(string name, string extension, int page)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 流的名称。 |
-| extension | String | 创建文件流时要使用的文件扩展名。 |
-| page | Int32 | 文档的页码。 |
+| 扩展名 | String | 如果正在创建文件流，则使用的文件名扩展名。 |
+| 页 | Int32 | 文档的页码。 |
 
 ### 返回值
 
-用于在呈现操作期间写入数据的 Stream 对象。
+在渲染操作期间用于写入数据的 Stream 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [FileCreateStreamProvider](../)
-* 命名空间 [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

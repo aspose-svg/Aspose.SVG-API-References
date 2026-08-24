@@ -1,32 +1,36 @@
 ---
-title: Document.GetElementsByTagName
-second_title: Aspose.SVG for .NET API 参考
-description: Document 方法. 按文档顺序返回所有元素的节点列表这些元素具有给定的标签名称并包含在文档中
+title: "Document.GetElementsByTagName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document GetElementsByTagName 方法。此方法返回具有给定标签名的元素的 HTMLCollection。"
 type: docs
 weight: 980
 url: /zh/net/aspose.svg.dom/document/getelementsbytagname/
 ---
 ## Document.GetElementsByTagName method
 
-按文档顺序返回所有元素的节点列表，这些元素具有给定的标签名称并包含在文档中。
+此方法返回一个包含给定标签名元素的 [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/)。
+
+完整文档会被搜索，包括根节点。返回的[`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/)是实时的，这意味着它会自动更新自身，以保持与 DOM 树同步，而无需再次调用此方法。
 
 ```csharp
 public HTMLCollection GetElementsByTagName(string tagname)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| tagname | String | 标记名。 |
+| 标签名 | String | 一个表示元素名称的字符串。特殊字符串 "*" 代表所有元素。 |
 
 ### 返回值
 
-返回节点。
+一个实时的[`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) ，其中包含按在树中出现顺序找到的元素。
 
-### 也可以看看
+## 备注
+
+请参阅官方[规范](https://dom.spec.whatwg.org/#dom-document-getelementsbytagname)。
+
+### 另请参阅
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: IWindow.Prompt
-second_title: Aspose.SVG for .NET API 参考
-description: IWindow 方法. 显示带有给定消息的模态文本字段提示等待用户关闭它并返回用户输入的值如果用户取消提示则返回 null如果存在第二个参数则给定值用作默认值
+title: "IWindow.Prompt"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IWindow Prompt 方法。显示带有给定消息的模态文本字段提示，等待用户关闭它，并返回用户输入的值。如果用户取消提示，则返回 null。如果提供了第二个参数，则使用给定的值作为默认值。"
 type: docs
-weight: 120
+weight: 160
 url: /zh/net/aspose.svg.window/iwindow/prompt/
 ---
 ## IWindow.Prompt method
 
-显示带有给定消息的模态文本字段提示，等待用户关闭它，并返回用户输入的值。如果用户取消提示，则返回 null。如果存在第二个参数，则给定值用作默认值。
+显示带有给定消息的模态文本输入提示框，等待用户关闭，并返回用户输入的值。如果用户取消提示，则返回 null。如果提供了第二个参数，则使用给定的值作为默认值。
 
 ```csharp
 public string Prompt(string message, string @default)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 消息。 |
-| default | String | 默认值。 |
+| 要发送的 message。 | String | 消息。 |
+| 默认 | String | 默认。 |
 
 ### 返回值
 
 返回用户输入的值
 
-### 也可以看看
+### 另请参阅
 
 * interface [IWindow](../)
-* 命名空间 [Aspose.Svg.Window](../../iwindow/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

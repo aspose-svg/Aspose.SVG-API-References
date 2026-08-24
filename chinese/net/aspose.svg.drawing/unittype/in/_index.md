@@ -1,7 +1,7 @@
 ---
-title: UnitType.In
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量单位为英寸
+title: "UnitType.In"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType In 字段。测量单位为英寸"
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.drawing/unittype/in/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.drawing/unittype/in/
 public static readonly UnitType In;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

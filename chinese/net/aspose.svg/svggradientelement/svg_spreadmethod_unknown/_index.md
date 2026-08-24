@@ -1,23 +1,21 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN
-second_title: Aspose.SVG for .NET API 参考
-description: SVGGradientElement 场地. 该类型不是预定义类型之一尝试定义此类型的新值或尝试将现有值切换为此类型是无效的
+title: "SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGGradientElement SVG_SPREADMETHOD_UNKNOWN 字段。该类型不是预定义类型之一。尝试为此类型定义新值或尝试将现有值切换为此类型都是无效的"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg/svggradientelement/svg_spreadmethod_unknown/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN field
 
-该类型不是预定义类型之一。尝试定义此类型的新值或尝试将现有值切换为此类型是无效的。
+该类型不是预定义类型之一。尝试为此类型定义新值或尝试将现有值切换到此类型都是无效的。
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_UNKNOWN;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGGradientElement](../)
-* 命名空间 [Aspose.Svg](../../svggradientelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: BezierPathBuilder.BezierPathBuilder
-second_title: Aspose.SVG for .NET API 参考
-description: BezierPathBuilder 构造函数. 初始化一个新的实例BezierPathBuilder类.
+title: "BezierPathBuilder"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "BezierPathBuilder 构造函数。初始化 BezierPathBuilder 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.imagevectorization/bezierpathbuilder/bezierpathbuilder/
 ---
 ## BezierPathBuilder constructor
 
-初始化一个新的实例[`BezierPathBuilder`](../)类.
+初始化一个新的 [`BezierPathBuilder`](../) 类实例。
 
 ```csharp
 public BezierPathBuilder()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BezierPathBuilder](../)
-* 命名空间 [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

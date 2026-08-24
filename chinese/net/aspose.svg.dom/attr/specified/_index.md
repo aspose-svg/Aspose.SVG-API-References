@@ -1,27 +1,25 @@
 ---
-title: Attr.Specified
-second_title: Aspose.SVG for .NET API 参考
-description: Attr 财产. 如果此属性在实例文档中明确指定了一个值则为真否则为假
+title: "Attr.Specified"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Attr Specified属性。如果此属性在实例文档中显式给定了值则为True，否则为false"
 type: docs
-weight: 110
+weight: 90
 url: /zh/net/aspose.svg.dom/attr/specified/
 ---
 ## Attr.Specified property
 
-如果此属性在实例文档中明确指定了一个值，则为真，否则为假。
+如果在实例文档中显式为此属性赋值则为 true，否则为 false。
 
 ```csharp
 public bool Specified { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果指定；否则，`错误的` .
+`true` 如果已指定；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Attr](../)
-* 命名空间 [Aspose.Svg.Dom](../../attr/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

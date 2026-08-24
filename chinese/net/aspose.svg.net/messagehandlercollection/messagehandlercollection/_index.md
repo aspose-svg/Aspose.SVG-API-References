@@ -1,7 +1,7 @@
 ---
-title: MessageHandlerCollection.MessageHandlerCollection
-second_title: Aspose.SVG for .NET API 参考
-description: MessageHandlerCollection 构造函数. 默认构造函数
+title: "MessageHandlerCollection 构造函数。默认构造函数"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ResponseMessage.Request"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/messagehandlercollection/messagehandlercollection/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.net/messagehandlercollection/messagehandlercollection/
 public MessageHandlerCollection()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [MessageHandlerCollection](../)
-* 命名空间 [Aspose.Svg.Net](../../messagehandlercollection/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

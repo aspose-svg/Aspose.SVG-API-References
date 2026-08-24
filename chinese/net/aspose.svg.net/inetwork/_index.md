@@ -1,14 +1,14 @@
 ---
-title: Interface INetwork
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Net.INetwork 界面. 为网络服务提供接口
+title: "INetwork 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Net.INetwork 接口。提供网络服务的接口"
 type: docs
-weight: 2300
+weight: 4370
 url: /zh/net/aspose.svg.net/inetwork/
 ---
 ## INetwork interface
 
-为网络服务提供接口。
+提供网络服务的接口。
 
 ```csharp
 public interface INetwork : IDisposable
@@ -16,13 +16,11 @@ public interface INetwork : IDisposable
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Send](../../aspose.svg.net/inetwork/send/)(RequestMessage) | 发送一个[`RequestMessage`](../requestmessage/)消息. |
+| [Send](../../aspose.svg.net/inetwork/send/)(*[RequestMessage](../requestmessage/)*) | 发送一个 [`RequestMessage`](../requestmessage/) 消息。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

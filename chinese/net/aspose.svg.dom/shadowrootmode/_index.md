@@ -1,29 +1,27 @@
 ---
-title: Enum ShadowRootMode
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.ShadowRootMode 枚举. ShadowRoot 可以运行的模式
+title: "ShadowRootMode 枚举"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.ShadowRootMode 枚举。ShadowRoot 可以运行的模式。"
 type: docs
-weight: 1190
+weight: 3190
 url: /zh/net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
 
-ShadowRoot 可以运行的模式。
+ShadowRoot 可以操作的模式。
 
 ```csharp
 public enum ShadowRootMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Open | `0` | “打开”模式。 |
-| Closed | `1` | “关闭”模式。 |
+| Open | `0` | “open” 模式。 |
+| Closed | `1` | “closed” 模式。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

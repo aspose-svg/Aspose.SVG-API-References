@@ -1,27 +1,25 @@
 ---
-title: SVGSVGElement.SetCurrentTime
-second_title: Aspose.SVG for .NET API 参考
-description: SVGSVGElement 方法. 调整此 SVG 文档片段的时钟建立新的当前时间如果在文档时间线开始之前调用 setCurrentTime例如通过在分派文档的 SVGLoad 事件之前在script元素中运行的脚本则最后一次调用该方法的秒值给出文档的时间一旦文档时间线开始将寻求
+title: "SVGSVGElement.SetCurrentTime"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGSVGElement SetCurrentTime 方法。调整此 SVG 文档片段的时钟以建立新的当前时间。如果在文档时间线开始之前调用 setCurrentTime，例如在 script 元素中的脚本在文档的 SVGLoad 事件分发之前运行，则该方法最后一次调用中的 seconds 值表示文档时间线开始后文档将跳转到的时间。"
 type: docs
 weight: 230
 url: /zh/net/aspose.svg/svgsvgelement/setcurrenttime/
 ---
 ## SVGSVGElement.SetCurrentTime method
 
-调整此 SVG 文档片段的时钟，建立新的当前时间。如果在文档时间线开始之前调用 setCurrentTime（例如，通过在分派文档的 SVGLoad 事件之前在“script”元素中运行的脚本），则最后一次调用该方法的秒值给出文档的时间一旦文档时间线开始，将寻求。
+调整此 SVG 文档片段的时钟，设定新的当前时间。如果在文档时间线开始之前调用 setCurrentTime（例如，在文档的 SVGLoad 事件分发之前，由 ‘script’ 元素中的脚本运行），则该方法上一次调用中的 seconds 值表示文档时间线开始后文档将跳转到的时间。
 
 ```csharp
 public void SetCurrentTime(float seconds)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| seconds | Single | 相对于当前 SVG 文档片段的开始时间的新当前时间（以秒为单位）。 |
+| 秒 | Single | 相对于当前 SVG 文档片段的起始时间的新当前时间（秒）。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGSVGElement](../)
-* 命名空间 [Aspose.Svg](../../svgsvgelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

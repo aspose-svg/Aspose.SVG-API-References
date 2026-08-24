@@ -1,30 +1,28 @@
 ---
-title: TimeEvent.InitTimeEvent
-second_title: Aspose.SVG for .NET API 参考
-description: TimeEvent 方法. initTimeEvent 方法用于初始化通过 DocumentEvent 接口创建的 TimeEvent 的值只能在通过 dispatchEvent 方法分派 TimeEvent 之前调用此方法但如有必要可能会在该阶段多次调用它如果多次调用最后一次调用优先
+title: "TimeEvent.InitTimeEvent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "TimeEvent InitTimeEvent 方法。initTimeEvent 方法用于初始化通过 DocumentEvent 接口创建的 TimeEvent 的值。此方法只能在 TimeEvent 通过 dispatchEvent 方法分发之前调用，尽管在该阶段如有必要可以多次调用。如果多次调用，则以最后一次调用为准。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.events/timeevent/inittimeevent/
 ---
 ## TimeEvent.InitTimeEvent method
 
-initTimeEvent 方法用于初始化通过 DocumentEvent 接口创建的 TimeEvent 的值。只能在通过 dispatchEvent 方法分派 TimeEvent 之前调用此方法，但如有必要，可能会在该阶段多次调用它。如果多次调用，最后一次调用优先。
+initTimeEvent 方法用于初始化通过 DocumentEvent 接口创建的 TimeEvent 的值。此方法只能在 TimeEvent 通过 dispatchEvent 方法分发之前调用，尽管在该阶段如有必要可以多次调用。如果多次调用，则以最后一次调用为准。
 
 ```csharp
 public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | typeArg | String | 指定事件类型。 |
 | viewArg | IAbstractView | 指定事件的 AbstractView。 |
-| detailArg | Int64 | 指定事件的详细信息。 |
+| detailArg | Int64 | 指定事件的 detail。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IAbstractView](../../../aspose.svg.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* 命名空间 [Aspose.Svg.Events](../../timeevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

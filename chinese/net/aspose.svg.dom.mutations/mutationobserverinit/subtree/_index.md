@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.Subtree
-second_title: Aspose.SVG for .NET API 参考
-description: MutationObserverInit 财产. 如果不仅要观察目标而且要观察目标的后代的突变则设置为真
+title: "MutationObserverInit.Subtree"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationObserverInit Subtree 属性。如果要观察不仅目标本身而且其后代的变动，请将其设为 true。"
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/subtree/
 ---
 ## MutationObserverInit.Subtree property
 
-如果不仅要观察目标而且要观察目标的后代的突变，则设置为真
+如果要观察不仅 target，还包括 target’s 子孙节点的变更，则设为 true。
 
 ```csharp
 public bool Subtree { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationObserverInit](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

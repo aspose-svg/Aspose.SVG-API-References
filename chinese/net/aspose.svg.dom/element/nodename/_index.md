@@ -1,7 +1,7 @@
 ---
-title: Element.NodeName
-second_title: Aspose.SVG for .NET API 参考
-description: Element 财产. 此节点的名称取决于其类型
+title: "Element.NodeName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element NodeName 属性。此节点的名称取决于其类型。"
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.dom/element/nodename/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom/element/nodename/
 public override string NodeName { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 节点的名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

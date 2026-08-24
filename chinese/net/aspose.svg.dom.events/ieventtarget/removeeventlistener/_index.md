@@ -1,52 +1,50 @@
 ---
-title: IEventTarget.RemoveEventListener
-second_title: Aspose.SVG for .NET API 参考
-description: IEventTarget 方法. 此方法允许从事件目标中删除事件侦听器 如果一个IEventListener从中删除EventTarget当它正在处理一个事件时它不会被当前的动作触发 事件监听器在被移除后永远不会被调用
+title: "IEventTarget.RemoveEventListener"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IEventTarget RemoveEventListener 方法。此方法允许从事件目标中移除事件监听器。如果在处理事件时从 EventTarget 中移除 IEventListener，则该监听器不会被当前操作触发。事件监听器在被移除后永远不会被调用"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.events/ieventtarget/removeeventlistener/
 ---
-## RemoveEventListener(string, IEventListener) {#removeeventlistener}
+## RemoveEventListener(*string, [IEventListener](../../ieventlistener/)*) {#removeeventlistener}
 
-此方法允许从事件目标中删除事件侦听器。 如果一个[`IEventListener`](../../ieventlistener/)从中删除[`EventTarget`](../../../aspose.svg.dom/eventtarget/)当它正在处理一个事件时，它不会被当前的动作触发。 事件监听器在被移除后永远不会被调用。
+此方法允许从事件目标中移除事件监听器。如果在处理事件时从 [`IEventListener`](../../ieventlistener/) 中移除 [`EventTarget`](../../../aspose.svg.dom/eventtarget/)，则该监听器不会被当前操作触发。事件监听器在被移除后永远不会被调用。
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| type | String | 指定事件类型[`IEventListener`](../../ieventlistener/)被删除。 |
-| listener | IEventListener | 这[`IEventListener`](../../ieventlistener/)参数表示[`IEventListener`](../../ieventlistener/)即将被删除。 |
+| type | String | 指定被移除的 [`IEventListener`](../../ieventlistener/) 的事件类型。 |
+| listener | IEventListener | [`IEventListener`](../../ieventlistener/) 参数指示要移除的 [`IEventListener`](../../ieventlistener/)。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_1}
+## RemoveEventListener(*string, [IEventListener](../../ieventlistener/), bool*) {#removeeventlistener_1}
 
-此方法允许从事件目标中删除事件侦听器。 如果一个[`IEventListener`](../../ieventlistener/)从中删除[`EventTarget`](../../../aspose.svg.dom/eventtarget/)当它正在处理一个事件时，它不会被当前的动作触发。 事件监听器在被移除后永远不会被调用。
+此方法允许从事件目标中移除事件监听器。如果在处理事件时从 [`IEventListener`](../../ieventlistener/) 中移除 [`EventTarget`](../../../aspose.svg.dom/eventtarget/)，则该监听器不会被当前操作触发。事件监听器在被移除后永远不会被调用。
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener, bool useCapture)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| type | String | 指定事件类型[`IEventListener`](../../ieventlistener/)被删除。 |
-| listener | IEventListener | 这[`IEventListener`](../../ieventlistener/)参数表示[`IEventListener`](../../ieventlistener/)即将被删除。 |
-| useCapture | Boolean | 指定被删除的 EventListener 是否被注册为捕获侦听器。 如果一个侦听器被注册了两次，一个有捕获，一个没有，每个都必须单独删除。 捕获侦听器的删除不会影响非捕获版本同一个听众，反之亦然。 |
+| type | String | 指定被移除的 [`IEventListener`](../../ieventlistener/) 的事件类型。 |
+| listener | IEventListener | [`IEventListener`](../../ieventlistener/) 参数指示要移除的 [`IEventListener`](../../ieventlistener/)。 |
+| useCapture | Boolean | 指定被移除的 EventListener 是否已注册为捕获监听器。如果同一监听器注册了两次，一次为捕获模式，一次为非捕获模式，则必须分别移除。移除捕获监听器不会影响同一监听器的非捕获版本，反之亦然。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

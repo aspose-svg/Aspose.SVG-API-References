@@ -1,35 +1,33 @@
 ---
-title: IDOMImplementation.CreateDocument
-second_title: Aspose.SVG for .NET API 参考
-description: IDOMImplementation 方法. 使用其文档元素创建指定类型的 DOM 文档对象
+title: "IDOMImplementation.CreateDocument"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IDOMImplementation CreateDocument 方法。创建一个指定类型的 DOM Document 对象及其文档元素。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/idomimplementation/createdocument/
 ---
 ## IDOMImplementation.CreateDocument method
 
-使用其文档元素创建指定类型的 DOM 文档对象。
+创建具有指定类型及其文档元素的 DOM Document 对象。
 
 ```csharp
 public Document CreateDocument(string namespaceURI, string qualifiedName, DocumentType doctype)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | namespaceURI | String | 命名空间 URI。 |
-| qualifiedName | String | 合格者姓名。 |
+| qualifiedName | String | 限定名称。 |
 | doctype | DocumentType | 文档类型。 |
 
 ### 返回值
 
 返回文档。
 
-### 也可以看看
+### 另请参阅
 
 * class [Document](../../document/)
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* 命名空间 [Aspose.Svg.Dom](../../idomimplementation/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

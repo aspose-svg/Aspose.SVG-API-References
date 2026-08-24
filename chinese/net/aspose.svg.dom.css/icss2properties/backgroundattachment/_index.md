@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BackgroundAttachment
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 请参阅 CSS2. 中的背景附件属性定义
+title: "ICSS2Properties.BackgroundAttachment"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties BackgroundAttachment 属性。请参阅 CSS2 中 background-attachment 属性的定义。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.css/icss2properties/backgroundattachment/
 ---
 ## ICSS2Properties.BackgroundAttachment property
 
-请参阅 CSS2. 中的背景附件属性定义
+参见 CSS2 中的 background-attachment 属性定义。
 
 ```csharp
 public string BackgroundAttachment { get; set; }
@@ -16,12 +16,10 @@ public string BackgroundAttachment { get; set; }
 
 ### 返回值
 
-背景附件属性
+background-attachment 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,55 +1,53 @@
 ---
-title: MimeType.Equals
-second_title: Aspose.SVG for .NET API 参考
-description: MimeType 方法. 表示当前对象是否等于另一个相同类型的对象
+title: "MimeType.Equals"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MimeType Equals 方法。指示当前对象是否等于同类型的另一个对象"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/mimetype/equals/
 ---
-## Equals(MimeType) {#equals}
+## Equals(*[MimeType](../)*) {#equals}
 
-表示当前对象是否等于另一个相同类型的对象。
+指示当前对象是否等于同类型的另一个对象。
 
 ```csharp
 public bool Equals(MimeType other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | MimeType | 要与此对象进行比较的对象。 |
+| other | MimeType | 用于与此对象比较的对象。 |
 
 ### 返回值
 
-如果当前对象等于*other*范围;否则为 false.
+如果当前对象等于 *other* 参数，则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [MimeType](../)
-* 命名空间 [Aspose.Svg](../../mimetype/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-判断指定的是否Object等于电流Object .
+确定指定的对象是否等于当前对象。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 这Object与现在的比较Object. |
+| obj | 对象 | 用于与当前 Object 比较的 Object。 |
 
 ### 返回值
 
-如果指定则为真Object等于电流Object;否则为 false.
+如果指定的 Object 等于当前 Object，则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [MimeType](../)
-* 命名空间 [Aspose.Svg](../../mimetype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

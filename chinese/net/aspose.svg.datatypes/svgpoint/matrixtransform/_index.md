@@ -1,32 +1,30 @@
 ---
-title: SVGPoint.MatrixTransform
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPoint 方法. 在此 SVGPoint 对象上应用 2x3 矩阵变换并返回一个新的变换后的 SVGPoint 对象 newpoint  matrix thispoint
+title: "SVGPoint.MatrixTransform"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPoint MatrixTransform 方法。对该 SVGPoint 对象应用 2x3 矩阵变换，并返回一个新的已变换的 SVGPoint 对象 newpoint  matrix thispoint"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.datatypes/svgpoint/matrixtransform/
 ---
 ## SVGPoint.MatrixTransform method
 
-在此 SVGPoint 对象上应用 2x3 矩阵变换并返回一个新的、变换后的 SVGPoint 对象： newpoint = matrix* thispoint
+对该 SVGPoint 对象应用 2x3 矩阵变换，并返回一个新的、已变换的 SVGPoint 对象：newpoint = matrix* thispoint
 
 ```csharp
 public SVGPoint MatrixTransform(SVGMatrix matrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | SVGMatrix | 要应用于此 SVGPoint 对象的矩阵。 |
+| 矩阵 | SVGMatrix | 要应用于此 SVGPoint 对象的矩阵。 |
 
 ### 返回值
 
 一个新的 SVGPoint 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGMatrix](../../svgmatrix/)
 * class [SVGPoint](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgpoint/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.AttributeOldValue
-second_title: Aspose.SVG for .NET API 参考
-description: MutationObserverInit 财产. 如果 attributes 为 true 或省略则设置为 true 并且需要记录突变前目标的属性值
+title: "MutationObserverInit.AttributeOldValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationObserverInit AttributeOldValue 属性。如果 attributes 为 true 或未指定，并且需要记录变更前的目标属性值，则设为 true。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/attributeoldvalue/
 ---
 ## MutationObserverInit.AttributeOldValue property
 
-如果 attributes 为 true 或省略，则设置为 true 并且需要记录突变前目标的属性值。
+如果 attributes 为 true 或省略且需要记录目标属性在变更前的值，则设置为 true。
 
 ```csharp
 public bool AttributeOldValue { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationObserverInit](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

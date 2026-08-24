@@ -1,28 +1,26 @@
 ---
-title: SVGElement.OwnerSVGElement
-second_title: Aspose.SVG for .NET API 参考
-description: SVGElement 财产. 最近的祖先svg元素如果给定元素是最外层的 svg 元素则为空
+title: "SVGElement.OwnerSVGElement"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGElement OwnerSVGElement 属性。最近的祖先 svg 元素。如果给定元素是最外层的 svg 元素，则为 Null"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
 
-最近的祖先“svg”元素。如果给定元素是最外层的 svg 元素，则为空。
+最近的祖先 ‘svg’ 元素。如果给定元素是最外层的 svg 元素，则为 Null。
 
 ```csharp
 public SVGSVGElement OwnerSVGElement { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 所有者 SVG 元素。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGElement](../)
-* 命名空间 [Aspose.Svg](../../svgelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

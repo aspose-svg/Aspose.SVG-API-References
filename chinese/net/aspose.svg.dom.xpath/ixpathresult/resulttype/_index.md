@@ -1,24 +1,22 @@
 ---
-title: IXPathResult.ResultType
-second_title: Aspose.SVG for .NET API 参考
-description: IXPathResult 财产. 表示此结果类型的代码由 http//www.w3.org/TR/DOMLevel3XPath/xpath.htmlXPathResult 定义XPathResultType枚举.
+title: "IXPathResult.ResultType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IXPathResult ResultType 属性。一个代码，表示此结果的类型，定义于 http//www.w3.org/TR/DOM-Level-3-XPath/xpath.htmlXPathResult XPathResultType 枚举。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/resulttype/
 ---
 ## IXPathResult.ResultType property
 
-表示此结果类型的代码，由 http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult 定义[`XPathResultType`](../../xpathresulttype/)枚举.
+一个代码，表示此结果的类型，定义于 http://www.w3.org/TR/DOM-Level-3-XPath xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype/) 枚举。
 
 ```csharp
 public XPathResultType ResultType { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathResult](../)
-* 命名空间 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

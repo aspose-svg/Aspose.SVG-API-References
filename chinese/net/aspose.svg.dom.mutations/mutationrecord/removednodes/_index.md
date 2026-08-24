@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.RemovedNodes
-second_title: Aspose.SVG for .NET API 参考
-description: MutationRecord 财产. 返回删除的节点
+title: "MutationRecord.RemovedNodes"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationRecord RemovedNodes 属性。返回被移除的节点"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/removednodes/
 ---
 ## MutationRecord.RemovedNodes property
 
-返回删除的节点。
+返回已移除的节点。
 
 ```csharp
 public NodeList RemovedNodes { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-删除的节点。
+已移除的节点。
 
-### 也可以看看
+### 另请参阅
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

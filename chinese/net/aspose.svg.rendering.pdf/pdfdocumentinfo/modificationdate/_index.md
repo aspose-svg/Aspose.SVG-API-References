@@ -1,23 +1,21 @@
 ---
-title: PdfDocumentInfo.ModificationDate
-second_title: Aspose.SVG for .NET API 参考
-description: PdfDocumentInfo 财产. 获取或设置指定为协调世界时 UTC 的文档的修改日期
+title: "PdfDocumentInfo.ModificationDate"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "PdfDocumentInfo ModificationDate 属性。获取或设置文档的修改日期，指定为协调世界时（UTC）。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.rendering.pdf/pdfdocumentinfo/modificationdate/
 ---
 ## PdfDocumentInfo.ModificationDate property
 
-获取或设置指定为协调世界时 (UTC) 的文档的修改日期。
+获取或设置文档的修改日期，指定为协调世界时 (UTC)。
 
 ```csharp
 public DateTime ModificationDate { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfDocumentInfo](../)
-* 命名空间 [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

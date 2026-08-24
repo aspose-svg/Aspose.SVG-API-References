@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarginTop
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 margintop 属性定义
+title: "ICSS2Properties.MarginTop"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties MarginTop 属性。请参阅 CSS2 中 margin-top 属性的定义"
 type: docs
-weight: 670
+weight: 700
 url: /zh/net/aspose.svg.dom.css/icss2properties/margintop/
 ---
 ## ICSS2Properties.MarginTop property
 
-参见 CSS2 中的 margin-top 属性定义。
+请参阅 CSS2 中的 margin-top 属性定义。
 
 ```csharp
 public string MarginTop { get; set; }
@@ -16,12 +16,10 @@ public string MarginTop { get; set; }
 
 ### 返回值
 
-保证金顶部
+上边距
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

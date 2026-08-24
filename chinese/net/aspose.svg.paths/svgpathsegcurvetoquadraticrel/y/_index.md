@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegCurvetoQuadraticRel.Y
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegCurvetoQuadraticRel 财产. 此路径段终点的相对 Y 坐标
+title: "SVGPathSegCurvetoQuadraticRel.Y"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathSegCurvetoQuadraticRel Y 属性。此路径段终点的相对 Y 坐标"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.paths/svgpathsegcurvetoquadraticrel/y/
@@ -14,20 +14,18 @@ url: /zh/net/aspose.svg.paths/svgpathsegcurvetoquadraticrel/y/
 public float Y { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-相对Y坐标
+相对 Y 坐标
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegCurvetoQuadraticRel](../)
-* 命名空间 [Aspose.Svg.Paths](../../svgpathsegcurvetoquadraticrel/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

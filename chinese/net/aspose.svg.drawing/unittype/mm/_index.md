@@ -1,7 +1,7 @@
 ---
-title: UnitType.Mm
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量单位为毫米
+title: "UnitType.Mm"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Mm 字段。测量单位为毫米"
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.drawing/unittype/mm/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.drawing/unittype/mm/
 public static readonly UnitType Mm;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

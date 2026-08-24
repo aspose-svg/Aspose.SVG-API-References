@@ -1,27 +1,26 @@
 ---
-title: GraphicContext.Transform
-second_title: Aspose.SVG for .NET API 参考
-description: GraphicContext 方法. 乘以指定矩阵修改当前变换矩阵
+title: "GraphicContext.Transform"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "GraphicContext Transform 方法。通过乘以指定矩阵来修改当前变换矩阵"
 type: docs
 weight: 180
 url: /zh/net/aspose.svg.rendering/graphiccontext/transform/
 ---
 ## GraphicContext.Transform method
 
-乘以指定矩阵修改当前变换矩阵
+通过乘以指定矩阵来修改当前变换矩阵。
 
 ```csharp
-public virtual void Transform(Matrix matrix)
+public virtual void Transform(IMatrix matrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | 变换矩阵。 |
+| 矩阵 | IMatrix | 变换矩阵。 |
 
-### 也可以看看
+### 另请参阅
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* 命名空间 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

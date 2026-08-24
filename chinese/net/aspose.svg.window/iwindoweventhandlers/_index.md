@@ -1,22 +1,22 @@
 ---
-title: Interface IWindowEventHandlers
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Window.IWindowEventHandlers 界面. 表示窗口对象必须继承的接口
+title: "IWindowEventHandlers 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Window.IWindowEventHandlers 接口。表示必须被 window 对象继承的接口"
 type: docs
-weight: 3830
+weight: 5930
 url: /zh/net/aspose.svg.window/iwindoweventhandlers/
 ---
 ## IWindowEventHandlers interface
 
-表示窗口对象必须继承的接口
+表示必须被 window 对象继承的接口。
 
 ```csharp
 public interface IWindowEventHandlers
 ```
 
-## 活动
+## 事件
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | event [OnAfterPrint](../../aspose.svg.window/iwindoweventhandlers/onafterprint/) | 获取或设置事件处理程序 |
 | event [OnBeforePrint](../../aspose.svg.window/iwindoweventhandlers/onbeforeprint/) | 获取或设置事件处理程序 |
@@ -31,9 +31,7 @@ public interface IWindowEventHandlers
 | event [OnStorage](../../aspose.svg.window/iwindoweventhandlers/onstorage/) | 获取或设置事件处理程序 |
 | event [OnUnload](../../aspose.svg.window/iwindoweventhandlers/onunload/) | 获取或设置事件处理程序 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Window](../../aspose.svg.window/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

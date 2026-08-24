@@ -1,7 +1,7 @@
 ---
-title: IUserAgentService.CSSEngineMode
-second_title: Aspose.SVG for .NET API 参考
-description: IUserAgentService 财产. 获取或设置 CSS 引擎工作的模式
+title: "IUserAgentService.CSSEngineMode"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IUserAgentService CSSEngineMode 属性。获取或设置 CSS 引擎工作的模式。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.services/iuseragentservice/cssenginemode/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.services/iuseragentservice/cssenginemode/
 public CSSEngineMode CSSEngineMode { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 引擎模式。
 
-### 也可以看看
+### 另请参阅
 
 * enum [CSSEngineMode](../../../aspose.svg.dom.css/cssenginemode/)
 * interface [IUserAgentService](../)
-* 命名空间 [Aspose.Svg.Services](../../iuseragentservice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

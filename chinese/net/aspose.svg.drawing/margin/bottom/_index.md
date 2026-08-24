@@ -1,7 +1,7 @@
 ---
-title: Margin.Bottom
-second_title: Aspose.SVG for .NET API 参考
-description: Margin 财产. 获取或设置底部
+title: "Margin.Bottom"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Margin Bottom 属性。获取或设置底部。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.drawing/margin/bottom/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.drawing/margin/bottom/
 public LengthOrAuto Bottom { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-底部.
+底部。
 
-### 也可以看看
+### 另请参阅
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* 命名空间 [Aspose.Svg.Drawing](../../margin/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

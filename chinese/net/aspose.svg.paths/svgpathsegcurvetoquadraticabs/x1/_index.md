@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegCurvetoQuadraticAbs.X1
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegCurvetoQuadraticAbs 财产. 第一个控制点的绝对 X 坐标
+title: "SVGPathSegCurvetoQuadraticAbs.X1"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathSegCurvetoQuadraticAbs X1 属性。第一个控制点的绝对 X 坐标"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/x1/
@@ -14,20 +14,18 @@ url: /zh/net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/x1/
 public float X1 { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 绝对 X 坐标
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegCurvetoQuadraticAbs](../)
-* 命名空间 [Aspose.Svg.Paths](../../svgpathsegcurvetoquadraticabs/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

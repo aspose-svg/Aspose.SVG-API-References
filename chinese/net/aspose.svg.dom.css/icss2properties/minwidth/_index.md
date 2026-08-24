@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MinWidth
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 minwidth 属性定义
+title: "ICSS2Properties.MinWidth"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties MinWidth 属性。请参阅 CSS2 中 min-width 属性的定义。"
 type: docs
-weight: 730
+weight: 760
 url: /zh/net/aspose.svg.dom.css/icss2properties/minwidth/
 ---
 ## ICSS2Properties.MinWidth property
 
-参见 CSS2 中的 min-width 属性定义。
+请参阅 CSS2 中的 min-width 属性定义。
 
 ```csharp
 public string MinWidth { get; set; }
@@ -16,12 +16,10 @@ public string MinWidth { get; set; }
 
 ### 返回值
 
-最小宽度属性
+min-width 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

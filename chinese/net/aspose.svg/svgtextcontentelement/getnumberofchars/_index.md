@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.GetNumberOfChars
-second_title: Aspose.SVG for .NET API 参考
-description: SVGTextContentElement 方法. 返回当前元素中可用于渲染的字符总数其中包括来自tref引用的引用字符无论它们是否将被渲染实际上这相当于来自 DOM Level 3 CoreDOM3第 1.4 节的 NodetextContent 属性的长度如果该属性也扩展了tref元素
+title: "SVGTextContentElement.GetNumberOfChars"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGTextContentElement GetNumberOfChars 方法。返回当前元素中可用于渲染的字符总数，包括来自 tref 引用的字符，无论它们是否会被渲染。实际上，这相当于 DOM Level 3 Core DOM3 第 1.4 节中 NodetextContent 属性的长度（如果该属性也展开了 tref 元素）。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svgtextcontentelement/getnumberofchars/
 ---
 ## SVGTextContentElement.GetNumberOfChars method
 
-返回当前元素中可用于渲染的字符总数，其中包括来自“tref”引用的引用字符，无论它们是否将被渲染。实际上，这相当于来自 DOM Level 3 Core（[DOM3]，第 1.4 节）的 Node::textContent 属性的长度，如果该属性也扩展了“tref”元素。
+返回当前元素内可用于渲染的字符总数，包括来自 ‘tref’ 引用的字符，无论是否实际渲染。实际上，这等同于 DOM Level 3 Core（[DOM3]，第 1.4 节）中 Node::textContent 属性的长度，如果该属性同样展开了 ‘tref’ 元素的话。
 
 ```csharp
 public long GetNumberOfChars()
@@ -18,10 +18,8 @@ public long GetNumberOfChars()
 
 字符总数。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGTextContentElement](../)
-* 命名空间 [Aspose.Svg](../../svgtextcontentelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

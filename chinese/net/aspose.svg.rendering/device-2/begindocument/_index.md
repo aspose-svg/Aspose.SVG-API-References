@@ -1,28 +1,26 @@
 ---
-title: Device2.BeginDocument
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 开始呈现文档
+title: "Device-2.BeginDocument"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device BeginDocument 方法。开始渲染文档"
 type: docs
-weight: 40
+weight: 70
 url: /zh/net/aspose.svg.rendering/device-2/begindocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginDocument method
+## Device<TGraphicContext,TRenderingOptions>.BeginDocument method
 
-开始呈现文档。
+开始渲染文档。
 
 ```csharp
 public virtual void BeginDocument(Document document)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 文档。 |
+| 文档 | 文档 | 文档。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Document](../../../aspose.svg.dom/document/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

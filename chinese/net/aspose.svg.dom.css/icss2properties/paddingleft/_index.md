@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingLeft
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中paddingleft属性定义.
+title: "ICSS2Properties.PaddingLeft"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties PaddingLeft 属性。请参阅 CSS2 中的 padding-left 属性定义"
 type: docs
-weight: 820
+weight: 850
 url: /zh/net/aspose.svg.dom.css/icss2properties/paddingleft/
 ---
 ## ICSS2Properties.PaddingLeft property
 
-见CSS2中padding-left属性定义.
+请参阅 CSS2 中的 padding-left 属性定义。
 
 ```csharp
 public string PaddingLeft { get; set; }
@@ -18,10 +18,8 @@ public string PaddingLeft { get; set; }
 
 padding-left 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

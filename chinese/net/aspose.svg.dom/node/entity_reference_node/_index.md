@@ -1,23 +1,21 @@
 ---
-title: Node.ENTITY_REFERENCE_NODE
-second_title: Aspose.SVG for .NET API 参考
-description: Node 场地. 实体引用 node
+title: "Node.ENTITY_REFERENCE_NODE"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node ENTITY_REFERENCE_NODE 字段。实体引用节点。"
 type: docs
-weight: 400
+weight: 380
 url: /zh/net/aspose.svg.dom/node/entity_reference_node/
 ---
 ## Node.ENTITY_REFERENCE_NODE field
 
-实体引用 node
+一个实体引用节点
 
 ```csharp
 public const ushort ENTITY_REFERENCE_NODE;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

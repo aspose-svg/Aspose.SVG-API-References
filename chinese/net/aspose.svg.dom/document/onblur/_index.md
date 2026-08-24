@@ -1,7 +1,7 @@
 ---
-title: Document.OnBlur
-second_title: Aspose.SVG for .NET API 参考
-description: Document 事件. 获取或设置 OnBlur 事件的事件处理程序
+title: "Document.OnBlur"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document OnBlur 事件。获取或设置 OnBlur 事件的事件处理程序"
 type: docs
 weight: 290
 url: /zh/net/aspose.svg.dom/document/onblur/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg.dom/document/onblur/
 public event DOMEventHandler OnBlur;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

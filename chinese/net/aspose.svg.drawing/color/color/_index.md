@@ -1,158 +1,156 @@
 ---
-title: Color.Color
-second_title: Aspose.SVG for .NET API 参考
-description: Color 构造函数. 初始化一个新的实例Color class. 默认颜色为黑色.
+title: "Color"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color 构造函数。初始化 Color 类的新实例。默认颜色为黑色。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/color/color/
 ---
 ## Color() {#constructor}
 
-初始化一个新的实例[`Color`](../) class. 默认颜色为黑色.
+初始化 [`Color`](../) 类的新实例。默认颜色为黑色。
 
 ```csharp
 public Color()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float) {#constructor_5}
+## Color(*float, float, float*) {#constructor_5}
 
-初始化一个新的实例[`Color`](../) class. 所有颜色分量必须在 0-1. 范围内
+初始化 [`Color`](../) 类的新实例。所有颜色分量必须在 0-1 范围内。
 
 ```csharp
 public Color(float red, float green, float blue)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Single | 颜色的红色分量。 |
-| green | Single | 颜色的绿色成分。 |
-| blue | Single | 颜色的蓝色分量。 |
+| 红色 | Single | 颜色的红色分量。 |
+| 绿色 | Single | 颜色的绿色分量。 |
+| 蓝色 | Single | 颜色的蓝色分量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float, float) {#constructor_6}
+## Color(*float, float, float, float*) {#constructor_6}
 
-初始化一个新的实例[`Color`](../) class. 所有颜色分量必须在 0-1. 范围内
+初始化 [`Color`](../) 类的新实例。所有颜色分量必须在 0-1 范围内。
 
 ```csharp
 public Color(float red, float green, float blue, float alpha)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Single | 颜色的红色分量。 |
-| green | Single | 颜色的绿色成分。 |
-| blue | Single | 颜色的蓝色分量。 |
-| alpha | Single | 颜色的 alpha 分量。 |
+| 红色 | Single | 颜色的红色分量。 |
+| 绿色 | Single | 颜色的绿色分量。 |
+| 蓝色 | Single | 颜色的蓝色分量。 |
+| 透明度 | Single | 颜色的 Alpha 分量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte) {#constructor_1}
+## Color(*byte, byte, byte*) {#constructor_1}
 
-初始化一个新的实例[`Color`](../)class. 所有颜色分量必须在 0-255. 范围内
+初始化 [`Color`](../) 类的新实例。所有颜色分量必须在 0-255 范围内。
 
 ```csharp
 public Color(byte red, byte green, byte blue)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Byte | 颜色的红色分量。 |
-| green | Byte | 颜色的绿色成分。 |
-| blue | Byte | 颜色的蓝色分量。 |
+| 红色 | Byte | 颜色的红色分量。 |
+| 绿色 | Byte | 颜色的绿色分量。 |
+| 蓝色 | Byte | 颜色的蓝色分量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte, byte) {#constructor_2}
+## Color(*byte, byte, byte, byte*) {#constructor_2}
 
-初始化一个新的实例[`Color`](../)class. 所有颜色分量必须在 0-255. 范围内
+初始化 [`Color`](../) 类的新实例。所有颜色分量必须在 0-255 范围内。
 
 ```csharp
 public Color(byte red, byte green, byte blue, byte alpha)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Byte | 表示颜色的红色分量的字节。 |
-| green | Byte | 表示颜色的绿色分量的字节。 |
-| blue | Byte | 表示颜色的蓝色分量的字节。 |
-| alpha | Byte | 表示颜色的 alpha 分量的字节。 |
+| 红色 | Byte | 一个字节，表示颜色的红色分量。 |
+| 绿色 | Byte | 一个字节，表示颜色的绿色分量。 |
+| 蓝色 | Byte | 一个字节，表示颜色的蓝色分量。 |
+| 透明度 | Byte | 一个字节，表示颜色的透明度分量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int) {#constructor_3}
+## Color(*int, int, int*) {#constructor_3}
 
-初始化一个新的实例[`Color`](../)class. 所有颜色分量必须在 0-255. 范围内
+初始化 [`Color`](../) 类的新实例。所有颜色分量必须在 0-255 范围内。
 
 ```csharp
 public Color(int red, int green, int blue)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Int32 | 颜色的红色分量。 |
-| green | Int32 | 颜色的绿色成分。 |
-| blue | Int32 | 颜色的蓝色分量。 |
+| 红色 | Int32 | 颜色的红色分量。 |
+| 绿色 | Int32 | 颜色的绿色分量。 |
+| 蓝色 | Int32 | 颜色的蓝色分量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int, int) {#constructor_4}
+## Color(*int, int, int, int*) {#constructor_4}
 
-初始化一个新的实例[`Color`](../)class. 所有颜色分量必须在 0-255. 范围内
+初始化 [`Color`](../) 类的新实例。所有颜色分量必须在 0-255 范围内。
 
 ```csharp
 public Color(int red, int green, int blue, int alpha)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Int32 | 颜色的红色分量。 |
-| green | Int32 | 颜色的绿色成分。 |
-| blue | Int32 | 颜色的蓝色分量。 |
-| alpha | Int32 | 颜色的 alpha 分量。 |
+| 红色 | Int32 | 颜色的红色分量。 |
+| 绿色 | Int32 | 颜色的绿色分量。 |
+| 蓝色 | Int32 | 颜色的蓝色分量。 |
+| 透明度 | Int32 | 颜色的 Alpha 分量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

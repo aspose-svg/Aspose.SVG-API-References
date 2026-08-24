@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.BaseVal
-second_title: Aspose.SVG for .NET API 参考
-description: SVGAnimatedValue 财产. 应用任何动画之前给定属性的基值
+title: "SVGAnimatedValue-1.BaseVal"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGAnimatedValue BaseVal 属性。应用任何动画之前给定属性的基础值"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.datatypes/svganimatedvalue-1/baseval/
 ---
-## SVGAnimatedValue&lt;T&gt;.BaseVal property
+## SVGAnimatedValue<T>.BaseVal property
 
-应用任何动画之前给定属性的基值。
+在应用任何动画之前，给定属性的基础值。
 
 ```csharp
 public T BaseVal { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[基值]；否则，`错误的` .
+`true` 如果 [base value]；否则，`false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

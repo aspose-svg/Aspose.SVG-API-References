@@ -1,24 +1,22 @@
 ---
-title: Document.StyleSheets
-second_title: Aspose.SVG for .NET API 参考
-description: Document 财产. 包含所有样式表的列表这些样式表明确链接到或嵌入到文档中对于 HTML 文档这包括通过 HTML LINK 元素包含的外部样式表和内联 STYLE 元素
+title: "Document.StyleSheets"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document StyleSheets 属性。一个列表，包含文档中显式链接或嵌入的所有样式表。对于 HTML 文档，这包括通过 HTML LINK 元素包含的外部样式表和内联 STYLE 元素。"
 type: docs
 weight: 250
 url: /zh/net/aspose.svg.dom/document/stylesheets/
 ---
 ## Document.StyleSheets property
 
-包含所有样式表的列表，这些样式表明确链接到或嵌入到文档中。对于 HTML 文档，这包括通过 HTML LINK 元素包含的外部样式表和内联 STYLE 元素。
+一个列表，包含文档中显式链接或嵌入的所有样式表。对于 HTML 文档，这包括通过 HTML LINK 元素包含的外部样式表以及内联 STYLE 元素。
 
 ```csharp
 public IStyleSheetList StyleSheets { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IStyleSheetList](../../../aspose.svg.dom.css/istylesheetlist/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

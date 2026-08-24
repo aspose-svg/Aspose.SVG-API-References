@@ -1,7 +1,7 @@
 ---
-title: PdfEncryptionInfo.Permissions
-second_title: Aspose.SVG for .NET API 参考
-description: PdfEncryptionInfo 财产. 获取或设置权限
+title: "PdfEncryptionInfo.Permissions"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "PdfEncryptionInfo 权限属性。获取或设置权限"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
 public PdfPermissions Permissions { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 权限。
 
-### 也可以看看
+### 另请参阅
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * class [PdfEncryptionInfo](../)
-* 命名空间 [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

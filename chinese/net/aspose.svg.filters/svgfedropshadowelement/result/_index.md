@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Result
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEDropShadowElement 财产. 对应于给定feDropShadow元素上的属性结果
+title: "SVGFEDropShadowElement.Result"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEDropShadowElement Result 属性。对应给定 feDropShadow 元素上的属性 result。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.filters/svgfedropshadowelement/result/
 ---
 ## SVGFEDropShadowElement.Result property
 
-对应于给定“feDropShadow”元素上的属性“结果”。
+对应给定 ‘feDropShadow’ 元素的属性 ‘result’。
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“feDropShadow”元素的属性“结果”。
+给定 ‘feDropShadow’ 元素的属性 ‘result’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDropShadowElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

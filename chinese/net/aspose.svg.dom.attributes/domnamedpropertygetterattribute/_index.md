@@ -1,14 +1,14 @@
 ---
-title: Class DOMNamedPropertyGetterAttribute
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Attributes.DOMNamedPropertyGetterAttribute 班级. 指定该方法将用作命名属性 getter.
+title: "DOMNamedPropertyGetterAttribute 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Attributes.DOMNamedPropertyGetterAttribute 类。指定该方法将用作具名属性的 getter"
 type: docs
-weight: 390
+weight: 2390
 url: /zh/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute class
 
-指定该方法将用作命名属性 getter.
+指定该方法将用作具名属性的 getter。
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -17,13 +17,17 @@ public sealed class DOMNamedPropertyGetterAttribute : Attribute
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [DOMNamedPropertyGetterAttribute](domnamedpropertygetterattribute/)() | 默认构造函数。 |
 
-### 也可以看看
+## 属性
 
-* 命名空间 [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* 部件 [Aspose.SVG](../../)
+| 名称 | 描述 |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### 另请参阅
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

@@ -1,37 +1,35 @@
 ---
-title: SVGListBase1.AppendItem
-second_title: Aspose.SVG for .NET API 参考
-description: SVGListBase 方法. 在列表末尾插入一个新项目
+title: "SVGListBase-1.AppendItem"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGListBase AppendItem 方法。在列表末尾插入一个新项"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.collections/svglistbase-1/appenditem/
 ---
-## SVGListBase&lt;T&gt;.AppendItem method
+## SVGListBase<T>.AppendItem method
 
-在列表末尾插入一个新项目。
+在列表末尾插入一个新项。
 
 ```csharp
 public T AppendItem(T newItem)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| newItem | T | 要插入的项目。第一项是数字 0。 |
+| newItem | T | 要插入的项。第一个项的编号为 0。 |
 
 ### 返回值
 
-插入的项目。
+插入的项。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). 无法修改列表时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。当列表无法被修改时抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGListBase&lt;T&gt;](../)
-* 命名空间 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

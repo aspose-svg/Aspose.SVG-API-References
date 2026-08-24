@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetStringValue
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 方法. 此方法用于获取字符串值如果 CSS 值不包含字符串值则会引发 DOMException
+title: "CSSPrimitiveValue.GetStringValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue GetStringValue 方法。此方法用于获取字符串值。如果 CSS 值不包含字符串值，则会抛出 DOMException。"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/getstringvalue/
 ---
 ## CSSPrimitiveValue.GetStringValue method
 
-此方法用于获取字符串值。如果 CSS 值不包含字符串值，则会引发 DOMException。
+此方法用于获取字符串值。如果 CSS 值不包含字符串值，则会抛出 DOMException。
 
 ```csharp
 public abstract string GetStringValue()
@@ -18,10 +18,8 @@ public abstract string GetStringValue()
 
 返回值
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

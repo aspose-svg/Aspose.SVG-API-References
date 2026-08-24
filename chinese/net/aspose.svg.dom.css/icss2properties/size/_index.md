@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Size
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中size属性定义.
+title: "ICSS2Properties.Size"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Size 属性。请参阅 CSS2 中 size 属性的定义。"
 type: docs
-weight: 990
+weight: 1020
 url: /zh/net/aspose.svg.dom.css/icss2properties/size/
 ---
 ## ICSS2Properties.Size property
 
-见CSS2中size属性定义.
+请参阅 CSS2 中的 size 属性定义。
 
 ```csharp
 public string Size { get; set; }
@@ -16,12 +16,10 @@ public string Size { get; set; }
 
 ### 返回值
 
-大小属性
+size 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

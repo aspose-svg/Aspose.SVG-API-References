@@ -1,27 +1,25 @@
 ---
-title: Text.IsElementContentWhitespace
-second_title: Aspose.SVG for .NET API 参考
-description: Text 财产. 返回此文本节点是否包含元素内容空白通常被滥用为可忽略的空白
+title: "Text.IsElementContentWhitespace"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Text IsElementContentWhitespace 属性。返回此文本节点是否包含元素内容空白，通常被滥称为可忽略空白。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 
-返回此文本节点是否包含元素内容空白，通常被滥用为“可忽略的空白”。
+返回此文本节点是否包含元素内容空白，通常被误称为“可忽略空白”。
 
 ```csharp
 public bool IsElementContentWhitespace { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例是元素内容空白；否则，`错误的` .
+`true` 如果此实例是元素内容空白；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Text](../)
-* 命名空间 [Aspose.Svg.Dom](../../text/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

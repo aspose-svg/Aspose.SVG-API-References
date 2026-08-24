@@ -1,7 +1,7 @@
 ---
-title: Counter.Separator
-second_title: Aspose.SVG for .NET API 参考
-description: Counter 财产. 此属性用于嵌套计数器的分隔符
+title: "Counter.Separator"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Counter Separator 属性。此属性用于嵌套计数器的分隔符"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.css/counter/separator/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom.css/counter/separator/
 public string Separator { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 计数器分隔符。
 
-### 也可以看看
+### 另请参阅
 
 * class [Counter](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../counter/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

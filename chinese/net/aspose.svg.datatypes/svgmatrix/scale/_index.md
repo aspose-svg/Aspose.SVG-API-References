@@ -1,31 +1,29 @@
 ---
-title: SVGMatrix.Scale
-second_title: Aspose.SVG for .NET API 参考
-description: SVGMatrix 方法. 在当前矩阵上后乘一个统一比例变换并返回结果矩阵
+title: "SVGMatrix.Scale"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGMatrix Scale 方法。后乘一个统一的缩放变换到当前矩阵并返回结果矩阵"
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.datatypes/svgmatrix/scale/
 ---
 ## SVGMatrix.Scale method
 
-在当前矩阵上后乘一个统一比例变换并返回结果矩阵。
+在当前矩阵上后乘一个统一缩放变换，并返回结果矩阵。
 
 ```csharp
 public SVGMatrix Scale(float scaleFactor)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| scaleFactor | Single | 和 Y 的比例因子。 |
+| scaleFactor | Single | X 和 Y 方向的缩放因子。 |
 
 ### 返回值
 
 结果矩阵。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGMatrix](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgmatrix/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

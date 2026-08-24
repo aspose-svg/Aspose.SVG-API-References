@@ -1,28 +1,26 @@
 ---
-title: INonDocumentTypeChildNode.PreviousElementSibling
-second_title: Aspose.SVG for .NET API 参考
-description: INonDocumentTypeChildNode 财产. 返回作为元素的第一个前面的同级元素否则返回 null
+title: "INonDocumentTypeChildNode.PreviousElementSibling"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "INonDocumentTypeChildNode PreviousElementSibling 属性。返回第一个前面的元素兄弟节点，如果没有则返回 null。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/
 ---
 ## INonDocumentTypeChildNode.PreviousElementSibling property
 
-返回作为元素的第一个前面的同级元素，否则返回 null。
+返回第一个前面的兄弟节点（如果它是元素），否则返回 null。
 
 ```csharp
 public Element PreviousElementSibling { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-前一个元素兄弟。
+上一个元素兄弟节点。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../../element/)
 * interface [INonDocumentTypeChildNode](../)
-* 命名空间 [Aspose.Svg.Dom](../../inondocumenttypechildnode/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

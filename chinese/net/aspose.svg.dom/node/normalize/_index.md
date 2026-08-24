@@ -1,23 +1,21 @@
 ---
-title: Node.Normalize
-second_title: Aspose.SVG for .NET API 参考
-description: Node 方法. 将所有文本节点在此节点下的子树的完整深度包括属性节点放入正常形式其中只有结构例如元素注释处理指令CDATA 部分和实体引用将文本分隔开节点即既没有相邻的文本节点也没有空文本节点这可用于确保文档的 DOM 视图与保存和重新加载时相同并且在依赖于特定文档树结构的操作例如 XPointer XPointer 查找要执行时很有用使用如果附加到 Node.ownerDocument 的 DOMConfiguration 对象的参数normalizecharacters为 true则此方法也会完全规范化 Text 节点的字符
+title: "Node.Normalize"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node.Normalize 方法。将此节点下子树的全部深度中的所有 Text 节点（包括属性节点）转换为一种普通形式，在该形式中，仅保留结构，例如元素、注释、处理指令、CDATA 区段和实体引用，并将 Text 节点分离，即不存在相邻的 Text 节点或空的 Text 节点。此操作可用于确保文档的 DOM 视图与保存后重新加载时的视图相同，并在需要使用依赖特定文档树结构的操作（如 XPointer 查找）时非常有用。如果附加到 Node.ownerDocument 的 DOMConfiguration 对象的参数 normalize-characters 为 true，则此方法还会完全规范化 Text 节点的字符。"
 type: docs
-weight: 280
+weight: 260
 url: /zh/net/aspose.svg.dom/node/normalize/
 ---
 ## Node.Normalize method
 
-将所有文本节点在此节点下的子树的完整深度（包括属性节点）放入“正常”形式，其中只有结构（例如，元素、注释、处理指令、CDATA 部分和实体引用）将文本分隔开节点，即既没有相邻的文本节点，也没有空文本节点。这可用于确保文档的 DOM 视图与保存和重新加载时相同，并且在依赖于特定文档树结构的操作（例如 XPointer [XPointer] 查找）要执行时很有用使用。如果附加到 Node.ownerDocument 的 DOMConfiguration 对象的参数“normalize-characters”为 true，则此方法也会完全规范化 Text 节点的字符。
+将此节点下子树的所有 Text 节点（包括属性节点）全部置于一种 "普通" 形式，即仅由结构（例如元素、注释、处理指令、CDATA 区段和实体引用）分隔 Text 节点，确保不存在相邻的 Text 节点或空的 Text 节点。此操作可用于确保文档的 DOM 视图与保存后重新加载时的视图相同，并在需要依赖特定文档树结构的操作（如 XPointer [XPointer] 查找）时非常有用。如果附加到 Node.ownerDocument 的 DOMConfiguration 对象的参数 "normalize-characters" 为 true，则此方法还会完全规范化 Text 节点的字符。
 
 ```csharp
 public void Normalize()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: IAbstractView.Document
-second_title: Aspose.SVG for .NET API 参考
-description: IAbstractView 财产. 这是一个 AbstractView 的源 DocumentView
+title: "IAbstractView.Document"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IAbstractView Document 属性。此 AbstractView 所对应的源 DocumentView。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.views/iabstractview/document/
 ---
 ## IAbstractView.Document property
 
-这是一个 AbstractView 的源 DocumentView。
+此 AbstractView 所属的源 DocumentView。
 
 ```csharp
 public IDocumentView Document { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-文件.
+文档。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IDocumentView](../../idocumentview/)
 * interface [IAbstractView](../)
-* 命名空间 [Aspose.Svg.Dom.Views](../../iabstractview/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

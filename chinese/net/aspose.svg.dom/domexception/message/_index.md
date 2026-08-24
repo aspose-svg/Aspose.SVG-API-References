@@ -1,27 +1,25 @@
 ---
-title: DOMException.Message
-second_title: Aspose.SVG for .NET API 参考
-description: DOMException 财产. 返回表示与给定错误名称关联的消息或描述的字符串
+title: "DOMException.Message"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMException Message 属性。返回表示与给定错误名称关联的消息或描述的字符串"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom/domexception/message/
 ---
 ## DOMException.Message property
 
-返回表示与给定错误名称关联的消息或描述的字符串。
+返回一个字符串，表示与给定错误名称关联的消息或描述。
 
 ```csharp
 public override string Message { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 错误信息。
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMException](../)
-* 命名空间 [Aspose.Svg.Dom](../../domexception/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

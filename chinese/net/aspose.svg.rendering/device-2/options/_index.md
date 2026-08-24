@@ -1,12 +1,12 @@
 ---
-title: Device2.Options
-second_title: Aspose.SVG for .NET API 参考
-description: Device 财产. 获取渲染选项
+title: "Device-2.Options"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device Options 属性。获取渲染选项"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.svg.rendering/device-2/options/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property
+## Device<TGraphicContext,TRenderingOptions>.Options property
 
 获取渲染选项。
 
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.rendering/device-2/options/
 public TRenderingOptions Options { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.SVG for .NET API 参考
-description: Metered 方法. 获得消费积分
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Metered GetConsumptionCredit 方法。获取消耗信用"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-获得消费积分
+获取使用额度
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -16,12 +16,10 @@ public static decimal GetConsumptionCredit()
 
 ### 返回值
 
-消费量
+消耗数量
 
-### 也可以看看
+### 另请参阅
 
 * class [Metered](../)
-* 命名空间 [Aspose.Svg](../../metered/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

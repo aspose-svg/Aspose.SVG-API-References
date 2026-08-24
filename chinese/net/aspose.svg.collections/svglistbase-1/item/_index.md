@@ -1,42 +1,40 @@
 ---
-title: SVGListBase1.Item
-second_title: Aspose.SVG for .NET API 参考
-description: SVGListBase 财产. 返回列表中的第 indexth 项
+title: "SVGListBase-1.Item"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGListBase Item 属性。返回列表中第 index 项。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.collections/svglistbase-1/item/
 ---
-## SVGListBase&lt;T&gt; indexer
+## SVGListBase<T> indexer
 
-返回列表中的第 indexth 项。
+返回列表中第 index 项。
 
 ```csharp
 public T this[ulong index] { get; set; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 列表中的索引。 |
+| 索引 | 列表中的索引。 |
 
 ### 返回值
 
-列表中第 index 个位置的存储对象。
+列表中第 index 位置存储的对象。
 
-### 适当的价值
+### Property Value
 
-列表中存储的项目类型。
+列表中存储的项的类型。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). 在无法修改列表时引发。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). 如果索引号大于或等于 numberOfItems 则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。当列表无法被修改时抛出此错误。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/)。如果索引号大于或等于 numberOfItems，则抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGListBase&lt;T&gt;](../)
-* 命名空间 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

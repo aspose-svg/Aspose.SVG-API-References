@@ -1,7 +1,7 @@
 ---
-title: ICSSStyleRule.Style
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSStyleRule 财产. 此规则集的声明块
+title: "ICSSStyleRule.Style"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSStyleRule Style 属性。此规则集的声明块。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/icssstylerule/style/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg.dom.css/icssstylerule/style/
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSStyleRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssstylerule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

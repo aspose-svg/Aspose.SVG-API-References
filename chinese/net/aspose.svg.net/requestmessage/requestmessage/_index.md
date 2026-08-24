@@ -1,48 +1,46 @@
 ---
-title: RequestMessage.RequestMessage
-second_title: Aspose.SVG for .NET API 参考
-description: RequestMessage 构造函数. 初始化一个新的实例RequestMessage类.
+title: "RequestMessage"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "RequestMessage 构造函数。初始化 RequestMessage 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/requestmessage/requestmessage/
 ---
-## RequestMessage(string) {#constructor_1}
+## RequestMessage(*string*) {#constructor_1}
 
-初始化一个新的实例[`RequestMessage`](../)类.
+初始化 [`RequestMessage`](../) 类的新实例。
 
 ```csharp
 public RequestMessage(string address)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| address | String | 请求地址。 |
+| 地址 | String | 请求地址。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [RequestMessage](../)
-* 命名空间 [Aspose.Svg.Net](../../requestmessage/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RequestMessage(Url) {#constructor}
+## RequestMessage(*[Url](../../../aspose.svg/url/)*) {#constructor}
 
-初始化一个新的实例[`RequestMessage`](../)类.
+初始化 [`RequestMessage`](../) 类的新实例。
 
 ```csharp
 public RequestMessage(Url uri)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| uri | Url | 请求网址。 |
+| URI | URL | 请求 URL。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* 命名空间 [Aspose.Svg.Net](../../requestmessage/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

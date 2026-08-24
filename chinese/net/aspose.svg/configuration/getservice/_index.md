@@ -1,33 +1,53 @@
 ---
-title: Configuration.GetService
-second_title: Aspose.SVG for .NET API 参考
-description: Configuration 方法. 获取请求的服务
+title: "Configuration.GetService"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Configuration GetService 方法。获取请求的服务"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/configuration/getservice/
 ---
-## Configuration.GetService&lt;TService&gt; method
+## GetService(*Type*) {#getservice}
 
 获取请求的服务。
 
 ```csharp
-public TService GetService<TService>()
-    where TService : class, IService
+public object GetService(Type serviceType)
 ```
 
-| 范围 | 描述 |
-| --- | --- |
-| TService | 要检索的服务类型。 |
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| serviceType | 类型 | 要检索的服务类型。 |
 
 ### 返回值
 
-如果可以找到服务的实例，或者无效的如果找不到
+如果找到服务，则返回该服务的实例；如果未找到，则返回 null。
 
-### 也可以看看
+### 另请参阅
 
-* interface [IService](../../../aspose.svg.services/iservice/)
 * class [Configuration](../)
-* 命名空间 [Aspose.Svg](../../configuration/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
+---
 
+## GetService<T>() {#getservice_1}
+
+获取请求的服务。
+
+```csharp
+public T GetService<T>()
+```
+
+| 参数 | 描述 |
+| --- | --- |
+| T | 要检索的服务类型。 |
+
+### 返回值
+
+如果找到服务，则返回该服务的实例；如果未找到，则返回 null。
+
+### 另请参阅
+
+* class [Configuration](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

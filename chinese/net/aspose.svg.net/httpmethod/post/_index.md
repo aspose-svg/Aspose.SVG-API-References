@@ -1,27 +1,25 @@
 ---
-title: HttpMethod.Post
-second_title: Aspose.SVG for .NET API 参考
-description: HttpMethod 财产. 代表一个HTTP POST协议方法
+title: "HttpMethod.Post"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "HttpMethod Post 属性。表示 HTTP POST 协议方法"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.net/httpmethod/post/
 ---
 ## HttpMethod.Post property
 
-代表一个HTTP POST协议方法。
+表示 HTTP POST 协议方法。
 
 ```csharp
 public static HttpMethod Post { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-HTTP POST 协议方法。
+该 HTTP POST 协议方法。
 
-### 也可以看看
+### 另请参阅
 
 * class [HttpMethod](../)
-* 命名空间 [Aspose.Svg.Net](../../httpmethod/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

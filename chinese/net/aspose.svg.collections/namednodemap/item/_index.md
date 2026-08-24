@@ -1,49 +1,49 @@
 ---
-title: NamedNodeMap.Item
-second_title: Aspose.SVG for .NET API 参考
-description: NamedNodeMap 财产. 返回地图中的第 index 个项目如果索引大于或等于此映射中的节点数则返回 null.
+title: "NamedNodeMap.Item"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "NamedNodeMap Item 属性。返回映射中索引位置的项。如果索引大于或等于此映射中的节点数，则返回 null。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.collections/namednodemap/item/
 ---
 ## NamedNodeMap indexer (1 of 2)
 
-返回地图中的第 index 个项目。如果索引大于或等于此映射中的节点数，则返回 null.
+返回映射中索引位置的项。如果索引大于或等于此映像中的节点数，则返回 null。
 
 ```csharp
 public Attr this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| 索引 | 索引。 |
 
 ### 返回值
 
 返回节点。
 
-### 适当的价值
+### Property Value
 
-的[`Attr`](../../../aspose.svg.dom/attr/) .
+该 [`Attr`](../../../aspose.svg.dom/attr/).
 
-### 也可以看看
+### 另请参阅
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* 命名空间 [Aspose.Svg.Collections](../../namednodemap/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## NamedNodeMap indexer (2 of 2)
 
-获取[`Attr`](../../../aspose.svg.dom/attr/)具有指定名称.
+获取具有指定名称的 [`Attr`](../../../aspose.svg.dom/attr/)。
 
 ```csharp
 public Attr this[string name] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
 | name | 属性名称。 |
 
@@ -51,15 +51,13 @@ public Attr this[string name] { get; }
 
 返回节点。
 
-### 适当的价值
+### Property Value
 
-的[`Attr`](../../../aspose.svg.dom/attr/) .
+该 [`Attr`](../../../aspose.svg.dom/attr/).
 
-### 也可以看看
+### 另请参阅
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* 命名空间 [Aspose.Svg.Collections](../../namednodemap/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

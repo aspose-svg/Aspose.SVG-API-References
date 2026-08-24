@@ -1,31 +1,29 @@
 ---
-title: Text.SplitText
-second_title: Aspose.SVG for .NET API 参考
-description: Text 方法. 将此节点分成指定偏移处的两个节点将它们作为兄弟节点保留在树中
+title: "Text.SplitText"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Text SplitText 方法。将此节点在指定的偏移处拆分为两个节点，并保持它们在树中作为兄弟节点。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom/text/splittext/
 ---
 ## Text.SplitText method
 
-将此节点分成指定偏移处的两个节点，将它们作为兄弟节点保留在树中。
+在指定偏移处将此节点拆分为两个节点，保持它们在树中作为兄弟节点。
 
 ```csharp
 public Text SplitText(int offset)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | offset | Int32 | 偏移量。 |
 
 ### 返回值
 
-的[`Text`](../) .
+该 [`Text`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * class [Text](../)
-* 命名空间 [Aspose.Svg.Dom](../../text/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

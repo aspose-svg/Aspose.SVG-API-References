@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.MetaKey
-second_title: Aspose.SVG for .NET API 参考
-description: KeyboardEvent 财产. 如果元 Meta 键修饰符处于活动状态则为真
+title: "KeyboardEvent.MetaKey"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "KeyboardEvent MetaKey 属性。若 meta 元键修饰符处于激活状态则为 true。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.events/keyboardevent/metakey/
 ---
 ## KeyboardEvent.MetaKey property
 
-如果元 (Meta) 键修饰符处于活动状态则为真。
+如果 meta (Meta) 键修饰符处于激活状态，则为 true。
 
 ```csharp
 public bool MetaKey { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果是元；否则，`错误的` .
+`true` 如果是 Meta；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [KeyboardEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

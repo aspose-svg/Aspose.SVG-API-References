@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Parent
-second_title: Aspose.SVG for .NET API 参考
-description: IBrowsingContext 财产. 获取父上下文如果有
+title: "IBrowsingContext.Parent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IBrowsingContext Parent 属性。获取父上下文（如果有）。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom/ibrowsingcontext/parent/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom/ibrowsingcontext/parent/
 public IBrowsingContext Parent { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-父母.
+父对象。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IBrowsingContext](../)
-* 命名空间 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

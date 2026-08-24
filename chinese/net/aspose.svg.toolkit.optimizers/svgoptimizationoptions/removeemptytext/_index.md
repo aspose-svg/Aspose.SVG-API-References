@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveEmptyText
-second_title: Aspose.SVG for .NET API 参考
-description: SVGOptimizationOptions 财产. 获取或设置删除空文本元素的选项默认情况下为真
+title: "SVGOptimizationOptions.RemoveEmptyText"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGOptimizationOptions RemoveEmptyText 属性。获取或设置删除空的 Text 元素的选项。默认值为 true。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptytext/
 ---
 ## SVGOptimizationOptions.RemoveEmptyText property
 
-获取或设置删除空文本元素的选项。默认情况下为“真”。
+获取或设置删除空文本元素的选项。默认值为 'true'。
 
 ```csharp
 public bool RemoveEmptyText { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGOptimizationOptions](../)
-* 命名空间 [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

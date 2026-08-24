@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcAbs.SweepFlag
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegArcAbs 财产. 扫描标志参数的值
+title: "SVGPathSegArcAbs.SweepFlag"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathSegArcAbs SweepFlag 属性。sweep-flag 参数的值"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.paths/svgpathsegarcabs/sweepflag/
 ---
 ## SVGPathSegArcAbs.SweepFlag property
 
-扫描标志参数的值。
+sweep-flag 参数的取值。
 
 ```csharp
 public bool SweepFlag { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-扫描标志参数。
+sweep-flag 参数。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegArcAbs](../)
-* 命名空间 [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

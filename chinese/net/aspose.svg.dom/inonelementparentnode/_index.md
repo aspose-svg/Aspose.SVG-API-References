@@ -1,14 +1,14 @@
 ---
-title: Interface INonElementParentNode
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.INonElementParentNode 界面. 定义IParentNode不是元素类型.
+title: "INonElementParentNode 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.INonElementParentNode 接口。定义非 Element 类型的 IParentNode。"
 type: docs
-weight: 1090
+weight: 3070
 url: /zh/net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
 
-定义[`IParentNode`](../iparentnode/)不是元素类型.
+定义非 Element 类型的 [`IParentNode`](../iparentnode/)。
 
 ```csharp
 public interface INonElementParentNode
@@ -16,13 +16,11 @@ public interface INonElementParentNode
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(string) | 返回 ID 为 elementId. 的节点后代中的第一个元素 |
+| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(*string*) | 返回节点后代中 ID 为 elementId 的第一个元素。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

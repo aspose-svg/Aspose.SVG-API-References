@@ -1,9 +1,9 @@
 ---
-title: Interface ICSSStyleRule
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Css.ICSSStyleRule 界面. CSSStyleRule 接口表示 CSS 样式表中的单个规则集
+title: "ICSSStyleRule 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Css.ICSSStyleRule 接口。CSSStyleRule 接口表示 CSS 样式表中的单个规则集。"
 type: docs
-weight: 650
+weight: 2650
 url: /zh/net/aspose.svg.dom.css/icssstylerule/
 ---
 ## ICSSStyleRule interface
@@ -14,17 +14,15 @@ CSSStyleRule 接口表示 CSS 样式表中的单个规则集。
 public interface ICSSStyleRule : ICSSRule
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SelectorText](../../aspose.svg.dom.css/icssstylerule/selectortext/) { get; } | 规则集选择器的文本表示。该实现可能在解析选择器时删除了无关紧要的空格。 |
+| [SelectorText](../../aspose.svg.dom.css/icssstylerule/selectortext/) { get; } | 规则集选择器的文本表示。实现可能在解析选择器时已去除无关的空白字符。 |
 | [Style](../../aspose.svg.dom.css/icssstylerule/style/) { get; } | 此规则集的声明块。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSRule](../icssrule/)
-* 命名空间 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

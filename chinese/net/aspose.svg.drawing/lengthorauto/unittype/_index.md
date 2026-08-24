@@ -1,28 +1,26 @@
 ---
-title: LengthOrAuto.UnitType
-second_title: Aspose.SVG for .NET API 参考
-description: LengthOrAuto 财产. 获取单位类型Unit .
+title: "LengthOrAuto.UnitType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "LengthOrAuto UnitType 属性。获取 Unit 的单位类型"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/lengthorauto/unittype/
 ---
 ## LengthOrAuto.UnitType property
 
-获取单位类型[`Unit`](../../unit/) .
+获取 [`Unit`](../../unit/) 的单位类型。
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-单元的类型。
+单位的类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../../unittype/)
 * class [LengthOrAuto](../)
-* 命名空间 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

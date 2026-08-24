@@ -1,135 +1,133 @@
 ---
-title: XpsDevice.XpsDevice
-second_title: Aspose.SVG for .NET API 参考
-description: XpsDevice 构造函数. 初始化一个新的实例XpsDevice类.
+title: "XpsDevice"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "XpsDevice 构造函数。初始化 XpsDevice 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
-## XpsDevice(ICreateStreamProvider) {#constructor}
+## XpsDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-初始化一个新的实例[`XpsDevice`](../)类.
+初始化 [`XpsDevice`](../) 类的新实例。
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | 流提供者。 |
+| streamProvider | ICreateStreamProvider | 流提供程序。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-初始化一个新的实例[`XpsDevice`](../)按渲染选项和流提供程序分类。
+通过渲染选项和流提供程序初始化 [`XpsDevice`](../) 类的新实例。
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | options | XpsRenderingOptions | 渲染选项。 |
-| streamProvider | ICreateStreamProvider | 实现的对象[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)界面 |
+| streamProvider | ICreateStreamProvider | 实现 [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) 接口的对象 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(string) {#constructor_5}
+## XpsDevice(*string*) {#constructor_5}
 
-初始化一个新的实例[`XpsDevice`](../)类.
+初始化 [`XpsDevice`](../) 类的新实例。
 
 ```csharp
 public XpsDevice(string file)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | file | String | 输出文件名。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XpsDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), string*) {#constructor_3}
 
-初始化一个新的实例[`XpsDevice`](../)按渲染选项和输出文件名分类。
+通过渲染选项和输出文件名初始化 [`XpsDevice`](../) 类的新实例。
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | options | XpsRenderingOptions | 渲染选项。 |
 | file | String | 输出文件名。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(Stream) {#constructor_4}
+## XpsDevice(*Stream*) {#constructor_4}
 
-初始化一个新的实例[`XpsDevice`](../)类.
+初始化 [`XpsDevice`](../) 类的新实例。
 
 ```csharp
 public XpsDevice(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流。 |
+| 流 | Stream | 流。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XpsDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), Stream*) {#constructor_2}
 
-初始化一个新的实例[`XpsDevice`](../)按渲染选项和输出流分类。
+通过渲染选项和输出流初始化 [`XpsDevice`](../) 类的新实例。
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | options | XpsRenderingOptions | 渲染选项。 |
-| stream | Stream | 输出流。 |
+| 流 | Stream | 输出流。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* 命名空间 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

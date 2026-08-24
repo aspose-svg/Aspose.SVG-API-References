@@ -1,32 +1,30 @@
 ---
-title: UnitType.op_Inequality
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 方法. 判断指定的两个是否UnitType值不相等
+title: "UnitType.op_Inequality"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType op_Inequality 方法。确定两个指定的 UnitType 值是否不相等"
 type: docs
 weight: 370
 url: /zh/net/aspose.svg.drawing/unittype/op_inequality/
 ---
 ## UnitType Inequality operator
 
-判断指定的两个是否[`UnitType`](../)值不相等。
+确定两个指定的 [`UnitType`](../) 值是否不相等。
 
 ```csharp
 public static bool operator !=(UnitType first, UnitType second)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| first | UnitType | 首先[`UnitType`](../)值进行比较。 |
-| second | UnitType | 第二[`UnitType`](../)值进行比较。 |
+| first | UnitType | 要比较的第一个 [`UnitType`](../) 值。 |
+| second | UnitType | 要比较的第二个 [`UnitType`](../) 值。 |
 
 ### 返回值
 
-`真的`如果两者[`UnitType`](../)不相等；否则，`错误的` .
+`true` 如果两个 [`UnitType`](../) 不相等；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

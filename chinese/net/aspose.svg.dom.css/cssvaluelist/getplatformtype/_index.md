@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.GetPlatformType
-second_title: Aspose.SVG for .NET API 参考
-description: CSSValueList 方法. 此方法用于检索 ECMAScript 对象Type .
+title: "CSSValueList.GetPlatformType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSValueList GetPlatformType 方法。此方法用于检索 ECMAScript 对象类型。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom.css/cssvaluelist/getplatformtype/
 ---
 ## CSSValueList.GetPlatformType method
 
-此方法用于检索 ECMAScript 对象Type .
+此方法用于检索 ECMAScript 对象的类型。
 
 ```csharp
 public override Type GetPlatformType()
@@ -16,12 +16,10 @@ public override Type GetPlatformType()
 
 ### 返回值
 
-ECMAScript 对象Type .
+ECMAScript 对象类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSValueList](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

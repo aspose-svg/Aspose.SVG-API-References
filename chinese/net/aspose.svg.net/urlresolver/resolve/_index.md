@@ -1,33 +1,31 @@
 ---
-title: UrlResolver.Resolve
-second_title: Aspose.SVG for .NET API 参考
-description: UrlResolver 方法. 从基本 URI 和相对 URI 中解析出绝对 URI
+title: "UrlResolver.Resolve"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UrlResolver Resolve 方法。解析基 URI 和相对 URI 以获得绝对 URI"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.net/urlresolver/resolve/
 ---
 ## UrlResolver.Resolve method
 
-从基本 URI 和相对 URI 中解析出绝对 URI。
+从基准 URI 和相对 URI 解析出绝对 URI。
 
 ```csharp
 public virtual Url Resolve(string baseUri, string relativeUri)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| baseUri | String | 基本 URI。 |
+| baseUri | String | 基 URI。 |
 | relativeUri | String | 相对 URI。 |
 
 ### 返回值
 
 绝对 URI
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../../../aspose.svg/url/)
 * class [UrlResolver](../)
-* 命名空间 [Aspose.Svg.Net](../../urlresolver/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

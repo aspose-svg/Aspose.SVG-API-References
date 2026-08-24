@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PageBreakInside
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 pagebreakinside 属性定义
+title: "ICSS2Properties.PageBreakInside"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties PageBreakInside 属性。请参阅 CSS2 中的 page-break-inside 属性定义"
 type: docs
-weight: 880
+weight: 910
 url: /zh/net/aspose.svg.dom.css/icss2properties/pagebreakinside/
 ---
 ## ICSS2Properties.PageBreakInside property
 
-参见 CSS2 中的 page-break-inside 属性定义。
+请参阅 CSS2 中的 page-break-inside 属性定义。
 
 ```csharp
 public string PageBreakInside { get; set; }
@@ -18,10 +18,8 @@ public string PageBreakInside { get; set; }
 
 page-break-inside 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

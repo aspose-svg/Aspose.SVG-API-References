@@ -1,28 +1,26 @@
 ---
-title: SVGSymbolElement.PreserveAspectRatio
-second_title: Aspose.SVG for .NET API 参考
-description: SVGSymbolElement 财产. 对应于给定元素上的属性preserveAspectRatio
+title: "SVGSymbolElement.PreserveAspectRatio"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGSymbolElement PreserveAspectRatio 属性。对应于给定元素上的 preserveAspectRatio 属性"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgsymbolelement/preserveaspectratio/
 ---
 ## SVGSymbolElement.PreserveAspectRatio property
 
-对应于给定元素上的属性“preserveAspectRatio”。
+对应给定元素的属性 ‘preserveAspectRatio’。
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定元素的“preserveAspectRatio”。
+给定元素的 ‘preserveAspectRatio’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGSymbolElement](../)
-* 命名空间 [Aspose.Svg](../../svgsymbolelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

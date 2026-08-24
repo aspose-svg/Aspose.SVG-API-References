@@ -1,9 +1,9 @@
 ---
-title: Attr.NodeName
-second_title: Aspose.SVG for .NET API 参考
-description: Attr 财产. 此节点的名称取决于其类型
+title: "Attr.NodeName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Attr NodeName属性。此节点的名称取决于其类型"
 type: docs
-weight: 50
+weight: 40
 url: /zh/net/aspose.svg.dom/attr/nodename/
 ---
 ## Attr.NodeName property
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom/attr/nodename/
 public override string NodeName { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 节点的名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [Attr](../)
-* 命名空间 [Aspose.Svg.Dom](../../attr/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

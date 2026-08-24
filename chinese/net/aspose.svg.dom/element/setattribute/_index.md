@@ -1,28 +1,26 @@
 ---
-title: Element.SetAttribute
-second_title: Aspose.SVG for .NET API 参考
-description: Element 方法. 添加新属性如果具有该名称的属性已存在于元素中则其值将更改为值 parameter 的值
+title: "Element.SetAttribute"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element SetAttribute 方法。添加一个新属性。如果元素中已经存在同名属性，则其值将更改为 value 参数的值。"
 type: docs
 weight: 400
 url: /zh/net/aspose.svg.dom/element/setattribute/
 ---
 ## Element.SetAttribute method
 
-添加新属性。如果具有该名称的属性已存在于元素中，则其值将更改为值 parameter 的值
+添加新属性。如果元素中已存在具有该名称的属性，则其值将更改为 value 参数的值。
 
 ```csharp
-public void SetAttribute(string name, string value)
+public void SetAttribute(string qualifiedName, string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 属性名称。 |
-| value | String | 价值。 |
+| qualifiedName | String | 属性名称。 |
+| value | String | 该值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

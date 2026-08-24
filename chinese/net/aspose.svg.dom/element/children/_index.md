@@ -1,7 +1,7 @@
 ---
-title: Element.Children
-second_title: Aspose.SVG for .NET API 参考
-description: Element 财产. 返回当前元素的子元素
+title: "Element.Children"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element Children 属性。返回当前元素的子元素"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom/element/children/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.dom/element/children/
 public HTMLCollection Children { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-儿童收藏
+子元素集合
 
-### 也可以看看
+### 另请参阅
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

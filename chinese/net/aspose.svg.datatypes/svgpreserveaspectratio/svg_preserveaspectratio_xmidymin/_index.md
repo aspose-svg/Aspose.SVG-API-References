@@ -1,23 +1,21 @@
 ---
-title: SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMIN
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPreserveAspectRatio 场地. 对应于属性preserveAspectRatio的值xMidYMin
+title: "SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMIN"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPreserveAspectRatio SVG_PRESERVEASPECTRATIO_XMIDYMIN 字段。对应属性 preserveAspectRatio 的值 xMidYMin"
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymin/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMIN field
 
-对应于属性“preserveAspectRatio”的值“xMidYMin”。
+对应属性 ‘preserveAspectRatio’ 的值为 'xMidYMin'。
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_XMIDYMIN;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPreserveAspectRatio](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

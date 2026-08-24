@@ -1,22 +1,22 @@
 ---
-title: Class SVGPointList
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.DataTypes.SVGPointList 班级. 此接口定义了 SVGPoint 对象列表
+title: "SVGPointList 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.DataTypes.SVGPointList 类。此接口定义了 SVGPoint 对象的列表"
 type: docs
-weight: 280
+weight: 2270
 url: /zh/net/aspose.svg.datatypes/svgpointlist/
 ---
 ## SVGPointList class
 
-此接口定义了 SVGPoint 对象列表。
+此接口定义了 SVGPoint 对象的列表。
 
 ```csharp
 public class SVGPointList : SVGListBase<SVGPoint>
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } |  |
 | [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } |  |
@@ -24,25 +24,23 @@ public class SVGPointList : SVGListBase<SVGPoint>
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(SVGPoint) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*[SVGPoint](../svgpoint/)*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 释放非托管和 - 可选 - 托管资源。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 释放非托管资源以及（可选的）托管资源。 |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | 此方法用于检索 ECMAScript 对象Type . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(SVGPoint) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(SVGPoint, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(SVGPoint, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgpointlist/tostring/)() | 返回一个String代表这个实例. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | 此方法用于检索 ECMAScript 对象的类型。 |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGPoint](../svgpoint/)*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| override [ToString](../../aspose.svg.datatypes/svgpointlist/tostring/)() | 返回表示此实例的字符串。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
 * class [SVGPoint](../svgpoint/)
-* 命名空间 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,9 +1,9 @@
 ---
-title: Interface IRuntimeService
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Services.IRuntimeService 界面. 此服务用于配置运行时相关属性
+title: "IRuntimeService 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Services.IRuntimeService 接口。此服务用于配置运行时相关属性。"
 type: docs
-weight: 3730
+weight: 5860
 url: /zh/net/aspose.svg.services/iruntimeservice/
 ---
 ## IRuntimeService interface
@@ -11,19 +11,16 @@ url: /zh/net/aspose.svg.services/iruntimeservice/
 此服务用于配置运行时相关属性。
 
 ```csharp
-public interface IRuntimeService : IService
+public interface IRuntimeService
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [JavaScriptTimeout](../../aspose.svg.services/iruntimeservice/javascripttimeout/) { get; set; } | 获取或设置TimeSpan这限制了 JavaScript 的执行时间。如果脚本执行的时间比提供的时间长TimeSpan 它将被取消。您可以通过设置指定无限超时TimeSpan等于 -1 毫秒。默认值为 1 分钟。 |
+| [JavaScriptTimeout](../../aspose.svg.services/iruntimeservice/javascripttimeout/) { get; set; } | 获取或设置限制 JavaScript 执行时间的 TimeSpan。如果脚本执行时间超过提供的 TimeSpan，将被取消。您可以通过将 TimeSpan 设置为 -1 毫秒来指定无限超时。默认值为 1 分钟。 |
 
-### 也可以看看
+### 另请参阅
 
-* interface [IService](../iservice/)
-* 命名空间 [Aspose.Svg.Services](../../aspose.svg.services/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

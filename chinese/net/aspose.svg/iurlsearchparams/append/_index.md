@@ -1,28 +1,26 @@
 ---
-title: IUrlSearchParams.Append
-second_title: Aspose.SVG for .NET API 参考
-description: IUrlSearchParams 方法. 附加一个新的名称值对其名称是姓名价值是价值 .
+title: "IUrlSearchParams.Append"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IUrlSearchParams Append 方法。追加一个新名称-值对，其名称为 name，值为 value"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
 
-附加一个新的名称-值对，其名称是`姓名`价值是`价值` .
+追加一个新名称-值对，其名称为 `name`，值为 `value`。
 
 ```csharp
 public void Append(string name, string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 新名称-值对的名称。 |
 | value | String | 新名称-值对的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IUrlSearchParams](../)
-* 命名空间 [Aspose.Svg](../../iurlsearchparams/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Color.ToName
-second_title: Aspose.SVG for .NET API 参考
-description: Color 方法. 如果颜色与 CSS 命名颜色列表中的颜色匹配则返回颜色名称或者返回空字符串
+title: "Color.ToName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color ToName 方法。返回颜色的名称，如果它匹配 CSS 命名颜色列表中的颜色，则返回空字符串。"
 type: docs
 weight: 370
 url: /zh/net/aspose.svg.drawing/color/toname/
 ---
 ## Color.ToName method
 
-如果颜色与 CSS 命名颜色列表中的颜色匹配，则返回颜色名称，或者返回空字符串。
+如果颜色匹配 CSS 命名颜色列表中的颜色，则返回该颜色的名称；否则返回空字符串。
 
 ```csharp
 public string ToName()
@@ -18,10 +18,8 @@ public string ToName()
 
 颜色名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

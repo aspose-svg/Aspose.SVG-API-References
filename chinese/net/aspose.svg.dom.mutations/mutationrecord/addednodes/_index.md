@@ -1,7 +1,7 @@
 ---
-title: MutationRecord.AddedNodes
-second_title: Aspose.SVG for .NET API 参考
-description: MutationRecord 财产. 返回添加的节点
+title: "MutationRecord.AddedNodes"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationRecord AddedNodes 属性。返回已添加的节点"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
 public NodeList AddedNodes { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-添加的节点。
+已添加的节点。
 
-### 也可以看看
+### 另请参阅
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

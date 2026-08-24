@@ -1,14 +1,14 @@
 ---
-title: Color.GetComplementary
-second_title: Aspose.SVG for .NET API 参考
-description: Color 方法. 返回与原始色轮相反一侧的新颜色
+title: "Color.GetComplementary"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color GetComplementary 方法。返回一个位于色轮相对侧的、与原始颜色相对的新颜色"
 type: docs
 weight: 310
 url: /zh/net/aspose.svg.drawing/color/getcomplementary/
 ---
 ## Color.GetComplementary method
 
-返回与原始色轮相反一侧的新颜色。
+返回一个新颜色，该颜色位于原始颜色的色轮相对侧。
 
 ```csharp
 public Color GetComplementary()
@@ -16,12 +16,10 @@ public Color GetComplementary()
 
 ### 返回值
 
-的一个新实例[`Color`](../)班级。
+一个新的 [`Color`](../) 类实例。
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

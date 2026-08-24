@@ -1,23 +1,21 @@
 ---
-title: ErrorEvent.ColNo
-second_title: Aspose.SVG for .NET API 参考
-description: ErrorEvent 财产. colno 属性必须返回它被初始化的值创建对象时必须将此属性初始化为零它表示脚本中发生错误的列号
+title: "ErrorEvent.ColNo"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ErrorEvent ColNo 属性。colno 属性必须返回其初始化时的值。对象创建时，此属性必须初始化为零。它表示脚本中错误发生的列号。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.events/errorevent/colno/
 ---
 ## ErrorEvent.ColNo property
 
-colno 属性必须返回它被初始化的值。创建对象时，必须将此属性初始化为零。它表示脚本中发生错误的列号。
+colno 属性必须返回其初始化时的值。对象创建时，该属性必须初始化为零。它表示脚本中错误发生的列号。
 
 ```csharp
 public uint ColNo { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ErrorEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

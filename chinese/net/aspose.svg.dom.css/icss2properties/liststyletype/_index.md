@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.ListStyleType
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中liststyletype属性定义.
+title: "ICSS2Properties.ListStyleType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties ListStyleType 属性。请参阅 CSS2 中 list-style-type 属性的定义"
 type: docs
-weight: 620
+weight: 650
 url: /zh/net/aspose.svg.dom.css/icss2properties/liststyletype/
 ---
 ## ICSS2Properties.ListStyleType property
 
-见CSS2中list-style-type属性定义.
+请参阅 CSS2 中的 list-style-type 属性定义。
 
 ```csharp
 public string ListStyleType { get; set; }
@@ -16,12 +16,10 @@ public string ListStyleType { get; set; }
 
 ### 返回值
 
-列表样式类型属性
+list-style-type 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

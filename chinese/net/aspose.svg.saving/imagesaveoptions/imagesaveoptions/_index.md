@@ -1,44 +1,42 @@
 ---
-title: ImageSaveOptions.ImageSaveOptions
-second_title: Aspose.SVG for .NET API 参考
-description: ImageSaveOptions 构造函数. 初始化一个新的实例ImageSaveOptions班级Png将用作默认图像格式
+title: "ImageSaveOptions"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ImageSaveOptions 构造函数。初始化 ImageSaveOptions 类的新实例，默认图像格式将使用 Png"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.saving/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}
 
-初始化一个新的实例[`ImageSaveOptions`](../)班级;Png将用作默认图像格式。
+初始化 [`ImageSaveOptions`](../) 类的新实例；默认图像格式将使用 Png。
 
 ```csharp
 public ImageSaveOptions()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageSaveOptions](../)
-* 命名空间 [Aspose.Svg.Saving](../../imagesaveoptions/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageSaveOptions(ImageFormat) {#constructor_1}
+## ImageSaveOptions(*[ImageFormat](../../../aspose.svg.rendering.image/imageformat/)*) {#constructor_1}
 
-图像格式[`ImageFormat`](../../../aspose.svg.rendering.image/imageformat/)基于 initialization
+基于初始化的图像格式 [`ImageFormat`](../../../aspose.svg.rendering.image/imageformat/)
 
 ```csharp
 public ImageSaveOptions(ImageFormat format)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| format | ImageFormat | 图像格式 |
+| 格式 | ImageFormat | 图像格式 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [ImageFormat](../../../aspose.svg.rendering.image/imageformat/)
 * class [ImageSaveOptions](../)
-* 命名空间 [Aspose.Svg.Saving](../../imagesaveoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

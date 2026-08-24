@@ -1,7 +1,7 @@
 ---
-title: DocumentFragment.Children
-second_title: Aspose.SVG for .NET API 参考
-description: DocumentFragment 财产. 返回当前元素的子元素
+title: "DocumentFragment.Children"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DocumentFragment Children 属性。返回当前元素的子元素。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom/documentfragment/children/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.dom/documentfragment/children/
 public HTMLCollection Children { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-儿童收藏
+子元素集合
 
-### 也可以看看
+### 另请参阅
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [DocumentFragment](../)
-* 命名空间 [Aspose.Svg.Dom](../../documentfragment/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

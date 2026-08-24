@@ -1,7 +1,7 @@
 ---
-title: ContentDispositionHeaderValue.ContentDispositionHeaderValue
-second_title: Aspose.SVG for .NET API 参考
-description: ContentDispositionHeaderValue 构造函数. 创建此处置类型的新实例
+title: "ContentDispositionHeaderValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ContentDispositionHeaderValue 构造函数。创建此处置类型的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net.headers/contentdispositionheadervalue/contentdispositionheadervalue/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.net.headers/contentdispositionheadervalue/contentdisposi
 public ContentDispositionHeaderValue(string dispositionType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dispositionType | String | 配置类型 |
+| dispositionType | String | 处置类型 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ContentDispositionHeaderValue](../)
-* 命名空间 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

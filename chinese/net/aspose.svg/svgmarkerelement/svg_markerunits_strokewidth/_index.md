@@ -1,23 +1,21 @@
 ---
-title: SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH
-second_title: Aspose.SVG for .NET API 参考
-description: SVGMarkerElement 场地. 属性markerUnits的值为strokeWidth
+title: "SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGMarkerElement SVG_MARKERUNITS_STROKEWIDTH 字段。属性 markerUnits 的值为 strokeWidth。"
 type: docs
 weight: 120
 url: /zh/net/aspose.svg/svgmarkerelement/svg_markerunits_strokewidth/
 ---
 ## SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH field
 
-属性“markerUnits”的值为“strokeWidth”。
+属性 ‘markerUnits’ 的值为 'strokeWidth'。
 
 ```csharp
 public const ushort SVG_MARKERUNITS_STROKEWIDTH;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGMarkerElement](../)
-* 命名空间 [Aspose.Svg](../../svgmarkerelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

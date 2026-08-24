@@ -1,38 +1,36 @@
 ---
-title: SVGListBase1.InsertItemBefore
-second_title: Aspose.SVG for .NET API 参考
-description: SVGListBase 方法. 在列表的指定位置插入一个新项目第一项是数字 0.
+title: "SVGListBase-1.InsertItemBefore"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGListBase InsertItemBefore 方法。在列表中指定位置插入一个新项。第一个项的编号为 0"
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.collections/svglistbase-1/insertitembefore/
 ---
-## SVGListBase&lt;T&gt;.InsertItemBefore method
+## SVGListBase<T>.InsertItemBefore method
 
-在列表的指定位置插入一个新项目。第一项是数字 0.
+在列表中指定位置插入一个新项。第一个项的编号为 0。
 
 ```csharp
 public T InsertItemBefore(T newItem, ulong index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| newItem | T | 要插入到列表中的项目。 |
-| index | UInt64 | 要在其前插入新项的项的索引。第一项的编号为 0。如果索引等于 0，则将新项插入到列表的前面。如果索引大于或等于 numberOfItems，则新项目将附加到列表的末尾。 |
+| newItem | T | 要插入到列表中的项。 |
+| 索引 | UInt64 | 要在其前插入新项的项的索引。第一个项的编号为 0。如果索引等于 0，则新项插入到列表前端。如果索引大于或等于 numberOfItems，则新项追加到列表末尾。 |
 
 ### 返回值
 
-插入的项目。
+插入的项。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). 无法修改列表时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。当列表无法被修改时抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGListBase&lt;T&gt;](../)
-* 命名空间 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

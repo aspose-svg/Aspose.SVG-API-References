@@ -1,7 +1,7 @@
 ---
-title: SVGStyleElement.Sheet
-second_title: Aspose.SVG for .NET API 参考
-description: SVGStyleElement 财产. 获取关联的样式表
+title: "SVGStyleElement.Sheet"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGStyleElement Sheet 属性。获取关联的样式表"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgstyleelement/sheet/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg/svgstyleelement/sheet/
 public IStyleSheet Sheet { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IStyleSheet](../../../aspose.svg.dom.css/istylesheet/)
 * class [SVGStyleElement](../)
-* 命名空间 [Aspose.Svg](../../svgstyleelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

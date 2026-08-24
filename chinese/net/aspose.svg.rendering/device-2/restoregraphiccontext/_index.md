@@ -1,23 +1,21 @@
 ---
-title: Device2.RestoreGraphicContext
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 通过从堆栈中弹出它来将整个图形上下文恢复到它以前的值
+title: "Device-2.RestoreGraphicContext"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device RestoreGraphicContext 方法。通过从堆栈弹出，将整个图形上下文恢复到先前的值"
 type: docs
-weight: 200
+weight: 230
 url: /zh/net/aspose.svg.rendering/device-2/restoregraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.RestoreGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.RestoreGraphicContext method
 
-通过从堆栈中弹出它来将整个图形上下文恢复到它以前的值。
+通过从堆栈弹出，恢复整个图形上下文到其先前的值。
 
 ```csharp
 public virtual void RestoreGraphicContext()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

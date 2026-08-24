@@ -1,28 +1,26 @@
 ---
-title: Configuration.Security
-second_title: Aspose.SVG for .NET API 参考
-description: Configuration 财产. 获取或设置配置的沙盒标志
+title: "Configuration.Security"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Configuration Security 属性。此属性允许您对框架中加载的内容设置多项限制，例如阻止表单和脚本。请参阅有关沙箱的文章。"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.svg/configuration/security/
 ---
 ## Configuration.Security property
 
-获取或设置配置的沙盒标志。
+此属性允许您对框架中加载的内容设置多项限制，例如，阻止表单和脚本。请参阅关于 [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing) 的文章。
 
 ```csharp
 public Sandbox Security { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-安全性。
+一个 [`Sandbox`](../../sandbox/) 标志集是零个或多个标志的集合，用于限制潜在不受信任资源的能力。
 
-### 也可以看看
+### 另请参阅
 
 * enum [Sandbox](../../sandbox/)
 * class [Configuration](../)
-* 命名空间 [Aspose.Svg](../../configuration/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGScriptElement.Type
-second_title: Aspose.SVG for .NET API 参考
-description: SVGScriptElement 财产. 对应于给定脚本元素上的属性类型
+title: "SVGScriptElement.Type"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGScriptElement Type 属性。对应于给定 script 元素上的属性 type"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgscriptelement/type/
 ---
 ## SVGScriptElement.Type property
 
-对应于给定“脚本”元素上的属性“类型”。
+对应于给定 ‘script’ 元素的属性 ‘type’。
 
 ```csharp
 public string Type { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“脚本”元素的属性“类型”。
+给定 ‘script’ 元素的属性 ‘type’。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGScriptElement](../)
-* 命名空间 [Aspose.Svg](../../svgscriptelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vw
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量值是相对于视口宽度的 1 
+title: "UnitType.Vw"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Vw 字段。测量相对于视口宽度的 1 倍"
 type: docs
 weight: 300
 url: /zh/net/aspose.svg.drawing/unittype/vw/
 ---
 ## UnitType.Vw field
 
-测量值是相对于视口宽度的 1% *
+测量相对于视口宽度的 1%*
 
 ```csharp
 public static readonly UnitType Vw;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

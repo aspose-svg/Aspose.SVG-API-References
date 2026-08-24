@@ -1,23 +1,21 @@
 ---
-title: Node.CDATA_SECTION_NODE
-second_title: Aspose.SVG for .NET API 参考
-description: Node 场地. cdata 部分 node
+title: "Node.CDATA_SECTION_NODE"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node CDATA_SECTION_NODE 字段。CDATA 区段节点。"
 type: docs
-weight: 330
+weight: 310
 url: /zh/net/aspose.svg.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
 
-cdata 部分 node
+一个 CDATA 区段节点
 
 ```csharp
 public const ushort CDATA_SECTION_NODE;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

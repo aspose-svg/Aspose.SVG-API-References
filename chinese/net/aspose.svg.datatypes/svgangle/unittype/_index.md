@@ -1,27 +1,25 @@
 ---
-title: SVGAngle.UnitType
-second_title: Aspose.SVG for .NET API 参考
-description: SVGAngle 财产. 此接口上定义的 SVG_ANGLETYPE_ 常量之一指定的值类型
+title: "SVGAngle.UnitType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGAngle UnitType 属性。该值的类型由此接口上定义的 SVG_ANGLETYPE_ 常量之一指定。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svgangle/unittype/
 ---
 ## SVGAngle.UnitType property
 
-此接口上定义的 SVG_ANGLETYPE_* 常量之一指定的值类型。
+该值的类型由此接口上定义的 SVG_ANGLETYPE_* 常量之一指定。
 
 ```csharp
 public ushort UnitType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-单元的类型。
+单位的类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAngle](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgangle/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathExpression
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.XPath.IXPathExpression 界面. 的XPath表达式接口表示已解析和解析的 XPath 表达式
+title: "IXPathExpression 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.XPath.IXPathExpression 接口。XPathExpression 接口表示已解析并已求值的 XPath 表达式。"
 type: docs
-weight: 1320
+weight: 3320
 url: /zh/net/aspose.svg.dom.xpath/ixpathexpression/
 ---
 ## IXPathExpression interface
 
-的`XPath表达式`接口表示已解析和解析的 XPath 表达式。
+`XPathExpression` 接口表示已解析和已求值的 XPath 表达式。
 
 ```csharp
 public interface IXPathExpression
@@ -16,13 +16,11 @@ public interface IXPathExpression
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Evaluate](../../aspose.svg.dom.xpath/ixpathexpression/evaluate/)(Node, XPathResultType, object) | 计算此 XPath 表达式并返回结果。 |
+| [Evaluate](../../aspose.svg.dom.xpath/ixpathexpression/evaluate/)(*[Node](../../aspose.svg.dom/node/), [XPathResultType](../xpathresulttype/), object*) | 对该 XPath 表达式进行求值并返回结果。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

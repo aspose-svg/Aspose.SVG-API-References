@@ -1,37 +1,35 @@
 ---
-title: Class SVGNumber
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.DataTypes.SVGNumber 班级. 用于基本类型编号的属性
+title: "SVGNumber 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.DataTypes.SVGNumber 类。用于基本类型 number 的属性。"
 type: docs
-weight: 250
+weight: 2240
 url: /zh/net/aspose.svg.datatypes/svgnumber/
 ---
 ## SVGNumber class
 
-用于基本类型编号的属性。
+用于基本类型 number 的属性。
 
 ```csharp
 public class SVGNumber : SVGValueType
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Value](../../aspose.svg.datatypes/svgnumber/value/) { get; set; } | 给定属性的值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 释放非托管和 - 可选 - 托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | 此方法用于检索 ECMAScript 对象Type . |
-| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring/)() | 返回一个String代表这个实例. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 释放非托管资源以及（可选的）托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | 此方法用于检索 ECMAScript 对象的类型。 |
+| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring/)() | 返回表示此实例的字符串。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGValueType](../svgvaluetype/)
-* 命名空间 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

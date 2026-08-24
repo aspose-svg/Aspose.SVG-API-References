@@ -1,7 +1,7 @@
 ---
-title: DocumentType.PublicId
-second_title: Aspose.SVG for .NET API 参考
-description: DocumentType 财产. 外部子集的公共标识符
+title: "DocumentType.PublicId"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DocumentType PublicId 属性。外部子集的公共标识符。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom/documenttype/publicid/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom/documenttype/publicid/
 public string PublicId { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 公共标识符。
 
-### 也可以看看
+### 另请参阅
 
 * class [DocumentType](../)
-* 命名空间 [Aspose.Svg.Dom](../../documenttype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

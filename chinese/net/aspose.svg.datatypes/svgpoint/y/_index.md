@@ -1,33 +1,31 @@
 ---
-title: SVGPoint.Y
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPoint 财产. Y坐标.
+title: "SVGPoint.Y"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPoint Y 属性。Y 坐标"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.datatypes/svgpoint/y/
 ---
 ## SVGPoint.Y property
 
-Y坐标.
+Y 坐标。
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-Y坐标.
+Y 坐标。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . 如果 SVGPoint 对象是只读的，或者对应于只读的 DOM 属性，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。如果 SVGPoint 对象是只读的，或对应的 DOM 属性是只读的，则会引发此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPoint](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgpoint/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

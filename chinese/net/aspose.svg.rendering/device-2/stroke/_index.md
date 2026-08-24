@@ -1,23 +1,21 @@
 ---
-title: Device2.Stroke
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 沿当前路径画一条线描边线跟随路径中的每个直线或曲线段 以线段为中心边与其平行路径的每个子路径都被单独处理 此方法终止当前路径
+title: "Device-2.Stroke"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device Stroke 方法。沿当前路径描绘线条。描绘的线条沿路径中的每个直线或曲线段居中，且两侧与该段平行。路径的每个子路径会被单独处理。此方法会终止当前路径"
 type: docs
-weight: 220
+weight: 250
 url: /zh/net/aspose.svg.rendering/device-2/stroke/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Stroke method
+## Device<TGraphicContext,TRenderingOptions>.Stroke method
 
-沿当前路径画一条线。描边线跟随路径中的每个直线或曲线段， 以线段为中心，边与其平行。路径的每个子路径都被单独处理。 此方法终止当前路径。
+沿当前路径描边。描边线沿路径中的每条直线或曲线段绘制，居中于该段，两侧平行。路径的每个子路径分别处理。此方法会终止当前路径。
 
 ```csharp
-public abstract void Stroke()
+public virtual void Stroke()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

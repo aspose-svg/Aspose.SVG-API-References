@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.ActiveDocument
-second_title: Aspose.SVG for .NET API 参考
-description: IBrowsingContext 财产. 获取当前文档
+title: "IBrowsingContext.ActiveDocument"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IBrowsingContext ActiveDocument 属性。获取当前文档。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/ibrowsingcontext/activedocument/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.dom/ibrowsingcontext/activedocument/
 public Document ActiveDocument { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 活动文档。
 
-### 也可以看看
+### 另请参阅
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* 命名空间 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

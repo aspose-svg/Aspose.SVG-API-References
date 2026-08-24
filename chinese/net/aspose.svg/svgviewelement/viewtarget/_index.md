@@ -1,28 +1,26 @@
 ---
-title: SVGViewElement.ViewTarget
-second_title: Aspose.SVG for .NET API 参考
-description: SVGViewElement 财产. 对应于给定视图元素上的属性viewTarget DOMString 值列表其中包含viewTarget属性中列出的名称每个 DOMString 值都可以使用 getElementById 方法调用与相应的元素相关联
+title: "SVGViewElement.ViewTarget"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGViewElement ViewTarget 属性。对应于给定视图元素上的 viewTarget 属性。一个包含 viewTarget 属性中列出的名称的 DOMString 值列表。每个 DOMString 值可通过调用 getElementById 方法与相应的元素关联"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgviewelement/viewtarget/
 ---
 ## SVGViewElement.ViewTarget property
 
-对应于给定“视图”元素上的属性“viewTarget”。 DOMString 值列表，其中包含“viewTarget”属性中列出的名称。每个 DOMString 值都可以使用 getElementById() 方法调用与相应的元素相关联。
+对应给定 ‘view’ 元素的属性 ‘viewTarget’。一个 DOMString 值列表，包含在 ‘viewTarget’ 属性中列出的名称。每个 DOMString 值可通过调用 getElementById() 方法与相应的元素关联。
 
 ```csharp
 public SVGStringList ViewTarget { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“视图”元素的属性“viewTarget”。
+给定 ‘view’ 元素的属性 ‘viewTarget’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGViewElement](../)
-* 命名空间 [Aspose.Svg](../../svgviewelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

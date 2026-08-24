@@ -1,23 +1,21 @@
 ---
-title: Node.ELEMENT_NODE
-second_title: Aspose.SVG for .NET API 参考
-description: Node 场地. 一个元素 node
+title: "Node.ELEMENT_NODE"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node ELEMENT_NODE 字段。表示一个元素节点"
 type: docs
-weight: 380
+weight: 360
 url: /zh/net/aspose.svg.dom/node/element_node/
 ---
 ## Node.ELEMENT_NODE field
 
-一个元素 node
+一个元素节点
 
 ```csharp
 public const ushort ELEMENT_NODE;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

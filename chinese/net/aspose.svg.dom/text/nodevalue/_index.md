@@ -1,27 +1,25 @@
 ---
-title: Text.NodeValue
-second_title: Aspose.SVG for .NET API 参考
-description: Text 财产. 这个节点的值取决于它的类型
+title: "Text.NodeValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Text NodeValue 属性。此节点的值取决于其类型。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom/text/nodevalue/
 ---
 ## Text.NodeValue property
 
-这个节点的值，取决于它的类型。
+此节点的值，取决于其类型。
 
 ```csharp
 public override string NodeValue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 节点值。
 
-### 也可以看看
+### 另请参阅
 
 * class [Text](../)
-* 命名空间 [Aspose.Svg.Dom](../../text/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: GraphicContext.FontStyle
-second_title: Aspose.SVG for .NET API 参考
-description: GraphicContext 财产. 设置或获取文本字体样式
+title: "GraphicContext.FontStyle"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "GraphicContext FontStyle 属性。设置或获取文本字体样式"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.svg.rendering/graphiccontext/fontstyle/
 ---
 ## GraphicContext.FontStyle property
@@ -11,13 +11,12 @@ url: /zh/net/aspose.svg.rendering/graphiccontext/fontstyle/
 设置或获取文本字体样式。
 
 ```csharp
-public virtual FontStyle FontStyle { get; set; }
+public virtual WebFontStyle FontStyle { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
+* enum [WebFontStyle](../../../aspose.svg.drawing/webfontstyle/)
 * class [GraphicContext](../)
-* 命名空间 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

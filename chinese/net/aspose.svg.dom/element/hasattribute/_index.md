@@ -1,31 +1,29 @@
 ---
-title: Element.HasAttribute
-second_title: Aspose.SVG for .NET API 参考
-description: Element 方法. 当在此元素上指定具有给定名称的属性或具有默认值时返回 true否则返回 false
+title: "Element.HasAttribute"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element HasAttribute 方法。当在此元素上指定了具有给定名称的属性或具有默认值时返回 true，否则返回 false。"
 type: docs
 weight: 310
 url: /zh/net/aspose.svg.dom/element/hasattribute/
 ---
 ## Element.HasAttribute method
 
-当在此元素上指定具有给定名称的属性或具有默认值时返回 true，否则返回 false。
+当此元素上指定了具有给定名称的属性或该属性具有默认值时返回 true，否则返回 false。
 
 ```csharp
-public bool HasAttribute(string name)
+public bool HasAttribute(string qualifiedName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 属性名称。 |
+| qualifiedName | String | 属性名称。 |
 
 ### 返回值
 
-`真的`如果指定的名称具有属性；否则，`错误的` .
+`true` 如果指定的名称具有属性；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
