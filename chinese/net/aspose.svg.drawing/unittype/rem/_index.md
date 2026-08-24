@@ -1,23 +1,21 @@
 ---
-title: UnitType.Rem
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量值与根元素的字体大小有关
+title: "UnitType.Rem"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Rem 字段。测量相对于根元素的字体大小"
 type: docs
 weight: 240
 url: /zh/net/aspose.svg.drawing/unittype/rem/
 ---
 ## UnitType.Rem field
 
-测量值与根元素的字体大小有关。
+测量相对于根元素的 font-size。
 
 ```csharp
 public static readonly UnitType Rem;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

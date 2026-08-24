@@ -1,7 +1,7 @@
 ---
-title: Element.NodeType
-second_title: Aspose.SVG for .NET API 参考
-description: Element 财产. 表示底层对象类型的代码
+title: "Element.NodeType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element NodeType 属性。一个表示底层对象类型的代码"
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.dom/element/nodetype/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom/element/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-代表节点类型的代码。
+表示节点类型的代码。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

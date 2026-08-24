@@ -1,14 +1,14 @@
 ---
-title: CSSValue.ToString
-second_title: Aspose.SVG for .NET API 参考
-description: CSSValue 方法. 返回一个String代表这个实例.
+title: "CSSValue.ToString"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSValue ToString 方法。返回表示此实例的字符串。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom.css/cssvalue/tostring/
 ---
 ## CSSValue.ToString method
 
-返回一个String代表这个实例.
+返回表示此实例的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 返回值
 
-一个String代表这个实例.
+一个表示此实例的 String。
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssvalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

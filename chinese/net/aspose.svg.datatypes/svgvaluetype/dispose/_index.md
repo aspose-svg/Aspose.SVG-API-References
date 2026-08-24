@@ -1,23 +1,21 @@
 ---
-title: SVGValueType.Dispose
-second_title: Aspose.SVG for .NET API 参考
-description: SVGValueType 方法. 释放非托管和  可选  托管资源
+title: "SVGValueType.Dispose"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGValueType Dispose 方法。释放非托管资源和 - 可选地 - 托管资源"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svgvaluetype/dispose/
 ---
 ## SVGValueType.Dispose method
 
-释放非托管和 - 可选 - 托管资源。
+释放非托管资源以及（可选的）托管资源。
 
 ```csharp
 public void Dispose()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGValueType](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgvaluetype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

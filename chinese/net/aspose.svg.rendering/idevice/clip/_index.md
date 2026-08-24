@@ -1,27 +1,26 @@
 ---
-title: IDevice.Clip
-second_title: Aspose.SVG for .NET API 参考
-description: IDevice 方法. 通过将当前路径与当前路径相交来修改当前剪切路径使用 FillMode 规则来确定要填充的区域 此方法终止当前路径
+title: "IDevice.Clip"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IDevice Clip 方法。通过使用 FillRule 确定填充区域，将当前剪裁路径与当前路径相交来修改剪裁路径。此方法终止当前路径。"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.rendering/idevice/clip/
 ---
 ## IDevice.Clip method
 
-通过将当前路径与当前路径相交来修改当前剪切路径，使用 FillMode 规则来确定要填充的区域。 此方法终止当前路径。
+通过将当前剪裁路径与当前路径相交来修改剪裁路径，使用 FillRule 确定填充区域。此方法会终止当前路径。
 
 ```csharp
-public void Clip(FillMode mode)
+public void Clip(FillRule rule)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| mode | FillMode | 填充模式指定如何裁剪闭合路径的内部 |
+| 规则 | FillRule | 填充规则指定闭合路径内部的裁剪方式。 |
 
-### 也可以看看
+### 另请参阅
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * interface [IDevice](../)
-* 命名空间 [Aspose.Svg.Rendering](../../idevice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

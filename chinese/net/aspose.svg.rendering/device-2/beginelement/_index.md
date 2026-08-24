@@ -1,33 +1,31 @@
 ---
-title: Device2.BeginElement
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 开始渲染节点
+title: "Device-2.BeginElement"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device BeginElement 方法。开始渲染节点"
 type: docs
-weight: 50
+weight: 80
 url: /zh/net/aspose.svg.rendering/device-2/beginelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginElement method
+## Device<TGraphicContext,TRenderingOptions>.BeginElement method
 
 开始渲染节点。
 
 ```csharp
-public abstract bool BeginElement(Element element, RectangleF rect)
+public virtual bool BeginElement(Element element, RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| element | Element | 这[`Element`](../../../aspose.svg.dom/element/). |
-| rect | RectangleF | 节点的边界框。 |
+| element | Element | 该 [`Element`](../../../aspose.svg.dom/element/)。 |
+| 矩形 | RectangleF | 节点的边界框。 |
 
 ### 返回值
 
-如果应处理元素，则返回 [true]。
+如果应处理该元素，则返回 [true]。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

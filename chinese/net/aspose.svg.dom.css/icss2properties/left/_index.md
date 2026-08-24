@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Left
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见CSS2. 中左边的属性定义
+title: "ICSS2Properties.Left"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Left 属性。请参阅 CSS2 中 left 属性的定义"
 type: docs
-weight: 560
+weight: 590
 url: /zh/net/aspose.svg.dom.css/icss2properties/left/
 ---
 ## ICSS2Properties.Left property
 
-参见CSS2. 中左边的属性定义
+请参阅 CSS2 中的 left 属性定义。
 
 ```csharp
 public string Left { get; set; }
@@ -16,12 +16,10 @@ public string Left { get; set; }
 
 ### 返回值
 
-遗留财产
+left 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

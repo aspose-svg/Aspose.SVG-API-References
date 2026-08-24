@@ -1,48 +1,46 @@
 ---
-title: CustomEvent.CustomEvent
-second_title: Aspose.SVG for .NET API 参考
-description: CustomEvent 构造函数. 初始化一个新的实例CustomEvent类.
+title: "CustomEvent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CustomEvent 构造函数。初始化 CustomEvent 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/customevent/customevent/
 ---
-## CustomEvent(string) {#constructor}
+## CustomEvent(*string*) {#constructor}
 
-初始化一个新的实例[`CustomEvent`](../)类.
+初始化 [`CustomEvent`](../) 类的新实例。
 
 ```csharp
 public CustomEvent(string type)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | type | String | 事件类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CustomEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../customevent/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CustomEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## CustomEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-初始化一个新的实例[`CustomEvent`](../)类.
+初始化 [`CustomEvent`](../) 类的新实例。
 
 ```csharp
 public CustomEvent(string type, IDictionary<string, object> eventInitDict)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | type | String | 事件类型。 |
 | eventInitDict | IDictionary`2 | 事件初始化字典。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CustomEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../customevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Device2.AddRect
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 将一个矩形附加到当前路径作为一个完整的子路径
+title: "Device-2.AddRect"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device AddRect 方法。将矩形追加到当前路径作为完整的子路径"
 type: docs
-weight: 30
+weight: 60
 url: /zh/net/aspose.svg.rendering/device-2/addrect/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.AddRect method
+## Device<TGraphicContext,TRenderingOptions>.AddRect method
 
-将一个矩形附加到当前路径作为一个完整的子路径。
+将矩形追加到当前路径，作为完整的子路径。
 
 ```csharp
-public abstract void AddRect(RectangleF rect)
+public virtual void AddRect(RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 要绘制的矩形。 |
+| 矩形 | RectangleF | 要绘制的矩形。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: INodeFilter.AcceptNode
-second_title: Aspose.SVG for .NET API 参考
-description: INodeFilter 方法. 测试指定节点在 TreeWalker 或 NodeIterator 的逻辑视图中是否可见这个函数 将被 TreeWalker 和 NodeIterator 的实现调用它通常不会直接从 用户代码调用 尽管如果您想使用相同的 过滤器来指导您自己的应用程序逻辑您可以这样做
+title: "INodeFilter.AcceptNode"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "INodeFilter AcceptNode 方法。测试指定节点是否在 TreeWalker 或 NodeIterator 的逻辑视图中可见。此函数将由 TreeWalker 和 NodeIterator 的实现调用，通常不会直接从用户代码调用。若您希望使用相同的过滤器来指导自己的应用逻辑，也可以这样做。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.traversal/inodefilter/acceptnode/
 ---
 ## INodeFilter.AcceptNode method
 
-测试指定节点在 TreeWalker 或 NodeIterator 的逻辑视图中是否可见。这个函数 将被 TreeWalker 和 NodeIterator 的实现调用；它通常不会直接从 用户代码调用。 （尽管如果您想使用相同的 过滤器来指导您自己的应用程序逻辑，您可以这样做。）
+测试指定节点在 TreeWalker 或 NodeIterator 的逻辑视图中是否可见。此函数将由 TreeWalker 和 NodeIterator 的实现调用；通常不会直接从用户代码调用。（如果您想使用相同的过滤器来指导自己的应用逻辑，也可以这样做。）
 
 ```csharp
 public short AcceptNode(Node n)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| n | Node | 节点检查它是否通过过滤器。 |
+| n | Node | 用于检查节点是否通过过滤器。 |
 
 ### 返回值
 
-一个常量，用于确定节点是否被接受、 拒绝或跳过，如上定义。
+一个常量，用于确定节点是被接受、拒绝还是跳过，如上所定义。
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../)
-* 命名空间 [Aspose.Svg.Dom.Traversal](../../inodefilter/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

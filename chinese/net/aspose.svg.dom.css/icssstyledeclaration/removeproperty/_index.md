@@ -1,31 +1,29 @@
 ---
-title: ICSSStyleDeclaration.RemoveProperty
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSStyleDeclaration 方法. 如果已在此声明块中显式设置则用于删除 CSS 属性
+title: "ICSSStyleDeclaration.RemoveProperty"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSStyleDeclaration RemoveProperty 方法。用于在此声明块中显式设置时移除 CSS 属性。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.css/icssstyledeclaration/removeproperty/
 ---
 ## ICSSStyleDeclaration.RemoveProperty method
 
-如果已在此声明块中显式设置，则用于删除 CSS 属性。
+用于删除在此声明块中显式设置的 CSS 属性。
 
 ```csharp
 public string RemoveProperty(string propertyName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| propertyName | String | 财产的名称。 |
+| propertyName | String | 属性的名称。 |
 
 ### 返回值
 
 返回属性值
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSStyleDeclaration](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

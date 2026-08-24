@@ -1,7 +1,7 @@
 ---
-title: HTMLCollection.GetEnumerator
-second_title: Aspose.SVG for .NET API 参考
-description: HTMLCollection 方法. 获取枚举器
+title: "HTMLCollection.GetEnumerator"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "HTMLCollection GetEnumerator 方法。获取枚举器。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.collections/htmlcollection/getenumerator/
@@ -16,13 +16,11 @@ public abstract IEnumerator<Element> GetEnumerator()
 
 ### 返回值
 
-一个IEnumerator可用于遍历集合的对象。
+可用于遍历集合的 IEnumerator 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* 命名空间 [Aspose.Svg.Collections](../../htmlcollection/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

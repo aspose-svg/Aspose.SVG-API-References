@@ -1,7 +1,7 @@
 ---
-title: ICSSValueList.Length
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSValueList 财产. 列表中 CSSValues 的数量
+title: "ICSSValueList.Length"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSValueList Length 属性。列表中 CSSValue 的数量。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/icssvaluelist/length/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.dom.css/icssvaluelist/length/
 public int Length { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSValueList](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssvaluelist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

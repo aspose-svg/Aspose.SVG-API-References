@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.Y
-second_title: Aspose.SVG for .NET API 参考
-description: SVGMaskElement 财产. 对应于给定掩码元素上的属性y采用 SVGUnitTypes. 中定义的常量之一
+title: "SVGMaskElement.Y"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGMaskElement Y 属性。对应于给定 mask 元素上的属性 y。取自 SVGUnitTypes 中定义的常量之一"
 type: docs
 weight: 90
 url: /zh/net/aspose.svg/svgmaskelement/y/
 ---
 ## SVGMaskElement.Y property
 
-对应于给定“掩码”元素上的属性“y”。采用 SVGUnitTypes. 中定义的常量之一
+对应于给定 ‘mask’ 元素上的属性 ‘y’。取自 SVGUnitTypes 中定义的常量之一。
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“掩码”元素的属性“y”。
+给定 ‘mask’ 元素的属性 ‘y’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* 命名空间 [Aspose.Svg](../../svgmaskelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

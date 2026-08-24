@@ -1,31 +1,29 @@
 ---
-title: MutationObserverInit.ContainsKey
-second_title: Aspose.SVG for .NET API 参考
-description: MutationObserverInit 方法. 确定是否MutationObserverInit集合包含指定的键
+title: "MutationObserverInit.ContainsKey"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationObserverInit ContainsKey 方法。确定 MutationObserverInit 集合是否包含指定的键。"
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/containskey/
 ---
 ## MutationObserverInit.ContainsKey method
 
-确定是否[`MutationObserverInit`](../)集合包含指定的键。
+确定 [`MutationObserverInit`](../) 集合是否包含指定的键。
 
 ```csharp
 public bool ContainsKey(string key)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 检查的关键。 |
+| key | String | 要检查的键。 |
 
 ### 返回值
 
-如果[`MutationObserverInit`](../)包含指定的密钥；否则，假的。
+如果 [`MutationObserverInit`](../) 包含指定的键，则返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationObserverInit](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

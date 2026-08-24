@@ -1,14 +1,14 @@
 ---
-title: Class UrlResolver
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Net.UrlResolver 班级. 表示用于通过统一资源标识符 URI 解析绝对 URL 的实用程序类
+title: "UrlResolver 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Net.UrlResolver 类。表示用于通过统一资源标识符（URI）解析绝对 URL 的实用类"
 type: docs
-weight: 2470
+weight: 4540
 url: /zh/net/aspose.svg.net/urlresolver/
 ---
 ## UrlResolver class
 
-表示用于通过统一资源标识符 (URI) 解析绝对 URL 的实用程序类。
+表示用于通过统一资源标识符 (URI) 解析绝对 URL 的实用类。
 
 ```csharp
 public class UrlResolver
@@ -16,19 +16,17 @@ public class UrlResolver
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [UrlResolver](urlresolver/)() | 默认构造函数。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| virtual [Resolve](../../aspose.svg.net/urlresolver/resolve/)(string, string) | 从基本 URI 和相对 URI 中解析出绝对 URI。 |
+| virtual [Resolve](../../aspose.svg.net/urlresolver/resolve/)(*string, string*) | 从基准 URI 和相对 URI 解析出绝对 URI。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

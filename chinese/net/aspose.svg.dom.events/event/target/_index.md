@@ -1,24 +1,22 @@
 ---
-title: Event.Target
-second_title: Aspose.SVG for .NET API 参考
-description: Event 财产. 用于表示IEventTarget事件最初发送到的位置
+title: "Event.Target"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Event Target 属性。用于指示最初分派事件的 IEventTarget。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.events/event/target/
 ---
 ## Event.Target property
 
-用于表示[`IEventTarget`](../../ieventtarget/)事件最初发送到的位置。
+用于指示最初分派事件的 [`IEventTarget`](../../ieventtarget/)。
 
 ```csharp
 public EventTarget Target { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [Event](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../event/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

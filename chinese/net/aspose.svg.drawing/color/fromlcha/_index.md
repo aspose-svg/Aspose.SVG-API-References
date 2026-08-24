@@ -1,34 +1,32 @@
 ---
-title: Color.FromLcha
-second_title: Aspose.SVG for .NET API 参考
-description: Color 方法. 返回具有请求的亮度色度色调alpha 值的新颜色
+title: "Color.FromLcha"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color FromLcha 方法。返回一个具有请求的亮度、色度、色相、透明度值的新 Color"
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.drawing/color/fromlcha/
 ---
 ## Color.FromLcha method
 
-返回具有请求的亮度、色度、色调、alpha 值的新颜色。
+返回一个具有请求的亮度、色度、色相和 alpha 值的新 Color。
 
 ```csharp
 public static Color FromLcha(float luminance, float chroma, float hue, float alpha)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| luminance | Single | 表示颜色亮度分量的浮点数。 |
-| chroma | Single | 表示颜色的色度分量的浮点数。 |
-| hue | Single | 表示颜色的色调分量的浮点数。 |
-| alpha | Single | 表示颜色的 alpha 分量的浮点数。 |
+| 亮度 | Single | 一个浮点数，表示颜色的亮度分量。 |
+| 色度 | Single | 一个浮点数，表示颜色的色度分量。 |
+| 色相 | Single | 一个浮点数，表示颜色的色相分量。 |
+| 透明度 | Single | 一个浮点数，表示颜色的透明度分量。 |
 
 ### 返回值
 
-的一个新实例[`Color`](../)班级
+一个新的 [`Color`](../) 类实例
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

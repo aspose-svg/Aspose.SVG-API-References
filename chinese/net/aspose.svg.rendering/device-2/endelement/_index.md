@@ -1,28 +1,26 @@
 ---
-title: Device2.EndElement
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 结束节点渲染
+title: "Device-2.EndElement"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device EndElement 方法。结束节点的渲染"
 type: docs
-weight: 130
+weight: 160
 url: /zh/net/aspose.svg.rendering/device-2/endelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
+## Device<TGraphicContext,TRenderingOptions>.EndElement method
 
 结束节点渲染。
 
 ```csharp
-public abstract void EndElement(Element element)
+public virtual void EndElement(Element element)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| element | Element | 这[`Element`](../../../aspose.svg.dom/element/). |
+| element | Element | 该 [`Element`](../../../aspose.svg.dom/element/)。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

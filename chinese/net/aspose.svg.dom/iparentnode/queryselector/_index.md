@@ -1,32 +1,30 @@
 ---
-title: IParentNode.QuerySelector
-second_title: Aspose.SVG for .NET API 参考
-description: IParentNode 方法. 返回第一个元素它是与选择器匹配的节点的后代
+title: "IParentNode.QuerySelector"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IParentNode QuerySelector 方法。返回节点中第一个匹配 selectors 的后代元素"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom/iparentnode/queryselector/
 ---
 ## IParentNode.QuerySelector method
 
-返回第一个元素，它是与选择器匹配的节点的后代。
+返回匹配选择器的节点的第一个后代元素。
 
 ```csharp
 public Element QuerySelector(string selectors)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| selectors | String | 选择器。 |
+| selectors | String | 这些选择器。 |
 
 ### 返回值
 
 返回第一个匹配的元素。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* 命名空间 [Aspose.Svg.Dom](../../iparentnode/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

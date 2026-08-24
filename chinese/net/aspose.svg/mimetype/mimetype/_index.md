@@ -1,27 +1,25 @@
 ---
-title: MimeType.MimeType
-second_title: Aspose.SVG for .NET API 参考
-description: MimeType 构造函数. 根据序列化字符串值初始化 MIME 类型的新实例
+title: "MimeType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MimeType 构造函数。基于序列化的字符串值初始化 MIME 类型的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/mimetype/mimetype/
 ---
 ## MimeType constructor
 
-根据序列化字符串值初始化 MIME 类型的新实例。
+基于序列化字符串值初始化 MIME 类型的新实例。
 
 ```csharp
 public MimeType(string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 价值。 |
+| value | String | 该值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [MimeType](../)
-* 命名空间 [Aspose.Svg](../../mimetype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

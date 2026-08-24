@@ -1,9 +1,9 @@
 ---
-title: Element.TagName
-second_title: Aspose.SVG for .NET API 参考
-description: Element 财产. 元素的名称
+title: "Element.TagName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element TagName 属性。元素的名称"
 type: docs
-weight: 210
+weight: 200
 url: /zh/net/aspose.svg.dom/element/tagname/
 ---
 ## Element.TagName property
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom/element/tagname/
 public string TagName { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 元素的名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

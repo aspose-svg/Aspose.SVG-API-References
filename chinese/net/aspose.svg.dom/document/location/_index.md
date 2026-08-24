@@ -1,7 +1,7 @@
 ---
-title: Document.Location
-second_title: Aspose.SVG for .NET API 参考
-description: Document 财产. 文档的位置
+title: "Document.Location"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document Location 属性。文档的位置。"
 type: docs
 weight: 160
 url: /zh/net/aspose.svg.dom/document/location/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.dom/document/location/
 public Location Location { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [Location](../../../aspose.svg.window/location/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

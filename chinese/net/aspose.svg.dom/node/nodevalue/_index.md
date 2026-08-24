@@ -1,27 +1,31 @@
 ---
-title: Node.NodeValue
-second_title: Aspose.SVG for .NET API 参考
-description: Node 财产. 这个节点的值取决于它的类型
+title: "Node.NodeValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node NodeValue 属性。返回或设置当前节点的值。"
 type: docs
-weight: 110
+weight: 100
 url: /zh/net/aspose.svg.dom/node/nodevalue/
 ---
 ## Node.NodeValue property
 
-这个节点的值，取决于它的类型。
+返回或设置当前节点的值。
 
 ```csharp
 public virtual string NodeValue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-节点值。
+一个包含当前节点值的字符串（如果有）。对于文档本身，`NodeValue` 返回 null。对于文本、注释和 CDATA 节点，`NodeValue` 返回节点的内容。对于属性节点，返回属性的值。
 
-### 也可以看看
+## 备注
+
+参考：
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nodevalue).
+
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

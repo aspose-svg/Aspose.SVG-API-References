@@ -1,29 +1,27 @@
 ---
-title: SVGMarkerElement.SetOrientToAuto
-second_title: Aspose.SVG for .NET API 参考
-description: SVGMarkerElement 方法. 将属性orient的值设置为auto
+title: "SVGMarkerElement.SetOrientToAuto"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGMarkerElement SetOrientToAuto 方法。将属性 orient 的值设置为 auto"
 type: docs
 weight: 110
 url: /zh/net/aspose.svg/svgmarkerelement/setorienttoauto/
 ---
 ## SVGMarkerElement.SetOrientToAuto method
 
-将属性“orient”的值设置为“auto”。
+将属性 ‘orient’ 的值设置为 'auto'。
 
 ```csharp
 public void SetOrientToAuto()
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGMarkerElement](../)
-* 命名空间 [Aspose.Svg](../../svgmarkerelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

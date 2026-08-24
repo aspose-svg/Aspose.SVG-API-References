@@ -1,29 +1,27 @@
 ---
-title: IXPathResult.SnapshotLength
-second_title: Aspose.SVG for .NET API 参考
-description: IXPathResult 财产. 结果快照中的节点数 snapshotItem 索引的有效值为0到快照长度1包含.
+title: "IXPathResult.SnapshotLength"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IXPathResult SnapshotLength 属性。结果快照中节点的数量。snapshotItem 索引的有效值为 0 到 snapshotLength-1（含）。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/snapshotlength/
 ---
 ## IXPathResult.SnapshotLength property
 
-结果快照中的节点数。 snapshotItem 索引的有效值为`0`到`快照长度-1`包含.
+结果快照中的节点数量。snapshotItem 索引的有效值为 `0` 到 `snapshotLength-1`（含）。
 
 ```csharp
 public int SnapshotLength { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：如果 resultType 不是 则引发`无序节点快照`输入或`有序节点快照`类型。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: 如果 resultType 不是 `UnorderedNodeSnapshot` 类型或 `OrderedNodeSnapshot` 类型，则抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IXPathResult](../)
-* 命名空间 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

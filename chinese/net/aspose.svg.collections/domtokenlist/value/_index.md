@@ -1,7 +1,7 @@
 ---
-title: DOMTokenList.Value
-second_title: Aspose.SVG for .NET API 参考
-description: DOMTokenList 财产. 获取或设置相应属性的值
+title: "DOMTokenList.Value"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMTokenList Value 属性。获取或设置对应属性的值"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.collections/domtokenlist/value/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.collections/domtokenlist/value/
 public string Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-相应属性的值。
+对应属性的值。
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMTokenList](../)
-* 命名空间 [Aspose.Svg.Collections](../../domtokenlist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

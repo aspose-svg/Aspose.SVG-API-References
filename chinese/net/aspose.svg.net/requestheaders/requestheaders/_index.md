@@ -1,7 +1,7 @@
 ---
-title: RequestHeaders.RequestHeaders
-second_title: Aspose.SVG for .NET API 参考
-description: RequestHeaders 构造函数. 默认构造函数
+title: "RequestHeaders"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "RequestHeaders 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/requestheaders/requestheaders/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.net/requestheaders/requestheaders/
 public RequestHeaders()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [RequestHeaders](../)
-* 命名空间 [Aspose.Svg.Net](../../requestheaders/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

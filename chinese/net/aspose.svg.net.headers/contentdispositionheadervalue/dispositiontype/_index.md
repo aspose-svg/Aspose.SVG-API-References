@@ -1,7 +1,7 @@
 ---
-title: ContentDispositionHeaderValue.DispositionType
-second_title: Aspose.SVG for .NET API 参考
-description: ContentDispositionHeaderValue 财产. 获取或设置处置类型
+title: "ContentDispositionHeaderValue.DispositionType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ContentDispositionHeaderValue DispositionType 属性。获取或设置处置类型"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontyp
 public string DispositionType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ContentDispositionHeaderValue](../)
-* 命名空间 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

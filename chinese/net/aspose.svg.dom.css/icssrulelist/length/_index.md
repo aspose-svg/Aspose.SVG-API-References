@@ -1,23 +1,21 @@
 ---
-title: ICSSRuleList.Length
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSRuleList 财产. 列表中 CSSRules 的数量有效子规则索引的范围是 0 到 length1含
+title: "ICSSRuleList.Length"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSRuleList Length 属性。列表中 CSSRule 的数量。有效子规则索引的范围为 0 到 length-1（含）。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/icssrulelist/length/
 ---
 ## ICSSRuleList.Length property
 
-列表中 CSSRules 的数量。有效子规则索引的范围是 0 到 length-1（含）。
+列表中 CSSRules 的数量。有效子规则索引的范围为 0 到 length-1（含）。
 
 ```csharp
 public int Length { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSRuleList](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssrulelist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

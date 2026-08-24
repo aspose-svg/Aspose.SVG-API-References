@@ -1,36 +1,34 @@
 ---
-title: ICSSRuleList.Item
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSRuleList 财产. 用于通过方法 item http//www.w3.org/TR/DOMLevel2Style/css.htmlCSSCSSRuleList 检索 CSS 规则此集合中的顺序表示 CSS 样式表中规则的顺序如果索引大于或等于列表中的规则数则返回 null.
+title: "ICSSRuleList.Item"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSRuleList Item 属性。用于通过 method item http//www.w3.org/TR/DOM-Level-2-Style/css.htmlCSS-CSSRuleList 检索 CSS 规则。此集合中的顺序对应 CSS 样式表中规则的顺序。如果索引大于或等于列表中规则的数量，则返回 null。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssrulelist/item/
 ---
 ## ICSSRuleList indexer
 
-用于通过方法 item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList) 检索 CSS 规则。此集合中的顺序表示 CSS 样式表中规则的顺序。如果索引大于或等于列表中的规则数，则返回 null.
+用于通过 method item() 检索 CSS 规则 (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList)。此集合中的顺序代表 CSS 样式表中规则的顺序。如果索引大于或等于列表中的规则数量，则返回 null。
 
 ```csharp
 public ICSSRule this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 规则索引 |
+| 索引 | 规则索引 |
 
 ### 返回值
 
 CSS 规则实例。
 
-### 适当的价值
+### Property Value
 
-的[`ICSSRule`](../../icssrule/) .
+此 [`ICSSRule`](../../icssrule/)。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSRuleList](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssrulelist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

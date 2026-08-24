@@ -1,27 +1,25 @@
 ---
-title: Url.Hash
-second_title: Aspose.SVG for .NET API 参考
-description: Url 财产. 获取或设置指定 URL 哈希段的字符串表示形式
+title: "Url.Hash"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Url Hash 属性。获取或设置指定 URL 哈希段的字符串表示"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/url/hash/
 ---
 ## Url.Hash property
 
-获取或设置指定 URL 哈希段的字符串表示形式。
+获取或设置指定 URL 哈希段的字符串表示。
 
 ```csharp
 public string Hash { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-哈希值。
+哈希。
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../)
-* 命名空间 [Aspose.Svg](../../url/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

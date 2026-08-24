@@ -1,27 +1,25 @@
 ---
-title: Url.Protocol
-second_title: Aspose.SVG for .NET API 参考
-description: Url 财产. 获取或设置指定 URL 架构的字符串表示形式
+title: "Url.Protocol"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Url Protocol 属性。获取或设置指定 URL 架构的字符串表示"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg/url/protocol/
 ---
 ## Url.Protocol property
 
-获取或设置指定 URL 架构的字符串表示形式。
+获取或设置指定 URL 架构的字符串表示。
 
 ```csharp
 public string Protocol { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 协议。
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../)
-* 命名空间 [Aspose.Svg](../../url/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

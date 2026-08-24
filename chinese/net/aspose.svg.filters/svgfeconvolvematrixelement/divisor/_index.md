@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Divisor
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEConvolveMatrixElement 财产. 对应于给定feConvolveMatrix元素上的属性除数
+title: "SVGFEConvolveMatrixElement.Divisor"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEConvolveMatrixElement Divisor 属性。对应于给定 feConvolveMatrix 元素的 divisor 属性"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.filters/svgfeconvolvematrixelement/divisor/
 ---
 ## SVGFEConvolveMatrixElement.Divisor property
 
-对应于给定“feConvolveMatrix”元素上的属性“除数”。
+对应于给定 ‘feConvolveMatrix’ 元素的属性 ‘divisor’。
 
 ```csharp
 public SVGAnimatedNumber Divisor { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“feConvolveMatrix”元素的属性“除数”。
+给定 ‘feConvolveMatrix’ 元素的 ‘divisor’ 属性。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

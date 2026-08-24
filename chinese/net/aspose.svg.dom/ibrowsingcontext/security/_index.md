@@ -1,28 +1,26 @@
 ---
-title: IBrowsingContext.Security
-second_title: Aspose.SVG for .NET API 参考
-description: IBrowsingContext 财产. 获取沙盒标记
+title: "IB BrowsingContext.Security"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IB BrowsingContext Security 属性。获取沙箱标志"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom/ibrowsingcontext/security/
 ---
 ## IBrowsingContext.Security property
 
-获取沙盒标记。
+获取沙箱标志。
 
 ```csharp
 public Sandbox Security { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-安全性。
+安全。
 
-### 也可以看看
+### 另请参阅
 
 * enum [Sandbox](../../../aspose.svg/sandbox/)
 * interface [IBrowsingContext](../)
-* 命名空间 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

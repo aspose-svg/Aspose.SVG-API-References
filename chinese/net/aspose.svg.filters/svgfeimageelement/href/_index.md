@@ -1,28 +1,26 @@
 ---
-title: SVGFEImageElement.Href
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEImageElement 财产. 对应于给定元素上的属性xlinkhref
+title: "SVGFEImageElement.Href"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEImageElement Href 属性。对应于给定元素上的属性 xlinkhref"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.filters/svgfeimageelement/href/
 ---
 ## SVGFEImageElement.Href property
 
-对应于给定元素上的属性“xlink:href”。
+对应给定元素上的属性 ‘xlink:href’。
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定元素的“xlink:href”。
+给定元素的 ‘xlink:href’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEImageElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfeimageelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Class ContentHeaders
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Net.ContentHeaders 班级. 包含与内容关联的标头
+title: "ContentHeaders 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Net.ContentHeaders 类。包含与内容关联的标头"
 type: docs
-weight: 2240
+weight: 4310
 url: /zh/net/aspose.svg.net/contentheaders/
 ---
 ## ContentHeaders class
@@ -16,19 +16,23 @@ public class ContentHeaders : WebHeaderCollection
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ContentHeaders](contentheaders/)() | 初始化一个新的实例`ContentHeaders`类. |
+| [ContentHeaders](contentheaders/)() | 初始化 `ContentHeaders` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | 获取内容类型标头值。 |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | 获取 Content-Type 标头值。 |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 个索引器) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

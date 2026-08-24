@@ -1,23 +1,21 @@
 ---
-title: UnitType.Em
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量值是相对于父元素字体的高度
+title: "UnitType.Em"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Em 字段。测量相对于父元素字体高度"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.drawing/unittype/em/
 ---
 ## UnitType.Em field
 
-测量值是相对于父元素字体的高度。
+测量相对于父元素字体的高度。
 
 ```csharp
 public static readonly UnitType Em;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

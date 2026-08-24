@@ -1,23 +1,21 @@
 ---
-title: ImageVectorizerConfiguration.ImageVectorizerConfiguration
-second_title: Aspose.SVG for .NET API 参考
-description: ImageVectorizerConfiguration 构造函数. 初始化一个新的实例ImageVectorizerConfiguration类.
+title: "ImageVectorizerConfiguration"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ImageVectorizerConfiguration 构造函数。初始化 ImageVectorizerConfiguration 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/imagevectorizerconfiguration/
 ---
 ## ImageVectorizerConfiguration constructor
 
-初始化一个新的实例[`ImageVectorizerConfiguration`](../)类.
+初始化 [`ImageVectorizerConfiguration`](../) 类的新实例。
 
 ```csharp
 public ImageVectorizerConfiguration()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageVectorizerConfiguration](../)
-* 命名空间 [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

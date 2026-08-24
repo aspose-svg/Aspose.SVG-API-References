@@ -1,27 +1,25 @@
 ---
-title: Device2.BeginPage
-second_title: Aspose.SVG for .NET API 参考
-description: Device 方法. 开始呈现新页面
+title: "Device-2.BeginPage"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device BeginPage 方法。开始渲染新页面"
 type: docs
-weight: 60
+weight: 90
 url: /zh/net/aspose.svg.rendering/device-2/beginpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginPage method
+## Device<TGraphicContext,TRenderingOptions>.BeginPage method
 
-开始呈现新页面。
+开始渲染新页面。
 
 ```csharp
 public virtual void BeginPage(SizeF size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size | SizeF | 页面的大小。 |
+| 大小 | SizeF | 页面的大小。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

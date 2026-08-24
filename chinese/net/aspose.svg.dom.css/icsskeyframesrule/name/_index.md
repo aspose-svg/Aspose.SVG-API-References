@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframesRule.Name
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSKeyframesRule 财产. 此属性是关键帧的名称由动画名称属性使用
+title: "ICSSKeyframesRule.Name"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSKeyframesRule Name 属性。此属性是 animation-name 属性使用的关键帧名称。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/icsskeyframesrule/name/
 ---
 ## ICSSKeyframesRule.Name property
 
-此属性是关键帧的名称，由“动画名称”属性使用。
+此属性是关键帧的名称，供 ‘animation-name’ 属性使用。
 
 ```csharp
 public string Name { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-名字.
+名称。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSKeyframesRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

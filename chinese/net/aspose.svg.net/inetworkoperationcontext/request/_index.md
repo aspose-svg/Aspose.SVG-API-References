@@ -1,7 +1,7 @@
 ---
-title: INetworkOperationContext.Request
-second_title: Aspose.SVG for .NET API 参考
-description: INetworkOperationContext 财产. 获取或设置请求消息
+title: "INetworkOperationContext.Request"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "INetworkOperationContext Request 属性。获取或设置请求消息"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/inetworkoperationcontext/request/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.net/inetworkoperationcontext/request/
 public RequestMessage Request { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 请求消息。
 
-### 也可以看看
+### 另请参阅
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* 命名空间 [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

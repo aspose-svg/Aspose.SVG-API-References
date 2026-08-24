@@ -1,28 +1,26 @@
 ---
-title: ResponseMessage.Headers
-second_title: Aspose.SVG for .NET API 参考
-description: ResponseMessage 财产. 获取标题
+title: "ResponseMessage.Headers"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ResponseMessage Headers 属性。获取标头"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.net/responsemessage/headers/
 ---
 ## ResponseMessage.Headers property
 
-获取标题。
+获取标头。
 
 ```csharp
 public ResponseHeaders Headers { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-标头.
+这些标头。
 
-### 也可以看看
+### 另请参阅
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* 命名空间 [Aspose.Svg.Net](../../responsemessage/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

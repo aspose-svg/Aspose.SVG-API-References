@@ -1,9 +1,9 @@
 ---
-title: Class ResponseMessage
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Net.ResponseMessage 班级. 表示响应消息
+title: "ResponseMessage 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Net.ResponseMessage 类。表示响应消息"
 type: docs
-weight: 2440
+weight: 4510
 url: /zh/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
@@ -16,30 +16,29 @@ public class ResponseMessage : IDisposable
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | 初始化一个新的实例`ResponseMessage`类. |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | 初始化 `ResponseMessage` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | 获取或设置响应内容。 |
-| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | 获取或设置 cookie 集合。 |
-| [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | 获取标题。 |
-| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | 获取指示此消息是否成功的值。 |
-| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | 获取或设置关联请求。 |
-| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | 获取或设置状态代码。 |
+| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | 获取或设置 Cookie 集合。 |
+| [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | 获取标头。 |
+| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | 获取一个值，指示此消息是否成功。 |
+| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | 获取或设置关联的请求。 |
+| [ResponseUri](../../aspose.svg.net/responsemessage/responseuri/) { get; set; } | 获取或设置响应 URI。 |
+| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | 获取或设置状态码。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | 执行与释放、释放或重置非托管资源相关的应用程序定义的任务。 |
+| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | 执行应用程序定义的任务，以释放、清理或重置非托管资源。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

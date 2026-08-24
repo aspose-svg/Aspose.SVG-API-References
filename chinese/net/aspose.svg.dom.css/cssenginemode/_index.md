@@ -1,9 +1,9 @@
 ---
-title: Enum CSSEngineMode
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Css.CSSEngineMode 枚举. 指定 CSSEngine 模式
+title: "CSSEngineMode 枚举"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Css.CSSEngineMode 枚举。指定 CSSEngine 模式。"
 type: docs
-weight: 470
+weight: 2470
 url: /zh/net/aspose.svg.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration
@@ -15,16 +15,14 @@ url: /zh/net/aspose.svg.dom.css/cssenginemode/
 public enum CSSEngineMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Default | `0` | CSS 引擎将像往常一样工作。 |
-| NotStrict | `1` | CSS 解析器将在非严格模式下工作。所有未记录的属性都将被解析并可以通过[`ICSSStyleDeclaration`](../icssstyledeclaration/) . |
+| Default | `0` | CSS 引擎将按常规工作。 |
+| NotStrict | `1` | CSS 解析器将在非严格模式下工作。所有未文档化的属性都将被解析，并可通过 [`ICSSStyleDeclaration`](../icssstyledeclaration/) 访问。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

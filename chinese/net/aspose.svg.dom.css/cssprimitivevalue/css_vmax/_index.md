@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_VMAX
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 场地. 该值是视口宽度或高度的百分比以较大者为准
+title: "CSSPrimitiveValue.CSS_VMAX"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue CSS_VMAX 字段。该值是视口宽度或高度中较大者的百分比。"
 type: docs
-weight: 430
+weight: 440
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_vmax/
 ---
 ## CSSPrimitiveValue.CSS_VMAX field
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_vmax/
 public const ushort CSS_VMAX;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

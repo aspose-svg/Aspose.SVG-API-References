@@ -1,44 +1,42 @@
 ---
-title: IXPathExpression.Evaluate
-second_title: Aspose.SVG for .NET API 参考
-description: IXPathExpression 方法. 计算此 XPath 表达式并返回结果
+title: "IXPathExpression.Evaluate"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IXPathExpression Evaluate 方法。对该 XPath 表达式求值并返回结果"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.xpath/ixpathexpression/evaluate/
 ---
 ## IXPathExpression.Evaluate method
 
-计算此 XPath 表达式并返回结果。
+对该 XPath 表达式进行求值并返回结果。
 
 ```csharp
 public IXPathResult Evaluate(Node contextNode, XPathResultType type, object result)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| contextNode | Node | 这`语境`是用于计算此 XPath 表达式的上下文节点。 如果[`IXPathEvaluator`](../../ixpathevaluator/)是通过铸造获得的[`Document`](../../../aspose.svg.dom/document/)那么这必须是同一文档所拥有的 并且必须是[`Document`](../../../aspose.svg.dom/document/),[`Element`](../../../aspose.svg.dom/element/),[`Attr`](../../../aspose.svg.dom/attr/) , [`Text`](../../../aspose.svg.dom/text/),[`CDATASection`](../../../aspose.svg.dom/cdatasection/),[`Comment`](../../../aspose.svg.dom/comment/),[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) , 或XPathNamespace节点。如果上下文节点是[`Text`](../../../aspose.svg.dom/text/)或[`CDATASection`](../../../aspose.svg.dom/cdatasection/) 然后上下文被解释为 XPath 所见的整个逻辑文本节点，除非节点为空 在这种情况下它可能不作为 XPath 上下文。 |
-| type | XPathResultType | 如果一个特定的`类型`被指定，则结果将被强制返回依赖于 XPath 转换的 指定类型，如果无法进行所需的强制转换，则结果将失败。这必须是 的值之一[`XPathResultType`](../../xpathresulttype/). |
-| result | Object | 这`结果`指定一个特定的结果对象，该对象可以被此方法重用并返回 。如果指定为`无效的`或者实现不重用指定的 结果，将构造并返回一个新的结果对象。对于 XPath 1.0 结果，此对象将是 类型[`IXPathResult`](../../ixpathresult/). |
+| contextNode | Node | `context` 是用于评估此 XPath 表达式的上下文节点。如果通过将 [`IXPathEvaluator`](../../ixpathevaluator/) 强制转换自 [`Document`](../../../aspose.svg.dom/document/) 获得，则该节点必须属于同一文档，并且必须是 [`Document`](../../../aspose.svg.dom/document/)、[`Element`](../../../aspose.svg.dom/element/)、[`Attr`](../../../aspose.svg.dom/attr/)、[`Text`](../../../aspose.svg.dom/text/)、[`CDATASection`](../../../aspose.svg.dom/cdatasection/)、[`Comment`](../../../aspose.svg.dom/comment/)、[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) 或 XPathNamespace 节点。如果上下文节点是 [`Text`](../../../aspose.svg.dom/text/) 或 [`CDATASection`](../../../aspose.svg.dom/cdatasection/)，则上下文被解释为 XPath 所看到的整个逻辑文本节点，除非该节点为空，此时它不能作为 XPath 上下文。 |
+| type | XPathResultType | 如果指定了特定的 `type`，则结果将被强制转换为指定的类型，依赖于 XPath 的转换规则；如果无法完成所需的强制转换则会失败。该类型必须是 [`XPathResultType`](../../xpathresulttype/) 的取值之一。 |
+| result | Object | `result` 指定一个特定的结果对象，该对象可以被此方法复用并返回。如果将其指定为 `null`，或实现未复用指定的结果，则会创建并返回一个新的结果对象。对于 XPath 1.0 的结果，该对象的类型为 [`IXPathResult`](../../ixpathresult/)。 |
 
 ### 返回值
 
-XPath 表达式的计算结果。对于 XPath 1.0 结果，此对象将是 类型[`IXPathResult`](../../ixpathresult/).
+XPath 表达式求值的结果。对于 XPath 1.0 的结果，该对象的类型为 [`IXPathResult`](../../ixpathresult/)。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：如果无法将结果转换为返回指定类型，则引发。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR：节点来自 不支持的文档[`IXPathEvaluator`](../../ixpathevaluator/)创造了这个[`IXPathExpression`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR：该节点不是允许作为 XPath 上下文节点 的类型，或者该节点不允许请求类型[`IXPathExpression`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：如果结果无法转换为指定的类型则抛出。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR：该节点来自一个不受创建此 [`IXPathExpression`](../) 的 [`IXPathEvaluator`](../../ixpathevaluator/) 支持的文档。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR：该节点的类型不被允许作为 XPath 上下文节点，或此 [`IXPathExpression`](../) 不支持请求的类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IXPathResult](../../ixpathresult/)
 * class [Node](../../../aspose.svg.dom/node/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathExpression](../)
-* 命名空间 [Aspose.Svg.Dom.XPath](../../ixpathexpression/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

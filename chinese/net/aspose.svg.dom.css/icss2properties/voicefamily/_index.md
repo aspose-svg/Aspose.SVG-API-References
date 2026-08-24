@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.VoiceFamily
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2. voicefamily 属性定义
+title: "ICSS2Properties.VoiceFamily"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties VoiceFamily 属性。查看 voice-family 属性定义于 CSS2"
 type: docs
-weight: 1160
+weight: 1190
 url: /zh/net/aspose.svg.dom.css/icss2properties/voicefamily/
 ---
 ## ICSS2Properties.VoiceFamily property
 
-参见 CSS2. voice-family 属性定义
+请参阅 CSS2 中的 voice-family 属性定义。
 
 ```csharp
 public string VoiceFamily { get; set; }
@@ -16,12 +16,10 @@ public string VoiceFamily { get; set; }
 
 ### 返回值
 
-语音家族财产
+voice-family 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

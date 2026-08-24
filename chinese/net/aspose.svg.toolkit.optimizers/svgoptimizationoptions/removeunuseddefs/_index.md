@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveUnusedDefs
-second_title: Aspose.SVG for .NET API 参考
-description: SVGOptimizationOptions 财产. gets of 设置选项以删除没有标识符不直接显示的 defs 的内容默认情况下为真
+title: "SVGOptimizationOptions.RemoveUnusedDefs"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGOptimizationOptions RemoveUnusedDefs 属性。获取或设置删除未直接显示且没有标识符的 defs 内容的选项。默认值为 true。"
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunuseddefs/
 ---
 ## SVGOptimizationOptions.RemoveUnusedDefs property
 
-gets of 设置选项以删除没有标识符不直接显示的 defs 的内容。默认情况下为“真”。
+获取或设置删除未直接显示且没有标识符的 defs 内容的选项。默认值为 'true'。
 
 ```csharp
 public bool RemoveUnusedDefs { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGOptimizationOptions](../)
-* 命名空间 [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

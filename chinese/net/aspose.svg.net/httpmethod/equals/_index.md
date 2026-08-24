@@ -1,55 +1,53 @@
 ---
-title: HttpMethod.Equals
-second_title: Aspose.SVG for .NET API 参考
-description: HttpMethod 方法. 表示当前对象是否等于另一个相同类型的对象
+title: "HttpMethod.Equals"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "HttpMethod Equals 方法。指示当前对象是否等于同类型的另一个对象"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.net/httpmethod/equals/
 ---
-## Equals(HttpMethod) {#equals}
+## Equals(*[HttpMethod](../)*) {#equals}
 
-表示当前对象是否等于另一个相同类型的对象。
+指示当前对象是否等于同类型的另一个对象。
 
 ```csharp
 public bool Equals(HttpMethod other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | HttpMethod | 要与此对象进行比较的对象。 |
+| other | HttpMethod | 用于与此对象比较的对象。 |
 
 ### 返回值
 
-如果当前对象等于*other*范围;否则为 false.
+如果当前对象等于 *other* 参数，则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [HttpMethod](../)
-* 命名空间 [Aspose.Svg.Net](../../httpmethod/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-判断指定的是否Object 等于这个实例.
+确定指定的 Object 是否等于此实例。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 这Object与此实例进行比较。 |
+| obj | 对象 | 用于与此实例比较的对象。 |
 
 ### 返回值
 
-`真的`如果指定Object等于这个实例；否则，`错误的` .
+`true` 如果指定的对象等于此实例；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [HttpMethod](../)
-* 命名空间 [Aspose.Svg.Net](../../httpmethod/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

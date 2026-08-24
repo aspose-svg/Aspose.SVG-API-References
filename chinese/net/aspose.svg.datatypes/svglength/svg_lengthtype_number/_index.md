@@ -1,23 +1,21 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_NUMBER
-second_title: Aspose.SVG for .NET API 参考
-description: SVGLength 场地. 未提供单位类型即指定了无单位值表示以用户单位表示的值
+title: "SVGLength.SVG_LENGTHTYPE_NUMBER"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGLength SVG_LENGTHTYPE_NUMBER 字段。未提供单位类型，即指定了无单位值，表示用户单位中的数值。"
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.datatypes/svglength/svg_lengthtype_number/
 ---
 ## SVGLength.SVG_LENGTHTYPE_NUMBER field
 
-未提供单位类型（即指定了无单位值），表示以用户单位表示的值。
+未提供单位类型（即指定了无单位值），这表示该值为用户单位。
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_NUMBER;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGLength](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svglength/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

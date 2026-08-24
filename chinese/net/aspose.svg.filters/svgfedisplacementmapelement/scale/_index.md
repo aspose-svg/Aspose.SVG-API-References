@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.Scale
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEDisplacementMapElement 财产. 对应于给定feDisplacementMap元素上的属性scale
+title: "SVGFEDisplacementMapElement.Scale"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEDisplacementMapElement Scale 属性。对应于给定 feDisplacementMap 元素上的属性 scale"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.filters/svgfedisplacementmapelement/scale/
 ---
 ## SVGFEDisplacementMapElement.Scale property
 
-对应于给定“feDisplacementMap”元素上的属性“scale”。
+对应于给定 ‘feDisplacementMap’ 元素的属性 ‘scale’。
 
 ```csharp
 public SVGAnimatedNumber Scale { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“feDisplacementMap”元素的属性“scale”。
+给定 ‘feDisplacementMap’ 元素的属性 ‘scale’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDisplacementMapElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_UNKNOWN
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 场地. 该值不是可识别的 CSS2 值该值只能使用cssText属性获取
+title: "CSSPrimitiveValue.CSS_UNKNOWN"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue CSS_UNKNOWN 字段。该值不是已识别的 CSS2 值。只能使用 cssText 属性获取该值。"
 type: docs
-weight: 400
+weight: 410
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_unknown/
 ---
 ## CSSPrimitiveValue.CSS_UNKNOWN field
 
-该值不是可识别的 CSS2 值。该值只能使用cssText属性获取。
+该值不是已识别的 CSS2 值。该值只能通过使用 cssText 属性获取。
 
 ```csharp
 public const ushort CSS_UNKNOWN;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

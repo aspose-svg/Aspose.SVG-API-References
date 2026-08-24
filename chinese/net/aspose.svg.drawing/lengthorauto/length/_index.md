@@ -1,7 +1,7 @@
 ---
-title: LengthOrAuto.Length
-second_title: Aspose.SVG for .NET API 参考
-description: LengthOrAuto 财产. 获取或设置长度
+title: "LengthOrAuto.Length"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "LengthOrAuto Length 属性。获取或设置长度"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.drawing/lengthorauto/length/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.drawing/lengthorauto/length/
 public Length Length { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-长度.
+长度。
 
-### 也可以看看
+### 另请参阅
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* 命名空间 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

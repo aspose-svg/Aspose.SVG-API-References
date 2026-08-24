@@ -1,29 +1,27 @@
 ---
-title: Interface INonDocumentTypeChildNode
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.INonDocumentTypeChildNode 界面. 定义IChildNode那不是DOCUMENT_TYPE_NODE .
+title: "INonDocumentTypeChildNode 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.INonDocumentTypeChildNode 接口。定义了不是 DOCUMENT_TYPE_NODE 的 IChildNode。"
 type: docs
-weight: 1080
+weight: 3060
 url: /zh/net/aspose.svg.dom/inondocumenttypechildnode/
 ---
 ## INonDocumentTypeChildNode interface
 
-定义[`IChildNode`](../ichildnode/)那不是[`DOCUMENT_TYPE_NODE`](../node/document_type_node/) .
+定义了不是 [`DOCUMENT_TYPE_NODE`](../node/document_type_node/) 的 [`IChildNode`](../ichildnode/)。
 
 ```csharp
 public interface INonDocumentTypeChildNode
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | 返回作为元素的第一个后续兄弟，否则返回 null。 |
-| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | 返回作为元素的第一个前面的同级元素，否则返回 null。 |
+| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | 返回第一个后续的兄弟节点（如果它是元素），否则返回 null。 |
+| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | 返回第一个前面的兄弟节点（如果它是元素），否则返回 null。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

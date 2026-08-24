@@ -1,28 +1,26 @@
 ---
-title: ITraversal.Filter
-second_title: Aspose.SVG for .NET API 参考
-description: ITraversal 财产. 用来筛选节点的NodeFilter
+title: "ITraversal.Filter"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ITraversal Filter 属性。用于筛选节点的 NodeFilter。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
 
-用来筛选节点的NodeFilter。
+用于筛选节点的 NodeFilter。
 
 ```csharp
 public INodeFilter Filter { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-过滤器.
+过滤器。
 
-### 也可以看看
+### 另请参阅
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* 命名空间 [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

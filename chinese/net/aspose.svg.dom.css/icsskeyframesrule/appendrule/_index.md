@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframesRule.AppendRule
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSKeyframesRule 方法. appendRule 方法将传递的 CSSKeyframeRule 附加到列表中传递的 key
+title: "ICSSKeyframesRule.AppendRule"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSKeyframesRule AppendRule 方法。appendRule 方法将传入的 CSSKeyframeRule 按给定键追加到列表中。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.css/icsskeyframesrule/appendrule/
 ---
 ## ICSSKeyframesRule.AppendRule method
 
-appendRule 方法将传递的 CSSKeyframeRule 附加到列表中传递的 key
+appendRule 方法将传入的 CSSKeyframeRule 追加到列表中对应的键位置。
 
 ```csharp
 public void AppendRule(string rule)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rule | String | 要附加的规则，以与“@keyframes”规则中的一个条目相同的语法表示 |
+| 规则 | String | 待追加的规则，使用与 ‘@keyframes’ 规则中条目相同的语法表示。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSKeyframesRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

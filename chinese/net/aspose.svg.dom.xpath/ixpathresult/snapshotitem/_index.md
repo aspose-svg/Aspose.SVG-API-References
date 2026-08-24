@@ -1,38 +1,36 @@
 ---
-title: IXPathResult.SnapshotItem
-second_title: Aspose.SVG for .NET API 参考
-description: IXPathResult 方法. 返回指数快照集合中的第一个项目如果指数大于 或等于列表中的节点数此方法返回无效的.与 迭代器结果不同快照不会失效但如果发生变异则可能与当前 文档不对应
+title: "IXPathResult.SnapshotItem"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IXPathResult SnapshotItem 方法。返回快照集合中第 index 项。如果 index 大于或等于列表中节点的数量，则此方法返回 null。与迭代器结果不同，快照不会失效，但如果文档被修改，快照可能不再对应当前文档。"
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/snapshotitem/
 ---
 ## IXPathResult.SnapshotItem method
 
-返回`指数`快照集合中的第一个项目。如果`指数`大于 或等于列表中的节点数，此方法返回`无效的`.与 迭代器结果不同，快照不会失效，但如果发生变异，则可能与当前 文档不对应。
+返回快照集合中的第 `index` 项。如果 `index` 大于或等于列表中的节点数，则此方法返回 `null`。与迭代器结果不同，快照不会失效，但如果文档被修改，快照可能不再对应当前文档。
 
 ```csharp
 public Node SnapshotItem(int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 快照集合的索引。 |
+| 索引 | Int32 | 快照集合的索引。 |
 
 ### 返回值
 
-节点位于`指数`在第th位置`节点列表`， 或者`无效的`如果 不是有效索引。
+`NodeList` 中第 `index` 位的节点，如果该索引无效，则为 `null`。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：引发如果`结果类型`不是 `无序节点快照`输入或`有序节点快照`类型。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: 如果 `resultType` 不是 `UnorderedNodeSnapshot` 类型或 `OrderedNodeSnapshot` 类型，则抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* 命名空间 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

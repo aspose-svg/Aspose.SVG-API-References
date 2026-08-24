@@ -1,39 +1,37 @@
 ---
-title: Angle.op_GreaterThanOrEqual
-second_title: Aspose.SVG for .NET API 参考
-description: Angle 方法. 实现运算符 .
+title: "Angle.op_GreaterThanOrEqual"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Angle op_GreaterThanOrEqual 方法。实现该运算符。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/angle/op_greaterthanorequal/
 ---
 ## Angle GreaterThanOrEqual operator
 
-实现运算符 &gt;=.
+实现运算符 &gt;=。
 
 ```csharp
 public static bool operator >=(Angle a, Angle b)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Angle | 参数a。 |
+| a | Angle | 参数 a。 |
 | b | Angle | 参数 b。 |
 
 ### 返回值
 
 运算符的结果。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 参数有不同的类型 |
-| ArgumentNullException | 参数为空 |
+| ArgumentException | 参数具有不同的类型 |
+| ArgumentNullException | 参数为 null |
 
-### 也可以看看
+### 另请参阅
 
 * class [Angle](../)
-* 命名空间 [Aspose.Svg.Drawing](../../angle/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

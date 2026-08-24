@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Creator
-second_title: Aspose.SVG for .NET API 参考
-description: PdfDocumentInfo 财产. 创建原始文档的产品名称
+title: "PdfDocumentInfo.Creator"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "PdfDocumentInfo Creator 属性。创建原始文档的产品名称。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.rendering.pdf/pdfdocumentinfo/creator/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.rendering.pdf/pdfdocumentinfo/creator/
 public string Creator { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfDocumentInfo](../)
-* 命名空间 [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

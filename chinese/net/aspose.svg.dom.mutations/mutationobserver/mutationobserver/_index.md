@@ -1,28 +1,26 @@
 ---
-title: MutationObserver.MutationObserver
-second_title: Aspose.SVG for .NET API 参考
-description: MutationObserver 构造函数. 构造一个 MutationObserver 对象并设置它的MutationCallback回调 调用回调时将 MutationRecord 对象列表作为第一个参数将构造的 MutationObserver 对象作为第二个参数它在节点注册到ObserveNode IMutationObserverInit方法都发生了变化
+title: "MutationObserver"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationObserver 构造函数。构造一个 MutationObserver 对象并将其 MutationCallback 设置为 callback。callback 会以 MutationRecord 对象列表作为第一个参数、构造的 MutationObserver 对象作为第二个参数被调用。它在通过 Observe 方法注册的节点发生变异后被调用。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.mutations/mutationobserver/mutationobserver/
 ---
 ## MutationObserver constructor
 
-构造一个 MutationObserver 对象并设置它的[`MutationCallback`](../../mutationcallback/)回调。 调用回调时将 MutationRecord 对象列表作为第一个参数，将构造的 MutationObserver 对象作为第二个参数。它在节点注册到!:Observe(Node, IMutationObserverInit)方法，都发生了变化。
+构造一个 MutationObserver 对象并将其 [`MutationCallback`](../../mutationcallback/) 设置为 callback。callback 会以 MutationRecord 对象列表作为第一个参数、构造的 MutationObserver 对象作为第二个参数被调用。它在通过 [`Observe`](../observe/) 方法注册的节点发生变异后被调用。
 
 ```csharp
 public MutationObserver(MutationCallback callback)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| callback | MutationCallback | 回调。 |
+| callback | MutationCallback | 该回调。 |
 
-### 也可以看看
+### 另请参阅
 
 * delegate [MutationCallback](../../mutationcallback/)
 * class [MutationObserver](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

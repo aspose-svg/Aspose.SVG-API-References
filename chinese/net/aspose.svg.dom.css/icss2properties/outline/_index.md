@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Outline
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2. 中的大纲属性定义
+title: "ICSS2Properties.Outline"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Outline 属性。请参阅 CSS2 中的 outline 属性定义"
 type: docs
-weight: 750
+weight: 780
 url: /zh/net/aspose.svg.dom.css/icss2properties/outline/
 ---
 ## ICSS2Properties.Outline property
 
-参见 CSS2. 中的大纲属性定义
+请参阅 CSS2 中的 outline 属性定义。
 
 ```csharp
 public string Outline { get; set; }
@@ -16,12 +16,10 @@ public string Outline { get; set; }
 
 ### 返回值
 
-大纲属性
+outline 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

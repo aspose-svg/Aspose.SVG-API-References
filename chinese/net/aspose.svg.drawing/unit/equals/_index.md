@@ -1,55 +1,53 @@
 ---
-title: Unit.Equals
-second_title: Aspose.SVG for .NET API 参考
-description: Unit 方法. 判断指定的是否Unit 等于这个实例.
+title: "Unit.Equals"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Unit Equals 方法。确定指定的 Unit 是否等于此实例。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.drawing/unit/equals/
 ---
-## Equals(Unit) {#equals}
+## Equals(*[Unit](../)*) {#equals}
 
-判断指定的是否[`Unit`](../) 等于这个实例.
+确定指定的[`Unit`](../)是否等于此实例。
 
 ```csharp
 public virtual bool Equals(Unit other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | Unit | 这[`Unit`](../)与此实例进行比较。 |
+| other | Unit | 用于与此实例比较的[`Unit`](../)。 |
 
 ### 返回值
 
-`真的`如果指定[`Unit`](../)等于这个实例；否则，`错误的` .
+`true` 如果指定的[`Unit`](../)等于此实例；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Unit](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unit/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-判断指定的是否Object 等于这个实例.
+确定指定的 Object 是否等于此实例。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 这Object与此实例进行比较。 |
+| obj | 对象 | 用于与此实例比较的对象。 |
 
 ### 返回值
 
-`真的`如果指定Object等于这个实例；否则，`错误的` .
+`true` 如果指定的对象等于此实例；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Unit](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

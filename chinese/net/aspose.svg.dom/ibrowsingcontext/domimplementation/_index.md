@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.DOMImplementation
-second_title: Aspose.SVG for .NET API 参考
-description: IBrowsingContext 财产. 获取 DOM 实现
+title: "IB BrowsingContext.DOMImplementation"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IB BrowsingContext DOMImplementation 属性。获取 DOM 实现"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
 public IDOMImplementation DOMImplementation { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-DOM 实现。
+该 DOM 实现。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* 命名空间 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

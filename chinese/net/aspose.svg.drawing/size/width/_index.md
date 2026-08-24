@@ -1,28 +1,26 @@
 ---
-title: Size.Width
-second_title: Aspose.SVG for .NET API 参考
-description: Size 财产. 获取或设置这个的水平分量Size .
+title: "Size.Width"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Size Width 属性。获取或设置此 Size 的水平分量。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.drawing/size/width/
 ---
 ## Size.Width property
 
-获取或设置这个的水平分量[`Size`](../) .
+获取或设置此 [`Size`](../) 的水平分量。
 
 ```csharp
 public Length Width { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-这个的水平分量[`Size`](../) .
+此 [`Size`](../) 的水平分量。
 
-### 也可以看看
+### 另请参阅
 
 * class [Length](../../length/)
 * class [Size](../)
-* 命名空间 [Aspose.Svg.Drawing](../../size/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

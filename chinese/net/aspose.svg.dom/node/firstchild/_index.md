@@ -1,23 +1,33 @@
 ---
-title: Node.FirstChild
-second_title: Aspose.SVG for .NET API 参考
-description: Node 财产. 此节点的第一个子节点如果没有这样的节点则返回 null.
+title: "Node.FirstChild"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node FirstChild 属性。返回节点在树中的第一个子节点，如果节点没有子节点则返回 null。"
 type: docs
-weight: 40
+weight: 30
 url: /zh/net/aspose.svg.dom/node/firstchild/
 ---
 ## Node.FirstChild property
 
-此节点的第一个子节点。如果没有这样的节点，则返回 null.
+返回节点在树中的第一个子节点，如果节点没有子节点则返回 null。
+
+如果节点是 Document，则此属性返回其直接子节点列表中的第一个节点。
 
 ```csharp
 public Node FirstChild { get; }
 ```
 
-### 也可以看看
+### Property Value
+
+一个 [`Node`](../)，如果没有则为 null。
+
+## 备注
+
+参考：
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-firstchild).
+
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

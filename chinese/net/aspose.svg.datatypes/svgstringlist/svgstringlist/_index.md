@@ -1,43 +1,41 @@
 ---
-title: SVGStringList.SVGStringList
-second_title: Aspose.SVG for .NET API 参考
-description: SVGStringList 构造函数. 初始化一个新的实例SVGStringList类.
+title: "SVGStringList"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGStringList 构造函数。初始化 SVGStringList 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-初始化一个新的实例[`SVGStringList`](../)类.
+初始化 [`SVGStringList`](../) 类的新实例。
 
 ```csharp
 public SVGStringList()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGStringList](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgstringlist/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&lt;string&gt;*) {#constructor_1}
 
-初始化一个新的实例[`SVGStringList`](../)类.
+初始化 [`SVGStringList`](../) 类的新实例。
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | 可枚举的。 |
+| 可枚举的 | IEnumerable`1 | 该可枚举对象。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGStringList](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgstringlist/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class Page
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Drawing.Page 班级. 表示一个页面对象用于配置输出页面 页面尺寸的空隙值为A4210x297mm
+title: "Page 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Drawing.Page 类。表示用于配置输出页面的页面对象。页面大小的默认值为 A4210x297mm。"
 type: docs
-weight: 1560
+weight: 3590
 url: /zh/net/aspose.svg.drawing/page/
 ---
 ## Page class
 
-表示一个页面对象，用于配置输出页面。 页面尺寸的空隙值为A4(210x297mm)
+表示用于配置输出页面的 page 对象。页面尺寸的缺省值为 A4（210×297mm）。
 
 ```csharp
 public class Page
@@ -16,23 +16,21 @@ public class Page
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Page](page/#constructor)() | 初始化一个新的实例`Page`类. |
-| [Page](page/#constructor_1)(Margin) | 初始化一个新的实例`Page`类. |
-| [Page](page/#constructor_2)(Size) | 初始化一个新的实例`Page`类. |
-| [Page](page/#constructor_3)(Size, Margin) | 初始化一个新的实例`Page`类. |
+| [Page](page/#constructor)() | 初始化 `Page` 类的新实例。 |
+| [Page](page/#constructor_1)(*[Margin](../margin/)*) | 初始化 `Page` 类的新实例。 |
+| [Page](page/#constructor_2)(*[Size](../size/)*) | 初始化 `Page` 类的新实例。 |
+| [Page](page/#constructor_3)(*[Size](../size/), [Margin](../margin/)*) | 初始化 `Page` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Margin](../../aspose.svg.drawing/page/margin/) { get; set; } | 获取或设置页边距。 |
+| [Margin](../../aspose.svg.drawing/page/margin/) { get; set; } | 获取或设置页面边距。 |
 | [Size](../../aspose.svg.drawing/page/size/) { get; set; } | 获取或设置页面大小。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

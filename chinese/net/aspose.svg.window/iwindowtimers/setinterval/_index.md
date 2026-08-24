@@ -1,33 +1,31 @@
 ---
-title: IWindowTimers.SetInterval
-second_title: Aspose.SVG for .NET API 参考
-description: IWindowTimers 方法. 安排超时以每超时毫秒运行一次处理程序任何参数都直接传递给处理程序
+title: "IWindowTimers.SetInterval"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IWindowTimers SetInterval 方法。安排一个超时，以每个 timeout 毫秒运行处理程序。任何参数都会直接传递给处理程序。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.window/iwindowtimers/setinterval/
 ---
 ## IWindowTimers.SetInterval method
 
-安排超时以每超时毫秒运行一次处理程序。任何参数都直接传递给处理程序。
+安排一个超时，使 handler 每隔 timeout 毫秒运行一次。任何参数都会直接传递给 handler。
 
 ```csharp
 public int SetInterval(object handler, int timeout, params object[] args)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| handler | Object | 处理者。 |
-| timeout | Int32 | 超时。 |
-| args | Object[] | 论点。 |
+| 处理程序 | 对象 | 处理程序。 |
+| 超时 | Int32 | 超时。 |
+| 参数 | Object[] | 参数。 |
 
 ### 返回值
 
-手柄
+句柄
 
-### 也可以看看
+### 另请参阅
 
 * interface [IWindowTimers](../)
-* 命名空间 [Aspose.Svg.Window](../../iwindowtimers/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

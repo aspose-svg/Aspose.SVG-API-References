@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.CurrentTranslate
-second_title: Aspose.SVG for .NET API 参考
-description: SVGSVGElement 财产. 在最外层的 svg 元素上考虑用户放大的相应转换因子 在不是最外层 svg 元素的svg元素上访问时未定义此属性具有什么行为
+title: "SVGSVGElement.CurrentTranslate"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGSVGElement CurrentTranslate 属性。在最外层的 svg 元素上，它是考虑用户放大的相应平移因子。当在非最外层的 svg 元素上访问时，此属性的行为未定义。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgsvgelement/currenttranslate/
 ---
 ## SVGSVGElement.CurrentTranslate property
 
-在最外层的 svg 元素上，考虑用户“放大”的相应转换因子。 在不是最外层 svg 元素的“svg”元素上访问时，未定义此属性具有什么行为。
+在最外层的 svg 元素上，此属性对应考虑用户\"放大\"的平移因子。当在不是最外层的 ‘svg’ 元素上访问时，此属性的行为未定义。
 
 ```csharp
 public SVGPoint CurrentTranslate { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-当前翻译.
+当前平移。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* 命名空间 [Aspose.Svg](../../svgsvgelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

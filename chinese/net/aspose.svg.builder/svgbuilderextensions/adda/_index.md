@@ -1,0 +1,35 @@
+---
+title: "SVGBuilderExtensions.AddA"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGBuilderExtensions AddA 方法。向构建器添加一个超链接元素配置。"
+type: docs
+weight: 20
+url: /zh/net/aspose.svg.builder/svgbuilderextensions/adda/
+---
+## SVGBuilderExtensions.AddA<TBuilder> method
+
+向构建器添加一个 'a'（超链接）元素配置。
+
+```csharp
+public static TBuilder AddA<TBuilder>(this TBuilder builder, Action<SVGAElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, ICompositeElementBuilder
+```
+
+| 参数 | 描述 |
+| --- | --- |
+| TBuilder | SVG 元素构建器的类型。 |
+| 构建器 | 构建器实例。 |
+| 配置 | ‘a’ 元素的配置操作。 |
+
+### 返回值
+
+用于链式调用的构建器实例。
+
+### 另请参阅
+
+* class [SVGAElementBuilder](../../svgaelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [ICompositeElementBuilder](../../icompositeelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: SVGMatrix.Rotate
-second_title: Aspose.SVG for .NET API 参考
-description: SVGMatrix 方法. 在当前矩阵上后乘旋转变换并返回结果矩阵
+title: "SVGMatrix.Rotate"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGMatrix Rotate 方法。后乘一个旋转变换到当前矩阵，并返回结果矩阵"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.datatypes/svgmatrix/rotate/
 ---
 ## SVGMatrix.Rotate method
 
-在当前矩阵上后乘旋转变换并返回结果矩阵。
+在当前矩阵上后乘一个旋转变换，并返回结果矩阵。
 
 ```csharp
 public SVGMatrix Rotate(float angle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | angle | Single | 旋转角度。 |
 
@@ -22,10 +22,8 @@ public SVGMatrix Rotate(float angle)
 
 结果矩阵。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGMatrix](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgmatrix/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

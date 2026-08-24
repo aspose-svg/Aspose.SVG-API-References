@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.StringRepresentation
-second_title: Aspose.SVG for .NET API 参考
-description: GlyphInfo 财产. 获取此字形的字符串表示形式
+title: "GlyphInfo.StringRepresentation"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "GlyphInfo StringRepresentation 属性。获取此字形的字符串表示。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
 ---
 ## GlyphInfo.StringRepresentation property
 
-获取此字形的字符串表示形式。
+获取此字形的字符串表示。
 
 ```csharp
 public string StringRepresentation { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-一个String代表这个字形.
+表示此字形的字符串。
 
-### 也可以看看
+### 另请参阅
 
 * struct [GlyphInfo](../)
-* 命名空间 [Aspose.Svg.Rendering](../../glyphinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

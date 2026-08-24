@@ -1,28 +1,26 @@
 ---
-title: Interface IDocumentStyle
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Css.IDocumentStyle 界面. DocumentStyle 接口提供了一种机制通过该机制可以检索嵌入在文档中的样式表预期是可以通过对 Document 接口的实例使用特定于绑定的转换方法来获得 DocumentStyle 接口的实例
+title: "IDocumentStyle 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Css.IDocumentStyle 接口。DocumentStyle 接口提供了一种机制，可检索嵌入文档中的样式表。预期可以通过在 Document 接口的实例上使用特定绑定的强制转换方法来获取 DocumentStyle 接口的实例。"
 type: docs
-weight: 700
+weight: 2700
 url: /zh/net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface
 
-DocumentStyle 接口提供了一种机制，通过该机制可以检索嵌入在文档中的样式表。预期是可以通过对 Document 接口的实例使用特定于绑定的转换方法来获得 DocumentStyle 接口的实例。
+DocumentStyle 接口提供了一种机制，可检索嵌入文档中的样式表。预期可以通过在 Document 接口实例上使用特定绑定的强制转换方法来获取 DocumentStyle 接口的实例。
 
 ```csharp
 public interface IDocumentStyle
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | 包含所有样式表的列表，这些样式表明确链接到或嵌入到文档中。对于 HTML 文档，这包括通过 HTML LINK 元素包含的外部样式表和内联 STYLE 元素。 |
+| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | 一个列表，包含文档中显式链接或嵌入的所有样式表。对于 HTML 文档，这包括通过 HTML LINK 元素包含的外部样式表以及内联 STYLE 元素。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

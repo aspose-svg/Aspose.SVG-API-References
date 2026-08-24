@@ -1,107 +1,105 @@
 ---
-title: Document.CreateNodeIterator
-second_title: Aspose.SVG for .NET API 参考
-description: Document 方法. 在以 the 指定节点为根的子树上创建一个新的 NodeIterator
+title: "Document.CreateNodeIterator"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document CreateNodeIterator 方法。创建一个新的 NodeIterator，遍历以指定节点为根的子树"
 type: docs
 weight: 900
 url: /zh/net/aspose.svg.dom/document/createnodeiterator/
 ---
-## CreateNodeIterator(Node) {#createnodeiterator}
+## CreateNodeIterator(*[Node](../../node/)*) {#createnodeiterator}
 
-在以 the 指定节点为根的子树上创建一个新的 NodeIterator。
+在指定节点为根的子树上创建一个新的 NodeIterator。
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 将与其子节点一起迭代的节点。 迭代器最初位于此节点之前。 whatToShow 标志和过滤器（如果有）在设置此位置时不被 考虑。根不能是 null。 |
+| root | Node | 将与其子节点一起迭代的节点。迭代器最初位于该节点之前。设置此位置时，不考虑 whatToShow 标志和 filter（如果有）。根不能为空。 |
 
 ### 返回值
 
-新创建的 NodeIterator.
+新创建的 NodeIterator。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的根为 null 则引发。 |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的 root 为 null，则抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator/)
 * class [Node](../../node/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateNodeIterator(Node, long) {#createnodeiterator_1}
+## CreateNodeIterator(*[Node](../../node/), long*) {#createnodeiterator_1}
 
-在以 the 指定节点为根的子树上创建一个新的 NodeIterator。
+在指定节点为根的子树上创建一个新的 NodeIterator。
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 将与其子节点一起迭代的节点。 迭代器最初位于此节点之前。 whatToShow 标志和过滤器（如果有）在设置此位置时不被 考虑。根不能是 null。 |
-| whatToShow | Int64 | flag 指定哪些节点类型可能出现在 迭代器呈现的树的逻辑视图中。有关可能的 SHOW_值集，请参阅 NodeFilter 的 描述。这些标志可以使用 OR 组合。 |
+| root | Node | 将与其子节点一起迭代的节点。迭代器最初位于该节点之前。设置此位置时，不考虑 whatToShow 标志和 filter（如果有）。根不能为空。 |
+| whatToShow | Int64 | 标志指定哪些节点类型可以出现在迭代器呈现的树的逻辑视图中。请参阅 NodeFilter 的描述以获取可能的 SHOW_ 值集合。这些标志可以使用 OR 进行组合。 |
 
 ### 返回值
 
-新创建的 NodeIterator.
+新创建的 NodeIterator。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的根为 null 则引发。 |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的 root 为 null，则抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator/)
 * class [Node](../../node/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateNodeIterator(Node, long, INodeFilter) {#createnodeiterator_2}
+## CreateNodeIterator(*[Node](../../node/), long, [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter/)*) {#createnodeiterator_2}
 
-在以 the 指定节点为根的子树上创建一个新的 NodeIterator。
+在指定节点为根的子树上创建一个新的 NodeIterator。
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter filter)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 将与其子节点一起迭代的节点。 迭代器最初位于此节点之前。 whatToShow 标志和过滤器（如果有）在设置此位置时不被 考虑。根不能是 null。 |
-| whatToShow | Int64 | flag 指定哪些节点类型可能出现在 迭代器呈现的树的逻辑视图中。有关可能的 SHOW_值集，请参阅 NodeFilter 的 描述。这些标志可以使用 OR 组合。 |
-| filter | INodeFilter | 与 this TreeWalker 一起使用的 NodeFilter，或 null 表示没有过滤器。 |
+| root | Node | 将与其子节点一起迭代的节点。迭代器最初位于该节点之前。设置此位置时，不考虑 whatToShow 标志和 filter（如果有）。根不能为空。 |
+| whatToShow | Int64 | 标志指定哪些节点类型可以出现在迭代器呈现的树的逻辑视图中。请参阅 NodeFilter 的描述以获取可能的 SHOW_ 值集合。这些标志可以使用 OR 进行组合。 |
+| filter | INodeFilter | 用于此 TreeWalker 的 NodeFilter，或为 null 以表示没有过滤器。 |
 
 ### 返回值
 
-新创建的 NodeIterator.
+新创建的 NodeIterator。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的根为 null 则引发。 |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的 root 为 null，则抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator/)
 * class [Node](../../node/)
 * interface [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

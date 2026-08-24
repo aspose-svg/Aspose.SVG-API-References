@@ -1,22 +1,20 @@
 ---
-title: Interface ISVGRenderingIntent
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.ISVGRenderingIntent 界面. SVGRenderingIntent 接口定义了渲染意图属性或描述符的可能值的枚举列表
+title: "ISVGRenderingIntent 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.ISVGRenderingIntent 接口。SVGRenderingIntent 接口定义了渲染意图属性或描述符的可能取值的枚举列表。"
 type: docs
-weight: 2020
+weight: 4090
 url: /zh/net/aspose.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface
 
-SVGRenderingIntent 接口定义了“渲染意图”属性或描述符的可能值的枚举列表。
+SVGRenderingIntent 接口定义 ‘rendering-intent’ 属性或描述符的可能取值的枚举列表。
 
 ```csharp
 public interface ISVGRenderingIntent
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg](../../aspose.svg/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

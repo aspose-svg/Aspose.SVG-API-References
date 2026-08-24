@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.DataSize
-second_title: Aspose.SVG for .NET API 参考
-description: ITrueTypeFont 财产. 以字节为单位返回字体数据的大小
+title: "ITrueTypeFont.DataSize"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ITrueTypeFont DataSize 属性。获取字体数据的字节大小。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/itruetypefont/datasize/
 ---
 ## ITrueTypeFont.DataSize property
 
-以字节为单位返回字体数据的大小
+获取字体数据的大小（字节）。
 
 ```csharp
 public float DataSize { get; }
@@ -16,12 +16,10 @@ public float DataSize { get; }
 
 ### 返回值
 
-字体数据的大小
+字体数据的字节大小。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITrueTypeFont](../)
-* 命名空间 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

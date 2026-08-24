@@ -1,33 +1,31 @@
 ---
-title: INetwork.Send
-second_title: Aspose.SVG for .NET API 参考
-description: INetwork 方法. 发送一个RequestMessage消息.
+title: "INetwork Send 方法。发送一个 RequestMessage 消息"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "发送一个 [`RequestMessage`](../../requestmessage/) 消息。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/inetwork/send/
 ---
 ## INetwork.Send method
 
-发送一个[`RequestMessage`](../../requestmessage/)消息.
+message
 
 ```csharp
 public ResponseMessage Send(RequestMessage message)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | RequestMessage | 要发送的消息。 |
+| 要发送的 message。 | RequestMessage | 一个 [`ResponseMessage`](../../responsemessage/) 消息 |
 
 ### 返回值
 
-A[`ResponseMessage`](../../responsemessage/)信息
+MessageHandlerCollection
 
-### 也可以看看
+### 另请参阅
 
 * class [ResponseMessage](../../responsemessage/)
 * class [RequestMessage](../../requestmessage/)
 * interface [INetwork](../)
-* 命名空间 [Aspose.Svg.Net](../../inetwork/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

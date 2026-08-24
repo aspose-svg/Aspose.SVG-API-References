@@ -1,7 +1,7 @@
 ---
-title: IUserAgentService.CharSet
-second_title: Aspose.SVG for .NET API 参考
-description: IUserAgentService 财产. 获取或设置文档的主要字符集
+title: "IUserAgentService.CharSet"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IUserAgentService CharSet 属性。获取或设置文档的主要字符集。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.services/iuseragentservice/charset/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.services/iuseragentservice/charset/
 public string CharSet { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 字符集。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IUserAgentService](../)
-* 命名空间 [Aspose.Svg.Services](../../iuseragentservice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

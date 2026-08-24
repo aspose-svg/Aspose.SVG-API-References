@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.Cx
-second_title: Aspose.SVG for .NET API 参考
-description: SVGCircleElement 财产. 对应于给定circle元素上的属性cx
+title: "SVGCircleElement.Cx"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGCircleElement Cx 属性。对应于给定 circle 元素的属性 cx"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgcircleelement/cx/
 ---
 ## SVGCircleElement.Cx property
 
-对应于给定“circle”元素上的属性“cx”。
+对应于给定 ‘circle’ 元素的属性 ‘cx’。
 
 ```csharp
 public SVGAnimatedLength Cx { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“circle”元素的属性“cx”。
+给定 ‘circle’ 元素的属性 ‘cx’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* 命名空间 [Aspose.Svg](../../svgcircleelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: IUrlSearchParams.Delete
-second_title: Aspose.SVG for .NET API 参考
-description: IUrlSearchParams 方法. 删除名称为的所有名称值对姓名 .
+title: "IUrlSearchParams.Delete"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IUrlSearchParams Delete 方法。移除所有名称为 name 的名称-值对"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/iurlsearchparams/delete/
 ---
 ## IUrlSearchParams.Delete method
 
-删除名称为的所有名称-值对`姓名` .
+移除所有名称为 `name` 的名称-值对。
 
 ```csharp
 public void Delete(string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 将用于查找名称-值对的键。 |
+| name | String | 用于查找名称-值对的键。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IUrlSearchParams](../)
-* 命名空间 [Aspose.Svg](../../iurlsearchparams/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

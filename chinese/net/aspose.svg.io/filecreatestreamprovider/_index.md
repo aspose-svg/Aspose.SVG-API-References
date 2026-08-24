@@ -1,14 +1,14 @@
 ---
-title: Class FileCreateStreamProvider
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.IO.FileCreateStreamProvider 班级. 代表FileStream为渲染设备提供流的实现.
+title: "FileCreateStreamProvider 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.IO.FileCreateStreamProvider 类。表示用于向渲染设备提供流的 FileStream 实现。"
 type: docs
-weight: 1910
+weight: 4020
 url: /zh/net/aspose.svg.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class
 
-代表FileStream为渲染设备提供流的实现.
+表示用于向渲染设备提供流的 FileStream 实现。
 
 ```csharp
 public class FileCreateStreamProvider : ICreateStreamProvider
@@ -16,32 +16,30 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor)() | 初始化一个新的实例`FileCreateStreamProvider`类. |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_1)(string) | 初始化一个新的实例`FileCreateStreamProvider`类. |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_2)(string, string) | 初始化一个新的实例`FileCreateStreamProvider`类. |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor)() | 初始化 `FileCreateStreamProvider` 类的新实例。 |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_1)(*string*) | 初始化 `FileCreateStreamProvider` 类的新实例。 |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_2)(*string, string*) | 初始化 `FileCreateStreamProvider` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Directory](../../aspose.svg.io/filecreatestreamprovider/directory/) { get; set; } | 获取或设置目录。 |
 | [Name](../../aspose.svg.io/filecreatestreamprovider/name/) { get; set; } | 获取或设置名称。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose/)() | 执行与释放、释放或重置非托管资源相关的应用程序定义的任务。 |
-| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream)(string, string) | 提供用于渲染的流。 |
-| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream_1)(string, string, int) | 提供用于渲染的流。 |
-| [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream/)(Stream) | 释放流。 |
+| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose/)() | 执行应用程序定义的任务，以释放、清理或重置非托管资源。 |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream)(*string, string*) | 提供用于渲染的流。 |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream_1)(*string, string, int*) | 提供用于渲染的流。 |
+| [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream/)(*Stream*) | 释放该流。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICreateStreamProvider](../icreatestreamprovider/)
-* 命名空间 [Aspose.Svg.IO](../../aspose.svg.io/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

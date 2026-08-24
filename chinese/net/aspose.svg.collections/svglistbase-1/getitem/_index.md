@@ -1,37 +1,35 @@
 ---
-title: SVGListBase1.GetItem
-second_title: Aspose.SVG for .NET API 参考
-description: SVGListBase 方法. 从列表中返回指定的项目
+title: "SVGListBase-1.GetItem"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGListBase GetItem 方法。返回列表中指定的项。"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.collections/svglistbase-1/getitem/
 ---
-## SVGListBase&lt;T&gt;.GetItem method
+## SVGListBase<T>.GetItem method
 
-从列表中返回指定的项目。
+返回列表中指定的项。
 
 ```csharp
 public T GetItem(ulong index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | UInt64 | 要返回的列表中项目的索引。第一项是数字 0。 |
+| 索引 | UInt64 | 要返回的列表中项的索引。第一个项的索引为 0。 |
 
 ### 返回值
 
-所选项目。
+选定的项。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). 如果索引号大于或等于 numberOfItems 则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/)。如果索引号大于或等于 numberOfItems，则抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGListBase&lt;T&gt;](../)
-* 命名空间 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

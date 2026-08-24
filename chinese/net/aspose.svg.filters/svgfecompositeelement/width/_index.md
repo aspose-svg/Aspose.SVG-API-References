@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.Width
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFECompositeElement 财产. 对应于给定过滤器元素上的属性宽度
+title: "SVGFECompositeElement.Width"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFECompositeElement Width 属性。对应于给定 filter 元素的 width 属性。"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.filters/svgfecompositeelement/width/
 ---
 ## SVGFECompositeElement.Width property
 
-对应于给定“过滤器”元素上的属性“宽度”。
+对应于给定 ‘filter’ 元素的属性 ‘width’。
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“过滤器”元素的属性“宽度”。
+给定 ‘filter’ 元素的属性 ‘width’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFECompositeElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class ImageVectorizer
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.ImageVectorization.ImageVectorizer 班级. 此 ImageVectorizer 类矢量化光栅图像如 PNGJPGGIFBMP 等...并返回 SVGDocument 在矢量化下我们指的是将位图缩小为由路径元素组成的几何形状并存储为 SVG 的过程
+title: "ImageVectorizer 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.ImageVectorization.ImageVectorizer 类。此 ImageVectorizer 类将光栅图像（如 PNG、JPG、GIF、BMP 等）矢量化，并返回 SVGDocument。这里的矢量化指的是将位图转换为由路径元素组成的几何形状并存储为 SVG 的过程。"
 type: docs
-weight: 2140
+weight: 4210
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizer/
 ---
 ## ImageVectorizer class
 
-此 ImageVectorizer 类矢量化光栅图像，如 PNG、JPG、GIF、BMP 等...并返回 SVGDocument。 在矢量化下，我们指的是将位图缩小为由路径元素组成的几何形状并存储为 SVG 的过程。
+该 ImageVectorizer 类将 PNG、JPG、GIF、BMP 等光栅图像矢量化并返回 SVGDocument。矢量化指的是将位图简化为由路径元素组成的几何形状并存储为 SVG 的过程。
 
 ```csharp
 public class ImageVectorizer
@@ -16,28 +16,25 @@ public class ImageVectorizer
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ImageVectorizer](imagevectorizer/#constructor)() | 初始化一个新的实例`ImageVectorizer`类. |
-| [ImageVectorizer](imagevectorizer/#constructor_1)(ImageVectorizerConfiguration) | 初始化一个新的实例`ImageVectorizer`类. |
+| [ImageVectorizer](imagevectorizer/#constructor)() | 初始化 `ImageVectorizer` 类的新实例。 |
+| [ImageVectorizer](imagevectorizer/#constructor_1)(*[ImageVectorizerConfiguration](../imagevectorizerconfiguration/)*) | 初始化 `ImageVectorizer` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Configuration](../../aspose.svg.imagevectorization/imagevectorizer/configuration/) { get; set; } | 图像矢量化方法和选项的配置 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(Bitmap) | 矢量化位图。 |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(Stream) | 从指定的流矢量化光栅图像。 |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_2)(string) | 从指定文件矢量化光栅图像。 |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(*Stream*) | 从指定的流矢量化光栅图像。 |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(*string*) | 从指定的文件矢量化光栅图像。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: DOMConstructorAttribute.DOMConstructorAttribute
-second_title: Aspose.SVG for .NET API 参考
-description: DOMConstructorAttribute 构造函数. 默认构造函数
+title: "DOMConstructorAttribute"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMConstructorAttribute 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.attributes/domconstructorattribute/domconstructorattribute/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.dom.attributes/domconstructorattribute/domconstructoratt
 public DOMConstructorAttribute()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMConstructorAttribute](../)
-* 命名空间 [Aspose.Svg.Dom.Attributes](../../domconstructorattribute/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: DOMObject.GetPlatformType
-second_title: Aspose.SVG for .NET API 参考
-description: DOMObject 方法. 此方法用于检索 ECMAScript 对象Type .
+title: "DOMObject.GetPlatformType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMObject GetPlatformType 方法。此方法用于检索 ECMAScript 对象类型。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom/domobject/getplatformtype/
 ---
 ## DOMObject.GetPlatformType method
 
-此方法用于检索 ECMAScript 对象Type .
+此方法用于检索 ECMAScript 对象的类型。
 
 ```csharp
 public virtual Type GetPlatformType()
@@ -16,12 +16,10 @@ public virtual Type GetPlatformType()
 
 ### 返回值
 
-ECMAScript 对象Type .
+ECMAScript 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMObject](../)
-* 命名空间 [Aspose.Svg.Dom](../../domobject/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

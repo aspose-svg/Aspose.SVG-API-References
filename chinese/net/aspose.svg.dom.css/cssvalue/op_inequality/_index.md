@@ -1,32 +1,30 @@
 ---
-title: CSSValue.op_Inequality
-second_title: Aspose.SVG for .NET API 参考
-description: CSSValue 方法. 实现运算符 .
+title: "CSSValue.op_Inequality"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSValue op_Inequality 方法。实现该运算符。"
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom.css/cssvalue/op_inequality/
 ---
 ## CSSValue Inequality operator
 
-实现运算符 !=.
+实现运算符 !=。
 
 ```csharp
 public static bool operator !=(CSSValue left, CSSValue right)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| left | CSSValue | 左边的元素。 |
-| right | CSSValue | 正确的元素。 |
+| 左 | CSSValue | 左侧元素。 |
+| 右 | CSSValue | 右侧元素。 |
 
 ### 返回值
 
 运算符的结果。
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssvalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

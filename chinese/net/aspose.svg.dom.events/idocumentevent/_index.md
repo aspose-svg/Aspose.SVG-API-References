@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentEvent
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Events.IDocumentEvent 界面. 的IDocumentEvent接口提供了一种机制用户可以通过该机制创建一个Event实现支持的类型
+title: "IDocumentEvent 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Events.IDocumentEvent 接口。IDocumentEvent 接口提供了一种机制，用户可以创建实现支持的类型的 Event。"
 type: docs
-weight: 940
+weight: 2940
 url: /zh/net/aspose.svg.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface
 
-的`IDocumentEvent`接口提供了一种机制，用户可以通过该机制创建一个[`Event`](../event/)实现支持的类型。
+`IDocumentEvent` 接口提供了一种机制，用户可以创建一个由实现支持的 [`Event`](../event/) 类型。
 
 ```csharp
 public interface IDocumentEvent
@@ -16,17 +16,15 @@ public interface IDocumentEvent
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(string) | 创建一个[`Event`](../event/)实现支持的类型。 |
+| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(*string*) | 创建一个由实现支持的 [`Event`](../event/) 类型。 |
 
-### 评论
+## 备注
 
-预计`IDocumentEvent`接口将在实现 the 的同一个对象上实现[`Document`](../../aspose.svg.dom/document/)支持事件模型的实现中的 接口。
+预计 `IDocumentEvent` 接口将在同一对象上实现，该对象也实现了支持事件模型的实现中的 [`Document`](../../aspose.svg.dom/document/) 接口。
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

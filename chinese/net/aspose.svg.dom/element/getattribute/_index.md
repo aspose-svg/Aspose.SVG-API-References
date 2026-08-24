@@ -1,9 +1,9 @@
 ---
-title: Element.GetAttribute
-second_title: Aspose.SVG for .NET API 参考
-description: Element 方法. 按名称检索属性值
+title: "Element.GetAttribute"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element GetAttribute 方法。按名称检索属性值。"
 type: docs
-weight: 240
+weight: 230
 url: /zh/net/aspose.svg.dom/element/getattribute/
 ---
 ## Element.GetAttribute method
@@ -11,21 +11,19 @@ url: /zh/net/aspose.svg.dom/element/getattribute/
 按名称检索属性值。
 
 ```csharp
-public string GetAttribute(string name)
+public string GetAttribute(string qualifiedName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 要检索的属性的名称。 |
+| qualifiedName | String | 要检索的属性名称。 |
 
 ### 返回值
 
 返回属性值
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

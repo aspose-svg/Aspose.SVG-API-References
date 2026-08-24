@@ -1,31 +1,29 @@
 ---
-title: IUrlSearchParams.Has
-second_title: Aspose.SVG for .NET API 参考
-description: IUrlSearchParams 方法. 检查是否存在名称为姓名在列表中.
+title: "IUrlSearchParams.Has"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IUrlSearchParams Has 方法。检查列表中是否存在名称为 name 的名称-值对"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
 
-检查是否存在名称为`姓名`在列表中.
+检查列表中是否存在名称为 `name` 的名称-值对。
 
 ```csharp
 public bool Has(string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 将用于查找名称-值对的键。 |
+| name | String | 用于查找名称-值对的键。 |
 
 ### 返回值
 
-`真的`如果存在名称为`姓名` 在列表中，和`错误的`否则。
+`True` 如果列表中存在名称为 `name` 的名值对，则为真，否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IUrlSearchParams](../)
-* 命名空间 [Aspose.Svg](../../iurlsearchparams/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

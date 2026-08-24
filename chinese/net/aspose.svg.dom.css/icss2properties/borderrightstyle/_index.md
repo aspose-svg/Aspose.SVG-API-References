@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderRightStyle
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中borderrightstyle属性定义.
+title: "ICSS2Properties.BorderRightStyle"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties BorderRightStyle 属性。请参阅 CSS2 中 border-right-style 属性的定义。"
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.dom.css/icss2properties/borderrightstyle/
 ---
 ## ICSS2Properties.BorderRightStyle property
 
-见CSS2中border-right-style属性定义.
+查看 CSS2 中的 border-right-style 属性定义。
 
 ```csharp
 public string BorderRightStyle { get; set; }
@@ -18,10 +18,8 @@ public string BorderRightStyle { get; set; }
 
 border-right-style 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

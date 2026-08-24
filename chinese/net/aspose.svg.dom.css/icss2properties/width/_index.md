@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Width
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中的width属性定义.
+title: "ICSS2Properties.Width"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Width 属性。请参阅 CSS2 中 width 属性的定义"
 type: docs
-weight: 1200
+weight: 1230
 url: /zh/net/aspose.svg.dom.css/icss2properties/width/
 ---
 ## ICSS2Properties.Width property
 
-见CSS2中的width属性定义.
+请参阅 CSS2 中的 width 属性定义。
 
 ```csharp
 public string Width { get; set; }
@@ -16,12 +16,10 @@ public string Width { get; set; }
 
 ### 返回值
 
-宽度属性
+width 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

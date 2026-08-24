@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternContentUnits
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPatternElement 财产. 对应于给定模式元素上的属性patternContentUnits采用 SVGUnitTypes. 中定义的常量之一
+title: "SVGPatternElement.PatternContentUnits"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPatternElement PatternContentUnits 属性。对应给定 pattern 元素上的 patternContentUnits 属性。取值为 SVGUnitTypes 中定义的常量之一。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgpatternelement/patterncontentunits/
 ---
 ## SVGPatternElement.PatternContentUnits property
 
-对应于给定“模式”元素上的属性“patternContentUnits”。采用 SVGUnitTypes. 中定义的常量之一
+对应于给定 ‘pattern’ 元素的属性 ‘patternContentUnits’。取值为 SVGUnitTypes 中定义的常量之一。
 
 ```csharp
 public SVGAnimatedEnumeration PatternContentUnits { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“模式”元素的属性“patternContentUnits”。
+给定 ‘pattern’ 元素的 ‘patternContentUnits’ 属性。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGPatternElement](../)
-* 命名空间 [Aspose.Svg](../../svgpatternelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

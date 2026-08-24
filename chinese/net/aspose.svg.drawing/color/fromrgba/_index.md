@@ -1,88 +1,86 @@
 ---
-title: Color.FromRgba
-second_title: Aspose.SVG for .NET API 参考
-description: Color 方法. 返回具有请求的 gedgreenbluealpha 值的新颜色 所有颜色分量必须在 0255 范围内
+title: "Color.FromRgba"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color FromRgba 方法。返回具有请求的红、绿、蓝、Alpha 值的新 Color。所有颜色分量必须在 0-255 范围内"
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.drawing/color/fromrgba/
 ---
-## FromRgba(byte, byte, byte, byte) {#fromrgba}
+## FromRgba(*byte, byte, byte, byte*) {#fromrgba}
 
-返回具有请求的 ged、green、blue、alpha 值的新颜色。 所有颜色分量必须在 0-255 范围内。
+返回一个具有请求的 ged、绿色、蓝色和 alpha 值的新 Color。所有颜色分量必须在 0-255 范围内。
 
 ```csharp
 public static Color FromRgba(byte red, byte green, byte blue, byte alpha)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Byte | 表示颜色的红色分量的字节。 |
-| green | Byte | 表示颜色的绿色分量的字节。 |
-| blue | Byte | 表示颜色的蓝色分量的字节。 |
-| alpha | Byte | 表示颜色的 alpha 分量的字节。 |
+| 红色 | Byte | 一个字节，表示颜色的红色分量。 |
+| 绿色 | Byte | 一个字节，表示颜色的绿色分量。 |
+| 蓝色 | Byte | 一个字节，表示颜色的蓝色分量。 |
+| 透明度 | Byte | 一个字节，表示颜色的透明度分量。 |
 
 ### 返回值
 
-的一个新实例[`Color`](../)班级
+一个新的 [`Color`](../) 类实例
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FromRgba(int, int, int, int) {#fromrgba_1}
+## FromRgba(*int, int, int, int*) {#fromrgba_1}
 
-返回具有请求的 ged、green、blue、alpha 值的新颜色。 所有颜色分量必须在 0-255 范围内。
+返回一个具有请求的 ged、绿色、蓝色和 alpha 值的新 Color。所有颜色分量必须在 0-255 范围内。
 
 ```csharp
 public static Color FromRgba(int red, int green, int blue, int alpha)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Int32 | 表示颜色的红色分量的 int。 |
-| green | Int32 | 表示颜色的绿色分量的 int。 |
-| blue | Int32 | 表示颜色的蓝色分量的 int。 |
-| alpha | Int32 | 表示颜色的 alpha 分量的 int。 |
+| 红色 | Int32 | 一个整数，表示颜色的红色分量。 |
+| 绿色 | Int32 | 一个整数，表示颜色的绿色分量。 |
+| 蓝色 | Int32 | 一个整数，表示颜色的蓝色分量。 |
+| 透明度 | Int32 | 一个整数，表示颜色的透明度分量。 |
 
 ### 返回值
 
-的一个新实例[`Color`](../)班级
+一个新的 [`Color`](../) 类实例
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FromRgba(float, float, float, float) {#fromrgba_2}
+## FromRgba(*float, float, float, float*) {#fromrgba_2}
 
-返回具有请求的 ged、绿色、蓝色、alpha 值的新颜色。 所有颜色分量必须在 0-1 范围内。
+返回一个具有请求的 ged、绿色、蓝色和 alpha 值的新 Color。所有颜色分量必须在 0-1 范围内。
 
 ```csharp
 public static Color FromRgba(float red, float green, float blue, float alpha)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Single | 表示颜色的红色分量的浮点数。 |
-| green | Single | 表示颜色的绿色分量的浮点数。 |
-| blue | Single | 表示颜色的蓝色分量的浮点数。 |
-| alpha | Single | 表示颜色的 alpha 分量的浮点数。 |
+| 红色 | Single | 一个浮点数，表示颜色的红色分量。 |
+| 绿色 | Single | 一个浮点数，表示颜色的绿色分量。 |
+| 蓝色 | Single | 一个浮点数，表示颜色的蓝色分量。 |
+| 透明度 | Single | 一个浮点数，表示颜色的透明度分量。 |
 
 ### 返回值
 
-的一个新实例[`Color`](../)班级
+一个新的 [`Color`](../) 类实例
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

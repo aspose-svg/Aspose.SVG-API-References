@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Width
-second_title: Aspose.SVG for .NET API 参考
-description: GlyphInfo 财产. 获取字形的宽度以磅为单位
+title: "GlyphInfo.Width"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "GlyphInfo Width 属性。获取字形的宽度（单位：点）"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property
 
-获取字形的宽度，以磅为单位。
+获取字形的宽度，单位为点。
 
 ```csharp
 public float Width { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-点宽度。
+以点为单位的宽度。
 
-### 也可以看看
+### 另请参阅
 
 * struct [GlyphInfo](../)
-* 命名空间 [Aspose.Svg.Rendering](../../glyphinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

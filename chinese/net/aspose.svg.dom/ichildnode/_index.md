@@ -1,14 +1,14 @@
 ---
-title: Interface IChildNode
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.IChildNode 界面. 定义IChildNode应该实现的接口Node可以有父母.
+title: "IChildNode 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.IChildNode 接口。定义了应由能够拥有父节点的 Node 实现的 IChildNode 接口。"
 type: docs
-weight: 1030
+weight: 3030
 url: /zh/net/aspose.svg.dom/ichildnode/
 ---
 ## IChildNode interface
 
-定义`IChildNode`应该实现的接口[`Node`](../node/)可以有父母.
+定义了应由能够拥有父节点的 [`Node`](../node/) 实现的 `IChildNode` 接口。
 
 ```csharp
 public interface IChildNode
@@ -16,13 +16,11 @@ public interface IChildNode
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Remove](../../aspose.svg.dom/ichildnode/remove/)() | 从父节点中删除当前节点。 |
+| [Remove](../../aspose.svg.dom/ichildnode/remove/)() | 从父节点中移除当前节点。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

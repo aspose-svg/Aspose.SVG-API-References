@@ -1,7 +1,7 @@
 ---
-title: MultipartContent.GetEnumerator
-second_title: Aspose.SVG for .NET API 参考
-description: MultipartContent 方法. 返回一个遍历集合的枚举器
+title: "MultipartContent.GetEnumerator"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MultipartContent GetEnumerator 方法。返回一个遍历集合的枚举器"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.net/multipartcontent/getenumerator/
@@ -16,13 +16,11 @@ public IEnumerator<Content> GetEnumerator()
 
 ### 返回值
 
-一个IEnumerator可用于遍历集合的对象。
+可用于遍历集合的 IEnumerator 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* 命名空间 [Aspose.Svg.Net](../../multipartcontent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

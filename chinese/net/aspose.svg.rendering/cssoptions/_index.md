@@ -1,28 +1,26 @@
 ---
-title: Class CssOptions
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Rendering.CssOptions 班级. 代表css渲染选项
+title: "CssOptions 类"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Rendering.CssOptions 类。表示 css 渲染选项"
 type: docs
-weight: 2720
+weight: 4800
 url: /zh/net/aspose.svg.rendering/cssoptions/
 ---
 ## CssOptions class
 
-代表css渲染选项。
+表示 CSS 渲染选项。
 
 ```csharp
 public class CssOptions
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype/) { get; set; } | 获取或设置[`MediaType`](../mediatype/)这将用于渲染期间的媒体查询解析。默认值为`打印` . |
+| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype/) { get; set; } | 获取或设置 [`MediaType`](../mediatype/) ，该值将在渲染期间用于媒体查询解析。默认值为 `Print`。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

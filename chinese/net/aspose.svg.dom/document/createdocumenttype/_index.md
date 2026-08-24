@@ -1,36 +1,34 @@
 ---
-title: Document.CreateDocumentType
-second_title: Aspose.SVG for .NET API 参考
-description: Document 方法. 创建一个 DocumentType 节点
+title: "Document.CreateDocumentType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document CreateDocumentType 方法。该方法返回一个 DocumentType 对象，可在文档创建时与 CreateDocument 一起使用，或通过 InsertBefore 或 ReplaceChild 等方法放入文档中。"
 type: docs
 weight: 840
 url: /zh/net/aspose.svg.dom/document/createdocumenttype/
 ---
 ## Document.CreateDocumentType method
 
-创建一个 DocumentType 节点。
+该方法返回一个 [`DocumentType`](../../documenttype/) 对象，该对象可以在文档创建时与 [`CreateDocument`](../../idomimplementation/createdocument/) 一起使用，或通过诸如 [`InsertBefore`](../../node/insertbefore/) 或 [`ReplaceChild`](../../node/replacechild/) 等方法放入文档中。
 
 ```csharp
 public DocumentType CreateDocumentType(string name, string publicId, string systemId, 
     string internalSubset)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 文档类型名称。 |
-| publicId | String | 公共标识。 |
-| systemId | String | 系统标识。 |
+| name | String | 是一个包含限定名称的 DOMString，例如 svg:svg。 |
+| publicId | String | 是一个包含 PUBLIC 标识符的 DOMString。 |
+| systemId | String | 是一个包含 SYSTEM 标识符的 DOMString。 |
 | internalSubset | String | 内部子集。 |
 
 ### 返回值
 
-的[`DocumentType`](../../documenttype/) .
+该 [`DocumentType`](../../documenttype/)。
 
-### 也可以看看
+### 另请参阅
 
 * class [DocumentType](../../documenttype/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

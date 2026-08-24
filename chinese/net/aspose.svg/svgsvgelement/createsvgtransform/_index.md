@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGTransform
-second_title: Aspose.SVG for .NET API 参考
-description: SVGSVGElement 方法. 在任何文档树之外创建一个 SVGTransform 对象该对象被初始化为单位矩阵变换 SVG_TRANSFORM_MATRIX.
+title: "SVGSVGElement.CreateSVGTransform"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGSVGElement CreateSVGTransform 方法。创建一个位于任何文档树之外的 SVGTransform 对象。该对象被初始化为单位矩阵变换 SVG_TRANSFORM_MATRIX"
 type: docs
 weight: 180
 url: /zh/net/aspose.svg/svgsvgelement/createsvgtransform/
 ---
 ## SVGSVGElement.CreateSVGTransform method
 
-在任何文档树之外创建一个 SVGTransform 对象。该对象被初始化为单位矩阵变换 (SVG_TRANSFORM_MATRIX).
+在任何文档树之外创建一个 SVGTransform 对象。该对象被初始化为单位矩阵变换 (SVG_TRANSFORM_MATRIX)。
 
 ```csharp
 public SVGTransform CreateSVGTransform()
@@ -18,11 +18,9 @@ public SVGTransform CreateSVGTransform()
 
 一个 SVGTransform 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGSVGElement](../)
-* 命名空间 [Aspose.Svg](../../svgsvgelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

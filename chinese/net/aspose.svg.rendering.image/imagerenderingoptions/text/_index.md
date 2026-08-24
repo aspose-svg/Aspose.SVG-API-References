@@ -1,28 +1,26 @@
 ---
-title: ImageRenderingOptions.Text
-second_title: Aspose.SVG for .NET API 参考
-description: ImageRenderingOptions 财产. 得到一个TextOptions用于文本渲染配置的对象.
+title: "ImageRenderingOptions.Text"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ImageRenderingOptions Text 属性。获取用于文本渲染配置的 TextOptions 对象"
 type: docs
-weight: 60
+weight: 50
 url: /zh/net/aspose.svg.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property
 
-得到一个[`TextOptions`](../../textoptions/)用于文本渲染配置的对象.
+获取一个用于文本渲染配置的 [`TextOptions`](../../textoptions/) 对象。
 
 ```csharp
 public TextOptions Text { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-的[`TextOptions`](../../textoptions/)对象.
+该 [`TextOptions`](../../textoptions/) 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [TextOptions](../../textoptions/)
 * class [ImageRenderingOptions](../)
-* 命名空间 [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

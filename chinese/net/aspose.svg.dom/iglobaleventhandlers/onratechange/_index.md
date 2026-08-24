@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnRateChange
-second_title: Aspose.SVG for .NET API 参考
-description: IGlobalEventHandlers 事件. 获取或设置 OnRateChange 事件的事件处理程序
+title: "IGlobalEventHandlers.OnRateChange"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IGlobalEventHandlers OnRateChange 事件。获取或设置 OnRateChange 事件的事件处理程序"
 type: docs
 weight: 360
 url: /zh/net/aspose.svg.dom/iglobaleventhandlers/onratechange/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg.dom/iglobaleventhandlers/onratechange/
 public event DOMEventHandler OnRateChange;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* 命名空间 [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

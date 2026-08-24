@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Height
-second_title: Aspose.SVG for .NET API 参考
-description: SVGRectElement 财产. 对应于给定rect元素上的属性height
+title: "SVGRectElement.Height"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGRectElement Height 属性。对应于给定 rect 元素的属性 height。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgrectelement/height/
 ---
 ## SVGRectElement.Height property
 
-对应于给定“rect”元素上的属性“height”。
+对应给定 ‘rect’ 元素的属性 ‘height’。
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“矩形”元素的属性“高度”。
+给定的 ‘rect’ 元素的属性 ‘height’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* 命名空间 [Aspose.Svg](../../svgrectelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

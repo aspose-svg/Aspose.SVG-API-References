@@ -1,28 +1,26 @@
 ---
-title: ISVGAnimatedPoints.AnimatedPoints
-second_title: Aspose.SVG for .NET API 参考
-description: ISVGAnimatedPoints 财产. 提供对点属性的当前动画内容的访问如果给定的属性或属性正在动画则包含属性或属性的当前动画值如果给定的属性或特性当前未被动画化则包含与 points. 相同的值
+title: "ISVGAnimatedPoints.AnimatedPoints"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ISVGAnimatedPoints AnimatedPoints 属性。提供对 points 属性当前动画内容的访问。如果给定的属性或属性正在动画，则包含该属性或属性的当前动画值。如果给定的属性或属性当前未动画，则包含与 points 相同的值。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/isvganimatedpoints/animatedpoints/
 ---
 ## ISVGAnimatedPoints.AnimatedPoints property
 
-提供对“点”属性的当前动画内容的访问。如果给定的属性或属性正在动画，则包含属性或属性的当前动画值。如果给定的属性或特性当前未被动画化，则包含与 points. 相同的值
+提供对 ‘points’ 属性当前动画内容的访问。如果给定的属性或属性正在动画中，则包含该属性或属性的当前动画值。如果给定的属性或属性当前未动画，则包含与 points 相同的值。
 
 ```csharp
 public SVGPointList AnimatedPoints { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-动画点.
+动画后的点。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * interface [ISVGAnimatedPoints](../)
-* 命名空间 [Aspose.Svg](../../isvganimatedpoints/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

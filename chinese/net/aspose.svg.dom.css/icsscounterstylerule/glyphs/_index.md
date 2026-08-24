@@ -1,7 +1,7 @@
 ---
-title: ICSSCounterStyleRule.Glyphs
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSCounterStyleRule 财产. 获取字形
+title: "ICSSCounterStyleRule.Glyphs"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSCounterStyleRule Glyphs 属性。获取字形。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.css/icsscounterstylerule/glyphs/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.dom.css/icsscounterstylerule/glyphs/
 public string Glyphs { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSCounterStyleRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

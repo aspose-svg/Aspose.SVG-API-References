@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_IDENT
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 场地. 该值是一个标识符该值可以通过getStringValue方法获取
+title: "CSSPrimitiveValue.CSS_IDENT"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue CSS_IDENT 字段。该值是标识符。可以使用 getStringValue 方法获取该值。"
 type: docs
-weight: 240
+weight: 250
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_ident/
 ---
 ## CSSPrimitiveValue.CSS_IDENT field
 
-该值是一个标识符。该值可以通过getStringValue方法获取。
+该值是标识符。该值可通过使用 getStringValue 方法获取。
 
 ```csharp
 public const ushort CSS_IDENT;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

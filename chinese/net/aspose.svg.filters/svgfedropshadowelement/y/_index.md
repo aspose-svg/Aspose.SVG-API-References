@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Y
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEDropShadowElement 财产. 对应于给定feDropShadow元素上的属性y
+title: "SVGFEDropShadowElement.Y"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEDropShadowElement Y 属性。对应于给定 feDropShadow 元素上的属性 y"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.filters/svgfedropshadowelement/y/
 ---
 ## SVGFEDropShadowElement.Y property
 
-对应于给定“feDropShadow”元素上的属性“y”。
+对应给定 ‘feDropShadow’ 元素的属性 ‘y’。
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“feDropShadow”元素的属性“y”。
+给定 ‘feDropShadow’ 元素的属性 ‘y’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDropShadowElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

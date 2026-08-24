@@ -1,32 +1,30 @@
 ---
-title: Unit.FromHertz
-second_title: Aspose.SVG for .NET API 参考
-description: Unit 方法. 返回一个Frequency以赫兹表示的对象.
+title: "Unit.FromHertz"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Unit FromHertz 方法。返回一个以赫兹表示的 Frequency 对象"
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.drawing/unit/fromhertz/
 ---
 ## Unit.FromHertz method
 
-返回一个[`Frequency`](../../frequency/)以赫兹表示的对象.
+返回一个以赫兹表示的 [`Frequency`](../../frequency/) 对象。
 
 ```csharp
 public static Frequency FromHertz(double value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 价值。 |
+| value | Double | 该值。 |
 
 ### 返回值
 
-返回一个[`Frequency`](../../frequency/)目的。
+返回一个[`Frequency`](../../frequency/)对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

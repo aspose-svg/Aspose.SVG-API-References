@@ -1,28 +1,26 @@
 ---
-title: MessageHandler.Filters
-second_title: Aspose.SVG for .NET API 参考
-description: MessageHandler 财产. 获取指定处理程序类型对应的过滤器列表
+title: "MessageHandler.Filters"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MessageHandler Filters 属性。获取对应于指定处理程序类型的过滤器列表"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/messagehandler/filters/
 ---
 ## MessageHandler.Filters property
 
-获取指定处理程序类型对应的过滤器列表。
+获取对应于指定处理程序类型的过滤器列表。
 
 ```csharp
 public Collection<MessageFilter> Filters { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 过滤器。
 
-### 也可以看看
+### 另请参阅
 
 * class [MessageFilter](../../messagefilter/)
 * class [MessageHandler](../)
-* 命名空间 [Aspose.Svg.Net](../../messagehandler/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

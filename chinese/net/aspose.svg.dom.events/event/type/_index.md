@@ -1,7 +1,7 @@
 ---
-title: Event.Type
-second_title: Aspose.SVG for .NET API 参考
-description: Event 财产. 事件的名称不区分大小写名称必须是 XML 名称
+title: "Event.Type"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Event Type 属性。事件的名称不区分大小写。名称必须是有效的 XML 名称。"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.dom.events/event/type/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.dom.events/event/type/
 public string Type { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Event](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../event/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

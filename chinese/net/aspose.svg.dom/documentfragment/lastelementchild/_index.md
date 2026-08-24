@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.LastElementChild
-second_title: Aspose.SVG for .NET API 参考
-description: DocumentFragment 财产. 返回该元素的最后一个子元素节点如果此元素没有子元素则为 null.
+title: "DocumentFragment.LastElementChild"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DocumentFragment LastElementChild 属性。返回该元素的最后一个子元素节点。如果该元素没有子元素，则返回 null。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom/documentfragment/lastelementchild/
 ---
 ## DocumentFragment.LastElementChild property
 
-返回该元素的最后一个子元素节点。如果此元素没有子元素，则为 null.
+返回此元素的最后一个子元素节点。如果此元素没有子元素，则返回 null。
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-最后一个元素 child.
+最后一个子元素。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* 命名空间 [Aspose.Svg.Dom](../../documentfragment/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

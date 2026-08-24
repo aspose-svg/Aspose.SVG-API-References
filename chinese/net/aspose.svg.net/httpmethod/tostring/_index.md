@@ -1,14 +1,14 @@
 ---
-title: HttpMethod.ToString
-second_title: Aspose.SVG for .NET API 参考
-description: HttpMethod 方法. 返回一个String代表这个实例.
+title: "HttpMethod.ToString"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "HttpMethod ToString 方法。返回一个表示此实例的 String。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.net/httpmethod/tostring/
 ---
 ## HttpMethod.ToString method
 
-返回一个String代表这个实例.
+返回表示此实例的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 返回值
 
-一个String代表这个实例.
+一个表示此实例的 String。
 
-### 也可以看看
+### 另请参阅
 
 * class [HttpMethod](../)
-* 命名空间 [Aspose.Svg.Net](../../httpmethod/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

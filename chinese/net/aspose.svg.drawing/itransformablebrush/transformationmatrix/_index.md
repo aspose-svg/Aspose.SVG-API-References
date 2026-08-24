@@ -1,27 +1,26 @@
 ---
-title: ITransformableBrush.TransformationMatrix
-second_title: Aspose.SVG for .NET API 参考
-description: ITransformableBrush 财产. 获取转换该变换为此笔刷定义了局部几何变换
+title: "ITransformableBrush.TransformationMatrix"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ITransformableBrush TransformationMatrix 属性。获取变换。该变换为此画笔定义局部几何变换。"
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-获取转换。该变换为此笔刷定义了局部几何变换。
+获取变换。该变换为此画笔定义局部几何变换。
 
 ```csharp
-public Matrix TransformationMatrix { get; }
+public IMatrix TransformationMatrix { get; set; }
 ```
 
 ### 返回值
 
 变换矩阵
 
-### 也可以看看
+### 另请参阅
 
+* interface [IMatrix](../../imatrix/)
 * interface [ITransformableBrush](../)
-* 命名空间 [Aspose.Svg.Drawing](../../itransformablebrush/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

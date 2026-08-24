@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.CleanListOfValues
-second_title: Aspose.SVG for .NET API 参考
-description: SVGOptimizationOptions 财产. 获取或设置将属性中的列表数值四舍五入到小数点后 3 位的选项默认情况下为真
+title: "SVGOptimizationOptions.CleanListOfValues"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGOptimizationOptions CleanListOfValues 属性。获取或设置在属性中对列表数值进行四舍五入到小数点后 3 位的选项。默认值为 true。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/cleanlistofvalues/
 ---
 ## SVGOptimizationOptions.CleanListOfValues property
 
-获取或设置将属性中的列表数值四舍五入到小数点后 3 位的选项。默认情况下为“真”。
+获取或设置对属性中列表数值进行四舍五入到小数点后 3 位的选项。默认值为 'true'。
 
 ```csharp
 public bool CleanListOfValues { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGOptimizationOptions](../)
-* 命名空间 [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

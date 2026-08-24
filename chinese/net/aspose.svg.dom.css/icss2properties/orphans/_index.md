@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Orphans
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 请参阅 CSS2 中的孤立属性定义
+title: "ICSS2Properties.Orphans"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Orphans 属性。请参阅 CSS2 中 orphans 属性的定义"
 type: docs
-weight: 740
+weight: 770
 url: /zh/net/aspose.svg.dom.css/icss2properties/orphans/
 ---
 ## ICSS2Properties.Orphans property
 
-请参阅 CSS2 中的孤立属性定义。
+请参阅 CSS2 中的 orphans 属性定义。
 
 ```csharp
 public string Orphans { get; set; }
@@ -16,12 +16,10 @@ public string Orphans { get; set; }
 
 ### 返回值
 
-孤儿财产
+orphans 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

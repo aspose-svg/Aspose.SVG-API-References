@@ -1,27 +1,25 @@
 ---
-title: ITraversal.WhatToShow
-second_title: Aspose.SVG for .NET API 参考
-description: ITraversal 财产. 此属性确定哪些节点类型通过 迭代器呈现可用的常量集在 NodeFilter 接口中定义未被 whatToShow 接受的节点将被跳过但它们的子节点可能仍 被考虑请注意此跳过优先于过滤器 如果有
+title: "ITraversal.WhatToShow"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ITraversal WhatToShow 属性。此属性决定通过迭代器呈现的节点类型。可用的常量集合在 NodeFilter 接口中定义。未被 whatToShow 接受的节点将被跳过，但其子节点仍可能被考虑。请注意，此跳过优先于过滤器（如果存在）。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.traversal/itraversal/whattoshow/
 ---
 ## ITraversal.WhatToShow property
 
-此属性确定哪些节点类型通过 迭代器呈现。可用的常量集在 NodeFilter 接口中定义。未被 whatToShow 接受的节点将被跳过，但它们的子节点可能仍 被考虑。请注意，此跳过优先于过滤器 （如果有）。
+此属性决定通过迭代器呈现的节点类型。可用的常量集合在 NodeFilter 接口中定义。未被 whatToShow 接受的节点将被跳过，但其子节点仍可能被考虑。请注意，此跳过优先于过滤器（如果存在）。
 
 ```csharp
 public long WhatToShow { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 要显示的内容。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITraversal](../)
-* 命名空间 [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

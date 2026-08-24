@@ -1,32 +1,30 @@
 ---
-title: Unit.FromRadians
-second_title: Aspose.SVG for .NET API 参考
-description: Unit 方法. 返回一个Angle以弧度表示的对象.
+title: "Unit.FromRadians"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Unit FromRadians 方法。返回一个以弧度表示的 Angle 对象。"
 type: docs
 weight: 200
 url: /zh/net/aspose.svg.drawing/unit/fromradians/
 ---
 ## Unit.FromRadians method
 
-返回一个[`Angle`](../../angle/)以弧度表示的对象.
+返回一个[`Angle`](../../angle/)对象，以弧度表示。
 
 ```csharp
 public static Angle FromRadians(double value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 价值。 |
+| value | Double | 该值。 |
 
 ### 返回值
 
-返回一个[`Angle`](../../angle/)目的。
+返回一个 [`Angle`](../../angle/) 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

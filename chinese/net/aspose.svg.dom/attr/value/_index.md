@@ -1,27 +1,25 @@
 ---
-title: Attr.Value
-second_title: Aspose.SVG for .NET API 参考
-description: Attr 财产. 在检索时属性的值作为字符串返回
+title: "Attr.Value"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Attr Value 属性。获取时返回属性的值，作为字符串。"
 type: docs
-weight: 130
+weight: 110
 url: /zh/net/aspose.svg.dom/attr/value/
 ---
 ## Attr.Value property
 
-在检索时，属性的值作为字符串返回。
+检索时，属性的值以字符串形式返回。
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-值。
+该值。
 
-### 也可以看看
+### 另请参阅
 
 * class [Attr](../)
-* 命名空间 [Aspose.Svg.Dom](../../attr/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

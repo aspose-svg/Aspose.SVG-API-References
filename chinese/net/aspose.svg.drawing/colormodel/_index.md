@@ -1,9 +1,9 @@
 ---
-title: Enum ColorModel
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Drawing.ColorModel 枚举. 此枚举用于选择用于处理颜色分量的颜色模型
+title: "ColorModel 枚举"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Drawing.ColorModel 枚举。此枚举用于选择用于处理颜色分量的颜色模型"
 type: docs
-weight: 1400
+weight: 3400
 url: /zh/net/aspose.svg.drawing/colormodel/
 ---
 ## ColorModel enumeration
@@ -14,23 +14,21 @@ url: /zh/net/aspose.svg.drawing/colormodel/
 public enum ColorModel
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Rgb | `0` | 红-绿-蓝颜色模型 |
-| Hsl | `1` | 色调-饱和度-亮度颜色模型 |
-| Hsv | `2` | 色调-饱和度-值颜色模型 |
-| Hwb | `3` | Hue-Whiteness-Blackness 颜色模型 |
-| Cmyk | `4` | Cyan-Magenta-Yellow-Key 颜色模型 |
-| Lab | `5` | Lightness-AB 颜色模型 |
-| Oklab | `6` | 改进的亮度-AB 模型 |
-| Lch | `7` | Luminance-Chroma-Hue 颜色模型 |
-| Oklch | `8` | 改进的亮度-色度-色调颜色模型 |
+| Hsl | `1` | 色相-饱和度-亮度颜色模型 |
+| Hsv | `2` | 色相-饱和度-值颜色模型 |
+| Hwb | `3` | 色相-白度-黑度颜色模型 |
+| Cmyk | `4` | 青-品红-黄-键颜色模型 |
+| Lab | `5` | 亮度-A-B 颜色模型 |
+| Oklab | `6` | 改进的亮度-A-B 模型 |
+| Lch | `7` | 亮度-色度-色相 颜色模型 |
+| Oklch | `8` | 改进的亮度-色度-色相 颜色模型 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

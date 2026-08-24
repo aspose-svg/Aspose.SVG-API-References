@@ -1,7 +1,7 @@
 ---
-title: IDeviceInformationService.WindowSize
-second_title: Aspose.SVG for .NET API 参考
-description: IDeviceInformationService 财产. 获取或设置窗口的大小
+title: "IDeviceInformationService.WindowSize"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IDeviceInformationService WindowSize 属性。获取或设置窗口的大小"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.services/ideviceinformationservice/windowsize/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.services/ideviceinformationservice/windowsize/
 public Size WindowSize { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 窗口的大小。
 
-### 也可以看看
+### 另请参阅
 
 * class [Size](../../../aspose.svg.drawing/size/)
 * interface [IDeviceInformationService](../)
-* 命名空间 [Aspose.Svg.Services](../../ideviceinformationservice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: DOMException.NETWORK_ERR
-second_title: Aspose.SVG for .NET API 参考
-description: DOMException 场地. 发生网络错误
+title: "DOMException.NETWORK_ERR"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMException NETWORK_ERR 字段。发生网络错误"
 type: docs
 weight: 180
 url: /zh/net/aspose.svg.dom/domexception/network_err/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.dom/domexception/network_err/
 public const ushort NETWORK_ERR;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMException](../)
-* 命名空间 [Aspose.Svg.Dom](../../domexception/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

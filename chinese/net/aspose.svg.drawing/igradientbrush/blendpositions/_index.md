@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendPositions
-second_title: Aspose.SVG for .NET API 参考
-description: IGradientBrush 财产. 获取定义渐变自定义衰减的混合位置
+title: "IGradientBrush.BlendPositions"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IGradientBrush BlendPositions 属性。获取或设置定义渐变自定义衰减的混合位置"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.drawing/igradientbrush/blendpositions/
 ---
 ## IGradientBrush.BlendPositions property
 
-获取定义渐变自定义衰减的混合位置。
+获取或设置定义渐变自定义衰减的混合位置。
 
 ```csharp
-public float[] BlendPositions { get; }
+public float[] BlendPositions { get; set; }
 ```
 
 ### 返回值
 
 混合位置。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IGradientBrush](../)
-* 命名空间 [Aspose.Svg.Drawing](../../igradientbrush/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

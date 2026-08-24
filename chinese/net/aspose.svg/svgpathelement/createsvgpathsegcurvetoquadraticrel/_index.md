@@ -1,21 +1,21 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticRel
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathElement 方法. 返回一个独立的无父项的 SVGPathSegCurvetoQuadraticRel 对象
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticRel"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathElement CreateSVGPathSegCurvetoQuadraticRel 方法。返回一个独立的、无父级的 SVGPathSegCurvetoQuadraticRel 对象。"
 type: docs
 weight: 110
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticRel method
 
-返回一个独立的、无父项的 SVGPathSegCurvetoQuadraticRel 对象。
+返回一个独立的、无父级的 SVGPathSegCurvetoQuadraticRel 对象。
 
 ```csharp
 public SVGPathSegCurvetoQuadraticRel CreateSVGPathSegCurvetoQuadraticRel(float x, float y, 
     float x1, float y1)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Single | 此路径段终点的相对 X 坐标。 |
 | y | Single | 此路径段终点的相对 Y 坐标。 |
@@ -24,13 +24,11 @@ public SVGPathSegCurvetoQuadraticRel CreateSVGPathSegCurvetoQuadraticRel(float x
 
 ### 返回值
 
-一个独立的、无父项的 SVGPathSegCurvetoQuadraticRel 对象。
+一个独立的、无父级的 SVGPathSegCurvetoQuadraticRel 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegCurvetoQuadraticRel](../../../aspose.svg.paths/svgpathsegcurvetoquadraticrel/)
 * class [SVGPathElement](../)
-* 命名空间 [Aspose.Svg](../../svgpathelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

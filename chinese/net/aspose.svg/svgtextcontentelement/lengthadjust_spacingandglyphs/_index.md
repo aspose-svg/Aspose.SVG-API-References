@@ -1,23 +1,21 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS
-second_title: Aspose.SVG for .NET API 参考
-description: SVGTextContentElement 场地. 对应于值 spacingAndGlyphs.
+title: "SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGTextContentElement LENGTHADJUST_SPACINGANDGLYPHS 字段。对应于值 spacingAndGlyphs。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS field
 
-对应于值 'spacingAndGlyphs'.
+对应于值 'spacingAndGlyphs'。
 
 ```csharp
 public const ushort LENGTHADJUST_SPACINGANDGLYPHS;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGTextContentElement](../)
-* 命名空间 [Aspose.Svg](../../svgtextcontentelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

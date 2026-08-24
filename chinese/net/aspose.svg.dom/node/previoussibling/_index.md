@@ -1,23 +1,31 @@
 ---
-title: Node.PreviousSibling
-second_title: Aspose.SVG for .NET API 参考
-description: Node 财产. 紧接此节点之前的节点如果没有这样的节点则返回 null.
+title: "Node.PreviousSibling"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node PreviousSibling 属性。返回在其父节点的 ChildNodes 列表中紧邻指定节点之前的节点，如果指定节点是列表中的第一个，则返回 null。"
 type: docs
-weight: 160
+weight: 150
 url: /zh/net/aspose.svg.dom/node/previoussibling/
 ---
 ## Node.PreviousSibling property
 
-紧接此节点之前的节点。如果没有这样的节点，则返回 null.
+返回在其父节点的 [`ChildNodes`](../childnodes/) 列表中紧邻指定节点之前的节点，如果指定节点是列表中的第一个，则返回 null。
 
 ```csharp
 public Node PreviousSibling { get; }
 ```
 
-### 也可以看看
+### Property Value
+
+一个 [`Node`](../)，表示当前节点的前一个兄弟节点，如果不存在则为 null。
+
+## 备注
+
+参考：
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-previoussibling).
+
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.IterateNext
-second_title: Aspose.SVG for .NET API 参考
-description: IXPathResult 方法. 迭代并返回节点集中的下一个节点或无效的如果没有更多节点.
+title: "IXPathResult.IterateNext"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IXPathResult IterateNext 方法。遍历并返回节点集中的下一个节点，如果没有更多节点则返回 null"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/iteratenext/
 ---
 ## IXPathResult.IterateNext method
 
-迭代并返回节点集中的下一个节点或`无效的`如果没有更多节点.
+迭代并返回节点集中的下一个节点，如果没有更多节点则返回 `null`。
 
 ```csharp
 public Node IterateNext()
@@ -18,18 +18,16 @@ public Node IterateNext()
 
 返回下一个节点。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：引发如果`结果类型`不是 `无序节点迭代器`输入或`有序节点迭代器`类型。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR：自返回结果以来，文档已发生变异 。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：如果 `resultType` 不是 `UnorderedNodeIterator` 类型或 `OrderedNodeIterator` 类型则抛出。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR：自返回结果以来文档已被修改。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* 命名空间 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

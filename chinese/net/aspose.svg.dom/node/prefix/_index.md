@@ -1,27 +1,31 @@
 ---
-title: Node.Prefix
-second_title: Aspose.SVG for .NET API 参考
-description: Node 财产. 此节点的名称空间前缀如果未指定则为 null定义为null时设置无效
+title: "Node.Prefix"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node Prefix 属性。返回指定元素的命名空间前缀，如果未指定前缀则返回 null。"
 type: docs
-weight: 150
+weight: 140
 url: /zh/net/aspose.svg.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-此节点的名称空间前缀，如果未指定则为 null。定义为null时，设置无效
+返回指定元素的命名空间前缀，如果未指定前缀，则返回 null。
 
 ```csharp
 public virtual string Prefix { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-前缀.
+该属性返回关联的命名空间前缀。
 
-### 也可以看看
+## 备注
+
+参考：
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
+
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

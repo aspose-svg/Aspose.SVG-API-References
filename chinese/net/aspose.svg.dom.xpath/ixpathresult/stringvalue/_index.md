@@ -1,29 +1,27 @@
 ---
-title: IXPathResult.StringValue
-second_title: Aspose.SVG for .NET API 参考
-description: IXPathResult 财产. 这个字符串结果的值
+title: "IXPathResult.StringValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IXPathResult StringValue 属性。此字符串结果的值"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/stringvalue/
 ---
 ## IXPathResult.StringValue property
 
-这个字符串结果的值。
+此字符串结果的值。
 
 ```csharp
 public string StringValue { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：引发如果`结果类型`不是 `细绳`类型。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：如果 `resultType` 不是 `String` 类型则抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IXPathResult](../)
-* 命名空间 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

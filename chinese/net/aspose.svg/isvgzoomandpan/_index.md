@@ -1,28 +1,26 @@
 ---
-title: Interface ISVGZoomAndPan
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.ISVGZoomAndPan 界面. SVGZoomAndPan 接口定义了属性 zoomAndPan 和关联的常量
+title: "ISVGZoomAndPan 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.ISVGZoomAndPan 接口。SVGZoomAndPan 接口定义属性 zoomAndPan 及相关常量"
 type: docs
-weight: 2060
+weight: 4130
 url: /zh/net/aspose.svg/isvgzoomandpan/
 ---
 ## ISVGZoomAndPan interface
 
-SVGZoomAndPan 接口定义了属性 zoomAndPan 和关联的常量。
+SVGZoomAndPan 接口定义 zoomAndPan 属性及其相关常量。
 
 ```csharp
 public interface ISVGZoomAndPan
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | 对应于给定元素上的属性“zoomAndPan”。该值必须是在此接口上定义的 SVG_ZOOMANDPAN_* 常量之一。 |
+| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | 对应给定元素的属性 ‘zoomAndPan’。该值必须是此接口定义的 SVG_ZOOMANDPAN_* 常量之一。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg](../../aspose.svg/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

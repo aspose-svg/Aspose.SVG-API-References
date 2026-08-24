@@ -1,27 +1,25 @@
 ---
-title: IStyleSheet.Disabled
-second_title: Aspose.SVG for .NET API 参考
-description: IStyleSheet 财产. false 如果样式表应用于文档如果不是则为真修改此属性可能会导致文档样式的新解析仅当存在适当的媒体定义且 disabled 属性为 false 时样式表才适用因此如果媒体不适用于当前用户代理则禁用属性将被忽略
+title: "IStyleSheet.Disabled"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IStyleSheet Disabled 属性。若样式表已应用于文档，则为 false；若未应用，则为 true。修改此属性可能导致文档重新解析样式。只有在存在适当的媒体定义且 disabled 属性为 false 时，样式表才会生效。因此，如果媒体不适用于当前用户代理，disabled 属性将被忽略"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/istylesheet/disabled/
 ---
 ## IStyleSheet.Disabled property
 
-false 如果样式表应用于文档。如果不是，则为真。修改此属性可能会导致文档样式的新解析。仅当存在适当的媒体定义且 disabled 属性为 false 时，样式表才适用。因此，如果媒体不适用于当前用户代理，则禁用属性将被忽略。
+如果样式表已应用于文档，则为 false；如果未应用，则为 true。修改此属性可能导致文档样式重新解析。只有在存在适当的媒体定义且 disabled 属性为 false 时，样式表才会生效。因此，如果媒体不适用于当前用户代理，disabled 属性将被忽略。
 
 ```csharp
 public bool Disabled { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果禁用；否则，`错误的` .
+`true` 表示已禁用；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IStyleSheet](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../istylesheet/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,70 +1,68 @@
 ---
-title: StringContent.StringContent
-second_title: Aspose.SVG for .NET API 参考
-description: StringContent 构造函数. 初始化一个新的实例StringContent类.
+title: "StringContent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "StringContent 构造函数。初始化 StringContent 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/stringcontent/stringcontent/
 ---
-## StringContent(string) {#constructor}
+## StringContent(*string*) {#constructor}
 
-初始化一个新的实例[`StringContent`](../)类.
+初始化 [`StringContent`](../) 类的新实例。
 
 ```csharp
 public StringContent(string content)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| content | String | 内容。 |
+| 内容 | String | 该内容。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StringContent](../)
-* 命名空间 [Aspose.Svg.Net](../../stringcontent/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding) {#constructor_1}
+## StringContent(*string, Encoding*) {#constructor_1}
 
-初始化一个新的实例[`StringContent`](../)类.
+初始化 [`StringContent`](../) 类的新实例。
 
 ```csharp
 public StringContent(string content, Encoding encoding)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| content | String | 内容。 |
+| 内容 | String | 该内容。 |
 | encoding | Encoding | 编码。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StringContent](../)
-* 命名空间 [Aspose.Svg.Net](../../stringcontent/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding, string) {#constructor_2}
+## StringContent(*string, Encoding, string*) {#constructor_2}
 
-初始化一个新的实例[`StringContent`](../)类.
+初始化 [`StringContent`](../) 类的新实例。
 
 ```csharp
 public StringContent(string content, Encoding encoding, string mediaType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| content | String | 内容。 |
+| 内容 | String | 该内容。 |
 | encoding | Encoding | 编码。 |
-| mediaType | String | 媒体类型。 |
+| mediaType | String | 媒体的类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StringContent](../)
-* 命名空间 [Aspose.Svg.Net](../../stringcontent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

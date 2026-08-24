@@ -1,7 +1,7 @@
 ---
-title: SVGGeometryElement.PathLength
-second_title: Aspose.SVG for .NET API 参考
-description: SVGGeometryElement 财产. 对应于给定元素上的属性 pathLength
+title: "SVGGeometryElement.PathLength"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGGeometryElement PathLength 属性。对应于给定元素的 pathLength 属性。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svggeometryelement/pathlength/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg/svggeometryelement/pathlength/
 public SVGAnimatedNumber PathLength { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定元素的属性 pathLength。
+给定元素的 pathLength 属性。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGGeometryElement](../)
-* 命名空间 [Aspose.Svg](../../svggeometryelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: TypeInfo.IsDerivedFrom
-second_title: Aspose.SVG for .NET API 参考
-description: TypeInfo 方法. 如果引用类型定义即调用该方法的 TypeInfo与其他类型定义即作为参数传递的类型定义之间存在派生关系则此方法返回
+title: "TypeInfo.IsDerivedFrom"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "TypeInfo IsDerivedFrom 方法。此方法返回参考类型定义（即调用该方法的 TypeInfo）与另一个类型定义（即作为参数传入的类型）之间是否存在派生关系。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom/typeinfo/isderivedfrom/
 ---
 ## TypeInfo.IsDerivedFrom method
 
-如果引用类型定义（即调用该方法的 TypeInfo）与其他类型定义（即作为参数传递的类型定义）之间存在派生关系，则此方法返回。
+此方法返回引用类型定义（即调用该方法的 TypeInfo）与另一个类型定义（即作为参数传入的类型）之间是否存在派生关系。
 
 ```csharp
 public bool IsDerivedFrom(string typeNamespaceArg, string typeNameArg, ulong derivationMethod)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| typeNamespaceArg | String | 其他类型定义的命名空间 |
-| typeNameArg | String | 其他类型定义的名称。 |
-| derivationMethod | UInt64 | 派生类型和两种类型之间应用的条件，如该接口中提供的常量列表中所述。 |
+| typeNamespaceArg | String | 另一个类型定义的命名空间 |
+| typeNameArg | String | 另一个类型定义的名称。 |
+| derivationMethod | UInt64 | 两种类型之间的派生类型及其适用条件，详见此接口提供的常量列表。 |
 
 ### 返回值
 
-如果文档的模式是 DTD 或没有模式与文档相关联，则此方法将始终返回 false。如果文档的模式是 XML 模式，如果引用类型定义是根据派生参数从其他类型定义派生的，则该方法将为真。如果参数的值为 0（derivationMethod 参数没有位设置为 1），如果可以通过递归{基本类型定义}、{项目类型定义}的任意组合来达到其他类型定义，则该方法将返回 true ，或引用类型定义中的{成员类型定义}.
+如果文档的模式是 DTD 或文档未关联任何模式，此方法始终返回 false。如果文档的模式是 XML Schema，则当参考类型定义根据 derivation 参数从另一个类型定义派生时，方法返回 true。如果参数的值为 0（即 derivationMethod 参数的位均未设置为 1），则当可以通过从参考类型定义递归任意组合的 {base type definition}、{item type definition} 或 {member type definitions} 到达另一个类型定义时，方法返回 true。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeInfo](../)
-* 命名空间 [Aspose.Svg.Dom](../../typeinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

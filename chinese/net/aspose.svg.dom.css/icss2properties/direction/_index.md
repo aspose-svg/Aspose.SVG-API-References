@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Direction
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见CSS2中的方向属性定义
+title: "ICSS2Properties.Direction"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Direction 属性。请参阅 CSS2 中的 direction 属性定义"
 type: docs
 weight: 420
 url: /zh/net/aspose.svg.dom.css/icss2properties/direction/
 ---
 ## ICSS2Properties.Direction property
 
-参见CSS2中的方向属性定义。
+请参阅 CSS2 中的 direction 属性定义。
 
 ```csharp
 public string Direction { get; set; }
@@ -16,12 +16,10 @@ public string Direction { get; set; }
 
 ### 返回值
 
-方向属性
+direction 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

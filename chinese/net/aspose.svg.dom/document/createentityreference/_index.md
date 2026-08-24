@@ -1,32 +1,30 @@
 ---
-title: Document.CreateEntityReference
-second_title: Aspose.SVG for .NET API 参考
-description: Document 方法. 创建一个 EntityReference 对象另外如果引用的实体是已知的则EntityReference节点的子列表与对应的Entity节点的子列表相同
+title: "Document.CreateEntityReference"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document CreateEntityReference 方法。创建一个 EntityReference 对象。此外，如果已知被引用的实体，则 EntityReference 节点的子列表将与相应的 Entity 节点相同。"
 type: docs
 weight: 870
 url: /zh/net/aspose.svg.dom/document/createentityreference/
 ---
 ## Document.CreateEntityReference method
 
-创建一个 EntityReference 对象。另外，如果引用的实体是已知的，则EntityReference节点的子列表与对应的Entity节点的子列表相同。
+创建一个 EntityReference 对象。此外，如果已知被引用的实体，则 EntityReference 节点的子列表将与相应的 Entity 节点相同。
 
 ```csharp
 public EntityReference CreateEntityReference(string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 实体名称。 |
 
 ### 返回值
 
-的[`EntityReference`](../../entityreference/) .
+此 [`EntityReference`](../../entityreference/)。
 
-### 也可以看看
+### 另请参阅
 
 * class [EntityReference](../../entityreference/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

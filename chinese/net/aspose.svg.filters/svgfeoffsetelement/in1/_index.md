@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.In1
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEOffsetElement 财产. 对应于给定feOffset元素上的属性in
+title: "SVGFEOffsetElement.In1"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEOffsetElement In1 属性。对应于给定 feOffset 元素上的 in 属性"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.filters/svgfeoffsetelement/in1/
 ---
 ## SVGFEOffsetElement.In1 property
 
-对应于给定“feOffset”元素上的属性“in”。
+对应于给定 ‘feOffset’ 元素的属性 ‘in’。
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“feOffset”元素的属性“in”。
+给定 ‘feOffset’ 元素的属性 ‘in’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEOffsetElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ICSSRule.CSSText
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSRule 财产. 规则的可解析文本表示这反映了规则的当前状态而不是其初始值
+title: "ICSSRule.CSSText"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSRule CSSText 属性。规则的可解析文本表示。这反映了规则的当前状态，而不是其初始值。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssrule/csstext/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom.css/icssrule/csstext/
 public string CSSText { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 CSS 文本。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSRule](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssrule/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

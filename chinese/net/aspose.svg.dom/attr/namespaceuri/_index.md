@@ -1,23 +1,21 @@
 ---
-title: Attr.NamespaceURI
-second_title: Aspose.SVG for .NET API 参考
-description: Attr 财产. 此节点的名称空间 URI如果未指定则为 null
+title: "Attr.NamespaceURI"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Attr NamespaceURI属性。此节点的命名空间URI，如果未指定则为null"
 type: docs
-weight: 40
+weight: 30
 url: /zh/net/aspose.svg.dom/attr/namespaceuri/
 ---
 ## Attr.NamespaceURI property
 
-此节点的名称空间 URI，如果未指定则为 null。
+此节点的命名空间 URI，如果未指定则为 null。
 
 ```csharp
 public override string NamespaceURI { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Attr](../)
-* 命名空间 [Aspose.Svg.Dom](../../attr/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

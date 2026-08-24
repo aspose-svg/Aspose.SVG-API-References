@@ -1,27 +1,25 @@
 ---
-title: Element.Prefix
-second_title: Aspose.SVG for .NET API 参考
-description: Element 财产. 此节点的名称空间前缀如果未指定则为 null定义为null时设置无效
+title: "Element.Prefix"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element Prefix 属性。此节点的命名空间前缀，如果未指定则为 null。当它被定义为 null 时，设置没有效果。"
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.dom/element/prefix/
 ---
 ## Element.Prefix property
 
-此节点的名称空间前缀，如果未指定则为 null。定义为null时，设置无效
+此节点的命名空间前缀，如果未指定则为 null。当其被定义为 null 时，设置它不会产生任何效果。
 
 ```csharp
 public override string Prefix { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-该节点的命名空间前缀。
+此节点的命名空间前缀。
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

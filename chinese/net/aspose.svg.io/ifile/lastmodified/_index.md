@@ -1,23 +1,21 @@
 ---
-title: IFile.LastModified
-second_title: Aspose.SVG for .NET API 参考
-description: IFile 财产. 文件的最后修改日期在获取时如果用户代理可以提供此信息 这必须返回一个 long long 设置为文件最后一次修改的时间作为自 Unix 纪元以来的毫秒数
+title: "IFile.LastModified"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IFile LastModified 属性。 文件的最后修改日期。 获取时，如果用户代理能够提供此信息，则必须返回一个 long long，表示文件最后修改的时间，以自 Unix 纪元以来的毫秒数计"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.io/ifile/lastmodified/
 ---
 ## IFile.LastModified property
 
-文件的最后修改日期。在获取时，如果用户代理可以提供此信息， 这必须返回一个 long long 设置为文件最后一次修改的时间，作为自 Unix 纪元以来的毫秒数。
+文件的最后修改日期。获取时，如果用户代理能够提供此信息，则必须返回一个 long long，表示自 Unix 纪元以来的毫秒数，即文件最后修改的时间。
 
 ```csharp
 public long LastModified { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IFile](../)
-* 命名空间 [Aspose.Svg.IO](../../ifile/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

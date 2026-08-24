@@ -1,27 +1,25 @@
 ---
-title: IWindow.Name
-second_title: Aspose.SVG for .NET API 参考
-description: IWindow 财产. Window 对象的名称属性必须在获取时返回浏览上下文的当前名称并在设置时将浏览上下文的名称设置为新值
+title: "IWindow.Name"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IWindow Name 属性。Window 对象的 name 属性在获取时必须返回当前浏览上下文的名称，在设置时将浏览上下文的名称设为新值"
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.svg.window/iwindow/name/
 ---
 ## IWindow.Name property
 
-Window 对象的名称属性必须在获取时返回浏览上下文的当前名称，并在设置时将浏览上下文的名称设置为新值。
+Window 对象的 name 属性在获取时必须返回当前浏览上下文的名称，在设置时必须将浏览上下文的名称设为新值。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-名字.
+名称。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IWindow](../)
-* 命名空间 [Aspose.Svg.Window](../../iwindow/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.FullFontName
-second_title: Aspose.SVG for .NET API 参考
-description: ITrueTypeFont 财产. 这应该是FamilyName和SubFamilyName的组合例外如果字体为Regular如SubFamilyName中 所示则仅使用FamilyName中包含的姓氏 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 用于 CFF OpenType 字体在这种情况下完整字体名称字符串必须与 CFF 名称索引中的 PostScript FontName 相同
+title: "ITrueTypeFont.FullFontName"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ITrueTypeFont FullFontName 属性。完整字体名称通常表示为族名和子族名的组合。"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-这应该是“FamilyName”和“SubFamilyName”的组合。例外：如果字体为“Regular”，如“SubFamilyName”中 所示，则仅使用“FamilyName”中包含的姓氏。 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 用于 CFF OpenType 字体：在这种情况下，完整字体名称字符串必须与 CFF 名称索引中的 PostScript FontName 相同。
+完整字体名称通常表示为族名和子族名的组合。
 
 ```csharp
 public string FullFontName { get; }
@@ -16,12 +16,10 @@ public string FullFontName { get; }
 
 ### 返回值
 
-字体全名
+字体的完整名称。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITrueTypeFont](../)
-* 命名空间 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Entity.PublicId
-second_title: Aspose.SVG for .NET API 参考
-description: Entity 财产. 与实体关联的公共标识符如果指定否则为空
+title: "Entity.PublicId"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Entity PublicId 属性。与实体关联的公共标识符（如果已指定），否则为 null"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom/entity/publicid/
 ---
 ## Entity.PublicId property
 
-与实体关联的公共标识符（如果指定），否则为空。
+如果已指定，则返回与实体关联的公共标识符，否则为 null。
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 公共标识符。
 
-### 也可以看看
+### 另请参阅
 
 * class [Entity](../)
-* 命名空间 [Aspose.Svg.Dom](../../entity/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

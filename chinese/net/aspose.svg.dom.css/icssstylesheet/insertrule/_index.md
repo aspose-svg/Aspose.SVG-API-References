@@ -1,32 +1,30 @@
 ---
-title: ICSSStyleSheet.InsertRule
-second_title: Aspose.SVG for .NET API 参考
-description: ICSSStyleSheet 方法. 用于将新规则插入样式表新规则现在成为级联的一部分
+title: "ICSSStyleSheet.InsertRule"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSSStyleSheet InsertRule 方法。用于向样式表中插入新规则。新规则现在成为层叠的一部分。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.css/icssstylesheet/insertrule/
 ---
 ## ICSSStyleSheet.InsertRule method
 
-用于将新规则插入样式表。新规则现在成为级联的一部分。
+用于向样式表中插入新规则。新规则现在成为层叠的一部分。
 
 ```csharp
 public long InsertRule(string rule, int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rule | String | 风格规则。 |
-| index | Int32 | 规则索引。 |
+| 规则 | String | 样式规则。 |
+| 索引 | Int32 | 规则索引。 |
 
 ### 返回值
 
 插入的索引
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSStyleSheet](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

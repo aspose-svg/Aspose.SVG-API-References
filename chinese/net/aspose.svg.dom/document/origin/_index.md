@@ -1,7 +1,7 @@
 ---
-title: Document.Origin
-second_title: Aspose.SVG for .NET API 参考
-description: Document 财产. 获取文档来源
+title: "Document.Origin"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document Origin 属性。获取文档的来源。"
 type: docs
 weight: 200
 url: /zh/net/aspose.svg.dom/document/origin/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom/document/origin/
 public string Origin { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-起源.
+来源。
 
-### 也可以看看
+### 另请参阅
 
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

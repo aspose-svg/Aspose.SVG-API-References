@@ -1,38 +1,36 @@
 ---
-title: SVGListBase1.RemoveItem
-second_title: Aspose.SVG for .NET API 参考
-description: SVGListBase 方法. 从列表中删除现有项目
+title: "SVGListBase-1.RemoveItem"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGListBase RemoveItem 方法。移除列表中已有的项。"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.collections/svglistbase-1/removeitem/
 ---
-## SVGListBase&lt;T&gt;.RemoveItem method
+## SVGListBase<T>.RemoveItem method
 
-从列表中删除现有项目。
+从列表中移除现有的项。
 
 ```csharp
 public T RemoveItem(ulong index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | UInt64 | 要删除的项目的索引。第一项是数字 0。 |
+| 索引 | UInt64 | 要移除的项的索引。第一个项的索引为 0。 |
 
 ### 返回值
 
-删除的项目。
+被移除的项。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). 无法修改列表时引发。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). 如果索引号大于或等于 numberOfItems 则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。当列表无法被修改时抛出此错误。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/)。如果索引号大于或等于 numberOfItems，则抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGListBase&lt;T&gt;](../)
-* 命名空间 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

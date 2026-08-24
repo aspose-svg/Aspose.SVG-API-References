@@ -1,28 +1,26 @@
 ---
-title: Document.Context
-second_title: Aspose.SVG for .NET API 参考
-description: Document 财产. 获取当前浏览上下文
+title: "Document.Context"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document Context 属性。获取当前的浏览上下文。"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom/document/context/
 ---
 ## Document.Context property
 
-获取当前浏览上下文。
+获取当前的浏览上下文。
 
 ```csharp
 public IBrowsingContext Context { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-上下文。
+如果 Context 对象满足过滤条件则返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IBrowsingContext](../../ibrowsingcontext/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

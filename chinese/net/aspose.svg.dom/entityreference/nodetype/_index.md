@@ -1,7 +1,7 @@
 ---
-title: EntityReference.NodeType
-second_title: Aspose.SVG for .NET API 参考
-description: EntityReference 财产. 表示底层对象类型的代码
+title: "EntityReference.NodeType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "EntityReference NodeType属性。表示底层对象类型的代码"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom/entityreference/nodetype/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.dom/entityreference/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 节点的类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [EntityReference](../)
-* 命名空间 [Aspose.Svg.Dom](../../entityreference/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

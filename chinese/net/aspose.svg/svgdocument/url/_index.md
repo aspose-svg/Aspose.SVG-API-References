@@ -1,7 +1,7 @@
 ---
-title: SVGDocument.URL
-second_title: Aspose.SVG for .NET API 参考
-description: SVGDocument 财产. 文档的完整 URI
+title: "SVGDocument.URL"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGDocument URL 属性。文档的完整 URI。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgdocument/url/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg/svgdocument/url/
 public string URL { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-网址。
+URL。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

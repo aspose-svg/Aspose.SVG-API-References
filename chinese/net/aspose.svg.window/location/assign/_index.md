@@ -1,27 +1,25 @@
 ---
-title: Location.Assign
-second_title: Aspose.SVG for .NET API 参考
-description: Location 方法. 导航到给定页面
+title: "Location.Assign"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Location Assign 方法。导航到指定页面。"
 type: docs
-weight: 10
+weight: 100
 url: /zh/net/aspose.svg.window/location/assign/
 ---
 ## Location.Assign method
 
-导航到给定页面。
+导航到给定的页面。
 
 ```csharp
 public void Assign(string url)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | url | String | 要导航的 URL。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Location](../)
-* 命名空间 [Aspose.Svg.Window](../../location/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

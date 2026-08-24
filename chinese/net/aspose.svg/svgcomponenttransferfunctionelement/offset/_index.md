@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Offset
-second_title: Aspose.SVG for .NET API 参考
-description: SVGComponentTransferFunctionElement 财产. 对应于给定元素上的属性偏移量
+title: "SVGComponentTransferFunctionElement.Offset"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGComponentTransferFunctionElement Offset 属性。对应于给定元素上的 offset 属性。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svgcomponenttransferfunctionelement/offset/
 ---
 ## SVGComponentTransferFunctionElement.Offset property
 
-对应于给定元素上的属性“偏移量”。
+对应给定元素的属性 ‘offset’。
 
 ```csharp
 public SVGAnimatedNumber Offset { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定元素的属性“偏移量”。
+给定元素的 ‘offset’ 属性。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* 命名空间 [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

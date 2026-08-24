@@ -1,33 +1,31 @@
 ---
-title: Url.Href
-second_title: Aspose.SVG for .NET API 参考
-description: Url 财产. 获取或设置指定 URL 实例的序列化表示形式
+title: "Url.Href"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Url Href 属性。获取或设置指定 URL 实例的序列化表示"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/url/href/
 ---
 ## Url.Href property
 
-获取或设置指定 URL 实例的序列化表示形式。
+获取或设置指定 URL 实例的序列化表示。
 
 ```csharp
 public string Href { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-href.
+href。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| Error | TypeError：引发如果`价值`无法解析为有效的 URL. |
+| 错误 | TypeError：如果 `value` 不能解析为有效的 URL，则抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../)
-* 命名空间 [Aspose.Svg](../../url/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

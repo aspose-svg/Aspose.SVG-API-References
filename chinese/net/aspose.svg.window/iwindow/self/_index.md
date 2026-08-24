@@ -1,9 +1,9 @@
 ---
-title: IWindow.Self
-second_title: Aspose.SVG for .NET API 参考
-description: IWindow 财产. 返回 Window 对象的浏览上下文的 WindowProxy 对象
+title: "IWindow.Self"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IWindow Self 属性。返回 Window 对象的浏览上下文的 WindowProxy 对象"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.svg.window/iwindow/self/
 ---
 ## IWindow.Self property
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.window/iwindow/self/
 public IWindow Self { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IWindow](../)
-* 命名空间 [Aspose.Svg.Window](../../iwindow/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

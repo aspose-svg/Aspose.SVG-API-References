@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ScreenX
-second_title: Aspose.SVG for .NET API 参考
-description: MouseEvent 财产. 事件发生时相对于屏幕坐标系原点的水平坐标
+title: "MouseEvent.ScreenX"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MouseEvent ScreenX 属性。事件相对于屏幕坐标系原点的水平坐标。"
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.dom.events/mouseevent/screenx/
 ---
 ## MouseEvent.ScreenX property
 
-事件发生时相对于屏幕坐标系原点的水平坐标。
+事件相对于屏幕坐标系原点发生的水平坐标。
 
 ```csharp
 public long ScreenX { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-屏幕 x.
+该 screen x。
 
-### 也可以看看
+### 另请参阅
 
 * class [MouseEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

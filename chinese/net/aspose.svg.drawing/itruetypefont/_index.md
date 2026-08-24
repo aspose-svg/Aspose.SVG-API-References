@@ -1,39 +1,38 @@
 ---
-title: Interface ITrueTypeFont
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Drawing.ITrueTypeFont 界面. 声明使用 TrueType 字体的方法
+title: "ITrueTypeFont 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Drawing.ITrueTypeFont 接口。声明用于处理 TrueType 字体的方法"
 type: docs
-weight: 1510
+weight: 3540
 url: /zh/net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
 
-声明使用 TrueType 字体的方法。
+声明用于处理 TrueType 字体的方法。
 
 ```csharp
 public interface ITrueTypeFont
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | 以字节为单位返回字体数据的大小 |
-| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | 获取字体系列的名称。 |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | 这应该是“FamilyName”和“SubFamilyName”的组合。例外：如果字体为“Regular”，如“SubFamilyName”中 所示，则仅使用“FamilyName”中包含的姓氏。 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 用于 CFF OpenType 字体：在这种情况下，完整字体名称字符串必须与 CFF 名称索引中的 PostScript FontName 相同。 |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Font Subfamily 名称区分组中具有相同 Font Family 名称的字体。 这假定用于解决样式（斜体、倾斜）和粗细（浅色、粗体、黑色等）。 粗细或样式没有特别差异的字体（例如，中等粗细、非斜体和 fsSelection 位 6 设置）应在该位置存储字符串“Regular”。 |
+| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | 获取字体数据的大小（字节）。 |
+| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | 获取字体族的名称。 |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | 完整字体名称通常表示为族名和子族名的组合。 |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | 获取将 font-face 规则的值与字体数据相结合的字体样式。 |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | 子族名称用于区分同一族名组中的字体。它通常用于表示样式（斜体、倾斜）和粗细（细体、粗体、黑体等）。没有特定粗细或样式差异的字体应使用字符串 “Regular”。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | 返回上升点，以点为单位。 |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | 打开带有字体数据的流。调用者负责处理流。 |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | 返回下降点，以点为单位。 |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(*float*) | 使用指定的字体大小获取字体的上升度（点）。 |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | 打开包含字体数据的流。调用方负责释放该流。 |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(*float*) | 使用指定的字体大小获取字体的下降度（点）。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

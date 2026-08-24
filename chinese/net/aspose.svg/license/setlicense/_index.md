@@ -1,50 +1,50 @@
 ---
-title: License.SetLicense
-second_title: Aspose.SVG for .NET API 参考
-description: License 方法. 许可组件
+title: "License.SetLicense"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "License SetLicense 方法。为组件授权"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/license/setlicense/
 ---
-## SetLicense(string) {#setlicense_1}
+## SetLicense(*string*) {#setlicense_1}
 
-许可组件。
+对组件进行授权。
 
 ```csharp
 public void SetLicense(string licenseName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| licenseName | String | 可以是全名或短文件名或嵌入资源的名称. 使用空字符串切换到评估模式。 |
+| licenseName | String | 可以是完整或简短的文件名，或嵌入资源的名称。使用空字符串切换到评估模式。 |
 
-### 评论
+## 备注
 
 尝试在以下位置查找许可证：
 
-1.显式路径。
+1. 明确路径。
 
-2. 包含Aspose组件组装的文件夹。
+2. 包含 Aspose 组件程序集的文件夹。
 
 3. 包含客户端调用程序集的文件夹。
 
 4. 包含入口（启动）程序集的文件夹。
 
-5. 客户端调用程序集中的嵌入式资源。
+5. 客户端调用程序集中的嵌入资源。
 
-**笔记：**在 .NET Compact Framework 上，尝试仅在这些位置查找许可证：
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
-1.显式路径。
+1. 明确路径。
 
-2. 客户端调用程序集中的嵌入式资源。
+2. 客户端调用程序集中的嵌入资源。
 
 2. 包含 Aspose 组件 JAR 文件的文件夹。
 
 3. 包含客户端调用 JAR 文件的文件夹。
 
-### 例子
+## 示例
 
-在此示例中，将尝试在包含 的文件夹中查找名为 MyLicense.lic 的许可证文件 组件，在包含调用程序集的文件夹中， 在入口程序集的文件夹中，然后在调用程序集的嵌入资源中。
+在此示例中，将尝试在包含组件的文件夹、调用程序集所在的文件夹、入口程序集所在的文件夹以及调用程序集的嵌入资源中，查找名为 MyLicense.lic 的许可证文件。
 
 ```csharp
 [C#]
@@ -60,31 +60,31 @@ License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [License](../)
-* 命名空间 [Aspose.Svg](../../license/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetLicense(Stream) {#setlicense}
+## SetLicense(*Stream*) {#setlicense}
 
-许可组件。
+对组件进行授权。
 
 ```csharp
 public void SetLicense(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 包含许可证的流。 |
+| 流 | Stream | 包含许可证的流。 |
 
-### 评论
+## 备注
 
 使用此方法从流中加载许可证。
 
-### 例子
+## 示例
 
 ```csharp
 [C#]
@@ -93,10 +93,8 @@ License license = new License();
 license.SetLicense(myStream);
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [License](../)
-* 命名空间 [Aspose.Svg](../../license/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGLength.Value
-second_title: Aspose.SVG for .NET API 参考
-description: SVGLength 财产. 该值作为浮点值以用户单位表示设置此属性将导致 valueInSpecifiedUnits 和 valueAsString 自动更新以反映此设置
+title: "SVGLength.Value"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGLength Value 属性。该值以用户单位的浮点数表示。设置此属性将导致 valueInSpecifiedUnits 和 valueAsString 自动更新以反映此设置。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.datatypes/svglength/value/
 ---
 ## SVGLength.Value property
 
-该值作为浮点值，以用户单位表示。设置此属性将导致 valueInSpecifiedUnits 和 valueAsString 自动更新以反映此设置。
+该值为浮点数，单位为用户单位。设置此属性将自动更新 valueInSpecifiedUnits 和 valueAsString 以反映此设置。
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-值。
+该值。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 当长度对应于只读属性或对象本身为只读时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 在长度对应只读属性或对象本身为只读时抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGLength](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svglength/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

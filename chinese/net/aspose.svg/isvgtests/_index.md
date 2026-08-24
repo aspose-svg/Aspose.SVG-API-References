@@ -1,30 +1,28 @@
 ---
-title: Interface ISVGTests
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.ISVGTests 界面. 接口 SVGTests 定义了一个接口它适用于所有具有属性requiredFeaturesrequiredExtensions和systemLanguage的元素
+title: "ISVGTests 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.ISVGTests 接口。接口 SVGTests 定义了一个适用于所有具有 requiredFeatures、requiredExtensions 和 systemLanguage 属性的元素的接口。"
 type: docs
-weight: 2030
+weight: 4100
 url: /zh/net/aspose.svg/isvgtests/
 ---
 ## ISVGTests interface
 
-接口 SVGTests 定义了一个接口，它适用于所有具有属性“requiredFeatures”、“requiredExtensions”和“systemLanguage”的元素。
+SVGTests 接口定义适用于所有具有 ‘requiredFeatures’、‘requiredExtensions’ 和 ‘systemLanguage’ 属性的元素的接口。
 
 ```csharp
 public interface ISVGTests
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions/) { get; } | 对应于给定元素上的属性“requiredExtensions”。 |
-| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures/) { get; } | 对应于给定元素上的属性“requiredFeatures”。 |
-| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage/) { get; } | 对应于给定元素上的属性“systemLanguage”。 |
+| [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions/) { get; } | 对应于给定元素的 ‘requiredExtensions’ 属性。 |
+| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures/) { get; } | 对应于给定元素的 ‘requiredFeatures’ 属性。 |
+| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage/) { get; } | 对应于给定元素的 ‘systemLanguage’ 属性。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg](../../aspose.svg/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

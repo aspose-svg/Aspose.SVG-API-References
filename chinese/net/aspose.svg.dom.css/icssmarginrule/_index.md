@@ -1,30 +1,28 @@
 ---
-title: Interface ICSSMarginRule
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Css.ICSSMarginRule 界面. CSSMarginRule 接口表示规则的边距
+title: "ICSSMarginRule 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Dom.Css.ICSSMarginRule 接口。CSSMarginRule 接口表示一个 margin at-rule"
 type: docs
-weight: 590
+weight: 2590
 url: /zh/net/aspose.svg.dom.css/icssmarginrule/
 ---
 ## ICSSMarginRule interface
 
-CSSMarginRule 接口表示规则的边距。
+CSSMarginRule 接口表示 margin at-rule。
 
 ```csharp
 public interface ICSSMarginRule : ICSSRule
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | name 属性必须返回 margin at-rule 的名称。 @ 字符不包含在名称中。 |
-| [Style](../../aspose.svg.dom.css/icssmarginrule/style/) { get; } | 这条规则的声明块。 |
+| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | name 属性必须返回 margin at-rule 的名称。名称中不包括 @ 字符。 |
+| [Style](../../aspose.svg.dom.css/icssmarginrule/style/) { get; } | 该规则的声明块。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSSRule](../icssrule/)
-* 命名空间 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

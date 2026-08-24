@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnReset
-second_title: Aspose.SVG for .NET API 参考
-description: IGlobalEventHandlers 事件. 获取或设置 OnReset 事件的事件处理程序
+title: "IGlobalEventHandlers.OnReset"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IGlobalEventHandlers OnReset 事件。获取或设置 OnReset 事件的事件处理程序"
 type: docs
 weight: 370
 url: /zh/net/aspose.svg.dom/iglobaleventhandlers/onreset/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg.dom/iglobaleventhandlers/onreset/
 public event DOMEventHandler OnReset;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* 命名空间 [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSeg 场地. 对应于绝对平滑二次曲线T 路径数据命令
+title: "SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathSeg PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS 字段。对应于绝对的平滑二次 curveto T 路径数据命令"
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_smooth_abs/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS field
 
-对应于“绝对平滑二次曲线”(T) 路径数据命令。
+对应一个“绝对 smooth quadratic curveto”(T) 路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSeg](../)
-* 命名空间 [Aspose.Svg.Paths](../../svgpathseg/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

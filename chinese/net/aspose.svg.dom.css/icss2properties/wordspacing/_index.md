@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.WordSpacing
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 wordspacing 属性定义
+title: "ICSS2Properties.WordSpacing"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties WordSpacing 属性。请参阅 CSS2 中的 word-spacing 属性定义"
 type: docs
-weight: 1210
+weight: 1240
 url: /zh/net/aspose.svg.dom.css/icss2properties/wordspacing/
 ---
 ## ICSS2Properties.WordSpacing property
 
-参见 CSS2 中的 word-spacing 属性定义。
+请参阅 CSS2 中的 word-spacing 属性定义。
 
 ```csharp
 public string WordSpacing { get; set; }
@@ -16,12 +16,10 @@ public string WordSpacing { get; set; }
 
 ### 返回值
 
-字间距属性
+word-spacing 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Document.XmlStandalone
-second_title: Aspose.SVG for .NET API 参考
-description: Document 财产. 作为 XML 声明的一部分指定此文档是否独立的属性未指定时为假
+title: "Document.XmlStandalone"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document XmlStandalone 属性。此属性是 XML 声明的一部分，用于指定该文档是否为独立文档。如果未指定，则为 false。"
 type: docs
 weight: 260
 url: /zh/net/aspose.svg.dom/document/xmlstandalone/
 ---
 ## Document.XmlStandalone property
 
-作为 XML 声明的一部分，指定此文档是否独立的属性。未指定时为假。
+一个属性，作为 XML 声明的一部分，指定此文档是否为独立文档。如果未指定，则为 false。
 
 ```csharp
 public bool XmlStandalone { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果 XML 独立；否则，`错误的` .
+`true` 表示 XML 为独立文档；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

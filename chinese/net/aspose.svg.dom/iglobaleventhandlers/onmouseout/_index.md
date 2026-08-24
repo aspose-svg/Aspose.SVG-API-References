@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnMouseOut
-second_title: Aspose.SVG for .NET API 参考
-description: IGlobalEventHandlers 事件. 获取或设置 OnMouseOut 事件的事件处理程序
+title: "IGlobalEventHandlers.OnMouseOut"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IGlobalEventHandlers OnMouseOut 事件。获取或设置 OnMouseOut 事件的事件处理程序"
 type: docs
 weight: 280
 url: /zh/net/aspose.svg.dom/iglobaleventhandlers/onmouseout/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg.dom/iglobaleventhandlers/onmouseout/
 public event DOMEventHandler OnMouseOut;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* 命名空间 [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

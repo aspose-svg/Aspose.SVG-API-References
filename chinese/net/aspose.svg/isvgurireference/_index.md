@@ -1,28 +1,26 @@
 ---
-title: Interface ISVGURIReference
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.ISVGURIReference 界面. 接口 SVGURIReference 定义了一个接口该接口适用于所有具有 XLink 属性集合的元素例如定义 URI 引用的xlinkhref
+title: "ISVGURIReference 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.ISSVGURIReference 接口。SVGURIReference 接口定义了一个适用于所有具有 XLink 属性集合（如定义 URI 引用的 xlinkhref）的元素的接口。"
 type: docs
-weight: 2040
+weight: 4110
 url: /zh/net/aspose.svg/isvgurireference/
 ---
 ## ISVGURIReference interface
 
-接口 SVGURIReference 定义了一个接口，该接口适用于所有具有 XLink 属性集合的元素，例如定义 URI 引用的“xlink:href”。
+SVGURIReference 接口定义适用于所有拥有 XLink 属性集合（例如 ‘xlink:href’）并定义 URI 引用的元素的接口。
 
 ```csharp
 public interface ISVGURIReference
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Href](../../aspose.svg/isvgurireference/href/) { get; } | 对应于给定元素上的属性“xlink:href”。 |
+| [Href](../../aspose.svg/isvgurireference/href/) { get; } | 对应给定元素上的属性 ‘xlink:href’。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Svg](../../aspose.svg/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

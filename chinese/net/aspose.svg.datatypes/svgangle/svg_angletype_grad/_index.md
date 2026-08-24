@@ -1,7 +1,7 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_GRAD
-second_title: Aspose.SVG for .NET API 参考
-description: SVGAngle 场地. 单位类型为弧度
+title: "SVGAngle.SVG_ANGLETYPE_GRAD"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGAngle SVG_ANGLETYPE_GRAD 字段。单位类型为弧度。"
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.datatypes/svgangle/svg_angletype_grad/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.datatypes/svgangle/svg_angletype_grad/
 public const ushort SVG_ANGLETYPE_GRAD;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAngle](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgangle/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,31 +1,29 @@
 ---
-title: Interface IGradientBrush
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Drawing.IGradientBrush 界面. 声明获取渐变画笔通用属性的方法
+title: "IGradientBrush 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Drawing.IGradientBrush 接口。声明用于获取渐变画笔公共属性的方法"
 type: docs
-weight: 1450
+weight: 3470
 url: /zh/net/aspose.svg.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
 
-声明获取渐变画笔通用属性的方法。
+声明获取渐变画刷常用属性的方法。
 
 ```csharp
 public interface IGradientBrush : ITransformableBrush
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; } | 获取定义渐变自定义衰减的混合因子。 |
-| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; } | 获取定义渐变自定义衰减的混合位置。 |
-| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; } | 获取定义多色线性渐变的插值颜色。 |
+| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; set; } | 获取或设置定义渐变自定义衰减的混合因子。 |
+| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; set; } | 获取或设置定义渐变自定义衰减的混合位置。 |
+| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; set; } | 获取或设置定义多颜色线性渐变的插值颜色。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITransformableBrush](../itransformablebrush/)
-* 命名空间 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

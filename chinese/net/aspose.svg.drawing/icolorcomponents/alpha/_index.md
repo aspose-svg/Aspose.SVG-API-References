@@ -1,7 +1,7 @@
 ---
-title: IColorComponents.Alpha
-second_title: Aspose.SVG for .NET API 参考
-description: IColorComponents 财产. 返回 alpha 分量
+title: "IColorComponents.Alpha"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IColorComponents Alpha 属性。返回 Alpha 组件"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/icolorcomponents/alpha/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.drawing/icolorcomponents/alpha/
 public float Alpha { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorComponents](../)
-* 命名空间 [Aspose.Svg.Drawing](../../icolorcomponents/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

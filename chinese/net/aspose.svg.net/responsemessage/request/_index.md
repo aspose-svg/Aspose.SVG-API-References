@@ -1,28 +1,26 @@
 ---
-title: ResponseMessage.Request
-second_title: Aspose.SVG for .NET API 参考
-description: ResponseMessage 财产. 获取或设置关联请求
+title: "ResponseMessage Request 属性。获取或设置关联的请求"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ResponseMessage 请求属性。获取或设置关联的请求"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.net/responsemessage/request/
 ---
 ## ResponseMessage.Request property
 
-获取或设置关联请求。
+获取或设置关联的请求。
 
 ```csharp
 public RequestMessage Request { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 请求。
 
-### 也可以看看
+### 另请参阅
 
 * class [RequestMessage](../../requestmessage/)
 * class [ResponseMessage](../)
-* 命名空间 [Aspose.Svg.Net](../../responsemessage/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

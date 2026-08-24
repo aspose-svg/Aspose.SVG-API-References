@@ -1,7 +1,7 @@
 ---
-title: Margin.Top
-second_title: Aspose.SVG for .NET API 参考
-description: Margin 财产. 获取或设置顶部
+title: "Margin.Top"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Margin Top 属性。获取或设置顶部。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.drawing/margin/top/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.drawing/margin/top/
 public LengthOrAuto Top { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-顶.
+顶部。
 
-### 也可以看看
+### 另请参阅
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* 命名空间 [Aspose.Svg.Drawing](../../margin/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

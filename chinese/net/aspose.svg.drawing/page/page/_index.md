@@ -1,88 +1,86 @@
 ---
-title: Page.Page
-second_title: Aspose.SVG for .NET API 参考
-description: Page 构造函数. 初始化一个新的实例Page类.
+title: "页面"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Page 构造函数。初始化 Page 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/page/page/
 ---
-## Page(Size, Margin) {#constructor_3}
+## Page(*[Size](../../size/), [Margin](../../margin/)*) {#constructor_3}
 
-初始化一个新的实例[`Page`](../)类.
+初始化 [`Page`](../) 类的新实例。
 
 ```csharp
 public Page(Size size, Margin margin)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size | Size | 页面大小。 |
-| margin | Margin | 保证金。 |
+| 大小 | Size | 页面大小。 |
+| 边距 | Margin | 边距。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* 命名空间 [Aspose.Svg.Drawing](../../page/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Size) {#constructor_2}
+## Page(*[Size](../../size/)*) {#constructor_2}
 
-初始化一个新的实例[`Page`](../)类.
+初始化 [`Page`](../) 类的新实例。
 
 ```csharp
 public Page(Size size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size | Size | 页面大小。 |
+| 大小 | Size | 页面大小。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Size](../../size/)
 * class [Page](../)
-* 命名空间 [Aspose.Svg.Drawing](../../page/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Margin) {#constructor_1}
+## Page(*[Margin](../../margin/)*) {#constructor_1}
 
-初始化一个新的实例[`Page`](../)类.
+初始化 [`Page`](../) 类的新实例。
 
 ```csharp
 public Page(Margin margin)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| margin | Margin | 保证金。 |
+| 边距 | Margin | 边距。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* 命名空间 [Aspose.Svg.Drawing](../../page/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Page() {#constructor}
 
-初始化一个新的实例[`Page`](../)类.
+初始化 [`Page`](../) 类的新实例。
 
 ```csharp
 public Page()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Page](../)
-* 命名空间 [Aspose.Svg.Drawing](../../page/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

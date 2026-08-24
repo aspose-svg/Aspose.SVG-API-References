@@ -1,7 +1,7 @@
 ---
-title: MimeType.op_Equality
-second_title: Aspose.SVG for .NET API 参考
-description: MimeType 方法. 比较两个 Mime 类型并返回一个布尔值指示两者是否匹配
+title: "MimeType.op_Equality"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MimeType op_Equality 方法。比较两个 Mime 类型并返回一个布尔值，指示两者是否匹配"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg/mimetype/op_equality/
@@ -14,19 +14,17 @@ url: /zh/net/aspose.svg/mimetype/op_equality/
 public static bool operator ==(MimeType a, MimeType b)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| a | MimeType | 第一个 Mime 比较。 |
-| b | MimeType | 第二个要比较的 Mime。 |
+| a | MimeType | 要比较的第一个 MIME。 |
+| b | MimeType | 要比较的第二个 MIME。 |
 
 ### 返回值
 
-真的如果两个优先级相等，否则错误的 .
+如果两个优先级相等，则为 True，否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [MimeType](../)
-* 命名空间 [Aspose.Svg](../../mimetype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

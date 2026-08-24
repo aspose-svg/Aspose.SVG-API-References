@@ -1,27 +1,25 @@
 ---
-title: SVGException.SVGException
-second_title: Aspose.SVG for .NET API 参考
-description: SVGException 构造函数. 初始化一个新的实例SVGException类.
+title: "SVGException"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGException 构造函数。初始化 SVGException 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-初始化一个新的实例[`SVGException`](../)类.
+初始化 [`SVGException`](../) 类的新实例。
 
 ```csharp
 public SVGException(ushort code)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| code | UInt16 | 错误代码。 |
+| 代码 | UInt16 | 错误代码。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGException](../)
-* 命名空间 [Aspose.Svg](../../svgexception/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

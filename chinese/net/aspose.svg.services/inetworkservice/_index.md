@@ -1,30 +1,27 @@
 ---
-title: Interface INetworkService
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Services.INetworkService 界面. 为网络操作提供接口
+title: "INetworkService 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.Services.INetworkService 接口。提供网络操作的接口。"
 type: docs
-weight: 3720
+weight: 5850
 url: /zh/net/aspose.svg.services/inetworkservice/
 ---
 ## INetworkService interface
 
-为网络操作提供接口。
+提供网络操作的接口。
 
 ```csharp
-public interface INetworkService : IService
+public interface INetworkService
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | 获取列表[`MessageHandler`](../../aspose.svg.net/messagehandler/)被调用的实例[`RequestMessage`](../../aspose.svg.net/requestmessage/)执行. |
+| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | 获取 [`MessageHandler`](../../aspose.svg.net/messagehandler/) 实例的列表，以在 [`RequestMessage`](../../aspose.svg.net/requestmessage/) 执行时调用它们。 |
 | [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | 获取或设置 URL 解析器。 |
 
-### 也可以看看
+### 另请参阅
 
-* interface [IService](../iservice/)
-* 命名空间 [Aspose.Svg.Services](../../aspose.svg.services/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

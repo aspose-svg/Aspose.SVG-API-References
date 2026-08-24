@@ -1,9 +1,9 @@
 ---
-title: Interface IFileList
-second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.IO.IFileList 界面. 表示文件列表的接口
+title: "IFileList 接口"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Aspose.Svg.IO.IFileList 接口。表示文件列表的接口。"
 type: docs
-weight: 1950
+weight: 4060
 url: /zh/net/aspose.svg.io/ifilelist/
 ---
 ## IFileList interface
@@ -14,17 +14,15 @@ url: /zh/net/aspose.svg.io/ifilelist/
 public interface IFileList : IEnumerable<IFile>
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Item](../../aspose.svg.io/ifilelist/item/) { get; } | 返回列表中的第 indexth 个文件。 |
-| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | 文件列表的返回长度。 |
+| [Item](../../aspose.svg.io/ifilelist/item/) { get; } | 返回列表中第 index 个文件。 |
+| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | 返回文件列表的长度。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IFile](../ifile/)
-* 命名空间 [Aspose.Svg.IO](../../aspose.svg.io/)
-* 部件 [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

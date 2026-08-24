@@ -1,7 +1,7 @@
 ---
-title: IUrlSearchParams.Sort
-second_title: Aspose.SVG for .NET API 参考
-description: IUrlSearchParams 方法. 按名称对所有名称值对如果有进行排序
+title: "IUrlSearchParams.Sort"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IUrlSearchParams Sort 方法。按名称对所有（如果有）名称-值对进行排序"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg/iurlsearchparams/sort/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg/iurlsearchparams/sort/
 public void Sort()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IUrlSearchParams](../)
-* 命名空间 [Aspose.Svg](../../iurlsearchparams/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: Attr.OwnerElement
-second_title: Aspose.SVG for .NET API 参考
-description: Attr 财产. 此属性附加到的元素节点如果未使用此属性则为 null
+title: "Attr.OwnerElement"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Attr OwnerElement属性。该属性所附属的Element节点，如果此属性未被使用则为null"
 type: docs
-weight: 80
+weight: 70
 url: /zh/net/aspose.svg.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 
-此属性附加到的元素节点，如果未使用此属性，则为 null。
+该属性所附着的 Element 节点，如果该属性未使用则为 null。
 
 ```csharp
 public Element OwnerElement { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Element](../../element/)
 * class [Attr](../)
-* 命名空间 [Aspose.Svg.Dom](../../attr/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

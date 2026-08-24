@@ -1,7 +1,7 @@
 ---
-title: Numeric.GetValue
-second_title: Aspose.SVG for .NET API 参考
-description: Numeric 方法. 获取单位值
+title: "Numeric.GetValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Numeric GetValue 方法。获取单位值"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/numeric/getvalue/
@@ -16,43 +16,41 @@ public double GetValue()
 
 ### 返回值
 
-对象值。
+对象的值。
 
-### 也可以看看
+### 另请参阅
 
 * class [Numeric](../)
-* 命名空间 [Aspose.Svg.Drawing](../../numeric/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
-获取转换为指定的值[`UnitType`](../../unittype/) .
+获取转换为指定[`UnitType`](../../unittype/)的值。
 
 ```csharp
 public double GetValue(UnitType unitType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| unitType | UnitType | 单位类型。 |
+| unitType | UnitType | 单位的类型。 |
 
 ### 返回值
 
 返回转换为指定类型的值。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 单位类型 |
+| ArgumentNullException | unitType |
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* 命名空间 [Aspose.Svg.Drawing](../../numeric/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

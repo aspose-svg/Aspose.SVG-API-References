@@ -1,32 +1,30 @@
 ---
-title: Element.SetAttributeNode
-second_title: Aspose.SVG for .NET API 参考
-description: Element 方法. 添加一个新的属性节点如果具有该名称 nodeName 的属性已经存在于元素中它将被新的替换
+title: "Element.SetAttributeNode"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element SetAttributeNode 方法。添加一个新的属性节点。如果元素中已经存在具有该名称 nodeName 的属性，则会被新属性替换"
 type: docs
 weight: 410
 url: /zh/net/aspose.svg.dom/element/setattributenode/
 ---
 ## Element.SetAttributeNode method
 
-添加一个新的属性节点。如果具有该名称 (nodeName) 的属性已经存在于元素中，它将被新的替换。
+添加新属性节点。如果元素中已存在具有该名称（nodeName）的属性，则它将被新属性替换。
 
 ```csharp
 public Attr SetAttributeNode(Attr newAttr)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| newAttr | Attr | 新属性。 |
+| newAttr | Attr | 新的属性。 |
 
 ### 返回值
 
 返回属性
 
-### 也可以看看
+### 另请参阅
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

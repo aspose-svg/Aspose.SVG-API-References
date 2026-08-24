@@ -1,28 +1,26 @@
 ---
-title: CSSPrimitiveValue.SetFloatValue
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 方法. 一种以指定单位设置浮点值的方法如果附加此值的属性不能接受指定的单位或浮点值则该值将保持不变并引发 DOMException
+title: "CSSPrimitiveValue.SetFloatValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue SetFloatValue 方法。此方法用于使用指定单位设置浮点值。如果附加此值的属性不能接受指定的单位或浮点值，则该值保持不变，并抛出 DOMException。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/setfloatvalue/
 ---
 ## CSSPrimitiveValue.SetFloatValue method
 
-一种以指定单位设置浮点值的方法。如果附加此值的属性不能接受指定的单位或浮点值，则该值将保持不变并引发 DOMException。
+一种使用指定单位设置浮点值的方法。如果附加此值的属性不能接受指定单位或浮点值，则该值保持不变，并抛出 DOMException。
 
 ```csharp
 public abstract void SetFloatValue(ushort unitType, float floatValue)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| unitType | UInt16 | 单位类型。 |
+| unitType | UInt16 | 单位的类型。 |
 | floatValue | Single | 浮点值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

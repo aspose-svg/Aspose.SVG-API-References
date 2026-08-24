@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.Count
-second_title: Aspose.SVG for .NET API 参考
-description: MutationObserverInit 财产. 获取包含的键/值对的数量MutationObserverInit集合.
+title: "MutationObserverInit.Count"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationObserverInit Count 属性。获取 MutationObserverInit 集合中键/值对的数量。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/count/
 ---
 ## MutationObserverInit.Count property
 
-获取包含的键/值对的数量[`MutationObserverInit`](../)集合.
+获取 [`MutationObserverInit`](../) 集合中键/值对的数量。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationObserverInit](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

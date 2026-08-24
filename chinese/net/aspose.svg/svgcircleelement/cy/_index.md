@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.Cy
-second_title: Aspose.SVG for .NET API 参考
-description: SVGCircleElement 财产. 对应于给定circle元素上的属性cy
+title: "SVGCircleElement.Cy"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGCircleElement Cy 属性。对应于给定 circle 元素的属性 cy"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgcircleelement/cy/
 ---
 ## SVGCircleElement.Cy property
 
-对应于给定“circle”元素上的属性“cy”。
+对应于给定 ‘circle’ 元素的属性 ‘cy’。
 
 ```csharp
 public SVGAnimatedLength Cy { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“圆”元素的属性“cy”。
+给定 ‘circle’ 元素的属性 ‘cy’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* 命名空间 [Aspose.Svg](../../svgcircleelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

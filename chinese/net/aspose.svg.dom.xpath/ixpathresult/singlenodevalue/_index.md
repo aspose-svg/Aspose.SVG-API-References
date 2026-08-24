@@ -1,30 +1,28 @@
 ---
-title: IXPathResult.SingleNodeValue
-second_title: Aspose.SVG for .NET API 参考
-description: IXPathResult 财产. 这个单节点结果的值可能是无效的 .
+title: "IXPathResult.SingleNodeValue"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IXPathResult SingleNodeValue 属性。此单节点结果的值，可能为 null。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/singlenodevalue/
 ---
 ## IXPathResult.SingleNodeValue property
 
-这个单节点结果的值，可能是`无效的` .
+此单节点结果的值，可能为 `null`。
 
 ```csharp
 public Node SingleNodeValue { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR：如果 resultType 不是 则引发`任意无序节点`输入或`首序节点`类型。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: 如果 resultType 不是 `AnyUnorderedNode` 类型或 `FirstOrderedNode` 类型，则抛出。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* 命名空间 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

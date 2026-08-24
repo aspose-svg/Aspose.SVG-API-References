@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.LetterSpacing
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 letterspacing 属性定义
+title: "ICSS2Properties.LetterSpacing"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties LetterSpacing 属性。查看 letter-spacing 属性定义于 CSS2"
 type: docs
-weight: 570
+weight: 600
 url: /zh/net/aspose.svg.dom.css/icss2properties/letterspacing/
 ---
 ## ICSS2Properties.LetterSpacing property
 
-参见 CSS2 中的 letter-spacing 属性定义。
+请参阅 CSS2 中的 letter-spacing 属性定义。
 
 ```csharp
 public string LetterSpacing { get; set; }
@@ -16,12 +16,10 @@ public string LetterSpacing { get; set; }
 
 ### 返回值
 
-字母间距属性
+letter-spacing 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

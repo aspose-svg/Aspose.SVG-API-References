@@ -1,7 +1,7 @@
 ---
-title: UnitType.Hz
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量单位为赫兹
+title: "UnitType.Hz"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Hz 字段。测量单位为赫兹"
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.drawing/unittype/hz/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.drawing/unittype/hz/
 public static readonly UnitType Hz;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

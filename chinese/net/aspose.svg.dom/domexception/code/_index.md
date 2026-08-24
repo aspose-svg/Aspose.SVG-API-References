@@ -1,27 +1,25 @@
 ---
-title: DOMException.Code
-second_title: Aspose.SVG for .NET API 参考
-description: DOMException 财产. 返回一个包含错误代码常量之一的值如果不匹配则返回 0由于历史原因使用该字段
+title: "DOMException.Code"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "DOMException Code 属性。返回一个包含错误代码常量之一的值，如果没有匹配则返回 0。此字段因历史原因而保留。"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom/domexception/code/
 ---
 ## DOMException.Code property
 
-返回一个包含错误代码常量之一的值，如果不匹配则返回 0。由于历史原因使用该字段。
+返回一个包含错误代码常量之一的值，如果没有匹配则返回 0。此字段出于历史原因而保留。
 
 ```csharp
 public ushort Code { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 返回错误代码。
 
-### 也可以看看
+### 另请参阅
 
 * class [DOMException](../)
-* 命名空间 [Aspose.Svg.Dom](../../domexception/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_PERCENTAGE
-second_title: Aspose.SVG for .NET API 参考
-description: CSSPrimitiveValue 场地. 该值为百分比该值可以通过getFloatValue方法获取
+title: "CSSPrimitiveValue.CSS_PERCENTAGE"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "CSSPrimitiveValue CSS_PERCENTAGE 字段。该值是百分比。可以使用 getFloatValue 方法获取该值。"
 type: docs
-weight: 310
+weight: 320
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_percentage/
 ---
 ## CSSPrimitiveValue.CSS_PERCENTAGE field
 
-该值为百分比。该值可以通过getFloatValue方法获取。
+该值是百分比。该值可通过使用 getFloatValue 方法获取。
 
 ```csharp
 public const ushort CSS_PERCENTAGE;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CSSPrimitiveValue](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

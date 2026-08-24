@@ -1,7 +1,7 @@
 ---
-title: ImageDevice.ImageGraphicContext.ImageGraphicContext
-second_title: Aspose.SVG for .NET API 参考
-description: ImageGraphicContext 构造函数. 默认构造函数
+title: "ImageDevice.ImageGraphicContext.ImageGraphicContext"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ImageGraphicContext 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/imagegraphiccontext/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/imagegra
 public ImageGraphicContext()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageGraphicContext](../)
-* 命名空间 [Aspose.Svg.Rendering.Image](../../imagedevice.imagegraphiccontext/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IDeviceInformationService.ScreenSize
-second_title: Aspose.SVG for .NET API 参考
-description: IDeviceInformationService 财产. 获取或设置屏幕的大小
+title: "IDeviceInformationService.ScreenSize"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "IDeviceInformationService ScreenSize 属性。获取或设置屏幕的大小"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.services/ideviceinformationservice/screensize/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.services/ideviceinformationservice/screensize/
 public Size ScreenSize { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-屏幕大小。
+屏幕的大小。
 
-### 也可以看看
+### 另请参阅
 
 * class [Size](../../../aspose.svg.drawing/size/)
 * interface [IDeviceInformationService](../)
-* 命名空间 [Aspose.Svg.Services](../../ideviceinformationservice/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

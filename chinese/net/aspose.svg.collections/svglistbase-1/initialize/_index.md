@@ -1,37 +1,35 @@
 ---
-title: SVGListBase1.Initialize
-second_title: Aspose.SVG for .NET API 参考
-description: SVGListBase 方法. 从列表中清除所有现有的当前项目并重新初始化列表以保存参数指定的单个项目
+title: "SVGListBase-1.Initialize"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGListBase Initialize 方法。清除列表中所有现有的当前项，并重新初始化列表以容纳参数指定的单个项。"
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.collections/svglistbase-1/initialize/
 ---
-## SVGListBase&lt;T&gt;.Initialize method
+## SVGListBase<T>.Initialize method
 
-从列表中清除所有现有的当前项目并重新初始化列表以保存参数指定的单个项目。
+清除列表中所有现有的当前项，并重新初始化列表以容纳参数指定的单个项。
 
 ```csharp
 public T Initialize(T newItem)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| newItem | T | 应该成为列表唯一成员的项目。 |
+| newItem | T | 该项应成为列表中唯一的成员。 |
 
 ### 返回值
 
-被插入到列表中的项目。
+正在插入列表的项。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). 无法修改列表时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。当列表无法被修改时抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGListBase&lt;T&gt;](../)
-* 命名空间 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

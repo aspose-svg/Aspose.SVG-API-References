@@ -1,7 +1,7 @@
 ---
-title: NameValueHeaderValue.Name
-second_title: Aspose.SVG for .NET API 参考
-description: NameValueHeaderValue 财产. 获取参数名称
+title: "NameValueHeaderValue.Name"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "NameValueHeaderValue Name 属性。获取参数名称"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net.headers/namevalueheadervalue/name/
@@ -14,14 +14,12 @@ url: /zh/net/aspose.svg.net.headers/namevalueheadervalue/name/
 public string Name { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-名字.
+名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [NameValueHeaderValue](../)
-* 命名空间 [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: FtpProtocolMessageHandler.Invoke
-second_title: Aspose.SVG for .NET API 参考
-description: FtpProtocolMessageHandler 方法. 在派生类中重写时用于实现消息处理
+title: "FtpProtocolMessageHandler.Invoke"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "FtpProtocolMessageHandler Invoke 方法。 当在派生类中被覆盖时，用于实现消息处理"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/invoke/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/invoke/
 public override void Invoke(INetworkOperationContext context)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| context | INetworkOperationContext | 上下文。 |
+| context | 该 Context。 | 如果 Context 对象满足过滤条件则返回 true；否则返回 false。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [INetworkOperationContext](../../../aspose.svg.net/inetworkoperationcontext/)
 * class [FtpProtocolMessageHandler](../)
-* 命名空间 [Aspose.Svg.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: ResourceHandlingOptions.JavaScript
-second_title: Aspose.SVG for .NET API 参考
-description: ResourceHandlingOptions 财产. 获取或设置代表脚本处理方式的枚举现在SaveIgnoreDiscard和Embed值得到支持默认值为Save .
+title: "ResourceHandlingOptions.JavaScript"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ResourceHandlingOptions JavaScript 属性。获取或设置表示脚本处理方式的枚举。目前支持 Save、Ignore、Discard 和 Embed 值。默认值为 Save"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.saving/resourcehandlingoptions/javascript/
 ---
 ## ResourceHandlingOptions.JavaScript property
 
-获取或设置代表脚本处理方式的枚举。现在Save,Ignore,Discard和Embed值得到支持。默认值为Save .
+获取或设置表示脚本处理方式的枚举。目前支持 Save、Ignore、Discard 和 Embed 值。默认值为 Save。
 
 ```csharp
 public ResourceHandling JavaScript { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResourceHandling](../../resourcehandling/)
 * class [ResourceHandlingOptions](../)
-* 命名空间 [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

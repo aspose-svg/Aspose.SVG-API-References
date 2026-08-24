@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.Values
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEColorMatrixElement 财产. 对应于给定feColorMatrix元素上的属性值
+title: "SVGFEColorMatrixElement.Values"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEColorMatrixElement Values 属性。对应给定 feColorMatrix 元素上的 values 属性。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.filters/svgfecolormatrixelement/values/
 ---
 ## SVGFEColorMatrixElement.Values property
 
-对应于给定“feColorMatrix”元素上的属性“值”。
+对应给定 ‘feColorMatrix’ 元素的属性 ‘values’。
 
 ```csharp
 public SVGAnimatedNumberList Values { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“feColorMatrix”元素的属性“值”。
+给定 ‘feColorMatrix’ 元素的 ‘values’ 属性。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGFEColorMatrixElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

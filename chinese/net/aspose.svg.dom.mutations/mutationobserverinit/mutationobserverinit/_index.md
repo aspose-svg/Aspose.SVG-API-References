@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.MutationObserverInit
-second_title: Aspose.SVG for .NET API 参考
-description: MutationObserverInit 构造函数. 初始化一个新的实例MutationObserverInit类.
+title: "MutationObserverInit"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationObserverInit 构造函数。初始化 MutationObserverInit 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/mutationobserverinit/
 ---
 ## MutationObserverInit constructor
 
-初始化一个新的实例[`MutationObserverInit`](../)类.
+初始化 [`MutationObserverInit`](../) 类的新实例。
 
 ```csharp
 public MutationObserverInit()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationObserverInit](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

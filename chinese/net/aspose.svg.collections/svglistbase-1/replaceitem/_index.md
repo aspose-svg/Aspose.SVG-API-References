@@ -1,39 +1,37 @@
 ---
-title: SVGListBase1.ReplaceItem
-second_title: Aspose.SVG for .NET API 参考
-description: SVGListBase 方法. 用新项目替换列表中的现有项目
+title: "SVGListBase-1.ReplaceItem"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGListBase ReplaceItem 方法。用新项替换列表中已有的项"
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.collections/svglistbase-1/replaceitem/
 ---
-## SVGListBase&lt;T&gt;.ReplaceItem method
+## SVGListBase<T>.ReplaceItem method
 
-用新项目替换列表中的现有项目。
+用新项替换列表中现有的项。
 
 ```csharp
 public T ReplaceItem(T newItem, ulong index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| newItem | T | 要插入到列表中的项目。 |
-| index | UInt64 | 要替换的项目的索引。第一项是数字 0。 |
+| newItem | T | 要插入到列表中的项。 |
+| 索引 | UInt64 | 要被替换的项的索引。第一个项的编号为 0。 |
 
 ### 返回值
 
-插入的项目。
+插入的项。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). 无法修改列表时引发。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). 如果索引号大于或等于 numberOfItems 则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。当列表无法被修改时抛出此错误。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | 代码 [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/)。如果索引号大于或等于 numberOfItems，则抛出此错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGListBase&lt;T&gt;](../)
-* 命名空间 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

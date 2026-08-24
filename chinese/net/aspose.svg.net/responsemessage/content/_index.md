@@ -1,7 +1,7 @@
 ---
-title: ResponseMessage.Content
-second_title: Aspose.SVG for .NET API 参考
-description: ResponseMessage 财产. 获取或设置响应内容
+title: "ResponseMessage.Content"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ResponseMessage Content 属性。获取或设置响应内容"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.net/responsemessage/content/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.net/responsemessage/content/
 public Content Content { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-身体。
+请求体。
 
-### 也可以看看
+### 另请参阅
 
 * class [Content](../../content/)
 * class [ResponseMessage](../)
-* 命名空间 [Aspose.Svg.Net](../../responsemessage/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

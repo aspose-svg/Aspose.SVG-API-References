@@ -1,12 +1,12 @@
 ---
-title: Device2.GraphicContext
-second_title: Aspose.SVG for .NET API 参考
-description: Device 财产. 获取图形上下文
+title: "Device-2.GraphicContext"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Device GraphicContext 属性。获取图形上下文"
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.svg.rendering/device-2/graphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.GraphicContext property
+## Device<TGraphicContext,TRenderingOptions>.GraphicContext property
 
 获取图形上下文
 
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.rendering/device-2/graphiccontext/
 public TGraphicContext GraphicContext { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 命名空间 [Aspose.Svg.Rendering](../../device-2/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

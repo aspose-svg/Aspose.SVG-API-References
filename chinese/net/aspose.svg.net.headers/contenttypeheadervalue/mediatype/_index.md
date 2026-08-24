@@ -1,7 +1,7 @@
 ---
-title: ContentTypeHeaderValue.MediaType
-second_title: Aspose.SVG for .NET API 参考
-description: ContentTypeHeaderValue 财产. 获取或设置内容的媒体类型
+title: "ContentTypeHeaderValue.MediaType"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ContentTypeHeaderValue MediaType 属性。获取或设置内容的媒体类型"
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.net.headers/contenttypeheadervalue/mediatype/
@@ -14,15 +14,13 @@ url: /zh/net/aspose.svg.net.headers/contenttypeheadervalue/mediatype/
 public MimeType MediaType { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 媒体的类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [MimeType](../../../aspose.svg/mimetype/)
 * class [ContentTypeHeaderValue](../)
-* 命名空间 [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

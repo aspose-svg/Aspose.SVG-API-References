@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Aspose.SVG for .NET API 参考
-description: PdfDocumentInfo 财产. 文档的主题
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "PdfDocumentInfo Subject 属性。文档的主题。"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.rendering.pdf/pdfdocumentinfo/subject/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.rendering.pdf/pdfdocumentinfo/subject/
 public string Subject { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfDocumentInfo](../)
-* 命名空间 [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

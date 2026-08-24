@@ -1,40 +1,38 @@
 ---
-title: Element.AttachShadow
-second_title: Aspose.SVG for .NET API 参考
-description: Element 方法. 创建阴影根并将其附加到当前元素
+title: "Element.AttachShadow"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element AttachShadow 方法。创建 shadow root 并将其附加到当前元素。"
 type: docs
-weight: 230
+weight: 220
 url: /zh/net/aspose.svg.dom/element/attachshadow/
 ---
 ## Element.AttachShadow method
 
-创建阴影根并将其附加到当前元素。
+创建 shadow root 并将其附加到当前元素。
 
 ```csharp
 public ShadowRoot AttachShadow(ShadowRootMode mode)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| mode | ShadowRootMode | 创建影子根的模式。 |
+| 模式 | ShadowRootMode | 创建 shadow root 时的模式。 |
 
 ### 返回值
 
-已创建[`ShadowRoot`](../../shadowroot/).
+已创建 [`ShadowRoot`](../../shadowroot/)。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| Error | NotSupportedError：元素不支持影子树。 |
-| Error | InvalidStateError：元素已经有影子树。 |
+| 错误 | NotSupportedError：Element 不支持 shadow tree。 |
+| 错误 | InvalidStateError：Element 已经有 shadow tree。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

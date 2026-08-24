@@ -1,28 +1,26 @@
 ---
-title: ISVGFilterPrimitiveStandardAttributes.X
-second_title: Aspose.SVG for .NET API 参考
-description: ISVGFilterPrimitiveStandardAttributes 财产. 对应于给定过滤器元素上的属性x
+title: "ISVGFilterPrimitiveStandardAttributes.X"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ISVGFilterPrimitiveStandardAttributes X 属性。对应于给定 filter 元素上的属性 x。"
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/x/
 ---
 ## ISVGFilterPrimitiveStandardAttributes.X property
 
-对应于给定“过滤器”元素上的属性“x”。
+对应于给定 ‘filter’ 元素的属性 ‘x’。
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“过滤器”元素的属性“x”。
+给定 ‘filter’ 元素的属性 ‘x’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * interface [ISVGFilterPrimitiveStandardAttributes](../)
-* 命名空间 [Aspose.Svg.Filters](../../isvgfilterprimitivestandardattributes/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

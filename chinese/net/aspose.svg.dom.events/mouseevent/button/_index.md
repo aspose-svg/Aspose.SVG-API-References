@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.Button
-second_title: Aspose.SVG for .NET API 参考
-description: MouseEvent 财产. 在由按下或释放鼠标按钮引起的鼠标事件期间按钮必须用于指示哪个指针设备按钮更改了状态
+title: "MouseEvent.Button"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MouseEvent Button 属性。在因鼠标按钮按下或释放而产生的鼠标事件期间，必须使用 button 来指示哪个指针设备按钮的状态发生了变化"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.events/mouseevent/button/
 ---
 ## MouseEvent.Button property
 
-在由按下或释放鼠标按钮引起的鼠标事件期间，按钮必须用于指示哪个指针设备按钮更改了状态。
+在由鼠标按钮按下或释放引起的鼠标事件期间，必须使用 button 来指示哪个指针设备按钮状态发生了变化。
 
 ```csharp
 public short Button { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-按钮。
+该按钮。
 
-### 也可以看看
+### 另请参阅
 
 * class [MouseEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

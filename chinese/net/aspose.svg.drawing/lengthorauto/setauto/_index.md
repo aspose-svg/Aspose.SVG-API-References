@@ -1,23 +1,21 @@
 ---
-title: LengthOrAuto.SetAuto
-second_title: Aspose.SVG for .NET API 参考
-description: LengthOrAuto 方法. 将容器重置为自动状态
+title: "LengthOrAuto.SetAuto"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "LengthOrAuto SetAuto 方法。将容器重置为自动状态"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.drawing/lengthorauto/setauto/
 ---
 ## LengthOrAuto.SetAuto method
 
-将容器重置为“自动”状态。
+将容器重置为 'auto' 状态。
 
 ```csharp
 public void SetAuto()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LengthOrAuto](../)
-* 命名空间 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

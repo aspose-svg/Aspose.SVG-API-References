@@ -1,14 +1,14 @@
 ---
-title: Color.GetSaturation
-second_title: Aspose.SVG for .NET API 参考
-description: Color 方法. 返回颜色的饱和度
+title: "Color.GetSaturation"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Color GetSaturation 方法。返回 Color 的饱和度"
 type: docs
 weight: 350
 url: /zh/net/aspose.svg.drawing/color/getsaturation/
 ---
 ## Color.GetSaturation method
 
-返回颜色的饱和度。
+返回该 Color 的饱和度。
 
 ```csharp
 public float GetSaturation()
@@ -18,10 +18,8 @@ public float GetSaturation()
 
 颜色的饱和度。
 
-### 也可以看看
+### 另请参阅
 
 * class [Color](../)
-* 命名空间 [Aspose.Svg.Drawing](../../color/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

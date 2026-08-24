@@ -1,7 +1,7 @@
 ---
-title: UnitType.Q
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量单位为四分之一毫米
+title: "UnitType.Q"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Q 字段。测量单位为四分之一毫米"
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.drawing/unittype/q/
@@ -14,10 +14,8 @@ url: /zh/net/aspose.svg.drawing/unittype/q/
 public static readonly UnitType Q;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

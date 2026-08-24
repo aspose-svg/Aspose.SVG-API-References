@@ -1,33 +1,31 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoAbs
-second_title: Aspose.SVG for .NET API 参考
-description: SVGPathElement 方法. 返回一个独立的无父项的 SVGPathSegLinetoAbs 对象
+title: "SVGPathElement.CreateSVGPathSegLinetoAbs"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGPathElement CreateSVGPathSegLinetoAbs 方法。返回一个独立的、无父级的 SVGPathSegLinetoAbs 对象。"
 type: docs
 weight: 140
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathseglinetoabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoAbs method
 
-返回一个独立的、无父项的 SVGPathSegLinetoAbs 对象。
+返回一个独立的、无父级的 SVGPathSegLinetoAbs 对象。
 
 ```csharp
 public SVGPathSegLinetoAbs CreateSVGPathSegLinetoAbs(float x, float y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Single | 此路径段终点的绝对 X 坐标。 |
 | y | Single | 此路径段终点的绝对 Y 坐标。 |
 
 ### 返回值
 
-一个独立的、无父对象的 SVGPathSegLinetoAbs 对象。
+一个独立的、无父级的 SVGPathSegLinetoAbs 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGPathSegLinetoAbs](../../../aspose.svg.paths/svgpathseglinetoabs/)
 * class [SVGPathElement](../)
-* 命名空间 [Aspose.Svg](../../svgpathelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

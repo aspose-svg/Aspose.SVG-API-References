@@ -1,241 +1,327 @@
 ---
-title: SVGDocument.Save
-second_title: Aspose.SVG for .NET API 参考
-description: SVGDocument 方法. 将文档保存到指定的本地文件网址.本文档中使用的所有资源将保存在 到相邻文件夹中其名称将构造为output_file_name  _files.
+title: "SVGDocument.Save"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGDocument Save 方法。将文档保存到由 url 指定的本地文件。文档中使用的所有资源将保存到相邻的文件夹中，该文件夹名称将构建为 output_file_name _files。如果指定的 url 以 .svgz 结尾，文档将保存为压缩的 SVGZ 文件。"
 type: docs
 weight: 90
 url: /zh/net/aspose.svg/svgdocument/save/
 ---
-## Save(Url) {#save_3}
+## Save(*[Url](../../url/)*) {#save_4}
 
-将文档保存到指定的本地文件`网址`.本文档中使用的所有资源将保存在 到相邻文件夹中，其名称将构造为：output_file_name + "_files".
+将文档保存到由 `url` 指定的本地文件。文档使用的所有资源将保存到相邻的文件夹中，文件夹名称为：output_file_name + "_files"。如果指定的 `url` 以 ".svgz" 结尾，文档将保存为压缩的 SVGZ 文件。
 
 ```csharp
 public void Save(Url url)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| url | Url | 输出文件的本地 URL。 |
+| url | URL | 本地 URL 到输出文件。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 如果指定则引发`网址`不是有效的本地文件 URL。 |
+| ArgumentException | 如果指定的 `url` 不是有效的本地文件 URL，则抛出此异常。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string) {#save_6}
+## Save(*string*) {#save_8}
 
-将文档保存到指定的本地文件`小路`.本文档中使用的所有资源将保存在 到相邻文件夹中，其名称将构造为：output_file_name + "_files".
+将文档保存到由 `path` 指定的本地文件。文档使用的所有资源将保存到相邻的文件夹中，文件夹名称为：output_file_name + "_files"。如果指定的 `url` 以 ".svgz" 结尾，文档将保存为压缩的 SVGZ 文件。
 
 ```csharp
 public void Save(string path)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 输出文件的本地路径。 |
+| path | String | 本地路径到输出文件。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 如果指定则引发`小路`不是有效的本地文件路径。 |
+| ArgumentException | 如果指定的 `path` 不是有效的本地文件路径，则抛出此异常。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage) {#save}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)*) {#save}
 
-将文档内容和资源保存到输出存储。
+使用 [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/) 保存文档内容和资源。
 
 ```csharp
-public void Save(IOutputStorage outputStorage)
+public void Save(ResourceHandler resourceHandler)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | 输出存储[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | 资源处理器 [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)。 |
 
-### 也可以看看
+### 另请参阅
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string, SVGSaveFormat) {#save_7}
+## Save(*string, [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_9}
 
-将文档保存到指定的本地文件`小路`.本文档中使用的所有资源将保存在 到相邻文件夹中，其名称将构造为：output_file_name + "_files".
+将文档保存到由 `path` 指定的本地文件。文档使用的所有资源将保存到相邻的文件夹中，文件夹名称为：output_file_name + "_files"。
 
 ```csharp
 public void Save(string path, SVGSaveFormat saveFormat)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 输出文件的本地路径。 |
-| saveFormat | SVGSaveFormat | 保存文档的格式。 |
+| path | String | 本地路径到输出文件。 |
+| saveFormat | SVGSaveFormat | 文档保存的格式。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 如果指定则引发`小路`不是有效的本地文件路径。 |
+| ArgumentException | 如果指定的 `path` 不是有效的本地文件路径，则抛出此异常。 |
+| ArgumentOutOfRangeException | 当当前实现无法识别指定的 *saveFormat* 值时抛出此异常。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage, SVGSaveFormat) {#save_1}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_1}
 
-将文档内容和资源保存到输出存储。
+使用 [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/) 保存文档内容和资源。
 
 ```csharp
-public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
+public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | 输出存储[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
-| saveFormat | SVGSaveFormat | 保存文档的格式。 |
+| resourceHandler | ResourceHandler | 资源处理器 [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)。 |
+| saveFormat | SVGSaveFormat | 文档保存的格式。 |
 
-### 也可以看看
+### 异常
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+| 异常 | 条件 |
+| --- | --- |
+| ArgumentOutOfRangeException | 当当前实现无法识别指定的 *saveFormat* 值时抛出此异常。 |
+
+### 另请参阅
+
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string, SVGSaveOptions) {#save_8}
+## Save(*string, [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_10}
 
-将文档保存到指定的本地文件`小路`.本文档中使用的所有资源将保存在 到相邻文件夹中，其名称将构造为：output_file_name + "_files".
+将文档保存为 `.svg` 文件到由 *path* 指定的本地路径。任何外部资源都会写入名为 `{output_file_name}_files` 的同级文件夹。
 
 ```csharp
 public void Save(string path, SVGSaveOptions saveOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 输出文件的本地路径。 |
-| saveOptions | SVGSaveOptions | SVG 保存选项。 |
+| path | String | 目标 `.svg` 文件的绝对或相对路径。 |
+| saveOptions | SVGSaveOptions | 控制普通 SVG 序列化的选项。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 如果指定则引发`小路`不是有效的本地文件路径。 |
+| ArgumentException | 如果 *path* 不是有效的本地文件路径，则抛出此异常。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage, SVGSaveOptions) {#save_2}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_2}
 
-将文档内容和资源保存到输出存储。
+使用 [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/) 保存文档内容和资源。
 
 ```csharp
-public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
+public void Save(ResourceHandler resourceHandler, SVGSaveOptions saveOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | 输出存储[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | 资源处理器 [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)。 |
 | saveOptions | SVGSaveOptions | SVG 保存选项。 |
 
-### 也可以看看
+### 另请参阅
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(Url, SVGSaveFormat) {#save_4}
+## Save(*[Url](../../url/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_5}
 
-将文档保存到指定的本地文件`网址`.本文档中使用的所有资源将保存在 到相邻文件夹中，其名称将构造为：output_file_name + "_files".
+将文档保存到由 `url` 指定的本地文件。文档使用的所有资源将保存到相邻的文件夹中，文件夹名称为：output_file_name + "_files"。
 
 ```csharp
 public void Save(Url url, SVGSaveFormat saveFormat)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| url | Url | 输出文件的本地 URL。 |
-| saveFormat | SVGSaveFormat | 保存文档的格式。 |
+| url | URL | 本地 URL 到输出文件。 |
+| saveFormat | SVGSaveFormat | 文档保存的格式。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 如果指定则引发`网址`不是有效的本地文件 URL。 |
+| ArgumentException | 当 *url* 未表示有效的本地文件位置时抛出此异常（例如，它为 null、相对路径或指向非文件方案）。 |
+| ArgumentOutOfRangeException | 当当前实现无法识别提供的 *saveFormat* 值时抛出此异常。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../../url/)
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(Url, SVGSaveOptions) {#save_5}
+## Save(*[Url](../../url/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_6}
 
-将文档保存到指定的本地文件`网址`.本文档中使用的所有资源将保存在 到相邻文件夹中，其名称将构造为：output_file_name + "_files".
+将文档保存为 `.svg` 文件到 *url*。所有外部资源放置在名为 `{output_file_name}_files` 的同级文件夹中。
 
 ```csharp
 public void Save(Url url, SVGSaveOptions saveOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| url | Url | 输出文件的本地 URL。 |
-| saveOptions | SVGSaveOptions | SVG 保存选项。 |
+| url | URL | 目标 `.svg` 文件的本地路径。 |
+| saveOptions | SVGSaveOptions | 控制普通 SVG 序列化的选项。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 如果指定则引发`网址`不是有效的本地文件 URL。 |
+| ArgumentException | 如果 *url* 不是有效的本地文件路径，则抛出此异常。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Url](../../url/)
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* 命名空间 [Aspose.Svg](../../svgdocument/)
-* 部件 [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
+---
 
+## Save(*[Url](../../url/), [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_7}
+
+将文档保存为压缩的 `.svgz` 文件到 *url*。所有外部资源放置在名为 `{output_file_name}_files` 的同级文件夹中。
+
+```csharp
+public void Save(Url url, SVGZSaveOptions saveOptions)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| url | URL | 目标 `.svgz` 文件的本地路径。 |
+| saveOptions | SVGZSaveOptions | 控制 SVGZ 序列化的选项。 |
+
+### 异常
+
+| 异常 | 条件 |
+| --- | --- |
+| ArgumentException | 如果 *url* 不是有效的本地文件路径，则抛出此异常。 |
+
+### 另请参阅
+
+* class [Url](../../url/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_3}
+
+使用指定的 [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/) 保存文档内容和相关资源。
+
+```csharp
+public void Save(ResourceHandler resourceHandler, SVGZSaveOptions saveOptions)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| resourceHandler | ResourceHandler | 用于管理文档资源的资源处理程序，例如文件系统或基于内存的存储。 |
+| saveOptions | SVGZSaveOptions | 指定其他保存参数的选项，例如矢量化偏好。 |
+
+### 另请参阅
+
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*string, [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_11}
+
+将文档保存为压缩的 `.svgz` 文件到由 *path* 指定的本地路径。任何外部资源都会写入名为 `{output_file_name}_files` 的同级文件夹。
+
+```csharp
+public void Save(string path, SVGZSaveOptions saveOptions)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| path | String | 目标 `.svgz` 文件的绝对或相对路径。 |
+| saveOptions | SVGZSaveOptions | 控制 SVGZ 序列化的选项。 |
+
+### 异常
+
+| 异常 | 条件 |
+| --- | --- |
+| ArgumentException | 如果 *path* 不是有效的本地文件路径，则抛出此异常。 |
+
+### 另请参阅
+
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

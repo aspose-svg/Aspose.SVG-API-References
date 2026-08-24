@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.GetEnumerator
-second_title: Aspose.SVG for .NET API 参考
-description: MutationObserverInit 方法. 返回一个遍历MutationObserverInit元素.
+title: "MutationObserverInit.GetEnumerator"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "MutationObserverInit GetEnumerator 方法。返回一个枚举器，用于遍历 MutationObserverInit 元素。"
 type: docs
 weight: 190
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/getenumerator/
 ---
 ## MutationObserverInit.GetEnumerator method
 
-返回一个遍历[`MutationObserverInit`](../)元素.
+返回一个枚举器，用于遍历 [`MutationObserverInit`](../) 元素。
 
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
@@ -16,12 +16,10 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### 返回值
 
-一个IEnumerator可用于遍历的对象[`MutationObserverInit`](../)元素.
+一个 IEnumerator 对象，可用于遍历 [`MutationObserverInit`](../) 元素。
 
-### 也可以看看
+### 另请参阅
 
 * class [MutationObserverInit](../)
-* 命名空间 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

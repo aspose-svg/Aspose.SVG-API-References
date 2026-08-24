@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vmin
-second_title: Aspose.SVG for .NET API 参考
-description: UnitType 场地. 测量值是相对于视口 较小尺寸的 1 试试吧
+title: "UnitType.Vmin"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "UnitType Vmin 字段。测量相对于视口较小维度的 1。尝试一下"
 type: docs
 weight: 290
 url: /zh/net/aspose.svg.drawing/unittype/vmin/
 ---
 ## UnitType.Vmin field
 
-测量值是相对于视口* 较小尺寸的 1% 试试吧
+测量相对于视口的*更小维度的 1% 试一下
 
 ```csharp
 public static readonly UnitType Vmin;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitType](../)
-* 命名空间 [Aspose.Svg.Drawing](../../unittype/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

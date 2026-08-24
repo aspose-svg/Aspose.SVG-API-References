@@ -1,28 +1,26 @@
 ---
-title: SVGFETileElement.Y
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFETileElement 财产. 对应于给定过滤器元素上的属性y
+title: "SVGFETileElement.Y"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFETileElement Y 属性。对应给定滤镜元素上的属性 y。"
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.filters/svgfetileelement/y/
 ---
 ## SVGFETileElement.Y property
 
-对应于给定“过滤器”元素上的属性“y”。
+对应于给定 ‘filter’ 元素的属性 ‘y’。
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“过滤器”元素的属性“y”。
+给定 ‘filter’ 元素的属性 ‘y’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFETileElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfetileelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

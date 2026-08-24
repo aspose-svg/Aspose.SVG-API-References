@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderBottomWidth
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见 CSS2 中的 borderbottomwidth 属性定义
+title: "ICSS2Properties.BorderBottomWidth"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties BorderBottomWidth 属性。请参阅 CSS2 中 border-bottom-width 属性的定义"
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom.css/icss2properties/borderbottomwidth/
 ---
 ## ICSS2Properties.BorderBottomWidth property
 
-参见 CSS2 中的 border-bottom-width 属性定义。
+查看 CSS2 中的 border-bottom-width 属性定义。
 
 ```csharp
 public string BorderBottomWidth { get; set; }
@@ -18,10 +18,8 @@ public string BorderBottomWidth { get; set; }
 
 border-bottom-width 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

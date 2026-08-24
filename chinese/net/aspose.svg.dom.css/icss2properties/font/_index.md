@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Font
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见CSS2中的字体属性定义
+title: "ICSS2Properties.Font"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties Font 属性。请参阅 CSS2 中 font 属性的定义"
 type: docs
 weight: 470
 url: /zh/net/aspose.svg.dom.css/icss2properties/font/
 ---
 ## ICSS2Properties.Font property
 
-参见CSS2中的字体属性定义。
+请参阅 CSS2 中的 font 属性定义。
 
 ```csharp
 public string Font { get; set; }
@@ -16,12 +16,10 @@ public string Font { get; set; }
 
 ### 返回值
 
-字体属性
+font 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

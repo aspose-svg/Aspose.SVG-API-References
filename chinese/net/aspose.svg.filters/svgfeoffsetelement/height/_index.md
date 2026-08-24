@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.Height
-second_title: Aspose.SVG for .NET API 参考
-description: SVGFEOffsetElement 财产. 对应于给定过滤器元素上的属性高度
+title: "SVGFEOffsetElement.Height"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGFEOffsetElement Height 属性。对应于给定 filter 元素上的 height 属性"
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.filters/svgfeoffsetelement/height/
 ---
 ## SVGFEOffsetElement.Height property
 
-对应于给定“过滤器”元素上的属性“高度”。
+对应于给定 ‘filter’ 元素的属性 ‘height’。
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“过滤器”元素的属性“高度”。
+给定 ‘filter’ 元素的属性 ‘height’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEOffsetElement](../)
-* 命名空间 [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

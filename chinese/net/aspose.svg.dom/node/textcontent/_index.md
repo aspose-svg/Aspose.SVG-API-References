@@ -1,27 +1,39 @@
 ---
-title: Node.TextContent
-second_title: Aspose.SVG for .NET API 参考
-description: Node 财产. 该属性返回该节点及其后代的文本内容当它被定义为空时设置它是无效的在设置时此节点可能具有的任何可能的子节点都将被删除如果新字符串不为空或为空则替换为包含此属性设置为的字符串的单个文本节点
+title: "Node.TextContent"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Node TextContent 属性。表示节点及其后代的文本内容"
 type: docs
-weight: 170
+weight: 160
 url: /zh/net/aspose.svg.dom/node/textcontent/
 ---
 ## Node.TextContent property
 
-该属性返回该节点及其后代的文本内容。当它被定义为空时，设置它是无效的。在设置时，此节点可能具有的任何可能的子节点都将被删除，如果新字符串不为空或为空，则替换为包含此属性设置为的字符串的单个文本节点。
+表示节点及其后代的文本内容。
 
 ```csharp
 public virtual string TextContent { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-正文内容。
+字符串或 null。其值取决于具体情况：
 
-### 也可以看看
+如果节点是文档或文档类型，`TextContent` 返回 null。注意：要获取整个文档的所有文本和 CDATA 数据，请使用
+
+```csharp
+document.DocumentElement.TextContent
+```
+
+.如果节点是 CDATA 区段、注释、处理指令或文本节点，`TextContent` 返回或设置节点内部的文本，即 [`NodeValue`](../nodevalue/)。对于其他节点类型，`TextContent` 返回所有子节点的 `TextContent` 的拼接，排除注释和处理指令。
+
+## 备注
+
+参考：
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-textcontent).
+
+### 另请参阅
 
 * class [Node](../)
-* 命名空间 [Aspose.Svg.Dom](../../node/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

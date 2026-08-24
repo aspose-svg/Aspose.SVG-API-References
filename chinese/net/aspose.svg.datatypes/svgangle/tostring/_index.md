@@ -1,14 +1,14 @@
 ---
-title: SVGAngle.ToString
-second_title: Aspose.SVG for .NET API 参考
-description: SVGAngle 方法. 返回一个String代表这个实例.
+title: "SVGAngle.ToString"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGAngle ToString 方法。返回表示此实例的 String。"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.datatypes/svgangle/tostring/
 ---
 ## SVGAngle.ToString method
 
-返回一个String代表这个实例.
+返回表示此实例的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 返回值
 
-一个String代表这个实例.
+一个表示此实例的 String。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAngle](../)
-* 命名空间 [Aspose.Svg.DataTypes](../../svgangle/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

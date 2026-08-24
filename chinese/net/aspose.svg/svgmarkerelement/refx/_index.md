@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.RefX
-second_title: Aspose.SVG for .NET API 参考
-description: SVGMarkerElement 财产. 对应于给定标记元素上的属性refX
+title: "SVGMarkerElement.RefX"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "SVGMarkerElement RefX 属性。对应于给定 marker 元素上的属性 refX。"
 type: docs
 weight: 70
 url: /zh/net/aspose.svg/svgmarkerelement/refx/
 ---
 ## SVGMarkerElement.RefX property
 
-对应于给定“标记”元素上的属性“refX”。
+对应于给定 ‘marker’ 元素的属性 ‘refX’。
 
 ```csharp
 public SVGAnimatedLength RefX { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-给定“标记”元素的属性“refX”。
+给定 ‘marker’ 元素的属性 ‘refX’。
 
-### 也可以看看
+### 另请参阅
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* 命名空间 [Aspose.Svg](../../svgmarkerelement/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

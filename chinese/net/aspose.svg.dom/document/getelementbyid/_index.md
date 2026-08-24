@@ -1,32 +1,36 @@
 ---
-title: Document.GetElementById
-second_title: Aspose.SVG for .NET API 参考
-description: Document 方法. 返回具有给定值的 ID 属性的元素如果不存在这样的元素则返回 null如果多个元素具有具有该值的 ID 属性则返回未定义的内容
+title: "Document.GetElementById"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document GetElementById 方法。此方法返回一个 Element 对象，表示其 id 属性与指定字符串匹配的元素。由于元素 ID 必须唯一（如果指定），它们是快速访问特定元素的有用方式。"
 type: docs
 weight: 960
 url: /zh/net/aspose.svg.dom/document/getelementbyid/
 ---
 ## Document.GetElementById method
 
-返回具有给定值的 ID 属性的元素。如果不存在这样的元素，则返回 null。如果多个元素具有具有该值的 ID 属性，则返回未定义的内容。
+此方法返回一个 [`Element`](../../element/) 对象，表示其 id 属性与指定字符串匹配的元素。由于元素 ID 必须唯一（如果指定），它们是快速访问特定元素的有用方式。
+
+如果需要访问没有 ID 的元素，可以使用 [`QuerySelector`](../queryselector/) 通过任意选择器查找该元素。
 
 ```csharp
 public Element GetElementById(string elementId)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| elementId | String | 元素标识。 |
+| elementId | String | 要定位的元素的 ID。ID 是区分大小写的字符串，在文档中唯一；任意给定的 ID 只能对应一个元素。 |
 
 ### 返回值
 
-的[`Element`](../../element/) .
+一个描述与指定 ID 匹配的 DOM 元素的 [`Element`](../../element/) 对象，如果在文档中未找到匹配的元素，则为 null。
 
-### 也可以看看
+## 备注
+
+请参阅官方 [spec](https://dom.spec.whatwg.org/#dom-nonelementparentnode-getelementbyid)。
+
+### 另请参阅
 
 * class [Element](../../element/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingRight
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 参见CSS2中的paddingright属性定义.
+title: "ICSS2Properties.PaddingRight"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties PaddingRight 属性。请参阅 CSS2 中 padding-right 属性的定义。"
 type: docs
-weight: 830
+weight: 860
 url: /zh/net/aspose.svg.dom.css/icss2properties/paddingright/
 ---
 ## ICSS2Properties.PaddingRight property
 
-参见CSS2中的padding-right属性定义.
+请参阅 CSS2 中的 padding-right 属性定义。
 
 ```csharp
 public string PaddingRight { get; set; }
@@ -18,10 +18,8 @@ public string PaddingRight { get; set; }
 
 padding-right 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

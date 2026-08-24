@@ -1,28 +1,28 @@
 ---
-title: Element.Element
-second_title: Aspose.SVG for .NET API 参考
-description: Element 构造函数. 初始化一个新的实例Element班级不要直接调用这个构造函数使用CreateElement或者CreateElementNS .
+title: "Element"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Element 构造函数。 初始化 Element 类的一个新实例。 不要直接调用此构造函数，请使用 CreateElement 或 CreateElementNS。"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/element/element/
 ---
 ## Element constructor
 
-初始化一个新的实例[`Element`](../)班级。不要直接调用这个构造函数，使用[`CreateElement`](../../document/createelement/)或者[`CreateElementNS`](../../document/createelementns/) .
+初始化 [`Element`](../) 类的一个新实例。 不要直接调用此构造函数，请使用 [`CreateElement`](../../document/createelement/) 或 [`CreateElementNS`](../../document/createelementns/)。
 
 ```csharp
-public Element(IElementInit elementInit)
+public Element(QualifiedName qualifiedName, Document document)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| elementInit | IElementInit | 元素初始化信息。 |
+| qualifiedName | QualifiedName | 限定名称。 |
+| 文档 | 文档 | 关联的文档。 |
 
-### 也可以看看
+### 另请参阅
 
-* interface [IElementInit](../../ielementinit/)
+* class [QualifiedName](../../qualifiedname/)
+* class [Document](../../document/)
 * class [Element](../)
-* 命名空间 [Aspose.Svg.Dom](../../element/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

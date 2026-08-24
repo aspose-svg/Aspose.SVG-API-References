@@ -1,7 +1,7 @@
 ---
-title: Document.OnPlaying
-second_title: Aspose.SVG for .NET API 参考
-description: Document 事件. 获取或设置 OnPlaying 事件的事件处理程序
+title: "Document.OnPlaying"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "Document OnPlaying 事件。获取或设置 OnPlaying 事件的事件处理程序。"
 type: docs
 weight: 610
 url: /zh/net/aspose.svg.dom/document/onplaying/
@@ -14,11 +14,9 @@ url: /zh/net/aspose.svg.dom/document/onplaying/
 public event DOMEventHandler OnPlaying;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* 命名空间 [Aspose.Svg.Dom](../../document/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

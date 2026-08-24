@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.LineHeight
-second_title: Aspose.SVG for .NET API 参考
-description: ICSS2Properties 财产. 见CSS2中的lineheight属性定义.
+title: "ICSS2Properties.LineHeight"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ICSS2Properties LineHeight 属性。请参阅 CSS2 中的 line-height 属性定义"
 type: docs
-weight: 580
+weight: 610
 url: /zh/net/aspose.svg.dom.css/icss2properties/lineheight/
 ---
 ## ICSS2Properties.LineHeight property
 
-见CSS2中的line-height属性定义.
+请参阅 CSS2 中的 line-height 属性定义。
 
 ```csharp
 public string LineHeight { get; set; }
@@ -16,12 +16,10 @@ public string LineHeight { get; set; }
 
 ### 返回值
 
-行高属性
+line-height 属性
 
-### 也可以看看
+### 另请参阅
 
 * interface [ICSS2Properties](../)
-* 命名空间 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

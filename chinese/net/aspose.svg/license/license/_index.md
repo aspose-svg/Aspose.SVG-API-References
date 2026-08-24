@@ -1,7 +1,7 @@
 ---
-title: License.License
-second_title: Aspose.SVG for .NET API 参考
-description: License 构造函数. 初始化此类的新实例
+title: "许可证"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "License 构造函数。初始化此类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/license/license/
@@ -14,9 +14,9 @@ url: /zh/net/aspose.svg/license/license/
 public License()
 ```
 
-### 例子
+## 示例
 
-在此示例中，将尝试在包含 的文件夹中查找名为 MyLicense.lic 的许可证文件 组件，在包含调用程序集的文件夹中， 在入口程序集的文件夹中，然后在调用程序集的嵌入资源中。
+在此示例中，将尝试在包含组件的文件夹、调用程序集所在的文件夹、入口程序集所在的文件夹以及调用程序集的嵌入资源中，查找名为 MyLicense.lic 的许可证文件。
 
 ```csharp
 [C#]
@@ -32,10 +32,8 @@ License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [License](../)
-* 命名空间 [Aspose.Svg](../../license/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

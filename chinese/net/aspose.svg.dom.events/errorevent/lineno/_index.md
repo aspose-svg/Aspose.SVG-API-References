@@ -1,23 +1,21 @@
 ---
-title: ErrorEvent.LineNo
-second_title: Aspose.SVG for .NET API 参考
-description: ErrorEvent 财产. lineno 属性必须返回它被初始化的值创建对象时必须将此属性初始化为零它表示脚本中发生错误的行号
+title: "ErrorEvent.LineNo"
+second_title: "Aspose.SVG for .NET API 参考"
+description: "ErrorEvent LineNo 属性。lineno 属性必须返回其初始化时的值。对象创建时，此属性必须初始化为零。它表示脚本中错误发生的行号。"
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom.events/errorevent/lineno/
 ---
 ## ErrorEvent.LineNo property
 
-lineno 属性必须返回它被初始化的值。创建对象时，必须将此属性初始化为零。它表示脚本中发生错误的行号。
+lineno 属性必须返回其初始化时的值。对象创建时，该属性必须初始化为零。它表示脚本中错误发生的行号。
 
 ```csharp
 public uint LineNo { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ErrorEvent](../)
-* 命名空间 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 部件 [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
