@@ -1,0 +1,21 @@
+---
+title: "IMatrix.M32"
+second_title: "Aspose.SVG pour .NET Référence de l'API"
+description: "Propriété IMatrix M32. Obtient ou définit la valeur dans la troisième ligne et la deuxième colonne de la matrice"
+type: docs
+weight: 80
+url: /fr/net/aspose.svg.drawing/imatrix/m32/
+---
+## IMatrix.M32 property
+
+Obtient ou définit la valeur dans la troisième ligne et la deuxième colonne de la matrice.
+
+```csharp
+public float M32 { get; set; }
+```
+
+### Voir aussi
+
+* interface [IMatrix](../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
