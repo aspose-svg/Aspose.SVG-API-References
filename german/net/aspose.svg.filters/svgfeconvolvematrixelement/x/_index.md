@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.X
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEConvolveMatrixElement eigendom. Entspricht dem Attribut x im angegebenen filterElement.
+title: "SVGFEConvolveMatrixElement.X"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEConvolveMatrixElement X Eigenschaft. Entspricht dem Attribut x im angegebenen Filter-Element"
 type: docs
 weight: 160
 url: /de/net/aspose.svg.filters/svgfeconvolvematrixelement/x/
 ---
 ## SVGFEConvolveMatrixElement.X property
 
-Entspricht dem Attribut 'x' im angegebenen 'filter'-Element.
+Entspricht dem Attribut ‘x’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'x' des angegebenen 'filter'-Elements.
+Das Attribut ‘x’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEConvolveMatrixElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

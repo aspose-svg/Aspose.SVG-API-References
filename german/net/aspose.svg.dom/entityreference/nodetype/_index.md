@@ -1,7 +1,7 @@
 ---
-title: EntityReference.NodeType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: EntityReference eigendom. Ein Code der den Typ des zugrunde liegenden Objekts darstellt.
+title: "EntityReference.NodeType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "EntityReference NodeType-Eigenschaft. Ein Code, der den Typ des zugrunde liegenden Objekts darstellt."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom/entityreference/nodetype/
@@ -14,14 +14,12 @@ Ein Code, der den Typ des zugrunde liegenden Objekts darstellt.
 public override ushort NodeType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ des Knotens.
 
 ### Siehe auch
 
 * class [EntityReference](../)
-* namensraum [Aspose.Svg.Dom](../../entityreference/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: ISVGTests.RequiredFeatures
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ISVGTests eigendom. Entspricht dem Attribut requiredFeatures für das angegebene Element.
+title: "ISVGTests.RequiredFeatures"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ISVGTests RequiredFeatures‑Eigenschaft. Entspricht dem Attribut requiredFeatures des angegebenen Elements."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/isvgtests/requiredfeatures/
 ---
 ## ISVGTests.RequiredFeatures property
 
-Entspricht dem Attribut 'requiredFeatures' für das angegebene Element.
+Entspricht dem Attribut ‘requiredFeatures’ des angegebenen Elements.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die erforderlichen Funktionen.
+Die erforderlichen Features.
 
 ### Siehe auch
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* namensraum [Aspose.Svg](../../isvgtests/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

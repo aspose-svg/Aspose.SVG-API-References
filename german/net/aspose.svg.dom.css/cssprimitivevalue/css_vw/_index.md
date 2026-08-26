@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.CSS_VW
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSPrimitiveValue veld. Der Wert ist ein Prozentsatz der vollen Ansichtsfensterbreite.
+title: "CSSPrimitiveValue.CSS_VW"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSPrimitiveValue CSS_VW Feld. Der Wert ist ein Prozentsatz der vollen Viewport-Breite."
 type: docs
-weight: 450
+weight: 460
 url: /de/net/aspose.svg.dom.css/cssprimitivevalue/css_vw/
 ---
 ## CSSPrimitiveValue.CSS_VW field
 
-Der Wert ist ein Prozentsatz der vollen Ansichtsfensterbreite.
+Der Wert ist ein Prozentsatz der vollen Viewport-Breite.
 
 ```csharp
 public const ushort CSS_VW;
@@ -17,7 +17,5 @@ public const ushort CSS_VW;
 ### Siehe auch
 
 * class [CSSPrimitiveValue](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

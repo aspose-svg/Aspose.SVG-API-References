@@ -1,7 +1,7 @@
 ---
-title: IColorComponents.Model
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IColorComponents eigendom. Gibt das Farbmodell zurück.
+title: "IColorComponents.Model"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IColorComponents Model-Eigenschaft. Gibt das Farbmodell zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.drawing/icolorcomponents/model/
@@ -18,7 +18,5 @@ public ColorModel Model { get; }
 
 * enum [ColorModel](../../colormodel/)
 * interface [IColorComponents](../)
-* namensraum [Aspose.Svg.Drawing](../../icolorcomponents/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class FontsSettings
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.FontsSettings klas. Repräsentiert die Einstellungen zur Handhabung von Schriftarten.
+title: "FontsSettings Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.FontsSettings Klasse. Stellt Einstellungen für die Schriftartenverarbeitung dar"
 type: docs
-weight: 1900
+weight: 3990
 url: /de/net/aspose.svg/fontssettings/
 ---
 ## FontsSettings class
 
-Repräsentiert die Einstellungen zur Handhabung von Schriftarten.
+Stellt die Einstellungen zur Schriftartenverwaltung dar.
 
 ```csharp
 public class FontsSettings
@@ -18,21 +18,19 @@ public class FontsSettings
 
 | Name | Beschreibung |
 | --- | --- |
-| [FontMatcher](../../aspose.svg/fontssettings/fontmatcher/) { get; set; } | Ruft die Klasse ab oder legt sie fest, mit der Sie einige Teile des Font-Matching-Algorithmus steuern können. |
+| [FontMatcher](../../aspose.svg/fontssettings/fontmatcher/) { get; set; } | Liest oder setzt die Klasse, die es Ihnen ermöglicht, einige Teile des Schriftartenabgleichsalgorithmus zu steuern. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetFontsLookupFolders](../../aspose.svg/fontssettings/getfontslookupfolders/)() | Ruft eine Kopie des Arrays ab, das Schriftordner enthält. In diesen Ordnern gefundene Schriftarten werden zum Rendern von Zeichen verwendet. |
-| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder)(string) | Legt den Ordner fest, der während der Schriftauswahl verwendet wird. |
-| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(string, bool) | Legt den Ordner fest, der während der Schriftauswahl verwendet wird. |
-| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders)(string[]) | Legt ein Array von Ordnern fest, die während der Schriftartauswahl verwendet werden. |
-| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(string[], bool) | Legt ein Array von Ordnern fest, die während der Schriftartauswahl verwendet werden. |
+| [GetFontsLookupFolders](../../aspose.svg/fontssettings/getfontslookupfolders/)() | Liefert eine Kopie des Arrays, das Schriftordner enthält. Schriftarten, die in diesen Ordnern gefunden werden, werden für die Zeichenrenderung verwendet. |
+| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder)(*string*) | Setzt den Ordner, der während der Schriftartauswahl verwendet wird. |
+| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(*string, bool*) | Setzt den Ordner, der während der Schriftartauswahl verwendet wird. |
+| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders)(*string[]*) | Setzt ein Array von Ordnern, die während der Schriftartauswahl verwendet werden. |
+| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(*string[], bool*) | Setzt ein Array von Ordnern, die während der Schriftartauswahl verwendet werden. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

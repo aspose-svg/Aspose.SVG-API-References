@@ -1,9 +1,9 @@
 ---
-title: Delegate DOMEventHandler
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Stellt den Rückruf für die Ereignisbehandlung dar.
+title: "DOMEventHandler-Delegat"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Stellt den Rückruf für die Ereignisbehandlung dar"
 type: docs
-weight: 890
+weight: 2890
 url: /de/net/aspose.svg.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate
@@ -16,13 +16,11 @@ public delegate void DOMEventHandler(object sender, Event e);
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sender | Object | Der Absender. |
-| e | Event | Die Ereignisargumente. |
+| Absender | Objekt | Der Absender. |
+| e | Ereignis | Die Ereignisargumente. |
 
 ### Siehe auch
 
 * class [Event](../event/)
-* namensraum [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

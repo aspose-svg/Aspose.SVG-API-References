@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.RemoveEmptyText
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGOptimizationOptions eigendom. Holt oder setzt die Option zum Entfernen leerer Textelemente. Es ist standardmäßig true.
+title: "SVGOptimizationOptions.RemoveEmptyText"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGOptimizationOptions RemoveEmptyText Eigenschaft. Ruft die Option ab oder legt sie fest, um leere Text-Elemente zu entfernen. Sie ist standardmäßig true."
 type: docs
 weight: 80
 url: /de/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptytext/
 ---
 ## SVGOptimizationOptions.RemoveEmptyText property
 
-Holt oder setzt die Option zum Entfernen leerer Textelemente. Es ist standardmäßig „true“.
+Liest oder setzt die Option, leere Text‑Elemente zu entfernen. Der Standardwert ist 'true'.
 
 ```csharp
 public bool RemoveEmptyText { get; set; }
@@ -17,7 +17,5 @@ public bool RemoveEmptyText { get; set; }
 ### Siehe auch
 
 * class [SVGOptimizationOptions](../)
-* namensraum [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

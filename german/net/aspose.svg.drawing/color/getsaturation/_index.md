@@ -1,7 +1,7 @@
 ---
-title: Color.GetSaturation
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color methode. Gibt eine Sättigung der Farbe zurück.
+title: "Color.GetSaturation"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color GetSaturation Methode. Gibt eine Sättigung des Color zurück."
 type: docs
 weight: 350
 url: /de/net/aspose.svg.drawing/color/getsaturation/
@@ -16,12 +16,10 @@ public float GetSaturation()
 
 ### Rückgabewert
 
-Eine Sättigung der Farbe.
+Eine Sättigung des Color.
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnStalled
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IGlobalEventHandlers evenement. Ruft den EventHandler für das OnStalledEreignis ab oder legt ihn fest.
+title: "IGlobalEventHandlers.OnStalled"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IGlobalEventHandlers OnStalled-Ereignis. Ruft den Ereignishandler für das OnStalled-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 440
 url: /de/net/aspose.svg.dom/iglobaleventhandlers/onstalled/
 ---
 ## IGlobalEventHandlers.OnStalled event
 
-Ruft den Event-Handler für das OnStalled-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnStalled-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnStalled;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnStalled;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namensraum [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

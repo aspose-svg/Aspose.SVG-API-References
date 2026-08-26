@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.CtrlKey
-second_title: Aspose.SVG für .NET-API-Referenz
-description: KeyboardEvent eigendom. wahr wenn der SteuertastenModifikator aktiv war. Der nicht initialisierte Wert dieses Attributs MUSS falsch sein.
+title: "KeyboardEvent.CtrlKey"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "KeyboardEvent CtrlKey property. true, wenn die Control‑Steuertaste aktiv war. Der nicht initialisierte Wert dieses Attributs MUSS false sein."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.dom.events/keyboardevent/ctrlkey/
 ---
 ## KeyboardEvent.CtrlKey property
 
-wahr, wenn der Steuertasten-Modifikator aktiv war. Der nicht initialisierte Wert dieses Attributs MUSS falsch sein.
+true, wenn die Strg‑ (control)‑Taste aktiv war. Der nicht initialisierte Wert dieses Attributs MUSS false sein.
 
 ```csharp
 public bool CtrlKey { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn Kontrolle; ansonsten,`FALSCH` .
+`true` wenn Control; andernfalls `false`.
 
 ### Siehe auch
 
 * class [KeyboardEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

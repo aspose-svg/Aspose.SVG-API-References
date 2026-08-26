@@ -1,27 +1,25 @@
 ---
-title: Element.HasAttributes
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element methode. Gibt zurück ob dieser Knoten wenn es sich um ein Element handelt irgendwelche Attribute hat
+title: "Element.HasAttributes"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element HasAttributes Methode. Gibt zurück, ob dieser Knoten, falls er ein Element ist, irgendwelche Attribute hat."
 type: docs
 weight: 330
 url: /de/net/aspose.svg.dom/element/hasattributes/
 ---
 ## Element.HasAttributes method
 
-Gibt zurück, ob dieser Knoten (wenn es sich um ein Element handelt) irgendwelche Attribute hat
+Gibt zurück, ob dieser Knoten (falls er ein Element ist) Attribute besitzt
 
 ```csharp
-public override bool HasAttributes()
+public bool HasAttributes()
 ```
 
 ### Rückgabewert
 
-boolesch`WAHR` wenn dieser Knoten irgendwelche Attribute hat,`FALSCH` andernfalls.
+boolescher `true`, wenn dieser Knoten irgendwelche Attribute hat, `false` andernfalls.
 
 ### Siehe auch
 
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

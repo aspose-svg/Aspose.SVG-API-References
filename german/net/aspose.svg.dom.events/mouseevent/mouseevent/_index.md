@@ -1,14 +1,14 @@
 ---
-title: MouseEvent.MouseEvent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent constructeur. Initialisiert eine neue Instanz vonMouseEvent Klasse.
+title: "MouseEvent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent-Konstruktor. Erstellt eine neue Instanz der MouseEvent-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.events/mouseevent/mouseevent/
 ---
-## MouseEvent(string) {#constructor}
+## MouseEvent(*string*) {#constructor}
 
-Initialisiert eine neue Instanz von[`MouseEvent`](../) Klasse.
+Erstellt eine neue Instanz der [`MouseEvent`](../)-Klasse.
 
 ```csharp
 public MouseEvent(string type)
@@ -21,14 +21,14 @@ public MouseEvent(string type)
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MouseEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## MouseEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`MouseEvent`](../) Klasse.
+Erstellt eine neue Instanz der [`MouseEvent`](../)-Klasse.
 
 ```csharp
 public MouseEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public MouseEvent(string type, IDictionary<string, object> eventInitDict)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | type | String | Der Ereignistyp. |
-| eventInitDict | IDictionary`2 | Das Ereignis initialisiert das Wörterbuch. |
+| eventInitDict | IDictionary`2 | Das Ereignis-Initialisierungswörterbuch. |
 
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

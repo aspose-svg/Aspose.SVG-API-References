@@ -1,14 +1,14 @@
 ---
-title: UnitType.Rad
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType veld. Die Messung erfolgt in Radianten.
+title: "UnitType.Rad"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType Rad Feld. Messung ist in Radianten"
 type: docs
 weight: 220
 url: /de/net/aspose.svg.drawing/unittype/rad/
 ---
 ## UnitType.Rad field
 
-Die Messung erfolgt in Radianten.
+Messung ist in Radianten.
 
 ```csharp
 public static readonly UnitType Rad;
@@ -17,7 +17,5 @@ public static readonly UnitType Rad;
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

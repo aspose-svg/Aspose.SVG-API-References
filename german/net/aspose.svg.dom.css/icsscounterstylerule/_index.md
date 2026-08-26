@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSCounterStyleRule
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.ICSSCounterStyleRule koppel. Mit der counterstyleRegel können Autoren einen benutzerdefinierten Zählerstil definieren.
+title: "ICSSCounterStyleRule Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.ICSSCounterStyleRule Schnittstelle. Die counter‑style‑Regel ermöglicht es Autoren, einen benutzerdefinierten Zählerstil zu definieren."
 type: docs
-weight: 540
+weight: 2540
 url: /de/net/aspose.svg.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface
 
-Mit der @counter-style-Regel können Autoren einen benutzerdefinierten Zählerstil definieren.
+Die @counter-style-Regel ermöglicht es Autoren, einen benutzerdefinierten Zählerstil zu definieren.
 
 ```csharp
 public interface ICSSCounterStyleRule : ICSSRule
@@ -18,17 +18,15 @@ public interface ICSSCounterStyleRule : ICSSRule
 
 | Name | Beschreibung |
 | --- | --- |
-| [CounterType](../../aspose.svg.dom.css/icsscounterstylerule/countertype/) { get; } | Ruft den Typ des Zählers ab. |
-| [Fallback](../../aspose.svg.dom.css/icsscounterstylerule/fallback/) { get; } | Ruft den Fallback ab. |
-| [Glyphs](../../aspose.svg.dom.css/icsscounterstylerule/glyphs/) { get; } | Ruft die Glyphen ab. |
-| [Name](../../aspose.svg.dom.css/icsscounterstylerule/name/) { get; } | Ruft den Namen ab. |
-| [Prefix](../../aspose.svg.dom.css/icsscounterstylerule/prefix/) { get; } | Ruft das Präfix ab. |
-| [Suffix](../../aspose.svg.dom.css/icsscounterstylerule/suffix/) { get; } | erhält das Suffix. |
+| [CounterType](../../aspose.svg.dom.css/icsscounterstylerule/countertype/) { get; } | Gibt den Typ des Zählers zurück. |
+| [Fallback](../../aspose.svg.dom.css/icsscounterstylerule/fallback/) { get; } | Gibt das Fallback zurück. |
+| [Glyphs](../../aspose.svg.dom.css/icsscounterstylerule/glyphs/) { get; } | Gibt die Glyphen zurück. |
+| [Name](../../aspose.svg.dom.css/icsscounterstylerule/name/) { get; } | Gibt den Namen zurück. |
+| [Prefix](../../aspose.svg.dom.css/icsscounterstylerule/prefix/) { get; } | Gibt das Präfix zurück. |
+| [Suffix](../../aspose.svg.dom.css/icsscounterstylerule/suffix/) { get; } | Gibt das Suffix zurück. |
 
 ### Siehe auch
 
 * interface [ICSSRule](../icssrule/)
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

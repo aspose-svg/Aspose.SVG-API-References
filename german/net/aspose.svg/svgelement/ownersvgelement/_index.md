@@ -1,28 +1,26 @@
 ---
-title: SVGElement.OwnerSVGElement
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGElement eigendom. Das nächste VorfahrensvgElement. Null wenn das angegebene Element das äußerste SVGElement ist.
+title: "SVGElement.OwnerSVGElement"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGElement OwnerSVGElement‑Eigenschaft. Das nächstgelegene übergeordnete svg‑Element. Null, wenn das angegebene Element das äußerste svg‑Element ist."
 type: docs
 weight: 30
 url: /de/net/aspose.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
 
-Das nächste Vorfahren-'svg'-Element. Null, wenn das angegebene Element das äußerste SVG-Element ist.
+Das nächstgelegene übergeordnete ‘svg’-Element. Null, wenn das angegebene Element das äußerste svg-Element ist.
 
 ```csharp
 public SVGSVGElement OwnerSVGElement { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Eigentümer-SVG-Element.
+Das übergeordnete SVG‑Element.
 
 ### Siehe auch
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGElement](../)
-* namensraum [Aspose.Svg](../../svgelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

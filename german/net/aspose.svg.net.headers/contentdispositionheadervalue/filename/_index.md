@@ -1,7 +1,7 @@
 ---
-title: ContentDispositionHeaderValue.FileName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ContentDispositionHeaderValue eigendom. Der Name der gespeicherten Datei.
+title: "ContentDispositionHeaderValue.FileName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ContentDispositionHeaderValue FileName Eigenschaft. Der Name der gespeicherten Datei"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.net.headers/contentdispositionheadervalue/filename/
@@ -14,14 +14,12 @@ Der Name der gespeicherten Datei.
 public string FileName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name der Datei.
 
 ### Siehe auch
 
 * class [ContentDispositionHeaderValue](../)
-* namensraum [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

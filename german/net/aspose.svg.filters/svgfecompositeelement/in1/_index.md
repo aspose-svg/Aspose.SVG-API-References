@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.In1
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFECompositeElement eigendom. Entspricht dem Attribut in des angegebenen feCompositeElements.
+title: "SVGFECompositeElement.In1"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFECompositeElement In1-Eigenschaft. Entspricht dem Attribut in im angegebenen feComposite-Element"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.filters/svgfecompositeelement/in1/
 ---
 ## SVGFECompositeElement.In1 property
 
-Entspricht dem Attribut „in“ des angegebenen „feComposite“-Elements.
+Entspricht dem Attribut ‘in’ des angegebenen ‘feComposite’-Elements.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „in“ des angegebenen „feComposite“-Elements.
+Das Attribut ‘in’ im angegebenen ‘feComposite’-Element.
 
 ### Siehe auch
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFECompositeElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.OldValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationRecord eigendom. Der Rückgabewert ist typabhängig. Bei attributes ist es der Wert des geänderten Attributs vor der Änderung. Bei characterData sind es die Daten des geänderten Knotens vor der Änderung. Bei childList ist es null.
+title: "MutationRecord.OldValue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationRecord OldValue-Eigenschaft. Der Rückgabewert hängt vom Typ ab. Für Attribute ist es der Wert des geänderten Attributs vor der Änderung. Für characterData sind es die Daten des geänderten Knotens vor der Änderung. Für childList ist er null."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom.mutations/mutationrecord/oldvalue/
 ---
 ## MutationRecord.OldValue property
 
-Der Rückgabewert ist typabhängig. Bei „attributes“ ist es der Wert des geänderten Attributs vor der Änderung. Bei „characterData“ sind es die Daten des geänderten Knotens vor der Änderung. Bei „childList“ ist es null.
+Der Rückgabewert hängt vom Typ ab. Für "attributes" ist es der Wert des geänderten Attributs vor der Änderung. Für "characterData" sind es die Daten des geänderten Knotens vor der Änderung. Für "childList" ist er null.
 
 ```csharp
 public string OldValue { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der alte Wert.
 
 ### Siehe auch
 
 * class [MutationRecord](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

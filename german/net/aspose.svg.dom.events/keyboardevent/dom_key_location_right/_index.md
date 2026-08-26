@@ -1,14 +1,14 @@
 ---
-title: KeyboardEvent.DOM_KEY_LOCATION_RIGHT
-second_title: Aspose.SVG für .NET-API-Referenz
-description: KeyboardEvent veld. Die Schlüsselaktivierung stammt von der richtigen Schlüsselposition wenn es mehr als eine mögliche Position für diesen Schlüssel gibt.
+title: "KeyboardEvent.DOM_KEY_LOCATION_RIGHT"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "KeyboardEvent DOM_KEY_LOCATION_RIGHT Feld. Die Tastenauslösung stammt aus der rechten Tastenposition, wenn es mehr als einen möglichen Ort für diese Taste gibt."
 type: docs
 weight: 130
 url: /de/net/aspose.svg.dom.events/keyboardevent/dom_key_location_right/
 ---
 ## KeyboardEvent.DOM_KEY_LOCATION_RIGHT field
 
-Die Schlüsselaktivierung stammt von der richtigen Schlüsselposition (wenn es mehr als eine mögliche Position für diesen Schlüssel gibt).
+Die Tastaktivierung stammt aus der rechten Tastposition (wenn es mehr als einen möglichen Ort für diese Taste gibt).
 
 ```csharp
 public const ulong DOM_KEY_LOCATION_RIGHT;
@@ -17,7 +17,5 @@ public const ulong DOM_KEY_LOCATION_RIGHT;
 ### Siehe auch
 
 * class [KeyboardEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

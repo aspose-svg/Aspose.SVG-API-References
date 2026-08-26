@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.Width
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFESpecularLightingElement eigendom. Entspricht dem Attribut Breite des angegebenen FilterElements.
+title: "SVGFESpecularLightingElement.Width"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFESpecularLightingElement Width Eigenschaft. Entspricht dem Attribut width im angegebenen Filter-Element"
 type: docs
 weight: 90
 url: /de/net/aspose.svg.filters/svgfespecularlightingelement/width/
 ---
 ## SVGFESpecularLightingElement.Width property
 
-Entspricht dem Attribut „Breite“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘width’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'Breite' des gegebenen 'Filter'-Elements.
+Das Attribut ‘width’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFESpecularLightingElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

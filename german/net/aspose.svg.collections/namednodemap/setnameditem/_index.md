@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.SetNamedItem
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NamedNodeMap methode. Fügt einen Knoten mit seinem nodeNameAttribut hinzu. Wenn ein Knoten mit diesem Namen bereits in dieser Map vorhanden ist wird er durch den neuen ersetzt. Das Ersetzen eines Knotens durch sich selbst hat keine Auswirkung.
+title: "NamedNodeMap.SetNamedItem"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NamedNodeMap SetNamedItem-Methode. Fügt einen Knoten mithilfe seines nodeName-Attributs hinzu. Wenn bereits ein Knoten mit diesem Namen in dieser Map vorhanden ist, wird er durch den neuen ersetzt. Das Ersetzen eines Knotens durch sich selbst hat keine Wirkung"
 type: docs
-weight: 80
+weight: 70
 url: /de/net/aspose.svg.collections/namednodemap/setnameditem/
 ---
 ## NamedNodeMap.SetNamedItem method
 
-Fügt einen Knoten mit seinem nodeName-Attribut hinzu. Wenn ein Knoten mit diesem Namen bereits in dieser Map vorhanden ist, wird er durch den neuen ersetzt. Das Ersetzen eines Knotens durch sich selbst hat keine Auswirkung.
+Fügt einen Knoten mithilfe seines nodeName-Attributs hinzu. Wenn bereits ein Knoten mit diesem Namen in dieser Zuordnung vorhanden ist, wird er durch den neuen ersetzt. Das Ersetzen eines Knotens durch sich selbst hat keine Wirkung.
 
 ```csharp
 public Attr SetNamedItem(Attr attr)
@@ -20,7 +20,7 @@ public Attr SetNamedItem(Attr attr)
 
 ### Rückgabewert
 
-Gibt Knoten zurück.
+Gibt den Knoten zurück.
 
 ### Ausnahmen
 
@@ -32,7 +32,5 @@ Gibt Knoten zurück.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namensraum [Aspose.Svg.Collections](../../namednodemap/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

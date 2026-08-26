@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.MarkerUnits
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGMarkerElement eigendom. Entspricht dem Attribut markerUnits des angegebenen markerElements. Einer der MarkerEinheitentypen die auf dieser Schnittstelle definiert sind.
+title: "SVGMarkerElement.MarkerUnits"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGMarkerElement MarkerUnits Eigenschaft. Entspricht dem Attribut markerUnits im angegebenen Marker‑Element. Einer der auf diesem Interface definierten Marker‑Einheitstypen."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/svgmarkerelement/markerunits/
 ---
 ## SVGMarkerElement.MarkerUnits property
 
-Entspricht dem Attribut 'markerUnits' des angegebenen 'marker'-Elements. Einer der Marker-Einheitentypen, die auf dieser Schnittstelle definiert sind.
+Entspricht dem Attribut ‘markerUnits’ im angegebenen ‘marker’-Element. Einer der auf diesem Interface definierten Marker-Einheitstypen.
 
 ```csharp
 public SVGAnimatedEnumeration MarkerUnits { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'markerUnits' des gegebenen 'marker'-Elements.
+Das Attribut ‘markerUnits’ des angegebenen ‘marker’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGMarkerElement](../)
-* namensraum [Aspose.Svg](../../svgmarkerelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

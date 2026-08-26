@@ -1,20 +1,20 @@
 ---
-title: IDeviceInformationService.HorizontalResolution
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDeviceInformationService eigendom. Ruft die horizontale Auflösung ab oder legt sie fest.
+title: "IDeviceInformationService.HorizontalResolution"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDeviceInformationService HorizontalResolution-Eigenschaft. Gibt die horizontale Auflösung zurück oder legt sie fest."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.services/ideviceinformationservice/horizontalresolution/
 ---
 ## IDeviceInformationService.HorizontalResolution property
 
-Ruft die horizontale Auflösung ab oder legt sie fest.
+Liest oder setzt die horizontale Auflösung.
 
 ```csharp
 public Resolution HorizontalResolution { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die horizontale Auflösung.
 
@@ -22,7 +22,5 @@ Die horizontale Auflösung.
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* namensraum [Aspose.Svg.Services](../../ideviceinformationservice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

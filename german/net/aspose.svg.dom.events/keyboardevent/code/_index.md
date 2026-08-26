@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.Code
-second_title: Aspose.SVG für .NET-API-Referenz
-description: KeyboardEvent eigendom. Der Code enthält eine Zeichenfolge die die gedrückte physische Taste identifiziert. Der Wert wird nicht durch das aktuelle Tastaturlayout oder den Modifikatorstatus beeinflusst sodass eine bestimmte Taste immer denselben Wert zurückgibt.
+title: "KeyboardEvent.Code"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "KeyboardEvent Code property. Der Code enthält eine Zeichenkette, die die physische Taste identifiziert, die gedrückt wird. Der Wert wird nicht vom aktuellen Tastaturlayout oder Modifier-Zustand beeinflusst, sodass eine bestimmte Taste immer denselben Wert zurückgibt."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.events/keyboardevent/code/
 ---
 ## KeyboardEvent.Code property
 
-Der Code enthält eine Zeichenfolge, die die gedrückte physische Taste identifiziert. Der Wert wird nicht durch das aktuelle Tastaturlayout oder den Modifikatorstatus beeinflusst, sodass eine bestimmte Taste immer denselben Wert zurückgibt.
+Der Code enthält eine Zeichenkette, die die physische Taste identifiziert, die gedrückt wird. Der Wert wird nicht vom aktuellen Tastaturlayout oder dem Modifizierungszustand beeinflusst, sodass eine bestimmte Taste stets denselben Wert zurückgibt.
 
 ```csharp
 public string Code { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Schlüsselcode.
+Der Tastencode.
 
 ### Siehe auch
 
 * class [KeyboardEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

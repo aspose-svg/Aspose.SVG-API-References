@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.ScaleNonUniform
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGMatrix methode. Multipliziert eine ungleichmäßige Skalierungstransformation auf der aktuellen Matrix nach und gibt die resultierende Matrix zurück.
+title: "SVGMatrix.ScaleNonUniform"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGMatrix ScaleNonUniform Methode. Multipliziert eine nicht-uniforme Skalierungstransformation nachträglich auf die aktuelle Matrix und gibt die resultierende Matrix zurück."
 type: docs
 weight: 100
 url: /de/net/aspose.svg.datatypes/svgmatrix/scalenonuniform/
 ---
 ## SVGMatrix.ScaleNonUniform method
 
-Multipliziert eine ungleichmäßige Skalierungstransformation auf der aktuellen Matrix nach und gibt die resultierende Matrix zurück.
+Post-multipliziert eine nicht einheitliche Skalierungs-Transformation auf die aktuelle Matrix und gibt die resultierende Matrix zurück.
 
 ```csharp
 public SVGMatrix ScaleNonUniform(float scaleFactorX, float scaleFactorY)
@@ -26,7 +26,5 @@ Die resultierende Matrix.
 ### Siehe auch
 
 * class [SVGMatrix](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgmatrix/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

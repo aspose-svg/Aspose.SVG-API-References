@@ -1,7 +1,7 @@
 ---
-title: DOMException.DOMSTRING_SIZE_ERR
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMException veld. Wenn der angegebene Textbereich nicht in einen DOMString passt.
+title: "DOMException.DOMSTRING_SIZE_ERR"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMException DOMSTRING_SIZE_ERR Feld. Wenn der angegebene Textbereich nicht in einen DOMString passt"
 type: docs
 weight: 70
 url: /de/net/aspose.svg.dom/domexception/domstring_size_err/
@@ -17,7 +17,5 @@ public const ushort DOMSTRING_SIZE_ERR;
 ### Siehe auch
 
 * class [DOMException](../)
-* namensraum [Aspose.Svg.Dom](../../domexception/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

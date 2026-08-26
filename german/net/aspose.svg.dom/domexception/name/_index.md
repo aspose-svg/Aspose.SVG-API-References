@@ -1,27 +1,25 @@
 ---
-title: DOMException.Name
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMException eigendom. Gibt eine Zeichenfolge zurück die eine der Zeichenfolgen enthält die einem Fehlernamen zugeordnet sind.
+title: "DOMException.Name"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMException Name Eigenschaft. Gibt eine Zeichenkette zurück, die einen der mit einem Fehlernamen verbundenen Zeichenketten enthält"
 type: docs
 weight: 40
 url: /de/net/aspose.svg.dom/domexception/name/
 ---
 ## DOMException.Name property
 
-Gibt eine Zeichenfolge zurück, die eine der Zeichenfolgen enthält, die einem Fehlernamen zugeordnet sind.
+Gibt eine Zeichenkette zurück, die einen der mit einem Fehlernamen verknüpften Zeichenketten enthält.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Fehlername.
 
 ### Siehe auch
 
 * class [DOMException](../)
-* namensraum [Aspose.Svg.Dom](../../domexception/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

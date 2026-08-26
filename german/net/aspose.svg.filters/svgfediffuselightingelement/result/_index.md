@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.Result
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEDiffuseLightingElement eigendom. Entspricht dem Attribut Ergebnis des angegebenen FilterElements.
+title: "SVGFEDiffuseLightingElement.Result"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEDiffuseLightingElement Result-Eigenschaft. Entspricht dem Attribut result im angegebenen filter-Element"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.filters/svgfediffuselightingelement/result/
 ---
 ## SVGFEDiffuseLightingElement.Result property
 
-Entspricht dem Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘result’ im angegebenen ‘filter’-Element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Das Attribut ‘result’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDiffuseLightingElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

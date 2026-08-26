@@ -1,7 +1,7 @@
 ---
-title: ICreateStreamProvider.ReleaseStream
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICreateStreamProvider methode. Gibt den Stream frei.
+title: "ICreateStreamProvider.ReleaseStream"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICreateStreamProvider ReleaseStream Methode. Gibt den Stream frei"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.io/icreatestreamprovider/releasestream/
@@ -16,12 +16,10 @@ public void ReleaseStream(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Stream wird veröffentlicht. |
+| stream | Strom | Der freigegebene Stream. |
 
 ### Siehe auch
 
 * interface [ICreateStreamProvider](../)
-* namensraum [Aspose.Svg.IO](../../icreatestreamprovider/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Node.NOTATION_NODE
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node veld. Eine Notation node
+title: "Node.NOTATION_NODE"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node NOTATION_NODE Feld. Ein Notationsknoten"
 type: docs
-weight: 410
+weight: 390
 url: /de/net/aspose.svg.dom/node/notation_node/
 ---
 ## Node.NOTATION_NODE field
 
-Eine Notation node
+Ein Notations‑Knoten
 
 ```csharp
 public const ushort NOTATION_NODE;
@@ -17,7 +17,5 @@ public const ushort NOTATION_NODE;
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

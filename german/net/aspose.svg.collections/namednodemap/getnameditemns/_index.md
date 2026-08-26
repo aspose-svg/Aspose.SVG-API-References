@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.GetNamedItemNS
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NamedNodeMap methode. Ruft einen Knoten ab der durch lokalen Namen und NamensraumURI angegeben ist.
+title: "NamedNodeMap.GetNamedItemNS"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NamedNodeMap GetNamedItemNS-Methode. Ruft einen Knoten ab, der durch lokalen Namen und Namespace-URI angegeben ist."
 type: docs
-weight: 50
+weight: 40
 url: /de/net/aspose.svg.collections/namednodemap/getnameditemns/
 ---
 ## NamedNodeMap.GetNamedItemNS method
 
-Ruft einen Knoten ab, der durch lokalen Namen und Namensraum-URI angegeben ist.
+Ruft einen Knoten ab, der durch lokalen Namen und Namespace-URI angegeben ist.
 
 ```csharp
 public Attr GetNamedItemNS(string namespaceURI, string localName)
@@ -17,7 +17,7 @@ public Attr GetNamedItemNS(string namespaceURI, string localName)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | namespaceURI | String | Der Namespace-URI. |
-| localName | String | Name des Lokals. |
+| localName | String | Name des lokalen. |
 
 ### Rückgabewert
 
@@ -27,7 +27,5 @@ Gibt den Knoten zurück.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namensraum [Aspose.Svg.Collections](../../namednodemap/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

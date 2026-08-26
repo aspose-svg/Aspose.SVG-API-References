@@ -1,27 +1,25 @@
 ---
-title: Entity.SystemId
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Entity eigendom. Die der Entität zugeordnete Systemkennung falls angegeben andernfalls null. Dies kann ein absoluter URI sein oder nicht.
+title: "Entity.SystemId"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Entity SystemId-Eigenschaft. Der Systembezeichner, der der Entität zugeordnet ist, falls angegeben, andernfalls null. Dies kann ein absoluter URI sein oder nicht."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom/entity/systemid/
 ---
 ## Entity.SystemId property
 
-Die der Entität zugeordnete Systemkennung, falls angegeben, andernfalls null. Dies kann ein absoluter URI sein oder nicht.
+Der Systembezeichner, der mit der Entität verknüpft ist, falls angegeben, andernfalls null. Dies kann ein absoluter URI sein oder nicht.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Systemkennung.
+Der Systembezeichner.
 
 ### Siehe auch
 
 * class [Entity](../)
-* namensraum [Aspose.Svg.Dom](../../entity/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

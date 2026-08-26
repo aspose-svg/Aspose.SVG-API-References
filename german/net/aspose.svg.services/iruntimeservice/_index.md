@@ -1,29 +1,26 @@
 ---
-title: Interface IRuntimeService
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Services.IRuntimeService koppel. Dieser Dienst wird verwendet um laufzeitbezogene Eigenschaften zu konfigurieren.
+title: "IRuntimeService Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Services.IRuntimeService Schnittstelle. Dieser Dienst wird verwendet, um Laufzeit‑bezogene Eigenschaften zu konfigurieren."
 type: docs
-weight: 3730
+weight: 5860
 url: /de/net/aspose.svg.services/iruntimeservice/
 ---
 ## IRuntimeService interface
 
-Dieser Dienst wird verwendet, um laufzeitbezogene Eigenschaften zu konfigurieren.
+This service is used to configure runtime related properties.
 
 ```csharp
-public interface IRuntimeService : IService
+public interface IRuntimeService
 ```
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [JavaScriptTimeout](../../aspose.svg.services/iruntimeservice/javascripttimeout/) { get; set; } | Holt oder setztTimeSpanwas die JavaScript-Ausführungszeit begrenzt. Wenn das Skript länger als angegeben ausgeführt wirdTimeSpan , es wird storniert. Sie können ein unendliches Timeout durch die Einstellung angebenTimeSpan gleich -1 Millisekunde. Der Standardwert ist 1 Minute. |
+| [JavaScriptTimeout](../../aspose.svg.services/iruntimeservice/javascripttimeout/) { get; set; } | Liest oder setzt TimeSpan, das die Ausführungszeit von JavaScript begrenzt. Wird das Skript länger als das angegebene TimeSpan ausgeführt, wird es abgebrochen. Sie können einen unbegrenzten Timeout festlegen, indem Sie TimeSpan auf -1 Millisekunde setzen. Der Standardwert beträgt 1 Minute. |
 
 ### Siehe auch
 
-* interface [IService](../iservice/)
-* namensraum [Aspose.Svg.Services](../../aspose.svg.services/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

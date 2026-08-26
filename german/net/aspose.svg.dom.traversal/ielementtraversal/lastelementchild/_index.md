@@ -1,20 +1,20 @@
 ---
-title: IElementTraversal.LastElementChild
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IElementTraversal eigendom. Gibt den letzten untergeordneten Elementknoten dieses Elements zurück. null wenn dieses Element keine untergeordneten Elemente hat.
+title: "IElementTraversal.LastElementChild"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IElementTraversal LastElementChild Eigenschaft. Gibt den letzten Kindelementknoten dieses Elements zurück. null, wenn dieses Element keine Kindelemente hat."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.traversal/ielementtraversal/lastelementchild/
 ---
 ## IElementTraversal.LastElementChild property
 
-Gibt den letzten untergeordneten Elementknoten dieses Elements zurück. null, wenn dieses Element keine untergeordneten Elemente hat.
+Gibt den letzten Kind-Elementknoten dieses Elements zurück. null, wenn dieses Element keine Kindelemente hat.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das letzte Elementkind.
 
@@ -22,7 +22,5 @@ Das letzte Elementkind.
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* namensraum [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

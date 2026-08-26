@@ -1,14 +1,14 @@
 ---
-title: Document.OnScroll
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den EventHandler für das OnScrollEreignis ab oder legt ihn fest.
+title: "Document.OnScroll"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnScroll-Ereignis. Ruft den Ereignishandler für das OnScroll-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 670
 url: /de/net/aspose.svg.dom/document/onscroll/
 ---
 ## Document.OnScroll event
 
-Ruft den Event-Handler für das OnScroll-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnScroll-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnScroll;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnScroll;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

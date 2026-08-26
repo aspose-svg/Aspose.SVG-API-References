@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.PointsAtX
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFESpotLightElement eigendom. Entspricht dem Attribut pointsAtX auf dem gegebenen feSpotLightElement.
+title: "SVGFESpotLightElement.PointsAtX"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFESpotLightElement PointsAtX-Eigenschaft. Entspricht dem Attribut pointsAtX des angegebenen feSpotLight-Elements."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.filters/svgfespotlightelement/pointsatx/
 ---
 ## SVGFESpotLightElement.PointsAtX property
 
-Entspricht dem Attribut 'pointsAtX' auf dem gegebenen 'feSpotLight'-Element.
+Entspricht dem Attribut ‘pointsAtX’ im angegebenen ‘feSpotLight’-Element.
 
 ```csharp
 public SVGAnimatedNumber PointsAtX { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'pointsAtX' des gegebenen 'feSpotLight'-Elements.
+Das Attribut ‘pointsAtX’ des angegebenen ‘feSpotLight’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

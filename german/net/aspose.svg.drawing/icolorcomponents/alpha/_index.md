@@ -1,7 +1,7 @@
 ---
-title: IColorComponents.Alpha
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IColorComponents eigendom. Gibt die AlphaKomponente zurück.
+title: "IColorComponents.Alpha"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IColorComponents Alpha-Eigenschaft. Gibt die Alpha-Komponente zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/icolorcomponents/alpha/
@@ -17,7 +17,5 @@ public float Alpha { get; }
 ### Siehe auch
 
 * interface [IColorComponents](../)
-* namensraum [Aspose.Svg.Drawing](../../icolorcomponents/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingLeft
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe die Eigenschaftsdefinition paddingleft in CSS2.
+title: "ICSS2Properties.PaddingLeft"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties PaddingLeft-Eigenschaft. Siehe die Definition der padding-left-Eigenschaft in CSS2"
 type: docs
-weight: 820
+weight: 850
 url: /de/net/aspose.svg.dom.css/icss2properties/paddingleft/
 ---
 ## ICSS2Properties.PaddingLeft property
 
-Siehe die Eigenschaftsdefinition padding-left in CSS2.
+Siehe die Definition der padding-left-Eigenschaft in CSS2.
 
 ```csharp
 public string PaddingLeft { get; set; }
@@ -21,7 +21,5 @@ padding-left-Eigenschaft
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

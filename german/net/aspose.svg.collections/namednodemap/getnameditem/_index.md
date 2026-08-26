@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.GetNamedItem
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NamedNodeMap methode. Ruft einen namentlich angegebenen Knoten ab.
+title: "NamedNodeMap.GetNamedItem"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NamedNodeMap GetNamedItem-Methode. Ruft einen Knoten ab, der durch den Namen angegeben ist."
 type: docs
-weight: 40
+weight: 30
 url: /de/net/aspose.svg.collections/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method
 
-Ruft einen namentlich angegebenen Knoten ab.
+Ruft einen Knoten ab, der durch den Namen angegeben ist.
 
 ```csharp
 public Attr GetNamedItem(string name)
@@ -26,7 +26,5 @@ Gibt den Knoten zurück.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namensraum [Aspose.Svg.Collections](../../namednodemap/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

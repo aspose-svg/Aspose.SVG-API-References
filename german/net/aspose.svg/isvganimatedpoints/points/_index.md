@@ -1,28 +1,26 @@
 ---
-title: ISVGAnimatedPoints.Points
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ISVGAnimatedPoints eigendom. Bietet Zugriff auf den Basisinhalt dh statischen des Attributs Punkte.
+title: "ISVGAnimatedPoints.Points"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ISVGAnimatedPoints Points-Eigenschaft. Bietet Zugriff auf die Basis‑ bzw. statischen Inhalte des points-Attributs."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/isvganimatedpoints/points/
 ---
 ## ISVGAnimatedPoints.Points property
 
-Bietet Zugriff auf den Basisinhalt (dh statischen) des Attributs „Punkte“.
+Bietet Zugriff auf die Basis‑ (d.h. statischen) Inhalte des ‘points’-Attributs.
 
 ```csharp
 public SVGPointList Points { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Inhalt des Attributs „Punkte“
+Der Inhalt des ‘points’-Attributs
 
 ### Siehe auch
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * interface [ISVGAnimatedPoints](../)
-* namensraum [Aspose.Svg](../../isvganimatedpoints/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: LengthOrAuto.Length
-second_title: Aspose.SVG für .NET-API-Referenz
-description: LengthOrAuto eigendom. Ruft die Länge ab oder legt sie fest.
+title: "LengthOrAuto.Length"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "LengthOrAuto Length property. Gibt die Länge zurück oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.drawing/lengthorauto/length/
 ---
 ## LengthOrAuto.Length property
 
-Ruft die Länge ab oder legt sie fest.
+Liest oder setzt die Länge.
 
 ```csharp
 public Length Length { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Länge.
 
@@ -22,7 +22,5 @@ Die Länge.
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* namensraum [Aspose.Svg.Drawing](../../lengthorauto/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

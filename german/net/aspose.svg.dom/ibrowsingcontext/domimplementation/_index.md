@@ -1,20 +1,20 @@
 ---
-title: IBrowsingContext.DOMImplementation
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IBrowsingContext eigendom. Ruft die DOMImplementierung ab.
+title: "IBrowsingContext.DOMImplementation"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IBrowsingContext DOMImplementation Eigenschaft. Gibt die DOM-Implementierung zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
 ---
 ## IBrowsingContext.DOMImplementation property
 
-Ruft die DOM-Implementierung ab.
+Liefert die DOM-Implementierung.
 
 ```csharp
 public IDOMImplementation DOMImplementation { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die DOM-Implementierung.
 
@@ -22,7 +22,5 @@ Die DOM-Implementierung.
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* namensraum [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

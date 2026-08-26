@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.Y
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFESpotLightElement eigendom. Entspricht dem Attribut y auf dem gegebenen feSpotLightElement.
+title: "SVGFESpotLightElement.Y"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFESpotLightElement Y-Eigenschaft. Entspricht dem Attribut y des angegebenen feSpotLight-Elements."
 type: docs
 weight: 70
 url: /de/net/aspose.svg.filters/svgfespotlightelement/y/
 ---
 ## SVGFESpotLightElement.Y property
 
-Entspricht dem Attribut 'y' auf dem gegebenen 'feSpotLight'-Element.
+Entspricht dem Attribut ‘y’ im angegebenen ‘feSpotLight’-Element.
 
 ```csharp
 public SVGAnimatedNumber Y { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'y' des gegebenen 'feSpotLight'-Elements.
+Das Attribut ‘y’ des angegebenen ‘feSpotLight’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

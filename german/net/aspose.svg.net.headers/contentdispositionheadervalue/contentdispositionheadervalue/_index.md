@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.ContentDispositionHeaderValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ContentDispositionHeaderValue constructeur. Erstellen Sie eine neue Instanz dieses Dispositionstyps.
+title: "ContentDispositionHeaderValue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ContentDispositionHeaderValue Konstruktor. Erstellt eine neue Instanz dieses Dispositionstyps"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.net.headers/contentdispositionheadervalue/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue constructor
 
-Erstellen Sie eine neue Instanz dieses Dispositionstyps.
+Erstelle eine neue Instanz dieses Disposition-Typs.
 
 ```csharp
 public ContentDispositionHeaderValue(string dispositionType)
@@ -21,7 +21,5 @@ public ContentDispositionHeaderValue(string dispositionType)
 ### Siehe auch
 
 * class [ContentDispositionHeaderValue](../)
-* namensraum [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

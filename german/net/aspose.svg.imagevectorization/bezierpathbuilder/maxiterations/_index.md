@@ -1,14 +1,14 @@
 ---
-title: BezierPathBuilder.MaxIterations
-second_title: Aspose.SVG für .NET-API-Referenz
-description: BezierPathBuilder eigendom. Ruft die Fehlerschwelle ab oder legt sie fest. Dieser Parameter definiert die Anzahl der Iterationen für die Approximationsmethode der kleinsten Quadrate. Standardmäßig ist sie 30.
+title: "BezierPathBuilder.MaxIterations"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "BezierPathBuilder MaxIterations Eigenschaft. Liest den Fehlerschwellenwert aus oder legt ihn fest. Dieser Parameter definiert die Anzahl der Iterationen für das Verfahren der kleinsten Quadrate. Standardwert ist 30"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/
 ---
 ## BezierPathBuilder.MaxIterations property
 
-Ruft die Fehlerschwelle ab oder legt sie fest. Dieser Parameter definiert die Anzahl der Iterationen für die Approximationsmethode der kleinsten Quadrate. Standardmäßig ist sie 30.
+Liest oder setzt die Fehlerschwelle. Dieser Parameter definiert die Anzahl der Iterationen für das Kleinste-Quadrate-Approximationsverfahren. Standardmäßig ist er 30.
 
 ```csharp
 public int MaxIterations { get; set; }
@@ -17,7 +17,5 @@ public int MaxIterations { get; set; }
 ### Siehe auch
 
 * class [BezierPathBuilder](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

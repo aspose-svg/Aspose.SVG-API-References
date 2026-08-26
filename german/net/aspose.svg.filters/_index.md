@@ -1,46 +1,44 @@
 ---
-title: Aspose.Svg.Filters
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Die Aspose.Svg.Dom.Svg.Filters Namespace enthält Klassen und Schnittstellen die sich auf Filtereffekte in der SVGSpezifikation beziehen.
+title: "Aspose.Svg.Filters"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Der Aspose.Svg.Dom.Svg.Filters-Namespace enthält Klassen und Interfaces, die sich auf Filtereffekte in der SVG-Spezifikation beziehen."
 type: docs
-weight: 160
+weight: 180
 url: /de/net/aspose.svg.filters/
 ---
-Die **Aspose.Svg.Dom.Svg.Filters** Namespace enthält Klassen und Schnittstellen, die sich auf Filtereffekte in der SVG-Spezifikation beziehen.
+Der **Aspose.Svg.Dom.Svg.Filters** Namespace enthält Klassen und Schnittstellen, die sich auf Filtereffekte in der SVG-Spezifikation beziehen.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [SVGFEBlendElement](./svgfeblendelement/) | Die SVGFEBlendElement-Schnittstelle entspricht dem 'feBlend'-Element. |
-| [SVGFEColorMatrixElement](./svgfecolormatrixelement/) | Die SVGFEColorMatrixElement-Schnittstelle entspricht dem 'feColorMatrix'-Element. |
-| [SVGFEComponentTransferElement](./svgfecomponenttransferelement/) | Die Schnittstelle SVGFEComponentTransferElement entspricht dem Element 'feComponentTransfer'. |
-| [SVGFECompositeElement](./svgfecompositeelement/) | Die SVGFECompositeElement-Schnittstelle entspricht dem 'feComposite'-Element. |
-| [SVGFEConvolveMatrixElement](./svgfeconvolvematrixelement/) | Die SVGFEConvolveMatrixElement-Schnittstelle entspricht dem 'feConvolveMatrix'-Element. |
-| [SVGFEDiffuseLightingElement](./svgfediffuselightingelement/) | Die SVGFEDiffuseLightingElement-Schnittstelle entspricht dem 'feDiffuseLighting'-Element. |
-| [SVGFEDisplacementMapElement](./svgfedisplacementmapelement/) | Die SVGFEDisplacementMapElement-Schnittstelle entspricht dem 'feDisplacementMap'-Element. |
-| [SVGFEDistantLightElement](./svgfedistantlightelement/) | Die SVGFEDistantLightElement-Schnittstelle entspricht dem 'feDistantLight'-Element. |
-| [SVGFEDropShadowElement](./svgfedropshadowelement/) | Die SVGFEDropShadowElement-Schnittstelle entspricht dem 'feDropShadow'-Element. |
-| [SVGFEFloodElement](./svgfefloodelement/) | Die SVGFEFloodElement-Schnittstelle entspricht dem 'feFlood'-Element. |
-| [SVGFEFuncAElement](./svgfefuncaelement/) | Die SVGFEFuncAElement-Schnittstelle entspricht dem 'feFuncA'-Element. |
-| [SVGFEFuncBElement](./svgfefuncbelement/) | Die SVGFEFuncBElement-Schnittstelle entspricht dem 'feFuncB'-Element. |
-| [SVGFEFuncGElement](./svgfefuncgelement/) | Die SVGFEFuncRElement-Schnittstelle entspricht dem 'feFuncG'-Element. |
-| [SVGFEFuncRElement](./svgfefuncrelement/) | Die SVGFEFuncRElement-Schnittstelle entspricht dem 'feFuncR'-Element. |
-| [SVGFEGaussianBlurElement](./svgfegaussianblurelement/) | Die Schnittstelle SVGFEGaussianBlurElement entspricht dem Element „feGaussianBlur“. |
-| [SVGFEImageElement](./svgfeimageelement/) | Die SVGFEImageElement-Schnittstelle entspricht dem 'feImage'-Element. |
-| [SVGFEMergeElement](./svgfemergeelement/) | Die SVGFEMergeElement-Schnittstelle entspricht dem 'feMerge'-Element. |
-| [SVGFEMergeNodeElement](./svgfemergenodeelement/) | Die SVGFEMergeNodeElement-Schnittstelle entspricht dem 'feMergeNode'-Element. |
-| [SVGFEMorphologyElement](./svgfemorphologyelement/) | Die SVGFEMorphologyElement-Schnittstelle entspricht dem 'feMorphology'-Element. |
-| [SVGFEOffsetElement](./svgfeoffsetelement/) | Die SVGFEOffsetElement-Schnittstelle entspricht dem 'feOffset'-Element. |
-| [SVGFEPointLightElement](./svgfepointlightelement/) | Die SVGFEPointLightElement-Schnittstelle entspricht dem 'fePointLight'-Element. |
-| [SVGFESpecularLightingElement](./svgfespecularlightingelement/) | Die SVGFESpecularLightingElement-Schnittstelle entspricht dem 'feSpecularLighting'-Element. |
-| [SVGFESpotLightElement](./svgfespotlightelement/) | Die SVGFESpotLightElement-Schnittstelle entspricht dem 'feSpotLight'-Element. |
-| [SVGFETileElement](./svgfetileelement/) | Die SVGFETileElement-Schnittstelle entspricht dem 'feTile'-Element. |
-| [SVGFETurbulenceElement](./svgfeturbulenceelement/) | Die SVGFETurbulenceElement-Schnittstelle entspricht dem 'feTurbulence'-Element. |
+| [SVGFEBlendElement](./svgfeblendelement/) | Das SVGFEBlendElement-Interface entspricht dem ‘feBlend’-Element. |
+| [SVGFEColorMatrixElement](./svgfecolormatrixelement/) | Das SVGFEColorMatrixElement-Interface entspricht dem ‘feColorMatrix’-Element. |
+| [SVGFEComponentTransferElement](./svgfecomponenttransferelement/) | Das SVGFEComponentTransferElement-Interface entspricht dem ‘feComponentTransfer’-Element. |
+| [SVGFECompositeElement](./svgfecompositeelement/) | Das SVGFECompositeElement-Interface entspricht dem ‘feComposite’-Element. |
+| [SVGFEConvolveMatrixElement](./svgfeconvolvematrixelement/) | Das SVGFEConvolveMatrixElement-Interface entspricht dem ‘feConvolveMatrix’-Element. |
+| [SVGFEDiffuseLightingElement](./svgfediffuselightingelement/) | Das SVGFEDiffuseLightingElement-Interface entspricht dem ‘feDiffuseLighting’-Element. |
+| [SVGFEDisplacementMapElement](./svgfedisplacementmapelement/) | Das SVGFEDisplacementMapElement-Interface entspricht dem ‘feDisplacementMap’-Element. |
+| [SVGFEDistantLightElement](./svgfedistantlightelement/) | Das SVGFEDistantLightElement-Interface entspricht dem ‘feDistantLight’-Element. |
+| [SVGFEDropShadowElement](./svgfedropshadowelement/) | Das SVGFEDropShadowElement-Interface entspricht dem ‘feDropShadow’-Element. |
+| [SVGFEFloodElement](./svgfefloodelement/) | Das SVGFEFloodElement-Interface entspricht dem ‘feFlood’-Element. |
+| [SVGFEFuncAElement](./svgfefuncaelement/) | Das SVGFEFuncAElement-Interface entspricht dem ‘feFuncA’-Element. |
+| [SVGFEFuncBElement](./svgfefuncbelement/) | Das SVGFEFuncBElement-Interface entspricht dem ‘feFuncB’-Element. |
+| [SVGFEFuncGElement](./svgfefuncgelement/) | Das SVGFEFuncRElement-Interface entspricht dem ‘feFuncG’-Element. |
+| [SVGFEFuncRElement](./svgfefuncrelement/) | Das SVGFEFuncRElement-Interface entspricht dem ‘feFuncR’-Element. |
+| [SVGFEGaussianBlurElement](./svgfegaussianblurelement/) | Das SVGFEGaussianBlurElement-Interface entspricht dem �feGaussianBlur�-Element. |
+| [SVGFEImageElement](./svgfeimageelement/) | Das SVGFEImageElement-Interface entspricht dem ‘feImage’-Element. |
+| [SVGFEMergeElement](./svgfemergeelement/) | Das SVGFEMergeElement-Interface entspricht dem ‘feMerge’-Element. |
+| [SVGFEMergeNodeElement](./svgfemergenodeelement/) | Das SVGFEMergeNodeElement-Interface entspricht dem ‘feMergeNode’-Element. |
+| [SVGFEMorphologyElement](./svgfemorphologyelement/) | Das SVGFEMorphologyElement-Interface entspricht dem ‘feMorphology’-Element. |
+| [SVGFEOffsetElement](./svgfeoffsetelement/) | Das SVGFEOffsetElement-Interface entspricht dem ‘feOffset’-Element. |
+| [SVGFEPointLightElement](./svgfepointlightelement/) | Das SVGFEPointLightElement-Interface entspricht dem ‘fePointLight’-Element. |
+| [SVGFESpecularLightingElement](./svgfespecularlightingelement/) | Das SVGFESpecularLightingElement-Interface entspricht dem ‘feSpecularLighting’-Element. |
+| [SVGFESpotLightElement](./svgfespotlightelement/) | Das SVGFESpotLightElement-Interface entspricht dem ‘feSpotLight’-Element. |
+| [SVGFETileElement](./svgfetileelement/) | Das SVGFETileElement-Interface entspricht dem ‘feTile’-Element. |
+| [SVGFETurbulenceElement](./svgfeturbulenceelement/) | Das SVGFETurbulenceElement-Interface entspricht dem ‘feTurbulence’-Element. |
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
 | --- | --- |
-| [ISVGFilterPrimitiveStandardAttributes](./isvgfilterprimitivestandardattributes/) | Diese Schnittstelle definiert den Satz von DOM-Attributen, die allen Filter-Primitiv-Schnittstellen gemeinsam sind. |
-
-
+| [ISVGFilterPrimitiveStandardAttributes](./isvgfilterprimitivestandardattributes/) | Dieses Interface definiert die Menge der DOM-Attribute, die für alle Filter-Primitive-Interfaces gemeinsam sind. |

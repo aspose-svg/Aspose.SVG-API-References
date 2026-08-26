@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetEquivalentPath
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGGeometryElement methode. Gibt eine neue Instanzinstanz von zurückSVGPathSegList was darstelltSVGGeometryElement als Pfadsegmente.
+title: "SVGGeometryElement.GetEquivalentPath"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGGeometryElement GetEquivalentPath‑Methode. Gibt eine neue Instanz von SVGPathSegList zurück, die SVGGeometryElement als Pfadsegmente darstellt."
 type: docs
-weight: 20
+weight: 30
 url: /de/net/aspose.svg/svggeometryelement/getequivalentpath/
 ---
 ## SVGGeometryElement.GetEquivalentPath method
 
-Gibt eine neue Instanzinstanz von zurück[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) was darstellt[`SVGGeometryElement`](../) als Pfadsegmente.
+Gibt eine neue Instanz der [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) zurück, die [`SVGGeometryElement`](../) als Pfadsegmente darstellt.
 
 ```csharp
 public SVGPathSegList GetEquivalentPath()
@@ -16,13 +16,11 @@ public SVGPathSegList GetEquivalentPath()
 
 ### Rückgabewert
 
-Eine neue Instanzinstanz der[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
+Eine neue Instanz der [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
 
 ### Siehe auch
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGGeometryElement](../)
-* namensraum [Aspose.Svg](../../svggeometryelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

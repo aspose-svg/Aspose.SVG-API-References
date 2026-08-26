@@ -1,20 +1,20 @@
 ---
-title: IBrowsingContext.Security
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IBrowsingContext eigendom. Ruft das SandboxingFlag ab.
+title: "IBrowsingContext.Security"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IBrowsingContext Security Eigenschaft. Gibt das Sandbox-Flag zurück."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom/ibrowsingcontext/security/
 ---
 ## IBrowsingContext.Security property
 
-Ruft das Sandboxing-Flag ab.
+Liefert das Sandbox‑Flag.
 
 ```csharp
 public Sandbox Security { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Sicherheit.
 
@@ -22,7 +22,5 @@ Die Sicherheit.
 
 * enum [Sandbox](../../../aspose.svg/sandbox/)
 * interface [IBrowsingContext](../)
-* namensraum [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: DOMTreatNullAsAttribute.DOMTreatNullAsAttribute
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMTreatNullAsAttribute constructeur. Initialisiert eine neue Instanz vonDOMTreatNullAsAttribute Klasse.
+title: "DOMTreatNullAsAttribute"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMTreatNullAsAttribute Konstruktor. Initialisiert eine neue Instanz der Klasse DOMTreatNullAsAttribute"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.attributes/domtreatnullasattribute/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute constructor
 
-Initialisiert eine neue Instanz von[`DOMTreatNullAsAttribute`](../) Klasse.
+Initialisiert eine neue Instanz der [`DOMTreatNullAsAttribute`](../)-Klasse.
 
 ```csharp
 public DOMTreatNullAsAttribute(Type type, object value)
@@ -16,13 +16,11 @@ public DOMTreatNullAsAttribute(Type type, object value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| type | Type | Der Objekttyp. |
-| value | Object | Der Objektwert. |
+| type | Typ | Der Objekttyp. |
+| value | Objekt | Der Objektwert. |
 
 ### Siehe auch
 
 * class [DOMTreatNullAsAttribute](../)
-* namensraum [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

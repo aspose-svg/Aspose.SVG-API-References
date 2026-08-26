@@ -1,7 +1,7 @@
 ---
-title: DOMException.ABORT_ERR
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMException veld. Der Vorgang wurde abgebrochen.
+title: "DOMException.ABORT_ERR"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMException ABORT_ERR Feld. Der Vorgang wurde abgebrochen"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom/domexception/abort_err/
@@ -17,7 +17,5 @@ public const ushort ABORT_ERR;
 ### Siehe auch
 
 * class [DOMException](../)
-* namensraum [Aspose.Svg.Dom](../../domexception/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

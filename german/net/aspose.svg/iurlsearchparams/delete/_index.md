@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Delete
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IUrlSearchParams methode. Entfernt alle NameWertPaare deren Name lautetName .
+title: "IUrlSearchParams.Delete"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IUrlSearchParams Delete-Methode. Entfernt alle Namens‑Wert‑Paare, deren Name name ist."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/iurlsearchparams/delete/
 ---
 ## IUrlSearchParams.Delete method
 
-Entfernt alle Name-Wert-Paare, deren Name lautet`Name` .
+Entfernt alle Namens‑Wert‑Paare, deren Name `name` ist.
 
 ```csharp
 public void Delete(string name)
@@ -16,12 +16,10 @@ public void Delete(string name)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| name | String | Schlüssel, der verwendet wird, um Name-Wert-Paare zu finden. |
+| name | String | Schlüssel, der zum Auffinden von Namens‑Wert‑Paaren verwendet wird. |
 
 ### Siehe auch
 
 * interface [IUrlSearchParams](../)
-* namensraum [Aspose.Svg](../../iurlsearchparams/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

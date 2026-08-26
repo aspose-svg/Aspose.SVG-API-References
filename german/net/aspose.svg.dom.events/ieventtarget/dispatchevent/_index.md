@@ -1,14 +1,14 @@
 ---
-title: IEventTarget.DispatchEvent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IEventTarget methode. Diese Methode ermöglicht die Weiterleitung von Ereignissen in das Ereignismodell der Implementierung.
+title: "IEventTarget.DispatchEvent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IEventTarget DispatchEvent-Methode. Diese Methode ermöglicht das Senden von Ereignissen in das Ereignismodell der Implementierung."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.events/ieventtarget/dispatchevent/
 ---
 ## IEventTarget.DispatchEvent method
 
-Diese Methode ermöglicht die Weiterleitung von Ereignissen in das Ereignismodell der Implementierung.
+Diese Methode ermöglicht das Senden von Ereignissen in das Ereignismodell der Implementierung.
 
 ```csharp
 public bool DispatchEvent(Event @event)
@@ -16,11 +16,11 @@ public bool DispatchEvent(Event @event)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| event | Event | Gibt den Ereignistyp, das Verhalten und die Kontextinformationen an, die bei der Verarbeitung des Ereignisses verwendet werden sollen. |
+| event | Ereignis | Gibt den Ereignistyp, das Verhalten und die kontextbezogenen Informationen an, die bei der Verarbeitung des Ereignisses verwendet werden sollen. |
 
 ### Rückgabewert
 
-Der Rückgabewert von[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) gibt an, ob einer der Listener, die das Ereignis behandelt haben, aufgerufen hat[`PreventDefault`](../../event/preventdefault/) . Wenn[`PreventDefault`](../../event/preventdefault/) aufgerufen wurde, ist der Wert falsch, sonst ist der Wert wahr.
+Der Rückgabewert von [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) gibt an, ob einer der Listener, die das Ereignis verarbeitet haben, [`PreventDefault`](../../event/preventdefault/) aufgerufen hat. Wenn [`PreventDefault`](../../event/preventdefault/) aufgerufen wurde, ist der Wert false, andernfalls ist er true.
 
 ### Ausnahmen
 
@@ -28,15 +28,13 @@ Der Rückgabewert von[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispa
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
-### Bemerkungen
+## Hinweise
 
-Auf diese Weise gesendete Ereignisse haben das gleiche Erfassungs- und Bubbling-Verhalten wie direkt von der Implementierung gesendete Ereignisse. Das Ziel des Ereignisses ist die[`EventTarget`](../../../aspose.svg.dom/eventtarget/) auf welche[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) heißt.
+Auf diese Weise gesendete Ereignisse haben das gleiche Capturing- und Bubbling-Verhalten wie Ereignisse, die direkt von der Implementierung gesendet werden. Das Ziel des Ereignisses ist das [`EventTarget`](../../../aspose.svg.dom/eventtarget/), auf dem [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) aufgerufen wird.
 
 ### Siehe auch
 
 * class [Event](../../event/)
 * interface [IEventTarget](../)
-* namensraum [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

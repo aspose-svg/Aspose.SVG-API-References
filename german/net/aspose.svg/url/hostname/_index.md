@@ -1,27 +1,25 @@
 ---
-title: Url.Hostname
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Url eigendom. Ruft eine Zeichenfolgendarstellung für den angegebenen URLHostnamen ab oder legt diese fest.
+title: "Url.Hostname"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Url Hostname-Eigenschaft. Liest oder setzt eine String-Darstellung für den angegebenen URL-Hostname."
 type: docs
 weight: 40
 url: /de/net/aspose.svg/url/hostname/
 ---
 ## Url.Hostname property
 
-Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Hostnamen ab oder legt diese fest.
+Liest oder setzt eine Zeichenkettenrepräsentation für den angegebenen URL‑Hostnamen.
 
 ```csharp
 public string Hostname { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Hosts.
 
 ### Siehe auch
 
 * class [Url](../)
-* namensraum [Aspose.Svg](../../url/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

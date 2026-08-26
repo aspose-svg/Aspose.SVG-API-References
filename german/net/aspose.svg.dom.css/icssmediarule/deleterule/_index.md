@@ -1,7 +1,7 @@
 ---
-title: ICSSMediaRule.DeleteRule
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSMediaRule methode. Wird verwendet um eine Regel aus dem Medienblock zu löschen.
+title: "ICSSMediaRule.DeleteRule"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSMediaRule DeleteRule Methode. Wird verwendet, um eine Regel aus dem Media-Block zu löschen"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.css/icssmediarule/deleterule/
@@ -21,7 +21,5 @@ public void DeleteRule(long index)
 ### Siehe auch
 
 * interface [ICSSMediaRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnSeeking
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den EventHandler für das OnSeekingEreignis ab oder legt ihn fest.
+title: "Document.OnSeeking"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnSeeking Ereignis. Ruft den Ereignishandler für das OnSeeking-Ereignis ab oder legt ihn fest"
 type: docs
 weight: 690
 url: /de/net/aspose.svg.dom/document/onseeking/
 ---
 ## Document.OnSeeking event
 
-Ruft den Event-Handler für das OnSeeking-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnSeeking-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnSeeking;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSeeking;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

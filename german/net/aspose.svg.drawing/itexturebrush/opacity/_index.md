@@ -1,17 +1,17 @@
 ---
-title: ITextureBrush.Opacity
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ITextureBrush eigendom. Deckkraftwert in einer Farbtransformationsmatrix abrufen.
+title: "ITextureBrush.Opacity"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ITextureBrush Opacity property. Gibt den Opazitätswert in einer Farbtransformationsmatrix zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.svg.drawing/itexturebrush/opacity/
 ---
 ## ITextureBrush.Opacity property
 
-Deckkraftwert in einer Farbtransformationsmatrix abrufen.
+Erhalte den Opazitätswert in einer Farbtransformationsmatrix.
 
 ```csharp
-public float Opacity { get; }
+public float Opacity { get; set; }
 ```
 
 ### Rückgabewert
@@ -21,7 +21,5 @@ Opazität.
 ### Siehe auch
 
 * interface [ITextureBrush](../)
-* namensraum [Aspose.Svg.Drawing](../../itexturebrush/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

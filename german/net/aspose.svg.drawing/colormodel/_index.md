@@ -1,9 +1,9 @@
 ---
-title: Enum ColorModel
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Drawing.ColorModel opsomming. Diese Aufzählung wird verwendet um das Farbmodell für die Arbeit mit Farbkomponenten auszuwählen.
+title: "ColorModel‑Enum"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Drawing.ColorModel‑Enum. Diese Aufzählung wird verwendet, um das Farbmodell für die Arbeit mit Farbbestandteilen auszuwählen"
 type: docs
-weight: 1400
+weight: 3400
 url: /de/net/aspose.svg.drawing/colormodel/
 ---
 ## ColorModel enumeration
@@ -18,19 +18,17 @@ public enum ColorModel
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Rgb | `0` | Rot-Grün-Blaues Farbmodell |
-| Hsl | `1` | Farbton-Sättigung-Luminanz Farbmodell |
-| Hsv | `2` | Farbton-Sättigungswert-Farbmodell |
-| Hwb | `3` | Farbton-Weißgrad-Schwarzgrad-Farbmodell |
-| Cmyk | `4` | Cyan-Magenta-Yellow-Key-Farbmodell |
-| Lab | `5` | Helligkeit-AB-Farbmodell |
-| Oklab | `6` | Verbessertes Lightness-AB-Modell |
-| Lch | `7` | Luminanz-Chroma-Hue-Farbmodell |
-| Oklch | `8` | Verbessertes Luminanz-Chroma-Hue-Farbmodell |
+| Rgb | `0` | Rot-Grün-Blau-Farbmodell |
+| Hsl | `1` | Farbton‑Sättigung‑Luminanz-Farbmodell |
+| Hsv | `2` | Farbton‑Sättigung‑Wert-Farbmodell |
+| Hwb | `3` | Farbton‑Weiß‑Schwarz-Farbmodell |
+| Cmyk | `4` | Cyan‑Magenta‑Gelb‑Key-Farbmodell |
+| Lab | `5` | Helligkeit‑A‑B-Farbmodell |
+| Oklab | `6` | Verbessertes Helligkeit‑A‑B‑Modell |
+| Lch | `7` | Luminanz‑Chroma‑Farbton-Farbmodell |
+| Oklch | `8` | Verbessertes Luminanz‑Chroma‑Hue-Farbmodell |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

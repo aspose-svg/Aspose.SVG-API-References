@@ -1,9 +1,9 @@
 ---
-title: Location.Replace
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Location methode. Entfernt die aktuelle Seite aus dem Sitzungsverlauf und navigiert zur angegebenen Seite.
+title: "Location.Replace"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Location Replace-Methode. Entfernt die aktuelle Seite aus dem Sitzungsverlauf und navigiert zur angegebenen Seite."
 type: docs
-weight: 30
+weight: 120
 url: /de/net/aspose.svg.window/location/replace/
 ---
 ## Location.Replace method
@@ -16,12 +16,10 @@ public void Replace(string url)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| url | String | Die zu navigierende URL. |
+| URL | String | Die Zeichenkette URL zum Navigieren. |
 
 ### Siehe auch
 
 * class [Location](../)
-* namensraum [Aspose.Svg.Window](../../location/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

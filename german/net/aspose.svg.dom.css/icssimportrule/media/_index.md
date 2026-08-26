@@ -1,7 +1,7 @@
 ---
-title: ICSSImportRule.Media
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSImportRule eigendom. Eine Liste von Medientypen für die dieses Stylesheet verwendet werden kann.
+title: "ICSSImportRule.Media"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSImportRule Media-Eigenschaft. Eine Liste von Medientypen, für die dieses Stylesheet verwendet werden kann"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.css/icssimportrule/media/
@@ -18,7 +18,5 @@ public IMediaList Media { get; }
 
 * interface [IMediaList](../../imedialist/)
 * interface [ICSSImportRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssimportrule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

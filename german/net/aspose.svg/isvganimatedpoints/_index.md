@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGAnimatedPoints
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.ISVGAnimatedPoints koppel. Die SVGAnimatedPointsSchnittstelle unterstützt Elemente die ein pointsAttribut haben das eine Liste von Koordinatenwerten enthält und die die Fähigkeit unterstützen dieses Attribut zu animieren. mit dem Methodenaufruf getAttribute werden alle an Punkten vorgenommenen Änderungen widergespiegelt.
+title: "ISVGAnimatedPoints Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.ISVGAnimatedPoints Schnittstelle. Die SVGAnimatedPoints‑Schnittstelle unterstützt Elemente, die ein points‑Attribut besitzen, das eine Liste von Koordinatenwerten enthält und die Möglichkeit bietet, dieses Attribut zu animieren. Zusätzlich wird das points‑Attribut des ursprünglichen Elements, das über das XML‑DOM (z. B. mittels des Aufrufs der getAttribute‑Methode) abgerufen wird, alle Änderungen an points widerspiegeln."
 type: docs
-weight: 2000
+weight: 4070
 url: /de/net/aspose.svg/isvganimatedpoints/
 ---
 ## ISVGAnimatedPoints interface
 
-Die SVGAnimatedPoints-Schnittstelle unterstützt Elemente, die ein „points“-Attribut haben, das eine Liste von Koordinatenwerten enthält und die die Fähigkeit unterstützen, dieses Attribut zu animieren. mit dem Methodenaufruf getAttribute()) werden alle an Punkten vorgenommenen Änderungen widergespiegelt.
+Das SVGAnimatedPoints-Interface unterstützt Elemente, die ein ‘points’-Attribut besitzen, das eine Liste von Koordinatenwerten enthält und die Möglichkeit bietet, dieses Attribut zu animieren. Zusätzlich wird das ‘points’-Attribut des ursprünglichen Elements, das über das XML DOM (z. B. mittels des Aufrufs von getAttribute()) abgerufen wird, alle Änderungen an den Punkten widerspiegeln.
 
 ```csharp
 public interface ISVGAnimatedPoints
@@ -18,12 +18,10 @@ public interface ISVGAnimatedPoints
 
 | Name | Beschreibung |
 | --- | --- |
-| [AnimatedPoints](../../aspose.svg/isvganimatedpoints/animatedpoints/) { get; } | Bietet Zugriff auf die aktuellen animierten Inhalte des 'Punkte'-Attributs. Wenn das angegebene Attribut oder die angegebene Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft. Wenn das angegebene Attribut oder die Eigenschaft gerade nicht animiert wird, enthält es denselben Wert wie Punkte. |
-| [Points](../../aspose.svg/isvganimatedpoints/points/) { get; } | Bietet Zugriff auf den Basisinhalt (dh statischen) des Attributs „Punkte“. |
+| [AnimatedPoints](../../aspose.svg/isvganimatedpoints/animatedpoints/) { get; } | Bietet Zugriff auf die aktuell animierten Inhalte des ‘points’-Attributs. Wenn das angegebene Attribut oder die Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft. Wenn das angegebene Attribut oder die Eigenschaft derzeit nicht animiert wird, enthält es denselben Wert wie points. |
+| [Points](../../aspose.svg/isvganimatedpoints/points/) { get; } | Bietet Zugriff auf die Basis‑ (d.h. statischen) Inhalte des ‘points’-Attributs. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

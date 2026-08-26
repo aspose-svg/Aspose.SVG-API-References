@@ -1,27 +1,25 @@
 ---
-title: IWindow.Parent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IWindow eigendom. Das übergeordnete IDLAttribut des WindowObjekts eines Dokuments in einem BrowsingKontext b muss das WindowProxyObjekt des übergeordneten BrowsingKontexts zurückgeben falls vorhanden dh wenn b ein untergeordneter BrowsingKontext ist oder das WindowProxyObjekt des BrowsingKontexts Kontext b selbst andernfalls dh wenn es sich um einen BrowsingKontext der obersten Ebene oder um einen getrennten verschachtelten BrowsingKontext handelt.
+title: "IWindow.Parent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IWindow Parent-Eigenschaft. Das parent-IDL-Attribut des Window-Objekts eines Dokuments in einem Browsing-Kontext b muss das WindowProxy-Objekt des übergeordneten Browsing-Kontexts zurückgeben, falls eines existiert (d.h. wenn b ein Kind-Browsing-Kontext ist), andernfalls das WindowProxy-Objekt des Browsing-Kontexts b selbst (d.h. wenn es ein Top-Level-Browsing-Kontext oder ein losgelöster verschachtelter Browsing-Kontext ist)."
 type: docs
-weight: 60
+weight: 70
 url: /de/net/aspose.svg.window/iwindow/parent/
 ---
 ## IWindow.Parent property
 
-Das übergeordnete IDL-Attribut des Window-Objekts eines Dokuments in einem Browsing-Kontext b muss das WindowProxy-Objekt des übergeordneten Browsing-Kontexts zurückgeben, falls vorhanden (dh wenn b ein untergeordneter Browsing-Kontext ist), oder das WindowProxy-Objekt des Browsing-Kontexts Kontext b selbst, andernfalls (dh wenn es sich um einen Browsing-Kontext der obersten Ebene oder um einen getrennten verschachtelten Browsing-Kontext handelt).
+Das parent-IDL-Attribut des Window-Objekts eines Dokuments in einem Browsing‑Kontext b muss das WindowProxy-Objekt des übergeordneten Browsing‑Kontexts zurückgeben, falls ein solcher existiert (d. h. wenn b ein Kind‑Browsing‑Kontext ist), andernfalls das WindowProxy-Objekt des Browsing‑Kontexts b selbst (d. h. wenn es ein Top‑Level‑Browsing‑Kontext oder ein losgelöster verschachtelter Browsing‑Kontext ist).
 
 ```csharp
 public IWindow Parent { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Elternteil.
 
 ### Siehe auch
 
 * interface [IWindow](../)
-* namensraum [Aspose.Svg.Window](../../iwindow/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

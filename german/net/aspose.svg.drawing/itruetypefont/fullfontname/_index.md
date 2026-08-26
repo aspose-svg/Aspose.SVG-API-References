@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.FullFontName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ITrueTypeFont eigendom. Dies sollte eine Kombination aus FamilyName und SubFamilyName sein. Ausnahme Wenn die Schriftart Regular ist wie in SubFamilyName angegeben  dann verwenden Sie nur den in FamilyName enthaltenen Familiennamen. Eine Ausnahme von der obigen Definition des vollständigen Schriftartnamens gilt für Zeichenfolgen der MicrosoftPlattform für CFFOpenTypeSchriftarten In diesem Fall muss die Zeichenfolge für den vollständigen Schriftartnamen mit dem PostScript FontName im CFFNamensindex identisch sein.
+title: "ITrueTypeFont.FullFontName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ITrueTypeFont FullFontName Eigenschaft. Der vollständige Schriftname wird im Allgemeinen als Kombination aus Familien- und Unterfamiliennamen dargestellt"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-Dies sollte eine Kombination aus "FamilyName" und "SubFamilyName" sein. Ausnahme: Wenn die Schriftart "Regular" ist, wie in "SubFamilyName" angegeben , dann verwenden Sie nur den in "FamilyName" enthaltenen Familiennamen. Eine Ausnahme von der obigen Definition des vollständigen Schriftartnamens gilt für Zeichenfolgen der Microsoft-Plattform für CFF-OpenType-Schriftarten: In diesem Fall muss die Zeichenfolge für den vollständigen Schriftartnamen mit dem PostScript- FontName im CFF-Namensindex identisch sein.
+Der vollständige Schriftname wird im Allgemeinen als Kombination von Family- und Subfamily-Namen dargestellt.
 
 ```csharp
 public string FullFontName { get; }
@@ -16,12 +16,10 @@ public string FullFontName { get; }
 
 ### Rückgabewert
 
-Vollständiger Name der Schriftart
+Der vollständige Name der Schrift.
 
 ### Siehe auch
 
 * interface [ITrueTypeFont](../)
-* namensraum [Aspose.Svg.Drawing](../../itruetypefont/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

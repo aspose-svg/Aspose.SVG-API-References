@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Append
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IUrlSearchParams methode. Hängt ein neues NameWertPaar an dessen Name lautetName und Wert istWert .
+title: "IUrlSearchParams.Append"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IUrlSearchParams Append-Methode. Fügt ein neues Namens‑Wert‑Paar hinzu, dessen Name name und dessen Wert value ist."
 type: docs
 weight: 10
 url: /de/net/aspose.svg/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
 
-Hängt ein neues Name-Wert-Paar an, dessen Name lautet`Name` und Wert ist`Wert` .
+Fügt ein neues Namens‑Wert‑Paar hinzu, dessen Name `name` und dessen Wert `value` ist.
 
 ```csharp
 public void Append(string name, string value)
@@ -16,13 +16,11 @@ public void Append(string name, string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| name | String | Name des neuen Name-Wert-Paares. |
-| value | String | Wert des neuen Name-Wert-Paares. |
+| name | String | Name des neuen Namens‑Wert‑Paares. |
+| value | String | Wert des neuen Namens‑Wert‑Paares. |
 
 ### Siehe auch
 
 * interface [IUrlSearchParams](../)
-* namensraum [Aspose.Svg](../../iurlsearchparams/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,16 @@
 ---
-title: Node.IsSameNode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node methode. Gibt zurück ob dieser Knoten derselbe Knoten wie der gegebene ist. Mit dieser Methode kann festgestellt werden ob zwei von der Implementierung zurückgegebene NodeReferenzen auf dasselbe Objekt verweisen. Wenn zwei NodeReferenzen Referenzen auf dasselbe Objekt sind selbst wenn über einen Proxy können die Referenzen vollständig austauschbar verwendet werden sodass alle Attribute dieselben Werte haben und das Aufrufen derselben DOMMethode für beide Referenzen immer genau denselben Effekt hat.
+title: "Node.IsSameNode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node IsSameNode-Methode. Die Methode ist ein veralteter Alias für den strikten Gleichheitsoperator. Sie prüft, ob zwei Knoten identisch sind, also ob sie auf dasselbe Objekt verweisen."
 type: docs
-weight: 250
+weight: 230
 url: /de/net/aspose.svg.dom/node/issamenode/
 ---
 ## Node.IsSameNode method
 
-Gibt zurück, ob dieser Knoten derselbe Knoten wie der gegebene ist. Mit dieser Methode kann festgestellt werden, ob zwei von der Implementierung zurückgegebene Node-Referenzen auf dasselbe Objekt verweisen. Wenn zwei Node-Referenzen Referenzen auf dasselbe Objekt sind, selbst wenn über einen Proxy, können die Referenzen vollständig austauschbar verwendet werden, sodass alle Attribute dieselben Werte haben und das Aufrufen derselben DOM-Methode für beide Referenzen immer genau denselben Effekt hat.
+Die Methode ist ein veralteter Alias für den strikten Gleichheitsoperator ===. Das heißt, sie prüft, ob zwei Knoten identisch sind (mit anderen Worten, ob sie auf dasselbe Objekt verweisen).
+
+Hinweis: Es ist nicht nötig, `IsSameNode` zu verwenden; stattdessen sollte der strikte Gleichheitsoperator === verwendet werden.
 
 ```csharp
 public bool IsSameNode(Node otherNode)
@@ -16,16 +18,14 @@ public bool IsSameNode(Node otherNode)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| otherNode | Node | Der andere Knoten. |
+| otherNode | Node | Der Node, gegen den getestet werden soll. |
 
 ### Rückgabewert
 
-`WAHR`if [ist derselbe Knoten] [der angegebene andere]; ansonsten,`FALSCH` .
+Ein boolescher Wert, der true ist, wenn beide Nodes streng gleich sind, sonst false.
 
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

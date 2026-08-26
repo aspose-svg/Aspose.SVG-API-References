@@ -1,14 +1,14 @@
 ---
-title: PdfEncryptionInfo.PdfEncryptionInfo
-second_title: Aspose.SVG für .NET-API-Referenz
-description: PdfEncryptionInfo constructeur. Initialisiert eine neue Instanz vonPdfEncryptionInfo Klasse.
+title: "PdfEncryptionInfo"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "PdfEncryptionInfo‑Konstruktor. Initialisiert eine neue Instanz der PdfEncryptionInfo‑Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo constructor
 
-Initialisiert eine neue Instanz von[`PdfEncryptionInfo`](../) Klasse.
+Initialisiert eine neue Instanz der [`PdfEncryptionInfo`](../)-Klasse.
 
 ```csharp
 public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissions permissions, 
@@ -17,7 +17,7 @@ public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissio
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| userPassword | String | Das Benutzerkennwort. |
+| userPassword | String | Das Benutzerpasswort. |
 | ownerPassword | String | Das Besitzerpasswort. |
 | permissions | PdfPermissions | Die Berechtigungen. |
 | encryptionAlgorithm | PdfEncryptionAlgorithm | Der Verschlüsselungsalgorithmus. |
@@ -27,7 +27,5 @@ public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissio
 * enum [PdfPermissions](../../pdfpermissions/)
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* namensraum [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

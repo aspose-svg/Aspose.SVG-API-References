@@ -1,14 +1,14 @@
 ---
-title: ResourceHandlingOptions.JavaScript
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ResourceHandlingOptions eigendom. Erhält oder setzt eine Aufzählung die darstellt wie Skripte gehandhabt werden. MomentanSave Ignore Discard UndEmbed Werte werden unterstützt. Standardwert istSave .
+title: "ResourceHandlingOptions.JavaScript"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ResourceHandlingOptions JavaScript‑Eigenschaft. Gibt das Aufzählungsfeld an, das die Art der Skriptbehandlung darstellt, oder legt es fest. Derzeit werden die Werte Save, Ignore, Discard und Embed unterstützt. Standardwert ist Save."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.saving/resourcehandlingoptions/javascript/
 ---
 ## ResourceHandlingOptions.JavaScript property
 
-Erhält oder setzt eine Aufzählung, die darstellt, wie Skripte gehandhabt werden. MomentanSave ,Ignore ,Discard UndEmbed Werte werden unterstützt. Standardwert istSave .
+Liest oder legt das Enum fest, das die Art der Skriptverarbeitung darstellt. Derzeit werden die Werte Save, Ignore, Discard und Embed unterstützt. Standardwert ist Save.
 
 ```csharp
 public ResourceHandling JavaScript { get; set; }
@@ -18,7 +18,5 @@ public ResourceHandling JavaScript { get; set; }
 
 * enum [ResourceHandling](../../resourcehandling/)
 * class [ResourceHandlingOptions](../)
-* namensraum [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

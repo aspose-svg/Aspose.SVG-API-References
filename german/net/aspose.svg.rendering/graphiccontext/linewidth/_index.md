@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.LineWidth
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GraphicContext eigendom. Setzt oder erhält die Dicke der zu streichenden Pfade.
+title: "GraphicContext.LineWidth"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GraphicContext LineWidth-Eigenschaft. Legt die Dicke der zu strichenden Pfade fest oder gibt sie zurück."
 type: docs
 weight: 120
 url: /de/net/aspose.svg.rendering/graphiccontext/linewidth/
 ---
 ## GraphicContext.LineWidth property
 
-Setzt oder erhält die Dicke der zu streichenden Pfade.
+Setzt oder liest die Dicke der zu zeichnenden Pfade.
 
 ```csharp
 public virtual float LineWidth { get; set; }
@@ -17,7 +17,5 @@ public virtual float LineWidth { get; set; }
 ### Siehe auch
 
 * class [GraphicContext](../)
-* namensraum [Aspose.Svg.Rendering](../../graphiccontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

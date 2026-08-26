@@ -1,27 +1,25 @@
 ---
-title: Url.Username
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Url eigendom. Ruft eine Zeichenfolgendarstellung für den angegebenen URLBenutzernamen ab oder legt diese fest.
+title: "Url.Username"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Url Username-Eigenschaft. Ruft eine Zeichenkettenrepräsentation für den angegebenen URL-Benutzernamen ab oder legt sie fest."
 type: docs
 weight: 130
 url: /de/net/aspose.svg/url/username/
 ---
 ## Url.Username property
 
-Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Benutzernamen ab oder legt diese fest.
+Liest oder setzt eine Zeichenkettenrepräsentation für den angegebenen URL‑Benutzernamen.
 
 ```csharp
 public string Username { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Benutzername.
 
 ### Siehe auch
 
 * class [Url](../)
-* namensraum [Aspose.Svg](../../url/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

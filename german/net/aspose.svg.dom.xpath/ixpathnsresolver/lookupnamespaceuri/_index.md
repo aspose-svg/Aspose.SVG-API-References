@@ -1,14 +1,14 @@
 ---
-title: IXPathNSResolver.LookupNamespaceURI
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IXPathNSResolver methode. Suchen Sie den NamespaceURI der dem angegebenen NamespacePräfix zugeordnet ist. Der XPathEvaluator darf dies niemals mit a aufrufenNull oder leeres Argument weil das Ergebnis davon undefiniert ist.
+title: "IXPathNSResolver.LookupNamespaceURI"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IXPathNSResolver LookupNamespaceURI-Methode. Sucht die dem angegebenen Namespace‑Präfix zugeordnete Namespace‑URI. Der XPath‑Evaluator darf dies niemals mit einem `null`‑ oder leeren Argument aufrufen, da das Ergebnis in diesem Fall undefiniert ist."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/
 ---
 ## IXPathNSResolver.LookupNamespaceURI method
 
-Suchen Sie den Namespace-URI, der dem angegebenen Namespace-Präfix zugeordnet ist. Der XPath-Evaluator darf dies niemals mit a aufrufen`Null` oder leeres -Argument, weil das Ergebnis davon undefiniert ist.
+Sucht die dem angegebenen Namespace‑Präfix zugeordnete Namespace‑URI. Der XPath‑Evaluator darf dies niemals mit einem `null`‑ oder leeren Argument aufrufen, da das Ergebnis undefiniert ist.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
@@ -16,16 +16,14 @@ public string LookupNamespaceURI(string prefix)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| prefix | String | Das zu suchende Präfix. |
+| Präfix | String | Das zu suchende Präfix. |
 
 ### Rückgabewert
 
-Gibt den zugeordneten Namensraum-URI oder zurück`Null` wenn keine gefunden wird.
+Gibt die zugehörige Namespace‑URI zurück oder `null`, falls keine gefunden wird.
 
 ### Siehe auch
 
 * interface [IXPathNSResolver](../)
-* namensraum [Aspose.Svg.Dom.XPath](../../ixpathnsresolver/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

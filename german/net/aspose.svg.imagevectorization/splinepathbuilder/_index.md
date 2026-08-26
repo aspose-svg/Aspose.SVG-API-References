@@ -1,45 +1,43 @@
 ---
-title: Class SplinePathBuilder
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.ImageVectorization.SplinePathBuilder klas. DieSplinePathBuilder Die Klasse ist für das Erstellen von Pfadsegmenten verantwortlichSVGPathSeg aus der Liste der Verfolgungspunkte. Dieser Pfadersteller basiert auf der Anwendung eines CatmullRomaSplines auf eine Reihe geglätteter und reduzierter Pfadpunkte..
+title: "SplinePathBuilder Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.ImageVectorization.SplinePathBuilder Klasse. Die SplinePathBuilder Klasse ist dafür ausgelegt, einen glatten Pfad zu erstellen, indem zentripetale Catmull‑Rom‑Splines in Bézier‑Kurven umgewandelt werden. Sie bietet eine Methode, um einen Pfad zu erzeugen, der sanft durch eine Menge von Punkten interpoliert und dabei ein Gleichgewicht zwischen Genauigkeit zu den Punkten und Glätte der Kurve bietet."
 type: docs
-weight: 2160
+weight: 4230
 url: /de/net/aspose.svg.imagevectorization/splinepathbuilder/
 ---
 ## SplinePathBuilder class
 
-Die`SplinePathBuilder` Die Klasse ist für das Erstellen von Pfadsegmenten verantwortlich[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) aus der Liste der Verfolgungspunkte. Dieser Pfadersteller basiert auf der Anwendung eines Catmull-Roma-Splines auf eine Reihe geglätteter und reduzierter Pfadpunkte..
+Die `SplinePathBuilder` Klasse ist dafür ausgelegt, einen glatten Pfad zu erstellen, indem zentripetale Catmull‑Rom‑Splines in Bézier‑Kurven umgewandelt werden. Sie bietet eine Methode, um einen Pfad zu erzeugen, der sanft durch eine Menge von Punkten interpoliert und dabei ein Gleichgewicht zwischen Genauigkeit zu den Punkten und Glätte der Kurve bietet.
 
 ```csharp
 public class SplinePathBuilder : IPathBuilder
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [SplinePathBuilder](splinepathbuilder/#constructor)() | Initialisiert eine neue Instanz von`SplinePathBuilder` Klasse. |
-| [SplinePathBuilder](splinepathbuilder/#constructor_2)(float) | Initialisiert eine neue Instanz von`SplinePathBuilder` Klasse. |
-| [SplinePathBuilder](splinepathbuilder/#constructor_1)(IImageTraceSmoother, IImageTraceSimplifier, float) | Initialisiert eine neue Instanz von`SplinePathBuilder` Klasse. |
+| [SplinePathBuilder](splinepathbuilder/#constructor)() | Initialisiert eine neue Instanz der `SplinePathBuilder` Klasse. |
+| [SplinePathBuilder](splinepathbuilder/#constructor_2)(*float*) | Initialisiert eine neue Instanz der `SplinePathBuilder` Klasse. |
+| [SplinePathBuilder](splinepathbuilder/#constructor_1)(*[IImageTraceSmoother](../iimagetracesmoother/), [IImageTraceSimplifier](../iimagetracesimplifier/), float*) | Initialisiert eine neue Instanz der `SplinePathBuilder` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Tension](../../aspose.svg.imagevectorization/splinepathbuilder/tension/) { get; set; } | Der Wert der Spannungen beeinflusst, wie stark die Kurve an den (interpolierten) Kontrollpunkten krümmt. Er muss im Bereich von 0 bis 1 liegen. Jegliche höheren oder niedrigeren Werte werden an den minimalen und maximalen Werten dieses Bereichs ausgerichtet, entsprechend. |
-| [TraceSimplifier](../../aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/) { get; set; } | Ruft den Trace-Vereinfacher ab oder legt ihn fest. |
-| [TraceSmoother](../../aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/) { get; set; } | Ruft die Spur glatter ab oder stellt sie ein. |
+| [Tension](../../aspose.svg.imagevectorization/splinepathbuilder/tension/) { get; set; } | Der Wert der Spannungen beeinflusst, wie stark die Kurve an den (interpolierten) Kontrollpunkten abknickt. Er muss im Bereich von 0 bis 1 liegen. Höhere oder niedrigere Werte werden entsprechend auf den Minimal‑ bzw. Maximalwert dieses Bereichs begrenzt. |
+| [TraceSimplifier](../../aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/) { get; set; } | Liest oder setzt den Trace‑Vereinfacher. |
+| [TraceSmoother](../../aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/) { get; set; } | Liest oder setzt den Trace‑Glätter. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/splinepathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Baut Pfadsegmente aus der Liste der Verfolgungspunkte auf. |
+| [Build](../../aspose.svg.imagevectorization/splinepathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | Erstellt einen glatten Pfad durch eine Sequenz von Punkten, indem zentripetale Catmull‑Rom‑Splines in Bézier‑Kurven umgewandelt werden. Diese Methode sorgt für einen natürlichen und glatten Übergang durch jeden Punkt und erzeugt einen SVG‑Pfad, der der bereitgestellten Spur eng folgt. |
 
 ### Siehe auch
 
 * interface [IPathBuilder](../ipathbuilder/)
-* namensraum [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

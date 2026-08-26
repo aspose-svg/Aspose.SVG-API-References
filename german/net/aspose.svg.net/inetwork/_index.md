@@ -1,9 +1,9 @@
 ---
-title: Interface INetwork
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.INetwork koppel. Stellt eine Schnittstelle für Netzwerkdienste bereit.
+title: "INetwork Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.INetwork Schnittstelle. Stellt eine Schnittstelle für Netzwerkdienste bereit"
 type: docs
-weight: 2300
+weight: 4370
 url: /de/net/aspose.svg.net/inetwork/
 ---
 ## INetwork interface
@@ -18,11 +18,9 @@ public interface INetwork : IDisposable
 
 | Name | Beschreibung |
 | --- | --- |
-| [Send](../../aspose.svg.net/inetwork/send/)(RequestMessage) | Sendet a[`RequestMessage`](../requestmessage/) Nachricht. |
+| [Send](../../aspose.svg.net/inetwork/send/)(*[RequestMessage](../requestmessage/)*) | Sendet eine [`RequestMessage`](../requestmessage/) Nachricht. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Net](../../aspose.svg.net/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

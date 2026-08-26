@@ -1,27 +1,25 @@
 ---
-title: TypeInfo.TypeName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: TypeInfo eigendom. Der Name eines für das zugeordnete Element oder Attribut deklarierten Typs oder null falls unbekannt.
+title: "TypeInfo.TypeName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "TypeInfo TypeName Eigenschaft. Der Name eines Typs, der für das zugehörige Element oder Attribut deklariert wurde, oder null, wenn unbekannt."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/typeinfo/typename/
 ---
 ## TypeInfo.TypeName property
 
-Der Name eines für das zugeordnete Element oder Attribut deklarierten Typs oder null, falls unbekannt.
+Der Name eines für das zugehörige Element oder Attribut deklarierten Typs, oder null, wenn unbekannt.
 
 ```csharp
 public string TypeName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Typs.
 
 ### Siehe auch
 
 * class [TypeInfo](../)
-* namensraum [Aspose.Svg.Dom](../../typeinfo/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PitchRange
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der Tonhöhenbereichseigenschaft in CSS2.
+title: "ICSS2Properties.PitchRange"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties PitchRange-Eigenschaft. Siehe die Definition der pitch-range-Eigenschaft in CSS2"
 type: docs
-weight: 930
+weight: 960
 url: /de/net/aspose.svg.dom.css/icss2properties/pitchrange/
 ---
 ## ICSS2Properties.PitchRange property
 
-Siehe Definition der Tonhöhenbereichseigenschaft in CSS2.
+Siehe die pitch-range Eigenschaftendefinition in CSS2.
 
 ```csharp
 public string PitchRange { get; set; }
@@ -16,12 +16,10 @@ public string PitchRange { get; set; }
 
 ### Rückgabewert
 
-Pitch-Range-Eigenschaft
+pitch-range-Eigenschaft
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

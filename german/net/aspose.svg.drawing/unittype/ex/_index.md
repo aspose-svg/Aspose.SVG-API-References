@@ -1,14 +1,14 @@
 ---
-title: UnitType.Ex
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType veld. Die Messung ist relativ zur Höhe des Kleinbuchstaben x der Schriftart des übergeordneten Elements.
+title: "UnitType.Ex"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType Ex Feld. Messung ist relativ zur Höhe des Kleinbuchstabens x der Schrift des übergeordneten Elements"
 type: docs
 weight: 90
 url: /de/net/aspose.svg.drawing/unittype/ex/
 ---
 ## UnitType.Ex field
 
-Die Messung ist relativ zur Höhe des Kleinbuchstaben x der Schriftart des übergeordneten Elements.
+Messung ist relativ zur Höhe des Kleinbuchstabens x der Schrift des übergeordneten Elements.
 
 ```csharp
 public static readonly UnitType Ex;
@@ -17,7 +17,5 @@ public static readonly UnitType Ex;
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

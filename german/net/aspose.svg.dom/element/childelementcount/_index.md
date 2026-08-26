@@ -1,27 +1,25 @@
 ---
-title: Element.ChildElementCount
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element eigendom. Gibt die aktuelle Anzahl der Elementknoten zurück die Kinder dieses Elements sind. 0 wenn dieses Element keine untergeordneten Knoten hat die vom nodeType 1. sind
+title: "Element.ChildElementCount"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element ChildElementCount Eigenschaft. Gibt die aktuelle Anzahl von Elementknoten zurück, die Kinder dieses Elements sind. 0, wenn dieses Element keine Kindknoten vom Typ nodeType 1 hat."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom/element/childelementcount/
 ---
 ## Element.ChildElementCount property
 
-Gibt die aktuelle Anzahl der Elementknoten zurück, die Kinder dieses Elements sind. 0, wenn dieses Element keine untergeordneten Knoten hat, die vom nodeType 1. sind
+Gibt die aktuelle Anzahl von Elementknoten zurück, die Kindknoten dieses Elements sind. 0, wenn dieses Element keine Kindknoten vom Knotentyp 1 hat.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Anzahl der untergeordneten Elemente.
+Die Anzahl der Kind-Elemente.
 
 ### Siehe auch
 
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

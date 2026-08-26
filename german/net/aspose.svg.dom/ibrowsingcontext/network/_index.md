@@ -1,20 +1,20 @@
 ---
-title: IBrowsingContext.Network
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IBrowsingContext eigendom. Ruft die Netzwerkdienste ab.
+title: "IBrowsingContext.Network"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IBrowsingContext Network Eigenschaft. Gibt die Netzwerkdienste zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom/ibrowsingcontext/network/
 ---
 ## IBrowsingContext.Network property
 
-Ruft die Netzwerkdienste ab.
+Liefert die Netzwerkdienste.
 
 ```csharp
 public INetwork Network { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Netzwerkdienste.
 
@@ -22,7 +22,5 @@ Die Netzwerkdienste.
 
 * interface [INetwork](../../../aspose.svg.net/inetwork/)
 * interface [IBrowsingContext](../)
-* namensraum [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

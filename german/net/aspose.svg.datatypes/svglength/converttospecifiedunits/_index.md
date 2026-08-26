@@ -1,14 +1,14 @@
 ---
-title: SVGLength.ConvertToSpecifiedUnits
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGLength methode. Den gleichen zugrunde liegenden gespeicherten Wert beibehalten aber die gespeicherte Einheitenkennung auf den angegebenen unitType zurücksetzen. Die Objektattribute unitType valueInSpecifiedUnits und valueAsString können als Ergebnis dieser Methode geändert werden. Wenn der ursprüngliche Wert beispielsweise 05 cm war und die Methode aufgerufen wurde um ihn in Millimeter umzuwandeln würde der unitType in SVG_LENGTHTYPE_MM geändert valueInSpecifiedUnits würde in den numerischen Wert 5 geändert und valueAsString würde in 5 mm geändert.
+title: "SVGLength.ConvertToSpecifiedUnits"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGLength ConvertToSpecifiedUnits Methode. Bewahrt den gleichen zugrunde liegenden gespeicherten Wert, setzt jedoch den gespeicherten Einheitbezeichner auf den angegebenen unitType zurück. Objektattribute unitType, valueInSpecifiedUnits und valueAsString können durch diese Methode geändert werden. Zum Beispiel, wenn der ursprüngliche Wert 0,5 cm war und die Methode aufgerufen wird, um in Millimeter zu konvertieren, dann wird unitType zu SVG_LENGTHTYPE_MM geändert, valueInSpecifiedUnits wird auf den numerischen Wert 5 gesetzt und valueAsString wird zu 5mm geändert."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.datatypes/svglength/converttospecifiedunits/
 ---
 ## SVGLength.ConvertToSpecifiedUnits method
 
-Den gleichen zugrunde liegenden gespeicherten Wert beibehalten, aber die gespeicherte Einheitenkennung auf den angegebenen unitType zurücksetzen. Die Objektattribute unitType, valueInSpecifiedUnits und valueAsString können als Ergebnis dieser Methode geändert werden. Wenn der ursprüngliche Wert beispielsweise „0,5 cm“ war und die Methode aufgerufen wurde, um ihn in Millimeter umzuwandeln, würde der unitType in SVG_LENGTHTYPE_MM geändert, valueInSpecifiedUnits würde in den numerischen Wert 5 geändert und valueAsString würde in „5 mm“ geändert.
+Den gleichen zugrunde liegenden gespeicherten Wert beibehalten, aber den gespeicherten Einheitentyp auf den angegebenen unitType zurücksetzen. Objektattribute unitType, valueInSpecifiedUnits und valueAsString können durch diese Methode geändert werden. Zum Beispiel, wenn der ursprüngliche Wert \"0.5cm\" war und die Methode aufgerufen wird, um in Millimeter zu konvertieren, dann würde unitType zu SVG_LENGTHTYPE_MM geändert, valueInSpecifiedUnits würde auf den numerischen Wert 5 geändert und valueAsString würde zu \"5mm\" geändert.
 
 ```csharp
 public void ConvertToSpecifiedUnits(ushort unitType)
@@ -16,19 +16,17 @@ public void ConvertToSpecifiedUnits(ushort unitType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| unitType | UInt16 | Der Einheitentyp, zu dem gewechselt werden soll (z. B. SVG_LENGTHTYPE_MM). |
+| unitType | UInt16 | Der Einheitstyp, zu dem gewechselt werden soll (z. B. SVG_LENGTHTYPE_MM). |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -Code[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) Wird ausgelöst, wenn unitType SVG_LENGTHTYPE_UNKNOWN oder keine gültige Einheitstypkonstante ist (eine der anderen SVG_LENGTHTYPE_*-Konstanten, die auf dieser Schnittstelle definiert sind). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -Code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Wird ausgelöst, wenn die Länge einem schreibgeschützten Attribut entspricht oder wenn das Objekt selbst schreibgeschützt ist. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) ausgelöst, wenn unitType SVG_LENGTHTYPE_UNKNOWN ist oder keine gültige Einheitstyp‑Konstante (eine der anderen SVG_LENGTHTYPE_*‑Konstanten, die in diesem Interface definiert sind). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Wird ausgelöst, wenn die Länge einem schreibgeschützten Attribut entspricht oder das Objekt selbst schreibgeschützt ist. |
 
 ### Siehe auch
 
 * class [SVGLength](../)
-* namensraum [Aspose.Svg.DataTypes](../../svglength/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

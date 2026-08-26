@@ -1,27 +1,25 @@
 ---
-title: Document.StrictErrorChecking
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Ein Attribut das angibt ob eine Fehlerprüfung erzwungen wird oder nicht. Wenn auf false gesetzt steht es der Implementierung frei nicht jeden möglichen Fehlerfall zu testen der normalerweise für DOMOperationen definiert ist und keine DOMException für DOMOperationen auszulösen oder Fehler zu melden während Document.normalizeDocument verwendet wird. Im Fehlerfall ist das Verhalten undefiniert. Dieses Attribut ist standardmäßig wahr.
+title: "Document.StrictErrorChecking"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document StrictErrorChecking‑Eigenschaft. Ein Attribut, das angibt, ob Fehlersuche erzwungen wird oder nicht. Wenn es auf false gesetzt ist, kann die Implementierung auf das Prüfen jedes möglichen Fehlers, der normalerweise bei DOM‑Operationen definiert ist, verzichten und bei DOM‑Operationen keine DOMException auslösen oder Fehler melden, während Document.normalizeDocument verwendet wird. Im Fehlerfall ist das Verhalten undefiniert. Dieses Attribut ist standardmäßig true."
 type: docs
 weight: 240
 url: /de/net/aspose.svg.dom/document/stricterrorchecking/
 ---
 ## Document.StrictErrorChecking property
 
-Ein Attribut, das angibt, ob eine Fehlerprüfung erzwungen wird oder nicht. Wenn auf „false“ gesetzt, steht es der Implementierung frei, nicht jeden möglichen Fehlerfall zu testen, der normalerweise für DOM-Operationen definiert ist, und keine DOMException für DOM-Operationen auszulösen oder Fehler zu melden, während Document.normalizeDocument() verwendet wird. Im Fehlerfall ist das Verhalten undefiniert. Dieses Attribut ist standardmäßig wahr.
+Ein Attribut, das angibt, ob Fehlprüfungen erzwungen werden oder nicht. Wenn es auf false gesetzt ist, kann die Implementierung auf das Testen jedes möglichen Fehlers, der normalerweise bei DOM‑Operationen definiert ist, verzichten und bei DOM‑Operationen keine DOMException auslösen oder Fehler melden, wenn Document.normalizeDocument() verwendet wird. Im Fehlerfall ist das Verhalten undefiniert. Dieses Attribut ist standardmäßig true.
 
 ```csharp
 public bool StrictErrorChecking { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn strenge Fehlerprüfung; ansonsten,`FALSCH` .
+`true`, wenn strenge Fehlersuche aktiviert ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

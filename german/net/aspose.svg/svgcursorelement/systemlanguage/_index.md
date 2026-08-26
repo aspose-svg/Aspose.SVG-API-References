@@ -1,20 +1,20 @@
 ---
-title: SVGCursorElement.SystemLanguage
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGCursorElement eigendom. Entspricht dem Attribut systemLanguage des angegebenen Elements.
+title: "SVGCursorElement.SystemLanguage"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Eigenschaft SVGCursorElement SystemLanguage. Entspricht dem Attribut systemLanguage des angegebenen Elements."
 type: docs
 weight: 40
 url: /de/net/aspose.svg/svgcursorelement/systemlanguage/
 ---
 ## SVGCursorElement.SystemLanguage property
 
-Entspricht dem Attribut 'systemLanguage' des angegebenen Elements.
+Entspricht dem Attribut ‘systemLanguage’ des angegebenen Elements.
 
 ```csharp
 public SVGStringList SystemLanguage { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Systemsprache.
 
@@ -22,7 +22,5 @@ Die Systemsprache.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGCursorElement](../)
-* namensraum [Aspose.Svg](../../svgcursorelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

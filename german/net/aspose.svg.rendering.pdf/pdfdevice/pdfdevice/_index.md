@@ -1,14 +1,14 @@
 ---
-title: PdfDevice.PdfDevice
-second_title: Aspose.SVG für .NET-API-Referenz
-description: PdfDevice constructeur. Initialisiert eine neue Instanz vonPdfDevice Klasse.
+title: "PdfDevice"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "PdfDevice-Konstruktor. Erstellt eine neue Instanz der PdfDevice-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice(ICreateStreamProvider) {#constructor}
+## PdfDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse.
+Erstellt eine neue Instanz der [`PdfDevice`](../)-Klasse.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Der Streamanbieter. |
+| streamProvider | ICreateStreamProvider | Der Stream-Provider. |
 
 ### Siehe auch
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* namensraum [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse nach Rendering-Optionen und Stream-Provider.
+Erstellt eine neue Instanz der [`PdfDevice`](../)-Klasse unter Verwendung von Rendering-Optionen und Stream-Provider.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | options | PdfRenderingOptions | Rendering-Optionen. |
-| streamProvider | ICreateStreamProvider | Objekt, das die implementiert[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Schnittstelle |
+| streamProvider | ICreateStreamProvider | Objekt, das das [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)-Interface implementiert. |
 
 ### Siehe auch
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* namensraum [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(string) {#constructor_5}
+## PdfDevice(*string*) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse.
+Erstellt eine neue Instanz der [`PdfDevice`](../)-Klasse.
 
 ```csharp
 public PdfDevice(string file)
@@ -60,19 +60,19 @@ public PdfDevice(string file)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| file | String | Der Name der Ausgabedatei. |
+| file | String | Der Ausgabedateiname. |
 
 ### Siehe auch
 
 * class [PdfDevice](../)
-* namensraum [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse nach Rendering-Optionen und Name der Ausgabedatei.
+Erstellt eine neue Instanz der [`PdfDevice`](../)-Klasse unter Verwendung von Rendering-Optionen und Ausgabedateinamen.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -81,20 +81,20 @@ public PdfDevice(PdfRenderingOptions options, string file)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | options | PdfRenderingOptions | Rendering-Optionen. |
-| file | String | Der Name der Ausgabedatei. |
+| file | String | Der Ausgabedateiname. |
 
 ### Siehe auch
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* namensraum [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(Stream) {#constructor_4}
+## PdfDevice(*Stream*) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse.
+Erstellt eine neue Instanz der [`PdfDevice`](../)-Klasse.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -102,19 +102,19 @@ public PdfDevice(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Strom. |
+| stream | Strom | Der Stream. |
 
 ### Siehe auch
 
 * class [PdfDevice](../)
-* namensraum [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse nach Rendering-Optionen und Ausgabestream.
+Erstellt eine neue Instanz der [`PdfDevice`](../)-Klasse unter Verwendung von Rendering-Optionen und Ausgabestream.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -123,13 +123,11 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | options | PdfRenderingOptions | Rendering-Optionen. |
-| stream | Stream | Der Ausgangsstrom. |
+| stream | Strom | Der Ausgabestream. |
 
 ### Siehe auch
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* namensraum [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

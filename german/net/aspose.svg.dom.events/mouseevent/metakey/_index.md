@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.MetaKey
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent eigendom. Verweis auf das metaKeyAttribut.
+title: "MouseEvent.MetaKey"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent MetaKey-Eigenschaft. Siehe das Attribut metaKey"
 type: docs
 weight: 80
 url: /de/net/aspose.svg.dom.events/mouseevent/metakey/
 ---
 ## MouseEvent.MetaKey property
 
-Verweis auf das metaKey-Attribut.
+Beziehen Sie sich auf das Attribut metaKey.
 
 ```csharp
 public bool MetaKey { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn [Metaschlüssel]; ansonsten,`FALSCH` .
+`true` wenn [meta key]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

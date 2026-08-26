@@ -1,14 +1,14 @@
 ---
-title: Unit.Equals
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Unit methode. Bestimmt ob die angegebeneUnit  entspricht dieser Instanz.
+title: "Unit.Equals"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Unit Equals Methode. Bestimmt, ob die angegebene Unit dieser Instanz gleich ist"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.drawing/unit/equals/
 ---
-## Equals(Unit) {#equals}
+## Equals(*[Unit](../)*) {#equals}
 
-Bestimmt, ob die angegebene[`Unit`](../) , entspricht dieser Instanz.
+Bestimmt, ob die angegebene [`Unit`](../) dieser Instanz gleich ist.
 
 ```csharp
 public virtual bool Equals(Unit other)
@@ -16,23 +16,23 @@ public virtual bool Equals(Unit other)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| other | Unit | Der[`Unit`](../) mit dieser Instanz zu vergleichen. |
+| other | Unit | Die [`Unit`](../), die mit dieser Instanz verglichen werden soll. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegeben[`Unit`](../) ist gleich dieser Instanz; ansonsten,`FALSCH` .
+`true`, wenn die angegebene [`Unit`](../) dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Unit](../)
-* namensraum [Aspose.Svg.Drawing](../../unit/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bestimmt, ob die angegebeneObject , entspricht dieser Instanz.
+Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject mit dieser Instanz zu vergleichen. |
+| obj | Objekt | Das Objekt, das mit dieser Instanz verglichen werden soll. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegebenObject ist gleich dieser Instanz; ansonsten,`FALSCH` .
+`true`, wenn das angegebene Objekt mit dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Unit](../)
-* namensraum [Aspose.Svg.Drawing](../../unit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class ContentTypeHeaderValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.Headers.ContentTypeHeaderValue klas. Repräsentiert einen ContentTypeHeaderWert.
+title: "ContentTypeHeaderValue Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.Headers.ContentTypeHeaderValue Klasse. Stellt einen Content-Type-Headerwert dar"
 type: docs
-weight: 2270
+weight: 4340
 url: /de/net/aspose.svg.net.headers/contenttypeheadervalue/
 ---
 ## ContentTypeHeaderValue class
 
-Repräsentiert einen Content-Type-Header-Wert.
+Stellt einen Content-Type-Headerwert dar.
 
 ```csharp
 public class ContentTypeHeaderValue : NameValueHeaderValue
@@ -18,21 +18,19 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 
 | Name | Beschreibung |
 | --- | --- |
-| [CharSet](../../aspose.svg.net.headers/contenttypeheadervalue/charset/) { get; set; } | Ruft den Zeichensatz für Inhalt ab oder legt ihn fest. |
-| [MediaType](../../aspose.svg.net.headers/contenttypeheadervalue/mediatype/) { get; set; } | Ruft den Medientyp für Inhalt ab oder legt ihn fest. |
-| [Name](../../aspose.svg.net.headers/namevalueheadervalue/name/) { get; } | Ruft den Parameternamen ab. |
-| [Value](../../aspose.svg.net.headers/namevalueheadervalue/value/) { get; set; } | Ruft den Parameterwert ab oder setzt ihn. |
+| [CharSet](../../aspose.svg.net.headers/contenttypeheadervalue/charset/) { get; set; } | Liest oder setzt den Zeichensatz für den Inhalt. |
+| [MediaType](../../aspose.svg.net.headers/contenttypeheadervalue/mediatype/) { get; set; } | Liest oder setzt den Medientyp für den Inhalt. |
+| [Name](../../aspose.svg.net.headers/namevalueheadervalue/name/) { get; } | Liest den Parameternamen. |
+| [Value](../../aspose.svg.net.headers/namevalueheadervalue/value/) { get; set; } | Liest oder setzt den Parameterwert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
 * class [NameValueHeaderValue](../namevalueheadervalue/)
-* namensraum [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGFEDisplacementMapElement.SVG_CHANNEL_A
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEDisplacementMapElement veld. Entspricht dem Wert A.
+title: "SVGFEDisplacementMapElement.SVG_CHANNEL_A"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEDisplacementMapElement SVG_CHANNEL_A‑Feld. Entspricht dem Wert A."
 type: docs
 weight: 110
 url: /de/net/aspose.svg.filters/svgfedisplacementmapelement/svg_channel_a/
@@ -17,7 +17,5 @@ public const ushort SVG_CHANNEL_A;
 ### Siehe auch
 
 * class [SVGFEDisplacementMapElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

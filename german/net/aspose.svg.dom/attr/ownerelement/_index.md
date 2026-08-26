@@ -1,14 +1,14 @@
 ---
-title: Attr.OwnerElement
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Attr eigendom. Der Elementknoten an den dieses Attribut angehängt ist oder null wenn dieses Attribut nicht verwendet wird.
+title: "Attr.OwnerElement"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Attr OwnerElement-Eigenschaft. Der Elementknoten, an den dieses Attribut angehängt ist, oder null, wenn dieses Attribut nicht verwendet wird."
 type: docs
-weight: 80
+weight: 70
 url: /de/net/aspose.svg.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 
-Der Elementknoten, an den dieses Attribut angehängt ist, oder null, wenn dieses Attribut nicht verwendet wird.
+Der Element‑Knoten, an den dieses Attribut angehängt ist, oder null, wenn dieses Attribut nicht verwendet wird.
 
 ```csharp
 public Element OwnerElement { get; }
@@ -18,7 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../element/)
 * class [Attr](../)
-* namensraum [Aspose.Svg.Dom](../../attr/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

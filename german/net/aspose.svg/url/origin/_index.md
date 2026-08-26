@@ -1,27 +1,25 @@
 ---
-title: Url.Origin
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Url eigendom. Ruft eine Zeichenfolgendarstellung für den angegebenen URLUrsprung ab.
+title: "Url.Origin"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Url Origin-Eigenschaft. Gibt eine Zeichenkettenrepräsentation für den angegebenen URL-Ursprung zurück."
 type: docs
 weight: 60
 url: /de/net/aspose.svg/url/origin/
 ---
 ## Url.Origin property
 
-Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Ursprung ab.
+Liest eine Zeichenkettenrepräsentation für die angegebene URL‑Origin.
 
 ```csharp
 public string Origin { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Ursprung.
+Die Herkunft.
 
 ### Siehe auch
 
 * class [Url](../)
-* namensraum [Aspose.Svg](../../url/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

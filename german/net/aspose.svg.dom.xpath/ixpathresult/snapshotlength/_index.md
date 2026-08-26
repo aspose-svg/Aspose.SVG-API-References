@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.SnapshotLength
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IXPathResult eigendom. Die Anzahl der Knoten im ErgebnisSnapshot. Gültige Werte für die Indizes von snapshotItem sind0 ZuSchnappschusslänge1 inklusive.
+title: "IXPathResult.SnapshotLength"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IXPathResult SnapshotLength-Eigenschaft. Die Anzahl der Knoten im Ergebnis‑Snapshot. Gültige Werte für snapshotItem‑Indizes sind 0 bis snapshotLength‑1 einschließlich."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom.xpath/ixpathresult/snapshotlength/
 ---
 ## IXPathResult.SnapshotLength property
 
-Die Anzahl der Knoten im Ergebnis-Snapshot. Gültige Werte für die Indizes von snapshotItem sind`0` Zu`Schnappschusslänge-1` inklusive.
+Die Anzahl der Knoten im Ergebnis‑Snapshot. Gültige Werte für snapshotItem‑Indizes sind `0` bis `snapshotLength-1` inklusive.
 
 ```csharp
 public int SnapshotLength { get; }
@@ -18,12 +18,10 @@ public int SnapshotLength { get; }
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: ausgelöst, wenn resultType nicht ist`UnorderedNodeSnapshot` tippe bzw`OrderedNodeSnapshot` Typ. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: ausgelöst, wenn resultType nicht vom Typ `UnorderedNodeSnapshot` oder `OrderedNodeSnapshot` ist. |
 
 ### Siehe auch
 
 * interface [IXPathResult](../)
-* namensraum [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

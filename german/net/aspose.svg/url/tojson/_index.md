@@ -1,14 +1,14 @@
 ---
-title: Url.ToJson
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Url methode. Gibt a zurückString die diese Instanz darstellt.
+title: "Url.ToJson"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Url ToJson-Methode. Gibt einen String zurück, der diese Instanz darstellt."
 type: docs
 weight: 160
 url: /de/net/aspose.svg/url/tojson/
 ---
 ## Url.ToJson method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public string ToJson()
@@ -16,12 +16,10 @@ public string ToJson()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [Url](../)
-* namensraum [Aspose.Svg](../../url/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

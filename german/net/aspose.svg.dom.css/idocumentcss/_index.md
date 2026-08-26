@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentCSS
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.IDocumentCSS koppel. Diese Schnittstelle repräsentiert ein Dokument mit einer CSSAnsicht.
+title: "IDocumentCSS Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.IDocumentCSS Schnittstelle. Diese Schnittstelle stellt ein Dokument mit einer CSS-Ansicht dar."
 type: docs
-weight: 690
+weight: 2690
 url: /de/net/aspose.svg.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface
 
-Diese Schnittstelle repräsentiert ein Dokument mit einer CSS-Ansicht.
+Diese Schnittstelle stellt ein Dokument mit einer CSS-Ansicht dar.
 
 ```csharp
 public interface IDocumentCSS : IDocumentStyle
@@ -18,12 +18,10 @@ public interface IDocumentCSS : IDocumentStyle
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(Element, string) | Diese Methode wird verwendet, um die Überschreibungsstildeklaration für ein bestimmtes Element und ein bestimmtes Pseudoelement abzurufen. |
+| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(*[Element](../../aspose.svg.dom/element/), string*) | Diese Methode wird verwendet, um die überschreibende Stil‑Deklaration für ein angegebenes Element und ein angegebenes Pseudo‑Element abzurufen. |
 
 ### Siehe auch
 
 * interface [IDocumentStyle](../idocumentstyle/)
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

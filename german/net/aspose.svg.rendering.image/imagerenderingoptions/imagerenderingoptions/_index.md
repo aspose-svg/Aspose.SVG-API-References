@@ -1,14 +1,14 @@
 ---
-title: ImageRenderingOptions.ImageRenderingOptions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ImageRenderingOptions constructeur. Initialisiert eine neue Instanz vonImageRenderingOptions KlassePng wird als Standardbildformat verwendet.
+title: "ImageRenderingOptions"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ImageRenderingOptions constructor. Initialisiert eine neue Instanz der ImageRenderingOptions‑Klasse Png wird als Standard‑Bildformat verwendet."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
 
-Initialisiert eine neue Instanz von[`ImageRenderingOptions`](../) Klasse;Png wird als Standardbildformat verwendet.
+Initialisiert eine neue Instanz der [`ImageRenderingOptions`](../)-Klasse; Png wird als Standard‑Bildformat verwendet.
 
 ```csharp
 public ImageRenderingOptions()
@@ -17,14 +17,14 @@ public ImageRenderingOptions()
 ### Siehe auch
 
 * class [ImageRenderingOptions](../)
-* namensraum [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageRenderingOptions(ImageFormat) {#constructor_1}
+## ImageRenderingOptions(*[ImageFormat](../../imageformat/)*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`ImageRenderingOptions`](../) Klasse mit angegebenem Bildformat.
+Initialisiert eine neue Instanz der [`ImageRenderingOptions`](../)-Klasse mit dem angegebenen Bildformat.
 
 ```csharp
 public ImageRenderingOptions(ImageFormat format)
@@ -32,13 +32,11 @@ public ImageRenderingOptions(ImageFormat format)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| format | ImageFormat | Das Ausgabebildformat. |
+| Format | ImageFormat | Das Ausgabebildformat. |
 
 ### Siehe auch
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* namensraum [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

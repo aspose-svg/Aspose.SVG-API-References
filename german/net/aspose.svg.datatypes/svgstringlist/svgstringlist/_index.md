@@ -1,14 +1,14 @@
 ---
-title: SVGStringList.SVGStringList
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGStringList constructeur. Initialisiert eine neue Instanz vonSVGStringList Klasse.
+title: "SVGStringList"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGStringList-Konstruktor. Initialisiert eine neue Instanz der SVGStringList-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-Initialisiert eine neue Instanz von[`SVGStringList`](../) Klasse.
+Initialisiert eine neue Instanz der [`SVGStringList`](../)-Klasse.
 
 ```csharp
 public SVGStringList()
@@ -17,14 +17,14 @@ public SVGStringList()
 ### Siehe auch
 
 * class [SVGStringList](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgstringlist/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&lt;string&gt;*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`SVGStringList`](../) Klasse.
+Initialisiert eine neue Instanz der [`SVGStringList`](../)-Klasse.
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
@@ -32,12 +32,10 @@ public SVGStringList(IEnumerable<string> enumerable)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Das Aufzählbare. |
+| enumerierbar | IEnumerable`1 | Das enumerierbare. |
 
 ### Siehe auch
 
 * class [SVGStringList](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgstringlist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

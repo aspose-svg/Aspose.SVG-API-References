@@ -1,14 +1,14 @@
 ---
-title: HttpProtocolMessageHandler.HttpProtocolMessageHandler
-second_title: Aspose.SVG für .NET-API-Referenz
-description: HttpProtocolMessageHandler constructeur. Initialisiert eine neue Instanz vonHttpProtocolMessageHandler Klasse.
+title: "HttpProtocolMessageHandler"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "HttpProtocolMessageHandler-Konstruktor. Initialisiert eine neue Instanz der HttpProtocolMessageHandler-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler constructor
 
-Initialisiert eine neue Instanz von[`HttpProtocolMessageHandler`](../) Klasse.
+Initialisiert eine neue Instanz der [`HttpProtocolMessageHandler`](../)-Klasse.
 
 ```csharp
 public HttpProtocolMessageHandler()
@@ -17,7 +17,5 @@ public HttpProtocolMessageHandler()
 ### Siehe auch
 
 * class [HttpProtocolMessageHandler](../)
-* namensraum [Aspose.Svg.Net.MessageHandlers](../../httpprotocolmessagehandler/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

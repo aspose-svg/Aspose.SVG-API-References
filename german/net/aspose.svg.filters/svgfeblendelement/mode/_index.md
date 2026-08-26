@@ -1,28 +1,26 @@
 ---
-title: SVGFEBlendElement.Mode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEBlendElement eigendom. Entspricht dem Attribut mode des angegebenen feBlendElements. Akzeptiert eine der SVG_FEBLEND_MODE_Konstanten die auf dieser Schnittstelle definiert sind.
+title: "SVGFEBlendElement.Mode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEBlendElement Mode-Eigenschaft. Entspricht dem Attribut mode des angegebenen feBlend-Elements. Akzeptiert einen der auf diesem Interface definierten SVG_FEBLEND_MODE_-Konstanten."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.filters/svgfeblendelement/mode/
 ---
 ## SVGFEBlendElement.Mode property
 
-Entspricht dem Attribut 'mode' des angegebenen 'feBlend'-Elements. Akzeptiert eine der SVG_FEBLEND_MODE_*-Konstanten, die auf dieser Schnittstelle definiert sind.
+Entspricht dem Attribut ‘mode’ des angegebenen ‘feBlend’-Elements. Akzeptiert einen der auf diesem Interface definierten SVG_FEBLEND_MODE_*-Konstanten.
 
 ```csharp
 public SVGAnimatedEnumeration Mode { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'mode' des gegebenen 'feBlend'-Elements.
+Das Attribut ‘mode’ des angegebenen ‘feBlend’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEBlendElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeblendelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

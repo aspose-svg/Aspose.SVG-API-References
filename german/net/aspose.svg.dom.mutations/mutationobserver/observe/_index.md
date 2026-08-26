@@ -1,14 +1,14 @@
 ---
-title: MutationObserver.Observe
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationObserver methode. Weist den Benutzeragenten an ein bestimmtes Ziel einen Knoten zu beobachten und alle Mutationen basierend auf den durch Optionen ein Objekt angegebenen Kriterien zu melden. Das OptionsArgument ermöglicht das Festlegen von Mutationsbeobachtungsoptionen über Objektmitglieder.
+title: "MutationObserver.Observe"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationObserver Observe-Methode. Weist den User-Agent an, ein angegebenes Ziel (einen Knoten) zu beobachten und alle Mutationen basierend auf den durch das Options‑Objekt festgelegten Kriterien zu melden. Das Options‑Argument ermöglicht das Festlegen von Beobachtungsoptionen über Objektmitglieder."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.mutations/mutationobserver/observe/
 ---
-## Observe(Node) {#observe}
+## Observe(*[Node](../../../aspose.svg.dom/node/)*) {#observe}
 
-Weist den Benutzeragenten an, ein bestimmtes Ziel (einen Knoten) zu beobachten und alle Mutationen basierend auf den durch Optionen (ein Objekt) angegebenen Kriterien zu melden. Das Options-Argument ermöglicht das Festlegen von Mutationsbeobachtungsoptionen über Objektmitglieder.
+Weist den User‑Agent an, ein angegebenes Ziel (einen Knoten) zu beobachten und alle Mutationen basierend auf den durch die Optionen (ein Objekt) angegebenen Kriterien zu melden. Das options‑Argument ermöglicht das Festlegen von Beobachtungsoptionen für Mutationen über Objektmitglieder.
 
 ```csharp
 public void Observe(Node target)
@@ -22,14 +22,14 @@ public void Observe(Node target)
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserver](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Observe(Node, MutationObserverInit) {#observe_1}
+## Observe(*[Node](../../../aspose.svg.dom/node/), [MutationObserverInit](../../mutationobserverinit/)*) {#observe_1}
 
-Weist den Benutzeragenten an, ein bestimmtes Ziel (einen Knoten) zu beobachten und alle Mutationen basierend auf den durch Optionen (ein Objekt) angegebenen Kriterien zu melden. Das Options-Argument ermöglicht das Festlegen von Mutationsbeobachtungsoptionen über Objektmitglieder.
+Weist den User‑Agent an, ein angegebenes Ziel (einen Knoten) zu beobachten und alle Mutationen basierend auf den durch die Optionen (ein Objekt) angegebenen Kriterien zu melden. Das options‑Argument ermöglicht das Festlegen von Beobachtungsoptionen für Mutationen über Objektmitglieder.
 
 ```csharp
 public void Observe(Node target, MutationObserverInit options)
@@ -38,14 +38,12 @@ public void Observe(Node target, MutationObserverInit options)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | target | Node | Das Ziel für die Beobachtung. |
-| options | MutationObserverInit | Die Beobachteroptionen. |
+| options | MutationObserverInit | Die Beobachtungsoptionen. |
 
 ### Siehe auch
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserverInit](../../mutationobserverinit/)
 * class [MutationObserver](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

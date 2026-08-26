@@ -1,27 +1,25 @@
 ---
-title: HttpMethod.Get
-second_title: Aspose.SVG für .NET-API-Referenz
-description: HttpMethod eigendom. Repräsentiert eine HTTP GETProtokollmethode.
+title: "HttpMethod.Get"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "HttpMethod Get-Eigenschaft. Stellt eine HTTP GET-Protokollmethode dar"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.net/httpmethod/get/
 ---
 ## HttpMethod.Get property
 
-Repräsentiert eine HTTP GET-Protokollmethode.
+Stellt eine HTTP GET-Protokollmethode dar.
 
 ```csharp
 public static HttpMethod Get { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die HTTP-GET-Methode.
+Die HTTP GET-Methode.
 
 ### Siehe auch
 
 * class [HttpMethod](../)
-* namensraum [Aspose.Svg.Net](../../httpmethod/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

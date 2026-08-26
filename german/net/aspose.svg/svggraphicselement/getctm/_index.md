@@ -1,14 +1,14 @@
 ---
-title: SVGGraphicsElement.GetCTM
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGGraphicsElement methode. Gibt die Transformationsmatrix von den aktuellen Benutzereinheiten dh nach Anwendung des transformAttributs falls vorhanden zum AnsichtsfensterKoordinatensystem für das nächste ViewportElement zurück.
+title: "SVGGraphicsElement.GetCTM"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGGraphicsElement GetCTM Methode. Gibt die Transformationsmatrix von den aktuellen Benutzereinheiten zurück, d. h. nach Anwendung des Attributs transform, falls vorhanden, auf das Viewport-Koordinatensystem des nearestViewportElement."
 type: docs
 weight: 80
 url: /de/net/aspose.svg/svggraphicselement/getctm/
 ---
 ## SVGGraphicsElement.GetCTM method
 
-Gibt die Transformationsmatrix von den aktuellen Benutzereinheiten (dh nach Anwendung des 'transform'-Attributs, falls vorhanden) zum Ansichtsfenster-Koordinatensystem für das nächste ViewportElement zurück.
+Gibt die Transformationsmatrix von den aktuellen Benutzereinheiten (d. h. nach Anwendung des Attributs ‘transform’, falls vorhanden) zum Koordinatensystem des Ansichtsbereichs für das nearestViewportElement zurück.
 
 ```csharp
 public SVGMatrix GetCTM()
@@ -22,7 +22,5 @@ Ein SVGMatrix-Objekt, das das CTM definiert.
 
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGGraphicsElement](../)
-* namensraum [Aspose.Svg](../../svggraphicselement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

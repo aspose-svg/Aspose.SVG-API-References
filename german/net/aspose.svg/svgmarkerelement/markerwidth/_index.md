@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.MarkerWidth
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGMarkerElement eigendom. Entspricht dem Attribut markerWidth des angegebenen markerElements.
+title: "SVGMarkerElement.MarkerWidth"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGMarkerElement MarkerWidth-Eigenschaft. Entspricht dem Attribut markerWidth im angegebenen Marker-Element"
 type: docs
 weight: 30
 url: /de/net/aspose.svg/svgmarkerelement/markerwidth/
 ---
 ## SVGMarkerElement.MarkerWidth property
 
-Entspricht dem Attribut 'markerWidth' des angegebenen 'marker'-Elements.
+Entspricht dem Attribut ‘markerWidth’ im angegebenen ‘marker’-Element.
 
 ```csharp
 public SVGAnimatedLength MarkerWidth { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'markerWidth' des gegebenen 'marker'-Elements.
+Das Attribut ‘markerWidth’ des angegebenen ‘marker’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* namensraum [Aspose.Svg](../../svgmarkerelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

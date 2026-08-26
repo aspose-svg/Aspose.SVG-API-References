@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetTotalLength
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGGeometryElement methode. Gibt den berechneten Wert des Benutzeragenten für die Gesamtlänge des Pfads unter Verwendung des EntfernungaufeinemPfadAlgorithmus des Benutzeragenten als Entfernung im aktuellen Benutzerkoordinatensystem zurück.
+title: "SVGGeometryElement.GetTotalLength"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGGeometryElement GetTotalLength‑Methode. Gibt den vom Benutzeragenten berechneten Wert für die Gesamtlänge des Pfads zurück, wobei der distance‑along‑a‑path‑Algorithmus des Benutzeragents verwendet wird, als Distanz im aktuellen Benutzerkoordinatensystem."
 type: docs
-weight: 40
+weight: 50
 url: /de/net/aspose.svg/svggeometryelement/gettotallength/
 ---
 ## SVGGeometryElement.GetTotalLength method
 
-Gibt den berechneten Wert des Benutzeragenten für die Gesamtlänge des Pfads unter Verwendung des Entfernung-auf-einem-Pfad-Algorithmus des Benutzeragenten als Entfernung im aktuellen Benutzerkoordinatensystem zurück.
+Gibt den vom User‑Agent berechneten Wert für die Gesamtlänge des Pfads zurück, wobei der distance‑along‑a‑path‑Algorithmus des User‑Agents verwendet wird, als Distanz im aktuellen Benutzerkoordinatensystem.
 
 ```csharp
 public float GetTotalLength()
@@ -21,7 +21,5 @@ Die Gesamtlänge des Pfads.
 ### Siehe auch
 
 * class [SVGGeometryElement](../)
-* namensraum [Aspose.Svg](../../svggeometryelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.RefX
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGMarkerElement eigendom. Entspricht dem Attribut refX auf dem gegebenen markerElement.
+title: "SVGMarkerElement.RefX"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGMarkerElement RefX-Eigenschaft. Entspricht dem Attribut refX im angegebenen Marker-Element"
 type: docs
 weight: 70
 url: /de/net/aspose.svg/svgmarkerelement/refx/
 ---
 ## SVGMarkerElement.RefX property
 
-Entspricht dem Attribut 'refX' auf dem gegebenen 'marker'-Element.
+Entspricht dem Attribut ‘refX’ im angegebenen ‘marker’-Element.
 
 ```csharp
 public SVGAnimatedLength RefX { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'refX' des gegebenen 'marker'-Elements.
+Das Attribut ‘refX’ des angegebenen ‘marker’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* namensraum [Aspose.Svg](../../svgmarkerelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

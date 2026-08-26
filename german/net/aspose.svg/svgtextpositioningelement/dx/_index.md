@@ -1,28 +1,26 @@
 ---
-title: SVGTextPositioningElement.Dx
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGTextPositioningElement eigendom. Entspricht dem Attribut dx des angegebenen Elements.
+title: "SVGTextPositioningElement.Dx"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGTextPositioningElement Dx Eigenschaft. Entspricht dem Attribut dx des angegebenen Elements"
 type: docs
 weight: 10
 url: /de/net/aspose.svg/svgtextpositioningelement/dx/
 ---
 ## SVGTextPositioningElement.Dx property
 
-Entspricht dem Attribut 'dx' des angegebenen Elements.
+Entspricht dem Attribut ‘dx’ des angegebenen Elements.
 
 ```csharp
 public SVGAnimatedLengthList Dx { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'dx' des gegebenen Elements.
+Das Attribut ‘dx’ des angegebenen Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLengthList](../../../aspose.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* namensraum [Aspose.Svg](../../svgtextpositioningelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

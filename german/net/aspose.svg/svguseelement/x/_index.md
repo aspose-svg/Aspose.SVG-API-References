@@ -1,28 +1,26 @@
 ---
-title: SVGUseElement.X
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGUseElement eigendom. Entspricht dem Attribut x des angegebenen useElements.
+title: "SVGUseElement.X"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGUseElement X-Eigenschaft. Entspricht dem Attribut x im angegebenen use-Element"
 type: docs
 weight: 40
 url: /de/net/aspose.svg/svguseelement/x/
 ---
 ## SVGUseElement.X property
 
-Entspricht dem Attribut 'x' des angegebenen 'use'-Elements.
+Entspricht dem Attribut ‘x’ des angegebenen ‘use’-Elements.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Entspricht dem Attribut 'x' des angegebenen 'use'-Elements.
+Entspricht dem Attribut ‘x’ des angegebenen ‘use’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGUseElement](../)
-* namensraum [Aspose.Svg](../../svguseelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

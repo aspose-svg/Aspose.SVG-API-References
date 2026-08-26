@@ -1,39 +1,37 @@
 ---
-title: Class XpsSaveOptions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Saving.XpsSaveOptions klas. Spezifische Optionen Datenklasse.
+title: "XpsSaveOptions-Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Saving.XpsSaveOptions-Klasse. Spezifische Optionsdatenklasse"
 type: docs
-weight: 3700
+weight: 5830
 url: /de/net/aspose.svg.saving/xpssaveoptions/
 ---
 ## XpsSaveOptions class
 
-Spezifische Optionen Datenklasse.
+Spezifische Optionsdatenklasse.
 
 ```csharp
 public class XpsSaveOptions : XpsRenderingOptions
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [XpsSaveOptions](xpssaveoptions/)() | Default_Constructor |
+| [XpsSaveOptions](xpssaveoptions/)() | Der Standard‑Konstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Holt oder setztColor die den Hintergrund jeder Seite füllen wird. Standardwert istTransparent . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | erhält a[`CssOptions`](../../aspose.svg.rendering/cssoptions/) Objekt, das für die Konfiguration der Verarbeitung von CSS-Eigenschaften verwendet wird. |
-| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution/) { get; set; } | Setzt oder erhält die horizontale Auflösung für interne Bilder (die während der Filterverarbeitung verwendet werden) in Pixel pro Zoll. Standardmäßig ist diese Eigenschaft 300 dpi. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Ruft ein Seiteneinrichtungsobjekt ab, das für die Konfigurationsausgabe des Seitensatzes verwendet wird. |
-| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution/) { get; set; } | Setzt oder erhält die vertikale Auflösung für interne Bilder (die während der Filterverarbeitung verwendet werden) in Pixel pro Zoll. Standardmäßig ist diese Eigenschaft 300 dpi. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Liest oder setzt die Farbe, die den Hintergrund jeder Seite füllt. Der Standardwert ist Transparent. |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Liest ein [`CssOptions`](../../aspose.svg.rendering/cssoptions/) Objekt, das für die Konfiguration der Verarbeitung von CSS-Eigenschaften verwendet wird. |
+| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution/) { get; set; } | Setzt oder liest die horizontale Auflösung für interne (die während der Filterverarbeitung verwendet werden) Bilder in Pixel pro Zoll. Standardmäßig beträgt diese Eigenschaft 300 dpi. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Liest ein Seiten-Setup-Objekt, das für die Konfiguration des Ausgabe-Seitenlayouts verwendet wird. |
+| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution/) { get; set; } | Setzt oder liest die vertikale Auflösung für interne (die während der Filterverarbeitung verwendet werden) Bilder in Pixel pro Zoll. Standardmäßig beträgt diese Eigenschaft 300 dpi. |
 
 ### Siehe auch
 
 * class [XpsRenderingOptions](../../aspose.svg.rendering.xps/xpsrenderingoptions/)
-* namensraum [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

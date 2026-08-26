@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Quotes
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der AnführungszeichenEigenschaft in CSS2.
+title: "ICSS2Properties.Quotes"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties Quotes Eigenschaft. Siehe die Definition der quotes Eigenschaft in CSS2"
 type: docs
-weight: 960
+weight: 990
 url: /de/net/aspose.svg.dom.css/icss2properties/quotes/
 ---
 ## ICSS2Properties.Quotes property
 
-Siehe Definition der Anführungszeichen-Eigenschaft in CSS2.
+Siehe die quotes Eigenschaftendefinition in CSS2.
 
 ```csharp
 public string Quotes { get; set; }
@@ -16,12 +16,10 @@ public string Quotes { get; set; }
 
 ### Rückgabewert
 
-zitiert Eigenschaft
+quotes Eigenschaft
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

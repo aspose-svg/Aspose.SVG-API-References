@@ -1,14 +1,14 @@
 ---
-title: Text.ReplaceWholeText
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Text methode. Ersetzt den Text des aktuellen Knotens und aller logisch angrenzenden Textknoten durch den angegebenen Text. Alle logisch benachbarten Textknoten werden entfernt einschließlich des aktuellen Knotens es sei denn er war der Empfänger des Ersetzungstexts.
+title: "Text.ReplaceWholeText"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Text ReplaceWholeText‑Methode. Ersetzt den Text des aktuellen Knotens und aller logisch benachbarten Textknoten durch den angegebenen Text. Alle logisch benachbarten Textknoten werden entfernt, einschließlich des aktuellen Knotens, es sei denn, er war Empfänger des Ersatztexts."
 type: docs
 weight: 70
 url: /de/net/aspose.svg.dom/text/replacewholetext/
 ---
 ## Text.ReplaceWholeText method
 
-Ersetzt den Text des aktuellen Knotens und aller logisch angrenzenden Textknoten durch den angegebenen Text. Alle logisch benachbarten Textknoten werden entfernt, einschließlich des aktuellen Knotens, es sei denn, er war der Empfänger des Ersetzungstexts.
+Ersetzt den Text des aktuellen Knotens und aller logisch benachbarten Textknoten durch den angegebenen Text. Alle logisch benachbarten Textknoten werden entfernt, einschließlich des aktuellen Knotens, es sei denn, er war Empfänger des Ersetzungstextes.
 
 ```csharp
 public Text ReplaceWholeText(string content)
@@ -16,16 +16,14 @@ public Text ReplaceWholeText(string content)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | String | Der Inhalt. |
+| Inhalt | String | Der Inhalt. |
 
 ### Rückgabewert
 
-Die[`Text`](../) .
+Das [`Text`](../).
 
 ### Siehe auch
 
 * class [Text](../)
-* namensraum [Aspose.Svg.Dom](../../text/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

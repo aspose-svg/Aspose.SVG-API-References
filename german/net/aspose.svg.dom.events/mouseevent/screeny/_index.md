@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ScreenY
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent eigendom. Die vertikale Koordinate an der das Ereignis aufgetreten ist relativ zum Ursprung des Bildschirmkoordinatensystems.
+title: "MouseEvent.ScreenY"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent ScreenY-Eigenschaft. Die vertikale Koordinate, bei der das Ereignis relativ zum Ursprung des Bildschirmkoordinatensystems auftrat"
 type: docs
 weight: 110
 url: /de/net/aspose.svg.dom.events/mouseevent/screeny/
 ---
 ## MouseEvent.ScreenY property
 
-Die vertikale Koordinate, an der das Ereignis aufgetreten ist, relativ zum Ursprung des Bildschirmkoordinatensystems.
+Die vertikale Koordinate, bei der das Ereignis relativ zum Ursprung des Bildschirmkoordinatensystems auftrat.
 
 ```csharp
 public long ScreenY { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Bildschirm y.
+Die Bildschirm‑y.
 
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

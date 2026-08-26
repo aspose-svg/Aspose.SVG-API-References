@@ -1,27 +1,25 @@
 ---
-title: ICSSCounterStyleRule.CounterType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSCounterStyleRule eigendom. Ruft den Typ des Zählers ab.
+title: "ICSSCounterStyleRule.CounterType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSCounterStyleRule CounterType-Eigenschaft. Gibt den Typ des Zählers zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/icsscounterstylerule/countertype/
 ---
 ## ICSSCounterStyleRule.CounterType property
 
-Ruft den Typ des Zählers ab.
+Gibt den Typ des Zählers zurück.
 
 ```csharp
 public string CounterType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ des Zählers.
 
 ### Siehe auch
 
 * interface [ICSSCounterStyleRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

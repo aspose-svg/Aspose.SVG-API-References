@@ -1,14 +1,14 @@
 ---
-title: IStyleSheet.Href
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IStyleSheet eigendom. Wenn das Stylesheet ein verknüpftes Stylesheet ist ist der Wert seines Attributs sein Speicherort. Für InlineStylesheets ist der Wert dieses Attributs null.
+title: "IStyleSheet.Href"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IStyleSheet Href-Eigenschaft. Wenn das Stylesheet ein verknüpftes Stylesheet ist, ist der Wert dieses Attributs sein Speicherort. Für Inline-Stylesheets ist der Wert dieses Attributs null."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.css/istylesheet/href/
 ---
 ## IStyleSheet.Href property
 
-Wenn das Stylesheet ein verknüpftes Stylesheet ist, ist der Wert seines Attributs sein Speicherort. Für Inline-Stylesheets ist der Wert dieses Attributs null.
+Wenn das Stylesheet ein verknüpftes Stylesheet ist, ist der Wert seines Attributs sein Speicherort. Für Inline‑Stylesheets ist der Wert dieses Attributs null.
 
 ```csharp
 public string Href { get; }
@@ -17,7 +17,5 @@ public string Href { get; }
 ### Siehe auch
 
 * interface [IStyleSheet](../)
-* namensraum [Aspose.Svg.Dom.Css](../../istylesheet/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

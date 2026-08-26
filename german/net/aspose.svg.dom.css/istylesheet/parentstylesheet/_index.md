@@ -1,14 +1,14 @@
 ---
-title: IStyleSheet.ParentStyleSheet
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IStyleSheet eigendom. Für StylesheetSprachen die das Konzept der StylesheetInklusion unterstützen stellt dieses Attribut das einschließende Stylesheet dar sofern eines vorhanden ist. Wenn das Stylesheet ein Stylesheet der obersten Ebene ist oder die StylesheetSprache die Einbindung nicht unterstützt ist der Wert dieses Attributs null.
+title: "IStyleSheet.ParentStyleSheet"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IStyleSheet ParentStyleSheet-Eigenschaft. Für Stylesheet-Sprachen, die das Konzept der Stylesheet-Einbindung unterstützen, stellt dieses Attribut das einbindende Stylesheet dar, falls eines existiert. Wenn das Stylesheet ein Top-Level-Stylesheet ist oder die Stylesheet-Sprache keine Einbindung unterstützt, ist der Wert dieses Attributs null."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom.css/istylesheet/parentstylesheet/
 ---
 ## IStyleSheet.ParentStyleSheet property
 
-Für Stylesheet-Sprachen, die das Konzept der Stylesheet-Inklusion unterstützen, stellt dieses Attribut das einschließende Stylesheet dar, sofern eines vorhanden ist. Wenn das Stylesheet ein Stylesheet der obersten Ebene ist oder die Stylesheet-Sprache die Einbindung nicht unterstützt, ist der Wert dieses Attributs null.
+Für Stylesheet‑Sprachen, die das Konzept der Stylesheet‑Einbindung unterstützen, repräsentiert dieses Attribut das einbindende Stylesheet, falls eines existiert. Ist das Stylesheet ein Top‑Level‑Stylesheet oder unterstützt die Stylesheet‑Sprache keine Einbindung, ist der Wert dieses Attributs null.
 
 ```csharp
 public IStyleSheet ParentStyleSheet { get; }
@@ -17,7 +17,5 @@ public IStyleSheet ParentStyleSheet { get; }
 ### Siehe auch
 
 * interface [IStyleSheet](../)
-* namensraum [Aspose.Svg.Dom.Css](../../istylesheet/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

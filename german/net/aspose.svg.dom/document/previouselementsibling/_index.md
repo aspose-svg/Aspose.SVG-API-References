@@ -1,14 +1,14 @@
 ---
-title: Document.PreviousElementSibling
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Gibt den vorherigen gleichgeordneten Elementknoten dieses Elements zurück. null wenn dieses Element keine ElementGeschwisterknoten hat die vor diesem im Dokumentbaum stehen.
+title: "Document.PreviousElementSibling"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document PreviousElementSibling Eigenschaft. Gibt den vorherigen Geschwister-Elementknoten dieses Elements zurück. null, wenn dieses Element keine Element-Geschwisterknoten hat, die im Dokumentbaum vor diesem liegen."
 type: docs
 weight: 220
 url: /de/net/aspose.svg.dom/document/previouselementsibling/
 ---
 ## Document.PreviousElementSibling property
 
-Gibt den vorherigen gleichgeordneten Elementknoten dieses Elements zurück. null, wenn dieses Element keine Element-Geschwisterknoten hat, die vor diesem im Dokumentbaum stehen.
+Gibt den vorherigen Geschwister‑Elementknoten dieses Elements zurück. null, wenn dieses Element keine vorherigen Element‑Geschwisterknoten im Dokumentbaum hat.
 
 ```csharp
 public Element PreviousElementSibling { get; }
@@ -18,7 +18,5 @@ public Element PreviousElementSibling { get; }
 
 * class [Element](../../element/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

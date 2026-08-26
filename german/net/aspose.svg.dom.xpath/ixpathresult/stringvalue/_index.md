@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.StringValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IXPathResult eigendom. Der Wert dieses Zeichenfolgenergebnisses.
+title: "IXPathResult.StringValue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IXPathResult StringValue‑Eigenschaft. Der Wert dieses Zeichenketten‑Ergebnisses"
 type: docs
 weight: 70
 url: /de/net/aspose.svg.dom.xpath/ixpathresult/stringvalue/
 ---
 ## IXPathResult.StringValue property
 
-Der Wert dieses Zeichenfolgenergebnisses.
+Der Wert dieses Zeichenketten­ergebnisses.
 
 ```csharp
 public string StringValue { get; }
@@ -18,12 +18,10 @@ public string StringValue { get; }
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: ausgelöst, wenn`resultType` ist nicht `Schnur` Typ. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: ausgelöst, wenn `resultType` nicht vom Typ `String` ist. |
 
 ### Siehe auch
 
 * interface [IXPathResult](../)
-* namensraum [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

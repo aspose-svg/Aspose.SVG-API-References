@@ -1,28 +1,26 @@
 ---
-title: GraphicContext.TextInfo
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GraphicContext eigendom. erhält aTextInfo Objekt das Informationen über gerenderten Text enthält.
+title: "GraphicContext.TextInfo"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GraphicContext TextInfo-Eigenschaft. Gibt ein TextInfo-Objekt zurück, das Informationen über gerenderten Text enthält."
 type: docs
 weight: 150
 url: /de/net/aspose.svg.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property
 
-erhält a[`TextInfo`](../../textinfo/) Objekt, das Informationen über gerenderten Text enthält.
+Gibt ein [`TextInfo`](../../textinfo/)‑Objekt zurück, das Informationen über gerenderten Text enthält.
 
 ```csharp
 public virtual TextInfo TextInfo { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die[`TextInfo`](../../textinfo/) Objekt.
+Das [`TextInfo`](../../textinfo/)‑Objekt.
 
 ### Siehe auch
 
 * class [TextInfo](../../textinfo/)
 * class [GraphicContext](../)
-* namensraum [Aspose.Svg.Rendering](../../graphiccontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

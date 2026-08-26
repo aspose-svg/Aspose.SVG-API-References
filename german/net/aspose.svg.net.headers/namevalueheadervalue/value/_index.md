@@ -1,27 +1,25 @@
 ---
-title: NameValueHeaderValue.Value
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NameValueHeaderValue eigendom. Ruft den Parameterwert ab oder setzt ihn.
+title: "NameValueHeaderValue.Value"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NameValueHeaderValue Value-Eigenschaft. Ruft den Parameterwert ab oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.net.headers/namevalueheadervalue/value/
 ---
 ## NameValueHeaderValue.Value property
 
-Ruft den Parameterwert ab oder setzt ihn.
+Liest oder setzt den Parameterwert.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Wert.
 
 ### Siehe auch
 
 * class [NameValueHeaderValue](../)
-* namensraum [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

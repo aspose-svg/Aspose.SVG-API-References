@@ -1,27 +1,25 @@
 ---
-title: DocumentType.PublicId
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DocumentType eigendom. Die öffentliche Kennung der externen Teilmenge.
+title: "DocumentType.PublicId"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DocumentType PublicId-Eigenschaft. Der öffentliche Bezeichner des externen Subsets"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom/documenttype/publicid/
 ---
 ## DocumentType.PublicId property
 
-Die öffentliche Kennung der externen Teilmenge.
+Der öffentliche Bezeichner des externen Subsets.
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die öffentliche Kennung.
+Der öffentliche Bezeichner.
 
 ### Siehe auch
 
 * class [DocumentType](../)
-* namensraum [Aspose.Svg.Dom](../../documenttype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IImageTraceSimplifier.Simplify
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IImageTraceSimplifier methode. Reduziert die Anzahl der Punkte in der Spur.
+title: "IImageTraceSimplifier.Simplify"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IImageTraceSimplifier Simplify-Methode. Reduziert die Anzahl der Punkte im Trace"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.imagevectorization/iimagetracesimplifier/simplify/
 ---
 ## IImageTraceSimplifier.Simplify method
 
-Reduziert die Anzahl der Punkte in der Spur.
+Reduziert die Anzahl der Punkte im Trace.
 
 ```csharp
 public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
@@ -16,16 +16,14 @@ public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Die Liste der Ablaufverfolgungspunkte. |
+| Spur | IEnumerable`1 | Die Liste der Spurpunkte. |
 
 ### Rückgabewert
 
-Die reduzierte Liste der Ablaufverfolgungspunkte.
+Die reduzierte Liste der Trace-Punkte.
 
 ### Siehe auch
 
 * interface [IImageTraceSimplifier](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../iimagetracesimplifier/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

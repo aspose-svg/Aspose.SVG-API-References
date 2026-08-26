@@ -1,33 +1,31 @@
 ---
-title: SVGPoint.Y
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPoint eigendom. Die YKoordinate.
+title: "SVGPoint.Y"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPoint Y-Eigenschaft. Die Y-Koordinate"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.datatypes/svgpoint/y/
 ---
 ## SVGPoint.Y property
 
-Die Y-Koordinate.
+Die Y‑Koordinate.
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Y-Koordinate.
+Die Y‑Koordinate.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -Code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Wird ausgelöst, wenn das SVGPoint-Objekt schreibgeschützt ist oder einem schreibgeschützten DOM-Attribut entspricht. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Wird ausgelöst, wenn das SVGPoint-Objekt schreibgeschützt ist oder einem DOM-Attribut entspricht, das schreibgeschützt ist. |
 
 ### Siehe auch
 
 * class [SVGPoint](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgpoint/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

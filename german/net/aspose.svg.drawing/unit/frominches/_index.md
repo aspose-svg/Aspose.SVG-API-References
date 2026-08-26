@@ -1,14 +1,14 @@
 ---
-title: Unit.FromInches
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Unit methode. Gibt a zurückLength Objekt das in Zoll dargestellt wird.
+title: "Unit.FromInches"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Unit FromInches Methode. Gibt ein Length-Objekt zurück, das in Zoll dargestellt wird"
 type: docs
 weight: 120
 url: /de/net/aspose.svg.drawing/unit/frominches/
 ---
 ## Unit.FromInches method
 
-Gibt a zurück[`Length`](../../length/) Objekt, das in Zoll dargestellt wird.
+Gibt ein [`Length`](../../length/) Objekt zurück, das in Zoll dargestellt wird.
 
 ```csharp
 public static Length FromInches(double value)
@@ -20,13 +20,11 @@ public static Length FromInches(double value)
 
 ### Rückgabewert
 
-Gibt ein[`Length`](../../length/) Objekt.
+Gibt ein [`Length`](../../length/) Objekt zurück.
 
 ### Siehe auch
 
 * class [Length](../../length/)
 * class [Unit](../)
-* namensraum [Aspose.Svg.Drawing](../../unit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

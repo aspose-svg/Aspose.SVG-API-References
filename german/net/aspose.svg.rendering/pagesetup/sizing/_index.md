@@ -1,14 +1,14 @@
 ---
-title: PageSetup.Sizing
-second_title: Aspose.SVG für .NET-API-Referenz
-description: PageSetup eigendom. Ruft den Größentyp ab oder legt ihn fest.
+title: "PageSetup.Sizing"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "PageSetup Sizing Eigenschaft. Ruft den Skalierungstyp ab oder legt ihn fest."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.rendering/pagesetup/sizing/
 ---
 ## PageSetup.Sizing property
 
-Ruft den Größentyp ab oder legt ihn fest.
+Liest oder setzt den Größen‑Typ.
 
 ```csharp
 public SizingType Sizing { get; set; }
@@ -18,7 +18,5 @@ public SizingType Sizing { get; set; }
 
 * enum [SizingType](../../sizingtype/)
 * class [PageSetup](../)
-* namensraum [Aspose.Svg.Rendering](../../pagesetup/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Node.IsDefaultNamespace
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node methode. Diese Methode prüft ob der angegebene NamespaceURI der StandardNamespace ist oder nicht.
+title: "Node.IsDefaultNamespace"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node IsDefaultNamespace-Methode. Diese Methode prüft, ob die angegebene namespaceURI die Standardsnamespace ist oder nicht."
 type: docs
-weight: 230
+weight: 210
 url: /de/net/aspose.svg.dom/node/isdefaultnamespace/
 ---
 ## Node.IsDefaultNamespace method
 
-Diese Methode prüft, ob der angegebene NamespaceURI der Standard-Namespace ist oder nicht.
+Diese Methode prüft, ob das angegebene namespaceURI der Standardsnamensraum ist oder nicht.
 
 ```csharp
 public bool IsDefaultNamespace(string namespaceURI)
@@ -20,12 +20,10 @@ public bool IsDefaultNamespace(string namespaceURI)
 
 ### Rückgabewert
 
-`WAHR` if [ist Standard-Namespace] [der angegebene Namespace-URI]; ansonsten,`FALSCH` .
+`true`, wenn [is default namespace] [die angegebene Namespace-URI]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

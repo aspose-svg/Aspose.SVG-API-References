@@ -1,14 +1,14 @@
 ---
-title: Class Text
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Text klas. Die Textschnittstelle erbt von CharacterData und repräsentiert den Textinhalt in XML als Zeichendaten bezeichnet eines Elements oder Attr.
+title: "Textklasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Text‑Klasse. Das Text‑Interface erbt von CharacterData und stellt den textuellen Inhalt, genannt character data, im XML eines Elements oder Attr dar."
 type: docs
-weight: 1200
+weight: 3200
 url: /de/net/aspose.svg.dom/text/
 ---
 ## Text class
 
-Die Textschnittstelle erbt von CharacterData und repräsentiert den Textinhalt (in XML als Zeichendaten bezeichnet) eines Elements oder Attr.
+Die Text-Schnittstelle erbt von CharacterData und stellt den Textinhalt (in XML als Zeichendaten bezeichnet) eines Elements oder Attr dar.
 
 ```csharp
 public class Text : CharacterData
@@ -18,68 +18,64 @@ public class Text : CharacterData
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [Attributes](../../aspose.svg.dom/node/attributes/) { get; } | Eine NamedNodeMap, die die Attribute dieses Knotens enthält (wenn es sich um ein Element handelt) oder null andernfalls. |
-| virtual [BaseURI](../../aspose.svg.dom/node/baseuri/) { get; } | Der absolute Basis-URI dieses Knotens oder null, wenn die Implementierung keinen absoluten URI erhalten konnte. |
-| [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | Eine NodeList, die alle Kinder dieses Knotens enthält. Wenn es keine Kinder gibt, ist dies eine NodeList, die keine Knoten enthält.. |
-| virtual [Data](../../aspose.svg.dom/characterdata/data/) { get; set; } | Die Zeichendaten des Knotens, der diese Schnittstelle implementiert. |
-| [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | Das erste untergeordnete Element dieses Knotens. Wenn es keinen solchen Knoten gibt, wird null zurückgegeben. |
-| [IsElementContentWhitespace](../../aspose.svg.dom/text/iselementcontentwhitespace/) { get; } | Gibt zurück, ob dieser Textknoten Leerzeichen für Elementinhalte enthält, die oft missbräuchlich als "ignorierbare Leerzeichen" bezeichnet werden. |
-| [LastChild](../../aspose.svg.dom/node/lastchild/) { get; } | Das letzte untergeordnete Element dieses Knotens. Wenn es keinen solchen Knoten gibt, wird null zurückgegeben. |
-| [Length](../../aspose.svg.dom/characterdata/length/) { get; } | Die Anzahl der 16-Bit-Einheiten, die über Daten und die nachfolgende substringData-Methode verfügbar sind. Dieser kann den Wert Null haben, dh CharacterData-Knoten können leer sein. |
-| virtual [LocalName](../../aspose.svg.dom/node/localname/) { get; } | Gibt den lokalen Teil des qualifizierten Namens dieses Knotens zurück. Für Knoten eines anderen Typs als ELEMENT_NODE und ATTRIBUTE_NODE und Knoten, die mit einer DOM-Level-1-Methode wie Document.createElement() erstellt wurden, ist dies immer null. |
-| virtual [NamespaceURI](../../aspose.svg.dom/node/namespaceuri/) { get; } | Der Namespace-URI dieses Knotens oder null, wenn er nicht angegeben ist. |
-| [NextSibling](../../aspose.svg.dom/node/nextsibling/) { get; } | Der Knoten unmittelbar nach diesem Knoten. Wenn es keinen solchen Knoten gibt, wird null zurückgegeben. |
+| virtual [BaseURI](../../aspose.svg.dom/node/baseuri/) { get; } | Gibt die absolute Basis‑URL des Dokuments zurück, das den Knoten enthält. |
+| [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | Gibt eine Live‑[`NodeList`](../../aspose.svg.collections/nodelist/) der Kindknoten des angegebenen Elements zurück, wobei dem ersten Kindknoten der Index 0 zugewiesen wird. Kindknoten umfassen Elemente, Text und Kommentare. |
+| virtual [Data](../../aspose.svg.dom/characterdata/data/) { get; set; } | Die character data des Knotens, der dieses Interface implementiert. |
+| [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | Gibt das erste Kind des Knotens im Baum zurück oder null, wenn der Knoten keine Kinder hat. |
+| [IsElementContentWhitespace](../../aspose.svg.dom/text/iselementcontentwhitespace/) { get; } | Gibt zurück, ob dieser Textknoten Leerzeichen im Elementinhalt enthält, oft missbräuchlich „ignorable whitespace“ genannt. |
+| [LastChild](../../aspose.svg.dom/node/lastchild/) { get; } | Gibt das letzte Kind des Knotens zurück. Wenn dessen übergeordnetes Element ein Element ist, ist das Kind in der Regel ein Elementknoten, ein Textknoten oder ein Kommentar­knoten. Es wird null zurückgegeben, wenn keine Kind‑Elemente vorhanden sind. |
+| [Length](../../aspose.svg.dom/characterdata/length/) { get; } | Die Anzahl der 16‑Bit‑Einheiten, die über data und die untenstehende substringData‑Methode verfügbar sind. Dieser Wert kann null sein, d.h. CharacterData‑Knoten können leer sein. |
+| virtual [LocalName](../../aspose.svg.dom/node/localname/) { get; } | Gibt den lokalen Teil des qualifizierten Namens dieses Knotens zurück. Für Knoten jeglichen Typs außer [`ELEMENT_NODE`](../node/element_node/) und [`ATTRIBUTE_NODE`](../node/attribute_node/) sowie für mit einer DOM Level 1‑Methode erstellte Knoten, wie [`CreateElement`](../document/createelement/), ist dieser immer null. |
+| virtual [NamespaceURI](../../aspose.svg.dom/node/namespaceuri/) { get; } | Gibt die Namespace‑URI des Elements zurück oder null, wenn das Element in keinem Namespace ist. |
+| [NextSibling](../../aspose.svg.dom/node/nextsibling/) { get; } | Gibt den Knoten zurück, der dem angegebenen Knoten im [`ChildNodes`](../node/childnodes/)-Array des Elternknotens unmittelbar folgt, oder null, wenn der angegebene Knoten das letzte Kind im übergeordneten Element ist. |
 | override [NodeName](../../aspose.svg.dom/text/nodename/) { get; } | Der Name dieses Knotens, abhängig von seinem Typ. |
 | override [NodeType](../../aspose.svg.dom/text/nodetype/) { get; } | Ein Code, der den Typ des zugrunde liegenden Objekts darstellt. |
 | override [NodeValue](../../aspose.svg.dom/text/nodevalue/) { get; set; } | Der Wert dieses Knotens, abhängig von seinem Typ. |
-| virtual [OwnerDocument](../../aspose.svg.dom/node/ownerdocument/) { get; } | Das diesem Knoten zugeordnete Document-Objekt. Dies ist auch das Document-Objekt, das zum Erstellen neuer Knoten verwendet wird. Wenn dieser Knoten ein Dokument oder ein Dokumenttyp ist, der noch mit keinem Dokument verwendet wird, ist dies null. |
-| [ParentElement](../../aspose.svg.dom/node/parentelement/) { get; } | Ruft das übergeordnete Element ab[`Element`](../element/) dieses Knotens. |
-| [ParentNode](../../aspose.svg.dom/node/parentnode/) { get; } | Das übergeordnete Element dieses Knotens. Alle Knoten außer Attr, Document, DocumentFragment, Entity und Notation können einen Elternknoten haben. Wenn jedoch ein Knoten gerade erstellt und noch nicht zum Baum hinzugefügt oder aus dem Baum entfernt wurde, ist dies null. |
-| virtual [Prefix](../../aspose.svg.dom/node/prefix/) { get; set; } | Das Namespace-Präfix dieses Knotens oder null, wenn es nicht angegeben ist. Wenn es als null definiert ist, hat das Setzen keine Auswirkung |
-| [PreviousSibling](../../aspose.svg.dom/node/previoussibling/) { get; } | Der Knoten unmittelbar vor diesem Knoten. Wenn es keinen solchen Knoten gibt, wird null zurückgegeben. |
-| override [TextContent](../../aspose.svg.dom/text/textcontent/) { get; set; } | Dieses Attribut gibt den Textinhalt dieses Knotens und seiner Nachkommen zurück. Wenn es als null definiert ist, hat das Festlegen keine Auswirkung. Beim Setzen werden alle möglichen Kinder dieses Knotens entfernt und, falls die neue Zeichenfolge nicht leer oder null ist, durch einen einzelnen Textknoten ersetzt, der die Zeichenfolge enthält, auf die dieses Attribut gesetzt ist. |
-| [WholeText](../../aspose.svg.dom/text/wholetext/) { get; } | Gibt den gesamten Text von Textknoten logisch benachbarter Textknoten zu diesem Knoten zurück, verkettet in Dokumentenreihenfolge. |
+| virtual [OwnerDocument](../../aspose.svg.dom/node/ownerdocument/) { get; } | Gibt das Dokumentobjekt der obersten Ebene des Knotens zurück. |
+| [ParentElement](../../aspose.svg.dom/node/parentelement/) { get; } | Gibt den Eltern‑[`Element`](../element/)-Knoten des DOM‑Knotens zurück, oder null, wenn der Knoten keinen Elternteil hat oder sein Elternteil kein DOM‑Element ist. |
+| [ParentNode](../../aspose.svg.dom/node/parentnode/) { get; } | Gibt den Elternknoten des angegebenen Knotens im DOM‑Baum zurück. |
+| virtual [Prefix](../../aspose.svg.dom/node/prefix/) { get; set; } | Gibt das Namespace‑Präfix des angegebenen Elements zurück oder null, wenn kein Präfix angegeben ist. |
+| [PreviousSibling](../../aspose.svg.dom/node/previoussibling/) { get; } | Gibt den Knoten zurück, der dem angegebenen Knoten im [`ChildNodes`](../node/childnodes/)‑Verzeichnis seines Elternteils unmittelbar vorausgeht, oder null, wenn der angegebene Knoten der erste in dieser Liste ist. |
+| override [TextContent](../../aspose.svg.dom/text/textcontent/) { get; set; } | Dieses Attribut gibt den Textinhalt dieses Knotens und seiner Nachkommen zurück. Wenn es als null definiert ist, hat das Setzen keine Auswirkung. Beim Setzen werden alle möglichen Kindknoten dieses Knotens entfernt und, wenn die neue Zeichenkette nicht leer oder null ist, durch einen einzelnen Textknoten ersetzt, der die Zeichenkette enthält, auf die dieses Attribut gesetzt wird. |
+| [WholeText](../../aspose.svg.dom/text/wholetext/) { get; } | Gibt den gesamten Text von Text‑Knoten, die logisch benachbarte Text‑Knoten zu diesem Knoten sind, in Dokumentreihenfolge verkettet zurück. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, IEventListener) | Diese Methode ermöglicht die Registrierung von Ereignis-Listenern auf dem Ereignisziel. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, DOMEventHandler, bool) | Diese Methode ermöglicht die Registrierung von Ereignis-Listenern auf dem Ereignisziel. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, IEventListener, bool) | Diese Methode ermöglicht die Registrierung von Ereignis-Listenern auf dem Ereignisziel. |
-| [AppendChild](../../aspose.svg.dom/node/appendchild/)(Node) | Fügt den Knoten newChild am Ende der Liste der Kinder dieses Knotens hinzu. Wenn das newChild bereits im Baum vorhanden ist, wird es zuerst entfernt. |
-| virtual [AppendData](../../aspose.svg.dom/characterdata/appenddata/)(string) | Hängen Sie die Zeichenfolge an das Ende der Zeichendaten des Knotens an. |
-| [CloneNode](../../aspose.svg.dom/node/clonenode/)() | Gibt ein Duplikat dieses Knotens zurück, dh dient als generischer Kopierkonstruktor für Knoten. Der doppelte Knoten hat keinen übergeordneten Knoten (parentNode ist null) und keine Benutzerdaten. |
-| [CloneNode](../../aspose.svg.dom/node/clonenode/)(bool) | Gibt ein Duplikat dieses Knotens zurück, dh dient als generischer Kopierkonstruktor für Knoten. Der doppelte Knoten hat keinen übergeordneten Knoten (parentNode ist null) und keine Benutzerdaten. |
-| virtual [DeleteData](../../aspose.svg.dom/characterdata/deletedata/)(int, int) | Entfernt einen Bereich von 16-Bit-Einheiten vom Knoten. |
-| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | Diese Methode ermöglicht die Weiterleitung von Ereignissen in das Ereignismodell der Implementierung. |
-| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Führt anwendungsdefinierte Aufgaben aus, die mit dem Freigeben, Freigeben oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
-| virtual [HasAttributes](../../aspose.svg.dom/node/hasattributes/)() | Gibt zurück, ob dieser Knoten (wenn es sich um ein Element handelt) irgendwelche Attribute hat |
-| [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | Gibt zurück, ob dieser Knoten Kinder hat. |
-| [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(Node, Node) | Fügt den Knoten vor dem vorhandenen untergeordneten Knoten child ein. Wenn child null ist, fügen Sie einen Knoten am Ende der Liste der untergeordneten Elemente ein. Wenn child ein DocumentFragment-Objekt ist, werden alle seine untergeordneten Elemente in derselben Reihenfolge vor dem untergeordneten Element eingefügt. Wenn das Kind bereits im Stammbaum ist, wird es zuerst entfernt. |
-| virtual [InsertData](../../aspose.svg.dom/characterdata/insertdata/)(int, string) | Fügt einen String am angegebenen 16-Bit-Einheiten-Offset ein. |
-| [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(string) | Diese Methode prüft, ob der angegebene NamespaceURI der Standard-Namespace ist oder nicht. |
-| [IsEqualNode](../../aspose.svg.dom/node/isequalnode/)(Node) | Testet, ob zwei Knoten gleich sind. Diese Methode testet auf Gleichheit von Knoten, nicht auf Gleichheit (dh ob die beiden Knoten Verweise auf dasselbe Objekt sind), was mit Node.isSameNode() getestet werden kann. Alle Knoten, die gleich sind, sind auch gleich, obwohl das Gegenteil möglicherweise nicht der Fall ist. |
-| [IsSameNode](../../aspose.svg.dom/node/issamenode/)(Node) | Gibt zurück, ob dieser Knoten derselbe Knoten wie der gegebene ist. Mit dieser Methode kann festgestellt werden, ob zwei von der Implementierung zurückgegebene Node-Referenzen auf dasselbe Objekt verweisen. Wenn zwei Node-Referenzen Referenzen auf dasselbe Objekt sind, selbst wenn über einen Proxy, können die Referenzen vollständig austauschbar verwendet werden, sodass alle Attribute dieselben Werte haben und das Aufrufen derselben DOM-Methode für beide Referenzen immer genau denselben Effekt hat. |
-| [LookupNamespaceURI](../../aspose.svg.dom/node/lookupnamespaceuri/)(string) | Suchen Sie den Namespace-URI, der dem angegebenen Präfix zugeordnet ist, beginnend mit diesem Knoten. |
-| [LookupPrefix](../../aspose.svg.dom/node/lookupprefix/)(string) | Suchen Sie das Präfix, das dem angegebenen Namespace-URI zugeordnet ist, beginnend mit diesem Knoten. Die Standard-Namespace-Deklarationen werden von dieser Methode ignoriert. Siehe Namespace Prefix Lookup für Details zum Algorithmus, der von dieser Methode verwendet wird. |
-| [Normalize](../../aspose.svg.dom/node/normalize/)() | Bringt alle Textknoten in der vollen Tiefe des Unterbaums unterhalb dieses Knotens, einschließlich Attributknoten, in eine "normale" Form, wo nur Struktur (z. B. Elemente, Kommentare, Verarbeitungsanweisungen, CDATA-Abschnitte und Entitätsreferenzen) Text trennt Knoten, dh es gibt weder benachbarte Textknoten noch leere Textknoten. Dies kann verwendet werden, um sicherzustellen, dass die DOM-Ansicht eines Dokuments dieselbe ist, als ob es gespeichert und neu geladen worden wäre, und ist nützlich, wenn Operationen (wie XPointer [XPointer]-Lookups), die von einer bestimmten Dokumentbaumstruktur abhängen, ausgeführt werden sollen verwendet werden. Wenn der Parameter „normalize-characters“ des an Node.ownerDocument angehängten DOMConfiguration-Objekts wahr ist, normalisiert diese Methode auch die Zeichen der Text-Nodes vollständig. |
-| [RemoveChild](../../aspose.svg.dom/node/removechild/)(Node) | Entfernt den durch oldChild angegebenen untergeordneten Knoten aus der Liste der untergeordneten Elemente und gibt ihn zurück. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, IEventListener) | Diese Methode ermöglicht das Entfernen von Ereignis-Listenern aus dem Ereignisziel. Wenn an[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wird aus einem entfernt[`EventTarget`](../eventtarget/) während es ein Ereignis verarbeitet, wird es nicht durch die aktuellen Aktionen ausgelöst. Ereignis-Listener können nie aufgerufen werden, nachdem sie entfernt wurden. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, DOMEventHandler, bool) | Diese Methode ermöglicht das Entfernen von Ereignis-Listenern aus dem Ereignisziel. Wenn an[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wird aus einem entfernt[`EventTarget`](../eventtarget/) während es ein Ereignis verarbeitet, wird es nicht durch die aktuellen Aktionen ausgelöst. Ereignis-Listener können nie aufgerufen werden, nachdem sie entfernt wurden. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, IEventListener, bool) | Diese Methode ermöglicht das Entfernen von Ereignis-Listenern aus dem Ereignisziel. Wenn an[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wird aus einem entfernt[`EventTarget`](../eventtarget/) während es ein Ereignis verarbeitet, wird es nicht durch die aktuellen Aktionen ausgelöst. Ereignis-Listener können nie aufgerufen werden, nachdem sie entfernt wurden. |
-| [ReplaceChild](../../aspose.svg.dom/node/replacechild/)(Node, Node) | Ersetzt den untergeordneten Knoten oldChild durch newChild in der Liste der untergeordneten Elemente und gibt den oldChild-Knoten zurück. Wenn newChild ein DocumentFragment-Objekt ist, wird oldChild durch alle DocumentFragment-Kinder ersetzt, die in derselben Reihenfolge eingefügt werden. Wenn das newChild bereits im Baum vorhanden ist, wird es zuerst entfernt. |
-| virtual [ReplaceData](../../aspose.svg.dom/characterdata/replacedata/)(int, int, string) | Ersetzt die Zeichen ab dem angegebenen 16-Bit-Einheiten-Offset durch die angegebene Zeichenfolge. |
-| [ReplaceWholeText](../../aspose.svg.dom/text/replacewholetext/)(string) | Ersetzt den Text des aktuellen Knotens und aller logisch angrenzenden Textknoten durch den angegebenen Text. Alle logisch benachbarten Textknoten werden entfernt, einschließlich des aktuellen Knotens, es sei denn, er war der Empfänger des Ersetzungstexts. |
-| [SplitText](../../aspose.svg.dom/text/splittext/)(int) | Unterteilt diesen Knoten am angegebenen Offset in zwei Knoten, wobei beide als Geschwister im Baum verbleiben. |
-| virtual [SubstringData](../../aspose.svg.dom/characterdata/substringdata/)(int, int) | Extrahiert eine Reihe von Daten aus dem Knoten. |
-| override [ToString](../../aspose.svg.dom/characterdata/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/)*) | Richtet eine Funktion ein, die immer dann aufgerufen wird, wenn das angegebene Ereignis an das Ziel übermittelt wird. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [DOMEventHandler](../../aspose.svg.dom.events/domeventhandler/), bool*) | Richtet eine Funktion ein, die immer dann aufgerufen wird, wenn das angegebene Ereignis an das Ziel übermittelt wird. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/), bool*) | Richtet eine Funktion ein, die immer dann aufgerufen wird, wenn das angegebene Ereignis an das Ziel übermittelt wird. |
+| [AppendChild](../../aspose.svg.dom/node/appendchild/)(*[Node](../node/)*) | Fügt einen Knoten am Ende der Kindliste eines angegebenen Elternknotens hinzu. Wenn das angegebene Kind eine Referenz zu einem bereits im Dokument vorhandenen Knoten ist, verschiebt [`AppendChild`](../node/appendchild/) ihn von seiner aktuellen Position in die neue Position (es ist nicht erforderlich, den Knoten vor dem Anhängen an einen anderen Knoten aus seinem Elternknoten zu entfernen). |
+| virtual [AppendData](../../aspose.svg.dom/characterdata/appenddata/)(*string*) | Hängt die Zeichenkette an das Ende der character data des Knotens an. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode/)() | Gibt ein Duplikat des Knotens zurück, auf dem diese Methode aufgerufen wurde. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode/)(*bool*) | Gibt ein Duplikat des Knotens zurück, auf dem diese Methode aufgerufen wurde. Sein Parameter steuert, ob der im Knoten enthaltene Teilbaum ebenfalls geklont wird oder nicht. |
+| virtual [DeleteData](../../aspose.svg.dom/characterdata/deletedata/)(*int, int*) | Entfernt einen Bereich von 16‑Bit‑Einheiten aus dem Knoten. |
+| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(*[Event](../../aspose.svg.dom.events/event/)*) | Sendet ein Event an das angegebene [`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/), (synchron) und ruft die betroffenen EventListeners in der richtigen Reihenfolge auf. Die normalen Ereignisverarbeitungsregeln (einschließlich der Capture‑ und optionalen Bubbling‑Phase) gelten ebenfalls für manuell mit [`DispatchEvent`](../../aspose.svg.dom.events/ieventtarget/dispatchevent/) gesendete Events. |
+| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Führt anwendungsspezifische Aufgaben aus, die mit dem Freigeben, Freisetzen oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
+| [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | Gibt einen booleschen Wert zurück, der angibt, ob der angegebene [`Node`](../node/) Kindknoten hat oder nicht. |
+| [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(*[Node](../node/), [Node](../node/)*) | Fügt den Knoten vor dem vorhandenen Kindknoten child ein. Wenn child null ist, wird der Knoten am Ende der Kindliste eingefügt. Wenn child ein DocumentFragment-Objekt ist, werden all seine Kinder in derselben Reihenfolge vor child eingefügt. Wenn das Kind bereits im Baum ist, wird es zuerst entfernt. |
+| virtual [InsertData](../../aspose.svg.dom/characterdata/insertdata/)(*int, string*) | Fügen Sie eine Zeichenkette an dem angegebenen 16‑Bit‑Einheiten‑Offset ein. |
+| [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(*string*) | Diese Methode prüft, ob das angegebene namespaceURI der Standardsnamensraum ist oder nicht. |
+| [IsEqualNode](../../aspose.svg.dom/node/isequalnode/)(*[Node](../node/)*) | Testet, ob zwei Knoten gleich sind. Diese Methode prüft die Gleichheit von Knoten, nicht die Identität (d. h., ob die beiden Knoten Referenzen auf dasselbe Objekt sind), was mit Node.isSameNode() getestet werden kann. Alle Knoten, die identisch sind, sind auch gleich, obwohl das Gegenteil nicht unbedingt zutrifft. |
+| [IsSameNode](../../aspose.svg.dom/node/issamenode/)(*[Node](../node/)*) | Die Methode ist ein veralteter Alias für den strikten Gleichheitsoperator ===. Das heißt, sie prüft, ob zwei Knoten identisch sind (mit anderen Worten, ob sie auf dasselbe Objekt verweisen). |
+| [LookupNamespaceURI](../../aspose.svg.dom/node/lookupnamespaceuri/)(*string*) | Sucht die dem angegebenen Präfix zugeordnete Namespace-URI, beginnend bei diesem Knoten. |
+| [LookupPrefix](../../aspose.svg.dom/node/lookupprefix/)(*string*) | Sucht das dem angegebenen Namespace-URI zugeordnete Präfix, beginnend bei diesem Knoten. Die Deklarationen des Standardnamensraums werden von dieser Methode ignoriert. Siehe Namespace Prefix Lookup für Details zum von dieser Methode verwendeten Algorithmus. |
+| [Normalize](../../aspose.svg.dom/node/normalize/)() | Setzt alle Textknoten in der vollen Tiefe des Unterbaums unterhalb dieses Knotens, einschließlich Attributknoten, in eine "normale" Form, bei der nur die Struktur (z. B. Elemente, Kommentare, Verarbeitungsanweisungen, CDATA-Abschnitte und Entity-Referenzen) Textknoten trennt, d. h. es gibt weder benachbarte Textknoten noch leere Textknoten. Dies kann verwendet werden, um sicherzustellen, dass die DOM-Ansicht eines Dokuments dieselbe ist, als wäre sie gespeichert und erneut geladen worden, und ist nützlich, wenn Operationen (wie XPointer [XPointer]-Nachschlagen), die von einer bestimmten Dokumentbaumstruktur abhängen, verwendet werden sollen. Wenn der Parameter "normalize-characters" des DOMConfiguration-Objekts, das an Node.ownerDocument angehängt ist, true ist, normalisiert diese Methode auch vollständig die Zeichen der Textknoten. |
+| [RemoveChild](../../aspose.svg.dom/node/removechild/)(*[Node](../node/)*) | Entfernt einen Kindknoten aus dem DOM und gibt den entfernten Knoten zurück. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/)*) | Diese Methode ermöglicht das Entfernen von Ereignis‑Listenern vom Ereignis‑Ziel. Wenn ein [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) von einem [`EventTarget`](../eventtarget/) entfernt wird, während es ein Ereignis verarbeitet, wird er nicht durch die aktuellen Aktionen ausgelöst. Ereignis‑Listener können nach ihrer Entfernung niemals aufgerufen werden. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [DOMEventHandler](../../aspose.svg.dom.events/domeventhandler/), bool*) | Diese Methode ermöglicht das Entfernen von Ereignis‑Listenern vom Ereignis‑Ziel. Wenn ein [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) von einem [`EventTarget`](../eventtarget/) entfernt wird, während es ein Ereignis verarbeitet, wird er nicht durch die aktuellen Aktionen ausgelöst. Ereignis‑Listener können nach ihrer Entfernung niemals aufgerufen werden. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/), bool*) | Diese Methode ermöglicht das Entfernen von Ereignis‑Listenern vom Ereignis‑Ziel. Wenn ein [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) von einem [`EventTarget`](../eventtarget/) entfernt wird, während es ein Ereignis verarbeitet, wird er nicht durch die aktuellen Aktionen ausgelöst. Ereignis‑Listener können nach ihrer Entfernung niemals aufgerufen werden. |
+| [ReplaceChild](../../aspose.svg.dom/node/replacechild/)(*[Node](../node/), [Node](../node/)*) | Ersetzt den Kindknoten oldChild durch newChild in der Kindliste und gibt den alten oldChild‑Knoten zurück. Wenn newChild ein DocumentFragment‑Objekt ist, wird oldChild durch alle Kinder des DocumentFragment ersetzt, die in derselben Reihenfolge eingefügt werden. Wenn newChild bereits im Baum ist, wird es zuerst entfernt. |
+| virtual [ReplaceData](../../aspose.svg.dom/characterdata/replacedata/)(*int, int, string*) | Ersetzen Sie die Zeichen, die am angegebenen 16‑Bit‑Einheiten‑Offset beginnen, durch die angegebene Zeichenkette. |
+| [ReplaceWholeText](../../aspose.svg.dom/text/replacewholetext/)(*string*) | Ersetzt den Text des aktuellen Knotens und aller logisch benachbarten Textknoten durch den angegebenen Text. Alle logisch benachbarten Textknoten werden entfernt, einschließlich des aktuellen Knotens, es sei denn, er war Empfänger des Ersetzungstextes. |
+| [SplitText](../../aspose.svg.dom/text/splittext/)(*int*) | Teilt diesen Knoten an dem angegebenen Offset in zwei Knoten, wobei beide als Geschwister im Baum erhalten bleiben. |
+| virtual [SubstringData](../../aspose.svg.dom/characterdata/substringdata/)(*int, int*) | Extrahiert einen Datenbereich aus dem Knoten. |
+| override [ToString](../../aspose.svg.dom/characterdata/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
 * class [CharacterData](../characterdata/)
-* namensraum [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

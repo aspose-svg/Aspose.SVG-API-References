@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathNSResolver
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.XPath.IXPathNSResolver koppel. DieXPathNSResolver SchnittstellenerlaubnisPräfix Zeichenfolgen in den Ausdruck an den richtig gebunden werden sollNamensraumURI Saiten. IXPathEvaluator kann eine Implementierung von konstruierenIXPathNSResolver von einem Knoten oder die Schnittstelle kann von einer beliebigen Anwendung implementiert werden.
+title: "IXPathNSResolver Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.XPath.IXPathNSResolver Schnittstelle. Die XPathNSResolver Schnittstelle erlaubt es, Präfixzeichenketten im Ausdruck korrekt an namespaceURI‑Zeichenketten zu binden. IXPathEvaluator kann eine Implementierung von IXPathNSResolver aus einem Knoten erstellen, oder die Schnittstelle kann von jeder Anwendung implementiert werden."
 type: docs
-weight: 1330
+weight: 3330
 url: /de/net/aspose.svg.dom.xpath/ixpathnsresolver/
 ---
 ## IXPathNSResolver interface
 
-Die`XPathNSResolver` Schnittstellenerlaubnis`Präfix` Zeichenfolgen in den Ausdruck, an den richtig gebunden werden soll`Namensraum-URI` Saiten. [`IXPathEvaluator`](../ixpathevaluator/) kann eine Implementierung von konstruieren`IXPathNSResolver` von einem Knoten, oder die Schnittstelle kann von einer beliebigen Anwendung implementiert werden.
+Die `XPathNSResolver` Schnittstelle erlaubt `prefix`‑Zeichenketten im Ausdruck korrekt an `namespaceURI`‑Zeichenketten zu binden. [`IXPathEvaluator`](../ixpathevaluator/) kann eine Implementierung von `IXPathNSResolver` aus einem Knoten erstellen, oder die Schnittstelle kann von jeder Anwendung implementiert werden.
 
 ```csharp
 public interface IXPathNSResolver
@@ -18,11 +18,9 @@ public interface IXPathNSResolver
 
 | Name | Beschreibung |
 | --- | --- |
-| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(string) | Suchen Sie den Namespace-URI, der dem angegebenen Namespace-Präfix zugeordnet ist. Der XPath-Evaluator darf dies niemals mit a aufrufen`Null` oder leeres -Argument, weil das Ergebnis davon undefiniert ist. |
+| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(*string*) | Sucht die dem angegebenen Namespace‑Präfix zugeordnete Namespace‑URI. Der XPath‑Evaluator darf dies niemals mit einem `null`‑ oder leeren Argument aufrufen, da das Ergebnis undefiniert ist. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

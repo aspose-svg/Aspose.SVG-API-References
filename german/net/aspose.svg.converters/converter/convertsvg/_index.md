@@ -1,736 +1,14 @@
 ---
-title: Converter.ConvertSVG
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Converter methode. SVGQuelle in PDF umwandeln. Ergebnis ist eine PDFDatei.
+title: "Converter.ConvertSVG"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Converter ConvertSVG Methode. Konvertiert ein SVG-Dokument zu XPS. Ergebnis ist eine XPS-Datei."
 type: docs
-weight: 10
+weight: 20
 url: /de/net/aspose.svg.converters/converter/convertsvg/
 ---
-## ConvertSVG(SVGDocument, PdfSaveOptions, string) {#convertsvg_3}
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_5}
 
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| source | SVGDocument | Konvertierungsquelle. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, PdfSaveOptions, string) {#convertsvg_15}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(Url url, PdfSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [Url](../../../aspose.svg/url/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, Configuration, PdfSaveOptions, string) {#convertsvg_9}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [Url](../../../aspose.svg/url/)
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, PdfSaveOptions, string) {#convertsvg_27}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, Configuration, PdfSaveOptions, string) {#convertsvg_21}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    PdfSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, PdfSaveOptions, string) {#convertsvg_39}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, PdfSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, Configuration, PdfSaveOptions, string) {#convertsvg_33}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    PdfSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(SVGDocument, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_2}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(SVGDocument document, PdfSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| document | SVGDocument | Konvertierungsquelle. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_14}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [Url](../../../aspose.svg/url/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_8}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [Url](../../../aspose.svg/url/)
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_26}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(string sourcePath, PdfSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_20}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    PdfSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_38}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, PdfSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| content | String | Inhalt des Quelldokuments. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_32}
-
-SVG-Quelle in PDF umwandeln. Ergebnis ist eine PDF-Datei.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    PdfSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(SVGDocument, ImageSaveOptions, string) {#convertsvg_1}
-
-SVG-Dokument in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| source | SVGDocument | Konvertierungsquelle. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, ImageSaveOptions, string) {#convertsvg_13}
-
-SVG-Dokument in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(Url url, ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [Url](../../../aspose.svg/url/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, Configuration, ImageSaveOptions, string) {#convertsvg_7}
-
-SVG-Dokument in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [Url](../../../aspose.svg/url/)
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, ImageSaveOptions, string) {#convertsvg_25}
-
-SVG-Dokument in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(string sourcePath, ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, Configuration, ImageSaveOptions, string) {#convertsvg_19}
-
-SVG-Dokument in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, ImageSaveOptions, string) {#convertsvg_37}
-
-SVG-Dokument in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, ImageSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, Configuration, ImageSaveOptions, string) {#convertsvg_31}
-
-SVG-Dokument in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
-
-### Siehe auch
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(SVGDocument, ImageSaveOptions, ICreateStreamProvider) {#convertsvg}
-
-SVG-Quelle in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(SVGDocument document, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| document | SVGDocument | Konvertierungsquelle. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_12}
-
-SVG-Quelle in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [Url](../../../aspose.svg/url/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_6}
-
-SVG-Quelle in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [Url](../../../aspose.svg/url/)
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_24}
-
-SVG-Quelle in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(string sourcePath, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_18}
-
-SVG-Quelle in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_36}
-
-SVG-Quelle in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_30}
-
-SVG-Quelle in Bild umwandeln. Ergebnis ist Bilddatei.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
-| options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
-
-### Siehe auch
-
-* class [Configuration](../../../aspose.svg/configuration/)
-* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
-* class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## ConvertSVG(SVGDocument, XpsSaveOptions, string) {#convertsvg_5}
-
-SVG-Dokument in xps konvertieren. Ergebnis ist xps-Datei.
+Konvertiert ein SVG-Dokument in XPS.Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string outputPath)
@@ -738,23 +16,23 @@ public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| source | SVGDocument | Konvertierungsquelle. |
+| Quelle | SVGDocument | Konvertierungsquelle. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
+| outputPath | String | Ausgabedateipfad. |
 
 ### Siehe auch
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(Url, XpsSaveOptions, string) {#convertsvg_17}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_17}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath)
@@ -762,23 +40,23 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| url | Url | Quelldokument-URL. |
+| URL | URL | Quell-Dokument-URL. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
+| outputPath | String | Ausgabedateipfad. |
 
 ### Siehe auch
 
 * class [Url](../../../aspose.svg/url/)
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(Url, Configuration, XpsSaveOptions, string) {#convertsvg_11}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_11}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
@@ -787,10 +65,10 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| url | Url | Quelldokument-URL. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
+| URL | URL | Quell-Dokument-URL. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
+| outputPath | String | Ausgabedateipfad. |
 
 ### Siehe auch
 
@@ -798,14 +76,14 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 * class [Configuration](../../../aspose.svg/configuration/)
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(string, XpsSaveOptions, string) {#convertsvg_29}
+## ConvertSVG(*string, [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_29}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string outputPath)
@@ -813,22 +91,22 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
+| outputPath | String | Ausgabedateipfad. |
 
 ### Siehe auch
 
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(string, Configuration, XpsSaveOptions, string) {#convertsvg_23}
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_23}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, Configuration configuration, 
@@ -837,24 +115,24 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
+| outputPath | String | Ausgabedateipfad. |
 
 ### Siehe auch
 
 * class [Configuration](../../../aspose.svg/configuration/)
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(string, string, XpsSaveOptions, string) {#convertsvg_41}
+## ConvertSVG(*string, string, [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_41}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
@@ -863,23 +141,23 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
+| outputPath | String | Ausgabedateipfad. |
 
 ### Siehe auch
 
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(string, string, Configuration, XpsSaveOptions, string) {#convertsvg_35}
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), string*) {#convertsvg_35}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
@@ -888,25 +166,25 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| outputPath | String | Pfad der Ausgabedatei. |
+| outputPath | String | Ausgabedateipfad. |
 
 ### Siehe auch
 
 * class [Configuration](../../../aspose.svg/configuration/)
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_4}
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_4}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(SVGDocument document, XpsSaveOptions options, 
@@ -917,7 +195,7 @@ public static void ConvertSVG(SVGDocument document, XpsSaveOptions options,
 | --- | --- | --- |
 | document | SVGDocument | Konvertierungsquelle. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
 
 ### Siehe auch
 
@@ -925,14 +203,14 @@ public static void ConvertSVG(SVGDocument document, XpsSaveOptions options,
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(Url, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_16}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_16}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProvider provider)
@@ -940,9 +218,9 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProv
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| url | Url | Die Dokument-URL. |
+| URL | URL | Die Dokument-URL. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
 
 ### Siehe auch
 
@@ -950,14 +228,14 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProv
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_10}
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_10}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
@@ -966,10 +244,10 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| url | Url | Die Dokument-URL. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
+| URL | URL | Die Dokument-URL. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
 
 ### Siehe auch
 
@@ -978,14 +256,14 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_28}
+## ConvertSVG(*string, [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_28}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, XpsSaveOptions options, 
@@ -994,23 +272,23 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
 
 ### Siehe auch
 
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_22}
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_22}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, Configuration configuration, 
@@ -1019,10 +297,10 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sourcePath | String | Quellpfad der SVG-Datei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
 
 ### Siehe auch
 
@@ -1030,14 +308,14 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(string, string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_40}
+## ConvertSVG(*string, string, [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_40}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
@@ -1046,24 +324,24 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
 
 ### Siehe auch
 
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ConvertSVG(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_34}
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_34}
 
-SVG-Quelle in xps umwandeln. Das Ergebnis ist eine xps-Datei.
+Konvertiert SVG-Quelle in XPS. Ergebnis ist eine XPS-Datei.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
@@ -1072,11 +350,11 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | String | Inline-String-Svg-Inhalt. |
-| baseUri | String | Der Basis-URI des Dokuments. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
-| configuration | Configuration | Die Umgebungskonfiguration. |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
 
 ### Siehe auch
 
@@ -1084,7 +362,727 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 * class [XpsSaveOptions](../../../aspose.svg.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [Converter](../)
-* namensraum [Aspose.Svg.Converters](../../converter/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
 
+---
 
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_3}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Quelle | SVGDocument | Konvertierungsquelle. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [SVGDocument](../../../aspose.svg/svgdocument/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_15}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(Url url, PdfSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| URL | URL | Die Dokument-URL. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_9}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| URL | URL | Die Dokument-URL. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url/)
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_27}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_21}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    PdfSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, string, [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_39}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, PdfSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), string*) {#convertsvg_33}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    PdfSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_2}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(SVGDocument document, PdfSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| document | SVGDocument | Konvertierungsquelle. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [SVGDocument](../../../aspose.svg/svgdocument/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_14}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| URL | URL | Die Dokument-URL. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_8}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| URL | URL | Die Dokument-URL. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url/)
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_26}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(string sourcePath, PdfSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_20}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    PdfSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, string, [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_38}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, PdfSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Inhalt | String | Inhalt des Quelldokuments. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_32}
+
+Konvertiert SVG-Quelle in PDF. Ergebnis ist eine PDF-Datei.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    PdfSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | PdfSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [PdfSaveOptions](../../../aspose.svg.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_1}
+
+Konvertiert ein SVG-Dokument in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Quelle | SVGDocument | Konvertierungsquelle. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [SVGDocument](../../../aspose.svg/svgdocument/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_13}
+
+Konvertiert ein SVG-Dokument in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(Url url, ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| URL | URL | Die Dokument-URL. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_7}
+
+Konvertiert ein SVG-Dokument in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| URL | URL | Die Dokument-URL. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url/)
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_25}
+
+Konvertiert ein SVG-Dokument in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(string sourcePath, ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_19}
+
+Konvertiert ein SVG-Dokument in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, string, [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_37}
+
+Konvertiert ein SVG-Dokument in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, ImageSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), string*) {#convertsvg_31}
+
+Konvertiert ein SVG-Dokument in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| outputPath | String | Ausgabedateipfad. |
+
+### Siehe auch
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[SVGDocument](../../../aspose.svg/svgdocument/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg}
+
+Konvertiert SVG-Quelle in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(SVGDocument document, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| document | SVGDocument | Konvertierungsquelle. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [SVGDocument](../../../aspose.svg/svgdocument/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_12}
+
+Konvertiert SVG-Quelle in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| URL | URL | Die Dokument-URL. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.svg/url/), [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_6}
+
+Konvertiert SVG-Quelle in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| URL | URL | Die Dokument-URL. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url/)
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_24}
+
+Konvertiert SVG-Quelle in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(string sourcePath, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_18}
+
+Konvertiert SVG-Quelle in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| sourcePath | String | Svg-Dateiquellpfad. Er wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, string, [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_36}
+
+Konvertiert SVG-Quelle in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## ConvertSVG(*string, string, [Configuration](../../../aspose.svg/configuration/), [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#convertsvg_30}
+
+Konvertiert SVG-Quelle in ein Bild. Ergebnis ist eine Bilddatei.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Inhalt | String | Inline-String SVG-Inhalt. |
+| baseUri | String | Die Basis-URI des Dokuments. Sie wird mit dem aktuellen Verzeichnispfad kombiniert, um eine absolute URL zu bilden. |
+| Konfiguration | Konfiguration | Die Umgebungskonfiguration. |
+| options | ImageSaveOptions | Konvertierungsoptionen. |
+| provider | ICreateStreamProvider | Implementierung des [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) Interfaces, das verwendet wird, um einen Ausgabestream zu erhalten. |
+
+### Siehe auch
+
+* class [Configuration](../../../aspose.svg/configuration/)
+* class [ImageSaveOptions](../../../aspose.svg.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Svg.Converters](../../../aspose.svg.converters/)
+* assembly [Aspose.SVG](../../../)

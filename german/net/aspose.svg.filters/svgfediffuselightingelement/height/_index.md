@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.Height
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEDiffuseLightingElement eigendom. Entspricht dem Attribut Höhe des angegebenen FilterElements.
+title: "SVGFEDiffuseLightingElement.Height"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEDiffuseLightingElement Height-Eigenschaft. Entspricht dem Attribut height im angegebenen filter-Element"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.filters/svgfediffuselightingelement/height/
 ---
 ## SVGFEDiffuseLightingElement.Height property
 
-Entspricht dem Attribut „Höhe“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘height’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Höhe“ des angegebenen „Filter“-Elements.
+Das Attribut ‘height’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDiffuseLightingElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

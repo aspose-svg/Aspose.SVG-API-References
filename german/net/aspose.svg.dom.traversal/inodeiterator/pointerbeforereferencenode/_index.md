@@ -1,27 +1,25 @@
 ---
-title: INodeIterator.PointerBeforeReferenceNode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: INodeIterator eigendom. Der Wert dieses Flags bestimmt ob die untergeordneten Referenzknoten von entity für den Iterator sichtbar sind. Wenn falsch werden sie und ihre Nachkommen zurückgewiesen. Beachten Sie dass diese Ablehnung Vorrang vor whatToShow und dem Filter hat. Beachten Sie auch  dass dies derzeit die einzige Situation ist in der NodeIterators einen vollständigen Teilbaum ablehnen können anstatt einzelne Knoten zu überspringen. Um eine Ansicht des Dokuments zu erstellen die Entitätsreferenzen erweitert hat und den Entitätsreferenzknoten selbst nicht verfügbar macht verwenden Sie die whatToShowFlags für Blenden Sie die Entitätsreferenz node aus und setzen Sie expandEntityReferences auf true wenn Sie den Iterator erstellen. Um eine Ansicht des Dokuments zu erstellen das Entitätsreferenz Knoten aber keine Entitätserweiterung enthält verwenden Sie whatToShow flags  um den Entitätsreferenzknoten anzuzeigen und setzen Sie expandEntityReferences auf false.
+title: "INodeIterator.PointerBeforeReferenceNode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "INodeIterator PointerBeforeReferenceNode-Eigenschaft. Der Wert dieses Flags bestimmt, ob die Kinder von Entity-Referenzknoten für den Iterator sichtbar sind. Wenn false, werden sie und ihre Nachkommen verworfen. Beachten Sie, dass diese Ablehnung Vorrang vor whatToShow und dem Filter hat. Außerdem ist dies derzeit die einzige Situation, in der NodeIterators einen gesamten Teilbaum ablehnen können, anstatt einzelne Knoten zu überspringen. Um eine Ansicht des Dokuments zu erzeugen, bei der Entity-Referenzen expandiert sind und der Entity-Referenzknoten selbst nicht sichtbar ist, verwenden Sie die whatToShow-Flags, um den Entity-Referenzknoten zu verbergen, und setzen Sie expandEntityReferences beim Erzeugen des Iterators auf true. Um eine Ansicht zu erzeugen, bei der Entity-Referenzknoten vorhanden sind, aber keine Expansion erfolgt, verwenden Sie die whatToShow-Flags, um den Entity-Referenzknoten anzuzeigen, und setzen Sie expandEntityReferences auf false."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode/
 ---
 ## INodeIterator.PointerBeforeReferenceNode property
 
-Der Wert dieses Flags bestimmt, ob die untergeordneten Referenzknoten von entity für den Iterator sichtbar sind. Wenn falsch, werden sie und ihre Nachkommen zurückgewiesen. Beachten Sie, dass diese Ablehnung Vorrang vor whatToShow und dem Filter hat. Beachten Sie auch , dass dies derzeit die einzige Situation ist, in der NodeIterators einen vollständigen Teilbaum ablehnen können, anstatt einzelne Knoten zu überspringen. Um eine Ansicht des Dokuments zu erstellen, die Entitätsreferenzen erweitert hat und den Entitätsreferenzknoten selbst nicht verfügbar macht, verwenden Sie die whatToShow-Flags für Blenden Sie die Entitätsreferenz node aus und setzen Sie expandEntityReferences auf true, wenn Sie den Iterator erstellen. Um eine Ansicht des Dokuments zu erstellen, das Entitätsreferenz -Knoten, aber keine Entitätserweiterung enthält, verwenden Sie whatToShow flags , um den Entitätsreferenzknoten anzuzeigen, und setzen Sie expandEntityReferences auf false.
+Der Wert dieses Flags bestimmt, ob die Kinder von Entity-Reference‑Knoten für den Iterator sichtbar sind. Wenn false, werden sie und ihre Nachkommen abgelehnt. Beachten Sie, dass diese Ablehnung Vorrang vor whatToShow und dem Filter hat. Außerdem ist dies derzeit die einzige Situation, in der NodeIterators einen gesamten Teilbaum ablehnen können, anstatt einzelne Knoten zu überspringen. Um eine Ansicht des Dokuments zu erzeugen, in der Entity-References erweitert sind und der Entity-Reference‑Knoten selbst nicht sichtbar ist, verwenden Sie die whatToShow‑Flags, um den Entity-Reference‑Knoten zu verbergen, und setzen Sie expandEntityReferences beim Erstellen des Iterators auf true. Um eine Ansicht des Dokuments zu erzeugen, die Entity-Reference‑Knoten enthält, aber keine Entity‑Erweiterung, verwenden Sie die whatToShow‑Flags, um den Entity-Reference‑Knoten anzuzeigen, und setzen Sie expandEntityReferences auf false.
 
 ```csharp
 public bool PointerBeforeReferenceNode { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR`if [Entity-Referenzen erweitern]; ansonsten,`FALSCH` .
+`true` wenn [expand entity references]; andernfalls `false`.
 
 ### Siehe auch
 
 * interface [INodeIterator](../)
-* namensraum [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

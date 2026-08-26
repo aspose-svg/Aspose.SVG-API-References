@@ -1,28 +1,26 @@
 ---
-title: SVGFEBlendElement.Result
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEBlendElement eigendom. Entspricht dem Attribut Ergebnis des angegebenen FilterElements.
+title: "SVGFEBlendElement.Result"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEBlendElement Result Eigenschaft. Entspricht dem Attribut result im angegebenen Filterelement"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.filters/svgfeblendelement/result/
 ---
 ## SVGFEBlendElement.Result property
 
-Entspricht dem Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘result’ im angegebenen ‘filter’-Element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Das Attribut ‘result’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEBlendElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeblendelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

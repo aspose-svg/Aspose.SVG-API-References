@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.In1
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEColorMatrixElement eigendom. Entspricht dem Attribut in des angegebenen feColorMatrixElements.
+title: "SVGFEColorMatrixElement.In1"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEColorMatrixElement In1-Eigenschaft. Entspricht dem Attribut in im angegebenen feColorMatrix-Element"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.filters/svgfecolormatrixelement/in1/
 ---
 ## SVGFEColorMatrixElement.In1 property
 
-Entspricht dem Attribut „in“ des angegebenen „feColorMatrix“-Elements.
+Entspricht dem Attribut ‘in’ im angegebenen ‘feColorMatrix’-Element.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'in' des gegebenen 'feColorMatrix'-Elements.
+Das Attribut ‘in’ des angegebenen ‘feColorMatrix’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEColorMatrixElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

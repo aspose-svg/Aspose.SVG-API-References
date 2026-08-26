@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.CharacterSpacing
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GraphicContext eigendom. Setzt oder erhält Zeichenabstand.
+title: "GraphicContext.CharacterSpacing"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GraphicContext CharacterSpacing-Eigenschaft. Legt den Zeichenabstand fest oder gibt ihn zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.rendering/graphiccontext/characterspacing/
 ---
 ## GraphicContext.CharacterSpacing property
 
-Setzt oder erhält Zeichenabstand.
+Setzt oder liest den Zeichenabstand.
 
 ```csharp
 public virtual float CharacterSpacing { get; set; }
@@ -17,7 +17,5 @@ public virtual float CharacterSpacing { get; set; }
 ### Siehe auch
 
 * class [GraphicContext](../)
-* namensraum [Aspose.Svg.Rendering](../../graphiccontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

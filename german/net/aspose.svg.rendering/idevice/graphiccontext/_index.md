@@ -1,14 +1,14 @@
 ---
-title: IDevice.GraphicContext
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDevice eigendom. Ruft den grafischen Kontext ab.
+title: "IDevice.GraphicContext"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDevice GraphicContext-Eigenschaft. Gibt den Grafik-Kontext zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.rendering/idevice/graphiccontext/
 ---
 ## IDevice.GraphicContext property
 
-Ruft den grafischen Kontext ab.
+Ermittelt den Grafik‑Kontext.
 
 ```csharp
 public GraphicContext GraphicContext { get; }
@@ -18,7 +18,5 @@ public GraphicContext GraphicContext { get; }
 
 * class [GraphicContext](../../graphiccontext/)
 * interface [IDevice](../)
-* namensraum [Aspose.Svg.Rendering](../../idevice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Margin.Margin
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Margin constructeur. Initialisiert eine neue Instanz vonMargin Klasse.
+title: "Margin"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Margin-Konstruktor. Erstellt eine neue Instanz der Margin-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
 
-Initialisiert eine neue Instanz von[`Margin`](../) Klasse.
+Erstellt eine neue Instanz der [`Margin`](../)-Klasse.
 
 ```csharp
 public Margin()
@@ -17,14 +17,14 @@ public Margin()
 ### Siehe auch
 
 * class [Margin](../)
-* namensraum [Aspose.Svg.Drawing](../../margin/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int) {#constructor_3}
+## Margin(*int*) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`Margin`](../) Klasse.
+Erstellt eine neue Instanz der [`Margin`](../)-Klasse.
 
 ```csharp
 public Margin(int anyMargin)
@@ -32,19 +32,19 @@ public Margin(int anyMargin)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| anyMargin | Int32 | Jede Randgröße. |
+| anyMargin | Int32 | Beliebige Randgröße. |
 
 ### Siehe auch
 
 * class [Margin](../)
-* namensraum [Aspose.Svg.Drawing](../../margin/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length) {#constructor_1}
+## Margin(*[Length](../../length/)*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`Margin`](../) Klasse.
+Erstellt eine neue Instanz der [`Margin`](../)-Klasse.
 
 ```csharp
 public Margin(Length anyMargin)
@@ -52,20 +52,20 @@ public Margin(Length anyMargin)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| anyMargin | Length | Jede Randgröße. |
+| anyMargin | Length | Beliebige Randgröße. |
 
 ### Siehe auch
 
 * class [Length](../../length/)
 * class [Margin](../)
-* namensraum [Aspose.Svg.Drawing](../../margin/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int, int, int, int) {#constructor_4}
+## Margin(*int, int, int, int*) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`Margin`](../) Klasse.
+Erstellt eine neue Instanz der [`Margin`](../)-Klasse.
 
 ```csharp
 public Margin(int left, int top, int right, int bottom)
@@ -73,22 +73,22 @@ public Margin(int left, int top, int right, int bottom)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| left | Int32 | Die linke Größe. |
-| top | Int32 | Die Spitzengröße. |
-| right | Int32 | Die richtige Größe. |
-| bottom | Int32 | Die untere Größe. |
+| links | Int32 | Die linke Größe. |
+| top | Int32 | Die obere Größe. |
+| rechts | Int32 | Die richtige Größe. |
+| unten | Int32 | Die untere Größe. |
 
 ### Siehe auch
 
 * class [Margin](../)
-* namensraum [Aspose.Svg.Drawing](../../margin/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length, Length, Length, Length) {#constructor_2}
+## Margin(*[Length](../../length/), [Length](../../length/), [Length](../../length/), [Length](../../length/)*) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`Margin`](../) Klasse.
+Erstellt eine neue Instanz der [`Margin`](../)-Klasse.
 
 ```csharp
 public Margin(Length left, Length top, Length right, Length bottom)
@@ -96,16 +96,14 @@ public Margin(Length left, Length top, Length right, Length bottom)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| left | Length | Die linke Größe. |
-| top | Length | Die Spitzengröße. |
-| right | Length | Die richtige Größe. |
-| bottom | Length | Die untere Größe. |
+| links | Length | Die linke Größe. |
+| top | Length | Die obere Größe. |
+| rechts | Length | Die richtige Größe. |
+| unten | Length | Die untere Größe. |
 
 ### Siehe auch
 
 * class [Length](../../length/)
 * class [Margin](../)
-* namensraum [Aspose.Svg.Drawing](../../margin/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

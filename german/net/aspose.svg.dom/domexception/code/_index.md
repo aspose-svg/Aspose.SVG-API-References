@@ -1,27 +1,25 @@
 ---
-title: DOMException.Code
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMException eigendom. Gibt einen Wert zurück der eine der Fehlercodekonstanten enthält oder 0 wenn keine übereinstimmen. Dieses Feld wird aus historischen Gründen verwendet.
+title: "DOMException.Code"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMException Code Eigenschaft. Gibt einen Wert zurück, der einen der Fehlercode-Konstanten enthält oder 0, wenn keiner passt. Dieses Feld wird aus historischen Gründen verwendet"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom/domexception/code/
 ---
 ## DOMException.Code property
 
-Gibt einen Wert zurück, der eine der Fehlercodekonstanten enthält, oder 0, wenn keine übereinstimmen. Dieses Feld wird aus historischen Gründen verwendet.
+Gibt einen Wert zurück, der eine der Fehlercode‑Konstanten enthält, oder 0, wenn keine zutrifft. Dieses Feld wird aus historischen Gründen verwendet.
 
 ```csharp
 public ushort Code { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Gibt den Fehlercode zurück.
 
 ### Siehe auch
 
 * class [DOMException](../)
-* namensraum [Aspose.Svg.Dom](../../domexception/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

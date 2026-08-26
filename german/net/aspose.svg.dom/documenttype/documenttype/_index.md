@@ -1,14 +1,14 @@
 ---
-title: DocumentType.DocumentType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DocumentType constructeur. Initialisiert eine neue Instanz vonDocumentType Klasse.
+title: "DocumentType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DocumentType-Konstruktor. Initialisiert eine neue Instanz der DocumentType-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
 
-Initialisiert eine neue Instanz von[`DocumentType`](../) Klasse.
+Initialisiert eine neue Instanz der [`DocumentType`](../)-Klasse.
 
 ```csharp
 public DocumentType(string name, string publicId, string systemId, string internalSubset, 
@@ -20,14 +20,12 @@ public DocumentType(string name, string publicId, string systemId, string intern
 | name | String | Der Entitätsname. |
 | publicId | String | Die öffentliche ID. |
 | systemId | String | Die System-ID. |
-| internalSubset | String | Die interne Teilmenge. |
-| doc | Document | Das Dokument. |
+| internalSubset | String | Das interne Subset. |
+| Dokument | Document | Das Dokument. |
 
 ### Siehe auch
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* namensraum [Aspose.Svg.Dom](../../documenttype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnVolumeChange
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft Ereignishandler für das OnVolumeChangeEreignis ab oder legt es fest.
+title: "Document.OnVolumeChange"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnVolumeChange-Ereignis. Ruft den Ereignishandler für das OnVolumeChange-Ereignis ab oder legt ihn fest"
 type: docs
 weight: 770
 url: /de/net/aspose.svg.dom/document/onvolumechange/
 ---
 ## Document.OnVolumeChange event
 
-Ruft Ereignishandler für das OnVolumeChange-Ereignis ab oder legt es fest.
+Liest oder setzt den Ereignishandler für das OnVolumeChange-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnVolumeChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnVolumeChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

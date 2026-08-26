@@ -1,14 +1,14 @@
 ---
-title: Enum ResourceHandling
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Saving.ResourceHandling opsomming. Diese Aufzählung repräsentiert Ressourcenhandhabungsoptionen.
+title: "ResourceHandling Enum"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Saving.ResourceHandling‑Enum. Dieses Enum stellt Optionen zur Ressourcenverwaltung dar."
 type: docs
-weight: 3640
+weight: 5740
 url: /de/net/aspose.svg.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration
 
-Diese Aufzählung repräsentiert Ressourcenhandhabungsoptionen.
+Dieses Enum stellt Optionen zur Ressourcenverarbeitung dar.
 
 ```csharp
 public enum ResourceHandling
@@ -19,13 +19,11 @@ public enum ResourceHandling
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | Save | `0` | Ressource wird als Datei gespeichert. |
-| Embed | `1` | Ressource wird in Eigentümer eingebettet. |
+| Embed | `1` | Ressource wird in den Besitzer eingebettet. |
 | Discard | `2` | Ressource wird verworfen. |
 | Ignore | `3` | Ressource wird nicht gespeichert. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

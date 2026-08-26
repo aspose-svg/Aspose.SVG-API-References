@@ -1,14 +1,14 @@
 ---
-title: Document.CreateProcessingInstruction
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document methode. Erstellt einen ProcessingInstructionKnoten mit dem angegebenen Namen und den angegebenen Datenstrings.
+title: "Document.CreateProcessingInstruction"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document CreateProcessingInstruction‑Methode. Erstellt einen ProcessingInstruction‑Knoten mit dem angegebenen Namen und den Daten‑Strings."
 type: docs
 weight: 920
 url: /de/net/aspose.svg.dom/document/createprocessinginstruction/
 ---
 ## Document.CreateProcessingInstruction method
 
-Erstellt einen ProcessingInstruction-Knoten mit dem angegebenen Namen und den angegebenen Datenstrings.
+Erstellt einen ProcessingInstruction‑Knoten mit dem angegebenen Namen und den Daten‑Strings.
 
 ```csharp
 public ProcessingInstruction CreateProcessingInstruction(string target, string data)
@@ -21,13 +21,11 @@ public ProcessingInstruction CreateProcessingInstruction(string target, string d
 
 ### Rückgabewert
 
-Die[`ProcessingInstruction`](../../processinginstruction/) .
+Das [`ProcessingInstruction`](../../processinginstruction/).
 
 ### Siehe auch
 
 * class [ProcessingInstruction](../../processinginstruction/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

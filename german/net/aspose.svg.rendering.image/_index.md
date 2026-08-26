@@ -1,25 +1,23 @@
 ---
-title: Aspose.Svg.Rendering.Image
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Die Aspose.Svg.Rendering.Image Namespace bietet spezifische Geräteklasse sowie einige RenderingOptionen Klassen die für das Rendern in Rasterformate verantwortlich sind jpeg png bmp gif tiff.
+title: "Aspose.Svg.Rendering.Image"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Der Aspose.Svg.Rendering.Image‑Namespace stellt eine spezifische Geräteklasse sowie einige Rendering‑Optionen‑Klassen bereit, die für das Rendern in Rasterformate jpeg, png, bmp, gif, tiff verantwortlich sind."
 type: docs
-weight: 260
+weight: 280
 url: /de/net/aspose.svg.rendering.image/
 ---
-Die **Aspose.Svg.Rendering.Image** Namespace bietet spezifische Geräteklasse sowie einige Rendering-Optionen Klassen, die für das Rendern in Rasterformate verantwortlich sind: jpeg, png, bmp, gif, tiff.
+Der **Aspose.Svg.Rendering.Image** Namespace stellt eine spezifische Geräteklasse sowie einige Rendering‑Optionen‑Klassen bereit, die für das Rendern in Rasterformate verantwortlich sind: jpeg, png, bmp, gif, tiff.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
 | [ImageDevice](./imagedevice/) | Stellt das Rendern in Rasterformate dar: jpeg, png, bmp, gif, tiff. |
-| [ImageRenderingOptions](./imagerenderingoptions/) | Repräsentiert Rendering-Optionen für[`ImageDevice`](../aspose.svg.rendering.image/imagedevice/) . Diese Option wird verwendet, um das Ausgabebildformat, die Komprimierung, die Auflösung usw. festzulegen. |
-| [TextOptions](./textoptions/) | Repräsentiert Textwiedergabeoptionen für[`ImageDevice`](../aspose.svg.rendering.image/imagedevice/) . |
+| [ImageRenderingOptions](./imagerenderingoptions/) | Stellt Rendering‑Optionen für [`ImageDevice`](../aspose.svg.rendering.image/imagedevice/) dar. Diese Optionen werden verwendet, um das Ausgabe‑Bildformat, Kompression, Auflösung usw. festzulegen. |
+| [TextOptions](./textoptions/) | Stellt Text‑Rendering‑Optionen für [`ImageDevice`](../aspose.svg.rendering.image/imagedevice/) dar. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [Compression](./compression/) | Gibt die möglichen Komprimierungsschemata für Bitmap-Bilder im Tagged Image File Format (TIFF) an. |
+| [Compression](./compression/) | Gibt die möglichen Komprimierungsschemata für Tagged Image File Format (TIFF)-Bitmap‑Bilder an. |
 | [ImageFormat](./imageformat/) | Gibt das Dateiformat des Bildes an. |
-
-

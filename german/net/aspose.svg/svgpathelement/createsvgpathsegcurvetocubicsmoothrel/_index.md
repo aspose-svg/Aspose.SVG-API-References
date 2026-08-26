@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothRel
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPathElement methode. Gibt ein eigenständiges übergeordnetes SVGPathSegCurvetoCubicSmoothRelObjekt zurück.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothRel"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicSmoothRel Methode. Gibt ein eigenständiges, elternloses SVGPathSegCurvetoCubicSmoothRel-Objekt zurück."
 type: docs
 weight: 90
 url: /de/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothRel method
 
-Gibt ein eigenständiges, übergeordnetes SVGPathSegCurvetoCubicSmoothRel-Objekt zurück.
+Gibt ein eigenständiges, elternloses SVGPathSegCurvetoCubicSmoothRel-Objekt zurück.
 
 ```csharp
 public SVGPathSegCurvetoCubicSmoothRel CreateSVGPathSegCurvetoCubicSmoothRel(float x, float y, 
@@ -17,20 +17,18 @@ public SVGPathSegCurvetoCubicSmoothRel CreateSVGPathSegCurvetoCubicSmoothRel(flo
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| x | Single | Die relative X-Koordinate für den Endpunkt dieses Pfadsegments. |
-| y | Single | Die relative Y-Koordinate für den Endpunkt dieses Pfadsegments. |
-| x2 | Single | Die relative X-Koordinate für den zweiten Kontrollpunkt. |
-| y2 | Single | Die relative Y-Koordinate für den zweiten Kontrollpunkt. |
+| x | Single | Die relative X‑Koordinate des Endpunkts dieses Pfadsegments. |
+| y | Single | Die relative Y‑Koordinate des Endpunkts dieses Pfadsegments. |
+| x2 | Single | Die relative X‑Koordinate des zweiten Kontrollpunkts. |
+| y2 | Single | Die relative Y‑Koordinate des zweiten Kontrollpunkts. |
 
 ### Rückgabewert
 
-Ein eigenständiges, übergeordnetes SVGPathSegCurvetoCubicSmoothRel-Objekt.
+Ein eigenständiges, elternloses SVGPathSegCurvetoCubicSmoothRel-Objekt.
 
 ### Siehe auch
 
 * class [SVGPathSegCurvetoCubicSmoothRel](../../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/)
 * class [SVGPathElement](../)
-* namensraum [Aspose.Svg](../../svgpathelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

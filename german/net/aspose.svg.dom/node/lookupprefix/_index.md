@@ -1,14 +1,14 @@
 ---
-title: Node.LookupPrefix
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node methode. Suchen Sie das Präfix das dem angegebenen NamespaceURI zugeordnet ist beginnend mit diesem Knoten. Die StandardNamespaceDeklarationen werden von dieser Methode ignoriert. Siehe Namespace Prefix Lookup für Details zum Algorithmus der von dieser Methode verwendet wird.
+title: "Node.LookupPrefix"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node LookupPrefix‑Methode. Sucht das Präfix, das der angegebenen Namespace‑URI ab diesem Knoten zugeordnet ist. Die Standard‑Namespace‑Deklarationen werden von dieser Methode ignoriert. Siehe Namespace‑Prefix‑Lookup für Details zum von dieser Methode verwendeten Algorithmus."
 type: docs
-weight: 270
+weight: 250
 url: /de/net/aspose.svg.dom/node/lookupprefix/
 ---
 ## Node.LookupPrefix method
 
-Suchen Sie das Präfix, das dem angegebenen Namespace-URI zugeordnet ist, beginnend mit diesem Knoten. Die Standard-Namespace-Deklarationen werden von dieser Methode ignoriert. Siehe Namespace Prefix Lookup für Details zum Algorithmus, der von dieser Methode verwendet wird.
+Sucht das dem angegebenen Namespace-URI zugeordnete Präfix, beginnend bei diesem Knoten. Die Deklarationen des Standardnamensraums werden von dieser Methode ignoriert. Siehe Namespace Prefix Lookup für Details zum von dieser Methode verwendeten Algorithmus.
 
 ```csharp
 public string LookupPrefix(string namespaceURI)
@@ -20,12 +20,10 @@ public string LookupPrefix(string namespaceURI)
 
 ### Rückgabewert
 
-Gibt Präfix zurück
+Gibt das Präfix zurück
 
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

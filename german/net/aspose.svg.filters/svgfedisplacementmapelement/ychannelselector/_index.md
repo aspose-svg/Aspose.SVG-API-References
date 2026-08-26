@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.YChannelSelector
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEDisplacementMapElement eigendom. Entspricht dem Attribut yChannelSelector auf dem gegebenen feDisplacementMapElement. Akzeptiert eine der auf dieser Schnittstelle definierten SVG_CHANNEL_Konstanten.
+title: "SVGFEDisplacementMapElement.YChannelSelector"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEDisplacementMapElement YChannelSelector‑Eigenschaft. Entspricht dem Attribut yChannelSelector des angegebenen feDisplacementMap‑Elements. Akzeptiert einen der auf diesem Interface definierten SVG_CHANNEL_‑Konstanten."
 type: docs
 weight: 100
 url: /de/net/aspose.svg.filters/svgfedisplacementmapelement/ychannelselector/
 ---
 ## SVGFEDisplacementMapElement.YChannelSelector property
 
-Entspricht dem Attribut 'yChannelSelector' auf dem gegebenen 'feDisplacementMap'-Element. Akzeptiert eine der auf dieser Schnittstelle definierten SVG_CHANNEL_*-Konstanten.
+Entspricht dem Attribut ‘yChannelSelector’ im angegebenen ‘feDisplacementMap’-Element. Akzeptiert eine der auf diesem Interface definierten SVG_CHANNEL_*‑Konstanten.
 
 ```csharp
 public SVGAnimatedEnumeration YChannelSelector { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'yChannelSelector' des gegebenen 'feDisplacementMap'-Elements.
+Das Attribut ‘yChannelSelector’ des angegebenen ‘feDisplacementMap’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEDisplacementMapElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

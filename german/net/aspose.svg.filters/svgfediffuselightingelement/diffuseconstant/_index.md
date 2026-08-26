@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.DiffuseConstant
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEDiffuseLightingElement eigendom. Entspricht dem Attribut diffuseConstant des angegebenen feDiffuseLightingElements.
+title: "SVGFEDiffuseLightingElement.DiffuseConstant"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEDiffuseLightingElement DiffuseConstant‑Eigenschaft. Entspricht dem Attribut diffuseConstant im angegebenen feDiffuseLighting‑Element"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.filters/svgfediffuselightingelement/diffuseconstant/
 ---
 ## SVGFEDiffuseLightingElement.DiffuseConstant property
 
-Entspricht dem Attribut „diffuseConstant“ des angegebenen „feDiffuseLighting“-Elements.
+Entspricht dem Attribut ‘diffuseConstant’ im angegebenen ‘feDiffuseLighting’-Element.
 
 ```csharp
 public SVGAnimatedNumber DiffuseConstant { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'diffuseConstant' des gegebenen 'feDiffuseLighting'-Elements.
+Das Attribut ‘diffuseConstant’ des angegebenen ‘feDiffuseLighting’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

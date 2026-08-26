@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.Length
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSStyleDeclaration eigendom. Die Anzahl der Eigenschaften die explizit in diesem Deklarationsblock gesetzt wurden. Der Bereich gültiger Indizes reicht von 0 bis einschließlich Länge1.
+title: "ICSSStyleDeclaration.Length"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSStyleDeclaration Length Eigenschaft. Die Anzahl der Eigenschaften, die in diesem Deklarationsblock explizit gesetzt wurden. Der gültige Indexbereich ist von 0 bis length‑1 inklusive."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.css/icssstyledeclaration/length/
 ---
 ## ICSSStyleDeclaration.Length property
 
-Die Anzahl der Eigenschaften, die explizit in diesem Deklarationsblock gesetzt wurden. Der Bereich gültiger Indizes reicht von 0 bis einschließlich Länge-1.
+Die Anzahl der Eigenschaften, die in diesem Deklarationsblock explizit gesetzt wurden. Der gültige Indexbereich ist 0 bis Länge‑1 inklusive.
 
 ```csharp
 public int Length { get; }
@@ -17,7 +17,5 @@ public int Length { get; }
 ### Siehe auch
 
 * interface [ICSSStyleDeclaration](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

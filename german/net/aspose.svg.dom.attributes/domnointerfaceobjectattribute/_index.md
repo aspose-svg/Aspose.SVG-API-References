@@ -1,29 +1,33 @@
 ---
-title: Class DOMNoInterfaceObjectAttribute
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute klas. Wenn das erweiterte Attribut NoInterfaceObject auf einer Schnittstelle erscheint gibt es an dass kein Schnittstellenobjekt für die Schnittstelle in der ECMAScriptBindung vorhanden sein wird.
+title: "DOMNoInterfaceObjectAttribute-Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute-Klasse. Wenn das erweiterte Attribut NoInterfaceObject auf einem Interface erscheint, bedeutet dies, dass für das Interface im ECMAScript-Binding kein Interface-Objekt existiert."
 type: docs
-weight: 400
+weight: 2400
 url: /de/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class
 
-Wenn das erweiterte Attribut [NoInterfaceObject] auf einer Schnittstelle erscheint, gibt es an, dass kein Schnittstellenobjekt für die Schnittstelle in der ECMAScript-Bindung vorhanden sein wird.
+Wenn das erweiterte Attribut [NoInterfaceObject] auf einem Interface erscheint, bedeutet dies, dass für das Interface im ECMAScript-Binding kein Interface-Objekt existieren wird.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNoInterfaceObjectAttribute : Attribute
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | Default_Constructor |
+| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | Der Standard‑Konstruktor. |
+
+## Eigenschaften
+
+| Name | Beschreibung |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

@@ -1,27 +1,25 @@
 ---
-title: CSSValue.CSSValueType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSValue eigendom. Ein Code der den Werttyp definiert.
+title: "CSSValue.CSSValueType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSValue CSSValueType Eigenschaft. Ein Code, der den Typ des Wertes definiert."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.css/cssvalue/cssvaluetype/
 ---
 ## CSSValue.CSSValueType property
 
-Ein Code, der den Werttyp definiert.
+Ein Code, der den Typ des Werts definiert.
 
 ```csharp
 public ushort CSSValueType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Typ des CSS-Werts.
+Der Typ des CSS-Wertes.
 
 ### Siehe auch
 
 * class [CSSValue](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,57 +1,55 @@
 ---
-title: Class PdfDevice.PdfGraphicContext
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Rendering.Pdf.PdfDevicePdfGraphicContext klas. Enthält aktuelle Grafiksteuerungsparameter für das PdfDevice. Diese Parameter definieren den globalen Rahmen in dem die Grafikoperatoren ausgeführt werden.
+title: "PdfDevice.PdfGraphicContext Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Rendering.Pdf.PdfDevicePdfGraphicContext Klasse. Hält aktuelle Grafiksteuerungsparameter für das PdfDevice. Diese Parameter definieren das globale Rahmenwerk, in dem die Grafikoperatoren ausgeführt werden."
 type: docs
-weight: 2960
+weight: 5030
 url: /de/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext class
 
-Enthält aktuelle Grafiksteuerungsparameter für das PdfDevice. Diese Parameter definieren den globalen Rahmen, in dem die Grafikoperatoren ausgeführt werden.
+Hält aktuelle Grafiksteuerungsparameter für das PdfDevice. Diese Parameter definieren das globale Rahmenwerk, in dem die Grafikoperatoren ausgeführt werden.
 
 ```csharp
 public class PdfGraphicContext : GraphicContext
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PdfGraphicContext](pdfgraphiccontext/)() | Default_Constructor |
+| [PdfGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/.ctor)() | Der Standard‑Konstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Setzt oder erhält Zeichenabstand. |
-| override [FillBrush](../../aspose.svg.rendering.pdf/pdfgraphiccontext/fillbrush/) { get; set; } | Legt das Pinselobjekt fest oder ruft es ab, das verwendet wird, um das Innere von Pfaden zu füllen. |
-| virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Legt das TrueType-Schriftartobjekt fest oder ruft es ab, das zum Rendern von Text verwendet wird. |
-| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Legt die Textschriftgröße fest oder erhält sie. |
-| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle/) { get; set; } | Legt den Textschriftstil fest oder ruft ihn ab. |
-| override [LineCap](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linecap/) { get; set; } | Legt den Code fest oder ruft ihn ab, der die Form der Endpunkte für jeden offenen Pfad angibt, der mit Strichen versehen ist. |
-| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Legt den Phasenoffset des aktuellen Linienstrichmusters fest oder ruft ihn ab. |
-| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Setzt oder ruft die Beschreibung des Strichmusters ab, das verwendet werden soll, wenn Pfade gestrichen werden. |
-| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle/) { get; set; } | Sets von erhält den Stil von gestrichelten Linien eines gestrichenen Pfads. |
-| override [LineJoin](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linejoin/) { get; set; } | Legt den Code fest oder ruft ihn ab, der die Form der Verbindungen zwischen verbundenen Segmenten eines gezeichneten Pfads angibt. |
-| override [LineWidth](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linewidth/) { get; set; } | Setzt oder erhält die Dicke der zu streichenden Pfade. |
-| override [MiterLimit](../../aspose.svg.rendering.pdf/pdfgraphiccontext/miterlimit/) { get; set; } | Setzt oder ermittelt die maximale Länge von gegehrten Linienverbindungen für gestrichene Pfade. Dieser Parameter begrenzt die Länge der "Spitzen", die entstehen, wenn Liniensegmente in scharfen Winkeln zusammenlaufen. |
-| override [StrokeBrush](../../aspose.svg.rendering.pdf/pdfgraphiccontext/strokebrush/) { get; set; } | Legt das Pinselobjekt fest oder ruft es ab, das für Strichpfade verwendet wird. |
-| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo/) { get; } | erhält a[`TextInfo`](../../aspose.svg.rendering/textinfo/) Objekt, das Informationen über gerenderten Text enthält. |
-| override [TransformationMatrix](../../aspose.svg.rendering.pdf/pdfgraphiccontext/transformationmatrix/) { get; set; } | Legt Transformationsmatrix fest oder ruft diese ab. |
+| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Setzt oder liest den Zeichenabstand. |
+| [CurrentElement](../../aspose.svg.rendering/graphiccontext/currentelement/) { get; } | Liest das aktuell verarbeitete Element. |
+| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush/) { get; set; } | Setzt oder liest das Pinselobjekt, das zum Füllen der Innenbereiche von Pfaden verwendet wird. |
+| virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Setzt oder liest das True‑Type‑Schriftobjekt, das zum Rendern von Text verwendet wird. |
+| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Setzt oder liest die Schriftgröße des Textes. |
+| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle/) { get; set; } | Setzt oder liest den Schriftstil des Textes. |
+| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap/) { get; set; } | Setzt oder liest den Code, der die Form der Endpunkte für jeden offenen, gestreckten Pfad festlegt. |
+| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Setzt oder liest den Phasenversatz des aktuellen Strichmusters. |
+| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Setzt oder liest die Beschreibung des Strichmusters, das beim Zeichnen von Pfaden verwendet wird. Kann auf null oder ein leeres Array gesetzt werden, um es zu deaktivieren. |
+| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin/) { get; set; } | Setzt oder liest den Code, der die Form der Verbindungen zwischen verbundenen Segmenten eines gestreckten Pfades festlegt. |
+| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth/) { get; set; } | Setzt oder liest die Dicke der zu zeichnenden Pfade. |
+| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit/) { get; set; } | Setzt oder liest die maximale Länge von Gehrungs‑Linienverbindungen für gestreckte Pfade. Dieser Parameter begrenzt die Länge der \"Spitzen\", die entstehen, wenn Liniensegmente in scharfen Winkeln zusammenlaufen. |
+| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush/) { get; set; } | Setzt oder liest das Pinselobjekt, das für gestreckte Pfade verwendet wird. |
+| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo/) { get; } | Liest ein [`TextInfo`](../../aspose.svg.rendering/textinfo/) Objekt, das Informationen über gerenderten Text enthält. |
+| virtual [TransformationMatrix](../../aspose.svg.rendering/graphiccontext/transformationmatrix/) { get; set; } | Setzt oder liest die Transformationsmatrix. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Clone](../../aspose.svg.rendering.pdf/pdfgraphiccontext/clone/)() | Erstellt eine neue Instanz einer Klasse mit denselben Eigenschaftswerten wie eine vorhandene Instanz. |
-| override [Transform](../../aspose.svg.rendering.pdf/pdfgraphiccontext/transform/)(Matrix) | Ändern Sie die aktuelle Transformationsmatrix, indem Sie die angegebene Matrix multiplizieren. |
+| virtual [Clone](../../aspose.svg.rendering/graphiccontext/clone/)() | Erstellt eine neue Instanz einer GraphicContext‑Klasse mit denselben Eigenschaftswerten wie eine bestehende Instanz. |
+| virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform/)(*[IMatrix](../../aspose.svg.drawing/imatrix/)*) | Modifiziert die aktuelle Transformationsmatrix, indem die angegebene Matrix multipliziert wird. |
 
 ### Siehe auch
 
 * class [GraphicContext](../../aspose.svg.rendering/graphiccontext/)
 * class [PdfDevice](../pdfdevice/)
-* namensraum [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

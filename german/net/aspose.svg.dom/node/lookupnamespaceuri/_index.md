@@ -1,14 +1,14 @@
 ---
-title: Node.LookupNamespaceURI
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node methode. Suchen Sie den NamespaceURI der dem angegebenen Präfix zugeordnet ist beginnend mit diesem Knoten.
+title: "Node.LookupNamespaceURI"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node LookupNamespaceURI-Methode. Sucht die Namespace-URI, die dem angegebenen Präfix ab diesem Knoten zugeordnet ist"
 type: docs
-weight: 260
+weight: 240
 url: /de/net/aspose.svg.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method
 
-Suchen Sie den Namespace-URI, der dem angegebenen Präfix zugeordnet ist, beginnend mit diesem Knoten.
+Sucht die dem angegebenen Präfix zugeordnete Namespace-URI, beginnend bei diesem Knoten.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
@@ -16,16 +16,14 @@ public string LookupNamespaceURI(string prefix)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| prefix | String | Das Präfix. |
+| Präfix | String | Der Präfix. |
 
 ### Rückgabewert
 
-Gibt Namespace-URI zurück
+Gibt die Namespace-URI zurück
 
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,37 @@
 ---
-title: Class RequestHeaders
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.RequestHeaders klas. Enthält Protokollheader die einer Anfrage zugeordnet sind.
+title: "RequestHeaders Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.RequestHeaders Klasse. Enthält Protokoll-Header, die mit einer Anforderung verbunden sind."
 type: docs
-weight: 2410
+weight: 4480
 url: /de/net/aspose.svg.net/requestheaders/
 ---
 ## RequestHeaders class
 
-Enthält Protokollheader, die einer Anfrage zugeordnet sind.
+Enthält Protokoll-Header, die mit einer Anforderung verbunden sind.
 
 ```csharp
 public class RequestHeaders : WebHeaderCollection
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [RequestHeaders](requestheaders/)() | Default_Constructor |
+| [RequestHeaders](requestheaders/)() | Der Standard‑Konstruktor. |
+
+## Eigenschaften
+
+| Name | Beschreibung |
+| --- | --- |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 Indexer) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Net](../../aspose.svg.net/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

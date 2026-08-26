@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Keys
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationObserverInit eigendom. Ruft eine Auflistung ab die die Schlüssel in der enthältMutationObserverInitSammlung.
+title: "MutationObserverInit.Keys"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationObserverInit Keys‑Eigenschaft. Gibt eine Sammlung zurück, die die Schlüssel in der MutationObserverInit‑Sammlung enthält."
 type: docs
 weight: 110
 url: /de/net/aspose.svg.dom.mutations/mutationobserverinit/keys/
 ---
 ## MutationObserverInit.Keys property
 
-Ruft eine Auflistung ab, die die Schlüssel in der enthält[`MutationObserverInit`](../)Sammlung.
+Gibt eine Sammlung zurück, die die Schlüssel in der [`MutationObserverInit`](../)‑Sammlung enthält.
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -21,7 +21,5 @@ Eine Sammlung, die die Schlüssel enthält.
 ### Siehe auch
 
 * class [MutationObserverInit](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizer.Vectorize
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ImageVectorizer methode. Vektorisiert das Rasterbild aus der angegebenen Datei.
+title: "ImageVectorizer.Vectorize"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ImageVectorizer-Vectorize-Methode. Vektorisiert ein Rasterbild aus der angegebenen Datei."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
-## Vectorize(string) {#vectorize_2}
+## Vectorize(*string*) {#vectorize_1}
 
-Vektorisiert das Rasterbild aus der angegebenen Datei.
+Vektorisiert ein Rasterbild aus der angegebenen Datei.
 
 ```csharp
 public SVGDocument Vectorize(string imageFile)
@@ -26,14 +26,14 @@ Das SVG-Dokument.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Vectorize(Stream) {#vectorize_1}
+## Vectorize(*Stream*) {#vectorize}
 
-Vektorisiert das Rasterbild aus dem angegebenen Stream.
+Vektorisiert ein Rasterbild aus dem angegebenen Stream.
 
 ```csharp
 public SVGDocument Vectorize(Stream imageStream)
@@ -41,7 +41,7 @@ public SVGDocument Vectorize(Stream imageStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| imageStream | Stream | Der Stream mit Bild. |
+| imageStream | Strom | Der Stream mit Bild. |
 
 ### Rückgabewert
 
@@ -51,32 +51,5 @@ Das SVG-Dokument.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* Montage [Aspose.SVG](../../../)
-
----
-
-## Vectorize(Bitmap) {#vectorize}
-
-Vektorisiert Bitmap.
-
-```csharp
-public SVGDocument Vectorize(Bitmap image)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| image | Bitmap | Die Bitmap. |
-
-### Rückgabewert
-
-Das SVG-Dokument.
-
-### Siehe auch
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageVectorizer](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

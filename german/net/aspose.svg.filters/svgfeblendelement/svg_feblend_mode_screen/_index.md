@@ -1,7 +1,7 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_SCREEN
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEBlendElement veld. Entspricht dem Wert screen.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_SCREEN"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEBlendElement SVG_FEBLEND_MODE_SCREEN Feld. Entspricht dem Wert screen."
 type: docs
 weight: 230
 url: /de/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_screen/
@@ -17,7 +17,5 @@ public const ushort SVG_FEBLEND_MODE_SCREEN;
 ### Siehe auch
 
 * class [SVGFEBlendElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeblendelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: INetworkOperationContext.Request
-second_title: Aspose.SVG für .NET-API-Referenz
-description: INetworkOperationContext eigendom. Ruft die Anforderungsnachricht ab oder legt sie fest.
+title: "INetworkOperationContext.Request"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "INetworkOperationContext Request Eigenschaft. Ruft die Anforderungsnachricht ab oder legt sie fest"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.net/inetworkoperationcontext/request/
 ---
 ## INetworkOperationContext.Request property
 
-Ruft die Anforderungsnachricht ab oder legt sie fest.
+Liest oder setzt die Anforderungsnachricht.
 
 ```csharp
 public RequestMessage Request { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Anforderungsnachricht.
 
@@ -22,7 +22,5 @@ Die Anforderungsnachricht.
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* namensraum [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

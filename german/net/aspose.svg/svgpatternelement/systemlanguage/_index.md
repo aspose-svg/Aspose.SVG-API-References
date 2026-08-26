@@ -1,20 +1,20 @@
 ---
-title: SVGPatternElement.SystemLanguage
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPatternElement eigendom. Entspricht dem Attribut systemLanguage des angegebenen Elements.
+title: "SVGPatternElement.SystemLanguage"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPatternElement SystemLanguage-Eigenschaft. Entspricht dem Attribut systemLanguage des angegebenen Elements"
 type: docs
 weight: 90
 url: /de/net/aspose.svg/svgpatternelement/systemlanguage/
 ---
 ## SVGPatternElement.SystemLanguage property
 
-Entspricht dem Attribut 'systemLanguage' des angegebenen Elements.
+Entspricht dem Attribut ‘systemLanguage’ des angegebenen Elements.
 
 ```csharp
 public SVGStringList SystemLanguage { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Systemsprache.
 
@@ -22,7 +22,5 @@ Die Systemsprache.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGPatternElement](../)
-* namensraum [Aspose.Svg](../../svgpatternelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

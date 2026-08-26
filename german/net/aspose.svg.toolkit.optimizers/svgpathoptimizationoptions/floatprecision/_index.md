@@ -1,14 +1,14 @@
 ---
-title: SVGPathOptimizationOptions.FloatPrecision
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPathOptimizationOptions eigendom. Ruft die Option zum Runden eines Gleitkommawerts mit FloatGenauigkeit auf eine angegebene Anzahl von Nachkommastellen ab oder legt diese fest. Standardmäßig ist es 3.
+title: "SVGPathOptimizationOptions.FloatPrecision"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPathOptimizationOptions FloatPrecision Eigenschaft. Ruft die Option ab oder legt sie fest, einen Gleitkommawert mit Fließkomma‑Präzision auf eine angegebene Anzahl von Nachkommastellen zu runden. Der Standardwert ist 3."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/
 ---
 ## SVGPathOptimizationOptions.FloatPrecision property
 
-Ruft die Option zum Runden eines Gleitkommawerts mit Float-Genauigkeit auf eine angegebene Anzahl von Nachkommastellen ab oder legt diese fest. Standardmäßig ist es „3“.
+Liest oder setzt die Option, einen Gleitkommawert mit Fließkommapräzision auf eine angegebene Anzahl von Nachkommastellen zu runden. Der Standardwert ist '3'.
 
 ```csharp
 public int FloatPrecision { get; set; }
@@ -17,7 +17,5 @@ public int FloatPrecision { get; set; }
 ### Siehe auch
 
 * class [SVGPathOptimizationOptions](../)
-* namensraum [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

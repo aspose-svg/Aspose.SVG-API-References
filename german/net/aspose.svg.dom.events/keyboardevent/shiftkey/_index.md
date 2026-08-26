@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.ShiftKey
-second_title: Aspose.SVG für .NET-API-Referenz
-description: KeyboardEvent eigendom. wahr wenn der Modifikator der Umschalttaste Shift aktiv war.
+title: "KeyboardEvent.ShiftKey"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "KeyboardEvent ShiftKey property. true, wenn die Shift-Tastenkombination aktiv war."
 type: docs
 weight: 100
 url: /de/net/aspose.svg.dom.events/keyboardevent/shiftkey/
 ---
 ## KeyboardEvent.ShiftKey property
 
-wahr, wenn der Modifikator der Umschalttaste (Shift) aktiv war.
+true, wenn die Shift‑Taste (Shift) aktiv war.
 
 ```csharp
 public bool ShiftKey { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn Verschiebung; ansonsten,`FALSCH` .
+`true` wenn Shift; andernfalls `false`.
 
 ### Siehe auch
 
 * class [KeyboardEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

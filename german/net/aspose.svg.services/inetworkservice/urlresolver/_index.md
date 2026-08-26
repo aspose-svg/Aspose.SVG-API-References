@@ -1,20 +1,20 @@
 ---
-title: INetworkService.UrlResolver
-second_title: Aspose.SVG für .NET-API-Referenz
-description: INetworkService eigendom. Ruft den URLResolver ab oder legt ihn fest.
+title: "INetworkService.UrlResolver"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "INetworkService UrlResolver-Eigenschaft. Gibt den URL-Resolver zurück oder legt ihn fest."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.services/inetworkservice/urlresolver/
 ---
 ## INetworkService.UrlResolver property
 
-Ruft den URL-Resolver ab oder legt ihn fest.
+Liest oder setzt den URL-Auflöser.
 
 ```csharp
 public UrlResolver UrlResolver { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der URL-Resolver.
 
@@ -22,7 +22,5 @@ Der URL-Resolver.
 
 * class [UrlResolver](../../../aspose.svg.net/urlresolver/)
 * interface [INetworkService](../)
-* namensraum [Aspose.Svg.Services](../../inetworkservice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

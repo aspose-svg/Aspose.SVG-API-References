@@ -1,14 +1,14 @@
 ---
-title: Color.FromHwba
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color methode. Gibt eine neue Farbe mit den angeforderten Werten für Farbton Weißgrad und Schwarzwert zurück.
+title: "Color.FromHwba"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color FromHwba Methode. Gibt ein neues Color mit den angeforderten Farbton‑Weiß‑Schwarz‑Werten zurück"
 type: docs
 weight: 100
 url: /de/net/aspose.svg.drawing/color/fromhwba/
 ---
 ## Color.FromHwba method
 
-Gibt eine neue Farbe mit den angeforderten Werten für Farbton, Weißgrad und Schwarzwert zurück.
+Gibt eine neue Color mit den gewünschten Farbton-, Weißheits- und Schwarzheitswerten zurück.
 
 ```csharp
 public static Color FromHwba(float hue, float whiteness, float blackness, float alpha)
@@ -16,19 +16,17 @@ public static Color FromHwba(float hue, float whiteness, float blackness, float 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| hue | Single | Ein Float, der die Farbtonkomponente der Farbe darstellt. |
-| whiteness | Single | Ein Float, der die Weiße-Komponente der Farbe darstellt. |
-| blackness | Single | Ein Float, der die Schwärzekomponente der Farbe darstellt. |
-| alpha | Single | Ein Float, der die Alpha-Komponente der Farbe darstellt. |
+| Farbton | Single | Ein Float, der die Farbtonkomponente der Farbe darstellt. |
+| Weißheit | Single | Ein Float, der die Weißheitskomponente der Farbe darstellt. |
+| Schwarzheit | Single | Ein Float, der die Schwarzheitskomponente der Farbe darstellt. |
+| Alpha | Single | Ein Float, das die Alpha‑Komponente der Farbe darstellt. |
 
 ### Rückgabewert
 
-Eine neue Instanz der[`Color`](../) Klasse
+Eine neue Instanz der [`Color`](../) Klasse
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

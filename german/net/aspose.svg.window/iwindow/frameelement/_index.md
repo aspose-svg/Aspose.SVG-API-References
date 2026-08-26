@@ -1,7 +1,7 @@
 ---
-title: IWindow.FrameElement
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IWindow eigendom. Das frameElementObjekt eines Dokuments.
+title: "IWindow.FrameElement"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IWindow FrameElement-Eigenschaft. Das frameElement-Objekt eines Dokuments"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.window/iwindow/frameelement/
@@ -14,15 +14,13 @@ Das frameElement-Objekt eines Dokuments.
 public Element FrameElement { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Rahmenelement.
+Das Frame-Element.
 
 ### Siehe auch
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IWindow](../)
-* namensraum [Aspose.Svg.Window](../../iwindow/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

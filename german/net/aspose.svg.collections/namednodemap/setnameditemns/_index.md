@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.SetNamedItemNS
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NamedNodeMap methode. Fügt einen Knoten mit seinem NamespaceURI und localName hinzu. Wenn ein Knoten mit diesem NamensraumURI und diesem lokalen Namen bereits in dieser Zuordnung vorhanden ist wird er durch den neuen ersetzt. Das Ersetzen eines Knotens durch sich selbst hat keine Auswirkung.
+title: "NamedNodeMap.SetNamedItemNS"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NamedNodeMap SetNamedItemNS-Methode. Fügt einen Knoten hinzu, indem dessen namespaceURI und localName verwendet werden. Wenn ein Knoten mit dieser Namespace-URI und diesem lokalen Namen bereits in dieser Map vorhanden ist, wird er durch den neuen ersetzt. Das Ersetzen eines Knotens durch sich selbst hat keine Wirkung."
 type: docs
-weight: 90
+weight: 80
 url: /de/net/aspose.svg.collections/namednodemap/setnameditemns/
 ---
 ## NamedNodeMap.SetNamedItemNS method
 
-Fügt einen Knoten mit seinem NamespaceURI und localName hinzu. Wenn ein Knoten mit diesem Namensraum-URI und diesem lokalen Namen bereits in dieser Zuordnung vorhanden ist, wird er durch den neuen ersetzt. Das Ersetzen eines Knotens durch sich selbst hat keine Auswirkung.
+Fügt einen Knoten mithilfe seiner namespaceURI und seines localName hinzu. Wenn bereits ein Knoten mit dieser Namespace-URI und diesem lokalen Namen in dieser Zuordnung vorhanden ist, wird er durch den neuen ersetzt. Das Ersetzen eines Knotens durch sich selbst hat keine Wirkung.
 
 ```csharp
 public Attr SetNamedItemNS(Attr attr)
@@ -20,7 +20,7 @@ public Attr SetNamedItemNS(Attr attr)
 
 ### Rückgabewert
 
-Gibt Knoten zurück.
+Gibt den Knoten zurück.
 
 ### Ausnahmen
 
@@ -32,7 +32,5 @@ Gibt Knoten zurück.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namensraum [Aspose.Svg.Collections](../../namednodemap/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

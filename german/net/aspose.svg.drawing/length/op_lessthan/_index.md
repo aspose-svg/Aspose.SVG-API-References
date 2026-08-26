@@ -1,7 +1,7 @@
 ---
-title: Length.op_LessThan
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Length methode. Implementiert den Operator .
+title: "Length.op_LessThan"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Length op_LessThan Methode. Implementiert den Operator"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.drawing/length/op_lessthan/
@@ -27,13 +27,11 @@ Das Ergebnis des Operators.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Argumente haben verschiedene Typen |
+| ArgumentException | Argumente haben unterschiedliche Typen |
 | ArgumentNullException | Ein Argument ist null |
 
 ### Siehe auch
 
 * class [Length](../)
-* namensraum [Aspose.Svg.Drawing](../../length/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

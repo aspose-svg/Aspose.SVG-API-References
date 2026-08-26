@@ -1,14 +1,14 @@
 ---
-title: Interface IBlob
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.IO.IBlob koppel. Ein BlobObjekt bezieht sich auf eine Bytefolge und hat ein Größenattribut das die Gesamtzahl der Bytes in der Bytefolge ist und ein Typattribut das eine ASCIIcodierte Zeichenfolge in Kleinbuchstaben ist die den Medientyp der Bytefolge darstellt .
+title: "IBlob Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.IO.IBlob Schnittstelle. Ein Blob-Objekt bezieht sich auf eine Byte‑Sequenz und hat ein Größenattribut, das die Gesamtzahl der Bytes in der Byte‑Sequenz angibt, sowie ein Typ‑Attribut, das ein ASCII‑kodierter String in Kleinbuchstaben ist und den Medientyp der Byte‑Sequenz darstellt."
 type: docs
-weight: 1920
+weight: 4030
 url: /de/net/aspose.svg.io/iblob/
 ---
 ## IBlob interface
 
-Ein Blob-Objekt bezieht sich auf eine Bytefolge und hat ein Größenattribut, das die Gesamtzahl der Bytes in der Bytefolge ist, und ein Typattribut, das eine ASCII-codierte Zeichenfolge in Kleinbuchstaben ist, die den Medientyp der Bytefolge darstellt .
+Ein Blob-Objekt bezieht sich auf eine Byte-Sequenz und hat ein Attribut size, das die Gesamtzahl der Bytes in der Sequenz angibt, sowie ein Attribut type, das eine ASCII-kodierte Zeichenkette in Kleinbuchstaben darstellt, die den Medientyp der Byte‑Sequenz repräsentiert.
 
 ```csharp
 public interface IBlob
@@ -18,18 +18,16 @@ public interface IBlob
 
 | Name | Beschreibung |
 | --- | --- |
-| [Size](../../aspose.svg.io/iblob/size/) { get; } | Gibt die Größe der Bytefolge in Bytes zurück. Beim Abrufen müssen konforme Benutzeragenten die Gesamtzahl der Bytes zurückgeben, die von einem FileReader oder FileReaderSync-Objekt gelesen werden können, oder 0, wenn das Blob keine zu lesenden Bytes hat . |
-| [Type](../../aspose.svg.io/iblob/type/) { get; } | Der ASCII-codierte String in Kleinbuchstaben, der den Medientyp des Blobs darstellt. Beim Abrufen müssen Benutzeragenten den Typ eines Blobs als ASCII-codierten String in Kleinbuchstaben zurückgeben, so dass er in ein Byte konvertiert wird Sequenz, es ist ein parsbarer MIME-Typ, oder die leere Zeichenfolge – 0 Bytes – wenn der Typ nicht bestimmt werden kann. |
+| [Size](../../aspose.svg.io/iblob/size/) { get; } | Gibt die Größe der Byte‑Sequenz in Bytes zurück. Beim Abrufen müssen konforme Benutzeragenten die Gesamtzahl der Bytes zurückgeben, die von einem FileReader‑ oder FileReaderSync‑Objekt gelesen werden können, oder 0, wenn der Blob keine zu lesenden Bytes enthält. |
+| [Type](../../aspose.svg.io/iblob/type/) { get; } | Der ASCII‑kodierte String in Kleinbuchstaben, der den Medientyp des Blob darstellt. Beim Abrufen müssen Benutzeragenten den Typ eines Blob als ASCII‑kodierten String in Kleinbuchstaben zurückgeben, sodass er, wenn er in eine Byte‑Sequenz konvertiert wird, ein parsbarer MIME‑Typ ist, oder den leeren String – 0 Bytes – wenn der Typ nicht bestimmt werden kann. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Slice](../../aspose.svg.io/iblob/slice/)(ulong, ulong, string) | Gibt ein neues Blob-Objekt mit Bytes zurück, die vom optionalen Startparameter bis zum optionalen Endparameter (ohne diesen) reichen, und mit einem Typattribut, das dem Wert des optionalen contentType-Parameters entspricht. |
+| [Slice](../../aspose.svg.io/iblob/slice/)(*ulong, ulong, string*) | Gibt ein neues Blob‑Objekt zurück, dessen Bytes vom optionalen Start‑Parameter bis (aber nicht einschließlich) dem optionalen End‑Parameter reichen, und dessen Typ‑Attribut den Wert des optionalen contentType‑Parameters hat. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.IO](../../aspose.svg.io/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

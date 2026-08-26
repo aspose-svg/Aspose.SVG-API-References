@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.StringRepresentation
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GlyphInfo eigendom. Ruft die Zeichenfolgendarstellung dieser Glyphe ab.
+title: "GlyphInfo.StringRepresentation"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GlyphInfo StringRepresentation Eigenschaft. Gibt die Zeichenkettenrepräsentation dieses Glyphs zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
 ---
 ## GlyphInfo.StringRepresentation property
 
-Ruft die Zeichenfolgendarstellung dieser Glyphe ab.
+Ermittelt die Zeichenkettenrepräsentation dieses Glyphs.
 
 ```csharp
 public string StringRepresentation { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-AString das diese Glyphe darstellt.
+Eine Zeichenkette, die dieses Glyph darstellt.
 
 ### Siehe auch
 
 * struct [GlyphInfo](../)
-* namensraum [Aspose.Svg.Rendering](../../glyphinfo/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

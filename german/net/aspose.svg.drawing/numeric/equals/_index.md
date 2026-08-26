@@ -1,14 +1,14 @@
 ---
-title: Numeric.Equals
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Numeric methode. Bestimmt ob die angegebeneUnit  entspricht dieser Instanz.
+title: "Numeric.Equals"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Numeric Equals-Methode. Bestimmt, ob die angegebene Unit dieser Instanz gleich ist."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.drawing/numeric/equals/
 ---
 ## Numeric.Equals method
 
-Bestimmt, ob die angegebene[`Unit`](../../unit/) , entspricht dieser Instanz.
+Bestimmt, ob die angegebene [`Unit`](../../unit/) dieser Instanz gleich ist.
 
 ```csharp
 public override bool Equals(Unit other)
@@ -16,17 +16,15 @@ public override bool Equals(Unit other)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| other | Unit | Der[`Unit`](../../unit/) mit dieser Instanz zu vergleichen. |
+| other | Unit | Die [`Unit`](../../unit/) zum Vergleich mit dieser Instanz. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegeben[`Unit`](../../unit/) ist gleich dieser Instanz; ansonsten,`FALSCH` .
+`true`, wenn die angegebene [`Unit`](../../unit/) dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Unit](../../unit/)
 * class [Numeric](../)
-* namensraum [Aspose.Svg.Drawing](../../numeric/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Orphans
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe die Definition der WaisenEigenschaft in CSS2.
+title: "ICSS2Properties.Orphans"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties Orphans property. Siehe die orphans property Definition in CSS2"
 type: docs
-weight: 740
+weight: 770
 url: /de/net/aspose.svg.dom.css/icss2properties/orphans/
 ---
 ## ICSS2Properties.Orphans property
 
-Siehe die Definition der Waisen-Eigenschaft in CSS2.
+Siehe die Definition der orphans-Eigenschaft in CSS2.
 
 ```csharp
 public string Orphans { get; set; }
@@ -16,12 +16,10 @@ public string Orphans { get; set; }
 
 ### Rückgabewert
 
-Eigentum von Waisenkindern
+orphans property
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

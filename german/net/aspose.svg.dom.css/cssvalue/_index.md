@@ -1,14 +1,14 @@
 ---
-title: Class CSSValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.CSSValue klas. Repräsentiert einen einfachen oder komplexen Wert. Ein CSSValueObjekt kommt nur im Kontext einer CSSEigenschaft vor.
+title: "CSSValue Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.CSSValue Klasse. Stellt einen einfachen oder komplexen Wert dar. Ein CSSValue-Objekt tritt nur im Kontext einer CSS-Eigenschaft auf."
 type: docs
-weight: 490
+weight: 2490
 url: /de/net/aspose.svg.dom.css/cssvalue/
 ---
 ## CSSValue class
 
-Repräsentiert einen einfachen oder komplexen Wert. Ein CSSValue-Objekt kommt nur im Kontext einer CSS-Eigenschaft vor.
+Stellt einen einfachen oder komplexen Wert dar. Ein CSSValue‑Objekt tritt nur im Kontext einer CSS‑Property auf.
 
 ```csharp
 public abstract class CSSValue : DOMObject
@@ -18,17 +18,17 @@ public abstract class CSSValue : DOMObject
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [CSSText](../../aspose.svg.dom.css/cssvalue/csstext/) { get; set; } | Eine Zeichenfolgendarstellung des aktuellen Werts. |
-| [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | Ein Code, der den Werttyp definiert. |
+| abstract [CSSText](../../aspose.svg.dom.css/cssvalue/csstext/) { get; set; } | Die CSSText-Eigenschaft des `CSSValue`-Interfaces stellt den aktuell berechneten CSS-Eigenschaftswert dar. |
+| [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | Ein Code, der den Typ des Werts definiert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(object) | Bestimmt, ob die angegebeneObject ist gleich dieser Instanz. |
-| override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode/)() | Gibt einen Hash-Code für diese Instanz zurück. |
-| override [GetPlatformType](../../aspose.svg.dom.css/cssvalue/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
-| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(*object*) | Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist. |
+| override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode/)() | Gibt einen Hashcode für diese Instanz zurück. |
+| override [GetPlatformType](../../aspose.svg.dom.css/cssvalue/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
+| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 | [operator ==](../../aspose.svg.dom.css/cssvalue/op_equality/) | Implementiert den Operator ==. |
 | [operator !=](../../aspose.svg.dom.css/cssvalue/op_inequality/) | Implementiert den Operator !=. |
 
@@ -37,14 +37,12 @@ public abstract class CSSValue : DOMObject
 | Name | Beschreibung |
 | --- | --- |
 | const [CSS_CUSTOM](../../aspose.svg.dom.css/cssvalue/css_custom/) | Der Wert ist ein benutzerdefinierter Wert. |
-| const [CSS_INHERIT](../../aspose.svg.dom.css/cssvalue/css_inherit/) | Der Wert wird vererbt und der cssText enthält "inherit". |
-| const [CSS_PRIMITIVE_VALUE](../../aspose.svg.dom.css/cssvalue/css_primitive_value/) | Der Wert ist ein primitiver Wert und eine Instanz der CSSPrimitiveValue-Schnittstelle kann abgerufen werden, indem bindungsspezifische Umsetzungsmethoden für diese Instanz der CSSValue-Schnittstelle verwendet werden. |
-| const [CSS_VALUE_LIST](../../aspose.svg.dom.css/cssvalue/css_value_list/) | Der Wert ist eine CSSValue-Liste und eine Instanz der CSSValueList-Schnittstelle kann abgerufen werden, indem bindungsspezifische Umsetzungsmethoden für diese Instanz der CSSValue-Schnittstelle verwendet werden. |
+| const [CSS_INHERIT](../../aspose.svg.dom.css/cssvalue/css_inherit/) | Der Wert ist vererbt und das cssText enthält "inherit". |
+| const [CSS_PRIMITIVE_VALUE](../../aspose.svg.dom.css/cssvalue/css_primitive_value/) | Der Wert ist ein primitiver Wert und eine Instanz des CSSPrimitiveValue-Interfaces kann durch bindungsspezifische Cast-Methoden auf dieser Instanz des CSSValue-Interfaces erhalten werden. |
+| const [CSS_VALUE_LIST](../../aspose.svg.dom.css/cssvalue/css_value_list/) | Der Wert ist eine CSSValue-Liste und eine Instanz des CSSValueList-Interfaces kann durch bindungsspezifische Cast-Methoden auf dieser Instanz des CSSValue-Interfaces erhalten werden. |
 
 ### Siehe auch
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

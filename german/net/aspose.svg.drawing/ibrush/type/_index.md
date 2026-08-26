@@ -1,14 +1,14 @@
 ---
-title: IBrush.Type
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IBrush eigendom. Pinseltyp abrufen
+title: "IBrush.Type"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IBrush Type-Eigenschaft. Gibt den Typ des Pinsels als BrushType zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/ibrush/type/
 ---
 ## IBrush.Type property
 
-Pinseltyp abrufen;
+Gibt den Typ des Pinsels als [`BrushType`](../../brushtype/) zurück.
 
 ```csharp
 public BrushType Type { get; }
@@ -16,13 +16,11 @@ public BrushType Type { get; }
 
 ### Rückgabewert
 
-Art der Bürste
+Typ des Pinsels
 
 ### Siehe auch
 
 * enum [BrushType](../../brushtype/)
 * interface [IBrush](../)
-* namensraum [Aspose.Svg.Drawing](../../ibrush/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

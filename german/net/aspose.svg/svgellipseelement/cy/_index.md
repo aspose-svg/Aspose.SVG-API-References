@@ -1,28 +1,26 @@
 ---
-title: SVGEllipseElement.Cy
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGEllipseElement eigendom. Entspricht dem Attribut cy auf dem gegebenen KreisElement.
+title: "SVGEllipseElement.Cy"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGEllipseElement Cy-Eigenschaft. Entspricht dem Attribut cy im angegebenen circle-Element"
 type: docs
 weight: 20
 url: /de/net/aspose.svg/svgellipseelement/cy/
 ---
 ## SVGEllipseElement.Cy property
 
-Entspricht dem Attribut 'cy' auf dem gegebenen 'Kreis'-Element.
+Entspricht dem Attribut ‘cy’ im angegebenen ‘circle’-Element.
 
 ```csharp
 public SVGAnimatedLength Cy { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'cy' des gegebenen 'Kreis'-Elements.
+Das Attribut ‘cy’ des angegebenen ‘circle’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* namensraum [Aspose.Svg](../../svgellipseelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

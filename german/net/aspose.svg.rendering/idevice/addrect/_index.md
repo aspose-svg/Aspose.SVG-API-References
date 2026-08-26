@@ -1,14 +1,14 @@
 ---
-title: IDevice.AddRect
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDevice methode. Hängt ein Rechteck als vollständigen Teilpfad an den aktuellen Pfad an.
+title: "IDevice.AddRect"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDevice AddRect Methode. Fügt ein Rechteck zum aktuellen Pfad als vollständigen Unterpfad hinzu."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.rendering/idevice/addrect/
 ---
 ## IDevice.AddRect method
 
-Hängt ein Rechteck als vollständigen Teilpfad an den aktuellen Pfad an.
+Fügt ein Rechteck zum aktuellen Pfad als vollständigen Unterpfad hinzu.
 
 ```csharp
 public void AddRect(RectangleF rect)
@@ -21,7 +21,5 @@ public void AddRect(RectangleF rect)
 ### Siehe auch
 
 * interface [IDevice](../)
-* namensraum [Aspose.Svg.Rendering](../../idevice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGAngle.UnitType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGAngle eigendom. Der Typ des Werts wie er von einer der auf dieser Schnittstelle definierten SVG_ANGLETYPE_Konstanten angegeben wird.
+title: "SVGAngle.UnitType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGAngle UnitType-Eigenschaft. Der Typ des Wertes, wie durch eine der auf diesem Interface definierten SVG_ANGLETYPE_-Konstanten angegeben."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.datatypes/svgangle/unittype/
 ---
 ## SVGAngle.UnitType property
 
-Der Typ des Werts, wie er von einer der auf dieser Schnittstelle definierten SVG_ANGLETYPE_*-Konstanten angegeben wird.
+Der Typ des Wertes, wie durch eine der auf diesem Interface definierten SVG_ANGLETYPE_*‑Konstanten angegeben.
 
 ```csharp
 public ushort UnitType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ der Einheit.
 
 ### Siehe auch
 
 * class [SVGAngle](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgangle/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

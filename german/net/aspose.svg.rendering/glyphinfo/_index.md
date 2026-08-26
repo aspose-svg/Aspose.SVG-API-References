@@ -1,14 +1,14 @@
 ---
-title: Struct GlyphInfo
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Rendering.GlyphInfo structuur. Enthält Informationen zu Glyphen.
+title: "GlyphInfo Struktur"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Rendering.GlyphInfo struct. Enthält glyphbezogene Informationen"
 type: docs
-weight: 2790
+weight: 4870
 url: /de/net/aspose.svg.rendering/glyphinfo/
 ---
 ## GlyphInfo structure
 
-Enthält Informationen zu Glyphen.
+Enthält glyphbezogene Informationen.
 
 ```csharp
 public struct GlyphInfo
@@ -18,20 +18,18 @@ public struct GlyphInfo
 
 | Name | Beschreibung |
 | --- | --- |
-| [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | Ruft den Index dieser Glyphe in der Schriftart ab. |
-| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | Ruft den Versatz zur nächsten Glyphe in Punkten ab. |
-| [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | Ruft die Zeichenfolgendarstellung dieser Glyphe ab. |
-| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | Ruft die Breite der Glyphe in Punkt ab. |
+| [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | Ermittelt den Index dieses Glyphs in der Schrift. |
+| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | Ermittelt den Versatz zum nächsten Glyph in Punkten. |
+| [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | Ermittelt die Zeichenkettenrepräsentation dieses Glyphs. |
+| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | Ermittelt die Breite des Glyphs in Punkten. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

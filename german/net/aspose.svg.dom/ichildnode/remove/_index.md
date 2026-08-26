@@ -1,14 +1,14 @@
 ---
-title: IChildNode.Remove
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IChildNode methode. Entfernt den aktuellen Knoten vom übergeordneten Knoten.
+title: "IChildNode.Remove"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IChildNode Remove Methode. Entfernt den aktuellen Knoten vom Elternteil."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/ichildnode/remove/
 ---
 ## IChildNode.Remove method
 
-Entfernt den aktuellen Knoten vom übergeordneten Knoten.
+Entfernt den aktuellen Knoten vom Elternteil.
 
 ```csharp
 public void Remove()
@@ -17,7 +17,5 @@ public void Remove()
 ### Siehe auch
 
 * interface [IChildNode](../)
-* namensraum [Aspose.Svg.Dom](../../ichildnode/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

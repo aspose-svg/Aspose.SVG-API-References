@@ -1,23 +1,31 @@
 ---
-title: Node.NextSibling
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node eigendom. Der Knoten unmittelbar nach diesem Knoten. Wenn es keinen solchen Knoten gibt wird null zurückgegeben.
+title: "Node.NextSibling"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node NextSibling-Eigenschaft. Gibt den Knoten zurück, der unmittelbar nach dem angegebenen Knoten in den ChildNodes des Elternteils folgt, oder gibt null zurück, wenn der angegebene Knoten das letzte Kind im Elternelement ist."
 type: docs
-weight: 80
+weight: 70
 url: /de/net/aspose.svg.dom/node/nextsibling/
 ---
 ## Node.NextSibling property
 
-Der Knoten unmittelbar nach diesem Knoten. Wenn es keinen solchen Knoten gibt, wird null zurückgegeben.
+Gibt den Knoten zurück, der unmittelbar nach dem angegebenen Knoten im [`ChildNodes`](../childnodes/) des Elternteils folgt, oder gibt null zurück, wenn der angegebene Knoten das letzte Kind im Elternelement ist.
 
 ```csharp
 public Node NextSibling { get; }
 ```
 
+### Property Value
+
+Ein [`Node`](../), der das nächste Geschwister des aktuellen Knotens darstellt, oder null, falls keines vorhanden ist.
+
+## Hinweise
+
+Referenz:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nextsibling).
+
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

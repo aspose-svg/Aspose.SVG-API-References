@@ -1,29 +1,23 @@
 ---
-title: Aspose.Svg.IO
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Zusätzlich zu StandardIO InputOutput Tools die Aspose.Svg.IO Namespace enthält Hilfsklassen und Schnittstellen.
+title: "Aspose.Svg.IO"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "In addition to standard IO input-output tools the Aspose.Svg.IO namespace contains helper classes and interfaces"
 type: docs
-weight: 180
+weight: 200
 url: /de/net/aspose.svg.io/
 ---
-Zusätzlich zu Standard-IO (Input-Output) Tools die **Aspose.Svg.IO** Namespace enthält Hilfsklassen und Schnittstellen.
+Zusätzlich zu den Standard‑IO (Input‑Output)-Werkzeugen enthält der **Aspose.Svg.IO** Namespace Hilfsklassen und Schnittstellen.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [FileCreateStreamProvider](./filecreatestreamprovider/) | steht fürFileStream Implementierung zum Bereitstellen von Streams für die Rendergeräte. |
-| [LocalFileSystemStorage](./localfilesystemstorage/) | Ein Dateisystemspeicher. |
-| [OutputStream](./outputstream/) | Ein Surrogat-Stream umschließt den echten Ausgabestream und steuert den Zugriff darauf. [`OutputStream`](../aspose.svg.io/outputstream/) enthält URI-Daten, die den Speicherort des Ausgabestreams beschreiben. |
-| [OutputStreamContext](./outputstreamcontext/) | Ein Kontext für die Initialisierung des Ausgabestroms. |
+| [FileCreateStreamProvider](./filecreatestreamprovider/) | Represents FileStream implementation for providing streams to the rendering devices. |
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
 | --- | --- |
-| [IBlob](./iblob/) | Ein Blob-Objekt bezieht sich auf eine Bytefolge und hat ein Größenattribut, das die Gesamtzahl der Bytes in der Bytefolge ist, und ein Typattribut, das eine ASCII-codierte Zeichenfolge in Kleinbuchstaben ist, die den Medientyp der Bytefolge darstellt . |
-| [ICreateStreamProvider](./icreatestreamprovider/) | Stellt eine Schnittstelle dar, die von Klassen implementiert werden kann, die Streams für die Wiedergabegeräte bereitstellen. |
-| [IFile](./ifile/) | Ein File-Objekt ist ein Blob-Objekt mit einem Namensattribut, das eine Zeichenfolge ist; Es kann innerhalb der Webanwendung über einen Konstruktor erstellt werden oder ist ein Verweis auf eine Bytefolge aus einer Datei aus dem zugrunde liegenden (OS-) Dateisystem. |
-| [IFileList](./ifilelist/) | Stellt die Schnittstelle für die Dateiliste dar. |
-| [IOutputStorage](./ioutputstorage/) | Bietet die Erstellung und Verwaltung von Ausgabeströmen[`OutputStream`](../aspose.svg.io/outputstream/) . |
-
-
+| [IBlob](./iblob/) | Ein Blob-Objekt bezieht sich auf eine Byte-Sequenz und hat ein Attribut size, das die Gesamtzahl der Bytes in der Sequenz angibt, sowie ein Attribut type, das eine ASCII-kodierte Zeichenkette in Kleinbuchstaben darstellt, die den Medientyp der Byte‑Sequenz repräsentiert. |
+| [ICreateStreamProvider](./icreatestreamprovider/) | Represents an interface that can be implemented by classes providing streams to the rendering devices. |
+| [IFile](./ifile/) | Ein File-Objekt ist ein Blob-Objekt mit einem Attribut name, das eine Zeichenkette ist; es kann innerhalb der Webanwendung über einen Konstruktor erstellt werden oder ist ein Verweis auf eine Byte-Sequenz aus einer Datei des zugrunde liegenden (OS-)Dateisystems. |
+| [IFileList](./ifilelist/) | Represent the interface for list of files. |

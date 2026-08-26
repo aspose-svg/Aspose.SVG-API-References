@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.GetPlatformType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSValueList methode. Diese Methode wird zum Abrufen des ECMAScriptObjekts verwendetType .
+title: "CSSValueList.GetPlatformType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSValueList GetPlatformType-Methode. Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom.css/cssvaluelist/getplatformtype/
 ---
 ## CSSValueList.GetPlatformType method
 
-Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType .
+Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen.
 
 ```csharp
 public override Type GetPlatformType()
@@ -16,12 +16,10 @@ public override Type GetPlatformType()
 
 ### Rückgabewert
 
-Das ECMAScript-ObjektType .
+Der ECMAScript-Objekttyp.
 
 ### Siehe auch
 
 * class [CSSValueList](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

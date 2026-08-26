@@ -1,14 +1,14 @@
 ---
-title: DOMException.DOMException
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMException constructeur. Initialisiert eine neue Instanz vonDOMException Klasse.
+title: "DOMException"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMException constructor. Initialisiert eine neue Instanz der DOMException-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/domexception/domexception/
 ---
-## DOMException(string) {#constructor}
+## DOMException(*string*) {#constructor}
 
-Initialisiert eine neue Instanz von[`DOMException`](../) Klasse.
+Initialisiert eine neue Instanz der [`DOMException`](../)-Klasse.
 
 ```csharp
 public DOMException(string message)
@@ -21,14 +21,14 @@ public DOMException(string message)
 ### Siehe auch
 
 * class [DOMException](../)
-* namensraum [Aspose.Svg.Dom](../../domexception/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## DOMException(string, string) {#constructor_1}
+## DOMException(*string, string*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`DOMException`](../) Klasse.
+Initialisiert eine neue Instanz der [`DOMException`](../)-Klasse.
 
 ```csharp
 public DOMException(string name, string message)
@@ -42,7 +42,5 @@ public DOMException(string name, string message)
 ### Siehe auch
 
 * class [DOMException](../)
-* namensraum [Aspose.Svg.Dom](../../domexception/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

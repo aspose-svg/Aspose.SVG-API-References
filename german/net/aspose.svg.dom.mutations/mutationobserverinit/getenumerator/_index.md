@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.GetEnumerator
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationObserverInit methode. Gibt einen Enumerator zurück der durch die iteriertMutationObserverInit Elemente.
+title: "MutationObserverInit.GetEnumerator"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationObserverInit GetEnumerator‑Methode. Gibt einen Enumerator zurück, der die MutationObserverInit‑Elemente durchläuft."
 type: docs
 weight: 190
 url: /de/net/aspose.svg.dom.mutations/mutationobserverinit/getenumerator/
 ---
 ## MutationObserverInit.GetEnumerator method
 
-Gibt einen Enumerator zurück, der durch die iteriert[`MutationObserverInit`](../) Elemente.
+Gibt einen Enumerator zurück, der die Elemente von [`MutationObserverInit`](../) durchläuft.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
@@ -16,12 +16,10 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### Rückgabewert
 
-EinIEnumerator Objekt, das verwendet werden kann, um durch die zu iterieren[`MutationObserverInit`](../) Elemente.
+Ein IEnumerator-Objekt, das verwendet werden kann, um die Elemente von [`MutationObserverInit`](../) zu durchlaufen.
 
 ### Siehe auch
 
 * class [MutationObserverInit](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

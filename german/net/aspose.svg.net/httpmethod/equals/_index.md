@@ -1,14 +1,14 @@
 ---
-title: HttpMethod.Equals
-second_title: Aspose.SVG für .NET-API-Referenz
-description: HttpMethod methode. Gibt an ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist.
+title: "HttpMethod.Equals"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "HttpMethod Equals-Methode. Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.net/httpmethod/equals/
 ---
-## Equals(HttpMethod) {#equals}
+## Equals(*[HttpMethod](../)*) {#equals}
 
-Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist.
+Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist.
 
 ```csharp
 public bool Equals(HttpMethod other)
@@ -16,23 +16,23 @@ public bool Equals(HttpMethod other)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| other | HttpMethod | Ein Objekt, das mit diesem Objekt verglichen werden soll. |
+| anderes | HttpMethod | Ein Objekt, das mit diesem Objekt verglichen werden soll. |
 
 ### Rückgabewert
 
-wahr, wenn das aktuelle Objekt gleich dem ist*other* Parameter; andernfalls falsch.
+true, wenn das aktuelle Objekt dem *anderes* Parameter gleich ist; andernfalls false.
 
 ### Siehe auch
 
 * class [HttpMethod](../)
-* namensraum [Aspose.Svg.Net](../../httpmethod/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bestimmt, ob die angegebeneObject , entspricht dieser Instanz.
+Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject mit dieser Instanz zu vergleichen. |
+| obj | Objekt | Das Objekt, das mit dieser Instanz verglichen werden soll. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegebenObject ist gleich dieser Instanz; ansonsten,`FALSCH` .
+`true`, wenn das angegebene Objekt mit dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [HttpMethod](../)
-* namensraum [Aspose.Svg.Net](../../httpmethod/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

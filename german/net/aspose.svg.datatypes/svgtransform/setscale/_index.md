@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.SetScale
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGTransform methode. Legt den Transformationstyp auf SVG_TRANSFORM_SCALE fest wobei die Parameter sx und sy die Skalierungsbeträge definieren.
+title: "SVGTransform.SetScale"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGTransform SetScale Methode. Setzt den Transformationstyp auf SVG_TRANSFORM_SCALE mit den Parametern sx und sy, die die Skalierungsbeträge definieren."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.datatypes/svgtransform/setscale/
 ---
 ## SVGTransform.SetScale method
 
-Legt den Transformationstyp auf SVG_TRANSFORM_SCALE fest, wobei die Parameter sx und sy die Skalierungsbeträge definieren.
+Setzt den Transformationstyp auf SVG_TRANSFORM_SCALE, wobei die Parameter sx und sy die Skalierungsbeträge definieren.
 
 ```csharp
 public void SetScale(float sx, float sy)
@@ -16,19 +16,17 @@ public void SetScale(float sx, float sy)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sx | Single | Der Staffelbetrag in X. |
-| sy | Single | Der Staffelbetrag in Y. |
+| sx | Single | Der Skalierungsbetrag in X. |
+| sy | Single | Der Skalierungsbetrag in Y. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -Code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Wird bei einem Versuch ausgelöst, den Wert eines schreibgeschützten Attributs zu ändern. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Wird ausgelöst, wenn versucht wird, den Wert eines schreibgeschützten Attributs zu ändern. |
 
 ### Siehe auch
 
 * class [SVGTransform](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgtransform/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

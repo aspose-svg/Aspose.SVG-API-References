@@ -1,42 +1,40 @@
 ---
-title: Aspose.Svg.Paths
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Die Aspose.Svg.Dom.Svg.Paths namespace beschreibt Klassen für Darstellung des Umrisses einer Form die gefüllt oder gezeichnet werden kann. Ein Pfad kann auch als Beschneidungspfad verwendet werden um Animationen zu beschreiben oder Text zu positionieren.
+title: "Aspose.Svg.Paths"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Der Namespace Aspose.Svg.Dom.Svg.Paths beschreibt Klassen zur Darstellung der Kontur einer Form, die gefüllt oder gestrichen werden kann. Ein Pfad kann auch als Clipping-Pfad verwendet werden, um Animationen oder positionierten Text zu beschreiben."
 type: docs
-weight: 230
+weight: 250
 url: /de/net/aspose.svg.paths/
 ---
-Die **Aspose.Svg.Dom.Svg.Paths** namespace beschreibt Klassen für Darstellung des Umrisses einer Form, die gefüllt oder gezeichnet werden kann. Ein Pfad kann auch als Beschneidungspfad verwendet werden, um Animationen zu beschreiben, oder Text zu positionieren.
+Der **Aspose.Svg.Dom.Svg.Paths** Namespace beschreibt Klassen zur Darstellung der Kontur einer Form, die gefüllt oder gestrichen werden kann. Ein Pfad kann auch als Beschneidungspfad verwendet werden, um Animationen zu beschreiben oder Text zu positionieren.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [SVGPathSeg](./svgpathseg/) | Die SVGPathSeg-Schnittstelle ist eine Basisschnittstelle, die einem einzelnen Befehl innerhalb einer Pfaddatenspezifikation entspricht. |
-| [SVGPathSegArcAbs](./svgpathsegarcabs/) | Die SVGPathSegArcAbs-Schnittstelle entspricht einem Pfaddatenbefehl „absolute arcto“ (A). |
-| [SVGPathSegArcRel](./svgpathsegarcrel/) | Die SVGPathSegArcRel-Schnittstelle entspricht einem "relative arcto" (a)-Pfaddatenbefehl. |
-| [SVGPathSegClosePath](./svgpathsegclosepath/) | Die SVGPathSegClosePath-Schnittstelle entspricht einem Pfaddatenbefehl "closepath" (z). |
-| [SVGPathSegCurvetoCubicAbs](./svgpathsegcurvetocubicabs/) | Die SVGPathSegCurvetoCubicAbs-Schnittstelle entspricht einem Pfaddatenbefehl „absolute kubische Bézier-Kurve“ (C). |
-| [SVGPathSegCurvetoCubicRel](./svgpathsegcurvetocubicrel/) | Die SVGPathSegCurvetoCubicRel-Schnittstelle entspricht einem Pfaddatenbefehl „relative kubische Bézier-Kurve“ (c). |
-| [SVGPathSegCurvetoCubicSmoothAbs](./svgpathsegcurvetocubicsmoothabs/) | Die SVGPathSegCurvetoCubicSmoothAbs-Schnittstelle entspricht einem Pfaddatenbefehl „absolute glatte kubische Kurve“ (S). |
-| [SVGPathSegCurvetoCubicSmoothRel](./svgpathsegcurvetocubicsmoothrel/) | Die SVGPathSegCurvetoCubicSmoothRel-Schnittstelle entspricht einem Pfaddatenbefehl "relative glatte kubische Kurve zu" (s). |
-| [SVGPathSegCurvetoQuadraticAbs](./svgpathsegcurvetoquadraticabs/) | Die SVGPathSegCurvetoQuadraticAbs-Schnittstelle entspricht einem Pfaddatenbefehl „absolute quadratische Bézier-Kurve“ (Q). |
-| [SVGPathSegCurvetoQuadraticRel](./svgpathsegcurvetoquadraticrel/) | Die SVGPathSegCurvetoQuadraticRel-Schnittstelle entspricht einem Pfaddatenbefehl „relative quadratische Bézier-Kurve“ (q). |
-| [SVGPathSegCurvetoQuadraticSmoothAbs](./svgpathsegcurvetoquadraticsmoothabs/) | Die SVGPathSegCurvetoQuadraticSmoothAbs-Schnittstelle entspricht einem Pfaddatenbefehl „absolute glatte kubische Kurve“ (T). |
-| [SVGPathSegCurvetoQuadraticSmoothRel](./svgpathsegcurvetoquadraticsmoothrel/) | Die SVGPathSegCurvetoQuadraticSmoothRel-Schnittstelle entspricht einem Pfaddatenbefehl "relative glatte kubische Kurve zu" (t). |
-| [SVGPathSegLinetoAbs](./svgpathseglinetoabs/) | Die SVGPathSegLinetoAbs-Schnittstelle entspricht einem "absolute lineto" (L)-Pfaddatenbefehl. |
-| [SVGPathSegLinetoHorizontalAbs](./svgpathseglinetohorizontalabs/) | Die SVGPathSegLinetoHorizontalAbs-Schnittstelle entspricht einem "absolute horizontal lineto" (H)-Pfaddatenbefehl. |
-| [SVGPathSegLinetoHorizontalRel](./svgpathseglinetohorizontalrel/) | Die SVGPathSegLinetoHorizontalRel-Schnittstelle entspricht einem "relative horizontal lineto" (h)-Pfaddatenbefehl. |
-| [SVGPathSegLinetoRel](./svgpathseglinetorel/) | Die SVGPathSegLinetoRel-Schnittstelle entspricht einem "relative lineto" (l)-Pfaddatenbefehl. |
-| [SVGPathSegLinetoVerticalAbs](./svgpathseglinetoverticalabs/) | Die SVGPathSegLinetoVerticalAbs-Schnittstelle entspricht einem "absolute vertical lineto" (V)-Pfaddatenbefehl. |
-| [SVGPathSegLinetoVerticalRel](./svgpathseglinetoverticalrel/) | Die SVGPathSegLinetoVerticalRel-Schnittstelle entspricht einem "relative vertical lineto" (v)-Pfaddatenbefehl. |
-| [SVGPathSegList](./svgpathseglist/) | Diese Schnittstelle definiert eine Liste von SVGPathSeg-Objekten. |
-| [SVGPathSegMovetoAbs](./svgpathsegmovetoabs/) | Die SVGPathSegMovetoAbs-Schnittstelle entspricht einem "absolute moveto" (M)-Pfaddatenbefehl. |
-| [SVGPathSegMovetoRel](./svgpathsegmovetorel/) | Die SVGPathSegMovetoRel-Schnittstelle entspricht einem "relative moveto" (m)-Pfaddatenbefehl. |
+| [SVGPathSeg](./svgpathseg/) | Das SVGPathSeg-Interface ist eine Basisschnittstelle, die einem einzelnen Befehl innerhalb einer Pfaddaten-Spezifikation entspricht. |
+| [SVGPathSegArcAbs](./svgpathsegarcabs/) | Das SVGPathSegArcAbs-Interface entspricht einem "absoluten arcto" (A) Pfaddaten-Befehl. |
+| [SVGPathSegArcRel](./svgpathsegarcrel/) | Das SVGPathSegArcRel-Interface entspricht einem "relativen arcto" (a) Pfaddaten-Befehl. |
+| [SVGPathSegClosePath](./svgpathsegclosepath/) | Das SVGPathSegClosePath-Interface entspricht einem "closepath" (z) Pfaddaten-Befehl. |
+| [SVGPathSegCurvetoCubicAbs](./svgpathsegcurvetocubicabs/) | Das SVGPathSegCurvetoCubicAbs-Interface entspricht einem "absoluten kubischen Bézier-Curveto" (C) Pfaddaten-Befehl. |
+| [SVGPathSegCurvetoCubicRel](./svgpathsegcurvetocubicrel/) | Das SVGPathSegCurvetoCubicRel-Interface entspricht einem "relativen kubischen Bézier-Curveto" (c) Pfaddaten-Befehl. |
+| [SVGPathSegCurvetoCubicSmoothAbs](./svgpathsegcurvetocubicsmoothabs/) | Das SVGPathSegCurvetoCubicSmoothAbs-Interface entspricht einem "absoluten glatten kubischen Curveto" (S) Pfaddaten-Befehl. |
+| [SVGPathSegCurvetoCubicSmoothRel](./svgpathsegcurvetocubicsmoothrel/) | Das SVGPathSegCurvetoCubicSmoothRel-Interface entspricht einem "relativen glatten kubischen Curveto" (s) Pfaddaten-Befehl. |
+| [SVGPathSegCurvetoQuadraticAbs](./svgpathsegcurvetoquadraticabs/) | Das SVGPathSegCurvetoQuadraticAbs-Interface entspricht einem "absoluten quadratischen Bézier-Curveto" (Q) Pfaddaten-Befehl. |
+| [SVGPathSegCurvetoQuadraticRel](./svgpathsegcurvetoquadraticrel/) | Das SVGPathSegCurvetoQuadraticRel-Interface entspricht einem "relativen quadratischen Bézier-Curveto" (q) Pfaddaten-Befehl. |
+| [SVGPathSegCurvetoQuadraticSmoothAbs](./svgpathsegcurvetoquadraticsmoothabs/) | Das SVGPathSegCurvetoQuadraticSmoothAbs-Interface entspricht einem "absoluten glatten kubischen Curveto" (T) Pfaddaten-Befehl. |
+| [SVGPathSegCurvetoQuadraticSmoothRel](./svgpathsegcurvetoquadraticsmoothrel/) | Das SVGPathSegCurvetoQuadraticSmoothRel-Interface entspricht einem "relativen glatten kubischen Curveto" (t) Pfaddaten-Befehl. |
+| [SVGPathSegLinetoAbs](./svgpathseglinetoabs/) | Das SVGPathSegLinetoAbs-Interface entspricht einem "absoluten lineto" (L) Pfaddaten-Befehl. |
+| [SVGPathSegLinetoHorizontalAbs](./svgpathseglinetohorizontalabs/) | Das SVGPathSegLinetoHorizontalAbs-Interface entspricht einem "absoluten horizontalen lineto" (H) Pfaddaten-Befehl. |
+| [SVGPathSegLinetoHorizontalRel](./svgpathseglinetohorizontalrel/) | Das SVGPathSegLinetoHorizontalRel-Interface entspricht einem "relativen horizontalen lineto" (h) Pfaddaten-Befehl. |
+| [SVGPathSegLinetoRel](./svgpathseglinetorel/) | Das SVGPathSegLinetoRel-Interface entspricht einem "relativen lineto" (l) Pfaddaten-Befehl. |
+| [SVGPathSegLinetoVerticalAbs](./svgpathseglinetoverticalabs/) | Das SVGPathSegLinetoVerticalAbs-Interface entspricht einem "absoluten vertikalen Lineto" (V)-Pfaddatenbefehl. |
+| [SVGPathSegLinetoVerticalRel](./svgpathseglinetoverticalrel/) | Das SVGPathSegLinetoVerticalRel-Interface entspricht einem "relativen vertikalen Lineto" (v)-Pfaddatenbefehl. |
+| [SVGPathSegList](./svgpathseglist/) | Dieses Interface definiert eine Liste von SVGPathSeg-Objekten. |
+| [SVGPathSegMovetoAbs](./svgpathsegmovetoabs/) | Das SVGPathSegMovetoAbs-Interface entspricht einem "absoluten moveto" (M)-Pfaddatenbefehl. |
+| [SVGPathSegMovetoRel](./svgpathsegmovetorel/) | Das SVGPathSegMovetoRel-Interface entspricht einem "relativen moveto" (m)-Pfaddatenbefehl. |
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
 | --- | --- |
-| [ISVGAnimatedPathData](./isvganimatedpathdata/) | Die SVGAnimatedPathData-Schnittstelle unterstützt Elemente mit einem „d“-Attribut, das SVG-Pfaddaten enthält, und unterstützt die Fähigkeit, dieses Attribut zu animieren. |
-
-
+| [ISVGAnimatedPathData](./isvganimatedpathdata/) | Das SVGAnimatedPathData-Interface unterstützt Elemente, die ein ‘d’-Attribut besitzen, das SVG-Pfaddaten enthält, und unterstützt die Möglichkeit, dieses Attribut zu animieren. |

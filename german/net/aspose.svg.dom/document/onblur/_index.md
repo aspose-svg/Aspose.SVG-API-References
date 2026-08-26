@@ -1,14 +1,14 @@
 ---
-title: Document.OnBlur
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den EventHandler für das OnBlurEreignis ab oder legt ihn fest.
+title: "Document.OnBlur"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnBlur Ereignis. Ruft den Ereignishandler für das OnBlur-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 290
 url: /de/net/aspose.svg.dom/document/onblur/
 ---
 ## Document.OnBlur event
 
-Ruft den Event-Handler für das OnBlur-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnBlur‑Ereignis.
 
 ```csharp
 public event DOMEventHandler OnBlur;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnBlur;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnKeyUp
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IGlobalEventHandlers evenement. Ruft den EventHandler für das OnKeyUpEreignis ab oder legt ihn fest.
+title: "IGlobalEventHandlers.OnKeyUp"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IGlobalEventHandlers OnKeyUp-Ereignis. Ruft den Ereignishandler für das OnKeyUp-Ereignis ab oder legt ihn fest"
 type: docs
 weight: 190
 url: /de/net/aspose.svg.dom/iglobaleventhandlers/onkeyup/
 ---
 ## IGlobalEventHandlers.OnKeyUp event
 
-Ruft den Event-Handler für das OnKeyUp-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnKeyUp-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnKeyUp;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnKeyUp;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namensraum [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

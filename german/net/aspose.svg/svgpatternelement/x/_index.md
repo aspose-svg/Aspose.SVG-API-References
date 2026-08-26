@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.X
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPatternElement eigendom. Entspricht dem Attribut x auf dem gegebenen MusterElement.
+title: "SVGPatternElement.X"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPatternElement X-Eigenschaft. Entspricht dem Attribut x des angegebenen pattern-Elements."
 type: docs
 weight: 120
 url: /de/net/aspose.svg/svgpatternelement/x/
 ---
 ## SVGPatternElement.X property
 
-Entspricht dem Attribut 'x' auf dem gegebenen 'Muster'-Element.
+Entspricht dem Attribut ‘x’ des angegebenen ‘pattern’-Elements.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'x' des angegebenen 'Muster'-Elements.
+Das Attribut ‘x’ des angegebenen ‘pattern’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* namensraum [Aspose.Svg](../../svgpatternelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

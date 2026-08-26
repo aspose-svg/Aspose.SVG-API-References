@@ -1,14 +1,14 @@
 ---
-title: Document.OnKeyPress
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den EventHandler für das OnKeyPressEreignis ab oder legt ihn fest.
+title: "Document.OnKeyPress"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnKeyPress Ereignis. Ruft den Ereignishandler für das OnKeyPress-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 450
 url: /de/net/aspose.svg.dom/document/onkeypress/
 ---
 ## Document.OnKeyPress event
 
-Ruft den Event-Handler für das OnKeyPress-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnKeyPress-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnKeyPress;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnKeyPress;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

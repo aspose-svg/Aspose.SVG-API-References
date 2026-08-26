@@ -1,14 +1,14 @@
 ---
-title: Interface INonElementParentNode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.INonElementParentNode koppel. definiertIParentNode die kein Elementtyp sind.
+title: "INonElementParentNode Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.INonElementParentNode Schnittstelle. Definiert IParentNode, die kein Elementtyp sind."
 type: docs
-weight: 1090
+weight: 3070
 url: /de/net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
 
-definiert[`IParentNode`](../iparentnode/) die kein Elementtyp sind.
+Definiert [`IParentNode`](../iparentnode/), die kein Elementtyp sind.
 
 ```csharp
 public interface INonElementParentNode
@@ -18,11 +18,9 @@ public interface INonElementParentNode
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(string) | Gibt das erste Element innerhalb der Nachkommen des Knotens zurück, dessen ID elementId ist. |
+| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(*string*) | Gibt das erste Element unter den Nachkommen des Knotens zurück, dessen ID elementId ist. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

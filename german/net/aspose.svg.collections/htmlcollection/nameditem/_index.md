@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.NamedItem
-second_title: Aspose.SVG für .NET-API-Referenz
-description: HTMLCollection methode. Gibt das Element in der Sammlung zurück das mit dem angegebenen Namen übereinstimmt.
+title: "HTMLCollection.NamedItem"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "HTMLCollection NamedItem-Methode. Gibt das Element in der Sammlung zurück, das dem angegebenen Namen entspricht."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.collections/htmlcollection/nameditem/
 ---
 ## HTMLCollection.NamedItem method
 
-Gibt das Element in der Sammlung zurück, das mit dem angegebenen Namen übereinstimmt.
+Gibt das Element in der Sammlung zurück, das dem angegebenen Namen entspricht.
 
 ```csharp
 public Element NamedItem(string name)
@@ -20,13 +20,11 @@ public Element NamedItem(string name)
 
 ### Rückgabewert
 
-Das übereinstimmende Element
+Das passende Element
 
 ### Siehe auch
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* namensraum [Aspose.Svg.Collections](../../htmlcollection/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

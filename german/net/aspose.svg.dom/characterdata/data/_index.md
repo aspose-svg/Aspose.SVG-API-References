@@ -1,27 +1,25 @@
 ---
-title: CharacterData.Data
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CharacterData eigendom. Die Zeichendaten des Knotens der diese Schnittstelle implementiert.
+title: "CharacterData.Data"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CharacterData Data-Eigenschaft. Die Zeichen­daten des Knotens, der dieses Interface implementiert."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/characterdata/data/
 ---
 ## CharacterData.Data property
 
-Die Zeichendaten des Knotens, der diese Schnittstelle implementiert.
+Die character data des Knotens, der dieses Interface implementiert.
 
 ```csharp
 public virtual string Data { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Daten.
 
 ### Siehe auch
 
 * class [CharacterData](../)
-* namensraum [Aspose.Svg.Dom](../../characterdata/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

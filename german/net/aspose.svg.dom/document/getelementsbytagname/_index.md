@@ -1,14 +1,16 @@
 ---
-title: Document.GetElementsByTagName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document methode. Gibt eine NodeList aller Elemente in Dokumentreihenfolge mit einem bestimmten TagNamen zurück und sind im Dokument enthalten.
+title: "Document.GetElementsByTagName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document GetElementsByTagName‑Methode. Diese Methode gibt eine HTMLCollection von Elementen mit dem angegebenen Tag‑Namen zurück."
 type: docs
 weight: 980
 url: /de/net/aspose.svg.dom/document/getelementsbytagname/
 ---
 ## Document.GetElementsByTagName method
 
-Gibt eine NodeList aller Elemente in Dokumentreihenfolge mit einem bestimmten Tag-Namen zurück und sind im Dokument enthalten.
+Diese Methode gibt eine [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) von Elementen mit dem angegebenen Tag‑Namen zurück.
+
+Das gesamte Dokument wird durchsucht, einschließlich des Wurzelknotens. Die zurückgegebene [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) ist live, das heißt, sie aktualisiert sich automatisch, um mit dem DOM‑Baum synchron zu bleiben, ohne dass diese Methode erneut aufgerufen werden muss.
 
 ```csharp
 public HTMLCollection GetElementsByTagName(string tagname)
@@ -16,17 +18,19 @@ public HTMLCollection GetElementsByTagName(string tagname)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| tagname | String | Der Tagname. |
+| tagname | String | Ein String, der den Namen der Elemente darstellt. Der spezielle String "*" steht für alle Elemente. |
 
 ### Rückgabewert
 
-Gibt Knoten zurück.
+Eine live [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) gefundener Elemente in der Reihenfolge, in der sie im Baum erscheinen.
+
+## Hinweise
+
+Siehe die offizielle [Spezifikation](https://dom.spec.whatwg.org/#dom-document-getelementsbytagname).
 
 ### Siehe auch
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ContentDispositionHeaderValue methode. Gibt a zurückString die diese Instanz darstellt.
+title: "ContentDispositionHeaderValue.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ContentDispositionHeaderValue ToString Methode. Gibt eine Zeichenkette zurück, die diese Instanz darstellt"
 type: docs
 weight: 70
 url: /de/net/aspose.svg.net.headers/contentdispositionheadervalue/tostring/
 ---
 ## ContentDispositionHeaderValue.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-Gibt einString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [ContentDispositionHeaderValue](../)
-* namensraum [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Node.HasChildNodes
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node methode. Gibt zurück ob dieser Knoten Kinder hat.
+title: "Node.HasChildNodes"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node HasChildNodes‑Methode. Gibt einen booleschen Wert zurück, der angibt, ob der angegebene Node Kindknoten hat oder nicht"
 type: docs
-weight: 210
+weight: 190
 url: /de/net/aspose.svg.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method
 
-Gibt zurück, ob dieser Knoten Kinder hat.
+Gibt einen booleschen Wert zurück, der angibt, ob der angegebene [`Node`](../) Kindknoten hat oder nicht.
 
 ```csharp
 public bool HasChildNodes()
@@ -16,12 +16,10 @@ public bool HasChildNodes()
 
 ### Rückgabewert
 
-`WAHR` if hat ansonsten untergeordnete Knoten,`FALSCH` .
+Ein boolescher Wert, der true ist, wenn der Knoten Kindknoten hat, und false andernfalls.
 
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

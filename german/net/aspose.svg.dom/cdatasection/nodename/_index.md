@@ -1,7 +1,7 @@
 ---
-title: CDATASection.NodeName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CDATASection eigendom. Der Name dieses Knotens abhängig von seinem Typ.
+title: "CDATASection.NodeName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CDATASection NodeName property. Der Name dieses Knotens abhängig von seinem Typ"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/cdatasection/nodename/
@@ -14,14 +14,12 @@ Der Name dieses Knotens, abhängig von seinem Typ.
 public override string NodeName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Knotens.
 
 ### Siehe auch
 
 * class [CDATASection](../)
-* namensraum [Aspose.Svg.Dom](../../cdatasection/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

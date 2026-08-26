@@ -1,14 +1,14 @@
 ---
-title: Document.OnCanPlayThrough
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den Ereignishandler für das OnCanPlayThroughEreignis ab oder legt ihn fest.
+title: "Document.OnCanPlayThrough"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnCanPlayThrough-Ereignis. Ruft den Ereignishandler für das OnCanPlayThrough-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 320
 url: /de/net/aspose.svg.dom/document/oncanplaythrough/
 ---
 ## Document.OnCanPlayThrough event
 
-Ruft den Ereignishandler für das OnCanPlayThrough-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnCanPlayThrough‑Ereignis.
 
 ```csharp
 public event DOMEventHandler OnCanPlayThrough;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnCanPlayThrough;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

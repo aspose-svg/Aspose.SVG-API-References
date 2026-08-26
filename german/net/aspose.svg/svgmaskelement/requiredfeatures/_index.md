@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.RequiredFeatures
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGMaskElement eigendom. Entspricht dem Attribut requiredFeatures für das angegebene Element.
+title: "SVGMaskElement.RequiredFeatures"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGMaskElement RequiredFeatures Eigenschaft. Entspricht dem Attribut requiredFeatures des angegebenen Elements"
 type: docs
 weight: 50
 url: /de/net/aspose.svg/svgmaskelement/requiredfeatures/
 ---
 ## SVGMaskElement.RequiredFeatures property
 
-Entspricht dem Attribut 'requiredFeatures' für das angegebene Element.
+Entspricht dem Attribut ‘requiredFeatures’ des angegebenen Elements.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die erforderlichen Funktionen.
+Die erforderlichen Features.
 
 ### Siehe auch
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGMaskElement](../)
-* namensraum [Aspose.Svg](../../svgmaskelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

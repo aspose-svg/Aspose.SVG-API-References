@@ -1,28 +1,26 @@
 ---
-title: SVGFEComponentTransferElement.Result
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEComponentTransferElement eigendom. Entspricht dem Attribut Ergebnis des angegebenen FilterElements.
+title: "SVGFEComponentTransferElement.Result"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEComponentTransferElement Result-Eigenschaft. Entspricht dem Attribut result im angegebenen Filter-Element"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.filters/svgfecomponenttransferelement/result/
 ---
 ## SVGFEComponentTransferElement.Result property
 
-Entspricht dem Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘result’ im angegebenen ‘filter’-Element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Das Attribut ‘result’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEComponentTransferElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfecomponenttransferelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

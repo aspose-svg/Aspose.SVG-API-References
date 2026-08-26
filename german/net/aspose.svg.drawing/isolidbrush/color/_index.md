@@ -1,14 +1,14 @@
 ---
-title: ISolidBrush.Color
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ISolidBrush eigendom. Holen Sie sich die Farbe des Pinsels.
+title: "ISolidBrush.Color"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ISolidBrush Color-Eigenschaft. Gibt die Farbe des Pinsels zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/isolidbrush/color/
 ---
 ## ISolidBrush.Color property
 
-Holen Sie sich die Farbe des Pinsels.
+Farbe des Pinsels abrufen.
 
 ```csharp
 public Color Color { get; }
@@ -21,7 +21,5 @@ Farbe des Pinsels
 ### Siehe auch
 
 * interface [ISolidBrush](../)
-* namensraum [Aspose.Svg.Drawing](../../isolidbrush/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

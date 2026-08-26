@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.SetCurrentTime
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGSVGElement methode. Stellt die Uhr für dieses SVGDokumentfragment ein und erstellt eine neue aktuelle Zeit. Wenn setCurrentTime aufgerufen wird bevor die Zeitleiste des Dokuments begonnen hat z. B. durch ein Skript das in einem scriptElement ausgeführt wird bevor das SVGLoadEreignis des Dokuments ausgelöst wird gibt der Wert von Sekunden im letzten Aufruf der Methode die Zeit an zu der das Dokument wird versuchen sobald die Dokumentzeitachse begonnen hat.
+title: "SVGSVGElement.SetCurrentTime"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGSVGElement SetCurrentTime-Methode. Passt die Uhr für dieses SVG-Dokumentfragment an und legt eine neue aktuelle Zeit fest. Wird setCurrentTime aufgerufen, bevor die Dokumentzeitlinie begonnen hat, zum Beispiel durch ein Skript, das in einem <script>-Element ausgeführt wird, bevor das SVGLoad-Ereignis des Dokuments gesendet wird, dann gibt der Sekundenwert beim letzten Aufruf der Methode die Zeit an, zu der das Dokument springen wird, sobald die Dokumentzeitlinie begonnen hat."
 type: docs
 weight: 230
 url: /de/net/aspose.svg/svgsvgelement/setcurrenttime/
 ---
 ## SVGSVGElement.SetCurrentTime method
 
-Stellt die Uhr für dieses SVG-Dokumentfragment ein und erstellt eine neue aktuelle Zeit. Wenn setCurrentTime aufgerufen wird, bevor die Zeitleiste des Dokuments begonnen hat (z. B. durch ein Skript, das in einem „script“-Element ausgeführt wird, bevor das SVGLoad-Ereignis des Dokuments ausgelöst wird), gibt der Wert von Sekunden im letzten Aufruf der Methode die Zeit an, zu der das Dokument wird versuchen, sobald die Dokumentzeitachse begonnen hat.
+Passt die Uhr für dieses SVG‑Dokumentfragment an und legt eine neue aktuelle Zeit fest. Wenn setCurrentTime aufgerufen wird, bevor die Dokument‑Zeitlinie begonnen hat (z. B. durch ein Skript, das in einem ‘script’-Element läuft, bevor das SVGLoad‑Ereignis des Dokuments gesendet wird), gibt der Sekundenwert beim letzten Aufruf der Methode die Zeit an, zu der das Dokument springen wird, sobald die Dokument‑Zeitlinie begonnen hat.
 
 ```csharp
 public void SetCurrentTime(float seconds)
@@ -16,12 +16,10 @@ public void SetCurrentTime(float seconds)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| seconds | Single | Die neue aktuelle Zeit in Sekunden relativ zur Startzeit für das aktuelle SVG-Dokumentfragment. |
+| Sekunden | Single | Die neue aktuelle Zeit in Sekunden relativ zur Startzeit des aktuellen SVG-Dokumentfragments. |
 
 ### Siehe auch
 
 * class [SVGSVGElement](../)
-* namensraum [Aspose.Svg](../../svgsvgelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

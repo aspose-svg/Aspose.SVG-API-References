@@ -1,14 +1,14 @@
 ---
-title: Node.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node methode. Gibt a zurückString die diese Instanz darstellt.
+title: "Node.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node ToString-Methode. Gibt einen String zurück, der diese Instanz darstellt"
 type: docs
-weight: 310
+weight: 290
 url: /de/net/aspose.svg.dom/node/tostring/
 ---
 ## Node.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

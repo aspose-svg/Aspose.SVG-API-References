@@ -1,14 +1,14 @@
 ---
-title: RequestMessage.RequestMessage
-second_title: Aspose.SVG für .NET-API-Referenz
-description: RequestMessage constructeur. Initialisiert eine neue Instanz vonRequestMessage Klasse.
+title: "RequestMessage"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "RequestMessage‑Konstruktor. Initialisiert eine neue Instanz der RequestMessage‑Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.net/requestmessage/requestmessage/
 ---
-## RequestMessage(string) {#constructor_1}
+## RequestMessage(*string*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`RequestMessage`](../) Klasse.
+Initialisiert eine neue Instanz der [`RequestMessage`](../)‑Klasse.
 
 ```csharp
 public RequestMessage(string address)
@@ -16,19 +16,19 @@ public RequestMessage(string address)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| address | String | Die Anfrageadresse. |
+| Adresse | String | Die Anforderungsadresse. |
 
 ### Siehe auch
 
 * class [RequestMessage](../)
-* namensraum [Aspose.Svg.Net](../../requestmessage/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RequestMessage(Url) {#constructor}
+## RequestMessage(*[Url](../../../aspose.svg/url/)*) {#constructor}
 
-Initialisiert eine neue Instanz von[`RequestMessage`](../) Klasse.
+Initialisiert eine neue Instanz der [`RequestMessage`](../)‑Klasse.
 
 ```csharp
 public RequestMessage(Url uri)
@@ -36,13 +36,11 @@ public RequestMessage(Url uri)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| uri | Url | Die Anforderungs-URL. |
+| uri | URL | Die Anforderungs‑URL. |
 
 ### Siehe auch
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* namensraum [Aspose.Svg.Net](../../requestmessage/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

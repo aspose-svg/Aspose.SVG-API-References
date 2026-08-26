@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.Y
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEOffsetElement eigendom. Entspricht dem Attribut y des angegebenen filterElements.
+title: "SVGFEOffsetElement.Y"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEOffsetElement Y-Eigenschaft. Entspricht dem Attribut y im angegebenen Filterelement"
 type: docs
 weight: 80
 url: /de/net/aspose.svg.filters/svgfeoffsetelement/y/
 ---
 ## SVGFEOffsetElement.Y property
 
-Entspricht dem Attribut 'y' des angegebenen 'filter'-Elements.
+Entspricht dem Attribut ‘y’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'y' des gegebenen 'filter'-Elements.
+Das Attribut ‘y’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEOffsetElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

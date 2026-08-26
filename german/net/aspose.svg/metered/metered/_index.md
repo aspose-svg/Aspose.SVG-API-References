@@ -1,7 +1,7 @@
 ---
-title: Metered.Metered
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Metered constructeur. Initialisiert eine neue Instanz dieser Klasse.
+title: "Gemessen"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Metered-Konstruktor. Initialisiert eine neue Instanz dieser Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg/metered/metered/
@@ -17,7 +17,5 @@ public Metered()
 ### Siehe auch
 
 * class [Metered](../)
-* namensraum [Aspose.Svg](../../metered/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

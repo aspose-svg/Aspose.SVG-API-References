@@ -1,14 +1,14 @@
 ---
-title: FontMatchingProperties.FontStyle
-second_title: Aspose.SVG für .NET-API-Referenz
-description: FontMatchingProperties eigendom. Ruft den Schriftstilwert ab. Diese Eigenschaft kann folgende Werte haben normal kursiv schräg.
+title: "FontMatchingProperties.FontStyle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "FontMatchingProperties FontStyle-Eigenschaft. Gibt den Schriftstilwert zurück. Diese Eigenschaft kann folgende Werte haben: normal, italic, oblique."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontstyle/
 ---
 ## FontMatchingProperties.FontStyle property
 
-Ruft den Schriftstilwert ab. Diese Eigenschaft kann folgende Werte haben: normal, kursiv, schräg.
+Ruft den Schriftstilwert ab. Diese Eigenschaft kann folgende Werte haben: normal, italic, oblique.
 
 ```csharp
 public string FontStyle { get; }
@@ -17,7 +17,5 @@ public string FontStyle { get; }
 ### Siehe auch
 
 * class [FontMatchingProperties](../)
-* namensraum [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

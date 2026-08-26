@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.GetPropertyPriority
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSStyleDeclaration methode. Wird verwendet um die Priorität einer CSSEigenschaft abzurufen z. B. den wichtigen Qualifizierer wenn die Eigenschaft explizit in diesem Deklarationsblock gesetzt wurde.
+title: "ICSSStyleDeclaration.GetPropertyPriority"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSStyleDeclaration GetPropertyPriority-Methode. Wird verwendet, um die Priorität einer CSS‑Eigenschaft abzurufen, z. B. das !important‑Qualifizierungsmerkmal, wenn die Eigenschaft explizit in diesem Deklarationsblock festgelegt wurde."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom.css/icssstyledeclaration/getpropertypriority/
 ---
 ## ICSSStyleDeclaration.GetPropertyPriority method
 
-Wird verwendet, um die Priorität einer CSS-Eigenschaft abzurufen (z. B. den „wichtigen“ Qualifizierer), wenn die Eigenschaft explizit in diesem Deklarationsblock gesetzt wurde.
+Wird verwendet, um die Priorität einer CSS‑Eigenschaft (z. B. das "important"-Qualifizierungsmerkmal) abzurufen, wenn die Eigenschaft in diesem Deklarationsblock explizit gesetzt wurde.
 
 ```csharp
 public string GetPropertyPriority(string propertyName)
@@ -20,12 +20,10 @@ public string GetPropertyPriority(string propertyName)
 
 ### Rückgabewert
 
-Gibt Eigenschaftspriorität zurück
+Gibt die Eigenschaftspriorität zurück
 
 ### Siehe auch
 
 * interface [ICSSStyleDeclaration](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

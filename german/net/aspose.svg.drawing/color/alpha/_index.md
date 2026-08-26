@@ -1,7 +1,7 @@
 ---
-title: Color.Alpha
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color eigendom. Stellt die AlphaKomponente der Farbe dar.
+title: "Color.Alpha"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color Alpha-Eigenschaft. Stellt die Alpha-Komponente der Farbe dar."
 type: docs
 weight: 240
 url: /de/net/aspose.svg.drawing/color/alpha/
@@ -17,7 +17,5 @@ public float Alpha { get; }
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

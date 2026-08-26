@@ -1,28 +1,26 @@
 ---
-title: IElementTraversal.PreviousElementSibling
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IElementTraversal eigendom. Gibt den vorherigen gleichgeordneten Elementknoten dieses Elements zurück. null wenn dieses Element keine ElementGeschwisterknoten hat die vor diesem im Dokumentbaum stehen.
+title: "IElementTraversal.PreviousElementSibling"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IElementTraversal PreviousElementSibling Eigenschaft. Gibt den vorherigen Geschwisterelementknoten dieses Elements zurück. null, wenn dieses Element keine vorherigen Geschwisterelementknoten im Dokumentbaum hat."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom.traversal/ielementtraversal/previouselementsibling/
 ---
 ## IElementTraversal.PreviousElementSibling property
 
-Gibt den vorherigen gleichgeordneten Elementknoten dieses Elements zurück. null, wenn dieses Element keine Element-Geschwisterknoten hat, die vor diesem im Dokumentbaum stehen.
+Gibt den vorherigen Geschwister‑Elementknoten dieses Elements zurück. null, wenn dieses Element keine vorherigen Element‑Geschwisterknoten im Dokumentbaum hat.
 
 ```csharp
 public Element PreviousElementSibling { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das vorherige Element nebengeordnet.
+Das vorherige Element-Geschwister.
 
 ### Siehe auch
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* namensraum [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

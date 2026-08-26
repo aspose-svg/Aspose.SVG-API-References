@@ -1,27 +1,25 @@
 ---
-title: Counter.Separator
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Counter eigendom. Dieses Attribut wird für das Trennzeichen der verschachtelten Zähler verwendet.
+title: "Counter.Separator"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Counter Separator-Eigenschaft. Dieses Attribut wird für den Trenner der verschachtelten Zähler verwendet"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.css/counter/separator/
 ---
 ## Counter.Separator property
 
-Dieses Attribut wird für das Trennzeichen der verschachtelten Zähler verwendet.
+Dieses Attribut wird für den Trenner der verschachtelten Counter verwendet.
 
 ```csharp
 public string Separator { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Zählertrennzeichen.
+Der Zählertrenner.
 
 ### Siehe auch
 
 * class [Counter](../)
-* namensraum [Aspose.Svg.Dom.Css](../../counter/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

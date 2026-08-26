@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSMarginRule
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.ICSSMarginRule koppel. Die CSSMarginRuleSchnittstelle repräsentiert eine Randregel.
+title: "ICSSMarginRule Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.ICSSMarginRule Schnittstelle. Die CSSMarginRule Schnittstelle stellt eine margin-at-rule dar."
 type: docs
-weight: 590
+weight: 2590
 url: /de/net/aspose.svg.dom.css/icssmarginrule/
 ---
 ## ICSSMarginRule interface
 
-Die CSSMarginRule-Schnittstelle repräsentiert eine Randregel.
+Das CSSMarginRule-Interface repräsentiert eine margin-At-Regel.
 
 ```csharp
 public interface ICSSMarginRule : ICSSRule
@@ -18,13 +18,11 @@ public interface ICSSMarginRule : ICSSRule
 
 | Name | Beschreibung |
 | --- | --- |
-| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | Das name-Attribut muss den Namen der Margin-at-Regel zurückgeben. Das @-Zeichen ist nicht im Namen enthalten. |
+| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | Das Namensattribut muss den Namen der margin-at-rule zurückgeben. Das @‑Zeichen ist im Namen nicht enthalten. |
 | [Style](../../aspose.svg.dom.css/icssmarginrule/style/) { get; } | Der Deklarationsblock dieser Regel. |
 
 ### Siehe auch
 
 * interface [ICSSRule](../icssrule/)
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

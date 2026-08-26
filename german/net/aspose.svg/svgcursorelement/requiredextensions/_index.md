@@ -1,20 +1,20 @@
 ---
-title: SVGCursorElement.RequiredExtensions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGCursorElement eigendom. Entspricht dem Attribut requiredExtensions für das angegebene Element.
+title: "SVGCursorElement.RequiredExtensions"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Eigenschaft SVGCursorElement RequiredExtensions. Entspricht dem Attribut requiredExtensions des angegebenen Elements."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/svgcursorelement/requiredextensions/
 ---
 ## SVGCursorElement.RequiredExtensions property
 
-Entspricht dem Attribut 'requiredExtensions' für das angegebene Element.
+Entspricht dem Attribut ‘requiredExtensions’ des angegebenen Elements.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die erforderlichen Erweiterungen.
 
@@ -22,7 +22,5 @@ Die erforderlichen Erweiterungen.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGCursorElement](../)
-* namensraum [Aspose.Svg](../../svgcursorelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

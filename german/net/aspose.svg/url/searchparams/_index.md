@@ -1,28 +1,26 @@
 ---
-title: Url.SearchParams
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Url eigendom. Ruft eine zugeordnete abIUrlSearchParams Objekt.
+title: "Url.SearchParams"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Url SearchParams-Eigenschaft. Gibt ein zugehöriges IUrlSearchParams-Objekt zurück."
 type: docs
 weight: 120
 url: /de/net/aspose.svg/url/searchparams/
 ---
 ## Url.SearchParams property
 
-Ruft eine zugeordnete ab[`IUrlSearchParams`](../../iurlsearchparams/) Objekt.
+Gibt ein zugehöriges [`IUrlSearchParams`](../../iurlsearchparams/) Objekt zurück.
 
 ```csharp
 public IUrlSearchParams SearchParams { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-[`IUrlSearchParams`](../../iurlsearchparams/) Objekt.
+[`IUrlSearchParams`](../../iurlsearchparams/) object.
 
 ### Siehe auch
 
 * interface [IUrlSearchParams](../../iurlsearchparams/)
 * class [Url](../)
-* namensraum [Aspose.Svg](../../url/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

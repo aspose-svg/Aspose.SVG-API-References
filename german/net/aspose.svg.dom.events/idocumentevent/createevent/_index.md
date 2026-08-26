@@ -1,14 +1,14 @@
 ---
-title: IDocumentEvent.CreateEvent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDocumentEvent methode. Erstellt eineEvent eines Typs der von der Implementierung unterstützt wird.
+title: "IDocumentEvent.CreateEvent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDocumentEvent CreateEvent‑Methode. Erstellt ein Ereignis eines von der Implementierung unterstützten Typs."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.events/idocumentevent/createevent/
 ---
 ## IDocumentEvent.CreateEvent method
 
-Erstellt eine[`Event`](../../event/) eines Typs, der von der Implementierung unterstützt wird.
+Erstellt ein [`Event`](../../event/) eines von der Implementierung unterstützten Typs.
 
 ```csharp
 public Event CreateEvent(string eventType)
@@ -16,23 +16,21 @@ public Event CreateEvent(string eventType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| eventType | String | Der eventType-Parameter gibt den Typ von an[`Event`](../../event/) zu erstellende Schnittstelle.  Wenn die[`Event`](../../event/)Die angegebene Schnittstelle wird von der Implementierung unterstützt. Diese Methode gibt ein new zurück.[`Event`](../../event/) des angeforderten Schnittstellentyps. Wenn die[`Event`](../../event/)soll per versendet werden[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) Methode die entsprechende [`InitEvent`](../../event/initevent/) -Methode muss nach der Erstellung aufgerufen werden, um die zu initialisieren[`Event`](../../event/) s-Werte. |
+| eventType | String | Der Parameter eventType gibt den Typ des zu erstellenden [`Event`](../../event/)‑Interfaces an. Wenn das angegebene [`Event`](../../event/)‑Interface von der Implementierung unterstützt wird, gibt diese Methode ein neues [`Event`](../../event/) des angeforderten Interface‑Typs zurück. Soll das [`Event`](../../event/) über die Methode [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) gesendet werden, muss nach der Erstellung die entsprechende Methode [`InitEvent`](../../event/initevent/) aufgerufen werden, um die Werte des [`Event`](../../event/) zu initialisieren. |
 
 ### Rückgabewert
 
-Die neu erstellte[`Event`](../../event/)
+Das neu erstellte [`Event`](../../event/)
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Wird ausgelöst, wenn die Implementierung den Typ von nicht unterstützt[`Event`](../../event/) Schnittstelle angefordert |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Wird ausgelöst, wenn die Implementierung den angeforderten Typ des [`Event`](../../event/)‑Interfaces nicht unterstützt |
 
 ### Siehe auch
 
 * class [Event](../../event/)
 * interface [IDocumentEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../idocumentevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

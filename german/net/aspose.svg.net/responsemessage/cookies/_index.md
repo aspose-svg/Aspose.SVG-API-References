@@ -1,14 +1,14 @@
 ---
-title: ResponseMessage.Cookies
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ResponseMessage eigendom. Ruft die CookieSammlung ab oder legt sie fest.
+title: "ResponseMessage.Cookies"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ResponseMessage Cookies-Eigenschaft. Liest oder setzt die Cookie-Sammlung"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.net/responsemessage/cookies/
 ---
 ## ResponseMessage.Cookies property
 
-Ruft die Cookie-Sammlung ab oder legt sie fest.
+Liest oder setzt die Cookie-Sammlung.
 
 ```csharp
 public CookieCollection Cookies { get; set; }
@@ -17,7 +17,5 @@ public CookieCollection Cookies { get; set; }
 ### Siehe auch
 
 * class [ResponseMessage](../)
-* namensraum [Aspose.Svg.Net](../../responsemessage/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

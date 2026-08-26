@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnHashChange
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IWindowEventHandlers evenement. Ruft Ereignishandler ab oder legt es fest
+title: "IWindowEventHandlers.OnHashChange"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IWindowEventHandlers OnHashChange-Ereignis. Gibt den Ereignis-Handler zurück oder legt ihn fest."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.window/iwindoweventhandlers/onhashchange/
 ---
 ## IWindowEventHandlers.OnHashChange event
 
-Ruft Ereignishandler ab oder legt es fest
+Liest oder setzt den Ereignis‑Handler
 
 ```csharp
 public event DOMEventHandler OnHashChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnHashChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* namensraum [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ImageTraceSimplifier.ImageTraceSimplifier
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ImageTraceSimplifier constructeur. Initialisiert eine neue Instanz vonImageTraceSimplifier Klasse.
+title: "ImageTraceSimplifier"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ImageTraceSimplifier-Konstruktor. Erstellt eine neue Instanz der ImageTraceSimplifier-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.imagevectorization/imagetracesimplifier/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier() {#constructor}
 
-Initialisiert eine neue Instanz von[`ImageTraceSimplifier`](../) Klasse.
+Erstellt eine neue Instanz der [`ImageTraceSimplifier`](../)-Klasse.
 
 ```csharp
 public ImageTraceSimplifier()
@@ -17,14 +17,14 @@ public ImageTraceSimplifier()
 ### Siehe auch
 
 * class [ImageTraceSimplifier](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSimplifier(float) {#constructor_1}
+## ImageTraceSimplifier(*float*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`ImageTraceSimplifier`](../) Klasse.
+Erstellt eine neue Instanz der [`ImageTraceSimplifier`](../)-Klasse.
 
 ```csharp
 public ImageTraceSimplifier(float tolerance)
@@ -32,12 +32,10 @@ public ImageTraceSimplifier(float tolerance)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| tolerance | Single | Die Toleranz |
+| Toleranz | Single | Die Toleranz |
 
 ### Siehe auch
 
 * class [ImageTraceSimplifier](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

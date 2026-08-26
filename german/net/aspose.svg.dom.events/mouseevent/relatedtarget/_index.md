@@ -1,20 +1,20 @@
 ---
-title: MouseEvent.RelatedTarget
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent eigendom. Wird verwendet um je nach Art des Ereignisses ein sekundäres EventTarget zu identifizieren das sich auf ein UIEreignis bezieht.
+title: "MouseEvent.RelatedTarget"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent RelatedTarget-Eigenschaft. Wird verwendet, um ein sekundäres EventTarget zu identifizieren, das mit einem UI-Ereignis in Abhängigkeit vom Ereignistyp verknüpft ist"
 type: docs
 weight: 90
 url: /de/net/aspose.svg.dom.events/mouseevent/relatedtarget/
 ---
 ## MouseEvent.RelatedTarget property
 
-Wird verwendet, um je nach Art des Ereignisses ein sekundäres EventTarget zu identifizieren, das sich auf ein UI-Ereignis bezieht.
+Wird verwendet, um ein sekundäres EventTarget zu identifizieren, das mit einem UI-Ereignis in Zusammenhang steht, abhängig vom Ereignistyp.
 
 ```csharp
 public EventTarget RelatedTarget { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das zugehörige Ziel.
 
@@ -22,7 +22,5 @@ Das zugehörige Ziel.
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

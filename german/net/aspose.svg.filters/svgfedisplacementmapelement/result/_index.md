@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.Result
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEDisplacementMapElement eigendom. Entspricht dem Attribut Ergebnis des angegebenen FilterElements.
+title: "SVGFEDisplacementMapElement.Result"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEDisplacementMapElement Result‑Eigenschaft. Entspricht dem Attribut result des angegebenen Filter‑Elements."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.filters/svgfedisplacementmapelement/result/
 ---
 ## SVGFEDisplacementMapElement.Result property
 
-Entspricht dem Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘result’ im angegebenen ‘filter’-Element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Das Attribut ‘result’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDisplacementMapElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

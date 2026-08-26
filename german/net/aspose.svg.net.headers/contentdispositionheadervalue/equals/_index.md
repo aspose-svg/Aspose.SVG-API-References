@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.Equals
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ContentDispositionHeaderValue methode. Bestimmt ob die angegebeneObject ist gleich dieser Instanz.
+title: "ContentDispositionHeaderValue.Equals"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ContentDispositionHeaderValue Equals Methode. Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.net.headers/contentdispositionheadervalue/equals/
 ---
 ## ContentDispositionHeaderValue.Equals method
 
-Bestimmt, ob die angegebeneObject ist gleich dieser Instanz.
+Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject mit dieser Instanz zu vergleichen. |
+| obj | Objekt | Das Objekt, das mit dieser Instanz verglichen werden soll. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegebenObject ist gleich dieser Instanz; ansonsten,`FALSCH`.
+`true`, wenn das angegebene Objekt mit dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [ContentDispositionHeaderValue](../)
-* namensraum [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

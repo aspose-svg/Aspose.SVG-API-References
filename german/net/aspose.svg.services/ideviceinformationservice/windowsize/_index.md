@@ -1,20 +1,20 @@
 ---
-title: IDeviceInformationService.WindowSize
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDeviceInformationService eigendom. Ruft die Größe des Fensters ab oder legt sie fest.
+title: "IDeviceInformationService.WindowSize"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDeviceInformationService WindowSize-Eigenschaft. Gibt die Größe des Fensters zurück oder legt sie fest."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.services/ideviceinformationservice/windowsize/
 ---
 ## IDeviceInformationService.WindowSize property
 
-Ruft die Größe des Fensters ab oder legt sie fest.
+Liest oder setzt die Größe des Fensters.
 
 ```csharp
 public Size WindowSize { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Größe des Fensters.
 
@@ -22,7 +22,5 @@ Die Größe des Fensters.
 
 * class [Size](../../../aspose.svg.drawing/size/)
 * interface [IDeviceInformationService](../)
-* namensraum [Aspose.Svg.Services](../../ideviceinformationservice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,33 @@
 ---
-title: Node.NodeName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node eigendom. Der Name dieses Knotens abhängig von seinem Typ.
+title: "Node.NodeName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node NodeName‑Eigenschaft. Gibt den Namen des aktuellen Knotens als Zeichenkette zurück."
 type: docs
-weight: 90
+weight: 80
 url: /de/net/aspose.svg.dom/node/nodename/
 ---
 ## Node.NodeName property
 
-Der Name dieses Knotens, abhängig von seinem Typ.
+Gibt den Namen des aktuellen Knotens als Zeichenkette zurück.
 
 ```csharp
 public abstract string NodeName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Name des Knotens.
+Eine Zeichenkette, Werte für die verschiedenen Knotentypen sind:
+
+[`Attr`](../../attr/) - The value of Attr.name, that is the qualified name of the attribute.[`CDATASection`](../../cdatasection/) - The string "#cdata-section".[`Comment`](../../comment/) - The string "#comment".[`Document`](../../document/) - The string "#document".[`DocumentFragment`](../../documentfragment/) - The string "#document-fragment".[`DocumentType`](../../documenttype/) - The value of [`Name`](../../documenttype/name/)[`Element`](../../element/) - The value of [`TagName`](../../element/tagname/), that is the uppercase name of the element tag if an HTML element, or the lowercase element tag if an XML element (like an SVG or MATHML element).[`ProcessingInstruction`](../../processinginstruction/) - The value of [`Target`](../../processinginstruction/target/)[`Text`](../../text/) - The string "#text".
+
+## Hinweise
+
+Referenz:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nodename).
 
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

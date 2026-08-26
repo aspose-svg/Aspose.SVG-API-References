@@ -1,9 +1,9 @@
 ---
-title: Class RequestMessage
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.RequestMessage klas. Stellt eine Anforderungsnachricht dar.
+title: "RequestMessage Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.RequestMessage Klasse. Stellt eine Anforderungsnachricht dar."
 type: docs
-weight: 2420
+weight: 4490
 url: /de/net/aspose.svg.net/requestmessage/
 ---
 ## RequestMessage class
@@ -14,35 +14,33 @@ Stellt eine Anforderungsnachricht dar.
 public class RequestMessage : IDisposable
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [RequestMessage](requestmessage/#constructor_1)(string) | Initialisiert eine neue Instanz von`RequestMessage` Klasse. |
-| [RequestMessage](requestmessage/#constructor)(Url) | Initialisiert eine neue Instanz von`RequestMessage` Klasse. |
+| [RequestMessage](requestmessage/#constructor_1)(*string*) | Initialisiert eine neue Instanz der `RequestMessage` Klasse. |
+| [RequestMessage](requestmessage/#constructor)(*[Url](../../aspose.svg/url/)*) | Initialisiert eine neue Instanz der `RequestMessage` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Content](../../aspose.svg.net/requestmessage/content/) { get; set; } | Ruft den Anforderungsinhalt ab oder legt ihn fest. |
-| [CookieContainer](../../aspose.svg.net/requestmessage/cookiecontainer/) { get; set; } | Ruft den Cookie-Container ab oder legt ihn fest, der vom Handler zum Speichern von Server-Cookies verwendet wird. |
-| [Credentials](../../aspose.svg.net/requestmessage/credentials/) { get; set; } | Ruft Authentifizierungsinformationen für die Anfrage ab oder legt sie fest. |
-| [Headers](../../aspose.svg.net/requestmessage/headers/) { get; } | Ruft die ab[`RequestHeaders`](../requestheaders/) . |
-| [Method](../../aspose.svg.net/requestmessage/method/) { get; set; } | Ruft ab oder setzt die[`HttpMethod`](../httpmethod/) . |
-| [PreAuthenticate](../../aspose.svg.net/requestmessage/preauthenticate/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob ein Autorisierungsheader mit der Anforderung gesendet werden soll. |
-| [RequestUri](../../aspose.svg.net/requestmessage/requesturi/) { get; set; } | Ruft den Anforderungs-URI ab oder legt ihn fest. |
-| [Timeout](../../aspose.svg.net/requestmessage/timeout/) { get; set; } | Die Anzahl der zu wartenden Millisekunden, bevor die Anforderung das Zeitlimit überschreitet. Der Standardwert ist 100.000 Millisekunden (100 Sekunden). |
+| [Content](../../aspose.svg.net/requestmessage/content/) { get; set; } | Liest oder setzt den Anforderungsinhalt. |
+| [CookieContainer](../../aspose.svg.net/requestmessage/cookiecontainer/) { get; set; } | Liest oder setzt den Cookie-Container, der vom Handler zum Speichern von Server-Cookies verwendet wird. |
+| [Credentials](../../aspose.svg.net/requestmessage/credentials/) { get; set; } | Liest oder setzt Authentifizierungsinformationen für die Anforderung. |
+| [Headers](../../aspose.svg.net/requestmessage/headers/) { get; } | Liest die [`RequestHeaders`](../requestheaders/). |
+| [Method](../../aspose.svg.net/requestmessage/method/) { get; set; } | Liest oder setzt die [`HttpMethod`](../httpmethod/). |
+| [PreAuthenticate](../../aspose.svg.net/requestmessage/preauthenticate/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob ein Authorization-Header mit der Anforderung gesendet werden soll. |
+| [RequestUri](../../aspose.svg.net/requestmessage/requesturi/) { get; set; } | Liest oder setzt die Anforderungs-URI. |
+| [Timeout](../../aspose.svg.net/requestmessage/timeout/) { get; set; } | Die Anzahl der Millisekunden, die gewartet werden soll, bevor die Anforderung abläuft. Der Standardwert beträgt 100.000 Millisekunden (100 Sekunden). |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/requestmessage/dispose/)() | Führt anwendungsdefinierte Aufgaben aus, die mit dem Freigeben, Freigeben oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
+| [Dispose](../../aspose.svg.net/requestmessage/dispose/)() | Führt anwendungsspezifische Aufgaben aus, die mit dem Freigeben, Freisetzen oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Net](../../aspose.svg.net/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

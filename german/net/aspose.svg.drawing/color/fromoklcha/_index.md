@@ -1,14 +1,14 @@
 ---
-title: Color.FromOklcha
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color methode. Gibt eine neue Farbe mit den angeforderten Werten für Luminanz Chroma Farbton und Alpha für das OKLABModell zurück.
+title: "Color.FromOklcha"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color FromOklcha-Methode. Gibt eine neue Farbe mit den angeforderten Luminanz-, Chroma-, Farbton- und Alpha-Werten für das OKLAB-Modell zurück."
 type: docs
 weight: 190
 url: /de/net/aspose.svg.drawing/color/fromoklcha/
 ---
 ## Color.FromOklcha method
 
-Gibt eine neue Farbe mit den angeforderten Werten für Luminanz, Chroma, Farbton und Alpha für das OKLAB-Modell zurück.
+Gibt eine neue Color mit den gewünschten Leuchtkraft-, Chroma-, Farbton- und Alphawerten für das OKLAB-Modell zurück.
 
 ```csharp
 public static Color FromOklcha(float luminance, float chroma, float hue, float alpha)
@@ -16,19 +16,17 @@ public static Color FromOklcha(float luminance, float chroma, float hue, float a
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| luminance | Single | Ein Float, der die Luminanzkomponente der Farbe darstellt. |
-| chroma | Single | Ein Float, der die Chroma-Komponente der Farbe darstellt. |
-| hue | Single | Ein Float, der die Farbtonkomponente der Farbe darstellt. |
-| alpha | Single | Ein Float, der die Alpha-Komponente der Farbe darstellt. |
+| Luminanz | Single | Ein Float, der die Luminanzkomponente der Farbe darstellt. |
+| Chroma | Single | Ein Float, der die Chromakomponente der Farbe darstellt. |
+| Farbton | Single | Ein Float, der die Farbtonkomponente der Farbe darstellt. |
+| Alpha | Single | Ein Float, das die Alpha‑Komponente der Farbe darstellt. |
 
 ### Rückgabewert
 
-Eine neue Instanz der[`Color`](../) Klasse
+Eine neue Instanz der [`Color`](../) Klasse
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

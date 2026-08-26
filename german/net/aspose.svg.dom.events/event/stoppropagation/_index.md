@@ -1,27 +1,25 @@
 ---
-title: Event.StopPropagation
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Event methode. DieStopPropagation Methode verwendet wird verhindert die weitere Ausbreitung eines Ereignisses während des Ereignisflusses.
+title: "Event.StopPropagation"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Event StopPropagation-Methode. Die StopPropagation-Methode wird verwendet, um die weitere Weiterleitung eines Ereignisses während des Ereignisflusses zu verhindern."
 type: docs
 weight: 140
 url: /de/net/aspose.svg.dom.events/event/stoppropagation/
 ---
 ## Event.StopPropagation method
 
-Die`StopPropagation` -Methode verwendet wird, verhindert die weitere Ausbreitung eines Ereignisses während des Ereignisflusses.
+Die `StopPropagation`-Methode wird verwendet, um die weitere Weiterleitung eines Ereignisses während des Ereignisflusses zu verhindern.
 
 ```csharp
 public void StopPropagation()
 ```
 
-### Bemerkungen
+## Hinweise
 
-Wenn diese Methode von irgendjemand aufgerufen wird[`IEventListener`](../../ieventlistener/) das Ereignis hört auf, sich durch den Baum zu verbreiten. Das Ereignis wird die Verteilung an alle Listener auf dem Strom abschließen[`IEventTarget`](../../ieventtarget/) bevor der Ereignisablauf stoppt. Diese Methode kann in jeder Phase des Ereignisablaufs verwendet werden.
+Wenn diese Methode von einem beliebigen [`IEventListener`](../../ieventlistener/) aufgerufen wird, hört das Ereignis auf, durch den Baum zu propagieren. Das Ereignis wird die Zustellung an alle Listener des aktuellen [`IEventTarget`](../../ieventtarget/) abschließen, bevor der Ereignisfluss stoppt. Diese Methode kann in jeder Phase des Ereignisflusses verwendet werden.
 
 ### Siehe auch
 
 * class [Event](../)
-* namensraum [Aspose.Svg.Dom.Events](../../event/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

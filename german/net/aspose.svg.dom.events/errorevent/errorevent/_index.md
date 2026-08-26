@@ -1,14 +1,14 @@
 ---
-title: ErrorEvent.ErrorEvent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ErrorEvent constructeur. Initialisiert eine neue Instanz vonErrorEvent Klasse.
+title: "ErrorEvent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ErrorEvent Konstruktor. Initialisiert eine neue Instanz der Klasse ErrorEvent"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent(Exception) {#constructor_1}
+## ErrorEvent(*Exception*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`ErrorEvent`](../) Klasse.
+Initialisiert eine neue Instanz der [`ErrorEvent`](../) Klasse.
 
 ```csharp
 public ErrorEvent(Exception exception)
@@ -16,19 +16,19 @@ public ErrorEvent(Exception exception)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| exception | Exception | Die Ausnahme. |
+| Ausnahme | Ausnahme | Die Ausnahme. |
 
 ### Siehe auch
 
 * class [ErrorEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../errorevent/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
+## ErrorEvent(*IDictionary&lt;string, object&gt;*) {#constructor}
 
-Initialisiert eine neue Instanz von[`ErrorEvent`](../) Klasse.
+Initialisiert eine neue Instanz der [`ErrorEvent`](../) Klasse.
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)
@@ -36,12 +36,10 @@ public ErrorEvent(IDictionary<string, object> eventInitDict)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| eventInitDict | IDictionary`2 | Das Event-Initialisierungsobjekt. |
+| eventInitDict | IDictionary`2 | Das Ereignis-Initialisierungsobjekt. |
 
 ### Siehe auch
 
 * class [ErrorEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../errorevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

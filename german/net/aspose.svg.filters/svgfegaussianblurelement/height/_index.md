@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Height
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEGaussianBlurElement eigendom. Entspricht dem Attribut Höhe des angegebenen FilterElements.
+title: "SVGFEGaussianBlurElement.Height"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEGaussianBlurElement Height‑Eigenschaft. Entspricht dem Attribut height im angegebenen Filter‑Element."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.filters/svgfegaussianblurelement/height/
 ---
 ## SVGFEGaussianBlurElement.Height property
 
-Entspricht dem Attribut „Höhe“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut �height� im angegebenen �filter�-Element.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Höhe“ des gegebenen „Filter“-Elements.
+Das Attribut �height� des angegebenen �filter� Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

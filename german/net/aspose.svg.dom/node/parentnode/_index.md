@@ -1,23 +1,33 @@
 ---
-title: Node.ParentNode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node eigendom. Das übergeordnete Element dieses Knotens. Alle Knoten außer Attr Document DocumentFragment Entity und Notation können einen Elternknoten haben. Wenn jedoch ein Knoten gerade erstellt und noch nicht zum Baum hinzugefügt oder aus dem Baum entfernt wurde ist dies null.
+title: "Node.ParentNode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node ParentNode‑Eigenschaft. Gibt den Elternknoten des angegebenen Knotens im DOM‑Baum zurück."
 type: docs
-weight: 140
+weight: 130
 url: /de/net/aspose.svg.dom/node/parentnode/
 ---
 ## Node.ParentNode property
 
-Das übergeordnete Element dieses Knotens. Alle Knoten außer Attr, Document, DocumentFragment, Entity und Notation können einen Elternknoten haben. Wenn jedoch ein Knoten gerade erstellt und noch nicht zum Baum hinzugefügt oder aus dem Baum entfernt wurde, ist dies null.
+Gibt den Elternknoten des angegebenen Knotens im DOM‑Baum zurück.
+
+[`Document`](../../document/) and [`DocumentFragment`](../../documentfragment/) nodes can never have a parent, so ParentNode will always return null. It also returns null if the node has just been created and is not yet attached to the tree.
 
 ```csharp
 public Node ParentNode { get; }
 ```
 
+### Property Value
+
+Ein Node, der das übergeordnete Element des aktuellen Knotens ist. Der Elternknoten eines Elements ist ein [`Element`](../../element/)-Knoten, ein [`Document`](../../document/)-Knoten oder ein [`DocumentFragment`](../../documentfragment/)-Knoten.
+
+## Hinweise
+
+Referenz:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-parentnode).
+
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

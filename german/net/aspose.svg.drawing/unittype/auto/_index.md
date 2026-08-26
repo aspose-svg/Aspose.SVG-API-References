@@ -1,7 +1,7 @@
 ---
-title: UnitType.Auto
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType veld. Messung ist nicht definiert.
+title: "UnitType.Auto"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType Auto-Feld. Messung ist nicht definiert"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/unittype/auto/
@@ -17,7 +17,5 @@ public static readonly UnitType Auto;
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

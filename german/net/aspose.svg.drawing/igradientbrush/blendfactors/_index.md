@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendFactors
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IGradientBrush eigendom. Abrufen der Mischfaktoren die einen benutzerdefinierten Abfall für den Farbverlauf definieren.
+title: "IGradientBrush.BlendFactors"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IGradientBrush BlendFactors Eigenschaft. Ruft die Blend‑Faktoren ab oder legt sie fest, die einen benutzerdefinierten Abfall für den Verlauf definieren"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/igradientbrush/blendfactors/
 ---
 ## IGradientBrush.BlendFactors property
 
-Abrufen der Mischfaktoren, die einen benutzerdefinierten Abfall für den Farbverlauf definieren.
+Liest oder setzt die Mischfaktoren, die einen benutzerdefinierten Abfall für den Farbverlauf definieren.
 
 ```csharp
-public float[] BlendFactors { get; }
+public float[] BlendFactors { get; set; }
 ```
 
 ### Rückgabewert
 
-Mischfaktoren.
+Blend‑Faktoren.
 
 ### Siehe auch
 
 * interface [IGradientBrush](../)
-* namensraum [Aspose.Svg.Drawing](../../igradientbrush/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

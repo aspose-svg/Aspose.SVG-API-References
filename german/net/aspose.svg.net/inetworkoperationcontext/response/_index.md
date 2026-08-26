@@ -1,20 +1,20 @@
 ---
-title: INetworkOperationContext.Response
-second_title: Aspose.SVG für .NET-API-Referenz
-description: INetworkOperationContext eigendom. Ruft die Antwortnachricht ab oder legt sie fest.
+title: "INetworkOperationContext.Response"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "INetworkOperationContext Response Eigenschaft. Ruft die Antwortnachricht ab oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.net/inetworkoperationcontext/response/
 ---
 ## INetworkOperationContext.Response property
 
-Ruft die Antwortnachricht ab oder legt sie fest.
+Liest oder setzt die Antwortnachricht.
 
 ```csharp
 public ResponseMessage Response { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Antwortnachricht.
 
@@ -22,7 +22,5 @@ Die Antwortnachricht.
 
 * class [ResponseMessage](../../responsemessage/)
 * interface [INetworkOperationContext](../)
-* namensraum [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

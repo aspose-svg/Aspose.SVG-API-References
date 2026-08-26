@@ -1,14 +1,14 @@
 ---
-title: Enum Sandbox
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Sandbox opsomming. Ein SandboxingFlagSet ist ein Satz von null oder mehr der folgenden Flags die verwendet werden um die Fähigkeiten von potenziell nicht vertrauenswürdigen Ressourcen einzuschränken.
+title: "Sandbox‑Enum"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Sandbox‑Enum. Ein Sandbox‑Flag‑Set ist eine Menge von null oder mehr der folgenden Flags, die verwendet werden, um die Fähigkeiten potenziell nicht vertrauenswürdiger Ressourcen einzuschränken."
 type: docs
-weight: 3610
+weight: 5680
 url: /de/net/aspose.svg/sandbox/
 ---
 ## Sandbox enumeration
 
-Ein Sandboxing-Flag-Set ist ein Satz von null oder mehr der folgenden Flags, die verwendet werden, um die Fähigkeiten von potenziell nicht vertrauenswürdigen Ressourcen einzuschränken.
+Ein Sandbox-Flag-Set ist eine Menge von null oder mehr der folgenden Flags, die verwendet werden, um die Fähigkeiten potenziell nicht vertrauenswürdiger Ressourcen einzuschränken.
 
 ```csharp
 [Flags]
@@ -19,23 +19,21 @@ public enum Sandbox
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| None | `0` | Kein Flag gesetzt, jede Sandbox-Funktion wird akzeptiert |
-| Navigation | `1` | Dieses Flag verhindert, dass Inhalt in anderen Browsing-Kontexten als dem Sandbox-Browsing-Kontext selbst (oder darin weiter verschachtelten Browsing-Kontexten), Hilfs-Browsing-Kontexten (die durch das als nächstes definierte Sandbox-Hilfsnavigations-Browsing-Kontext-Flag geschützt sind) und der obersten Ebene navigiert Browsing-Kontext (der durch das unten definierte Sandbox-Flag für den Browsing-Kontext der obersten Navigationsebene geschützt ist). Wenn das Flag für den Browsing-Kontext der Sandbox-Hilfsnavigation nicht gesetzt ist, erlauben die Einschränkungen in bestimmten Fällen dennoch das Öffnen von Popups (neue Browsing-Kontexte der obersten Ebene). Diese Browsing-Kontexte verfügen immer über einen zugelassenen Sandbox-Navigator, der beim Erstellen des Browsing-Kontexts festgelegt wird, wodurch der Browsing-Kontext, der sie erstellt hat, tatsächlich in ihnen navigieren kann. (Andernfalls würde das Flag für den Browser-Kontext der Sandbox-Navigation verhindern, dass sie navigiert werden, selbst wenn sie geöffnet wären. |
-| AuxiliaryNavigation | `2` | Dieses Flag verhindert, dass Inhalte neue Hilfs-Browsing-Kontexte erstellen, z. B. mit dem Attribut target oder der Methode window.open(). |
-| TopLevelNavigation | `4` | Dieses Flag verhindert, dass Inhalt in seinem Browserkontext der obersten Ebene navigiert, und verhindert, dass Inhalt seinen Browserkontext der obersten Ebene schließt. Wenn das Flag für den Browsing-Kontext der Sandbox-Navigation der obersten Ebene nicht gesetzt ist, kann Inhalt in seinem Browsing-Kontext der obersten Ebene navigieren, aber andere Browsing-Kontexte werden weiterhin durch das Flag für den Browsing-Kontext der Sandbox-Navigation und möglicherweise durch das Flag für den Browsing-Kontext der Sandbox-Zusatznavigation geschützt. |
-| Plugins | `8` | Dieses Flag verhindert, dass Inhalte Plug-ins instanziieren, sei es durch die Verwendung des Embed-Elements, des Object-Elements, des Applet-Elements oder durch Navigation in einem verschachtelten Browsing-Kontext, es sei denn, diese Plug-ins können gesichert werden. |
-| Origin | `10` | Dieses Flag zwingt Inhalte zu einem eindeutigen Ursprung und verhindert so den Zugriff auf andere Inhalte desselben Ursprungs. |
-| Forms | `20` | Dieses Flag blockiert die Formularübermittlung. |
-| PointerLock | `40` | Dieses Flag deaktiviert die Pointer Lock API. |
+| None | `0` | Kein Flag ist gesetzt, jedes Sandbox‑Feature wird akzeptiert. |
+| Navigation | `1` | Dieses Flag verhindert, dass Inhalte Browsing‑Kontexte navigieren, die nicht der sandboxed browsing context selbst (oder weiter darin verschachtelte Browsing‑Kontexte) sind, Hilfs‑Browsing‑Kontexte (die durch das im Folgenden definierte sandboxed auxiliary navigation browsing context‑Flag geschützt sind) und der Top‑Level‑Browsing‑Kontext (der durch das unten definierte sandboxed top-level navigation browsing context‑Flag geschützt ist). Wenn das sandboxed auxiliary navigation browsing context‑Flag nicht gesetzt ist, erlauben die Beschränkungen in bestimmten Fällen dennoch das Öffnen von Pop‑ups (neuen Top‑Level‑Browsing‑Kontexten). Diese Browsing‑Kontexte haben stets einen zulässigen sandboxed Navigator, der beim Erzeugen des Browsing‑Kontexts festgelegt wird und dem erstellenden Browsing‑Kontext erlaubt, sie tatsächlich zu navigieren. (Andernfalls würde das sandboxed navigation browsing context‑Flag sie selbst dann verhindern, wenn sie geöffnet wurden.) |
+| AuxiliaryNavigation | `2` | Dieses Flag verhindert, dass Inhalte neue Hilfs‑Browsing‑Kontexte erstellen, z. B. durch die Verwendung des target‑Attributs oder der window.open()-Methode. |
+| TopLevelNavigation | `4` | Dieses Flag verhindert, dass Inhalte ihren Top‑Level‑Browsing‑Kontext navigieren und verhindert, dass Inhalte ihren Top‑Level‑Browsing‑Kontext schließen. Wenn das Sandbox‑Top‑Level‑Navigations‑Browsing‑Kontext‑Flag nicht gesetzt ist, können Inhalte ihren Top‑Level‑Browsing‑Kontext navigieren, aber andere Browsing‑Kontexte bleiben weiterhin durch das Sandbox‑Navigations‑Browsing‑Kontext‑Flag und ggf. das Sandbox‑Hilfs‑Navigations‑Browsing‑Kontext‑Flag geschützt. |
+| Plugins | `8` | Dieses Flag verhindert, dass Inhalte Plugins instanziieren, sei es über das embed‑Element, das object‑Element, das applet‑Element oder durch Navigation eines verschachtelten Browsing‑Kontexts, es sei denn, diese Plugins können gesichert werden. |
+| Origin | `10` | Dieses Flag zwingt Inhalte in einen eindeutigen Ursprung, wodurch verhindert wird, dass sie auf andere Inhalte desselben Ursprungs zugreifen. |
+| Forms | `20` | Dieses Flag blockiert das Absenden von Formularen. |
+| PointerLock | `40` | Dieses Flag deaktiviert die Pointer‑Lock‑API. |
 | Scripts | `80` | Dieses Flag blockiert die Skriptausführung. |
-| AutomaticFeatures | `100` | Dieses Flag blockiert Funktionen, die automatisch ausgelöst werden, z. B. das automatische Abspielen eines Videos oder das automatische Fokussieren eines Formularsteuerelements. |
-| Fullscreen | `200` | Dieses Flag verhindert, dass Inhalte die Methode requestFullscreen() verwenden. |
-| DocumentDomain | `400` | Dieses Flag verhindert, dass Inhalt die document.domain-Funktion verwendet, um den effektiven Skriptursprung zu ändern. |
+| AutomaticFeatures | `100` | Dieses Flag blockiert Funktionen, die automatisch ausgelöst werden, wie das automatische Abspielen eines Videos oder das automatische Fokussieren einer Formularkontrolle. |
+| Fullscreen | `200` | Dieses Flag verhindert, dass Inhalte die requestFullscreen()-Methode verwenden. |
+| DocumentDomain | `400` | Dieses Flag verhindert, dass Inhalte die document.domain‑Funktion nutzen, um den effektiven Skript‑Ursprung zu ändern. |
 | Images | `800` | Dieses Flag deaktiviert das Laden von Bildern. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

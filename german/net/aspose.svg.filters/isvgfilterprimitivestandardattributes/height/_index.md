@@ -1,28 +1,26 @@
 ---
-title: ISVGFilterPrimitiveStandardAttributes.Height
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ISVGFilterPrimitiveStandardAttributes eigendom. Entspricht dem Attribut Höhe des angegebenen FilterElements.
+title: "ISVGFilterPrimitiveStandardAttributes.Height"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ISVGFilterPrimitiveStandardAttributes Height Eigenschaft. Entspricht dem Attribut height im angegebenen Filterelement"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/height/
 ---
 ## ISVGFilterPrimitiveStandardAttributes.Height property
 
-Entspricht dem Attribut „Höhe“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘height’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Höhe“ des angegebenen „Filter“-Elements.
+Das Attribut ‘height’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * interface [ISVGFilterPrimitiveStandardAttributes](../)
-* namensraum [Aspose.Svg.Filters](../../isvgfilterprimitivestandardattributes/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

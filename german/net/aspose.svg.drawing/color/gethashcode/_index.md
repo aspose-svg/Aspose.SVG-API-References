@@ -1,14 +1,14 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color methode. Gibt einen HashCode zurück.
+title: "Color.GetHashCode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color GetHashCode Methode. Gibt einen Hash‑Code zurück"
 type: docs
 weight: 320
 url: /de/net/aspose.svg.drawing/color/gethashcode/
 ---
 ## Color.GetHashCode method
 
-Gibt einen Hash-Code zurück.
+Gibt einen Hashcode zurück.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### Rückgabewert
 
-Ein Hashcode.
+Ein Hash‑Code.
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

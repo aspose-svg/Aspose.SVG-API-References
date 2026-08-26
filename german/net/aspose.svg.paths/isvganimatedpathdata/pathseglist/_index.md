@@ -1,20 +1,20 @@
 ---
-title: ISVGAnimatedPathData.PathSegList
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ISVGAnimatedPathData eigendom. Bietet Zugriff auf den Basisinhalt dh statischen des dAttributs in einer Form die eins zu eins mit der SVGSyntax übereinstimmt. Wenn also das dAttribut einen absolute moveto M und einen absolute arcto A Befehl hat dann hat pathSegList zwei Einträge einen SVG_PATHSEG_MOVETO_ABS und einen SVG_PATHSEG_ARC_ABS.
+title: "ISVGAnimatedPathData.PathSegList"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ISVGAnimatedPathData PathSegList Eigenschaft. Bietet Zugriff auf die Basis‑ bzw. statischen Inhalte des d‑Attributs in einer Form, die eins-zu-eins mit der SVG‑Syntax übereinstimmt. Wenn das d‑Attribut also einen absoluten moveto‑Befehl M und einen absoluten arcto‑Befehl A enthält, wird pathSegList zwei Einträge haben: SVG_PATHSEG_MOVETO_ABS und SVG_PATHSEG_ARC_ABS."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.paths/isvganimatedpathdata/pathseglist/
 ---
 ## ISVGAnimatedPathData.PathSegList property
 
-Bietet Zugriff auf den Basisinhalt (dh statischen) des 'd'-Attributs in einer Form, die eins zu eins mit der SVG-Syntax übereinstimmt. Wenn also das 'd'-Attribut einen "absolute moveto (M)" und einen "absolute arcto (A)" Befehl hat, dann hat pathSegList zwei Einträge: einen SVG_PATHSEG_MOVETO_ABS und einen SVG_PATHSEG_ARC_ABS.
+Bietet Zugriff auf die Basis‑ (d. h. statischen) Inhalte des ‘d’-Attributs in einer Form, die eins‑zu‑eins mit der SVG‑Syntax übereinstimmt. Wenn das ‘d’-Attribut also einen „absoluten moveto (M)“ und einen „absoluten arcto (A)“ Befehl enthält, wird pathSegList zwei Einträge haben: ein SVG_PATHSEG_MOVETO_ABS und ein SVG_PATHSEG_ARC_ABS.
 
 ```csharp
 public SVGPathSegList PathSegList { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Pfadsegmentliste.
 
@@ -22,7 +22,5 @@ Die Pfadsegmentliste.
 
 * class [SVGPathSegList](../../svgpathseglist/)
 * interface [ISVGAnimatedPathData](../)
-* namensraum [Aspose.Svg.Paths](../../isvganimatedpathdata/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

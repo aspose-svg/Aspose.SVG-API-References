@@ -1,33 +1,53 @@
 ---
-title: Configuration.GetService
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Configuration methode. Ruft den angeforderten Dienst ab.
+title: "Configuration.GetService"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Configuration GetService Methode. Ruft den angeforderten Dienst ab."
 type: docs
 weight: 50
 url: /de/net/aspose.svg/configuration/getservice/
 ---
-## Configuration.GetService&lt;TService&gt; method
+## GetService(*Type*) {#getservice}
 
 Ruft den angeforderten Dienst ab.
 
 ```csharp
-public TService GetService<TService>()
-    where TService : class, IService
+public object GetService(Type serviceType)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| serviceType | Typ | Der Typ des abzurufenden Dienstes. |
+
+### Rückgabewert
+
+Eine Instanz des Dienstes, falls sie gefunden werden konnte, oder null, falls sie nicht gefunden werden konnte.
+
+### Siehe auch
+
+* class [Configuration](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## GetService<T>() {#getservice_1}
+
+Ruft den angeforderten Dienst ab.
+
+```csharp
+public T GetService<T>()
 ```
 
 | Parameter | Beschreibung |
 | --- | --- |
-| TService | Der Typ des abzurufenden Dienstes. |
+| T | Der Typ des abzurufenden Dienstes. |
 
 ### Rückgabewert
 
-Eine Instanz des Dienstes, falls sie gefunden werden konnte, oderNull wenn es nicht gefunden werden konnte
+Eine Instanz des Dienstes, falls sie gefunden werden konnte, oder null, falls sie nicht gefunden werden konnte.
 
 ### Siehe auch
 
-* interface [IService](../../../aspose.svg.services/iservice/)
 * class [Configuration](../)
-* namensraum [Aspose.Svg](../../configuration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

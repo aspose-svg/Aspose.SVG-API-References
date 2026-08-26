@@ -1,24 +1,22 @@
 ---
-title: Element.Attributes
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element eigendom. Eine NamedNodeMap die die Attribute dieses Knotens enthält wenn es sich um ein Element handelt oder null andernfalls.
+title: "Element.Attributes"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element Attributes Eigenschaft. Eine NamedNodeMap, die die Attribute dieses Knotens enthält, wenn es ein Element ist, oder null andernfalls."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom/element/attributes/
 ---
 ## Element.Attributes property
 
-Eine NamedNodeMap, die die Attribute dieses Knotens enthält (wenn es sich um ein Element handelt) oder null andernfalls.
+Eine NamedNodeMap, die die Attribute dieses Knotens enthält (falls es ein Element ist) oder andernfalls null.
 
 ```csharp
-public override NamedNodeMap Attributes { get; }
+public NamedNodeMap Attributes { get; }
 ```
 
 ### Siehe auch
 
 * class [NamedNodeMap](../../../aspose.svg.collections/namednodemap/)
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

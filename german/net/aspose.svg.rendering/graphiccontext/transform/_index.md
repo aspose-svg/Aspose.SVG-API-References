@@ -1,27 +1,26 @@
 ---
-title: GraphicContext.Transform
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GraphicContext methode. Ändern Sie die aktuelle Transformationsmatrix indem Sie die angegebene Matrix multiplizieren.
+title: "GraphicContext.Transform"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GraphicContext Transform Methode. Modifiziert die aktuelle Transformationsmatrix, indem die angegebene Matrix multipliziert wird."
 type: docs
 weight: 180
 url: /de/net/aspose.svg.rendering/graphiccontext/transform/
 ---
 ## GraphicContext.Transform method
 
-Ändern Sie die aktuelle Transformationsmatrix, indem Sie die angegebene Matrix multiplizieren.
+Modifiziert die aktuelle Transformationsmatrix, indem die angegebene Matrix multipliziert wird.
 
 ```csharp
-public virtual void Transform(Matrix matrix)
+public virtual void Transform(IMatrix matrix)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| matrix | Matrix | Transformationsmatrix. |
+| Matrix | IMatrix | Transformationsmatrix. |
 
 ### Siehe auch
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* namensraum [Aspose.Svg.Rendering](../../graphiccontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Device2.EndElement
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Device methode. Beendet das Rendern des Knotens.
+title: "Device-2.EndElement"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Device EndElement-Methode. Beendet das Rendern des Knotens"
 type: docs
-weight: 130
+weight: 160
 url: /de/net/aspose.svg.rendering/device-2/endelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
+## Device<TGraphicContext,TRenderingOptions>.EndElement method
 
 Beendet das Rendern des Knotens.
 
 ```csharp
-public abstract void EndElement(Element element)
+public virtual void EndElement(Element element)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| element | Element | Der[`Element`](../../../aspose.svg.dom/element/). |
+| element | Element | Der [`Element`](../../../aspose.svg.dom/element/). |
 
 ### Siehe auch
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namensraum [Aspose.Svg.Rendering](../../device-2/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

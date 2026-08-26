@@ -1,28 +1,26 @@
 ---
-title: Size.Width
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Size eigendom. Ermittelt oder setzt die horizontale Komponente davonSize .
+title: "Size.Width"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Size Width-Eigenschaft. Gibt den horizontalen Bestandteil dieser Size zurück oder legt ihn fest."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.drawing/size/width/
 ---
 ## Size.Width property
 
-Ermittelt oder setzt die horizontale Komponente davon[`Size`](../) .
+Gibt den horizontalen Bestandteil dieses [`Size`](../) zurück oder legt ihn fest.
 
 ```csharp
 public Length Width { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die horizontale Komponente davon[`Size`](../) .
+Der horizontale Bestandteil dieses [`Size`](../).
 
 ### Siehe auch
 
 * class [Length](../../length/)
 * class [Size](../)
-* namensraum [Aspose.Svg.Drawing](../../size/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

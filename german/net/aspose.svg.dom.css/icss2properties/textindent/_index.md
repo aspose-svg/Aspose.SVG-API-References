@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextIndent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der textindent Eigenschaft in CSS2.
+title: "ICSS2Properties.TextIndent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties TextIndent Eigenschaft. Siehe die Definition der text-indent Eigenschaft in CSS2"
 type: docs
-weight: 1090
+weight: 1120
 url: /de/net/aspose.svg.dom.css/icss2properties/textindent/
 ---
 ## ICSS2Properties.TextIndent property
 
-Siehe Definition der text-indent Eigenschaft in CSS2.
+Siehe die text-indent Eigenschaftendefinition in CSS2.
 
 ```csharp
 public string TextIndent { get; set; }
@@ -16,12 +16,10 @@ public string TextIndent { get; set; }
 
 ### Rückgabewert
 
-text-indent-Eigenschaft
+text-indent Eigenschaft
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

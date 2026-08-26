@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.StitchTiles
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFETurbulenceElement eigendom. Entspricht dem Attribut stitchTiles auf dem gegebenen feTurbulenceElement. Akzeptiert eine der SVG_STITCHTYPE_Konstanten die auf dieser Schnittstelle definiert sind.
+title: "SVGFETurbulenceElement.StitchTiles"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFETurbulenceElement StitchTiles Eigenschaft. Entspricht dem Attribut stitchTiles im angegebenen feTurbulence-Element. Akzeptiert einen der auf diesem Interface definierten SVG_STITCHTYPE_-Konstanten."
 type: docs
 weight: 70
 url: /de/net/aspose.svg.filters/svgfeturbulenceelement/stitchtiles/
 ---
 ## SVGFETurbulenceElement.StitchTiles property
 
-Entspricht dem Attribut 'stitchTiles' auf dem gegebenen 'feTurbulence'-Element. Akzeptiert eine der SVG_STITCHTYPE_*-Konstanten, die auf dieser Schnittstelle definiert sind.
+Entspricht dem Attribut ‘stitchTiles’ im angegebenen ‘feTurbulence’-Element. Akzeptiert eine der auf diesem Interface definierten SVG_STITCHTYPE_*‑Konstanten.
 
 ```csharp
 public SVGAnimatedEnumeration StitchTiles { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'stitchTiles' des gegebenen 'feTurbulence'-Elements.
+Das Attribut ‘stitchTiles’ des angegebenen ‘feTurbulence’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFETurbulenceElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

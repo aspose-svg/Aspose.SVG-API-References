@@ -1,27 +1,25 @@
 ---
-title: HttpMethod.Put
-second_title: Aspose.SVG für .NET-API-Referenz
-description: HttpMethod eigendom. Repräsentiert eine HTTPPUTProtokollmethode.
+title: "HttpMethod.Put"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "HttpMethod Put-Eigenschaft. Stellt eine HTTP PUT-Protokollmethode dar"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.net/httpmethod/put/
 ---
 ## HttpMethod.Put property
 
-Repräsentiert eine HTTP-PUT-Protokollmethode.
+Stellt eine HTTP PUT-Protokollmethode dar.
 
 ```csharp
 public static HttpMethod Put { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die HTTP-PUT-Protokollmethode.
+Die HTTP PUT-Protokollmethode.
 
 ### Siehe auch
 
 * class [HttpMethod](../)
-* namensraum [Aspose.Svg.Net](../../httpmethod/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

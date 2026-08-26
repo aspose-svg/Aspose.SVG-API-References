@@ -1,14 +1,14 @@
 ---
-title: Interface ITrueTypeFont
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Drawing.ITrueTypeFont koppel. Deklariert Methoden zum Arbeiten mit TrueTypeSchriftarten.
+title: "ITrueTypeFont‑Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Drawing.ITrueTypeFont‑Schnittstelle. Deklariert Methoden zur Arbeit mit TrueType-Schriften"
 type: docs
-weight: 1510
+weight: 3540
 url: /de/net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
 
-Deklariert Methoden zum Arbeiten mit TrueType-Schriftarten.
+Deklariert Methoden zur Arbeit mit TrueType-Schriften.
 
 ```csharp
 public interface ITrueTypeFont
@@ -18,22 +18,21 @@ public interface ITrueTypeFont
 
 | Name | Beschreibung |
 | --- | --- |
-| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Gibt die Größe der Schriftdaten in Bytes zurück |
-| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Ruft den Namen der Schriftfamilie ab. |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Dies sollte eine Kombination aus "FamilyName" und "SubFamilyName" sein. Ausnahme: Wenn die Schriftart "Regular" ist, wie in "SubFamilyName" angegeben , dann verwenden Sie nur den in "FamilyName" enthaltenen Familiennamen. Eine Ausnahme von der obigen Definition des vollständigen Schriftartnamens gilt für Zeichenfolgen der Microsoft-Plattform für CFF-OpenType-Schriftarten: In diesem Fall muss die Zeichenfolge für den vollständigen Schriftartnamen mit dem PostScript- FontName im CFF-Namensindex identisch sein. |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Der Name der Schriftunterfamilie unterscheidet die Schrift in einer Gruppe mit demselben Schriftfamiliennamen. Es wird davon ausgegangen, dass dies Stil (kursiv, schräg) und Gewicht (leicht, fett, schwarz usw.) anspricht. Eine Schriftart ohne besondere Unterschiede in Gewicht oder Stil (z. B. mittleres Gewicht, nicht kursiv und fsSelection-Bit 6 gesetzt) sollte den String "Regular" an dieser Position gespeichert haben. |
+| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Liest die Größe der Schriftartdaten in Bytes. |
+| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Liest den Namen der Schriftfamilie. |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Der vollständige Schriftname wird im Allgemeinen als Kombination von Family- und Subfamily-Namen dargestellt. |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | Ermitteln Sie den Schriftstil, der die Werte der font-face-Regel und Daten aus der Schrift kombiniert. |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Der Subfamily-Name unterscheidet die Schrift in einer Gruppe mit demselben Family-Namen. Es wird angenommen, dass er Stil (italic, oblique) und Gewicht (light, bold, black usw.) adressiert. Eine Schrift ohne besondere Unterschiede in Gewicht oder Stil sollte die Zeichenkette "Regular" haben. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | Gibt den Aufstieg in Punkten zurück. |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Öffnen Sie den Stream mit Schriftdaten. Der Aufrufer ist für die Entsorgung des Streams verantwortlich. |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | Gibt den Abstieg in Punkten zurück. |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(*float*) | Ermittelt den Aufstieg der Schrift in Punkten unter Verwendung der angegebenen Schriftgröße. |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Öffnet den Stream mit den Schriftdaten. Der Aufrufer ist für das Freigeben des Streams verantwortlich. |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(*float*) | Ermittelt den Abstieg der Schrift in Punkten unter Verwendung der angegebenen Schriftgröße. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

@@ -1,17 +1,15 @@
 ---
-title: Aspose.Svg.Net.MessageFilters
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Die Aspose.Svg.Net.MessageFilters Namespace bietet Klassen die Nachrichtenfilterabstraktion implementieren.
+title: "Aspose.Svg.Net.MessageFilters"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Der Aspose.Svg.Net.MessageFilters-Namespace stellt Klassen bereit, die die Nachrichtenfilter-Abstraktion implementieren."
 type: docs
-weight: 210
+weight: 230
 url: /de/net/aspose.svg.net.messagefilters/
 ---
-Die **Aspose.Svg.Net.MessageFilters** Namespace bietet Klassen, die Nachrichtenfilterabstraktion implementieren.
+Der **Aspose.Svg.Net.MessageFilters** Namespace stellt Klassen bereit, die die Nachrichtenfilter‑Abstraktion implementieren.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [ProtocolMessageFilter](./protocolmessagefilter/) | Repräsentiert die Implementierung des Nachrichtenfilters durch das Ressourcenprotokoll. |
-
-
+| [ProtocolMessageFilter](./protocolmessagefilter/) | Stellt die Implementierung eines Nachrichtenfilters durch das Ressourcenprotokoll dar. |

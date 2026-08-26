@@ -1,7 +1,7 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_HARD_LIGHT
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEBlendElement veld. Entspricht dem Wert hard_light.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_HARD_LIGHT"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEBlendElement SVG_FEBLEND_MODE_HARD_LIGHT Feld. Entspricht dem Wert hard_light"
 type: docs
 weight: 150
 url: /de/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_hard_light/
@@ -17,7 +17,5 @@ public const ushort SVG_FEBLEND_MODE_HARD_LIGHT;
 ### Siehe auch
 
 * class [SVGFEBlendElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeblendelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: MimeType.SubType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MimeType eigendom. Ruft den Submedientyp ab.
+title: "MimeType.SubType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MimeType SubType Eigenschaft. Gibt den Sub-Medientyp zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.svg/mimetype/subtype/
 ---
 ## MimeType.SubType property
 
-Ruft den Submedientyp ab.
+Liefert den Sub-Medientyp.
 
 ```csharp
 public string SubType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Submedientyp.
+Der Sub-Medientyp.
 
 ### Siehe auch
 
 * class [MimeType](../)
-* namensraum [Aspose.Svg](../../mimetype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicRel
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPathElement methode. Gibt ein eigenständiges übergeordnetes SVGPathSegCurvetoCubicRelObjekt zurück.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicRel"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicRel-Methode. Gibt ein eigenständiges, elternloses SVGPathSegCurvetoCubicRel-Objekt zurück."
 type: docs
 weight: 70
 url: /de/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicRel method
 
-Gibt ein eigenständiges, übergeordnetes SVGPathSegCurvetoCubicRel-Objekt zurück.
+Gibt ein eigenständiges, elternloses SVGPathSegCurvetoCubicRel-Objekt zurück.
 
 ```csharp
 public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float y, float x1, 
@@ -17,22 +17,20 @@ public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| x | Single | Die relative X-Koordinate für den Endpunkt dieses Pfadsegments. |
-| y | Single | Die relative Y-Koordinate für den Endpunkt dieses Pfadsegments. |
-| x1 | Single | Die relative X-Koordinate für den ersten Kontrollpunkt. |
-| y1 | Single | Die relative Y-Koordinate für den ersten Kontrollpunkt. |
-| x2 | Single | Die relative X-Koordinate für den zweiten Kontrollpunkt. |
-| y2 | Single | Die relative Y-Koordinate für den zweiten Kontrollpunkt. |
+| x | Single | Die relative X‑Koordinate des Endpunkts dieses Pfadsegments. |
+| y | Single | Die relative Y‑Koordinate des Endpunkts dieses Pfadsegments. |
+| x1 | Single | Die relative X‑Koordinate des ersten Kontrollpunkts. |
+| y1 | Single | Die relative Y‑Koordinate des ersten Kontrollpunkts. |
+| x2 | Single | Die relative X‑Koordinate des zweiten Kontrollpunkts. |
+| y2 | Single | Die relative Y‑Koordinate des zweiten Kontrollpunkts. |
 
 ### Rückgabewert
 
-Ein eigenständiges, übergeordnetes SVGPathSegCurvetoCubicRel-Objekt.
+Ein eigenständiges, elternloses SVGPathSegCurvetoCubicRel-Objekt.
 
 ### Siehe auch
 
 * class [SVGPathSegCurvetoCubicRel](../../../aspose.svg.paths/svgpathsegcurvetocubicrel/)
 * class [SVGPathElement](../)
-* namensraum [Aspose.Svg](../../svgpathelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

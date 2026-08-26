@@ -1,27 +1,25 @@
 ---
-title: SVGElement.ViewportElement
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGElement eigendom. Das Element das das aktuelle Ansichtsfenster festgelegt hat. Oft das nächste VorfahrensvgElement. Null wenn das angegebene Element das äußerste SVGElement ist.
+title: "SVGElement.ViewportElement"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGElement ViewportElement‑Eigenschaft. Das Element, das den aktuellen Ansichtsbereich festgelegt hat. Oft das nächstgelegene übergeordnete svg‑Element. Null, wenn das angegebene Element das äußerste svg‑Element ist."
 type: docs
 weight: 50
 url: /de/net/aspose.svg/svgelement/viewportelement/
 ---
 ## SVGElement.ViewportElement property
 
-Das Element, das das aktuelle Ansichtsfenster festgelegt hat. Oft das nächste Vorfahren-'svg'-Element. Null, wenn das angegebene Element das äußerste SVG-Element ist.
+Das Element, das den aktuellen Ansichtsbereich festgelegt hat. Oft das nächstgelegene übergeordnete ‘svg’-Element. Null, wenn das angegebene Element das äußerste svg-Element ist.
 
 ```csharp
 public SVGElement ViewportElement { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Ansichtsfensterelement.
+Das Ansichtsbereich‑Element.
 
 ### Siehe auch
 
 * class [SVGElement](../)
-* namensraum [Aspose.Svg](../../svgelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

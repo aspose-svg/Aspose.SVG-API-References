@@ -1,14 +1,14 @@
 ---
-title: SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMAX
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPreserveAspectRatio veld. Entspricht dem Wert xMidYMax für das Attribut preserveAspectRatio.
+title: "SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMAX"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPreserveAspectRatio SVG_PRESERVEASPECTRATIO_XMIDYMAX Feld. Entspricht dem Wert xMidYMax für das Attribut preserveAspectRatio"
 type: docs
 weight: 120
 url: /de/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymax/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMAX field
 
-Entspricht dem Wert 'xMidYMax' für das Attribut 'preserveAspectRatio'.
+Entspricht dem Wert 'xMidYMax' für das Attribut ‘preserveAspectRatio’.
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_XMIDYMAX;
@@ -17,7 +17,5 @@ public const ushort SVG_PRESERVEASPECTRATIO_XMIDYMAX;
 ### Siehe auch
 
 * class [SVGPreserveAspectRatio](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Color.Red
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color eigendom. Repräsentiert die rote Komponente der Farbe
+title: "Color.Red"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color Red-Eigenschaft. Stellt die Rot-Komponente der Farbe dar"
 type: docs
 weight: 270
 url: /de/net/aspose.svg.drawing/color/red/
 ---
 ## Color.Red property
 
-Repräsentiert die rote Komponente der Farbe
+Stellt die Rot-Komponente der Farbe dar
 
 ```csharp
 public float Red { get; }
@@ -17,7 +17,5 @@ public float Red { get; }
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

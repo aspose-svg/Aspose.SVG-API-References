@@ -1,28 +1,26 @@
 ---
-title: ContentHeaders.ContentType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ContentHeaders eigendom. Ruft den ContentTypeHeaderWert ab.
+title: "ContentHeaders.ContentType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ContentHeaders ContentType-Eigenschaft. Ruft den Wert des Content-Type-Headers ab"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.net/contentheaders/contenttype/
 ---
 ## ContentHeaders.ContentType property
 
-Ruft den Content-Type-Header-Wert ab.
+Liest den Content-Type Header-Wert.
 
 ```csharp
 public ContentTypeHeaderValue ContentType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Inhaltstyp.
+Der Typ des Inhalts.
 
 ### Siehe auch
 
 * class [ContentTypeHeaderValue](../../../aspose.svg.net.headers/contenttypeheadervalue/)
 * class [ContentHeaders](../)
-* namensraum [Aspose.Svg.Net](../../contentheaders/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

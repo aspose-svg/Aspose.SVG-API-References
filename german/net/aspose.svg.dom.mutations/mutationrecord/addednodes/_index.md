@@ -1,20 +1,20 @@
 ---
-title: MutationRecord.AddedNodes
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationRecord eigendom. Gibt die hinzugefügten Knoten zurück.
+title: "MutationRecord.AddedNodes"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationRecord AddedNodes-Eigenschaft. Gibt die hinzugefügten Knoten zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
 ---
 ## MutationRecord.AddedNodes property
 
-Gibt die hinzugefügten Knoten zurück.
+Gib die hinzugefügten Knoten zurück.
 
 ```csharp
 public NodeList AddedNodes { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die hinzugefügten Knoten.
 
@@ -22,7 +22,5 @@ Die hinzugefügten Knoten.
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

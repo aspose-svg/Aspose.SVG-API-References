@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.StdDeviationY
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEGaussianBlurElement eigendom. Entspricht dem Attribut stdDeviation auf dem gegebenen feGaussianBlurElement. Enthält die ggf. automatisch berechnete YKomponente des Attributs stdDeviation.
+title: "SVGFEGaussianBlurElement.StdDeviationY"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEGaussianBlurElement StdDeviationY-Eigenschaft. Entspricht dem Attribut stdDeviation im angegebenen feGaussianBlur-Element. Enthält die Y-Komponente, die möglicherweise automatisch aus dem Attribut stdDeviation berechnet wird"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.filters/svgfegaussianblurelement/stddeviationy/
 ---
 ## SVGFEGaussianBlurElement.StdDeviationY property
 
-Entspricht dem Attribut „stdDeviation“ auf dem gegebenen „feGaussianBlur“-Element. Enthält die (ggf. automatisch berechnete) Y-Komponente des Attributs „stdDeviation“.
+Entspricht dem Attribut �stdDeviation� im angegebenen �feGaussianBlur�-Element. Enthält die Y‑Komponente (möglicherweise automatisch berechnet) des Attributs �stdDeviation�.
 
 ```csharp
 public SVGAnimatedNumber StdDeviationY { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „stdDeviationY“ des gegebenen „feGaussianBlur“-Elements.
+Das Attribut �stdDeviationY� des angegebenen �feGaussianBlur� Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEGaussianBlurElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

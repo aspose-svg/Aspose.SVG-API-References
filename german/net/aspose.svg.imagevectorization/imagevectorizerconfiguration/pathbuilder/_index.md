@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.PathBuilder
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ImageVectorizerConfiguration eigendom. Ruft den Builder für SVGPfadsegmente ab oder legt ihn fest.
+title: "ImageVectorizerConfiguration.PathBuilder"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ImageVectorizerConfiguration PathBuilder property. Liest oder setzt den Builder für SVG-Pfadsegmente."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder/
 ---
 ## ImageVectorizerConfiguration.PathBuilder property
 
-Ruft den Builder für SVG-Pfadsegmente ab oder legt ihn fest.
+Liest oder setzt den SVG-Pfadsegment-Builder.
 
 ```csharp
 public IPathBuilder PathBuilder { get; set; }
@@ -18,7 +18,5 @@ public IPathBuilder PathBuilder { get; set; }
 
 * interface [IPathBuilder](../../ipathbuilder/)
 * class [ImageVectorizerConfiguration](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Class TextInfo
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Rendering.TextInfo klas. Enthält Informationen über gerenderten Text.
+title: "TextInfo-Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Rendering.TextInfo class. Enthält Informationen über gerenderten Text"
 type: docs
-weight: 3040
+weight: 5110
 url: /de/net/aspose.svg.rendering/textinfo/
 ---
 ## TextInfo class
@@ -18,11 +18,9 @@ public class TextInfo
 
 | Name | Beschreibung |
 | --- | --- |
-| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | Ruft Informationen zu gerenderten Glyphen ab. |
+| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | Gibt Informationen über gerenderte Glyphen zurück. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

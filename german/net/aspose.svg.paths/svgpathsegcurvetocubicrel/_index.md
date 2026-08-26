@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegCurvetoCubicRel
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Paths.SVGPathSegCurvetoCubicRel klas. Die SVGPathSegCurvetoCubicRelSchnittstelle entspricht einem Pfaddatenbefehl relative kubische BézierKurve c.
+title: "SVGPathSegCurvetoCubicRel Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Paths.SVGPathSegCurvetoCubicRel Klasse. Das SVGPathSegCurvetoCubicRel‑Interface entspricht einem relativen kubischen Bézier‑curveto‑c‑Pfaddatenbefehl"
 type: docs
-weight: 2540
+weight: 4610
 url: /de/net/aspose.svg.paths/svgpathsegcurvetocubicrel/
 ---
 ## SVGPathSegCurvetoCubicRel class
 
-Die SVGPathSegCurvetoCubicRel-Schnittstelle entspricht einem Pfaddatenbefehl „relative kubische Bézier-Kurve“ (c).
+Das SVGPathSegCurvetoCubicRel-Interface entspricht einem "relativen kubischen Bézier-Curveto" (c) Pfaddaten-Befehl.
 
 ```csharp
 public class SVGPathSegCurvetoCubicRel : SVGPathSeg
@@ -18,26 +18,24 @@ public class SVGPathSegCurvetoCubicRel : SVGPathSeg
 
 | Name | Beschreibung |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Der Typ des Pfadsegments, wie er durch eine der auf dieser Schnittstelle definierten Konstanten angegeben wird. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Der Typ des Pfadsegments, angegeben durch den entsprechenden einstelligen Befehlsnamen. |
-| [X](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x/) { get; set; } | Die relative X-Koordinate für den Endpunkt dieses Bahnsegments. |
-| [X1](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x1/) { get; set; } | Die relative X-Koordinate für den ersten Kontrollpunkt. |
-| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x2/) { get; set; } | Die relative X-Koordinate für den zweiten Kontrollpunkt. |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y/) { get; set; } | Die relative Y-Koordinate für den Endpunkt dieses Bahnsegments. |
-| [Y1](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y1/) { get; set; } | Die relative Y-Koordinate für den ersten Kontrollpunkt. |
-| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y2/) { get; set; } | Die relative Y-Koordinate für den zweiten Kontrollpunkt. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Der Typ des Pfadsegments, wie durch eine der auf diesem Interface definierten Konstanten angegeben. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Der Typ des Pfadsegments, angegeben durch den entsprechenden ein‑Buchstaben‑Befehlsnamen. |
+| [X](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x/) { get; set; } | Die relative X‑Koordinate des Endpunkts dieses Pfadsegments. |
+| [X1](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x1/) { get; set; } | Die relative X‑Koordinate des ersten Kontrollpunkts. |
+| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x2/) { get; set; } | Die relative X‑Koordinate des zweiten Kontrollpunkts. |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y/) { get; set; } | Die relative Y‑Koordinate des Endpunkts dieses Pfadsegments. |
+| [Y1](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y1/) { get; set; } | Die relative Y‑Koordinate des ersten Kontrollpunkts. |
+| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y2/) { get; set; } | Die relative Y‑Koordinate des zweiten Kontrollpunkts. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Gibt nicht verwaltete und – optional – verwaltete Ressourcen frei. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
 
 ### Siehe auch
 
 * class [SVGPathSeg](../svgpathseg/)
-* namensraum [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

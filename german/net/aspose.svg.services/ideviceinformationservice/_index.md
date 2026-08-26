@@ -1,32 +1,29 @@
 ---
-title: Interface IDeviceInformationService
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Services.IDeviceInformationService koppel. Eine Schnittstelle die eine Umgebung beschreibt in derDocument wird dem Benutzer angezeigt.
+title: "IDeviceInformationService Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Services.IDeviceInformationService Schnittstelle. Eine Schnittstelle, die eine Umgebung beschreibt, in der das Dokument dem Benutzer präsentiert wird."
 type: docs
-weight: 3710
+weight: 5840
 url: /de/net/aspose.svg.services/ideviceinformationservice/
 ---
 ## IDeviceInformationService interface
 
-Eine Schnittstelle, die eine Umgebung beschreibt, in der[`Document`](../../aspose.svg.dom/document/) wird dem Benutzer angezeigt.
+Eine Schnittstelle, die eine Umgebung beschreibt, in der [`Document`](../../aspose.svg.dom/document/) dem Benutzer präsentiert wird.
 
 ```csharp
-public interface IDeviceInformationService : IService
+public interface IDeviceInformationService
 ```
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [HorizontalResolution](../../aspose.svg.services/ideviceinformationservice/horizontalresolution/) { get; set; } | Ruft die horizontale Auflösung ab oder legt sie fest. |
-| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize/) { get; set; } | Ruft die Größe des Bildschirms ab oder legt sie fest. |
-| [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution/) { get; set; } | Ruft die vertikale Auflösung ab oder legt sie fest. |
-| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize/) { get; set; } | Ruft die Größe des Fensters ab oder legt sie fest. |
+| [HorizontalResolution](../../aspose.svg.services/ideviceinformationservice/horizontalresolution/) { get; set; } | Liest oder setzt die horizontale Auflösung. |
+| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize/) { get; set; } | Liest oder setzt die Größe des Bildschirms. |
+| [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution/) { get; set; } | Liest oder setzt die vertikale Auflösung. |
+| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize/) { get; set; } | Liest oder setzt die Größe des Fensters. |
 
 ### Siehe auch
 
-* interface [IService](../iservice/)
-* namensraum [Aspose.Svg.Services](../../aspose.svg.services/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Elevation
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der Höheneigenschaft in CSS2.
+title: "ICSS2Properties.Elevation"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties Elevation Eigenschaft. Siehe die elevation-Eigenschaft-Definition in CSS2"
 type: docs
 weight: 440
 url: /de/net/aspose.svg.dom.css/icss2properties/elevation/
 ---
 ## ICSS2Properties.Elevation property
 
-Siehe Definition der Höheneigenschaft in CSS2.
+Siehe die elevation Eigenschaftendefinition in CSS2.
 
 ```csharp
 public string Elevation { get; set; }
@@ -16,12 +16,10 @@ public string Elevation { get; set; }
 
 ### Rückgabewert
 
-Höhenlage
+elevation Eigenschaft
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

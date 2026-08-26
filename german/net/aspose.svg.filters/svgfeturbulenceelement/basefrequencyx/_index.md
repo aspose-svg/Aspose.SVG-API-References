@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.BaseFrequencyX
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFETurbulenceElement eigendom. Entspricht dem Attribut baseFrequency des angegebenen feTurbulenceElements. Enthält die XKomponente des Attributs baseFrequency.
+title: "SVGFETurbulenceElement.BaseFrequencyX"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFETurbulenceElement BaseFrequencyX Eigenschaft. Entspricht dem Attribut baseFrequency im angegebenen feTurbulence-Element. Enthält die X-Komponente des baseFrequency-Attributs."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.filters/svgfeturbulenceelement/basefrequencyx/
 ---
 ## SVGFETurbulenceElement.BaseFrequencyX property
 
-Entspricht dem Attribut „baseFrequency“ des angegebenen „feTurbulence“-Elements. Enthält die X-Komponente des Attributs „baseFrequency“.
+Entspricht dem Attribut ‘baseFrequency’ im angegebenen ‘feTurbulence’-Element. Enthält die X‑Komponente des Attributs ‘baseFrequency’.
 
 ```csharp
 public SVGAnimatedNumber BaseFrequencyX { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'baseFrequency' des gegebenen 'feTurbulence'-Elements.
+Das Attribut ‘baseFrequency’ des angegebenen ‘feTurbulence’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

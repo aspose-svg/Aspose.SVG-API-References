@@ -1,28 +1,26 @@
 ---
-title: SVGViewElement.PreserveAspectRatio
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGViewElement eigendom. Entspricht dem Attribut preserveAspectRatio für das angegebene Element.
+title: "SVGViewElement.PreserveAspectRatio"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGViewElement PreserveAspectRatio‑Eigenschaft. Entspricht dem Attribut preserveAspectRatio des angegebenen Elements."
 type: docs
 weight: 10
 url: /de/net/aspose.svg/svgviewelement/preserveaspectratio/
 ---
 ## SVGViewElement.PreserveAspectRatio property
 
-Entspricht dem Attribut „preserveAspectRatio“ für das angegebene Element.
+Entspricht dem Attribut ‘preserveAspectRatio’ des angegebenen Elements.
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das 'preserveAspectRatio' des angegebenen Elements.
+Das ‘preserveAspectRatio’ des angegebenen Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGViewElement](../)
-* namensraum [Aspose.Svg](../../svgviewelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

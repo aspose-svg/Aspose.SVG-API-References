@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.Headers
-second_title: Aspose.SVG für .NET-API-Referenz
-description: RequestMessage eigendom. Ruft die abRequestHeaders .
+title: "RequestMessage.Headers"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "RequestMessage Headers-Eigenschaft. Gibt die RequestHeaders zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.net/requestmessage/headers/
 ---
 ## RequestMessage.Headers property
 
-Ruft die ab[`RequestHeaders`](../../requestheaders/) .
+Gibt die [`RequestHeaders`](../../requestheaders/) zurück.
 
 ```csharp
 public RequestHeaders Headers { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Überschriften.
+Die Header.
 
 ### Siehe auch
 
 * class [RequestHeaders](../../requestheaders/)
 * class [RequestMessage](../)
-* namensraum [Aspose.Svg.Net](../../requestmessage/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

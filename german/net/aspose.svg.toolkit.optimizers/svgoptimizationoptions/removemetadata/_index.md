@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.RemoveMetadata
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGOptimizationOptions eigendom. Ruft die Option zum Entfernen von Metadaten ab oder legt sie fest. Es ist standardmäßig true.
+title: "SVGOptimizationOptions.RemoveMetadata"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGOptimizationOptions RemoveMetadata Eigenschaft. Ruft die Option ab oder legt sie fest, um Metadaten zu entfernen. Sie ist standardmäßig true."
 type: docs
 weight: 110
 url: /de/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removemetadata/
 ---
 ## SVGOptimizationOptions.RemoveMetadata property
 
-Ruft die Option zum Entfernen von Metadaten ab oder legt sie fest. Es ist standardmäßig „true“.
+Liest oder setzt die Option, Metadaten zu entfernen. Der Standardwert ist 'true'.
 
 ```csharp
 public bool RemoveMetadata { get; set; }
@@ -17,7 +17,5 @@ public bool RemoveMetadata { get; set; }
 ### Siehe auch
 
 * class [SVGOptimizationOptions](../)
-* namensraum [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

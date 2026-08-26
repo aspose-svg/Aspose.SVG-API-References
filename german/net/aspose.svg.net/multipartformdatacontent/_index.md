@@ -1,49 +1,47 @@
 ---
-title: Class MultipartFormDataContent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.MultipartFormDataContent klas. Inhalt für Multipart/FormdatenCodierungsalgorithmus darstellen
+title: "MultipartFormDataContent Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.MultipartFormDataContent Klasse. Stellt Inhalt für den multipart/form-data-Kodierungsalgorithmus dar."
 type: docs
-weight: 2400
+weight: 4470
 url: /de/net/aspose.svg.net/multipartformdatacontent/
 ---
 ## MultipartFormDataContent class
 
-Inhalt für Multipart-/Formdaten-Codierungsalgorithmus darstellen
+Stellt Inhalt für den multipart/form-data‑Kodierungsalgorithmus dar.
 
 ```csharp
 public class MultipartFormDataContent : MultipartContent
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [MultipartFormDataContent](multipartformdatacontent/#constructor)() | Initialisiert eine neue Instanz von`MultipartFormDataContent` Klasse. |
-| [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(string) | Initialisiert eine neue Instanz von`MultipartFormDataContent` Klasse. |
+| [MultipartFormDataContent](multipartformdatacontent/#constructor)() | Initialisiert eine neue Instanz der `MultipartFormDataContent` Klasse. |
+| [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(*string*) | Initialisiert eine neue Instanz der `MultipartFormDataContent` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | Ruft die HTTP-Inhaltsheader ab. |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | Liest die HTTP-Inhaltsheader. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Add](../../aspose.svg.net/multipartformdatacontent/add/#add)(Content) | Fügen Sie den Inhalt der hinzu`MultipartFormDataContent` Klasse |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_1)(Content, string) | Fügen Sie den Inhalt der hinzu`MultipartFormDataContent` Klasse mit Feldname parameter |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_2)(Content, string, string) | Fügen Sie den Inhalt der hinzu`MultipartFormDataContent` Klasse mit Feld- und Dateiname parameter |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | Führt anwendungsdefinierte Aufgaben aus, die mit dem Freigeben, Freigeben oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
-| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | Gibt einen Enumerator zurück, der eine Sammlung durchläuft. |
+| override [Add](../../aspose.svg.net/multipartformdatacontent/add/#add)(*[Content](../content/)*) | Fügt den Inhalt zur `MultipartFormDataContent` Klasse hinzu |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_1)(*[Content](../content/), string*) | Fügt den Inhalt zur `MultipartFormDataContent` Klasse mit dem Feldnamen-Parameter hinzu |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_2)(*[Content](../content/), string, string*) | Fügt den Inhalt zur `MultipartFormDataContent` Klasse mit Feld- und Dateinamen-Parameter hinzu |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | Führt anwendungsspezifische Aufgaben aus, die mit dem Freigeben, Freisetzen oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
+| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | Gibt einen Enumerator zurück, der durch eine Sammlung iteriert. |
 | [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Serialisiert den HTTP-Inhalt und gibt ein Byte-Array zurück, das den Inhalt darstellt. |
 | [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | Serialisiert den HTTP-Inhalt und gibt einen Stream zurück, der den Inhalt darstellt. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Serialisiert den HTTP-Inhalt und gibt eine Zeichenfolge zurück, die den Inhalt darstellt. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Serialisiert den HTTP-Inhalt und gibt einen String zurück, der den Inhalt darstellt. |
 
 ### Siehe auch
 
 * class [MultipartContent](../multipartcontent/)
-* namensraum [Aspose.Svg.Net](../../aspose.svg.net/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnCanplay
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den Ereignishandler für das OnCanplayEreignis ab oder legt ihn fest.
+title: "Document.OnCanplay"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnCanplay-Ereignis. Gibt den Ereignishandler für das OnCanplay-Ereignis zurück oder setzt ihn."
 type: docs
 weight: 310
 url: /de/net/aspose.svg.dom/document/oncanplay/
 ---
 ## Document.OnCanplay event
 
-Ruft den Ereignishandler für das OnCanplay-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnCanplay‑Ereignis.
 
 ```csharp
 public event DOMEventHandler OnCanplay;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnCanplay;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

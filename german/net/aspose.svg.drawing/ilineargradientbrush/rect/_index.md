@@ -1,23 +1,25 @@
 ---
-title: ILinearGradientBrush.Rect
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ILinearGradientBrush eigendom. Holen Sie sich einen rechteckigen Bereich der die Start und Endpunkte des Farbverlaufs definiert.
+title: "ILinearGradientBrush.Rect"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ILinearGradientBrush Rect Eigenschaft. Gibt den rechteckigen Bereich zurück oder legt ihn fest, der die Start- und Endpunkte des Farbverlaufs definiert"
 type: docs
-weight: 40
+weight: 20
 url: /de/net/aspose.svg.drawing/ilineargradientbrush/rect/
 ---
 ## ILinearGradientBrush.Rect property
 
-Holen Sie sich einen rechteckigen Bereich, der die Start- und Endpunkte des Farbverlaufs definiert.
+Ruft den rechteckigen Bereich ab oder legt ihn fest, der die Start- und Endpunkte des Farbverlaufs definiert.
 
 ```csharp
-public RectangleF Rect { get; }
+public RectangleF Rect { get; set; }
 ```
+
+### Rückgabewert
+
+Der rechteckige Bereich, der den Start- und Endpunkt des Farbverlaufs definiert.
 
 ### Siehe auch
 
 * interface [ILinearGradientBrush](../)
-* namensraum [Aspose.Svg.Drawing](../../ilineargradientbrush/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGNumber
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGSVGElement methode. Erstellt ein SVGNumberObjekt außerhalb von Dokumentbäumen. Das Objekt wird auf einen Wert von Null initialisiert.
+title: "SVGSVGElement.CreateSVGNumber"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGSVGElement CreateSVGNumber-Methode. Erstellt ein SVGNumber-Objekt außerhalb von Dokumentbäumen. Das Objekt wird mit dem Wert null initialisiert."
 type: docs
 weight: 150
 url: /de/net/aspose.svg/svgsvgelement/createsvgnumber/
 ---
 ## SVGSVGElement.CreateSVGNumber method
 
-Erstellt ein SVGNumber-Objekt außerhalb von Dokumentbäumen. Das Objekt wird auf einen Wert von Null initialisiert.
+Erstellt ein SVGNumber-Objekt außerhalb jeglicher Dokumentbäume. Das Objekt wird mit dem Wert null initialisiert.
 
 ```csharp
 public SVGNumber CreateSVGNumber()
@@ -22,7 +22,5 @@ Ein SVGNumber-Objekt.
 
 * class [SVGNumber](../../../aspose.svg.datatypes/svgnumber/)
 * class [SVGSVGElement](../)
-* namensraum [Aspose.Svg](../../svgsvgelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

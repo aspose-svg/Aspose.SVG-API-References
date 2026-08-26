@@ -1,14 +1,14 @@
 ---
-title: Document.OnPause
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den Ereignishandler für das OnPauseEreignis ab oder legt ihn fest.
+title: "Document.OnPause"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnPause Ereignis. Ruft den Ereignishandler für das OnPause-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 590
 url: /de/net/aspose.svg.dom/document/onpause/
 ---
 ## Document.OnPause event
 
-Ruft den Ereignishandler für das OnPause-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnPause-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnPause;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnPause;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

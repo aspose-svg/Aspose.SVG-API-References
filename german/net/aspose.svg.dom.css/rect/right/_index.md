@@ -1,14 +1,14 @@
 ---
-title: Rect.Right
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Rect eigendom. Dieses Attribut wird für das Recht des Rechtecks verwendet.
+title: "Rect.Right"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Rect Right-Eigenschaft. Dieses Attribut wird für die rechte Seite des Rechtecks verwendet"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.css/rect/right/
 ---
 ## Rect.Right property
 
-Dieses Attribut wird für das Recht des Rechtecks verwendet.
+Dieses Attribut wird für die rechte Seite des Rect verwendet.
 
 ```csharp
 public CSSPrimitiveValue Right { get; }
@@ -18,7 +18,5 @@ public CSSPrimitiveValue Right { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* namensraum [Aspose.Svg.Dom.Css](../../rect/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

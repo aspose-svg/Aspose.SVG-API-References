@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Suffix
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSCounterStyleRule eigendom. erhält das Suffix.
+title: "ICSSCounterStyleRule.Suffix"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSCounterStyleRule Suffix-Eigenschaft. Gibt das Suffix zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom.css/icsscounterstylerule/suffix/
 ---
 ## ICSSCounterStyleRule.Suffix property
 
-erhält das Suffix.
+Gibt das Suffix zurück.
 
 ```csharp
 public string Suffix { get; }
@@ -17,7 +17,5 @@ public string Suffix { get; }
 ### Siehe auch
 
 * interface [ICSSCounterStyleRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

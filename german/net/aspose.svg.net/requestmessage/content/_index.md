@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.Content
-second_title: Aspose.SVG für .NET-API-Referenz
-description: RequestMessage eigendom. Ruft den Anforderungsinhalt ab oder legt ihn fest.
+title: "RequestMessage.Content"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "RequestMessage Content‑Eigenschaft. Liest oder setzt den Anforderungsinhalt."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.net/requestmessage/content/
 ---
 ## RequestMessage.Content property
 
-Ruft den Anforderungsinhalt ab oder legt ihn fest.
+Liest oder setzt den Anforderungsinhalt.
 
 ```csharp
 public Content Content { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Körper.
+Der Inhalt.
 
 ### Siehe auch
 
 * class [Content](../../content/)
 * class [RequestMessage](../)
-* namensraum [Aspose.Svg.Net](../../requestmessage/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

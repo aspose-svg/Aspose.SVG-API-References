@@ -1,28 +1,26 @@
 ---
-title: Size.Height
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Size eigendom. Ermittelt oder setzt die vertikale Komponente davonSize .
+title: "Size.Height"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Size Height-Eigenschaft. Gibt den vertikalen Bestandteil dieser Size zurück oder legt ihn fest."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.drawing/size/height/
 ---
 ## Size.Height property
 
-Ermittelt oder setzt die vertikale Komponente davon[`Size`](../) .
+Gibt den vertikalen Bestandteil dieses [`Size`](../) zurück oder legt ihn fest.
 
 ```csharp
 public Length Height { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die vertikale Komponente davon[`Size`](../) .
+Der vertikale Bestandteil dieses [`Size`](../).
 
 ### Siehe auch
 
 * class [Length](../../length/)
 * class [Size](../)
-* namensraum [Aspose.Svg.Drawing](../../size/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

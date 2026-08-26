@@ -1,14 +1,14 @@
 ---
-title: Document.OnReadyStateChange
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den Ereignishandler für das OnReadyStateChangeEreignis ab oder legt ihn fest.
+title: "Document.OnReadyStateChange"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnReadyStateChange‑Ereignis. Ruft den Ereignishandler für das OnReadyStateChange‑Ereignis ab oder legt ihn fest."
 type: docs
 weight: 640
 url: /de/net/aspose.svg.dom/document/onreadystatechange/
 ---
 ## Document.OnReadyStateChange event
 
-Ruft den Ereignishandler für das OnReadyStateChange-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnReadyStateChange‑Ereignis.
 
 ```csharp
 public event DOMEventHandler OnReadyStateChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnReadyStateChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Numeric.CompareTo
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Numeric methode. Vergleicht die aktuelle Instanz mit einem anderen Objekt des gleichen Typs und gibt eine ganze Zahl zurück die angibt ob die aktuelle Instanz in der Sortierreihenfolge an der gleichen Position wie das andere Objekt vorangeht folgt oder an derselben Position vorkommt.
+title: "Numeric.CompareTo"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Numeric CompareTo-Methode. Vergleicht die aktuelle Instanz mit einem anderen Objekt desselben Typs und gibt einen Integer zurück, der angibt, ob die aktuelle Instanz dem anderen Objekt vorausgeht, folgt oder an derselben Position in der Sortierreihenfolge liegt."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/numeric/compareto/
 ---
 ## Numeric.CompareTo method
 
-Vergleicht die aktuelle Instanz mit einem anderen Objekt des gleichen Typs und gibt eine ganze Zahl zurück, die angibt, ob die aktuelle Instanz in der Sortierreihenfolge an der gleichen Position wie das andere Objekt vorangeht, folgt oder an derselben Position vorkommt.
+Vergleicht die aktuelle Instanz mit einem anderen Objekt desselben Typs und gibt einen Integer zurück, der angibt, ob die aktuelle Instanz dem anderen Objekt vorausgeht, ihm folgt oder an derselben Position in der Sortierreihenfolge liegt.
 
 ```csharp
 public int CompareTo(Numeric other)
@@ -16,23 +16,21 @@ public int CompareTo(Numeric other)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| other | Numeric | Das andere zu vergleichende Objekt. |
+| anderes | Numeric | Das andere Objekt zum Vergleichen. |
 
 ### Rückgabewert
 
-Ein Wert, der die relative Reihenfolge der verglichenen Objekte angibt.
+Ein Wert, der die relative Reihenfolge der zu vergleichenden Objekte angibt.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | andere |
+| ArgumentNullException | anderes |
 | ArgumentException |  |
 
 ### Siehe auch
 
 * class [Numeric](../)
-* namensraum [Aspose.Svg.Drawing](../../numeric/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

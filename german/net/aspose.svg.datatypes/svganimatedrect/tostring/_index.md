@@ -1,14 +1,14 @@
 ---
-title: SVGAnimatedRect.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGAnimatedRect methode. Gibt a zurückString die diese Instanz darstellt.
+title: "SVGAnimatedRect.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGAnimatedRect ToString‑Methode. Gibt einen String zurück, der diese Instanz darstellt"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.datatypes/svganimatedrect/tostring/
 ---
 ## SVGAnimatedRect.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [SVGAnimatedRect](../)
-* namensraum [Aspose.Svg.DataTypes](../../svganimatedrect/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGEllipseElement.Cx
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGEllipseElement eigendom. Entspricht dem Attribut cx auf dem gegebenen KreisElement.
+title: "SVGEllipseElement.Cx"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGEllipseElement Cx-Eigenschaft. Entspricht dem Attribut cx im angegebenen circle-Element"
 type: docs
 weight: 10
 url: /de/net/aspose.svg/svgellipseelement/cx/
 ---
 ## SVGEllipseElement.Cx property
 
-Entspricht dem Attribut 'cx' auf dem gegebenen 'Kreis'-Element.
+Entspricht dem Attribut ‘cx’ im angegebenen ‘circle’-Element.
 
 ```csharp
 public SVGAnimatedLength Cx { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'cx' des gegebenen 'Kreis'-Elements.
+Das Attribut ‘cx’ des angegebenen ‘circle’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* namensraum [Aspose.Svg](../../svgellipseelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

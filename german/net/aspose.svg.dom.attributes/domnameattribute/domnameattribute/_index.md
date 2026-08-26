@@ -1,14 +1,14 @@
 ---
-title: DOMNameAttribute.DOMNameAttribute
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMNameAttribute constructeur. Initialisiert eine neue Instanz vonDOMNameAttribute Klasse.
+title: "DOMNameAttribute"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMNameAttribute-Konstruktor. Initialisiert eine neue Instanz der DOMNameAttribute-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
 
-Initialisiert eine neue Instanz von[`DOMNameAttribute`](../) Klasse.
+Initialisiert eine neue Instanz der [`DOMNameAttribute`](../)-Klasse.
 
 ```csharp
 public DOMNameAttribute(string name)
@@ -21,7 +21,5 @@ public DOMNameAttribute(string name)
 ### Siehe auch
 
 * class [DOMNameAttribute](../)
-* namensraum [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

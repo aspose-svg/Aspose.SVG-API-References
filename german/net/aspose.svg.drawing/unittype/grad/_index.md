@@ -1,14 +1,14 @@
 ---
-title: UnitType.Grad
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType veld. Die Messung erfolgt in Neugrad.
+title: "UnitType.Grad"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType Grad-Feld. Messung erfolgt in Gon"
 type: docs
 weight: 100
 url: /de/net/aspose.svg.drawing/unittype/grad/
 ---
 ## UnitType.Grad field
 
-Die Messung erfolgt in Neugrad.
+Messung ist in Gon.
 
 ```csharp
 public static readonly UnitType Grad;
@@ -17,7 +17,5 @@ public static readonly UnitType Grad;
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

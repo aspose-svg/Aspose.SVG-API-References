@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.GetEnumerator
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGListBase methode. Ruft den Enumerator ab.
+title: "SVGListBase-1.GetEnumerator"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGListBase GetEnumerator-Methode. Gibt den Enumerator zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.collections/svglistbase-1/getenumerator/
 ---
-## SVGListBase&lt;T&gt;.GetEnumerator method
+## SVGListBase<T>.GetEnumerator method
 
-Ruft den Enumerator ab.
+Liefert den Enumerator.
 
 ```csharp
 public IEnumerator<T> GetEnumerator()
@@ -16,12 +16,10 @@ public IEnumerator<T> GetEnumerator()
 
 ### Rückgabewert
 
-EinIEnumerator Objekt, das zum Durchlaufen der Sammlung verwendet werden kann.
+Ein IEnumerator-Objekt, das zum Durchlaufen der Sammlung verwendet werden kann.
 
 ### Siehe auch
 
 * class [SVGListBase&lt;T&gt;](../)
-* namensraum [Aspose.Svg.Collections](../../svglistbase-1/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.FamilyName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ITrueTypeFont eigendom. Ruft den Namen der Schriftfamilie ab.
+title: "ITrueTypeFont.FamilyName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ITrueTypeFont FamilyName Eigenschaft. Gibt den Namen der Schriftfamilie zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.drawing/itruetypefont/familyname/
 ---
 ## ITrueTypeFont.FamilyName property
 
-Ruft den Namen der Schriftfamilie ab.
+Liest den Namen der Schriftfamilie.
 
 ```csharp
 public string FamilyName { get; }
@@ -16,12 +16,10 @@ public string FamilyName { get; }
 
 ### Rückgabewert
 
-Familienname der Schriftart
+Der Familienname der Schrift.
 
 ### Siehe auch
 
 * interface [ITrueTypeFont](../)
-* namensraum [Aspose.Svg.Drawing](../../itruetypefont/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

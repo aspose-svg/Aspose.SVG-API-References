@@ -1,14 +1,14 @@
 ---
-title: Enum PdfEncryptionAlgorithm
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionAlgorithm opsomming. Verschlüsselungsmodus enum. Beschreiben Sie anhand von Algorithmus und Schlüssellänge. Dieses Enum wird erweitert um die Funktionalität weiter erhöhen zu können. Dieses Enum implementiert das BasetoCoreMuster.
+title: "PdfEncryptionAlgorithm Aufzählung"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionAlgorithm Aufzählung. Aufzählung für den Verschlüsselungsmodus. Beschreibt die Verwendung von Algorithmus und Schlüssellänge. Diese Aufzählung wird erweitert, um die Funktionalität weiter zu erhöhen. Diese Aufzählung implementiert das Base-to-Core‑Muster."
 type: docs
-weight: 2910
+weight: 4980
 url: /de/net/aspose.svg.rendering.pdf.encryption/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration
 
-Verschlüsselungsmodus enum. Beschreiben Sie anhand von Algorithmus und Schlüssellänge. Dieses Enum wird erweitert, um die Funktionalität weiter erhöhen zu können. Dieses Enum implementiert das "Base-to-Core"-Muster.
+Verschlüsselungsmodus-Enum. Beschreibt die Verwendung von Algorithmus und Schlüssellänge. Dieses Enum wird erweitert, um die Funktionalität weiter zu erhöhen. Dieses Enum implementiert das "Base-to-Core"-Muster.
 
 ```csharp
 public enum PdfEncryptionAlgorithm
@@ -18,12 +18,10 @@ public enum PdfEncryptionAlgorithm
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| RC4_40 | `0` | Algorithmus mit einer RC4-Verschlüsselungsschlüssellänge von 40 Bit; |
-| RC4_128 | `1` | Algorithmus mit einer RC4-Verschlüsselungsschlüssellänge von 128 Bit und erweitertem Berechtigungssatz; |
+| RC4_40 | `0` | Algorithmus mit einer RC4‑Verschlüsselungsschlüssellänge von 40 Bit; |
+| RC4_128 | `1` | Algorithmus mit einer RC4‑Verschlüsselungsschlüssellänge von 128 Bit und erweitertem Berechtigungssatz; |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../)

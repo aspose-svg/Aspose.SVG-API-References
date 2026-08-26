@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSMediaRule
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.ICSSMediaRule koppel. Die CSSMediaRuleSchnittstelle repräsentiert eine mediaRegel in einem CSSStylesheet. Eine mediaRegel kann verwendet werden um Stilregeln für bestimmte Medientypen abzugrenzen.
+title: "ICSSMediaRule Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.ICSSMediaRule Interface. Das CSSMediaRule Interface repräsentiert eine Medienregel in einem CSS-Stylesheet. Eine Medienregel kann verwendet werden, um Stilregeln für bestimmte Medientypen zu begrenzen."
 type: docs
-weight: 600
+weight: 2600
 url: /de/net/aspose.svg.dom.css/icssmediarule/
 ---
 ## ICSSMediaRule interface
 
-Die CSSMediaRule-Schnittstelle repräsentiert eine @media-Regel in einem CSS-Stylesheet. Eine @media-Regel kann verwendet werden, um Stilregeln für bestimmte Medientypen abzugrenzen.
+Das CSSMediaRule-Interface repräsentiert eine @media-Regel in einem CSS-Stylesheet. Eine @media-Regel kann verwendet werden, um Stilregeln für bestimmte Medientypen abzugrenzen.
 
 ```csharp
 public interface ICSSMediaRule : ICSSRule
@@ -25,13 +25,11 @@ public interface ICSSMediaRule : ICSSRule
 
 | Name | Beschreibung |
 | --- | --- |
-| [DeleteRule](../../aspose.svg.dom.css/icssmediarule/deleterule/)(long) | Wird verwendet, um eine Regel aus dem Medienblock zu löschen. |
-| [InsertRule](../../aspose.svg.dom.css/icssmediarule/insertrule/)(string, long) | Wird verwendet, um eine neue Regel in den Medienblock einzufügen. |
+| [DeleteRule](../../aspose.svg.dom.css/icssmediarule/deleterule/)(*long*) | Wird verwendet, um eine Regel aus dem Medienblock zu löschen. |
+| [InsertRule](../../aspose.svg.dom.css/icssmediarule/insertrule/)(*string, long*) | Wird verwendet, um eine neue Regel in den Medienblock einzufügen. |
 
 ### Siehe auch
 
 * interface [ICSSRule](../icssrule/)
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

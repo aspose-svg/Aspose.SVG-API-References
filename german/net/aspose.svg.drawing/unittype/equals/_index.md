@@ -1,14 +1,14 @@
 ---
-title: UnitType.Equals
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType methode. Bestimmt ob die angegebeneObject  entspricht dieser Instanz.
+title: "UnitType.Equals"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType Equals-Methode. Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist"
 type: docs
 weight: 310
 url: /de/net/aspose.svg.drawing/unittype/equals/
 ---
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bestimmt, ob die angegebeneObject , entspricht dieser Instanz.
+Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,23 +16,23 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject mit dieser Instanz zu vergleichen. |
+| obj | Objekt | Das Objekt, das mit dieser Instanz verglichen werden soll. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegebenObject ist gleich dieser Instanz; ansonsten,`FALSCH` .
+`true`, wenn das angegebene Objekt mit dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(UnitType) {#equals}
+## Equals(*[UnitType](../)*) {#equals}
 
-Bestimmt, ob die angegebene[`UnitType`](../) , entspricht dieser Instanz.
+Bestimmt, ob das angegebene [`UnitType`](../) dieser Instanz gleich ist.
 
 ```csharp
 public bool Equals(UnitType other)
@@ -40,16 +40,14 @@ public bool Equals(UnitType other)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| other | UnitType | Der[`UnitType`](../) mit dieser Instanz zu vergleichen. |
+| other | UnitType | Das [`UnitType`](../), das mit dieser Instanz verglichen werden soll. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegeben[`UnitType`](../) ist gleich dieser Instanz; ansonsten,`FALSCH` .
+`true`, wenn das angegebene [`UnitType`](../) dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

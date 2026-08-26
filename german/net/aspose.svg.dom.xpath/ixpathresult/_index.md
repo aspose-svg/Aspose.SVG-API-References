@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathResult
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.XPath.IXPathResult koppel. DieXPathResult interface stellt das Ergebnis der Auswertung eines XPath 1.0Ausdrucks im Kontext eines bestimmten Knotens dar. Da die Auswertung eines XPathAusdrucks zu verschiedenen Ergebnistypen führen kann macht es dieses Objekt möglich Typ und Wert des Ergebnisses zu ermitteln und zu manipulieren.
+title: "IXPathResult Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.XPath.IXPathResult Schnittstelle. Die XPathResult Schnittstelle stellt das Ergebnis der Auswertung eines XPath 1.0‑Ausdrucks im Kontext eines bestimmten Knotens dar. Da die Auswertung eines XPath‑Ausdrucks zu verschiedenen Ergebnistypen führen kann, ermöglicht dieses Objekt das Erkennen und Manipulieren des Typs und des Werts des Ergebnisses."
 type: docs
-weight: 1350
+weight: 3350
 url: /de/net/aspose.svg.dom.xpath/ixpathresult/
 ---
 ## IXPathResult interface
 
-Die`XPathResult` interface stellt das Ergebnis der Auswertung eines XPath 1.0-Ausdrucks im Kontext eines bestimmten Knotens dar. Da die Auswertung eines XPath-Ausdrucks zu verschiedenen Ergebnistypen führen kann, macht es dieses Objekt möglich, Typ und Wert des Ergebnisses zu ermitteln und zu manipulieren.
+Das `XPathResult`-Interface stellt das Ergebnis der Auswertung eines XPath‑1.0‑Ausdrucks im Kontext eines bestimmten Knotens dar. Da die Auswertung eines XPath‑Ausdrucks zu verschiedenen Ergebnis­typen führen kann, ermöglicht dieses Objekt das Erkennen und Manipulieren des Typs und des Werts des Ergebnisses.
 
 ```csharp
 public interface IXPathResult
@@ -19,23 +19,21 @@ public interface IXPathResult
 | Name | Beschreibung |
 | --- | --- |
 | [BooleanValue](../../aspose.svg.dom.xpath/ixpathresult/booleanvalue/) { get; } | Der Wert dieses booleschen Ergebnisses. |
-| [InvalidIteratorState](../../aspose.svg.dom.xpath/ixpathresult/invaliditeratorstate/) { get; } | Gibt an, dass der Iterator ungültig geworden ist. Wahr, wenn`resultType` ist`UnorderedNodeIterator` tippe bzw`OrderedNodeIterator` type und das Dokument wurde geändert, seit dieses Ergebnis zurückgegeben wurde. |
+| [InvalidIteratorState](../../aspose.svg.dom.xpath/ixpathresult/invaliditeratorstate/) { get; } | Zeigt an, dass der Iterator ungültig geworden ist. True, wenn `resultType` vom Typ `UnorderedNodeIterator` oder `OrderedNodeIterator` ist und das Dokument seit der Rückgabe dieses Ergebnisses geändert wurde. |
 | [NumberValue](../../aspose.svg.dom.xpath/ixpathresult/numbervalue/) { get; } | Der Wert dieses Zahlenergebnisses. |
-| [ResultType](../../aspose.svg.dom.xpath/ixpathresult/resulttype/) { get; } | Ein Code, der den Typ dieses Ergebnisses darstellt, wie durch definiert http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../xpathresulttype/) enum. |
-| [SingleNodeValue](../../aspose.svg.dom.xpath/ixpathresult/singlenodevalue/) { get; } | Der Wert dieses einzelnen Knotenergebnisses, der sein kann`Null` . |
-| [SnapshotLength](../../aspose.svg.dom.xpath/ixpathresult/snapshotlength/) { get; } | Die Anzahl der Knoten im Ergebnis-Snapshot. Gültige Werte für die Indizes von snapshotItem sind`0` Zu`Schnappschusslänge-1` inklusive. |
-| [StringValue](../../aspose.svg.dom.xpath/ixpathresult/stringvalue/) { get; } | Der Wert dieses Zeichenfolgenergebnisses. |
+| [ResultType](../../aspose.svg.dom.xpath/ixpathresult/resulttype/) { get; } | Ein Code, der den Typ dieses Ergebnisses darstellt, wie definiert durch die http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../xpathresulttype/) Enum. |
+| [SingleNodeValue](../../aspose.svg.dom.xpath/ixpathresult/singlenodevalue/) { get; } | Der Wert dieses einzelnen Knotenergebnisses, das `null` sein kann. |
+| [SnapshotLength](../../aspose.svg.dom.xpath/ixpathresult/snapshotlength/) { get; } | Die Anzahl der Knoten im Ergebnis‑Snapshot. Gültige Werte für snapshotItem‑Indizes sind `0` bis `snapshotLength-1` inklusive. |
+| [StringValue](../../aspose.svg.dom.xpath/ixpathresult/stringvalue/) { get; } | Der Wert dieses Zeichenketten­ergebnisses. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [IterateNext](../../aspose.svg.dom.xpath/ixpathresult/iteratenext/)() | Iteriert und gibt den nächsten Knoten aus dem Knotensatz zurück oder`Null` wenn es keine Knoten mehr gibt. |
-| [SnapshotItem](../../aspose.svg.dom.xpath/ixpathresult/snapshotitem/)(int) | Gibt die zurück`Index` Artikel in der Schnappschuss-Sammlung. Wenn`Index`größer als oder gleich der Anzahl der Knoten in der Liste ist, gibt diese Methode zurück`Null` . Im Gegensatz zum Ergebnis des -Iterators wird der Schnappschuss nicht ungültig, entspricht aber möglicherweise nicht dem aktuellen -Dokument, wenn es mutiert wird. |
+| [IterateNext](../../aspose.svg.dom.xpath/ixpathresult/iteratenext/)() | Iteriert und gibt den nächsten Knoten aus dem Knotensatz zurück oder `null`, wenn keine weiteren Knoten mehr vorhanden sind. |
+| [SnapshotItem](../../aspose.svg.dom.xpath/ixpathresult/snapshotitem/)(*int*) | Gibt das `index`‑te Element in der Snapshot‑Sammlung zurück. Wenn `index` größer oder gleich der Anzahl der Knoten in der Liste ist, liefert diese Methode `null`. Im Gegensatz zum Iterator‑Ergebnis wird der Snapshot nicht ungültig, kann jedoch bei einer Veränderung des Dokuments nicht mehr dem aktuellen Dokument entsprechen. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

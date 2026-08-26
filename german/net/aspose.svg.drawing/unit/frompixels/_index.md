@@ -1,14 +1,14 @@
 ---
-title: Unit.FromPixels
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Unit methode. Gibt a zurückLength Objekt das in Pixel dargestellt wird.
+title: "Unit.FromPixels"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Unit FromPixels Methode. Gibt ein Length-Objekt zurück, das in Pixeln dargestellt wird"
 type: docs
 weight: 170
 url: /de/net/aspose.svg.drawing/unit/frompixels/
 ---
 ## Unit.FromPixels method
 
-Gibt a zurück[`Length`](../../length/) Objekt, das in Pixel dargestellt wird.
+Gibt ein [`Length`](../../length/) Objekt zurück, das in Pixeln dargestellt wird.
 
 ```csharp
 public static Length FromPixels(double value)
@@ -20,13 +20,11 @@ public static Length FromPixels(double value)
 
 ### Rückgabewert
 
-Gibt ein[`Length`](../../length/) Objekt.
+Gibt ein [`Length`](../../length/) Objekt zurück.
 
 ### Siehe auch
 
 * class [Length](../../length/)
 * class [Unit](../)
-* namensraum [Aspose.Svg.Drawing](../../unit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface INetworkOperationContext
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.INetworkOperationContext koppel. Stellt Kontextinformationen für die Netzwerkdienste bereit.
+title: "INetworkOperationContext Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.INetworkOperationContext Schnittstelle. Liefert kontextbezogene Informationen für die Netzwerkdienste."
 type: docs
-weight: 2310
+weight: 4380
 url: /de/net/aspose.svg.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface
 
-Stellt Kontextinformationen für die Netzwerkdienste bereit.
+Stellt kontextbezogene Informationen für die Netzwerkdienste bereit.
 
 ```csharp
 public interface INetworkOperationContext
@@ -18,12 +18,10 @@ public interface INetworkOperationContext
 
 | Name | Beschreibung |
 | --- | --- |
-| [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | Ruft die Anforderungsnachricht ab oder legt sie fest. |
-| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | Ruft die Antwortnachricht ab oder legt sie fest. |
+| [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | Liest oder setzt die Anforderungsnachricht. |
+| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | Liest oder setzt die Antwortnachricht. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Net](../../aspose.svg.net/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_SKEWX
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGTransform veld. Eine skewXTransformation.
+title: "SVGTransform.SVG_TRANSFORM_SKEWX"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGTransform SVG_TRANSFORM_SKEWX Feld. Eine SkewX-Transformation"
 type: docs
 weight: 140
 url: /de/net/aspose.svg.datatypes/svgtransform/svg_transform_skewx/
 ---
 ## SVGTransform.SVG_TRANSFORM_SKEWX field
 
-Eine 'skewX(…)'-Transformation.
+Eine 'skewX(…)'‑Transformation.
 
 ```csharp
 public const ushort SVG_TRANSFORM_SKEWX;
@@ -17,7 +17,5 @@ public const ushort SVG_TRANSFORM_SKEWX;
 ### Siehe auch
 
 * class [SVGTransform](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgtransform/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

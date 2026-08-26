@@ -1,14 +1,14 @@
 ---
-title: Numeric.GetValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Numeric methode. Ruft den Einheitenwert ab.
+title: "Numeric.GetValue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Numeric GetValue-Methode. Gibt den Einheitswert zurück."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.drawing/numeric/getvalue/
 ---
 ## GetValue() {#getvalue}
 
-Ruft den Einheitenwert ab.
+Ruft den Einheitswert ab.
 
 ```csharp
 public double GetValue()
@@ -21,14 +21,14 @@ Der Objektwert.
 ### Siehe auch
 
 * class [Numeric](../)
-* namensraum [Aspose.Svg.Drawing](../../numeric/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
-Ruft den in den angegebenen Wert konvertierten Wert ab[`UnitType`](../../unittype/) .
+Gibt den Wert zurück, der in den angegebenen [`UnitType`](../../unittype/) konvertiert wurde.
 
 ```csharp
 public double GetValue(UnitType unitType)
@@ -40,19 +40,17 @@ public double GetValue(UnitType unitType)
 
 ### Rückgabewert
 
-Gibt einen Wert zurück, der in den angegebenen Typ konvertiert wird.
+Gibt den Wert zurück, der in den angegebenen Typ konvertiert wurde.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | Gerätetyp |
+| ArgumentNullException | unitType |
 
 ### Siehe auch
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* namensraum [Aspose.Svg.Drawing](../../numeric/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

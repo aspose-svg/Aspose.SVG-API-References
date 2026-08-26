@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.SurfaceScale
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFESpecularLightingElement eigendom. Entspricht dem Attribut surfaceScale auf dem gegebenen feSpecularLightingElement.
+title: "SVGFESpecularLightingElement.SurfaceScale"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFESpecularLightingElement SurfaceScale Eigenschaft. Entspricht dem Attribut surfaceScale im angegebenen feSpecularLighting-Element"
 type: docs
 weight: 80
 url: /de/net/aspose.svg.filters/svgfespecularlightingelement/surfacescale/
 ---
 ## SVGFESpecularLightingElement.SurfaceScale property
 
-Entspricht dem Attribut 'surfaceScale' auf dem gegebenen 'feSpecularLighting'-Element.
+Entspricht dem Attribut ‘surfaceScale’ im angegebenen ‘feSpecularLighting’-Element.
 
 ```csharp
 public SVGAnimatedNumber SurfaceScale { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'surfaceScale' des gegebenen 'feSpecularLighting'-Elements.
+Das Attribut ‘surfaceScale’ des angegebenen ‘feSpecularLighting’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

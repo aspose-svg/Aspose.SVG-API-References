@@ -1,14 +1,14 @@
 ---
-title: Color.Color
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color constructeur. Initialisiert eine neue Instanz vonColor class. Standardfarbe ist schwarz.
+title: "Color"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color-Konstruktor. Initialisiert eine neue Instanz der Color-Klasse. Standardmäßig ist die Farbe schwarz."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/color/color/
 ---
 ## Color() {#constructor}
 
-Initialisiert eine neue Instanz von[`Color`](../) class. Standardfarbe ist schwarz.
+Initialisiert eine neue Instanz der [`Color`](../)-Klasse. Standardmäßig ist die Farbe schwarz.
 
 ```csharp
 public Color()
@@ -17,14 +17,14 @@ public Color()
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float) {#constructor_5}
+## Color(*float, float, float*) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`Color`](../) class. Alle Farbkomponenten müssen im Bereich 0-1 liegen.
+Initialisiert eine neue Instanz der [`Color`](../)-Klasse. Alle Farbbestandteile müssen im Bereich 0‑1 liegen.
 
 ```csharp
 public Color(float red, float green, float blue)
@@ -32,21 +32,21 @@ public Color(float red, float green, float blue)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Single | Der Rotanteil der Farbe. |
-| green | Single | Der grüne Anteil der Farbe. |
-| blue | Single | Der Blauanteil der Farbe. |
+| rot | Single | Die rote Komponente der Farbe. |
+| grün | Single | Die grüne Komponente der Farbe. |
+| blau | Single | Die blaue Komponente der Farbe. |
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float, float) {#constructor_6}
+## Color(*float, float, float, float*) {#constructor_6}
 
-Initialisiert eine neue Instanz von[`Color`](../) class. Alle Farbkomponenten müssen im Bereich 0-1 liegen.
+Initialisiert eine neue Instanz der [`Color`](../)-Klasse. Alle Farbbestandteile müssen im Bereich 0‑1 liegen.
 
 ```csharp
 public Color(float red, float green, float blue, float alpha)
@@ -54,22 +54,22 @@ public Color(float red, float green, float blue, float alpha)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Single | Der Rotanteil der Farbe. |
-| green | Single | Der grüne Anteil der Farbe. |
-| blue | Single | Der Blauanteil der Farbe. |
-| alpha | Single | Die Alpha-Komponente der Farbe. |
+| rot | Single | Die rote Komponente der Farbe. |
+| grün | Single | Die grüne Komponente der Farbe. |
+| blau | Single | Die blaue Komponente der Farbe. |
+| Alpha | Single | Die Alpha‑Komponente der Farbe. |
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte) {#constructor_1}
+## Color(*byte, byte, byte*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`Color`](../)class. Alle Farbkomponenten müssen im Bereich 0-255 liegen.
+Initialisiert eine neue Instanz der [`Color`](../)-Klasse. Alle Farbbestandteile müssen im Bereich 0‑255 liegen.
 
 ```csharp
 public Color(byte red, byte green, byte blue)
@@ -77,21 +77,21 @@ public Color(byte red, byte green, byte blue)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Byte | Der Rotanteil der Farbe. |
-| green | Byte | Der grüne Anteil der Farbe. |
-| blue | Byte | Der Blauanteil der Farbe. |
+| rot | Byte | Die rote Komponente der Farbe. |
+| grün | Byte | Die grüne Komponente der Farbe. |
+| blau | Byte | Die blaue Komponente der Farbe. |
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte, byte) {#constructor_2}
+## Color(*byte, byte, byte, byte*) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`Color`](../)class. Alle Farbkomponenten müssen im Bereich 0-255 liegen.
+Initialisiert eine neue Instanz der [`Color`](../)-Klasse. Alle Farbbestandteile müssen im Bereich 0‑255 liegen.
 
 ```csharp
 public Color(byte red, byte green, byte blue, byte alpha)
@@ -99,22 +99,22 @@ public Color(byte red, byte green, byte blue, byte alpha)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Byte | Ein Byte, das die rote Komponente der Farbe darstellt. |
-| green | Byte | Ein Byte, das die grüne Komponente der Farbe darstellt. |
-| blue | Byte | Ein Byte, das die blaue Komponente der Farbe darstellt. |
-| alpha | Byte | Ein Byte, das die Alpha-Komponente der Farbe darstellt. |
+| rot | Byte | Ein Byte, das die rote Komponente der Farbe darstellt. |
+| grün | Byte | Ein Byte, das die grüne Komponente der Farbe darstellt. |
+| blau | Byte | Ein Byte, das die blaue Komponente der Farbe darstellt. |
+| Alpha | Byte | Ein Byte, das die Alpha‑Komponente der Farbe darstellt. |
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int) {#constructor_3}
+## Color(*int, int, int*) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`Color`](../)class. Alle Farbkomponenten müssen im Bereich 0-255 liegen.
+Initialisiert eine neue Instanz der [`Color`](../)-Klasse. Alle Farbbestandteile müssen im Bereich 0‑255 liegen.
 
 ```csharp
 public Color(int red, int green, int blue)
@@ -122,21 +122,21 @@ public Color(int red, int green, int blue)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Int32 | Der Rotanteil der Farbe. |
-| green | Int32 | Der grüne Anteil der Farbe. |
-| blue | Int32 | Der Blauanteil der Farbe. |
+| rot | Int32 | Die rote Komponente der Farbe. |
+| grün | Int32 | Die grüne Komponente der Farbe. |
+| blau | Int32 | Die blaue Komponente der Farbe. |
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int, int) {#constructor_4}
+## Color(*int, int, int, int*) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`Color`](../)class. Alle Farbkomponenten müssen im Bereich 0-255 liegen.
+Initialisiert eine neue Instanz der [`Color`](../)-Klasse. Alle Farbbestandteile müssen im Bereich 0‑255 liegen.
 
 ```csharp
 public Color(int red, int green, int blue, int alpha)
@@ -144,15 +144,13 @@ public Color(int red, int green, int blue, int alpha)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Int32 | Der Rotanteil der Farbe. |
-| green | Int32 | Der grüne Anteil der Farbe. |
-| blue | Int32 | Der Blauanteil der Farbe. |
-| alpha | Int32 | Die Alpha-Komponente der Farbe. |
+| rot | Int32 | Die rote Komponente der Farbe. |
+| grün | Int32 | Die grüne Komponente der Farbe. |
+| blau | Int32 | Die blaue Komponente der Farbe. |
+| Alpha | Int32 | Die Alpha‑Komponente der Farbe. |
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Y
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEGaussianBlurElement eigendom. Entspricht dem Attribut y des angegebenen FilterElements.
+title: "SVGFEGaussianBlurElement.Y"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEGaussianBlurElement Y-Eigenschaft. Entspricht dem Attribut y im angegebenen filter-Element"
 type: docs
 weight: 80
 url: /de/net/aspose.svg.filters/svgfegaussianblurelement/y/
 ---
 ## SVGFEGaussianBlurElement.Y property
 
-Entspricht dem Attribut „y“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut �y� im angegebenen �filter�-Element.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „y“ des angegebenen „Filter“-Elements.
+Das Attribut �y� des angegebenen �filter�-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.StrokeBrush
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GraphicContext eigendom. Legt das Pinselobjekt fest oder ruft es ab das für Strichpfade verwendet wird.
+title: "GraphicContext.StrokeBrush"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GraphicContext StrokeBrush Eigenschaft. Legt das Pinselobjekt fest oder ruft es ab, das für gestrichelte Pfade verwendet wird."
 type: docs
 weight: 140
 url: /de/net/aspose.svg.rendering/graphiccontext/strokebrush/
 ---
 ## GraphicContext.StrokeBrush property
 
-Legt das Pinselobjekt fest oder ruft es ab, das für Strichpfade verwendet wird.
+Setzt oder liest das Pinselobjekt, das für gestreckte Pfade verwendet wird.
 
 ```csharp
 public virtual IBrush StrokeBrush { get; set; }
@@ -18,7 +18,5 @@ public virtual IBrush StrokeBrush { get; set; }
 
 * interface [IBrush](../../../aspose.svg.drawing/ibrush/)
 * class [GraphicContext](../)
-* namensraum [Aspose.Svg.Rendering](../../graphiccontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGAnimationElement.RequiredFeatures
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGAnimationElement eigendom. Entspricht dem Attribut requiredFeatures für das angegebene Element.
+title: "SVGAnimationElement.RequiredFeatures"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGAnimationElement RequiredFeatures-Eigenschaft. Entspricht dem Attribut requiredFeatures des jeweiligen Elements."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/svganimationelement/requiredfeatures/
 ---
 ## SVGAnimationElement.RequiredFeatures property
 
-Entspricht dem Attribut 'requiredFeatures' für das angegebene Element.
+Entspricht dem Attribut ‘requiredFeatures’ des angegebenen Elements.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die erforderlichen Funktionen.
+Die erforderlichen Features.
 
 ### Siehe auch
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGAnimationElement](../)
-* namensraum [Aspose.Svg](../../svganimationelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

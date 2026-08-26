@@ -1,14 +1,14 @@
 ---
-title: Document.StyleSheets
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Eine Liste mit allen Stylesheets die explizit mit einem Dokument verknüpft oder darin eingebettet sind. Bei HTMLDokumenten umfasst dies externe Stylesheets die über das HTMLLINKElement eingebunden werden und InlineSTYLEElemente.
+title: "Document.StyleSheets"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document StyleSheets‑Eigenschaft. Eine Liste, die alle Stylesheets enthält, die explizit in ein Dokument verlinkt oder darin eingebettet sind. Für HTML‑Dokumente umfasst dies externe Stylesheets, die über das HTML‑LINK‑Element eingebunden werden, sowie inline STYLE‑Elemente."
 type: docs
 weight: 250
 url: /de/net/aspose.svg.dom/document/stylesheets/
 ---
 ## Document.StyleSheets property
 
-Eine Liste mit allen Stylesheets, die explizit mit einem Dokument verknüpft oder darin eingebettet sind. Bei HTML-Dokumenten umfasst dies externe Stylesheets, die über das HTML-LINK-Element eingebunden werden, und Inline-STYLE-Elemente.
+Eine Liste, die alle Stylesheets enthält, die explizit in ein Dokument verlinkt oder eingebettet sind. Für HTML‑Dokumente umfasst dies externe Stylesheets, die über das HTML‑LINK‑Element eingebunden werden, sowie inline STYLE‑Elemente.
 
 ```csharp
 public IStyleSheetList StyleSheets { get; }
@@ -18,7 +18,5 @@ public IStyleSheetList StyleSheets { get; }
 
 * interface [IStyleSheetList](../../../aspose.svg.dom.css/istylesheetlist/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

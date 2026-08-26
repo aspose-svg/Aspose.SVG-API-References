@@ -1,7 +1,7 @@
 ---
-title: Frequency.op_Addition
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Frequency methode. Implementiert den Operator .
+title: "Frequency.op_Addition"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Frequency op_Addition-Methode. Implementiert den Operator."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/frequency/op_addition/
@@ -33,7 +33,5 @@ Das Ergebnis des Operators.
 ### Siehe auch
 
 * class [Frequency](../)
-* namensraum [Aspose.Svg.Drawing](../../frequency/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

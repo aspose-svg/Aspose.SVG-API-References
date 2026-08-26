@@ -1,27 +1,25 @@
 ---
-title: ContentDispositionHeaderValue.Name
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ContentDispositionHeaderValue eigendom. Der Name für einen Inhaltstextteil.
+title: "ContentDispositionHeaderValue.Name"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ContentDispositionHeaderValue Name Eigenschaft. Der Name für einen Inhaltskörperteil"
 type: docs
 weight: 40
 url: /de/net/aspose.svg.net.headers/contentdispositionheadervalue/name/
 ---
 ## ContentDispositionHeaderValue.Name property
 
-Der Name für einen Inhaltstextteil.
+Der Name für einen Inhalts-Body-Teil.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name.
 
 ### Siehe auch
 
 * class [ContentDispositionHeaderValue](../)
-* namensraum [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

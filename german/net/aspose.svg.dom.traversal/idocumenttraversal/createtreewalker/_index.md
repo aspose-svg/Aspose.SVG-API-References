@@ -1,14 +1,14 @@
 ---
-title: IDocumentTraversal.CreateTreeWalker
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDocumentTraversal methode. Erstellen Sie einen neuen TreeWalker über dem Teilbaum der an dem angegebenen Knoten verwurzelt ist.
+title: "IDocumentTraversal.CreateTreeWalker"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDocumentTraversal CreateTreeWalker-Methode. Erstellt einen neuen TreeWalker über den Teilbaum, der an dem angegebenen Knoten verwurzelt ist."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.traversal/idocumenttraversal/createtreewalker/
 ---
-## CreateTreeWalker(Node) {#createtreewalker}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/)*) {#createtreewalker}
 
-Erstellen Sie einen neuen TreeWalker über dem Teilbaum, der an dem angegebenen Knoten verwurzelt ist.
+Erstellt einen neuen TreeWalker über dem Teilbaum, der am angegebenen Knoten wurzelt.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
@@ -16,7 +16,7 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| root | Node | Knoten, der als Wurzel für the TreeWalker dienen wird. Die whatToShow-Flags und der NodeFilter werden beim Festlegen dieses Werts nicht berücksichtigt; jeder Knotentyp wird als Root akzeptiert. Der aktuelle Knoten des TreeWalkers wird mit diesem Knoten initialisiert, unabhängig davon, ob er sichtbar ist oder nicht. Die -Wurzel fungiert als Haltepunkt für Traversal -Methoden, die in der Dokumentstruktur nach oben schauen, wie z. B. parentNode und nextNode. Die Wurzel muss nicht null sein. |
+| root | Node | Knoten, der als Wurzel für den TreeWalker dient. Die whatToShow‑Flags und der NodeFilter werden beim Setzen dieses Wertes nicht berücksichtigt; jeder Knotentyp wird als Wurzel akzeptiert. Der currentNode des TreeWalkers wird auf diesen Knoten initialisiert, unabhängig davon, ob er sichtbar ist. Die Wurzel fungiert als Stoppunkt für Traversalmethoden, die im Dokumentenbaum nach oben schauen, wie parentNode und nextNode. Die Wurzel darf nicht null sein. |
 
 ### Rückgabewert
 
@@ -27,14 +27,14 @@ Der neu erstellte TreeWalker.
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* namensraum [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long) {#createtreewalker_1}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long*) {#createtreewalker_1}
 
-Erstellen Sie einen neuen TreeWalker über dem Teilbaum, der an dem angegebenen Knoten verwurzelt ist.
+Erstellt einen neuen TreeWalker über dem Teilbaum, der am angegebenen Knoten wurzelt.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
@@ -42,8 +42,8 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| root | Node | Knoten, der als Wurzel für the TreeWalker dienen wird. Die whatToShow-Flags und der NodeFilter werden beim Festlegen dieses Werts nicht berücksichtigt; jeder Knotentyp wird als Root akzeptiert. Der aktuelle Knoten des TreeWalkers wird mit diesem Knoten initialisiert, unabhängig davon, ob er sichtbar ist oder nicht. Die -Wurzel fungiert als Haltepunkt für Traversal -Methoden, die in der Dokumentstruktur nach oben schauen, wie z. B. parentNode und nextNode. Die Wurzel muss nicht null sein. |
-| whatToShow | Int64 | Flag gibt an, welche Knotentypen in der logischen Ansicht des Baums erscheinen können, der vom Tree-Walker präsentiert wird. Siehe die Beschreibung von NodeFilter für den Satz möglicher SHOW_ Werte. Diese Flags können mit ODER kombiniert werden. |
+| root | Node | Knoten, der als Wurzel für den TreeWalker dient. Die whatToShow‑Flags und der NodeFilter werden beim Setzen dieses Wertes nicht berücksichtigt; jeder Knotentyp wird als Wurzel akzeptiert. Der currentNode des TreeWalkers wird auf diesen Knoten initialisiert, unabhängig davon, ob er sichtbar ist. Die Wurzel fungiert als Stoppunkt für Traversalmethoden, die im Dokumentenbaum nach oben schauen, wie parentNode und nextNode. Die Wurzel darf nicht null sein. |
+| whatToShow | Int64 | Das Flag gibt an, welche Knotentypen in der logischen Ansicht des vom TreeWalker präsentierten Baums erscheinen dürfen. Siehe die Beschreibung von NodeFilter für die Menge möglicher SHOW_-Werte. Diese Flags können mit OR kombiniert werden. |
 
 ### Rückgabewert
 
@@ -54,14 +54,14 @@ Der neu erstellte TreeWalker.
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* namensraum [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long, [INodeFilter](../../inodefilter/)*) {#createtreewalker_2}
 
-Erstellen Sie einen neuen TreeWalker über dem Teilbaum, der an dem angegebenen Knoten verwurzelt ist.
+Erstellt einen neuen TreeWalker über dem Teilbaum, der am angegebenen Knoten wurzelt.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
@@ -69,9 +69,9 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| root | Node | Knoten, der als Wurzel für the TreeWalker dienen wird. Die whatToShow-Flags und der NodeFilter werden beim Festlegen dieses Werts nicht berücksichtigt; jeder Knotentyp wird als Root akzeptiert. Der aktuelle Knoten des TreeWalkers wird mit diesem Knoten initialisiert, unabhängig davon, ob er sichtbar ist oder nicht. Die -Wurzel fungiert als Haltepunkt für Traversal -Methoden, die in der Dokumentstruktur nach oben schauen, wie z. B. parentNode und nextNode. Die Wurzel muss nicht null sein. |
-| whatToShow | Int64 | Flag gibt an, welche Knotentypen in der logischen Ansicht des Baums erscheinen können, der vom Tree-Walker präsentiert wird. Siehe die Beschreibung von NodeFilter für den Satz möglicher SHOW_ Werte. Diese Flags können mit ODER kombiniert werden. |
-| filter | INodeFilter | NodeFilter, der mit this TreeWalker verwendet werden soll, oder null, um anzugeben, dass kein Filter vorhanden ist. |
+| root | Node | Knoten, der als Wurzel für den TreeWalker dient. Die whatToShow‑Flags und der NodeFilter werden beim Setzen dieses Wertes nicht berücksichtigt; jeder Knotentyp wird als Wurzel akzeptiert. Der currentNode des TreeWalkers wird auf diesen Knoten initialisiert, unabhängig davon, ob er sichtbar ist. Die Wurzel fungiert als Stoppunkt für Traversalmethoden, die im Dokumentenbaum nach oben schauen, wie parentNode und nextNode. Die Wurzel darf nicht null sein. |
+| whatToShow | Int64 | Das Flag gibt an, welche Knotentypen in der logischen Ansicht des vom TreeWalker präsentierten Baums erscheinen dürfen. Siehe die Beschreibung von NodeFilter für die Menge möglicher SHOW_-Werte. Diese Flags können mit OR kombiniert werden. |
+| filter | INodeFilter | NodeFilter, der mit diesem TreeWalker verwendet werden soll, oder null, um keinen Filter anzugeben. |
 
 ### Rückgabewert
 
@@ -83,7 +83,5 @@ Der neu erstellte TreeWalker.
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* namensraum [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

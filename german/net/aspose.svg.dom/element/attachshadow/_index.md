@@ -1,14 +1,14 @@
 ---
-title: Element.AttachShadow
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element methode. Erstellt einen Schattenstamm und hängt ihn an das aktuelle Element an.
+title: "Element.AttachShadow"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element AttachShadow Methode. Erstellt ein shadow root und fügt es dem aktuellen Element hinzu."
 type: docs
-weight: 230
+weight: 220
 url: /de/net/aspose.svg.dom/element/attachshadow/
 ---
 ## Element.AttachShadow method
 
-Erstellt einen Schattenstamm und hängt ihn an das aktuelle Element an.
+Erstellt ein shadowRoot und fügt es dem aktuellen Element hinzu.
 
 ```csharp
 public ShadowRoot AttachShadow(ShadowRootMode mode)
@@ -16,25 +16,23 @@ public ShadowRoot AttachShadow(ShadowRootMode mode)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| mode | ShadowRootMode | Modus, in dem Schattenstamm erstellt wird. |
+| mode | ShadowRootMode | Modus, in dem das shadow root erstellt wird. |
 
 ### Rückgabewert
 
-Erstellt[`ShadowRoot`](../../shadowroot/).
+Erstellt [`ShadowRoot`](../../shadowroot/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| Error | NotSupportedError: Element unterstützt keine Schattenstruktur. |
-| Error | InvalidStateError: Element hat bereits Schattenbaum. |
+| Fehler | NotSupportedError: Element unterstützt keinen Shadow Tree. |
+| Fehler | InvalidStateError: Element hat bereits einen Shadow Tree. |
 
 ### Siehe auch
 
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

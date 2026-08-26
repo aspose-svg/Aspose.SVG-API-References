@@ -1,27 +1,26 @@
 ---
-title: IDevice.StrokeAndFill
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDevice methode. Striche und aktuellen Pfad füllen. Diese Methode beendet aktuellen Pfad.
+title: "IDevice.StrokeAndFill"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDevice StrokeAndFill-Methode. Konturiert und füllt den aktuellen Pfad. Diese Methode beendet den aktuellen Pfad."
 type: docs
 weight: 220
 url: /de/net/aspose.svg.rendering/idevice/strokeandfill/
 ---
 ## IDevice.StrokeAndFill method
 
-Striche und aktuellen Pfad füllen. Diese Methode beendet aktuellen Pfad.
+Zeichnet die Kontur und füllt den aktuellen Pfad. Diese Methode beendet den aktuellen Pfad.
 
 ```csharp
-public void StrokeAndFill(FillMode mode)
+public void StrokeAndFill(FillRule rule)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| mode | FillMode | Der Füllmodus gibt an, wie das Innere eines geschlossenen Pfads gefüllt wird. |
+| Regel | FillRule | Die Füllregel gibt an, wie das Innere eines geschlossenen Pfads gefüllt wird. |
 
 ### Siehe auch
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * interface [IDevice](../)
-* namensraum [Aspose.Svg.Rendering](../../idevice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

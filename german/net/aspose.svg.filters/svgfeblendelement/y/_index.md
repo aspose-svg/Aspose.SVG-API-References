@@ -1,28 +1,26 @@
 ---
-title: SVGFEBlendElement.Y
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEBlendElement eigendom. Entspricht dem Attribut y des angegebenen filterElements.
+title: "SVGFEBlendElement.Y"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEBlendElement Y-Eigenschaft. Entspricht dem Attribut y des angegebenen Filterelements."
 type: docs
 weight: 80
 url: /de/net/aspose.svg.filters/svgfeblendelement/y/
 ---
 ## SVGFEBlendElement.Y property
 
-Entspricht dem Attribut 'y' des angegebenen 'filter'-Elements.
+Entspricht dem Attribut ‘y’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'y' des gegebenen 'filter'-Elements.
+Das Attribut ‘y’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEBlendElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeblendelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

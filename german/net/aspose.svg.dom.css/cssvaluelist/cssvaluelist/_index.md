@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.CSSValueList
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSValueList constructeur. Initialisiert eine neue Instanz vonCSSValueList Klasse.
+title: "CSSValueList"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSValueList-Konstruktor. Initialisiert eine neue Instanz der CSSValueList-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 
-Initialisiert eine neue Instanz von[`CSSValueList`](../) Klasse.
+Initialisiert eine neue Instanz der [`CSSValueList`](../)-Klasse.
 
 ```csharp
 public CSSValueList()
@@ -17,14 +17,14 @@ public CSSValueList()
 ### Siehe auch
 
 * class [CSSValueList](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
+## CSSValueList(*IEnumerable&lt;CSSValue&gt;*) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`CSSValueList`](../) Klasse.
+Initialisiert eine neue Instanz der [`CSSValueList`](../)-Klasse.
 
 ```csharp
 public CSSValueList(IEnumerable<CSSValue> values)
@@ -38,14 +38,14 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(params CSSValue[]) {#constructor_1}
+## CSSValueList(*params CSSValue[]*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`CSSValueList`](../) Klasse.
+Initialisiert eine neue Instanz der [`CSSValueList`](../)-Klasse.
 
 ```csharp
 public CSSValueList(params CSSValue[] values)
@@ -59,7 +59,5 @@ public CSSValueList(params CSSValue[] values)
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

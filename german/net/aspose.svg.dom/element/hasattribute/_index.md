@@ -1,31 +1,29 @@
 ---
-title: Element.HasAttribute
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element methode. Gibt true zurück wenn ein Attribut mit einem bestimmten Namen für dieses Element angegeben ist oder einen Standardwert hat andernfalls false.
+title: "Element.HasAttribute"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element HasAttribute Methode. Gibt true zurück, wenn ein Attribut mit dem angegebenen Namen an diesem Element festgelegt ist oder einen Standardwert hat, sonst false"
 type: docs
 weight: 310
 url: /de/net/aspose.svg.dom/element/hasattribute/
 ---
 ## Element.HasAttribute method
 
-Gibt true zurück, wenn ein Attribut mit einem bestimmten Namen für dieses Element angegeben ist oder einen Standardwert hat, andernfalls false.
+Gibt true zurück, wenn ein Attribut mit dem angegebenen Namen an diesem Element festgelegt ist oder einen Standardwert hat, andernfalls false.
 
 ```csharp
-public bool HasAttribute(string name)
+public bool HasAttribute(string qualifiedName)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| name | String | Der Attributname. |
+| qualifiedName | String | Der Attributname. |
 
 ### Rückgabewert
 
-`WAHR` wenn der angegebene Name ein Attribut hat; ansonsten,`FALSCH` .
+`true`, wenn der angegebene Name ein Attribut hat; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

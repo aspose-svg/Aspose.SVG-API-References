@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnReset
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IGlobalEventHandlers evenement. Ruft den Ereignishandler für das OnResetEreignis ab oder legt ihn fest.
+title: "IGlobalEventHandlers.OnReset"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IGlobalEventHandlers OnReset-Ereignis. Ruft den Ereignishandler für das OnReset-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 370
 url: /de/net/aspose.svg.dom/iglobaleventhandlers/onreset/
 ---
 ## IGlobalEventHandlers.OnReset event
 
-Ruft den Ereignishandler für das OnReset-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnReset-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnReset;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnReset;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namensraum [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

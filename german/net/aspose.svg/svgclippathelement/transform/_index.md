@@ -1,28 +1,26 @@
 ---
-title: SVGClipPathElement.Transform
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGClipPathElement eigendom. Entspricht dem Attribut transform des angegebenen Elements.
+title: "SVGClipPathElement.Transform"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGClipPathElement Transform‑Eigenschaft. Entspricht dem Attribut transform des angegebenen Elements"
 type: docs
 weight: 20
 url: /de/net/aspose.svg/svgclippathelement/transform/
 ---
 ## SVGClipPathElement.Transform property
 
-Entspricht dem Attribut 'transform' des angegebenen Elements.
+Entspricht dem Attribut ‘transform’ des angegebenen Elements.
 
 ```csharp
 public SVGAnimatedTransformList Transform { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Elementtransformation.
+Die Element-Transformation.
 
 ### Siehe auch
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGClipPathElement](../)
-* namensraum [Aspose.Svg](../../svgclippathelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: HttpMethod.op_Equality
-second_title: Aspose.SVG für .NET-API-Referenz
-description: HttpMethod methode. Implementiert den Gleichheitsoperator.
+title: "HttpMethod.op_Equality"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "HttpMethod op_Equality-Methode. Implementiert den Gleichheitsoperator"
 type: docs
 weight: 90
 url: /de/net/aspose.svg.net/httpmethod/op_equality/
@@ -16,8 +16,8 @@ public static bool operator ==(HttpMethod left, HttpMethod right)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| left | HttpMethod | Der linke Operand. |
-| right | HttpMethod | Der linke Operand. |
+| links | HttpMethod | Der linke Operand. |
+| rechts | HttpMethod | Der linke Operand. |
 
 ### Rückgabewert
 
@@ -26,7 +26,5 @@ Das Ergebnis der Operation.
 ### Siehe auch
 
 * class [HttpMethod](../)
-* namensraum [Aspose.Svg.Net](../../httpmethod/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

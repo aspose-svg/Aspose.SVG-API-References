@@ -1,14 +1,14 @@
 ---
-title: IStyleSheetList.Item
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IStyleSheetList eigendom. Wird verwendet um ein Stylesheet nach Methode itemint index gemäß http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/stylesheets.html. abzurufen
+title: "IStyleSheetList.Item"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IStyleSheetList Item-Eigenschaft. Wird verwendet, um ein Stylesheet über die Methode itemint Index gemäß http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html abzurufen."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-Wird verwendet, um ein Stylesheet nach Methode item(int index) gemäß http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html. abzurufen
+Wird verwendet, um ein Stylesheet mittels der Methode item(int index) gemäß http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html abzurufen.
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
@@ -22,15 +22,13 @@ public ICSSStyleSheet this[int index] { get; }
 
 Die CSS-Stylesheet-Instanz.
 
-### Eigentumswert
+### Property Value
 
-Die[`ICSSStyleSheet`](../../icssstylesheet/) .
+Das [`ICSSStyleSheet`](../../icssstylesheet/).
 
 ### Siehe auch
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [IStyleSheetList](../)
-* namensraum [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

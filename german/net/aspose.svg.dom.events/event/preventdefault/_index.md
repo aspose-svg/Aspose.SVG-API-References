@@ -1,27 +1,25 @@
 ---
-title: Event.PreventDefault
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Event methode. Wenn eine Veranstaltung stornierbar ist wird diePreventDefault Methode wird verwendet um anzugeben dass das Ereignis abgebrochen werden soll  was bedeutet dass eine Standardaktion die normalerweise von der Implementierung als Ergebnis des Ereignisses ausgeführt wird nicht ausgeführt wird.
+title: "Event.PreventDefault"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Event PreventDefault-Methode. Wenn ein Ereignis abbrechbar ist, wird die PreventDefault-Methode verwendet, um anzuzeigen, dass das Ereignis abgebrochen werden soll, was bedeutet, dass jede Standardaktion, die normalerweise von der Implementierung als Ergebnis des Ereignisses durchgeführt wird, nicht erfolgt."
 type: docs
 weight: 120
 url: /de/net/aspose.svg.dom.events/event/preventdefault/
 ---
 ## Event.PreventDefault method
 
-Wenn eine Veranstaltung stornierbar ist, wird die`PreventDefault` -Methode wird verwendet, um anzugeben, dass das Ereignis abgebrochen werden soll, , was bedeutet, dass eine Standardaktion, die normalerweise von der Implementierung als Ergebnis des Ereignisses ausgeführt wird, nicht ausgeführt wird.
+Wenn ein Ereignis abbrechbar ist, wird die `PreventDefault`-Methode verwendet, um anzuzeigen, dass das Ereignis abgebrochen werden soll, was bedeutet, dass jede Standardaktion, die normalerweise von der Implementierung als Ergebnis des Ereignisses durchgeführt wird, nicht erfolgt.
 
 ```csharp
 public void PreventDefault()
 ```
 
-### Bemerkungen
+## Hinweise
 
-Wenn während irgendeiner Phase des Ereignisflusses die`PreventDefault`Methode aufgerufen wird, wird das Ereignis abgebrochen. Jede mit dem Ereignis verbundene Standardaktion wird nicht ausgeführt. Der Aufruf dieser Methode für ein nicht stornierbares Ereignis hat keine Wirkung. Einmal`PreventDefault` aufgerufen wurde, bleibt es während der restlichen Ausbreitung des Ereignisses in Kraft. Diese Methode kann in jeder Phase des Ereignisablaufs verwendet werden.
+Wenn während irgendeiner Phase des Ereignisflusses die `PreventDefault`-Methode aufgerufen wird, wird das Ereignis abgebrochen. Jede mit dem Ereignis verbundene Standardaktion wird nicht ausgeführt. Das Aufrufen dieser Methode für ein nicht abbrechbares Ereignis hat keine Wirkung. Sobald `PreventDefault` aufgerufen wurde, bleibt es für den Rest der Ereignispropagation wirksam. Diese Methode kann in jeder Phase des Ereignisflusses verwendet werden.
 
 ### Siehe auch
 
 * class [Event](../)
-* namensraum [Aspose.Svg.Dom.Events](../../event/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

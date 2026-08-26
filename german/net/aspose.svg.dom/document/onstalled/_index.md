@@ -1,14 +1,14 @@
 ---
-title: Document.OnStalled
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den EventHandler für das OnStalledEreignis ab oder legt ihn fest.
+title: "Document.OnStalled"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnStalled-Ereignis. Ruft den Ereignishandler für das OnStalled-Ereignis ab oder legt ihn fest"
 type: docs
 weight: 720
 url: /de/net/aspose.svg.dom/document/onstalled/
 ---
 ## Document.OnStalled event
 
-Ruft den Event-Handler für das OnStalled-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnStalled-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnStalled;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnStalled;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
