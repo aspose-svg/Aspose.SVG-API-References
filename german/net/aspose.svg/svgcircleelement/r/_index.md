@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.R
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGCircleElement eigendom. Entspricht dem Attribut r auf dem gegebenen KreisElement.
+title: "SVGCircleElement.R"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGCircleElement R-Eigenschaft. Entspricht dem Attribut r im angegebenen Kreiselement."
 type: docs
 weight: 30
 url: /de/net/aspose.svg/svgcircleelement/r/
 ---
 ## SVGCircleElement.R property
 
-Entspricht dem Attribut 'r' auf dem gegebenen 'Kreis'-Element.
+Entspricht dem Attribut ‘r’ im angegebenen ‘circle’-Element.
 
 ```csharp
 public SVGAnimatedLength R { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'r' des gegebenen 'Kreis'-Elements.
+Das Attribut ‘r’ des angegebenen ‘circle’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* namensraum [Aspose.Svg](../../svgcircleelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

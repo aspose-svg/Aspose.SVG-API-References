@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaMode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: WheelEvent eigendom. Das Attribut deltaMode enthält eine Angabe der Maßeinheiten für die Deltawerte. Der Standardwert ist DOM_DELTA_PIXEL Pixel.
+title: "WheelEvent.DeltaMode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "WheelEvent DeltaMode‑Eigenschaft. Das deltaMode‑Attribut enthält einen Hinweis auf die Einheit der Messung für die Delta‑Werte. Der Standardwert ist DOM_DELTA_PIXEL Pixel."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.events/wheelevent/deltamode/
 ---
 ## WheelEvent.DeltaMode property
 
-Das Attribut deltaMode enthält eine Angabe der Maßeinheiten für die Deltawerte. Der Standardwert ist DOM_DELTA_PIXEL (Pixel).
+Das Attribut deltaMode enthält einen Hinweis auf die Maßeinheiten für die Delta‑Werte. Der Standardwert ist DOM_DELTA_PIXEL (Pixel).
 
 ```csharp
 public ulong DeltaMode { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Delta-Modus.
+Der Delta‑Modus.
 
 ### Siehe auch
 
 * class [WheelEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../wheelevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

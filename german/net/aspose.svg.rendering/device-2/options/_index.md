@@ -1,14 +1,14 @@
 ---
-title: Device2.Options
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Device eigendom. Ruft Renderoptionen ab.
+title: "Device-2.Options"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Device Options-Eigenschaft. Gibt die Rendering-Optionen zurück."
 type: docs
-weight: 20
+weight: 30
 url: /de/net/aspose.svg.rendering/device-2/options/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property
+## Device<TGraphicContext,TRenderingOptions>.Options property
 
-Ruft Renderoptionen ab.
+Ermittelt die Rendering‑Optionen.
 
 ```csharp
 public TRenderingOptions Options { get; }
@@ -17,7 +17,5 @@ public TRenderingOptions Options { get; }
 ### Siehe auch
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namensraum [Aspose.Svg.Rendering](../../device-2/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

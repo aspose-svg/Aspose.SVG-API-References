@@ -1,7 +1,7 @@
 ---
-title: Document.Location
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Der Speicherort des Dokuments.
+title: "Document.Location"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document Location‑Eigenschaft. Der Speicherort des Dokuments."
 type: docs
 weight: 160
 url: /de/net/aspose.svg.dom/document/location/
@@ -14,7 +14,7 @@ Der Speicherort des Dokuments.
 public Location Location { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Ort.
 
@@ -22,7 +22,5 @@ Der Ort.
 
 * class [Location](../../../aspose.svg.window/location/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

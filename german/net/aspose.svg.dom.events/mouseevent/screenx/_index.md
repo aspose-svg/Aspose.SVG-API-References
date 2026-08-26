@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ScreenX
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent eigendom. Die horizontale Koordinate an der das Ereignis relativ zum Ursprung des Bildschirmkoordinatensystems aufgetreten ist.
+title: "MouseEvent.ScreenX"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent ScreenX-Eigenschaft. Die horizontale Koordinate, bei der das Ereignis relativ zum Ursprung des Bildschirmkoordinatensystems auftrat"
 type: docs
 weight: 100
 url: /de/net/aspose.svg.dom.events/mouseevent/screenx/
 ---
 ## MouseEvent.ScreenX property
 
-Die horizontale Koordinate, an der das Ereignis relativ zum Ursprung des Bildschirmkoordinatensystems aufgetreten ist.
+Die horizontale Koordinate, bei der das Ereignis relativ zum Ursprung des Bildschirmkoordinatensystems auftrat.
 
 ```csharp
 public long ScreenX { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Bildschirm x.
+Die Bildschirm‑x.
 
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

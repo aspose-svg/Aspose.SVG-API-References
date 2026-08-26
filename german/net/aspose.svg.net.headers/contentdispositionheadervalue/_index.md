@@ -1,44 +1,42 @@
 ---
-title: Class ContentDispositionHeaderValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.Headers.ContentDispositionHeaderValue klas. Repräsentiert den ContentDispositionHeaderWert.
+title: "ContentDispositionHeaderValue Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.Headers.ContentDispositionHeaderValue Klasse. Stellt einen Content-Disposition-Headerwert dar"
 type: docs
-weight: 2260
+weight: 4330
 url: /de/net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
 
-Repräsentiert den Content-Disposition-Header-Wert.
+Stellt den Wert des Content-Disposition-Headers dar.
 
 ```csharp
 public class ContentDispositionHeaderValue
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(string) | Erstellen Sie eine neue Instanz dieses Dispositionstyps. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | Erstelle eine neue Instanz dieses Disposition-Typs. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Abrufen oder Festlegen des Dispositionstyps |
+| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Lese oder setze den Disposition-Typ |
 | [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | Der Name der gespeicherten Datei. |
-| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | Der Name für einen Inhaltstextteil. |
-| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | Sammlung von Parametern abrufen |
+| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | Der Name für einen Inhalts-Body-Teil. |
+| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | Lese Sammlung von Parametern |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(object) | Bestimmt, ob die angegebeneObject ist gleich dieser Instanz. |
-| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(*object*) | Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist. |
+| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

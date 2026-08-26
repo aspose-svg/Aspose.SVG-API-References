@@ -1,28 +1,26 @@
 ---
-title: MutationObserver.TakeRecords
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationObserver methode. Die Methode gibt eine Kopie der Datensatzwarteschlange zurück und leert dann die Datensatzwarteschlange.
+title: "MutationObserver.TakeRecords"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationObserver TakeRecords-Methode. Die Methode gibt eine Kopie der Aufzeichnungswarteschlange zurück und leert anschließend die Aufzeichnungswarteschlange."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.dom.mutations/mutationobserver/takerecords/
 ---
 ## MutationObserver.TakeRecords method
 
-Die Methode gibt eine Kopie der Datensatzwarteschlange zurück und leert dann die Datensatzwarteschlange.
+Die Methode gibt eine Kopie der Aufzeichnungswarteschlange zurück und leert anschließend die Aufzeichnungswarteschlange.
 
 ```csharp
-public IEnumerable<MutationRecord> TakeRecords()
+public IList<MutationRecord> TakeRecords()
 ```
 
 ### Rückgabewert
 
-Die Kopie der Datensatzwarteschlange.
+Die Kopie der Aufzeichnungswarteschlange.
 
 ### Siehe auch
 
 * class [MutationRecord](../../mutationrecord/)
 * class [MutationObserver](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

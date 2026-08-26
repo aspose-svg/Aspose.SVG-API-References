@@ -1,14 +1,14 @@
 ---
-title: SVGLength.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGLength methode. Gibt a zurückString die diese Instanz darstellt.
+title: "SVGLength.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGLength ToString Methode. Gibt einen String zurück, der diese Instanz darstellt."
 type: docs
 weight: 70
 url: /de/net/aspose.svg.datatypes/svglength/tostring/
 ---
 ## SVGLength.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [SVGLength](../)
-* namensraum [Aspose.Svg.DataTypes](../../svglength/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

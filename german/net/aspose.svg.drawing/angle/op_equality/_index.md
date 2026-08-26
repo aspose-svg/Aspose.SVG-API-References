@@ -1,7 +1,7 @@
 ---
-title: Angle.op_Equality
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Angle methode. Implementiert den Operator .
+title: "Angle.op_Equality"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Angle op_Equality Methode. Implementiert den Operator"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.drawing/angle/op_equality/
@@ -26,7 +26,5 @@ Das Ergebnis des Operators.
 ### Siehe auch
 
 * class [Angle](../)
-* namensraum [Aspose.Svg.Drawing](../../angle/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

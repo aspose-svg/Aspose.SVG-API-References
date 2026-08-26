@@ -1,27 +1,25 @@
 ---
-title: InputEvent.IsComposing
-second_title: Aspose.SVG für .NET-API-Referenz
-description: InputEvent eigendom. wahr wenn das Eingabeereignis als Teil einer Zusammensetzungssitzung auftritt dh nach einem Zusammensetzungsstartereignis und vor dem entsprechenden Zusammensetzungsendereignis. Der nicht initialisierte Wert dieses Attributs MUSS false sein.
+title: "InputEvent.IsComposing"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "InputEvent IsComposing Eigenschaft. true, wenn das Eingabeereignis als Teil einer Kompositionssitzung auftritt, d. h. nach einem compositionstart‑Ereignis und vor dem entsprechenden compositionend‑Ereignis. Der nicht initialisierte Wert dieses Attributs MUSS false sein."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.events/inputevent/iscomposing/
 ---
 ## InputEvent.IsComposing property
 
-wahr, wenn das Eingabeereignis als Teil einer Zusammensetzungssitzung auftritt, dh nach einem Zusammensetzungsstartereignis und vor dem entsprechenden Zusammensetzungsendereignis. Der nicht initialisierte Wert dieses Attributs MUSS false sein.
+true, wenn das Eingabeereignis Teil einer Kompositionssitzung ist, d. h. nach einem compositionstart‑Ereignis und vor dem entsprechenden compositionend‑Ereignis. Der nicht initialisierte Wert dieses Attributs MUSS false sein.
 
 ```csharp
 public bool IsComposing { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz komponiert; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz komponiert; andernfalls `false`.
 
 ### Siehe auch
 
 * class [InputEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../inputevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

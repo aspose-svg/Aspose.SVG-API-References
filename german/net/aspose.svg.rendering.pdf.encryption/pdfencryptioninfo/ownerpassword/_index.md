@@ -1,31 +1,29 @@
 ---
-title: PdfEncryptionInfo.OwnerPassword
-second_title: Aspose.SVG für .NET-API-Referenz
-description: PdfEncryptionInfo eigendom. Ruft das Eigentümerkennwort ab oder legt es fest.
+title: "PdfEncryptionInfo.OwnerPassword"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "PdfEncryptionInfo OwnerPassword‑Eigenschaft. Gibt das Owner‑Passwort zurück oder setzt es."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/
 ---
 ## PdfEncryptionInfo.OwnerPassword property
 
-Ruft das Eigentümerkennwort ab oder legt es fest.
+Liest oder setzt das Owner-Passwort.
 
 ```csharp
 public string OwnerPassword { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Eigentümerpasswort.
+Das Besitzerpasswort.
 
-### Bemerkungen
+## Hinweise
 
-Das Öffnen des Dokuments mit dem richtigen Besitzerkennwort (vorausgesetzt, es ist nicht das gleiche wie das Benutzerkennwort) ermöglicht vollen (Eigentümer-)Zugriff auf das Dokument. Dieser unbegrenzte Zugriff beinhaltet die Möglichkeit, die Passwörter des Dokuments und Zugriffsberechtigungen zu ändern.
+Das Öffnen des Dokuments mit dem korrekten Besitzerpasswort (unter der Annahme, dass es nicht dasselbe wie das Benutzerpasswort ist) ermöglicht vollen (Besitzer‑)Zugriff auf das Dokument. Dieser uneingeschränkte Zugriff beinhaltet die Möglichkeit, die Passwörter des Dokuments und die Zugriffsberechtigungen zu ändern.
 
 ### Siehe auch
 
 * class [PdfEncryptionInfo](../)
-* namensraum [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

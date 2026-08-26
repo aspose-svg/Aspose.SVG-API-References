@@ -1,14 +1,14 @@
 ---
-title: IEventListener.HandleEvent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IEventListener methode. Diese Methode wird immer dann aufgerufen wenn ein Ereignis des Typs auftritt für den dieIEventListener Schnittstelle wurde registriert.
+title: "IEventListener.HandleEvent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IEventListener HandleEvent Methode. Diese Methode wird aufgerufen, wann immer ein Ereignis des Typs auftritt, für das das IEventListener-Interface registriert wurde."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.events/ieventlistener/handleevent/
 ---
 ## IEventListener.HandleEvent method
 
-Diese Methode wird immer dann aufgerufen, wenn ein Ereignis des Typs auftritt, für den die[`IEventListener`](../) Schnittstelle wurde registriert.
+Diese Methode wird aufgerufen, wann immer ein Ereignis des Typs auftritt, für das das [`IEventListener`](../) Interface registriert wurde.
 
 ```csharp
 public void HandleEvent(Event @event)
@@ -16,13 +16,11 @@ public void HandleEvent(Event @event)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| event | Event | Die[`Event`](../../event/) enthält Kontextinformationen über das Ereignis. Es enthält auch die[`StopPropagation`](../../event/stoppropagation/) Und[`PreventDefault`](../../event/preventdefault/) Methoden, die zur Bestimmung des Ablaufs und der Standardaktion des Ereignisses verwendet werden. |
+| event | Event | Das [`Event`](../../event/) enthält kontextbezogene Informationen über das Ereignis. Es enthält außerdem die Methoden [`StopPropagation`](../../event/stoppropagation/) und [`PreventDefault`](../../event/preventdefault/), die zur Bestimmung des Ereignisflusses und der Standardaktion verwendet werden. |
 
 ### Siehe auch
 
 * class [Event](../../event/)
 * interface [IEventListener](../)
-* namensraum [Aspose.Svg.Dom.Events](../../ieventlistener/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

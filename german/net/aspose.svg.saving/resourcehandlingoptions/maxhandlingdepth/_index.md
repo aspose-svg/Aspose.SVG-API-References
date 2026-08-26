@@ -1,14 +1,14 @@
 ---
-title: ResourceHandlingOptions.MaxHandlingDepth
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ResourceHandlingOptions eigendom. Ermittelt oder setzt die maximale Seitentiefe die verarbeitet wird. Eine Tiefe von 1 bedeutet dass nur Seiten behandelt werden auf die direkt aus dem gespeicherten Dokument verwiesen wird. Wenn Sie diese Eigenschaft auf 1 setzen werden alle Seiten verarbeitet. Der Standardwert ist 0.
+title: "ResourceHandlingOptions.MaxHandlingDepth"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ResourceHandlingOptions MaxHandlingDepth‑Eigenschaft. Gibt die maximale Tiefe der zu verarbeitenden Seiten an oder legt sie fest. Eine Tiefe von 1 bedeutet, dass nur Seiten, die direkt aus dem gespeicherten Dokument referenziert werden, verarbeitet werden. Wird diese Eigenschaft auf -1 gesetzt, werden alle Seiten verarbeitet. Standardwert ist 0."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.saving/resourcehandlingoptions/maxhandlingdepth/
 ---
 ## ResourceHandlingOptions.MaxHandlingDepth property
 
-Ermittelt oder setzt die maximale Seitentiefe, die verarbeitet wird. Eine Tiefe von 1 bedeutet, dass nur Seiten behandelt werden, auf die direkt aus dem gespeicherten Dokument verwiesen wird. Wenn Sie diese Eigenschaft auf -1 setzen, werden alle Seiten verarbeitet. Der Standardwert ist 0.
+Liest oder legt die maximale Tiefe der zu verarbeitenden Seiten fest. Eine Tiefe von 1 bedeutet, dass nur direkt aus dem gespeicherten Dokument referenzierte Seiten verarbeitet werden. Das Setzen dieser Eigenschaft auf -1 führt zur Verarbeitung aller Seiten. Standardwert ist 0.
 
 ```csharp
 public int MaxHandlingDepth { get; set; }
@@ -17,7 +17,5 @@ public int MaxHandlingDepth { get; set; }
 ### Siehe auch
 
 * class [ResourceHandlingOptions](../)
-* namensraum [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

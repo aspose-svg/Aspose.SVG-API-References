@@ -1,27 +1,25 @@
 ---
-title: TimeEvent.Detail
-second_title: Aspose.SVG für .NET-API-Referenz
-description: TimeEvent eigendom. Gibt je nach Art des Ereignisses einige Detailinformationen zum Ereignis an. Gibt für diesen Ereignistyp die Wiederholungsnummer für die Animation an.
+title: "TimeEvent.Detail"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "TimeEvent Detail Eigenschaft. Gibt einige Detailinformationen über das Ereignis an, abhängig vom Typ des Ereignisses. Für diesen Ereignistyp gibt sie die Wiederholungszahl für die Animation an."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.events/timeevent/detail/
 ---
 ## TimeEvent.Detail property
 
-Gibt je nach Art des Ereignisses einige Detailinformationen zum Ereignis an. Gibt für diesen Ereignistyp die Wiederholungsnummer für die Animation an.
+Gibt einige Detailinformationen über das Ereignis an, abhängig vom Typ des Ereignisses. Für diesen Ereignistyp gibt sie die Wiederholungszahl für die Animation an.
 
 ```csharp
 public long Detail { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Detail.
 
 ### Siehe auch
 
 * class [TimeEvent](../)
-* namensraum [Aspose.Svg.Events](../../timeevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

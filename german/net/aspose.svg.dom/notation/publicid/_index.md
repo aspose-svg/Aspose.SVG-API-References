@@ -1,27 +1,25 @@
 ---
-title: Notation.PublicId
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Notation eigendom. Die öffentliche Kennung dieser Notation. Wenn die öffentliche Kennung nicht angegeben wurde ist dies null.
+title: "Notation.PublicId"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Notation PublicId-Eigenschaft. Der öffentliche Bezeichner dieser Notation. Wenn kein öffentlicher Bezeichner angegeben wurde, ist dieser null."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom/notation/publicid/
 ---
 ## Notation.PublicId property
 
-Die öffentliche Kennung dieser Notation. Wenn die öffentliche Kennung nicht angegeben wurde, ist dies null.
+Der öffentliche Bezeichner dieser Notation. Wenn der öffentliche Bezeichner nicht angegeben wurde, ist er null.
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die öffentliche Kennung.
+Der öffentliche Bezeichner.
 
 ### Siehe auch
 
 * class [Notation](../)
-* namensraum [Aspose.Svg.Dom](../../notation/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

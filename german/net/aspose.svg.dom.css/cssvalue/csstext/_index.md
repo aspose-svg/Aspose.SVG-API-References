@@ -1,27 +1,27 @@
 ---
-title: CSSValue.CSSText
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSValue eigendom. Eine Zeichenfolgendarstellung des aktuellen Werts.
+title: "CSSValue.CSSText"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSValue CSSText Eigenschaft. Die CSSText-Eigenschaft des CSSValue Interface stellt den aktuell berechneten CSS-Eigenschaftswert dar."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
 
-Eine Zeichenfolgendarstellung des aktuellen Werts.
+Die CSSText-Eigenschaft des [`CSSValue`](../) Interface stellt den aktuell berechneten CSS-Eigenschaftswert dar.
+
+Hinweis: Diese Eigenschaft war Teil eines Versuchs, ein typisiertes CSS-Object-Model zu erstellen. Dieser Versuch wurde aufgegeben, und die meisten Browser implementieren sie nicht.
 
 ```csharp
 public abstract string CSSText { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der CSS-Text.
+Ein DOMString, der den aktuellen CSS-Eigenschaftswert darstellt.
 
 ### Siehe auch
 
 * class [CSSValue](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

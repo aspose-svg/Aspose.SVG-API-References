@@ -1,28 +1,26 @@
 ---
-title: SVGFEBlendElement.Height
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEBlendElement eigendom. Entspricht dem Attribut Höhe des angegebenen FilterElements.
+title: "SVGFEBlendElement.Height"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEBlendElement Height Eigenschaft. Entspricht dem Attribut height im angegebenen Filterelement"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.filters/svgfeblendelement/height/
 ---
 ## SVGFEBlendElement.Height property
 
-Entspricht dem Attribut „Höhe“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘height’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Höhe“ des angegebenen „Filter“-Elements.
+Das Attribut ‘height’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEBlendElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeblendelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

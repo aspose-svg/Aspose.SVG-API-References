@@ -1,7 +1,7 @@
 ---
-title: ILinkStyle.Sheet
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ILinkStyle eigendom. Ruft das zugehörige Stylesheet ab.
+title: "ILinkStyle.Sheet"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ILinkStyle Sheet-Eigenschaft. Gibt das zugehörige Stylesheet zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/ilinkstyle/sheet/
@@ -18,7 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../istylesheet/)
 * interface [ILinkStyle](../)
-* namensraum [Aspose.Svg.Dom.Css](../../ilinkstyle/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

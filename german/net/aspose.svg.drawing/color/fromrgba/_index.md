@@ -1,14 +1,14 @@
 ---
-title: Color.FromRgba
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color methode. Gibt eine neue Farbe mit den angeforderten Werten für Ged Grün Blau und Alpha zurück. Alle Farbkomponenten müssen im Bereich 0255 liegen.
+title: "Color.FromRgba"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color FromRgba Methode. Gibt ein neues Color mit den angeforderten Rot-Grün-Blau-Alpha-Werten zurück. Alle Farbkomponenten müssen im Bereich 0-255 liegen."
 type: docs
 weight: 210
 url: /de/net/aspose.svg.drawing/color/fromrgba/
 ---
-## FromRgba(byte, byte, byte, byte) {#fromrgba}
+## FromRgba(*byte, byte, byte, byte*) {#fromrgba}
 
-Gibt eine neue Farbe mit den angeforderten Werten für Ged, Grün, Blau und Alpha zurück. Alle Farbkomponenten müssen im Bereich 0-255 liegen.
+Gibt eine neue Color mit den gewünschten ged-, Grün-, Blau- und Alphawerten zurück. Alle Farbkomponenten müssen im Bereich 0-255 liegen.
 
 ```csharp
 public static Color FromRgba(byte red, byte green, byte blue, byte alpha)
@@ -16,26 +16,26 @@ public static Color FromRgba(byte red, byte green, byte blue, byte alpha)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Byte | Ein Byte, das die rote Komponente der Farbe darstellt. |
-| green | Byte | Ein Byte, das die grüne Komponente der Farbe darstellt. |
-| blue | Byte | Ein Byte, das die blaue Komponente der Farbe darstellt. |
-| alpha | Byte | Ein Byte, das die Alpha-Komponente der Farbe darstellt. |
+| rot | Byte | Ein Byte, das die rote Komponente der Farbe darstellt. |
+| grün | Byte | Ein Byte, das die grüne Komponente der Farbe darstellt. |
+| blau | Byte | Ein Byte, das die blaue Komponente der Farbe darstellt. |
+| Alpha | Byte | Ein Byte, das die Alpha‑Komponente der Farbe darstellt. |
 
 ### Rückgabewert
 
-Eine neue Instanz der[`Color`](../) Klasse
+Eine neue Instanz der [`Color`](../) Klasse
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FromRgba(int, int, int, int) {#fromrgba_1}
+## FromRgba(*int, int, int, int*) {#fromrgba_1}
 
-Gibt eine neue Farbe mit den angeforderten Werten für Ged, Grün, Blau und Alpha zurück. Alle Farbkomponenten müssen im Bereich 0-255 liegen.
+Gibt eine neue Color mit den gewünschten ged-, Grün-, Blau- und Alphawerten zurück. Alle Farbkomponenten müssen im Bereich 0-255 liegen.
 
 ```csharp
 public static Color FromRgba(int red, int green, int blue, int alpha)
@@ -43,26 +43,26 @@ public static Color FromRgba(int red, int green, int blue, int alpha)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Int32 | Ein int, das die rote Komponente der Farbe darstellt. |
-| green | Int32 | Ein int, das die grüne Komponente der Farbe darstellt. |
-| blue | Int32 | Ein int, das die blaue Komponente der Farbe darstellt. |
-| alpha | Int32 | Ein int, das die Alpha-Komponente der Farbe darstellt. |
+| rot | Int32 | Ein Int, das die rote Komponente der Farbe darstellt. |
+| grün | Int32 | Ein Int, das die grüne Komponente der Farbe darstellt. |
+| blau | Int32 | Ein Int, das die blaue Komponente der Farbe darstellt. |
+| Alpha | Int32 | Ein Int, das die Alpha‑Komponente der Farbe darstellt. |
 
 ### Rückgabewert
 
-Eine neue Instanz der[`Color`](../) Klasse
+Eine neue Instanz der [`Color`](../) Klasse
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FromRgba(float, float, float, float) {#fromrgba_2}
+## FromRgba(*float, float, float, float*) {#fromrgba_2}
 
-Gibt eine neue Farbe mit den angeforderten Werten für Ged, Grün, Blau und Alpha zurück. Alle Farbkomponenten müssen im Bereich 0-1 liegen.
+Gibt eine neue Color mit den gewünschten ged-, Grün-, Blau- und Alphawerten zurück. Alle Farbkomponenten müssen im Bereich 0-1 liegen.
 
 ```csharp
 public static Color FromRgba(float red, float green, float blue, float alpha)
@@ -70,19 +70,17 @@ public static Color FromRgba(float red, float green, float blue, float alpha)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| red | Single | Ein Float, der die rote Komponente der Farbe darstellt. |
-| green | Single | Ein Float, der die grüne Komponente der Farbe darstellt. |
-| blue | Single | Ein Float, der die blaue Komponente der Farbe darstellt. |
-| alpha | Single | Ein Float, der die Alpha-Komponente der Farbe darstellt. |
+| rot | Single | Ein Float, das die rote Komponente der Farbe darstellt. |
+| grün | Single | Ein Float, das die grüne Komponente der Farbe darstellt. |
+| blau | Single | Ein Float, das die blaue Komponente der Farbe darstellt. |
+| Alpha | Single | Ein Float, das die Alpha‑Komponente der Farbe darstellt. |
 
 ### Rückgabewert
 
-Eine neue Instanz der[`Color`](../) Klasse
+Eine neue Instanz der [`Color`](../) Klasse
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

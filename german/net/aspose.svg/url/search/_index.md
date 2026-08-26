@@ -1,27 +1,25 @@
 ---
-title: Url.Search
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Url eigendom. Ruft eine Zeichenfolgendarstellung für das angegebene URLSuchsegment ab oder legt sie fest.
+title: "Url.Search"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Url Search-Eigenschaft. Liest oder setzt eine String-Darstellung für das angegebene URL-Suchsegment."
 type: docs
 weight: 110
 url: /de/net/aspose.svg/url/search/
 ---
 ## Url.Search property
 
-Ruft eine Zeichenfolgendarstellung für das angegebene URL-Suchsegment ab oder legt sie fest.
+Liest oder setzt eine Zeichenkettenrepräsentation für das angegebene URL‑Suchsegment.
 
 ```csharp
 public string Search { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Suche.
 
 ### Siehe auch
 
 * class [Url](../)
-* namensraum [Aspose.Svg](../../url/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

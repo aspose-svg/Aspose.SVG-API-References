@@ -1,9 +1,9 @@
 ---
-title: Enum SVGZoomAndPan
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.SVGZoomAndPan opsomming. Die Aufzählung SVGZoomAndPan definiert das Attribut zoomAndPan und zugehörige Konstanten.
+title: "SVGZoomAndPan-Enum"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.SVGZoomAndPan-Enum. Die SVGZoomAndPan-Aufzählung definiert das Attribut zoomAndPan und zugehörige Konstanten."
 type: docs
-weight: 3600
+weight: 5670
 url: /de/net/aspose.svg/svgzoomandpan/
 ---
 ## SVGZoomAndPan enumeration
@@ -18,13 +18,11 @@ public enum SVGZoomAndPan : ushort
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| SVG_ZOOMANDPAN_UNKNOWN | `0` | Die Enumeration wurde auf einen Wert gesetzt, der nicht zu den vordefinierten Typen gehört. Es ist ungültig, einen neuen Wert dieses Typs zu definieren oder einen vorhandenen Wert auf diesen Typ umzustellen. |
-| SVG_ZOOMANDPAN_DISABLE | `1` | Entspricht Wert 'deaktivieren'. |
+| SVG_ZOOMANDPAN_UNKNOWN | `0` | Die Aufzählung wurde auf einen Wert gesetzt, der nicht zu den vordefinierten Typen gehört. Es ist ungültig, zu versuchen, einen neuen Wert dieses Typs zu definieren oder einen bestehenden Wert zu diesem Typ zu wechseln. |
+| SVG_ZOOMANDPAN_DISABLE | `1` | Entspricht dem Wert 'disable'. |
 | SVG_ZOOMANDPAN_MAGNIFY | `2` | Entspricht dem Wert 'magnify'. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

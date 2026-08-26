@@ -1,14 +1,14 @@
 ---
-title: Element.QuerySelector
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element methode. Gibt das erste Element im Dokument zurück das mit selector übereinstimmt
+title: "Element.QuerySelector"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element QuerySelector Methode. Gibt das erste Element im Dokument zurück, das dem Selektor entspricht."
 type: docs
 weight: 340
 url: /de/net/aspose.svg.dom/element/queryselector/
 ---
 ## Element.QuerySelector method
 
-Gibt das erste Element im Dokument zurück, das mit selector übereinstimmt
+Gibt das erste Element im Dokument zurück, das dem Selektor entspricht
 
 ```csharp
 public Element QuerySelector(string selector)
@@ -20,12 +20,10 @@ public Element QuerySelector(string selector)
 
 ### Rückgabewert
 
-Das angepasste Element
+Das passende Element
 
 ### Siehe auch
 
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

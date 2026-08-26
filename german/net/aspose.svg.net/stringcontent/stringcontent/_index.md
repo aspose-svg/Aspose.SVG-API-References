@@ -1,14 +1,14 @@
 ---
-title: StringContent.StringContent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: StringContent constructeur. Initialisiert eine neue Instanz vonStringContent Klasse.
+title: "StringContent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "StringContent Konstruktor. Erstellt eine neue Instanz der StringContent‑Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.net/stringcontent/stringcontent/
 ---
-## StringContent(string) {#constructor}
+## StringContent(*string*) {#constructor}
 
-Initialisiert eine neue Instanz von[`StringContent`](../) Klasse.
+Erstellt eine neue Instanz der [`StringContent`](../) Klasse.
 
 ```csharp
 public StringContent(string content)
@@ -16,19 +16,19 @@ public StringContent(string content)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | String | Der Inhalt. |
+| Inhalt | String | Der Inhalt. |
 
 ### Siehe auch
 
 * class [StringContent](../)
-* namensraum [Aspose.Svg.Net](../../stringcontent/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding) {#constructor_1}
+## StringContent(*string, Encoding*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`StringContent`](../) Klasse.
+Erstellt eine neue Instanz der [`StringContent`](../) Klasse.
 
 ```csharp
 public StringContent(string content, Encoding encoding)
@@ -36,20 +36,20 @@ public StringContent(string content, Encoding encoding)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | String | Der Inhalt. |
+| Inhalt | String | Der Inhalt. |
 | encoding | Encoding | Die Kodierung. |
 
 ### Siehe auch
 
 * class [StringContent](../)
-* namensraum [Aspose.Svg.Net](../../stringcontent/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding, string) {#constructor_2}
+## StringContent(*string, Encoding, string*) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`StringContent`](../) Klasse.
+Erstellt eine neue Instanz der [`StringContent`](../) Klasse.
 
 ```csharp
 public StringContent(string content, Encoding encoding, string mediaType)
@@ -57,14 +57,12 @@ public StringContent(string content, Encoding encoding, string mediaType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | String | Der Inhalt. |
+| Inhalt | String | Der Inhalt. |
 | encoding | Encoding | Die Kodierung. |
-| mediaType | String | Art der Medien. |
+| mediaType | String | Typ des Mediums. |
 
 ### Siehe auch
 
 * class [StringContent](../)
-* namensraum [Aspose.Svg.Net](../../stringcontent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

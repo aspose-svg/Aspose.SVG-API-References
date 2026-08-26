@@ -1,9 +1,9 @@
 ---
-title: Class ResponseMessage
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.ResponseMessage klas. Stellt eine Antwortnachricht dar.
+title: "ResponseMessage Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.ResponseMessage Klasse. Stellt eine Antwortnachricht dar"
 type: docs
-weight: 2440
+weight: 4510
 url: /de/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
@@ -14,32 +14,31 @@ Stellt eine Antwortnachricht dar.
 public class ResponseMessage : IDisposable
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | Initialisiert eine neue Instanz von`ResponseMessage` Klasse. |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | Initialisiert eine neue Instanz der `ResponseMessage` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | Ruft den Antwortinhalt ab oder legt ihn fest. |
-| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Ruft die Cookie-Sammlung ab oder legt sie fest. |
-| [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | Ruft die Header ab. |
-| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | Ruft einen Wert ab, der angibt, ob diese Nachricht erfolgreich war. |
-| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | Ruft die zugeordnete Anforderung ab oder legt sie fest. |
-| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | Ruft den Statuscode ab oder setzt ihn. |
+| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | Liest oder setzt den Antwortinhalt. |
+| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Liest oder setzt die Cookie-Sammlung. |
+| [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | Liest die Header. |
+| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | Liest einen Wert, der angibt, ob diese Nachricht erfolgreich ist. |
+| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | Liest oder setzt die zugehörige Anfrage. |
+| [ResponseUri](../../aspose.svg.net/responsemessage/responseuri/) { get; set; } | Liest oder setzt die Antwort-URI. |
+| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | Liest oder setzt den Statuscode. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | Führt anwendungsdefinierte Aufgaben aus, die mit dem Freigeben, Freigeben oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
+| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | Führt anwendungsspezifische Aufgaben aus, die mit dem Freigeben, Freisetzen oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Net](../../aspose.svg.net/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

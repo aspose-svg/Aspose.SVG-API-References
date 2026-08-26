@@ -1,14 +1,14 @@
 ---
-title: MimeType.Equals
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MimeType methode. Gibt an ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist.
+title: "MimeType.Equals"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MimeType Equals-Methode. Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist."
 type: docs
 weight: 50
 url: /de/net/aspose.svg/mimetype/equals/
 ---
-## Equals(MimeType) {#equals}
+## Equals(*[MimeType](../)*) {#equals}
 
-Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist.
+Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist.
 
 ```csharp
 public bool Equals(MimeType other)
@@ -16,23 +16,23 @@ public bool Equals(MimeType other)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| other | MimeType | Ein Objekt, das mit diesem Objekt verglichen werden soll. |
+| anderes | MimeType | Ein Objekt, das mit diesem Objekt verglichen werden soll. |
 
 ### Rückgabewert
 
-wahr, wenn das aktuelle Objekt gleich dem ist*other* Parameter; andernfalls falsch.
+true, wenn das aktuelle Objekt dem *anderes* Parameter gleich ist; andernfalls false.
 
 ### Siehe auch
 
 * class [MimeType](../)
-* namensraum [Aspose.Svg](../../mimetype/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bestimmt, ob die angegebeneObject ist gleich dem StromObject .
+Bestimmt, ob das angegebene Objekt dem aktuellen Objekt gleich ist.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject mit dem Strom zu vergleichenObject. |
+| obj | Objekt | Das Objekt, das mit dem aktuellen Objekt verglichen werden soll. |
 
 ### Rückgabewert
 
-wahr, wenn angegebenObject ist gleich dem StromObject ; andernfalls falsch.
+Wahr, wenn das angegebene Objekt dem aktuellen Objekt gleich ist; andernfalls falsch.
 
 ### Siehe auch
 
 * class [MimeType](../)
-* namensraum [Aspose.Svg](../../mimetype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

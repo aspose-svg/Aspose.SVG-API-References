@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.Width
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEDisplacementMapElement eigendom. Entspricht dem Attribut Breite des angegebenen FilterElements.
+title: "SVGFEDisplacementMapElement.Width"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEDisplacementMapElement Width‑Eigenschaft. Entspricht dem Attribut width des angegebenen Filter‑Elements."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.filters/svgfedisplacementmapelement/width/
 ---
 ## SVGFEDisplacementMapElement.Width property
 
-Entspricht dem Attribut „Breite“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘width’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'Breite' des gegebenen 'Filter'-Elements.
+Das Attribut ‘width’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDisplacementMapElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

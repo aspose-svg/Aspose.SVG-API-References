@@ -1,28 +1,26 @@
 ---
-title: ResponseMessage.Headers
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ResponseMessage eigendom. Ruft die Header ab.
+title: "ResponseMessage.Headers"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ResponseMessage Headers Eigenschaft. Gibt die Header zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.svg.net/responsemessage/headers/
 ---
 ## ResponseMessage.Headers property
 
-Ruft die Header ab.
+Liest die Header.
 
 ```csharp
 public ResponseHeaders Headers { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Überschriften.
+Die Header.
 
 ### Siehe auch
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* namensraum [Aspose.Svg.Net](../../responsemessage/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

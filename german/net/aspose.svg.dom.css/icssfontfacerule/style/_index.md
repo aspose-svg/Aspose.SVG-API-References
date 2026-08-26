@@ -1,7 +1,7 @@
 ---
-title: ICSSFontFaceRule.Style
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSFontFaceRule eigendom. Der Deklarationsblock dieser Regel.
+title: "ICSSFontFaceRule.Style"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSFontFaceRule Style-Eigenschaft. Der Deklarationsblock dieser Regel"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/icssfontfacerule/style/
@@ -18,7 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSFontFaceRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssfontfacerule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

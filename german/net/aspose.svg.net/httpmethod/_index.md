@@ -1,49 +1,47 @@
 ---
-title: Class HttpMethod
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.HttpMethod klas. Repräsentiert eine Hilfsklasse zum Abrufen und Vergleichen von StandardHTTPMethoden.
+title: "HttpMethod Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.HttpMethod Klasse. Stellt eine Hilfsklasse zum Abrufen und Vergleichen standardmäßiger HTTP-Methoden dar"
 type: docs
-weight: 2290
+weight: 4360
 url: /de/net/aspose.svg.net/httpmethod/
 ---
 ## HttpMethod class
 
-Repräsentiert eine Hilfsklasse zum Abrufen und Vergleichen von Standard-HTTP-Methoden.
+Stellt eine Hilfsklasse zum Abrufen und Vergleichen von Standard‑HTTP‑Methoden dar.
 
 ```csharp
 public class HttpMethod : IEquatable<HttpMethod>
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [HttpMethod](httpmethod/)(string) | Initialisiert eine neue Instanz von`HttpMethod` Klasse mit einer bestimmten HTTP-Methode. |
+| [HttpMethod](httpmethod/)(*string*) | Initialisiert eine neue Instanz der `HttpMethod` Klasse mit einer bestimmten HTTP-Methode. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| static [Delete](../../aspose.svg.net/httpmethod/delete/) { get; } | Repräsentiert eine HTTP-DELETE-Protokollmethode. |
-| static [Get](../../aspose.svg.net/httpmethod/get/) { get; } | Repräsentiert eine HTTP GET-Protokollmethode. |
-| static [Post](../../aspose.svg.net/httpmethod/post/) { get; } | Repräsentiert eine HTTP-POST-Protokollmethode. |
-| static [Put](../../aspose.svg.net/httpmethod/put/) { get; } | Repräsentiert eine HTTP-PUT-Protokollmethode. |
+| static [Delete](../../aspose.svg.net/httpmethod/delete/) { get; } | Stellt eine HTTP DELETE-Protokollmethode dar. |
+| static [Get](../../aspose.svg.net/httpmethod/get/) { get; } | Stellt eine HTTP GET-Protokollmethode dar. |
+| static [Post](../../aspose.svg.net/httpmethod/post/) { get; } | Stellt eine HTTP POST-Protokollmethode dar. |
+| static [Put](../../aspose.svg.net/httpmethod/put/) { get; } | Stellt eine HTTP PUT-Protokollmethode dar. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Equals](../../aspose.svg.net/httpmethod/equals/#equals)(HttpMethod) | Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist. |
-| override [Equals](../../aspose.svg.net/httpmethod/equals/#equals_1)(object) | Bestimmt, ob die angegebeneObject , entspricht dieser Instanz. |
-| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode/)() | Gibt einen Hash-Code für diese Instanz zurück. |
-| override [ToString](../../aspose.svg.net/httpmethod/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| [Equals](../../aspose.svg.net/httpmethod/equals/#equals)(*HttpMethod*) | Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist. |
+| override [Equals](../../aspose.svg.net/httpmethod/equals/#equals_1)(*object*) | Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist. |
+| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode/)() | Gibt einen Hashcode für diese Instanz zurück. |
+| override [ToString](../../aspose.svg.net/httpmethod/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 | [operator ==](../../aspose.svg.net/httpmethod/op_equality/) | Implementiert den Gleichheitsoperator. |
-| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit/) | Führt eine explizite Konvertierung von ausString Zu`HttpMethod` . |
+| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit/) | Führt eine explizite Konvertierung von String zu `HttpMethod` durch. |
 | [operator !=](../../aspose.svg.net/httpmethod/op_inequality/) | Implementiert den Gleichheitsoperator. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Net](../../aspose.svg.net/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

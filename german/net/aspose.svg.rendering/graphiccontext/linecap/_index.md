@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.LineCap
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GraphicContext eigendom. Legt den Code fest oder ruft ihn ab der die Form der Endpunkte für jeden offenen Pfad angibt der mit Strichen versehen ist.
+title: "GraphicContext.LineCap"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GraphicContext LineCap-Eigenschaft. Legt den Code fest oder gibt ihn zurück, der die Form der Endpunkte für jeden offenen, gestrichenen Pfad bestimmt."
 type: docs
-weight: 70
+weight: 80
 url: /de/net/aspose.svg.rendering/graphiccontext/linecap/
 ---
 ## GraphicContext.LineCap property
 
-Legt den Code fest oder ruft ihn ab, der die Form der Endpunkte für jeden offenen Pfad angibt, der mit Strichen versehen ist.
+Setzt oder liest den Code, der die Form der Endpunkte für jeden offenen, gestreckten Pfad festlegt.
 
 ```csharp
-public virtual LineCap LineCap { get; set; }
+public virtual StrokeLineCap LineCap { get; set; }
 ```
 
 ### Siehe auch
 
+* enum [StrokeLineCap](../../../aspose.svg.drawing/strokelinecap/)
 * class [GraphicContext](../)
-* namensraum [Aspose.Svg.Rendering](../../graphiccontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

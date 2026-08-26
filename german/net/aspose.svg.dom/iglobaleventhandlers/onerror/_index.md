@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnError
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IGlobalEventHandlers evenement. Ruft den EventHandler für das OnErrorEreignis ab oder legt ihn fest.
+title: "IGlobalEventHandlers.OnError"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IGlobalEventHandlers OnError-Ereignis. Ruft den Ereignishandler ab oder legt ihn fest für das OnError-Ereignis"
 type: docs
 weight: 130
 url: /de/net/aspose.svg.dom/iglobaleventhandlers/onerror/
 ---
 ## IGlobalEventHandlers.OnError event
 
-Ruft den Event-Handler für das OnError-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnError-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnError;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnError;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namensraum [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

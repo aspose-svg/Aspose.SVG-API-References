@@ -1,14 +1,14 @@
 ---
-title: FontsSettings.SetFontsLookupFolders
-second_title: Aspose.SVG für .NET-API-Referenz
-description: FontsSettings methode. Legt ein Array von Ordnern fest die während der Schriftartauswahl verwendet werden.
+title: "FontsSettings.SetFontsLookupFolders"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "FontsSettings SetFontsLookupFolders method. Legt ein Array von Ordnern fest, die bei der Schriftauswahl verwendet werden."
 type: docs
 weight: 40
 url: /de/net/aspose.svg/fontssettings/setfontslookupfolders/
 ---
-## SetFontsLookupFolders(string[]) {#setfontslookupfolders}
+## SetFontsLookupFolders(*string[]*) {#setfontslookupfolders}
 
-Legt ein Array von Ordnern fest, die während der Schriftartauswahl verwendet werden.
+Setzt ein Array von Ordnern, die während der Schriftartauswahl verwendet werden.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders)
@@ -16,19 +16,19 @@ public void SetFontsLookupFolders(string[] fontsFolders)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontsFolders | String[] | Die Schriftartenordner. |
+| fontsFolders | String[] | Die Schriftordner. |
 
 ### Siehe auch
 
 * class [FontsSettings](../)
-* namensraum [Aspose.Svg](../../fontssettings/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolders(string[], bool) {#setfontslookupfolders_1}
+## SetFontsLookupFolders(*string[], bool*) {#setfontslookupfolders_1}
 
-Legt ein Array von Ordnern fest, die während der Schriftartauswahl verwendet werden.
+Setzt ein Array von Ordnern, die während der Schriftartauswahl verwendet werden.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
@@ -36,13 +36,11 @@ public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontsFolders | String[] | Die Schriftartenordner. |
-| recursive | Boolean | Wenn eingestellt`WAHR` alle verschachtelten Verzeichnisse werden verwendet. Standardwert ist`FALSCH`. |
+| fontsFolders | String[] | Die Schriftordner. |
+| rekursiv | Boolean | Wenn auf `true` gesetzt, werden alle verschachtelten Verzeichnisse verwendet. Der Standardwert ist `false`. |
 
 ### Siehe auch
 
 * class [FontsSettings](../)
-* namensraum [Aspose.Svg](../../fontssettings/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

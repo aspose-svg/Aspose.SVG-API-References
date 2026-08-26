@@ -1,14 +1,14 @@
 ---
-title: Document.CreateElementNS
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document methode. Erstellt ein Element des angegebenen qualifizierten Namens und NamespaceURI.
+title: "Document.CreateElementNS"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document CreateElementNS Methode. Erstellt ein Element mit dem angegebenen qualifizierten Namen und Namespace-URI."
 type: docs
 weight: 860
 url: /de/net/aspose.svg.dom/document/createelementns/
 ---
 ## Document.CreateElementNS method
 
-Erstellt ein Element des angegebenen qualifizierten Namens und Namespace-URI.
+Erstellt ein Element mit dem angegebenen qualifizierten Namen und Namespace-URI.
 
 ```csharp
 public Element CreateElementNS(string namespaceURI, string qualifiedName)
@@ -17,17 +17,15 @@ public Element CreateElementNS(string namespaceURI, string qualifiedName)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | namespaceURI | String | Der Namespace-URI. |
-| qualifiedName | String | Name des Qualifizierten. |
+| qualifiedName | String | Name des qualifizierten. |
 
 ### Rückgabewert
 
-Die[`Element`](../../element/) .
+Das [`Element`](../../element/).
 
 ### Siehe auch
 
 * class [Element](../../element/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

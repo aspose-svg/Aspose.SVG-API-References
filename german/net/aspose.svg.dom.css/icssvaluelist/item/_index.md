@@ -1,14 +1,14 @@
 ---
-title: ICSSValueList.Item
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSValueList eigendom. Methode gibt die zurückCSSValue am angegebenen Index. http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/css.htmlCSSCSSValueList
+title: "ICSSValueList.Item"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSValueList Item-Eigenschaft. Methode gibt den CSSValue am angegebenen Index zurück. http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.htmlCSS-CSSValueList"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/icssvaluelist/item/
 ---
 ## ICSSValueList indexer
 
-Methode gibt die zurück[`CSSValue`](../../cssvalue/) am angegebenen Index. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
+Methode gibt den [`CSSValue`](../../cssvalue/) am angegebenen Index zurück. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
 
 ```csharp
 public CSSValue this[int index] { get; }
@@ -20,17 +20,15 @@ public CSSValue this[int index] { get; }
 
 ### Rückgabewert
 
-Der CSS-Wert.
+Der CSSValue.
 
-### Eigentumswert
+### Property Value
 
-Die[`CSSValue`](../../cssvalue/) .
+Das [`CSSValue`](../../cssvalue/).
 
 ### Siehe auch
 
 * class [CSSValue](../../cssvalue/)
 * interface [ICSSValueList](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssvaluelist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

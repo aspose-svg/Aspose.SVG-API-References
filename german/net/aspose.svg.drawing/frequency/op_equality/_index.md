@@ -1,7 +1,7 @@
 ---
-title: Frequency.op_Equality
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Frequency methode. Implementiert den Operator .
+title: "Frequency.op_Equality"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Frequency op_Equality-Methode. Implementiert den Operator."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.drawing/frequency/op_equality/
@@ -26,7 +26,5 @@ Das Ergebnis des Operators.
 ### Siehe auch
 
 * class [Frequency](../)
-* namensraum [Aspose.Svg.Drawing](../../frequency/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

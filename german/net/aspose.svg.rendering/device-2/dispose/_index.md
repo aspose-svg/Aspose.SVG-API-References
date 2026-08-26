@@ -1,14 +1,14 @@
 ---
-title: Device2.Dispose
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Device methode. Führt anwendungsdefinierte Aufgaben aus die mit dem Freigeben Freigeben oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind.
+title: "Device-2.Dispose"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Device Dispose-Methode. Führt anwendungsspezifische Aufgaben aus, die mit dem Freigeben, Freisetzen oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind."
 type: docs
-weight: 100
+weight: 130
 url: /de/net/aspose.svg.rendering/device-2/dispose/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Dispose method
+## Device<TGraphicContext,TRenderingOptions>.Dispose method
 
-Führt anwendungsdefinierte Aufgaben aus, die mit dem Freigeben, Freigeben oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind.
+Führt anwendungsspezifische Aufgaben aus, die mit dem Freigeben, Freisetzen oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind.
 
 ```csharp
 public void Dispose()
@@ -17,7 +17,5 @@ public void Dispose()
 ### Siehe auch
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namensraum [Aspose.Svg.Rendering](../../device-2/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

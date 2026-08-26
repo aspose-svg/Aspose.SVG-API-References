@@ -1,14 +1,14 @@
 ---
-title: Document.OnDurationChange
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den Ereignishandler für das OnDurationChangeEreignis ab oder legt ihn fest.
+title: "Document.OnDurationChange"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnDurationChange-Ereignis. Gibt den Ereignishandler für das OnDurationChange-Ereignis zurück oder setzt ihn."
 type: docs
 weight: 370
 url: /de/net/aspose.svg.dom/document/ondurationchange/
 ---
 ## Document.OnDurationChange event
 
-Ruft den Ereignishandler für das OnDurationChange-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnDurationChange‑Ereignis.
 
 ```csharp
 public event DOMEventHandler OnDurationChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnDurationChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

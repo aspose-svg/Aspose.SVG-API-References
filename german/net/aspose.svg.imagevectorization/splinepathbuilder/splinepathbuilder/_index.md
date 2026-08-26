@@ -1,14 +1,14 @@
 ---
-title: SplinePathBuilder.SplinePathBuilder
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SplinePathBuilder constructeur. Initialisiert eine neue Instanz vonSplinePathBuilder Klasse.
+title: "SplinePathBuilder"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SplinePathBuilder Konstruktor. Initialisiert eine neue Instanz der SplinePathBuilder‑Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.imagevectorization/splinepathbuilder/splinepathbuilder/
 ---
 ## SplinePathBuilder() {#constructor}
 
-Initialisiert eine neue Instanz von[`SplinePathBuilder`](../) Klasse.
+Initialisiert eine neue Instanz der [`SplinePathBuilder`](../)-Klasse.
 
 ```csharp
 public SplinePathBuilder()
@@ -17,14 +17,14 @@ public SplinePathBuilder()
 ### Siehe auch
 
 * class [SplinePathBuilder](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SplinePathBuilder(float) {#constructor_2}
+## SplinePathBuilder(*float*) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`SplinePathBuilder`](../) Klasse.
+Initialisiert eine neue Instanz der [`SplinePathBuilder`](../)-Klasse.
 
 ```csharp
 public SplinePathBuilder(float tension)
@@ -37,14 +37,14 @@ public SplinePathBuilder(float tension)
 ### Siehe auch
 
 * class [SplinePathBuilder](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SplinePathBuilder(IImageTraceSmoother, IImageTraceSimplifier, float) {#constructor_1}
+## SplinePathBuilder(*[IImageTraceSmoother](../../iimagetracesmoother/), [IImageTraceSimplifier](../../iimagetracesimplifier/), float*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`SplinePathBuilder`](../) Klasse.
+Initialisiert eine neue Instanz der [`SplinePathBuilder`](../)-Klasse.
 
 ```csharp
 public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifier traceSimplifier, 
@@ -53,8 +53,8 @@ public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifie
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| traceSmoother | IImageTraceSmoother | Die Spur glatter. |
-| traceSimplifier | IImageTraceSimplifier | Der Trace-Vereinfacher. |
+| traceSmoother | IImageTraceSmoother | Der Trace Smoother. |
+| traceSimplifier | IImageTraceSimplifier | Der Trace Simplifier. |
 | tension | Single | Die Spannung. |
 
 ### Siehe auch
@@ -62,7 +62,5 @@ public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifie
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

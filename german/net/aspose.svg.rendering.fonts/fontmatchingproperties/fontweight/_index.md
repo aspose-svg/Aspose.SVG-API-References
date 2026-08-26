@@ -1,14 +1,14 @@
 ---
-title: FontMatchingProperties.FontWeight
-second_title: Aspose.SVG für .NET-API-Referenz
-description: FontMatchingProperties eigendom. Ruft den Schriftstärkewert ab.
+title: "FontMatchingProperties.FontWeight"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "FontMatchingProperties FontWeight-Eigenschaft. Gibt den Schriftgewichtswert zurück."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontweight/
 ---
 ## FontMatchingProperties.FontWeight property
 
-Ruft den Schriftstärkewert ab.
+Ruft den Schriftgewichtswert ab.
 
 ```csharp
 public int FontWeight { get; }
@@ -17,7 +17,5 @@ public int FontWeight { get; }
 ### Siehe auch
 
 * class [FontMatchingProperties](../)
-* namensraum [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

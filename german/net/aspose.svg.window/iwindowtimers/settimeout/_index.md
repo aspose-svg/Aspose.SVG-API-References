@@ -1,14 +1,14 @@
 ---
-title: IWindowTimers.SetTimeout
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IWindowTimers methode. Plant eine Zeitüberschreitung um den Handler nach Zeitüberschreitung in Millisekunden auszuführen. Alle Argumente werden direkt an den Handler weitergeleitet.
+title: "IWindowTimers.SetTimeout"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IWindowTimers SetTimeout-Methode. Plant ein Timeout, um den Handler nach timeout Millisekunden auszuführen. Alle Argumente werden unverändert an den Handler weitergegeben"
 type: docs
 weight: 40
 url: /de/net/aspose.svg.window/iwindowtimers/settimeout/
 ---
 ## IWindowTimers.SetTimeout method
 
-Plant eine Zeitüberschreitung, um den Handler nach Zeitüberschreitung in Millisekunden auszuführen. Alle Argumente werden direkt an den Handler weitergeleitet.
+Plant einen Timeout, um den Handler nach timeout Millisekunden auszuführen. Alle Argumente werden unverändert an den Handler weitergegeben.
 
 ```csharp
 public int SetTimeout(object handler, int timeout, params object[] args)
@@ -16,18 +16,16 @@ public int SetTimeout(object handler, int timeout, params object[] args)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| handler | Object | Der Handler. |
-| timeout | Int32 | Die Auszeit. |
+| handler | Objekt | Der Handler. |
+| timeout | Int32 | Das Timeout. |
 | args | Object[] | Die Argumente. |
 
 ### Rückgabewert
 
-Der Griff
+Der Handle
 
 ### Siehe auch
 
 * interface [IWindowTimers](../)
-* namensraum [Aspose.Svg.Window](../../iwindowtimers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

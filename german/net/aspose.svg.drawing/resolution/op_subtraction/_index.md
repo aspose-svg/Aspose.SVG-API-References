@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Subtraction
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Resolution methode. Implementiert den Operator .
+title: "Resolution.op_Subtraction"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Resolution op_Subtraction Methode. Implementiert den Operator -"
 type: docs
 weight: 90
 url: /de/net/aspose.svg.drawing/resolution/op_subtraction/
@@ -33,7 +33,5 @@ Das Ergebnis des Operators.
 ### Siehe auch
 
 * class [Resolution](../)
-* namensraum [Aspose.Svg.Drawing](../../resolution/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

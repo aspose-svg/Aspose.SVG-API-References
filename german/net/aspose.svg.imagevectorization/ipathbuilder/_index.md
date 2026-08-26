@@ -1,14 +1,14 @@
 ---
-title: Interface IPathBuilder
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.ImageVectorization.IPathBuilder koppel. Die IPathBuilderSchnittstelle ist für das Erstellen von Pfadsegmenten verantwortlichSVGPathSeg aus Liste der TracePunkte.
+title: "IPathBuilder Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.ImageVectorization.IPathBuilder interface. Die IPathBuilder interface ist dafür verantwortlich, Pfadsegmente SVGPathSeg aus einer Liste von Trace-Punkten zu erstellen."
 type: docs
-weight: 2110
+weight: 4180
 url: /de/net/aspose.svg.imagevectorization/ipathbuilder/
 ---
 ## IPathBuilder interface
 
-Die IPathBuilder-Schnittstelle ist für das Erstellen von Pfadsegmenten verantwortlich[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) aus Liste der Trace-Punkte.
+Die IPathBuilder interface ist dafür verantwortlich, Pfadsegmente [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) aus einer Liste von Trace-Punkten zu erstellen.
 
 ```csharp
 public interface IPathBuilder
@@ -18,11 +18,9 @@ public interface IPathBuilder
 
 | Name | Beschreibung |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Baut Pfadsegmente aus der Liste der Verfolgungspunkte auf. |
+| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | Optimiert eine gegebene Spur in ein SVG-Pfadsegment und verwendet dabei die geringste Anzahl von Linien- und Bézier-Kurvenbefehlen für eine genaue Darstellung. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

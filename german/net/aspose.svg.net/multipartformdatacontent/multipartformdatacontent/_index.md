@@ -1,14 +1,14 @@
 ---
-title: MultipartFormDataContent.MultipartFormDataContent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MultipartFormDataContent constructeur. Initialisiert eine neue Instanz vonMultipartFormDataContent Klasse.
+title: "MultipartFormDataContent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MultipartFormDataContent-Konstruktor. Initialisiert eine neue Instanz der MultipartFormDataContent-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.net/multipartformdatacontent/multipartformdatacontent/
 ---
 ## MultipartFormDataContent() {#constructor}
 
-Initialisiert eine neue Instanz von[`MultipartFormDataContent`](../) Klasse.
+Initialisiert eine neue Instanz der [`MultipartFormDataContent`](../)-Klasse.
 
 ```csharp
 public MultipartFormDataContent()
@@ -17,14 +17,14 @@ public MultipartFormDataContent()
 ### Siehe auch
 
 * class [MultipartFormDataContent](../)
-* namensraum [Aspose.Svg.Net](../../multipartformdatacontent/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartFormDataContent(string) {#constructor_1}
+## MultipartFormDataContent(*string*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`MultipartFormDataContent`](../) Klasse.
+Initialisiert eine neue Instanz der [`MultipartFormDataContent`](../)-Klasse.
 
 ```csharp
 public MultipartFormDataContent(string boundary)
@@ -32,12 +32,10 @@ public MultipartFormDataContent(string boundary)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| boundary | String | Die Grenze. |
+| boundary | String | Der Boundary. |
 
 ### Siehe auch
 
 * class [MultipartFormDataContent](../)
-* namensraum [Aspose.Svg.Net](../../multipartformdatacontent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

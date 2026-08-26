@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Fallback
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSCounterStyleRule eigendom. Ruft den Fallback ab.
+title: "ICSSCounterStyleRule.Fallback"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSCounterStyleRule Fallback-Eigenschaft. Gibt den Rückgriff zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.css/icsscounterstylerule/fallback/
 ---
 ## ICSSCounterStyleRule.Fallback property
 
-Ruft den Fallback ab.
+Gibt das Fallback zurück.
 
 ```csharp
 public string Fallback { get; }
@@ -17,7 +17,5 @@ public string Fallback { get; }
 ### Siehe auch
 
 * interface [ICSSCounterStyleRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: ITraversal.Filter
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ITraversal eigendom. Der zum Screening von Knoten verwendete NodeFilter.
+title: "ITraversal.Filter"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ITraversal Filter‑Eigenschaft. Der NodeFilter, der zum Filtern von Knoten verwendet wird."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
 
-Der zum Screening von Knoten verwendete NodeFilter.
+Der NodeFilter, der zum Filtern von Knoten verwendet wird.
 
 ```csharp
 public INodeFilter Filter { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Filter.
 
@@ -22,7 +22,5 @@ Der Filter.
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* namensraum [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

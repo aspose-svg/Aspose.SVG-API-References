@@ -1,24 +1,34 @@
 ---
-title: Node.OwnerDocument
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node eigendom. Das diesem Knoten zugeordnete DocumentObjekt. Dies ist auch das DocumentObjekt das zum Erstellen neuer Knoten verwendet wird. Wenn dieser Knoten ein Dokument oder ein Dokumenttyp ist der noch mit keinem Dokument verwendet wird ist dies null.
+title: "Node.OwnerDocument"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node OwnerDocument Eigenschaft. Gibt das oberste Dokumentobjekt des Knotens zurück."
 type: docs
-weight: 120
+weight: 110
 url: /de/net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-Das diesem Knoten zugeordnete Document-Objekt. Dies ist auch das Document-Objekt, das zum Erstellen neuer Knoten verwendet wird. Wenn dieser Knoten ein Dokument oder ein Dokumenttyp ist, der noch mit keinem Dokument verwendet wird, ist dies null.
+Gibt das Dokumentobjekt der obersten Ebene des Knotens zurück.
 
 ```csharp
 public virtual Document OwnerDocument { get; }
 ```
 
+### Property Value
+
+Ein [`Document`](../../document/) das das oberste Objekt ist, in dem alle Kindknoten erstellt werden.
+
+Wenn diese Eigenschaft an einem Knoten verwendet wird, der selbst ein Dokument ist, ist der Wert null.
+
+## Hinweise
+
+Referenz:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
+
 ### Siehe auch
 
 * class [Document](../../document/)
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

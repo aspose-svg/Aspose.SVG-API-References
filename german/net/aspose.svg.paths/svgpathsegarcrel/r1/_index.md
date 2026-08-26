@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcRel.R1
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPathSegArcRel eigendom. Der XAchsenradius für die Ellipse dh r1.
+title: "SVGPathSegArcRel.R1"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPathSegArcRel R1 Eigenschaft. Der Radius entlang der x‑Achse für die Ellipse, d.h. r1."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.paths/svgpathsegarcrel/r1/
 ---
 ## SVGPathSegArcRel.R1 property
 
-Der X-Achsenradius für die Ellipse (dh r1).
+Der x‑Achsen‑Radius der Ellipse (d. h. r1).
 
 ```csharp
 public float R1 { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Radius der x-Achse
+Der Radius entlang der x‑Achse
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -Code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Wird ausgelöst, wenn versucht wird, den Wert eines schreibgeschützten Attributs zu ändern. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Wird ausgelöst, wenn versucht wird, den Wert eines schreibgeschützten Attributs zu ändern. |
 
 ### Siehe auch
 
 * class [SVGPathSegArcRel](../)
-* namensraum [Aspose.Svg.Paths](../../svgpathsegarcrel/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

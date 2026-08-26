@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGAnimatedPathData
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Paths.ISVGAnimatedPathData koppel. Die SVGAnimatedPathDataSchnittstelle unterstützt Elemente mit einem dAttribut das SVGPfaddaten enthält und unterstützt die Fähigkeit dieses Attribut zu animieren.
+title: "ISVGAnimatedPathData Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Paths.ISVGAnimatedPathData Schnittstelle. Die SVGAnimatedPathData Schnittstelle unterstützt Elemente, die ein d‑Attribut besitzen, das SVG‑Pfaddaten enthält, und ermöglicht die Animation dieses Attributs."
 type: docs
-weight: 2480
+weight: 4550
 url: /de/net/aspose.svg.paths/isvganimatedpathdata/
 ---
 ## ISVGAnimatedPathData interface
 
-Die SVGAnimatedPathData-Schnittstelle unterstützt Elemente mit einem „d“-Attribut, das SVG-Pfaddaten enthält, und unterstützt die Fähigkeit, dieses Attribut zu animieren.
+Das SVGAnimatedPathData-Interface unterstützt Elemente, die ein ‘d’-Attribut besitzen, das SVG-Pfaddaten enthält, und unterstützt die Möglichkeit, dieses Attribut zu animieren.
 
 ```csharp
 public interface ISVGAnimatedPathData
@@ -18,12 +18,10 @@ public interface ISVGAnimatedPathData
 
 | Name | Beschreibung |
 | --- | --- |
-| [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist/) { get; } | Bietet Zugriff auf den aktuellen animierten Inhalt des 'd'-Attributs in einer Form, die eins zu eins mit der SVG-Syntax übereinstimmt. Wenn das angegebene Attribut oder die angegebene Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft, und sowohl das Objekt selbst als auch sein Inhalt sind schreibgeschützt. Wenn das angegebene Attribut oder die Eigenschaft gerade nicht animiert wird, enthält es denselben Wert wie pathSegList. |
-| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist/) { get; } | Bietet Zugriff auf den Basisinhalt (dh statischen) des 'd'-Attributs in einer Form, die eins zu eins mit der SVG-Syntax übereinstimmt. Wenn also das 'd'-Attribut einen "absolute moveto (M)" und einen "absolute arcto (A)" Befehl hat, dann hat pathSegList zwei Einträge: einen SVG_PATHSEG_MOVETO_ABS und einen SVG_PATHSEG_ARC_ABS. |
+| [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist/) { get; } | Bietet Zugriff auf die aktuellen animierten Inhalte des ‘d’-Attributs in einer Form, die eins‑zu‑eins mit der SVG‑Syntax übereinstimmt. Wenn das angegebene Attribut oder die Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft, und sowohl das Objekt selbst als auch seine Inhalte sind schreibgeschützt. Wenn das angegebene Attribut oder die Eigenschaft derzeit nicht animiert wird, enthält es denselben Wert wie pathSegList. |
+| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist/) { get; } | Bietet Zugriff auf die Basis‑ (d. h. statischen) Inhalte des ‘d’-Attributs in einer Form, die eins‑zu‑eins mit der SVG‑Syntax übereinstimmt. Wenn das ‘d’-Attribut also einen „absoluten moveto (M)“ und einen „absoluten arcto (A)“ Befehl enthält, wird pathSegList zwei Einträge haben: ein SVG_PATHSEG_MOVETO_ABS und ein SVG_PATHSEG_ARC_ABS. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

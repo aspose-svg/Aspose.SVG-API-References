@@ -1,7 +1,7 @@
 ---
-title: MimeType.FromFileExtension
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MimeType methode. Erstellt einen neuen MIMETyp basierend auf der Dateierweiterung.
+title: "MimeType.FromFileExtension"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MimeType FromFileExtension Methode. Erstellt einen neuen MIME-Typ basierend auf der Dateierweiterung."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/mimetype/fromfileextension/
@@ -25,7 +25,5 @@ Die neue Instanz des MIME-Typs
 ### Siehe auch
 
 * class [MimeType](../)
-* namensraum [Aspose.Svg](../../mimetype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

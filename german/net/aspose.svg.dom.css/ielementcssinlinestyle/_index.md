@@ -1,14 +1,14 @@
 ---
-title: Interface IElementCSSInlineStyle
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.IElementCSSInlineStyle koppel. Mit Elementen verknüpfte InlineStilinformationen werden über das Stilattribut angezeigt. Dies repräsentiert den Inhalt des STYLEAttributs für HTMLElemente oder Elemente in anderen Schemas oder DTDs die das STYLEAttribut auf die gleiche Weise verwenden.
+title: "IElementCSSInlineStyle Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.IElementCSSInlineStyle Schnittstelle. Inline-Stilinformationen, die an Elementen angehängt sind, werden über das style-Attribut bereitgestellt. Dies stellt den Inhalt des STYLE-Attributs für HTML-Elemente oder Elemente in anderen Schemata oder DTDs dar, die das STYLE-Attribut auf dieselbe Weise verwenden."
 type: docs
-weight: 710
+weight: 2710
 url: /de/net/aspose.svg.dom.css/ielementcssinlinestyle/
 ---
 ## IElementCSSInlineStyle interface
 
-Mit Elementen verknüpfte Inline-Stilinformationen werden über das Stilattribut angezeigt. Dies repräsentiert den Inhalt des STYLE-Attributs für HTML-Elemente (oder Elemente in anderen Schemas oder DTDs, die das STYLE-Attribut auf die gleiche Weise verwenden).
+Inline-Stilinformationen, die an Elementen angehängt sind, werden über das style-Attribut bereitgestellt. Dies stellt den Inhalt des STYLE-Attributs für HTML-Elemente (oder Elemente in anderen Schemata oder DTDs, die das STYLE-Attribut auf dieselbe Weise verwenden) dar.
 
 ```csharp
 public interface IElementCSSInlineStyle
@@ -18,11 +18,9 @@ public interface IElementCSSInlineStyle
 
 | Name | Beschreibung |
 | --- | --- |
-| [Style](../../aspose.svg.dom.css/ielementcssinlinestyle/style/) { get; } | Repräsentiert Stellt ein Stilattribut dar, das es dem Autor ermöglicht, Stilinformationen direkt auf ein bestimmtes Element anzuwenden. |
+| [Style](../../aspose.svg.dom.css/ielementcssinlinestyle/style/) { get; } | Stellt ein style-Attribut dar, das es dem Autor ermöglicht, Stilinformationen direkt auf ein bestimmtes Element anzuwenden. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

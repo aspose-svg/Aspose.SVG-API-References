@@ -1,14 +1,14 @@
 ---
-title: Interface IWindowTimers
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Window.IWindowTimers koppel. Ermöglicht Autoren zeitgesteuerte Rückrufe zu planen.
+title: "IWindowTimers‑Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Window.IWindowTimers‑Schnittstelle. Ermöglicht es Autoren, timerbasierte Rückrufe zu planen"
 type: docs
-weight: 3840
+weight: 5940
 url: /de/net/aspose.svg.window/iwindowtimers/
 ---
 ## IWindowTimers interface
 
-Ermöglicht Autoren, zeitgesteuerte Rückrufe zu planen.
+Ermöglicht Autoren, timerbasierte Rückrufe zu planen.
 
 ```csharp
 public interface IWindowTimers
@@ -18,14 +18,12 @@ public interface IWindowTimers
 
 | Name | Beschreibung |
 | --- | --- |
-| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval/)(int) | Hebt das mit setInterval() gesetzte Timeout auf, identifiziert durch handle |
-| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout/)(int) | Hebt das mit setTimeout() gesetzte Timeout auf, identifiziert durch handle. |
-| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval/)(object, int, params object[]) | Plant ein Timeout, um den Handler alle Timeout-Millisekunden auszuführen. Alle Argumente werden direkt an den Handler weitergeleitet. |
-| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout/)(object, int, params object[]) | Plant eine Zeitüberschreitung, um den Handler nach Zeitüberschreitung in Millisekunden auszuführen. Alle Argumente werden direkt an den Handler weitergeleitet. |
+| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval/)(*int*) | Bricht den mit setInterval() gesetzten Timeout ab, der durch handle identifiziert wird |
+| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout/)(*int*) | Bricht den mit setTimeout() gesetzten Timeout ab, der durch handle identifiziert wird. |
+| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval/)(*object, int, params object[]*) | Plant einen Timeout, um den Handler alle timeout Millisekunden auszuführen. Alle Argumente werden unverändert an den Handler weitergegeben. |
+| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout/)(*object, int, params object[]*) | Plant einen Timeout, um den Handler nach timeout Millisekunden auszuführen. Alle Argumente werden unverändert an den Handler weitergegeben. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Window](../../aspose.svg.window/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

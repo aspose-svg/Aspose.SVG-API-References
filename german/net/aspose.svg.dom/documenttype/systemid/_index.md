@@ -1,27 +1,25 @@
 ---
-title: DocumentType.SystemId
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DocumentType eigendom. Die Systemkennung der externen Teilmenge. Dies kann ein absoluter URI sein oder nicht.
+title: "DocumentType.SystemId"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DocumentType SystemId-Eigenschaft. Der Systembezeichner des externen Subsets. Dies kann ein absoluter URI sein oder nicht."
 type: docs
 weight: 70
 url: /de/net/aspose.svg.dom/documenttype/systemid/
 ---
 ## DocumentType.SystemId property
 
-Die Systemkennung der externen Teilmenge. Dies kann ein absoluter URI sein oder nicht.
+Der Systembezeichner des externen Subsets. Dies kann ein absoluter URI sein oder nicht.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Systemkennung.
+Der Systembezeichner.
 
 ### Siehe auch
 
 * class [DocumentType](../)
-* namensraum [Aspose.Svg.Dom](../../documenttype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

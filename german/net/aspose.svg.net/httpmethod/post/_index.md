@@ -1,27 +1,25 @@
 ---
-title: HttpMethod.Post
-second_title: Aspose.SVG für .NET-API-Referenz
-description: HttpMethod eigendom. Repräsentiert eine HTTPPOSTProtokollmethode.
+title: "HttpMethod.Post"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "HttpMethod Post-Eigenschaft. Stellt eine HTTP POST-Protokollmethode dar"
 type: docs
 weight: 40
 url: /de/net/aspose.svg.net/httpmethod/post/
 ---
 ## HttpMethod.Post property
 
-Repräsentiert eine HTTP-POST-Protokollmethode.
+Stellt eine HTTP POST-Protokollmethode dar.
 
 ```csharp
 public static HttpMethod Post { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die HTTP-POST-Protokollmethode.
+Die HTTP POST-Protokollmethode.
 
 ### Siehe auch
 
 * class [HttpMethod](../)
-* namensraum [Aspose.Svg.Net](../../httpmethod/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

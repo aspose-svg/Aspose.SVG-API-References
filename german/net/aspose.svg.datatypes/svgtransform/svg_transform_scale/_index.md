@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_SCALE
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGTransform veld. Eine MaßstabTransformation.
+title: "SVGTransform.SVG_TRANSFORM_SCALE"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGTransform SVG_TRANSFORM_SCALE Feld. Eine Skalierungstransformation"
 type: docs
 weight: 130
 url: /de/net/aspose.svg.datatypes/svgtransform/svg_transform_scale/
 ---
 ## SVGTransform.SVG_TRANSFORM_SCALE field
 
-Eine „Maßstab(…)“-Transformation.
+Eine 'scale(…)'‑Transformation.
 
 ```csharp
 public const ushort SVG_TRANSFORM_SCALE;
@@ -17,7 +17,5 @@ public const ushort SVG_TRANSFORM_SCALE;
 ### Siehe auch
 
 * class [SVGTransform](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgtransform/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

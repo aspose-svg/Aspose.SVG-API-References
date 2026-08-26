@@ -1,14 +1,14 @@
 ---
-title: Document.OnEnded
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft Ereignishandler für OnEndedEreignis ab oder legt sie fest.
+title: "Document.OnEnded"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnEnded-Ereignis. Ruft den Ereignishandler für das OnEnded-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 390
 url: /de/net/aspose.svg.dom/document/onended/
 ---
 ## Document.OnEnded event
 
-Ruft Ereignishandler für OnEnded-Ereignis ab oder legt sie fest.
+Liest oder setzt den Ereignishandler für das OnEnded‑Ereignis.
 
 ```csharp
 public event DOMEventHandler OnEnded;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnEnded;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

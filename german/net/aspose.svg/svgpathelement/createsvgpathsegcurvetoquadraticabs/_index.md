@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPathElement methode. Gibt ein eigenständiges übergeordnetes SVGPathSegCurvetoQuadraticAbsObjekt zurück.
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPathElement CreateSVGPathSegCurvetoQuadraticAbs-Methode. Gibt ein eigenständiges, elternloses SVGPathSegCurvetoQuadraticAbs-Objekt zurück."
 type: docs
 weight: 100
 url: /de/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs method
 
-Gibt ein eigenständiges, übergeordnetes SVGPathSegCurvetoQuadraticAbs-Objekt zurück.
+Gibt ein eigenständiges, elternloses SVGPathSegCurvetoQuadraticAbs-Objekt zurück.
 
 ```csharp
 public SVGPathSegCurvetoQuadraticAbs CreateSVGPathSegCurvetoQuadraticAbs(float x, float y, 
@@ -17,20 +17,18 @@ public SVGPathSegCurvetoQuadraticAbs CreateSVGPathSegCurvetoQuadraticAbs(float x
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| x | Single | Die absolute X-Koordinate für den Endpunkt dieses Bahnsegments. |
-| y | Single | Die absolute Y-Koordinate für den Endpunkt dieses Pfadsegments. |
-| x1 | Single | Die absolute X-Koordinate für den ersten Kontrollpunkt. |
-| y1 | Single | Die absolute Y-Koordinate für den ersten Kontrollpunkt. |
+| x | Single | Die absolute X‑Koordinate des Endpunkts dieses Pfadsegments. |
+| y | Single | Die absolute Y‑Koordinate für den Endpunkt dieses Pfadsegments. |
+| x1 | Single | Die absolute X‑Koordinate des ersten Kontrollpunkts. |
+| y1 | Single | Die absolute Y‑Koordinate für den ersten Kontrollpunkt. |
 
 ### Rückgabewert
 
-Ein eigenständiges, übergeordnetes SVGPathSegCurvetoQuadraticAbs-Objekt.
+Ein eigenständiges, elternloses SVGPathSegCurvetoQuadraticAbs-Objekt.
 
 ### Siehe auch
 
 * class [SVGPathSegCurvetoQuadraticAbs](../../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/)
 * class [SVGPathElement](../)
-* namensraum [Aspose.Svg](../../svgpathelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

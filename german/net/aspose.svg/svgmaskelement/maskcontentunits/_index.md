@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.MaskContentUnits
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGMaskElement eigendom. Entspricht dem Attribut maskContentUnits des angegebenen maskElements. Akzeptiert eine der in SVGUnitTypes. definierten Konstanten
+title: "SVGMaskElement.MaskContentUnits"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGMaskElement MaskContentUnits property. Entspricht dem Attribut maskContentUnits des angegebenen mask-Elements. Akzeptiert einen der in SVGUnitTypes definierten Konstanten."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/svgmaskelement/maskcontentunits/
 ---
 ## SVGMaskElement.MaskContentUnits property
 
-Entspricht dem Attribut 'maskContentUnits' des angegebenen 'mask'-Elements. Akzeptiert eine der in SVGUnitTypes. definierten Konstanten
+Entspricht dem Attribut ‘maskContentUnits’ im angegebenen ‘mask’-Element. Akzeptiert eine der in SVGUnitTypes definierten Konstanten.
 
 ```csharp
 public SVGAnimatedEnumeration MaskContentUnits { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'maskContentUnits' des gegebenen 'mask'-Elements.
+Das Attribut ‘maskContentUnits’ des angegebenen ‘mask’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGMaskElement](../)
-* namensraum [Aspose.Svg](../../svgmaskelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface ILinearGradientBrush
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Drawing.ILinearGradientBrush koppel. Definiert die Pinselschnittstelle mit einem linearen Farbverlauf.
+title: "ILinearGradientBrush Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Drawing.ILinearGradientBrush Schnittstelle. Definiert eine Schnittstelle für einen Pinsel mit linearem Farbverlauf"
 type: docs
-weight: 1470
+weight: 3490
 url: /de/net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface
 
-Definiert die Pinselschnittstelle mit einem linearen Farbverlauf.
+Definiert ein Interface für einen Pinsel mit linearem Farbverlauf.
 
 ```csharp
 public interface ILinearGradientBrush : IGradientBrush
@@ -18,17 +18,11 @@ public interface ILinearGradientBrush : IGradientBrush
 
 | Name | Beschreibung |
 | --- | --- |
-| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; } | Ermittelt den Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
-| [EndColor](../../aspose.svg.drawing/ilineargradientbrush/endcolor/) { get; } | Holen Sie sich die Endfarbe des linearen Farbverlaufs. |
-| [EndPoint](../../aspose.svg.drawing/ilineargradientbrush/endpoint/) { get; } | Holen Sie sich den Startpunkt des linearen Farbverlaufs. |
-| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; } | Holen Sie sich einen rechteckigen Bereich, der die Start- und Endpunkte des Farbverlaufs definiert. |
-| [StartColor](../../aspose.svg.drawing/ilineargradientbrush/startcolor/) { get; } | Ruft die Anfangsfarbe des linearen Farbverlaufs ab. |
-| [StartPoint](../../aspose.svg.drawing/ilineargradientbrush/startpoint/) { get; } | Holen Sie sich den Startpunkt des linearen Farbverlaufs. |
+| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; set; } | Ruft den Winkel ab oder legt ihn fest, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
+| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; set; } | Ruft den rechteckigen Bereich ab oder legt ihn fest, der die Start- und Endpunkte des Farbverlaufs definiert. |
 
 ### Siehe auch
 
 * interface [IGradientBrush](../igradientbrush/)
-* namensraum [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

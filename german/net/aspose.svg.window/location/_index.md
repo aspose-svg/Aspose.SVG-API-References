@@ -1,53 +1,45 @@
 ---
-title: Class Location
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Window.Location klas. LocationObjekte bieten eine Darstellung der Adresse des aktiven Dokuments des BrowsingKontexts ihres Dokuments und ermöglichen dass der aktuelle Eintrag des Sitzungsverlaufs des BrowsingKontexts geändert wird indem Einträge im HistoryObjekt hinzugefügt oder ersetzt werden.
+title: "Location‑Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Window.Location‑Klasse. Location‑Objekte stellen eine Darstellung der Adresse des aktiven Dokuments ihres Browsing‑Kontexts bereit und ermöglichen es, den aktuellen Eintrag des Sitzungsverlaufs des Browsing‑Kontexts zu ändern, indem Einträge im History‑Objekt hinzugefügt oder ersetzt werden."
 type: docs
-weight: 3850
+weight: 5950
 url: /de/net/aspose.svg.window/location/
 ---
 ## Location class
 
-Location-Objekte bieten eine Darstellung der Adresse des aktiven Dokuments des Browsing-Kontexts ihres Dokuments und ermöglichen, dass der aktuelle Eintrag des Sitzungsverlaufs des Browsing-Kontexts geändert wird, indem Einträge im History-Objekt hinzugefügt oder ersetzt werden.
+Location‑Objekte bieten eine Darstellung der Adresse des aktiven Dokuments ihres Document's Browsing‑Kontexts und ermöglichen es, den aktuellen Eintrag des Sitzungsverlaufs des Browsing‑Kontexts zu ändern, indem Einträge im history object hinzugefügt oder ersetzt werden.
 
 ```csharp
-public sealed class Location : Url
+public sealed class Location : DOMObject
 ```
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Hash](../../aspose.svg/url/hash/) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Hash-Segment ab oder legt sie fest. |
-| [Host](../../aspose.svg/url/host/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Host ab oder legt diese fest. |
-| [Hostname](../../aspose.svg/url/hostname/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Hostnamen ab oder legt diese fest. |
-| [Href](../../aspose.svg/url/href/) { get; set; } | Ruft eine serialisierte Darstellung für die angegebene URL-Instanz ab oder legt sie fest. |
-| [Origin](../../aspose.svg/url/origin/) { get; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Ursprung ab. |
-| [Password](../../aspose.svg/url/password/) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Passwort ab oder legt sie fest. |
-| [Pathname](../../aspose.svg/url/pathname/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Pfad ab oder legt sie fest. |
-| [Port](../../aspose.svg/url/port/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Port ab oder legt diese fest. |
-| [Protocol](../../aspose.svg/url/protocol/) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Schema ab oder legt sie fest. |
-| [Search](../../aspose.svg/url/search/) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Suchsegment ab oder legt sie fest. |
-| [SearchParams](../../aspose.svg/url/searchparams/) { get; } | Ruft eine zugeordnete ab[`IUrlSearchParams`](../../aspose.svg/iurlsearchparams/) Objekt. |
-| [Username](../../aspose.svg/url/username/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Benutzernamen ab oder legt diese fest. |
+| [Hash](../../aspose.svg.window/location/hash/) { get; set; } | Gibt das Fragment der URL des Location‑Objekts zurück (enthält das führende „#“, falls nicht leer). Kann gesetzt werden, um zur gleichen URL mit geändertem Fragment zu navigieren (ignoriert das führende „#“). |
+| [Host](../../aspose.svg.window/location/host/) { get; set; } | Gibt den Host und den Port der URL des Location‑Objekts zurück (falls vom Standardport des Schemas abweichend). Kann gesetzt werden, um zur gleichen URL mit geändertem Host und Port zu navigieren. |
+| [Hostname](../../aspose.svg.window/location/hostname/) { get; set; } | Gibt den Host der URL des Location‑Objekts zurück. Kann gesetzt werden, um zur gleichen URL mit geändertem Host zu navigieren. |
+| [Href](../../aspose.svg.window/location/href/) { get; set; } | Gibt die URL des Location‑Objekts zurück. Kann gesetzt werden, um zur angegebenen URL zu navigieren. |
+| [Origin](../../aspose.svg.window/location/origin/) { get; } | Gibt den Ursprung der URL des Location‑Objekts zurück. |
+| [Pathname](../../aspose.svg.window/location/pathname/) { get; set; } | Gibt den Pfad der URL des Location‑Objekts zurück. Kann gesetzt werden, um zur gleichen URL mit geändertem Pfad zu navigieren. |
+| [Port](../../aspose.svg.window/location/port/) { get; set; } | Gibt den Port der URL des Location‑Objekts zurück. Kann gesetzt werden, um zur gleichen URL mit geändertem Port zu navigieren. |
+| [Protocol](../../aspose.svg.window/location/protocol/) { get; set; } | Gibt das Schema der URL des Location‑Objekts zurück. Kann gesetzt werden, um zur gleichen URL mit geändertem Schema zu navigieren. |
+| [Search](../../aspose.svg.window/location/search/) { get; set; } | Gibt die Abfrage der URL des Location‑Objekts zurück (enthält das führende „?“, falls nicht leer). Kann gesetzt werden, um zur gleichen URL mit geänderter Abfrage zu navigieren (ignoriert das führende „?“). |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Assign](../../aspose.svg.window/location/assign/)(string) | Navigiert zur angegebenen Seite. |
-| override [Equals](../../aspose.svg/url/equals/)(object) | Bestimmt, ob die angegebeneObject , entspricht dieser Instanz. |
-| override [GetHashCode](../../aspose.svg/url/gethashcode/)() | Gibt einen Hash-Code für diese Instanz zurück. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
+| [Assign](../../aspose.svg.window/location/assign/)(*string*) | Navigiert zur angegebenen Seite. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
 | [Reload](../../aspose.svg.window/location/reload/)() | Lädt die aktuelle Seite neu. |
-| [Replace](../../aspose.svg.window/location/replace/)(string) | Entfernt die aktuelle Seite aus dem Sitzungsverlauf und navigiert zur angegebenen Seite. |
-| [ToJson](../../aspose.svg/url/tojson/)() | Gibt a zurückString die diese Instanz darstellt. |
-| override [ToString](../../aspose.svg/url/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| [Replace](../../aspose.svg.window/location/replace/)(*string*) | Entfernt die aktuelle Seite aus dem Sitzungsverlauf und navigiert zur angegebenen Seite. |
+| override [ToString](../../aspose.svg.window/location/tostring/)() | Gibt die URL des Location‑Objekts zurück. |
 
 ### Siehe auch
 
-* class [Url](../../aspose.svg/url/)
-* namensraum [Aspose.Svg.Window](../../aspose.svg.window/)
-* Montage [Aspose.SVG](../../)
-
-
+* class [DOMObject](../../aspose.svg.dom/domobject/)
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

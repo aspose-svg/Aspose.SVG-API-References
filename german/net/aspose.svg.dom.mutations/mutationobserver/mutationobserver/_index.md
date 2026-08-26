@@ -1,14 +1,14 @@
 ---
-title: MutationObserver.MutationObserver
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationObserver constructeur. Konstruiert ein MutationObserverObjekt und setzt dessenMutationCallback Zurückrufen. Der Rückruf wird mit einer Liste von MutationRecordObjekten als erstem Argument und dem konstruierten MutationObserverObjekt als zweitem Argument aufgerufen. Es wird aufgerufen nachdem sich Knoten bei der registriert habenObserveNode IMutationObserverInit Methode sind mutiert.
+title: "MutationObserver"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationObserver-Konstruktor. Erstellt ein MutationObserver-Objekt und setzt dessen MutationCallback auf callback. Der Callback wird mit einer Liste von MutationRecord-Objekten als erstes Argument und dem erstellten MutationObserver-Objekt als zweites Argument aufgerufen. Er wird aufgerufen, nachdem Knoten, die mit der Observe-Methode registriert wurden, mutiert wurden."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.mutations/mutationobserver/mutationobserver/
 ---
 ## MutationObserver constructor
 
-Konstruiert ein MutationObserver-Objekt und setzt dessen[`MutationCallback`](../../mutationcallback/) Zurückrufen. Der Rückruf wird mit einer Liste von MutationRecord-Objekten als erstem Argument und dem konstruierten MutationObserver-Objekt als zweitem Argument aufgerufen. Es wird aufgerufen, nachdem sich Knoten bei der registriert haben!:Observe(Node, IMutationObserverInit) Methode, sind mutiert.
+Erstellt ein MutationObserver-Objekt und setzt dessen [`MutationCallback`](../../mutationcallback/) auf callback. Der Callback wird mit einer Liste von MutationRecord-Objekten als erstes Argument und dem erstellten MutationObserver-Objekt als zweites Argument aufgerufen. Er wird aufgerufen, nachdem Knoten, die mit der [`Observe`](../observe/)‑Methode registriert wurden, mutiert wurden.
 
 ```csharp
 public MutationObserver(MutationCallback callback)
@@ -16,13 +16,11 @@ public MutationObserver(MutationCallback callback)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| callback | MutationCallback | Der Rückruf. |
+| callback | MutationCallback | Der Callback. |
 
 ### Siehe auch
 
 * delegate [MutationCallback](../../mutationcallback/)
 * class [MutationObserver](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

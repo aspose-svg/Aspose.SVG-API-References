@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.Stencil
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ImageVectorizerConfiguration eigendom. Ruft die Konfiguration des StencilEffekts ab oder legt sie fest. Standardmäßig wird kein StencilEffekt angewendet.
+title: "ImageVectorizerConfiguration.Stencil"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ImageVectorizerConfiguration Stencil Eigenschaft. Gibt die Konfiguration des Schabloneneffekts zurück oder legt sie fest. Standardmäßig wird kein Schabloneneffekt angewendet."
 type: docs
 weight: 70
 url: /de/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/stencil/
 ---
 ## ImageVectorizerConfiguration.Stencil property
 
-Ruft die Konfiguration des Stencil-Effekts ab oder legt sie fest. Standardmäßig wird kein Stencil-Effekt angewendet.
+Liest oder setzt die Schabloneneffekt-Konfiguration. Standardmäßig wird kein Schabloneneffekt angewendet.
 
 ```csharp
 public StencilConfiguration Stencil { get; set; }
@@ -18,7 +18,5 @@ public StencilConfiguration Stencil { get; set; }
 
 * class [StencilConfiguration](../../stencilconfiguration/)
 * class [ImageVectorizerConfiguration](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.Height
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGMaskElement eigendom. Entspricht dem Attribut height auf dem gegebenen maskElement. Akzeptiert eine der in SVGUnitTypes. definierten Konstanten
+title: "SVGMaskElement.Height"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGMaskElement Height property. Entspricht dem Attribut height des angegebenen mask-Elements. Akzeptiert einen der in SVGUnitTypes definierten Konstanten."
 type: docs
 weight: 10
 url: /de/net/aspose.svg/svgmaskelement/height/
 ---
 ## SVGMaskElement.Height property
 
-Entspricht dem Attribut 'height' auf dem gegebenen 'mask'-Element. Akzeptiert eine der in SVGUnitTypes. definierten Konstanten
+Entspricht dem Attribut ‘height’ im angegebenen ‘mask’-Element. Akzeptiert eine der in SVGUnitTypes definierten Konstanten.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'height' des gegebenen 'mask'-Elements.
+Das Attribut ‘height’ des angegebenen ‘mask’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* namensraum [Aspose.Svg](../../svgmaskelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

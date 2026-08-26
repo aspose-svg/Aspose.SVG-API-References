@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontVariant
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der Eigenschaft fontvariant in CSS2.
+title: "ICSS2Properties.FontVariant"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties FontVariant Eigenschaft. Siehe die Definition der font-variant Eigenschaft in CSS2"
 type: docs
 weight: 530
 url: /de/net/aspose.svg.dom.css/icss2properties/fontvariant/
 ---
 ## ICSS2Properties.FontVariant property
 
-Siehe Definition der Eigenschaft font-variant in CSS2.
+Siehe die Definition der font-variant-Eigenschaft in CSS2.
 
 ```csharp
 public string FontVariant { get; set; }
@@ -16,12 +16,10 @@ public string FontVariant { get; set; }
 
 ### Rückgabewert
 
-font-variable Eigenschaft
+font-variant Eigenschaft
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGTransform methode. Gibt a zurückString die diese Instanz darstellt.
+title: "SVGTransform.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGTransform ToString Methode. Gibt einen String zurück, der diese Instanz darstellt"
 type: docs
 weight: 100
 url: /de/net/aspose.svg.datatypes/svgtransform/tostring/
 ---
 ## SVGTransform.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [SVGTransform](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgtransform/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

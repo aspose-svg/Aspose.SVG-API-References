@@ -1,14 +1,14 @@
 ---
-title: MimeType.MimeType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MimeType constructeur. Initialisiert eine neue Instanz des MIMETyps basierend auf dem serialisierten Zeichenfolgenwert.
+title: "MimeType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MimeType Konstruktor. Initialisiert eine neue Instanz des MIME-Typs basierend auf dem serialisierten Zeichenkettenwert."
 type: docs
 weight: 10
 url: /de/net/aspose.svg/mimetype/mimetype/
 ---
 ## MimeType constructor
 
-Initialisiert eine neue Instanz des MIME-Typs basierend auf dem serialisierten Zeichenfolgenwert.
+Initialisiert eine neue Instanz eines MIME-Typs basierend auf einem serialisierten Zeichenkettenwert.
 
 ```csharp
 public MimeType(string value)
@@ -21,7 +21,5 @@ public MimeType(string value)
 ### Siehe auch
 
 * class [MimeType](../)
-* namensraum [Aspose.Svg](../../mimetype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

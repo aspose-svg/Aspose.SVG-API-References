@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.GetElementById
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGSVGElement methode. Durchsucht dieses SVGDokumentfragment dh die Suche ist auf eine Teilmenge des Dokumentbaums beschränkt nach einem Element dessen ID durch elementId gegeben ist. Wenn ein Element gefunden wird wird dieses Element zurückgegeben. Wenn kein solches Element vorhanden ist wird null zurückgegeben. Das Verhalten ist nicht definiert wenn mehr als ein Element diese ID hat.
+title: "SVGSVGElement.GetElementById"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGSVGElement GetElementById-Methode. Durchsucht dieses SVG-Dokumentfragment, d. h. die Suche ist auf einen Teilbaum des Dokuments beschränkt, nach einem Element, dessen id durch elementId angegeben ist. Wird ein Element gefunden, wird dieses Element zurückgegeben. Existiert ein solches Element nicht, wird null zurückgegeben. Das Verhalten ist nicht definiert, wenn mehr als ein Element diese id hat."
 type: docs
 weight: 210
 url: /de/net/aspose.svg/svgsvgelement/getelementbyid/
 ---
 ## SVGSVGElement.GetElementById method
 
-Durchsucht dieses SVG-Dokumentfragment (dh die Suche ist auf eine Teilmenge des Dokumentbaums beschränkt) nach einem Element, dessen ID durch elementId gegeben ist. Wenn ein Element gefunden wird, wird dieses Element zurückgegeben. Wenn kein solches Element vorhanden ist, wird null zurückgegeben. Das Verhalten ist nicht definiert, wenn mehr als ein Element diese ID hat.
+Durchsucht dieses SVG‑Dokumentfragment (d. h. die Suche ist auf einen Teilbaum des Dokuments beschränkt) nach einem Element, dessen id durch elementId angegeben ist. Wird ein Element gefunden, wird dieses Element zurückgegeben. Existiert kein solches Element, wird null zurückgegeben. Das Verhalten ist nicht definiert, wenn mehr als ein Element diese id hat.
 
 ```csharp
 public Element GetElementById(string elementId)
@@ -26,7 +26,5 @@ Das passende Element.
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [SVGSVGElement](../)
-* namensraum [Aspose.Svg](../../svgsvgelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

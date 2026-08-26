@@ -1,14 +1,14 @@
 ---
-title: Element.GetElementsByTagName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element methode. Gibt eine NodeList aller untergeordneten Elemente mit einem bestimmten TagNamen in Dokumentreihenfolge zurück.
+title: "Element.GetElementsByTagName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element GetElementsByTagName Methode. Gibt ein HTMLCollection-Objekt zurück, das alle Elemente mit einem angegebenen Tag-Namen in Dokumentreihenfolge enthält."
 type: docs
 weight: 290
 url: /de/net/aspose.svg.dom/element/getelementsbytagname/
 ---
 ## Element.GetElementsByTagName method
 
-Gibt eine NodeList aller untergeordneten Elemente mit einem bestimmten Tag-Namen in Dokumentreihenfolge zurück.
+Gibt ein [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) Objekt zurück, das alle [`elements`](../) mit einem angegebenen Tag-Namen in Dokumentreihenfolge enthält.
 
 ```csharp
 public HTMLCollection GetElementsByTagName(string name)
@@ -16,17 +16,19 @@ public HTMLCollection GetElementsByTagName(string name)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| name | String | Der Tag-Name. |
+| name | String | String-Darstellung des Tag-Namens. |
 
 ### Rückgabewert
 
-Gibt das Attribut zurück
+Eine Live-[`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) gefundener Elemente.
+
+## Hinweise
+
+Siehe die offizielle [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagname).
 
 ### Siehe auch
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

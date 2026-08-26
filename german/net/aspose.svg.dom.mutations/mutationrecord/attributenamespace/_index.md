@@ -1,7 +1,7 @@
 ---
-title: MutationRecord.AttributeNamespace
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationRecord eigendom. Gibt den Namespace des geänderten Attributs zurück andernfalls null.
+title: "MutationRecord.AttributeNamespace"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationRecord AttributeNamespace-Eigenschaft. Gibt den Namespace des geänderten Attributs zurück und sonst null"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.mutations/mutationrecord/attributenamespace/
@@ -14,14 +14,12 @@ Gibt den Namespace des geänderten Attributs zurück, andernfalls null.
 public string AttributeNamespace { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Attributnamensraum.
+Der Attribut-Namespace.
 
 ### Siehe auch
 
 * class [MutationRecord](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

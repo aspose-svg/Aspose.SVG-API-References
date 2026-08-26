@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Metered methode. Ruft die Verbrauchsdateigröße ab
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Metered GetConsumptionQuantity-Methode. Gibt die Dateigröße des Verbrauchs zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.svg/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
 
-Ruft die Verbrauchsdateigröße ab
+Liest die Dateigröße des Verbrauchs
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -21,7 +21,5 @@ Verbrauchsmenge
 ### Siehe auch
 
 * class [Metered](../)
-* namensraum [Aspose.Svg](../../metered/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

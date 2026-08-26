@@ -1,14 +1,14 @@
 ---
-title: Node.IsEqualNode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node methode. Testet ob zwei Knoten gleich sind. Diese Methode testet auf Gleichheit von Knoten nicht auf Gleichheit dh ob die beiden Knoten Verweise auf dasselbe Objekt sind was mit Node.isSameNode getestet werden kann. Alle Knoten die gleich sind sind auch gleich obwohl das Gegenteil möglicherweise nicht der Fall ist.
+title: "Node.IsEqualNode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node IsEqualNode-Methode. Prüft, ob zwei Knoten gleich sind. Diese Methode testet die Gleichheit von Knoten, nicht deren Identität, d.h. ob die beiden Knoten Referenzen auf dasselbe Objekt sind, was mit Node.isSameNode geprüft werden kann. Alle Knoten, die identisch sind, sind ebenfalls gleich, obwohl das Gegenteil nicht zwingend gilt."
 type: docs
-weight: 240
+weight: 220
 url: /de/net/aspose.svg.dom/node/isequalnode/
 ---
 ## Node.IsEqualNode method
 
-Testet, ob zwei Knoten gleich sind. Diese Methode testet auf Gleichheit von Knoten, nicht auf Gleichheit (dh ob die beiden Knoten Verweise auf dasselbe Objekt sind), was mit Node.isSameNode() getestet werden kann. Alle Knoten, die gleich sind, sind auch gleich, obwohl das Gegenteil möglicherweise nicht der Fall ist.
+Testet, ob zwei Knoten gleich sind. Diese Methode prüft die Gleichheit von Knoten, nicht die Identität (d. h., ob die beiden Knoten Referenzen auf dasselbe Objekt sind), was mit Node.isSameNode() getestet werden kann. Alle Knoten, die identisch sind, sind auch gleich, obwohl das Gegenteil nicht unbedingt zutrifft.
 
 ```csharp
 public bool IsEqualNode(Node otherNode)
@@ -20,12 +20,10 @@ public bool IsEqualNode(Node otherNode)
 
 ### Rückgabewert
 
-`WAHR` if [ist gleich Knoten] [das angegebene Argument]; ansonsten,`FALSCH` .
+`true`, wenn [is equal node] [the specified arg]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.ImportNode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document methode. Importiert einen Knoten aus einem anderen Dokument in dieses Dokument ohne den Quellknoten aus dem Originaldokument zu ändern oder zu entfernen Diese Methode erstellt eine neue Kopie des Quellknotens.
+title: "Document.ImportNode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document ImportNode-Methode. Importiert einen Knoten aus einem anderen Dokument in dieses Dokument, ohne den Quellknoten aus dem Originaldokument zu verändern oder zu entfernen; diese Methode erstellt eine neue Kopie des Quellknotens."
 type: docs
 weight: 1000
 url: /de/net/aspose.svg.dom/document/importnode/
 ---
 ## Document.ImportNode method
 
-Importiert einen Knoten aus einem anderen Dokument in dieses Dokument, ohne den Quellknoten aus dem Originaldokument zu ändern oder zu entfernen; Diese Methode erstellt eine neue Kopie des Quellknotens.
+Importiert einen Knoten aus einem anderen Dokument in dieses Dokument, ohne den Quellknoten im Originaldokument zu ändern oder zu entfernen; diese Methode erstellt eine neue Kopie des Quellknotens.
 
 ```csharp
 public Node ImportNode(Node importedNode, bool deep)
@@ -17,17 +17,15 @@ public Node ImportNode(Node importedNode, bool deep)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | importedNode | Node | Der importierte Knoten. |
-| deep | Boolean | wenn eingestellt`WAHR` [tief]. |
+| deep | Boolean | wenn auf `true` [deep] gesetzt. |
 
 ### Rückgabewert
 
-Die[`Node`](../../node/) .
+Der [`Node`](../../node/).
 
 ### Siehe auch
 
 * class [Node](../../node/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

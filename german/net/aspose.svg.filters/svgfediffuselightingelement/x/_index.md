@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.X
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEDiffuseLightingElement eigendom. Entspricht dem Attribut x im angegebenen filterElement.
+title: "SVGFEDiffuseLightingElement.X"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEDiffuseLightingElement X‑Eigenschaft. Entspricht dem Attribut x im angegebenen Filterelement"
 type: docs
 weight: 90
 url: /de/net/aspose.svg.filters/svgfediffuselightingelement/x/
 ---
 ## SVGFEDiffuseLightingElement.X property
 
-Entspricht dem Attribut 'x' im angegebenen 'filter'-Element.
+Entspricht dem Attribut ‘x’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'x' des angegebenen 'filter'-Elements.
+Das Attribut ‘x’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDiffuseLightingElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

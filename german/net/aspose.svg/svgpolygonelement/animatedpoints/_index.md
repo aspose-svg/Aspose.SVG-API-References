@@ -1,20 +1,20 @@
 ---
-title: SVGPolygonElement.AnimatedPoints
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPolygonElement eigendom. Bietet Zugriff auf die aktuellen animierten Inhalte des PunkteAttributs. Wenn das angegebene Attribut oder die angegebene Eigenschaft animiert wird enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft. Wenn das angegebene Attribut oder die Eigenschaft gerade nicht animiert wird enthält es denselben Wert wie Punkte.
+title: "SVGPolygonElement.AnimatedPoints"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPolygonElement AnimatedPoints‑Eigenschaft. Bietet Zugriff auf die aktuell animierten Inhalte des points‑Attributs. Wenn das angegebene Attribut oder die Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft. Wenn das angegebene Attribut oder die Eigenschaft derzeit nicht animiert wird, enthält es denselben Wert wie points."
 type: docs
 weight: 10
 url: /de/net/aspose.svg/svgpolygonelement/animatedpoints/
 ---
 ## SVGPolygonElement.AnimatedPoints property
 
-Bietet Zugriff auf die aktuellen animierten Inhalte des 'Punkte'-Attributs. Wenn das angegebene Attribut oder die angegebene Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft. Wenn das angegebene Attribut oder die Eigenschaft gerade nicht animiert wird, enthält es denselben Wert wie Punkte.
+Bietet Zugriff auf die aktuell animierten Inhalte des ‘points’-Attributs. Wenn das angegebene Attribut oder die Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft. Wenn das angegebene Attribut oder die Eigenschaft derzeit nicht animiert wird, enthält es denselben Wert wie points.
 
 ```csharp
 public SVGPointList AnimatedPoints { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die animierten Punkte.
 
@@ -22,7 +22,5 @@ Die animierten Punkte.
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * class [SVGPolygonElement](../)
-* namensraum [Aspose.Svg](../../svgpolygonelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

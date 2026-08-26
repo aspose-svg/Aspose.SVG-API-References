@@ -1,39 +1,37 @@
 ---
-title: Interface IWindowEventHandlers
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Window.IWindowEventHandlers koppel. Stellt die Schnittstelle dar die vom Fensterobjekt geerbt werden muss
+title: "IWindowEventHandlers‑Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Window.IWindowEventHandlers‑Schnittstelle. Stellt eine Schnittstelle dar, die vom Fensterobjekt geerbt werden muss"
 type: docs
-weight: 3830
+weight: 5930
 url: /de/net/aspose.svg.window/iwindoweventhandlers/
 ---
 ## IWindowEventHandlers interface
 
-Stellt die Schnittstelle dar, die vom Fensterobjekt geerbt werden muss
+Stellt eine Schnittstelle dar, die vom window‑Objekt geerbt werden muss.
 
 ```csharp
 public interface IWindowEventHandlers
 ```
 
-## Veranstaltungen
+## Ereignisse
 
 | Name | Beschreibung |
 | --- | --- |
-| event [OnAfterPrint](../../aspose.svg.window/iwindoweventhandlers/onafterprint/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnBeforePrint](../../aspose.svg.window/iwindoweventhandlers/onbeforeprint/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnBeforeUnload](../../aspose.svg.window/iwindoweventhandlers/onbeforeunload/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnHashChange](../../aspose.svg.window/iwindoweventhandlers/onhashchange/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnMessage](../../aspose.svg.window/iwindoweventhandlers/onmessage/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnOffline](../../aspose.svg.window/iwindoweventhandlers/onoffline/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnOnline](../../aspose.svg.window/iwindoweventhandlers/ononline/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnPageHide](../../aspose.svg.window/iwindoweventhandlers/onpagehide/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnPageShow](../../aspose.svg.window/iwindoweventhandlers/onpageshow/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnPopState](../../aspose.svg.window/iwindoweventhandlers/onpopstate/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnStorage](../../aspose.svg.window/iwindoweventhandlers/onstorage/) | Ruft Ereignishandler ab oder legt es fest |
-| event [OnUnload](../../aspose.svg.window/iwindoweventhandlers/onunload/) | Ruft Ereignishandler ab oder legt es fest |
+| event [OnAfterPrint](../../aspose.svg.window/iwindoweventhandlers/onafterprint/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnBeforePrint](../../aspose.svg.window/iwindoweventhandlers/onbeforeprint/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnBeforeUnload](../../aspose.svg.window/iwindoweventhandlers/onbeforeunload/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnHashChange](../../aspose.svg.window/iwindoweventhandlers/onhashchange/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnMessage](../../aspose.svg.window/iwindoweventhandlers/onmessage/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnOffline](../../aspose.svg.window/iwindoweventhandlers/onoffline/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnOnline](../../aspose.svg.window/iwindoweventhandlers/ononline/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnPageHide](../../aspose.svg.window/iwindoweventhandlers/onpagehide/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnPageShow](../../aspose.svg.window/iwindoweventhandlers/onpageshow/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnPopState](../../aspose.svg.window/iwindoweventhandlers/onpopstate/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnStorage](../../aspose.svg.window/iwindoweventhandlers/onstorage/) | Liest oder setzt den Ereignis‑Handler |
+| event [OnUnload](../../aspose.svg.window/iwindoweventhandlers/onunload/) | Liest oder setzt den Ereignis‑Handler |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Window](../../aspose.svg.window/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

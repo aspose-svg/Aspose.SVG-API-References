@@ -1,14 +1,14 @@
 ---
-title: SvgRenderer.SvgRenderer
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SvgRenderer constructeur. Default_Constructor
+title: "SvgRenderer"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SvgRenderer-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.rendering/svgrenderer/svgrenderer/
 ---
 ## SvgRenderer constructor
 
-Default_Constructor
+Der Standard‑Konstruktor.
 
 ```csharp
 public SvgRenderer()
@@ -17,7 +17,5 @@ public SvgRenderer()
 ### Siehe auch
 
 * class [SvgRenderer](../)
-* namensraum [Aspose.Svg.Rendering](../../svgrenderer/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

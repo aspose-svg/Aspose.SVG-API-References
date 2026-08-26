@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedAngle
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.DataTypes.SVGAnimatedAngle klas. Wird für animierbare Attribute des Basisdatentyps Winkel verwendet.
+title: "SVGAnimatedAngle Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.DataTypes.SVGAnimatedAngle Klasse. Wird für Attribute des Basistdatentyps Winkel verwendet, die animiert werden können"
 type: docs
-weight: 90
+weight: 2080
 url: /de/net/aspose.svg.datatypes/svganimatedangle/
 ---
 ## SVGAnimatedAngle class
 
-Wird für animierbare Attribute des Basisdatentyps Winkel verwendet.
+Wird für Attribute des Grunddatentyps Winkel verwendet, die animierbar sind.
 
 ```csharp
 public class SVGAnimatedAngle : SVGAnimatedValue<SVGAngle>
@@ -26,14 +26,12 @@ public class SVGAnimatedAngle : SVGAnimatedValue<SVGAngle>
 | Name | Beschreibung |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Gibt nicht verwaltete und – optional – verwaltete Ressourcen frei. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedangle/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedangle/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGAngle](../svgangle/)
-* namensraum [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

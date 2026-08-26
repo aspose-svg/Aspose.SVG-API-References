@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Add
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMTokenList methode. Fügt die angegebenen Token der Liste hinzu.
+title: "DOMTokenList.Add"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMTokenList Add-Methode. Fügt die angegebenen Tokens zur Liste hinzu."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.collections/domtokenlist/add/
 ---
 ## DOMTokenList.Add method
 
-Fügt die angegebenen Token der Liste hinzu.
+Fügt das/die angegebene(n) Token zur Liste hinzu.
 
 ```csharp
 public void Add(params string[] tokens)
@@ -16,12 +16,10 @@ public void Add(params string[] tokens)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| tokens | String[] | Stellt das Token (oder die Token) dar, die der TokenList hinzugefügt werden sollen. |
+| Tokens | String[] | Stellt das Token (oder die Tokens) dar, das zur tokenList hinzugefügt werden soll. |
 
 ### Siehe auch
 
 * class [DOMTokenList](../)
-* namensraum [Aspose.Svg.Collections](../../domtokenlist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

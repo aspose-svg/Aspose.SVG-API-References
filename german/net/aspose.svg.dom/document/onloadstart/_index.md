@@ -1,14 +1,14 @@
 ---
-title: Document.OnLoadStart
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den Ereignishandler für das OnLoadStartEreignis ab oder legt ihn fest.
+title: "Document.OnLoadStart"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnLoadStart-Ereignis. Ruft den Ereignishandler für das OnLoadStart-Ereignis ab oder legt ihn fest"
 type: docs
 weight: 500
 url: /de/net/aspose.svg.dom/document/onloadstart/
 ---
 ## Document.OnLoadStart event
 
-Ruft den Ereignishandler für das OnLoadStart-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnLoadStart-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnLoadStart;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoadStart;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

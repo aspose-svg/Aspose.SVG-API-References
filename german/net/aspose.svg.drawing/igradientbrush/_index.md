@@ -1,14 +1,14 @@
 ---
-title: Interface IGradientBrush
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Drawing.IGradientBrush koppel. Deklarieren Sie Methoden zum Abrufen gemeinsamer Eigenschaften von Verlaufspinseln.
+title: "IGradientBrush‑Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Drawing.IGradientBrush‑Schnittstelle. Deklariert Methoden zum Abrufen gemeinsamer Eigenschaften von Farbverlaufspinseln"
 type: docs
-weight: 1450
+weight: 3470
 url: /de/net/aspose.svg.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
 
-Deklarieren Sie Methoden zum Abrufen gemeinsamer Eigenschaften von Verlaufspinseln.
+Deklariert Methoden zum Abrufen gemeinsamer Eigenschaften von Farbverlaufspinseln.
 
 ```csharp
 public interface IGradientBrush : ITransformableBrush
@@ -18,14 +18,12 @@ public interface IGradientBrush : ITransformableBrush
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; } | Abrufen der Mischfaktoren, die einen benutzerdefinierten Abfall für den Farbverlauf definieren. |
-| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; } | Abrufen der Mischpositionen, die einen benutzerdefinierten Abfall für den Farbverlauf definieren. |
-| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; } | Holen Sie sich die Interpolationsfarben, die einen mehrfarbigen linearen Farbverlauf definieren. |
+| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; set; } | Liest oder setzt die Mischfaktoren, die einen benutzerdefinierten Abfall für den Farbverlauf definieren. |
+| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; set; } | Liest oder setzt die Mischpositionen, die einen benutzerdefinierten Abfall für den Farbverlauf definieren. |
+| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; set; } | Liest oder setzt die Interpolationsfarben, die einen mehrfarbigen linearen Farbverlauf definieren. |
 
 ### Siehe auch
 
 * interface [ITransformableBrush](../itransformablebrush/)
-* namensraum [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

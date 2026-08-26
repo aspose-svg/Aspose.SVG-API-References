@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.SetProperty
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSStyleDeclaration methode. Wird verwendet um einen Eigenschaftswert mit Standardpriorität innerhalb dieses Deklarationsblocks festzulegen. Standardpriorität ist nicht wichtig dh String.Empty
+title: "ICSSStyleDeclaration.SetProperty"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSStyleDeclaration SetProperty‑Methode. Wird verwendet, um einen Eigenschaftswert mit Standardpriorität innerhalb dieses Deklarationsblocks festzulegen. Die Standardpriorität ist nicht wichtig, d. h. String.Empty."
 type: docs
 weight: 90
 url: /de/net/aspose.svg.dom.css/icssstyledeclaration/setproperty/
 ---
-## SetProperty(string, string) {#setproperty}
+## SetProperty(*string, string*) {#setproperty}
 
-Wird verwendet, um einen Eigenschaftswert mit Standardpriorität innerhalb dieses Deklarationsblocks festzulegen. Standardpriorität ist nicht „wichtig“, dh String.Empty
+Wird verwendet, um einen Eigenschaftswert mit Standardpriorität innerhalb dieses Deklarationsblocks zu setzen. Die Standardpriorität ist nicht "important", d. h. String.Empty.
 
 ```csharp
 public void SetProperty(string propertyName, string value)
@@ -22,14 +22,14 @@ public void SetProperty(string propertyName, string value)
 ### Siehe auch
 
 * interface [ICSSStyleDeclaration](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetProperty(string, string, string) {#setproperty_1}
+## SetProperty(*string, string, string*) {#setproperty_1}
 
-Wird verwendet, um einen Eigenschaftswert und eine Priorität innerhalb dieses Deklarationsblocks festzulegen.
+Wird verwendet, um einen Eigenschaftswert und eine Priorität innerhalb dieses Deklarationsblocks zu setzen.
 
 ```csharp
 public void SetProperty(string propertyName, string value, string priority)
@@ -39,12 +39,10 @@ public void SetProperty(string propertyName, string value, string priority)
 | --- | --- | --- |
 | propertyName | String | Name der Eigenschaft. |
 | value | String | Der Wert. |
-| priority | String | Die Priorität. |
+| Priorität | String | Die Priorität. |
 
 ### Siehe auch
 
 * interface [ICSSStyleDeclaration](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

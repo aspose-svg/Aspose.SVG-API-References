@@ -1,9 +1,9 @@
 ---
-title: Enum BrushType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Drawing.BrushType opsomming. Gibt den Pinseltyp an.
+title: "BrushType Aufzählung"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Drawing.BrushType Aufzählung. Gibt den Typ des Pinsels an."
 type: docs
-weight: 1380
+weight: 3380
 url: /de/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration
@@ -19,12 +19,10 @@ public enum BrushType
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | Solid | `0` | Typ ist ISolidBrush |
-| Texture | `1` | Typ ist ITureBrush |
+| Texture | `1` | Typ ist ITextureBrush |
 | LinearGradient | `2` | Typ ist ILinearGradientBrush |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

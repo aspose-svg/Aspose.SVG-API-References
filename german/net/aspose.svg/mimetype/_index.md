@@ -1,48 +1,46 @@
 ---
-title: Class MimeType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.MimeType klas. steht für einen InternetMedientyp
+title: "MimeType Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.MimeType Klasse. Stellt einen Internet-Medientyp dar."
 type: docs
-weight: 2210
+weight: 4280
 url: /de/net/aspose.svg/mimetype/
 ---
 ## MimeType class
 
-steht für einen Internet-Medientyp
+Stellt einen Internet-Medientyp dar.
 
 ```csharp
 public class MimeType : IEquatable<MimeType>
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [MimeType](mimetype/)(string) | Initialisiert eine neue Instanz des MIME-Typs basierend auf dem serialisierten Zeichenfolgenwert. |
+| [MimeType](mimetype/)(*string*) | Initialisiert eine neue Instanz eines MIME-Typs basierend auf einem serialisierten Zeichenkettenwert. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [SubType](../../aspose.svg/mimetype/subtype/) { get; } | Ruft den Submedientyp ab. |
-| [Type](../../aspose.svg/mimetype/type/) { get; } | Ruft den Medientyp ab. |
+| [SubType](../../aspose.svg/mimetype/subtype/) { get; } | Liefert den Sub-Medientyp. |
+| [Type](../../aspose.svg/mimetype/type/) { get; } | Liefert den Medientyp. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension/)(string) | Erstellt einen neuen MIME-Typ basierend auf der Dateierweiterung. |
-| [Equals](../../aspose.svg/mimetype/equals/#equals)(MimeType) | Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist. |
-| override [Equals](../../aspose.svg/mimetype/equals/#equals_1)(object) | Bestimmt, ob die angegebeneObject ist gleich dem StromObject . |
-| override [GetHashCode](../../aspose.svg/mimetype/gethashcode/)() | Gibt einen Hash-Code für diese Instanz zurück. |
-| override [ToString](../../aspose.svg/mimetype/tostring/)() | Gibt a zurückString das repräsentiert Mime-Typ. |
-| [operator ==](../../aspose.svg/mimetype/op_equality/) | Vergleicht zwei Mime-Typen und gibt einen booleschen Wert zurück, der angibt, ob die beiden übereinstimmen. |
-| [implicit operator](../../aspose.svg/mimetype/op_implicit/#op_implicit) | Führt eine implizite Konvertierung von ausString Zu`MimeType` . (2 operators) |
-| [operator !=](../../aspose.svg/mimetype/op_inequality/) | Vergleicht zwei Mime-Typen und gibt einen booleschen Wert zurück, der angibt, ob die beiden übereinstimmen. |
+| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension/)(*string*) | Erstellt einen neuen MIME-Typ basierend auf der Dateierweiterung. |
+| [Equals](../../aspose.svg/mimetype/equals/#equals)(*MimeType*) | Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist. |
+| override [Equals](../../aspose.svg/mimetype/equals/#equals_1)(*object*) | Bestimmt, ob das angegebene Objekt dem aktuellen Objekt gleich ist. |
+| override [GetHashCode](../../aspose.svg/mimetype/gethashcode/)() | Gibt einen Hashcode für diese Instanz zurück. |
+| override [ToString](../../aspose.svg/mimetype/tostring/)() | Gibt einen String zurück, der den MIME-Typ darstellt. |
+| [operator ==](../../aspose.svg/mimetype/op_equality/) | Vergleicht zwei MIME-Typen und gibt einen booleschen Wert zurück, der angibt, ob die beiden übereinstimmen. |
+| [implicit operator](../../aspose.svg/mimetype/op_implicit/#op_implicit) | Führt eine implizite Konvertierung von String zu `MimeType` durch. (2 Operatoren) |
+| [operator !=](../../aspose.svg/mimetype/op_inequality/) | Vergleicht zwei MIME-Typen und gibt einen booleschen Wert zurück, der angibt, ob die beiden übereinstimmen. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

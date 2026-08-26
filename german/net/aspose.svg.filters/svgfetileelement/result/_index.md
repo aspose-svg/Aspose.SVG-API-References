@@ -1,28 +1,26 @@
 ---
-title: SVGFETileElement.Result
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFETileElement eigendom. Entspricht dem Attribut Ergebnis des angegebenen FilterElements.
+title: "SVGFETileElement.Result"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFETileElement Result-Eigenschaft. Entspricht dem Attribut result im angegebenen Filterelement"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.filters/svgfetileelement/result/
 ---
 ## SVGFETileElement.Result property
 
-Entspricht dem Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘result’ im angegebenen ‘filter’-Element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Das Attribut ‘result’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFETileElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfetileelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

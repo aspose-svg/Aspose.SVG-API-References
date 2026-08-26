@@ -1,14 +1,14 @@
 ---
-title: Element.GetAttributeNodeNS
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element methode. Ruft einen AttrKnoten nach lokalem Namen und NamespaceURI ab.
+title: "Element.GetAttributeNodeNS"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element GetAttributeNodeNS-Methode. Ruft einen Attr-Knoten anhand des lokalen Namens und des Namespace-URI ab."
 type: docs
 weight: 260
 url: /de/net/aspose.svg.dom/element/getattributenodens/
 ---
 ## Element.GetAttributeNodeNS method
 
-Ruft einen Attr-Knoten nach lokalem Namen und Namespace-URI ab.
+Ruft einen Attr-Knoten anhand des lokalen Namens und des Namespace-URI ab.
 
 ```csharp
 public Attr GetAttributeNodeNS(string namespaceURI, string localName)
@@ -17,17 +17,15 @@ public Attr GetAttributeNodeNS(string namespaceURI, string localName)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | namespaceURI | String | Der Namespace-URI. |
-| localName | String | Name des Lokals. |
+| localName | String | Name des lokalen. |
 
 ### Rückgabewert
 
-Gibt das Attribut zurück
+Gibt Attribut zurück
 
 ### Siehe auch
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

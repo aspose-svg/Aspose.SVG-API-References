@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.KernelMatrix
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFEConvolveMatrixElement eigendom. Entspricht dem Attribut kernelMatrix auf dem gegebenen feConvolveMatrixElement.
+title: "SVGFEConvolveMatrixElement.KernelMatrix"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFEConvolveMatrixElement KernelMatrix Eigenschaft. Entspricht dem Attribut kernelMatrix im angegebenen feConvolveMatrix-Element"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.filters/svgfeconvolvematrixelement/kernelmatrix/
 ---
 ## SVGFEConvolveMatrixElement.KernelMatrix property
 
-Entspricht dem Attribut 'kernelMatrix' auf dem gegebenen 'feConvolveMatrix'-Element.
+Entspricht dem Attribut ‘kernelMatrix’ im angegebenen ‘feConvolveMatrix’-Element.
 
 ```csharp
 public SVGAnimatedNumberList KernelMatrix { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'kernelMatrix' des gegebenen 'feConvolveMatrix'-Elements.
+Das Attribut ‘kernelMatrix’ des angegebenen ‘feConvolveMatrix’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGFEConvolveMatrixElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IDevice.StrokeText
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDevice methode. Zeichnet die angegebene Textzeichenfolge an der angegebenen Position.
+title: "IDevice.StrokeText"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDevice StrokeText-Methode. Zeichnet die angegebene Textzeichenfolge an der angegebenen Position."
 type: docs
 weight: 230
 url: /de/net/aspose.svg.rendering/idevice/stroketext/
@@ -16,13 +16,11 @@ public void StrokeText(string text, PointF pt)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Schnur zu Strich. |
+| Text | String | Zu zeichnende Zeichenkette. |
 | pt | PointF | Punkt, der die Koordinaten angibt, an denen der Text beginnen soll. |
 
 ### Siehe auch
 
 * interface [IDevice](../)
-* namensraum [Aspose.Svg.Rendering](../../idevice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

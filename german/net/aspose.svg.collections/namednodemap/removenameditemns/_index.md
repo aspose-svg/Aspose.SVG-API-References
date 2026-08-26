@@ -1,9 +1,9 @@
 ---
-title: NamedNodeMap.RemoveNamedItemNS
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NamedNodeMap methode. Entfernt einen Knoten der durch lokalen Namen und NamespaceURI angegeben ist.
+title: "NamedNodeMap.RemoveNamedItemNS"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NamedNodeMap RemoveNamedItemNS-Methode. Entfernt einen Knoten, der durch lokalen Namen und Namespace-URI angegeben ist."
 type: docs
-weight: 70
+weight: 60
 url: /de/net/aspose.svg.collections/namednodemap/removenameditemns/
 ---
 ## NamedNodeMap.RemoveNamedItemNS method
@@ -17,7 +17,7 @@ public Attr RemoveNamedItemNS(string namespaceURI, string localName)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | namespaceURI | String | Der Namespace-URI. |
-| localName | String | Name des Lokals. |
+| localName | String | Name des lokalen. |
 
 ### Rückgabewert
 
@@ -27,7 +27,5 @@ Gibt den Knoten zurück.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namensraum [Aspose.Svg.Collections](../../namednodemap/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

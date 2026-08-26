@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.MessageHandlers
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Die Aspose.Svg.Net.MessageHandlers Namespace is dargestellt durch Klassen  Message Handler verschiedener Protokolle.
+title: "Aspose.Svg.Net.MessageHandlers"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Der Namespace Aspose.Svg.Net.MessageHandlers wird durch Klassen bereitgestellt – Nachrichten-Handler verschiedener Protokolle."
 type: docs
-weight: 220
+weight: 240
 url: /de/net/aspose.svg.net.messagehandlers/
 ---
-Die **Aspose.Svg.Net.MessageHandlers** Namespace is dargestellt durch Klassen - Message Handler verschiedener Protokolle.
+Der **Aspose.Svg.Net.MessageHandlers** Namespace wird durch Klassen präsentiert – Nachrichten‑Handler verschiedener Protokolle.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | steht für die`Datei:` Protokollnachrichten-Handler. |
-| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | steht für die`FTP:` Protokollnachrichten-Handler. |
-| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | steht für die`http:` Protokollnachrichten-Handler. |
-
-
+| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Stellt den Nachrichten-Handler für das `file:`‑Protokoll dar. |
+| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Stellt den Nachrichten-Handler für das `ftp:`‑Protokoll dar. |
+| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Stellt den Nachrichten-Handler für das `http:`‑Protokoll dar. |

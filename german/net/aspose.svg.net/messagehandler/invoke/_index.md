@@ -1,14 +1,14 @@
 ---
-title: MessageHandler.Invoke
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MessageHandler methode. Wird beim Überschreiben in einer abgeleiteten Klasse verwendet um die Nachrichtenbehandlung zu implementieren.
+title: "MessageHandler.Invoke"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MessageHandler Invoke-Methode. Wird, wenn sie in einer abgeleiteten Klasse überschrieben wird, zur Implementierung der Nachrichtenverarbeitung verwendet"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.net/messagehandler/invoke/
 ---
 ## MessageHandler.Invoke method
 
-Wird beim Überschreiben in einer abgeleiteten Klasse verwendet, um die Nachrichtenbehandlung zu implementieren.
+Wird in einer abgeleiteten Klasse überschrieben, um die Nachrichtenverarbeitung zu implementieren.
 
 ```csharp
 public abstract void Invoke(INetworkOperationContext context)
@@ -22,7 +22,5 @@ public abstract void Invoke(INetworkOperationContext context)
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageHandler](../)
-* namensraum [Aspose.Svg.Net](../../messagehandler/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

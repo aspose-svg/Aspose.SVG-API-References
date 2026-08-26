@@ -1,28 +1,26 @@
 ---
-title: SVGPathElement.AnimatedPathSegList
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPathElement eigendom. Bietet Zugriff auf den aktuellen animierten Inhalt des dAttributs in einer Form die eins zu eins mit der SVGSyntax übereinstimmt. Wenn das angegebene Attribut oder die angegebene Eigenschaft animiert wird enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft und sowohl das Objekt selbst als auch sein Inhalt sind schreibgeschützt. Wenn das angegebene Attribut oder die Eigenschaft gerade nicht animiert wird enthält es denselben Wert wie pathSegList.
+title: "SVGPathElement.AnimatedPathSegList"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPathElement AnimatedPathSegList-Eigenschaft. Bietet Zugriff auf die aktuell animierten Inhalte des d-Attributs in einer Form, die eins-zu-eins mit der SVG-Syntax übereinstimmt. Wenn das gegebene Attribut oder die Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft, und sowohl das Objekt selbst als auch dessen Inhalte sind schreibgeschützt. Wenn das gegebene Attribut oder die Eigenschaft derzeit nicht animiert wird, enthält es denselben Wert wie pathSegList."
 type: docs
 weight: 10
 url: /de/net/aspose.svg/svgpathelement/animatedpathseglist/
 ---
 ## SVGPathElement.AnimatedPathSegList property
 
-Bietet Zugriff auf den aktuellen animierten Inhalt des 'd'-Attributs in einer Form, die eins zu eins mit der SVG-Syntax übereinstimmt. Wenn das angegebene Attribut oder die angegebene Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft, und sowohl das Objekt selbst als auch sein Inhalt sind schreibgeschützt. Wenn das angegebene Attribut oder die Eigenschaft gerade nicht animiert wird, enthält es denselben Wert wie pathSegList.
+Bietet Zugriff auf die aktuellen animierten Inhalte des ‘d’-Attributs in einer Form, die eins‑zu‑eins mit der SVG‑Syntax übereinstimmt. Wenn das angegebene Attribut oder die Eigenschaft animiert wird, enthält es den aktuellen animierten Wert des Attributs oder der Eigenschaft, und sowohl das Objekt selbst als auch seine Inhalte sind schreibgeschützt. Wenn das angegebene Attribut oder die Eigenschaft derzeit nicht animiert wird, enthält es denselben Wert wie pathSegList.
 
 ```csharp
 public SVGPathSegList AnimatedPathSegList { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Liste der animierten Pfadsegmente.
+Die animierte Pfadsegmentliste.
 
 ### Siehe auch
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* namensraum [Aspose.Svg](../../svgpathelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

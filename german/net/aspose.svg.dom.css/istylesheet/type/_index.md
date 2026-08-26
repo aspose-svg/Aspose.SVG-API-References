@@ -1,14 +1,14 @@
 ---
-title: IStyleSheet.Type
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IStyleSheet eigendom. Dies gibt die StylesheetSprache für dieses Stylesheet an. Als Inhaltstyp wird die StylesheetSprache angegeben zB text/css.
+title: "IStyleSheet.Type"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IStyleSheet Type-Eigenschaft. Dies gibt die Stylesheet-Sprache für dieses Stylesheet an. Die Stylesheet-Sprache wird als Inhaltstyp angegeben, z. B. text/css"
 type: docs
 weight: 70
 url: /de/net/aspose.svg.dom.css/istylesheet/type/
 ---
 ## IStyleSheet.Type property
 
-Dies gibt die Stylesheet-Sprache für dieses Stylesheet an. Als Inhaltstyp wird die Stylesheet-Sprache angegeben (zB "text/css").
+Dies gibt die Stylesheet‑Sprache für dieses Stylesheet an. Die Stylesheet‑Sprache wird als Content‑Typ angegeben (z. B. "text/css").
 
 ```csharp
 public string Type { get; }
@@ -17,7 +17,5 @@ public string Type { get; }
 ### Siehe auch
 
 * interface [IStyleSheet](../)
-* namensraum [Aspose.Svg.Dom.Css](../../istylesheet/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ByteArrayContent.ByteArrayContent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ByteArrayContent constructeur. Initialisiert eine neue Instanz vonByteArrayContent Klasse.
+title: "ByteArrayContent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ByteArrayContent-Konstruktor. Initialisiert eine neue Instanz der ByteArrayContent-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.net/bytearraycontent/bytearraycontent/
 ---
 ## ByteArrayContent constructor
 
-Initialisiert eine neue Instanz von[`ByteArrayContent`](../) Klasse.
+Initialisiert eine neue Instanz der [`ByteArrayContent`](../)-Klasse.
 
 ```csharp
 public ByteArrayContent(byte[] content)
@@ -16,12 +16,10 @@ public ByteArrayContent(byte[] content)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | Byte[] | Der Inhalt. |
+| Inhalt | Byte[] | Der Inhalt. |
 
 ### Siehe auch
 
 * class [ByteArrayContent](../)
-* namensraum [Aspose.Svg.Net](../../bytearraycontent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

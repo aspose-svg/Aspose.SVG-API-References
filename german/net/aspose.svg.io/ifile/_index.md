@@ -1,14 +1,14 @@
 ---
-title: Interface IFile
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.IO.IFile koppel. Ein FileObjekt ist ein BlobObjekt mit einem Namensattribut das eine Zeichenfolge ist Es kann innerhalb der Webanwendung über einen Konstruktor erstellt werden oder ist ein Verweis auf eine Bytefolge aus einer Datei aus dem zugrunde liegenden OS Dateisystem.
+title: "IFile Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.IO.IFile Schnittstelle. Ein File-Objekt ist ein Blob-Objekt mit einem Namensattribut, das ein String ist; es kann innerhalb der Webanwendung über einen Konstruktor erstellt werden oder ist ein Verweis auf eine Byte‑Sequenz aus einer Datei des zugrunde liegenden Betriebssystem‑Dateisystems."
 type: docs
-weight: 1940
+weight: 4050
 url: /de/net/aspose.svg.io/ifile/
 ---
 ## IFile interface
 
-Ein File-Objekt ist ein Blob-Objekt mit einem Namensattribut, das eine Zeichenfolge ist; Es kann innerhalb der Webanwendung über einen Konstruktor erstellt werden oder ist ein Verweis auf eine Bytefolge aus einer Datei aus dem zugrunde liegenden (OS-) Dateisystem.
+Ein File-Objekt ist ein Blob-Objekt mit einem Attribut name, das eine Zeichenkette ist; es kann innerhalb der Webanwendung über einen Konstruktor erstellt werden oder ist ein Verweis auf eine Byte-Sequenz aus einer Datei des zugrunde liegenden (OS-)Dateisystems.
 
 ```csharp
 public interface IFile : IBlob
@@ -18,13 +18,11 @@ public interface IFile : IBlob
 
 | Name | Beschreibung |
 | --- | --- |
-| [LastModified](../../aspose.svg.io/ifile/lastmodified/) { get; } | Das Datum der letzten Änderung der Datei. Wenn Benutzeragenten diese Informationen verfügbar machen können, muss beim Abrufen eine lange lange Menge an der Zeit zurückgeben, zu der die Datei zuletzt geändert wurde, als Anzahl der Millisekunden seit der Unix-Epoche. |
-| [Name](../../aspose.svg.io/ifile/name/) { get; } | Der Name der Datei. Beim Abrufen muss dies den Namen der Datei als Zeichenfolge zurückgeben. |
+| [LastModified](../../aspose.svg.io/ifile/lastmodified/) { get; } | Das zuletzt geänderte Datum der Datei. Beim Abrufen, falls Benutzeragenten diese Information bereitstellen können, muss ein long long zurückgegeben werden, das auf die Zeit gesetzt ist, zu der die Datei zuletzt geändert wurde, angegeben in Millisekunden seit dem Unix‑Epoch. |
+| [Name](../../aspose.svg.io/ifile/name/) { get; } | Der Name der Datei. Beim Abrufen muss der Name der Datei als String zurückgegeben werden. |
 
 ### Siehe auch
 
 * interface [IBlob](../iblob/)
-* namensraum [Aspose.Svg.IO](../../aspose.svg.io/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

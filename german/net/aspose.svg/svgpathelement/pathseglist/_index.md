@@ -1,20 +1,20 @@
 ---
-title: SVGPathElement.PathSegList
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPathElement eigendom. Bietet Zugriff auf den Basisinhalt dh statischen des dAttributs in einer Form die eins zu eins mit der SVGSyntax übereinstimmt. Wenn also das dAttribut einen absolute moveto M und einen absolute arcto A Befehl hat dann hat pathSegList zwei Einträge einen SVG_PATHSEG_MOVETO_ABS und einen SVG_PATHSEG_ARC_ABS.
+title: "SVGPathElement.PathSegList"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPathElement PathSegList Eigenschaft. Bietet Zugriff auf die Basis, d.h. den statischen Inhalt des d-Attributs in einer Form, die eins-zu-eins mit der SVG-Syntax übereinstimmt. Wenn das d-Attribut also ein absolutes moveto M und ein absolutes arcto A Kommando enthält, dann hat pathSegList zwei Einträge: ein SVG_PATHSEG_MOVETO_ABS und ein SVG_PATHSEG_ARC_ABS"
 type: docs
 weight: 20
 url: /de/net/aspose.svg/svgpathelement/pathseglist/
 ---
 ## SVGPathElement.PathSegList property
 
-Bietet Zugriff auf den Basisinhalt (dh statischen) des 'd'-Attributs in einer Form, die eins zu eins mit der SVG-Syntax übereinstimmt. Wenn also das 'd'-Attribut einen "absolute moveto (M)" und einen "absolute arcto (A)" Befehl hat, dann hat pathSegList zwei Einträge: einen SVG_PATHSEG_MOVETO_ABS und einen SVG_PATHSEG_ARC_ABS.
+Bietet Zugriff auf die Basis‑ (d. h. statischen) Inhalte des ‘d’-Attributs in einer Form, die eins‑zu‑eins mit der SVG‑Syntax übereinstimmt. Wenn das ‘d’-Attribut also einen „absoluten moveto (M)“ und einen „absoluten arcto (A)“ Befehl enthält, wird pathSegList zwei Einträge haben: ein SVG_PATHSEG_MOVETO_ABS und ein SVG_PATHSEG_ARC_ABS.
 
 ```csharp
 public SVGPathSegList PathSegList { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Pfadsegmentliste.
 
@@ -22,7 +22,5 @@ Die Pfadsegmentliste.
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* namensraum [Aspose.Svg](../../svgpathelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

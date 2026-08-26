@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.Buttons
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent eigendom. Bei allen Mausereignissen MÜSSEN Schaltflächen verwendet werden um anzuzeigen welche Kombination von Maustasten gerade gedrückt wird ausgedrückt als Bitmaske.
+title: "MouseEvent.Buttons"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent Buttons-Eigenschaft. Während aller Mausereignisse MUSS buttons verwendet werden, um anzugeben, welche Kombination von Maustasten derzeit gedrückt ist, ausgedrückt als Bitmaske."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.dom.events/mouseevent/buttons/
 ---
 ## MouseEvent.Buttons property
 
-Bei allen Mausereignissen MÜSSEN Schaltflächen verwendet werden, um anzuzeigen, welche Kombination von Maustasten gerade gedrückt wird, ausgedrückt als Bitmaske.
+Während aller Mausereignisse MUSS buttons verwendet werden, um anzugeben, welche Kombination von Maustasten derzeit gedrückt ist, ausgedrückt als Bitmaske.
 
 ```csharp
 public ushort Buttons { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Knöpfe.
+Die Buttons.
 
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

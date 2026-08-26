@@ -1,14 +1,14 @@
 ---
-title: IXPathEvaluator.Evaluate
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IXPathEvaluator methode. Wertet eine XPathAusdruckszeichenfolge aus und gibt wenn möglich ein Ergebnis des angegebenen Typs zurück.
+title: "IXPathEvaluator.Evaluate"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IXPathEvaluator Evaluate-Methode. Bewertet einen XPath-Ausdrucks-String und gibt, falls möglich, ein Ergebnis des angegebenen Typs zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.xpath/ixpathevaluator/evaluate/
 ---
 ## IXPathEvaluator.Evaluate method
 
-Wertet eine XPath-Ausdruckszeichenfolge aus und gibt, wenn möglich, ein Ergebnis des angegebenen Typs zurück.
+Wertet eine XPath‑Ausdruckszeichenkette aus und gibt, falls möglich, ein Ergebnis des angegebenen Typs zurück.
 
 ```csharp
 public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolver resolver, 
@@ -17,25 +17,25 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| expression | String | Die zu analysierende und auszuwertende XPath-Ausdruckszeichenfolge. |
-| contextNode | Node | Der`Kontext` ist Kontextknoten für die Auswertung dieses XPath-Ausdrucks. Wenn die[`IXPathEvaluator`](../) wurde durch das Gießen des erhalten[`Document`](../../../aspose.svg.dom/document/) dann muss dies demselben Dokument gehören und ein sein[`Document`](../../../aspose.svg.dom/document/) ,[`Element`](../../../aspose.svg.dom/element/) ,[`Attr`](../../../aspose.svg.dom/attr/) ,[`Text`](../../../aspose.svg.dom/text/) , [`CDATASection`](../../../aspose.svg.dom/cdatasection/) ,[`Comment`](../../../aspose.svg.dom/comment/) ,[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) , oderXPathNamespace Knoten. Wenn der Kontextknoten a[`Text`](../../../aspose.svg.dom/text/) oder ein [`CDATASection`](../../../aspose.svg.dom/cdatasection/)dann wird der Kontext als der gesamte logische Textknoten interpretiert, wie er von XPath gesehen wird, es sei denn, der Knoten ist leer, in diesem Fall dient er möglicherweise nicht als XPath-Kontext. |
-| resolver | IXPathNSResolver | Der`Resolver` ermöglicht die Übersetzung aller Präfixe, einschließlich die`xml` Namespace-Präfix innerhalb des XPath-Ausdrucks in die entsprechenden Namespace-URIs. Wenn dies angegeben ist als`Null` , führt jedes Namespace-Präfix innerhalb des Ausdrucks zu [`DOMException`](../../../aspose.svg.dom/domexception/) mit dem Code geworfen werden`NAMESPACE_ERR`. |
-| type | XPathResultType | Wenn eine bestimmte`Typ` angegeben ist, wird das Ergebnis als des entsprechenden Typs zurückgegeben. Für XPath 1.0-Ergebnisse muss dies einer der Werte von sein.[`XPathResultType`](../../xpathresulttype/) Aufzählung. |
-| result | Object | Der`Ergebnis` gibt ein bestimmtes Ergebnisobjekt an, das wiederverwendet und von dieser Methode zurückgegeben werden kann. Wenn dies angegeben ist als`Null`oder die Implementierung das angegebene Ergebnis nicht wiederverwendet, wird ein neues Ergebnisobjekt erstellt und zurückgegeben. Für XPath 1.0 -Ergebnisse ist dieses Objekt vom Typ[`IXPathResult`](../../ixpathresult/). |
+| expression | String | Der XPath-Ausdruck-String, der geparst und ausgewertet werden soll. |
+| contextNode | Node | Der `context` ist der Kontextknoten für die Auswertung dieses XPath-Ausdrucks. Wenn der [`IXPathEvaluator`](../) durch Casten des [`Document`](../../../aspose.svg.dom/document/) erhalten wurde, muss dieser dem selben Dokument gehören und ein [`Document`](../../../aspose.svg.dom/document/), [`Element`](../../../aspose.svg.dom/element/), [`Attr`](../../../aspose.svg.dom/attr/), [`Text`](../../../aspose.svg.dom/text/), [`CDATASection`](../../../aspose.svg.dom/cdatasection/), [`Comment`](../../../aspose.svg.dom/comment/), [`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) oder XPathNamespace‑Knoten sein. Ist der Kontextknoten ein [`Text`](../../../aspose.svg.dom/text/) oder ein [`CDATASection`](../../../aspose.svg.dom/cdatasection/), wird der Kontext als der gesamte logische Textknoten interpretiert, wie er von XPath gesehen wird, es sei denn, der Knoten ist leer, dann kann er nicht als XPath‑Kontext dienen. |
+| resolver | IXPathNSResolver | Der `resolver` ermöglicht die Übersetzung aller Präfixe, einschließlich des `xml`-Namespace‑Präfixes, innerhalb des XPath-Ausdrucks in geeignete Namespace-URIs. Wird er als `null` angegeben, führt jedes Namespace‑Präfix im Ausdruck dazu, dass [`DOMException`](../../../aspose.svg.dom/domexception/) mit dem Code `NAMESPACE_ERR` ausgelöst wird. |
+| type | XPathResultType | Wenn ein bestimmter `type` angegeben ist, wird das Ergebnis als der entsprechende Typ zurückgegeben. Für XPath‑1.0‑Ergebnisse muss dies einer der Werte des Enums [`XPathResultType`](../../xpathresulttype/) sein. |
+| result | Object | Das `result` gibt ein bestimmtes Ergebnisobjekt an, das wiederverwendet und von dieser Methode zurückgegeben werden kann. Wenn dies als `null` angegeben wird oder die Implementierung das angegebene Ergebnis nicht wiederverwendet, wird ein neues Ergebnisobjekt erstellt und zurückgegeben. Für XPath‑1.0‑Ergebnisse wird dieses Objekt vom Typ [`IXPathResult`](../../ixpathresult/) sein. |
 
 ### Rückgabewert
 
-Das Ergebnis der Auswertung des XPath-Ausdrucks. Für XPath 1.0-Ergebnisse ist dieses Objekt vom Typ[`IXPathResult`](../../ixpathresult/).
+Das Ergebnis der Auswertung des XPath‑Ausdrucks. Für XPath‑1.0‑Ergebnisse wird dieses Objekt vom Typ [`IXPathResult`](../../ixpathresult/) sein.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: Wird ausgelöst, wenn der Ausdruck gemäß den Regeln des nicht zulässig ist[`IXPathEvaluator`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: Wird ausgelöst, wenn das Ergebnis nicht konvertiert werden kann, um den angegebenen Typ zurückzugeben. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: Wird ausgelöst, wenn der Ausdruck Namespace-Präfixe enthält, die von den angegebenen nicht aufgelöst werden können[`IXPathNSResolver`](../../ixpathnsresolver/). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: Der Knoten stammt aus einem Dokument, das von diesem nicht unterstützt wird[`IXPathEvaluator`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Der Knoten ist kein Typ, der als XPath-Kontext -Knoten zugelassen ist, oder der Anforderungstyp ist von diesem nicht zugelassen[`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: Wird ausgelöst, wenn der Ausdruck gemäß den Regeln des [`IXPathEvaluator`](../) nicht zulässig ist. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: Wird ausgelöst, wenn das Ergebnis nicht in den angegebenen Typ konvertiert werden kann. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: Wird ausgelöst, wenn der Ausdruck Namespace‑Präfixe enthält, die vom angegebenen [`IXPathNSResolver`](../../ixpathnsresolver/) nicht aufgelöst werden können. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: Der Knoten stammt aus einem Dokument, das von diesem [`IXPathEvaluator`](../) nicht unterstützt wird. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Der Knoten ist kein zulässiger Typ für einen XPath-Kontextknoten oder der Anforderungstyp wird von diesem [`IXPathEvaluator`](../) nicht unterstützt. |
 
 ### Siehe auch
 
@@ -44,7 +44,5 @@ Das Ergebnis der Auswertung des XPath-Ausdrucks. Für XPath 1.0-Ergebnisse ist d
 * interface [IXPathNSResolver](../../ixpathnsresolver/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathEvaluator](../)
-* namensraum [Aspose.Svg.Dom.XPath](../../ixpathevaluator/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

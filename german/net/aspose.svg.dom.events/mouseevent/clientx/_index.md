@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ClientX
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent eigendom. Die horizontale Koordinate an der das Ereignis aufgetreten ist relativ zu dem mit dem Ereignis verknüpften Darstellungsfenster.
+title: "MouseEvent.ClientX"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent ClientX-Eigenschaft. Die horizontale Koordinate, bei der das Ereignis relativ zum mit dem Ereignis verbundenen Ansichtsfenster (Viewport) auftrat"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom.events/mouseevent/clientx/
 ---
 ## MouseEvent.ClientX property
 
-Die horizontale Koordinate, an der das Ereignis aufgetreten ist, relativ zu dem mit dem Ereignis verknüpften Darstellungsfenster.
+Die horizontale Koordinate, bei der das Ereignis relativ zum mit dem Ereignis verbundenen Ansichtsfenster auftrat.
 
 ```csharp
 public long ClientX { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Kunde x.
+Der Client x.
 
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

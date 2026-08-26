@@ -1,14 +1,14 @@
 ---
-title: IElementCSSInlineStyle.Style
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IElementCSSInlineStyle eigendom. Repräsentiert Stellt ein Stilattribut dar das es dem Autor ermöglicht Stilinformationen direkt auf ein bestimmtes Element anzuwenden.
+title: "IElementCSSInlineStyle.Style"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IElementCSSInlineStyle Style Eigenschaft. Stellt ein Style-Attribut dar, das es dem Autor ermöglicht, Stilinformationen direkt auf ein bestimmtes Element anzuwenden."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/ielementcssinlinestyle/style/
 ---
 ## IElementCSSInlineStyle.Style property
 
-Repräsentiert Stellt ein Stilattribut dar, das es dem Autor ermöglicht, Stilinformationen direkt auf ein bestimmtes Element anzuwenden.
+Stellt ein style-Attribut dar, das es dem Autor ermöglicht, Stilinformationen direkt auf ein bestimmtes Element anzuwenden.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
@@ -18,7 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [IElementCSSInlineStyle](../)
-* namensraum [Aspose.Svg.Dom.Css](../../ielementcssinlinestyle/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,37 +1,35 @@
 ---
-title: Class PdfEncryptionInfo
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionInfo klas. Enthält Details für eine PDFVerschlüsselung.
+title: "PdfEncryptionInfo Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionInfo Klasse. Enthält Details für eine PDF-Verschlüsselung"
 type: docs
-weight: 2920
+weight: 4990
 url: /de/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo class
 
-Enthält Details für eine PDF-Verschlüsselung.
+Enthält Details zu einer PDF‑Verschlüsselung.
 
 ```csharp
 public class PdfEncryptionInfo
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PdfEncryptionInfo](pdfencryptioninfo/)(string, string, PdfPermissions, PdfEncryptionAlgorithm) | Initialisiert eine neue Instanz von`PdfEncryptionInfo` Klasse. |
+| [PdfEncryptionInfo](pdfencryptioninfo/)(*string, string, [PdfPermissions](../pdfpermissions/), [PdfEncryptionAlgorithm](../pdfencryptionalgorithm/)*) | Initialisiert eine neue Instanz der `PdfEncryptionInfo` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [EncryptionAlgorithm](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/) { get; set; } | Ruft den Verschlüsselungsmodus ab oder legt ihn fest. |
-| [OwnerPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/) { get; set; } | Ruft das Eigentümerkennwort ab oder legt es fest. |
-| [Permissions](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/) { get; set; } | Ruft die Berechtigungen ab oder legt sie fest. |
-| [UserPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword/) { get; set; } | Ruft das Benutzerkennwort ab oder legt es fest. |
+| [EncryptionAlgorithm](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/) { get; set; } | Liest oder setzt den Verschlüsselungsmodus. |
+| [OwnerPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/) { get; set; } | Liest oder setzt das Owner-Passwort. |
+| [Permissions](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/) { get; set; } | Liest oder setzt die Berechtigungen. |
+| [UserPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword/) { get; set; } | Liest oder setzt das User-Passwort. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../)

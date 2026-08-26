@@ -1,7 +1,7 @@
 ---
-title: RGBColor.ToNative
-second_title: Aspose.SVG für .NET-API-Referenz
-description: RGBColor methode. Konvertiert in das native Farbobjekt.
+title: "RGBColor.ToNative"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "RGBColor ToNative-Methode. Konvertiert in das native Farbobjekt"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom.css/rgbcolor/tonative/
@@ -16,12 +16,10 @@ public Color ToNative()
 
 ### Rückgabewert
 
-DerColor Objekt.
+Das Color-Objekt.
 
 ### Siehe auch
 
 * class [RGBColor](../)
-* namensraum [Aspose.Svg.Dom.Css](../../rgbcolor/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

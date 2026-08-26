@@ -1,14 +1,14 @@
 ---
-title: UnitType.In
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType veld. Die Messung erfolgt in Zoll
+title: "UnitType.In"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType In-Feld. Messung erfolgt in Zoll"
 type: docs
 weight: 120
 url: /de/net/aspose.svg.drawing/unittype/in/
 ---
 ## UnitType.In field
 
-Die Messung erfolgt in Zoll
+Messung ist in Zoll
 
 ```csharp
 public static readonly UnitType In;
@@ -17,7 +17,5 @@ public static readonly UnitType In;
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

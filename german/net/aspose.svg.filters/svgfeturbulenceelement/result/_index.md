@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Result
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFETurbulenceElement eigendom. Entspricht dem Attribut Ergebnis des angegebenen FilterElements.
+title: "SVGFETurbulenceElement.Result"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFETurbulenceElement Result Eigenschaft. Entspricht dem Attribut result im angegebenen Filter-Element"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.filters/svgfeturbulenceelement/result/
 ---
 ## SVGFETurbulenceElement.Result property
 
-Entspricht dem Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Entspricht dem Attribut ‘result’ im angegebenen ‘filter’-Element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „Ergebnis“ des angegebenen „Filter“-Elements.
+Das Attribut ‘result’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFETurbulenceElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

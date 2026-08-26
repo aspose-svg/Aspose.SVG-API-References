@@ -1,14 +1,14 @@
 ---
-title: UnitType.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType methode. Gibt a zurückString die diese Instanz darstellt.
+title: "UnitType.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType ToString Methode. Gibt einen String zurück, der diese Instanz darstellt"
 type: docs
 weight: 330
 url: /de/net/aspose.svg.drawing/unittype/tostring/
 ---
 ## UnitType.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IWindow.Top
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IWindow eigendom. Das oberste IDLAttribut des WindowObjekts eines Dokuments in einem BrowsingKontext b muss das WindowProxyObjekt seines TopLevelBrowsingKontexts zurückgeben das sein eigenes WindowProxyObjekt wäre wenn es selbst ein TopLevelBrowsingKontext wäre wenn es hat ein oder sein eigenes WindowProxyObjekt z. B. wenn es sich um einen getrennten verschachtelten BrowsingKontext handelt.
+title: "IWindow.Top"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IWindow Top-Eigenschaft. Das top-IDL-Attribut des Window-Objekts eines Dokuments in einem Browsing-Kontext b muss das WindowProxy-Objekt seines Top-Level-Browsing-Kontexts zurückgeben, das sein eigenes WindowProxy-Objekt wäre, wenn es selbst ein Top-Level-Browsing-Kontext ist und eines hat, oder andernfalls sein eigenes WindowProxy-Objekt, z. B. wenn es ein losgelöster verschachtelter Browsing-Kontext ist."
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.svg.window/iwindow/top/
 ---
 ## IWindow.Top property
 
-Das oberste IDL-Attribut des Window-Objekts eines Dokuments in einem Browsing-Kontext b muss das WindowProxy-Objekt seines Top-Level-Browsing-Kontexts zurückgeben (das sein eigenes WindowProxy-Objekt wäre, wenn es selbst ein Top-Level-Browsing-Kontext wäre), wenn es hat ein oder sein eigenes WindowProxy-Objekt (z. B. wenn es sich um einen getrennten verschachtelten Browsing-Kontext handelt).
+Das top-IDL-Attribut des Window-Objekts eines Dokuments in einem Browsing‑Kontext b muss das WindowProxy-Objekt seines Top‑Level‑Browsing‑Kontexts zurückgeben (was sein eigenes WindowProxy-Objekt wäre, wenn es selbst ein Top‑Level‑Browsing‑Kontext wäre), falls ein solches existiert, sonst sein eigenes WindowProxy-Objekt (z. B. wenn es ein losgelöster verschachtelter Browsing‑Kontext war).
 
 ```csharp
 public IWindow Top { get; }
@@ -17,7 +17,5 @@ public IWindow Top { get; }
 ### Siehe auch
 
 * interface [IWindow](../)
-* namensraum [Aspose.Svg.Window](../../iwindow/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

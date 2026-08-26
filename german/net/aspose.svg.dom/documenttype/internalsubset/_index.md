@@ -1,27 +1,25 @@
 ---
-title: DocumentType.InternalSubset
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DocumentType eigendom. Die interne Teilmenge als Zeichenfolge oder null wenn keine vorhanden ist.
+title: "DocumentType.InternalSubset"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DocumentType InternalSubset-Eigenschaft. Das interne Subset als Zeichenkette oder null, falls keines vorhanden ist."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom/documenttype/internalsubset/
 ---
 ## DocumentType.InternalSubset property
 
-Die interne Teilmenge als Zeichenfolge oder null, wenn keine vorhanden ist.
+Das interne Subset als Zeichenkette, oder null, falls keines vorhanden ist.
 
 ```csharp
 public string InternalSubset { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die interne Teilmenge.
+Das interne Subset.
 
 ### Siehe auch
 
 * class [DocumentType](../)
-* namensraum [Aspose.Svg.Dom](../../documenttype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

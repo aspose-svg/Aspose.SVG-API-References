@@ -1,21 +1,19 @@
 ---
-title: Aspose.Svg.Collections
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Die Aspose.Svg.Collections Namespace besteht aus Klassen zum Darstellen Speichern und Bearbeiten von Knoten und Elementen.
+title: "Aspose.Svg.Collections"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Der Aspose.Svg.Collections-Namespace besteht aus Klassen, um Knoten und Elemente zu repräsentieren, zu speichern und zu manipulieren."
 type: docs
-weight: 20
+weight: 30
 url: /de/net/aspose.svg.collections/
 ---
-Die **Aspose.Svg.Collections** Namespace besteht aus Klassen zum Darstellen, Speichern und Bearbeiten von Knoten und Elementen.
+Der **Aspose.Svg.Collections** Namensraum besteht aus Klassen, die Knoten und Elemente darstellen, speichern und manipulieren.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [DOMTokenList](./domtokenlist/) | Die Klasse DOMTokenList repräsentiert einen Satz von durch Leerzeichen getrennten Token. Es wird wie bei JavaScript-Array-Objekten beginnend mit 0 indiziert. Bei DOMTokenList wird immer zwischen Groß- und Kleinschreibung unterschieden. |
-| [HTMLCollection](./htmlcollection/) | Die[`HTMLCollection`](../aspose.svg.collections/htmlcollection/) stellt eine generische Sammlung von dar[`Element`](../aspose.svg.dom/element/) . |
-| [NamedNodeMap](./namednodemap/) | Stellt Sammlungen von Attributen dar, auf die über den Namen zugegriffen werden kann. |
+| [DOMTokenList](./domtokenlist/) | Die DOMTokenList-Klasse stellt eine Menge von durch Leerzeichen getrennten Tokens dar. Sie ist ab Index 0 indiziert, wie bei JavaScript-Array-Objekten. DOMTokenList ist stets groß-/kleinschreibungssensitiv. |
+| [HTMLCollection](./htmlcollection/) | Die [`HTMLCollection`](../aspose.svg.collections/htmlcollection/) stellt eine generische Sammlung von [`Element`](../aspose.svg.dom/element/) dar. |
+| [NamedNodeMap](./namednodemap/) | Stellt Sammlungen von Attributen dar, die über ihren Namen zugänglich sind. |
 | [NodeList](./nodelist/) | Die NodeList bietet die Abstraktion einer geordneten Sammlung von Knoten, ohne zu definieren oder einzuschränken, wie diese Sammlung implementiert wird. |
-| [SVGListBase&lt;T&gt;](./svglistbase-1/) | Diese Schnittstelle definiert eine Basisliste aller SVG-Listen. |
-
-
+| [SVGListBase<T>](./svglistbase-1/) | Dieses Interface definiert eine Basisliste aller SVG-Listen. |

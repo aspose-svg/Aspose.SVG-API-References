@@ -1,14 +1,14 @@
 ---
-title: Color.Blue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color eigendom. Repräsentiert die blaue Komponente der Farbe.
+title: "Color.Blue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color Blue Eigenschaft. Stellt die blaue Komponente der Farbe dar."
 type: docs
 weight: 250
 url: /de/net/aspose.svg.drawing/color/blue/
 ---
 ## Color.Blue property
 
-Repräsentiert die blaue Komponente der Farbe.
+Stellt die Blau-Komponente der Farbe dar.
 
 ```csharp
 public float Blue { get; }
@@ -17,7 +17,5 @@ public float Blue { get; }
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

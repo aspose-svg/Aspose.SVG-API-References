@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.SetAuto
-second_title: Aspose.SVG für .NET-API-Referenz
-description: LengthOrAuto methode. Setzt den Container auf den Zustand auto zurück.
+title: "LengthOrAuto.SetAuto"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "LengthOrAuto SetAuto-Methode. Setzt den Container auf den automatischen Zustand zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.drawing/lengthorauto/setauto/
 ---
 ## LengthOrAuto.SetAuto method
 
-Setzt den Container auf den Zustand „auto“ zurück.
+Setzt den Container auf den Zustand 'auto' zurück.
 
 ```csharp
 public void SetAuto()
@@ -17,7 +17,5 @@ public void SetAuto()
 ### Siehe auch
 
 * class [LengthOrAuto](../)
-* namensraum [Aspose.Svg.Drawing](../../lengthorauto/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface IImageTraceSmoother
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.ImageVectorization.IImageTraceSmoother koppel. Die IImageTraceSmootherSchnittstelle ist für die Glättung der Ablaufverfolgung verantwortlich.
+title: "IImageTraceSmoother Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.ImageVectorization.IImageTraceSmoother Schnittstelle. Die IImageTraceSmoother Schnittstelle ist für das Glätten von Spuren verantwortlich."
 type: docs
-weight: 2100
+weight: 4170
 url: /de/net/aspose.svg.imagevectorization/iimagetracesmoother/
 ---
 ## IImageTraceSmoother interface
 
-Die IImageTraceSmoother-Schnittstelle ist für die Glättung der Ablaufverfolgung verantwortlich.
+Die IImageTraceSmoother Schnittstelle ist dafür verantwortlich, die Spur zu glätten.
 
 ```csharp
 public interface IImageTraceSmoother
@@ -18,11 +18,9 @@ public interface IImageTraceSmoother
 
 | Name | Beschreibung |
 | --- | --- |
-| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth/)(IEnumerable&lt;PointF&gt;) | Glättet die Spur. |
+| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth/)(*IEnumerable&lt;PointF&gt;*) | Glättet die Spur. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

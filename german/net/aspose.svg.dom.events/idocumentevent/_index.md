@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentEvent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Events.IDocumentEvent koppel. DieIDocumentEvent Schnittstelle bietet einen Mechanismus mit dem der Benutzer eine erstellen kannEvent eines Typs der von der Implementierung unterstützt wird.
+title: "IDocumentEvent‑Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Events.IDocumentEvent‑Schnittstelle. Die IDocumentEvent‑Schnittstelle bietet einen Mechanismus, mit dem der Benutzer ein Ereignis eines von der Implementierung unterstützten Typs erstellen kann."
 type: docs
-weight: 940
+weight: 2940
 url: /de/net/aspose.svg.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface
 
-Die`IDocumentEvent` Schnittstelle bietet einen Mechanismus, mit dem der Benutzer eine erstellen kann[`Event`](../event/) eines Typs, der von der Implementierung unterstützt wird.
+Die `IDocumentEvent`‑Schnittstelle bietet einen Mechanismus, mit dem der Benutzer ein [`Event`](../event/) eines von der Implementierung unterstützten Typs erstellen kann.
 
 ```csharp
 public interface IDocumentEvent
@@ -18,15 +18,13 @@ public interface IDocumentEvent
 
 | Name | Beschreibung |
 | --- | --- |
-| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(string) | Erstellt eine[`Event`](../event/) eines Typs, der von der Implementierung unterstützt wird. |
+| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(*string*) | Erstellt ein [`Event`](../event/) eines von der Implementierung unterstützten Typs. |
 
-### Bemerkungen
+## Hinweise
 
-Es wird erwartet, dass die`IDocumentEvent` Schnittstelle wird auf demselben Objekt implementiert, das the implementiert[`Document`](../../aspose.svg.dom/document/) -Schnittstelle in einer Implementierung, die das Ereignismodell unterstützt.
+Es wird erwartet, dass die `IDocumentEvent`‑Schnittstelle auf demselben Objekt implementiert wird, das die [`Document`](../../aspose.svg.dom/document/)‑Schnittstelle in einer Implementierung, die das Ereignismodell unterstützt, implementiert.
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

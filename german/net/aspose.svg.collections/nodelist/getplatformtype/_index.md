@@ -1,14 +1,14 @@
 ---
-title: NodeList.GetPlatformType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NodeList methode. Diese Methode wird zum Abrufen des ECMAScriptObjekts verwendetType .
+title: "NodeList.GetPlatformType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NodeList GetPlatformType-Methode. Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.collections/nodelist/getplatformtype/
 ---
 ## NodeList.GetPlatformType method
 
-Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType .
+Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen.
 
 ```csharp
 public override Type GetPlatformType()
@@ -16,12 +16,10 @@ public override Type GetPlatformType()
 
 ### Rückgabewert
 
-Das ECMAScript-ObjektType .
+Der ECMAScript-Objekttyp.
 
 ### Siehe auch
 
 * class [NodeList](../)
-* namensraum [Aspose.Svg.Collections](../../nodelist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

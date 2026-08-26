@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.BackgroundColor
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ImageVectorizerConfiguration eigendom. Ruft die Hintergrundfarbe ab oder legt sie fest. Der Standardwert ist transparentes Weiß.
+title: "ImageVectorizerConfiguration.BackgroundColor"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ImageVectorizerConfiguration BackgroundColor property. Liest oder setzt die Hintergrundfarbe. Standardwert ist transparentes Weiß."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/backgroundcolor/
 ---
 ## ImageVectorizerConfiguration.BackgroundColor property
 
-Ruft die Hintergrundfarbe ab oder legt sie fest. Der Standardwert ist transparentes Weiß.
+Liest oder setzt die Hintergrundfarbe. Der Standardwert ist transparentes Weiß.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -18,7 +18,5 @@ public Color BackgroundColor { get; set; }
 
 * class [Color](../../../aspose.svg.drawing/color/)
 * class [ImageVectorizerConfiguration](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

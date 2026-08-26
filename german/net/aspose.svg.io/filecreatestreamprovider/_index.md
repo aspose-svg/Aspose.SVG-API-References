@@ -1,47 +1,45 @@
 ---
-title: Class FileCreateStreamProvider
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.IO.FileCreateStreamProvider klas. steht fürFileStream Implementierung zum Bereitstellen von Streams für die Rendergeräte.
+title: "FileCreateStreamProvider Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.IO.FileCreateStreamProvider Klasse. Stellt eine FileStream‑Implementierung bereit, um Streams für die Rendering‑Geräte bereitzustellen."
 type: docs
-weight: 1910
+weight: 4020
 url: /de/net/aspose.svg.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class
 
-steht fürFileStream Implementierung zum Bereitstellen von Streams für die Rendergeräte.
+Represents FileStream implementation for providing streams to the rendering devices.
 
 ```csharp
 public class FileCreateStreamProvider : ICreateStreamProvider
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor)() | Initialisiert eine neue Instanz von`FileCreateStreamProvider` Klasse. |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_1)(string) | Initialisiert eine neue Instanz von`FileCreateStreamProvider` Klasse. |
-| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_2)(string, string) | Initialisiert eine neue Instanz von`FileCreateStreamProvider` Klasse. |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor)() | Initialisiert eine neue Instanz der Klasse `FileCreateStreamProvider`. |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_1)(*string*) | Initialisiert eine neue Instanz der Klasse `FileCreateStreamProvider`. |
+| [FileCreateStreamProvider](filecreatestreamprovider/#constructor_2)(*string, string*) | Initialisiert eine neue Instanz der Klasse `FileCreateStreamProvider`. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Directory](../../aspose.svg.io/filecreatestreamprovider/directory/) { get; set; } | Ruft das Verzeichnis ab oder legt es fest. |
-| [Name](../../aspose.svg.io/filecreatestreamprovider/name/) { get; set; } | Ruft den Namen ab oder legt ihn fest. |
+| [Directory](../../aspose.svg.io/filecreatestreamprovider/directory/) { get; set; } | Liest oder setzt das Verzeichnis. |
+| [Name](../../aspose.svg.io/filecreatestreamprovider/name/) { get; set; } | Liest oder setzt den Namen. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose/)() | Führt anwendungsdefinierte Aufgaben aus, die mit dem Freigeben, Freigeben oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
-| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream)(string, string) | Stellt einen Stream zum Rendern bereit. |
-| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream_1)(string, string, int) | Stellt einen Stream zum Rendern bereit. |
-| [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream/)(Stream) | Gibt den Stream frei. |
+| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose/)() | Führt anwendungsspezifische Aufgaben aus, die mit dem Freigeben, Freisetzen oder Zurücksetzen nicht verwalteter Ressourcen verbunden sind. |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream)(*string, string*) | Stellt einen Stream für das Rendering bereit. |
+| [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream/#getstream_1)(*string, string, int*) | Stellt einen Stream für das Rendering bereit. |
+| [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream/)(*Stream*) | Gibt den Stream frei. |
 
 ### Siehe auch
 
 * interface [ICreateStreamProvider](../icreatestreamprovider/)
-* namensraum [Aspose.Svg.IO](../../aspose.svg.io/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

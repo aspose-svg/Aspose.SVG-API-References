@@ -1,7 +1,7 @@
 ---
-title: Frequency.op_GreaterThan
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Frequency methode. Implementiert den Operator .
+title: "Frequency.op_GreaterThan"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Frequency op_GreaterThan-Methode. Implementiert den Operator."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.drawing/frequency/op_greaterthan/
@@ -27,13 +27,11 @@ Das Ergebnis des Operators.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Argumente haben verschiedene Typen |
+| ArgumentException | Argumente haben unterschiedliche Typen |
 | ArgumentNullException | Ein Argument ist null |
 
 ### Siehe auch
 
 * class [Frequency](../)
-* namensraum [Aspose.Svg.Drawing](../../frequency/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

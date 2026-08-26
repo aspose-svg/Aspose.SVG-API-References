@@ -1,14 +1,14 @@
 ---
-title: TypeInfo.IsDerivedFrom
-second_title: Aspose.SVG für .NET-API-Referenz
-description: TypeInfo methode. Diese Methode gibt zurück wenn es eine Ableitung zwischen der Referenztypdefinition dh der TypeInfo auf der die Methode aufgerufen wird und der anderen Typdefinition dh derjenigen die als Parameter übergeben wird gibt.
+title: "TypeInfo.IsDerivedFrom"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "TypeInfo IsDerivedFrom Methode. Diese Methode gibt zurück, ob eine Ableitung zwischen der Referenz‑Typdefinition, d.h. dem TypeInfo, auf dem die Methode aufgerufen wird, und der anderen Typdefinition, d.h. der als Parameter übergebenen, besteht."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom/typeinfo/isderivedfrom/
 ---
 ## TypeInfo.IsDerivedFrom method
 
-Diese Methode gibt zurück, wenn es eine Ableitung zwischen der Referenztypdefinition, dh der TypeInfo, auf der die Methode aufgerufen wird, und der anderen Typdefinition, dh derjenigen, die als Parameter übergeben wird, gibt.
+Diese Methode gibt zurück, ob eine Ableitung zwischen der Referenztypdefinition, d.h. dem TypeInfo, auf dem die Methode aufgerufen wird, und der anderen Typdefinition, d.h. der als Parameter übergebenen, besteht.
 
 ```csharp
 public bool IsDerivedFrom(string typeNamespaceArg, string typeNameArg, ulong derivationMethod)
@@ -16,18 +16,16 @@ public bool IsDerivedFrom(string typeNamespaceArg, string typeNameArg, ulong der
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| typeNamespaceArg | String | den Namensraum der anderen Typdefinition |
+| typeNamespaceArg | String | der Namensraum der anderen Typdefinition |
 | typeNameArg | String | der Name der anderen Typdefinition. |
-| derivationMethod | UInt64 | die Art der Ableitung und die Bedingungen, die zwischen zwei Typen angewendet werden, wie in der Liste der Konstanten beschrieben, die in dieser Schnittstelle bereitgestellt werden. |
+| derivationMethod | UInt64 | der Typ der Ableitung und die zwischen zwei Typen angewendeten Bedingungen, wie in der Liste der Konstanten dieser Schnittstelle beschrieben. |
 
 ### Rückgabewert
 
-Wenn das Schema des Dokuments eine DTD ist oder dem Dokument kein Schema zugeordnet ist, gibt diese Methode immer false zurück. Wenn das Schema des Dokuments ein XML-Schema ist, wird die Methode wahr, wenn die Referenztypdefinition gemäß dem Ableitungsparameter von der anderen Typdefinition abgeleitet wird. Wenn der Wert des Parameters 0 ist (für den Parameter derivationMethod ist kein Bit auf 1 gesetzt), gibt die Methode wahr zurück, wenn die andere Typdefinition durch Rekursion einer beliebigen Kombination aus {Basistypdefinition}, {Elementtypdefinition} erreicht werden kann. , oder {member type definitions} aus der Referenztypdefinition.
+Wenn das Schema des Dokuments ein DTD ist oder kein Schema dem Dokument zugeordnet ist, gibt diese Methode stets false zurück. Wenn das Schema des Dokuments ein XML Schema ist, gibt die Methode true zurück, wenn die Referenz‑Typdefinition gemäß dem Ableitungsparameter von der anderen Typdefinition abgeleitet ist. Ist der Parameterwert 0 (kein Bit ist für den Parameter derivationMethod auf 1 gesetzt), gibt die Methode true zurück, wenn die andere Typdefinition durch Rekursion einer beliebigen Kombination aus {base type definition}, {item type definition} oder {member type definitions} von der Referenz‑Typdefinition aus erreicht werden kann.
 
 ### Siehe auch
 
 * class [TypeInfo](../)
-* namensraum [Aspose.Svg.Dom](../../typeinfo/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: IBrowsingContext.ActiveDocument
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IBrowsingContext eigendom. Ruft das aktuelle Dokument ab.
+title: "IBrowsingContext.ActiveDocument"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IBrowsingContext ActiveDocument Eigenschaft. Gibt das aktuelle Dokument zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/ibrowsingcontext/activedocument/
 ---
 ## IBrowsingContext.ActiveDocument property
 
-Ruft das aktuelle Dokument ab.
+Liefert das aktuelle Dokument.
 
 ```csharp
 public Document ActiveDocument { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das aktive Dokument.
 
@@ -22,7 +22,5 @@ Das aktive Dokument.
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* namensraum [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

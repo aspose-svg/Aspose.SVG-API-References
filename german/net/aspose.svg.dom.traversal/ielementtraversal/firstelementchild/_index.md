@@ -1,28 +1,26 @@
 ---
-title: IElementTraversal.FirstElementChild
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IElementTraversal eigendom. Gibt den ersten untergeordneten Elementknoten dieses Elements zurück. null wenn dieses Element keine untergeordneten Elemente hat.
+title: "IElementTraversal.FirstElementChild"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IElementTraversal FirstElementChild Eigenschaft. Gibt den ersten Kindelementknoten dieses Elements zurück. null, wenn dieses Element keine Kindelemente hat."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.traversal/ielementtraversal/firstelementchild/
 ---
 ## IElementTraversal.FirstElementChild property
 
-Gibt den ersten untergeordneten Elementknoten dieses Elements zurück. null, wenn dieses Element keine untergeordneten Elemente hat.
+Gibt den ersten Kind-Elementknoten dieses Elements zurück. null, wenn dieses Element keine Kindelemente hat.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das erste untergeordnete Element.
+Das erste Kindelement.
 
 ### Siehe auch
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* namensraum [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

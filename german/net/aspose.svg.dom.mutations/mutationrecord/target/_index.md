@@ -1,20 +1,20 @@
 ---
-title: MutationRecord.Target
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationRecord eigendom. Gibt je nach Typ den von der Mutation betroffenen Knoten zurück. Bei Attributen ist es das Element dessen Attribut sich geändert hat. Für characterData ist es der CharacterDataKnoten. Bei childList ist es der Knoten dessen Kinder sich geändert haben.
+title: "MutationRecord.Target"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationRecord Target-Eigenschaft. Gibt den Knoten zurück, den die Mutation je nach Typ betroffen hat. Für Attribute ist es das Element, dessen Attribut geändert wurde. Für characterData ist es der CharacterData-Knoten. Für childList ist es der Knoten, dessen Kinder geändert wurden."
 type: docs
 weight: 80
 url: /de/net/aspose.svg.dom.mutations/mutationrecord/target/
 ---
 ## MutationRecord.Target property
 
-Gibt je nach Typ den von der Mutation betroffenen Knoten zurück. Bei „Attributen“ ist es das Element, dessen Attribut sich geändert hat. Für "characterData" ist es der CharacterData-Knoten. Bei „childList“ ist es der Knoten, dessen Kinder sich geändert haben.
+Gibt den Knoten zurück, den die Mutation betroffen hat, abhängig vom Typ. Für "attributes" ist es das Element, dessen Attribut geändert wurde. Für "characterData" ist es der CharacterData‑Knoten. Für "childList" ist es der Knoten, dessen Kinder geändert wurden.
 
 ```csharp
 public Node Target { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Ziel.
 
@@ -22,7 +22,5 @@ Das Ziel.
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

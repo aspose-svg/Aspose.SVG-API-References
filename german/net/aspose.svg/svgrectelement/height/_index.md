@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Height
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGRectElement eigendom. Entspricht dem Attribut height auf dem gegebenen rectElement.
+title: "SVGRectElement.Height"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGRectElement Height-Eigenschaft. Entspricht dem Attribut height im angegebenen rect-Element."
 type: docs
 weight: 10
 url: /de/net/aspose.svg/svgrectelement/height/
 ---
 ## SVGRectElement.Height property
 
-Entspricht dem Attribut 'height' auf dem gegebenen 'rect'-Element.
+Entspricht dem Attribut ‘height’ des angegebenen ‘rect’-Elements.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'height' des gegebenen 'rect'-Elements.
+Das Attribut ‘height’ des angegebenen ‘rect’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* namensraum [Aspose.Svg](../../svgrectelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

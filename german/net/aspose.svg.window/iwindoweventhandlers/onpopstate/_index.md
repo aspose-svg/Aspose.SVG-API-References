@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnPopState
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IWindowEventHandlers evenement. Ruft Ereignishandler ab oder legt es fest
+title: "IWindowEventHandlers.OnPopState"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IWindowEventHandlers OnPopState-Ereignis. Gibt den Ereignis-Handler zurück oder legt ihn fest."
 type: docs
 weight: 100
 url: /de/net/aspose.svg.window/iwindoweventhandlers/onpopstate/
 ---
 ## IWindowEventHandlers.OnPopState event
 
-Ruft Ereignishandler ab oder legt es fest
+Liest oder setzt den Ereignis‑Handler
 
 ```csharp
 public event DOMEventHandler OnPopState;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnPopState;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* namensraum [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

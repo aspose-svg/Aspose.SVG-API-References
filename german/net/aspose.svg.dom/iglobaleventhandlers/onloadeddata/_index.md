@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnLoadedData
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IGlobalEventHandlers evenement. Ruft den Ereignishandler für das OnLoadedDataEreignis ab oder legt ihn fest.
+title: "IGlobalEventHandlers.OnLoadedData"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IGlobalEventHandlers OnLoadedData-Ereignis. Ruft den Ereignishandler ab oder legt ihn fest für das OnLoadedData-Ereignis"
 type: docs
 weight: 210
 url: /de/net/aspose.svg.dom/iglobaleventhandlers/onloadeddata/
 ---
 ## IGlobalEventHandlers.OnLoadedData event
 
-Ruft den Ereignishandler für das OnLoadedData-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnLoadedData-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnLoadedData;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoadedData;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namensraum [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

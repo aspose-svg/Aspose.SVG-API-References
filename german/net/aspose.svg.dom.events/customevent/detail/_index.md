@@ -1,27 +1,25 @@
 ---
-title: CustomEvent.Detail
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CustomEvent eigendom. Ruft die benutzerdefinierten Daten ab.
+title: "CustomEvent.Detail"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CustomEvent Detail Eigenschaft. Gibt die benutzerdefinierten Daten zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.events/customevent/detail/
 ---
 ## CustomEvent.Detail property
 
-Ruft die benutzerdefinierten Daten ab.
+Liest die benutzerdefinierten Daten.
 
 ```csharp
 public object Detail { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Detail.
 
 ### Siehe auch
 
 * class [CustomEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../customevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

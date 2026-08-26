@@ -1,28 +1,26 @@
 ---
-title: Element.SetAttribute
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element methode. Fügt ein neues Attribut hinzu. Wenn ein Attribut mit diesem Namen bereits im Element vorhanden ist wird sein Wert auf den Wert parameter geändert.
+title: "Element.SetAttribute"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element SetAttribute-Methode. Fügt ein neues Attribut hinzu. Wenn bereits ein Attribut mit diesem Namen im Element vorhanden ist, wird sein Wert auf den des Wertparameters geändert."
 type: docs
 weight: 400
 url: /de/net/aspose.svg.dom/element/setattribute/
 ---
 ## Element.SetAttribute method
 
-Fügt ein neues Attribut hinzu. Wenn ein Attribut mit diesem Namen bereits im Element vorhanden ist, wird sein Wert auf den Wert parameter geändert.
+Fügt ein neues Attribut hinzu. Wenn bereits ein Attribut mit diesem Namen im Element vorhanden ist, wird sein Wert auf den des value‑Parameters geändert.
 
 ```csharp
-public void SetAttribute(string name, string value)
+public void SetAttribute(string qualifiedName, string value)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| name | String | Der Attributname. |
+| qualifiedName | String | Der Attributname. |
 | value | String | Der Wert. |
 
 ### Siehe auch
 
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

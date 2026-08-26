@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.GetComputedTextLength
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGTextContentElement methode. Die Gesamtsumme aller Fortschrittswerte aus der Wiedergabe aller Zeichen in diesem Element einschließlich des Fortschrittswerts auf den Glyphen horizontal oder vertikal der Auswirkung der Eigenschaften Kerning Buchstabenabstand und Wort Spacing und Anpassungen aufgrund der Attribute dx und dy auf tspanElementen. Für NichtRenderingUmgebungen muss der Benutzeragent angemessene Annahmen über Glyphenmetriken treffen.
+title: "SVGTextContentElement.GetComputedTextLength"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGTextContentElement GetComputedTextLength method. Die Gesamtsumme aller Vorwärtswerte, die beim Rendern aller Zeichen innerhalb dieses Elements entstehen, einschließlich des Vorwärtswerts der Glyphen horizontal oder vertikal, der Wirkung der Eigenschaften kerning, letter-spacing und word-spacing sowie Anpassungen aufgrund der Attribute dx und dy in tspan-Elementen. Für nicht-rendernde Umgebungen muss der User-Agent vernünftige Annahmen über Glyphenmetriken treffen."
 type: docs
 weight: 30
 url: /de/net/aspose.svg/svgtextcontentelement/getcomputedtextlength/
 ---
 ## SVGTextContentElement.GetComputedTextLength method
 
-Die Gesamtsumme aller Fortschrittswerte aus der Wiedergabe aller Zeichen in diesem Element, einschließlich des Fortschrittswerts auf den Glyphen (horizontal oder vertikal), der Auswirkung der Eigenschaften „Kerning“, „Buchstabenabstand“ und „Wort- Spacing' und Anpassungen aufgrund der Attribute 'dx' und 'dy' auf 'tspan'-Elementen. Für Nicht-Rendering-Umgebungen muss der Benutzeragent angemessene Annahmen über Glyphenmetriken treffen.
+Die Gesamtsumme aller Vorwärtswerte, die beim Rendern aller Zeichen innerhalb dieses Elements entstehen, einschließlich des Vorwärtswerts der Glyphen (horizontal oder vertikal), der Wirkung der Eigenschaften ‘kerning’, ‘letter-spacing’ und ‘word-spacing’ sowie der Anpassungen durch die Attribute ‘dx’ und ‘dy’ an ‘tspan’-Elementen. Für nicht rendernde Umgebungen muss der User-Agent vernünftige Annahmen über Glyphenmetriken treffen.
 
 ```csharp
 public float GetComputedTextLength()
@@ -16,12 +16,10 @@ public float GetComputedTextLength()
 
 ### Rückgabewert
 
-Die Textfortschrittsentfernung.
+Der Textvorwärtsabstand.
 
 ### Siehe auch
 
 * class [SVGTextContentElement](../)
-* namensraum [Aspose.Svg](../../svgtextcontentelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

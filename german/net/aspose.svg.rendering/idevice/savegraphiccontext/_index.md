@@ -1,14 +1,14 @@
 ---
-title: IDevice.SaveGraphicContext
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDevice methode. Schiebt eine Kopie des gesamten Grafikkontexts auf den Stack.
+title: "IDevice.SaveGraphicContext"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDevice SaveGraphicContext-Methode. Schiebt eine Kopie des gesamten Grafik-Kontexts auf den Stapel."
 type: docs
 weight: 200
 url: /de/net/aspose.svg.rendering/idevice/savegraphiccontext/
 ---
 ## IDevice.SaveGraphicContext method
 
-Schiebt eine Kopie des gesamten Grafikkontexts auf den Stack.
+Schiebt eine Kopie des gesamten Grafik-Kontexts auf den Stapel.
 
 ```csharp
 public void SaveGraphicContext()
@@ -17,7 +17,5 @@ public void SaveGraphicContext()
 ### Siehe auch
 
 * interface [IDevice](../)
-* namensraum [Aspose.Svg.Rendering](../../idevice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

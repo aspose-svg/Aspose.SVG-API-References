@@ -1,14 +1,14 @@
 ---
-title: Event.InitEvent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Event methode. DieInitEvent Methode wird verwendet um den Wert von an zu initialisierenEvent erstellt durch the IDocumentEvent Schnittstelle.
+title: "Event.InitEvent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Event InitEvent Methode. Die InitEvent-Methode wird verwendet, um den Wert eines über die IDocumentEvent-Schnittstelle erstellten Ereignisses zu initialisieren."
 type: docs
 weight: 110
 url: /de/net/aspose.svg.dom.events/event/initevent/
 ---
 ## Event.InitEvent method
 
-Die`InitEvent` -Methode wird verwendet, um den Wert von an zu initialisieren[`Event`](../) erstellt durch the [`IDocumentEvent`](../../idocumentevent/) Schnittstelle.
+Die `InitEvent`-Methode wird verwendet, um den Wert eines [`Event`](../) zu initialisieren, das über die [`IDocumentEvent`](../../idocumentevent/) Schnittstelle erstellt wurde.
 
 ```csharp
 public void InitEvent(string type, bool bubbles, bool cancelable)
@@ -17,17 +17,15 @@ public void InitEvent(string type, bool bubbles, bool cancelable)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | type | String | Der Ereignistyp. |
-| bubbles | Boolean | wenn eingestellt`WAHR` [Blasen]. |
-| cancelable | Boolean | wenn eingestellt`WAHR` [kündbar]. |
+| bubbles | Boolean | wenn auf `true` gesetzt [bubbles]. |
+| cancelable | Boolean | wenn auf `true` gesetzt [cancelable]. |
 
-### Bemerkungen
+## Hinweise
 
-Diese Methode darf nur aufgerufen werden, bevor das Event über die versendet wurde[`DispatchEvent`](../../ieventtarget/dispatchevent/) Methode, obwohl sie während dieser Phase bei Bedarf mehrmals aufgerufen werden kann. Wenn sie mehrmals aufgerufen wird, hat der letzte Aufruf Vorrang. Wenn sie von einer Unterklasse der Event-Schnittstelle aufgerufen wird, werden nur die in der initEvent-Methode angegebenen Werte geändert, alle anderen Attribute bleiben unverändert.
+Diese Methode darf nur aufgerufen werden, bevor das Event über die [`DispatchEvent`](../../ieventtarget/dispatchevent/)‑Methode ausgelöst wurde, obwohl sie bei Bedarf während dieser Phase mehrfach aufgerufen werden kann. Bei mehrfachen Aufrufen hat der letzte Aufruf Vorrang. Wird sie von einer Unterklasse der Event‑Schnittstelle aufgerufen, werden nur die im initEvent‑Methode angegebenen Werte geändert, alle anderen Attribute bleiben unverändert.
 
 ### Siehe auch
 
 * class [Event](../)
-* namensraum [Aspose.Svg.Dom.Events](../../event/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

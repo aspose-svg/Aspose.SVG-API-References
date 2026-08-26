@@ -1,7 +1,7 @@
 ---
-title: SVGAnimationElement.TargetElement
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGAnimationElement eigendom. Das Element das animiert wird.
+title: "SVGAnimationElement.TargetElement"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGAnimationElement TargetElement‑Eigenschaft. Das Element, das animiert wird"
 type: docs
 weight: 40
 url: /de/net/aspose.svg/svganimationelement/targetelement/
@@ -14,15 +14,13 @@ Das Element, das animiert wird.
 public SVGElement TargetElement { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Zielelement.
+Das Ziel‑Element.
 
 ### Siehe auch
 
 * class [SVGElement](../../svgelement/)
 * class [SVGAnimationElement](../)
-* namensraum [Aspose.Svg](../../svganimationelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

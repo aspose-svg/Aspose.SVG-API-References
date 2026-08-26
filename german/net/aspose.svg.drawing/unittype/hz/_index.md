@@ -1,14 +1,14 @@
 ---
-title: UnitType.Hz
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType veld. Die Messung erfolgt in Hertz.
+title: "UnitType.Hz"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType Hz Feld. Messung ist in Hertz"
 type: docs
 weight: 110
 url: /de/net/aspose.svg.drawing/unittype/hz/
 ---
 ## UnitType.Hz field
 
-Die Messung erfolgt in Hertz.
+Messung ist in Hertz.
 
 ```csharp
 public static readonly UnitType Hz;
@@ -17,7 +17,5 @@ public static readonly UnitType Hz;
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: IWindow.Location
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IWindow eigendom. Das Standortattribut der Fensterschnittstelle muss das Standortobjekt für das Dokument dieses Fensterobjekts zurückgeben.
+title: "IWindow.Location"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IWindow Location Eigenschaft. Das location-Attribut des Window-Interfaces muss das Location-Objekt für das Document dieses Window-Objekts zurückgeben."
 type: docs
-weight: 30
+weight: 40
 url: /de/net/aspose.svg.window/iwindow/location/
 ---
 ## IWindow.Location property
 
-Das Standortattribut der Fensterschnittstelle muss das Standortobjekt für das Dokument dieses Fensterobjekts zurückgeben.
+Das location-Attribut der Window-Schnittstelle muss das Location-Objekt für das Document dieses Window-Objekts zurückgeben.
 
 ```csharp
 public Location Location { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Ort.
 
@@ -22,7 +22,5 @@ Der Ort.
 
 * class [Location](../../location/)
 * interface [IWindow](../)
-* namensraum [Aspose.Svg.Window](../../iwindow/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

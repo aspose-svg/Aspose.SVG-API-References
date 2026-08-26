@@ -1,14 +1,14 @@
 ---
-title: DOMNoInterfaceObjectAttribute.DOMNoInterfaceObjectAttribute
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMNoInterfaceObjectAttribute constructeur. Default_Constructor
+title: "DOMNoInterfaceObjectAttribute"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMNoInterfaceObjectAttribute Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute constructor
 
-Default_Constructor
+Der Standard‑Konstruktor.
 
 ```csharp
 public DOMNoInterfaceObjectAttribute()
@@ -17,7 +17,5 @@ public DOMNoInterfaceObjectAttribute()
 ### Siehe auch
 
 * class [DOMNoInterfaceObjectAttribute](../)
-* namensraum [Aspose.Svg.Dom.Attributes](../../domnointerfaceobjectattribute/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

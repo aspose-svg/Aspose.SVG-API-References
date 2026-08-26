@@ -1,14 +1,14 @@
 ---
-title: SVGPreserveAspectRatio.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPreserveAspectRatio methode. Gibt a zurückString die diese Instanz darstellt.
+title: "SVGPreserveAspectRatio.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPreserveAspectRatio ToString Methode. Gibt einen String zurück, der diese Instanz repräsentiert"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.datatypes/svgpreserveaspectratio/tostring/
 ---
 ## SVGPreserveAspectRatio.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [SVGPreserveAspectRatio](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

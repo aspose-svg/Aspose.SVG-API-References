@@ -1,38 +1,36 @@
 ---
-title: Class SVGPathOptimizationOptions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Toolkit.Optimizers.SVGPathOptimizationOptions klas. SVGPathOptimizationOptions ist eine Klasse zum Speichern von Optionen zum Optimieren von Segmenten von SVGPfadelementen.
+title: "SVGPathOptimizationOptions Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Toolkit.Optimizers.SVGPathOptimizationOptions Klasse. SVGPathOptimizationOptions ist eine Klasse zum Speichern von Optionen zur Optimierung von Segmenten von SVG-Pfadelementen."
 type: docs
-weight: 3800
+weight: 5900
 url: /de/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions class
 
-SVGPathOptimizationOptions ist eine Klasse zum Speichern von Optionen zum Optimieren von Segmenten von SVG-Pfadelementen.
+SVGPathOptimizationOptions ist eine Klasse zum Speichern von Optionen für die Optimierung von Segmenten von SVG-Pfadelementen.
 
 ```csharp
 public class SVGPathOptimizationOptions
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | Initialisiert eine neue Instanz von`SVGPathOptimizationOptions` Klasse. |
+| [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | Initialisiert eine neue Instanz der `SVGPathOptimizationOptions` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ApplyTransforms](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/) { get; set; } | Ruft die Option zum Anwenden von Transformationen auf die Pfadsegmente ab oder legt sie fest. Es ist standardmäßig „false“. |
-| [ArcBuildingThreshold](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/) { get; set; } | Ruft den Parameterwert ab oder legt ihn fest, der als Schwellenwertfehler zum Ersetzen von Bézier-Segmenten durch Bogensegmente verwendet wird. Standardmäßig ist es „2.5“. |
-| [ArcBuildingTolerance](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/) { get; set; } | Ruft den Parameterwert ab oder legt ihn fest, der als Prozentsatz des Radius verwendet wird, um Bezier-Segmente durch Bogensegmente zu ersetzen. Er ist standardmäßig „0,5“. |
-| [FloatPrecision](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/) { get; set; } | Ruft die Option zum Runden eines Gleitkommawerts mit Float-Genauigkeit auf eine angegebene Anzahl von Nachkommastellen ab oder legt diese fest. Standardmäßig ist es „3“. |
-| [RemoveSpaceAfterFlags](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/) { get; set; } | Holt oder setzt die Option zum Entfernen von zusätzlichem Leerzeichen nach 'arcto'-Befehlsflags. Es ist standardmäßig „false“. |
+| [ApplyTransforms](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/) { get; set; } | Liest oder setzt die Option, Transformationen auf die Pfadsegmente anzuwenden. Der Standardwert ist 'false'. |
+| [ArcBuildingThreshold](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/) { get; set; } | Liest oder setzt den Parameterwert, der als Schwellenfehler für das Ersetzen von Bézier-Segmenten durch Bogensegmente verwendet wird. Der Standardwert ist '2.5'. |
+| [ArcBuildingTolerance](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/) { get; set; } | Liest oder setzt den Parameterwert, der als Prozentsatz des Radius für das Ersetzen von Bézier-Segmenten durch Bogensegmente verwendet wird. Der Standardwert ist '0.5'. |
+| [FloatPrecision](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/) { get; set; } | Liest oder setzt die Option, einen Gleitkommawert mit Fließkommapräzision auf eine angegebene Anzahl von Nachkommastellen zu runden. Der Standardwert ist '3'. |
+| [RemoveSpaceAfterFlags](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/) { get; set; } | Liest oder setzt die Option, zusätzlichen Abstand nach den 'arcto'-Befehlsflags zu entfernen. Der Standardwert ist 'false'. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: Color.GetHue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color methode. Gibt einen Farbton der Farbe zurück.
+title: "Color.GetHue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color GetHue-Methode. Gibt einen Farbton der Farbe zurück"
 type: docs
 weight: 330
 url: /de/net/aspose.svg.drawing/color/gethue/
@@ -16,12 +16,10 @@ public float GetHue()
 
 ### Rückgabewert
 
-Ein Farbton.
+Ein Farbton der Farbe.
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

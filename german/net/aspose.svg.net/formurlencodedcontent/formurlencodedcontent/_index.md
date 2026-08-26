@@ -1,14 +1,14 @@
 ---
-title: FormUrlEncodedContent.FormUrlEncodedContent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: FormUrlEncodedContent constructeur. Initialisiert eine neue Instanz vonFormUrlEncodedContent Klasse.
+title: "FormUrlEncodedContent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "FormUrlEncodedContent Konstruktor. Erstellt eine neue Instanz der FormUrlEncodedContent‑Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.net/formurlencodedcontent/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent constructor
 
-Initialisiert eine neue Instanz von[`FormUrlEncodedContent`](../) Klasse.
+Erstellt eine neue Instanz der [`FormUrlEncodedContent`](../) Klasse.
 
 ```csharp
 public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValueCollection)
@@ -21,7 +21,5 @@ public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValue
 ### Siehe auch
 
 * class [FormUrlEncodedContent](../)
-* namensraum [Aspose.Svg.Net](../../formurlencodedcontent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

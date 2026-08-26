@@ -1,14 +1,14 @@
 ---
-title: Enum SVGRenderingIntent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.SVGRenderingIntent opsomming. Die SVGRenderingIntentEnumeration definiert die Aufzählungsliste möglicher Werte für RenderingIntentAttribute oder Deskriptoren.
+title: "SVGRenderingIntent Enum"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.SVGRenderingIntent Enum. Die SVGRenderingIntent‑Aufzählung definiert die aufzählbare Liste möglicher Werte für rendering-intent‑Attribute oder -Deskriptoren."
 type: docs
-weight: 3430
+weight: 5500
 url: /de/net/aspose.svg/svgrenderingintent/
 ---
 ## SVGRenderingIntent enumeration
 
-Die SVGRenderingIntent-Enumeration definiert die Aufzählungsliste möglicher Werte für „Rendering-Intent“-Attribute oder -Deskriptoren.
+Die Aufzählung SVGRenderingIntent definiert die aufzählbare Liste möglicher Werte für ‘rendering-intent’-Attribute oder -Deskriptoren.
 
 ```csharp
 public enum SVGRenderingIntent
@@ -18,16 +18,14 @@ public enum SVGRenderingIntent
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| RENDERING_INTENT_UNKNOWN | `0` | Der Typ ist keiner der vordefinierten Typen. Es ist ungültig, einen neuen Wert dieses Typs zu definieren oder einen vorhandenen Wert auf diesen Typ umzustellen. |
-| RENDERING_INTENT_AUTO | `1` | Entspricht einem Wert von 'auto'. |
-| RENDERING_INTENT_PERCEPTUAL | `2` | Entspricht einem Wert von „Wahrnehmung“. |
-| RENDERING_INTENT_RELATIVE_COLORIMETRIC | `3` | Entspricht einem Wert von „relativ-farbmetrisch“. |
-| RENDERING_INTENT_SATURATION | `4` | Entspricht einem Wert von 'Sättigung'. |
-| RENDERING_INTENT_ABSOLUTE_COLORIMETRIC | `5` | Entspricht einem Wert von 'absolut-farbmetrisch'. |
+| RENDERING_INTENT_UNKNOWN | `0` | Der Typ ist keiner der vordefinierten Typen. Es ist ungültig, zu versuchen, einen neuen Wert dieses Typs zu definieren oder einen bestehenden Wert zu diesem Typ zu wechseln. |
+| RENDERING_INTENT_AUTO | `1` | Entspricht dem Wert 'auto'. |
+| RENDERING_INTENT_PERCEPTUAL | `2` | Entspricht dem Wert 'perceptual'. |
+| RENDERING_INTENT_RELATIVE_COLORIMETRIC | `3` | Entspricht dem Wert 'relative-colorimetric'. |
+| RENDERING_INTENT_SATURATION | `4` | Entspricht dem Wert 'saturation'. |
+| RENDERING_INTENT_ABSOLUTE_COLORIMETRIC | `5` | Entspricht dem Wert 'absolute-colorimetric'. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Count
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationObserverInit eigendom. Ruft die Anzahl der Schlüssel/WertPaare ab die in der enthalten sindMutationObserverInitSammlung.
+title: "MutationObserverInit.Count"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationObserverInit Count‑Eigenschaft. Gibt die Anzahl der Schlüssel/Wert‑Paare zurück, die in der MutationObserverInit‑Sammlung enthalten sind."
 type: docs
 weight: 80
 url: /de/net/aspose.svg.dom.mutations/mutationobserverinit/count/
 ---
 ## MutationObserverInit.Count property
 
-Ruft die Anzahl der Schlüssel/Wert-Paare ab, die in der enthalten sind[`MutationObserverInit`](../)Sammlung.
+Gibt die Anzahl der Schlüssel/Wert‑Paare zurück, die in der [`MutationObserverInit`](../)-Sammlung enthalten sind.
 
 ```csharp
 public int Count { get; }
@@ -17,7 +17,5 @@ public int Count { get; }
 ### Siehe auch
 
 * class [MutationObserverInit](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

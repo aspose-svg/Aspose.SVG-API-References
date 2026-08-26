@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.Clone
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GraphicContext methode. Erstellt eine neue Instanz einer GraphicContextKlasse mit denselben Eigenschaftswerten wie eine vorhandene Instanz.
+title: "GraphicContext.Clone"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GraphicContext Clone Methode. Erstellt eine neue Instanz der Klasse GraphicContext mit denselben Eigenschaftswerten wie eine vorhandene Instanz."
 type: docs
 weight: 170
 url: /de/net/aspose.svg.rendering/graphiccontext/clone/
 ---
 ## GraphicContext.Clone method
 
-Erstellt eine neue Instanz einer GraphicContext-Klasse mit denselben Eigenschaftswerten wie eine vorhandene Instanz.
+Erstellt eine neue Instanz einer GraphicContext‑Klasse mit denselben Eigenschaftswerten wie eine bestehende Instanz.
 
 ```csharp
 public virtual GraphicContext Clone()
@@ -21,7 +21,5 @@ Instanz eines GraphicContext
 ### Siehe auch
 
 * class [GraphicContext](../)
-* namensraum [Aspose.Svg.Rendering](../../graphiccontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

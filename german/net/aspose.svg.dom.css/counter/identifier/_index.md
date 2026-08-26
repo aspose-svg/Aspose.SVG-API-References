@@ -1,27 +1,25 @@
 ---
-title: Counter.Identifier
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Counter eigendom. Dieses Attribut wird für die Kennung des Zählers verwendet.
+title: "Counter.Identifier"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Counter Identifier-Eigenschaft. Dieses Attribut wird für den Bezeichner des Zählers verwendet"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/counter/identifier/
 ---
 ## Counter.Identifier property
 
-Dieses Attribut wird für die Kennung des Zählers verwendet.
+Dieses Attribut wird für den Bezeichner des Counters verwendet.
 
 ```csharp
 public string Identifier { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Zählerkennung.
+Der Zählerbezeichner.
 
 ### Siehe auch
 
 * class [Counter](../)
-* namensraum [Aspose.Svg.Dom.Css](../../counter/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

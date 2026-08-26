@@ -1,14 +1,14 @@
 ---
-title: Color.GetComplementary
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color methode. Gibt eine neue Farbe zurück die sich auf der dem Original entgegengesetzten Seite des Farbkreises befindet.
+title: "Color.GetComplementary"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color GetComplementary Methode. Gibt eine neue Farbe zurück, die sich auf der gegenüberliegenden Seite des Farbkreises vom Original befindet"
 type: docs
 weight: 310
 url: /de/net/aspose.svg.drawing/color/getcomplementary/
 ---
 ## Color.GetComplementary method
 
-Gibt eine neue Farbe zurück, die sich auf der dem Original entgegengesetzten Seite des Farbkreises befindet.
+Gibt eine neue Farbe zurück, die sich auf der gegenüberliegenden Seite des Farbkreises vom Original befindet.
 
 ```csharp
 public Color GetComplementary()
@@ -16,12 +16,10 @@ public Color GetComplementary()
 
 ### Rückgabewert
 
-Eine neue Instanz der[`Color`](../) Klasse.
+Eine neue Instanz der [`Color`](../) Klasse.
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

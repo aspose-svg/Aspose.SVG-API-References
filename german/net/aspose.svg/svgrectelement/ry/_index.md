@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Ry
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGRectElement eigendom. Entspricht dem Attribut ry auf dem gegebenen rectElement.
+title: "SVGRectElement.Ry"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGRectElement Ry-Eigenschaft. Entspricht dem Attribut ry des angegebenen rect-Elements."
 type: docs
 weight: 30
 url: /de/net/aspose.svg/svgrectelement/ry/
 ---
 ## SVGRectElement.Ry property
 
-Entspricht dem Attribut 'ry' auf dem gegebenen 'rect'-Element.
+Entspricht dem Attribut ‘ry’ des angegebenen ‘rect’-Elements.
 
 ```csharp
 public SVGAnimatedLength Ry { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'ry' des gegebenen 'rect'-Elements.
+Das Attribut ‘ry’ des angegebenen ‘rect’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* namensraum [Aspose.Svg](../../svgrectelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface IBrowsingContext
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.IBrowsingContext koppel. Ein BrowsingKontext ist eine Umgebung in derDocument Objekte werden dem Benutzer präsentiert.
+title: "IBrowsingContext Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.IBrowsingContext Schnittstelle. Ein Browsing‑Kontext ist eine Umgebung, in der Document‑Objekte dem Benutzer präsentiert werden."
 type: docs
-weight: 1020
+weight: 3020
 url: /de/net/aspose.svg.dom/ibrowsingcontext/
 ---
 ## IBrowsingContext interface
 
-Ein Browsing-Kontext ist eine Umgebung, in der[`Document`](../document/) Objekte werden dem Benutzer präsentiert.
+Ein Browsing‑Kontext ist eine Umgebung, in der [`Document`](../document/) Objekte dem Benutzer präsentiert werden.
 
 ```csharp
 public interface IBrowsingContext : IDisposable, IServiceProvider
@@ -18,17 +18,14 @@ public interface IBrowsingContext : IDisposable, IServiceProvider
 
 | Name | Beschreibung |
 | --- | --- |
-| [ActiveDocument](../../aspose.svg.dom/ibrowsingcontext/activedocument/) { get; } | Ruft das aktuelle Dokument ab. |
-| [DOMImplementation](../../aspose.svg.dom/ibrowsingcontext/domimplementation/) { get; } | Ruft die DOM-Implementierung ab. |
-| [Network](../../aspose.svg.dom/ibrowsingcontext/network/) { get; } | Ruft die Netzwerkdienste ab. |
-| [Parent](../../aspose.svg.dom/ibrowsingcontext/parent/) { get; } | Ruft den übergeordneten Kontext ab, falls vorhanden. |
-| [Security](../../aspose.svg.dom/ibrowsingcontext/security/) { get; } | Ruft das Sandboxing-Flag ab. |
-| [Window](../../aspose.svg.dom/ibrowsingcontext/window/) { get; } | Ruft das WindowProxy-Objekt ab. |
+| [ActiveDocument](../../aspose.svg.dom/ibrowsingcontext/activedocument/) { get; } | Liefert das aktuelle Dokument. |
+| [DOMImplementation](../../aspose.svg.dom/ibrowsingcontext/domimplementation/) { get; } | Liefert die DOM-Implementierung. |
+| [Network](../../aspose.svg.dom/ibrowsingcontext/network/) { get; } | Liefert die Netzwerkdienste. |
+| [Parent](../../aspose.svg.dom/ibrowsingcontext/parent/) { get; } | Liefert den übergeordneten Kontext, falls vorhanden. |
+| [Security](../../aspose.svg.dom/ibrowsingcontext/security/) { get; } | Liefert das Sandbox‑Flag. |
+| [Window](../../aspose.svg.dom/ibrowsingcontext/window/) { get; } | Liefert das WindowProxy‑Objekt. |
 
 ### Siehe auch
 
-* interface [IServiceProvider](../../aspose.svg.services/iserviceprovider/)
-* namensraum [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Unit.FromDotsPerPixel
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Unit methode. Gibt a zurückResolution Objekt das in Punkten pro Pixel dargestellt wird.
+title: "Unit.FromDotsPerPixel"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Methode Unit FromDotsPerPixel. Gibt ein Resolution-Objekt zurück, das in Punkte pro Pixel dargestellt wird."
 type: docs
 weight: 90
 url: /de/net/aspose.svg.drawing/unit/fromdotsperpixel/
 ---
 ## Unit.FromDotsPerPixel method
 
-Gibt a zurück[`Resolution`](../../resolution/) Objekt, das in Punkten pro Pixel dargestellt wird.
+Gibt ein [`Resolution`](../../resolution/) Objekt zurück, das in Punkte pro Pixel dargestellt wird.
 
 ```csharp
 public static Resolution FromDotsPerPixel(double value)
@@ -20,13 +20,11 @@ public static Resolution FromDotsPerPixel(double value)
 
 ### Rückgabewert
 
-Gibt ein[`Resolution`](../../resolution/) Objekt.
+Gibt ein [`Resolution`](../../resolution/) Objekt zurück.
 
 ### Siehe auch
 
 * class [Resolution](../../resolution/)
 * class [Unit](../)
-* namensraum [Aspose.Svg.Drawing](../../unit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

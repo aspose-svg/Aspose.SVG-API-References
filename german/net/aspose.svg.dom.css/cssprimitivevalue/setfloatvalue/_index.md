@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.SetFloatValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSPrimitiveValue methode. Eine Methode um den Gleitkommawert mit einer bestimmten Einheit zu setzen. Wenn die mit diesem Wert verknüpfte Eigenschaft die angegebene Einheit oder den Gleitkommawert nicht akzeptieren kann bleibt der Wert unverändert und es wird eine DOMException ausgelöst.
+title: "CSSPrimitiveValue.SetFloatValue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSPrimitiveValue SetFloatValue Methode. Eine Methode, um den Float-Wert mit einer angegebenen Einheit zu setzen. Wenn die mit diesem Wert verbundene Eigenschaft die angegebene Einheit oder den Float-Wert nicht akzeptieren kann, bleibt der Wert unverändert und es wird eine DOMException ausgelöst."
 type: docs
 weight: 80
 url: /de/net/aspose.svg.dom.css/cssprimitivevalue/setfloatvalue/
 ---
 ## CSSPrimitiveValue.SetFloatValue method
 
-Eine Methode, um den Gleitkommawert mit einer bestimmten Einheit zu setzen. Wenn die mit diesem Wert verknüpfte Eigenschaft die angegebene Einheit oder den Gleitkommawert nicht akzeptieren kann, bleibt der Wert unverändert und es wird eine DOMException ausgelöst.
+Eine Methode, um den Float-Wert mit einer angegebenen Einheit zu setzen. Wenn die mit diesem Wert verbundene Eigenschaft die angegebene Einheit oder den Float-Wert nicht akzeptieren kann, bleibt der Wert unverändert und es wird eine DOMException ausgelöst.
 
 ```csharp
 public abstract void SetFloatValue(ushort unitType, float floatValue)
@@ -22,7 +22,5 @@ public abstract void SetFloatValue(ushort unitType, float floatValue)
 ### Siehe auch
 
 * class [CSSPrimitiveValue](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

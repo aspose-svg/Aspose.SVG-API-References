@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSFontFaceRule
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.ICSSFontFaceRule koppel. Die CSSFontFaceRuleSchnittstelle repräsentiert eine fontfaceRegel in einem CSSStylesheet. Die fontfaceRegel wird verwendet um eine Reihe von Schriftbeschreibungen zu speichern.
+title: "ICSSFontFaceRule Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.ICSSFontFaceRule Schnittstelle. Die CSSFontFaceRule‑Schnittstelle repräsentiert eine font-face‑Regel in einem CSS‑Stylesheet. Die font-face‑Regel wird verwendet, um eine Menge von Schriftbeschreibungen zu halten."
 type: docs
-weight: 550
+weight: 2550
 url: /de/net/aspose.svg.dom.css/icssfontfacerule/
 ---
 ## ICSSFontFaceRule interface
 
-Die CSSFontFaceRule-Schnittstelle repräsentiert eine @font-face-Regel in einem CSS-Stylesheet. Die @font-face-Regel wird verwendet, um eine Reihe von Schriftbeschreibungen zu speichern.
+Das CSSFontFaceRule-Interface repräsentiert eine @font-face-Regel in einem CSS-Stylesheet. Die @font-face-Regel wird verwendet, um einen Satz von Schriftbeschreibungen zu halten.
 
 ```csharp
 public interface ICSSFontFaceRule : ICSSRule
@@ -23,7 +23,5 @@ public interface ICSSFontFaceRule : ICSSRule
 ### Siehe auch
 
 * interface [ICSSRule](../icssrule/)
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

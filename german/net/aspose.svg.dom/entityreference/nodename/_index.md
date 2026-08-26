@@ -1,7 +1,7 @@
 ---
-title: EntityReference.NodeName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: EntityReference eigendom. Der Name dieses Knotens abhängig von seinem Typ.
+title: "EntityReference.NodeName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "EntityReference NodeName-Eigenschaft. Der Name dieses Knotens abhängig von seinem Typ."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/entityreference/nodename/
@@ -14,14 +14,12 @@ Der Name dieses Knotens, abhängig von seinem Typ.
 public override string NodeName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Knotens.
 
 ### Siehe auch
 
 * class [EntityReference](../)
-* namensraum [Aspose.Svg.Dom](../../entityreference/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

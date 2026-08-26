@@ -1,14 +1,14 @@
 ---
-title: Class ResourceHandlingOptions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Saving.ResourceHandlingOptions klas. Repräsentiert Ressourcenverwaltungsoptionen.
+title: "ResourceHandlingOptions Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Saving.ResourceHandlingOptions Klasse. Stellt Optionen zur Ressourcenverwaltung dar."
 type: docs
-weight: 3650
+weight: 5760
 url: /de/net/aspose.svg.saving/resourcehandlingoptions/
 ---
 ## ResourceHandlingOptions class
 
-Repräsentiert Ressourcenverwaltungsoptionen.
+Stellt Optionen zur Ressourcenverarbeitung dar.
 
 ```csharp
 public class ResourceHandlingOptions
@@ -18,15 +18,13 @@ public class ResourceHandlingOptions
 
 | Name | Beschreibung |
 | --- | --- |
-| [Default](../../aspose.svg.saving/resourcehandlingoptions/default/) { get; set; } | Ruft eine Aufzählung ab oder legt sie fest, die die Standardmethode der Ressourcenbehandlung darstellt. MomentanSave ,Ignore UndEmbed Werte werden unterstützt. Standardwert istSave . |
-| [JavaScript](../../aspose.svg.saving/resourcehandlingoptions/javascript/) { get; set; } | Erhält oder setzt eine Aufzählung, die darstellt, wie Skripte gehandhabt werden. MomentanSave ,Ignore ,Discard UndEmbed Werte werden unterstützt. Standardwert istSave . |
-| [MaxHandlingDepth](../../aspose.svg.saving/resourcehandlingoptions/maxhandlingdepth/) { get; set; } | Ermittelt oder setzt die maximale Seitentiefe, die verarbeitet wird. Eine Tiefe von 1 bedeutet, dass nur Seiten behandelt werden, auf die direkt aus dem gespeicherten Dokument verwiesen wird. Wenn Sie diese Eigenschaft auf -1 setzen, werden alle Seiten verarbeitet. Der Standardwert ist 0. |
-| [PageUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/) { get; set; } | Ruft eine Einschränkung ab oder legt sie fest, die auf URLs behandelter Seiten angewendet wird. Standardwert istRootAndSubFolders . |
-| [ResourceUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/) { get; set; } | Holt oder setzt Beschränkungen, die auf URLs gehandhabter Ressourcen wie css, js, Bilder usw. angewendet werden. Der Standardwert istSameHost . |
+| [Default](../../aspose.svg.saving/resourcehandlingoptions/default/) { get; set; } | Liest oder legt das Enum fest, das die standardmäßige Art der Ressourcenverwaltung darstellt. Derzeit werden die Werte Save, Ignore und Embed unterstützt. Standardwert ist Save. |
+| [JavaScript](../../aspose.svg.saving/resourcehandlingoptions/javascript/) { get; set; } | Liest oder legt das Enum fest, das die Art der Skriptverarbeitung darstellt. Derzeit werden die Werte Save, Ignore, Discard und Embed unterstützt. Standardwert ist Save. |
+| [MaxHandlingDepth](../../aspose.svg.saving/resourcehandlingoptions/maxhandlingdepth/) { get; set; } | Liest oder legt die maximale Tiefe der zu verarbeitenden Seiten fest. Eine Tiefe von 1 bedeutet, dass nur direkt aus dem gespeicherten Dokument referenzierte Seiten verarbeitet werden. Das Setzen dieser Eigenschaft auf -1 führt zur Verarbeitung aller Seiten. Standardwert ist 0. |
+| [PageUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/) { get; set; } | Ruft die Beschränkung ab oder legt sie fest, die auf URLs der behandelten Seiten angewendet wird. Standardwert ist RootAndSubFolders. |
+| [ResourceUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/) { get; set; } | Ruft die Beschränkung ab oder legt sie fest, die auf URLs der behandelten Ressourcen wie CSS, JS, Bilder usw. angewendet wird. Standardwert ist SameHost. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

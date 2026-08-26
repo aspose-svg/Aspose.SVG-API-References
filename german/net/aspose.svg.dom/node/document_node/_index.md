@@ -1,14 +1,14 @@
 ---
-title: Node.DOCUMENT_NODE
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node veld. Ein Dokumentknoten
+title: "Node.DOCUMENT_NODE"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node DOCUMENT_NODE-Feld. Ein Dokument-Knoten"
 type: docs
-weight: 360
+weight: 340
 url: /de/net/aspose.svg.dom/node/document_node/
 ---
 ## Node.DOCUMENT_NODE field
 
-Ein Dokumentknoten
+Ein Dokument‑Knoten
 
 ```csharp
 public const ushort DOCUMENT_NODE;
@@ -17,7 +17,5 @@ public const ushort DOCUMENT_NODE;
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

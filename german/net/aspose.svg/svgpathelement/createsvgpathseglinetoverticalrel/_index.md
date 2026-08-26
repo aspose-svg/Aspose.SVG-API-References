@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoVerticalRel
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPathElement methode. Gibt ein eigenständiges übergeordnetes SVGPathSegLinetoVerticalRelObjekt zurück.
+title: "SVGPathElement.CreateSVGPathSegLinetoVerticalRel"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPathElement CreateSVGPathSegLinetoVerticalRel Methode. Gibt ein eigenständiges, elternloses SVGPathSegLinetoVerticalRel Objekt zurück"
 type: docs
 weight: 190
 url: /de/net/aspose.svg/svgpathelement/createsvgpathseglinetoverticalrel/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoVerticalRel method
 
-Gibt ein eigenständiges, übergeordnetes SVGPathSegLinetoVerticalRel-Objekt zurück.
+Gibt ein eigenständiges, elternloses SVGPathSegLinetoVerticalRel-Objekt zurück.
 
 ```csharp
 public SVGPathSegLinetoVerticalRel CreateSVGPathSegLinetoVerticalRel(float y)
@@ -16,17 +16,15 @@ public SVGPathSegLinetoVerticalRel CreateSVGPathSegLinetoVerticalRel(float y)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| y | Single | Die relative Y-Koordinate für den Endpunkt dieses Pfadsegments. |
+| y | Single | Die relative Y‑Koordinate des Endpunkts dieses Pfadsegments. |
 
 ### Rückgabewert
 
-Ein eigenständiges, übergeordnetes SVGPathSegLinetoVerticalRel-Objekt.
+Ein eigenständiges, elternloses SVGPathSegLinetoVerticalRel Objekt.
 
 ### Siehe auch
 
 * class [SVGPathSegLinetoVerticalRel](../../../aspose.svg.paths/svgpathseglinetoverticalrel/)
 * class [SVGPathElement](../)
-* namensraum [Aspose.Svg](../../svgpathelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

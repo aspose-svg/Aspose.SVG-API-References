@@ -1,7 +1,7 @@
 ---
-title: Comment.NodeName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Comment eigendom. Der Name dieses Knotens abhängig von seinem Typ.
+title: "Comment.NodeName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Comment NodeName Eigenschaft. Der Name dieses Knotens abhängig von seinem Typ."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/comment/nodename/
@@ -14,14 +14,12 @@ Der Name dieses Knotens, abhängig von seinem Typ.
 public override string NodeName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Knotens.
 
 ### Siehe auch
 
 * class [Comment](../)
-* namensraum [Aspose.Svg.Dom](../../comment/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

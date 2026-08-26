@@ -1,7 +1,7 @@
 ---
-title: CSSValue.CSS_CUSTOM
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSValue veld. Der Wert ist ein benutzerdefinierter Wert.
+title: "CSSValue.CSS_CUSTOM"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSValue CSS_CUSTOM-Feld. Der Wert ist ein benutzerdefinierter Wert"
 type: docs
 weight: 70
 url: /de/net/aspose.svg.dom.css/cssvalue/css_custom/
@@ -17,7 +17,5 @@ public const ushort CSS_CUSTOM;
 ### Siehe auch
 
 * class [CSSValue](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

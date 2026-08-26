@@ -1,14 +1,14 @@
 ---
-title: Interface IFileList
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.IO.IFileList koppel. Stellt die Schnittstelle für die Dateiliste dar.
+title: "IFileList Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.IO.IFileList Schnittstelle. Stellt die Schnittstelle für eine Dateiliste dar"
 type: docs
-weight: 1950
+weight: 4060
 url: /de/net/aspose.svg.io/ifilelist/
 ---
 ## IFileList interface
 
-Stellt die Schnittstelle für die Dateiliste dar.
+Represent the interface for list of files.
 
 ```csharp
 public interface IFileList : IEnumerable<IFile>
@@ -18,13 +18,11 @@ public interface IFileList : IEnumerable<IFile>
 
 | Name | Beschreibung |
 | --- | --- |
-| [Item](../../aspose.svg.io/ifilelist/item/) { get; } | Gibt die indexierte Datei in der Liste zurück. |
-| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | Rückgabelänge für Dateiliste. |
+| [Item](../../aspose.svg.io/ifilelist/item/) { get; } | Gibt die Datei am Index n in der Liste zurück. |
+| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | Länge der Dateiliste zurückgeben. |
 
 ### Siehe auch
 
 * interface [IFile](../ifile/)
-* namensraum [Aspose.Svg.IO](../../aspose.svg.io/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

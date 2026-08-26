@@ -1,14 +1,14 @@
 ---
-title: UnitType.Pt
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType veld. Die Messung erfolgt in Punkten
+title: "UnitType.Pt"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType Pt-Feld. Messung erfolgt in Punkten"
 type: docs
 weight: 190
 url: /de/net/aspose.svg.drawing/unittype/pt/
 ---
 ## UnitType.Pt field
 
-Die Messung erfolgt in Punkten
+Messung ist in Punkten
 
 ```csharp
 public static readonly UnitType Pt;
@@ -17,7 +17,5 @@ public static readonly UnitType Pt;
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

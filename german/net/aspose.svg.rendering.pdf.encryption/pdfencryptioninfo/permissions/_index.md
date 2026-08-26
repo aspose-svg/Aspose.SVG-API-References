@@ -1,20 +1,20 @@
 ---
-title: PdfEncryptionInfo.Permissions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: PdfEncryptionInfo eigendom. Ruft die Berechtigungen ab oder legt sie fest.
+title: "PdfEncryptionInfo.Permissions"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "PdfEncryptionInfo Permissions‑Eigenschaft. Liest oder setzt die Berechtigungen."
 type: docs
 weight: 40
 url: /de/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
 ---
 ## PdfEncryptionInfo.Permissions property
 
-Ruft die Berechtigungen ab oder legt sie fest.
+Liest oder setzt die Berechtigungen.
 
 ```csharp
 public PdfPermissions Permissions { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Berechtigungen.
 
@@ -22,7 +22,5 @@ Die Berechtigungen.
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * class [PdfEncryptionInfo](../)
-* namensraum [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

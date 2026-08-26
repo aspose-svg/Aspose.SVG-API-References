@@ -1,14 +1,14 @@
 ---
-title: Document.QuerySelectorAll
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document methode. Gibt eine NodeList aller Elemente im Dokument zurück die mit selector übereinstimmen.
+title: "Document.QuerySelectorAll"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document QuerySelectorAll-Methode. Gibt eine NodeList aller Elemente im Dokument zurück, die dem Selektor entsprechen."
 type: docs
-weight: 1030
+weight: 1040
 url: /de/net/aspose.svg.dom/document/queryselectorall/
 ---
 ## Document.QuerySelectorAll method
 
-Gibt eine NodeList aller Elemente im Dokument zurück, die mit selector übereinstimmen.
+Gibt eine NodeList aller Elemente im Dokument zurück, die dem Selektor entsprechen
 
 ```csharp
 public NodeList QuerySelectorAll(string selector)
@@ -16,7 +16,7 @@ public NodeList QuerySelectorAll(string selector)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| selector | String | Der Abfrageselektor |
+| selector | String | Der Abfrage-Selektor |
 
 ### Rückgabewert
 
@@ -26,7 +26,5 @@ public NodeList QuerySelectorAll(string selector)
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

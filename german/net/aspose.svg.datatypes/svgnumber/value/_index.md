@@ -1,7 +1,7 @@
 ---
-title: SVGNumber.Value
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGNumber eigendom. Der Wert des angegebenen Attributs.
+title: "SVGNumber.Value"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGNumber Value‑Eigenschaft. Der Wert des angegebenen Attributs"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.datatypes/svgnumber/value/
@@ -14,7 +14,7 @@ Der Wert des angegebenen Attributs.
 public float Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Wert.
 
@@ -22,12 +22,10 @@ Der Wert.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Wird bei einem Versuch ausgelöst, den Wert eines schreibgeschützten Attributs zu ändern. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Wird ausgelöst, wenn versucht wird, den Wert eines schreibgeschützten Attributs zu ändern. |
 
 ### Siehe auch
 
 * class [SVGNumber](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgnumber/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

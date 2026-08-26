@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Index
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GlyphInfo eigendom. Ruft den Index dieser Glyphe in der Schriftart ab.
+title: "GlyphInfo.Index"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GlyphInfo Index Eigenschaft. Ruft den Index dieses Glyphs in der Schriftart ab."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.rendering/glyphinfo/index/
 ---
 ## GlyphInfo.Index property
 
-Ruft den Index dieser Glyphe in der Schriftart ab.
+Ermittelt den Index dieses Glyphs in der Schrift.
 
 ```csharp
 public uint Index { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Index der Glyphe.
+Index des Glyphs.
 
 ### Siehe auch
 
 * struct [GlyphInfo](../)
-* namensraum [Aspose.Svg.Rendering](../../glyphinfo/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

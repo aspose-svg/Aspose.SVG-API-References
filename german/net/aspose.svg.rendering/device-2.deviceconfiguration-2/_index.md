@@ -1,14 +1,14 @@
 ---
-title: Class DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions klas. Stellt das Konfigurationsobjekt für Geräte dar.
+title: "DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions class. Stellt ein Konfigurationsobjekt für Geräte dar."
 type: docs
-weight: 2750
+weight: 4830
 url: /de/net/aspose.svg.rendering/device-2.deviceconfiguration-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> class
 
-Stellt das Konfigurationsobjekt für Geräte dar.
+Stellt ein Konfigurationsobjekt für Geräte dar.
 
 ```csharp
 public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
@@ -16,24 +16,22 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
     where TRenderingOptions : RenderingOptions
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [DeviceConfiguration](deviceconfiguration/)() | Default_Constructor |
+| [DeviceConfiguration](../../aspose.svg.rendering/device-2.deviceconfiguration-2/.ctor)() | Der Standard‑Konstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy/) { get; set; } | Ruft die Seitenschreibstrategie ab oder legt sie fest. |
+| [PageWritingStrategy](../../aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy) { get; set; } | Liest oder setzt die Schreibstrategie der Seite. |
 
 ### Siehe auch
 
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* namensraum [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

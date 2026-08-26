@@ -1,28 +1,26 @@
 ---
-title: ISVGFilterPrimitiveStandardAttributes.Y
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ISVGFilterPrimitiveStandardAttributes eigendom. Entspricht dem Attribut y des angegebenen filterElements.
+title: "ISVGFilterPrimitiveStandardAttributes.Y"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ISVGFilterPrimitiveStandardAttributes Y-Eigenschaft. Entspricht dem Attribut y des angegebenen filter-Elements."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/y/
 ---
 ## ISVGFilterPrimitiveStandardAttributes.Y property
 
-Entspricht dem Attribut 'y' des angegebenen 'filter'-Elements.
+Entspricht dem Attribut ‘y’ des angegebenen ‘filter’-Elements.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'y' des gegebenen 'filter'-Elements.
+Das Attribut ‘y’ des angegebenen ‘filter’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * interface [ISVGFilterPrimitiveStandardAttributes](../)
-* namensraum [Aspose.Svg.Filters](../../isvgfilterprimitivestandardattributes/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

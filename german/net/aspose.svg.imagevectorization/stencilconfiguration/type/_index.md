@@ -1,14 +1,14 @@
 ---
-title: StencilConfiguration.Type
-second_title: Aspose.SVG für .NET-API-Referenz
-description: StencilConfiguration eigendom. Ruft ab oder setzt dieStencilType .
+title: "StencilConfiguration.Type"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "StencilConfiguration Type property. Liest oder setzt den StencilType."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.imagevectorization/stencilconfiguration/type/
 ---
 ## StencilConfiguration.Type property
 
-Ruft ab oder setzt die[`StencilType`](../../stenciltype/) .
+Liest oder setzt den [`StencilType`](../../stenciltype/).
 
 ```csharp
 public StencilType Type { get; set; }
@@ -18,7 +18,5 @@ public StencilType Type { get; set; }
 
 * enum [StencilType](../../stenciltype/)
 * class [StencilConfiguration](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Text.IsElementContentWhitespace
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Text eigendom. Gibt zurück ob dieser Textknoten Leerzeichen für Elementinhalte enthält die oft missbräuchlich als ignorierbare Leerzeichen bezeichnet werden.
+title: "Text.IsElementContentWhitespace"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Text IsElementContentWhitespace‑Eigenschaft. Gibt zurück, ob dieser Textknoten Elementinhalt‑Leerzeichen enthält, die häufig missbräuchlich als ignorierbare Leerzeichen bezeichnet werden."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 
-Gibt zurück, ob dieser Textknoten Leerzeichen für Elementinhalte enthält, die oft missbräuchlich als "ignorierbare Leerzeichen" bezeichnet werden.
+Gibt zurück, ob dieser Textknoten Leerzeichen im Elementinhalt enthält, oft missbräuchlich „ignorable whitespace“ genannt.
 
 ```csharp
 public bool IsElementContentWhitespace { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz Elementinhalts-Leerzeichen ist; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz Elementinhalt‑Leerzeichen ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Text](../)
-* namensraum [Aspose.Svg.Dom](../../text/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

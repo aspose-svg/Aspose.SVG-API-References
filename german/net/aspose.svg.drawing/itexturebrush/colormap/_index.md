@@ -1,27 +1,25 @@
 ---
-title: ITextureBrush.ColorMap
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ITextureBrush eigendom. Die Anzahl der Elemente muss gerade sein. Jedes gerade Element hat eine alte Farbe. Jedes ungerade Element hat eine neue Farbe.
+title: "ITextureBrush.ColorMap"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ITextureBrush ColorMap property. Die Anzahl der Elemente muss gerade sein. Jedes gerade Element ist die alte Farbe. Jedes ungerade Element ist die neue Farbe."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/itexturebrush/colormap/
 ---
 ## ITextureBrush.ColorMap property
 
-Die Anzahl der Elemente muss gerade sein. Jedes gerade Element hat eine alte Farbe. Jedes ungerade Element hat eine neue Farbe.
+Die Anzahl der Elemente muss gerade sein. Jedes gerade Element ist die alte Farbe. Jedes ungerade Element ist die neue Farbe.
 
 ```csharp
 public Color[] ColorMap { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Farbkarte.
 
 ### Siehe auch
 
 * interface [ITextureBrush](../)
-* namensraum [Aspose.Svg.Drawing](../../itexturebrush/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

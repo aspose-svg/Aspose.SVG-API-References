@@ -1,27 +1,25 @@
 ---
-title: Element.ClassName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element eigendom. Das Klassenattribut des Elements. Dieses Attribut wurde in due umbenannt da Konflikte mit dem Schlüsselwort class in vielen Sprachen auftreten. Siehe die Klassenattributdefinition in HTML 4.01.
+title: "Element.ClassName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element ClassName Eigenschaft. Das class-Attribut des Elements. Dieses Attribut wurde umbenannt wegen Konflikten mit dem Schlüsselwort class, das in vielen Sprachen verwendet wird. Siehe die Definition des class-Attributs in HTML 4.01"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom/element/classname/
 ---
 ## Element.ClassName property
 
-Das Klassenattribut des Elements. Dieses Attribut wurde in due umbenannt, da Konflikte mit dem Schlüsselwort „class“ in vielen Sprachen auftreten. Siehe die Klassenattributdefinition in HTML 4.01.
+Das class-Attribut des Elements. Dieses Attribut wurde umbenannt, weil es mit dem Schlüsselwort "class" vieler Sprachen kollidiert. Siehe die Definition des class-Attributs in HTML 4.01.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Klassenattribut.
+Das class-Attribut.
 
 ### Siehe auch
 
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

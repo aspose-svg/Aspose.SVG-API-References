@@ -1,7 +1,7 @@
 ---
-title: Document.NodeType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Ein Code der den Typ des zugrunde liegenden Objekts darstellt.
+title: "Document.NodeType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document NodeType-Eigenschaft. Ein Code, der den Typ des zugrunde liegenden Objekts darstellt."
 type: docs
 weight: 190
 url: /de/net/aspose.svg.dom/document/nodetype/
@@ -14,14 +14,12 @@ Ein Code, der den Typ des zugrunde liegenden Objekts darstellt.
 public override ushort NodeType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ des Knotens.
 
 ### Siehe auch
 
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

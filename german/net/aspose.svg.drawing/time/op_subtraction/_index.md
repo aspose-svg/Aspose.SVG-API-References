@@ -1,7 +1,7 @@
 ---
-title: Time.op_Subtraction
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Time methode. Implementiert den Operator .
+title: "Time.op_Subtraction"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Time op_Subtraction-Methode. Implementiert den Operator -"
 type: docs
 weight: 80
 url: /de/net/aspose.svg.drawing/time/op_subtraction/
@@ -33,7 +33,5 @@ Das Ergebnis des Operators.
 ### Siehe auch
 
 * class [Time](../)
-* namensraum [Aspose.Svg.Drawing](../../time/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

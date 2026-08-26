@@ -1,20 +1,20 @@
 ---
-title: ICSSKeyframeRule.Style
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSKeyframeRule eigendom. Dieses Attribut stellt den mit diesem Schlüsselbild verknüpften Stil dar.
+title: "ICSSKeyframeRule.Style"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSKeyframeRule Style-Eigenschaft. Dieses Attribut repräsentiert den Stil, der mit diesem Keyframe verknüpft ist."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.css/icsskeyframerule/style/
 ---
 ## ICSSKeyframeRule.Style property
 
-Dieses Attribut stellt den mit diesem Schlüsselbild verknüpften Stil dar.
+Dieses Attribut stellt den mit diesem Keyframe verbundenen Stil dar.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Stil.
 
@@ -22,7 +22,5 @@ Der Stil.
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSKeyframeRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

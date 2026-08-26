@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedNumber
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.DataTypes.SVGAnimatedNumber klas. Wird für animierbare Attribute des Grundtyps Nummer verwendet.
+title: "SVGAnimatedNumber Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.DataTypes.SVGAnimatedNumber Klasse. Wird für Attribute des Grundtyps number verwendet, die animiert werden können"
 type: docs
-weight: 150
+weight: 2140
 url: /de/net/aspose.svg.datatypes/svganimatednumber/
 ---
 ## SVGAnimatedNumber class
 
-Wird für animierbare Attribute des Grundtyps Nummer verwendet.
+Wird für Attribute des Grundtyps Number verwendet, die animierbar sind.
 
 ```csharp
 public class SVGAnimatedNumber : SVGAnimatedValue<float>
@@ -26,13 +26,11 @@ public class SVGAnimatedNumber : SVGAnimatedValue<float>
 | Name | Beschreibung |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Gibt nicht verwaltete und – optional – verwaltete Ressourcen frei. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatednumber/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
+| override [ToString](../../aspose.svg.datatypes/svganimatednumber/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
-* namensraum [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: UnitType.Real
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UnitType veld. Messung ist eine reelle Zahl.
+title: "UnitType.Real"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UnitType Real Feld. Messung ist eine reelle Zahl"
 type: docs
 weight: 230
 url: /de/net/aspose.svg.drawing/unittype/real/
@@ -17,7 +17,5 @@ public static readonly UnitType Real;
 ### Siehe auch
 
 * class [UnitType](../)
-* namensraum [Aspose.Svg.Drawing](../../unittype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

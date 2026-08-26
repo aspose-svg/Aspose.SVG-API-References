@@ -1,20 +1,20 @@
 ---
-title: PageSetup.AnyPage
-second_title: Aspose.SVG für .NET-API-Referenz
-description: PageSetup eigendom. Ruft alle Seitenkonfigurationen in der Seitensequenz ab oder legt sie fest.
+title: "PageSetup.AnyPage"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "PageSetup AnyPage Eigenschaft. Ruft die Konfiguration aller Seiten in der Seitensequenz ab oder legt sie fest."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.rendering/pagesetup/anypage/
 ---
 ## PageSetup.AnyPage property
 
-Ruft alle Seitenkonfigurationen in der Seitensequenz ab oder legt sie fest.
+Liest oder setzt die gesamte Seitenkonfiguration in der Seitensequenz.
 
 ```csharp
 public Page AnyPage { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Beliebige Seite.
 
@@ -22,7 +22,5 @@ Beliebige Seite.
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* namensraum [Aspose.Svg.Rendering](../../pagesetup/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

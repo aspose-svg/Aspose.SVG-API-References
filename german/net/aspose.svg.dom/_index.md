@@ -1,53 +1,51 @@
 ---
-title: Aspose.Svg.Dom
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Die Aspose.Svg.Dom Dokumentobjektmodell Namespace bietet eine API die alle HTML XML oder SVGDokumente darstellt und mit ihnen interagiert. Das DOM ist ein Dokumentmodell das in den Browser geladen wird und das Dokument als Knotenbaum darstellt wobei jeder Knoten einen Teil des Dokuments darstellt z. B. ein Element Text Zeichenfolge oder Kommentar.
+title: "Aspose.Svg.Dom"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Der Aspose.Svg.Dom Document Object Model-Namespace stellt eine API bereit, die beliebige HTML-, XML- oder SVG-Dokumente repräsentiert und mit ihnen interagiert. Das DOM ist ein im Browser geladenes Dokumentenmodell, das das Dokument als Knotbaum darstellt, wobei jeder Knoten einen Teil des Dokuments repräsentiert, z. B. ein Element, eine Textzeichenfolge oder einen Kommentar."
 type: docs
-weight: 50
+weight: 70
 url: /de/net/aspose.svg.dom/
 ---
-Die **Aspose.Svg.Dom (Dokumentobjektmodell)** Namespace bietet eine API, die alle HTML-, XML- oder SVG-Dokumente darstellt und mit ihnen interagiert. Das DOM ist ein Dokumentmodell, das in den Browser geladen wird und das Dokument als Knotenbaum darstellt, wobei jeder Knoten einen Teil des Dokuments darstellt (z. B. ein Element, Text Zeichenfolge oder Kommentar).
+Der **Aspose.Svg.Dom (Document Object Model)** Namensraum stellt eine API bereit, die beliebige HTML-, XML‑ oder SVG‑Dokumente darstellt und mit ihnen interagiert. Das DOM ist ein im Browser geladenes Dokumentenmodell, das das Dokument als Knotbaum darstellt, wobei jeder Knoten einen Teil des Dokuments repräsentiert (z. B. ein Element, eine Textzeichenfolge oder ein Kommentar).
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [Attr](./attr/) | Die Attr-Schnittstelle repräsentiert ein Attribut in einem Element-Objekt. Typischerweise werden die zulässigen Werte für das Attribut in einem Schema definiert, das dem Dokument zugeordnet ist. |
-| [CDATASection](./cdatasection/) | CDATA-Abschnitte werden verwendet, um Textblöcke zu maskieren, die Zeichen enthalten, die andernfalls als Markup betrachtet würden. |
-| [CharacterData](./characterdata/) | Der CharacterData erweitert Node um eine Reihe von Attributen und Methoden für den Zugriff auf Zeichendaten im DOM. |
-| [Comment](./comment/) | erbt von CharacterData und stellt den Inhalt eines Kommentars dar, dh alle Zeichen zwischen dem beginnenden ' . |
-| [Document](./document/) | Das Dokument repräsentiert das gesamte HTML-, XML- oder SVG-Dokument. Konzeptionell ist es die Wurzel des Dokumentbaums und bietet den primären Zugriff auf die Daten des Dokuments. |
-| [DocumentFragment](./documentfragment/) | DocumentFragment ist ein "leichtes" oder "minimales" Document-Objekt. Es ist sehr üblich, einen Teil des Baums eines Dokuments extrahieren oder ein neues Fragment eines Dokuments erstellen zu können. |
-| [DocumentType](./documenttype/) | Der DocumentType stellt eine Schnittstelle zur Liste der Entitäten bereit, die für das Dokument definiert sind. |
-| [DOMException](./domexception/) | Die DOMException-Schnittstelle stellt ein anormales Ereignis dar (das als Ausnahme bezeichnet wird), das als Ergebnis des Aufrufs einer Methode oder des Zugriffs auf eine Eigenschaft einer Web-API auftritt. So werden im Grunde Fehlerbedingungen in Web-APIs beschrieben. |
-| [DOMObject](./domobject/) | Der Typ DOMObject wird verwendet, um ein Basisobjekt für das gesamte Document Object Model darzustellen. Für Java und ECMAScript ist DOMObject an den Typ Object gebunden. |
-| [Element](./element/) | Die Element-Schnittstelle repräsentiert ein Element in einem HTML- oder XML-Dokument. |
-| [Entity](./entity/) | Repräsentiert eine bekannte Entität, entweder geparst oder nicht geparst, in einem XML-Dokument. |
+| [Attr](./attr/) | Das Attr-Interface repräsentiert ein Attribut in einem Element-Objekt. Typischerweise werden die zulässigen Werte für das Attribut in einem dem Dokument zugehörigen Schema definiert. |
+| [CDATASection](./cdatasection/) | CDATA-Abschnitte werden verwendet, um Textblöcke zu maskieren, die Zeichen enthalten, die sonst als Markup betrachtet würden. |
+| [CharacterData](./characterdata/) | Das CharacterData erweitert Node um eine Reihe von Attributen und Methoden zum Zugriff auf Zeichendaten im DOM. |
+| [Comment](./comment/) | Erbt von CharacterData und stellt den Inhalt eines Kommentars dar, d. h. alle Zeichen zwischen dem startenden ''. |
+| [Document](./document/) | Das Document repräsentiert das gesamte HTML-, XML- oder SVG-Dokument. Konzeptionell ist es die Wurzel des Dokumentbaums und bietet den primären Zugriff auf die Daten des Dokuments. |
+| [DocumentFragment](./documentfragment/) | DocumentFragment ist ein "leichtgewichtiges" oder "minimalistisches" Document-Objekt. Es ist sehr üblich, einen Teil des Dokumentbaums extrahieren oder ein neues Fragment eines Dokuments erstellen zu wollen. |
+| [DocumentType](./documenttype/) | Der DocumentType stellt ein Interface zur Liste der für das Dokument definierten Entitäten bereit. |
+| [DOMException](./domexception/) | Das DOMException-Interface repräsentiert ein abnormales Ereignis (eine Ausnahme), das als Ergebnis eines Methodenaufrufs oder des Zugriffs auf eine Eigenschaft einer Web-API auftritt. Dies ist im Wesentlichen die Art und Weise, wie Fehlbedingungen in Web-APIs beschrieben werden. |
+| [DOMObject](./domobject/) | Der DOMObject-Typ wird verwendet, um ein Basisobjekt für das gesamte Document Object Model zu repräsentieren. Für Java und ECMAScript ist DOMObject an den Object-Typ gebunden. |
+| [Element](./element/) | Das Element-Interface repräsentiert ein Element in einem HTML- oder XML-Dokument. |
+| [Entity](./entity/) | Stellt eine bekannte Entität, entweder geparst oder ungeparst, in einem XML-Dokument dar. |
 | [EntityReference](./entityreference/) | EntityReference-Knoten können verwendet werden, um eine Entitätsreferenz im Baum darzustellen. |
-| [EventTarget](./eventtarget/) | Die[`EventTarget`](../aspose.svg.dom/eventtarget/) -Schnittstelle wird von allen Knoten in einer Implementierung implementiert, die das DOM-Ereignismodell unterstützt. Daher kann diese Schnittstelle durch Verwendung bindungsspezifischer Casting-Methoden auf einer Instanz der Knotenschnittstelle erhalten werden. Die Schnittstelle ermöglicht die Registrierung und Entfernung von Ereignis-Listenern ein[`EventTarget`](../aspose.svg.dom/eventtarget/) und Versand von Ereignissen dazu[`IEventTarget`](../aspose.svg.dom.events/ieventtarget/) . |
-| [Node](./node/) | Die Node-Schnittstelle ist der primäre Datentyp für das gesamte Dokumentobjektmodell. Es stellt einen einzelnen Knoten im Dokumentbaum dar. |
-| [Notation](./notation/) | Repräsentiert eine in der DTD deklarierte Notation. |
-| [ProcessingInstruction](./processinginstruction/) | Die ProcessingInstruction stellt eine "Verarbeitungsanweisung" dar, die in XML verwendet wird, um prozessorspezifische Informationen im Text des Dokuments beizubehalten. |
-| [ShadowRoot](./shadowroot/) | ShadowRoot ist ein Wurzelknoten des Schattenbaums. |
-| [Text](./text/) | Die Textschnittstelle erbt von CharacterData und repräsentiert den Textinhalt (in XML als Zeichendaten bezeichnet) eines Elements oder Attr. |
-| [TypeInfo](./typeinfo/) | Die TypeInfo stellt einen Typ dar, auf den von Element- oder Attr-Knoten verwiesen wird, die in den mit dem Dokument verknüpften Schemas angegeben sind. |
+| [EventTarget](./eventtarget/) | Das [`EventTarget`](../aspose.svg.dom/eventtarget/) Interface wird von allen Nodes in einer Implementierung, die das DOM‑Ereignismodell unterstützt, implementiert. Daher kann dieses Interface durch bindungsspezifische Cast‑Methoden auf einer Instanz des Node‑Interfaces erhalten werden. Das Interface ermöglicht die Registrierung und das Entfernen von Event‑Listenern auf einem [`EventTarget`](../aspose.svg.dom/eventtarget/) sowie das Senden von Ereignissen an dieses [`IEventTarget`](../aspose.svg.dom.events/ieventtarget/). |
+| [Node](./node/) | Das Node-Interface ist der primäre Datentyp für das gesamte Document Object Model. Es repräsentiert einen einzelnen Knoten im Dokumentbaum. |
+| [Notation](./notation/) | Stellt eine im DTD deklarierte Notation dar. |
+| [ProcessingInstruction](./processinginstruction/) | Das ProcessingInstruction repräsentiert eine "Verarbeitungsanweisung", die in XML verwendet wird, um prozessorspezifische Informationen im Text des Dokuments zu speichern. |
+| [QualifiedName](./qualifiedname/) | Stellt einen qualifizierten HTML-Namen dar. |
+| [ShadowRoot](./shadowroot/) | ShadowRoot ist ein Wurzelknoten des Shadow-Baums. |
+| [Text](./text/) | Die Text-Schnittstelle erbt von CharacterData und stellt den Textinhalt (in XML als Zeichendaten bezeichnet) eines Elements oder Attr dar. |
+| [TypeInfo](./typeinfo/) | Die TypeInfo repräsentiert einen Typ, der von Element- oder Attr-Knoten referenziert wird und in den mit dem Dokument verknüpften Schemata angegeben ist. |
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
 | --- | --- |
-| [IBrowsingContext](./ibrowsingcontext/) | Ein Browsing-Kontext ist eine Umgebung, in der[`Document`](../aspose.svg.dom/document/) Objekte werden dem Benutzer präsentiert. |
-| [IChildNode](./ichildnode/) | definiert[`IChildNode`](../aspose.svg.dom/ichildnode/) Schnittstelle, die implementiert werden soll[`Node`](../aspose.svg.dom/node/) das kann einen Elternteil haben. |
-| [IDocumentInit](./idocumentinit/) | Diese Schnittstelle bietet[`Document`](../aspose.svg.dom/document/) Initialisierungsinfo. |
-| [IDOMImplementation](./idomimplementation/) | Die DOMImplementation-Schnittstelle bietet eine Reihe von Methoden zum Ausführen von Operationen, die unabhängig von einer bestimmten Instanz des Dokumentobjektmodells sind. |
-| [IElementInit](./ielementinit/) | Diese Schnittstelle bietet[`Element`](../aspose.svg.dom/element/) Initialisierungsinfo. |
-| [IGlobalEventHandlers](./iglobaleventhandlers/) | Stellt eine Schnittstelle dar, die von allen Elementen geerbt werden muss, die von der Systemereignisbehandlung unterstützt werden |
-| [INonDocumentTypeChildNode](./inondocumenttypechildnode/) | definiert[`IChildNode`](../aspose.svg.dom/ichildnode/) das sind nicht[`DOCUMENT_TYPE_NODE`](../aspose.svg.dom/node/document_type_node/) . |
-| [INonElementParentNode](./inonelementparentnode/) | definiert[`IParentNode`](../aspose.svg.dom/iparentnode/) die kein Elementtyp sind. |
-| [IParentNode](./iparentnode/) | Definiert die[`IParentNode`](../aspose.svg.dom/iparentnode/) Schnittstelle, die von allen möglichen Eltern implementiert wird. |
+| [IBrowsingContext](./ibrowsingcontext/) | Ein Browsing-Context ist eine Umgebung, in der [`Document`](../aspose.svg.dom/document/)‑Objekte dem Benutzer präsentiert werden. |
+| [IChildNode](./ichildnode/) | Definiert das [`IChildNode`](../aspose.svg.dom/ichildnode/)‑Interface, das von [`Node`](../aspose.svg.dom/node/) implementiert werden sollte, das einen Elternknoten haben kann. |
+| [IDOMImplementation](./idomimplementation/) | Das DOMImplementation‑Interface stellt eine Reihe von Methoden bereit, um Vorgänge auszuführen, die von keiner konkreten Instanz des Document Object Model abhängig sind. |
+| [IGlobalEventHandlers](./iglobaleventhandlers/) | Repräsentiert ein Interface, das von allen Elementen, die systemweite Ereignisbehandlung unterstützen, geerbt werden muss. |
+| [INonDocumentTypeChildNode](./inondocumenttypechildnode/) | Definiert [`IChildNode`](../aspose.svg.dom/ichildnode/), die nicht [`DOCUMENT_TYPE_NODE`](../aspose.svg.dom/node/document_type_node/) sind. |
+| [INonElementParentNode](./inonelementparentnode/) | Definiert [`IParentNode`](../aspose.svg.dom/iparentnode/), die nicht vom Typ Element sind. |
+| [IParentNode](./iparentnode/) | Definiert das [`IParentNode`](../aspose.svg.dom/iparentnode/)‑Interface, das von allen möglichen Eltern implementiert wird. |
+| [IStorage](./istorage/) | Dieses Interface der Web-Storage-API bietet Zugriff auf die Sitzungs- oder Local-Storage einer bestimmten Domain. Siehe Web-Storage-Spezifikation: [https://html.spec.whatwg.org/multipage/webstorage.html#webstorage](https://html.spec.whatwg.org/multipage/webstorage.html#webstorage) |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [ShadowRootMode](./shadowrootmode/) | Modi, in denen ShadowRoot arbeiten kann. |
-
-
+| [ShadowRootMode](./shadowrootmode/) | Modi, in denen ShadowRoot betrieben werden kann. |

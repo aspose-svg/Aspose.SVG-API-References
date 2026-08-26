@@ -1,14 +1,14 @@
 ---
-title: Class MessageHandler
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Net.MessageHandler klas. Repräsentiert einen Basistyp für MessageHandler.
+title: "MessageHandler Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Net.MessageHandler Klasse. Stellt einen Basistyp für Nachrichten-Handler dar."
 type: docs
-weight: 2340
+weight: 4410
 url: /de/net/aspose.svg.net/messagehandler/
 ---
 ## MessageHandler class
 
-Repräsentiert einen Basistyp für Message-Handler.
+Stellt einen Basistyp für Nachrichtenhandler dar.
 
 ```csharp
 public abstract class MessageHandler
@@ -24,11 +24,9 @@ public abstract class MessageHandler
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(INetworkOperationContext) | Wird beim Überschreiben in einer abgeleiteten Klasse verwendet, um die Nachrichtenbehandlung zu implementieren. |
+| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | Wird in einer abgeleiteten Klasse überschrieben, um die Nachrichtenverarbeitung zu implementieren. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Net](../../aspose.svg.net/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

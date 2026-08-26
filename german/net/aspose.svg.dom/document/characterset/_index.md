@@ -1,27 +1,25 @@
 ---
-title: Document.CharacterSet
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Ruft die Kodierung des Dokuments ab.
+title: "Document.CharacterSet"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document CharacterSet-Eigenschaft. Gibt die Kodierung des Dokuments zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom/document/characterset/
 ---
 ## Document.CharacterSet property
 
-Ruft die Kodierung des Dokuments ab.
+Liest die Kodierung des Dokuments.
 
 ```csharp
 public string CharacterSet { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Kodierung des Dokuments.
 
 ### Siehe auch
 
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

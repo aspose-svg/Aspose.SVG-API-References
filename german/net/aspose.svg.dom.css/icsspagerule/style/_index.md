@@ -1,7 +1,7 @@
 ---
-title: ICSSPageRule.Style
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSPageRule eigendom. Der Deklarationsblock dieser Regel.
+title: "ICSSPageRule.Style"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSPageRule Style-Eigenschaft. Der Deklarationsblock dieser Regel."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.css/icsspagerule/style/
@@ -18,7 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSPageRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

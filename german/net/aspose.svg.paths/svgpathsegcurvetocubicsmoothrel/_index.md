@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegCurvetoCubicSmoothRel
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Paths.SVGPathSegCurvetoCubicSmoothRel klas. Die SVGPathSegCurvetoCubicSmoothRelSchnittstelle entspricht einem Pfaddatenbefehl relative glatte kubische Kurve zu s.
+title: "SVGPathSegCurvetoCubicSmoothRel Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Paths.SVGPathSegCurvetoCubicSmoothRel Klasse. Die SVGPathSegCurvetoCubicSmoothRel Schnittstelle entspricht einem relativen smooth cubic curveto‑s‑Pfaddatenbefehl."
 type: docs
-weight: 2560
+weight: 4630
 url: /de/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/
 ---
 ## SVGPathSegCurvetoCubicSmoothRel class
 
-Die SVGPathSegCurvetoCubicSmoothRel-Schnittstelle entspricht einem Pfaddatenbefehl "relative glatte kubische Kurve zu" (s).
+Das SVGPathSegCurvetoCubicSmoothRel-Interface entspricht einem "relativen glatten kubischen Curveto" (s) Pfaddaten-Befehl.
 
 ```csharp
 public class SVGPathSegCurvetoCubicSmoothRel : SVGPathSeg
@@ -18,24 +18,22 @@ public class SVGPathSegCurvetoCubicSmoothRel : SVGPathSeg
 
 | Name | Beschreibung |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Der Typ des Pfadsegments, wie er durch eine der auf dieser Schnittstelle definierten Konstanten angegeben wird. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Der Typ des Pfadsegments, angegeben durch den entsprechenden einstelligen Befehlsnamen. |
-| [X](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x/) { get; set; } | Die relative X-Koordinate für den Endpunkt dieses Bahnsegments. |
-| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x2/) { get; set; } | Die relative X-Koordinate für den zweiten Kontrollpunkt. |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y/) { get; set; } | Die relative Y-Koordinate für den Endpunkt dieses Bahnsegments. |
-| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/) { get; set; } | Die relative Y-Koordinate für den zweiten Kontrollpunkt. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Der Typ des Pfadsegments, wie durch eine der auf diesem Interface definierten Konstanten angegeben. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Der Typ des Pfadsegments, angegeben durch den entsprechenden ein‑Buchstaben‑Befehlsnamen. |
+| [X](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x/) { get; set; } | Die relative X‑Koordinate des Endpunkts dieses Pfadsegments. |
+| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x2/) { get; set; } | Die relative X‑Koordinate des zweiten Kontrollpunkts. |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y/) { get; set; } | Die relative Y‑Koordinate des Endpunkts dieses Pfadsegments. |
+| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/) { get; set; } | Die relative Y‑Koordinate des zweiten Kontrollpunkts. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Gibt nicht verwaltete und – optional – verwaltete Ressourcen frei. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
 
 ### Siehe auch
 
 * class [SVGPathSeg](../svgpathseg/)
-* namensraum [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

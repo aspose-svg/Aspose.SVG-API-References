@@ -1,27 +1,26 @@
 ---
-title: ITransformableBrush.TransformationMatrix
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ITransformableBrush eigendom. Holen Sie sich die Transformation. Die Transformation definiert eine lokale geometrische Transformation für diesen Pinsel.
+title: "ITransformableBrush.TransformationMatrix"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ITransformableBrush TransformationMatrix-Eigenschaft. Gibt die Transformation zurück. Die Transformation definiert eine lokale geometrische Transformation für diesen Pinsel."
 type: docs
-weight: 10
+weight: 20
 url: /de/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-Holen Sie sich die Transformation. Die Transformation definiert eine lokale geometrische Transformation für diesen Pinsel.
+Abrufen der Transformation. Die Transformation definiert eine lokale geometrische Transformation für diesen Pinsel.
 
 ```csharp
-public Matrix TransformationMatrix { get; }
+public IMatrix TransformationMatrix { get; set; }
 ```
 
 ### Rückgabewert
 
-Matrix transformieren
+Transformationsmatrix
 
 ### Siehe auch
 
+* interface [IMatrix](../../imatrix/)
 * interface [ITransformableBrush](../)
-* namensraum [Aspose.Svg.Drawing](../../itransformablebrush/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

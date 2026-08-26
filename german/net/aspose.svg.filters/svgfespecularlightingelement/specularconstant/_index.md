@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.SpecularConstant
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFESpecularLightingElement eigendom. Entspricht dem Attribut specularConstant des angegebenen feSpecularLightingElements.
+title: "SVGFESpecularLightingElement.SpecularConstant"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFESpecularLightingElement SpecularConstant‑Eigenschaft. Entspricht dem Attribut specularConstant im angegebenen feSpecularLighting‑Element"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.filters/svgfespecularlightingelement/specularconstant/
 ---
 ## SVGFESpecularLightingElement.SpecularConstant property
 
-Entspricht dem Attribut „specularConstant“ des angegebenen „feSpecularLighting“-Elements.
+Entspricht dem Attribut ‘specularConstant’ im angegebenen ‘feSpecularLighting’-Element.
 
 ```csharp
 public SVGAnimatedNumber SpecularConstant { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'specularConstant' des gegebenen 'feSpecularLighting'-Elements.
+Das Attribut ‘specularConstant’ des angegebenen ‘feSpecularLighting’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

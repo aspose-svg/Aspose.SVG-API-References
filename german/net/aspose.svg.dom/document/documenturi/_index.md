@@ -1,27 +1,25 @@
 ---
-title: Document.DocumentURI
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Der Speicherort des Dokuments oder null wenn nicht definiert oder wenn das Dokument mit DOMImplementation.createDocument erstellt wurde.
+title: "Document.DocumentURI"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document DocumentURI‑Eigenschaft. Der Speicherort des Dokuments oder null, falls undefiniert oder wenn das Dokument mit DOMImplementation.createDocument erstellt wurde."
 type: docs
 weight: 110
 url: /de/net/aspose.svg.dom/document/documenturi/
 ---
 ## Document.DocumentURI property
 
-Der Speicherort des Dokuments oder null, wenn nicht definiert oder wenn das Dokument mit DOMImplementation.createDocument erstellt wurde.
+Der Speicherort des Dokuments oder null, wenn undefiniert oder wenn das Dokument mittels DOMImplementation.createDocument erstellt wurde.
 
 ```csharp
 public string DocumentURI { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Dokument-URI.
+Die Dokument‑URI.
 
 ### Siehe auch
 
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

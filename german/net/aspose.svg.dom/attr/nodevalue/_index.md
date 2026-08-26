@@ -1,9 +1,9 @@
 ---
-title: Attr.NodeValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Attr eigendom. Der Wert dieses Knotens abhängig von seinem Typ.
+title: "Attr.NodeValue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Attr NodeValue-Eigenschaft. Der Wert dieses Knotens abhängig von seinem Typ."
 type: docs
-weight: 70
+weight: 60
 url: /de/net/aspose.svg.dom/attr/nodevalue/
 ---
 ## Attr.NodeValue property
@@ -14,14 +14,12 @@ Der Wert dieses Knotens, abhängig von seinem Typ.
 public override string NodeValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Knotenwert.
 
 ### Siehe auch
 
 * class [Attr](../)
-* namensraum [Aspose.Svg.Dom](../../attr/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedPreserveAspectRatio
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio klas. Wird für Attribute vom Typ SVGPreserveAspectRatio verwendet die animiert werden können.
+title: "SVGAnimatedPreserveAspectRatio Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio Klasse. Wird für Attribute des Typs SVGPreserveAspectRatio verwendet, die animiert werden können"
 type: docs
-weight: 170
+weight: 2160
 url: /de/net/aspose.svg.datatypes/svganimatedpreserveaspectratio/
 ---
 ## SVGAnimatedPreserveAspectRatio class
 
-Wird für Attribute vom Typ SVGPreserveAspectRatio verwendet, die animiert werden können.
+Wird für Attribute des Typs SVGPreserveAspectRatio verwendet, die animierbar sind.
 
 ```csharp
 public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspectRatio>
@@ -26,14 +26,12 @@ public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspect
 | Name | Beschreibung |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Gibt nicht verwaltete und – optional – verwaltete Ressourcen frei. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGPreserveAspectRatio](../svgpreserveaspectratio/)
-* namensraum [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

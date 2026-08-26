@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderLeftColor
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der Eigenschaft borderleftcolor in CSS2.
+title: "ICSS2Properties.BorderLeftColor"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties BorderLeftColor Eigenschaft. Siehe die Definition der border-left-color Eigenschaft in CSS2"
 type: docs
 weight: 160
 url: /de/net/aspose.svg.dom.css/icss2properties/borderleftcolor/
 ---
 ## ICSS2Properties.BorderLeftColor property
 
-Siehe Definition der Eigenschaft border-left-color in CSS2.
+Siehe die Definition der border-left-color‑Eigenschaft in CSS2.
 
 ```csharp
 public string BorderLeftColor { get; set; }
@@ -16,12 +16,10 @@ public string BorderLeftColor { get; set; }
 
 ### Rückgabewert
 
-Eigenschaft border-left-color
+border-left-color Eigenschaft
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

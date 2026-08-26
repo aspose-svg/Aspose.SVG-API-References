@@ -1,27 +1,25 @@
 ---
-title: Document.ContentType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Ruft den Inhaltstyp des Dokuments ab.
+title: "Document.ContentType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document ContentType Eigenschaft. Gibt den Inhaltstyp des Dokuments zurück."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom/document/contenttype/
 ---
 ## Document.ContentType property
 
-Ruft den Inhaltstyp des Dokuments ab.
+Liest den Inhaltstyp des Dokuments.
 
 ```csharp
 public string ContentType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Inhaltstyp.
+Der Typ des Inhalts.
 
 ### Siehe auch
 
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

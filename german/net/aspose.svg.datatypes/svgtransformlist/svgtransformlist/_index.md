@@ -1,14 +1,14 @@
 ---
-title: SVGTransformList.SVGTransformList
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGTransformList constructeur. Initialisiert eine neue Instanz vonSVGTransformList Klasse.
+title: "SVGTransformList"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGTransformList-Konstruktor. Initialisiert eine neue Instanz der Klasse SVGTransformList"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
 ## SVGTransformList() {#constructor}
 
-Initialisiert eine neue Instanz von[`SVGTransformList`](../) Klasse.
+Initialisiert eine neue Instanz der [`SVGTransformList`](../) Klasse.
 
 ```csharp
 public SVGTransformList()
@@ -17,14 +17,14 @@ public SVGTransformList()
 ### Siehe auch
 
 * class [SVGTransformList](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
+## SVGTransformList(*IEnumerable&lt;SVGTransform&gt;*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`SVGTransformList`](../) Klasse.
+Initialisiert eine neue Instanz der [`SVGTransformList`](../) Klasse.
 
 ```csharp
 public SVGTransformList(IEnumerable<SVGTransform> enumerable)
@@ -32,13 +32,11 @@ public SVGTransformList(IEnumerable<SVGTransform> enumerable)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Das Aufzählbare. |
+| enumerierbar | IEnumerable`1 | Das enumerierbare. |
 
 ### Siehe auch
 
 * class [SVGTransform](../../svgtransform/)
 * class [SVGTransformList](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

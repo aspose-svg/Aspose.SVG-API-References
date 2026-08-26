@@ -1,14 +1,14 @@
 ---
-title: DocumentType.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DocumentType methode. Gibt a zurückString die diese Instanz darstellt.
+title: "DocumentType.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DocumentType ToString-Methode. Gibt einen String zurück, der diese Instanz darstellt."
 type: docs
 weight: 80
 url: /de/net/aspose.svg.dom/documenttype/tostring/
 ---
 ## DocumentType.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [DocumentType](../)
-* namensraum [Aspose.Svg.Dom](../../documenttype/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

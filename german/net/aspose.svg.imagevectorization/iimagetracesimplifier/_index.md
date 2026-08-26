@@ -1,14 +1,14 @@
 ---
-title: Interface IImageTraceSimplifier
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.ImageVectorization.IImageTraceSimplifier koppel. Die Schnittstelle IImageTraceSimplifier ist für die Reduzierung der Punkte im Trace verantwortlich.
+title: "IImageTraceSimplifier Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.ImageVectorization.IImageTraceSimplifier Schnittstelle. Die IImageTraceSimplifier Schnittstelle ist für die Reduzierung von Punkten im Trace verantwortlich."
 type: docs
-weight: 2090
+weight: 4160
 url: /de/net/aspose.svg.imagevectorization/iimagetracesimplifier/
 ---
 ## IImageTraceSimplifier interface
 
-Die Schnittstelle IImageTraceSimplifier ist für die Reduzierung der Punkte im Trace verantwortlich.
+Die IImageTraceSimplifier Schnittstelle ist dafür verantwortlich, Punkte in der Spur zu reduzieren.
 
 ```csharp
 public interface IImageTraceSimplifier
@@ -18,11 +18,9 @@ public interface IImageTraceSimplifier
 
 | Name | Beschreibung |
 | --- | --- |
-| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify/)(IEnumerable&lt;PointF&gt;) | Reduziert die Anzahl der Punkte in der Spur. |
+| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify/)(*IEnumerable&lt;PointF&gt;*) | Reduziert die Anzahl der Punkte im Trace. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

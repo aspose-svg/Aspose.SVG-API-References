@@ -1,33 +1,31 @@
 ---
-title: Interface IUserAgentService
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Services.IUserAgentService koppel. Eine Schnittstelle die als Benutzeragentenumgebung beschrieben wird.
+title: "IUserAgentService Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Services.IUserAgentService Schnittstelle. Eine Schnittstelle, die eine Benutzeragenten-Umgebung beschreibt."
 type: docs
-weight: 3770
+weight: 5870
 url: /de/net/aspose.svg.services/iuseragentservice/
 ---
 ## IUserAgentService interface
 
-Eine Schnittstelle, die als Benutzeragentenumgebung beschrieben wird.
+An interface that is described a user agent environment.
 
 ```csharp
-public interface IUserAgentService : IService
+public interface IUserAgentService
 ```
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [CharSet](../../aspose.svg.services/iuseragentservice/charset/) { get; set; } | Ruft den primären Zeichensatz für ein Dokument ab oder legt ihn fest. |
-| [CSSEngineMode](../../aspose.svg.services/iuseragentservice/cssenginemode/) { get; set; } | Ruft den Modus ab oder legt ihn fest, in dem die CSS-Engine arbeitet. |
-| [FontsSettings](../../aspose.svg.services/iuseragentservice/fontssettings/) { get; } | erhält a!:Html.FontsSettings Objekt, das zur Konfiguration der Handhabung von Schriftarten verwendet wird. |
-| [Language](../../aspose.svg.services/iuseragentservice/language/) { get; set; } | Die[`Language`](./language/) gibt die primäre Sprache für den Inhalt des Elements und für alle Attribute des Elements an, die Text enthalten. Sein Wert muss ein gültiger BCP 47 sein ( Sprach-Tag oder die leere Zeichenfolge. Das Festlegen des Attributs auf die leere Zeichenfolge zeigt an, dass die primäre Sprache unbekannt ist. |
-| [UserStyleSheet](../../aspose.svg.services/iuseragentservice/userstylesheet/) { get; set; } | Ermöglicht die Angabe von Stilinformationen für ein bestimmtes Dokument |
+| [CharSet](../../aspose.svg.services/iuseragentservice/charset/) { get; set; } | Liest oder setzt den primären Zeichensatz für ein Dokument. |
+| [CSSEngineMode](../../aspose.svg.services/iuseragentservice/cssenginemode/) { get; set; } | Liest oder setzt den Modus, in dem die CSS-Engine arbeitet. |
+| [FontsSettings](../../aspose.svg.services/iuseragentservice/fontssettings/) { get; } | Liest ein !:Html.FontsSettings Objekt, das für die Konfiguration der Schriftartenverarbeitung verwendet wird. |
+| [Language](../../aspose.svg.services/iuseragentservice/language/) { get; set; } | Das [`Language`](./language/) gibt die primäre Sprache für den Inhalt des Elements und für alle Attribute des Elements an, die Text enthalten. Sein Wert muss ein gültiger BCP‑47‑Sprachcode sein oder eine leere Zeichenkette. Das Setzen des Attributs auf eine leere Zeichenkette bedeutet, dass die primäre Sprache unbekannt ist. |
+| [ShowImagePlaceholders](../../aspose.svg.services/iuseragentservice/showimageplaceholders/) { get; set; } | Bilder können Fallback‑Inhalte haben: Inhalte, die verwendet werden sollen, wenn eine externe Ressource nicht genutzt werden kann (z. B. weil sie in einem nicht unterstützten Format vorliegt). Die Eigenschaft [`ShowImagePlaceholders`](./showimageplaceholders/) gibt an, ob das Ersatzbild angezeigt werden soll (Standard ist true). |
+| [UserStyleSheet](../../aspose.svg.services/iuseragentservice/userstylesheet/) { get; set; } | Ermöglicht das Angeben von Stilinformationen für ein bestimmtes Dokument. |
 
 ### Siehe auch
 
-* interface [IService](../iservice/)
-* namensraum [Aspose.Svg.Services](../../aspose.svg.services/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

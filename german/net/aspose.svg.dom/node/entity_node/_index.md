@@ -1,14 +1,14 @@
 ---
-title: Node.ENTITY_NODE
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node veld. Ein Entitätsknoten
+title: "Node.ENTITY_NODE"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node ENTITY_NODE-Feld. Ein Entity-Knoten"
 type: docs
-weight: 390
+weight: 370
 url: /de/net/aspose.svg.dom/node/entity_node/
 ---
 ## Node.ENTITY_NODE field
 
-Ein Entitätsknoten
+Ein Entity‑Knoten
 
 ```csharp
 public const ushort ENTITY_NODE;
@@ -17,7 +17,5 @@ public const ushort ENTITY_NODE;
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

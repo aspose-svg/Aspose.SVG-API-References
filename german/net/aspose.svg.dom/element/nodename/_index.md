@@ -1,7 +1,7 @@
 ---
-title: Element.NodeName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element eigendom. Der Name dieses Knotens abhängig von seinem Typ.
+title: "Element.NodeName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element NodeName Eigenschaft. Der Name dieses Knotens, abhängig von seinem Typ"
 type: docs
 weight: 140
 url: /de/net/aspose.svg.dom/element/nodename/
@@ -14,14 +14,12 @@ Der Name dieses Knotens, abhängig von seinem Typ.
 public override string NodeName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Knotens.
 
 ### Siehe auch
 
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

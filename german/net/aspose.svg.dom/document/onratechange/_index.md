@@ -1,14 +1,14 @@
 ---
-title: Document.OnRateChange
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den Ereignishandler für das OnRateChangeEreignis ab oder legt ihn fest.
+title: "Document.OnRateChange"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnRateChange Ereignis. Ruft den Ereignishandler für das OnRateChange-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 630
 url: /de/net/aspose.svg.dom/document/onratechange/
 ---
 ## Document.OnRateChange event
 
-Ruft den Ereignishandler für das OnRateChange-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnRateChange-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnRateChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnRateChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

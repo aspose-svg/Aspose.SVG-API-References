@@ -1,14 +1,14 @@
 ---
-title: Unit.FromDegrees
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Unit methode. Gibt a zurückAngle Objekt das in Grad dargestellt wird.
+title: "Unit.FromDegrees"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Unit FromDegrees Methode. Gibt ein Angle-Objekt zurück, das in Grad dargestellt wird"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.drawing/unit/fromdegrees/
 ---
 ## Unit.FromDegrees method
 
-Gibt a zurück[`Angle`](../../angle/) Objekt, das in Grad dargestellt wird.
+Gibt ein [`Angle`](../../angle/) Objekt zurück, das in Grad dargestellt wird.
 
 ```csharp
 public static Angle FromDegrees(double value)
@@ -20,13 +20,11 @@ public static Angle FromDegrees(double value)
 
 ### Rückgabewert
 
-Gibt ein[`Angle`](../../angle/) Objekt.
+Gibt ein [`Angle`](../../angle/) Objekt zurück.
 
 ### Siehe auch
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* namensraum [Aspose.Svg.Drawing](../../unit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

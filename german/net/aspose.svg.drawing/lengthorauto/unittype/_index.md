@@ -1,20 +1,20 @@
 ---
-title: LengthOrAuto.UnitType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: LengthOrAuto eigendom. Ruft den Einheitentyp des abUnit .
+title: "LengthOrAuto.UnitType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "LengthOrAuto UnitType property. Gibt den Einheitstyp der Unit zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.svg.drawing/lengthorauto/unittype/
 ---
 ## LengthOrAuto.UnitType property
 
-Ruft den Einheitentyp des ab[`Unit`](../../unit/) .
+Gibt den Einheitstyp der [`Unit`](../../unit/) zurück.
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ der Einheit.
 
@@ -22,7 +22,5 @@ Der Typ der Einheit.
 
 * class [UnitType](../../unittype/)
 * class [LengthOrAuto](../)
-* namensraum [Aspose.Svg.Drawing](../../lengthorauto/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

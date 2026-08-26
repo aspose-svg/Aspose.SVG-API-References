@@ -1,14 +1,14 @@
 ---
-title: StencilConfiguration.StencilConfiguration
-second_title: Aspose.SVG für .NET-API-Referenz
-description: StencilConfiguration constructeur. Initialisiert eine neue Instanz vonStencilConfiguration Klasse.
+title: "StencilConfiguration"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "StencilConfiguration Konstruktor. Initialisiert eine neue Instanz der StencilConfiguration-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.imagevectorization/stencilconfiguration/stencilconfiguration/
 ---
 ## StencilConfiguration constructor
 
-Initialisiert eine neue Instanz von[`StencilConfiguration`](../) Klasse.
+Initialisiert eine neue Instanz der [`StencilConfiguration`](../) Klasse.
 
 ```csharp
 public StencilConfiguration()
@@ -17,7 +17,5 @@ public StencilConfiguration()
 ### Siehe auch
 
 * class [StencilConfiguration](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

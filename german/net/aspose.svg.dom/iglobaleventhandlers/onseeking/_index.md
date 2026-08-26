@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnSeeking
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IGlobalEventHandlers evenement. Ruft den EventHandler für das OnSeekingEreignis ab oder legt ihn fest.
+title: "IGlobalEventHandlers.OnSeeking"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IGlobalEventHandlers OnSeeking-Ereignis. Ruft den Ereignishandler ab oder legt ihn fest für das OnSeeking-Ereignis"
 type: docs
 weight: 410
 url: /de/net/aspose.svg.dom/iglobaleventhandlers/onseeking/
 ---
 ## IGlobalEventHandlers.OnSeeking event
 
-Ruft den Event-Handler für das OnSeeking-Ereignis ab oder legt ihn fest.
+Liest oder setzt den Ereignishandler für das OnSeeking-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnSeeking;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSeeking;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namensraum [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IDevice.Options
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDevice eigendom. Ruft Renderoptionen ab.
+title: "IDevice.Options"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDevice Options-Eigenschaft. Gibt die Rendering-Optionen zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.rendering/idevice/options/
 ---
 ## IDevice.Options property
 
-Ruft Renderoptionen ab.
+Ermittelt die Rendering‑Optionen.
 
 ```csharp
 public RenderingOptions Options { get; }
@@ -18,7 +18,5 @@ public RenderingOptions Options { get; }
 
 * class [RenderingOptions](../../renderingoptions/)
 * interface [IDevice](../)
-* namensraum [Aspose.Svg.Rendering](../../idevice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

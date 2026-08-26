@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.K3
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGFECompositeElement eigendom. Entspricht dem Attribut k3 des angegebenen feCompositeElements.
+title: "SVGFECompositeElement.K3"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGFECompositeElement K3 Eigenschaft. Entspricht dem Attribut k3 im angegebenen feComposite-Element"
 type: docs
 weight: 60
 url: /de/net/aspose.svg.filters/svgfecompositeelement/k3/
 ---
 ## SVGFECompositeElement.K3 property
 
-Entspricht dem Attribut „k3“ des angegebenen „feComposite“-Elements.
+Entspricht dem Attribut ‘k3’ des angegebenen ‘feComposite’-Elements.
 
 ```csharp
 public SVGAnimatedNumber K3 { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut „k3“ für das angegebene „feComposite“-Element.
+Das Attribut ‘k3’ im angegebenen ‘feComposite’-Element.
 
 ### Siehe auch
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFECompositeElement](../)
-* namensraum [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

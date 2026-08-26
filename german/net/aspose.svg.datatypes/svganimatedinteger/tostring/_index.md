@@ -1,14 +1,14 @@
 ---
-title: SVGAnimatedInteger.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGAnimatedInteger methode. Gibt a zurückString die diese Instanz darstellt.
+title: "SVGAnimatedInteger.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGAnimatedInteger ToString-Methode. Gibt einen String zurück, der diese Instanz darstellt"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.datatypes/svganimatedinteger/tostring/
 ---
 ## SVGAnimatedInteger.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [SVGAnimatedInteger](../)
-* namensraum [Aspose.Svg.DataTypes](../../svganimatedinteger/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

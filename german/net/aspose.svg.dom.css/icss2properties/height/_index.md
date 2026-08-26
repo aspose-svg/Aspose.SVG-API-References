@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Height
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der Eigenschaft height in CSS2.
+title: "ICSS2Properties.Height"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties Height Eigenschaft. Siehe die Definition der height Eigenschaft in CSS2"
 type: docs
-weight: 550
+weight: 580
 url: /de/net/aspose.svg.dom.css/icss2properties/height/
 ---
 ## ICSS2Properties.Height property
 
-Siehe Definition der Eigenschaft height in CSS2.
+Siehe die Definition der height-Eigenschaft in CSS2.
 
 ```csharp
 public string Height { get; set; }
@@ -16,12 +16,10 @@ public string Height { get; set; }
 
 ### Rückgabewert
 
-Höhe Eigenschaft
+height Eigenschaft
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

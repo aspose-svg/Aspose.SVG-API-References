@@ -1,14 +1,14 @@
 ---
-title: Document.OnPlaying
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den EventHandler für das OnPlayingEreignis ab oder legt ihn fest.
+title: "Document.OnPlaying"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnPlaying‑Ereignis. Ruft den Ereignishandler für das OnPlaying‑Ereignis ab oder legt ihn fest."
 type: docs
 weight: 610
 url: /de/net/aspose.svg.dom/document/onplaying/
 ---
 ## Document.OnPlaying event
 
-Ruft den Event-Handler für das OnPlaying-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnPlaying-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnPlaying;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnPlaying;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

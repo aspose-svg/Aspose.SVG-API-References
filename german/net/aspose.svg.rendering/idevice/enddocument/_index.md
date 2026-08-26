@@ -1,7 +1,7 @@
 ---
-title: IDevice.EndDocument
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IDevice methode. Beendet das Rendern des Dokuments.
+title: "IDevice.EndDocument"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IDevice EndDocument Methode. Beendet das Rendern des Dokuments."
 type: docs
 weight: 110
 url: /de/net/aspose.svg.rendering/idevice/enddocument/
@@ -17,7 +17,5 @@ public void EndDocument()
 ### Siehe auch
 
 * interface [IDevice](../)
-* namensraum [Aspose.Svg.Rendering](../../idevice/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

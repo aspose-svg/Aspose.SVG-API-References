@@ -1,7 +1,7 @@
 ---
-title: SVGStyleElement.Sheet
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGStyleElement eigendom. Ruft das zugehörige Stylesheet ab.
+title: "SVGStyleElement.Sheet"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGStyleElement Sheet-Eigenschaft. Gibt das zugehörige Stylesheet zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.svg/svgstyleelement/sheet/
@@ -18,7 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../../aspose.svg.dom.css/istylesheet/)
 * class [SVGStyleElement](../)
-* namensraum [Aspose.Svg](../../svgstyleelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

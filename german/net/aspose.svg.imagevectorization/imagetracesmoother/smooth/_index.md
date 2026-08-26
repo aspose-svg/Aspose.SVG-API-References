@@ -1,7 +1,7 @@
 ---
-title: ImageTraceSmoother.Smooth
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ImageTraceSmoother methode. Glättet die Spur.
+title: "ImageTraceSmoother.Smooth"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ImageTraceSmoother Smooth-Methode. Glättet die Spur"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.imagevectorization/imagetracesmoother/smooth/
@@ -16,16 +16,14 @@ public virtual IEnumerable<PointF> Smooth(IEnumerable<PointF> trace)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Die Liste der Ablaufverfolgungspunkte. |
+| Spur | IEnumerable`1 | Die Liste der Spurpunkte. |
 
 ### Rückgabewert
 
-Die Liste der geglätteten Ablaufverfolgungspunkte.
+Die Liste der geglätteten Spurpunkte.
 
 ### Siehe auch
 
 * class [ImageTraceSmoother](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_DOCUMENT_FRAGMENT
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NodeFilter veld. DocumentFragmentKnoten anzeigen.
+title: "NodeFilter.SHOW_DOCUMENT_FRAGMENT"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NodeFilter SHOW_DOCUMENT_FRAGMENT Feld. Zeigt DocumentFragment-Knoten"
 type: docs
 weight: 110
 url: /de/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment/
@@ -17,7 +17,5 @@ public const long SHOW_DOCUMENT_FRAGMENT;
 ### Siehe auch
 
 * class [NodeFilter](../)
-* namensraum [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

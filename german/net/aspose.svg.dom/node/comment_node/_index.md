@@ -1,14 +1,14 @@
 ---
-title: Node.COMMENT_NODE
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node veld. Ein Kommentar node
+title: "Node.COMMENT_NODE"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node COMMENT_NODE‑Feld. Ein Kommentar‑Knoten"
 type: docs
-weight: 340
+weight: 320
 url: /de/net/aspose.svg.dom/node/comment_node/
 ---
 ## Node.COMMENT_NODE field
 
-Ein Kommentar node
+Ein Kommentar‑Knoten
 
 ```csharp
 public const ushort COMMENT_NODE;
@@ -17,7 +17,5 @@ public const ushort COMMENT_NODE;
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

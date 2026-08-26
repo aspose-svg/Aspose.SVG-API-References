@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Replace
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMTokenList methode. Ersetzt einen vorhandenen Token durch einen neuen Token. Tut nichts wenn das erste Token nicht existiert.
+title: "DOMTokenList.Replace"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMTokenList Replace-Methode. Ersetzt ein vorhandenes Token durch ein neues Token. Tut nichts, wenn das erste Token nicht existiert."
 type: docs
 weight: 80
 url: /de/net/aspose.svg.collections/domtokenlist/replace/
 ---
 ## DOMTokenList.Replace method
 
-Ersetzt einen vorhandenen Token durch einen neuen Token. Tut nichts, wenn das erste Token nicht existiert.
+Ersetzt ein vorhandenes Token durch ein neues Token. Tut nichts, wenn das erste Token nicht existiert.
 
 ```csharp
 public bool Replace(string token, string newToken)
@@ -21,12 +21,10 @@ public bool Replace(string token, string newToken)
 
 ### Rückgabewert
 
-Boolesch`WAHR` wenn der Token gefunden und ersetzt wurde,`FALSCH` ansonsten.
+Boolescher Wert `true`, wenn das Token gefunden und ersetzt wurde, sonst `false`.
 
 ### Siehe auch
 
 * class [DOMTokenList](../)
-* namensraum [Aspose.Svg.Collections](../../domtokenlist/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

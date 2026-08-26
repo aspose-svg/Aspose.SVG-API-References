@@ -1,9 +1,9 @@
 ---
-title: Node.ATTRIBUTE_NODE
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Node veld. Ein Attributknoten
+title: "Node.ATTRIBUTE_NODE"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Node ATTRIBUTE_NODE-Feld. Ein Attributknoten"
 type: docs
-weight: 320
+weight: 300
 url: /de/net/aspose.svg.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
@@ -17,7 +17,5 @@ public const ushort ATTRIBUTE_NODE;
 ### Siehe auch
 
 * class [Node](../)
-* namensraum [Aspose.Svg.Dom](../../node/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Size.Size
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Size constructeur. Initialisiert eine neue Instanz vonSize Klasse.
+title: "Size"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Size-Konstruktor. Initialisiert eine neue Instanz der Size-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-Initialisiert eine neue Instanz von[`Size`](../) Klasse.
+Initialisiert eine neue Instanz der [`Size`](../)-Klasse.
 
 ```csharp
 public Size()
@@ -17,14 +17,14 @@ public Size()
 ### Siehe auch
 
 * class [Size](../)
-* namensraum [Aspose.Svg.Drawing](../../size/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(int, int) {#constructor_2}
+## Size(*int, int*) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`Size`](../) Klasse und geben Sie Höhe und Breite in Pixel an.
+Initialisiert eine neue Instanz der [`Size`](../)-Klasse und gibt eine Höhe und Breite in Pixeln an.
 
 ```csharp
 public Size(int width, int height)
@@ -38,14 +38,14 @@ public Size(int width, int height)
 ### Siehe auch
 
 * class [Size](../)
-* namensraum [Aspose.Svg.Drawing](../../size/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(Length, Length) {#constructor_1}
+## Size(*[Length](../../length/), [Length](../../length/)*) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`Size`](../) Klasse.
+Initialisiert eine neue Instanz der [`Size`](../)-Klasse.
 
 ```csharp
 public Size(Length width, Length height)
@@ -60,7 +60,5 @@ public Size(Length width, Length height)
 
 * class [Length](../../length/)
 * class [Size](../)
-* namensraum [Aspose.Svg.Drawing](../../size/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

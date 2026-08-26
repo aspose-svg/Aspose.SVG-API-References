@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Values
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationObserverInit eigendom. Ruft eine Sammlung ab die die Werte in der enthältMutationObserverInitSammlung.
+title: "MutationObserverInit.Values"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationObserverInit Values‑Eigenschaft. Gibt eine Sammlung zurück, die die Werte in der MutationObserverInit‑Sammlung enthält."
 type: docs
 weight: 130
 url: /de/net/aspose.svg.dom.mutations/mutationobserverinit/values/
 ---
 ## MutationObserverInit.Values property
 
-Ruft eine Sammlung ab, die die Werte in der enthält[`MutationObserverInit`](../)Sammlung.
+Gibt eine Sammlung zurück, die die Werte in der [`MutationObserverInit`](../)-Sammlung enthält.
 
 ```csharp
 public ICollection<object> Values { get; }
@@ -16,12 +16,10 @@ public ICollection<object> Values { get; }
 
 ### Rückgabewert
 
-Eine Auflistung, die die Werte enthält.
+Eine Sammlung, die die Werte enthält.
 
 ### Siehe auch
 
 * class [MutationObserverInit](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

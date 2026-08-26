@@ -1,27 +1,25 @@
 ---
-title: DOMTreatNullAsAttribute.Value
-second_title: Aspose.SVG für .NET-API-Referenz
-description: DOMTreatNullAsAttribute eigendom. Ruft den Wert ab oder legt ihn fest.
+title: "DOMTreatNullAsAttribute.Value"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "DOMTreatNullAsAttribute-Wert-Eigenschaft. Ruft den Wert ab oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
 ---
 ## DOMTreatNullAsAttribute.Value property
 
-Ruft den Wert ab oder legt ihn fest.
+Liest oder setzt den Wert.
 
 ```csharp
 public object Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Wert.
 
 ### Siehe auch
 
 * class [DOMTreatNullAsAttribute](../)
-* namensraum [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

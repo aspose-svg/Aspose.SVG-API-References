@@ -1,14 +1,14 @@
 ---
-title: MultipartFormDataContent.Add
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MultipartFormDataContent methode. Fügen Sie den Inhalt der hinzuMultipartFormDataContent Klasse
+title: "MultipartFormDataContent.Add"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MultipartFormDataContent Add-Methode. Fügt den Inhalt zur MultipartFormDataContent-Klasse hinzu."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.net/multipartformdatacontent/add/
 ---
-## Add(Content) {#add}
+## Add(*[Content](../../content/)*) {#add}
 
-Fügen Sie den Inhalt der hinzu[`MultipartFormDataContent`](../) Klasse
+Fügt den Inhalt zur [`MultipartFormDataContent`](../)-Klasse hinzu.
 
 ```csharp
 public override void Add(Content content)
@@ -16,20 +16,20 @@ public override void Add(Content content)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | Content | Der Inhalt. |
+| Inhalt | Content | Der Inhalt. |
 
 ### Siehe auch
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namensraum [Aspose.Svg.Net](../../multipartformdatacontent/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string) {#add_1}
+## Add(*[Content](../../content/), string*) {#add_1}
 
-Fügen Sie den Inhalt der hinzu[`MultipartFormDataContent`](../) Klasse mit Feldname parameter
+Fügen Sie den Inhalt zur Klasse [`MultipartFormDataContent`](../) mit dem Parameter Feldname hinzu.
 
 ```csharp
 public void Add(Content content, string name)
@@ -37,21 +37,21 @@ public void Add(Content content, string name)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | Content | Der Inhalt. |
+| Inhalt | Content | Der Inhalt. |
 | name | String | Der Feldname. |
 
 ### Siehe auch
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namensraum [Aspose.Svg.Net](../../multipartformdatacontent/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string, string) {#add_2}
+## Add(*[Content](../../content/), string, string*) {#add_2}
 
-Fügen Sie den Inhalt der hinzu[`MultipartFormDataContent`](../) Klasse mit Feld- und Dateiname parameter
+Fügen Sie den Inhalt zur Klasse [`MultipartFormDataContent`](../) mit den Parametern Feld- und Dateiname hinzu.
 
 ```csharp
 public void Add(Content content, string name, string fileName)
@@ -59,7 +59,7 @@ public void Add(Content content, string name, string fileName)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| content | Content | Der Inhalt. |
+| Inhalt | Content | Der Inhalt. |
 | name | String | Der Feldname. |
 | fileName | String | Der Dateiname. |
 
@@ -67,7 +67,5 @@ public void Add(Content content, string name, string fileName)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namensraum [Aspose.Svg.Net](../../multipartformdatacontent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

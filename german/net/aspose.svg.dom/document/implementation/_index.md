@@ -1,7 +1,7 @@
 ---
-title: Document.Implementation
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Das DOMImplementationObjekt das dieses Dokument verarbeitet.
+title: "Document.Implementation"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document Implementation-Eigenschaft. Das DOMImplementation-Objekt, das dieses Dokument verarbeitet."
 type: docs
 weight: 130
 url: /de/net/aspose.svg.dom/document/implementation/
@@ -18,7 +18,5 @@ public IDOMImplementation Implementation { get; }
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

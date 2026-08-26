@@ -1,9 +1,9 @@
 ---
-title: Class DOMNameAttribute
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Attributes.DOMNameAttribute klas. Gibt den offiziellen DOMObjektnamen an wie er vom W3C definiert wurde.
+title: "DOMNameAttribute-Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Attributes.DOMNameAttribute-Klasse. Gibt den offiziellen DOM-Objektnamen an, wie er vom W3C definiert wurde."
 type: docs
-weight: 380
+weight: 2380
 url: /de/net/aspose.svg.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class
@@ -15,21 +15,20 @@ Gibt den offiziellen DOM-Objektnamen an, wie er vom W3C definiert wurde.
 public sealed class DOMNameAttribute : Attribute
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [DOMNameAttribute](domnameattribute/)(string) | Initialisiert eine neue Instanz von`DOMNameAttribute` Klasse. |
+| [DOMNameAttribute](domnameattribute/)(*string*) | Initialisiert eine neue Instanz der `DOMNameAttribute`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Name](../../aspose.svg.dom.attributes/domnameattribute/name/) { get; } | Ruft den DOM-Namen ab. |
+| [Name](../../aspose.svg.dom.attributes/domnameattribute/name/) { get; } | Liest den DOM-Namen. |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnMouseOver
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document evenement. Ruft den Ereignishandler für das OnMouseOverEreignis ab oder legt ihn fest.
+title: "Document.OnMouseOver"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document OnMouseOver Ereignis. Ruft den Ereignishandler für das OnMouseOver-Ereignis ab oder legt ihn fest."
 type: docs
 weight: 560
 url: /de/net/aspose.svg.dom/document/onmouseover/
 ---
 ## Document.OnMouseOver event
 
-Ruft den Ereignishandler für das OnMouseOver-Ereignis ab oder legt ihn fest.
+Liest oder setzt Ereignis-Handler für das OnMouseOver-Ereignis.
 
 ```csharp
 public event DOMEventHandler OnMouseOver;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseOver;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

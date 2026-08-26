@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.RemoveDescriptions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGOptimizationOptions eigendom. Holt oder setzt die Option nur den Inhalt des Editors oder leere Elemente zu entfernen. Es ist standardmäßig true.
+title: "SVGOptimizationOptions.RemoveDescriptions"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGOptimizationOptions RemoveDescriptions Eigenschaft. Ruft die Option ab oder legt sie fest, um nur den Inhalt von Editoren oder leere Elemente zu entfernen. Sie ist standardmäßig true."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removedescriptions/
 ---
 ## SVGOptimizationOptions.RemoveDescriptions property
 
-Holt oder setzt die Option, nur den Inhalt des Editors oder leere Elemente zu entfernen. Es ist standardmäßig „true“.
+Liest oder setzt die Option, nur den Inhalt von Editoren oder leere Elemente zu entfernen. Der Standardwert ist 'true'.
 
 ```csharp
 public bool RemoveDescriptions { get; set; }
@@ -17,7 +17,5 @@ public bool RemoveDescriptions { get; set; }
 ### Siehe auch
 
 * class [SVGOptimizationOptions](../)
-* namensraum [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

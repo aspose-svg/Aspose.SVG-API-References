@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.CtrlKey
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent eigendom. Siehe das Attribut ctrlKey.
+title: "MouseEvent.CtrlKey"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent CtrlKey-Eigenschaft. Siehe das Attribut ctrlKey"
 type: docs
 weight: 70
 url: /de/net/aspose.svg.dom.events/mouseevent/ctrlkey/
 ---
 ## MouseEvent.CtrlKey property
 
-Siehe das Attribut ctrlKey.
+Beziehen Sie sich auf das Attribut ctrlKey.
 
 ```csharp
 public bool CtrlKey { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn [Steuertaste]; ansonsten,`FALSCH` .
+`true` wenn [control key]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

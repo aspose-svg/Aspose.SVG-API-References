@@ -1,14 +1,14 @@
 ---
-title: CharacterData.AppendData
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CharacterData methode. Hängen Sie die Zeichenfolge an das Ende der Zeichendaten des Knotens an.
+title: "CharacterData.AppendData"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CharacterData AppendData Methode. Hängt die Zeichenkette an das Ende der Zeichendaten des Knotens an."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom/characterdata/appenddata/
 ---
 ## CharacterData.AppendData method
 
-Hängen Sie die Zeichenfolge an das Ende der Zeichendaten des Knotens an.
+Hängt die Zeichenkette an das Ende der character data des Knotens an.
 
 ```csharp
 public virtual void AppendData(string data)
@@ -21,7 +21,5 @@ public virtual void AppendData(string data)
 ### Siehe auch
 
 * class [CharacterData](../)
-* namensraum [Aspose.Svg.Dom](../../characterdata/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

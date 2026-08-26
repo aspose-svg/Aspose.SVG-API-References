@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentStyle
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.IDocumentStyle koppel. Die DocumentStyleSchnittstelle bietet einen Mechanismus mit dem die in ein Dokument eingebetteten Stylesheets abgerufen werden können. Es wird erwartet dass eine Instanz der DocumentStyleSchnittstelle abgerufen werden kann indem bindungsspezifische Umwandlungsmethoden für eine Instanz der DocumentSchnittstelle verwendet werden.
+title: "IDocumentStyle‑Interface"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.IDocumentStyle‑Interface. Das DocumentStyle‑Interface bietet einen Mechanismus, mit dem die in ein Dokument eingebetteten Stylesheets abgerufen werden können. Es wird erwartet, dass eine Instanz des DocumentStyle‑Interface über bindungsspezifische Cast‑Methoden einer Instanz des Document‑Interface erhalten werden kann."
 type: docs
-weight: 700
+weight: 2700
 url: /de/net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface
 
-Die DocumentStyle-Schnittstelle bietet einen Mechanismus, mit dem die in ein Dokument eingebetteten Stylesheets abgerufen werden können. Es wird erwartet, dass eine Instanz der DocumentStyle-Schnittstelle abgerufen werden kann, indem bindungsspezifische Umwandlungsmethoden für eine Instanz der Document-Schnittstelle verwendet werden.
+Die DocumentStyle-Schnittstelle bietet einen Mechanismus, mit dem die in ein Dokument eingebetteten Stylesheets abgerufen werden können. Es wird erwartet, dass eine Instanz der DocumentStyle-Schnittstelle durch bindungsspezifische Cast-Methoden auf einer Instanz der Document-Schnittstelle erhalten werden kann.
 
 ```csharp
 public interface IDocumentStyle
@@ -18,11 +18,9 @@ public interface IDocumentStyle
 
 | Name | Beschreibung |
 | --- | --- |
-| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | Eine Liste mit allen Stylesheets, die explizit mit einem Dokument verknüpft oder darin eingebettet sind. Bei HTML-Dokumenten umfasst dies externe Stylesheets, die über das HTML-LINK-Element eingebunden werden, und Inline-STYLE-Elemente. |
+| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | Eine Liste, die alle Stylesheets enthält, die explizit in ein Dokument verlinkt oder eingebettet sind. Für HTML‑Dokumente umfasst dies externe Stylesheets, die über das HTML‑LINK‑Element eingebunden werden, sowie inline STYLE‑Elemente. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

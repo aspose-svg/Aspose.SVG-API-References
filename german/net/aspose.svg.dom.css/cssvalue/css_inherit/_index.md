@@ -1,14 +1,14 @@
 ---
-title: CSSValue.CSS_INHERIT
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSValue veld. Der Wert wird vererbt und der cssText enthält inherit.
+title: "CSSValue.CSS_INHERIT"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSValue CSS_INHERIT Feld. Der Wert ist vererbt und das cssText enthält 'inherit'."
 type: docs
 weight: 80
 url: /de/net/aspose.svg.dom.css/cssvalue/css_inherit/
 ---
 ## CSSValue.CSS_INHERIT field
 
-Der Wert wird vererbt und der cssText enthält "inherit".
+Der Wert ist vererbt und das cssText enthält "inherit".
 
 ```csharp
 public const ushort CSS_INHERIT;
@@ -17,7 +17,5 @@ public const ushort CSS_INHERIT;
 ### Siehe auch
 
 * class [CSSValue](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

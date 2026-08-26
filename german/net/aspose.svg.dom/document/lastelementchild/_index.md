@@ -1,14 +1,14 @@
 ---
-title: Document.LastElementChild
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Gibt den letzten untergeordneten Elementknoten dieses Elements zurück. null wenn dieses Element keine untergeordneten Elemente hat.
+title: "Document.LastElementChild"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document LastElementChild-Eigenschaft. Gibt den letzten Kind-Elementknoten dieses Elements zurück. Null, wenn dieses Element keine Kind-Elemente hat."
 type: docs
 weight: 150
 url: /de/net/aspose.svg.dom/document/lastelementchild/
 ---
 ## Document.LastElementChild property
 
-Gibt den letzten untergeordneten Elementknoten dieses Elements zurück. null, wenn dieses Element keine untergeordneten Elemente hat.
+Gibt den letzten Kind-Elementknoten dieses Elements zurück. null, wenn dieses Element keine Kindelemente hat.
 
 ```csharp
 public Element LastElementChild { get; }
@@ -18,7 +18,5 @@ public Element LastElementChild { get; }
 
 * class [Element](../../element/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

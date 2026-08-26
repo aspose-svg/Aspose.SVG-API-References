@@ -1,14 +1,14 @@
 ---
-title: TimeEvent.InitTimeEvent
-second_title: Aspose.SVG für .NET-API-Referenz
-description: TimeEvent methode. Die initTimeEventMethode wird verwendet um den Wert eines TimeEvent zu initialisieren das über die DocumentEventSchnittstelle erstellt wurde. Diese Methode darf nur aufgerufen werden bevor das TimeEvent über die dispatchEventMethode abgesetzt wurde obwohl sie während dieser Phase bei Bedarf mehrmals aufgerufen werden kann. Bei mehreren Aufrufen hat der letzte Aufruf Vorrang.
+title: "TimeEvent.InitTimeEvent"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "TimeEvent InitTimeEvent Methode. Die initTimeEvent‑Methode wird verwendet, um den Wert eines TimeEvent zu initialisieren, das über die DocumentEvent‑Schnittstelle erstellt wurde. Diese Methode darf nur aufgerufen werden, bevor das TimeEvent über die dispatchEvent‑Methode gesendet wurde, kann jedoch in dieser Phase bei Bedarf mehrfach aufgerufen werden. Wird sie mehrfach aufgerufen, hat der letzte Aufruf Vorrang"
 type: docs
 weight: 30
 url: /de/net/aspose.svg.events/timeevent/inittimeevent/
 ---
 ## TimeEvent.InitTimeEvent method
 
-Die initTimeEvent-Methode wird verwendet, um den Wert eines TimeEvent zu initialisieren, das über die DocumentEvent-Schnittstelle erstellt wurde. Diese Methode darf nur aufgerufen werden, bevor das TimeEvent über die dispatchEvent-Methode abgesetzt wurde, obwohl sie während dieser Phase bei Bedarf mehrmals aufgerufen werden kann. Bei mehreren Aufrufen hat der letzte Aufruf Vorrang.
+Die Methode initTimeEvent wird verwendet, um den Wert eines über die DocumentEvent‑Schnittstelle erstellten TimeEvent zu initialisieren. Diese Methode darf nur aufgerufen werden, bevor das TimeEvent über die dispatchEvent‑Methode gesendet wurde, kann jedoch bei Bedarf während dieser Phase mehrfach aufgerufen werden. Wird sie mehrfach aufgerufen, hat der letzte Aufruf Vorrang.
 
 ```csharp
 public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
@@ -18,13 +18,11 @@ public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
 | --- | --- | --- |
 | typeArg | String | Gibt den Ereignistyp an. |
 | viewArg | IAbstractView | Gibt die AbstractView des Ereignisses an. |
-| detailArg | Int64 | Gibt die Details des Ereignisses an. |
+| detailArg | Int64 | Gibt das Detail des Ereignisses an. |
 
 ### Siehe auch
 
 * interface [IAbstractView](../../../aspose.svg.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* namensraum [Aspose.Svg.Events](../../timeevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

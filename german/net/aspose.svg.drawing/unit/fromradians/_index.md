@@ -1,14 +1,14 @@
 ---
-title: Unit.FromRadians
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Unit methode. Gibt a zurückAngle Objekt das im Bogenmaß dargestellt wird.
+title: "Unit.FromRadians"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Methode Unit FromRadians. Gibt ein Angle-Objekt zurück, das in Radianten dargestellt wird."
 type: docs
 weight: 200
 url: /de/net/aspose.svg.drawing/unit/fromradians/
 ---
 ## Unit.FromRadians method
 
-Gibt a zurück[`Angle`](../../angle/) Objekt, das im Bogenmaß dargestellt wird.
+Gibt ein [`Angle`](../../angle/) Objekt zurück, das in Radianten dargestellt wird.
 
 ```csharp
 public static Angle FromRadians(double value)
@@ -20,13 +20,11 @@ public static Angle FromRadians(double value)
 
 ### Rückgabewert
 
-Gibt ein[`Angle`](../../angle/) Objekt.
+Gibt ein [`Angle`](../../angle/) Objekt zurück.
 
 ### Siehe auch
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* namensraum [Aspose.Svg.Drawing](../../unit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

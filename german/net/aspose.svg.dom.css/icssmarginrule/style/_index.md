@@ -1,7 +1,7 @@
 ---
-title: ICSSMarginRule.Style
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSMarginRule eigendom. Der Deklarationsblock dieser Regel.
+title: "ICSSMarginRule.Style"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSMarginRule Style-Eigenschaft. Der Deklarationsblock dieser Regel."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.css/icssmarginrule/style/
@@ -18,7 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSMarginRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssmarginrule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

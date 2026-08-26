@@ -1,7 +1,7 @@
 ---
-title: IWindow.Document
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IWindow eigendom. Das documentAttribut muss das neueste DocumentObjekt des WindowObjekts zurückgeben.
+title: "IWindow.Document"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IWindow Document Eigenschaft. Das document-Attribut muss das neueste Document-Objekt des Window-Objekts zurückgeben."
 type: docs
 weight: 10
 url: /de/net/aspose.svg.window/iwindow/document/
@@ -14,7 +14,7 @@ Das document-Attribut muss das neueste Document-Objekt des Window-Objekts zurüc
 public Document Document { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Dokument.
 
@@ -22,7 +22,5 @@ Das Dokument.
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IWindow](../)
-* namensraum [Aspose.Svg.Window](../../iwindow/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

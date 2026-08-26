@@ -1,7 +1,7 @@
 ---
-title: IXPathResult.BooleanValue
-second_title: Aspose.SVG für .NET-API-Referenz
-description: IXPathResult eigendom. Der Wert dieses booleschen Ergebnisses.
+title: "IXPathResult.BooleanValue"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "IXPathResult BooleanValue-Eigenschaft. Der Wert dieses booleschen Ergebnisses"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.xpath/ixpathresult/booleanvalue/
@@ -18,12 +18,10 @@ public bool BooleanValue { get; }
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: ausgelöst, wenn`resultType` ist nicht `Boolesch` Typ. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: ausgelöst, wenn `resultType` nicht vom Typ `Boolean` ist. |
 
 ### Siehe auch
 
 * interface [IXPathResult](../)
-* namensraum [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class Rect
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Css.Rect klas. Die RectSchnittstelle wird verwendet um beliebige RectWerte darzustellen. Diese Schnittstelle spiegelt die Werte in der zugrunde liegenden Stileigenschaft wider. Daher ändern Änderungen an den CSSPrimitiveValueObjekten die Eigenschaft style.
+title: "Rect Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Css.Rect Klasse. Das Rect Interface wird verwendet, um einen beliebigen Rect-Wert darzustellen. Dieses Interface spiegelt die Werte in der zugrunde liegenden Stil-Eigenschaft wider. Daher ändern Änderungen an den CSSPrimitiveValue-Objekten die Stil-Eigenschaft."
 type: docs
-weight: 780
+weight: 2780
 url: /de/net/aspose.svg.dom.css/rect/
 ---
 ## Rect class
 
-Die Rect-Schnittstelle wird verwendet, um beliebige Rect-Werte darzustellen. Diese Schnittstelle spiegelt die Werte in der zugrunde liegenden Stileigenschaft wider. Daher ändern Änderungen an den CSSPrimitiveValue-Objekten die Eigenschaft style.
+Das Rect-Interface wird verwendet, um einen beliebigen Rechteckwert darzustellen. Dieses Interface spiegelt die Werte in der zugrunde liegenden Style-Eigenschaft wider. Daher ändern Änderungen an den CSSPrimitiveValue-Objekten die Style-Eigenschaft.
 
 ```csharp
 public class Rect : DOMObject
@@ -18,21 +18,19 @@ public class Rect : DOMObject
 
 | Name | Beschreibung |
 | --- | --- |
-| [Bottom](../../aspose.svg.dom.css/rect/bottom/) { get; } | Dieses Attribut wird für den unteren Rand des Rechtecks verwendet. |
-| [Left](../../aspose.svg.dom.css/rect/left/) { get; } | Dieses Attribut wird für die linke Seite des Rechtecks verwendet. |
-| [Right](../../aspose.svg.dom.css/rect/right/) { get; } | Dieses Attribut wird für das Recht des Rechtecks verwendet. |
-| [Top](../../aspose.svg.dom.css/rect/top/) { get; } | Dieses Attribut wird für die Oberseite des Rechtecks verwendet. |
+| [Bottom](../../aspose.svg.dom.css/rect/bottom/) { get; } | Dieses Attribut wird für den unteren Rand des Rect verwendet. |
+| [Left](../../aspose.svg.dom.css/rect/left/) { get; } | Dieses Attribut wird für die linke Seite des Rect verwendet. |
+| [Right](../../aspose.svg.dom.css/rect/right/) { get; } | Dieses Attribut wird für die rechte Seite des Rect verwendet. |
+| [Top](../../aspose.svg.dom.css/rect/top/) { get; } | Dieses Attribut wird für den oberen Rand des Rect verwendet. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird verwendet, um den ECMAScript-Objekttyp abzurufen. |
 
 ### Siehe auch
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* namensraum [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

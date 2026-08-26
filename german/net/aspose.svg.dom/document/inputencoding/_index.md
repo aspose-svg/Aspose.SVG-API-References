@@ -1,27 +1,25 @@
 ---
-title: Document.InputEncoding
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Ruft die Kodierung des Dokuments ab.
+title: "Document.InputEncoding"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document InputEncoding-Eigenschaft. Gibt die Kodierung des Dokuments zurück"
 type: docs
 weight: 140
 url: /de/net/aspose.svg.dom/document/inputencoding/
 ---
 ## Document.InputEncoding property
 
-Ruft die Kodierung des Dokuments ab.
+Liest die Kodierung des Dokuments.
 
 ```csharp
 public string InputEncoding { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Kodierung des Dokuments.
 
 ### Siehe auch
 
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

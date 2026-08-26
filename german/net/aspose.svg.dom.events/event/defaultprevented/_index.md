@@ -1,27 +1,25 @@
 ---
-title: Event.DefaultPrevented
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Event eigendom. Gibt true zurück wenn preventDefault aufgerufen wurde während der Wert des abbrechbaren Attributs true ist andernfalls false.
+title: "Event.DefaultPrevented"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Event DefaultPrevented-Eigenschaft. Gibt true zurück, wenn preventDefault aufgerufen wurde, während das cancelable-Attribut true ist, und andernfalls false."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom.events/event/defaultprevented/
 ---
 ## Event.DefaultPrevented property
 
-Gibt „true“ zurück, wenn preventDefault() aufgerufen wurde, während der Wert des abbrechbaren Attributs „true“ ist, andernfalls „false“.
+Gibt true zurück, wenn preventDefault() aufgerufen wurde, während das cancelable-Attribut true ist, andernfalls false.
 
 ```csharp
 public bool DefaultPrevented { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if [Default verhindert]; ansonsten,`FALSCH` .
+`true`, wenn [default prevented]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Event](../)
-* namensraum [Aspose.Svg.Dom.Events](../../event/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

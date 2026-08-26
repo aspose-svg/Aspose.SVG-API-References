@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.Button
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MouseEvent eigendom. Bei Mausereignissen die durch das Drücken oder Loslassen einer Maustaste verursacht werden MUSS die Taste verwendet werden um anzugeben welche Taste des Zeigegeräts den Status geändert hat.
+title: "MouseEvent.Button"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MouseEvent Button-Eigenschaft. Während Mausereignissen, die durch das Drücken oder Loslassen einer Maustaste verursacht werden, MUSS button verwendet werden, um anzugeben, welche Zeigegeräte-Taste den Zustand geändert hat."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.events/mouseevent/button/
 ---
 ## MouseEvent.Button property
 
-Bei Mausereignissen, die durch das Drücken oder Loslassen einer Maustaste verursacht werden, MUSS die Taste verwendet werden, um anzugeben, welche Taste des Zeigegeräts den Status geändert hat.
+Während Mausereignissen, die durch das Drücken oder Loslassen einer Maustaste verursacht werden, MUSS button verwendet werden, um anzugeben, welche Zeigegerät‑Taste den Zustand geändert hat.
 
 ```csharp
 public short Button { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Knopf.
+Der Button.
 
 ### Siehe auch
 
 * class [MouseEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../mouseevent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PauseBefore
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der Eigenschaft pausebefore in CSS2.
+title: "ICSS2Properties.PauseBefore"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties PauseBefore property. Siehe die pause-before property Definition in CSS2"
 type: docs
-weight: 910
+weight: 940
 url: /de/net/aspose.svg.dom.css/icss2properties/pausebefore/
 ---
 ## ICSS2Properties.PauseBefore property
 
-Siehe Definition der Eigenschaft „pause-before“ in CSS2.
+Siehe die Definition der pause-before-Eigenschaft in CSS2.
 
 ```csharp
 public string PauseBefore { get; set; }
@@ -16,12 +16,10 @@ public string PauseBefore { get; set; }
 
 ### Rückgabewert
 
-Pause-vor-Eigenschaft
+pause-before property
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

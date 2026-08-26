@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGZoomAndPan
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.ISVGZoomAndPan koppel. Die SVGZoomAndPanSchnittstelle definiert das Attribut zoomAndPan und zugehörige Konstanten.
+title: "ISVGZoomAndPan Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.ISVGZoomAndPan Schnittstelle. Das SVGZoomAndPan-Interface definiert das Attribut zoomAndPan und zugehörige Konstanten."
 type: docs
-weight: 2060
+weight: 4130
 url: /de/net/aspose.svg/isvgzoomandpan/
 ---
 ## ISVGZoomAndPan interface
 
-Die SVGZoomAndPan-Schnittstelle definiert das Attribut zoomAndPan und zugehörige Konstanten.
+Das Interface SVGZoomAndPan definiert das Attribut zoomAndPan und zugehörige Konstanten.
 
 ```csharp
 public interface ISVGZoomAndPan
@@ -18,11 +18,9 @@ public interface ISVGZoomAndPan
 
 | Name | Beschreibung |
 | --- | --- |
-| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | Entspricht dem Attribut 'zoomAndPan' des angegebenen Elements. Der Wert muss eine der auf dieser Schnittstelle definierten SVG_ZOOMANDPAN_*-Konstanten sein. |
+| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | Entspricht dem Attribut ‘zoomAndPan’ des angegebenen Elements. Der Wert muss einer der auf diesem Interface definierten SVG_ZOOMANDPAN_*‑Konstanten entsprechen. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

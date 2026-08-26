@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.NodeType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ProcessingInstruction eigendom. Ein Code der den Typ des zugrunde liegenden Objekts darstellt.
+title: "ProcessingInstruction.NodeType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ProcessingInstruction NodeType-Eigenschaft. Ein Code, der den Typ des zugrunde liegenden Objekts darstellt"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom/processinginstruction/nodetype/
@@ -14,14 +14,12 @@ Ein Code, der den Typ des zugrunde liegenden Objekts darstellt.
 public override ushort NodeType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ des Knotens.
 
 ### Siehe auch
 
 * class [ProcessingInstruction](../)
-* namensraum [Aspose.Svg.Dom](../../processinginstruction/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

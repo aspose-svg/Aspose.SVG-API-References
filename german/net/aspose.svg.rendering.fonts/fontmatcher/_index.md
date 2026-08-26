@@ -1,14 +1,14 @@
 ---
-title: Class FontMatcher
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Rendering.Fonts.FontMatcher klas. Mit dieser Klasse können Sie einige Teile des FontMatchingAlgorithmus steuern.
+title: "FontMatcher Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Rendering.Fonts.FontMatcher Klasse. Diese Klasse ermöglicht es Ihnen, einige Teile des Schriftabgleichsalgorithmus zu steuern"
 type: docs
-weight: 2770
+weight: 4850
 url: /de/net/aspose.svg.rendering.fonts/fontmatcher/
 ---
 ## FontMatcher class
 
-Mit dieser Klasse können Sie einige Teile des Font-Matching-Algorithmus steuern.
+Diese Klasse ermöglicht es Ihnen, einige Teile des Font-Matching-Algorithmus zu steuern.
 
 ```csharp
 public abstract class FontMatcher
@@ -18,11 +18,9 @@ public abstract class FontMatcher
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [MatchFontFallback](../../aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/)(FontMatchingProperties, uint) | Diese Methode wird aufgerufen, wenn in den Schriftarten-Suchordnern keine geeignete Schriftart gefunden wird. Sie sollte basierend auf der True Type-Schriftart zurückgeben*fontMatchingProperties* was rendern kann*charCode* , oder`Null` wenn eine solche Schriftart nicht verfügbar ist. |
+| abstract [MatchFontFallback](../../aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/)(*[FontMatchingProperties](../fontmatchingproperties/), int*) | Diese Methode wird aufgerufen, wenn im Schriftarten‑Suchordner keine passende Schrift gefunden wird. Sie sollte eine echte Schriftart basierend auf den *fontMatchingProperties* zurückgeben, die *charCode* rendern kann, oder `null`, wenn eine solche Schrift nicht verfügbar ist. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Rendering.Fonts](../../aspose.svg.rendering.fonts/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../)

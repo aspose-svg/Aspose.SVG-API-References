@@ -1,20 +1,20 @@
 ---
-title: Document.Children
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document eigendom. Gibt die untergeordneten Elemente zurück.
+title: "Document.Children"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document Children Eigenschaft. Gibt die Kind-Elemente zurück."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom/document/children/
 ---
 ## Document.Children property
 
-Gibt die untergeordneten Elemente zurück.
+Gibt die Kind-Elemente zurück.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Kinder.
 
@@ -22,7 +22,5 @@ Die Kinder.
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

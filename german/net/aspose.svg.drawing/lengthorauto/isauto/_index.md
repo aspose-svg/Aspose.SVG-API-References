@@ -1,27 +1,25 @@
 ---
-title: LengthOrAuto.IsAuto
-second_title: Aspose.SVG für .NET-API-Referenz
-description: LengthOrAuto eigendom. Ruft einen Wert ab der angibt ob sich diese Instanz in auto befindet.
+title: "LengthOrAuto.IsAuto"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "LengthOrAuto IsAuto-Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Instanz im Auto‑Modus ist"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.drawing/lengthorauto/isauto/
 ---
 ## LengthOrAuto.IsAuto property
 
-Ruft einen Wert ab, der angibt, ob sich diese Instanz in „auto“ befindet.
+Gibt einen Wert zurück, der angibt, ob diese Instanz im 'auto' ist.
 
 ```csharp
 public bool IsAuto { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz automatisch ist; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz automatisch ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [LengthOrAuto](../)
-* namensraum [Aspose.Svg.Drawing](../../lengthorauto/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

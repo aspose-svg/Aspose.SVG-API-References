@@ -1,7 +1,7 @@
 ---
-title: Comment.NodeType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Comment eigendom. Ein Code der den Typ des zugrunde liegenden Objekts darstellt.
+title: "Comment.NodeType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Comment NodeType Eigenschaft. Ein Code, der den Typ des zugrunde liegenden Objekts darstellt."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom/comment/nodetype/
@@ -14,14 +14,12 @@ Ein Code, der den Typ des zugrunde liegenden Objekts darstellt.
 public override ushort NodeType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ des Knotens.
 
 ### Siehe auch
 
 * class [Comment](../)
-* namensraum [Aspose.Svg.Dom](../../comment/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

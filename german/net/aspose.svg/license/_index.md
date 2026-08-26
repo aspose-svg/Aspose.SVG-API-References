@@ -1,9 +1,9 @@
 ---
-title: Class License
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.License klas. Stellt Methoden zur Lizenzierung der Komponente bereit.
+title: "License Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.License Klasse. Stellt Methoden bereit, um die Komponente zu lizenzieren"
 type: docs
-weight: 2190
+weight: 4260
 url: /de/net/aspose.svg/license/
 ---
 ## License class
@@ -14,7 +14,7 @@ Stellt Methoden zur Lizenzierung der Komponente bereit.
 public class License
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
@@ -24,12 +24,12 @@ public class License
 
 | Name | Beschreibung |
 | --- | --- |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(Stream) | Lizenziert die Komponente. |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(string) | Lizenziert die Komponente. |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(*Stream*) | Lizenziert die Komponente. |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(*string*) | Lizenziert die Komponente. |
 
-### Beispiele
+## Beispiele
 
-In diesem Beispiel wird versucht, eine Lizenzdatei namens MyLicense.lic in dem Ordner zu finden, der enthält. die Komponente, in dem Ordner, der die aufrufende Assembly enthält, im Ordner der Eintragsassembly und dann in den eingebetteten Ressourcen der aufrufenden Assembly.
+In diesem Beispiel wird versucht, eine Lizenzdatei mit dem Namen MyLicense.lic im Ordner zu finden, der die Komponente enthält, im Ordner, der die aufrufende Assembly enthält, im Ordner der Einstieg‑Assembly und anschließend in den eingebetteten Ressourcen der aufrufenden Assembly.
 
 ```csharp
 [C#]
@@ -38,7 +38,7 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-die Komponenten-JAR-Datei:
+die Komponenten‑Jar‑Datei:
 
 ```csharp
 License license = new License();
@@ -47,7 +47,5 @@ license.setLicense("MyLicense.lic");
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

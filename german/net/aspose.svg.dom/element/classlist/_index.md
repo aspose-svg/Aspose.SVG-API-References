@@ -1,14 +1,14 @@
 ---
-title: Element.ClassList
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element eigendom. Gibt eine LiveDOMTokenList zurück die Token enthält die beim Parsen des Attributs class empfangen wurden.
+title: "Element.ClassList"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element ClassList Eigenschaft. Gibt eine Live-DOMTokenList zurück, die Token enthält, die beim Parsen des class-Attributs erhalten wurden"
 type: docs
 weight: 50
 url: /de/net/aspose.svg.dom/element/classlist/
 ---
 ## Element.ClassList property
 
-Gibt eine Live-DOMTokenList zurück, die Token enthält, die beim Parsen des Attributs „class“ empfangen wurden.
+Gibt eine Live-DOMTokenList zurück, die Token enthält, die beim Parsen des "class"-Attributs erhalten wurden.
 
 ```csharp
 public DOMTokenList ClassList { get; }
@@ -18,7 +18,5 @@ public DOMTokenList ClassList { get; }
 
 * class [DOMTokenList](../../../aspose.svg.collections/domtokenlist/)
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

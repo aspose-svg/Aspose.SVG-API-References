@@ -1,14 +1,14 @@
 ---
-title: Class PageSetup
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Rendering.PageSetup klas. Stellt ein Seiteneinrichtungsobjekt dar das für die Konfigurationsausgabeseitengruppe verwendet wird.
+title: "PageSetup Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Rendering.PageSetup Klasse. Stellt ein PageSetup‑Objekt dar, das für die Konfiguration des Ausgabe‑Page‑Sets verwendet wird."
 type: docs
-weight: 2900
+weight: 4970
 url: /de/net/aspose.svg.rendering/pagesetup/
 ---
 ## PageSetup class
 
-Stellt ein Seiteneinrichtungsobjekt dar, das für die Konfigurationsausgabeseitengruppe verwendet wird.
+Stellt ein Seiten-Setup-Objekt dar, das zur Konfiguration der Ausgabeseite verwendet wird.
 
 ```csharp
 public class PageSetup
@@ -18,22 +18,20 @@ public class PageSetup
 
 | Name | Beschreibung |
 | --- | --- |
-| [AnyPage](../../aspose.svg.rendering/pagesetup/anypage/) { get; set; } | Ruft alle Seitenkonfigurationen in der Seitensequenz ab oder legt sie fest. |
-| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority/) { get; set; } | Holt oder setzt[`AtPagePriority`](../atpagepriority/) die die Reihenfolge der Anwendung von Seitengrößendeklarationen bestimmt. Standardmäßig überschreiben Optionen CSS`@Buchseite` Regeln . |
-| [FirstPage](../../aspose.svg.rendering/pagesetup/firstpage/) { get; set; } | Ruft die Konfiguration der ersten Seite ab oder legt sie fest. |
-| [LeftPage](../../aspose.svg.rendering/pagesetup/leftpage/) { get; } | Ruft die Konfiguration ungerader Seiten ab. |
-| [RightPage](../../aspose.svg.rendering/pagesetup/rightpage/) { get; } | Ruft die gerade Seitenkonfiguration ab. |
-| [Sizing](../../aspose.svg.rendering/pagesetup/sizing/) { get; set; } | Ruft den Größentyp ab oder legt ihn fest. |
+| [AnyPage](../../aspose.svg.rendering/pagesetup/anypage/) { get; set; } | Liest oder setzt die gesamte Seitenkonfiguration in der Seitensequenz. |
+| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority/) { get; set; } | Liest oder setzt [`AtPagePriority`](../atpagepriority/), das die Reihenfolge der Anwendung von Seitengrößen‑Deklarationen bestimmt. Standardmäßig überschreiben die Optionen die CSS-`@page`‑Regeln . |
+| [FirstPage](../../aspose.svg.rendering/pagesetup/firstpage/) { get; set; } | Liest oder setzt die Konfiguration der ersten Seite. |
+| [LeftPage](../../aspose.svg.rendering/pagesetup/leftpage/) { get; } | Liest die Konfiguration der ungeraden Seite. |
+| [RightPage](../../aspose.svg.rendering/pagesetup/rightpage/) { get; } | Liest die Konfiguration der geraden Seite. |
+| [Sizing](../../aspose.svg.rendering/pagesetup/sizing/) { get; set; } | Liest oder setzt den Größen‑Typ. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [SetLeftRightPage](../../aspose.svg.rendering/pagesetup/setleftrightpage/)(Page, Page) | Legt die Konfiguration der linken/rechten Seite fest. |
+| [SetLeftRightPage](../../aspose.svg.rendering/pagesetup/setleftrightpage/)(*[Page](../../aspose.svg.drawing/page/), [Page](../../aspose.svg.drawing/page/)*) | Setzt die Konfiguration der linken/rechten Seite. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternContentUnits
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPatternElement eigendom. Entspricht dem Attribut patternContentUnits des angegebenen patternElements. Akzeptiert eine der in SVGUnitTypes. definierten Konstanten
+title: "SVGPatternElement.PatternContentUnits"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPatternElement PatternContentUnits-Eigenschaft. Entspricht dem Attribut patternContentUnits des angegebenen pattern-Elements. Akzeptiert eine der in SVGUnitTypes definierten Konstanten."
 type: docs
 weight: 30
 url: /de/net/aspose.svg/svgpatternelement/patterncontentunits/
 ---
 ## SVGPatternElement.PatternContentUnits property
 
-Entspricht dem Attribut 'patternContentUnits' des angegebenen 'pattern'-Elements. Akzeptiert eine der in SVGUnitTypes. definierten Konstanten
+Entspricht dem Attribut ‘patternContentUnits’ des angegebenen ‘pattern’-Elements. Akzeptiert eine der in SVGUnitTypes definierten Konstanten.
 
 ```csharp
 public SVGAnimatedEnumeration PatternContentUnits { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Attribut 'patternContentUnits' des gegebenen 'pattern'-Elements.
+Das Attribut ‘patternContentUnits’ des angegebenen ‘pattern’-Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGPatternElement](../)
-* namensraum [Aspose.Svg](../../svgpatternelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

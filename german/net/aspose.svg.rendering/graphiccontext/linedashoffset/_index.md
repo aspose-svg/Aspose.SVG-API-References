@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.LineDashOffset
-second_title: Aspose.SVG für .NET-API-Referenz
-description: GraphicContext eigendom. Legt den Phasenoffset des aktuellen Linienstrichmusters fest oder ruft ihn ab.
+title: "GraphicContext.LineDashOffset"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "GraphicContext LineDashOffset-Eigenschaft. Legt den Phasenversatz des aktuellen Strichmusters fest oder liest ihn aus."
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.svg.rendering/graphiccontext/linedashoffset/
 ---
 ## GraphicContext.LineDashOffset property
 
-Legt den Phasenoffset des aktuellen Linienstrichmusters fest oder ruft ihn ab.
+Setzt oder liest den Phasenversatz des aktuellen Strichmusters.
 
 ```csharp
 public virtual float LineDashOffset { get; set; }
@@ -17,7 +17,5 @@ public virtual float LineDashOffset { get; set; }
 ### Siehe auch
 
 * class [GraphicContext](../)
-* namensraum [Aspose.Svg.Rendering](../../graphiccontext/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: UIEvent.View
-second_title: Aspose.SVG für .NET-API-Referenz
-description: UIEvent eigendom. Das Ansichtsattribut identifiziert das Fenster aus dem das Ereignis generiert wurde. Der nicht initialisierte Wert dieses Attributs MUSS null sein.
+title: "UIEvent.View"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "UIEvent View property. Das view-Attribut identifiziert das Fenster, aus dem das Ereignis erzeugt wurde. Der nicht initialisierte Wert dieses Attributs MUSS null sein."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom.events/uievent/view/
 ---
 ## UIEvent.View property
 
-Das Ansichtsattribut identifiziert das Fenster, aus dem das Ereignis generiert wurde. Der nicht initialisierte Wert dieses Attributs MUSS null sein.
+Das Attribut view identifiziert das Fenster, von dem das Ereignis erzeugt wurde. Der nicht initialisierte Wert dieses Attributs MUSS null sein.
 
 ```csharp
 public IWindow View { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Fensterinstanz.
 
@@ -22,7 +22,5 @@ Die Fensterinstanz.
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * class [UIEvent](../)
-* namensraum [Aspose.Svg.Dom.Events](../../uievent/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

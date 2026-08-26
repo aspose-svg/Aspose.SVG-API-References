@@ -1,14 +1,14 @@
 ---
-title: NodeFilter.SHOW_ELEMENT
-second_title: Aspose.SVG für .NET-API-Referenz
-description: NodeFilter veld. Elementknoten anzeigen.
+title: "NodeFilter.SHOW_ELEMENT"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "NodeFilter SHOW_ELEMENT Feld. Zeigt Element-Knoten"
 type: docs
 weight: 130
 url: /de/net/aspose.svg.dom.traversal.filters/nodefilter/show_element/
 ---
 ## NodeFilter.SHOW_ELEMENT field
 
-Elementknoten anzeigen.
+Element-Knoten anzeigen.
 
 ```csharp
 public const long SHOW_ELEMENT;
@@ -17,7 +17,5 @@ public const long SHOW_ELEMENT;
 ### Siehe auch
 
 * class [NodeFilter](../)
-* namensraum [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

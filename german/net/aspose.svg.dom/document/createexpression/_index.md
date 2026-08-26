@@ -1,14 +1,14 @@
 ---
-title: Document.CreateExpression
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document methode. Erstellt einen geparsten XPathAusdruck mit aufgelösten Namespaces. Dies ist nützlich wenn ein Ausdruck in einer Anwendung wiederverwendet wird da es ermöglicht die Ausdruckszeichenfolge in eine effizientere interne Form zu kompilieren und alle Namensraumpräfixe vorab aufzulösen die innerhalb des Ausdrucks vorkommen.
+title: "Document.CreateExpression"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document CreateExpression-Methode. Erstellt einen geparsten XPath-Ausdruck mit aufgelösten Namespaces. Dies ist nützlich, wenn ein Ausdruck in einer Anwendung wiederverwendet wird, da es ermöglicht, den Ausdrucksstring in eine effizientere interne Form zu kompilieren und alle im Ausdruck vorkommenden Namespace-Präfixe vorab aufzulösen."
 type: docs
 weight: 890
 url: /de/net/aspose.svg.dom/document/createexpression/
 ---
 ## Document.CreateExpression method
 
-Erstellt einen geparsten XPath-Ausdruck mit aufgelösten Namespaces. Dies ist nützlich, wenn ein Ausdruck in einer Anwendung wiederverwendet wird, da es ermöglicht, die Ausdruckszeichenfolge in eine effizientere interne Form zu kompilieren und alle Namensraumpräfixe vorab aufzulösen, die innerhalb des Ausdrucks vorkommen.
+Erstellt einen geparsten XPath‑Ausdruck mit aufgelösten Namespaces. Dies ist nützlich, wenn ein Ausdruck in einer Anwendung wiederverwendet wird, da es ermöglicht, die Ausdruckszeichenkette in eine effizientere interne Form zu kompilieren und alle im Ausdruck vorkommenden Namespace‑Präfixe vorab aufzulösen.
 
 ```csharp
 public IXPathExpression CreateExpression(string expression, IXPathNSResolver resolver)
@@ -16,8 +16,8 @@ public IXPathExpression CreateExpression(string expression, IXPathNSResolver res
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| expression | String | Die zu analysierende XPath-Ausdruckszeichenfolge. |
-| resolver | IXPathNSResolver | Der`Resolver` ermöglicht die Übersetzung aller Präfixe, einschließlich der`xml` Namespace-Präfix innerhalb des XPath-Ausdrucks in entsprechende Namespace-URIs. Wenn dies angegeben ist als`Null` , führt jedes Namespace-Präfix innerhalb des Ausdrucks zu[`DOMException`](../../domexception/) mit dem Code geworfen werden`NAMESPACE_ERR`. |
+| expression | String | Der XPath-Ausdruck-String, der geparst werden soll. |
+| resolver | IXPathNSResolver | Der `resolver` ermöglicht die Übersetzung aller Präfixe, einschließlich des `xml`-Namespace-Präfixes, innerhalb des XPath-Ausdrucks in geeignete Namespace-URIs. Wird er als `null` angegeben, führt jedes Namespace-Präfix im Ausdruck dazu, dass eine [`DOMException`](../../domexception/) mit dem Code `NAMESPACE_ERR` ausgelöst wird. |
 
 ### Rückgabewert
 
@@ -27,15 +27,13 @@ Die kompilierte Form des XPath-Ausdrucks.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../domexception/) | INVALID_EXPRESSION_ERR: Wird ausgelöst, wenn der Ausdruck nach den Regeln des nicht legal ist[`IXPathEvaluator`](../../../aspose.svg.dom.xpath/ixpathevaluator/). |
-| [DOMException](../../domexception/) | NAMESPACE_ERR: Wird ausgelöst, wenn der Ausdruck Namespace -Präfixe enthält, die nicht durch die angegebenen aufgelöst werden können[`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver/). |
+| [DOMException](../../domexception/) | INVALID_EXPRESSION_ERR: Wird ausgelöst, wenn der Ausdruck gemäß den Regeln des [`IXPathEvaluator`](../../../aspose.svg.dom.xpath/ixpathevaluator/) nicht zulässig ist. |
+| [DOMException](../../domexception/) | NAMESPACE_ERR: Wird ausgelöst, wenn der Ausdruck Namespace-Präfixe enthält, die vom angegebenen [`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver/) nicht aufgelöst werden können. |
 
 ### Siehe auch
 
 * interface [IXPathExpression](../../../aspose.svg.dom.xpath/ixpathexpression/)
 * interface [IXPathNSResolver](../../../aspose.svg.dom.xpath/ixpathnsresolver/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

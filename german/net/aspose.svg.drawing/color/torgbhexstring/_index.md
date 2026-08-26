@@ -1,14 +1,14 @@
 ---
-title: Color.ToRgbHexString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Color methode. Gibt eine hexadezimale Farbe zurück die angegeben ist mit RRGGBB.
+title: "Color.ToRgbHexString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Color ToRgbHexString Methode. Gibt eine hexadezimale Farbe zurück, die mit RRGGBB angegeben ist"
 type: docs
 weight: 410
 url: /de/net/aspose.svg.drawing/color/torgbhexstring/
 ---
 ## Color.ToRgbHexString method
 
-Gibt eine hexadezimale Farbe zurück, die angegeben ist mit: #RRGGBB.
+Gibt eine hexadezimale Farbe zurück, angegeben mit: #RRGGBB.
 
 ```csharp
 public string ToRgbHexString()
@@ -16,12 +16,10 @@ public string ToRgbHexString()
 
 ### Rückgabewert
 
-Eine hexadezimale Farbzeichenfolge.
+Ein hexadezimaler Farbstring.
 
 ### Siehe auch
 
 * class [Color](../)
-* namensraum [Aspose.Svg.Drawing](../../color/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGAngle.NewValueSpecifiedUnits
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGAngle methode. Setzt den Wert als Zahl mit einem zugeordneten unitType zurück und ersetzt dadurch die Werte für alle Attribute des Objekts.
+title: "SVGAngle.NewValueSpecifiedUnits"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGAngle NewValueSpecifiedUnits-Methode. Setzt den Wert als Zahl mit einem zugehörigen unitType zurück und ersetzt dadurch die Werte aller Attribute des Objekts."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.datatypes/svgangle/newvaluespecifiedunits/
 ---
 ## SVGAngle.NewValueSpecifiedUnits method
 
-Setzt den Wert als Zahl mit einem zugeordneten unitType zurück und ersetzt dadurch die Werte für alle Attribute des Objekts.
+Setzen Sie den Wert als Zahl mit einem zugehörigen unitType zurück, wodurch die Werte für alle Attribute des Objekts ersetzt werden.
 
 ```csharp
 public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUnits)
@@ -16,20 +16,18 @@ public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUni
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| newUnitType | UInt16 | Der Einheitentyp für den Wert (z. B. SVG_ANGLETYPE_DEG). |
+| newUnitType | UInt16 | Der Einheitstyp für den Wert (z. B. SVG_ANGLETYPE_DEG). |
 | valueInSpecifiedUnits | Single | Der Winkelwert. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -Code[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) Wird ausgelöst, wenn unitType SVG_ANGLETYPE_UNKNOWN oder keine gültige Einheitstypkonstante ist (eine der anderen SVG_ANGLETYPE_*-Konstanten, die auf dieser Schnittstelle definiert sind). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -Code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Wird ausgelöst, wenn der Winkel einem schreibgeschützten Attribut entspricht oder wenn das Objekt selbst schreibgeschützt ist. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) ausgelöst, wenn unitType SVG_ANGLETYPE_UNKNOWN ist oder kein gültiger Konstantwert für den Einheitstyp (eine der anderen SVG_ANGLETYPE_* Konstanten, die in diesem Interface definiert sind). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Wird ausgelöst, wenn der Winkel einem schreibgeschützten Attribut entspricht oder das Objekt selbst schreibgeschützt ist. |
 
 ### Siehe auch
 
 * class [SVGAngle](../)
-* namensraum [Aspose.Svg.DataTypes](../../svgangle/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: MutationRecord.AttributeName
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationRecord eigendom. Gibt den lokalen Namen des geänderten Attributs zurück andernfalls null.
+title: "MutationRecord.AttributeName"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationRecord AttributeName-Eigenschaft. Gibt den lokalen Namen des geänderten Attributs zurück und sonst null"
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.mutations/mutationrecord/attributename/
@@ -14,14 +14,12 @@ Gibt den lokalen Namen des geänderten Attributs zurück, andernfalls null.
 public string AttributeName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Attributs.
 
 ### Siehe auch
 
 * class [MutationRecord](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

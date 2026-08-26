@@ -1,14 +1,14 @@
 ---
-title: PdfRenderingOptions.PdfRenderingOptions
-second_title: Aspose.SVG für .NET-API-Referenz
-description: PdfRenderingOptions constructeur. Initialisiert eine neue Instanz vonPdfRenderingOptions Klasse.
+title: "PdfRenderingOptions"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "PdfRenderingOptions-Konstruktor. Initialisiert eine neue Instanz der PdfRenderingOptions-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.rendering.pdf/pdfrenderingoptions/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions constructor
 
-Initialisiert eine neue Instanz von[`PdfRenderingOptions`](../) Klasse.
+Initialisiert eine neue Instanz der [`PdfRenderingOptions`](../)-Klasse.
 
 ```csharp
 public PdfRenderingOptions()
@@ -17,7 +17,5 @@ public PdfRenderingOptions()
 ### Siehe auch
 
 * class [PdfRenderingOptions](../)
-* namensraum [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

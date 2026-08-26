@@ -1,77 +1,75 @@
 ---
-title: Interface IGlobalEventHandlers
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.IGlobalEventHandlers koppel. Stellt eine Schnittstelle dar die von allen Elementen geerbt werden muss die von der Systemereignisbehandlung unterstützt werden
+title: "IGlobalEventHandlers‑Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.IGlobalEventHandlers‑Schnittstelle. Stellt eine Schnittstelle dar, die von allen Elementen, die systemweite Ereignisbehandlung unterstützen, geerbt werden muss."
 type: docs
-weight: 1070
+weight: 3050
 url: /de/net/aspose.svg.dom/iglobaleventhandlers/
 ---
 ## IGlobalEventHandlers interface
 
-Stellt eine Schnittstelle dar, die von allen Elementen geerbt werden muss, die von der Systemereignisbehandlung unterstützt werden
+Repräsentiert ein Interface, das von allen Elementen, die systemweite Ereignisbehandlung unterstützen, geerbt werden muss.
 
 ```csharp
 public interface IGlobalEventHandlers
 ```
 
-## Veranstaltungen
+## Ereignisse
 
 | Name | Beschreibung |
 | --- | --- |
-| event [OnAbort](../../aspose.svg.dom/iglobaleventhandlers/onabort/) | Ruft den Event-Handler für das OnAbort-Ereignis ab oder legt ihn fest. |
-| event [OnBlur](../../aspose.svg.dom/iglobaleventhandlers/onblur/) | Ruft den Event-Handler für das OnBlur-Ereignis ab oder legt ihn fest. |
-| event [OnCancel](../../aspose.svg.dom/iglobaleventhandlers/oncancel/) | Ruft den Ereignishandler für das OnCancel-Ereignis ab oder legt ihn fest. |
-| event [OnCanplay](../../aspose.svg.dom/iglobaleventhandlers/oncanplay/) | Ruft den Ereignishandler für das OnCanplay-Ereignis ab oder legt ihn fest. |
-| event [OnCanPlayThrough](../../aspose.svg.dom/iglobaleventhandlers/oncanplaythrough/) | Ruft den Ereignishandler für das OnCanPlayThrough-Ereignis ab oder legt ihn fest. |
-| event [OnChange](../../aspose.svg.dom/iglobaleventhandlers/onchange/) | Ruft den Event-Handler für das OnChange-Ereignis ab oder legt ihn fest. |
-| event [OnClick](../../aspose.svg.dom/iglobaleventhandlers/onclick/) | Ruft den Event-Handler für das OnClick-Ereignis ab oder legt ihn fest. |
-| event [OnCueChange](../../aspose.svg.dom/iglobaleventhandlers/oncuechange/) | Ruft den Event-Handler für das OnCueChange-Ereignis ab oder legt ihn fest. |
-| event [OnDblClick](../../aspose.svg.dom/iglobaleventhandlers/ondblclick/) | Ruft den Ereignishandler für das OnDblClick-Ereignis ab oder legt ihn fest. |
-| event [OnDurationChange](../../aspose.svg.dom/iglobaleventhandlers/ondurationchange/) | Ruft den Ereignishandler für das OnDurationChange-Ereignis ab oder legt ihn fest. |
-| event [OnEmptied](../../aspose.svg.dom/iglobaleventhandlers/onemptied/) | Ruft den Ereignishandler für das OnEmptied-Ereignis ab oder legt ihn fest. |
-| event [OnEnded](../../aspose.svg.dom/iglobaleventhandlers/onended/) | Ruft Ereignishandler für OnEnded-Ereignis ab oder legt sie fest. |
-| event [OnError](../../aspose.svg.dom/iglobaleventhandlers/onerror/) | Ruft den Event-Handler für das OnError-Ereignis ab oder legt ihn fest. |
-| event [OnFocus](../../aspose.svg.dom/iglobaleventhandlers/onfocus/) | Ruft den Event-Handler für das OnFocus-Ereignis ab oder legt ihn fest. |
-| event [OnInput](../../aspose.svg.dom/iglobaleventhandlers/oninput/) | Ruft den Ereignishandler für das OnInput-Ereignis ab oder legt ihn fest. |
-| event [OnInvalid](../../aspose.svg.dom/iglobaleventhandlers/oninvalid/) | Ruft Ereignishandler für das OnInvalid-Ereignis ab oder legt es fest. |
-| event [OnKeyDown](../../aspose.svg.dom/iglobaleventhandlers/onkeydown/) | Ruft den Event-Handler für das OnKeyDown-Ereignis ab oder legt ihn fest. |
-| event [OnKeyPress](../../aspose.svg.dom/iglobaleventhandlers/onkeypress/) | Ruft den Event-Handler für das OnKeyPress-Ereignis ab oder legt ihn fest. |
-| event [OnKeyUp](../../aspose.svg.dom/iglobaleventhandlers/onkeyup/) | Ruft den Event-Handler für das OnKeyUp-Ereignis ab oder legt ihn fest. |
-| event [OnLoad](../../aspose.svg.dom/iglobaleventhandlers/onload/) | Ruft den Ereignishandler für das OnLoad-Ereignis ab oder legt ihn fest. |
-| event [OnLoadedData](../../aspose.svg.dom/iglobaleventhandlers/onloadeddata/) | Ruft den Ereignishandler für das OnLoadedData-Ereignis ab oder legt ihn fest. |
-| event [OnLoadedMetadata](../../aspose.svg.dom/iglobaleventhandlers/onloadedmetadata/) | Ruft den Event-Handler für das OnLoadedMetadata-Ereignis ab oder legt ihn fest. |
-| event [OnLoadStart](../../aspose.svg.dom/iglobaleventhandlers/onloadstart/) | Ruft den Ereignishandler für das OnLoadStart-Ereignis ab oder legt ihn fest. |
-| event [OnMouseDown](../../aspose.svg.dom/iglobaleventhandlers/onmousedown/) | Ruft den Ereignishandler für das OnMouseDown-Ereignis ab oder legt ihn fest. |
-| event [OnMouseEnter](../../aspose.svg.dom/iglobaleventhandlers/onmouseenter/) | Ruft Ereignishandler für das OnMouseEnter-Ereignis ab oder legt es fest. |
-| event [OnMouseLeave](../../aspose.svg.dom/iglobaleventhandlers/onmouseleave/) | Ruft den Ereignishandler für das OnMouseLeave-Ereignis ab oder legt ihn fest. |
-| event [OnMouseMove](../../aspose.svg.dom/iglobaleventhandlers/onmousemove/) | Ruft Ereignishandler für das OnMouseMove-Ereignis ab oder legt es fest. |
-| event [OnMouseOut](../../aspose.svg.dom/iglobaleventhandlers/onmouseout/) | Ruft den Event-Handler für das OnMouseOut-Ereignis ab oder legt ihn fest. |
-| event [OnMouseOver](../../aspose.svg.dom/iglobaleventhandlers/onmouseover/) | Ruft den Ereignishandler für das OnMouseOver-Ereignis ab oder legt ihn fest. |
-| event [OnMouseUp](../../aspose.svg.dom/iglobaleventhandlers/onmouseup/) | Ruft Ereignishandler für das OnMouseUp-Ereignis ab oder legt es fest. |
-| event [OnMouseWheel](../../aspose.svg.dom/iglobaleventhandlers/onmousewheel/) | Ruft Ereignishandler für das OnMouseWheel-Ereignis ab oder legt es fest. |
-| event [OnPause](../../aspose.svg.dom/iglobaleventhandlers/onpause/) | Ruft den Ereignishandler für das OnPause-Ereignis ab oder legt ihn fest. |
-| event [OnPlay](../../aspose.svg.dom/iglobaleventhandlers/onplay/) | Ruft den Ereignishandler für das OnPlay-Ereignis ab oder legt ihn fest. |
-| event [OnPlaying](../../aspose.svg.dom/iglobaleventhandlers/onplaying/) | Ruft den Event-Handler für das OnPlaying-Ereignis ab oder legt ihn fest. |
-| event [OnProgress](../../aspose.svg.dom/iglobaleventhandlers/onprogress/) | Ruft den Ereignishandler für das OnProgress-Ereignis ab oder legt ihn fest. |
-| event [OnRateChange](../../aspose.svg.dom/iglobaleventhandlers/onratechange/) | Ruft den Ereignishandler für das OnRateChange-Ereignis ab oder legt ihn fest. |
-| event [OnReset](../../aspose.svg.dom/iglobaleventhandlers/onreset/) | Ruft den Ereignishandler für das OnReset-Ereignis ab oder legt ihn fest. |
-| event [OnResize](../../aspose.svg.dom/iglobaleventhandlers/onresize/) | Ruft den Event-Handler für das OnResize-Ereignis ab oder legt ihn fest. |
-| event [OnScroll](../../aspose.svg.dom/iglobaleventhandlers/onscroll/) | Ruft den Event-Handler für das OnScroll-Ereignis ab oder legt ihn fest. |
-| event [OnSeeked](../../aspose.svg.dom/iglobaleventhandlers/onseeked/) | Ruft den Ereignishandler für das OnSeeked-Ereignis ab oder legt ihn fest. |
-| event [OnSeeking](../../aspose.svg.dom/iglobaleventhandlers/onseeking/) | Ruft den Event-Handler für das OnSeeking-Ereignis ab oder legt ihn fest. |
-| event [OnSelect](../../aspose.svg.dom/iglobaleventhandlers/onselect/) | Ruft den Ereignishandler für das OnSelect-Ereignis ab oder legt ihn fest. |
-| event [OnShow](../../aspose.svg.dom/iglobaleventhandlers/onshow/) | Ruft den Ereignishandler für das OnShow-Ereignis ab oder legt ihn fest. |
-| event [OnStalled](../../aspose.svg.dom/iglobaleventhandlers/onstalled/) | Ruft den Event-Handler für das OnStalled-Ereignis ab oder legt ihn fest. |
-| event [OnSubmit](../../aspose.svg.dom/iglobaleventhandlers/onsubmit/) | Ruft den Event-Handler für das OnSubmit-Ereignis ab oder legt ihn fest. |
-| event [OnSuspend](../../aspose.svg.dom/iglobaleventhandlers/onsuspend/) | Ruft den Ereignishandler für das OnSuspend-Ereignis ab oder legt ihn fest. |
-| event [OnTimeUpdate](../../aspose.svg.dom/iglobaleventhandlers/ontimeupdate/) | Ruft Ereignishandler für das OnTimeUpdate-Ereignis ab oder legt es fest. |
-| event [OnToggle](../../aspose.svg.dom/iglobaleventhandlers/ontoggle/) | Ruft den Event-Handler für das OnToggle-Ereignis ab oder legt ihn fest. |
-| event [OnVolumeChange](../../aspose.svg.dom/iglobaleventhandlers/onvolumechange/) | Ruft Ereignishandler für das OnVolumeChange-Ereignis ab oder legt es fest. |
-| event [OnWaiting](../../aspose.svg.dom/iglobaleventhandlers/onwaiting/) | Ruft den Ereignishandler für das OnWaiting-Ereignis ab oder legt ihn fest. |
+| event [OnAbort](../../aspose.svg.dom/iglobaleventhandlers/onabort/) | Liest oder setzt den Ereignishandler für das OnAbort‑Ereignis. |
+| event [OnBlur](../../aspose.svg.dom/iglobaleventhandlers/onblur/) | Liest oder setzt den Ereignishandler für das OnBlur‑Ereignis. |
+| event [OnCancel](../../aspose.svg.dom/iglobaleventhandlers/oncancel/) | Liest oder setzt den Ereignishandler für das OnCancel‑Ereignis. |
+| event [OnCanplay](../../aspose.svg.dom/iglobaleventhandlers/oncanplay/) | Liest oder setzt den Ereignishandler für das OnCanplay‑Ereignis. |
+| event [OnCanPlayThrough](../../aspose.svg.dom/iglobaleventhandlers/oncanplaythrough/) | Liest oder setzt den Ereignishandler für das OnCanPlayThrough‑Ereignis. |
+| event [OnChange](../../aspose.svg.dom/iglobaleventhandlers/onchange/) | Liest oder setzt den Ereignishandler für das OnChange‑Ereignis. |
+| event [OnClick](../../aspose.svg.dom/iglobaleventhandlers/onclick/) | Liest oder setzt den Ereignishandler für das OnClick‑Ereignis. |
+| event [OnCueChange](../../aspose.svg.dom/iglobaleventhandlers/oncuechange/) | Liest oder setzt den Ereignishandler für das OnCueChange‑Ereignis. |
+| event [OnDblClick](../../aspose.svg.dom/iglobaleventhandlers/ondblclick/) | Liest oder setzt den Ereignishandler für das OnDblClick‑Ereignis. |
+| event [OnDurationChange](../../aspose.svg.dom/iglobaleventhandlers/ondurationchange/) | Liest oder setzt den Ereignishandler für das OnDurationChange‑Ereignis. |
+| event [OnEmptied](../../aspose.svg.dom/iglobaleventhandlers/onemptied/) | Liest oder setzt den Ereignishandler für das OnEmptied‑Ereignis. |
+| event [OnEnded](../../aspose.svg.dom/iglobaleventhandlers/onended/) | Liest oder setzt den Ereignishandler für das OnEnded‑Ereignis. |
+| event [OnError](../../aspose.svg.dom/iglobaleventhandlers/onerror/) | Liest oder setzt Ereignis-Handler für das OnError-Ereignis. |
+| event [OnFocus](../../aspose.svg.dom/iglobaleventhandlers/onfocus/) | Liest oder setzt Ereignis-Handler für das OnFocus-Ereignis. |
+| event [OnInput](../../aspose.svg.dom/iglobaleventhandlers/oninput/) | Liest oder setzt Ereignis-Handler für das OnInput-Ereignis. |
+| event [OnInvalid](../../aspose.svg.dom/iglobaleventhandlers/oninvalid/) | Liest oder setzt Ereignis-Handler für das OnInvalid-Ereignis. |
+| event [OnKeyDown](../../aspose.svg.dom/iglobaleventhandlers/onkeydown/) | Liest oder setzt Ereignis-Handler für das OnKeyDown-Ereignis. |
+| event [OnKeyPress](../../aspose.svg.dom/iglobaleventhandlers/onkeypress/) | Liest oder setzt Ereignis-Handler für das OnKeyPress-Ereignis. |
+| event [OnKeyUp](../../aspose.svg.dom/iglobaleventhandlers/onkeyup/) | Liest oder setzt Ereignis-Handler für das OnKeyUp-Ereignis. |
+| event [OnLoad](../../aspose.svg.dom/iglobaleventhandlers/onload/) | Liest oder setzt Ereignis-Handler für das OnLoad-Ereignis. |
+| event [OnLoadedData](../../aspose.svg.dom/iglobaleventhandlers/onloadeddata/) | Liest oder setzt Ereignis-Handler für das OnLoadedData-Ereignis. |
+| event [OnLoadedMetadata](../../aspose.svg.dom/iglobaleventhandlers/onloadedmetadata/) | Liest oder setzt Ereignis-Handler für das OnLoadedMetadata-Ereignis. |
+| event [OnLoadStart](../../aspose.svg.dom/iglobaleventhandlers/onloadstart/) | Liest oder setzt Ereignis-Handler für das OnLoadStart-Ereignis. |
+| event [OnMouseDown](../../aspose.svg.dom/iglobaleventhandlers/onmousedown/) | Liest oder setzt Ereignis-Handler für das OnMouseDown-Ereignis. |
+| event [OnMouseEnter](../../aspose.svg.dom/iglobaleventhandlers/onmouseenter/) | Liest oder setzt Ereignis-Handler für das OnMouseEnter-Ereignis. |
+| event [OnMouseLeave](../../aspose.svg.dom/iglobaleventhandlers/onmouseleave/) | Liest oder setzt Ereignis-Handler für das OnMouseLeave-Ereignis. |
+| event [OnMouseMove](../../aspose.svg.dom/iglobaleventhandlers/onmousemove/) | Liest oder setzt Ereignis-Handler für das OnMouseMove-Ereignis. |
+| event [OnMouseOut](../../aspose.svg.dom/iglobaleventhandlers/onmouseout/) | Liest oder setzt Ereignis-Handler für das OnMouseOut-Ereignis. |
+| event [OnMouseOver](../../aspose.svg.dom/iglobaleventhandlers/onmouseover/) | Liest oder setzt Ereignis-Handler für das OnMouseOver-Ereignis. |
+| event [OnMouseUp](../../aspose.svg.dom/iglobaleventhandlers/onmouseup/) | Liest oder setzt Ereignis-Handler für das OnMouseUp-Ereignis. |
+| event [OnMouseWheel](../../aspose.svg.dom/iglobaleventhandlers/onmousewheel/) | Liest oder setzt Ereignis-Handler für das OnMouseWheel-Ereignis. |
+| event [OnPause](../../aspose.svg.dom/iglobaleventhandlers/onpause/) | Liest oder setzt Ereignis-Handler für das OnPause-Ereignis. |
+| event [OnPlay](../../aspose.svg.dom/iglobaleventhandlers/onplay/) | Liest oder setzt Ereignis-Handler für das OnPlay-Ereignis. |
+| event [OnPlaying](../../aspose.svg.dom/iglobaleventhandlers/onplaying/) | Liest oder setzt Ereignis-Handler für das OnPlaying-Ereignis. |
+| event [OnProgress](../../aspose.svg.dom/iglobaleventhandlers/onprogress/) | Liest oder setzt Ereignis-Handler für das OnProgress-Ereignis. |
+| event [OnRateChange](../../aspose.svg.dom/iglobaleventhandlers/onratechange/) | Liest oder setzt Ereignis-Handler für das OnRateChange-Ereignis. |
+| event [OnReset](../../aspose.svg.dom/iglobaleventhandlers/onreset/) | Liest oder setzt Ereignis-Handler für das OnReset-Ereignis. |
+| event [OnResize](../../aspose.svg.dom/iglobaleventhandlers/onresize/) | Liest oder setzt den Ereignishandler für das OnResize-Ereignis. |
+| event [OnScroll](../../aspose.svg.dom/iglobaleventhandlers/onscroll/) | Liest oder setzt den Ereignishandler für das OnScroll-Ereignis. |
+| event [OnSeeked](../../aspose.svg.dom/iglobaleventhandlers/onseeked/) | Liest oder setzt den Ereignishandler für das OnSeeked-Ereignis. |
+| event [OnSeeking](../../aspose.svg.dom/iglobaleventhandlers/onseeking/) | Liest oder setzt den Ereignishandler für das OnSeeking-Ereignis. |
+| event [OnSelect](../../aspose.svg.dom/iglobaleventhandlers/onselect/) | Liest oder setzt den Ereignishandler für das OnSelect-Ereignis. |
+| event [OnShow](../../aspose.svg.dom/iglobaleventhandlers/onshow/) | Liest oder setzt den Ereignishandler für das OnShow-Ereignis. |
+| event [OnStalled](../../aspose.svg.dom/iglobaleventhandlers/onstalled/) | Liest oder setzt den Ereignishandler für das OnStalled-Ereignis. |
+| event [OnSubmit](../../aspose.svg.dom/iglobaleventhandlers/onsubmit/) | Liest oder setzt den Ereignishandler für das OnSubmit-Ereignis. |
+| event [OnSuspend](../../aspose.svg.dom/iglobaleventhandlers/onsuspend/) | Liest oder setzt den Ereignishandler für das OnSuspend-Ereignis. |
+| event [OnTimeUpdate](../../aspose.svg.dom/iglobaleventhandlers/ontimeupdate/) | Liest oder setzt den Ereignishandler für das OnTimeUpdate-Ereignis. |
+| event [OnToggle](../../aspose.svg.dom/iglobaleventhandlers/ontoggle/) | Liest oder setzt den Ereignishandler für das OnToggle-Ereignis. |
+| event [OnVolumeChange](../../aspose.svg.dom/iglobaleventhandlers/onvolumechange/) | Liest oder setzt den Ereignishandler für das OnVolumeChange-Ereignis. |
+| event [OnWaiting](../../aspose.svg.dom/iglobaleventhandlers/onwaiting/) | Liest oder setzt den Ereignishandler für das OnWaiting-Ereignis. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

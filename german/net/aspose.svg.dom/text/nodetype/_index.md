@@ -1,7 +1,7 @@
 ---
-title: Text.NodeType
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Text eigendom. Ein Code der den Typ des zugrunde liegenden Objekts darstellt.
+title: "Text.NodeType"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Text NodeType‑Eigenschaft. Ein Code, der den Typ des zugrunde liegenden Objekts repräsentiert."
 type: docs
 weight: 30
 url: /de/net/aspose.svg.dom/text/nodetype/
@@ -14,14 +14,12 @@ Ein Code, der den Typ des zugrunde liegenden Objekts darstellt.
 public override ushort NodeType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ des Knotens.
 
 ### Siehe auch
 
 * class [Text](../)
-* namensraum [Aspose.Svg.Dom](../../text/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

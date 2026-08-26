@@ -1,29 +1,33 @@
 ---
-title: Class DOMConstructorAttribute
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Attributes.DOMConstructorAttribute klas. Gibt einen vom W3C definierten Konstruktor an.
+title: "DOMConstructorAttribute-Klasse"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.Attributes.DOMConstructorAttribute-Klasse. Gibt einen vom W3C definierten Konstruktor an."
 type: docs
-weight: 370
+weight: 2370
 url: /de/net/aspose.svg.dom.attributes/domconstructorattribute/
 ---
 ## DOMConstructorAttribute class
 
-Gibt einen vom W3C definierten Konstruktor an.
+Gibt einen Konstruktor an, der vom W3C definiert ist.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMConstructorAttribute : Attribute
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [DOMConstructorAttribute](domconstructorattribute/)() | Default_Constructor |
+| [DOMConstructorAttribute](domconstructorattribute/)() | Der Standard‑Konstruktor. |
+
+## Eigenschaften
+
+| Name | Beschreibung |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

@@ -1,22 +1,22 @@
 ---
-title: Element.GetAttributeNode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Element methode. Ruft einen Attributknoten nach Namen ab.
+title: "Element.GetAttributeNode"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Element GetAttributeNode Methode. Ruft einen Attributknoten anhand des Namens ab"
 type: docs
 weight: 250
 url: /de/net/aspose.svg.dom/element/getattributenode/
 ---
 ## Element.GetAttributeNode method
 
-Ruft einen Attributknoten nach Namen ab.
+Ruft einen Attributknoten anhand des Namens ab.
 
 ```csharp
-public Attr GetAttributeNode(string name)
+public Attr GetAttributeNode(string qualifiedName)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| name | String | Der Attributname. |
+| qualifiedName | String | Der Attributname. |
 
 ### Rückgabewert
 
@@ -26,7 +26,5 @@ Gibt den Attributwert zurück
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* namensraum [Aspose.Svg.Dom](../../element/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.ViewBox
-second_title: Aspose.SVG für .NET-API-Referenz
-description: SVGPatternElement eigendom. Entspricht dem Attribut viewBox des angegebenen Elements.
+title: "SVGPatternElement.ViewBox"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "SVGPatternElement ViewBox-Eigenschaft. Entspricht dem Attribut viewBox des angegebenen Elements"
 type: docs
 weight: 100
 url: /de/net/aspose.svg/svgpatternelement/viewbox/
 ---
 ## SVGPatternElement.ViewBox property
 
-Entspricht dem Attribut 'viewBox' des angegebenen Elements.
+Entspricht dem Attribut ‘viewBox’ des angegebenen Elements.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die 'viewBox' des gegebenen Elements.
+Das ‘viewBox’ des angegebenen Elements.
 
 ### Siehe auch
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * class [SVGPatternElement](../)
-* namensraum [Aspose.Svg](../../svgpatternelement/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

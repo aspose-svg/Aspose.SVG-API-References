@@ -1,27 +1,25 @@
 ---
-title: Url.Hash
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Url eigendom. Ruft eine Zeichenfolgendarstellung für das angegebene URLHashSegment ab oder legt sie fest.
+title: "Url.Hash"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Url Hash‑Eigenschaft. Gibt eine Zeichenkettenrepräsentation für das angegebene URL‑Hash‑Segment zurück oder setzt sie."
 type: docs
 weight: 20
 url: /de/net/aspose.svg/url/hash/
 ---
 ## Url.Hash property
 
-Ruft eine Zeichenfolgendarstellung für das angegebene URL-Hash-Segment ab oder legt sie fest.
+Liest oder setzt eine Zeichenkettenrepräsentation für das angegebene URL-Hash‑Segment.
 
 ```csharp
 public string Hash { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Hash.
 
 ### Siehe auch
 
 * class [Url](../)
-* namensraum [Aspose.Svg](../../url/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

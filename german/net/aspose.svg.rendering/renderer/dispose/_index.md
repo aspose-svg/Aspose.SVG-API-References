@@ -1,7 +1,7 @@
 ---
-title: Renderer.Dispose
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Renderer methode. Gibt nicht verwaltete und  optional  verwaltete Ressourcen frei.
+title: "Renderer.Dispose"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Renderer Dispose Methode. Gibt nicht verwaltete und – optional – verwaltete Ressourcen frei."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.rendering/renderer/dispose/
@@ -17,7 +17,5 @@ public void Dispose()
 ### Siehe auch
 
 * class [Renderer](../)
-* namensraum [Aspose.Svg.Rendering](../../renderer/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

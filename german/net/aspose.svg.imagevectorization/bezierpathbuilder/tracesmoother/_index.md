@@ -1,14 +1,14 @@
 ---
-title: BezierPathBuilder.TraceSmoother
-second_title: Aspose.SVG für .NET-API-Referenz
-description: BezierPathBuilder eigendom. Ruft die Spur glatter ab oder stellt sie ein.
+title: "BezierPathBuilder.TraceSmoother"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "BezierPathBuilder TraceSmoother Eigenschaft. Liest den TraceSmoother aus oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/
 ---
 ## BezierPathBuilder.TraceSmoother property
 
-Ruft die Spur glatter ab oder stellt sie ein.
+Liest oder setzt den Trace‑Glätter.
 
 ```csharp
 public IImageTraceSmoother TraceSmoother { get; set; }
@@ -18,7 +18,5 @@ public IImageTraceSmoother TraceSmoother { get; set; }
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * class [BezierPathBuilder](../)
-* namensraum [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

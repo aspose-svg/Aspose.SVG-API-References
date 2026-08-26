@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGTests
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.ISVGTests koppel. Schnittstelle SVGTests definiert eine Schnittstelle die für alle Elemente gilt die die Attribute requiredFeatures requiredExtensions und systemLanguage haben.
+title: "ISVGTests Interface"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.ISVGTests Schnittstelle. Die Schnittstelle SVGTests definiert eine Schnittstelle, die für alle Elemente gilt, die die Attribute requiredFeatures, requiredExtensions und systemLanguage besitzen."
 type: docs
-weight: 2030
+weight: 4100
 url: /de/net/aspose.svg/isvgtests/
 ---
 ## ISVGTests interface
 
-Schnittstelle SVGTests definiert eine Schnittstelle, die für alle Elemente gilt, die die Attribute 'requiredFeatures', 'requiredExtensions' und 'systemLanguage' haben.
+Das Interface SVGTests definiert ein Interface, das für alle Elemente gilt, die die Attribute ‘requiredFeatures’, ‘requiredExtensions’ und ‘systemLanguage’ besitzen.
 
 ```csharp
 public interface ISVGTests
@@ -18,13 +18,11 @@ public interface ISVGTests
 
 | Name | Beschreibung |
 | --- | --- |
-| [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions/) { get; } | Entspricht dem Attribut 'requiredExtensions' für das angegebene Element. |
-| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures/) { get; } | Entspricht dem Attribut 'requiredFeatures' für das angegebene Element. |
-| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage/) { get; } | Entspricht dem Attribut 'systemLanguage' des angegebenen Elements. |
+| [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions/) { get; } | Entspricht dem Attribut ‘requiredExtensions’ des angegebenen Elements. |
+| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures/) { get; } | Entspricht dem Attribut ‘requiredFeatures’ des angegebenen Elements. |
+| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage/) { get; } | Entspricht dem Attribut ‘systemLanguage’ des angegebenen Elements. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg](../../aspose.svg/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

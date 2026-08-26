@@ -1,14 +1,14 @@
 ---
-title: CSSValue.ToString
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSValue methode. Gibt a zurückString die diese Instanz darstellt.
+title: "CSSValue.ToString"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSValue ToString Methode. Gibt einen String zurück, der diese Instanz darstellt."
 type: docs
 weight: 60
 url: /de/net/aspose.svg.dom.css/cssvalue/tostring/
 ---
 ## CSSValue.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Ein String, der diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [CSSValue](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssvalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.Item
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSStyleDeclaration eigendom. Wird verwendet um die Eigenschaften abzurufen die explizit in diesem Deklarationsblock festgelegt wurden. Die Reihenfolge der mit dieser Methode abgerufenen Eigenschaften muss nicht der Reihenfolge entsprechen in der sie festgelegt wurden. Mit dieser Methode kann über alle Eigenschaften in diesem Deklarationsblock iteriert werden.
+title: "ICSSStyleDeclaration.Item"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSStyleDeclaration Item‑Eigenschaft. Wird verwendet, um die Eigenschaften abzurufen, die in diesem Deklarationsblock explizit festgelegt wurden. Die Reihenfolge der mit dieser Methode abgerufenen Eigenschaften muss nicht der Reihenfolge entsprechen, in der sie gesetzt wurden. Diese Methode kann verwendet werden, um über alle Eigenschaften in diesem Deklarationsblock zu iterieren."
 type: docs
 weight: 20
 url: /de/net/aspose.svg.dom.css/icssstyledeclaration/item/
 ---
 ## ICSSStyleDeclaration indexer
 
-Wird verwendet, um die Eigenschaften abzurufen, die explizit in diesem Deklarationsblock festgelegt wurden. Die Reihenfolge der mit dieser Methode abgerufenen Eigenschaften muss nicht der Reihenfolge entsprechen, in der sie festgelegt wurden. Mit dieser Methode kann über alle Eigenschaften in diesem Deklarationsblock iteriert werden.
+Wird verwendet, um die Eigenschaften abzurufen, die in diesem Deklarationsblock explizit gesetzt wurden. Die Reihenfolge der mit dieser Methode abgerufenen Eigenschaften muss nicht der Reihenfolge entsprechen, in der sie gesetzt wurden. Diese Methode kann verwendet werden, um über alle Eigenschaften in diesem Deklarationsblock zu iterieren.
 
 ```csharp
 public string this[int index] { get; }
@@ -20,12 +20,10 @@ public string this[int index] { get; }
 
 ### Rückgabewert
 
-Der CSS-Wert.
+Der CSS‑Wert.
 
 ### Siehe auch
 
 * interface [ICSSStyleDeclaration](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

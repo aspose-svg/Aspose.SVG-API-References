@@ -1,14 +1,14 @@
 ---
-title: Interface INonDocumentTypeChildNode
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.INonDocumentTypeChildNode koppel. definiertIChildNode das sind nichtDOCUMENT_TYPE_NODE .
+title: "INonDocumentTypeChildNode Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Dom.INonDocumentTypeChildNode Schnittstelle. Definiert IChildNode, die nicht DOCUMENT_TYPE_NODE sind."
 type: docs
-weight: 1080
+weight: 3060
 url: /de/net/aspose.svg.dom/inondocumenttypechildnode/
 ---
 ## INonDocumentTypeChildNode interface
 
-definiert[`IChildNode`](../ichildnode/) das sind nicht[`DOCUMENT_TYPE_NODE`](../node/document_type_node/) .
+Definiert [`IChildNode`](../ichildnode/), die nicht [`DOCUMENT_TYPE_NODE`](../node/document_type_node/) sind.
 
 ```csharp
 public interface INonDocumentTypeChildNode
@@ -18,12 +18,10 @@ public interface INonDocumentTypeChildNode
 
 | Name | Beschreibung |
 | --- | --- |
-| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | Gibt das erste folgende gleichgeordnete Element zurück, das ein Element ist, andernfalls null. |
-| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | Gibt das erste vorangehende Geschwister zurück, das ein Element ist, andernfalls null. |
+| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | Gibt das erste nachfolgende Geschwister zurück, das ein Element ist, sonst null. |
+| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | Gibt das erste vorherige Geschwister zurück, das ein Element ist, sonst null. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

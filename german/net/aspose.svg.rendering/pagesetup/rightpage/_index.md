@@ -1,14 +1,14 @@
 ---
-title: PageSetup.RightPage
-second_title: Aspose.SVG für .NET-API-Referenz
-description: PageSetup eigendom. Ruft die gerade Seitenkonfiguration ab.
+title: "PageSetup.RightPage"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "PageSetup RightPage Eigenschaft. Ruft die Konfiguration der geraden Seite ab."
 type: docs
 weight: 50
 url: /de/net/aspose.svg.rendering/pagesetup/rightpage/
 ---
 ## PageSetup.RightPage property
 
-Ruft die gerade Seitenkonfiguration ab.
+Liest die Konfiguration der geraden Seite.
 
 ```csharp
 public Page RightPage { get; }
@@ -18,7 +18,5 @@ public Page RightPage { get; }
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* namensraum [Aspose.Svg.Rendering](../../pagesetup/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

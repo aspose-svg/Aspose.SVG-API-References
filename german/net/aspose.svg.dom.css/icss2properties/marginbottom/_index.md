@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarginBottom
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSS2Properties eigendom. Siehe Definition der Eigenschaft marginbottom in CSS2.
+title: "ICSS2Properties.MarginBottom"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSS2Properties MarginBottom-Eigenschaft. Siehe die Definition der margin-bottom-Eigenschaft in CSS2"
 type: docs
-weight: 640
+weight: 670
 url: /de/net/aspose.svg.dom.css/icss2properties/marginbottom/
 ---
 ## ICSS2Properties.MarginBottom property
 
-Siehe Definition der Eigenschaft margin-bottom in CSS2.
+Siehe die Definition der margin-bottom-Eigenschaft in CSS2.
 
 ```csharp
 public string MarginBottom { get; set; }
@@ -16,12 +16,10 @@ public string MarginBottom { get; set; }
 
 ### Rückgabewert
 
-Rand unten
+margin-bottom
 
 ### Siehe auch
 
 * interface [ICSS2Properties](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icss2properties/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,18 +1,16 @@
 ---
-title: Aspose.Svg.Dom.Views
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Dom.Views Namespace beschreibt AbstractView und DocumentViewSchnittstellen gemäß Document Object Model ViewsSpezifikation.
+title: "Aspose.Svg.Dom.Views"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Der Namespace Aspose.Svg.Dom.Views beschreibt die Interfaces AbstractView und DocumentView gemäß der Document Object Model Views-Spezifikation."
 type: docs
-weight: 120
+weight: 140
 url: /de/net/aspose.svg.dom.views/
 ---
-**Aspose.Svg.Dom.Views** Namespace beschreibt AbstractView- und DocumentView-Schnittstellen gemäß Document Object Model Views-Spezifikation.
+**Aspose.Svg.Dom.Views** namespace describes AbstractView and DocumentView interfaces according Document Object Model Views specification.
 
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
 | --- | --- |
-| [IAbstractView](./iabstractview/) | Eine Basisschnittstelle, von der alle Ansichten abgeleitet werden sollen. |
-| [IDocumentView](./idocumentview/) | Die DocumentView-Schnittstelle wird von Document-Objekten in DOM-Implementierungen implementiert, die DOM-Ansichten unterstützen. Es stellt ein Attribut bereit, um die Standardansicht eines Dokuments abzurufen. |
-
-
+| [IAbstractView](./iabstractview/) | Ein Basis-Interface, von dem alle Views abgeleitet werden sollen. |
+| [IDocumentView](./idocumentview/) | Das DocumentView-Interface wird von Document-Objekten in DOM-Implementierungen, die DOM-Views unterstützen, implementiert. Es stellt ein Attribut bereit, um die Standard-View eines Dokuments abzurufen. |

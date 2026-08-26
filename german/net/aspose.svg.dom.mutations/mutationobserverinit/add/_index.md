@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Add
-second_title: Aspose.SVG für .NET-API-Referenz
-description: MutationObserverInit methode. Fügt ein Element zum hinzuMutationObserverInitSammlung.
+title: "MutationObserverInit.Add"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "MutationObserverInit Add-Methode. Fügt ein Element zur MutationObserverInit‑Sammlung hinzu."
 type: docs
 weight: 140
 url: /de/net/aspose.svg.dom.mutations/mutationobserverinit/add/
 ---
-## Add(KeyValuePair&lt;string, object&gt;) {#add}
+## Add(*KeyValuePair&lt;string, object&gt;*) {#add}
 
-Fügt ein Element zum hinzu[`MutationObserverInit`](../)Sammlung.
+Fügt ein Element zur [`MutationObserverInit`](../)-Sammlung hinzu.
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -16,19 +16,19 @@ public void Add(KeyValuePair<string, object> item)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Das hinzuzufügende Element. |
+| Element | KeyValuePair`2 | Das hinzuzufügende Element. |
 
 ### Siehe auch
 
 * class [MutationObserverInit](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* Montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(string, object) {#add_1}
+## Add(*string, object*) {#add_1}
 
-Fügt den angegebenen Schlüssel und Wert zu der hinzu[`MutationObserverInit`](../)Sammlung.
+Fügt den angegebenen Schlüssel und Wert zur [`MutationObserverInit`](../)-Sammlung hinzu.
 
 ```csharp
 public void Add(string key, object value)
@@ -36,13 +36,11 @@ public void Add(string key, object value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| key | String | Der Schlüssel des hinzuzufügenden Elements. |
-| value | Object | Der Wert des hinzuzufügenden Elements. |
+| Taste | String | Der Schlüssel des hinzuzufügenden Elements. |
+| value | Objekt | Der Wert des hinzuzufügenden Elements. |
 
 ### Siehe auch
 
 * class [MutationObserverInit](../)
-* namensraum [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

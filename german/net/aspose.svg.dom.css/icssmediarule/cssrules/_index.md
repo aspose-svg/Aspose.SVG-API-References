@@ -1,7 +1,7 @@
 ---
-title: ICSSMediaRule.CSSRules
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ICSSMediaRule eigendom. Eine Liste aller CSSRegeln die im Medienblock enthalten sind.
+title: "ICSSMediaRule.CSSRules"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ICSSMediaRule CSSRules Eigenschaft. Eine Liste aller CSS-Regeln, die im Media-Block enthalten sind"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.dom.css/icssmediarule/cssrules/
@@ -18,7 +18,5 @@ public ICSSRuleList CSSRules { get; }
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSMediaRule](../)
-* namensraum [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

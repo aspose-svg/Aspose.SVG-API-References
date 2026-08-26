@@ -1,14 +1,14 @@
 ---
-title: Interface IColorComponents
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Drawing.IColorComponents koppel. Deklariert Methode und Eigenschaften für die Verarbeitung von Farbkomponenten.
+title: "IColorComponents Schnittstelle"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Drawing.IColorComponents Schnittstelle. Deklariert Methoden und Eigenschaften zur Verarbeitung von Farbkomponenten"
 type: docs
-weight: 1440
+weight: 3450
 url: /de/net/aspose.svg.drawing/icolorcomponents/
 ---
 ## IColorComponents interface
 
-Deklariert Methode und Eigenschaften für die Verarbeitung von Farbkomponenten.
+Deklariert Methoden und Eigenschaften zur Verarbeitung von Farbkomponenten.
 
 ```csharp
 public interface IColorComponents
@@ -26,12 +26,10 @@ public interface IColorComponents
 
 | Name | Beschreibung |
 | --- | --- |
-| [ToColor](../../aspose.svg.drawing/icolorcomponents/tocolor/)() | Wandelt die Farbkomponenten in das Color-Objekt um. |
-| [ToString](../../aspose.svg.drawing/icolorcomponents/tostring/)(bool, bool, int) | Wandelt Farbkomponenten in eine Zeichenfolgendarstellung um. |
+| [ToColor](../../aspose.svg.drawing/icolorcomponents/tocolor/)() | Konvertiert die Farbkomponenten in das Color-Objekt. |
+| [ToString](../../aspose.svg.drawing/icolorcomponents/tostring/)(*bool, bool, int*) | Konvertiert Farbkomponenten in eine String-Darstellung. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

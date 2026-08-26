@@ -1,14 +1,14 @@
 ---
-title: Document.CreateCDATASection
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Document methode. Erstellt einen CDATASectionKnoten dessen Wert die angegebene Zeichenfolge ist.
+title: "Document.CreateCDATASection"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Document CreateCDATASection-Methode. Erstellt einen CDATASection-Knoten, dessen Wert die angegebene Zeichenkette ist."
 type: docs
 weight: 810
 url: /de/net/aspose.svg.dom/document/createcdatasection/
 ---
 ## Document.CreateCDATASection method
 
-Erstellt einen CDATASection-Knoten, dessen Wert die angegebene Zeichenfolge ist.
+Erstellt einen CDATASection‑Knoten, dessen Wert die angegebene Zeichenkette ist.
 
 ```csharp
 public CDATASection CreateCDATASection(string data)
@@ -20,13 +20,11 @@ public CDATASection CreateCDATASection(string data)
 
 ### Rückgabewert
 
-Die[`CDATASection`](../../cdatasection/) .
+Der [`CDATASection`](../../cdatasection/).
 
 ### Siehe auch
 
 * class [CDATASection](../../cdatasection/)
 * class [Document](../)
-* namensraum [Aspose.Svg.Dom](../../document/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

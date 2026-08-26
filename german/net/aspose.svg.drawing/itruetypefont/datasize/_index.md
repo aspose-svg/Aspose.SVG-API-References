@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.DataSize
-second_title: Aspose.SVG für .NET-API-Referenz
-description: ITrueTypeFont eigendom. Gibt die Größe der Schriftdaten in Bytes zurück
+title: "ITrueTypeFont.DataSize"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "ITrueTypeFont DataSize Eigenschaft. Gibt die Größe der Schriftartdaten in Bytes zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.svg.drawing/itruetypefont/datasize/
 ---
 ## ITrueTypeFont.DataSize property
 
-Gibt die Größe der Schriftdaten in Bytes zurück
+Liest die Größe der Schriftartdaten in Bytes.
 
 ```csharp
 public float DataSize { get; }
@@ -16,12 +16,10 @@ public float DataSize { get; }
 
 ### Rückgabewert
 
-Größe der Schriftdaten
+Die Größe der Schriftartdaten in Bytes.
 
 ### Siehe auch
 
 * interface [ITrueTypeFont](../)
-* namensraum [Aspose.Svg.Drawing](../../itruetypefont/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: CSSPrimitiveValue.CSS_DPCM
-second_title: Aspose.SVG für .NET-API-Referenz
-description: CSSPrimitiveValue veld. Der Wert ist ein Punkt pro Zentimeter dpcm.
+title: "CSSPrimitiveValue.CSS_DPCM"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "CSSPrimitiveValue CSS_DPCM Feld. Der Wert ist ein Dots-per-Centimeter (dpcm)."
 type: docs
 weight: 170
 url: /de/net/aspose.svg.dom.css/cssprimitivevalue/css_dpcm/
@@ -17,7 +17,5 @@ public const ushort CSS_DPCM;
 ### Siehe auch
 
 * class [CSSPrimitiveValue](../)
-* namensraum [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* Montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

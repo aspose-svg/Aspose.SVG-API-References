@@ -1,9 +1,9 @@
 ---
-title: Enum SVGSaveFormat
-second_title: Aspose.SVG für .NET-API-Referenz
-description: Aspose.Svg.Saving.SVGSaveFormat opsomming. Gibt das Format an in dem das Dokument gespeichert wird.
+title: "SVGSaveFormat Enum"
+second_title: "Aspose.SVG für .NET API-Referenz"
+description: "Aspose.Svg.Saving.SVGSaveFormat‑Enum. Gibt das Format an, in dem das Dokument gespeichert wird."
 type: docs
-weight: 3660
+weight: 5780
 url: /de/net/aspose.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration
@@ -19,10 +19,9 @@ public enum SVGSaveFormat
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | SVG | `0` | Dokument wird als SVG gespeichert. |
+| SVGZ | `1` | Dokument wird als SVGZ gespeichert. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* Montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)
