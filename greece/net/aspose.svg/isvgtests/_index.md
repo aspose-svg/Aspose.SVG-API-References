@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGTests
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ISVGTests διεπαφή. Το Interface SVGTests ορίζει μια διεπαφή που εφαρμόζεται σε όλα τα στοιχεία που έχουν χαρακτηριστικά requiredFeatures requiredExtensions και systemLanguage.
+title: "Διεπαφή ISVGTests"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.ISVGTests. Η διεπαφή SVGTests ορίζει μια διεπαφή που εφαρμόζεται σε όλα τα στοιχεία που έχουν τα χαρακτηριστικά requiredFeatures, requiredExtensions και systemLanguage."
 type: docs
-weight: 2030
+weight: 4100
 url: /el/net/aspose.svg/isvgtests/
 ---
 ## ISVGTests interface
 
-Το Interface SVGTests ορίζει μια διεπαφή που εφαρμόζεται σε όλα τα στοιχεία που έχουν χαρακτηριστικά 'requiredFeatures', 'requiredExtensions' και 'systemLanguage'.
+Η διεπαφή SVGTests ορίζει μια διεπαφή που εφαρμόζεται σε όλα τα στοιχεία που έχουν τα χαρακτηριστικά ‘requiredFeatures’, ‘requiredExtensions’ και ‘systemLanguage’.
 
 ```csharp
 public interface ISVGTests
@@ -16,15 +16,13 @@ public interface ISVGTests
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions/) { get; } | Αντιστοιχεί στο χαρακτηριστικό 'requiredExtensions' στο δεδομένο στοιχείο. |
-| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures/) { get; } | Αντιστοιχεί στο χαρακτηριστικό 'requiredFeatures' στο δεδομένο στοιχείο. |
-| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage/) { get; } | Αντιστοιχεί στο χαρακτηριστικό 'systemLanguage' στο δεδομένο στοιχείο. |
+| [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘requiredExtensions’ του δεδομένου στοιχείου. |
+| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘requiredFeatures’ του δεδομένου στοιχείου. |
+| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘systemLanguage’ του δεδομένου στοιχείου. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg](../../aspose.svg/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: IEventListener.HandleEvent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IEventListener μέθοδος. Αυτή η μέθοδος καλείται κάθε φορά που συμβαίνει ένα συμβάν του τύπου για το οποίο τοIEventListener Η διεπαφή καταχωρήθηκε.
+title: "IEventListener.HandleEvent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IEventListener HandleEvent method. Αυτή η μέθοδος καλείται κάθε φορά που συμβαίνει ένα γεγονός του τύπου για τον οποίο η διεπαφή IEventListener έχει καταχωρηθεί."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.events/ieventlistener/handleevent/
 ---
 ## IEventListener.HandleEvent method
 
-Αυτή η μέθοδος καλείται κάθε φορά που συμβαίνει ένα συμβάν του τύπου για το οποίο το[`IEventListener`](../) Η διεπαφή καταχωρήθηκε.
+Αυτή η μέθοδος καλείται κάθε φορά που συμβαίνει ένα γεγονός του τύπου για τον οποίο η διεπαφή [`IEventListener`](../) έχει καταχωρηθεί.
 
 ```csharp
 public void HandleEvent(Event @event)
@@ -16,13 +16,11 @@ public void HandleEvent(Event @event)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| event | Event | Το[`Event`](../../event/) περιέχει πληροφορίες συμφραζομένων για το συμβάν. Περιέχει επίσης το[`StopPropagation`](../../event/stoppropagation/) και[`PreventDefault`](../../event/preventdefault/) μέθοδοι που χρησιμοποιούνται για τον προσδιορισμό της ροής του συμβάντος και της προεπιλεγμένης ενέργειας. |
+| event | Event | Το [`Event`](../../event/) περιέχει πληροφορίες περιβάλλοντος σχετικά με το γεγονός. Περιέχει επίσης τις μεθόδους [`StopPropagation`](../../event/stoppropagation/) και [`PreventDefault`](../../event/preventdefault/) που χρησιμοποιούνται για τον καθορισμό της ροής του γεγονότος και της προεπιλεγμένης ενέργειας. |
 
 ### Δείτε επίσης
 
 * class [Event](../../event/)
 * interface [IEventListener](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../ieventlistener/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

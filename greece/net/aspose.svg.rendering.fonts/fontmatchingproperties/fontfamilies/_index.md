@@ -1,7 +1,7 @@
 ---
-title: FontMatchingProperties.FontFamilies
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FontMatchingProperties ιδιοκτησία. Λαμβάνει τη συλλογή των οικογενειών γραμματοσειρών.
+title: "FontMatchingProperties.FontFamilies"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα FontFamilies του FontMatchingProperties. Λαμβάνει τη συλλογή των οικογενειών γραμματοσειρών"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontfamilies/
@@ -17,7 +17,5 @@ public IEnumerable<string> FontFamilies { get; }
 ### Δείτε επίσης
 
 * class [FontMatchingProperties](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGLineElement.X1
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGLineElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό x1 στο δεδομένο στοιχείο line.
+title: "SVGLineElement.X1"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGLineElement X1. Αντιστοιχεί στην ιδιότητα x1 του δεδομένου στοιχείου γραμμής."
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svglineelement/x1/
 ---
 ## SVGLineElement.X1 property
 
-Αντιστοιχεί στο χαρακτηριστικό 'x1' στο δεδομένο στοιχείο 'line'.
+Αντιστοιχεί στο χαρακτηριστικό ‘x1’ του δεδομένου στοιχείου ‘line’.
 
 ```csharp
 public SVGAnimatedLength X1 { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'x1' του δεδομένου στοιχείου 'line'.
+Η ιδιότητα ‘x1’ του δεδομένου στοιχείου ‘line’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svglineelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

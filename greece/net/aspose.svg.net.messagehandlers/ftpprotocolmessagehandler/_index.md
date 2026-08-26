@@ -1,14 +1,14 @@
 ---
-title: Class FtpProtocolMessageHandler
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.MessageHandlers.FtpProtocolMessageHandler τάξη. Αντιπροσωπεύει τοftp χειριστής μηνυμάτων πρωτοκόλλου.
+title: "FtpProtocolMessageHandler Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Net.MessageHandlers.FtpProtocolMessageHandler κλάση. Αντιπροσωπεύει τον χειριστή μηνυμάτων πρωτοκόλλου ftp"
 type: docs
-weight: 2370
+weight: 4440
 url: /el/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler class
 
-Αντιπροσωπεύει το`ftp:` χειριστής μηνυμάτων πρωτοκόλλου.
+Αναπαριστά τον χειριστή μηνυμάτων του πρωτοκόλλου `ftp:`.
 
 ```csharp
 public class FtpProtocolMessageHandler : MessageHandler
@@ -16,26 +16,24 @@ public class FtpProtocolMessageHandler : MessageHandler
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [FtpProtocolMessageHandler](ftpprotocolmessagehandler/)() | Αρχικοποιεί μια νέα παρουσία του`FtpProtocolMessageHandler` τάξη. |
+| [FtpProtocolMessageHandler](ftpprotocolmessagehandler/)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `FtpProtocolMessageHandler`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | Λαμβάνει τη λίστα φίλτρων που αντιστοιχούν στον καθορισμένο τύπο χειριστή. |
+| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | Λαμβάνει τη λίστα φίλτρων που αντιστοιχούν στον καθορισμένο τύπο διαχειριστή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/invoke/)(INetworkOperationContext) | Όταν η παράκαμψη σε μια παράγωγη κλάση χρησιμοποιείται για την υλοποίηση του χειρισμού μηνυμάτων. |
+| override [Invoke](../../aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | Όταν υπερκαλύπτεται σε μια παράγωγη κλάση, χρησιμοποιείται για την υλοποίηση της διαχείρισης μηνυμάτων. |
 
 ### Δείτε επίσης
 
 * class [MessageHandler](../../aspose.svg.net/messagehandler/)
-* χώρος ονομάτων [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../)

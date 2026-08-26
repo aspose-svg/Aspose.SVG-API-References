@@ -1,14 +1,14 @@
 ---
-title: Document.OnInvalid
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnInvalid.
+title: "Document.OnInvalid"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnInvalid. Λαμβάνει ή ορίζει τον χειριστή γεγονότος για το γεγονός OnInvalid."
 type: docs
 weight: 430
 url: /el/net/aspose.svg.dom/document/oninvalid/
 ---
 ## Document.OnInvalid event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnInvalid.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnInvalid συμβάν.
 
 ```csharp
 public event DOMEventHandler OnInvalid;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnInvalid;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

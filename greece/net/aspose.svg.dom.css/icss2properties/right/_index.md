@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Right
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον σωστό ορισμό ιδιότητας στο CSS2.
+title: "ICSS2Properties.Right"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Right του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας right στο CSS2"
 type: docs
-weight: 980
+weight: 1010
 url: /el/net/aspose.svg.dom.css/icss2properties/right/
 ---
 ## ICSS2Properties.Right property
 
-Δείτε τον σωστό ορισμό ιδιότητας στο CSS2.
+Δείτε τον ορισμό ιδιότητας right στο CSS2.
 
 ```csharp
 public string Right { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-σωστή ιδιοκτησία
+ιδιότητα right
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: DocumentType.DocumentType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentType κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουDocumentType τάξη.
+title: "DocumentType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DocumentType constructor. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης DocumentType"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`DocumentType`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`DocumentType`](../).
 
 ```csharp
 public DocumentType(string name, string publicId, string systemId, string internalSubset, 
@@ -18,16 +18,14 @@ public DocumentType(string name, string publicId, string systemId, string intern
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | name | String | Το όνομα της οντότητας. |
-| publicId | String | Η δημόσια ταυτότητα. |
+| publicId | String | Το δημόσιο αναγνωριστικό. |
 | systemId | String | Το αναγνωριστικό συστήματος. |
 | internalSubset | String | Το εσωτερικό υποσύνολο. |
-| doc | Document | Το έγγραφο. |
+| έγγραφο | Έγγραφο | Το έγγραφο. |
 
 ### Δείτε επίσης
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documenttype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

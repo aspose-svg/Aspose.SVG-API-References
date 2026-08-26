@@ -1,27 +1,25 @@
 ---
-title: SVGListBase1.GetEnumerator
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGListBase μέθοδος. Παίρνει τον απαριθμητή.
+title: "SVGListBase-1.GetEnumerator"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος GetEnumerator του SVGListBase. Λαμβάνει τον απαριθμητή"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.collections/svglistbase-1/getenumerator/
 ---
-## SVGListBase&lt;T&gt;.GetEnumerator method
+## SVGListBase<T>.GetEnumerator method
 
-Παίρνει τον απαριθμητή.
+Λαμβάνει τον απαριθμητή.
 
 ```csharp
 public IEnumerator<T> GetEnumerator()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑνIEnumerator αντικείμενο που μπορεί να χρησιμοποιηθεί για επανάληψη μέσω της συλλογής.
+Ένα αντικείμενο IEnumerator που μπορεί να χρησιμοποιηθεί για την επανάληψη στη συλλογή.
 
 ### Δείτε επίσης
 
 * class [SVGListBase&lt;T&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../svglistbase-1/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

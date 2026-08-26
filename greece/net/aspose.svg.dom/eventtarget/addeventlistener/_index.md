@@ -1,14 +1,16 @@
 ---
-title: EventTarget.AddEventListener
-second_title: Aspose.SVG για Αναφορά API .NET
-description: EventTarget μέθοδος. Αυτή η μέθοδος επιτρέπει την εγγραφή των ακροατών συμβάντων στον στόχο συμβάντος.
+title: "EventTarget.AddEventListener"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος EventTarget AddEventListener. Ορίζει μια συνάρτηση που θα κληθεί όποτε το καθορισμένο συμβάν παραδοθεί στον στόχο"
 type: docs
-weight: 10
+weight: 20
 url: /el/net/aspose.svg.dom/eventtarget/addeventlistener/
 ---
-## AddEventListener(string, DOMEventHandler, bool) {#addeventlistener}
+## AddEventListener(*string, [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/), bool*) {#addeventlistener}
 
-Αυτή η μέθοδος επιτρέπει την εγγραφή των ακροατών συμβάντων στον στόχο συμβάντος.
+Ρυθμίζει μια συνάρτηση που θα κληθεί όποτε το καθορισμένο συμβάν παραδοθεί στον στόχο.
+
+Λειτουργεί προσθέτοντας μια συνάρτηση ή ένα αντικείμενο που υλοποιεί [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), στη λίστα των ακροατών συμβάντων για τον καθορισμένο τύπο συμβάντος στο [`EventTarget`](../) στο οποίο καλείται. Εάν η συνάρτηση ή το αντικείμενο βρίσκεται ήδη στη λίστα των ακροατών για αυτόν τον στόχο, δεν προστίθενται δεύτερη φορά.
 
 ```csharp
 public void AddEventListener(string type, DOMEventHandler handler, bool useCapture)
@@ -16,28 +18,30 @@ public void AddEventListener(string type, DOMEventHandler handler, bool useCaptu
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος συμβάντος για τον οποίο εγγράφεται ο χρήστης |
-| handler | DOMEventHandler | Παίρνει ένα[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) να κληθεί όταν συμβεί το συμβάν. |
-| useCapture | Boolean | Εάν ισχύει, το useCapture υποδεικνύει ότι ο χρήστης επιθυμεί να ξεκινήσει τη λήψη. Μετά την έναρξη της λήψης, όλα τα συμβάντα του καθορισμένου τύπου θα αποσταλούν στο registered [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) πριν αποσταλεί σε οποιονδήποτε στόχο συμβάντων κάτω από αυτούς στο δέντρο.[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) προορίζεται για χρήση σύλληψης. |
+| type | String | Ο τύπος συμβάντος για τον οποίο ο χρήστης καταχωρεί. |
+| handler | DOMEventHandler | Δέχεται ένα [`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) που θα κληθεί όταν συμβεί το γεγονός. |
+| useCapture | Boolean | Εάν είναι true, το useCapture υποδεικνύει ότι ο χρήστης επιθυμεί να ξεκινήσει τη σύλληψη. Μετά την έναρξη της σύλληψης, όλα τα συμβάντα του καθορισμένου τύπου θα διανεμηθούν στον καταχωρημένο [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) πριν διανεμηθούν σε οποιοδήποτε Event Target κάτω από αυτά στο δέντρο. Τα συμβάντα που ανεβαίνουν μέσω του δέντρου δεν θα ενεργοποιήσουν έναν [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που έχει οριστεί να χρησιμοποιεί σύλληψη. |
 
-### Παρατηρήσεις
+## Παρατηρήσεις
 
-Εάν α[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) προστίθεται σε ένα[`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες, αλλά μπορεί να ενεργοποιηθεί κατά τη διάρκεια ενός μεταγενέστερου σταδίου ροής συμβάντος, όπως η φάση δημιουργίας φυσαλίδων.
+Εάν ένας [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) προστεθεί σε ένα [`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες αλλά μπορεί να ενεργοποιηθεί σε μεταγενέστερο στάδιο της ροής του συμβάντος, όπως η φάση bubbling.
 
-Εάν είναι εγγεγραμμένοι πολλαπλοί ίδιοι ακροατές συμβάντων στο ίδιο[`EventTarget`](../)με τις ίδιες παραμέτρους οι διπλές εμφανίσεις απορρίπτονται. Δεν προκαλούν το[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) να κληθούν δύο φορές και αφού απορρίπτονται δεν χρειάζεται να αφαιρεθούν με το [`RemoveEventListener`](../removeeventlistener/) μέθοδος.
+Εάν πολλαπλοί πανομοιότυποι Event Listeners καταχωρηθούν στο ίδιο [`EventTarget`](../) με τις ίδιες παραμέτρους, οι διπλότυπες εμφανίσεις απορρίπτονται. Δεν προκαλούν την κλήση του [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) δύο φορές και επειδή απορρίπτονται, δεν χρειάζεται να αφαιρεθούν με τη μέθοδο [`RemoveEventListener`](../removeeventlistener/).
 
 ### Δείτε επίσης
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [EventTarget](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../eventtarget/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## AddEventListener(string, IEventListener) {#addeventlistener_1}
+## AddEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)*) {#addeventlistener_1}
 
-Αυτή η μέθοδος επιτρέπει την εγγραφή των ακροατών συμβάντων στον στόχο συμβάντος.
+Ρυθμίζει μια συνάρτηση που θα κληθεί όποτε το καθορισμένο συμβάν παραδοθεί στον στόχο.
+
+Λειτουργεί προσθέτοντας μια συνάρτηση ή ένα αντικείμενο που υλοποιεί [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), στη λίστα των ακροατών συμβάντων για τον καθορισμένο τύπο συμβάντος στο [`EventTarget`](../) στο οποίο καλείται. Εάν η συνάρτηση ή το αντικείμενο βρίσκεται ήδη στη λίστα των ακροατών για αυτόν τον στόχο, δεν προστίθενται δεύτερη φορά.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
@@ -45,27 +49,29 @@ public void AddEventListener(string type, IEventListener listener)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος συμβάντος για τον οποίο εγγράφεται ο χρήστης |
-| listener | IEventListener | Λαμβάνει μια διεπαφή που υλοποιείται από τον χρήστη η οποία περιέχει τις μεθόδους που θα κληθούν όταν συμβεί το συμβάν. |
+| type | String | Ο τύπος συμβάντος για τον οποίο ο χρήστης καταχωρεί. |
+| listener | IEventListener | Δέχεται μια διεπαφή που υλοποιείται από τον χρήστη και περιέχει τις μεθόδους που θα κληθούν όταν συμβεί το συμβάν. |
 
-### Παρατηρήσεις
+## Παρατηρήσεις
 
-Εάν α[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) προστίθεται σε ένα[`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες, αλλά μπορεί να ενεργοποιηθεί κατά τη διάρκεια ενός μεταγενέστερου σταδίου ροής συμβάντος, όπως η φάση δημιουργίας φυσαλίδων.
+Εάν ένας [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) προστεθεί σε ένα [`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες αλλά μπορεί να ενεργοποιηθεί σε μεταγενέστερο στάδιο της ροής του συμβάντος, όπως η φάση bubbling.
 
-Εάν είναι εγγεγραμμένοι πολλαπλοί ίδιοι ακροατές συμβάντων στο ίδιο[`EventTarget`](../)με τις ίδιες παραμέτρους οι διπλές εμφανίσεις απορρίπτονται. Δεν προκαλούν το[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) να κληθούν δύο φορές και αφού απορρίπτονται δεν χρειάζεται να αφαιρεθούν με το [`RemoveEventListener`](../removeeventlistener/) μέθοδος.
+Εάν πολλαπλοί πανομοιότυποι Event Listeners καταχωρηθούν στο ίδιο [`EventTarget`](../) με τις ίδιες παραμέτρους, οι διπλότυπες εμφανίσεις απορρίπτονται. Δεν προκαλούν την κλήση του [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) δύο φορές και επειδή απορρίπτονται, δεν χρειάζεται να αφαιρεθούν με τη μέθοδο [`RemoveEventListener`](../removeeventlistener/).
 
 ### Δείτε επίσης
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../eventtarget/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## AddEventListener(string, IEventListener, bool) {#addeventlistener_2}
+## AddEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/), bool*) {#addeventlistener_2}
 
-Αυτή η μέθοδος επιτρέπει την εγγραφή των ακροατών συμβάντων στον στόχο συμβάντος.
+Ρυθμίζει μια συνάρτηση που θα κληθεί όποτε το καθορισμένο συμβάν παραδοθεί στον στόχο.
+
+Λειτουργεί προσθέτοντας μια συνάρτηση ή ένα αντικείμενο που υλοποιεί [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/), στη λίστα των ακροατών συμβάντων για τον καθορισμένο τύπο συμβάντος στο [`EventTarget`](../) στο οποίο καλείται. Εάν η συνάρτηση ή το αντικείμενο βρίσκεται ήδη στη λίστα των ακροατών για αυτόν τον στόχο, δεν προστίθενται δεύτερη φορά.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)
@@ -73,21 +79,19 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος συμβάντος για τον οποίο εγγράφεται ο χρήστης |
-| listener | IEventListener | Λαμβάνει μια διεπαφή που υλοποιείται από τον χρήστη η οποία περιέχει τις μεθόδους που θα κληθούν όταν συμβεί το συμβάν. |
-| useCapture | Boolean | Εάν ισχύει, το useCapture υποδεικνύει ότι ο χρήστης επιθυμεί να ξεκινήσει τη λήψη. Μετά την έναρξη της λήψης, όλα τα συμβάντα του καθορισμένου τύπου θα αποσταλούν στο registered [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) πριν αποσταλεί σε οποιονδήποτε στόχο συμβάντων κάτω από αυτούς στο δέντρο.[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) προορίζεται για χρήση σύλληψης. |
+| type | String | Ο τύπος συμβάντος για τον οποίο ο χρήστης καταχωρεί. |
+| listener | IEventListener | Δέχεται μια διεπαφή που υλοποιείται από τον χρήστη και περιέχει τις μεθόδους που θα κληθούν όταν συμβεί το συμβάν. |
+| useCapture | Boolean | Εάν είναι true, το useCapture υποδεικνύει ότι ο χρήστης επιθυμεί να ξεκινήσει τη σύλληψη. Μετά την έναρξη της σύλληψης, όλα τα συμβάντα του καθορισμένου τύπου θα διανεμηθούν στον καταχωρημένο [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) πριν διανεμηθούν σε οποιοδήποτε Event Target κάτω από αυτά στο δέντρο. Τα συμβάντα που ανεβαίνουν μέσω του δέντρου δεν θα ενεργοποιήσουν έναν [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που έχει οριστεί να χρησιμοποιεί σύλληψη. |
 
-### Παρατηρήσεις
+## Παρατηρήσεις
 
-Εάν α[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) προστίθεται σε ένα[`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες, αλλά μπορεί να ενεργοποιηθεί κατά τη διάρκεια ενός μεταγενέστερου σταδίου ροής συμβάντος, όπως η φάση δημιουργίας φυσαλίδων.
+Εάν ένας [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) προστεθεί σε ένα [`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες αλλά μπορεί να ενεργοποιηθεί σε μεταγενέστερο στάδιο της ροής του συμβάντος, όπως η φάση bubbling.
 
-Εάν είναι εγγεγραμμένοι πολλαπλοί ίδιοι ακροατές συμβάντων στο ίδιο[`EventTarget`](../)με τις ίδιες παραμέτρους οι διπλές εμφανίσεις απορρίπτονται. Δεν προκαλούν το[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) να κληθούν δύο φορές και αφού απορρίπτονται δεν χρειάζεται να αφαιρεθούν με το [`RemoveEventListener`](../removeeventlistener/) μέθοδος.
+Εάν πολλαπλοί πανομοιότυποι Event Listeners καταχωρηθούν στο ίδιο [`EventTarget`](../) με τις ίδιες παραμέτρους, οι διπλότυπες εμφανίσεις απορρίπτονται. Δεν προκαλούν την κλήση του [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) δύο φορές και επειδή απορρίπτονται, δεν χρειάζεται να αφαιρεθούν με τη μέθοδο [`RemoveEventListener`](../removeeventlistener/).
 
 ### Δείτε επίσης
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../eventtarget/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

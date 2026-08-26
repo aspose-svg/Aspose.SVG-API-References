@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.SpeechRate
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας του ρυθμού ομιλίας στο CSS2.
+title: "ICSS2Properties.SpeechRate"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties SpeechRate ιδιότητα. Δείτε τον ορισμό της ιδιότητας speech-rate στο CSS2"
 type: docs
-weight: 1040
+weight: 1070
 url: /el/net/aspose.svg.dom.css/icss2properties/speechrate/
 ---
 ## ICSS2Properties.SpeechRate property
 
-Δείτε τον ορισμό της ιδιότητας του ρυθμού ομιλίας στο CSS2.
+Δείτε τον ορισμό ιδιότητας speech-rate στο CSS2.
 
 ```csharp
 public string SpeechRate { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα ρυθμού ομιλίας
+ιδιότητα speech-rate
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

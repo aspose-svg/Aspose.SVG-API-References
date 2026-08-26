@@ -1,7 +1,7 @@
 ---
-title: UnitType.Dppx
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType πεδίο. Η μέτρηση είναι σε κουκκίδες ανά μονάδα pixel.
+title: "UnitType.Dppx"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο UnitType Dppx. Η μέτρηση είναι σε κουκκίδες ανά pixel."
 type: docs
 weight: 70
 url: /el/net/aspose.svg.drawing/unittype/dppx/
@@ -17,7 +17,5 @@ public static readonly UnitType Dppx;
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

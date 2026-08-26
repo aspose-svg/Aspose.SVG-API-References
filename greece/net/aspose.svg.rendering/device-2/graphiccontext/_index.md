@@ -1,14 +1,14 @@
 ---
-title: Device2.GraphicContext
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device ιδιοκτησία. Λαμβάνει το γραφικό πλαίσιο
+title: "Device-2.GraphicContext"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Device GraphicContext. Λαμβάνει το γραφικό περιβάλλον."
 type: docs
-weight: 10
+weight: 20
 url: /el/net/aspose.svg.rendering/device-2/graphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.GraphicContext property
+## Device<TGraphicContext,TRenderingOptions>.GraphicContext property
 
-Λαμβάνει το γραφικό πλαίσιο
+Αποκτά το πλαίσιο γραφικών
 
 ```csharp
 public TGraphicContext GraphicContext { get; }
@@ -17,7 +17,5 @@ public TGraphicContext GraphicContext { get; }
 ### Δείτε επίσης
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

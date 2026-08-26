@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Y
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEConvolveMatrixElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό y στο δεδομένο στοιχείο φίλτρο.
+title: "SVGFEConvolveMatrixElement.Y"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Y του SVGFEConvolveMatrixElement. Αντιστοιχεί στο χαρακτηριστικό y στο δεδομένο στοιχείο φίλτρου."
 type: docs
 weight: 170
 url: /el/net/aspose.svg.filters/svgfeconvolvematrixelement/y/
 ---
 ## SVGFEConvolveMatrixElement.Y property
 
-Αντιστοιχεί στο χαρακτηριστικό 'y' στο δεδομένο στοιχείο 'φίλτρο'.
+Αντιστοιχεί στο χαρακτηριστικό ‘y’ του δεδομένου στοιχείου ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'y' του δεδομένου στοιχείου 'φίλτρου'.
+Το χαρακτηριστικό ‘y’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEConvolveMatrixElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

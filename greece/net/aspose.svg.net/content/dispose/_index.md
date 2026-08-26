@@ -1,14 +1,14 @@
 ---
-title: Content.Dispose
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Content μέθοδος. Εκτελεί εργασίες που καθορίζονται από την εφαρμογή που σχετίζονται με την απελευθέρωση την απελευθέρωση ή την επαναφορά μη διαχειριζόμενων πόρων.
+title: "Content.Dispose"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Content Dispose μέθοδος. Εκτελεί εργασίες που ορίζονται από την εφαρμογή και σχετίζονται με την απελευθέρωση, την αποδέσμευση ή την επαναφορά μη διαχειριζόμενων πόρων"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net/content/dispose/
 ---
 ## Content.Dispose method
 
-Εκτελεί εργασίες που καθορίζονται από την εφαρμογή που σχετίζονται με την απελευθέρωση, την απελευθέρωση ή την επαναφορά μη διαχειριζόμενων πόρων.
+Εκτελεί εργασίες που ορίζονται από την εφαρμογή και σχετίζονται με την απελευθέρωση, την αποδέσμευση ή την επαναφορά μη διαχειριζόμενων πόρων.
 
 ```csharp
 public void Dispose()
@@ -17,7 +17,5 @@ public void Dispose()
 ### Δείτε επίσης
 
 * class [Content](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../content/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

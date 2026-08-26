@@ -1,7 +1,7 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_IN
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFECompositeElement πεδίο. Αντιστοιχεί στην τιμή in.
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_IN"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVG_FECOMPOSITE_OPERATOR_IN του SVGFECompositeElement. Αντιστοιχεί στην τιμή in"
 type: docs
 weight: 150
 url: /el/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_in/
@@ -17,7 +17,5 @@ public const ushort SVG_FECOMPOSITE_OPERATOR_IN;
 ### Δείτε επίσης
 
 * class [SVGFECompositeElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

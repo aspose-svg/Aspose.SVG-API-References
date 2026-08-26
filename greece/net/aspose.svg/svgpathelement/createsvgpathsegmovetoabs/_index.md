@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegMovetoAbs
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathElement μέθοδος. Επιστρέφει ένα αυτόνομο χωρίς γονικό αντικείμενο SVGPathSegMovetoAbs.
+title: "SVGPathElement.CreateSVGPathSegMovetoAbs"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGPathElement CreateSVGPathSegMovetoAbs. Επιστρέφει ένα αυτόνομο χωρίς γονέα αντικείμενο SVGPathSegMovetoAbs"
 type: docs
 weight: 200
 url: /el/net/aspose.svg/svgpathelement/createsvgpathsegmovetoabs/
 ---
 ## SVGPathElement.CreateSVGPathSegMovetoAbs method
 
-Επιστρέφει ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegMovetoAbs.
+Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegMovetoAbs.
 
 ```csharp
 public SVGPathSegMovetoAbs CreateSVGPathSegMovetoAbs(float x, float y)
@@ -16,18 +16,16 @@ public SVGPathSegMovetoAbs CreateSVGPathSegMovetoAbs(float x, float y)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Single | Η απόλυτη συντεταγμένη Χ για το τελικό σημείο αυτού του τμήματος διαδρομής. |
-| y | Single | Η απόλυτη συντεταγμένη Y για το τελικό σημείο αυτού του τμήματος διαδρομής. |
+| x | Single | Η απόλυτη συντεταγμένη X για το σημείο τερματισμού αυτού του τμήματος διαδρομής. |
+| y | Single | Η απόλυτη συντεταγμένη Y για το σημείο τερματισμού αυτού του τμήματος διαδρομής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegMovetoAbs.
+Ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegMovetoAbs.
 
 ### Δείτε επίσης
 
 * class [SVGPathSegMovetoAbs](../../../aspose.svg.paths/svgpathsegmovetoabs/)
 * class [SVGPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

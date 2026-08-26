@@ -1,7 +1,7 @@
 ---
-title: INodeIterator.ReferenceNode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: INodeIterator ιδιοκτησία. Ο τρέχων κόμβος αναφοράς.
+title: "INodeIterator.ReferenceNode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "INodeIterator ReferenceNode property. Ο τρέχων κόμβος αναφοράς"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.traversal/inodeiterator/referencenode/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.dom.traversal/inodeiterator/referencenode/
 public Node ReferenceNode { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο κόμβος αναφοράς.
 
@@ -22,7 +22,5 @@ public Node ReferenceNode { get; }
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeIterator](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

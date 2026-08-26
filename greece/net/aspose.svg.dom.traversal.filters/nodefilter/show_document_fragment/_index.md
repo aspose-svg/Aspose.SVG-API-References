@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_DOCUMENT_FRAGMENT
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NodeFilter πεδίο. Εμφάνιση κόμβων DocumentFragment.
+title: "NodeFilter.SHOW_DOCUMENT_FRAGMENT"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο NodeFilter SHOW_DOCUMENT_FRAGMENT. Εμφανίζει κόμβους DocumentFragment"
 type: docs
 weight: 110
 url: /el/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment/
@@ -17,7 +17,5 @@ public const long SHOW_DOCUMENT_FRAGMENT;
 ### Δείτε επίσης
 
 * class [NodeFilter](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Enum ShadowRootMode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.ShadowRootMode αρίθμηση. Λειτουργίες στις οποίες μπορεί να λειτουργήσει το ShadowRoot.
+title: "Απαρίθμηση ShadowRootMode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.ShadowRootMode enum. Λειτουργίες στις οποίες μπορεί να λειτουργήσει το ShadowRoot."
 type: docs
-weight: 1190
+weight: 3190
 url: /el/net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
@@ -14,16 +14,14 @@ url: /el/net/aspose.svg.dom/shadowrootmode/
 public enum ShadowRootMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Open | `0` | "ανοιχτή" λειτουργία. |
-| Closed | `1` | "κλειστή" λειτουργία. |
+| Open | `0` | \"open\" λειτουργία. |
+| Closed | `1` | \"closed\" λειτουργία. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Unit.FromCentimeters
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αLength αντικείμενο που αναπαρίσταται σε εκατοστά.
+title: "Unit.FromCentimeters"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Unit FromCentimeters μέθοδος. Επιστρέφει ένα αντικείμενο Length που αντιπροσωπεύεται σε εκατοστά"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.drawing/unit/fromcentimeters/
 ---
 ## Unit.FromCentimeters method
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο που αναπαρίσταται σε εκατοστά.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/) που αντιπροσωπεύεται σε εκατοστά.
 
 ```csharp
 public static Length FromCentimeters(double value)
@@ -16,17 +16,15 @@ public static Length FromCentimeters(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/).
 
 ### Δείτε επίσης
 
 * class [Length](../../length/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

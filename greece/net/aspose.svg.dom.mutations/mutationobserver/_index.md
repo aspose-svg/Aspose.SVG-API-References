@@ -1,14 +1,14 @@
 ---
-title: Class MutationObserver
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Mutations.MutationObserver τάξη. ΑMutationObserver αντικείμενο μπορεί να χρησιμοποιηθεί για την παρατήρηση μεταλλάξεων στο δέντρο τουNode .
+title: "MutationObserver Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Mutations.MutationObserver κλάση. Ένα αντικείμενο MutationObserver μπορεί να χρησιμοποιηθεί για την παρακολούθηση μεταβολών στο δέντρο του Node."
 type: docs
-weight: 1120
+weight: 3110
 url: /el/net/aspose.svg.dom.mutations/mutationobserver/
 ---
 ## MutationObserver class
 
-Α`MutationObserver` αντικείμενο μπορεί να χρησιμοποιηθεί για την παρατήρηση μεταλλάξεων στο δέντρο του[`Node`](../../aspose.svg.dom/node/) .
+Ένα αντικείμενο `MutationObserver` μπορεί να χρησιμοποιηθεί για την παρακολούθηση μεταβολών στο δέντρο του [`Node`](../../aspose.svg.dom/node/).
 
 ```csharp
 public class MutationObserver : DOMObject
@@ -16,24 +16,22 @@ public class MutationObserver : DOMObject
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [MutationObserver](mutationobserver/)(MutationCallback) | Κατασκευάζει ένα αντικείμενο MutationObserver και το ορίζει[`MutationCallback`](../mutationcallback/) για επανάκληση. Η επανάκληση καλείται με μια λίστα αντικειμένων MutationRecord ως πρώτο όρισμα και το κατασκευασμένο αντικείμενο MutationObserver ως δεύτερο όρισμα. Καλείται μετά από κόμβους που έχουν καταχωρηθεί στο!:Observe(Node, IMutationObserverInit) μέθοδος, μεταλλάσσονται. |
+| [MutationObserver](mutationobserver/)(*[MutationCallback](../mutationcallback/)*) | Δημιουργεί ένα αντικείμενο MutationObserver και ορίζει το [`MutationCallback`](../mutationcallback/) του σε callback. Το callback καλείται με μια λίστα αντικειμένων MutationRecord ως πρώτο όρισμα και το κατασκευασμένο αντικείμενο MutationObserver ως δεύτερο όρισμα. Καλείται μετά από μεταβολή των κόμβων που έχουν εγγραφεί με τη μέθοδο [`Observe`](./observe/). |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Disconnect](../../aspose.svg.dom.mutations/mutationobserver/disconnect/)() | Εμποδίζει τον παρατηρητή να παρατηρήσει τυχόν μεταλλάξεις. Μέχρι να χρησιμοποιηθεί ξανά η μέθοδος Observer(), η επιστροφή κλήσης του παρατηρητή δεν θα κληθεί. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType . |
-| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe)(Node) | Καθοδηγεί τον παράγοντα χρήστη να παρατηρήσει έναν δεδομένο στόχο (έναν κόμβο) και να αναφέρει τυχόν μεταλλάξεις με βάση τα κριτήρια που δίνονται από τις επιλογές (ένα αντικείμενο). Το όρισμα επιλογές επιτρέπει τον ορισμό επιλογών παρατήρησης μετάλλαξης μέσω μελών αντικειμένου. |
-| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe_1)(Node, MutationObserverInit) | Καθοδηγεί τον παράγοντα χρήστη να παρατηρήσει έναν δεδομένο στόχο (έναν κόμβο) και να αναφέρει τυχόν μεταλλάξεις με βάση τα κριτήρια που δίνονται από τις επιλογές (ένα αντικείμενο). Το όρισμα επιλογές επιτρέπει τον ορισμό επιλογών παρατήρησης μετάλλαξης μέσω μελών αντικειμένου. |
-| [TakeRecords](../../aspose.svg.dom.mutations/mutationobserver/takerecords/)() | Η μέθοδος επιστρέφει ένα αντίγραφο της ουράς εγγραφής και στη συνέχεια αδειάζει την ουρά εγγραφής. |
+| [Disconnect](../../aspose.svg.dom.mutations/mutationobserver/disconnect/)() | Σταματά το observer από το να παρακολουθεί οποιεσδήποτε μεταβολές. Μέχρι να χρησιμοποιηθεί ξανά η μέθοδος observe(), το callback του observer δεν θα κληθεί. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου του αντικειμένου ECMAScript. |
+| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe)(*[Node](../../aspose.svg.dom/node/)*) | Οδηγεί τον user agent να παρακολουθεί έναν συγκεκριμένο στόχο (ένα node) και να αναφέρει τυχόν μεταβολές βάσει των κριτηρίων που δίνονται από τις options (ένα αντικείμενο). Το όρισμα options επιτρέπει τον ορισμό επιλογών παρακολούθησης μεταβολών μέσω των μελών του αντικειμένου. |
+| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe_1)(*[Node](../../aspose.svg.dom/node/), [MutationObserverInit](../mutationobserverinit/)*) | Οδηγεί τον user agent να παρακολουθεί έναν συγκεκριμένο στόχο (ένα node) και να αναφέρει τυχόν μεταβολές βάσει των κριτηρίων που δίνονται από τις options (ένα αντικείμενο). Το όρισμα options επιτρέπει τον ορισμό επιλογών παρακολούθησης μεταβολών μέσω των μελών του αντικειμένου. |
+| [TakeRecords](../../aspose.svg.dom.mutations/mutationobserver/takerecords/)() | Η μέθοδος επιστρέφει ένα αντίγραφο της ουράς εγγραφών και στη συνέχεια αδειάζει την ουρά εγγραφών. |
 
 ### Δείτε επίσης
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

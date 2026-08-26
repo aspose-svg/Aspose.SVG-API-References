@@ -1,9 +1,9 @@
 ---
-title: Class DOMConstructorAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Attributes.DOMConstructorAttribute τάξη. Καθορίζει έναν κατασκευαστή που ορίζεται από το W3C.
+title: "DOMConstructorAttribute Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Attributes.DOMConstructorAttribute κλάση. Καθορίζει έναν κατασκευαστή που ορίζεται από το W3C"
 type: docs
-weight: 370
+weight: 2370
 url: /el/net/aspose.svg.dom.attributes/domconstructorattribute/
 ---
 ## DOMConstructorAttribute class
@@ -17,13 +17,17 @@ public sealed class DOMConstructorAttribute : Attribute
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [DOMConstructorAttribute](domconstructorattribute/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
+## Ιδιότητες
+
+| Όνομα | Περιγραφή |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
+
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

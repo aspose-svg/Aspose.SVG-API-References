@@ -1,7 +1,7 @@
 ---
-title: LengthOrAuto.Length
-second_title: Aspose.SVG για Αναφορά API .NET
-description: LengthOrAuto ιδιοκτησία. Λαμβάνει ή ορίζει το μήκος.
+title: "LengthOrAuto.Length"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Length του LengthOrAuto. Λαμβάνει ή ορίζει το μήκος"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/lengthorauto/length/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.drawing/lengthorauto/length/
 public Length Length { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μήκος.
 
@@ -22,7 +22,5 @@ public Length Length { get; set; }
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../lengthorauto/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

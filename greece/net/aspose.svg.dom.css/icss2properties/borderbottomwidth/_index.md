@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BorderBottomWidth
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας borderbottomwidth στο CSS2.
+title: "ICSS2Properties.BorderBottomWidth"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα BorderBottomWidth του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας border-bottom-width στο CSS2"
 type: docs
 weight: 120
 url: /el/net/aspose.svg.dom.css/icss2properties/borderbottomwidth/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/borderbottomwidth/
 public string BorderBottomWidth { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 ιδιότητα border-bottom-width
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Add
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMTokenList μέθοδος. Προσθέτει τα καθορισμένα διακριτικά στη λίστα.
+title: "DOMTokenList.Add"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος DOMTokenList Add. Προσθέτει τα καθορισμένα διακριτικά στη λίστα."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.collections/domtokenlist/add/
 ---
 ## DOMTokenList.Add method
 
-Προσθέτει τα καθορισμένα διακριτικά στη λίστα.
+Προσθέτει το(τα) καθορισμένο(α) διακριτό(ά) στη λίστα.
 
 ```csharp
 public void Add(params string[] tokens)
@@ -16,12 +16,10 @@ public void Add(params string[] tokens)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tokens | String[] | Αντιπροσώπευση του διακριτικού (ή των διακριτικών) που θέλετε να προσθέσετε στη λίστα σημείων. |
+| διακριτικά | String[] | Αναπαριστώντας το διακριτικό (ή τα διακριτικά) που θα προστεθούν στη λίστα tokenList. |
 
 ### Δείτε επίσης
 
 * class [DOMTokenList](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../domtokenlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

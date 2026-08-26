@@ -1,14 +1,14 @@
 ---
-title: Element.AttachShadow
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Δημιουργεί σκιώδη ρίζα και την προσαρτά στο τρέχον στοιχείο.
+title: "Element.AttachShadow"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Element AttachShadow. Δημιουργεί σκιώδη ρίζα και την επισυνάπτει στο τρέχον στοιχείο"
 type: docs
-weight: 230
+weight: 220
 url: /el/net/aspose.svg.dom/element/attachshadow/
 ---
 ## Element.AttachShadow method
 
-Δημιουργεί σκιώδη ρίζα και την προσαρτά στο τρέχον στοιχείο.
+Δημιουργεί shadow root και το συνδέει με το τρέχον στοιχείο.
 
 ```csharp
 public ShadowRoot AttachShadow(ShadowRootMode mode)
@@ -16,25 +16,23 @@ public ShadowRoot AttachShadow(ShadowRootMode mode)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| mode | ShadowRootMode | Λειτουργία στην οποία θα δημιουργηθεί η ρίζα σκιάς. |
+| mode | ShadowRootMode | Λειτουργία με την οποία θα δημιουργηθεί η σκιώδης ρίζα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε[`ShadowRoot`](../../shadowroot/).
+Δημιουργήθηκε [`ShadowRoot`](../../shadowroot/).
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| Error | NotSupportedError: Το στοιχείο δεν υποστηρίζει το δέντρο σκιών. |
-| Error | InvalidStateError: Το στοιχείο έχει ήδη δέντρο σκιάς. |
+| Σφάλμα | NotSupportedError: Το Element δεν υποστηρίζει δέντρο σκίασης. |
+| Σφάλμα | InvalidStateError: Το Element έχει ήδη δέντρο σκίασης. |
 
 ### Δείτε επίσης
 
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ClientY
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MouseEvent ιδιοκτησία. Η κατακόρυφη συντεταγμένη στην οποία συνέβη το συμβάν σε σχέση με τη θύρα προβολής που σχετίζεται με το συμβάν.
+title: "MouseEvent.ClientY"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η ιδιότητα MouseEvent ClientY. Η κάθετη συντεταγμένη στην οποία συνέβη το γεγονός σε σχέση με το viewport που σχετίζεται με το γεγονός."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom.events/mouseevent/clienty/
 ---
 ## MouseEvent.ClientY property
 
-Η κατακόρυφη συντεταγμένη στην οποία συνέβη το συμβάν σε σχέση με τη θύρα προβολής που σχετίζεται με το συμβάν.
+Η κάθετη συντεταγμένη στην οποία συνέβη το γεγονός σε σχέση με το παράθυρο προβολής που σχετίζεται με το γεγονός.
 
 ```csharp
 public long ClientY { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο πελάτης y.
+Το client y.
 
 ### Δείτε επίσης
 
 * class [MouseEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../mouseevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

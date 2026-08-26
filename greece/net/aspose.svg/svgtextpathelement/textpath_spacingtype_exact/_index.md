@@ -1,14 +1,14 @@
 ---
-title: SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGTextPathElement πεδίο. Αντιστοιχεί στην τιμή acact.
+title: "SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVGTextPathElement TEXTPATH_SPACINGTYPE_EXACT. Αντιστοιχεί στην τιμή exact."
 type: docs
 weight: 90
 url: /el/net/aspose.svg/svgtextpathelement/textpath_spacingtype_exact/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT field
 
-Αντιστοιχεί στην τιμή 'acact'.
+Αντιστοιχεί στην τιμή 'exact'.
 
 ```csharp
 public const ushort TEXTPATH_SPACINGTYPE_EXACT;
@@ -17,7 +17,5 @@ public const ushort TEXTPATH_SPACINGTYPE_EXACT;
 ### Δείτε επίσης
 
 * class [SVGTextPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgtextpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

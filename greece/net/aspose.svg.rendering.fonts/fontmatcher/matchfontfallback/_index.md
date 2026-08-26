@@ -1,34 +1,32 @@
 ---
-title: FontMatcher.MatchFontFallback
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FontMatcher μέθοδος. Αυτή η μέθοδος καλείται εάν δεν υπάρχει κατάλληλη γραμματοσειρά στους φακέλους αναζήτησης γραμματοσειρών. Θα πρέπει να επιστρέψει γραμματοσειρά αληθινού τύπου με βάση τοfontMatchingProperties που μπορεί να αποδώσειcharCode  ήμηδενικό εάν αυτή η γραμματοσειρά δεν είναι διαθέσιμη.
+title: "FontMatcher.MatchFontFallback"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος MatchFontFallback του FontMatcher. Αυτή η μέθοδος καλείται εάν δεν βρεθεί κατάλληλη γραμματοσειρά στους φακέλους αναζήτησης γραμματοσειρών. Θα πρέπει να επιστρέφει μια γραμματοσειρά true type βάσει των fontMatchingProperties που μπορεί να αποδώσει το charCode ή `null` εάν τέτοια γραμματοσειρά δεν είναι διαθέσιμη."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/
 ---
 ## FontMatcher.MatchFontFallback method
 
-Αυτή η μέθοδος καλείται εάν δεν υπάρχει κατάλληλη γραμματοσειρά στους φακέλους αναζήτησης γραμματοσειρών. Θα πρέπει να επιστρέψει γραμματοσειρά αληθινού τύπου με βάση το*fontMatchingProperties* που μπορεί να αποδώσει*charCode* , ή`μηδενικό` εάν αυτή η γραμματοσειρά δεν είναι διαθέσιμη.
+Αυτή η μέθοδος καλείται εάν δεν βρεθεί κατάλληλη γραμματοσειρά στους φακέλους αναζήτησης γραμματοσειρών. Θα πρέπει να επιστρέφει γραμματοσειρά τύπου true βάσει των *fontMatchingProperties* που μπορεί να αποδώσει *charCode*, ή `null` εάν τέτοια γραμματοσειρά δεν είναι διαθέσιμη.
 
 ```csharp
 public abstract byte[] MatchFontFallback(FontMatchingProperties fontMatchingProperties, 
-    uint charCode)
+    int charCode)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | fontMatchingProperties | FontMatchingProperties | Ιδιότητες της αντιστοιχισμένης γραμματοσειράς. |
-| charCode | UInt32 | Κωδικός του χαρακτήρα που θα αποδοθεί χρησιμοποιώντας την αντίστοιχη γραμματοσειρά. |
+| charCode | Int32 | Κώδικας του χαρακτήρα που θα αποδοθεί χρησιμοποιώντας την αντιστοιχισμένη γραμματοσειρά. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας πίνακας byte που περιέχει τα δεδομένα γραμματοσειρών ή`μηδενικό`.
+Ένας πίνακας byte που περιέχει τα δεδομένα των γραμματοσειρών ή `null`.
 
 ### Δείτε επίσης
 
 * class [FontMatchingProperties](../../fontmatchingproperties/)
 * class [FontMatcher](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Fonts](../../fontmatcher/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGNumber.Value
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGNumber ιδιοκτησία. Η τιμή του δεδομένου χαρακτηριστικού.
+title: "SVGNumber.Value"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGNumber Value. Η τιμή του δεδομένου χαρακτηριστικού."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.datatypes/svgnumber/value/
 ---
 ## SVGNumber.Value property
 
-Η τιμή του δεδομένου χαρακτηριστικού.
+Η τιμή της δεδομένης ιδιότητας.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Αυξήθηκε σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGNumber](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgnumber/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

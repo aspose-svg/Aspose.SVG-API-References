@@ -1,14 +1,14 @@
 ---
-title: Document.OnTimeUpdate
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnTimeUpdate.
+title: "Document.OnTimeUpdate"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document OnTimeUpdate συμβάν. Λαμβάνει ή ορίζει χειριστή συμβάντος για το συμβάν OnTimeUpdate"
 type: docs
 weight: 750
 url: /el/net/aspose.svg.dom/document/ontimeupdate/
 ---
 ## Document.OnTimeUpdate event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnTimeUpdate.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnTimeUpdate.
 
 ```csharp
 public event DOMEventHandler OnTimeUpdate;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnTimeUpdate;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

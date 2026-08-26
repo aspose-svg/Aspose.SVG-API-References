@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.AttributeFilter
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationObserverInit ιδιοκτησία. Ορίστε μια λίστα με τοπικά ονόματα χαρακτηριστικών χωρίς χώρο ονομάτων εάν δεν χρειάζεται να παρατηρηθούν όλες οι μεταλλάξεις χαρακτηριστικών και τα χαρακτηριστικά είναι αληθή ή παραλείπονται.
+title: "MutationObserverInit.AttributeFilter"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα AttributeFilter του MutationObserverInit. Ορίζεται σε μια λίστα τοπικών ονομάτων χαρακτηριστικών χωρίς χώρο ονομάτων εάν δεν χρειάζεται να παρακολουθούνται όλες οι μεταβολές χαρακτηριστικών και το attributes είναι true ή παραλείπεται."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.mutations/mutationobserverinit/attributefilter/
 ---
 ## MutationObserverInit.AttributeFilter property
 
-Ορίστε μια λίστα με τοπικά ονόματα χαρακτηριστικών (χωρίς χώρο ονομάτων) εάν δεν χρειάζεται να παρατηρηθούν όλες οι μεταλλάξεις χαρακτηριστικών και τα χαρακτηριστικά είναι αληθή ή παραλείπονται.
+Ορίστε σε μια λίστα τοπικών ονομάτων χαρακτηριστικών (χωρίς namespace) εάν δεν χρειάζεται να παρακολουθούνται όλες οι μεταβολές χαρακτηριστικών και το attributes είναι true ή παραλείπεται.
 
 ```csharp
 public IList<string> AttributeFilter { get; set; }
@@ -17,7 +17,5 @@ public IList<string> AttributeFilter { get; set; }
 ### Δείτε επίσης
 
 * class [MutationObserverInit](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

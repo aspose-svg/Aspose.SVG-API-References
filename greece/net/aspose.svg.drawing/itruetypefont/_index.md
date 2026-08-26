@@ -1,14 +1,14 @@
 ---
-title: Interface ITrueTypeFont
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Drawing.ITrueTypeFont διεπαφή. Δηλώνει μεθόδους εργασίας με γραμματοσειρά TrueType.
+title: "Διεπαφή ITrueTypeFont"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Drawing.ITrueTypeFont. Δηλώνει μεθόδους για εργασία με γραμματοσειρές TrueType."
 type: docs
-weight: 1510
+weight: 3540
 url: /el/net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
 
-Δηλώνει μεθόδους εργασίας με γραμματοσειρά TrueType.
+Δηλώνει μεθόδους για εργασία με γραμματοσειρές TrueType.
 
 ```csharp
 public interface ITrueTypeFont
@@ -16,24 +16,23 @@ public interface ITrueTypeFont
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Επιστρέφει το μέγεθος των δεδομένων γραμματοσειράς σε bytes |
-| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Λάβετε το όνομα της οικογένειας γραμματοσειρών. |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Αυτό θα πρέπει να είναι ένας συνδυασμός του "FamilyName" και του "SubFamilyName". Εξαίρεση: εάν η γραμματοσειρά είναι "Κανονική" όπως υποδεικνύεται στο "SubFamilyName", τότε χρησιμοποιήστε μόνο το οικογενειακό όνομα που περιέχεται στο "FamilyName". Μια εξαίρεση στον παραπάνω ορισμό του ονόματος πλήρους γραμματοσειράς είναι για τις συμβολοσειρές πλατφόρμας Microsoft για γραμματοσειρές CFF OpenType: σε αυτήν την περίπτωση, η συμβολοσειρά ονόματος πλήρους γραμματοσειράς πρέπει να είναι πανομοιότυπη με τη συμβολοσειρά ονόματος γραμματοσειράς PostScript στο Όνομα CFF INDEX. |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Το όνομα της υποοικογένειας γραμματοσειράς διακρίνει τη γραμματοσειρά σε μια ομάδα με το ίδιο όνομα οικογένειας γραμματοσειράς. Υποτίθεται ότι αφορά το στυλ (πλάγια, πλάγια) και το βάρος (ανοιχτό, τολμηρό, μαύρο, κ.λπ.). Μια γραμματοσειρά χωρίς ιδιαίτερες διαφορές στο βάρος ή το στυλ (π.χ. μεσαίο βάρος, όχι πλάγιο και σύνολο fsSelection bit 6) θα πρέπει να έχει αποθηκευμένη τη συμβολοσειρά "Regular" σε αυτή τη θέση. |
+| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Λαμβάνει το μέγεθος των δεδομένων γραμματοσειράς σε bytes. |
+| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Λαμβάνει το όνομα της οικογένειας γραμματοσειράς. |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Το πλήρες όνομα γραμματοσειράς γενικά αναπαρίσταται ως συνδυασμός των ονομάτων Οικογένειας και Υποοικογένειας. |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | Λάβετε το στυλ γραμματοσειράς που συνδυάζει τις τιμές του κανόνα font-face και τα δεδομένα από τη γραμματοσειρά. |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Το όνομα Υποοικογένειας διακρίνει τη γραμματοσειρά σε μια ομάδα με το ίδιο όνομα Οικογένειας. Αυτό θεωρείται ότι αφορά το στυλ (πλάγιο, κεκλιμένο) και το βάρος (ελαφρύ, έντονο, μαύρο κ.λπ.). Μια γραμματοσειρά χωρίς ιδιαίτερες διαφορές στο βάρος ή το στυλ πρέπει να έχει τη συμβολοσειρά "Regular". |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | Επιστρέφει την ανάβαση, σε πόντους. |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Ανοίξτε τη ροή με δεδομένα γραμματοσειράς. Ο καλών είναι υπεύθυνος για την απόρριψη της ροής. |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | Επιστρέφει την κάθοδο, σε πόντους. |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(*float*) | Λαμβάνει την άνοδο της γραμματοσειράς σε points χρησιμοποιώντας το καθορισμένο μέγεθος γραμματοσειράς. |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Ανοίγει τη ροή με τα δεδομένα γραμματοσειράς. Ο καλούντας είναι υπεύθυνος για την απελευθέρωση της ροής. |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(*float*) | Λαμβάνει την κάθοδο της γραμματοσειράς σε points χρησιμοποιώντας το καθορισμένο μέγεθος γραμματοσειράς. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGDocument.GetOverrideStyle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGDocument μέθοδος. Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση της δήλωσης στυλ παράκαμψης για ένα καθορισμένο στοιχείο και ένα καθορισμένο ψευδοστοιχείο.
+title: "SVGDocument.GetOverrideStyle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGDocument GetOverrideStyle. Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση της δήλωσης παρακάμμισης στυλ για ένα καθορισμένο στοιχείο και ένα καθορισμένο ψευδο‑στοιχείο."
 type: docs
 weight: 70
 url: /el/net/aspose.svg/svgdocument/getoverridestyle/
 ---
 ## SVGDocument.GetOverrideStyle method
 
-Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση της δήλωσης στυλ παράκαμψης για ένα καθορισμένο στοιχείο και ένα καθορισμένο ψευδοστοιχείο.
+Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση της δήλωσης παρακάμψης στυλ για ένα καθορισμένο στοιχείο και ένα καθορισμένο ψευδο-στοιχείο.
 
 ```csharp
 public ICSSStyleDeclaration GetOverrideStyle(Element elt, string pseudoElt)
@@ -16,19 +16,17 @@ public ICSSStyleDeclaration GetOverrideStyle(Element elt, string pseudoElt)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| elt | Element | Το στοιχείο του οποίου το στυλ πρόκειται να τροποποιηθεί. Αυτή η παράμετρος δεν μπορεί να είναι μηδενική. |
-| pseudoElt | String | Το ψευδοστοιχείο ή μηδενικό εάν κανένα. |
+| elt | Element | Το στοιχείο του οποίου το στυλ θα τροποποιηθεί. Αυτή η παράμετρος δεν μπορεί να είναι null. |
+| pseudoElt | String | Το ψευδο-στοιχείο ή null αν δεν υπάρχει. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η δήλωση στιλ παράκαμψης
+Η δήλωση παρακάμψης στυλ
 
 ### Δείτε επίσης
 
 * interface [ICSSStyleDeclaration](../../../aspose.svg.dom.css/icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

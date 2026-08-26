@@ -1,31 +1,29 @@
 ---
-title: Element.HasAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Επιστρέφει true όταν ένα χαρακτηριστικό με ένα δεδομένο όνομα καθορίζεται σε αυτό το στοιχείο ή έχει μια προεπιλεγμένη τιμή false διαφορετικά.
+title: "Element.HasAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος Element HasAttribute. Επιστρέφει true όταν ένα χαρακτηριστικό με το δεδομένο όνομα καθορίζεται σε αυτό το στοιχείο ή έχει προεπιλεγμένη τιμή false, διαφορετικά."
 type: docs
 weight: 310
 url: /el/net/aspose.svg.dom/element/hasattribute/
 ---
 ## Element.HasAttribute method
 
-Επιστρέφει true όταν ένα χαρακτηριστικό με ένα δεδομένο όνομα καθορίζεται σε αυτό το στοιχείο ή έχει μια προεπιλεγμένη τιμή, false διαφορετικά.
+Επιστρέφει true όταν ένα χαρακτηριστικό με το δοσμένο όνομα έχει οριστεί σε αυτό το στοιχείο ή έχει προεπιλεγμένη τιμή, false διαφορετικά.
 
 ```csharp
-public bool HasAttribute(string name)
+public bool HasAttribute(string qualifiedName)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Το όνομα του χαρακτηριστικού. |
+| qualifiedName | String | Το όνομα του γνωρίσματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένο όνομα έχει χαρακτηριστικό. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο όνομα έχει χαρακτηριστικό· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

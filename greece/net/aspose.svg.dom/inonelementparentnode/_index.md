@@ -1,14 +1,14 @@
 ---
-title: Interface INonElementParentNode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.INonElementParentNode διεπαφή. ΟρίζειIParentNode που δεν είναι τύπος στοιχείου.
+title: "INonElementParentNode Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.INonElementParentNode διεπαφή. Ορίζει το IParentNode που δεν είναι τύπου Element."
 type: docs
-weight: 1090
+weight: 3070
 url: /el/net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
 
-Ορίζει[`IParentNode`](../iparentnode/) που δεν είναι τύπος στοιχείου.
+Ορίζει το [`IParentNode`](../iparentnode/) που δεν είναι τύπου Element.
 
 ```csharp
 public interface INonElementParentNode
@@ -16,13 +16,11 @@ public interface INonElementParentNode
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(string) | Επιστρέφει το πρώτο στοιχείο στους απογόνους του κόμβου των οποίων το αναγνωριστικό είναι elementId. |
+| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(*string*) | Επιστρέφει το πρώτο στοιχείο μέσα στα απογόνους του κόμβου του οποίου το ID είναι elementId. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

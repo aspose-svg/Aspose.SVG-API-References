@@ -1,28 +1,26 @@
 ---
-title: Margin.Right
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Margin ιδιοκτησία. Παίρνει ή ορίζει το σωστό.
+title: "Margin.Right"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Margin Right. Λαμβάνει ή ορίζει το δεξιό"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.drawing/margin/right/
 ---
 ## Margin.Right property
 
-Παίρνει ή ορίζει το σωστό.
+Λαμβάνει ή ορίζει τη δεξιά.
 
 ```csharp
 public LengthOrAuto Right { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το σωστό.
+Το δεξιό.
 
 ### Δείτε επίσης
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../margin/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

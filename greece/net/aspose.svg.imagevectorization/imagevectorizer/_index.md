@@ -1,14 +1,14 @@
 ---
-title: Class ImageVectorizer
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ImageVectorization.ImageVectorizer τάξη. Αυτή η κλάση ImageVetorizer διανυσματοποιεί εικόνες ράστερ όπως PNG JPG GIF BMP κ.λπ... και επιστρέφει το SVGDocument. Υπό διανυσματοποίηση εννοούμε τη διαδικασία μείωσης των bitmaps σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία διαδρομής και αποθηκεύονται ως SVG.
+title: "Κλάση ImageVectorizer"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η κλάση Aspose.Svg.ImageVectorization.ImageVectorizer. Αυτή η κλάση ImageVectorizer μετατρέπει εικόνες raster όπως PNG, JPG, GIF, BMP κ.λπ. και επιστρέφει SVGDocument. Με τον όρο vectorization εννοούμε τη διαδικασία μείωσης των bitmap σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία path και αποθηκεύονται ως SVG."
 type: docs
-weight: 2140
+weight: 4210
 url: /el/net/aspose.svg.imagevectorization/imagevectorizer/
 ---
 ## ImageVectorizer class
 
-Αυτή η κλάση ImageVetorizer διανυσματοποιεί εικόνες ράστερ όπως PNG, JPG, GIF, BMP κ.λπ... και επιστρέφει το SVGDocument. Υπό διανυσματοποίηση εννοούμε τη διαδικασία μείωσης των bitmaps σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία διαδρομής και αποθηκεύονται ως SVG.
+Αυτή η κλάση ImageVectorizer μετατρέπει εικόνες raster όπως PNG, JPG, GIF, BMP κ.λπ... και επιστρέφει το SVGDocument. Με τον όρο διανυσματοποίηση εννοούμε τη διαδικασία μείωσης των bitmap σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία διαδρομής και αποθηκεύονται ως SVG.
 
 ```csharp
 public class ImageVectorizer
@@ -16,28 +16,25 @@ public class ImageVectorizer
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ImageVectorizer](imagevectorizer/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`ImageVectorizer` τάξη. |
-| [ImageVectorizer](imagevectorizer/#constructor_1)(ImageVectorizerConfiguration) | Αρχικοποιεί μια νέα παρουσία του`ImageVectorizer` τάξη. |
+| [ImageVectorizer](imagevectorizer/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `ImageVectorizer`. |
+| [ImageVectorizer](imagevectorizer/#constructor_1)(*[ImageVectorizerConfiguration](../imagevectorizerconfiguration/)*) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ImageVectorizer`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Configuration](../../aspose.svg.imagevectorization/imagevectorizer/configuration/) { get; set; } | Η διαμόρφωση των μεθόδων και των επιλογών διανυσματοποίησης εικόνας |
+| [Configuration](../../aspose.svg.imagevectorization/imagevectorizer/configuration/) { get; set; } | Η διαμόρφωση των μεθόδων και επιλογών διανυσματισμού εικόνας |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(Bitmap) | Διανυσματικό bitmap. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(Stream) | Δημιουργεί διανυσματική εικόνα ράστερ από την καθορισμένη ροή. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_2)(string) | Δημιουργεί διανυσματική εικόνα ράστερ από το καθορισμένο αρχείο. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(*Stream*) | Διανυσματοποιεί raster εικόνα από το καθορισμένο ρεύμα. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(*string*) | Διανυσματοποιεί raster εικόνα από το καθορισμένο αρχείο. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

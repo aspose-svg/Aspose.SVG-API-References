@@ -1,14 +1,14 @@
 ---
-title: EventTarget.DispatchEvent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: EventTarget μέθοδος. Αυτή η μέθοδος επιτρέπει την αποστολή συμβάντων στο μοντέλο συμβάντων υλοποιήσεων.
+title: "EventTarget.DispatchEvent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος EventTarget DispatchEvent. Αποστέλλει ένα Event στο καθορισμένο IEventTarget συγχρονισμένα, ενεργοποιώντας τους επηρεαζόμενους EventListeners με τη σωστή σειρά. Οι κανονικοί κανόνες επεξεργασίας συμβάντων, συμπεριλαμβανομένων των φάσεων σύλληψης και προαιρετικής ανάδυσης, εφαρμόζονται επίσης σε συμβάντα που αποστέλλονται χειροκίνητα με το DispatchEvent"
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.svg.dom/eventtarget/dispatchevent/
 ---
 ## EventTarget.DispatchEvent method
 
-Αυτή η μέθοδος επιτρέπει την αποστολή συμβάντων στο μοντέλο συμβάντων υλοποιήσεων.
+Αποστέλλει ένα Event στο καθορισμένο [`IEventTarget`](../../../aspose.svg.dom.events/ieventtarget/), (συγχρονισμένα) ενεργοποιώντας τους επηρεαζόμενους EventListeners με τη σωστή σειρά. Οι κανονικοί κανόνες επεξεργασίας συμβάντων (συμπεριλαμβανομένων των φάσεων σύλληψης και προαιρετικής ανάδυσης) εφαρμόζονται επίσης σε συμβάντα που αποστέλλονται χειροκίνητα με το [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/).
 
 ```csharp
 public bool DispatchEvent(Event @event)
@@ -16,27 +16,25 @@ public bool DispatchEvent(Event @event)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| event | Event | Καθορίζει τον τύπο συμβάντος, τη συμπεριφορά και τις πληροφορίες συμφραζομένων που θα χρησιμοποιηθούν για την επεξεργασία του συμβάντος. |
+| event | Γεγονός | Καθορίζει τον τύπο του συμβάντος, τη συμπεριφορά και τις συμφραζόμενες πληροφορίες που θα χρησιμοποιηθούν στην επεξεργασία του συμβάντος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η επιστρεφόμενη τιμή του`DispatchEvent` υποδεικνύει εάν κάποιος από τους ακροατές που χειρίστηκαν το συμβάν κάλεσαν[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) . Αν[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) ονομάστηκε η τιμή είναι ψευδής, αλλιώς η τιμή είναι true.
+Η τιμή επιστροφής του `DispatchEvent` υποδεικνύει εάν κάποιον από τους ακροατές που επεξεργάστηκαν το συμβάν κάλεσε το [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/). Εάν κλήθηκε το [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/), η τιμή είναι false, διαφορετικά η τιμή είναι true.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
 | [DOMException](../../domexception/) |  |
 
-### Παρατηρήσεις
+## Παρατηρήσεις
 
-Τα συμβάντα που αποστέλλονται με αυτόν τον τρόπο θα έχουν την ίδια συμπεριφορά καταγραφής και δημιουργίας φυσαλίδων με τα συμβάντα που αποστέλλονται απευθείας από την υλοποίηση. Ο στόχος του συμβάντος είναι[`EventTarget`](../) επί του οποίου`DispatchEvent` ονομάζεται.
+Τα συμβάντα που αποστέλλονται με αυτόν τον τρόπο θα έχουν την ίδια συμπεριφορά σύλληψης και ανάδυσης όπως τα συμβάντα που αποστέλλονται απευθείας από την υλοποίηση. Ο στόχος του συμβάντος είναι το [`EventTarget`](../) στο οποίο κλήθηκε το `DispatchEvent`.
 
 ### Δείτε επίσης
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [EventTarget](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../eventtarget/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

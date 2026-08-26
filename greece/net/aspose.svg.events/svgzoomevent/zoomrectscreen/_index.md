@@ -1,7 +1,7 @@
 ---
-title: SVGZoomEvent.ZoomRectScreen
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGZoomEvent ιδιοκτησία. Το καθορισμένο ορθογώνιο ζουμ σε μονάδες οθόνης. Το αντικείμενο SVGRect είναι μόνο για ανάγνωση.
+title: "SVGZoomEvent.ZoomRectScreen"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ZoomRectScreen του SVGZoomEvent. Το καθορισμένο ορθογώνιο ζουμ σε μονάδες οθόνης. Το αντικείμενο SVGRect είναι μόνο για ανάγνωση"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.events/svgzoomevent/zoomrectscreen/
@@ -18,7 +18,5 @@ public SVGRect ZoomRectScreen { get; }
 
 * class [SVGRect](../../../aspose.svg.datatypes/svgrect/)
 * class [SVGZoomEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Events](../../svgzoomevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

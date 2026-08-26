@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Remove
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMTokenList μέθοδος. Αφαιρεί τα καθορισμένα διακριτικά από τη λίστα.
+title: "DOMTokenList.Remove"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος DOMTokenList Remove. Αφαιρεί τα καθορισμένα διακριτικά από τη λίστα"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.collections/domtokenlist/remove/
 ---
 ## DOMTokenList.Remove method
 
-Αφαιρεί τα καθορισμένα διακριτικά από τη λίστα.
+Αφαιρεί το(τα) καθορισμένο(α) διακριτό(ά) από τη λίστα.
 
 ```csharp
 public void Remove(params string[] tokens)
@@ -16,12 +16,10 @@ public void Remove(params string[] tokens)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tokens | String[] | Αντιπροσωπεύει το διακριτικό(α) που θέλετε να αφαιρέσετε από τη λίστα. |
+| διακριτικά | String[] | Αναπαριστά το διακριτικό(α) που θέλετε να αφαιρέσετε από τη λίστα. |
 
 ### Δείτε επίσης
 
 * class [DOMTokenList](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../domtokenlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

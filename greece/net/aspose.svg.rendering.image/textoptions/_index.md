@@ -1,14 +1,14 @@
 ---
-title: Class TextOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.Image.TextOptions τάξη. Αντιπροσωπεύει επιλογές απόδοσης κειμένου γιαImageDevice .
+title: "Κλάση TextOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.Image.TextOptions class. Αντιπροσωπεύει τις επιλογές απόδοσης κειμένου για το ImageDevice"
 type: docs
-weight: 2870
+weight: 4950
 url: /el/net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class
 
-Αντιπροσωπεύει επιλογές απόδοσης κειμένου για[`ImageDevice`](../imagedevice/) .
+Αναπαριστά τις επιλογές απόδοσης κειμένου για το [`ImageDevice`](../imagedevice/).
 
 ```csharp
 public class TextOptions
@@ -16,13 +16,11 @@ public class TextOptions
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint/) { get; set; } | Ορίζει ή παίρνειTextRenderingHint που επηρεάζει την ποιότητα απόδοσης κειμένου. Από προεπιλογή αυτή η ιδιότητα είναιSystemDefault . |
+| [UseHinting](../../aspose.svg.rendering.image/textoptions/usehinting/) { get; set; } | Καθορίζει αν θα χρησιμοποιηθεί υποδείξη κειμένου. Από προεπιλογή, η υποδείξη είναι απενεργοποιημένη. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

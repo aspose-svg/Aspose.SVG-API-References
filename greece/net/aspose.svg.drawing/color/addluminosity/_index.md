@@ -1,14 +1,14 @@
 ---
-title: Color.AddLuminosity
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Δημιουργεί αντίγραφο του χρώματος με το άθροισμα της φωτεινότητάς του και την τιμή δέλτα.
+title: "Color.AddLuminosity"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color AddLuminosity. Δημιουργεί αντίγραφο του Color με το άθροισμα της φωτεινότητάς του και την τιμή δέλτα."
 type: docs
 weight: 280
 url: /el/net/aspose.svg.drawing/color/addluminosity/
 ---
 ## Color.AddLuminosity method
 
-Δημιουργεί αντίγραφο του χρώματος με το άθροισμα της φωτεινότητάς του και την τιμή δέλτα.
+Δημιουργεί αντίγραφο του Χρώματος με το άθροισμα της φωτεινότητάς του και της τιμής delta.
 
 ```csharp
 public Color AddLuminosity(float delta)
@@ -16,16 +16,14 @@ public Color AddLuminosity(float delta)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| delta | Single | Αξία φωτεινότητας |
+| δέλτα | Single | Τιμή της φωτεινότητας |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

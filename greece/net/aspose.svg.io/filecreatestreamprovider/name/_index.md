@@ -1,27 +1,25 @@
 ---
-title: FileCreateStreamProvider.Name
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FileCreateStreamProvider ιδιοκτησία. Παίρνει ή ορίζει το όνομα.
+title: "FileCreateStreamProvider.Name"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "FileCreateStreamProvider Name property. Λαμβάνει ή ορίζει το όνομα"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.io/filecreatestreamprovider/name/
 ---
 ## FileCreateStreamProvider.Name property
 
-Παίρνει ή ορίζει το όνομα.
+Λαμβάνει ή ορίζει το όνομα.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα.
 
 ### Δείτε επίσης
 
 * class [FileCreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

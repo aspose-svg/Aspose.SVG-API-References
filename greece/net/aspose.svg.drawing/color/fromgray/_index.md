@@ -1,14 +1,14 @@
 ---
-title: Color.FromGray
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα νέο χρώμα με την ζητούμενη τιμή γκρι.
+title: "Color.FromGray"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color FromGray. Επιστρέφει ένα νέο Color με την ζητούμενη τιμή του γκρι."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.drawing/color/fromgray/
 ---
 ## Color.FromGray method
 
-Επιστρέφει ένα νέο χρώμα με την ζητούμενη τιμή γκρι.
+Επιστρέφει ένα νέο Χρώμα με τη ζητούμενη τιμή γκρι.
 
 ```csharp
 public static Color FromGray(float gray)
@@ -16,16 +16,14 @@ public static Color FromGray(float gray)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| gray | Single | Ένας πλωτήρας που αντιπροσωπεύει την γκρι τιμή του χρώματος. |
+| γκρι | Single | Ένα float που αντιπροσωπεύει την τιμή γκρι του χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Class ResponseMessage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.ResponseMessage τάξη. Αντιπροσωπεύει ένα μήνυμα απάντησης.
+title: "Τάξη ResponseMessage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Τάξη Aspose.Svg.Net.ResponseMessage. Αναπαριστά ένα μήνυμα απάντησης"
 type: docs
-weight: 2440
+weight: 4510
 url: /el/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
@@ -16,30 +16,29 @@ public class ResponseMessage : IDisposable
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | Αρχικοποιεί μια νέα παρουσία του`ResponseMessage` τάξη. |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | Αρχικοποιεί μια νέα παρουσία της τάξης `ResponseMessage`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | Λαμβάνει ή ορίζει το περιεχόμενο απόκρισης. |
-| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Λαμβάνει ή ρυθμίζει τη συλλογή cookie. |
+| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | Αποκτά ή ορίζει το περιεχόμενο της απάντησης. |
+| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Λαμβάνει ή ορίζει τη συλλογή cookie. |
 | [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | Λαμβάνει τις κεφαλίδες. |
 | [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτό το μήνυμα είναι επιτυχές. |
 | [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | Λαμβάνει ή ορίζει το σχετικό αίτημα. |
+| [ResponseUri](../../aspose.svg.net/responsemessage/responseuri/) { get; set; } | Λαμβάνει ή ορίζει το URI της απάντησης. |
 | [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | Λαμβάνει ή ορίζει τον κωδικό κατάστασης. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | Εκτελεί εργασίες που καθορίζονται από την εφαρμογή που σχετίζονται με την απελευθέρωση, την απελευθέρωση ή την επαναφορά μη διαχειριζόμενων πόρων. |
+| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | Εκτελεί εργασίες που ορίζονται από την εφαρμογή και σχετίζονται με την απελευθέρωση, την αποδέσμευση ή την επαναφορά μη διαχειριζόμενων πόρων. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

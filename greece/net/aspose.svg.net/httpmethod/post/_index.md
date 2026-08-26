@@ -1,7 +1,7 @@
 ---
-title: HttpMethod.Post
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HttpMethod ιδιοκτησία. Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP POST.
+title: "HttpMethod.Post"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα HttpMethod Post. Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP POST"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.net/httpmethod/post/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.net/httpmethod/post/
 public static HttpMethod Post { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μέθοδος του πρωτοκόλλου HTTP POST.
+Η μέθοδος πρωτοκόλλου HTTP POST.
 
 ### Δείτε επίσης
 
 * class [HttpMethod](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../httpmethod/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

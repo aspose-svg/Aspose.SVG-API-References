@@ -1,28 +1,26 @@
 ---
-title: SVGGradientElement.GradientUnits
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGGradientElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό gradientUnits στο δεδομένο στοιχείο. Λαμβάνει μία από τις σταθερές που ορίζονται στο SVGUnitTypes.
+title: "SVGGradientElement.GradientUnits"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGGradientElement GradientUnits ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό gradientUnits του συγκεκριμένου στοιχείου. Παίρνει μία από τις σταθερές που ορίζονται στο SVGUnitTypes"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svggradientelement/gradientunits/
 ---
 ## SVGGradientElement.GradientUnits property
 
-Αντιστοιχεί στο χαρακτηριστικό 'gradientUnits' στο δεδομένο στοιχείο. Λαμβάνει μία από τις σταθερές που ορίζονται στο SVGUnitTypes.
+Αντιστοιχεί στο χαρακτηριστικό ‘gradientUnits’ του δεδομένου στοιχείου. Παίρνει μία από τις σταθερές που ορίζονται στο SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration GradientUnits { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'gradientUnits' του δεδομένου στοιχείου.
+Το χαρακτηριστικό ‘gradientUnits’ του συγκεκριμένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGGradientElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svggradientelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

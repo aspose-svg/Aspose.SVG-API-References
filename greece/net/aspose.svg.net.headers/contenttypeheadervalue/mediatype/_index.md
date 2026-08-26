@@ -1,20 +1,20 @@
 ---
-title: ContentTypeHeaderValue.MediaType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ContentTypeHeaderValue ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο πολυμέσων για το περιεχόμενο.
+title: "ContentTypeHeaderValue.MediaType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ContentTypeHeaderValue MediaType property. Λαμβάνει ή ορίζει τον τύπο μέσου για το περιεχόμενο"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net.headers/contenttypeheadervalue/mediatype/
 ---
 ## ContentTypeHeaderValue.MediaType property
 
-Λαμβάνει ή ορίζει τον τύπο πολυμέσων για το περιεχόμενο.
+Λαμβάνει ή ορίζει τον τύπο μέσου για το περιεχόμενο.
 
 ```csharp
 public MimeType MediaType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του μέσου.
 
@@ -22,7 +22,5 @@ public MimeType MediaType { get; set; }
 
 * class [MimeType](../../../aspose.svg/mimetype/)
 * class [ContentTypeHeaderValue](../)
-* χώρος ονομάτων [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

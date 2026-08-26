@@ -1,14 +1,14 @@
 ---
-title: IDevice.RestoreGraphicContext
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Επαναφέρει ολόκληρο το περιβάλλον γραφικών στην προηγούμενη τιμή του βγάζοντάς το από τη στοίβα.
+title: "IDevice.RestoreGraphicContext"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IDevice RestoreGraphicContext. Επαναφέρει ολόκληρο το γραφικό περιβάλλον στην προηγούμενη τιμή του, αφαιρώντας το από τη στοίβα"
 type: docs
 weight: 190
 url: /el/net/aspose.svg.rendering/idevice/restoregraphiccontext/
 ---
 ## IDevice.RestoreGraphicContext method
 
-Επαναφέρει ολόκληρο το περιβάλλον γραφικών στην προηγούμενη τιμή του βγάζοντάς το από τη στοίβα.
+Επαναφέρει ολόκληρο το πλαίσιο γραφικών στην προηγούμενη τιμή του αφαιρώντας το από τη στοίβα.
 
 ```csharp
 public void RestoreGraphicContext()
@@ -17,7 +17,5 @@ public void RestoreGraphicContext()
 ### Δείτε επίσης
 
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

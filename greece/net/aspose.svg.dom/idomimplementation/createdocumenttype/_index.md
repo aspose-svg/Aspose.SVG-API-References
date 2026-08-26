@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateDocumentType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDOMImplementation μέθοδος. Δημιουργεί έναν κενό κόμβο DocumentType. Οι δηλώσεις οντοτήτων και οι σημειώσεις δεν είναι διαθέσιμες. Δεν εμφανίζονται επεκτάσεις αναφοράς οντοτήτων και προεπιλεγμένες προσθήκες χαρακτηριστικών.
+title: "IDOMImplementation.CreateDocumentType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IDOMImplementation CreateDocumentType. Δημιουργεί έναν κενό κόμβο DocumentType. Οι δηλώσεις οντοτήτων και οι σημειώσεις δεν είναι διαθέσιμες. Οι επεκτάσεις αναφορών οντοτήτων και οι προσθήκες προεπιλεγμένων χαρακτηριστικών δεν πραγματοποιούνται"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/idomimplementation/createdocumenttype/
 ---
 ## IDOMImplementation.CreateDocumentType method
 
-Δημιουργεί έναν κενό κόμβο DocumentType. Οι δηλώσεις οντοτήτων και οι σημειώσεις δεν είναι διαθέσιμες. Δεν εμφανίζονται επεκτάσεις αναφοράς οντοτήτων και προεπιλεγμένες προσθήκες χαρακτηριστικών.
+Δημιουργεί έναν κενό κόμβο DocumentType. Οι δηλώσεις οντοτήτων και οι σημειώσεις δεν είναι διαθέσιμες. Οι επεκτάσεις αναφορών οντοτήτων και οι προσθήκες προεπιλεγμένων χαρακτηριστικών δεν συμβαίνουν.
 
 ```csharp
 public DocumentType CreateDocumentType(string qualifiedName, string publicId, string systemId)
@@ -16,19 +16,17 @@ public DocumentType CreateDocumentType(string qualifiedName, string publicId, st
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| qualifiedName | String | Όνομα των προσόντων. |
-| publicId | String | Η δημόσια ταυτότητα. |
+| qualifiedName | String | Όνομα του qualified. |
+| publicId | String | Το δημόσιο αναγνωριστικό. |
 | systemId | String | Το αναγνωριστικό συστήματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`DocumentType`](../../documenttype/).
+Το [`DocumentType`](../../documenttype/).
 
 ### Δείτε επίσης
 
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../idomimplementation/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

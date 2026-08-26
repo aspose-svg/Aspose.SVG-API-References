@@ -1,14 +1,14 @@
 ---
-title: IDevice.BeginDocument
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Ξεκινά η απόδοση του εγγράφου.
+title: "IDevice.BeginDocument"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice BeginDocument μέθοδος. Ξεκινά την απόδοση του εγγράφου."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.rendering/idevice/begindocument/
 ---
 ## IDevice.BeginDocument method
 
-Ξεκινά η απόδοση του εγγράφου.
+Ξεκινά την απόδοση του εγγράφου.
 
 ```csharp
 public void BeginDocument(Document document)
@@ -16,13 +16,11 @@ public void BeginDocument(Document document)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| document | Document | Το έγγραφο. |
+| έγγραφο | Έγγραφο | Το έγγραφο. |
 
 ### Δείτε επίσης
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

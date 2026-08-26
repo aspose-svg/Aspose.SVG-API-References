@@ -1,35 +1,33 @@
 ---
-title: IXPathResult.IterateNext
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IXPathResult μέθοδος. Επαναλαμβάνει και επιστρέφει τον επόμενο κόμβο από το σύνολο κόμβων ήμηδενικό αν δεν υπάρχουν άλλοι κόμβοι.
+title: "IXPathResult.IterateNext"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IXPathResult IterateNext method. Επαναλαμβάνει και επιστρέφει τον επόμενο κόμβο από το σύνολο κόμβων ή null εάν δεν υπάρχουν άλλοι κόμβοι"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.dom.xpath/ixpathresult/iteratenext/
 ---
 ## IXPathResult.IterateNext method
 
-Επαναλαμβάνει και επιστρέφει τον επόμενο κόμβο από το σύνολο κόμβων ή`μηδενικό` αν δεν υπάρχουν άλλοι κόμβοι.
+Επαναλαμβάνει και επιστρέφει τον επόμενο κόμβο από το σύνολο κόμβων ή `null` εάν δεν υπάρχουν άλλοι κόμβοι.
 
 ```csharp
 public Node IterateNext()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Επιστρέφει τον επόμενο κόμβο.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: αυξήθηκε εάν`Τύπος αποτελεσμάτων` δεν είναι `UnorderedNodeIterator` τύπος ή`OrderedNodeIterator` τύπος. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: Το έγγραφο έχει μεταλλαχθεί από τότε που επιστράφηκε το αποτέλεσμα. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: προκαλείται εάν `resultType` δεν είναι τύπου `UnorderedNodeIterator` ή `OrderedNodeIterator`. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: Το έγγραφο έχει τροποποιηθεί από τη στιγμή που επιστράφηκε το αποτέλεσμα. |
 
 ### Δείτε επίσης
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

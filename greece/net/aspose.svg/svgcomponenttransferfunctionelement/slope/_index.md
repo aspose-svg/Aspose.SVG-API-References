@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Slope
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGComponentTransferFunctionElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό slope στο δεδομένο στοιχείο.
+title: "SVGComponentTransferFunctionElement.Slope"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Slope του SVGComponentTransferFunctionElement. Αντιστοιχεί στο χαρακτηριστικό slope στο δεδομένο στοιχείο"
 type: docs
 weight: 50
 url: /el/net/aspose.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 
-Αντιστοιχεί στο χαρακτηριστικό 'slope' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘slope’ στο δεδομένο στοιχείο.
 
 ```csharp
 public SVGAnimatedNumber Slope { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'slope' του δεδομένου στοιχείου.
+Το χαρακτηριστικό ‘slope’ του δεδομένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.ReadyState
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Επιστρέφει την ετοιμότητα του εγγράφου. Η φόρτωση κατά τη φόρτωση του εγγράφου διαδραστική μόλις ολοκληρωθεί η ανάλυση αλλά εξακολουθεί να φορτώνει υποπόρους και ολοκληρώνεται μόλις φορτωθεί.
+title: "Document.ReadyState"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document ReadyState. Επιστρέφει την ετοιμότητα του εγγράφου. Η φόρτωση ενώ το Document είναι interactive όταν ολοκληρωθεί η ανάλυση αλλά εξακολουθεί να φορτώνει υπο-πόρους και ολοκληρώνεται όταν έχει φορτωθεί πλήρως"
 type: docs
 weight: 230
 url: /el/net/aspose.svg.dom/document/readystate/
 ---
 ## Document.ReadyState property
 
-Επιστρέφει την ετοιμότητα του εγγράφου. Η "φόρτωση" κατά τη φόρτωση του εγγράφου, "διαδραστική" μόλις ολοκληρωθεί η ανάλυση αλλά εξακολουθεί να φορτώνει υπο-πόρους και "ολοκληρώνεται" μόλις φορτωθεί.
+Επιστρέφει την ετοιμότητα του εγγράφου. Το "loading" ενώ το Έγγραφο φορτώνεται, το "interactive" όταν έχει ολοκληρωθεί η ανάλυση αλλά εξακολουθούν να φορτώνονται υπο-πόροι, και το "complete" όταν έχει φορτωθεί πλήρως.
 
 ```csharp
 public string ReadyState { get; }
@@ -17,7 +17,5 @@ public string ReadyState { get; }
 ### Δείτε επίσης
 
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

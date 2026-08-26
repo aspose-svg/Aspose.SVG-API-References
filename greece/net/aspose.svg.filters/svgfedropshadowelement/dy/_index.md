@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Dy
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEDropShadowElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό dy στο δεδομένο στοιχείο feDropShadow.
+title: "SVGFEDropShadowElement.Dy"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFEDropShadowElement Dy ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό dy στο δεδομένο στοιχείο feDropShadow."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.filters/svgfedropshadowelement/dy/
 ---
 ## SVGFEDropShadowElement.Dy property
 
-Αντιστοιχεί στο χαρακτηριστικό "dy" στο δεδομένο στοιχείο "feDropShadow".
+Αντιστοιχεί στο χαρακτηριστικό ‘dy’ στο δοσμένο στοιχείο ‘feDropShadow’.
 
 ```csharp
 public SVGAnimatedNumber Dy { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "dy" του δεδομένου στοιχείου "feDropShadow".
+Το χαρακτηριστικό ‘dy’ του δεδομένου στοιχείου ‘feDropShadow’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

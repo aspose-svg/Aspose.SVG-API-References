@@ -1,14 +1,14 @@
 ---
-title: Color.FromLcha
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα νέο χρώμα με τις ζητούμενες τιμές φωτεινότητας χρώματος απόχρωσης άλφα.
+title: "Color.FromLcha"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color FromLcha. Επιστρέφει ένα νέο Color με τις ζητούμενες τιμές φωτεινότητας, χρωματικότητας, απόχρωσης και alpha."
 type: docs
 weight: 150
 url: /el/net/aspose.svg.drawing/color/fromlcha/
 ---
 ## Color.FromLcha method
 
-Επιστρέφει ένα νέο χρώμα με τις ζητούμενες τιμές φωτεινότητας, χρώματος, απόχρωσης, άλφα.
+Επιστρέφει ένα νέο Χρώμα με τις ζητούμενες τιμές λαμπρότητα, χρωματική, απόχρωση, άλφα.
 
 ```csharp
 public static Color FromLcha(float luminance, float chroma, float hue, float alpha)
@@ -16,19 +16,17 @@ public static Color FromLcha(float luminance, float chroma, float hue, float alp
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| luminance | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο φωτεινότητας του χρώματος. |
-| chroma | Single | Ένας πλωτήρας που αντιπροσωπεύει τη χρωματική συνιστώσα του χρώματος. |
-| hue | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο απόχρωσης του χρώματος. |
-| alpha | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο άλφα του χρώματος. |
+| luminance | Single | Μια float που αντιπροσωπεύει το συστατικό φωτεινότητας του χρώματος. |
+| chroma | Single | Μια float που αντιπροσωπεύει το συστατικό χρωματικότητας του χρώματος. |
+| hue | Single | Μια float που αντιπροσωπεύει το συστατικό απόχρωσης του χρώματος. |
+| άλφα | Single | Μια float που αντιπροσωπεύει το συστατικό άλφα του χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

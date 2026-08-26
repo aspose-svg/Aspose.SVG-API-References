@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.BorderLeft
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας αριστερά περιγράμματος στο CSS2.
+title: "ICSS2Properties.BorderLeft"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties BorderLeft ιδιότητα. Δείτε τον ορισμό της ιδιότητας border-left στο CSS2"
 type: docs
 weight: 150
 url: /el/net/aspose.svg.dom.css/icss2properties/borderleft/
 ---
 ## ICSS2Properties.BorderLeft property
 
-Δείτε τον ορισμό της ιδιότητας αριστερά περιγράμματος στο CSS2.
+Δείτε τον ορισμό της ιδιότητας border-left στο CSS2.
 
 ```csharp
 public string BorderLeft { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ακίνητο αριστερά στα σύνορα
+border-left ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnError
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnError.
+title: "Document.OnError"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnError. Λαμβάνει ή ορίζει τον χειριστή γεγονότος για το γεγονός OnError."
 type: docs
 weight: 400
 url: /el/net/aspose.svg.dom/document/onerror/
 ---
 ## Document.OnError event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnError.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnError.
 
 ```csharp
 public event DOMEventHandler OnError;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnError;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

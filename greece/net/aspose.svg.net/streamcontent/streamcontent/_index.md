@@ -1,14 +1,14 @@
 ---
-title: StreamContent.StreamContent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: StreamContent κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουStreamContent τάξη.
+title: "StreamContent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής StreamContent. Αρχικοποιεί μια νέα παρουσία της κλάσης StreamContent"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/streamcontent/streamcontent/
 ---
 ## StreamContent constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`StreamContent`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`StreamContent`](../).
 
 ```csharp
 public StreamContent(Stream content)
@@ -21,7 +21,5 @@ public StreamContent(Stream content)
 ### Δείτε επίσης
 
 * class [StreamContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../streamcontent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

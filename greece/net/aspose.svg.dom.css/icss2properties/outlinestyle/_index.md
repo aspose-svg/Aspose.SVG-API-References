@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.OutlineStyle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας στυλ περίγραμμα στο CSS2.
+title: "ICSS2Properties.OutlineStyle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα OutlineStyle του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας outline-style στο CSS2"
 type: docs
-weight: 770
+weight: 800
 url: /el/net/aspose.svg.dom.css/icss2properties/outlinestyle/
 ---
 ## ICSS2Properties.OutlineStyle property
 
-Δείτε τον ορισμό της ιδιότητας στυλ περίγραμμα στο CSS2.
+Δείτε τον ορισμό της ιδιότητας outline-style στο CSS2.
 
 ```csharp
 public string OutlineStyle { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιοκτησία σε στιλ περιγράμματος
+ιδιότητα outline-style
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

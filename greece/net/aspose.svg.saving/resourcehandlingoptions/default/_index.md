@@ -1,14 +1,14 @@
 ---
-title: ResourceHandlingOptions.Default
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResourceHandlingOptions ιδιοκτησία. Λαμβάνει ή ορίζει το enum που αντιπροσωπεύει τον προεπιλεγμένο τρόπο διαχείρισης πόρων. Επί του παρόντοςSave Ignore καιEmbed αξίες υποστηρίζονται. Η προεπιλεγμένη τιμή είναιSave .
+title: "ResourceHandlingOptions.Default"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Default του ResourceHandlingOptions. Λαμβάνει ή ορίζει την enum που αντιπροσωπεύει τον προεπιλεγμένο τρόπο διαχείρισης πόρων. Προς το παρόν υποστηρίζονται οι τιμές Save, Ignore και Embed. Η προεπιλεγμένη τιμή είναι Save"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.saving/resourcehandlingoptions/default/
 ---
 ## ResourceHandlingOptions.Default property
 
-Λαμβάνει ή ορίζει το enum που αντιπροσωπεύει τον προεπιλεγμένο τρόπο διαχείρισης πόρων. Επί του παρόντοςSave ,Ignore καιEmbed αξίες υποστηρίζονται. Η προεπιλεγμένη τιμή είναιSave .
+Λαμβάνει ή ορίζει την enum που αντιπροσωπεύει τον προεπιλεγμένο τρόπο διαχείρισης πόρων. Προς το παρόν υποστηρίζονται οι τιμές Save, Ignore και Embed. Η προεπιλεγμένη τιμή είναι Save.
 
 ```csharp
 public ResourceHandling Default { get; set; }
@@ -18,7 +18,5 @@ public ResourceHandling Default { get; set; }
 
 * enum [ResourceHandling](../../resourcehandling/)
 * class [ResourceHandlingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

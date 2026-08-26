@@ -1,14 +1,14 @@
 ---
-title: Interface IUrlSearchParams
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.IUrlSearchParams διεπαφή. Παρέχει μεθόδους εργασίας με τη συμβολοσειρά ερωτημάτων URL.
+title: "Διεπαφή IUrlSearchParams"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.IUrlSearchParams. Παρέχει μεθόδους για εργασία με τη συμβολοσειρά ερωτήματος URL"
 type: docs
-weight: 2070
+weight: 4140
 url: /el/net/aspose.svg/iurlsearchparams/
 ---
 ## IUrlSearchParams interface
 
-Παρέχει μεθόδους εργασίας με τη συμβολοσειρά ερωτημάτων URL.
+Παρέχει μεθόδους για εργασία με τη συμβολοσειρά ερωτήματος των URL.
 
 ```csharp
 public interface IUrlSearchParams : IEnumerable<string[]>
@@ -16,19 +16,17 @@ public interface IUrlSearchParams : IEnumerable<string[]>
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Append](../../aspose.svg/iurlsearchparams/append/)(string, string) | Προσθέτει ένα νέο ζεύγος ονόματος-τιμής του οποίου το όνομα είναι`όνομα` και αξία είναι`αξία` . |
-| [Delete](../../aspose.svg/iurlsearchparams/delete/)(string) | Καταργεί όλα τα ζεύγη ονόματος-τιμής των οποίων το όνομα είναι`όνομα` . |
-| [Get](../../aspose.svg/iurlsearchparams/get/)(string) | Επιστρέφει την τιμή του πρώτου ζεύγους ονόματος-τιμής του οποίου το όνομα είναι`όνομα` . |
-| [GetAll](../../aspose.svg/iurlsearchparams/getall/)(string) | Επιστρέφει όλες τις τιμές των οποίων το όνομα είναι`όνομα` . |
-| [Has](../../aspose.svg/iurlsearchparams/has/)(string) | Ελέγχει εάν υπάρχει ένα ζεύγος ονόματος-τιμής του οποίου το όνομα είναι`όνομα` στη λίστα. |
-| [Set](../../aspose.svg/iurlsearchparams/set/)(string, string) | Ορίζει την τιμή του πρώτου ζεύγους ονόματος-τιμής που βρέθηκε στην καθορισμένη τιμή και αφαιρεί τις άλλες. Εάν δεν βρεθούν ζεύγη ονόματος-τιμής με το καθορισμένο όνομα, θα προστεθεί νέο στη λίστα. |
-| [Sort](../../aspose.svg/iurlsearchparams/sort/)() | Ταξινομεί όλα τα ζεύγη ονόματος-τιμής, εάν υπάρχουν, με τα ονόματά τους. |
+| [Append](../../aspose.svg/iurlsearchparams/append/)(*string, string*) | Προσθέτει ένα νέο ζεύγος όνομα-τιμή του οποίου το όνομα είναι `name` και η τιμή είναι `value`. |
+| [Delete](../../aspose.svg/iurlsearchparams/delete/)(*string*) | Αφαιρεί όλα τα ζεύγη όνομα-τιμή των οποίων το όνομα είναι `name`. |
+| [Get](../../aspose.svg/iurlsearchparams/get/)(*string*) | Επιστρέφει την τιμή του πρώτου ζεύγους όνομα-τιμή του οποίου το όνομα είναι `name`. |
+| [GetAll](../../aspose.svg/iurlsearchparams/getall/)(*string*) | Επιστρέφει όλες τις τιμές των οποίων το όνομα είναι `name`. |
+| [Has](../../aspose.svg/iurlsearchparams/has/)(*string*) | Ελέγχει αν υπάρχει ένα ζεύγος όνομα-τιμή του οποίου το όνομα είναι `name` στη λίστα. |
+| [Set](../../aspose.svg/iurlsearchparams/set/)(*string, string*) | Ορίζει την τιμή του πρώτου ευρεθέντος ζεύγους όνομα-τιμή στην καθορισμένη τιμή και αφαιρεί τα υπόλοιπα. Εάν δεν βρεθούν ζεύγη όνομα-τιμή με το καθορισμένο όνομα, ένα νέο θα προσαρτηθεί στη λίστα. |
+| [Sort](../../aspose.svg/iurlsearchparams/sort/)() | Ταξινομεί όλα τα ζεύγη όνομα-τιμή, εάν υπάρχουν, κατά τα ονόματά τους. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg](../../aspose.svg/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

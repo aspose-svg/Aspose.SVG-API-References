@@ -1,7 +1,7 @@
 ---
-title: ICSSCharsetRule.Encoding
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSCharsetRule ιδιοκτησία. Οι πληροφορίες κωδικοποίησης που χρησιμοποιούνται σε αυτόν τον κανόνα charset.
+title: "ICSSCharsetRule.Encoding"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ICSSCharsetRule Encoding. Οι πληροφορίες κωδικοποίησης που χρησιμοποιούνται σε αυτόν τον κανόνα συνόλου χαρακτήρων"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/icsscharsetrule/encoding/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icsscharsetrule/encoding/
 public string Encoding { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κωδικοποίηση.
 
 ### Δείτε επίσης
 
 * interface [ICSSCharsetRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icsscharsetrule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

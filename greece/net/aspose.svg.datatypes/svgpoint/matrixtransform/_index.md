@@ -1,7 +1,7 @@
 ---
-title: SVGPoint.MatrixTransform
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPoint μέθοδος. Εφαρμόζει έναν μετασχηματισμό μήτρας 2x3 σε αυτό το αντικείμενο SVGPoint και επιστρέφει ένα νέο μετασχηματισμένο αντικείμενο SVGPoint newpoint  matrix thispoint
+title: "SVGPoint.MatrixTransform"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος MatrixTransform του SVGPoint. Εφαρμόζει μια μετασχηματιστική μήτρα 2x3 σε αυτό το αντικείμενο SVGPoint και επιστρέφει ένα νέο μετασχηματισμένο αντικείμενο SVGPoint newpoint  matrix thispoint"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.datatypes/svgpoint/matrixtransform/
@@ -16,9 +16,9 @@ public SVGPoint MatrixTransform(SVGMatrix matrix)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| matrix | SVGMatrix | ο πίνακας που πρόκειται να εφαρμοστεί σε αυτό το αντικείμενο SVGPoint. |
+| matrix | SVGMatrix | Η μήτρα που θα εφαρμοστεί σε αυτό το αντικείμενο SVGPoint. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα νέο αντικείμενο SVGPoint.
 
@@ -26,7 +26,5 @@ public SVGPoint MatrixTransform(SVGMatrix matrix)
 
 * class [SVGMatrix](../../svgmatrix/)
 * class [SVGPoint](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgpoint/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

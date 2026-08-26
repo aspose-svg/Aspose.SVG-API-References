@@ -1,30 +1,28 @@
 ---
-title: Enum BrushType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Drawing.BrushType αρίθμηση. Καθορίζει τον τύπο της βούρτσας.
+title: "Απαρίθμηση BrushType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Drawing.BrushType απαρίθμηση. Καθορίζει τον τύπο πινέλου"
 type: docs
-weight: 1380
+weight: 3380
 url: /el/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration
 
-Καθορίζει τον τύπο της βούρτσας.
+Καθορίζει τον τύπο του πινέλου.
 
 ```csharp
 public enum BrushType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Solid | `0` | Ο τύπος είναι IsolidBrush |
+| Solid | `0` | Ο τύπος είναι ISolidBrush |
 | Texture | `1` | Ο τύπος είναι ITextureBrush |
 | LinearGradient | `2` | Ο τύπος είναι ILinearGradientBrush |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

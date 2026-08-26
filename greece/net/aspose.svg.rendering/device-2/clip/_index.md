@@ -1,27 +1,26 @@
 ---
-title: Device2.Clip
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device μέθοδος. Τροποποιεί την τρέχουσα διαδρομή αποκοπής τέμνοντάς την με την τρέχουσα διαδρομή χρησιμοποιώντας τον κανόνα FillMode για να καθορίσει την περιοχή που θα γεμίσει. Αυτή η μέθοδος τερματίζει την τρέχουσα διαδρομή.
+title: "Device-2.Clip"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Device Clip. Τροποποιεί την τρέχουσα διαδρομή αποκοπής διασταυρώνοντάς την με την τρέχουσα διαδρομή χρησιμοποιώντας τον FillRule για τον καθορισμό της περιοχής προς γέμισμα. Αυτή η μέθοδος τερματίζει την τρέχουσα διαδρομή."
 type: docs
-weight: 70
+weight: 100
 url: /el/net/aspose.svg.rendering/device-2/clip/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Clip method
+## Device<TGraphicContext,TRenderingOptions>.Clip method
 
-Τροποποιεί την τρέχουσα διαδρομή αποκοπής τέμνοντάς την με την τρέχουσα διαδρομή, χρησιμοποιώντας τον κανόνα FillMode για να καθορίσει την περιοχή που θα γεμίσει. Αυτή η μέθοδος τερματίζει την τρέχουσα διαδρομή.
+Τροποποιεί την τρέχουσα διαδρομή αποκοπής διασταυρώνοντάς την με την τρέχουσα διαδρομή, χρησιμοποιώντας τον FillRule για να καθορίσει την περιοχή που θα γεμίσει. Αυτή η μέθοδος τερματίζει την τρέχουσα διαδρομή.
 
 ```csharp
-public abstract void Clip(FillMode mode)
+public virtual void Clip(FillRule rule)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| mode | FillMode | Η λειτουργία πλήρωσης καθορίζει τον τρόπο με τον οποίο κόβεται το εσωτερικό μιας κλειστής διαδρομής |
+| κανόνας | FillRule | Ο κανόνας γεμίσματος καθορίζει πώς το εσωτερικό μιας κλειστής διαδρομής αποκόπτεται |
 
 ### Δείτε επίσης
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

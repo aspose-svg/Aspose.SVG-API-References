@@ -1,20 +1,20 @@
 ---
-title: SVGMaskElement.RequiredFeatures
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMaskElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό requiredFeatures στο δεδομένο στοιχείο.
+title: "SVGMaskElement.RequiredFeatures"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGMaskElement RequiredFeatures. Αντιστοιχεί στο χαρακτηριστικό requiredFeatures στο δεδομένο στοιχείο"
 type: docs
 weight: 50
 url: /el/net/aspose.svg/svgmaskelement/requiredfeatures/
 ---
 ## SVGMaskElement.RequiredFeatures property
 
-Αντιστοιχεί στο χαρακτηριστικό 'requiredFeatures' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘requiredFeatures’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα απαιτούμενα χαρακτηριστικά.
 
@@ -22,7 +22,5 @@ public SVGStringList RequiredFeatures { get; }
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGMaskElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgmaskelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

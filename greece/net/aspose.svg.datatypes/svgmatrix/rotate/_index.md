@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.Rotate
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMatrix μέθοδος. Μεταπολλαπλασιάζει έναν μετασχηματισμό περιστροφής στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
+title: "SVGMatrix.Rotate"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGMatrix Rotate. Προσθέτει μετά έναν μετασχηματισμό περιστροφής στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.datatypes/svgmatrix/rotate/
 ---
 ## SVGMatrix.Rotate method
 
-Μετα-πολλαπλασιάζει έναν μετασχηματισμό περιστροφής στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
+Πολλαπλασιάζει μετά μια περιστροφική μετασχηματισμό στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
 
 ```csharp
 public SVGMatrix Rotate(float angle)
@@ -18,14 +18,12 @@ public SVGMatrix Rotate(float angle)
 | --- | --- | --- |
 | angle | Single | Γωνία περιστροφής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο προκύπτων πίνακας.
 
 ### Δείτε επίσης
 
 * class [SVGMatrix](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgmatrix/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

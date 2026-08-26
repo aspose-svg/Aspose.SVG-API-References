@@ -1,28 +1,26 @@
 ---
-title: SVGFEComponentTransferElement.Y
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEComponentTransferElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό y στο δεδομένο στοιχείο φίλτρο.
+title: "SVGFEComponentTransferElement.Y"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFEComponentTransferElement Y property. Αντιστοιχεί στο χαρακτηριστικό y στο στοιχείο φίλτρου που δόθηκε"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.filters/svgfecomponenttransferelement/y/
 ---
 ## SVGFEComponentTransferElement.Y property
 
-Αντιστοιχεί στο χαρακτηριστικό 'y' στο δεδομένο στοιχείο 'φίλτρο'.
+Αντιστοιχεί στο χαρακτηριστικό ‘y’ του δεδομένου στοιχείου ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'y' του δεδομένου στοιχείου 'φίλτρου'.
+Το χαρακτηριστικό ‘y’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEComponentTransferElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfecomponenttransferelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.IsComposing
-second_title: Aspose.SVG για Αναφορά API .NET
-description: KeyboardEvent ιδιοκτησία. true αν το συμβάν κλειδί συμβαίνει ως μέρος μιας περιόδου σύνδεσης σύνθεσης δηλαδή μετά από ένα συμβάν έναρξης σύνθεσης και πριν από το αντίστοιχο συμβάν τέλους σύνθεσης. Η μη αρχικοποιημένη τιμή αυτού του χαρακτηριστικού ΠΡΕΠΕΙ να είναι ψευδής.
+title: "KeyboardEvent.IsComposing"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα KeyboardEvent IsComposing. true εάν το γεγονός πλήκτρου συμβαίνει ως μέρος μιας συνεδρίας σύνθεσης, δηλαδή μετά από ένα γεγονός compositionstart και πριν από το αντίστοιχο γεγονός compositionend. Η μη αρχικοποιημένη τιμή αυτού του χαρακτηριστικού ΠΡΕΠΕΙ να είναι false."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom.events/keyboardevent/iscomposing/
 ---
 ## KeyboardEvent.IsComposing property
 
-true αν το συμβάν κλειδί συμβαίνει ως μέρος μιας περιόδου σύνδεσης σύνθεσης, δηλαδή μετά από ένα συμβάν έναρξης σύνθεσης και πριν από το αντίστοιχο συμβάν τέλους σύνθεσης. Η μη αρχικοποιημένη τιμή αυτού του χαρακτηριστικού ΠΡΕΠΕΙ να είναι ψευδής.
+true εάν το συμβάν πλήκτρου συμβαίνει ως μέρος μιας συνεδρίας σύνθεσης, δηλαδή μετά από ένα συμβάν compositionstart και πριν από το αντίστοιχο συμβάν compositionend. Η μη αρχικοποιημένη τιμή αυτού του χαρακτηριστικού ΠΡΕΠΕΙ να είναι false.
 
 ```csharp
 public bool IsComposing { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η περίπτωση συνθέτει. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι σε σύνθεση· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [KeyboardEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.X
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGForeignObjectElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό x στο δεδομένο στοιχείο foreignObject.
+title: "SVGForeignObjectElement.X"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGForeignObjectElement X ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό x του συγκεκριμένου στοιχείου foreignObject"
 type: docs
 weight: 30
 url: /el/net/aspose.svg/svgforeignobjectelement/x/
 ---
 ## SVGForeignObjectElement.X property
 
-Αντιστοιχεί στο χαρακτηριστικό "x" στο δεδομένο στοιχείο "foreignObject".
+Αντιστοιχεί στο χαρακτηριστικό ‘x’ του δεδομένου στοιχείου ‘foreignObject’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "x" του δεδομένου στοιχείου "foreignObject".
+Το χαρακτηριστικό ‘x’ του συγκεκριμένου στοιχείου ‘foreignObject’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgforeignobjectelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

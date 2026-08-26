@@ -1,14 +1,14 @@
 ---
-title: Interface IAbstractView
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Views.IAbstractView διεπαφή. Μια βασική διεπαφή από την οποία θα προέρχονται όλες οι προβολές.
+title: "Διεπαφή IAbstractView"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Dom.Views.IAbstractView. Μια βασική διεπαφή από την οποία θα κληρονομούν όλες οι προβολές"
 type: docs
-weight: 1290
+weight: 3290
 url: /el/net/aspose.svg.dom.views/iabstractview/
 ---
 ## IAbstractView interface
 
-Μια βασική διεπαφή από την οποία θα προέρχονται όλες οι προβολές.
+Μια βασική διεπαφή από την οποία θα κληρονομούν όλες οι προβολές.
 
 ```csharp
 public interface IAbstractView
@@ -16,13 +16,11 @@ public interface IAbstractView
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Document](../../aspose.svg.dom.views/iabstractview/document/) { get; } | Η προέλευση DocumentView του οποίου είναι AbstractView. |
+| [Document](../../aspose.svg.dom.views/iabstractview/document/) { get; } | Η πηγή DocumentView από την οποία αυτό είναι ένα AbstractView. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../)

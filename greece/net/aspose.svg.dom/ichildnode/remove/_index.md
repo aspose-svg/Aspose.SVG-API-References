@@ -1,14 +1,14 @@
 ---
-title: IChildNode.Remove
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IChildNode μέθοδος. Αφαιρεί τον τρέχοντα κόμβο από τον γονικό.
+title: "IChildNode.Remove"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IChildNode Remove. Αφαιρεί τον τρέχοντα κόμβο από το γονέα"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/ichildnode/remove/
 ---
 ## IChildNode.Remove method
 
-Αφαιρεί τον τρέχοντα κόμβο από τον γονικό.
+Αφαιρεί τον τρέχοντα κόμβο από τον γονέα.
 
 ```csharp
 public void Remove()
@@ -17,7 +17,5 @@ public void Remove()
 ### Δείτε επίσης
 
 * interface [IChildNode](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../ichildnode/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

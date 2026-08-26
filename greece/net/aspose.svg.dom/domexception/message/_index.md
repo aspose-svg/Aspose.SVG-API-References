@@ -1,7 +1,7 @@
 ---
-title: DOMException.Message
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMException ιδιοκτησία. Επιστρέφει μια συμβολοσειρά που αντιπροσωπεύει ένα μήνυμα ή περιγραφή που σχετίζεται με το δεδομένο όνομα σφάλματος.
+title: "DOMException.Message"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMException Message ιδιότητα. Επιστρέφει μια συμβολοσειρά που αντιπροσωπεύει ένα μήνυμα ή περιγραφή που σχετίζεται με το δεδομένο όνομα σφάλματος"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom/domexception/message/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/domexception/message/
 public override string Message { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μήνυμα σφάλματος.
 
 ### Δείτε επίσης
 
 * class [DOMException](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../domexception/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

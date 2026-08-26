@@ -1,20 +1,18 @@
 ---
-title: Aspose.Svg.Dom.Mutations
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Το Aspose.Svg.Dom.Mutations παρέχει την ευκαιρία να παρατηρηθούν μεταλλάξεις DOM και να ληφθούν συγκεκριμένες πληροφορίες επανάκλησης.
+title: "Aspose.Svg.Dom.Mutations"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Το Aspose.Svg.Dom.Mutations παρέχει τη δυνατότητα παρατήρησης μεταβολών DOM και λήψης συγκεκριμένων πληροφοριών κλήσης επιστροφής."
 type: docs
-weight: 90
+weight: 110
 url: /el/net/aspose.svg.dom.mutations/
 ---
-Το **Aspose.Svg.Dom.Mutations** παρέχει την ευκαιρία να παρατηρηθούν μεταλλάξεις DOM και να ληφθούν συγκεκριμένες πληροφορίες επανάκλησης.
+Το **Aspose.Svg.Dom.Mutations** προσφέρει τη δυνατότητα παρατήρησης μεταβολών του DOM και λήψης συγκεκριμένων πληροφοριών κλήσης επιστροφής.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [MutationCallback](./mutationcallback/) | Αντιπροσωπεύει τη μέθοδο που θα χειριστεί συμβάντα μετάλλαξης. |
-| [MutationObserver](./mutationobserver/) | Α[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) αντικείμενο μπορεί να χρησιμοποιηθεί για την παρατήρηση μεταλλάξεων στο δέντρο του[`Node`](../aspose.svg.dom/node/) . |
-| [MutationObserverInit](./mutationobserverinit/) | Αυτή η κλάση αντιπροσωπεύει μια συλλογή επιλογών που χρησιμοποιείται για τη διαμόρφωση[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) . |
-| [MutationRecord](./mutationrecord/) | Ένα MutationRecord αντιπροσωπεύει μια μεμονωμένη μετάλλαξη DOM. Είναι το αντικείμενο στο οποίο μεταβιβάζεται[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) μικρό[`MutationCallback`](../aspose.svg.dom.mutations/mutationcallback/) . |
-
-
+| [MutationCallback](./mutationcallback/) | Αντιπροσωπεύει τη μέθοδο που θα διαχειρίζεται γεγονότα μεταβολής. |
+| [MutationObserver](./mutationobserver/) | Ένα αντικείμενο [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) μπορεί να χρησιμοποιηθεί για την παρατήρηση μεταβολών στο δέντρο του [`Node`](../aspose.svg.dom/node/). |
+| [MutationObserverInit](./mutationobserverinit/) | Αυτή η κλάση αντιπροσωπεύει μια συλλογή επιλογών που χρησιμοποιείται για τη διαμόρφωση του [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/). |
+| [MutationRecord](./mutationrecord/) | Ένα MutationRecord αντιπροσωπεύει μια μεμονωμένη μεταβολή DOM. Είναι το αντικείμενο που περνιέται στο [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) του [`MutationCallback`](../aspose.svg.dom.mutations/mutationcallback/). |

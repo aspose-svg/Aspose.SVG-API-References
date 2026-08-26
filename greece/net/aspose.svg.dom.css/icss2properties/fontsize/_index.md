@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.FontSize
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας μεγέθους γραμματοσειράς στο CSS2.
+title: "ICSS2Properties.FontSize"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα FontSize του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας font-size στο CSS2"
 type: docs
 weight: 490
 url: /el/net/aspose.svg.dom.css/icss2properties/fontsize/
 ---
 ## ICSS2Properties.FontSize property
 
-Δείτε τον ορισμό της ιδιότητας μεγέθους γραμματοσειράς στο CSS2.
+Δείτε τον ορισμό της ιδιότητας font-size στο CSS2.
 
 ```csharp
 public string FontSize { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα μεγέθους γραμματοσειράς
+ιδιότητα font-size
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: HttpMethod.op_Equality
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HttpMethod μέθοδος. Υλοποιεί τον τελεστή ισότητας.
+title: "HttpMethod.op_Equality"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος HttpMethod op_Equality. Υλοποιεί τον τελεστή ισότητας"
 type: docs
 weight: 90
 url: /el/net/aspose.svg.net/httpmethod/op_equality/
@@ -16,17 +16,15 @@ public static bool operator ==(HttpMethod left, HttpMethod right)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| left | HttpMethod | Ο αριστερός τελεστής. |
-| right | HttpMethod | Ο αριστερός τελεστής. |
+| left | HttpMethod | Ο αριστερός τελεστέος. |
+| δεξιά | HttpMethod | Ο αριστερός τελεστέος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αποτέλεσμα της επέμβασης.
+Το αποτέλεσμα της λειτουργίας.
 
 ### Δείτε επίσης
 
 * class [HttpMethod](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../httpmethod/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

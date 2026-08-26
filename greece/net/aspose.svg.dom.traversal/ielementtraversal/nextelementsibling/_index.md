@@ -1,28 +1,26 @@
 ---
-title: IElementTraversal.NextElementSibling
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IElementTraversal ιδιοκτησία. Επιστρέφει τον επόμενο κόμβο αδελφικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει κανένα στοιχείο αδελφούς κόμβους που έρχονται μετά από αυτό στο δέντρο εγγράφων.
+title: "IElementTraversal.NextElementSibling"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IElementTraversal NextElementSibling. Επιστρέφει τον επόμενο αδελφό κόμβο στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει αδελφικούς κόμβους στοιχείων που έρχονται μετά από αυτό στο δέντρο του εγγράφου."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.traversal/ielementtraversal/nextelementsibling/
 ---
 ## IElementTraversal.NextElementSibling property
 
-Επιστρέφει τον επόμενο κόμβο αδελφικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει κανένα στοιχείο αδελφούς κόμβους που έρχονται μετά από αυτό στο δέντρο εγγράφων.
+Επιστρέφει τον επόμενο αδερφό κόμβο στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει αδερφούς κόμβους στοιχείου που έρχονται μετά από αυτό στο δέντρο του εγγράφου.
 
 ```csharp
 public Element NextElementSibling { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το επόμενο στοιχείο αδελφός.
+Ο επόμενος αδερφός στοιχείο.
 
 ### Δείτε επίσης
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

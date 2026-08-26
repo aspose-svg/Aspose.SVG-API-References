@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.CSS_STRING
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSPrimitiveValue πεδίο. Η τιμή είναι STRING. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue.
+title: "CSSPrimitiveValue.CSS_STRING"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Το πεδίο CSSPrimitiveValue CSS_STRING. Η τιμή είναι ένα STRING. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue."
 type: docs
-weight: 390
+weight: 400
 url: /el/net/aspose.svg.dom.css/cssprimitivevalue/css_string/
 ---
 ## CSSPrimitiveValue.CSS_STRING field
 
-Η τιμή είναι STRING. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue.
+Η τιμή είναι ένα STRING. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue.
 
 ```csharp
 public const ushort CSS_STRING;
@@ -17,7 +17,5 @@ public const ushort CSS_STRING;
 ### Δείτε επίσης
 
 * class [CSSPrimitiveValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

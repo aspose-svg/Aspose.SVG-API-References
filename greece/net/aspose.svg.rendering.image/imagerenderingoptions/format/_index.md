@@ -1,14 +1,14 @@
 ---
-title: ImageRenderingOptions.Format
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageRenderingOptions ιδιοκτησία. Ορίζει ή παίρνειImageFormat . Από προεπιλογή αυτή η ιδιότητα είναιPng .
+title: "ImageRenderingOptions.Format"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ImageRenderingOptions Format property. Ορίζει ή διαβάζει το ImageFormat. Από προεπιλογή αυτή η ιδιότητα είναι Png"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.rendering.image/imagerenderingoptions/format/
 ---
 ## ImageRenderingOptions.Format property
 
-Ορίζει ή παίρνει[`ImageFormat`](../../imageformat/) . Από προεπιλογή αυτή η ιδιότητα είναιPng .
+Ορίζει ή διαβάζει το [`ImageFormat`](../../imageformat/). Από προεπιλογή αυτή η ιδιότητα είναι Png.
 
 ```csharp
 public ImageFormat Format { get; set; }
@@ -18,7 +18,5 @@ public ImageFormat Format { get; set; }
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

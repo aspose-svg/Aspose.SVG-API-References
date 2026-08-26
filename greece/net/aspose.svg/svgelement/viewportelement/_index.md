@@ -1,27 +1,25 @@
 ---
-title: SVGElement.ViewportElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGElement ιδιοκτησία. Το στοιχείο που δημιούργησε την τρέχουσα θύρα προβολής. Συχνά ο πλησιέστερος πρόγονος στοιχείο svg. Null εάν το δεδομένο στοιχείο είναι το πιο εξωτερικό στοιχείο svg.
+title: "SVGElement.ViewportElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ViewportElement του SVGElement. Το στοιχείο που καθόρισε το τρέχον viewport. Συχνά το πλησιέστερο πρόγονο στοιχείο svg. Null εάν το δεδομένο στοιχείο είναι το εξωτερικότερο στοιχείο svg."
 type: docs
 weight: 50
 url: /el/net/aspose.svg/svgelement/viewportelement/
 ---
 ## SVGElement.ViewportElement property
 
-Το στοιχείο που δημιούργησε την τρέχουσα θύρα προβολής. Συχνά, ο πλησιέστερος πρόγονος στοιχείο 'svg'. Null εάν το δεδομένο στοιχείο είναι το πιο εξωτερικό στοιχείο svg.
+Το στοιχείο που καθόρισε το τρέχον παράθυρο προβολής. Συχνά, το πλησιέστερο πρόγονο στοιχείο ‘svg’. Null εάν το δεδομένο στοιχείο είναι το εξωτερικότερο στοιχείο svg.
 
 ```csharp
 public SVGElement ViewportElement { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το στοιχείο θύρας προβολής.
+Το στοιχείο viewport.
 
 ### Δείτε επίσης
 
 * class [SVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGDocument.SVGDocument
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGDocument κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSVGDocument τάξη.
+title: "SVGDocument"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής SVGDocument. Δημιουργεί μια νέα παρουσία της κλάσης SVGDocument"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svgdocument/svgdocument/
 ---
 ## SVGDocument() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../).
 
 ```csharp
 public SVGDocument()
@@ -17,14 +17,14 @@ public SVGDocument()
 ### Δείτε επίσης
 
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Configuration) {#constructor_1}
+## SVGDocument(*[Configuration](../../configuration/)*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../).
 
 ```csharp
 public SVGDocument(Configuration configuration)
@@ -32,20 +32,20 @@ public SVGDocument(Configuration configuration)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| configuration | Configuration | Η διαμόρφωση. |
+| διαμόρφωση | Διαμόρφωση | Η διαμόρφωση. |
 
 ### Δείτε επίσης
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string) {#constructor_10}
+## SVGDocument(*string*) {#constructor_10}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(string address)
@@ -53,19 +53,19 @@ public SVGDocument(string address)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| address | String | Η διεύθυνση του εγγράφου. Θα συνδυαστεί με την τρέχουσα διαδρομή καταλόγου για να σχηματιστεί μια απόλυτη διεύθυνση URL. |
+| address | String | Η διεύθυνση του εγγράφου. Θα συνδυαστεί με τη διαδρομή του τρέχοντος καταλόγου για να δημιουργήσει μια απόλυτη URL. |
 
 ### Δείτε επίσης
 
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Url) {#constructor_4}
+## SVGDocument(*[Url](../../url/)*) {#constructor_4}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(Url url)
@@ -79,14 +79,14 @@ public SVGDocument(Url url)
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Configuration) {#constructor_11}
+## SVGDocument(*string, [Configuration](../../configuration/)*) {#constructor_11}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(string address, Configuration configuration)
@@ -94,21 +94,21 @@ public SVGDocument(string address, Configuration configuration)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| address | String | Η διεύθυνση του εγγράφου. Θα συνδυαστεί με την τρέχουσα διαδρομή καταλόγου για να σχηματιστεί μια απόλυτη διεύθυνση URL. |
-| configuration | Configuration | Η διαμόρφωση. |
+| address | String | Η διεύθυνση του εγγράφου. Θα συνδυαστεί με τη διαδρομή του τρέχοντος καταλόγου για να δημιουργήσει μια απόλυτη URL. |
+| διαμόρφωση | Διαμόρφωση | Η διαμόρφωση. |
 
 ### Δείτε επίσης
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Url, Configuration) {#constructor_5}
+## SVGDocument(*[Url](../../url/), [Configuration](../../configuration/)*) {#constructor_5}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(Url url, Configuration configuration)
@@ -117,21 +117,21 @@ public SVGDocument(Url url, Configuration configuration)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | url | Url | Το URL του εγγράφου. |
-| configuration | Configuration | Η διαμόρφωση. |
+| διαμόρφωση | Διαμόρφωση | Η διαμόρφωση. |
 
 ### Δείτε επίσης
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, string) {#constructor_8}
+## SVGDocument(*Stream, string*) {#constructor_8}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Η φόρτωση του εγγράφου ξεκινά από την τρέχουσα θέση στη ροή.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση του εγγράφου χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/). Η φόρτωση του εγγράφου ξεκινά από την τρέχουσα θέση στη ροή.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri)
@@ -140,25 +140,25 @@ public SVGDocument(Stream content, string baseUri)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | content | Stream | Το περιεχόμενο του εγγράφου. |
-| baseUri | String | Το βασικό URI του εγγράφου. Θα συνδυαστεί με την τρέχουσα διαδρομή καταλόγου για να σχηματιστεί μια απόλυτη διεύθυνση URL. |
+| baseUri | String | Το βασικό URI του εγγράφου. Θα συνδυαστεί με τη διαδρομή του τρέχοντος καταλόγου για να δημιουργήσει ένα απόλυτο URL. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | `baseUri` είναι`μηδενικό`. |
+| ArgumentNullException | `baseUri` είναι `null`. |
 
 ### Δείτε επίσης
 
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, string, Configuration) {#constructor_9}
+## SVGDocument(*Stream, string, [Configuration](../../configuration/)*) {#constructor_9}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Η φόρτωση του εγγράφου ξεκινά από την τρέχουσα θέση στη ροή.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση του εγγράφου χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/). Η φόρτωση του εγγράφου ξεκινά από την τρέχουσα θέση στη ροή.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri, Configuration configuration)
@@ -167,27 +167,27 @@ public SVGDocument(Stream content, string baseUri, Configuration configuration)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | content | Stream | Το περιεχόμενο του εγγράφου. |
-| baseUri | String | Το βασικό URI του εγγράφου. Θα συνδυαστεί με την τρέχουσα διαδρομή καταλόγου για να σχηματιστεί μια απόλυτη διεύθυνση URL. |
-| configuration | Configuration | Η διαμόρφωση. |
+| baseUri | String | Το βασικό URI του εγγράφου. Θα συνδυαστεί με τη διαδρομή του τρέχοντος καταλόγου για να δημιουργήσει ένα απόλυτο URL. |
+| διαμόρφωση | Διαμόρφωση | Η διαμόρφωση. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | `baseUri` είναι`μηδενικό`. |
+| ArgumentNullException | `baseUri` είναι `null`. |
 
 ### Δείτε επίσης
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, Url) {#constructor_6}
+## SVGDocument(*Stream, [Url](../../url/)*) {#constructor_6}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Η φόρτωση του εγγράφου ξεκινά από την τρέχουσα θέση στη ροή.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση του εγγράφου χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/). Η φόρτωση του εγγράφου ξεκινά από την τρέχουσα θέση στη ροή.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri)
@@ -198,24 +198,24 @@ public SVGDocument(Stream content, Url baseUri)
 | content | Stream | Το περιεχόμενο του εγγράφου. |
 | baseUri | Url | Το βασικό URI του εγγράφου. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | `baseUri` είναι`μηδενικό`. |
+| ArgumentNullException | `baseUri` είναι `null`. |
 
 ### Δείτε επίσης
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, Url, Configuration) {#constructor_7}
+## SVGDocument(*Stream, [Url](../../url/), [Configuration](../../configuration/)*) {#constructor_7}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Η φόρτωση του εγγράφου ξεκινά από την τρέχουσα θέση στη ροή.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση του εγγράφου χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/). Η φόρτωση του εγγράφου ξεκινά από την τρέχουσα θέση στη ροή.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri, Configuration configuration)
@@ -225,27 +225,27 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 | --- | --- | --- |
 | content | Stream | Το περιεχόμενο του εγγράφου. |
 | baseUri | Url | Το βασικό URI του εγγράφου. |
-| configuration | Configuration | Η διαμόρφωση. |
+| διαμόρφωση | Διαμόρφωση | Η διαμόρφωση. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | `baseUri` είναι`μηδενικό`. |
+| ArgumentNullException | `baseUri` είναι `null`. |
 
 ### Δείτε επίσης
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, string) {#constructor_14}
+## SVGDocument(*string, string*) {#constructor_14}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(string content, string baseUri)
@@ -254,25 +254,25 @@ public SVGDocument(string content, string baseUri)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | content | String | Το περιεχόμενο του εγγράφου. |
-| baseUri | String | Το βασικό URI του εγγράφου. Θα συνδυαστεί με την τρέχουσα διαδρομή καταλόγου για να σχηματιστεί μια απόλυτη διεύθυνση URL. |
+| baseUri | String | Το βασικό URI του εγγράφου. Θα συνδυαστεί με τη διαδρομή του τρέχοντος καταλόγου για να δημιουργήσει ένα απόλυτο URL. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | `baseUri` είναι`μηδενικό`. |
+| ArgumentNullException | `baseUri` είναι `null`. |
 
 ### Δείτε επίσης
 
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, string, Configuration) {#constructor_15}
+## SVGDocument(*string, string, [Configuration](../../configuration/)*) {#constructor_15}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(string content, string baseUri, Configuration configuration)
@@ -281,27 +281,27 @@ public SVGDocument(string content, string baseUri, Configuration configuration)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | content | String | Το περιεχόμενο του εγγράφου. |
-| baseUri | String | Το βασικό URI του εγγράφου. Θα συνδυαστεί με την τρέχουσα διαδρομή καταλόγου για να σχηματιστεί μια απόλυτη διεύθυνση URL. |
-| configuration | Configuration | Η διαμόρφωση. |
+| baseUri | String | Το βασικό URI του εγγράφου. Θα συνδυαστεί με τη διαδρομή του τρέχοντος καταλόγου για να δημιουργήσει ένα απόλυτο URL. |
+| διαμόρφωση | Διαμόρφωση | Η διαμόρφωση. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | `baseUri` είναι`μηδενικό`. |
+| ArgumentNullException | `baseUri` είναι `null`. |
 
 ### Δείτε επίσης
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Url) {#constructor_12}
+## SVGDocument(*string, [Url](../../url/)*) {#constructor_12}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(string content, Url baseUri)
@@ -312,24 +312,24 @@ public SVGDocument(string content, Url baseUri)
 | content | String | Το περιεχόμενο του εγγράφου. |
 | baseUri | Url | Το βασικό URI του εγγράφου. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | `baseUri` είναι`μηδενικό`. |
+| ArgumentNullException | `baseUri` είναι `null`. |
 
 ### Δείτε επίσης
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Url, Configuration) {#constructor_13}
+## SVGDocument(*string, [Url](../../url/), [Configuration](../../configuration/)*) {#constructor_13}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(string content, Url baseUri, Configuration configuration)
@@ -339,27 +339,27 @@ public SVGDocument(string content, Url baseUri, Configuration configuration)
 | --- | --- | --- |
 | content | String | Το περιεχόμενο του εγγράφου. |
 | baseUri | Url | Το βασικό URI του εγγράφου. |
-| configuration | Configuration | Η διαμόρφωση. |
+| διαμόρφωση | Διαμόρφωση | Η διαμόρφωση. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | `baseUri` είναι`μηδενικό`. |
+| ArgumentNullException | `baseUri` είναι `null`. |
 
 ### Δείτε επίσης
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(RequestMessage) {#constructor_2}
+## SVGDocument(*[RequestMessage](../../../aspose.svg.net/requestmessage/)*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(RequestMessage request)
@@ -373,14 +373,14 @@ public SVGDocument(RequestMessage request)
 
 * class [RequestMessage](../../../aspose.svg.net/requestmessage/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(RequestMessage, Configuration) {#constructor_3}
+## SVGDocument(*[RequestMessage](../../../aspose.svg.net/requestmessage/), [Configuration](../../configuration/)*) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGDocument`](../)τάξη. Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για ασύγχρονη φόρτωση εγγράφου χρησιμοποιήστε τη μέθοδο[`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις του. Ή μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τις κατάλληλες σημαίες στο[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Δημιουργεί μια νέα παρουσία της κλάσης [`SVGDocument`](../). Ο κατασκευαστής λειτουργεί συγχρονισμένα, περιμένει τη φόρτωση όλων των εξωτερικών πόρων (εικόνες, σενάρια κ.λπ.). Για να φορτώσετε το έγγραφο ασύγχρονα, χρησιμοποιήστε τη μέθοδο [`Navigate`](../../../aspose.svg.dom/document/navigate/) ή τις υπερφορτώσεις της. Ώ μπορείτε να απενεργοποιήσετε τη φόρτωση ορισμένων εξωτερικών πόρων ορίζοντας τα κατάλληλα σημαίες στο [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/).
 
 ```csharp
 public SVGDocument(RequestMessage request, Configuration configuration)
@@ -389,14 +389,12 @@ public SVGDocument(RequestMessage request, Configuration configuration)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | request | RequestMessage | Το αίτημα. |
-| configuration | Configuration | Η διαμόρφωση. |
+| διαμόρφωση | Διαμόρφωση | Η διαμόρφωση. |
 
 ### Δείτε επίσης
 
 * class [RequestMessage](../../../aspose.svg.net/requestmessage/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

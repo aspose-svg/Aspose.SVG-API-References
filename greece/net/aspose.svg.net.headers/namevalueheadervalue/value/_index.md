@@ -1,7 +1,7 @@
 ---
-title: NameValueHeaderValue.Value
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NameValueHeaderValue ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή της παραμέτρου.
+title: "NameValueHeaderValue.Value"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Value του NameValueHeaderValue. Λαμβάνει ή ορίζει την τιμή της παραμέτρου"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net.headers/namevalueheadervalue/value/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.net.headers/namevalueheadervalue/value/
 public string Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
 ### Δείτε επίσης
 
 * class [NameValueHeaderValue](../)
-* χώρος ονομάτων [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

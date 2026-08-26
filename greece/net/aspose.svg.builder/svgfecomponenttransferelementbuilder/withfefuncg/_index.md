@@ -1,0 +1,30 @@
+---
+title: "SVGFEComponentTransferElementBuilder.WithFeFuncG"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGFEComponentTransferElementBuilder WithFeFuncG. Διαμορφώνει τη συνάρτηση μεταφοράς στοιχείου feFuncG για το πράσινο κανάλι."
+type: docs
+weight: 50
+url: /el/net/aspose.svg.builder/svgfecomponenttransferelementbuilder/withfefuncg/
+---
+## SVGFEComponentTransferElementBuilder.WithFeFuncG method
+
+Ρυθμίζει τη συνάρτηση μεταφοράς στοιχείου 'feFuncG' για το πράσινο κανάλι.
+
+```csharp
+public SVGFEComponentTransferElementBuilder WithFeFuncG(Action<SVGFEFuncGElementBuilder> configure)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| ρυθμίστε | Action`1 | Η ενέργεια διαμόρφωσης για το SVGFEFuncGElementBuilder. |
+
+### Τιμή Επιστροφής
+
+Η τρέχουσα παρουσία του builder.
+
+### Δείτε επίσης
+
+* class [SVGFEFuncGElementBuilder](../../svgfefuncgelementbuilder/)
+* class [SVGFEComponentTransferElementBuilder](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.RemovedNodes
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationRecord ιδιοκτησία. Επιστρέψτε τους κόμβους που αφαιρέθηκαν.
+title: "MutationRecord.RemovedNodes"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MutationRecord RemovedNodes. Επιστρέφει τους κόμβους που αφαιρέθηκαν"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.dom.mutations/mutationrecord/removednodes/
 ---
 ## MutationRecord.RemovedNodes property
 
-Επιστρέψτε τους κόμβους που αφαιρέθηκαν.
+Επιστρέψτε τους αφαιρεθέντες κόμβους.
 
 ```csharp
 public NodeList RemovedNodes { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι αφαιρεθέντες κόμβοι.
+Οι αφαιρεμένοι κόμβοι.
 
 ### Δείτε επίσης
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

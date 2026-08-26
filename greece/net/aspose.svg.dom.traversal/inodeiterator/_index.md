@@ -1,16 +1,16 @@
 ---
-title: Interface INodeIterator
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Traversal.INodeIterator διεπαφή. Οι επαναλήπτες χρησιμοποιούνται για να περάσουν μέσα από ένα σύνολο κόμβων π.χ. το σύνολο κόμβων σε ένα NodeList το υποδέντρο εγγράφου που διέπεται από έναν συγκεκριμένο Κόμβο τα αποτελέσματα ενός ερωτήματος ή οποιοδήποτε άλλο σύνολο κόμβων. Το σύνολο των κόμβων που πρόκειται να επαναληφθούν καθορίζεται από την υλοποίηση του NodeIterator. Το DOM Level 2 καθορίζει μια μεμονωμένη υλοποίηση NodeIterator για διέλευση εγγράφου σειράς ενός υποδέντρου εγγράφου. Οι εμφανίσεις αυτών των επαναλήψεων δημιουργούνται καλώντας DocumentTraversal .createNodeIterator.
+title: "INodeIterator Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Dom.Traversal.INodeIterator. Οι επαναλήπτες χρησιμοποιούνται για την προσαρμογή μέσα σε ένα σύνολο κόμβων, π.χ. το σύνολο των κόμβων σε ένα NodeList, το υποδέντρο του εγγράφου που διέπεται από έναν συγκεκριμένο Node, τα αποτελέσματα ενός ερωτήματος ή οποιοδήποτε άλλο σύνολο κόμβων. Το σύνολο των κόμβων που θα επαναληφθεί καθορίζεται από την υλοποίηση του NodeIterator. Το DOM Level 2 ορίζει μια μοναδική υλοποίηση NodeIterator για περιήγηση με σειρά εγγράφου ενός υποδέντρου εγγράφου. Παραδείγματα αυτών των επαναληπτών δημιουργούνται με την κλήση του DocumentTraversal .createNodeIterator"
 type: docs
-weight: 1250
+weight: 3250
 url: /el/net/aspose.svg.dom.traversal/inodeiterator/
 ---
 ## INodeIterator interface
 
-Οι επαναλήπτες χρησιμοποιούνται για να περάσουν μέσα από ένα σύνολο κόμβων, π.χ. το σύνολο κόμβων σε ένα NodeList, το υποδέντρο εγγράφου που διέπεται από έναν συγκεκριμένο Κόμβο, τα αποτελέσματα ενός ερωτήματος ή οποιοδήποτε άλλο σύνολο κόμβων. Το σύνολο των κόμβων που πρόκειται να επαναληφθούν καθορίζεται από την υλοποίηση του NodeIterator. Το DOM Level 2 καθορίζει μια μεμονωμένη υλοποίηση NodeIterator για διέλευση εγγράφου σειράς ενός υποδέντρου εγγράφου. Οι εμφανίσεις αυτών των επαναλήψεων δημιουργούνται καλώντας DocumentTraversal .createNodeIterator().
+Οι επαναλήπτες χρησιμοποιούνται για να προχωρούν μέσα σε ένα σύνολο κόμβων, π.χ. το σύνολο κόμβων σε μια NodeList, το υποδέντρο του εγγράφου που διέπεται από έναν συγκεκριμένο Node, τα αποτελέσματα ενός ερωτήματος ή οποιοδήποτε άλλο σύνολο κόμβων. Το σύνολο των κόμβων που θα επαναληφθεί καθορίζεται από την υλοποίηση του NodeIterator. Το DOM Level 2 ορίζει μια μοναδική υλοποίηση NodeIterator για τη διέλευση κατά σειρά εγγράφου ενός υποδέντρου εγγράφου. Παραδείγματα αυτών των επαναληπτών δημιουργούνται καλώντας το DocumentTraversal .createNodeIterator().
 
-Δείτε επίσης το[Μοντέλο αντικειμένου εγγράφου (DOM) Επίπεδο 2 Προδιαγραφή διέλευσης και εύρους](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM Level 2
+Δείτε επίσης το [Document object Model (DOM) Level 2 Traversal and Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM Level 2
 
 ```csharp
 public interface INodeIterator : ITraversal
@@ -18,23 +18,21 @@ public interface INodeIterator : ITraversal
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [PointerBeforeReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode/) { get; } | Η τιμή αυτής της σημαίας καθορίζει εάν τα παιδιά των κόμβων αναφοράς entity είναι ορατά στον επαναλήπτη. Εάν είναι ψευδής, αυτοί και οι απόγονοί τους θα απορριφθούν. Σημειώστε ότι αυτή η απόρριψη έχει προτεραιότητα έναντι του whatToShow και του φίλτρου. Σημειώστε επίσης ότι αυτή είναι προς το παρόν η μόνη περίπτωση όπου οι NodeIterators μπορούν να απορρίψουν ένα πλήρες υποδέντρο αντί παρακάμπτοντας μεμονωμένους κόμβους. Για να δημιουργήσετε μια προβολή του εγγράφου που έχει entity references επεκτάθηκε και δεν εκθέτει την οντότητα χρήση_χρησιμοποιήστε_την οντότητα στον κόμβο αναφοράςx00. Απόκρυψη της αναφοράς οντότητας node και ορισμός του ExpandEntityReferences σε true κατά τη δημιουργία του επαναλήπτη . Για να δημιουργήσετε μια προβολή του εγγράφου που έχει κόμβους entity reference αλλά όχι επέκταση οντότητας, χρησιμοποιήστε το whatToShow flags για να εμφανίσετε τον κόμβο αναφοράς οντότητας και set expandEntityReferences σε false. |
+| [PointerBeforeReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode/) { get; } | Η τιμή αυτού του σημαίας καθορίζει εάν τα παιδιά των κόμβων αναφοράς οντότητας είναι ορατά στον επαναλήπτη. Εάν είναι false, αυτά και τα απογόνους τους θα απορριφθούν. Σημειώστε ότι αυτή η απόρριψη έχει προτεραιότητα έναντι του whatToShow και του φίλτρου. Επίσης, σημειώστε ότι αυτή είναι επί του παρόντος η μόνη κατάσταση όπου οι NodeIterators μπορούν να απορρίψουν ολόκληρο ένα υποδέντρο αντί να παραλείπουν μεμονωμένους κόμβους. Για να δημιουργήσετε μια προβολή του εγγράφου που έχει επεκταμένες αναφορές οντότητας και δεν εκθέτει τον ίδιο τον κόμβο αναφοράς οντότητας, χρησιμοποιήστε τα flags whatToShow για να κρύψετε τον κόμβο αναφοράς οντότητας και ορίστε το expandEntityReferences σε true κατά τη δημιουργία του επαναλήπτη. Για να δημιουργήσετε μια προβολή του εγγράφου που έχει κόμβους αναφοράς οντότητας αλλά χωρίς επέκταση οντότητας, χρησιμοποιήστε τα flags whatToShow για να εμφανίσετε τον κόμβο αναφοράς οντότητας και ορίστε το expandEntityReferences σε false. |
 | [ReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/referencenode/) { get; } | Ο τρέχων κόμβος αναφοράς. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Detach](../../aspose.svg.dom.traversal/inodeiterator/detach/)() | Αποσυνδέει το NodeIterator από το σύνολο που επανέλαβε , απελευθερώνοντας τυχόν υπολογιστικούς πόρους και τοποθετώντας το iterator σε ΜΗ ΕΓΚΥΡΟ. Μετά την κλήση του detach, οι κλήσεις στο nextNode ή στο previousNode θα εγείρουν την εξαίρεση INVALID_STATE_ERR. |
-| [NextNode](../../aspose.svg.dom.traversal/inodeiterator/nextnode/)() | Επιστρέφει τον επόμενο κόμβο στο σύνολο και προωθεί τη θέση του επαναλήπτη στο σύνολο. Αφού δημιουργηθεί ένας NodeIterator, η πρώτη κλήση στο nextNode() επιστρέφει τον πρώτο κόμβο in το σύνολο. |
-| [PreviousNode](../../aspose.svg.dom.traversal/inodeiterator/previousnode/)() | Επιστρέφει τον προηγούμενο κόμβο στο σύνολο και μετακινεί τη θέση του the NodeIterator προς τα πίσω στο σύνολο. |
+| [Detach](../../aspose.svg.dom.traversal/inodeiterator/detach/)() | Αποσυνδέει το NodeIterator από το σύνολο που επεξεργάστηκε, απελευθερώνοντας τυχόν υπολογιστικούς πόρους και τοποθετώντας τον επαναλήπτη στην κατάσταση INVALID. Μετά την κλήση του detach, οι κλήσεις σε nextNode ή previousNode θα προκαλέσουν την εξαίρεση INVALID_STATE_ERR. |
+| [NextNode](../../aspose.svg.dom.traversal/inodeiterator/nextnode/)() | Επιστρέφει τον επόμενο κόμβο στο σύνολο και προχωρά τη θέση του επαναλήπτη στο σύνολο. Μετά τη δημιουργία ενός NodeIterator, η πρώτη κλήση στο nextNode() επιστρέφει τον πρώτο κόμβο στο σύνολο. |
+| [PreviousNode](../../aspose.svg.dom.traversal/inodeiterator/previousnode/)() | Επιστρέφει τον προηγούμενο κόμβο στο σύνολο και μετακινεί τη θέση του NodeIterator προς τα πίσω στο σύνολο. |
 
 ### Δείτε επίσης
 
 * interface [ITraversal](../itraversal/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,25 @@
 ---
-title: ILinearGradientBrush.Rect
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ILinearGradientBrush ιδιοκτησία. Λάβετε μια ορθογώνια περιοχή που ορίζει τα σημεία έναρξης και τέλους της κλίσης.
+title: "ILinearGradientBrush.Rect"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ILinearGradientBrush Rect. Λαμβάνει ή ορίζει την ορθογώνια περιοχή που καθορίζει τα αρχικά και τελικά σημεία του gradient"
 type: docs
-weight: 40
+weight: 20
 url: /el/net/aspose.svg.drawing/ilineargradientbrush/rect/
 ---
 ## ILinearGradientBrush.Rect property
 
-Λάβετε μια ορθογώνια περιοχή που ορίζει τα σημεία έναρξης και τέλους της κλίσης.
+Λαμβάνει ή ορίζει την ορθογώνια περιοχή που καθορίζει τα αρχικά και τα τελικά σημεία της διαβάθμισης.
 
 ```csharp
-public RectangleF Rect { get; }
+public RectangleF Rect { get; set; }
 ```
+
+### Τιμή Επιστροφής
+
+Η ορθογώνια περιοχή που ορίζει τα αρχικά και τελικά σημεία του gradient.
 
 ### Δείτε επίσης
 
 * interface [ILinearGradientBrush](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../ilineargradientbrush/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

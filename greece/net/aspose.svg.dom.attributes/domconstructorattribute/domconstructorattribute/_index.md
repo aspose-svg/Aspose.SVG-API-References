@@ -1,7 +1,7 @@
 ---
-title: DOMConstructorAttribute.DOMConstructorAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMConstructorAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DOMConstructorAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMConstructorAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.attributes/domconstructorattribute/domconstructorattribute/
@@ -17,7 +17,5 @@ public DOMConstructorAttribute()
 ### Δείτε επίσης
 
 * class [DOMConstructorAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domconstructorattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

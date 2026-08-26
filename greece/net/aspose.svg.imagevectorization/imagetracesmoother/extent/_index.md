@@ -1,14 +1,14 @@
 ---
-title: ImageTraceSmoother.Extent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageTraceSmoother ιδιοκτησία. Λαμβάνει την έκταση των συνόλων της περιοχής που εξετάζεται από το σημείο ερωτήματος. Πρέπει να είναι στην περιοχή από 1 έως 20. Οποιεσδήποτε υψηλότερες ή χαμηλότερες τιμές θα ευθυγραμμιστούν με τις ελάχιστες και τις μέγιστες τιμές αυτού του εύρους αντίστοιχα.
+title: "ImageTraceSmoother.Extent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ImageTraceSmoother Extent ιδιότητα. Λαμβάνει ή ορίζει το εύρος της περιοχής που θεωρείται από το σημείο ερωτήματος. Πρέπει να είναι στο εύρος από 1 έως 20. Οποιαδήποτε υψηλότερη ή χαμηλότερη τιμή θα ευθυγραμμιστεί με τις ελάχιστες και μέγιστες τιμές αυτού του εύρους αναλόγως."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.imagevectorization/imagetracesmoother/extent/
 ---
 ## ImageTraceSmoother.Extent property
 
-Λαμβάνει την έκταση των συνόλων της περιοχής που εξετάζεται από το σημείο ερωτήματος. Πρέπει να είναι στην περιοχή από 1 έως 20. Οποιεσδήποτε υψηλότερες ή χαμηλότερες τιμές θα ευθυγραμμιστούν με τις ελάχιστες και τις μέγιστες τιμές αυτού του εύρους, αντίστοιχα.
+Λαμβάνει ή ορίζει την έκταση της περιοχής που θεωρείται από το σημείο ερωτήματος. Πρέπει να βρίσκεται στο εύρος από 1 έως 20. Οποιαδήποτε υψηλότερη ή χαμηλότερη τιμή θα ευθυγραμμιστεί με τις ελάχιστες και μέγιστες τιμές αυτού του εύρους, αντίστοιχα.
 
 ```csharp
 public int Extent { get; set; }
@@ -17,7 +17,5 @@ public int Extent { get; set; }
 ### Δείτε επίσης
 
 * class [ImageTraceSmoother](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

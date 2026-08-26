@@ -1,14 +1,14 @@
 ---
-title: Device2.Options
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device ιδιοκτησία. Λαμβάνει επιλογές απόδοσης.
+title: "Device-2.Options"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Device Options. Λαμβάνει τις επιλογές απόδοσης."
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.svg.rendering/device-2/options/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property
+## Device<TGraphicContext,TRenderingOptions>.Options property
 
-Λαμβάνει επιλογές απόδοσης.
+Λαμβάνει τις επιλογές απόδοσης.
 
 ```csharp
 public TRenderingOptions Options { get; }
@@ -17,7 +17,5 @@ public TRenderingOptions Options { get; }
 ### Δείτε επίσης
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

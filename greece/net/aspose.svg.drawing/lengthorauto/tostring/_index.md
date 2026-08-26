@@ -1,27 +1,25 @@
 ---
-title: LengthOrAuto.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: LengthOrAuto μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "LengthOrAuto.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος ToString του LengthOrAuto. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.drawing/lengthorauto/tostring/
 ---
 ## LengthOrAuto.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [LengthOrAuto](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../lengthorauto/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

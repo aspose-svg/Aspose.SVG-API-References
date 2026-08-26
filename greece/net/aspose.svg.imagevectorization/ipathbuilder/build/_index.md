@@ -1,34 +1,29 @@
 ---
-title: IPathBuilder.Build
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IPathBuilder μέθοδος. Δημιουργεί τμήματα διαδρομής από τη λίστα των σημείων ίχνους.
+title: "IPathBuilder.Build"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IPathBuilder Build μέθοδος. Βελτιστοποιεί ένα δεδομένο ίχνος σε ένα τμήμα διαδρομής SVG χρησιμοποιώντας τον ελάχιστο αριθμό εντολών γραμμής και καμπύλης Bezier για ακριβή αναπαράσταση."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.imagevectorization/ipathbuilder/build/
 ---
 ## IPathBuilder.Build method
 
-Δημιουργεί τμήματα διαδρομής από τη λίστα των σημείων ίχνους.
+Βελτιστοποιεί ένα δεδομένο ίχνος σε τμήμα διαδρομής SVG, χρησιμοποιώντας τον ελάχιστο αριθμό εντολών γραμμής και καμπύλης Bezier για ακριβή αναπαράσταση.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Η λίστα των ιχνοσημείων. |
-| path | SVGPathElement | Το στοιχείο διαδρομής SVG όπου θα προστεθούν τμήματα διαδρομής. |
+| ίχνος | IEnumerable`1 | Μια ακολουθία σημείων που περιγράφουν το ίχνος για βελτιστοποίηση σε διαδρομή SVG. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η λίστα των τμημάτων διαδρομής[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+Μια συμβολοσειρά που αντιπροσωπεύει ένα τμήμα διαδρομής SVG, προσεγγίζοντας αποδοτικά το αρχικό ίχνος με ελάχιστες εντολές γραμμής και καμπύλης Bezier.
 
 ### Δείτε επίσης
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * interface [IPathBuilder](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../ipathbuilder/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

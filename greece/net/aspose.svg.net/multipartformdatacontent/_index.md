@@ -1,14 +1,14 @@
 ---
-title: Class MultipartFormDataContent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.MultipartFormDataContent τάξη. Αντιπροσωπεύει περιεχόμενο για αλγόριθμο κωδικοποίησης πολλαπλών μερών/φόρμαςδεδομένων
+title: "Τάξη MultipartFormDataContent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Τάξη Aspose.Svg.Net.MultipartFormDataContent. Αναπαριστά το περιεχόμενο για τον αλγόριθμο κωδικοποίησης multipart/form-data"
 type: docs
-weight: 2400
+weight: 4470
 url: /el/net/aspose.svg.net/multipartformdatacontent/
 ---
 ## MultipartFormDataContent class
 
-Αντιπροσωπεύει περιεχόμενο για αλγόριθμο κωδικοποίησης πολλαπλών μερών/φόρμας-δεδομένων
+Αντιπροσωπεύει το περιεχόμενο για τον αλγόριθμο κωδικοποίησης multipart/form-data
 
 ```csharp
 public class MultipartFormDataContent : MultipartContent
@@ -16,34 +16,32 @@ public class MultipartFormDataContent : MultipartContent
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [MultipartFormDataContent](multipartformdatacontent/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`MultipartFormDataContent` τάξη. |
-| [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(string) | Αρχικοποιεί μια νέα παρουσία του`MultipartFormDataContent` τάξη. |
+| [MultipartFormDataContent](multipartformdatacontent/#constructor)() | Αρχικοποιεί μια νέα παρουσία της τάξης `MultipartFormDataContent`. |
+| [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(*string*) | Αρχικοποιεί μια νέα παρουσία της τάξης `MultipartFormDataContent`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | Λαμβάνει τις κεφαλίδες περιεχομένου HTTP. |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | Αποκτά τις κεφαλίδες περιεχομένου HTTP. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Add](../../aspose.svg.net/multipartformdatacontent/add/#add)(Content) | Προσθέστε το περιεχόμενο στο`MultipartFormDataContent` class |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_1)(Content, string) | Προσθέστε το περιεχόμενο στο`MultipartFormDataContent` κλάση με όνομα πεδίου parameter |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_2)(Content, string, string) | Προσθέστε το περιεχόμενο στο`MultipartFormDataContent` κλάση με πεδίο και όνομα αρχείου parameter |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | Εκτελεί εργασίες που καθορίζονται από την εφαρμογή που σχετίζονται με την απελευθέρωση, την απελευθέρωση ή την επαναφορά μη διαχειριζόμενων πόρων. |
-| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | Επιστρέφει έναν απαριθμητή που επαναλαμβάνεται μέσω μιας συλλογής. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Σειρώστε το περιεχόμενο HTTP και επιστρέψτε έναν πίνακα byte που αντιπροσωπεύει το περιεχόμενο. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | Σειριοποιήστε το περιεχόμενο HTTP και επιστρέψτε μια ροή που αντιπροσωπεύει το περιεχόμενο. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Σειρώστε το περιεχόμενο HTTP και επιστρέψτε μια συμβολοσειρά που αντιπροσωπεύει το περιεχόμενο. |
+| override [Add](../../aspose.svg.net/multipartformdatacontent/add/#add)(*[Content](../content/)*) | Προσθέτει το περιεχόμενο στην τάξη `MultipartFormDataContent` |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_1)(*[Content](../content/), string*) | Προσθέτει το περιεχόμενο στην τάξη `MultipartFormDataContent` με παράμετρο ονόματος πεδίου |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_2)(*[Content](../content/), string, string*) | Προσθέτει το περιεχόμενο στην τάξη `MultipartFormDataContent` με παράμετρο ονόματος πεδίου και ονόματος αρχείου |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | Εκτελεί εργασίες που ορίζονται από την εφαρμογή και σχετίζονται με την απελευθέρωση, την αποδέσμευση ή την επαναφορά μη διαχειριζόμενων πόρων. |
+| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | Επιστρέφει έναν αριθμητή που διατρέχει μια συλλογή. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Σειριοποιεί το περιεχόμενο HTTP και επιστρέφει έναν πίνακα byte που αναπαριστά το περιεχόμενο. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | Σειριοποιεί το περιεχόμενο HTTP και επιστρέφει ένα ρεύμα που αναπαριστά το περιεχόμενο. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Σειριοποιεί το περιεχόμενο HTTP και επιστρέφει μια συμβολοσειρά που αναπαριστά το περιεχόμενο. |
 
 ### Δείτε επίσης
 
 * class [MultipartContent](../multipartcontent/)
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

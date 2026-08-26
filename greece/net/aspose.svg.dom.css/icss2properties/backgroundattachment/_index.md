@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.BackgroundAttachment
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας του συνημμένου φόντου στο CSS2.
+title: "ICSS2Properties.BackgroundAttachment"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα BackgroundAttachment του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας background-attachment στο CSS2"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.css/icss2properties/backgroundattachment/
 ---
 ## ICSS2Properties.BackgroundAttachment property
 
-Δείτε τον ορισμό της ιδιότητας του συνημμένου φόντου στο CSS2.
+Δείτε τον ορισμό της ιδιότητας background-attachment στο CSS2.
 
 ```csharp
 public string BackgroundAttachment { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ιδιότητα συνημμένου φόντου
+ιδιότητα background-attachment
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

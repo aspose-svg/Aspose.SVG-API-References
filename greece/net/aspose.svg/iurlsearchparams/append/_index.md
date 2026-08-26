@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Append
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IUrlSearchParams μέθοδος. Προσθέτει ένα νέο ζεύγος ονόματοςτιμής του οποίου το όνομα είναιόνομα και αξία είναιαξία .
+title: "IUrlSearchParams.Append"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IUrlSearchParams Append μέθοδος. Προσθέτει ένα νέο ζεύγος όνομα‑τιμή του οποίου το όνομα είναι name και η τιμή είναι value"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
 
-Προσθέτει ένα νέο ζεύγος ονόματος-τιμής του οποίου το όνομα είναι`όνομα` και αξία είναι`αξία` .
+Προσθέτει ένα νέο ζεύγος όνομα-τιμή του οποίου το όνομα είναι `name` και η τιμή είναι `value`.
 
 ```csharp
 public void Append(string name, string value)
@@ -16,13 +16,11 @@ public void Append(string name, string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Όνομα του νέου ζεύγους όνομα-τιμή. |
-| value | String | Τιμή του νέου ζεύγους όνομα-τιμή. |
+| name | String | Όνομα του νέου ζεύγους όνομα‑τιμή. |
+| τιμή | String | Τιμή του νέου ζεύγους όνομα‑τιμή. |
 
 ### Δείτε επίσης
 
 * interface [IUrlSearchParams](../)
-* χώρος ονομάτων [Aspose.Svg](../../iurlsearchparams/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

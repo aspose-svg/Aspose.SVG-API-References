@@ -1,23 +1,21 @@
 ---
-title: DOMTokenList.Length
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMTokenList ιδιοκτησία. Επιστρέφει ένα ulong που αντιπροσωπεύει τον αριθμό των διακριτικών που είναι αποθηκευμένα σε αυτήν τη λίστα.
+title: "DOMTokenList.Length"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα DOMTokenList Length. Επιστρέφει ένα ulong που αντιπροσωπεύει τον αριθμό των διακριτικών που αποθηκεύονται σε αυτή τη λίστα."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.collections/domtokenlist/length/
 ---
 ## DOMTokenList.Length property
 
-Επιστρέφει ένα ulong που αντιπροσωπεύει τον αριθμό των διακριτικών που είναι αποθηκευμένα σε αυτήν τη λίστα.
+Επιστρέφει ένα ulong που αντιπροσωπεύει τον αριθμό των διακριτών στοιχείων που αποθηκεύονται σε αυτή τη λίστα.
 
 ```csharp
-public ulong Length { get; }
+public uint Length { get; }
 ```
 
 ### Δείτε επίσης
 
 * class [DOMTokenList](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../domtokenlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

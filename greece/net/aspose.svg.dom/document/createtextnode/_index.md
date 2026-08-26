@@ -1,14 +1,14 @@
 ---
-title: Document.CreateTextNode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document μέθοδος. Δημιουργεί έναν κόμβο κειμένου με την καθορισμένη συμβολοσειρά.
+title: "Document.CreateTextNode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document CreateTextNode μέθοδος. Δημιουργεί έναν κόμβο Text με τη δεδομένη συμβολοσειρά"
 type: docs
 weight: 930
 url: /el/net/aspose.svg.dom/document/createtextnode/
 ---
 ## Document.CreateTextNode method
 
-Δημιουργεί έναν κόμβο κειμένου με την καθορισμένη συμβολοσειρά.
+Δημιουργεί έναν κόμβο Text με την καθορισμένη συμβολοσειρά.
 
 ```csharp
 public Text CreateTextNode(string data)
@@ -16,17 +16,15 @@ public Text CreateTextNode(string data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | String | Τα δεδομένα κειμένου. |
+| δεδομένα | String | Τα δεδομένα κειμένου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`Text`](../../text/) .
+Το [`Text`](../../text/).
 
 ### Δείτε επίσης
 
 * class [Text](../../text/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

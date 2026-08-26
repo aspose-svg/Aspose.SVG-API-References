@@ -1,27 +1,25 @@
 ---
-title: ICSSPageRule.SelectorText
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSPageRule ιδιοκτησία. Η αναλυόμενη αναπαράσταση κειμένου του επιλογέα σελίδας για τον κανόνα.
+title: "ICSSPageRule.SelectorText"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSSPageRule SelectorText property. Η αναγνώσιμη κειμενική αναπαράσταση του επιλογέα σελίδας για τον κανόνα."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/icsspagerule/selectortext/
 ---
 ## ICSSPageRule.SelectorText property
 
-Η αναλυόμενη αναπαράσταση κειμένου του επιλογέα σελίδας για τον κανόνα.
+Η αναγνώσιμη κειμενική αναπαράσταση του επιλογέα σελίδας για τον κανόνα.
 
 ```csharp
 public string SelectorText { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το κείμενο επιλογής.
+Το κείμενο του επιλογέα.
 
 ### Δείτε επίσης
 
 * interface [ICSSPageRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

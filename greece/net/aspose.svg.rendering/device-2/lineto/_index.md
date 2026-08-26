@@ -1,27 +1,25 @@
 ---
-title: Device2.LineTo
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device μέθοδος. Προσθέτει ένα ευθύγραμμο τμήμα από το τρέχον σημείο στο σημείο pt. Το νέο τρέχον σημείο είναι pt.
+title: "Device-2.LineTo"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Device LineTo. Προσθέτει ένα ευθύ τμήμα γραμμής από το τρέχον σημείο στο σημείο pt. Το νέο τρέχον σημείο είναι pt."
 type: docs
-weight: 180
+weight: 210
 url: /el/net/aspose.svg.rendering/device-2/lineto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.LineTo method
+## Device<TGraphicContext,TRenderingOptions>.LineTo method
 
-Προσθέτει ένα ευθύγραμμο τμήμα από το τρέχον σημείο στο σημείο (pt). Το νέο τρέχον σημείο είναι pt.
+Προσθέτει ένα ευθύ τμήμα γραμμής από το τρέχον σημείο στο σημείο (pt). Το νέο τρέχον σημείο είναι το pt.
 
 ```csharp
-public abstract void LineTo(PointF pt)
+public virtual void LineTo(PointF pt)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pt | PointF | Σημείο όπου μπορείτε να δημιουργήσετε τη γραμμή. |
+| pt | PointF | Σημείο στο οποίο θα δημιουργηθεί η γραμμή. |
 
 ### Δείτε επίσης
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

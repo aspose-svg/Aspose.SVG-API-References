@@ -1,14 +1,14 @@
 ---
-title: Document.Implementation
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Το αντικείμενο DOMImplementation που χειρίζεται αυτό το έγγραφο.
+title: "Document.Implementation"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document Implementation. Το αντικείμενο DOMImplementation που διαχειρίζεται αυτό το έγγραφο"
 type: docs
 weight: 130
 url: /el/net/aspose.svg.dom/document/implementation/
 ---
 ## Document.Implementation property
 
-Το αντικείμενο DOMImplementation που χειρίζεται αυτό το έγγραφο.
+Το αντικείμενο DOMImplementation που διαχειρίζεται αυτό το έγγραφο.
 
 ```csharp
 public IDOMImplementation Implementation { get; }
@@ -18,7 +18,5 @@ public IDOMImplementation Implementation { get; }
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

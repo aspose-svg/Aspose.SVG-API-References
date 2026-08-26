@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.Width
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEOffsetElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό width στο δεδομένο στοιχείο filter.
+title: "SVGFEOffsetElement.Width"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Width του SVGFEOffsetElement. Αντιστοιχεί στο χαρακτηριστικό width στο δεδομένο στοιχείο φίλτρου."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.filters/svgfeoffsetelement/width/
 ---
 ## SVGFEOffsetElement.Width property
 
-Αντιστοιχεί στο χαρακτηριστικό 'width' στο δεδομένο στοιχείο 'filter'.
+Αντιστοιχεί στο χαρακτηριστικό ‘width’ του δεδομένου στοιχείου ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'width' του δεδομένου στοιχείου 'filter'.
+Το χαρακτηριστικό ‘width’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEOffsetElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

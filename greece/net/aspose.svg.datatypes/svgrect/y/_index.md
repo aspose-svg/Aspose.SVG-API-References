@@ -1,33 +1,31 @@
 ---
-title: SVGRect.Y
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGRect ιδιοκτησία. Η συντεταγμένη Υ του ορθογωνίου σε μονάδες χρήστη.
+title: "SVGRect.Y"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGRect Y ιδιότητα. Η συντεταγμένη Y του ορθογωνίου σε μονάδες χρήστη"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.datatypes/svgrect/y/
 ---
 ## SVGRect.Y property
 
-Η συντεταγμένη Υ του ορθογωνίου, σε μονάδες χρήστη.
+Η συντεταγμένη Y του ορθογωνίου, σε μονάδες χρήστη.
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συντεταγμένη Υ του ορθογωνίου, σε μονάδες χρήστη.
+Η συντεταγμένη Y του ορθογωνίου, σε μονάδες χρήστη.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Ανυψώνεται όταν το ορθογώνιο αντιστοιχεί σε ένα χαρακτηριστικό μόνο για ανάγνωση ή όταν το ίδιο το αντικείμενο είναι μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Εγείρεται όταν το ορθογώνιο αντιστοιχεί σε ιδιότητα μόνο για ανάγνωση ή όταν το ίδιο το αντικείμενο είναι μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGRect](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgrect/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

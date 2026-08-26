@@ -1,28 +1,26 @@
 ---
-title: MutationObserver.TakeRecords
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationObserver μέθοδος. Η μέθοδος επιστρέφει ένα αντίγραφο της ουράς εγγραφής και στη συνέχεια αδειάζει την ουρά εγγραφής.
+title: "MutationObserver.TakeRecords"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος MutationObserver TakeRecords. Η μέθοδος επιστρέφει ένα αντίγραφο της ουράς εγγραφών και στη συνέχεια αδειάζει την ουρά εγγραφών."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.mutations/mutationobserver/takerecords/
 ---
 ## MutationObserver.TakeRecords method
 
-Η μέθοδος επιστρέφει ένα αντίγραφο της ουράς εγγραφής και στη συνέχεια αδειάζει την ουρά εγγραφής.
+Η μέθοδος επιστρέφει ένα αντίγραφο της ουράς εγγραφών και στη συνέχεια αδειάζει την ουρά εγγραφών.
 
 ```csharp
-public IEnumerable<MutationRecord> TakeRecords()
+public IList<MutationRecord> TakeRecords()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αντίγραφο της ουράς εγγραφής.
+Το αντίγραφο της ουράς εγγραφών.
 
 ### Δείτε επίσης
 
 * class [MutationRecord](../../mutationrecord/)
 * class [MutationObserver](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

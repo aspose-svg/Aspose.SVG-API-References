@@ -1,14 +1,14 @@
 ---
-title: XpsDevice.XpsDevice
-second_title: Aspose.SVG για Αναφορά API .NET
-description: XpsDevice κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXpsDevice τάξη.
+title: "XpsDevice"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής XpsDevice. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης XpsDevice"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
-## XpsDevice(ICreateStreamProvider) {#constructor}
+## XpsDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XpsDevice`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`XpsDevice`](../).
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -22,14 +22,14 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XpsDevice`](../) τάξη με απόδοση επιλογών και πάροχο ροής.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`XpsDevice`](../) με επιλογές απόδοσης και πάροχο ροής.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | options | XpsRenderingOptions | Επιλογές απόδοσης. |
-| streamProvider | ICreateStreamProvider | Αντικείμενο που υλοποιεί το[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) διεπαφή |
+| streamProvider | ICreateStreamProvider | Αντικείμενο που υλοποιεί τη διεπαφή [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) |
 
 ### Δείτε επίσης
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(string) {#constructor_5}
+## XpsDevice(*string*) {#constructor_5}
 
-Αρχικοποιεί μια νέα παρουσία του[`XpsDevice`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`XpsDevice`](../).
 
 ```csharp
 public XpsDevice(string file)
@@ -65,14 +65,14 @@ public XpsDevice(string file)
 ### Δείτε επίσης
 
 * class [XpsDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), string*) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`XpsDevice`](../) κλάση με απόδοση επιλογών και όνομα αρχείου εξόδου.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`XpsDevice`](../) με επιλογές απόδοσης και όνομα αρχείου εξόδου.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -87,14 +87,14 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(Stream) {#constructor_4}
+## XpsDevice(*Stream*) {#constructor_4}
 
-Αρχικοποιεί μια νέα παρουσία του[`XpsDevice`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`XpsDevice`](../).
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -102,19 +102,19 @@ public XpsDevice(Stream stream)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Το ρεύμα. |
+| stream | Stream | Η ροή. |
 
 ### Δείτε επίσης
 
 * class [XpsDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), Stream*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`XpsDevice`](../) τάξη με απόδοση επιλογών και ροή εξόδου.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`XpsDevice`](../) με επιλογές απόδοσης και ροή εξόδου.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -129,7 +129,5 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

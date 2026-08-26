@@ -1,14 +1,14 @@
 ---
-title: Event.CurrentTarget
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Event ιδιοκτησία. Χρησιμοποιείται για την ένδειξη τουIEventTarget του οποίουIEventListener s βρίσκονται υπό επεξεργασία. Αυτό είναι ιδιαίτερα χρήσιμο κατά τη λήψη και τη δημιουργία φυσαλίδων.
+title: "Event.CurrentTarget"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η ιδιότητα Event CurrentTarget. Χρησιμοποιείται για να υποδείξει το IEventTarget του οποίου οι IEventListeners επεξεργάζονται αυτή τη στιγμή. Αυτό είναι ιδιαίτερα χρήσιμο κατά τη διάρκεια του capturing και του bubbling."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.events/event/currenttarget/
 ---
 ## Event.CurrentTarget property
 
-Χρησιμοποιείται για την ένδειξη του[`IEventTarget`](../../ieventtarget/) του οποίου[`IEventListener`](../../ieventlistener/) s βρίσκονται υπό επεξεργασία. Αυτό είναι ιδιαίτερα χρήσιμο κατά τη λήψη και τη δημιουργία φυσαλίδων.
+Χρησιμοποιείται για να υποδείξει το [`IEventTarget`](../../ieventtarget/) του οποίου οι [`IEventListener`](../../ieventlistener/)s επεξεργάζονται αυτή τη στιγμή. Αυτό είναι ιδιαίτερα χρήσιμο κατά τη διάρκεια του capturing και του bubbling.
 
 ```csharp
 public EventTarget CurrentTarget { get; }
@@ -18,7 +18,5 @@ public EventTarget CurrentTarget { get; }
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [Event](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../event/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

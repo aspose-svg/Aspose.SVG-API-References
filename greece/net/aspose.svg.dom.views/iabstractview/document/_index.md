@@ -1,20 +1,20 @@
 ---
-title: IAbstractView.Document
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IAbstractView ιδιοκτησία. Η προέλευση DocumentView του οποίου είναι AbstractView.
+title: "IAbstractView.Document"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IAbstractView Document. Η πηγή DocumentView του οποίου αυτό είναι ένα AbstractView."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.views/iabstractview/document/
 ---
 ## IAbstractView.Document property
 
-Η προέλευση DocumentView του οποίου είναι AbstractView.
+Η πηγή DocumentView από την οποία αυτό είναι ένα AbstractView.
 
 ```csharp
 public IDocumentView Document { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το έγγραφο.
 
@@ -22,7 +22,5 @@ public IDocumentView Document { get; }
 
 * interface [IDocumentView](../../idocumentview/)
 * interface [IAbstractView](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Views](../../iabstractview/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

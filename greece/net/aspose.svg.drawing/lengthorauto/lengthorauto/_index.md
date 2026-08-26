@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.LengthOrAuto
-second_title: Aspose.SVG για Αναφορά API .NET
-description: LengthOrAuto κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLengthOrAuto κλάση και ορίζει την κατάσταση σε auto.
+title: "LengthOrAuto"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής LengthOrAuto. Αρχικοποιεί μια νέα περίπτωση της κλάσης LengthOrAuto και ορίζει την κατάσταση σε auto"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`LengthOrAuto`](../) κλάση και ορίζει την κατάσταση σε "auto".
+Αρχικοποιεί μια νέα περίπτωση της κλάσης [`LengthOrAuto`](../) και ορίζει την κατάσταση σε 'auto'.
 
 ```csharp
 public LengthOrAuto()
@@ -17,14 +17,14 @@ public LengthOrAuto()
 ### Δείτε επίσης
 
 * class [LengthOrAuto](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../lengthorauto/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## LengthOrAuto(Length) {#constructor_1}
+## LengthOrAuto(*[Length](../../length/)*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`LengthOrAuto`](../)κλάση και ορίζει την κατάσταση σε 'μήκος'.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LengthOrAuto`](../) και ορίζει την κατάσταση σε 'lenght'.
 
 ```csharp
 public LengthOrAuto(Length length)
@@ -32,13 +32,11 @@ public LengthOrAuto(Length length)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| length | Length | Το μήκος. |
+| μήκος | Length | Το μήκος. |
 
 ### Δείτε επίσης
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../lengthorauto/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

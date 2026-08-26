@@ -1,14 +1,14 @@
 ---
-title: SVGPathSeg.PATHSEG_CURVETO_CUBIC_SMOOTH_ABS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathSeg πεδίο. Αντιστοιχεί σε μια εντολή δεδομένων διαδρομής απόλυτη ομαλή κυβική καμπύλη S.
+title: "SVGPathSeg.PATHSEG_CURVETO_CUBIC_SMOOTH_ABS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVGPathSeg PATHSEG_CURVETO_CUBIC_SMOOTH_ABS. Αντιστοιχεί σε μια απόλυτη ομαλή κυβική εντολή curveto S δεδομένων διαδρομής."
 type: docs
 weight: 80
 url: /el/net/aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_abs/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_CUBIC_SMOOTH_ABS field
 
-Αντιστοιχεί σε μια εντολή δεδομένων διαδρομής "απόλυτη ομαλή κυβική καμπύλη" (S).
+Αντιστοιχεί σε μια "απόλυτη smooth cubic curveto" (S) εντολή δεδομένων διαδρομής.
 
 ```csharp
 public const ushort PATHSEG_CURVETO_CUBIC_SMOOTH_ABS;
@@ -17,7 +17,5 @@ public const ushort PATHSEG_CURVETO_CUBIC_SMOOTH_ABS;
 ### Δείτε επίσης
 
 * class [SVGPathSeg](../)
-* χώρος ονομάτων [Aspose.Svg.Paths](../../svgpathseg/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

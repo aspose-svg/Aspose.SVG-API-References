@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.CSS_VH
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSPrimitiveValue πεδίο. Η τιμή είναι ένα ποσοστό του πλήρους ύψους της θύρας προβολής.
+title: "CSSPrimitiveValue.CSS_VH"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "CSSPrimitiveValue CSS_VH πεδίο. Η τιμή είναι ένα ποσοστό του πλήρους ύψους του παραθύρου προβολής."
 type: docs
-weight: 420
+weight: 430
 url: /el/net/aspose.svg.dom.css/cssprimitivevalue/css_vh/
 ---
 ## CSSPrimitiveValue.CSS_VH field
 
-Η τιμή είναι ένα ποσοστό του πλήρους ύψους της θύρας προβολής.
+Η τιμή είναι ένα ποσοστό του πλήρους ύψους του παραθύρου προβολής.
 
 ```csharp
 public const ushort CSS_VH;
@@ -17,7 +17,5 @@ public const ushort CSS_VH;
 ### Δείτε επίσης
 
 * class [CSSPrimitiveValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

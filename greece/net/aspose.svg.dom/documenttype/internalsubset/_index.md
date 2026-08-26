@@ -1,27 +1,25 @@
 ---
-title: DocumentType.InternalSubset
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentType ιδιοκτησία. Το εσωτερικό υποσύνολο ως συμβολοσειρά ή μηδενικό αν δεν υπάρχει.
+title: "DocumentType.InternalSubset"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα DocumentType InternalSubset. Το εσωτερικό υποσύνολο ως συμβολοσειρά ή null εάν δεν υπάρχει"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/documenttype/internalsubset/
 ---
 ## DocumentType.InternalSubset property
 
-Το εσωτερικό υποσύνολο ως συμβολοσειρά ή μηδενικό αν δεν υπάρχει.
+Το εσωτερικό υποσύνολο ως συμβολοσειρά, ή null εάν δεν υπάρχει.
 
 ```csharp
 public string InternalSubset { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το εσωτερικό υποσύνολο.
 
 ### Δείτε επίσης
 
 * class [DocumentType](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documenttype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

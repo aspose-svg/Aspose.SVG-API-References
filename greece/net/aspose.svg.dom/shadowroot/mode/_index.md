@@ -1,7 +1,7 @@
 ---
-title: ShadowRoot.Mode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ShadowRoot ιδιοκτησία. Λειτουργία στην οποία λειτουργεί αυτό το ShadowRoot.
+title: "ShadowRoot.Mode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ShadowRoot Mode. Λειτουργία στην οποία λειτουργεί αυτό το ShadowRoot"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/shadowroot/mode/
@@ -18,7 +18,5 @@ public ShadowRootMode Mode { get; }
 
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [ShadowRoot](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../shadowroot/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

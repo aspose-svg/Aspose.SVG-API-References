@@ -1,27 +1,25 @@
 ---
-title: Entity.SystemId
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Entity ιδιοκτησία. Το αναγνωριστικό συστήματος που σχετίζεται με την οντότητα εάν καθορίζεται και μηδενίζεται διαφορετικά. Αυτό μπορεί να είναι απόλυτο URI ή όχι.
+title: "Entity.SystemId"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SystemId του Entity. Το σύστημα αναγνωριστικό που συνδέεται με την οντότητα εάν καθοριστεί, διαφορετικά είναι null. Μπορεί να είναι απόλυτο URI ή όχι"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom/entity/systemid/
 ---
 ## Entity.SystemId property
 
-Το αναγνωριστικό συστήματος που σχετίζεται με την οντότητα, εάν καθορίζεται, και μηδενίζεται διαφορετικά. Αυτό μπορεί να είναι απόλυτο URI ή όχι.
+Το σύστημα αναγνωριστικό που σχετίζεται με την οντότητα εάν έχει καθοριστεί, και null διαφορετικά. Αυτό μπορεί να είναι απόλυτο URI ή όχι.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το αναγνωριστικό συστήματος.
 
 ### Δείτε επίσης
 
 * class [Entity](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../entity/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

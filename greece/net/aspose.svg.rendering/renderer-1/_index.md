@@ -1,40 +1,38 @@
 ---
-title: Class RendererTDocument
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.Renderer1TDocument τάξη. Αντιπροσωπεύει μια αφηρημένη κλάση για όλες τις αποδόσεις.
+title: "RendererTSource Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.Renderer1TSource κλάση. Η βασική αφηρημένη κλάση για όλους τους αποδοτές"
 type: docs
-weight: 3000
+weight: 5070
 url: /el/net/aspose.svg.rendering/renderer-1/
 ---
-## Renderer&lt;TDocument&gt; class
+## Renderer<TSource> class
 
-Αντιπροσωπεύει μια αφηρημένη κλάση για όλες τις αποδόσεις.
+Η βασική αφηρημένη κλάση για όλους τους renderers.
 
 ```csharp
-public abstract class Renderer<TDocument> : Renderer
+public abstract class Renderer<TSource> : Renderer
 ```
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| TDocument | Το είδος του εγγράφου. |
+| TSource | Ο τύπος της πηγής. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_3)(IDevice, TDocument) | Ορίζει τη μέθοδο απόδοσης!:TDocument σε καθορισμένο[`IDevice`](../idevice/) . |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_6)(IDevice, params TDocument[]) | Καθορίζει τη μέθοδο απόδοσης πολλαπλών!:TDocument s σε συγκεκριμένα[`IDevice`](../idevice/) . |
-| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_1)(IDevice, CancellationToken, params TDocument[]) | Καθορίζει μια μέθοδο για την απόδοση πολλαπλών!:TDocument s σε ένα συγκεκριμένο[`IDevice`](../idevice/) , χρησιμοποιώντας ένα διακριτικό ακύρωσης για να ζητήσετε ακύρωση της λειτουργίας. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render)(IDevice, int, params TDocument[]) | Καθορίζει τη μέθοδο απόδοσης πολλαπλών!:TDocument s σε συγκεκριμένα[`IDevice`](../idevice/) . |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_4)(IDevice, TDocument, int) | Ορίζει τη μέθοδο απόδοσης!:TDocument σε καθορισμένο[`IDevice`](../idevice/) . |
-| [Render](../../aspose.svg.rendering/renderer-1/render/#render_5)(IDevice, TDocument, TimeSpan) | Ορίζει τη μέθοδο απόδοσης!:TDocument σε καθορισμένο[`IDevice`](../idevice/) . |
-| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_2)(IDevice, TimeSpan, params TDocument[]) | Καθορίζει τη μέθοδο απόδοσης πολλαπλών!:TDocument s σε συγκεκριμένα[`IDevice`](../idevice/) . |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_3)(*[IDevice](../idevice/), TSource*) | Ορίζει μέθοδο για την απόδοση του *TSource* σε καθορισμένη [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_6)(*[IDevice](../idevice/), params TSource[]*) | Ορίζει μέθοδο για την απόδοση πολλαπλών *TSource*s σε συγκεκριμένη [`IDevice`](../idevice/). |
+| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_1)(*[IDevice](../idevice/), CancellationToken, params TSource[]*) | Ορίζει μέθοδο για την απόδοση πολλαπλών *TSource*s σε συγκεκριμένη [`IDevice`](../idevice/), χρησιμοποιώντας ένα token ακύρωσης για να ζητήσει την ακύρωση της λειτουργίας. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render)(*[IDevice](../idevice/), int, params TSource[]*) | Ορίζει μέθοδο για την απόδοση πολλαπλών *TSource*s σε συγκεκριμένη [`IDevice`](../idevice/). |
+| abstract [Render](../../aspose.svg.rendering/renderer-1/render/#render_2)(*[IDevice](../idevice/), TimeSpan, params TSource[]*) | Ορίζει μέθοδο για την απόδοση πολλαπλών *TSource*s σε συγκεκριμένη [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_4)(*[IDevice](../idevice/), TSource, int*) | Ορίζει μέθοδο για την απόδοση του *TSource* σε καθορισμένη [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer-1/render/#render_5)(*[IDevice](../idevice/), TSource, TimeSpan*) | Ορίζει μέθοδο για την απόδοση του *TSource* σε καθορισμένη [`IDevice`](../idevice/). |
 
 ### Δείτε επίσης
 
 * class [Renderer](../renderer/)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

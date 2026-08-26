@@ -1,7 +1,7 @@
 ---
-title: ContentTypeHeaderValue.CharSet
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ContentTypeHeaderValue ιδιοκτησία. Λαμβάνει ή ορίζει το σύνολο χαρακτήρων για το περιεχόμενο.
+title: "ContentTypeHeaderValue.CharSet"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ContentTypeHeaderValue CharSet property. Λαμβάνει ή ορίζει το σύνολο χαρακτήρων για το περιεχόμενο"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net.headers/contenttypeheadervalue/charset/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.net.headers/contenttypeheadervalue/charset/
 public string CharSet { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το σύνολο χαρακτήρων.
 
 ### Δείτε επίσης
 
 * class [ContentTypeHeaderValue](../)
-* χώρος ονομάτων [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

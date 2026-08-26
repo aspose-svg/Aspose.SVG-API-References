@@ -1,20 +1,20 @@
 ---
-title: Page.Margin
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Page ιδιοκτησία. Λαμβάνει ή ορίζει το περιθώριο σελίδας.
+title: "Page.Margin"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Page Margin. Λαμβάνει ή ορίζει το περιθώριο της σελίδας."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/page/margin/
 ---
 ## Page.Margin property
 
-Λαμβάνει ή ορίζει το περιθώριο σελίδας.
+Λαμβάνει ή ορίζει το περιθώριο της σελίδας.
 
 ```csharp
 public Margin Margin { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το περιθώριο.
 
@@ -22,7 +22,5 @@ public Margin Margin { get; set; }
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../page/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

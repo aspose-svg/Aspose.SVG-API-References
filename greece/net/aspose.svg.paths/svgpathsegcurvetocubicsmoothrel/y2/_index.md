@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegCurvetoCubicSmoothRel.Y2
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathSegCurvetoCubicSmoothRel ιδιοκτησία. Η σχετική συντεταγμένη Y για το δεύτερο σημείο ελέγχου.
+title: "SVGPathSegCurvetoCubicSmoothRel.Y2"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGPathSegCurvetoCubicSmoothRel Y2. Η σχετική συντεταγμένη Y για το δεύτερο σημείο ελέγχου"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/
@@ -14,20 +14,18 @@ url: /el/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/
 public float Y2 { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η σχετική συντεταγμένη Υ.
+Η σχετική συντεταγμένη Y.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGPathSegCurvetoCubicSmoothRel](../)
-* χώρος ονομάτων [Aspose.Svg.Paths](../../svgpathsegcurvetocubicsmoothrel/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

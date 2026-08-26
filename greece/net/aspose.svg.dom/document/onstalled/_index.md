@@ -1,14 +1,14 @@
 ---
-title: Document.OnStalled
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnStalled.
+title: "Document.OnStalled"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document συμβάν OnStalled. Λαμβάνει ή ορίζει τον χειριστή του συμβάντος OnStalled"
 type: docs
 weight: 720
 url: /el/net/aspose.svg.dom/document/onstalled/
 ---
 ## Document.OnStalled event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnStalled.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnStalled.
 
 ```csharp
 public event DOMEventHandler OnStalled;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnStalled;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: RequestHeaders.RequestHeaders
-second_title: Aspose.SVG για Αναφορά API .NET
-description: RequestHeaders κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "RequestHeaders"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής RequestHeaders. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/requestheaders/requestheaders/
@@ -17,7 +17,5 @@ public RequestHeaders()
 ### Δείτε επίσης
 
 * class [RequestHeaders](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../requestheaders/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

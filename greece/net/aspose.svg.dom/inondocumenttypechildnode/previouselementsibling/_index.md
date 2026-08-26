@@ -1,28 +1,26 @@
 ---
-title: INonDocumentTypeChildNode.PreviousElementSibling
-second_title: Aspose.SVG για Αναφορά API .NET
-description: INonDocumentTypeChildNode ιδιοκτησία. Επιστρέφει το πρώτο προηγούμενο αδερφάκι που είναι στοιχείο και μηδενίζει διαφορετικά.
+title: "INonDocumentTypeChildNode.PreviousElementSibling"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα INonDocumentTypeChildNode PreviousElementSibling. Επιστρέφει τον πρώτο προηγούμενο αδερφό που είναι στοιχείο και null διαφορετικά"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/
 ---
 ## INonDocumentTypeChildNode.PreviousElementSibling property
 
-Επιστρέφει το πρώτο προηγούμενο αδερφάκι που είναι στοιχείο και μηδενίζει διαφορετικά.
+Επιστρέφει τον πρώτο αδελφό που προηγείται και είναι στοιχείο, και null διαφορετικά.
 
 ```csharp
 public Element PreviousElementSibling { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το προηγούμενο στοιχείο αδελφός.
+Ο προηγούμενος αδερφός στοιχείου.
 
 ### Δείτε επίσης
 
 * class [Element](../../element/)
 * interface [INonDocumentTypeChildNode](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../inondocumenttypechildnode/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

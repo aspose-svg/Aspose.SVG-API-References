@@ -1,14 +1,14 @@
 ---
-title: ResponseMessage.ResponseMessage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResponseMessage κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουResponseMessage τάξη.
+title: "ResponseMessage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής ResponseMessage. Αρχικοποιεί μια νέα παρουσία της κλάσης ResponseMessage"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/responsemessage/responsemessage/
 ---
 ## ResponseMessage constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`ResponseMessage`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ResponseMessage`](../).
 
 ```csharp
 public ResponseMessage(HttpStatusCode status)
@@ -16,12 +16,10 @@ public ResponseMessage(HttpStatusCode status)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| status | HttpStatusCode | Η κατάσταση. |
+| κατάσταση | HttpStatusCode | Η κατάσταση. |
 
 ### Δείτε επίσης
 
 * class [ResponseMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../responsemessage/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

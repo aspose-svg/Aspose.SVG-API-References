@@ -1,14 +1,14 @@
 ---
-title: Color.WithAlpha
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Δημιουργεί αντίγραφο του χρώματος με καθορισμένο στοιχείο άλφα.
+title: "Color.WithAlpha"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color WithAlpha. Δημιουργεί αντίγραφο του Color με το καθορισμένο συστατικό alpha"
 type: docs
 weight: 450
 url: /el/net/aspose.svg.drawing/color/withalpha/
 ---
 ## Color.WithAlpha method
 
-Δημιουργεί αντίγραφο του χρώματος με καθορισμένο στοιχείο άλφα.
+Δημιουργεί αντίγραφο του Color με το καθορισμένο συστατικό alpha.
 
 ```csharp
 public Color WithAlpha(float alpha)
@@ -16,16 +16,14 @@ public Color WithAlpha(float alpha)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| alpha | Single | Αξία του στοιχείου Alpha |
+| άλφα | Single | Τιμή του συστατικού Alpha |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

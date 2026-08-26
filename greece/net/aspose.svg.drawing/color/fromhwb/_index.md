@@ -1,14 +1,14 @@
 ---
-title: Color.FromHwb
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα νέο χρώμα με τις ζητούμενες τιμές απόχρωσης λευκότητας μαύρου χρώματος.
+title: "Color.FromHwb"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος Color FromHwb. Επιστρέφει ένα νέο Color με τις ζητούμενες τιμές απόχρωσης, λευκότητας και σκοτεινότητας."
 type: docs
 weight: 90
 url: /el/net/aspose.svg.drawing/color/fromhwb/
 ---
 ## Color.FromHwb method
 
-Επιστρέφει ένα νέο χρώμα με τις ζητούμενες τιμές απόχρωσης, λευκότητας, μαύρου χρώματος.
+Επιστρέφει ένα νέο Χρώμα με τις ζητούμενες τιμές απόχρωση, λευκότητα, μαυρότητα.
 
 ```csharp
 public static Color FromHwb(float hue, float whiteness, float blackness)
@@ -16,18 +16,16 @@ public static Color FromHwb(float hue, float whiteness, float blackness)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| hue | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο απόχρωσης του χρώματος. |
-| whiteness | Single | Ένας πλωτήρας που αντιπροσωπεύει το συστατικό λευκότητας του χρώματος. |
-| blackness | Single | Ένας πλωτήρας που αντιπροσωπεύει το συστατικό μαύρου χρώματος. |
+| hue | Single | Μια float που αντιπροσωπεύει το συστατικό απόχρωσης του χρώματος. |
+| λευκότητα | Single | Ένα float που αντιπροσωπεύει το συστατικό λευκότητας του χρώματος. |
+| σκοτεινότητα | Single | Μια τιμή float που αντιπροσωπεύει το συστατικό της σκοτεινότητας του χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

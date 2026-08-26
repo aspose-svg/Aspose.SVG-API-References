@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Suffix
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSCounterStyleRule ιδιοκτησία. Παίρνει το επίθημα.
+title: "ICSSCounterStyleRule.Suffix"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Suffix του ICSSCounterStyleRule. Λαμβάνει το επίθημα"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom.css/icsscounterstylerule/suffix/
 ---
 ## ICSSCounterStyleRule.Suffix property
 
-Παίρνει το επίθημα.
+Λαμβάνει το επίθημα.
 
 ```csharp
 public string Suffix { get; }
@@ -17,7 +17,5 @@ public string Suffix { get; }
 ### Δείτε επίσης
 
 * interface [ICSSCounterStyleRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

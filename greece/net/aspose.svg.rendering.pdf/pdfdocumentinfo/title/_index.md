@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Title
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfDocumentInfo ιδιοκτησία. Ο τίτλος του εγγράφου.
+title: "PdfDocumentInfo.Title"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PdfDocumentInfo Title. Ο τίτλος του εγγράφου"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.rendering.pdf/pdfdocumentinfo/title/
@@ -17,7 +17,5 @@ public string Title { get; set; }
 ### Δείτε επίσης
 
 * class [PdfDocumentInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

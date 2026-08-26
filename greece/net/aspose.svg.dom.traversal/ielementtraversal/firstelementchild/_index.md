@@ -1,28 +1,26 @@
 ---
-title: IElementTraversal.FirstElementChild
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IElementTraversal ιδιοκτησία. Επιστρέφει τον πρώτο κόμβο θυγατρικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει θυγατρικά στοιχεία.
+title: "IElementTraversal.FirstElementChild"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IElementTraversal FirstElementChild property. Επιστρέφει τον πρώτο παιδικό κόμβο στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει παιδικά στοιχεία"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.traversal/ielementtraversal/firstelementchild/
 ---
 ## IElementTraversal.FirstElementChild property
 
-Επιστρέφει τον πρώτο κόμβο θυγατρικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει θυγατρικά στοιχεία.
+Επιστρέφει τον πρώτο κόμβο παιδικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει παιδικά στοιχεία.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πρώτο στοιχείο παιδί.
+Το πρώτο παιδικό στοιχείο.
 
 ### Δείτε επίσης
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

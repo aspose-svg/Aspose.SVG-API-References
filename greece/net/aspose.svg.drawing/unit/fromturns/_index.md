@@ -1,14 +1,14 @@
 ---
-title: Unit.FromTurns
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αAngle αντικείμενο που αναπαρίσταται σε στροφές.
+title: "Unit.FromTurns"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Unit FromTurns μέθοδος. Επιστρέφει ένα αντικείμενο Angle που αντιπροσωπεύεται σε περιστροφές"
 type: docs
 weight: 220
 url: /el/net/aspose.svg.drawing/unit/fromturns/
 ---
 ## Unit.FromTurns method
 
-Επιστρέφει α[`Angle`](../../angle/) αντικείμενο που αναπαρίσταται σε στροφές.
+Επιστρέφει ένα αντικείμενο [`Angle`](../../angle/) που αντιπροσωπεύεται σε περιστροφές.
 
 ```csharp
 public static Angle FromTurns(double value)
@@ -16,17 +16,15 @@ public static Angle FromTurns(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Angle`](../../angle/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Angle`](../../angle/).
 
 ### Δείτε επίσης
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

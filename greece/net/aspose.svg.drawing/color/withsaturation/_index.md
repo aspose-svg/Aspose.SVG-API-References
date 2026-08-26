@@ -1,14 +1,14 @@
 ---
-title: Color.WithSaturation
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Δημιουργεί αντίγραφο του χρώματος με καθορισμένο κορεσμό.
+title: "Color.WithSaturation"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color WithSaturation. Δημιουργεί αντίγραφο του Color με τον καθορισμένο κορεσμό."
 type: docs
 weight: 480
 url: /el/net/aspose.svg.drawing/color/withsaturation/
 ---
 ## Color.WithSaturation method
 
-Δημιουργεί αντίγραφο του χρώματος με καθορισμένο κορεσμό.
+Δημιουργεί αντίγραφο του Color με τον καθορισμένο κορεσμό.
 
 ```csharp
 public Color WithSaturation(float saturation)
@@ -16,16 +16,14 @@ public Color WithSaturation(float saturation)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| saturation | Single | Τιμή κορεσμού. |
+| saturation | Single | Τιμή του κορεσμού. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-&gt;Ένα νέο παράδειγμα του[`Color`](../) τάξη.
+&gt;Μια νέα παρουσία της κλάσης [`Color`](../).
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

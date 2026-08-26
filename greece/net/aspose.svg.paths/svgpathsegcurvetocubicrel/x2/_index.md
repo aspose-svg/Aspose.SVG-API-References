@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegCurvetoCubicRel.X2
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathSegCurvetoCubicRel ιδιοκτησία. Η σχετική συντεταγμένη Χ για το δεύτερο σημείο ελέγχου.
+title: "SVGPathSegCurvetoCubicRel.X2"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGPathSegCurvetoCubicRel X2 ιδιότητα. Η σχετική συντεταγμένη X για το δεύτερο σημείο ελέγχου"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.paths/svgpathsegcurvetocubicrel/x2/
 ---
 ## SVGPathSegCurvetoCubicRel.X2 property
 
-Η σχετική συντεταγμένη Χ για το δεύτερο σημείο ελέγχου.
+Η σχετική συντεταγμένη X για το δεύτερο σημείο ελέγχου.
 
 ```csharp
 public float X2 { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η σχετική συντεταγμένη Χ
+Η σχετική συντεταγμένη X
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGPathSegCurvetoCubicRel](../)
-* χώρος ονομάτων [Aspose.Svg.Paths](../../svgpathsegcurvetocubicrel/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Attr.Name
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Attr ιδιοκτησία. Επιστρέφει το όνομα αυτού του χαρακτηριστικού.
+title: "Attr.Name"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Attr Name. Επιστρέφει το όνομα αυτού του χαρακτηριστικού"
 type: docs
-weight: 30
+weight: 20
 url: /el/net/aspose.svg.dom/attr/name/
 ---
 ## Attr.Name property
@@ -17,7 +17,5 @@ public string Name { get; }
 ### Δείτε επίσης
 
 * class [Attr](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../attr/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

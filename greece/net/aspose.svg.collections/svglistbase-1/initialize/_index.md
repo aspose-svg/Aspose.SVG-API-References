@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.Initialize
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGListBase μέθοδος. Διαγράφει όλα τα υπάρχοντα τρέχοντα στοιχεία από τη λίστα και αρχικοποιεί ξανά τη λίστα για να κρατήσει το μεμονωμένο στοιχείο που καθορίζεται από την παράμετρο.
+title: "SVGListBase-1.Initialize"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Initialize του SVGListBase. Καθαρίζει όλα τα υπάρχοντα τρέχοντα στοιχεία από τη λίστα και επανεκκινεί τη λίστα ώστε να περιέχει το μοναδικό στοιχείο που καθορίζεται από την παράμετρο"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.collections/svglistbase-1/initialize/
 ---
-## SVGListBase&lt;T&gt;.Initialize method
+## SVGListBase<T>.Initialize method
 
-Διαγράφει όλα τα υπάρχοντα τρέχοντα στοιχεία από τη λίστα και αρχικοποιεί ξανά τη λίστα για να κρατήσει το μεμονωμένο στοιχείο που καθορίζεται από την παράμετρο.
+Καθαρίζει όλα τα υπάρχοντα τρέχοντα στοιχεία από τη λίστα και επανεκκινεί τη λίστα ώστε να περιέχει το μοναδικό στοιχείο που καθορίζεται από την παράμετρο.
 
 ```csharp
 public T Initialize(T newItem)
@@ -16,22 +16,20 @@ public T Initialize(T newItem)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| newItem | T | Το στοιχείο που πρέπει να γίνει το μοναδικό μέλος της λίστας. |
+| newItem | T | Το στοιχείο που θα γίνει το μοναδικό μέλος της λίστας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το στοιχείο που εισάγεται στη λίστα.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Αυξάνεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
 
 ### Δείτε επίσης
 
 * class [SVGListBase&lt;T&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../svglistbase-1/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

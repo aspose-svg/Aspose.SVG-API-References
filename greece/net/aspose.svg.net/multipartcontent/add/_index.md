@@ -1,14 +1,14 @@
 ---
-title: MultipartContent.Add
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MultipartContent μέθοδος. Προσθήκη νέου περιεχομένου στοMultipartContent
+title: "MultipartContent.Add"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Add του MultipartContent. Προσθέτει νέο περιεχόμενο στο MultipartContent."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net/multipartcontent/add/
 ---
 ## MultipartContent.Add method
 
-Προσθήκη νέου περιεχομένου στο[`MultipartContent`](../)
+Προσθέτει νέο περιεχόμενο στο [`MultipartContent`](../).
 
 ```csharp
 public virtual void Add(Content content)
@@ -16,13 +16,11 @@ public virtual void Add(Content content)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| content | Content | Περιεχόμενο που πρέπει να προστεθεί στο[`MultipartContent`](../) |
+| content | Content | Περιεχόμενο που θα προστεθεί στο [`MultipartContent`](../). |
 
 ### Δείτε επίσης
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartcontent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

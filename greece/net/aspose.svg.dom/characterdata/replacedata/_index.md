@@ -1,14 +1,14 @@
 ---
-title: CharacterData.ReplaceData
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CharacterData μέθοδος. Αντικαταστήστε τους χαρακτήρες που ξεκινούν από την καθορισμένη μετατόπιση μονάδας 16 bit με την καθορισμένη συμβολοσειρά.
+title: "CharacterData.ReplaceData"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος CharacterData ReplaceData. Αντικαθιστά τους χαρακτήρες που ξεκινούν από την καθορισμένη μετατόπιση 16-bit μονάδας με τη συγκεκριμένη συμβολοσειρά."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom/characterdata/replacedata/
 ---
 ## CharacterData.ReplaceData method
 
-Αντικαταστήστε τους χαρακτήρες που ξεκινούν από την καθορισμένη μετατόπιση μονάδας 16 bit με την καθορισμένη συμβολοσειρά.
+Αντικαθιστά τους χαρακτήρες που ξεκινούν στην καθορισμένη μετατόπιση 16-bit μονάδων με τη συγκεκριμένη συμβολοσειρά.
 
 ```csharp
 public virtual void ReplaceData(int offset, int count, string data)
@@ -17,13 +17,11 @@ public virtual void ReplaceData(int offset, int count, string data)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | offset | Int32 | Το offset. |
-| count | Int32 | Το μέτρημα. |
-| data | String | Τα δεδομένα περιεχομένου. |
+| count | Int32 | Ο αριθμός. |
+| δεδομένα | String | Τα δεδομένα περιεχομένου. |
 
 ### Δείτε επίσης
 
 * class [CharacterData](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../characterdata/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

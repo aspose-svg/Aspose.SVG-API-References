@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.TryGetValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationObserverInit μέθοδος. Λαμβάνει την τιμή που σχετίζεται με το καθορισμένο κλειδί.
+title: "MutationObserverInit.TryGetValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος MutationObserverInit TryGetValue. Λαμβάνει την τιμή που σχετίζεται με το καθορισμένο κλειδί"
 type: docs
 weight: 210
 url: /el/net/aspose.svg.dom.mutations/mutationobserverinit/trygetvalue/
 ---
 ## MutationObserverInit.TryGetValue method
 
-Λαμβάνει την τιμή που σχετίζεται με το καθορισμένο κλειδί.
+Επιστρέφει την τιμή που συσχετίζεται με το συγκεκριμένο κλειδί.
 
 ```csharp
 public bool TryGetValue(string key, out object value)
@@ -16,17 +16,15 @@ public bool TryGetValue(string key, out object value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Το κλειδί της αξίας για να πάρει. |
-| value | Object& | Όταν αυτή η μέθοδος επιστρέφει, περιέχει την τιμή που σχετίζεται με το καθορισμένο κλειδί, εάν το κλειδί βρεθεί. διαφορετικά μηδενική. |
+| κλειδί | String | Το κλειδί της τιμής για λήψη. |
+| τιμή | Object& | Όταν αυτή η μέθοδος επιστρέφει, περιέχει την τιμή που σχετίζεται με το καθορισμένο κλειδί, εάν το κλειδί βρεθεί· διαφορετικά null. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αλήθεια αν το[`MutationObserverInit`](../) περιέχει ένα καθορισμένο κλειδί. διαφορετικά, ψευδής.
+True εάν η [`MutationObserverInit`](../) περιέχει ένα συγκεκριμένο κλειδί· διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [MutationObserverInit](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

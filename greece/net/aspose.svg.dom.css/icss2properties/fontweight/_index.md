@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.FontWeight
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας fontweight στο CSS2.
+title: "ICSS2Properties.FontWeight"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties FontWeight ιδιότητα. Δείτε τον ορισμό της ιδιότητας font-weight στο CSS2"
 type: docs
 weight: 540
 url: /el/net/aspose.svg.dom.css/icss2properties/fontweight/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/fontweight/
 public string FontWeight { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα βάρους γραμματοσειράς
+font-weight ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

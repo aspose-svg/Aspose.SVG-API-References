@@ -1,14 +1,14 @@
 ---
-title: IDevice.BeginPage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Ξεκινά η απόδοση της νέας σελίδας.
+title: "IDevice.BeginPage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice BeginPage μέθοδος. Ξεκινά την απόδοση της νέας σελίδας."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.rendering/idevice/beginpage/
 ---
 ## IDevice.BeginPage method
 
-Ξεκινά η απόδοση της νέας σελίδας.
+Ξεκινά την απόδοση της νέας σελίδας.
 
 ```csharp
 public void BeginPage(SizeF size)
@@ -16,12 +16,10 @@ public void BeginPage(SizeF size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | SizeF | Μέγεθος σελίδας. |
+| μέγεθος | SizeF | Μέγεθος της σελίδας. |
 
 ### Δείτε επίσης
 
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

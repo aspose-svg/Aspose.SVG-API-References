@@ -1,7 +1,7 @@
 ---
-title: CSSPrimitiveValue.CSS_DIMENSION
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSPrimitiveValue πεδίο. Η τιμή είναι ένας αριθμός με άγνωστη διάσταση. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getFloatValue.
+title: "CSSPrimitiveValue.CSS_DIMENSION"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "CSSPrimitiveValue CSS_DIMENSION field. Η τιμή είναι ένας αριθμός με άγνωστη διάσταση. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getFloatValue."
 type: docs
 weight: 160
 url: /el/net/aspose.svg.dom.css/cssprimitivevalue/css_dimension/
@@ -17,7 +17,5 @@ public const ushort CSS_DIMENSION;
 ### Δείτε επίσης
 
 * class [CSSPrimitiveValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

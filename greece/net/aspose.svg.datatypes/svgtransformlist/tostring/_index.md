@@ -1,27 +1,25 @@
 ---
-title: SVGTransformList.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGTransformList μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "SVGTransformList.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGTransformList ToString μέθοδος. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.datatypes/svgtransformlist/tostring/
 ---
 ## SVGTransformList.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [SVGTransformList](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

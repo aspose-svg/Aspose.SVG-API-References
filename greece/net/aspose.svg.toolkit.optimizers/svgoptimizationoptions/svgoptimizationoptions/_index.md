@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.SVGOptimizationOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGOptimizationOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSVGOptimizationOptions τάξη.
+title: "SVGOptimizationOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGOptimizationOptions constructor. Initializes a new instance of the SVGOptimizationOptions class"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/svgoptimizationoptions/
 ---
 ## SVGOptimizationOptions constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGOptimizationOptions`](../) τάξη.
+Κατασκευαστής SVGOptimizationOptions. Αρχικοποιεί ένα νέο αντίγραφο της κλάσης SVGOptimizationOptions.
 
 ```csharp
 public SVGOptimizationOptions()
@@ -17,7 +17,5 @@ public SVGOptimizationOptions()
 ### Δείτε επίσης
 
 * class [SVGOptimizationOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

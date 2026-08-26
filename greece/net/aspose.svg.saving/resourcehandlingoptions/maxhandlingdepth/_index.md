@@ -1,14 +1,14 @@
 ---
-title: ResourceHandlingOptions.MaxHandlingDepth
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResourceHandlingOptions ιδιοκτησία. Λαμβάνει ή ορίζει το μέγιστο βάθος των σελίδων που θα χειριστούν. Βάθος 1 σημαίνει ότι θα γίνεται χειρισμός μόνο των σελίδων που αναφέρονται απευθείας από το αποθηκευμένο έγγραφο. Η ρύθμιση αυτής της ιδιότητας σε 1 θα οδηγήσει στον χειρισμό όλων των σελίδων. Η προεπιλεγμένη τιμή είναι 0.
+title: "ResourceHandlingOptions.MaxHandlingDepth"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MaxHandlingDepth του ResourceHandlingOptions. Λαμβάνει ή ορίζει το μέγιστο βάθος των σελίδων που θα υποβληθούν σε επεξεργασία. Βάθος 1 σημαίνει ότι θα υποβληθούν σε επεξεργασία μόνο οι σελίδες που αναφέρονται άμεσα από το αποθηκευμένο έγγραφο. Ορισμός αυτής της ιδιότητας σε -1 οδηγεί στην επεξεργασία όλων των σελίδων. Η προεπιλεγμένη τιμή είναι 0"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.saving/resourcehandlingoptions/maxhandlingdepth/
 ---
 ## ResourceHandlingOptions.MaxHandlingDepth property
 
-Λαμβάνει ή ορίζει το μέγιστο βάθος των σελίδων που θα χειριστούν. Βάθος 1 σημαίνει ότι θα γίνεται χειρισμός μόνο των σελίδων που αναφέρονται απευθείας από το αποθηκευμένο έγγραφο. Η ρύθμιση αυτής της ιδιότητας σε -1 θα οδηγήσει στον χειρισμό όλων των σελίδων. Η προεπιλεγμένη τιμή είναι 0.
+Λαμβάνει ή ορίζει το μέγιστο βάθος των σελίδων που θα υποβληθούν σε επεξεργασία. Βάθος 1 σημαίνει ότι θα υποβληθούν σε επεξεργασία μόνο οι σελίδες που αναφέρονται άμεσα από το αποθηκευμένο έγγραφο. Ορίζοντας αυτήν την ιδιότητα σε -1 θα γίνει επεξεργασία όλων των σελίδων. Η προεπιλεγμένη τιμή είναι 0.
 
 ```csharp
 public int MaxHandlingDepth { get; set; }
@@ -17,7 +17,5 @@ public int MaxHandlingDepth { get; set; }
 ### Δείτε επίσης
 
 * class [ResourceHandlingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

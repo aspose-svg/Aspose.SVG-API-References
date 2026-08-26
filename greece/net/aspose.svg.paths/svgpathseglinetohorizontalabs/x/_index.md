@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegLinetoHorizontalAbs.X
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathSegLinetoHorizontalAbs ιδιοκτησία. Η απόλυτη συντεταγμένη Χ για το τελικό σημείο αυτού του τμήματος διαδρομής.
+title: "SVGPathSegLinetoHorizontalAbs.X"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGPathSegLinetoHorizontalAbs X. Η απόλυτη συντεταγμένη X για το σημείο λήξης αυτού του τμήματος διαδρομής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.paths/svgpathseglinetohorizontalabs/x/
 ---
 ## SVGPathSegLinetoHorizontalAbs.X property
 
-Η απόλυτη συντεταγμένη Χ για το τελικό σημείο αυτού του τμήματος διαδρομής.
+Η απόλυτη συντεταγμένη X για το σημείο τερματισμού αυτού του τμήματος διαδρομής.
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η απόλυτη συντεταγμένη Χ
+Η απόλυτη συντεταγμένη X
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGPathSegLinetoHorizontalAbs](../)
-* χώρος ονομάτων [Aspose.Svg.Paths](../../svgpathseglinetohorizontalabs/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

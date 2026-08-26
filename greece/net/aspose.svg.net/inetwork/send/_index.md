@@ -1,14 +1,14 @@
 ---
-title: INetwork.Send
-second_title: Aspose.SVG για Αναφορά API .NET
-description: INetwork μέθοδος. Στέλνει αRequestMessage μήνυμα.
+title: "INetwork.Send"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος INetwork Send. Στέλνει ένα μήνυμα RequestMessage."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/inetwork/send/
 ---
 ## INetwork.Send method
 
-Στέλνει α[`RequestMessage`](../../requestmessage/) μήνυμα.
+Στέλνει ένα μήνυμα [`RequestMessage`](../../requestmessage/).
 
 ```csharp
 public ResponseMessage Send(RequestMessage message)
@@ -16,18 +16,16 @@ public ResponseMessage Send(RequestMessage message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | RequestMessage | Το μήνυμα που πρέπει να στείλετε. |
+| μήνυμα | RequestMessage | Το μήνυμα προς αποστολή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΕΝΑ[`ResponseMessage`](../../responsemessage/) μήνυμα
+Ένα μήνυμα [`ResponseMessage`](../../responsemessage/)
 
 ### Δείτε επίσης
 
 * class [ResponseMessage](../../responsemessage/)
 * class [RequestMessage](../../requestmessage/)
 * interface [INetwork](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../inetwork/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

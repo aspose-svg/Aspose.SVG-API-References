@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfDocumentInfo ιδιοκτησία. Λέξειςκλειδιά που σχετίζονται με το έγγραφο.
+title: "PdfDocumentInfo.Keywords"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PdfDocumentInfo Keywords. Λέξεις-κλειδιά που σχετίζονται με το έγγραφο"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.rendering.pdf/pdfdocumentinfo/keywords/
@@ -17,7 +17,5 @@ public string Keywords { get; set; }
 ### Δείτε επίσης
 
 * class [PdfDocumentInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

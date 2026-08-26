@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.SkewX
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMatrix μέθοδος. Μεταπολλαπλασιάζει έναν μετασχηματισμό skewX στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
+title: "SVGMatrix.SkewX"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGMatrix SkewX. Προσθέτει μετά μια μετατροπή skewX στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα"
 type: docs
 weight: 110
 url: /el/net/aspose.svg.datatypes/svgmatrix/skewx/
 ---
 ## SVGMatrix.SkewX method
 
-Μετα-πολλαπλασιάζει έναν μετασχηματισμό skewX στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
+Εκτελεί post-multiply ενός μετασχηματισμού skewX στον τρέχον πίνακα και επιστρέφει τον προκύπτον πίνακα.
 
 ```csharp
 public SVGMatrix SkewX(float angle)
@@ -16,16 +16,14 @@ public SVGMatrix SkewX(float angle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| angle | Single | Γωνία λοξής. |
+| angle | Single | Γωνία παραμόρφωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο προκύπτων πίνακας.
 
 ### Δείτε επίσης
 
 * class [SVGMatrix](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgmatrix/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

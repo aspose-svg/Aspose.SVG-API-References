@@ -1,27 +1,25 @@
 ---
-title: Attr.Prefix
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Attr ιδιοκτησία. Το πρόθεμα χώρου ονομάτων αυτού του κόμβου ή μηδενικό εάν δεν έχει καθοριστεί. Όταν ορίζεται ότι είναι null η ρύθμιση του δεν έχει effect
+title: "Attr.Prefix"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Attr Prefix. Το πρόθεμα ονοματοχώρου αυτού του κόμβου ή null εάν δεν έχει καθοριστεί. Όταν ορίζεται σε null, η ρύθμιση δεν έχει καμία επίδραση."
 type: docs
-weight: 90
+weight: 80
 url: /el/net/aspose.svg.dom/attr/prefix/
 ---
 ## Attr.Prefix property
 
-Το πρόθεμα χώρου ονομάτων αυτού του κόμβου ή μηδενικό εάν δεν έχει καθοριστεί. Όταν ορίζεται ότι είναι null, η ρύθμιση του δεν έχει effect
+Το πρόθεμα χώρου ονομάτων αυτού του κόμβου, ή null εάν δεν έχει οριστεί. Όταν ορίζεται ως null, η ρύθμιση του δεν έχει καμία επίδραση.
 
 ```csharp
 public override string Prefix { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πρόθεμα.
 
 ### Δείτε επίσης
 
 * class [Attr](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../attr/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

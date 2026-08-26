@@ -1,14 +1,14 @@
 ---
-title: Document.OnSubmit
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnSubmit.
+title: "Document.OnSubmit"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Συμβάν Document OnSubmit. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnSubmit."
 type: docs
 weight: 730
 url: /el/net/aspose.svg.dom/document/onsubmit/
 ---
 ## Document.OnSubmit event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnSubmit.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnSubmit.
 
 ```csharp
 public event DOMEventHandler OnSubmit;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSubmit;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

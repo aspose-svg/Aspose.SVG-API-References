@@ -1,14 +1,14 @@
 ---
-title: DocumentFragment.QuerySelectorAll
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentFragment μέθοδος. Επιστρέφει μια NodeList με όλα τα στοιχεία του εγγράφου τα οποία ταιριάζουν με τον selector
+title: "DocumentFragment.QuerySelectorAll"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DocumentFragment QuerySelectorAll method. Επιστρέφει μια NodeList από όλα τα Elements στο έγγραφο που ταιριάζουν με τον selector."
 type: docs
 weight: 130
 url: /el/net/aspose.svg.dom/documentfragment/queryselectorall/
 ---
 ## DocumentFragment.QuerySelectorAll method
 
-Επιστρέφει μια NodeList με όλα τα στοιχεία του εγγράφου, τα οποία ταιριάζουν με τον selector
+Επιστρέφει μια NodeList όλων των Elements στο έγγραφο, που ταιριάζουν με τον selector
 
 ```csharp
 public NodeList QuerySelectorAll(string selector)
@@ -16,9 +16,9 @@ public NodeList QuerySelectorAll(string selector)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| selector | String | Ο επιλογέας |
+| selector | String | Ο selector |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/)
 
@@ -26,7 +26,5 @@ public NodeList QuerySelectorAll(string selector)
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [DocumentFragment](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documentfragment/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathExpression
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.XPath.IXPathExpression διεπαφή. ΤοXPathExpressionΗ διεπαφή αντιπροσωπεύει μια αναλυμένη και επιλυμένη έκφραση XPath.
+title: "IXPathExpression Interface"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.XPath.IXPathExpression interface. Η διεπαφή XPathExpression αντιπροσωπεύει μια αναλυμένη και επιλυμένη έκφραση XPath"
 type: docs
-weight: 1320
+weight: 3320
 url: /el/net/aspose.svg.dom.xpath/ixpathexpression/
 ---
 ## IXPathExpression interface
 
-Το`XPathExpression`Η διεπαφή αντιπροσωπεύει μια αναλυμένη και επιλυμένη έκφραση XPath.
+Η διεπαφή `XPathExpression` αναπαριστά μια αναλυμένη και επιλυμένη έκφραση XPath.
 
 ```csharp
 public interface IXPathExpression
@@ -16,13 +16,11 @@ public interface IXPathExpression
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Evaluate](../../aspose.svg.dom.xpath/ixpathexpression/evaluate/)(Node, XPathResultType, object) | Αξιολογεί αυτήν την έκφραση XPath και επιστρέφει ένα αποτέλεσμα. |
+| [Evaluate](../../aspose.svg.dom.xpath/ixpathexpression/evaluate/)(*[Node](../../aspose.svg.dom/node/), [XPathResultType](../xpathresulttype/), object*) | Αξιολογεί αυτήν την έκφραση XPath και επιστρέφει ένα αποτέλεσμα. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

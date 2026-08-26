@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Position
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας θέσης στο CSS2.
+title: "ICSS2Properties.Position"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Position του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας position στο CSS2"
 type: docs
-weight: 950
+weight: 980
 url: /el/net/aspose.svg.dom.css/icss2properties/position/
 ---
 ## ICSS2Properties.Position property
 
-Δείτε τον ορισμό της ιδιότητας θέσης στο CSS2.
+Δείτε τον ορισμό της ιδιότητας position στο CSS2.
 
 ```csharp
 public string Position { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα θέσης
+ιδιότητα position
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

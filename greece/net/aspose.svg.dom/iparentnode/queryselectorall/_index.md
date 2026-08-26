@@ -1,14 +1,14 @@
 ---
-title: IParentNode.QuerySelectorAll
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IParentNode μέθοδος. Επιστρέφει όλους τους απογόνους στοιχείων του κόμβου που ταιριάζουν με τους επιλογείς.
+title: "IParentNode.QuerySelectorAll"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IParentNode QuerySelectorAll. Επιστρέφει όλα τα στοιχεία απογόνους του κόμβου που ταιριάζουν με τους επιλογείς"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom/iparentnode/queryselectorall/
 ---
 ## IParentNode.QuerySelectorAll method
 
-Επιστρέφει όλους τους απογόνους στοιχείων του κόμβου που ταιριάζουν με τους επιλογείς.
+Επιστρέφει όλους τους απογόνους στοιχείων του node που ταιριάζουν με τους selectors.
 
 ```csharp
 public NodeList QuerySelectorAll(string selectors)
@@ -16,17 +16,15 @@ public NodeList QuerySelectorAll(string selectors)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| selectors | String | Οι επιλογείς. |
+| επιλογείς | String | Οι επιλογείς. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει το στατικό αποτέλεσμα εκτέλεσης αντιστοίχισης εύρους επιλογέων συμβολοσειράς επιλογέων έναντι του αντικειμένου περιβάλλοντος.
+Επιστρέφει το στατικό αποτέλεσμα της εκτέλεσης του scope-match μιας συμβολοσειράς επιλογέων εναντίον του αντικειμένου περιβάλλοντος.
 
 ### Δείτε επίσης
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * interface [IParentNode](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iparentnode/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

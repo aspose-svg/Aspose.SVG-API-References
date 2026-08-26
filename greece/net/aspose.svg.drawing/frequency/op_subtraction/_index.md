@@ -1,7 +1,7 @@
 ---
-title: Frequency.op_Subtraction
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Frequency μέθοδος. Υλοποιεί τον τελεστή .
+title: "Frequency.op_Subtraction"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Frequency op_Subtraction μέθοδος. Υλοποιεί τον τελεστή -"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.drawing/frequency/op_subtraction/
@@ -16,24 +16,22 @@ public static Frequency operator -(Frequency a, Frequency b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Frequency | Η παράμετρος α. |
-| b | Frequency | Η παράμετρος β. |
+| a | Frequency | Η παράμετρος a. |
+| b | Frequency | Η παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | Τα επιχειρήματα είναι μηδενικά |
-| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους or Τα ορίσματα έχουν διαφορετική ανάλυση or |
+| ArgumentNullException | Τα ορίσματα είναι null |
+| ArgumentException | Τα επιχειρήματα έχουν διαφορετικούς τύπους ή Τα επιχειρήματα έχουν διαφορετικές επιλύσεις ή |
 
 ### Δείτε επίσης
 
 * class [Frequency](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../frequency/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

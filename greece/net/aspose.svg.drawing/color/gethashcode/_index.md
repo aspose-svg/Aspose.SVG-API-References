@@ -1,7 +1,7 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού.
+title: "Color.GetHashCode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color GetHashCode. Επιστρέφει έναν κωδικό κατακερματισμού."
 type: docs
 weight: 320
 url: /el/net/aspose.svg.drawing/color/gethashcode/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.drawing/color/gethashcode/
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένας κωδικός κατακερματισμού.
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

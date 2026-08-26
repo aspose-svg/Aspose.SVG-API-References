@@ -1,7 +1,7 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_SKEWX
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGTransform πεδίο. Ένας μετασχηματισμός skewX.
+title: "SVGTransform.SVG_TRANSFORM_SKEWX"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVGTransform SVG_TRANSFORM_SKEWX. Μια μεταστροφή skewX"
 type: docs
 weight: 140
 url: /el/net/aspose.svg.datatypes/svgtransform/svg_transform_skewx/
@@ -17,7 +17,5 @@ public const ushort SVG_TRANSFORM_SKEWX;
 ### Δείτε επίσης
 
 * class [SVGTransform](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgtransform/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

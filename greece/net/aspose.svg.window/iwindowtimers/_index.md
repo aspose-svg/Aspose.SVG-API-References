@@ -1,14 +1,14 @@
 ---
-title: Interface IWindowTimers
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Window.IWindowTimers διεπαφή. Επιτρέπει στους συγγραφείς να προγραμματίζουν επανακλήσεις βάσει χρονοδιακόπτη.
+title: "IWindowTimers Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Window.IWindowTimers. Επιτρέπει στους δημιουργούς να προγραμματίζουν κλήσεις επιστροφής βασισμένες σε χρονομετρητές"
 type: docs
-weight: 3840
+weight: 5940
 url: /el/net/aspose.svg.window/iwindowtimers/
 ---
 ## IWindowTimers interface
 
-Επιτρέπει στους συγγραφείς να προγραμματίζουν επανακλήσεις βάσει χρονοδιακόπτη.
+Επιτρέπει στους δημιουργούς να προγραμματίζουν κλήσεις επιστροφής βασισμένες σε χρονομετρητή.
 
 ```csharp
 public interface IWindowTimers
@@ -16,16 +16,14 @@ public interface IWindowTimers
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval/)(int) | Ακυρώνει το σύνολο χρονικού ορίου με τη setInterval() που προσδιορίζεται από handle |
-| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout/)(int) | Ακυρώνει το καθορισμένο χρονικό όριο λήξης με setTimeout() που προσδιορίζεται από τη λαβή. |
-| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval/)(object, int, params object[]) | Προγραμματίζει ένα χρονικό όριο για την εκτέλεση του προγράμματος χειρισμού κάθε χρονικού ορίου λήξης χιλιοστών του δευτερολέπτου. Τυχόν ορίσματα διαβιβάζονται απευθείας στον χειριστή. |
-| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout/)(object, int, params object[]) | Προγραμματίζει ένα χρονικό όριο για εκτέλεση του προγράμματος χειρισμού μετά από χιλιοστά του δευτερολέπτου χρονικού ορίου. Τυχόν ορίσματα διαβιβάζονται απευθείας στον χειριστή. |
+| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval/)(*int*) | Ακυρώνει το χρονικό όριο που ορίστηκε με setInterval() και προσδιορίζεται από το handle |
+| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout/)(*int*) | Ακυρώνει το χρονικό όριο που ορίστηκε με setTimeout() και προσδιορίζεται από το handle. |
+| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval/)(*object, int, params object[]*) | Προγραμματίζει ένα χρονικό όριο για να εκτελεί τον handler κάθε timeout χιλιοστά του δευτερολέπτου. Όλα τα επιχειρήματα περνούν απευθείας στον handler. |
+| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout/)(*object, int, params object[]*) | Προγραμματίζει ένα χρονικό όριο για να εκτελεί τον handler μετά από timeout χιλιοστά του δευτερολέπτου. Όλα τα επιχειρήματα περνούν απευθείας στον handler. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Window](../../aspose.svg.window/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

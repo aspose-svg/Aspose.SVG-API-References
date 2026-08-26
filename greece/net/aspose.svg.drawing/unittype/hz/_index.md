@@ -1,7 +1,7 @@
 ---
-title: UnitType.Hz
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType πεδίο. Η μέτρηση είναι σε hertz.
+title: "UnitType.Hz"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο UnitType Hz. Η μέτρηση είναι σε hertz"
 type: docs
 weight: 110
 url: /el/net/aspose.svg.drawing/unittype/hz/
@@ -17,7 +17,5 @@ public static readonly UnitType Hz;
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

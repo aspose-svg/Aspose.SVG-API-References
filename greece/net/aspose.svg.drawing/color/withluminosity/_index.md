@@ -1,14 +1,14 @@
 ---
-title: Color.WithLuminosity
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Δημιουργεί αντίγραφο του χρώματος με καθορισμένη φωτεινότητα.
+title: "Color.WithLuminosity"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color WithLuminosity. Δημιουργεί αντίγραφο του Color με την καθορισμένη φωτεινότητα."
 type: docs
 weight: 470
 url: /el/net/aspose.svg.drawing/color/withluminosity/
 ---
 ## Color.WithLuminosity method
 
-Δημιουργεί αντίγραφο του χρώματος με καθορισμένη φωτεινότητα.
+Δημιουργεί αντίγραφο του Color με την καθορισμένη φωτεινότητα.
 
 ```csharp
 public Color WithLuminosity(float luminosity)
@@ -16,16 +16,14 @@ public Color WithLuminosity(float luminosity)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| luminosity | Single | Αξία φωτεινότητας |
+| φωτεινότητα | Single | Τιμή της φωτεινότητας |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη.
+Μια νέα παρουσία της κλάσης [`Color`](../).
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

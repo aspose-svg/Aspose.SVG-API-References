@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedBoolean.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGAnimatedBoolean μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "SVGAnimatedBoolean.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGAnimatedBoolean ToString μέθοδος. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.datatypes/svganimatedboolean/tostring/
 ---
 ## SVGAnimatedBoolean.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedBoolean](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svganimatedboolean/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

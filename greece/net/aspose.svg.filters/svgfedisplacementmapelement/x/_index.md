@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.X
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEDisplacementMapElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό x στο δεδομένο στοιχείο φίλτρο.
+title: "SVGFEDisplacementMapElement.X"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFEDisplacementMapElement X ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό x στο δεδομένο στοιχείο filter"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.filters/svgfedisplacementmapelement/x/
 ---
 ## SVGFEDisplacementMapElement.X property
 
-Αντιστοιχεί στο χαρακτηριστικό "x" στο δεδομένο στοιχείο "φίλτρο".
+Αντιστοιχεί στο χαρακτηριστικό ‘x’ του δεδομένου στοιχείου ‘filter’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό «x» του δεδομένου στοιχείου «φίλτρου».
+Το χαρακτηριστικό ‘x’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDisplacementMapElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

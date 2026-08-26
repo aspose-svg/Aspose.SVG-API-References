@@ -1,14 +1,14 @@
 ---
-title: FontsSettings.SetFontsLookupFolders
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FontsSettings μέθοδος. Ορίζει μια σειρά φακέλων που χρησιμοποιούνται κατά την επιλογή γραμματοσειρών.
+title: "FontsSettings.SetFontsLookupFolders"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος FontsSettings SetFontsLookupFolders. Ορίζει έναν πίνακα φακέλων που χρησιμοποιούνται κατά την επιλογή γραμματοσειρών."
 type: docs
 weight: 40
 url: /el/net/aspose.svg/fontssettings/setfontslookupfolders/
 ---
-## SetFontsLookupFolders(string[]) {#setfontslookupfolders}
+## SetFontsLookupFolders(*string[]*) {#setfontslookupfolders}
 
-Ορίζει μια σειρά φακέλων που χρησιμοποιούνται κατά την επιλογή γραμματοσειρών.
+Ορίζει έναν πίνακα φακέλων που χρησιμοποιούνται κατά την επιλογή γραμματοσειρών.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders)
@@ -21,14 +21,14 @@ public void SetFontsLookupFolders(string[] fontsFolders)
 ### Δείτε επίσης
 
 * class [FontsSettings](../)
-* χώρος ονομάτων [Aspose.Svg](../../fontssettings/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolders(string[], bool) {#setfontslookupfolders_1}
+## SetFontsLookupFolders(*string[], bool*) {#setfontslookupfolders_1}
 
-Ορίζει μια σειρά φακέλων που χρησιμοποιούνται κατά την επιλογή γραμματοσειρών.
+Ορίζει έναν πίνακα φακέλων που χρησιμοποιούνται κατά την επιλογή γραμματοσειρών.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
@@ -37,12 +37,10 @@ public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | fontsFolders | String[] | Οι φάκελοι γραμματοσειρών. |
-| recursive | Boolean | Εάν έχει οριστεί σε`αληθής` θα χρησιμοποιηθούν όλοι οι ένθετοι κατάλογοι. Η προεπιλεγμένη τιμή είναι`ψευδής`. |
+| recursive | Boolean | Εάν οριστεί σε `true`, θα χρησιμοποιηθούν όλοι οι ένθετοι φάκελοι. Η προεπιλεγμένη τιμή είναι `false`. |
 
 ### Δείτε επίσης
 
 * class [FontsSettings](../)
-* χώρος ονομάτων [Aspose.Svg](../../fontssettings/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

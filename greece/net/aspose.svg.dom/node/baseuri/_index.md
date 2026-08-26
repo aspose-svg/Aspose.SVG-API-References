@@ -1,23 +1,33 @@
 ---
-title: Node.BaseURI
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node ιδιοκτησία. Το απόλυτο βασικό URI αυτού του κόμβου ή μηδενικό εάν η υλοποίηση δεν ήταν σε θέση να αποκτήσει ένα απόλυτο URI.
+title: "Node.BaseURI"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Node.BaseURI. Επιστρέφει το απόλυτο βασικό URL του εγγράφου που περιέχει τον κόμβο."
 type: docs
-weight: 20
+weight: 10
 url: /el/net/aspose.svg.dom/node/baseuri/
 ---
 ## Node.BaseURI property
 
-Το απόλυτο βασικό URI αυτού του κόμβου ή μηδενικό εάν η υλοποίηση δεν ήταν σε θέση να αποκτήσει ένα απόλυτο URI.
+Επιστρέφει το απόλυτο βασικό URL του εγγράφου που περιέχει τον κόμβο.
+
+Το βασικό URL χρησιμοποιείται για την επίλυση σχετικών URL όταν το πρόγραμμα περιήγησης χρειάζεται να λάβει ένα απόλυτο URL, για παράδειγμα κατά την επεξεργασία του χαρακτηριστικού src του στοιχείου img σε HTML ή των χαρακτηριστικών xlink:href ή href σε SVG.
 
 ```csharp
 public virtual string BaseURI { get; }
 ```
 
+### Property Value
+
+Ο getter baseURI επιστρέφει το βασικό URL του εγγράφου του κόμβου, σε μορφή serialized.
+
+## Παρατηρήσεις
+
+Αναφορά:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-baseuri).
+
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Size.Width
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Size ιδιοκτησία. Λαμβάνει ή ορίζει το οριζόντιο στοιχείο αυτούSize .
+title: "Size.Width"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Size Width property. Λαμβάνει ή ορίζει το οριζόντιο συστατικό αυτού του Size"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/size/width/
 ---
 ## Size.Width property
 
-Λαμβάνει ή ορίζει το οριζόντιο στοιχείο αυτού[`Size`](../) .
+Λαμβάνει ή ορίζει το οριζόντιο συστατικό αυτού του [`Size`](../).
 
 ```csharp
 public Length Width { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η οριζόντια συνιστώσα αυτού[`Size`](../) .
+Το οριζόντιο συστατικό αυτού του [`Size`](../).
 
 ### Δείτε επίσης
 
 * class [Length](../../length/)
 * class [Size](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../size/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

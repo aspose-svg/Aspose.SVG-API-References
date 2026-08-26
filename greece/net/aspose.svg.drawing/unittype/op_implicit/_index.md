@@ -1,14 +1,14 @@
 ---
-title: UnitType.op_Implicit
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType μέθοδος. Εκτελεί μια σιωπηρή μετατροπή απόString προς τηνUnitType .
+title: "UnitType.op_Implicit"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος UnitType op_Implicit. Εκτελεί μια έμμεση μετατροπή από String σε UnitType"
 type: docs
 weight: 360
 url: /el/net/aspose.svg.drawing/unittype/op_implicit/
 ---
 ## UnitType Implicit operator
 
-Εκτελεί μια σιωπηρή μετατροπή απόString προς την[`UnitType`](../) .
+Εκτελεί μια έμμεση μετατροπή από String σε [`UnitType`](../).
 
 ```csharp
 public static implicit operator UnitType(string value)
@@ -16,16 +16,14 @@ public static implicit operator UnitType(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα της μετατροπής.
 
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

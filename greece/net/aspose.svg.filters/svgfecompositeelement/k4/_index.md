@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.K4
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFECompositeElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό k4 στο δεδομένο στοιχείο feComposite.
+title: "SVGFECompositeElement.K4"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα K4 του SVGFECompositeElement. Αντιστοιχεί στο χαρακτηριστικό k4 στο δοσμένο στοιχείο feComposite"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.filters/svgfecompositeelement/k4/
 ---
 ## SVGFECompositeElement.K4 property
 
-Αντιστοιχεί στο χαρακτηριστικό 'k4' στο δεδομένο στοιχείο 'feComposite'.
+Αντιστοιχεί στο χαρακτηριστικό ‘k4’ στο δεδομένο στοιχείο ‘feComposite’.
 
 ```csharp
 public SVGAnimatedNumber K4 { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "k4" στο δεδομένο στοιχείο "feComposite".
+Το χαρακτηριστικό ‘k4’ στο δοσμένο στοιχείο ‘feComposite’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFECompositeElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

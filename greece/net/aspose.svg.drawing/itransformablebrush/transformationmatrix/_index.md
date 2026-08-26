@@ -1,27 +1,26 @@
 ---
-title: ITransformableBrush.TransformationMatrix
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ITransformableBrush ιδιοκτησία. Λήψη του μετασχηματισμού. Ο μετασχηματισμός ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτό το πινέλο.
+title: "ITransformableBrush.TransformationMatrix"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ITransformableBrush TransformationMatrix. Λαμβάνει τη μετασχηματισμό. Ο μετασχηματισμός ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτή τη βούρτσα"
 type: docs
-weight: 10
+weight: 20
 url: /el/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-Λήψη του μετασχηματισμού. Ο μετασχηματισμός ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτό το πινέλο.
+Λάβετε τον μετασχηματισμό. Ο μετασχηματισμός ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτό το πινέλο.
 
 ```csharp
-public Matrix TransformationMatrix { get; }
+public IMatrix TransformationMatrix { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μετασχηματισμός πίνακα
+Μήτρα μετασχηματισμού
 
 ### Δείτε επίσης
 
+* interface [IMatrix](../../imatrix/)
 * interface [ITransformableBrush](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../itransformablebrush/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

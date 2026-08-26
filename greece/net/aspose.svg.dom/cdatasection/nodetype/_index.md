@@ -1,27 +1,25 @@
 ---
-title: CDATASection.NodeType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CDATASection ιδιοκτησία. Ένας κωδικός που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
+title: "CDATASection.NodeType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα CDATASection NodeType. Κώδικας που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/cdatasection/nodetype/
 ---
 ## CDATASection.NodeType property
 
-Ένας κωδικός που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
+Ένας κώδικας που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
 
 ```csharp
 public override ushort NodeType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του κόμβου.
 
 ### Δείτε επίσης
 
 * class [CDATASection](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../cdatasection/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

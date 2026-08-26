@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Cursor
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας του δρομέα στο CSS2.
+title: "ICSS2Properties.Cursor"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties Cursor ιδιότητα. Δείτε τον ορισμό της ιδιότητας cursor στο CSS2"
 type: docs
 weight: 410
 url: /el/net/aspose.svg.dom.css/icss2properties/cursor/
 ---
 ## ICSS2Properties.Cursor property
 
-Δείτε τον ορισμό της ιδιότητας του δρομέα στο CSS2.
+Δείτε τον ορισμό της ιδιότητας cursor στο CSS2.
 
 ```csharp
 public string Cursor { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα δρομέα
+cursor ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: PdfRenderingOptions.JpegQuality
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfRenderingOptions ιδιοκτησία. Καθορίζει την ποιότητα συμπίεσης JPEG για εικόνες εάν χρησιμοποιείται συμπίεση JPEG. Η προεπιλογή είναι 95.
+title: "PdfRenderingOptions.JpegQuality"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PdfRenderingOptions JpegQuality. Καθορίζει την ποιότητα της συμπίεσης JPEG για εικόνες εάν χρησιμοποιείται συμπίεση JPEG. Η προεπιλογή είναι 95"
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.svg.rendering.pdf/pdfrenderingoptions/jpegquality/
 ---
 ## PdfRenderingOptions.JpegQuality property
 
-Καθορίζει την ποιότητα συμπίεσης JPEG για εικόνες (εάν χρησιμοποιείται συμπίεση JPEG). Η προεπιλογή είναι 95.
+Καθορίζει την ποιότητα της συμπίεσης JPEG για εικόνες (εάν χρησιμοποιείται συμπίεση JPEG). Η προεπιλογή είναι 95.
 
 ```csharp
 public int JpegQuality { get; set; }
@@ -17,7 +17,5 @@ public int JpegQuality { get; set; }
 ### Δείτε επίσης
 
 * class [PdfRenderingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

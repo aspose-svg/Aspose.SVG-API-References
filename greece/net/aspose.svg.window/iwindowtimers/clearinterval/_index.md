@@ -1,14 +1,14 @@
 ---
-title: IWindowTimers.ClearInterval
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IWindowTimers μέθοδος. Ακυρώνει το σύνολο χρονικού ορίου με τη setInterval που προσδιορίζεται από handle
+title: "IWindowTimers.ClearInterval"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IWindowTimers ClearInterval μέθοδος. Ακυρώνει το χρονικό όριο που ορίστηκε με το setInterval και προσδιορίζεται από το handle"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.window/iwindowtimers/clearinterval/
 ---
 ## IWindowTimers.ClearInterval method
 
-Ακυρώνει το σύνολο χρονικού ορίου με τη setInterval() που προσδιορίζεται από handle
+Ακυρώνει το χρονικό όριο που ορίστηκε με setInterval() και προσδιορίζεται από το handle
 
 ```csharp
 public void ClearInterval(int handle)
@@ -16,12 +16,10 @@ public void ClearInterval(int handle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| handle | Int32 | Το χερούλι. |
+| αναγνωριστικό | Int32 | Το αναγνωριστικό. |
 
 ### Δείτε επίσης
 
 * interface [IWindowTimers](../)
-* χώρος ονομάτων [Aspose.Svg.Window](../../iwindowtimers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

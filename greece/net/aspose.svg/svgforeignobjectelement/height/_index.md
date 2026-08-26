@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.Height
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGForeignObjectElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό height στο δεδομένο στοιχείο foreignObject.
+title: "SVGForeignObjectElement.Height"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGForeignObjectElement Height ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό height του συγκεκριμένου στοιχείου foreignObject"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svgforeignobjectelement/height/
 ---
 ## SVGForeignObjectElement.Height property
 
-Αντιστοιχεί στο χαρακτηριστικό "height" στο δεδομένο στοιχείο "foreignObject".
+Αντιστοιχεί στο χαρακτηριστικό ‘height’ του δεδομένου στοιχείου ‘foreignObject’.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'height' του δεδομένου στοιχείου 'foreignObject'.
+Το χαρακτηριστικό ‘height’ του συγκεκριμένου στοιχείου ‘foreignObject’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgforeignobjectelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

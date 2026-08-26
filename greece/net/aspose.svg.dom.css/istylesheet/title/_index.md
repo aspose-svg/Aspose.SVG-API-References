@@ -1,7 +1,7 @@
 ---
-title: IStyleSheet.Title
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IStyleSheet ιδιοκτησία. Ο συμβουλευτικός τίτλος.
+title: "IStyleSheet.Title"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IStyleSheet Title property. Ο συμβουλευτικός τίτλος"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom.css/istylesheet/title/
@@ -17,7 +17,5 @@ public string Title { get; }
 ### Δείτε επίσης
 
 * interface [IStyleSheet](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../istylesheet/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

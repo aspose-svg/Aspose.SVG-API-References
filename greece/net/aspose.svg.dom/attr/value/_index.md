@@ -1,9 +1,9 @@
 ---
-title: Attr.Value
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Attr ιδιοκτησία. Κατά την ανάκτηση η τιμή του χαρακτηριστικού επιστρέφεται ως συμβολοσειρά.
+title: "Attr.Value"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Attr Value. Κατά την ανάκτηση, η τιμή του χαρακτηριστικού επιστρέφεται ως συμβολοσειρά."
 type: docs
-weight: 130
+weight: 110
 url: /el/net/aspose.svg.dom/attr/value/
 ---
 ## Attr.Value property
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/attr/value/
 public string Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
 ### Δείτε επίσης
 
 * class [Attr](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../attr/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

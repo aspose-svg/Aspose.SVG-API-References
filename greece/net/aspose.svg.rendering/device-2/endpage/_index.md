@@ -1,14 +1,14 @@
 ---
-title: Device2.EndPage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device μέθοδος. Τερματίζει την απόδοση της τρέχουσας σελίδας.
+title: "Device-2.EndPage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Device EndPage. Τελειώνει την απόδοση της τρέχουσας σελίδας."
 type: docs
-weight: 140
+weight: 170
 url: /el/net/aspose.svg.rendering/device-2/endpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndPage method
+## Device<TGraphicContext,TRenderingOptions>.EndPage method
 
-Τερματίζει την απόδοση της τρέχουσας σελίδας.
+Τελειώνει την απόδοση της τρέχουσας σελίδας.
 
 ```csharp
 public virtual void EndPage()
@@ -17,7 +17,5 @@ public virtual void EndPage()
 ### Δείτε επίσης
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

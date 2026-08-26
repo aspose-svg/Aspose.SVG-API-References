@@ -1,14 +1,14 @@
 ---
-title: Size.Size
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Size κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSize τάξη.
+title: "Size"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Size constructor. Αρχικοποιεί μια νέα παρουσία της κλάσης Size"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`Size`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`Size`](../).
 
 ```csharp
 public Size()
@@ -17,14 +17,14 @@ public Size()
 ### Δείτε επίσης
 
 * class [Size](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../size/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(int, int) {#constructor_2}
+## Size(*int, int*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`Size`](../) τάξη και καθορίστε ένα Ύψος και Πλάτος σε pixel.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`Size`](../) και καθορίζει ένα Ύψος και Πλάτος σε εικονοστοιχεία.
 
 ```csharp
 public Size(int width, int height)
@@ -38,14 +38,14 @@ public Size(int width, int height)
 ### Δείτε επίσης
 
 * class [Size](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../size/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(Length, Length) {#constructor_1}
+## Size(*[Length](../../length/), [Length](../../length/)*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`Size`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`Size`](../).
 
 ```csharp
 public Size(Length width, Length height)
@@ -60,7 +60,5 @@ public Size(Length width, Length height)
 
 * class [Length](../../length/)
 * class [Size](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../size/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

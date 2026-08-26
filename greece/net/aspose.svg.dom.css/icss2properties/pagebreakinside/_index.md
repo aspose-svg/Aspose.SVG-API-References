@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.PageBreakInside
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας αλλαγής σελίδας στο CSS2.
+title: "ICSS2Properties.PageBreakInside"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PageBreakInside του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας page-break-inside στο CSS2"
 type: docs
-weight: 880
+weight: 910
 url: /el/net/aspose.svg.dom.css/icss2properties/pagebreakinside/
 ---
 ## ICSS2Properties.PageBreakInside property
 
-Δείτε τον ορισμό της ιδιότητας αλλαγής σελίδας στο CSS2.
+Δείτε τον ορισμό της ιδιότητας page-break-inside στο CSS2.
 
 ```csharp
 public string PageBreakInside { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα αλλαγής σελίδας
+ιδιότητα page-break-inside
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

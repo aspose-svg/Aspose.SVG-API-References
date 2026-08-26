@@ -1,14 +1,14 @@
 ---
-title: SVGException.SVGException
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSVGException τάξη.
+title: "SVGException"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής SVGException. Αρχικοποιεί μια νέα παρουσία της κλάσης SVGException"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`SVGException`](../).
 
 ```csharp
 public SVGException(ushort code)
@@ -16,12 +16,10 @@ public SVGException(ushort code)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| code | UInt16 | Ο κωδικός σφάλματος. |
+| κώδικας | UInt16 | Ο κωδικός σφάλματος. |
 
 ### Δείτε επίσης
 
 * class [SVGException](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgexception/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicAbs
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathElement μέθοδος. Επιστρέφει ένα αυτόνομο χωρίς γονικό αντικείμενο SVGPathSegCurvetoCubicAbs.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicAbs"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGPathElement CreateSVGPathSegCurvetoCubicAbs. Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegCurvetoCubicAbs"
 type: docs
 weight: 60
 url: /el/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicAbs method
 
-Επιστρέφει ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegCurvetoCubicAbs.
+Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegCurvetoCubicAbs.
 
 ```csharp
 public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float y, float x1, 
@@ -17,22 +17,20 @@ public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float 
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Single | Η απόλυτη συντεταγμένη Χ για το τελικό σημείο αυτού του τμήματος διαδρομής. |
-| y | Single | Η απόλυτη συντεταγμένη Y για το τελικό σημείο αυτού του τμήματος διαδρομής. |
-| x1 | Single | Η απόλυτη συντεταγμένη Χ για το πρώτο σημείο ελέγχου. |
-| y1 | Single | Η απόλυτη συντεταγμένη Υ για το πρώτο σημείο ελέγχου. |
-| x2 | Single | Η απόλυτη συντεταγμένη Χ για το δεύτερο σημείο ελέγχου. |
-| y2 | Single | Η απόλυτη συντεταγμένη Υ για το δεύτερο σημείο ελέγχου. |
+| x | Single | Η απόλυτη συντεταγμένη X για το σημείο τερματισμού αυτού του τμήματος διαδρομής. |
+| y | Single | Η απόλυτη συντεταγμένη Y για το σημείο τερματισμού αυτού του τμήματος διαδρομής. |
+| x1 | Single | Η απόλυτη συντεταγμένη X για το πρώτο σημείο ελέγχου. |
+| y1 | Single | Η απόλυτη συντεταγμένη Y για το πρώτο σημείο ελέγχου. |
+| x2 | Single | Η απόλυτη συντεταγμένη X για το δεύτερο σημείο ελέγχου. |
+| y2 | Single | Η απόλυτη συντεταγμένη Y για το δεύτερο σημείο ελέγχου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegCurvetoCubicAbs.
+Ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegCurvetoCubicAbs.
 
 ### Δείτε επίσης
 
 * class [SVGPathSegCurvetoCubicAbs](../../../aspose.svg.paths/svgpathsegcurvetocubicabs/)
 * class [SVGPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

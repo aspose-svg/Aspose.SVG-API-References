@@ -1,28 +1,26 @@
 ---
-title: SVGSymbolElement.ViewBox
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSymbolElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό viewBox στο δεδομένο στοιχείο.
+title: "SVGSymbolElement.ViewBox"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ViewBox του SVGSymbolElement. Αντιστοιχεί στο χαρακτηριστικό viewBox στο συγκεκριμένο στοιχείο"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgsymbolelement/viewbox/
 ---
 ## SVGSymbolElement.ViewBox property
 
-Αντιστοιχεί στο χαρακτηριστικό "viewBox" στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘viewBox’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το 'viewBox' του δεδομένου στοιχείου.
+Το ‘viewBox’ του συγκεκριμένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * class [SVGSymbolElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsymbolelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

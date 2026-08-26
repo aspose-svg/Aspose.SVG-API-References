@@ -1,14 +1,14 @@
 ---
-title: FileCreateStreamProvider.FileCreateStreamProvider
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FileCreateStreamProvider κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFileCreateStreamProvider τάξη.
+title: "FileCreateStreamProvider"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "FileCreateStreamProvider constructor. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης FileCreateStreamProvider"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`FileCreateStreamProvider`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider()
@@ -17,14 +17,14 @@ public FileCreateStreamProvider()
 ### Δείτε επίσης
 
 * class [FileCreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FileCreateStreamProvider(string) {#constructor_1}
+## FileCreateStreamProvider(*string*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`FileCreateStreamProvider`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider(string name)
@@ -37,14 +37,14 @@ public FileCreateStreamProvider(string name)
 ### Δείτε επίσης
 
 * class [FileCreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FileCreateStreamProvider(string, string) {#constructor_2}
+## FileCreateStreamProvider(*string, string*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`FileCreateStreamProvider`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider(string directory, string name)
@@ -52,13 +52,11 @@ public FileCreateStreamProvider(string directory, string name)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| directory | String | Ο κατάλογος. |
+| κατάλογος | String | Ο κατάλογος. |
 | name | String | Το όνομα του αρχείου. |
 
 ### Δείτε επίσης
 
 * class [FileCreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

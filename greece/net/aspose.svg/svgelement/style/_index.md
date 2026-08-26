@@ -1,20 +1,20 @@
 ---
-title: SVGElement.Style
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό style στο δεδομένο στοιχείο. Εάν ο παράγοντας χρήστη δεν υποστηρίζει στυλ με CSS τότε αυτό το χαρακτηριστικό πρέπει να έχει πάντα την τιμή null.
+title: "SVGElement.Style"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Style του SVGElement. Συμφωνεί με το χαρακτηριστικό style στο δεδομένο στοιχείο. Εάν ο χρήστης δεν υποστηρίζει στυλ με CSS, τότε αυτό το χαρακτηριστικό πρέπει πάντα να έχει τιμή null."
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svgelement/style/
 ---
 ## SVGElement.Style property
 
-Αντιστοιχεί στο χαρακτηριστικό 'style' στο δεδομένο στοιχείο. Εάν ο παράγοντας χρήστη δεν υποστηρίζει στυλ με CSS, τότε αυτό το χαρακτηριστικό πρέπει να έχει πάντα την τιμή null.
+Αντιστοιχεί στο χαρακτηριστικό ‘style’ του δεδομένου στοιχείου. Εάν ο πελάτης (user agent) δεν υποστηρίζει μορφοποίηση με CSS, τότε αυτό το χαρακτηριστικό πρέπει πάντα να έχει τιμή null.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το στυλ.
 
@@ -22,7 +22,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../../aspose.svg.dom.css/icssstyledeclaration/)
 * class [SVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: Content.Headers
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Content ιδιοκτησία. Λαμβάνει τις κεφαλίδες περιεχομένου HTTP.
+title: "Content.Headers"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Content Headers ιδιότητα. Λαμβάνει τις κεφαλίδες περιεχομένου HTTP"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/content/headers/
 ---
 ## Content.Headers property
 
-Λαμβάνει τις κεφαλίδες περιεχομένου HTTP.
+Αποκτά τις κεφαλίδες περιεχομένου HTTP.
 
 ```csharp
 public ContentHeaders Headers { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι κεφαλίδες.
 
@@ -22,7 +22,5 @@ public ContentHeaders Headers { get; }
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../content/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

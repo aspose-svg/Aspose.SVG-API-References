@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedValueT
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.DataTypes.SVGAnimatedValue1T τάξη. Χρησιμοποιείται για χαρακτηριστικά τύπων που μπορούν να κινηθούν.
+title: "SVGAnimatedValueT Κατηγορία"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.DataTypes.SVGAnimatedValue1T κατηγορία. Χρησιμοποιείται για ιδιότητες τύπων που μπορούν να είναι κινούμενες"
 type: docs
-weight: 210
+weight: 2200
 url: /el/net/aspose.svg.datatypes/svganimatedvalue-1/
 ---
-## SVGAnimatedValue&lt;T&gt; class
+## SVGAnimatedValue<T> class
 
-Χρησιμοποιείται για χαρακτηριστικά τύπων που μπορούν να κινηθούν.
+Χρησιμοποιείται για ιδιότητες τύπων που μπορούν να ανιμαριστούν.
 
 ```csharp
 public abstract class SVGAnimatedValue<T> : SVGValueType
@@ -16,26 +16,24 @@ public abstract class SVGAnimatedValue<T> : SVGValueType
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| T | Το αντικείμενο τιμής SVG. |
+| T | Το αντικείμενο SVG Value. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } | Εάν το δεδομένο χαρακτηριστικό ή ιδιότητα κινείται, περιέχει την τρέχουσα κινούμενη τιμή του χαρακτηριστικού ή της ιδιότητας. Εάν το δεδομένο χαρακτηριστικό ή ιδιότητα δεν κινείται αυτήν τη στιγμή, περιέχει την ίδια τιμή με το baseVal. |
-| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } | Η βασική τιμή του δεδομένου χαρακτηριστικού πριν από την εφαρμογή οποιωνδήποτε κινούμενων εικόνων. |
+| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } | Εάν η δεδομένη ιδιότητα ή ιδιότητα βρίσκεται σε κίνηση, περιέχει την τρέχουσα κινούμενη τιμή της ιδιότητας ή της ιδιότητας. Εάν η δεδομένη ιδιότητα ή ιδιότητα δεν βρίσκεται αυτή τη στιγμή σε κίνηση, περιέχει την ίδια τιμή με το baseVal. |
+| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } | Η βασική τιμή της δεδομένης ιδιότητας πριν την εφαρμογή οποιωνδήποτε κινήσεων. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου του αντικειμένου ECMAScript. |
 
 ### Δείτε επίσης
 
 * class [SVGValueType](../svgvaluetype/)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

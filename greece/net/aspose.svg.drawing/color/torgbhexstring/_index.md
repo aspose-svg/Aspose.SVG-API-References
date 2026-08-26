@@ -1,27 +1,25 @@
 ---
-title: Color.ToRgbHexString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα δεκαεξαδικό χρώμα που καθορίζεται με RRGGBB.
+title: "Color.ToRgbHexString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color ToRgbHexString. Επιστρέφει μια δεκαεξαδική συμβολοσειρά χρώματος που ορίζεται με RRGGBB."
 type: docs
 weight: 410
 url: /el/net/aspose.svg.drawing/color/torgbhexstring/
 ---
 ## Color.ToRgbHexString method
 
-Επιστρέφει ένα δεκαεξαδικό χρώμα που καθορίζεται με: #RRGGBB.
+Επιστρέφει ένα δεκαεξαδικό χρώμα που ορίζεται με: #RRGGBB.
 
 ```csharp
 public string ToRgbHexString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Μια δεκαεξαδική συμβολοσειρά χρώματος.
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

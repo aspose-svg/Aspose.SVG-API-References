@@ -1,7 +1,7 @@
 ---
-title: IDevice.BeginElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Ξεκινά την απόδοση του στοιχείου.
+title: "IDevice.BeginElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice BeginElement μέθοδος. Ξεκινά την απόδοση του στοιχείου."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.rendering/idevice/beginelement/
@@ -16,18 +16,16 @@ public bool BeginElement(Element element, RectangleF rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| element | Element | ο[`Element`](../../../aspose.svg.dom/element/). |
-| rect | RectangleF | Οριοθέτηση του κόμβου. |
+| element | Element | Το [`Element`](../../../aspose.svg.dom/element/). |
+| rect | RectangleF | Πλαίσιο περιβάλλοντος του κόμβου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει [true] εάν το στοιχείο πρέπει να υποβληθεί σε επεξεργασία.
+Επιστρέφει [true] εάν το στοιχείο πρέπει να επεξεργαστεί.
 
 ### Δείτε επίσης
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

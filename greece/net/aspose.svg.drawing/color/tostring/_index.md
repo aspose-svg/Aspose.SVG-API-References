@@ -1,27 +1,25 @@
 ---
-title: Color.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει μια συμβολοσειρά που αποτελείται από τις τιμές στοιχείων RGBA.
+title: "Color.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος Color ToString. Επιστρέφει μια συμβολοσειρά που αποτελείται από τις τιμές των συστατικών RGBA."
 type: docs
 weight: 430
 url: /el/net/aspose.svg.drawing/color/tostring/
 ---
 ## Color.ToString method
 
-Επιστρέφει μια συμβολοσειρά που αποτελείται από τις τιμές στοιχείων RGBA.
+Επιστρέφει μια συμβολοσειρά που αποτελείται από τις τιμές των συστατικών RGBA.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια χορδή αναγνώσιμη από τον άνθρωπο.
+Μια αναγνώσιμη από άνθρωπο συμβολοσειρά.
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

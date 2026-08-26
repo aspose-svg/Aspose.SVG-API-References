@@ -1,14 +1,14 @@
 ---
-title: ResourceHandlingOptions.PageUrlRestriction
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResourceHandlingOptions ιδιοκτησία. Λαμβάνει ή θέτει περιορισμούς που εφαρμόζονται στις διευθύνσεις URL των σελίδων που διαχειρίζονται. Η προεπιλεγμένη τιμή είναιRootAndSubFolders .
+title: "ResourceHandlingOptions.PageUrlRestriction"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PageUrlRestriction του ResourceHandlingOptions. Λαμβάνει ή ορίζει τον περιορισμό που εφαρμόζεται στα URL των επεξεργασμένων σελίδων. Η προεπιλεγμένη τιμή είναι RootAndSubFolders"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/
 ---
 ## ResourceHandlingOptions.PageUrlRestriction property
 
-Λαμβάνει ή θέτει περιορισμούς που εφαρμόζονται στις διευθύνσεις URL των σελίδων που διαχειρίζονται. Η προεπιλεγμένη τιμή είναιRootAndSubFolders .
+Λαμβάνει ή ορίζει τον περιορισμό που εφαρμόζεται στα URL των επεξεργασμένων σελίδων. Η προεπιλεγμένη τιμή είναι RootAndSubFolders.
 
 ```csharp
 public UrlRestriction PageUrlRestriction { get; set; }
@@ -18,7 +18,5 @@ public UrlRestriction PageUrlRestriction { get; set; }
 
 * enum [UrlRestriction](../../urlrestriction/)
 * class [ResourceHandlingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

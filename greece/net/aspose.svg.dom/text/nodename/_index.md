@@ -1,7 +1,7 @@
 ---
-title: Text.NodeName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Text ιδιοκτησία. Το όνομα αυτού του κόμβου ανάλογα με τον τύπο του.
+title: "Text.NodeName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Text NodeName. Το όνομα αυτού του κόμβου ανάλογα με τον τύπο του."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/text/nodename/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/text/nodename/
 public override string NodeName { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του κόμβου.
 
 ### Δείτε επίσης
 
 * class [Text](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../text/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Color.FromUint
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα νέο χρώμα με την ζητούμενη τιμή ARGB.
+title: "Color.FromUint"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color FromUint. Επιστρέφει ένα νέο Color με την ζητούμενη τιμή ARGB"
 type: docs
 weight: 230
 url: /el/net/aspose.svg.drawing/color/fromuint/
 ---
 ## Color.FromUint method
 
-Επιστρέφει ένα νέο χρώμα με την ζητούμενη τιμή ARGB.
+Επιστρέφει ένα νέο Χρώμα με τη ζητούμενη τιμή ARGB.
 
 ```csharp
 public static Color FromUint(uint argb)
@@ -16,16 +16,14 @@ public static Color FromUint(uint argb)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| argb | UInt32 | Μια μονάδα που αντιπροσωπεύει την τιμή ARGB του χρώματος. |
+| argb | UInt32 | Ένα uint που αντιπροσωπεύει την τιμή ARGB του χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

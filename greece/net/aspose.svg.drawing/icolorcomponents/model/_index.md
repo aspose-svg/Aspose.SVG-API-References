@@ -1,14 +1,14 @@
 ---
-title: IColorComponents.Model
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IColorComponents ιδιοκτησία. Επιστρέφει το χρωματικό μοντέλο.
+title: "IColorComponents.Model"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IColorComponents Model ιδιότητα. Επιστρέφει το μοντέλο χρώματος"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/icolorcomponents/model/
 ---
 ## IColorComponents.Model property
 
-Επιστρέφει το χρωματικό μοντέλο.
+Επιστρέφει το μοντέλο χρώματος.
 
 ```csharp
 public ColorModel Model { get; }
@@ -18,7 +18,5 @@ public ColorModel Model { get; }
 
 * enum [ColorModel](../../colormodel/)
 * interface [IColorComponents](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../icolorcomponents/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

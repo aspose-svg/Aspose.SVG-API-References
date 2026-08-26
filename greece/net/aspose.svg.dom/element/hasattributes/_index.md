@@ -1,27 +1,25 @@
 ---
-title: Element.HasAttributes
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Επιστρέφει εάν αυτός ο κόμβος αν είναι στοιχείο έχει κάποια χαρακτηριστικά
+title: "Element.HasAttributes"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Element HasAttributes. Επιστρέφει αν αυτός ο κόμβος, εάν είναι στοιχείο, έχει οποιαδήποτε χαρακτηριστικά."
 type: docs
 weight: 330
 url: /el/net/aspose.svg.dom/element/hasattributes/
 ---
 ## Element.HasAttributes method
 
-Επιστρέφει εάν αυτός ο κόμβος (αν είναι στοιχείο) έχει κάποια χαρακτηριστικά
+Επιστρέφει αν αυτός ο κόμβος (εάν είναι στοιχείο) έχει οποιαδήποτε χαρακτηριστικά.
 
 ```csharp
-public override bool HasAttributes()
+public bool HasAttributes()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-boolean`αληθής` εάν αυτός ο κόμβος έχει κάποια χαρακτηριστικά,`ψευδής` διαφορετικά.
+boolean `true` εάν αυτός ο κόμβος έχει οποιαδήποτε χαρακτηριστικά, `false` διαφορετικά.
 
 ### Δείτε επίσης
 
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

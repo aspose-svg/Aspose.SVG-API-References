@@ -1,29 +1,27 @@
 ---
-title: IXPathResult.NumberValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IXPathResult ιδιοκτησία. Η τιμή αυτού του αριθμού προκύπτει.
+title: "IXPathResult.NumberValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα NumberValue του IXPathResult. Η τιμή αυτού του αριθμητικού αποτελέσματος"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.xpath/ixpathresult/numbervalue/
 ---
 ## IXPathResult.NumberValue property
 
-Η τιμή αυτού του αριθμού προκύπτει.
+Η τιμή αυτού του αριθμητικού αποτελέσματος.
 
 ```csharp
 public double NumberValue { get; }
 ```
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: αυξήθηκε εάν`Τύπος αποτελεσμάτων` δεν είναι `Αριθμός` τύπος. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: προκαλείται εάν `resultType` δεν είναι τύπου `Number`. |
 
 ### Δείτε επίσης
 
 * interface [IXPathResult](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

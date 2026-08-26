@@ -1,14 +1,14 @@
 ---
-title: ICSSMediaRule.InsertRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSMediaRule μέθοδος. Χρησιμοποιείται για την εισαγωγή ενός νέου κανόνα στο μπλοκ πολυμέσων.
+title: "ICSSMediaRule.InsertRule"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος InsertRule του ICSSMediaRule. Χρησιμοποιείται για την εισαγωγή ενός νέου κανόνα στο μπλοκ μέσων."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.css/icssmediarule/insertrule/
 ---
 ## ICSSMediaRule.InsertRule method
 
-Χρησιμοποιείται για την εισαγωγή ενός νέου κανόνα στο μπλοκ πολυμέσων.
+Χρησιμοποιείται για την εισαγωγή ενός νέου κανόνα στο μπλοκ μέσου.
 
 ```csharp
 public long InsertRule(string rule, long index)
@@ -16,17 +16,15 @@ public long InsertRule(string rule, long index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rule | String | Ο κανόνας των ΜΜΕ. |
-| index | Int64 | Ο δείκτης. |
+| κανόνας | String | Ο κανόνας μέσων. |
+| δείκτης | Int64 | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το εισαγόμενο ευρετήριο.
+Ο εισαχθείς δείκτης.
 
 ### Δείτε επίσης
 
 * interface [ICSSMediaRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

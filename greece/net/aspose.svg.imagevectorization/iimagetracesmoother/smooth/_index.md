@@ -1,7 +1,7 @@
 ---
-title: IImageTraceSmoother.Smooth
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IImageTraceSmoother μέθοδος. Εξομαλύνει το ίχνος.
+title: "IImageTraceSmoother.Smooth"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Smooth του IImageTraceSmoother. Εξομαλύνει το trace."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.imagevectorization/iimagetracesmoother/smooth/
@@ -16,16 +16,14 @@ public IEnumerable<PointF> Smooth(IEnumerable<PointF> trace)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Η λίστα των ιχνοσημείων. |
+| ίχνος | IEnumerable`1 | Η λίστα των σημείων του ίχνους. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η λίστα των εξομαλυνόμενων ιχνοσημείων.
+Η λίστα των εξομαλυνμένων σημείων του ίχνους.
 
 ### Δείτε επίσης
 
 * interface [IImageTraceSmoother](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../iimagetracesmoother/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

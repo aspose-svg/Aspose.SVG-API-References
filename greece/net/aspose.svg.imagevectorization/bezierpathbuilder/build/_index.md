@@ -1,34 +1,29 @@
 ---
-title: BezierPathBuilder.Build
-second_title: Aspose.SVG για Αναφορά API .NET
-description: BezierPathBuilder μέθοδος. Δημιουργεί τμήματα διαδρομής από τη λίστα των σημείων ίχνους.
+title: "BezierPathBuilder.Build"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Build του BezierPathBuilder. Δημιουργεί ένα βελτιστοποιημένο μονοπάτι Bezier από μια ακολουθία σημείων ίχνους. Η μέθοδος προσεγγίζει το δεδομένο ίχνος με μια καμπύλη Bezier χρησιμοποιώντας συνδυασμό τμημάτων γραμμής και καμπύλης. Στοχεύει στη μείωση του αριθμού των τμημάτων διασφαλίζοντας ταυτόχρονα ότι το μονοπάτι ταιριάζει στενά με το αρχικό ίχνος."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.imagevectorization/bezierpathbuilder/build/
 ---
 ## BezierPathBuilder.Build method
 
-Δημιουργεί τμήματα διαδρομής από τη λίστα των σημείων ίχνους.
+Δημιουργεί μια βελτιστοποιημένη διαδρομή Bezier από μια ακολουθία σημείων ίχνους. Η μέθοδος προσεγγίζει το δεδομένο ίχνος με μια καμπύλη Bezier, χρησιμοποιώντας συνδυασμό τμημάτων γραμμής και καμπύλης. Στοχεύει στη μείωση του αριθμού των τμημάτων διασφαλίζοντας ταυτόχρονα ότι η διαδρομή ταιριάζει στενά με το αρχικό ίχνος.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Η λίστα των ιχνοσημείων |
-| path | SVGPathElement | Το στοιχείο διαδρομής SVG όπου θα προστεθούν τμήματα διαδρομής. |
+| ίχνος | IEnumerable`1 | Η ακολουθία σημείων που ορίζουν το ίχνος που θα προσεγγιστεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η λίστα των τμημάτων διαδρομής[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+Μια συμβολοσειρά που αντιπροσωπεύει τα δεδομένα διαδρομής SVG. Αυτά τα δεδομένα αποτελούνται από μια σειρά εντολών και συντεταγμένων που ορίζουν το μονοπάτι Bezier, προσεγγίζοντας στενά το εισερχόμενο ίχνος με ελαχιστοποιημένη πολυπλοκότητα.
 
 ### Δείτε επίσης
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * class [BezierPathBuilder](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

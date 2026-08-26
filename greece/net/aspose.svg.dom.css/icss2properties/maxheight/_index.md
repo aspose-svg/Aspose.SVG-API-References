@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.MaxHeight
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας maxheight στο CSS2.
+title: "ICSS2Properties.MaxHeight"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MaxHeight του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας max-height στο CSS2"
 type: docs
-weight: 700
+weight: 730
 url: /el/net/aspose.svg.dom.css/icss2properties/maxheight/
 ---
 ## ICSS2Properties.MaxHeight property
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/maxheight/
 public string MaxHeight { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιοκτησία μέγιστου ύψους
+ιδιότητα max-height
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

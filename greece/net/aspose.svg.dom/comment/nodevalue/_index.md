@@ -1,7 +1,7 @@
 ---
-title: Comment.NodeValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Comment ιδιοκτησία. Η τιμή αυτού του κόμβου ανάλογα με τον τύπο του.
+title: "Comment.NodeValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Comment NodeValue. Η τιμή αυτού του κόμβου εξαρτάται από τον τύπο του."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom/comment/nodevalue/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/comment/nodevalue/
 public override string NodeValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή του κόμβου.
 
 ### Δείτε επίσης
 
 * class [Comment](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../comment/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

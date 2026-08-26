@@ -1,28 +1,26 @@
 ---
-title: Margin.Top
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Margin ιδιοκτησία. Παίρνει ή θέτει την κορυφή.
+title: "Margin.Top"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Margin Top property. Λαμβάνει ή ορίζει το πάνω"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.drawing/margin/top/
 ---
 ## Margin.Top property
 
-Παίρνει ή θέτει την κορυφή.
+Λαμβάνει ή ορίζει την κορυφή.
 
 ```csharp
 public LengthOrAuto Top { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κορυφή.
+Το πάνω.
 
 ### Δείτε επίσης
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../margin/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

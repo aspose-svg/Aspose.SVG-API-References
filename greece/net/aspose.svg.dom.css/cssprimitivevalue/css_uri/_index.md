@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_URI
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSPrimitiveValue πεδίο. Η τιμή είναι ένα URI. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue.
+title: "CSSPrimitiveValue.CSS_URI"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο CSS_URI του CSSPrimitiveValue. Η τιμή είναι ένα URI. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue."
 type: docs
-weight: 410
+weight: 420
 url: /el/net/aspose.svg.dom.css/cssprimitivevalue/css_uri/
 ---
 ## CSSPrimitiveValue.CSS_URI field
@@ -17,7 +17,5 @@ public const ushort CSS_URI;
 ### Δείτε επίσης
 
 * class [CSSPrimitiveValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

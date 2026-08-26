@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Dx
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEDropShadowElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό dx στο δεδομένο στοιχείο feDropShadow.
+title: "SVGFEDropShadowElement.Dx"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Dx του SVGFEDropShadowElement. Αντιστοιχεί στην ιδιότητα dx του δεδομένου στοιχείου feDropShadow"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.filters/svgfedropshadowelement/dx/
 ---
 ## SVGFEDropShadowElement.Dx property
 
-Αντιστοιχεί στο χαρακτηριστικό "dx" στο δεδομένο στοιχείο "feDropShadow".
+Αντιστοιχεί στο χαρακτηριστικό ‘dx’ στο δοσμένο στοιχείο ‘feDropShadow’.
 
 ```csharp
 public SVGAnimatedNumber Dx { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'dx' του δεδομένου στοιχείου 'feDropShadow'.
+Η ιδιότητα ‘dx’ του δεδομένου στοιχείου ‘feDropShadow’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

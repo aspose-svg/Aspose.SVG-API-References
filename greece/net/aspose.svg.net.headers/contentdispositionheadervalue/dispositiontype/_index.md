@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.DispositionType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ContentDispositionHeaderValue ιδιοκτησία. Λήψη ή ρύθμιση διάταξης τύπου
+title: "ContentDispositionHeaderValue.DispositionType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ContentDispositionHeaderValue DispositionType property. Λαμβάνει ή ορίζει τον τύπο διάθεσης"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/
 ---
 ## ContentDispositionHeaderValue.DispositionType property
 
-Λήψη ή ρύθμιση διάταξης τύπου
+Αποκτήστε ή ορίστε τον τύπο διάθεσης.
 
 ```csharp
 public string DispositionType { get; set; }
@@ -17,7 +17,5 @@ public string DispositionType { get; set; }
 ### Δείτε επίσης
 
 * class [ContentDispositionHeaderValue](../)
-* χώρος ονομάτων [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

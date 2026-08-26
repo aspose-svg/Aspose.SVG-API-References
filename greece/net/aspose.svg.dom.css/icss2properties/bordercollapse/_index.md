@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.BorderCollapse
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας σύμπτυξης περιγράμματος στο CSS2.
+title: "ICSS2Properties.BorderCollapse"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties BorderCollapse ιδιότητα. Δείτε τον ορισμό της ιδιότητας border-collapse στο CSS2"
 type: docs
 weight: 130
 url: /el/net/aspose.svg.dom.css/icss2properties/bordercollapse/
 ---
 ## ICSS2Properties.BorderCollapse property
 
-Δείτε τον ορισμό της ιδιότητας σύμπτυξης περιγράμματος στο CSS2.
+Δείτε τον ορισμό της ιδιότητας border-collapse στο CSS2.
 
 ```csharp
 public string BorderCollapse { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-περιουσία κατάρρευσης συνόρων
+border-collapse ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

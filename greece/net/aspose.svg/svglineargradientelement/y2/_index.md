@@ -1,28 +1,26 @@
 ---
-title: SVGLinearGradientElement.Y2
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGLinearGradientElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό y2 στο δεδομένο στοιχείο linearGradient.
+title: "SVGLinearGradientElement.Y2"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Y2 του SVGLinearGradientElement. Αντιστοιχεί στο χαρακτηριστικό y2 του δεδομένου στοιχείου linearGradient."
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svglineargradientelement/y2/
 ---
 ## SVGLinearGradientElement.Y2 property
 
-Αντιστοιχεί στο χαρακτηριστικό 'y2' στο δεδομένο στοιχείο 'linearGradient'.
+Αντιστοιχεί στο χαρακτηριστικό ‘y2’ του δεδομένου στοιχείου ‘linearGradient’.
 
 ```csharp
 public SVGAnimatedLength Y2 { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'y2' του δεδομένου στοιχείου 'linearGradient'.
+Το χαρακτηριστικό ‘y2’ του δεδομένου στοιχείου ‘linearGradient’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svglineargradientelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

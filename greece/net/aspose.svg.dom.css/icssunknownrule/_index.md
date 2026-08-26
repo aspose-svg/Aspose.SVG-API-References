@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSUnknownRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Css.ICSSUnknownRule διεπαφή. Η διεπαφή CSSUnknownRule αντιπροσωπεύει έναν κανόνα atrule που δεν υποστηρίζεται από αυτόν τον παράγοντα χρήστη.
+title: "Διεπαφή ICSSUnknownRule"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Dom.Css.ICSSUnknownRule. Η διεπαφή CSSUnknownRule αντιπροσωπεύει έναν at-rule που δεν υποστηρίζεται από αυτόν τον πελάτη."
 type: docs
-weight: 670
+weight: 2670
 url: /el/net/aspose.svg.dom.css/icssunknownrule/
 ---
 ## ICSSUnknownRule interface
 
-Η διεπαφή CSSUnknownRule αντιπροσωπεύει έναν κανόνα at-rule που δεν υποστηρίζεται από αυτόν τον παράγοντα χρήστη.
+Η διεπαφή CSSUnknownRule αντιπροσωπεύει έναν at-rule που δεν υποστηρίζεται από αυτόν τον πράκτορα χρήστη.
 
 ```csharp
 public interface ICSSUnknownRule : ICSSRule
@@ -17,7 +17,5 @@ public interface ICSSUnknownRule : ICSSRule
 ### Δείτε επίσης
 
 * interface [ICSSRule](../icssrule/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

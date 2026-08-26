@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NamedNodeMap ιδιοκτησία. Επιστρέφει το ευρετήριοο στοιχείο στον χάρτη. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων σε αυτόν τον χάρτη αυτό επιστρέφει null.
+title: "NamedNodeMap.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "NamedNodeMap Item ιδιότητα. Επιστρέφει το στοιχείο με δείκτη index στον χάρτη. Εάν το index είναι μεγαλύτερο ή ίσο με τον αριθμό των κόμβων σε αυτόν τον χάρτη, επιστρέφει null."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.collections/namednodemap/item/
 ---
 ## NamedNodeMap indexer (1 of 2)
 
-Επιστρέφει το ευρετήριο-ο στοιχείο στον χάρτη. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων σε αυτόν τον χάρτη, αυτό επιστρέφει null.
+Επιστρέφει το στοιχείο με δείκτη index στον χάρτη. Εάν το index είναι μεγαλύτερο ή ίσο με τον αριθμό των κόμβων σε αυτόν τον χάρτη, επιστρέφει null.
 
 ```csharp
 public Attr this[int index] { get; }
@@ -16,28 +16,28 @@ public Attr this[int index] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Ο δείκτης. |
+| δείκτης | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Επιστρέφει κόμβο.
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`Attr`](../../../aspose.svg.dom/attr/) .
+Το [`Attr`](../../../aspose.svg.dom/attr/).
 
 ### Δείτε επίσης
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../namednodemap/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## NamedNodeMap indexer (2 of 2)
 
-Λαμβάνει το[`Attr`](../../../aspose.svg.dom/attr/) με το καθορισμένο όνομα.
+Αποκτά το [`Attr`](../../../aspose.svg.dom/attr/) με το καθορισμένο όνομα.
 
 ```csharp
 public Attr this[string name] { get; }
@@ -45,21 +45,19 @@ public Attr this[string name] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| name | Το όνομα του χαρακτηριστικού. |
+| name | Το όνομα του γνωρίσματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Επιστρέφει κόμβο.
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`Attr`](../../../aspose.svg.dom/attr/) .
+Το [`Attr`](../../../aspose.svg.dom/attr/).
 
 ### Δείτε επίσης
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../namednodemap/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

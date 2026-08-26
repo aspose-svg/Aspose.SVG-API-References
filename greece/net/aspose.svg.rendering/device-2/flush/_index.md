@@ -1,14 +1,14 @@
 ---
-title: Device2.Flush
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device μέθοδος. Ξεπλύνει όλα τα δεδομένα για έξοδο ροής.
+title: "Device-2.Flush"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Device Flush. Μεταφέρει όλα τα δεδομένα στην έξοδο ροής."
 type: docs
-weight: 170
+weight: 200
 url: /el/net/aspose.svg.rendering/device-2/flush/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Flush method
+## Device<TGraphicContext,TRenderingOptions>.Flush method
 
-Ξεπλύνει όλα τα δεδομένα για έξοδο ροής.
+Αδειάζει όλα τα δεδομένα στο ρεύμα εξόδου.
 
 ```csharp
 public virtual void Flush()
@@ -17,7 +17,5 @@ public virtual void Flush()
 ### Δείτε επίσης
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

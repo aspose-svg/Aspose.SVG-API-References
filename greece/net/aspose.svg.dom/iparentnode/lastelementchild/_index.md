@@ -1,28 +1,26 @@
 ---
-title: IParentNode.LastElementChild
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IParentNode ιδιοκτησία. Επιστρέφει το τελευταίο θυγατρικό στοιχείο που είναι στοιχείο και αλλιώς μηδενίζει.
+title: "IParentNode.LastElementChild"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IParentNode LastElementChild. Επιστρέφει το τελευταίο παιδί που είναι στοιχείο ή null διαφορετικά"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom/iparentnode/lastelementchild/
 ---
 ## IParentNode.LastElementChild property
 
-Επιστρέφει το τελευταίο θυγατρικό στοιχείο που είναι στοιχείο και αλλιώς μηδενίζει.
+Επιστρέφει το τελευταίο παιδί που είναι στοιχείο, και null διαφορετικά.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το τελευταίο στοιχείο παιδί.
+Το τελευταίο παιδί στοιχείου.
 
 ### Δείτε επίσης
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iparentnode/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

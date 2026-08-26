@@ -1,14 +1,14 @@
 ---
-title: SVGStringList.SVGStringList
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGStringList κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSVGStringList τάξη.
+title: "SVGStringList"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής SVGStringList. Αρχικοποιεί μια νέα παρουσία της κλάσης SVGStringList"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGStringList`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`SVGStringList`](../).
 
 ```csharp
 public SVGStringList()
@@ -17,14 +17,14 @@ public SVGStringList()
 ### Δείτε επίσης
 
 * class [SVGStringList](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgstringlist/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&lt;string&gt;*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`SVGStringList`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`SVGStringList`](../).
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
@@ -32,12 +32,10 @@ public SVGStringList(IEnumerable<string> enumerable)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Το αναρίθμητο. |
+| απαριθμήσιμο | IEnumerable`1 | Το απαριθμήσιμο. |
 
 ### Δείτε επίσης
 
 * class [SVGStringList](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgstringlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

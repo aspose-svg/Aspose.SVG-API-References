@@ -1,27 +1,25 @@
 ---
-title: ISolidBrush.Color
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ISolidBrush ιδιοκτησία. Πάρτε το χρώμα του πινέλου.
+title: "ISolidBrush.Color"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ISolidBrush Color. Λαμβάνει το χρώμα της βούρτσας"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/isolidbrush/color/
 ---
 ## ISolidBrush.Color property
 
-Πάρτε το χρώμα του πινέλου.
+Λάβετε το χρώμα του πινέλου.
 
 ```csharp
 public Color Color { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Χρώμα πινέλου
+Χρώμα της βούρτσας
 
 ### Δείτε επίσης
 
 * interface [ISolidBrush](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../isolidbrush/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

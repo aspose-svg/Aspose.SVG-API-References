@@ -1,35 +1,33 @@
 ---
-title: Aspose.Svg.ImageVectorization
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Το Aspose.Svg.ImageVectorizationΟ χώρος ονομάτων περιέχει κλάσεις για τη διανυσματοποίηση εικόνων ράστερ και τη μετατροπή τους σε έγγραφα SVG. Αυτή η διαδικασία περιλαμβάνει τη μείωση των bitmaps σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία διαδρομής και την αποθήκευση τους ως SVG. Ο χώρος ονομάτων περιλαμβάνει κλάσεις για τη δημιουργία τμημάτων διαδρομής απλοποίηση και εξομάλυνση σημείων ίχνους. και διαμόρφωση επιλογών διανυσματοποίησης.
+title: "Aspose.Svg.ImageVectorization"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Το Aspose.Svg.ImageVectorization namespace περιέχει κλάσεις για τη διανυσματοποίηση εικόνων raster και τη μετατροπή τους σε έγγραφα SVG. Αυτή η διαδικασία περιλαμβάνει τη μείωση των bitmap σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία μονοπατιού και την αποθήκευσή τους ως SVG. Το namespace περιλαμβάνει κλάσεις για την κατασκευή τμημάτων μονοπατιού, την απλοποίηση και εξομάλυνση σημείων ίχνους και τη διαμόρφωση επιλογών διανυσματοποίησης."
 type: docs
-weight: 170
+weight: 190
 url: /el/net/aspose.svg.imagevectorization/
 ---
-Το **Aspose.Svg.ImageVectorization**Ο χώρος ονομάτων περιέχει κλάσεις για τη διανυσματοποίηση εικόνων ράστερ και τη μετατροπή τους σε έγγραφα SVG. Αυτή η διαδικασία περιλαμβάνει τη μείωση των bitmaps σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία διαδρομής και την αποθήκευση τους ως SVG. Ο χώρος ονομάτων περιλαμβάνει κλάσεις για τη δημιουργία τμημάτων διαδρομής, απλοποίηση και εξομάλυνση σημείων ίχνους. και διαμόρφωση επιλογών διανυσματοποίησης.
+Ο χώρος ονομάτων **Aspose.Svg.ImageVectorization** περιέχει κλάσεις για τη διανυσματοποίηση ραστερ εικόνων και τη μετατροπή τους σε έγγραφα SVG. Αυτή η διαδικασία περιλαμβάνει τη μείωση των bitmap σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία διαδρομής και την αποθήκευσή τους ως SVG. Ο χώρος ονομάτων περιλαμβάνει κλάσεις για την κατασκευή τμημάτων διαδρομής, την απλοποίηση και εξομάλυνση σημείων ίχνους, καθώς και τη διαμόρφωση επιλογών διανυσματοποίησης.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [BezierPathBuilder](./bezierpathbuilder/) | Το[`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) Η κλάση είναι υπεύθυνη για τη δημιουργία τμημάτων διαδρομής[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) από τη λίστα των σημείων ίχνους. Αυτό το εργαλείο δημιουργίας διαδρομής βασίζεται στη χρήση της μεθόδου ελαχίστων τετραγώνων για την εύρεση σημείων ελέγχου Bezier για ίχνος σημείων. |
-| [ImageTraceSimplifier](./imagetracesimplifier/) | Η κλάση ImageTraceSimplifier είναι υπεύθυνη για τη μείωση του αριθμού των σημείων σε μια καμπύλη που προσεγγίζεται με μια σειρά από σημεία ίχνους. |
-| [ImageTraceSmoother](./imagetracesmoother/) | Η κλάση ImageTraceSimplifier είναι υπεύθυνη για την εξομάλυνση του αριθμού των σημείων σε μια καμπύλη που προσεγγίζεται από μια σειρά σημείων ίχνους. Αυτή η κλάση εφαρμόζει προσέγγιση πλησιέστερου γείτονα. |
-| [ImageVectorizer](./imagevectorizer/) | Αυτή η κλάση ImageVetorizer διανυσματοποιεί εικόνες ράστερ όπως PNG, JPG, GIF, BMP κ.λπ... και επιστρέφει το SVGDocument. Υπό διανυσματοποίηση εννοούμε τη διαδικασία μείωσης των bitmaps σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία διαδρομής και αποθηκεύονται ως SVG. |
-| [ImageVectorizerConfiguration](./imagevectorizerconfiguration/) | Το[`ImageVectorizerConfiguration`](../aspose.svg.imagevectorization/imagevectorizerconfiguration/) Η κλάση ορίζει μια διαμόρφωση μεθόδων και επιλογών διανυσματοποίησης εικόνας. Η διαμόρφωση χρησιμοποιείται για την προετοιμασία ενός ImageVetorizer και παρέχει τις επιλογές διαμόρφωσης για διανυσματοποίηση εικόνων. |
-| [SplinePathBuilder](./splinepathbuilder/) | Το[`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) Η κλάση είναι υπεύθυνη για τη δημιουργία τμημάτων διαδρομής[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) από τη λίστα των σημείων ίχνους. Αυτό το πρόγραμμα δημιουργίας μονοπατιών βασίζεται στην εφαρμογή μιας σειράς Catmull-Roma σε ένα σύνολο σημείων εξομάλυνσης και μειωμένης διαδρομής.. |
-| [StencilConfiguration](./stencilconfiguration/) | Το[`StencilConfiguration`](../aspose.svg.imagevectorization/stencilconfiguration/) η κλάση ορίζει μια διαμόρφωση επιλογών εφέ στένσιλ. |
+| [BezierPathBuilder](./bezierpathbuilder/) | Το [`BezierPathBuilder`](../aspose.svg.imagevectorization/bezierpathbuilder/) κλάση είναι υπεύθυνη για την κατασκευή μιας καμπύλης Bezier από ένα δεδομένο σύνολο σημείων. Προσεγγίζει ένα ίχνος σημείων με μια καμπύλη Bezier, βελτιστοποιώντας τον αριθμό των τμημάτων ώστε να ταιριάζει στενά με το αρχικό ίχνος ενώ ελαχιστοποιεί την πολυπλοκότητα. |
+| [ImageTraceSimplifier](./imagetracesimplifier/) | Η κλάση ImageTraceSimplifier είναι υπεύθυνη για τη μείωση του αριθμού των σημείων σε μια καμπύλη που προσεγγίζεται από μια σειρά σημείων ίχνους. |
+| [ImageTraceSmoother](./imagetracesmoother/) | Η κλάση ImageTraceSimplifier είναι υπεύθυνη για την εξομάλυνση του αριθμού των σημείων σε μια καμπύλη που προσεγγίζεται από μια σειρά σημείων ίχνους. Αυτή η κλάση υλοποιεί την προσέγγιση του πλησιέστερου γείτονα. |
+| [ImageVectorizer](./imagevectorizer/) | Αυτή η κλάση ImageVectorizer μετατρέπει εικόνες raster όπως PNG, JPG, GIF, BMP κ.λπ... και επιστρέφει το SVGDocument. Με τον όρο διανυσματοποίηση εννοούμε τη διαδικασία μείωσης των bitmap σε γεωμετρικά σχήματα που αποτελούνται από στοιχεία διαδρομής και αποθηκεύονται ως SVG. |
+| [ImageVectorizerConfiguration](./imagevectorizerconfiguration/) | Η κλάση [`ImageVectorizerConfiguration`](../aspose.svg.imagevectorization/imagevectorizerconfiguration/) ορίζει μια διαμόρφωση μεθόδων και επιλογών διανυσματοποίησης εικόνας. Η διαμόρφωση χρησιμοποιείται για την αρχικοποίηση ενός ImageVectorizer και παρέχει τις επιλογές διαμόρφωσης για τη διανυσματοποίηση εικόνων. |
+| [SplinePathBuilder](./splinepathbuilder/) | Η κλάση [`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) σχεδιάστηκε για την κατασκευή μιας ομαλής διαδρομής μετατρέποντας τις κεντρικές καμπύλες Catmull–Rom σε καμπύλες Bezier. Παρέχει μια μέθοδο για τη δημιουργία μιας διαδρομής που παρεμβάλλεται ομαλά μέσω ενός συνόλου σημείων, προσφέροντας μια ισορροπία μεταξύ πιστότητας στα σημεία και ομαλότητας της καμπύλης. |
+| [StencilConfiguration](./stencilconfiguration/) | Η κλάση [`StencilConfiguration`](../aspose.svg.imagevectorization/stencilconfiguration/) ορίζει μια διαμόρφωση επιλογών εφέ στένσιλ. |
 ## Διεπαφές
 
 | Διεπαφή | Περιγραφή |
 | --- | --- |
-| [IImageTraceSimplifier](./iimagetracesimplifier/) | Η διεπαφή IImageTraceSimplifier είναι υπεύθυνη για τη μείωση των σημείων στο ίχνος. |
-| [IImageTraceSmoother](./iimagetracesmoother/) | Η διεπαφή IImageTraceSmoother είναι υπεύθυνη για την εξομάλυνση του ίχνους. |
-| [IPathBuilder](./ipathbuilder/) | Η διεπαφή IPathBuilder είναι υπεύθυνη για τη δημιουργία τμημάτων διαδρομής[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) από τη λίστα των ιχνοσημείων. |
+| [IImageTraceSimplifier](./iimagetracesimplifier/) | Η διεπαφή IImageTraceSimplifier είναι υπεύθυνη για τη μείωση των σημείων στην ίχνη. |
+| [IImageTraceSmoother](./iimagetracesmoother/) | Η διεπαφή IImageTraceSmoother είναι υπεύθυνη για την εξομάλυνση της ίχνης. |
+| [IPathBuilder](./ipathbuilder/) | Η διεπαφή IPathBuilder είναι υπεύθυνη για την κατασκευή τμημάτων διαδρομής [`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) από τη λίστα των σημείων της ίχνης. |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [StencilType](./stenciltype/) | Το[`StencilType`](../aspose.svg.imagevectorization/stenciltype/) Το enum ορίζει τύπους στένσιλ. |
-
-
+| [StencilType](./stenciltype/) | Η απαρίθμηση [`StencilType`](../aspose.svg.imagevectorization/stenciltype/) ορίζει τύπους στένσιλ. |

@@ -1,27 +1,25 @@
 ---
-title: DocumentType.Name
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentType ιδιοκτησία. Το όνομα του DTD. δηλαδή το όνομα αμέσως μετά τη λέξηκλειδί DOCTYPE.
+title: "DocumentType.Name"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα DocumentType Name. Το όνομα του DTD, δηλαδή το όνομα που ακολουθεί αμέσως τη λέξη-κλειδί DOCTYPE"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom/documenttype/name/
 ---
 ## DocumentType.Name property
 
-Το όνομα του DTD. δηλαδή το όνομα αμέσως μετά τη λέξη-κλειδί DOCTYPE.
+Το όνομα του DTD· δηλαδή, το όνομα που ακολουθεί αμέσως τη λέξη-κλειδί DOCTYPE.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του κόμβου.
 
 ### Δείτε επίσης
 
 * class [DocumentType](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documenttype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

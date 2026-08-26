@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.CSS_RECT
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSPrimitiveValue πεδίο. Η τιμή είναι μια ορθή συνάρτηση. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο GetRectValue.
+title: "CSSPrimitiveValue.CSS_RECT"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο CSS_RECT του CSSPrimitiveValue. Η τιμή είναι μια συνάρτηση rect. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο GetRectValue."
 type: docs
-weight: 350
+weight: 360
 url: /el/net/aspose.svg.dom.css/cssprimitivevalue/css_rect/
 ---
 ## CSSPrimitiveValue.CSS_RECT field
 
-Η τιμή είναι μια ορθή συνάρτηση. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο GetRectValue.
+Η τιμή είναι μια συνάρτηση rect. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο GetRectValue.
 
 ```csharp
 public const ushort CSS_RECT;
@@ -17,7 +17,5 @@ public const ushort CSS_RECT;
 ### Δείτε επίσης
 
 * class [CSSPrimitiveValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

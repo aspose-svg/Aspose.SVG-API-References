@@ -1,20 +1,20 @@
 ---
-title: LengthOrAuto.UnitType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: LengthOrAuto ιδιοκτησία. Παίρνει τον τύπο μονάδας τουUnit .
+title: "LengthOrAuto.UnitType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα UnitType του LengthOrAuto. Λαμβάνει τον τύπο μονάδας του Unit"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.drawing/lengthorauto/unittype/
 ---
 ## LengthOrAuto.UnitType property
 
-Παίρνει τον τύπο μονάδας του[`Unit`](../../unit/) .
+Λαμβάνει τον τύπο μονάδας του [`Unit`](../../unit/).
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος της μονάδας.
 
@@ -22,7 +22,5 @@ public UnitType UnitType { get; }
 
 * class [UnitType](../../unittype/)
 * class [LengthOrAuto](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../lengthorauto/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

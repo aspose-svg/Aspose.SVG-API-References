@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnMouseEnter
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseEnter.
+title: "IGlobalEventHandlers.OnMouseEnter"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnMouseEnter συμβάν. Λαμβάνει ή ορίζει τη διαχείριση συμβάντος για το συμβάν OnMouseEnter"
 type: docs
 weight: 250
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onmouseenter/
 ---
 ## IGlobalEventHandlers.OnMouseEnter event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseEnter.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnMouseEnter συμβάν.
 
 ```csharp
 public event DOMEventHandler OnMouseEnter;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseEnter;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

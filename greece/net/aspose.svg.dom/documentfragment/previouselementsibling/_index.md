@@ -1,14 +1,14 @@
 ---
-title: DocumentFragment.PreviousElementSibling
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentFragment ιδιοκτησία. Επιστρέφει τον προηγούμενο κόμβο αδελφικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει κόμβους αδερφού στοιχείου που βρίσκονται πριν από αυτό στο δέντρο εγγράφων.
+title: "DocumentFragment.PreviousElementSibling"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DocumentFragment PreviousElementSibling property. Επιστρέφει τον προηγούμενο αδελφό κόμβο στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει κόμβους αδελφών στοιχείων που έρχονται πριν από αυτό στο δέντρο του εγγράφου."
 type: docs
 weight: 100
 url: /el/net/aspose.svg.dom/documentfragment/previouselementsibling/
 ---
 ## DocumentFragment.PreviousElementSibling property
 
-Επιστρέφει τον προηγούμενο κόμβο αδελφικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει κόμβους αδερφού στοιχείου που βρίσκονται πριν από αυτό στο δέντρο εγγράφων.
+Επιστρέφει τον προηγούμενο αδερφό κόμβο στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει αδερφούς κόμβους στοιχείου που έρχονται πριν από αυτό στο δέντρο του εγγράφου.
 
 ```csharp
 public Element PreviousElementSibling { get; }
@@ -18,7 +18,5 @@ public Element PreviousElementSibling { get; }
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documentfragment/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

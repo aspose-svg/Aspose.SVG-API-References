@@ -1,14 +1,14 @@
 ---
-title: Class Size
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Drawing.Size τάξη. Αποθηκεύει τιμές που καθορίζουν Ύψος και Πλάτος.
+title: "Κλάση Size"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κλάση Aspose.Svg.Drawing.Size. Αποθηκεύει τιμές που καθορίζουν το Ύψος και το Πλάτος"
 type: docs
-weight: 1580
+weight: 3610
 url: /el/net/aspose.svg.drawing/size/
 ---
 ## Size class
 
-Αποθηκεύει τιμές που καθορίζουν Ύψος και Πλάτος.
+Αποθηκεύει τιμές που καθορίζουν το Ύψος και το Πλάτος.
 
 ```csharp
 public class Size
@@ -16,22 +16,20 @@ public class Size
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Size](size/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`Size` τάξη. |
-| [Size](size/#constructor_2)(int, int) | Αρχικοποιεί μια νέα παρουσία του`Size` τάξη και καθορίστε ένα Ύψος και Πλάτος σε pixel. |
-| [Size](size/#constructor_1)(Length, Length) | Αρχικοποιεί μια νέα παρουσία του`Size` τάξη. |
+| [Size](size/#constructor)() | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `Size`. |
+| [Size](size/#constructor_2)(*int, int*) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `Size` και καθορίζει Ύψος και Πλάτος σε εικονοστοιχεία. |
+| [Size](size/#constructor_1)(*[Length](../length/), [Length](../length/)*) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `Size`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Height](../../aspose.svg.drawing/size/height/) { get; set; } | Λαμβάνει ή ορίζει το κατακόρυφο στοιχείο αυτού`Size` . |
-| [Width](../../aspose.svg.drawing/size/width/) { get; set; } | Λαμβάνει ή ορίζει το οριζόντιο στοιχείο αυτού`Size` . |
+| [Height](../../aspose.svg.drawing/size/height/) { get; set; } | Λαμβάνει ή ορίζει το κάθετο συστατικό αυτού του `Size`. |
+| [Width](../../aspose.svg.drawing/size/width/) { get; set; } | Λαμβάνει ή ορίζει το οριζόντιο συστατικό αυτού του `Size`. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

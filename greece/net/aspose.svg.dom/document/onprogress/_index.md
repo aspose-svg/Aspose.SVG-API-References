@@ -1,14 +1,14 @@
 ---
-title: Document.OnProgress
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnProgress.
+title: "Document.OnProgress"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnProgress. Λαμβάνει ή ορίζει τον χειριστή συμβάντος για το γεγονός OnProgress"
 type: docs
 weight: 620
 url: /el/net/aspose.svg.dom/document/onprogress/
 ---
 ## Document.OnProgress event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnProgress.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnProgress συμβάν.
 
 ```csharp
 public event DOMEventHandler OnProgress;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnProgress;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

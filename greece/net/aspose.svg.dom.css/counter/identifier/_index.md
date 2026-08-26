@@ -1,7 +1,7 @@
 ---
-title: Counter.Identifier
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Counter ιδιοκτησία. Αυτό το χαρακτηριστικό χρησιμοποιείται για το αναγνωριστικό του μετρητή.
+title: "Counter.Identifier"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Counter Identifier. Αυτό το χαρακτηριστικό χρησιμοποιείται για το αναγνωριστικό του μετρητή"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/counter/identifier/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/counter/identifier/
 public string Identifier { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αναγνωριστικό μετρητή.
+Το αναγνωριστικό του μετρητή.
 
 ### Δείτε επίσης
 
 * class [Counter](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../counter/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

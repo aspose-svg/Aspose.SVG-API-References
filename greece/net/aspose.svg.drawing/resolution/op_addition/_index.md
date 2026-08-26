@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Addition
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Resolution μέθοδος. Υλοποιεί τον τελεστή .
+title: "Resolution.op_Addition"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Resolution op_Addition μέθοδος. Υλοποιεί τον τελεστή"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/resolution/op_addition/
@@ -16,24 +16,22 @@ public static Resolution operator +(Resolution a, Resolution b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Resolution | Παράμετρος α. |
-| b | Resolution | Παράμετρος β. |
+| a | Resolution | Παράμετρος a. |
+| b | Resolution | Παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | Τα επιχειρήματα είναι μηδενικά |
-| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους or Τα ορίσματα έχουν διαφορετική ανάλυση or |
+| ArgumentNullException | Τα ορίσματα είναι null |
+| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους ή Τα ορίσματα έχουν διαφορετική ανάλυση ή |
 
 ### Δείτε επίσης
 
 * class [Resolution](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../resolution/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: WheelEvent.WheelEvent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: WheelEvent κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουWheelEvent τάξη.
+title: "WheelEvent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής WheelEvent. Αρχικοποιεί μια νέα παρουσία της κλάσης WheelEvent."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.events/wheelevent/wheelevent/
 ---
-## WheelEvent(string) {#constructor}
+## WheelEvent(*string*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`WheelEvent`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`WheelEvent`](../).
 
 ```csharp
 public WheelEvent(string type)
@@ -16,19 +16,19 @@ public WheelEvent(string type)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος εκδήλωσης. |
+| type | String | Ο τύπος του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [WheelEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../wheelevent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## WheelEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## WheelEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`WheelEvent`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`WheelEvent`](../).
 
 ```csharp
 public WheelEvent(string type, IDictionary<string, object> eventInitDict)
@@ -36,13 +36,11 @@ public WheelEvent(string type, IDictionary<string, object> eventInitDict)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος εκδήλωσης. |
-| eventInitDict | IDictionary`2 | Το λεξικό προετοιμασίας συμβάντος. |
+| type | String | Ο τύπος του γεγονότος. |
+| eventInitDict | IDictionary`2 | Το λεξικό αρχικοποίησης του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [WheelEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../wheelevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

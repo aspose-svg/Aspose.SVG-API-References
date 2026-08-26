@@ -1,28 +1,26 @@
 ---
-title: SVGScriptElement.Href
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGScriptElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό xlinkhref στο δεδομένο στοιχείο.
+title: "SVGScriptElement.Href"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Href του SVGScriptElement. Αντιστοιχεί στο χαρακτηριστικό xlinkhref του δεδομένου στοιχείου"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgscriptelement/href/
 ---
 ## SVGScriptElement.Href property
 
-Αντιστοιχεί στο χαρακτηριστικό 'xlink:href' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘xlink:href’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το 'xlink:href' του δεδομένου στοιχείου.
+Το ‘xlink:href’ του δεδομένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGScriptElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgscriptelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

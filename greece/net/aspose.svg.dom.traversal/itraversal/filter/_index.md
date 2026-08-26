@@ -1,20 +1,20 @@
 ---
-title: ITraversal.Filter
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ITraversal ιδιοκτησία. Το NodeFilter που χρησιμοποιείται για την οθόνη κόμβων.
+title: "ITraversal.Filter"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Filter του ITraversal. Το NodeFilter που χρησιμοποιείται για το φιλτράρισμα των κόμβων."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
 
-Το NodeFilter που χρησιμοποιείται για την οθόνη κόμβων.
+Το NodeFilter που χρησιμοποιείται για το φιλτράρισμα των κόμβων.
 
 ```csharp
 public INodeFilter Filter { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το φίλτρο.
 
@@ -22,7 +22,5 @@ public INodeFilter Filter { get; }
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Url.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Url μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "Url.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Url ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία."
 type: docs
 weight: 170
 url: /el/net/aspose.svg/url/tostring/
 ---
 ## Url.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnReadyStateChange
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnReadyStateChange.
+title: "Document.OnReadyStateChange"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Συμβάν Document OnReadyStateChange. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnReadyStateChange."
 type: docs
 weight: 640
 url: /el/net/aspose.svg.dom/document/onreadystatechange/
 ---
 ## Document.OnReadyStateChange event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnReadyStateChange.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnReadyStateChange.
 
 ```csharp
 public event DOMEventHandler OnReadyStateChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnReadyStateChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

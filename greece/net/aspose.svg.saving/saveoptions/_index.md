@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Saving.SaveOptions τάξη. Αυτή είναι μια αφηρημένη βασική κλάση για κλάσεις που επιτρέπουν στο χρήστη να καθορίσει πρόσθετες επιλογές κατά την αποθήκευση ενός εγγράφου σε μια συγκεκριμένη μορφή.
+title: "Κλάση SaveOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Saving.SaveOptions class. Αυτή είναι μια αφηρημένη βασική κλάση για κλάσεις που επιτρέπουν στον χρήστη να καθορίσει πρόσθετες επιλογές κατά την αποθήκευση ενός εγγράφου σε συγκεκριμένη μορφή"
 type: docs
-weight: 3680
+weight: 5810
 url: /el/net/aspose.svg.saving/saveoptions/
 ---
 ## SaveOptions class
 
-Αυτή είναι μια αφηρημένη βασική κλάση για κλάσεις που επιτρέπουν στο χρήστη να καθορίσει πρόσθετες επιλογές κατά την αποθήκευση ενός εγγράφου σε μια συγκεκριμένη μορφή.
+Αυτή είναι μια αφηρημένη βασική κλάση για κλάσεις που επιτρέπουν στον χρήστη να καθορίσει πρόσθετες επιλογές κατά την αποθήκευση ενός εγγράφου σε συγκεκριμένη μορφή.
 
 ```csharp
 public abstract class SaveOptions
@@ -16,13 +16,11 @@ public abstract class SaveOptions
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Παίρνει ένα[`ResourceHandlingOptions`](../resourcehandlingoptions/) αντικείμενο που χρησιμοποιείται για τη διαμόρφωση του χειρισμού πόρων. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Λαμβάνει ένα αντικείμενο [`ResourceHandlingOptions`](../resourcehandlingoptions/) που χρησιμοποιείται για τη διαμόρφωση της διαχείρισης πόρων. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

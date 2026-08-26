@@ -1,7 +1,7 @@
 ---
-title: Document.Origin
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Λαμβάνει την προέλευση του εγγράφου.
+title: "Document.Origin"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document Origin. Επιστρέφει την προέλευση του εγγράφου"
 type: docs
 weight: 200
 url: /el/net/aspose.svg.dom/document/origin/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/document/origin/
 public string Origin { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η προέλευση.
 
 ### Δείτε επίσης
 
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

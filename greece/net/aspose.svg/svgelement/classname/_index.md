@@ -1,28 +1,26 @@
 ---
-title: SVGElement.ClassName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό class στο δεδομένο στοιχείο.
+title: "SVGElement.ClassName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ClassName του SVGElement. Συμφωνεί με το χαρακτηριστικό class στο δεδομένο στοιχείο."
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svgelement/classname/
 ---
 ## SVGElement.ClassName property
 
-Αντιστοιχεί στο χαρακτηριστικό 'class' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘class’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGAnimatedString ClassName { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα της τάξης.
+Το όνομα της κλάσης.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Configuration.Configuration
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Configuration κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουConfiguration τάξη.
+title: "Διαμόρφωση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής Configuration. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης Configuration"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/configuration/configuration/
 ---
 ## Configuration constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`Configuration`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Configuration`](../).
 
 ```csharp
 public Configuration()
@@ -17,7 +17,5 @@ public Configuration()
 ### Δείτε επίσης
 
 * class [Configuration](../)
-* χώρος ονομάτων [Aspose.Svg](../../configuration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class UrlResolver
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.UrlResolver τάξη. Αντιπροσωπεύει την κλάση βοηθητικού προγράμματος για την επίλυση απόλυτης διεύθυνσης URL με ένα Uniform Resource Identifier URI.
+title: "Κλάση UrlResolver"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η κλάση Aspose.Svg.Net.UrlResolver. Αντιπροσωπεύει βοηθητική κλάση για την επίλυση απόλυτης URL με Uniform Resource Identifier URI"
 type: docs
-weight: 2470
+weight: 4540
 url: /el/net/aspose.svg.net/urlresolver/
 ---
 ## UrlResolver class
 
-Αντιπροσωπεύει την κλάση βοηθητικού προγράμματος για την επίλυση απόλυτης διεύθυνσης URL με ένα Uniform Resource Identifier (URI).
+Αντιπροσωπεύει κλάση βοηθητικού προγράμματος για την επίλυση απόλυτης διεύθυνσης URL μέσω ενός Καθολικού Αναγνωριστικού Πόρων (URI).
 
 ```csharp
 public class UrlResolver
@@ -16,19 +16,17 @@ public class UrlResolver
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [UrlResolver](urlresolver/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| virtual [Resolve](../../aspose.svg.net/urlresolver/resolve/)(string, string) | Επιλύει το απόλυτο URI από το βασικό και σχετικό URI. |
+| virtual [Resolve](../../aspose.svg.net/urlresolver/resolve/)(*string, string*) | Επιλύει το απόλυτο URI από τη βάση και τα σχετικά URIs. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

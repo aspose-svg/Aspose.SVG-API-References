@@ -1,14 +1,14 @@
 ---
-title: Color.FromLaba
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα νέο χρώμα με την ζητούμενη φωτεινότητα A B τιμές άλφα.
+title: "Color.FromLaba"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color FromLaba. Επιστρέφει ένα νέο Color με τις ζητούμενες τιμές φωτεινότητας A, B και alpha"
 type: docs
 weight: 130
 url: /el/net/aspose.svg.drawing/color/fromlaba/
 ---
 ## Color.FromLaba method
 
-Επιστρέφει ένα νέο χρώμα με την ζητούμενη φωτεινότητα, A, B, τιμές άλφα.
+Επιστρέφει ένα νέο Χρώμα με τις ζητούμενες τιμές φωτεινότητα, A, B, άλφα.
 
 ```csharp
 public static Color FromLaba(float lightness, float a, float b, float alpha)
@@ -16,19 +16,17 @@ public static Color FromLaba(float lightness, float a, float b, float alpha)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| lightness | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο ελαφρότητας του χρώματος. |
-| a | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο A του χρώματος. |
-| b | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο Β του χρώματος. |
-| alpha | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο άλφα του χρώματος. |
+| φωτεινότητα | Single | Ένα float που αντιπροσωπεύει το συστατικό φωτεινότητας του χρώματος. |
+| a | Single | Ένα float που αντιπροσωπεύει το συστατικό A του χρώματος. |
+| b | Single | Ένα float που αντιπροσωπεύει το συστατικό B του χρώματος. |
+| άλφα | Single | Μια float που αντιπροσωπεύει το συστατικό άλφα του χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

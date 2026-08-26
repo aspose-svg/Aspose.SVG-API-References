@@ -1,14 +1,14 @@
 ---
-title: Color.FromCmyka
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα νέο χρώμα με τις ζητούμενες τιμές κυανό ματζέντα κίτρινο κλειδί μαύρο άλφα.
+title: "Color.FromCmyka"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color FromCmyka. Επιστρέφει ένα νέο Color με τις ζητούμενες τιμές κυανό, ματζέντα, κίτρινο, κλειδί (μαύρο) και άλφα."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/color/fromcmyka/
 ---
 ## Color.FromCmyka method
 
-Επιστρέφει ένα νέο χρώμα με τις ζητούμενες τιμές κυανό, ματζέντα, κίτρινο, κλειδί (μαύρο), άλφα.
+Επιστρέφει ένα νέο Χρώμα με τις ζητούμενες τιμές κυανό, ματζέντα, κίτρινο, key (μαύρο), άλφα.
 
 ```csharp
 public static Color FromCmyka(float cyan, float magenta, float yellow, float key, float alpha)
@@ -16,20 +16,18 @@ public static Color FromCmyka(float cyan, float magenta, float yellow, float key
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| cyan | Single | Ένας πλωτήρας που αντιπροσωπεύει το κυανό συστατικό του χρώματος. |
-| magenta | Single | Ένας πλωτήρας που αντιπροσωπεύει το ματζέντα συστατικό του χρώματος. |
-| yellow | Single | Ένας πλωτήρας που αντιπροσωπεύει το κίτρινο συστατικό του χρώματος. |
-| key | Single | Ένας πλωτήρας που αντιπροσωπεύει το βασικό συστατικό του χρώματος. |
-| alpha | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο άλφα του χρώματος. |
+| κυανό | Single | Μια τιμή float που αντιπροσωπεύει το συστατικό κυανό του χρώματος. |
+| ματζέντα | Single | Μια τιμή float που αντιπροσωπεύει το συστατικό ματζέντα του χρώματος. |
+| κίτρινο | Single | Μια τιμή float που αντιπροσωπεύει το συστατικό κίτρινο του χρώματος. |
+| κλειδί | Single | Μια τιμή float που αντιπροσωπεύει το συστατικό key του χρώματος. |
+| άλφα | Single | Μια float που αντιπροσωπεύει το συστατικό άλφα του χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

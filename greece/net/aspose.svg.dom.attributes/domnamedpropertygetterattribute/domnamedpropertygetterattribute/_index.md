@@ -1,7 +1,7 @@
 ---
-title: DOMNamedPropertyGetterAttribute.DOMNamedPropertyGetterAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMNamedPropertyGetterAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DOMNamedPropertyGetterAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMNamedPropertyGetterAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/domnamedpropertygetterattribute/
@@ -17,7 +17,5 @@ public DOMNamedPropertyGetterAttribute()
 ### Δείτε επίσης
 
 * class [DOMNamedPropertyGetterAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domnamedpropertygetterattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,29 +1,27 @@
 ---
-title: Enum AtPagePriority
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.AtPagePriority αρίθμηση. Καθορίζει πιθανές εντολές εφαρμογής δηλώσεων μεγέθους σελίδας.
+title: "AtPagePriority Απαριθμός"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.AtPagePriority απαριθμός. Καθορίζει τις πιθανές σειρές εφαρμογής των δηλώσεων μεγέθους σελίδας."
 type: docs
-weight: 2710
+weight: 4780
 url: /el/net/aspose.svg.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration
 
-Καθορίζει πιθανές εντολές εφαρμογής δηλώσεων μεγέθους σελίδας.
+Καθορίζει τις πιθανές σειρές εφαρμογής δηλώσεων μεγέθους σελίδας.
 
 ```csharp
 public enum AtPagePriority
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| OptionsPriority | `0` | Καθορίζει ότι[`PageSetup`](../pagesetup/) τιμές που δηλώνονται σε[`RenderingOptions`](../renderingoptions/) θα αντικαταστήσει τις τιμές που ορίζονται στο css by`@σελίδα` κανόνες . |
-| CssPriority | `1` | Καθορίζει ότι`@σελίδα` κανόνες που ορίζεται στο css θα αντικαταστήσει τις τιμές που ορίζονται στο[`PageSetup`](../pagesetup/) . |
+| OptionsPriority | `0` | Καθορίζει ότι οι τιμές του [`PageSetup`](../pagesetup/) που δηλώνονται στο [`RenderingOptions`](../renderingoptions/) θα παρακάμψουν τις τιμές που ορίζονται στο css από τους κανόνες `@page`. |
+| CssPriority | `1` | Καθορίζει ότι οι κανόνες `@page` που ορίζονται στο css θα παρακάμψουν τις τιμές που ορίζονται στο [`PageSetup`](../pagesetup/). |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

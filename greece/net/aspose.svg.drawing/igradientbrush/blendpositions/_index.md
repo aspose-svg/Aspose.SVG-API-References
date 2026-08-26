@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendPositions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGradientBrush ιδιοκτησία. Λάβετε τις θέσεις ανάμειξης που ορίζουν μια προσαρμοσμένη πτώση για την κλίση.
+title: "IGradientBrush.BlendPositions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IGradientBrush BlendPositions. Λαμβάνει ή ορίζει τις θέσεις ανάμειξης που ορίζουν μια προσαρμοσμένη εξασθένιση για τη διαβάθμιση."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/igradientbrush/blendpositions/
 ---
 ## IGradientBrush.BlendPositions property
 
-Λάβετε τις θέσεις ανάμειξης που ορίζουν μια προσαρμοσμένη πτώση για την κλίση.
+Λαμβάνει ή ορίζει τις θέσεις ανάμειξης που ορίζουν μια προσαρμοσμένη εξασθένιση για το gradient.
 
 ```csharp
-public float[] BlendPositions { get; }
+public float[] BlendPositions { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ανάμειξη θέσεων.
+Θέσεις ανάμειξης.
 
 ### Δείτε επίσης
 
 * interface [IGradientBrush](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../igradientbrush/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

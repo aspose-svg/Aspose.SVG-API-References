@@ -1,20 +1,20 @@
 ---
-title: ITraversal.Root
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ITraversal ιδιοκτησία. Ο ριζικός κόμβος του NodeIterator όπως καθορίστηκε όταν δημιουργήθηκε το it .
+title: "ITraversal.Root"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Root του ITraversal. Ο ριζικός κόμβος του NodeIterator όπως ορίστηκε όταν δημιουργήθηκε."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.traversal/itraversal/root/
 ---
 ## ITraversal.Root property
 
-Ο ριζικός κόμβος του NodeIterator, όπως καθορίστηκε όταν δημιουργήθηκε το it .
+Ο ριζικός κόμβος του NodeIterator, όπως ορίστηκε όταν δημιουργήθηκε.
 
 ```csharp
 public Node Root { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ρίζα.
 
@@ -22,7 +22,5 @@ public Node Root { get; }
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

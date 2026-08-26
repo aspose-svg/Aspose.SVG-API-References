@@ -1,14 +1,14 @@
 ---
-title: Color.FromLab
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα νέο χρώμα με την ζητούμενη φωτεινότητα τιμές A B.
+title: "Color.FromLab"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color FromLab. Επιστρέφει ένα νέο Color με τις ζητούμενες τιμές φωτεινότητας A B."
 type: docs
 weight: 120
 url: /el/net/aspose.svg.drawing/color/fromlab/
 ---
 ## Color.FromLab method
 
-Επιστρέφει ένα νέο χρώμα με την ζητούμενη φωτεινότητα, τιμές A, B.
+Επιστρέφει ένα νέο Χρώμα με τις ζητούμενες τιμές φωτεινότητα, A, B.
 
 ```csharp
 public static Color FromLab(float lightness, float a, float b)
@@ -16,18 +16,16 @@ public static Color FromLab(float lightness, float a, float b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| lightness | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο ελαφρότητας του χρώματος. |
-| a | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο A του χρώματος. |
-| b | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο Β του χρώματος. |
+| φωτεινότητα | Single | Ένα float που αντιπροσωπεύει το συστατικό φωτεινότητας του χρώματος. |
+| a | Single | Ένα float που αντιπροσωπεύει το συστατικό A του χρώματος. |
+| b | Single | Ένα float που αντιπροσωπεύει το συστατικό B του χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.Width
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPatternElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό width στο δεδομένο στοιχείο pattern.
+title: "SVGPatternElement.Width"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Width του SVGPatternElement. Αντιστοιχεί στην ιδιότητα width στο δεδομένο στοιχείο pattern"
 type: docs
 weight: 110
 url: /el/net/aspose.svg/svgpatternelement/width/
 ---
 ## SVGPatternElement.Width property
 
-Αντιστοιχεί στο χαρακτηριστικό 'width' στο δεδομένο στοιχείο 'pattern'.
+Αντιστοιχεί στο χαρακτηριστικό ‘width’ του δεδομένου στοιχείου ‘pattern’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "width" του δεδομένου στοιχείου "μοτίβο".
+Η ιδιότητα ‘width’ του δεδομένου στοιχείου ‘pattern’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpatternelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

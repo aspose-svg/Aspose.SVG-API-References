@@ -1,7 +1,7 @@
 ---
-title: CDATASection.NodeName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CDATASection ιδιοκτησία. Το όνομα αυτού του κόμβου ανάλογα με τον τύπο του.
+title: "CDATASection.NodeName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα CDATASection NodeName. Το όνομα αυτού του κόμβου ανάλογα με τον τύπο του."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/cdatasection/nodename/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/cdatasection/nodename/
 public override string NodeName { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του κόμβου.
 
 ### Δείτε επίσης
 
 * class [CDATASection](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../cdatasection/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

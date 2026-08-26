@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.StringRepresentation
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GlyphInfo ιδιοκτησία. Λαμβάνει την παράσταση συμβολοσειράς αυτής της γλυφής.
+title: "GlyphInfo.StringRepresentation"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα GlyphInfo StringRepresentation. Λαμβάνει την αναπαράσταση string αυτού του glyph."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
 ---
 ## GlyphInfo.StringRepresentation property
 
-Λαμβάνει την παράσταση συμβολοσειράς αυτής της γλυφής.
+Λαμβάνει την αναπαράσταση συμβολοσειράς αυτού του γλύφου.
 
 ```csharp
 public string StringRepresentation { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΑString που αντιπροσωπεύει αυτή τη γλυφή.
+Ένα String που αντιπροσωπεύει αυτό το glyph.
 
 ### Δείτε επίσης
 
 * struct [GlyphInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../glyphinfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

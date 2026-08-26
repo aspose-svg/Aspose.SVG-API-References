@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnError
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnError.
+title: "IGlobalEventHandlers.OnError"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnError συμβάν. Λαμβάνει ή ορίζει τη διαχείριση συμβάντος για το συμβάν OnError"
 type: docs
 weight: 130
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onerror/
 ---
 ## IGlobalEventHandlers.OnError event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnError.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnError.
 
 ```csharp
 public event DOMEventHandler OnError;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnError;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

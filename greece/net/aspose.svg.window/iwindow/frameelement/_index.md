@@ -1,20 +1,20 @@
 ---
-title: IWindow.FrameElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IWindow ιδιοκτησία. Το αντικείμενο FrameElement ενός εγγράφου.
+title: "IWindow.FrameElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IWindow FrameElement property. Το αντικείμενο frameElement ενός Document"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.window/iwindow/frameelement/
 ---
 ## IWindow.FrameElement property
 
-Το αντικείμενο FrameElement ενός εγγράφου.
+Το αντικείμενο frameElement ενός Document.
 
 ```csharp
 public Element FrameElement { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το στοιχείο πλαισίου.
 
@@ -22,7 +22,5 @@ public Element FrameElement { get; }
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IWindow](../)
-* χώρος ονομάτων [Aspose.Svg.Window](../../iwindow/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

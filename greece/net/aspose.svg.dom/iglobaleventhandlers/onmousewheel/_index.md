@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnMouseWheel
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseWheel.
+title: "IGlobalEventHandlers.OnMouseWheel"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnMouseWheel συμβάν. Λαμβάνει ή ορίζει τη διαχείριση συμβάντος για το συμβάν OnMouseWheel"
 type: docs
 weight: 310
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onmousewheel/
 ---
 ## IGlobalEventHandlers.OnMouseWheel event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseWheel.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnMouseWheel συμβάν.
 
 ```csharp
 public event DOMEventHandler OnMouseWheel;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseWheel;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

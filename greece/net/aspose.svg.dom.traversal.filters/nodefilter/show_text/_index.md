@@ -1,14 +1,14 @@
 ---
-title: NodeFilter.SHOW_TEXT
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NodeFilter πεδίο. Εμφάνιση κόμβων κειμένου.
+title: "NodeFilter.SHOW_TEXT"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο NodeFilter SHOW_TEXT. Εμφανίζει κόμβους Text"
 type: docs
 weight: 180
 url: /el/net/aspose.svg.dom.traversal.filters/nodefilter/show_text/
 ---
 ## NodeFilter.SHOW_TEXT field
 
-Εμφάνιση κόμβων κειμένου.
+Εμφάνιση κόμβων Text.
 
 ```csharp
 public const long SHOW_TEXT;
@@ -17,7 +17,5 @@ public const long SHOW_TEXT;
 ### Δείτε επίσης
 
 * class [NodeFilter](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

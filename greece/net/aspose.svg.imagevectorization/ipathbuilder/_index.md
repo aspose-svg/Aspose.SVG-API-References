@@ -1,14 +1,14 @@
 ---
-title: Interface IPathBuilder
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ImageVectorization.IPathBuilder διεπαφή. Η διεπαφή IPathBuilder είναι υπεύθυνη για τη δημιουργία τμημάτων διαδρομήςSVGPathSeg από τη λίστα των ιχνοσημείων.
+title: "Διεπαφή IPathBuilder"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η διεπαφή Aspose.Svg.ImageVectorization.IPathBuilder. Η διεπαφή IPathBuilder είναι υπεύθυνη για την κατασκευή τμημάτων διαδρομής SVGPathSeg από τη λίστα των σημείων ίχνους."
 type: docs
-weight: 2110
+weight: 4180
 url: /el/net/aspose.svg.imagevectorization/ipathbuilder/
 ---
 ## IPathBuilder interface
 
-Η διεπαφή IPathBuilder είναι υπεύθυνη για τη δημιουργία τμημάτων διαδρομής[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) από τη λίστα των ιχνοσημείων.
+Η διεπαφή IPathBuilder είναι υπεύθυνη για την κατασκευή τμημάτων διαδρομής [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) από τη λίστα των σημείων ίχνους.
 
 ```csharp
 public interface IPathBuilder
@@ -16,13 +16,11 @@ public interface IPathBuilder
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Δημιουργεί τμήματα διαδρομής από τη λίστα των σημείων ίχνους. |
+| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | Βελτιστοποιεί ένα δεδομένο ίχνος σε τμήμα διαδρομής SVG, χρησιμοποιώντας τον ελάχιστο αριθμό εντολών γραμμής και καμπύλης Bezier για ακριβή αναπαράσταση. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

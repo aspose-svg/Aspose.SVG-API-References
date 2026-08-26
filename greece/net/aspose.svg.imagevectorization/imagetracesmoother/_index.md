@@ -1,14 +1,14 @@
 ---
-title: Class ImageTraceSmoother
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ImageVectorization.ImageTraceSmoother τάξη. Η κλάση ImageTraceSimplifier είναι υπεύθυνη για την εξομάλυνση του αριθμού των σημείων σε μια καμπύλη που προσεγγίζεται από μια σειρά σημείων ίχνους. Αυτή η κλάση εφαρμόζει προσέγγιση πλησιέστερου γείτονα.
+title: "Κλάση ImageTraceSmoother"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η κλάση Aspose.Svg.ImageVectorization.ImageTraceSmoother. Η κλάση ImageTraceSimplifier είναι υπεύθυνη για την εξομάλυνση του αριθμού των σημείων σε μια καμπύλη που προσεγγίζεται από μια σειρά σημείων ίχνους. Αυτή η κλάση υλοποιεί την προσέγγιση του πλησιέστερου γείτονα"
 type: docs
-weight: 2130
+weight: 4200
 url: /el/net/aspose.svg.imagevectorization/imagetracesmoother/
 ---
 ## ImageTraceSmoother class
 
-Η κλάση ImageTraceSimplifier είναι υπεύθυνη για την εξομάλυνση του αριθμού των σημείων σε μια καμπύλη που προσεγγίζεται από μια σειρά σημείων ίχνους. Αυτή η κλάση εφαρμόζει προσέγγιση πλησιέστερου γείτονα.
+Η κλάση ImageTraceSimplifier είναι υπεύθυνη για την εξομάλυνση του αριθμού των σημείων σε μια καμπύλη που προσεγγίζεται από μια σειρά σημείων ίχνους. Αυτή η κλάση υλοποιεί την προσέγγιση του πλησιέστερου γείτονα.
 
 ```csharp
 public class ImageTraceSmoother : IImageTraceSmoother
@@ -16,27 +16,25 @@ public class ImageTraceSmoother : IImageTraceSmoother
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ImageTraceSmoother](imagetracesmoother/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`ImageTraceSmoother` τάξη. |
-| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(int) | Αρχικοποιεί μια νέα παρουσία του`ImageTraceSmoother` τάξη. |
+| [ImageTraceSmoother](imagetracesmoother/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `ImageTraceSmoother`. |
+| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(*int*) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ImageTraceSmoother`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent/) { get; set; } | Λαμβάνει την έκταση των συνόλων της περιοχής που εξετάζεται από το σημείο ερωτήματος. Πρέπει να είναι στην περιοχή από 1 έως 20. Οποιεσδήποτε υψηλότερες ή χαμηλότερες τιμές θα ευθυγραμμιστούν με τις ελάχιστες και τις μέγιστες τιμές αυτού του εύρους, αντίστοιχα. |
+| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent/) { get; set; } | Λαμβάνει ή ορίζει την έκταση της περιοχής που θεωρείται από το σημείο ερωτήματος. Πρέπει να βρίσκεται στο εύρος από 1 έως 20. Οποιαδήποτε υψηλότερη ή χαμηλότερη τιμή θα ευθυγραμμιστεί με τις ελάχιστες και μέγιστες τιμές αυτού του εύρους, αντίστοιχα. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(IEnumerable&lt;PointF&gt;) | Λειαίνει το ίχνος. |
+| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(*IEnumerable&lt;PointF&gt;*) | Εξομαλύνει το ίχνος. |
 
 ### Δείτε επίσης
 
 * interface [IImageTraceSmoother](../iimagetracesmoother/)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

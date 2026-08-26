@@ -1,7 +1,7 @@
 ---
-title: ICSSRule.ParentStyleSheet
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSRule ιδιοκτησία. Το φύλλο στυλ που περιέχει αυτόν τον κανόνα.
+title: "ICSSRule.ParentStyleSheet"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ParentStyleSheet του ICSSRule. Το φύλλο στυλ που περιέχει αυτόν τον κανόνα."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.css/icssrule/parentstylesheet/
@@ -18,7 +18,5 @@ public ICSSStyleSheet ParentStyleSheet { get; }
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssrule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

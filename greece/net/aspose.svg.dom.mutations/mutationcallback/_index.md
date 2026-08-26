@@ -1,14 +1,14 @@
 ---
-title: Delegate MutationCallback
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Αντιπροσωπεύει τη μέθοδο που θα χειριστεί συμβάντα μετάλλαξης.
+title: "MutationCallback Delegate"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Αναπαριστά τη μέθοδο που θα χειριστεί συμβάντα μεταβολής"
 type: docs
-weight: 1110
+weight: 3100
 url: /el/net/aspose.svg.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate
 
-Αντιπροσωπεύει τη μέθοδο που θα χειριστεί συμβάντα μετάλλαξης.
+Αντιπροσωπεύει τη μέθοδο που θα διαχειρίζεται γεγονότα μεταβολής.
 
 ```csharp
 public delegate void MutationCallback(IList<MutationRecord> mutations, MutationObserver observer);
@@ -16,14 +16,12 @@ public delegate void MutationCallback(IList<MutationRecord> mutations, MutationO
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| mutations | IList`1 | Η λίστα των εγγραφών μετάλλαξης. |
-| observer | MutationObserver | Ο παρατηρητής μετάλλαξης. |
+| μεταβολές | IList`1 | Η λίστα των εγγραφών μεταβολής. |
+| παρατηρητής | MutationObserver | Ο παρατηρητής μεταβολής. |
 
 ### Δείτε επίσης
 
 * class [MutationRecord](../mutationrecord/)
 * class [MutationObserver](../mutationobserver/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

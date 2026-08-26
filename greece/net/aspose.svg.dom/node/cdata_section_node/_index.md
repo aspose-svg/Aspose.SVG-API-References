@@ -1,9 +1,9 @@
 ---
-title: Node.CDATA_SECTION_NODE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node πεδίο. Ένας κόμβος ενότητας cdata
+title: "Node.CDATA_SECTION_NODE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο Node CDATA_SECTION_NODE. Ένας κόμβος ενότητας CDATA."
 type: docs
-weight: 330
+weight: 310
 url: /el/net/aspose.svg.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
@@ -17,7 +17,5 @@ public const ushort CDATA_SECTION_NODE;
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

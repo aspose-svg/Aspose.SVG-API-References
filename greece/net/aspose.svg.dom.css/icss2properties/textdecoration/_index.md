@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.TextDecoration
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας textdecoration στο CSS2.
+title: "ICSS2Properties.TextDecoration"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties TextDecoration ιδιότητα. Δείτε τον ορισμό της ιδιότητας text-decoration στο CSS2"
 type: docs
-weight: 1080
+weight: 1110
 url: /el/net/aspose.svg.dom.css/icss2properties/textdecoration/
 ---
 ## ICSS2Properties.TextDecoration property
 
-Δείτε τον ορισμό της ιδιότητας text-decoration στο CSS2.
+Δείτε τον ορισμό ιδιότητας text-decoration στο CSS2.
 
 ```csharp
 public string TextDecoration { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-κείμενο-διακόσμηση ιδιοκτησίας
+ιδιότητα text-decoration
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnChange
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnChange.
+title: "Document.OnChange"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnChange. Λαμβάνει ή ορίζει τη διαχείριση συμβάντος για το γεγονός OnChange."
 type: docs
 weight: 330
 url: /el/net/aspose.svg.dom/document/onchange/
 ---
 ## Document.OnChange event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnChange.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnChange.
 
 ```csharp
 public event DOMEventHandler OnChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

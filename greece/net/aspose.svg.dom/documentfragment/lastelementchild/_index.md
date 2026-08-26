@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.LastElementChild
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentFragment ιδιοκτησία. Επιστρέφει τον τελευταίο κόμβο θυγατρικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει θυγατρικά στοιχεία.
+title: "DocumentFragment.LastElementChild"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DocumentFragment LastElementChild property. Επιστρέφει τον τελευταίο κόμβο στοιχείου παιδί αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει παιδικά στοιχεία."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom/documentfragment/lastelementchild/
 ---
 ## DocumentFragment.LastElementChild property
 
-Επιστρέφει τον τελευταίο κόμβο θυγατρικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει θυγατρικά στοιχεία.
+Επιστρέφει τον τελευταίο κόμβο στοιχείου παιδί αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει παιδιά στοιχεία.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το τελευταίο στοιχείο παιδί.
+Το τελευταίο παιδί στοιχείου.
 
 ### Δείτε επίσης
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documentfragment/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

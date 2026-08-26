@@ -1,14 +1,14 @@
 ---
-title: Unit.FromSeconds
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αTime αντικείμενο που αναπαρίσταται σε δευτερόλεπτα.
+title: "Unit.FromSeconds"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Unit FromSeconds. Επιστρέφει ένα αντικείμενο Time που αντιπροσωπεύεται σε δευτερόλεπτα"
 type: docs
 weight: 210
 url: /el/net/aspose.svg.drawing/unit/fromseconds/
 ---
 ## Unit.FromSeconds method
 
-Επιστρέφει α[`Time`](../../time/) αντικείμενο που αναπαρίσταται σε δευτερόλεπτα.
+Επιστρέφει ένα αντικείμενο [`Time`](../../time/) που αντιπροσωπεύεται σε δευτερόλεπτα.
 
 ```csharp
 public static Time FromSeconds(double value)
@@ -16,17 +16,15 @@ public static Time FromSeconds(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Time`](../../time/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Time`](../../time/).
 
 ### Δείτε επίσης
 
 * class [Time](../../time/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

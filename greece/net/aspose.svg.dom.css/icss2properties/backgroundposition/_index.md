@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BackgroundPosition
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας backgroundposition στο CSS2.
+title: "ICSS2Properties.BackgroundPosition"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα BackgroundPosition του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας background-position στο CSS2"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom.css/icss2properties/backgroundposition/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/backgroundposition/
 public string BackgroundPosition { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ιδιότητα θέσης φόντου
+ιδιότητα background-position
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

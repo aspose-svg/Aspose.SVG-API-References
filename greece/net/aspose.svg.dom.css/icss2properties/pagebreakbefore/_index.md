@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.PageBreakBefore
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας αλλαγής σελίδας πριν από το CSS2.
+title: "ICSS2Properties.PageBreakBefore"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties PageBreakBefore ιδιότητα. Δείτε τον ορισμό της ιδιότητας page-break-before στο CSS2"
 type: docs
-weight: 870
+weight: 900
 url: /el/net/aspose.svg.dom.css/icss2properties/pagebreakbefore/
 ---
 ## ICSS2Properties.PageBreakBefore property
 
-Δείτε τον ορισμό της ιδιότητας αλλαγής σελίδας πριν από το CSS2.
+Δείτε τον ορισμό της ιδιότητας page-break-before στο CSS2.
 
 ```csharp
 public string PageBreakBefore { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα αλλαγής σελίδας πριν
+ιδιότητα page-break-before
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

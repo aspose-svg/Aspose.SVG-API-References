@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGTransformFromMatrix
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement μέθοδος. Δημιουργεί ένα αντικείμενο SVGTransform εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται στον δεδομένο μετασχηματισμό μήτρας δηλ. SVG_TRANSFORM_MATRIX. Οι τιμές από τον πίνακα παραμέτρων αντιγράφονται η παράμετρος του πίνακα δεν υιοθετείται ως SVGTransformmatrix.
+title: "SVGSVGElement.CreateSVGTransformFromMatrix"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος CreateSVGTransformFromMatrix του SVGSVGElement. Δημιουργεί ένα αντικείμενο SVGTransform εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται στον δεδομένο μετασχηματισμό μήτρας, δηλαδή SVG_TRANSFORM_MATRIX. Οι τιμές από τη παράμετρο matrix αντιγράφονται· η παράμετρος matrix δεν υιοθετείται ως SVGTransformmatrix."
 type: docs
 weight: 190
 url: /el/net/aspose.svg/svgsvgelement/createsvgtransformfrommatrix/
 ---
 ## SVGSVGElement.CreateSVGTransformFromMatrix method
 
-Δημιουργεί ένα αντικείμενο SVGTransform εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται στον δεδομένο μετασχηματισμό μήτρας (δηλ. SVG_TRANSFORM_MATRIX). Οι τιμές από τον πίνακα παραμέτρων αντιγράφονται, η παράμετρος του πίνακα δεν υιοθετείται ως SVGTransform::matrix.
+Δημιουργεί ένα αντικείμενο SVGTransform εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται στον δοσμένο μετασχηματισμό πίνακα (π.χ., SVG_TRANSFORM_MATRIX). Οι τιμές από τον πίνακα παραμέτρων αντιγράφονται, η παράμετρος matrix δεν υιοθετείται ως SVGTransform::matrix.
 
 ```csharp
 public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
@@ -18,7 +18,7 @@ public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
 | --- | --- | --- |
 | matrix | SVGMatrix | Ο πίνακας μετασχηματισμού. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα αντικείμενο SVGTransform.
 
@@ -27,7 +27,5 @@ public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

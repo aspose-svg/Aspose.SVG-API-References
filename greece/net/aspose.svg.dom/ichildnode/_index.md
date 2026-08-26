@@ -1,14 +1,14 @@
 ---
-title: Interface IChildNode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.IChildNode διεπαφή. ΟρίζειIChildNode διεπαφή που θα πρέπει να υλοποιηθεί απόNode που μπορεί να έχει γονέα.
+title: "IChildNode Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.IChildNode διεπαφή. Ορίζει τη διεπαφή IChildNode που πρέπει να υλοποιείται από Node που μπορεί να έχει γονέα."
 type: docs
-weight: 1030
+weight: 3030
 url: /el/net/aspose.svg.dom/ichildnode/
 ---
 ## IChildNode interface
 
-Ορίζει`IChildNode` διεπαφή που θα πρέπει να υλοποιηθεί από[`Node`](../node/) που μπορεί να έχει γονέα.
+Ορίζει τη διεπαφή `IChildNode` που πρέπει να υλοποιείται από [`Node`](../node/) που μπορεί να έχει γονέα.
 
 ```csharp
 public interface IChildNode
@@ -16,13 +16,11 @@ public interface IChildNode
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Remove](../../aspose.svg.dom/ichildnode/remove/)() | Αφαιρεί τον τρέχοντα κόμβο από τον γονικό. |
+| [Remove](../../aspose.svg.dom/ichildnode/remove/)() | Αφαιρεί τον τρέχοντα κόμβο από τον γονέα. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

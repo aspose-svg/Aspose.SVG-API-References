@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.PaddingBottom
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας paddingbottom στο CSS2.
+title: "ICSS2Properties.PaddingBottom"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties PaddingBottom ιδιότητα. Δείτε τον ορισμό της ιδιότητας padding-bottom στο CSS2"
 type: docs
-weight: 810
+weight: 840
 url: /el/net/aspose.svg.dom.css/icss2properties/paddingbottom/
 ---
 ## ICSS2Properties.PaddingBottom property
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/paddingbottom/
 public string PaddingBottom { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα padding-bottom
+padding-bottom ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

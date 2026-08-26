@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Exponent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGComponentTransferFunctionElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό εκθέτης στο δεδομένο στοιχείο.
+title: "SVGComponentTransferFunctionElement.Exponent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Exponent του SVGComponentTransferFunctionElement. Αντιστοιχεί στο χαρακτηριστικό exponent στο δεδομένο στοιχείο"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgcomponenttransferfunctionelement/exponent/
 ---
 ## SVGComponentTransferFunctionElement.Exponent property
 
-Αντιστοιχεί στο χαρακτηριστικό 'εκθέτης' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘exponent’ στο δεδομένο στοιχείο.
 
 ```csharp
 public SVGAnimatedNumber Exponent { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'εκθέτης' του δεδομένου στοιχείου.
+Το χαρακτηριστικό ‘exponent’ του δεδομένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,17 +1,15 @@
 ---
-title: Aspose.Svg.Net.MessageFilters
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Το Aspose.Svg.Net.MessageFilters Ο χώρος ονομάτων παρέχει κλάσεις που υλοποιούν αφαίρεση φίλτρου μηνυμάτων.
+title: "Aspose.Svg.Net.MessageFilters"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων Aspose.Svg.Net.MessageFilters παρέχει κλάσεις που υλοποιούν την αφηρημένη αναπαράσταση φίλτρου μηνυμάτων."
 type: docs
-weight: 210
+weight: 230
 url: /el/net/aspose.svg.net.messagefilters/
 ---
-Το **Aspose.Svg.Net.MessageFilters** Ο χώρος ονομάτων παρέχει κλάσεις που υλοποιούν αφαίρεση φίλτρου μηνυμάτων.
+Το **Aspose.Svg.Net.MessageFilters** namespace παρέχει κλάσεις που υλοποιούν την αφαίρεση φίλτρων μηνυμάτων.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [ProtocolMessageFilter](./protocolmessagefilter/) | Αντιπροσωπεύει την υλοποίηση του φίλτρου μηνυμάτων από το πρωτόκολλο πόρων. |
-
-
+| [ProtocolMessageFilter](./protocolmessagefilter/) | Αντιπροσωπεύει την υλοποίηση του φίλτρου μηνυμάτων από το πρωτόκολλο πόρου. |

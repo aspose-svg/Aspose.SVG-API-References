@@ -1,14 +1,14 @@
 ---
-title: Interface ILinearGradientBrush
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Drawing.ILinearGradientBrush διεπαφή. Ορίζει διεπαφή πινέλου με γραμμική κλίση.
+title: "Διεπαφή ILinearGradientBrush"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Drawing.ILinearGradientBrush interface. Ορίζει μια διεπαφή για πινέλο με γραμμική διαβάθμιση"
 type: docs
-weight: 1470
+weight: 3490
 url: /el/net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface
 
-Ορίζει διεπαφή πινέλου με γραμμική κλίση.
+Ορίζει μια διεπαφή για πινέλο με γραμμική διαβάθμιση.
 
 ```csharp
 public interface ILinearGradientBrush : IGradientBrush
@@ -16,19 +16,13 @@ public interface ILinearGradientBrush : IGradientBrush
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; } | Λαμβάνει τη γωνία, μετρημένη σε μοίρες δεξιόστροφα από τον άξονα x, της γραμμής προσανατολισμού της κλίσης. |
-| [EndColor](../../aspose.svg.drawing/ilineargradientbrush/endcolor/) { get; } | Λάβετε το τελικό χρώμα της γραμμικής διαβάθμισης. |
-| [EndPoint](../../aspose.svg.drawing/ilineargradientbrush/endpoint/) { get; } | Λάβετε το σημείο εκκίνησης της γραμμικής κλίσης. |
-| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; } | Λάβετε μια ορθογώνια περιοχή που ορίζει τα σημεία έναρξης και τέλους της κλίσης. |
-| [StartColor](../../aspose.svg.drawing/ilineargradientbrush/startcolor/) { get; } | Λάβετε το αρχικό χρώμα της γραμμικής διαβάθμισης. |
-| [StartPoint](../../aspose.svg.drawing/ilineargradientbrush/startpoint/) { get; } | Λάβετε το σημείο εκκίνησης της γραμμικής κλίσης. |
+| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; set; } | Λαμβάνει ή ορίζει τη γωνία, μετρημένη σε μοίρες δεξιόστροφα από τον άξονα x, της γραμμής προσανατολισμού της διαβάθμισης. |
+| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; set; } | Λαμβάνει ή ορίζει την ορθογώνια περιοχή που καθορίζει τα αρχικά και τα τελικά σημεία της διαβάθμισης. |
 
 ### Δείτε επίσης
 
 * interface [IGradientBrush](../igradientbrush/)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

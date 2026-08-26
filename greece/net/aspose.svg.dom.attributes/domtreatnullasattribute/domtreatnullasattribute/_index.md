@@ -1,14 +1,14 @@
 ---
-title: DOMTreatNullAsAttribute.DOMTreatNullAsAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMTreatNullAsAttribute κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουDOMTreatNullAsAttribute τάξη.
+title: "DOMTreatNullAsAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMTreatNullAsAttribute κατασκευαστής. Αρχικοποιεί ένα νέο παράδειγμα της κλάσης DOMTreatNullAsAttribute"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.attributes/domtreatnullasattribute/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`DOMTreatNullAsAttribute`](../) τάξη.
+Αρχικοποιεί ένα νέο παράδειγμα της κλάσης [`DOMTreatNullAsAttribute`](../).
 
 ```csharp
 public DOMTreatNullAsAttribute(Type type, object value)
@@ -16,13 +16,11 @@ public DOMTreatNullAsAttribute(Type type, object value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | Type | Ο τύπος αντικειμένου. |
-| value | Object | Η τιμή του αντικειμένου. |
+| type | Τύπος | Ο τύπος του αντικειμένου. |
+| τιμή | Αντικείμενο | Η τιμή του αντικειμένου. |
 
 ### Δείτε επίσης
 
 * class [DOMTreatNullAsAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

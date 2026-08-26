@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.MarginLeft
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας marginleft στο CSS2.
+title: "ICSS2Properties.MarginLeft"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties MarginLeft ιδιότητα. Δείτε τον ορισμό της ιδιότητας margin-left στο CSS2"
 type: docs
-weight: 650
+weight: 680
 url: /el/net/aspose.svg.dom.css/icss2properties/marginleft/
 ---
 ## ICSS2Properties.MarginLeft property
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/marginleft/
 public string MarginLeft { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-περιθώριο-αριστερό ακίνητο
+margin-left ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: DOMObject.DOMObject
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMObject κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DOMObject"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής DOMObject. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/domobject/domobject/
@@ -17,7 +17,5 @@ public DOMObject()
 ### Δείτε επίσης
 
 * class [DOMObject](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../domobject/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

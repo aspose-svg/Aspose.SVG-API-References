@@ -1,14 +1,14 @@
 ---
-title: Element.GetAttributeNS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Ανακτά μια τιμή χαρακτηριστικού βάσει τοπικού ονόματος και χώρου ονομάτων URI.
+title: "Element.GetAttributeNS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Element GetAttributeNS method. Ανακτά την τιμή ενός γνωρίσματος με το τοπικό όνομα και το URI του ονοματοχώρου."
 type: docs
 weight: 270
 url: /el/net/aspose.svg.dom/element/getattributens/
 ---
 ## Element.GetAttributeNS method
 
-Ανακτά μια τιμή χαρακτηριστικού βάσει τοπικού ονόματος και χώρου ονομάτων URI.
+Ανακτά την τιμή ενός χαρακτηριστικού με τοπικό όνομα και URI ονοματοχώρου.
 
 ```csharp
 public string GetAttributeNS(string namespaceURI, string localName)
@@ -16,17 +16,15 @@ public string GetAttributeNS(string namespaceURI, string localName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceURI | String | Το URI του χώρου ονομάτων. |
-| localName | String | Όνομα του τοπικού. |
+| namespaceURI | String | Το namespace URI. |
+| localName | String | Το τοπικό όνομα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει χαρακτηριστικό
+Επιστρέφει το γνώρισμα
 
 ### Δείτε επίσης
 
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

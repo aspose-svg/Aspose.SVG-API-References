@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.ActiveDocument
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IBrowsingContext ιδιοκτησία. Λαμβάνει το τρέχον έγγραφο.
+title: "IBrowsingContext.ActiveDocument"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IB BrowsingContext ActiveDocument. Λαμβάνει το τρέχον έγγραφο"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/ibrowsingcontext/activedocument/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.dom/ibrowsingcontext/activedocument/
 public Document ActiveDocument { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ενεργό έγγραφο.
 
@@ -22,7 +22,5 @@ public Document ActiveDocument { get; }
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

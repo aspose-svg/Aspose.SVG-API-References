@@ -1,14 +1,14 @@
 ---
-title: Location.Assign
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Location μέθοδος. Πλοηγείται στη δεδομένη σελίδα.
+title: "Location.Assign"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Location Assign method. Πλοηγείται στη δεδομένη σελίδα"
 type: docs
-weight: 10
+weight: 100
 url: /el/net/aspose.svg.window/location/assign/
 ---
 ## Location.Assign method
 
-Πλοηγείται στη δεδομένη σελίδα.
+Μεταβαίνει στη δοσμένη σελίδα.
 
 ```csharp
 public void Assign(string url)
@@ -21,7 +21,5 @@ public void Assign(string url)
 ### Δείτε επίσης
 
 * class [Location](../)
-* χώρος ονομάτων [Aspose.Svg.Window](../../location/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

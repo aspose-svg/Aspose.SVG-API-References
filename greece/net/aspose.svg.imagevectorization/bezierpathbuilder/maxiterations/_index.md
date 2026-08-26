@@ -1,7 +1,7 @@
 ---
-title: BezierPathBuilder.MaxIterations
-second_title: Aspose.SVG για Αναφορά API .NET
-description: BezierPathBuilder ιδιοκτησία. Λαμβάνει ή ορίζει το όριο σφάλματος. Αυτή η παράμετρος ορίζει τον αριθμό των επαναλήψεων για τη μέθοδο προσέγγισης ελαχίστων τετραγώνων. Από προεπιλογή είναι 30.
+title: "BezierPathBuilder.MaxIterations"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MaxIterations του BezierPathBuilder. Λαμβάνει ή ορίζει το όριο σφάλματος. Αυτή η παράμετρος ορίζει τον αριθμό των επαναλήψεων για τη μέθοδο προσέγγισης ελαχίστων τετραγώνων. Από προεπιλογή είναι 30."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/
@@ -17,7 +17,5 @@ public int MaxIterations { get; set; }
 ### Δείτε επίσης
 
 * class [BezierPathBuilder](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

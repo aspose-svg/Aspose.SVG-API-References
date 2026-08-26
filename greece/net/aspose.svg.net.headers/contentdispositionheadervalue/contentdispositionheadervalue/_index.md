@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.ContentDispositionHeaderValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ContentDispositionHeaderValue κατασκευαστής. Δημιουργήστε μια νέα παρουσία αυτού του τύπου διάθεσης.
+title: "ContentDispositionHeaderValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ContentDispositionHeaderValue constructor. Δημιουργήστε μια νέα παρουσία αυτού του τύπου διάθεσης"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net.headers/contentdispositionheadervalue/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue constructor
 
-Δημιουργήστε μια νέα παρουσία αυτού του τύπου διάθεσης.
+Δημιουργήστε ένα νέο στιγμιότυπο αυτού του τύπου διάθεσης.
 
 ```csharp
 public ContentDispositionHeaderValue(string dispositionType)
@@ -21,7 +21,5 @@ public ContentDispositionHeaderValue(string dispositionType)
 ### Δείτε επίσης
 
 * class [ContentDispositionHeaderValue](../)
-* χώρος ονομάτων [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ResponseMessage.Headers
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResponseMessage ιδιοκτησία. Λαμβάνει τις κεφαλίδες.
+title: "ResponseMessage.Headers"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ResponseMessage Headers ιδιότητα. Λαμβάνει τις κεφαλίδες"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.net/responsemessage/headers/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.net/responsemessage/headers/
 public ResponseHeaders Headers { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι κεφαλίδες.
 
@@ -22,7 +22,5 @@ public ResponseHeaders Headers { get; }
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../responsemessage/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

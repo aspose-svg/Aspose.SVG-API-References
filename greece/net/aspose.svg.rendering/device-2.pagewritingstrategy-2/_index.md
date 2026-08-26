@@ -1,14 +1,14 @@
 ---
-title: Enum DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions αρίθμηση. Καθορίζει τύπους στρατηγικών για την εγγραφή σελίδων σε ροή/ροές εξόδου.
+title: "DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions Enum"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions enum. Καθορίζει τύπους στρατηγικών για τη γραφή σελίδων σε ρεύματα εξόδουstreamstreams"
 type: docs
-weight: 2760
+weight: 4840
 url: /el/net/aspose.svg.rendering/device-2.pagewritingstrategy-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration
+## Device<TGraphicContext,TRenderingOptions>.PageWritingStrategy<TGraphicContext,TRenderingOptions> enumeration
 
-Καθορίζει τύπους στρατηγικών για την εγγραφή σελίδων σε ροή/ροές εξόδου.
+Καθορίζει τύπους στρατηγικών για τη γραφή σελίδων σε ρεύμα\streams.
 
 ```csharp
 public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
@@ -16,19 +16,17 @@ public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
     where TRenderingOptions : RenderingOptions
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| SingleStream | `0` | Εγγράφει όλες τις σελίδες σε μία ροή εξόδου. |
-| MultipleStreams | `1` | Γράφει κάθε σελίδα στη δική της ροή. |
+| SingleStream | `0` | Γράφει όλες τις σελίδες σε ένα ρεύμα εξόδου. |
+| MultipleStreams | `1` | Γράφει κάθε σελίδα στο δικό της ρεύμα. |
 
 ### Δείτε επίσης
 
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

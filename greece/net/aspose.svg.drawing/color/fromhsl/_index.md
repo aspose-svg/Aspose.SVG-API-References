@@ -1,14 +1,14 @@
 ---
-title: Color.FromHsl
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει ένα νέο χρώμα με τις ζητούμενες τιμές απόχρωσης κορεσμού κορεσμού.
+title: "Color.FromHsl"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color FromHsl. Επιστρέφει ένα νέο Color με τις ζητούμενες τιμές απόχρωσης, κορεσμού και κορεσμού."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.drawing/color/fromhsl/
 ---
 ## Color.FromHsl method
 
-Επιστρέφει ένα νέο χρώμα με τις ζητούμενες τιμές απόχρωσης, κορεσμού, κορεσμού.
+Επιστρέφει ένα νέο Χρώμα με τις ζητούμενες τιμές απόχρωση, κορεσμός, κορεσμός.
 
 ```csharp
 public static Color FromHsl(float hue, float saturation, float lightness)
@@ -16,18 +16,16 @@ public static Color FromHsl(float hue, float saturation, float lightness)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| hue | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο απόχρωσης του χρώματος. |
-| saturation | Single | Ένας πλωτήρας που αντιπροσωπεύει το συστατικό κορεσμού του χρώματος. |
-| lightness | Single | Ένας πλωτήρας που αντιπροσωπεύει το στοιχείο ελαφρότητας του χρώματος. |
+| hue | Single | Μια float που αντιπροσωπεύει το συστατικό απόχρωσης του χρώματος. |
+| saturation | Single | Ένα float που αντιπροσωπεύει το συστατικό κορεσμού του χρώματος. |
+| φωτεινότητα | Single | Ένα float που αντιπροσωπεύει το συστατικό φωτεινότητας του χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα του[`Color`](../) τάξη
+Μια νέα παρουσία της κλάσης [`Color`](../)
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

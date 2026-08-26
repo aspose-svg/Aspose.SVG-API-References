@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.Scale
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMatrix μέθοδος. Μεταπολλαπλασιάζει έναν μετασχηματισμό ομοιόμορφης κλίμακας στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
+title: "SVGMatrix.Scale"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGMatrix Scale. Προσθέτει μετά έναν ομοιόμορφο μετασχηματισμό κλίμακας στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα"
 type: docs
 weight: 90
 url: /el/net/aspose.svg.datatypes/svgmatrix/scale/
 ---
 ## SVGMatrix.Scale method
 
-Μετα-πολλαπλασιάζει έναν μετασχηματισμό ομοιόμορφης κλίμακας στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
+Πολλαπλασιάζει μετά μια ομοιόμορφη κλίμακα μετασχηματισμού στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
 
 ```csharp
 public SVGMatrix Scale(float scaleFactor)
@@ -16,16 +16,14 @@ public SVGMatrix Scale(float scaleFactor)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| scaleFactor | Single | Συντελεστής κλίμακας τόσο στο Χ όσο και στο Υ. |
+| scaleFactor | Single | Συντελεστής κλίμακας και στις X και στις Y. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο προκύπτων πίνακας.
 
 ### Δείτε επίσης
 
 * class [SVGMatrix](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgmatrix/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageDevice κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουImageDevice τάξη.
+title: "ImageDevice"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής ImageDevice. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης ImageDevice."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
-## ImageDevice(ICreateStreamProvider) {#constructor}
+## ImageDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageDevice`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -22,14 +22,14 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageDevice`](../) τάξη με απόδοση επιλογών και πάροχο ροής.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ImageDevice`](../) με επιλογές απόδοσης και πάροχο ροής.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | options | ImageRenderingOptions | Επιλογές απόδοσης. |
-| streamProvider | ICreateStreamProvider | Αντικείμενο που υλοποιεί το[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) διεπαφή |
+| streamProvider | ICreateStreamProvider | Αντικείμενο που υλοποιεί τη διεπαφή [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) |
 
 ### Δείτε επίσης
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(string) {#constructor_5}
+## ImageDevice(*string*) {#constructor_5}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageDevice`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(string file)
@@ -65,14 +65,14 @@ public ImageDevice(string file)
 ### Δείτε επίσης
 
 * class [ImageDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), string*) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageDevice`](../) κλάση με απόδοση επιλογών και όνομα αρχείου εξόδου.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ImageDevice`](../) με επιλογές απόδοσης και όνομα αρχείου εξόδου.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -87,14 +87,14 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(Stream) {#constructor_4}
+## ImageDevice(*Stream*) {#constructor_4}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageDevice`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -102,19 +102,19 @@ public ImageDevice(Stream stream)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Το ρεύμα. |
+| stream | Stream | Η ροή. |
 
 ### Δείτε επίσης
 
 * class [ImageDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), Stream*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageDevice`](../) τάξη με απόδοση επιλογών και ροή εξόδου.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ImageDevice`](../) με επιλογές απόδοσης και ροή εξόδου.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
@@ -129,7 +129,5 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Numeric.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Numeric μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "Numeric.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Numeric ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.drawing/numeric/tostring/
 ---
 ## Numeric.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [Numeric](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../numeric/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

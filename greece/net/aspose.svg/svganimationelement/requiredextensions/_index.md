@@ -1,20 +1,20 @@
 ---
-title: SVGAnimationElement.RequiredExtensions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGAnimationElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό requiredExtensions στο δεδομένο στοιχείο.
+title: "SVGAnimationElement.RequiredExtensions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGAnimationElement RequiredExtensions ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό requiredExtensions στο συγκεκριμένο στοιχείο."
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svganimationelement/requiredextensions/
 ---
 ## SVGAnimationElement.RequiredExtensions property
 
-Αντιστοιχεί στο χαρακτηριστικό 'requiredExtensions' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘requiredExtensions’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι απαιτούμενες επεκτάσεις.
 
@@ -22,7 +22,5 @@ public SVGStringList RequiredExtensions { get; }
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGAnimationElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svganimationelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

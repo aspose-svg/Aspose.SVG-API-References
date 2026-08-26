@@ -1,27 +1,25 @@
 ---
-title: Dimension.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Dimension μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "Dimension.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Dimension ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/dimension/tostring/
 ---
 ## Dimension.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [Dimension](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../dimension/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

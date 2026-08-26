@@ -1,28 +1,26 @@
 ---
-title: Device2.StrokeText
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device μέθοδος. Χαρακτηρίζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση.
+title: "Device-2.StrokeText"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Device StrokeText. Σχεδιάζει τη συγκεκριμένη συμβολοσειρά κειμένου στην καθορισμένη θέση."
 type: docs
-weight: 240
+weight: 270
 url: /el/net/aspose.svg.rendering/device-2/stroketext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method
+## Device<TGraphicContext,TRenderingOptions>.StrokeText method
 
-Χαρακτηρίζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση.
+Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση.
 
 ```csharp
-public abstract void StrokeText(string text, PointF pt)
+public virtual void StrokeText(string text, PointF pt)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Χορδή για εγκεφαλικό. |
-| pt | PointF | Σημείο που καθορίζει τις συντεταγμένες από όπου θα ξεκινήσει το κείμενο. |
+| κείμενο | String | Συμβολοσειρά για σχεδίαση. |
+| pt | PointF | Σημείο που καθορίζει τις συντεταγμένες όπου ξεκινά το κείμενο. |
 
 ### Δείτε επίσης
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

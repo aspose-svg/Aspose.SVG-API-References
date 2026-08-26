@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnResize
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnResize.
+title: "IGlobalEventHandlers.OnResize"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnResize συμβάν. Λαμβάνει ή ορίζει τον χειριστή του συμβάντος για το συμβάν OnResize"
 type: docs
 weight: 380
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onresize/
 ---
 ## IGlobalEventHandlers.OnResize event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnResize.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnResize συμβάν.
 
 ```csharp
 public event DOMEventHandler OnResize;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnResize;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

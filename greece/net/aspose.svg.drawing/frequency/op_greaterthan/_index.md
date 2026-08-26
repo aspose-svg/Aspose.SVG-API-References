@@ -1,14 +1,14 @@
 ---
-title: Frequency.op_GreaterThan
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Frequency μέθοδος. Υλοποιεί τον τελεστή .
+title: "Frequency.op_GreaterThan"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Frequency op_GreaterThan μέθοδος. Υλοποιεί τον τελεστή"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/frequency/op_greaterthan/
 ---
 ## Frequency GreaterThan operator
 
-Υλοποιεί τον τελεστή &gt;.
+Υλοποιεί τον τελεστή >.
 
 ```csharp
 public static bool operator >(Frequency a, Frequency b)
@@ -16,24 +16,22 @@ public static bool operator >(Frequency a, Frequency b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Frequency | Η παράμετρος α. |
-| b | Frequency | Η παράμετρος β. |
+| a | Frequency | Η παράμετρος a. |
+| b | Frequency | Η παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentException | Τα επιχειρήματα έχουν διαφορετικούς τύπους |
-| ArgumentNullException | Ένα όρισμα είναι μηδενικό |
+| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους |
+| ArgumentNullException | Ένα όρισμα είναι null |
 
 ### Δείτε επίσης
 
 * class [Frequency](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../frequency/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

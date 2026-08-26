@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSKeyframesRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Css.ICSSKeyframesRule διεπαφή. Η διεπαφή CSSKeyframesRule αντιπροσωπεύει ένα πλήρες σύνολο βασικών καρέ για ένα μόνο animation
+title: "ICSSKeyframesRule Interface"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Css.ICSSKeyframesRule interface. Η διεπαφή CSSKeyframesRule αντιπροσωπεύει ένα πλήρες σύνολο καρέ-κλειδιών για μία ενιαία κίνηση"
 type: docs
-weight: 580
+weight: 2580
 url: /el/net/aspose.svg.dom.css/icsskeyframesrule/
 ---
 ## ICSSKeyframesRule interface
 
-Η διεπαφή CSSKeyframesRule αντιπροσωπεύει ένα πλήρες σύνολο βασικών καρέ για ένα μόνο animation
+Η διεπαφή CSSKeyframesRule αντιπροσωπεύει ένα πλήρες σύνολο keyframes για μια μεμονωμένη κίνηση
 
 ```csharp
 public interface ICSSKeyframesRule : ICSSRule
@@ -16,23 +16,21 @@ public interface ICSSKeyframesRule : ICSSRule
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [CSSRules](../../aspose.svg.dom.css/icsskeyframesrule/cssrules/) { get; } | Αυτό το χαρακτηριστικό παρέχει πρόσβαση στα βασικά καρέ στη λίστα |
-| [Name](../../aspose.svg.dom.css/icsskeyframesrule/name/) { get; } | Αυτό το χαρακτηριστικό είναι το όνομα των βασικών καρέ, που χρησιμοποιείται από την ιδιότητα 'animation-name'. |
+| [CSSRules](../../aspose.svg.dom.css/icsskeyframesrule/cssrules/) { get; } | Αυτό το χαρακτηριστικό παρέχει πρόσβαση στα keyframes στη λίστα |
+| [Name](../../aspose.svg.dom.css/icsskeyframesrule/name/) { get; } | Αυτό το χαρακτηριστικό είναι το όνομα των keyframes, που χρησιμοποιείται από την ιδιότητα ‘animation-name’. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AppendRule](../../aspose.svg.dom.css/icsskeyframesrule/appendrule/)(string) | Η μέθοδος appendRule προσθέτει το περασμένο CSSKeyframeRule στη λίστα στο περασμένο κλειδί |
-| [DeleteRule](../../aspose.svg.dom.css/icsskeyframesrule/deleterule/)(string) | Η μέθοδος deleteRule διαγράφει το CSSKeyframeRule με το κλειδί που πέρασε. Εάν δεν υπάρχει κανόνας με αυτό το κλειδί, η μέθοδος κάνει τίποτα |
-| [FindRule](../../aspose.svg.dom.css/icsskeyframesrule/findrule/)(string) | Η μέθοδος findRule επιστρέφει τον κανόνα με ένα κλειδί που ταιριάζει με το κλειδί που πέρασε. Εάν δεν υπάρχει τέτοιος κανόνας, επιστρέφεται μια τιμή null |
+| [AppendRule](../../aspose.svg.dom.css/icsskeyframesrule/appendrule/)(*string*) | Η μέθοδος appendRule προσθέτει το δοσμένο CSSKeyframeRule στη λίστα στο δοσμένο κλειδί |
+| [DeleteRule](../../aspose.svg.dom.css/icsskeyframesrule/deleterule/)(*string*) | Η μέθοδος deleteRule διαγράφει το CSSKeyframeRule με το δοσμένο κλειδί. Εάν δεν υπάρχει κανένας κανόνας με αυτό το κλειδί, η μέθοδος δεν κάνει τίποτα |
+| [FindRule](../../aspose.svg.dom.css/icsskeyframesrule/findrule/)(*string*) | Η μέθοδος findRule επιστρέφει τον κανόνα με κλειδί που ταιριάζει στο δοσμένο κλειδί. Εάν δεν υπάρχει τέτοιος κανόνας, επιστρέφεται τιμή null |
 
 ### Δείτε επίσης
 
 * interface [ICSSRule](../icssrule/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: ITextureBrush.Opacity
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ITextureBrush ιδιοκτησία. Λάβετε την τιμή αδιαφάνειας σε έναν πίνακα μετασχηματισμού χρώματος.
+title: "ITextureBrush.Opacity"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ITextureBrush Opacity. Λάβετε την τιμή διαφάνειας σε έναν πίνακα μετασχηματισμού χρώματος."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.drawing/itexturebrush/opacity/
@@ -11,17 +11,15 @@ url: /el/net/aspose.svg.drawing/itexturebrush/opacity/
 Λάβετε την τιμή αδιαφάνειας σε έναν πίνακα μετασχηματισμού χρώματος.
 
 ```csharp
-public float Opacity { get; }
+public float Opacity { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αδιαφάνεια.
+Διαφάνεια.
 
 ### Δείτε επίσης
 
 * interface [ITextureBrush](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../itexturebrush/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

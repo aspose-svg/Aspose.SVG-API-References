@@ -1,27 +1,25 @@
 ---
-title: Document.XmlStandalone
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Ένα χαρακτηριστικό που προσδιορίζει ως μέρος της δήλωσης XML εάν αυτό το έγγραφο είναι αυτόνομο. Αυτό είναι ψευδές όταν δεν καθορίζεται.
+title: "Document.XmlStandalone"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document XmlStandalone. Ένα χαρακτηριστικό που καθορίζει, ως μέρος της δήλωσης XML, εάν αυτό το έγγραφο είναι αυτόνομο. Αυτό είναι ψευδές όταν δεν έχει οριστεί"
 type: docs
 weight: 260
 url: /el/net/aspose.svg.dom/document/xmlstandalone/
 ---
 ## Document.XmlStandalone property
 
-Ένα χαρακτηριστικό που προσδιορίζει, ως μέρος της δήλωσης XML, εάν αυτό το έγγραφο είναι αυτόνομο. Αυτό είναι ψευδές όταν δεν καθορίζεται.
+Ένα χαρακτηριστικό που καθορίζει, ως μέρος της δήλωσης XML, εάν αυτό το έγγραφο είναι αυτόνομο. Αυτό είναι false όταν δεν έχει καθοριστεί.
 
 ```csharp
 public bool XmlStandalone { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν XML είναι αυτόνομο? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το XML είναι αυτόνομο· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

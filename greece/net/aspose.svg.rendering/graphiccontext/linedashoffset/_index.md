@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.LineDashOffset
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext ιδιοκτησία. Ορίζει ή λαμβάνει τη μετατόπιση φάσης του τρέχοντος μοτίβου παύλας γραμμής.
+title: "GraphicContext.LineDashOffset"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα LineDashOffset του GraphicContext. Ορίζει ή επιστρέφει τη φάση μετατόπισης του τρέχοντος μοτίβου παύλας γραμμής."
 type: docs
-weight: 80
+weight: 90
 url: /el/net/aspose.svg.rendering/graphiccontext/linedashoffset/
 ---
 ## GraphicContext.LineDashOffset property
 
-Ορίζει ή λαμβάνει τη μετατόπιση φάσης του τρέχοντος μοτίβου παύλας γραμμής.
+Ορίζει ή λαμβάνει την φάση μετατόπισης του τρέχοντος μοτίβου παύλων γραμμής.
 
 ```csharp
 public virtual float LineDashOffset { get; set; }
@@ -17,7 +17,5 @@ public virtual float LineDashOffset { get; set; }
 ### Δείτε επίσης
 
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

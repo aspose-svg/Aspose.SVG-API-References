@@ -1,7 +1,7 @@
 ---
-title: ICSSFontFaceRule.Style
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSFontFaceRule ιδιοκτησία. Το μπλοκ δήλωσης αυτού του κανόνα.
+title: "ICSSFontFaceRule.Style"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSSFontFaceRule Style ιδιότητα. Το μπλοκ δήλωσης αυτού του κανόνα"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/icssfontfacerule/style/
@@ -18,7 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSFontFaceRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssfontfacerule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

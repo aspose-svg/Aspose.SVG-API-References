@@ -1,14 +1,14 @@
 ---
-title: Element.HasAttributeNS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Επιστρέφει true όταν ένα χαρακτηριστικό με ένα δεδομένο τοπικό όνομα και ένα URI χώρου ονομάτων καθορίζεται σε αυτό το στοιχείο ή έχει μια προεπιλεγμένη τιμή αλλιώς false.
+title: "Element.HasAttributeNS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Element HasAttributeNS method. Επιστρέφει true όταν ένα χαρακτηριστικό με το δεδομένο τοπικό όνομα και το URI του ονόματος χώρου είναι καθορισμένο σε αυτό το στοιχείο ή έχει προεπιλεγμένη τιμή false διαφορετικά"
 type: docs
 weight: 320
 url: /el/net/aspose.svg.dom/element/hasattributens/
 ---
 ## Element.HasAttributeNS method
 
-Επιστρέφει true όταν ένα χαρακτηριστικό με ένα δεδομένο τοπικό όνομα και ένα URI χώρου ονομάτων καθορίζεται σε αυτό το στοιχείο ή έχει μια προεπιλεγμένη τιμή, αλλιώς false.
+Επιστρέφει true όταν ένα χαρακτηριστικό με δοσμένο τοπικό όνομα και URI ονοματοχώρου καθορίζεται σε αυτό το στοιχείο ή έχει προεπιλεγμένη τιμή, αλλιώς false.
 
 ```csharp
 public bool HasAttributeNS(string namespaceURI, string localName)
@@ -16,17 +16,15 @@ public bool HasAttributeNS(string namespaceURI, string localName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceURI | String | Το URI του χώρου ονομάτων. |
-| localName | String | Όνομα του τοπικού. |
+| namespaceURI | String | Το namespace URI. |
+| localName | String | Το τοπικό όνομα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν [έχει χαρακτηριστικό NS] [το καθορισμένο URI χώρου ονομάτων]; σε διαφορετική περίπτωση,`ψευδής` .
+`true` αν [has attribute NS] [το καθορισμένο namespace URI]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

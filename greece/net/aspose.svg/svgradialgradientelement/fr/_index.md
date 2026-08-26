@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.Fr
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGRadialGradientElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό fr στο δεδομένο στοιχείο radialGradient.
+title: "SVGRadialGradientElement.Fr"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGRadialGradientElement Fr ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό fr του δεδομένου στοιχείου radialGradient"
 type: docs
 weight: 30
 url: /el/net/aspose.svg/svgradialgradientelement/fr/
 ---
 ## SVGRadialGradientElement.Fr property
 
-Αντιστοιχεί στο χαρακτηριστικό 'fr' στο δεδομένο στοιχείο 'radialGradient'.
+Αντιστοιχεί στο χαρακτηριστικό ‘fr’ του δεδομένου στοιχείου ‘radialGradient’.
 
 ```csharp
 public SVGAnimatedLength Fr { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'fr' του δεδομένου στοιχείου 'radialGradient'.
+Το χαρακτηριστικό ‘fr’ του δεδομένου στοιχείου ‘radialGradient’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgradialgradientelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

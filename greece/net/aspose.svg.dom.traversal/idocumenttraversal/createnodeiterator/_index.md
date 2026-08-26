@@ -1,14 +1,14 @@
 ---
-title: IDocumentTraversal.CreateNodeIterator
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDocumentTraversal μέθοδος. Δημιουργήστε ένα νέο NodeIterator πάνω από το υποδέντρο που έχει ρίζες στον καθορισμένο κόμβο .
+title: "IDocumentTraversal.CreateNodeIterator"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDocumentTraversal CreateNodeIterator method. Δημιουργεί έναν νέο NodeIterator πάνω στο υποδέντρο που ρίζεται στον καθορισμένο κόμβο"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.traversal/idocumenttraversal/createnodeiterator/
 ---
-## CreateNodeIterator(Node) {#createnodeiterator}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/)*) {#createnodeiterator}
 
-Δημιουργήστε ένα νέο NodeIterator πάνω από το υποδέντρο που έχει ρίζες στον καθορισμένο κόμβο .
+Δημιουργήστε ένα νέο NodeIterator πάνω από το υποδέντρο που ρίζεται στον καθορισμένο κόμβο.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root)
@@ -16,31 +16,31 @@ public INodeIterator CreateNodeIterator(Node root)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| root | Node | κόμβος που θα επαναληφθεί μαζί με τα παιδιά του. Ο επαναλήπτης είναι αρχικά τοποθετημένος ακριβώς πριν από αυτόν τον κόμβο. Οι σημαίες whatToShow και το φίλτρο, εάν υπάρχει, δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της θέσης. Η ρίζα δεν πρέπει να είναι null. |
+| root | Node | node που θα επαναληφθεί μαζί με τα παιδιά του. Ο iterator αρχικά τοποθετείται ακριβώς πριν από αυτό το node. Οι σημαίες whatToShow και το filter, εάν υπάρχουν, δεν λαμβάνονται υπόψη κατά τον καθορισμό αυτής της θέσης. Το root δεν πρέπει να είναι null. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο νεοδημιουργημένος NodeIterator.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Αυξάνεται εάν η καθορισμένη ρίζα είναι null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Εμφανίζεται εάν το καθορισμένο root είναι null. |
 
 ### Δείτε επίσης
 
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateNodeIterator(Node, long) {#createnodeiterator_1}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/), long*) {#createnodeiterator_1}
 
-Δημιουργήστε ένα νέο NodeIterator πάνω από το υποδέντρο που έχει ρίζες στον καθορισμένο κόμβο .
+Δημιουργήστε ένα νέο NodeIterator πάνω από το υποδέντρο που ρίζεται στον καθορισμένο κόμβο.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow)
@@ -48,32 +48,32 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| root | Node | κόμβος που θα επαναληφθεί μαζί με τα παιδιά του. Ο επαναλήπτης είναι αρχικά τοποθετημένος ακριβώς πριν από αυτόν τον κόμβο. Οι σημαίες whatToShow και το φίλτρο, εάν υπάρχει, δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της θέσης. Η ρίζα δεν πρέπει να είναι null. |
-| whatToShow | Int64 | Το flag καθορίζει ποιοι τύποι κόμβων μπορούν να εμφανίζονται στο τη λογική προβολή του δέντρου που παρουσιάζεται από τον επαναλήπτη. Δείτε την περιγραφή του NodeFilter για το σύνολο των τιμών possible SHOW_. Αυτές οι σημαίες μπορούν να συνδυαστούν χρησιμοποιώντας OR. |
+| root | Node | node που θα επαναληφθεί μαζί με τα παιδιά του. Ο iterator αρχικά τοποθετείται ακριβώς πριν από αυτό το node. Οι σημαίες whatToShow και το filter, εάν υπάρχουν, δεν λαμβάνονται υπόψη κατά τον καθορισμό αυτής της θέσης. Το root δεν πρέπει να είναι null. |
+| whatToShow | Int64 | Η σημαία καθορίζει ποιοι τύποι κόμβων μπορεί να εμφανίζονται στην λογική προβολή του δέντρου που παρουσιάζεται από τον επαναλήπτη. Δείτε την περιγραφή του NodeFilter για το σύνολο των πιθανών τιμών SHOW_. Αυτές οι σημαίες μπορούν να συνδυαστούν χρησιμοποιώντας OR. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο νεοδημιουργημένος NodeIterator.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Αυξάνεται εάν η καθορισμένη ρίζα είναι null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Εμφανίζεται εάν το καθορισμένο root είναι null. |
 
 ### Δείτε επίσης
 
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateNodeIterator(Node, long, INodeFilter) {#createnodeiterator_2}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/), long, [INodeFilter](../../inodefilter/)*) {#createnodeiterator_2}
 
-Δημιουργήστε ένα νέο NodeIterator πάνω από το υποδέντρο που έχει ρίζες στον καθορισμένο κόμβο .
+Δημιουργήστε ένα νέο NodeIterator πάνω από το υποδέντρο που ρίζεται στον καθορισμένο κόμβο.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter filter)
@@ -81,19 +81,19 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| root | Node | κόμβος που θα επαναληφθεί μαζί με τα παιδιά του. Ο επαναλήπτης είναι αρχικά τοποθετημένος ακριβώς πριν από αυτόν τον κόμβο. Οι σημαίες whatToShow και το φίλτρο, εάν υπάρχει, δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της θέσης. Η ρίζα δεν πρέπει να είναι null. |
-| whatToShow | Int64 | Το flag καθορίζει ποιοι τύποι κόμβων μπορούν να εμφανίζονται στο τη λογική προβολή του δέντρου που παρουσιάζεται από τον επαναλήπτη. Δείτε την περιγραφή του NodeFilter για το σύνολο των τιμών possible SHOW_. Αυτές οι σημαίες μπορούν να συνδυαστούν χρησιμοποιώντας OR. |
-| filter | INodeFilter | NodeFilter που θα χρησιμοποιηθεί με το this TreeWalker ή null για να υποδείξει ότι δεν υπάρχει φίλτρο. |
+| root | Node | node που θα επαναληφθεί μαζί με τα παιδιά του. Ο iterator αρχικά τοποθετείται ακριβώς πριν από αυτό το node. Οι σημαίες whatToShow και το filter, εάν υπάρχουν, δεν λαμβάνονται υπόψη κατά τον καθορισμό αυτής της θέσης. Το root δεν πρέπει να είναι null. |
+| whatToShow | Int64 | Η σημαία καθορίζει ποιοι τύποι κόμβων μπορεί να εμφανίζονται στην λογική προβολή του δέντρου που παρουσιάζεται από τον επαναλήπτη. Δείτε την περιγραφή του NodeFilter για το σύνολο των πιθανών τιμών SHOW_. Αυτές οι σημαίες μπορούν να συνδυαστούν χρησιμοποιώντας OR. |
+| filter | INodeFilter | NodeFilter που θα χρησιμοποιηθεί με αυτό το TreeWalker, ή null για να υποδεικνύει ότι δεν υπάρχει φίλτρο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο νεοδημιουργημένος NodeIterator.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Αυξάνεται εάν η καθορισμένη ρίζα είναι null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Εμφανίζεται εάν το καθορισμένο root είναι null. |
 
 ### Δείτε επίσης
 
@@ -101,7 +101,5 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Sort
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IUrlSearchParams μέθοδος. Ταξινομεί όλα τα ζεύγη ονόματοςτιμής εάν υπάρχουν με τα ονόματά τους.
+title: "IUrlSearchParams.Sort"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IUrlSearchParams Sort. Ταξινομεί όλα τα ζεύγη όνομα-τιμή, εάν υπάρχουν, κατά τα ονόματά τους."
 type: docs
 weight: 70
 url: /el/net/aspose.svg/iurlsearchparams/sort/
 ---
 ## IUrlSearchParams.Sort method
 
-Ταξινομεί όλα τα ζεύγη ονόματος-τιμής, εάν υπάρχουν, με τα ονόματά τους.
+Ταξινομεί όλα τα ζεύγη όνομα-τιμή, εάν υπάρχουν, κατά τα ονόματά τους.
 
 ```csharp
 public void Sort()
@@ -17,7 +17,5 @@ public void Sort()
 ### Δείτε επίσης
 
 * interface [IUrlSearchParams](../)
-* χώρος ονομάτων [Aspose.Svg](../../iurlsearchparams/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

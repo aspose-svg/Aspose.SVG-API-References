@@ -1,7 +1,7 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_TRANSLATE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGTransform πεδίο. Ένας μετασχηματισμός translate.
+title: "SVGTransform.SVG_TRANSFORM_TRANSLATE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGTransform SVG_TRANSFORM_TRANSLATE πεδίο. Ένας μετασχηματισμός μετάφρασης"
 type: docs
 weight: 160
 url: /el/net/aspose.svg.datatypes/svgtransform/svg_transform_translate/
@@ -17,7 +17,5 @@ public const ushort SVG_TRANSFORM_TRANSLATE;
 ### Δείτε επίσης
 
 * class [SVGTransform](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgtransform/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

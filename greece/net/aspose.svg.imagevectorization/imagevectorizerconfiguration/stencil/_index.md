@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.Stencil
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageVectorizerConfiguration ιδιοκτησία. Λαμβάνει ή ορίζει τη διαμόρφωση εφέ στένσιλ. Από προεπιλογή δεν εφαρμόζεται εφέ στένσιλ.
+title: "ImageVectorizerConfiguration.Stencil"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Stencil του ImageVectorizerConfiguration. Λαμβάνει ή ορίζει τη διαμόρφωση του εφέ στένσιλ. Από προεπιλογή δεν εφαρμόζεται κανένα εφέ στένσιλ."
 type: docs
 weight: 70
 url: /el/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/stencil/
 ---
 ## ImageVectorizerConfiguration.Stencil property
 
-Λαμβάνει ή ορίζει τη διαμόρφωση εφέ στένσιλ. Από προεπιλογή, δεν εφαρμόζεται εφέ στένσιλ.
+Λαμβάνει ή ορίζει τη διαμόρφωση του εφέ στένσιλ. Από προεπιλογή, δεν εφαρμόζεται κανένα εφέ στένσιλ.
 
 ```csharp
 public StencilConfiguration Stencil { get; set; }
@@ -18,7 +18,5 @@ public StencilConfiguration Stencil { get; set; }
 
 * class [StencilConfiguration](../../stencilconfiguration/)
 * class [ImageVectorizerConfiguration](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

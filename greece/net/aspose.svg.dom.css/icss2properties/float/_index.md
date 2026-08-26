@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.Float
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας float στο CSS2.
+title: "ICSS2Properties.Float"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties Float ιδιότητα. Δείτε τον ορισμό της ιδιότητας float στο CSS2"
 type: docs
 weight: 460
 url: /el/net/aspose.svg.dom.css/icss2properties/float/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/float/
 public string Float { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-float ακίνητο
+float ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

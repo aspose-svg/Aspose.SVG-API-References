@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendFactors
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGradientBrush ιδιοκτησία. Λάβετε τους παράγοντες ανάμειξης που καθορίζουν μια προσαρμοσμένη πτώση για τη διαβάθμιση.
+title: "IGradientBrush.BlendFactors"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IGradientBrush BlendFactors. Λαμβάνει ή ορίζει τους παράγοντες ανάμειξης που ορίζουν μια προσαρμοσμένη εξασθένιση για τη διαβάθμιση."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/igradientbrush/blendfactors/
 ---
 ## IGradientBrush.BlendFactors property
 
-Λάβετε τους παράγοντες ανάμειξης που καθορίζουν μια προσαρμοσμένη πτώση για τη διαβάθμιση.
+Λαμβάνει ή ορίζει τους παράγοντες ανάμειξης που ορίζουν μια προσαρμοσμένη εξασθένιση για το gradient.
 
 ```csharp
-public float[] BlendFactors { get; }
+public float[] BlendFactors { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Παράγοντες ανάμειξης.
 
 ### Δείτε επίσης
 
 * interface [IGradientBrush](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../igradientbrush/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

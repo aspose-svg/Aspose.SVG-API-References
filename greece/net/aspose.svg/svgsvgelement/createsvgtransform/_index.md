@@ -1,20 +1,20 @@
 ---
-title: SVGSVGElement.CreateSVGTransform
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement μέθοδος. Δημιουργεί ένα αντικείμενο SVGTransform εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται σε μετασχηματισμό μήτρας ταυτότητας SVG_TRANSFORM_MATRIX.
+title: "SVGSVGElement.CreateSVGTransform"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGSVGElement CreateSVGTransform. Δημιουργεί ένα αντικείμενο SVGTransform εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται σε μετασχηματισμό ταυτότητας πίνακα SVG_TRANSFORM_MATRIX."
 type: docs
 weight: 180
 url: /el/net/aspose.svg/svgsvgelement/createsvgtransform/
 ---
 ## SVGSVGElement.CreateSVGTransform method
 
-Δημιουργεί ένα αντικείμενο SVGTransform εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται σε μετασχηματισμό μήτρας ταυτότητας (SVG_TRANSFORM_MATRIX).
+Δημιουργεί ένα αντικείμενο SVGTransform εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται σε έναν ταυτοτικό μετασχηματισμό πίνακα (SVG_TRANSFORM_MATRIX).
 
 ```csharp
 public SVGTransform CreateSVGTransform()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα αντικείμενο SVGTransform.
 
@@ -22,7 +22,5 @@ public SVGTransform CreateSVGTransform()
 
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

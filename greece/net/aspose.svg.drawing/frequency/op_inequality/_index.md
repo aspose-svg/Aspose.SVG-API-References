@@ -1,7 +1,7 @@
 ---
-title: Frequency.op_Inequality
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Frequency μέθοδος. Υλοποιεί τον τελεστή .
+title: "Frequency.op_Inequality"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Frequency op_Inequality μέθοδος. Υλοποιεί τον τελεστή"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.drawing/frequency/op_inequality/
@@ -16,17 +16,15 @@ public static bool operator !=(Frequency a, Frequency b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Frequency | Η παράμετρος α. |
-| b | Frequency | Η παράμετρος β. |
+| a | Frequency | Η παράμετρος a. |
+| b | Frequency | Η παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
 ### Δείτε επίσης
 
 * class [Frequency](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../frequency/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: PdfSaveOptions.PdfSaveOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfSaveOptions κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "PdfSaveOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "PdfSaveOptions κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.saving/pdfsaveoptions/pdfsaveoptions/
@@ -17,7 +17,5 @@ public PdfSaveOptions()
 ### Δείτε επίσης
 
 * class [PdfSaveOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../pdfsaveoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

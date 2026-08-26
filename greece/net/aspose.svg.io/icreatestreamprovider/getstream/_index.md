@@ -1,12 +1,12 @@
 ---
-title: ICreateStreamProvider.GetStream
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICreateStreamProvider μέθοδος. Παρέχει μια ροή για απόδοση.
+title: "ICreateStreamProvider.GetStream"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICreateStreamProvider GetStream method. Παρέχει μια ροή για απόδοση"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.io/icreatestreamprovider/getstream/
 ---
-## GetStream(string, string) {#getstream}
+## GetStream(*string, string*) {#getstream}
 
 Παρέχει μια ροή για απόδοση.
 
@@ -16,22 +16,22 @@ public Stream GetStream(string name, string extension)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Το όνομα του ρέματος. |
-| extension | String | Η επέκταση ονόματος αρχείου που θα χρησιμοποιηθεί εάν δημιουργείται ροή αρχείου. |
+| name | String | Το όνομα του stream. |
+| extension | String | Η κατάληξη ονόματος αρχείου που θα χρησιμοποιηθεί εάν δημιουργείται ένα file stream. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αντικείμενο ροής που χρησιμοποιείται για την εγγραφή δεδομένων κατά τις λειτουργίες απόδοσης.
+Ένα αντικείμενο Stream που χρησιμοποιείται για την εγγραφή δεδομένων κατά τις λειτουργίες απόδοσης.
 
 ### Δείτε επίσης
 
 * interface [ICreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../icreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetStream(string, string, int) {#getstream_1}
+## GetStream(*string, string, int*) {#getstream_1}
 
 Παρέχει μια ροή για απόδοση.
 
@@ -41,18 +41,16 @@ public Stream GetStream(string name, string extension, int page)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Το όνομα του ρέματος. |
-| extension | String | Η επέκταση ονόματος αρχείου που θα χρησιμοποιηθεί εάν δημιουργείται ροή αρχείου. |
-| page | Int32 | Ο αριθμός σελίδας του εγγράφου. |
+| name | String | Το όνομα του stream. |
+| extension | String | Η κατάληξη ονόματος αρχείου που θα χρησιμοποιηθεί εάν δημιουργείται ένα file stream. |
+| σελίδα | Int32 | Ο αριθμός σελίδας του εγγράφου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αντικείμενο ροής που χρησιμοποιείται για την εγγραφή δεδομένων κατά τις λειτουργίες απόδοσης.
+Ένα αντικείμενο Stream που χρησιμοποιείται για την εγγραφή δεδομένων κατά τις λειτουργίες απόδοσης.
 
 ### Δείτε επίσης
 
 * interface [ICreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../icreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

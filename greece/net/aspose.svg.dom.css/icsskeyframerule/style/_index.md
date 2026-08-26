@@ -1,20 +1,20 @@
 ---
-title: ICSSKeyframeRule.Style
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSKeyframeRule ιδιοκτησία. Αυτό το χαρακτηριστικό αντιπροσωπεύει το στυλ που σχετίζεται με αυτό το βασικό καρέ.
+title: "ICSSKeyframeRule.Style"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSSKeyframeRule Style property. Αυτό το χαρακτηριστικό αντιπροσωπεύει το στυλ που σχετίζεται με αυτό το keyframe."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.css/icsskeyframerule/style/
 ---
 ## ICSSKeyframeRule.Style property
 
-Αυτό το χαρακτηριστικό αντιπροσωπεύει το στυλ που σχετίζεται με αυτό το βασικό καρέ.
+Αυτό το χαρακτηριστικό αντιπροσωπεύει το στυλ που σχετίζεται με αυτό το keyframe.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το στυλ.
 
@@ -22,7 +22,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSKeyframeRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

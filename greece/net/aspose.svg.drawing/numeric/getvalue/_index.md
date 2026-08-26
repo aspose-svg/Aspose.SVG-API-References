@@ -1,7 +1,7 @@
 ---
-title: Numeric.GetValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Numeric μέθοδος. Λαμβάνει την τιμή μονάδας.
+title: "Numeric.GetValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Numeric GetValue. Λαμβάνει την τιμή μονάδας"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.drawing/numeric/getvalue/
@@ -14,21 +14,21 @@ url: /el/net/aspose.svg.drawing/numeric/getvalue/
 public double GetValue()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Η τιμή του αντικειμένου.
 
 ### Δείτε επίσης
 
 * class [Numeric](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../numeric/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
-Λαμβάνει την τιμή που μετατρέπεται στην καθορισμένη[`UnitType`](../../unittype/) .
+Λαμβάνει την τιμή μετατρεπόμενη στον καθορισμένο [`UnitType`](../../unittype/).
 
 ```csharp
 public double GetValue(UnitType unitType)
@@ -36,23 +36,21 @@ public double GetValue(UnitType unitType)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| unitType | UnitType | Τύπος μονάδας. |
+| unitType | UnitType | Τύπος της μονάδας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει τιμή που μετατρέπεται σε καθορισμένο τύπο.
+Επιστρέφει τιμή που μετατρέπεται στον καθορισμένο τύπο.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | Τύπος μονάδας |
+| ArgumentNullException | unitType |
 
 ### Δείτε επίσης
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../numeric/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

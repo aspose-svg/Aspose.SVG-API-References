@@ -1,14 +1,14 @@
 ---
-title: Element.GetElementsByTagName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Επιστρέφει μια NodeList όλων των απογόνων στοιχείων με ένα δεδομένο όνομα ετικέτας με σειρά εγγράφων.
+title: "Element.GetElementsByTagName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Element GetElementsByTagName method. Επιστρέφει αντικείμενο HTMLCollection που περιέχει όλα τα στοιχεία με το δεδομένο όνομα ετικέτας με τη σειρά του εγγράφου"
 type: docs
 weight: 290
 url: /el/net/aspose.svg.dom/element/getelementsbytagname/
 ---
 ## Element.GetElementsByTagName method
 
-Επιστρέφει μια NodeList όλων των απογόνων στοιχείων με ένα δεδομένο όνομα ετικέτας, με σειρά εγγράφων.
+Επιστρέφει το αντικείμενο [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) που περιέχει όλα τα [`elements`](../) με το δεδομένο όνομα ετικέτας, με τη σειρά του εγγράφου.
 
 ```csharp
 public HTMLCollection GetElementsByTagName(string name)
@@ -16,17 +16,19 @@ public HTMLCollection GetElementsByTagName(string name)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Το όνομα της ετικέτας. |
+| name | String | Αναπαράσταση συμβολοσειράς του ονόματος ετικέτας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει χαρακτηριστικό
+Μια ζωντανή [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) των ευρεθέντων στοιχείων.
+
+## Παρατηρήσεις
+
+Ανατρέξτε στην επίσημη [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagname).
 
 ### Δείτε επίσης
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

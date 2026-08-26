@@ -1,27 +1,25 @@
 ---
-title: FontsSettings.GetFontsLookupFolders
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FontsSettings μέθοδος. Λαμβάνει ένα αντίγραφο του πίνακα που περιέχει φακέλους γραμματοσειρών. Οι γραμματοσειρές που βρίσκονται σε αυτούς τους φακέλους χρησιμοποιούνται για την απόδοση χαρακτήρων.
+title: "FontsSettings.GetFontsLookupFolders"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος FontsSettings GetFontsLookupFolders. Λαμβάνει ένα αντίγραφο του πίνακα που περιέχει φακέλους γραμματοσειρών. Οι γραμματοσειρές που βρίσκονται σε αυτούς τους φακέλους χρησιμοποιούνται για την απόδοση χαρακτήρων."
 type: docs
 weight: 20
 url: /el/net/aspose.svg/fontssettings/getfontslookupfolders/
 ---
 ## FontsSettings.GetFontsLookupFolders method
 
-Λαμβάνει ένα αντίγραφο του πίνακα που περιέχει φακέλους γραμματοσειρών. Οι γραμματοσειρές που βρίσκονται σε αυτούς τους φακέλους χρησιμοποιούνται για την απόδοση χαρακτήρων.
+Επιστρέφει ένα αντίγραφο του πίνακα που περιέχει φακέλους γραμματοσειρών. Οι γραμματοσειρές που βρίσκονται σε αυτούς τους φακέλους χρησιμοποιούνται για την απόδοση χαρακτήρων.
 
 ```csharp
 public string[] GetFontsLookupFolders()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αντίγραφο της σειράς φακέλων γραμματοσειρών.
+Ένα αντίγραφο του πίνακα φακέλων γραμματοσειρών.
 
 ### Δείτε επίσης
 
 * class [FontsSettings](../)
-* χώρος ονομάτων [Aspose.Svg](../../fontssettings/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

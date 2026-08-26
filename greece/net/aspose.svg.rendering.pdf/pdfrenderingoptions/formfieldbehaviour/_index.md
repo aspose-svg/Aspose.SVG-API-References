@@ -1,7 +1,7 @@
 ---
-title: PdfRenderingOptions.FormFieldBehaviour
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfRenderingOptions ιδιοκτησία. Καθορίζει τη συμπεριφορά των πεδίων φόρμας στο έγγραφο PDF εξόδου.
+title: "PdfRenderingOptions.FormFieldBehaviour"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PdfRenderingOptions FormFieldBehaviour. Καθορίζει τη συμπεριφορά των πεδίων φόρμας στο παραγόμενο έγγραφο PDF"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.rendering.pdf/pdfrenderingoptions/formfieldbehaviour/
@@ -18,7 +18,5 @@ public FormFieldBehaviour FormFieldBehaviour { get; set; }
 
 * enum [FormFieldBehaviour](../../formfieldbehaviour/)
 * class [PdfRenderingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

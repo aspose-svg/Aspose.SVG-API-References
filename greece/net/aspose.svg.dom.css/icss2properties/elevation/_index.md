@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.Elevation
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας elevation στο CSS2.
+title: "ICSS2Properties.Elevation"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ιδιότητα Elevation. Δείτε τον ορισμό της ιδιότητας elevation στο CSS2"
 type: docs
 weight: 440
 url: /el/net/aspose.svg.dom.css/icss2properties/elevation/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/elevation/
 public string Elevation { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-υψομετρική ιδιοκτησία
+ιδιότητα elevation
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGFETurbulenceElement.SVG_STITCHTYPE_STITCH
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFETurbulenceElement πεδίο. Αντιστοιχεί στην τιμή stitch.
+title: "SVGFETurbulenceElement.SVG_STITCHTYPE_STITCH"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFETurbulenceElement SVG_STITCHTYPE_STITCH πεδίο. Αντιστοιχεί στην τιμή stitch"
 type: docs
 weight: 130
 url: /el/net/aspose.svg.filters/svgfeturbulenceelement/svg_stitchtype_stitch/
@@ -17,7 +17,5 @@ public const ushort SVG_STITCHTYPE_STITCH;
 ### Δείτε επίσης
 
 * class [SVGFETurbulenceElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

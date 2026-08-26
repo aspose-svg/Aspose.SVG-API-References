@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnUnload
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IWindowEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει event handler
+title: "IWindowEventHandlers.OnUnload"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IWindowEventHandlers συμβάν OnUnload. Λαμβάνει ή ορίζει τον διαχειριστή του συμβάντος"
 type: docs
 weight: 120
 url: /el/net/aspose.svg.window/iwindoweventhandlers/onunload/
 ---
 ## IWindowEventHandlers.OnUnload event
 
-Λαμβάνει ή ορίζει event handler
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος
 
 ```csharp
 public event DOMEventHandler OnUnload;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnUnload;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

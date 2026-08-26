@@ -1,7 +1,7 @@
 ---
-title: IDevice.DrawImage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Σχεδιάζει την καθορισμένη εικόνα.
+title: "IDevice.DrawImage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice DrawImage μέθοδος. Σχεδιάζει την καθορισμένη εικόνα."
 type: docs
 weight: 100
 url: /el/net/aspose.svg.rendering/idevice/drawimage/
@@ -11,20 +11,18 @@ url: /el/net/aspose.svg.rendering/idevice/drawimage/
 Σχεδιάζει την καθορισμένη εικόνα.
 
 ```csharp
-public void DrawImage(byte[] data, ImageType type, RectangleF rect)
+public void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Μια σειρά από byte που αντιπροσωπεύουν την εικόνα. |
-| type | ImageType | Τύπος εικόνας. |
-| rect | RectangleF | Ένα ορθογώνιο που καθορίζει τη θέση και το μέγεθος προς σχεδίαση. |
+| δεδομένα | Byte[] | Ένας πίνακας bytes που αντιπροσωπεύει την εικόνα. |
+| imageFormat | WebImageFormat | Μορφή εικόνας. |
+| rect | RectangleF | Ένα ορθογώνιο που καθορίζει τη θέση και το μέγεθος για σχεδίαση. |
 
 ### Δείτε επίσης
 
-* enum [ImageType](../../imagetype/)
+* enum [WebImageFormat](../../../aspose.svg.drawing/webimageformat/)
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Renderer.Dispose
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Renderer μέθοδος. Απελευθερώνει μη διαχειριζόμενους και  προαιρετικά  διαχειριζόμενους πόρους.
+title: "Renderer.Dispose"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Renderer Dispose. Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.rendering/renderer/dispose/
@@ -17,7 +17,5 @@ public void Dispose()
 ### Δείτε επίσης
 
 * class [Renderer](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../renderer/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

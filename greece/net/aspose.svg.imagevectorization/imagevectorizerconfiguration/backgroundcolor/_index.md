@@ -1,7 +1,7 @@
 ---
-title: ImageVectorizerConfiguration.BackgroundColor
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageVectorizerConfiguration ιδιοκτησία. Λαμβάνει ή ορίζει το χρώμα φόντου. Η προεπιλεγμένη τιμή είναι διαφανές λευκό.
+title: "ImageVectorizerConfiguration.BackgroundColor"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα BackgroundColor του ImageVectorizerConfiguration. Λαμβάνει ή ορίζει το χρώμα φόντου. Η προεπιλεγμένη τιμή είναι διαφανές λευκό."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/backgroundcolor/
@@ -18,7 +18,5 @@ public Color BackgroundColor { get; set; }
 
 * class [Color](../../../aspose.svg.drawing/color/)
 * class [ImageVectorizerConfiguration](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

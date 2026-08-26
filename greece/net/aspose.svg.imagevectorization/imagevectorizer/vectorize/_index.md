@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizer.Vectorize
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageVectorizer μέθοδος. Δημιουργεί διανυσματική εικόνα ράστερ από το καθορισμένο αρχείο.
+title: "ImageVectorizer.Vectorize"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος ImageVectorizer Vectorize. Διανυσματοποιεί εικόνα raster από το καθορισμένο αρχείο."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
-## Vectorize(string) {#vectorize_2}
+## Vectorize(*string*) {#vectorize_1}
 
-Δημιουργεί διανυσματική εικόνα ράστερ από το καθορισμένο αρχείο.
+Διανυσματοποιεί raster εικόνα από το καθορισμένο αρχείο.
 
 ```csharp
 public SVGDocument Vectorize(string imageFile)
@@ -18,7 +18,7 @@ public SVGDocument Vectorize(string imageFile)
 | --- | --- | --- |
 | imageFile | String | Η διαδρομή προς το αρχείο εικόνας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το έγγραφο SVG.
 
@@ -26,14 +26,14 @@ public SVGDocument Vectorize(string imageFile)
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Vectorize(Stream) {#vectorize_1}
+## Vectorize(*Stream*) {#vectorize}
 
-Δημιουργεί διανυσματική εικόνα ράστερ από την καθορισμένη ροή.
+Διανυσματοποιεί raster εικόνα από το καθορισμένο ρεύμα.
 
 ```csharp
 public SVGDocument Vectorize(Stream imageStream)
@@ -43,7 +43,7 @@ public SVGDocument Vectorize(Stream imageStream)
 | --- | --- | --- |
 | imageStream | Stream | Η ροή με την εικόνα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το έγγραφο SVG.
 
@@ -51,32 +51,5 @@ public SVGDocument Vectorize(Stream imageStream)
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* συνέλευση [Aspose.SVG](../../../)
-
----
-
-## Vectorize(Bitmap) {#vectorize}
-
-Διανυσματικό bitmap.
-
-```csharp
-public SVGDocument Vectorize(Bitmap image)
-```
-
-| Παράμετρος | Τύπος | Περιγραφή |
-| --- | --- | --- |
-| image | Bitmap | Το bitmap. |
-
-### Επιστρεφόμενη Αξία
-
-Το έγγραφο SVG.
-
-### Δείτε επίσης
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageVectorizer](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: CSSPrimitiveValue.GetRectValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSPrimitiveValue μέθοδος. Αυτή η μέθοδος χρησιμοποιείται για τη λήψη της τιμής Rect. Εάν αυτή η τιμή CSS δεν περιέχει μια ορθή τιμή δημιουργείται μια εξαίρεση DOME. Η τροποποίηση της αντίστοιχης ιδιότητας στυλ μπορεί να επιτευχθεί χρησιμοποιώντας τη διεπαφή Rect.
+title: "CSSPrimitiveValue.GetRectValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος CSSPrimitiveValue GetRectValue. Αυτή η μέθοδος χρησιμοποιείται για την απόκτηση της τιμής Rect. Εάν αυτή η τιμή CSS δεν περιέχει τιμή rect, εγείρεται μια DOMException. Η τροποποίηση της αντίστοιχης ιδιότητας στυλ μπορεί να επιτευχθεί χρησιμοποιώντας τη διεπαφή Rect."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom.css/cssprimitivevalue/getrectvalue/
 ---
 ## CSSPrimitiveValue.GetRectValue method
 
-Αυτή η μέθοδος χρησιμοποιείται για τη λήψη της τιμής Rect. Εάν αυτή η τιμή CSS δεν περιέχει μια ορθή τιμή, δημιουργείται μια εξαίρεση DOME. Η τροποποίηση της αντίστοιχης ιδιότητας στυλ μπορεί να επιτευχθεί χρησιμοποιώντας τη διεπαφή Rect.
+Αυτή η μέθοδος χρησιμοποιείται για την απόκτηση της τιμής Rect. Εάν αυτή η τιμή CSS δεν περιέχει τιμή rect, εγείρεται μια DOMException. Η τροποποίηση της αντίστοιχης ιδιότητας στυλ μπορεί να επιτευχθεί χρησιμοποιώντας τη διεπαφή Rect.
 
 ```csharp
 public abstract Rect GetRectValue()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την ορθή τιμή
+Επιστρέφει την τιμή Rect
 
 ### Δείτε επίσης
 
 * class [Rect](../../rect/)
 * class [CSSPrimitiveValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

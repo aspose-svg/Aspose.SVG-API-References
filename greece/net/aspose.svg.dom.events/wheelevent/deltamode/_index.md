@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaMode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: WheelEvent ιδιοκτησία. Το χαρακτηριστικό deltaMode περιέχει μια ένδειξη των μονάδων μέτρησης για τις τιμές δέλτα. Η προεπιλεγμένη τιμή είναι DOM_DELTA_PIXEL pixel.
+title: "WheelEvent.DeltaMode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα WheelEvent DeltaMode. Το χαρακτηριστικό deltaMode περιέχει ένδειξη των μονάδων μέτρησης για τις τιμές του delta. Η προεπιλεγμένη τιμή είναι DOM_DELTA_PIXEL εικονοστοιχεία."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.events/wheelevent/deltamode/
 ---
 ## WheelEvent.DeltaMode property
 
-Το χαρακτηριστικό deltaMode περιέχει μια ένδειξη των μονάδων μέτρησης για τις τιμές δέλτα. Η προεπιλεγμένη τιμή είναι DOM_DELTA_PIXEL (pixel).
+Η ιδιότητα deltaMode περιέχει μια ένδειξη των μονάδων μέτρησης για τις τιμές delta. Η προεπιλεγμένη τιμή είναι DOM_DELTA_PIXEL (pixels).
 
 ```csharp
 public ulong DeltaMode { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η λειτουργία δέλτα.
+Η λειτουργία delta.
 
 ### Δείτε επίσης
 
 * class [WheelEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../wheelevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class PlatformException
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.PlatformException τάξη. Αντιπροσωπεύει τη βασική κλάση για όλες τις εξαιρέσεις που ενδέχεται να προκύψουν κατά την εκτέλεση της εφαρμογής.
+title: "PlatformException Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.PlatformException κλάση. Αντιπροσωπεύει τη βασική κλάση για όλες τις εξαιρέσεις που μπορεί να προκύψουν κατά την εκτέλεση της εφαρμογής."
 type: docs
-weight: 2700
+weight: 4770
 url: /el/net/aspose.svg/platformexception/
 ---
 ## PlatformException class
 
-Αντιπροσωπεύει τη βασική κλάση για όλες τις εξαιρέσεις που ενδέχεται να προκύψουν κατά την εκτέλεση της εφαρμογής.
+Αντιπροσωπεύει τη βασική κλάση για όλες τις εξαιρέσεις που μπορεί να προκύψουν κατά την εκτέλεση της εφαρμογής.
 
 ```csharp
 public class PlatformException : Exception
@@ -16,15 +16,26 @@ public class PlatformException : Exception
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [PlatformException](platformexception/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`PlatformException` τάξη. |
-| [PlatformException](platformexception/#constructor_1)(string) | Αρχικοποιεί μια νέα παρουσία του`PlatformException` τάξη με ένα καθορισμένο μήνυμα σφάλματος. |
-| [PlatformException](platformexception/#constructor_2)(string, Exception) | Αρχικοποιεί μια νέα παρουσία του`PlatformException` κλάση με ένα καθορισμένο μήνυμα σφάλματος και μια αναφορά στην εσωτερική εξαίρεση που είναι η αιτία αυτής της εξαίρεσης. |
+| [PlatformException](platformexception/#constructor)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `PlatformException`. |
+| [PlatformException](platformexception/#constructor_1)(*string*) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `PlatformException` με ένα συγκεκριμένο μήνυμα σφάλματος. |
+| [PlatformException](platformexception/#constructor_2)(*string, Exception*) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `PlatformException` με ένα συγκεκριμένο μήνυμα σφάλματος και μια αναφορά στην εσωτερική εξαίρεση που είναι η αιτία αυτής της εξαίρεσης. |
+
+## Ιδιότητες
+
+| Όνομα | Περιγραφή |
+| --- | --- |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
+| virtual [Message](../../system/exception/message/) { get; } |  |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg](../../aspose.svg/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

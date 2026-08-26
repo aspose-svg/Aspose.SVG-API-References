@@ -1,28 +1,26 @@
 ---
-title: SVGFEComponentTransferElement.Height
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEComponentTransferElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό ύψος στο δεδομένο στοιχείο φίλτρο.
+title: "SVGFEComponentTransferElement.Height"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFEComponentTransferElement Height property. Αντιστοιχεί στο χαρακτηριστικό height στο στοιχείο φίλτρου που δόθηκε"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.filters/svgfecomponenttransferelement/height/
 ---
 ## SVGFEComponentTransferElement.Height property
 
-Αντιστοιχεί στο χαρακτηριστικό "ύψος" στο δεδομένο στοιχείο "φίλτρο".
+Αντιστοιχεί στο χαρακτηριστικό ‘height’ του δεδομένου στοιχείου ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'height' του δεδομένου στοιχείου 'filter'.
+Το χαρακτηριστικό ‘height’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEComponentTransferElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfecomponenttransferelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

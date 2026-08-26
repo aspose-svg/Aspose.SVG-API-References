@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnLoad
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnLoad.
+title: "IGlobalEventHandlers.OnLoad"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers συμβάν OnLoad. Λαμβάνει ή ορίζει τον χειριστή του συμβάντος OnLoad"
 type: docs
 weight: 200
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onload/
 ---
 ## IGlobalEventHandlers.OnLoad event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnLoad.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnLoad συμβάν.
 
 ```csharp
 public event DOMEventHandler OnLoad;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoad;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

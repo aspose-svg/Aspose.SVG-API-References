@@ -1,14 +1,14 @@
 ---
-title: DOMNameAttribute.DOMNameAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMNameAttribute κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουDOMNameAttribute τάξη.
+title: "DOMNameAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMNameAttribute κατασκευαστής. Αρχικοποιεί ένα νέο παράδειγμα της κλάσης DOMNameAttribute"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`DOMNameAttribute`](../) τάξη.
+Αρχικοποιεί ένα νέο παράδειγμα της κλάσης [`DOMNameAttribute`](../).
 
 ```csharp
 public DOMNameAttribute(string name)
@@ -21,7 +21,5 @@ public DOMNameAttribute(string name)
 ### Δείτε επίσης
 
 * class [DOMNameAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

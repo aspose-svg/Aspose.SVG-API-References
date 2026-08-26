@@ -1,20 +1,20 @@
 ---
-title: SVGSVGElement.CreateSVGNumber
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement μέθοδος. Δημιουργεί ένα αντικείμενο SVGNumber εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται σε τιμή μηδέν.
+title: "SVGSVGElement.CreateSVGNumber"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος CreateSVGNumber του SVGSVGElement. Δημιουργεί ένα αντικείμενο SVGNumber εκτός οποιουδήποτε δένδρου εγγράφου. Το αντικείμενο αρχικοποιείται σε τιμή μηδέν."
 type: docs
 weight: 150
 url: /el/net/aspose.svg/svgsvgelement/createsvgnumber/
 ---
 ## SVGSVGElement.CreateSVGNumber method
 
-Δημιουργεί ένα αντικείμενο SVGNumber εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται σε τιμή μηδέν.
+Δημιουργεί ένα αντικείμενο SVGNumber εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται στην τιμή μηδέν.
 
 ```csharp
 public SVGNumber CreateSVGNumber()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα αντικείμενο SVGNumber.
 
@@ -22,7 +22,5 @@ public SVGNumber CreateSVGNumber()
 
 * class [SVGNumber](../../../aspose.svg.datatypes/svgnumber/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

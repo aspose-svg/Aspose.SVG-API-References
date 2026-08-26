@@ -1,20 +1,20 @@
 ---
-title: Document.Children
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Επιστρέφει τα θυγατρικά στοιχεία.
+title: "Document.Children"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document Children ιδιότητα. Επιστρέφει τα παιδικά στοιχεία."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom/document/children/
 ---
 ## Document.Children property
 
-Επιστρέφει τα θυγατρικά στοιχεία.
+Επιστρέφει τα παιδικά στοιχεία.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα παιδιά.
 
@@ -22,7 +22,5 @@ public HTMLCollection Children { get; }
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

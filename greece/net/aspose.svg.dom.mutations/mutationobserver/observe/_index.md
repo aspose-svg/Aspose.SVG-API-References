@@ -1,14 +1,14 @@
 ---
-title: MutationObserver.Observe
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationObserver μέθοδος. Καθοδηγεί τον παράγοντα χρήστη να παρατηρήσει έναν δεδομένο στόχο έναν κόμβο και να αναφέρει τυχόν μεταλλάξεις με βάση τα κριτήρια που δίνονται από τις επιλογές ένα αντικείμενο. Το όρισμα επιλογές επιτρέπει τον ορισμό επιλογών παρατήρησης μετάλλαξης μέσω μελών αντικειμένου.
+title: "MutationObserver.Observe"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος MutationObserver Observe. Οδηγεί τον πράκτορα χρήστη να παρακολουθεί έναν συγκεκριμένο στόχο, έναν κόμβο, και να αναφέρει τυχόν μεταβολές βάσει των κριτηρίων που δίνονται από το αντικείμενο options. Το όρισμα options επιτρέπει τον ορισμό επιλογών παρακολούθησης μεταβολών μέσω των μελών του αντικειμένου."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.mutations/mutationobserver/observe/
 ---
-## Observe(Node) {#observe}
+## Observe(*[Node](../../../aspose.svg.dom/node/)*) {#observe}
 
-Καθοδηγεί τον παράγοντα χρήστη να παρατηρήσει έναν δεδομένο στόχο (έναν κόμβο) και να αναφέρει τυχόν μεταλλάξεις με βάση τα κριτήρια που δίνονται από τις επιλογές (ένα αντικείμενο). Το όρισμα επιλογές επιτρέπει τον ορισμό επιλογών παρατήρησης μετάλλαξης μέσω μελών αντικειμένου.
+Οδηγεί τον user agent να παρακολουθεί έναν συγκεκριμένο στόχο (ένα node) και να αναφέρει τυχόν μεταβολές βάσει των κριτηρίων που δίνονται από τις options (ένα αντικείμενο). Το όρισμα options επιτρέπει τον ορισμό επιλογών παρακολούθησης μεταβολών μέσω των μελών του αντικειμένου.
 
 ```csharp
 public void Observe(Node target)
@@ -16,20 +16,20 @@ public void Observe(Node target)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| target | Node | Ο στόχος για παρατήρηση. |
+| στόχος | Node | Ο στόχος για observe. |
 
 ### Δείτε επίσης
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserver](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Observe(Node, MutationObserverInit) {#observe_1}
+## Observe(*[Node](../../../aspose.svg.dom/node/), [MutationObserverInit](../../mutationobserverinit/)*) {#observe_1}
 
-Καθοδηγεί τον παράγοντα χρήστη να παρατηρήσει έναν δεδομένο στόχο (έναν κόμβο) και να αναφέρει τυχόν μεταλλάξεις με βάση τα κριτήρια που δίνονται από τις επιλογές (ένα αντικείμενο). Το όρισμα επιλογές επιτρέπει τον ορισμό επιλογών παρατήρησης μετάλλαξης μέσω μελών αντικειμένου.
+Οδηγεί τον user agent να παρακολουθεί έναν συγκεκριμένο στόχο (ένα node) και να αναφέρει τυχόν μεταβολές βάσει των κριτηρίων που δίνονται από τις options (ένα αντικείμενο). Το όρισμα options επιτρέπει τον ορισμό επιλογών παρακολούθησης μεταβολών μέσω των μελών του αντικειμένου.
 
 ```csharp
 public void Observe(Node target, MutationObserverInit options)
@@ -37,7 +37,7 @@ public void Observe(Node target, MutationObserverInit options)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| target | Node | Ο στόχος για παρατήρηση. |
+| στόχος | Node | Ο στόχος για observe. |
 | options | MutationObserverInit | Οι επιλογές του παρατηρητή. |
 
 ### Δείτε επίσης
@@ -45,7 +45,5 @@ public void Observe(Node target, MutationObserverInit options)
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserverInit](../../mutationobserverinit/)
 * class [MutationObserver](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

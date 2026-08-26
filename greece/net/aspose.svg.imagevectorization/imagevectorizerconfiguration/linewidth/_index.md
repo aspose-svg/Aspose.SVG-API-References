@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.LineWidth
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageVectorizerConfiguration ιδιοκτησία. Λαμβάνει ή ορίζει το πλάτος γραμμής. Η τιμή αυτής της παραμέτρου επηρεάζεται από την κλίμακα γραφικών. Η προεπιλεγμένη τιμή είναι 1.
+title: "ImageVectorizerConfiguration.LineWidth"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα LineWidth του ImageVectorizerConfiguration. Λαμβάνει ή ορίζει το πλάτος της γραμμής. Η τιμή αυτού του παραμέτρου επηρεάζεται από την κλίμακα γραφικών. Η προεπιλεγμένη τιμή είναι 1."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/linewidth/
 ---
 ## ImageVectorizerConfiguration.LineWidth property
 
-Λαμβάνει ή ορίζει το πλάτος γραμμής. Η τιμή αυτής της παραμέτρου επηρεάζεται από την κλίμακα γραφικών. Η προεπιλεγμένη τιμή είναι 1.
+Λαμβάνει ή ορίζει το πλάτος της γραμμής. Η τιμή αυτού του παραμέτρου επηρεάζεται από την κλίμακα των γραφικών. Η προεπιλεγμένη τιμή είναι 1.
 
 ```csharp
 public float LineWidth { get; set; }
@@ -17,7 +17,5 @@ public float LineWidth { get; set; }
 ### Δείτε επίσης
 
 * class [ImageVectorizerConfiguration](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

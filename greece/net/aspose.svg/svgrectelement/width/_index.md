@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Width
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGRectElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό width στο δεδομένο στοιχείο rect.
+title: "SVGRectElement.Width"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGRectElement Width ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό width στο δεδομένο στοιχείο rect"
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svgrectelement/width/
 ---
 ## SVGRectElement.Width property
 
-Αντιστοιχεί στο χαρακτηριστικό 'width' στο δεδομένο στοιχείο 'rect'.
+Αντιστοιχεί στο χαρακτηριστικό ‘width’ του δεδομένου στοιχείου ‘rect’
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'width' του δεδομένου στοιχείου 'rect'.
+Το χαρακτηριστικό ‘width’ του δεδομένου στοιχείου ‘rect’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgrectelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

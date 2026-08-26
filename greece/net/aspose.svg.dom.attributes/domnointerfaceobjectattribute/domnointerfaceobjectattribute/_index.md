@@ -1,7 +1,7 @@
 ---
-title: DOMNoInterfaceObjectAttribute.DOMNoInterfaceObjectAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMNoInterfaceObjectAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DOMNoInterfaceObjectAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMNoInterfaceObjectAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/domnointerfaceobjectattribute/
@@ -17,7 +17,5 @@ public DOMNoInterfaceObjectAttribute()
 ### Δείτε επίσης
 
 * class [DOMNoInterfaceObjectAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domnointerfaceobjectattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

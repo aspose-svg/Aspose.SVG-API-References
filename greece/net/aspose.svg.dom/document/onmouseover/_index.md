@@ -1,14 +1,14 @@
 ---
-title: Document.OnMouseOver
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseOver.
+title: "Document.OnMouseOver"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Συμβάν Document OnMouseOver. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnMouseOver."
 type: docs
 weight: 560
 url: /el/net/aspose.svg.dom/document/onmouseover/
 ---
 ## Document.OnMouseOver event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseOver.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnMouseOver συμβάν.
 
 ```csharp
 public event DOMEventHandler OnMouseOver;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseOver;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

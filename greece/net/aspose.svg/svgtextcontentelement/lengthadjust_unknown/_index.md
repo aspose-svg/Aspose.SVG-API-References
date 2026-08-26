@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_UNKNOWN
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGTextContentElement πεδίο. Η απαρίθμηση ορίστηκε σε μια τιμή που δεν ανήκει σε προκαθορισμένους τύπους. Δεν είναι έγκυρο να επιχειρήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο.
+title: "SVGTextContentElement.LENGTHADJUST_UNKNOWN"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο LENGTHADJUST_UNKNOWN του SVGTextContentElement. Η απαρίθμηση ορίστηκε σε τιμή που δεν είναι μία από τις προκαθορισμένες τύπους. Είναι άκυρο να προσπαθήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο"
 type: docs
 weight: 70
 url: /el/net/aspose.svg/svgtextcontentelement/lengthadjust_unknown/
 ---
 ## SVGTextContentElement.LENGTHADJUST_UNKNOWN field
 
-Η απαρίθμηση ορίστηκε σε μια τιμή που δεν ανήκει σε προκαθορισμένους τύπους. Δεν είναι έγκυρο να επιχειρήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο.
+Η απαρίθμηση ορίστηκε σε τιμή που δεν είναι μία από τις προκαθορισμένους τύπους. Είναι άκυρο να προσπαθήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο.
 
 ```csharp
 public const ushort LENGTHADJUST_UNKNOWN;
@@ -17,7 +17,5 @@ public const ushort LENGTHADJUST_UNKNOWN;
 ### Δείτε επίσης
 
 * class [SVGTextContentElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgtextcontentelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

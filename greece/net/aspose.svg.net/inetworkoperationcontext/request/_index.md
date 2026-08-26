@@ -1,7 +1,7 @@
 ---
-title: INetworkOperationContext.Request
-second_title: Aspose.SVG για Αναφορά API .NET
-description: INetworkOperationContext ιδιοκτησία. Λαμβάνει ή ορίζει το μήνυμα αιτήματος.
+title: "INetworkOperationContext.Request"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Request του INetworkOperationContext. Λαμβάνει ή ορίζει το μήνυμα αίτησης"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/inetworkoperationcontext/request/
@@ -14,15 +14,13 @@ url: /el/net/aspose.svg.net/inetworkoperationcontext/request/
 public RequestMessage Request { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μήνυμα αιτήματος.
+Το μήνυμα αίτησης.
 
 ### Δείτε επίσης
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

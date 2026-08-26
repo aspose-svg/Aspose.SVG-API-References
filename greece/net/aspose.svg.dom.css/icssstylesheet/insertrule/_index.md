@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleSheet.InsertRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSStyleSheet μέθοδος. Χρησιμοποιείται για την εισαγωγή ενός νέου κανόνα στο φύλλο στυλ. Ο νέος κανόνας γίνεται πλέον μέρος του καταρράκτη.
+title: "ICSSStyleSheet.InsertRule"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος InsertRule του ICSSStyleSheet. Χρησιμοποιείται για την εισαγωγή ενός νέου κανόνα στο φύλλο στυλ. Ο νέος κανόνας τώρα γίνεται μέρος της αλυσίδας"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.css/icssstylesheet/insertrule/
 ---
 ## ICSSStyleSheet.InsertRule method
 
-Χρησιμοποιείται για την εισαγωγή ενός νέου κανόνα στο φύλλο στυλ. Ο νέος κανόνας γίνεται πλέον μέρος του καταρράκτη.
+Χρησιμοποιείται για την εισαγωγή ενός νέου κανόνα στο φύλλο στυλ. Ο νέος κανόνας τώρα γίνεται μέρος της αλυσίδας.
 
 ```csharp
 public long InsertRule(string rule, int index)
@@ -16,17 +16,15 @@ public long InsertRule(string rule, int index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rule | String | Ο κανόνας του στυλ. |
-| index | Int32 | Ο δείκτης κανόνων. |
+| κανόνας | String | Ο κανόνας στυλ. |
+| δείκτης | Int32 | Ο δείκτης του κανόνα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το εισαγόμενο ευρετήριο
+Ο εισαγόμενος δείκτης
 
 ### Δείτε επίσης
 
 * interface [ICSSStyleSheet](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface IGradientBrush
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Drawing.IGradientBrush διεπαφή. Δηλώστε μεθόδους για τη λήψη κοινών ιδιοτήτων των πινέλων ντεγκραντέ.
+title: "Διεπαφή IGradientBrush"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Drawing.IGradientBrush. Δηλώνει μεθόδους για την λήψη κοινών ιδιοτήτων των gradient brushes."
 type: docs
-weight: 1450
+weight: 3470
 url: /el/net/aspose.svg.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
 
-Δηλώστε μεθόδους για τη λήψη κοινών ιδιοτήτων των πινέλων ντεγκραντέ.
+Δηλώστε μεθόδους για την απόκτηση κοινών ιδιοτήτων των πινέλων διαβάθμισης.
 
 ```csharp
 public interface IGradientBrush : ITransformableBrush
@@ -16,16 +16,14 @@ public interface IGradientBrush : ITransformableBrush
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; } | Λάβετε τους παράγοντες ανάμειξης που καθορίζουν μια προσαρμοσμένη πτώση για τη διαβάθμιση. |
-| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; } | Λάβετε τις θέσεις ανάμειξης που ορίζουν μια προσαρμοσμένη πτώση για την κλίση. |
-| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; } | Λάβετε τα χρώματα παρεμβολής που ορίζουν μια πολύχρωμη γραμμική κλίση. |
+| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; set; } | Λαμβάνει ή ορίζει τους παράγοντες ανάμειξης που ορίζουν μια προσαρμοσμένη εξασθένιση για το gradient. |
+| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; set; } | Λαμβάνει ή ορίζει τις θέσεις ανάμειξης που ορίζουν μια προσαρμοσμένη εξασθένιση για το gradient. |
+| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; set; } | Λαμβάνει ή ορίζει τα χρώματα παρεμβολής που ορίζουν ένα πολυχρωματικό γραμμικό gradient. |
 
 ### Δείτε επίσης
 
 * interface [ITransformableBrush](../itransformablebrush/)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

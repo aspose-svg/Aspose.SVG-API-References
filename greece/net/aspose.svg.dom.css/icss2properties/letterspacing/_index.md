@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.LetterSpacing
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας απόστασης γραμμάτων στο CSS2.
+title: "ICSS2Properties.LetterSpacing"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties LetterSpacing ιδιότητα. Δείτε τον ορισμό της ιδιότητας letter-spacing στο CSS2"
 type: docs
-weight: 570
+weight: 600
 url: /el/net/aspose.svg.dom.css/icss2properties/letterspacing/
 ---
 ## ICSS2Properties.LetterSpacing property
 
-Δείτε τον ορισμό της ιδιότητας απόστασης γραμμάτων στο CSS2.
+Δείτε τον ορισμό της ιδιότητας letter-spacing στο CSS2.
 
 ```csharp
 public string LetterSpacing { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα απόστασης γραμμάτων
+letter-spacing ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

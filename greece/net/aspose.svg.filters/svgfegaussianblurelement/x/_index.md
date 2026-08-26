@@ -1,20 +1,20 @@
 ---
-title: SVGFEGaussianBlurElement.X
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEGaussianBlurElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό x στο δεδομένο στοιχείο φίλτρου.
+title: "SVGFEGaussianBlurElement.X"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα X του SVGFEGaussianBlurElement. Αντιστοιχεί στο χαρακτηριστικό x στο δεδομένο στοιχείο φίλτρου."
 type: docs
 weight: 70
 url: /el/net/aspose.svg.filters/svgfegaussianblurelement/x/
 ---
 ## SVGFEGaussianBlurElement.X property
 
-Αντιστοιχεί στο χαρακτηριστικό �x� στο δεδομένο στοιχείο �φίλτρου».
+Αντιστοιχεί στο χαρακτηριστικό �x� του δεδομένου στοιχείου �filter�.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χαρακτηριστικό �x� του δεδομένου στοιχείου �filter�.
 
@@ -22,7 +22,5 @@ public SVGAnimatedLength X { get; }
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

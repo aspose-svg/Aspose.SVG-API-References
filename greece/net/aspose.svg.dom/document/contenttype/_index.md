@@ -1,7 +1,7 @@
 ---
-title: Document.ContentType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Λαμβάνει τον τύπο περιεχομένου του εγγράφου.
+title: "Document.ContentType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document ContentType. Λαμβάνει τον τύπο περιεχομένου του εγγράφου."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom/document/contenttype/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/document/contenttype/
 public string ContentType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του περιεχομένου.
 
 ### Δείτε επίσης
 
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Color.Equals
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Καθορίζει εάν το καθορισμένοColor ισούται με αυτήν την περίπτωση.
+title: "Color.Equals"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color Equals. Καθορίζει εάν το συγκεκριμένο Color είναι ίσο με αυτήν την παρουσία."
 type: docs
 weight: 300
 url: /el/net/aspose.svg.drawing/color/equals/
 ---
 ## Color.Equals method
 
-Καθορίζει εάν το καθορισμένο[`Color`](../) ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το συγκεκριμένο [`Color`](../) είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Αντικείμενο | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής`.
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

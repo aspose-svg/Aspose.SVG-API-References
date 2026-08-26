@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.ScaleNonUniform
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMatrix μέθοδος. Μεταπολλαπλασιάζει έναν μετασχηματισμό ανομοιόμορφης κλίμακας στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
+title: "SVGMatrix.ScaleNonUniform"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGMatrix ScaleNonUniform. Εφαρμόζει μετά από αριστερά μια μη ομοιόμορφη κλιμακωτική μετατροπή στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα."
 type: docs
 weight: 100
 url: /el/net/aspose.svg.datatypes/svgmatrix/scalenonuniform/
 ---
 ## SVGMatrix.ScaleNonUniform method
 
-Μετα-πολλαπλασιάζει έναν μετασχηματισμό ανομοιόμορφης κλίμακας στον τρέχοντα πίνακα και επιστρέφει τον προκύπτοντα πίνακα.
+Εκτελεί post-multiply ενός μη ομοιόμορφου μετασχηματισμού κλίμακας στον τρέχον πίνακα και επιστρέφει τον προκύπτον πίνακα.
 
 ```csharp
 public SVGMatrix ScaleNonUniform(float scaleFactorX, float scaleFactorY)
@@ -16,17 +16,15 @@ public SVGMatrix ScaleNonUniform(float scaleFactorX, float scaleFactorY)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| scaleFactorX | Single | Συντελεστής κλίμακας στο Χ. |
-| scaleFactorY | Single | Συντελεστής κλίμακας στο Υ. |
+| scaleFactorX | Single | Συντελεστής κλίμακας στον X. |
+| scaleFactorY | Single | Συντελεστής κλίμακας στον Y. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο προκύπτων πίνακας.
 
 ### Δείτε επίσης
 
 * class [SVGMatrix](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgmatrix/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

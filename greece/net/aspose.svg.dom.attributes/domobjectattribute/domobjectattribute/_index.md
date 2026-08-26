@@ -1,7 +1,7 @@
 ---
-title: DOMObjectAttribute.DOMObjectAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMObjectAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DOMObjectAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMObjectAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.attributes/domobjectattribute/domobjectattribute/
@@ -17,7 +17,5 @@ public DOMObjectAttribute()
 ### Δείτε επίσης
 
 * class [DOMObjectAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domobjectattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

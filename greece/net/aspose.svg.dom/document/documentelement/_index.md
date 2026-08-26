@@ -1,20 +1,20 @@
 ---
-title: Document.DocumentElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Αυτό είναι ένα χαρακτηριστικό ευκολίας που επιτρέπει την άμεση πρόσβαση στον θυγατρικό κόμβο που είναι το στοιχείο εγγράφου του εγγράφου.
+title: "Document.DocumentElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document DocumentElement. Αυτή είναι μια βολική ιδιότητα που επιτρέπει άμεση πρόσβαση στον κόμβο-παιδί που είναι το στοιχείο εγγράφου του εγγράφου."
 type: docs
 weight: 100
 url: /el/net/aspose.svg.dom/document/documentelement/
 ---
 ## Document.DocumentElement property
 
-Αυτό είναι ένα χαρακτηριστικό ευκολίας που επιτρέπει την άμεση πρόσβαση στον θυγατρικό κόμβο που είναι το στοιχείο εγγράφου του εγγράφου.
+Αυτό είναι ένα χαρακτηριστικό ευκολίας που επιτρέπει άμεση πρόσβαση στον κόμβο παιδί που είναι το στοιχείο εγγράφου του εγγράφου.
 
 ```csharp
 public Element DocumentElement { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το στοιχείο του εγγράφου.
 
@@ -22,7 +22,5 @@ public Element DocumentElement { get; }
 
 * class [Element](../../element/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

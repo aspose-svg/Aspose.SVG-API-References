@@ -1,27 +1,25 @@
 ---
-title: Entity.NotationName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Entity ιδιοκτησία. Για μη αναλυμένες οντότητες το όνομα της σημείωσης για την οντότητα. Για αναλυμένες οντότητες αυτό είναι null.
+title: "Entity.NotationName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα NotationName του Entity. Για μη αναλυμένες οντότητες, το όνομα της σημειογραφίας για την οντότητα. Για αναλυμένες οντότητες είναι null"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom/entity/notationname/
 ---
 ## Entity.NotationName property
 
-Για μη αναλυμένες οντότητες, το όνομα της σημείωσης για την οντότητα. Για αναλυμένες οντότητες, αυτό είναι null.
+Για μη αναλυμένες οντότητες, το όνομα της σημειογραφίας για την οντότητα. Για αναλυμένες οντότητες, είναι null.
 
 ```csharp
 public string NotationName { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα της σημειογραφίας.
 
 ### Δείτε επίσης
 
 * class [Entity](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../entity/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

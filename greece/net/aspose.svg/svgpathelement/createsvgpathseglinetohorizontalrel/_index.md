@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoHorizontalRel
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathElement μέθοδος. Επιστρέφει ένα αυτόνομο χωρίς γονικό αντικείμενο SVGPathSegLinetoHorizontalRel.
+title: "SVGPathElement.CreateSVGPathSegLinetoHorizontalRel"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGPathElement CreateSVGPathSegLinetoHorizontalRel. Επιστρέφει ένα αυτόνομο χωρίς γονέα αντικείμενο SVGPathSegLinetoHorizontalRel"
 type: docs
 weight: 160
 url: /el/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalrel/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoHorizontalRel method
 
-Επιστρέφει ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegLinetoHorizontalRel.
+Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegLinetoHorizontalRel.
 
 ```csharp
 public SVGPathSegLinetoHorizontalRel CreateSVGPathSegLinetoHorizontalRel(float x)
@@ -16,17 +16,15 @@ public SVGPathSegLinetoHorizontalRel CreateSVGPathSegLinetoHorizontalRel(float x
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Single | Η σχετική συντεταγμένη X για το τελικό σημείο αυτού του τμήματος διαδρομής. |
+| x | Single | Η σχετική συντεταγμένη X για το σημείο λήξης αυτού του τμήματος διαδρομής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegLinetoHorizontalRel.
+Ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegLinetoHorizontalRel.
 
 ### Δείτε επίσης
 
 * class [SVGPathSegLinetoHorizontalRel](../../../aspose.svg.paths/svgpathseglinetohorizontalrel/)
 * class [SVGPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

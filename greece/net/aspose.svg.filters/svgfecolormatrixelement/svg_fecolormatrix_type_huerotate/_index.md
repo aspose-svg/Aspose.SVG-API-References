@@ -1,7 +1,7 @@
 ---
-title: SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_HUEROTATE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEColorMatrixElement πεδίο. Αντιστοιχεί στην τιμή hueRotate.
+title: "SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_HUEROTATE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFEColorMatrixElement SVG_FECOLORMATRIX_TYPE_HUEROTATE πεδίο. Αντιστοιχεί στη τιμή hueRotate"
 type: docs
 weight: 90
 url: /el/net/aspose.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_huerotate/
@@ -17,7 +17,5 @@ public const ushort SVG_FECOLORMATRIX_TYPE_HUEROTATE;
 ### Δείτε επίσης
 
 * class [SVGFEColorMatrixElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

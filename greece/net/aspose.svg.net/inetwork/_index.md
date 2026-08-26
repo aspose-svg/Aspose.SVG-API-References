@@ -1,9 +1,9 @@
 ---
-title: Interface INetwork
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.INetwork διεπαφή. Παρέχει μια διεπαφή για υπηρεσίες δικτύου.
+title: "Διεπαφή INetwork"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Net.INetwork. Παρέχει μια διεπαφή για υπηρεσίες δικτύου"
 type: docs
-weight: 2300
+weight: 4370
 url: /el/net/aspose.svg.net/inetwork/
 ---
 ## INetwork interface
@@ -16,13 +16,11 @@ public interface INetwork : IDisposable
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Send](../../aspose.svg.net/inetwork/send/)(RequestMessage) | Στέλνει α[`RequestMessage`](../requestmessage/) μήνυμα. |
+| [Send](../../aspose.svg.net/inetwork/send/)(*[RequestMessage](../requestmessage/)*) | Στέλνει ένα μήνυμα [`RequestMessage`](../requestmessage/). |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

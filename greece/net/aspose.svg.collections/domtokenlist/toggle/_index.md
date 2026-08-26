@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Toggle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMTokenList μέθοδος. Αφαιρεί το διακριτικό από τη λίστα εάν υπάρχει ή προσθέτει το διακριτικό στη λίστα εάν δεν υπάρχει.
+title: "DOMTokenList.Toggle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος DOMTokenList Toggle. Αφαιρεί το διακριτικό από τη λίστα αν υπάρχει ή προσθέτει το διακριτικό στη λίστα αν δεν υπάρχει."
 type: docs
 weight: 100
 url: /el/net/aspose.svg.collections/domtokenlist/toggle/
 ---
-## Toggle(string) {#toggle}
+## Toggle(*string*) {#toggle}
 
-Αφαιρεί το διακριτικό από τη λίστα εάν υπάρχει ή προσθέτει το διακριτικό στη λίστα εάν δεν υπάρχει.
+Αφαιρεί το διακριτό από τη λίστα εάν υπάρχει, ή προσθέτει το διακριτό στη λίστα εάν δεν υπάρχει.
 
 ```csharp
 public bool Toggle(string token)
@@ -16,41 +16,39 @@ public bool Toggle(string token)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| token | String | Το διακριτικό που θέλετε να αλλάξετε. |
+| token | String | Το διακριτικό που θέλετε να εναλλάξετε. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα Boolean που υποδεικνύει εάν το διακριτικό είναι στη λίστα μετά την κλήση.
+Μια Boolean που υποδεικνύει αν το διακριτικό βρίσκεται στη λίστα μετά την κλήση.
 
 ### Δείτε επίσης
 
 * class [DOMTokenList](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../domtokenlist/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Toggle(string, bool?) {#toggle_1}
+## Toggle(*string, bool*) {#toggle_1}
 
-Αφαιρεί το διακριτικό από τη λίστα εάν υπάρχει ή προσθέτει το διακριτικό στη λίστα εάν δεν υπάρχει.
+Αφαιρεί το διακριτό από τη λίστα εάν υπάρχει, ή προσθέτει το διακριτό στη λίστα εάν δεν υπάρχει.
 
 ```csharp
-public bool Toggle(string token, bool? force)
+public bool Toggle(string token, bool force)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| token | String | Το διακριτικό που θέλετε να αλλάξετε. |
-| force | Nullable`1 | Ένα Boolean που, εάν περιλαμβάνεται, μετατρέπει την εναλλαγή σε λειτουργία μονής κατεύθυνσης. Εάν οριστεί σε false, τότε το διακριτικό θα αφαιρεθεί μόνο, αλλά δεν θα προστεθεί. Εάν οριστεί σε true, τότε το διακριτικό θα προστεθεί μόνο, αλλά δεν θα αφαιρεθεί. |
+| token | String | Το διακριτικό που θέλετε να εναλλάξετε. |
+| force | Boolean | Μια Boolean που, εάν συμπεριληφθεί, μετατρέπει την εναλλαγή σε λειτουργία μονόδρομου. Αν οριστεί σε false, τότε το διακριτικό θα αφαιρεθεί μόνο, αλλά δεν θα προστεθεί. Αν οριστεί σε true, τότε το διακριτικό θα προστεθεί μόνο, αλλά δεν θα αφαιρεθεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα Boolean που υποδεικνύει εάν το διακριτικό είναι στη λίστα μετά την κλήση.
+Μια Boolean που υποδεικνύει αν το διακριτικό βρίσκεται στη λίστα μετά την κλήση.
 
 ### Δείτε επίσης
 
 * class [DOMTokenList](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../domtokenlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

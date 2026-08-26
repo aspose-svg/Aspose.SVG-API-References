@@ -1,7 +1,7 @@
 ---
-title: SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFETurbulenceElement πεδίο. Αντιστοιχεί στην τιμή turbulence.
+title: "SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVG_TURBULENCE_TYPE_TURBULENCE του SVGFETurbulenceElement. Αντιστοιχεί στην τιμή turbulence."
 type: docs
 weight: 160
 url: /el/net/aspose.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbulence/
@@ -17,7 +17,5 @@ public const ushort SVG_TURBULENCE_TYPE_TURBULENCE;
 ### Δείτε επίσης
 
 * class [SVGFETurbulenceElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

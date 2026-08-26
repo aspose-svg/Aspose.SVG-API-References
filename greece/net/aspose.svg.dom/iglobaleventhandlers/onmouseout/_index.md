@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnMouseOut
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseOut.
+title: "IGlobalEventHandlers.OnMouseOut"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός IGlobalEventHandlers OnMouseOut. Λαμβάνει ή ορίζει τον χειριστή συμβάντος για το γεγονός OnMouseOut"
 type: docs
 weight: 280
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onmouseout/
 ---
 ## IGlobalEventHandlers.OnMouseOut event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseOut.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnMouseOut συμβάν.
 
 ```csharp
 public event DOMEventHandler OnMouseOut;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseOut;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

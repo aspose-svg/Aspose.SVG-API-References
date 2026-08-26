@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.NodeValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ProcessingInstruction ιδιοκτησία. Η τιμή αυτού του κόμβου ανάλογα με τον τύπο του.
+title: "ProcessingInstruction.NodeValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ProcessingInstruction NodeValue. Η τιμή αυτού του κόμβου ανάλογα με τον τύπο του"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom/processinginstruction/nodevalue/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/processinginstruction/nodevalue/
 public override string NodeValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή του κόμβου.
 
 ### Δείτε επίσης
 
 * class [ProcessingInstruction](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../processinginstruction/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

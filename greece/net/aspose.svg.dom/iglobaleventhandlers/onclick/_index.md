@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnClick
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnClick.
+title: "IGlobalEventHandlers.OnClick"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός IGlobalEventHandlers OnClick. Λαμβάνει ή ορίζει τον χειριστή συμβάντος για το γεγονός OnClick"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onclick/
 ---
 ## IGlobalEventHandlers.OnClick event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnClick.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnClick.
 
 ```csharp
 public event DOMEventHandler OnClick;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnClick;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

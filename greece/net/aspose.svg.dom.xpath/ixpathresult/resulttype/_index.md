@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.ResultType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IXPathResult ιδιοκτησία. Ένας κωδικός που αντιπροσωπεύει τον τύπο αυτού του αποτελέσματος όπως ορίζεται από το http//www.w3.org/TR/DOMLevel3XPath/xpath.htmlXPathResult XPathResultType αριθ.
+title: "IXPathResult.ResultType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ResultType του IXPathResult. Ένας κώδικας που αντιπροσωπεύει τον τύπο αυτού του αποτελέσματος όπως ορίζεται από το enum http//www.w3.org/TR/DOM-Level-3-XPath/xpath.htmlXPathResult XPathResultType."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.xpath/ixpathresult/resulttype/
 ---
 ## IXPathResult.ResultType property
 
-Ένας κωδικός που αντιπροσωπεύει τον τύπο αυτού του αποτελέσματος, όπως ορίζεται από το http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype/) αριθ.
+Ένας κώδικας που αντιπροσωπεύει τον τύπο αυτού του αποτελέσματος, όπως ορίζεται από το enum http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype/).
 
 ```csharp
 public XPathResultType ResultType { get; }
@@ -18,7 +18,5 @@ public XPathResultType ResultType { get; }
 
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathResult](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

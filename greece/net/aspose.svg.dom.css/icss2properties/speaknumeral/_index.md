@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.SpeakNumeral
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας ομιλίαςαριθμητικού στο CSS2.
+title: "ICSS2Properties.SpeakNumeral"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties SpeakNumeral ιδιότητα. Δείτε τον ορισμό της ιδιότητας speak-numeral στο CSS2"
 type: docs
-weight: 1020
+weight: 1050
 url: /el/net/aspose.svg.dom.css/icss2properties/speaknumeral/
 ---
 ## ICSS2Properties.SpeakNumeral property
 
-Δείτε τον ορισμό της ιδιότητας ομιλίας-αριθμητικού στο CSS2.
+Δείτε τον ορισμό ιδιότητας speak-numeral στο CSS2.
 
 ```csharp
 public string SpeakNumeral { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα ομιλίας-αριθμητικής
+speak-numeral ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

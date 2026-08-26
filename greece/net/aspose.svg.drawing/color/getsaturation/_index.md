@@ -1,27 +1,25 @@
 ---
-title: Color.GetSaturation
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει έναν κορεσμό του χρώματος.
+title: "Color.GetSaturation"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος Color GetSaturation. Επιστρέφει έναν κορεσμό του Color."
 type: docs
 weight: 350
 url: /el/net/aspose.svg.drawing/color/getsaturation/
 ---
 ## Color.GetSaturation method
 
-Επιστρέφει έναν κορεσμό του χρώματος.
+Επιστρέφει τον κορεσμό του Color.
 
 ```csharp
 public float GetSaturation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κορεσμός του χρώματος.
+Ένας κορεσμός του Color.
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

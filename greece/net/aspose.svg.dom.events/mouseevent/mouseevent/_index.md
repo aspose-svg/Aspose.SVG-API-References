@@ -1,14 +1,14 @@
 ---
-title: MouseEvent.MouseEvent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MouseEvent κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουMouseEvent τάξη.
+title: "MouseEvent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής MouseEvent. Δημιουργεί ένα νέο αντικείμενο της κλάσης MouseEvent."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.events/mouseevent/mouseevent/
 ---
-## MouseEvent(string) {#constructor}
+## MouseEvent(*string*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`MouseEvent`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`MouseEvent`](../).
 
 ```csharp
 public MouseEvent(string type)
@@ -16,19 +16,19 @@ public MouseEvent(string type)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος εκδήλωσης. |
+| type | String | Ο τύπος του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [MouseEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../mouseevent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MouseEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## MouseEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`MouseEvent`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`MouseEvent`](../).
 
 ```csharp
 public MouseEvent(string type, IDictionary<string, object> eventInitDict)
@@ -36,13 +36,11 @@ public MouseEvent(string type, IDictionary<string, object> eventInitDict)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος εκδήλωσης. |
-| eventInitDict | IDictionary`2 | Το λεξικό προετοιμασίας συμβάντος. |
+| type | String | Ο τύπος του γεγονότος. |
+| eventInitDict | IDictionary`2 | Το λεξικό αρχικοποίησης του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [MouseEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../mouseevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

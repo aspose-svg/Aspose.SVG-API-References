@@ -1,14 +1,14 @@
 ---
-title: IFileList.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IFileList ιδιοκτησία. Επιστρέφει το αρχείο ευρετηρίου στη λίστα.
+title: "IFileList.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IFileList Item property. Επιστρέφει το αρχείο στη θέση index της λίστας"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.io/ifilelist/item/
 ---
 ## IFileList indexer
 
-Επιστρέφει το αρχείο ευρετηρίου στη λίστα.
+Επιστρέφει το αρχείο στην index θέση της λίστας.
 
 ```csharp
 public IFile this[int index] { get; }
@@ -16,9 +16,9 @@ public IFile this[int index] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Το ευρετήριο του αρχείου. |
+| δείκτης | Η θέση του αρχείου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αρχείο.
 
@@ -26,7 +26,5 @@ public IFile this[int index] { get; }
 
 * interface [IFile](../../ifile/)
 * interface [IFileList](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../ifilelist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

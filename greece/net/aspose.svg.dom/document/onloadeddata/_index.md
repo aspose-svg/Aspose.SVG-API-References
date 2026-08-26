@@ -1,14 +1,14 @@
 ---
-title: Document.OnLoadedData
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnLoadedData.
+title: "Document.OnLoadedData"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnLoadedData. Λαμβάνει ή ορίζει τον διαχειριστή γεγονότος για το γεγονός OnLoadedData"
 type: docs
 weight: 480
 url: /el/net/aspose.svg.dom/document/onloadeddata/
 ---
 ## Document.OnLoadedData event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnLoadedData.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnLoadedData συμβάν.
 
 ```csharp
 public event DOMEventHandler OnLoadedData;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoadedData;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

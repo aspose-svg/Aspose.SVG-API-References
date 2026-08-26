@@ -1,27 +1,25 @@
 ---
-title: UnitType.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "UnitType.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος UnitType ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση"
 type: docs
 weight: 330
 url: /el/net/aspose.svg.drawing/unittype/tostring/
 ---
 ## UnitType.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

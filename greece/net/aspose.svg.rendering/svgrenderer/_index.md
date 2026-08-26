@@ -1,14 +1,14 @@
 ---
-title: Class SvgRenderer
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.SvgRenderer τάξη. Αντιπροσωπεύει το πρόγραμμα απόδοσης εγγράφων SVG.
+title: "SvgRenderer Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.SvgRenderer κλάση. Αντιπροσωπεύει τον αποδοχέα εγγράφων SVG"
 type: docs
-weight: 3030
+weight: 5100
 url: /el/net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class
 
-Αντιπροσωπεύει το πρόγραμμα απόδοσης εγγράφων SVG.
+Αναπαριστά τον renderer εγγράφου SVG.
 
 ```csharp
 public class SvgRenderer : Renderer<SVGDocument>
@@ -16,28 +16,26 @@ public class SvgRenderer : Renderer<SVGDocument>
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [SvgRenderer](svgrenderer/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, params SVGDocument[]) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(IDevice, CancellationToken, params SVGDocument[]) | Καθορίζει μια μέθοδο για την απόδοση πολλαπλών[`SVGDocument`](../../aspose.svg/svgdocument/) s σε ένα συγκεκριμένο[`IDevice`](../idevice/) , χρησιμοποιώντας ένα διακριτικό ακύρωσης για να ζητήσετε ακύρωση της λειτουργίας. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, int, params SVGDocument[]) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, int) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, TimeSpan) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(IDevice, TimeSpan, params SVGDocument[]) | Καθορίζει τη μέθοδο απόδοσης πολλαπλών[`SVGDocument`](../../aspose.svg/svgdocument/) s σε συγκεκριμένα[`IDevice`](../idevice/) . |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/)*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), params SVGDocument[]*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(*[IDevice](../idevice/), CancellationToken, params SVGDocument[]*) | Ορίζει μια μέθοδο για την απόδοση πολλαπλών [`SVGDocument`](../../aspose.svg/svgdocument/)s σε μια συγκεκριμένη [`IDevice`](../idevice/), χρησιμοποιώντας ένα token ακύρωσης για να ζητήσει την ακύρωση της λειτουργίας. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), int, params SVGDocument[]*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), int*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), TimeSpan*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(*[IDevice](../idevice/), TimeSpan, params SVGDocument[]*) | Ορίζει μέθοδο για την απόδοση πολλαπλών [`SVGDocument`](../../aspose.svg/svgdocument/)s σε συγκεκριμένη [`IDevice`](../idevice/). |
 
 ### Δείτε επίσης
 
 * class [SVGDocument](../../aspose.svg/svgdocument/)
-* class [Renderer&lt;TDocument&gt;](../renderer-1/)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* class [Renderer&lt;TSource&gt;](../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

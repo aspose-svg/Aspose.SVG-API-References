@@ -1,14 +1,14 @@
 ---
-title: FontMatchingProperties.FontWeight
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FontMatchingProperties ιδιοκτησία. Λαμβάνει την τιμή βάρους της γραμματοσειράς.
+title: "FontMatchingProperties.FontWeight"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα FontWeight του FontMatchingProperties. Λαμβάνει την τιμή του βάρους γραμματοσειράς"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontweight/
 ---
 ## FontMatchingProperties.FontWeight property
 
-Λαμβάνει την τιμή βάρους της γραμματοσειράς.
+Λαμβάνει την τιμή του βάρους γραμματοσειράς.
 
 ```csharp
 public int FontWeight { get; }
@@ -17,7 +17,5 @@ public int FontWeight { get; }
 ### Δείτε επίσης
 
 * class [FontMatchingProperties](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

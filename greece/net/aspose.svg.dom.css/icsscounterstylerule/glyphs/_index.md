@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Glyphs
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSCounterStyleRule ιδιοκτησία. Παίρνει τα γλυφά.
+title: "ICSSCounterStyleRule.Glyphs"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Glyphs του ICSSCounterStyleRule. Λαμβάνει τα σύμβολα"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.css/icsscounterstylerule/glyphs/
 ---
 ## ICSSCounterStyleRule.Glyphs property
 
-Παίρνει τα γλυφά.
+Λαμβάνει τα σύμβολα.
 
 ```csharp
 public string Glyphs { get; }
@@ -17,7 +17,5 @@ public string Glyphs { get; }
 ### Δείτε επίσης
 
 * interface [ICSSCounterStyleRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

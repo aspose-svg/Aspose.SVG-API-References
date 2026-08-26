@@ -1,14 +1,14 @@
 ---
-title: IDevice.LineTo
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Προσθέτει ένα ευθύγραμμο τμήμα από το τρέχον σημείο στο σημείο pt. Το νέο τρέχον σημείο είναι pt.
+title: "IDevice.LineTo"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice LineTo μέθοδος. Προσθέτει ένα ευθύ τμήμα γραμμής από το τρέχον σημείο στο σημείο pt. Το νέο τρέχον σημείο είναι το pt."
 type: docs
 weight: 170
 url: /el/net/aspose.svg.rendering/idevice/lineto/
 ---
 ## IDevice.LineTo method
 
-Προσθέτει ένα ευθύγραμμο τμήμα από το τρέχον σημείο στο σημείο (pt). Το νέο τρέχον σημείο είναι pt.
+Προσθέτει ένα ευθύ τμήμα γραμμής από το τρέχον σημείο στο σημείο (pt). Το νέο τρέχον σημείο είναι το pt.
 
 ```csharp
 public void LineTo(PointF pt)
@@ -16,12 +16,10 @@ public void LineTo(PointF pt)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pt | PointF | Σημείο όπου μπορείτε να δημιουργήσετε τη γραμμή. |
+| pt | PointF | Σημείο στο οποίο θα δημιουργηθεί η γραμμή. |
 
 ### Δείτε επίσης
 
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

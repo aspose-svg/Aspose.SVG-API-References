@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGUnitTypes
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ISVGUnitTypes διεπαφή. Η διεπαφή SVGUnitTypes ορίζει ένα σύνολο σταθερών που χρησιμοποιούνται συνήθως και είναι μια βασική διεπαφή που χρησιμοποιείται από τα SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement και SVGFilterElement.
+title: "Διεπαφή ISVGUnitTypes"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.ISVGUnitTypes interface. Η διεπαφή SVGUnitTypes ορίζει ένα κοινά χρησιμοποιούμενο σύνολο σταθερών και αποτελεί βασική διεπαφή που χρησιμοποιείται από τα SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement και SVGFilterElement."
 type: docs
-weight: 2050
+weight: 4120
 url: /el/net/aspose.svg/isvgunittypes/
 ---
 ## ISVGUnitTypes interface
 
-Η διεπαφή SVGUnitTypes ορίζει ένα σύνολο σταθερών που χρησιμοποιούνται συνήθως και είναι μια βασική διεπαφή που χρησιμοποιείται από τα SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement και SVGFilterElement.
+Η διεπαφή SVGUnitTypes ορίζει ένα κοινά χρησιμοποιούμενο σύνολο σταθερών και αποτελεί βασική διεπαφή που χρησιμοποιείται από SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement και SVGFilterElement.
 
 ```csharp
 public interface ISVGUnitTypes
@@ -16,7 +16,5 @@ public interface ISVGUnitTypes
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg](../../aspose.svg/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

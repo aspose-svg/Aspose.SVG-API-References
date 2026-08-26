@@ -1,14 +1,14 @@
 ---
-title: Class DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions τάξη. Αντιπροσωπεύει το αντικείμενο διαμόρφωσης για συσκευές.
+title: "DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions class. Αντιπροσωπεύει αντικείμενο διαμόρφωσης για συσκευές"
 type: docs
-weight: 2750
+weight: 4830
 url: /el/net/aspose.svg.rendering/device-2.deviceconfiguration-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> class
 
-Αντιπροσωπεύει το αντικείμενο διαμόρφωσης για συσκευές.
+Αντιπροσωπεύει αντικείμενο διαμόρφωσης για συσκευές.
 
 ```csharp
 public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
@@ -18,22 +18,20 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DeviceConfiguration](deviceconfiguration/)() | Ο προεπιλεγμένος κατασκευαστής. |
+| [DeviceConfiguration](../../aspose.svg.rendering/device-2.deviceconfiguration-2/.ctor)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy/) { get; set; } | Λαμβάνει ή ορίζει τη στρατηγική γραφής σελίδας. |
+| [PageWritingStrategy](../../aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy) { get; set; } | Λαμβάνει ή ορίζει τη στρατηγική εγγραφής σελίδας. |
 
 ### Δείτε επίσης
 
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

@@ -1,27 +1,25 @@
 ---
-title: Node.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "Node.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Node ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση."
 type: docs
-weight: 310
+weight: 290
 url: /el/net/aspose.svg.dom/node/tostring/
 ---
 ## Node.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

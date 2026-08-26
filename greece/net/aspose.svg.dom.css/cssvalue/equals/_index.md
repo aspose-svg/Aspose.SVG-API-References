@@ -1,14 +1,14 @@
 ---
-title: CSSValue.Equals
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSValue μέθοδος. Καθορίζει εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση.
+title: "CSSValue.Equals"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "CSSValue Equals μέθοδος. Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτό το αντίγραφο."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.css/cssvalue/equals/
 ---
 ## CSSValue.Equals method
 
-Καθορίζει εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το συγκεκριμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,22 +16,20 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Αντικείμενο | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| NullReferenceException | Το*obj* η παράμετρος είναι null. |
+| NullReferenceException | Η παράμετρος *obj* είναι null. |
 
 ### Δείτε επίσης
 
 * class [CSSValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssvalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

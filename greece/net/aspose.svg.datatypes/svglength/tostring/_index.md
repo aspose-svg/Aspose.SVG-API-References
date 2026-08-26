@@ -1,27 +1,25 @@
 ---
-title: SVGLength.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGLength μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "SVGLength.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGLength ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.datatypes/svglength/tostring/
 ---
 ## SVGLength.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [SVGLength](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svglength/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

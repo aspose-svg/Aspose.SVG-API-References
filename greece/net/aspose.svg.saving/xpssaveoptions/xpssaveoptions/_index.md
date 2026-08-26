@@ -1,7 +1,7 @@
 ---
-title: XpsSaveOptions.XpsSaveOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: XpsSaveOptions κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "XpsSaveOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "XpsSaveOptions κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.saving/xpssaveoptions/xpssaveoptions/
@@ -17,7 +17,5 @@ public XpsSaveOptions()
 ### Δείτε επίσης
 
 * class [XpsSaveOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../xpssaveoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

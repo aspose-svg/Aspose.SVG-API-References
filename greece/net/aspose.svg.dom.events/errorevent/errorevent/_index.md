@@ -1,14 +1,14 @@
 ---
-title: ErrorEvent.ErrorEvent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ErrorEvent κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουErrorEvent τάξη.
+title: "ErrorEvent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής ErrorEvent. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης ErrorEvent."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent(Exception) {#constructor_1}
+## ErrorEvent(*Exception*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ErrorEvent`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ErrorEvent`](../).
 
 ```csharp
 public ErrorEvent(Exception exception)
@@ -16,19 +16,19 @@ public ErrorEvent(Exception exception)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| exception | Exception | Η εξαίρεση. |
+| εξαίρεση | Εξαίρεση | Η εξαίρεση. |
 
 ### Δείτε επίσης
 
 * class [ErrorEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../errorevent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
+## ErrorEvent(*IDictionary&lt;string, object&gt;*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ErrorEvent`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ErrorEvent`](../).
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)
@@ -36,12 +36,10 @@ public ErrorEvent(IDictionary<string, object> eventInitDict)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| eventInitDict | IDictionary`2 | Το αντικείμενο αρχικοποίησης συμβάντος. |
+| eventInitDict | IDictionary`2 | Το αντικείμενο αρχικοποίησης του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [ErrorEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../errorevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

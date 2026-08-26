@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Size
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας μεγέθους στο CSS2.
+title: "ICSS2Properties.Size"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Size του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας size στο CSS2"
 type: docs
-weight: 990
+weight: 1020
 url: /el/net/aspose.svg.dom.css/icss2properties/size/
 ---
 ## ICSS2Properties.Size property
 
-Δείτε τον ορισμό της ιδιότητας μεγέθους στο CSS2.
+Δείτε τον ορισμό ιδιότητας size στο CSS2.
 
 ```csharp
 public string Size { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα μεγέθους
+ιδιότητα size
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

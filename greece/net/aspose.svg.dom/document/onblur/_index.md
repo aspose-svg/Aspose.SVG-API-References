@@ -1,14 +1,14 @@
 ---
-title: Document.OnBlur
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnBlur.
+title: "Document.OnBlur"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Συμβάν Document OnBlur. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnBlur."
 type: docs
 weight: 290
 url: /el/net/aspose.svg.dom/document/onblur/
 ---
 ## Document.OnBlur event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnBlur.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnBlur.
 
 ```csharp
 public event DOMEventHandler OnBlur;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnBlur;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

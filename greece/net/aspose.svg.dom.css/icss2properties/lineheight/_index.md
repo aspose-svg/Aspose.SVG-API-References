@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.LineHeight
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας lineheight στο CSS2.
+title: "ICSS2Properties.LineHeight"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα LineHeight του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας line-height στο CSS2"
 type: docs
-weight: 580
+weight: 610
 url: /el/net/aspose.svg.dom.css/icss2properties/lineheight/
 ---
 ## ICSS2Properties.LineHeight property
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/lineheight/
 public string LineHeight { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα γραμμής ύψους
+ιδιότητα line-height
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

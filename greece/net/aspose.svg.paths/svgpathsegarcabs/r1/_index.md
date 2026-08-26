@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcAbs.R1
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathSegArcAbs ιδιοκτησία. Η ακτίνα του άξονα x για την έλλειψη δηλαδή r1.
+title: "SVGPathSegArcAbs.R1"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGPathSegArcAbs R1 property. Η ακτίνα του άξονα x για την έλλειψη, δηλαδή r1"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.paths/svgpathsegarcabs/r1/
 ---
 ## SVGPathSegArcAbs.R1 property
 
-Η ακτίνα του άξονα x για την έλλειψη (δηλαδή, r1).
+Η ακτίνα του άξονα x για την έλλειψη (δηλαδή r1).
 
 ```csharp
 public float R1 { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ακτίνα του άξονα x
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGPathSegArcAbs](../)
-* χώρος ονομάτων [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

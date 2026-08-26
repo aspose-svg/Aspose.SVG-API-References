@@ -1,9 +1,9 @@
 ---
-title: Class SVGNumberList
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.DataTypes.SVGNumberList τάξη. Αυτή η διεπαφή ορίζει μια λίστα αντικειμένων SVGNumber.
+title: "SVGNumberList Κατηγορία"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.DataTypes.SVGNumberList κατηγορία. Αυτή η διασύνδεση ορίζει μια λίστα από αντικείμενα SVGNumber"
 type: docs
-weight: 260
+weight: 2250
 url: /el/net/aspose.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class
@@ -16,7 +16,7 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } |  |
 | [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } |  |
@@ -24,25 +24,23 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(SVGNumber) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*[SVGNumber](../svgnumber/)*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(SVGNumber) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(SVGNumber, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(SVGNumber, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgnumberlist/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου του αντικειμένου ECMAScript. |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGNumber](../svgnumber/)*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGNumber](../svgnumber/), ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*[SVGNumber](../svgnumber/), ulong*) |  |
+| override [ToString](../../aspose.svg.datatypes/svgnumberlist/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία. |
 
 ### Δείτε επίσης
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
 * class [SVGNumber](../svgnumber/)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

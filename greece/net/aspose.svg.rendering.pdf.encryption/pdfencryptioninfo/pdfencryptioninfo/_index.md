@@ -1,14 +1,14 @@
 ---
-title: PdfEncryptionInfo.PdfEncryptionInfo
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfEncryptionInfo κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPdfEncryptionInfo τάξη.
+title: "PdfEncryptionInfo"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής PdfEncryptionInfo. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης PdfEncryptionInfo"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`PdfEncryptionInfo`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`PdfEncryptionInfo`](../).
 
 ```csharp
 public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissions permissions, 
@@ -17,9 +17,9 @@ public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissio
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| userPassword | String | Ο κωδικός πρόσβασης χρήστη. |
-| ownerPassword | String | Ο κωδικός πρόσβασης ιδιοκτήτη. |
-| permissions | PdfPermissions | Οι άδειες. |
+| userPassword | String | Ο κωδικός χρήστη. |
+| ownerPassword | String | Ο κωδικός ιδιοκτήτη. |
+| permissions | PdfPermissions | Τα δικαιώματα. |
 | encryptionAlgorithm | PdfEncryptionAlgorithm | Ο αλγόριθμος κρυπτογράφησης. |
 
 ### Δείτε επίσης
@@ -27,7 +27,5 @@ public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissio
 * enum [PdfPermissions](../../pdfpermissions/)
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Interface ISVGZoomAndPan
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ISVGZoomAndPan διεπαφή. Η διεπαφή SVGZoomAndPan ορίζει το χαρακτηριστικό zoomAndPan και τις σχετικές σταθερές.
+title: "ISVGZoomAndPan Διασύνδεση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.ISVGZoomAndPan διασύνδεση. Η SVGZoomAndPan διασύνδεση ορίζει το χαρακτηριστικό zoomAndPan και τις σχετικές σταθερές"
 type: docs
-weight: 2060
+weight: 4130
 url: /el/net/aspose.svg/isvgzoomandpan/
 ---
 ## ISVGZoomAndPan interface
@@ -16,13 +16,11 @@ public interface ISVGZoomAndPan
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | Αντιστοιχεί στο χαρακτηριστικό 'zoomAndPan' στο δεδομένο στοιχείο. Η τιμή πρέπει να είναι μία από τις σταθερές SVG_ZOOMANDPAN_* που ορίζονται σε αυτήν τη διεπαφή. |
+| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | Αντιστοιχεί στο χαρακτηριστικό ‘zoomAndPan’ του δεδομένου στοιχείου. Η τιμή πρέπει να είναι μία από τις σταθερές SVG_ZOOMANDPAN_* που ορίζονται σε αυτή τη διεπαφή. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg](../../aspose.svg/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

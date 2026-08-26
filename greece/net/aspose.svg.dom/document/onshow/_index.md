@@ -1,14 +1,14 @@
 ---
-title: Document.OnShow
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnShow.
+title: "Document.OnShow"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document OnShow συμβάν. Λαμβάνει ή ορίζει event handler για το συμβάν OnShow"
 type: docs
 weight: 710
 url: /el/net/aspose.svg.dom/document/onshow/
 ---
 ## Document.OnShow event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnShow.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnShow.
 
 ```csharp
 public event DOMEventHandler OnShow;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnShow;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

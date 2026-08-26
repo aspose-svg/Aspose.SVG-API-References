@@ -1,14 +1,14 @@
 ---
-title: Document.CreateDocumentType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document μέθοδος. Δημιουργεί έναν κόμβο DocumentType.
+title: "Document.CreateDocumentType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Document CreateDocumentType. Η μέθοδος επιστρέφει ένα αντικείμενο DocumentType το οποίο μπορεί είτε να χρησιμοποιηθεί με CreateDocument κατά τη δημιουργία του εγγράφου είτε να τοποθετηθεί στο έγγραφο μέσω μεθόδων όπως InsertBefore ή ReplaceChild."
 type: docs
 weight: 840
 url: /el/net/aspose.svg.dom/document/createdocumenttype/
 ---
 ## Document.CreateDocumentType method
 
-Δημιουργεί έναν κόμβο DocumentType.
+Η μέθοδος επιστρέφει ένα αντικείμενο [`DocumentType`](../../documenttype/) το οποίο μπορεί είτε να χρησιμοποιηθεί με [`CreateDocument`](../../idomimplementation/createdocument/) κατά τη δημιουργία του εγγράφου είτε να τοποθετηθεί στο έγγραφο μέσω μεθόδων όπως [`InsertBefore`](../../node/insertbefore/) ή [`ReplaceChild`](../../node/replacechild/).
 
 ```csharp
 public DocumentType CreateDocumentType(string name, string publicId, string systemId, 
@@ -17,20 +17,18 @@ public DocumentType CreateDocumentType(string name, string publicId, string syst
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Το όνομα του τύπου εγγράφου. |
-| publicId | String | Η δημόσια ταυτότητα. |
-| systemId | String | Το αναγνωριστικό συστήματος. |
+| name | String | Είναι ένα DOMString που περιέχει το πλήρες όνομα, όπως svg:svg. |
+| publicId | String | Είναι ένα DOMString που περιέχει το αναγνωριστικό PUBLIC. |
+| systemId | String | Είναι ένα DOMString που περιέχει το αναγνωριστικό SYSTEM. |
 | internalSubset | String | Το εσωτερικό υποσύνολο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`DocumentType`](../../documenttype/) .
+Το [`DocumentType`](../../documenttype/).
 
 ### Δείτε επίσης
 
 * class [DocumentType](../../documenttype/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

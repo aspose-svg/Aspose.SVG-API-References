@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Visibility
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας ορατότητας στο CSS2.
+title: "ICSS2Properties.Visibility"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ιδιότητα Visibility. Δείτε τον ορισμό της ιδιότητας visibility στο CSS2"
 type: docs
-weight: 1150
+weight: 1180
 url: /el/net/aspose.svg.dom.css/icss2properties/visibility/
 ---
 ## ICSS2Properties.Visibility property
 
-Δείτε τον ορισμό της ιδιότητας ορατότητας στο CSS2.
+Δείτε τον ορισμό ιδιότητας visibility στο CSS2.
 
 ```csharp
 public string Visibility { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα ορατότητας
+ιδιότητα visibility
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

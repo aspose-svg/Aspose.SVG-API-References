@@ -1,27 +1,27 @@
 ---
-title: CSSValue.CSSText
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSValue ιδιοκτησία. Αναπαράσταση συμβολοσειράς της τρέχουσας τιμής.
+title: "CSSValue.CSSText"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "CSSValue CSSText ιδιότητα. Η ιδιότητα CSSText της διεπαφής CSSValue αντιπροσωπεύει την τρέχουσα υπολογισμένη τιμή ιδιότητας CSS."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
 
-Αναπαράσταση συμβολοσειράς της τρέχουσας τιμής.
+Η ιδιότητα CSSText της διεπαφής [`CSSValue`](../) αντιπροσωπεύει την τρέχουσα υπολογισμένη τιμή ιδιότητας CSS.
+
+Σημείωση: Αυτή η ιδιότητα ήταν μέρος μιας προσπάθειας δημιουργίας ενός τυποποιημένου μοντέλου αντικειμένου CSS. Η προσπάθεια αυτή έχει εγκαταλειφθεί και τα περισσότερα προγράμματα περιήγησης δεν την υλοποιούν.
 
 ```csharp
 public abstract string CSSText { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το κείμενο CSS.
+Ένα DOMString που αντιπροσωπεύει την τρέχουσα τιμή ιδιότητας CSS.
 
 ### Δείτε επίσης
 
 * class [CSSValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssvalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

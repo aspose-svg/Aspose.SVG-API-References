@@ -1,7 +1,7 @@
 ---
-title: ITextureBrush.Image
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ITextureBrush ιδιοκτησία. Λαμβάνει ή ορίζει την εικόνα που χρησιμοποιείται από το πινέλο.
+title: "ITextureBrush.Image"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Image του ITextureBrush. Λαμβάνει ή ορίζει την εικόνα που χρησιμοποιείται από το πινέλο"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/itexturebrush/image/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.drawing/itexturebrush/image/
 public byte[] Image { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Δεδομένα εικόνας.
 
 ### Δείτε επίσης
 
 * interface [ITextureBrush](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../itexturebrush/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

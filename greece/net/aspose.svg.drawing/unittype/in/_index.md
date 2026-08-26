@@ -1,7 +1,7 @@
 ---
-title: UnitType.In
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType πεδίο. Η μέτρηση είναι σε ίντσες
+title: "UnitType.In"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο UnitType In. Η μέτρηση είναι σε ίντσες"
 type: docs
 weight: 120
 url: /el/net/aspose.svg.drawing/unittype/in/
@@ -17,7 +17,5 @@ public static readonly UnitType In;
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

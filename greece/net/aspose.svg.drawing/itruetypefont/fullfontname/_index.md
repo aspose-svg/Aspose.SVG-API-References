@@ -1,27 +1,25 @@
 ---
-title: ITrueTypeFont.FullFontName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ITrueTypeFont ιδιοκτησία. Αυτό θα πρέπει να είναι ένας συνδυασμός του FamilyName και του SubFamilyName. Εξαίρεση εάν η γραμματοσειρά είναι Κανονική όπως υποδεικνύεται στο SubFamilyName τότε χρησιμοποιήστε μόνο το οικογενειακό όνομα που περιέχεται στο FamilyName. Μια εξαίρεση στον παραπάνω ορισμό του ονόματος πλήρους γραμματοσειράς είναι για τις συμβολοσειρές πλατφόρμας Microsoft για γραμματοσειρές CFF OpenType σε αυτήν την περίπτωση η συμβολοσειρά ονόματος πλήρους γραμματοσειράς πρέπει να είναι πανομοιότυπη με τη συμβολοσειρά ονόματος γραμματοσειράς PostScript στο Όνομα CFF INDEX.
+title: "ITrueTypeFont.FullFontName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ITrueTypeFont FullFontName. Το πλήρες όνομα της γραμματοσειράς συνήθως αναπαρίσταται ως συνδυασμός των ονομάτων Οικογένειας και Υποοικογένειας."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-Αυτό θα πρέπει να είναι ένας συνδυασμός του "FamilyName" και του "SubFamilyName". Εξαίρεση: εάν η γραμματοσειρά είναι "Κανονική" όπως υποδεικνύεται στο "SubFamilyName", τότε χρησιμοποιήστε μόνο το οικογενειακό όνομα που περιέχεται στο "FamilyName". Μια εξαίρεση στον παραπάνω ορισμό του ονόματος πλήρους γραμματοσειράς είναι για τις συμβολοσειρές πλατφόρμας Microsoft για γραμματοσειρές CFF OpenType: σε αυτήν την περίπτωση, η συμβολοσειρά ονόματος πλήρους γραμματοσειράς πρέπει να είναι πανομοιότυπη με τη συμβολοσειρά ονόματος γραμματοσειράς PostScript στο Όνομα CFF INDEX.
+Το πλήρες όνομα γραμματοσειράς γενικά αναπαρίσταται ως συνδυασμός των ονομάτων Οικογένειας και Υποοικογένειας.
 
 ```csharp
 public string FullFontName { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Πλήρες όνομα γραμματοσειράς
+Το πλήρες όνομα της γραμματοσειράς.
 
 ### Δείτε επίσης
 
 * interface [ITrueTypeFont](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../itruetypefont/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

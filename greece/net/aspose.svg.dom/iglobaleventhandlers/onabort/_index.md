@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnAbort
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnAbort.
+title: "IGlobalEventHandlers.OnAbort"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnAbort συμβάν. Λαμβάνει ή ορίζει τον χειριστή του συμβάντος για το συμβάν OnAbort"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onabort/
 ---
 ## IGlobalEventHandlers.OnAbort event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnAbort.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnAbort.
 
 ```csharp
 public event DOMEventHandler OnAbort;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnAbort;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

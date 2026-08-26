@@ -1,14 +1,14 @@
 ---
-title: KeyboardEvent.KeyboardEvent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: KeyboardEvent κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουKeyboardEvent τάξη.
+title: "KeyboardEvent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής KeyboardEvent. Δημιουργεί μια νέα παρουσία της κλάσης KeyboardEvent."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.events/keyboardevent/keyboardevent/
 ---
-## KeyboardEvent(string) {#constructor}
+## KeyboardEvent(*string*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`KeyboardEvent`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`KeyboardEvent`](../).
 
 ```csharp
 public KeyboardEvent(string type)
@@ -16,19 +16,19 @@ public KeyboardEvent(string type)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος εκδήλωσης. |
+| type | String | Ο τύπος του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [KeyboardEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## KeyboardEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## KeyboardEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`KeyboardEvent`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`KeyboardEvent`](../).
 
 ```csharp
 public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)
@@ -36,13 +36,11 @@ public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος εκδήλωσης. |
-| eventInitDict | IDictionary`2 | Το λεξικό προετοιμασίας συμβάντος. |
+| type | String | Ο τύπος του γεγονότος. |
+| eventInitDict | IDictionary`2 | Το λεξικό αρχικοποίησης του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [KeyboardEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

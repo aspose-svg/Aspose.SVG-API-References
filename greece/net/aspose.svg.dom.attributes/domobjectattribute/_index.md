@@ -1,14 +1,14 @@
 ---
-title: Class DOMObjectAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Attributes.DOMObjectAttribute τάξη. Καθορίζει ότι το αντικείμενο επισημαίνεται με αυτό το χαρακτηριστικό ορίζεται από το W3C.
+title: "DOMObjectAttribute Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Attributes.DOMObjectAttribute κλάση. Καθορίζει ότι το αντικείμενο που σημειώνεται με αυτό το χαρακτηριστικό ορίζεται από το W3C"
 type: docs
-weight: 420
+weight: 2420
 url: /el/net/aspose.svg.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class
 
-Καθορίζει ότι το αντικείμενο επισημαίνεται με αυτό το χαρακτηριστικό ορίζεται από το W3C.
+Καθορίζει ότι το αντικείμενο που σημειώνεται με αυτό το χαρακτηριστικό ορίζεται από το W3C.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -17,13 +17,17 @@ public sealed class DOMObjectAttribute : Attribute
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [DOMObjectAttribute](domobjectattribute/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
+## Ιδιότητες
+
+| Όνομα | Περιγραφή |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
+
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

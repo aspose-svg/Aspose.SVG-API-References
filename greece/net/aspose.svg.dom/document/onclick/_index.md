@@ -1,14 +1,14 @@
 ---
-title: Document.OnClick
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnClick.
+title: "Document.OnClick"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnClick. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το γεγονός OnClick"
 type: docs
 weight: 340
 url: /el/net/aspose.svg.dom/document/onclick/
 ---
 ## Document.OnClick event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnClick.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnClick.
 
 ```csharp
 public event DOMEventHandler OnClick;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnClick;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

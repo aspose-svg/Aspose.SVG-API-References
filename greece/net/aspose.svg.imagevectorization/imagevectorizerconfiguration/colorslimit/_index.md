@@ -1,7 +1,7 @@
 ---
-title: ImageVectorizerConfiguration.ColorsLimit
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageVectorizerConfiguration ιδιοκτησία. Λαμβάνει ή ορίζει τον μέγιστο αριθμό χρωμάτων που χρησιμοποιούνται για την κβαντοποίηση μιας εικόνας. Η προεπιλεγμένη τιμή είναι 25.
+title: "ImageVectorizerConfiguration.ColorsLimit"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ColorsLimit του ImageVectorizerConfiguration. Λαμβάνει ή ορίζει το μέγιστο αριθμό χρωμάτων που χρησιμοποιούνται για την κβαντοποίηση μιας εικόνας. Η προεπιλεγμένη τιμή είναι 25."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/colorslimit/
@@ -17,7 +17,5 @@ public int ColorsLimit { get; set; }
 ### Δείτε επίσης
 
 * class [ImageVectorizerConfiguration](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

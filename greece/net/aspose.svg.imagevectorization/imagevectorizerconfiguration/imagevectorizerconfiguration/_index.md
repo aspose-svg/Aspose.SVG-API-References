@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.ImageVectorizerConfiguration
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageVectorizerConfiguration κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουImageVectorizerConfiguration τάξη.
+title: "ImageVectorizerConfiguration"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής ImageVectorizerConfiguration. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης ImageVectorizerConfiguration."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/imagevectorizerconfiguration/
 ---
 ## ImageVectorizerConfiguration constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageVectorizerConfiguration`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`ImageVectorizerConfiguration`](../).
 
 ```csharp
 public ImageVectorizerConfiguration()
@@ -17,7 +17,5 @@ public ImageVectorizerConfiguration()
 ### Δείτε επίσης
 
 * class [ImageVectorizerConfiguration](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

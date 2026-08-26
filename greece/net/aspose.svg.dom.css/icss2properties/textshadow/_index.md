@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.TextShadow
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας textshadow στο CSS2.
+title: "ICSS2Properties.TextShadow"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ιδιότητα TextShadow. Δείτε τον ορισμό της ιδιότητας text-shadow στο CSS2"
 type: docs
-weight: 1100
+weight: 1130
 url: /el/net/aspose.svg.dom.css/icss2properties/textshadow/
 ---
 ## ICSS2Properties.TextShadow property
 
-Δείτε τον ορισμό της ιδιότητας text-shadow στο CSS2.
+Δείτε τον ορισμό ιδιότητας text-shadow στο CSS2.
 
 ```csharp
 public string TextShadow { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 ιδιότητα text-shadow
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Node.IsDefaultNamespace
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node μέθοδος. Αυτή η μέθοδος ελέγχει εάν το καθορισμένο namespaceURI είναι ο προεπιλεγμένος χώρος ονομάτων ή όχι.
+title: "Node.IsDefaultNamespace"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Node IsDefaultNamespace. Αυτή η μέθοδος ελέγχει εάν το καθορισμένο namespaceURI είναι το προεπιλεγμένο namespace ή όχι."
 type: docs
-weight: 230
+weight: 210
 url: /el/net/aspose.svg.dom/node/isdefaultnamespace/
 ---
 ## Node.IsDefaultNamespace method
@@ -16,16 +16,14 @@ public bool IsDefaultNamespace(string namespaceURI)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceURI | String | Το URI του χώρου ονομάτων. |
+| namespaceURI | String | Το namespace URI. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν [είναι προεπιλεγμένος χώρος ονομάτων] [το καθορισμένο URI χώρου ονομάτων]; σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν [είναι προεπιλεγμένο namespace] [το καθορισμένο URI namespace]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

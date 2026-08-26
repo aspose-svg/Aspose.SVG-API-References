@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.SurfaceScale
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEDiffuseLightingElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό surfaceScale στο δεδομένο στοιχείο feDiffuseLighting.
+title: "SVGFEDiffuseLightingElement.SurfaceScale"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SurfaceScale του SVGFEDiffuseLightingElement. Αντιστοιχεί στο χαρακτηριστικό surfaceScale του δεδομένου στοιχείου feDiffuseLighting"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.filters/svgfediffuselightingelement/surfacescale/
 ---
 ## SVGFEDiffuseLightingElement.SurfaceScale property
 
-Αντιστοιχεί στο χαρακτηριστικό "surfaceScale" στο δεδομένο στοιχείο "feDiffuseLighting".
+Αντιστοιχεί στο χαρακτηριστικό ‘surfaceScale’ του δεδομένου στοιχείου ‘feDiffuseLighting’.
 
 ```csharp
 public SVGAnimatedNumber SurfaceScale { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "surfaceScale" του δεδομένου στοιχείου "feDiffuseLighting".
+Το χαρακτηριστικό ‘surfaceScale’ του δεδομένου στοιχείου ‘feDiffuseLighting’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

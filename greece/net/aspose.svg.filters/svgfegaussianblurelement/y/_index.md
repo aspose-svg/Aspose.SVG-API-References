@@ -1,20 +1,20 @@
 ---
-title: SVGFEGaussianBlurElement.Y
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEGaussianBlurElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό y στο δεδομένο στοιχείο φίλτρο.
+title: "SVGFEGaussianBlurElement.Y"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Y του SVGFEGaussianBlurElement. Αντιστοιχεί στο χαρακτηριστικό y στο δεδομένο στοιχείο φίλτρου."
 type: docs
 weight: 80
 url: /el/net/aspose.svg.filters/svgfegaussianblurelement/y/
 ---
 ## SVGFEGaussianBlurElement.Y property
 
-Αντιστοιχεί στο χαρακτηριστικό �y� στο δεδομένο στοιχείο �φίλτρο».
+Αντιστοιχεί στο χαρακτηριστικό �y� στο δεδομένο στοιχείο �filter�.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χαρακτηριστικό �y� του δεδομένου στοιχείου �filter�.
 
@@ -22,7 +22,5 @@ public SVGAnimatedLength Y { get; }
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,31 @@
 ---
-title: Node.NamespaceURI
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node ιδιοκτησία. Το URI χώρου ονομάτων αυτού του κόμβου ή μηδενικό εάν δεν έχει καθοριστεί.
+title: "Node.NamespaceURI"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Node NamespaceURI. Επιστρέφει το URI του ονοματοχώρου του στοιχείου ή null εάν το στοιχείο δεν βρίσκεται σε ονοματοχώρο."
 type: docs
-weight: 70
+weight: 60
 url: /el/net/aspose.svg.dom/node/namespaceuri/
 ---
 ## Node.NamespaceURI property
 
-Το URI χώρου ονομάτων αυτού του κόμβου ή μηδενικό εάν δεν έχει καθοριστεί.
+Επιστρέφει το URI του ονοματοχώρου του στοιχείου, ή null εάν το στοιχείο δεν βρίσκεται σε ονοματοχώρο.
 
 ```csharp
 public virtual string NamespaceURI { get; }
 ```
 
+### Property Value
+
+Μια συμβολοσειρά που αντιπροσωπεύει το URI του ονοματοχώρου του πλήρους ονόματος του στοιχείου.
+
+## Παρατηρήσεις
+
+Αναφορά:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-namespaceuri).
+
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

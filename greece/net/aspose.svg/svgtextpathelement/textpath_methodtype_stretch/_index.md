@@ -1,7 +1,7 @@
 ---
-title: SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGTextPathElement πεδίο. Αντιστοιχεί στην τιμή stretch.
+title: "SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVGTextPathElement TEXTPATH_METHODTYPE_STRETCH. Αντιστοιχεί στην τιμή stretch."
 type: docs
 weight: 60
 url: /el/net/aspose.svg/svgtextpathelement/textpath_methodtype_stretch/
@@ -17,7 +17,5 @@ public const ushort TEXTPATH_METHODTYPE_STRETCH;
 ### Δείτε επίσης
 
 * class [SVGTextPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgtextpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoVerticalAbs
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathElement μέθοδος. Επιστρέφει ένα αυτόνομο χωρίς γονικό αντικείμενο SVGPathSegLinetoVerticalAbs.
+title: "SVGPathElement.CreateSVGPathSegLinetoVerticalAbs"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGPathElement CreateSVGPathSegLinetoVerticalAbs. Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegLinetoVerticalAbs"
 type: docs
 weight: 180
 url: /el/net/aspose.svg/svgpathelement/createsvgpathseglinetoverticalabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoVerticalAbs method
 
-Επιστρέφει ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegLinetoVerticalAbs.
+Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegLinetoVerticalAbs.
 
 ```csharp
 public SVGPathSegLinetoVerticalAbs CreateSVGPathSegLinetoVerticalAbs(float y)
@@ -16,17 +16,15 @@ public SVGPathSegLinetoVerticalAbs CreateSVGPathSegLinetoVerticalAbs(float y)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| y | Single | Η απόλυτη συντεταγμένη Y για το τελικό σημείο αυτού του τμήματος διαδρομής. |
+| y | Single | Η απόλυτη συντεταγμένη Y για το σημείο τερματισμού αυτού του τμήματος διαδρομής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegLinetoVerticalAbs.
+Ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegLinetoVerticalAbs.
 
 ### Δείτε επίσης
 
 * class [SVGPathSegLinetoVerticalAbs](../../../aspose.svg.paths/svgpathseglinetoverticalabs/)
 * class [SVGPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

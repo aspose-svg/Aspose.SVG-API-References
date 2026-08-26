@@ -1,14 +1,14 @@
 ---
-title: ICSSRuleList.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSRuleList ιδιοκτησία. Χρησιμοποιείται για την ανάκτηση ενός κανόνα CSS με τη μέθοδο item http//www.w3.org/TR/DOMLevel2Style/css.htmlCSSCSSRuleList. Η σειρά σε αυτήν τη συλλογή αντιπροσωπεύει τη σειρά των κανόνων στο φύλλο στυλ CSS. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κανόνων στη λίστα επιστρέφει null.
+title: "ICSSRuleList.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSSRuleList Item ιδιότητα. Χρησιμοποιείται για την ανάκτηση ενός κανόνα CSS με τη μέθοδο item http//www.w3.org/TR/DOM-Level-2-Style/css.htmlCSS-CSSRuleList. Η σειρά σε αυτή τη συλλογή αντιπροσωπεύει τη σειρά των κανόνων στο φύλλο στυλ CSS. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κανόνων στη λίστα, αυτό επιστρέφει null"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/icssrulelist/item/
 ---
 ## ICSSRuleList indexer
 
-Χρησιμοποιείται για την ανάκτηση ενός κανόνα CSS με τη μέθοδο item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). Η σειρά σε αυτήν τη συλλογή αντιπροσωπεύει τη σειρά των κανόνων στο φύλλο στυλ CSS. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κανόνων στη λίστα, επιστρέφει null.
+Χρησιμοποιείται για την ανάκτηση ενός κανόνα CSS με τη μέθοδο item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). Η σειρά σε αυτή τη συλλογή αντιπροσωπεύει τη σειρά των κανόνων στο φύλλο στυλ CSS. Εάν το index είναι μεγαλύτερο ή ίσο με τον αριθμό των κανόνων στη λίστα, αυτό επιστρέφει null.
 
 ```csharp
 public ICSSRule this[int index] { get; }
@@ -16,21 +16,19 @@ public ICSSRule this[int index] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Ο δείκτης κανόνων |
+| δείκτης | Ο δείκτης του κανόνα |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το παράδειγμα κανόνα CSS.
+Η παρουσία του κανόνα CSS.
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`ICSSRule`](../../icssrule/) .
+Το [`ICSSRule`](../../icssrule/).
 
 ### Δείτε επίσης
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSRuleList](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssrulelist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: CssOptions.MediaType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CssOptions ιδιοκτησία. Παίρνει ή θέτειMediaType το οποίο θα χρησιμοποιηθεί για την επίλυση ερωτημάτων μέσων κατά την απόδοση. Η προεπιλεγμένη τιμή είναιΤυπώνω .
+title: "CssOptions.MediaType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "CssOptions MediaType ιδιότητα. Λαμβάνει ή ορίζει το MediaType που θα χρησιμοποιηθεί για την επίλυση ερωτημάτων μέσων κατά την απόδοση. Η προεπιλεγμένη τιμή είναι Print."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering/cssoptions/mediatype/
 ---
 ## CssOptions.MediaType property
 
-Παίρνει ή θέτει[`MediaType`](../../mediatype/) το οποίο θα χρησιμοποιηθεί για την επίλυση ερωτημάτων μέσων κατά την απόδοση. Η προεπιλεγμένη τιμή είναι`Τυπώνω` .
+Λαμβάνει ή ορίζει το [`MediaType`](../../mediatype/) που θα χρησιμοποιηθεί για την επίλυση ερωτημάτων μέσων κατά την απόδοση. Η προεπιλεγμένη τιμή είναι `Print`.
 
 ```csharp
 public MediaType MediaType { get; set; }
@@ -18,7 +18,5 @@ public MediaType MediaType { get; set; }
 
 * enum [MediaType](../../mediatype/)
 * class [CssOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../cssoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

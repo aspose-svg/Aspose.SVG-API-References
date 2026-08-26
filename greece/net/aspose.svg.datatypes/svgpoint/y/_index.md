@@ -1,33 +1,31 @@
 ---
-title: SVGPoint.Y
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPoint ιδιοκτησία. Η συντεταγμένη Υ.
+title: "SVGPoint.Y"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGPoint Y ιδιότητα. Η συντεταγμένη Y"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.datatypes/svgpoint/y/
 ---
 ## SVGPoint.Y property
 
-Η συντεταγμένη Υ.
+Η συντεταγμένη Y.
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συντεταγμένη Υ.
+Η συντεταγμένη Y.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Ανυψώνεται εάν το αντικείμενο SVGPoint είναι μόνο για ανάγνωση ή αντιστοιχεί σε ένα χαρακτηριστικό DOM που είναι μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εγείρεται εάν το αντικείμενο SVGPoint είναι μόνο για ανάγνωση ή αντιστοιχεί σε ιδιότητα DOM που είναι μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGPoint](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgpoint/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

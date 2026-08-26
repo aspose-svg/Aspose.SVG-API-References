@@ -1,7 +1,7 @@
 ---
-title: Counter.ListStyle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Counter ιδιοκτησία. Αυτό το χαρακτηριστικό χρησιμοποιείται για το στυλ της λίστας.
+title: "Counter.ListStyle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Counter ListStyle. Αυτό το χαρακτηριστικό χρησιμοποιείται για το στυλ της λίστας."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.css/counter/liststyle/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/counter/liststyle/
 public string ListStyle { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αναγνωριστικό στυλ λίστας.
+Το αναγνωριστικό του στυλ λίστας.
 
 ### Δείτε επίσης
 
 * class [Counter](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../counter/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
