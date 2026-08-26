@@ -1,7 +1,7 @@
 ---
-title: DocumentType.NodeName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentType ιδιοκτησία. Το όνομα αυτού του κόμβου ανάλογα με τον τύπο του.
+title: "DocumentType.NodeName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DocumentType NodeName property. Το όνομα αυτού του κόμβου ανάλογα με τον τύπο του"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom/documenttype/nodename/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/documenttype/nodename/
 public override string NodeName { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του κόμβου.
 
 ### Δείτε επίσης
 
 * class [DocumentType](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documenttype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

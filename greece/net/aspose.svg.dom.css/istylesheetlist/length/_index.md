@@ -1,14 +1,14 @@
 ---
-title: IStyleSheetList.Length
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IStyleSheetList ιδιοκτησία. Ο αριθμός των Φύλλων στυλ στη λίστα. Το εύρος των έγκυρων θυγατρικών δεικτών φύλλου στυλ είναι από 0 έως μήκος1 συμπεριλαμβανομένου.
+title: "IStyleSheetList.Length"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IStyleSheetList Length property. Ο αριθμός των StyleSheets στη λίστα. Το εύρος των έγκυρων δεικτών παιδικών φύλλων στυλ είναι από 0 έως length-1, συμπεριλαμβανομένου."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.css/istylesheetlist/length/
 ---
 ## IStyleSheetList.Length property
 
-Ο αριθμός των Φύλλων στυλ στη λίστα. Το εύρος των έγκυρων θυγατρικών δεικτών φύλλου στυλ είναι από 0 έως μήκος-1 συμπεριλαμβανομένου.
+Ο αριθμός των StyleSheets στη λίστα. Το εύρος των έγκυρων δεικτών υποφύλλων είναι από 0 έως length-1 συμπεριλαμβανομένου.
 
 ```csharp
 public int Length { get; }
@@ -17,7 +17,5 @@ public int Length { get; }
 ### Δείτε επίσης
 
 * interface [IStyleSheetList](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

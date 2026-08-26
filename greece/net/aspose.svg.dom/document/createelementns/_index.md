@@ -1,14 +1,14 @@
 ---
-title: Document.CreateElementNS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document μέθοδος. Δημιουργεί ένα στοιχείο του συγκεκριμένου ονόματος και χώρου ονομάτων URI.
+title: "Document.CreateElementNS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document CreateElementNS μέθοδος. Δημιουργεί ένα element με το δεδομένο qualified name και namespace URI"
 type: docs
 weight: 860
 url: /el/net/aspose.svg.dom/document/createelementns/
 ---
 ## Document.CreateElementNS method
 
-Δημιουργεί ένα στοιχείο του συγκεκριμένου ονόματος και χώρου ονομάτων URI.
+Δημιουργεί ένα στοιχείο με το δοσμένο πλήρες όνομα και το URI του ονόματος χώρου.
 
 ```csharp
 public Element CreateElementNS(string namespaceURI, string qualifiedName)
@@ -16,18 +16,16 @@ public Element CreateElementNS(string namespaceURI, string qualifiedName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceURI | String | Το URI του χώρου ονομάτων. |
-| qualifiedName | String | Όνομα των προσόντων. |
+| namespaceURI | String | Το namespace URI. |
+| qualifiedName | String | Όνομα του qualified. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`Element`](../../element/) .
+Το [`Element`](../../element/).
 
 ### Δείτε επίσης
 
 * class [Element](../../element/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

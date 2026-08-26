@@ -1,14 +1,14 @@
 ---
-title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEConvolveMatrixElement πεδίο. Αντιστοιχεί στην τιμή κανένα.
+title: "SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVG_EDGEMODE_NONE του SVGFEConvolveMatrixElement. Αντιστοιχεί στην τιμή none."
 type: docs
 weight: 190
 url: /el/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_none/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE field
 
-Αντιστοιχεί στην τιμή 'κανένα'.
+Αντιστοιχεί στην τιμή 'none'.
 
 ```csharp
 public const ushort SVG_EDGEMODE_NONE;
@@ -17,7 +17,5 @@ public const ushort SVG_EDGEMODE_NONE;
 ### Δείτε επίσης
 
 * class [SVGFEConvolveMatrixElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

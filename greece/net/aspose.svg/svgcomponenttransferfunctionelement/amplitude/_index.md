@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Amplitude
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGComponentTransferFunctionElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό πλάτος στο δεδομένο στοιχείο.
+title: "SVGComponentTransferFunctionElement.Amplitude"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Amplitude του SVGComponentTransferFunctionElement. Αντιστοιχεί στο χαρακτηριστικό amplitude στο συγκεκριμένο στοιχείο"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svgcomponenttransferfunctionelement/amplitude/
 ---
 ## SVGComponentTransferFunctionElement.Amplitude property
 
-Αντιστοιχεί στο χαρακτηριστικό 'πλάτος' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘amplitude’ στο δεδομένο στοιχείο.
 
 ```csharp
 public SVGAnimatedNumber Amplitude { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'πλάτος' του δεδομένου στοιχείου.
+Το χαρακτηριστικό ‘amplitude’ του συγκεκριμένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

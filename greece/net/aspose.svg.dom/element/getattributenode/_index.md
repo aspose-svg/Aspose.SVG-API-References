@@ -1,32 +1,30 @@
 ---
-title: Element.GetAttributeNode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Ανακτά έναν κόμβο χαρακτηριστικών με το όνομα.
+title: "Element.GetAttributeNode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος Element GetAttributeNode. Ανακτά έναν κόμβο χαρακτηριστικού με βάση το όνομα."
 type: docs
 weight: 250
 url: /el/net/aspose.svg.dom/element/getattributenode/
 ---
 ## Element.GetAttributeNode method
 
-Ανακτά έναν κόμβο χαρακτηριστικών με το όνομα.
+Ανακτά έναν κόμβο χαρακτηριστικού με βάση το όνομα.
 
 ```csharp
-public Attr GetAttributeNode(string name)
+public Attr GetAttributeNode(string qualifiedName)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Το όνομα του χαρακτηριστικού. |
+| qualifiedName | String | Το όνομα του γνωρίσματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει το χαρακτηριστικό value
+Επιστρέφει την τιμή του χαρακτηριστικού
 
 ### Δείτε επίσης
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

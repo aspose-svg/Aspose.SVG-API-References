@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.GetAscent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ITrueTypeFont μέθοδος. Επιστρέφει την ανάβαση σε πόντους.
+title: "ITrueTypeFont.GetAscent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος GetAscent του ITrueTypeFont. Λαμβάνει την ανόρθωση της γραμματοσειράς σε μονάδες σημείου χρησιμοποιώντας το καθορισμένο μέγεθος γραμματοσειράς."
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.svg.drawing/itruetypefont/getascent/
 ---
 ## ITrueTypeFont.GetAscent method
 
-Επιστρέφει την ανάβαση, σε πόντους.
+Λαμβάνει την άνοδο της γραμματοσειράς σε points χρησιμοποιώντας το καθορισμένο μέγεθος γραμματοσειράς.
 
 ```csharp
 public float GetAscent(float fontSize)
@@ -16,16 +16,14 @@ public float GetAscent(float fontSize)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| fontSize | Single | Μέγεθος γραμματοσειράς. |
+| fontSize | Single | Το μέγεθος της γραμματοσειράς. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η ανάβαση σε σημεία.
+Η ανόρθωση της γραμματοσειράς σε μονάδες σημείου.
 
 ### Δείτε επίσης
 
 * interface [ITrueTypeFont](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../itruetypefont/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

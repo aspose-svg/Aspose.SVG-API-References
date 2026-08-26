@@ -1,14 +1,14 @@
 ---
-title: IXPathEvaluator.CreateExpression
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IXPathEvaluator μέθοδος. Δημιουργεί μια αναλυμένη έκφραση XPath με επιλυμένους χώρους ονομάτων. Αυτό είναι χρήσιμο όταν μια έκφραση θα επαναχρησιμοποιηθεί σε μια εφαρμογή καθώς καθιστά δυνατή την να μεταγλωττίσει τη συμβολοσειρά έκφρασης σε μια πιο αποτελεσματική εσωτερική μορφή και να επιλύσει εκ των προτέρων όλα τα προθέματα χώρου ονομάτων που εμφανίζονται μέσα στην έκφραση.
+title: "IXPathEvaluator.CreateExpression"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος CreateExpression του IXPathEvaluator. Δημιουργεί μια αναλυμένη έκφραση XPath με επιλυμένους ονοματοχώρους. Αυτό είναι χρήσιμο όταν μια έκφραση θα επαναχρησιμοποιηθεί σε μια εφαρμογή, καθώς καθιστά δυνατή τη μεταγλώττιση της συμβολοσειράς της έκφρασης σε πιο αποδοτική εσωτερική μορφή και την προεπίλυση όλων των προθεμάτων ονοματοχώρων που εμφανίζονται στην έκφραση."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.xpath/ixpathevaluator/createexpression/
 ---
 ## IXPathEvaluator.CreateExpression method
 
-Δημιουργεί μια αναλυμένη έκφραση XPath με επιλυμένους χώρους ονομάτων. Αυτό είναι χρήσιμο όταν μια έκφραση θα επαναχρησιμοποιηθεί σε μια εφαρμογή, καθώς καθιστά δυνατή την να μεταγλωττίσει τη συμβολοσειρά έκφρασης σε μια πιο αποτελεσματική εσωτερική μορφή και να επιλύσει εκ των προτέρων όλα τα προθέματα χώρου ονομάτων που εμφανίζονται μέσα στην έκφραση.
+Δημιουργεί μια αναλυμένη έκφραση XPath με επιλυμένα ονόματα χώρων. Αυτό είναι χρήσιμο όταν μια έκφραση θα επαναχρησιμοποιηθεί σε μια εφαρμογή, καθώς καθιστά δυνατό το μεταγλωττισμό της συμβολοσειράς έκφρασης σε μια πιο αποδοτική εσωτερική μορφή και την προεπίλυση όλων των προθεμάτων ονομάτων χώρων που εμφανίζονται στην έκφραση.
 
 ```csharp
 public IXPathExpression CreateExpression(string expression, IXPathNSResolver resolver)
@@ -16,26 +16,24 @@ public IXPathExpression CreateExpression(string expression, IXPathNSResolver res
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| expression | String | Η συμβολοσειρά έκφρασης XPath προς ανάλυση. |
-| resolver | IXPathNSResolver | ο`διαλύων` επιτρέπει τη μετάφραση όλων των προθεμάτων, συμπεριλαμβανομένου του`xml` πρόθεμα namespace, εντός της έκφρασης XPath σε κατάλληλα URI χώρου ονομάτων . Εάν αυτό προσδιορίζεται ως`μηδενικό` , οποιοδήποτε πρόθεμα χώρου ονομάτων εντός της έκφρασης θα έχει ως αποτέλεσμα[`DOMException`](../../../aspose.svg.dom/domexception/) όντας ρίχνονται με τον κωδικό`NAMESPACE_ERR`. |
+| expression | String | Η συμβολοσειρά της έκφρασης XPath που θα αναλυθεί. |
+| resolver | IXPathNSResolver | Ο `resolver` επιτρέπει τη μετάφραση όλων των προθεμάτων, συμπεριλαμβανομένου του προθέματος ονοματοχώρου `xml`, μέσα στην έκφραση XPath σε κατάλληλα URIs ονοματοχώρων. Εάν αυτό οριστεί ως `null`, οποιοδήποτε πρόθεμα ονοματοχώρου μέσα στην έκφραση θα προκαλέσει την εξαίρεση [`DOMException`](../../../aspose.svg.dom/domexception/) με κώδικα `NAMESPACE_ERR`. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Η μεταγλωττισμένη μορφή της έκφρασης XPath.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: Έγινε αν η έκφραση δεν είναι νόμιμη σύμφωνα με τους κανόνες του[`IXPathEvaluator`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: Αυξάνεται εάν η έκφραση περιέχει προθέματα namespace τα οποία δεν μπορούν να επιλυθούν από το καθορισμένο[`IXPathNSResolver`](../../ixpathnsresolver/). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: Εμφανίζεται εάν η έκφραση δεν είναι έγκυρη σύμφωνα με τους κανόνες του [`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: Εμφανίζεται εάν η έκφραση περιέχει προθέματα ονοματοχώρων που δεν μπορούν να επιλυθούν από τον καθορισμένο [`IXPathNSResolver`](../../ixpathnsresolver/). |
 
 ### Δείτε επίσης
 
 * interface [IXPathExpression](../../ixpathexpression/)
 * interface [IXPathNSResolver](../../ixpathnsresolver/)
 * interface [IXPathEvaluator](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.XPath](../../ixpathevaluator/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

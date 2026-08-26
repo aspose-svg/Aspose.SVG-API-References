@@ -1,14 +1,14 @@
 ---
-title: Element.GetElementsByTagNameNS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Επιστρέφει μια NodeList με όλα τα επακόλουθα Στοιχεία με δεδομένο τοπικό όνομα και χώρο ονομάτων URI με σειρά εγγράφων.
+title: "Element.GetElementsByTagNameNS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος Element GetElementsByTagNameNS. Επιστρέφει αντικείμενο HTMLCollection που περιέχει όλα τα στοιχεία με το δεδομένο τοπικό όνομα και τη συμβολοσειρά namespace URI με τη σειρά του εγγράφου."
 type: docs
 weight: 300
 url: /el/net/aspose.svg.dom/element/getelementsbytagnamens/
 ---
 ## Element.GetElementsByTagNameNS method
 
-Επιστρέφει μια NodeList με όλα τα επακόλουθα Στοιχεία με δεδομένο τοπικό όνομα και χώρο ονομάτων URI με σειρά εγγράφων.
+Επιστρέφει το αντικείμενο [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) που περιέχει όλα τα [`elements`](../) με το δεδομένο τοπικό όνομα και τη συμβολοσειρά namespace URI με τη σειρά του εγγράφου.
 
 ```csharp
 public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localName)
@@ -16,18 +16,20 @@ public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localNa
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceURI | String | Το URI του χώρου ονομάτων. |
-| localName | String | Όνομα του τοπικού. |
+| namespaceURI | String | Η αναπαράσταση της συμβολοσειράς namespace URI. |
+| localName | String | Αναπαράσταση συμβολοσειράς του τοπικού ονόματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει στοιχεία
+Μια ζωντανή [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) των ευρεθέντων στοιχείων.
+
+## Παρατηρήσεις
+
+Ανατρέξτε στην επίσημη [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagnamens).
 
 ### Δείτε επίσης
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

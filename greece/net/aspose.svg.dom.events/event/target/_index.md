@@ -1,14 +1,14 @@
 ---
-title: Event.Target
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Event ιδιοκτησία. Χρησιμοποιείται για την ένδειξη τουIEventTarget στο οποίο στάλθηκε αρχικά το συμβάν.
+title: "Event.Target"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η ιδιότητα Event Target. Χρησιμοποιείται για να υποδείξει το IEventTarget στο οποίο το γεγονός διανέμεται αρχικά."
 type: docs
 weight: 80
 url: /el/net/aspose.svg.dom.events/event/target/
 ---
 ## Event.Target property
 
-Χρησιμοποιείται για την ένδειξη του[`IEventTarget`](../../ieventtarget/) στο οποίο στάλθηκε αρχικά το συμβάν.
+Χρησιμοποιείται για να υποδείξει το [`IEventTarget`](../../ieventtarget/) στο οποίο το γεγονός διανέμεται αρχικά.
 
 ```csharp
 public EventTarget Target { get; }
@@ -18,7 +18,5 @@ public EventTarget Target { get; }
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [Event](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../event/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

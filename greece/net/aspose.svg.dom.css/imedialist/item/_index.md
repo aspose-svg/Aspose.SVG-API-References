@@ -1,14 +1,14 @@
 ---
-title: IMediaList.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IMediaList ιδιοκτησία. Επιστρέφει το ευρετήριο στη λίστα. Εάν το ευρετήριο είναι μεγαλύτερο ή ίσο με τον αριθμό των μέσων στη λίστα αυτό επιστρέφει null. Το ευρετήριο των μέσων ενημέρωσης.
+title: "IMediaList.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Item του IMediaList. Επιστρέφει το στοιχείο στη θέση index στη λίστα. Εάν το index είναι μεγαλύτερο ή ίσο με τον αριθμό των μέσων στη λίστα, επιστρέφει null. Ο δείκτης μέσου."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/imedialist/item/
 ---
 ## IMediaList indexer
 
-Επιστρέφει το ευρετήριο στη λίστα. Εάν το ευρετήριο είναι μεγαλύτερο ή ίσο με τον αριθμό των μέσων στη λίστα, αυτό επιστρέφει null. Το ευρετήριο των μέσων ενημέρωσης.
+Επιστρέφει το στοιχείο με το δοσμένο δείκτη στη λίστα. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των μέσων στη λίστα, επιστρέφει null. Ο δείκτης μέσου.
 
 ```csharp
 public string this[int index] { get; }
@@ -17,7 +17,5 @@ public string this[int index] { get; }
 ### Δείτε επίσης
 
 * interface [IMediaList](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../imedialist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

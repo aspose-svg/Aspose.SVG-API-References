@@ -1,7 +1,7 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_PAD
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGGradientElement πεδίο. Αντιστοιχεί στην τιμή pad.
+title: "SVGGradientElement.SVG_SPREADMETHOD_PAD"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGGradientElement SVG_SPREADMETHOD_PAD πεδίο. Αντιστοιχεί στην τιμή pad"
 type: docs
 weight: 50
 url: /el/net/aspose.svg/svggradientelement/svg_spreadmethod_pad/
@@ -17,7 +17,5 @@ public const ushort SVG_SPREADMETHOD_PAD;
 ### Δείτε επίσης
 
 * class [SVGGradientElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svggradientelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

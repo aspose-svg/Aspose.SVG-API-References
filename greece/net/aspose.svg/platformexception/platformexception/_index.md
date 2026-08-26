@@ -1,14 +1,14 @@
 ---
-title: PlatformException.PlatformException
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PlatformException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPlatformException τάξη.
+title: "PlatformException"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής PlatformException. Αρχικοποιεί μια νέα παρουσία της κλάσης PlatformException"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`PlatformException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`PlatformException`](../).
 
 ```csharp
 public PlatformException()
@@ -17,14 +17,14 @@ public PlatformException()
 ### Δείτε επίσης
 
 * class [PlatformException](../)
-* χώρος ονομάτων [Aspose.Svg](../../platformexception/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string) {#constructor_1}
+## PlatformException(*string*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`PlatformException`](../) τάξη με ένα καθορισμένο μήνυμα σφάλματος.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`PlatformException`](../) με ένα καθορισμένο μήνυμα σφάλματος.
 
 ```csharp
 public PlatformException(string message)
@@ -32,19 +32,19 @@ public PlatformException(string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα που περιγράφει το σφάλμα. |
+| μήνυμα | String | Το μήνυμα που περιγράφει το σφάλμα. |
 
 ### Δείτε επίσης
 
 * class [PlatformException](../)
-* χώρος ονομάτων [Aspose.Svg](../../platformexception/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string, Exception) {#constructor_2}
+## PlatformException(*string, Exception*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`PlatformException`](../) κλάση με ένα καθορισμένο μήνυμα σφάλματος και μια αναφορά στην εσωτερική εξαίρεση που είναι η αιτία αυτής της εξαίρεσης.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`PlatformException`](../) με ένα καθορισμένο μήνυμα σφάλματος και μια αναφορά στην εσωτερική εξαίρεση που είναι η αιτία αυτής της εξαίρεσης.
 
 ```csharp
 public PlatformException(string message, Exception innerException)
@@ -52,13 +52,11 @@ public PlatformException(string message, Exception innerException)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα σφάλματος που εξηγεί τον λόγο της εξαίρεσης. |
-| innerException | Exception | Η εξαίρεση που είναι η αιτία της τρέχουσας εξαίρεσης ή μια μηδενική αναφορά εάν δεν έχει καθοριστεί εσωτερική εξαίρεση. |
+| μήνυμα | String | Το μήνυμα σφάλματος που εξηγεί τον λόγο της εξαίρεσης. |
+| innerException | Εξαίρεση | Η εξαίρεση που είναι η αιτία της τρέχουσας εξαίρεσης, ή μια μηδενική αναφορά εάν δεν έχει καθοριστεί εσωτερική εξαίρεση. |
 
 ### Δείτε επίσης
 
 * class [PlatformException](../)
-* χώρος ονομάτων [Aspose.Svg](../../platformexception/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

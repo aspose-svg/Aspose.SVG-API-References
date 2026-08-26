@@ -1,27 +1,25 @@
 ---
-title: Node.NodeType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node ιδιοκτησία. Ένας κωδικός που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
+title: "Node.NodeType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Node.NodeType. Ένας κώδικας που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου"
 type: docs
-weight: 100
+weight: 90
 url: /el/net/aspose.svg.dom/node/nodetype/
 ---
 ## Node.NodeType property
 
-Ένας κωδικός που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
+Ένας κώδικας που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
 
 ```csharp
 public abstract ushort NodeType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του κόμβου.
 
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

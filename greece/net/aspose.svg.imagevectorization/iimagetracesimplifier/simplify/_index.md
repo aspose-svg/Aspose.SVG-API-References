@@ -1,7 +1,7 @@
 ---
-title: IImageTraceSimplifier.Simplify
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IImageTraceSimplifier μέθοδος. Μειώνει τον αριθμό των σημείων στο ίχνος.
+title: "IImageTraceSimplifier.Simplify"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Simplify του IImageTraceSimplifier. Μειώνει τον αριθμό των σημείων στο trace."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.imagevectorization/iimagetracesimplifier/simplify/
@@ -16,16 +16,14 @@ public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Η λίστα των ιχνοσημείων. |
+| ίχνος | IEnumerable`1 | Η λίστα των σημείων του ίχνους. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η μειωμένη λίστα των ιχνοσημείων.
+Η μειωμένη λίστα των σημείων του trace.
 
 ### Δείτε επίσης
 
 * interface [IImageTraceSimplifier](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../iimagetracesimplifier/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

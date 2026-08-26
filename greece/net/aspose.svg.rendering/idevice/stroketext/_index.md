@@ -1,14 +1,14 @@
 ---
-title: IDevice.StrokeText
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Χαρακτηρίζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση.
+title: "IDevice.StrokeText"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice StrokeText μέθοδος. Σχεδιάζει τη συγκεκριμένη συμβολοσειρά κειμένου στην καθορισμένη θέση."
 type: docs
 weight: 230
 url: /el/net/aspose.svg.rendering/idevice/stroketext/
 ---
 ## IDevice.StrokeText method
 
-Χαρακτηρίζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση.
+Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση.
 
 ```csharp
 public void StrokeText(string text, PointF pt)
@@ -16,13 +16,11 @@ public void StrokeText(string text, PointF pt)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Χορδή για εγκεφαλικό. |
-| pt | PointF | Σημείο που καθορίζει τις συντεταγμένες από όπου θα ξεκινήσει το κείμενο. |
+| κείμενο | String | Συμβολοσειρά για σχεδίαση. |
+| pt | PointF | Σημείο που καθορίζει τις συντεταγμένες όπου ξεκινά το κείμενο. |
 
 ### Δείτε επίσης
 
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: XpsDevice.XpsGraphicContext.XpsGraphicContext
-second_title: Aspose.SVG για Αναφορά API .NET
-description: XpsGraphicContext κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "XpsDevice.XpsGraphicContext.XpsGraphicContext"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "XpsGraphicContext κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/xpsgraphiccontext/
@@ -17,7 +17,5 @@ public XpsGraphicContext()
 ### Δείτε επίσης
 
 * class [XpsGraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Xps](../../xpsdevice.xpsgraphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Border
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας περιγράμματος στο CSS2.
+title: "ICSS2Properties.Border"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ιδιότητα Border. Δείτε τον ορισμό της ιδιότητας border στο CSS2"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.dom.css/icss2properties/border/
 ---
 ## ICSS2Properties.Border property
 
-Δείτε τον ορισμό της ιδιότητας περιγράμματος στο CSS2.
+Δείτε τον ορισμό της ιδιότητας border στο CSS2.
 
 ```csharp
 public string Border { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-περιουσία στα σύνορα
+ιδιότητα border
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

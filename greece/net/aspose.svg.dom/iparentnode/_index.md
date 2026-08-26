@@ -1,14 +1,14 @@
 ---
-title: Interface IParentNode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.IParentNode διεπαφή. Ορίζει τοIParentNode διεπαφή που υλοποιείται από οποιουσδήποτε πιθανούς γονείς.
+title: "IParentNode Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.IParentNode διεπαφή. Ορίζει τη διεπαφή IParentNode που υλοποιείται από τυχόν πιθανούς γονείς."
 type: docs
-weight: 1100
+weight: 3080
 url: /el/net/aspose.svg.dom/iparentnode/
 ---
 ## IParentNode interface
 
-Ορίζει το`IParentNode` διεπαφή που υλοποιείται από οποιουσδήποτε πιθανούς γονείς.
+Ορίζει τη διεπαφή `IParentNode` που υλοποιείται από οποιουσδήποτε πιθανούς γονείς.
 
 ```csharp
 public interface IParentNode : IElementTraversal
@@ -16,24 +16,22 @@ public interface IParentNode : IElementTraversal
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ChildElementCount](../../aspose.svg.dom/iparentnode/childelementcount/) { get; } | Το χαρακτηριστικό childElementCount πρέπει να επιστρέψει τον αριθμό των θυγατρικών του αντικειμένου περιβάλλοντος που είναι στοιχεία. |
-| [Children](../../aspose.svg.dom/iparentnode/children/) { get; } | Επιστρέφει τα θυγατρικά στοιχεία. |
-| [FirstElementChild](../../aspose.svg.dom/iparentnode/firstelementchild/) { get; } | Επιστρέφει το πρώτο θυγατρικό στοιχείο που είναι στοιχείο και αλλιώς μηδενίζει. |
-| [LastElementChild](../../aspose.svg.dom/iparentnode/lastelementchild/) { get; } | Επιστρέφει το τελευταίο θυγατρικό στοιχείο που είναι στοιχείο και αλλιώς μηδενίζει. |
+| [ChildElementCount](../../aspose.svg.dom/iparentnode/childelementcount/) { get; } | Το χαρακτηριστικό childElementCount πρέπει να επιστρέφει τον αριθμό των παιδιών του αντικειμένου περιβάλλοντος που είναι στοιχεία. |
+| [Children](../../aspose.svg.dom/iparentnode/children/) { get; } | Επιστρέφει τα παιδικά στοιχεία. |
+| [FirstElementChild](../../aspose.svg.dom/iparentnode/firstelementchild/) { get; } | Επιστρέφει το πρώτο παιδί που είναι στοιχείο, και null διαφορετικά. |
+| [LastElementChild](../../aspose.svg.dom/iparentnode/lastelementchild/) { get; } | Επιστρέφει το τελευταίο παιδί που είναι στοιχείο, και null διαφορετικά. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector/)(string) | Επιστρέφει το πρώτο στοιχείο που είναι απόγονος του κόμβου που ταιριάζει με τους επιλογείς. |
-| [QuerySelectorAll](../../aspose.svg.dom/iparentnode/queryselectorall/)(string) | Επιστρέφει όλους τους απογόνους στοιχείων του κόμβου που ταιριάζουν με τους επιλογείς. |
+| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector/)(*string*) | Επιστρέφει το πρώτο στοιχείο που είναι απόγονος του node και ταιριάζει με τους selectors. |
+| [QuerySelectorAll](../../aspose.svg.dom/iparentnode/queryselectorall/)(*string*) | Επιστρέφει όλους τους απογόνους στοιχείων του node που ταιριάζουν με τους selectors. |
 
 ### Δείτε επίσης
 
 * interface [IElementTraversal](../../aspose.svg.dom.traversal/ielementtraversal/)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

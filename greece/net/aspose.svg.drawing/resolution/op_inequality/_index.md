@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Inequality
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Resolution μέθοδος. Υλοποιεί τον τελεστή .
+title: "Resolution.op_Inequality"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Resolution op_Inequality μέθοδος. Υλοποιεί τον τελεστή"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.drawing/resolution/op_inequality/
@@ -16,17 +16,15 @@ public static bool operator !=(Resolution a, Resolution b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Resolution | Η παράμετρος α. |
-| b | Resolution | Η παράμετρος β. |
+| a | Resolution | Η παράμετρος a. |
+| b | Resolution | Η παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
 ### Δείτε επίσης
 
 * class [Resolution](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../resolution/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

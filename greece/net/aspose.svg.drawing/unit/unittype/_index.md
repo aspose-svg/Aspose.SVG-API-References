@@ -1,20 +1,20 @@
 ---
-title: Unit.UnitType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit ιδιοκτησία. Παίρνει τον τύπο μονάδας τουUnit .
+title: "Unit.UnitType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Unit UnitType property. Λαμβάνει τον τύπο μονάδας της Unit"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
 
-Παίρνει τον τύπο μονάδας του[`Unit`](../) .
+Λαμβάνει τον τύπο μονάδας της [`Unit`](../).
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος της μονάδας.
 
@@ -22,7 +22,5 @@ public UnitType UnitType { get; }
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSPageRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Css.ICSSPageRule διεπαφή. Η διεπαφή CSSPageRule αντιπροσωπεύει έναν κανόνα page μέσα σε ένα φύλλο στυλ CSS. Ο κανόνας page χρησιμοποιείται για να καθορίσει τις διαστάσεις τον προσανατολισμό τα περιθώρια κ.λπ. ενός πλαισίου σελίδας για σελιδοποιημένα μέσα.
+title: "ICSSPageRule Interface"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Css.ICSSPageRule interface. Η διεπαφή CSSPageRule αντιπροσωπεύει έναν κανόνα σελίδας μέσα σε ένα φύλλο στυλ CSS. Ο κανόνας σελίδας χρησιμοποιείται για τον καθορισμό των διαστάσεων, προσανατολισμού, περιθωρίων κ.λπ. ενός κουτιού σελίδας για πολυσελιδομένα μέσα"
 type: docs
-weight: 610
+weight: 2610
 url: /el/net/aspose.svg.dom.css/icsspagerule/
 ---
 ## ICSSPageRule interface
 
-Η διεπαφή CSSPageRule αντιπροσωπεύει έναν κανόνα @page μέσα σε ένα φύλλο στυλ CSS. Ο κανόνας @page χρησιμοποιείται για να καθορίσει τις διαστάσεις, τον προσανατολισμό, τα περιθώρια κ.λπ. ενός πλαισίου σελίδας για σελιδοποιημένα μέσα.
+Η διεπαφή CSSPageRule αντιπροσωπεύει έναν κανόνα @page μέσα σε ένα φύλλο στυλ CSS. Ο κανόνας @page χρησιμοποιείται για τον καθορισμό των διαστάσεων, του προσανατολισμού, των περιθωρίων κ.λπ. ενός πλαισίου σελίδας για πολυσελιδομένα μέσα.
 
 ```csharp
 public interface ICSSPageRule : ICSSRule
@@ -16,15 +16,13 @@ public interface ICSSPageRule : ICSSRule
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [SelectorText](../../aspose.svg.dom.css/icsspagerule/selectortext/) { get; set; } | Η αναλυόμενη αναπαράσταση κειμένου του επιλογέα σελίδας για τον κανόνα. |
+| [SelectorText](../../aspose.svg.dom.css/icsspagerule/selectortext/) { get; set; } | Η αναγνώσιμη κειμενική αναπαράσταση του επιλογέα σελίδας για τον κανόνα. |
 | [Style](../../aspose.svg.dom.css/icsspagerule/style/) { get; } | Το μπλοκ δήλωσης αυτού του κανόνα. |
 
 ### Δείτε επίσης
 
 * interface [ICSSRule](../icssrule/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

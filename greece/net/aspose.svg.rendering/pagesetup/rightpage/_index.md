@@ -1,14 +1,14 @@
 ---
-title: PageSetup.RightPage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PageSetup ιδιοκτησία. Λαμβάνει τη διαμόρφωση ζυγής σελίδας.
+title: "PageSetup.RightPage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "PageSetup RightPage ιδιότητα. Λαμβάνει τη διαμόρφωση ζυγών σελίδων."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.rendering/pagesetup/rightpage/
 ---
 ## PageSetup.RightPage property
 
-Λαμβάνει τη διαμόρφωση ζυγής σελίδας.
+Λαμβάνει τη ρύθμιση της Ζυγής Σελίδας.
 
 ```csharp
 public Page RightPage { get; }
@@ -18,7 +18,5 @@ public Page RightPage { get; }
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../pagesetup/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

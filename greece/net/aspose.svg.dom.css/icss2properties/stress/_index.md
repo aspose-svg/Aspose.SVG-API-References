@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Stress
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας τάσης στο CSS2.
+title: "ICSS2Properties.Stress"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ιδιότητα Stress. Δείτε τον ορισμό της ιδιότητας stress στο CSS2"
 type: docs
-weight: 1050
+weight: 1080
 url: /el/net/aspose.svg.dom.css/icss2properties/stress/
 ---
 ## ICSS2Properties.Stress property
 
-Δείτε τον ορισμό της ιδιότητας τάσης στο CSS2.
+Δείτε τον ορισμό ιδιότητας stress στο CSS2.
 
 ```csharp
 public string Stress { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα στρες
+ιδιότητα stress
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

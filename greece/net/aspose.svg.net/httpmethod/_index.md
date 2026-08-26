@@ -1,14 +1,14 @@
 ---
-title: Class HttpMethod
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.HttpMethod τάξη. Αντιπροσωπεύει την κλάση βοηθητικού προγράμματος για την ανάκτηση και τη σύγκριση τυπικών μεθόδων HTTP.
+title: "Κλάση HttpMethod"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η κλάση Aspose.Svg.Net.HttpMethod. Αντιπροσωπεύει βοηθητική κλάση για την ανάκτηση και σύγκριση τυπικών μεθόδων HTTP."
 type: docs
-weight: 2290
+weight: 4360
 url: /el/net/aspose.svg.net/httpmethod/
 ---
 ## HttpMethod class
 
-Αντιπροσωπεύει την κλάση βοηθητικού προγράμματος για την ανάκτηση και τη σύγκριση τυπικών μεθόδων HTTP.
+Αναπαριστά βοηθητική κλάση για την ανάκτηση και σύγκριση των τυπικών μεθόδων HTTP.
 
 ```csharp
 public class HttpMethod : IEquatable<HttpMethod>
@@ -16,34 +16,32 @@ public class HttpMethod : IEquatable<HttpMethod>
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [HttpMethod](httpmethod/)(string) | Αρχικοποιεί μια νέα παρουσία του`HttpMethod` κλάση με συγκεκριμένη μέθοδο HTTP. |
+| [HttpMethod](httpmethod/)(*string*) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `HttpMethod` με μια συγκεκριμένη μέθοδο HTTP. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | static [Delete](../../aspose.svg.net/httpmethod/delete/) { get; } | Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP DELETE. |
 | static [Get](../../aspose.svg.net/httpmethod/get/) { get; } | Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP GET. |
 | static [Post](../../aspose.svg.net/httpmethod/post/) { get; } | Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP POST. |
-| static [Put](../../aspose.svg.net/httpmethod/put/) { get; } | Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP PUT. |
+| static [Put](../../aspose.svg.net/httpmethod/put/) { get; } | Αναπαριστά μια μέθοδο πρωτοκόλλου HTTP PUT. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Equals](../../aspose.svg.net/httpmethod/equals/#equals)(HttpMethod) | Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου. |
-| override [Equals](../../aspose.svg.net/httpmethod/equals/#equals_1)(object) | Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση. |
-| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode/)() | Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση. |
-| override [ToString](../../aspose.svg.net/httpmethod/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| [Equals](../../aspose.svg.net/httpmethod/equals/#equals)(*HttpMethod*) | Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου. |
+| override [Equals](../../aspose.svg.net/httpmethod/equals/#equals_1)(*object*) | Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία. |
+| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode/)() | Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την παρουσία. |
+| override [ToString](../../aspose.svg.net/httpmethod/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία. |
 | [operator ==](../../aspose.svg.net/httpmethod/op_equality/) | Υλοποιεί τον τελεστή ισότητας. |
-| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit/) | Εκτελεί ρητή μετατροπή απόString προς την`HttpMethod` . |
+| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit/) | Εκτελεί μια ρητή μετατροπή από String σε `HttpMethod`. |
 | [operator !=](../../aspose.svg.net/httpmethod/op_inequality/) | Υλοποιεί τον τελεστή ισότητας. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

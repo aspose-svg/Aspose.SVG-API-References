@@ -1,14 +1,14 @@
 ---
-title: SVGException.SVG_MATRIX_NOT_INVERTABLE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGException πεδίο. Αυξάνεται όταν γίνεται προσπάθεια αντιστροφής μιας μήτρας που δεν είναι αντιστρέψιμη.
+title: "SVGException.SVG_MATRIX_NOT_INVERTABLE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVG_MATRIX_NOT_INVERTABLE του SVGException. Εμφανίζεται όταν γίνεται προσπάθεια αντιστροφής ενός πίνακα που δεν είναι αντιστρέψιμος"
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svgexception/svg_matrix_not_invertable/
 ---
 ## SVGException.SVG_MATRIX_NOT_INVERTABLE field
 
-Αυξάνεται όταν γίνεται προσπάθεια αντιστροφής μιας μήτρας που δεν είναι αντιστρέψιμη.
+Εμφανίζεται όταν γίνεται προσπάθεια αντιστροφής ενός πίνακα που δεν είναι αντιστρέψιμος.
 
 ```csharp
 public const ushort SVG_MATRIX_NOT_INVERTABLE;
@@ -17,7 +17,5 @@ public const ushort SVG_MATRIX_NOT_INVERTABLE;
 ### Δείτε επίσης
 
 * class [SVGException](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgexception/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

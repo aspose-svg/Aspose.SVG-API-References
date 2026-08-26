@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.MutationObserverInit
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationObserverInit κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουMutationObserverInit τάξη.
+title: "MutationObserverInit"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής MutationObserverInit. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης MutationObserverInit"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.mutations/mutationobserverinit/mutationobserverinit/
 ---
 ## MutationObserverInit constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`MutationObserverInit`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`MutationObserverInit`](../).
 
 ```csharp
 public MutationObserverInit()
@@ -17,7 +17,5 @@ public MutationObserverInit()
 ### Δείτε επίσης
 
 * class [MutationObserverInit](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

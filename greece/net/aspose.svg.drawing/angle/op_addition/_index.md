@@ -1,7 +1,7 @@
 ---
-title: Angle.op_Addition
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Angle μέθοδος. Υλοποιεί τον τελεστή .
+title: "Angle.op_Addition"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Angle op_Addition. Υλοποιεί τον τελεστή"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/angle/op_addition/
@@ -16,24 +16,22 @@ public static Angle operator +(Angle a, Angle b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Angle | Παράμετρος α. |
-| b | Angle | Παράμετρος β. |
+| a | Angle | Παράμετρος a. |
+| b | Angle | Παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | Τα επιχειρήματα είναι μηδενικά |
-| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους or Τα ορίσματα έχουν διαφορετική ανάλυση or |
+| ArgumentNullException | Τα ορίσματα είναι null |
+| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους ή Τα ορίσματα έχουν διαφορετική ανάλυση ή |
 
 ### Δείτε επίσης
 
 * class [Angle](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../angle/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

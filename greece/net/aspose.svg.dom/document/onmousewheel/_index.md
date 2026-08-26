@@ -1,14 +1,14 @@
 ---
-title: Document.OnMouseWheel
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseWheel.
+title: "Document.OnMouseWheel"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnMouseWheel. Λαμβάνει ή ορίζει τον χειριστή γεγονότος για το γεγονός OnMouseWheel."
 type: docs
 weight: 580
 url: /el/net/aspose.svg.dom/document/onmousewheel/
 ---
 ## Document.OnMouseWheel event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnMouseWheel.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnMouseWheel συμβάν.
 
 ```csharp
 public event DOMEventHandler OnMouseWheel;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseWheel;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

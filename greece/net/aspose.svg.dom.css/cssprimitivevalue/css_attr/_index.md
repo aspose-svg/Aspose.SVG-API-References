@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.CSS_ATTR
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSPrimitiveValue πεδίο. Η τιμή είναι συνάρτηση χαρακτηριστικού. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue.
+title: "CSSPrimitiveValue.CSS_ATTR"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "CSSPrimitiveValue CSS_ATTR πεδίο. Η τιμή είναι μια λειτουργία χαρακτηριστικού. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue."
 type: docs
 weight: 110
 url: /el/net/aspose.svg.dom.css/cssprimitivevalue/css_attr/
 ---
 ## CSSPrimitiveValue.CSS_ATTR field
 
-Η τιμή είναι συνάρτηση χαρακτηριστικού. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue.
+Η τιμή είναι μια συνάρτηση χαρακτηριστικού. Η τιμή μπορεί να ληφθεί χρησιμοποιώντας τη μέθοδο getStringValue.
 
 ```csharp
 public const ushort CSS_ATTR;
@@ -17,7 +17,5 @@ public const ushort CSS_ATTR;
 ### Δείτε επίσης
 
 * class [CSSPrimitiveValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

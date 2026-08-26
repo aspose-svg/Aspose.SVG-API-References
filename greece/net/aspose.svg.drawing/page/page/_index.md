@@ -1,14 +1,14 @@
 ---
-title: Page.Page
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Page κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPage τάξη.
+title: "Page"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής Page. Αρχικοποιεί ένα νέο αντίγραφο της κλάσης Page."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/page/page/
 ---
-## Page(Size, Margin) {#constructor_3}
+## Page(*[Size](../../size/), [Margin](../../margin/)*) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`Page`](../) τάξη.
+Αρχικοποιεί ένα νέο αντίγραφο της κλάσης [`Page`](../).
 
 ```csharp
 public Page(Size size, Margin margin)
@@ -16,22 +16,22 @@ public Page(Size size, Margin margin)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | Size | Το μέγεθος της σελίδας. |
-| margin | Margin | Το περιθώριο. |
+| μέγεθος | Size | Το μέγεθος της σελίδας. |
+| περιθώριο | Margin | Το περιθώριο. |
 
 ### Δείτε επίσης
 
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../page/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Size) {#constructor_2}
+## Page(*[Size](../../size/)*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`Page`](../) τάξη.
+Αρχικοποιεί ένα νέο αντίγραφο της κλάσης [`Page`](../).
 
 ```csharp
 public Page(Size size)
@@ -39,20 +39,20 @@ public Page(Size size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | Size | Το μέγεθος της σελίδας. |
+| μέγεθος | Size | Το μέγεθος της σελίδας. |
 
 ### Δείτε επίσης
 
 * class [Size](../../size/)
 * class [Page](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../page/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Margin) {#constructor_1}
+## Page(*[Margin](../../margin/)*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`Page`](../) τάξη.
+Αρχικοποιεί ένα νέο αντίγραφο της κλάσης [`Page`](../).
 
 ```csharp
 public Page(Margin margin)
@@ -60,20 +60,20 @@ public Page(Margin margin)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| margin | Margin | Το περιθώριο. |
+| περιθώριο | Margin | Το περιθώριο. |
 
 ### Δείτε επίσης
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../page/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Page() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`Page`](../) τάξη.
+Αρχικοποιεί ένα νέο αντίγραφο της κλάσης [`Page`](../).
 
 ```csharp
 public Page()
@@ -82,7 +82,5 @@ public Page()
 ### Δείτε επίσης
 
 * class [Page](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../page/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

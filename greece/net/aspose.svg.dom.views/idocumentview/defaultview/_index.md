@@ -1,20 +1,20 @@
 ---
-title: IDocumentView.DefaultView
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDocumentView ιδιοκτησία. Το προεπιλεγμένο AbstractView για αυτό το Έγγραφο ή μηδενικό εάν δεν υπάρχει διαθέσιμο.
+title: "IDocumentView.DefaultView"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IDocumentView DefaultView. Η προεπιλεγμένη AbstractView για αυτό το Document ή null εάν δεν υπάρχει."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.views/idocumentview/defaultview/
 ---
 ## IDocumentView.DefaultView property
 
-Το προεπιλεγμένο AbstractView για αυτό το Έγγραφο ή μηδενικό εάν δεν υπάρχει διαθέσιμο.
+Η προεπιλεγμένη AbstractView για αυτό το Document, ή null εάν δεν υπάρχει.
 
 ```csharp
 public IAbstractView DefaultView { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η προεπιλεγμένη προβολή.
 
@@ -22,7 +22,5 @@ public IAbstractView DefaultView { get; }
 
 * interface [IAbstractView](../../iabstractview/)
 * interface [IDocumentView](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Views](../../idocumentview/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

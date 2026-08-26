@@ -1,14 +1,14 @@
 ---
-title: UnitType.Equals
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType μέθοδος. Καθορίζει εάν το καθορισμένοObject  ισούται με αυτήν την περίπτωση.
+title: "UnitType.Equals"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος UnitType Equals. Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία"
 type: docs
 weight: 310
 url: /el/net/aspose.svg.drawing/unittype/equals/
 ---
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,23 +16,23 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Αντικείμενο | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(UnitType) {#equals}
+## Equals(*[UnitType](../)*) {#equals}
 
-Καθορίζει εάν το καθορισμένο[`UnitType`](../) , ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο [`UnitType`](../) είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public bool Equals(UnitType other)
@@ -40,16 +40,14 @@ public bool Equals(UnitType other)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| other | UnitType | ο[`UnitType`](../) για σύγκριση με αυτήν την περίπτωση. |
+| other | UnitType | Το [`UnitType`](../) για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένο[`UnitType`](../) ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο [`UnitType`](../) είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

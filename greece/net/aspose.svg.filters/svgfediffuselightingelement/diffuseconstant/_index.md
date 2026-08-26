@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.DiffuseConstant
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEDiffuseLightingElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό diffuseConstant στο δεδομένο στοιχείο feDiffuseLighting.
+title: "SVGFEDiffuseLightingElement.DiffuseConstant"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα DiffuseConstant του SVGFEDiffuseLightingElement. Αντιστοιχεί στο χαρακτηριστικό diffuseConstant του δεδομένου στοιχείου feDiffuseLighting"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.filters/svgfediffuselightingelement/diffuseconstant/
 ---
 ## SVGFEDiffuseLightingElement.DiffuseConstant property
 
-Αντιστοιχεί στο χαρακτηριστικό 'diffuseConstant' στο δεδομένο στοιχείο 'feDiffuseLighting'.
+Αντιστοιχεί στο χαρακτηριστικό ‘diffuseConstant’ του δεδομένου στοιχείου ‘feDiffuseLighting’.
 
 ```csharp
 public SVGAnimatedNumber DiffuseConstant { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'diffuseConstant' του δεδομένου στοιχείου 'feDiffuseLighting'.
+Το χαρακτηριστικό ‘diffuseConstant’ του δεδομένου στοιχείου ‘feDiffuseLighting’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

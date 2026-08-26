@@ -1,14 +1,14 @@
 ---
-title: IDevice.GraphicContext
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice ιδιοκτησία. Λαμβάνει το γραφικό πλαίσιο.
+title: "IDevice.GraphicContext"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice GraphicContext ιδιότητα. Λαμβάνει το γραφικό πλαίσιο"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering/idevice/graphiccontext/
 ---
 ## IDevice.GraphicContext property
 
-Λαμβάνει το γραφικό πλαίσιο.
+Λαμβάνει το γραφικό περιβάλλον.
 
 ```csharp
 public GraphicContext GraphicContext { get; }
@@ -18,7 +18,5 @@ public GraphicContext GraphicContext { get; }
 
 * class [GraphicContext](../../graphiccontext/)
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

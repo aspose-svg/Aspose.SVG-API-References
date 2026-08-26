@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.RemoveDescriptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGOptimizationOptions ιδιοκτησία. Λαμβάνει ή ορίζει την επιλογή για κατάργηση μόνο του περιεχομένου των συντακτών ή των κενών στοιχείων. Είναι αληθές από προεπιλογή.
+title: "SVGOptimizationOptions.RemoveDescriptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGOptimizationOptions RemoveDescriptions. Λαμβάνει ή ορίζει την επιλογή για την αφαίρεση μόνο του περιεχομένου των επεξεργαστών ή κενών στοιχείων. Είναι true εξ ορισμού"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removedescriptions/
 ---
 ## SVGOptimizationOptions.RemoveDescriptions property
 
-Λαμβάνει ή ορίζει την επιλογή για κατάργηση μόνο του περιεχομένου των συντακτών ή των κενών στοιχείων. Είναι "αληθές" από προεπιλογή.
+Λαμβάνει ή ορίζει την επιλογή για αφαίρεση μόνο του περιεχομένου των επεξεργαστών ή των κενών στοιχείων. Η προεπιλογή είναι 'true'.
 
 ```csharp
 public bool RemoveDescriptions { get; set; }
@@ -17,7 +17,5 @@ public bool RemoveDescriptions { get; set; }
 ### Δείτε επίσης
 
 * class [SVGOptimizationOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

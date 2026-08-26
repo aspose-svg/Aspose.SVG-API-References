@@ -1,14 +1,14 @@
 ---
-title: IDevice.Flush
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Ξεπλύνει όλα τα δεδομένα για έξοδο ροής.
+title: "IDevice.Flush"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IDevice Flush. Μεταφέρει όλα τα δεδομένα στη ροή εξόδου"
 type: docs
 weight: 160
 url: /el/net/aspose.svg.rendering/idevice/flush/
 ---
 ## IDevice.Flush method
 
-Ξεπλύνει όλα τα δεδομένα για έξοδο ροής.
+Αδειάζει όλα τα δεδομένα στο ρεύμα εξόδου.
 
 ```csharp
 public void Flush()
@@ -17,7 +17,5 @@ public void Flush()
 ### Δείτε επίσης
 
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: DocumentFragment.NodeType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentFragment ιδιοκτησία. Ένας κωδικός που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
+title: "DocumentFragment.NodeType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DocumentFragment NodeType property. Ένας κώδικας που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου."
 type: docs
 weight: 80
 url: /el/net/aspose.svg.dom/documentfragment/nodetype/
 ---
 ## DocumentFragment.NodeType property
 
-Ένας κωδικός που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
+Ένας κώδικας που αντιπροσωπεύει τον τύπο του υποκείμενου αντικειμένου.
 
 ```csharp
 public override ushort NodeType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του κόμβου.
 
 ### Δείτε επίσης
 
 * class [DocumentFragment](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documentfragment/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

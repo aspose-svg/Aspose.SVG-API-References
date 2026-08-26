@@ -1,20 +1,20 @@
 ---
-title: IWindow.Document
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IWindow ιδιοκτησία. Το χαρακτηριστικό document πρέπει να επιστρέψει το πιο πρόσφατο αντικείμενο Document του αντικειμένου Window.
+title: "IWindow.Document"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IWindow Document property. Το χαρακτηριστικό document πρέπει να επιστρέφει το πιο πρόσφατο αντικείμενο Document του αντικειμένου Window."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.window/iwindow/document/
 ---
 ## IWindow.Document property
 
-Το χαρακτηριστικό document πρέπει να επιστρέψει το πιο πρόσφατο αντικείμενο Document του αντικειμένου Window.
+Το χαρακτηριστικό document πρέπει να επιστρέφει το πιο πρόσφατο αντικείμενο Document του αντικειμένου Window.
 
 ```csharp
 public Document Document { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το έγγραφο.
 
@@ -22,7 +22,5 @@ public Document Document { get; }
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IWindow](../)
-* χώρος ονομάτων [Aspose.Svg.Window](../../iwindow/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

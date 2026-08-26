@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Href
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGTextPathElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό xlinkhref στο δεδομένο στοιχείο.
+title: "SVGTextPathElement.Href"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGTextPathElement Href. Αντιστοιχεί στην ιδιότητα xlinkhref στο δεδομένο στοιχείο."
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svgtextpathelement/href/
 ---
 ## SVGTextPathElement.Href property
 
-Αντιστοιχεί στο χαρακτηριστικό 'xlink:href' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘xlink:href’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το 'xlink:href' του δεδομένου στοιχείου.
+Το ‘xlink:href’ του δεδομένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGTextPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgtextpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

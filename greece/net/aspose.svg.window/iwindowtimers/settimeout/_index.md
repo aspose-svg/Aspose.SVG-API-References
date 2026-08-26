@@ -1,14 +1,14 @@
 ---
-title: IWindowTimers.SetTimeout
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IWindowTimers μέθοδος. Προγραμματίζει ένα χρονικό όριο για εκτέλεση του προγράμματος χειρισμού μετά από χιλιοστά του δευτερολέπτου χρονικού ορίου. Τυχόν ορίσματα διαβιβάζονται απευθείας στον χειριστή.
+title: "IWindowTimers.SetTimeout"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IWindowTimers SetTimeout μέθοδος. Προγραμματίζει ένα χρονικό όριο για την εκτέλεση του handler μετά από timeout χιλιοστά του δευτερολέπτου. Οποιαδήποτε επιχειρήματα περνούν απευθείας στον handler"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.window/iwindowtimers/settimeout/
 ---
 ## IWindowTimers.SetTimeout method
 
-Προγραμματίζει ένα χρονικό όριο για εκτέλεση του προγράμματος χειρισμού μετά από χιλιοστά του δευτερολέπτου χρονικού ορίου. Τυχόν ορίσματα διαβιβάζονται απευθείας στον χειριστή.
+Προγραμματίζει ένα χρονικό όριο για να εκτελεί τον handler μετά από timeout χιλιοστά του δευτερολέπτου. Όλα τα επιχειρήματα περνούν απευθείας στον handler.
 
 ```csharp
 public int SetTimeout(object handler, int timeout, params object[] args)
@@ -16,18 +16,16 @@ public int SetTimeout(object handler, int timeout, params object[] args)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| handler | Object | Ο χειριστής. |
-| timeout | Int32 | Το τάιμ άουτ. |
-| args | Object[] | Τα επιχειρήματα. |
+| handler | Αντικείμενο | Ο handler. |
+| timeout | Int32 | Το timeout. |
+| args | Object[] | Τα ορίσματα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το χερούλι
+Το αναγνωριστικό
 
 ### Δείτε επίσης
 
 * interface [IWindowTimers](../)
-* χώρος ονομάτων [Aspose.Svg.Window](../../iwindowtimers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OUT
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFECompositeElement πεδίο. Αντιστοιχεί στην τιμή out.
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OUT"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVG_FECOMPOSITE_OPERATOR_OUT του SVGFECompositeElement. Αντιστοιχεί στην τιμή out"
 type: docs
 weight: 160
 url: /el/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_out/
@@ -17,7 +17,5 @@ public const ushort SVG_FECOMPOSITE_OPERATOR_OUT;
 ### Δείτε επίσης
 
 * class [SVGFECompositeElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

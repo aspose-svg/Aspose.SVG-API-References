@@ -1,7 +1,7 @@
 ---
-title: XpsRenderingOptions.XpsRenderingOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: XpsRenderingOptions κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "XpsRenderingOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής XpsRenderingOptions. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.xps/xpsrenderingoptions/xpsrenderingoptions/
@@ -17,7 +17,5 @@ public XpsRenderingOptions()
 ### Δείτε επίσης
 
 * class [XpsRenderingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Xps](../../xpsrenderingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

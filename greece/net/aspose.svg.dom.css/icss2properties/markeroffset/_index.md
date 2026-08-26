@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.MarkerOffset
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας μετατόπισης δείκτη στο CSS2.
+title: "ICSS2Properties.MarkerOffset"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties MarkerOffset ιδιότητα. Δείτε τον ορισμό της ιδιότητας marker-offset στο CSS2"
 type: docs
-weight: 680
+weight: 710
 url: /el/net/aspose.svg.dom.css/icss2properties/markeroffset/
 ---
 ## ICSS2Properties.MarkerOffset property
 
-Δείτε τον ορισμό της ιδιότητας μετατόπισης δείκτη στο CSS2.
+Δείτε τον ορισμό της ιδιότητας marker-offset στο CSS2.
 
 ```csharp
 public string MarkerOffset { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα αντιστάθμισης δείκτη
+ιδιότητα marker-offset
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

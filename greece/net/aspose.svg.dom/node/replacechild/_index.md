@@ -1,14 +1,14 @@
 ---
-title: Node.ReplaceChild
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node μέθοδος. Αντικαθιστά τον θυγατρικό κόμβο oldChild με newChild στη λίστα των παιδιών και επιστρέφει τον κόμβο oldChild. Εάν το newChild είναι αντικείμενο DocumentFragment το oldChild αντικαθίσταται από όλα τα θυγατρικά DocumentFragment τα οποία εισάγονται με την ίδια σειρά. Εάν το newChild βρίσκεται ήδη στο δέντρο πρώτα αφαιρείται.
+title: "Node.ReplaceChild"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Node ReplaceChild. Αντικαθιστά τον κόμβο-παιδί oldChild με το newChild στη λίστα των παιδιών και επιστρέφει τον κόμβο oldChild. Εάν το newChild είναι αντικείμενο DocumentFragment, το oldChild αντικαθίσταται από όλα τα παιδιά του DocumentFragment που εισάγονται με την ίδια σειρά. Εάν το newChild βρίσκεται ήδη στο δέντρο, αφαιρείται πρώτα."
 type: docs
-weight: 300
+weight: 280
 url: /el/net/aspose.svg.dom/node/replacechild/
 ---
 ## Node.ReplaceChild method
 
-Αντικαθιστά τον θυγατρικό κόμβο oldChild με newChild στη λίστα των παιδιών και επιστρέφει τον κόμβο oldChild. Εάν το newChild είναι αντικείμενο DocumentFragment, το oldChild αντικαθίσταται από όλα τα θυγατρικά DocumentFragment, τα οποία εισάγονται με την ίδια σειρά. Εάν το newChild βρίσκεται ήδη στο δέντρο, πρώτα αφαιρείται.
+Αντικαθιστά τον κόμβο-παιδί oldChild με το newChild στη λίστα των παιδιών και επιστρέφει τον κόμβο oldChild. Εάν το newChild είναι αντικείμενο DocumentFragment, ο oldChild αντικαθίσταται από όλα τα παιδιά του DocumentFragment, τα οποία εισάγονται με την ίδια σειρά. Εάν το newChild βρίσκεται ήδη στο δέντρο, αφαιρείται πρώτα.
 
 ```csharp
 public Node ReplaceChild(Node node, Node child)
@@ -19,14 +19,12 @@ public Node ReplaceChild(Node node, Node child)
 | node | Node | Ο νέος κόμβος. |
 | child | Node | Το παλιό παιδί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει τον κόμβο
+Επιστρέφει κόμβο
 
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

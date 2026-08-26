@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.AppendItem
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGListBase μέθοδος. Εισάγει ένα νέο στοιχείο στο τέλος της λίστας.
+title: "SVGListBase-1.AppendItem"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος AppendItem του SVGListBase. Εισάγει ένα νέο στοιχείο στο τέλος της λίστας"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.collections/svglistbase-1/appenditem/
 ---
-## SVGListBase&lt;T&gt;.AppendItem method
+## SVGListBase<T>.AppendItem method
 
 Εισάγει ένα νέο στοιχείο στο τέλος της λίστας.
 
@@ -16,22 +16,20 @@ public T AppendItem(T newItem)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| newItem | T | Το στοιχείο που πρόκειται να εισαχθεί. Το πρώτο στοιχείο είναι ο αριθμός 0. |
+| newItem | T | Το στοιχείο που θα εισαχθεί. Το πρώτο στοιχείο είναι ο αριθμός 0. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αντικείμενο που έχει εισαχθεί.
+Το εισαχθέν στοιχείο.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Αυξάνεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
 
 ### Δείτε επίσης
 
 * class [SVGListBase&lt;T&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../svglistbase-1/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

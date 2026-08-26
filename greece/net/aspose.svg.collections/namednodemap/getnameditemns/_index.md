@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.GetNamedItemNS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NamedNodeMap μέθοδος. Ανακτά έναν κόμβο που καθορίζεται από τοπικό όνομα και χώρο ονομάτων URI.
+title: "NamedNodeMap.GetNamedItemNS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "NamedNodeMap GetNamedItemNS μέθοδος. Ανακτά έναν κόμβο που καθορίζεται με το τοπικό όνομα και το URI του χώρου ονομάτων."
 type: docs
-weight: 50
+weight: 40
 url: /el/net/aspose.svg.collections/namednodemap/getnameditemns/
 ---
 ## NamedNodeMap.GetNamedItemNS method
 
-Ανακτά έναν κόμβο που καθορίζεται από τοπικό όνομα και χώρο ονομάτων URI.
+Ανακτά έναν κόμβο που καθορίζεται με τοπικό όνομα και URI ονοματοχώρου.
 
 ```csharp
 public Attr GetNamedItemNS(string namespaceURI, string localName)
@@ -16,18 +16,16 @@ public Attr GetNamedItemNS(string namespaceURI, string localName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceURI | String | Το URI του χώρου ονομάτων. |
-| localName | String | Όνομα του τοπικού. |
+| namespaceURI | String | Το namespace URI. |
+| localName | String | Το τοπικό όνομα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει τον κόμβο.
+Επιστρέφει κόμβο.
 
 ### Δείτε επίσης
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../namednodemap/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: UnitType.op_Explicit
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType μέθοδος. Εκτελεί ρητή μετατροπή απόUnitType προς τηνString .
+title: "UnitType.op_Explicit"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος UnitType op_Explicit. Εκτελεί μια ρητή μετατροπή από UnitType σε String."
 type: docs
 weight: 350
 url: /el/net/aspose.svg.drawing/unittype/op_explicit/
 ---
 ## UnitType Explicit operator
 
-Εκτελεί ρητή μετατροπή από[`UnitType`](../) προς τηνString .
+Εκτελεί μια ρητή μετατροπή από [`UnitType`](../) σε String.
 
 ```csharp
 public static explicit operator string(UnitType value)
@@ -16,16 +16,14 @@ public static explicit operator string(UnitType value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | UnitType | Η αξία. |
+| τιμή | UnitType | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα της μετατροπής.
 
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

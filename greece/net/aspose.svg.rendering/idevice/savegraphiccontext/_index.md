@@ -1,14 +1,14 @@
 ---
-title: IDevice.SaveGraphicContext
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Σπρώχνει ένα αντίγραφο ολόκληρου του περιβάλλοντος γραφικών στη στοίβα.
+title: "IDevice.SaveGraphicContext"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice SaveGraphicContext μέθοδος. Τοποθετεί ένα αντίγραφο ολόκληρου του γραφικού πλαισίου στην στοίβα"
 type: docs
 weight: 200
 url: /el/net/aspose.svg.rendering/idevice/savegraphiccontext/
 ---
 ## IDevice.SaveGraphicContext method
 
-Σπρώχνει ένα αντίγραφο ολόκληρου του περιβάλλοντος γραφικών στη στοίβα.
+Τοποθετεί ένα αντίγραφο ολόκληρου του πλαισίου γραφικών στη στοίβα.
 
 ```csharp
 public void SaveGraphicContext()
@@ -17,7 +17,5 @@ public void SaveGraphicContext()
 ### Δείτε επίσης
 
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

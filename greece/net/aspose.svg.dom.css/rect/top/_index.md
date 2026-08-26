@@ -1,14 +1,14 @@
 ---
-title: Rect.Top
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Rect ιδιοκτησία. Αυτό το χαρακτηριστικό χρησιμοποιείται για την κορυφή του ορθού.
+title: "Rect.Top"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Rect Top. Αυτό το χαρακτηριστικό χρησιμοποιείται για το πάνω μέρος του rect"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.css/rect/top/
 ---
 ## Rect.Top property
 
-Αυτό το χαρακτηριστικό χρησιμοποιείται για την κορυφή του ορθού.
+Αυτό το χαρακτηριστικό χρησιμοποιείται για το πάνω μέρος του rect.
 
 ```csharp
 public CSSPrimitiveValue Top { get; }
@@ -18,7 +18,5 @@ public CSSPrimitiveValue Top { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../rect/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

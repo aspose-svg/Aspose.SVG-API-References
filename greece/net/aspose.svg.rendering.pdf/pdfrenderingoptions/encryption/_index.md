@@ -1,14 +1,14 @@
 ---
-title: PdfRenderingOptions.Encryption
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfRenderingOptions ιδιοκτησία. Λαμβάνει ή ορίζει λεπτομέρειες κρυπτογράφησης. Εάν δεν έχει οριστεί τότε δεν θα εκτελεστεί κρυπτογράφηση.
+title: "PdfRenderingOptions.Encryption"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PdfRenderingOptions Encryption. Λαμβάνει ή ορίζει λεπτομέρειες κρυπτογράφησης. Εάν δεν οριστεί, δεν θα πραγματοποιηθεί κρυπτογράφηση."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.rendering.pdf/pdfrenderingoptions/encryption/
 ---
 ## PdfRenderingOptions.Encryption property
 
-Λαμβάνει ή ορίζει λεπτομέρειες κρυπτογράφησης. Εάν δεν έχει οριστεί, τότε δεν θα εκτελεστεί κρυπτογράφηση.
+Λαμβάνει ή ορίζει λεπτομέρειες κρυπτογράφησης. Εάν δεν οριστεί, δεν θα εκτελεστεί κρυπτογράφηση.
 
 ```csharp
 public PdfEncryptionInfo Encryption { get; set; }
@@ -18,7 +18,5 @@ public PdfEncryptionInfo Encryption { get; set; }
 
 * class [PdfEncryptionInfo](../../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/)
 * class [PdfRenderingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

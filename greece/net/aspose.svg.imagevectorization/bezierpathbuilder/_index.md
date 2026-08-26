@@ -1,14 +1,14 @@
 ---
-title: Class BezierPathBuilder
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ImageVectorization.BezierPathBuilder τάξη. ΤοSplinePathBuilder Η κλάση είναι υπεύθυνη για τη δημιουργία τμημάτων διαδρομήςSVGPathSeg από τη λίστα των σημείων ίχνους. Αυτό το εργαλείο δημιουργίας διαδρομής βασίζεται στη χρήση της μεθόδου ελαχίστων τετραγώνων για την εύρεση σημείων ελέγχου Bezier για ίχνος σημείων.
+title: "BezierPathBuilder Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.ImageVectorization.BezierPathBuilder κλάση. Η κλάση BezierPathBuilder είναι υπεύθυνη για την κατασκευή μιας διαδρομής Bezier από ένα δεδομένο σύνολο σημείων. Προσεγγίζει ένα ίχνος σημείων με μια καμπύλη Bezier βελτιστοποιώντας τον αριθμό των τμημάτων ώστε να ταιριάζει στενά με το αρχικό ίχνος, ελαχιστοποιώντας την πολυπλοκότητα"
 type: docs
-weight: 2080
+weight: 4150
 url: /el/net/aspose.svg.imagevectorization/bezierpathbuilder/
 ---
 ## BezierPathBuilder class
 
-Το[`SplinePathBuilder`](../splinepathbuilder/) Η κλάση είναι υπεύθυνη για τη δημιουργία τμημάτων διαδρομής[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) από τη λίστα των σημείων ίχνους. Αυτό το εργαλείο δημιουργίας διαδρομής βασίζεται στη χρήση της μεθόδου ελαχίστων τετραγώνων για την εύρεση σημείων ελέγχου Bezier για ίχνος σημείων.
+Η κλάση `BezierPathBuilder` είναι υπεύθυνη για την κατασκευή μιας διαδρομής Bezier από ένα δεδομένο σύνολο σημείων. Προσεγγίζει ένα ίχνος σημείων με μια καμπύλη Bezier, βελτιστοποιώντας τον αριθμό των τμημάτων ώστε να ταιριάζει στενά με το αρχικό ίχνος, ελαχιστοποιώντας την πολυπλοκότητα.
 
 ```csharp
 public class BezierPathBuilder : IPathBuilder
@@ -16,28 +16,26 @@ public class BezierPathBuilder : IPathBuilder
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BezierPathBuilder](bezierpathbuilder/)() | Αρχικοποιεί μια νέα παρουσία του`BezierPathBuilder` τάξη. |
+| [BezierPathBuilder](bezierpathbuilder/)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `BezierPathBuilder`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ErrorThreshold](../../aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/) { get; set; } | Λαμβάνει ή ορίζει το όριο σφάλματος. Αυτή η παράμετρος ορίζει τη μέγιστη απόκλιση των σημείων στην προσαρμοσμένη καμπύλη. Από προεπιλογή είναι 30. |
+| [ErrorThreshold](../../aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/) { get; set; } | Λαμβάνει ή ορίζει το όριο σφάλματος. Αυτή η παράμετρος ορίζει τη μέγιστη απόκλιση των σημείων από την προσαρμοσμένη καμπύλη. Από προεπιλογή είναι 30. |
 | [MaxIterations](../../aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/) { get; set; } | Λαμβάνει ή ορίζει το όριο σφάλματος. Αυτή η παράμετρος ορίζει τον αριθμό των επαναλήψεων για τη μέθοδο προσέγγισης ελαχίστων τετραγώνων. Από προεπιλογή είναι 30. |
-| [TraceSmoother](../../aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/) { get; set; } | Αποκτά ή ρυθμίζει το ίχνος πιο ομαλό. |
+| [TraceSmoother](../../aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/) { get; set; } | Λαμβάνει ή ορίζει τον εξομαλυντή του ίχνους. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Δημιουργεί τμήματα διαδρομής από τη λίστα των σημείων ίχνους. |
+| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | Δημιουργεί μια βελτιστοποιημένη διαδρομή Bezier από μια ακολουθία σημείων ίχνους. Η μέθοδος προσεγγίζει το δεδομένο ίχνος με μια καμπύλη Bezier, χρησιμοποιώντας συνδυασμό τμημάτων γραμμής και καμπύλης. Στοχεύει στη μείωση του αριθμού των τμημάτων διασφαλίζοντας ταυτόχρονα ότι η διαδρομή ταιριάζει στενά με το αρχικό ίχνος. |
 
 ### Δείτε επίσης
 
 * interface [IPathBuilder](../ipathbuilder/)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

@@ -1,24 +1,32 @@
 ---
-title: Node.ParentElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node ιδιοκτησία. Παίρνει τον γονέαElement αυτού του κόμβου.
+title: "Node.ParentElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Node.ParentElement. Επιστρέφει το γονικό Element του κόμβου DOM ή null εάν ο κόμβος δεν έχει γονέα ή ο γονέας του δεν είναι Element του DOM"
 type: docs
-weight: 130
+weight: 120
 url: /el/net/aspose.svg.dom/node/parentelement/
 ---
 ## Node.ParentElement property
 
-Παίρνει τον γονέα[`Element`](../../element/) αυτού του κόμβου.
+Επιστρέφει το γονικό [`Element`](../../element/) του κόμβου DOM, ή null εάν ο κόμβος δεν έχει γονέα ή ο γονέας του δεν είναι Element του DOM.
 
 ```csharp
 public Element ParentElement { get; }
 ```
 
+### Property Value
+
+Ένα [`Element`](../../element/) που είναι το γονικό στοιχείο του τρέχοντος κόμβου, ή null εάν δεν υπάρχει.
+
+## Παρατηρήσεις
+
+Αναφορά:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-parentnode).
+
 ### Δείτε επίσης
 
 * class [Element](../../element/)
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedAngle.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGAnimatedAngle μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "SVGAnimatedAngle.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGAnimatedAngle ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.datatypes/svganimatedangle/tostring/
 ---
 ## SVGAnimatedAngle.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedAngle](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svganimatedangle/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSSMediaRule.DeleteRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSMediaRule μέθοδος. Χρησιμοποιείται για τη διαγραφή ενός κανόνα από το μπλοκ πολυμέσων.
+title: "ICSSMediaRule.DeleteRule"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος DeleteRule του ICSSMediaRule. Χρησιμοποιείται για τη διαγραφή ενός κανόνα από το μπλοκ μέσων."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.css/icssmediarule/deleterule/
 ---
 ## ICSSMediaRule.DeleteRule method
 
-Χρησιμοποιείται για τη διαγραφή ενός κανόνα από το μπλοκ πολυμέσων.
+Χρησιμοποιείται για τη διαγραφή ενός κανόνα από το μπλοκ μέσου.
 
 ```csharp
 public void DeleteRule(long index)
@@ -16,12 +16,10 @@ public void DeleteRule(long index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | Int64 | Ο δείκτης. |
+| δείκτης | Int64 | Ο δείκτης. |
 
 ### Δείτε επίσης
 
 * interface [ICSSMediaRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

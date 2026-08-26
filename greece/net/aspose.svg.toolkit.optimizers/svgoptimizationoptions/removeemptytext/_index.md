@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.RemoveEmptyText
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGOptimizationOptions ιδιοκτησία. Λαμβάνει ή ορίζει την επιλογή αφαίρεσης κενών στοιχείων κειμένου. Είναι αληθές από προεπιλογή.
+title: "SVGOptimizationOptions.RemoveEmptyText"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGOptimizationOptions RemoveEmptyText. Λαμβάνει ή ορίζει την επιλογή για την αφαίρεση κενών στοιχείων κειμένου. Είναι true εξ ορισμού"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptytext/
 ---
 ## SVGOptimizationOptions.RemoveEmptyText property
 
-Λαμβάνει ή ορίζει την επιλογή αφαίρεσης κενών στοιχείων κειμένου. Είναι "αληθές" από προεπιλογή.
+Λαμβάνει ή ορίζει την επιλογή για αφαίρεση κενών στοιχείων Text. Η προεπιλογή είναι 'true'.
 
 ```csharp
 public bool RemoveEmptyText { get; set; }
@@ -17,7 +17,5 @@ public bool RemoveEmptyText { get; set; }
 ### Δείτε επίσης
 
 * class [SVGOptimizationOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

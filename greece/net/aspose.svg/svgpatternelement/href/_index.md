@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.Href
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPatternElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό xlinkhref στο δεδομένο στοιχείο.
+title: "SVGPatternElement.Href"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Href του SVGPatternElement. Αντιστοιχεί στην ιδιότητα xlinkhref στο δεδομένο στοιχείο"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgpatternelement/href/
 ---
 ## SVGPatternElement.Href property
 
-Αντιστοιχεί στο χαρακτηριστικό 'xlink:href' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘xlink:href’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το 'xlink:href' του δεδομένου στοιχείου.
+Το ‘xlink:href’ του δεδομένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGPatternElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpatternelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

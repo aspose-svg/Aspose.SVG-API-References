@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.SetSkewY
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGTransform μέθοδος. Ορίζει τον τύπο μετασχηματισμού σε SVG_TRANSFORM_SKEWY με γωνία παραμέτρου που καθορίζει το μέγεθος της λοξής.
+title: "SVGTransform.SetSkewY"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGTransform SetSkewY. Ορίζει τον τύπο μετασχηματισμού σε SVG_TRANSFORM_SKEWY με την παράμετρο angle που καθορίζει το μέγεθος της κλίσης."
 type: docs
 weight: 80
 url: /el/net/aspose.svg.datatypes/svgtransform/setskewy/
 ---
 ## SVGTransform.SetSkewY method
 
-Ορίζει τον τύπο μετασχηματισμού σε SVG_TRANSFORM_SKEWY, με γωνία παραμέτρου που καθορίζει το μέγεθος της λοξής.
+Ορίζει τον τύπο μετασχηματισμού σε SVG_TRANSFORM_SKEWY, με την παράμετρο angle που ορίζει το μέγεθος της κλίσης.
 
 ```csharp
 public void SetSkewY(float angle)
@@ -18,16 +18,14 @@ public void SetSkewY(float angle)
 | --- | --- | --- |
 | angle | Single | Η γωνία κλίσης. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGTransform](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgtransform/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

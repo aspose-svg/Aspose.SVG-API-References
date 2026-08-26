@@ -1,9 +1,9 @@
 ---
-title: Interface ICSSImportRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Css.ICSSImportRule διεπαφή. Η διεπαφή CSSImportRule αντιπροσωπεύει έναν κανόνα import μέσα σε ένα φύλλο στυλ CSS. Ο κανόνας import χρησιμοποιείται για την εισαγωγή κανόνων στυλ από άλλα φύλλα στυλ.
+title: "ICSSImportRule Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Css.ICSSImportRule διεπαφή. Η διεπαφή CSSImportRule αντιπροσωπεύει έναν κανόνα εισαγωγής μέσα σε ένα φύλλο στυλ CSS. Ο κανόνας εισαγωγής χρησιμοποιείται για την εισαγωγή κανόνων στυλ από άλλα φύλλα στυλ."
 type: docs
-weight: 560
+weight: 2560
 url: /el/net/aspose.svg.dom.css/icssimportrule/
 ---
 ## ICSSImportRule interface
@@ -16,16 +16,14 @@ public interface ICSSImportRule : ICSSRule
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Href](../../aspose.svg.dom.css/icssimportrule/href/) { get; } | Η θέση του φύλλου στυλ που θα εισαχθεί. Το χαρακτηριστικό δεν θα περιέχει τον προσδιοριστή "url(...)" γύρω από το URI. |
-| [Media](../../aspose.svg.dom.css/icssimportrule/media/) { get; } | Μια λίστα τύπων μέσων για τα οποία μπορεί να χρησιμοποιηθεί αυτό το φύλλο στυλ. |
-| [StyleSheet](../../aspose.svg.dom.css/icssimportrule/stylesheet/) { get; } | Το φύλλο στυλ που αναφέρεται από αυτόν τον κανόνα, εάν έχει φορτωθεί. Η τιμή αυτού του χαρακτηριστικού είναι μηδενική εάν το φύλλο στυλ δεν έχει φορτωθεί ακόμη ή εάν δεν θα φορτωθεί (π.χ. εάν το φύλλο στυλ είναι για τύπο μέσου που δεν υποστηρίζεται από τον παράγοντα χρήστη). |
+| [Media](../../aspose.svg.dom.css/icssimportrule/media/) { get; } | Μια λίστα τύπων μέσων για τους οποίους μπορεί να χρησιμοποιηθεί αυτό το φύλλο στυλ. |
+| [StyleSheet](../../aspose.svg.dom.css/icssimportrule/stylesheet/) { get; } | Το φύλλο στυλ στο οποίο αναφέρεται αυτός ο κανόνας, εάν έχει φορτωθεί. Η τιμή αυτού του χαρακτηριστικού είναι null εάν το φύλλο στυλ δεν έχει ακόμη φορτωθεί ή εάν δεν θα φορτωθεί (π.χ. εάν το φύλλο στυλ προορίζεται για τύπο μέσου που δεν υποστηρίζεται από τον πελάτη). |
 
 ### Δείτε επίσης
 
 * interface [ICSSRule](../icssrule/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: MessageHandlerCollection.MessageHandlerCollection
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MessageHandlerCollection κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "MessageHandlerCollection"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής MessageHandlerCollection. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/messagehandlercollection/messagehandlercollection/
@@ -17,7 +17,5 @@ public MessageHandlerCollection()
 ### Δείτε επίσης
 
 * class [MessageHandlerCollection](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../messagehandlercollection/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

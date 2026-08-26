@@ -1,14 +1,14 @@
 ---
-title: FileProtocolMessageHandler.FileProtocolMessageHandler
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FileProtocolMessageHandler κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFileProtocolMessageHandler τάξη.
+title: "FileProtocolMessageHandler"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής FileProtocolMessageHandler. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης FileProtocolMessageHandler"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`FileProtocolMessageHandler`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`FileProtocolMessageHandler`](../).
 
 ```csharp
 public FileProtocolMessageHandler()
@@ -17,7 +17,5 @@ public FileProtocolMessageHandler()
 ### Δείτε επίσης
 
 * class [FileProtocolMessageHandler](../)
-* χώρος ονομάτων [Aspose.Svg.Net.MessageHandlers](../../fileprotocolmessagehandler/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

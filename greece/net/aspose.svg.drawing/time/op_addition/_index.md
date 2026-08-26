@@ -1,7 +1,7 @@
 ---
-title: Time.op_Addition
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Time μέθοδος. Υλοποιεί τον τελεστή .
+title: "Time.op_Addition"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος op_Addition του Time. Υλοποιεί τον τελεστή."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.drawing/time/op_addition/
@@ -16,24 +16,22 @@ public static Time operator +(Time a, Time b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Time | Παράμετρος α. |
-| b | Time | Παράμετρος β. |
+| a | Time | Παράμετρος a. |
+| b | Time | Παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | Τα επιχειρήματα είναι μηδενικά |
-| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους or Τα ορίσματα έχουν διαφορετική ανάλυση or |
+| ArgumentNullException | Τα ορίσματα είναι null |
+| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους ή Τα ορίσματα έχουν διαφορετική ανάλυση ή |
 
 ### Δείτε επίσης
 
 * class [Time](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../time/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

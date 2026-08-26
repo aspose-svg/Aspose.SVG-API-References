@@ -1,14 +1,14 @@
 ---
-title: ICSSImportRule.StyleSheet
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSImportRule ιδιοκτησία. Το φύλλο στυλ που αναφέρεται από αυτόν τον κανόνα εάν έχει φορτωθεί. Η τιμή αυτού του χαρακτηριστικού είναι μηδενική εάν το φύλλο στυλ δεν έχει φορτωθεί ακόμη ή εάν δεν θα φορτωθεί π.χ. εάν το φύλλο στυλ είναι για τύπο μέσου που δεν υποστηρίζεται από τον παράγοντα χρήστη.
+title: "ICSSImportRule.StyleSheet"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ICSSImportRule StyleSheet. Το φύλλο στυλ στο οποίο αναφέρεται αυτός ο κανόνας εάν έχει φορτωθεί. Η τιμή αυτού του χαρακτηριστικού είναι null εάν το φύλλο στυλ δεν έχει ακόμη φορτωθεί ή εάν δεν θα φορτωθεί, π.χ. εάν το φύλλο στυλ προορίζεται για τύπο μέσου που δεν υποστηρίζεται από τον πελάτη"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.css/icssimportrule/stylesheet/
 ---
 ## ICSSImportRule.StyleSheet property
 
-Το φύλλο στυλ που αναφέρεται από αυτόν τον κανόνα, εάν έχει φορτωθεί. Η τιμή αυτού του χαρακτηριστικού είναι μηδενική εάν το φύλλο στυλ δεν έχει φορτωθεί ακόμη ή εάν δεν θα φορτωθεί (π.χ. εάν το φύλλο στυλ είναι για τύπο μέσου που δεν υποστηρίζεται από τον παράγοντα χρήστη).
+Το φύλλο στυλ στο οποίο αναφέρεται αυτός ο κανόνας, εάν έχει φορτωθεί. Η τιμή αυτού του χαρακτηριστικού είναι null εάν το φύλλο στυλ δεν έχει ακόμη φορτωθεί ή εάν δεν θα φορτωθεί (π.χ. εάν το φύλλο στυλ προορίζεται για τύπο μέσου που δεν υποστηρίζεται από τον πελάτη).
 
 ```csharp
 public ICSSStyleSheet StyleSheet { get; }
@@ -18,7 +18,5 @@ public ICSSStyleSheet StyleSheet { get; }
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSImportRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssimportrule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

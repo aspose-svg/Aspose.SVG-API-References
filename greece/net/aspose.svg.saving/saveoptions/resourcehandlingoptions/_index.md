@@ -1,28 +1,26 @@
 ---
-title: SaveOptions.ResourceHandlingOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SaveOptions ιδιοκτησία. Παίρνει έναResourceHandlingOptions αντικείμενο που χρησιμοποιείται για τη διαμόρφωση του χειρισμού πόρων.
+title: "SaveOptions.ResourceHandlingOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SaveOptions ResourceHandlingOptions. Επιστρέφει ένα αντικείμενο ResourceHandlingOptions που χρησιμοποιείται για τη διαμόρφωση της διαχείρισης πόρων"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.saving/saveoptions/resourcehandlingoptions/
 ---
 ## SaveOptions.ResourceHandlingOptions property
 
-Παίρνει ένα[`ResourceHandlingOptions`](../../resourcehandlingoptions/) αντικείμενο που χρησιμοποιείται για τη διαμόρφωση του χειρισμού πόρων.
+Επιστρέφει ένα [`ResourceHandlingOptions`](../../resourcehandlingoptions/) αντικείμενο που χρησιμοποιείται για τη διαμόρφωση της διαχείρισης πόρων.
 
 ```csharp
 public ResourceHandlingOptions ResourceHandlingOptions { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`ResourceHandlingOptions`](../../resourcehandlingoptions/) αντικείμενο.
+Το [`ResourceHandlingOptions`](../../resourcehandlingoptions/) αντικείμενο.
 
 ### Δείτε επίσης
 
 * class [ResourceHandlingOptions](../../resourcehandlingoptions/)
 * class [SaveOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../saveoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

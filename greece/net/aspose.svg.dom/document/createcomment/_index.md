@@ -1,14 +1,14 @@
 ---
-title: Document.CreateComment
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document μέθοδος. Δημιουργεί έναν κόμβο σχολίων με την καθορισμένη συμβολοσειρά.
+title: "Document.CreateComment"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Document CreateComment. Δημιουργεί έναν κόμβο Comment με βάση τη συγκεκριμένη συμβολοσειρά."
 type: docs
 weight: 820
 url: /el/net/aspose.svg.dom/document/createcomment/
 ---
 ## Document.CreateComment method
 
-Δημιουργεί έναν κόμβο σχολίων με την καθορισμένη συμβολοσειρά.
+Δημιουργεί έναν κόμβο Comment με την καθορισμένη συμβολοσειρά.
 
 ```csharp
 public Comment CreateComment(string data)
@@ -16,17 +16,15 @@ public Comment CreateComment(string data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | String | Τα δεδομένα των σχολίων. |
+| δεδομένα | String | Τα δεδομένα του σχολίου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`Comment`](../../comment/) .
+Το [`Comment`](../../comment/).
 
 ### Δείτε επίσης
 
 * class [Comment](../../comment/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

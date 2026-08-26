@@ -1,14 +1,14 @@
 ---
-title: ICSSKeyframesRule.FindRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSKeyframesRule μέθοδος. Η μέθοδος findRule επιστρέφει τον κανόνα με ένα κλειδί που ταιριάζει με το κλειδί που πέρασε. Εάν δεν υπάρχει τέτοιος κανόνας επιστρέφεται μια τιμή null
+title: "ICSSKeyframesRule.FindRule"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSSKeyframesRule FindRule method. Η μέθοδος findRule επιστρέφει τον κανόνα με κλειδί που ταιριάζει με το δοσμένο κλειδί. Εάν δεν υπάρχει τέτοιος κανόνας, επιστρέφεται τιμή null."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom.css/icsskeyframesrule/findrule/
 ---
 ## ICSSKeyframesRule.FindRule method
 
-Η μέθοδος findRule επιστρέφει τον κανόνα με ένα κλειδί που ταιριάζει με το κλειδί που πέρασε. Εάν δεν υπάρχει τέτοιος κανόνας, επιστρέφεται μια τιμή null
+Η μέθοδος findRule επιστρέφει τον κανόνα με κλειδί που ταιριάζει στο δοσμένο κλειδί. Εάν δεν υπάρχει τέτοιος κανόνας, επιστρέφεται τιμή null
 
 ```csharp
 public ICSSKeyframeRule FindRule(string key)
@@ -16,17 +16,15 @@ public ICSSKeyframeRule FindRule(string key)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Το κλειδί που περιέγραφε τον κανόνα για να βρείτε. Το κλειδί πρέπει να επιλύσει έναν αριθμό μεταξύ 0 και 1, διαφορετικά ο κανόνας αγνοείται. |
+| κλειδί | String | Το κλειδί που περιγράφει τον κανόνα προς εύρεση. Το κλειδί πρέπει να αντιστοιχεί σε αριθμό μεταξύ 0 και 1, διαφορετικά ο κανόνας αγνοείται. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο κανόνας που βρέθηκε
+Ο βρεθείς κανόνας
 
 ### Δείτε επίσης
 
 * interface [ICSSKeyframeRule](../../icsskeyframerule/)
 * interface [ICSSKeyframesRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

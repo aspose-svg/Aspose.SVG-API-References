@@ -1,33 +1,31 @@
 ---
-title: SVGStyleElement.Media
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGStyleElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό μέσα στο δεδομένο στοιχείο.
+title: "SVGStyleElement.Media"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGStyleElement Media. Συμφωνεί με το χαρακτηριστικό media στο δεδομένο στοιχείο."
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svgstyleelement/media/
 ---
 ## SVGStyleElement.Media property
 
-Αντιστοιχεί στο χαρακτηριστικό "μέσα" στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘media’ του δεδομένου στοιχείου.
 
 ```csharp
 public string Media { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "μέσα" στο δεδομένο στοιχείο.
+Το χαρακτηριστικό ‘media’ στο δεδομένο στοιχείο.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδικός [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εγείρεται κατά μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGStyleElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgstyleelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ContentDispositionHeaderValue.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ContentDispositionHeaderValue μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "ContentDispositionHeaderValue.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ContentDispositionHeaderValue ToString method. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.net.headers/contentdispositionheadervalue/tostring/
 ---
 ## ContentDispositionHeaderValue.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει αString που αντιπροσωπεύει αυτή την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [ContentDispositionHeaderValue](../)
-* χώρος ονομάτων [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

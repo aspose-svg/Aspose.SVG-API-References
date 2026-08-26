@@ -1,27 +1,25 @@
 ---
-title: Color.GetHue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει μια απόχρωση του χρώματος.
+title: "Color.GetHue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color GetHue. Επιστρέφει μια απόχρωση του Color"
 type: docs
 weight: 330
 url: /el/net/aspose.svg.drawing/color/gethue/
 ---
 ## Color.GetHue method
 
-Επιστρέφει μια απόχρωση του χρώματος.
+Επιστρέφει το Hue του Color.
 
 ```csharp
 public float GetHue()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια απόχρωση του χρώματος.
+Μια απόχρωση του Color.
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

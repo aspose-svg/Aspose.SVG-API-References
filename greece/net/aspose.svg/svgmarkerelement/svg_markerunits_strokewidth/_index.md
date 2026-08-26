@@ -1,14 +1,14 @@
 ---
-title: SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMarkerElement πεδίο. Η τιμή του χαρακτηριστικού markerUnits είναι strokeWidth.
+title: "SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVG_MARKERUNITS_STROKEWIDTH του SVGMarkerElement. Η τιμή του χαρακτηριστικού markerUnits είναι strokeWidth"
 type: docs
 weight: 120
 url: /el/net/aspose.svg/svgmarkerelement/svg_markerunits_strokewidth/
 ---
 ## SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH field
 
-Η τιμή του χαρακτηριστικού 'markerUnits' είναι 'strokeWidth'.
+Η τιμή του χαρακτηριστικού ‘markerUnits’ είναι 'strokeWidth'.
 
 ```csharp
 public const ushort SVG_MARKERUNITS_STROKEWIDTH;
@@ -17,7 +17,5 @@ public const ushort SVG_MARKERUNITS_STROKEWIDTH;
 ### Δείτε επίσης
 
 * class [SVGMarkerElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgmarkerelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEMergeElement.Result
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEMergeElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό result στο δεδομένο στοιχείο filter.
+title: "SVGFEMergeElement.Result"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFEMergeElement ιδιότητα Result. Αντιστοιχεί στο χαρακτηριστικό result στο δεδομένο στοιχείο φίλτρου"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.filters/svgfemergeelement/result/
 ---
 ## SVGFEMergeElement.Result property
 
-Αντιστοιχεί στο χαρακτηριστικό 'result' στο δεδομένο στοιχείο 'filter'.
+Αντιστοιχεί στο χαρακτηριστικό ‘result’ στο δοσμένο στοιχείο ‘filter’.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'result' του δεδομένου στοιχείου 'filter'.
+Το χαρακτηριστικό ‘result’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEMergeElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfemergeelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: HttpMethod.Equals
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HttpMethod μέθοδος. Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+title: "HttpMethod.Equals"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος HttpMethod Equals. Δείχνει αν το τρέχον αντικείμενο είναι ίσο με ένα άλλο αντικείμενο του ίδιου τύπου"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.net/httpmethod/equals/
 ---
-## Equals(HttpMethod) {#equals}
+## Equals(*[HttpMethod](../)*) {#equals}
 
-Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
 
 ```csharp
 public bool Equals(HttpMethod other)
@@ -16,23 +16,23 @@ public bool Equals(HttpMethod other)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| other | HttpMethod | Ένα αντικείμενο προς σύγκριση με αυτό το αντικείμενο. |
+| άλλο | HttpMethod | Ένα αντικείμενο για σύγκριση με αυτό το αντικείμενο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true αν το τρέχον αντικείμενο είναι ίσο με το*other* παράμετρος? διαφορετικά, ψευδής.
+αληθές εάν το τρέχον αντικείμενο είναι ίσο με την παράμετρο *other*· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [HttpMethod](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../httpmethod/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Αντικείμενο | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [HttpMethod](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../httpmethod/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

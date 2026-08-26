@@ -1,14 +1,14 @@
 ---
-title: IFileList.Length
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IFileList ιδιοκτησία. Μήκος επιστροφής για λίστα αρχείων.
+title: "IFileList.Length"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IFileList Length property. Επιστρέφει το μήκος για τη λίστα αρχείων"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.io/ifilelist/length/
 ---
 ## IFileList.Length property
 
-Μήκος επιστροφής για λίστα αρχείων.
+Επιστρέφει το μήκος της λίστας αρχείων.
 
 ```csharp
 public long Length { get; }
@@ -17,7 +17,5 @@ public long Length { get; }
 ### Δείτε επίσης
 
 * interface [IFileList](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../ifilelist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

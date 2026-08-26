@@ -1,7 +1,7 @@
 ---
-title: UrlResolver.UrlResolver
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UrlResolver κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "UrlResolver"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής UrlResolver. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/urlresolver/urlresolver/
@@ -17,7 +17,5 @@ public UrlResolver()
 ### Δείτε επίσης
 
 * class [UrlResolver](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../urlresolver/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

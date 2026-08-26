@@ -1,14 +1,14 @@
 ---
-title: Unit.FromInches
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αLength αντικείμενο που αναπαρίσταται σε ίντσες.
+title: "Unit.FromInches"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Unit FromInches μέθοδος. Επιστρέφει ένα αντικείμενο Length που αντιπροσωπεύεται σε ίντσες"
 type: docs
 weight: 120
 url: /el/net/aspose.svg.drawing/unit/frominches/
 ---
 ## Unit.FromInches method
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο που αναπαρίσταται σε ίντσες.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/) που αντιπροσωπεύεται σε ίντσες.
 
 ```csharp
 public static Length FromInches(double value)
@@ -16,17 +16,15 @@ public static Length FromInches(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/).
 
 ### Δείτε επίσης
 
 * class [Length](../../length/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

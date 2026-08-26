@@ -1,14 +1,14 @@
 ---
-title: MimeType.MimeType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MimeType κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τύπου MIME με βάση τη σειριακή τιμή συμβολοσειράς.
+title: "MimeType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "MimeType κατασκευαστής. Αρχικοποιεί ένα νέο αντικείμενο τύπου MIME βάσει της σειριοποιημένης τιμής συμβολοσειράς."
 type: docs
 weight: 10
 url: /el/net/aspose.svg/mimetype/mimetype/
 ---
 ## MimeType constructor
 
-Αρχικοποιεί μια νέα παρουσία τύπου MIME με βάση τη σειριακή τιμή συμβολοσειράς.
+Αρχικοποιεί ένα νέο στιγμιότυπο τύπου MIME με βάση την σειριοποιημένη τιμή συμβολοσειράς.
 
 ```csharp
 public MimeType(string value)
@@ -16,12 +16,10 @@ public MimeType(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [MimeType](../)
-* χώρος ονομάτων [Aspose.Svg](../../mimetype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ILinkStyle.Sheet
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ILinkStyle ιδιοκτησία. Λαμβάνει το σχετικό φύλλο στυλ.
+title: "ILinkStyle.Sheet"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ILinkStyle Sheet. Λαμβάνει το συσχετισμένο φύλλο στυλ"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/ilinkstyle/sheet/
@@ -18,7 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../istylesheet/)
 * interface [ILinkStyle](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../ilinkstyle/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

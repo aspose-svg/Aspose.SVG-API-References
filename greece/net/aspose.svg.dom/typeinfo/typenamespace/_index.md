@@ -1,27 +1,25 @@
 ---
-title: TypeInfo.TypeNamespace
-second_title: Aspose.SVG για Αναφορά API .NET
-description: TypeInfo ιδιοκτησία. Λαμβάνει τον χώρο ονομάτων τύπου. Ο χώρος ονομάτων του τύπου που δηλώνεται για το συσχετισμένο στοιχείο ή χαρακτηριστικό ή null εάν το στοιχείο δεν έχει δήλωση ή εάν δεν υπάρχουν διαθέσιμες πληροφορίες χώρου ονομάτων.
+title: "TypeInfo.TypeNamespace"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα TypeInfo TypeNamespace. Λαμβάνει το namespace του τύπου. Το namespace του τύπου που δηλώνεται για το σχετικό στοιχείο ή χαρακτηριστικό ή null εάν το στοιχείο δεν έχει δήλωση ή εάν δεν υπάρχουν διαθέσιμες πληροφορίες namespace"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/typeinfo/typenamespace/
 ---
 ## TypeInfo.TypeNamespace property
 
-Λαμβάνει τον χώρο ονομάτων τύπου. Ο χώρος ονομάτων του τύπου που δηλώνεται για το συσχετισμένο στοιχείο ή χαρακτηριστικό ή null, εάν το στοιχείο δεν έχει δήλωση ή εάν δεν υπάρχουν διαθέσιμες πληροφορίες χώρου ονομάτων.
+Λαμβάνει το χώρο ονομάτων του τύπου. Ο χώρος ονομάτων του τύπου που δηλώνεται για το σχετικό στοιχείο ή χαρακτηριστικό ή null εάν το στοιχείο δεν έχει δήλωση ή εάν δεν υπάρχουν πληροφορίες χώρου ονομάτων.
 
 ```csharp
 public string TypeNamespace { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο τύπος namespace.
+Το namespace του τύπου.
 
 ### Δείτε επίσης
 
 * class [TypeInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../typeinfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ShadowRoot.Host
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ShadowRoot ιδιοκτησία. Ο κεντρικός υπολογιστής είναι ένα στοιχείο που περιέχει αυτό το ShadowRoot.
+title: "ShadowRoot.Host"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ShadowRoot Host. Ο Host είναι ένα στοιχείο που περιέχει αυτό το ShadowRoot"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/shadowroot/host/
 ---
 ## ShadowRoot.Host property
 
-Ο κεντρικός υπολογιστής είναι ένα στοιχείο που περιέχει αυτό το ShadowRoot.
+Το Host είναι ένα στοιχείο που περιέχει αυτό το ShadowRoot.
 
 ```csharp
 public Element Host { get; }
@@ -18,7 +18,5 @@ public Element Host { get; }
 
 * class [Element](../../element/)
 * class [ShadowRoot](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../shadowroot/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

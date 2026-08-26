@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.NamedItem
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HTMLCollection μέθοδος. Επιστρέφει το στοιχείο στη συλλογή που αντιστοιχεί στο καθορισμένο όνομα.
+title: "HTMLCollection.NamedItem"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος NamedItem του HTMLCollection. Επιστρέφει το στοιχείο στη συλλογή που ταιριάζει με το καθορισμένο όνομα"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.collections/htmlcollection/nameditem/
 ---
 ## HTMLCollection.NamedItem method
 
-Επιστρέφει το στοιχείο στη συλλογή που αντιστοιχεί στο καθορισμένο όνομα.
+Επιστρέφει το στοιχείο στη συλλογή που ταιριάζει με το καθορισμένο όνομα.
 
 ```csharp
 public Element NamedItem(string name)
@@ -18,15 +18,13 @@ public Element NamedItem(string name)
 | --- | --- | --- |
 | name | String | Το όνομα του στοιχείου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αντιστοιχισμένο στοιχείο
+Το ταιριασμένο στοιχείο
 
 ### Δείτε επίσης
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../htmlcollection/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

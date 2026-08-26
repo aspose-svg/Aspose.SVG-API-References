@@ -1,27 +1,25 @@
 ---
-title: Url.Hash
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Url ιδιοκτησία. Λαμβάνει ή ορίζει μια παράσταση συμβολοσειράς για το καθορισμένο τμήμα κατακερματισμού διεύθυνσης URL.
+title: "Url.Hash"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Hash του Url. Λαμβάνει ή ορίζει μια αναπαράσταση συμβολοσειράς για το καθορισμένο τμήμα hash του URL"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/url/hash/
 ---
 ## Url.Hash property
 
-Λαμβάνει ή ορίζει μια παράσταση συμβολοσειράς για το καθορισμένο τμήμα κατακερματισμού διεύθυνσης URL.
+Λαμβάνει ή ορίζει μια αναπαράσταση συμβολοσειράς για το καθορισμένο τμήμα hash του URL.
 
 ```csharp
 public string Hash { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο κατακερματισμός.
+Το hash.
 
 ### Δείτε επίσης
 
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

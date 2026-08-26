@@ -1,20 +1,20 @@
 ---
-title: IGradientBrush.InterpolationColors
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGradientBrush ιδιοκτησία. Λάβετε τα χρώματα παρεμβολής που ορίζουν μια πολύχρωμη γραμμική κλίση.
+title: "IGradientBrush.InterpolationColors"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IGradientBrush InterpolationColors. Λαμβάνει ή ορίζει τα χρώματα παρεμβολής που ορίζουν μια πολυχρωματική γραμμική διαβάθμιση."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/igradientbrush/interpolationcolors/
 ---
 ## IGradientBrush.InterpolationColors property
 
-Λάβετε τα χρώματα παρεμβολής που ορίζουν μια πολύχρωμη γραμμική κλίση.
+Λαμβάνει ή ορίζει τα χρώματα παρεμβολής που ορίζουν ένα πολυχρωματικό γραμμικό gradient.
 
 ```csharp
-public IInterpolationColor[] InterpolationColors { get; }
+public IInterpolationColor[] InterpolationColors { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Χρώματα παρεμβολής.
 
@@ -22,7 +22,5 @@ public IInterpolationColor[] InterpolationColors { get; }
 
 * interface [IInterpolationColor](../../iinterpolationcolor/)
 * interface [IGradientBrush](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../igradientbrush/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface INetworkOperationContext
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.INetworkOperationContext διεπαφή. Παρέχει συναφείς πληροφορίες για τις υπηρεσίες δικτύου.
+title: "Διεπαφή INetworkOperationContext"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η διεπαφή Aspose.Svg.Net.INetworkOperationContext. Παρέχει πληροφορίες περιβάλλοντος για τις δικτυακές υπηρεσίες"
 type: docs
-weight: 2310
+weight: 4380
 url: /el/net/aspose.svg.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface
 
-Παρέχει συναφείς πληροφορίες για τις υπηρεσίες δικτύου.
+Παρέχει συμφραζόμενη πληροφορία για τις υπηρεσίες δικτύου.
 
 ```csharp
 public interface INetworkOperationContext
@@ -16,14 +16,12 @@ public interface INetworkOperationContext
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | Λαμβάνει ή ορίζει το μήνυμα αιτήματος. |
-| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | Λαμβάνει ή ορίζει το μήνυμα απάντησης. |
+| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | Λαμβάνει ή ορίζει το μήνυμα απόκρισης. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

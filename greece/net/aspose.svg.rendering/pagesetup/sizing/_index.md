@@ -1,7 +1,7 @@
 ---
-title: PageSetup.Sizing
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PageSetup ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο μεγέθους.
+title: "PageSetup.Sizing"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "PageSetup Sizing ιδιότητα. Λαμβάνει ή ορίζει τον τύπο μεγέθυνσης."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.rendering/pagesetup/sizing/
@@ -18,7 +18,5 @@ public SizingType Sizing { get; set; }
 
 * enum [SizingType](../../sizingtype/)
 * class [PageSetup](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../pagesetup/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

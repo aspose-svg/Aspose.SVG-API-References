@@ -1,7 +1,7 @@
 ---
-title: Length.op_Equality
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Length μέθοδος. Υλοποιεί τον τελεστή .
+title: "Length.op_Equality"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Length op_Equality. Υλοποιεί τον τελεστή"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/length/op_equality/
@@ -16,17 +16,15 @@ public static bool operator ==(Length a, Length b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Length | Η παράμετρος α. |
-| b | Length | Η παράμετρος β. |
+| a | Length | Η παράμετρος a. |
+| b | Length | Η παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
 ### Δείτε επίσης
 
 * class [Length](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../length/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

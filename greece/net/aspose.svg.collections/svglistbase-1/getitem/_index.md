@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.GetItem
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGListBase μέθοδος. Επιστρέφει το καθορισμένο στοιχείο από τη λίστα.
+title: "SVGListBase-1.GetItem"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος GetItem του SVGListBase. Επιστρέφει το καθορισμένο στοιχείο από τη λίστα"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.collections/svglistbase-1/getitem/
 ---
-## SVGListBase&lt;T&gt;.GetItem method
+## SVGListBase<T>.GetItem method
 
 Επιστρέφει το καθορισμένο στοιχείο από τη λίστα.
 
@@ -16,22 +16,20 @@ public T GetItem(ulong index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | UInt64 | Το ευρετήριο του στοιχείου από τη λίστα που πρόκειται να επιστραφεί. Το πρώτο στοιχείο είναι ο αριθμός 0. |
+| δείκτης | UInt64 | Ο δείκτης του στοιχείου από τη λίστα που πρέπει να επιστραφεί. Το πρώτο στοιχείο είναι ο αριθμός 0. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το επιλεγμένο στοιχείο.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Αυξάνεται εάν ο αριθμός ευρετηρίου είναι μεγαλύτερος ή ίσος με το numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Εμφανίζεται εάν ο αριθμός δείκτη είναι μεγαλύτερος ή ίσος με το numberOfItems. |
 
 ### Δείτε επίσης
 
 * class [SVGListBase&lt;T&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../svglistbase-1/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

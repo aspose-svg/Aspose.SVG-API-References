@@ -1,27 +1,25 @@
 ---
-title: Color.GetLuminosity
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Επιστρέφει μια φωτεινότητα του χρώματος.
+title: "Color.GetLuminosity"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Color GetLuminosity. Επιστρέφει μια φωτεινότητα του Color"
 type: docs
 weight: 340
 url: /el/net/aspose.svg.drawing/color/getluminosity/
 ---
 ## Color.GetLuminosity method
 
-Επιστρέφει μια φωτεινότητα του χρώματος.
+Επιστρέφει τη φωτεινότητα του Color.
 
 ```csharp
 public float GetLuminosity()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια φωτεινότητα του χρώματος.
+Μια φωτεινότητα του Color.
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

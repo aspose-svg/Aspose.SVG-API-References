@@ -1,28 +1,26 @@
 ---
-title: Interface IBrush
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Drawing.IBrush διεπαφή. Δηλώνει μέθοδο λήψης τύπου βούρτσας.
+title: "IBrush Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Drawing.IBrush διεπαφή. Δηλώνει μέθοδο για λήψη του τύπου πινέλου"
 type: docs
-weight: 1430
+weight: 3440
 url: /el/net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface
 
-Δηλώνει μέθοδο λήψης τύπου βούρτσας.
+Δηλώνει μέθοδο για την απόκτηση του τύπου πινέλου.
 
 ```csharp
-public interface IBrush
+public interface IBrush : IDisposable
 ```
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Λήψη τύπου βούρτσας; |
+| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Λαμβάνει τον τύπο του πινέλου ως [`BrushType`](../brushtype/). |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

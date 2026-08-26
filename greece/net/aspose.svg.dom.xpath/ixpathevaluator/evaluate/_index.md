@@ -1,14 +1,14 @@
 ---
-title: IXPathEvaluator.Evaluate
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IXPathEvaluator μέθοδος. Αξιολογεί μια συμβολοσειρά έκφρασης XPath και επιστρέφει ένα αποτέλεσμα του καθορισμένου τύπου εάν είναι δυνατόν.
+title: "IXPathEvaluator.Evaluate"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Evaluate του IXPathEvaluator. Αξιολογεί μια συμβολοσειρά έκφρασης XPath και επιστρέφει ένα αποτέλεσμα του καθορισμένου τύπου, εφόσον είναι δυνατόν."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.xpath/ixpathevaluator/evaluate/
 ---
 ## IXPathEvaluator.Evaluate method
 
-Αξιολογεί μια συμβολοσειρά έκφρασης XPath και επιστρέφει ένα αποτέλεσμα του καθορισμένου τύπου εάν είναι δυνατόν.
+Αξιολογεί μια συμβολοσειρά έκφρασης XPath και επιστρέφει ένα αποτέλεσμα του καθορισμένου τύπου, εφόσον είναι δυνατόν.
 
 ```csharp
 public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolver resolver, 
@@ -17,25 +17,25 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| expression | String | Η συμβολοσειρά έκφρασης XPath προς ανάλυση και αξιολόγηση. |
-| contextNode | Node | ο`συμφραζόμενα` είναι ο κόμβος περιβάλλοντος για την αξιολόγηση αυτής της έκφρασης XPath. Αν το[`IXPathEvaluator`](../) λήφθηκε με χύτευση του [`Document`](../../../aspose.svg.dom/document/) τότε αυτό πρέπει να ανήκει στο ίδιο έγγραφο και πρέπει να είναι [`Document`](../../../aspose.svg.dom/document/) ,[`Element`](../../../aspose.svg.dom/element/) ,[`Attr`](../../../aspose.svg.dom/attr/) ,[`Text`](../../../aspose.svg.dom/text/) , [`CDATASection`](../../../aspose.svg.dom/cdatasection/) ,[`Comment`](../../../aspose.svg.dom/comment/) ,[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) , ήXPathNamespace κόμβος. Εάν ο κόμβος περιβάλλοντος είναι α[`Text`](../../../aspose.svg.dom/text/) ή ένα [`CDATASection`](../../../aspose.svg.dom/cdatasection/)τότε το περιβάλλον ερμηνεύεται ως ολόκληρος ο κόμβος λογικού κειμένου όπως φαίνεται από το XPath, εκτός εάν ο κόμβος είναι κενός, οπότε μπορεί να μην χρησιμεύει ως περιβάλλον XPath. |
-| resolver | IXPathNSResolver | ο`διαλύων` επιτρέπει τη μετάφραση όλων των προθεμάτων, συμπεριλαμβανομένου του the`xml` πρόθεμα namespace, εντός της έκφρασης XPath σε κατάλληλα URI χώρου ονομάτων. Εάν αυτό έχει καθοριστεί ως`μηδενικό` , οποιοδήποτε πρόθεμα χώρου ονομάτων εντός της έκφρασης θα έχει ως αποτέλεσμα [`DOMException`](../../../aspose.svg.dom/domexception/) που ρίχνονται με τον κωδικό`NAMESPACE_ERR`. |
-| type | XPathResultType | Εάν ένα συγκεκριμένο`τύπος` καθορίζεται, τότε το αποτέλεσμα θα επιστραφεί ως ο αντίστοιχος τύπος. Για αποτελέσματα XPath 1.0, αυτή πρέπει να είναι μία από τις τιμές του [`XPathResultType`](../../xpathresulttype/) αρίθμηση. |
-| result | Object | ο`αποτέλεσμα` καθορίζει ένα συγκεκριμένο αντικείμενο αποτελέσματος το οποίο μπορεί να επαναχρησιμοποιηθεί και να επιστραφεί με αυτήν τη μέθοδο. Εάν αυτό προσδιορίζεται ως`μηδενικό`Εάν η υλοποίηση δεν επαναχρησιμοποιήσει το καθορισμένο αποτέλεσμα, ένα νέο αντικείμενο αποτελέσματος θα δημιουργηθεί και θα επιστραφεί. Για αποτελέσματα XPath 1.0 , αυτό το αντικείμενο θα είναι τύπου[`IXPathResult`](../../ixpathresult/). |
+| expression | String | Η συμβολοσειρά της έκφρασης XPath που θα αναλυθεί και αξιολογηθεί. |
+| contextNode | Node | Το `context` είναι ο κόμβος περιβάλλοντος για την αξιολόγηση αυτής της έκφρασης XPath. Εάν το [`IXPathEvaluator`](../) αποκτήθηκε με μετατροπή του [`Document`](../../../aspose.svg.dom/document/), τότε αυτό πρέπει να ανήκει στο ίδιο έγγραφο και πρέπει να είναι ένα [`Document`](../../../aspose.svg.dom/document/), [`Element`](../../../aspose.svg.dom/element/), [`Attr`](../../../aspose.svg.dom/attr/), [`Text`](../../../aspose.svg.dom/text/), [`CDATASection`](../../../aspose.svg.dom/cdatasection/), [`Comment`](../../../aspose.svg.dom/comment/), [`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/), ή κόμβος XPathNamespace. Εάν ο κόμβος περιβάλλοντος είναι ένα [`Text`](../../../aspose.svg.dom/text/) ή ένα [`CDATASection`](../../../aspose.svg.dom/cdatasection/), τότε το περιβάλλον ερμηνεύεται ως ολόκληρος ο λογικός κόμβος κειμένου όπως τον βλέπει το XPath, εκτός εάν ο κόμβος είναι κενός, οπότε δεν μπορεί να λειτουργήσει ως περιβάλλον XPath. |
+| resolver | IXPathNSResolver | Ο `resolver` επιτρέπει τη μετάφραση όλων των προθεμάτων, συμπεριλαμβανομένου του προθέματος ονοματοχώρου `xml`, μέσα στην έκφραση XPath σε κατάλληλα URIs ονοματοχώρων. Εάν αυτό οριστεί ως `null`, οποιοδήποτε πρόθεμα ονοματοχώρου μέσα στην έκφραση θα προκαλέσει την εξαίρεση [`DOMException`](../../../aspose.svg.dom/domexception/) με κώδικα `NAMESPACE_ERR`. |
+| type | XPathResultType | Εάν καθοριστεί συγκεκριμένο `type`, τότε το αποτέλεσμα θα επιστραφεί ως ο αντίστοιχος τύπος. Για αποτελέσματα XPath 1.0, αυτό πρέπει να είναι μία από τις τιμές του enum [`XPathResultType`](../../xpathresulttype/). |
+| result | Object | Το `result` καθορίζει ένα συγκεκριμένο αντικείμενο αποτελέσματος που μπορεί να επαναχρησιμοποιηθεί και να επιστραφεί από αυτή τη μέθοδο. Εάν αυτό οριστεί ως `null` ή η υλοποίηση δεν επαναχρησιμοποιήσει το καθορισμένο αποτέλεσμα, θα δημιουργηθεί και θα επιστραφεί ένα νέο αντικείμενο αποτελέσματος. Για αποτελέσματα XPath 1.0, αυτό το αντικείμενο θα είναι τύπου [`IXPathResult`](../../ixpathresult/). |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αποτέλεσμα της αξιολόγησης της έκφρασης XPath. Για αποτελέσματα XPath 1.0, αυτό το αντικείμενο θα είναι τύπου[`IXPathResult`](../../ixpathresult/).
+Το αποτέλεσμα της αξιολόγησης της έκφρασης XPath. Για αποτελέσματα XPath 1.0, αυτό το αντικείμενο θα είναι τύπου [`IXPathResult`](../../ixpathresult/).
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: Έγινε αν η έκφραση δεν είναι νόμιμη σύμφωνα με με τους κανόνες του[`IXPathEvaluator`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: Αυξάνεται εάν το αποτέλεσμα δεν μπορεί να μετατραπεί για να επιστρέψει τον καθορισμένο τύπο . |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: Αυξάνεται εάν η έκφραση περιέχει προθέματα χώρου ονομάτων τα οποία δεν μπορούν να επιλυθούν από το καθορισμένο[`IXPathNSResolver`](../../ixpathnsresolver/). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: Ο κόμβος προέρχεται από ένα έγγραφο που δεν υποστηρίζεται από αυτό[`IXPathEvaluator`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Ο κόμβος δεν είναι τύπος που επιτρέπεται ως κόμβος περιβάλλοντος XPath ή ο τύπος αιτήματος δεν επιτρέπεται από αυτό[`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: Εμφανίζεται εάν η έκφραση δεν είναι έγκυρη σύμφωνα με τους κανόνες του [`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: Εμφανίζεται εάν το αποτέλεσμα δεν μπορεί να μετατραπεί ώστε να επιστρέψει τον καθορισμένο τύπο. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: Εμφανίζεται εάν η έκφραση περιέχει προθέματα ονοματοχώρων που δεν μπορούν να επιλυθούν από τον καθορισμένο [`IXPathNSResolver`](../../ixpathnsresolver/). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: Ο Node προέρχεται από έγγραφο που δεν υποστηρίζεται από αυτό το [`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Ο Node δεν είναι τύπος που επιτρέπεται ως κόμβος περιβάλλοντος XPath ή ο τύπος αιτήματος δεν επιτρέπεται από αυτό το [`IXPathEvaluator`](../). |
 
 ### Δείτε επίσης
 
@@ -44,7 +44,5 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 * interface [IXPathNSResolver](../../ixpathnsresolver/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathEvaluator](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.XPath](../../ixpathevaluator/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

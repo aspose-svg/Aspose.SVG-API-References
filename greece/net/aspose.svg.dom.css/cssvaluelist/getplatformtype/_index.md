@@ -1,27 +1,25 @@
 ---
-title: CSSValueList.GetPlatformType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSValueList μέθοδος. Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType .
+title: "CSSValueList.GetPlatformType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος CSSValueList GetPlatformType. Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου αντικειμένου ECMAScript."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom.css/cssvaluelist/getplatformtype/
 ---
 ## CSSValueList.GetPlatformType method
 
-Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType .
+Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου αντικειμένου ECMAScript.
 
 ```csharp
 public override Type GetPlatformType()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αντικείμενο ECMAScriptType .
+Ο τύπος αντικειμένου ECMAScript.
 
 ### Δείτε επίσης
 
 * class [CSSValueList](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: MimeType.SubType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MimeType ιδιοκτησία. Λαμβάνει τον τύπο δευτερεύοντος μέσου.
+title: "MimeType.SubType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "MimeType SubType ιδιότητα. Λαμβάνει τον υπο-τύπο μέσου."
 type: docs
 weight: 30
 url: /el/net/aspose.svg/mimetype/subtype/
 ---
 ## MimeType.SubType property
 
-Λαμβάνει τον τύπο δευτερεύοντος μέσου.
+Επιστρέφει τον υποτύπο μέσου.
 
 ```csharp
 public string SubType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο τύπος δευτερεύοντος μέσου.
+Ο υπο-τύπος μέσου.
 
 ### Δείτε επίσης
 
 * class [MimeType](../)
-* χώρος ονομάτων [Aspose.Svg](../../mimetype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

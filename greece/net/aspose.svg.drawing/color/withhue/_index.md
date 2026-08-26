@@ -1,14 +1,14 @@
 ---
-title: Color.WithHue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Color μέθοδος. Δημιουργεί αντίγραφο του χρώματος με καθορισμένη απόχρωση.
+title: "Color.WithHue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος Color WithHue. Δημιουργεί ένα αντίγραφο του Color με την καθορισμένη Απόχρωση."
 type: docs
 weight: 460
 url: /el/net/aspose.svg.drawing/color/withhue/
 ---
 ## Color.WithHue method
 
-Δημιουργεί αντίγραφο του χρώματος με καθορισμένη απόχρωση.
+Δημιουργεί αντίγραφο του Color με το καθορισμένο Hue.
 
 ```csharp
 public Color WithHue(float hue)
@@ -16,16 +16,14 @@ public Color WithHue(float hue)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| hue | Single | Αξία της απόχρωσης. |
+| hue | Single | Τιμή της Απόχρωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-&gt;Ένα νέο παράδειγμα του[`Color`](../) τάξη.
+&gt;Μια νέα παρουσία της κλάσης [`Color`](../).
 
 ### Δείτε επίσης
 
 * class [Color](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../color/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

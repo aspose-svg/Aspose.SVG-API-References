@@ -1,14 +1,14 @@
 ---
-title: Unit.FromHertz
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αFrequency αντικείμενο που αναπαρίσταται σε hertz.
+title: "Unit.FromHertz"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Unit FromHertz. Επιστρέφει ένα αντικείμενο Frequency που αντιπροσωπεύεται σε hertz"
 type: docs
 weight: 110
 url: /el/net/aspose.svg.drawing/unit/fromhertz/
 ---
 ## Unit.FromHertz method
 
-Επιστρέφει α[`Frequency`](../../frequency/) αντικείμενο που αναπαρίσταται σε hertz.
+Επιστρέφει ένα αντικείμενο [`Frequency`](../../frequency/) που αντιπροσωπεύεται σε hertz.
 
 ```csharp
 public static Frequency FromHertz(double value)
@@ -16,17 +16,15 @@ public static Frequency FromHertz(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Frequency`](../../frequency/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Frequency`](../../frequency/).
 
 ### Δείτε επίσης
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

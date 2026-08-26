@@ -1,27 +1,25 @@
 ---
-title: Numeric.GetHashCode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Numeric μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+title: "Numeric.GetHashCode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Numeric GetHashCode method. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την περίπτωση."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/numeric/gethashcode/
 ---
 ## Numeric.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την παρουσία.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κωδικός κατακερματισμού για αυτήν την περίπτωση, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
+Ένας κωδικός κατακερματισμού για αυτήν την παρουσία, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
 
 ### Δείτε επίσης
 
 * class [Numeric](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../numeric/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

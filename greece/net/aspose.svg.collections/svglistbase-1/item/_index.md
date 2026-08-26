@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGListBase ιδιοκτησία. Επιστρέφει το στοιχείο ευρετηρίου στη λίστα.
+title: "SVGListBase-1.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Item του SVGListBase. Επιστρέφει το στοιχείο στη θέση index στη λίστα"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.collections/svglistbase-1/item/
 ---
-## SVGListBase&lt;T&gt; indexer
+## SVGListBase<T> indexer
 
-Επιστρέφει το στοιχείο ευρετηρίου στη λίστα.
+Επιστρέφει το στοιχείο με δείκτη index στη λίστα.
 
 ```csharp
 public T this[ulong index] { get; set; }
@@ -16,27 +16,25 @@ public T this[ulong index] { get; set; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Ευρετήριο στη λίστα. |
+| δείκτης | Δείκτης στη λίστα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αποθηκευμένο αντικείμενο στη θέση ευρετηρίου στη λίστα.
+Το αποθηκευμένο αντικείμενο στη θέση index στη λίστα.
 
-### Αξία περιουσίας
+### Property Value
 
-Ο τύπος του αντικειμένου που είναι αποθηκευμένος στη λίστα.
+Ο τύπος του στοιχείου που αποθηκεύεται στη λίστα.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Αυξάνεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Αυξάνεται εάν ο αριθμός ευρετηρίου είναι μεγαλύτερος ή ίσος με το numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Εμφανίζεται εάν ο αριθμός δείκτη είναι μεγαλύτερος ή ίσος με το numberOfItems. |
 
 ### Δείτε επίσης
 
 * class [SVGListBase&lt;T&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../svglistbase-1/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

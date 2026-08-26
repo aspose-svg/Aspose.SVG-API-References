@@ -1,14 +1,14 @@
 ---
-title: Attr.OwnerElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Attr ιδιοκτησία. Ο κόμβος στοιχείου αυτού του χαρακτηριστικού είναι συνδεδεμένος ή μηδενικός εάν αυτό το χαρακτηριστικό δεν χρησιμοποιείται.
+title: "Attr.OwnerElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Attr OwnerElement. Ο κόμβος Element στον οποίο είναι συνδεδεμένο αυτό το χαρακτηριστικό ή null εάν αυτό το χαρακτηριστικό δεν χρησιμοποιείται."
 type: docs
-weight: 80
+weight: 70
 url: /el/net/aspose.svg.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 
-Ο κόμβος στοιχείου αυτού του χαρακτηριστικού είναι συνδεδεμένος ή μηδενικός εάν αυτό το χαρακτηριστικό δεν χρησιμοποιείται.
+Ο κόμβος Element στον οποίο είναι συνδεδεμένο αυτό το χαρακτηριστικό ή null εάν το χαρακτηριστικό δεν χρησιμοποιείται.
 
 ```csharp
 public Element OwnerElement { get; }
@@ -18,7 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../element/)
 * class [Attr](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../attr/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

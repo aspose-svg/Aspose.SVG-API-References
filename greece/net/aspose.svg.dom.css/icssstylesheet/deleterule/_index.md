@@ -1,7 +1,7 @@
 ---
-title: ICSSStyleSheet.DeleteRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSStyleSheet μέθοδος. Χρησιμοποιείται για τη διαγραφή ενός κανόνα από το φύλλο στυλ.
+title: "ICSSStyleSheet.DeleteRule"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος DeleteRule του ICSSStyleSheet. Χρησιμοποιείται για τη διαγραφή ενός κανόνα από το φύλλο στυλ"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.css/icssstylesheet/deleterule/
@@ -16,12 +16,10 @@ public void DeleteRule(int index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | Int32 | Ο δείκτης. |
+| δείκτης | Int32 | Ο δείκτης. |
 
 ### Δείτε επίσης
 
 * interface [ICSSStyleSheet](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

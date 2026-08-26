@@ -1,33 +1,31 @@
 ---
-title: Url.Href
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Url ιδιοκτησία. Λαμβάνει ή ορίζει μια σειριακή αναπαράσταση για την καθορισμένη παρουσία διεύθυνσης URL.
+title: "Url.Href"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Url Href. Λαμβάνει ή ορίζει μια σειριοποιημένη αναπαράσταση για το καθορισμένο αντικείμενο URL."
 type: docs
 weight: 50
 url: /el/net/aspose.svg/url/href/
 ---
 ## Url.Href property
 
-Λαμβάνει ή ορίζει μια σειριακή αναπαράσταση για την καθορισμένη παρουσία διεύθυνσης URL.
+Λαμβάνει ή ορίζει μια σειριοποιημένη αναπαράσταση για την καθορισμένη παρουσία URL.
 
 ```csharp
 public string Href { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το href.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| Error | TypeError: αυξήθηκε εάν`αξία` δεν μπορεί να αναλυθεί ως έγκυρη διεύθυνση URL. |
+| Σφάλμα | TypeError: προκαλείται εάν το `value` δεν μπορεί να αναλυθεί ως έγκυρο URL. |
 
 ### Δείτε επίσης
 
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

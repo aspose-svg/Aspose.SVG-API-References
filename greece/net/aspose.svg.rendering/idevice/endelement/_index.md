@@ -1,14 +1,14 @@
 ---
-title: IDevice.EndElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Τερματίζει την απόδοση του στοιχείου.
+title: "IDevice.EndElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IDevice EndElement. Τελειώνει την απόδοση του στοιχείου"
 type: docs
 weight: 120
 url: /el/net/aspose.svg.rendering/idevice/endelement/
 ---
 ## IDevice.EndElement method
 
-Τερματίζει την απόδοση του στοιχείου.
+Τελειώνει την απόδοση του στοιχείου.
 
 ```csharp
 public void EndElement(Element element)
@@ -16,13 +16,11 @@ public void EndElement(Element element)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| element | Element | ο[`Element`](../../../aspose.svg.dom/element/). |
+| element | Element | Το [`Element`](../../../aspose.svg.dom/element/). |
 
 ### Δείτε επίσης
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

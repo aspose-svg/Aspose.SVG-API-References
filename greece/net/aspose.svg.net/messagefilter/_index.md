@@ -1,14 +1,14 @@
 ---
-title: Class MessageFilter
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.MessageFilter τάξη. Αντιπροσωπεύει την αφηρημένη βασική κλάση για διαφορετικές κατηγορίες φίλτρων που χρησιμοποιούνται για την αναζήτηση μηνυμάτων
+title: "Τάξη MessageFilter"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Τάξη Aspose.Svg.Net.MessageFilter. Αναπαριστά την αφηρημένη βασική τάξη για διαφορετικές τάξεις φίλτρων που χρησιμοποιούνται για την αναζήτηση μηνυμάτων"
 type: docs
-weight: 2320
+weight: 4390
 url: /el/net/aspose.svg.net/messagefilter/
 ---
 ## MessageFilter class
 
-Αντιπροσωπεύει την αφηρημένη βασική κλάση για διαφορετικές κατηγορίες φίλτρων που χρησιμοποιούνται για την αναζήτηση μηνυμάτων
+Αναπαριστά αφηρημένη βασική κλάση για διαφορετικές κλάσεις φίλτρων που χρησιμοποιούνται για την ερώτηση μηνυμάτων.
 
 ```csharp
 public abstract class MessageFilter
@@ -16,13 +16,11 @@ public abstract class MessageFilter
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [Match](../../aspose.svg.net/messagefilter/match/)(INetworkOperationContext) | Όταν παρακάμπτεται σε μια παράγωγη κλάση, ελέγχει εάν ένα Context ικανοποιεί τα κριτήρια φίλτρου. |
+| abstract [Match](../../aspose.svg.net/messagefilter/match/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | Όταν παρακάμπτεται σε μια παράγωγη τάξη, ελέγχει εάν ένα Context ικανοποιεί τα κριτήρια του φίλτρου. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

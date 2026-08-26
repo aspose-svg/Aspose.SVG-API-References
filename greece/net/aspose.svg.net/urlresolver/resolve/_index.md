@@ -1,14 +1,14 @@
 ---
-title: UrlResolver.Resolve
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UrlResolver μέθοδος. Επιλύει το απόλυτο URI από το βασικό και σχετικό URI.
+title: "UrlResolver.Resolve"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Resolve του UrlResolver. Επιστρέφει το απόλυτο URI από το βασικό και το σχετικό URI"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net/urlresolver/resolve/
 ---
 ## UrlResolver.Resolve method
 
-Επιλύει το απόλυτο URI από το βασικό και σχετικό URI.
+Επιλύει το απόλυτο URI από τη βάση και τα σχετικά URIs.
 
 ```csharp
 public virtual Url Resolve(string baseUri, string relativeUri)
@@ -19,7 +19,7 @@ public virtual Url Resolve(string baseUri, string relativeUri)
 | baseUri | String | Το βασικό URI. |
 | relativeUri | String | Το σχετικό URI. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το απόλυτο URI
 
@@ -27,7 +27,5 @@ public virtual Url Resolve(string baseUri, string relativeUri)
 
 * class [Url](../../../aspose.svg/url/)
 * class [UrlResolver](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../urlresolver/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

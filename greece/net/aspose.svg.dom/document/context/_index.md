@@ -1,28 +1,26 @@
 ---
-title: Document.Context
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Λαμβάνει το τρέχον περιβάλλον περιήγησης.
+title: "Document.Context"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document Context ιδιότητα. Λαμβάνει το τρέχον περιβάλλον περιήγησης."
 type: docs
 weight: 70
 url: /el/net/aspose.svg.dom/document/context/
 ---
 ## Document.Context property
 
-Λαμβάνει το τρέχον περιβάλλον περιήγησης.
+Λαμβάνει το τρέχον πλαίσιο περιήγησης.
 
 ```csharp
 public IBrowsingContext Context { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλαίσιο.
+Το context.
 
 ### Δείτε επίσης
 
 * interface [IBrowsingContext](../../ibrowsingcontext/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

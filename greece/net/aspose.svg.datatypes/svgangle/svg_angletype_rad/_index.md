@@ -1,7 +1,7 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_RAD
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGAngle πεδίο. Ο τύπος μονάδας είναι ακτίνια.
+title: "SVGAngle.SVG_ANGLETYPE_RAD"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVG_ANGLETYPE_RAD του SVGAngle. Ο τύπος μονάδας είναι ακτίνια"
 type: docs
 weight: 100
 url: /el/net/aspose.svg.datatypes/svgangle/svg_angletype_rad/
@@ -17,7 +17,5 @@ public const ushort SVG_ANGLETYPE_RAD;
 ### Δείτε επίσης
 
 * class [SVGAngle](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgangle/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

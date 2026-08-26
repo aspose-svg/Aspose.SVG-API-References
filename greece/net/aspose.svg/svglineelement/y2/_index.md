@@ -1,28 +1,26 @@
 ---
-title: SVGLineElement.Y2
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGLineElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό y2 στο δεδομένο στοιχείο line.
+title: "SVGLineElement.Y2"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGLineElement Y2. Αντιστοιχεί στην ιδιότητα y2 του δεδομένου στοιχείου γραμμής."
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svglineelement/y2/
 ---
 ## SVGLineElement.Y2 property
 
-Αντιστοιχεί στο χαρακτηριστικό 'y2' στο δεδομένο στοιχείο 'line'.
+Αντιστοιχεί στο χαρακτηριστικό ‘y2’ του δεδομένου στοιχείου ‘line’.
 
 ```csharp
 public SVGAnimatedLength Y2 { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'y2' του δεδομένου στοιχείου 'line'.
+Η ιδιότητα ‘y2’ του δεδομένου στοιχείου ‘line’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svglineelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

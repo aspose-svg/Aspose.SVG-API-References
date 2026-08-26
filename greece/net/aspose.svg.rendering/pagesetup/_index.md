@@ -1,14 +1,14 @@
 ---
-title: Class PageSetup
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.PageSetup τάξη. Αντιπροσωπεύει ένα αντικείμενο ρύθμισης σελίδας που χρησιμοποιείται για τη διαμόρφωση εξόδου pageset.
+title: "PageSetup Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.PageSetup κλάση. Αντιπροσωπεύει ένα αντικείμενο ρύθμισης σελίδας που χρησιμοποιείται για τη διαμόρφωση εξόδου σελίδας-συνόλου"
 type: docs
-weight: 2900
+weight: 4970
 url: /el/net/aspose.svg.rendering/pagesetup/
 ---
 ## PageSetup class
 
-Αντιπροσωπεύει ένα αντικείμενο ρύθμισης σελίδας που χρησιμοποιείται για τη διαμόρφωση εξόδου page-set.
+Αναπαριστά ένα αντικείμενο ρύθμισης σελίδας που χρησιμοποιείται για τη διαμόρφωση του συνόλου εξόδου σελίδας.
 
 ```csharp
 public class PageSetup
@@ -16,24 +16,22 @@ public class PageSetup
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AnyPage](../../aspose.svg.rendering/pagesetup/anypage/) { get; set; } | Λαμβάνει ή ορίζει όλες τις ρυθμίσεις παραμέτρων σελίδων στην ακολουθία σελίδων. |
-| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority/) { get; set; } | Παίρνει ή θέτει[`AtPagePriority`](../atpagepriority/) που θα καθορίσει τη σειρά εφαρμογής των δηλώσεων μεγέθους σελίδας. Από προεπιλογή οι επιλογές θα αντικαταστήσουν το css`@σελίδα` κανόνες . |
-| [FirstPage](../../aspose.svg.rendering/pagesetup/firstpage/) { get; set; } | Λαμβάνει ή ορίζει τη διαμόρφωση της πρώτης σελίδας. |
-| [LeftPage](../../aspose.svg.rendering/pagesetup/leftpage/) { get; } | Λαμβάνει τη διαμόρφωση περίεργης σελίδας. |
-| [RightPage](../../aspose.svg.rendering/pagesetup/rightpage/) { get; } | Λαμβάνει τη διαμόρφωση ζυγής σελίδας. |
+| [AnyPage](../../aspose.svg.rendering/pagesetup/anypage/) { get; set; } | Λαμβάνει ή ορίζει όλες τις ρυθμίσεις των σελίδων στη ακολουθία σελίδων. |
+| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority/) { get; set; } | Λαμβάνει ή ορίζει το [`AtPagePriority`](../atpagepriority/) που θα καθορίσει τη σειρά εφαρμογής των δηλώσεων μεγέθους σελίδας. Από προεπιλογή, οι επιλογές θα παρακάμπτουν τους κανόνες css `@page`. |
+| [FirstPage](../../aspose.svg.rendering/pagesetup/firstpage/) { get; set; } | Λαμβάνει ή ορίζει τη ρύθμιση της πρώτης σελίδας. |
+| [LeftPage](../../aspose.svg.rendering/pagesetup/leftpage/) { get; } | Λαμβάνει τη ρύθμιση της Μονής Σελίδας. |
+| [RightPage](../../aspose.svg.rendering/pagesetup/rightpage/) { get; } | Λαμβάνει τη ρύθμιση της Ζυγής Σελίδας. |
 | [Sizing](../../aspose.svg.rendering/pagesetup/sizing/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο μεγέθους. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [SetLeftRightPage](../../aspose.svg.rendering/pagesetup/setleftrightpage/)(Page, Page) | Ορίζει τη διαμόρφωση της σελίδας Αριστερή/Δεξιά. |
+| [SetLeftRightPage](../../aspose.svg.rendering/pagesetup/setleftrightpage/)(*[Page](../../aspose.svg.drawing/page/), [Page](../../aspose.svg.drawing/page/)*) | Ορίζει τη ρύθμιση της αριστερής/δεξιάς σελίδας. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

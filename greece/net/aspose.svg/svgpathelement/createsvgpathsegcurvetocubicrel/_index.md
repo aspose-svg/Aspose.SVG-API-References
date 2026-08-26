@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicRel
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathElement μέθοδος. Επιστρέφει ένα αυτόνομο χωρίς γονικό αντικείμενο SVGPathSegCurvetoCubicRel.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicRel"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGPathElement CreateSVGPathSegCurvetoCubicRel. Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegCurvetoCubicRel"
 type: docs
 weight: 70
 url: /el/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicRel method
 
-Επιστρέφει ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegCurvetoCubicRel.
+Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegCurvetoCubicRel.
 
 ```csharp
 public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float y, float x1, 
@@ -17,22 +17,20 @@ public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float 
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Single | Η σχετική συντεταγμένη X για το τελικό σημείο αυτού του τμήματος διαδρομής. |
-| y | Single | Η σχετική συντεταγμένη Y για το τελικό σημείο αυτού του τμήματος διαδρομής. |
-| x1 | Single | Η σχετική συντεταγμένη Χ για το πρώτο σημείο ελέγχου. |
+| x | Single | Η σχετική συντεταγμένη X για το σημείο λήξης αυτού του τμήματος διαδρομής. |
+| y | Single | Η σχετική συντεταγμένη Y για το σημείο λήξης αυτού του τμήματος διαδρομής. |
+| x1 | Single | Η σχετική συντεταγμένη X για το πρώτο σημείο ελέγχου. |
 | y1 | Single | Η σχετική συντεταγμένη Y για το πρώτο σημείο ελέγχου. |
-| x2 | Single | Η σχετική συντεταγμένη Χ για το δεύτερο σημείο ελέγχου. |
+| x2 | Single | Η σχετική συντεταγμένη X για το δεύτερο σημείο ελέγχου. |
 | y2 | Single | Η σχετική συντεταγμένη Y για το δεύτερο σημείο ελέγχου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegCurvetoCubicRel.
+Ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegCurvetoCubicRel.
 
 ### Δείτε επίσης
 
 * class [SVGPathSegCurvetoCubicRel](../../../aspose.svg.paths/svgpathsegcurvetocubicrel/)
 * class [SVGPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.MessageHandlers
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Το Aspose.Svg.Net.MessageHandlers Ο χώρος ονομάτων is παρουσιάζεται από κλάσεις  χειριστές μηνυμάτων διαφορετικών πρωτοκόλλων.
+title: "Aspose.Svg.Net.MessageHandlers"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων Aspose.Svg.Net.MessageHandlers παρουσιάζεται από κλάσεις - χειριστές μηνυμάτων διαφόρων πρωτοκόλλων."
 type: docs
-weight: 220
+weight: 240
 url: /el/net/aspose.svg.net.messagehandlers/
 ---
-Το **Aspose.Svg.Net.MessageHandlers** Ο χώρος ονομάτων is παρουσιάζεται από κλάσεις - χειριστές μηνυμάτων διαφορετικών πρωτοκόλλων.
+Το **Aspose.Svg.Net.MessageHandlers** namespace παρουσιάζεται από κλάσεις - χειριστές μηνυμάτων διαφορετικών πρωτοκόλλων.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Αντιπροσωπεύει το`αρχείο:` χειριστής μηνυμάτων πρωτοκόλλου. |
-| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Αντιπροσωπεύει το`ftp:` χειριστής μηνυμάτων πρωτοκόλλου. |
-| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Αντιπροσωπεύει το`http:` χειριστής μηνυμάτων πρωτοκόλλου. |
-
-
+| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Αναπαριστά τον χειριστή μηνυμάτων του πρωτοκόλλου `file:`. |
+| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Αναπαριστά τον χειριστή μηνυμάτων του πρωτοκόλλου `ftp:`. |
+| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Αναπαριστά τον χειριστή μηνυμάτων του πρωτοκόλλου `http:`. |

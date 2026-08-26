@@ -1,14 +1,14 @@
 ---
-title: Attr.NamespaceURI
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Attr ιδιοκτησία. Το URI χώρου ονομάτων αυτού του κόμβου ή μηδενικό εάν δεν έχει καθοριστεί.
+title: "Attr.NamespaceURI"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Attr NamespaceURI. Το URI του ονόματος χώρου αυτού του κόμβου ή null εάν δεν έχει οριστεί"
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.svg.dom/attr/namespaceuri/
 ---
 ## Attr.NamespaceURI property
 
-Το URI χώρου ονομάτων αυτού του κόμβου ή μηδενικό εάν δεν έχει καθοριστεί.
+Το URI του χώρου ονομάτων αυτού του κόμβου, ή null εάν δεν έχει οριστεί.
 
 ```csharp
 public override string NamespaceURI { get; }
@@ -17,7 +17,5 @@ public override string NamespaceURI { get; }
 ### Δείτε επίσης
 
 * class [Attr](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../attr/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

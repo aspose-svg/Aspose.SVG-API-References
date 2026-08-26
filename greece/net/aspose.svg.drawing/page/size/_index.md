@@ -1,20 +1,20 @@
 ---
-title: Page.Size
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Page ιδιοκτησία. Λαμβάνει ή ορίζει το μέγεθος σελίδας.
+title: "Page.Size"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Page Size. Λαμβάνει ή ορίζει το μέγεθος της σελίδας."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/page/size/
 ---
 ## Page.Size property
 
-Λαμβάνει ή ορίζει το μέγεθος σελίδας.
+Λαμβάνει ή ορίζει το μέγεθος της σελίδας.
 
 ```csharp
 public Size Size { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος.
 
@@ -22,7 +22,5 @@ public Size Size { get; set; }
 
 * class [Size](../../size/)
 * class [Page](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../page/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

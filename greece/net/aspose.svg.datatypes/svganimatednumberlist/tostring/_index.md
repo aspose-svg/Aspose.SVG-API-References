@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedNumberList.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGAnimatedNumberList μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "SVGAnimatedNumberList.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGAnimatedNumberList ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.datatypes/svganimatednumberlist/tostring/
 ---
 ## SVGAnimatedNumberList.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumberList](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svganimatednumberlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

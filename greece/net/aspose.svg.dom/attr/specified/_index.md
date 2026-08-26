@@ -1,27 +1,25 @@
 ---
-title: Attr.Specified
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Attr ιδιοκτησία. Σωστό εάν αυτό το χαρακτηριστικό είχε ρητά δοθεί μια τιμή στο έγγραφο της παρουσίας ψευδής διαφορετικά.
+title: "Attr.Specified"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Attr Specified. True εάν αυτό το χαρακτηριστικό δόθηκε ρητά τιμή στο instance document false διαφορετικά"
 type: docs
-weight: 110
+weight: 90
 url: /el/net/aspose.svg.dom/attr/specified/
 ---
 ## Attr.Specified property
 
-Σωστό εάν αυτό το χαρακτηριστικό είχε ρητά δοθεί μια τιμή στο έγγραφο της παρουσίας, ψευδής διαφορετικά.
+Αληθές εάν αυτό το χαρακτηριστικό δόθηκε ρητά τιμή στο έγγραφο παραδείγματος, ψευδές διαφορετικά.
 
 ```csharp
 public bool Specified { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν ορίζεται? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν καθοριστεί· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Attr](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../attr/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

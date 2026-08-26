@@ -1,14 +1,14 @@
 ---
-title: Document.OnAbort
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnAbort.
+title: "Document.OnAbort"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document OnAbort συμβάν. Λαμβάνει ή ορίζει event handler για το συμβάν OnAbort"
 type: docs
 weight: 280
 url: /el/net/aspose.svg.dom/document/onabort/
 ---
 ## Document.OnAbort event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnAbort.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnAbort.
 
 ```csharp
 public event DOMEventHandler OnAbort;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnAbort;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

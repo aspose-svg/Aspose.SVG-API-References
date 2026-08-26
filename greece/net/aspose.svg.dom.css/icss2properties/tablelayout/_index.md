@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.TableLayout
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας διάταξης πίνακα στο CSS2.
+title: "ICSS2Properties.TableLayout"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ICSS2Properties TableLayout. Δείτε τον ορισμό της ιδιότητας table-layout στο CSS2"
 type: docs
-weight: 1060
+weight: 1090
 url: /el/net/aspose.svg.dom.css/icss2properties/tablelayout/
 ---
 ## ICSS2Properties.TableLayout property
 
-Δείτε τον ορισμό της ιδιότητας διάταξης πίνακα στο CSS2.
+Δείτε τον ορισμό ιδιότητας table-layout στο CSS2.
 
 ```csharp
 public string TableLayout { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα διάταξης πίνακα
+ιδιότητα table-layout
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

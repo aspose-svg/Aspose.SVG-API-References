@@ -1,14 +1,14 @@
 ---
-title: RequestMessage.RequestMessage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: RequestMessage κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουRequestMessage τάξη.
+title: "RequestMessage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "RequestMessage constructor. Αρχικοποιεί μια νέα παρουσία της κλάσης RequestMessage"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/requestmessage/requestmessage/
 ---
-## RequestMessage(string) {#constructor_1}
+## RequestMessage(*string*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`RequestMessage`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`RequestMessage`](../).
 
 ```csharp
 public RequestMessage(string address)
@@ -16,19 +16,19 @@ public RequestMessage(string address)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| address | String | Η διεύθυνση αιτήματος. |
+| address | String | Η διεύθυνση του αιτήματος. |
 
 ### Δείτε επίσης
 
 * class [RequestMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../requestmessage/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RequestMessage(Url) {#constructor}
+## RequestMessage(*[Url](../../../aspose.svg/url/)*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`RequestMessage`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`RequestMessage`](../).
 
 ```csharp
 public RequestMessage(Url uri)
@@ -36,13 +36,11 @@ public RequestMessage(Url uri)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| uri | Url | Το URL αιτήματος. |
+| uri | Url | Το URL του αιτήματος. |
 
 ### Δείτε επίσης
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../requestmessage/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.X
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFESpecularLightingElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό x στο δεδομένο στοιχείο φίλτρο.
+title: "SVGFESpecularLightingElement.X"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFESpecularLightingElement X ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό x στο δεδομένο στοιχείο φίλτρου"
 type: docs
 weight: 100
 url: /el/net/aspose.svg.filters/svgfespecularlightingelement/x/
 ---
 ## SVGFESpecularLightingElement.X property
 
-Αντιστοιχεί στο χαρακτηριστικό "x" στο δεδομένο στοιχείο "φίλτρο".
+Αντιστοιχεί στο χαρακτηριστικό ‘x’ του δεδομένου στοιχείου ‘filter’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό «x» του δεδομένου στοιχείου «φίλτρου».
+Το χαρακτηριστικό ‘x’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFESpecularLightingElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.DOMImplementation
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IBrowsingContext ιδιοκτησία. Λαμβάνει την υλοποίηση DOM.
+title: "IBrowsingContext.DOMImplementation"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IB BrowsingContext DOMImplementation. Λαμβάνει την υλοποίηση DOM"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
@@ -14,15 +14,13 @@ url: /el/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
 public IDOMImplementation DOMImplementation { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η υλοποίηση του DOM.
+Η υλοποίηση DOM.
 
 ### Δείτε επίσης
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

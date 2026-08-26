@@ -1,23 +1,21 @@
 ---
-title: Aspose.Svg.Rendering.Pdf.Encryption
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Το Aspose.Svg.Rendering.Pdf.Encryption Ο χώρος ονομάτων περιέχει τάξεις δεδομένων που περιγράφουν λεπτομέρειες κρυπτογράφησης pdf όπως κωδικό πρόσβασης αλγόριθμο κρυπτογράφησης και ούτω καθεξής.
+title: "Aspose.Svg.Rendering.Pdf.Encryption"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Το namespace Aspose.Svg.Rendering.Pdf.Encryption περιέχει κλάσεις δεδομένων που περιγράφουν λεπτομέρειες κρυπτογράφησης PDF όπως αλγόριθμο κρυπτογράφησης κωδικού πρόσβασης κ.λπ."
 type: docs
-weight: 280
+weight: 300
 url: /el/net/aspose.svg.rendering.pdf.encryption/
 ---
-Το **Aspose.Svg.Rendering.Pdf.Encryption** Ο χώρος ονομάτων περιέχει τάξεις δεδομένων που περιγράφουν λεπτομέρειες κρυπτογράφησης pdf, όπως κωδικό πρόσβασης, αλγόριθμο κρυπτογράφησης και ούτω καθεξής.
+Το **Aspose.Svg.Rendering.Pdf.Encryption** namespace περιέχει κλάσεις δεδομένων που περιγράφουν λεπτομέρειες κρυπτογράφησης pdf όπως κωδικός πρόσβασης, αλγόριθμος κρυπτογράφησης κ.λπ.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [PdfEncryptionInfo](./pdfencryptioninfo/) | Περιέχει λεπτομέρειες για κρυπτογράφηση pdf. |
+| [PdfEncryptionInfo](./pdfencryptioninfo/) | Περιέχει λεπτομέρειες για μια κρυπτογράφηση PDF. |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | Αριθμός λειτουργίας κρυπτογράφησης. Περιγράψτε χρησιμοποιώντας αλγόριθμο και μήκος κλειδιού. Αυτός ο αριθμός επεκτείνεται για να μπορέσει να αυξήσει περαιτέρω τη λειτουργικότητα. Αυτός ο αριθμός υλοποιεί το μοτίβο "Base-to-Core". |
-| [PdfPermissions](./pdfpermissions/) | Αυτός ο αριθμός αντιπροσωπεύει τα δικαιώματα του χρήστη για ένα pdf. |
-
-
+| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | Enum τρόπου κρυπτογράφησης. Περιγράφει τη χρήση αλγορίθμου και μήκους κλειδιού. Αυτό το enum επεκτείνεται ώστε να είναι δυνατόν να αυξηθεί περαιτέρω η λειτουργικότητα. Αυτό το enum υλοποιεί το πρότυπο "Base-to-Core" pattern. |
+| [PdfPermissions](./pdfpermissions/) | Αυτό το enum αντιπροσωπεύει τα δικαιώματα του χρήστη για ένα PDF. |

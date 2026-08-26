@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.FontStretch
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας fontstretch στο CSS2.
+title: "ICSS2Properties.FontStretch"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties FontStretch ιδιότητα. Δείτε τον ορισμό της ιδιότητας font-stretch στο CSS2"
 type: docs
 weight: 510
 url: /el/net/aspose.svg.dom.css/icss2properties/fontstretch/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/fontstretch/
 public string FontStretch { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 ιδιότητα font-stretch
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

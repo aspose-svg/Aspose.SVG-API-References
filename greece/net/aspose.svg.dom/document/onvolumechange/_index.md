@@ -1,14 +1,14 @@
 ---
-title: Document.OnVolumeChange
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnVolumeChange.
+title: "Document.OnVolumeChange"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnVolumeChange. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το γεγονός OnVolumeChange"
 type: docs
 weight: 770
 url: /el/net/aspose.svg.dom/document/onvolumechange/
 ---
 ## Document.OnVolumeChange event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnVolumeChange.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnVolumeChange.
 
 ```csharp
 public event DOMEventHandler OnVolumeChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnVolumeChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

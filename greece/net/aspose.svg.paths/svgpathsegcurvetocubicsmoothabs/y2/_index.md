@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegCurvetoCubicSmoothAbs.Y2
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathSegCurvetoCubicSmoothAbs ιδιοκτησία. Η απόλυτη συντεταγμένη Υ για το δεύτερο σημείο ελέγχου.
+title: "SVGPathSegCurvetoCubicSmoothAbs.Y2"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGPathSegCurvetoCubicSmoothAbs Y2 ιδιότητα. Η απόλυτη συντεταγμένη Y για το δεύτερο σημείο ελέγχου"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/y2/
 ---
 ## SVGPathSegCurvetoCubicSmoothAbs.Y2 property
 
-Η απόλυτη συντεταγμένη Υ για το δεύτερο σημείο ελέγχου.
+Η απόλυτη συντεταγμένη Y για το δεύτερο σημείο ελέγχου.
 
 ```csharp
 public float Y2 { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η απόλυτη συντεταγμένη Υ.
+Η απόλυτη συντεταγμένη Y.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGPathSegCurvetoCubicSmoothAbs](../)
-* χώρος ονομάτων [Aspose.Svg.Paths](../../svgpathsegcurvetocubicsmoothabs/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

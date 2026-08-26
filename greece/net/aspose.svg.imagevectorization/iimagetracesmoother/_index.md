@@ -1,14 +1,14 @@
 ---
-title: Interface IImageTraceSmoother
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ImageVectorization.IImageTraceSmoother διεπαφή. Η διεπαφή IImageTraceSmoother είναι υπεύθυνη για την εξομάλυνση του ίχνους.
+title: "IImageTraceSmoother Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.ImageVectorization.IImageTraceSmoother διεπαφή. Η διεπαφή IImageTraceSmoother είναι υπεύθυνη για την εξομάλυνση του ίχνους"
 type: docs
-weight: 2100
+weight: 4170
 url: /el/net/aspose.svg.imagevectorization/iimagetracesmoother/
 ---
 ## IImageTraceSmoother interface
 
-Η διεπαφή IImageTraceSmoother είναι υπεύθυνη για την εξομάλυνση του ίχνους.
+Η διεπαφή IImageTraceSmoother είναι υπεύθυνη για την εξομάλυνση της ίχνης.
 
 ```csharp
 public interface IImageTraceSmoother
@@ -16,13 +16,11 @@ public interface IImageTraceSmoother
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth/)(IEnumerable&lt;PointF&gt;) | Εξομαλύνει το ίχνος. |
+| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth/)(*IEnumerable&lt;PointF&gt;*) | Εξομαλύνει το ίχνος. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

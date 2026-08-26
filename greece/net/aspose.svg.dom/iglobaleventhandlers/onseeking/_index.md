@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnSeeking
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnSeeking.
+title: "IGlobalEventHandlers.OnSeeking"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnSeeking συμβάν. Λαμβάνει ή ορίζει τη διαχείριση συμβάντος για το συμβάν OnSeeking"
 type: docs
 weight: 410
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onseeking/
 ---
 ## IGlobalEventHandlers.OnSeeking event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnSeeking.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnSeeking.
 
 ```csharp
 public event DOMEventHandler OnSeeking;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSeeking;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

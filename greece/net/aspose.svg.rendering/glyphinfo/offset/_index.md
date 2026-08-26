@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Offset
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GlyphInfo ιδιοκτησία. Λαμβάνει τη μετατόπιση στην επόμενη γλυφή σε σημεία.
+title: "GlyphInfo.Offset"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα GlyphInfo Offset. Λαμβάνει την απόσταση προς το επόμενο glyph σε points."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.rendering/glyphinfo/offset/
 ---
 ## GlyphInfo.Offset property
 
-Λαμβάνει τη μετατόπιση στην επόμενη γλυφή σε σημεία.
+Λαμβάνει την απόσταση προς τον επόμενο γλύφο σε μονάδες σημείου.
 
 ```csharp
 public float Offset { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Μετατόπιση σε πόντους.
+Απόσταση σε points.
 
 ### Δείτε επίσης
 
 * struct [GlyphInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../glyphinfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

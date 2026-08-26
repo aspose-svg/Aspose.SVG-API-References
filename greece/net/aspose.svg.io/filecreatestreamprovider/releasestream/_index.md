@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.ReleaseStream
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FileCreateStreamProvider μέθοδος. Απελευθερώνει τη ροή.
+title: "FileCreateStreamProvider.ReleaseStream"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "FileCreateStreamProvider ReleaseStream method. Απελευθερώνει τη ροή"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.io/filecreatestreamprovider/releasestream/
@@ -16,12 +16,10 @@ public void ReleaseStream(Stream stream)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Το stream απελευθερώνεται. |
+| stream | Stream | Η ροή που απελευθερώνεται. |
 
 ### Δείτε επίσης
 
 * class [FileCreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

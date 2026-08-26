@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Type
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGComponentTransferFunctionElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό type στο δεδομένο στοιχείο. Λαμβάνει μία από τις σταθερές SVG_FECOMPONENTTRANSFER_TYPE_ που ορίζονται σε αυτήν τη διεπαφή.
+title: "SVGComponentTransferFunctionElement.Type"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Type του SVGComponentTransferFunctionElement. Αντιστοιχεί στο χαρακτηριστικό type στο συγκεκριμένο στοιχείο. Δέχεται μία από τις σταθερές SVG_FECOMPONENTTRANSFER_TYPE_ που ορίζονται σε αυτή τη διεπαφή"
 type: docs
 weight: 70
 url: /el/net/aspose.svg/svgcomponenttransferfunctionelement/type/
 ---
 ## SVGComponentTransferFunctionElement.Type property
 
-Αντιστοιχεί στο χαρακτηριστικό 'type' στο δεδομένο στοιχείο. Λαμβάνει μία από τις σταθερές SVG_FECOMPONENTTRANSFER_TYPE_* που ορίζονται σε αυτήν τη διεπαφή.
+Αντιστοιχεί στο χαρακτηριστικό ‘type’ στο δεδομένο στοιχείο. Παίρνει μία από τις σταθερές SVG_FECOMPONENTTRANSFER_TYPE_* που ορίζονται σε αυτή τη διεπαφή.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'τύπος' του δεδομένου στοιχείου.
+Το χαρακτηριστικό ‘type’ του δεδομένου στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGComponentTransferFunctionElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.FontSizeAdjust
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας fontsizeadjust στο CSS2.
+title: "ICSS2Properties.FontSizeAdjust"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα FontSizeAdjust του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας font-size-adjust στο CSS2"
 type: docs
 weight: 500
 url: /el/net/aspose.svg.dom.css/icss2properties/fontsizeadjust/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/fontsizeadjust/
 public string FontSizeAdjust { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ιδιότητα προσαρμογής μεγέθους γραμματοσειράς
+ιδιότητα font-size-adjust
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

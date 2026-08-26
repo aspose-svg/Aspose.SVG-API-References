@@ -1,7 +1,7 @@
 ---
-title: ICSSStyleSheet.CSSRules
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSStyleSheet ιδιοκτησία. Η λίστα όλων των κανόνων CSS που περιέχονται στο φύλλο στυλ. Αυτό περιλαμβάνει τόσο σύνολα κανόνων όσο και atrules.
+title: "ICSSStyleSheet.CSSRules"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα CSSRules του ICSSStyleSheet. Η λίστα όλων των κανόνων CSS που περιέχονται στο φύλλο στυλ. Αυτό περιλαμβάνει τόσο σύνολα κανόνων όσο και at-rules"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/icssstylesheet/cssrules/
@@ -18,7 +18,5 @@ public ICSSRuleList CSSRules { get; }
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSStyleSheet](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

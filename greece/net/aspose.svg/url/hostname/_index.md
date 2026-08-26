@@ -1,27 +1,25 @@
 ---
-title: Url.Hostname
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Url ιδιοκτησία. Λαμβάνει ή ορίζει μια παράσταση συμβολοσειράς για το καθορισμένο όνομα κεντρικού URL.
+title: "Url.Hostname"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Url Hostname. Λαμβάνει ή ορίζει μια αναπαράσταση συμβολοσειράς για το καθορισμένο όνομα κεντρικού υπολογιστή URL."
 type: docs
 weight: 40
 url: /el/net/aspose.svg/url/hostname/
 ---
 ## Url.Hostname property
 
-Λαμβάνει ή ορίζει μια παράσταση συμβολοσειράς για το καθορισμένο όνομα κεντρικού URL.
+Λαμβάνει ή ορίζει μια αναπαράσταση συμβολοσειράς για το καθορισμένο hostname του URL.
 
 ```csharp
 public string Hostname { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα του οικοδεσπότη.
+Το όνομα του κεντρικού υπολογιστή.
 
 ### Δείτε επίσης
 
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

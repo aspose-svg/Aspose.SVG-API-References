@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Has
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IUrlSearchParams μέθοδος. Ελέγχει εάν υπάρχει ένα ζεύγος ονόματοςτιμής του οποίου το όνομα είναιόνομα στη λίστα.
+title: "IUrlSearchParams.Has"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IUrlSearchParams Has μέθοδος. Ελέγχει αν υπάρχει ζεύγος όνομα‑τιμή του οποίου το όνομα είναι name στη λίστα."
 type: docs
 weight: 50
 url: /el/net/aspose.svg/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
 
-Ελέγχει εάν υπάρχει ένα ζεύγος ονόματος-τιμής του οποίου το όνομα είναι`όνομα` στη λίστα.
+Ελέγχει αν υπάρχει ένα ζεύγος όνομα-τιμή του οποίου το όνομα είναι `name` στη λίστα.
 
 ```csharp
 public bool Has(string name)
@@ -16,16 +16,14 @@ public bool Has(string name)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Κλειδί που θα χρησιμοποιηθεί για την εύρεση ζεύγους ονόματος-τιμής. |
+| name | String | Κλειδί που θα χρησιμοποιηθεί για την εύρεση ζεύγους όνομα‑τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`Αληθής` εάν υπάρχει ένα ζεύγος ονόματος-τιμής του οποίου το όνομα είναι`όνομα` στη λίστα, και`ψευδής` σε διαφορετική περίπτωση.
+`True` εάν υπάρχει ζεύγος όνομα‑τιμή του οποίου το όνομα είναι `name` στη λίστα, και `false` διαφορετικά.
 
 ### Δείτε επίσης
 
 * interface [IUrlSearchParams](../)
-* χώρος ονομάτων [Aspose.Svg](../../iurlsearchparams/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ContentDispositionHeaderValue.FileName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ContentDispositionHeaderValue ιδιοκτησία. Το όνομα του αποθηκευμένου αρχείου.
+title: "ContentDispositionHeaderValue.FileName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ContentDispositionHeaderValue FileName property. Το όνομα του αποθηκευμένου αρχείου"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.net.headers/contentdispositionheadervalue/filename/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.net.headers/contentdispositionheadervalue/filename/
 public string FileName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του αρχείου.
 
 ### Δείτε επίσης
 
 * class [ContentDispositionHeaderValue](../)
-* χώρος ονομάτων [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

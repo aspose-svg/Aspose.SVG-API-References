@@ -1,14 +1,14 @@
 ---
-title: SVGPathSeg.PATHSEG_CURVETO_CUBIC_ABS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathSeg πεδίο. Αντιστοιχεί σε μια εντολή δεδομένων διαδρομής απόλυτο κυβικό Bézier curveto C.
+title: "SVGPathSeg.PATHSEG_CURVETO_CUBIC_ABS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVGPathSeg PATHSEG_CURVETO_CUBIC_ABS. Αντιστοιχεί σε μια απόλυτη κυβική Bézier εντολή curveto C δεδομένων διαδρομής."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_abs/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_CUBIC_ABS field
 
-Αντιστοιχεί σε μια εντολή δεδομένων διαδρομής "απόλυτο κυβικό Bézier curveto" (C).
+Αντιστοιχεί σε μια "απόλυτη cubic Bézier curveto" (C) εντολή δεδομένων διαδρομής.
 
 ```csharp
 public const ushort PATHSEG_CURVETO_CUBIC_ABS;
@@ -17,7 +17,5 @@ public const ushort PATHSEG_CURVETO_CUBIC_ABS;
 ### Δείτε επίσης
 
 * class [SVGPathSeg](../)
-* χώρος ονομάτων [Aspose.Svg.Paths](../../svgpathseg/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

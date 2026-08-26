@@ -1,14 +1,14 @@
 ---
-title: Interface IEventListener
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Events.IEventListener διεπαφή. ΤοIEventListenerΗ διεπαφή είναι η κύρια μέθοδος για το χειρισμό συμβάντων. Οι χρήστες υλοποιούν τοIEventListener διασύνδεση και εγγραφή του ακροατή τους σε έναEventTarget χρησιμοποιώντας τηνAddEventListener μέθοδος. Οι χρήστες θα πρέπει επίσης να αφαιρέσουν το δικό τουςIEventListener από τοEventTarget αφού ολοκληρώσουν τη χρήση του ακροατή.
+title: "IEventListener Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Events.IEventListener διεπαφή. Η διεπαφή IEventListener είναι η κύρια μέθοδος για τη διαχείριση γεγονότων. Οι χρήστες υλοποιούν τη διεπαφή IEventListener και καταχωρούν τον ακροατή τους σε ένα EventTarget χρησιμοποιώντας τη μέθοδο AddEventListener. Οι χρήστες πρέπει επίσης να αφαιρέσουν το IEventListener τους από το EventTarget του μετά την ολοκλήρωση της χρήσης του ακροατή."
 type: docs
-weight: 950
+weight: 2950
 url: /el/net/aspose.svg.dom.events/ieventlistener/
 ---
 ## IEventListener interface
 
-Το`IEventListener`Η διεπαφή είναι η κύρια μέθοδος για το χειρισμό συμβάντων. Οι χρήστες υλοποιούν το`IEventListener` διασύνδεση και εγγραφή του ακροατή τους σε ένα[`EventTarget`](../../aspose.svg.dom/eventtarget/) χρησιμοποιώντας την[`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener/) μέθοδος. Οι χρήστες θα πρέπει επίσης να αφαιρέσουν το δικό τους`IEventListener` από το[`EventTarget`](../../aspose.svg.dom/eventtarget/) αφού ολοκληρώσουν τη χρήση του ακροατή.
+Η διεπαφή `IEventListener` είναι η κύρια μέθοδος για τη διαχείριση γεγονότων. Οι χρήστες υλοποιούν τη διεπαφή `IEventListener` και καταχωρούν τον ακροατή τους σε ένα [`EventTarget`](../../aspose.svg.dom/eventtarget/) χρησιμοποιώντας τη μέθοδο [`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener/). Οι χρήστες πρέπει επίσης να αφαιρέσουν το `IEventListener` τους από το αντίστοιχο [`EventTarget`](../../aspose.svg.dom/eventtarget/) μετά την ολοκλήρωση της χρήσης του ακροατή.
 
 ```csharp
 public interface IEventListener
@@ -16,17 +16,15 @@ public interface IEventListener
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent/)(Event) | Αυτή η μέθοδος καλείται κάθε φορά που συμβαίνει ένα συμβάν του τύπου για το οποίο το`IEventListener` Η διεπαφή καταχωρήθηκε. |
+| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent/)(*[Event](../event/)*) | Αυτή η μέθοδος καλείται όποτε συμβαίνει ένα γεγονός του τύπου για τον οποίο η διεπαφή `IEventListener` έχει καταχωρηθεί. |
 
-### Παρατηρήσεις
+## Παρατηρήσεις
 
-Όταν ένας κόμβος αντιγράφεται χρησιμοποιώντας τη μέθοδο cloneNode, τα Event Listeners που είναι συνδεδεμένα στον κόμβο προέλευσης δεν συνδέονται στον αντιγραμμένο κόμβο. Εάν ο χρήστης επιθυμεί να προστεθούν τα ίδια Event Listeners στο νεοδημιουργημένο αντίγραφο, ο χρήστης πρέπει να τα προσθέσει χειροκίνητα.
+Όταν ένας Node αντιγράφεται χρησιμοποιώντας τη μέθοδο cloneNode, οι ακροατές γεγονότων που είναι συνδεδεμένοι στον πηγαίο Node δεν συνδέονται στον αντίγραφο Node. Εάν ο χρήστης επιθυμεί οι ίδιοι ακροατές γεγονότων να προστεθούν στο νεοδημιουργημένο αντίγραφο, ο χρήστης πρέπει να τους προσθέσει χειροκίνητα.
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

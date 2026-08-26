@@ -1,23 +1,31 @@
 ---
-title: Node.LastChild
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node ιδιοκτησία. Το τελευταίο παιδί αυτού του κόμβου. Εάν δεν υπάρχει τέτοιος κόμβος αυτός επιστρέφει null.
+title: "Node.LastChild"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Node LastChild. Επιστρέφει το τελευταίο παιδί του κόμβου. Εάν ο γονέας του είναι ένα στοιχείο, τότε το παιδί είναι γενικά ένας κόμβος στοιχείου, ένας κόμβος κειμένου ή ένας κόμβος σχολίου. Επιστρέφει null εάν δεν υπάρχουν παιδικοί κόμβοι."
 type: docs
-weight: 50
+weight: 40
 url: /el/net/aspose.svg.dom/node/lastchild/
 ---
 ## Node.LastChild property
 
-Το τελευταίο παιδί αυτού του κόμβου. Εάν δεν υπάρχει τέτοιος κόμβος, αυτός επιστρέφει null.
+Επιστρέφει το τελευταίο παιδί του κόμβου. Εάν ο γονέας του είναι ένα στοιχείο, τότε το παιδί είναι γενικά ένας κόμβος στοιχείου, ένας κόμβος κειμένου ή ένας κόμβος σχολίου. Επιστρέφει null εάν δεν υπάρχουν παιδικά στοιχεία.
 
 ```csharp
 public Node LastChild { get; }
 ```
 
+### Property Value
+
+Ένα [`Node`](../) που είναι το τελευταίο παιδί του κόμβου, ή null εάν δεν υπάρχουν παιδικοί κόμβοι.
+
+## Παρατηρήσεις
+
+Αναφορά:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-lastchild).
+
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

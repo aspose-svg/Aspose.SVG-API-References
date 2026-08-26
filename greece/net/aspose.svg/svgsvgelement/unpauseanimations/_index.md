@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.UnpauseAnimations
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement μέθοδος. Καταργεί την αναστολή δηλαδή καταργεί την παύση κινούμενων εικόνων που εκτελούνται αυτήν τη στιγμή που ορίζονται στο τμήμα του εγγράφου SVG με αποτέλεσμα το ρολόι της κινούμενης εικόνας να συνεχίσει από τη στιγμή που είχε ανασταλεί.
+title: "SVGSVGElement.UnpauseAnimations"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος UnpauseAnimations του SVGSVGElement. Αποαναστέλλει, δηλαδή ξεκινά ξανά τις τρέχουσες αναπαραγωγές animation που ορίζονται μέσα στο τμήμα εγγράφου SVG, προκαλώντας το ρολόι animation να συνεχίσει από τη στιγμή που είχε ανασταλεί."
 type: docs
 weight: 240
 url: /el/net/aspose.svg/svgsvgelement/unpauseanimations/
 ---
 ## SVGSVGElement.UnpauseAnimations method
 
-Καταργεί την αναστολή (δηλαδή, καταργεί την παύση) κινούμενων εικόνων που εκτελούνται αυτήν τη στιγμή που ορίζονται στο τμήμα του εγγράφου SVG, με αποτέλεσμα το ρολόι της κινούμενης εικόνας να συνεχίσει από τη στιγμή που είχε ανασταλεί.
+Αναστέλλει (δηλαδή, ξεπαύει) τις τρέχουσες αναπαραγωγές κινήσεων που ορίζονται μέσα στο τμήμα εγγράφου SVG, προκαλώντας το ρολόι της κίνησης να συνεχίσει από τη στιγμή που είχε διακοπεί.
 
 ```csharp
 public void UnpauseAnimations()
@@ -17,7 +17,5 @@ public void UnpauseAnimations()
 ### Δείτε επίσης
 
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

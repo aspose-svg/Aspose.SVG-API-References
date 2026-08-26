@@ -1,28 +1,26 @@
 ---
-title: IWindow.Location
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IWindow ιδιοκτησία. Το χαρακτηριστικό τοποθεσίας της διεπαφής παραθύρου πρέπει να επιστρέψει το αντικείμενο Θέσης για το Έγγραφο αυτού του αντικειμένου παραθύρου.
+title: "IWindow.Location"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IWindow Location property. Το χαρακτηριστικό location της διεπαφής Window πρέπει να επιστρέφει το αντικείμενο Location για το Έγγραφο του αντίστοιχου αντικειμένου Window."
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.svg.window/iwindow/location/
 ---
 ## IWindow.Location property
 
-Το χαρακτηριστικό τοποθεσίας της διεπαφής παραθύρου πρέπει να επιστρέψει το αντικείμενο Θέσης για το Έγγραφο αυτού του αντικειμένου παραθύρου.
+Το χαρακτηριστικό location της διεπαφής Window πρέπει να επιστρέφει το αντικείμενο Location για το Document του αντικειμένου Window.
 
 ```csharp
 public Location Location { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τοποθεσία.
+Η θέση.
 
 ### Δείτε επίσης
 
 * class [Location](../../location/)
 * interface [IWindow](../)
-* χώρος ονομάτων [Aspose.Svg.Window](../../iwindow/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: DocumentType.PublicId
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentType ιδιοκτησία. Το δημόσιο αναγνωριστικό του εξωτερικού υποσυνόλου.
+title: "DocumentType.PublicId"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DocumentType PublicId property. Ο δημόσιος ταυτοποιητής του εξωτερικού υποσυνόλου"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom/documenttype/publicid/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/documenttype/publicid/
 public string PublicId { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το δημόσιο αναγνωριστικό.
 
 ### Δείτε επίσης
 
 * class [DocumentType](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documenttype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

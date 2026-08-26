@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Network
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IBrowsingContext ιδιοκτησία. Λαμβάνει τις υπηρεσίες δικτύου.
+title: "IBrowsingContext.Network"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IBrowsingContext Network. Λαμβάνει τις υπηρεσίες δικτύου"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom/ibrowsingcontext/network/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.dom/ibrowsingcontext/network/
 public INetwork Network { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι υπηρεσίες δικτύου.
 
@@ -22,7 +22,5 @@ public INetwork Network { get; }
 
 * interface [INetwork](../../../aspose.svg.net/inetwork/)
 * interface [IBrowsingContext](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

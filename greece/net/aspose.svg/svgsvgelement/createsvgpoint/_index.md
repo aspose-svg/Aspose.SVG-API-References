@@ -1,20 +1,20 @@
 ---
-title: SVGSVGElement.CreateSVGPoint
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement μέθοδος. Δημιουργεί ένα αντικείμενο SVGPoint εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται στο σημείο 00 στο σύστημα συντεταγμένων του χρήστη.
+title: "SVGSVGElement.CreateSVGPoint"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGSVGElement CreateSVGPoint. Δημιουργεί ένα αντικείμενο SVGPoint εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται στο σημείο 0,0 στο σύστημα συντεταγμένων του χρήστη."
 type: docs
 weight: 160
 url: /el/net/aspose.svg/svgsvgelement/createsvgpoint/
 ---
 ## SVGSVGElement.CreateSVGPoint method
 
-Δημιουργεί ένα αντικείμενο SVGPoint εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται στο σημείο (0,0) στο σύστημα συντεταγμένων του χρήστη.
+Δημιουργεί ένα αντικείμενο SVGPoint εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται στο σημείο (0,0) στο σύστημα συντεταγμένων του χρήστη.
 
 ```csharp
 public SVGPoint CreateSVGPoint()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα αντικείμενο SVGPoint.
 
@@ -22,7 +22,5 @@ public SVGPoint CreateSVGPoint()
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

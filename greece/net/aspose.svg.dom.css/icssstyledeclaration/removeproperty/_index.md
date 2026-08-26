@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.RemoveProperty
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSStyleDeclaration μέθοδος. Χρησιμοποιείται για την αφαίρεση μιας ιδιότητας CSS εάν έχει οριστεί ρητά σε αυτό το μπλοκ δήλωσης.
+title: "ICSSStyleDeclaration.RemoveProperty"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSSStyleDeclaration RemoveProperty μέθοδος. Χρησιμοποιείται για την αφαίρεση μιας ιδιότητας CSS εάν έχει οριστεί ρητά μέσα σε αυτό το μπλοκ δήλωσης"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.dom.css/icssstyledeclaration/removeproperty/
 ---
 ## ICSSStyleDeclaration.RemoveProperty method
 
-Χρησιμοποιείται για την αφαίρεση μιας ιδιότητας CSS εάν έχει οριστεί ρητά σε αυτό το μπλοκ δήλωσης.
+Χρησιμοποιείται για την αφαίρεση μιας ιδιότητας CSS εάν έχει οριστεί ρητά μέσα σε αυτό το μπλοκ δήλωσης.
 
 ```csharp
 public string RemoveProperty(string propertyName)
@@ -16,16 +16,14 @@ public string RemoveProperty(string propertyName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| propertyName | String | Όνομα του ακινήτου. |
+| propertyName | String | Όνομα της ιδιότητας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει αξία ακινήτου
+Επιστρέφει την τιμή της ιδιότητας.
 
 ### Δείτε επίσης
 
 * interface [ICSSStyleDeclaration](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

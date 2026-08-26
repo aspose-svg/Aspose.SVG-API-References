@@ -1,33 +1,31 @@
 ---
-title: SVGStyleElement.Type
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGStyleElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό type στο δεδομένο στοιχείο.
+title: "SVGStyleElement.Type"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGStyleElement Type. Συμφωνεί με το χαρακτηριστικό type στο δεδομένο στοιχείο."
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svgstyleelement/type/
 ---
 ## SVGStyleElement.Type property
 
-Αντιστοιχεί στο χαρακτηριστικό 'type' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘type’ του δεδομένου στοιχείου.
 
 ```csharp
 public string Type { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'type' στο δεδομένο στοιχείο.
+Το χαρακτηριστικό ‘type’ στο δεδομένο στοιχείο.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδικός [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εγείρεται κατά μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGStyleElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgstyleelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

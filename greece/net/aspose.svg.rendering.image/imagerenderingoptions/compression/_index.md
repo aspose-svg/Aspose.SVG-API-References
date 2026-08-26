@@ -1,14 +1,14 @@
 ---
-title: ImageRenderingOptions.Compression
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageRenderingOptions ιδιοκτησία. Ορίζει ή λαμβάνει τη μορφή αρχείου εικόνας με ετικέτα TIFFCompression . Από προεπιλογή αυτή η ιδιότητα είναιLZW .
+title: "ImageRenderingOptions.Compression"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ImageRenderingOptions Compression property. Ορίζει ή διαβάζει τη Συμπίεση Tagged Image File Format TIFF. Από προεπιλογή αυτή η ιδιότητα είναι LZW"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.rendering.image/imagerenderingoptions/compression/
 ---
 ## ImageRenderingOptions.Compression property
 
-Ορίζει ή λαμβάνει τη μορφή αρχείου εικόνας με ετικέτα (TIFF)[`Compression`](../../compression/) . Από προεπιλογή αυτή η ιδιότητα είναιLZW .
+Ορίζει ή διαβάζει το Tagged Image File Format (TIFF) [`Compression`](../../compression/). Από προεπιλογή αυτή η ιδιότητα είναι LZW.
 
 ```csharp
 public Compression Compression { get; set; }
@@ -18,7 +18,5 @@ public Compression Compression { get; set; }
 
 * enum [Compression](../../compression/)
 * class [ImageRenderingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

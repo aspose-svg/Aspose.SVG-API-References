@@ -1,7 +1,7 @@
 ---
-title: ResponseMessage.IsSuccess
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResponseMessage ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτό το μήνυμα είναι επιτυχές.
+title: "ResponseMessage.IsSuccess"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ResponseMessage IsSuccess. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτό το μήνυμα είναι επιτυχές"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.net/responsemessage/issuccess/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.net/responsemessage/issuccess/
 public bool IsSuccess { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η περίπτωση είναι επιτυχής? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι επιτυχής· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [ResponseMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../responsemessage/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

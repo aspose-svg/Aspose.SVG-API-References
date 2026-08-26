@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GlyphInfo μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "GlyphInfo.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος GlyphInfo ToString. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.rendering/glyphinfo/tostring/
 ---
 ## GlyphInfo.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * struct [GlyphInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../glyphinfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

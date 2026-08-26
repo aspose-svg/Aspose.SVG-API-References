@@ -1,14 +1,14 @@
 ---
-title: IRuntimeService.JavaScriptTimeout
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IRuntimeService ιδιοκτησία. Παίρνει ή θέτειTimeSpanπου περιορίζει τον χρόνο εκτέλεσης JavaScript. Εάν το σενάριο εκτελείται περισσότερο από το προβλεπόμενοTimeSpan  θα ακυρωθεί. Μπορείτε να καθορίσετε άπειρο χρονικό όριο ρυθμίζονταςTimeSpan ίσο με 1 χιλιοστό του δευτερολέπτου. Η προεπιλεγμένη τιμή είναι 1 λεπτό.
+title: "IRuntimeService.JavaScriptTimeout"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IRuntimeService JavaScriptTimeout. Λαμβάνει ή ορίζει το TimeSpan που περιορίζει το χρόνο εκτέλεσης της JavaScript. Εάν το script εκτελεστεί περισσότερο από το παρεχόμενο TimeSpan, θα ακυρωθεί. Μπορείτε να ορίσετε άπειρο χρονικό όριο θέτοντας το TimeSpan ίσο με -1 χιλιοστά του δευτερολέπτου. Η προεπιλεγμένη τιμή είναι 1 λεπτό."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.services/iruntimeservice/javascripttimeout/
 ---
 ## IRuntimeService.JavaScriptTimeout property
 
-Παίρνει ή θέτειTimeSpanπου περιορίζει τον χρόνο εκτέλεσης JavaScript. Εάν το σενάριο εκτελείται περισσότερο από το προβλεπόμενοTimeSpan , θα ακυρωθεί. Μπορείτε να καθορίσετε άπειρο χρονικό όριο ρυθμίζονταςTimeSpan ίσο με -1 χιλιοστό του δευτερολέπτου. Η προεπιλεγμένη τιμή είναι 1 λεπτό.
+Λαμβάνει ή ορίζει το TimeSpan που περιορίζει το χρόνο εκτέλεσης της JavaScript. Εάν το script εκτελείται περισσότερο από το παρεχόμενο TimeSpan, θα ακυρωθεί. Μπορείτε να ορίσετε άπειρο χρονικό όριο θέτοντας το TimeSpan ίσο με -1 χιλιοστά του δευτερολέπτου. Η προεπιλεγμένη τιμή είναι 1 λεπτό.
 
 ```csharp
 public TimeSpan JavaScriptTimeout { get; set; }
@@ -17,7 +17,5 @@ public TimeSpan JavaScriptTimeout { get; set; }
 ### Δείτε επίσης
 
 * interface [IRuntimeService](../)
-* χώρος ονομάτων [Aspose.Svg.Services](../../iruntimeservice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

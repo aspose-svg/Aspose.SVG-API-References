@@ -1,14 +1,14 @@
 ---
-title: IViewCSS.GetComputedStyle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IViewCSS μέθοδος. Αυτή η μέθοδος χρησιμοποιείται για τη λήψη του υπολογιστικού στυλ όπως ορίζεται στο CSS2.
+title: "IViewCSS.GetComputedStyle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IViewCSS GetComputedStyle μέθοδος. Αυτή η μέθοδος χρησιμοποιείται για την λήψη του υπολογισμένου στυλ όπως ορίζεται στο CSS2"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/iviewcss/getcomputedstyle/
 ---
-## GetComputedStyle(Element) {#getcomputedstyle}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/)*) {#getcomputedstyle}
 
-Αυτή η μέθοδος χρησιμοποιείται για τη λήψη του υπολογιστικού στυλ όπως ορίζεται στο CSS2.
+Αυτή η μέθοδος χρησιμοποιείται για την απόκτηση του υπολογισμένου στυλ όπως ορίζεται στο CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element)
@@ -16,25 +16,25 @@ public ICSSStyleDeclaration GetComputedStyle(Element element)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| element | Element | Το στοιχείο του οποίου το στυλ πρόκειται να υπολογιστεί. Αυτή η παράμετρος δεν μπορεί να είναι μηδενική. |
+| στοιχείο | Element | Το στοιχείο του οποίου το στυλ πρέπει να υπολογιστεί. Αυτή η παράμετρος δεν μπορεί να είναι null. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το υπολογιστικό στυλ
+Το υπολογισμένο στυλ
 
 ### Δείτε επίσης
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../iviewcss/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetComputedStyle(Element, string) {#getcomputedstyle_1}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/), string*) {#getcomputedstyle_1}
 
-Αυτή η μέθοδος χρησιμοποιείται για τη λήψη του υπολογιστικού στυλ όπως ορίζεται στο CSS2.
+Αυτή η μέθοδος χρησιμοποιείται για την απόκτηση του υπολογισμένου στυλ όπως ορίζεται στο CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoElement)
@@ -42,19 +42,17 @@ public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoEleme
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| element | Element | Το στοιχείο του οποίου το στυλ πρόκειται να υπολογιστεί. Αυτή η παράμετρος δεν μπορεί να είναι μηδενική. |
-| pseudoElement | String | Το ψευδοστοιχείο. |
+| στοιχείο | Element | Το στοιχείο του οποίου το στυλ πρέπει να υπολογιστεί. Αυτή η παράμετρος δεν μπορεί να είναι null. |
+| pseudoElement | String | Το ψευδο-στοιχείο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το υπολογιστικό στυλ
+Το υπολογισμένο στυλ
 
 ### Δείτε επίσης
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../iviewcss/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

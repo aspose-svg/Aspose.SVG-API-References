@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.FontFamily
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας γραμματοσειράςοικογένειας στο CSS2.
+title: "ICSS2Properties.FontFamily"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ιδιότητα FontFamily. Δείτε τον ορισμό της ιδιότητας font-family στο CSS2"
 type: docs
 weight: 480
 url: /el/net/aspose.svg.dom.css/icss2properties/fontfamily/
 ---
 ## ICSS2Properties.FontFamily property
 
-Δείτε τον ορισμό της ιδιότητας γραμματοσειράς-οικογένειας στο CSS2.
+Δείτε τον ορισμό της ιδιότητας font-family στο CSS2.
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-γραμματοσειρά-οικογενειακή ιδιοκτησία
+ιδιότητα font-family
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

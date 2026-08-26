@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Result
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFETurbulenceElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό result στο δεδομένο στοιχείο filter.
+title: "SVGFETurbulenceElement.Result"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Result του SVGFETurbulenceElement. Αντιστοιχεί στο χαρακτηριστικό result του δοσμένου στοιχείου φίλτρου."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.filters/svgfeturbulenceelement/result/
 ---
 ## SVGFETurbulenceElement.Result property
 
-Αντιστοιχεί στο χαρακτηριστικό 'result' στο δεδομένο στοιχείο 'filter'.
+Αντιστοιχεί στο χαρακτηριστικό ‘result’ στο δοσμένο στοιχείο ‘filter’.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'result' του δεδομένου στοιχείου 'filter'.
+Το χαρακτηριστικό ‘result’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFETurbulenceElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

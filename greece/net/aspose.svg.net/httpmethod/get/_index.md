@@ -1,7 +1,7 @@
 ---
-title: HttpMethod.Get
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HttpMethod ιδιοκτησία. Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP GET.
+title: "HttpMethod.Get"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα HttpMethod Get. Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP GET"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.net/httpmethod/get/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.net/httpmethod/get/
 public static HttpMethod Get { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μέθοδος HTTP GET.
 
 ### Δείτε επίσης
 
 * class [HttpMethod](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../httpmethod/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

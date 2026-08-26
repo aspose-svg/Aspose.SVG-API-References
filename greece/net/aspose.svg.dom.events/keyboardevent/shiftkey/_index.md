@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.ShiftKey
-second_title: Aspose.SVG για Αναφορά API .NET
-description: KeyboardEvent ιδιοκτησία. true αν ο τροποποιητής του πλήκτρου shift Shift ήταν ενεργός.
+title: "KeyboardEvent.ShiftKey"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα KeyboardEvent ShiftKey. αληθές εάν ο τροποποιητής πλήκρου Shift ήταν ενεργός"
 type: docs
 weight: 100
 url: /el/net/aspose.svg.dom.events/keyboardevent/shiftkey/
 ---
 ## KeyboardEvent.ShiftKey property
 
-true αν ο τροποποιητής του πλήκτρου shift (Shift) ήταν ενεργός.
+αληθές εάν ο τροποποιητής shift (Shift) ήταν ενεργός.
 
 ```csharp
 public bool ShiftKey { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν Shift? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν Shift· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [KeyboardEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGFilterPrimitiveStandardAttributes
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Filters.ISVGFilterPrimitiveStandardAttributes διεπαφή. Αυτή η διεπαφή ορίζει το σύνολο των χαρακτηριστικών DOM που είναι κοινά στις πρωτόγονες διεπαφές φίλτρου.
+title: "Διεπαφή ISVGFilterPrimitiveStandardAttributes"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Filters.ISVGFilterPrimitiveStandardAttributes διεπαφή. Αυτή η διεπαφή ορίζει το σύνολο των χαρακτηριστικών DOM που είναι κοινά σε όλες τις διεπαφές των πρωτογενών φίλτρων."
 type: docs
-weight: 1640
+weight: 3730
 url: /el/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface
 
-Αυτή η διεπαφή ορίζει το σύνολο των χαρακτηριστικών DOM που είναι κοινά στις πρωτόγονες διεπαφές φίλτρου.
+Αυτή η διεπαφή ορίζει το σύνολο των χαρακτηριστικών DOM που είναι κοινά σε όλες τις διεπαφές πρωτογενών φίλτρων.
 
 ```csharp
 public interface ISVGFilterPrimitiveStandardAttributes
@@ -16,17 +16,15 @@ public interface ISVGFilterPrimitiveStandardAttributes
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | Αντιστοιχεί στο χαρακτηριστικό "ύψος" στο δεδομένο στοιχείο "φίλτρο". |
-| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | Αντιστοιχεί στο χαρακτηριστικό 'result' στο δεδομένο στοιχείο 'filter'. |
-| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | Αντιστοιχεί στο χαρακτηριστικό 'width' στο δεδομένο στοιχείο 'filter'. |
-| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | Αντιστοιχεί στο χαρακτηριστικό "x" στο δεδομένο στοιχείο "φίλτρο". |
-| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | Αντιστοιχεί στο χαρακτηριστικό 'y' στο δεδομένο στοιχείο 'φίλτρο'. |
+| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘height’ του δεδομένου στοιχείου ‘filter’. |
+| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘result’ στο δοσμένο στοιχείο ‘filter’. |
+| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘width’ του δεδομένου στοιχείου ‘filter’. |
+| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘x’ του δεδομένου στοιχείου ‘filter’. |
+| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘y’ του δεδομένου στοιχείου ‘filter’. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Filters](../../aspose.svg.filters/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Filters](../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../)

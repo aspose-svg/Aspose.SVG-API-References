@@ -1,7 +1,7 @@
 ---
-title: SVGStyleElement.Sheet
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGStyleElement ιδιοκτησία. Λαμβάνει το σχετικό φύλλο στυλ.
+title: "SVGStyleElement.Sheet"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGStyleElement Sheet. Παίρνει το σχετικό φύλλο στυλ."
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgstyleelement/sheet/
@@ -18,7 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../../aspose.svg.dom.css/istylesheet/)
 * class [SVGStyleElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgstyleelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

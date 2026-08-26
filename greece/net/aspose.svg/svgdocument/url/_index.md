@@ -1,7 +1,7 @@
 ---
-title: SVGDocument.URL
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGDocument ιδιοκτησία. Το πλήρες URI του εγγράφου.
+title: "SVGDocument.URL"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα URL του SVGDocument. Το πλήρες URI του εγγράφου"
 type: docs
 weight: 60
 url: /el/net/aspose.svg/svgdocument/url/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg/svgdocument/url/
 public string URL { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η διεύθυνση URL.
+Το URL.
 
 ### Δείτε επίσης
 
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

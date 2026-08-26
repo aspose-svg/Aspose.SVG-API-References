@@ -1,28 +1,26 @@
 ---
-title: HTMLCollection.GetEnumerator
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HTMLCollection μέθοδος. Παίρνει τον απαριθμητή.
+title: "HTMLCollection.GetEnumerator"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος GetEnumerator του HTMLCollection. Λαμβάνει τον απαριθμητή"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.collections/htmlcollection/getenumerator/
 ---
 ## HTMLCollection.GetEnumerator method
 
-Παίρνει τον απαριθμητή.
+Λαμβάνει τον απαριθμητή.
 
 ```csharp
 public abstract IEnumerator<Element> GetEnumerator()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑνIEnumerator αντικείμενο που μπορεί να χρησιμοποιηθεί για επανάληψη μέσω της συλλογής.
+Ένα αντικείμενο IEnumerator που μπορεί να χρησιμοποιηθεί για την επανάληψη στη συλλογή.
 
 ### Δείτε επίσης
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../htmlcollection/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

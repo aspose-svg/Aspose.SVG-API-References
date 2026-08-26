@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Remove
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationObserverInit μέθοδος. Αφαιρεί το καθορισμένο ζεύγος κλειδιού/τιμής από τοMutationObserverInitσυλλογή.
+title: "MutationObserverInit.Remove"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Remove του MutationObserverInit. Αφαιρεί το καθορισμένο ζεύγος κλειδί/τιμή από τη συλλογή MutationObserverInit."
 type: docs
 weight: 200
 url: /el/net/aspose.svg.dom.mutations/mutationobserverinit/remove/
 ---
-## Remove(KeyValuePair&lt;string, object&gt;) {#remove}
+## Remove(*KeyValuePair&lt;string, object&gt;*) {#remove}
 
-Αφαιρεί το καθορισμένο ζεύγος κλειδιού/τιμής από το[`MutationObserverInit`](../)συλλογή.
+Αφαιρεί το καθορισμένο ζεύγος κλειδί/τιμή από τη συλλογή [`MutationObserverInit`](../).
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -16,23 +16,23 @@ public bool Remove(KeyValuePair<string, object> item)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Το στοιχείο προς κατάργηση. |
+| στοιχείο | KeyValuePair`2 | Το στοιχείο προς αφαίρεση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Σωστό εάν αφαιρεθεί με επιτυχία. διαφορετικά, ψευδής.
+True εάν αφαιρεθεί επιτυχώς· διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [MutationObserverInit](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Remove(string) {#remove_1}
+## Remove(*string*) {#remove_1}
 
-Καταργεί την τιμή που σχετίζεται με το καθορισμένο κλειδί από το[`MutationObserverInit`](../)συλλογή.
+Αφαιρεί την τιμή που συσχετίζεται με το καθορισμένο κλειδί από τη συλλογή [`MutationObserverInit`](../).
 
 ```csharp
 public bool Remove(string key)
@@ -40,16 +40,14 @@ public bool Remove(string key)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Το κλειδί του στοιχείου προς αφαίρεση. |
+| κλειδί | String | Το κλειδί του στοιχείου προς αφαίρεση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-True εάν το στοιχείο βρεθεί και αφαιρεθεί με επιτυχία. διαφορετικά, ψευδής.
+True εάν το στοιχείο βρεθεί και αφαιρεθεί επιτυχώς· διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [MutationObserverInit](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

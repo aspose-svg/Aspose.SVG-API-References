@@ -1,14 +1,14 @@
 ---
-title: IDevice.Options
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice ιδιοκτησία. Λαμβάνει επιλογές απόδοσης.
+title: "IDevice.Options"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDevice Options ιδιότητα. Λαμβάνει τις επιλογές απόδοσης"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.rendering/idevice/options/
 ---
 ## IDevice.Options property
 
-Λαμβάνει επιλογές απόδοσης.
+Λαμβάνει τις επιλογές απόδοσης.
 
 ```csharp
 public RenderingOptions Options { get; }
@@ -18,7 +18,5 @@ public RenderingOptions Options { get; }
 
 * class [RenderingOptions](../../renderingoptions/)
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

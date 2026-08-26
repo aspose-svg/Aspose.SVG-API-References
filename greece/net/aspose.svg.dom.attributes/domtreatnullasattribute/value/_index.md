@@ -1,7 +1,7 @@
 ---
-title: DOMTreatNullAsAttribute.Value
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMTreatNullAsAttribute ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή.
+title: "DOMTreatNullAsAttribute.Value"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMTreatNullAsAttribute Ιδιότητα Value. Λαμβάνει ή ορίζει την τιμή"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
 public object Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
 ### Δείτε επίσης
 
 * class [DOMTreatNullAsAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

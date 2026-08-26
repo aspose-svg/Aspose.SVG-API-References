@@ -1,20 +1,20 @@
 ---
-title: Margin.Bottom
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Margin ιδιοκτησία. Παίρνει ή θέτει το κάτω μέρος.
+title: "Margin.Bottom"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Margin Bottom. Λαμβάνει ή ορίζει το κάτω μέρος"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/margin/bottom/
 ---
 ## Margin.Bottom property
 
-Παίρνει ή θέτει το κάτω μέρος.
+Λαμβάνει ή ορίζει το κάτω μέρος.
 
 ```csharp
 public LengthOrAuto Bottom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κάτω μέρος.
 
@@ -22,7 +22,5 @@ public LengthOrAuto Bottom { get; set; }
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../margin/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: StencilConfiguration.Type
-second_title: Aspose.SVG για Αναφορά API .NET
-description: StencilConfiguration ιδιοκτησία. Λαμβάνει ή ορίζει τοStencilType .
+title: "StencilConfiguration.Type"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Type του StencilConfiguration. Λαμβάνει ή ορίζει το StencilType."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.imagevectorization/stencilconfiguration/type/
 ---
 ## StencilConfiguration.Type property
 
-Λαμβάνει ή ορίζει το[`StencilType`](../../stenciltype/) .
+Λαμβάνει ή ορίζει το [`StencilType`](../../stenciltype/).
 
 ```csharp
 public StencilType Type { get; set; }
@@ -18,7 +18,5 @@ public StencilType Type { get; set; }
 
 * enum [StencilType](../../stenciltype/)
 * class [StencilConfiguration](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

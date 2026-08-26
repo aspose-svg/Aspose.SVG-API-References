@@ -1,9 +1,9 @@
 ---
-title: Enum SVGSaveFormat
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Saving.SVGSaveFormat αρίθμηση. Καθορίζει τη μορφή στην οποία αποθηκεύεται το έγγραφο.
+title: "SVGSaveFormat Enum"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Saving.SVGSaveFormat enum. Καθορίζει τη μορφή στην οποία αποθηκεύεται το έγγραφο"
 type: docs
-weight: 3660
+weight: 5780
 url: /el/net/aspose.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration
@@ -14,15 +14,14 @@ url: /el/net/aspose.svg.saving/svgsaveformat/
 public enum SVGSaveFormat
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | SVG | `0` | Το έγγραφο θα αποθηκευτεί ως SVG. |
+| SVGZ | `1` | Το έγγραφο θα αποθηκευτεί ως SVGZ. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

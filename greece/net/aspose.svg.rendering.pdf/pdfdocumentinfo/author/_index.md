@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfDocumentInfo ιδιοκτησία. Το όνομα του ατόμου που δημιούργησε το έγγραφο.
+title: "PdfDocumentInfo.Author"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PdfDocumentInfo Author. Το όνομα του ατόμου που δημιούργησε το έγγραφο"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.pdf/pdfdocumentinfo/author/
@@ -17,7 +17,5 @@ public string Author { get; set; }
 ### Δείτε επίσης
 
 * class [PdfDocumentInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

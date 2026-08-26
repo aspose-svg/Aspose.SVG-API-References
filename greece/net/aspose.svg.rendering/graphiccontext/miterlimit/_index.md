@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.MiterLimit
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext ιδιοκτησία. Ορίζει ή λαμβάνει το μέγιστο μήκος των ενώσεων με λοξόγραμμη γραμμή για διαγραμμένες διαδρομές. Αυτή η παράμετρος περιορίζει το μήκος των ακίδων που παράγονται όταν τα τμήματα γραμμής ενώνονται υπό έντονες γωνίες.
+title: "GraphicContext.MiterLimit"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MiterLimit του GraphicContext. Ορίζει ή επιστρέφει το μέγιστο μήκος των γωνιών μύτης σε ενώσεις γραμμών για διαδρομές με περίγραμμα. Αυτή η παράμετρος περιορίζει το μήκος των ακίδων που δημιουργούνται όταν τμήματα γραμμής ενώνονται σε οξείς γωνίες."
 type: docs
 weight: 130
 url: /el/net/aspose.svg.rendering/graphiccontext/miterlimit/
 ---
 ## GraphicContext.MiterLimit property
 
-Ορίζει ή λαμβάνει το μέγιστο μήκος των ενώσεων με λοξόγραμμη γραμμή για διαγραμμένες διαδρομές. Αυτή η παράμετρος περιορίζει το μήκος των "ακίδων" που παράγονται όταν τα τμήματα γραμμής ενώνονται υπό έντονες γωνίες.
+Ορίζει ή επιστρέφει το μέγιστο μήκος των γωνιακών ενώσεων γραμμών για σχεδιασμένες διαδρομές. Αυτή η παράμετρος περιορίζει το μήκος των «ακίδων» που παράγονται όταν τμήματα γραμμής ενώνονται σε οξίες γωνίες.
 
 ```csharp
 public virtual float MiterLimit { get; set; }
@@ -17,7 +17,5 @@ public virtual float MiterLimit { get; set; }
 ### Δείτε επίσης
 
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

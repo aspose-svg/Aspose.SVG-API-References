@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Margin
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας περιθωρίου στο CSS2.
+title: "ICSS2Properties.Margin"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Margin του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας margin στο CSS2"
 type: docs
-weight: 630
+weight: 660
 url: /el/net/aspose.svg.dom.css/icss2properties/margin/
 ---
 ## ICSS2Properties.Margin property
 
-Δείτε τον ορισμό της ιδιότητας περιθωρίου στο CSS2.
+Δείτε τον ορισμό της ιδιότητας margin στο CSS2.
 
 ```csharp
 public string Margin { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιοκτησία περιθωρίου
+ιδιότητα margin
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,29 +1,27 @@
 ---
-title: IXPathResult.BooleanValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IXPathResult ιδιοκτησία. Η τιμή αυτού του δυαδικού αποτελέσματος.
+title: "IXPathResult.BooleanValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IXPathResult BooleanValue property. Η τιμή αυτού του λογικού αποτελέσματος"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.xpath/ixpathresult/booleanvalue/
 ---
 ## IXPathResult.BooleanValue property
 
-Η τιμή αυτού του δυαδικού αποτελέσματος.
+Η τιμή αυτού του λογικού αποτελέσματος.
 
 ```csharp
 public bool BooleanValue { get; }
 ```
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: αυξήθηκε εάν`Τύπος αποτελεσμάτων` δεν είναι `Boolean` τύπος. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: προκαλείται εάν `resultType` δεν είναι τύπου `Boolean`. |
 
 ### Δείτε επίσης
 
 * interface [IXPathResult](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

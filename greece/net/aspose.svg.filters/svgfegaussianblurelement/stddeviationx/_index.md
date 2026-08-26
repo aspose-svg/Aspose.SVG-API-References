@@ -1,20 +1,20 @@
 ---
-title: SVGFEGaussianBlurElement.StdDeviationX
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEGaussianBlurElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό stdDeviation στο δεδομένο στοιχείο feGaussianBlur. Περιέχει το στοιχείο X του χαρακτηριστικού stdDeviation.
+title: "SVGFEGaussianBlurElement.StdDeviationX"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα StdDeviationX του SVGFEGaussianBlurElement. Αντιστοιχεί στο χαρακτηριστικό stdDeviation στο δεδομένο στοιχείο feGaussianBlur. Περιέχει το στοιχείο X του χαρακτηριστικού stdDeviation."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.filters/svgfegaussianblurelement/stddeviationx/
 ---
 ## SVGFEGaussianBlurElement.StdDeviationX property
 
-Αντιστοιχεί στο χαρακτηριστικό �stdDeviation� στο δεδομένο στοιχείο �feGaussianBlur�. Περιέχει το στοιχείο X του χαρακτηριστικού �stdDeviation�.
+Αντιστοιχεί στο χαρακτηριστικό �stdDeviation� του δεδομένου στοιχείου �feGaussianBlur�. Περιέχει το X συστατικό του χαρακτηριστικού �stdDeviation�.
 
 ```csharp
 public SVGAnimatedNumber StdDeviationX { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χαρακτηριστικό �stdDeviationX� του δεδομένου στοιχείου �feGaussianBlur�.
 
@@ -22,7 +22,5 @@ public SVGAnimatedNumber StdDeviationX { get; }
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEGaussianBlurElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

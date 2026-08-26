@@ -1,7 +1,7 @@
 ---
-title: SVGValueType.Dispose
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGValueType μέθοδος. Απελευθερώνει μη διαχειριζόμενους και  προαιρετικά  διαχειριζόμενους πόρους.
+title: "SVGValueType.Dispose"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGValueType Dispose μέθοδος. Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.datatypes/svgvaluetype/dispose/
@@ -17,7 +17,5 @@ public void Dispose()
 ### Δείτε επίσης
 
 * class [SVGValueType](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgvaluetype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

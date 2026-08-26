@@ -1,28 +1,26 @@
 ---
-title: SVGGeometryElement.PathLength
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGGeometryElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό pathLength στο δεδομένο στοιχείο.
+title: "SVGGeometryElement.PathLength"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGGeometryElement PathLength. Συμφωνεί με το χαρακτηριστικό pathLength στο συγκεκριμένο στοιχείο."
 type: docs
 weight: 10
 url: /el/net/aspose.svg/svggeometryelement/pathlength/
 ---
 ## SVGGeometryElement.PathLength property
 
-Αντιστοιχεί στο χαρακτηριστικό pathLength στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό pathLength του δεδομένου στοιχείου.
 
 ```csharp
 public SVGAnimatedNumber PathLength { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό pathLength στο δεδομένο στοιχείο.
+Το χαρακτηριστικό pathLength στο συγκεκριμένο στοιχείο.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGGeometryElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svggeometryelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

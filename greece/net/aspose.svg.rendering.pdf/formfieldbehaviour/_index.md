@@ -1,29 +1,27 @@
 ---
-title: Enum FormFieldBehaviour
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.Pdf.FormFieldBehaviour αρίθμηση. Αυτή η απαρίθμηση χρησιμοποιείται για τον καθορισμό της συμπεριφοράς των πεδίων φόρμας στο έγγραφο PDF εξόδου.
+title: "FormFieldBehaviour Απαρίθμηση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η απαρίθμηση Aspose.Svg.Rendering.Pdf.FormFieldBehaviour. Αυτή η απαρίθμηση χρησιμοποιείται για να καθορίσει τη συμπεριφορά των πεδίων φόρμας στο τελικό έγγραφο PDF."
 type: docs
-weight: 2940
+weight: 5010
 url: /el/net/aspose.svg.rendering.pdf/formfieldbehaviour/
 ---
 ## FormFieldBehaviour enumeration
 
-Αυτή η απαρίθμηση χρησιμοποιείται για τον καθορισμό της συμπεριφοράς των πεδίων φόρμας στο έγγραφο PDF εξόδου.
+Αυτή η απαρίθμηση χρησιμοποιείται για να καθορίσει τη συμπεριφορά των πεδίων φόρμας στο παραγόμενο έγγραφο PDF.
 
 ```csharp
 public enum FormFieldBehaviour
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Interactive | `0` | Το έγγραφο PDF εξόδου θα περιέχει διαδραστικά πεδία φόρμας. |
-| Flattened | `1` | Το έγγραφο PDF εξόδου θα περιέχει πεπλατυσμένα πεδία φόρμας. |
+| Interactive | `0` | Το παραγόμενο έγγραφο PDF θα περιέχει διαδραστικά πεδία φόρμας. |
+| Flattened | `1` | Το παραγόμενο έγγραφο PDF θα περιέχει εξομαλωμένα πεδία φόρμας. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

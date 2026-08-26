@@ -1,7 +1,7 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Metered μέθοδος. Λαμβάνει πίστωση κατανάλωσης
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Metered GetConsumptionCredit μέθοδος. Λαμβάνει την πίστωση κατανάλωσης"
 type: docs
 weight: 30
 url: /el/net/aspose.svg/metered/getconsumptioncredit/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg/metered/getconsumptioncredit/
 public static decimal GetConsumptionCredit()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 ποσότητα κατανάλωσης
 
 ### Δείτε επίσης
 
 * class [Metered](../)
-* χώρος ονομάτων [Aspose.Svg](../../metered/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

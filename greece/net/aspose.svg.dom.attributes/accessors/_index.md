@@ -1,32 +1,30 @@
 ---
-title: Enum Accessors
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Attributes.Accessors αρίθμηση. Αντιπροσωπεύει την απαρίθμηση των μελών πρόσβασης που ορίζεται από το W3C.
+title: "Accessors Enum"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Attributes.Accessors enum. Αντιπροσωπεύει την απαρίθμηση των προσβάσεων μελών που ορίζεται από το W3C"
 type: docs
-weight: 360
+weight: 2360
 url: /el/net/aspose.svg.dom.attributes/accessors/
 ---
 ## Accessors enumeration
 
-Αντιπροσωπεύει την απαρίθμηση των μελών πρόσβασης που ορίζεται από το W3C.
+Αναπαριστά την απαρίθμηση των προσπελαστών μέλους που ορίζεται από το W3C.
 
 ```csharp
 [Flags]
 public enum Accessors : byte
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `0` | Καθορίζει ότι η ιδιότητα δεν έχει ιδιαίτερη σημασία. |
-| Getter | `1` | Καθορίζει ότι η ιδιότητα ή η μέθοδος θα πρέπει να αντιμετωπίζονται ως λήπτες. |
-| Setter | `2` | Καθορίζει ότι η ιδιότητα ή η μέθοδος θα πρέπει να αντιμετωπίζονται ως ρυθμιστής. |
-| Deleter | `4` | Καθορίζει ότι η ιδιότητα ή η μέθοδος θα πρέπει να αντιμετωπίζονται με διαγραφή. |
+| None | `0` | Καθορίζει ότι η ιδιότητα δεν έχει καμία ειδική σημασία. |
+| Getter | `1` | Καθορίζει ότι η ιδιότητα ή η μέθοδος πρέπει να αντιμετωπίζεται ως getter. |
+| Setter | `2` | Καθορίζει ότι η ιδιότητα ή η μέθοδος πρέπει να αντιμετωπίζεται ως setter. |
+| Deleter | `4` | Καθορίζει ότι η ιδιότητα ή η μέθοδος πρέπει να αντιμετωπίζεται με delete. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

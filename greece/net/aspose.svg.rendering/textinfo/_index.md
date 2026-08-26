@@ -1,14 +1,14 @@
 ---
-title: Class TextInfo
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.TextInfo τάξη. Περιέχει πληροφορίες σχετικά με το κείμενο που αποδίδεται.
+title: "Κλάση TextInfo"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.TextInfo class. Περιέχει πληροφορίες σχετικά με το κείμενο που αποδόθηκε"
 type: docs
-weight: 3040
+weight: 5110
 url: /el/net/aspose.svg.rendering/textinfo/
 ---
 ## TextInfo class
 
-Περιέχει πληροφορίες σχετικά με το κείμενο που αποδίδεται.
+Περιέχει πληροφορίες σχετικά με το αποδομένο κείμενο.
 
 ```csharp
 public class TextInfo
@@ -16,13 +16,11 @@ public class TextInfo
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | Λαμβάνει πληροφορίες σχετικά με αποδοθέντες γλύφους. |
+| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | Λαμβάνει πληροφορίες σχετικά με τα αποδοθέντα γλύφους. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

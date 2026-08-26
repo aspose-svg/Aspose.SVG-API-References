@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.Result
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEMorphologyElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό result στο δεδομένο στοιχείο filter.
+title: "SVGFEMorphologyElement.Result"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFEMorphologyElement Result property. Αντιστοιχεί στο χαρακτηριστικό result στο στοιχείο φίλτρου που δόθηκε"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.filters/svgfemorphologyelement/result/
 ---
 ## SVGFEMorphologyElement.Result property
 
-Αντιστοιχεί στο χαρακτηριστικό 'result' στο δεδομένο στοιχείο 'filter'.
+Αντιστοιχεί στο χαρακτηριστικό ‘result’ στο δοσμένο στοιχείο ‘filter’.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'result' του δεδομένου στοιχείου 'filter'.
+Το χαρακτηριστικό ‘result’ του δεδομένου στοιχείου ‘filter’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEMorphologyElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Unit.FromPicas
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αLength αντικείμενο που αναπαρίσταται σε picas.
+title: "Unit.FromPicas"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Unit FromPicas method. Επιστρέφει ένα αντικείμενο Length που αντιπροσωπεύεται σε picas"
 type: docs
 weight: 160
 url: /el/net/aspose.svg.drawing/unit/frompicas/
 ---
 ## Unit.FromPicas method
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο που αναπαρίσταται σε picas.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/) που αντιπροσωπεύεται σε picas.
 
 ```csharp
 public static Length FromPicas(double value)
@@ -16,17 +16,15 @@ public static Length FromPicas(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/).
 
 ### Δείτε επίσης
 
 * class [Length](../../length/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

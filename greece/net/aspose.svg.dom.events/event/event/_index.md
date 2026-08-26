@@ -1,14 +1,14 @@
 ---
-title: Event.Event
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Event κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουEvent τάξη.
+title: "Γεγονός"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Event constructor. Αρχικοποιεί μια νέα παρουσία της κλάσης Event."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.events/event/event/
 ---
-## Event(string) {#constructor}
+## Event(*string*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`Event`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`Event`](../).
 
 ```csharp
 public Event(string type)
@@ -16,19 +16,19 @@ public Event(string type)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος εκδήλωσης. |
+| type | String | Ο τύπος του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [Event](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../event/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Event(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## Event(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`Event`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`Event`](../).
 
 ```csharp
 public Event(string type, IDictionary<string, object> eventInitDict)
@@ -36,13 +36,11 @@ public Event(string type, IDictionary<string, object> eventInitDict)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Ο τύπος εκδήλωσης. |
-| eventInitDict | IDictionary`2 | Το λεξικό προετοιμασίας συμβάντος. |
+| type | String | Ο τύπος του γεγονότος. |
+| eventInitDict | IDictionary`2 | Το λεξικό αρχικοποίησης του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [Event](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../event/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

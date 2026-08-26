@@ -1,7 +1,7 @@
 ---
-title: SvgRenderer.SvgRenderer
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SvgRenderer κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "SvgRenderer"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής SvgRenderer. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering/svgrenderer/svgrenderer/
@@ -17,7 +17,5 @@ public SvgRenderer()
 ### Δείτε επίσης
 
 * class [SvgRenderer](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../svgrenderer/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

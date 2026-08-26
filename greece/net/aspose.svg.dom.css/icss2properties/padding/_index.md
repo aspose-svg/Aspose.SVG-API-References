@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.Padding
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας padding στο CSS2.
+title: "ICSS2Properties.Padding"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties Padding ιδιότητα. Δείτε τον ορισμό της ιδιότητας padding στο CSS2"
 type: docs
-weight: 800
+weight: 830
 url: /el/net/aspose.svg.dom.css/icss2properties/padding/
 ---
 ## ICSS2Properties.Padding property
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/padding/
 public string Padding { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα παραγεμίσματος
+padding ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

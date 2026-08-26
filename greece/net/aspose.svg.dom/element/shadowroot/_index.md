@@ -1,28 +1,26 @@
 ---
-title: Element.ShadowRoot
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element ιδιοκτησία. Επιστρέφει το shadowRoot που είναι αποθηκευμένο σε αυτό το στοιχείο ή το null εάν είναι κλειστό.
+title: "Element.ShadowRoot"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Element ShadowRoot. Επιστρέφει το shadowRoot που είναι αποθηκευμένο σε αυτό το στοιχείο ή null εάν είναι κλειστό."
 type: docs
-weight: 200
+weight: 190
 url: /el/net/aspose.svg.dom/element/shadowroot/
 ---
 ## Element.ShadowRoot property
 
-Επιστρέφει το shadowRoot που είναι αποθηκευμένο σε αυτό το στοιχείο ή το null εάν είναι κλειστό.
+Επιστρέφει το shadowRoot που αποθηκεύεται σε αυτό το στοιχείο ή null εάν είναι κλειστό.
 
 ```csharp
 public ShadowRoot ShadowRoot { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The shadowRoot.
+Το shadowRoot.
 
 ### Δείτε επίσης
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

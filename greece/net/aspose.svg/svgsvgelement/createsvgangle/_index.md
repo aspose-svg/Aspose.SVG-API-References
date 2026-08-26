@@ -1,20 +1,20 @@
 ---
-title: SVGSVGElement.CreateSVGAngle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement μέθοδος. Δημιουργεί ένα αντικείμενο SVGAngle έξω από οποιαδήποτε δέντρα εγγράφων. Το αντικείμενο αρχικοποιείται στην τιμή 0 μοίρες unitless.
+title: "SVGSVGElement.CreateSVGAngle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος CreateSVGAngle του SVGSVGElement. Δημιουργεί ένα αντικείμενο SVGAngle εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται στην τιμή 0 μοίρες χωρίς μονάδα."
 type: docs
 weight: 120
 url: /el/net/aspose.svg/svgsvgelement/createsvgangle/
 ---
 ## SVGSVGElement.CreateSVGAngle method
 
-Δημιουργεί ένα αντικείμενο SVGAngle έξω από οποιαδήποτε δέντρα εγγράφων. Το αντικείμενο αρχικοποιείται στην τιμή 0 μοίρες (unitless).
+Δημιουργεί ένα αντικείμενο SVGAngle εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται στην τιμή 0 μοίρες (χωρίς μονάδα).
 
 ```csharp
 public SVGAngle CreateSVGAngle()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα αντικείμενο SVGAngle.
 
@@ -22,7 +22,5 @@ public SVGAngle CreateSVGAngle()
 
 * class [SVGAngle](../../../aspose.svg.datatypes/svgangle/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

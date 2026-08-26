@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternTransform
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPatternElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό patternTransform στο δεδομένο στοιχείο pattern.
+title: "SVGPatternElement.PatternTransform"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PatternTransform του SVGPatternElement. Αντιστοιχεί στην ιδιότητα patternTransform στο δεδομένο στοιχείο pattern"
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svgpatternelement/patterntransform/
 ---
 ## SVGPatternElement.PatternTransform property
 
-Αντιστοιχεί στο χαρακτηριστικό "patternTransform" στο δεδομένο στοιχείο "pattern".
+Αντιστοιχεί στο χαρακτηριστικό ‘patternTransform’ του συγκεκριμένου στοιχείου ‘pattern’.
 
 ```csharp
 public SVGAnimatedTransformList PatternTransform { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "patternTransform" του δεδομένου στοιχείου "pattern".
+Η ιδιότητα ‘patternTransform’ του δεδομένου στοιχείου ‘pattern’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGPatternElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpatternelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

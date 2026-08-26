@@ -1,28 +1,26 @@
 ---
-title: IDeviceInformationService.VerticalResolution
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDeviceInformationService ιδιοκτησία. Λαμβάνει ή ορίζει την κατακόρυφη ανάλυση.
+title: "IDeviceInformationService.VerticalResolution"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IDeviceInformationService VerticalResolution. Λαμβάνει ή ορίζει την κάθετη ανάλυση."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.services/ideviceinformationservice/verticalresolution/
 ---
 ## IDeviceInformationService.VerticalResolution property
 
-Λαμβάνει ή ορίζει την κατακόρυφη ανάλυση.
+Λαμβάνει ή ορίζει την κάθετη ανάλυση.
 
 ```csharp
 public Resolution VerticalResolution { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κατακόρυφη ανάλυση.
+Η κάθετη ανάλυση.
 
 ### Δείτε επίσης
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* χώρος ονομάτων [Aspose.Svg.Services](../../ideviceinformationservice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

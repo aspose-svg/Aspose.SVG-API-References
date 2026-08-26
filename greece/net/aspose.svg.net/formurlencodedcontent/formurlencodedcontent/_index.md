@@ -1,14 +1,14 @@
 ---
-title: FormUrlEncodedContent.FormUrlEncodedContent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FormUrlEncodedContent κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFormUrlEncodedContent τάξη.
+title: "FormUrlEncodedContent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής FormUrlEncodedContent. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης FormUrlEncodedContent"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/formurlencodedcontent/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`FormUrlEncodedContent`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`FormUrlEncodedContent`](../).
 
 ```csharp
 public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValueCollection)
@@ -16,12 +16,10 @@ public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValue
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| nameValueCollection | IEnumerable`1 | Η συλλογή αξίας ονόματος. |
+| nameValueCollection | IEnumerable`1 | Η συλλογή τιμών ονομάτων. |
 
 ### Δείτε επίσης
 
 * class [FormUrlEncodedContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../formurlencodedcontent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

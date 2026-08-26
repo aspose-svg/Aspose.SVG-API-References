@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.PointsAtX
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFESpotLightElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό pointsAtX στο δεδομένο στοιχείο feSpotLight.
+title: "SVGFESpotLightElement.PointsAtX"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PointsAtX του SVGFESpotLightElement. Αντιστοιχεί στο χαρακτηριστικό pointsAtX στο στοιχείο feSpotLight που δίνεται"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.filters/svgfespotlightelement/pointsatx/
 ---
 ## SVGFESpotLightElement.PointsAtX property
 
-Αντιστοιχεί στο χαρακτηριστικό 'pointsAtX' στο δεδομένο στοιχείο 'feSpotLight'.
+Αντιστοιχεί στο χαρακτηριστικό ‘pointsAtX’ του δεδομένου στοιχείου ‘feSpotLight’.
 
 ```csharp
 public SVGAnimatedNumber PointsAtX { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'pointsAtX' του δεδομένου στοιχείου 'feSpotLight'.
+Το χαρακτηριστικό ‘pointsAtX’ του δεδομένου στοιχείου ‘feSpotLight’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

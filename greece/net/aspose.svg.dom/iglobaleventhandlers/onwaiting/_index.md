@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnWaiting
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnWaiting.
+title: "IGlobalEventHandlers.OnWaiting"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnWaiting συμβάν. Λαμβάνει ή ορίζει τον χειριστή του συμβάντος για το συμβάν OnWaiting"
 type: docs
 weight: 500
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onwaiting/
 ---
 ## IGlobalEventHandlers.OnWaiting event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnWaiting.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnWaiting.
 
 ```csharp
 public event DOMEventHandler OnWaiting;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnWaiting;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

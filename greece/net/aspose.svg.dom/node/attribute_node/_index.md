@@ -1,14 +1,14 @@
 ---
-title: Node.ATTRIBUTE_NODE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node πεδίο. Ένας κόμβος χαρακτηριστικών
+title: "Node.ATTRIBUTE_NODE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο Node ATTRIBUTE_NODE. Ένας κόμβος χαρακτηριστικού."
 type: docs
-weight: 320
+weight: 300
 url: /el/net/aspose.svg.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
 
-Ένας κόμβος χαρακτηριστικών
+Ένας κόμβος χαρακτηριστικού
 
 ```csharp
 public const ushort ATTRIBUTE_NODE;
@@ -17,7 +17,5 @@ public const ushort ATTRIBUTE_NODE;
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

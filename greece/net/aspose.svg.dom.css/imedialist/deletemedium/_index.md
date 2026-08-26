@@ -1,7 +1,7 @@
 ---
-title: IMediaList.DeleteMedium
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IMediaList μέθοδος. Διαγράφει το μέσο που υποδεικνύεται από το oldMedium από τη λίστα.
+title: "IMediaList.DeleteMedium"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος DeleteMedium του IMediaList. Διαγράφει το μέσο που υποδεικνύεται από oldMedium από τη λίστα."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom.css/imedialist/deletemedium/
@@ -21,7 +21,5 @@ public void DeleteMedium(string oldMedium)
 ### Δείτε επίσης
 
 * interface [IMediaList](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../imedialist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

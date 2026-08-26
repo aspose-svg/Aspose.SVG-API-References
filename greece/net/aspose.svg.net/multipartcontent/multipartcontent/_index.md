@@ -1,14 +1,14 @@
 ---
-title: MultipartContent.MultipartContent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MultipartContent κατασκευαστής. Δημιουργήστε μια νέα παρουσία τουMultipartContent τάξη.
+title: "MultipartContent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής MultipartContent. Δημιουργεί ένα νέο αντικείμενο της κλάσης MultipartContent."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-Δημιουργήστε μια νέα παρουσία του[`MultipartContent`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`MultipartContent`](../).
 
 ```csharp
 public MultipartContent()
@@ -17,14 +17,14 @@ public MultipartContent()
 ### Δείτε επίσης
 
 * class [MultipartContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartcontent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string) {#constructor_1}
+## MultipartContent(*string*) {#constructor_1}
 
-Δημιουργήστε μια νέα παρουσία του[`MultipartContent`](../) τάξη με υποτύπο.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`MultipartContent`](../) με υποτύπο.
 
 ```csharp
 public MultipartContent(string subtype)
@@ -32,19 +32,19 @@ public MultipartContent(string subtype)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| subtype | String | Ο υποτύπος |
+| υποτύπος | String | Ο υποτύπος |
 
 ### Δείτε επίσης
 
 * class [MultipartContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartcontent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string, string) {#constructor_2}
+## MultipartContent(*string, string*) {#constructor_2}
 
-Δημιουργήστε μια νέα παρουσία του[`MultipartContent`](../) τάξη με υποτύπο και όριο.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`MultipartContent`](../) με υποτύπο και όριο.
 
 ```csharp
 public MultipartContent(string subtype, string boundary)
@@ -52,19 +52,17 @@ public MultipartContent(string subtype, string boundary)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| subtype | String | Ο υποτύπος |
+| υποτύπος | String | Ο υποτύπος |
 | boundary | String | Το όριο |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentException | Το όρισμα δεν μπορεί να είναι μηδενική ή κενή συμβολοσειρά. |
+| ArgumentException | Το όρισμα δεν μπορεί να είναι null ή κενή συμβολοσειρά. |
 
 ### Δείτε επίσης
 
 * class [MultipartContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartcontent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

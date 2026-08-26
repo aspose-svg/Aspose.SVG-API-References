@@ -1,20 +1,20 @@
 ---
-title: IParentNode.Children
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IParentNode ιδιοκτησία. Επιστρέφει τα θυγατρικά στοιχεία.
+title: "IParentNode.Children"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IParentNode Children. Επιστρέφει τα στοιχεία παιδιών"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/iparentnode/children/
 ---
 ## IParentNode.Children property
 
-Επιστρέφει τα θυγατρικά στοιχεία.
+Επιστρέφει τα παιδικά στοιχεία.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα παιδιά.
 
@@ -22,7 +22,5 @@ public HTMLCollection Children { get; }
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * interface [IParentNode](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iparentnode/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

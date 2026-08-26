@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetIntValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CSSPrimitiveValue μέθοδος. Αυτή η μέθοδος χρησιμοποιείται για τη λήψη μιας τιμής int σε μια καθορισμένη μονάδα. Εάν αυτή η τιμή CSS δεν περιέχει τιμή int ή δεν μπορεί να μετατραπεί στην καθορισμένη μονάδα δημιουργείται μια εξαίρεση DOME.
+title: "CSSPrimitiveValue.GetIntValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "CSSPrimitiveValue GetIntValue method. Αυτή η μέθοδος χρησιμοποιείται για την λήψη μιας ακέραιας τιμής σε συγκεκριμένη μονάδα. Εάν αυτή η τιμή CSS δεν περιέχει ακέραια τιμή ή δεν μπορεί να μετατραπεί στην καθορισμένη μονάδα, εγείρεται μια DOMException."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.css/cssprimitivevalue/getintvalue/
 ---
 ## CSSPrimitiveValue.GetIntValue method
 
-Αυτή η μέθοδος χρησιμοποιείται για τη λήψη μιας τιμής int σε μια καθορισμένη μονάδα. Εάν αυτή η τιμή CSS δεν περιέχει τιμή int ή δεν μπορεί να μετατραπεί στην καθορισμένη μονάδα, δημιουργείται μια εξαίρεση DOME.
+Αυτή η μέθοδος χρησιμοποιείται για την απόκτηση μιας τιμής int σε συγκεκριμένη μονάδα. Εάν αυτή η τιμή CSS δεν περιέχει τιμή int ή δεν μπορεί να μετατραπεί στην καθορισμένη μονάδα, εγείρεται μια DOMException.
 
 ```csharp
 public abstract int GetIntValue(ushort unitType)
@@ -16,16 +16,14 @@ public abstract int GetIntValue(ushort unitType)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| unitType | UInt16 | Τύπος μονάδας. |
+| unitType | UInt16 | Τύπος της μονάδας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει αξία
+Επιστρέφει τιμή.
 
 ### Δείτε επίσης
 
 * class [CSSPrimitiveValue](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

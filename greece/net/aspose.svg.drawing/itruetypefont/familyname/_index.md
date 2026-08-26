@@ -1,27 +1,25 @@
 ---
-title: ITrueTypeFont.FamilyName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ITrueTypeFont ιδιοκτησία. Λάβετε το όνομα της οικογένειας γραμματοσειρών.
+title: "ITrueTypeFont.FamilyName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ITrueTypeFont FamilyName. Λαμβάνει το όνομα της οικογένειας γραμματοσειράς."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/itruetypefont/familyname/
 ---
 ## ITrueTypeFont.FamilyName property
 
-Λάβετε το όνομα της οικογένειας γραμματοσειρών.
+Λαμβάνει το όνομα της οικογένειας γραμματοσειράς.
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οικογενειακό όνομα γραμματοσειράς
+Το όνομα οικογένειας της γραμματοσειράς.
 
 ### Δείτε επίσης
 
 * interface [ITrueTypeFont](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../itruetypefont/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

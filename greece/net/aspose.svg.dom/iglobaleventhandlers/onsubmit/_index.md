@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnSubmit
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnSubmit.
+title: "IGlobalEventHandlers.OnSubmit"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnSubmit συμβάν. Λαμβάνει ή ορίζει τον χειριστή του συμβάντος για το συμβάν OnSubmit"
 type: docs
 weight: 450
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onsubmit/
 ---
 ## IGlobalEventHandlers.OnSubmit event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnSubmit.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnSubmit.
 
 ```csharp
 public event DOMEventHandler OnSubmit;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSubmit;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

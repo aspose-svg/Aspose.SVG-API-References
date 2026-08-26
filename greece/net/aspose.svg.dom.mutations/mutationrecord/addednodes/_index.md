@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.AddedNodes
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationRecord ιδιοκτησία. Επιστρέψτε τους κόμβους που προστέθηκαν.
+title: "MutationRecord.AddedNodes"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MutationRecord AddedNodes. Επιστρέφει τους προστιθέμενους κόμβους"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
 ---
 ## MutationRecord.AddedNodes property
 
-Επιστρέψτε τους κόμβους που προστέθηκαν.
+Επιστρέψτε τους προστιθέμενους κόμβους.
 
 ```csharp
 public NodeList AddedNodes { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι κόμβοι που προστέθηκαν.
+Οι προστιθέμενοι κόμβοι.
 
 ### Δείτε επίσης
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,31 +1,29 @@
 ---
-title: DOMTokenList.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMTokenList ιδιοκτησία. Επιστρέφει το στοιχείο στη λίστα με βάση το ευρετήριό του ή μηδενικό εάν ο δείκτης είναι μεγαλύτερος ή ίσος με το μήκος της λίστας.
+title: "DOMTokenList.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα DOMTokenList Item. Επιστρέφει το στοιχείο στη λίστα με βάση το δείκτη του ή null εάν ο δείκτης είναι μεγαλύτερος ή ίσος με το μήκος της λίστας."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.collections/domtokenlist/item/
 ---
 ## DOMTokenList indexer
 
-Επιστρέφει το στοιχείο στη λίστα με βάση το ευρετήριό του ή μηδενικό εάν ο δείκτης είναι μεγαλύτερος ή ίσος με το μήκος της λίστας.
+Επιστρέφει το στοιχείο στη λίστα με βάση το δείκτη του, ή null εάν ο δείκτης είναι μεγαλύτερος ή ίσος με το μήκος της λίστας.
 
 ```csharp
-public string this[ulong index] { get; }
+public string this[uint index] { get; }
 ```
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Ο δείκτης. |
+| δείκτης | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια συμβολοσειρά που αντιπροσωπεύει ένα διακριτικό στη λίστα.
+Μια συμβολοσειρά που αναπαριστά ένα διακριτικό στη λίστα.
 
 ### Δείτε επίσης
 
 * class [DOMTokenList](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../domtokenlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

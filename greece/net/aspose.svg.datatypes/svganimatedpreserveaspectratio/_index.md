@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedPreserveAspectRatio
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio τάξη. Χρησιμοποιείται για χαρακτηριστικά τύπου SVGPreserveAspectRatio που μπορούν να κινηθούν.
+title: "SVGAnimatedPreserveAspectRatio Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio class. Χρησιμοποιείται για ιδιότητες τύπου SVGPreserveAspectRatio που μπορούν να είναι ανιματοποιημένες"
 type: docs
-weight: 170
+weight: 2160
 url: /el/net/aspose.svg.datatypes/svganimatedpreserveaspectratio/
 ---
 ## SVGAnimatedPreserveAspectRatio class
 
-Χρησιμοποιείται για χαρακτηριστικά τύπου SVGPreserveAspectRatio που μπορούν να κινηθούν.
+Χρησιμοποιείται για ιδιότητες τύπου SVGPreserveAspectRatio που μπορούν να ανιμαριστούν.
 
 ```csharp
 public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspectRatio>
@@ -16,24 +16,22 @@ public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspect
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου του αντικειμένου ECMAScript. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία. |
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGPreserveAspectRatio](../svgpreserveaspectratio/)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

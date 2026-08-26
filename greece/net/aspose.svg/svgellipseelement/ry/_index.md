@@ -1,28 +1,26 @@
 ---
-title: SVGEllipseElement.Ry
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGEllipseElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό ry στο δεδομένο στοιχείο κύκλος.
+title: "SVGEllipseElement.Ry"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Ry του SVGEllipseElement. Αντιστοιχεί στο χαρακτηριστικό ry του δεδομένου στοιχείου circle."
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svgellipseelement/ry/
 ---
 ## SVGEllipseElement.Ry property
 
-Αντιστοιχεί στο χαρακτηριστικό "ry" στο δεδομένο στοιχείο "κύκλος".
+Αντιστοιχεί στο χαρακτηριστικό ‘ry’ στο δεδομένο στοιχείο ‘circle’.
 
 ```csharp
 public SVGAnimatedLength Ry { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "ry" του δεδομένου στοιχείου "κύκλος".
+Το χαρακτηριστικό ‘ry’ του δεδομένου στοιχείου ‘circle’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgellipseelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

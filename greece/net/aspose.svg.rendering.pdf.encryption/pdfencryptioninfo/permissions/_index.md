@@ -1,7 +1,7 @@
 ---
-title: PdfEncryptionInfo.Permissions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfEncryptionInfo ιδιοκτησία. Λαμβάνει ή ορίζει τα δικαιώματα.
+title: "PdfEncryptionInfo.Permissions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "PdfEncryptionInfo Permissions ιδιότητα. Λαμβάνει ή ορίζει τα δικαιώματα"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
 public PdfPermissions Permissions { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα δικαιώματα.
 
@@ -22,7 +22,5 @@ public PdfPermissions Permissions { get; set; }
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * class [PdfEncryptionInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

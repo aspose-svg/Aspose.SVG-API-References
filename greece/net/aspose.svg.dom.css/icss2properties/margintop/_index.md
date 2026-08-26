@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.MarginTop
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας margintop στο CSS2.
+title: "ICSS2Properties.MarginTop"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MarginTop του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας margin-top στο CSS2"
 type: docs
-weight: 670
+weight: 700
 url: /el/net/aspose.svg.dom.css/icss2properties/margintop/
 ---
 ## ICSS2Properties.MarginTop property
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/margintop/
 public string MarginTop { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το περιθώριο κορυφής
+Το margin top
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

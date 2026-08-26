@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.GetNamedItem
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NamedNodeMap μέθοδος. Ανακτά έναν κόμβο που καθορίζεται με το όνομα.
+title: "NamedNodeMap.GetNamedItem"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "NamedNodeMap GetNamedItem μέθοδος. Ανακτά έναν κόμβο που καθορίζεται με όνομα"
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.svg.collections/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method
 
-Ανακτά έναν κόμβο που καθορίζεται με το όνομα.
+Ανακτά έναν κόμβο που καθορίζεται με όνομα.
 
 ```csharp
 public Attr GetNamedItem(string name)
@@ -18,15 +18,13 @@ public Attr GetNamedItem(string name)
 | --- | --- | --- |
 | name | String | Το όνομα του κόμβου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει τον κόμβο.
+Επιστρέφει κόμβο.
 
 ### Δείτε επίσης
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../namednodemap/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

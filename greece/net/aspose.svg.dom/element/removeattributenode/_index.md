@@ -1,14 +1,14 @@
 ---
-title: Element.RemoveAttributeNode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Καταργεί τον καθορισμένο κόμβο χαρακτηριστικών.
+title: "Element.RemoveAttributeNode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Element RemoveAttributeNode method. Αφαιρεί τον καθορισμένο κόμβο χαρακτηριστικού"
 type: docs
 weight: 380
 url: /el/net/aspose.svg.dom/element/removeattributenode/
 ---
 ## Element.RemoveAttributeNode method
 
-Καταργεί τον καθορισμένο κόμβο χαρακτηριστικών.
+Αφαιρεί τον καθορισμένο κόμβο χαρακτηριστικού.
 
 ```csharp
 public Attr RemoveAttributeNode(Attr oldAttr)
@@ -18,15 +18,13 @@ public Attr RemoveAttributeNode(Attr oldAttr)
 | --- | --- | --- |
 | oldAttr | Attr | Το παλιό attr. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει χαρακτηριστικό
+Επιστρέφει το γνώρισμα
 
 ### Δείτε επίσης
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Domain
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGDocument ιδιοκτησία. Το όνομα τομέα του διακομιστή που εξυπηρέτησε το έγγραφο ή μια μηδενική συμβολοσειρά εάν ο διακομιστής δεν μπορεί να αναγνωριστεί από ένα όνομα τομέα.
+title: "SVGDocument.Domain"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Domain του SVGDocument. Το όνομα τομέα του διακομιστή που παρείχε το έγγραφο ή μια κενή (null) συμβολοσειρά εάν ο διακομιστής δεν μπορεί να προσδιοριστεί με όνομα τομέα."
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgdocument/domain/
 ---
 ## SVGDocument.Domain property
 
-Το όνομα τομέα του διακομιστή που εξυπηρέτησε το έγγραφο ή μια μηδενική συμβολοσειρά εάν ο διακομιστής δεν μπορεί να αναγνωριστεί από ένα όνομα τομέα.
+Το όνομα τομέα του διακομιστή που παρείχε το έγγραφο, ή μια κενή συμβολοσειρά εάν ο διακομιστής δεν μπορεί να ταυτοποιηθεί με όνομα τομέα.
 
 ```csharp
 public string Domain { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τομέας.
 
 ### Δείτε επίσης
 
 * class [SVGDocument](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgdocument/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: RequestMessage.Content
-second_title: Aspose.SVG για Αναφορά API .NET
-description: RequestMessage ιδιοκτησία. Λαμβάνει ή ορίζει το περιεχόμενο του αιτήματος.
+title: "RequestMessage.Content"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Content του RequestMessage. Λαμβάνει ή ορίζει το περιεχόμενο του αιτήματος."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net/requestmessage/content/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.net/requestmessage/content/
 public Content Content { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το σώμα.
 
@@ -22,7 +22,5 @@ public Content Content { get; set; }
 
 * class [Content](../../content/)
 * class [RequestMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../requestmessage/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

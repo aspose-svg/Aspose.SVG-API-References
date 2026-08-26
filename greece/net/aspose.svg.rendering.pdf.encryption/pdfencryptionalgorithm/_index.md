@@ -1,29 +1,27 @@
 ---
-title: Enum PdfEncryptionAlgorithm
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionAlgorithm αρίθμηση. Αριθμός λειτουργίας κρυπτογράφησης. Περιγράψτε χρησιμοποιώντας αλγόριθμο και μήκος κλειδιού. Αυτός ο αριθμός επεκτείνεται για να μπορέσει να αυξήσει περαιτέρω τη λειτουργικότητα. Αυτός ο αριθμός υλοποιεί το μοτίβο BasetoCore.
+title: "Απαρίθμηση PdfEncryptionAlgorithm"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionAlgorithm. Απαρίθμηση τρόπου κρυπτογράφησης. Περιγράφει τη χρήση αλγορίθμου και μήκους κλειδιού. Αυτή η απαρίθμηση επεκτείνεται ώστε να είναι δυνατόν να αυξηθεί περαιτέρω η λειτουργικότητα. Αυτή η απαρίθμηση υλοποιεί το πρότυπο Base-to-Core."
 type: docs
-weight: 2910
+weight: 4980
 url: /el/net/aspose.svg.rendering.pdf.encryption/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration
 
-Αριθμός λειτουργίας κρυπτογράφησης. Περιγράψτε χρησιμοποιώντας αλγόριθμο και μήκος κλειδιού. Αυτός ο αριθμός επεκτείνεται για να μπορέσει να αυξήσει περαιτέρω τη λειτουργικότητα. Αυτός ο αριθμός υλοποιεί το μοτίβο "Base-to-Core".
+Enum τρόπου κρυπτογράφησης. Περιγράφει τη χρήση αλγορίθμου και μήκους κλειδιού. Αυτό το enum επεκτείνεται ώστε να είναι δυνατόν να αυξηθεί περαιτέρω η λειτουργικότητα. Αυτό το enum υλοποιεί το πρότυπο "Base-to-Core" pattern.
 
 ```csharp
 public enum PdfEncryptionAlgorithm
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| RC4_40 | `0` | Αλγόριθμος, με μήκος κλειδιού κρυπτογράφησης RC4 40 bit; |
-| RC4_128 | `1` | Αλγόριθμος, με μήκος κλειδιού κρυπτογράφησης RC4 128 bit και προηγμένο σύνολο αδειών· |
+| RC4_40 | `0` | Αλγόριθμος, με μήκος κλειδιού κρυπτογράφησης RC4 40 bit· |
+| RC4_128 | `1` | Αλγόριθμος, με μήκος κλειδιού κρυπτογράφησης RC4 128 bit και σύνολο προχωρημένων δικαιωμάτων· |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../)

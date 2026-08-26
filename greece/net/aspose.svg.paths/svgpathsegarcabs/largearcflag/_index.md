@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcAbs.LargeArcFlag
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathSegArcAbs ιδιοκτησία. Η τιμή της παραμέτρου μεγάλου τόξουσημαία.
+title: "SVGPathSegArcAbs.LargeArcFlag"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGPathSegArcAbs LargeArcFlag property. Η τιμή της παραμέτρου large-arc-flag"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.paths/svgpathsegarcabs/largearcflag/
 ---
 ## SVGPathSegArcAbs.LargeArcFlag property
 
-Η τιμή της παραμέτρου μεγάλου τόξου-σημαία.
+Η τιμή της παραμέτρου large-arc-flag.
 
 ```csharp
 public bool LargeArcFlag { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η παράμετρος σημαίας μεγάλου τόξου
+Η παράμετρος large-arc-flag
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGPathSegArcAbs](../)
-* χώρος ονομάτων [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

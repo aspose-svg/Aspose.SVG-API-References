@@ -1,28 +1,26 @@
 ---
-title: GraphicContext.TextInfo
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext ιδιοκτησία. Παίρνει έναTextInfo αντικείμενο που περιέχει πληροφορίες σχετικά με το κείμενο που αποδίδεται.
+title: "GraphicContext.TextInfo"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα TextInfo του GraphicContext. Λαμβάνει ένα αντικείμενο TextInfo που περιέχει πληροφορίες για το αποδιδόμενο κείμενο"
 type: docs
 weight: 150
 url: /el/net/aspose.svg.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property
 
-Παίρνει ένα[`TextInfo`](../../textinfo/) αντικείμενο που περιέχει πληροφορίες σχετικά με το κείμενο που αποδίδεται.
+Λαμβάνει ένα αντικείμενο [`TextInfo`](../../textinfo/) που περιέχει πληροφορίες για το αποδιδόμενο κείμενο.
 
 ```csharp
 public virtual TextInfo TextInfo { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`TextInfo`](../../textinfo/) αντικείμενο.
+Το αντικείμενο [`TextInfo`](../../textinfo/).
 
 ### Δείτε επίσης
 
 * class [TextInfo](../../textinfo/)
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

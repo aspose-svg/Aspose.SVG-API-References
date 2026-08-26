@@ -1,20 +1,20 @@
 ---
-title: PageSetup.FirstPage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PageSetup ιδιοκτησία. Λαμβάνει ή ορίζει τη διαμόρφωση της πρώτης σελίδας.
+title: "PageSetup.FirstPage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "PageSetup FirstPage ιδιότητα. Λαμβάνει ή ορίζει τη διαμόρφωση της πρώτης σελίδας."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.rendering/pagesetup/firstpage/
 ---
 ## PageSetup.FirstPage property
 
-Λαμβάνει ή ορίζει τη διαμόρφωση της πρώτης σελίδας.
+Λαμβάνει ή ορίζει τη ρύθμιση της πρώτης σελίδας.
 
 ```csharp
 public Page FirstPage { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η πρώτη σελίδα.
 
@@ -22,7 +22,5 @@ public Page FirstPage { get; set; }
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../pagesetup/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

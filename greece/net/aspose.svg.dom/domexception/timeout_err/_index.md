@@ -1,14 +1,14 @@
 ---
-title: DOMException.TIMEOUT_ERR
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMException πεδίο. Η λειτουργία έληξε.
+title: "DOMException.TIMEOUT_ERR"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMException TIMEOUT_ERR πεδίο. Η λειτουργία έληξε"
 type: docs
 weight: 260
 url: /el/net/aspose.svg.dom/domexception/timeout_err/
 ---
 ## DOMException.TIMEOUT_ERR field
 
-Η λειτουργία έληξε.
+Η λειτουργία έληξε το χρονικό όριο.
 
 ```csharp
 public const ushort TIMEOUT_ERR;
@@ -17,7 +17,5 @@ public const ushort TIMEOUT_ERR;
 ### Δείτε επίσης
 
 * class [DOMException](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../domexception/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

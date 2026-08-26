@@ -1,14 +1,14 @@
 ---
-title: IColorComponents.Components
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IColorComponents ιδιοκτησία. Επιστρέφει τα στοιχεία χρώματος ως float array.
+title: "IColorComponents.Components"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IColorComponents Components ιδιότητα. Επιστρέφει τα συστατικά χρώματος ως πίνακα float"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/icolorcomponents/components/
 ---
 ## IColorComponents.Components property
 
-Επιστρέφει τα στοιχεία χρώματος ως float array.
+Επιστρέφει τις συνιστώσες χρώματος ως πίνακα float.
 
 ```csharp
 public float[] Components { get; }
@@ -17,7 +17,5 @@ public float[] Components { get; }
 ### Δείτε επίσης
 
 * interface [IColorComponents](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../icolorcomponents/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

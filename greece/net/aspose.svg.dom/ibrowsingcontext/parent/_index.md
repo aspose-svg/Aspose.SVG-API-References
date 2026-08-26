@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Parent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IBrowsingContext ιδιοκτησία. Λαμβάνει το γονικό περιβάλλον εάν υπάρχει.
+title: "IBrowsingContext.Parent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IBrowsingContext Parent. Λαμβάνει το γονικό πλαίσιο εάν υπάρχει"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom/ibrowsingcontext/parent/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/ibrowsingcontext/parent/
 public IBrowsingContext Parent { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο γονέας.
 
 ### Δείτε επίσης
 
 * interface [IBrowsingContext](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

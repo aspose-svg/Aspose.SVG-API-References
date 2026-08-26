@@ -1,27 +1,25 @@
 ---
-title: SVGPointList.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPointList μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "SVGPointList.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος ToString του SVGPointList. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.datatypes/svgpointlist/tostring/
 ---
 ## SVGPointList.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [SVGPointList](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgpointlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

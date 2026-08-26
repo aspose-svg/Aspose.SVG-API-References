@@ -1,7 +1,7 @@
 ---
-title: IUserAgentService.CharSet
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IUserAgentService ιδιοκτησία. Λαμβάνει ή ορίζει το κύριο σύνολο χαρακτήρων για ένα έγγραφο.
+title: "IUserAgentService.CharSet"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα CharSet του IUserAgentService. Λαμβάνει ή ορίζει το κύριο σύνολο χαρακτήρων για ένα έγγραφο."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.services/iuseragentservice/charset/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.services/iuseragentservice/charset/
 public string CharSet { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το σύνολο χαρακτήρων.
 
 ### Δείτε επίσης
 
 * interface [IUserAgentService](../)
-* χώρος ονομάτων [Aspose.Svg.Services](../../iuseragentservice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

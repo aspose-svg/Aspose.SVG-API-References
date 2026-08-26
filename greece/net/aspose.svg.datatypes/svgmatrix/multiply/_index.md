@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.Multiply
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMatrix μέθοδος. Εκτελεί πολλαπλασιασμό πίνακα. Αυτός ο πίνακας πολλαπλασιάζεται μετά από έναν άλλο πίνακα επιστρέφοντας τον νέο πίνακα που προκύπτει.
+title: "SVGMatrix.Multiply"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGMatrix Multiply. Εκτελεί πολλαπλασιασμό πινάκων. Αυτός ο πίνακας πολλαπλασιάζεται μετά από άλλο πίνακα, επιστρέφοντας το νέο αποτέλεσμα."
 type: docs
 weight: 70
 url: /el/net/aspose.svg.datatypes/svgmatrix/multiply/
 ---
 ## SVGMatrix.Multiply method
 
-Εκτελεί πολλαπλασιασμό πίνακα. Αυτός ο πίνακας πολλαπλασιάζεται μετά από έναν άλλο πίνακα, επιστρέφοντας τον νέο πίνακα που προκύπτει.
+Εκτελεί πολλαπλασιασμό πινάκων. Αυτός ο πίνακας πολλαπλασιάζεται μετά από έναν άλλο πίνακα, επιστρέφοντας το νέο προκύπτοντα πίνακα.
 
 ```csharp
 public SVGMatrix Multiply(SVGMatrix secondMatrix)
@@ -16,16 +16,14 @@ public SVGMatrix Multiply(SVGMatrix secondMatrix)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| secondMatrix | SVGMatrix | Ο πίνακας που πολλαπλασιάζεται μεταγενέστερα σε αυτόν τον πίνακα. |
+| secondMatrix | SVGMatrix | Ο πίνακας που πολλαπλασιάζεται μετά από αυτόν τον πίνακα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο προκύπτων πίνακας.
 
 ### Δείτε επίσης
 
 * class [SVGMatrix](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgmatrix/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

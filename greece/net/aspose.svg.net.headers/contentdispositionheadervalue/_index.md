@@ -1,14 +1,14 @@
 ---
-title: Class ContentDispositionHeaderValue
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.Headers.ContentDispositionHeaderValue τάξη. Αντιπροσωπεύει την τιμή κεφαλίδας ContentDisposition.
+title: "Κλάση ContentDispositionHeaderValue"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κλάση Aspose.Svg.Net.Headers.ContentDispositionHeaderValue. Αντιπροσωπεύει την τιμή κεφαλίδας Content-Disposition."
 type: docs
-weight: 2260
+weight: 4330
 url: /el/net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
 
-Αντιπροσωπεύει την τιμή κεφαλίδας Content-Disposition.
+Αναπαριστά την τιμή της κεφαλίδας Content-Disposition.
 
 ```csharp
 public class ContentDispositionHeaderValue
@@ -16,29 +16,27 @@ public class ContentDispositionHeaderValue
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(string) | Δημιουργήστε μια νέα παρουσία αυτού του τύπου διάθεσης. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | Δημιουργήστε ένα νέο στιγμιότυπο αυτού του τύπου διάθεσης. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Λήψη ή ρύθμιση διάταξης τύπου |
+| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Αποκτήστε ή ορίστε τον τύπο διάθεσης. |
 | [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | Το όνομα του αποθηκευμένου αρχείου. |
-| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | Το όνομα για ένα μέρος του σώματος περιεχομένου. |
-| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | Λήψη συλλογής παραμέτρων |
+| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | Το όνομα για ένα τμήμα σώματος περιεχομένου. |
+| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | Λάβετε τη συλλογή των παραμέτρων. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(object) | Καθορίζει εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. |
-| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(*object*) | Καθορίζει εάν το συγκεκριμένο Object είναι ίσο με αυτήν την παρουσία. |
+| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

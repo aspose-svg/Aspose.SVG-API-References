@@ -1,20 +1,20 @@
 ---
-title: SVGFEGaussianBlurElement.Width
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEGaussianBlurElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό width στο δεδομένο στοιχείο φίλτρου.
+title: "SVGFEGaussianBlurElement.Width"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Width του SVGFEGaussianBlurElement. Αντιστοιχεί στο χαρακτηριστικό width στο δεδομένο στοιχείο φίλτρου."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.filters/svgfegaussianblurelement/width/
 ---
 ## SVGFEGaussianBlurElement.Width property
 
-Αντιστοιχεί στο χαρακτηριστικό �width� στο δεδομένο στοιχείο �φίλτρου».
+Αντιστοιχεί στο χαρακτηριστικό �width� του δεδομένου στοιχείου �filter�.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χαρακτηριστικό �width� του δεδομένου στοιχείου �filter�.
 
@@ -22,7 +22,5 @@ public SVGAnimatedLength Width { get; }
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

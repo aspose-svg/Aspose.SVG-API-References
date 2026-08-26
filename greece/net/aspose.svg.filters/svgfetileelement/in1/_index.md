@@ -1,28 +1,26 @@
 ---
-title: SVGFETileElement.In1
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFETileElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό in στο δεδομένο στοιχείο feTile.
+title: "SVGFETileElement.In1"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα In1 του SVGFETileElement. Αντιστοιχεί στο χαρακτηριστικό in στο δεδομένο στοιχείο feTile"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.filters/svgfetileelement/in1/
 ---
 ## SVGFETileElement.In1 property
 
-Αντιστοιχεί στο χαρακτηριστικό "in" στο δεδομένο στοιχείο "feTile".
+Αντιστοιχεί στο χαρακτηριστικό ‘in’ στο δοσμένο στοιχείο ‘feTile’.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "in" του δεδομένου στοιχείου "feTile".
+Το χαρακτηριστικό ‘in’ του δεδομένου στοιχείου ‘feTile’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFETileElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfetileelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

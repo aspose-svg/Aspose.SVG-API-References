@@ -1,7 +1,7 @@
 ---
-title: Counter.Separator
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Counter ιδιοκτησία. Αυτό το χαρακτηριστικό χρησιμοποιείται για το διαχωριστικό των ένθετων μετρητών.
+title: "Counter.Separator"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Separator του Counter. Αυτό το χαρακτηριστικό χρησιμοποιείται ως διαχωριστικό των ένθετων μετρητών."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.css/counter/separator/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/counter/separator/
 public string Separator { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο μετρητής διαχωριστής.
+Το διαχωριστικό του μετρητή.
 
 ### Δείτε επίσης
 
 * class [Counter](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../counter/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

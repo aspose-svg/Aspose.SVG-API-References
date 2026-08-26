@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.Directory
-second_title: Aspose.SVG για Αναφορά API .NET
-description: FileCreateStreamProvider ιδιοκτησία. Λαμβάνει ή ορίζει τον κατάλογο.
+title: "FileCreateStreamProvider.Directory"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "FileCreateStreamProvider Directory property. Λαμβάνει ή ορίζει τον κατάλογο"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.io/filecreatestreamprovider/directory/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.io/filecreatestreamprovider/directory/
 public string Directory { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο κατάλογος.
 
 ### Δείτε επίσης
 
 * class [FileCreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

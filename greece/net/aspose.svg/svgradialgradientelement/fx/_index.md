@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.Fx
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGRadialGradientElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό fx στο δεδομένο στοιχείο radialGradient.
+title: "SVGRadialGradientElement.Fx"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGRadialGradientElement Fx. Συμφωνεί με το χαρακτηριστικό fx στο δεδομένο στοιχείο radialGradient."
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svgradialgradientelement/fx/
 ---
 ## SVGRadialGradientElement.Fx property
 
-Αντιστοιχεί στο χαρακτηριστικό 'fx' στο δεδομένο στοιχείο 'radialGradient'.
+Αντιστοιχεί στο χαρακτηριστικό ‘fx’ του δεδομένου στοιχείου ‘radialGradient’.
 
 ```csharp
 public SVGAnimatedLength Fx { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'fx' του δεδομένου στοιχείου 'radialGradient'.
+Το χαρακτηριστικό ‘fx’ του δεδομένου στοιχείου ‘radialGradient’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgradialgradientelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

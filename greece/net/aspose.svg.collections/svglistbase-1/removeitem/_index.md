@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.RemoveItem
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGListBase μέθοδος. Αφαιρεί ένα υπάρχον στοιχείο από τη λίστα.
+title: "SVGListBase-1.RemoveItem"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος RemoveItem του SVGListBase. Αφαιρεί ένα υπάρχον στοιχείο από τη λίστα"
 type: docs
 weight: 100
 url: /el/net/aspose.svg.collections/svglistbase-1/removeitem/
 ---
-## SVGListBase&lt;T&gt;.RemoveItem method
+## SVGListBase<T>.RemoveItem method
 
 Αφαιρεί ένα υπάρχον στοιχείο από τη λίστα.
 
@@ -16,23 +16,21 @@ public T RemoveItem(ulong index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | UInt64 | Το ευρετήριο του στοιχείου που πρόκειται να αφαιρεθεί. Το πρώτο στοιχείο είναι ο αριθμός 0. |
+| δείκτης | UInt64 | Ο δείκτης του στοιχείου που πρέπει να αφαιρεθεί. Το πρώτο στοιχείο είναι ο αριθμός 0. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το στοιχείο που αφαιρέθηκε.
+Το αφαιρεθέν στοιχείο.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Αυξάνεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Αυξάνεται εάν ο αριθμός ευρετηρίου είναι μεγαλύτερος ή ίσος με το numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Εμφανίζεται εάν ο αριθμός δείκτη είναι μεγαλύτερος ή ίσος με το numberOfItems. |
 
 ### Δείτε επίσης
 
 * class [SVGListBase&lt;T&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../svglistbase-1/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

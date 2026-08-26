@@ -1,14 +1,14 @@
 ---
-title: Element.SetAttributeNode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Προσθέτει έναν νέο κόμβο χαρακτηριστικών. Εάν ένα χαρακτηριστικό με αυτό το όνομα nodeName υπάρχει ήδη στο στοιχείο αντικαθίσταται από το νέο.
+title: "Element.SetAttributeNode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η μέθοδος Element SetAttributeNode. Προσθέτει έναν νέο κόμβο χαρακτηριστικού. Εάν υπάρχει ήδη χαρακτηριστικό με το όνομα nodeName στο στοιχείο, αντικαθίσταται από το νέο."
 type: docs
 weight: 410
 url: /el/net/aspose.svg.dom/element/setattributenode/
 ---
 ## Element.SetAttributeNode method
 
-Προσθέτει έναν νέο κόμβο χαρακτηριστικών. Εάν ένα χαρακτηριστικό με αυτό το όνομα (nodeName) υπάρχει ήδη στο στοιχείο, αντικαθίσταται από το νέο.
+Προσθέτει έναν νέο κόμβο χαρακτηριστικού. Εάν ένα χαρακτηριστικό με αυτό το όνομα (nodeName) υπάρχει ήδη στο στοιχείο, αντικαθίσταται με το νέο.
 
 ```csharp
 public Attr SetAttributeNode(Attr newAttr)
@@ -18,15 +18,13 @@ public Attr SetAttributeNode(Attr newAttr)
 | --- | --- | --- |
 | newAttr | Attr | Το νέο attr. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει χαρακτηριστικό
+Επιστρέφει το γνώρισμα
 
 ### Δείτε επίσης
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

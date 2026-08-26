@@ -1,7 +1,7 @@
 ---
-title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEConvolveMatrixElement πεδίο. Αντιστοιχεί στην τιμή wrap.
+title: "SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVG_EDGEMODE_WRAP του SVGFEConvolveMatrixElement. Αντιστοιχεί στην τιμή wrap"
 type: docs
 weight: 210
 url: /el/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_wrap/
@@ -17,7 +17,5 @@ public const ushort SVG_EDGEMODE_WRAP;
 ### Δείτε επίσης
 
 * class [SVGFEConvolveMatrixElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

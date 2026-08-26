@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Window
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IBrowsingContext ιδιοκτησία. Λαμβάνει το αντικείμενο WindowProxy.
+title: "IBrowsingContext.Window"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IBrowsingContext Window. Λαμβάνει το αντικείμενο WindowProxy"
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom/ibrowsingcontext/window/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.dom/ibrowsingcontext/window/
 public IWindow Window { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το παράθυρο.
 
@@ -22,7 +22,5 @@ public IWindow Window { get; }
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * interface [IBrowsingContext](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

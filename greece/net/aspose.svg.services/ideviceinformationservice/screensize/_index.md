@@ -1,7 +1,7 @@
 ---
-title: IDeviceInformationService.ScreenSize
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDeviceInformationService ιδιοκτησία. Λαμβάνει ή ορίζει το μέγεθος της οθόνης.
+title: "IDeviceInformationService.ScreenSize"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IDeviceInformationService ScreenSize. Λαμβάνει ή ορίζει το μέγεθος της οθόνης."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.services/ideviceinformationservice/screensize/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.services/ideviceinformationservice/screensize/
 public Size ScreenSize { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος της οθόνης.
 
@@ -22,7 +22,5 @@ public Size ScreenSize { get; set; }
 
 * class [Size](../../../aspose.svg.drawing/size/)
 * interface [IDeviceInformationService](../)
-* χώρος ονομάτων [Aspose.Svg.Services](../../ideviceinformationservice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

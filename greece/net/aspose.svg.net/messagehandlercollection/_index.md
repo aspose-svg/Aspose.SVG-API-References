@@ -1,14 +1,14 @@
 ---
-title: Class MessageHandlerCollection
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.MessageHandlerCollection τάξη. Αντιπροσωπεύει τη συλλογή τουMessageHandler .
+title: "Τάξη MessageHandlerCollection"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Τάξη Aspose.Svg.Net.MessageHandlerCollection. Αναπαριστά τη συλλογή του MessageHandler"
 type: docs
-weight: 2350
+weight: 4420
 url: /el/net/aspose.svg.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
 
-Αντιπροσωπεύει τη συλλογή του[`MessageHandler`](../messagehandler/) .
+Αναπαριστά τη συλλογή του [`MessageHandler`](../messagehandler/).
 
 ```csharp
 public class MessageHandlerCollection : Collection<MessageHandler>
@@ -16,14 +16,20 @@ public class MessageHandlerCollection : Collection<MessageHandler>
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [MessageHandlerCollection](messagehandlercollection/)() | Ο προεπιλεγμένος κατασκευαστής. |
+
+## Ιδιότητες
+
+| Όνομα | Περιγραφή |
+| --- | --- |
+| [Count](../../system.collections.objectmodel/collection-1/count/) { get; } |  |
+| [Item](../../system.collections.objectmodel/collection-1/item/) { get; set; } |  |
+| [Items](../../system.collections.objectmodel/collection-1/items/) { get; } |  |
 
 ### Δείτε επίσης
 
 * class [MessageHandler](../messagehandler/)
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

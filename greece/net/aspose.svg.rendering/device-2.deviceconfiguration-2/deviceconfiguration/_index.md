@@ -1,12 +1,12 @@
 ---
-title: Device2.DeviceConfiguration2.DeviceConfiguration
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DeviceConfiguration κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "Device-2.DeviceConfiguration-2.DeviceConfiguration"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής DeviceConfiguration. Ο προεπιλεγμένος κατασκευαστής."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering/device-2.deviceconfiguration-2/deviceconfiguration/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; constructor
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
 
@@ -17,7 +17,5 @@ public DeviceConfiguration()
 ### Δείτε επίσης
 
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2.deviceconfiguration-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

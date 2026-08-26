@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.RemoveNamedItemNS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NamedNodeMap μέθοδος. Καταργεί έναν κόμβο που καθορίζεται από τοπικό όνομα και χώρο ονομάτων URI.
+title: "NamedNodeMap.RemoveNamedItemNS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "NamedNodeMap RemoveNamedItemNS μέθοδος. Αφαιρεί έναν κόμβο που καθορίζεται με το τοπικό όνομα και το URI του χώρου ονομάτων."
 type: docs
-weight: 70
+weight: 60
 url: /el/net/aspose.svg.collections/namednodemap/removenameditemns/
 ---
 ## NamedNodeMap.RemoveNamedItemNS method
 
-Καταργεί έναν κόμβο που καθορίζεται από τοπικό όνομα και χώρο ονομάτων URI.
+Αφαιρεί έναν κόμβο που καθορίζεται με τοπικό όνομα και URI ονοματοχώρου.
 
 ```csharp
 public Attr RemoveNamedItemNS(string namespaceURI, string localName)
@@ -16,18 +16,16 @@ public Attr RemoveNamedItemNS(string namespaceURI, string localName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceURI | String | Το URI του χώρου ονομάτων. |
-| localName | String | Όνομα του τοπικού. |
+| namespaceURI | String | Το namespace URI. |
+| localName | String | Το τοπικό όνομα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει τον κόμβο.
+Επιστρέφει κόμβο.
 
 ### Δείτε επίσης
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../namednodemap/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

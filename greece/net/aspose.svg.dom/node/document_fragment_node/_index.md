@@ -1,14 +1,14 @@
 ---
-title: Node.DOCUMENT_FRAGMENT_NODE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node πεδίο. Ένα κομμάτι εγγράφου node
+title: "Node.DOCUMENT_FRAGMENT_NODE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο Node DOCUMENT_FRAGMENT_NODE. Ένας κόμβος τμήματος εγγράφου."
 type: docs
-weight: 350
+weight: 330
 url: /el/net/aspose.svg.dom/node/document_fragment_node/
 ---
 ## Node.DOCUMENT_FRAGMENT_NODE field
 
-Ένα κομμάτι εγγράφου node
+Ένας κόμβος τμήματος εγγράφου
 
 ```csharp
 public const ushort DOCUMENT_FRAGMENT_NODE;
@@ -17,7 +17,5 @@ public const ushort DOCUMENT_FRAGMENT_NODE;
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

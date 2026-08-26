@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.Headers
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Το Aspose.Svg.Net.Headers παρέχει λίγες τάξεις δεδομένων για που περιγράφει περιεχόμενο κεφαλίδας στο δίκτυο.
+title: "Aspose.Svg.Net.Headers"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η Aspose.Svg.Net.Headers παρέχει λίγες κλάσεις δεδομένων για την περιγραφή του περιεχομένου των κεφαλίδων στο δίκτυο."
 type: docs
-weight: 200
+weight: 220
 url: /el/net/aspose.svg.net.headers/
 ---
-Το **Aspose.Svg.Net.Headers** παρέχει λίγες τάξεις δεδομένων για που περιγράφει περιεχόμενο κεφαλίδας στο δίκτυο.
+Το **Aspose.Svg.Net.Headers** παρέχει λίγες κλάσεις δεδομένων για την περιγραφή του περιεχομένου των κεφαλίδων στο δίκτυο.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [ContentDispositionHeaderValue](./contentdispositionheadervalue/) | Αντιπροσωπεύει την τιμή κεφαλίδας Content-Disposition. |
-| [ContentTypeHeaderValue](./contenttypeheadervalue/) | Αντιπροσωπεύει μια τιμή κεφαλίδας τύπου περιεχομένου. |
-| [NameValueHeaderValue](./namevalueheadervalue/) | Αντιπροσωπεύει ένα ζεύγος ονόματος/τιμής που περιγράφει μια τιμή κεφαλίδας. |
-
-
+| [ContentDispositionHeaderValue](./contentdispositionheadervalue/) | Αναπαριστά την τιμή της κεφαλίδας Content-Disposition. |
+| [ContentTypeHeaderValue](./contenttypeheadervalue/) | Αναπαριστά μια τιμή κεφαλίδας Content-Type. |
+| [NameValueHeaderValue](./namevalueheadervalue/) | Αναπαριστά ένα ζεύγος όνομα/τιμή που περιγράφει μια τιμή κεφαλίδας. |

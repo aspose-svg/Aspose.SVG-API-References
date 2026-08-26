@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.LineWidth
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext ιδιοκτησία. Ορίζει ή λαμβάνει το πάχος των μονοπατιών που πρέπει να περάσουν.
+title: "GraphicContext.LineWidth"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα LineWidth του GraphicContext. Ορίζει ή διαβάζει το πάχος των διαδρομών που θα σχεδιαστούν"
 type: docs
 weight: 120
 url: /el/net/aspose.svg.rendering/graphiccontext/linewidth/
 ---
 ## GraphicContext.LineWidth property
 
-Ορίζει ή λαμβάνει το πάχος των μονοπατιών που πρέπει να περάσουν.
+Ορίζει ή επιστρέφει το πάχος των διαδρομών που θα σχεδιαστούν.
 
 ```csharp
 public virtual float LineWidth { get; set; }
@@ -17,7 +17,5 @@ public virtual float LineWidth { get; set; }
 ### Δείτε επίσης
 
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

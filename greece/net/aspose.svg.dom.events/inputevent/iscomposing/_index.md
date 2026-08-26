@@ -1,27 +1,25 @@
 ---
-title: InputEvent.IsComposing
-second_title: Aspose.SVG για Αναφορά API .NET
-description: InputEvent ιδιοκτησία. true αν το συμβάν εισόδου εμφανίζεται ως μέρος μιας περιόδου σύνδεσης σύνθεσης δηλαδή μετά από ένα συμβάν έναρξης σύνθεσης και πριν από το αντίστοιχο συμβάν τέλους σύνθεσης. Η μη αρχικοποιημένη τιμή αυτού του χαρακτηριστικού ΠΡΕΠΕΙ να είναι ψευδής.
+title: "InputEvent.IsComposing"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα InputEvent IsComposing. true εάν το συμβάν εισόδου συμβαίνει ως μέρος μιας συνεδρίας σύνθεσης, δηλαδή μετά από ένα συμβάν compositionstart και πριν από το αντίστοιχο συμβάν compositionend. Η μη αρχικοποιημένη τιμή αυτού του χαρακτηριστικού ΠΡΕΠΕΙ να είναι false."
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.events/inputevent/iscomposing/
 ---
 ## InputEvent.IsComposing property
 
-true αν το συμβάν εισόδου εμφανίζεται ως μέρος μιας περιόδου σύνδεσης σύνθεσης, δηλαδή μετά από ένα συμβάν έναρξης σύνθεσης και πριν από το αντίστοιχο συμβάν τέλους σύνθεσης. Η μη αρχικοποιημένη τιμή αυτού του χαρακτηριστικού ΠΡΕΠΕΙ να είναι ψευδής.
+αληθές εάν το input event συμβαίνει ως μέρος μιας συνεδρίας σύνθεσης, δηλαδή μετά από ένα compositionstart event και πριν από το αντίστοιχο compositionend event. Η μη αρχικοποιημένη τιμή αυτού του χαρακτηριστικού ΠΡΕΠΕΙ να είναι ψευδής.
 
 ```csharp
 public bool IsComposing { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η περίπτωση συνθέτει. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι σε σύνθεση· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [InputEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../inputevent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

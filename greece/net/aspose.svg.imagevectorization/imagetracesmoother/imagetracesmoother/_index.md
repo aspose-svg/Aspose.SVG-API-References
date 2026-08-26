@@ -1,14 +1,14 @@
 ---
-title: ImageTraceSmoother.ImageTraceSmoother
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageTraceSmoother κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουImageTraceSmoother τάξη.
+title: "ImageTraceSmoother"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής ImageTraceSmoother. Αρχικοποιεί μια νέα παρουσία της κλάσης ImageTraceSmoother."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
 ## ImageTraceSmoother() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageTraceSmoother`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ImageTraceSmoother`](../).
 
 ```csharp
 public ImageTraceSmoother()
@@ -17,14 +17,14 @@ public ImageTraceSmoother()
 ### Δείτε επίσης
 
 * class [ImageTraceSmoother](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSmoother(int) {#constructor_1}
+## ImageTraceSmoother(*int*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageTraceSmoother`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ImageTraceSmoother`](../).
 
 ```csharp
 public ImageTraceSmoother(int severity)
@@ -32,12 +32,10 @@ public ImageTraceSmoother(int severity)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| severity | Int32 | Η σοβαρότητα |
+| σοβαρότητα | Int32 | Η σοβαρότητα |
 
 ### Δείτε επίσης
 
 * class [ImageTraceSmoother](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

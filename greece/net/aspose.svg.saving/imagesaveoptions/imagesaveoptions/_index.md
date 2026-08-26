@@ -1,14 +1,14 @@
 ---
-title: ImageSaveOptions.ImageSaveOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageSaveOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουImageSaveOptions τάξηPng θα χρησιμοποιηθεί ως προεπιλεγμένη μορφή εικόνας.
+title: "ImageSaveOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ImageSaveOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης ImageSaveOptions. Το Png θα χρησιμοποιηθεί ως προεπιλεγμένη μορφή εικόνας."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.saving/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageSaveOptions`](../) τάξη;Png θα χρησιμοποιηθεί ως προεπιλεγμένη μορφή εικόνας.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ImageSaveOptions`](../); Το Png θα χρησιμοποιηθεί ως προεπιλεγμένη μορφή εικόνας.
 
 ```csharp
 public ImageSaveOptions()
@@ -17,14 +17,14 @@ public ImageSaveOptions()
 ### Δείτε επίσης
 
 * class [ImageSaveOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../imagesaveoptions/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageSaveOptions(ImageFormat) {#constructor_1}
+## ImageSaveOptions(*[ImageFormat](../../../aspose.svg.rendering.image/imageformat/)*) {#constructor_1}
 
-Μορφή εικόνας[`ImageFormat`](../../../aspose.svg.rendering.image/imageformat/) με βάση αρχικοποίηση
+Μορφή εικόνας [`ImageFormat`](../../../aspose.svg.rendering.image/imageformat/) βάσει αρχικοποίησης
 
 ```csharp
 public ImageSaveOptions(ImageFormat format)
@@ -32,13 +32,11 @@ public ImageSaveOptions(ImageFormat format)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| format | ImageFormat | Μορφή εικόνας |
+| μορφή | ImageFormat | Μορφή εικόνας |
 
 ### Δείτε επίσης
 
 * enum [ImageFormat](../../../aspose.svg.rendering.image/imageformat/)
 * class [ImageSaveOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../imagesaveoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

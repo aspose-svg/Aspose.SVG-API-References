@@ -1,27 +1,25 @@
 ---
-title: HttpMethod.GetHashCode
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HttpMethod μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+title: "HttpMethod.GetHashCode"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "HttpMethod GetHashCode μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την παρουσία."
 type: docs
 weight: 70
 url: /el/net/aspose.svg.net/httpmethod/gethashcode/
 ---
 ## HttpMethod.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την παρουσία.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κωδικός κατακερματισμού για αυτήν την περίπτωση, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
+Ένας κωδικός κατακερματισμού για αυτήν την παρουσία, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
 
 ### Δείτε επίσης
 
 * class [HttpMethod](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../httpmethod/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: ResponseMessage.Content
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResponseMessage ιδιοκτησία. Λαμβάνει ή ορίζει το περιεχόμενο απόκρισης.
+title: "ResponseMessage.Content"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ResponseMessage Content. Λαμβάνει ή ορίζει το περιεχόμενο της απάντησης"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net/responsemessage/content/
 ---
 ## ResponseMessage.Content property
 
-Λαμβάνει ή ορίζει το περιεχόμενο απόκρισης.
+Αποκτά ή ορίζει το περιεχόμενο της απάντησης.
 
 ```csharp
 public Content Content { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το σώμα.
 
@@ -22,7 +22,5 @@ public Content Content { get; set; }
 
 * class [Content](../../content/)
 * class [ResponseMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../responsemessage/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

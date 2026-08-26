@@ -1,14 +1,14 @@
 ---
-title: Unit.FromPoints
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αLength αντικείμενο που αναπαρίσταται σε σημεία.
+title: "Unit.FromPoints"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Unit FromPoints. Επιστρέφει ένα αντικείμενο Length που αντιπροσωπεύεται σε σημεία"
 type: docs
 weight: 180
 url: /el/net/aspose.svg.drawing/unit/frompoints/
 ---
 ## Unit.FromPoints method
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο που αναπαρίσταται σε σημεία.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/) που αντιπροσωπεύεται σε σημεία.
 
 ```csharp
 public static Length FromPoints(double value)
@@ -16,17 +16,15 @@ public static Length FromPoints(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/).
 
 ### Δείτε επίσης
 
 * class [Length](../../length/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

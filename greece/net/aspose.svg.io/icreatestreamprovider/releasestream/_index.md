@@ -1,7 +1,7 @@
 ---
-title: ICreateStreamProvider.ReleaseStream
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICreateStreamProvider μέθοδος. Απελευθερώνει τη ροή.
+title: "ICreateStreamProvider.ReleaseStream"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος ReleaseStream του ICreateStreamProvider. Απελευθερώνει τη ροή"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.io/icreatestreamprovider/releasestream/
@@ -16,12 +16,10 @@ public void ReleaseStream(Stream stream)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Το stream απελευθερώνεται. |
+| stream | Stream | Η ροή που απελευθερώνεται. |
 
 ### Δείτε επίσης
 
 * interface [ICreateStreamProvider](../)
-* χώρος ονομάτων [Aspose.Svg.IO](../../icreatestreamprovider/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

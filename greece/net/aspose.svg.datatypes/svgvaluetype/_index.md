@@ -1,9 +1,9 @@
 ---
-title: Class SVGValueType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.DataTypes.SVGValueType τάξη. Ο τύπος SVGValueType χρησιμοποιείται για την αναπαράσταση ενός βασικού τύπου τιμής SVG.
+title: "SVGValueType Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.DataTypes.SVGValueType κλάση. Ο τύπος SVGValueType χρησιμοποιείται για την αναπαράσταση ενός βασικού τύπου τιμής SVG."
 type: docs
-weight: 340
+weight: 2330
 url: /el/net/aspose.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class
@@ -16,15 +16,13 @@ public abstract class SVGValueType : DOMObject, IDisposable
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου του αντικειμένου ECMAScript. |
 
 ### Δείτε επίσης
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

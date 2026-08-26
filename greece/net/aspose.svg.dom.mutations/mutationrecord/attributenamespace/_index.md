@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.AttributeNamespace
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationRecord ιδιοκτησία. Επιστρέφει τον χώρο ονομάτων του αλλαγμένου χαρακτηριστικού και μηδενίζει διαφορετικά.
+title: "MutationRecord.AttributeNamespace"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MutationRecord AttributeNamespace. Επιστρέφει το namespace του τροποποιημένου attribute και null διαφορετικά"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom.mutations/mutationrecord/attributenamespace/
 ---
 ## MutationRecord.AttributeNamespace property
 
-Επιστρέφει τον χώρο ονομάτων του αλλαγμένου χαρακτηριστικού και μηδενίζει διαφορετικά.
+Επιστρέφει το namespace του τροποποιημένου χαρακτηριστικού, και null διαφορετικά.
 
 ```csharp
 public string AttributeNamespace { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο χώρος ονομάτων χαρακτηριστικών.
+Ο χώρος ονομάτων του χαρακτηριστικού.
 
 ### Δείτε επίσης
 
 * class [MutationRecord](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

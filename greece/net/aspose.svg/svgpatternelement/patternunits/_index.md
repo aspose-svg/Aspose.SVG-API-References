@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternUnits
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPatternElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό patternUnits στο δεδομένο στοιχείο pattern. Λαμβάνει μία από τις σταθερές που ορίζονται στο SVGUnitTypes.
+title: "SVGPatternElement.PatternUnits"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PatternUnits του SVGPatternElement. Αντιστοιχεί στην ιδιότητα patternUnits στο δεδομένο στοιχείο pattern. Παίρνει μία από τις σταθερές που ορίζονται στο SVGUnitTypes"
 type: docs
 weight: 50
 url: /el/net/aspose.svg/svgpatternelement/patternunits/
 ---
 ## SVGPatternElement.PatternUnits property
 
-Αντιστοιχεί στο χαρακτηριστικό "patternUnits" στο δεδομένο στοιχείο "pattern". Λαμβάνει μία από τις σταθερές που ορίζονται στο SVGUnitTypes.
+Αντιστοιχεί στο χαρακτηριστικό ‘patternUnits’ του δεδομένου στοιχείου ‘pattern’. Παίρνει μία από τις σταθερές που ορίζονται στο SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration PatternUnits { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "patternUnits" του δεδομένου στοιχείου "pattern".
+Η ιδιότητα ‘patternUnits’ του δεδομένου στοιχείου ‘pattern’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGPatternElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpatternelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

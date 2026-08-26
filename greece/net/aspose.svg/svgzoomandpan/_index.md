@@ -1,9 +1,9 @@
 ---
-title: Enum SVGZoomAndPan
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.SVGZoomAndPan αρίθμηση. Η απαρίθμηση SVGZoomAndPan ορίζει το χαρακτηριστικό zoomAndPan και τις σχετικές σταθερές.
+title: "SVGZoomAndPan Enum"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.SVGZoomAndPan enum. Η απαρίθμηση SVGZoomAndPan ορίζει το χαρακτηριστικό zoomAndPan και τα συναφή σταθερά"
 type: docs
-weight: 3600
+weight: 5670
 url: /el/net/aspose.svg/svgzoomandpan/
 ---
 ## SVGZoomAndPan enumeration
@@ -14,17 +14,15 @@ url: /el/net/aspose.svg/svgzoomandpan/
 public enum SVGZoomAndPan : ushort
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| SVG_ZOOMANDPAN_UNKNOWN | `0` | Η απαρίθμηση ορίστηκε σε μια τιμή που δεν ανήκει σε προκαθορισμένους τύπους. Δεν είναι έγκυρο να επιχειρήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο. |
-| SVG_ZOOMANDPAN_DISABLE | `1` | Αντιστοιχεί στην τιμή "disable". |
-| SVG_ZOOMANDPAN_MAGNIFY | `2` | Αντιστοιχεί στην τιμή "μεγέθυνση". |
+| SVG_ZOOMANDPAN_UNKNOWN | `0` | Η απαρίθμηση ορίστηκε σε τιμή που δεν είναι μία από τις προκαθορισμένους τύπους. Είναι άκυρο να προσπαθήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο. |
+| SVG_ZOOMANDPAN_DISABLE | `1` | Αντιστοιχεί στην τιμή 'disable'. |
+| SVG_ZOOMANDPAN_MAGNIFY | `2` | Αντιστοιχεί στην τιμή 'magnify'. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg](../../aspose.svg/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: ContentHeaders.ContentType
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ContentHeaders ιδιοκτησία. Λαμβάνει την τιμή της κεφαλίδας ContentType.
+title: "ContentHeaders.ContentType"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ContentHeaders ContentType ιδιότητα. Λαμβάνει την τιμή της κεφαλίδας Content-Type."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net/contentheaders/contenttype/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.net/contentheaders/contenttype/
 public ContentTypeHeaderValue ContentType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του περιεχομένου.
 
@@ -22,7 +22,5 @@ public ContentTypeHeaderValue ContentType { get; }
 
 * class [ContentTypeHeaderValue](../../../aspose.svg.net.headers/contenttypeheadervalue/)
 * class [ContentHeaders](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../contentheaders/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

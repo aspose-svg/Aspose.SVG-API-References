@@ -1,14 +1,14 @@
 ---
-title: SplinePathBuilder.SplinePathBuilder
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SplinePathBuilder κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSplinePathBuilder τάξη.
+title: "SplinePathBuilder"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής SplinePathBuilder. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης SplinePathBuilder."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.imagevectorization/splinepathbuilder/splinepathbuilder/
 ---
 ## SplinePathBuilder() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`SplinePathBuilder`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder()
@@ -17,14 +17,14 @@ public SplinePathBuilder()
 ### Δείτε επίσης
 
 * class [SplinePathBuilder](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SplinePathBuilder(float) {#constructor_2}
+## SplinePathBuilder(*float*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`SplinePathBuilder`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder(float tension)
@@ -37,14 +37,14 @@ public SplinePathBuilder(float tension)
 ### Δείτε επίσης
 
 * class [SplinePathBuilder](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SplinePathBuilder(IImageTraceSmoother, IImageTraceSimplifier, float) {#constructor_1}
+## SplinePathBuilder(*[IImageTraceSmoother](../../iimagetracesmoother/), [IImageTraceSimplifier](../../iimagetracesimplifier/), float*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`SplinePathBuilder`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifier traceSimplifier, 
@@ -53,8 +53,8 @@ public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifie
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| traceSmoother | IImageTraceSmoother | Το ίχνος πιο ομαλό. |
-| traceSimplifier | IImageTraceSimplifier | Το ίχνος απλοποίησης. |
+| traceSmoother | IImageTraceSmoother | Ο εξομαλυντής trace. |
+| traceSimplifier | IImageTraceSimplifier | Ο απλοποιητής trace. |
 | tension | Single | Η ένταση. |
 
 ### Δείτε επίσης
@@ -62,7 +62,5 @@ public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifie
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

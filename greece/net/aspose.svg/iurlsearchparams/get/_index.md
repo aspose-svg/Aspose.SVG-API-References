@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Get
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IUrlSearchParams μέθοδος. Επιστρέφει την τιμή του πρώτου ζεύγους ονόματοςτιμής του οποίου το όνομα είναιόνομα .
+title: "IUrlSearchParams.Get"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IUrlSearchParams Get μέθοδος. Επιστρέφει την τιμή του πρώτου ζεύγους όνομα‑τιμή του οποίου το όνομα είναι name."
 type: docs
 weight: 30
 url: /el/net/aspose.svg/iurlsearchparams/get/
 ---
 ## IUrlSearchParams.Get method
 
-Επιστρέφει την τιμή του πρώτου ζεύγους ονόματος-τιμής του οποίου το όνομα είναι`όνομα` .
+Επιστρέφει την τιμή του πρώτου ζεύγους όνομα-τιμή του οποίου το όνομα είναι `name`.
 
 ```csharp
 public string Get(string name)
@@ -16,16 +16,14 @@ public string Get(string name)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Κλειδί που θα χρησιμοποιηθεί για την εύρεση ζεύγους ονόματος-τιμής. |
+| name | String | Κλειδί που θα χρησιμοποιηθεί για την εύρεση ζεύγους όνομα‑τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τιμή του πρώτου ζεύγους όνομα-τιμή του οποίου το όνομα είναι`όνομα` ή null αν δεν υπάρχει.
+Τιμή του πρώτου ζεύγους όνομα‑τιμή του οποίου το όνομα είναι `name` ή null εάν δεν υπάρχει.
 
 ### Δείτε επίσης
 
 * interface [IUrlSearchParams](../)
-* χώρος ονομάτων [Aspose.Svg](../../iurlsearchparams/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

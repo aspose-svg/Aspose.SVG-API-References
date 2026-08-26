@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.StrokeBrush
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext ιδιοκτησία. Ορίζει ή λαμβάνει το αντικείμενο πινέλου που χρησιμοποιείται για διαγραμμισμένες διαδρομές.
+title: "GraphicContext.StrokeBrush"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "GraphicContext StrokeBrush ιδιότητα. Ορίζει ή λαμβάνει το αντικείμενο πινέλου που χρησιμοποιείται για σχεδιασμένες διαδρομές."
 type: docs
 weight: 140
 url: /el/net/aspose.svg.rendering/graphiccontext/strokebrush/
 ---
 ## GraphicContext.StrokeBrush property
 
-Ορίζει ή λαμβάνει το αντικείμενο πινέλου που χρησιμοποιείται για διαγραμμισμένες διαδρομές.
+Ορίζει ή επιστρέφει το αντικείμενο πινέλου που χρησιμοποιείται για σχεδιασμένες διαδρομές.
 
 ```csharp
 public virtual IBrush StrokeBrush { get; set; }
@@ -18,7 +18,5 @@ public virtual IBrush StrokeBrush { get; set; }
 
 * interface [IBrush](../../../aspose.svg.drawing/ibrush/)
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

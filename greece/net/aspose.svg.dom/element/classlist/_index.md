@@ -1,14 +1,14 @@
 ---
-title: Element.ClassList
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element ιδιοκτησία. Επιστρέφει μια ζωντανή DOTokenList που περιέχει διακριτικά που λαμβάνονται από την ανάλυση του χαρακτηριστικού class.
+title: "Element.ClassList"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Element ClassList. Επιστρέφει μια ζωντανή DOMTokenList που περιέχει διακριτικά που προέρχονται από την ανάλυση του χαρακτηριστικού class."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom/element/classlist/
 ---
 ## Element.ClassList property
 
-Επιστρέφει μια ζωντανή DOTokenList που περιέχει διακριτικά που λαμβάνονται από την ανάλυση του χαρακτηριστικού "class".
+Επιστρέφει μια ζωντανή DOMTokenList που περιέχει διακριτικά που λήφθηκαν από την ανάλυση του χαρακτηριστικού \"class\".
 
 ```csharp
 public DOMTokenList ClassList { get; }
@@ -18,7 +18,5 @@ public DOMTokenList ClassList { get; }
 
 * class [DOMTokenList](../../../aspose.svg.collections/domtokenlist/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

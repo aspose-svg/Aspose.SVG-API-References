@@ -1,14 +1,14 @@
 ---
-title: Class HTMLCollection
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Collections.HTMLCollection τάξη. ΤοHTMLCollection αντιπροσωπεύει μια γενική συλλογή απόElement .
+title: "HTMLCollection Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Collections.HTMLCollection κλάση. Η HTMLCollection αντιπροσωπεύει μια γενική συλλογή στοιχείων Element"
 type: docs
-weight: 20
+weight: 2010
 url: /el/net/aspose.svg.collections/htmlcollection/
 ---
 ## HTMLCollection class
 
-Το`HTMLCollection` αντιπροσωπεύει μια γενική συλλογή από[`Element`](../../aspose.svg.dom/element/) .
+Η `HTMLCollection` αντιπροσωπεύει μια γενική συλλογή του [`Element`](../../aspose.svg.dom/element/).
 
 ```csharp
 public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
@@ -16,24 +16,22 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [Item](../../aspose.svg.collections/htmlcollection/item/) { get; } | Επιστρέφει το ευρετήριο-ο στοιχείο στη συλλογή. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων στη λίστα, επιστρέφει null. |
+| abstract [Item](../../aspose.svg.collections/htmlcollection/item/) { get; } | Επιστρέφει το στοιχείο με δείκτη index στην συλλογή. Εάν το index είναι μεγαλύτερο ή ίσο με τον αριθμό των κόμβων στη λίστα, επιστρέφει null. |
 | abstract [Length](../../aspose.svg.collections/htmlcollection/length/) { get; } | Ο αριθμός των κόμβων στη λίστα. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.svg.collections/htmlcollection/getenumerator/)() | Παίρνει τον απαριθμητή. |
-| override [GetPlatformType](../../aspose.svg.collections/htmlcollection/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType . |
-| [NamedItem](../../aspose.svg.collections/htmlcollection/nameditem/)(string) | Επιστρέφει το στοιχείο στη συλλογή που αντιστοιχεί στο καθορισμένο όνομα. |
+| abstract [GetEnumerator](../../aspose.svg.collections/htmlcollection/getenumerator/)() | Λαμβάνει τον απαριθμητή. |
+| override [GetPlatformType](../../aspose.svg.collections/htmlcollection/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου αντικειμένου ECMAScript. |
+| [NamedItem](../../aspose.svg.collections/htmlcollection/nameditem/)(*string*) | Επιστρέφει το στοιχείο στη συλλογή που ταιριάζει με το καθορισμένο όνομα. |
 
 ### Δείτε επίσης
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
 * class [Element](../../aspose.svg.dom/element/)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

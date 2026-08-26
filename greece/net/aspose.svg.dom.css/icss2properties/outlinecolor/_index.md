@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.OutlineColor
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας περίγραμμαχρώματος στο CSS2.
+title: "ICSS2Properties.OutlineColor"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties OutlineColor ιδιότητα. Δείτε τον ορισμό της ιδιότητας outline-color στο CSS2"
 type: docs
-weight: 760
+weight: 790
 url: /el/net/aspose.svg.dom.css/icss2properties/outlinecolor/
 ---
 ## ICSS2Properties.OutlineColor property
 
-Δείτε τον ορισμό της ιδιότητας περίγραμμα-χρώματος στο CSS2.
+Δείτε τον ορισμό της ιδιότητας outline-color στο CSS2.
 
 ```csharp
 public string OutlineColor { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα περιγράμματος-χρώματος
+outline-color ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

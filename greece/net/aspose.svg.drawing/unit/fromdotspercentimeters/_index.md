@@ -1,14 +1,14 @@
 ---
-title: Unit.FromDotsPerCentimeters
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αResolution αντικείμενο που αναπαρίσταται σε κουκκίδες ανά εκατοστό.
+title: "Unit.FromDotsPerCentimeters"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Unit FromDotsPerCentimeters μέθοδος. Επιστρέφει ένα αντικείμενο Resolution που αντιπροσωπεύεται σε κουκκίδες ανά εκατοστό"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.drawing/unit/fromdotspercentimeters/
 ---
 ## Unit.FromDotsPerCentimeters method
 
-Επιστρέφει α[`Resolution`](../../resolution/) αντικείμενο που αναπαρίσταται σε κουκκίδες ανά εκατοστό.
+Επιστρέφει ένα αντικείμενο [`Resolution`](../../resolution/) που αντιπροσωπεύεται σε κουκκίδες ανά εκατοστό.
 
 ```csharp
 public static Resolution FromDotsPerCentimeters(double value)
@@ -16,17 +16,15 @@ public static Resolution FromDotsPerCentimeters(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Resolution`](../../resolution/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Resolution`](../../resolution/).
 
 ### Δείτε επίσης
 
 * class [Resolution](../../resolution/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

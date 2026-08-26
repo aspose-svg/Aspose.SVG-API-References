@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGFitToViewBox
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.ISVGFitToViewBox διεπαφή. Η διεπαφή SVGFitToViewBox ορίζει χαρακτηριστικά DOM που ισχύουν για στοιχεία που έχουν χαρακτηριστικά XML viewBox και preserveAspectRatio.
+title: "ISVGFitToViewBox Διασύνδεση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.ISVGFitToViewBox διασύνδεση. Η διασύνδεση SVGFitToViewBox ορίζει χαρακτηριστικά DOM που εφαρμόζονται σε στοιχεία που έχουν τα XML χαρακτηριστικά viewBox και preserveAspectRatio"
 type: docs
-weight: 2010
+weight: 4080
 url: /el/net/aspose.svg/isvgfittoviewbox/
 ---
 ## ISVGFitToViewBox interface
 
-Η διεπαφή SVGFitToViewBox ορίζει χαρακτηριστικά DOM που ισχύουν για στοιχεία που έχουν χαρακτηριστικά XML «viewBox» και «preserveAspectRatio».
+Η διεπαφή SVGFitToViewBox ορίζει χαρακτηριστικά DOM που εφαρμόζονται σε στοιχεία που έχουν τα XML χαρακτηριστικά ‘viewBox’ και ‘preserveAspectRatio’.
 
 ```csharp
 public interface ISVGFitToViewBox
@@ -16,14 +16,12 @@ public interface ISVGFitToViewBox
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio/) { get; } | Αντιστοιχεί στο χαρακτηριστικό "preserveAspectRatio" στο δεδομένο στοιχείο. |
-| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox/) { get; } | Αντιστοιχεί στο χαρακτηριστικό "viewBox" στο δεδομένο στοιχείο. |
+| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘preserveAspectRatio’ του δεδομένου στοιχείου. |
+| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox/) { get; } | Αντιστοιχεί στο χαρακτηριστικό ‘viewBox’ του δεδομένου στοιχείου. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg](../../aspose.svg/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

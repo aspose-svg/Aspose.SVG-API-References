@@ -1,7 +1,7 @@
 ---
-title: ICSSStyleRule.Style
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSStyleRule ιδιοκτησία. Το μπλοκ δήλωσης αυτού του συνόλου κανόνων.
+title: "ICSSStyleRule.Style"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSSStyleRule Style property. Το μπλοκ δήλωσης αυτού του συνόλου κανόνων."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.css/icssstylerule/style/
@@ -18,7 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSStyleRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssstylerule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IStyleSheetList.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IStyleSheetList ιδιοκτησία. Χρησιμοποιείται για την ανάκτηση ενός φύλλου στυλ κατά στοιχείο μεθόδου int index σύμφωνα με το http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/stylesheets.html.
+title: "IStyleSheetList.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IStyleSheetList Item property. Χρησιμοποιείται για την ανάκτηση ενός φύλλου στυλ με τη μέθοδο itemint index σύμφωνα με http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-Χρησιμοποιείται για την ανάκτηση ενός φύλλου στυλ κατά στοιχείο μεθόδου (int index) σύμφωνα με το http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html.
+Χρησιμοποιείται για την ανάκτηση ενός φύλλου στυλ με τη μέθοδο item(int index) σύμφωνα με http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html.
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
@@ -16,21 +16,19 @@ public ICSSStyleSheet this[int index] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Το ευρετήριο του φύλλου στυλ |
+| δείκτης | Ο δείκτης του φύλλου στυλ |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η παρουσία του φύλλου στυλ CSS.
+Το στιγμιότυπο του CSS stylesheet.
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`ICSSStyleSheet`](../../icssstylesheet/) .
+Το [`ICSSStyleSheet`](../../icssstylesheet/).
 
 ### Δείτε επίσης
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [IStyleSheetList](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: MultipartFormDataContent.MultipartFormDataContent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MultipartFormDataContent κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουMultipartFormDataContent τάξη.
+title: "MultipartFormDataContent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής MultipartFormDataContent. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης MultipartFormDataContent"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/multipartformdatacontent/multipartformdatacontent/
 ---
 ## MultipartFormDataContent() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`MultipartFormDataContent`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`MultipartFormDataContent`](../).
 
 ```csharp
 public MultipartFormDataContent()
@@ -17,14 +17,14 @@ public MultipartFormDataContent()
 ### Δείτε επίσης
 
 * class [MultipartFormDataContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartformdatacontent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartFormDataContent(string) {#constructor_1}
+## MultipartFormDataContent(*string*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`MultipartFormDataContent`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`MultipartFormDataContent`](../).
 
 ```csharp
 public MultipartFormDataContent(string boundary)
@@ -37,7 +37,5 @@ public MultipartFormDataContent(string boundary)
 ### Δείτε επίσης
 
 * class [MultipartFormDataContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartformdatacontent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

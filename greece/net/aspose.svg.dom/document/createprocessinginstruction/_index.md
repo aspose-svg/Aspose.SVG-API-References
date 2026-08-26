@@ -1,7 +1,7 @@
 ---
-title: Document.CreateProcessingInstruction
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document μέθοδος. Δημιουργεί έναν κόμβο ProcessingInstruction με το καθορισμένο όνομα και τις συμβολοσειρές δεδομένων.
+title: "Document.CreateProcessingInstruction"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document CreateProcessingInstruction μέθοδος. Δημιουργεί έναν κόμβο ProcessingInstruction με το καθορισμένο όνομα και τις συμβολοσειρές δεδομένων."
 type: docs
 weight: 920
 url: /el/net/aspose.svg.dom/document/createprocessinginstruction/
@@ -16,18 +16,16 @@ public ProcessingInstruction CreateProcessingInstruction(string target, string d
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| target | String | Ο ΣΤΟΧΟΣ. |
-| data | String | Τα δεδομένα των οδηγιών. |
+| στόχος | String | Ο στόχος. |
+| δεδομένα | String | Τα δεδομένα εντολής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`ProcessingInstruction`](../../processinginstruction/) .
+Το [`ProcessingInstruction`](../../processinginstruction/).
 
 ### Δείτε επίσης
 
 * class [ProcessingInstruction](../../processinginstruction/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

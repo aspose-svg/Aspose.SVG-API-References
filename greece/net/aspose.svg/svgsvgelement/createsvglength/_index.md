@@ -1,20 +1,20 @@
 ---
-title: SVGSVGElement.CreateSVGLength
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement μέθοδος. Δημιουργεί ένα αντικείμενο SVGLength εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται στην τιμή 0 μονάδων χρήστη.
+title: "SVGSVGElement.CreateSVGLength"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος CreateSVGLength του SVGSVGElement. Δημιουργεί ένα αντικείμενο SVGLength εκτός οποιουδήποτε δένδρου εγγράφου. Το αντικείμενο αρχικοποιείται στην τιμή 0 μονάδες χρήστη."
 type: docs
 weight: 130
 url: /el/net/aspose.svg/svgsvgelement/createsvglength/
 ---
 ## SVGSVGElement.CreateSVGLength method
 
-Δημιουργεί ένα αντικείμενο SVGLength εκτός οποιωνδήποτε δέντρων εγγράφων. Το αντικείμενο αρχικοποιείται στην τιμή 0 μονάδων χρήστη.
+Δημιουργεί ένα αντικείμενο SVGLength εκτός οποιουδήποτε δέντρου εγγράφου. Το αντικείμενο αρχικοποιείται στην τιμή 0 μονάδες χρήστη.
 
 ```csharp
 public SVGLength CreateSVGLength()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα αντικείμενο SVGLength.
 
@@ -22,7 +22,5 @@ public SVGLength CreateSVGLength()
 
 * class [SVGLength](../../../aspose.svg.datatypes/svglength/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

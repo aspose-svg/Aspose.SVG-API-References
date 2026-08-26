@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnPause
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnPause.
+title: "IGlobalEventHandlers.OnPause"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnPause συμβάν. Λαμβάνει ή ορίζει τον χειριστή του συμβάντος για το συμβάν OnPause"
 type: docs
 weight: 320
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/onpause/
 ---
 ## IGlobalEventHandlers.OnPause event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnPause.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnPause συμβάν.
 
 ```csharp
 public event DOMEventHandler OnPause;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnPause;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,33 @@
 ---
-title: Node.FirstChild
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node ιδιοκτησία. Το πρώτο παιδί αυτού του κόμβου. Εάν δεν υπάρχει τέτοιος κόμβος αυτός επιστρέφει null.
+title: "Node.FirstChild"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Node FirstChild. Επιστρέφει το πρώτο παιδί του κόμβου στο δέντρο ή null εάν ο κόμβος δεν έχει παιδιά."
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.svg.dom/node/firstchild/
 ---
 ## Node.FirstChild property
 
-Το πρώτο παιδί αυτού του κόμβου. Εάν δεν υπάρχει τέτοιος κόμβος, αυτός επιστρέφει null.
+Επιστρέφει το πρώτο παιδί του κόμβου στο δέντρο, ή null εάν ο κόμβος δεν έχει παιδιά.
+
+Εάν ο κόμβος είναι Έγγραφο, αυτή η ιδιότητα επιστρέφει τον πρώτο κόμβο στη λίστα των άμεσων παιδιών του.
 
 ```csharp
 public Node FirstChild { get; }
 ```
 
+### Property Value
+
+Ένα [`Node`](../), ή null εάν δεν υπάρχουν.
+
+## Παρατηρήσεις
+
+Αναφορά:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-firstchild).
+
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

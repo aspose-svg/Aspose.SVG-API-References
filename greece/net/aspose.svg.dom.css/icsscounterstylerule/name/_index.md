@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Name
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSCounterStyleRule ιδιοκτησία. Παίρνει το όνομα.
+title: "ICSSCounterStyleRule.Name"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Name του ICSSCounterStyleRule. Λαμβάνει το όνομα"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.css/icsscounterstylerule/name/
 ---
 ## ICSSCounterStyleRule.Name property
 
-Παίρνει το όνομα.
+Λαμβάνει το όνομα.
 
 ```csharp
 public string Name { get; }
@@ -17,7 +17,5 @@ public string Name { get; }
 ### Δείτε επίσης
 
 * interface [ICSSCounterStyleRule](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

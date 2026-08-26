@@ -1,28 +1,26 @@
 ---
-title: SVGFEImageElement.PreserveAspectRatio
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEImageElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό preserveAspectRatio στο δεδομένο στοιχείο feImage.
+title: "SVGFEImageElement.PreserveAspectRatio"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGFEImageElement ιδιότητα PreserveAspectRatio. Αντιστοιχεί στο χαρακτηριστικό preserveAspectRatio στο δεδομένο στοιχείο feImage"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.filters/svgfeimageelement/preserveaspectratio/
 ---
 ## SVGFEImageElement.PreserveAspectRatio property
 
-Αντιστοιχεί στο χαρακτηριστικό "preserveAspectRatio" στο δεδομένο στοιχείο "feImage".
+Αντιστοιχεί στο χαρακτηριστικό ‘preserveAspectRatio’ του δεδομένου στοιχείου ‘feImage’.
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "preserveAspectRatio" του δεδομένου στοιχείου "feImage".
+Το χαρακτηριστικό ‘preserveAspectRatio’ του δεδομένου στοιχείου ‘feImage’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGFEImageElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfeimageelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

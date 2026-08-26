@@ -1,14 +1,14 @@
 ---
-title: IParentNode.QuerySelector
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IParentNode μέθοδος. Επιστρέφει το πρώτο στοιχείο που είναι απόγονος του κόμβου που ταιριάζει με τους επιλογείς.
+title: "IParentNode.QuerySelector"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IParentNode QuerySelector. Επιστρέφει το πρώτο στοιχείο που είναι απόγονος του κόμβου και ταιριάζει με τους επιλογείς"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom/iparentnode/queryselector/
 ---
 ## IParentNode.QuerySelector method
 
-Επιστρέφει το πρώτο στοιχείο που είναι απόγονος του κόμβου που ταιριάζει με τους επιλογείς.
+Επιστρέφει το πρώτο στοιχείο που είναι απόγονος του node και ταιριάζει με τους selectors.
 
 ```csharp
 public Element QuerySelector(string selectors)
@@ -16,17 +16,15 @@ public Element QuerySelector(string selectors)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| selectors | String | Οι επιλογείς. |
+| επιλογείς | String | Οι επιλογείς. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει το πρώτο αντιστοιχισμένο στοιχείο.
+Επιστρέφει το πρώτο ταιριαστό στοιχείο.
 
 ### Δείτε επίσης
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iparentnode/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

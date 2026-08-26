@@ -1,14 +1,14 @@
 ---
-title: Class SVGOptimizer
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Toolkit.Optimizers.SVGOptimizer τάξη. Το Το SVGOptimizer είναι μια στατική κλάση που έχει σχεδιαστεί για τη βελτιστοποίηση εγγράφων SVG. Με τον όρο βελτιστοποίηση εννοούμε την αφαίρεση αχρησιμοποίητων ή αόρατων στοιχείων και των χαρακτηριστικών τους τη συγχώνευση ομάδων και τη μείωση του μεγέθους των τμημάτων διαδρομής.
+title: "Κλάση SVGOptimizer"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η κλάση Aspose.Svg.Toolkit.Optimizers.SVGOptimizer. Η SVGOptimizer είναι μια στατική κλάση σχεδιασμένη για τη βελτιστοποίηση εγγράφων SVG. Με τη βελτιστοποίηση εννοούμε την αφαίρεση αχρησιμοποίητων ή αόρατων στοιχείων και των χαρακτηριστικών τους, τη συγχώνευση ομάδων και τη μείωση του μεγέθους των τμημάτων διαδρομής."
 type: docs
-weight: 3790
+weight: 5890
 url: /el/net/aspose.svg.toolkit.optimizers/svgoptimizer/
 ---
 ## SVGOptimizer class
 
-Το Το SVGOptimizer είναι μια στατική κλάση που έχει σχεδιαστεί για τη βελτιστοποίηση εγγράφων SVG. Με τον όρο βελτιστοποίηση, εννοούμε την αφαίρεση αχρησιμοποίητων ή αόρατων στοιχείων και των χαρακτηριστικών τους, τη συγχώνευση ομάδων και τη μείωση του μεγέθους των τμημάτων διαδρομής.
+Η SVGOptimizer είναι μια στατική κλάση σχεδιασμένη για τη βελτιστοποίηση εγγράφων SVG. Με τη βελτιστοποίηση εννοούμε την αφαίρεση αχρησιμοποίητων ή αόρατων στοιχείων και των ιδιοτήτων τους, τη συγχώνευση ομάδων και τη μείωση του μεγέθους των τμημάτων διαδρομής.
 
 ```csharp
 public static class SVGOptimizer
@@ -16,14 +16,12 @@ public static class SVGOptimizer
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [Optimize](../../aspose.svg.toolkit.optimizers/svgoptimizer/optimize/#optimize)(SVGDocument) | Βελτιστοποιεί[`SVGDocument`](../../aspose.svg/svgdocument/) εφαρμόζοντας ένα σύνολο προεπιλεγμένων επιλογών βελτιστοποίησης. |
-| static [Optimize](../../aspose.svg.toolkit.optimizers/svgoptimizer/optimize/#optimize_1)(SVGDocument, SVGOptimizationOptions) | Βελτιστοποιεί[`SVGDocument`](../../aspose.svg/svgdocument/) εφαρμόζοντας ένα σύνολο καθορισμένων επιλογών βελτιστοποίησης. |
+| static [Optimize](../../aspose.svg.toolkit.optimizers/svgoptimizer/optimize/#optimize)(*[SVGDocument](../../aspose.svg/svgdocument/)*) | Βελτιστοποιεί το [`SVGDocument`](../../aspose.svg/svgdocument/) εφαρμόζοντας ένα σύνολο προεπιλεγμένων επιλογών βελτιστοποίησης. |
+| static [Optimize](../../aspose.svg.toolkit.optimizers/svgoptimizer/optimize/#optimize_1)(*[SVGDocument](../../aspose.svg/svgdocument/), [SVGOptimizationOptions](../svgoptimizationoptions/)*) | Βελτιστοποιεί το [`SVGDocument`](../../aspose.svg/svgdocument/) εφαρμόζοντας ένα σύνολο καθορισμένων επιλογών βελτιστοποίησης. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Clear
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationObserverInit μέθοδος. Αφαιρεί όλα τα στοιχεία από τοMutationObserverInitσυλλογή.
+title: "MutationObserverInit.Clear"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Clear του MutationObserverInit. Αφαιρεί όλα τα στοιχεία από τη συλλογή MutationObserverInit"
 type: docs
 weight: 150
 url: /el/net/aspose.svg.dom.mutations/mutationobserverinit/clear/
 ---
 ## MutationObserverInit.Clear method
 
-Αφαιρεί όλα τα στοιχεία από το[`MutationObserverInit`](../)συλλογή.
+Αφαιρεί όλα τα στοιχεία από τη συλλογή [`MutationObserverInit`](../).
 
 ```csharp
 public void Clear()
@@ -17,7 +17,5 @@ public void Clear()
 ### Δείτε επίσης
 
 * class [MutationObserverInit](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

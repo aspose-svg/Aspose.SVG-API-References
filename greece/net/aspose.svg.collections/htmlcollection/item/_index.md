@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HTMLCollection ιδιοκτησία. Επιστρέφει το ευρετήριοο στοιχείο στη συλλογή. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων στη λίστα επιστρέφει null.
+title: "HTMLCollection.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Item του HTMLCollection. Επιστρέφει το στοιχείο με το συγκεκριμένο δείκτη στη συλλογή. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων στη λίστα, επιστρέφει null"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.collections/htmlcollection/item/
 ---
 ## HTMLCollection indexer
 
-Επιστρέφει το ευρετήριο-ο στοιχείο στη συλλογή. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων στη λίστα, επιστρέφει null.
+Επιστρέφει το στοιχείο με δείκτη index στην συλλογή. Εάν το index είναι μεγαλύτερο ή ίσο με τον αριθμό των κόμβων στη λίστα, επιστρέφει null.
 
 ```csharp
 public abstract Element this[int index] { get; }
@@ -16,21 +16,19 @@ public abstract Element this[int index] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Ο δείκτης. |
+| δείκτης | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει στοιχείο.
+Επιστρέφει το στοιχείο.
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`Element`](../../../aspose.svg.dom/element/) .
+Το [`Element`](../../../aspose.svg.dom/element/).
 
 ### Δείτε επίσης
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../htmlcollection/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

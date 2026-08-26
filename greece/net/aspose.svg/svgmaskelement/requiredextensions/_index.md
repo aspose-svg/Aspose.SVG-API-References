@@ -1,20 +1,20 @@
 ---
-title: SVGMaskElement.RequiredExtensions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMaskElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό requiredExtensions στο δεδομένο στοιχείο.
+title: "SVGMaskElement.RequiredExtensions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGMaskElement RequiredExtensions. Αντιστοιχεί στο χαρακτηριστικό requiredExtensions στο δεδομένο στοιχείο"
 type: docs
 weight: 40
 url: /el/net/aspose.svg/svgmaskelement/requiredextensions/
 ---
 ## SVGMaskElement.RequiredExtensions property
 
-Αντιστοιχεί στο χαρακτηριστικό 'requiredExtensions' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘requiredExtensions’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι απαιτούμενες επεκτάσεις.
 
@@ -22,7 +22,5 @@ public SVGStringList RequiredExtensions { get; }
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGMaskElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgmaskelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

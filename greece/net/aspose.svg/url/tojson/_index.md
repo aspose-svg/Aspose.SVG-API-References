@@ -1,27 +1,25 @@
 ---
-title: Url.ToJson
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Url μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "Url.ToJson"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Url ToJson. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία."
 type: docs
 weight: 160
 url: /el/net/aspose.svg/url/tojson/
 ---
 ## Url.ToJson method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public string ToJson()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

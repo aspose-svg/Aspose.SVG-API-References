@@ -1,27 +1,31 @@
 ---
-title: Node.Prefix
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node ιδιοκτησία. Το πρόθεμα χώρου ονομάτων αυτού του κόμβου ή μηδενικό εάν δεν έχει καθοριστεί. Όταν ορίζεται ότι είναι null η ρύθμιση του δεν έχει effect
+title: "Node.Prefix"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Node Prefix. Επιστρέφει το πρόθεμα ονομαχώρου του καθορισμένου στοιχείου ή null εάν δεν έχει καθοριστεί πρόθεμα"
 type: docs
-weight: 150
+weight: 140
 url: /el/net/aspose.svg.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-Το πρόθεμα χώρου ονομάτων αυτού του κόμβου ή μηδενικό εάν δεν έχει καθοριστεί. Όταν ορίζεται ότι είναι null, η ρύθμιση του δεν έχει effect
+Επιστρέφει το πρόθεμα ονοματοχώρου του συγκεκριμένου στοιχείου, ή null εάν δεν έχει καθοριστεί πρόθεμα.
 
 ```csharp
 public virtual string Prefix { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πρόθεμα.
+Η ιδιότητα επιστρέφει το σχετικό πρόθεμα ονομαχώρου.
+
+## Παρατηρήσεις
+
+Αναφορά:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
 
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

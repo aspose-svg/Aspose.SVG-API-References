@@ -1,27 +1,25 @@
 ---
-title: Attr.LocalName
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Attr ιδιοκτησία. Επιστρέφει το τοπικό τμήμα του αναγνωρισμένου ονόματος αυτού του κόμβου. Για κόμβους οποιουδήποτε τύπου εκτός από ELEMENT_NODE και ATTRIBUTE_NODE και κόμβους που έχουν δημιουργηθεί με μια μέθοδο DOM Level 1 όπως Document.createElement αυτό είναι πάντα null.
+title: "Attr.LocalName"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Attr LocalName. Επιστρέφει το τοπικό μέρος του πλήρους ονόματος αυτού του κόμβου. Για κόμβους οποιουδήποτε τύπου εκτός από ELEMENT_NODE και ATTRIBUTE_NODE και κόμβους που δημιουργούνται με μέθοδο DOM Level 1 όπως Document.createElement, αυτό είναι πάντα null."
 type: docs
-weight: 20
+weight: 10
 url: /el/net/aspose.svg.dom/attr/localname/
 ---
 ## Attr.LocalName property
 
-Επιστρέφει το τοπικό τμήμα του αναγνωρισμένου ονόματος αυτού του κόμβου. Για κόμβους οποιουδήποτε τύπου εκτός από ELEMENT_NODE και ATTRIBUTE_NODE και κόμβους που έχουν δημιουργηθεί με μια μέθοδο DOM Level 1, όπως Document.createElement(), αυτό είναι πάντα null.
+Επιστρέφει το τοπικό μέρος του πλήρους ονόματος αυτού του κόμβου. Για κόμβους οποιουδήποτε τύπου εκτός από ELEMENT_NODE και ATTRIBUTE_NODE και κόμβους που δημιουργήθηκαν με μέθοδο DOM Level 1, όπως Document.createElement(), αυτό είναι πάντα null.
 
 ```csharp
 public override string LocalName { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του τοπικού.
 
 ### Δείτε επίσης
 
 * class [Attr](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../attr/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: IBrowsingContext.Security
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IBrowsingContext ιδιοκτησία. Λαμβάνει τη σημαία sandboxing.
+title: "IBrowsingContext.Security"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IB BrowsingContext Security. Λαμβάνει τη σημαία απομόνωσης"
 type: docs
 weight: 50
 url: /el/net/aspose.svg.dom/ibrowsingcontext/security/
 ---
 ## IBrowsingContext.Security property
 
-Λαμβάνει τη σημαία sandboxing.
+Λαμβάνει τη σημαία απομόνωσης.
 
 ```csharp
 public Sandbox Security { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ασφάλεια.
 
@@ -22,7 +22,5 @@ public Sandbox Security { get; }
 
 * enum [Sandbox](../../../aspose.svg/sandbox/)
 * interface [IBrowsingContext](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: Aspose.Svg.Rendering.Pdf
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Το Aspose.Svg.Rendering.PdfΟ χώρος ονομάτων παρέχει συγκεκριμένη κατηγορία συσκευών καθώς και λίγες επιλογές απόδοσης classes που είναι υπεύθυνες για την απόδοση σε ένα έγγραφο pdf.
+title: "Aspose.Svg.Rendering.Pdf"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Το namespace Aspose.Svg.Rendering.Pdf παρέχει συγκεκριμένη κλάση συσκευής καθώς και μερικές κλάσεις επιλογών απόδοσης που είναι υπεύθυνες για την απόδοση σε ένα έγγραφο pdf."
 type: docs
-weight: 270
+weight: 290
 url: /el/net/aspose.svg.rendering.pdf/
 ---
-Το **Aspose.Svg.Rendering.Pdf**Ο χώρος ονομάτων παρέχει συγκεκριμένη κατηγορία συσκευών καθώς και λίγες επιλογές απόδοσης classes που είναι υπεύθυνες για την απόδοση σε ένα έγγραφο pdf.
+Το **Aspose.Svg.Rendering.Pdf** namespace παρέχει συγκεκριμένη κλάση συσκευής καθώς και λίγες κλάσεις επιλογών απόδοσης υπεύθυνες για την απόδοση σε έγγραφο pdf.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [PdfDevice](./pdfdevice/) | Αντιπροσωπεύει απόδοση σε έγγραφο pdf. |
-| [PdfDocumentInfo](./pdfdocumentinfo/) | Αντιπροσωπεύει τις πληροφορίες σχετικά με το έγγραφο PDF. |
-| [PdfRenderingOptions](./pdfrenderingoptions/) | Αντιπροσωπεύει επιλογές απόδοσης για[`PdfDevice`](../aspose.svg.rendering.pdf/pdfdevice/) . |
+| [PdfDevice](./pdfdevice/) | Αναπαριστά την απόδοση σε ένα έγγραφο pdf. |
+| [PdfDocumentInfo](./pdfdocumentinfo/) | Αναπαριστά τις πληροφορίες σχετικά με το έγγραφο PDF. |
+| [PdfRenderingOptions](./pdfrenderingoptions/) | Αναπαριστά τις επιλογές απόδοσης για [`PdfDevice`](../aspose.svg.rendering.pdf/pdfdevice/). |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [FormFieldBehaviour](./formfieldbehaviour/) | Αυτή η απαρίθμηση χρησιμοποιείται για τον καθορισμό της συμπεριφοράς των πεδίων φόρμας στο έγγραφο PDF εξόδου. |
-
-
+| [FormFieldBehaviour](./formfieldbehaviour/) | Αυτή η απαρίθμηση χρησιμοποιείται για να καθορίσει τη συμπεριφορά των πεδίων φόρμας στο παραγόμενο έγγραφο PDF. |

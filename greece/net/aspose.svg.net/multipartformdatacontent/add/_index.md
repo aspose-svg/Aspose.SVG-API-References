@@ -1,14 +1,14 @@
 ---
-title: MultipartFormDataContent.Add
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MultipartFormDataContent μέθοδος. Προσθέστε το περιεχόμενο στοMultipartFormDataContent class
+title: "MultipartFormDataContent.Add"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Add του MultipartFormDataContent. Προσθέτει το περιεχόμενο στην κλάση MultipartFormDataContent"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net/multipartformdatacontent/add/
 ---
-## Add(Content) {#add}
+## Add(*[Content](../../content/)*) {#add}
 
-Προσθέστε το περιεχόμενο στο[`MultipartFormDataContent`](../) class
+Προσθέτει το περιεχόμενο στην κλάση [`MultipartFormDataContent`](../)
 
 ```csharp
 public override void Add(Content content)
@@ -22,14 +22,14 @@ public override void Add(Content content)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartformdatacontent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string) {#add_1}
+## Add(*[Content](../../content/), string*) {#add_1}
 
-Προσθέστε το περιεχόμενο στο[`MultipartFormDataContent`](../) κλάση με όνομα πεδίου parameter
+Προσθέτει το περιεχόμενο στην κλάση [`MultipartFormDataContent`](../) με παράμετρο όνομα πεδίου
 
 ```csharp
 public void Add(Content content, string name)
@@ -44,14 +44,14 @@ public void Add(Content content, string name)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartformdatacontent/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string, string) {#add_2}
+## Add(*[Content](../../content/), string, string*) {#add_2}
 
-Προσθέστε το περιεχόμενο στο[`MultipartFormDataContent`](../) κλάση με πεδίο και όνομα αρχείου parameter
+Προσθέτει το περιεχόμενο στην κλάση [`MultipartFormDataContent`](../) με παραμέτρους όνομα πεδίου και όνομα αρχείου
 
 ```csharp
 public void Add(Content content, string name, string fileName)
@@ -67,7 +67,5 @@ public void Add(Content content, string name, string fileName)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../multipartformdatacontent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

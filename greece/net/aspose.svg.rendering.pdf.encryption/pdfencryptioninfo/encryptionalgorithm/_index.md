@@ -1,20 +1,20 @@
 ---
-title: PdfEncryptionInfo.EncryptionAlgorithm
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfEncryptionInfo ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία κρυπτογράφησης.
+title: "PdfEncryptionInfo.EncryptionAlgorithm"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "PdfEncryptionInfo EncryptionAlgorithm property. Παίρνει ή ορίζει τη λειτουργία κρυπτογράφησης"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/
 ---
 ## PdfEncryptionInfo.EncryptionAlgorithm property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία κρυπτογράφησης.
+Λαμβάνει ή ορίζει τη λειτουργία κρυπτογράφησης.
 
 ```csharp
 public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο αλγόριθμος κρυπτογράφησης.
 
@@ -22,7 +22,5 @@ public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

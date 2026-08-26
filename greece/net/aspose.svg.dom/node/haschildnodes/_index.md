@@ -1,27 +1,25 @@
 ---
-title: Node.HasChildNodes
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node μέθοδος. Επιστρέφει εάν αυτός ο κόμβος έχει παιδιά.
+title: "Node.HasChildNodes"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Node HasChildNodes. Επιστρέφει μια λογική τιμή που υποδεικνύει εάν ο δεδομένος Node έχει παιδικούς κόμβους ή όχι"
 type: docs
-weight: 210
+weight: 190
 url: /el/net/aspose.svg.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method
 
-Επιστρέφει εάν αυτός ο κόμβος έχει παιδιά.
+Επιστρέφει μια λογική τιμή που υποδεικνύει εάν ο δεδομένος [`Node`](../) έχει παιδικούς κόμβους ή όχι.
 
 ```csharp
 public bool HasChildNodes()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν έχει θυγατρικούς κόμβους διαφορετικά,`ψευδής` .
+Μια λογική τιμή που είναι true εάν ο κόμβος έχει παιδικούς κόμβους, και false διαφορετικά.
 
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

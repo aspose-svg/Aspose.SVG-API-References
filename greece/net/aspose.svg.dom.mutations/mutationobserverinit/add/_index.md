@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Add
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationObserverInit μέθοδος. Προσθέτει ένα στοιχείο στοMutationObserverInitσυλλογή.
+title: "MutationObserverInit.Add"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "MutationObserverInit Add method. Προσθέτει ένα στοιχείο στη συλλογή MutationObserverInit"
 type: docs
 weight: 140
 url: /el/net/aspose.svg.dom.mutations/mutationobserverinit/add/
 ---
-## Add(KeyValuePair&lt;string, object&gt;) {#add}
+## Add(*KeyValuePair&lt;string, object&gt;*) {#add}
 
-Προσθέτει ένα στοιχείο στο[`MutationObserverInit`](../)συλλογή.
+Προσθέτει ένα στοιχείο στη συλλογή [`MutationObserverInit`](../).
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -16,19 +16,19 @@ public void Add(KeyValuePair<string, object> item)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Το στοιχείο για προσθήκη. |
+| στοιχείο | KeyValuePair`2 | Το στοιχείο προς προσθήκη. |
 
 ### Δείτε επίσης
 
 * class [MutationObserverInit](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(string, object) {#add_1}
+## Add(*string, object*) {#add_1}
 
-Προσθέτει το καθορισμένο κλειδί και την τιμή στο[`MutationObserverInit`](../)συλλογή.
+Προσθέτει το καθορισμένο κλειδί και τιμή στη συλλογή [`MutationObserverInit`](../).
 
 ```csharp
 public void Add(string key, object value)
@@ -36,13 +36,11 @@ public void Add(string key, object value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Το κλειδί του στοιχείου για προσθήκη. |
-| value | Object | Η τιμή του στοιχείου προς προσθήκη. |
+| κλειδί | String | Το κλειδί του στοιχείου προς προσθήκη. |
+| τιμή | Αντικείμενο | Η τιμή του στοιχείου προς προσθήκη. |
 
 ### Δείτε επίσης
 
 * class [MutationObserverInit](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

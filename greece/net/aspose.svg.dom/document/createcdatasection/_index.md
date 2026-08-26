@@ -1,14 +1,14 @@
 ---
-title: Document.CreateCDATASection
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document μέθοδος. Δημιουργεί έναν κόμβο ενότητας CDATAS του οποίου η τιμή είναι η καθορισμένη συμβολοσειρά.
+title: "Document.CreateCDATASection"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document CreateCDATASection μέθοδος. Δημιουργεί έναν κόμβο CDATASection της τιμής που είναι η καθορισμένη συμβολοσειρά"
 type: docs
 weight: 810
 url: /el/net/aspose.svg.dom/document/createcdatasection/
 ---
 ## Document.CreateCDATASection method
 
-Δημιουργεί έναν κόμβο ενότητας CDATAS του οποίου η τιμή είναι η καθορισμένη συμβολοσειρά.
+Δημιουργεί έναν κόμβο CDATASection του οποίου η τιμή είναι η καθορισμένη συμβολοσειρά.
 
 ```csharp
 public CDATASection CreateCDATASection(string data)
@@ -16,17 +16,15 @@ public CDATASection CreateCDATASection(string data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | String | Τα δεδομένα CDATA. |
+| δεδομένα | String | Τα δεδομένα CDATA. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`CDATASection`](../../cdatasection/) .
+Το [`CDATASection`](../../cdatasection/).
 
 ### Δείτε επίσης
 
 * class [CDATASection](../../cdatasection/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

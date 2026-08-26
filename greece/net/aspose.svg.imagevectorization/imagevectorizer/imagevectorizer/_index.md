@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizer.ImageVectorizer
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageVectorizer κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουImageVectorizer τάξη.
+title: "ImageVectorizer"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής ImageVectorizer. Αρχικοποιεί μια νέα παρουσία της κλάσης ImageVectorizer."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.imagevectorization/imagevectorizer/imagevectorizer/
 ---
 ## ImageVectorizer() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageVectorizer`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ImageVectorizer`](../).
 
 ```csharp
 public ImageVectorizer()
@@ -17,14 +17,14 @@ public ImageVectorizer()
 ### Δείτε επίσης
 
 * class [ImageVectorizer](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageVectorizer(ImageVectorizerConfiguration) {#constructor_1}
+## ImageVectorizer(*[ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageVectorizer`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ImageVectorizer`](../).
 
 ```csharp
 public ImageVectorizer(ImageVectorizerConfiguration configuration)
@@ -32,13 +32,11 @@ public ImageVectorizer(ImageVectorizerConfiguration configuration)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| configuration | ImageVectorizerConfiguration | Η διαμόρφωση. |
+| διαμόρφωση | ImageVectorizerConfiguration | Η διαμόρφωση. |
 
 ### Δείτε επίσης
 
 * class [ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)
 * class [ImageVectorizer](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

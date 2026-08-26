@@ -1,14 +1,14 @@
 ---
-title: Delegate DOMEventHandler
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Αντιπροσωπεύει την επιστροφή κλήσης για χειρισμό συμβάντων.
+title: "DOMEventHandler Αντιπρόσωπος"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Αντιπροσωπεύει το callback για τη διαχείριση συμβάντων"
 type: docs
-weight: 890
+weight: 2890
 url: /el/net/aspose.svg.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate
 
-Αντιπροσωπεύει την επιστροφή κλήσης για χειρισμό συμβάντων.
+Αντιπροσωπεύει την κλήση επιστροφής για τη διαχείριση γεγονότων.
 
 ```csharp
 public delegate void DOMEventHandler(object sender, Event e);
@@ -16,13 +16,11 @@ public delegate void DOMEventHandler(object sender, Event e);
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| sender | Object | Ο αποστολέας. |
-| e | Event | Τα επιχειρήματα του συμβάντος. |
+| αποστολέας | Αντικείμενο | Ο αποστολέας. |
+| e | Γεγονός | Τα επιχειρήματα του γεγονότος. |
 
 ### Δείτε επίσης
 
 * class [Event](../event/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

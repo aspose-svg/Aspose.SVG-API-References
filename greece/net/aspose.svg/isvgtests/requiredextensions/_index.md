@@ -1,20 +1,20 @@
 ---
-title: ISVGTests.RequiredExtensions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ISVGTests ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό requiredExtensions στο δεδομένο στοιχείο.
+title: "ISVGTests.RequiredExtensions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα RequiredExtensions του ISVGTests. Αντιστοιχεί στο χαρακτηριστικό requiredExtensions του δεδομένου στοιχείου"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/isvgtests/requiredextensions/
 ---
 ## ISVGTests.RequiredExtensions property
 
-Αντιστοιχεί στο χαρακτηριστικό 'requiredExtensions' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘requiredExtensions’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι απαιτούμενες επεκτάσεις.
 
@@ -22,7 +22,5 @@ public SVGStringList RequiredExtensions { get; }
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* χώρος ονομάτων [Aspose.Svg](../../isvgtests/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

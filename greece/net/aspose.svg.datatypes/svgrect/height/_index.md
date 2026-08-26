@@ -1,33 +1,31 @@
 ---
-title: SVGRect.Height
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGRect ιδιοκτησία. Η συντεταγμένη ύψους του ορθογωνίου σε μονάδες χρήστη.
+title: "SVGRect.Height"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGRect Height ιδιότητα. Η συντεταγμένη Height του ορθογωνίου σε μονάδες χρήστη"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.datatypes/svgrect/height/
 ---
 ## SVGRect.Height property
 
-Η συντεταγμένη ύψους του ορθογωνίου, σε μονάδες χρήστη.
+Η συντεταγμένη Ύψος του ορθογωνίου, σε μονάδες χρήστη.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συντεταγμένη ύψους του ορθογωνίου, σε μονάδες χρήστη.
+Η συντεταγμένη Ύψος του ορθογωνίου, σε μονάδες χρήστη.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Ανυψώνεται όταν το ορθογώνιο αντιστοιχεί σε ένα χαρακτηριστικό μόνο για ανάγνωση ή όταν το ίδιο το αντικείμενο είναι μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Εγείρεται όταν το ορθογώνιο αντιστοιχεί σε ιδιότητα μόνο για ανάγνωση ή όταν το ίδιο το αντικείμενο είναι μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGRect](../)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../svgrect/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

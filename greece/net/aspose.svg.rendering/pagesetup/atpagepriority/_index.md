@@ -1,14 +1,14 @@
 ---
-title: PageSetup.AtPagePriority
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PageSetup ιδιοκτησία. Παίρνει ή θέτειAtPagePriority που θα καθορίσει τη σειρά εφαρμογής των δηλώσεων μεγέθους σελίδας. Από προεπιλογή οι επιλογές θα αντικαταστήσουν το cssσελίδα κανόνες .
+title: "PageSetup.AtPagePriority"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "PageSetup AtPagePriority ιδιότητα. Λαμβάνει ή ορίζει το AtPagePriority που θα καθορίσει τη σειρά εφαρμογής των δηλώσεων μεγέθους σελίδας. Από προεπιλογή, οι επιλογές θα παρακάμπτουν τους κανόνες css σελίδας."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.rendering/pagesetup/atpagepriority/
 ---
 ## PageSetup.AtPagePriority property
 
-Παίρνει ή θέτει[`AtPagePriority`](../../atpagepriority/) που θα καθορίσει τη σειρά εφαρμογής των δηλώσεων μεγέθους σελίδας. Από προεπιλογή οι επιλογές θα αντικαταστήσουν το css`@σελίδα` κανόνες .
+Λαμβάνει ή ορίζει το [`AtPagePriority`](../../atpagepriority/) που θα καθορίσει τη σειρά εφαρμογής των δηλώσεων μεγέθους σελίδας. Από προεπιλογή, οι επιλογές θα παρακάμπτουν τους κανόνες css `@page`.
 
 ```csharp
 public AtPagePriority AtPagePriority { get; set; }
@@ -18,7 +18,5 @@ public AtPagePriority AtPagePriority { get; set; }
 
 * enum [AtPagePriority](../../atpagepriority/)
 * class [PageSetup](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../pagesetup/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: UnitType.Pc
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType πεδίο. Η μέτρηση είναι σε picas
+title: "UnitType.Pc"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο UnitType Pc. Η μέτρηση είναι σε picas"
 type: docs
 weight: 170
 url: /el/net/aspose.svg.drawing/unittype/pc/
@@ -17,7 +17,5 @@ public static readonly UnitType Pc;
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

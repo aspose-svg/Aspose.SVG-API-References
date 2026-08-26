@@ -1,27 +1,26 @@
 ---
-title: Device2.StrokeAndFill
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device μέθοδος. Περιγράφει και γεμίζει την τρέχουσα διαδρομή. Αυτή η μέθοδος τερματίζει την τρέχουσα διαδρομή.
+title: "Device-2.StrokeAndFill"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Device StrokeAndFill. Σχεδιάζει και γεμίζει την τρέχουσα διαδρομή. Αυτή η μέθοδος τερματίζει την τρέχουσα διαδρομή."
 type: docs
-weight: 230
+weight: 260
 url: /el/net/aspose.svg.rendering/device-2/strokeandfill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeAndFill method
+## Device<TGraphicContext,TRenderingOptions>.StrokeAndFill method
 
-Περιγράφει και γεμίζει την τρέχουσα διαδρομή. Αυτή η μέθοδος τερματίζει την τρέχουσα διαδρομή.
+Σχεδιάζει και γεμίζει το τρέχον μονοπάτι. Αυτή η μέθοδος τερματίζει το τρέχον μονοπάτι.
 
 ```csharp
-public abstract void StrokeAndFill(FillMode mode)
+public virtual void StrokeAndFill(FillRule rule)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| mode | FillMode | Η λειτουργία πλήρωσης καθορίζει πώς γεμίζεται το εσωτερικό μιας κλειστής διαδρομής. |
+| κανόνας | FillRule | Ο κανόνας γεμίσματος καθορίζει πώς το εσωτερικό μιας κλειστής διαδρομής γεμίζει. |
 
 ### Δείτε επίσης
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

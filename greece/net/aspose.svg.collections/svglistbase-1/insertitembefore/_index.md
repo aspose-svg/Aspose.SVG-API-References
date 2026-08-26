@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.InsertItemBefore
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGListBase μέθοδος. Εισάγει ένα νέο στοιχείο στη λίστα στην καθορισμένη θέση. Το πρώτο στοιχείο είναι ο αριθμός 0.
+title: "SVGListBase-1.InsertItemBefore"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος InsertItemBefore του SVGListBase. Εισάγει ένα νέο στοιχείο στη λίστα στη συγκεκριμένη θέση. Το πρώτο στοιχείο είναι ο αριθμός 0"
 type: docs
 weight: 90
 url: /el/net/aspose.svg.collections/svglistbase-1/insertitembefore/
 ---
-## SVGListBase&lt;T&gt;.InsertItemBefore method
+## SVGListBase<T>.InsertItemBefore method
 
-Εισάγει ένα νέο στοιχείο στη λίστα στην καθορισμένη θέση. Το πρώτο στοιχείο είναι ο αριθμός 0.
+Εισάγει ένα νέο στοιχείο στη λίστα στη καθορισμένη θέση. Το πρώτο στοιχείο είναι ο αριθμός 0.
 
 ```csharp
 public T InsertItemBefore(T newItem, ulong index)
@@ -17,22 +17,20 @@ public T InsertItemBefore(T newItem, ulong index)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | newItem | T | Το στοιχείο που πρόκειται να εισαχθεί στη λίστα. |
-| index | UInt64 | Το ευρετήριο του στοιχείου πριν από το οποίο θα εισαχθεί το νέο στοιχείο. Το πρώτο στοιχείο είναι ο αριθμός 0. Εάν το ευρετήριο είναι ίσο με 0, τότε το νέο στοιχείο εισάγεται στο μπροστινό μέρος της λίστας. Εάν το ευρετήριο είναι μεγαλύτερο ή ίσο με το numberOfItems, τότε το νέο στοιχείο προστίθεται στο τέλος της λίστας. |
+| δείκτης | UInt64 | Ο δείκτης του στοιχείου πριν από το οποίο θα εισαχθεί το νέο στοιχείο. Το πρώτο στοιχείο είναι ο αριθμός 0. Εάν ο δείκτης είναι ίσος με 0, τότε το νέο στοιχείο εισάγεται στην αρχή της λίστας. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με το numberOfItems, τότε το νέο στοιχείο προστίθεται στο τέλος της λίστας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αντικείμενο που έχει εισαχθεί.
+Το εισαχθέν στοιχείο.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Αυξάνεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν η λίστα δεν μπορεί να τροποποιηθεί. |
 
 ### Δείτε επίσης
 
 * class [SVGListBase&lt;T&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../svglistbase-1/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

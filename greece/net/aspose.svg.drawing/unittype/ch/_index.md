@@ -1,7 +1,7 @@
 ---
-title: UnitType.Ch
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType πεδίο. Η μέτρηση είναι σχετική με το πλάτος του 0 μηδέν.
+title: "UnitType.Ch"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο UnitType Ch. Η μέτρηση είναι σχετική με το πλάτος του 0 μηδενός."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/unittype/ch/
@@ -17,7 +17,5 @@ public static readonly UnitType Ch;
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

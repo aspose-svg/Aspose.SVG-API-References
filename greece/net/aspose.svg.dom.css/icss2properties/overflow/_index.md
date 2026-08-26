@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Overflow
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας υπερχείλισης στο CSS2.
+title: "ICSS2Properties.Overflow"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties Overflow ιδιότητα. Δείτε τον ορισμό της ιδιότητας overflow στο CSS2"
 type: docs
-weight: 790
+weight: 820
 url: /el/net/aspose.svg.dom.css/icss2properties/overflow/
 ---
 ## ICSS2Properties.Overflow property
 
-Δείτε τον ορισμό της ιδιότητας υπερχείλισης στο CSS2.
+Δείτε τον ορισμό της ιδιότητας overflow στο CSS2.
 
 ```csharp
 public string Overflow { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα υπερχείλισης
+ιδιότητα overflow
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

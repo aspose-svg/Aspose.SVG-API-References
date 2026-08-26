@@ -1,14 +1,14 @@
 ---
-title: Document.OnInput
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnInput.
+title: "Document.OnInput"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Document OnInput συμβάν. Λαμβάνει ή ορίζει χειριστή συμβάντος για το συμβάν OnInput"
 type: docs
 weight: 420
 url: /el/net/aspose.svg.dom/document/oninput/
 ---
 ## Document.OnInput event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnInput.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnInput συμβάν.
 
 ```csharp
 public event DOMEventHandler OnInput;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnInput;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.ListStyle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας τύπου λίστας στο CSS2.
+title: "ICSS2Properties.ListStyle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ListStyle ιδιότητα. Δείτε τον ορισμό της ιδιότητας list-style στο CSS2"
 type: docs
-weight: 590
+weight: 620
 url: /el/net/aspose.svg.dom.css/icss2properties/liststyle/
 ---
 ## ICSS2Properties.ListStyle property
 
-Δείτε τον ορισμό της ιδιότητας τύπου λίστας στο CSS2.
+Δείτε τον ορισμό της ιδιότητας list-style στο CSS2.
 
 ```csharp
 public string ListStyle { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιοκτησία τύπου λίστας
+list-style ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

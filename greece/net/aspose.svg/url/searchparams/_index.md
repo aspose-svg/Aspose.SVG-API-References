@@ -1,28 +1,26 @@
 ---
-title: Url.SearchParams
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Url ιδιοκτησία. Λαμβάνει ένα συσχετισμένοIUrlSearchParams αντικείμενο.
+title: "Url.SearchParams"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Url SearchParams. Λαμβάνει ένα συσχετισμένο αντικείμενο IUrlSearchParams."
 type: docs
 weight: 120
 url: /el/net/aspose.svg/url/searchparams/
 ---
 ## Url.SearchParams property
 
-Λαμβάνει ένα συσχετισμένο[`IUrlSearchParams`](../../iurlsearchparams/) αντικείμενο.
+Λαμβάνει ένα συσχετισμένο αντικείμενο [`IUrlSearchParams`](../../iurlsearchparams/).
 
 ```csharp
 public IUrlSearchParams SearchParams { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-[`IUrlSearchParams`](../../iurlsearchparams/) αντικείμενο.
+[`IUrlSearchParams`](../../iurlsearchparams/) object.
 
 ### Δείτε επίσης
 
 * interface [IUrlSearchParams](../../iurlsearchparams/)
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

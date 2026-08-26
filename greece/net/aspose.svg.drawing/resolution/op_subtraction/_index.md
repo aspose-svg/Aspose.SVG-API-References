@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Subtraction
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Resolution μέθοδος. Υλοποιεί τον τελεστή .
+title: "Resolution.op_Subtraction"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Resolution op_Subtraction μέθοδος. Υλοποιεί τον τελεστή -"
 type: docs
 weight: 90
 url: /el/net/aspose.svg.drawing/resolution/op_subtraction/
@@ -16,24 +16,22 @@ public static Resolution operator -(Resolution a, Resolution b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Resolution | Η παράμετρος α. |
-| b | Resolution | Η παράμετρος β. |
+| a | Resolution | Η παράμετρος a. |
+| b | Resolution | Η παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentNullException | Τα επιχειρήματα είναι μηδενικά |
-| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους or Τα ορίσματα έχουν διαφορετική ανάλυση or |
+| ArgumentNullException | Τα ορίσματα είναι null |
+| ArgumentException | Τα επιχειρήματα έχουν διαφορετικούς τύπους ή Τα επιχειρήματα έχουν διαφορετικές επιλύσεις ή |
 
 ### Δείτε επίσης
 
 * class [Resolution](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../resolution/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

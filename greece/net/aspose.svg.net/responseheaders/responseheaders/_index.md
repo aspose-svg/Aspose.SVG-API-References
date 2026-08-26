@@ -1,14 +1,14 @@
 ---
-title: ResponseHeaders.ResponseHeaders
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResponseHeaders κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουRequestHeaders τάξη.
+title: "ResponseHeaders"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ResponseHeaders κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης RequestHeaders"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`RequestHeaders`](../../requestheaders/) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`RequestHeaders`](../../requestheaders/).
 
 ```csharp
 public ResponseHeaders()
@@ -17,7 +17,5 @@ public ResponseHeaders()
 ### Δείτε επίσης
 
 * class [ResponseHeaders](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../responseheaders/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

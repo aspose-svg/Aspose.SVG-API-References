@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.PathOptimizationOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGOptimizationOptions ιδιοκτησία. Λαμβάνει ή ορίζει την επιλογήSVGPathOptimizationOptions . Εάν αυτή η επιλογή είναι μηδενική τότε δεν θα εκτελεστεί βελτιστοποίηση στοιχείου διαδρομής.
+title: "SVGOptimizationOptions.PathOptimizationOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGOptimizationOptions PathOptimizationOptions. Λαμβάνει ή ορίζει την επιλογή SVGPathOptimizationOptions. Εάν αυτή η επιλογή είναι null, τότε η βελτιστοποίηση στοιχείων διαδρομής δεν θα εκτελεστεί"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/
 ---
 ## SVGOptimizationOptions.PathOptimizationOptions property
 
-Λαμβάνει ή ορίζει την επιλογή[`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/) . Εάν αυτή η επιλογή είναι μηδενική, τότε δεν θα εκτελεστεί βελτιστοποίηση στοιχείου διαδρομής.
+Λαμβάνει ή ορίζει την επιλογή [`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/). Εάν αυτή η επιλογή είναι null, τότε η βελτιστοποίηση στοιχείων διαδρομής δεν θα εκτελεστεί.
 
 ```csharp
 public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
@@ -18,7 +18,5 @@ public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
 
 * class [SVGPathOptimizationOptions](../../svgpathoptimizationoptions/)
 * class [SVGOptimizationOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

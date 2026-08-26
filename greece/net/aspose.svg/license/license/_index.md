@@ -1,22 +1,22 @@
 ---
-title: License.License
-second_title: Aspose.SVG για Αναφορά API .NET
-description: License κατασκευαστής. Αρχικοποιεί μια νέα παρουσία αυτής της κλάσης.
+title: "Άδεια"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής License. Αρχικοποιεί ένα νέο στιγμιότυπο αυτής της κλάσης"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/license/license/
 ---
 ## License constructor
 
-Αρχικοποιεί μια νέα παρουσία αυτής της κλάσης.
+Αρχικοποιεί ένα νέο στιγμιότυπο αυτής της κλάσης.
 
 ```csharp
 public License()
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Σε αυτό το παράδειγμα, θα γίνει μια προσπάθεια να βρεθεί ένα αρχείο άδειας με το όνομα MyLicense.lic στο φάκελο που περιέχει  το στοιχείο, στο φάκελο που περιέχει τη συγκρότηση κλήσης, στο φάκελο της διάταξης καταχώρησης και, στη συνέχεια, στους ενσωματωμένους πόρους της συγκρότησης κλήσης.
+Σε αυτό το παράδειγμα, θα γίνει προσπάθεια να βρεθεί ένα αρχείο άδειας με όνομα MyLicense.lic στον φάκελο που περιέχει το στοιχείο, στον φάκελο που περιέχει το calling assembly, στον φάκελο του entry assembly και, στη συνέχεια, στους ενσωματωμένους πόρους του calling assembly.
 
 ```csharp
 [C#]
@@ -35,7 +35,5 @@ license.setLicense("MyLicense.lic");
 ### Δείτε επίσης
 
 * class [License](../)
-* χώρος ονομάτων [Aspose.Svg](../../license/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

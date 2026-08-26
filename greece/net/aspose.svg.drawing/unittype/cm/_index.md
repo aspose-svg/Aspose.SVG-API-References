@@ -1,7 +1,7 @@
 ---
-title: UnitType.Cm
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType πεδίο. Η μέτρηση είναι σε εκατοστά
+title: "UnitType.Cm"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο UnitType Cm. Η μέτρηση είναι σε εκατοστά"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/unittype/cm/
@@ -17,7 +17,5 @@ public static readonly UnitType Cm;
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

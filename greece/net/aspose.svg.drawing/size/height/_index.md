@@ -1,28 +1,26 @@
 ---
-title: Size.Height
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Size ιδιοκτησία. Λαμβάνει ή ορίζει το κατακόρυφο στοιχείο αυτούSize .
+title: "Size.Height"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Size Height property. Λαμβάνει ή ορίζει το κάθετο συστατικό αυτού του Size"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.drawing/size/height/
 ---
 ## Size.Height property
 
-Λαμβάνει ή ορίζει το κατακόρυφο στοιχείο αυτού[`Size`](../) .
+Λαμβάνει ή ορίζει το κάθετο συστατικό αυτού του [`Size`](../).
 
 ```csharp
 public Length Height { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κατακόρυφη συνιστώσα αυτού[`Size`](../) .
+Το κάθετο συστατικό αυτού του [`Size`](../).
 
 ### Δείτε επίσης
 
 * class [Length](../../length/)
 * class [Size](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../size/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

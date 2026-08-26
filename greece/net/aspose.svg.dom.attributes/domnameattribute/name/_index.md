@@ -1,27 +1,25 @@
 ---
-title: DOMNameAttribute.Name
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMNameAttribute ιδιοκτησία. Παίρνει το όνομα DOM.
+title: "DOMNameAttribute.Name"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMNameAttribute Ιδιότητα Name. Λαμβάνει το όνομα DOM"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.attributes/domnameattribute/name/
 ---
 ## DOMNameAttribute.Name property
 
-Παίρνει το όνομα DOM.
+Αποκτά το όνομα DOM.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα.
 
 ### Δείτε επίσης
 
 * class [DOMNameAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

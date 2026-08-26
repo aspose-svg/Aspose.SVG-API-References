@@ -1,14 +1,14 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGGradientElement πεδίο. Ο τύπος δεν είναι ένας από τους προκαθορισμένους τύπους. Δεν είναι έγκυρο να επιχειρήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο.
+title: "SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο SVGGradientElement SVG_SPREADMETHOD_UNKNOWN. Ο τύπος δεν είναι ένας από τους προκαθορισμένους τύπους. Είναι μη έγκυρο να προσπαθήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να μετατρέψετε μια υπάρχουσα τιμή σε αυτόν τον τύπο."
 type: docs
 weight: 80
 url: /el/net/aspose.svg/svggradientelement/svg_spreadmethod_unknown/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN field
 
-Ο τύπος δεν είναι ένας από τους προκαθορισμένους τύπους. Δεν είναι έγκυρο να επιχειρήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο.
+Ο τύπος δεν είναι ένας από τους προκαθορισμένους τύπους. Είναι μη έγκυρο να προσπαθήσετε να ορίσετε μια νέα τιμή αυτού του τύπου ή να προσπαθήσετε να αλλάξετε μια υπάρχουσα τιμή σε αυτόν τον τύπο.
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_UNKNOWN;
@@ -17,7 +17,5 @@ public const ushort SVG_SPREADMETHOD_UNKNOWN;
 ### Δείτε επίσης
 
 * class [SVGGradientElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svggradientelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

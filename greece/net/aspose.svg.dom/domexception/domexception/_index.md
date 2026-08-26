@@ -1,14 +1,14 @@
 ---
-title: DOMException.DOMException
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουDOMException τάξη.
+title: "DOMException"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMException constructor. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης DOMException"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/domexception/domexception/
 ---
-## DOMException(string) {#constructor}
+## DOMException(*string*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`DOMException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`DOMException`](../).
 
 ```csharp
 public DOMException(string message)
@@ -16,19 +16,19 @@ public DOMException(string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα σφάλματος. |
+| μήνυμα | String | Το μήνυμα σφάλματος. |
 
 ### Δείτε επίσης
 
 * class [DOMException](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../domexception/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## DOMException(string, string) {#constructor_1}
+## DOMException(*string, string*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`DOMException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`DOMException`](../).
 
 ```csharp
 public DOMException(string name, string message)
@@ -36,13 +36,11 @@ public DOMException(string name, string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Το όνομα του σφάλματος. |
-| message | String | Το μήνυμα σφάλματος. |
+| name | String | Το όνομα σφάλματος. |
+| μήνυμα | String | Το μήνυμα σφάλματος. |
 
 ### Δείτε επίσης
 
 * class [DOMException](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../domexception/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

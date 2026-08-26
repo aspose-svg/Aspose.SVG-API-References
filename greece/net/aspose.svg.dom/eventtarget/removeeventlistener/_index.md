@@ -1,14 +1,14 @@
 ---
-title: EventTarget.RemoveEventListener
-second_title: Aspose.SVG για Αναφορά API .NET
-description: EventTarget μέθοδος. Αυτή η μέθοδος επιτρέπει την αφαίρεση των ακροατών συμβάντων από τον στόχο συμβάντος. ΕάνIEventListener αφαιρείται από έναEventTarget ενώ επεξεργάζεται ένα συμβάν δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες. Δεν είναι δυνατή η επίκληση των Ακροατών συμβάντων μετά την αφαίρεση.
+title: "EventTarget.RemoveEventListener"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος EventTarget RemoveEventListener. Αυτή η μέθοδος επιτρέπει την αφαίρεση των ακροατών συμβάντων από τον στόχο του συμβάντος. Εάν ένας IEventListener αφαιρεθεί από ένα EventTarget ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες. Οι ακροατές συμβάντων δεν μπορούν ποτέ να κληθούν μετά την αφαίρεσή τους"
 type: docs
-weight: 40
+weight: 50
 url: /el/net/aspose.svg.dom/eventtarget/removeeventlistener/
 ---
-## RemoveEventListener(string, DOMEventHandler, bool) {#removeeventlistener}
+## RemoveEventListener(*string, [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/), bool*) {#removeeventlistener}
 
-Αυτή η μέθοδος επιτρέπει την αφαίρεση των ακροατών συμβάντων από τον στόχο συμβάντος. Εάν[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) αφαιρείται από ένα[`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες. Δεν είναι δυνατή η επίκληση των Ακροατών συμβάντων μετά την αφαίρεση.
+Αυτή η μέθοδος επιτρέπει την αφαίρεση των ακροατών συμβάντων από τον στόχο του συμβάντος. Εάν ένας [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) αφαιρεθεί από ένα [`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες. Οι ακροατές συμβάντων δεν μπορούν ποτέ να κληθούν μετά την αφαίρεσή τους.
 
 ```csharp
 public void RemoveEventListener(string type, DOMEventHandler handler, bool useCapture)
@@ -16,22 +16,22 @@ public void RemoveEventListener(string type, DOMEventHandler handler, bool useCa
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Καθορίζει τον τύπο συμβάντος του[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που αφαιρείται. |
-| handler | DOMEventHandler | ο[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) παράμετρος δείχνει το[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) να αφαιρεθεί. |
-| useCapture | Boolean | Καθορίζει εάν το EventListener που καταργείται έχει καταχωρηθεί ως ακροατής λήψης ή όχι. Εάν ένας ακροατής έχει εγγραφεί δύο φορές, ένας με καταγραφή και ένας χωρίς, το καθένα πρέπει να αφαιρεθεί ξεχωριστά. Η αφαίρεση ενός ακροατή που καταγράφει δεν επηρεάζει την έκδοση που δεν καταγράφει του ίδιου ακροατή, και αντίστροφα. |
+| type | String | Καθορίζει τον τύπο συμβάντος του [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που αφαιρείται. |
+| handler | DOMEventHandler | Η παράμετρος [`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) υποδεικνύει τον [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που θα αφαιρεθεί. |
+| useCapture | Boolean | Καθορίζει εάν ο EventListener που αφαιρείται είχε καταχωρηθεί ως ακροατής σύλληψης ή όχι. Εάν ένας ακροατής καταχωρηθεί δύο φορές, μία με σύλληψη και μία χωρίς, πρέπει να αφαιρεθούν ξεχωριστά. Η αφαίρεση ενός ακροατή σύλληψης δεν επηρεάζει την έκδοση χωρίς σύλληψη του ίδιου ακροατή, και αντίστροφα. |
 
 ### Δείτε επίσης
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [EventTarget](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../eventtarget/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RemoveEventListener(string, IEventListener) {#removeeventlistener_1}
+## RemoveEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)*) {#removeeventlistener_1}
 
-Αυτή η μέθοδος επιτρέπει την αφαίρεση των ακροατών συμβάντων από τον στόχο συμβάντος. Εάν[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) αφαιρείται από ένα[`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες. Δεν είναι δυνατή η επίκληση των Ακροατών συμβάντων μετά την αφαίρεση.
+Αυτή η μέθοδος επιτρέπει την αφαίρεση των ακροατών συμβάντων από τον στόχο του συμβάντος. Εάν ένας [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) αφαιρεθεί από ένα [`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες. Οι ακροατές συμβάντων δεν μπορούν ποτέ να κληθούν μετά την αφαίρεσή τους.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener)
@@ -39,21 +39,21 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Καθορίζει τον τύπο συμβάντος του[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που αφαιρείται. |
-| listener | IEventListener | ο[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) παράμετρος δείχνει το[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) να αφαιρεθεί. |
+| type | String | Καθορίζει τον τύπο συμβάντος του [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που αφαιρείται. |
+| listener | IEventListener | Η παράμετρος [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) υποδεικνύει το [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που θα αφαιρεθεί. |
 
 ### Δείτε επίσης
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../eventtarget/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_2}
+## RemoveEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/), bool*) {#removeeventlistener_2}
 
-Αυτή η μέθοδος επιτρέπει την αφαίρεση των ακροατών συμβάντων από τον στόχο συμβάντος. Εάν[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) αφαιρείται από ένα[`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες. Δεν είναι δυνατή η επίκληση των Ακροατών συμβάντων μετά την αφαίρεση.
+Αυτή η μέθοδος επιτρέπει την αφαίρεση των ακροατών συμβάντων από τον στόχο του συμβάντος. Εάν ένας [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) αφαιρεθεί από ένα [`EventTarget`](../) ενώ επεξεργάζεται ένα συμβάν, δεν θα ενεργοποιηθεί από τις τρέχουσες ενέργειες. Οι ακροατές συμβάντων δεν μπορούν ποτέ να κληθούν μετά την αφαίρεσή τους.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener, bool useCapture)
@@ -61,15 +61,13 @@ public void RemoveEventListener(string type, IEventListener listener, bool useCa
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | String | Καθορίζει τον τύπο συμβάντος του[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που αφαιρείται. |
-| listener | IEventListener | ο[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) παράμετρος δείχνει το[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) να αφαιρεθεί. |
-| useCapture | Boolean | Καθορίζει εάν το EventListener που καταργείται έχει καταχωρηθεί ως ακροατής λήψης ή όχι. Εάν ένας ακροατής έχει εγγραφεί δύο φορές, ένας με καταγραφή και ένας χωρίς, το καθένα πρέπει να αφαιρεθεί ξεχωριστά. Η αφαίρεση ενός ακροατή που καταγράφει δεν επηρεάζει την έκδοση που δεν καταγράφει του ίδιου ακροατή, και αντίστροφα. |
+| type | String | Καθορίζει τον τύπο συμβάντος του [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που αφαιρείται. |
+| listener | IEventListener | Η παράμετρος [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) υποδεικνύει το [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) που θα αφαιρεθεί. |
+| useCapture | Boolean | Καθορίζει εάν ο EventListener που αφαιρείται είχε καταχωρηθεί ως ακροατής σύλληψης ή όχι. Εάν ένας ακροατής καταχωρηθεί δύο φορές, μία με σύλληψη και μία χωρίς, πρέπει να αφαιρεθούν ξεχωριστά. Η αφαίρεση ενός ακροατή σύλληψης δεν επηρεάζει την έκδοση χωρίς σύλληψη του ίδιου ακροατή, και αντίστροφα. |
 
 ### Δείτε επίσης
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../eventtarget/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

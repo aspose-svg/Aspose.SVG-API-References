@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.PlayDuring
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας playdiur στο CSS2.
+title: "ICSS2Properties.PlayDuring"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties PlayDuring ιδιότητα. Δείτε τον ορισμό της ιδιότητας play-during στο CSS2"
 type: docs
-weight: 940
+weight: 970
 url: /el/net/aspose.svg.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property
 
-Δείτε τον ορισμό της ιδιότητας play-diur στο CSS2.
+Δείτε τον ορισμό της ιδιότητας play-during στο CSS2.
 
 ```csharp
 public string PlayDuring { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-παιχνίδι κατά τη διάρκεια της ιδιοκτησίας
+play-during ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

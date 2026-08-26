@@ -1,28 +1,26 @@
 ---
-title: SVGFEDistantLightElement.Elevation
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGFEDistantLightElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό elevation στο δεδομένο στοιχείο feDistantLight.
+title: "SVGFEDistantLightElement.Elevation"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Elevation του SVGFEDistantLightElement. Αντιστοιχεί στην ιδιότητα elevation του δεδομένου στοιχείου feDistantLight"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.filters/svgfedistantlightelement/elevation/
 ---
 ## SVGFEDistantLightElement.Elevation property
 
-Αντιστοιχεί στο χαρακτηριστικό "elevation" στο δεδομένο στοιχείο "feDistantLight".
+Αντιστοιχεί στο χαρακτηριστικό ‘elevation’ του δεδομένου στοιχείου ‘feDistantLight’.
 
 ```csharp
 public SVGAnimatedNumber Elevation { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'elevation' του δεδομένου στοιχείου 'feDistantLight'.
+Η ιδιότητα ‘elevation’ του δεδομένου στοιχείου ‘feDistantLight’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDistantLightElement](../)
-* χώρος ονομάτων [Aspose.Svg.Filters](../../svgfedistantlightelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

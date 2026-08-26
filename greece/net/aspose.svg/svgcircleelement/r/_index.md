@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.R
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGCircleElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό r στο δεδομένο στοιχείο κύκλος.
+title: "SVGCircleElement.R"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGCircleElement R ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό r του δεδομένου στοιχείου κύκλου."
 type: docs
 weight: 30
 url: /el/net/aspose.svg/svgcircleelement/r/
 ---
 ## SVGCircleElement.R property
 
-Αντιστοιχεί στο χαρακτηριστικό "r" στο δεδομένο στοιχείο "κύκλος".
+Αντιστοιχεί στο χαρακτηριστικό ‘r’ του δεδομένου στοιχείου ‘circle’.
 
 ```csharp
 public SVGAnimatedLength R { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "r" του δεδομένου στοιχείου "κύκλος".
+Το χαρακτηριστικό ‘r’ του δεδομένου στοιχείου ‘circle’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgcircleelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

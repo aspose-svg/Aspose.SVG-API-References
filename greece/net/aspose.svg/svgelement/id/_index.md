@@ -1,33 +1,31 @@
 ---
-title: SVGElement.Id
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGElement ιδιοκτησία. Η τιμή του χαρακτηριστικού id στο δεδομένο στοιχείο ή η κενή συμβολοσειρά εάν δεν υπάρχει id.
+title: "SVGElement.Id"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Id του SVGElement. Η τιμή του χαρακτηριστικού id στο δεδομένο στοιχείο ή η κενή συμβολοσειρά εάν το id δεν υπάρχει"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgelement/id/
 ---
 ## SVGElement.Id property
 
-Η τιμή του χαρακτηριστικού 'id' στο δεδομένο στοιχείο ή η κενή συμβολοσειρά εάν δεν υπάρχει 'id'.
+Η τιμή του χαρακτηριστικού ‘id’ του δεδομένου στοιχείου, ή η κενή συμβολοσειρά εάν το ‘id’ δεν υπάρχει.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το αναγνωριστικό.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδικός NO_MODIFICATION_ALLOWED_ERR. Αυξήθηκε σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας NO_MODIFICATION_ALLOWED_ERR. Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

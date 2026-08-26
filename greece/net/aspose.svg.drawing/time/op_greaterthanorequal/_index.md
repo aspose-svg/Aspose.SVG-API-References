@@ -1,14 +1,14 @@
 ---
-title: Time.op_GreaterThanOrEqual
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Time μέθοδος. Υλοποιεί τον τελεστή .
+title: "Time.op_GreaterThanOrEqual"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος op_GreaterThanOrEqual του Time. Υλοποιεί τον τελεστή."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.drawing/time/op_greaterthanorequal/
 ---
 ## Time GreaterThanOrEqual operator
 
-Υλοποιεί τον τελεστή &gt;=.
+Υλοποιεί τον τελεστή >=.
 
 ```csharp
 public static bool operator >=(Time a, Time b)
@@ -16,24 +16,22 @@ public static bool operator >=(Time a, Time b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Time | Η παράμετρος α. |
-| b | Time | Η παράμετρος β. |
+| a | Time | Η παράμετρος a. |
+| b | Time | Η παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentException | Τα επιχειρήματα έχουν διαφορετικούς τύπους |
-| ArgumentNullException | Ένα όρισμα είναι μηδενικό |
+| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους |
+| ArgumentNullException | Ένα όρισμα είναι null |
 
 ### Δείτε επίσης
 
 * class [Time](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../time/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

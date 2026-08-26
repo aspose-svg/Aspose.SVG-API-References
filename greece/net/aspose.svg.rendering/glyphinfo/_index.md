@@ -1,14 +1,14 @@
 ---
-title: Struct GlyphInfo
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Rendering.GlyphInfo struct. Περιέχει πληροφορίες σχετικές με γλύφους.
+title: "GlyphInfo Δομή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Rendering.GlyphInfo δομή. Περιέχει πληροφορίες σχετικές με τα γλύφους."
 type: docs
-weight: 2790
+weight: 4870
 url: /el/net/aspose.svg.rendering/glyphinfo/
 ---
 ## GlyphInfo structure
 
-Περιέχει πληροφορίες σχετικές με γλύφους.
+Περιέχει πληροφορίες σχετικές με τα glyph.
 
 ```csharp
 public struct GlyphInfo
@@ -16,22 +16,20 @@ public struct GlyphInfo
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | Παίρνει το ευρετήριο αυτού του γλυφού στη γραμματοσειρά. |
-| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | Λαμβάνει τη μετατόπιση στην επόμενη γλυφή σε σημεία. |
-| [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | Λαμβάνει την παράσταση συμβολοσειράς αυτής της γλυφής. |
-| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | Παίρνει το πλάτος της γλυφής, σε σημεία. |
+| [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | Λαμβάνει το δείκτη αυτού του γλύφου στη γραμματοσειρά. |
+| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | Λαμβάνει την απόσταση προς τον επόμενο γλύφο σε μονάδες σημείου. |
+| [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | Λαμβάνει την αναπαράσταση συμβολοσειράς αυτού του γλύφου. |
+| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | Λαμβάνει το πλάτος του γλύφου, σε σημεία. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

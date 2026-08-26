@@ -1,27 +1,25 @@
 ---
-title: CharacterData.ToString
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CharacterData μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "CharacterData.ToString"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος CharacterData ToString. Επιστρέφει μια συμβολοσειρά που αντιπροσωπεύει αυτήν την παρουσία."
 type: docs
 weight: 80
 url: /el/net/aspose.svg.dom/characterdata/tostring/
 ---
 ## CharacterData.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την παρουσία.
 
 ### Δείτε επίσης
 
 * class [CharacterData](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../characterdata/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

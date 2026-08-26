@@ -1,9 +1,9 @@
 ---
-title: Node.COMMENT_NODE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node πεδίο. Ένας κόμβος σχολίου
+title: "Node.COMMENT_NODE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο Node COMMENT_NODE. Ένας κόμβος σχολίου"
 type: docs
-weight: 340
+weight: 320
 url: /el/net/aspose.svg.dom/node/comment_node/
 ---
 ## Node.COMMENT_NODE field
@@ -17,7 +17,5 @@ public const ushort COMMENT_NODE;
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

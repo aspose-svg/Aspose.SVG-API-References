@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.Y
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό y στο δεδομένο στοιχείο svg.
+title: "SVGSVGElement.Y"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Y του SVGSVGElement. Αντιστοιχεί στο χαρακτηριστικό y του συγκεκριμένου στοιχείου svg."
 type: docs
 weight: 80
 url: /el/net/aspose.svg/svgsvgelement/y/
 ---
 ## SVGSVGElement.Y property
 
-Αντιστοιχεί στο χαρακτηριστικό 'y' στο δεδομένο στοιχείο 'svg'.
+Αντιστοιχεί στο χαρακτηριστικό ‘y’ του δεδομένου στοιχείου ‘svg’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αντιστοιχεί στο χαρακτηριστικό 'y' στο δεδομένο στοιχείο 'svg'.
+Αντιστοιχεί στο χαρακτηριστικό ‘y’ του δεδομένου στοιχείου ‘svg’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

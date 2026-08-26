@@ -1,14 +1,14 @@
 ---
-title: Document.FirstElementChild
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Επιστρέφει τον πρώτο κόμβο θυγατρικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει θυγατρικά στοιχεία.
+title: "Document.FirstElementChild"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document FirstElementChild. Επιστρέφει τον πρώτο κόμβο στοιχείου-παιδί αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει παιδικά στοιχεία."
 type: docs
 weight: 120
 url: /el/net/aspose.svg.dom/document/firstelementchild/
 ---
 ## Document.FirstElementChild property
 
-Επιστρέφει τον πρώτο κόμβο θυγατρικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει θυγατρικά στοιχεία.
+Επιστρέφει τον πρώτο κόμβο παιδικού στοιχείου αυτού του στοιχείου. null εάν αυτό το στοιχείο δεν έχει παιδικά στοιχεία.
 
 ```csharp
 public Element FirstElementChild { get; }
@@ -18,7 +18,5 @@ public Element FirstElementChild { get; }
 
 * class [Element](../../element/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

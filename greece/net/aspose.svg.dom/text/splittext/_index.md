@@ -1,7 +1,7 @@
 ---
-title: Text.SplitText
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Text μέθοδος. Διασπά αυτόν τον κόμβο σε δύο κόμβους στην καθορισμένη μετατόπιση διατηρώντας και τους δύο στο δέντρο ως αδέρφια.
+title: "Text.SplitText"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Text SplitText μέθοδος. Διαχωρίζει αυτόν τον κόμβο σε δύο κόμβους στο καθορισμένο offset, διατηρώντας και τους δύο στο δέντρο ως αδέρφια"
 type: docs
 weight: 80
 url: /el/net/aspose.svg.dom/text/splittext/
@@ -18,14 +18,12 @@ public Text SplitText(int offset)
 | --- | --- | --- |
 | offset | Int32 | Το offset. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`Text`](../) .
+Το [`Text`](../).
 
 ### Δείτε επίσης
 
 * class [Text](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../text/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

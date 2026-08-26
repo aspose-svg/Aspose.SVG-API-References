@@ -1,7 +1,7 @@
 ---
-title: DocumentType.SystemId
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DocumentType ιδιοκτησία. Το αναγνωριστικό συστήματος του εξωτερικού υποσυνόλου. Αυτό μπορεί να είναι απόλυτο URI ή όχι.
+title: "DocumentType.SystemId"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα DocumentType SystemId. Το αναγνωριστικό συστήματος του εξωτερικού υποσυνόλου. Αυτό μπορεί να είναι απόλυτο URI ή όχι"
 type: docs
 weight: 70
 url: /el/net/aspose.svg.dom/documenttype/systemid/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/documenttype/systemid/
 public string SystemId { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το αναγνωριστικό συστήματος.
 
 ### Δείτε επίσης
 
 * class [DocumentType](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../documenttype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

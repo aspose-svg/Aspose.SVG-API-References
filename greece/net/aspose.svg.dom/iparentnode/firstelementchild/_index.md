@@ -1,28 +1,26 @@
 ---
-title: IParentNode.FirstElementChild
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IParentNode ιδιοκτησία. Επιστρέφει το πρώτο θυγατρικό στοιχείο που είναι στοιχείο και αλλιώς μηδενίζει.
+title: "IParentNode.FirstElementChild"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα IParentNode FirstElementChild. Επιστρέφει το πρώτο παιδί που είναι στοιχείο ή null διαφορετικά"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom/iparentnode/firstelementchild/
 ---
 ## IParentNode.FirstElementChild property
 
-Επιστρέφει το πρώτο θυγατρικό στοιχείο που είναι στοιχείο και αλλιώς μηδενίζει.
+Επιστρέφει το πρώτο παιδί που είναι στοιχείο, και null διαφορετικά.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πρώτο στοιχείο παιδί.
+Το πρώτο παιδικό στοιχείο.
 
 ### Δείτε επίσης
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iparentnode/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

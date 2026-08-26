@@ -1,28 +1,28 @@
 ---
-title: Element.Element
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουElementτάξη. Μην καλείτε απευθείας αυτόν τον κατασκευαστή χρησιμοποιήστεCreateElement ήCreateElementNS .
+title: "Element"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής Element. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης Element. Μην καλέτε αυτόν τον κατασκευαστή απευθείας· χρησιμοποιήστε CreateElement ή CreateElementNS"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/element/element/
 ---
 ## Element constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`Element`](../)τάξη. Μην καλείτε απευθείας αυτόν τον κατασκευαστή, χρησιμοποιήστε[`CreateElement`](../../document/createelement/) ή[`CreateElementNS`](../../document/createelementns/) .
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Element`](../). Μην καλέτε αυτόν τον κατασκευαστή απευθείας· χρησιμοποιήστε [`CreateElement`](../../document/createelement/) ή [`CreateElementNS`](../../document/createelementns/).
 
 ```csharp
-public Element(IElementInit elementInit)
+public Element(QualifiedName qualifiedName, Document document)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| elementInit | IElementInit | Πληροφορίες προετοιμασίας στοιχείων. |
+| qualifiedName | QualifiedName | Το πλήρες όνομα. |
+| έγγραφο | Έγγραφο | Το σχετικό έγγραφο. |
 
 ### Δείτε επίσης
 
-* interface [IElementInit](../../ielementinit/)
+* class [QualifiedName](../../qualifiedname/)
+* class [Document](../../document/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

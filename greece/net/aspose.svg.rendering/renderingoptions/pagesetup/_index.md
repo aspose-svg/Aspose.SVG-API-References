@@ -1,28 +1,26 @@
 ---
-title: RenderingOptions.PageSetup
-second_title: Aspose.SVG για Αναφορά API .NET
-description: RenderingOptions ιδιοκτησία. Λαμβάνει ένα αντικείμενο ρύθμισης σελίδας που χρησιμοποιείται για τη διαμόρφωση εξόδου pageset.
+title: "RenderingOptions.PageSetup"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PageSetup του RenderingOptions. Επιστρέφει ένα αντικείμενο ρύθμισης σελίδας που χρησιμοποιείται για τη διαμόρφωση της εξόδου σελίδας."
 type: docs
 weight: 50
 url: /el/net/aspose.svg.rendering/renderingoptions/pagesetup/
 ---
 ## RenderingOptions.PageSetup property
 
-Λαμβάνει ένα αντικείμενο ρύθμισης σελίδας που χρησιμοποιείται για τη διαμόρφωση εξόδου page-set.
+Λαμβάνει ένα αντικείμενο ρύθμισης σελίδας που χρησιμοποιείται για τη διαμόρφωση του εξόδου page-set.
 
 ```csharp
 public PageSetup PageSetup { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ρύθμιση της σελίδας.
+Η ρύθμιση σελίδας.
 
 ### Δείτε επίσης
 
 * class [PageSetup](../../pagesetup/)
 * class [RenderingOptions](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../renderingoptions/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

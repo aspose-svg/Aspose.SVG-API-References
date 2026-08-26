@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.Transform
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGGraphicsElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό transform στο δεδομένο στοιχείο.
+title: "SVGGraphicsElement.Transform"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGGraphicsElement Transform. Αντιστοιχεί στην ιδιότητα transform του δεδομένου στοιχείου."
 type: docs
 weight: 60
 url: /el/net/aspose.svg/svggraphicselement/transform/
 ---
 ## SVGGraphicsElement.Transform property
 
-Αντιστοιχεί στο χαρακτηριστικό 'transform' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘transform’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGAnimatedTransformList Transform { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο μετασχηματισμός στοιχείου.
+Ο μετασχηματισμός του στοιχείου.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGGraphicsElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svggraphicselement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

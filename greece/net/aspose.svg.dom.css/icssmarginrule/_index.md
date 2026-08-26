@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSMarginRule
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Css.ICSSMarginRule διεπαφή. Η διεπαφή CSSMarginRule αντιπροσωπεύει ένα margin atrule.
+title: "Διεπαφή ICSSMarginRule"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Dom.Css.ICSSMarginRule. Η διεπαφή CSSMarginRule αντιπροσωπεύει έναν κανόνα περιθωρίου (margin at-rule)"
 type: docs
-weight: 590
+weight: 2590
 url: /el/net/aspose.svg.dom.css/icssmarginrule/
 ---
 ## ICSSMarginRule interface
 
-Η διεπαφή CSSMarginRule αντιπροσωπεύει ένα margin at-rule.
+Η διεπαφή CSSMarginRule αντιπροσωπεύει έναν κανόνα περιθώριου.
 
 ```csharp
 public interface ICSSMarginRule : ICSSRule
@@ -16,15 +16,13 @@ public interface ICSSMarginRule : ICSSRule
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | Το χαρακτηριστικό name πρέπει να επιστρέψει το όνομα του margin at-rule. Ο χαρακτήρας @ δεν περιλαμβάνεται στο όνομα. |
+| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | Το χαρακτηριστικό name πρέπει να επιστρέφει το όνομα του κανόνα περιθωρίου. Ο χαρακτήρας @ δεν περιλαμβάνεται στο όνομα. |
 | [Style](../../aspose.svg.dom.css/icssmarginrule/style/) { get; } | Το μπλοκ δήλωσης αυτού του κανόνα. |
 
 ### Δείτε επίσης
 
 * interface [ICSSRule](../icssrule/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

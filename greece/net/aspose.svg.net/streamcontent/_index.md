@@ -1,14 +1,14 @@
 ---
-title: Class StreamContent
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Net.StreamContent τάξη. Αντιπροσωπεύει περιεχόμενο που βασίζεται σε ροή.
+title: "Κλάση StreamContent"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η κλάση Aspose.Svg.Net.StreamContent. Αντιπροσωπεύει περιεχόμενο βασισμένο σε ροή"
 type: docs
-weight: 2450
+weight: 4520
 url: /el/net/aspose.svg.net/streamcontent/
 ---
 ## StreamContent class
 
-Αντιπροσωπεύει περιεχόμενο που βασίζεται σε ροή.
+Αντιπροσωπεύει περιεχόμενο βασισμένο σε ροή.
 
 ```csharp
 public class StreamContent : Content
@@ -16,29 +16,27 @@ public class StreamContent : Content
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [StreamContent](streamcontent/)(Stream) | Αρχικοποιεί μια νέα παρουσία του`StreamContent` τάξη. |
+| [StreamContent](streamcontent/)(*Stream*) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `StreamContent`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | Λαμβάνει τις κεφαλίδες περιεχομένου HTTP. |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | Αποκτά τις κεφαλίδες περιεχομένου HTTP. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | Εκτελεί εργασίες που καθορίζονται από την εφαρμογή που σχετίζονται με την απελευθέρωση, την απελευθέρωση ή την επαναφορά μη διαχειριζόμενων πόρων. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Σειρώστε το περιεχόμενο HTTP και επιστρέψτε έναν πίνακα byte που αντιπροσωπεύει το περιεχόμενο. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | Σειριοποιήστε το περιεχόμενο HTTP και επιστρέψτε μια ροή που αντιπροσωπεύει το περιεχόμενο. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Σειρώστε το περιεχόμενο HTTP και επιστρέψτε μια συμβολοσειρά που αντιπροσωπεύει το περιεχόμενο. |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | Εκτελεί εργασίες που ορίζονται από την εφαρμογή και σχετίζονται με την απελευθέρωση, την αποδέσμευση ή την επαναφορά μη διαχειριζόμενων πόρων. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Σειριοποιεί το περιεχόμενο HTTP και επιστρέφει έναν πίνακα byte που αναπαριστά το περιεχόμενο. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | Σειριοποιεί το περιεχόμενο HTTP και επιστρέφει ένα ρεύμα που αναπαριστά το περιεχόμενο. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Σειριοποιεί το περιεχόμενο HTTP και επιστρέφει μια συμβολοσειρά που αναπαριστά το περιεχόμενο. |
 
 ### Δείτε επίσης
 
 * class [Content](../content/)
-* χώρος ονομάτων [Aspose.Svg.Net](../../aspose.svg.net/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

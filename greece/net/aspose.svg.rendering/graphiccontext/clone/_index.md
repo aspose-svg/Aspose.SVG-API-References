@@ -1,27 +1,25 @@
 ---
-title: GraphicContext.Clone
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext μέθοδος. Δημιουργεί μια νέα παρουσία μιας κλάσης GraphicContext με τις ίδιες τιμές ιδιοτήτων με μια υπάρχουσα παρουσία.
+title: "GraphicContext.Clone"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Clone του GraphicContext. Δημιουργεί μια νέα παρουσία της κλάσης GraphicContext με τις ίδιες τιμές ιδιοτήτων όπως μια υπάρχουσα παρουσία"
 type: docs
 weight: 170
 url: /el/net/aspose.svg.rendering/graphiccontext/clone/
 ---
 ## GraphicContext.Clone method
 
-Δημιουργεί μια νέα παρουσία μιας κλάσης GraphicContext με τις ίδιες τιμές ιδιοτήτων με μια υπάρχουσα παρουσία.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης GraphicContext με τις ίδιες τιμές ιδιοτήτων όπως ένα υπάρχον στιγμιότυπο.
 
 ```csharp
 public virtual GraphicContext Clone()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Παράδειγμα ενός GraphicContext
+Παράδειγμα του GraphicContext
 
 ### Δείτε επίσης
 
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

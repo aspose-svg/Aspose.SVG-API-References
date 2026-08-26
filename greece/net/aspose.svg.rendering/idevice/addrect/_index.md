@@ -1,7 +1,7 @@
 ---
-title: IDevice.AddRect
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDevice μέθοδος. Προσθέτει ένα ορθογώνιο στην τρέχουσα διαδρομή ως πλήρη υποδιαδρομή.
+title: "IDevice.AddRect"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος IDevice AddRect. Προσθέτει ένα ορθογώνιο στην τρέχουσα διαδρομή ως πλήρη υποδιαδρομή"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.rendering/idevice/addrect/
@@ -16,12 +16,10 @@ public void AddRect(RectangleF rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | Ένα ορθογώνιο για να σχεδιάσετε. |
+| rect | RectangleF | Ένα ορθογώνιο για σχεδίαση. |
 
 ### Δείτε επίσης
 
 * interface [IDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../idevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnInvalid
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IGlobalEventHandlers Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnInvalid.
+title: "IGlobalEventHandlers.OnInvalid"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IGlobalEventHandlers OnInvalid συμβάν. Λαμβάνει ή ορίζει τη διαχείριση συμβάντος για το συμβάν OnInvalid"
 type: docs
 weight: 160
 url: /el/net/aspose.svg.dom/iglobaleventhandlers/oninvalid/
 ---
 ## IGlobalEventHandlers.OnInvalid event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnInvalid.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnInvalid συμβάν.
 
 ```csharp
 public event DOMEventHandler OnInvalid;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnInvalid;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Event.IsTrusted
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Event ιδιοκτησία. Το χαρακτηριστικό isTrusted πρέπει να επιστρέψει την τιμή στην οποία είχε αρχικοποιηθεί. Όταν δημιουργείται ένα συμβάν το χαρακτηριστικό πρέπει να αρχικοποιηθεί σε false.
+title: "Event.IsTrusted"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Event IsTrusted. Το χαρακτηριστικό isTrusted πρέπει να επιστρέφει την τιμή με την οποία αρχικοποιήθηκε. Όταν δημιουργείται ένα συμβάν, το χαρακτηριστικό πρέπει να αρχικοποιηθεί σε false."
 type: docs
 weight: 70
 url: /el/net/aspose.svg.dom.events/event/istrusted/
 ---
 ## Event.IsTrusted property
 
-Το χαρακτηριστικό isTrusted πρέπει να επιστρέψει την τιμή στην οποία είχε αρχικοποιηθεί. Όταν δημιουργείται ένα συμβάν, το χαρακτηριστικό πρέπει να αρχικοποιηθεί σε false.
+Το χαρακτηριστικό isTrusted πρέπει να επιστρέφει την τιμή στην οποία αρχικοποιήθηκε. Όταν δημιουργείται ένα συμβάν, το χαρακτηριστικό πρέπει να αρχικοποιηθεί σε false.
 
 ```csharp
 public bool IsTrusted { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής`εάν αυτή η περίπτωση είναι αξιόπιστη, σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι αξιόπιστη· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Event](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../event/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

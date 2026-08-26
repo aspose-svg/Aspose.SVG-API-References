@@ -1,7 +1,7 @@
 ---
-title: HttpMethod.Delete
-second_title: Aspose.SVG για Αναφορά API .NET
-description: HttpMethod ιδιοκτησία. Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP DELETE.
+title: "HttpMethod.Delete"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Η ιδιότητα HttpMethod Delete. Αντιπροσωπεύει μια μέθοδο πρωτοκόλλου HTTP DELETE"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.net/httpmethod/delete/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.net/httpmethod/delete/
 public static HttpMethod Delete { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μέθοδος του πρωτοκόλλου HTTP DELETE.
+Η μέθοδος πρωτοκόλλου HTTP DELETE.
 
 ### Δείτε επίσης
 
 * class [HttpMethod](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../httpmethod/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

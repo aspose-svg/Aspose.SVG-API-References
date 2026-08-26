@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Rx
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGRectElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό rx στο δεδομένο στοιχείο rect.
+title: "SVGRectElement.Rx"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGRectElement Rx ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό rx στο δεδομένο στοιχείο rect"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgrectelement/rx/
 ---
 ## SVGRectElement.Rx property
 
-Αντιστοιχεί στο χαρακτηριστικό 'rx' στο δεδομένο στοιχείο 'rect'.
+Αντιστοιχεί στο χαρακτηριστικό ‘rx’ του δεδομένου στοιχείου ‘rect’
 
 ```csharp
 public SVGAnimatedLength Rx { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό 'rx' του δεδομένου στοιχείου 'rect'.
+Το χαρακτηριστικό ‘rx’ του δεδομένου στοιχείου ‘rect’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgrectelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

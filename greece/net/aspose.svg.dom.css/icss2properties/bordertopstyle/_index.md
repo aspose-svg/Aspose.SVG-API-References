@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.BorderTopStyle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας με στυλ περιγράμματος στο CSS2.
+title: "ICSS2Properties.BorderTopStyle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties BorderTopStyle ιδιότητα. Δείτε τον ορισμό της ιδιότητας border-top-style στο CSS2"
 type: docs
 weight: 270
 url: /el/net/aspose.svg.dom.css/icss2properties/bordertopstyle/
 ---
 ## ICSS2Properties.BorderTopStyle property
 
-Δείτε τον ορισμό της ιδιότητας με στυλ περιγράμματος στο CSS2.
+Δείτε τον ορισμό της ιδιότητας border-top-style στο CSS2.
 
 ```csharp
 public string BorderTopStyle { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ακίνητο σε στιλ συνόρων
+border-top-style ιδιότητα
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

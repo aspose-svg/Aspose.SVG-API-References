@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.PathBuilder
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ImageVectorizerConfiguration ιδιοκτησία. Λαμβάνει ή ορίζει το εργαλείο δημιουργίας τμημάτων διαδρομής SVG.
+title: "ImageVectorizerConfiguration.PathBuilder"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PathBuilder του ImageVectorizerConfiguration. Λαμβάνει ή ορίζει τον δημιουργό τμημάτων διαδρομής SVG."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder/
 ---
 ## ImageVectorizerConfiguration.PathBuilder property
 
-Λαμβάνει ή ορίζει το εργαλείο δημιουργίας τμημάτων διαδρομής SVG.
+Λαμβάνει ή ορίζει τον κατασκευαστή τμημάτων διαδρομής SVG.
 
 ```csharp
 public IPathBuilder PathBuilder { get; set; }
@@ -18,7 +18,5 @@ public IPathBuilder PathBuilder { get; set; }
 
 * interface [IPathBuilder](../../ipathbuilder/)
 * class [ImageVectorizerConfiguration](../)
-* χώρος ονομάτων [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

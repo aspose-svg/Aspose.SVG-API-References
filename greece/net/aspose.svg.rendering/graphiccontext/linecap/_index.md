@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.LineCap
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext ιδιοκτησία. Ορίζει ή λαμβάνει τον κώδικα που καθορίζει το σχήμα των τελικών σημείων για κάθε ανοιχτή διαδρομή που έχει διαγραμμιστεί.
+title: "GraphicContext.LineCap"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα LineCap του GraphicContext. Ορίζει ή διαβάζει τον κώδικα που καθορίζει το σχήμα των άκρων για οποιαδήποτε ανοιχτή διαδρομή που σχεδιάζεται"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.svg.rendering/graphiccontext/linecap/
 ---
 ## GraphicContext.LineCap property
 
-Ορίζει ή λαμβάνει τον κώδικα που καθορίζει το σχήμα των τελικών σημείων για κάθε ανοιχτή διαδρομή που έχει διαγραμμιστεί.
+Ορίζει ή λαμβάνει τον κώδικα που καθορίζει το σχήμα των άκρων για οποιαδήποτε ανοιχτή διαδρομή που σχεδιάζεται.
 
 ```csharp
-public virtual LineCap LineCap { get; set; }
+public virtual StrokeLineCap LineCap { get; set; }
 ```
 
 ### Δείτε επίσης
 
+* enum [StrokeLineCap](../../../aspose.svg.drawing/strokelinecap/)
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

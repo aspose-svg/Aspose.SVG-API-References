@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.VerticalAlign
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας κάθετης στοίχισης στο CSS2.
+title: "ICSS2Properties.VerticalAlign"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ICSS2Properties VerticalAlign. Δείτε τον ορισμό της ιδιότητας vertical-align στο CSS2"
 type: docs
-weight: 1140
+weight: 1170
 url: /el/net/aspose.svg.dom.css/icss2properties/verticalalign/
 ---
 ## ICSS2Properties.VerticalAlign property
 
-Δείτε τον ορισμό της ιδιότητας κάθετης στοίχισης στο CSS2.
+Δείτε τον ορισμό ιδιότητας vertical-align στο CSS2.
 
 ```csharp
 public string VerticalAlign { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα κάθετης ευθυγράμμισης
+ιδιότητα vertical-align
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

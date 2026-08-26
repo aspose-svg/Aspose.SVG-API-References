@@ -1,24 +1,34 @@
 ---
-title: Node.OwnerDocument
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node ιδιοκτησία. Το αντικείμενο Document που σχετίζεται με αυτόν τον κόμβο. Αυτό είναι επίσης το αντικείμενο Document που χρησιμοποιείται για τη δημιουργία νέων κόμβων. Όταν αυτός ο κόμβος είναι ένα έγγραφο ή ένας τύπος εγγράφου που δεν χρησιμοποιείται ακόμη με κανένα έγγραφο αυτό είναι null.
+title: "Node.OwnerDocument"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Node OwnerDocument. Επιστρέφει το αντικείμενο εγγράφου υψηλότερου επιπέδου του κόμβου."
 type: docs
-weight: 120
+weight: 110
 url: /el/net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-Το αντικείμενο Document που σχετίζεται με αυτόν τον κόμβο. Αυτό είναι επίσης το αντικείμενο Document που χρησιμοποιείται για τη δημιουργία νέων κόμβων. Όταν αυτός ο κόμβος είναι ένα έγγραφο ή ένας τύπος εγγράφου που δεν χρησιμοποιείται ακόμη με κανένα έγγραφο, αυτό είναι null.
+Επιστρέφει το αντικείμενο εγγράφου ανώτερου επιπέδου του κόμβου.
 
 ```csharp
 public virtual Document OwnerDocument { get; }
 ```
 
+### Property Value
+
+Ένα [`Document`](../../document/) που είναι το αντικείμενο υψηλότερου επιπέδου στο οποίο δημιουργούνται όλοι οι κόμβοι-παιδιά.
+
+Εάν αυτή η ιδιότητα χρησιμοποιηθεί σε έναν κόμβο που είναι ο ίδιος ένας έγγραφο, η τιμή είναι null.
+
+## Παρατηρήσεις
+
+Αναφορά:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
+
 ### Δείτε επίσης
 
 * class [Document](../../document/)
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

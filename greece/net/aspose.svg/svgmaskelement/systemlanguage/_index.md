@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.SystemLanguage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGMaskElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό systemLanguage στο δεδομένο στοιχείο.
+title: "SVGMaskElement.SystemLanguage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SystemLanguage του SVGMaskElement. Συμφωνεί με το χαρακτηριστικό systemLanguage στο δεδομένο στοιχείο"
 type: docs
 weight: 60
 url: /el/net/aspose.svg/svgmaskelement/systemlanguage/
 ---
 ## SVGMaskElement.SystemLanguage property
 
-Αντιστοιχεί στο χαρακτηριστικό 'systemLanguage' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘systemLanguage’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGStringList SystemLanguage { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η γλώσσα συστήματος.
+Η γλώσσα του συστήματος.
 
 ### Δείτε επίσης
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGMaskElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgmaskelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

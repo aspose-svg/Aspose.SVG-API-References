@@ -1,14 +1,14 @@
 ---
-title: Element.GetAttributeNodeNS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Ανακτά έναν κόμβο Attr με τοπικό όνομα και χώρο ονομάτων URI.
+title: "Element.GetAttributeNodeNS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Element GetAttributeNodeNS method. Ανακτά έναν κόμβο Attr με το τοπικό όνομα και το URI του ονοματοχώρου."
 type: docs
 weight: 260
 url: /el/net/aspose.svg.dom/element/getattributenodens/
 ---
 ## Element.GetAttributeNodeNS method
 
-Ανακτά έναν κόμβο Attr με τοπικό όνομα και χώρο ονομάτων URI.
+Ανακτά έναν κόμβο Attr με τοπικό όνομα και URI ονοματοχώρου.
 
 ```csharp
 public Attr GetAttributeNodeNS(string namespaceURI, string localName)
@@ -16,18 +16,16 @@ public Attr GetAttributeNodeNS(string namespaceURI, string localName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceURI | String | Το URI του χώρου ονομάτων. |
-| localName | String | Όνομα του τοπικού. |
+| namespaceURI | String | Το namespace URI. |
+| localName | String | Το τοπικό όνομα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει χαρακτηριστικό
+Επιστρέφει το γνώρισμα
 
 ### Δείτε επίσης
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

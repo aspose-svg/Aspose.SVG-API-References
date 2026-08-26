@@ -1,14 +1,14 @@
 ---
-title: Document.CreateElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document μέθοδος. Δημιουργεί ένα στοιχείο του καθορισμένου τύπου. Σημειώστε ότι η εμφάνιση που επιστράφηκε υλοποιεί τη διεπαφή Element επομένως τα χαρακτηριστικά μπορούν να καθοριστούν απευθείας στο επιστρεφόμενο αντικείμενο.
+title: "Document.CreateElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Document CreateElement. Δημιουργεί το στοιχείο HTML που καθορίζεται από το localName ή ένα HTMLUnknownElement εάν το localName δεν αναγνωρίζεται."
 type: docs
 weight: 850
 url: /el/net/aspose.svg.dom/document/createelement/
 ---
 ## Document.CreateElement method
 
-Δημιουργεί ένα στοιχείο του καθορισμένου τύπου. Σημειώστε ότι η εμφάνιση που επιστράφηκε υλοποιεί τη διεπαφή Element, επομένως τα χαρακτηριστικά μπορούν να καθοριστούν απευθείας στο επιστρεφόμενο αντικείμενο.
+Δημιουργεί το στοιχείο HTML που καθορίζεται από το localName, ή ένα HTMLUnknownElement εάν το localName δεν αναγνωρίζεται.
 
 ```csharp
 public Element CreateElement(string localName)
@@ -16,17 +16,15 @@ public Element CreateElement(string localName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| localName | String | Όνομα της ετικέτας. |
+| localName | String | Μια συμβολοσειρά που καθορίζει τον τύπο του στοιχείου που θα δημιουργηθεί. Το nodeName του δημιουργημένου στοιχείου αρχικοποιείται με την τιμή του localName. Μην χρησιμοποιείτε πλήρη ονόματα (π.χ. \"html:a\") με αυτή τη μέθοδο. Όταν κληθεί σε ένα έγγραφο HTML, η createElement() μετατρέπει το localName σε πεζά πριν δημιουργήσει το στοιχείο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`Element`](../../element/) .
+Το νέο [`Element`](../../element/).
 
 ### Δείτε επίσης
 
 * class [Element](../../element/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

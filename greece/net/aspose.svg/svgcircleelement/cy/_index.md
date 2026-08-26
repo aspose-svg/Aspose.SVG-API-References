@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.Cy
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGCircleElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό cy στο δεδομένο στοιχείο κύκλος.
+title: "SVGCircleElement.Cy"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "SVGCircleElement Cy ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό cy του δεδομένου στοιχείου κύκλου."
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgcircleelement/cy/
 ---
 ## SVGCircleElement.Cy property
 
-Αντιστοιχεί στο χαρακτηριστικό "cy" στο δεδομένο στοιχείο "κύκλος".
+Αντιστοιχεί στο χαρακτηριστικό ‘cy’ του δεδομένου στοιχείου ‘circle’.
 
 ```csharp
 public SVGAnimatedLength Cy { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χαρακτηριστικό "cy" του δεδομένου στοιχείου "κύκλος".
+Το χαρακτηριστικό ‘cy’ του δεδομένου στοιχείου ‘circle’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgcircleelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

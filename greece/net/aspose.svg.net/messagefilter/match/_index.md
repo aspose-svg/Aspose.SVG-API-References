@@ -1,14 +1,14 @@
 ---
-title: MessageFilter.Match
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MessageFilter μέθοδος. Όταν παρακάμπτεται σε μια παράγωγη κλάση ελέγχει εάν ένα Context ικανοποιεί τα κριτήρια φίλτρου.
+title: "MessageFilter.Match"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Match του MessageFilter. Όταν υπερκαλύπτεται σε μια παράγωγη κλάση, ελέγχει εάν ένα Context ικανοποιεί τα κριτήρια του φίλτρου"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.net/messagefilter/match/
 ---
 ## MessageFilter.Match method
 
-Όταν παρακάμπτεται σε μια παράγωγη κλάση, ελέγχει εάν ένα Context ικανοποιεί τα κριτήρια φίλτρου.
+Όταν παρακάμπτεται σε μια παράγωγη τάξη, ελέγχει εάν ένα Context ικανοποιεί τα κριτήρια του φίλτρου.
 
 ```csharp
 public abstract bool Match(INetworkOperationContext context)
@@ -16,17 +16,15 @@ public abstract bool Match(INetworkOperationContext context)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| context | INetworkOperationContext | Το περιεχόμενο. |
+| context | INetworkOperationContext | Το context. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθής εάν το αντικείμενο Context πληροί τα κριτήρια φίλτρου. σε διαφορετική περίπτωση,ψευδής.
+true εάν το αντικείμενο Context ικανοποιεί τα κριτήρια φίλτρου· διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageFilter](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../messagefilter/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

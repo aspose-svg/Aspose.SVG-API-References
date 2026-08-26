@@ -1,9 +1,9 @@
 ---
-title: Node.ELEMENT_NODE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node πεδίο. Ένας κόμβος στοιχείου
+title: "Node.ELEMENT_NODE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Node ELEMENT_NODE πεδίο. Ένας κόμβος στοιχείου"
 type: docs
-weight: 380
+weight: 360
 url: /el/net/aspose.svg.dom/node/element_node/
 ---
 ## Node.ELEMENT_NODE field
@@ -17,7 +17,5 @@ public const ushort ELEMENT_NODE;
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

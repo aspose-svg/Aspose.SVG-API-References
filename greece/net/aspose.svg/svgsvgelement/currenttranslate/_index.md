@@ -1,20 +1,20 @@
 ---
-title: SVGSVGElement.CurrentTranslate
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement ιδιοκτησία. Σε ένα εξώτατο στοιχείο svg ο αντίστοιχος παράγοντας μετάφρασης που λαμβάνει υπόψη τη μεγέθυνση του χρήστη. Όταν γίνεται πρόσβαση σε ένα στοιχείο svg που δεν είναι ένα εξώτατο στοιχείο svg δεν έχει οριστεί ποια συμπεριφορά έχει αυτό το χαρακτηριστικό.
+title: "SVGSVGElement.CurrentTranslate"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα SVGSVGElement CurrentTranslate. Σε ένα εξωτερικό στοιχείο svg, ο αντίστοιχος παράγοντας μετάφρασης που λαμβάνει υπόψη τη μεγέθυνση του χρήστη. Όταν προσπελαστεί σε στοιχείο svg που δεν είναι το εξωτερικό svg στοιχείο, είναι ακαθόριστο το πώς συμπεριφέρεται αυτό το χαρακτηριστικό."
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgsvgelement/currenttranslate/
 ---
 ## SVGSVGElement.CurrentTranslate property
 
-Σε ένα εξώτατο στοιχείο svg, ο αντίστοιχος παράγοντας μετάφρασης που λαμβάνει υπόψη τη "μεγέθυνση" του χρήστη. Όταν γίνεται πρόσβαση σε ένα στοιχείο 'svg' που δεν είναι ένα εξώτατο στοιχείο svg, δεν έχει οριστεί ποια συμπεριφορά έχει αυτό το χαρακτηριστικό.
+Σε ένα εξωτερικό στοιχείο svg, ο αντίστοιχος συντελεστής μετάφρασης που λαμβάνει υπόψη τη «μεγέθυνση» του χρήστη. Όταν προσπελαστεί σε ένα στοιχείο ‘svg’ που δεν είναι εξωτερικό στοιχείο svg, είναι ακαθόριστο τι συμπεριφορά έχει αυτό το χαρακτηριστικό.
 
 ```csharp
 public SVGPoint CurrentTranslate { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τρέχουσα μετάφραση.
 
@@ -22,7 +22,5 @@ public SVGPoint CurrentTranslate { get; }
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGAnimatedPathData
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Paths.ISVGAnimatedPathData διεπαφή. η διεπαφή SVGAnimatedPathData υποστηρίζει στοιχεία που έχουν ένα χαρακτηριστικό d που περιέχει δεδομένα διαδρομής SVG και υποστηρίζει τη δυνατότητα κίνησης αυτού του χαρακτηριστικού.
+title: "ISVGAnimatedPathData Διεπαφή"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Paths.ISVGAnimatedPathData διεπαφή. Η διεπαφή SVGAnimatedPathData υποστηρίζει στοιχεία που έχουν χαρακτηριστικό d που περιέχει δεδομένα διαδρομής SVG και υποστηρίζει τη δυνατότητα κίνησης αυτού του χαρακτηριστικού."
 type: docs
-weight: 2480
+weight: 4550
 url: /el/net/aspose.svg.paths/isvganimatedpathdata/
 ---
 ## ISVGAnimatedPathData interface
 
-η διεπαφή SVGAnimatedPathData υποστηρίζει στοιχεία που έχουν ένα χαρακτηριστικό "d" που περιέχει δεδομένα διαδρομής SVG και υποστηρίζει τη δυνατότητα κίνησης αυτού του χαρακτηριστικού.
+Η διεπαφή SVGAnimatedPathData υποστηρίζει στοιχεία που έχουν ένα χαρακτηριστικό ‘d’ που περιέχει δεδομένα διαδρομής SVG και υποστηρίζει τη δυνατότητα animation αυτού του χαρακτηριστικού.
 
 ```csharp
 public interface ISVGAnimatedPathData
@@ -16,14 +16,12 @@ public interface ISVGAnimatedPathData
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist/) { get; } | Παρέχει πρόσβαση στο τρέχον κινούμενο περιεχόμενο του χαρακτηριστικού 'd' σε μορφή που ταιριάζει ένα προς ένα με τη σύνταξη του SVG. Εάν το δεδομένο χαρακτηριστικό ή ιδιότητα κινείται, περιέχει την τρέχουσα κινούμενη τιμή του χαρακτηριστικού ή της ιδιότητας και τόσο το ίδιο το αντικείμενο όσο και τα περιεχόμενά του διαβάζονται μόνο. Εάν το δεδομένο χαρακτηριστικό ή ιδιότητα δεν κινείται αυτήν τη στιγμή, περιέχει την ίδια τιμή με το pathSegList. |
-| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist/) { get; } | Παρέχει πρόσβαση στα βασικά (δηλαδή, στατικά) περιεχόμενα του χαρακτηριστικού 'd' σε μορφή που ταιριάζει ένα προς ένα με τη σύνταξη του SVG. Έτσι, εάν το χαρακτηριστικό 'd' έχει μια εντολή "absolute moveto (M)" και "absolute arcto (A)", τότε το pathSegList θα έχει δύο καταχωρήσεις: μια SVG_PATHSEG_MOVETO_ABS και μια SVG_PATHSEG_ARC_ABS. |
+| [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist/) { get; } | Παρέχει πρόσβαση στα τρέχοντα κινούμενα περιεχόμενα του χαρακτηριστικού ‘d’ με μορφή που ταιριάζει ακριβώς με τη σύνταξη του SVG. Εάν το συγκεκριμένο χαρακτηριστικό ή ιδιότητα βρίσκεται σε κίνηση, περιέχει την τρέχουσα τιμή κίνησης του χαρακτηριστικού ή της ιδιότητας, και τόσο το αντικείμενο όσο και τα περιεχόμενά του είναι μόνο για ανάγνωση. Εάν το συγκεκριμένο χαρακτηριστικό ή ιδιότητα δεν βρίσκεται σε κίνηση, περιέχει την ίδια τιμή με το pathSegList. |
+| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist/) { get; } | Παρέχει πρόσβαση στα βασικά (δηλαδή στατικά) περιεχόμενα του χαρακτηριστικού ‘d’ με μορφή που ταιριάζει ακριβώς με τη σύνταξη του SVG. Έτσι, εάν το χαρακτηριστικό ‘d’ περιέχει μια «απόλυτη εντολή μετακίνησης (M)» και μια «απόλυτη εντολή τόξου (A)», τότε το pathSegList θα έχει δύο καταχωρήσεις: ένα SVG_PATHSEG_MOVETO_ABS και ένα SVG_PATHSEG_ARC_ABS. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

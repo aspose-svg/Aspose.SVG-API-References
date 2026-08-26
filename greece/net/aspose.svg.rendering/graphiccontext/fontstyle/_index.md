@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.FontStyle
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext ιδιοκτησία. Ορίζει ή λαμβάνει στυλ γραμματοσειράς κειμένου.
+title: "GraphicContext.FontStyle"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα FontStyle του GraphicContext. Ορίζει ή επιστρέφει το στυλ γραμματοσειράς κειμένου."
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.svg.rendering/graphiccontext/fontstyle/
 ---
 ## GraphicContext.FontStyle property
 
-Ορίζει ή λαμβάνει στυλ γραμματοσειράς κειμένου.
+Ορίζει ή λαμβάνει το στυλ γραμματοσειράς κειμένου.
 
 ```csharp
-public virtual FontStyle FontStyle { get; set; }
+public virtual WebFontStyle FontStyle { get; set; }
 ```
 
 ### Δείτε επίσης
 
+* enum [WebFontStyle](../../../aspose.svg.drawing/webfontstyle/)
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

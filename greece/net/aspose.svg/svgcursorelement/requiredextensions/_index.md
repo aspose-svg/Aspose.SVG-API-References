@@ -1,20 +1,20 @@
 ---
-title: SVGCursorElement.RequiredExtensions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGCursorElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό requiredExtensions στο δεδομένο στοιχείο.
+title: "SVGCursorElement.RequiredExtensions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα RequiredExtensions του SVGCursorElement. Αντιστοιχεί στο χαρακτηριστικό requiredExtensions στο δεδομένο στοιχείο"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/svgcursorelement/requiredextensions/
 ---
 ## SVGCursorElement.RequiredExtensions property
 
-Αντιστοιχεί στο χαρακτηριστικό 'requiredExtensions' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘requiredExtensions’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι απαιτούμενες επεκτάσεις.
 
@@ -22,7 +22,5 @@ public SVGStringList RequiredExtensions { get; }
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGCursorElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgcursorelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

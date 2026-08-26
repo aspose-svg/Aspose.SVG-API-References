@@ -1,27 +1,25 @@
 ---
-title: Element.RemoveAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Element μέθοδος. Καταργεί ένα χαρακτηριστικό με όνομα.
+title: "Element.RemoveAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Element RemoveAttribute. Αφαιρεί ένα χαρακτηριστικό με βάση το όνομα."
 type: docs
 weight: 370
 url: /el/net/aspose.svg.dom/element/removeattribute/
 ---
 ## Element.RemoveAttribute method
 
-Καταργεί ένα χαρακτηριστικό με όνομα.
+Αφαιρεί ένα χαρακτηριστικό με βάση το όνομα.
 
 ```csharp
-public void RemoveAttribute(string name)
+public void RemoveAttribute(string qualifiedName)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| name | String | Το όνομα του χαρακτηριστικού. |
+| qualifiedName | String | Το όνομα του γνωρίσματος. |
 
 ### Δείτε επίσης
 
 * class [Element](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../element/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

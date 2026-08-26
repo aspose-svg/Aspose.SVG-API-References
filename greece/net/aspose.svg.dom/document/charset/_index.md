@@ -1,7 +1,7 @@
 ---
-title: Document.Charset
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Λαμβάνει την κωδικοποίηση του εγγράφου.
+title: "Document.Charset"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document Charset. Λαμβάνει την κωδικοποίηση του εγγράφου"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.dom/document/charset/
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom/document/charset/
 public string Charset { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κωδικοποίηση του εγγράφου.
 
 ### Δείτε επίσης
 
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

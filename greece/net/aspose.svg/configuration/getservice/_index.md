@@ -1,33 +1,53 @@
 ---
-title: Configuration.GetService
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Configuration μέθοδος. Λαμβάνει την υπηρεσία που ζητήσατε.
+title: "Configuration.GetService"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος GetService του Configuration. Λαμβάνει την ζητούμενη υπηρεσία"
 type: docs
 weight: 50
 url: /el/net/aspose.svg/configuration/getservice/
 ---
-## Configuration.GetService&lt;TService&gt; method
+## GetService(*Type*) {#getservice}
 
-Λαμβάνει την υπηρεσία που ζητήσατε.
+Λαμβάνει την ζητούμενη υπηρεσία.
 
 ```csharp
-public TService GetService<TService>()
-    where TService : class, IService
+public object GetService(Type serviceType)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| serviceType | Τύπος | Ο τύπος της υπηρεσίας που θα ανακτηθεί. |
+
+### Τιμή Επιστροφής
+
+Ένα στιγμιότυπο της υπηρεσίας εάν βρεθεί, ή null εάν δεν βρεθεί
+
+### Δείτε επίσης
+
+* class [Configuration](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## GetService<T>() {#getservice_1}
+
+Λαμβάνει την ζητούμενη υπηρεσία.
+
+```csharp
+public T GetService<T>()
 ```
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| TService | Το είδος της υπηρεσίας προς ανάκτηση. |
+| T | Ο τύπος της υπηρεσίας που θα ανακτηθεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα παράδειγμα της υπηρεσίας εάν μπορούσε να βρεθεί, ήμηδενικό αν δεν μπορούσε να βρεθεί
+Ένα στιγμιότυπο της υπηρεσίας εάν βρεθεί, ή null εάν δεν βρεθεί
 
 ### Δείτε επίσης
 
-* interface [IService](../../../aspose.svg.services/iservice/)
 * class [Configuration](../)
-* χώρος ονομάτων [Aspose.Svg](../../configuration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

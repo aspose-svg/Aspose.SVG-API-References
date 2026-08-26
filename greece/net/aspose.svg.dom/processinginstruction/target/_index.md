@@ -1,27 +1,25 @@
 ---
-title: ProcessingInstruction.Target
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ProcessingInstruction ιδιοκτησία. Ο στόχος αυτής της εντολής επεξεργασίας.
+title: "ProcessingInstruction.Target"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Target του ProcessingInstruction. Ο προορισμός αυτής της οδηγίας επεξεργασίας"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom/processinginstruction/target/
 ---
 ## ProcessingInstruction.Target property
 
-Ο στόχος αυτής της εντολής επεξεργασίας.
+Ο προορισμός αυτής της οδηγίας επεξεργασίας.
 
 ```csharp
 public string Target { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο στόχος.
 
 ### Δείτε επίσης
 
 * class [ProcessingInstruction](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../processinginstruction/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

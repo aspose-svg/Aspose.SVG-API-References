@@ -1,14 +1,14 @@
 ---
-title: Class License
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.License τάξη. Παρέχει μεθόδους για την άδεια χρήσης του στοιχείου.
+title: "License Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.License κλάση. Παρέχει μεθόδους για την αδειοδότηση του στοιχείου."
 type: docs
-weight: 2190
+weight: 4260
 url: /el/net/aspose.svg/license/
 ---
 ## License class
 
-Παρέχει μεθόδους για την άδεια χρήσης του στοιχείου.
+Παρέχει μεθόδους για την αδειοδότηση του στοιχείου.
 
 ```csharp
 public class License
@@ -16,20 +16,20 @@ public class License
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [License](license/)() | Αρχικοποιεί μια νέα παρουσία αυτής της κλάσης. |
+| [License](license/)() | Αρχικοποιεί ένα νέο στιγμιότυπο αυτής της κλάσης. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(Stream) | Παρέχει άδεια χρήσης του στοιχείου. |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(string) | Παρέχει άδεια χρήσης του στοιχείου. |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(*Stream*) | Αδειοδοτεί το στοιχείο. |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(*string*) | Αδειοδοτεί το στοιχείο. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Σε αυτό το παράδειγμα, θα γίνει μια προσπάθεια να βρεθεί ένα αρχείο άδειας με το όνομα MyLicense.lic στο φάκελο που περιέχει  το στοιχείο, στο φάκελο που περιέχει τη συγκρότηση κλήσης, στο φάκελο της διάταξης καταχώρησης και, στη συνέχεια, στους ενσωματωμένους πόρους της συγκρότησης κλήσης.
+Σε αυτό το παράδειγμα, θα γίνει προσπάθεια να βρεθεί ένα αρχείο άδειας με όνομα MyLicense.lic στον φάκελο που περιέχει το στοιχείο, στον φάκελο που περιέχει το calling assembly, στον φάκελο του entry assembly και, στη συνέχεια, στους ενσωματωμένους πόρους του calling assembly.
 
 ```csharp
 [C#]
@@ -47,7 +47,5 @@ license.setLicense("MyLicense.lic");
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg](../../aspose.svg/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

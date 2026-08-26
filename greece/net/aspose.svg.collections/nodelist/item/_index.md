@@ -1,14 +1,14 @@
 ---
-title: NodeList.Item
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NodeList ιδιοκτησία. Η μέθοδος επιστρέφει το στοιχείο ευρετηρίου στη συλλογή. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων στη λίστα επιστρέφει null.
+title: "NodeList.Item"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Item του NodeList. Η μέθοδος επιστρέφει το στοιχείο με το συγκεκριμένο δείκτη στη συλλογή. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων στη λίστα, επιστρέφει null"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.collections/nodelist/item/
 ---
 ## NodeList indexer
 
-Η μέθοδος επιστρέφει το στοιχείο ευρετηρίου στη συλλογή. Εάν ο δείκτης είναι μεγαλύτερος ή ίσος με τον αριθμό των κόμβων στη λίστα, επιστρέφει null.
+Η μέθοδος επιστρέφει το στοιχείο με δείκτη index στην συλλογή. Εάν το index είναι μεγαλύτερο ή ίσο με τον αριθμό των κόμβων στη λίστα, επιστρέφει null.
 
 ```csharp
 public abstract Node this[int index] { get; }
@@ -16,9 +16,9 @@ public abstract Node this[int index] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Ο δείκτης. |
+| δείκτης | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Επιστρέφει κόμβο.
 
@@ -26,7 +26,5 @@ public abstract Node this[int index] { get; }
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeList](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../nodelist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

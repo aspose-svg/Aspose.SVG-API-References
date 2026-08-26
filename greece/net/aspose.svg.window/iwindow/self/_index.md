@@ -1,14 +1,14 @@
 ---
-title: IWindow.Self
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IWindow ιδιοκτησία. Επιστρέφει το αντικείμενο WindowProxy του περιβάλλοντος περιήγησης του αντικειμένου του παραθύρου.
+title: "IWindow.Self"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IWindow Self property. Επιστρέφει το αντικείμενο WindowProxy του περιβάλλοντος περιήγησης του αντικειμένου Window."
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.svg.window/iwindow/self/
 ---
 ## IWindow.Self property
 
-Επιστρέφει το αντικείμενο WindowProxy του περιβάλλοντος περιήγησης του αντικειμένου του παραθύρου.
+Επιστρέφει το αντικείμενο WindowProxy του περιβάλλοντος περιήγησης του αντικειμένου Window.
 
 ```csharp
 public IWindow Self { get; }
@@ -17,7 +17,5 @@ public IWindow Self { get; }
 ### Δείτε επίσης
 
 * interface [IWindow](../)
-* χώρος ονομάτων [Aspose.Svg.Window](../../iwindow/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

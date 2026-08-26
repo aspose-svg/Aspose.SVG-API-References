@@ -1,7 +1,7 @@
 ---
-title: DOMNullableAttribute.DOMNullableAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMNullableAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DOMNullableAttribute"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "DOMNullableAttribute κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom.attributes/domnullableattribute/domnullableattribute/
@@ -17,7 +17,5 @@ public DOMNullableAttribute()
 ### Δείτε επίσης
 
 * class [DOMNullableAttribute](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../domnullableattribute/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

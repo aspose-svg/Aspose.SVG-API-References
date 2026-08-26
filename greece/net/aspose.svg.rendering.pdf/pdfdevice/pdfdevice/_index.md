@@ -1,14 +1,14 @@
 ---
-title: PdfDevice.PdfDevice
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PdfDevice κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPdfDevice τάξη.
+title: "PdfDevice"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής PdfDevice. Αρχικοποιεί ένα νέο παράδειγμα της κλάσης PdfDevice"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice(ICreateStreamProvider) {#constructor}
+## PdfDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`PdfDevice`](../) τάξη.
+Αρχικοποιεί ένα νέο παράδειγμα της κλάσης [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -22,14 +22,14 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`PdfDevice`](../) τάξη με απόδοση επιλογών και πάροχο ροής.
+Αρχικοποιεί ένα νέο παράδειγμα της κλάσης [`PdfDevice`](../) με επιλογές απόδοσης και πάροχο ροής.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | options | PdfRenderingOptions | Επιλογές απόδοσης. |
-| streamProvider | ICreateStreamProvider | Αντικείμενο που υλοποιεί το[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) διεπαφή |
+| streamProvider | ICreateStreamProvider | Αντικείμενο που υλοποιεί τη διεπαφή [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) |
 
 ### Δείτε επίσης
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(string) {#constructor_5}
+## PdfDevice(*string*) {#constructor_5}
 
-Αρχικοποιεί μια νέα παρουσία του[`PdfDevice`](../) τάξη.
+Αρχικοποιεί ένα νέο παράδειγμα της κλάσης [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(string file)
@@ -65,14 +65,14 @@ public PdfDevice(string file)
 ### Δείτε επίσης
 
 * class [PdfDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`PdfDevice`](../) κλάση με απόδοση επιλογών και όνομα αρχείου εξόδου.
+Αρχικοποιεί ένα νέο παράδειγμα της κλάσης [`PdfDevice`](../) με επιλογές απόδοσης και όνομα αρχείου εξόδου.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -87,14 +87,14 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(Stream) {#constructor_4}
+## PdfDevice(*Stream*) {#constructor_4}
 
-Αρχικοποιεί μια νέα παρουσία του[`PdfDevice`](../) τάξη.
+Αρχικοποιεί ένα νέο παράδειγμα της κλάσης [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -102,19 +102,19 @@ public PdfDevice(Stream stream)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Το ρεύμα. |
+| stream | Stream | Η ροή. |
 
 ### Δείτε επίσης
 
 * class [PdfDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`PdfDevice`](../) τάξη με απόδοση επιλογών και ροή εξόδου.
+Αρχικοποιεί ένα νέο παράδειγμα της κλάσης [`PdfDevice`](../) με επιλογές απόδοσης και ροή εξόδου.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -129,7 +129,5 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

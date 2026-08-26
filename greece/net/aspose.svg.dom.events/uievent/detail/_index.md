@@ -1,27 +1,25 @@
 ---
-title: UIEvent.Detail
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UIEvent ιδιοκτησία. Καθορίζει ορισμένες λεπτομέρειες σχετικά με το συμβάν ανάλογα με τον τύπο του συμβάντος.
+title: "UIEvent.Detail"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "UIEvent Detail property. Καθορίζει κάποιες λεπτομερείς πληροφορίες σχετικά με το Event ανάλογα με τον τύπο του γεγονότος."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.events/uievent/detail/
 ---
 ## UIEvent.Detail property
 
-Καθορίζει ορισμένες λεπτομέρειες σχετικά με το συμβάν, ανάλογα με τον τύπο του συμβάντος.
+Καθορίζει κάποιες λεπτομερείς πληροφορίες σχετικά με το Event, ανάλογα με τον τύπο του συμβάντος.
 
 ```csharp
 public long Detail { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα στοιχεία λεπτομερειών.
+Τα δεδομένα λεπτομέρειας.
 
 ### Δείτε επίσης
 
 * class [UIEvent](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Events](../../uievent/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

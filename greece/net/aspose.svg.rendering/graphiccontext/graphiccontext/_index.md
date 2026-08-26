@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.GraphicContext
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GraphicContext κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουGraphicContext τάξη.
+title: "GraphicContext"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής GraphicContext. Αρχικοποιεί μια νέα παρουσία της κλάσης GraphicContext"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering/graphiccontext/graphiccontext/
 ---
 ## GraphicContext constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`GraphicContext`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`GraphicContext`](../).
 
 ```csharp
 public GraphicContext()
@@ -17,7 +17,5 @@ public GraphicContext()
 ### Δείτε επίσης
 
 * class [GraphicContext](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../graphiccontext/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

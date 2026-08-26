@@ -1,28 +1,26 @@
 ---
-title: SVGElement.OwnerSVGElement
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGElement ιδιοκτησία. Ο πλησιέστερος πρόγονος στοιχείο svg. Null εάν το δεδομένο στοιχείο είναι το πιο εξωτερικό στοιχείο svg.
+title: "SVGElement.OwnerSVGElement"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα OwnerSVGElement του SVGElement. Το πλησιέστερο πρόγονο στοιχείο svg. Null εάν το δεδομένο στοιχείο είναι το εξωτερικότερο στοιχείο svg."
 type: docs
 weight: 30
 url: /el/net/aspose.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
 
-Ο πλησιέστερος πρόγονος στοιχείο 'svg'. Null εάν το δεδομένο στοιχείο είναι το πιο εξωτερικό στοιχείο svg.
+Το πλησιέστερο πρόγονο στοιχείο ‘svg’. Null εάν το δεδομένο στοιχείο είναι το εξωτερικότερο στοιχείο svg.
 
 ```csharp
 public SVGSVGElement OwnerSVGElement { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το στοιχείο SVG ιδιοκτήτη.
+Το ιδιοκτησιακό στοιχείο SVG.
 
 ### Δείτε επίσης
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

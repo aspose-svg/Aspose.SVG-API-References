@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Clip
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας κλιπ στο CSS2.
+title: "ICSS2Properties.Clip"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ιδιότητα Clip. Δείτε τον ορισμό της ιδιότητας clip στο CSS2"
 type: docs
 weight: 330
 url: /el/net/aspose.svg.dom.css/icss2properties/clip/
 ---
 ## ICSS2Properties.Clip property
 
-Δείτε τον ορισμό της ιδιότητας κλιπ στο CSS2.
+Δείτε τον ορισμό της ιδιότητας clip στο CSS2.
 
 ```csharp
 public string Clip { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιοκτησία κλιπ
+ιδιότητα clip
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

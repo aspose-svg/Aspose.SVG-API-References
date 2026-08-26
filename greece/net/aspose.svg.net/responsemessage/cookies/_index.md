@@ -1,14 +1,14 @@
 ---
-title: ResponseMessage.Cookies
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResponseMessage ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη συλλογή cookie.
+title: "ResponseMessage.Cookies"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ResponseMessage Cookies. Λαμβάνει ή ορίζει τη συλλογή cookie"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.net/responsemessage/cookies/
 ---
 ## ResponseMessage.Cookies property
 
-Λαμβάνει ή ρυθμίζει τη συλλογή cookie.
+Λαμβάνει ή ορίζει τη συλλογή cookie.
 
 ```csharp
 public CookieCollection Cookies { get; set; }
@@ -17,7 +17,5 @@ public CookieCollection Cookies { get; set; }
 ### Δείτε επίσης
 
 * class [ResponseMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../responsemessage/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

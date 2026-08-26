@@ -1,9 +1,9 @@
 ---
-title: Interface IDocumentCSS
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Css.IDocumentCSS διεπαφή. Αυτή η διεπαφή αντιπροσωπεύει ένα έγγραφο με προβολή CSS.
+title: "Διεπαφή IDocumentCSS"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Διεπαφή Aspose.Svg.Dom.Css.IDocumentCSS. Αυτή η διεπαφή αντιπροσωπεύει ένα έγγραφο με προβολή CSS"
 type: docs
-weight: 690
+weight: 2690
 url: /el/net/aspose.svg.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface
@@ -16,14 +16,12 @@ public interface IDocumentCSS : IDocumentStyle
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(Element, string) | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση της δήλωσης στυλ παράκαμψης για ένα καθορισμένο στοιχείο και ένα καθορισμένο ψευδοστοιχείο. |
+| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(*[Element](../../aspose.svg.dom/element/), string*) | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση της δήλωσης παρακάμψης στυλ για ένα καθορισμένο στοιχείο και ένα καθορισμένο ψευδο-στοιχείο. |
 
 ### Δείτε επίσης
 
 * interface [IDocumentStyle](../idocumentstyle/)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

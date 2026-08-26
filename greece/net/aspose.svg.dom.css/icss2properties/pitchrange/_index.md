@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.PitchRange
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας pitchrange στο CSS2.
+title: "ICSS2Properties.PitchRange"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSS2Properties ιδιότητα PitchRange. Δείτε τον ορισμό της ιδιότητας pitch-range στο CSS2"
 type: docs
-weight: 930
+weight: 960
 url: /el/net/aspose.svg.dom.css/icss2properties/pitchrange/
 ---
 ## ICSS2Properties.PitchRange property
@@ -14,14 +14,12 @@ url: /el/net/aspose.svg.dom.css/icss2properties/pitchrange/
 public string PitchRange { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιοκτησίας εμβέλειας
+ιδιότητα pitch-range
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Width
-second_title: Aspose.SVG για Αναφορά API .NET
-description: GlyphInfo ιδιοκτησία. Παίρνει το πλάτος της γλυφής σε σημεία.
+title: "GlyphInfo.Width"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα GlyphInfo Width. Λαμβάνει το πλάτος του glyph σε points."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property
 
-Παίρνει το πλάτος της γλυφής, σε σημεία.
+Λαμβάνει το πλάτος του γλύφου, σε σημεία.
 
 ```csharp
 public float Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Πλάτος σε πόντους.
+Πλάτος σε points.
 
 ### Δείτε επίσης
 
 * struct [GlyphInfo](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../glyphinfo/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

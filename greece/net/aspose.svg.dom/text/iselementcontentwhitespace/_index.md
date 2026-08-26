@@ -1,27 +1,25 @@
 ---
-title: Text.IsElementContentWhitespace
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Text ιδιοκτησία. Επιστρέφει εάν αυτός ο κόμβος κειμένου περιέχει κενό διάστημα περιεχομένου στοιχείου που συχνά αποκαλείται καταχρηστικά άγνομο κενό διάστημα.
+title: "Text.IsElementContentWhitespace"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Text IsElementContentWhitespace. Επιστρέφει αν αυτός ο κόμβος κειμένου περιέχει λευκό διάστημα περιεχομένου στοιχείου, συχνά λανθασμένα αποκαλούμενο αγνοήσιμο λευκό διάστημα"
 type: docs
 weight: 10
 url: /el/net/aspose.svg.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 
-Επιστρέφει εάν αυτός ο κόμβος κειμένου περιέχει κενό διάστημα περιεχομένου στοιχείου, που συχνά αποκαλείται καταχρηστικά "άγνομο κενό διάστημα".
+Επιστρέφει αν αυτός ο κόμβος κειμένου περιέχει λευκό διάστημα περιεχομένου στοιχείου, συχνά λανθασμένα αποκαλούμενο «παραβλέψιμο λευκό διάστημα».
 
 ```csharp
 public bool IsElementContentWhitespace { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η παρουσία είναι κενό διάστημα περιεχομένου στοιχείου. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι λευκό διάστημα περιεχομένου στοιχείου· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Text](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../text/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

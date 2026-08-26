@@ -1,14 +1,14 @@
 ---
-title: PageSetup.LeftPage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PageSetup ιδιοκτησία. Λαμβάνει τη διαμόρφωση περίεργης σελίδας.
+title: "PageSetup.LeftPage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα PageSetup LeftPage. Λαμβάνει τη ρύθμιση Odd Page."
 type: docs
 weight: 40
 url: /el/net/aspose.svg.rendering/pagesetup/leftpage/
 ---
 ## PageSetup.LeftPage property
 
-Λαμβάνει τη διαμόρφωση περίεργης σελίδας.
+Λαμβάνει τη ρύθμιση της Μονής Σελίδας.
 
 ```csharp
 public Page LeftPage { get; }
@@ -18,7 +18,5 @@ public Page LeftPage { get; }
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../pagesetup/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

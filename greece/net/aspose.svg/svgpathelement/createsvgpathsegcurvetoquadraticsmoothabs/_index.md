@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGPathElement μέθοδος. Επιστρέφει ένα αυτόνομο χωρίς γονικό αντικείμενο SVGPathSegCurvetoQuadraticSmoothAbs.
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος SVGPathElement CreateSVGPathSegCurvetoQuadraticSmoothAbs. Επιστρέφει ένα αυτόνομο χωρίς γονέα αντικείμενο SVGPathSegCurvetoQuadraticSmoothAbs"
 type: docs
 weight: 120
 url: /el/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs method
 
-Επιστρέφει ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegCurvetoQuadraticSmoothAbs.
+Επιστρέφει ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegCurvetoQuadraticSmoothAbs.
 
 ```csharp
 public SVGPathSegCurvetoQuadraticSmoothAbs CreateSVGPathSegCurvetoQuadraticSmoothAbs(float x, 
@@ -17,18 +17,16 @@ public SVGPathSegCurvetoQuadraticSmoothAbs CreateSVGPathSegCurvetoQuadraticSmoot
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Single | Η απόλυτη συντεταγμένη Χ για το τελικό σημείο αυτού του τμήματος διαδρομής. |
-| y | Single | Η απόλυτη συντεταγμένη Y για το τελικό σημείο αυτού του τμήματος διαδρομής. |
+| x | Single | Η απόλυτη συντεταγμένη X για το σημείο τερματισμού αυτού του τμήματος διαδρομής. |
+| y | Single | Η απόλυτη συντεταγμένη Y για το σημείο τερματισμού αυτού του τμήματος διαδρομής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αυτόνομο, χωρίς γονικό αντικείμενο SVGPathSegCurvetoQuadraticSmoothAbs.
+Ένα αυτόνομο, χωρίς γονέα αντικείμενο SVGPathSegCurvetoQuadraticSmoothAbs.
 
 ### Δείτε επίσης
 
 * class [SVGPathSegCurvetoQuadraticSmoothAbs](../../../aspose.svg.paths/svgpathsegcurvetoquadraticsmoothabs/)
 * class [SVGPathElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgpathelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

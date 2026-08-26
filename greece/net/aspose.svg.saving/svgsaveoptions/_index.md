@@ -1,14 +1,14 @@
 ---
-title: Class SVGSaveOptions
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Saving.SVGSaveOptions τάξη. Αντιπροσωπεύει επιλογές αποθήκευσης SVG.
+title: "Κλάση SVGSaveOptions"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κλάση Aspose.Svg.Saving.SVGSaveOptions. Αντιπροσωπεύει τις επιλογές αποθήκευσης SVG."
 type: docs
-weight: 3670
+weight: 5790
 url: /el/net/aspose.svg.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class
 
-Αντιπροσωπεύει επιλογές αποθήκευσης SVG.
+Αναπαριστά επιλογές αποθήκευσης SVG.
 
 ```csharp
 public class SVGSaveOptions : SaveOptions
@@ -16,21 +16,19 @@ public class SVGSaveOptions : SaveOptions
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [SVGSaveOptions](svgsaveoptions/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Παίρνει ένα[`ResourceHandlingOptions`](../resourcehandlingoptions/) αντικείμενο που χρησιμοποιείται για τη διαμόρφωση του χειρισμού πόρων. |
-| [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext/) { get; set; } | Λαμβάνει ή ορίζει εάν τα στοιχεία κειμένου αντικαθίστανται από διαδρομές. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Λαμβάνει ένα αντικείμενο [`ResourceHandlingOptions`](../resourcehandlingoptions/) που χρησιμοποιείται για τη διαμόρφωση της διαχείρισης πόρων. |
+| [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext/) { get; set; } | Λαμβάνει ή ορίζει εάν τα στοιχεία κειμένου αντικαθίστανται με διαδρομές. |
 
 ### Δείτε επίσης
 
 * class [SaveOptions](../saveoptions/)
-* χώρος ονομάτων [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

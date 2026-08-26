@@ -1,27 +1,25 @@
 ---
-title: Document.OwnerDocument
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document ιδιοκτησία. Λαμβάνει το έγγραφο κατόχου.
+title: "Document.OwnerDocument"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Document OwnerDocument. Επιστρέφει το έγγραφο ιδιοκτήτη"
 type: docs
 weight: 210
 url: /el/net/aspose.svg.dom/document/ownerdocument/
 ---
 ## Document.OwnerDocument property
 
-Λαμβάνει το έγγραφο κατόχου.
+Λαμβάνει το έγγραφο ιδιοκτήτη.
 
 ```csharp
 public override Document OwnerDocument { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το έγγραφο κατόχου.
+Το έγγραφο ιδιοκτήτη.
 
 ### Δείτε επίσης
 
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

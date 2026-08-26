@@ -1,14 +1,14 @@
 ---
-title: UnitType.Grad
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType πεδίο. Η μέτρηση είναι σε κλίσεις.
+title: "UnitType.Grad"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο UnitType Grad. Η μέτρηση είναι σε gradians"
 type: docs
 weight: 100
 url: /el/net/aspose.svg.drawing/unittype/grad/
 ---
 ## UnitType.Grad field
 
-Η μέτρηση είναι σε κλίσεις.
+Η μέτρηση είναι σε γκριάνια.
 
 ```csharp
 public static readonly UnitType Grad;
@@ -17,7 +17,5 @@ public static readonly UnitType Grad;
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

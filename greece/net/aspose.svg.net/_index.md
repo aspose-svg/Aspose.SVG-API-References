@@ -1,39 +1,37 @@
 ---
-title: Aspose.Svg.Net
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Το Aspose.Svg.NetΟ χώρος ονομάτων παρουσιάζεται από τάξεις και διεπαφές που είναι υπεύθυνες για την εύκολη επεξεργασία του δικτύου.
+title: "Aspose.Svg.Net"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Το namespace Aspose.Svg.Net παρουσιάζεται από κλάσεις και διεπαφές που είναι υπεύθυνες για την εύκολη επεξεργασία δικτύου."
 type: docs
-weight: 190
+weight: 210
 url: /el/net/aspose.svg.net/
 ---
-Το **Aspose.Svg.Net**Ο χώρος ονομάτων παρουσιάζεται από τάξεις και διεπαφές που είναι υπεύθυνες για την εύκολη επεξεργασία του δικτύου.
+Το **Aspose.Svg.Net** namespace παρουσιάζεται από κλάσεις και διεπαφές που είναι υπεύθυνες για τη διευκόλυνση της εύκολης επεξεργασίας δικτύου.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [ByteArrayContent](./bytearraycontent/) | Αντιπροσωπεύει περιεχόμενο που βασίζεται σε πίνακα byte. |
-| [Content](./content/) | Αντιπροσωπεύει μια βασική κλάση για ένα σώμα οντότητας HTTP και κεφαλίδες περιεχομένου. |
+| [ByteArrayContent](./bytearraycontent/) | Αναπαριστά περιεχόμενο βασισμένο σε έναν πίνακα byte. |
+| [Content](./content/) | Αναπαριστά μια βασική κλάση για το σώμα οντότητας HTTP και τις κεφαλίδες περιεχομένου. |
 | [ContentHeaders](./contentheaders/) | Περιέχει τις κεφαλίδες που σχετίζονται με ένα περιεχόμενο. |
-| [FormUrlEncodedContent](./formurlencodedcontent/) | Ένα κοντέινερ για πλειάδες ονόματος/τιμής που κωδικοποιούνται με χρήση τύπου MIME εφαρμογής/x-www-form-urlencoded. |
-| [HttpMethod](./httpmethod/) | Αντιπροσωπεύει την κλάση βοηθητικού προγράμματος για την ανάκτηση και τη σύγκριση τυπικών μεθόδων HTTP. |
-| [MessageFilter](./messagefilter/) | Αντιπροσωπεύει την αφηρημένη βασική κλάση για διαφορετικές κατηγορίες φίλτρων που χρησιμοποιούνται για την αναζήτηση μηνυμάτων |
-| [MessageHandler](./messagehandler/) | Αντιπροσωπεύει έναν βασικό τύπο για τους χειριστές μηνυμάτων. |
-| [MessageHandlerCollection](./messagehandlercollection/) | Αντιπροσωπεύει τη συλλογή του[`MessageHandler`](../aspose.svg.net/messagehandler/) . |
-| [MultipartContent](./multipartcontent/) | Αντιπροσωπεύει ένα πολυμερές/* περιεχόμενο. |
-| [MultipartFormDataContent](./multipartformdatacontent/) | Αντιπροσωπεύει περιεχόμενο για αλγόριθμο κωδικοποίησης πολλαπλών μερών/φόρμας-δεδομένων |
-| [RequestHeaders](./requestheaders/) | Περιέχει κεφαλίδες πρωτοκόλλου που σχετίζονται με ένα αίτημα. |
+| [FormUrlEncodedContent](./formurlencodedcontent/) | Ένας δοχείο για ζεύγη όνομα/τιμή κωδικοποιημένα με τον τύπο MIME application/x-www-form-urlencoded. |
+| [HttpMethod](./httpmethod/) | Αναπαριστά βοηθητική κλάση για την ανάκτηση και σύγκριση των τυπικών μεθόδων HTTP. |
+| [MessageFilter](./messagefilter/) | Αναπαριστά αφηρημένη βασική κλάση για διαφορετικές κλάσεις φίλτρων που χρησιμοποιούνται για την ερώτηση μηνυμάτων. |
+| [MessageHandler](./messagehandler/) | Αναπαριστά έναν βασικό τύπο για διαχειριστές μηνυμάτων. |
+| [MessageHandlerCollection](./messagehandlercollection/) | Αντιπροσωπεύει τη συλλογή του [`MessageHandler`](../aspose.svg.net/messagehandler/). |
+| [MultipartContent](./multipartcontent/) | Αντιπροσωπεύει ένα περιεχόμενο multipart/*. |
+| [MultipartFormDataContent](./multipartformdatacontent/) | Αντιπροσωπεύει το περιεχόμενο για τον αλγόριθμο κωδικοποίησης multipart/form-data |
+| [RequestHeaders](./requestheaders/) | Περιέχει τις κεφαλίδες πρωτοκόλλου που σχετίζονται με ένα αίτημα. |
 | [RequestMessage](./requestmessage/) | Αντιπροσωπεύει ένα μήνυμα αιτήματος. |
-| [ResponseHeaders](./responseheaders/) | Περιέχει κεφαλίδες πρωτοκόλλου που σχετίζονται με μια απόκριση. |
+| [ResponseHeaders](./responseheaders/) | Περιέχει τις κεφαλίδες πρωτοκόλλου που σχετίζονται με μια απάντηση. |
 | [ResponseMessage](./responsemessage/) | Αντιπροσωπεύει ένα μήνυμα απάντησης. |
-| [StreamContent](./streamcontent/) | Αντιπροσωπεύει περιεχόμενο που βασίζεται σε ροή. |
-| [StringContent](./stringcontent/) | Αντιπροσωπεύει περιεχόμενο που βασίζεται σε μια συμβολοσειρά. |
-| [UrlResolver](./urlresolver/) | Αντιπροσωπεύει την κλάση βοηθητικού προγράμματος για την επίλυση απόλυτης διεύθυνσης URL με ένα Uniform Resource Identifier (URI). |
+| [StreamContent](./streamcontent/) | Αντιπροσωπεύει περιεχόμενο βασισμένο σε ροή. |
+| [StringContent](./stringcontent/) | Αντιπροσωπεύει περιεχόμενο βασισμένο σε συμβολοσειρά. |
+| [UrlResolver](./urlresolver/) | Αντιπροσωπεύει κλάση βοηθητικού προγράμματος για την επίλυση απόλυτης διεύθυνσης URL μέσω ενός Καθολικού Αναγνωριστικού Πόρων (URI). |
 ## Διεπαφές
 
 | Διεπαφή | Περιγραφή |
 | --- | --- |
 | [INetwork](./inetwork/) | Παρέχει μια διεπαφή για υπηρεσίες δικτύου. |
-| [INetworkOperationContext](./inetworkoperationcontext/) | Παρέχει συναφείς πληροφορίες για τις υπηρεσίες δικτύου. |
-
-
+| [INetworkOperationContext](./inetworkoperationcontext/) | Παρέχει συμφραζόμενη πληροφορία για τις υπηρεσίες δικτύου. |

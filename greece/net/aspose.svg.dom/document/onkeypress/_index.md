@@ -1,14 +1,14 @@
 ---
-title: Document.OnKeyPress
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnKeyPress.
+title: "Document.OnKeyPress"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Συμβάν Document OnKeyPress. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το συμβάν OnKeyPress."
 type: docs
 weight: 450
 url: /el/net/aspose.svg.dom/document/onkeypress/
 ---
 ## Document.OnKeyPress event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnKeyPress.
+Λαμβάνει ή ορίζει το χειριστή συμβάντος για OnKeyPress συμβάν.
 
 ```csharp
 public event DOMEventHandler OnKeyPress;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnKeyPress;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Rect.Left
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Rect ιδιοκτησία. Αυτό το χαρακτηριστικό χρησιμοποιείται στα αριστερά του ορθού.
+title: "Rect.Left"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Rect Left. Αυτό το χαρακτηριστικό χρησιμοποιείται για την αριστερή πλευρά του rect"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.css/rect/left/
 ---
 ## Rect.Left property
 
-Αυτό το χαρακτηριστικό χρησιμοποιείται στα αριστερά του ορθού.
+Αυτό το χαρακτηριστικό χρησιμοποιείται για το αριστερό μέρος του rect.
 
 ```csharp
 public CSSPrimitiveValue Left { get; }
@@ -18,7 +18,5 @@ public CSSPrimitiveValue Left { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../rect/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

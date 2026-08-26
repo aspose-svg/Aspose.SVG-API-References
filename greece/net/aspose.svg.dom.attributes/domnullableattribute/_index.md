@@ -1,14 +1,14 @@
 ---
-title: Class DOMNullableAttribute
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Dom.Attributes.DOMNullableAttribute τάξη. Καθορίζει ότι ένα αντικείμενο DOM μπορεί να εκχωρηθεί null.
+title: "DOMNullableAttribute Κλάση"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Dom.Attributes.DOMNullableAttribute κλάση. Καθορίζει ότι ένα αντικείμενο DOM μπορεί να του ανατεθεί τιμή null"
 type: docs
-weight: 410
+weight: 2410
 url: /el/net/aspose.svg.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class
 
-Καθορίζει ότι ένα αντικείμενο DOM μπορεί να εκχωρηθεί null.
+Καθορίζει ότι ένα αντικείμενο DOM μπορεί να του ανατεθεί τιμή null.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -17,13 +17,17 @@ public sealed class DOMNullableAttribute : Attribute
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [DOMNullableAttribute](domnullableattribute/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
+## Ιδιότητες
+
+| Όνομα | Περιγραφή |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
+
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface ISolidBrush
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.Drawing.ISolidBrush διεπαφή. Καθορίζει τη διεπαφή πινέλου ενός μόνο χρώματος
+title: "ISolidBrush Interface"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.Drawing.ISolidBrush interface. Ορίζει τη διεπαφή πινέλου ενός ενιαίου χρώματος."
 type: docs
-weight: 1480
+weight: 3510
 url: /el/net/aspose.svg.drawing/isolidbrush/
 ---
 ## ISolidBrush interface
 
-Καθορίζει τη διεπαφή πινέλου ενός μόνο χρώματος
+Ορίζει διεπαφή πινέλου ενός ενιαίου χρώματος.
 
 ```csharp
 public interface ISolidBrush : IBrush
@@ -16,14 +16,12 @@ public interface ISolidBrush : IBrush
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Color](../../aspose.svg.drawing/isolidbrush/color/) { get; } | Πάρτε το χρώμα του πινέλου. |
+| [Color](../../aspose.svg.drawing/isolidbrush/color/) { get; } | Λάβετε το χρώμα του πινέλου. |
 
 ### Δείτε επίσης
 
 * interface [IBrush](../ibrush/)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

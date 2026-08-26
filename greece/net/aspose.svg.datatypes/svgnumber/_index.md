@@ -1,14 +1,14 @@
 ---
-title: Class SVGNumber
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Aspose.Svg.DataTypes.SVGNumber τάξη. Χρησιμοποιείται για χαρακτηριστικά του αριθμού βασικού τύπου.
+title: "SVGNumber Κατηγορία"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Aspose.Svg.DataTypes.SVGNumber κατηγορία. Χρησιμοποιείται για ιδιότητες βασικού τύπου number"
 type: docs
-weight: 250
+weight: 2240
 url: /el/net/aspose.svg.datatypes/svgnumber/
 ---
 ## SVGNumber class
 
-Χρησιμοποιείται για χαρακτηριστικά του αριθμού βασικού τύπου.
+Χρησιμοποιείται για ιδιότητες του βασικού τύπου number.
 
 ```csharp
 public class SVGNumber : SVGValueType
@@ -16,22 +16,20 @@ public class SVGNumber : SVGValueType
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Value](../../aspose.svg.datatypes/svgnumber/value/) { get; set; } | Η τιμή του δεδομένου χαρακτηριστικού. |
+| [Value](../../aspose.svg.datatypes/svgnumber/value/) { get; set; } | Η τιμή της δεδομένης ιδιότητας. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Απελευθερώνει μη διαχειριζόμενους και - προαιρετικά - διαχειριζόμενους πόρους. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση αντικειμένου ECMAScriptType . |
-| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Αυτή η μέθοδος χρησιμοποιείται για την ανάκτηση του τύπου του αντικειμένου ECMAScript. |
+| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία. |
 
 ### Δείτε επίσης
 
 * class [SVGValueType](../svgvaluetype/)
-* χώρος ονομάτων [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* συνέλευση [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Length.op_GreaterThan
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Length μέθοδος. Υλοποιεί τον τελεστή .
+title: "Length.op_GreaterThan"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Length op_GreaterThan. Υλοποιεί τον τελεστή"
 type: docs
 weight: 30
 url: /el/net/aspose.svg.drawing/length/op_greaterthan/
 ---
 ## Length GreaterThan operator
 
-Υλοποιεί τον τελεστή &gt;.
+Υλοποιεί τον τελεστή >.
 
 ```csharp
 public static bool operator >(Length a, Length b)
@@ -16,24 +16,22 @@ public static bool operator >(Length a, Length b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Length | Η παράμετρος α. |
-| b | Length | Η παράμετρος β. |
+| a | Length | Η παράμετρος a. |
+| b | Length | Η παράμετρος b. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| ArgumentException | Τα επιχειρήματα έχουν διαφορετικούς τύπους |
-| ArgumentNullException | Ένα όρισμα είναι μηδενικό |
+| ArgumentException | Τα ορίσματα έχουν διαφορετικούς τύπους |
+| ArgumentNullException | Ένα όρισμα είναι null |
 
 ### Δείτε επίσης
 
 * class [Length](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../length/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

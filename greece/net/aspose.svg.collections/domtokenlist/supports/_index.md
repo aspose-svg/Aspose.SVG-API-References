@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Supports
-second_title: Aspose.SVG για Αναφορά API .NET
-description: DOMTokenList μέθοδος. Επιστρέφει true εάν ένα δεδομένο διακριτικό βρίσκεται στα υποστηριζόμενα διακριτικά του συσχετισμένου χαρακτηριστικού.
+title: "DOMTokenList.Supports"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος DOMTokenList Supports. Επιστρέφει true εάν ένα δεδομένο διακριτικό βρίσκεται στα υποστηριζόμενα διακριτικά των σχετικών χαρακτηριστικών."
 type: docs
 weight: 90
 url: /el/net/aspose.svg.collections/domtokenlist/supports/
 ---
 ## DOMTokenList.Supports method
 
-Επιστρέφει true εάν ένα δεδομένο διακριτικό βρίσκεται στα υποστηριζόμενα διακριτικά του συσχετισμένου χαρακτηριστικού.
+Επιστρέφει true εάν ένα δεδομένο διακριτό βρίσκεται στα υποστηριζόμενα διακριτά του σχετικού χαρακτηριστικού.
 
 ```csharp
 public bool Supports(string token)
@@ -16,16 +16,14 @@ public bool Supports(string token)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| token | String | Το διακριτικό για το ερώτημα. |
+| token | String | Το διακριτικό για το οποίο γίνεται ερώτηση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα Boolean που υποδεικνύει εάν το διακριτικό βρέθηκε.
+Boolean που υποδεικνύει εάν το διακριτικό βρέθηκε.
 
 ### Δείτε επίσης
 
 * class [DOMTokenList](../)
-* χώρος ονομάτων [Aspose.Svg.Collections](../../domtokenlist/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Node.LookupNamespaceURI
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Node μέθοδος. Αναζητήστε το URI του χώρου ονομάτων που σχετίζεται με το δεδομένο πρόθεμα ξεκινώντας από αυτόν τον κόμβο.
+title: "Node.LookupNamespaceURI"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Node LookupNamespaceURI. Αναζητά το URI του ονοματοχώρου που σχετίζεται με το δοσμένο πρόθεμα ξεκινώντας από αυτόν τον κόμβο."
 type: docs
-weight: 260
+weight: 240
 url: /el/net/aspose.svg.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method
 
-Αναζητήστε το URI του χώρου ονομάτων που σχετίζεται με το δεδομένο πρόθεμα, ξεκινώντας από αυτόν τον κόμβο.
+Αναζητήστε το URI του χώρου ονομάτων που σχετίζεται με το δοσμένο πρόθεμα, ξεκινώντας από αυτόν τον κόμβο.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
@@ -18,14 +18,12 @@ public string LookupNamespaceURI(string prefix)
 | --- | --- | --- |
 | prefix | String | Το πρόθεμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει το URI χώρου ονομάτων
+Επιστρέφει το URI του ονοματοχώρου.
 
 ### Δείτε επίσης
 
 * class [Node](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../node/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

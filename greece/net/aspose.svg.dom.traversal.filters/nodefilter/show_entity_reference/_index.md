@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_ENTITY_REFERENCE
-second_title: Aspose.SVG για Αναφορά API .NET
-description: NodeFilter πεδίο. Εμφάνιση κόμβων EntityReference.
+title: "NodeFilter.SHOW_ENTITY_REFERENCE"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο NodeFilter SHOW_ENTITY_REFERENCE. Εμφανίζει κόμβους EntityReference"
 type: docs
 weight: 150
 url: /el/net/aspose.svg.dom.traversal.filters/nodefilter/show_entity_reference/
@@ -17,7 +17,5 @@ public const long SHOW_ENTITY_REFERENCE;
 ### Δείτε επίσης
 
 * class [NodeFilter](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

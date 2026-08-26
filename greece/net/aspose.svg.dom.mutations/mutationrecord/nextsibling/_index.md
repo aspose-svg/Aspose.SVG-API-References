@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.NextSibling
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MutationRecord ιδιοκτησία. Επιστρέψτε τον επόμενο αδερφό των κόμβων που προστέθηκαν ή αφαιρέθηκαν ή null.
+title: "MutationRecord.NextSibling"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα MutationRecord NextSibling. Επιστρέφει τον επόμενο αδελφό των προστεθειμένων ή αφαιρεθέντων κόμβων ή null"
 type: docs
 weight: 40
 url: /el/net/aspose.svg.dom.mutations/mutationrecord/nextsibling/
 ---
 ## MutationRecord.NextSibling property
 
-Επιστρέψτε τον επόμενο αδερφό των κόμβων που προστέθηκαν ή αφαιρέθηκαν ή null.
+Επιστρέψτε τον επόμενο αδερφό των προστιθέμενων ή αφαιρεθέντων κόμβων, ή null.
 
 ```csharp
 public Node NextSibling { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το επόμενο αδερφάκι.
+Ο επόμενος αδελφός.
 
 ### Δείτε επίσης
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

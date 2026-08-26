@@ -1,20 +1,20 @@
 ---
-title: PageSetup.AnyPage
-second_title: Aspose.SVG για Αναφορά API .NET
-description: PageSetup ιδιοκτησία. Λαμβάνει ή ορίζει όλες τις ρυθμίσεις παραμέτρων σελίδων στην ακολουθία σελίδων.
+title: "PageSetup.AnyPage"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "PageSetup AnyPage ιδιότητα. Λαμβάνει ή ορίζει τη διαμόρφωση όλων των σελίδων στη σειρά σελίδων."
 type: docs
 weight: 10
 url: /el/net/aspose.svg.rendering/pagesetup/anypage/
 ---
 ## PageSetup.AnyPage property
 
-Λαμβάνει ή ορίζει όλες τις ρυθμίσεις παραμέτρων σελίδων στην ακολουθία σελίδων.
+Λαμβάνει ή ορίζει όλες τις ρυθμίσεις των σελίδων στη ακολουθία σελίδων.
 
 ```csharp
 public Page AnyPage { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οποιαδήποτε σελίδα.
 
@@ -22,7 +22,5 @@ public Page AnyPage { get; set; }
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../pagesetup/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

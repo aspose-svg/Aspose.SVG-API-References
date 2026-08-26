@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.BorderSpacing
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον ορισμό της ιδιότητας απόστασης περιγραμμάτων στο CSS2.
+title: "ICSS2Properties.BorderSpacing"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα BorderSpacing του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας border-spacing στο CSS2"
 type: docs
 weight: 230
 url: /el/net/aspose.svg.dom.css/icss2properties/borderspacing/
 ---
 ## ICSS2Properties.BorderSpacing property
 
-Δείτε τον ορισμό της ιδιότητας απόστασης περιγραμμάτων στο CSS2.
+Δείτε τον ορισμό της ιδιότητας border-spacing στο CSS2.
 
 ```csharp
 public string BorderSpacing { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ιδιότητα απόστασης συνόρων
+ιδιότητα border-spacing
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

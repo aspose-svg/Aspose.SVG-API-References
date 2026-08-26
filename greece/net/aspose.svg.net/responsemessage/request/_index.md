@@ -1,7 +1,7 @@
 ---
-title: ResponseMessage.Request
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ResponseMessage ιδιοκτησία. Λαμβάνει ή ορίζει το σχετικό αίτημα.
+title: "ResponseMessage.Request"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ResponseMessage Request. Λαμβάνει ή ορίζει το σχετικό αίτημα."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.net/responsemessage/request/
@@ -14,7 +14,7 @@ url: /el/net/aspose.svg.net/responsemessage/request/
 public RequestMessage Request { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το αίτημα.
 
@@ -22,7 +22,5 @@ public RequestMessage Request { get; set; }
 
 * class [RequestMessage](../../requestmessage/)
 * class [ResponseMessage](../)
-* χώρος ονομάτων [Aspose.Svg.Net](../../responsemessage/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

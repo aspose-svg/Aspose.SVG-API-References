@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.X
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό x στο δεδομένο στοιχείο svg.
+title: "SVGSVGElement.X"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα X του SVGSVGElement. Αντιστοιχεί στο χαρακτηριστικό x του συγκεκριμένου στοιχείου svg."
 type: docs
 weight: 70
 url: /el/net/aspose.svg/svgsvgelement/x/
 ---
 ## SVGSVGElement.X property
 
-Αντιστοιχεί στο χαρακτηριστικό 'x' στο δεδομένο στοιχείο 'svg'.
+Αντιστοιχεί στο χαρακτηριστικό ‘x’ του δεδομένου στοιχείου ‘svg’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αντιστοιχεί στο χαρακτηριστικό 'x' στο δεδομένο στοιχείο 'svg'.
+Αντιστοιχεί στο χαρακτηριστικό ‘x’ του δεδομένου στοιχείου ‘svg’.
 
 ### Δείτε επίσης
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

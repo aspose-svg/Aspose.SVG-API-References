@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.InvalidIteratorState
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IXPathResult ιδιοκτησία. Σημαίνει ότι ο επαναλήπτης έχει καταστεί άκυρος. Αλήθεια ανΤύπος αποτελεσμάτων είναιUnorderedNodeIterator τύπος ήOrderedNodeIterator πληκτρολογήστε και το έγγραφο έχει τροποποιηθεί από τότε που επιστράφηκε αυτό το αποτέλεσμα.
+title: "IXPathResult.InvalidIteratorState"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IXPathResult InvalidIteratorState property. Δηλώνει ότι ο επαναλήπτης έχει γίνει άκυρος. Αληθές εάν resultType είναι τύπου UnorderedNodeIterator ή OrderedNodeIterator και το έγγραφο έχει τροποποιηθεί από τη στιγμή που επιστράφηκε αυτό το αποτέλεσμα"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.xpath/ixpathresult/invaliditeratorstate/
 ---
 ## IXPathResult.InvalidIteratorState property
 
-Σημαίνει ότι ο επαναλήπτης έχει καταστεί άκυρος. Αλήθεια αν`Τύπος αποτελεσμάτων` είναι`UnorderedNodeIterator` τύπος ή`OrderedNodeIterator` πληκτρολογήστε και το έγγραφο έχει τροποποιηθεί από τότε που επιστράφηκε αυτό το αποτέλεσμα.
+Δηλώνει ότι ο επαναλήπτης έχει γίνει άκυρος. Αληθές εάν το `resultType` είναι τύπου `UnorderedNodeIterator` ή `OrderedNodeIterator` και το έγγραφο έχει τροποποιηθεί από τη στιγμή που αυτό το αποτέλεσμα επιστράφηκε.
 
 ```csharp
 public bool InvalidIteratorState { get; }
@@ -17,7 +17,5 @@ public bool InvalidIteratorState { get; }
 ### Δείτε επίσης
 
 * interface [IXPathResult](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

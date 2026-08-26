@@ -1,33 +1,31 @@
 ---
-title: SVGSVGElement.ZoomAndPan
-second_title: Aspose.SVG για Αναφορά API .NET
-description: SVGSVGElement ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό zoomAndPan στο δεδομένο στοιχείο. Η τιμή πρέπει να είναι μία από τις σταθερές SVG_ZOOMANDPAN_ που ορίζονται σε αυτήν τη διεπαφή.
+title: "SVGSVGElement.ZoomAndPan"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα ZoomAndPan του SVGSVGElement. Αντιστοιχεί στο χαρακτηριστικό zoomAndPan του συγκεκριμένου στοιχείου. Η τιμή πρέπει να είναι μία από τις σταθερές SVG_ZOOMANDPAN_ που ορίζονται σε αυτή τη διεπαφή."
 type: docs
 weight: 90
 url: /el/net/aspose.svg/svgsvgelement/zoomandpan/
 ---
 ## SVGSVGElement.ZoomAndPan property
 
-Αντιστοιχεί στο χαρακτηριστικό 'zoomAndPan' στο δεδομένο στοιχείο. Η τιμή πρέπει να είναι μία από τις σταθερές SVG_ZOOMANDPAN_* που ορίζονται σε αυτήν τη διεπαφή.
+Αντιστοιχεί στο χαρακτηριστικό ‘zoomAndPan’ του δεδομένου στοιχείου. Η τιμή πρέπει να είναι μία από τις σταθερές SVG_ZOOMANDPAN_* που ορίζονται σε αυτή τη διεπαφή.
 
 ```csharp
 public ushort ZoomAndPan { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ζουμ και η μετατόπιση.
+Το zoom και το pan.
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Κωδ[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Έγινε αύξηση σε μια προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Κώδικας [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Εμφανίζεται όταν γίνεται προσπάθεια αλλαγής της τιμής ενός χαρακτηριστικού μόνο για ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [SVGSVGElement](../)
-* χώρος ονομάτων [Aspose.Svg](../../svgsvgelement/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

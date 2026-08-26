@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.GetPropertyPriority
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSSStyleDeclaration μέθοδος. Χρησιμοποιείται για την ανάκτηση της προτεραιότητας μιας ιδιότητας CSS π.χ. του προσδιοριστικού σημαντικού εάν η ιδιότητα έχει οριστεί ρητά σε αυτό το μπλοκ δήλωσης.
+title: "ICSSStyleDeclaration.GetPropertyPriority"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "ICSSStyleDeclaration GetPropertyPriority method. Χρησιμοποιείται για την ανάκτηση της προτεραιότητας μιας ιδιότητας CSS, π.χ. του χαρακτηριστικού important εάν η ιδιότητα έχει οριστεί ρητά σε αυτό το μπλοκ δήλωσης."
 type: docs
 weight: 60
 url: /el/net/aspose.svg.dom.css/icssstyledeclaration/getpropertypriority/
 ---
 ## ICSSStyleDeclaration.GetPropertyPriority method
 
-Χρησιμοποιείται για την ανάκτηση της προτεραιότητας μιας ιδιότητας CSS (π.χ. του προσδιοριστικού "σημαντικού") εάν η ιδιότητα έχει οριστεί ρητά σε αυτό το μπλοκ δήλωσης.
+Χρησιμοποιείται για την ανάκτηση της προτεραιότητας μιας ιδιότητας CSS (π.χ. ο χαρακτηρισμός "important") εάν η ιδιότητα έχει οριστεί ρητά σε αυτό το μπλοκ δήλωσης.
 
 ```csharp
 public string GetPropertyPriority(string propertyName)
@@ -16,16 +16,14 @@ public string GetPropertyPriority(string propertyName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| propertyName | String | Όνομα του ακινήτου. |
+| propertyName | String | Όνομα της ιδιότητας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει προτεραιότητα ιδιοκτησίας
+Επιστρέφει την προτεραιότητα της ιδιότητας.
 
 ### Δείτε επίσης
 
 * interface [ICSSStyleDeclaration](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

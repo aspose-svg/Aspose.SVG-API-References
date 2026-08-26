@@ -1,14 +1,14 @@
 ---
-title: Unit.FromPixels
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Unit μέθοδος. Επιστρέφει αLength αντικείμενο που αναπαρίσταται σε pixel.
+title: "Unit.FromPixels"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Unit FromPixels method. Επιστρέφει ένα αντικείμενο Length που αντιπροσωπεύεται σε pixels"
 type: docs
 weight: 170
 url: /el/net/aspose.svg.drawing/unit/frompixels/
 ---
 ## Unit.FromPixels method
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο που αναπαρίσταται σε pixel.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/) που αντιπροσωπεύεται σε pixels.
 
 ```csharp
 public static Length FromPixels(double value)
@@ -16,17 +16,15 @@ public static Length FromPixels(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Length`](../../length/) αντικείμενο.
+Επιστρέφει ένα αντικείμενο [`Length`](../../length/).
 
 ### Δείτε επίσης
 
 * class [Length](../../length/)
 * class [Unit](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unit/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

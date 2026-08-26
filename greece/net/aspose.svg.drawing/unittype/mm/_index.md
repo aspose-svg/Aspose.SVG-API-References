@@ -1,7 +1,7 @@
 ---
-title: UnitType.Mm
-second_title: Aspose.SVG για Αναφορά API .NET
-description: UnitType πεδίο. Η μέτρηση είναι σε χιλιοστά
+title: "UnitType.Mm"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Πεδίο UnitType Mm. Η μέτρηση είναι σε χιλιοστά"
 type: docs
 weight: 150
 url: /el/net/aspose.svg.drawing/unittype/mm/
@@ -17,7 +17,5 @@ public static readonly UnitType Mm;
 ### Δείτε επίσης
 
 * class [UnitType](../)
-* χώρος ονομάτων [Aspose.Svg.Drawing](../../unittype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

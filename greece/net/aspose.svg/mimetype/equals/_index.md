@@ -1,14 +1,14 @@
 ---
-title: MimeType.Equals
-second_title: Aspose.SVG για Αναφορά API .NET
-description: MimeType μέθοδος. Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+title: "MimeType.Equals"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "MimeType Equals μέθοδος. Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με ένα άλλο αντικείμενο του ίδιου τύπου."
 type: docs
 weight: 50
 url: /el/net/aspose.svg/mimetype/equals/
 ---
-## Equals(MimeType) {#equals}
+## Equals(*[MimeType](../)*) {#equals}
 
-Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
 
 ```csharp
 public bool Equals(MimeType other)
@@ -16,23 +16,23 @@ public bool Equals(MimeType other)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| other | MimeType | Ένα αντικείμενο προς σύγκριση με αυτό το αντικείμενο. |
+| άλλο | MimeType | Ένα αντικείμενο για σύγκριση με αυτό το αντικείμενο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true αν το τρέχον αντικείμενο είναι ίσο με το*other* παράμετρος? διαφορετικά, ψευδής.
+αληθές εάν το τρέχον αντικείμενο είναι ίσο με την παράμετρο *other*· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [MimeType](../)
-* χώρος ονομάτων [Aspose.Svg](../../mimetype/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Καθορίζει εάν το καθορισμένοObject είναι ίσο με το ρεύμαObject .
+Καθορίζει εάν το καθορισμένο Αντικείμενο είναι ίσο με το τρέχον Αντικείμενο.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με το ρεύμαObject. |
+| obj | Αντικείμενο | Το αντικείμενο για σύγκριση με το τρέχον αντικείμενο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true αν έχει καθοριστείObject είναι ίσο με το ρεύμαObject ; διαφορετικά, ψευδής.
+`true` εάν το καθορισμένο αντικείμενο είναι ίσο με το τρέχον αντικείμενο· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [MimeType](../)
-* χώρος ονομάτων [Aspose.Svg](../../mimetype/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

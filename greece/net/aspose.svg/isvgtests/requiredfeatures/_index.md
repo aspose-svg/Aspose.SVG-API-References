@@ -1,20 +1,20 @@
 ---
-title: ISVGTests.RequiredFeatures
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ISVGTests ιδιοκτησία. Αντιστοιχεί στο χαρακτηριστικό requiredFeatures στο δεδομένο στοιχείο.
+title: "ISVGTests.RequiredFeatures"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα RequiredFeatures του ISVGTests. Αντιστοιχεί στο χαρακτηριστικό requiredFeatures του δεδομένου στοιχείου"
 type: docs
 weight: 20
 url: /el/net/aspose.svg/isvgtests/requiredfeatures/
 ---
 ## ISVGTests.RequiredFeatures property
 
-Αντιστοιχεί στο χαρακτηριστικό 'requiredFeatures' στο δεδομένο στοιχείο.
+Αντιστοιχεί στο χαρακτηριστικό ‘requiredFeatures’ του δεδομένου στοιχείου.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα απαιτούμενα χαρακτηριστικά.
 
@@ -22,7 +22,5 @@ public SVGStringList RequiredFeatures { get; }
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* χώρος ονομάτων [Aspose.Svg](../../isvgtests/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

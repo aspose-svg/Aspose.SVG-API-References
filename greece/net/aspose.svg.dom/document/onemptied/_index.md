@@ -1,14 +1,14 @@
 ---
-title: Document.OnEmptied
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Document Εκδήλωση. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnEmptied.
+title: "Document.OnEmptied"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Γεγονός Document OnEmptied. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος για το γεγονός OnEmptied"
 type: docs
 weight: 380
 url: /el/net/aspose.svg.dom/document/onemptied/
 ---
 ## Document.OnEmptied event
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων για το συμβάν OnEmptied.
+Αποκτά ή ορίζει τον χειριστή γεγονότος για το γεγονός OnEmptied.
 
 ```csharp
 public event DOMEventHandler OnEmptied;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnEmptied;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../document/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

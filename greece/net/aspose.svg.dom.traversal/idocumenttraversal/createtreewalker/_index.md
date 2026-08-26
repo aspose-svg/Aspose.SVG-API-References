@@ -1,14 +1,14 @@
 ---
-title: IDocumentTraversal.CreateTreeWalker
-second_title: Aspose.SVG για Αναφορά API .NET
-description: IDocumentTraversal μέθοδος. Δημιουργήστε ένα νέο TreeWalker πάνω από το υποδέντρο που έχει ρίζες στον καθορισμένο κόμβο .
+title: "IDocumentTraversal.CreateTreeWalker"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "IDocumentTraversal CreateTreeWalker method. Δημιουργεί έναν νέο TreeWalker πάνω στο υποδέντρο που ρίζεται στον καθορισμένο κόμβο"
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom.traversal/idocumenttraversal/createtreewalker/
 ---
-## CreateTreeWalker(Node) {#createtreewalker}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/)*) {#createtreewalker}
 
-Δημιουργήστε ένα νέο TreeWalker πάνω από το υποδέντρο που έχει ρίζες στον καθορισμένο κόμβο .
+Δημιουργήστε έναν νέο TreeWalker πάνω στο υποδέντρο που ρίζεται στον καθορισμένο κόμβο.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
@@ -16,9 +16,9 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| root | Node | κόμβος που θα χρησιμεύσει ως ρίζα για το TreeWalker. Οι σημαίες whatToShow και το NodeFilter δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της τιμής. οποιοσδήποτε τύπος κόμβου θα γίνει δεκτός ως ρίζα. Ο currentNode του TreeWalker είναι αρχικοποιημένος σε αυτόν τον κόμβο, είτε είναι ορατός είτε όχι. Η ρίζα λειτουργεί ως σημείο στάσης για μεθόδους traversal που κοιτάζουν προς τα πάνω στη δομή του εγγράφου, όπως parentNode και nextNode. Η ρίζα πρέπει να μην είναι μηδενική. |
+| root | Node | Κόμβος που θα λειτουργήσει ως ρίζα για το TreeWalker. Οι σημαίες whatToShow και το NodeFilter δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της τιμής· οποιοσδήποτε τύπος κόμβου θα γίνει αποδεκτός ως ρίζα. Το currentNode του TreeWalker αρχικοποιείται σε αυτόν τον κόμβο, ανεξάρτητα από το αν είναι ορατό. Η ρίζα λειτουργεί ως σημείο τερματισμού για μεθόδους διάσχισης που κοιτάζουν προς τα πάνω στη δομή του εγγράφου, όπως parentNode και nextNode. Η ρίζα δεν πρέπει να είναι null. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το νεοδημιουργημένο TreeWalker.
 
@@ -27,14 +27,14 @@ public ITreeWalker CreateTreeWalker(Node root)
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long) {#createtreewalker_1}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long*) {#createtreewalker_1}
 
-Δημιουργήστε ένα νέο TreeWalker πάνω από το υποδέντρο που έχει ρίζες στον καθορισμένο κόμβο .
+Δημιουργήστε έναν νέο TreeWalker πάνω στο υποδέντρο που ρίζεται στον καθορισμένο κόμβο.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
@@ -42,10 +42,10 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| root | Node | κόμβος που θα χρησιμεύσει ως ρίζα για το TreeWalker. Οι σημαίες whatToShow και το NodeFilter δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της τιμής. οποιοσδήποτε τύπος κόμβου θα γίνει δεκτός ως ρίζα. Ο currentNode του TreeWalker είναι αρχικοποιημένος σε αυτόν τον κόμβο, είτε είναι ορατός είτε όχι. Η ρίζα λειτουργεί ως σημείο στάσης για μεθόδους traversal που κοιτάζουν προς τα πάνω στη δομή του εγγράφου, όπως parentNode και nextNode. Η ρίζα πρέπει να μην είναι μηδενική. |
-| whatToShow | Int64 | Η σημαία καθορίζει ποιοι τύποι κόμβων μπορούν να εμφανίζονται στο τη λογική προβολή του δέντρου που παρουσιάζεται από το δέντρο-περιπατητή. Δείτε την περιγραφή του NodeFilter για το σύνολο των τιμών possible SHOW_. Αυτές οι σημαίες μπορούν να συνδυαστούν χρησιμοποιώντας OR. |
+| root | Node | Κόμβος που θα λειτουργήσει ως ρίζα για το TreeWalker. Οι σημαίες whatToShow και το NodeFilter δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της τιμής· οποιοσδήποτε τύπος κόμβου θα γίνει αποδεκτός ως ρίζα. Το currentNode του TreeWalker αρχικοποιείται σε αυτόν τον κόμβο, ανεξάρτητα από το αν είναι ορατό. Η ρίζα λειτουργεί ως σημείο τερματισμού για μεθόδους διάσχισης που κοιτάζουν προς τα πάνω στη δομή του εγγράφου, όπως parentNode και nextNode. Η ρίζα δεν πρέπει να είναι null. |
+| whatToShow | Int64 | Η σημαία καθορίζει ποιοι τύποι κόμβων μπορεί να εμφανιστούν στην λογική προβολή του δέντρου που παρουσιάζεται από το tree-walker. Δείτε την περιγραφή του NodeFilter για το σύνολο των πιθανών τιμών SHOW_. Αυτές οι σημαίες μπορούν να συνδυαστούν χρησιμοποιώντας OR. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το νεοδημιουργημένο TreeWalker.
 
@@ -54,14 +54,14 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long, [INodeFilter](../../inodefilter/)*) {#createtreewalker_2}
 
-Δημιουργήστε ένα νέο TreeWalker πάνω από το υποδέντρο που έχει ρίζες στον καθορισμένο κόμβο .
+Δημιουργήστε έναν νέο TreeWalker πάνω στο υποδέντρο που ρίζεται στον καθορισμένο κόμβο.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
@@ -69,11 +69,11 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| root | Node | κόμβος που θα χρησιμεύσει ως ρίζα για το TreeWalker. Οι σημαίες whatToShow και το NodeFilter δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της τιμής. οποιοσδήποτε τύπος κόμβου θα γίνει δεκτός ως ρίζα. Ο currentNode του TreeWalker είναι αρχικοποιημένος σε αυτόν τον κόμβο, είτε είναι ορατός είτε όχι. Η ρίζα λειτουργεί ως σημείο στάσης για μεθόδους traversal που κοιτάζουν προς τα πάνω στη δομή του εγγράφου, όπως parentNode και nextNode. Η ρίζα πρέπει να μην είναι μηδενική. |
-| whatToShow | Int64 | Η σημαία καθορίζει ποιοι τύποι κόμβων μπορούν να εμφανίζονται στο τη λογική προβολή του δέντρου που παρουσιάζεται από το δέντρο-περιπατητή. Δείτε την περιγραφή του NodeFilter για το σύνολο των τιμών possible SHOW_. Αυτές οι σημαίες μπορούν να συνδυαστούν χρησιμοποιώντας OR. |
-| filter | INodeFilter | NodeFilter που θα χρησιμοποιηθεί με το this TreeWalker ή null για να υποδείξει ότι δεν υπάρχει φίλτρο. |
+| root | Node | Κόμβος που θα λειτουργήσει ως ρίζα για το TreeWalker. Οι σημαίες whatToShow και το NodeFilter δεν λαμβάνονται υπόψη κατά τον ορισμό αυτής της τιμής· οποιοσδήποτε τύπος κόμβου θα γίνει αποδεκτός ως ρίζα. Το currentNode του TreeWalker αρχικοποιείται σε αυτόν τον κόμβο, ανεξάρτητα από το αν είναι ορατό. Η ρίζα λειτουργεί ως σημείο τερματισμού για μεθόδους διάσχισης που κοιτάζουν προς τα πάνω στη δομή του εγγράφου, όπως parentNode και nextNode. Η ρίζα δεν πρέπει να είναι null. |
+| whatToShow | Int64 | Η σημαία καθορίζει ποιοι τύποι κόμβων μπορεί να εμφανιστούν στην λογική προβολή του δέντρου που παρουσιάζεται από το tree-walker. Δείτε την περιγραφή του NodeFilter για το σύνολο των πιθανών τιμών SHOW_. Αυτές οι σημαίες μπορούν να συνδυαστούν χρησιμοποιώντας OR. |
+| filter | INodeFilter | NodeFilter που θα χρησιμοποιηθεί με αυτό το TreeWalker, ή null για να υποδεικνύει ότι δεν υπάρχει φίλτρο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το νεοδημιουργημένο TreeWalker.
 
@@ -83,7 +83,5 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

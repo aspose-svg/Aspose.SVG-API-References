@@ -1,27 +1,25 @@
 ---
-title: Url.Pathname
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Url ιδιοκτησία. Λαμβάνει ή ορίζει μια παράσταση συμβολοσειράς για την καθορισμένη διαδρομή URL.
+title: "Url.Pathname"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Url Pathname. Λαμβάνει ή ορίζει μια αναπαράσταση συμβολοσειράς για το καθορισμένο μονοπάτι URL."
 type: docs
 weight: 80
 url: /el/net/aspose.svg/url/pathname/
 ---
 ## Url.Pathname property
 
-Λαμβάνει ή ορίζει μια παράσταση συμβολοσειράς για την καθορισμένη διαδρομή URL.
+Λαμβάνει ή ορίζει μια αναπαράσταση συμβολοσειράς για το καθορισμένο μονοπάτι URL.
 
 ```csharp
 public string Pathname { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα της διαδρομής.
+Το όνομα του μονοπατιού.
 
 ### Δείτε επίσης
 
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

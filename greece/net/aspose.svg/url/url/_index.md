@@ -1,14 +1,14 @@
 ---
-title: Url.Url
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Url κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουUrl με την καθορισμένη διεύθυνση URL.
+title: "Url"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Κατασκευαστής Url. Αρχικοποιεί μια νέα παρουσία του Url με το καθορισμένο URL"
 type: docs
 weight: 10
 url: /el/net/aspose.svg/url/url/
 ---
-## Url(string) {#constructor}
+## Url(*string*) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`Url`](../) με την καθορισμένη διεύθυνση URL.
+Αρχικοποιεί μια νέα παρουσία του [`Url`](../) με το καθορισμένο URL.
 
 ```csharp
 public Url(string url)
@@ -18,23 +18,23 @@ public Url(string url)
 | --- | --- | --- |
 | url | String | Το URL προς επεξεργασία. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| Error | TypeError: αυξήθηκε εάν`url` δεν μπορεί να αναλυθεί ως έγκυρη διεύθυνση URL. |
+| Σφάλμα | TypeError: προκαλείται εάν το `url` δεν μπορεί να αναλυθεί ως έγκυρο URL. |
 
 ### Δείτε επίσης
 
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Url(string, string) {#constructor_1}
+## Url(*string, string*) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`Url`](../) με την καθορισμένη διεύθυνση URL και τη βασική διεύθυνση URL.
+Αρχικοποιεί ένα νέο αντικείμενο της [`Url`](../) με το καθορισμένο URL και το βασικό URL.
 
 ```csharp
 public Url(string url, string baseUrl)
@@ -45,16 +45,14 @@ public Url(string url, string baseUrl)
 | url | String | Το URL προς επεξεργασία. |
 | baseUrl | String | Το βασικό URL. |
 
-### Εξαιρέσεις
+### Exceptions
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | condition |
 | --- | --- |
-| Error | TypeError: αυξήθηκε εάν`url` ή`baseUrl` δεν μπορεί να αναλυθεί ως έγκυρη διεύθυνση URL. |
+| Σφάλμα | TypeError: προκαλείται εάν το `url` ή το `baseUrl` δεν μπορούν να αναλυθούν ως έγκυρα URL. |
 
 ### Δείτε επίσης
 
 * class [Url](../)
-* χώρος ονομάτων [Aspose.Svg](../../url/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

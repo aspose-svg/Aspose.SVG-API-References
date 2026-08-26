@@ -1,14 +1,14 @@
 ---
-title: Device2.Dispose
-second_title: Aspose.SVG για Αναφορά API .NET
-description: Device μέθοδος. Εκτελεί εργασίες που καθορίζονται από την εφαρμογή που σχετίζονται με την απελευθέρωση την απελευθέρωση ή την επαναφορά μη διαχειριζόμενων πόρων.
+title: "Device-2.Dispose"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Μέθοδος Device Dispose. Εκτελεί εργασίες που ορίζονται από την εφαρμογή και σχετίζονται με την απελευθέρωση, την αποδέσμευση ή την επαναφορά μη διαχειριζόμενων πόρων."
 type: docs
-weight: 100
+weight: 130
 url: /el/net/aspose.svg.rendering/device-2/dispose/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Dispose method
+## Device<TGraphicContext,TRenderingOptions>.Dispose method
 
-Εκτελεί εργασίες που καθορίζονται από την εφαρμογή που σχετίζονται με την απελευθέρωση, την απελευθέρωση ή την επαναφορά μη διαχειριζόμενων πόρων.
+Εκτελεί εργασίες που ορίζονται από την εφαρμογή και σχετίζονται με την απελευθέρωση, την αποδέσμευση ή την επαναφορά μη διαχειριζόμενων πόρων.
 
 ```csharp
 public void Dispose()
@@ -17,7 +17,5 @@ public void Dispose()
 ### Δείτε επίσης
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* χώρος ονομάτων [Aspose.Svg.Rendering](../../device-2/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: CharacterData.Length
-second_title: Aspose.SVG για Αναφορά API .NET
-description: CharacterData ιδιοκτησία. Ο αριθμός των μονάδων 16bit που είναι διαθέσιμες μέσω δεδομένων και της μεθόδου substringData παρακάτω. Αυτό μπορεί να έχει την τιμή μηδέν δηλαδή οι κόμβοι CharacterData μπορεί να είναι κενοί.
+title: "CharacterData.Length"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα CharacterData Length. Ο αριθμός των 16-bit μονάδων που είναι διαθέσιμες μέσω των δεδομένων και της μεθόδου substringData παρακάτω. Αυτό μπορεί να έχει τιμή μηδέν, δηλαδή οι κόμβοι CharacterData μπορεί να είναι κενά."
 type: docs
 weight: 20
 url: /el/net/aspose.svg.dom/characterdata/length/
 ---
 ## CharacterData.Length property
 
-Ο αριθμός των μονάδων 16-bit που είναι διαθέσιμες μέσω δεδομένων και της μεθόδου substringData παρακάτω. Αυτό μπορεί να έχει την τιμή μηδέν, δηλαδή, οι κόμβοι CharacterData μπορεί να είναι κενοί.
+Ο αριθμός των 16-bit μονάδων που είναι διαθέσιμες μέσω της data και της μεθόδου substringData παρακάτω. Αυτό μπορεί να είναι μηδέν, δηλαδή οι κόμβοι CharacterData μπορεί να είναι κενά.
 
 ```csharp
 public int Length { get; }
@@ -17,7 +17,5 @@ public int Length { get; }
 ### Δείτε επίσης
 
 * class [CharacterData](../)
-* χώρος ονομάτων [Aspose.Svg.Dom](../../characterdata/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

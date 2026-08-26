@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Clear
-second_title: Aspose.SVG για Αναφορά API .NET
-description: ICSS2Properties ιδιοκτησία. Δείτε τον σαφή ορισμό της ιδιότητας στο CSS2.
+title: "ICSS2Properties.Clear"
+second_title: "Aspose.SVG για .NET API Αναφορά"
+description: "Ιδιότητα Clear του ICSS2Properties. Δείτε τον ορισμό της ιδιότητας clear στο CSS2"
 type: docs
 weight: 320
 url: /el/net/aspose.svg.dom.css/icss2properties/clear/
 ---
 ## ICSS2Properties.Clear property
 
-Δείτε τον σαφή ορισμό της ιδιότητας στο CSS2.
+Δείτε τον ορισμό της ιδιότητας clear στο CSS2.
 
 ```csharp
 public string Clear { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-καθαρή ιδιοκτησία
+ιδιότητα clear
 
 ### Δείτε επίσης
 
 * interface [ICSS2Properties](../)
-* χώρος ονομάτων [Aspose.Svg.Dom.Css](../../icss2properties/)
-* συνέλευση [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
