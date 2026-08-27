@@ -1,0 +1,36 @@
+---
+title: "SVGBuilderExtensions.AddMask"
+second_title: "Aspose.SVG for .NET API संदर्भ"
+description: "SVGBuilderExtensions AddMask मेथड। बिल्डर में एक मास्क एलिमेंट कॉन्फ़िगरेशन जोड़ता है"
+type: docs
+weight: 380
+url: /hi/net/aspose.svg.builder/svgbuilderextensions/addmask/
+---
+## SVGBuilderExtensions.AddMask<TBuilder> method
+
+बिल्डर में 'mask' तत्व कॉन्फ़िगरेशन जोड़ता है।
+
+```csharp
+public static TBuilder AddMask<TBuilder>(this TBuilder builder, 
+    Action<SVGMaskElementBuilder> configure)
+    where TBuilder : ISVGElementBuilder, IShapeContentElementBuilder
+```
+
+| पैरामीटर | विवरण |
+| --- | --- |
+| TBuilder | SVG तत्व बिल्डर का प्रकार। |
+| बिल्डर | बिल्डर का उदाहरण। |
+| कॉन्फ़िगर करें | 'mask' एलिमेंट के लिए कॉन्फ़िगरेशन एक्शन। |
+
+### रिटर्न वैल्यू
+
+चेनिंग के लिए बिल्डर का उदाहरण।
+
+### संबंधित देखें
+
+* class [SVGMaskElementBuilder](../../svgmaskelementbuilder/)
+* interface [ISVGElementBuilder](../../isvgelementbuilder/)
+* interface [IShapeContentElementBuilder](../../ishapecontentelementbuilder/)
+* class [SVGBuilderExtensions](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
