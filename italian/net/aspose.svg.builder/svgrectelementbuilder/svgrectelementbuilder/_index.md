@@ -1,0 +1,21 @@
+---
+title: "SVGRectElementBuilder"
+second_title: "Riferimento API di Aspose.SVG per .NET"
+description: "Costruttore di SVGRectElementBuilder. Il costruttore predefinito"
+type: docs
+weight: 10
+url: /it/net/aspose.svg.builder/svgrectelementbuilder/svgrectelementbuilder/
+---
+## SVGRectElementBuilder constructor
+
+Il costruttore predefinito.
+
+```csharp
+public SVGRectElementBuilder()
+```
+
+### Vedi anche
+
+* class [SVGRectElementBuilder](../)
+* namespace [Aspose.Svg.Builder](../../../aspose.svg.builder/)
+* assembly [Aspose.SVG](../../../)
