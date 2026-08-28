@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegCurvetoCubicRel
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Paths.SVGPathSegCurvetoCubicRel クラス. SVGPathSegCurvetoCubicRel インターフェイスは相対 3 次ベジエ曲線c パス データ コマンドに対応します
+title: "SVGPathSegCurvetoCubicRel クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Paths.SVGPathSegCurvetoCubicRel クラス。SVGPathSegCurvetoCubicRel インターフェイスは、相対的な立方ベジエ曲線 curveto c パスデータコマンドに対応します。"
 type: docs
-weight: 2540
+weight: 4610
 url: /ja/net/aspose.svg.paths/svgpathsegcurvetocubicrel/
 ---
 ## SVGPathSegCurvetoCubicRel class
 
-SVGPathSegCurvetoCubicRel インターフェイスは、「相対 3 次ベジエ曲線」(c) パス データ コマンドに対応します。
+SVGPathSegCurvetoCubicRel インターフェイスは、"relative cubic Bézier curveto" (c) パスデータコマンドに対応します。
 
 ```csharp
 public class SVGPathSegCurvetoCubicRel : SVGPathSeg
@@ -18,26 +18,24 @@ public class SVGPathSegCurvetoCubicRel : SVGPathSeg
 
 | 名前 | 説明 |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | このインターフェイスで定義された定数の 1 つによって指定されたパス セグメントのタイプ。 |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | パス セグメントのタイプ。対応する 1 文字のコマンド名で指定します。 |
-| [X](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x/) { get; set; } | このパス セグメントの終点の相対 X 座標. |
-| [X1](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x1/) { get; set; } | 最初のコントロール ポイントの相対 X 座標。 |
-| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x2/) { get; set; } | 2 番目のコントロール ポイントの相対 X 座標。 |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y/) { get; set; } | このパス セグメントの終点の相対 Y 座標。 |
-| [Y1](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y1/) { get; set; } | 最初の制御点の相対 Y 座標. |
-| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y2/) { get; set; } | 2 番目のコントロール ポイントの相対 Y 座標。 |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | このインターフェイスで定義された定数のいずれかによって指定されるパス セグメントのタイプです。 |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | パスセグメントのタイプは、対応する1文字のコマンド名で指定されます。 |
+| [X](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x/) { get; set; } | このパスセグメントの終点の相対X座標。 |
+| [X1](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x1/) { get; set; } | 最初の制御点の相対X座標。 |
+| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicrel/x2/) { get; set; } | 2番目の制御点の相対X座標。 |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y/) { get; set; } | このパスセグメントの終点の相対Y座標。 |
+| [Y1](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y1/) { get; set; } | 最初の制御点の相対Y座標。 |
+| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicrel/y2/) { get; set; } | 2番目の制御点の相対Y座標。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
 
-### 関連項目
+### 参照
 
 * class [SVGPathSeg](../svgpathseg/)
-* 名前空間 [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

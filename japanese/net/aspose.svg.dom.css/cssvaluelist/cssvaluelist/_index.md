@@ -1,65 +1,63 @@
 ---
-title: CSSValueList.CSSValueList
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSValueList コンストラクタ. の新しいインスタンスを初期化しますCSSValueList class.
+title: "CSSValueList"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSValueList コンストラクタ。CSSValueList クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 
-の新しいインスタンスを初期化します[`CSSValueList`](../) class.
+[`CSSValueList`](../) クラスの新しいインスタンスを初期化します
 
 ```csharp
 public CSSValueList()
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSValueList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
+## CSSValueList(*IEnumerable&lt;CSSValue&gt;*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`CSSValueList`](../) class.
+[`CSSValueList`](../) クラスの新しいインスタンスを初期化します
 
 ```csharp
 public CSSValueList(IEnumerable<CSSValue> values)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| values | IEnumerable`1 | その価値。 |
+| values | IEnumerable`1 | 値です。 |
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(params CSSValue[]) {#constructor_1}
+## CSSValueList(*params CSSValue[]*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`CSSValueList`](../) class.
+[`CSSValueList`](../) クラスの新しいインスタンスを初期化します
 
 ```csharp
 public CSSValueList(params CSSValue[] values)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| values | CSSValue[] | その価値。 |
+| values | CSSValue[] | 値です。 |
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

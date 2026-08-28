@@ -1,28 +1,26 @@
 ---
-title: IParentNode.FirstElementChild
-second_title: Aspose.SVG for .NET API リファレンス
-description: IParentNode 財産. 要素である最初の子を返しそれ以外の場合は null.
+title: "IParentNode.FirstElementChild"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IParentNode FirstElementChild プロパティ。要素である最初の子を返し、そうでなければ null を返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom/iparentnode/firstelementchild/
 ---
 ## IParentNode.FirstElementChild property
 
-要素である最初の子を返し、それ以外の場合は null.
+要素である最初の子を返し、そうでない場合は null を返します。
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最初の要素の子.
+最初の子要素。
 
-### 関連項目
+### 参照
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* 名前空間 [Aspose.Svg.Dom](../../iparentnode/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

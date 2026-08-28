@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_UNKNOWN
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTransform 分野. ユニット タイプが事前定義されたタイプの 1 つではありませんこの型の新しい値を定義しようとしたり既存の値をこの型に切り替えようとしたりすることは無効です.
+title: "SVGTransform.SVG_TRANSFORM_UNKNOWN"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTransform SVG_TRANSFORM_UNKNOWN フィールド。ユニットタイプは事前定義されたタイプのいずれでもありません。このタイプの新しい値を定義しようとしたり、既存の値をこのタイプに切り替えようとしたりすることは無効です。"
 type: docs
 weight: 170
 url: /ja/net/aspose.svg.datatypes/svgtransform/svg_transform_unknown/
 ---
 ## SVGTransform.SVG_TRANSFORM_UNKNOWN field
 
-ユニット タイプが事前定義されたタイプの 1 つではありません。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとしたりすることは無効です.
+単位タイプは事前定義されたタイプのいずれでもありません。このタイプの新しい値を定義しようとしたり、既存の値をこのタイプに切り替えようとすることは無効です。
 
 ```csharp
 public const ushort SVG_TRANSFORM_UNKNOWN;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGTransform](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgtransform/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

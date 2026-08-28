@@ -1,14 +1,14 @@
 ---
-title: Interface IGradientBrush
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Drawing.IGradientBrush インターフェース. グラデーション ブラシの共通プロパティを取得するためのメソッドを宣言します
+title: "IGradientBrush インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Drawing.IGradientBrush インターフェイス。グラデーションブラシの共通プロパティを取得するメソッドを宣言します。"
 type: docs
-weight: 1450
+weight: 3470
 url: /ja/net/aspose.svg.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
 
-グラデーション ブラシの共通プロパティを取得するためのメソッドを宣言します。
+グラデーションブラシの共通プロパティを取得するメソッドを宣言します。
 
 ```csharp
 public interface IGradientBrush : ITransformableBrush
@@ -18,14 +18,12 @@ public interface IGradientBrush : ITransformableBrush
 
 | 名前 | 説明 |
 | --- | --- |
-| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; } | グラデーションのカスタム減衰を定義するブレンド係数を取得します。 |
-| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; } | グラデーションのカスタム減衰を定義するブレンド位置を取得します。 |
-| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; } | マルチカラー線形グラデーションを定義する補間色を取得します。 |
+| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors/) { get; set; } | グラデーションのカスタムフォールオフを定義するブレンド係数を取得または設定します。 |
+| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions/) { get; set; } | グラデーションのカスタムフォールオフを定義するブレンド位置を取得または設定します。 |
+| [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors/) { get; set; } | 多色線形グラデーションを定義する補間色を取得または設定します。 |
 
-### 関連項目
+### 参照
 
 * interface [ITransformableBrush](../itransformablebrush/)
-* 名前空間 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

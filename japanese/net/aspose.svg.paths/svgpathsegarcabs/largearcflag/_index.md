@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcAbs.LargeArcFlag
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathSegArcAbs 財産. largearcflag パラメーターの値
+title: "SVGPathSegArcAbs.LargeArcFlag"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathSegArcAbs LargeArcFlag プロパティ。large-arc-flag パラメータの値"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.paths/svgpathsegarcabs/largearcflag/
 ---
 ## SVGPathSegArcAbs.LargeArcFlag property
 
-large-arc-flag パラメーターの値。
+large-arc-flag パラメータの値。
 
 ```csharp
 public bool LargeArcFlag { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-大弧フラグ パラメータ
+large-arc-flag パラメータ。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . 読み取り専用属性の値を変更しようとすると発生します. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。読み取り専用属性の値を変更しようとしたときに発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegArcAbs](../)
-* 名前空間 [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

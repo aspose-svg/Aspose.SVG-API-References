@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnCueChange
-second_title: Aspose.SVG for .NET API リファレンス
-description: IGlobalEventHandlers イベント. OnCueChange イベントのイベント ハンドラーを取得または設定します
+title: "IGlobalEventHandlers.OnCueChange"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IGlobalEventHandlers OnCueChange イベント。OnCueChange イベントのハンドラを取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom/iglobaleventhandlers/oncuechange/
 ---
 ## IGlobalEventHandlers.OnCueChange event
 
-OnCueChange イベントのイベント ハンドラーを取得または設定します。
+OnCueChange イベントのハンドラを取得または設定します。
 
 ```csharp
 public event DOMEventHandler OnCueChange;
 ```
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* 名前空間 [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

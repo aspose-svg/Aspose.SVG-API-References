@@ -1,27 +1,25 @@
 ---
-title: Url.Username
-second_title: Aspose.SVG for .NET API リファレンス
-description: Url 財産. 指定された URL ユーザー名の文字列表現を取得または設定します
+title: "Url.Username"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Url Username プロパティ。指定された URL のユーザー名の文字列表現を取得または設定します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.svg/url/username/
 ---
 ## Url.Username property
 
-指定された URL ユーザー名の文字列表現を取得または設定します。
+指定された URL のユーザー名の文字列表現を取得または設定します。
 
 ```csharp
 public string Username { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ユーザー名.
+ユーザー名です。
 
-### 関連項目
+### 参照
 
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothRel
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathElement 方法. スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothRel オブジェクトを返します
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothRel"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicSmoothRel メソッド。スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothRel オブジェクトを返します"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothrel/
@@ -15,22 +15,20 @@ public SVGPathSegCurvetoCubicSmoothRel CreateSVGPathSegCurvetoCubicSmoothRel(flo
     float x2, float y2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | このパス セグメントの終点の相対 X 座標。 |
-| y | Single | このパス セグメントの終点の相対 Y 座標。 |
-| x2 | Single | 2 番目の制御点の相対 X 座標。 |
-| y2 | Single | 2 番目の制御点の相対 Y 座標。 |
+| x | Single | このパスセグメントの終点の相対X座標。 |
+| y | Single | このパスセグメントの終点の相対Y座標。 |
+| x2 | Single | 2番目の制御点の相対X座標。 |
+| y2 | Single | 2番目の制御点の相対Y座標。 |
 
 ### 戻り値
 
-スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothRel オブジェクト。
+スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothRel オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegCurvetoCubicSmoothRel](../../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/)
 * class [SVGPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

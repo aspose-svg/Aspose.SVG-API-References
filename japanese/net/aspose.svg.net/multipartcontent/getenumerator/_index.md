@@ -1,7 +1,7 @@
 ---
-title: MultipartContent.GetEnumerator
-second_title: Aspose.SVG for .NET API リファレンス
-description: MultipartContent 方法. コレクションを反復処理する列挙子を返します
+title: "MultipartContent.GetEnumerator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MultipartContent GetEnumerator メソッド。コレクションを反復処理する列挙子を返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.net/multipartcontent/getenumerator/
@@ -16,13 +16,11 @@ public IEnumerator<Content> GetEnumerator()
 
 ### 戻り値
 
-アンIEnumeratorコレクションを反復処理するために使用できるオブジェクト。
+コレクションを反復処理するために使用できる IEnumerator オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* 名前空間 [Aspose.Svg.Net](../../multipartcontent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,12 +1,12 @@
 ---
-title: Device2.DeviceConfiguration2.PageWritingStrategy
-second_title: Aspose.SVG for .NET API リファレンス
-description: DeviceConfiguration 財産. ページ書き込み戦略を取得または設定します
+title: "Device-2.DeviceConfiguration-2.PageWritingStrategy"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DeviceConfiguration PageWritingStrategy プロパティ。ページ書き込み戦略を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy property
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions>.PageWritingStrategy property
 
 ページ書き込み戦略を取得または設定します。
 
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstra
 public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrategy { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ページ書き込み戦略.
+ページ書き込み戦略。
 
-### 関連項目
+### 参照
 
 * enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](../../device-2.pagewritingstrategy-2/)
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2.deviceconfiguration-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

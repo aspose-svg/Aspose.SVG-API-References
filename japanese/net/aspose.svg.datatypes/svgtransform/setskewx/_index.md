@@ -1,33 +1,31 @@
 ---
-title: SVGTransform.SetSkewX
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTransform 方法. 変換タイプを SVG_TRANSFORM_SKEWX に設定しパラメーター angle でスキューの量を定義します
+title: "SVGTransform.SetSkewX"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTransform SetSkewX メソッド。 パラメータ angle で歪み量を定義し、変換タイプを SVG_TRANSFORM_SKEWX に設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.datatypes/svgtransform/setskewx/
 ---
 ## SVGTransform.SetSkewX method
 
-変換タイプを SVG_TRANSFORM_SKEWX に設定し、パラメーター angle でスキューの量を定義します。
+変換タイプを SVG_TRANSFORM_SKEWX に設定し、parameter angle でスキュー量を定義します。
 
 ```csharp
 public void SetSkewX(float angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | スキュー角度。 |
+| angle | Single | 歪み角度。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 読み取り専用属性の値を変更しようとすると発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。読み取り専用属性の値を変更しようとしたときに発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGTransform](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgtransform/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

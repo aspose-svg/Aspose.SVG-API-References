@@ -1,23 +1,21 @@
 ---
-title: UnitType.Hz
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 単位はヘルツです
+title: "UnitType.Hz"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Hz フィールド。測定はヘルツです。"
 type: docs
 weight: 110
 url: /ja/net/aspose.svg.drawing/unittype/hz/
 ---
 ## UnitType.Hz field
 
-単位はヘルツです。
+測定はヘルツです。
 
 ```csharp
 public static readonly UnitType Hz;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

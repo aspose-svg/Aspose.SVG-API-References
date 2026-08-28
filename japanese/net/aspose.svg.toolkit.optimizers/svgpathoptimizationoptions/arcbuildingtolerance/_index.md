@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.ArcBuildingTolerance
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathOptimizationOptions 財産. ベジエ セグメントを円弧セグメントに置き換える半径のパーセンテージとして使用されるパラメーター値を取得または設定しますデフォルトでは0.5です
+title: "SVGPathOptimizationOptions.ArcBuildingTolerance"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathOptimizationOptions ArcBuildingTolerance プロパティ。ベジェ セグメントを弧セグメントに置き換える際の半径のパーセンテージとして使用されるパラメータ値を取得または設定します。デフォルトは 0.5 です"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/
 ---
 ## SVGPathOptimizationOptions.ArcBuildingTolerance property
 
-ベジエ セグメントを円弧セグメントに置き換える半径のパーセンテージとして使用されるパラメーター値を取得または設定します。デフォルトでは「0.5」です。
+ベジエセグメントを弧セグメントに置き換える際の半径のパーセンテージとして使用されるパラメータ値を取得または設定します。デフォルトは '0.5' です。
 
 ```csharp
 public float ArcBuildingTolerance { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGPathOptimizationOptions](../)
-* 名前空間 [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

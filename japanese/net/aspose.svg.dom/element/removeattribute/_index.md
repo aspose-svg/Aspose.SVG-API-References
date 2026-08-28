@@ -1,7 +1,7 @@
 ---
-title: Element.RemoveAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 方法. 名前で属性を削除します
+title: "Element.RemoveAttribute"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element RemoveAttribute メソッド。属性名で属性を削除します。"
 type: docs
 weight: 370
 url: /ja/net/aspose.svg.dom/element/removeattribute/
@@ -11,17 +11,15 @@ url: /ja/net/aspose.svg.dom/element/removeattribute/
 名前で属性を削除します。
 
 ```csharp
-public void RemoveAttribute(string name)
+public void RemoveAttribute(string qualifiedName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | 属性名。 |
+| qualifiedName | String | 属性名です。 |
 
-### 関連項目
+### 参照
 
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,22 +1,20 @@
 ---
-title: Interface ISVGUnitTypes
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ISVGUnitTypes インターフェース. SVGUnitTypes インターフェイスは一般的に使用される一連の定数を定義しSVGGradientElementSVGPatternElementSVGClipPathElementSVGMaskElementおよび SVGFilterElement によって使用される基本インターフェイスです
+title: "ISVGUnitTypes インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ISVGUnitTypes インターフェイス。SVGUnitTypes インターフェイスは、一般的に使用される定数のセットを定義し、SVGGradientElement、SVGPatternElement、SVGClipPathElement、SVGMaskElement、SVGFilterElement が使用する基本インターフェイスです。"
 type: docs
-weight: 2050
+weight: 4120
 url: /ja/net/aspose.svg/isvgunittypes/
 ---
 ## ISVGUnitTypes interface
 
-SVGUnitTypes インターフェイスは、一般的に使用される一連の定数を定義し、SVGGradientElement、SVGPatternElement、SVGClipPathElement、SVGMaskElement、および SVGFilterElement によって使用される基本インターフェイスです。
+SVGUnitTypes インターフェイスは一般的に使用される定数のセットを定義し、SVGGradientElement、SVGPatternElement、SVGClipPathElement、SVGMaskElement、SVGFilterElement が使用する基底インターフェイスです。
 
 ```csharp
 public interface ISVGUnitTypes
 ```
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg](../../aspose.svg/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

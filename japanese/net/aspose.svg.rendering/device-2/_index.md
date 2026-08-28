@@ -1,14 +1,14 @@
 ---
-title: Class DeviceTGraphicContextTRenderingOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.Device2TGraphicContextTRenderingOptions クラス. 特定のレンダリング デバイスを実装するための基本クラスを表します
+title: "DeviceTGraphicContextTRenderingOptions クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.Device2TGraphicContextTRenderingOptions クラス。特定のレンダリングデバイス実装の基底クラスを表します。"
 type: docs
-weight: 2740
+weight: 4820
 url: /ja/net/aspose.svg.rendering/device-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions> class
 
-特定のレンダリング デバイスを実装するための基本クラスを表します。
+特定のレンダリングデバイスの実装のための基底クラスを表します。
 
 ```csharp
 public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevice
@@ -18,57 +18,58 @@ public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevi
 
 | パラメータ | 説明 |
 | --- | --- |
-| TGraphicContext | 現在のグラフィック コントロール パラメータを保持するグラフィック コンテキスト |
-| TRenderingOptions | レンダリング オプション |
+| TGraphicContext | 現在のグラフィック制御パラメータを保持するグラフィックコンテキスト |
+| TRenderingOptions | レンダリングオプション |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [GraphicContext](../../aspose.svg.rendering/device-2/graphiccontext/) { get; } | グラフィック コンテキストを取得します |
+| [GraphicContext](../../aspose.svg.rendering/device-2/graphiccontext/) { get; } | グラフィックコンテキストを取得します。 |
 | [Options](../../aspose.svg.rendering/device-2/options/) { get; } | レンダリング オプションを取得します。 |
+| virtual [Configuration](../../aspose.svg.rendering/device-2/configuration/) { get; } | デバイス構成を取得します。 |
+| [OutputStream](../../aspose.svg.rendering/device-2/outputstream/) { get; } | 出力ストリームを設定および取得します。 |
+| [StreamProvider](../../aspose.svg.rendering/device-2/streamprovider/) { get; } | ストリームプロバイダーオブジェクトを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [AddRect](../../aspose.svg.rendering/device-2/addrect/)(RectangleF) | 四角形を現在のパスに完全なサブパスとして追加します。 |
-| virtual [BeginDocument](../../aspose.svg.rendering/device-2/begindocument/)(Document) | ドキュメントのレンダリングを開始します。 |
-| abstract [BeginElement](../../aspose.svg.rendering/device-2/beginelement/)(Element, RectangleF) | ノードのレンダリングを開始します。 |
-| virtual [BeginPage](../../aspose.svg.rendering/device-2/beginpage/)(SizeF) | 新しいページのレンダリングを開始します。 |
-| abstract [Clip](../../aspose.svg.rendering/device-2/clip/)(FillMode) | FillMode ルールを使用して塗りつぶす領域を決定し、現在のクリッピング パスを現在のパスと交差させて変更します。 このメソッドは、現在のパスを終了します。 |
-| abstract [ClosePath](../../aspose.svg.rendering/device-2/closepath/)() | 現在のポイントからサブパスの開始点までの直線セグメントを追加することにより、現在のサブパスを閉じます。 現在のサブパスが既に閉じられている場合、"ClosePath" は何もしません。 この演算子は現在のサブパスを終了します。現在のパスに別のセグメントを追加すると、新しいサブパス が開始されますが、新しいセグメントが「ClosePath」メソッドによって到達したエンドポイントで開始される場合でも. |
-| abstract [CubicBezierTo](../../aspose.svg.rendering/device-2/cubicbezierto/)(PointF, PointF, PointF) | 3 次ベジエ曲線を現在のパスに追加します。曲線は、ベジエ制御点として pt1 と pt2 を使用して、現在の点から点 pt2, まで延長されます。新しい現在のポイントは pt3. です |
-| [Dispose](../../aspose.svg.rendering/device-2/dispose/)() | アンマネージ リソースの解放、解放、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
-| abstract [DrawImage](../../aspose.svg.rendering/device-2/drawimage/)(byte[], ImageType, RectangleF) | 指定した画像を描画します。 |
+| virtual [AddRect](../../aspose.svg.rendering/device-2/addrect/)(*RectangleF*) | 現在のパスに矩形を完全なサブパスとして追加します。 |
+| virtual [BeginDocument](../../aspose.svg.rendering/device-2/begindocument/)(*[Document](../../aspose.svg.dom/document/)*) | ドキュメントのレンダリングを開始します。 |
+| virtual [BeginElement](../../aspose.svg.rendering/device-2/beginelement/)(*[Element](../../aspose.svg.dom/element/), RectangleF*) | ノードのレンダリングを開始します。 |
+| virtual [BeginPage](../../aspose.svg.rendering/device-2/beginpage/)(*SizeF*) | 新しいページのレンダリングを開始します。 |
+| virtual [Clip](../../aspose.svg.rendering/device-2/clip/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) | FillRule を使用して塗りつぶす領域を決定し、現在のパスと交差させて現在のクリッピングパスを変更します。このメソッドは現在のパスを終了します。 |
+| virtual [ClosePath](../../aspose.svg.rendering/device-2/closepath/)() | 現在の点からサブパスの開始点まで直線セグメントを追加して現在のサブパスを閉じます。現在のサブパスがすでに閉じている場合、"ClosePath" は何もしません。この演算子は現在のサブパスを終了します。現在のパスに別のセグメントを追加すると、新しいサブパスが開始されます。たとえ新しいセグメントが "ClosePath" メソッドで到達した終点から始まっても同様です。 |
+| virtual [CubicBezierTo](../../aspose.svg.rendering/device-2/cubicbezierto/)(*PointF, PointF, PointF*) | 現在のパスに3次ベジエ曲線を追加します。曲線は現在の点から pt2 まで伸び、pt1 と pt2 をベジエ制御点として使用します。新しい現在の点は pt3 です。 |
+| [Dispose](../../aspose.svg.rendering/device-2/dispose/)() | アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
+| virtual [DrawImage](../../aspose.svg.rendering/device-2/drawimage/)(*byte[], [WebImageFormat](../../aspose.svg.drawing/webimageformat/), RectangleF*) | 指定された画像を描画します。 |
 | virtual [EndDocument](../../aspose.svg.rendering/device-2/enddocument/)() | ドキュメントのレンダリングを終了します。 |
-| abstract [EndElement](../../aspose.svg.rendering/device-2/endelement/)(Element) | ノードのレンダリングを終了します。 |
+| virtual [EndElement](../../aspose.svg.rendering/device-2/endelement/)(*[Element](../../aspose.svg.dom/element/)*) | ノードのレンダリングを終了します。 |
 | virtual [EndPage](../../aspose.svg.rendering/device-2/endpage/)() | 現在のページのレンダリングを終了します。 |
-| abstract [Fill](../../aspose.svg.rendering/device-2/fill/)(FillMode) | 現在のパスで囲まれた領域全体を塗りつぶします。 パスがいくつかの切断されたサブパスで構成されている場合、 をまとめて考慮して、すべてのサブパスの内部を埋めます。 このメソッドは、現在のパスを終了します。 |
-| abstract [FillText](../../aspose.svg.rendering/device-2/filltext/)(string, PointF) | 指定した位置に指定したテキスト文字列を入力します。 |
+| virtual [Fill](../../aspose.svg.rendering/device-2/fill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) | 現在のパスで囲まれた領域全体を塗りつぶします。パスが複数の切り離されたサブパスで構成されている場合、すべてのサブパスの内部をまとめて塗りつぶします。このメソッドは現在のパスを終了します。 |
+| virtual [FillText](../../aspose.svg.rendering/device-2/filltext/)(*string, PointF*) | 指定された位置に指定されたテキスト文字列を塗りつぶします。 |
 | virtual [Flush](../../aspose.svg.rendering/device-2/flush/)() | すべてのデータを出力ストリームにフラッシュします。 |
-| abstract [LineTo](../../aspose.svg.rendering/device-2/lineto/)(PointF) | 現在の点から点 (pt) までの直線セグメントを追加します。新しい現在のポイントは pt. です |
-| abstract [MoveTo](../../aspose.svg.rendering/device-2/moveto/)(PointF) | 現在の点をパラメーター pt の座標に移動し、接続する線分を省略して、新しいサブパスを開始します。 現在のパスの以前のパス構築方法も「MoveTo」だった場合、新しい「MoveTo」がそれをオーバーライドします。 前の「MoveTo」操作の痕跡がパスに残っていません. |
-| virtual [RestoreGraphicContext](../../aspose.svg.rendering/device-2/restoregraphiccontext/)() | スタックからポップすることにより、グラフィック コンテキスト全体を以前の値に復元します。 |
-| virtual [SaveGraphicContext](../../aspose.svg.rendering/device-2/savegraphiccontext/)() | グラフィックス コンテキスト全体のコピーをスタックにプッシュします。 |
-| abstract [Stroke](../../aspose.svg.rendering/device-2/stroke/)() | 現在のパスに沿って線を引きます。ストローク ラインは、パス内の各直線または曲線のセグメントに従います。 はセグメントの中心にあり、辺はそれに平行です。パスの各サブパスは個別に扱われます。 このメソッドは、現在のパスを終了します。 |
-| abstract [StrokeAndFill](../../aspose.svg.rendering/device-2/strokeandfill/)(FillMode) | 現在のパスをストロークして塗りつぶします。 このメソッドは現在のパスを終了します。 |
-| abstract [StrokeText](../../aspose.svg.rendering/device-2/stroketext/)(string, PointF) | 指定された位置で指定されたテキスト文字列をストロークします。 |
+| virtual [LineTo](../../aspose.svg.rendering/device-2/lineto/)(*PointF*) | 現在の点から点 (pt) まで直線セグメントを追加します。新しい現在の点は pt です。 |
+| virtual [MoveTo](../../aspose.svg.rendering/device-2/moveto/)(*PointF*) | パラメータ pt の座標に現在の点を移動させ、接続線セグメントを省略することで新しいサブパスを開始します。現在のパスで前のパス構築メソッドが "MoveTo" でも、新しい "MoveTo" がそれを上書きします。パス内に前の "MoveTo" 操作の痕跡は残りません。 |
+| virtual [RestoreGraphicContext](../../aspose.svg.rendering/device-2/restoregraphiccontext/)() | スタックからポップして、グラフィック コンテキスト全体を元の値に復元します。 |
+| virtual [SaveGraphicContext](../../aspose.svg.rendering/device-2/savegraphiccontext/)() | グラフィック コンテキスト全体のコピーをスタックにプッシュします。 |
+| virtual [Stroke](../../aspose.svg.rendering/device-2/stroke/)() | 現在のパスに沿って線を描画します。描画された線はパス内の各直線または曲線セグメントに沿い、セグメントの中心に位置し、側面はそれに平行です。パスの各サブパスは個別に処理されます。このメソッドは現在のパスを終了します。 |
+| virtual [StrokeAndFill](../../aspose.svg.rendering/device-2/strokeandfill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) | 現在のパスを描画し塗りつぶします。このメソッドは現在のパスを終了します。 |
+| virtual [StrokeText](../../aspose.svg.rendering/device-2/stroketext/)(*string, PointF*) | 指定された位置に指定されたテキスト文字列を描画します。 |
 
 ## その他のメンバー
 
 | 名前 | 説明 |
 | --- | --- |
-| class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](device-2.deviceconfiguration-2/) | デバイスの構成オブジェクトを表します。 |
-| enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](device-2.pagewritingstrategy-2/) | 出力 stream\streams にページを書き込む方法のタイプを指定します。 |
+| class [DeviceConfiguration<TGraphicContext,TRenderingOptions>](../../aspose.svg.rendering/device-2.deviceconfiguration-2) | デバイス用の構成オブジェクトを表します。 |
+| enum [PageWritingStrategy<TGraphicContext,TRenderingOptions>](../../aspose.svg.rendering/device-2.pagewritingstrategy-2) | ページを出力ストリーム\streams に書き込むための戦略タイプを指定します。 |
 
-### 関連項目
+### 参照
 
 * class [Device](../device/)
 * interface [IDevice](../idevice/)
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
-* 名前空間 [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

@@ -1,48 +1,46 @@
 ---
-title: RequestMessage.RequestMessage
-second_title: Aspose.SVG for .NET API リファレンス
-description: RequestMessage コンストラクタ. の新しいインスタンスを初期化しますRequestMessage class.
+title: "RequestMessage"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "RequestMessage コンストラクタ。RequestMessage クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/requestmessage/requestmessage/
 ---
-## RequestMessage(string) {#constructor_1}
+## RequestMessage(*string*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`RequestMessage`](../) class.
+[`RequestMessage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RequestMessage(string address)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| address | String | リクエストアドレス。 |
+| address | String | リクエストのアドレスです。 |
 
-### 関連項目
+### 参照
 
 * class [RequestMessage](../)
-* 名前空間 [Aspose.Svg.Net](../../requestmessage/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RequestMessage(Url) {#constructor}
+## RequestMessage(*[Url](../../../aspose.svg/url/)*) {#constructor}
 
-の新しいインスタンスを初期化します[`RequestMessage`](../) class.
+[`RequestMessage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RequestMessage(Url uri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| uri | Url | リクエスト URL。 |
+| uri | Url | リクエスト URL です。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* 名前空間 [Aspose.Svg.Net](../../requestmessage/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

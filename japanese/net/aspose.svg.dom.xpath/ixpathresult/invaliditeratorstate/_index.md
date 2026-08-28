@@ -1,23 +1,21 @@
 ---
-title: IXPathResult.InvalidIteratorState
-second_title: Aspose.SVG for .NET API リファレンス
-description: IXPathResult 財産. イテレータが無効になったことを示します真の場合結果タイプ はUnorderedNodeIteratorタイプまたはOrderedNodeIteratortype および この結果が返されてからドキュメントが変更されました.
+title: "IXPathResult.InvalidIteratorState"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IXPathResult InvalidIteratorState プロパティ。イテレータが無効になったことを示します。resultType が UnorderedNodeIterator 型または OrderedNodeIterator 型で、かつこの結果が返された後にドキュメントが変更されている場合に true です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.xpath/ixpathresult/invaliditeratorstate/
 ---
 ## IXPathResult.InvalidIteratorState property
 
-イテレータが無効になったことを示します。真の場合`結果タイプ` は`UnorderedNodeIterator`タイプまたは`OrderedNodeIterator`type および この結果が返されてからドキュメントが変更されました.
+イテレータが無効になったことを示します。`resultType` が `UnorderedNodeIterator` タイプまたは `OrderedNodeIterator` タイプで、結果が返された後にドキュメントが変更されている場合は true です。
 
 ```csharp
 public bool InvalidIteratorState { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IXPathResult](../)
-* 名前空間 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

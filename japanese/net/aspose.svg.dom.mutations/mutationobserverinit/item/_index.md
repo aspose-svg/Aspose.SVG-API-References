@@ -1,7 +1,7 @@
 ---
-title: MutationObserverInit.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 財産. 指定されたキーを持つ要素を取得または設定します
+title: "MutationObserverInit.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit Item プロパティ。指定されたキーを持つ要素を取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/item/
@@ -16,16 +16,14 @@ public object this[string key] { get; set; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| key | 取得または設定する要素のキー。 |
+| キー | 取得または設定する要素のキーです。 |
 
 ### 戻り値
 
-指定されたキーに関連付けられた値。
+指定されたキーに関連付けられた値です。
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

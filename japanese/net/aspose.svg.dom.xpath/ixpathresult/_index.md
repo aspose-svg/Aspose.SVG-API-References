@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathResult
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.XPath.IXPathResult インターフェース. XPathResultインターフェイスは特定のノードのコンテキスト内で XPath 1.0 式を評価した結果を表します XPath 式の評価 はさまざまな結果タイプをもたらす可能性があるためこのオブジェクトを使用すると 結果のタイプと値を検出して操作できます.
+title: "IXPathResult インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.XPath.IXPathResult インターフェイス。XPathResult インターフェイスは、特定のノードのコンテキスト内で XPath 1.0 式を評価した結果を表します。XPath 式の評価はさまざまな結果タイプになる可能性があるため、このオブジェクトは結果のタイプと値を検出および操作できるようにします。"
 type: docs
-weight: 1350
+weight: 3350
 url: /ja/net/aspose.svg.dom.xpath/ixpathresult/
 ---
 ## IXPathResult interface
 
-`XPathResult`インターフェイスは、特定のノードのコンテキスト内で XPath 1.0 式を評価した結果を表します。 XPath 式の評価 はさまざまな結果タイプをもたらす可能性があるため、このオブジェクトを使用すると、 結果のタイプと値を検出して操作できます.
+`XPathResult` インターフェイスは、特定のノードのコンテキスト内で XPath 1.0 式を評価した結果を表します。XPath 式の評価はさまざまな結果タイプになる可能性があるため、このオブジェクトは結果のタイプと値を検出および操作できるようにします。
 
 ```csharp
 public interface IXPathResult
@@ -19,23 +19,21 @@ public interface IXPathResult
 | 名前 | 説明 |
 | --- | --- |
 | [BooleanValue](../../aspose.svg.dom.xpath/ixpathresult/booleanvalue/) { get; } | このブール結果の値。 |
-| [InvalidIteratorState](../../aspose.svg.dom.xpath/ixpathresult/invaliditeratorstate/) { get; } | イテレータが無効になったことを示します。真の場合`結果タイプ` は`UnorderedNodeIterator`タイプまたは`OrderedNodeIterator`type および この結果が返されてからドキュメントが変更されました. |
-| [NumberValue](../../aspose.svg.dom.xpath/ixpathresult/numbervalue/) { get; } | この数値結果の値. |
-| [ResultType](../../aspose.svg.dom.xpath/ixpathresult/resulttype/) { get; } | http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult で定義されている、この結果のタイプを表すコード[`XPathResultType`](../xpathresulttype/)enum. |
-| [SingleNodeValue](../../aspose.svg.dom.xpath/ixpathresult/singlenodevalue/) { get; } | この単一ノードの結果の値。`ヌル` . |
-| [SnapshotLength](../../aspose.svg.dom.xpath/ixpathresult/snapshotlength/) { get; } | 結果スナップショットのノード数。 snapshotItem インデックスの有効な値は次のとおりです。`0`に`スナップショットの長さ-1`含む. |
+| [InvalidIteratorState](../../aspose.svg.dom.xpath/ixpathresult/invaliditeratorstate/) { get; } | イテレータが無効になったことを示します。`resultType` が `UnorderedNodeIterator` タイプまたは `OrderedNodeIterator` タイプで、結果が返された後にドキュメントが変更されている場合は true です。 |
+| [NumberValue](../../aspose.svg.dom.xpath/ixpathresult/numbervalue/) { get; } | この数値結果の値。 |
+| [ResultType](../../aspose.svg.dom.xpath/ixpathresult/resulttype/) { get; } | この結果のタイプを表すコードで、http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult に定義された [`XPathResultType`](../xpathresulttype/) 列挙体によります。 |
+| [SingleNodeValue](../../aspose.svg.dom.xpath/ixpathresult/singlenodevalue/) { get; } | この単一ノード結果の値で、`null` の可能性があります。 |
+| [SnapshotLength](../../aspose.svg.dom.xpath/ixpathresult/snapshotlength/) { get; } | 結果スナップショット内のノード数。snapshotItem インデックスの有効な値は `0` から `snapshotLength-1` までです。 |
 | [StringValue](../../aspose.svg.dom.xpath/ixpathresult/stringvalue/) { get; } | この文字列結果の値。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [IterateNext](../../aspose.svg.dom.xpath/ixpathresult/iteratenext/)() | ノード セットから次のノードを繰り返して返します。`ヌル`これ以上ノードがない場合. |
-| [SnapshotItem](../../aspose.svg.dom.xpath/ixpathresult/snapshotitem/)(int) | を返します`索引`スナップショット コレクションの 番目のアイテム。もしも`索引` より大きいか、リスト内のノード数と等しい場合、このメソッドは戻り値を返します`ヌル` イテレータの結果とは異なり、スナップショットは無効にはなりませんが、変更された場合、現在の ドキュメントに対応しない場合があります. |
+| [IterateNext](../../aspose.svg.dom.xpath/ixpathresult/iteratenext/)() | ノードセットから次のノードを反復取得し、ノードがもうない場合は `null` を返します。 |
+| [SnapshotItem](../../aspose.svg.dom.xpath/ixpathresult/snapshotitem/)(*int*) | スナップショットコレクションの `index` 番目の項目を返します。`index` がリスト内のノード数以上の場合、このメソッドは `null` を返します。イテレータ結果とは異なり、スナップショットは無効になりませんが、ドキュメントが変更された場合は現在のドキュメントと一致しない可能性があります。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

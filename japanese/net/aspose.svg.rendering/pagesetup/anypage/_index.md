@@ -1,28 +1,26 @@
 ---
-title: PageSetup.AnyPage
-second_title: Aspose.SVG for .NET API リファレンス
-description: PageSetup 財産. ページ シーケンス内のすべてのページ構成を取得または設定します
+title: "PageSetup.AnyPage"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PageSetup AnyPage プロパティ。ページシーケンス内のすべてのページ構成を取得または設定します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering/pagesetup/anypage/
 ---
 ## PageSetup.AnyPage property
 
-ページ シーケンス内のすべてのページ構成を取得または設定します。
+ページシーケンス内のすべてのページ構成を取得または設定します。
 
 ```csharp
 public Page AnyPage { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-任意のページ.
+任意のページ。
 
-### 関連項目
+### 参照
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* 名前空間 [Aspose.Svg.Rendering](../../pagesetup/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

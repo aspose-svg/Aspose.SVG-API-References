@@ -1,31 +1,29 @@
 ---
-title: IImageTraceSimplifier.Simplify
-second_title: Aspose.SVG for .NET API リファレンス
-description: IImageTraceSimplifier 方法. トレースのポイント数を減らします
+title: "IImageTraceSimplifier.Simplify"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IImageTraceSimplifier Simplify メソッド。トレース内のポイント数を削減します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.imagevectorization/iimagetracesimplifier/simplify/
 ---
 ## IImageTraceSimplifier.Simplify method
 
-トレースのポイント数を減らします。
+トレース内の点の数を削減します。
 
 ```csharp
 public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| trace | IEnumerable`1 | トレース ポイントのリスト。 |
+| トレース | IEnumerable`1 | トレースポイントのリストです。 |
 
 ### 戻り値
 
-トレース ポイントの簡略化されたリスト。
+削減されたトレースポイントのリスト。
 
-### 関連項目
+### 参照
 
 * interface [IImageTraceSimplifier](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../iimagetracesimplifier/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

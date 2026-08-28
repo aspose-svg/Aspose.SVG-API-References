@@ -1,23 +1,21 @@
 ---
-title: DOMException.INVALID_STATE_ERR
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMException 分野. 使用できないまたは使用できなくなったオブジェクトを使用しようとした場合.
+title: "DOMException.INVALID_STATE_ERR"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMException INVALID_STATE_ERR フィールド。オブジェクトが使用できない、またはもはや使用できなくなった状態で使用しようとした場合です。"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg.dom/domexception/invalid_state_err/
 ---
 ## DOMException.INVALID_STATE_ERR field
 
-使用できない、または使用できなくなったオブジェクトを使用しようとした場合.
+使用できない、またはもはや使用できなくなったオブジェクトを使用しようとした場合。
 
 ```csharp
 public const ushort INVALID_STATE_ERR;
 ```
 
-### 関連項目
+### 参照
 
 * class [DOMException](../)
-* 名前空間 [Aspose.Svg.Dom](../../domexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

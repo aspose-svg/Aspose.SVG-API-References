@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.Operator
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEMorphologyElement 財産. 指定されたfeMorphology要素の属性operatorに対応しますこのインターフェイスで定義された SVG_MORPHOLOGY_OPERATOR_ 定数の 1 つを取ります
+title: "SVGFEMorphologyElement.Operator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEMorphologyElement Operator プロパティ。指定された feMorphology 要素の属性 operator に対応します。このインターフェイスで定義された SVG_MORPHOLOGY_OPERATOR_ 定数のいずれかを取ります"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.filters/svgfemorphologyelement/operator/
 ---
 ## SVGFEMorphologyElement.Operator property
 
-指定された「feMorphology」要素の属性「operator」に対応します。このインターフェイスで定義された SVG_MORPHOLOGY_OPERATOR_* 定数の 1 つを取ります。
+指定された ‘feMorphology’ 要素の属性 ‘operator’ に対応します。この属性はこのインターフェイスで定義された SVG_MORPHOLOGY_OPERATOR_* 定数のいずれかを取ります。
 
 ```csharp
 public SVGAnimatedEnumeration Operator { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「feMorphology」要素の属性「operator」。
+指定された ‘feMorphology’ 要素の属性 ‘operator’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEMorphologyElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

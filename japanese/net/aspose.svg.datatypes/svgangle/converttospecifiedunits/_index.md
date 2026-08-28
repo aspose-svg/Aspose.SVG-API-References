@@ -1,34 +1,32 @@
 ---
-title: SVGAngle.ConvertToSpecifiedUnits
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGAngle 方法. 基礎となる保存された同じ値を保持しますが保存されたユニット識別子を指定された unitType にリセットしますオブジェクト属性 unitTypevalueInSpecifiedUnitsおよび valueAsString はこのメソッドの結果として変更される可能性があります.
+title: "SVGAngle.ConvertToSpecifiedUnits"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGAngle ConvertToSpecifiedUnits メソッド。 同じ基礎となる格納値を保持しますが、格納された単位識別子を指定された unitType にリセットします。 オブジェクト属性 unitType、valueInSpecifiedUnits、valueAsString はこのメソッドの結果として変更される可能性があります。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.datatypes/svgangle/converttospecifiedunits/
 ---
 ## SVGAngle.ConvertToSpecifiedUnits method
 
-基礎となる保存された同じ値を保持しますが、保存されたユニット識別子を指定された unitType にリセットします。オブジェクト属性 unitType、valueInSpecifiedUnits、および valueAsString は、このメソッドの結果として変更される可能性があります.
+同じ基礎となる格納値を保持しつつ、格納された単位識別子を指定された unitType にリセットします。このメソッドの結果として、オブジェクト属性の unitType、valueInSpecifiedUnits、valueAsString が変更される可能性があります。
 
 ```csharp
 public void ConvertToSpecifiedUnits(ushort unitType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| unitType | UInt16 | 切り替える単位の種類 (例: SVG_ANGLETYPE_DEG)。 |
+| unitType | UInt16 | 切り替える単位タイプ (例: SVG_ANGLETYPE_DEG)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) unitType が SVG_ANGLETYPE_UNKNOWN であるか、有効なユニット タイプ定数 (このインターフェイスで定義されている他の SVG_ANGLETYPE_* 定数の 1 つ) でない場合に発生します。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 角度が読み取り専用属性に対応する場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) が、unitType が SVG_ANGLETYPE_UNKNOWN であるか、有効な単位タイプ定数でない場合に発生します（このインターフェイスで定義されている他の SVG_ANGLETYPE_* 定数のいずれか）。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 角度が読み取り専用属性に対応している場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGAngle](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgangle/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

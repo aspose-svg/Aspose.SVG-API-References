@@ -1,23 +1,21 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTextContentElement 分野. 値spacingAndGlyphsに対応します
+title: "SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTextContentElement LENGTHADJUST_SPACINGANDGLYPHS フィールド。値 spacingAndGlyphs に対応します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS field
 
-値「spacingAndGlyphs」に対応します。
+値 'spacingAndGlyphs' に対応します。
 
 ```csharp
 public const ushort LENGTHADJUST_SPACINGANDGLYPHS;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGTextContentElement](../)
-* 名前空間 [Aspose.Svg](../../svgtextcontentelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

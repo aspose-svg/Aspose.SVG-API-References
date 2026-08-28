@@ -1,14 +1,14 @@
 ---
-title: SVGGraphicsElement.GetCTM
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGGraphicsElement 方法. 現在のユーザー単位 つまりtransform属性があれば適用後 からnearestViewportElement のビューポート座標系への変換マトリックスを返します
+title: "SVGGraphicsElement.GetCTM"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGGraphicsElement GetCTM メソッド。現在のユーザー単位から、（存在する場合）transform 属性が適用された後の、nearestViewportElement のビューポート座標系への変換行列を返します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg/svggraphicselement/getctm/
 ---
 ## SVGGraphicsElement.GetCTM method
 
-現在のユーザー単位 (つまり、「transform」属性があれば適用後) から、nearestViewportElement のビューポート座標系への変換マトリックスを返します。
+現在のユーザー単位（つまり、存在する場合は ‘transform’ 属性が適用された後）から nearestViewportElement のビューポート座標系への変換行列を返します。
 
 ```csharp
 public SVGMatrix GetCTM()
@@ -16,13 +16,11 @@ public SVGMatrix GetCTM()
 
 ### 戻り値
 
-CTM を定義する SVGMatrix オブジェクト。
+CTM を定義する SVGMatrix オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGGraphicsElement](../)
-* 名前空間 [Aspose.Svg](../../svggraphicselement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

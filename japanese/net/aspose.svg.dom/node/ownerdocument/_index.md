@@ -1,24 +1,34 @@
 ---
-title: Node.OwnerDocument
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 財産. このノードに関連付けられたドキュメント オブジェクトこれは新しいノードを作成するために使用される Document オブジェクトでもありますこのノードがドキュメントまたはドキュメントでまだ使用されていない DocumentType である場合これは null. です
+title: "Node.OwnerDocument"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node OwnerDocument プロパティ。ノードのトップレベルのドキュメントオブジェクトを返します。"
 type: docs
-weight: 120
+weight: 110
 url: /ja/net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-このノードに関連付けられたドキュメント オブジェクト。これは、新しいノードを作成するために使用される Document オブジェクトでもあります。このノードがドキュメントまたはドキュメントでまだ使用されていない DocumentType である場合、これは null. です。
+ノードのトップレベルのドキュメントオブジェクトを返します。
 
 ```csharp
 public virtual Document OwnerDocument { get; }
 ```
 
-### 関連項目
+### Property Value
+
+すべての子ノードが作成されるトップレベルオブジェクトである [`Document`](../../document/)。
+
+このプロパティがドキュメント自体であるノードに使用された場合、値は null です。
+
+## 備考
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
+
+### 参照
 
 * class [Document](../../document/)
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

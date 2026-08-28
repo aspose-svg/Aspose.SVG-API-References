@@ -1,28 +1,26 @@
 ---
-title: INetworkService.MessageHandlers
-second_title: Aspose.SVG for .NET API リファレンス
-description: INetworkService 財産. のリストを取得しますMessageHandlerとして呼び出されるインスタンスRequestMessage実行します.
+title: "INetworkService.MessageHandlers"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "INetworkService MessageHandlers プロパティ。RequestMessage が実行される際に呼び出される MessageHandler インスタンスのリストを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.services/inetworkservice/messagehandlers/
 ---
 ## INetworkService.MessageHandlers property
 
-のリストを取得します[`MessageHandler`](../../../aspose.svg.net/messagehandler/)として呼び出されるインスタンス[`RequestMessage`](../../../aspose.svg.net/requestmessage/)実行します.
+[`MessageHandler`](../../../aspose.svg.net/messagehandler/) インスタンスのリストを取得します。これは [`RequestMessage`](../../../aspose.svg.net/requestmessage/) が実行される際に呼び出されます。
 
 ```csharp
 public MessageHandlerCollection MessageHandlers { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-メッセージ ハンドラ。
+メッセージハンドラです。
 
-### 関連項目
+### 参照
 
 * class [MessageHandlerCollection](../../../aspose.svg.net/messagehandlercollection/)
 * interface [INetworkService](../)
-* 名前空間 [Aspose.Svg.Services](../../inetworkservice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

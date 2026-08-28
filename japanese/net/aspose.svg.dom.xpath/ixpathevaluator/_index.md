@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathEvaluator
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.XPath.IXPathEvaluator インターフェース. XPath 式の評価はIXPathEvaluator .
+title: "IXPathEvaluator Interface"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.XPath.IXPathEvaluator interface. The evaluation of XPath expressions is provided by IXPathEvaluator"
 type: docs
-weight: 1310
+weight: 3310
 url: /ja/net/aspose.svg.dom.xpath/ixpathevaluator/
 ---
 ## IXPathEvaluator interface
 
-XPath 式の評価は、`IXPathEvaluator` .
+The evaluation of XPath expressions is provided by `IXPathEvaluator`.
 
 ```csharp
 public interface IXPathEvaluator
@@ -18,13 +18,11 @@ public interface IXPathEvaluator
 
 | 名前 | 説明 |
 | --- | --- |
-| [CreateExpression](../../aspose.svg.dom.xpath/ixpathevaluator/createexpression/)(string, IXPathNSResolver) | 名前空間が解決された解析済み XPath 式を作成します。これは、 式文字列をより効率的な内部形式にコンパイルし、 式内で発生するすべての名前空間プレフィックスを事前に解決できるため、式がアプリケーションで再利用される場合に便利です. |
-| [CreateNSResolver](../../aspose.svg.dom.xpath/ixpathevaluator/creatensresolver/)(Node) | 任意の DOM ノードを名前空間を解決するように適応させ、XPath 式がドキュメント内で出現したノードのコンテキストに対して 簡単に評価できるようにします。このアダプターは、DOM レベル 3 メソッドのように 動作します`lookupNamespaceURI`ノード上で、time lookupNamespaceURI が呼び出されたときにノードの階層で利用可能な現在の情報を使用して、指定されたプレフィックスから namespaceURI を解決し、暗黙的な xml プレフィックス. も正しく解決します。 |
-| [Evaluate](../../aspose.svg.dom.xpath/ixpathevaluator/evaluate/)(string, Node, IXPathNSResolver, XPathResultType, object) | XPath 式文字列を評価し、可能であれば指定された型の結果を返します。 |
+| [CreateExpression](../../aspose.svg.dom.xpath/ixpathevaluator/createexpression/)(*string, [IXPathNSResolver](../ixpathnsresolver/)*) | Creates a parsed XPath expression with resolved namespaces. This is useful when an expression will be reused in an application since it makes it possible to compile the expression string into a more efficient internal form and preresolve all namespace prefixes which occur within the expression. |
+| [CreateNSResolver](../../aspose.svg.dom.xpath/ixpathevaluator/creatensresolver/)(*[Node](../../aspose.svg.dom/node/)*) | Adapts any DOM node to resolve namespaces so that an XPath expression can be easily evaluated relative to the context of the node where it appeared within the document. This adapter works like the DOM Level 3 method `lookupNamespaceURI` on nodes in resolving the namespaceURI from a given prefix using the current information available in the node's hierarchy at the time lookupNamespaceURI is called, also correctly resolving the implicit xml prefix. |
+| [Evaluate](../../aspose.svg.dom.xpath/ixpathevaluator/evaluate/)(*string, [Node](../../aspose.svg.dom/node/), [IXPathNSResolver](../ixpathnsresolver/), [XPathResultType](../xpathresulttype/), object*) | Evaluates an XPath expression string and returns a result of the specified type if possible. |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

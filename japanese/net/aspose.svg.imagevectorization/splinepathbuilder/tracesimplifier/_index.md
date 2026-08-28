@@ -1,24 +1,22 @@
 ---
-title: SplinePathBuilder.TraceSimplifier
-second_title: Aspose.SVG for .NET API リファレンス
-description: SplinePathBuilder 財産. トレース簡略化を取得または設定します
+title: "SplinePathBuilder.TraceSimplifier"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SplinePathBuilder TraceSimplifier プロパティ。トレース簡略化器を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/
 ---
 ## SplinePathBuilder.TraceSimplifier property
 
-トレース簡略化を取得または設定します。
+トレース簡略化ツールを取得または設定します。
 
 ```csharp
 public IImageTraceSimplifier TraceSimplifier { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

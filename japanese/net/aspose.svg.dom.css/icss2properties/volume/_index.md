@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Volume
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 のボリューム プロパティ定義を参照してください
+title: "ICSS2Properties.Volume"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Volume プロパティ。CSS2 の volume プロパティ定義をご覧ください"
 type: docs
-weight: 1170
+weight: 1200
 url: /ja/net/aspose.svg.dom.css/icss2properties/volume/
 ---
 ## ICSS2Properties.Volume property
 
-CSS2 のボリューム プロパティ定義を参照してください。
+CSS2 の volume プロパティ定義をご覧ください。
 
 ```csharp
 public string Volume { get; set; }
@@ -16,12 +16,10 @@ public string Volume { get; set; }
 
 ### 戻り値
 
-体積特性
+volume プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

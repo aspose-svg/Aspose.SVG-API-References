@@ -1,23 +1,21 @@
 ---
-title: PdfDevice.PdfGraphicContext.PdfGraphicContext
-second_title: Aspose.SVG for .NET API リファレンス
-description: PdfGraphicContext コンストラクタ. デフォルトのコンストラクター
+title: "PdfDevice.PdfGraphicContext.PdfGraphicContext"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PdfGraphicContext コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public PdfGraphicContext()
 ```
 
-### 関連項目
+### 参照
 
 * class [PdfGraphicContext](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

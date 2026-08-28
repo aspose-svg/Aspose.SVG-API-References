@@ -1,23 +1,21 @@
 ---
-title: UnitType.Pc
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 測定単位は picas
+title: "UnitType.Pc"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Pc フィールド。測定はパイカです。"
 type: docs
 weight: 170
 url: /ja/net/aspose.svg.drawing/unittype/pc/
 ---
 ## UnitType.Pc field
 
-測定単位は picas
+測定はパイカです
 
 ```csharp
 public static readonly UnitType Pc;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

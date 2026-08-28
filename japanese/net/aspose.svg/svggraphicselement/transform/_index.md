@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.Transform
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGGraphicsElement 財産. 指定された要素の属性変換に対応します
+title: "SVGGraphicsElement.Transform"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGGraphicsElement Transform プロパティ。対象要素の transform 属性に対応します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg/svggraphicselement/transform/
 ---
 ## SVGGraphicsElement.Transform property
 
-指定された要素の属性「変換」に対応します。
+指定された要素の属性 ‘transform’ に対応します。
 
 ```csharp
 public SVGAnimatedTransformList Transform { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-要素変換.
+要素の変換です。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGGraphicsElement](../)
-* 名前空間 [Aspose.Svg](../../svggraphicselement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

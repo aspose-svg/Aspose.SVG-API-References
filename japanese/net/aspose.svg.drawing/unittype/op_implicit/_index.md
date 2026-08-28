@@ -1,31 +1,29 @@
 ---
-title: UnitType.op_Implicit
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 方法. からの暗黙的な変換を実行しますStringにUnitType .
+title: "UnitType.op_Implicit"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType op_Implicit メソッド。String から UnitType への暗黙的変換を実行します。"
 type: docs
 weight: 360
 url: /ja/net/aspose.svg.drawing/unittype/op_implicit/
 ---
 ## UnitType Implicit operator
 
-からの暗黙的な変換を実行しますStringに[`UnitType`](../) .
+String から [`UnitType`](../) への暗黙的変換を実行します。
 
 ```csharp
 public static implicit operator UnitType(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | value | String | 値。 |
 
 ### 戻り値
 
-変換の結果。
+変換の結果です。
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

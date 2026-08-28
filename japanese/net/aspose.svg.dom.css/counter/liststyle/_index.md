@@ -1,27 +1,25 @@
 ---
-title: Counter.ListStyle
-second_title: Aspose.SVG for .NET API リファレンス
-description: Counter 財産. この属性はリストのスタイルに使用されます
+title: "Counter.ListStyle"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Counter ListStyle プロパティ。この属性はリストのスタイルとして使用されます"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/counter/liststyle/
 ---
 ## Counter.ListStyle property
 
-この属性は、リストのスタイルに使用されます。
+この属性はリストのスタイルに使用されます。
 
 ```csharp
 public string ListStyle { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リスト スタイル識別子.
+リストスタイルの識別子です。
 
-### 関連項目
+### 参照
 
 * class [Counter](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../counter/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

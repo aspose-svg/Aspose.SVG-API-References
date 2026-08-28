@@ -1,9 +1,9 @@
 ---
-title: Attr.Name
-second_title: Aspose.SVG for .NET API リファレンス
-description: Attr 財産. この属性の名前を返します
+title: "Attr.Name"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Attr Name プロパティ。この属性の名前を返します。"
 type: docs
-weight: 30
+weight: 20
 url: /ja/net/aspose.svg.dom/attr/name/
 ---
 ## Attr.Name property
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.dom/attr/name/
 public string Name { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Attr](../)
-* 名前空間 [Aspose.Svg.Dom](../../attr/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGAnimatedBoolean.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGAnimatedBoolean 方法. を返しますStringこのインスタンスを表す.
+title: "SVGAnimatedBoolean.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGAnimatedBoolean ToString メソッド。このインスタンスを表す文字列を返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.datatypes/svganimatedboolean/tostring/
 ---
 ## SVGAnimatedBoolean.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表す String を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedBoolean](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svganimatedboolean/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

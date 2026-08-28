@@ -1,23 +1,21 @@
 ---
-title: IDevice.RestoreGraphicContext
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDevice 方法. スタックからポップすることによりグラフィック コンテキスト全体を以前の値に復元します
+title: "IDevice.RestoreGraphicContext"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDevice RestoreGraphicContext メソッド。スタックからポップして、グラフィックコンテキスト全体を元の値に復元します"
 type: docs
 weight: 190
 url: /ja/net/aspose.svg.rendering/idevice/restoregraphiccontext/
 ---
 ## IDevice.RestoreGraphicContext method
 
-スタックからポップすることにより、グラフィック コンテキスト全体を以前の値に復元します。
+スタックからポップして、グラフィック コンテキスト全体を元の値に復元します。
 
 ```csharp
 public void RestoreGraphicContext()
 ```
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../)
-* 名前空間 [Aspose.Svg.Rendering](../../idevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

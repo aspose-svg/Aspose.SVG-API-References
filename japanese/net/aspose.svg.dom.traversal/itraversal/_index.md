@@ -1,16 +1,16 @@
 ---
-title: Interface ITraversal
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Traversal.ITraversal インターフェース. イテレータはNodeList 内のノードの セット特定のノードの によって管理されるドキュメント サブツリークエリの結果またはその他のノードの セットなど一連のノードをステップスルーするために使用されます反復されるノードのセットはNodeIterator の 実装によって決定されます DOM レベル 2 はドキュメント サブツリーのドキュメント順 走査のための 単一 NodeIterator 実装を指定しますこれらの反復子のインスタンスはDocumentTraversal .createNodeIterator. を呼び出すことによって 作成されます
+title: "ITraversal インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Traversal.ITraversal インターフェイス。イテレータは、NodeList のノード集合や特定の Node が支配するドキュメントサブツリー、クエリ結果、その他任意のノード集合など、ノードの集合を順に処理するために使用されます。イテレートされるノード集合は NodeIterator の実装によって決定されます。DOM Level 2 は、ドキュメントサブツリーの文書順走査のための単一の NodeIterator 実装を規定しています。これらのイテレータのインスタンスは、DocumentTraversal .createNodeIterator を呼び出すことで作成されます。"
 type: docs
-weight: 1260
+weight: 3260
 url: /ja/net/aspose.svg.dom.traversal/itraversal/
 ---
 ## ITraversal interface
 
-イテレータは、NodeList 内のノードの セット、特定のノードの によって管理されるドキュメント サブツリー、クエリの結果、またはその他のノードの セットなど、一連のノードをステップスルーするために使用されます。反復されるノードのセットは、NodeIterator の 実装によって決定されます。 DOM レベル 2 は、ドキュメント サブツリーのドキュメント順 走査のための 単一 NodeIterator 実装を指定します。これらの反復子のインスタンスは、DocumentTraversal .createNodeIterator(). を呼び出すことによって 作成されます。
+イテレータはノードの集合を順に処理するために使用されます。例えば NodeList のノード集合、特定の Node が管理する文書サブツリー、クエリの結果、またはその他の任意のノード集合です。イテレートされるノード集合は NodeIterator の実装によって決定されます。DOM Level 2 は文書順走査用の単一の NodeIterator 実装を規定しています。これらのイテレータのインスタンスは DocumentTraversal .createNodeIterator() を呼び出すことで作成されます。
 
-も参照してください。[ドキュメント オブジェクト モデル (DOM) レベル 2 トラバーサルおよび範囲指定](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM レベル 2
+また、[Document object Model (DOM) Level 2 Traversal and Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113) も参照してください。@since DOM Level 2
 
 ```csharp
 public interface ITraversal : IDisposable
@@ -20,13 +20,11 @@ public interface ITraversal : IDisposable
 
 | 名前 | 説明 |
 | --- | --- |
-| [Filter](../../aspose.svg.dom.traversal/itraversal/filter/) { get; } | ノードのスクリーニングに使用される NodeFilter。 |
-| [Root](../../aspose.svg.dom.traversal/itraversal/root/) { get; } | it の作成時に指定された NodeIterator のルート ノード。 |
-| [WhatToShow](../../aspose.svg.dom.traversal/itraversal/whattoshow/) { get; } | この属性は、 イテレーターを介して提示されるノード タイプを決定します。使用可能な定数のセットは、 NodeFilter インターフェイスで定義されています。 whatToShow によって 受け入れられないノードはスキップされますが、それらの子はまだ 考慮される場合があります。このスキップは、フィルタ (存在する場合) よりも優先されることに注意してください. |
+| [Filter](../../aspose.svg.dom.traversal/itraversal/filter/) { get; } | ノードをフィルタリングするために使用される NodeFilter。 |
+| [Root](../../aspose.svg.dom.traversal/itraversal/root/) { get; } | 作成時に指定された NodeIterator のルートノード。 |
+| [WhatToShow](../../aspose.svg.dom.traversal/itraversal/whattoshow/) { get; } | この属性は、イテレータを通じて提示されるノードタイプを決定します。利用可能な定数の集合は NodeFilter インターフェイスで定義されています。whatToShow で受け入れられないノードはスキップされますが、その子ノードは引き続き考慮される場合があります。なお、このスキップはフィルタ（存在する場合）よりも優先されます。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../)

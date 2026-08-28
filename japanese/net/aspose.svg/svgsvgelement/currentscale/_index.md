@@ -1,27 +1,25 @@
 ---
-title: SVGSVGElement.CurrentScale
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGSVGElement 財産. 最も外側の svg 要素ではこの属性は拡大とパンで説明されているようにユーザーの拡大とパン操作を考慮して初期ビューに対する現在の倍率を示します DOM 属性 currentScale および currentTranslate は2x3 マトリックス abcdef  currentScale 0 0 currentScale currentTranslate.x currentTranslate.y と同等です 拡大が有効な場合 つまりzoomAndPanmagnify追加の変換が SVG ドキュメント フラグメントの最も外側のレベル つまり最も外側の SVG 要素の外側 に配置されたかのような効果があります最も外側の svg 要素ではない svg 要素この属性の動作は定義されていません
+title: "SVGSVGElement.CurrentScale"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGSVGElement CurrentScale プロパティ。最外層の svg 要素では、この属性はユーザーの拡大縮小およびパン操作（「拡大縮小とパン」セクションで説明）を考慮した、初期ビューに対する現在のスケール係数を示します。DOM 属性 currentScale と currentTranslate は 2x3 行列 a b c d e f に相当し、currentScale 0 0 currentScale currentTranslate.x currentTranslate.y となります。拡大縮小が有効（例: zoomAndPan='magnify'）な場合、効果は SVG ドキュメントフラグメントの最外層レベル、すなわち最外層 svg 要素の外側に余分な変換が配置されたかのようになります。最外層でない svg 要素でアクセスした場合、この属性の動作は未定義です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/svgsvgelement/currentscale/
 ---
 ## SVGSVGElement.CurrentScale property
 
-最も外側の svg 要素では、この属性は、拡大とパンで説明されているように、ユーザーの拡大とパン操作を考慮して、初期ビューに対する現在の倍率を示します。 DOM 属性 currentScale および currentTranslate は、2x3 マトリックス [abcdef] = [currentScale 0 0 currentScale currentTranslate.x currentTranslate.y] と同等です。 「拡大」が有効な場合 (つまり、zoomAndPan="magnify")、追加の変換が SVG ドキュメント フラグメントの最も外側のレベル (つまり、最も外側の SVG 要素の外側) に配置されたかのような効果があります。最も外側の svg 要素ではない 'svg' 要素。この属性の動作は定義されていません。
+最外層の svg 要素において、この属性はユーザーの拡大縮小やパン操作を考慮した、初期ビューに対する現在のスケール係数を示します（「拡大縮小とパン」の項で説明）。DOM 属性 currentScale と currentTranslate は 2x3 行列 [a b c d e f] = [currentScale 0 0 currentScale currentTranslate.x currentTranslate.y] と同等です。\"magnification\" が有効（例: zoomAndPan=\"magnify\"）な場合、追加の変換が SVG ドキュメントフラグメントの最外層（最外層の svg 要素の外側）に配置されたかのように作用します。最外層でない ‘svg’ 要素でこの属性にアクセスした場合、その動作は未定義です。
 
 ```csharp
 public float CurrentScale { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-現在のスケール.
+現在のスケールです。
 
-### 関連項目
+### 参照
 
 * class [SVGSVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgsvgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

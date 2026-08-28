@@ -1,31 +1,29 @@
 ---
-title: SVGMatrix.Multiply
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMatrix 方法. 行列の乗算を実行しますこの行列は別の行列で事後乗算され結果の新しい行列が返されます.
+title: "SVGMatrix.Multiply"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMatrix Multiply メソッド。マトリックス乗算を実行します。このマトリックスは別のマトリックスで後置乗算され、結果として新しいマトリックスを返します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.datatypes/svgmatrix/multiply/
 ---
 ## SVGMatrix.Multiply method
 
-行列の乗算を実行します。この行列は別の行列で事後乗算され、結果の新しい行列が返されます.
+行列の乗算を実行します。この行列は別の行列で後置乗算され、結果として新しい行列が返されます。
 
 ```csharp
 public SVGMatrix Multiply(SVGMatrix secondMatrix)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| secondMatrix | SVGMatrix | この行列に事後乗算される行列。 |
+| secondMatrix | SVGMatrix | このマトリックスに後置乗算されるマトリックスです。 |
 
 ### 戻り値
 
-結果のマトリックス。
+結果の行列。
 
-### 関連項目
+### 参照
 
 * class [SVGMatrix](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgmatrix/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

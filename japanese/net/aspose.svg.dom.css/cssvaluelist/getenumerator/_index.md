@@ -1,7 +1,7 @@
 ---
-title: CSSValueList.GetEnumerator
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSValueList 方法. コレクションを反復処理する列挙子を返します
+title: "CSSValueList.GetEnumerator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSValueList GetEnumerator メソッド。コレクションを反復処理する列挙子を返します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom.css/cssvaluelist/getenumerator/
@@ -16,13 +16,11 @@ public IEnumerator<CSSValue> GetEnumerator()
 
 ### 戻り値
 
-AIEnumeratorコレクションを反復処理するために使用できます。
+コレクションを反復処理するために使用できる IEnumerator。
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.CreateDocumentFragment
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 空の DocumentFragment オブジェクトを作成します
+title: "Document.CreateDocumentFragment"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateDocumentFragment メソッド。DOM ノードを追加してオフスクリーン DOM ツリーを構築できる、新しい空の DocumentFragment を作成します。"
 type: docs
 weight: 830
 url: /ja/net/aspose.svg.dom/document/createdocumentfragment/
 ---
 ## Document.CreateDocumentFragment method
 
-空の DocumentFragment オブジェクトを作成します。
+新しい空の [`DocumentFragment`](../../documentfragment/) を作成し、そこに DOM ノードを追加してオフスクリーン DOM ツリーを構築します。
 
 ```csharp
 public DocumentFragment CreateDocumentFragment()
@@ -16,13 +16,11 @@ public DocumentFragment CreateDocumentFragment()
 
 ### 戻り値
 
-[`DocumentFragment`](../../documentfragment/) .
+この [`DocumentFragment`](../../documentfragment/)。
 
-### 関連項目
+### 参照
 
 * class [DocumentFragment](../../documentfragment/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

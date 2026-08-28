@@ -1,31 +1,29 @@
 ---
-title: Node.IsDefaultNamespace
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 方法. このメソッドは指定された namespaceURI がデフォルトの名前空間であるかどうかをチェックします
+title: "Node.IsDefaultNamespace"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node IsDefaultNamespace メソッド。このメソッドは、指定された namespaceURI がデフォルト名前空間かどうかをチェックします。"
 type: docs
-weight: 230
+weight: 210
 url: /ja/net/aspose.svg.dom/node/isdefaultnamespace/
 ---
 ## Node.IsDefaultNamespace method
 
-このメソッドは、指定された namespaceURI がデフォルトの名前空間であるかどうかをチェックします。
+このメソッドは、指定された namespaceURI がデフォルトの名前空間かどうかをチェックします。
 
 ```csharp
 public bool IsDefaultNamespace(string namespaceURI)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| namespaceURI | String | 名前空間 URI。 |
+| namespaceURI | String | namespace URIです。 |
 
 ### 戻り値
 
-`真実` if [デフォルトの名前空間] [指定された名前空間 URI];さもないと、`間違い` .
+`true` は、[デフォルト名前空間] [指定された名前空間 URI] の場合です。そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

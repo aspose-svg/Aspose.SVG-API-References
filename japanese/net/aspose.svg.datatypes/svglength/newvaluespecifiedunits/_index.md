@@ -1,35 +1,33 @@
 ---
-title: SVGLength.NewValueSpecifiedUnits
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGLength 方法. 関連付けられた unitType を持つ数値として値をリセットしオブジェクトのすべての属性の値を置き換えます
+title: "SVGLength.NewValueSpecifiedUnits"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGLength NewValueSpecifiedUnits メソッド。 値を関連付けられた unitType を持つ数値としてリセットし、オブジェクト上のすべての属性の値を置き換えます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.datatypes/svglength/newvaluespecifiedunits/
 ---
 ## SVGLength.NewValueSpecifiedUnits method
 
-関連付けられた unitType を持つ数値として値をリセットし、オブジェクトのすべての属性の値を置き換えます。
+関連付けられた unitType を持つ数値として値をリセットし、オブジェクト上のすべての属性の値を置き換えます。
 
 ```csharp
 public void NewValueSpecifiedUnits(ushort unitType, float valueInSpecifiedUnits)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| unitType | UInt16 | 値の単位タイプ。 |
-| valueInSpecifiedUnits | Single | 新しい価値.. |
+| unitType | UInt16 | 値のユニットタイプ。 |
+| valueInSpecifiedUnits | Single | 新しい値.. |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) unitType が SVG_LENGTHTYPE_UNKNOWN であるか、有効なユニット タイプ定数 (このインターフェイスで定義されている他の SVG_LENGTHTYPE_* 定数の 1 つ) でない場合に発生します。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 長さが読み取り専用属性に対応する場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) は、unitType が SVG_LENGTHTYPE_UNKNOWN であるか、有効なユニットタイプ定数（このインターフェイスで定義された他の SVG_LENGTHTYPE_* 定数のいずれか）でない場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) は、長さが読み取り専用属性に対応している場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGLength](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svglength/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

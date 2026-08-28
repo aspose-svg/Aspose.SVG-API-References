@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathNamespace
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.XPath.IXPathNamespace インターフェース. XPathNamespace インターフェイスは XPathResult インターフェイスによって返されDOM にない XPath 名前空間ノード タイプを表します
+title: "IXPathNamespace インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.XPath.IXPathNamespace インターフェイス。XPathNamespace インターフェイスは、DOM に存在しない XPath 名前空間ノードタイプを表すために XPathResult インターフェイスから返されます。"
 type: docs
-weight: 1340
+weight: 3340
 url: /ja/net/aspose.svg.dom.xpath/ixpathnamespace/
 ---
 ## IXPathNamespace interface
 
-XPathNamespace インターフェイスは XPathResult インターフェイスによって返され、DOM にない XPath 名前空間ノード タイプを表します。
+XPathNamespace インターフェイスは、DOM に存在しない XPath 名前空間ノードタイプを表すために XPathResult インターフェイスから返されます。
 
 ```csharp
 public interface IXPathNamespace
@@ -18,11 +18,9 @@ public interface IXPathNamespace
 
 | 名前 | 説明 |
 | --- | --- |
-| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement/) { get; } | [`Element`](../../aspose.svg.dom/element/)要求されたときに名前空間がスコープ内にあったもの。 返された名前空間ノードでこれは変更されず、その要素の名前空間が範囲外になり、このノードが XPath によってそこに 検出されなくなるような が文書で変更された場合でも、. |
+| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement/) { get; } | リクエスト時に名前空間がスコープ内にあった [`Element`](../../aspose.svg.dom/element/) 。ドキュメントが変更されてその要素上で名前空間がスコープ外になり、XPath によってこのノードがそこに見つからなくなった場合でも、返された名前空間ノード上では変更されません。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

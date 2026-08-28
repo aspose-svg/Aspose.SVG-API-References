@@ -1,23 +1,21 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_PX
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGLength 分野. CSS2 で定義されている px 単位を使用して値が指定されました
+title: "SVGLength.SVG_LENGTHTYPE_PX"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGLength SVG_LENGTHTYPE_PX フィールド。 値は CSS2 で定義された px 単位を使用して指定されました。"
 type: docs
 weight: 170
 url: /ja/net/aspose.svg.datatypes/svglength/svg_lengthtype_px/
 ---
 ## SVGLength.SVG_LENGTHTYPE_PX field
 
-CSS2 で定義されている px 単位を使用して値が指定されました。
+CSS2 で定義された px 単位を使用して値が指定されました。
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_PX;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGLength](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svglength/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

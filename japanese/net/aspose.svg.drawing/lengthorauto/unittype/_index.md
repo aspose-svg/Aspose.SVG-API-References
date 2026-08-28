@@ -1,28 +1,26 @@
 ---
-title: LengthOrAuto.UnitType
-second_title: Aspose.SVG for .NET API リファレンス
-description: LengthOrAuto 財産. のユニット タイプを取得しますUnit .
+title: "LengthOrAuto.UnitType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "LengthOrAuto UnitType プロパティ。Unit の単位タイプを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.drawing/lengthorauto/unittype/
 ---
 ## LengthOrAuto.UnitType property
 
-のユニット タイプを取得します。[`Unit`](../../unit/) .
+[`Unit`](../../unit/) の単位タイプを取得します。
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ユニットのタイプ.
+単位のタイプです。
 
-### 関連項目
+### 参照
 
 * class [UnitType](../../unittype/)
 * class [LengthOrAuto](../)
-* 名前空間 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

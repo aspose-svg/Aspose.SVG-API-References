@@ -1,24 +1,22 @@
 ---
-title: PageSetup.LeftPage
-second_title: Aspose.SVG for .NET API リファレンス
-description: PageSetup 財産. 奇数ページ構成を取得します
+title: "PageSetup.LeftPage"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PageSetup LeftPage プロパティ。奇数ページの構成を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.rendering/pagesetup/leftpage/
 ---
 ## PageSetup.LeftPage property
 
-奇数ページ構成を取得します。
+奇数ページの構成を取得します。
 
 ```csharp
 public Page LeftPage { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* 名前空間 [Aspose.Svg.Rendering](../../pagesetup/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

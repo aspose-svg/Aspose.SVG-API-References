@@ -1,7 +1,7 @@
 ---
-title: IDeviceInformationService.VerticalResolution
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDeviceInformationService 財産. 垂直解像度を取得または設定します
+title: "IDeviceInformationService.VerticalResolution"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDeviceInformationService VerticalResolution プロパティ。垂直解像度を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.services/ideviceinformationservice/verticalresolution/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.services/ideviceinformationservice/verticalresolution/
 public Resolution VerticalResolution { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-垂直解像度.
+垂直解像度です。
 
-### 関連項目
+### 参照
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* 名前空間 [Aspose.Svg.Services](../../ideviceinformationservice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

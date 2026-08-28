@@ -1,28 +1,26 @@
 ---
-title: MutationObserverInit.CopyTo
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 方法. コピーMutationObserverInit指定された配列 index. から始まる既存の 1 次元配列への要素
+title: "MutationObserverInit.CopyTo"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit CopyTo メソッド。指定された配列インデックスから、既存の一次元配列へ MutationObserverInit 要素をコピーします。"
 type: docs
 weight: 180
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/copyto/
 ---
 ## MutationObserverInit.CopyTo method
 
-コピー[`MutationObserverInit`](../)指定された配列 index. から始まる既存の 1 次元配列への要素
+[`MutationObserverInit`](../) 要素を既存の一次元配列にコピーし、指定された配列インデックスから開始します。
 
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| array | KeyValuePair`2[] | 宛先配列。 |
+| 配列 | KeyValuePair`2[] | コピー先配列。 |
 | arrayIndex | Int32 | 開始する配列インデックス。 |
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

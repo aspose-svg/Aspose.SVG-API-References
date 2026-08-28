@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextTransform
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の texttransform プロパティ定義を参照してください
+title: "ICSS2Properties.TextTransform"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties TextTransform プロパティです。CSS2 の text-transform プロパティ定義を参照してください。"
 type: docs
-weight: 1110
+weight: 1140
 url: /ja/net/aspose.svg.dom.css/icss2properties/texttransform/
 ---
 ## ICSS2Properties.TextTransform property
 
-CSS2 の text-transform プロパティ定義を参照してください。
+CSS2 の text-transform プロパティ定義をご覧ください。
 
 ```csharp
 public string TextTransform { get; set; }
@@ -16,12 +16,10 @@ public string TextTransform { get; set; }
 
 ### 戻り値
 
-テキスト変換プロパティ
+text-transform プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

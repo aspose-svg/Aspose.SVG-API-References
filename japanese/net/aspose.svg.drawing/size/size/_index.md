@@ -1,66 +1,64 @@
 ---
-title: Size.Size
-second_title: Aspose.SVG for .NET API リファレンス
-description: Size コンストラクタ. の新しいインスタンスを初期化しますSize class.
+title: "Size"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Size コンストラクタ。Size クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-の新しいインスタンスを初期化します[`Size`](../) class.
+[`Size`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Size()
 ```
 
-### 関連項目
+### 参照
 
 * class [Size](../)
-* 名前空間 [Aspose.Svg.Drawing](../../size/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(int, int) {#constructor_2}
+## Size(*int, int*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`Size`](../)クラスを開き、高さと幅をピクセル単位で指定します。
+[`Size`](../) クラスの新しいインスタンスを初期化し、ピクセル単位で Height と Width を指定します。
 
 ```csharp
 public Size(int width, int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | width | Int32 | 幅。 |
 | height | Int32 | 高さ。 |
 
-### 関連項目
+### 参照
 
 * class [Size](../)
-* 名前空間 [Aspose.Svg.Drawing](../../size/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(Length, Length) {#constructor_1}
+## Size(*[Length](../../length/), [Length](../../length/)*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Size`](../) class.
+[`Size`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Size(Length width, Length height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | width | Length | 幅。 |
 | height | Length | 高さ。 |
 
-### 関連項目
+### 参照
 
 * class [Length](../../length/)
 * class [Size](../)
-* 名前空間 [Aspose.Svg.Drawing](../../size/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: Class License
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.License クラス. コンポーネントのライセンスを取得する方法を提供します
+title: "License クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.License クラス。コンポーネントのライセンスを付与するメソッドを提供します。"
 type: docs
-weight: 2190
+weight: 4260
 url: /ja/net/aspose.svg/license/
 ---
 ## License class
 
-コンポーネントのライセンスを取得する方法を提供します。
+コンポーネントをライセンスするためのメソッドを提供します。
 
 ```csharp
 public class License
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -24,12 +24,12 @@ public class License
 
 | 名前 | 説明 |
 | --- | --- |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(Stream) | コンポーネントのライセンスを取得します。 |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(string) | コンポーネントのライセンスを取得します。 |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(*Stream*) | コンポーネントにライセンスを付与します。 |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(*string*) | コンポーネントにライセンスを付与します。 |
 
-### 例
+## 例
 
-この例では、 を含むフォルダーで MyLicense.lic という名前のライセンス ファイルを検索しようとします。 呼び出しアセンブリを含むフォルダー内のコンポーネント、 エントリ アセンブリのフォルダー内、および呼び出しアセンブリの埋め込みリソース内のコンポーネント.
+この例では、コンポーネントが含まれるフォルダー、呼び出しアセンブリが含まれるフォルダー、エントリアセンブリのフォルダー、そして呼び出しアセンブリの埋め込みリソース内で、MyLicense.lic という名前のライセンスファイルを検索しようとします。
 
 ```csharp
 [C#]
@@ -38,16 +38,14 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-コンポーネント jar ファイル:
+コンポーネントの jar ファイル:
 
 ```csharp
 License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg](../../aspose.svg/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: LengthOrAuto.SetAuto
-second_title: Aspose.SVG for .NET API リファレンス
-description: LengthOrAuto 方法. コンテナーを状態 auto にリセットします
+title: "LengthOrAuto.SetAuto"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "LengthOrAuto SetAuto メソッド。コンテナを auto 状態にリセットします"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.drawing/lengthorauto/setauto/
 ---
 ## LengthOrAuto.SetAuto method
 
-コンテナーを状態 'auto' にリセットします。
+コンテナを状態 'auto' にリセットします。
 
 ```csharp
 public void SetAuto()
 ```
 
-### 関連項目
+### 参照
 
 * class [LengthOrAuto](../)
-* 名前空間 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

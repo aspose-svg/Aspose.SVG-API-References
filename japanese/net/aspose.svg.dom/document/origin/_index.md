@@ -1,27 +1,25 @@
 ---
-title: Document.Origin
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. ドキュメントの原点を取得します
+title: "Document.Origin"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document Origin プロパティ。ドキュメントのオリジンを取得します。"
 type: docs
 weight: 200
 url: /ja/net/aspose.svg.dom/document/origin/
 ---
 ## Document.Origin property
 
-ドキュメントの原点を取得します。
+文書のオリジンを取得します。
 
 ```csharp
 public string Origin { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-原点.
+オリジン。
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

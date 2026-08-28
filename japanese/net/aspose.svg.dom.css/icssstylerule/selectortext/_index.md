@@ -1,23 +1,21 @@
 ---
-title: ICSSStyleRule.SelectorText
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSStyleRule 財産. ルール セットのセレクターのテキスト表現実装はセレクターの解析中に重要でない空白を取り除いた可能性があります.
+title: "ICSSStyleRule.SelectorText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSStyleRule SelectorText プロパティ。ルールセットのセレクタのテキスト表現です。実装では、セレクタを解析する際に意味のない空白が除去されている可能性があります。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/icssstylerule/selectortext/
 ---
 ## ICSSStyleRule.SelectorText property
 
-ルール セットのセレクターのテキスト表現。実装は、セレクターの解析中に重要でない空白を取り除いた可能性があります.
+ルールセットのセレクタのテキスト表現です。実装はセレクタを解析する際に、重要でない空白を除去している可能性があります。
 
 ```csharp
 public string SelectorText { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssstylerule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

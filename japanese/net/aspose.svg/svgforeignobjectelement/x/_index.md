@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.X
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGForeignObjectElement 財産. 指定されたforeignObject要素の属性xに対応します
+title: "SVGForeignObjectElement.X"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGForeignObjectElement X プロパティ。指定された foreignObject 要素の属性 x に対応します"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg/svgforeignobjectelement/x/
 ---
 ## SVGForeignObjectElement.X property
 
-指定された「foreignObject」要素の属性「x」に対応します。
+指定された ‘foreignObject’ 要素の属性 ‘x’ に対応します。
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「foreignObject」要素の属性「x」.
+指定された ‘foreignObject’ 要素の属性 ‘x’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* 名前空間 [Aspose.Svg](../../svgforeignobjectelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

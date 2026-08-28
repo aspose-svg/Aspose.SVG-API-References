@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.ReleaseStream
-second_title: Aspose.SVG for .NET API リファレンス
-description: FileCreateStreamProvider 方法. ストリームを解放します
+title: "FileCreateStreamProvider.ReleaseStream"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FileCreateStreamProvider ReleaseStream メソッド。ストリームを解放します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.io/filecreatestreamprovider/releasestream/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.io/filecreatestreamprovider/releasestream/
 public void ReleaseStream(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | リリース中のストリーム。 |
+| ストリーム | Stream | 解放されるストリームです。 |
 
-### 関連項目
+### 参照
 
 * class [FileCreateStreamProvider](../)
-* 名前空間 [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

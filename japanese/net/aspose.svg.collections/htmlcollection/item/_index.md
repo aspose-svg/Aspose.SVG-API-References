@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: HTMLCollection 財産. コレクション内の index 番目のアイテムを返します index がリスト内のノード数以上の場合null が返されます
+title: "HTMLCollection.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "HTMLCollection Item プロパティ。コレクション内のインデックス番目の項目を返します。インデックスがリスト内のノード数以上の場合は null を返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.collections/htmlcollection/item/
 ---
 ## HTMLCollection indexer
 
-コレクション内の index 番目のアイテムを返します。 index がリスト内のノード数以上の場合、null が返されます。
+コレクション内の index 番目の項目を返します。index がリスト内のノード数以上の場合、null を返します。
 
 ```csharp
 public abstract Element this[int index] { get; }
@@ -16,21 +16,19 @@ public abstract Element this[int index] { get; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| index | インデックス。 |
+| インデックス | インデックス。 |
 
 ### 戻り値
 
-要素を返します.
+要素を返します。
 
-### プロパティ値
+### Property Value
 
-[`Element`](../../../aspose.svg.dom/element/) .
+この [`Element`](../../../aspose.svg.dom/element/).
 
-### 関連項目
+### 参照
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* 名前空間 [Aspose.Svg.Collections](../../htmlcollection/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

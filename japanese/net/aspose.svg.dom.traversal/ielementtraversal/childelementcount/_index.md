@@ -1,27 +1,25 @@
 ---
-title: IElementTraversal.ChildElementCount
-second_title: Aspose.SVG for .NET API リファレンス
-description: IElementTraversal 財産. この要素の子である要素ノードの現在の数を返しますこの要素に nodeType 1. の子ノードがない場合は 0
+title: "IElementTraversal.ChildElementCount"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IElementTraversal ChildElementCount プロパティ。この要素の子である要素ノードの現在の数を返します。nodeType が 1 の子ノードが無い場合は 0 です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.traversal/ielementtraversal/childelementcount/
 ---
 ## IElementTraversal.ChildElementCount property
 
-この要素の子である要素ノードの現在の数を返します。この要素に nodeType 1. の子ノードがない場合は 0
+この要素の子である要素ノードの現在の数を返します。nodeType が 1 の子ノードがない場合は 0 を返します。
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-子要素の数.
+子要素の数です。
 
-### 関連項目
+### 参照
 
 * interface [IElementTraversal](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

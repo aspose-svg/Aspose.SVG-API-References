@@ -1,25 +1,25 @@
 ---
-title: Class SVGStringList
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.DataTypes.SVGStringList クラス. SVGStringList には他の SVGxxxList インターフェイスと同じ属性とメソッドがあります実装者はさまざまな SVGxxxList インターフェイスを実装するために単一の基本クラスを使用することを検討する場合があります.
+title: "SVGStringList クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.DataTypes.SVGStringList クラス。SVGStringList は他の SVGxxxList インターフェイスと同じ属性とメソッドを持ちます。実装者はさまざまな SVGxxxList インターフェイスを実装するために単一の基底クラスを使用することを検討できるでしょう。"
 type: docs
-weight: 310
+weight: 2300
 url: /ja/net/aspose.svg.datatypes/svgstringlist/
 ---
 ## SVGStringList class
 
-SVGStringList には、他の SVGxxxList インターフェイスと同じ属性とメソッドがあります。実装者は、さまざまな SVGxxxList インターフェイスを実装するために単一の基本クラスを使用することを検討する場合があります.
+SVGStringList は他の SVGxxxList インターフェイスと同じ属性とメソッドを持ちます。実装者は、さまざまな SVGxxxList インターフェイスを実装するために単一の基底クラスの使用を検討できるでしょう。
 
 ```csharp
 public class SVGStringList : SVGListBase<string>
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [SVGStringList](svgstringlist/#constructor)() | の新しいインスタンスを初期化します`SVGStringList` class. |
-| [SVGStringList](svgstringlist/#constructor_1)(IEnumerable&lt;string&gt;) | の新しいインスタンスを初期化します`SVGStringList` class. |
+| [SVGStringList](svgstringlist/#constructor)() | `SVGStringList` クラスの新しいインスタンスを初期化します。 |
+| [SVGStringList](svgstringlist/#constructor_1)(*IEnumerable&lt;string&gt;*) | `SVGStringList` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -33,22 +33,20 @@ public class SVGStringList : SVGListBase<string>
 
 | 名前 | 説明 |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(string) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*string*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(string) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(string, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(string, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgstringlist/tostring/)() | を返しますStringこのインスタンスを表す. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*string*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*string, ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*string, ulong*) |  |
+| override [ToString](../../aspose.svg.datatypes/svgstringlist/tostring/)() | このインスタンスを表す String を返します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
-* 名前空間 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

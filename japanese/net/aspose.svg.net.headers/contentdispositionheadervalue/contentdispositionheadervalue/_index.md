@@ -1,27 +1,25 @@
 ---
-title: ContentDispositionHeaderValue.ContentDispositionHeaderValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: ContentDispositionHeaderValue コンストラクタ. この処分タイプの新しいインスタンスを作成します.
+title: "ContentDispositionHeaderValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ContentDispositionHeaderValue コンストラクタ。このディスポジションタイプの新しいインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net.headers/contentdispositionheadervalue/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue constructor
 
-この処分タイプの新しいインスタンスを作成します.
+このディスポジションタイプの新しいインスタンスを作成します。
 
 ```csharp
 public ContentDispositionHeaderValue(string dispositionType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| dispositionType | String | 処分タイプ |
+| dispositionType | String | ディスポジションタイプ |
 
-### 関連項目
+### 参照
 
 * class [ContentDispositionHeaderValue](../)
-* 名前空間 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: CSSPrimitiveValue.SetFloatValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 方法. 指定した単位で float 値を設定するメソッドこの値に関連付けられたプロパティが指定された単位または float 値を受け入れることができない場合値は変更されずDOMException が発生します
+title: "CSSPrimitiveValue.SetFloatValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue SetFloatValue メソッド。指定された単位で float 値を設定するメソッドです。もしこの値が付随するプロパティが指定された単位または float 値を受け付けない場合、値は変更されず、DOMException が発生します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/setfloatvalue/
 ---
 ## CSSPrimitiveValue.SetFloatValue method
 
-指定した単位で float 値を設定するメソッド。この値に関連付けられたプロパティが、指定された単位または float 値を受け入れることができない場合、値は変更されず、DOMException が発生します。
+指定された単位で浮動小数点値を設定するメソッドです。この値が付随するプロパティが指定された単位または浮動小数点値を受け付けない場合、値は変更されず、DOMException がスローされます。
 
 ```csharp
 public abstract void SetFloatValue(ushort unitType, float floatValue)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| unitType | UInt16 | ユニットのタイプ。 |
-| floatValue | Single | 浮動小数点値。 |
+| unitType | UInt16 | 単位の型。 |
+| floatValue | Single | float 値です。 |
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

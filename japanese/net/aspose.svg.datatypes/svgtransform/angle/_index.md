@@ -1,27 +1,25 @@
 ---
-title: SVGTransform.Angle
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTransform 財産. SVG_TRANSFORM_ROTATESVG_TRANSFORM_SKEWXおよび SVG_TRANSFORM_SKEWY の便利な属性指定された角度を保持します SVG_TRANSFORM_MATRIXSVG_TRANSFORM_TRANSLATEおよび SVG_TRANSFORM_SCALE の場合角度はゼロになります
+title: "SVGTransform.Angle"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTransform Angle プロパティ。SVG_TRANSFORM_ROTATE、SVG_TRANSFORM_SKEWX、SVG_TRANSFORM_SKEWY 用の便利な属性です。指定された角度を保持します。SVG_TRANSFORM_MATRIX、SVG_TRANSFORM_TRANSLATE、SVG_TRANSFORM_SCALE の場合、角度は 0 になります。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.datatypes/svgtransform/angle/
 ---
 ## SVGTransform.Angle property
 
-SVG_TRANSFORM_ROTATE、SVG_TRANSFORM_SKEWX、および SVG_TRANSFORM_SKEWY の便利な属性。指定された角度を保持します。 SVG_TRANSFORM_MATRIX、SVG_TRANSFORM_TRANSLATE、および SVG_TRANSFORM_SCALE の場合、角度はゼロになります。
+SVG_TRANSFORM_ROTATE、SVG_TRANSFORM_SKEWX、SVG_TRANSFORM_SKEWY 用の便利な属性です。指定された角度を保持します。SVG_TRANSFORM_MATRIX、SVG_TRANSFORM_TRANSLATE、SVG_TRANSFORM_SCALE の場合、角度は 0 になります。
 
 ```csharp
 public float Angle { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された角度.
+指定された角度です。
 
-### 関連項目
+### 参照
 
 * class [SVGTransform](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgtransform/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

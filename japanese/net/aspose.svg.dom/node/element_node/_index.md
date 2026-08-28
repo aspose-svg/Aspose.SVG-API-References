@@ -1,23 +1,21 @@
 ---
-title: Node.ELEMENT_NODE
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 分野. 要素 node
+title: "Node.ELEMENT_NODE"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node ELEMENT_NODE フィールド。要素ノードです。"
 type: docs
-weight: 380
+weight: 360
 url: /ja/net/aspose.svg.dom/node/element_node/
 ---
 ## Node.ELEMENT_NODE field
 
-要素 node
+要素ノード
 
 ```csharp
 public const ushort ELEMENT_NODE;
 ```
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

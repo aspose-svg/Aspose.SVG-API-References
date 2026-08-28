@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.FarthestViewportElement
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGGraphicsElement 財産. 最も遠い祖先の svg 要素現在の要素が最も外側の svg 要素である場合は null.
+title: "SVGGraphicsElement.FarthestViewportElement"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGGraphicsElement FarthestViewportElement プロパティ。最も遠い祖先の svg 要素を示します。現在の要素が最外層の svg 要素の場合は null になります。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/svggraphicselement/farthestviewportelement/
 ---
 ## SVGGraphicsElement.FarthestViewportElement property
 
-最も遠い祖先の 'svg' 要素。現在の要素が最も外側の svg 要素である場合は null.
+最も遠い祖先の ‘svg’ 要素。現在の要素が最上位の svg 要素である場合は Null です。
 
 ```csharp
 public SVGElement FarthestViewportElement { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最も遠いビューポート要素.
+最も遠いビューポート要素です。
 
-### 関連項目
+### 参照
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* 名前空間 [Aspose.Svg](../../svggraphicselement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

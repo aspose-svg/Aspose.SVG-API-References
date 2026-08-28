@@ -1,43 +1,41 @@
 ---
-title: Class BezierPathBuilder
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ImageVectorization.BezierPathBuilder クラス. SplinePathBuilderクラスはパス セグメントの構築を担当しますSVGPathSegトレース ポイントのリストから. このパス ビルダーは最小二乗法を使用してポイントのトレース用のベジエ コントロール ポイントを見つけることに基づいています.
+title: "BezierPathBuilder クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ImageVectorization.BezierPathBuilder クラス。BezierPathBuilder クラスは、与えられた点の集合からベジェパスを構築する役割を担います。ベジェ曲線で点のトレースを近似し、セグメント数を最適化して元のトレースにできるだけ近づけつつ、複雑さを最小限に抑えます"
 type: docs
-weight: 2080
+weight: 4150
 url: /ja/net/aspose.svg.imagevectorization/bezierpathbuilder/
 ---
 ## BezierPathBuilder class
 
-[`SplinePathBuilder`](../splinepathbuilder/)クラスは、パス セグメントの構築を担当します[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/)トレース ポイントのリストから. このパス ビルダーは、最小二乗法を使用して、ポイントのトレース用のベジエ コントロール ポイントを見つけることに基づいています.
+`BezierPathBuilder` クラスは、与えられた点の集合からベジェパスを構築する役割を担います。ベジェ曲線で点のトレースを近似し、セグメント数を最適化して元のトレースにできるだけ近づけつつ、複雑さを最小限に抑えます。
 
 ```csharp
 public class BezierPathBuilder : IPathBuilder
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [BezierPathBuilder](bezierpathbuilder/)() | の新しいインスタンスを初期化します`BezierPathBuilder` class. |
+| [BezierPathBuilder](bezierpathbuilder/)() | `BezierPathBuilder` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ErrorThreshold](../../aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/) { get; set; } | エラーしきい値を取得または設定します。 このパラメーターは、適合曲線に対する点の最大偏差を定義します。 デフォルトでは 30 です。 |
-| [MaxIterations](../../aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/) { get; set; } | エラーしきい値を取得または設定します。 このパラメーターは、最小二乗近似法の反復回数を定義します。 デフォルトでは 30 です。 |
-| [TraceSmoother](../../aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/) { get; set; } | トレースをスムーズに取得または設定します。 |
+| [ErrorThreshold](../../aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/) { get; set; } | エラースレッショルドを取得または設定します。このパラメータは点とフィットした曲線との最大偏差を定義します。デフォルトは 30 です。 |
+| [MaxIterations](../../aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/) { get; set; } | エラー閾値を取得または設定します。このパラメーターは最小二乗近似法の反復回数を定義します。デフォルトは30です。 |
+| [TraceSmoother](../../aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/) { get; set; } | トレース平滑化ツールを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | トレース ポイントのリストからパス セグメントを構築します。 |
+| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | トレースポイントのシーケンスから最適化されたベジエパスを構築します。このメソッドは、直線と曲線セグメントの組み合わせを使用して、与えられたトレースをベジエ曲線で近似します。元のトレースに密接にフィットさせながら、セグメント数を最小限に抑えることを目的としています。 |
 
-### 関連項目
+### 参照
 
 * interface [IPathBuilder](../ipathbuilder/)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

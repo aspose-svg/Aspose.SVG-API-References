@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Y
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEGaussianBlurElement 財産. 指定されたフィルター要素の属性yに対応します
+title: "SVGFEGaussianBlurElement.Y"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEGaussianBlurElement Y プロパティ。指定された filter 要素の y 属性に対応します"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.filters/svgfegaussianblurelement/y/
 ---
 ## SVGFEGaussianBlurElement.Y property
 
-指定された「フィルター」要素の属性「y」に対応します。
+指定された �filter� 要素の属性 �y� に対応します。
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「filter」要素の属性「y」。
+指定された �filter� 要素の属性 �y�。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

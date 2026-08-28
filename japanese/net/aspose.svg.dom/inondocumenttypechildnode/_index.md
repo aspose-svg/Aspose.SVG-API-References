@@ -1,14 +1,14 @@
 ---
-title: Interface INonDocumentTypeChildNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.INonDocumentTypeChildNode インターフェース. 定義IChildNodeそうではないDOCUMENT_TYPE_NODE .
+title: "INonDocumentTypeChildNode インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.INonDocumentTypeChildNode インターフェイス。DOCUMENT_TYPE_NODE ではない IChildNode を定義します。"
 type: docs
-weight: 1080
+weight: 3060
 url: /ja/net/aspose.svg.dom/inondocumenttypechildnode/
 ---
 ## INonDocumentTypeChildNode interface
 
-定義[`IChildNode`](../ichildnode/)そうではない[`DOCUMENT_TYPE_NODE`](../node/document_type_node/) .
+[`IChildNode`](../ichildnode/) が [`DOCUMENT_TYPE_NODE`](../node/document_type_node/) でないことを定義します。
 
 ```csharp
 public interface INonDocumentTypeChildNode
@@ -18,12 +18,10 @@ public interface INonDocumentTypeChildNode
 
 | 名前 | 説明 |
 | --- | --- |
-| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | 要素である最初の次の兄弟を返し、それ以外の場合は null を返します。 |
-| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | 要素である最初の前の兄弟を返し、それ以外の場合は null. |
+| [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | 要素である最初の次の兄弟要素を返し、そうでない場合は null を返します。 |
+| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | 要素である最初の前の兄弟要素を返し、そうでない場合は null を返します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

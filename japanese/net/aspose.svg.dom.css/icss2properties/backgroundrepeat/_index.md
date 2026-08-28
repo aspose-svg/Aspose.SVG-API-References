@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BackgroundRepeat
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の backgroundrepeat プロパティ定義を参照してください
+title: "ICSS2Properties.BackgroundRepeat"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties BackgroundRepeat プロパティ。CSS2 の background-repeat プロパティ定義をご覧ください"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom.css/icss2properties/backgroundrepeat/
@@ -18,10 +18,8 @@ public string BackgroundRepeat { get; set; }
 
 background-repeat プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Top
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の上部のプロパティ定義を参照してください
+title: "ICSS2Properties.Top"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Top プロパティ。CSS2 の top プロパティ定義をご覧ください"
 type: docs
-weight: 1120
+weight: 1150
 url: /ja/net/aspose.svg.dom.css/icss2properties/top/
 ---
 ## ICSS2Properties.Top property
 
-CSS2 の上部のプロパティ定義を参照してください。
+CSS2 の top プロパティ定義をご覧ください。
 
 ```csharp
 public string Top { get; set; }
@@ -16,12 +16,10 @@ public string Top { get; set; }
 
 ### 戻り値
 
-トッププロパティ
+top プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

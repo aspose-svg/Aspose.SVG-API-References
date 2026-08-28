@@ -1,24 +1,22 @@
 ---
-title: ILinkStyle.Sheet
-second_title: Aspose.SVG for .NET API リファレンス
-description: ILinkStyle 財産. 関連付けられたスタイル シートを取得します
+title: "ILinkStyle.Sheet"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ILinkStyle Sheet property. 関連付けられたスタイルシートを取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/ilinkstyle/sheet/
 ---
 ## ILinkStyle.Sheet property
 
-関連付けられたスタイル シートを取得します。
+関連付けられたスタイルシートを取得します。
 
 ```csharp
 public IStyleSheet Sheet { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IStyleSheet](../../istylesheet/)
 * interface [ILinkStyle](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../ilinkstyle/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.GetData
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITrueTypeFont 方法. フォント データでストリームを開きます呼び出し元はストリームを破棄する責任があります.
+title: "ITrueTypeFont.GetData"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITrueTypeFont GetData メソッド。フォントデータを含むストリームを開きます。呼び出し側はストリームの破棄を行う責任があります。"
 type: docs
-weight: 60
+weight: 70
 url: /ja/net/aspose.svg.drawing/itruetypefont/getdata/
 ---
 ## ITrueTypeFont.GetData method
 
-フォント データでストリームを開きます。呼び出し元は、ストリームを破棄する責任があります.
+フォントデータのストリームを開きます。呼び出し側がストリームの破棄を担当します。
 
 ```csharp
 public Stream GetData()
@@ -16,12 +16,10 @@ public Stream GetData()
 
 ### 戻り値
 
-フォントデータでストリーミング
+フォントデータを含むストリーム。
 
-### 関連項目
+### 参照
 
 * interface [ITrueTypeFont](../)
-* 名前空間 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

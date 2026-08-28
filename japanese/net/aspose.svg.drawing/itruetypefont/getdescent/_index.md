@@ -1,31 +1,29 @@
 ---
-title: ITrueTypeFont.GetDescent
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITrueTypeFont 方法. 降下をポイントで返します.
+title: "ITrueTypeFont.GetDescent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITrueTypeFont GetDescent メソッド。指定されたフォントサイズを使用して、フォントのデセント（ポイント単位）を取得します。"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.svg.drawing/itruetypefont/getdescent/
 ---
 ## ITrueTypeFont.GetDescent method
 
-降下をポイントで返します.
+指定されたフォントサイズを使用して、フォントのディセント（ポイント単位）を取得します。
 
 ```csharp
 public float GetDescent(float fontSize)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | fontSize | Single | フォントのサイズ。 |
 
 ### 戻り値
 
-ポイントの降下。
+フォントのデセント（ポイント単位）。
 
-### 関連項目
+### 参照
 
 * interface [ITrueTypeFont](../)
-* 名前空間 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: KeyboardEvent.DOM_KEY_LOCATION_STANDARD
-second_title: Aspose.SVG for .NET API リファレンス
-description: KeyboardEvent 分野. キーのアクティベーションはキーの左または右のバージョンとして区別してはならずNumLock キー以外 テンキーから発生したものではありません またはテンキーに対応する仮想キーで発生したものではありません.
+title: "KeyboardEvent.DOM_KEY_LOCATION_STANDARD"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "KeyboardEvent DOM_KEY_LOCATION_STANDARD フィールド。このキーのアクティベーションは、左または右のバージョンとして区別されてはならず、NumLock キー以外はテンキーから、またはテンキーに対応する仮想キーから発生したものではありません。"
 type: docs
 weight: 140
 url: /ja/net/aspose.svg.dom.events/keyboardevent/dom_key_location_standard/
 ---
 ## KeyboardEvent.DOM_KEY_LOCATION_STANDARD field
 
-キーのアクティベーションは、キーの左または右のバージョンとして区別してはならず、(NumLock キー以外) テンキーから発生したものではありません (または、テンキーに対応する仮想キーで発生したものではありません).
+キーのアクティベーションは、左または右のバージョンとして区別されてはならず、（NumLock キーを除き）テンキーから、またはテンキーに対応する仮想キーから発生していません。
 
 ```csharp
 public const ulong DOM_KEY_LOCATION_STANDARD;
 ```
 
-### 関連項目
+### 参照
 
 * class [KeyboardEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

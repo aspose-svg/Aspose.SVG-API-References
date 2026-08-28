@@ -1,14 +1,14 @@
 ---
-title: Enum ShadowRootMode
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.ShadowRootMode 列挙. ShadowRoot が動作できるモード.
+title: "ShadowRootMode 列挙型"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.ShadowRootMode 列挙型。ShadowRoot が動作できるモード"
 type: docs
-weight: 1190
+weight: 3190
 url: /ja/net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
 
-ShadowRoot が動作できるモード.
+ShadowRoot が動作できるモード。
 
 ```csharp
 public enum ShadowRootMode
@@ -16,14 +16,12 @@ public enum ShadowRootMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Open | `0` | 「オープン」モード. |
-| Closed | `1` | 「クローズド」モード. |
+| Open | `0` | \"open\" モード。 |
+| Closed | `1` | \"closed\" モード。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

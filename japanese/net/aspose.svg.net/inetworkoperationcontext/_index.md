@@ -1,14 +1,14 @@
 ---
-title: Interface INetworkOperationContext
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.INetworkOperationContext インターフェース. ネットワーク サービスのコンテキスト情報を提供します
+title: "INetworkOperationContext インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.INetworkOperationContext インターフェイス。ネットワークサービスのコンテキスト情報を提供します"
 type: docs
-weight: 2310
+weight: 4380
 url: /ja/net/aspose.svg.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface
 
-ネットワーク サービスのコンテキスト情報を提供します。
+ネットワーク サービスに関するコンテキスト情報を提供します。
 
 ```csharp
 public interface INetworkOperationContext
@@ -18,12 +18,10 @@ public interface INetworkOperationContext
 
 | 名前 | 説明 |
 | --- | --- |
-| [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | 要求メッセージを取得または設定します。 |
-| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | 応答メッセージを取得または設定します。 |
+| [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | リクエストメッセージを取得または設定します。 |
+| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | レスポンスメッセージを取得または設定します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

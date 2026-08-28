@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.BaseVal
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGAnimatedValue 財産. アニメーションを適用する前の指定された属性の基本値
+title: "SVGAnimatedValue-1.BaseVal"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGAnimatedValue BaseVal プロパティ。 アニメーションを適用する前の、指定された属性の基本値です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.datatypes/svganimatedvalue-1/baseval/
 ---
-## SVGAnimatedValue&lt;T&gt;.BaseVal property
+## SVGAnimatedValue<T>.BaseVal property
 
-アニメーションを適用する前の、指定された属性の基本値。
+アニメーションを適用する前の、指定された属性の基本値です。
 
 ```csharp
 public T BaseVal { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` [基本値] の場合;さもないと、`間違い` .
+`true` なら [base value]；それ以外は `false`。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

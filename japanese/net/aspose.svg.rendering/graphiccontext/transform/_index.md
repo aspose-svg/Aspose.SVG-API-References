@@ -1,27 +1,26 @@
 ---
-title: GraphicContext.Transform
-second_title: Aspose.SVG for .NET API リファレンス
-description: GraphicContext 方法. 指定された行列を乗算して現在の変換行列を変更します
+title: "GraphicContext.Transform"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GraphicContext Transform メソッド。指定された行列を掛け合わせて現在の変換行列を変更します"
 type: docs
 weight: 180
 url: /ja/net/aspose.svg.rendering/graphiccontext/transform/
 ---
 ## GraphicContext.Transform method
 
-指定された行列を乗算して、現在の変換行列を変更します。
+指定された行列を掛け算して現在の変換行列を変更します。
 
 ```csharp
-public virtual void Transform(Matrix matrix)
+public virtual void Transform(IMatrix matrix)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| matrix | Matrix | 変換マトリックス。 |
+| matrix | IMatrix | 変換行列。 |
 
-### 関連項目
+### 参照
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* 名前空間 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

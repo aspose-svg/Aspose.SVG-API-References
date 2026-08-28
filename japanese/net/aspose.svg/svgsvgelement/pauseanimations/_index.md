@@ -1,23 +1,21 @@
 ---
-title: SVGSVGElement.PauseAnimations
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGSVGElement 方法. この svg 要素に対応する SVG ドキュメント フラグメント内で定義されている現在実行中のすべてのアニメーションを一時停止 一時停止 しこのドキュメント フラグメントに対応するアニメーション クロックを一時停止が解除されるまで静止させます
+title: "SVGSVGElement.PauseAnimations"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGSVGElement PauseAnimations メソッド。 この svg 要素に対応する SVG ドキュメントフラグメント内で定義された、現在実行中のすべてのアニメーションを一時停止（＝停止）し、フラグメントに対応するアニメーション時計が再開されるまで止まったままにします"
 type: docs
 weight: 220
 url: /ja/net/aspose.svg/svgsvgelement/pauseanimations/
 ---
 ## SVGSVGElement.PauseAnimations method
 
-この 'svg' 要素に対応する SVG ドキュメント フラグメント内で定義されている、現在実行中のすべてのアニメーションを一時停止 (一時停止) し、このドキュメント フラグメントに対応するアニメーション クロックを、一時停止が解除されるまで静止させます。
+この ‘svg’ 要素に対応する SVG ドキュメントフラグメント内で定義された、現在実行中のすべてのアニメーションを一時停止（すなわち pause）し、ドキュメントフラグメントに対応するアニメーションクロックが再開されるまで停止させます。
 
 ```csharp
 public void PauseAnimations()
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGSVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgsvgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

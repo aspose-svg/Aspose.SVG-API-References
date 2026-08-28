@@ -1,7 +1,7 @@
 ---
-title: License.License
-second_title: Aspose.SVG for .NET API リファレンス
-description: License コンストラクタ. このクラスの新しいインスタンスを初期化します
+title: "ライセンス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "License コンストラクタ。 このクラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/license/license/
@@ -14,9 +14,9 @@ url: /ja/net/aspose.svg/license/license/
 public License()
 ```
 
-### 例
+## 例
 
-この例では、 を含むフォルダーで MyLicense.lic という名前のライセンス ファイルを検索しようとします。 呼び出しアセンブリを含むフォルダー内のコンポーネント、 エントリ アセンブリのフォルダー内、および呼び出しアセンブリの埋め込みリソース内のコンポーネント.
+この例では、コンポーネントが含まれるフォルダー、呼び出しアセンブリが含まれるフォルダー、エントリアセンブリのフォルダー、そして呼び出しアセンブリの埋め込みリソース内で、MyLicense.lic という名前のライセンスファイルを検索しようとします。
 
 ```csharp
 [C#]
@@ -25,17 +25,15 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-コンポーネント jar ファイル:
+コンポーネントの jar ファイル:
 
 ```csharp
 License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### 関連項目
+### 参照
 
 * class [License](../)
-* 名前空間 [Aspose.Svg](../../license/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

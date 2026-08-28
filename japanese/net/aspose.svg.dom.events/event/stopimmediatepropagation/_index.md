@@ -1,23 +1,21 @@
 ---
-title: Event.StopImmediatePropagation
-second_title: Aspose.SVG for .NET API リファレンス
-description: Event 方法. このメソッドを呼び出すとイベントが現在のイベントリスナーの後に登録されたイベントリスナーに到達するのを防ぎツリーでディスパッチされたときにイベントが他のオブジェクトに到達するのを防ぎます.
+title: "Event.StopImmediatePropagation"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Event StopImmediatePropagation メソッド。このメソッドを呼び出すと、現在のリスナーの後に登録されたすべてのイベントリスナーにイベントが届くのを防ぎ、ツリー内でディスパッチされる場合は他のオブジェクトにもイベントが届くのを防止します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.svg.dom.events/event/stopimmediatepropagation/
 ---
 ## Event.StopImmediatePropagation method
 
-このメソッドを呼び出すと、イベントが現在のイベントリスナーの後に登録されたイベントリスナーに到達するのを防ぎ、ツリーでディスパッチされたときに、イベントが他のオブジェクトに到達するのを防ぎます.
+このメソッドを呼び出すと、現在のリスナーの後に登録されたイベントリスナーにイベントが到達するのを防ぎ、ツリー内でディスパッチされた場合は他のオブジェクトへの到達も防止します。
 
 ```csharp
 public void StopImmediatePropagation()
 ```
 
-### 関連項目
+### 参照
 
 * class [Event](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../event/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

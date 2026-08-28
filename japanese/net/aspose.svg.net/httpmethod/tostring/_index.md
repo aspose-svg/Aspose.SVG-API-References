@@ -1,14 +1,14 @@
 ---
-title: HttpMethod.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: HttpMethod 方法. を返しますStringこのインスタンスを表す.
+title: "HttpMethod.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "HttpMethod ToString メソッド。このインスタンスを表す文字列を返します"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.net/httpmethod/tostring/
 ---
 ## HttpMethod.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表す String を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * class [HttpMethod](../)
-* 名前空間 [Aspose.Svg.Net](../../httpmethod/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

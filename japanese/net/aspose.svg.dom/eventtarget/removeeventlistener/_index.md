@@ -1,75 +1,73 @@
 ---
-title: EventTarget.RemoveEventListener
-second_title: Aspose.SVG for .NET API リファレンス
-description: EventTarget 方法. このメソッドを使用するとイベント ターゲットからイベント リスナーを削除できますIEventListenerから削除されますEventTargetイベントの処理中は現在のアクションによってトリガーされません. イベントリスナーは削除された後は呼び出されません.
+title: "EventTarget.RemoveEventListener"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "EventTarget RemoveEventListener メソッド。このメソッドはイベントターゲットからイベントリスナーを削除することを可能にします。イベントが処理中に IEventListener が EventTarget から削除された場合、現在のアクションではトリガーされません。イベントリスナーは削除された後は決して呼び出されません。"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.svg.dom/eventtarget/removeeventlistener/
 ---
-## RemoveEventListener(string, DOMEventHandler, bool) {#removeeventlistener}
+## RemoveEventListener(*string, [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/), bool*) {#removeeventlistener}
 
-このメソッドを使用すると、イベント ターゲットからイベント リスナーを削除できます。[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)から削除されます[`EventTarget`](../)イベントの処理中は、現在のアクションによってトリガーされません. イベントリスナーは、削除された後は呼び出されません.
+このメソッドはイベントターゲットからイベントリスナーを削除することを可能にします。イベントが処理中に [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) が [`EventTarget`](../) から削除された場合、現在のアクションではトリガーされません。イベントリスナーは削除された後は決して呼び出されません。
 
 ```csharp
 public void RemoveEventListener(string type, DOMEventHandler handler, bool useCapture)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | のイベント タイプを指定します。[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)削除されています。 |
-| handler | DOMEventHandler | の[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/)パラメータは[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)削除する必要があります。 |
-| useCapture | Boolean | 削除される EventListener がキャプチャー リスナーとして登録されているかどうかを指定します。 リスナーが 2 回登録された場合 (1 つはキャプチャーあり、もう 1 つはキャプチャーなし)、それぞれを個別に削除する必要があります。 キャプチャー リスナーの削除は、非キャプチャー バージョンには影響しません。同じリスナーの、およびその逆。 |
+| type | String | 削除される [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) のイベントタイプを指定します。 |
+| handler | DOMEventHandler | [`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) パラメータは削除される [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) を示します。 |
+| useCapture | Boolean | 削除される EventListener がキャプチャリスナーとして登録されているかどうかを指定します。リスナーが 2 回登録されている場合、1 つはキャプチャあり、もう 1 つはキャプチャなしで、各々を個別に削除する必要があります。キャプチャリスナーの削除は、同じリスナーの非キャプチャバージョンには影響せず、その逆も同様です。 |
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [EventTarget](../)
-* 名前空間 [Aspose.Svg.Dom](../../eventtarget/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RemoveEventListener(string, IEventListener) {#removeeventlistener_1}
+## RemoveEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)*) {#removeeventlistener_1}
 
-このメソッドを使用すると、イベント ターゲットからイベント リスナーを削除できます。[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)から削除されます[`EventTarget`](../)イベントの処理中は、現在のアクションによってトリガーされません. イベントリスナーは、削除された後は呼び出されません.
+このメソッドはイベントターゲットからイベントリスナーを削除することを可能にします。イベントが処理中に [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) が [`EventTarget`](../) から削除された場合、現在のアクションではトリガーされません。イベントリスナーは削除された後は決して呼び出されません。
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | のイベント タイプを指定します。[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)削除されています。 |
-| listener | IEventListener | の[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)パラメータは[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)削除する必要があります。 |
+| type | String | 削除される [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) のイベントタイプを指定します。 |
+| listener | IEventListener | この [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) パラメータは、削除される [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) を示します。 |
 
-### 関連項目
+### 参照
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* 名前空間 [Aspose.Svg.Dom](../../eventtarget/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_2}
+## RemoveEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/), bool*) {#removeeventlistener_2}
 
-このメソッドを使用すると、イベント ターゲットからイベント リスナーを削除できます。[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)から削除されます[`EventTarget`](../)イベントの処理中は、現在のアクションによってトリガーされません. イベントリスナーは、削除された後は呼び出されません.
+このメソッドはイベントターゲットからイベントリスナーを削除することを可能にします。イベントが処理中に [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) が [`EventTarget`](../) から削除された場合、現在のアクションではトリガーされません。イベントリスナーは削除された後は決して呼び出されません。
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener, bool useCapture)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | のイベント タイプを指定します。[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)削除されています。 |
-| listener | IEventListener | の[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)パラメータは[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/)削除する必要があります。 |
-| useCapture | Boolean | 削除される EventListener がキャプチャー リスナーとして登録されているかどうかを指定します。 リスナーが 2 回登録された場合 (1 つはキャプチャーあり、もう 1 つはキャプチャーなし)、それぞれを個別に削除する必要があります。 キャプチャー リスナーの削除は、非キャプチャー バージョンには影響しません。同じリスナーの、およびその逆。 |
+| type | String | 削除される [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) のイベントタイプを指定します。 |
+| listener | IEventListener | この [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) パラメータは、削除される [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) を示します。 |
+| useCapture | Boolean | 削除される EventListener がキャプチャリスナーとして登録されているかどうかを指定します。リスナーが 2 回登録されている場合、1 つはキャプチャあり、もう 1 つはキャプチャなしで、各々を個別に削除する必要があります。キャプチャリスナーの削除は、同じリスナーの非キャプチャバージョンには影響せず、その逆も同様です。 |
 
-### 関連項目
+### 参照
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* 名前空間 [Aspose.Svg.Dom](../../eventtarget/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

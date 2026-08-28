@@ -1,27 +1,31 @@
 ---
-title: Node.LocalName
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 財産. このノードの修飾名のローカル部分を返します ELEMENT_NODE および ATTRIBUTE_NODE 以外のタイプのノードおよび Document.createElement などの DOM レベル 1 メソッドで作成されたノードの場合これは常に null です
+title: "Node.LocalName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node LocalName プロパティ。このノードの修飾名のローカル部分を返します。ELEMENT_NODE および ATTRIBUTE_NODE 以外のタイプのノードや、CreateElement のような DOM Level 1 メソッドで作成されたノードの場合、常に null が返されます。"
 type: docs
-weight: 60
+weight: 50
 url: /ja/net/aspose.svg.dom/node/localname/
 ---
 ## Node.LocalName property
 
-このノードの修飾名のローカル部分を返します。 ELEMENT_NODE および ATTRIBUTE_NODE 以外のタイプのノード、および Document.createElement() などの DOM レベル 1 メソッドで作成されたノードの場合、これは常に null です。
+このノードの修飾名のローカル部分を返します。[`ELEMENT_NODE`](../element_node/) および [`ATTRIBUTE_NODE`](../attribute_node/) 以外のタイプのノードや、[`CreateElement`](../../document/createelement/) のような DOM Level 1 メソッドで作成されたノードの場合、常に null が返されます。
 
 ```csharp
 public virtual string LocalName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ローカルの名前。
+要素の修飾名のローカル部分を表す文字列です。
 
-### 関連項目
+## 備考
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-localname).
+
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

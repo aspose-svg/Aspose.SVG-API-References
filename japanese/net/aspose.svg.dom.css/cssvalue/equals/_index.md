@@ -1,37 +1,35 @@
 ---
-title: CSSValue.Equals
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSValue 方法. 指定されたObjectこのインスタンスと等しい.
+title: "CSSValue.Equals"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSValue Equals メソッド。指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.css/cssvalue/equals/
 ---
 ## CSSValue.Equals method
 
-指定されたObjectこのインスタンスと等しい.
+指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | オブジェクト | このインスタンスと比較するオブジェクトです。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い` .
+指定されたオブジェクトがこのインスタンスと等しい場合は `true`、そうでない場合は `false` です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| NullReferenceException | *obj*パラメータは null. です |
+| NullReferenceException | *obj* パラメータが null です。 |
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

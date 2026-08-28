@@ -1,14 +1,14 @@
 ---
-title: Interface IStyleSheet
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.IStyleSheet インターフェース. StyleSheet インターフェイスはあらゆるタイプのスタイル シートの抽象ベース インターフェイスです構造化ドキュメントに関連付けられた単一のスタイル シートを表します
+title: "IStyleSheet インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.IStyleSheet インターフェイス。StyleSheet インターフェイスはすべてのタイプのスタイルシートの抽象基底インターフェイスです。構造化ドキュメントに関連付けられた単一のスタイルシートを表します。"
 type: docs
-weight: 740
+weight: 2740
 url: /ja/net/aspose.svg.dom.css/istylesheet/
 ---
 ## IStyleSheet interface
 
-StyleSheet インターフェイスは、あらゆるタイプのスタイル シートの抽象ベース インターフェイスです。構造化ドキュメントに関連付けられた単一のスタイル シートを表します。
+StyleSheet インターフェイスは、あらゆるタイプのスタイルシートの抽象基底インターフェイスです。構造化ドキュメントに関連付けられた単一のスタイルシートを表します。
 
 ```csharp
 public interface IStyleSheet
@@ -18,17 +18,15 @@ public interface IStyleSheet
 
 | 名前 | 説明 |
 | --- | --- |
-| [Disabled](../../aspose.svg.dom.css/istylesheet/disabled/) { get; set; } | スタイル シートがドキュメントに適用されている場合は false。そうでない場合は true。この属性を変更すると、ドキュメントのスタイルが新たに解決される場合があります。スタイルシートは、適切なメディア定義が存在し、disabled 属性が false の場合にのみ適用されます。そのため、メディアが現在のユーザー エージェントに適用されない場合、disabled 属性は無視されます. |
-| [Href](../../aspose.svg.dom.css/istylesheet/href/) { get; } | スタイル シートがリンクされたスタイル シートの場合、その属性の値はその場所です。インライン スタイル シートの場合、この属性の値は null です。 |
-| [Media](../../aspose.svg.dom.css/istylesheet/media/) { get; } | スタイル情報の対象メディア。 |
-| [OwnerNode](../../aspose.svg.dom.css/istylesheet/ownernode/) { get; } | このスタイル シートをドキュメントに関連付けるノード。 HTML の場合、これは対応する LINK または STYLE 要素である可能性があります。 XML の場合は、リンク処理命令の可能性があります。他のスタイル シートに含まれるスタイル シートの場合、この属性の値は null. です。 |
-| [ParentStyleSheet](../../aspose.svg.dom.css/istylesheet/parentstylesheet/) { get; } | スタイル シート インクルードの概念をサポートするスタイル シート言語の場合、この属性はインクルード スタイル シートを表します (存在する場合)。スタイル シートがトップレベルのスタイル シートである場合、またはスタイル シート言語が包含をサポートしていない場合、この属性の値は null. です。 |
-| [Title](../../aspose.svg.dom.css/istylesheet/title/) { get; } | アドバイザリのタイトル。 |
-| [Type](../../aspose.svg.dom.css/istylesheet/type/) { get; } | このスタイル シートのスタイル シート言語を指定します。スタイルシート言語はコンテンツタイプとして指定されます (例: "text/css"). |
+| [Disabled](../../aspose.svg.dom.css/istylesheet/disabled/) { get; set; } | スタイルシートがドキュメントに適用されている場合は false、適用されていない場合は true です。この属性を変更すると、ドキュメントのスタイルの再解決が発生する可能性があります。スタイルシートは、適切なメディア定義が存在し、かつ disabled 属性が false の場合にのみ適用されます。そのため、メディアが現在のユーザーエージェントに適用されない場合、disabled 属性は無視されます。 |
+| [Href](../../aspose.svg.dom.css/istylesheet/href/) { get; } | スタイルシートがリンクされたスタイルシートの場合、その属性の値はその場所です。インラインスタイルシートの場合、この属性の値は null です。 |
+| [Media](../../aspose.svg.dom.css/istylesheet/media/) { get; } | スタイル情報の対象となるメディアです。 |
+| [OwnerNode](../../aspose.svg.dom.css/istylesheet/ownernode/) { get; } | このスタイルシートをドキュメントに関連付けるノードです。HTML の場合、対応する LINK または STYLE 要素になることがあります。XML の場合、リンク処理命令になることがあります。他のスタイルシートにインクルードされているスタイルシートの場合、この属性の値は null です。 |
+| [ParentStyleSheet](../../aspose.svg.dom.css/istylesheet/parentstylesheet/) { get; } | スタイルシートのインクルード概念をサポートする言語では、この属性は包含するスタイルシート（存在する場合）を表します。スタイルシートがトップレベルの場合、または言語がインクルードをサポートしない場合、この属性の値は null です。 |
+| [Title](../../aspose.svg.dom.css/istylesheet/title/) { get; } | 助言的なタイトルです。 |
+| [Type](../../aspose.svg.dom.css/istylesheet/type/) { get; } | これはこのスタイルシートのスタイルシート言語を指定します。スタイルシート言語はコンテンツタイプとして指定されます（例: "text/css"）。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

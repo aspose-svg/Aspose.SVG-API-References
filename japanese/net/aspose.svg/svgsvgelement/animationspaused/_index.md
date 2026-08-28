@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.AnimationsPaused
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGSVGElement 方法. この SVG ドキュメント フラグメントが一時停止状態にある場合は true を返します
+title: "SVGSVGElement.AnimationsPaused"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGSVGElement の AnimationsPaused メソッド。この SVG ドキュメントフラグメントが一時停止状態にある場合に true を返します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg/svgsvgelement/animationspaused/
 ---
 ## SVGSVGElement.AnimationsPaused method
 
-この SVG ドキュメント フラグメントが一時停止状態にある場合は true を返します。
+この SVG ドキュメントフラグメントが一時停止状態にある場合は true を返します。
 
 ```csharp
 public bool AnimationsPaused()
@@ -16,12 +16,10 @@ public bool AnimationsPaused()
 
 ### 戻り値
 
-この SVG ドキュメント フラグメントが一時停止状態かどうかを示すブール値。
+この SVG ドキュメントフラグメントが一時停止状態にあるかどうかを示す Boolean。
 
-### 関連項目
+### 参照
 
 * class [SVGSVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgsvgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

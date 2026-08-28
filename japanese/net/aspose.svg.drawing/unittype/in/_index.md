@@ -1,23 +1,21 @@
 ---
-title: UnitType.In
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 単位はインチです
+title: "UnitType.In"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType In フィールド。測定はインチです"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg.drawing/unittype/in/
 ---
 ## UnitType.In field
 
-単位はインチです
+測定はインチです
 
 ```csharp
 public static readonly UnitType In;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

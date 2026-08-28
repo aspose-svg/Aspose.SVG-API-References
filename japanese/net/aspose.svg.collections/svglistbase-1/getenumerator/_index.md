@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.GetEnumerator
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGListBase 方法. 列挙子を取得します
+title: "SVGListBase-1.GetEnumerator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGListBase GetEnumerator メソッド。列挙子を取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.collections/svglistbase-1/getenumerator/
 ---
-## SVGListBase&lt;T&gt;.GetEnumerator method
+## SVGListBase<T>.GetEnumerator method
 
 列挙子を取得します。
 
@@ -16,12 +16,10 @@ public IEnumerator<T> GetEnumerator()
 
 ### 戻り値
 
-アンIEnumeratorコレクションを反復処理するために使用できるオブジェクト。
+コレクションを反復処理するために使用できる IEnumerator オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

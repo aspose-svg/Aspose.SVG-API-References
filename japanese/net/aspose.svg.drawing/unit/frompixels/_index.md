@@ -1,32 +1,30 @@
 ---
-title: Unit.FromPixels
-second_title: Aspose.SVG for .NET API リファレンス
-description: Unit 方法. を返しますLengthピクセルで表されるオブジェクト.
+title: "Unit.FromPixels"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Unit FromPixels メソッド。ピクセルで表される Length オブジェクトを返します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.svg.drawing/unit/frompixels/
 ---
 ## Unit.FromPixels method
 
-を返します[`Length`](../../length/)ピクセルで表されるオブジェクト.
+ピクセルで表される[`Length`](../../length/) オブジェクトを返します。
 
 ```csharp
 public static Length FromPixels(double value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | value | Double | 値。 |
 
 ### 戻り値
 
-を返します[`Length`](../../length/)物体。
+[`Length`](../../length/) オブジェクトを返します。
 
-### 関連項目
+### 参照
 
 * class [Length](../../length/)
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

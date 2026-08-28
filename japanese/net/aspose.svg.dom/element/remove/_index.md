@@ -1,7 +1,7 @@
 ---
-title: Element.Remove
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 方法. このインスタンスを削除します
+title: "Element.Remove"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element Remove メソッド。このインスタンスを削除します。"
 type: docs
 weight: 360
 url: /ja/net/aspose.svg.dom/element/remove/
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.dom/element/remove/
 public void Remove()
 ```
 
-### 関連項目
+### 参照
 
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

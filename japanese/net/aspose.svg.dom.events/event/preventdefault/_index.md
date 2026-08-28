@@ -1,27 +1,25 @@
 ---
-title: Event.PreventDefault
-second_title: Aspose.SVG for .NET API リファレンス
-description: Event 方法. イベントがキャンセル可能な場合PreventDefaultメソッドはイベントがキャンセルされることを示すために使用されます はイベントの結果として実装によって通常実行されるデフォルト アクションが発生しないことを意味します
+title: "Event.PreventDefault"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Event PreventDefault メソッド。イベントがキャンセル可能な場合、PreventDefault メソッドはそのイベントがキャンセルされることを示すために使用され、結果として実装が通常行うデフォルトアクションは実行されません。"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg.dom.events/event/preventdefault/
 ---
 ## Event.PreventDefault method
 
-イベントがキャンセル可能な場合、`PreventDefault`メソッドは、イベントがキャンセルされることを示すために使用されます。 は、イベントの結果として実装によって通常実行されるデフォルト アクションが発生しないことを意味します。
+イベントがキャンセル可能な場合、`PreventDefault` メソッドはそのイベントがキャンセルされることを示すために使用され、結果として実装が通常行うデフォルトアクションは実行されません。
 
 ```csharp
 public void PreventDefault()
 ```
 
-### 備考
+## 備考
 
-イベント フローのいずれかの段階で、`PreventDefault`メソッドが呼び出され、イベントがキャンセルされます。 イベントに関連付けられたデフォルト アクションは発生しません。 キャンセル不可のイベントに対してこのメソッドを呼び出しても効果はありません。 1 回`PreventDefault`呼び出された後は、イベントの伝播の残りの部分で有効です. このメソッドは、イベント フローのどの段階でも使用できます.
+イベントフローの任意の段階で `PreventDefault` メソッドが呼び出された場合、イベントはキャンセルされます。イベントに関連付けられたデフォルトアクションは実行されません。キャンセル不可能なイベントに対してこのメソッドを呼び出しても効果はありません。`PreventDefault` が一度呼び出されると、イベントの伝播が残りの間ずっと有効です。このメソッドはイベントフローの任意の段階で使用できます。
 
-### 関連項目
+### 参照
 
 * class [Event](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../event/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

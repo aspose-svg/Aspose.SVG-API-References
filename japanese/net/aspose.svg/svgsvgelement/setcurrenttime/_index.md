@@ -1,27 +1,25 @@
 ---
-title: SVGSVGElement.SetCurrentTime
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGSVGElement 方法. この SVG ドキュメント フラグメントの時計を調整し新しい現在時刻を確立しますドキュメントのタイムラインが開始される前に setCurrentTime が呼び出された場合 たとえばドキュメントの SVGLoad イベントが送出される前に script 要素で実行されているスクリプトによってメソッドの最後の呼び出しでの秒の値はドキュメントがドキュメントのタイムラインが開始されるとシークします.
+title: "SVGSVGElement.SetCurrentTime"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGSVGElement SetCurrentTime メソッド。この SVG ドキュメントフラグメントの時計を調整し、新しい現在時刻を設定します。たとえば、ドキュメントの SVGLoad イベントがディスパッチされる前に script 要素内のスクリプトが実行されるなど、ドキュメントタイムラインが開始される前に setCurrentTime が呼び出された場合、メソッドの最後の呼び出しで渡された秒数が、タイムライン開始後にドキュメントがシークする時刻となります"
 type: docs
 weight: 230
 url: /ja/net/aspose.svg/svgsvgelement/setcurrenttime/
 ---
 ## SVGSVGElement.SetCurrentTime method
 
-この SVG ドキュメント フラグメントの時計を調整し、新しい現在時刻を確立します。ドキュメントのタイムラインが開始される前に setCurrentTime が呼び出された場合 (たとえば、ドキュメントの SVGLoad イベントが送出される前に 'script' 要素で実行されているスクリプトによって)、メソッドの最後の呼び出しでの秒の値は、ドキュメントがドキュメントのタイムラインが開始されると、シークします.
+この SVG ドキュメントフラグメントのクロックを調整し、新しい現在時刻を設定します。setCurrentTime がドキュメントのタイムライン開始前に呼び出された場合（例として、ドキュメントの SVGLoad イベントがディスパッチされる前に ‘script’ 要素内で実行されるスクリプトなど）、メソッドの最後の呼び出しで指定された秒数の値が、ドキュメントのタイムラインが開始したときにドキュメントがシークする時刻となります。
 
 ```csharp
 public void SetCurrentTime(float seconds)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| seconds | Single | 現在の SVG ドキュメント フラグメントの開始時刻を基準とした新しい現在時刻 (秒単位)。 |
+| 秒 | Single | 現在の SVG ドキュメントフラグメントの開始時刻からの相対秒数で示す新しい現在時刻。 |
 
-### 関連項目
+### 参照
 
 * class [SVGSVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgsvgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

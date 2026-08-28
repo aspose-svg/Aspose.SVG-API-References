@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSStyleSheet
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.ICSSStyleSheet インターフェース. CSSStyleSheet インターフェイスはCSS スタイル シートつまりコンテンツ タイプがtext/cssのスタイル シートを表すために使用される具体的なインターフェイスです
+title: "ICSSStyleSheet インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.ICSSStyleSheet インターフェイス。CSSStyleSheet インターフェイスは、CSSスタイルシート（コンテンツタイプが text/css のスタイルシート）を表す具体的なインターフェイスです。"
 type: docs
-weight: 660
+weight: 2660
 url: /ja/net/aspose.svg.dom.css/icssstylesheet/
 ---
 ## ICSSStyleSheet interface
 
-CSSStyleSheet インターフェイスは、CSS スタイル シート、つまりコンテンツ タイプが「text/css」のスタイル シートを表すために使用される具体的なインターフェイスです。
+CSSStyleSheet インターフェイスは、コンテンツタイプが "text/css" のスタイルシート、すなわち CSS スタイルシートを表す具体的なインターフェイスです。
 
 ```csharp
 public interface ICSSStyleSheet : IStyleSheet
@@ -18,20 +18,18 @@ public interface ICSSStyleSheet : IStyleSheet
 
 | 名前 | 説明 |
 | --- | --- |
-| [CSSRules](../../aspose.svg.dom.css/icssstylesheet/cssrules/) { get; } | スタイルシートに含まれるすべての CSS ルールのリスト。これには、ルール セットと @-rules. の両方が含まれます。 |
-| [OwnerRule](../../aspose.svg.dom.css/icssstylesheet/ownerrule/) { get; } | このスタイル シートが @import ルールに由来する場合、ownerRule 属性には CSSImportRule が含まれます。その場合、StyleSheet インターフェイスの ownerNode 属性は null になります。スタイル シートが要素または処理命令に由来する場合、ownerRule 属性は null になり、ownerNode 属性には Node. が含まれます。 |
+| [CSSRules](../../aspose.svg.dom.css/icssstylesheet/cssrules/) { get; } | スタイルシートに含まれるすべての CSS ルールのリストです。ルールセットと at-rule の両方が含まれます。 |
+| [OwnerRule](../../aspose.svg.dom.css/icssstylesheet/ownerrule/) { get; } | @import ルールからこのスタイルシートが来た場合、ownerRule 属性には CSSImportRule が含まれます。その場合、StyleSheet インターフェイスの ownerNode 属性は null になります。スタイルシートが要素または処理命令から来た場合、ownerRule 属性は null となり、ownerNode 属性には Node が含まれます。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [DeleteRule](../../aspose.svg.dom.css/icssstylesheet/deleterule/)(int) | スタイルシートからルールを削除するために使用されます. |
-| [InsertRule](../../aspose.svg.dom.css/icssstylesheet/insertrule/)(string, int) | スタイルシートに新しいルールを挿入するために使用されます。新しいルールがカスケードの一部になります。 |
+| [DeleteRule](../../aspose.svg.dom.css/icssstylesheet/deleterule/)(*int*) | スタイルシートからルールを削除するために使用されます。 |
+| [InsertRule](../../aspose.svg.dom.css/icssstylesheet/insertrule/)(*string, int*) | スタイルシートに新しいルールを挿入するために使用されます。新しいルールはカスケードの一部になります。 |
 
-### 関連項目
+### 参照
 
 * interface [IStyleSheet](../istylesheet/)
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Width
-second_title: Aspose.SVG for .NET API リファレンス
-description: GlyphInfo 財産. グリフの幅をポイント単位で取得します.
+title: "GlyphInfo.Width"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GlyphInfo Width プロパティ。グリフの幅（ポイント単位）を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property
 
-グリフの幅をポイント単位で取得します.
+グリフの幅（ポイント単位）を取得します。
 
 ```csharp
 public float Width { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ポイント単位の幅.
+幅（ポイント単位）。
 
-### 関連項目
+### 参照
 
 * struct [GlyphInfo](../)
-* 名前空間 [Aspose.Svg.Rendering](../../glyphinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

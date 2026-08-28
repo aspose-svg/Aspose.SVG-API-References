@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnMouseUp
-second_title: Aspose.SVG for .NET API リファレンス
-description: IGlobalEventHandlers イベント. OnMouseUp イベントのイベント ハンドラーを取得または設定します
+title: "IGlobalEventHandlers.OnMouseUp"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IGlobalEventHandlers OnMouseUp イベント。OnMouseUp イベントのハンドラを取得または設定します"
 type: docs
 weight: 300
 url: /ja/net/aspose.svg.dom/iglobaleventhandlers/onmouseup/
 ---
 ## IGlobalEventHandlers.OnMouseUp event
 
-OnMouseUp イベントのイベント ハンドラーを取得または設定します。
+OnMouseUp イベントのハンドラを取得または設定します。
 
 ```csharp
 public event DOMEventHandler OnMouseUp;
 ```
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* 名前空間 [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Location.Assign
-second_title: Aspose.SVG for .NET API リファレンス
-description: Location 方法. 指定されたページに移動します
+title: "Location.Assign"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Location Assign メソッド。指定されたページへナビゲートします"
 type: docs
-weight: 10
+weight: 100
 url: /ja/net/aspose.svg.window/location/assign/
 ---
 ## Location.Assign method
 
-指定されたページに移動します。
+指定されたページにナビゲートします。
 
 ```csharp
 public void Assign(string url)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| url | String | ナビゲートする URL。 |
+| url | String | ナビゲート先の URL。 |
 
-### 関連項目
+### 参照
 
 * class [Location](../)
-* 名前空間 [Aspose.Svg.Window](../../location/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

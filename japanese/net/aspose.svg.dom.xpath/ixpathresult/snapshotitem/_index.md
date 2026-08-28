@@ -1,38 +1,36 @@
 ---
-title: IXPathResult.SnapshotItem
-second_title: Aspose.SVG for .NET API リファレンス
-description: IXPathResult 方法. を返します索引スナップショット コレクションの 番目のアイテムもしも索引 より大きいかリスト内のノード数と等しい場合このメソッドは戻り値を返しますヌル イテレータの結果とは異なりスナップショットは無効にはなりませんが変更された場合現在の ドキュメントに対応しない場合があります.
+title: "IXPathResult.SnapshotItem"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IXPathResult SnapshotItem メソッド。スナップショットコレクションの index 番目の項目を返します。index がリスト内のノード数以上の場合、このメソッドは null を返します。イテレータ結果とは異なり、スナップショットは無効になりませんが、ドキュメントが変更された場合は現在のドキュメントと一致しない可能性があります。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom.xpath/ixpathresult/snapshotitem/
 ---
 ## IXPathResult.SnapshotItem method
 
-を返します`索引`スナップショット コレクションの 番目のアイテム。もしも`索引` より大きいか、リスト内のノード数と等しい場合、このメソッドは戻り値を返します`ヌル` イテレータの結果とは異なり、スナップショットは無効にはなりませんが、変更された場合、現在の ドキュメントに対応しない場合があります.
+スナップショットコレクションの `index` 番目の項目を返します。`index` がリスト内のノード数以上の場合、このメソッドは `null` を返します。イテレータ結果とは異なり、スナップショットは無効になりませんが、ドキュメントが変更された場合は現在のドキュメントと一致しない可能性があります。
 
 ```csharp
 public Node SnapshotItem(int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| index | Int32 | スナップショット コレクションにインデックスを付けます。 |
+| インデックス | Int32 | スナップショットコレクションへのインデックス。 |
 
 ### 戻り値
 
-のノード`索引`の 番目の位置`ノードリスト`、 また`ヌル` の場合、有効なインデックスではありません。
+`NodeList` の `index` 番目の位置にあるノード、または有効なインデックスでない場合は `null`。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: 次の場合に発生します`結果タイプ` ではありません`UnorderedNodeSnapshot`タイプまたは`OrderedNodeSnapshot`タイプ。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: `resultType` が `UnorderedNodeSnapshot` 型でも `OrderedNodeSnapshot` 型でもない場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* 名前空間 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

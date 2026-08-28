@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathElement 方法. スタンドアロンで親のない SVGPathSegCurvetoQuadraticAbs オブジェクトを返します
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathElement CreateSVGPathSegCurvetoQuadraticAbs メソッド。スタンドアロンで親を持たない SVGPathSegCurvetoQuadraticAbs オブジェクトを返します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticabs/
@@ -15,22 +15,20 @@ public SVGPathSegCurvetoQuadraticAbs CreateSVGPathSegCurvetoQuadraticAbs(float x
     float x1, float y1)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | このパス セグメントの終点の絶対 X 座標。 |
-| y | Single | このパス セグメントの終点の絶対 Y 座標。 |
-| x1 | Single | 最初のコントロール ポイントの絶対 X 座標。 |
-| y1 | Single | 最初の制御点の絶対 Y 座標。 |
+| x | Single | このパスセグメントの終点の絶対X座標。 |
+| y | Single | このパスセグメントの終点の絶対Y座標。 |
+| x1 | Single | 最初の制御点の絶対X座標。 |
+| y1 | Single | 最初の制御点の絶対Y座標。 |
 
 ### 戻り値
 
-スタンドアロンで親のない SVGPathSegCurvetoQuadraticAbs オブジェクト。
+スタンドアロンで親を持たない SVGPathSegCurvetoQuadraticAbs オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegCurvetoQuadraticAbs](../../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/)
 * class [SVGPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

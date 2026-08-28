@@ -1,14 +1,14 @@
 ---
-title: Numeric.GetValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: Numeric 方法. 単位値を取得します
+title: "Numeric.GetValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Numeric GetValue メソッド。単位値を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.drawing/numeric/getvalue/
 ---
 ## GetValue() {#getvalue}
 
-単位値を取得します。
+単位の値を取得します。
 
 ```csharp
 public double GetValue()
@@ -16,43 +16,41 @@ public double GetValue()
 
 ### 戻り値
 
-オブジェクト値.
+オブジェクトの値。
 
-### 関連項目
+### 参照
 
 * class [Numeric](../)
-* 名前空間 [Aspose.Svg.Drawing](../../numeric/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
-指定された値に変換された値を取得します[`UnitType`](../../unittype/) .
+指定された[`UnitType`](../../unittype/)に変換された値を取得します。
 
 ```csharp
 public double GetValue(UnitType unitType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| unitType | UnitType | ユニットのタイプ。 |
+| unitType | UnitType | 単位の型。 |
 
 ### 戻り値
 
-指定された型に変換された値を返します.
+指定された型に変換された値を返します。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | ユニット型 |
+| ArgumentNullException | unitType |
 
-### 関連項目
+### 参照
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* 名前空間 [Aspose.Svg.Drawing](../../numeric/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

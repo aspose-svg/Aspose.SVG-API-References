@@ -1,23 +1,21 @@
 ---
-title: IUrlSearchParams.Sort
-second_title: Aspose.SVG for .NET API リファレンス
-description: IUrlSearchParams 方法. すべての名前と値のペアがあればそれらの名前で並べ替えます
+title: "IUrlSearchParams.Sort"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IUrlSearchParams の Sort メソッド。すべての名前と値のペア（存在する場合）を名前でソートします。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg/iurlsearchparams/sort/
 ---
 ## IUrlSearchParams.Sort method
 
-すべての名前と値のペアがあれば、それらの名前で並べ替えます。
+存在するすべての名前-値ペアを名前でソートします。
 
 ```csharp
 public void Sort()
 ```
 
-### 関連項目
+### 参照
 
 * interface [IUrlSearchParams](../)
-* 名前空間 [Aspose.Svg](../../iurlsearchparams/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

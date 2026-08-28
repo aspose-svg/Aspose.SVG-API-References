@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_IN
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値は長さ インチ です値は getFloatValue メソッドを使用して取得できます
+title: "CSSPrimitiveValue.CSS_IN"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_IN フィールド。値は単位 in の長さです。値は getFloatValue メソッドを使用して取得できます。"
 type: docs
-weight: 250
+weight: 260
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_in/
 ---
 ## CSSPrimitiveValue.CSS_IN field
 
-値は長さ (インチ) です。値は getFloatValue メソッドを使用して取得できます。
+この値は長さ（in）です。 この値は getFloatValue メソッドを使用して取得できます。
 
 ```csharp
 public const ushort CSS_IN;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

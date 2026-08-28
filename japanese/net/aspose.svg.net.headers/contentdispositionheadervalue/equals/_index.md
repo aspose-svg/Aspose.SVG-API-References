@@ -1,31 +1,29 @@
 ---
-title: ContentDispositionHeaderValue.Equals
-second_title: Aspose.SVG for .NET API リファレンス
-description: ContentDispositionHeaderValue 方法. 指定されたObjectこのインスタンスと等しい.
+title: "ContentDispositionHeaderValue.Equals"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ContentDispositionHeaderValue Equals メソッド。指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.net.headers/contentdispositionheadervalue/equals/
 ---
 ## ContentDispositionHeaderValue.Equals method
 
-指定されたObjectこのインスタンスと等しい.
+指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | オブジェクト | このインスタンスと比較するオブジェクトです。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い`.
+指定されたオブジェクトがこのインスタンスと等しい場合は `true`、そうでない場合は `false` です。
 
-### 関連項目
+### 参照
 
 * class [ContentDispositionHeaderValue](../)
-* 名前空間 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

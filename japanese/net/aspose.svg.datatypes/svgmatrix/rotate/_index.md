@@ -1,7 +1,7 @@
 ---
-title: SVGMatrix.Rotate
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMatrix 方法. 現在の行列に回転変換を後置乗算し結果の行列を返します
+title: "SVGMatrix.Rotate"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMatrix Rotate メソッド。現在のマトリックスに回転変換を後置乗算し、結果のマトリックスを返します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.datatypes/svgmatrix/rotate/
@@ -14,18 +14,16 @@ url: /ja/net/aspose.svg.datatypes/svgmatrix/rotate/
 public SVGMatrix Rotate(float angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | angle | Single | 回転角度。 |
 
 ### 戻り値
 
-結果のマトリックス。
+結果の行列。
 
-### 関連項目
+### 参照
 
 * class [SVGMatrix](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgmatrix/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

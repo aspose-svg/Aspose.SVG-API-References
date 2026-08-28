@@ -1,27 +1,25 @@
 ---
-title: Notation.PublicId
-second_title: Aspose.SVG for .NET API リファレンス
-description: Notation 財産. この表記の公開識別子公開識別子が指定されていない場合これは null. です
+title: "Notation.PublicId"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Notation PublicId property. この表記の公開識別子です。公開識別子が指定されていない場合は null です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom/notation/publicid/
 ---
 ## Notation.PublicId property
 
-この表記の公開識別子。公開識別子が指定されていない場合、これは null. です。
+この表記の公開識別子。公開識別子が指定されていない場合、null です。
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-公開識別子.
+公開識別子。
 
-### 関連項目
+### 参照
 
 * class [Notation](../)
-* 名前空間 [Aspose.Svg.Dom](../../notation/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Background
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の背景プロパティ定義を参照してください
+title: "ICSS2Properties.Background"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Background プロパティ。CSS2 の background プロパティ定義を参照してください"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/icss2properties/background/
 ---
 ## ICSS2Properties.Background property
 
-CSS2 の背景プロパティ定義を参照してください。
+CSS2 の background プロパティ定義を参照してください。
 
 ```csharp
 public string Background { get; set; }
@@ -18,10 +18,8 @@ public string Background { get; set; }
 
 背景プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

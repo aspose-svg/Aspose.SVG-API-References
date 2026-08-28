@@ -1,32 +1,30 @@
 ---
-title: Document.CreateComment
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 指定された文字列でコメント ノードを作成します
+title: "Document.CreateComment"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateComment メソッド。指定された文字列から Comment ノードを作成します。"
 type: docs
 weight: 820
 url: /ja/net/aspose.svg.dom/document/createcomment/
 ---
 ## Document.CreateComment method
 
-指定された文字列でコメント ノードを作成します。
+指定された文字列を内容とする Comment ノードを作成します。
 
 ```csharp
 public Comment CreateComment(string data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| data | String | コメントデータです。 |
+| データ | String | コメントデータ。 |
 
 ### 戻り値
 
-[`Comment`](../../comment/) .
+この [`Comment`](../../comment/)。
 
-### 関連項目
+### 参照
 
 * class [Comment](../../comment/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

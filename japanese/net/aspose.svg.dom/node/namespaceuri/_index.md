@@ -1,23 +1,31 @@
 ---
-title: Node.NamespaceURI
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 財産. このノードの名前空間 URIまたは指定されていない場合は null.
+title: "Node.NamespaceURI"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node NamespaceURI プロパティ。要素の名前空間 URI を返します。要素が名前空間に属さない場合は null です。"
 type: docs
-weight: 70
+weight: 60
 url: /ja/net/aspose.svg.dom/node/namespaceuri/
 ---
 ## Node.NamespaceURI property
 
-このノードの名前空間 URI、または指定されていない場合は null.
+要素の名前空間 URI を返します。要素が名前空間に属さない場合は null を返します。
 
 ```csharp
 public virtual string NamespaceURI { get; }
 ```
 
-### 関連項目
+### Property Value
+
+要素の修飾名の名前空間 URI を表す文字列。
+
+## 備考
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-namespaceuri).
+
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

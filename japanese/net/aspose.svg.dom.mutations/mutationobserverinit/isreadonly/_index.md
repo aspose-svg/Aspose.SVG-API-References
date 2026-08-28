@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.IsReadOnly
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 財産. MutationObserverInitコレクションは変更可能です.
+title: "MutationObserverInit.IsReadOnly"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit IsReadOnly プロパティ。MutationObserverInit コレクションが変更可能かどうかを判定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/isreadonly/
 ---
 ## MutationObserverInit.IsReadOnly property
 
-[`MutationObserverInit`](../)コレクションは変更可能です.
+[`MutationObserverInit`](../) コレクションが変更可能かどうかを判定します。
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,12 +16,10 @@ public bool IsReadOnly { get; }
 
 ### 戻り値
 
-コレクションを変更できない場合は true。それ以外の場合は false。
+コレクションを変更できない場合は true、そうでない場合は false。
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

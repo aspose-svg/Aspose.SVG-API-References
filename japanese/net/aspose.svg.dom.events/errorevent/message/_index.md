@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.Message
-second_title: Aspose.SVG for .NET API リファレンス
-description: ErrorEvent 財産. メッセージ属性は初期化された値を返す必要がありますオブジェクトの作成時にこの属性を空の文字列に初期化する必要がありますエラーメッセージを表します.
+title: "ErrorEvent.Message"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ErrorEvent Message プロパティ。message 属性は初期化された値を返す必要があります。オブジェクトが作成されるとき、この属性は空文字列に初期化されなければなりません。エラーメッセージを表します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom.events/errorevent/message/
 ---
 ## ErrorEvent.Message property
 
-メッセージ属性は、初期化された値を返す必要があります。オブジェクトの作成時に、この属性を空の文字列に初期化する必要があります。エラーメッセージを表します.
+message 属性は初期化された値を返す必要があります。オブジェクト作成時にこの属性は空文字列に初期化されます。これはエラーメッセージを表します。
 
 ```csharp
 public string Message { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-メッセージ.
+メッセージ。
 
-### 関連項目
+### 参照
 
 * class [ErrorEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

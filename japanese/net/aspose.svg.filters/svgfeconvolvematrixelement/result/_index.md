@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Result
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEConvolveMatrixElement 財産. 指定されたフィルター要素の属性結果に対応します
+title: "SVGFEConvolveMatrixElement.Result"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEConvolveMatrixElement Result プロパティ。指定された filter 要素の属性 result に対応します"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg.filters/svgfeconvolvematrixelement/result/
 ---
 ## SVGFEConvolveMatrixElement.Result property
 
-指定された「フィルター」要素の属性「結果」に対応します。
+指定された ‘filter’ 要素の属性 ‘result’ に対応します。
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「フィルター」要素の属性「結果」。
+指定された ‘filter’ 要素の属性 ‘result’ です。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEConvolveMatrixElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

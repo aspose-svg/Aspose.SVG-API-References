@@ -1,23 +1,21 @@
 ---
-title: Color.Red
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 財産. color の赤のコンポーネントを表します
+title: "Color.Red"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color Red プロパティ。色の赤成分を表します"
 type: docs
 weight: 270
 url: /ja/net/aspose.svg.drawing/color/red/
 ---
 ## Color.Red property
 
-color の赤のコンポーネントを表します
+カラーの赤成分を表します
 
 ```csharp
 public float Red { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

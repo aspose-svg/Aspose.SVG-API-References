@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.SubFamilyName
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITrueTypeFont 財産. フォント サブファミリ名は同じフォント ファミリ名を持つグループ内のフォントを区別します これはスタイル イタリック斜体 と太さ ライトボールド黒など に対応するものと見なされます 太さやスタイルに特別な違いがないフォント 例 太さが中程度イタリックではなくfsSelection ビット 6 が設定されている はこの位置に文字列 Regular を格納する必要があります
+title: "ITrueTypeFont.SubFamilyName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITrueTypeFont SubFamilyName プロパティ。サブファミリー名は、同じファミリー名を持つフォント群の中でフォントを区別します。これは、イタリック、オブリーク、ウェイト（ライト、ボールド、ブラックなど）のスタイルを示すことを想定しています。ウェイトやスタイルに特別な違いがないフォントは、文字列 \"Regular\" を使用すべきです。"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.svg.drawing/itruetypefont/subfamilyname/
 ---
 ## ITrueTypeFont.SubFamilyName property
 
-フォント サブファミリ名は、同じフォント ファミリ名を持つグループ内のフォントを区別します。 これは、スタイル (イタリック、斜体) と太さ (ライト、ボールド、黒など) に対応するものと見なされます。 太さやスタイルに特別な違いがないフォント (例: 太さが中程度、イタリックではなく、fsSelection ビット 6 が設定されている) は、この位置に文字列 "Regular" を格納する必要があります。
+サブファミリー名は、同じファミリー名を持つグループ内でフォントを区別します。これはスタイル（italic、oblique）やウェイト（light、bold、black など）を示すものと想定されます。ウェイトやスタイルに特別な違いがないフォントは、文字列 "Regular" を使用すべきです。
 
 ```csharp
 public string SubFamilyName { get; }
@@ -16,12 +16,10 @@ public string SubFamilyName { get; }
 
 ### 戻り値
 
-フォントの亜科名
+フォントのサブファミリー名です。
 
-### 関連項目
+### 参照
 
 * interface [ITrueTypeFont](../)
-* 名前空間 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,31 +1,29 @@
 ---
-title: Text.ReplaceWholeText
-second_title: Aspose.SVG for .NET API リファレンス
-description: Text 方法. 現在のノードと論理的に隣接するすべてのテキスト ノードのテキストを指定されたテキストに置き換えます現在のノードが置換テキストの受信者でない限り論理的に隣接するすべてのテキスト ノードが削除されます
+title: "Text.ReplaceWholeText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Text ReplaceWholeText メソッド。現在のノードと論理的に隣接するすべてのテキストノードのテキストを指定されたテキストに置き換えます。論理的に隣接するテキストノードはすべて削除され、現在のノードも置換テキストの受取側でない限り削除されます。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom/text/replacewholetext/
 ---
 ## Text.ReplaceWholeText method
 
-現在のノードと論理的に隣接するすべてのテキスト ノードのテキストを指定されたテキストに置き換えます。現在のノードが置換テキストの受信者でない限り、論理的に隣接するすべてのテキスト ノードが削除されます。
+現在のノードと論理的に隣接するすべてのテキストノードのテキストを、指定されたテキストに置き換えます。置換テキストの受け取り側でない限り、現在のノードを含むすべての論理的に隣接するテキストノードは削除されます。
 
 ```csharp
 public Text ReplaceWholeText(string content)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | content | String | コンテンツ。 |
 
 ### 戻り値
 
-[`Text`](../) .
+この [`Text`](../)。
 
-### 関連項目
+### 参照
 
 * class [Text](../)
-* 名前空間 [Aspose.Svg.Dom](../../text/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

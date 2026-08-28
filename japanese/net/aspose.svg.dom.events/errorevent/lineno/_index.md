@@ -1,23 +1,21 @@
 ---
-title: ErrorEvent.LineNo
-second_title: Aspose.SVG for .NET API リファレンス
-description: ErrorEvent 財産. lineno 属性は初期化された値を返す必要がありますオブジェクトの作成時にこの属性をゼロに初期化する必要がありますスクリプトでエラーが発生した行番号を表します.
+title: "ErrorEvent.LineNo"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ErrorEvent LineNo プロパティ。lineno 属性は初期化時の値を返す必要があります。オブジェクト作成時にこの属性は 0 に初期化されます。スクリプト内でエラーが発生した行番号を表します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom.events/errorevent/lineno/
 ---
 ## ErrorEvent.LineNo property
 
-lineno 属性は、初期化された値を返す必要があります。オブジェクトの作成時に、この属性をゼロに初期化する必要があります。スクリプトでエラーが発生した行番号を表します.
+lineno 属性は初期化された値を返す必要があります。オブジェクト作成時にこの属性は 0 に初期化されます。これはスクリプト内でエラーが発生した行番号を表します。
 
 ```csharp
 public uint LineNo { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [ErrorEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

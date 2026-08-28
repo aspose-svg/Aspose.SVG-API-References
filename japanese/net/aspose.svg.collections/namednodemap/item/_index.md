@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: NamedNodeMap 財産. マップのインデックス番目のアイテムを返します index がこのマップ内のノード数以上の場合null が返されます
+title: "NamedNodeMap.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "NamedNodeMap Item プロパティ。マップ内のインデックス番目の項目を返します。インデックスがこのマップのノード数以上の場合、null を返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.collections/namednodemap/item/
 ---
 ## NamedNodeMap indexer (1 of 2)
 
-マップのインデックス番目のアイテムを返します。 index がこのマップ内のノード数以上の場合、null が返されます。
+マップ内のインデックス番目の項目を返します。インデックスがこのマップのノード数以上の場合、null を返します。
 
 ```csharp
 public Attr this[int index] { get; }
@@ -16,28 +16,28 @@ public Attr this[int index] { get; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| index | インデックス。 |
+| インデックス | インデックス。 |
 
 ### 戻り値
 
 ノードを返します。
 
-### プロパティ値
+### Property Value
 
-[`Attr`](../../../aspose.svg.dom/attr/) .
+[`Attr`](../../../aspose.svg.dom/attr/)です。
 
-### 関連項目
+### 参照
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* 名前空間 [Aspose.Svg.Collections](../../namednodemap/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## NamedNodeMap indexer (2 of 2)
 
-を取得します[`Attr`](../../../aspose.svg.dom/attr/)指定された名前で.
+指定された名前の [`Attr`](../../../aspose.svg.dom/attr/) を取得します。
 
 ```csharp
 public Attr this[string name] { get; }
@@ -45,21 +45,19 @@ public Attr this[string name] { get; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| name | 属性名。 |
+| 名前 | 属性名です。 |
 
 ### 戻り値
 
 ノードを返します。
 
-### プロパティ値
+### Property Value
 
-[`Attr`](../../../aspose.svg.dom/attr/) .
+[`Attr`](../../../aspose.svg.dom/attr/)です。
 
-### 関連項目
+### 参照
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* 名前空間 [Aspose.Svg.Collections](../../namednodemap/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.ApplyTransforms
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathOptimizationOptions 財産. パス セグメントに変換を適用するオプションを取得または設定しますデフォルトではfalseです
+title: "SVGPathOptimizationOptions.ApplyTransforms"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathOptimizationOptions ApplyTransforms プロパティ。パスセグメントに変換を適用するオプションを取得または設定します。デフォルトは false です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/
 ---
 ## SVGPathOptimizationOptions.ApplyTransforms property
 
-パス セグメントに変換を適用するオプションを取得または設定します。デフォルトでは「false」です。
+パスセグメントに変換を適用するオプションを取得または設定します。デフォルトは 'false' です。
 
 ```csharp
 public bool ApplyTransforms { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGPathOptimizationOptions](../)
-* 名前空間 [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

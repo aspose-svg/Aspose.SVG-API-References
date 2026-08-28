@@ -1,18 +1,16 @@
 ---
-title: Aspose.Svg.Events
-second_title: Aspose.SVG for .NET API リファレンス
-description: 名前空間はタイム イベントやズームなどのイベント ベースの対話機能用の クラスで構成されます
+title: "Aspose.Svg.Events"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "この名前空間は、時間イベントやズームなど、イベントベースのインタラクティブ性のためのクラスで構成されています。"
 type: docs
-weight: 150
+weight: 170
 url: /ja/net/aspose.svg.events/
 ---
-名前空間は、タイム イベントやズームなどのイベント ベースの対話機能用の クラスで構成されます。
+この名前空間は、時間イベントやズームなどのイベントベースのインタラクティブ機能のためのクラスで構成されています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [SVGZoomEvent](./svgzoomevent/) | ズーム イベントは、SVG ドキュメント フラグメントの現在のビューを再スケーリングするアクションをユーザーが開始したときに発生します。イベント ハンドラーは、'svg' 要素でのみ認識されます。 |
-| [TimeEvent](./timeevent/) | TimeEvent インターフェイスは、時間イベントに関連付けられた特定のコンテキスト情報を提供します。発生する可能性のあるさまざまなタイプのイベントは、beginEvent、endEvent、repeatEvent です。 |
-
-
+| [SVGZoomEvent](./svgzoomevent/) | ズーム イベントは、ユーザーが操作を開始し、SVG ドキュメント フラグメントの現在のビューが再スケーリングされると発生します。イベントハンドラは ‘svg’ 要素でのみ認識されます。 |
+| [TimeEvent](./timeevent/) | TimeEvent インターフェイスは、時間イベントに関連する特定のコンテキスト情報を提供します。発生し得るイベントの種類は、beginEvent、endEvent、repeatEvent です。 |

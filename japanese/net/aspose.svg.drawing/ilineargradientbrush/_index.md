@@ -1,14 +1,14 @@
 ---
-title: Interface ILinearGradientBrush
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Drawing.ILinearGradientBrush インターフェース. 線形グラデーションでブラシ インターフェイスを定義します
+title: "ILinearGradientBrush インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Drawing.ILinearGradientBrush インターフェイス。線形グラデーションを持つブラシのインターフェイスを定義します。"
 type: docs
-weight: 1470
+weight: 3490
 url: /ja/net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface
 
-線形グラデーションでブラシ インターフェイスを定義します。
+線形グラデーションを持つブラシのインターフェイスを定義します。
 
 ```csharp
 public interface ILinearGradientBrush : IGradientBrush
@@ -18,17 +18,11 @@ public interface ILinearGradientBrush : IGradientBrush
 
 | 名前 | 説明 |
 | --- | --- |
-| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; } | グラデーションの方向線の角度 (x 軸から時計回りに度単位で測定) を取得します。 |
-| [EndColor](../../aspose.svg.drawing/ilineargradientbrush/endcolor/) { get; } | 線形グラデーションの終了色を取得します。 |
-| [EndPoint](../../aspose.svg.drawing/ilineargradientbrush/endpoint/) { get; } | 線形グラデーションの開始点を取得します。 |
-| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; } | グラデーションの始点と終点を定義する長方形の領域を取得します。 |
-| [StartColor](../../aspose.svg.drawing/ilineargradientbrush/startcolor/) { get; } | 線形グラデーションの開始色を取得します。 |
-| [StartPoint](../../aspose.svg.drawing/ilineargradientbrush/startpoint/) { get; } | 線形グラデーションの開始点を取得します。 |
+| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; set; } | 勾配の方向線の角度を取得または設定します。角度は x 軸から時計回りに測定した度数です。 |
+| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; set; } | 勾配の開始点と終了点を定義する矩形領域を取得または設定します。 |
 
-### 関連項目
+### 参照
 
 * interface [IGradientBrush](../igradientbrush/)
-* 名前空間 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

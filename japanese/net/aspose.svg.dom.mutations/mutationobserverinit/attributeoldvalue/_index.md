@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.AttributeOldValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 財産. 属性が true または省略され変更前のターゲットの属性値を記録する必要がある場合はtrue に設定します
+title: "MutationObserverInit.AttributeOldValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit AttributeOldValue プロパティ。attributes が true に設定されているか省略され、かつ変異前の属性値を記録する必要がある場合は true に設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/attributeoldvalue/
 ---
 ## MutationObserverInit.AttributeOldValue property
 
-属性が true または省略され、変更前のターゲットの属性値を記録する必要がある場合は、true に設定します。
+attributes が true または省略され、かつ変異前のターゲットの属性値を記録する必要がある場合は true に設定します。
 
 ```csharp
 public bool AttributeOldValue { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

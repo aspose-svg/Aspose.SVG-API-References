@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Referrer
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGDocument 財産. このページにリンクしたページの URI を返しますユーザーがページに直接 リンクではなくブックマークなどを介して 移動した場合値は空の文字列です
+title: "SVGDocument.Referrer"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGDocument Referrer プロパティ。リンク元ページの URI を返します。ユーザーがリンクではなくブックマークなどで直接ページに移動した場合、値は空文字列になります。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg/svgdocument/referrer/
 ---
 ## SVGDocument.Referrer property
 
-このページにリンクしたページの URI を返します。ユーザーがページに直接 (リンクではなく、ブックマークなどを介して) 移動した場合、値は空の文字列です。
+このページにリンクしたページの URI を返します。ユーザーが直接（リンク経由ではなく、たとえばブックマーク経由で）ページに移動した場合、値は空文字列になります。
 
 ```csharp
 public string Referrer { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リファラー.
+リファラ。
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

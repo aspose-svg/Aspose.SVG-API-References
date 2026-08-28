@@ -1,42 +1,40 @@
 ---
-title: IEventTarget.DispatchEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: IEventTarget 方法. このメソッドによりイベントを実装イベント モデルにディスパッチできます
+title: "IEventTarget.DispatchEvent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IEventTarget DispatchEvent メソッド。このメソッドは実装のイベントモデルへイベントをディスパッチできるようにします。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.events/ieventtarget/dispatchevent/
 ---
 ## IEventTarget.DispatchEvent method
 
-このメソッドにより、イベントを実装イベント モデルにディスパッチできます。
+このメソッドは、実装のイベントモデルへイベントをディスパッチすることを可能にします。
 
 ```csharp
 public bool DispatchEvent(Event @event)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| event | Event | イベントの処理に使用するイベントの種類、動作、およびコンテキスト情報を指定します。 |
+| イベント | イベント | イベントの処理に使用されるイベントタイプ、動作、およびコンテキスト情報を指定します。 |
 
 ### 戻り値
 
-の戻り値[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/)呼び出されたイベントを処理したリスナーのいずれかが呼び出されたかどうかを示します[`PreventDefault`](../../event/preventdefault/). の場合[`PreventDefault`](../../event/preventdefault/)呼び出された場合、値は false です。それ以外の場合、値は true. です。
+[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) の戻り値は、イベントを処理したリスナーのいずれかが [`PreventDefault`](../../event/preventdefault/) を呼び出したかどうかを示します。[`PreventDefault`](../../event/preventdefault/) が呼び出された場合は false、そうでない場合は true が返されます。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
-### 備考
+## 備考
 
-この方法でディスパッチされたイベントは、実装によって直接ディスパッチされたイベントと同じキャプチャおよびバブリング動作を行います。 イベントのターゲットは、[`EventTarget`](../../../aspose.svg.dom/eventtarget/)どの上で[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/)と呼ばれます.
+この方法でディスパッチされたイベントは、実装が直接ディスパッチするイベントと同じキャプチャおよびバブリングの動作を持ちます。イベントのターゲットは、[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) が呼び出された [`EventTarget`](../../../aspose.svg.dom/eventtarget/) です。
 
-### 関連項目
+### 参照
 
 * class [Event](../../event/)
 * interface [IEventTarget](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

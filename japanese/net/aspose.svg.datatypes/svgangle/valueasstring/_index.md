@@ -1,34 +1,32 @@
 ---
-title: SVGAngle.ValueAsString
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGAngle 財産. unitType で表される単位の文字列値としての角度値この属性を設定すると値valueInSpecifiedUnitsおよび unitType が自動的に更新されこの設定が反映されます
+title: "SVGAngle.ValueAsString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGAngle ValueAsString プロパティ。unitType で表される単位での角度値を文字列として保持します。この属性を設定すると、value、valueInSpecifiedUnits、および unitType が自動的に更新され、この設定を反映します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.datatypes/svgangle/valueasstring/
 ---
 ## SVGAngle.ValueAsString property
 
-unitType で表される単位の文字列値としての角度値。この属性を設定すると、値、valueInSpecifiedUnits、および unitType が自動的に更新され、この設定が反映されます。
+角度の値は unitType で表される単位の文字列値です。この属性を設定すると、value、valueInSpecifiedUnits、unitType が自動的に更新され、この設定を反映します。
 
 ```csharp
 public string ValueAsString { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-文字列としての値.
+文字列としての値です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err/) 割り当てられた文字列を有効な角度として解析できない場合に発生します。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 角度が読み取り専用属性に対応する場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err/) は、割り当てられた文字列が有効な角度として解析できない場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 角度が読み取り専用属性に対応している場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGAngle](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgangle/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

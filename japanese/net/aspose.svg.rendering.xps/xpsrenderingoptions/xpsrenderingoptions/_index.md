@@ -1,23 +1,21 @@
 ---
-title: XpsRenderingOptions.XpsRenderingOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: XpsRenderingOptions コンストラクタ. デフォルトのコンストラクター
+title: "XpsRenderingOptions"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "XpsRenderingOptions コンストラクター。デフォルトコンストラクター。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering.xps/xpsrenderingoptions/xpsrenderingoptions/
 ---
 ## XpsRenderingOptions constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public XpsRenderingOptions()
 ```
 
-### 関連項目
+### 参照
 
 * class [XpsRenderingOptions](../)
-* 名前空間 [Aspose.Svg.Rendering.Xps](../../xpsrenderingoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

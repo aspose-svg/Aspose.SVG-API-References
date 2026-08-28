@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.ChildList
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 財産. ターゲットの子への突然変異が観察される場合はtrue に設定します
+title: "MutationObserverInit.ChildList"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit ChildList プロパティ。対象の子要素の変異も監視する場合は true に設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/childlist/
 ---
 ## MutationObserverInit.ChildList property
 
-ターゲットの子への突然変異が観察される場合は、true に設定します。
+ターゲットの子要素への変異を観測する場合は true に設定します。
 
 ```csharp
 public bool ChildList { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

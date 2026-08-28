@@ -1,23 +1,21 @@
 ---
-title: SVGMarkerElement.SVG_MARKER_ORIENT_UNKNOWN
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMarkerElement 分野. マーカーの向きは事前定義されたタイプの 1 つではありませんこの型の新しい値を定義しようとしたり既存の値をこの型に切り替えようとしたりすることは無効です.
+title: "SVGMarkerElement.SVG_MARKER_ORIENT_UNKNOWN"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMarkerElement SVG_MARKER_ORIENT_UNKNOWN フィールド。マーカーの方向は事前定義されたタイプのいずれでもありません。このタイプの新しい値を定義しようとしたり、既存の値をこのタイプに切り替えようとすることは無効です。"
 type: docs
 weight: 170
 url: /ja/net/aspose.svg/svgmarkerelement/svg_marker_orient_unknown/
 ---
 ## SVGMarkerElement.SVG_MARKER_ORIENT_UNKNOWN field
 
-マーカーの向きは事前定義されたタイプの 1 つではありません。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとしたりすることは無効です.
+マーカーの方向は事前定義されたタイプのいずれでもありません。このタイプの新しい値を定義しようとしたり、既存の値をこのタイプに変更しようとすることは無効です。
 
 ```csharp
 public const ushort SVG_MARKER_ORIENT_UNKNOWN;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGMarkerElement](../)
-* 名前空間 [Aspose.Svg](../../svgmarkerelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

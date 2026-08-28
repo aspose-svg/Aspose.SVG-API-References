@@ -1,14 +1,14 @@
 ---
-title: Interface IPathBuilder
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ImageVectorization.IPathBuilder インターフェース. IPathBuilder インターフェイスはパス セグメントの構築を担当しますSVGPathSegトレースポイントのリストから.
+title: "IPathBuilder インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ImageVectorization.IPathBuilder インターフェイス。IPathBuilder インターフェイスは、トレースポイントのリストからパスセグメント SVGPathSeg を構築する役割を担います。"
 type: docs
-weight: 2110
+weight: 4180
 url: /ja/net/aspose.svg.imagevectorization/ipathbuilder/
 ---
 ## IPathBuilder interface
 
-IPathBuilder インターフェイスは、パス セグメントの構築を担当します。[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/)トレースポイントのリストから.
+IPathBuilder インターフェイスは、トレースポイントのリストからパスセグメント [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) を構築する役割を担います。
 
 ```csharp
 public interface IPathBuilder
@@ -18,11 +18,9 @@ public interface IPathBuilder
 
 | 名前 | 説明 |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | トレース ポイントのリストからパス セグメントを構築します。 |
+| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | 正確な表現のために、最小限の直線およびベジエ曲線コマンドを使用して、与えられたトレースを SVG パスセグメントに最適化します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

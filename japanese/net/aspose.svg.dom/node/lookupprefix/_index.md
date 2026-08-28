@@ -1,31 +1,29 @@
 ---
-title: Node.LookupPrefix
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 方法. このノードから開始して指定された名前空間 URI に関連付けられたプレフィックスを検索しますデフォルトの名前空間宣言はこのメソッドによって無視されます このメソッドで使用されるアルゴリズムの詳細についてはネームスペース プレフィックス ルックアップを参照してください
+title: "Node.LookupPrefix"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node LookupPrefix メソッド。指定された名前空間 URI に関連付けられたプレフィックスをこのノードから検索します。このメソッドではデフォルトの名前空間宣言は無視されます。使用されるアルゴリズムの詳細については、Namespace Prefix Lookup を参照してください。"
 type: docs
-weight: 270
+weight: 250
 url: /ja/net/aspose.svg.dom/node/lookupprefix/
 ---
 ## Node.LookupPrefix method
 
-このノードから開始して、指定された名前空間 URI に関連付けられたプレフィックスを検索します。デフォルトの名前空間宣言は、このメソッドによって無視されます。 このメソッドで使用されるアルゴリズムの詳細については、ネームスペース プレフィックス ルックアップを参照してください。
+このノードから開始して、指定された名前空間 URI に関連付けられたプレフィックスを検索します。このメソッドはデフォルトの名前空間宣言を無視します。詳細なアルゴリズムについては「Namespace Prefix Lookup」を参照してください。
 
 ```csharp
 public string LookupPrefix(string namespaceURI)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| namespaceURI | String | 名前空間 URI。 |
+| namespaceURI | String | namespace URIです。 |
 
 ### 戻り値
 
-接頭辞を返します
+プレフィックスを返します
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

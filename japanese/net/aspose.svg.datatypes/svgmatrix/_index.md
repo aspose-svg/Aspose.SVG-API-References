@@ -1,14 +1,14 @@
 ---
-title: Class SVGMatrix
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.DataTypes.SVGMatrix クラス. SVG のグラフィック操作の多くは ace bdf の形式の 2x3 行列を使用します行列演算のために 3x3 行列に展開すると ace bdf 0 0 1
+title: "SVGMatrix クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.DataTypes.SVGMatrix class. 多くの SVG グラフィック操作は、a c e b d f の形の 2x3 行列を使用します。この行列は、行列演算の目的で 3x3 行列に拡張されると a c e b d f 0 0 1 となります。"
 type: docs
-weight: 240
+weight: 2230
 url: /ja/net/aspose.svg.datatypes/svgmatrix/
 ---
 ## SVGMatrix class
 
-SVG のグラフィック操作の多くは、 [ace] [bdf] の形式の 2x3 行列を使用します。行列演算のために 3x3 行列に展開すると、 [ace] [bdf] [0 0 1]
+SVG の多くのグラフィック操作は、形式が [a c e] [b d f] の 2x3 行列を使用し、行列演算のために 3x3 行列に拡張すると [a c e] [b d f] [0 0 1] になります。
 
 ```csharp
 public class SVGMatrix : SVGValueType
@@ -18,32 +18,30 @@ public class SVGMatrix : SVGValueType
 
 | 名前 | 説明 |
 | --- | --- |
-| [A](../../aspose.svg.datatypes/svgmatrix/a/) { get; set; } | 行列の A コンポーネント。 |
-| [B](../../aspose.svg.datatypes/svgmatrix/b/) { get; set; } | マトリックスの B コンポーネント。 |
-| [C](../../aspose.svg.datatypes/svgmatrix/c/) { get; set; } | 行列の C コンポーネント。 |
-| [D](../../aspose.svg.datatypes/svgmatrix/d/) { get; set; } | 行列の D コンポーネント。 |
-| [E](../../aspose.svg.datatypes/svgmatrix/e/) { get; set; } | 行列の E コンポーネント。 |
-| [F](../../aspose.svg.datatypes/svgmatrix/f/) { get; set; } | 行列の F コンポーネント。 |
+| [A](../../aspose.svg.datatypes/svgmatrix/a/) { get; set; } | 行列の A 成分です。 |
+| [B](../../aspose.svg.datatypes/svgmatrix/b/) { get; set; } | 行列の B 成分です。 |
+| [C](../../aspose.svg.datatypes/svgmatrix/c/) { get; set; } | 行列の C 成分です。 |
+| [D](../../aspose.svg.datatypes/svgmatrix/d/) { get; set; } | 行列の D 成分です。 |
+| [E](../../aspose.svg.datatypes/svgmatrix/e/) { get; set; } | 行列の E 成分です。 |
+| [F](../../aspose.svg.datatypes/svgmatrix/f/) { get; set; } | 行列の F 成分です。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply/)(SVGMatrix) | 行列の乗算を実行します。この行列は別の行列で事後乗算され、結果の新しい行列が返されます. |
-| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate/)(float) | 現在の行列に回転変換を後置乗算し、結果の行列を返します。 |
-| [Scale](../../aspose.svg.datatypes/svgmatrix/scale/)(float) | 現在の行列に均一なスケール変換を後置乗算し、結果の行列を返します. |
-| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform/)(float, float) | 現在の行列に対して不均一なスケール変換を事後乗算し、結果の行列を返します. |
-| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx/)(float) | 現在の行列にskewX変換を後置乗算し、結果の行列を返します. |
-| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy/)(float) | 現在の行列に対して、skewY 変換を事後乗算し、結果の行列を返します。 |
-| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring/)() | を返しますStringこのインスタンスを表す. |
-| [Translate](../../aspose.svg.datatypes/svgmatrix/translate/)(float, float) | 現在の行列に並進変換を後置乗算し、結果の行列を返します。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply/)(*SVGMatrix*) | 行列の乗算を実行します。この行列は別の行列で後置乗算され、結果として新しい行列が返されます。 |
+| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate/)(*float*) | 現在の行列に回転変換を後置乗算し、結果の行列を返します。 |
+| [Scale](../../aspose.svg.datatypes/svgmatrix/scale/)(*float*) | 現在の行列に均一スケール変換を後置乗算し、結果の行列を返します。 |
+| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform/)(*float, float*) | 現在の行列に非均一スケール変換を後置乗算し、結果の行列を返します。 |
+| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx/)(*float*) | 現在の行列に skewX 変換を後置乗算し、結果の行列を返します。 |
+| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy/)(*float*) | 現在の行列に skewY 変換を後置乗算し、結果の行列を返します。 |
+| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring/)() | このインスタンスを表す String を返します。 |
+| [Translate](../../aspose.svg.datatypes/svgmatrix/translate/)(*float, float*) | 現在の行列に平行移動変換を後置乗算し、結果の行列を返します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGValueType](../svgvaluetype/)
-* 名前空間 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

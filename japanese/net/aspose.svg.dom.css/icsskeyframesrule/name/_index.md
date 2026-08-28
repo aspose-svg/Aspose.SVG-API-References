@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframesRule.Name
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSKeyframesRule 財産. この属性はanimationnameプロパティで使用されるキーフレームの名前です
+title: "ICSSKeyframesRule.Name"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSKeyframesRule Name プロパティ。この属性は animation-name プロパティで使用されるキーフレームの名前です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/icsskeyframesrule/name/
 ---
 ## ICSSKeyframesRule.Name property
 
-この属性は、「animation-name」プロパティで使用されるキーフレームの名前です。
+この属性はキーフレームの名前で、‘animation-name’ プロパティで使用されます。
 
 ```csharp
 public string Name { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-名前.
+名前。
 
-### 関連項目
+### 参照
 
 * interface [ICSSKeyframesRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

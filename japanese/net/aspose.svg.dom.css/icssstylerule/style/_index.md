@@ -1,24 +1,22 @@
 ---
-title: ICSSStyleRule.Style
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSStyleRule 財産. このルール セットの宣言ブロック
+title: "ICSSStyleRule.Style"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSStyleRule Style プロパティ。このルールセットの宣言ブロックです。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/icssstylerule/style/
 ---
 ## ICSSStyleRule.Style property
 
-このルール セットの宣言ブロック。
+このルールセットの宣言ブロックです。
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSStyleRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssstylerule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

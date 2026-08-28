@@ -1,42 +1,40 @@
 ---
-title: EventTarget.DispatchEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: EventTarget 方法. このメソッドによりイベントを実装イベント モデルにディスパッチできます
+title: "EventTarget.DispatchEvent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "EventTarget DispatchEvent メソッド。指定された IEventTarget に対してイベントを同期的にディスパッチし、影響を受けた EventListeners を適切な順序で呼び出します。キャプチャフェーズやオプションのバブリングフェーズを含む通常のイベント処理規則は、DispatchEvent で手動でディスパッチされたイベントにも適用されます。"
 type: docs
-weight: 20
+weight: 30
 url: /ja/net/aspose.svg.dom/eventtarget/dispatchevent/
 ---
 ## EventTarget.DispatchEvent method
 
-このメソッドにより、イベントを実装イベント モデルにディスパッチできます。
+指定された [`IEventTarget`](../../../aspose.svg.dom.events/ieventtarget/) にイベントをディスパッチし、（同期的に）影響を受けた EventListeners を適切な順序で呼び出します。通常のイベント処理規則（キャプチャとオプションのバブリングフェーズを含む）は、[`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/) で手動でディスパッチされたイベントにも適用されます。
 
 ```csharp
 public bool DispatchEvent(Event @event)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| event | Event | イベントの処理に使用するイベントの種類、動作、およびコンテキスト情報を指定します。 |
+| イベント | イベント | イベントの処理に使用されるイベントタイプ、動作、およびコンテキスト情報を指定します。 |
 
 ### 戻り値
 
-の戻り値`DispatchEvent`呼び出されたイベントを処理したリスナーのいずれかが呼び出されたかどうかを示します[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/). の場合[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/)呼び出された場合、値は false です。それ以外の場合、値は true. です。
+`DispatchEvent` の戻り値は、イベントを処理したリスナーのいずれかが [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) を呼び出したかどうかを示します。[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) が呼び出された場合は false、そうでない場合は true です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | [DOMException](../../domexception/) |  |
 
-### 備考
+## 備考
 
-この方法でディスパッチされたイベントは、実装によって直接ディスパッチされたイベントと同じキャプチャおよびバブリング動作を行います。 イベントのターゲットは、[`EventTarget`](../)どの上で`DispatchEvent`と呼ばれます.
+この方法でディスパッチされたイベントは、実装によって直接ディスパッチされたイベントと同じキャプチャおよびバブリングの動作を持ちます。イベントのターゲットは `DispatchEvent` が呼び出された [`EventTarget`](../) です。
 
-### 関連項目
+### 参照
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [EventTarget](../)
-* 名前空間 [Aspose.Svg.Dom](../../eventtarget/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

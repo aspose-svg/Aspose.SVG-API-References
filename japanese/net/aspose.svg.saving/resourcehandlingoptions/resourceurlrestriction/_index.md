@@ -1,24 +1,22 @@
 ---
-title: ResourceHandlingOptions.ResourceUrlRestriction
-second_title: Aspose.SVG for .NET API リファレンス
-description: ResourceHandlingOptions 財産. cssjs画像などの扱うリソースのURLに適用される制限を取得または設定しますデフォルト値はSameHost .
+title: "ResourceHandlingOptions.ResourceUrlRestriction"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ResourceHandlingOptions ResourceUrlRestriction プロパティ。CSS、JS、画像などの処理対象リソースの URL に適用される制限を取得または設定します。デフォルト値は SameHost です。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/
 ---
 ## ResourceHandlingOptions.ResourceUrlRestriction property
 
-css、js、画像などの扱うリソースのURLに適用される制限を取得または設定します。デフォルト値はSameHost .
+CSS、JS、画像などの処理対象リソースの URL に適用される制限を取得または設定します。デフォルト値は SameHost です。
 
 ```csharp
 public UrlRestriction ResourceUrlRestriction { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * enum [UrlRestriction](../../urlrestriction/)
 * class [ResourceHandlingOptions](../)
-* 名前空間 [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

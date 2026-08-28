@@ -1,27 +1,25 @@
 ---
-title: SVGException.SVGException
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGException コンストラクタ. の新しいインスタンスを初期化しますSVGException class.
+title: "SVGException"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGException コンストラクタ。SVGException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-の新しいインスタンスを初期化します[`SVGException`](../) class.
+[`SVGException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SVGException(ushort code)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| code | UInt16 | エラーコード。 |
+| コード | UInt16 | エラーコード。 |
 
-### 関連項目
+### 参照
 
 * class [SVGException](../)
-* 名前空間 [Aspose.Svg](../../svgexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

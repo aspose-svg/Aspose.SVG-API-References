@@ -1,28 +1,26 @@
 ---
-title: SVGFEComponentTransferElement.Y
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEComponentTransferElement 財産. 指定されたフィルター要素の属性yに対応します
+title: "SVGFEComponentTransferElement.Y"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEComponentTransferElement Y プロパティ。指定されたフィルタ要素の属性 y に対応します"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.filters/svgfecomponenttransferelement/y/
 ---
 ## SVGFEComponentTransferElement.Y property
 
-指定された「フィルター」要素の属性「y」に対応します。
+指定された ‘filter’ 要素の属性 ‘y’ に対応します。
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「フィルター」要素の属性「y」。
+指定された ‘filter’ 要素の属性 ‘y’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEComponentTransferElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfecomponenttransferelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

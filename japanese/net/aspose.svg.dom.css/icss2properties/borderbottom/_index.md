@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BorderBottom
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の borderbottom プロパティ定義を参照してください
+title: "ICSS2Properties.BorderBottom"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties BorderBottom プロパティ。CSS2 の border-bottom プロパティ定義を参照してください"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom.css/icss2properties/borderbottom/
@@ -18,10 +18,8 @@ public string BorderBottom { get; set; }
 
 border-bottom プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

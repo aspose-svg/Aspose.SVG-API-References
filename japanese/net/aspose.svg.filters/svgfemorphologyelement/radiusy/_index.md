@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.RadiusY
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEMorphologyElement 財産. 指定されたfeMorphology要素の属性radiusに対応します
+title: "SVGFEMorphologyElement.RadiusY"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEMorphologyElement RadiusY プロパティ。指定された feMorphology 要素の属性 radius に対応します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.filters/svgfemorphologyelement/radiusy/
 ---
 ## SVGFEMorphologyElement.RadiusY property
 
-指定された「feMorphology」要素の属性「radius」に対応します。
+指定された ‘feMorphology’ 要素の属性 ‘radius’ に対応します。
 
 ```csharp
 public SVGAnimatedNumber RadiusY { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「feMorphology」要素の属性「半径」。
+指定された ‘feMorphology’ 要素の属性 ‘radius’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEMorphologyElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: ICSSPageRule.Style
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSPageRule 財産. このルールの宣言ブロック
+title: "ICSSPageRule.Style"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSPageRule Style プロパティ。このルールの宣言ブロックです。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/icsspagerule/style/
 ---
 ## ICSSPageRule.Style property
 
-このルールの宣言ブロック。
+このルールの宣言ブロックです。
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSPageRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

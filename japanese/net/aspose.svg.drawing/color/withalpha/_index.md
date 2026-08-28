@@ -1,31 +1,29 @@
 ---
-title: Color.WithAlpha
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 指定されたアルファ コンポーネントで Color のコピーを作成します
+title: "Color.WithAlpha"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color WithAlpha メソッド。指定されたアルファ成分を持つ Color のコピーを作成します"
 type: docs
 weight: 450
 url: /ja/net/aspose.svg.drawing/color/withalpha/
 ---
 ## Color.WithAlpha method
 
-指定されたアルファ コンポーネントで Color のコピーを作成します。
+指定されたアルファ成分を持つ Color のコピーを作成します。
 
 ```csharp
 public Color WithAlpha(float alpha)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| alpha | Single | アルファ成分の値 |
+| アルファ | Single | アルファ成分の値 |
 
 ### 戻り値
 
-の新しいインスタンス[`Color`](../)クラス
+[`Color`](../) クラスの新しいインスタンスです
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

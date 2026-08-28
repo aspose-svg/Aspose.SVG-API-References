@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Width
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGRectElement 財産. 指定された rect 要素の属性 width に対応します
+title: "SVGRectElement.Width"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGRectElement Width プロパティ。指定された rect 要素の属性 width に対応します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg/svgrectelement/width/
 ---
 ## SVGRectElement.Width property
 
-指定された 'rect' 要素の属性 'width' に対応します。
+指定された ‘rect’ 要素の属性 ‘width’ に対応します。
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「rect」要素の属性「幅」。
+指定された ‘rect’ 要素の属性 ‘width’ です。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* 名前空間 [Aspose.Svg](../../svgrectelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

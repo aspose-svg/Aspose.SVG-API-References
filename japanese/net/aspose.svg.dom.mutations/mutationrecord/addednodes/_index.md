@@ -1,7 +1,7 @@
 ---
-title: MutationRecord.AddedNodes
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationRecord 財産. 追加されたノードを返します
+title: "MutationRecord.AddedNodes"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationRecord AddedNodes プロパティ。追加されたノードを返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
 public NodeList AddedNodes { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-追加されたノード。
+追加されたノードです。
 
-### 関連項目
+### 参照
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

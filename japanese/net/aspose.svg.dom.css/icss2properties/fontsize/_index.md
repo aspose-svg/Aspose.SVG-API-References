@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontSize
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の fontsize プロパティの定義を参照してください
+title: "ICSS2Properties.FontSize"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties FontSize プロパティ。CSS2 の font-size プロパティ定義を参照してください。"
 type: docs
 weight: 490
 url: /ja/net/aspose.svg.dom.css/icss2properties/fontsize/
 ---
 ## ICSS2Properties.FontSize property
 
-CSS2 の font-size プロパティの定義を参照してください。
+CSS2 の font-size プロパティの定義をご覧ください。
 
 ```csharp
 public string FontSize { get; set; }
@@ -18,10 +18,8 @@ public string FontSize { get; set; }
 
 font-size プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,35 +1,33 @@
 ---
-title: Class StencilConfiguration
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ImageVectorization.StencilConfiguration クラス. StencilConfigurationクラスはステンシル効果オプションの構成を定義します.
+title: "StencilConfiguration クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ImageVectorization.StencilConfiguration クラス。StencilConfiguration クラスは、ステンシル効果オプションの構成を定義します。"
 type: docs
-weight: 2170
+weight: 4240
 url: /ja/net/aspose.svg.imagevectorization/stencilconfiguration/
 ---
 ## StencilConfiguration class
 
-`StencilConfiguration`クラスは、ステンシル効果オプションの構成を定義します.
+`StencilConfiguration` クラスは、ステンシル効果オプションの構成を定義します。
 
 ```csharp
 public class StencilConfiguration
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [StencilConfiguration](stencilconfiguration/)() | の新しいインスタンスを初期化します`StencilConfiguration` class. |
+| [StencilConfiguration](stencilconfiguration/)() | `StencilConfiguration` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | MonoColor タイプのステンシル ラインをレンダリングするための色を取得または設定します。 |
-| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | を取得または設定します[`StencilType`](../stenciltype/) . |
+| [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | MonoColor タイプのステンシルラインを描画する色を取得または設定します。 |
+| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | [`StencilType`](../stenciltype/) を取得または設定します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

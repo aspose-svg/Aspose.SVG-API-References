@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.FontStyle
-second_title: Aspose.SVG for .NET API リファレンス
-description: GraphicContext 財産. テキストのフォント スタイルを設定または取得します
+title: "GraphicContext.FontStyle"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GraphicContext FontStyle プロパティ。テキストのフォントスタイルを設定または取得します。"
 type: docs
-weight: 60
+weight: 70
 url: /ja/net/aspose.svg.rendering/graphiccontext/fontstyle/
 ---
 ## GraphicContext.FontStyle property
 
-テキストのフォント スタイルを設定または取得します。
+テキストのフォントスタイルを設定または取得します。
 
 ```csharp
-public virtual FontStyle FontStyle { get; set; }
+public virtual WebFontStyle FontStyle { get; set; }
 ```
 
-### 関連項目
+### 参照
 
+* enum [WebFontStyle](../../../aspose.svg.drawing/webfontstyle/)
 * class [GraphicContext](../)
-* 名前空間 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: TypeInfo.DERIVATION_RESTRICTION
-second_title: Aspose.SVG for .NET API リファレンス
-description: TypeInfo 分野. ドキュメントのスキーマが XML スキーマ XML スキーマ パート 1 の場合この定数は複合型が含まれる場合は制限による派生を表し単純型が含まれる場合は制限を表します
+title: "TypeInfo.DERIVATION_RESTRICTION"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "TypeInfo DERIVATION_RESTRICTION フィールド。ドキュメントのスキーマが XML Schema Part 1 の場合、この定数は複合型が関与する場合は制限による派生、単純型が関与する場合は制限そのものを表します"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom/typeinfo/derivation_restriction/
 ---
 ## TypeInfo.DERIVATION_RESTRICTION field
 
-ドキュメントのスキーマが XML スキーマ [XML スキーマ パート 1] の場合、この定数は、複合型が含まれる場合は制限による派生を表し、単純型が含まれる場合は制限を表します。
+ドキュメントのスキーマが XML スキーマ [XML Schema Part 1] の場合、この定数は、複合型が関与している場合は制限による派生、単純型が関与している場合は制限を表します。
 
 ```csharp
 public const ulong DERIVATION_RESTRICTION;
 ```
 
-### 関連項目
+### 参照
 
 * class [TypeInfo](../)
-* 名前空間 [Aspose.Svg.Dom](../../typeinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

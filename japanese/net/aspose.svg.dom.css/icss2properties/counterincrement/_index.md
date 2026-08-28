@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.CounterIncrement
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の counterincrement プロパティの定義を参照してください
+title: "ICSS2Properties.CounterIncrement"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties CounterIncrement プロパティ。CSS2 の counter-increment プロパティ定義を参照してください。"
 type: docs
 weight: 360
 url: /ja/net/aspose.svg.dom.css/icss2properties/counterincrement/
 ---
 ## ICSS2Properties.CounterIncrement property
 
-CSS2 の counter-increment プロパティの定義を参照してください。
+CSS2 の counter-increment プロパティの定義をご覧ください。
 
 ```csharp
 public string CounterIncrement { get; set; }
@@ -18,10 +18,8 @@ public string CounterIncrement { get; set; }
 
 counter-increment プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

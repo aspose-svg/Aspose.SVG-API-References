@@ -1,7 +1,7 @@
 ---
-title: MouseEvent.ShiftKey
-second_title: Aspose.SVG for .NET API リファレンス
-description: MouseEvent 財産. shiftKey 属性を参照してください
+title: "MouseEvent.ShiftKey"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MouseEvent ShiftKey プロパティ。shiftKey 属性を参照してください。"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg.dom.events/mouseevent/shiftkey/
@@ -14,14 +14,12 @@ shiftKey 属性を参照してください。
 public bool ShiftKey { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` [シフトキー]の場合;さもないと、`間違い` .
+`true` は [shift key] の場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

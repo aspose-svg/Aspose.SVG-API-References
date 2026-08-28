@@ -1,27 +1,25 @@
 ---
-title: CSSPrimitiveValue.PrimitiveType
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 財産. 上記で指定された定数によって定義された値のタイプ
+title: "CSSPrimitiveValue.PrimitiveType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue PrimitiveType プロパティ。上記で指定された定数により定義された値のタイプです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/primitivetype/
 ---
 ## CSSPrimitiveValue.PrimitiveType property
 
-上記で指定された定数によって定義された値のタイプ。
+上記で指定された定数により定義された値のタイプです。
 
 ```csharp
 public ushort PrimitiveType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-プリミティブのタイプ。
+プリミティブの型です。
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

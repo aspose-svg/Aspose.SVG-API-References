@@ -1,23 +1,31 @@
 ---
-title: Node.LastChild
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 財産. このノードの最後の子そのようなノードがない場合これは null. を返します
+title: "Node.LastChild"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node LastChild プロパティ。ノードの最後の子を返します。親が要素である場合、子は通常要素ノード、テキストノード、またはコメントノードのいずれかです。子要素が存在しない場合は null を返します。"
 type: docs
-weight: 50
+weight: 40
 url: /ja/net/aspose.svg.dom/node/lastchild/
 ---
 ## Node.LastChild property
 
-このノードの最後の子。そのようなノードがない場合、これは null. を返します。
+ノードの最後の子ノードを返します。親が要素の場合、子は通常要素ノード、テキストノード、またはコメントノードです。子要素がない場合は null を返します。
 
 ```csharp
 public Node LastChild { get; }
 ```
 
-### 関連項目
+### Property Value
+
+ノードの最後の子である [`Node`](../) 、子要素がない場合は null です。
+
+## 備考
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-lastchild).
+
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

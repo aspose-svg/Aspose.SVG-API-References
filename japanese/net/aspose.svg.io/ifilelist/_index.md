@@ -1,14 +1,14 @@
 ---
-title: Interface IFileList
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.IO.IFileList インターフェース. ファイルのリストのインターフェイスを表します
+title: "IFileList インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.IO.IFileList インターフェイス。ファイル一覧を表すインターフェイスです。"
 type: docs
-weight: 1950
+weight: 4060
 url: /ja/net/aspose.svg.io/ifilelist/
 ---
 ## IFileList interface
 
-ファイルのリストのインターフェイスを表します。
+ファイル一覧のインターフェイスを表します。
 
 ```csharp
 public interface IFileList : IEnumerable<IFile>
@@ -19,12 +19,10 @@ public interface IFileList : IEnumerable<IFile>
 | 名前 | 説明 |
 | --- | --- |
 | [Item](../../aspose.svg.io/ifilelist/item/) { get; } | リスト内のインデックス番目のファイルを返します。 |
-| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | ファイルのリストの長さを返します。 |
+| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | ファイル一覧の長さを返します。 |
 
-### 関連項目
+### 参照
 
 * interface [IFile](../ifile/)
-* 名前空間 [Aspose.Svg.IO](../../aspose.svg.io/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

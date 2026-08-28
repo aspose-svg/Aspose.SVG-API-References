@@ -1,23 +1,21 @@
 ---
-title: PdfDocumentInfo.Creator
-second_title: Aspose.SVG for .NET API リファレンス
-description: PdfDocumentInfo 財産. 元のドキュメントを作成した製品の名前.
+title: "PdfDocumentInfo.Creator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PdfDocumentInfo Creator プロパティ。元のドキュメントを作成した製品の名前"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.rendering.pdf/pdfdocumentinfo/creator/
 ---
 ## PdfDocumentInfo.Creator property
 
-元のドキュメントを作成した製品の名前.
+元のドキュメントを作成した製品の名前。
 
 ```csharp
 public string Creator { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [PdfDocumentInfo](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

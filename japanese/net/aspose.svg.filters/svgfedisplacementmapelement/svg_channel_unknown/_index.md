@@ -1,23 +1,21 @@
 ---
-title: SVGFEDisplacementMapElement.SVG_CHANNEL_UNKNOWN
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEDisplacementMapElement 分野. タイプは定義済みのタイプではありませんこの型の新しい値を定義しようとしたり既存の値をこの型に切り替えようとしたりすることは無効です.
+title: "SVGFEDisplacementMapElement.SVG_CHANNEL_UNKNOWN"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEDisplacementMapElement SVG_CHANNEL_UNKNOWN フィールド。この型は事前定義された型のいずれでもありません。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとすることは無効です。"
 type: docs
 weight: 150
 url: /ja/net/aspose.svg.filters/svgfedisplacementmapelement/svg_channel_unknown/
 ---
 ## SVGFEDisplacementMapElement.SVG_CHANNEL_UNKNOWN field
 
-タイプは定義済みのタイプではありません。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとしたりすることは無効です.
+この型は事前定義された型のいずれでもありません。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとしたりすることは無効です。
 
 ```csharp
 public const ushort SVG_CHANNEL_UNKNOWN;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGFEDisplacementMapElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

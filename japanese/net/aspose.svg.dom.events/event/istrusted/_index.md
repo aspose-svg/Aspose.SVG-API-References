@@ -1,27 +1,25 @@
 ---
-title: Event.IsTrusted
-second_title: Aspose.SVG for .NET API リファレンス
-description: Event 財産. isTrusted 属性は初期化された値を返す必要がありますイベントが作成されたら属性を false. に初期化する必要があります
+title: "Event.IsTrusted"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Event IsTrusted プロパティ。isTrusted 属性は初期化された値を返す必要があります。イベントが作成されると、属性は false に初期化されなければなりません。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom.events/event/istrusted/
 ---
 ## Event.IsTrusted property
 
-isTrusted 属性は、初期化された値を返す必要があります。イベントが作成されたら、属性を false. に初期化する必要があります。
+isTrusted 属性は初期化された値を返す必要があります。イベント作成時にこの属性は false に初期化されます。
 
 ```csharp
 public bool IsTrusted { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが信頼されている場合。さもないと、`間違い` .
+`true` はこのインスタンスが信頼できる場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [Event](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../event/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

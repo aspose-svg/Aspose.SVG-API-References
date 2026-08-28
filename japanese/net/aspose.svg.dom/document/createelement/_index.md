@@ -1,32 +1,30 @@
 ---
-title: Document.CreateElement
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 指定されたタイプの要素を作成します返されたインスタンスは Element インターフェイスを実装しているため返されたオブジェクトで属性を直接指定できることに注意してください
+title: "Document.CreateElement"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateElement メソッド。localName で指定された HTML 要素を作成します。localName が認識されない場合は HTMLUnknownElement を返します"
 type: docs
 weight: 850
 url: /ja/net/aspose.svg.dom/document/createelement/
 ---
 ## Document.CreateElement method
 
-指定されたタイプの要素を作成します。返されたインスタンスは Element インターフェイスを実装しているため、返されたオブジェクトで属性を直接指定できることに注意してください。
+localName で指定された HTML 要素を作成します。localName が認識されない場合は HTMLUnknownElement を作成します。
 
 ```csharp
 public Element CreateElement(string localName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| localName | String | タグの名前。 |
+| localName | String | 作成する要素のタイプを指定する文字列です。作成された要素の nodeName は localName の値で初期化されます。このメソッドでは修飾名（例: "html:a"）を使用しないでください。HTML ドキュメント上で呼び出すと、createElement() は localName を小文字に変換してから要素を作成します。 |
 
 ### 戻り値
 
-[`Element`](../../element/) .
+新しい [`Element`](../../element/)です。
 
-### 関連項目
+### 参照
 
 * class [Element](../../element/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

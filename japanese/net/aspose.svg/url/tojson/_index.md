@@ -1,14 +1,14 @@
 ---
-title: Url.ToJson
-second_title: Aspose.SVG for .NET API リファレンス
-description: Url 方法. を返しますStringこのインスタンスを表す.
+title: "Url.ToJson"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Url ToJson メソッド。このインスタンスを表す文字列を返します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg/url/tojson/
 ---
 ## Url.ToJson method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表す String を返します。
 
 ```csharp
 public string ToJson()
@@ -16,12 +16,10 @@ public string ToJson()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

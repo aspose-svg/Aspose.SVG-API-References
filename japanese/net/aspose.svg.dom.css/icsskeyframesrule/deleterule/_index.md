@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframesRule.DeleteRule
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSKeyframesRule 方法. deleteRule メソッドは渡されたキーで CSSKeyframeRule を削除しますこのキーを持つルールが存在しない場合メソッドは何もしません
+title: "ICSSKeyframesRule.DeleteRule"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSKeyframesRule DeleteRule メソッド。deleteRule メソッドは、渡されたキーを持つ CSSKeyframeRule を削除します。そのキーに対応するルールが存在しない場合、メソッドは何もしません。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.css/icsskeyframesrule/deleterule/
 ---
 ## ICSSKeyframesRule.DeleteRule method
 
-deleteRule メソッドは、渡されたキーで CSSKeyframeRule を削除します。このキーを持つルールが存在しない場合、メソッドは何もしません
+deleteRule メソッドは、渡されたキーを持つ CSSKeyframeRule を削除します。そのキーのルールが存在しない場合、メソッドは何もしません。
 
 ```csharp
 public void DeleteRule(string key)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| key | String | 削除するルールを記述するキー。キーは 0 から 1 の間の数値に解決される必要があります。そうでない場合、ルールは無視されます |
+| キー | String | 削除対象のルールを示すキー。キーは 0 から 1 の間の数値に解決できなければならず、そうでない場合はルールは無視されます。 |
 
-### 関連項目
+### 参照
 
 * interface [ICSSKeyframesRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

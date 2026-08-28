@@ -1,23 +1,21 @@
 ---
-title: INodeIterator.Detach
-second_title: Aspose.SVG for .NET API リファレンス
-description: INodeIterator 方法. 反復した セットから NodeIterator を切り離しすべての計算リソースを解放し iterator を INVALID 状態にします detach が呼び出された後 nextNode または previousNode を呼び出すと 例外 INVALID_STATE_ERR. が発生します
+title: "INodeIterator.Detach"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "INodeIterator Detach メソッド。NodeIterator を反復したセットから切り離し、計算リソースを解放してイテレータを INVALID 状態にします。detach が呼び出された後、nextNode や previousNode を呼び出すと例外 INVALID_STATE_ERR が発生します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.traversal/inodeiterator/detach/
 ---
 ## INodeIterator.Detach method
 
-反復した セットから NodeIterator を切り離し、すべての計算リソースを解放し、 iterator を INVALID 状態にします。 detach が呼び出された後、 nextNode または previousNode を呼び出すと、 例外 INVALID_STATE_ERR. が発生します
+NodeIterator を反復したセットから切り離し、計算リソースを解放し、イテレータを INVALID 状態にします。detach が呼び出された後、nextNode または previousNode の呼び出しは例外 INVALID_STATE_ERR を発生させます。
 
 ```csharp
 public void Detach()
 ```
 
-### 関連項目
+### 参照
 
 * interface [INodeIterator](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

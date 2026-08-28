@@ -1,32 +1,30 @@
 ---
-title: Document.QuerySelector
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. セレクター に一致するドキュメント内の最初の要素を返します
+title: "Document.QuerySelector"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document QuerySelector メソッド。セレクタに一致するドキュメント内の最初の要素を返します。"
 type: docs
-weight: 1020
+weight: 1030
 url: /ja/net/aspose.svg.dom/document/queryselector/
 ---
 ## Document.QuerySelector method
 
-セレクター に一致する、ドキュメント内の最初の要素を返します
+セレクタに一致するドキュメント内の最初の Element を返します。
 
 ```csharp
 public Element QuerySelector(string selector)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| selector | String | セレクター。 |
+| セレクタ | String | セレクタです。 |
 
 ### 戻り値
 
-一致したノード。
+一致したノードです。
 
-### 関連項目
+### 参照
 
 * class [Element](../../element/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

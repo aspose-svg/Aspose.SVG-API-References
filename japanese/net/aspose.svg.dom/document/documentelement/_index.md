@@ -1,28 +1,26 @@
 ---
-title: Document.DocumentElement
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. これはドキュメントのドキュメント要素である子ノードに直接アクセスできる便利な属性です
+title: "Document.DocumentElement"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document DocumentElement プロパティ。これは、ドキュメントのドキュメント要素である子ノードへ直接アクセスできる便利な属性です。"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg.dom/document/documentelement/
 ---
 ## Document.DocumentElement property
 
-これは、ドキュメントのドキュメント要素である子ノードに直接アクセスできる便利な属性です。
+これは、文書のドキュメント要素である子ノードへ直接アクセスできる便利な属性です。
 
 ```csharp
 public Element DocumentElement { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメント要素.
+ドキュメント要素です。
 
-### 関連項目
+### 参照
 
 * class [Element](../../element/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Enum StencilType
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ImageVectorization.StencilType 列挙. StencilType enum はステンシル タイプを定義します
+title: "StencilType 列挙体"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ImageVectorization.StencilType 列挙体。StencilType 列挙体はステンシルタイプを定義します。"
 type: docs
-weight: 2180
+weight: 4250
 url: /ja/net/aspose.svg.imagevectorization/stenciltype/
 ---
 ## StencilType enumeration
 
-`StencilType` enum はステンシル タイプを定義します。
+`StencilType` 列挙体はステンシルタイプを定義します。
 
 ```csharp
 public enum StencilType
@@ -16,15 +16,13 @@ public enum StencilType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | ステンシル効果は適用されません. |
-| MonoColor | `1` | ステンシル ラインのレンダリングには 1 色のみが使用されます。 |
-| Auto | `2` | ステンシル ラインをレンダリングするための色は、自動的に検出されます。 |
+| None | `0` | ステンシル効果は適用されません。 |
+| MonoColor | `1` | ステンシルラインの描画には1色だけが使用されます。 |
+| Auto | `2` | ステンシルラインの描画色は自動的に検出されます。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

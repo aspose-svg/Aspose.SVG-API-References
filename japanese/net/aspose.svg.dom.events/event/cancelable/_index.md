@@ -1,23 +1,21 @@
 ---
-title: Event.Cancelable
-second_title: Aspose.SVG for .NET API リファレンス
-description: Event 財産. イベントのデフォルト アクションを防止できるかどうかを示すために使用されますデフォルト アクションを防止できる場合値は true でありそれ以外の場合値は false. です
+title: "Event.Cancelable"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Event Cancelable プロパティ。イベントのデフォルトアクションを防止できるかどうかを示すために使用されます。デフォルトアクションを防止できる場合は true、そうでない場合は false です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.events/event/cancelable/
 ---
 ## Event.Cancelable property
 
-イベントのデフォルト アクションを防止できるかどうかを示すために使用されます。デフォルト アクションを防止できる場合、値は true であり、それ以外の場合、値は false. です。
+イベントのデフォルトアクションを防止できるかどうかを示すために使用します。デフォルトアクションが防止できる場合は true、そうでない場合は false です。
 
 ```csharp
 public bool Cancelable { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Event](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../event/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

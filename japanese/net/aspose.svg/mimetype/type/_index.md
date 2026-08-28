@@ -1,27 +1,25 @@
 ---
-title: MimeType.Type
-second_title: Aspose.SVG for .NET API リファレンス
-description: MimeType 財産. メディア タイプを取得します
+title: "MimeType.Type"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MimeType Type プロパティ。メディアタイプを取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg/mimetype/type/
 ---
 ## MimeType.Type property
 
-メディア タイプを取得します。
+メディアタイプを取得します。
 
 ```csharp
 public string Type { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-メディアの種類.
+メディアタイプ。
 
-### 関連項目
+### 参照
 
 * class [MimeType](../)
-* 名前空間 [Aspose.Svg](../../mimetype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

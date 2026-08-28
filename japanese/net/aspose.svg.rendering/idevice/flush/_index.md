@@ -1,7 +1,7 @@
 ---
-title: IDevice.Flush
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDevice 方法. すべてのデータを出力ストリームにフラッシュします
+title: "IDevice.Flush"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDevice Flush メソッド。すべてのデータを出力ストリームにフラッシュします"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg.rendering/idevice/flush/
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.rendering/idevice/flush/
 public void Flush()
 ```
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../)
-* 名前空間 [Aspose.Svg.Rendering](../../idevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGMatrix.A
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMatrix 財産. 行列の A コンポーネント
+title: "SVGMatrix.A"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMatrix A プロパティ。行列の A 成分。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.datatypes/svgmatrix/a/
 ---
 ## SVGMatrix.A property
 
-行列の A コンポーネント。
+行列の A 成分です。
 
 ```csharp
 public float A { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-行列の A コンポーネント。
+行列の A 成分です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 読み取り専用属性の値を変更しようとすると発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。読み取り専用属性の値を変更しようとしたときに発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGMatrix](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgmatrix/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

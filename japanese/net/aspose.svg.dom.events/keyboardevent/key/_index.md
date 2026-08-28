@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.Key
-second_title: Aspose.SVG for .NET API リファレンス
-description: KeyboardEvent 財産. キーは押されたキーのキー値を保持します値が印刷された表現である場合この仕様で定義されているキー値を決定するためのアルゴリズムに準拠する空でない Unicode 文字列でなければなりません値が印刷された表現を持たない制御キーである場合キー値を決定するためのアルゴリズムによって決定されるようにキー値セットで定義されたキー値の 1 つである必要がありますキーを識別できない実装ではキー値 Unidentified. を使用する必要があります
+title: "KeyboardEvent.Key"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "KeyboardEvent Key プロパティ。key は押されたキーのキー値を保持します。値に印字可能な表現がある場合、必ずこの仕様で定義されたキー値を決定するアルゴリズムに従う空でない Unicode 文字列でなければなりません。印字可能な表現がない制御キーの場合、キー値決定アルゴリズムで決定されたキー値セットに定義されているキー値のいずれかでなければなりません。キーを特定できない実装は、キー値として Unidentified を使用しなければなりません。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom.events/keyboardevent/key/
 ---
 ## KeyboardEvent.Key property
 
-キーは、押されたキーのキー値を保持します。値が印刷された表現である場合、この仕様で定義されているキー値を決定するためのアルゴリズムに準拠する、空でない Unicode 文字列でなければなりません。値が印刷された表現を持たない制御キーである場合、キー値を決定するためのアルゴリズムによって決定されるように、キー値セットで定義されたキー値の 1 つである必要があります。キーを識別できない実装では、キー値 Unidentified. を使用する必要があります。
+キーは、押されたキーのキー値を保持します。値に印字可能な表現がある場合は、空でない Unicode 文字列でなければならず、本仕様で定義されたキー値を決定するアルゴリズムに従う必要があります。印字可能な表現を持たない制御キーの場合は、キー値決定アルゴリズムに基づいて定義されたキー値セットのいずれかでなければなりません。キーを特定できない実装は、キー値として Unidentified を使用しなければなりません。
 
 ```csharp
 public string Key { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-キー値.
+キー値です。
 
-### 関連項目
+### 参照
 
 * class [KeyboardEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

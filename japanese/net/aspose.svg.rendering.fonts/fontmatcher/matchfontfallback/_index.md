@@ -1,34 +1,32 @@
 ---
-title: FontMatcher.MatchFontFallback
-second_title: Aspose.SVG for .NET API リファレンス
-description: FontMatcher 方法. このメソッドは適切なフォントがフォント ルックアップ フォルダーに見つからない場合に呼び出されますfontMatchingPropertiesレンダリングできるcharCode またヌルそのようなフォントが利用できない場合.
+title: "FontMatcher.MatchFontFallback"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FontMatcher MatchFontFallback メソッド。このメソッドはフォント検索フォルダーで適切なフォントが見つからない場合に呼び出されます。fontMatchingProperties に基づいて charCode をレンダリングできる TrueType フォントを返すか、利用可能なフォントがない場合は null を返す必要があります。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/
 ---
 ## FontMatcher.MatchFontFallback method
 
-このメソッドは、適切なフォントがフォント ルックアップ フォルダーに見つからない場合に呼び出されます。*fontMatchingProperties*レンダリングできる*charCode*、 また`ヌル`そのようなフォントが利用できない場合.
+フォント検索フォルダーに適切なフォントが見つからない場合にこのメソッドが呼び出されます。*fontMatchingProperties* に基づいて *charCode* をレンダリングできる真のタイプのフォントを返すか、該当フォントが利用できない場合は `null` を返す必要があります。
 
 ```csharp
 public abstract byte[] MatchFontFallback(FontMatchingProperties fontMatchingProperties, 
-    uint charCode)
+    int charCode)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| fontMatchingProperties | FontMatchingProperties | 一致したフォントのプロパティ。 |
-| charCode | UInt32 | 一致したフォントを使用してレンダリングされる文字のコード。 |
+| fontMatchingProperties | FontMatchingProperties | マッチしたフォントのプロパティ。 |
+| charCode | Int32 | マッチしたフォントでレンダリングされる文字のコード。 |
 
 ### 戻り値
 
-フォントデータを含むバイト配列または`ヌル`.
+フォントデータを含むバイト配列、または `null`。
 
-### 関連項目
+### 参照
 
 * class [FontMatchingProperties](../../fontmatchingproperties/)
 * class [FontMatcher](../)
-* 名前空間 [Aspose.Svg.Rendering.Fonts](../../fontmatcher/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

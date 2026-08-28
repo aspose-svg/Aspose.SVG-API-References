@@ -1,14 +1,14 @@
 ---
-title: ITreeWalker.NextSibling
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITreeWalker 方法. TreeWalker を current ノードの次の兄弟に移動し新しいノードを返します現在のノードに visible 次の兄弟がない場合はnull を返し現在のノードを保持します
+title: "ITreeWalker.NextSibling"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITreeWalker NextSibling メソッド。TreeWalker を現在のノードの次の兄弟ノードに移動し、新しいノードを返します。現在のノードに表示可能な次の兄弟がない場合は null を返し、現在のノードを保持します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom.traversal/itreewalker/nextsibling/
 ---
 ## ITreeWalker.NextSibling method
 
-TreeWalker を current ノードの次の兄弟に移動し、新しいノードを返します。現在のノードに visible 次の兄弟がない場合は、null を返し、現在のノードを保持します。
+TreeWalker を現在のノードの次の兄弟ノードへ移動し、新しいノードを返します。現在のノードに表示可能な次の兄弟ノードがない場合は null を返し、現在のノードを保持します。
 
 ```csharp
 public Node NextSibling()
@@ -16,13 +16,11 @@ public Node NextSibling()
 
 ### 戻り値
 
-新しいノード、または現在のノードに no 次の兄弟がない場合は null。 TreeWalker の論理ビューで.
+新しいノード、または TreeWalker の論理ビューで現在のノードに次の兄弟がない場合は null。
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

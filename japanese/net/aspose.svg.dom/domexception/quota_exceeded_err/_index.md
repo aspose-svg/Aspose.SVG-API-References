@@ -1,23 +1,21 @@
 ---
-title: DOMException.QUOTA_EXCEEDED_ERR
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMException 分野. クォータを超えました
+title: "DOMException.QUOTA_EXCEEDED_ERR"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMException QUOTA_EXCEEDED_ERR フィールド。クォータが超過しました"
 type: docs
 weight: 230
 url: /ja/net/aspose.svg.dom/domexception/quota_exceeded_err/
 ---
 ## DOMException.QUOTA_EXCEEDED_ERR field
 
-クォータを超えました。
+クォータが超過しました。
 
 ```csharp
 public const ushort QUOTA_EXCEEDED_ERR;
 ```
 
-### 関連項目
+### 参照
 
 * class [DOMException](../)
-* 名前空間 [Aspose.Svg.Dom](../../domexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

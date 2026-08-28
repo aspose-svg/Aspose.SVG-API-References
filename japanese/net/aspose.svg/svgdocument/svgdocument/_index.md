@@ -1,402 +1,400 @@
 ---
-title: SVGDocument.SVGDocument
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGDocument コンストラクタ. の新しいインスタンスを初期化しますSVGDocument class.
+title: "SVGDocument"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGDocument コンストラクタ。SVGDocument クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/svgdocument/svgdocument/
 ---
 ## SVGDocument() {#constructor}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../) class.
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SVGDocument()
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Configuration) {#constructor_1}
+## SVGDocument(*[Configuration](../../configuration/)*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../) class.
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SVGDocument(Configuration configuration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| configuration | Configuration | 構成。 |
+| 構成 | 構成 | 構成です。 |
 
-### 関連項目
+### 参照
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string) {#constructor_10}
+## SVGDocument(*string*) {#constructor_10}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(string address)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| address | String | ドキュメントのアドレス。現在のディレクトリ パスと組み合わせて、絶対 URL を形成します。 |
+| address | String | ドキュメントのアドレス。現在のディレクトリパスと結合され、絶対 URL が形成されます。 |
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Url) {#constructor_4}
+## SVGDocument(*[Url](../../url/)*) {#constructor_4}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(Url url)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| url | Url | ドキュメントの URL。 |
+| url | Url | ドキュメントの URLです。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Configuration) {#constructor_11}
+## SVGDocument(*string, [Configuration](../../configuration/)*) {#constructor_11}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(string address, Configuration configuration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| address | String | ドキュメントのアドレス。現在のディレクトリ パスと組み合わせて、絶対 URL を形成します。 |
-| configuration | Configuration | 構成。 |
+| address | String | ドキュメントのアドレス。現在のディレクトリパスと結合され、絶対 URL が形成されます。 |
+| 構成 | 構成 | 構成です。 |
 
-### 関連項目
+### 参照
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Url, Configuration) {#constructor_5}
+## SVGDocument(*[Url](../../url/), [Configuration](../../configuration/)*) {#constructor_5}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(Url url, Configuration configuration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| url | Url | ドキュメントの URL。 |
-| configuration | Configuration | 構成。 |
+| url | Url | ドキュメントの URLです。 |
+| 構成 | 構成 | 構成です。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, string) {#constructor_8}
+## SVGDocument(*Stream, string*) {#constructor_8}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/). ドキュメントの読み込みは、ストリーム内の現在の位置から開始されます.
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。ドキュメントの読み込みはストリームの現在位置から開始されます。
 
 ```csharp
 public SVGDocument(Stream content, string baseUri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | Stream | ドキュメントの内容。 |
-| baseUri | String | ドキュメントのベース URI。現在のディレクトリ パスと組み合わせて、絶対 URL を形成します。 |
+| content | Stream | ドキュメントの内容です。 |
+| baseUri | String | ドキュメントのベース URI。現在のディレクトリパスと結合され、絶対 URL が形成されます。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | `baseUri`は`ヌル`. |
+| ArgumentNullException | `baseUri` は `null`です。 |
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, string, Configuration) {#constructor_9}
+## SVGDocument(*Stream, string, [Configuration](../../configuration/)*) {#constructor_9}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/). ドキュメントの読み込みは、ストリーム内の現在の位置から開始されます.
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。ドキュメントの読み込みはストリームの現在位置から開始されます。
 
 ```csharp
 public SVGDocument(Stream content, string baseUri, Configuration configuration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | Stream | ドキュメントの内容。 |
-| baseUri | String | ドキュメントのベース URI。現在のディレクトリ パスと組み合わせて、絶対 URL を形成します。 |
-| configuration | Configuration | 構成。 |
+| content | Stream | ドキュメントの内容です。 |
+| baseUri | String | ドキュメントのベース URI。現在のディレクトリパスと結合され、絶対 URL が形成されます。 |
+| 構成 | 構成 | 構成です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | `baseUri`は`ヌル`. |
+| ArgumentNullException | `baseUri` は `null`です。 |
 
-### 関連項目
+### 参照
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, Url) {#constructor_6}
+## SVGDocument(*Stream, [Url](../../url/)*) {#constructor_6}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/). ドキュメントの読み込みは、ストリーム内の現在の位置から開始されます.
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。ドキュメントの読み込みはストリームの現在位置から開始されます。
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | Stream | ドキュメントの内容。 |
+| content | Stream | ドキュメントの内容です。 |
 | baseUri | Url | ドキュメントのベース URI。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | `baseUri`は`ヌル`. |
+| ArgumentNullException | `baseUri` は `null`です。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, Url, Configuration) {#constructor_7}
+## SVGDocument(*Stream, [Url](../../url/), [Configuration](../../configuration/)*) {#constructor_7}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/). ドキュメントの読み込みは、ストリーム内の現在の位置から開始されます.
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。ドキュメントの読み込みはストリームの現在位置から開始されます。
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | Stream | ドキュメントの内容。 |
+| content | Stream | ドキュメントの内容です。 |
 | baseUri | Url | ドキュメントのベース URI。 |
-| configuration | Configuration | 構成。 |
+| 構成 | 構成 | 構成です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | `baseUri`は`ヌル`. |
+| ArgumentNullException | `baseUri` は `null`です。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, string) {#constructor_14}
+## SVGDocument(*string, string*) {#constructor_14}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(string content, string baseUri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | String | ドキュメントの内容。 |
-| baseUri | String | ドキュメントのベース URI。現在のディレクトリ パスと組み合わせて、絶対 URL を形成します。 |
+| content | String | ドキュメントの内容です。 |
+| baseUri | String | ドキュメントのベース URI。現在のディレクトリパスと結合され、絶対 URL が形成されます。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | `baseUri`は`ヌル`. |
+| ArgumentNullException | `baseUri` は `null`です。 |
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, string, Configuration) {#constructor_15}
+## SVGDocument(*string, string, [Configuration](../../configuration/)*) {#constructor_15}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(string content, string baseUri, Configuration configuration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | String | ドキュメントの内容。 |
-| baseUri | String | ドキュメントのベース URI。現在のディレクトリ パスと組み合わせて、絶対 URL を形成します。 |
-| configuration | Configuration | 構成。 |
+| content | String | ドキュメントの内容です。 |
+| baseUri | String | ドキュメントのベース URI。現在のディレクトリパスと結合され、絶対 URL が形成されます。 |
+| 構成 | 構成 | 構成です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | `baseUri`は`ヌル`. |
+| ArgumentNullException | `baseUri` は `null`です。 |
 
-### 関連項目
+### 参照
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Url) {#constructor_12}
+## SVGDocument(*string, [Url](../../url/)*) {#constructor_12}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(string content, Url baseUri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | String | ドキュメントの内容。 |
+| content | String | ドキュメントの内容です。 |
 | baseUri | Url | ドキュメントのベース URI。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | `baseUri`は`ヌル`. |
+| ArgumentNullException | `baseUri` は `null`です。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Url, Configuration) {#constructor_13}
+## SVGDocument(*string, [Url](../../url/), [Configuration](../../configuration/)*) {#constructor_13}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(string content, Url baseUri, Configuration configuration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | String | ドキュメントの内容。 |
+| content | String | ドキュメントの内容です。 |
 | baseUri | Url | ドキュメントのベース URI。 |
-| configuration | Configuration | 構成。 |
+| 構成 | 構成 | 構成です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | `baseUri`は`ヌル`. |
+| ArgumentNullException | `baseUri` は `null`です。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(RequestMessage) {#constructor_2}
+## SVGDocument(*[RequestMessage](../../../aspose.svg.net/requestmessage/)*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(RequestMessage request)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | request | RequestMessage | リクエスト。 |
 
-### 関連項目
+### 参照
 
 * class [RequestMessage](../../../aspose.svg.net/requestmessage/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(RequestMessage, Configuration) {#constructor_3}
+## SVGDocument(*[RequestMessage](../../../aspose.svg.net/requestmessage/), [Configuration](../../configuration/)*) {#constructor_3}
 
-の新しいインスタンスを初期化します[`SVGDocument`](../)クラス。コンストラクターは同期的に動作し、すべての外部リソース (画像、スクリプトなど) の読み込みを待機します。 ドキュメントを非同期的に読み込むには、メソッドを使用します。[`Navigate`](../../../aspose.svg.dom/document/navigate/)またはそのオーバーロード. または、適切なフラグを設定することにより、一部の外部リソースのロードを無効にすることができます[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+[`SVGDocument`](../) クラスの新しいインスタンスを初期化します。コンストラクタは同期的に動作し、すべての外部リソース（画像、スクリプト等）の読み込みが完了するまで待機します。ドキュメントを非同期に読み込むにはメソッド [`Navigate`](../../../aspose.svg.dom/document/navigate/) またはそのオーバーロードを使用します。また、[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) で適切なフラグを設定することで、一部の外部リソースの読み込みを無効にすることもできます。
 
 ```csharp
 public SVGDocument(RequestMessage request, Configuration configuration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | request | RequestMessage | リクエスト。 |
-| configuration | Configuration | 構成。 |
+| 構成 | 構成 | 構成です。 |
 
-### 関連項目
+### 参照
 
 * class [RequestMessage](../../../aspose.svg.net/requestmessage/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,111 +1,109 @@
 ---
-title: Margin.Margin
-second_title: Aspose.SVG for .NET API リファレンス
-description: Margin コンストラクタ. の新しいインスタンスを初期化しますMargin class.
+title: "余白"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Margin コンストラクタ。Margin クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
 
-の新しいインスタンスを初期化します[`Margin`](../) class.
+[`Margin`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Margin()
 ```
 
-### 関連項目
+### 参照
 
 * class [Margin](../)
-* 名前空間 [Aspose.Svg.Drawing](../../margin/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int) {#constructor_3}
+## Margin(*int*) {#constructor_3}
 
-の新しいインスタンスを初期化します[`Margin`](../) class.
+[`Margin`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Margin(int anyMargin)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| anyMargin | Int32 | 任意の余白サイズ。 |
+| anyMargin | Int32 | 任意の余白サイズです。 |
 
-### 関連項目
+### 参照
 
 * class [Margin](../)
-* 名前空間 [Aspose.Svg.Drawing](../../margin/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length) {#constructor_1}
+## Margin(*[Length](../../length/)*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Margin`](../) class.
+[`Margin`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Margin(Length anyMargin)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| anyMargin | Length | 任意の余白サイズ。 |
+| anyMargin | Length | 任意の余白サイズです。 |
 
-### 関連項目
+### 参照
 
 * class [Length](../../length/)
 * class [Margin](../)
-* 名前空間 [Aspose.Svg.Drawing](../../margin/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int, int, int, int) {#constructor_4}
+## Margin(*int, int, int, int*) {#constructor_4}
 
-の新しいインスタンスを初期化します[`Margin`](../) class.
+[`Margin`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Margin(int left, int top, int right, int bottom)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| left | Int32 | 左のサイズ。 |
-| top | Int32 | トップサイズ。 |
-| right | Int32 | 適切なサイズ。 |
-| bottom | Int32 | 底のサイズ。 |
+| left | Int32 | 左側のサイズです。 |
+| top | Int32 | 上側のサイズです。 |
+| right | Int32 | 右側のサイズです。 |
+| bottom | Int32 | 下側のサイズです。 |
 
-### 関連項目
+### 参照
 
 * class [Margin](../)
-* 名前空間 [Aspose.Svg.Drawing](../../margin/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length, Length, Length, Length) {#constructor_2}
+## Margin(*[Length](../../length/), [Length](../../length/), [Length](../../length/), [Length](../../length/)*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`Margin`](../) class.
+[`Margin`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Margin(Length left, Length top, Length right, Length bottom)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| left | Length | 左のサイズ。 |
-| top | Length | トップサイズ。 |
-| right | Length | 適切なサイズ。 |
-| bottom | Length | 底のサイズ。 |
+| left | Length | 左側のサイズです。 |
+| top | Length | 上側のサイズです。 |
+| right | Length | 右側のサイズです。 |
+| bottom | Length | 下側のサイズです。 |
 
-### 関連項目
+### 参照
 
 * class [Length](../../length/)
 * class [Margin](../)
-* 名前空間 [Aspose.Svg.Drawing](../../margin/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

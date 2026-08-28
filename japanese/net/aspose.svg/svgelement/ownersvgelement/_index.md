@@ -1,28 +1,26 @@
 ---
-title: SVGElement.OwnerSVGElement
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGElement 財産. 最も近い先祖svg要素指定された要素が最も外側の SVG 要素である場合は null.
+title: "SVGElement.OwnerSVGElement"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGElement OwnerSVGElement プロパティ。最も近い先祖の svg 要素。対象要素が最外層の svg 要素の場合は Null です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
 
-最も近い先祖「svg」要素。指定された要素が最も外側の SVG 要素である場合は null.
+最も近い先祖の ‘svg’ 要素。対象の要素が最外層の svg 要素である場合は null です。
 
 ```csharp
 public SVGSVGElement OwnerSVGElement { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-所有者 SVG 要素.
+所有 SVG 要素。
 
-### 関連項目
+### 参照
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

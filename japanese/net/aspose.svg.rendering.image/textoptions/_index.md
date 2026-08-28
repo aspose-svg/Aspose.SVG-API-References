@@ -1,14 +1,14 @@
 ---
-title: Class TextOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.Image.TextOptions クラス. のテキスト レンダリング オプションを表しますImageDevice .
+title: "TextOptions クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.Image.TextOptions クラス。ImageDevice のテキストレンダリングオプションを表します。"
 type: docs
-weight: 2870
+weight: 4950
 url: /ja/net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class
 
-のテキスト レンダリング オプションを表します[`ImageDevice`](../imagedevice/) .
+[`ImageDevice`](../imagedevice/) のテキストレンダリングオプションを表します。
 
 ```csharp
 public class TextOptions
@@ -18,11 +18,9 @@ public class TextOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint/) { get; set; } | 設定または取得TextRenderingHintこれはテキストのレンダリング品質に影響します。デフォルトでは、このプロパティはSystemDefault . |
+| [UseHinting](../../aspose.svg.rendering.image/textoptions/usehinting/) { get; set; } | テキストヒンティングを使用するかどうかを指定します。デフォルトではヒンティングは無効です。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

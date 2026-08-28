@@ -1,14 +1,14 @@
 ---
-title: Color.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. RGBA コンポーネント値で構成される文字列を返します
+title: "Color.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color ToString メソッド。RGBA コンポーネント値からなる文字列を返します。"
 type: docs
 weight: 430
 url: /ja/net/aspose.svg.drawing/color/tostring/
 ---
 ## Color.ToString method
 
-RGBA コンポーネント値で構成される文字列を返します。
+RGBA 成分値からなる文字列を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-人間が読める文字列。
+人間が読みやすい文字列です。
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

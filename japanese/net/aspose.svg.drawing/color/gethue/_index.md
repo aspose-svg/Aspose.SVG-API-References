@@ -1,14 +1,14 @@
 ---
-title: Color.GetHue
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 色の色相を返します.
+title: "Color.GetHue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color GetHue メソッド。Color の Hue を返します"
 type: docs
 weight: 330
 url: /ja/net/aspose.svg.drawing/color/gethue/
 ---
 ## Color.GetHue method
 
-色の色相を返します.
+Color の色相 (Hue) を返します。
 
 ```csharp
 public float GetHue()
@@ -16,12 +16,10 @@ public float GetHue()
 
 ### 戻り値
 
-色相。
+Color の Hue。
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

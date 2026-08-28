@@ -1,28 +1,26 @@
 ---
-title: CSSPrimitiveValue.SetIntValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 方法. 指定した単位で int 値を設定するメソッドこの値に関連付けられたプロパティが指定された単位または int 値を受け入れることができない場合値は変更されずDOMException が発生します
+title: "CSSPrimitiveValue.SetIntValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue SetIntValue メソッド。指定された単位で int 値を設定するメソッドです。この値が付随するプロパティが指定された単位または int 値を受け付けない場合、値は変更されず、DOMException が発生します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/setintvalue/
 ---
 ## CSSPrimitiveValue.SetIntValue method
 
-指定した単位で int 値を設定するメソッド。この値に関連付けられたプロパティが指定された単位または int 値を受け入れることができない場合、値は変更されず、DOMException が発生します。
+指定された単位で整数値を設定するメソッドです。この値が付随するプロパティが指定された単位または整数値を受け付けない場合、値は変更されず、DOMException がスローされます。
 
 ```csharp
 public abstract void SetIntValue(ushort unitType, int intValue)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| unitType | UInt16 | ユニットのタイプ。 |
-| intValue | Int32 | int 値。 |
+| unitType | UInt16 | 単位の型。 |
+| intValue | Int32 | int の値です。 |
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

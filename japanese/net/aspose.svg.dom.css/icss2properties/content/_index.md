@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Content
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 のコンテンツ プロパティ定義を参照してください
+title: "ICSS2Properties.Content"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Content プロパティ。CSS2 の content プロパティ定義を参照してください"
 type: docs
 weight: 350
 url: /ja/net/aspose.svg.dom.css/icss2properties/content/
 ---
 ## ICSS2Properties.Content property
 
-CSS2 のコンテンツ プロパティ定義を参照してください。
+CSS2 の content プロパティの定義をご覧ください。
 
 ```csharp
 public string Content { get; set; }
@@ -16,12 +16,10 @@ public string Content { get; set; }
 
 ### 戻り値
 
-コンテンツ プロパティ
+content プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

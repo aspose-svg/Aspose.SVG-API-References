@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingBottom
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の paddingbottom プロパティ定義を参照してください
+title: "ICSS2Properties.PaddingBottom"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties PaddingBottom プロパティ。CSS2 の padding-bottom プロパティ定義をご覧ください"
 type: docs
-weight: 810
+weight: 840
 url: /ja/net/aspose.svg.dom.css/icss2properties/paddingbottom/
 ---
 ## ICSS2Properties.PaddingBottom property
 
-CSS2 の padding-bottom プロパティ定義を参照してください。
+CSS2 の padding-bottom プロパティ定義をご覧ください。
 
 ```csharp
 public string PaddingBottom { get; set; }
@@ -18,10 +18,8 @@ public string PaddingBottom { get; set; }
 
 padding-bottom プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

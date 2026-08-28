@@ -1,14 +1,14 @@
 ---
-title: Interface ITextureBrush
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Drawing.ITextureBrush インターフェース. 画像を使用して形状の内部を塗りつぶすブラシ インターフェイスを定義します
+title: "ITextureBrush インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Drawing.ITextureBrush インターフェイス。画像を使用してシェイプの内部を塗りつぶすブラシインターフェイスを定義します。"
 type: docs
-weight: 1490
+weight: 3520
 url: /ja/net/aspose.svg.drawing/itexturebrush/
 ---
 ## ITextureBrush interface
 
-画像を使用して形状の内部を塗りつぶすブラシ インターフェイスを定義します。
+画像を使用して形状の内部を塗りつぶすブラシインターフェイスを定義します。
 
 ```csharp
 public interface ITextureBrush : ITransformableBrush
@@ -18,15 +18,13 @@ public interface ITextureBrush : ITransformableBrush
 
 | 名前 | 説明 |
 | --- | --- |
-| [ColorMap](../../aspose.svg.drawing/itexturebrush/colormap/) { get; } | 要素数は偶数でなければなりません。すべての偶数要素は古い色です。奇数要素はすべて新しい色です. |
-| [Image](../../aspose.svg.drawing/itexturebrush/image/) { get; } | ブラシで使用されるイメージを取得または設定します。 |
-| [ImageArea](../../aspose.svg.drawing/itexturebrush/imagearea/) { get; } | ブラシで使用される画像の部分を指定します。 RectangleF.Empty に等しい場合、画像全体が使用されます。 座標はピクセル単位です。 |
-| [Opacity](../../aspose.svg.drawing/itexturebrush/opacity/) { get; } | 色変換マトリックスの不透明度値を取得します。 |
+| [ColorMap](../../aspose.svg.drawing/itexturebrush/colormap/) { get; } | 要素数は偶数でなければなりません。偶数インデックスの要素は旧色です。奇数インデックスの要素は新色です。 |
+| [Image](../../aspose.svg.drawing/itexturebrush/image/) { get; } | ブラシで使用される画像を取得または設定します。 |
+| [ImageArea](../../aspose.svg.drawing/itexturebrush/imagearea/) { get; } | ブラシで使用される画像の領域を指定します。RectangleF.Empty と等しい場合、画像全体が使用されます。座標はピクセル単位です。 |
+| [Opacity](../../aspose.svg.drawing/itexturebrush/opacity/) { get; set; } | カラー変換行列の不透明度値を取得します。 |
 
-### 関連項目
+### 参照
 
 * interface [ITransformableBrush](../itransformablebrush/)
-* 名前空間 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

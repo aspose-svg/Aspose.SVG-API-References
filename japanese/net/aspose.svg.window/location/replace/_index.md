@@ -1,27 +1,25 @@
 ---
-title: Location.Replace
-second_title: Aspose.SVG for .NET API リファレンス
-description: Location 方法. セッション履歴から現在のページを削除し指定されたページに移動します
+title: "Location.Replace"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Location Replace メソッド。現在のページをセッション履歴から削除し、指定されたページへナビゲートします。"
 type: docs
-weight: 30
+weight: 120
 url: /ja/net/aspose.svg.window/location/replace/
 ---
 ## Location.Replace method
 
-セッション履歴から現在のページを削除し、指定されたページに移動します。
+現在のページをセッション履歴から削除し、指定されたページにナビゲートします。
 
 ```csharp
 public void Replace(string url)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| url | String | ナビゲートする URL。 |
+| url | String | ナビゲート先の文字列 URL。 |
 
-### 関連項目
+### 参照
 
 * class [Location](../)
-* 名前空間 [Aspose.Svg.Window](../../location/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

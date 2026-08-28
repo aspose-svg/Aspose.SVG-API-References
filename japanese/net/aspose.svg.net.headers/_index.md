@@ -1,12 +1,12 @@
 ---
-title: Aspose.Svg.Net.Headers
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.Headersネットワークでヘッダーの内容を説明する 用のいくつかのデータクラスを提供します.
+title: "Aspose.Svg.Net.Headers"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.Headers は、ネットワークでヘッダー内容を記述するためのいくつかのデータクラスを提供します。"
 type: docs
-weight: 200
+weight: 220
 url: /ja/net/aspose.svg.net.headers/
 ---
-**Aspose.Svg.Net.Headers**ネットワークでヘッダーの内容を説明する 用のいくつかのデータクラスを提供します.
+**Aspose.Svg.Net.Headers** は、ネットワーク時のヘッダー内容を記述するためのデータクラスをいくつか提供します。
 
 ## クラス
 
@@ -14,6 +14,4 @@ url: /ja/net/aspose.svg.net.headers/
 | --- | --- |
 | [ContentDispositionHeaderValue](./contentdispositionheadervalue/) | Content-Disposition ヘッダー値を表します。 |
 | [ContentTypeHeaderValue](./contenttypeheadervalue/) | Content-Type ヘッダー値を表します。 |
-| [NameValueHeaderValue](./namevalueheadervalue/) | ヘッダー値を説明する名前と値のペアを表します。 |
-
-
+| [NameValueHeaderValue](./namevalueheadervalue/) | ヘッダー値を記述する名前/値のペアを表します。 |

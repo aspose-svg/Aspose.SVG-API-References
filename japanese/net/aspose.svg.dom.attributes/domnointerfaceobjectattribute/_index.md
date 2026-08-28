@@ -1,29 +1,33 @@
 ---
-title: Class DOMNoInterfaceObjectAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute クラス. NoInterfaceObject 拡張属性がインターフェイスに表示される場合ECMAScript バインディングのインターフェイスにインターフェイス オブジェクトが存在しないことを示します
+title: "DOMNoInterfaceObjectAttribute クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute クラス。NoInterfaceObject 拡張属性がインターフェイスに現れる場合、ECMAScript バインディングにおいてそのインターフェイスのオブジェクトが存在しないことを示します。"
 type: docs
-weight: 400
+weight: 2400
 url: /ja/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class
 
-[NoInterfaceObject] 拡張属性がインターフェイスに表示される場合、ECMAScript バインディングのインターフェイスにインターフェイス オブジェクトが存在しないことを示します。
+インターフェイスに [NoInterfaceObject] 拡張属性が付与されている場合、ECMAScript バインディングにおいてそのインターフェイスのオブジェクトが存在しないことを示します。
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNoInterfaceObjectAttribute : Attribute
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | デフォルトのコンストラクター。 |
+| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | デフォルトコンストラクタです。 |
 
-### 関連項目
+## プロパティ
 
-* 名前空間 [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* 組み立て [Aspose.SVG](../../)
+| 名前 | 説明 |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### 参照
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

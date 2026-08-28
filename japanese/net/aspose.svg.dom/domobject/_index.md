@@ -1,34 +1,32 @@
 ---
-title: Class DOMObject
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.DOMObject クラス. DOMObject タイプはDocument Object Model 全体のベース オブジェクトを表すために使用されます Java および ECMAScript の場合DOMObject は Object タイプにバインドされます
+title: "DOMObject クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.DOMObject クラス。DOMObject 型は、ドキュメントオブジェクトモデル全体の基底オブジェクトを表すために使用されます。Java および ECMAScript では、DOMObject は Object 型にバインドされます。"
 type: docs
-weight: 800
+weight: 2800
 url: /ja/net/aspose.svg.dom/domobject/
 ---
 ## DOMObject class
 
-DOMObject タイプは、Document Object Model 全体のベース オブジェクトを表すために使用されます。 Java および ECMAScript の場合、DOMObject は Object タイプにバインドされます。
+DOMObject 型は、Document Object Model 全体の基底オブジェクトを表すために使用されます。Java および ECMAScript では、DOMObject は Object 型にバインドされています。
 
 ```csharp
 public class DOMObject : INotifyPropertyChanged
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DOMObject](domobject/)() | デフォルトのコンストラクター。 |
+| [DOMObject](domobject/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

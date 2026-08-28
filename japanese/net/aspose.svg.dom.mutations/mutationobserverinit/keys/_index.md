@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Keys
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 財産. のキーを含むコレクションを取得しますMutationObserverInitコレクション.
+title: "MutationObserverInit.Keys"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit Keys プロパティ。MutationObserverInit コレクション内のキーを含むコレクションを取得します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/keys/
 ---
 ## MutationObserverInit.Keys property
 
-のキーを含むコレクションを取得します[`MutationObserverInit`](../)コレクション.
+[`MutationObserverInit`](../) コレクション内のキーを含むコレクションを取得します。
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -18,10 +18,8 @@ public ICollection<string> Keys { get; }
 
 キーを含むコレクション。
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

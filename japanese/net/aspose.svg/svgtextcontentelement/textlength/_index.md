@@ -1,28 +1,26 @@
 ---
-title: SVGTextContentElement.TextLength
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTextContentElement 財産. 指定された要素の属性textLengthに対応します
+title: "SVGTextContentElement.TextLength"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTextContentElement TextLength プロパティ。指定された要素の属性 textLength に対応します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/svgtextcontentelement/textlength/
 ---
 ## SVGTextContentElement.TextLength property
 
-指定された要素の属性「textLength」に対応します。
+指定された要素の属性 ‘textLength’ に対応します。
 
 ```csharp
 public SVGAnimatedLength TextLength { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された要素の属性「textLength」.
+指定された要素の属性 ‘textLength’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGTextContentElement](../)
-* 名前空間 [Aspose.Svg](../../svgtextcontentelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

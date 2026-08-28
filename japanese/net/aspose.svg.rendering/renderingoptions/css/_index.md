@@ -1,28 +1,26 @@
 ---
-title: RenderingOptions.Css
-second_title: Aspose.SVG for .NET API リファレンス
-description: RenderingOptions 財産. を取得しますCssOptions css プロパティ処理の構成に使用されるオブジェクト.
+title: "RenderingOptions.Css"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "RenderingOptions Css プロパティ。css プロパティの処理設定に使用される CssOptions オブジェクトを取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.rendering/renderingoptions/css/
 ---
 ## RenderingOptions.Css property
 
-を取得します[`CssOptions`](../../cssoptions/) css プロパティ処理の構成に使用されるオブジェクト.
+[`CssOptions`](../../cssoptions/) オブジェクトを取得します。これは css プロパティの処理設定に使用されます。
 
 ```csharp
 public CssOptions Css { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`CssOptions`](../../cssoptions/)object.
+[`CssOptions`](../../cssoptions/) オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [CssOptions](../../cssoptions/)
 * class [RenderingOptions](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderingoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

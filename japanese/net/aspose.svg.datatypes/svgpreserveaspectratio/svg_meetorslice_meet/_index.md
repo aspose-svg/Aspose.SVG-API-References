@@ -1,23 +1,21 @@
 ---
-title: SVGPreserveAspectRatio.SVG_MEETORSLICE_MEET
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPreserveAspectRatio 分野. 属性preserveAspectRatioの値meetに対応します
+title: "SVGPreserveAspectRatio.SVG_MEETORSLICE_MEET"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPreserveAspectRatio SVG_MEETORSLICE_MEET フィールド。属性 preserveAspectRatio の値 meet に対応します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet/
 ---
 ## SVGPreserveAspectRatio.SVG_MEETORSLICE_MEET field
 
-属性「preserveAspectRatio」の値「meet」に対応します。
+属性 ‘preserveAspectRatio’ の値 'meet' に対応します。
 
 ```csharp
 public const ushort SVG_MEETORSLICE_MEET;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGPreserveAspectRatio](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

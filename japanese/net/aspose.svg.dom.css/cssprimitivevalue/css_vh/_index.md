@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_VH
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値はビューポート全体の高さのパーセンテージです.
+title: "CSSPrimitiveValue.CSS_VH"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_VH フィールド。値はビューポート全体の高さのパーセンテージです。"
 type: docs
-weight: 420
+weight: 430
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_vh/
 ---
 ## CSSPrimitiveValue.CSS_VH field
 
-値は、ビューポート全体の高さのパーセンテージです.
+この値はビューポート全体の高さのパーセンテージです。
 
 ```csharp
 public const ushort CSS_VH;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

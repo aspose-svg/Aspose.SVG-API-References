@@ -1,14 +1,14 @@
 ---
-title: Interface IChildNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.IChildNode インターフェース. 定義IChildNodeによって実装されるべきインターフェースNode親を持つことができます.
+title: "IChildNode インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.IChildNode インターフェイス。親を持つことができる Node が実装すべき IChildNode インターフェイスを定義します。"
 type: docs
-weight: 1030
+weight: 3030
 url: /ja/net/aspose.svg.dom/ichildnode/
 ---
 ## IChildNode interface
 
-定義`IChildNode`によって実装されるべきインターフェース[`Node`](../node/)親を持つことができます.
+`IChildNode` インターフェイスを定義します。これは、親を持つことができる [`Node`](../node/) が実装すべきものです。
 
 ```csharp
 public interface IChildNode
@@ -18,11 +18,9 @@ public interface IChildNode
 
 | 名前 | 説明 |
 | --- | --- |
-| [Remove](../../aspose.svg.dom/ichildnode/remove/)() | 親から現在のノードを削除します。 |
+| [Remove](../../aspose.svg.dom/ichildnode/remove/)() | 現在のノードを親から削除します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

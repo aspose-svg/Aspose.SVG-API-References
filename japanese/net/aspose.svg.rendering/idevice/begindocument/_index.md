@@ -1,7 +1,7 @@
 ---
-title: IDevice.BeginDocument
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDevice 方法. ドキュメントのレンダリングを開始します
+title: "IDevice.BeginDocument"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDevice BeginDocument メソッド。ドキュメントのレンダリングを開始します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.rendering/idevice/begindocument/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.rendering/idevice/begindocument/
 public void BeginDocument(Document document)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| document | Document | ドキュメント。 |
+| ドキュメント | ドキュメント | ドキュメント。 |
 
-### 関連項目
+### 参照
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IDevice](../)
-* 名前空間 [Aspose.Svg.Rendering](../../idevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Values
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 財産. の値を含むコレクションを取得しますMutationObserverInitコレクション.
+title: "MutationObserverInit.Values"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit Values プロパティ。MutationObserverInit コレクション内の値を含むコレクションを取得します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/values/
 ---
 ## MutationObserverInit.Values property
 
-の値を含むコレクションを取得します[`MutationObserverInit`](../)コレクション.
+[`MutationObserverInit`](../) コレクション内の値を含むコレクションを取得します。
 
 ```csharp
 public ICollection<object> Values { get; }
@@ -18,10 +18,8 @@ public ICollection<object> Values { get; }
 
 値を含むコレクション。
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

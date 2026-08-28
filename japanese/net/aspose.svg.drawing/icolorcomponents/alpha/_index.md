@@ -1,23 +1,21 @@
 ---
-title: IColorComponents.Alpha
-second_title: Aspose.SVG for .NET API リファレンス
-description: IColorComponents 財産. アルファ成分を返します.
+title: "IColorComponents.Alpha"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IColorComponents Alpha プロパティ。アルファコンポーネントを返します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/icolorcomponents/alpha/
 ---
 ## IColorComponents.Alpha property
 
-アルファ成分を返します.
+アルファコンポーネントを返します。
 
 ```csharp
 public float Alpha { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IColorComponents](../)
-* 名前空間 [Aspose.Svg.Drawing](../../icolorcomponents/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

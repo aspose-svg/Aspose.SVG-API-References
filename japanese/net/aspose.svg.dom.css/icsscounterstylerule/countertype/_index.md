@@ -1,7 +1,7 @@
 ---
-title: ICSSCounterStyleRule.CounterType
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSCounterStyleRule 財産. カウンターのタイプを取得します
+title: "ICSSCounterStyleRule.CounterType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSCounterStyleRule CounterType property. カウンタのタイプを取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/icsscounterstylerule/countertype/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.dom.css/icsscounterstylerule/countertype/
 public string CounterType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-カウンターのタイプ.
+カウンタのタイプです。
 
-### 関連項目
+### 参照
 
 * interface [ICSSCounterStyleRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

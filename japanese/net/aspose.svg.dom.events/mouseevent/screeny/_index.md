@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ScreenY
-second_title: Aspose.SVG for .NET API リファレンス
-description: MouseEvent 財産. 画面座標系の原点を基準としたイベントが発生した垂直座標
+title: "MouseEvent.ScreenY"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MouseEvent ScreenY プロパティ。イベントがスクリーン座標系の原点を基準にして発生した垂直座標です。"
 type: docs
 weight: 110
 url: /ja/net/aspose.svg.dom.events/mouseevent/screeny/
 ---
 ## MouseEvent.ScreenY property
 
-画面座標系の原点を基準とした、イベントが発生した垂直座標。
+イベントが発生した垂直座標（画面座標系の原点からの相対位置）です。
 
 ```csharp
 public long ScreenY { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-画面 y.
+スクリーン Y 座標です。
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: IDevice.LineTo
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDevice 方法. 現在の点から点 pt までの直線セグメントを追加します新しい現在のポイントは pt. です
+title: "IDevice.LineTo"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDevice LineTo メソッド。現在の点から点 pt まで直線セグメントを追加します。新しい現在の点は pt です。"
 type: docs
 weight: 170
 url: /ja/net/aspose.svg.rendering/idevice/lineto/
 ---
 ## IDevice.LineTo method
 
-現在の点から点 (pt) までの直線セグメントを追加します。新しい現在のポイントは pt. です
+現在の点から点 (pt) まで直線セグメントを追加します。新しい現在の点は pt です。
 
 ```csharp
 public void LineTo(PointF pt)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| pt | PointF | ラインを作成するポイント。 |
+| pt | PointF | 線を作成する先の点。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../)
-* 名前空間 [Aspose.Svg.Rendering](../../idevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

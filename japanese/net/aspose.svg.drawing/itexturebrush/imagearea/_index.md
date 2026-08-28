@@ -1,14 +1,14 @@
 ---
-title: ITextureBrush.ImageArea
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITextureBrush 財産. ブラシで使用される画像の部分を指定します RectangleF.Empty に等しい場合画像全体が使用されます 座標はピクセル単位です
+title: "ITextureBrush.ImageArea"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITextureBrush ImageArea プロパティ。ブラシで使用される画像の領域を指定します。RectangleF.Empty と等しい場合、画像全体が使用されます。座標はピクセル単位です"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.drawing/itexturebrush/imagearea/
 ---
 ## ITextureBrush.ImageArea property
 
-ブラシで使用される画像の部分を指定します。 RectangleF.Empty に等しい場合、画像全体が使用されます。 座標はピクセル単位です。
+ブラシで使用される画像の領域を指定します。RectangleF.Empty と等しい場合、画像全体が使用されます。座標はピクセル単位です。
 
 ```csharp
 public RectangleF ImageArea { get; }
@@ -16,12 +16,10 @@ public RectangleF ImageArea { get; }
 
 ### 戻り値
 
-画像エリア
+画像領域
 
-### 関連項目
+### 参照
 
 * interface [ITextureBrush](../)
-* 名前空間 [Aspose.Svg.Drawing](../../itexturebrush/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Unit.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: Unit 方法. を返しますStringこのインスタンスを表す.
+title: "Unit.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Unit ToString メソッド。このインスタンスを表す文字列を返します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.drawing/unit/tostring/
 ---
 ## Unit.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表す String を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

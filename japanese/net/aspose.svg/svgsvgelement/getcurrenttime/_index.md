@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.GetCurrentTime
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGSVGElement 方法. 現在の SVG ドキュメント フラグメントの開始時刻を基準とした現在の時刻を秒単位で返しますドキュメントのタイムラインが開始される前に getCurrentTime が呼び出された場合 たとえばドキュメントの SVGLoad イベントが送出される前に script 要素で実行されているスクリプトによって0 が返されます
+title: "SVGSVGElement.GetCurrentTime"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGSVGElement GetCurrentTime メソッド。現在の SVG ドキュメントフラグメントの開始時刻からの相対秒数で現在時刻を返します。たとえば、ドキュメントの SVGLoad イベントがディスパッチされる前に script 要素内のスクリプトが実行されるなど、ドキュメントタイムラインが開始される前に getCurrentTime が呼び出された場合は 0 が返されます"
 type: docs
 weight: 200
 url: /ja/net/aspose.svg/svgsvgelement/getcurrenttime/
 ---
 ## SVGSVGElement.GetCurrentTime method
 
-現在の SVG ドキュメント フラグメントの開始時刻を基準とした現在の時刻を秒単位で返します。ドキュメントのタイムラインが開始される前に getCurrentTime が呼び出された場合 (たとえば、ドキュメントの SVGLoad イベントが送出される前に 'script' 要素で実行されているスクリプトによって)、0 が返されます。
+現在の SVG ドキュメントフラグメントの開始時刻からの経過秒数を返します。getCurrentTime がドキュメントのタイムライン開始前に呼び出された場合（例として、ドキュメントの SVGLoad イベントがディスパッチされる前に ‘script’ 要素内で実行されるスクリプトなど）、0 が返されます。
 
 ```csharp
 public float GetCurrentTime()
@@ -16,12 +16,10 @@ public float GetCurrentTime()
 
 ### 戻り値
 
-秒単位の現在の時間、またはドキュメントのタイムラインがまだ開始されていない場合は 0。
+現在の時刻（秒単位）。ドキュメントタイムラインがまだ開始されていない場合は 0 です。
 
-### 関連項目
+### 参照
 
 * class [SVGSVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgsvgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,38 +1,42 @@
 ---
-title: Class EventTarget
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.EventTarget クラス. EventTargetインターフェイスはDOM イベント モデルをサポートする実装ですべてのノードによって実装されます したがってこのインターフェイスはNode インターフェイスのインスタンスでバインディング固有のキャスト メソッドを使用して取得できます インターフェイスによりイベント リスナーの登録と削除が可能になりますをEventTargetそれにイベントをディスパッチするIEventTarget .
+title: "EventTarget クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "**Aspose.Svg.Dom.EventTarget** クラス。EventTarget インターフェイスは、DOM イベントモデルをサポートする実装のすべての Node に実装されています。そのため、このインターフェイスは Node インターフェイスのインスタンスに対してバインディング固有のキャストメソッドを使用して取得できます。このインターフェイスは EventTarget 上でイベントリスナーの登録と削除、およびその IEventTarget へのイベントディスパッチを可能にします。"
 type: docs
-weight: 870
+weight: 2870
 url: /ja/net/aspose.svg.dom/eventtarget/
 ---
 ## EventTarget class
 
-`EventTarget`インターフェイスは、DOM イベント モデルをサポートする実装ですべてのノードによって実装されます。 したがって、このインターフェイスは、Node インターフェイスのインスタンスでバインディング固有のキャスト メソッドを使用して取得できます。 インターフェイスにより、イベント リスナーの登録と削除が可能になります。を`EventTarget`それにイベントをディスパッチする[`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/) .
+`EventTarget` インターフェイスは、DOM イベントモデルをサポートする実装のすべての Node に実装されています。そのため、このインターフェイスは Node インターフェイスのインスタンスに対してバインディング固有のキャストメソッドを使用して取得できます。このインターフェイスは `EventTarget` 上でイベントリスナーの登録と削除、およびその [`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/) へのイベントディスパッチを可能にします。
 
 ```csharp
 public class EventTarget : DOMObject, IDisposable, IEventTarget
 ```
 
+## コンストラクタ
+
+| 名前 | 説明 |
+| --- | --- |
+| [EventTarget](eventtarget/)() | デフォルトコンストラクタです。 |
+
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener_1)(string, IEventListener) | このメソッドを使用すると、イベント ターゲットにイベント リスナーを登録できます。 |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener)(string, DOMEventHandler, bool) | このメソッドを使用すると、イベント ターゲットにイベント リスナーを登録できます。 |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener_2)(string, IEventListener, bool) | このメソッドを使用すると、イベント ターゲットにイベント リスナーを登録できます。 |
-| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | このメソッドにより、イベントを実装イベント モデルにディスパッチできます。 |
-| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | アンマネージ リソースの解放、解放、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_1)(string, IEventListener) | このメソッドを使用すると、イベント ターゲットからイベント リスナーを削除できます。[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/)から削除されます`EventTarget`イベントの処理中は、現在のアクションによってトリガーされません. イベントリスナーは、削除された後は呼び出されません. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener)(string, DOMEventHandler, bool) | このメソッドを使用すると、イベント ターゲットからイベント リスナーを削除できます。[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/)から削除されます`EventTarget`イベントの処理中は、現在のアクションによってトリガーされません. イベントリスナーは、削除された後は呼び出されません. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_2)(string, IEventListener, bool) | このメソッドを使用すると、イベント ターゲットからイベント リスナーを削除できます。[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/)から削除されます`EventTarget`イベントの処理中は、現在のアクションによってトリガーされません. イベントリスナーは、削除された後は呼び出されません. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener_1)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/)*) | 指定されたイベントがターゲットに配信されるたびに呼び出される関数を設定します。 |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener)(*string, [DOMEventHandler](../../aspose.svg.dom.events/domeventhandler/), bool*) | 指定されたイベントがターゲットに配信されるたびに呼び出される関数を設定します。 |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener_2)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/), bool*) | 指定されたイベントがターゲットに配信されるたびに呼び出される関数を設定します。 |
+| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(*[Event](../../aspose.svg.dom.events/event/)*) | 指定された[`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/)にイベントをディスパッチし、（同期的に）影響を受けたEventListenersを適切な順序で呼び出します。通常のイベント処理規則（キャプチャフェーズおよびオプションのバブリングフェーズを含む）も、[`DispatchEvent`](../../aspose.svg.dom.events/ieventtarget/dispatchevent/)で手動でディスパッチされたイベントに適用されます。 |
+| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_1)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/)*) | このメソッドはイベントターゲットからイベントリスナーを削除することを可能にします。[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) が `EventTarget` から削除された状態でイベント処理中であっても、現在のアクションではトリガーされません。イベントリスナーは削除された後は決して呼び出されません。 |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener)(*string, [DOMEventHandler](../../aspose.svg.dom.events/domeventhandler/), bool*) | このメソッドはイベントターゲットからイベントリスナーを削除することを可能にします。[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) が `EventTarget` から削除された状態でイベント処理中であっても、現在のアクションではトリガーされません。イベントリスナーは削除された後は決して呼び出されません。 |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_2)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/), bool*) | このメソッドはイベントターゲットからイベントリスナーを削除することを可能にします。[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) が `EventTarget` から削除された状態でイベント処理中であっても、現在のアクションではトリガーされません。イベントリスナーは削除された後は決して呼び出されません。 |
 
-### 関連項目
+### 参照
 
 * class [DOMObject](../domobject/)
 * interface [IEventTarget](../../aspose.svg.dom.events/ieventtarget/)
-* 名前空間 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

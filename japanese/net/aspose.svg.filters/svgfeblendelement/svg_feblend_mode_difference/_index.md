@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_DIFFERENCE
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEBlendElement 分野. 値差に対応します
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_DIFFERENCE"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEBlendElement SVG_FEBLEND_MODE_DIFFERENCE フィールド。値 difference に対応します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_difference/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_DIFFERENCE field
 
-値「差」に対応します。
+値 'difference' に対応します。
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_DIFFERENCE;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGFEBlendElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfeblendelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

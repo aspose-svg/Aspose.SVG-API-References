@@ -1,14 +1,14 @@
 ---
-title: Enum AtPagePriority
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.AtPagePriority 列挙. ページ サイズ宣言を適用する順序を指定します
+title: "AtPagePriority 列挙型"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.AtPagePriority 列挙型。ページサイズ宣言の適用順序の可能性を指定します。"
 type: docs
-weight: 2710
+weight: 4780
 url: /ja/net/aspose.svg.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration
 
-ページ サイズ宣言を適用する順序を指定します。
+ページサイズ宣言の適用順序の可能性を指定します。
 
 ```csharp
 public enum AtPagePriority
@@ -16,14 +16,12 @@ public enum AtPagePriority
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| OptionsPriority | `0` | は、[`PageSetup`](../pagesetup/)で宣言された値[`RenderingOptions`](../renderingoptions/)css で定義された値をオーバーライドします。`@ページ`ルール . |
-| CssPriority | `1` | は、`@ページ`ルールcss で定義された値は、で定義された値をオーバーライドします[`PageSetup`](../pagesetup/) . |
+| OptionsPriority | `0` | [`PageSetup`](../pagesetup/) の値が [`RenderingOptions`](../renderingoptions/) で宣言された場合、CSS の `@page` ルールで定義された値を上書きすることを指定します。 |
+| CssPriority | `1` | CSS で定義された `@page` ルールが、[`PageSetup`](../pagesetup/) で定義された値を上書きすることを指定します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

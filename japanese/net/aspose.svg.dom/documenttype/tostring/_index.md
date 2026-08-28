@@ -1,14 +1,14 @@
 ---
-title: DocumentType.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: DocumentType 方法. を返しますStringこのインスタンスを表す.
+title: "DocumentType.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DocumentType ToString method. このインスタンスを表す文字列を返します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom/documenttype/tostring/
 ---
 ## DocumentType.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表す String を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * class [DocumentType](../)
-* 名前空間 [Aspose.Svg.Dom](../../documenttype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

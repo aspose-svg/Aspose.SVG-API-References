@@ -1,32 +1,30 @@
 ---
-title: LengthOrAuto.op_Implicit
-second_title: Aspose.SVG for .NET API リファレンス
-description: LengthOrAuto 方法. からの暗黙的な変換を実行しますLengthにLengthOrAuto .
+title: "LengthOrAuto.op_Implicit"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "LengthOrAuto op_Implicit メソッド。Length から LengthOrAuto への暗黙的変換を実行します"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.drawing/lengthorauto/op_implicit/
 ---
 ## LengthOrAuto Implicit operator
 
-からの暗黙的な変換を実行します[`Length`](../length/)に[`LengthOrAuto`](../) .
+[`Length`](../length/) から [`LengthOrAuto`](../) への暗黙的変換を実行します。
 
 ```csharp
 public static implicit operator LengthOrAuto(Length length)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| length | Length | 値。 |
+| 長さ | Length | 値。 |
 
 ### 戻り値
 
-変換の結果。
+変換の結果です。
 
-### 関連項目
+### 参照
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* 名前空間 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

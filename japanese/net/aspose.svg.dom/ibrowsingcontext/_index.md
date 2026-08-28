@@ -1,14 +1,14 @@
 ---
-title: Interface IBrowsingContext
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.IBrowsingContext インターフェース. ブラウジング コンテキストとはDocumentオブジェクトがユーザーに表示されます.
+title: "IBrowsingContext インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.IBrowsingContext インターフェイス。ブラウジング コンテキストは、Document オブジェクトがユーザーに提示される環境です。"
 type: docs
-weight: 1020
+weight: 3020
 url: /ja/net/aspose.svg.dom/ibrowsingcontext/
 ---
 ## IBrowsingContext interface
 
-ブラウジング コンテキストとは、[`Document`](../document/)オブジェクトがユーザーに表示されます.
+ブラウジング コンテキストは、[`Document`](../document/) オブジェクトがユーザーに提示される環境です。
 
 ```csharp
 public interface IBrowsingContext : IDisposable, IServiceProvider
@@ -25,10 +25,7 @@ public interface IBrowsingContext : IDisposable, IServiceProvider
 | [Security](../../aspose.svg.dom/ibrowsingcontext/security/) { get; } | サンドボックス フラグを取得します。 |
 | [Window](../../aspose.svg.dom/ibrowsingcontext/window/) { get; } | WindowProxy オブジェクトを取得します。 |
 
-### 関連項目
+### 参照
 
-* interface [IServiceProvider](../../aspose.svg.services/iserviceprovider/)
-* 名前空間 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

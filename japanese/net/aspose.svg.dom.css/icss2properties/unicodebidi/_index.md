@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.UnicodeBidi
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の unicodebidi プロパティ定義を参照してください
+title: "ICSS2Properties.UnicodeBidi"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties UnicodeBidi プロパティ。CSS2 の unicode-bidi プロパティ定義をご覧ください"
 type: docs
-weight: 1130
+weight: 1160
 url: /ja/net/aspose.svg.dom.css/icss2properties/unicodebidi/
 ---
 ## ICSS2Properties.UnicodeBidi property
 
-CSS2 の unicode-bidi プロパティ定義を参照してください。
+CSS2 の unicode-bidi プロパティ定義をご覧ください。
 
 ```csharp
 public string UnicodeBidi { get; set; }
@@ -18,10 +18,8 @@ public string UnicodeBidi { get; set; }
 
 unicode-bidi プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: FormUrlEncodedContent.FormUrlEncodedContent
-second_title: Aspose.SVG for .NET API リファレンス
-description: FormUrlEncodedContent コンストラクタ. の新しいインスタンスを初期化しますFormUrlEncodedContent class.
+title: "FormUrlEncodedContent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FormUrlEncodedContent コンストラクタ。FormUrlEncodedContent クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/formurlencodedcontent/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent constructor
 
-の新しいインスタンスを初期化します[`FormUrlEncodedContent`](../) class.
+[`FormUrlEncodedContent`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValueCollection)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| nameValueCollection | IEnumerable`1 | 名前値コレクション。 |
+| nameValueCollection | IEnumerable`1 | 名前と値のコレクション。 |
 
-### 関連項目
+### 参照
 
 * class [FormUrlEncodedContent](../)
-* 名前空間 [Aspose.Svg.Net](../../formurlencodedcontent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Entity.XmlEncoding
-second_title: Aspose.SVG for .NET API リファレンス
-description: Entity 財産. テキスト宣言の一部としてこのエンティティが外部の解析済みエンティティである場合のエンコーディングを指定する属性それ以外の場合は null です
+title: "Entity.XmlEncoding"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Entity XmlEncoding プロパティ。テキスト宣言の一部として、このエンティティが外部パースドエンティティである場合のエンコーディングを指定する属性です。そうでない場合は null です。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom/entity/xmlencoding/
 ---
 ## Entity.XmlEncoding property
 
-テキスト宣言の一部として、このエンティティが外部の解析済みエンティティである場合のエンコーディングを指定する属性。それ以外の場合は null です。
+外部解析済みエンティティの場合、テキスト宣言の一部としてこのエンティティのエンコーディングを指定する属性です。そうでない場合は null になります。
 
 ```csharp
 public string XmlEncoding { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 XML エンコーディング。
 
-### 関連項目
+### 参照
 
 * class [Entity](../)
-* 名前空間 [Aspose.Svg.Dom](../../entity/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

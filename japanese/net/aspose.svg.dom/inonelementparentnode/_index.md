@@ -1,14 +1,14 @@
 ---
-title: Interface INonElementParentNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.INonElementParentNode インターフェース. 定義IParentNode Element type. ではないもの
+title: "INonElementParentNode インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.INonElementParentNode インターフェイス。Element 型ではない IParentNode を定義します。"
 type: docs
-weight: 1090
+weight: 3070
 url: /ja/net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
 
-定義[`IParentNode`](../iparentnode/) Element type. ではないもの
+Element 型ではない [`IParentNode`](../iparentnode/) を定義します。
 
 ```csharp
 public interface INonElementParentNode
@@ -18,11 +18,9 @@ public interface INonElementParentNode
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(string) | ID が elementId. であるノードの子孫内の最初の要素を返します。 |
+| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(*string*) | ID が elementId であるノードの子孫内の最初の要素を返します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

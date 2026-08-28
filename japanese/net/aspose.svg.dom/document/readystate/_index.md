@@ -1,23 +1,21 @@
 ---
-title: Document.ReadyState
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. ドキュメントの準備状況を返しますドキュメントの読み込み中は読み込み中解析が終了してもまだサブリソースを読み込み中はインタラクティブ読み込みが完了すると完了.
+title: "Document.ReadyState"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document ReadyState プロパティ。ドキュメントの準備状態を返します。ドキュメントが読み込み中で、解析が完了したがサブリソースの読み込みが続いている状態は 'interactive'、すべて読み込みが完了した状態は 'complete' です。"
 type: docs
 weight: 230
 url: /ja/net/aspose.svg.dom/document/readystate/
 ---
 ## Document.ReadyState property
 
-ドキュメントの準備状況を返します。ドキュメントの読み込み中は「読み込み中」、解析が終了してもまだサブリソースを読み込み中は「インタラクティブ」、読み込みが完了すると「完了」.
+文書の準備状態を返します。Document が読み込み中のときは "loading"、解析が完了しサブリソースの読み込みが続いているときは "interactive"、読み込みが完了したときは "complete"。
 
 ```csharp
 public string ReadyState { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

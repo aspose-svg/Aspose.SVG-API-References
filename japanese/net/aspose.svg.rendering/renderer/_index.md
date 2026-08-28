@@ -1,34 +1,32 @@
 ---
-title: Class Renderer
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.Renderer クラス. すべてのレンダラーと実装の基本クラスを表します IDisposable インターフェイス.
+title: "Renderer クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.Renderer クラス。すべてのレンダラの基底クラスを表し、IDisposable インターフェイスを実装します。"
 type: docs
-weight: 2990
+weight: 5060
 url: /ja/net/aspose.svg.rendering/renderer/
 ---
 ## Renderer class
 
-すべてのレンダラーと実装の基本クラスを表します IDisposable インターフェイス.
+すべてのレンダラーの基底クラスを表し、IDisposable インターフェイスを実装します。
 
 ```csharp
 public class Renderer : IDisposable
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Renderer](renderer/)() | デフォルトのコンストラクター。 |
+| [Renderer](renderer/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

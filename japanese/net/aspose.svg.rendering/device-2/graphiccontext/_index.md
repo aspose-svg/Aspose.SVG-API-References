@@ -1,23 +1,21 @@
 ---
-title: Device2.GraphicContext
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 財産. グラフィック コンテキストを取得します
+title: "Device-2.GraphicContext"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device GraphicContext プロパティ。グラフィック コンテキストを取得します"
 type: docs
-weight: 10
+weight: 20
 url: /ja/net/aspose.svg.rendering/device-2/graphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.GraphicContext property
+## Device<TGraphicContext,TRenderingOptions>.GraphicContext property
 
-グラフィック コンテキストを取得します
+グラフィックコンテキストを取得します。
 
 ```csharp
 public TGraphicContext GraphicContext { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

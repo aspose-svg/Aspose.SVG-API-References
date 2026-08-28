@@ -1,23 +1,21 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_UNKNOWN
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGAngle 分野. ユニット タイプは定義済みのユニット タイプの 1 つではありませんこの型の新しい値を定義しようとしたり既存の値をこの型に切り替えようとしたりすることは無効です.
+title: "SVGAngle.SVG_ANGLETYPE_UNKNOWN"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGAngle SVG_ANGLETYPE_UNKNOWN フィールド。単位タイプは事前定義された単位タイプのいずれでもありません。このタイプの新しい値を定義しようとしたり、既存の値をこのタイプに切り替えようとすることは無効です。"
 type: docs
 weight: 110
 url: /ja/net/aspose.svg.datatypes/svgangle/svg_angletype_unknown/
 ---
 ## SVGAngle.SVG_ANGLETYPE_UNKNOWN field
 
-ユニット タイプは、定義済みのユニット タイプの 1 つではありません。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとしたりすることは無効です.
+単位タイプは事前定義された単位タイプのいずれでもありません。このタイプの新しい値を定義しようとしたり、既存の値をこのタイプに切り替えようとすることは無効です。
 
 ```csharp
 public const ushort SVG_ANGLETYPE_UNKNOWN;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGAngle](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgangle/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

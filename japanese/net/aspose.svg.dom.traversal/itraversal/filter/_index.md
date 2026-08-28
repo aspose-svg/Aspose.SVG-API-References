@@ -1,28 +1,26 @@
 ---
-title: ITraversal.Filter
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITraversal 財産. ノードのスクリーニングに使用される NodeFilter
+title: "ITraversal.Filter"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITraversal Filter プロパティ。ノードをフィルタリングするために使用される NodeFilter"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
 
-ノードのスクリーニングに使用される NodeFilter。
+ノードをフィルタリングするために使用される NodeFilter。
 
 ```csharp
 public INodeFilter Filter { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-フィルター.
+このフィルタ。
 
-### 関連項目
+### 参照
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

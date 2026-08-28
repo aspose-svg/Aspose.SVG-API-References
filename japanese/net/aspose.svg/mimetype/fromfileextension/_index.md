@@ -1,7 +1,7 @@
 ---
-title: MimeType.FromFileExtension
-second_title: Aspose.SVG for .NET API リファレンス
-description: MimeType 方法. ファイル拡張子に基づいて新しい MIME タイプを作成します
+title: "MimeType.FromFileExtension"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MimeType FromFileExtension メソッド。ファイル拡張子に基づいて新しい MIME タイプを作成します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/mimetype/fromfileextension/
@@ -14,18 +14,16 @@ url: /ja/net/aspose.svg/mimetype/fromfileextension/
 public static MimeType FromFileExtension(string fileName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | fileName | String | ファイルの名前。 |
 
 ### 戻り値
 
-MIME タイプの新しいインスタンス
+新しい MIME タイプのインスタンス。
 
-### 関連項目
+### 参照
 
 * class [MimeType](../)
-* 名前空間 [Aspose.Svg](../../mimetype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

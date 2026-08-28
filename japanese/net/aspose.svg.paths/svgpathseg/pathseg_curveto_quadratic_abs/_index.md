@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_ABS
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathSeg 分野. 絶対二次ベジェ曲線Q パス データ コマンドに対応します
+title: "SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_ABS"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathSeg PATHSEG_CURVETO_QUADRATIC_ABS フィールド。絶対二次ベジェ曲線 curveto Q パスデータコマンドに対応します"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_abs/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_ABS field
 
-「絶対二次ベジェ曲線」(Q) パス データ コマンドに対応します。
+「絶対 quadratic Bézier curveto」(Q) パスデータコマンドに対応します。
 
 ```csharp
 public const ushort PATHSEG_CURVETO_QUADRATIC_ABS;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGPathSeg](../)
-* 名前空間 [Aspose.Svg.Paths](../../svgpathseg/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

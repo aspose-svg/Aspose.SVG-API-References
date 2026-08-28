@@ -1,14 +1,14 @@
 ---
-title: Class SVGPointList
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.DataTypes.SVGPointList クラス. このインターフェイスはSVGPoint オブジェクトのリストを定義します
+title: "SVGPointList クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.DataTypes.SVGPointList クラス。このインターフェイスは SVGPoint オブジェクトのリストを定義します。"
 type: docs
-weight: 280
+weight: 2270
 url: /ja/net/aspose.svg.datatypes/svgpointlist/
 ---
 ## SVGPointList class
 
-このインターフェイスは、SVGPoint オブジェクトのリストを定義します。
+このインターフェイスは SVGPoint オブジェクトのリストを定義します。
 
 ```csharp
 public class SVGPointList : SVGListBase<SVGPoint>
@@ -26,23 +26,21 @@ public class SVGPointList : SVGListBase<SVGPoint>
 
 | 名前 | 説明 |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(SVGPoint) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*[SVGPoint](../svgpoint/)*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(SVGPoint) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(SVGPoint, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(SVGPoint, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgpointlist/tostring/)() | を返しますStringこのインスタンスを表す. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGPoint](../svgpoint/)*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| override [ToString](../../aspose.svg.datatypes/svgpointlist/tostring/)() | このインスタンスを表す String を返します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
 * class [SVGPoint](../svgpoint/)
-* 名前空間 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

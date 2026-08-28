@@ -1,23 +1,21 @@
 ---
-title: DOMException.INDEX_SIZE_ERR
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMException 分野. インデックスまたはサイズが負の場合または許容値より大きい場合.
+title: "DOMException.INDEX_SIZE_ERR"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMException INDEX_SIZE_ERR フィールド。インデックスまたはサイズが負の値であるか、許容値を超えている場合です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom/domexception/index_size_err/
 ---
 ## DOMException.INDEX_SIZE_ERR field
 
-インデックスまたはサイズが負の場合、または許容値より大きい場合.
+インデックスまたはサイズが負の値、または許容範囲を超えている場合。
 
 ```csharp
 public const ushort INDEX_SIZE_ERR;
 ```
 
-### 関連項目
+### 参照
 
 * class [DOMException](../)
-* 名前空間 [Aspose.Svg.Dom](../../domexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

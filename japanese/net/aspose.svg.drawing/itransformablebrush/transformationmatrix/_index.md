@@ -1,27 +1,26 @@
 ---
-title: ITransformableBrush.TransformationMatrix
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITransformableBrush 財産. 変換を取得しますトランスフォームはこのブラシのローカル ジオメトリック トランスフォームを定義します
+title: "ITransformableBrush.TransformationMatrix"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITransformableBrush TransformationMatrix プロパティ。変換を取得します。変換はこのブラシのローカル幾何変換を定義します。"
 type: docs
-weight: 10
+weight: 20
 url: /ja/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-変換を取得します。トランスフォームは、このブラシのローカル ジオメトリック トランスフォームを定義します。
+変換を取得します。この変換はこのブラシのローカル幾何変換を定義します。
 
 ```csharp
-public Matrix TransformationMatrix { get; }
+public IMatrix TransformationMatrix { get; set; }
 ```
 
 ### 戻り値
 
 変換行列
 
-### 関連項目
+### 参照
 
+* interface [IMatrix](../../imatrix/)
 * interface [ITransformableBrush](../)
-* 名前空間 [Aspose.Svg.Drawing](../../itransformablebrush/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

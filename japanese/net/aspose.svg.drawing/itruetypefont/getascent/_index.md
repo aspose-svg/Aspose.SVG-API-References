@@ -1,31 +1,29 @@
 ---
-title: ITrueTypeFont.GetAscent
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITrueTypeFont 方法. 上昇をポイントで返します.
+title: "ITrueTypeFont.GetAscent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITrueTypeFont GetAscent メソッド。指定されたフォントサイズを使用して、フォントのアセント（上昇部）をポイントで取得します。"
 type: docs
-weight: 50
+weight: 60
 url: /ja/net/aspose.svg.drawing/itruetypefont/getascent/
 ---
 ## ITrueTypeFont.GetAscent method
 
-上昇をポイントで返します.
+指定されたフォントサイズを使用して、フォントのアセント（ポイント単位）を取得します。
 
 ```csharp
 public float GetAscent(float fontSize)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | fontSize | Single | フォントのサイズ。 |
 
 ### 戻り値
 
-ポイントの上昇。
+フォントのアセント（ポイント単位）です。
 
-### 関連項目
+### 参照
 
 * interface [ITrueTypeFont](../)
-* 名前空間 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

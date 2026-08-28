@@ -1,27 +1,25 @@
 ---
-title: Text.WholeText
-second_title: Aspose.SVG for .NET API リファレンス
-description: Text 財産. このノードに論理的に隣接するテキスト ノードのテキスト ノードのすべてのテキストをドキュメント順に連結して返します
+title: "Text.WholeText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Text WholeText プロパティ。このノードに論理的に隣接する Text ノードのすべてのテキストを、ドキュメント順に連結して返します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom/text/wholetext/
 ---
 ## Text.WholeText property
 
-このノードに論理的に隣接するテキスト ノードのテキスト ノードのすべてのテキストを、ドキュメント順に連結して返します。
+このノードに論理的に隣接する Text ノードのすべてのテキストを、文書順に連結して返します。
 
 ```csharp
 public string WholeText { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキスト全体.
+全体のテキスト。
 
-### 関連項目
+### 参照
 
 * class [Text](../)
-* 名前空間 [Aspose.Svg.Dom](../../text/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

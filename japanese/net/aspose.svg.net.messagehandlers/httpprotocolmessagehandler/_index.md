@@ -1,41 +1,39 @@
 ---
-title: Class HttpProtocolMessageHandler
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.MessageHandlers.HttpProtocolMessageHandler クラス. はhttpプロトコル メッセージ ハンドラ.
+title: "HttpProtocolMessageHandler クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.MessageHandlers.HttpProtocolMessageHandler クラス。HTTP プロトコルメッセージハンドラを表します"
 type: docs
-weight: 2380
+weight: 4450
 url: /ja/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class
 
-は`http:`プロトコル メッセージ ハンドラ.
+`http:` プロトコル メッセージ ハンドラを表します。
 
 ```csharp
 public class HttpProtocolMessageHandler : MessageHandler
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [HttpProtocolMessageHandler](httpprotocolmessagehandler/)() | の新しいインスタンスを初期化します`HttpProtocolMessageHandler` class. |
+| [HttpProtocolMessageHandler](httpprotocolmessagehandler/)() | `HttpProtocolMessageHandler` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | 指定されたハンドラー タイプに対応するフィルター リストを取得します。 |
+| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | 指定されたハンドラタイプに対応するフィルタリストを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/httpprotocolmessagehandler/invoke/)(INetworkOperationContext) | 派生クラスでオーバーライドされると、メッセージ処理の実装に使用されます。 |
+| override [Invoke](../../aspose.svg.net.messagehandlers/httpprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | 派生クラスでオーバーライドされた場合、メッセージ処理を実装するために使用されます。 |
 
-### 関連項目
+### 参照
 
 * class [MessageHandler](../../aspose.svg.net/messagehandler/)
-* 名前空間 [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../)

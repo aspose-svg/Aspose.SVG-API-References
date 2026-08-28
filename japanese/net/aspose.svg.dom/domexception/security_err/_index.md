@@ -1,23 +1,21 @@
 ---
-title: DOMException.SECURITY_ERR
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMException 分野. 操作は安全ではありません.
+title: "DOMException.SECURITY_ERR"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMException SECURITY_ERR フィールド。操作が安全ではありません"
 type: docs
 weight: 240
 url: /ja/net/aspose.svg.dom/domexception/security_err/
 ---
 ## DOMException.SECURITY_ERR field
 
-操作は安全ではありません.
+操作が安全ではありません。
 
 ```csharp
 public const ushort SECURITY_ERR;
 ```
 
-### 関連項目
+### 参照
 
 * class [DOMException](../)
-* 名前空間 [Aspose.Svg.Dom](../../domexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

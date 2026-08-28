@@ -1,12 +1,12 @@
 ---
-title: Device2.Flush
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. すべてのデータを出力ストリームにフラッシュします
+title: "Device-2.Flush"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device Flush メソッド。すべてのデータを出力ストリームにフラッシュします"
 type: docs
-weight: 170
+weight: 200
 url: /ja/net/aspose.svg.rendering/device-2/flush/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Flush method
+## Device<TGraphicContext,TRenderingOptions>.Flush method
 
 すべてのデータを出力ストリームにフラッシュします。
 
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.rendering/device-2/flush/
 public virtual void Flush()
 ```
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

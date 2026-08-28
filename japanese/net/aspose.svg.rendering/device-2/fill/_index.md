@@ -1,27 +1,26 @@
 ---
-title: Device2.Fill
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. 現在のパスで囲まれた領域全体を塗りつぶします パスがいくつかの切断されたサブパスで構成されている場合 をまとめて考慮してすべてのサブパスの内部を埋めます このメソッドは現在のパスを終了します
+title: "Device-2.Fill"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device Fill メソッド。現在のパスで囲まれた全領域を塗りつぶします。パスが複数の切断されたサブパスで構成されている場合、すべてのサブパスの内部をまとめて塗りつぶします。このメソッドは現在のパスを終了します"
 type: docs
-weight: 150
+weight: 180
 url: /ja/net/aspose.svg.rendering/device-2/fill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Fill method
+## Device<TGraphicContext,TRenderingOptions>.Fill method
 
-現在のパスで囲まれた領域全体を塗りつぶします。 パスがいくつかの切断されたサブパスで構成されている場合、 をまとめて考慮して、すべてのサブパスの内部を埋めます。 このメソッドは、現在のパスを終了します。
+現在のパスで囲まれた領域全体を塗りつぶします。パスが複数の切り離されたサブパスで構成されている場合、すべてのサブパスの内部をまとめて塗りつぶします。このメソッドは現在のパスを終了します。
 
 ```csharp
-public abstract void Fill(FillMode mode)
+public virtual void Fill(FillRule rule)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| mode | FillMode | 塗りつぶしモードは、閉じたパスの内部をどのように塗りつぶすかを指定します |
+| ルール | FillRule | 塗りつぶしルールは、閉じたパスの内部がどのように塗りつぶされるかを指定します |
 
-### 関連項目
+### 参照
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

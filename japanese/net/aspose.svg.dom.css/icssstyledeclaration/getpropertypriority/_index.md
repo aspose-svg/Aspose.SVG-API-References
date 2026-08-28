@@ -1,31 +1,29 @@
 ---
-title: ICSSStyleDeclaration.GetPropertyPriority
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSStyleDeclaration 方法. プロパティがこの宣言ブロックで明示的に設定されている場合CSS プロパティ 重要な修飾子など の優先度を取得するために使用されます
+title: "ICSSStyleDeclaration.GetPropertyPriority"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSStyleDeclaration GetPropertyPriority メソッド。CSS プロパティの優先度（例: プロパティがこの宣言ブロックで明示的に設定されている場合の !important 修飾子）を取得するために使用されます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom.css/icssstyledeclaration/getpropertypriority/
 ---
 ## ICSSStyleDeclaration.GetPropertyPriority method
 
-プロパティがこの宣言ブロックで明示的に設定されている場合、CSS プロパティ (「重要な」修飾子など) の優先度を取得するために使用されます。
+この宣言ブロックでプロパティが明示的に設定されている場合、CSS プロパティの優先度（例: \"important\" 修飾子）を取得するために使用します。
 
 ```csharp
 public string GetPropertyPriority(string propertyName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| propertyName | String | プロパティの名前。 |
+| propertyName | String | プロパティの名前です。 |
 
 ### 戻り値
 
-プロパティの優先度を返します
+プロパティの優先度を返します。
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

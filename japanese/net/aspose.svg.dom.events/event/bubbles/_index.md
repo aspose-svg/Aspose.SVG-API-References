@@ -1,23 +1,21 @@
 ---
-title: Event.Bubbles
-second_title: Aspose.SVG for .NET API リファレンス
-description: Event 財産. イベントがバブリング イベントかどうかを示すために使用されますイベントがバブルできる場合値は trueそれ以外の場合値は false.
+title: "Event.Bubbles"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Event Bubbles プロパティ。イベントがバブリングイベントかどうかを示すために使用されます。イベントがバブリングできる場合は値が true になり、そうでない場合は false になります。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.events/event/bubbles/
 ---
 ## Event.Bubbles property
 
-イベントがバブリング イベントかどうかを示すために使用されます。イベントがバブルできる場合、値は true、それ以外の場合、値は false.
+イベントがバブリングイベントかどうかを示すために使用します。イベントがバブリングできる場合は true、そうでない場合は false です。
 
 ```csharp
 public bool Bubbles { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Event](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../event/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

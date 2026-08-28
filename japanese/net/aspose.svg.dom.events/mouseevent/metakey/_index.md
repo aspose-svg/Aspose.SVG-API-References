@@ -1,7 +1,7 @@
 ---
-title: MouseEvent.MetaKey
-second_title: Aspose.SVG for .NET API リファレンス
-description: MouseEvent 財産. metaKey 属性を参照してください
+title: "MouseEvent.MetaKey"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MouseEvent MetaKey プロパティ。metaKey 属性を参照してください"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom.events/mouseevent/metakey/
@@ -14,14 +14,12 @@ metaKey 属性を参照してください。
 public bool MetaKey { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` [メタキー] の場合;さもないと、`間違い` .
+`true` は [meta key] の場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

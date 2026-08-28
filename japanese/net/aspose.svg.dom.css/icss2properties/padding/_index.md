@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Padding
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の padding プロパティの定義を参照してください
+title: "ICSS2Properties.Padding"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Padding プロパティ。CSS2 の padding プロパティ定義をご覧ください"
 type: docs
-weight: 800
+weight: 830
 url: /ja/net/aspose.svg.dom.css/icss2properties/padding/
 ---
 ## ICSS2Properties.Padding property
 
-CSS2 の padding プロパティの定義を参照してください。
+CSS2 の padding プロパティ定義をご覧ください。
 
 ```csharp
 public string Padding { get; set; }
@@ -16,12 +16,10 @@ public string Padding { get; set; }
 
 ### 戻り値
 
-パディング プロパティ
+padding プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

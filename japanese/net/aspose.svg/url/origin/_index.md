@@ -1,27 +1,25 @@
 ---
-title: Url.Origin
-second_title: Aspose.SVG for .NET API リファレンス
-description: Url 財産. 指定された URL オリジンの文字列表現を取得します
+title: "Url.Origin"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Url Origin プロパティ。指定された URL のオリジンの文字列表現を取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg/url/origin/
 ---
 ## Url.Origin property
 
-指定された URL オリジンの文字列表現を取得します。
+指定された URL のオリジンの文字列表現を取得します。
 
 ```csharp
 public string Origin { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-原点.
+オリジン。
 
-### 関連項目
+### 参照
 
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

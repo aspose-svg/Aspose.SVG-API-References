@@ -1,23 +1,21 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_REPEAT
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGGradientElement 分野. 値繰り返しに対応します
+title: "SVGGradientElement.SVG_SPREADMETHOD_REPEAT"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGGradientElement SVG_SPREADMETHOD_REPEAT フィールド。 値 repeat に対応します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg/svggradientelement/svg_spreadmethod_repeat/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_REPEAT field
 
-値「繰り返し」に対応します。
+‘repeat’ の値に対応します。
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_REPEAT;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGGradientElement](../)
-* 名前空間 [Aspose.Svg](../../svggradientelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

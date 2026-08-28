@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PageBreakBefore
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の pagebreakbefore プロパティ定義を参照してください
+title: "ICSS2Properties.PageBreakBefore"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties PageBreakBefore プロパティ。CSS2 の page-break-before プロパティ定義をご覧ください"
 type: docs
-weight: 870
+weight: 900
 url: /ja/net/aspose.svg.dom.css/icss2properties/pagebreakbefore/
 ---
 ## ICSS2Properties.PageBreakBefore property
 
-CSS2 の page-break-before プロパティ定義を参照してください。
+CSS2 の page-break-before プロパティ定義をご覧ください。
 
 ```csharp
 public string PageBreakBefore { get; set; }
@@ -18,10 +18,8 @@ public string PageBreakBefore { get; set; }
 
 page-break-before プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.CaptionSide
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 のキャプション側のプロパティ定義を参照してください
+title: "ICSS2Properties.CaptionSide"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties CaptionSide プロパティ。CSS2 の caption-side プロパティ定義をご覧ください"
 type: docs
 weight: 310
 url: /ja/net/aspose.svg.dom.css/icss2properties/captionside/
 ---
 ## ICSS2Properties.CaptionSide property
 
-CSS2 のキャプション側のプロパティ定義を参照してください。
+CSS2 の caption-side プロパティの定義をご覧ください。
 
 ```csharp
 public string CaptionSide { get; set; }
@@ -16,12 +16,10 @@ public string CaptionSide { get; set; }
 
 ### 戻り値
 
-キャプション側のプロパティ
+caption-side プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

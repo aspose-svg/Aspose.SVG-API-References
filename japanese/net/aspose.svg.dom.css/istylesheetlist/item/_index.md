@@ -1,14 +1,14 @@
 ---
-title: IStyleSheetList.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: IStyleSheetList 財産. http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/stylesheets.html. に従ってメソッド itemint index によってスタイル シートを取得するために使用されます
+title: "IStyleSheetList.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IStyleSheetList Item プロパティ。http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html に従って、itemint インデックスでスタイルシートを取得するために使用されます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html. に従って、メソッド item(int index) によってスタイル シートを取得するために使用されます。
+http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html に従い、item(int index) メソッドでスタイルシートを取得するために使用されます。
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
@@ -16,21 +16,19 @@ public ICSSStyleSheet this[int index] { get; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| index | スタイルシートのインデックス |
+| インデックス | スタイルシートのインデックス |
 
 ### 戻り値
 
 CSS スタイルシートのインスタンス。
 
-### プロパティ値
+### Property Value
 
-[`ICSSStyleSheet`](../../icssstylesheet/) .
+この [`ICSSStyleSheet`](../../icssstylesheet/)。
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [IStyleSheetList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

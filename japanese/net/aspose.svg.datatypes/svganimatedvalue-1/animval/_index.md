@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.AnimVal
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGAnimatedValue 財産. 指定された属性またはプロパティがアニメーション化されている場合属性またはプロパティの現在のアニメーション化された値が含まれます指定された属性またはプロパティが現在アニメーション化されていない場合baseVal. と同じ値が含まれます
+title: "SVGAnimatedValue-1.AnimVal"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGAnimatedValue AnimVal プロパティ。 指定された属性またはプロパティがアニメーション中の場合、属性またはプロパティの現在のアニメーション値が含まれます。 アニメーション中でない場合、baseVal と同じ値が含まれます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.datatypes/svganimatedvalue-1/animval/
 ---
-## SVGAnimatedValue&lt;T&gt;.AnimVal property
+## SVGAnimatedValue<T>.AnimVal property
 
-指定された属性またはプロパティがアニメーション化されている場合、属性またはプロパティの現在のアニメーション化された値が含まれます。指定された属性またはプロパティが現在アニメーション化されていない場合、baseVal. と同じ値が含まれます。
+指定された属性またはプロパティがアニメーション中の場合、その属性またはプロパティの現在のアニメーション値が含まれます。指定された属性またはプロパティが現在アニメーションされていない場合、baseVal と同じ値が含まれます。
 
 ```csharp
 public virtual T AnimVal { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` if [アニメーション値];さもないと、`間違い` .
+`true` なら [anim value]；それ以外は `false`。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

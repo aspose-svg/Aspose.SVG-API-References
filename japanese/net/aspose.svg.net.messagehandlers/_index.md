@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.MessageHandlers
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.MessageHandlersクラスによって提示される名前空間 is  さまざまなプロトコルのメッセージ ハンドラー.
+title: "Aspose.Svg.Net.MessageHandlers"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.MessageHandlers 名前空間は、さまざまなプロトコルのメッセージハンドラを提供するクラスによって構成されています。"
 type: docs
-weight: 220
+weight: 240
 url: /ja/net/aspose.svg.net.messagehandlers/
 ---
-**Aspose.Svg.Net.MessageHandlers**クラスによって提示される名前空間 is - さまざまなプロトコルのメッセージ ハンドラー.
+**Aspose.Svg.Net.MessageHandlers** 名前空間は、さまざまなプロトコルのメッセージハンドラであるクラスによって構成されています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | は`ファイル：`プロトコル メッセージ ハンドラ. |
-| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | は`ftp:`プロトコル メッセージ ハンドラ. |
-| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | は`http:`プロトコル メッセージ ハンドラ. |
-
-
+| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | `file:` プロトコルのメッセージハンドラを表します。 |
+| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | `ftp:` プロトコル メッセージ ハンドラを表します。 |
+| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | `http:` プロトコル メッセージ ハンドラを表します。 |

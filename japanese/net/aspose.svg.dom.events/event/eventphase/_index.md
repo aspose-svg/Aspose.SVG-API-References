@@ -1,23 +1,21 @@
 ---
-title: Event.EventPhase
-second_title: Aspose.SVG for .NET API リファレンス
-description: Event 財産. イベントフローのどのフェーズが現在評価されているかを示すために使用されます.
+title: "Event.EventPhase"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Event EventPhase プロパティ。現在評価されているイベントフローのフェーズを示すために使用されます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom.events/event/eventphase/
 ---
 ## Event.EventPhase property
 
-イベントフローのどのフェーズが現在評価されているかを示すために使用されます.
+現在評価されているイベントフローのフェーズを示すために使用します。
 
 ```csharp
 public ushort EventPhase { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Event](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../event/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

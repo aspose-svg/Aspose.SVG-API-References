@@ -1,31 +1,29 @@
 ---
-title: Color.WithLuminosity
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 指定された明度で色のコピーを作成します.
+title: "Color.WithLuminosity"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color WithLuminosity メソッド。指定された光度で Color のコピーを作成します。"
 type: docs
 weight: 470
 url: /ja/net/aspose.svg.drawing/color/withluminosity/
 ---
 ## Color.WithLuminosity method
 
-指定された明度で色のコピーを作成します.
+指定された輝度を持つ Color のコピーを作成します。
 
 ```csharp
 public Color WithLuminosity(float luminosity)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| luminosity | Single | 光度の値 |
+| 光度 | Single | 光度の値 |
 
 ### 戻り値
 
-の新しいインスタンス[`Color`](../)クラス。
+新しい [`Color`](../) クラスのインスタンスです。
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,43 +1,41 @@
 ---
-title: ImageTraceSimplifier.ImageTraceSimplifier
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageTraceSimplifier コンストラクタ. の新しいインスタンスを初期化しますImageTraceSimplifier class.
+title: "ImageTraceSimplifier"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageTraceSimplifier コンストラクタ。ImageTraceSimplifier クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.imagevectorization/imagetracesimplifier/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier() {#constructor}
 
-の新しいインスタンスを初期化します[`ImageTraceSimplifier`](../) class.
+[`ImageTraceSimplifier`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageTraceSimplifier()
 ```
 
-### 関連項目
+### 参照
 
 * class [ImageTraceSimplifier](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSimplifier(float) {#constructor_1}
+## ImageTraceSimplifier(*float*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ImageTraceSimplifier`](../) class.
+[`ImageTraceSimplifier`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageTraceSimplifier(float tolerance)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| tolerance | Single | 寛容さ |
+| 許容値 | Single | 許容値 |
 
-### 関連項目
+### 参照
 
 * class [ImageTraceSimplifier](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

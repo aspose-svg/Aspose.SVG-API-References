@@ -1,23 +1,21 @@
 ---
-title: UnitType.S
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 測定は秒単位です
+title: "UnitType.S"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType S フィールド。測定は秒です。"
 type: docs
 weight: 250
 url: /ja/net/aspose.svg.drawing/unittype/s/
 ---
 ## UnitType.S field
 
-測定は秒単位です。
+測定は秒です。
 
 ```csharp
 public static readonly UnitType S;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

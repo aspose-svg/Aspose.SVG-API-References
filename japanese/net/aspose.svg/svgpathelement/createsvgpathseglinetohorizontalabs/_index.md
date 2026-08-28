@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathElement 方法. スタンドアロンで親のない SVGPathSegLinetoHorizontalAbs オブジェクトを返します
+title: "SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathElement CreateSVGPathSegLinetoHorizontalAbs メソッド。スタンドアロンで親を持たない SVGPathSegLinetoHorizontalAbs オブジェクトを返します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalabs/
@@ -14,19 +14,17 @@ url: /ja/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalabs/
 public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | このパス セグメントの終点の絶対 X 座標。 |
+| x | Single | このパスセグメントの終点の絶対X座標。 |
 
 ### 戻り値
 
-スタンドアロンで親のない SVGPathSegLinetoHorizontalAbs オブジェクト。
+スタンドアロンで親を持たない SVGPathSegLinetoHorizontalAbs オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegLinetoHorizontalAbs](../../../aspose.svg.paths/svgpathseglinetohorizontalabs/)
 * class [SVGPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

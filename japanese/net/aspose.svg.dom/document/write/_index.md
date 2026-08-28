@@ -1,27 +1,25 @@
 ---
-title: Document.Write
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. open によって開かれたドキュメント ストリームにテキストの文字列を書き込みますこの関数は必ずしも DTD によって駆動されるとは限らない document を生成することに注意してください
+title: "Document.Write"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document Write メソッド。open で開かれたドキュメントストリームにテキスト文字列を書き込みます。なお、この関数は必ずしも DTD によって制御されるドキュメントを生成するわけではなく、ドキュメントのコンテキストでは無効な結果になる可能性があります。"
 type: docs
-weight: 1050
+weight: 1060
 url: /ja/net/aspose.svg.dom/document/write/
 ---
 ## Document.Write method
 
-open() によって開かれたドキュメント ストリームにテキストの文字列を書き込みます。この関数は、必ずしも DTD によって駆動されるとは限らない document を生成することに注意してください。
+open() で開かれたドキュメントストリームにテキスト文字列を書き込みます。なお、この関数は必ずしも DTD に従って生成されるわけではなく、ドキュメントのコンテキストでは無効な結果になる可能性があります。
 
 ```csharp
 public void Write(params string[] texts)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| texts | String[] | 文書構造モデルの構造に解析される文字列。 |
+| テキスト | String[] | ドキュメント構造モデル内の構造に解析される文字列です。 |
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

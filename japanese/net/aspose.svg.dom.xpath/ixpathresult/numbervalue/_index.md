@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.NumberValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: IXPathResult 財産. この数値結果の値.
+title: "IXPathResult.NumberValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IXPathResult NumberValue プロパティ。この数値結果の値です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.xpath/ixpathresult/numbervalue/
 ---
 ## IXPathResult.NumberValue property
 
-この数値結果の値.
+この数値結果の値。
 
 ```csharp
 public double NumberValue { get; }
@@ -16,14 +16,12 @@ public double NumberValue { get; }
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: 次の場合に発生します`結果タイプ` ではありません`番号`タイプ。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: `resultType` が `Number` 型でない場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * interface [IXPathResult](../)
-* 名前空間 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

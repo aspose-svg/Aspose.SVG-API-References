@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.ShiftKey
-second_title: Aspose.SVG for .NET API リファレンス
-description: KeyboardEvent 財産. シフト Shift キー修飾子がアクティブだった場合は true.
+title: "KeyboardEvent.ShiftKey"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "KeyboardEvent ShiftKey プロパティ。Shift キー修飾子がアクティブだった場合に true です。"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg.dom.events/keyboardevent/shiftkey/
 ---
 ## KeyboardEvent.ShiftKey property
 
-シフト (Shift) キー修飾子がアクティブだった場合は true.
+shift（Shift）キー修飾子がアクティブな場合は true。
 
 ```csharp
 public bool ShiftKey { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`シフトの場合;さもないと、`間違い` .
+`true` は Shift の場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [KeyboardEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

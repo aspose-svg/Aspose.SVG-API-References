@@ -1,24 +1,22 @@
 ---
-title: PageSetup.AtPagePriority
-second_title: Aspose.SVG for .NET API リファレンス
-description: PageSetup 財産. 取得または設定AtPagePriorityこれによりページ サイズ宣言を適用する順序が決まりますデフォルトではオプションは css をオーバーライドしますページルール .
+title: "PageSetup.AtPagePriority"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PageSetup AtPagePriority プロパティ。ページサイズ宣言の適用順序を決定する AtPagePriority を取得または設定します。デフォルトでは、オプションが CSS のページルールを上書きします。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.rendering/pagesetup/atpagepriority/
 ---
 ## PageSetup.AtPagePriority property
 
-取得または設定[`AtPagePriority`](../../atpagepriority/)これにより、ページ サイズ宣言を適用する順序が決まります。デフォルトでは、オプションは css をオーバーライドします`@ページ`ルール .
+ページサイズ宣言の適用順序を決定する [`AtPagePriority`](../../atpagepriority/) を取得または設定します。デフォルトでは、オプションが CSS の `@page` ルールを上書きします。
 
 ```csharp
 public AtPagePriority AtPagePriority { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * enum [AtPagePriority](../../atpagepriority/)
 * class [PageSetup](../)
-* 名前空間 [Aspose.Svg.Rendering](../../pagesetup/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

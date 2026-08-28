@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextAlign
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の textalign プロパティ定義を参照してください
+title: "ICSS2Properties.TextAlign"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties TextAlign プロパティ。CSS2 の text-align プロパティ定義を参照してください"
 type: docs
-weight: 1070
+weight: 1100
 url: /ja/net/aspose.svg.dom.css/icss2properties/textalign/
 ---
 ## ICSS2Properties.TextAlign property
 
-CSS2 の text-align プロパティ定義を参照してください。
+CSS2 の text-align プロパティ定義をご覧ください。
 
 ```csharp
 public string TextAlign { get; set; }
@@ -18,10 +18,8 @@ public string TextAlign { get; set; }
 
 text-align プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

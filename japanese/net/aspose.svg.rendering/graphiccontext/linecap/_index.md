@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.LineCap
-second_title: Aspose.SVG for .NET API リファレンス
-description: GraphicContext 財産. ストロークされた開いたパスの端点の形状を指定するコードを設定または取得します
+title: "GraphicContext.LineCap"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GraphicContext LineCap プロパティ。ストロークされた任意のオープンパスの端点の形状を指定するコードを設定または取得します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.svg.rendering/graphiccontext/linecap/
 ---
 ## GraphicContext.LineCap property
 
-ストロークされた開いたパスの端点の形状を指定するコードを設定または取得します。
+ストロークされた任意の開いたパスのエンドポイントの形状を指定するコードを設定または取得します。
 
 ```csharp
-public virtual LineCap LineCap { get; set; }
+public virtual StrokeLineCap LineCap { get; set; }
 ```
 
-### 関連項目
+### 参照
 
+* enum [StrokeLineCap](../../../aspose.svg.drawing/strokelinecap/)
 * class [GraphicContext](../)
-* 名前空間 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

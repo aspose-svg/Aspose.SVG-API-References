@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframeRule.KeyText
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSKeyframeRule 財産. この属性はキーフレーム セレクターをパーセンテージ値のコンマ区切りリストとして表します fromおよびtoキーワードはそれぞれ0および100にマップされます.
+title: "ICSSKeyframeRule.KeyText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSKeyframeRule KeyText プロパティ。この属性は、キーフレームセレクタをパーセンテージ値のカンマ区切りリストとして表します。from と to キーワードはそれぞれ 0 と 100 にマッピングされます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/icsskeyframerule/keytext/
 ---
 ## ICSSKeyframeRule.KeyText property
 
-この属性は、キーフレーム セレクターをパーセンテージ値のコンマ区切りリストとして表します。 「from」および「to」キーワードは、それぞれ「0%」および「100%」にマップされます.
+この属性は、パーセンテージ値のカンマ区切りリストとしてキーフレームセレクタを表します。‘from’ と ‘to’ キーワードはそれぞれ ‘0%’ と ‘100%’ にマッピングされます。
 
 ```csharp
 public string KeyText { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-キーテキスト.
+キー文字列。
 
-### 関連項目
+### 参照
 
 * interface [ICSSKeyframeRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

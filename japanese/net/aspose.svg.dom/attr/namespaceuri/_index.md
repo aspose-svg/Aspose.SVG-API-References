@@ -1,23 +1,21 @@
 ---
-title: Attr.NamespaceURI
-second_title: Aspose.SVG for .NET API リファレンス
-description: Attr 財産. このノードの名前空間 URIまたは指定されていない場合は null.
+title: "Attr.NamespaceURI"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Attr NamespaceURI プロパティ。このノードの名前空間 URI、未指定の場合は null です。"
 type: docs
-weight: 40
+weight: 30
 url: /ja/net/aspose.svg.dom/attr/namespaceuri/
 ---
 ## Attr.NamespaceURI property
 
-このノードの名前空間 URI、または指定されていない場合は null.
+このノードの名前空間 URI、または未指定の場合は null。
 
 ```csharp
 public override string NamespaceURI { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Attr](../)
-* 名前空間 [Aspose.Svg.Dom](../../attr/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

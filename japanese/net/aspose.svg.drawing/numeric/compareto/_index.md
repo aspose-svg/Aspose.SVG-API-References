@@ -1,22 +1,22 @@
 ---
-title: Numeric.CompareTo
-second_title: Aspose.SVG for .NET API リファレンス
-description: Numeric 方法. 現在のインスタンスを同じ型の別のオブジェクトと比較し現在のインスタンスが他のオブジェクトと並べ替え順序で前後または同じ位置にあるかどうかを示す整数を返します
+title: "Numeric.CompareTo"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Numeric CompareTo メソッド。現在のインスタンスを同じ型の別のオブジェクトと比較し、現在のインスタンスが前に来るか、後に来るか、または同じ位置にあるかを示す整数を返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/numeric/compareto/
 ---
 ## Numeric.CompareTo method
 
-現在のインスタンスを同じ型の別のオブジェクトと比較し、現在のインスタンスが他のオブジェクトと並べ替え順序で前、後、または同じ位置にあるかどうかを示す整数を返します。
+現在のインスタンスを同じ型の別のオブジェクトと比較し、現在のインスタンスがソート順で前に来るか、後に来るか、または同じ位置にあるかを示す整数を返します。
 
 ```csharp
 public int CompareTo(Numeric other)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| other | Numeric | 比較する他のオブジェクト。 |
+| other | Numeric | 比較対象の他のオブジェクト。 |
 
 ### 戻り値
 
@@ -24,15 +24,13 @@ public int CompareTo(Numeric other)
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 他の |
+| ArgumentNullException | other |
 | ArgumentException |  |
 
-### 関連項目
+### 参照
 
 * class [Numeric](../)
-* 名前空間 [Aspose.Svg.Drawing](../../numeric/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

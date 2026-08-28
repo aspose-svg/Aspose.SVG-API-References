@@ -1,31 +1,29 @@
 ---
-title: Color.FromGray
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 要求されたグレー値で新しい Color を返します
+title: "Color.FromGray"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color FromGray メソッド。要求されたグレー値を持つ新しい Color を返します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.drawing/color/fromgray/
 ---
 ## Color.FromGray method
 
-要求されたグレー値で新しい Color を返します。
+要求されたグレー値を持つ新しい Color を返します。
 
 ```csharp
 public static Color FromGray(float gray)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| gray | Single | 色のグレー値を表す float。 |
+| グレー | Single | 色のグレー値を表す float 値です。 |
 
 ### 戻り値
 
-の新しいインスタンス[`Color`](../)クラス
+[`Color`](../) クラスの新しいインスタンスです
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,29 +1,35 @@
 ---
-title: Class MessageHandlerCollection
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.MessageHandlerCollection クラス. のコレクションを表しますMessageHandler .
+title: "MessageHandlerCollection クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.MessageHandlerCollection クラス。MessageHandler のコレクションを表します"
 type: docs
-weight: 2350
+weight: 4420
 url: /ja/net/aspose.svg.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
 
-のコレクションを表します[`MessageHandler`](../messagehandler/) .
+[`MessageHandler`](../messagehandler/) のコレクションを表します。
 
 ```csharp
 public class MessageHandlerCollection : Collection<MessageHandler>
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [MessageHandlerCollection](messagehandlercollection/)() | デフォルトのコンストラクター。 |
+| [MessageHandlerCollection](messagehandlercollection/)() | デフォルトコンストラクタです。 |
 
-### 関連項目
+## プロパティ
+
+| 名前 | 説明 |
+| --- | --- |
+| [Count](../../system.collections.objectmodel/collection-1/count/) { get; } |  |
+| [Item](../../system.collections.objectmodel/collection-1/item/) { get; set; } |  |
+| [Items](../../system.collections.objectmodel/collection-1/items/) { get; } |  |
+
+### 参照
 
 * class [MessageHandler](../messagehandler/)
-* 名前空間 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

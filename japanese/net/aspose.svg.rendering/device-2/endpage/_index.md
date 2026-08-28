@@ -1,12 +1,12 @@
 ---
-title: Device2.EndPage
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. 現在のページのレンダリングを終了します
+title: "Device-2.EndPage"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device EndPage メソッド。現在のページのレンダリングを終了します"
 type: docs
-weight: 140
+weight: 170
 url: /ja/net/aspose.svg.rendering/device-2/endpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndPage method
+## Device<TGraphicContext,TRenderingOptions>.EndPage method
 
 現在のページのレンダリングを終了します。
 
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.rendering/device-2/endpage/
 public virtual void EndPage()
 ```
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,36 +1,34 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathElement 方法. スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothAbs オブジェクトを返します
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicSmoothAbs メソッド。スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothAbs オブジェクトを返します"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs method
 
-スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothAbs オブジェクトを返します。
+単独で親を持たない SVGPathSegCurvetoCubicSmoothAbs オブジェクトを返します。
 
 ```csharp
 public SVGPathSegCurvetoCubicSmoothAbs CreateSVGPathSegCurvetoCubicSmoothAbs(float x, float y, 
     float x2, float y2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | このパス セグメントの終点の絶対 X 座標。 |
-| y | Single | このパス セグメントの終点の絶対 Y 座標。 |
-| x2 | Single | 2 番目の制御点の絶対 X 座標。 |
-| y2 | Single | 2 番目の制御点の絶対 Y 座標。 |
+| x | Single | このパスセグメントの終点の絶対X座標。 |
+| y | Single | このパスセグメントの終点の絶対Y座標。 |
+| x2 | Single | 2番目の制御点の絶対X座標。 |
+| y2 | Single | 2番目の制御点の絶対Y座標。 |
 
 ### 戻り値
 
-スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothAbs オブジェクト。
+スタンドアロンで親のない SVGPathSegCurvetoCubicSmoothAbs オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegCurvetoCubicSmoothAbs](../../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/)
 * class [SVGPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: MessageFilter.Match
-second_title: Aspose.SVG for .NET API リファレンス
-description: MessageFilter 方法. 派生クラスでオーバーライドされるとコンテキストがフィルター基準を満たすかどうかをテストします
+title: "MessageFilter.Match"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MessageFilter Match メソッド。派生クラスでオーバーライドされた場合、Context がフィルター基準を満たすかどうかをテストします。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/messagefilter/match/
 ---
 ## MessageFilter.Match method
 
-派生クラスでオーバーライドされると、コンテキストがフィルター基準を満たすかどうかをテストします。
+派生クラスでオーバーライドされた場合、Context がフィルター基準を満たすかどうかをテストします。
 
 ```csharp
 public abstract bool Match(INetworkOperationContext context)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | context | INetworkOperationContext | コンテキスト。 |
 
 ### 戻り値
 
-真実 Context オブジェクトがフィルター基準を満たす場合。さもないと、間違い.
+Context オブジェクトがフィルター基準を満たす場合は true、そうでない場合は false。
 
-### 関連項目
+### 参照
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageFilter](../)
-* 名前空間 [Aspose.Svg.Net](../../messagefilter/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

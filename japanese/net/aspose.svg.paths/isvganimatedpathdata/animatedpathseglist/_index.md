@@ -1,28 +1,26 @@
 ---
-title: ISVGAnimatedPathData.AnimatedPathSegList
-second_title: Aspose.SVG for .NET API リファレンス
-description: ISVGAnimatedPathData 財産. SVG の構文と 1 対 1 で一致する形式でd 属性の現在のアニメーション化されたコンテンツへのアクセスを提供します指定された属性またはプロパティがアニメーション化されている場合属性またはプロパティの現在のアニメーション化された値が含まれオブジェクト自体とそのコンテンツの両方が読み取り専用になります指定された属性またはプロパティが現在アニメーション化されていない場合pathSegList. と同じ値が含まれます
+title: "ISVGAnimatedPathData.AnimatedPathSegList"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ISVGAnimatedPathData AnimatedPathSegList プロパティ。SVG の構文と 1 対 1 に一致する形式で、d 属性の現在のアニメーション化された内容へのアクセスを提供します。指定された属性またはプロパティがアニメーション化されている場合、属性またはプロパティの現在のアニメーション値を含み、オブジェクト自体とその内容は読み取り専用です。指定された属性またはプロパティが現在アニメーション化されていない場合、pathSegList と同じ値を含みます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.paths/isvganimatedpathdata/animatedpathseglist/
 ---
 ## ISVGAnimatedPathData.AnimatedPathSegList property
 
-SVG の構文と 1 対 1 で一致する形式で、'd' 属性の現在のアニメーション化されたコンテンツへのアクセスを提供します。指定された属性またはプロパティがアニメーション化されている場合、属性またはプロパティの現在のアニメーション化された値が含まれ、オブジェクト自体とそのコンテンツの両方が読み取り専用になります。指定された属性またはプロパティが現在アニメーション化されていない場合、pathSegList. と同じ値が含まれます。
+‘d’ 属性の現在のアニメーション化された内容に、SVG の構文と 1 対 1 に対応する形でアクセスできるようにします。対象の属性またはプロパティがアニメーション中であれば、その属性またはプロパティの現在のアニメーション値を含み、オブジェクト自体とその内容は読み取り専用です。対象の属性またはプロパティが現在アニメーションされていない場合は、pathSegList と同じ値を含みます。
 
 ```csharp
 public SVGPathSegList AnimatedPathSegList { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-アニメーション化されたパス セグメント リスト.
+アニメーション化されたパスセグメントリスト。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegList](../../svgpathseglist/)
 * interface [ISVGAnimatedPathData](../)
-* 名前空間 [Aspose.Svg.Paths](../../isvganimatedpathdata/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

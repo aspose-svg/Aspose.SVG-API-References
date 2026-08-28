@@ -1,27 +1,25 @@
 ---
-title: IWindow.Alert
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 方法. 指定されたメッセージでモーダル アラートを表示しユーザーがそれを閉じるのを待ちます
+title: "IWindow.Alert"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Alert メソッド。指定されたメッセージでモーダルのアラートを表示し、ユーザーがそれを閉じるのを待ちます。"
 type: docs
-weight: 100
+weight: 110
 url: /ja/net/aspose.svg.window/iwindow/alert/
 ---
 ## IWindow.Alert method
 
-指定されたメッセージでモーダル アラートを表示し、ユーザーがそれを閉じるのを待ちます
+指定されたメッセージでモーダルアラートを表示し、ユーザーがそれを閉じるまで待機します。
 
 ```csharp
 public void Alert(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
+| メッセージ | String | メッセージ。 |
 
-### 関連項目
+### 参照
 
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

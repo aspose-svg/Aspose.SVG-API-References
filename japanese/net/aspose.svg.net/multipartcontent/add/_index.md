@@ -1,28 +1,26 @@
 ---
-title: MultipartContent.Add
-second_title: Aspose.SVG for .NET API リファレンス
-description: MultipartContent 方法. 新しいコンテンツをMultipartContent
+title: "MultipartContent.Add"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MultipartContent Add メソッド。新しいコンテンツを MultipartContent に追加します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.net/multipartcontent/add/
 ---
 ## MultipartContent.Add method
 
-新しいコンテンツを[`MultipartContent`](../)
+新しいコンテンツを [`MultipartContent`](../) に追加します
 
 ```csharp
 public virtual void Add(Content content)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | Content | に追加するコンテンツ[`MultipartContent`](../) |
+| content | Content | [`MultipartContent`](../) に追加されるコンテンツ |
 
-### 関連項目
+### 参照
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* 名前空間 [Aspose.Svg.Net](../../multipartcontent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,30 @@
 ---
-title: RGBColor.Red
-second_title: Aspose.SVG for .NET API リファレンス
-description: RGBColor 財産. この属性はRGB カラーの赤の値に使用されます
+title: "RGBColor.Red"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "RGBColor Red プロパティ。 この Color クラスの赤成分の値を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.css/rgbcolor/red/
 ---
 ## RGBColor.Red property
 
-この属性は、RGB カラーの赤の値に使用されます。
+この Color クラスの赤成分の値を取得します。
 
 ```csharp
 public CSSPrimitiveValue Red { get; }
 ```
 
-### 関連項目
+### Property Value
+
+この Color の赤成分の値。
+
+## 備考
+
+各ピクセルの色は 32 ビットの数値で表されます：アルファ、赤、緑、青 (ARGB) がそれぞれ 8 ビットです。アルファ成分は色の透明度を指定し、0 は完全に透明、255 は完全に不透明を表します。同様に、アルファ値が 255 の場合は不透明な色です。アルファ値が 1 から 254 の間の場合は半透明の色となります。アルファが 255 に近づくほど色はより不透明になります。
+
+### 参照
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [RGBColor](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../rgbcolor/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

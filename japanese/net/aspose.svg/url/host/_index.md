@@ -1,27 +1,25 @@
 ---
-title: Url.Host
-second_title: Aspose.SVG for .NET API リファレンス
-description: Url 財産. 指定された URL ホストの文字列表現を取得または設定します
+title: "Url.Host"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Url Host プロパティ。指定された URL のホストの文字列表現を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg/url/host/
 ---
 ## Url.Host property
 
-指定された URL ホストの文字列表現を取得または設定します。
+指定された URL のホストの文字列表現を取得または設定します。
 
 ```csharp
 public string Host { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ホスト.
+ホストです。
 
-### 関連項目
+### 参照
 
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

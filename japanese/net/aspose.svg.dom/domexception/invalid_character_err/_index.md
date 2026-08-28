@@ -1,7 +1,7 @@
 ---
-title: DOMException.INVALID_CHARACTER_ERR
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMException 分野. XML 名などで無効または不正な文字が指定された場合
+title: "DOMException.INVALID_CHARACTER_ERR"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMException INVALID_CHARACTER_ERR フィールド。XML 名などで無効または不正な文字が指定された場合です。"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg.dom/domexception/invalid_character_err/
@@ -14,10 +14,8 @@ XML 名などで無効または不正な文字が指定された場合。
 public const ushort INVALID_CHARACTER_ERR;
 ```
 
-### 関連項目
+### 参照
 
 * class [DOMException](../)
-* 名前空間 [Aspose.Svg.Dom](../../domexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

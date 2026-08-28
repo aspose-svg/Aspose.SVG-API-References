@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.CtrlKey
-second_title: Aspose.SVG for .NET API リファレンス
-description: KeyboardEvent 財産. Control コントロール キー修飾子がアクティブだった場合は true. この属性の初期化されていない値は false でなければなりません.
+title: "KeyboardEvent.CtrlKey"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "KeyboardEvent CtrlKey プロパティ。Control キー修飾子が有効な場合は true。属性の未初期化値は必ず false でなければなりません。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.events/keyboardevent/ctrlkey/
 ---
 ## KeyboardEvent.CtrlKey property
 
-Control (コントロール) キー修飾子がアクティブだった場合は true. この属性の初期化されていない値は false でなければなりません.
+Control（制御）キー修飾子がアクティブな場合は true。属性の未初期化値は false である必要があります。
 
 ```csharp
 public bool CtrlKey { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`コントロールの場合。さもないと、`間違い` .
+`true` は Control が有効な場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [KeyboardEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

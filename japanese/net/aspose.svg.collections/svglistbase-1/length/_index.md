@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.Length
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGListBase 財産. リスト内の項目数
+title: "SVGListBase-1.Length"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGListBase Length プロパティ。リスト内の項目数です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.collections/svglistbase-1/length/
 ---
-## SVGListBase&lt;T&gt;.Length property
+## SVGListBase<T>.Length property
 
 リスト内の項目数。
 
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.collections/svglistbase-1/length/
 public ulong Length { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-アイテム数.
+項目数です。
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

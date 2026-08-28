@@ -1,7 +1,7 @@
 ---
-title: INetworkService.UrlResolver
-second_title: Aspose.SVG for .NET API リファレンス
-description: INetworkService 財産. URL リゾルバーを取得または設定します
+title: "INetworkService.UrlResolver"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "INetworkService UrlResolver プロパティ。URL リゾルバーを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.services/inetworkservice/urlresolver/
@@ -14,15 +14,13 @@ URL リゾルバーを取得または設定します。
 public UrlResolver UrlResolver { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-URL リゾルバー。
+URL リゾルバーです。
 
-### 関連項目
+### 参照
 
 * class [UrlResolver](../../../aspose.svg.net/urlresolver/)
 * interface [INetworkService](../)
-* 名前空間 [Aspose.Svg.Services](../../inetworkservice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

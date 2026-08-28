@@ -1,47 +1,45 @@
 ---
-title: ErrorEvent.ErrorEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: ErrorEvent コンストラクタ. の新しいインスタンスを初期化しますErrorEvent class.
+title: "ErrorEvent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ErrorEvent コンストラクタ。ErrorEvent クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent(Exception) {#constructor_1}
+## ErrorEvent(*Exception*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ErrorEvent`](../) class.
+[`ErrorEvent`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ErrorEvent(Exception exception)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| exception | Exception | 例外。 |
+| 例外 | 例外 | 例外です。 |
 
-### 関連項目
+### 参照
 
 * class [ErrorEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
+## ErrorEvent(*IDictionary&lt;string, object&gt;*) {#constructor}
 
-の新しいインスタンスを初期化します[`ErrorEvent`](../) class.
+[`ErrorEvent`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| eventInitDict | IDictionary`2 | イベント初期化オブジェクト。 |
+| eventInitDict | IDictionary`2 | イベント初期化オブジェクトです。 |
 
-### 関連項目
+### 参照
 
 * class [ErrorEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

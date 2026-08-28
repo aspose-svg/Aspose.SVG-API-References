@@ -1,44 +1,42 @@
 ---
-title: Class ImageSaveOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Saving.ImageSaveOptions クラス. 特定のオプション データ クラス.
+title: "ImageSaveOptions クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Saving.ImageSaveOptions クラス。特定のオプションデータクラスです。"
 type: docs
-weight: 3620
+weight: 5690
 url: /ja/net/aspose.svg.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class
 
-特定のオプション データ クラス.
+特定のオプションデータクラスです。
 
 ```csharp
 public class ImageSaveOptions : ImageRenderingOptions
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions/#constructor)() | の新しいインスタンスを初期化します`ImageSaveOptions`クラス;Pngデフォルトの画像フォーマットとして使用されます. |
-| [ImageSaveOptions](imagesaveoptions/#constructor_1)(ImageFormat) | 画像フォーマット[`ImageFormat`](../../aspose.svg.rendering.image/imageformat/)initialization に基づく |
+| [ImageSaveOptions](imagesaveoptions/#constructor)() | `ImageSaveOptions` クラスの新しいインスタンスを初期化します。デフォルトの画像形式として Png が使用されます。 |
+| [ImageSaveOptions](imagesaveoptions/#constructor_1)(*[ImageFormat](../../aspose.svg.rendering.image/imageformat/)*) | 初期化に基づく画像形式は [`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) です。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | 取得または設定Colorすべてのページの背景を塗りつぶします。デフォルト値はTransparent . |
-| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | タグ付き画像ファイル形式 (TIFF) を設定または取得します[`Compression`](../../aspose.svg.rendering.image/compression/).デフォルトでは、このプロパティはLZW . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | を取得します[`CssOptions`](../../aspose.svg.rendering/cssoptions/) css プロパティ処理の構成に使用されるオブジェクト. |
-| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | 設定または取得[`ImageFormat`](../../aspose.svg.rendering.image/imageformat/).デフォルトでは、このプロパティはPng . |
-| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | 出力および内部 (フィルター処理中に使用される) 画像の水平解像度を、1 インチあたりのピクセル数で設定または取得します。デフォルトでは、このプロパティは 300 dpi. です。 |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | 設定出力ページ セットに使用されるページ設定オブジェクトを取得します。 |
-| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | この Graphics のレンダリング品質を取得または設定します。 |
-| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | を取得します[`TextOptions`](../../aspose.svg.rendering.image/textoptions/)テキストレンダリングの設定に使用されるオブジェクト. |
-| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | 出力および内部 (フィルター処理中に使用される) イメージの垂直解像度を、1 インチあたりのピクセル数で設定または取得します。デフォルトでは、このプロパティは 300 dpi. です。 |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | ページごとの背景を塗りつぶす Color を取得または設定します。デフォルト値は Transparent です。 |
+| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Tagged Image File Format (TIFF) の [`Compression`](../../aspose.svg.rendering.image/compression/) を設定または取得します。デフォルトではこのプロパティは LZW です。 |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | [`CssOptions`](../../aspose.svg.rendering/cssoptions/) オブジェクトを取得します。このオブジェクトは css プロパティの処理設定に使用されます。 |
+| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | [`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) を設定または取得します。デフォルトではこのプロパティは Png です。 |
+| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | 出力および内部（フィルタ処理中に使用される）画像の水平解像度を DPI（インチあたりピクセル数）で設定または取得します。デフォルトではこのプロパティは 300 dpi です。 |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | ページ設定オブジェクトを取得します。これは出力ページセットの構成に使用されます。 |
+| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | [`TextOptions`](../../aspose.svg.rendering.image/textoptions/) オブジェクトを取得します。このオブジェクトはテキストレンダリングの構成に使用されます。 |
+| [UseAntialiasing](../../aspose.svg.rendering.image/imagerenderingoptions/useantialiasing/) { get; set; } | アンチエイリアシングを使用するかどうかを指定します。デフォルトではアンチエイリアシングが有効になっています。 |
+| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | 出力および内部（フィルタ処理中に使用される）画像の垂直解像度を DPI（インチあたりピクセル数）で設定または取得します。デフォルトではこのプロパティは 300 dpi です。 |
 
-### 関連項目
+### 参照
 
 * class [ImageRenderingOptions](../../aspose.svg.rendering.image/imagerenderingoptions/)
-* 名前空間 [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

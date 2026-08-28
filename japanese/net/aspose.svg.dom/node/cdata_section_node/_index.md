@@ -1,23 +1,21 @@
 ---
-title: Node.CDATA_SECTION_NODE
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 分野. cdata セクション node
+title: "Node.CDATA_SECTION_NODE"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node CDATA_SECTION_NODE フィールド。CDATA セクションノード。"
 type: docs
-weight: 330
+weight: 310
 url: /ja/net/aspose.svg.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
 
-cdata セクション node
+CDATA セクションノード
 
 ```csharp
 public const ushort CDATA_SECTION_NODE;
 ```
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

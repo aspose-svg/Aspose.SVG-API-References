@@ -1,27 +1,25 @@
 ---
-title: Element.ChildElementCount
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 財産. この要素の子である要素ノードの現在の数を返しますこの要素に nodeType 1. の子ノードがない場合は 0
+title: "Element.ChildElementCount"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element ChildElementCount プロパティ。この要素の子である要素ノードの現在の数を返します。nodeType が 1 の子ノードがない場合は 0 を返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom/element/childelementcount/
 ---
 ## Element.ChildElementCount property
 
-この要素の子である要素ノードの現在の数を返します。この要素に nodeType 1. の子ノードがない場合は 0
+この要素の子である要素ノードの現在の数を返します。nodeType が 1 の子ノードがない場合は 0 を返します。
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-子要素の数.
+子要素の数です。
 
-### 関連項目
+### 参照
 
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

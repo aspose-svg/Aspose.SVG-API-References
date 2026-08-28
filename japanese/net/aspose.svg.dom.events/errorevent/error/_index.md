@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.Error
-second_title: Aspose.SVG for .NET API リファレンス
-description: ErrorEvent 財産. error 属性は初期化された値を返す必要がありますオブジェクトの作成時にこの属性を null に初期化する必要があります必要に応じてエラーを表すオブジェクトに設定されます 例 キャッチされていない DOM 例外の場合の例外オブジェクト.
+title: "ErrorEvent.Error"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ErrorEvent Error プロパティ。error 属性は初期化時の値を返す必要があります。オブジェクト作成時にこの属性は null に初期化されます。適切な場合には、エラーを表すオブジェクト（例：捕捉されていない DOM 例外の場合は例外オブジェクト）に設定されます。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.events/errorevent/error/
 ---
 ## ErrorEvent.Error property
 
-error 属性は、初期化された値を返す必要があります。オブジェクトの作成時に、この属性を null に初期化する必要があります。必要に応じて、エラーを表すオブジェクトに設定されます (例: キャッチされていない DOM 例外の場合の例外オブジェクト).
+error 属性は初期化された値を返す必要があります。オブジェクト作成時にこの属性は null に初期化されます。適切な場合は、エラーを表すオブジェクト（例：捕捉されなかった DOM 例外の場合の例外オブジェクト）に設定されます。
 
 ```csharp
 public object Error { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-エラー.
+エラーです。
 
-### 関連項目
+### 参照
 
 * class [ErrorEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../errorevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

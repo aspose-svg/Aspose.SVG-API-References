@@ -1,43 +1,49 @@
 ---
-title: Class SVGException
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.SVGException クラス. この例外は特定の SVG 操作を実行できない場合に発生します
+title: "SVGException クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.SVGException クラス。この例外は、特定の SVG 操作を実行できない場合に発生します。"
 type: docs
-weight: 3230
+weight: 5300
 url: /ja/net/aspose.svg/svgexception/
 ---
 ## SVGException class
 
-この例外は、特定の SVG 操作を実行できない場合に発生します。
+特定の SVG 操作を実行できない場合にこの例外がスローされます。
 
 ```csharp
 public class SVGException : PlatformException
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [SVGException](svgexception/)(ushort) | の新しいインスタンスを初期化します`SVGException` class. |
+| [SVGException](svgexception/)(*ushort*) | `SVGException` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Code](../../aspose.svg/svgexception/code/) { get; } | 要求された操作を実行できなかった理由を識別するコード。このメンバーの値は、SVGException コード グループの定数の 1 つになります。 |
+| [Code](../../aspose.svg/svgexception/code/) { get; } | 要求された操作を実行できなかった理由を識別するコードです。このメンバーの値は SVGException コード グループの定数のいずれかになります。 |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
+| virtual [Message](../../system/exception/message/) { get; } |  |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [SVG_INVALID_VALUE_ERR](../../aspose.svg/svgexception/svg_invalid_value_err/) | 無効な値が操作に渡された場合、または属性に割り当てられた場合に発生します。 |
-| const [SVG_MATRIX_NOT_INVERTABLE](../../aspose.svg/svgexception/svg_matrix_not_invertable/) | 反転できない行列を反転しようとすると発生します. |
-| const [SVG_WRONG_TYPE_ERR](../../aspose.svg/svgexception/svg_wrong_type_err/) | 間違った型のオブジェクトが操作に渡されたときに発生します. |
+| const [SVG_INVALID_VALUE_ERR](../../aspose.svg/svgexception/svg_invalid_value_err/) | 操作に無効な値が渡されたり属性に割り当てられたときにスローされます。 |
+| const [SVG_MATRIX_NOT_INVERTABLE](../../aspose.svg/svgexception/svg_matrix_not_invertable/) | 可逆でない行列の逆行列を求めようとしたときにスローされます。 |
+| const [SVG_WRONG_TYPE_ERR](../../aspose.svg/svgexception/svg_wrong_type_err/) | 操作に誤った型のオブジェクトが渡されたときにスローされます。 |
 
-### 関連項目
+### 参照
 
 * class [PlatformException](../platformexception/)
-* 名前空間 [Aspose.Svg](../../aspose.svg/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

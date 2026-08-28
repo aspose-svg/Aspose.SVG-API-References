@@ -1,32 +1,30 @@
 ---
-title: IWindow.Prompt
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 方法. 指定されたメッセージとともにモーダル テキスト フィールド プロンプトを表示しユーザーがそれを閉じるのを待ってユーザーが入力した値を返しますユーザーがプロンプトをキャンセルすると代わりに null が返されます 2 番目の引数が存在する場合指定された値がデフォルトとして使用されます
+title: "IWindow.Prompt"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Prompt メソッド。指定されたメッセージでモーダルのテキスト入力プロンプトを表示し、ユーザーがそれを閉じるのを待ち、ユーザーが入力した値を返します。ユーザーがプロンプトをキャンセルした場合は null を返します。第2引数が指定されている場合、その値がデフォルトとして使用されます。"
 type: docs
-weight: 120
+weight: 160
 url: /ja/net/aspose.svg.window/iwindow/prompt/
 ---
 ## IWindow.Prompt method
 
-指定されたメッセージとともにモーダル テキスト フィールド プロンプトを表示し、ユーザーがそれを閉じるのを待って、ユーザーが入力した値を返します。ユーザーがプロンプトをキャンセルすると、代わりに null が返されます。 2 番目の引数が存在する場合、指定された値がデフォルトとして使用されます。
+指定されたメッセージでモーダルのテキストフィールドプロンプトを表示し、ユーザーがそれを閉じるまで待機し、ユーザーが入力した値を返します。ユーザーがプロンプトをキャンセルした場合は null を返します。第2引数が存在する場合、与えられた値がデフォルトとして使用されます。
 
 ```csharp
 public string Prompt(string message, string @default)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
-| default | String | デフォルト。 |
+| メッセージ | String | メッセージ。 |
+| デフォルト | String | デフォルト。 |
 
 ### 戻り値
 
-ユーザーが入力した値を返します
+ユーザーが入力した値を返します。
 
-### 関連項目
+### 参照
 
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

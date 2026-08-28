@@ -1,14 +1,14 @@
 ---
-title: IBrush.Type
-second_title: Aspose.SVG for .NET API リファレンス
-description: IBrush 財産. ブラシの種類を取得
+title: "IBrush.Type"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IBrush Type プロパティ。ブラシのタイプを BrushType として取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/ibrush/type/
 ---
 ## IBrush.Type property
 
-ブラシの種類を取得;
+ブラシのタイプを [`BrushType`](../../brushtype/) として取得します。
 
 ```csharp
 public BrushType Type { get; }
@@ -16,13 +16,11 @@ public BrushType Type { get; }
 
 ### 戻り値
 
-ブラシの種類
+ブラシのタイプ
 
-### 関連項目
+### 参照
 
 * enum [BrushType](../../brushtype/)
 * interface [IBrush](../)
-* 名前空間 [Aspose.Svg.Drawing](../../ibrush/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,60 +1,58 @@
 ---
-title: Url.Url
-second_title: Aspose.SVG for .NET API リファレンス
-description: Url コンストラクタ. の新しいインスタンスを初期化しますUrl指定された URL で.
+title: "Url"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Url コンストラクタ。指定された URL で Url の新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/url/url/
 ---
-## Url(string) {#constructor}
+## Url(*string*) {#constructor}
 
-の新しいインスタンスを初期化します[`Url`](../)指定された URL で.
+指定された URL で [`Url`](../) の新しいインスタンスを初期化します。
 
 ```csharp
 public Url(string url)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| url | String | 処理する URL。 |
+| url | String | 処理対象の URL。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| Error | TypeError: 発生した場合`URL`有効な URL として解析できません。 |
+| エラー | TypeError: `url` が有効な URL として解析できない場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Url(string, string) {#constructor_1}
+## Url(*string, string*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Url`](../) URL とベース URL. を指定
+指定された URL と base URL で [`Url`](../) の新しいインスタンスを初期化します。
 
 ```csharp
 public Url(string url, string baseUrl)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| url | String | 処理する URL。 |
+| url | String | 処理対象の URL。 |
 | baseUrl | String | ベース URL。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| Error | TypeError: 発生した場合`URL`また`baseUrl`有効な URL として解析できません。 |
+| エラー | TypeError: `url` または `baseUrl` が有効な URL として解析できない場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

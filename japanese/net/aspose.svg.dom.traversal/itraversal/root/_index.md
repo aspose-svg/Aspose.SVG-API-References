@@ -1,28 +1,26 @@
 ---
-title: ITraversal.Root
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITraversal 財産. it の作成時に指定された NodeIterator のルート ノード
+title: "ITraversal.Root"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITraversal Root プロパティ。作成時に指定された NodeIterator のルートノード"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.traversal/itraversal/root/
 ---
 ## ITraversal.Root property
 
-it の作成時に指定された NodeIterator のルート ノード。
+作成時に指定された NodeIterator のルートノード。
 
 ```csharp
 public Node Root { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ルート.
+このルート。
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITraversal](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

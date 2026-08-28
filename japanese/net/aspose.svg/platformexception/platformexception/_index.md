@@ -1,64 +1,62 @@
 ---
-title: PlatformException.PlatformException
-second_title: Aspose.SVG for .NET API リファレンス
-description: PlatformException コンストラクタ. の新しいインスタンスを初期化しますPlatformException class.
+title: "PlatformException"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PlatformException コンストラクタ。PlatformException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}
 
-の新しいインスタンスを初期化します[`PlatformException`](../) class.
+[`PlatformException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PlatformException()
 ```
 
-### 関連項目
+### 参照
 
 * class [PlatformException](../)
-* 名前空間 [Aspose.Svg](../../platformexception/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string) {#constructor_1}
+## PlatformException(*string*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`PlatformException`](../)指定されたエラー メッセージを持つクラス.
+[`PlatformException`](../) クラスの新しいインスタンスを、指定されたエラーメッセージで初期化します。
 
 ```csharp
 public PlatformException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| message | String | エラーを説明するメッセージ。 |
+| メッセージ | String | エラーを説明するメッセージです。 |
 
-### 関連項目
+### 参照
 
 * class [PlatformException](../)
-* 名前空間 [Aspose.Svg](../../platformexception/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string, Exception) {#constructor_2}
+## PlatformException(*string, Exception*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`PlatformException`](../)指定されたエラー メッセージと、この例外の原因である内部例外への参照を持つクラス.
+指定されたエラーメッセージと、この例外の原因となる内部例外への参照を使用して、[`PlatformException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PlatformException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外の理由を説明するエラー メッセージ。 |
-| innerException | Exception | 現在の例外の原因である例外、または内部例外が指定されていない場合は null 参照。 |
+| メッセージ | String | 例外の原因を説明するエラーメッセージです。 |
+| innerException | 例外 | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照です。 |
 
-### 関連項目
+### 参照
 
 * class [PlatformException](../)
-* 名前空間 [Aspose.Svg](../../platformexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

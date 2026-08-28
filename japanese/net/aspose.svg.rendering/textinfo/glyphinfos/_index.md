@@ -1,7 +1,7 @@
 ---
-title: TextInfo.GlyphInfos
-second_title: Aspose.SVG for .NET API リファレンス
-description: TextInfo 財産. レンダリングされたグリフに関する情報を取得します
+title: "TextInfo.GlyphInfos"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "TextInfo GlyphInfos プロパティ。レンダリングされたグリフに関する情報を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering/textinfo/glyphinfos/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.rendering/textinfo/glyphinfos/
 public IList<GlyphInfo> GlyphInfos { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-AIListレンダリングされたグリフに関する情報が含まれています。
+レンダリングされたグリフに関する情報を含む IList。
 
-### 関連項目
+### 参照
 
 * struct [GlyphInfo](../../glyphinfo/)
 * class [TextInfo](../)
-* 名前空間 [Aspose.Svg.Rendering](../../textinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

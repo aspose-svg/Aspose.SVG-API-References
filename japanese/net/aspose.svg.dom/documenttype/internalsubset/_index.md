@@ -1,27 +1,25 @@
 ---
-title: DocumentType.InternalSubset
-second_title: Aspose.SVG for .NET API リファレンス
-description: DocumentType 財産. 文字列としての内部サブセットまたは存在しない場合は null.
+title: "DocumentType.InternalSubset"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DocumentType InternalSubset property. 内部サブセットを文字列として表し、存在しない場合は null です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom/documenttype/internalsubset/
 ---
 ## DocumentType.InternalSubset property
 
-文字列としての内部サブセット、または存在しない場合は null.
+内部サブセットを文字列として、存在しない場合は null。
 
 ```csharp
 public string InternalSubset { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-内部サブセット。
+内部サブセットです。
 
-### 関連項目
+### 参照
 
 * class [DocumentType](../)
-* 名前空間 [Aspose.Svg.Dom](../../documenttype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

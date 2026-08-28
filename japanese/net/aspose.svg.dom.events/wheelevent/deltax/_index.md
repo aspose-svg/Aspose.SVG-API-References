@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaX
-second_title: Aspose.SVG for .NET API リファレンス
-description: WheelEvent 財産. wheel イベントのデフォルト アクションがスクロールであるユーザー エージェントでは値はイベントがキャンセルされない場合にスクロールされる x 軸に沿った測定値 ピクセルラインまたはページ単位 でなければなりませんそれ以外の場合これは x 軸を中心としたホイール デバイスの動きの実装固有の測定値 ピクセルラインまたはページ単位 です
+title: "WheelEvent.DeltaX"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "WheelEvent DeltaX プロパティ。ユーザーエージェントでホイールイベントのデフォルト動作がスクロールである場合、イベントがキャンセルされないとき、値は X 軸に沿ったピクセル、行、またはページ単位の測定である必要があります（MUST）。それ以外の場合、これは X 軸周りのホイールデバイスの動きに関するピクセル、行、またはページ単位の実装固有の測定です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.events/wheelevent/deltax/
 ---
 ## WheelEvent.DeltaX property
 
-wheel イベントのデフォルト アクションがスクロールであるユーザー エージェントでは、値は、イベントがキャンセルされない場合にスクロールされる x 軸に沿った測定値 (ピクセル、ライン、またはページ単位) でなければなりません。それ以外の場合、これは x 軸を中心としたホイール デバイスの動きの実装固有の測定値 (ピクセル、ライン、またはページ単位) です。
+ホイールイベントのデフォルト動作がスクロールであるユーザーエージェントでは、イベントがキャンセルされない場合にスクロールされる x 軸方向の測定値（ピクセル、行、またはページ単位）でなければなりません。そうでない場合、これは x 軸周りのホイールデバイスの動きを示す実装固有の測定値（ピクセル、行、またはページ単位）です。
 
 ```csharp
 public double DeltaX { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 deltaX 属性。
 
-### 関連項目
+### 参照
 
 * class [WheelEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../wheelevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,38 +1,36 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicRel
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathElement 方法. スタンドアロンで親のない SVGPathSegCurvetoCubicRel オブジェクトを返します
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicRel"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicRel メソッド。スタンドアロンで親を持たない SVGPathSegCurvetoCubicRel オブジェクトを返します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicRel method
 
-スタンドアロンで親のない SVGPathSegCurvetoCubicRel オブジェクトを返します。
+単独で親を持たない SVGPathSegCurvetoCubicRel オブジェクトを返します。
 
 ```csharp
 public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float y, float x1, 
     float y1, float x2, float y2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | このパス セグメントの終点の相対 X 座標。 |
-| y | Single | このパス セグメントの終点の相対 Y 座標。 |
-| x1 | Single | 最初の制御点の相対 X 座標。 |
-| y1 | Single | 最初の制御点の相対 Y 座標。 |
-| x2 | Single | 2 番目の制御点の相対 X 座標。 |
-| y2 | Single | 2 番目の制御点の相対 Y 座標。 |
+| x | Single | このパスセグメントの終点の相対X座標。 |
+| y | Single | このパスセグメントの終点の相対Y座標。 |
+| x1 | Single | 最初の制御点の相対X座標。 |
+| y1 | Single | 最初の制御点の相対Y座標。 |
+| x2 | Single | 2番目の制御点の相対X座標。 |
+| y2 | Single | 2番目の制御点の相対Y座標。 |
 
 ### 戻り値
 
-スタンドアロンで親のない SVGPathSegCurvetoCubicRel オブジェクト。
+スタンドアロンで親を持たない SVGPathSegCurvetoCubicRel オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegCurvetoCubicRel](../../../aspose.svg.paths/svgpathsegcurvetocubicrel/)
 * class [SVGPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

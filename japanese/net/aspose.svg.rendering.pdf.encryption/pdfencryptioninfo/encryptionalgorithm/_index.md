@@ -1,7 +1,7 @@
 ---
-title: PdfEncryptionInfo.EncryptionAlgorithm
-second_title: Aspose.SVG for .NET API リファレンス
-description: PdfEncryptionInfo 財産. 暗号化モードを取得または設定します
+title: "PdfEncryptionInfo.EncryptionAlgorithm"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PdfEncryptionInfo EncryptionAlgorithm プロパティ。暗号化モードを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalg
 public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-暗号化アルゴリズム.
+暗号化アルゴリズムです。
 
-### 関連項目
+### 参照
 
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

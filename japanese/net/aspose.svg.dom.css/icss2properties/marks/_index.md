@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Marks
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 のマーク プロパティ定義を参照してください
+title: "ICSS2Properties.Marks"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Marks プロパティ。CSS2 の marks プロパティ定義を参照してください。"
 type: docs
-weight: 690
+weight: 720
 url: /ja/net/aspose.svg.dom.css/icss2properties/marks/
 ---
 ## ICSS2Properties.Marks property
 
-CSS2 のマーク プロパティ定義を参照してください。
+CSS2 の marks プロパティ定義をご覧ください。
 
 ```csharp
 public string Marks { get; set; }
@@ -16,12 +16,10 @@ public string Marks { get; set; }
 
 ### 戻り値
 
-マーク プロパティ
+marks プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

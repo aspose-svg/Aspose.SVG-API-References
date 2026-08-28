@@ -1,7 +1,7 @@
 ---
-title: CharacterData.SubstringData
-second_title: Aspose.SVG for .NET API リファレンス
-description: CharacterData 方法. ノードからデータの範囲を抽出します
+title: "CharacterData.SubstringData"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CharacterData SubstringData メソッド。ノードからデータの範囲を抽出します"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom/characterdata/substringdata/
@@ -14,19 +14,17 @@ url: /ja/net/aspose.svg.dom/characterdata/substringdata/
 public virtual string SubstringData(int offset, int count)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| offset | Int32 | オフセット。 |
-| count | Int32 | カウント。 |
+| オフセット | Int32 | オフセット。 |
+| カウント | Int32 | カウントです。 |
 
 ### 戻り値
 
-テキストデータ
+テキスト データ
 
-### 関連項目
+### 参照
 
 * class [CharacterData](../)
-* 名前空間 [Aspose.Svg.Dom](../../characterdata/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

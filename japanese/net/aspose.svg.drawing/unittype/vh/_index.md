@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vh
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 測定値はビューポートの高さの 1 を基準にしています 試してください
+title: "UnitType.Vh"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Vh フィールド。測定はビューポートの高さの 1 倍に対して相対的です。試してみてください。"
 type: docs
 weight: 270
 url: /ja/net/aspose.svg.drawing/unittype/vh/
 ---
 ## UnitType.Vh field
 
-測定値は、ビューポートの高さの 1% を基準にしています* 試してください
+測定はビューポートの高さの1%に対して相対的です* 試してみてください
 
 ```csharp
 public static readonly UnitType Vh;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

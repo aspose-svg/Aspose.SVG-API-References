@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.GetPlatformType
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSValueList 方法. このメソッドはECMAScript オブジェクトを取得するために使用されますType .
+title: "CSSValueList.GetPlatformType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSValueList GetPlatformType メソッド。このメソッドは ECMAScript オブジェクトの Type を取得するために使用されます"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom.css/cssvaluelist/getplatformtype/
 ---
 ## CSSValueList.GetPlatformType method
 
-このメソッドは、ECMAScript オブジェクトを取得するために使用されますType .
+このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。
 
 ```csharp
 public override Type GetPlatformType()
@@ -16,12 +16,10 @@ public override Type GetPlatformType()
 
 ### 戻り値
 
-ECMAScript オブジェクトType .
+ECMAScript オブジェクトの Type。
 
-### 関連項目
+### 参照
 
 * class [CSSValueList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

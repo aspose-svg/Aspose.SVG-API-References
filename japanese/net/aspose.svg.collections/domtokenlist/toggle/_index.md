@@ -1,56 +1,54 @@
 ---
-title: DOMTokenList.Toggle
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMTokenList 方法. トークンが存在する場合はリストから削除し存在しない場合はトークンをリストに追加します
+title: "DOMTokenList.Toggle"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMTokenList Toggle メソッド。トークンが存在すればリストから削除し、存在しなければリストに追加します"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg.collections/domtokenlist/toggle/
 ---
-## Toggle(string) {#toggle}
+## Toggle(*string*) {#toggle}
 
-トークンが存在する場合はリストから削除し、存在しない場合はトークンをリストに追加します。
+トークンがリストに存在すれば削除し、存在しなければリストに追加します。
 
 ```csharp
 public bool Toggle(string token)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| token | String | 切り替えたいトークン。 |
+| token | String | 切り替えたいトークンです。 |
 
 ### 戻り値
 
-呼び出し後にトークンがリストにあるかどうかを示すブール値。
+呼び出し後にトークンがリストに含まれているかを示す Boolean
 
-### 関連項目
+### 参照
 
 * class [DOMTokenList](../)
-* 名前空間 [Aspose.Svg.Collections](../../domtokenlist/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Toggle(string, bool?) {#toggle_1}
+## Toggle(*string, bool*) {#toggle_1}
 
-トークンが存在する場合はリストから削除し、存在しない場合はトークンをリストに追加します。
+トークンがリストに存在すれば削除し、存在しなければリストに追加します。
 
 ```csharp
-public bool Toggle(string token, bool? force)
+public bool Toggle(string token, bool force)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| token | String | 切り替えたいトークン。 |
-| force | Nullable`1 | 含まれている場合、トグルを一方向のみの操作に変えるブール値。 false に設定すると、トークンは削除されるだけで、追加されません。 true に設定すると、トークンは追加されるだけで削除されません。 |
+| token | String | 切り替えたいトークンです。 |
+| force | Boolean | 含めた場合、トグルを一方向のみの操作に変える Boolean。false に設定するとトークンは削除のみされ、追加は行われません。true に設定するとトークンは追加のみされ、削除は行われません。 |
 
 ### 戻り値
 
-呼び出し後にトークンがリストにあるかどうかを示すブール値。
+呼び出し後にトークンがリストに含まれているかを示す Boolean
 
-### 関連項目
+### 参照
 
 * class [DOMTokenList](../)
-* 名前空間 [Aspose.Svg.Collections](../../domtokenlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,135 +1,133 @@
 ---
-title: XpsDevice.XpsDevice
-second_title: Aspose.SVG for .NET API リファレンス
-description: XpsDevice コンストラクタ. の新しいインスタンスを初期化しますXpsDevice class.
+title: "XpsDevice"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "XpsDevice コンストラクター。XpsDevice クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
-## XpsDevice(ICreateStreamProvider) {#constructor}
+## XpsDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-の新しいインスタンスを初期化します[`XpsDevice`](../) class.
+[`XpsDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | ストリーム プロバイダー。 |
+| streamProvider | ICreateStreamProvider | ストリームプロバイダーです。 |
 
-### 関連項目
+### 参照
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XpsDevice`](../)レンダリング オプションとストリーム プロバイダーによるクラス.
+[`XpsDevice`](../) クラスの新しいインスタンスを、レンダリングオプションとストリームプロバイダーで初期化します。
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | XpsRenderingOptions | レンダリング オプション。 |
-| streamProvider | ICreateStreamProvider | を実装するオブジェクト[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)インターフェース |
+| options | XpsRenderingOptions | レンダリングオプションです。 |
+| streamProvider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) インターフェイスを実装するオブジェクト |
 
-### 関連項目
+### 参照
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(string) {#constructor_5}
+## XpsDevice(*string*) {#constructor_5}
 
-の新しいインスタンスを初期化します[`XpsDevice`](../) class.
+[`XpsDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XpsDevice(string file)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| file | String | 出力ファイル名。 |
+| file | String | 出力ファイル名です。 |
 
-### 関連項目
+### 参照
 
 * class [XpsDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), string*) {#constructor_3}
 
-の新しいインスタンスを初期化します[`XpsDevice`](../)レンダリング オプションと出力ファイル名によるクラス.
+[`XpsDevice`](../) クラスの新しいインスタンスを、レンダリングオプションと出力ファイル名で初期化します。
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | XpsRenderingOptions | レンダリング オプション。 |
-| file | String | 出力ファイル名。 |
+| options | XpsRenderingOptions | レンダリングオプションです。 |
+| file | String | 出力ファイル名です。 |
 
-### 関連項目
+### 参照
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(Stream) {#constructor_4}
+## XpsDevice(*Stream*) {#constructor_4}
 
-の新しいインスタンスを初期化します[`XpsDevice`](../) class.
+[`XpsDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XpsDevice(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ストリーム。 |
+| ストリーム | Stream | ストリームです。 |
 
-### 関連項目
+### 参照
 
 * class [XpsDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), Stream*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`XpsDevice`](../)オプションと出力ストリームをレンダリングすることによるクラス.
+[`XpsDevice`](../) クラスの新しいインスタンスを、レンダリングオプションと出力ストリームで初期化します。
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | XpsRenderingOptions | レンダリング オプション。 |
-| stream | Stream | 出力ストリーム。 |
+| options | XpsRenderingOptions | レンダリングオプションです。 |
+| ストリーム | Stream | 出力ストリームです。 |
 
-### 関連項目
+### 参照
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

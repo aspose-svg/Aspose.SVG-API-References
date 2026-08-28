@@ -1,32 +1,30 @@
 ---
-title: Document.CreateEntityReference
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. EntityReference オブジェクトを作成しますまた参照されるエンティティが既知の場合EntityReference ノードの子リストは対応する Entity ノードの子リストと同じになります
+title: "Document.CreateEntityReference"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateEntityReference メソッド。EntityReference オブジェクトを作成します。さらに、参照されたエンティティが既知の場合、EntityReference ノードの子リストは対応する Entity ノードと同じになります。"
 type: docs
 weight: 870
 url: /ja/net/aspose.svg.dom/document/createentityreference/
 ---
 ## Document.CreateEntityReference method
 
-EntityReference オブジェクトを作成します。また、参照されるエンティティが既知の場合、EntityReference ノードの子リストは、対応する Entity ノードの子リストと同じになります。
+EntityReference オブジェクトを作成します。さらに、参照されたエンティティが既知の場合、EntityReference ノードの子リストは対応する Entity ノードのものと同じにされます。
 
 ```csharp
 public EntityReference CreateEntityReference(string name)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | エンティティ名。 |
+| 名前 | String | エンティティ名。 |
 
 ### 戻り値
 
-[`EntityReference`](../../entityreference/) .
+`EntityReference`(../../entityreference/)です。
 
-### 関連項目
+### 参照
 
 * class [EntityReference](../../entityreference/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

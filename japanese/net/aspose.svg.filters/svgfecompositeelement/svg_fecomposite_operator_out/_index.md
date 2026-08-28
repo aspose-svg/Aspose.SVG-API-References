@@ -1,23 +1,21 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OUT
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFECompositeElement 分野. 値outに対応します
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OUT"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFECompositeElement SVG_FECOMPOSITE_OPERATOR_OUT フィールド。値 out に対応します"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_out/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OUT field
 
-値「out」に対応します。
+値 'out' に対応します。
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_OUT;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGFECompositeElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

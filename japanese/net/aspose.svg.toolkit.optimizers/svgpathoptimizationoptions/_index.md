@@ -1,38 +1,36 @@
 ---
-title: Class SVGPathOptimizationOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Toolkit.Optimizers.SVGPathOptimizationOptions クラス. SVGPathOptimizationOptions はSVG パス要素のセグメントを最適化するためのオプションを格納するためのクラスです
+title: "SVGPathOptimizationOptions クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Toolkit.Optimizers.SVGPathOptimizationOptions クラス。SVGPathOptimizationOptions は、SVG パス要素のセグメントを最適化するためのオプションを格納するクラスです。"
 type: docs
-weight: 3800
+weight: 5900
 url: /ja/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions class
 
-SVGPathOptimizationOptions は、SVG パス要素のセグメントを最適化するためのオプションを格納するためのクラスです。
+SVGPathOptimizationOptions は SVG パス要素のセグメントを最適化するオプションを保存するためのクラスです。
 
 ```csharp
 public class SVGPathOptimizationOptions
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | の新しいインスタンスを初期化します`SVGPathOptimizationOptions` class. |
+| [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | `SVGPathOptimizationOptions` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ApplyTransforms](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/) { get; set; } | パス セグメントに変換を適用するオプションを取得または設定します。デフォルトでは「false」です。 |
-| [ArcBuildingThreshold](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/) { get; set; } | ベジエ セグメントを円弧セグメントに置き換えるためのしきい値エラーとして使用されるパラメーター値を取得または設定します。デフォルトでは「2.5」です。 |
-| [ArcBuildingTolerance](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/) { get; set; } | ベジエ セグメントを円弧セグメントに置き換える半径のパーセンテージとして使用されるパラメーター値を取得または設定します。デフォルトでは「0.5」です。 |
-| [FloatPrecision](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/) { get; set; } | float 精度の浮動小数点値を指定された小数桁数に丸めるオプションを取得または設定します。デフォルトでは「3」です。 |
-| [RemoveSpaceAfterFlags](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/) { get; set; } | 「arcto」コマンド フラグの後の余分なスペースを削除するオプションを取得または設定します。デフォルトでは「false」です。 |
+| [ApplyTransforms](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/) { get; set; } | パスセグメントに変換を適用するオプションを取得または設定します。デフォルトは 'false' です。 |
+| [ArcBuildingThreshold](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/) { get; set; } | ベジエセグメントを弧セグメントに置き換える際のしきい値エラーとして使用されるパラメータ値を取得または設定します。デフォルトは '2.5' です。 |
+| [ArcBuildingTolerance](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/) { get; set; } | ベジエセグメントを弧セグメントに置き換える際の半径のパーセンテージとして使用されるパラメータ値を取得または設定します。デフォルトは '0.5' です。 |
+| [FloatPrecision](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/) { get; set; } | 浮動小数点の単精度値を指定された小数桁数に丸めるオプションを取得または設定します。デフォルトは '3' です。 |
+| [RemoveSpaceAfterFlags](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/) { get; set; } | 'arcto' コマンドフラグの後の余分なスペースを削除するオプションを取得または設定します。デフォルトは 'false' です。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../)

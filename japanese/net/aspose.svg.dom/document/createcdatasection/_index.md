@@ -1,32 +1,30 @@
 ---
-title: Document.CreateCDATASection
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 値が指定された文字列である CDATASection ノードを作成します
+title: "Document.CreateCDATASection"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateCDATASection メソッド。指定された文字列を値とする CDATASection ノードを作成します。"
 type: docs
 weight: 810
 url: /ja/net/aspose.svg.dom/document/createcdatasection/
 ---
 ## Document.CreateCDATASection method
 
-値が指定された文字列である CDATASection ノードを作成します。
+指定された文字列を値とする CDATASection ノードを作成します。
 
 ```csharp
 public CDATASection CreateCDATASection(string data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| data | String | CDATA データ。 |
+| データ | String | CDATA データ。 |
 
 ### 戻り値
 
-[`CDATASection`](../../cdatasection/) .
+この [`CDATASection`](../../cdatasection/)。
 
-### 関連項目
+### 参照
 
 * class [CDATASection](../../cdatasection/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

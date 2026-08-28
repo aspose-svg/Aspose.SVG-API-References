@@ -1,70 +1,68 @@
 ---
-title: MultipartContent.MultipartContent
-second_title: Aspose.SVG for .NET API リファレンス
-description: MultipartContent コンストラクタ. の新しいインスタンスを作成しますMultipartContent class.
+title: "MultipartContent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MultipartContent コンストラクタ。MultipartContent クラスの新しいインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-の新しいインスタンスを作成します[`MultipartContent`](../) class.
+[`MultipartContent`](../) クラスの新しいインスタンスを作成します。
 
 ```csharp
 public MultipartContent()
 ```
 
-### 関連項目
+### 参照
 
 * class [MultipartContent](../)
-* 名前空間 [Aspose.Svg.Net](../../multipartcontent/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string) {#constructor_1}
+## MultipartContent(*string*) {#constructor_1}
 
-の新しいインスタンスを作成します[`MultipartContent`](../)subtype. を持つクラス
+サブタイプを指定して、[`MultipartContent`](../) クラスの新しいインスタンスを作成します。
 
 ```csharp
 public MultipartContent(string subtype)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| subtype | String | サブタイプ |
+| サブタイプ | String | サブタイプ |
 
-### 関連項目
+### 参照
 
 * class [MultipartContent](../)
-* 名前空間 [Aspose.Svg.Net](../../multipartcontent/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string, string) {#constructor_2}
+## MultipartContent(*string, string*) {#constructor_2}
 
-の新しいインスタンスを作成します[`MultipartContent`](../)サブタイプと境界を持つクラス.
+サブタイプと境界を指定して、[`MultipartContent`](../) クラスの新しいインスタンスを作成します。
 
 ```csharp
 public MultipartContent(string subtype, string boundary)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| subtype | String | サブタイプ |
+| サブタイプ | String | サブタイプ |
 | boundary | String | 境界 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 引数を null または空の文字列にすることはできません。 |
+| ArgumentException | 引数は null または空文字列にできません。 |
 
-### 関連項目
+### 参照
 
 * class [MultipartContent](../)
-* 名前空間 [Aspose.Svg.Net](../../multipartcontent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: PageSetup.RightPage
-second_title: Aspose.SVG for .NET API リファレンス
-description: PageSetup 財産. 偶数ページの構成を取得します
+title: "PageSetup.RightPage"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PageSetup RightPage プロパティ。偶数ページの構成を取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.rendering/pagesetup/rightpage/
@@ -14,11 +14,9 @@ url: /ja/net/aspose.svg.rendering/pagesetup/rightpage/
 public Page RightPage { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* 名前空間 [Aspose.Svg.Rendering](../../pagesetup/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

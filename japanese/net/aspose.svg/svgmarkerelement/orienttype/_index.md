@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.OrientType
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMarkerElement 財産. 指定されたマーカー要素の属性方向に対応しますこのインターフェイスで定義されているマーカー方向タイプの 1 つ
+title: "SVGMarkerElement.OrientType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMarkerElement OrientType プロパティ。指定されたマーカー要素の属性 orient に対応します。このインターフェイスで定義されているマーカー方向タイプのいずれかです。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg/svgmarkerelement/orienttype/
 ---
 ## SVGMarkerElement.OrientType property
 
-指定された「マーカー」要素の属性「方向」に対応します。このインターフェイスで定義されているマーカー方向タイプの 1 つ。
+指定された ‘marker’ 要素の属性 ‘orient’ に対応します。このインターフェイスで定義されているマーカー方向タイプのいずれかです。
 
 ```csharp
 public SVGAnimatedEnumeration OrientType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「マーカー」要素の属性「方向」。
+指定された ‘marker’ 要素の属性 ‘orient’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGMarkerElement](../)
-* 名前空間 [Aspose.Svg](../../svgmarkerelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

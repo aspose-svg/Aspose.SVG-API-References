@@ -1,33 +1,31 @@
 ---
-title: IBlob.Slice
-second_title: Aspose.SVG for .NET API リファレンス
-description: IBlob 方法. オプションの start パラメーターからオプションの end パラメーター までの範囲のバイトとオプションの contentType パラメーターの値である type 属性を持つ新しい Blob オブジェクトを返します
+title: "IBlob.Slice"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IBlob Slice メソッド。オプションの start パラメータからオプションの end パラメータ（end は含まない）までのバイト範囲を持ち、type 属性がオプションの contentType パラメータの値となる新しい Blob オブジェクトを返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.io/iblob/slice/
 ---
 ## IBlob.Slice method
 
-オプションの start パラメーターからオプションの end パラメーター までの範囲のバイトと、オプションの contentType パラメーターの値である type 属性を持つ新しい Blob オブジェクトを返します。
+オプションの start パラメータからオプションの end パラメータ（end は含まない）までのバイト範囲を持ち、type 属性がオプションの contentType パラメータの値となる新しい Blob オブジェクトを返します。
 
 ```csharp
 public IBlob Slice(ulong start, ulong end, string contentType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| start | UInt64 | パラメータはスライスの開始点の値です |
-| end | UInt64 | パラメータはスライスの開始点の値です |
-| contentType | String | パラメータはBlobのメディアタイプです |
+| start | UInt64 | このパラメータはスライスの開始点を示す値です。 |
+| end | UInt64 | このパラメータはスライスの開始点を示す値です。 |
+| contentType | String | このパラメータは Blob のメディアタイプです。 |
 
 ### 戻り値
 
-オプションの start パラメーターからオプションの end パラメーターまでの範囲のバイトと、オプションの contentType パラメーターの値である type 属性を持つ新しい Blob オブジェクトを返します。
+オプションの start パラメータからオプションの end パラメータ（end は含まない）までのバイト範囲を持ち、type 属性がオプションの contentType パラメータの値となる新しい Blob オブジェクトを返します。
 
-### 関連項目
+### 参照
 
 * interface [IBlob](../)
-* 名前空間 [Aspose.Svg.IO](../../iblob/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

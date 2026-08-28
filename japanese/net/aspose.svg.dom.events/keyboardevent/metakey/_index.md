@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.MetaKey
-second_title: Aspose.SVG for .NET API リファレンス
-description: KeyboardEvent 財産. メタ メタ キー修飾子がアクティブだった場合は true.
+title: "KeyboardEvent.MetaKey"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "KeyboardEvent MetaKey プロパティ。Meta キー修飾子が有効な場合は true。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom.events/keyboardevent/metakey/
 ---
 ## KeyboardEvent.MetaKey property
 
-メタ (メタ) キー修飾子がアクティブだった場合は true.
+meta（Meta）キー修飾子がアクティブな場合は true。
 
 ```csharp
 public bool MetaKey { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`メタの場合。さもないと、`間違い` .
+`true` は Meta が有効な場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [KeyboardEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

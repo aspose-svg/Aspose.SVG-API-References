@@ -1,27 +1,25 @@
 ---
-title: Element.ClassName
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 財産. 要素のクラス属性この属性は多くの言語で公開されているclassキーワードと競合するため名前が due に変更されました HTML 4.01. のクラス属性定義を参照してください
+title: "Element.ClassName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element ClassName プロパティ。要素の class 属性です。この属性は多くの言語で公開されている class キーワードとの競合のため名前が変更されました。HTML 4.01 の class 属性定義を参照してください。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom/element/classname/
 ---
 ## Element.ClassName property
 
-要素のクラス属性。この属性は、多くの言語で公開されている「class」キーワードと競合するため、名前が due に変更されました。 HTML 4.01. のクラス属性定義を参照してください。
+要素の class 属性。この属性は、多くの言語で公開されている "class" キーワードとの競合のため名前が変更されました。HTML 4.01 の class 属性の定義を参照してください。
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-クラス属性。
+class 属性。
 
-### 関連項目
+### 参照
 
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

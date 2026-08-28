@@ -1,27 +1,26 @@
 ---
-title: IDevice.StrokeAndFill
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDevice 方法. 現在のパスをストロークして塗りつぶします このメソッドは現在のパスを終了します
+title: "IDevice.StrokeAndFill"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDevice StrokeAndFill メソッド。現在のパスをストロークおよび塗りつぶしします。このメソッドは現在のパスを終了します"
 type: docs
 weight: 220
 url: /ja/net/aspose.svg.rendering/idevice/strokeandfill/
 ---
 ## IDevice.StrokeAndFill method
 
-現在のパスをストロークして塗りつぶします。 このメソッドは現在のパスを終了します。
+現在のパスを描画し塗りつぶします。このメソッドは現在のパスを終了します。
 
 ```csharp
-public void StrokeAndFill(FillMode mode)
+public void StrokeAndFill(FillRule rule)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| mode | FillMode | 塗りつぶしモードは、閉じたパスの内部をどのように塗りつぶすかを指定します。 |
+| ルール | FillRule | 塗りつぶしルールは、閉じたパスの内部がどのように塗りつぶされるかを指定します。 |
 
-### 関連項目
+### 参照
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * interface [IDevice](../)
-* 名前空間 [Aspose.Svg.Rendering](../../idevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

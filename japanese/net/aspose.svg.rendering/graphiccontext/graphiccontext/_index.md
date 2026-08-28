@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.GraphicContext
-second_title: Aspose.SVG for .NET API リファレンス
-description: GraphicContext コンストラクタ. の新しいインスタンスを初期化しますGraphicContext class.
+title: "GraphicContext"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GraphicContext コンストラクタ。GraphicContext クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering/graphiccontext/graphiccontext/
 ---
 ## GraphicContext constructor
 
-の新しいインスタンスを初期化します[`GraphicContext`](../) class.
+[`GraphicContext`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public GraphicContext()
 ```
 
-### 関連項目
+### 参照
 
 * class [GraphicContext](../)
-* 名前空間 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

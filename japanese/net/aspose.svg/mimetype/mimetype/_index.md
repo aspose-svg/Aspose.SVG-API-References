@@ -1,27 +1,25 @@
 ---
-title: MimeType.MimeType
-second_title: Aspose.SVG for .NET API リファレンス
-description: MimeType コンストラクタ. シリアル化された文字列値に基づいてMIME タイプの新しいインスタンスを初期化します
+title: "MimeType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MimeType コンストラクタ。シリアライズされた文字列値に基づいて新しい MIME タイプのインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/mimetype/mimetype/
 ---
 ## MimeType constructor
 
-シリアル化された文字列値に基づいて、MIME タイプの新しいインスタンスを初期化します。
+シリアライズされた文字列値に基づいて MIME タイプの新しいインスタンスを初期化します。
 
 ```csharp
 public MimeType(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | value | String | 値。 |
 
-### 関連項目
+### 参照
 
 * class [MimeType](../)
-* 名前空間 [Aspose.Svg](../../mimetype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

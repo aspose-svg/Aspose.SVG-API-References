@@ -1,12 +1,12 @@
 ---
-title: ICreateStreamProvider.GetStream
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICreateStreamProvider 方法. レンダリング用のストリームを提供します
+title: "ICreateStreamProvider.GetStream"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICreateStreamProvider GetStream メソッド。レンダリング用のストリームを提供します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.io/icreatestreamprovider/getstream/
 ---
-## GetStream(string, string) {#getstream}
+## GetStream(*string, string*) {#getstream}
 
 レンダリング用のストリームを提供します。
 
@@ -14,24 +14,24 @@ url: /ja/net/aspose.svg.io/icreatestreamprovider/getstream/
 public Stream GetStream(string name, string extension)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | ストリームの名前。 |
-| extension | String | ファイル ストリームが作成されている場合に使用するファイル名拡張子。 |
+| 名前 | String | ストリームの名前です。 |
+| extension | String | ファイルストリームを作成する場合に使用するファイル名拡張子です。 |
 
 ### 戻り値
 
-レンダリング操作中にデータを書き込むために使用される Stream オブジェクト.
+レンダリング操作中にデータを書き込むために使用される Stream オブジェクトです。
 
-### 関連項目
+### 参照
 
 * interface [ICreateStreamProvider](../)
-* 名前空間 [Aspose.Svg.IO](../../icreatestreamprovider/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetStream(string, string, int) {#getstream_1}
+## GetStream(*string, string, int*) {#getstream_1}
 
 レンダリング用のストリームを提供します。
 
@@ -39,20 +39,18 @@ public Stream GetStream(string name, string extension)
 public Stream GetStream(string name, string extension, int page)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | ストリームの名前。 |
-| extension | String | ファイル ストリームが作成されている場合に使用するファイル名拡張子。 |
-| page | Int32 | ドキュメントのページ番号。 |
+| 名前 | String | ストリームの名前です。 |
+| extension | String | ファイルストリームを作成する場合に使用するファイル名拡張子です。 |
+| page | Int32 | ドキュメントのページ番号です。 |
 
 ### 戻り値
 
-レンダリング操作中にデータを書き込むために使用される Stream オブジェクト.
+レンダリング操作中にデータを書き込むために使用される Stream オブジェクトです。
 
-### 関連項目
+### 参照
 
 * interface [ICreateStreamProvider](../)
-* 名前空間 [Aspose.Svg.IO](../../icreatestreamprovider/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

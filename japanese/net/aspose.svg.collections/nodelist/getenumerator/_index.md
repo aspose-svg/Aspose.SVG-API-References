@@ -1,7 +1,7 @@
 ---
-title: NodeList.GetEnumerator
-second_title: Aspose.SVG for .NET API リファレンス
-description: NodeList 方法. コレクションを反復処理する列挙子を返します
+title: "NodeList.GetEnumerator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "NodeList GetEnumerator メソッド。コレクションを反復処理する列挙子を返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.collections/nodelist/getenumerator/
@@ -16,13 +16,11 @@ public abstract IEnumerator<Node> GetEnumerator()
 
 ### 戻り値
 
-AIEnumeratorコレクションを反復処理するために使用できます。
+コレクションを反復処理するために使用できる IEnumerator。
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeList](../)
-* 名前空間 [Aspose.Svg.Collections](../../nodelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

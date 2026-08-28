@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.Method
-second_title: Aspose.SVG for .NET API リファレンス
-description: RequestMessage 財産. を取得または設定しますHttpMethod .
+title: "RequestMessage.Method"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "RequestMessage Method プロパティ。HttpMethod を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.net/requestmessage/method/
 ---
 ## RequestMessage.Method property
 
-を取得または設定します[`HttpMethod`](../../httpmethod/) .
+[`HttpMethod`](../../httpmethod/) を取得または設定します。
 
 ```csharp
 public HttpMethod Method { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`HttpMethod`](../../httpmethod/) .
+この [`HttpMethod`](../../httpmethod/)。
 
-### 関連項目
+### 参照
 
 * class [HttpMethod](../../httpmethod/)
 * class [RequestMessage](../)
-* 名前空間 [Aspose.Svg.Net](../../requestmessage/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: IWindow.Opener
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 財産. Window オブジェクトのオープナー IDL 属性は取得時に現在のブラウジング コンテキストが作成されたブラウジング コンテキスト そのオープナー ブラウジング コンテキスト の WindowProxy オブジェクトを返す必要があります現在のブラウジング コンテキストはオープナーを否定していませんそれ以外の場合はnull を返す必要があります設定時に新しい値が null の場合現在のブラウジング コンテキストはそのオープナーを否認する必要があります新しい値がそれ以外の場合ユーザー エージェントは Window オブジェクトの DefineOwnProperty 内部メソッドを呼び出しプロパティ名openerをプロパティ キーとして渡しProperty Descriptor  Value value  Writable true Enumerable true Configurable true  はプロパティ記述子として値は新しい値です.
+title: "IWindow.Opener"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Opener プロパティ。Window オブジェクトの opener IDL 属性を取得すると、現在の閲覧コンテキストが作成された元の閲覧コンテキスト（オープナー閲覧コンテキスト）が存在し、かつ利用可能で、現在の閲覧コンテキストがオープナーを放棄していない場合は、その WindowProxy オブジェクトを返します。そうでない場合は null を返します。設定時に新しい値が null の場合、現在の閲覧コンテキストはオープナーを放棄しなければなりません。新しい値がそれ以外の場合、ユーザーエージェントは Window オブジェクトの内部メソッド DefineOwnProperty を呼び出し、プロパティ名 opener をプロパティキーとして、プロパティ記述子 { value: <new value>, writable: true, enumerable: true, configurable: true } を渡します。"
 type: docs
-weight: 50
+weight: 60
 url: /ja/net/aspose.svg.window/iwindow/opener/
 ---
 ## IWindow.Opener property
 
-Window オブジェクトのオープナー IDL 属性は、取得時に、現在のブラウジング コンテキストが作成されたブラウジング コンテキスト (そのオープナー ブラウジング コンテキスト) の WindowProxy オブジェクトを返す必要があります。現在のブラウジング コンテキストはオープナーを否定していません。それ以外の場合は、null を返す必要があります。設定時に、新しい値が null の場合、現在のブラウジング コンテキストはそのオープナーを否認する必要があります。新しい値がそれ以外の場合、ユーザー エージェントは Window オブジェクトの [[DefineOwnProperty]] 内部メソッドを呼び出し、プロパティ名「opener」をプロパティ キーとして渡し、Property Descriptor { [[Value]]: value , [[Writable]]: true, [[Enumerable]]: true, [[Configurable]]: true } はプロパティ記述子として、値は新しい値です.
+Window オブジェクトの opener IDL 属性は、取得時に、現在のブラウジングコンテキストが作成された元のブラウジングコンテキスト（その opener ブラウジングコンテキスト）の WindowProxy オブジェクトが存在し、かつ利用可能で、かつ現在のブラウジングコンテキストがその opener を放棄していない場合にそれを返す必要があります。そうでない場合は null を返さなければなりません。設定時に新しい値が null の場合、現在のブラウジングコンテキストはその opener を放棄しなければなりません。新しい値がそれ以外の場合、ユーザーエージェントは Window オブジェクトの [[DefineOwnProperty]] 内部メソッドを呼び出し、プロパティ名 \"opener\" をプロパティキーとして、プロパティ記述子 { [[Value]]: value, [[Writable]]: true, [[Enumerable]]: true, [[Configurable]]: true } を渡し、ここで value は新しい値です。
 
 ```csharp
 public IWindow Opener { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-オープナー.
+オープナー。
 
-### 関連項目
+### 参照
 
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

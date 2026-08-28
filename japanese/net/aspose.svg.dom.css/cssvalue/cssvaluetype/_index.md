@@ -1,27 +1,25 @@
 ---
-title: CSSValue.CSSValueType
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSValue 財産. 値の型を定義するコード.
+title: "CSSValue.CSSValueType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSValue CSSValueType プロパティ。値の型を定義するコードです。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/cssvalue/cssvaluetype/
 ---
 ## CSSValue.CSSValueType property
 
-値の型を定義するコード.
+値のタイプを定義するコードです。
 
 ```csharp
 public ushort CSSValueType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-CSS 値のタイプ。
+CSS 値の型です。
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

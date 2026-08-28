@@ -1,27 +1,25 @@
 ---
-title: ICSSRule.CSSText
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSRule 財産. ルールの解析可能なテキスト表現これはルールの現在の状態を反映しており初期値ではありません.
+title: "ICSSRule.CSSText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSRule CSSText プロパティ。ルールの解析可能なテキスト表現です。これはルールの現在の状態を反映し、初期値ではありません。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/icssrule/csstext/
 ---
 ## ICSSRule.CSSText property
 
-ルールの解析可能なテキスト表現。これはルールの現在の状態を反映しており、初期値ではありません.
+ルールの解析可能なテキスト表現です。これはルールの現在の状態を反映し、初期値ではありません。
 
 ```csharp
 public string CSSText { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-CSS テキスト。
+CSS テキストです。
 
-### 関連項目
+### 参照
 
 * interface [ICSSRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssrule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

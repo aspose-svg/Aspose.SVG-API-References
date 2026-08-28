@@ -1,28 +1,26 @@
 ---
-title: Interface IBrush
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Drawing.IBrush インターフェース. ブラシタイプの取得方法を宣言します
+title: "IBrush インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Drawing.IBrush インターフェイス。ブラシタイプを取得するメソッドを宣言します。"
 type: docs
-weight: 1430
+weight: 3440
 url: /ja/net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface
 
-ブラシタイプの取得方法を宣言します。
+ブラシタイプを取得するメソッドを宣言します。
 
 ```csharp
-public interface IBrush
+public interface IBrush : IDisposable
 ```
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | ブラシの種類を取得; |
+| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | ブラシのタイプを [`BrushType`](../brushtype/) として取得します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

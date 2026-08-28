@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedNumber
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.DataTypes.SVGAnimatedNumber クラス. アニメ化できる基本型番号の属性に使用します.
+title: "SVGAnimatedNumber クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.DataTypes.SVGAnimatedNumber クラス。アニメーション可能な基本タイプ number の属性に使用されます"
 type: docs
-weight: 150
+weight: 2140
 url: /ja/net/aspose.svg.datatypes/svganimatednumber/
 ---
 ## SVGAnimatedNumber class
 
-アニメ化できる基本型番号の属性に使用します.
+アニメーション可能な基本型 number の属性に使用されます。
 
 ```csharp
 public class SVGAnimatedNumber : SVGAnimatedValue<float>
@@ -25,14 +25,12 @@ public class SVGAnimatedNumber : SVGAnimatedValue<float>
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatednumber/tostring/)() | を返しますStringこのインスタンスを表す. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| override [ToString](../../aspose.svg.datatypes/svganimatednumber/tostring/)() | このインスタンスを表す String を返します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
-* 名前空間 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

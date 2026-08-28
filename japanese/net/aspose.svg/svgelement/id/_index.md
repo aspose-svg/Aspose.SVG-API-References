@@ -1,33 +1,31 @@
 ---
-title: SVGElement.Id
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGElement 財産. 指定された要素の id 属性の値または id が存在しない場合は空の文字列.
+title: "SVGElement.Id"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGElement Id プロパティ。対象要素の id 属性の値、または id が存在しない場合は空文字列です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/svgelement/id/
 ---
 ## SVGElement.Id property
 
-指定された要素の 'id' 属性の値、または 'id' が存在しない場合は空の文字列.
+指定された要素の ‘id’ 属性の値、または ‘id’ が存在しない場合は空文字列です。
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-識別子.
+識別子です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード NO_MODIFICATION_ALLOWED_ERR。読み取り専用属性の値を変更しようとすると発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード NO_MODIFICATION_ALLOWED_ERR。読み取り専用属性の値を変更しようとしたときに発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

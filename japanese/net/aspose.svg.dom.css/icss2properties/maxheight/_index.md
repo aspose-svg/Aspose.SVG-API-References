@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MaxHeight
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の maxheight プロパティ定義を参照してください
+title: "ICSS2Properties.MaxHeight"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties MaxHeight プロパティ。CSS2 の max-height プロパティ定義を参照してください。"
 type: docs
-weight: 700
+weight: 730
 url: /ja/net/aspose.svg.dom.css/icss2properties/maxheight/
 ---
 ## ICSS2Properties.MaxHeight property
 
-CSS2 の max-height プロパティ定義を参照してください。
+CSS2 の max-height プロパティ定義をご覧ください。
 
 ```csharp
 public string MaxHeight { get; set; }
@@ -18,10 +18,8 @@ public string MaxHeight { get; set; }
 
 max-height プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

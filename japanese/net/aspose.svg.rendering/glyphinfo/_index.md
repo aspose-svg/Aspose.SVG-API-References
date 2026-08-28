@@ -1,14 +1,14 @@
 ---
-title: Struct GlyphInfo
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.GlyphInfo 構造体. グリフ関連の情報が含まれています.
+title: "GlyphInfo 構造体"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.GlyphInfo 構造体。グリフに関連する情報を含みます。"
 type: docs
-weight: 2790
+weight: 4870
 url: /ja/net/aspose.svg.rendering/glyphinfo/
 ---
 ## GlyphInfo structure
 
-グリフ関連の情報が含まれています.
+グリフに関連する情報を含みます。
 
 ```csharp
 public struct GlyphInfo
@@ -19,19 +19,17 @@ public struct GlyphInfo
 | 名前 | 説明 |
 | --- | --- |
 | [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | フォント内のこのグリフのインデックスを取得します。 |
-| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | 次のグリフへのオフセットをポイント単位で取得します。 |
+| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | 次のグリフへのオフセット（ポイント単位）を取得します。 |
 | [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | このグリフの文字列表現を取得します。 |
-| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | グリフの幅をポイント単位で取得します. |
+| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | グリフの幅（ポイント単位）を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | このインスタンスを表す String を返します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

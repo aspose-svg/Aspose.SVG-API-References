@@ -1,27 +1,25 @@
 ---
-title: Attr.Specified
-second_title: Aspose.SVG for .NET API リファレンス
-description: Attr 財産. この属性がインスタンス ドキュメントで明示的に値を与えられた場合は trueそれ以外の場合は false.
+title: "Attr.Specified"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Attr Specified プロパティ。この属性がインスタンス文書で明示的に値を与えられている場合は true、そうでない場合は false です。"
 type: docs
-weight: 110
+weight: 90
 url: /ja/net/aspose.svg.dom/attr/specified/
 ---
 ## Attr.Specified property
 
-この属性がインスタンス ドキュメントで明示的に値を与えられた場合は true、それ以外の場合は false.
+インスタンスドキュメントでこの属性に明示的に値が設定されていれば true、そうでなければ false。
 
 ```csharp
 public bool Specified { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`指定されている場合;さもないと、`間違い` .
+指定されていれば `true`、それ以外は `false`。
 
-### 関連項目
+### 参照
 
 * class [Attr](../)
-* 名前空間 [Aspose.Svg.Dom](../../attr/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

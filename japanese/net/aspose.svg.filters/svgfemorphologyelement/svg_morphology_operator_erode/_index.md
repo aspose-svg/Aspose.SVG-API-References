@@ -1,23 +1,21 @@
 ---
-title: SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEMorphologyElement 分野. 値erodeに対応します
+title: "SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEMorphologyElement SVG_MORPHOLOGY_OPERATOR_ERODE フィールド。値 erode に対応します"
 type: docs
 weight: 110
 url: /ja/net/aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_erode/
 ---
 ## SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE field
 
-値「erode」に対応します。
+値 'erode' に対応します。
 
 ```csharp
 public const ushort SVG_MORPHOLOGY_OPERATOR_ERODE;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGFEMorphologyElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

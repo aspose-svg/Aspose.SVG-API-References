@@ -1,27 +1,25 @@
 ---
-title: Document.XmlStandalone
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. XML 宣言の一部としてこのドキュメントがスタンドアロンかどうかを指定する属性指定されていない場合は false です
+title: "Document.XmlStandalone"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document XmlStandalone プロパティ。XML 宣言の一部として、このドキュメントがスタンドアロンかどうかを指定する属性です。指定されていない場合は false です。"
 type: docs
 weight: 260
 url: /ja/net/aspose.svg.dom/document/xmlstandalone/
 ---
 ## Document.XmlStandalone property
 
-XML 宣言の一部として、このドキュメントがスタンドアロンかどうかを指定する属性。指定されていない場合は false です。
+XML 宣言の一部として、この文書がスタンドアロンかどうかを指定する属性です。指定されていない場合は false になります。
 
 ```csharp
 public bool XmlStandalone { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` XML スタンドアロンの場合。さもないと、`間違い` .
+`true` は XML がスタンドアロンの場合、そうでなければ `false` です。
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

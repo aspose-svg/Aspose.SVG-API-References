@@ -1,48 +1,46 @@
 ---
-title: FocusEvent.FocusEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: FocusEvent コンストラクタ. の新しいインスタンスを初期化しますFocusEvent class.
+title: "FocusEvent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FocusEvent コンストラクタ。FocusEvent クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.events/focusevent/focusevent/
 ---
-## FocusEvent(string) {#constructor}
+## FocusEvent(*string*) {#constructor}
 
-の新しいインスタンスを初期化します[`FocusEvent`](../) class.
+[`FocusEvent`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public FocusEvent(string type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | イベントの種類。 |
+| type | String | イベントのタイプ。 |
 
-### 関連項目
+### 参照
 
 * class [FocusEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../focusevent/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FocusEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## FocusEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`FocusEvent`](../) class.
+[`FocusEvent`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | イベントの種類。 |
+| type | String | イベントのタイプ。 |
 | eventInitDict | IDictionary`2 | イベント初期化ディクショナリ。 |
 
-### 関連項目
+### 参照
 
 * class [FocusEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../focusevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ResponseMessage.ResponseMessage
-second_title: Aspose.SVG for .NET API リファレンス
-description: ResponseMessage コンストラクタ. の新しいインスタンスを初期化しますResponseMessage class.
+title: "ResponseMessage"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ResponseMessage コンストラクタ。 ResponseMessage クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/responsemessage/responsemessage/
 ---
 ## ResponseMessage constructor
 
-の新しいインスタンスを初期化します[`ResponseMessage`](../) class.
+[`ResponseMessage`](../) クラスの新しいインスタンスを初期化します
 
 ```csharp
 public ResponseMessage(HttpStatusCode status)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| status | HttpStatusCode | ステータス。 |
+| ステータス | HttpStatusCode | ステータス。 |
 
-### 関連項目
+### 参照
 
 * class [ResponseMessage](../)
-* 名前空間 [Aspose.Svg.Net](../../responsemessage/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

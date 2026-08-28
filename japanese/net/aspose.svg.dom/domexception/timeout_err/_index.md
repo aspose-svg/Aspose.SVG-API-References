@@ -1,7 +1,7 @@
 ---
-title: DOMException.TIMEOUT_ERR
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMException 分野. 操作がタイムアウトしました
+title: "DOMException.TIMEOUT_ERR"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMException TIMEOUT_ERR フィールド。操作がタイムアウトしました"
 type: docs
 weight: 260
 url: /ja/net/aspose.svg.dom/domexception/timeout_err/
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.dom/domexception/timeout_err/
 public const ushort TIMEOUT_ERR;
 ```
 
-### 関連項目
+### 参照
 
 * class [DOMException](../)
-* 名前空間 [Aspose.Svg.Dom](../../domexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

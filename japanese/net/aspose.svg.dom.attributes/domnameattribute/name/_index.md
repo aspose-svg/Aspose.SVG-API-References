@@ -1,7 +1,7 @@
 ---
-title: DOMNameAttribute.Name
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMNameAttribute 財産. DOM 名を取得します
+title: "DOMNameAttribute.Name"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMNameAttribute Name プロパティ。DOM 名を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.attributes/domnameattribute/name/
@@ -14,14 +14,12 @@ DOM 名を取得します。
 public string Name { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-名前.
+名前。
 
-### 関連項目
+### 参照
 
 * class [DOMNameAttribute](../)
-* 名前空間 [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

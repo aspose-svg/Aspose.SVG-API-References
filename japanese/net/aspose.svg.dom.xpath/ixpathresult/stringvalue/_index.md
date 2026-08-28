@@ -1,7 +1,7 @@
 ---
-title: IXPathResult.StringValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: IXPathResult 財産. この文字列結果の値
+title: "IXPathResult.StringValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IXPathResult StringValue プロパティ。この文字列結果の値です。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom.xpath/ixpathresult/stringvalue/
@@ -16,14 +16,12 @@ public string StringValue { get; }
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: 次の場合に発生します`結果タイプ` ではありません`弦`タイプ。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: `resultType` が `String` 型でない場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * interface [IXPathResult](../)
-* 名前空間 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

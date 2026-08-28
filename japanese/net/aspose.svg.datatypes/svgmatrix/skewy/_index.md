@@ -1,20 +1,20 @@
 ---
-title: SVGMatrix.SkewY
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMatrix 方法. 現在の行列に対してskewY 変換を事後乗算し結果の行列を返します
+title: "SVGMatrix.SkewY"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMatrix SkewY メソッド。現在の行列に SkewY 変換を後乗算し、結果の行列を返します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg.datatypes/svgmatrix/skewy/
 ---
 ## SVGMatrix.SkewY method
 
-現在の行列に対して、skewY 変換を事後乗算し、結果の行列を返します。
+現在の行列に skewY 変換を後置乗算し、結果の行列を返します。
 
 ```csharp
 public SVGMatrix SkewY(float angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | angle | Single | 角度。 |
 
@@ -22,10 +22,8 @@ public SVGMatrix SkewY(float angle)
 
 スキュー角度。
 
-### 関連項目
+### 参照
 
 * class [SVGMatrix](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgmatrix/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

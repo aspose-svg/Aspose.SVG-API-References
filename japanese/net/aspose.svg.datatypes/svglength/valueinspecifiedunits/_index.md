@@ -1,33 +1,31 @@
 ---
-title: SVGLength.ValueInSpecifiedUnits
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGLength 財産. unitType で表される単位の浮動小数点値としての値この属性を設定すると値と valueAsString が自動的に更新されこの設定が反映されます
+title: "SVGLength.ValueInSpecifiedUnits"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGLength ValueInSpecifiedUnits プロパティ。unitType で表される単位の浮動小数点値としての値。 この属性を設定すると、value と valueAsString が自動的に更新され、この設定を反映します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.datatypes/svglength/valueinspecifiedunits/
 ---
 ## SVGLength.ValueInSpecifiedUnits property
 
-unitType で表される単位の浮動小数点値としての値。この属性を設定すると、値と valueAsString が自動的に更新され、この設定が反映されます。
+unitType で表される単位での浮動小数点値としての値です。この属性を設定すると、value と valueAsString が自動的に更新され、この設定を反映します。
 
 ```csharp
 public float ValueInSpecifiedUnits { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された単位の値。
+指定された単位での値です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 長さが読み取り専用属性に対応する場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) は、長さが読み取り専用属性に対応している場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGLength](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svglength/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

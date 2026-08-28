@@ -1,24 +1,22 @@
 ---
-title: IXPathResult.ResultType
-second_title: Aspose.SVG for .NET API リファレンス
-description: IXPathResult 財産. http//www.w3.org/TR/DOMLevel3XPath/xpath.htmlXPathResult で定義されているこの結果のタイプを表すコードXPathResultTypeenum.
+title: "IXPathResult.ResultType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IXPathResult ResultType プロパティ。この結果のタイプを表すコードで、http//www.w3.org/TR/DOM-Level-3-XPath/xpath.htmlXPathResult XPathResultType 列挙型で定義されています。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.xpath/ixpathresult/resulttype/
 ---
 ## IXPathResult.ResultType property
 
-http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult で定義されている、この結果のタイプを表すコード[`XPathResultType`](../../xpathresulttype/)enum.
+この結果のタイプを表すコードで、http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult の [`XPathResultType`](../../xpathresulttype/) 列挙型で定義されています。
 
 ```csharp
 public XPathResultType ResultType { get; }
 ```
 
-### 関連項目
+### 参照
 
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathResult](../)
-* 名前空間 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

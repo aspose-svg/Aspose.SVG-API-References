@@ -1,27 +1,39 @@
 ---
-title: Node.TextContent
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 財産. この属性はこのノードとその子孫のテキスト コンテンツを返します null として定義されている場合設定しても効果はありません設定時にこのノードが持つ可能性のある子はすべて削除され新しい文字列が空または null でない場合はこの属性が設定されている文字列を含む単一の Text ノードに置き換えられます
+title: "Node.TextContent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node TextContent プロパティ。ノードとその子孫のテキスト内容を表します"
 type: docs
-weight: 170
+weight: 160
 url: /ja/net/aspose.svg.dom/node/textcontent/
 ---
 ## Node.TextContent property
 
-この属性は、このノードとその子孫のテキスト コンテンツを返します。 null として定義されている場合、設定しても効果はありません。設定時に、このノードが持つ可能性のある子はすべて削除され、新しい文字列が空または null でない場合は、この属性が設定されている文字列を含む単一の Text ノードに置き換えられます。
+ノードおよびその子孫のテキストコンテンツを表します。
 
 ```csharp
 public virtual string TextContent { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキストの内容。
+文字列または null。値は状況に依存します：
 
-### 関連項目
+ノードがドキュメントまたはドキュメントタイプの場合、`TextContent` は null を返します。注: ドキュメント全体のテキストと CDATA データを取得するには、使用してください
+
+```csharp
+document.DocumentElement.TextContent
+```
+
+.ノードが CDATA セクション、コメント、処理命令、またはテキストノードの場合、`TextContent` はノード内のテキストを返すか、設定します。すなわち、[`NodeValue`](../nodevalue/)です。他のノードタイプの場合、`TextContent` はコメントと処理命令を除くすべての子ノードの `TextContent` を連結したものを返します。
+
+## 備考
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-textcontent).
+
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

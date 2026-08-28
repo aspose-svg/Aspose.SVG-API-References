@@ -1,27 +1,25 @@
 ---
-title: TypeInfo.TypeName
-second_title: Aspose.SVG for .NET API リファレンス
-description: TypeInfo 財産. 関連付けられた要素または属性に対して宣言された型の名前または不明な場合は null
+title: "TypeInfo.TypeName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "TypeInfo TypeName プロパティ。関連する要素または属性に対して宣言された型の名前、または不明な場合は null です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom/typeinfo/typename/
 ---
 ## TypeInfo.TypeName property
 
-関連付けられた要素または属性に対して宣言された型の名前、または不明な場合は null。
+関連付けられた要素または属性に対して宣言された型の名前、または不明な場合は null です。
 
 ```csharp
 public string TypeName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-タイプの名前。
+型の名前です。
 
-### 関連項目
+### 参照
 
 * class [TypeInfo](../)
-* 名前空間 [Aspose.Svg.Dom](../../typeinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

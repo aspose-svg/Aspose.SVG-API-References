@@ -1,31 +1,29 @@
 ---
-title: HttpMethod.op_Explicit
-second_title: Aspose.SVG for .NET API リファレンス
-description: HttpMethod 方法. からの明示的な変換を実行しますStringにHttpMethod .
+title: "HttpMethod.op_Explicit"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "HttpMethod op_Explicit メソッド。String から HttpMethod への明示的な変換を実行します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg.net/httpmethod/op_explicit/
 ---
 ## HttpMethod Explicit operator
 
-からの明示的な変換を実行しますStringに[`HttpMethod`](../) .
+String から [`HttpMethod`](../) への明示的な変換を実行します。
 
 ```csharp
 public static explicit operator HttpMethod(string name)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | http メソッド名。 |
+| 名前 | String | http-method の名前です。 |
 
 ### 戻り値
 
-変換の結果。
+変換の結果です。
 
-### 関連項目
+### 参照
 
 * class [HttpMethod](../)
-* 名前空間 [Aspose.Svg.Net](../../httpmethod/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

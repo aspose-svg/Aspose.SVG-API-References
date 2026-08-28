@@ -1,51 +1,49 @@
 ---
-title: Class CSSValueList
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.CSSValueList クラス. CSSValueList インターフェイスはCSS 値の順序付けられたコレクションの抽象化を提供します
+title: "CSSValueList クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.CSSValueList クラス。CSSValueList インターフェイスは、CSS 値の順序付けられたコレクションの抽象化を提供します。"
 type: docs
-weight: 500
+weight: 2500
 url: /ja/net/aspose.svg.dom.css/cssvaluelist/
 ---
 ## CSSValueList class
 
-CSSValueList インターフェイスは、CSS 値の順序付けられたコレクションの抽象化を提供します。
+CSSValueList インターフェイスは、CSS 値の順序付けされたコレクションの抽象化を提供します。
 
 ```csharp
 public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [CSSValueList](cssvaluelist/#constructor)() | の新しいインスタンスを初期化します`CSSValueList` class. |
-| [CSSValueList](cssvaluelist/#constructor_1)(params CSSValue[]) | の新しいインスタンスを初期化します`CSSValueList` class. |
-| [CSSValueList](cssvaluelist/#constructor_2)(IEnumerable&lt;CSSValue&gt;) | の新しいインスタンスを初期化します`CSSValueList` class. |
+| [CSSValueList](cssvaluelist/#constructor)() | `CSSValueList` クラスの新しいインスタンスを初期化します。 |
+| [CSSValueList](cssvaluelist/#constructor_1)(*params CSSValue[]*) | `CSSValueList` クラスの新しいインスタンスを初期化します。 |
+| [CSSValueList](cssvaluelist/#constructor_2)(*IEnumerable&lt;CSSValue&gt;*) | `CSSValueList` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| override [CSSText](../../aspose.svg.dom.css/cssvaluelist/csstext/) { get; set; } | 現在の値の文字列表現. |
-| [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | 値の型を定義するコード. |
-| [Item](../../aspose.svg.dom.css/cssvaluelist/item/) { get; } | を取得します[`CSSValue`](../cssvalue/)指定されたインデックスで. |
-| [Length](../../aspose.svg.dom.css/cssvaluelist/length/) { get; } | リスト内の CSSValues の数。 |
+| override [CSSText](../../aspose.svg.dom.css/cssvaluelist/csstext/) { get; set; } | [`CSSValue`](../cssvalue/) インターフェイスの CSSText プロパティは、現在の計算済み CSS プロパティ値を表します。 |
+| [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype/) { get; } | 値のタイプを定義するコードです。 |
+| [Item](../../aspose.svg.dom.css/cssvaluelist/item/) { get; } | 指定されたインデックスの [`CSSValue`](../cssvalue/) を取得します。 |
+| [Length](../../aspose.svg.dom.css/cssvaluelist/length/) { get; } | CSSValueList インターフェイスの length 読み取り専用プロパティは、リスト内の CSSValue の数を表します。インデックスの有効な値の範囲は 0 から length-1 までです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(object) | 指定されたObjectこのインスタンスと等しい. |
+| override [Equals](../../aspose.svg.dom.css/cssvalue/equals/)(*object*) | 指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。 |
 | [GetEnumerator](../../aspose.svg.dom.css/cssvaluelist/getenumerator/)() | コレクションを反復処理する列挙子を返します。 |
-| override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode/)() | このインスタンスのハッシュ コードを返します。 |
-| override [GetPlatformType](../../aspose.svg.dom.css/cssvaluelist/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode/)() | このインスタンスのハッシュコードを返します。 |
+| override [GetPlatformType](../../aspose.svg.dom.css/cssvaluelist/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring/)() | このインスタンスを表す String を返します。 |
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../cssvalue/)
 * interface [ICSSValueList](../icssvaluelist/)
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_SPACING
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTextContentElement 分野. 値間隔に対応します
+title: "SVGTextContentElement.LENGTHADJUST_SPACING"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTextContentElement LENGTHADJUST_SPACING フィールド。値 spacing に対応します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg/svgtextcontentelement/lengthadjust_spacing/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACING field
 
-値「間隔」に対応します。
+値 'spacing' に対応します。
 
 ```csharp
 public const ushort LENGTHADJUST_SPACING;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGTextContentElement](../)
-* 名前空間 [Aspose.Svg](../../svgtextcontentelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

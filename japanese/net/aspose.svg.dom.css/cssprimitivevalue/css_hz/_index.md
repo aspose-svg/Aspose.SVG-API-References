@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_HZ
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値は周波数 Hz です値は getFloatValue メソッドを使用して取得できます
+title: "CSSPrimitiveValue.CSS_HZ"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_HZ フィールド。値は Hz の周波数です。値は getFloatValue メソッドを使用して取得できます。"
 type: docs
-weight: 230
+weight: 240
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_hz/
 ---
 ## CSSPrimitiveValue.CSS_HZ field
 
-値は周波数 (Hz) です。値は getFloatValue メソッドを使用して取得できます。
+この値は周波数（Hz）です。 この値は getFloatValue メソッドを使用して取得できます。
 
 ```csharp
 public const ushort CSS_HZ;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

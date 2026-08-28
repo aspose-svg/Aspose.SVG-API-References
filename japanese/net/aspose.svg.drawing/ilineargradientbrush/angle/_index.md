@@ -1,27 +1,25 @@
 ---
-title: ILinearGradientBrush.Angle
-second_title: Aspose.SVG for .NET API リファレンス
-description: ILinearGradientBrush 財産. グラデーションの方向線の角度 x 軸から時計回りに度単位で測定 を取得します
+title: "ILinearGradientBrush.Angle"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ILinearGradientBrush Angle プロパティ。勾配の方向線の x 軸から時計回りに測定された角度（度）を取得または設定します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/ilineargradientbrush/angle/
 ---
 ## ILinearGradientBrush.Angle property
 
-グラデーションの方向線の角度 (x 軸から時計回りに度単位で測定) を取得します。
+勾配の方向線の角度を取得または設定します。角度は x 軸から時計回りに測定した度数です。
 
 ```csharp
-public float Angle { get; }
+public float Angle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-角度.
+勾配の方向線の角度（度）です。
 
-### 関連項目
+### 参照
 
 * interface [ILinearGradientBrush](../)
-* 名前空間 [Aspose.Svg.Drawing](../../ilineargradientbrush/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: Device2.Dispose
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. アンマネージ リソースの解放解放またはリセットに関連するアプリケーション定義のタスクを実行します
+title: "Device-2.Dispose"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device Dispose メソッド。アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義タスクを実行します"
 type: docs
-weight: 100
+weight: 130
 url: /ja/net/aspose.svg.rendering/device-2/dispose/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Dispose method
+## Device<TGraphicContext,TRenderingOptions>.Dispose method
 
-アンマネージ リソースの解放、解放、またはリセットに関連するアプリケーション定義のタスクを実行します。
+アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。
 
 ```csharp
 public void Dispose()
 ```
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

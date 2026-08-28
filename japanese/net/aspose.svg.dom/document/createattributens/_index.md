@@ -1,33 +1,31 @@
 ---
-title: Document.CreateAttributeNS
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 指定された修飾名と名前空間 URI の属性を作成します
+title: "Document.CreateAttributeNS"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateAttributeNS メソッド。このメソッドは新しい属性ノードを作成し、返します。作成されたオブジェクトは Attr クラスを実装するノードです。DOM はこの方法で特定の要素に追加できる属性の種類を強制しません。"
 type: docs
 weight: 800
 url: /ja/net/aspose.svg.dom/document/createattributens/
 ---
 ## Document.CreateAttributeNS method
 
-指定された修飾名と名前空間 URI の属性を作成します。
+このメソッドは新しい属性ノードを作成し、返します。作成されたオブジェクトは [`Attr`](../../attr/) クラスを実装するノードです。DOM はこの方法で特定の要素に追加できる属性の種類を強制しません。
 
 ```csharp
 public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| namespaceURI | String | 名前空間 URI。 |
-| qualifiedName | String | 資格者の名前。 |
+| namespaceURI | String | 属性の名前空間 URI。 |
+| qualifiedName | String | 属性名を含む文字列です。 |
 
 ### 戻り値
 
-[`Attr`](../../attr/) .
+`Attr`(../../attr/)です。
 
-### 関連項目
+### 参照
 
 * class [Attr](../../attr/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

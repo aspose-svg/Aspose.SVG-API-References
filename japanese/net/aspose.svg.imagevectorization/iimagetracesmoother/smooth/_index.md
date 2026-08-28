@@ -1,31 +1,29 @@
 ---
-title: IImageTraceSmoother.Smooth
-second_title: Aspose.SVG for .NET API リファレンス
-description: IImageTraceSmoother 方法. トレースを滑らかにします
+title: "IImageTraceSmoother.Smooth"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IImageTraceSmoother Smooth メソッド。トレースを平滑化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.imagevectorization/iimagetracesmoother/smooth/
 ---
 ## IImageTraceSmoother.Smooth method
 
-トレースを滑らかにします。
+トレースを平滑化します。
 
 ```csharp
 public IEnumerable<PointF> Smooth(IEnumerable<PointF> trace)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| trace | IEnumerable`1 | トレース ポイントのリスト。 |
+| トレース | IEnumerable`1 | トレースポイントのリストです。 |
 
 ### 戻り値
 
-平滑化されたトレース ポイントのリスト。
+平滑化されたトレースポイントのリストです。
 
-### 関連項目
+### 参照
 
 * interface [IImageTraceSmoother](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../iimagetracesmoother/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

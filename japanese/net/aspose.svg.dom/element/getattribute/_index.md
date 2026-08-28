@@ -1,9 +1,9 @@
 ---
-title: Element.GetAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 方法. 名前で属性値を取得します
+title: "Element.GetAttribute"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element GetAttribute メソッド。属性名で属性値を取得します。"
 type: docs
-weight: 240
+weight: 230
 url: /ja/net/aspose.svg.dom/element/getattribute/
 ---
 ## Element.GetAttribute method
@@ -11,21 +11,19 @@ url: /ja/net/aspose.svg.dom/element/getattribute/
 名前で属性値を取得します。
 
 ```csharp
-public string GetAttribute(string name)
+public string GetAttribute(string qualifiedName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | 取得する属性の名前。 |
+| qualifiedName | String | 取得する属性の名前です。 |
 
 ### 戻り値
 
 属性値を返します
 
-### 関連項目
+### 参照
 
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

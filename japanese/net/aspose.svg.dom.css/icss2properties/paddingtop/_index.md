@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingTop
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の paddingtop プロパティ定義を参照してください
+title: "ICSS2Properties.PaddingTop"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties PaddingTop プロパティ。CSS2 の padding-top プロパティ定義を参照してください"
 type: docs
-weight: 840
+weight: 870
 url: /ja/net/aspose.svg.dom.css/icss2properties/paddingtop/
 ---
 ## ICSS2Properties.PaddingTop property
 
-CSS2 の padding-top プロパティ定義を参照してください。
+CSS2 の padding-top プロパティ定義をご覧ください。
 
 ```csharp
 public string PaddingTop { get; set; }
@@ -18,10 +18,8 @@ public string PaddingTop { get; set; }
 
 padding-top プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

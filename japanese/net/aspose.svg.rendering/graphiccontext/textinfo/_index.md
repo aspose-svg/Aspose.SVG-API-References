@@ -1,28 +1,26 @@
 ---
-title: GraphicContext.TextInfo
-second_title: Aspose.SVG for .NET API リファレンス
-description: GraphicContext 財産. を取得しますTextInfoレンダリングされたテキストに関する情報を含むオブジェクト.
+title: "GraphicContext.TextInfo"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GraphicContext TextInfo プロパティ。レンダリングされたテキストに関する情報を含む TextInfo オブジェクトを取得します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.svg.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property
 
-を取得します[`TextInfo`](../../textinfo/)レンダリングされたテキストに関する情報を含むオブジェクト.
+レンダリングされたテキストに関する情報を含む [`TextInfo`](../../textinfo/) オブジェクトを取得します。
 
 ```csharp
 public virtual TextInfo TextInfo { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`TextInfo`](../../textinfo/)object.
+[`TextInfo`](../../textinfo/) オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [TextInfo](../../textinfo/)
 * class [GraphicContext](../)
-* 名前空間 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

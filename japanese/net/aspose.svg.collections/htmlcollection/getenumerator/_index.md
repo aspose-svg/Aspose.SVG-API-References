@@ -1,7 +1,7 @@
 ---
-title: HTMLCollection.GetEnumerator
-second_title: Aspose.SVG for .NET API リファレンス
-description: HTMLCollection 方法. 列挙子を取得します
+title: "HTMLCollection.GetEnumerator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "HTMLCollection GetEnumerator メソッド。列挙子を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.collections/htmlcollection/getenumerator/
@@ -16,13 +16,11 @@ public abstract IEnumerator<Element> GetEnumerator()
 
 ### 戻り値
 
-アンIEnumeratorコレクションを反復処理するために使用できるオブジェクト。
+コレクションを反復処理するために使用できる IEnumerator オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* 名前空間 [Aspose.Svg.Collections](../../htmlcollection/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

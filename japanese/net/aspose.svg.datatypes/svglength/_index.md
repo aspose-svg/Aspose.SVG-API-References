@@ -1,14 +1,14 @@
 ---
-title: Class SVGLength
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.DataTypes.SVGLength クラス. SVGLength インターフェイスは長さの基本データ型に対応します SVGLength オブジェクトは読み取り専用として指定できますつまりオブジェクトを変更しようとすると以下で説明するように例外がスローされます
+title: "SVGLength クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.DataTypes.SVGLength クラス。SVGLength インターフェイスは長さの基本データ型に対応します。SVGLength オブジェクトは読み取り専用に指定でき、これはオブジェクトの変更を試みると、以下に記載の例外がスローされることを意味します"
 type: docs
-weight: 220
+weight: 2210
 url: /ja/net/aspose.svg.datatypes/svglength/
 ---
 ## SVGLength class
 
-SVGLength インターフェイスは長さの基本データ型に対応します。 SVGLength オブジェクトは読み取り専用として指定できます。つまり、オブジェクトを変更しようとすると、以下で説明するように例外がスローされます。
+SVGLength インターフェイスは length 基本データ型に対応します。SVGLength オブジェクトは読み取り専用に指定でき、オブジェクトの変更を試みると例外がスローされます（以下参照）。
 
 ```csharp
 public class SVGLength : SVGValueType
@@ -18,41 +18,39 @@ public class SVGLength : SVGValueType
 
 | 名前 | 説明 |
 | --- | --- |
-| [UnitType](../../aspose.svg.datatypes/svglength/unittype/) { get; } | このインターフェイスで定義された SVG_LENGTHTYPE_* 定数の 1 つによって指定された値の型。 |
-| [Value](../../aspose.svg.datatypes/svglength/value/) { get; set; } | ユーザー単位の浮動小数点値としての値。この属性を設定すると、valueInSpecifiedUnits と valueAsString が自動的に更新され、この設定が反映されます。 |
-| [ValueAsString](../../aspose.svg.datatypes/svglength/valueasstring/) { get; set; } | unitType で表される単位の文字列値としての値。この属性を設定すると、値、valueInSpecifiedUnits、および unitType が自動的に更新され、この設定が反映されます。 |
-| [ValueInSpecifiedUnits](../../aspose.svg.datatypes/svglength/valueinspecifiedunits/) { get; set; } | unitType で表される単位の浮動小数点値としての値。この属性を設定すると、値と valueAsString が自動的に更新され、この設定が反映されます。 |
+| [UnitType](../../aspose.svg.datatypes/svglength/unittype/) { get; } | このインターフェイスで定義されている SVG_LENGTHTYPE_* 定数のいずれかによって指定される値の型です。 |
+| [Value](../../aspose.svg.datatypes/svglength/value/) { get; set; } | ユーザー単位での浮動小数点値としての値です。この属性を設定すると、valueInSpecifiedUnits と valueAsString が自動的に更新され、この設定を反映します。 |
+| [ValueAsString](../../aspose.svg.datatypes/svglength/valueasstring/) { get; set; } | unitType で表される単位での文字列値としての値です。この属性を設定すると、value、valueInSpecifiedUnits、unitType が自動的に更新され、この設定を反映します。 |
+| [ValueInSpecifiedUnits](../../aspose.svg.datatypes/svglength/valueinspecifiedunits/) { get; set; } | unitType で表される単位での浮動小数点値としての値です。この属性を設定すると、value と valueAsString が自動的に更新され、この設定を反映します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [ConvertToSpecifiedUnits](../../aspose.svg.datatypes/svglength/converttospecifiedunits/)(ushort) | 基礎となる保存された同じ値を保持しますが、保存されたユニット識別子を指定された unitType にリセットします。オブジェクト属性 unitType、valueInSpecifiedUnits、および valueAsString は、このメソッドの結果として変更される場合があります。たとえば、元の値が「0.5cm」で、ミリメートルに変換するためにメソッドが呼び出された場合、unitType は SVG_LENGTHTYPE_MM に変更され、valueInSpecifiedUnits は数値 5 に変更され、valueAsString は「5mm」に変更されます。 |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| [NewValueSpecifiedUnits](../../aspose.svg.datatypes/svglength/newvaluespecifiedunits/)(ushort, float) | 関連付けられた unitType を持つ数値として値をリセットし、オブジェクトのすべての属性の値を置き換えます。 |
-| override [ToString](../../aspose.svg.datatypes/svglength/tostring/)() | を返しますStringこのインスタンスを表す. |
+| [ConvertToSpecifiedUnits](../../aspose.svg.datatypes/svglength/converttospecifiedunits/)(*ushort*) | 同じ基礎となる格納値を保持しつつ、格納された単位識別子を指定された unitType にリセットします。このメソッドの結果として、オブジェクト属性 unitType、valueInSpecifiedUnits、valueAsString が変更される可能性があります。例えば、元の値が "0.5cm" で、このメソッドがミリメートルに変換するために呼び出された場合、unitType は SVG_LENGTHTYPE_MM に変更され、valueInSpecifiedUnits は数値の 5 に変更され、valueAsString は "5mm" に変更されます。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| [NewValueSpecifiedUnits](../../aspose.svg.datatypes/svglength/newvaluespecifiedunits/)(*ushort, float*) | 関連付けられた unitType を持つ数値として値をリセットし、オブジェクト上のすべての属性の値を置き換えます。 |
+| override [ToString](../../aspose.svg.datatypes/svglength/tostring/)() | このインスタンスを表す String を返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [SVG_LENGTHTYPE_CM](../../aspose.svg.datatypes/svglength/svg_lengthtype_cm/) | CSS2 で定義されている cm 単位を使用して値が指定されました。 |
-| const [SVG_LENGTHTYPE_EMS](../../aspose.svg.datatypes/svglength/svg_lengthtype_ems/) | CSS2 で定義されている em 単位を使用して値が指定されました。 |
-| const [SVG_LENGTHTYPE_EXS](../../aspose.svg.datatypes/svglength/svg_lengthtype_exs/) | CSS2 で定義されている ex 単位を使用して値が指定されました。 |
-| const [SVG_LENGTHTYPE_IN](../../aspose.svg.datatypes/svglength/svg_lengthtype_in/) | CSS2 で定義されている単位を使用して値が指定されました。 |
-| const [SVG_LENGTHTYPE_MM](../../aspose.svg.datatypes/svglength/svg_lengthtype_mm/) | CSS2 で定義されている mm 単位を使用して値が指定されました。 |
-| const [SVG_LENGTHTYPE_NUMBER](../../aspose.svg.datatypes/svglength/svg_lengthtype_number/) | 単位の種類が指定されていません (つまり、単位のない値が指定されました)。これは、ユーザー単位の値を示します。 |
-| const [SVG_LENGTHTYPE_PC](../../aspose.svg.datatypes/svglength/svg_lengthtype_pc/) | CSS2 で定義されている pc 単位を使用して値が指定されました。 |
-| const [SVG_LENGTHTYPE_PERCENTAGE](../../aspose.svg.datatypes/svglength/svg_lengthtype_percentage/) | パーセント値が指定されました。 |
-| const [SVG_LENGTHTYPE_PT](../../aspose.svg.datatypes/svglength/svg_lengthtype_pt/) | CSS2 で定義されている pt 単位を使用して値が指定されました。 |
-| const [SVG_LENGTHTYPE_PX](../../aspose.svg.datatypes/svglength/svg_lengthtype_px/) | CSS2 で定義されている px 単位を使用して値が指定されました。 |
-| const [SVG_LENGTHTYPE_UNKNOWN](../../aspose.svg.datatypes/svglength/svg_lengthtype_unknown/) | ユニット タイプは、定義済みのユニット タイプの 1 つではありません。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとしたりすることは無効です. |
+| const [SVG_LENGTHTYPE_CM](../../aspose.svg.datatypes/svglength/svg_lengthtype_cm/) | CSS2 で定義された cm 単位を使用して値が指定されました。 |
+| const [SVG_LENGTHTYPE_EMS](../../aspose.svg.datatypes/svglength/svg_lengthtype_ems/) | CSS2 で定義された em 単位を使用して値が指定されました。 |
+| const [SVG_LENGTHTYPE_EXS](../../aspose.svg.datatypes/svglength/svg_lengthtype_exs/) | CSS2 で定義された ex 単位を使用して値が指定されました。 |
+| const [SVG_LENGTHTYPE_IN](../../aspose.svg.datatypes/svglength/svg_lengthtype_in/) | CSS2 で定義された in 単位を使用して値が指定されました。 |
+| const [SVG_LENGTHTYPE_MM](../../aspose.svg.datatypes/svglength/svg_lengthtype_mm/) | CSS2 で定義された mm 単位を使用して値が指定されました。 |
+| const [SVG_LENGTHTYPE_NUMBER](../../aspose.svg.datatypes/svglength/svg_lengthtype_number/) | 単位タイプが提供されていません（つまり、単位なしの値が指定されました）。これはユーザー単位の値を示します。 |
+| const [SVG_LENGTHTYPE_PC](../../aspose.svg.datatypes/svglength/svg_lengthtype_pc/) | CSS2 で定義された pc 単位を使用して値が指定されました。 |
+| const [SVG_LENGTHTYPE_PERCENTAGE](../../aspose.svg.datatypes/svglength/svg_lengthtype_percentage/) | パーセンテージ値が指定されました。 |
+| const [SVG_LENGTHTYPE_PT](../../aspose.svg.datatypes/svglength/svg_lengthtype_pt/) | CSS2 で定義された pt 単位を使用して値が指定されました。 |
+| const [SVG_LENGTHTYPE_PX](../../aspose.svg.datatypes/svglength/svg_lengthtype_px/) | CSS2 で定義された px 単位を使用して値が指定されました。 |
+| const [SVG_LENGTHTYPE_UNKNOWN](../../aspose.svg.datatypes/svglength/svg_lengthtype_unknown/) | 単位タイプは事前定義された単位タイプのいずれでもありません。このタイプの新しい値を定義しようとしたり、既存の値をこのタイプに切り替えようとすることは無効です。 |
 
-### 関連項目
+### 参照
 
 * class [SVGValueType](../svgvaluetype/)
-* 名前空間 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

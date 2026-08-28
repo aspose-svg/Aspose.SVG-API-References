@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.MutationObserverInit
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit コンストラクタ. の新しいインスタンスを初期化しますMutationObserverInit class.
+title: "MutationObserverInit"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit コンストラクター。MutationObserverInit クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/mutationobserverinit/
 ---
 ## MutationObserverInit constructor
 
-の新しいインスタンスを初期化します[`MutationObserverInit`](../) class.
+[`MutationObserverInit`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public MutationObserverInit()
 ```
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGAngle.ValueInSpecifiedUnits
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGAngle 財産. unitType で表される単位の浮動小数点値としての角度値この属性を設定すると値と valueAsString が自動的に更新されこの設定が反映されます
+title: "SVGAngle.ValueInSpecifiedUnits"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGAngle ValueInSpecifiedUnits プロパティ。unitType で表される単位での角度値を浮動小数点数として保持します。この属性を設定すると、value と valueAsString が自動的に更新され、この設定を反映します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.datatypes/svgangle/valueinspecifiedunits/
 ---
 ## SVGAngle.ValueInSpecifiedUnits property
 
-unitType で表される単位の浮動小数点値としての角度値。この属性を設定すると、値と valueAsString が自動的に更新され、この設定が反映されます。
+角度の値は unitType で表される単位の浮動小数点値です。この属性を設定すると、value と valueAsString が自動的に更新され、この設定を反映します。
 
 ```csharp
 public float ValueInSpecifiedUnits { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された単位の値。
+指定された単位での値です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 角度が読み取り専用属性に対応する場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) 角度が読み取り専用属性に対応している場合、またはオブジェクト自体が読み取り専用の場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGAngle](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgangle/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

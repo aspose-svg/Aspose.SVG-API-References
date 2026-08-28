@@ -1,24 +1,22 @@
 ---
-title: IStyleSheet.Media
-second_title: Aspose.SVG for .NET API リファレンス
-description: IStyleSheet 財産. スタイル情報の対象メディア
+title: "IStyleSheet.Media"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IStyleSheet Media プロパティ。 スタイル情報の対象となるメディアを示します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.css/istylesheet/media/
 ---
 ## IStyleSheet.Media property
 
-スタイル情報の対象メディア。
+スタイル情報の対象となるメディアです。
 
 ```csharp
 public IMediaList Media { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IMediaList](../../imedialist/)
 * interface [IStyleSheet](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../istylesheet/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

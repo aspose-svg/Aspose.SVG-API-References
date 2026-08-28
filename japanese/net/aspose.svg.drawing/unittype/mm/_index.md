@@ -1,23 +1,21 @@
 ---
-title: UnitType.Mm
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 単位はミリメートルです
+title: "UnitType.Mm"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Mm フィールド。測定はミリメートルです。"
 type: docs
 weight: 150
 url: /ja/net/aspose.svg.drawing/unittype/mm/
 ---
 ## UnitType.Mm field
 
-単位はミリメートルです
+測定はミリメートルです
 
 ```csharp
 public static readonly UnitType Mm;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

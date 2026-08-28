@@ -1,23 +1,21 @@
 ---
-title: IStyleSheetList.Length
-second_title: Aspose.SVG for .NET API リファレンス
-description: IStyleSheetList 財産. リスト内のスタイルシートの数有効な子スタイルシート インデックスの範囲は0 から長さ 1 までです
+title: "IStyleSheetList.Length"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IStyleSheetList Length プロパティ。リスト内の StyleSheet の数を示します。有効な子スタイルシートインデックスの範囲は 0 から length-1（両端含む）です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/istylesheetlist/length/
 ---
 ## IStyleSheetList.Length property
 
-リスト内のスタイルシートの数。有効な子スタイルシート インデックスの範囲は、0 から長さ 1 までです。
+リスト内の StyleSheets の数です。有効な子スタイルシートインデックスの範囲は 0 から length-1（含む）です。
 
 ```csharp
 public int Length { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IStyleSheetList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

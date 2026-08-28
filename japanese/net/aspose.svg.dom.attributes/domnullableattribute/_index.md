@@ -1,29 +1,33 @@
 ---
-title: Class DOMNullableAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Attributes.DOMNullableAttribute クラス. null 値を割り当てることができる DOM オブジェクトを指定します
+title: "DOMNullableAttribute クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Attributes.DOMNullableAttribute クラス。DOM オブジェクトに null 値を割り当てられることを指定します。"
 type: docs
-weight: 410
+weight: 2410
 url: /ja/net/aspose.svg.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class
 
-null 値を割り当てることができる DOM オブジェクトを指定します。
+DOM オブジェクトに null 値を割り当てられることを指定します。
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNullableAttribute : Attribute
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DOMNullableAttribute](domnullableattribute/)() | デフォルトのコンストラクター。 |
+| [DOMNullableAttribute](domnullableattribute/)() | デフォルトコンストラクタです。 |
 
-### 関連項目
+## プロパティ
 
-* 名前空間 [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* 組み立て [Aspose.SVG](../../)
+| 名前 | 説明 |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### 参照
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

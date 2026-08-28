@@ -1,9 +1,9 @@
 ---
-title: NamedNodeMap.RemoveNamedItem
-second_title: Aspose.SVG for .NET API リファレンス
-description: NamedNodeMap 方法. 名前で指定されたノードを削除します
+title: "NamedNodeMap.RemoveNamedItem"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "NamedNodeMap RemoveNamedItem メソッド。名前で指定されたノードを削除します。"
 type: docs
-weight: 60
+weight: 50
 url: /ja/net/aspose.svg.collections/namednodemap/removenameditem/
 ---
 ## NamedNodeMap.RemoveNamedItem method
@@ -14,19 +14,17 @@ url: /ja/net/aspose.svg.collections/namednodemap/removenameditem/
 public Attr RemoveNamedItem(string name)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | 要素名。 |
+| 名前 | String | 要素名です。 |
 
 ### 戻り値
 
-ノードを削除しました。
+削除されたノードです。
 
-### 関連項目
+### 参照
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* 名前空間 [Aspose.Svg.Collections](../../namednodemap/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
