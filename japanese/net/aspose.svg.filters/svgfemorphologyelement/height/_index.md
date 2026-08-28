@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.Height
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEMorphologyElement 財産. 指定されたフィルター要素の属性高さに対応します
+title: "SVGFEMorphologyElement.Height"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEMorphologyElement Height プロパティ。指定されたフィルタ要素の属性 height に対応します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.filters/svgfemorphologyelement/height/
 ---
 ## SVGFEMorphologyElement.Height property
 
-指定された「フィルター」要素の属性「高さ」に対応します。
+指定された ‘filter’ 要素の属性 ‘height’ に対応します。
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「フィルター」要素の属性「高さ」。
+指定された ‘filter’ 要素の属性 ‘height’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEMorphologyElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

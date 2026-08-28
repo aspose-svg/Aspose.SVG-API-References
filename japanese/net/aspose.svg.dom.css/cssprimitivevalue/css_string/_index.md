@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_STRING
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値は STRING です値は getStringValue メソッドを使用して取得できます
+title: "CSSPrimitiveValue.CSS_STRING"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_STRING フィールド。値は STRING です。値は getStringValue メソッドを使用して取得できます。"
 type: docs
-weight: 390
+weight: 400
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_string/
 ---
 ## CSSPrimitiveValue.CSS_STRING field
 
-値は STRING です。値は getStringValue メソッドを使用して取得できます。
+この値は文字列です。getStringValue メソッドを使用して取得できます。
 
 ```csharp
 public const ushort CSS_STRING;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

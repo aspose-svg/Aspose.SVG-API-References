@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarkerOffset
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の markeroffset プロパティ定義を参照してください
+title: "ICSS2Properties.MarkerOffset"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties MarkerOffset プロパティ。CSS2 の marker-offset プロパティ定義をご覧ください"
 type: docs
-weight: 680
+weight: 710
 url: /ja/net/aspose.svg.dom.css/icss2properties/markeroffset/
 ---
 ## ICSS2Properties.MarkerOffset property
 
-CSS2 の marker-offset プロパティ定義を参照してください。
+CSS2 の marker-offset プロパティ定義をご覧ください。
 
 ```csharp
 public string MarkerOffset { get; set; }
@@ -16,12 +16,10 @@ public string MarkerOffset { get; set; }
 
 ### 戻り値
 
-マーカー オフセット プロパティ
+marker-offset プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

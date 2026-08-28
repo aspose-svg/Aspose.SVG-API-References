@@ -1,27 +1,25 @@
 ---
-title: DocumentType.Name
-second_title: Aspose.SVG for .NET API リファレンス
-description: DocumentType 財産. DTD の名前つまりDOCTYPE キーワードの直後の名前.
+title: "DocumentType.Name"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DocumentType Name property. DTD の名前、すなわち DOCTYPE キーワードの直後に続く名前です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom/documenttype/name/
 ---
 ## DocumentType.Name property
 
-DTD の名前。つまり、DOCTYPE キーワードの直後の名前.
+DTD の名前。つまり、DOCTYPE キーワードの直後に続く名前です。
 
 ```csharp
 public string Name { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ノード名.
+ノード名です。
 
-### 関連項目
+### 参照
 
 * class [DocumentType](../)
-* 名前空間 [Aspose.Svg.Dom](../../documenttype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: Device2.ClosePath
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. 現在のポイントからサブパスの開始点までの直線セグメントを追加することにより現在のサブパスを閉じます 現在のサブパスが既に閉じられている場合ClosePath は何もしません この演算子は現在のサブパスを終了します現在のパスに別のセグメントを追加すると新しいサブパス が開始されますが新しいセグメントがClosePathメソッドによって到達したエンドポイントで開始される場合でも.
+title: "Device-2.ClosePath"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device ClosePath メソッド。現在の点からサブパスの開始点へ直線セグメントを追加して現在のサブパスを閉じます。現在のサブパスがすでに閉じている場合、ClosePath は何もしません。この演算子は現在のサブパスを終了します。現在のパスに別のセグメントを追加すると、新しいサブパスが開始されます。たとえ新しいセグメントが ClosePath メソッドで到達した終点から始まっても同様です"
 type: docs
-weight: 80
+weight: 110
 url: /ja/net/aspose.svg.rendering/device-2/closepath/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.ClosePath method
+## Device<TGraphicContext,TRenderingOptions>.ClosePath method
 
-現在のポイントからサブパスの開始点までの直線セグメントを追加することにより、現在のサブパスを閉じます。 現在のサブパスが既に閉じられている場合、"ClosePath" は何もしません。 この演算子は現在のサブパスを終了します。現在のパスに別のセグメントを追加すると、新しいサブパス が開始されますが、新しいセグメントが「ClosePath」メソッドによって到達したエンドポイントで開始される場合でも.
+現在の点からサブパスの開始点まで直線セグメントを追加して現在のサブパスを閉じます。現在のサブパスがすでに閉じている場合、"ClosePath" は何もしません。この演算子は現在のサブパスを終了します。現在のパスに別のセグメントを追加すると、新しいサブパスが開始されます。たとえ新しいセグメントが "ClosePath" メソッドで到達した終点から始まっても同様です。
 
 ```csharp
-public abstract void ClosePath()
+public virtual void ClosePath()
 ```
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

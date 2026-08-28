@@ -1,28 +1,26 @@
 ---
-title: MessageHandler.Filters
-second_title: Aspose.SVG for .NET API リファレンス
-description: MessageHandler 財産. 指定されたハンドラー タイプに対応するフィルター リストを取得します
+title: "MessageHandler.Filters"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MessageHandler Filters プロパティ。指定されたハンドラタイプに対応するフィルタのリストを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/messagehandler/filters/
 ---
 ## MessageHandler.Filters property
 
-指定されたハンドラー タイプに対応するフィルター リストを取得します。
+指定されたハンドラタイプに対応するフィルタリストを取得します。
 
 ```csharp
 public Collection<MessageFilter> Filters { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-フィルター.
+フィルタ。
 
-### 関連項目
+### 参照
 
 * class [MessageFilter](../../messagefilter/)
 * class [MessageHandler](../)
-* 名前空間 [Aspose.Svg.Net](../../messagehandler/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

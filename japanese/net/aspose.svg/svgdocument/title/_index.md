@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Title
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGDocument 財産. svg ルート要素の title サブ要素で指定されたドキュメントのタイトル つまりタイトルはこちら... 
+title: "SVGDocument.Title"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGDocument Title プロパティ。ドキュメントのタイトルは、svg ルート要素の title サブ要素で指定されます。例: Here is the title"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg/svgdocument/title/
 ---
 ## SVGDocument.Title property
 
-'svg' ルート要素の 'title' サブ要素で指定されたドキュメントのタイトル (つまり、タイトルはこちら... )
+‘svg’ ルート要素の ‘title’ サブ要素で指定されたドキュメントのタイトル（例: Here is the title...）
 
 ```csharp
 public string Title { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 ドキュメントのタイトル。
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

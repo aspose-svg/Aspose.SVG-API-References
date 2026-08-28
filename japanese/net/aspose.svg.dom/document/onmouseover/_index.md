@@ -1,24 +1,22 @@
 ---
-title: Document.OnMouseOver
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document イベント. OnMouseOver イベントのイベント ハンドラーを取得または設定します
+title: "Document.OnMouseOver"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document OnMouseOver イベント。OnMouseOver イベントのハンドラを取得または設定します。"
 type: docs
 weight: 560
 url: /ja/net/aspose.svg.dom/document/onmouseover/
 ---
 ## Document.OnMouseOver event
 
-OnMouseOver イベントのイベント ハンドラーを取得または設定します。
+OnMouseOver イベントのハンドラを取得または設定します。
 
 ```csharp
 public event DOMEventHandler OnMouseOver;
 ```
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.SnapshotLength
-second_title: Aspose.SVG for .NET API リファレンス
-description: IXPathResult 財産. 結果スナップショットのノード数 snapshotItem インデックスの有効な値は次のとおりです0にスナップショットの長さ1含む.
+title: "IXPathResult.SnapshotLength"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IXPathResult SnapshotLength プロパティ。結果スナップショット内のノード数です。snapshotItem のインデックスとして有効な値は 0 から snapshotLength-1 まで（両端含む）です。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom.xpath/ixpathresult/snapshotlength/
 ---
 ## IXPathResult.SnapshotLength property
 
-結果スナップショットのノード数。 snapshotItem インデックスの有効な値は次のとおりです。`0`に`スナップショットの長さ-1`含む.
+結果スナップショット内のノード数。snapshotItem インデックスの有効な値は `0` から `snapshotLength-1` までです。
 
 ```csharp
 public int SnapshotLength { get; }
@@ -16,14 +16,12 @@ public int SnapshotLength { get; }
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: resultType が でない場合に発生します`UnorderedNodeSnapshot`タイプまたは`OrderedNodeSnapshot`タイプ。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: resultType が `UnorderedNodeSnapshot` 型でも `OrderedNodeSnapshot` 型でもない場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * interface [IXPathResult](../)
-* 名前空間 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

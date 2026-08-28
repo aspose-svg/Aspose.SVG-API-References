@@ -1,27 +1,25 @@
 ---
-title: SVGTransform.Type
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTransform 財産. このインターフェイスで定義された SVG_TRANSFORM_ 定数の 1 つによって指定された値の型
+title: "SVGTransform.Type"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTransform Type プロパティ。このインターフェイスで定義された SVG_TRANSFORM_ 定数のいずれかで指定された値のタイプです。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.datatypes/svgtransform/type/
 ---
 ## SVGTransform.Type property
 
-このインターフェイスで定義された SVG_TRANSFORM_* 定数の 1 つによって指定された値の型。
+このインターフェイスで定義された SVG_TRANSFORM_* 定数のいずれかによって指定された値のタイプです。
 
 ```csharp
 public ushort Type { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-変換タイプ.
+変換タイプ。
 
-### 関連項目
+### 参照
 
 * class [SVGTransform](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgtransform/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

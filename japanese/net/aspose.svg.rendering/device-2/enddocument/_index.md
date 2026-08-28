@@ -1,12 +1,12 @@
 ---
-title: Device2.EndDocument
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. ドキュメントのレンダリングを終了します
+title: "Device-2.EndDocument"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device EndDocument メソッド。ドキュメントのレンダリングを終了します"
 type: docs
-weight: 120
+weight: 150
 url: /ja/net/aspose.svg.rendering/device-2/enddocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndDocument method
+## Device<TGraphicContext,TRenderingOptions>.EndDocument method
 
 ドキュメントのレンダリングを終了します。
 
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.rendering/device-2/enddocument/
 public virtual void EndDocument()
 ```
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

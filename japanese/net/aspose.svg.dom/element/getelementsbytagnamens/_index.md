@@ -1,33 +1,35 @@
 ---
-title: Element.GetElementsByTagNameNS
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 方法. 指定されたローカル名と名前空間 URI を持つすべての子孫要素の NodeList をドキュメント順に返します
+title: "Element.GetElementsByTagNameNS"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element GetElementsByTagNameNS メソッド。指定されたローカル名と名前空間 URI 文字列を持つすべての要素を文書順で含む HTMLCollection オブジェクトを返します。"
 type: docs
 weight: 300
 url: /ja/net/aspose.svg.dom/element/getelementsbytagnamens/
 ---
 ## Element.GetElementsByTagNameNS method
 
-指定されたローカル名と名前空間 URI を持つすべての子孫要素の NodeList をドキュメント順に返します。
+文書順で指定されたローカル名と名前空間 URI 文字列を持つすべての[`elements`](../)を含む[`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) オブジェクトを返します。
 
 ```csharp
 public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| namespaceURI | String | 名前空間 URI。 |
-| localName | String | 地元の名前。 |
+| namespaceURI | String | 名前空間 URI の文字列表現。 |
+| localName | String | ローカル名の文字列表現。 |
 
 ### 戻り値
 
-要素を返します
+見つかった要素のライブ `HTMLCollection`(../../../aspose.svg.collections/htmlcollection/)です。
 
-### 関連項目
+## 備考
+
+公式の[spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagnamens)を参照してください。
+
+### 参照
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

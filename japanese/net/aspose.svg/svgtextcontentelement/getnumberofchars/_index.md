@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.GetNumberOfChars
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTextContentElement 方法. 現在の要素内でレンダリングできる文字の総数を返しますこれにはレンダリングされるかどうかに関係なくtref参照から参照される文字が含まれます事実上これは DOM レベル 3 コア DOM3セクション 1.4 の NodetextContent 属性の長さと同じです その属性が tref 要素も展開されている場合
+title: "SVGTextContentElement.GetNumberOfChars"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTextContentElement GetNumberOfChars メソッド。現在の要素内でレンダリング可能な文字数の合計を返します。これは、tref 参照からの参照文字も含み、実際にレンダリングされるかどうかに関わらずカウントされます。実質的には、DOM Level 3 Core（DOM3）セクション 1.4 の NodetextContent 属性の長さに相当し、その属性が tref 要素も展開している場合と同等です。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg/svgtextcontentelement/getnumberofchars/
 ---
 ## SVGTextContentElement.GetNumberOfChars method
 
-現在の要素内でレンダリングできる文字の総数を返します。これには、レンダリングされるかどうかに関係なく、「tref」参照から参照される文字が含まれます。事実上、これは DOM レベル 3 コア ([DOM3]、セクション 1.4) の Node::textContent 属性の長さと同じです (その属性が 'tref' 要素も展開されている場合)。
+現在の要素内でレンダリング可能な文字数の総計を返します。これには ‘tref’ 参照からの文字も含まれ、レンダリングされるかどうかに関わりません。実質的には、DOM Level 3 Core（[DOM3]、セクション 1.4）の Node::textContent 属性の長さに相当し、その属性が ‘tref’ 要素も展開している場合と同等です。
 
 ```csharp
 public long GetNumberOfChars()
@@ -16,12 +16,10 @@ public long GetNumberOfChars()
 
 ### 戻り値
 
-総文字数。
+文字数の合計です。
 
-### 関連項目
+### 参照
 
 * class [SVGTextContentElement](../)
-* 名前空間 [Aspose.Svg](../../svgtextcontentelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

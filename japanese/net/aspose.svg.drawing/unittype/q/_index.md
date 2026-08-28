@@ -1,23 +1,21 @@
 ---
-title: UnitType.Q
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 測定単位は 1/4 ミリメートルです
+title: "UnitType.Q"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Q フィールド。測定は四分の一ミリメートルです。"
 type: docs
 weight: 210
 url: /ja/net/aspose.svg.drawing/unittype/q/
 ---
 ## UnitType.Q field
 
-測定単位は 1/4 ミリメートルです
+測定は四分の一ミリメートルです
 
 ```csharp
 public static readonly UnitType Q;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

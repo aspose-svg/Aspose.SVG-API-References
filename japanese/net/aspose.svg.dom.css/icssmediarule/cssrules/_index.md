@@ -1,24 +1,22 @@
 ---
-title: ICSSMediaRule.CSSRules
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSMediaRule 財産. メディア ブロック内に含まれるすべての CSS ルールのリスト
+title: "ICSSMediaRule.CSSRules"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSMediaRule CSSRules プロパティ。メディアブロック内に含まれるすべての CSS ルールの一覧"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/icssmediarule/cssrules/
 ---
 ## ICSSMediaRule.CSSRules property
 
-メディア ブロック内に含まれるすべての CSS ルールのリスト。
+メディアブロック内に含まれるすべての CSS ルールの一覧です。
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSMediaRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

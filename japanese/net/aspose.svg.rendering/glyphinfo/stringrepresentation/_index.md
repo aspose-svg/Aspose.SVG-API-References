@@ -1,7 +1,7 @@
 ---
-title: GlyphInfo.StringRepresentation
-second_title: Aspose.SVG for .NET API リファレンス
-description: GlyphInfo 財産. このグリフの文字列表現を取得します
+title: "GlyphInfo.StringRepresentation"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GlyphInfo StringRepresentation プロパティ。このグリフの文字列表現を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
 public string StringRepresentation { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-AStringこのグリフを表す.
+このグリフを表す文字列。
 
-### 関連項目
+### 参照
 
 * struct [GlyphInfo](../)
-* 名前空間 [Aspose.Svg.Rendering](../../glyphinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

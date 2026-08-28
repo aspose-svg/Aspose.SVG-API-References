@@ -1,51 +1,49 @@
 ---
-title: SVGOptimizer.Optimize
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGOptimizer 方法. 最適化SVGDocumentデフォルトの最適化オプションのセットを適用する.
+title: "SVGOptimizer.Optimize"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGOptimizer Optimize メソッド。デフォルトの最適化オプションのセットを適用して SVGDocument を最適化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.toolkit.optimizers/svgoptimizer/optimize/
 ---
-## Optimize(SVGDocument) {#optimize}
+## Optimize(*[SVGDocument](../../../aspose.svg/svgdocument/)*) {#optimize}
 
-最適化[`SVGDocument`](../../../aspose.svg/svgdocument/)デフォルトの最適化オプションのセットを適用する.
+デフォルトの最適化オプションのセットを適用して [`SVGDocument`](../../../aspose.svg/svgdocument/) を最適化します。
 
 ```csharp
 public static void Optimize(SVGDocument document)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| document | SVGDocument | SVGDocument のインスタンス。 |
+| ドキュメント | SVGDocument | SVGDocument のインスタンスです。 |
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizer](../)
-* 名前空間 [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Optimize(SVGDocument, SVGOptimizationOptions) {#optimize_1}
+## Optimize(*[SVGDocument](../../../aspose.svg/svgdocument/), [SVGOptimizationOptions](../../svgoptimizationoptions/)*) {#optimize_1}
 
-最適化[`SVGDocument`](../../../aspose.svg/svgdocument/)指定された最適化オプションのセットを適用することによって.
+指定された最適化オプションのセットを適用して [`SVGDocument`](../../../aspose.svg/svgdocument/) を最適化します。
 
 ```csharp
 public static void Optimize(SVGDocument document, SVGOptimizationOptions options)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| document | SVGDocument | SVGDocument のインスタンス。 |
-| options | SVGOptimizationOptions | SVGOptimizationOptions のインスタンス。 |
+| ドキュメント | SVGDocument | SVGDocument のインスタンスです。 |
+| options | SVGOptimizationOptions | SVGOptimizationOptions のインスタンスです。 |
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizationOptions](../../svgoptimizationoptions/)
 * class [SVGOptimizer](../)
-* 名前空間 [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

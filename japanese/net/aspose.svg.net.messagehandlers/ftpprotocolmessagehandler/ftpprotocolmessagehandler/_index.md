@@ -1,23 +1,21 @@
 ---
-title: FtpProtocolMessageHandler.FtpProtocolMessageHandler
-second_title: Aspose.SVG for .NET API リファレンス
-description: FtpProtocolMessageHandler コンストラクタ. の新しいインスタンスを初期化しますFtpProtocolMessageHandler class.
+title: "FtpProtocolMessageHandler"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FtpProtocolMessageHandler コンストラクタ。FtpProtocolMessageHandler クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler constructor
 
-の新しいインスタンスを初期化します[`FtpProtocolMessageHandler`](../) class.
+[`FtpProtocolMessageHandler`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public FtpProtocolMessageHandler()
 ```
 
-### 関連項目
+### 参照
 
 * class [FtpProtocolMessageHandler](../)
-* 名前空間 [Aspose.Svg.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

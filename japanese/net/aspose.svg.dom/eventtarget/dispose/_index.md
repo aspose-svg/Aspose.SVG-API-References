@@ -1,23 +1,21 @@
 ---
-title: EventTarget.Dispose
-second_title: Aspose.SVG for .NET API リファレンス
-description: EventTarget 方法. アンマネージ リソースの解放解放またはリセットに関連するアプリケーション定義のタスクを実行します
+title: "EventTarget.Dispose"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "EventTarget Dispose メソッド。アンマネージドリソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.svg.dom/eventtarget/dispose/
 ---
 ## EventTarget.Dispose method
 
-アンマネージ リソースの解放、解放、またはリセットに関連するアプリケーション定義のタスクを実行します。
+アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。
 
 ```csharp
 public void Dispose()
 ```
 
-### 関連項目
+### 参照
 
 * class [EventTarget](../)
-* 名前空間 [Aspose.Svg.Dom](../../eventtarget/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

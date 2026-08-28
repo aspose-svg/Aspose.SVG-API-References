@@ -1,14 +1,14 @@
 ---
-title: Interface IEventListener
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Events.IEventListener インターフェース. IEventListenerインターフェイスはイベントを処理するための主要な方法です ユーザーはIEventListenerインターフェイスにリスナーを登録しますEventTargetを使用してAddEventListenermethod. ユーザーも削除する必要がありますIEventListenerそのからEventTargetlistener. の使用が完了した後
+title: "IEventListener インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Events.IEventListener インターフェイス。IEventListener インターフェイスは、イベント処理の主要な手段です。ユーザーは IEventListener インターフェイスを実装し、AddEventListener メソッドを使用して EventTarget にリスナーを登録します。ユーザーは、リスナーの使用が完了した後、EventTarget から IEventListener を削除すべきです。"
 type: docs
-weight: 950
+weight: 2950
 url: /ja/net/aspose.svg.dom.events/ieventlistener/
 ---
 ## IEventListener interface
 
-`IEventListener`インターフェイスは、イベントを処理するための主要な方法です。 ユーザーは、`IEventListener`インターフェイスにリスナーを登録します[`EventTarget`](../../aspose.svg.dom/eventtarget/)を使用して[`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener/)method. ユーザーも削除する必要があります`IEventListener`そのから[`EventTarget`](../../aspose.svg.dom/eventtarget/)listener. の使用が完了した後
+`IEventListener` インターフェイスは、イベント処理の主要な手段です。ユーザーは `IEventListener` インターフェイスを実装し、[`EventTarget`](../../aspose.svg.dom/eventtarget/) 上で [`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener/) メソッドを使用してリスナーを登録します。ユーザーは、リスナーの使用が完了した後、その [`EventTarget`](../../aspose.svg.dom/eventtarget/) から `IEventListener` を削除すべきです。
 
 ```csharp
 public interface IEventListener
@@ -18,15 +18,13 @@ public interface IEventListener
 
 | 名前 | 説明 |
 | --- | --- |
-| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent/)(Event) | このメソッドは、そのタイプのイベントが発生するたびに呼び出されます。`IEventListener`インターフェイスが登録されました. |
+| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent/)(*[Event](../event/)*) | このメソッドは、`IEventListener` インターフェイスが登録されたタイプのイベントが発生するたびに呼び出されます。 |
 
-### 備考
+## 備考
 
-cloneNode メソッドを使用してノードをコピーすると、ソース ノードにアタッチされたイベント リスナーは、コピーされたノードにアタッチされません。
+cloneNode メソッドでノードをコピーすると、元ノードに付随していたイベントリスナーはコピーされたノードには付随しません。ユーザーが同じイベントリスナーを新しく作成されたコピーに追加したい場合は、手動で追加する必要があります。
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

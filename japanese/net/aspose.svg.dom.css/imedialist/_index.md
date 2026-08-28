@@ -1,14 +1,14 @@
 ---
-title: Interface IMediaList
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.IMediaList インターフェース. MediaList インターフェイスはこのコレクションの実装方法を定義または制約することなく順序付けられたメディアのコレクションの抽象化を提供します空のリストはメディアallを含むリストと同じです.
+title: "IMediaList インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.IMediaList インターフェイス。MediaList インターフェイスは、実装方法を定義したり制約したりせずに、メディアの順序付けられたコレクションの抽象化を提供します。空のリストは、すべてのメディアを含むリストと同じです。"
 type: docs
-weight: 730
+weight: 2730
 url: /ja/net/aspose.svg.dom.css/imedialist/
 ---
 ## IMediaList interface
 
-MediaList インターフェイスは、このコレクションの実装方法を定義または制約することなく、順序付けられたメディアのコレクションの抽象化を提供します。空のリストは、メディア「all」を含むリストと同じです.
+MediaList インターフェイスは、実装方法を定義または制約せずに、メディアの順序付けされたコレクションの抽象化を提供します。空のリストは、メディア "all" を含むリストと同等です。
 
 ```csharp
 public interface IMediaList : IEnumerable<string>
@@ -18,20 +18,18 @@ public interface IMediaList : IEnumerable<string>
 
 | 名前 | 説明 |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/imedialist/item/) { get; } | リストのインデックス番目を返します。 index がリスト内のメディア数以上の場合、null を返します。 メディア インデックス。 |
-| [Length](../../aspose.svg.dom.css/imedialist/length/) { get; } | リスト内のメディアの数。有効なメディアの範囲は、0 から長さ 1 までです。 |
-| [MediaText](../../aspose.svg.dom.css/imedialist/mediatext/) { get; } | メディア リストの解析可能なテキスト表現。これは、メディアのカンマ区切りリストです。 |
+| [Item](../../aspose.svg.dom.css/imedialist/item/) { get; } | リスト内の index 番目を返します。index がリスト内のメディア数以上の場合、null を返します。メディアインデックス。 |
+| [Length](../../aspose.svg.dom.css/imedialist/length/) { get; } | リスト内のメディア数です。有効なメディアの範囲は 0 から length-1 まで（両端含む）です。 |
+| [MediaText](../../aspose.svg.dom.css/imedialist/mediatext/) { get; } | メディアリストの解析可能なテキスト表現です。これはメディアをカンマで区切ったリストです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AppendMedium](../../aspose.svg.dom.css/imedialist/appendmedium/)(string) | リストの最後にメディア newMedium を追加します。 newMedium が既に使用されている場合は、最初に削除されます。 |
-| [DeleteMedium](../../aspose.svg.dom.css/imedialist/deletemedium/)(string) | oldMedium で示されるメディアをリストから削除します。 |
+| [AppendMedium](../../aspose.svg.dom.css/imedialist/appendmedium/)(*string*) | newMedium メディアをリストの末尾に追加します。newMedium がすでに使用されている場合は、まず削除されます。 |
+| [DeleteMedium](../../aspose.svg.dom.css/imedialist/deletemedium/)(*string*) | oldMedium が示すメディアをリストから削除します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarginRight
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の marginright プロパティの定義を参照してください
+title: "ICSS2Properties.MarginRight"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties MarginRight プロパティ。CSS2 の margin-right プロパティ定義を参照してください"
 type: docs
-weight: 660
+weight: 690
 url: /ja/net/aspose.svg.dom.css/icss2properties/marginright/
 ---
 ## ICSS2Properties.MarginRight property
 
-CSS2 の margin-right プロパティの定義を参照してください。
+CSS2 の margin-right プロパティ定義をご覧ください。
 
 ```csharp
 public string MarginRight { get; set; }
@@ -16,12 +16,10 @@ public string MarginRight { get; set; }
 
 ### 戻り値
 
-右マージンの値
+margin-right の値
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

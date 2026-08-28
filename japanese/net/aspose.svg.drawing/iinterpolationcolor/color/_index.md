@@ -1,23 +1,21 @@
 ---
-title: IInterpolationColor.Color
-second_title: Aspose.SVG for .NET API リファレンス
-description: IInterpolationColor 財産. グラデーションに沿った対応する位置で使用する色を表す色を取得します
+title: "IInterpolationColor.Color"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IInterpolationColor Color プロパティ。グラデーション上の対応する位置で使用する色を表すカラーを取得または設定します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/iinterpolationcolor/color/
 ---
 ## IInterpolationColor.Color property
 
-グラデーションに沿った対応する位置で使用する色を表す色を取得します。
+グラデーション上の対応する位置で使用する色を表すカラーを取得または設定します。
 
 ```csharp
-public Color Color { get; }
+public Color Color { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IInterpolationColor](../)
-* 名前空間 [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

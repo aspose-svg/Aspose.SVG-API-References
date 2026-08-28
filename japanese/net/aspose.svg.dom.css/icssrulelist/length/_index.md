@@ -1,23 +1,21 @@
 ---
-title: ICSSRuleList.Length
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSRuleList 財産. リスト内の CSSRules の数有効な子ルール インデックスの範囲は0 から長さ 1 までです
+title: "ICSSRuleList.Length"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSRuleList Length プロパティ。 リスト内の CSSRule の数です。 有効な子ルールインデックスの範囲は 0 から length-1 まで（含む）です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/icssrulelist/length/
 ---
 ## ICSSRuleList.Length property
 
-リスト内の CSSRules の数。有効な子ルール インデックスの範囲は、0 から長さ 1 までです。
+リスト内の CSSRules の数です。有効な子ルールインデックスの範囲は 0 から length-1 まで（両端含む）です。
 
 ```csharp
 public int Length { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSRuleList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssrulelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

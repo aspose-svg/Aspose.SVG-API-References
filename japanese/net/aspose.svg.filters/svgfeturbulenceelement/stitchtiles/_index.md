@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.StitchTiles
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFETurbulenceElement 財産. 指定されたfeTurbulence要素の属性stitchTilesに対応しますこのインターフェイスで定義された SVG_STITCHTYPE_ 定数の 1 つを取ります
+title: "SVGFETurbulenceElement.StitchTiles"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFETurbulenceElement StitchTiles プロパティ。指定された feTurbulence 要素の属性 stitchTiles に対応します。このインターフェイスで定義された SVG_STITCHTYPE_ 定数のいずれかを取ります。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.filters/svgfeturbulenceelement/stitchtiles/
 ---
 ## SVGFETurbulenceElement.StitchTiles property
 
-指定された「feTurbulence」要素の属性「stitchTiles」に対応します。このインターフェイスで定義された SVG_STITCHTYPE_* 定数の 1 つを取ります。
+指定された ‘feTurbulence’ 要素の属性 ‘stitchTiles’ に対応します。このインターフェイスで定義された SVG_STITCHTYPE_* 定数のいずれかを取ります。
 
 ```csharp
 public SVGAnimatedEnumeration StitchTiles { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「feTurbulence」要素の属性「stitchTiles」。
+指定された ‘feTurbulence’ 要素の属性 ‘stitchTiles’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFETurbulenceElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.NextSibling
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationRecord 財産. 追加または削除されたノードの次の兄弟または null を返します
+title: "MutationRecord.NextSibling"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationRecord NextSibling プロパティ。追加または削除されたノードの次の兄弟ノードを返します。null の場合もあります。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.mutations/mutationrecord/nextsibling/
 ---
 ## MutationRecord.NextSibling property
 
-追加または削除されたノードの次の兄弟、または null を返します。
+追加または削除されたノードの次の兄弟ノードを返します。null の場合もあります。
 
 ```csharp
 public Node NextSibling { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-次の兄弟.
+次の兄弟ノードです。
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

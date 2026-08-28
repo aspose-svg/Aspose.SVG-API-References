@@ -1,24 +1,22 @@
 ---
-title: PageSetup.Sizing
-second_title: Aspose.SVG for .NET API リファレンス
-description: PageSetup 財産. サイズの種類を取得または設定します
+title: "PageSetup.Sizing"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PageSetup Sizing プロパティ。サイズタイプを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.rendering/pagesetup/sizing/
 ---
 ## PageSetup.Sizing property
 
-サイズの種類を取得または設定します。
+サイズタイプを取得または設定します。
 
 ```csharp
 public SizingType Sizing { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * enum [SizingType](../../sizingtype/)
 * class [PageSetup](../)
-* 名前空間 [Aspose.Svg.Rendering](../../pagesetup/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

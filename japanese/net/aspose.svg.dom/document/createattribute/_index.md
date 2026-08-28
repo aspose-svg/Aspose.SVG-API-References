@@ -1,32 +1,30 @@
 ---
-title: Document.CreateAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 指定された名前の Attr を作成します
+title: "Document.CreateAttribute"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateAttribute メソッド。このメソッドは新しい属性ノードを作成し、返します。作成されたオブジェクトは Attr クラスを実装するノードです。DOM はこの方法で特定の要素に追加できる属性の種類を強制しません。"
 type: docs
 weight: 790
 url: /ja/net/aspose.svg.dom/document/createattribute/
 ---
 ## Document.CreateAttribute method
 
-指定された名前の Attr を作成します。
+このメソッドは新しい属性ノードを作成し、返します。作成されたオブジェクトは [`Attr`](../../attr/) クラスを実装するノードです。DOM はこの方法で特定の要素に追加できる属性の種類を強制しません。
 
 ```csharp
 public Attr CreateAttribute(string localName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| localName | String | 属性名。 |
+| localName | String | localName は属性の名前を含む文字列です。 |
 
 ### 戻り値
 
-[`Attr`](../../attr/) .
+A [`Attr`](../../attr/) ノード。
 
-### 関連項目
+### 参照
 
 * class [Attr](../../attr/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class NodeFilter
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Traversal.Filters.NodeFilter クラス. フィルターはノードをフィルターで除外する方法を知っているオブジェクトです
+title: "NodeFilter クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Traversal.Filters.NodeFilter クラス。フィルタはノードを除外する方法を知っているオブジェクトです"
 type: docs
-weight: 1210
+weight: 3210
 url: /ja/net/aspose.svg.dom.traversal.filters/nodefilter/
 ---
 ## NodeFilter class
 
-フィルターは、ノードを「フィルターで除外」する方法を知っているオブジェクトです。
+フィルタはノードを「除外」する方法を知っているオブジェクトです。
 
 ```csharp
 public abstract class NodeFilter : DOMObject, INodeFilter
@@ -18,35 +18,33 @@ public abstract class NodeFilter : DOMObject, INodeFilter
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [AcceptNode](../../aspose.svg.dom.traversal.filters/nodefilter/acceptnode/)(Node) | 指定されたノードが a TreeWalker または NodeIterator の論理ビューに表示されるかどうかをテストします。この function は、TreeWalker および NodeIterator の実装によって呼び出されます。通常、 ユーザー コードから直接呼び出されることはありません。 (ただし、same フィルターを使用して独自のアプリケーション ロジックをガイドする場合は、そうすることができます。) |
-| override [GetPlatformType](../../aspose.svg.dom.traversal.filters/nodefilter/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
+| abstract [AcceptNode](../../aspose.svg.dom.traversal.filters/nodefilter/acceptnode/)(*[Node](../../aspose.svg.dom/node/)*) | 指定されたノードが TreeWalker または NodeIterator の論理ビューで可視かどうかをテストします。この関数は TreeWalker と NodeIterator の実装によって呼び出され、通常はユーザーコードから直接呼び出されません。（同じフィルタを使用して独自のアプリケーションロジックを導く場合は、呼び出すことも可能です。） |
+| override [GetPlatformType](../../aspose.svg.dom.traversal.filters/nodefilter/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [FILTER_ACCEPT](../../aspose.svg.dom.traversal.filters/nodefilter/filter_accept/) | ノードを受け入れます。 NodeIterator または TreeWalker に定義されたナビゲーション メソッドは、この node. を返します。 |
-| const [FILTER_REJECT](../../aspose.svg.dom.traversal.filters/nodefilter/filter_reject/) | ノードを拒否します。 NodeIterator または TreeWalker に定義されたナビゲーション メソッドは、 このノードを返しません。 TreeWalker の場合、このノード の子も拒否されます。 NodeIterators は、これを FILTER_SKIP. の シノニムとして扱います。 |
-| const [FILTER_SKIP](../../aspose.svg.dom.traversal.filters/nodefilter/filter_skip/) | この単一ノードをスキップします。 NodeIterator または TreeWalker に定義されたナビゲーション メソッドは、 このノードを返しません。 NodeIterator と TreeWalker の両方で、このノードの子は引き続き と見なされます。 |
+| const [FILTER_ACCEPT](../../aspose.svg.dom.traversal.filters/nodefilter/filter_accept/) | ノードを受け入れます。NodeIterator または TreeWalker 用に定義されたナビゲーションメソッドはこのノードを返します。 |
+| const [FILTER_REJECT](../../aspose.svg.dom.traversal.filters/nodefilter/filter_reject/) | ノードを拒否します。NodeIterator または TreeWalker 用に定義されたナビゲーションメソッドはこのノードを返しません。TreeWalker では、このノードの子ノードも拒否されます。NodeIterator はこれを FILTER_SKIP の同義語として扱います。 |
+| const [FILTER_SKIP](../../aspose.svg.dom.traversal.filters/nodefilter/filter_skip/) | この単一ノードをスキップします。NodeIterator または TreeWalker 用に定義されたナビゲーションメソッドはこのノードを返しません。NodeIterator と TreeWalker の両方で、このノードの子ノードは引き続き考慮されます。 |
 | const [SHOW_ALL](../../aspose.svg.dom.traversal.filters/nodefilter/show_all/) | すべてのノードを表示します。 |
-| const [SHOW_ATTRIBUTE](../../aspose.svg.dom.traversal.filters/nodefilter/show_attribute/) | Attr ノードを表示します。これは、 ルートとして属性ノードを持つ イテレーターまたはツリー ウォーカーを作成する場合にのみ意味があります。この場合、属性ノード が反復またはトラバーサルの最初の位置に表示されることを意味します。 属性は決して他のノードの子ではないため、ドキュメント ツリーをトラバースしても 表示されません. |
+| const [SHOW_ATTRIBUTE](../../aspose.svg.dom.traversal.filters/nodefilter/show_attribute/) | 属性ノードを表示します。これは、属性ノードをルートとしてイテレータまたはツリーワーカーを作成する場合にのみ意味があります。その場合、属性ノードはイテレーションまたはトラバーサルの最初の位置に表示されます。属性は他のノードの子になることはないため、ドキュメントツリーを走査するときには表示されません。 |
 | const [SHOW_CDATA_SECTION](../../aspose.svg.dom.traversal.filters/nodefilter/show_cdata_section/) | CDATASection ノードを表示します。 |
-| const [SHOW_COMMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_comment/) | コメント ノードを表示します。 |
-| const [SHOW_DOCUMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_document/) | ドキュメント ノードを表示します。 |
+| const [SHOW_COMMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_comment/) | コメントノードを表示します。 |
+| const [SHOW_DOCUMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_document/) | Document ノードを表示します。 |
 | const [SHOW_DOCUMENT_FRAGMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment/) | DocumentFragment ノードを表示します。 |
 | const [SHOW_DOCUMENT_TYPE](../../aspose.svg.dom.traversal.filters/nodefilter/show_document_type/) | DocumentType ノードを表示します。 |
-| const [SHOW_ELEMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_element/) | 要素ノードを表示します。 |
-| const [SHOW_ENTITY](../../aspose.svg.dom.traversal.filters/nodefilter/show_entity/) | エンティティ ノードを表示します。これは、 ルートとしてエンティティ ノードを使用して イテレータまたはツリー ウォーカーを作成する場合にのみ意味があります。この場合、Entity ノードがトラバーサルの最初の位置に表示されることを意味します。 エンティティはドキュメント ツリーの一部ではないため、 がドキュメント ツリーをトラバースしても表示されません. |
+| const [SHOW_ELEMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_element/) | Element ノードを表示します。 |
+| const [SHOW_ENTITY](../../aspose.svg.dom.traversal.filters/nodefilter/show_entity/) | エンティティノードを表示します。これは、エンティティノードをルートとしてイテレータまたはツリーワーカーを作成する場合にのみ意味があります。その場合、エンティティノードはトラバーサルの最初の位置に表示されます。エンティティはドキュメントツリーの一部ではないため、ドキュメントツリーを走査するときには表示されません。 |
 | const [SHOW_ENTITY_REFERENCE](../../aspose.svg.dom.traversal.filters/nodefilter/show_entity_reference/) | EntityReference ノードを表示します。 |
-| const [SHOW_NOTATION](../../aspose.svg.dom.traversal.filters/nodefilter/show_notation/) | 表記ノードを表示します。これは、Notation ノードを ルートとして持つイテレーターまたはツリー ウォーカーを 作成する場合にのみ意味があります。この場合、 Notation ノードが トラバーサルの最初の位置に表示されることを意味します。表記はドキュメント ツリーの一部ではないため、ドキュメント ツリーをトラバースしても 表示されません. |
+| const [SHOW_NOTATION](../../aspose.svg.dom.traversal.filters/nodefilter/show_notation/) | Notation ノードを表示します。これは、Notation ノードをルートとしてイテレータまたはツリーワーカーを作成する場合にのみ意味があります。その場合、Notation ノードはトラバーサルの最初の位置に表示されます。Notation はドキュメントツリーの一部ではないため、ドキュメントツリーを走査するときには表示されません。 |
 | const [SHOW_PROCESSING_INSTRUCTION](../../aspose.svg.dom.traversal.filters/nodefilter/show_processing_instruction/) | ProcessingInstruction ノードを表示します。 |
-| const [SHOW_TEXT](../../aspose.svg.dom.traversal.filters/nodefilter/show_text/) | テキスト ノードを表示します。 |
+| const [SHOW_TEXT](../../aspose.svg.dom.traversal.filters/nodefilter/show_text/) | テキストノードを表示します。 |
 
-### 関連項目
+### 参照
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
 * interface [INodeFilter](../../aspose.svg.dom.traversal/inodefilter/)
-* 名前空間 [Aspose.Svg.Dom.Traversal.Filters](../../aspose.svg.dom.traversal.filters/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../)

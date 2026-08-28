@@ -1,34 +1,29 @@
 ---
-title: IPathBuilder.Build
-second_title: Aspose.SVG for .NET API リファレンス
-description: IPathBuilder 方法. トレース ポイントのリストからパス セグメントを構築します
+title: "IPathBuilder.Build"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IPathBuilder Build メソッド。指定されたトレースを、最小限の直線およびベジエ曲線コマンドで正確に表現できる SVG パスセグメントに最適化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.imagevectorization/ipathbuilder/build/
 ---
 ## IPathBuilder.Build method
 
-トレース ポイントのリストからパス セグメントを構築します。
+正確な表現のために、最小限の直線およびベジエ曲線コマンドを使用して、与えられたトレースを SVG パスセグメントに最適化します。
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| trace | IEnumerable`1 | トレース ポイントのリスト。 |
-| path | SVGPathElement | パス セグメントが追加される SVG パス要素。 |
+| トレース | IEnumerable`1 | トレースを輪郭する点のシーケンスで、SVG パスに最適化されます。 |
 
 ### 戻り値
 
-パス セグメントのリスト[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+元のトレースを最小限の直線とベジエ曲線コマンドで効率的に近似した SVG パスセグメントを表す文字列です。
 
-### 関連項目
+### 参照
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * interface [IPathBuilder](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../ipathbuilder/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

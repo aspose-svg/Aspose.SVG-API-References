@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.Repeat
-second_title: Aspose.SVG for .NET API リファレンス
-description: KeyboardEvent 財産. キーが持続的に押された場合は trueキーを押し続けるとイベント keydownbeforeinputinput がこの順序でシステム構成によって決定される速度で繰り返される必要がありますキーの長押し動作を行うモバイル デバイスの場合repeat 属性値が true の最初のキー イベントはキーの長押しを示すものとして機能する必要があります繰り返しを開始するためにキーを押さなければならない時間の長さは構成に依存します.
+title: "KeyboardEvent.Repeat"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "KeyboardEvent Repeat プロパティ。キーが持続的に押された場合に true です。キーを押し続けると、システム設定で決定されたレートで、keydown、beforeinput、input のイベントがこの順序で繰り返されなければなりません。長押し動作を持つモバイルデバイスでは、repeat 属性が true の最初のキーイベントが長押しの指標として機能しなければなりません。繰り返しが開始されるまでにキーを押し続ける必要がある時間は、設定に依存します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom.events/keyboardevent/repeat/
 ---
 ## KeyboardEvent.Repeat property
 
-キーが持続的に押された場合は true。キーを押し続けると、イベント keydown、beforeinput、input がこの順序で、システム構成によって決定される速度で繰り返される必要があります。キーの長押し動作を行うモバイル デバイスの場合、repeat 属性値が true の最初のキー イベントは、キーの長押しを示すものとして機能する必要があります。繰り返しを開始するためにキーを押さなければならない時間の長さは、構成に依存します.
+キーが長時間押し続けられた場合は true。キーを押し続けると、システム設定で決定されたレートで、keydown、beforeinput、input のイベントがこの順序で繰り返し発生しなければなりません。長押し動作を持つモバイルデバイスでは、repeat 属性が true の最初のキーイベントが長押しの指標として機能しなければなりません。繰り返しが開始されるまでにキーを押し続ける必要がある時間は、設定に依存します。
 
 ```csharp
 public bool Repeat { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`繰り返す場合;さもないと、`間違い` .
+`true` はリピートの場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [KeyboardEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

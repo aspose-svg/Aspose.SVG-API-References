@@ -1,44 +1,42 @@
 ---
-title: LengthOrAuto.LengthOrAuto
-second_title: Aspose.SVG for .NET API リファレンス
-description: LengthOrAuto コンストラクタ. の新しいインスタンスを初期化しますLengthOrAutoクラスを作成し状態をautoに設定します
+title: "LengthOrAuto"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "LengthOrAuto コンストラクタ。LengthOrAuto クラスの新しいインスタンスを初期化し、状態を auto に設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
 
-の新しいインスタンスを初期化します[`LengthOrAuto`](../)クラスを作成し、状態を「auto」に設定します。
+[`LengthOrAuto`](../) クラスの新しいインスタンスを初期化し、状態を 'auto' に設定します。
 
 ```csharp
 public LengthOrAuto()
 ```
 
-### 関連項目
+### 参照
 
 * class [LengthOrAuto](../)
-* 名前空間 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## LengthOrAuto(Length) {#constructor_1}
+## LengthOrAuto(*[Length](../../length/)*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LengthOrAuto`](../)クラスを作成し、状態を「長さ」に設定します.
+[`LengthOrAuto`](../) クラスの新しいインスタンスを初期化し、状態を 'lenght' に設定します。
 
 ```csharp
 public LengthOrAuto(Length length)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| length | Length | 長さ。 |
+| 長さ | Length | 長さです。 |
 
-### 関連項目
+### 参照
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* 名前空間 [Aspose.Svg.Drawing](../../lengthorauto/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

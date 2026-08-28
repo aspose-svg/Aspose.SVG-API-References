@@ -1,33 +1,31 @@
 ---
-title: Color.Convert
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 指定されたカラー モデルの形式でカラー コンポーネントを返します
+title: "Color.Convert"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color Convert メソッド。指定されたカラーモデルの形式で色のコンポーネントを返します。"
 type: docs
 weight: 290
 url: /ja/net/aspose.svg.drawing/color/convert/
 ---
 ## Color.Convert method
 
-指定されたカラー モデルの形式でカラー コンポーネントを返します。
+指定されたカラーモデルの形式で色成分を返します。
 
 ```csharp
 public IColorComponents Convert(ColorModel model)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| model | ColorModel | カラーモデルです。 |
+| モデル | ColorModel | カラーモデルです。 |
 
 ### 戻り値
 
-の新しいインスタンス[`IColorComponents`](../../icolorcomponents/)インターフェース
+`[`IColorComponents`](../../icolorcomponents/)` インターフェイスの新しいインスタンスです。
 
-### 関連項目
+### 参照
 
 * interface [IColorComponents](../../icolorcomponents/)
 * enum [ColorModel](../../colormodel/)
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

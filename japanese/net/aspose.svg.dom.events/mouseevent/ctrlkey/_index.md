@@ -1,7 +1,7 @@
 ---
-title: MouseEvent.CtrlKey
-second_title: Aspose.SVG for .NET API リファレンス
-description: MouseEvent 財産. ctrlKey 属性を参照してください
+title: "MouseEvent.CtrlKey"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MouseEvent CtrlKey プロパティ。ctrlKey 属性を参照してください"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom.events/mouseevent/ctrlkey/
@@ -14,14 +14,12 @@ ctrlKey 属性を参照してください。
 public bool CtrlKey { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` [コントロールキー]の場合;さもないと、`間違い` .
+`true` は [control key] の場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

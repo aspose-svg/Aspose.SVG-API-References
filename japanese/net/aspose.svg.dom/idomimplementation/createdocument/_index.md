@@ -1,35 +1,33 @@
 ---
-title: IDOMImplementation.CreateDocument
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDOMImplementation 方法. ドキュメント要素を使用して指定されたタイプの DOM Document オブジェクトを作成します
+title: "IDOMImplementation.CreateDocument"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDOMImplementation CreateDocument メソッド。指定されたタイプの DOM Document オブジェクトを、そのドキュメント要素と共に作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom/idomimplementation/createdocument/
 ---
 ## IDOMImplementation.CreateDocument method
 
-ドキュメント要素を使用して、指定されたタイプの DOM Document オブジェクトを作成します。
+指定されたタイプの DOM Document オブジェクトを、そのドキュメント要素とともに作成します。
 
 ```csharp
 public Document CreateDocument(string namespaceURI, string qualifiedName, DocumentType doctype)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| namespaceURI | String | 名前空間 URI。 |
-| qualifiedName | String | 資格者の名前。 |
-| doctype | DocumentType | 文書型。 |
+| namespaceURI | String | namespace URIです。 |
+| qualifiedName | String | qualifiedName の名前です。 |
+| doctype | DocumentType | doctypeです。 |
 
 ### 戻り値
 
 ドキュメントを返します。
 
-### 関連項目
+### 参照
 
 * class [Document](../../document/)
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* 名前空間 [Aspose.Svg.Dom](../../idomimplementation/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

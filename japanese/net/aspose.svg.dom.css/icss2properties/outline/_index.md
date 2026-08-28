@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Outline
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の Outline プロパティ定義を参照してください
+title: "ICSS2Properties.Outline"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Outline プロパティ。CSS2 の outline プロパティ定義をご覧ください"
 type: docs
-weight: 750
+weight: 780
 url: /ja/net/aspose.svg.dom.css/icss2properties/outline/
 ---
 ## ICSS2Properties.Outline property
 
-CSS2 の Outline プロパティ定義を参照してください。
+CSS2 の outline プロパティ定義をご覧ください。
 
 ```csharp
 public string Outline { get; set; }
@@ -16,12 +16,10 @@ public string Outline { get; set; }
 
 ### 戻り値
 
-アウトライン プロパティ
+outline プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

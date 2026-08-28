@@ -1,28 +1,26 @@
 ---
-title: Device2.StrokeText
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. 指定された位置で指定されたテキスト文字列をストロークします
+title: "Device-2.StrokeText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device StrokeText メソッド。指定された位置に指定されたテキスト文字列をストロークします"
 type: docs
-weight: 240
+weight: 270
 url: /ja/net/aspose.svg.rendering/device-2/stroketext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method
+## Device<TGraphicContext,TRenderingOptions>.StrokeText method
 
-指定された位置で指定されたテキスト文字列をストロークします。
+指定された位置に指定されたテキスト文字列を描画します。
 
 ```csharp
-public abstract void StrokeText(string text, PointF pt)
+public virtual void StrokeText(string text, PointF pt)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| text | String | ストロークする文字列。 |
-| pt | PointF | テキストを開始する座標を指定するポイント。 |
+| テキスト | String | 描画する文字列。 |
+| pt | PointF | テキストを開始する座標を指定する点。 |
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

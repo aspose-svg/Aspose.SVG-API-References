@@ -1,32 +1,30 @@
 ---
-title: SVGGeometryElement.GetPointAtLength
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGGeometryElement 方法. ユーザー エージェントのパスに沿った距離アルゴリズムを利用してパスに沿った距離単位であるユーザー空間の xy 座標を返します
+title: "SVGGeometryElement.GetPointAtLength"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGGeometryElement GetPointAtLength メソッド。パス上の距離単位で、ユーザーエージェントの distance-along-a-path アルゴリズムを利用してユーザー空間の xy 座標を返します。"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.svg/svggeometryelement/getpointatlength/
 ---
 ## SVGGeometryElement.GetPointAtLength method
 
-ユーザー エージェントのパスに沿った距離アルゴリズムを利用して、パスに沿った距離単位であるユーザー空間の (x,y) 座標を返します。
+パスに沿った距離単位で、ユーザー空間の (x,y) 座標を返します。ユーザーエージェントの distance-along-a-path アルゴリズムを利用しています。
 
 ```csharp
 public SVGPoint GetPointAtLength(float distance)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| distance | Single | 現在のユーザー座標系での距離として、パスの始点を基準とした、パスに沿った距離。 |
+| distance | Single | パスの開始点からの相対距離で、現在のユーザー座標系における距離として表されます。 |
 
 ### 戻り値
 
-ユーザー空間で返されたポイント。
+ユーザー空間で返される点です。
 
-### 関連項目
+### 参照
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGGeometryElement](../)
-* 名前空間 [Aspose.Svg](../../svggeometryelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,39 +1,37 @@
 ---
-title: Time.op_Subtraction
-second_title: Aspose.SVG for .NET API リファレンス
-description: Time 方法. 演算子を実装します .
+title: "Time.op_Subtraction"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Time op_Subtraction メソッド。演算子 - を実装します"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.drawing/time/op_subtraction/
 ---
 ## Time Subtraction operator
 
-演算子を実装します -.
+- 演算子を実装します。
 
 ```csharp
 public static Time operator -(Time a, Time b)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| a | Time | パラメータ a. |
-| b | Time | パラメータ b. |
+| a | Time | パラメーター a。 |
+| b | Time | パラメーター b。 |
 
 ### 戻り値
 
-演算子の結果。
+演算子の結果です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 引数が null です |
-| ArgumentException | 引数の型が異なります or 引数の解像度が異なります or |
+| ArgumentNullException | 引数が null です。 |
+| ArgumentException | 引数の型が異なるか、または引数の解像度が異なるか |
 
-### 関連項目
+### 参照
 
 * class [Time](../)
-* 名前空間 [Aspose.Svg.Drawing](../../time/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

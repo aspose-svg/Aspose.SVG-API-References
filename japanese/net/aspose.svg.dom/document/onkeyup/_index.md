@@ -1,24 +1,22 @@
 ---
-title: Document.OnKeyUp
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document イベント. OnKeyUp イベントのイベント ハンドラーを取得または設定します
+title: "Document.OnKeyUp"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document OnKeyUp イベント。OnKeyUp イベントのハンドラを取得または設定します。"
 type: docs
 weight: 460
 url: /ja/net/aspose.svg.dom/document/onkeyup/
 ---
 ## Document.OnKeyUp event
 
-OnKeyUp イベントのイベント ハンドラーを取得または設定します。
+OnKeyUp イベントのハンドラを取得または設定します。
 
 ```csharp
 public event DOMEventHandler OnKeyUp;
 ```
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

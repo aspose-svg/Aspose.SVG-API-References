@@ -1,22 +1,20 @@
 ---
-title: Aspose.Svg.Dom.Traversal
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Traversal名前空間には 要素間を移動するためのイテレータとツリー ウォーカーを作成し ノードとその子をドキュメント順にトラバースするメソッドが含まれています.
+title: "Aspose.Svg.Dom.Traversal"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Traversal 名前空間には、要素間をナビゲートし、ノードとその子を文書順に走査するイテレータやツリーワーカーを作成するメソッドが含まれています。"
 type: docs
-weight: 100
+weight: 120
 url: /ja/net/aspose.svg.dom.traversal/
 ---
-**Aspose.Svg.Dom.Traversal**名前空間には、 要素間を移動するためのイテレータとツリー ウォーカーを作成し、 ノードとその子をドキュメント順にトラバースするメソッドが含まれています.
+**Aspose.Svg.Dom.Traversal** 名前空間には、要素間をナビゲートし、ドキュメント順でノードとその子を走査するイテレータやツリーワーカーを作成するメソッドが含まれています。
 
-## インターフェース
+## インターフェイス
 
-| インターフェース | 説明 |
+| インターフェイス | 説明 |
 | --- | --- |
-| [IDocumentTraversal](./idocumenttraversal/) | DocumentTraversal には、イテレータと ツリー ウォーカーを作成して、ノードとその子をドキュメントの順序でトラバースするメソッドが含まれています (深さ が最初、プレオーダー トラバーサル。ドキュメント）。 Traversal 機能をサポートする DOM では、DocumentTraversal は Document インターフェイスを実装する同じオブジェクトによって 実装されます. |
-| [IElementTraversal](./ielementtraversal/) | ElementTraversal インターフェイスは、作成者がドキュメント内の要素間を簡単にナビゲートできるようにする読み取り専用属性のセットです。 Element Traversal の適合する実装では、Element を実装するすべてのオブジェクトは ElementTraversal インターフェイスも実装する必要があります。 |
-| [INodeFilter](./inodefilter/) | フィルターは、ノードを「フィルターで除外」する方法を知っているオブジェクトです。 NodeIterator または TreeWalker に NodeFilter が指定されている場合、次の ノードを返す前にフィルターを適用します。フィルターがノードを受け入れるように指示する場合、トラバーサル ロジックは it を返します。それ以外の場合、トラバーサルは次のノードを探し、拒否された ノードが存在しないふりをします. |
-| [INodeIterator](./inodeiterator/) | イテレータは、NodeList 内のノードの セット、特定のノードの によって管理されるドキュメント サブツリー、クエリの結果、またはその他のノードの セットなど、一連のノードをステップスルーするために使用されます。反復されるノードのセットは、NodeIterator の 実装によって決定されます。 DOM レベル 2 は、ドキュメント サブツリーのドキュメント順 走査のための 単一 NodeIterator 実装を指定します。これらの反復子のインスタンスは、DocumentTraversal .createNodeIterator(). を呼び出すことによって 作成されます。 |
-| [ITraversal](./itraversal/) | イテレータは、NodeList 内のノードの セット、特定のノードの によって管理されるドキュメント サブツリー、クエリの結果、またはその他のノードの セットなど、一連のノードをステップスルーするために使用されます。反復されるノードのセットは、NodeIterator の 実装によって決定されます。 DOM レベル 2 は、ドキュメント サブツリーのドキュメント順 走査のための 単一 NodeIterator 実装を指定します。これらの反復子のインスタンスは、DocumentTraversal .createNodeIterator(). を呼び出すことによって 作成されます。 |
-| [ITreeWalker](./itreewalker/) | TreeWalker オブジェクトは、 whatToShow フラグとフィルター (存在する場合) によって定義されたドキュメントのビューを使用して、ドキュメント ツリーまたは サブツリーをナビゲートするために使用されます。 が TreeWalker を使用してナビゲーションを実行する関数は、自動的に TreeWalker. によって定義されたビューをサポートします。 |
-
-
+| [IDocumentTraversal](./idocumenttraversal/) | DocumentTraversal には、ノードとその子を文書順（深さ優先・先行順走査、つまり文書のテキスト表現における開始タグの出現順と同等）に走査するイテレータやツリーワーカーを作成するメソッドが含まれています。Traversal 機能をサポートする DOM では、DocumentTraversal は Document インターフェイスを実装するオブジェクトと同じオブジェクトによって実装されます。 |
+| [IElementTraversal](./ielementtraversal/) | ElementTraversal インターフェイスは、著者が文書内の要素間を簡単に移動できるようにする読み取り専用属性の集合です。Element Traversal の準拠実装では、Element を実装するすべてのオブジェクトは ElementTraversal インターフェイスも実装しなければなりません。 |
+| [INodeFilter](./inodefilter/) | フィルタはノードを「除外」する方法を知っているオブジェクトです。NodeIterator または TreeWalker に NodeFilter が与えられた場合、次のノードを返す前にフィルタを適用します。フィルタがノードを受け入れると判断すれば、走査ロジックはそのノードを返します。そうでなければ、走査は次のノードを探し、拒否されたノードが存在しなかったかのように振る舞います。 |
+| [INodeIterator](./inodeiterator/) | イテレータはノードの集合を順に処理するために使用されます。例えば NodeList のノード集合、特定の Node が管理する文書サブツリー、クエリの結果、またはその他の任意のノード集合です。イテレートされるノード集合は NodeIterator の実装によって決定されます。DOM Level 2 は文書順走査用の単一の NodeIterator 実装を規定しています。これらのイテレータのインスタンスは DocumentTraversal .createNodeIterator() を呼び出すことで作成されます。 |
+| [ITraversal](./itraversal/) | イテレータはノードの集合を順に処理するために使用されます。例えば NodeList のノード集合、特定の Node が管理する文書サブツリー、クエリの結果、またはその他の任意のノード集合です。イテレートされるノード集合は NodeIterator の実装によって決定されます。DOM Level 2 は文書順走査用の単一の NodeIterator 実装を規定しています。これらのイテレータのインスタンスは DocumentTraversal .createNodeIterator() を呼び出すことで作成されます。 |
+| [ITreeWalker](./itreewalker/) | TreeWalker オブジェクトは、whatToShow フラグとフィルタ（存在する場合）で定義された文書のビューを使用して、文書ツリーまたはサブツリーをナビゲートするために使用されます。TreeWalker を使用してナビゲーションを行うすべての関数は、TreeWalker が定義する任意のビューを自動的にサポートします。 |

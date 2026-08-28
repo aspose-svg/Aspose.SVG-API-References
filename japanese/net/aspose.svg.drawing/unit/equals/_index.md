@@ -1,55 +1,53 @@
 ---
-title: Unit.Equals
-second_title: Aspose.SVG for .NET API リファレンス
-description: Unit 方法. 指定されたUnit このインスタンスと等しい.
+title: "Unit.Equals"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Unit Equals メソッド。指定された Unit がこのインスタンスと等しいかどうかを判断します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.drawing/unit/equals/
 ---
-## Equals(Unit) {#equals}
+## Equals(*[Unit](../)*) {#equals}
 
-指定された[`Unit`](../) 、このインスタンスと等しい.
+指定された [`Unit`](../) がこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public virtual bool Equals(Unit other)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| other | Unit | の[`Unit`](../)このインスタンスと比較します。 |
+| other | Unit | このインスタンスと比較するための [`Unit`](../) 。 |
 
 ### 戻り値
 
-`真実`指定された場合[`Unit`](../)このインスタンスと同じです。さもないと、`間違い` .
+指定された [`Unit`](../) がこのインスタンスと等しい場合は `true`、それ以外の場合は `false`。
 
-### 関連項目
+### 参照
 
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-指定されたObject 、このインスタンスと等しい.
+指定された Object がこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | オブジェクト | このインスタンスと比較するオブジェクトです。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い` .
+指定されたオブジェクトがこのインスタンスと等しい場合は `true`、そうでない場合は `false` です。
 
-### 関連項目
+### 参照
 
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

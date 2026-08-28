@@ -1,22 +1,26 @@
 ---
-title: Class Device
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.Device クラス. さまざまな形式と環境でグラフィックスを描画するために使用されるレンダリング デバイスを実装するための基本クラスを表します
+title: "Device クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.Device クラス。さまざまな形式や環境でグラフィックを描画するために使用されるレンダリングデバイスを実装するための基底クラスを表します。"
 type: docs
-weight: 2730
+weight: 4810
 url: /ja/net/aspose.svg.rendering/device/
 ---
 ## Device class
 
-さまざまな形式と環境でグラフィックスを描画するために使用されるレンダリング デバイスを実装するための基本クラスを表します。
+さまざまな形式や環境でグラフィックを描画するために使用されるレンダリングデバイスを実装するための基底クラスを表します。
 
 ```csharp
 public abstract class Device
 ```
 
-### 関連項目
+## コンストラクタ
 
-* 名前空間 [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* 組み立て [Aspose.SVG](../../)
+| 名前 | 説明 |
+| --- | --- |
+| [Device](device/)() | `Device` クラスの新しいインスタンスを初期化します。 |
 
+### 参照
 
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

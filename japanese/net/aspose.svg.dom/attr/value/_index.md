@@ -1,27 +1,25 @@
 ---
-title: Attr.Value
-second_title: Aspose.SVG for .NET API リファレンス
-description: Attr 財産. 取得時に属性の値が文字列として返されます
+title: "Attr.Value"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Attr Value プロパティ。取得時には属性の値が文字列として返されます。"
 type: docs
-weight: 130
+weight: 110
 url: /ja/net/aspose.svg.dom/attr/value/
 ---
 ## Attr.Value property
 
-取得時に、属性の値が文字列として返されます。
+取得時には、属性の値が文字列として返されます。
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-値.
+値。
 
-### 関連項目
+### 参照
 
 * class [Attr](../)
-* 名前空間 [Aspose.Svg.Dom](../../attr/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

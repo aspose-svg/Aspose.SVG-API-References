@@ -1,23 +1,21 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_GRAD
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGAngle 分野. 単位の種類はラジアンです
+title: "SVGAngle.SVG_ANGLETYPE_GRAD"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGAngle SVG_ANGLETYPE_GRAD フィールド。単位タイプはラジアンです。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.datatypes/svgangle/svg_angletype_grad/
 ---
 ## SVGAngle.SVG_ANGLETYPE_GRAD field
 
-単位の種類はラジアンです。
+単位タイプはラジアンです。
 
 ```csharp
 public const ushort SVG_ANGLETYPE_GRAD;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGAngle](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgangle/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Url.Password
-second_title: Aspose.SVG for .NET API リファレンス
-description: Url 財産. 指定された URL パスワードの文字列表現を取得または設定します
+title: "Url.Password"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Url Password プロパティ。指定された URL パスワードの文字列表現を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg/url/password/
 ---
 ## Url.Password property
 
-指定された URL パスワードの文字列表現を取得または設定します。
+指定された URL のパスワードの文字列表現を取得または設定します。
 
 ```csharp
 public string Password { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-パスワード.
+パスワード。
 
-### 関連項目
+### 参照
 
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

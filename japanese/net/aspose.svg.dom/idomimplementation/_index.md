@@ -1,14 +1,14 @@
 ---
-title: Interface IDOMImplementation
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.IDOMImplementation インターフェース. DOMImplementation インターフェイスはドキュメント オブジェクト モデルの特定のインスタンスに依存しない操作を実行するための多数のメソッドを提供します
+title: "IDOMImplementation インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.IDOMImplementation インターフェイス。DOMImplementation インターフェイスは、特定のドキュメントオブジェクトモデルインスタンスに依存しない操作を実行するための多数のメソッドを提供します。"
 type: docs
-weight: 1040
+weight: 3040
 url: /ja/net/aspose.svg.dom/idomimplementation/
 ---
 ## IDOMImplementation interface
 
-DOMImplementation インターフェイスは、ドキュメント オブジェクト モデルの特定のインスタンスに依存しない操作を実行するための多数のメソッドを提供します。
+DOMImplementation インターフェイスは、特定の Document Object Model インスタンスに依存しない操作を実行するための多数のメソッドを提供します。
 
 ```csharp
 public interface IDOMImplementation
@@ -18,14 +18,12 @@ public interface IDOMImplementation
 
 | 名前 | 説明 |
 | --- | --- |
-| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument/)(string, string, DocumentType) | ドキュメント要素を使用して、指定されたタイプの DOM Document オブジェクトを作成します。 |
-| [CreateDocumentType](../../aspose.svg.dom/idomimplementation/createdocumenttype/)(string, string, string) | 空の DocumentType ノードを作成します。エンティティの宣言と表記は使用できません。エンティティ参照の展開とデフォルトの属性の追加は発生しません. |
-| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument/)(string) | title 引数が省略されない限り、title 要素を含む基本ツリーが既に構築されているドキュメントを返します。 |
-| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature/)() | DOM 機能で指定されているように、DOM 実装が特定の機能とバージョンを実装しているかどうかをテストします。 |
+| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument/)(*string, string, [DocumentType](../documenttype/)*) | 指定されたタイプの DOM Document オブジェクトを、そのドキュメント要素とともに作成します。 |
+| [CreateDocumentType](../../aspose.svg.dom/idomimplementation/createdocumenttype/)(*string, string, string*) | 空の DocumentType ノードを作成します。エンティティ宣言や表記は利用できません。エンティティ参照の展開やデフォルト属性の追加は行われません。 |
+| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument/)(*string*) | title 引数が省略されていない限り、title 要素を含む基本的なツリーがすでに構築されたドキュメントを返します。 |
+| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature/)() | DOM Features に指定されている特定の機能とバージョンが DOM 実装でサポートされているかテストします。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

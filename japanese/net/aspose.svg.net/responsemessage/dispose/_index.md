@@ -1,23 +1,21 @@
 ---
-title: ResponseMessage.Dispose
-second_title: Aspose.SVG for .NET API リファレンス
-description: ResponseMessage 方法. アンマネージ リソースの解放解放またはリセットに関連するアプリケーション定義のタスクを実行します
+title: "ResponseMessage.Dispose"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ResponseMessage Dispose メソッド。 アンマネージドリソースの解放、リリース、またはリセットに関連するアプリケーション定義タスクを実行します"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.svg.net/responsemessage/dispose/
 ---
 ## ResponseMessage.Dispose method
 
-アンマネージ リソースの解放、解放、またはリセットに関連するアプリケーション定義のタスクを実行します。
+アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。
 
 ```csharp
 public void Dispose()
 ```
 
-### 関連項目
+### 参照
 
 * class [ResponseMessage](../)
-* 名前空間 [Aspose.Svg.Net](../../responsemessage/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

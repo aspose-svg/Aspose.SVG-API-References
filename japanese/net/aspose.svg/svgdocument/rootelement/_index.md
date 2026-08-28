@@ -1,28 +1,26 @@
 ---
-title: SVGDocument.RootElement
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGDocument 財産. ドキュメント階層のルートsvg.
+title: "SVGDocument.RootElement"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGDocument RootElement プロパティ。ドキュメント階層のルート svg。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg/svgdocument/rootelement/
 ---
 ## SVGDocument.RootElement property
 
-ドキュメント階層のルート「svg」.
+ドキュメント階層のルート ‘svg’。
 
 ```csharp
 public SVGSVGElement RootElement { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ルート要素.
+ルート要素。
 
-### 関連項目
+### 参照
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: IAbstractView.Document
-second_title: Aspose.SVG for .NET API リファレンス
-description: IAbstractView 財産. これが AbstractView であるソース DocumentView.
+title: "IAbstractView.Document"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IAbstractView Document プロパティ。これが AbstractView である元の DocumentView を指します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.views/iabstractview/document/
 ---
 ## IAbstractView.Document property
 
-これが AbstractView であるソース DocumentView.
+これが AbstractView である元の DocumentView。
 
 ```csharp
 public IDocumentView Document { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメント.
+ドキュメント。
 
-### 関連項目
+### 参照
 
 * interface [IDocumentView](../../idocumentview/)
 * interface [IAbstractView](../)
-* 名前空間 [Aspose.Svg.Dom.Views](../../iabstractview/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

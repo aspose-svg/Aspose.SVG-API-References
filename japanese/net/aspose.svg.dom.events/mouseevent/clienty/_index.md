@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ClientY
-second_title: Aspose.SVG for .NET API リファレンス
-description: MouseEvent 財産. イベントに関連付けられたビューポートを基準としたイベントが発生した垂直座標
+title: "MouseEvent.ClientY"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MouseEvent ClientY プロパティ。イベントが発生した垂直座標（イベントに関連付けられたビューポートを基準）です。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom.events/mouseevent/clienty/
 ---
 ## MouseEvent.ClientY property
 
-イベントに関連付けられたビューポートを基準とした、イベントが発生した垂直座標。
+イベントが発生した垂直座標（イベントに関連付けられたビューポートに対する相対座標）。
 
 ```csharp
 public long ClientY { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-クライアント y.
+クライアント Y 座標です。
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

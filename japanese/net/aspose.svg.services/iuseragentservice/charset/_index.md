@@ -1,27 +1,25 @@
 ---
-title: IUserAgentService.CharSet
-second_title: Aspose.SVG for .NET API リファレンス
-description: IUserAgentService 財産. ドキュメントのプライマリ文字セットを取得または設定します
+title: "IUserAgentService.CharSet"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IUserAgentService CharSet プロパティ。ドキュメントの主要な文字セットを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.services/iuseragentservice/charset/
 ---
 ## IUserAgentService.CharSet property
 
-ドキュメントのプライマリ文字セットを取得または設定します。
+ドキュメントの主要文字セットを取得または設定します。
 
 ```csharp
 public string CharSet { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-文字セット.
+The character set.
 
-### 関連項目
+### 参照
 
 * interface [IUserAgentService](../)
-* 名前空間 [Aspose.Svg.Services](../../iuseragentservice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

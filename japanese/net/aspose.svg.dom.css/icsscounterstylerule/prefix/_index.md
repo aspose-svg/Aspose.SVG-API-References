@@ -1,7 +1,7 @@
 ---
-title: ICSSCounterStyleRule.Prefix
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSCounterStyleRule 財産. プレフィックスを取得します
+title: "ICSSCounterStyleRule.Prefix"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSCounterStyleRule Prefix property. プレフィックスを取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom.css/icsscounterstylerule/prefix/
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.dom.css/icsscounterstylerule/prefix/
 public string Prefix { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSCounterStyleRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

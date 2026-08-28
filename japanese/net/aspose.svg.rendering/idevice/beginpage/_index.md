@@ -1,7 +1,7 @@
 ---
-title: IDevice.BeginPage
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDevice 方法. 新しいページのレンダリングを開始します
+title: "IDevice.BeginPage"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDevice BeginPage メソッド。新しいページのレンダリングを開始します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.rendering/idevice/beginpage/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.rendering/idevice/beginpage/
 public void BeginPage(SizeF size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| size | SizeF | ページのサイズ。 |
+| サイズ | SizeF | ページのサイズ。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../)
-* 名前空間 [Aspose.Svg.Rendering](../../idevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

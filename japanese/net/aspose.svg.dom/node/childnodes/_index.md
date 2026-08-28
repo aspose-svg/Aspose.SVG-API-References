@@ -1,24 +1,34 @@
 ---
-title: Node.ChildNodes
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 財産. このノードのすべての子を含む NodeList子がない場合これはノードを含まない NodeList です..
+title: "Node.ChildNodes"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node ChildNodes プロパティ。指定された要素の子ノードのライブ NodeList を返します。最初の子ノードはインデックス 0 が割り当てられます。子ノードには要素、テキスト、コメントが含まれます。"
 type: docs
-weight: 30
+weight: 20
 url: /ja/net/aspose.svg.dom/node/childnodes/
 ---
 ## Node.ChildNodes property
 
-このノードのすべての子を含む NodeList。子がない場合、これはノードを含まない NodeList です..
+指定された要素の子ノードのライブ [`NodeList`](../../../aspose.svg.collections/nodelist/) を返します。最初の子ノードはインデックス 0 が割り当てられます。子ノードには要素、テキスト、コメントが含まれます。
+
+注: ライブな [`NodeList`](../../../aspose.svg.collections/nodelist/) とは、新しい子が追加または削除されるたびにその内容が変化することを意味します。
 
 ```csharp
 public NodeList ChildNodes { get; }
 ```
 
-### 関連項目
+### Property Value
+
+ノードの子を含むライブ [`NodeList`](../../../aspose.svg.collections/nodelist/)。
+
+## 備考
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-childnodes).
+
+### 参照
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

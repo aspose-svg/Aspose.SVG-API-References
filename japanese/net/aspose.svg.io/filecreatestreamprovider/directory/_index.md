@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.Directory
-second_title: Aspose.SVG for .NET API リファレンス
-description: FileCreateStreamProvider 財産. ディレクトリを取得または設定します
+title: "FileCreateStreamProvider.Directory"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FileCreateStreamProvider Directory プロパティ。ディレクトリを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.io/filecreatestreamprovider/directory/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.io/filecreatestreamprovider/directory/
 public string Directory { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ディレクトリ.
+ディレクトリです。
 
-### 関連項目
+### 参照
 
 * class [FileCreateStreamProvider](../)
-* 名前空間 [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

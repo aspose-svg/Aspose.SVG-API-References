@@ -1,27 +1,31 @@
 ---
-title: Node.Prefix
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 財産. このノードの名前空間プレフィックスまたは指定されていない場合は null null と定義されている場合設定しても効果はありません
+title: "Node.Prefix"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node Prefix プロパティ。指定された要素の名前空間プレフィックスを返し、プレフィックスが指定されていない場合は null を返します。"
 type: docs
-weight: 150
+weight: 140
 url: /ja/net/aspose.svg.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-このノードの名前空間プレフィックス、または指定されていない場合は null。 null と定義されている場合、設定しても効果はありません
+指定された要素の名前空間プレフィックスを返します。プレフィックスが指定されていない場合は null を返します。
 
 ```csharp
 public virtual string Prefix { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-プレフィックス.
+このプロパティは関連付けられた名前空間プレフィックスを返します。
 
-### 関連項目
+## 備考
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
+
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

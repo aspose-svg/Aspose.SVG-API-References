@@ -1,167 +1,165 @@
 ---
-title: Renderer1.Render
-second_title: Aspose.SVG for .NET API リファレンス
-description: Renderer 方法. レンダリングの方法を定義しますTDocument指定されたIDevice .
+title: "Renderer-1.Render"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Renderer Render メソッド。指定された IDevice に TSource をレンダリングするメソッドを定義します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_3}
+## Render(*[IDevice](../../idevice/), TSource*) {#render_3}
 
-レンダリングの方法を定義します!:TDocument指定された[`IDevice`](../../idevice/) .
+指定された [`IDevice`](../../idevice/) に *TSource* をレンダリングするメソッドを定義します。
 
 ```csharp
-public void Render(IDevice device, TDocument document)
+public void Render(IDevice device, TSource source)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| document | TDocument | ドキュメント。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| ソース | TSource | レンダリングするソースです。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderer-1/)
-* 組み立て [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_5}
+## Render(*[IDevice](../../idevice/), TSource, TimeSpan*) {#render_5}
 
-レンダリングの方法を定義します!:TDocument指定された[`IDevice`](../../idevice/) .
+指定された [`IDevice`](../../idevice/) に *TSource* をレンダリングするメソッドを定義します。
 
 ```csharp
-public void Render(IDevice device, TDocument document, TimeSpan timeout)
+public void Render(IDevice device, TSource source, TimeSpan timeout)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| document | TDocument | ドキュメント。 |
-| timeout | TimeSpan | あTimeSpan待機するミリ秒数を表す、またはTimeSpanこれは、無期限に待機する -1 ミリ秒を表します。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| ソース | TSource | レンダリングするソースです。 |
+| タイムアウト | TimeSpan | 待機するミリ秒数を表す TimeSpan、または無期限に待機することを表す -1 ミリ秒の TimeSpan です。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderer-1/)
-* 組み立て [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_4}
+## Render(*[IDevice](../../idevice/), TSource, int*) {#render_4}
 
-レンダリングの方法を定義します!:TDocument指定された[`IDevice`](../../idevice/) .
+指定された [`IDevice`](../../idevice/) に *TSource* をレンダリングするメソッドを定義します。
 
 ```csharp
-public void Render(IDevice device, TDocument document, int timeout)
+public void Render(IDevice device, TSource source, int timeout)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| document | TDocument | ドキュメント。 |
-| timeout | Int32 | 待機するミリ秒数を表すミリ秒数、または無期限に待機する -1 ミリ秒。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| ソース | TSource | レンダリングするソースです。 |
+| タイムアウト | Int32 | 待機するミリ秒数を表すミリ秒の数、または無期限に待機するための -1 ミリ秒。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderer-1/)
-* 組み立て [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_6}
+## Render(*[IDevice](../../idevice/), params TSource[]*) {#render_6}
 
-複数をレンダリングする方法を定義します!:TDocument具体的に[`IDevice`](../../idevice/) .
+複数の *TSource* を特定の [`IDevice`](../../idevice/) にレンダリングするメソッドを定義します。
 
 ```csharp
-public void Render(IDevice device, params TDocument[] documents)
+public void Render(IDevice device, params TSource[] sources)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| documents | TDocument[] | レンダリングするドキュメント。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| ソース | TSource[] | レンダリングするソース。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderer-1/)
-* 組み立て [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, int, params TDocument[]) {#render}
+## Render(*[IDevice](../../idevice/), int, params TSource[]*) {#render}
 
-複数をレンダリングする方法を定義します!:TDocument具体的に[`IDevice`](../../idevice/) .
+複数の *TSource* を特定の [`IDevice`](../../idevice/) にレンダリングするメソッドを定義します。
 
 ```csharp
-public void Render(IDevice device, int timeout, params TDocument[] documents)
+public void Render(IDevice device, int timeout, params TSource[] sources)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| timeout | Int32 | 待機するミリ秒数を表すミリ秒数、または無期限に待機する -1 ミリ秒。 |
-| documents | TDocument[] | レンダリングするドキュメント。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| タイムアウト | Int32 | 待機するミリ秒数を表すミリ秒の数、または無期限に待機するための -1 ミリ秒。 |
+| ソース | TSource[] | レンダリングするソース。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderer-1/)
-* 組み立て [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
+## Render(*[IDevice](../../idevice/), TimeSpan, params TSource[]*) {#render_2}
 
-複数をレンダリングする方法を定義します!:TDocument具体的に[`IDevice`](../../idevice/) .
+複数の *TSource* を特定の [`IDevice`](../../idevice/) にレンダリングするメソッドを定義します。
 
 ```csharp
-public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
+public abstract void Render(IDevice device, TimeSpan timeout, params TSource[] sources)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| timeout | TimeSpan | あTimeSpan待機するミリ秒数を表す、またはTimeSpanこれは、無期限に待機する -1 ミリ秒を表します。 |
-| documents | TDocument[] | レンダリングするドキュメント。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| タイムアウト | TimeSpan | 待機するミリ秒数を表す TimeSpan、または無期限に待機することを表す -1 ミリ秒の TimeSpan です。 |
+| ソース | TSource[] | レンダリングするソース。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderer-1/)
-* 組み立て [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+## Render(*[IDevice](../../idevice/), CancellationToken, params TSource[]*) {#render_1}
 
-複数をレンダリングする方法を定義します!:TDocument特定の[`IDevice`](../../idevice/)、キャンセル トークンを使用して操作のキャンセルを要求します。
+キャンセル トークンを使用して操作のキャンセルを要求できるように、複数の *TSource* を特定の [`IDevice`](../../idevice/) にレンダリングするメソッドを定義します。
 
 ```csharp
 public abstract void Render(IDevice device, CancellationToken cancellationToken, 
-    params TDocument[] documents)
+    params TSource[] sources)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| cancellationToken | CancellationToken | あCancellationTokenタスクが完了するのを待っている間に観察します。 |
-| documents | TDocument[] | レンダリングするドキュメント。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| cancellationToken | CancellationToken | タスクの完了を待機中に監視するための CancellationToken。 |
+| ソース | TSource[] | レンダリングするソース。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderer-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

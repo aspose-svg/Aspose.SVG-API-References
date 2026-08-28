@@ -1,23 +1,21 @@
 ---
-title: RenderingOptions.RenderingOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: RenderingOptions コンストラクタ. の新しいインスタンスを初期化しますRenderingOptions class.
+title: "RenderingOptions"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "RenderingOptions コンストラクタ。RenderingOptions クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering/renderingoptions/renderingoptions/
 ---
 ## RenderingOptions constructor
 
-の新しいインスタンスを初期化します[`RenderingOptions`](../) class.
+[`RenderingOptions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RenderingOptions()
 ```
 
-### 関連項目
+### 参照
 
 * class [RenderingOptions](../)
-* 名前空間 [Aspose.Svg.Rendering](../../renderingoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

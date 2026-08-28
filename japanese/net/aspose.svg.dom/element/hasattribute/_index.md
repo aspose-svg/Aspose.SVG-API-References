@@ -1,31 +1,29 @@
 ---
-title: Element.HasAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 方法. 指定された名前の属性がこの要素で指定されている場合またはデフォルト値がある場合は trueそれ以外の場合は false を返します
+title: "Element.HasAttribute"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element HasAttribute メソッド。指定された名前の属性がこの要素に設定されているか、デフォルト値がある場合は true を返し、そうでなければ false を返します。"
 type: docs
 weight: 310
 url: /ja/net/aspose.svg.dom/element/hasattribute/
 ---
 ## Element.HasAttribute method
 
-指定された名前の属性がこの要素で指定されている場合、またはデフォルト値がある場合は true、それ以外の場合は false を返します。
+この要素に指定された名前の属性が存在するか、デフォルト値を持つ場合は true を返し、そうでない場合は false を返します。
 
 ```csharp
-public bool HasAttribute(string name)
+public bool HasAttribute(string qualifiedName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | 属性名。 |
+| qualifiedName | String | 属性名です。 |
 
 ### 戻り値
 
-`真実`指定された名前に属性がある場合。さもないと、`間違い` .
+`true` は指定された名前の属性がある場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

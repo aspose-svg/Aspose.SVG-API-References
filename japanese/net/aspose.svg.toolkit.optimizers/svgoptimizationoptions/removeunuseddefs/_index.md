@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveUnusedDefs
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGOptimizationOptions 財産. 識別子なしで直接表示されない定義の内容を削除するオプションを取得または設定しますデフォルトではtrueです
+title: "SVGOptimizationOptions.RemoveUnusedDefs"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGOptimizationOptions RemoveUnusedDefs プロパティ。識別子なしで直接表示されない defs のコンテンツを削除するオプションを取得または設定します。デフォルトは true です。"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunuseddefs/
 ---
 ## SVGOptimizationOptions.RemoveUnusedDefs property
 
-識別子なしで直接表示されない定義の内容を削除するオプションを取得または設定します。デフォルトでは「true」です。
+識別子なしで直接表示されない defs の内容を削除するオプションを取得または設定します。デフォルトは 'true' です。
 
 ```csharp
 public bool RemoveUnusedDefs { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGOptimizationOptions](../)
-* 名前空間 [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

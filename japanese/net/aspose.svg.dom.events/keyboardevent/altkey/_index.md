@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.AltKey
-second_title: Aspose.SVG for .NET API リファレンス
-description: KeyboardEvent 財産. Alt 代替 または Option キー修飾子がアクティブだった場合は trueこの属性の初期化されていない値は false でなければなりません.
+title: "KeyboardEvent.AltKey"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "KeyboardEvent AltKey プロパティ。Alt（または Option）キー修飾子が有効な場合は true。属性の未初期化値は必ず false でなければなりません。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.events/keyboardevent/altkey/
 ---
 ## KeyboardEvent.AltKey property
 
-Alt (代替) (または "Option") キー修飾子がアクティブだった場合は true。この属性の初期化されていない値は false でなければなりません.
+Alt（代替）キー（または \"Option\"）修飾子がアクティブな場合は true。属性の未初期化値は false である必要があります。
 
 ```csharp
 public bool AltKey { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` Altの場合;さもないと、`間違い` .
+`true` は Alt が有効な場合、そうでなければ `false`。
 
-### 関連項目
+### 参照
 
 * class [KeyboardEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

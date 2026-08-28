@@ -1,23 +1,21 @@
 ---
-title: IRuntimeService.JavaScriptTimeout
-second_title: Aspose.SVG for .NET API リファレンス
-description: IRuntimeService 財産. 取得または設定TimeSpanJavaScript の実行時間を制限しますスクリプトが提供された時間よりも長く実行された場合TimeSpanキャンセルされます設定することで無限タイムアウトを指定できますTimeSpan1 ミリ秒に等しいデフォルト値は 1 分です
+title: "IRuntimeService.JavaScriptTimeout"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IRuntimeService JavaScriptTimeout プロパティ。JavaScript の実行時間を制限する TimeSpan を取得または設定します。スクリプトが指定された TimeSpan より長く実行された場合、キャンセルされます。TimeSpan を -1 ミリ秒に設定することで無限タイムアウトを指定できます。デフォルト値は 1 分です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.services/iruntimeservice/javascripttimeout/
 ---
 ## IRuntimeService.JavaScriptTimeout property
 
-取得または設定TimeSpanJavaScript の実行時間を制限します。スクリプトが提供された時間よりも長く実行された場合TimeSpan、キャンセルされます。設定することで無限タイムアウトを指定できますTimeSpan-1 ミリ秒に等しい。デフォルト値は 1 分です。
+JavaScript の実行時間を制限する TimeSpan を取得または設定します。スクリプトが指定された TimeSpan より長く実行された場合、キャンセルされます。TimeSpan を -1 ミリ秒に設定すると無限タイムアウトを指定できます。既定値は 1 分です。
 
 ```csharp
 public TimeSpan JavaScriptTimeout { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IRuntimeService](../)
-* 名前空間 [Aspose.Svg.Services](../../iruntimeservice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

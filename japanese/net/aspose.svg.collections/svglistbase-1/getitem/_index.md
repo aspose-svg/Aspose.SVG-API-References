@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.GetItem
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGListBase 方法. リストから指定された項目を返します
+title: "SVGListBase-1.GetItem"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGListBase GetItem メソッド。リストから指定された項目を返します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.collections/svglistbase-1/getitem/
 ---
-## SVGListBase&lt;T&gt;.GetItem method
+## SVGListBase<T>.GetItem method
 
 リストから指定された項目を返します。
 
@@ -14,24 +14,22 @@ url: /ja/net/aspose.svg.collections/svglistbase-1/getitem/
 public T GetItem(ulong index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| index | UInt64 | 返されるリストの項目のインデックス。最初の項目は番号 0 です。 |
+| インデックス | UInt64 | 返されるリスト内の項目のインデックスです。最初の項目は番号0です。 |
 
 ### 戻り値
 
-選択したアイテム。
+選択された項目です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). インデックス番号が numberOfItems 以上の場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/)。インデックス番号が numberOfItems 以上の場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

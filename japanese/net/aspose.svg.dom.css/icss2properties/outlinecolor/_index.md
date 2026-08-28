@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.OutlineColor
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の Outlinecolor プロパティ定義を参照してください
+title: "ICSS2Properties.OutlineColor"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties OutlineColor プロパティです。CSS2 の outline-color プロパティ定義を参照してください。"
 type: docs
-weight: 760
+weight: 790
 url: /ja/net/aspose.svg.dom.css/icss2properties/outlinecolor/
 ---
 ## ICSS2Properties.OutlineColor property
 
-CSS2 の Outline-color プロパティ定義を参照してください。
+CSS2 の outline-color プロパティ定義をご覧ください。
 
 ```csharp
 public string OutlineColor { get; set; }
@@ -16,12 +16,10 @@ public string OutlineColor { get; set; }
 
 ### 戻り値
 
-輪郭色プロパティ
+outline-color プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

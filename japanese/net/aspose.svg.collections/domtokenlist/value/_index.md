@@ -1,7 +1,7 @@
 ---
-title: DOMTokenList.Value
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMTokenList 財産. 対応する属性の値を取得または設定します
+title: "DOMTokenList.Value"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMTokenList Value プロパティ。対応する属性の値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.collections/domtokenlist/value/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.collections/domtokenlist/value/
 public string Value { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-対応する属性の値。
+対応する属性の値です。
 
-### 関連項目
+### 参照
 
 * class [DOMTokenList](../)
-* 名前空間 [Aspose.Svg.Collections](../../domtokenlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

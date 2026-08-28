@@ -1,28 +1,26 @@
 ---
-title: INodeIterator.ReferenceNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: INodeIterator 財産. 現在の参照ノード
+title: "INodeIterator.ReferenceNode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "INodeIterator ReferenceNode プロパティ。現在の参照ノード"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.traversal/inodeiterator/referencenode/
 ---
 ## INodeIterator.ReferenceNode property
 
-現在の参照ノード。
+現在の参照ノードです。
 
 ```csharp
 public Node ReferenceNode { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-参照ノード。
+参照ノードです。
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeIterator](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.X
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMaskElement 財産. 指定されたマスク要素の属性xに対応します SVGUnitTypes. で定義された定数の 1 つを取ります
+title: "SVGMaskElement.X"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMaskElement X プロパティ。指定されたマスク要素の属性 x に対応します。SVGUnitTypes で定義された定数のいずれかを取ります。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg/svgmaskelement/x/
 ---
 ## SVGMaskElement.X property
 
-指定された「マスク」要素の属性「x」に対応します。 SVGUnitTypes. で定義された定数の 1 つを取ります
+指定された ‘mask’ 要素の属性 ‘x’ に対応します。SVGUnitTypes で定義された定数のいずれかを取ります。
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「マスク」要素の属性「x」。
+指定された ‘mask’ 要素の属性 ‘x’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* 名前空間 [Aspose.Svg](../../svgmaskelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

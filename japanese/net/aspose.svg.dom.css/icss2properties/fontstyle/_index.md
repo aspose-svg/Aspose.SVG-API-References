@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontStyle
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の fontstyle プロパティ定義を参照してください
+title: "ICSS2Properties.FontStyle"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties FontStyle プロパティです。CSS2 の font-style プロパティ定義を参照してください。"
 type: docs
 weight: 520
 url: /ja/net/aspose.svg.dom.css/icss2properties/fontstyle/
 ---
 ## ICSS2Properties.FontStyle property
 
-CSS2 の font-style プロパティ定義を参照してください。
+CSS2 の font-style プロパティの定義をご覧ください。
 
 ```csharp
 public string FontStyle { get; set; }
@@ -18,10 +18,8 @@ public string FontStyle { get; set; }
 
 font-style プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

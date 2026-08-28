@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_URI
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値は URI です値は getStringValue メソッドを使用して取得できます
+title: "CSSPrimitiveValue.CSS_URI"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_URI フィールド。値は URI です。値は getStringValue メソッドを使用して取得できます。"
 type: docs
-weight: 410
+weight: 420
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_uri/
 ---
 ## CSSPrimitiveValue.CSS_URI field
 
-値は URI です。値は getStringValue メソッドを使用して取得できます。
+この値は URI です。getStringValue メソッドを使用して取得できます。
 
 ```csharp
 public const ushort CSS_URI;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

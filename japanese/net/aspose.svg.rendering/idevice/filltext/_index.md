@@ -1,28 +1,26 @@
 ---
-title: IDevice.FillText
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDevice 方法. 指定した位置に指定したテキスト文字列を入力します
+title: "IDevice.FillText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDevice FillText メソッド。指定された位置に指定されたテキスト文字列を描画します"
 type: docs
 weight: 150
 url: /ja/net/aspose.svg.rendering/idevice/filltext/
 ---
 ## IDevice.FillText method
 
-指定した位置に指定したテキスト文字列を入力します。
+指定された位置に指定されたテキスト文字列を塗りつぶします。
 
 ```csharp
 public void FillText(string text, PointF pt)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| text | String | 埋める文字列。 |
-| pt | PointF | テキストの座標を指定するポイント。 |
+| テキスト | String | 塗りつぶす文字列。 |
+| pt | PointF | テキストの座標を指定する点。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../)
-* 名前空間 [Aspose.Svg.Rendering](../../idevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

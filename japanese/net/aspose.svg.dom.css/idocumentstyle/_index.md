@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentStyle
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.IDocumentStyle インターフェース. DocumentStyle インターフェイスはドキュメントに埋め込まれたスタイル シートを取得できるメカニズムを提供します Document インターフェースのインスタンスでバインド固有のキャスト メソッドを使用してDocumentStyle インターフェースのインスタンスを取得できることが期待されます
+title: "IDocumentStyle インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.IDocumentStyle interface. DocumentStyle インターフェイスは、ドキュメントに埋め込まれたスタイルシートを取得するためのメカニズムを提供します。Document インターフェイスのインスタンスに対してバインディング固有のキャストメソッドを使用することで、DocumentStyle インターフェイスのインスタンスを取得できることが期待されます。"
 type: docs
-weight: 700
+weight: 2700
 url: /ja/net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface
 
-DocumentStyle インターフェイスは、ドキュメントに埋め込まれたスタイル シートを取得できるメカニズムを提供します。 Document インターフェースのインスタンスでバインド固有のキャスト メソッドを使用して、DocumentStyle インターフェースのインスタンスを取得できることが期待されます。
+DocumentStyle インターフェイスは、ドキュメントに埋め込まれたスタイルシートを取得できるメカニズムを提供します。Document インターフェイスのインスタンスに対してバインディング固有のキャストメソッドを使用することで、DocumentStyle インターフェイスのインスタンスを取得できることが期待されます。
 
 ```csharp
 public interface IDocumentStyle
@@ -18,11 +18,9 @@ public interface IDocumentStyle
 
 | 名前 | 説明 |
 | --- | --- |
-| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | ドキュメントに明示的にリンクまたは埋め込まれたすべてのスタイル シートを含むリスト。 HTML ドキュメントの場合、これには、HTML LINK 要素とインライン STYLE 要素を介して含まれる外部スタイル シートが含まれます。 |
+| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | 文書に明示的にリンクまたは埋め込まれたすべてのスタイルシートを含むリストです。HTML 文書の場合、HTML LINK 要素で含まれる外部スタイルシートとインライン STYLE 要素が含まれます。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

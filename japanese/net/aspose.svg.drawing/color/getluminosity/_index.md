@@ -1,14 +1,14 @@
 ---
-title: Color.GetLuminosity
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. Color の明度を返します
+title: "Color.GetLuminosity"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color GetLuminosity メソッド。Color の輝度を返します"
 type: docs
 weight: 340
 url: /ja/net/aspose.svg.drawing/color/getluminosity/
 ---
 ## Color.GetLuminosity method
 
-Color の明度を返します。
+Color の輝度を返します。
 
 ```csharp
 public float GetLuminosity()
@@ -16,12 +16,10 @@ public float GetLuminosity()
 
 ### 戻り値
 
-色の明るさ。
+Color の輝度です。
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

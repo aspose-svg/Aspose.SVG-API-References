@@ -1,27 +1,25 @@
 ---
-title: UIEvent.Detail
-second_title: Aspose.SVG for .NET API リファレンス
-description: UIEvent 財産. イベントのタイプに応じてイベントに関する詳細情報を指定します
+title: "UIEvent.Detail"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UIEvent Detail プロパティ。イベントの種類に応じて、イベントに関する詳細情報を指定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.events/uievent/detail/
 ---
 ## UIEvent.Detail property
 
-イベントのタイプに応じて、イベントに関する詳細情報を指定します。
+イベントのタイプに応じて、Event に関する詳細情報を指定します。
 
 ```csharp
 public long Detail { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-詳細データ.
+詳細データです。
 
-### 関連項目
+### 参照
 
 * class [UIEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../uievent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

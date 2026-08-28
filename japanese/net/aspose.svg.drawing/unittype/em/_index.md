@@ -1,23 +1,21 @@
 ---
-title: UnitType.Em
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 測定値は親要素のフォントの高さに相対的です.
+title: "UnitType.Em"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Em フィールド。測定は親要素のフォント高さに相対的です"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.drawing/unittype/em/
 ---
 ## UnitType.Em field
 
-測定値は、親要素のフォントの高さに相対的です.
+測定は親要素のフォントの高さに対して相対的です。
 
 ```csharp
 public static readonly UnitType Em;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

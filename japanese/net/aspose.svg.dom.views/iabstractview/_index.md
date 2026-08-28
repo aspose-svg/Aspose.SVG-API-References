@@ -1,14 +1,14 @@
 ---
-title: Interface IAbstractView
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Views.IAbstractView インターフェース. すべてのビューが派生する基本インターフェイス
+title: "IAbstractView インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Views.IAbstractView インターフェイス。すべてのビューが派生すべき基本インターフェイスです。"
 type: docs
-weight: 1290
+weight: 3290
 url: /ja/net/aspose.svg.dom.views/iabstractview/
 ---
 ## IAbstractView interface
 
-すべてのビューが派生する基本インターフェイス。
+すべてのビューが継承すべき基本インターフェイスです。
 
 ```csharp
 public interface IAbstractView
@@ -18,11 +18,9 @@ public interface IAbstractView
 
 | 名前 | 説明 |
 | --- | --- |
-| [Document](../../aspose.svg.dom.views/iabstractview/document/) { get; } | これが AbstractView であるソース DocumentView. |
+| [Document](../../aspose.svg.dom.views/iabstractview/document/) { get; } | これが AbstractView である元の DocumentView。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../)

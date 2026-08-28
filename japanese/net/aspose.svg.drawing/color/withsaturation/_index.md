@@ -1,7 +1,7 @@
 ---
-title: Color.WithSaturation
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 指定された彩度で Color のコピーを作成します
+title: "Color.WithSaturation"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color WithSaturation メソッド。指定された彩度で Color のコピーを作成します。"
 type: docs
 weight: 480
 url: /ja/net/aspose.svg.drawing/color/withsaturation/
@@ -14,18 +14,16 @@ url: /ja/net/aspose.svg.drawing/color/withsaturation/
 public Color WithSaturation(float saturation)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| saturation | Single | 彩度の値。 |
+| 彩度 | Single | 彩度の値。 |
 
 ### 戻り値
 
-&gt;の新しいインスタンス[`Color`](../)クラス。
+&gt;`[`Color`](../)` クラスの新しいインスタンスです。
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

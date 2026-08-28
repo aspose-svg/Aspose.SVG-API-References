@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.SVG for .NET API リファレンス
-description: Metered 方法. 消費ファイルサイズを取得
+title: "Metered.GetConsumptionQuantity"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Metered GetConsumptionQuantity メソッド。消費ファイルサイズを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
 
-消費ファイルサイズを取得
+消費ファイルサイズを取得します
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -18,10 +18,8 @@ public static decimal GetConsumptionQuantity()
 
 消費量
 
-### 関連項目
+### 参照
 
 * class [Metered](../)
-* 名前空間 [Aspose.Svg](../../metered/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

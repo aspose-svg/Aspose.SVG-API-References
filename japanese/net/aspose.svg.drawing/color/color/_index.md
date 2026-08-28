@@ -1,158 +1,156 @@
 ---
-title: Color.Color
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color コンストラクタ. の新しいインスタンスを初期化しますColor class. デフォルトの色は黒です.
+title: "Color"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color コンストラクタ。Color クラスの新しいインスタンスを初期化します。デフォルトでは色は黒です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/color/color/
 ---
 ## Color() {#constructor}
 
-の新しいインスタンスを初期化します[`Color`](../) class. デフォルトの色は黒です.
+`[`Color`](../)` クラスの新しいインスタンスを初期化します。デフォルトでは色は黒です。
 
 ```csharp
 public Color()
 ```
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float) {#constructor_5}
+## Color(*float, float, float*) {#constructor_5}
 
-の新しいインスタンスを初期化します[`Color`](../) class. すべての色成分は 0 ～ 1 の範囲内である必要があります。
+`[`Color`](../)` クラスの新しいインスタンスを初期化します。すべての色コンポーネントは 0〜1 の範囲でなければなりません。
 
 ```csharp
 public Color(float red, float green, float blue)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| red | Single | 色の赤のコンポーネント。 |
-| green | Single | 色の緑の要素。 |
-| blue | Single | 色の青のコンポーネント。 |
+| 赤 | Single | 色の赤成分です。 |
+| 緑 | Single | 色の緑成分です。 |
+| 青 | Single | 色の青成分です。 |
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float, float) {#constructor_6}
+## Color(*float, float, float, float*) {#constructor_6}
 
-の新しいインスタンスを初期化します[`Color`](../) class. すべての色成分は 0 ～ 1 の範囲内である必要があります。
+`[`Color`](../)` クラスの新しいインスタンスを初期化します。すべての色コンポーネントは 0〜1 の範囲でなければなりません。
 
 ```csharp
 public Color(float red, float green, float blue, float alpha)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| red | Single | 色の赤のコンポーネント。 |
-| green | Single | 色の緑の要素。 |
-| blue | Single | 色の青のコンポーネント。 |
-| alpha | Single | 色のアルファ コンポーネント。 |
+| 赤 | Single | 色の赤成分です。 |
+| 緑 | Single | 色の緑成分です。 |
+| 青 | Single | 色の青成分です。 |
+| アルファ | Single | 色のアルファ成分です。 |
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte) {#constructor_1}
+## Color(*byte, byte, byte*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Color`](../)class. すべてのカラー コンポーネントは 0 ～ 255 の範囲内である必要があります。
+新しい [`Color`](../) クラスのインスタンスを初期化します。すべてのカラーコンポーネントは 0〜255 の範囲でなければなりません。
 
 ```csharp
 public Color(byte red, byte green, byte blue)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| red | Byte | 色の赤のコンポーネント。 |
-| green | Byte | 色の緑の要素。 |
-| blue | Byte | 色の青のコンポーネント。 |
+| 赤 | バイト | 色の赤成分です。 |
+| 緑 | バイト | 色の緑成分です。 |
+| 青 | バイト | 色の青成分です。 |
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte, byte) {#constructor_2}
+## Color(*byte, byte, byte, byte*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`Color`](../)class. すべてのカラー コンポーネントは 0 ～ 255 の範囲内である必要があります。
+新しい [`Color`](../) クラスのインスタンスを初期化します。すべてのカラーコンポーネントは 0〜255 の範囲でなければなりません。
 
 ```csharp
 public Color(byte red, byte green, byte blue, byte alpha)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| red | Byte | 色の赤の要素を表すバイト。 |
-| green | Byte | 色の緑の要素を表すバイト。 |
-| blue | Byte | 色の青の要素を表すバイト。 |
-| alpha | Byte | 色のアルファ コンポーネントを表すバイト。 |
+| 赤 | バイト | カラーの赤成分を表すバイトです。 |
+| 緑 | バイト | カラーの緑成分を表すバイトです。 |
+| 青 | バイト | カラーの青成分を表すバイトです。 |
+| アルファ | バイト | カラーのアルファ成分を表すバイトです。 |
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int) {#constructor_3}
+## Color(*int, int, int*) {#constructor_3}
 
-の新しいインスタンスを初期化します[`Color`](../)class. すべてのカラー コンポーネントは 0 ～ 255 の範囲内である必要があります。
+新しい [`Color`](../) クラスのインスタンスを初期化します。すべてのカラーコンポーネントは 0〜255 の範囲でなければなりません。
 
 ```csharp
 public Color(int red, int green, int blue)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| red | Int32 | 色の赤のコンポーネント。 |
-| green | Int32 | 色の緑の要素。 |
-| blue | Int32 | 色の青のコンポーネント。 |
+| 赤 | Int32 | 色の赤成分です。 |
+| 緑 | Int32 | 色の緑成分です。 |
+| 青 | Int32 | 色の青成分です。 |
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int, int) {#constructor_4}
+## Color(*int, int, int, int*) {#constructor_4}
 
-の新しいインスタンスを初期化します[`Color`](../)class. すべてのカラー コンポーネントは 0 ～ 255 の範囲内である必要があります。
+新しい [`Color`](../) クラスのインスタンスを初期化します。すべてのカラーコンポーネントは 0〜255 の範囲でなければなりません。
 
 ```csharp
 public Color(int red, int green, int blue, int alpha)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| red | Int32 | 色の赤のコンポーネント。 |
-| green | Int32 | 色の緑の要素。 |
-| blue | Int32 | 色の青のコンポーネント。 |
-| alpha | Int32 | 色のアルファ コンポーネント。 |
+| 赤 | Int32 | 色の赤成分です。 |
+| 緑 | Int32 | 色の緑成分です。 |
+| 青 | Int32 | 色の青成分です。 |
+| アルファ | Int32 | 色のアルファ成分です。 |
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

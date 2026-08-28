@@ -1,23 +1,21 @@
 ---
-title: ContentDispositionHeaderValue.DispositionType
-second_title: Aspose.SVG for .NET API リファレンス
-description: ContentDispositionHeaderValue 財産. 処理タイプの取得または設定 type
+title: "ContentDispositionHeaderValue.DispositionType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ContentDispositionHeaderValue DispositionType プロパティ。ディスポジションタイプを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/
 ---
 ## ContentDispositionHeaderValue.DispositionType property
 
-処理タイプの取得または設定 type
+ディスポジションタイプを取得または設定します
 
 ```csharp
 public string DispositionType { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [ContentDispositionHeaderValue](../)
-* 名前空間 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Device2.AddRect
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. 四角形を現在のパスに完全なサブパスとして追加します
+title: "Device-2.AddRect"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device AddRect メソッド。矩形を現在のパスに完全なサブパスとして追加します"
 type: docs
-weight: 30
+weight: 60
 url: /ja/net/aspose.svg.rendering/device-2/addrect/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.AddRect method
+## Device<TGraphicContext,TRenderingOptions>.AddRect method
 
-四角形を現在のパスに完全なサブパスとして追加します。
+現在のパスに矩形を完全なサブパスとして追加します。
 
 ```csharp
-public abstract void AddRect(RectangleF rect)
+public virtual void AddRect(RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | 描画する四角形。 |
+| rect | RectangleF | 描画する矩形。 |
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

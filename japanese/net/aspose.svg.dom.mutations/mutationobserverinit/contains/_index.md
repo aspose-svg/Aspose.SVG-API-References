@@ -1,31 +1,29 @@
 ---
-title: MutationObserverInit.Contains
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 方法. MutationObserverInit指定されたキーと値のペアが含まれています.
+title: "MutationObserverInit.Contains"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit の Contains メソッド。MutationObserverInit が指定されたキー/値のペアを含むかどうかを判定します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/contains/
 ---
 ## MutationObserverInit.Contains method
 
-[`MutationObserverInit`](../)指定されたキーと値のペアが含まれています.
+[`MutationObserverInit`](../) が指定されたキー/値のペアを含むかどうかを判定します。
 
 ```csharp
 public bool Contains(KeyValuePair<string, object> item)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | チェックする項目。 |
+| item | KeyValuePair`2 | チェックする項目です。 |
 
 ### 戻り値
 
-真の場合[`MutationObserverInit`](../)指定されたキーと値のペアを含みます。それ以外の場合は false。
+[`MutationObserverInit`](../) が指定されたキー/値のペアを含む場合は true、そうでない場合は falseです。
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

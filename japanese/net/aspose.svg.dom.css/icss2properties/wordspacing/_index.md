@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.WordSpacing
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の wordspacing プロパティの定義を参照してください
+title: "ICSS2Properties.WordSpacing"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties WordSpacing プロパティ。CSS2 の word-spacing プロパティ定義をご覧ください"
 type: docs
-weight: 1210
+weight: 1240
 url: /ja/net/aspose.svg.dom.css/icss2properties/wordspacing/
 ---
 ## ICSS2Properties.WordSpacing property
 
-CSS2 の word-spacing プロパティの定義を参照してください。
+CSS2 の word-spacing プロパティ定義をご覧ください。
 
 ```csharp
 public string WordSpacing { get; set; }
@@ -18,10 +18,8 @@ public string WordSpacing { get; set; }
 
 word-spacing プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

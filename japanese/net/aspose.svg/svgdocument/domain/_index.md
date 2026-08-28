@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Domain
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGDocument 財産. ドキュメントを提供したサーバーのドメイン名またはドメイン名でサーバーを識別できない場合は null 文字列
+title: "SVGDocument.Domain"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGDocument Domain プロパティ。ドキュメントを提供したサーバーのドメイン名、またはサーバーがドメイン名で特定できない場合は null 文字列です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/svgdocument/domain/
 ---
 ## SVGDocument.Domain property
 
-ドキュメントを提供したサーバーのドメイン名、またはドメイン名でサーバーを識別できない場合は null 文字列。
+ドキュメントを提供したサーバーのドメイン名、またはサーバーがドメイン名で特定できない場合は null 文字列です。
 
 ```csharp
 public string Domain { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドメイン.
+ドメイン。
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

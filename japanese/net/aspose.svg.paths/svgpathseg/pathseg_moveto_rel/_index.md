@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_MOVETO_REL
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathSeg 分野. 相対移動m パス データ コマンドに対応します
+title: "SVGPathSeg.PATHSEG_MOVETO_REL"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathSeg PATHSEG_MOVETO_REL フィールド。相対 moveto m パスデータコマンドに対応します"
 type: docs
 weight: 210
 url: /ja/net/aspose.svg.paths/svgpathseg/pathseg_moveto_rel/
 ---
 ## SVGPathSeg.PATHSEG_MOVETO_REL field
 
-「相対移動」(m) パス データ コマンドに対応します。
+「相対移動」(m) パスデータコマンドに対応します。
 
 ```csharp
 public const ushort PATHSEG_MOVETO_REL;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGPathSeg](../)
-* 名前空間 [Aspose.Svg.Paths](../../svgpathseg/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

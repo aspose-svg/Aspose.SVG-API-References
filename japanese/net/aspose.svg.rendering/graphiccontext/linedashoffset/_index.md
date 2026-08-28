@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.LineDashOffset
-second_title: Aspose.SVG for .NET API リファレンス
-description: GraphicContext 財産. 現在の破線パターンの位相オフセットを設定または取得します
+title: "GraphicContext.LineDashOffset"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GraphicContext LineDashOffset プロパティ。現在の線の破線パターンの位相オフセットを設定または取得します。"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.svg.rendering/graphiccontext/linedashoffset/
 ---
 ## GraphicContext.LineDashOffset property
 
-現在の破線パターンの位相オフセットを設定または取得します。
+現在の線の破線パターンの位相オフセットを設定または取得します。
 
 ```csharp
 public virtual float LineDashOffset { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [GraphicContext](../)
-* 名前空間 [Aspose.Svg.Rendering](../../graphiccontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoAbs
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathElement 方法. スタンドアロンで親のない SVGPathSegLinetoAbs オブジェクトを返します
+title: "SVGPathElement.CreateSVGPathSegLinetoAbs"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathElement CreateSVGPathSegLinetoAbs メソッド。スタンドアロンで親を持たない SVGPathSegLinetoAbs オブジェクトを返します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.svg/svgpathelement/createsvgpathseglinetoabs/
@@ -14,20 +14,18 @@ url: /ja/net/aspose.svg/svgpathelement/createsvgpathseglinetoabs/
 public SVGPathSegLinetoAbs CreateSVGPathSegLinetoAbs(float x, float y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | このパス セグメントの終点の絶対 X 座標。 |
-| y | Single | このパス セグメントの終点の絶対 Y 座標。 |
+| x | Single | このパスセグメントの終点の絶対X座標。 |
+| y | Single | このパスセグメントの終点の絶対Y座標。 |
 
 ### 戻り値
 
-スタンドアロンの、親のない SVGPathSegLinetoAbs オブジェクト。
+スタンドアロンで親を持たない SVGPathSegLinetoAbs オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegLinetoAbs](../../../aspose.svg.paths/svgpathseglinetoabs/)
 * class [SVGPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

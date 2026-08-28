@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedLength
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.DataTypes.SVGAnimatedLength クラス. アニメーション化できる基本タイプの長さの属性に使用されます
+title: "SVGAnimatedLength クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.DataTypes.SVGAnimatedLength クラス。アニメーション可能な基本タイプ length の属性に使用されます"
 type: docs
-weight: 130
+weight: 2120
 url: /ja/net/aspose.svg.datatypes/svganimatedlength/
 ---
 ## SVGAnimatedLength class
 
-アニメーション化できる基本タイプの長さの属性に使用されます。
+アニメーション可能な基本型 length の属性に使用されます。
 
 ```csharp
 public class SVGAnimatedLength : SVGAnimatedValue<SVGLength>
@@ -25,15 +25,13 @@ public class SVGAnimatedLength : SVGAnimatedValue<SVGLength>
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedlength/tostring/)() | を返しますStringこのインスタンスを表す. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| override [ToString](../../aspose.svg.datatypes/svganimatedlength/tostring/)() | このインスタンスを表す String を返します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGLength](../svglength/)
-* 名前空間 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

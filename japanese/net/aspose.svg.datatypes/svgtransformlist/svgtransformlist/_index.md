@@ -1,44 +1,42 @@
 ---
-title: SVGTransformList.SVGTransformList
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTransformList コンストラクタ. の新しいインスタンスを初期化しますSVGTransformList class.
+title: "SVGTransformList"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTransformList コンストラクタ。SVGTransformList クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
 ## SVGTransformList() {#constructor}
 
-の新しいインスタンスを初期化します[`SVGTransformList`](../) class.
+[`SVGTransformList`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SVGTransformList()
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGTransformList](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
+## SVGTransformList(*IEnumerable&lt;SVGTransform&gt;*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`SVGTransformList`](../) class.
+[`SVGTransformList`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SVGTransformList(IEnumerable<SVGTransform> enumerable)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | 列挙可能。 |
+| 列挙可能 | IEnumerable`1 | 列挙可能です。 |
 
-### 関連項目
+### 参照
 
 * class [SVGTransform](../../svgtransform/)
 * class [SVGTransformList](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

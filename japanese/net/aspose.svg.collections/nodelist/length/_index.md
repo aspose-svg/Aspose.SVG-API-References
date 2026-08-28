@@ -1,7 +1,7 @@
 ---
-title: NodeList.Length
-second_title: Aspose.SVG for .NET API リファレンス
-description: NodeList 財産. リスト内のノード数
+title: "NodeList.Length"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "NodeList Length プロパティ。リスト内のノード数です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.collections/nodelist/length/
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.collections/nodelist/length/
 public abstract int Length { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [NodeList](../)
-* 名前空間 [Aspose.Svg.Collections](../../nodelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

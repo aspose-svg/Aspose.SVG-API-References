@@ -1,31 +1,29 @@
 ---
-title: DOMTokenList.Supports
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMTokenList 方法. 指定されたトークンが関連付けられた属性のサポートされているトークンにある場合は true を返します
+title: "DOMTokenList.Supports"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMTokenList Supports メソッド。指定されたトークンが関連属性のサポートトークンに含まれている場合は true を返します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.collections/domtokenlist/supports/
 ---
 ## DOMTokenList.Supports method
 
-指定されたトークンが関連付けられた属性のサポートされているトークンにある場合は true を返します。
+指定されたトークンが関連属性のサポートされているトークンに含まれている場合は true を返します。
 
 ```csharp
 public bool Supports(string token)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| token | String | クエリするトークン。 |
+| token | String | 問い合わせ対象のトークン。 |
 
 ### 戻り値
 
-トークンが見つかったかどうかを示すブール値。
+トークンが見つかったかどうかを示す Boolean。
 
-### 関連項目
+### 参照
 
 * class [DOMTokenList](../)
-* 名前空間 [Aspose.Svg.Collections](../../domtokenlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

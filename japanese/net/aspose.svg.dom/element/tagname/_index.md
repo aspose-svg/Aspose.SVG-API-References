@@ -1,9 +1,9 @@
 ---
-title: Element.TagName
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 財産. 要素の名前
+title: "Element.TagName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element TagName プロパティ。要素の名前です。"
 type: docs
-weight: 210
+weight: 200
 url: /ja/net/aspose.svg.dom/element/tagname/
 ---
 ## Element.TagName property
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.dom/element/tagname/
 public string TagName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 要素の名前。
 
-### 関連項目
+### 参照
 
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

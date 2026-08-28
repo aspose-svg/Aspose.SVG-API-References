@@ -1,24 +1,22 @@
 ---
-title: ICSSImportRule.Media
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSImportRule 財産. このスタイル シートを使用できるメディア タイプのリスト
+title: "ICSSImportRule.Media"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSImportRule Media property. このスタイルシートが使用できるメディアタイプのリストです。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/icssimportrule/media/
 ---
 ## ICSSImportRule.Media property
 
-このスタイル シートを使用できるメディア タイプのリスト。
+このスタイルシートが使用できるメディアタイプの一覧。
 
 ```csharp
 public IMediaList Media { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IMediaList](../../imedialist/)
 * interface [ICSSImportRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssimportrule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

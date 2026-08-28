@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.FILTER_ACCEPT
-second_title: Aspose.SVG for .NET API リファレンス
-description: NodeFilter 分野. ノードを受け入れます NodeIterator または TreeWalker に定義されたナビゲーション メソッドはこの node. を返します
+title: "NodeFilter.FILTER_ACCEPT"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "NodeFilter FILTER_ACCEPT フィールド。ノードを受け入れます。NodeIterator または TreeWalker 用に定義されたナビゲーション メソッドはこのノードを返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.traversal.filters/nodefilter/filter_accept/
 ---
 ## NodeFilter.FILTER_ACCEPT field
 
-ノードを受け入れます。 NodeIterator または TreeWalker に定義されたナビゲーション メソッドは、この node. を返します。
+ノードを受け入れます。NodeIterator または TreeWalker 用に定義されたナビゲーションメソッドはこのノードを返します。
 
 ```csharp
 public const short FILTER_ACCEPT;
 ```
 
-### 関連項目
+### 参照
 
 * class [NodeFilter](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

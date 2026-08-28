@@ -1,14 +1,14 @@
 ---
-title: Enum FormFieldBehaviour
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.Pdf.FormFieldBehaviour 列挙. この列挙は出力 PDF ドキュメントのフォーム フィールドの動作を指定するために使用されます
+title: "FormFieldBehaviour 列挙型"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.Pdf.FormFieldBehaviour 列挙型。 この列挙は、出力 PDF ドキュメント内のフォームフィールドの動作を指定するために使用されます。"
 type: docs
-weight: 2940
+weight: 5010
 url: /ja/net/aspose.svg.rendering.pdf/formfieldbehaviour/
 ---
 ## FormFieldBehaviour enumeration
 
-この列挙は、出力 PDF ドキュメントのフォーム フィールドの動作を指定するために使用されます。
+この列挙体は、出力 PDF ドキュメント内のフォーム フィールドの動作を指定するために使用されます。
 
 ```csharp
 public enum FormFieldBehaviour
@@ -16,14 +16,12 @@ public enum FormFieldBehaviour
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Interactive | `0` | 出力 PDF ドキュメントには、インタラクティブ フォーム フィールドが含まれます。 |
-| Flattened | `1` | 出力 PDF ドキュメントには、フラット化されたフォーム フィールドが含まれます。 |
+| Interactive | `0` | 出力 PDF ドキュメントにはインタラクティブなフォームフィールドが含まれます。 |
+| Flattened | `1` | 出力 PDF ドキュメントにはフラット化されたフォームフィールドが含まれます。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

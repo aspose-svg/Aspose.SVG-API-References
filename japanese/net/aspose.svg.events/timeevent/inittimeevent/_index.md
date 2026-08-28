@@ -1,30 +1,28 @@
 ---
-title: TimeEvent.InitTimeEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: TimeEvent 方法. initTimeEvent メソッドはDocumentEvent インターフェイスを介して作成された TimeEvent の値を初期化するために使用されますこのメソッドはTimeEvent が dispatchEvent メソッドを介してディスパッチされる前にのみ呼び出すことができますが必要に応じてそのフェーズ中に複数回呼び出すことができます複数回呼び出された場合最後の呼び出しが優先されます
+title: "TimeEvent.InitTimeEvent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "TimeEvent InitTimeEvent メソッド。initTimeEvent メソッドは DocumentEvent インターフェイスを通じて作成された TimeEvent の値を初期化するために使用されます。このメソッドは TimeEvent が dispatchEvent メソッドでディスパッチされる前にのみ呼び出すことができ、必要に応じてそのフェーズ内で複数回呼び出すことが可能です。複数回呼び出された場合は、最後の呼び出しが優先されます。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.events/timeevent/inittimeevent/
 ---
 ## TimeEvent.InitTimeEvent method
 
-initTimeEvent メソッドは、DocumentEvent インターフェイスを介して作成された TimeEvent の値を初期化するために使用されます。このメソッドは、TimeEvent が dispatchEvent メソッドを介してディスパッチされる前にのみ呼び出すことができますが、必要に応じてそのフェーズ中に複数回呼び出すことができます。複数回呼び出された場合、最後の呼び出しが優先されます。
+initTimeEvent メソッドは、DocumentEvent インターフェイスを介して作成された TimeEvent の値を初期化するために使用されます。このメソッドは、TimeEvent が dispatchEvent メソッドによってディスパッチされる前にのみ呼び出すことができ、必要に応じてそのフェーズ中に複数回呼び出すことができます。複数回呼び出された場合、最後の呼び出しが優先されます。
 
 ```csharp
 public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| typeArg | String | イベントの種類を指定します。 |
+| typeArg | String | イベントのタイプを指定します。 |
 | viewArg | IAbstractView | イベントの AbstractView を指定します。 |
-| detailArg | Int64 | イベントの詳細を指定します。 |
+| detailArg | Int64 | イベントの detail を指定します。 |
 
-### 関連項目
+### 参照
 
 * interface [IAbstractView](../../../aspose.svg.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* 名前空間 [Aspose.Svg.Events](../../timeevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

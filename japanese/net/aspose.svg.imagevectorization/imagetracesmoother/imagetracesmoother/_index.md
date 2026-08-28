@@ -1,43 +1,41 @@
 ---
-title: ImageTraceSmoother.ImageTraceSmoother
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageTraceSmoother コンストラクタ. の新しいインスタンスを初期化しますImageTraceSmoother class.
+title: "ImageTraceSmoother"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageTraceSmoother コンストラクタ。ImageTraceSmoother クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
 ## ImageTraceSmoother() {#constructor}
 
-の新しいインスタンスを初期化します[`ImageTraceSmoother`](../) class.
+[`ImageTraceSmoother`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageTraceSmoother()
 ```
 
-### 関連項目
+### 参照
 
 * class [ImageTraceSmoother](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSmoother(int) {#constructor_1}
+## ImageTraceSmoother(*int*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ImageTraceSmoother`](../) class.
+[`ImageTraceSmoother`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageTraceSmoother(int severity)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| severity | Int32 | 重大度 |
+| 重大度 | Int32 | 重大度です。 |
 
-### 関連項目
+### 参照
 
 * class [ImageTraceSmoother](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.Buttons
-second_title: Aspose.SVG for .NET API リファレンス
-description: MouseEvent 財産. マウス イベントの間現在押されているマウス ボタンの組み合わせを示すためにボタンを使用する必要があります
+title: "MouseEvent.Buttons"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MouseEvent Buttons プロパティ。任意のマウスイベント中、buttons はビットマスクで現在押されているマウスボタンの組み合わせを示すために使用しなければなりません"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.events/mouseevent/buttons/
 ---
 ## MouseEvent.Buttons property
 
-マウス イベントの間、現在押されているマウス ボタンの組み合わせを示すためにボタンを使用する必要があります。
+すべてのマウスイベントにおいて、現在押されているマウスボタンの組み合わせをビットマスクで表すために buttons を使用しなければなりません。
 
 ```csharp
 public ushort Buttons { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ボタン.
+ボタン。
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

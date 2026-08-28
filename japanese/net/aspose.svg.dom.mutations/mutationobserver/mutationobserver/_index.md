@@ -1,28 +1,26 @@
 ---
-title: MutationObserver.MutationObserver
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserver コンストラクタ. MutationObserver オブジェクトを構築しそのMutationCallbackコールバックします コールバックはMutationRecord オブジェクトのリストを最初の引数として構築された MutationObserver オブジェクトを 2 番目の引数として呼び出されますにノードが登録された後に呼び出されますObserveNode IMutationObserverInitメソッド変異しています.
+title: "MutationObserver"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserver コンストラクタ。MutationObserver オブジェクトを作成し、その MutationCallback を callback に設定します。callback は、最初の引数として MutationRecord オブジェクトのリスト、二番目の引数として構築された MutationObserver オブジェクトで呼び出されます。Observe メソッドで登録されたノードが変異した後に呼び出されます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.mutations/mutationobserver/mutationobserver/
 ---
 ## MutationObserver constructor
 
-MutationObserver オブジェクトを構築し、その[`MutationCallback`](../../mutationcallback/)コールバックします。 コールバックは、MutationRecord オブジェクトのリストを最初の引数として、構築された MutationObserver オブジェクトを 2 番目の引数として呼び出されます。にノードが登録された後に呼び出されます。!:Observe(Node, IMutationObserverInit)メソッド、変異しています.
+MutationObserver オブジェクトを作成し、その [`MutationCallback`](../../mutationcallback/) を callback に設定します。callback は、最初の引数として MutationRecord オブジェクトのリスト、二番目の引数として構築された MutationObserver オブジェクトで呼び出されます。[`Observe`](../observe/) メソッドで登録されたノードが変異した後に呼び出されます。
 
 ```csharp
 public MutationObserver(MutationCallback callback)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| callback | MutationCallback | コールバック。 |
+| callback | MutationCallback | コールバックです。 |
 
-### 関連項目
+### 参照
 
 * delegate [MutationCallback](../../mutationcallback/)
 * class [MutationObserver](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

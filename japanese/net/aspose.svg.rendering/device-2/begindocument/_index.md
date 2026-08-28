@@ -1,12 +1,12 @@
 ---
-title: Device2.BeginDocument
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. ドキュメントのレンダリングを開始します
+title: "Device-2.BeginDocument"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device BeginDocument メソッド。ドキュメントのレンダリングを開始します"
 type: docs
-weight: 40
+weight: 70
 url: /ja/net/aspose.svg.rendering/device-2/begindocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginDocument method
+## Device<TGraphicContext,TRenderingOptions>.BeginDocument method
 
 ドキュメントのレンダリングを開始します。
 
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.rendering/device-2/begindocument/
 public virtual void BeginDocument(Document document)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| document | Document | ドキュメント。 |
+| ドキュメント | ドキュメント | ドキュメント。 |
 
-### 関連項目
+### 参照
 
 * class [Document](../../../aspose.svg.dom/document/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

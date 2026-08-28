@@ -1,23 +1,33 @@
 ---
-title: Node.ParentNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 財産. このノードの親 AttrDocumentDocumentFragmentEntityおよび Notation を除くすべてのノードは親を持つことができますただしノードが作成されたばかりでまだツリーに追加されていない場合またはツリーから削除されている場合これは null. です
+title: "Node.ParentNode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node ParentNode プロパティ。指定されたノードの DOM ツリー上の親ノードを返します。"
 type: docs
-weight: 140
+weight: 130
 url: /ja/net/aspose.svg.dom/node/parentnode/
 ---
 ## Node.ParentNode property
 
-このノードの親。 Attr、Document、DocumentFragment、Entity、および Notation を除くすべてのノードは、親を持つことができます。ただし、ノードが作成されたばかりでまだツリーに追加されていない場合、またはツリーから削除されている場合、これは null. です。
+DOM ツリー内で指定されたノードの親を返します。
+
+[`Document`](../../document/) and [`DocumentFragment`](../../documentfragment/) nodes can never have a parent, so ParentNode will always return null. It also returns null if the node has just been created and is not yet attached to the tree.
 
 ```csharp
 public Node ParentNode { get; }
 ```
 
-### 関連項目
+### Property Value
+
+現在のノードの親である Node。要素の親は[`Element`](../../element/) ノード、[`Document`](../../document/) ノード、または[`DocumentFragment`](../../documentfragment/) ノードのいずれかです。
+
+## 備考
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-parentnode).
+
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

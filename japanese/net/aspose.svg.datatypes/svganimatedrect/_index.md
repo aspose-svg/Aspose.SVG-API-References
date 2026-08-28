@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedRect
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.DataTypes.SVGAnimatedRect クラス. アニメート可能なタイプ SVGRect の属性に使用されます
+title: "SVGAnimatedRect クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.DataTypes.SVGAnimatedRect クラス。アニメーション可能なタイプ SVGRect の属性に使用されます"
 type: docs
-weight: 180
+weight: 2170
 url: /ja/net/aspose.svg.datatypes/svganimatedrect/
 ---
 ## SVGAnimatedRect class
 
-アニメート可能なタイプ SVGRect の属性に使用されます。
+アニメーション可能な SVGRect 型の属性に使用されます。
 
 ```csharp
 public class SVGAnimatedRect : SVGAnimatedValue<SVGRect>
@@ -25,15 +25,13 @@ public class SVGAnimatedRect : SVGAnimatedValue<SVGRect>
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedrect/tostring/)() | を返しますStringこのインスタンスを表す. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| override [ToString](../../aspose.svg.datatypes/svganimatedrect/tostring/)() | このインスタンスを表す String を返します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGRect](../svgrect/)
-* 名前空間 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,64 +1,62 @@
 ---
-title: IEventTarget.AddEventListener
-second_title: Aspose.SVG for .NET API リファレンス
-description: IEventTarget 方法. このメソッドを使用するとイベント ターゲットにイベント リスナーを登録できます
+title: "IEventTarget.AddEventListener"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IEventTarget AddEventListener メソッド。このメソッドはイベントターゲットにイベントリスナーを登録できるようにします。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.events/ieventtarget/addeventlistener/
 ---
-## AddEventListener(string, IEventListener) {#addeventlistener}
+## AddEventListener(*string, [IEventListener](../../ieventlistener/)*) {#addeventlistener}
 
-このメソッドを使用すると、イベント ターゲットにイベント リスナーを登録できます。
+このメソッドは、イベントターゲット上でイベントリスナーの登録を可能にします。
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | ユーザーが登録しているイベントの種類 |
-| listener | IEventListener | イベントが発生したときに呼び出されるメソッドを含む、ユーザーによって実装されたインターフェイスを取ります。 |
+| type | String | ユーザーが登録するイベントタイプ |
+| リスナー | IEventListener | イベントが発生したときに呼び出されるメソッドを含む、ユーザーが実装したインターフェイスを受け取ります。 |
 
-### 備考
+## 備考
 
-[`IEventListener`](../../ieventlistener/)に追加されます[`EventTarget`](../../../aspose.svg.dom/eventtarget/)イベントの処理中は、現在のアクションによってトリガー されませんが、バブリング フェーズなど、イベント フローの後の段階でトリガーされる場合があります.
+もし [`IEventListener`](../../ieventlistener/) がイベントを処理中の [`EventTarget`](../../../aspose.svg.dom/eventtarget/) に追加された場合、現在のアクションではトリガーされませんが、バブリングフェーズなどイベントフローの後の段階でトリガーされる可能性があります。
 
-同じイベントリスナーが複数登録されている場合[`EventTarget`](../../../aspose.svg.dom/eventtarget/)同じパラメーターを使用すると、重複するインスタンスは破棄されます. それらは、[`IEventListener`](../../ieventlistener/)これらは破棄されるため、the で削除する必要はありません。[`RemoveEventListener`](../removeeventlistener/) メソッド.
+同じパラメータで同一の Event Listener が同一の [`EventTarget`](../../../aspose.svg.dom/eventtarget/) に複数登録された場合、重複したインスタンスは破棄されます。これにより [`IEventListener`](../../ieventlistener/) が二度呼び出されることはなく、破棄されたため [`RemoveEventListener`](../removeeventlistener/) メソッドで削除する必要もありません。
 
-### 関連項目
+### 参照
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## AddEventListener(string, IEventListener, bool) {#addeventlistener_1}
+## AddEventListener(*string, [IEventListener](../../ieventlistener/), bool*) {#addeventlistener_1}
 
-このメソッドを使用すると、イベント ターゲットにイベント リスナーを登録できます。
+このメソッドは、イベントターゲット上でイベントリスナーの登録を可能にします。
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | ユーザーが登録しているイベントの種類 |
-| listener | IEventListener | イベントが発生したときに呼び出されるメソッドを含む、ユーザーによって実装されたインターフェイスを取ります。 |
-| useCapture | Boolean | true の場合、useCapture は、ユーザーがキャプチャを開始したいことを示します。 キャプチャを開始した後、指定されたタイプのすべてのイベントが registered にディスパッチされます[`IEventListener`](../../ieventlistener/) は、ツリー内でその下にあるイベント ターゲットにディスパッチされる前に発生します。[`IEventListener`](../../ieventlistener/)キャプチャを使用するように指定されています。 |
+| type | String | ユーザーが登録するイベントタイプ |
+| リスナー | IEventListener | イベントが発生したときに呼び出されるメソッドを含む、ユーザーが実装したインターフェイスを受け取ります。 |
+| useCapture | Boolean | true の場合、useCapture はユーザーがキャプチャを開始したいことを示します。キャプチャが開始されると、指定されたタイプのすべてのイベントは、ツリー内の下位の Event Target にディスパッチされる前に、登録された [`IEventListener`](../../ieventlistener/) にディスパッチされます。ツリー上方向にバブリングするイベントは、キャプチャ用に指定された [`IEventListener`](../../ieventlistener/) をトリガーしません。 |
 
-### 備考
+## 備考
 
-[`IEventListener`](../../ieventlistener/)に追加されます[`EventTarget`](../../../aspose.svg.dom/eventtarget/)イベントの処理中は、現在のアクションによってトリガー されませんが、バブリング フェーズなど、イベント フローの後の段階でトリガーされる場合があります.
+もし [`IEventListener`](../../ieventlistener/) がイベントを処理中の [`EventTarget`](../../../aspose.svg.dom/eventtarget/) に追加された場合、現在のアクションではトリガーされませんが、バブリングフェーズなどイベントフローの後の段階でトリガーされる可能性があります。
 
-同じイベントリスナーが複数登録されている場合[`EventTarget`](../../../aspose.svg.dom/eventtarget/)同じパラメーターを使用すると、重複するインスタンスは破棄されます. それらは、[`IEventListener`](../../ieventlistener/)これらは破棄されるため、the で削除する必要はありません。[`RemoveEventListener`](../removeeventlistener/) メソッド.
+同じパラメータで同一の Event Listener が同一の [`EventTarget`](../../../aspose.svg.dom/eventtarget/) に複数登録された場合、重複したインスタンスは破棄されます。これにより [`IEventListener`](../../ieventlistener/) が二度呼び出されることはなく、破棄されたため [`RemoveEventListener`](../removeeventlistener/) メソッドで削除する必要もありません。
 
-### 関連項目
+### 参照
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

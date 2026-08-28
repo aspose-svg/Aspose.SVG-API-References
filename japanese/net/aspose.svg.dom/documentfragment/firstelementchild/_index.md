@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.FirstElementChild
-second_title: Aspose.SVG for .NET API リファレンス
-description: DocumentFragment 財産. この要素の最初の子要素ノードを返しますこの要素に子要素がない場合は null.
+title: "DocumentFragment.FirstElementChild"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DocumentFragment FirstElementChild プロパティ。 この要素の最初の子要素ノードを返します。子要素がない場合は null を返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom/documentfragment/firstelementchild/
 ---
 ## DocumentFragment.FirstElementChild property
 
-この要素の最初の子要素ノードを返します。この要素に子要素がない場合は null.
+この要素の最初の子要素ノードを返します。子要素がない場合は null。
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最初の要素の子.
+最初の子要素。
 
-### 関連項目
+### 参照
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* 名前空間 [Aspose.Svg.Dom](../../documentfragment/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

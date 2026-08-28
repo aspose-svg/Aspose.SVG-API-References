@@ -1,23 +1,21 @@
 ---
-title: SVGException.SVG_MATRIX_NOT_INVERTABLE
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGException 分野. 反転できない行列を反転しようとすると発生します.
+title: "SVGException.SVG_MATRIX_NOT_INVERTABLE"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGException SVG_MATRIX_NOT_INVERTABLE フィールド。反転不可能な行列を反転しようとしたときに発生します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg/svgexception/svg_matrix_not_invertable/
 ---
 ## SVGException.SVG_MATRIX_NOT_INVERTABLE field
 
-反転できない行列を反転しようとすると発生します.
+可逆でない行列の逆行列を求めようとしたときにスローされます。
 
 ```csharp
 public const ushort SVG_MATRIX_NOT_INVERTABLE;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGException](../)
-* 名前空間 [Aspose.Svg](../../svgexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

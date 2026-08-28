@@ -1,32 +1,30 @@
 ---
-title: Element.SetAttributeNodeNS
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 方法. 新しい属性を追加しますそのローカル名とその名前空間 URI を持つ属性が要素に既に存在する場合それは新しいものに置き換えられます.
+title: "Element.SetAttributeNodeNS"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element SetAttributeNodeNS メソッド。新しい属性を追加します。そのローカル名と名前空間 URI を持つ属性が要素にすでに存在する場合、新しい属性で置き換えられます。"
 type: docs
 weight: 420
 url: /ja/net/aspose.svg.dom/element/setattributenodens/
 ---
 ## Element.SetAttributeNodeNS method
 
-新しい属性を追加します。そのローカル名とその名前空間 URI を持つ属性が要素に既に存在する場合、それは新しいものに置き換えられます.
+新しい属性を追加します。要素に同じローカル名と名前空間 URI の属性が既に存在する場合、新しい属性で置き換えられます。
 
 ```csharp
 public Attr SetAttributeNodeNS(Attr newAttr)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| newAttr | Attr | 新しい属性。 |
+| newAttr | 属性 | 新しい属性です。 |
 
 ### 戻り値
 
-属性 を返します
+属性を返します
 
-### 関連項目
+### 参照
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

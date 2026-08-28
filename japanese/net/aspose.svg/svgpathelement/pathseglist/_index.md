@@ -1,28 +1,26 @@
 ---
-title: SVGPathElement.PathSegList
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathElement 財産. SVG の構文と 1 対 1 で一致する形式でd 属性の基本 静的 コンテンツへのアクセスを提供します したがってd属性にabsolute moveto Mコマンドとabsolute arcto Aコマンドがある場合pathSegList には SVG_PATHSEG_MOVETO_ABS と SVG_PATHSEG_ARC_ABS の 2 つのエントリが含まれます
+title: "SVGPathElement.PathSegList"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathElement PathSegList プロパティ。d属性の基本的（すなわち静的）な内容へ、SVG の構文と1対1で一致する形でアクセスできるようにします。そのため、d属性に絶対ムーブトゥ M と絶対アーク A コマンドがある場合、pathSegList には SVG_PATHSEG_MOVETO_ABS と SVG_PATHSEG_ARC_ABS の2つのエントリが含まれます"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/svgpathelement/pathseglist/
 ---
 ## SVGPathElement.PathSegList property
 
-SVG の構文と 1 対 1 で一致する形式で、'd' 属性の基本 (静的) コンテンツへのアクセスを提供します。 したがって、「d」属性に「absolute moveto (M)」コマンドと「absolute arcto (A)」コマンドがある場合、pathSegList には SVG_PATHSEG_MOVETO_ABS と SVG_PATHSEG_ARC_ABS の 2 つのエントリが含まれます。
+‘d’ 属性の基本（すなわち静的）内容に、SVG の構文と 1 対 1 に対応する形でアクセスできるようにします。そのため、‘d’ 属性に「絶対 moveto (M)」と「絶対 arcto (A)」コマンドがある場合、pathSegList には 2 つのエントリが含まれます：SVG_PATHSEG_MOVETO_ABS と SVG_PATHSEG_ARC_ABS。
 
 ```csharp
 public SVGPathSegList PathSegList { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-パス セグメント リスト。
+パスセグメントリスト。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

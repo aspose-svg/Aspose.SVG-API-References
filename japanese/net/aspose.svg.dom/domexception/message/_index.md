@@ -1,7 +1,7 @@
 ---
-title: DOMException.Message
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMException 財産. 指定されたエラー名に関連付けられたメッセージまたは説明を表す文字列を返します
+title: "DOMException.Message"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMException Message プロパティ。指定されたエラー名に関連付けられたメッセージまたは説明を表す文字列を返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom/domexception/message/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.dom/domexception/message/
 public override string Message { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-エラーメッセージ.
+エラーメッセージ。
 
-### 関連項目
+### 参照
 
 * class [DOMException](../)
-* 名前空間 [Aspose.Svg.Dom](../../domexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

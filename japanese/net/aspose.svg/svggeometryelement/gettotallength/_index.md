@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetTotalLength
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGGeometryElement 方法. 現在のユーザー座標系での距離としてユーザー エージェントの経路に沿った距離アルゴリズムを使用して経路の全長についてユーザー エージェントが計算した値を返します.
+title: "SVGGeometryElement.GetTotalLength"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGGeometryElement の GetTotalLength メソッドです。ユーザーエージェントがパスの総長さを計算した値を返します。この計算は、ユーザーエージェントのパスに沿った距離アルゴリズムを使用し、現在のユーザー座標系の距離として提供されます。"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.svg/svggeometryelement/gettotallength/
 ---
 ## SVGGeometryElement.GetTotalLength method
 
-現在のユーザー座標系での距離として、ユーザー エージェントの経路に沿った距離アルゴリズムを使用して、経路の全長についてユーザー エージェントが計算した値を返します.
+ユーザーエージェントの distance-along-a-path アルゴリズムを使用して、現在のユーザー座標系での距離として、パスの総長さの計算値を返します。
 
 ```csharp
 public float GetTotalLength()
@@ -16,12 +16,10 @@ public float GetTotalLength()
 
 ### 戻り値
 
-パスの全長。
+パスの総長さです。
 
-### 関連項目
+### 参照
 
 * class [SVGGeometryElement](../)
-* 名前空間 [Aspose.Svg](../../svggeometryelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

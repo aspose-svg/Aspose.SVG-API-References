@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetRectValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 方法. このメソッドはRect 値を取得するために使用されますこの CSS 値に rect 値が含まれていない場合DOMException が発生します Rect インターフェイスを使用して対応するスタイル プロパティを変更できます
+title: "CSSPrimitiveValue.GetRectValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue GetRectValue メソッド。このメソッドは Rect 値を取得するために使用されます。この CSS 値に rect 値が含まれていない場合、DOMException が発生します。対応するスタイルプロパティの変更は Rect インターフェイスを使用して行うことができます。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/getrectvalue/
 ---
 ## CSSPrimitiveValue.GetRectValue method
 
-このメソッドは、Rect 値を取得するために使用されます。この CSS 値に rect 値が含まれていない場合、DOMException が発生します。 Rect インターフェイスを使用して、対応するスタイル プロパティを変更できます。
+このメソッドは Rect 値を取得するために使用されます。この CSS 値に Rect 値が含まれていない場合、DOMException がスローされます。対応するスタイルプロパティの変更は Rect インターフェイスを使用して行うことができます。
 
 ```csharp
 public abstract Rect GetRectValue()
@@ -18,11 +18,9 @@ public abstract Rect GetRectValue()
 
 Rect 値を返します
 
-### 関連項目
+### 参照
 
 * class [Rect](../../rect/)
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

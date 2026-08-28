@@ -1,27 +1,25 @@
 ---
-title: IWindowTimers.ClearTimeout
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindowTimers 方法. handle. で識別される setTimeout で設定されたタイムアウトをキャンセルします
+title: "IWindowEventHandlers.OnAfterPrint"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindowEventHandlers OnAfterPrint イベント。イベントハンドラを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.window/iwindowtimers/cleartimeout/
 ---
 ## IWindowTimers.ClearTimeout method
 
-handle. で識別される setTimeout() で設定されたタイムアウトをキャンセルします。
+handle によって識別される setTimeout() で設定されたタイムアウトをキャンセルします。
 
 ```csharp
 public void ClearTimeout(int handle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| handle | Int32 | ハンドル。 |
+| handle | Int32 | ハンドルです。 |
 
-### 関連項目
+### 参照
 
 * interface [IWindowTimers](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindowtimers/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

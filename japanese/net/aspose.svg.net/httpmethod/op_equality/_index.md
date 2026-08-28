@@ -1,32 +1,30 @@
 ---
-title: HttpMethod.op_Equality
-second_title: Aspose.SVG for .NET API リファレンス
-description: HttpMethod 方法. 等値演算子を実装します
+title: "HttpMethod.op_Equality"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "HttpMethod op_Equality メソッド。等価演算子を実装します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.net/httpmethod/op_equality/
 ---
 ## HttpMethod Equality operator
 
-等値演算子を実装します。
+等価演算子を実装します。
 
 ```csharp
 public static bool operator ==(HttpMethod left, HttpMethod right)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| left | HttpMethod | 左オペランド。 |
-| right | HttpMethod | 左オペランド。 |
+| left | HttpMethod | 左オペランドです。 |
+| right | HttpMethod | 左オペランドです。 |
 
 ### 戻り値
 
-操作の結果。
+操作の結果です。
 
-### 関連項目
+### 参照
 
 * class [HttpMethod](../)
-* 名前空間 [Aspose.Svg.Net](../../httpmethod/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

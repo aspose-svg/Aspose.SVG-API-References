@@ -1,33 +1,31 @@
 ---
-title: Document.ImportNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 元のドキュメントからソース ノードを変更または削除せずに別のドキュメントからこのドキュメントにノードをインポートしますこのメソッドはソース ノードの新しいコピーを作成します
+title: "Document.ImportNode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document ImportNode メソッド。元のドキュメントからソースノードを変更または削除せずに、別のドキュメントからこのドキュメントへノードをインポートします。このメソッドはソースノードの新しいコピーを作成します。"
 type: docs
 weight: 1000
 url: /ja/net/aspose.svg.dom/document/importnode/
 ---
 ## Document.ImportNode method
 
-元のドキュメントからソース ノードを変更または削除せずに、別のドキュメントからこのドキュメントにノードをインポートします。このメソッドは、ソース ノードの新しいコピーを作成します。
+別のドキュメントからノードをこのドキュメントにインポートしますが、元のドキュメントのソースノードは変更または削除されません。このメソッドはソースノードの新しいコピーを作成します。
 
 ```csharp
 public Node ImportNode(Node importedNode, bool deep)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| importedNode | Node | インポートされたノード。 |
-| deep | Boolean | に設定した場合`真実`[深い]。 |
+| importedNode | ノード | インポートされたノードです。 |
+| 深い | Boolean | `true` に設定された場合 [deep]。 |
 
 ### 戻り値
 
-[`Node`](../../node/) .
+[`Node`](../../node/)です。
 
-### 関連項目
+### 参照
 
 * class [Node](../../node/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

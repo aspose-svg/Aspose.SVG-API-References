@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSCounterStyleRule
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.ICSSCounterStyleRule インターフェース. counterstyle ルールにより作成者はカスタム カウンター スタイルを定義できます
+title: "ICSSCounterStyleRule インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.ICSSCounterStyleRule インターフェイス。カウンタースタイルルールは、作者がカスタムカウンタースタイルを定義できるようにします。"
 type: docs
-weight: 540
+weight: 2540
 url: /ja/net/aspose.svg.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface
 
-@counter-style ルールにより、作成者はカスタム カウンター スタイルを定義できます。
+@counter-style ルールは、作者がカスタムカウンタースタイルを定義できるようにします。
 
 ```csharp
 public interface ICSSCounterStyleRule : ICSSRule
@@ -25,10 +25,8 @@ public interface ICSSCounterStyleRule : ICSSRule
 | [Prefix](../../aspose.svg.dom.css/icsscounterstylerule/prefix/) { get; } | プレフィックスを取得します。 |
 | [Suffix](../../aspose.svg.dom.css/icsscounterstylerule/suffix/) { get; } | サフィックスを取得します。 |
 
-### 関連項目
+### 参照
 
 * interface [ICSSRule](../icssrule/)
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

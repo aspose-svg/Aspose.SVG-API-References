@@ -1,23 +1,21 @@
 ---
-title: DOMObjectAttribute.DOMObjectAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMObjectAttribute コンストラクタ. デフォルトのコンストラクター
+title: "DOMObjectAttribute"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMObjectAttribute コンストラクタ。デフォルトコンストラクタ。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.attributes/domobjectattribute/domobjectattribute/
 ---
 ## DOMObjectAttribute constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public DOMObjectAttribute()
 ```
 
-### 関連項目
+### 参照
 
 * class [DOMObjectAttribute](../)
-* 名前空間 [Aspose.Svg.Dom.Attributes](../../domobjectattribute/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

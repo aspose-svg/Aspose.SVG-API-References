@@ -1,27 +1,27 @@
 ---
-title: CSSValue.CSSText
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSValue 財産. 現在の値の文字列表現.
+title: "CSSValue.CSSText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSValue CSSText プロパティ。CSSValue インターフェイスの CSSText プロパティは、現在の計算済み CSS プロパティ値を表します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
 
-現在の値の文字列表現.
+[`CSSValue`](../) インターフェイスの CSSText プロパティは、現在の計算済み CSS プロパティ値を表します。
+
+注: このプロパティは、型付けされた CSS オブジェクトモデルを作成しようとした試みの一部でした。この試みは中止され、ほとんどのブラウザーは実装していません。
 
 ```csharp
 public abstract string CSSText { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-CSS テキスト。
+現在の CSS プロパティ値を表す DOMString。
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

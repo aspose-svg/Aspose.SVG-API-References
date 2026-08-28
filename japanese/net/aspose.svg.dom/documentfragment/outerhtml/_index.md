@@ -1,27 +1,25 @@
 ---
-title: DocumentFragment.OuterHTML
-second_title: Aspose.SVG for .NET API リファレンス
-description: DocumentFragment 財産. 要素とそのコンテンツを表す HTML または XML のフラグメントを返します 設定して指定された文字列から解析されたノードで要素を置き換えることができます
+title: "DocumentFragment.OuterHTML"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DocumentFragment OuterHTML プロパティ。 要素とその内容を表す HTML または XML のフラグメントを返します。指定された文字列から解析されたノードで要素を置き換えるように設定できます。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom/documentfragment/outerhtml/
 ---
 ## DocumentFragment.OuterHTML property
 
-要素とそのコンテンツを表す HTML または XML のフラグメントを返します。 設定して、指定された文字列から解析されたノードで要素を置き換えることができます。
+要素とその内容を表す HTML または XML のフラグメントを返します。設定可能で、指定された文字列から解析されたノードで要素自体を置き換えることができます。
 
 ```csharp
 public string OuterHTML { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-外側の HTML.
+外側の HTML。
 
-### 関連項目
+### 参照
 
 * class [DocumentFragment](../)
-* 名前空間 [Aspose.Svg.Dom](../../documentfragment/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: IWindow.Location
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 財産. Window インターフェイスの location 属性はその Window オブジェクトの Document. の Location オブジェクトを返す必要があります
+title: "IWindow.Location"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Location プロパティ。Window インターフェイスの location 属性は、その Window オブジェクトの Document に対応する Location オブジェクトを返す必要があります。"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.svg.window/iwindow/location/
 ---
 ## IWindow.Location property
 
-Window インターフェイスの location 属性は、その Window オブジェクトの Document. の Location オブジェクトを返す必要があります。
+Window インターフェイスの location 属性は、その Window オブジェクトの Document に対する Location オブジェクトを返す必要があります。
 
 ```csharp
 public Location Location { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-場所.
+位置。
 
-### 関連項目
+### 参照
 
 * class [Location](../../location/)
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface ITransformableBrush
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Drawing.ITransformableBrush インターフェース. 変換行列とラップ モードを取得するためのメソッドを宣言します
+title: "ITransformableBrush インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Drawing.ITransformableBrush interface. 変換行列とラップモードを取得するためのメソッドを宣言します。"
 type: docs
-weight: 1500
+weight: 3530
 url: /ja/net/aspose.svg.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface
 
-変換行列とラップ モードを取得するためのメソッドを宣言します。
+変換行列とラップモードを取得するメソッドを宣言します。
 
 ```csharp
 public interface ITransformableBrush : IBrush
@@ -18,13 +18,11 @@ public interface ITransformableBrush : IBrush
 
 | 名前 | 説明 |
 | --- | --- |
-| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; } | 変換を取得します。トランスフォームは、このブラシのローカル ジオメトリック トランスフォームを定義します。 |
-| [WrapMode](../../aspose.svg.drawing/itransformablebrush/wrapmode/) { get; } | ラップ モードを取得または設定します。ラップ モードは、塗りつぶされる領域よりも小さい場合に、テクスチャまたはグラデーションを tiled にする方法を指定します. |
+| [SpreadMode](../../aspose.svg.drawing/itransformablebrush/spreadmode/) { get; set; } | SpreadMode モードを取得または設定します。SpreadMode モードは、テクスチャまたはグラデーションが塗りつぶし領域より小さい場合のタイル配置方法を指定します。 |
+| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; set; } | 変換を取得します。この変換はこのブラシのローカル幾何変換を定義します。 |
 
-### 関連項目
+### 参照
 
 * interface [IBrush](../ibrush/)
-* 名前空間 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

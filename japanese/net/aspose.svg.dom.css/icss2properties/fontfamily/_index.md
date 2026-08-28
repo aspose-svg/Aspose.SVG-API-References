@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontFamily
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の fontfamily プロパティ定義を参照してください
+title: "ICSS2Properties.FontFamily"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties FontFamily プロパティ。CSS2 の font-family プロパティ定義をご覧ください"
 type: docs
 weight: 480
 url: /ja/net/aspose.svg.dom.css/icss2properties/fontfamily/
 ---
 ## ICSS2Properties.FontFamily property
 
-CSS2 の font-family プロパティ定義を参照してください。
+CSS2 の font-family プロパティの定義をご覧ください。
 
 ```csharp
 public string FontFamily { get; set; }
@@ -18,10 +18,8 @@ public string FontFamily { get; set; }
 
 font-family プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

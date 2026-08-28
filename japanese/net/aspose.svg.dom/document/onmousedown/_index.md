@@ -1,24 +1,22 @@
 ---
-title: Document.OnMouseDown
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document イベント. OnMouseDown イベントのイベント ハンドラーを取得または設定します
+title: "Document.OnMouseDown"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document OnMouseDown イベント。OnMouseDown イベントのイベントハンドラーを取得または設定します。"
 type: docs
 weight: 510
 url: /ja/net/aspose.svg.dom/document/onmousedown/
 ---
 ## Document.OnMouseDown event
 
-OnMouseDown イベントのイベント ハンドラーを取得または設定します。
+OnMouseDown イベントのハンドラを取得または設定します。
 
 ```csharp
 public event DOMEventHandler OnMouseDown;
 ```
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

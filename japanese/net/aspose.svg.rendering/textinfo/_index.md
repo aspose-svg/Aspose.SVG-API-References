@@ -1,14 +1,14 @@
 ---
-title: Class TextInfo
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.TextInfo クラス. レンダリングされたテキストに関する情報が含まれています.
+title: "TextInfo クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.TextInfo クラス。レンダリングされたテキストに関する情報を含みます。"
 type: docs
-weight: 3040
+weight: 5110
 url: /ja/net/aspose.svg.rendering/textinfo/
 ---
 ## TextInfo class
 
-レンダリングされたテキストに関する情報が含まれています.
+レンダリングされたテキストに関する情報を含みます。
 
 ```csharp
 public class TextInfo
@@ -20,9 +20,7 @@ public class TextInfo
 | --- | --- |
 | [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | レンダリングされたグリフに関する情報を取得します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

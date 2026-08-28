@@ -1,14 +1,14 @@
 ---
-title: Content.ReadAsString
-second_title: Aspose.SVG for .NET API リファレンス
-description: Content 方法. HTTP コンテンツをシリアル化しコンテンツを表す文字列を返します
+title: "Content.ReadAsString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Content ReadAsString メソッド。HTTP コンテンツをシリアライズし、コンテンツを表す文字列を返します"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.net/content/readasstring/
 ---
 ## Content.ReadAsString method
 
-HTTP コンテンツをシリアル化し、コンテンツを表す文字列を返します。
+HTTP コンテンツをシリアライズし、コンテンツを表す文字列を返します。
 
 ```csharp
 public string ReadAsString()
@@ -16,12 +16,10 @@ public string ReadAsString()
 
 ### 戻り値
 
-コンテンツを表すシリアル化された文字列
+コンテンツを表すシリアライズされた文字列
 
-### 関連項目
+### 参照
 
 * class [Content](../)
-* 名前空間 [Aspose.Svg.Net](../../content/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

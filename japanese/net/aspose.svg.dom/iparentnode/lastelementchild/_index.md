@@ -1,28 +1,26 @@
 ---
-title: IParentNode.LastElementChild
-second_title: Aspose.SVG for .NET API リファレンス
-description: IParentNode 財産. 要素である最後の子を返しそれ以外の場合は null.
+title: "IParentNode.LastElementChild"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IParentNode LastElementChild プロパティ。要素である最後の子を返し、そうでなければ null を返します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom/iparentnode/lastelementchild/
 ---
 ## IParentNode.LastElementChild property
 
-要素である最後の子を返し、それ以外の場合は null.
+要素である最後の子を返し、そうでない場合は null を返します。
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最後の要素の子.
+最後の子要素。
 
-### 関連項目
+### 参照
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* 名前空間 [Aspose.Svg.Dom](../../iparentnode/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Network
-second_title: Aspose.SVG for .NET API リファレンス
-description: IBrowsingContext 財産. ネットワーク サービスを取得します
+title: "IBrowsingContext.Network"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IB BrowsingContext Network プロパティ。ネットワークサービスを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom/ibrowsingcontext/network/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.dom/ibrowsingcontext/network/
 public INetwork Network { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ネットワーク サービス。
+ネットワークサービスです。
 
-### 関連項目
+### 参照
 
 * interface [INetwork](../../../aspose.svg.net/inetwork/)
 * interface [IBrowsingContext](../)
-* 名前空間 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

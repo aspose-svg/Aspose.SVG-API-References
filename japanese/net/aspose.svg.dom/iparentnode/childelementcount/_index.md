@@ -1,27 +1,25 @@
 ---
-title: IParentNode.ChildElementCount
-second_title: Aspose.SVG for .NET API リファレンス
-description: IParentNode 財産. childElementCount 属性は要素であるコンテキスト オブジェクトの子の数を返す必要があります
+title: "IParentNode.ChildElementCount"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IParentNode ChildElementCount プロパティ。childElementCount 属性は、コンテキストオブジェクトの子要素のうち要素であるものの数を返す必要があります。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom/iparentnode/childelementcount/
 ---
 ## IParentNode.ChildElementCount property
 
-childElementCount 属性は、要素であるコンテキスト オブジェクトの子の数を返す必要があります。
+childElementCount 属性は、コンテキストオブジェクトの子要素である要素の数を返す必要があります。
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-子要素の数.
+子要素の数です。
 
-### 関連項目
+### 参照
 
 * interface [IParentNode](../)
-* 名前空間 [Aspose.Svg.Dom](../../iparentnode/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

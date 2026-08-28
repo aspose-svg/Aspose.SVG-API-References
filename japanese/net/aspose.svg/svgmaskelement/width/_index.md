@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.Width
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMaskElement 財産. 指定されたマスク要素の属性幅に対応します SVGUnitTypes. で定義された定数の 1 つを取ります
+title: "SVGMaskElement.Width"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMaskElement Width プロパティ。指定されたマスク要素の属性 width に対応します。SVGUnitTypes で定義された定数のいずれかを取ります。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg/svgmaskelement/width/
 ---
 ## SVGMaskElement.Width property
 
-指定された「マスク」要素の属性「幅」に対応します。 SVGUnitTypes. で定義された定数の 1 つを取ります
+指定された ‘mask’ 要素の属性 ‘width’ に対応します。SVGUnitTypes で定義された定数のいずれかを取ります。
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「マスク」要素の属性「幅」。
+指定された ‘mask’ 要素の属性 ‘width’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* 名前空間 [Aspose.Svg](../../svgmaskelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

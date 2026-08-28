@@ -1,27 +1,25 @@
 ---
-title: Document.ContentType
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. ドキュメントのコンテンツ タイプを取得します
+title: "Document.ContentType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document ContentType プロパティ。ドキュメントのコンテンツタイプを取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom/document/contenttype/
 ---
 ## Document.ContentType property
 
-ドキュメントのコンテンツ タイプを取得します。
+ドキュメントのコンテンツタイプを取得します。
 
 ```csharp
 public string ContentType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-コンテンツのタイプ。
+コンテンツのタイプです。
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

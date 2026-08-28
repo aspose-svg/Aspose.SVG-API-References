@@ -1,27 +1,25 @@
 ---
-title: Document.XmlVersion
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. XML 宣言の一部としてこのドキュメントのバージョン番号を指定する属性宣言がなくこのドキュメントがXML機能をサポートしている場合値は1.0ですこのドキュメントがXML機能をサポートしていない場合値は常に null. です
+title: "Document.XmlVersion"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document XmlVersion プロパティ。XML 宣言の一部としてこの文書のバージョン番号を指定する属性です。宣言がなく、かつこの文書が XML 機能をサポートしている場合、値は 1.0 です。この文書が XML 機能をサポートしていない場合、値は常に null です。"
 type: docs
 weight: 270
 url: /ja/net/aspose.svg.dom/document/xmlversion/
 ---
 ## Document.XmlVersion property
 
-XML 宣言の一部として、このドキュメントのバージョン番号を指定する属性。宣言がなく、このドキュメントが「XML」機能をサポートしている場合、値は「1.0」です。このドキュメントが「XML」機能をサポートしていない場合、値は常に null. です。
+XML 宣言の一部として、この文書のバージョン番号を指定する属性です。宣言がなく、かつこの文書が "XML" 機能をサポートしている場合、値は "1.0" です。この文書が "XML" 機能をサポートしていない場合、値は常に null です。
 
 ```csharp
 public string XmlVersion { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-XML バージョン。
+XML バージョンです。
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,48 +1,46 @@
 ---
-title: MutationObserverInit.Add
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 方法. に要素を追加しますMutationObserverInitコレクション.
+title: "MutationObserverInit.Add"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit Add メソッド。MutationObserverInit コレクションに要素を追加します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/add/
 ---
-## Add(KeyValuePair&lt;string, object&gt;) {#add}
+## Add(*KeyValuePair&lt;string, object&gt;*) {#add}
 
-に要素を追加します[`MutationObserverInit`](../)コレクション.
+[`MutationObserverInit`](../) コレクションに要素を追加します。
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 追加するアイテム。 |
+| item | KeyValuePair`2 | 追加する項目。 |
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(string, object) {#add_1}
+## Add(*string, object*) {#add_1}
 
-指定されたキーと値を[`MutationObserverInit`](../)コレクション.
+指定されたキーと値を [`MutationObserverInit`](../) コレクションに追加します。
 
 ```csharp
 public void Add(string key, object value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| key | String | 追加する要素のキー。 |
-| value | Object | 追加する要素の値。 |
+| キー | String | 追加する要素のキー。 |
+| value | オブジェクト | 追加する要素の値。 |
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

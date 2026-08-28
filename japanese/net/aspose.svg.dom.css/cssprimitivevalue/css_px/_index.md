@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_PX
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値は長さ px です値は getFloatValue メソッドを使用して取得できます
+title: "CSSPrimitiveValue.CSS_PX"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_PX フィールド。値は単位 px の長さです。値は getFloatValue メソッドを使用して取得できます。"
 type: docs
-weight: 330
+weight: 340
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_px/
 ---
 ## CSSPrimitiveValue.CSS_PX field
 
-値は長さ (px) です。値は getFloatValue メソッドを使用して取得できます。
+この値は長さ（px）です。 この値は getFloatValue メソッドを使用して取得できます。
 
 ```csharp
 public const ushort CSS_PX;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

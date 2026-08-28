@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.RequiredFeatures
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMaskElement 財産. 指定された要素の属性requiredFeaturesに対応します
+title: "SVGMaskElement.RequiredFeatures"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMaskElement RequiredFeatures プロパティ。指定された要素の属性 requiredFeatures に対応します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg/svgmaskelement/requiredfeatures/
 ---
 ## SVGMaskElement.RequiredFeatures property
 
-指定された要素の属性「requiredFeatures」に対応します。
+指定された要素の属性 ‘requiredFeatures’ に対応します。
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-必要な機能.
+必要な機能。
 
-### 関連項目
+### 参照
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGMaskElement](../)
-* 名前空間 [Aspose.Svg](../../svgmaskelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

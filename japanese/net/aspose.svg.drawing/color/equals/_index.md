@@ -1,31 +1,29 @@
 ---
-title: Color.Equals
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 指定されたColorこのインスタンスと等しい.
+title: "Color.Equals"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color Equals メソッド。指定された Color がこのインスタンスと等しいかどうかを判定します。"
 type: docs
 weight: 300
 url: /ja/net/aspose.svg.drawing/color/equals/
 ---
 ## Color.Equals method
 
-指定された[`Color`](../)このインスタンスと等しい.
+指定された [`Color`](../) がこのインスタンスと等しいかどうかを判定します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | オブジェクト | このインスタンスと比較するオブジェクトです。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い`.
+指定されたオブジェクトがこのインスタンスと等しい場合は `true`、そうでない場合は `false` です。
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

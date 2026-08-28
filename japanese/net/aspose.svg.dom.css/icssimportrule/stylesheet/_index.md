@@ -1,24 +1,22 @@
 ---
-title: ICSSImportRule.StyleSheet
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSImportRule 財産. ロードされている場合このルールによって参照されるスタイル シートスタイル シートがまだ読み込まれていない場合または読み込まれない場合 たとえばスタイル シートがユーザー エージェントによってサポートされていないメディア タイプ用である場合この属性の値は null です
+title: "ICSSImportRule.StyleSheet"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSImportRule StyleSheet property. このルールが参照するスタイルシート（ロード済みの場合）。スタイルシートがまだロードされていない、またはユーザーエージェントがサポートしないメディアタイプ用の場合など、ロードされない場合はこの属性の値は null です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.css/icssimportrule/stylesheet/
 ---
 ## ICSSImportRule.StyleSheet property
 
-ロードされている場合、このルールによって参照されるスタイル シート。スタイル シートがまだ読み込まれていない場合、または読み込まれない場合 (たとえば、スタイル シートがユーザー エージェントによってサポートされていないメディア タイプ用である場合)、この属性の値は null です。
+このルールが参照するスタイルシートです（ロード済みの場合）。スタイルシートがまだロードされていない、またはロードされない場合（例：ユーザーエージェントがサポートしないメディアタイプ用の場合）、この属性の値は null になります。
 
 ```csharp
 public ICSSStyleSheet StyleSheet { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSImportRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssimportrule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

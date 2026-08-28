@@ -1,23 +1,21 @@
 ---
-title: Color.Green
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 財産. 色の緑の成分を表します.
+title: "Color.Green"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color Green プロパティ。色の緑成分を表します"
 type: docs
 weight: 260
 url: /ja/net/aspose.svg.drawing/color/green/
 ---
 ## Color.Green property
 
-色の緑の成分を表します.
+カラーの緑成分を表します。
 
 ```csharp
 public float Green { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

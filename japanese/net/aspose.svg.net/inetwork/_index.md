@@ -1,14 +1,14 @@
 ---
-title: Interface INetwork
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.INetwork インターフェース. ネットワーク サービスのインターフェイスを提供します
+title: "INetwork インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.INetwork インターフェイス。ネットワーク サービスのためのインターフェイスを提供します"
 type: docs
-weight: 2300
+weight: 4370
 url: /ja/net/aspose.svg.net/inetwork/
 ---
 ## INetwork interface
 
-ネットワーク サービスのインターフェイスを提供します。
+ネットワーク サービス用のインターフェイスを提供します。
 
 ```csharp
 public interface INetwork : IDisposable
@@ -18,11 +18,9 @@ public interface INetwork : IDisposable
 
 | 名前 | 説明 |
 | --- | --- |
-| [Send](../../aspose.svg.net/inetwork/send/)(RequestMessage) | 送信[`RequestMessage`](../requestmessage/)message. |
+| [Send](../../aspose.svg.net/inetwork/send/)(*[RequestMessage](../requestmessage/)*) | [`RequestMessage`](../requestmessage/) メッセージを送信します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

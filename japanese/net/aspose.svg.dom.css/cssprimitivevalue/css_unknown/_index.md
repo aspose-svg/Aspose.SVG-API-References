@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_UNKNOWN
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値は認識された CSS2 値ではありませんこの値はcssText 属性を使用してのみ取得できます
+title: "CSSPrimitiveValue.CSS_UNKNOWN"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_UNKNOWN フィールド。値は認識された CSS2 の値ではありません。値は cssText 属性を使用してのみ取得できます。"
 type: docs
-weight: 400
+weight: 410
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_unknown/
 ---
 ## CSSPrimitiveValue.CSS_UNKNOWN field
 
-値は認識された CSS2 値ではありません。この値は、cssText 属性を使用してのみ取得できます。
+この値は認識された CSS2 の値ではありません。cssText 属性を使用してのみ取得できます。
 
 ```csharp
 public const ushort CSS_UNKNOWN;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: RequestMessage.PreAuthenticate
-second_title: Aspose.SVG for .NET API リファレンス
-description: RequestMessage 財産. 要求と共に Authorization ヘッダーを送信するかどうかを示す値を取得または設定します
+title: "RequestMessage.PreAuthenticate"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "RequestMessage PreAuthenticate プロパティ。リクエストに Authorization ヘッダーを送信するかどうかを示す値を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.net/requestmessage/preauthenticate/
 ---
 ## RequestMessage.PreAuthenticate property
 
-要求と共に Authorization ヘッダーを送信するかどうかを示す値を取得または設定します。
+リクエストに Authorization ヘッダーを送信するかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool PreAuthenticate { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`認証が行われた後、リクエストとともに HTTP Authorization ヘッダーを送信します。さもないと、`間違い` .デフォルトは`間違い` .
+`true` は認証が完了した後のリクエストに HTTP Authorization ヘッダーを送信します。`false` の場合は送信しません。デフォルトは `false` です。
 
-### 関連項目
+### 参照
 
 * class [RequestMessage](../)
-* 名前空間 [Aspose.Svg.Net](../../requestmessage/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

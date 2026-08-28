@@ -1,23 +1,21 @@
 ---
-title: SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMarkerElement 分野. 属性markerUnitsの値はstrokeWidthです
+title: "SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMarkerElement SVG_MARKERUNITS_STROKEWIDTH フィールド。属性 markerUnits の値は strokeWidth です。"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg/svgmarkerelement/svg_markerunits_strokewidth/
 ---
 ## SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH field
 
-属性「markerUnits」の値は「strokeWidth」です。
+属性 ‘markerUnits’ の値は 'strokeWidth' です。
 
 ```csharp
 public const ushort SVG_MARKERUNITS_STROKEWIDTH;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGMarkerElement](../)
-* 名前空間 [Aspose.Svg](../../svgmarkerelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: ImageVectorizer.Configuration
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageVectorizer 財産. 画像のベクトル化方法とオプションの設定
+title: "ImageVectorizer.Configuration"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageVectorizer Configuration プロパティ。画像ベクトル化メソッドとオプションの構成です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.imagevectorization/imagevectorizer/configuration/
 ---
 ## ImageVectorizer.Configuration property
 
-画像のベクトル化方法とオプションの設定
+画像ベクトル化のメソッドとオプションの構成
 
 ```csharp
 public ImageVectorizerConfiguration Configuration { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)
 * class [ImageVectorizer](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

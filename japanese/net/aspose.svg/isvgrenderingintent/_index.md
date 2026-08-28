@@ -1,22 +1,20 @@
 ---
-title: Interface ISVGRenderingIntent
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ISVGRenderingIntent インターフェース. SVGRenderingIntent インターフェイスはrenderingintent 属性または記述子の可能な値の列挙リストを定義します.
+title: "ISVGRenderingIntent インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ISVGRenderingIntent インターフェイス。SVGRenderingIntent インターフェイスは、rendering-intent 属性またはディスクリプタの可能な値の列挙リストを定義します。"
 type: docs
-weight: 2020
+weight: 4090
 url: /ja/net/aspose.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface
 
-SVGRenderingIntent インターフェイスは、'rendering-intent' 属性または記述子の可能な値の列挙リストを定義します.
+SVGRenderingIntent インターフェイスは ‘rendering-intent’ 属性または記述子の可能な値の列挙リストを定義します。
 
 ```csharp
 public interface ISVGRenderingIntent
 ```
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg](../../aspose.svg/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

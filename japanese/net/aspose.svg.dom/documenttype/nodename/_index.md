@@ -1,27 +1,25 @@
 ---
-title: DocumentType.NodeName
-second_title: Aspose.SVG for .NET API リファレンス
-description: DocumentType 財産. タイプに応じたこのノードの名前.
+title: "DocumentType.NodeName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DocumentType NodeName property. このノードのタイプに応じた名前です。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom/documenttype/nodename/
 ---
 ## DocumentType.NodeName property
 
-タイプに応じたこのノードの名前.
+このノードの名前（タイプに応じて）。
 
 ```csharp
 public override string NodeName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 ノードの名前。
 
-### 関連項目
+### 参照
 
 * class [DocumentType](../)
-* 名前空間 [Aspose.Svg.Dom](../../documenttype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

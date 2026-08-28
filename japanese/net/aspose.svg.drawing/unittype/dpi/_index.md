@@ -1,23 +1,21 @@
 ---
-title: UnitType.Dpi
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 測定値は 1 インチあたりのドット数です
+title: "UnitType.Dpi"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Dpi フィールド。測定はドット毎インチです。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.drawing/unittype/dpi/
 ---
 ## UnitType.Dpi field
 
-測定値は 1 インチあたりのドット数です。
+測定はインチあたりのドット数です。
 
 ```csharp
 public static readonly UnitType Dpi;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

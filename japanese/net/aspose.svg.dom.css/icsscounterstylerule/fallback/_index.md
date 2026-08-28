@@ -1,7 +1,7 @@
 ---
-title: ICSSCounterStyleRule.Fallback
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSCounterStyleRule 財産. フォールバックを取得します
+title: "ICSSCounterStyleRule.Fallback"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSCounterStyleRule Fallback プロパティ。フォールバックを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/icsscounterstylerule/fallback/
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.dom.css/icsscounterstylerule/fallback/
 public string Fallback { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSCounterStyleRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

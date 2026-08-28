@@ -1,27 +1,25 @@
 ---
-title: Document.WriteLn
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. open によって開かれた document ストリームにテキストの文字列とそれに続く改行文字を書き込みます関数 will は必ずしも DTD によって駆動されるとは限らないドキュメントを生成し は document のコンテキストで無効な結果を生成する可能性があることに注意してください
+title: "Document.WriteLn"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document WriteLn メソッド。文字列テキストの後に改行文字を付加して、open で開かれたドキュメントストリームに書き込みます。なお、この関数は必ずしも DTD によって制御されるドキュメントを生成するわけではなく、ドキュメントのコンテキストでは無効な結果になる可能性があります。"
 type: docs
-weight: 1060
+weight: 1070
 url: /ja/net/aspose.svg.dom/document/writeln/
 ---
 ## Document.WriteLn method
 
-open() によって開かれた document ストリームに、テキストの文字列とそれに続く改行文字を書き込みます。関数 will は、必ずしも DTD によって駆動されるとは限らないドキュメントを生成し、 は、 document のコンテキストで無効な結果を生成する可能性があることに注意してください。
+open() で開かれたドキュメントストリームにテキスト文字列と改行文字を書き込みます。なお、この関数は必ずしも DTD に従って生成されるわけではなく、ドキュメントのコンテキストでは無効な結果になる可能性があります。
 
 ```csharp
 public void WriteLn(params string[] texts)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| texts | String[] | 文書構造モデルの構造に解析される文字列。 |
+| テキスト | String[] | ドキュメント構造モデル内の構造に解析される文字列です。 |
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

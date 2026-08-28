@@ -1,9 +1,9 @@
 ---
-title: Class ContentDispositionHeaderValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.Headers.ContentDispositionHeaderValue クラス. ContentDisposition ヘッダー値を表します
+title: "ContentDispositionHeaderValue クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.Headers.ContentDispositionHeaderValue クラス。Content-Disposition ヘッダー値を表します"
 type: docs
-weight: 2260
+weight: 4330
 url: /ja/net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
@@ -14,31 +14,29 @@ Content-Disposition ヘッダー値を表します。
 public class ContentDispositionHeaderValue
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(string) | この処分タイプの新しいインスタンスを作成します. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | このディスポジションタイプの新しいインスタンスを作成します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | 処理タイプの取得または設定 type |
-| [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | 保存されたファイルの名前. |
-| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | コンテンツの本文部分の名前。 |
-| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | パラメータのコレクションを取得 |
+| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | ディスポジションタイプを取得または設定します |
+| [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | 保存されたファイルの名前です。 |
+| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | コンテンツ本文パートの名前です。 |
+| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | パラメーターのコレクションを取得します |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(object) | 指定されたObjectこのインスタンスと等しい. |
-| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(*object*) | 指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。 |
+| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | このインスタンスを表す String を返します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

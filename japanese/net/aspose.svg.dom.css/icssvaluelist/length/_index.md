@@ -1,23 +1,21 @@
 ---
-title: ICSSValueList.Length
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSValueList 財産. リスト内の CSSValues の数
+title: "ICSSValueList Length"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSValueList Length プロパティ。リスト内の CSSValue の数です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/icssvaluelist/length/
 ---
 ## ICSSValueList.Length property
 
-リスト内の CSSValues の数。
+リスト内の CSSValue の数です。
 
 ```csharp
 public int Length { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSValueList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssvaluelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

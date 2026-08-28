@@ -1,14 +1,14 @@
 ---
-title: Content.ReadAsStream
-second_title: Aspose.SVG for .NET API リファレンス
-description: Content 方法. HTTP コンテンツをシリアル化しコンテンツを表すストリームを返します
+title: "Content.ReadAsStream"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Content ReadAsStream メソッド。HTTP コンテンツをシリアライズし、コンテンツを表すストリームを返します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.net/content/readasstream/
 ---
 ## Content.ReadAsStream method
 
-HTTP コンテンツをシリアル化し、コンテンツを表すストリームを返します。
+HTTP コンテンツをシリアライズし、コンテンツを表すストリームを返します。
 
 ```csharp
 public Stream ReadAsStream()
@@ -16,12 +16,10 @@ public Stream ReadAsStream()
 
 ### 戻り値
 
-コンテンツを表すシリアル化されたストリーム
+コンテンツを表すシリアライズされたストリーム
 
-### 関連項目
+### 参照
 
 * class [Content](../)
-* 名前空間 [Aspose.Svg.Net](../../content/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

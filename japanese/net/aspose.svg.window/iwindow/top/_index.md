@@ -1,23 +1,21 @@
 ---
-title: IWindow.Top
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 財産. ブラウジング コンテキスト b の Document の Window オブジェクトの最上位の IDL 属性は最上位のブラウジング コンテキストの WindowProxy オブジェクトを返さなければなりません それが最上位のブラウジング コンテキスト自体である場合はそれ自体の WindowProxy オブジェクトになりますそれ以外の場合は1 つまたは独自の WindowProxy オブジェクトがあります たとえば切り離されたネストされたブラウジング コンテキストの場合
+title: "IWindow.Top"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Top プロパティ。Document の Window オブジェクトの top IDL 属性は、閲覧コンテキスト b のトップレベル閲覧コンテキストの WindowProxy オブジェクトを返す必要があります。b がトップレベル閲覧コンテキストであればそれ自身の WindowProxy オブジェクトを、そうでなければ（例：分離された入れ子閲覧コンテキストの場合）自身の WindowProxy オブジェクトを返します。"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.svg.window/iwindow/top/
 ---
 ## IWindow.Top property
 
-ブラウジング コンテキスト b の Document の Window オブジェクトの最上位の IDL 属性は、最上位のブラウジング コンテキストの WindowProxy オブジェクトを返さなければなりません (それが最上位のブラウジング コンテキスト自体である場合は、それ自体の WindowProxy オブジェクトになります)。それ以外の場合は、1 つ、または独自の WindowProxy オブジェクトがあります (たとえば、切り離されたネストされたブラウジング コンテキストの場合)。
+ブラウジングコンテキスト b 内の Document の Window オブジェクトの top IDL 属性は、トップレベルのブラウジングコンテキストが存在する場合（それがトップレベルのブラウジングコンテキストであればその自身の WindowProxy オブジェクトになります）にはその WindowProxy オブジェクトを返し、存在しない場合（例：分離された入れ子ブラウジングコンテキストである場合）には自身の WindowProxy オブジェクトを返さなければなりません。
 
 ```csharp
 public IWindow Top { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class SVGValueType
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.DataTypes.SVGValueType クラス. SVGValueType タイプは基本 SVG 値タイプを表すために使用されます
+title: "SVGValueType クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.DataTypes.SVGValueType クラス。SVGValueType 型は基本的な SVG 値のタイプを表すために使用されます。"
 type: docs
-weight: 340
+weight: 2330
 url: /ja/net/aspose.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class
 
-SVGValueType タイプは、基本 SVG 値タイプを表すために使用されます。
+SVGValueType 型は基本的な SVG 値型を表すために使用されます。
 
 ```csharp
 public abstract class SVGValueType : DOMObject, IDisposable
@@ -18,13 +18,11 @@ public abstract class SVGValueType : DOMObject, IDisposable
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
 
-### 関連項目
+### 参照
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* 名前空間 [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

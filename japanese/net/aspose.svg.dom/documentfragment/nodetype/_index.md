@@ -1,27 +1,25 @@
 ---
-title: DocumentFragment.NodeType
-second_title: Aspose.SVG for .NET API リファレンス
-description: DocumentFragment 財産. 基礎となるオブジェクトのタイプを表すコード.
+title: "DocumentFragment.NodeType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DocumentFragment NodeType プロパティ。 基底オブジェクトのタイプを表すコードです。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom/documentfragment/nodetype/
 ---
 ## DocumentFragment.NodeType property
 
-基礎となるオブジェクトのタイプを表すコード.
+基になるオブジェクトのタイプを表すコード。
 
 ```csharp
 public override ushort NodeType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 ノードのタイプ。
 
-### 関連項目
+### 参照
 
 * class [DocumentFragment](../)
-* 名前空間 [Aspose.Svg.Dom](../../documentfragment/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

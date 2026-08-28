@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnScroll
-second_title: Aspose.SVG for .NET API リファレンス
-description: IGlobalEventHandlers イベント. OnScroll イベントのイベント ハンドラーを取得または設定します
+title: "IGlobalEventHandlers.OnScroll"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IGlobalEventHandlers OnScroll イベント。OnScroll イベントのハンドラを取得または設定します。"
 type: docs
 weight: 390
 url: /ja/net/aspose.svg.dom/iglobaleventhandlers/onscroll/
 ---
 ## IGlobalEventHandlers.OnScroll event
 
-OnScroll イベントのイベント ハンドラーを取得または設定します。
+OnScroll イベントのハンドラを取得または設定します。
 
 ```csharp
 public event DOMEventHandler OnScroll;
 ```
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* 名前空間 [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,31 +1,29 @@
 ---
-title: Color.AddLuminosity
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 明るさとデルタ値の合計で色のコピーを作成します.
+title: "Color.AddLuminosity"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color AddLuminosity メソッド。光度と delta 値の合計を持つ Color のコピーを作成します"
 type: docs
 weight: 280
 url: /ja/net/aspose.svg.drawing/color/addluminosity/
 ---
 ## Color.AddLuminosity method
 
-明るさとデルタ値の合計で色のコピーを作成します.
+Color のコピーを作成し、輝度とデルタ値の合計を持たせます。
 
 ```csharp
 public Color AddLuminosity(float delta)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | delta | Single | 光度の値 |
 
 ### 戻り値
 
-の新しいインスタンス[`Color`](../)クラス
+[`Color`](../) クラスの新しいインスタンスです
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

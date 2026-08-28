@@ -1,135 +1,133 @@
 ---
-title: PdfDevice.PdfDevice
-second_title: Aspose.SVG for .NET API リファレンス
-description: PdfDevice コンストラクタ. の新しいインスタンスを初期化しますPdfDevice class.
+title: "PdfDevice"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PdfDevice コンストラクタ。PdfDevice クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice(ICreateStreamProvider) {#constructor}
+## PdfDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-の新しいインスタンスを初期化します[`PdfDevice`](../) class.
+[`PdfDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | ストリーム プロバイダー。 |
+| streamProvider | ICreateStreamProvider | ストリームプロバイダーです。 |
 
-### 関連項目
+### 参照
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`PdfDevice`](../)レンダリング オプションとストリーム プロバイダーによるクラス.
+レンダリングオプションとストリームプロバイダーを使用して、[`PdfDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | PdfRenderingOptions | レンダリング オプション。 |
-| streamProvider | ICreateStreamProvider | を実装するオブジェクト[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)インターフェース |
+| options | PdfRenderingOptions | レンダリングオプションです。 |
+| streamProvider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) インターフェイスを実装するオブジェクト |
 
-### 関連項目
+### 参照
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(string) {#constructor_5}
+## PdfDevice(*string*) {#constructor_5}
 
-の新しいインスタンスを初期化します[`PdfDevice`](../) class.
+[`PdfDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PdfDevice(string file)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| file | String | 出力ファイル名。 |
+| file | String | 出力ファイル名です。 |
 
-### 関連項目
+### 参照
 
 * class [PdfDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#constructor_3}
 
-の新しいインスタンスを初期化します[`PdfDevice`](../)レンダリング オプションと出力ファイル名によるクラス.
+レンダリングオプションと出力ファイル名を使用して、[`PdfDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | PdfRenderingOptions | レンダリング オプション。 |
-| file | String | 出力ファイル名。 |
+| options | PdfRenderingOptions | レンダリングオプションです。 |
+| file | String | 出力ファイル名です。 |
 
-### 関連項目
+### 参照
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(Stream) {#constructor_4}
+## PdfDevice(*Stream*) {#constructor_4}
 
-の新しいインスタンスを初期化します[`PdfDevice`](../) class.
+[`PdfDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PdfDevice(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ストリーム。 |
+| ストリーム | Stream | ストリームです。 |
 
-### 関連項目
+### 参照
 
 * class [PdfDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`PdfDevice`](../)オプションと出力ストリームをレンダリングすることによるクラス.
+レンダリングオプションと出力ストリームを使用して、[`PdfDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | PdfRenderingOptions | レンダリング オプション。 |
-| stream | Stream | 出力ストリーム。 |
+| options | PdfRenderingOptions | レンダリングオプションです。 |
+| ストリーム | Stream | 出力ストリームです。 |
 
-### 関連項目
+### 参照
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

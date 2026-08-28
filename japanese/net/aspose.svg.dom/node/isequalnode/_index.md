@@ -1,31 +1,29 @@
 ---
-title: Node.IsEqualNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 方法. 2 つのノードが等しいかどうかをテストします このメソッドはNode.isSameNode でテストできる同一性 つまり2 つのノードが同じオブジェクトへの参照であるかどうか ではなくノードの等しいかどうかをテストします逆は真ではないかもしれませんが同じであるすべてのノードも等しくなります.
+title: "Node.IsEqualNode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node IsEqualNode メソッド。2 つのノードが等しいかどうかをテストします。このメソッドはノードの等価性をテストし、同一性（同じオブジェクトへの参照かどうか）は Node.isSameNode でテストできることを意味します。同一であるすべてのノードは等しいですが、逆は必ずしも成り立ちません。"
 type: docs
-weight: 240
+weight: 220
 url: /ja/net/aspose.svg.dom/node/isequalnode/
 ---
 ## Node.IsEqualNode method
 
-2 つのノードが等しいかどうかをテストします。 このメソッドは、Node.isSameNode() でテストできる同一性 (つまり、2 つのノードが同じオブジェクトへの参照であるかどうか) ではなく、ノードの等しいかどうかをテストします。逆は真ではないかもしれませんが、同じであるすべてのノードも等しくなります.
+2つのノードが等しいかどうかをテストします。このメソッドはノードの等価性をテストし、同一性（つまり、2つのノードが同じオブジェクトへの参照であるか）ではありません。同一性は Node.isSameNode() でテストできます。同一のノードはすべて等しくなりますが、逆は必ずしも真ではありません。
 
 ```csharp
 public bool IsEqualNode(Node otherNode)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| otherNode | Node | もう一方のノード。 |
+| otherNode | ノード | 他のノード。 |
 
 ### 戻り値
 
-`真実` if [等しいノード] [指定された引数];さもないと、`間違い` .
+`true` if [is equal node] [the specified arg]; それ以外の場合は `false`。
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

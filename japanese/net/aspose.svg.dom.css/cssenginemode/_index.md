@@ -1,14 +1,14 @@
 ---
-title: Enum CSSEngineMode
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.CSSEngineMode 列挙. CSSEngine モードを指定します
+title: "CSSEngineMode 列挙体"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.CSSEngineMode 列挙体。CSSEngine のモードを指定します。"
 type: docs
-weight: 470
+weight: 2470
 url: /ja/net/aspose.svg.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration
 
-CSSEngine モードを指定します
+CSSEngine モードを指定します。
 
 ```csharp
 [Flags]
@@ -17,14 +17,12 @@ public enum CSSEngineMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Default | `0` | CSS エンジンは通常どおり動作します。 |
-| NotStrict | `1` | CSS パーサーは非厳密モードで動作します。文書化されていないすべてのプロパティが解析され、次の方法でアクセスできます[`ICSSStyleDeclaration`](../icssstyledeclaration/) . |
+| Default | `0` | CSS エンジンは通常通りに動作します。 |
+| NotStrict | `1` | CSS パーサーは非厳密モードで動作します。ドキュメント化されていないすべてのプロパティが解析され、[`ICSSStyleDeclaration`](../icssstyledeclaration/) を通じてアクセス可能になります。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

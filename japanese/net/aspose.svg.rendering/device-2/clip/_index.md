@@ -1,27 +1,26 @@
 ---
-title: Device2.Clip
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. FillMode ルールを使用して塗りつぶす領域を決定し現在のクリッピング パスを現在のパスと交差させて変更します このメソッドは現在のパスを終了します
+title: "Device-2.Clip"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device Clip メソッド。FillRule を使用して現在のパスと交差させ、塗りつぶす領域を決定することで、現在のクリッピング パスを変更します。このメソッドは現在のパスを終了します"
 type: docs
-weight: 70
+weight: 100
 url: /ja/net/aspose.svg.rendering/device-2/clip/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Clip method
+## Device<TGraphicContext,TRenderingOptions>.Clip method
 
-FillMode ルールを使用して塗りつぶす領域を決定し、現在のクリッピング パスを現在のパスと交差させて変更します。 このメソッドは、現在のパスを終了します。
+FillRule を使用して塗りつぶす領域を決定し、現在のパスと交差させて現在のクリッピングパスを変更します。このメソッドは現在のパスを終了します。
 
 ```csharp
-public abstract void Clip(FillMode mode)
+public virtual void Clip(FillRule rule)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| mode | FillMode | 塗りつぶしモードは、閉じたパスの内部をどのように切り取るかを指定します |
+| ルール | FillRule | 塗りつぶしルールは、閉じたパスの内部がどのようにクリップされるかを指定します |
 
-### 関連項目
+### 参照
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

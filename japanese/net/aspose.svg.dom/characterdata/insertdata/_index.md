@@ -1,7 +1,7 @@
 ---
-title: CharacterData.InsertData
-second_title: Aspose.SVG for .NET API リファレンス
-description: CharacterData 方法. 指定された 16 ビット単位のオフセットに文字列を挿入します
+title: "CharacterData.InsertData"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CharacterData InsertData メソッド。指定された 16 ビット単位オフセットに文字列を挿入します"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom/characterdata/insertdata/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.dom/characterdata/insertdata/
 public virtual void InsertData(int offset, string data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| offset | Int32 | オフセット。 |
-| data | String | コンテンツデータ。 |
+| オフセット | Int32 | オフセット。 |
+| データ | String | コンテンツ データ。 |
 
-### 関連項目
+### 参照
 
 * class [CharacterData](../)
-* 名前空間 [Aspose.Svg.Dom](../../characterdata/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

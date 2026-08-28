@@ -1,27 +1,25 @@
 ---
-title: SVGPathSeg.PathSegType
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathSeg 財産. このインターフェイスで定義された定数の 1 つによって指定されたパス セグメントのタイプ
+title: "SVGPathSeg.PathSegType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathSeg PathSegType プロパティ。このインターフェイスで定義された定数のいずれかで指定されたパスセグメントのタイプ"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.paths/svgpathseg/pathsegtype/
 ---
 ## SVGPathSeg.PathSegType property
 
-このインターフェイスで定義された定数の 1 つによって指定されたパス セグメントのタイプ。
+このインターフェイスで定義された定数のいずれかによって指定されるパス セグメントのタイプです。
 
 ```csharp
 public ushort PathSegType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-パス セグメントのタイプ。
+パスセグメントのタイプです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSeg](../)
-* 名前空間 [Aspose.Svg.Paths](../../svgpathseg/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Device2.FillText
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. 指定した位置に指定したテキスト文字列を入力します
+title: "Device-2.FillText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device FillText メソッド。指定された場所に指定されたテキスト文字列を描画します"
 type: docs
-weight: 160
+weight: 190
 url: /ja/net/aspose.svg.rendering/device-2/filltext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.FillText method
+## Device<TGraphicContext,TRenderingOptions>.FillText method
 
-指定した位置に指定したテキスト文字列を入力します。
+指定された位置に指定されたテキスト文字列を塗りつぶします。
 
 ```csharp
-public abstract void FillText(string text, PointF pt)
+public virtual void FillText(string text, PointF pt)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| text | String | 埋める文字列。 |
-| pt | PointF | テキストの座標を指定するポイント。 |
+| テキスト | String | 塗りつぶす文字列。 |
+| pt | PointF | テキストの座標を指定する点。 |
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

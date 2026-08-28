@@ -1,23 +1,21 @@
 ---
-title: IStyleSheet.Type
-second_title: Aspose.SVG for .NET API リファレンス
-description: IStyleSheet 財産. このスタイル シートのスタイル シート言語を指定しますスタイルシート言語はコンテンツタイプとして指定されます 例 text/css.
+title: "IStyleSheet.Type"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IStyleSheet Type プロパティ。 このスタイルシートのスタイルシート言語を指定します。スタイルシート言語はコンテンツタイプ（例: text/css）として指定されます。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom.css/istylesheet/type/
 ---
 ## IStyleSheet.Type property
 
-このスタイル シートのスタイル シート言語を指定します。スタイルシート言語はコンテンツタイプとして指定されます (例: "text/css").
+これはこのスタイルシートのスタイルシート言語を指定します。スタイルシート言語はコンテンツタイプとして指定されます（例: "text/css"）。
 
 ```csharp
 public string Type { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IStyleSheet](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../istylesheet/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

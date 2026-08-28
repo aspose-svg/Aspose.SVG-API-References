@@ -1,32 +1,30 @@
 ---
-title: Node.ReplaceChild
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 方法. 子のリストで子ノード oldChild を newChild に置き換えoldChild ノードを返します newChild が DocumentFragment オブジェクトの場合oldChild は DocumentFragment のすべての子に置き換えられ同じ順序で挿入されます newChild がすでにツリーにある場合は最初に削除されます.
+title: "Node.ReplaceChild"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node ReplaceChild メソッド。子ノード oldChild を newChild に置き換え、子リスト内で oldChild ノードを返します。newChild が DocumentFragment オブジェクトの場合、oldChild は DocumentFragment のすべての子ノードに置き換えられ、同じ順序で挿入されます。newChild がすでにツリー内にある場合は、最初に削除されます。"
 type: docs
-weight: 300
+weight: 280
 url: /ja/net/aspose.svg.dom/node/replacechild/
 ---
 ## Node.ReplaceChild method
 
-子のリストで子ノード oldChild を newChild に置き換え、oldChild ノードを返します。 newChild が DocumentFragment オブジェクトの場合、oldChild は DocumentFragment のすべての子に置き換えられ、同じ順序で挿入されます。 newChild がすでにツリーにある場合は、最初に削除されます.
+子ノード oldChild を newChild に置き換え、子リスト内で置換し、oldChild ノードを返します。newChild が DocumentFragment オブジェクトの場合、oldChild は DocumentFragment のすべての子ノードに置き換えられ、同じ順序で挿入されます。newChild がすでにツリー内にある場合は、まずそれが削除されます。
 
 ```csharp
 public Node ReplaceChild(Node node, Node child)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| node | Node | 新しいノード。 |
-| child | Node | 年老いた子供。 |
+| node | ノード | 新しいノード。 |
+| child | ノード | 古い子ノード。 |
 
 ### 戻り値
 
-返品ノード
+ノードを返します。
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

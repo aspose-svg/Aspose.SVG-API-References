@@ -1,241 +1,327 @@
 ---
-title: SVGDocument.Save
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGDocument 方法. で指定されたローカル ファイルにドキュメントを保存しますURL .このドキュメントで使用されるすべてのリソースは隣接するフォルダーの に保存されその名前は次のように構成されます output_file_name  _files.
+title: "SVGDocument.Save"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGDocument Save メソッド。`url` で指定されたローカルファイルにドキュメントを保存します。このドキュメントで使用されるすべてのリソースは、output_file_name_files という名前の隣接フォルダーに保存されます。指定された `url` が .svgz で終わる場合、ドキュメントは圧縮 SVGZ ファイルとして保存されます。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg/svgdocument/save/
 ---
-## Save(Url) {#save_3}
+## Save(*[Url](../../url/)*) {#save_4}
 
-で指定されたローカル ファイルにドキュメントを保存します。`URL` .このドキュメントで使用されるすべてのリソースは、隣接するフォルダーの に保存され、その名前は次のように構成されます: output_file_name + "_files".
+`url` で指定されたローカルファイルにドキュメントを保存します。このドキュメントで使用されるすべてのリソースは隣接フォルダーに保存され、その名前は output_file_name + \"_files\" となります。指定された `url` が \".svgz\" で終わる場合、ドキュメントは圧縮 SVGZ ファイルとして保存されます。
 
 ```csharp
 public void Save(Url url)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | url | Url | 出力ファイルへのローカル URL。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 指定された場合に発生します`URL`は有効なローカル ファイル URL ではありません。 |
+| ArgumentException | 指定された `url` が有効なローカルファイル URL でない場合にスローされます。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string) {#save_6}
+## Save(*string*) {#save_8}
 
-で指定されたローカル ファイルにドキュメントを保存します。`道` .このドキュメントで使用されるすべてのリソースは、隣接するフォルダーの に保存され、その名前は次のように構成されます: output_file_name + "_files".
+`path` で指定されたローカルファイルにドキュメントを保存します。このドキュメントで使用されるすべてのリソースは隣接フォルダーに保存され、その名前は output_file_name + \"_files\" となります。指定された `url` が \".svgz\" で終わる場合、ドキュメントは圧縮 SVGZ ファイルとして保存されます。
 
 ```csharp
 public void Save(string path)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| path | String | 出力ファイルへのローカル パス。 |
+| path | String | 出力ファイルへのローカルパス。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 指定された場合に発生します`道`は有効なローカル ファイル パスではありません。 |
+| ArgumentException | 指定された `path` が有効なローカルファイルパスでない場合にスローされます。 |
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage) {#save}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)*) {#save}
 
-ドキュメントのコンテンツとリソースを出力ストレージに保存します。
+[`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/) を使用してドキュメントのコンテンツとリソースを保存します。
 
 ```csharp
-public void Save(IOutputStorage outputStorage)
+public void Save(ResourceHandler resourceHandler)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | 出力ストレージ[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | リソースハンドラ [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)。 |
 
-### 関連項目
+### 参照
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string, SVGSaveFormat) {#save_7}
+## Save(*string, [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_9}
 
-で指定されたローカル ファイルにドキュメントを保存します。`道` .このドキュメントで使用されるすべてのリソースは、隣接するフォルダーの に保存され、その名前は次のように構成されます: output_file_name + "_files".
+`path` で指定されたローカルファイルにドキュメントを保存します。このドキュメントで使用されるすべてのリソースは隣接フォルダーに保存され、その名前は output_file_name + \"_files\" となります。
 
 ```csharp
 public void Save(string path, SVGSaveFormat saveFormat)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| path | String | 出力ファイルへのローカル パス。 |
+| path | String | 出力ファイルへのローカルパス。 |
 | saveFormat | SVGSaveFormat | ドキュメントが保存される形式。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 指定された場合に発生します`道`は有効なローカル ファイル パスではありません。 |
+| ArgumentException | 指定された `path` が有効なローカルファイルパスでない場合にスローされます。 |
+| ArgumentOutOfRangeException | 指定された *saveFormat* の値が現在の実装で認識されない場合にスローされます。 |
 
-### 関連項目
+### 参照
 
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage, SVGSaveFormat) {#save_1}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_1}
 
-ドキュメントのコンテンツとリソースを出力ストレージに保存します。
+[`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/) を使用してドキュメントのコンテンツとリソースを保存します。
 
 ```csharp
-public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
+public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | 出力ストレージ[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | リソースハンドラ [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)。 |
 | saveFormat | SVGSaveFormat | ドキュメントが保存される形式。 |
 
-### 関連項目
+### 例外
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+| 例外 | 条件 |
+| --- | --- |
+| ArgumentOutOfRangeException | 指定された *saveFormat* の値が現在の実装で認識されない場合にスローされます。 |
+
+### 参照
+
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(string, SVGSaveOptions) {#save_8}
+## Save(*string, [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_10}
 
-で指定されたローカル ファイルにドキュメントを保存します。`道` .このドキュメントで使用されるすべてのリソースは、隣接するフォルダーの に保存され、その名前は次のように構成されます: output_file_name + "_files".
+*path* で指定されたローカルパスにドキュメントを `.svg` ファイルとして保存します。外部リソースはすべて `{output_file_name}_files` という名前の兄弟フォルダーに書き込まれます。
 
 ```csharp
 public void Save(string path, SVGSaveOptions saveOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| path | String | 出力ファイルへのローカル パス。 |
-| saveOptions | SVGSaveOptions | SVG 保存オプション。 |
+| path | String | 対象 `.svg` ファイルの絶対パスまたは相対パス。 |
+| saveOptions | SVGSaveOptions | プレーン SVG のシリアライズを制御するオプション。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 指定された場合に発生します`道`は有効なローカル ファイル パスではありません。 |
+| ArgumentException | *path* が有効なローカルファイルパスでない場合にスローされます。 |
 
-### 関連項目
+### 参照
 
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(IOutputStorage, SVGSaveOptions) {#save_2}
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_2}
 
-ドキュメントのコンテンツとリソースを出力ストレージに保存します。
+[`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/) を使用してドキュメントのコンテンツとリソースを保存します。
 
 ```csharp
-public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
+public void Save(ResourceHandler resourceHandler, SVGSaveOptions saveOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | 出力ストレージ[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | リソースハンドラ [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)。 |
 | saveOptions | SVGSaveOptions | SVG 保存オプション。 |
 
-### 関連項目
+### 参照
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(Url, SVGSaveFormat) {#save_4}
+## Save(*[Url](../../url/), [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)*) {#save_5}
 
-で指定されたローカル ファイルにドキュメントを保存します。`URL` .このドキュメントで使用されるすべてのリソースは、隣接するフォルダーの に保存され、その名前は次のように構成されます: output_file_name + "_files".
+`url` で指定されたローカルファイルにドキュメントを保存します。このドキュメントで使用されるすべてのリソースは隣接フォルダーに保存され、その名前は output_file_name + \"_files\" となります。
 
 ```csharp
 public void Save(Url url, SVGSaveFormat saveFormat)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | url | Url | 出力ファイルへのローカル URL。 |
 | saveFormat | SVGSaveFormat | ドキュメントが保存される形式。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 指定された場合に発生します`URL`は有効なローカル ファイル URL ではありません。 |
+| ArgumentException | *url* が有効なローカルファイルの場所を表さない場合にスローされます（例: null、相対パス、またはファイルスキームでない場所）。 |
+| ArgumentOutOfRangeException | 提供された *saveFormat* の値が現在の実装で認識されない場合にスローされます。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Save(Url, SVGSaveOptions) {#save_5}
+## Save(*[Url](../../url/), [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)*) {#save_6}
 
-で指定されたローカル ファイルにドキュメントを保存します。`URL` .このドキュメントで使用されるすべてのリソースは、隣接するフォルダーの に保存され、その名前は次のように構成されます: output_file_name + "_files".
+*url* にドキュメントを `.svg` ファイルとして保存します。すべての外部リソースは `{output_file_name}_files` という名前の兄弟フォルダーに配置されます。
 
 ```csharp
 public void Save(Url url, SVGSaveOptions saveOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| url | Url | 出力ファイルへのローカル URL。 |
-| saveOptions | SVGSaveOptions | SVG 保存オプション。 |
+| url | Url | 対象 `.svg` ファイルのローカルパス。 |
+| saveOptions | SVGSaveOptions | プレーン SVG のシリアライズを制御するオプション。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 指定された場合に発生します`URL`は有効なローカル ファイル URL ではありません。 |
+| ArgumentException | *url* が有効なローカルファイルパスでない場合にスローされます。 |
 
-### 関連項目
+### 参照
 
 * class [Url](../../url/)
 * class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* 名前空間 [Aspose.Svg](../../svgdocument/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
+---
 
+## Save(*[Url](../../url/), [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_7}
+
+*url* にドキュメントを圧縮 `.svgz` ファイルとして保存します。すべての外部リソースは `{output_file_name}_files` という名前の兄弟フォルダーに配置されます。
+
+```csharp
+public void Save(Url url, SVGZSaveOptions saveOptions)
+```
+
+| パラメータ | 型 | 説明 |
+| --- | --- | --- |
+| url | Url | 対象 `.svgz` ファイルのローカルパス。 |
+| saveOptions | SVGZSaveOptions | SVGZ シリアライズを制御するオプション。 |
+
+### 例外
+
+| 例外 | 条件 |
+| --- | --- |
+| ArgumentException | *url* が有効なローカルファイルパスでない場合にスローされます。 |
+
+### 参照
+
+* class [Url](../../url/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*[ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/), [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_3}
+
+指定された [`ResourceHandler`](../../../aspose.svg.saving.resourcehandlers/resourcehandler/) を使用して、ドキュメントの内容と関連リソースを保存します。
+
+```csharp
+public void Save(ResourceHandler resourceHandler, SVGZSaveOptions saveOptions)
+```
+
+| パラメータ | 型 | 説明 |
+| --- | --- | --- |
+| resourceHandler | ResourceHandler | ファイルシステムやメモリベースのストレージなど、ドキュメントリソースを管理するリソースハンドラです。 |
+| saveOptions | SVGZSaveOptions | ベクトル化の設定など、追加の保存パラメータを指定するオプション。 |
+
+### 参照
+
+* class [ResourceHandler](../../../aspose.svg.saving.resourcehandlers/resourcehandler/)
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## Save(*string, [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)*) {#save_11}
+
+*path* で指定されたローカルパスにドキュメントを圧縮 `.svgz` ファイルとして保存します。外部リソースはすべて `{output_file_name}_files` という名前の兄弟フォルダーに書き込まれます。
+
+```csharp
+public void Save(string path, SVGZSaveOptions saveOptions)
+```
+
+| パラメータ | 型 | 説明 |
+| --- | --- | --- |
+| path | String | 対象 `.svgz` ファイルの絶対パスまたは相対パス。 |
+| saveOptions | SVGZSaveOptions | SVGZ シリアライズを制御するオプション。 |
+
+### 例外
+
+| 例外 | 条件 |
+| --- | --- |
+| ArgumentException | *path* が有効なローカルファイルパスでない場合にスローされます。 |
+
+### 参照
+
+* class [SVGZSaveOptions](../../../aspose.svg.saving/svgzsaveoptions/)
+* class [SVGDocument](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,73 +1,71 @@
 ---
-title: MultipartFormDataContent.Add
-second_title: Aspose.SVG for .NET API リファレンス
-description: MultipartFormDataContent 方法. コンテンツをMultipartFormDataContentclass
+title: "MultipartFormDataContent.Add"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MultipartFormDataContent Add メソッド。MultipartFormDataContent クラスにコンテンツを追加します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.net/multipartformdatacontent/add/
 ---
-## Add(Content) {#add}
+## Add(*[Content](../../content/)*) {#add}
 
-コンテンツを[`MultipartFormDataContent`](../)class
+[`MultipartFormDataContent`](../) クラスにコンテンツを追加します。
 
 ```csharp
 public override void Add(Content content)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | Content | コンテンツ。 |
+| content | コンテンツ | コンテンツ。 |
 
-### 関連項目
+### 参照
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* 名前空間 [Aspose.Svg.Net](../../multipartformdatacontent/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string) {#add_1}
+## Add(*[Content](../../content/), string*) {#add_1}
 
-コンテンツを[`MultipartFormDataContent`](../)フィールド名が parameter のクラス
+フィールド名パラメータを使用して、[`MultipartFormDataContent`](../) クラスにコンテンツを追加します。
 
 ```csharp
 public void Add(Content content, string name)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | Content | コンテンツ。 |
-| name | String | フィールド名。 |
+| content | コンテンツ | コンテンツ。 |
+| 名前 | String | フィールド名。 |
 
-### 関連項目
+### 参照
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* 名前空間 [Aspose.Svg.Net](../../multipartformdatacontent/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string, string) {#add_2}
+## Add(*[Content](../../content/), string, string*) {#add_2}
 
-コンテンツを[`MultipartFormDataContent`](../)フィールドとファイル名を持つクラス parameter
+フィールド名とファイル名パラメータを使用して、[`MultipartFormDataContent`](../) クラスにコンテンツを追加します。
 
 ```csharp
 public void Add(Content content, string name, string fileName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| content | Content | コンテンツ。 |
-| name | String | フィールド名。 |
+| content | コンテンツ | コンテンツ。 |
+| 名前 | String | フィールド名。 |
 | fileName | String | ファイル名。 |
 
-### 関連項目
+### 参照
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* 名前空間 [Aspose.Svg.Net](../../multipartformdatacontent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Security
-second_title: Aspose.SVG for .NET API リファレンス
-description: IBrowsingContext 財産. サンドボックス フラグを取得します
+title: "IBrowsingContext.Security"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IB BrowsingContext Security プロパティ。サンドボックスフラグを取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom/ibrowsingcontext/security/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.dom/ibrowsingcontext/security/
 public Sandbox Security { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-セキュリティ.
+セキュリティです。
 
-### 関連項目
+### 参照
 
 * enum [Sandbox](../../../aspose.svg/sandbox/)
 * interface [IBrowsingContext](../)
-* 名前空間 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

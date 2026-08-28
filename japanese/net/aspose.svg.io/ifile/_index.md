@@ -1,14 +1,14 @@
 ---
-title: Interface IFile
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.IO.IFile インターフェース. File オブジェクトは文字列である name 属性を持つ Blob オブジェクトですコンストラクターを介して Web アプリケーション内で作成するか基になる OS ファイル システムのファイルからのバイト シーケンスへの参照です
+title: "IFile インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.IO.IFile インターフェイス。File オブジェクトは name 属性（文字列）を持つ Blob オブジェクトで、コンストラクタを使用して Web アプリケーション内で作成することも、基盤となる OS のファイルシステムからのバイト列への参照であることもできます。"
 type: docs
-weight: 1940
+weight: 4050
 url: /ja/net/aspose.svg.io/ifile/
 ---
 ## IFile interface
 
-File オブジェクトは、文字列である name 属性を持つ Blob オブジェクトです。コンストラクターを介して Web アプリケーション内で作成するか、基になる (OS) ファイル システムのファイルからのバイト シーケンスへの参照です。
+File オブジェクトは name 属性（文字列）を持つ Blob オブジェクトです。Web アプリケーション内でコンストラクタを使用して作成することも、基盤となる（OS）ファイルシステムのファイルからのバイトシーケンスへの参照であることもあります。
 
 ```csharp
 public interface IFile : IBlob
@@ -18,13 +18,11 @@ public interface IFile : IBlob
 
 | 名前 | 説明 |
 | --- | --- |
-| [LastModified](../../aspose.svg.io/ifile/lastmodified/) { get; } | ファイルの最終更新日。取得時に、ユーザー エージェントがこの情報を利用可能にすることができる場合、 これは、Unix エポックからのミリ秒数として、ファイルが最後に変更された時刻の long long セットを返さなければなりません。 |
-| [Name](../../aspose.svg.io/ifile/name/) { get; } | ファイルの名前。 取得時に、ファイルの名前を文字列として返す必要があります。 |
+| [LastModified](../../aspose.svg.io/ifile/lastmodified/) { get; } | ファイルの最終更新日時です。取得時に、ユーザーエージェントがこの情報を提供できる場合、Unix エポックからのミリ秒数としてファイルが最後に更新された時刻を表す long long を返す必要があります。 |
+| [Name](../../aspose.svg.io/ifile/name/) { get; } | ファイルの名前です。取得時には、ファイル名を文字列として返す必要があります。 |
 
-### 関連項目
+### 参照
 
 * interface [IBlob](../iblob/)
-* 名前空間 [Aspose.Svg.IO](../../aspose.svg.io/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: ICSSStyleDeclaration.ParentRule
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSStyleDeclaration 財産. この宣言ブロックを含む CSS ルールまたはこの CSSStyleDeclaration が CSSRule に関連付けられていない場合は null
+title: "ICSSStyleDeclaration.ParentRule"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSStyleDeclaration ParentRule プロパティ。この宣言ブロックを含む CSS ルール、またはこの CSSStyleDeclaration が CSSRule に添付されていない場合は null です。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.css/icssstyledeclaration/parentrule/
 ---
 ## ICSSStyleDeclaration.ParentRule property
 
-この宣言ブロックを含む CSS ルール、またはこの CSSStyleDeclaration が CSSRule に関連付けられていない場合は null。
+この宣言ブロックを含む CSS ルール、またはこの CSSStyleDeclaration が CSSRule に添付されていない場合は null です。
 
 ```csharp
 public ICSSRule ParentRule { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-親ルール。
+親ルールです。
 
-### 関連項目
+### 参照
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSStyleDeclaration](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

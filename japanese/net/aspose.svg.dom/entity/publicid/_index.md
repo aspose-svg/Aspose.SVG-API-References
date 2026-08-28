@@ -1,27 +1,25 @@
 ---
-title: Entity.PublicId
-second_title: Aspose.SVG for .NET API リファレンス
-description: Entity 財産. 指定されている場合はエンティティに関連付けられている公開識別子それ以外の場合は null.
+title: "Entity.PublicId"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Entity PublicId プロパティ。エンティティに関連付けられた公開識別子で、指定されていればその値、そうでなければ null です。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom/entity/publicid/
 ---
 ## Entity.PublicId property
 
-指定されている場合はエンティティに関連付けられている公開識別子、それ以外の場合は null.
+指定されている場合はエンティティに関連付けられた公開識別子を返し、そうでない場合は null を返します。
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-公開識別子.
+公開識別子。
 
-### 関連項目
+### 参照
 
 * class [Entity](../)
-* 名前空間 [Aspose.Svg.Dom](../../entity/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

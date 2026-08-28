@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.BaseFrequencyY
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFETurbulenceElement 財産. 指定されたfeTurbulence要素の属性baseFrequencyに対応します 自動的に計算される可能性があるbaseFrequency属性の Y コンポーネントが含まれます
+title: "SVGFETurbulenceElement.BaseFrequencyY"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFETurbulenceElement BaseFrequencyY プロパティ。指定された feTurbulence 要素の属性 baseFrequency に対応します。自動的に計算される可能性のある baseFrequency 属性の Y 成分を含みます。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.filters/svgfeturbulenceelement/basefrequencyy/
 ---
 ## SVGFETurbulenceElement.BaseFrequencyY property
 
-指定された「feTurbulence」要素の属性「baseFrequency」に対応します。 (自動的に計算される可能性がある)「baseFrequency」属性の Y コンポーネントが含まれます。
+指定された ‘feTurbulence’ 要素の属性 ‘baseFrequency’ に対応します。（自動的に計算される可能性のある）‘baseFrequency’ 属性の Y 成分を含みます。
 
 ```csharp
 public SVGAnimatedNumber BaseFrequencyY { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「feTurbulence」要素の属性「baseFrequency」。
+指定された ‘feTurbulence’ 要素の属性 ‘baseFrequency’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

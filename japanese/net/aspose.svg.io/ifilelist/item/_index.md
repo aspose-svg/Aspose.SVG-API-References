@@ -1,7 +1,7 @@
 ---
-title: IFileList.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: IFileList 財産. リスト内のインデックス番目のファイルを返します
+title: "IFileList.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IFileList Item プロパティ。リスト内のインデックス番目のファイルを返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.io/ifilelist/item/
@@ -16,17 +16,15 @@ public IFile this[int index] { get; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| index | ファイルのインデックス。 |
+| インデックス | ファイルのインデックスです。 |
 
 ### 戻り値
 
-ファイル。
+ファイルです。
 
-### 関連項目
+### 参照
 
 * interface [IFile](../../ifile/)
 * interface [IFileList](../)
-* 名前空間 [Aspose.Svg.IO](../../ifilelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

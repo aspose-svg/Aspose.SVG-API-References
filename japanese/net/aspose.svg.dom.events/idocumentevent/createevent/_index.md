@@ -1,38 +1,36 @@
 ---
-title: IDocumentEvent.CreateEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDocumentEvent 方法. を作成しますEvent実装でサポートされているタイプの.
+title: "IDocumentEvent.CreateEvent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDocumentEvent CreateEvent メソッド。実装がサポートするタイプの Event を作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.events/idocumentevent/createevent/
 ---
 ## IDocumentEvent.CreateEvent method
 
-を作成します[`Event`](../../event/)実装でサポートされているタイプの.
+実装がサポートするタイプの [`Event`](../../event/) を作成します。
 
 ```csharp
 public Event CreateEvent(string eventType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| eventType | String | eventType パラメータは、[`Event`](../../event/)作成するインターフェイス. [`Event`](../../event/)指定されたインターフェイスは実装によってサポートされています。このメソッドは new を返します[`Event`](../../event/)要求されたインターフェイス タイプの. [`Event`](../../event/)経由で発送されます[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/)適切な メソッド[`InitEvent`](../../event/initevent/)メソッドは、作成後に初期化するために呼び出す必要があります。[`Event`](../../event/) s values. |
+| eventType | String | `eventType` パラメータは作成する [`Event`](../../event/) インターフェイスのタイプを指定します。指定された [`Event`](../../event/) インターフェイスが実装でサポートされている場合、このメソッドは要求されたインターフェイス型の新しい [`Event`](../../event/) を返します。[`Event`](../../event/) を [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) メソッドでディスパッチする場合、作成後に適切な [`InitEvent`](../../event/initevent/) メソッドを呼び出して [`Event`](../../event/) の値を初期化する必要があります。 |
 
 ### 戻り値
 
-新しく作成された[`Event`](../../event/)
+新しく作成された [`Event`](../../event/)
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: 実装が型をサポートしていない場合に発生します[`Event`](../../event/)インターフェイス要求 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: 実装が要求された [`Event`](../../event/) インターフェイスのタイプをサポートしていない場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [Event](../../event/)
 * interface [IDocumentEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../idocumentevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

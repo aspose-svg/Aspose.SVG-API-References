@@ -1,14 +1,14 @@
 ---
-title: Class MessageHandler
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.MessageHandler クラス. メッセージ ハンドラーの基本型を表します
+title: "MessageHandler クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.MessageHandler クラス。メッセージハンドラの基底型を表します"
 type: docs
-weight: 2340
+weight: 4410
 url: /ja/net/aspose.svg.net/messagehandler/
 ---
 ## MessageHandler class
 
-メッセージ ハンドラーの基本型を表します。
+メッセージ ハンドラの基底型を表します。
 
 ```csharp
 public abstract class MessageHandler
@@ -18,17 +18,15 @@ public abstract class MessageHandler
 
 | 名前 | 説明 |
 | --- | --- |
-| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | 指定されたハンドラー タイプに対応するフィルター リストを取得します。 |
+| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | 指定されたハンドラタイプに対応するフィルタリストを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(INetworkOperationContext) | 派生クラスでオーバーライドされると、メッセージ処理の実装に使用されます。 |
+| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | 派生クラスでオーバーライドされた場合、メッセージ処理を実装するために使用されます。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

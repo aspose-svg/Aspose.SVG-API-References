@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TableLayout
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の tablelayout プロパティ定義を参照してください
+title: "ICSS2Properties.TableLayout"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties TableLayout プロパティ。CSS2 の table-layout プロパティ定義を参照してください。"
 type: docs
-weight: 1060
+weight: 1090
 url: /ja/net/aspose.svg.dom.css/icss2properties/tablelayout/
 ---
 ## ICSS2Properties.TableLayout property
 
-CSS2 の table-layout プロパティ定義を参照してください。
+CSS2 の table-layout プロパティ定義をご覧ください。
 
 ```csharp
 public string TableLayout { get; set; }
@@ -16,12 +16,10 @@ public string TableLayout { get; set; }
 
 ### 戻り値
 
-テーブル レイアウト プロパティ
+table-layout プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

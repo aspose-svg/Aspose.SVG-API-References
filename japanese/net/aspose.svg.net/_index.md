@@ -1,39 +1,37 @@
 ---
-title: Aspose.Svg.Net
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net名前空間は簡単なネットワーク処理を支援する クラスとインターフェイスによって提供されます.
+title: "Aspose.Svg.Net"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net 名前空間は、簡単なネットワーク処理を支援するクラスとインターフェイスによって構成されています。"
 type: docs
-weight: 190
+weight: 210
 url: /ja/net/aspose.svg.net/
 ---
-**Aspose.Svg.Net**名前空間は、簡単なネットワーク処理を支援する クラスとインターフェイスによって提供されます.
+**Aspose.Svg.Net** 名前空間は、簡単なネットワーク処理を支援するクラスとインターフェイスによって構成されています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
 | [ByteArrayContent](./bytearraycontent/) | バイト配列に基づくコンテンツを表します。 |
-| [Content](./content/) | HTTP エンティティ本体とコンテンツ ヘッダーの基本クラスを表します。 |
-| [ContentHeaders](./contentheaders/) | コンテンツに関連付けられたヘッダーが含まれます。 |
-| [FormUrlEncodedContent](./formurlencodedcontent/) | application/x-www-form-urlencoded MIME タイプを使用してエンコードされた名前/値のタプルのコンテナー。 |
-| [HttpMethod](./httpmethod/) | 標準の HTTP メソッドを取得して比較するためのユーティリティ クラスを表します。 |
-| [MessageFilter](./messagefilter/) | メッセージのクエリに使用されるさまざまなクラスのフィルターの抽象基本クラスを表します |
-| [MessageHandler](./messagehandler/) | メッセージ ハンドラーの基本型を表します。 |
-| [MessageHandlerCollection](./messagehandlercollection/) | のコレクションを表します[`MessageHandler`](../aspose.svg.net/messagehandler/) . |
+| [Content](./content/) | HTTP エンティティ ボディおよびコンテンツ ヘッダーの基底クラスを表します。 |
+| [ContentHeaders](./contentheaders/) | コンテンツに関連付けられたヘッダーを含みます。 |
+| [FormUrlEncodedContent](./formurlencodedcontent/) | application/x-www-form-urlencoded MIME タイプでエンコードされた名前/値のタプルを格納するコンテナです。 |
+| [HttpMethod](./httpmethod/) | 標準 HTTP メソッドの取得と比較を行うユーティリティ クラスを表します。 |
+| [MessageFilter](./messagefilter/) | メッセージのクエリに使用されるさまざまなフィルター クラスの抽象基底クラスを表します。 |
+| [MessageHandler](./messagehandler/) | メッセージ ハンドラの基底型を表します。 |
+| [MessageHandlerCollection](./messagehandlercollection/) | [`MessageHandler`](../aspose.svg.net/messagehandler/) のコレクションを表します。 |
 | [MultipartContent](./multipartcontent/) | multipart/* コンテンツを表します。 |
-| [MultipartFormDataContent](./multipartformdatacontent/) | multipart/form-data エンコーディング アルゴリズムのコンテンツを表す |
-| [RequestHeaders](./requestheaders/) | リクエストに関連付けられたプロトコル ヘッダーが含まれます。 |
-| [RequestMessage](./requestmessage/) | リクエストメッセージを表します. |
-| [ResponseHeaders](./responseheaders/) | 応答に関連付けられたプロトコル ヘッダーが含まれます。 |
-| [ResponseMessage](./responsemessage/) | 応答メッセージを表します。 |
+| [MultipartFormDataContent](./multipartformdatacontent/) | multipart/form-data エンコーディング アルゴリズム用のコンテンツを表します。 |
+| [RequestHeaders](./requestheaders/) | リクエストに関連付けられたプロトコル ヘッダーを含みます。 |
+| [RequestMessage](./requestmessage/) | リクエスト メッセージを表します。 |
+| [ResponseHeaders](./responseheaders/) | レスポンスに関連付けられたプロトコル ヘッダーを含みます。 |
+| [ResponseMessage](./responsemessage/) | レスポンス メッセージを表します。 |
 | [StreamContent](./streamcontent/) | ストリームに基づくコンテンツを表します。 |
 | [StringContent](./stringcontent/) | 文字列に基づくコンテンツを表します。 |
-| [UrlResolver](./urlresolver/) | URI による絶対 URL を解決するためのユーティリティ クラスを表します。 |
-## インターフェース
+| [UrlResolver](./urlresolver/) | Uniform Resource Identifier (URI) による絶対 URL の解決を行うユーティリティ クラスを表します。 |
+## インターフェイス
 
-| インターフェース | 説明 |
+| インターフェイス | 説明 |
 | --- | --- |
-| [INetwork](./inetwork/) | ネットワーク サービスのインターフェイスを提供します。 |
-| [INetworkOperationContext](./inetworkoperationcontext/) | ネットワーク サービスのコンテキスト情報を提供します。 |
-
-
+| [INetwork](./inetwork/) | ネットワーク サービス用のインターフェイスを提供します。 |
+| [INetworkOperationContext](./inetworkoperationcontext/) | ネットワーク サービスに関するコンテキスト情報を提供します。 |

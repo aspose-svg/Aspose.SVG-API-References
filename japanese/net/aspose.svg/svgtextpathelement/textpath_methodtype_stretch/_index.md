@@ -1,23 +1,21 @@
 ---
-title: SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTextPathElement 分野. 値ストレッチに対応します
+title: "SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTextPathElement TEXTPATH_METHODTYPE_STRETCH フィールド。値 stretch に対応します"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg/svgtextpathelement/textpath_methodtype_stretch/
 ---
 ## SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH field
 
-値「ストレッチ」に対応します。
+値 'stretch' に対応します。
 
 ```csharp
 public const ushort TEXTPATH_METHODTYPE_STRETCH;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGTextPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgtextpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

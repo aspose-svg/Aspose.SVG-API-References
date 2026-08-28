@@ -1,14 +1,14 @@
 ---
-title: FontsSettings.GetFontsLookupFolders
-second_title: Aspose.SVG for .NET API リファレンス
-description: FontsSettings 方法. フォント フォルダーを含む配列のコピーを取得しますこれらのフォルダにあるフォントは文字のレンダリングに使用されます.
+title: "FontsSettings.GetFontsLookupFolders"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FontsSettings GetFontsLookupFolders メソッド。フォントフォルダーを含む配列のコピーを取得します。これらのフォルダーで見つかったフォントは文字のレンダリングに使用されます。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/fontssettings/getfontslookupfolders/
 ---
 ## FontsSettings.GetFontsLookupFolders method
 
-フォント フォルダーを含む配列のコピーを取得します。これらのフォルダにあるフォントは、文字のレンダリングに使用されます.
+フォントフォルダーを含む配列のコピーを取得します。これらのフォルダー内で見つかったフォントは文字のレンダリングに使用されます。
 
 ```csharp
 public string[] GetFontsLookupFolders()
@@ -16,12 +16,10 @@ public string[] GetFontsLookupFolders()
 
 ### 戻り値
 
-フォント フォルダー配列のコピー。
+フォントフォルダー配列のコピー。
 
-### 関連項目
+### 参照
 
 * class [FontsSettings](../)
-* 名前空間 [Aspose.Svg](../../fontssettings/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGLength.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGLength 方法. を返しますStringこのインスタンスを表す.
+title: "SVGLength.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGLength ToString メソッド。 このインスタンスを表す String を返します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.datatypes/svglength/tostring/
 ---
 ## SVGLength.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表す String を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * class [SVGLength](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svglength/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

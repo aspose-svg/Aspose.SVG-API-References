@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Aspose.SVG for .NET API リファレンス
-description: PdfDocumentInfo 財産. ドキュメントに関連付けられたキーワード
+title: "PdfDocumentInfo.Keywords"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PdfDocumentInfo Keywords プロパティ。ドキュメントに関連付けられたキーワード"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.rendering.pdf/pdfdocumentinfo/keywords/
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.rendering.pdf/pdfdocumentinfo/keywords/
 public string Keywords { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [PdfDocumentInfo](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

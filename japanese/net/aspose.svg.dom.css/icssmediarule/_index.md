@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSMediaRule
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.ICSSMediaRule インターフェース. CSSMediaRule インターフェイスはCSS スタイル シートの media ルールを表します media ルールを使用して特定のメディア タイプのスタイル ルールを区切ることができます
+title: "ICSSMediaRule インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.ICSSMediaRule インターフェイス。CSSMediaRule インターフェイスは CSS スタイルシート内のメディアルールを表します。メディアルールは特定のメディアタイプ向けのスタイルルールを区切るために使用できます"
 type: docs
-weight: 600
+weight: 2600
 url: /ja/net/aspose.svg.dom.css/icssmediarule/
 ---
 ## ICSSMediaRule interface
 
-CSSMediaRule インターフェイスは、CSS スタイル シートの @media ルールを表します。 @media ルールを使用して、特定のメディア タイプのスタイル ルールを区切ることができます。
+CSSMediaRule インターフェイスは CSS スタイルシート内の @media ルールを表します。@media ルールは特定のメディアタイプ向けのスタイルルールを区切るために使用できます。
 
 ```csharp
 public interface ICSSMediaRule : ICSSRule
@@ -18,20 +18,18 @@ public interface ICSSMediaRule : ICSSRule
 
 | 名前 | 説明 |
 | --- | --- |
-| [CSSRules](../../aspose.svg.dom.css/icssmediarule/cssrules/) { get; } | メディア ブロック内に含まれるすべての CSS ルールのリスト。 |
-| [Media](../../aspose.svg.dom.css/icssmediarule/media/) { get; } | このルールのメディア タイプのリスト。 |
+| [CSSRules](../../aspose.svg.dom.css/icssmediarule/cssrules/) { get; } | メディアブロック内に含まれるすべての CSS ルールの一覧です。 |
+| [Media](../../aspose.svg.dom.css/icssmediarule/media/) { get; } | このルールのメディアタイプの一覧。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [DeleteRule](../../aspose.svg.dom.css/icssmediarule/deleterule/)(long) | メディア ブロックからルールを削除するために使用されます。 |
-| [InsertRule](../../aspose.svg.dom.css/icssmediarule/insertrule/)(string, long) | メディア ブロックに新しいルールを挿入するために使用されます。 |
+| [DeleteRule](../../aspose.svg.dom.css/icssmediarule/deleterule/)(*long*) | メディアブロックからルールを削除するために使用されます。 |
+| [InsertRule](../../aspose.svg.dom.css/icssmediarule/insertrule/)(*string, long*) | メディアブロックに新しいルールを挿入するために使用されます。 |
 
-### 関連項目
+### 参照
 
 * interface [ICSSRule](../icssrule/)
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

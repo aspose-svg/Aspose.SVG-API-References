@@ -1,27 +1,25 @@
 ---
-title: ContentDispositionHeaderValue.FileName
-second_title: Aspose.SVG for .NET API リファレンス
-description: ContentDispositionHeaderValue 財産. 保存されたファイルの名前.
+title: "ContentDispositionHeaderValue.FileName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ContentDispositionHeaderValue FileName プロパティ。保存されたファイルの名前"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.net.headers/contentdispositionheadervalue/filename/
 ---
 ## ContentDispositionHeaderValue.FileName property
 
-保存されたファイルの名前.
+保存されたファイルの名前です。
 
 ```csharp
 public string FileName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 ファイルの名前。
 
-### 関連項目
+### 参照
 
 * class [ContentDispositionHeaderValue](../)
-* 名前空間 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

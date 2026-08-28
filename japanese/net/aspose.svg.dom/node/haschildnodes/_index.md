@@ -1,14 +1,14 @@
 ---
-title: Node.HasChildNodes
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 方法. このノードに子があるかどうかを返します.
+title: "Node.HasChildNodes"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node HasChildNodes メソッド。指定された Node が子ノードを持つかどうかを示すブール値を返します。"
 type: docs
-weight: 210
+weight: 190
 url: /ja/net/aspose.svg.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method
 
-このノードに子があるかどうかを返します.
+指定された [`Node`](../) が子ノードを持つかどうかを示すブール値を返します。
 
 ```csharp
 public bool HasChildNodes()
@@ -16,12 +16,10 @@ public bool HasChildNodes()
 
 ### 戻り値
 
-`真実`子ノードがある場合`間違い` .
+ノードが子ノードを持つ場合は true、そうでない場合は false のブール値です。
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

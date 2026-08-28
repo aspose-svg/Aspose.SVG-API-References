@@ -1,89 +1,87 @@
 ---
-title: IDocumentTraversal.CreateTreeWalker
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDocumentTraversal 方法. 指定したノード をルートとするサブツリーに新しい TreeWalker を作成します
+title: "IDocumentTraversal.CreateTreeWalker"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDocumentTraversal CreateTreeWalker メソッド。指定されたノードを根とするサブツリー上に新しい TreeWalker を作成します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.traversal/idocumenttraversal/createtreewalker/
 ---
-## CreateTreeWalker(Node) {#createtreewalker}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/)*) {#createtreewalker}
 
-指定したノード をルートとするサブツリーに新しい TreeWalker を作成します。
+指定されたノードを根とするサブツリー上に新しい TreeWalker を作成します。
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| root | Node | TreeWalker のルートとして機能するノード。この値を設定する場合、whatToShow フラグと NodeFilter は考慮されません。 任意のノード タイプがルートとして受け入れられます。 TreeWalker の currentNode は、可視かどうかに関係なく、このノードに初期化されます。 ルートは、 parentNode や nextNode など、ドキュメント構造を上方向に参照する traversal メソッドの停止点として機能します。ルートは null であってはなりません 。 |
+| root | ノード | TreeWalker のルートとして使用されるノード。この値を設定する際、whatToShow フラグと NodeFilter は考慮されず、任意のノードタイプがルートとして受け入れられます。TreeWalker の currentNode はこのノードに初期化され、可視かどうかにかかわらず設定されます。ルートは、parentNode や nextNode など、ドキュメント構造を上方向にたどる走査メソッドの停止点として機能します。ルートは null にしてはいけません。 |
 
 ### 戻り値
 
-新しく作成された TreeWalker.
+新しく作成された TreeWalker。
 
-### 関連項目
+### 参照
 
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long) {#createtreewalker_1}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long*) {#createtreewalker_1}
 
-指定したノード をルートとするサブツリーに新しい TreeWalker を作成します。
+指定されたノードを根とするサブツリー上に新しい TreeWalker を作成します。
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| root | Node | TreeWalker のルートとして機能するノード。この値を設定する場合、whatToShow フラグと NodeFilter は考慮されません。 任意のノード タイプがルートとして受け入れられます。 TreeWalker の currentNode は、可視かどうかに関係なく、このノードに初期化されます。 ルートは、 parentNode や nextNode など、ドキュメント構造を上方向に参照する traversal メソッドの停止点として機能します。ルートは null であってはなりません 。 |
-| whatToShow | Int64 | flag は、ツリー ウォーカーによって提示されるツリーの論理ビューに表示されるノード タイプを指定します。可能な SHOW_ 値のセットについては、NodeFilter の の説明を参照してください。これらのフラグは、OR を使用して組み合わせることができます。 |
+| root | ノード | TreeWalker のルートとして使用されるノード。この値を設定する際、whatToShow フラグと NodeFilter は考慮されず、任意のノードタイプがルートとして受け入れられます。TreeWalker の currentNode はこのノードに初期化され、可視かどうかにかかわらず設定されます。ルートは、parentNode や nextNode など、ドキュメント構造を上方向にたどる走査メソッドの停止点として機能します。ルートは null にしてはいけません。 |
+| whatToShow | Int64 | フラグは、ツリーワーカーが提示するツリーの論理ビューに表示できるノードタイプを指定します。可能な SHOW_ 値のセットについては NodeFilter の説明を参照してください。これらのフラグは OR 演算子で組み合わせることができます。 |
 
 ### 戻り値
 
-新しく作成された TreeWalker.
+新しく作成された TreeWalker。
 
-### 関連項目
+### 参照
 
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long, [INodeFilter](../../inodefilter/)*) {#createtreewalker_2}
 
-指定したノード をルートとするサブツリーに新しい TreeWalker を作成します。
+指定されたノードを根とするサブツリー上に新しい TreeWalker を作成します。
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| root | Node | TreeWalker のルートとして機能するノード。この値を設定する場合、whatToShow フラグと NodeFilter は考慮されません。 任意のノード タイプがルートとして受け入れられます。 TreeWalker の currentNode は、可視かどうかに関係なく、このノードに初期化されます。 ルートは、 parentNode や nextNode など、ドキュメント構造を上方向に参照する traversal メソッドの停止点として機能します。ルートは null であってはなりません 。 |
-| whatToShow | Int64 | flag は、ツリー ウォーカーによって提示されるツリーの論理ビューに表示されるノード タイプを指定します。可能な SHOW_ 値のセットについては、NodeFilter の の説明を参照してください。これらのフラグは、OR を使用して組み合わせることができます。 |
-| filter | INodeFilter | this TreeWalker で使用される NodeFilter、またはフィルターがないことを示す null。 |
+| root | ノード | TreeWalker のルートとして使用されるノード。この値を設定する際、whatToShow フラグと NodeFilter は考慮されず、任意のノードタイプがルートとして受け入れられます。TreeWalker の currentNode はこのノードに初期化され、可視かどうかにかかわらず設定されます。ルートは、parentNode や nextNode など、ドキュメント構造を上方向にたどる走査メソッドの停止点として機能します。ルートは null にしてはいけません。 |
+| whatToShow | Int64 | フラグは、ツリーワーカーが提示するツリーの論理ビューに表示できるノードタイプを指定します。可能な SHOW_ 値のセットについては NodeFilter の説明を参照してください。これらのフラグは OR 演算子で組み合わせることができます。 |
+| filter | INodeFilter | この TreeWalker で使用する NodeFilter、またはフィルタがないことを示すための null。 |
 
 ### 戻り値
 
-新しく作成された TreeWalker.
+新しく作成された TreeWalker。
 
-### 関連項目
+### 参照
 
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

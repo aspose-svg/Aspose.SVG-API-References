@@ -1,50 +1,50 @@
 ---
-title: License.SetLicense
-second_title: Aspose.SVG for .NET API リファレンス
-description: License 方法. コンポーネントのライセンスを取得します
+title: "License.SetLicense"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "License の SetLicense メソッドです。コンポーネントにライセンスを適用します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/license/setlicense/
 ---
-## SetLicense(string) {#setlicense_1}
+## SetLicense(*string*) {#setlicense_1}
 
-コンポーネントのライセンスを取得します。
+コンポーネントにライセンスを付与します。
 
 ```csharp
 public void SetLicense(string licenseName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| licenseName | String | 完全または短いファイル名にすることができますまたは埋め込みリソースの名前. 空の文字列を使用して、評価モードに切り替えます。 |
+| licenseName | String | 完全なファイル名または短縮ファイル名、あるいは埋め込みリソースの名前を指定できます。空文字列を使用すると評価モードに切り替わります。 |
 
-### 備考
+## 備考
 
-次の場所でライセンスを見つけようとします。
-
-1. 明示的なパス。
-
-2. Aspose コンポーネント アセンブリを含むフォルダー。
-
-3. クライアントの呼び出しアセンブリを含むフォルダー。
-
-4. エントリ (スタートアップ) アセンブリを含むフォルダー。
-
-5. クライアントの呼び出しアセンブリに埋め込まれたリソース。
-
-**ノート：**.NET Compact Framework では、次の場所でのみライセンスを見つけようとします。
+次の場所でライセンスを検索します：
 
 1. 明示的なパス。
 
-2. クライアントの呼び出しアセンブリに埋め込まれたリソース。
+2. Aspose コンポーネント アセンブリが含まれるフォルダー。
 
-2. Aspose コンポーネント JAR ファイルを含むフォルダー。
+3. クライアントの呼び出し側アセンブリが含まれるフォルダー。
 
-3. クライアントの呼び出し JAR ファイルを含むフォルダー。
+4. エントリ (スタートアップ) アセンブリが含まれるフォルダー。
 
-### 例
+5. クライアントの呼び出しアセンブリに埋め込まれたリソースです。
 
-この例では、 を含むフォルダーで MyLicense.lic という名前のライセンス ファイルを検索しようとします。 呼び出しアセンブリを含むフォルダー内のコンポーネント、 エントリ アセンブリのフォルダー内、および呼び出しアセンブリの埋め込みリソース内のコンポーネント.
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
+
+1. 明示的なパス。
+
+2. クライアントの呼び出しアセンブリに埋め込まれたリソースです。
+
+2. Aspose コンポーネント JAR ファイルを含むフォルダーです。
+
+3. クライアントの呼び出し JAR ファイルを含むフォルダーです。
+
+## 例
+
+この例では、コンポーネントが含まれるフォルダー、呼び出しアセンブリが含まれるフォルダー、エントリアセンブリのフォルダー、そして呼び出しアセンブリの埋め込みリソース内で、MyLicense.lic という名前のライセンスファイルを検索しようとします。
 
 ```csharp
 [C#]
@@ -53,38 +53,38 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-コンポーネント jar ファイル:
+コンポーネントの jar ファイル:
 
 ```csharp
 License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### 関連項目
+### 参照
 
 * class [License](../)
-* 名前空間 [Aspose.Svg](../../license/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetLicense(Stream) {#setlicense}
+## SetLicense(*Stream*) {#setlicense}
 
-コンポーネントのライセンスを取得します。
+コンポーネントにライセンスを付与します。
 
 ```csharp
 public void SetLicense(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ライセンスを含むストリーム。 |
+| ストリーム | Stream | ライセンスを含むストリームです。 |
 
-### 備考
+## 備考
 
 このメソッドを使用して、ストリームからライセンスをロードします。
 
-### 例
+## 例
 
 ```csharp
 [C#]
@@ -93,10 +93,8 @@ License license = new License();
 license.SetLicense(myStream);
 ```
 
-### 関連項目
+### 参照
 
 * class [License](../)
-* 名前空間 [Aspose.Svg](../../license/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

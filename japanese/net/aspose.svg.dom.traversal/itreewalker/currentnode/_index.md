@@ -1,34 +1,32 @@
 ---
-title: ITreeWalker.CurrentNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITreeWalker 財産. TreeWalker が現在配置されているノード DOM ツリーの変更により現在のノードが TreeWalker の関連フィルターによって受け入れられなくなる可能性があります currentNode は任意のノードに明示的に設定することもできます ルート ノードによって指定されたサブツリー内にあるかフィルターおよび whatToShow フラグによって受け入れられます要求された方向にフィルタを適用することにより現在のビュー の一部でなくても currentNode に対して相対的にさらにトラバーサルが発生します traversal が不可能な場合currentNode は変更されません
+title: "ITreeWalker.CurrentNode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITreeWalker CurrentNode プロパティ。TreeWalker が現在位置しているノードです。DOM ツリーの変更により、現在のノードが TreeWalker の関連フィルタで受け入れられなくなることがあります。currentNode は、ルートノードで指定されたサブツリー内にあるかどうか、またはフィルタや whatToShow フラグで受け入れられるかに関係なく、任意のノードに明示的に設定することもできます。さらに、要求された方向にフィルタを適用してトラバーサルが不可能な場合でも、currentNode は変更されません"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.traversal/itreewalker/currentnode/
 ---
 ## ITreeWalker.CurrentNode property
 
-TreeWalker が現在配置されているノード。 DOM ツリーの変更により、現在のノードが TreeWalker の関連フィルターによって受け入れられなくなる可能性があります。 currentNode は、任意のノードに明示的に設定することもできます。 ルート ノードによって指定されたサブツリー内にあるか、フィルターおよび whatToShow フラグによって受け入れられます。要求された方向にフィルタを適用することにより、現在のビュー の一部でなくても、 currentNode に対して相対的にさらにトラバーサルが発生します。 traversal が不可能な場合、currentNode は変更されません。
+TreeWalker が現在位置しているノードです。DOM ツリーの変更により、現在のノードが TreeWalker に関連付けられたフィルタによってもはや受け入れられなくなることがあります。currentNode は、ルートノードで指定されたサブツリー内にあるかどうか、またはフィルタや whatToShow フラグで受け入れられるかどうかに関係なく、任意のノードに明示的に設定することもできます。さらに、currentNode が現在のビューの一部でなくても、要求された方向のフィルタを適用して走査が続行されます。走査が不可能な場合、currentNode は変更されません。
 
 ```csharp
 public Node CurrentNode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 現在のノード。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: set currentNode を null にしようとした場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: currentNode を null に設定しようとした場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

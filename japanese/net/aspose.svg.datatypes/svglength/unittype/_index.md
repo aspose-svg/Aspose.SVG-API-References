@@ -1,27 +1,25 @@
 ---
-title: SVGLength.UnitType
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGLength 財産. このインターフェイスで定義された SVG_LENGTHTYPE_ 定数の 1 つによって指定された値の型
+title: "SVGLength.UnitType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGLength UnitType プロパティ。 このインターフェイスで定義された SVG_LENGTHTYPE_ 定数のいずれかによって指定された値の型"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.datatypes/svglength/unittype/
 ---
 ## SVGLength.UnitType property
 
-このインターフェイスで定義された SVG_LENGTHTYPE_* 定数の 1 つによって指定された値の型。
+このインターフェイスで定義されている SVG_LENGTHTYPE_* 定数のいずれかによって指定される値の型です。
 
 ```csharp
 public ushort UnitType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ユニットのタイプ.
+単位のタイプです。
 
-### 関連項目
+### 参照
 
 * class [SVGLength](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svglength/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

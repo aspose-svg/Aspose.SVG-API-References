@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.Name
-second_title: Aspose.SVG for .NET API リファレンス
-description: FileCreateStreamProvider 財産. 名前を取得または設定します
+title: "FileCreateStreamProvider.Name"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FileCreateStreamProvider Name プロパティ。名前を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.io/filecreatestreamprovider/name/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.io/filecreatestreamprovider/name/
 public string Name { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-名前.
+名前。
 
-### 関連項目
+### 参照
 
 * class [FileCreateStreamProvider](../)
-* 名前空間 [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

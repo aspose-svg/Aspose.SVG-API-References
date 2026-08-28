@@ -1,7 +1,7 @@
 ---
-title: GlyphInfo.Index
-second_title: Aspose.SVG for .NET API リファレンス
-description: GlyphInfo 財産. フォント内のこのグリフのインデックスを取得します
+title: "GlyphInfo.Index"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GlyphInfo Index プロパティ。フォント内のこのグリフのインデックスを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering/glyphinfo/index/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.rendering/glyphinfo/index/
 public uint Index { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-グリフのインデックス.
+グリフのインデックス。
 
-### 関連項目
+### 参照
 
 * struct [GlyphInfo](../)
-* 名前空間 [Aspose.Svg.Rendering](../../glyphinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

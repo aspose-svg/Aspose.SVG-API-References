@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.OldValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationRecord 財産. 戻り値は型によって異なります attributesの場合変更前の変更された属性の値です characterDataの場合変更前の変更されたノードのデータです childListの場合null です
+title: "MutationRecord.OldValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationRecord OldValue プロパティ。戻り値はタイプに依存します。属性の場合、変更前の属性の値です。characterData の場合、変更前のノードのデータです。childList の場合は null です。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom.mutations/mutationrecord/oldvalue/
 ---
 ## MutationRecord.OldValue property
 
-戻り値は型によって異なります。 「attributes」の場合、変更前の変更された属性の値です。 「characterData」の場合、変更前の変更されたノードのデータです。 「childList」の場合、null です。
+戻り値はタイプに依存します。"attributes" の場合、変更前の属性の値が返されます。"characterData" の場合、変更前のノードのデータが返されます。"childList" の場合、null が返されます。
 
 ```csharp
 public string OldValue { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-古い値.
+古い値です。
 
-### 関連項目
+### 参照
 
 * class [MutationRecord](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

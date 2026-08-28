@@ -1,31 +1,29 @@
 ---
-title: PdfEncryptionInfo.UserPassword
-second_title: Aspose.SVG for .NET API リファレンス
-description: PdfEncryptionInfo 財産. ユーザーパスワードを取得または設定します
+title: "PdfEncryptionInfo.UserPassword"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PdfEncryptionInfo UserPassword プロパティ。ユーザーパスワードを取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword/
 ---
 ## PdfEncryptionInfo.UserPassword property
 
-ユーザーパスワードを取得または設定します。
+User パスワードを取得または設定します。
 
 ```csharp
 public string UserPassword { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ユーザーパスワード.
+ユーザーパスワードです。
 
-### 備考
+## 備考
 
-正しいユーザー パスワードでドキュメントを開く (またはユーザー パスワードを持たないドキュメント を開く) と、ドキュメントの 暗号化辞書で指定されたユーザー アクセス許可に従って 追加操作を実行できます。
+正しいユーザーパスワードでドキュメントを開く（またはユーザーパスワードが設定されていないドキュメントを開く）と、ドキュメントの暗号化辞書に指定されたユーザーアクセス権限に従って追加の操作を実行できます。
 
-### 関連項目
+### 参照
 
 * class [PdfEncryptionInfo](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

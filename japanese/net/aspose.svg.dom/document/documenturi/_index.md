@@ -1,27 +1,25 @@
 ---
-title: Document.DocumentURI
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. ドキュメントの場所未定義の場合または Document が DOMImplementation.createDocument. を使用して作成された場合は null
+title: "Document.DocumentURI"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document DocumentURI プロパティ。ドキュメントの場所を示し、未定義の場合や Document が DOMImplementation.createDocument で作成された場合は null になります。"
 type: docs
 weight: 110
 url: /ja/net/aspose.svg.dom/document/documenturi/
 ---
 ## Document.DocumentURI property
 
-ドキュメントの場所。未定義の場合、または Document が DOMImplementation.createDocument. を使用して作成された場合は null
+文書の位置、または未定義の場合や Document が DOMImplementation.createDocument を使用して作成された場合は null。
 
 ```csharp
 public string DocumentURI { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメント URI.
+ドキュメント URI です。
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

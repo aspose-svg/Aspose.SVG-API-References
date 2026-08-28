@@ -1,23 +1,21 @@
 ---
-title: NamedNodeMap.Length
-second_title: Aspose.SVG for .NET API リファレンス
-description: NamedNodeMap 財産. このマップ内のノードの数.
+title: "NamedNodeMap.Length"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "NamedNodeMap Length プロパティ。このマップ内のノード数。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.collections/namednodemap/length/
 ---
 ## NamedNodeMap.Length property
 
-このマップ内のノードの数.
+このマップのノード数です。
 
 ```csharp
 public int Length { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [NamedNodeMap](../)
-* 名前空間 [Aspose.Svg.Collections](../../namednodemap/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

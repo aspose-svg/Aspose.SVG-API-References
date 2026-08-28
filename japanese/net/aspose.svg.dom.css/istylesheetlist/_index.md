@@ -1,30 +1,28 @@
 ---
-title: Interface IStyleSheetList
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.IStyleSheetList インターフェース. StyleSheetList インターフェイスはスタイル シートの順序付けられたコレクションの抽象化を提供します
+title: "IStyleSheetList インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.IStyleSheetList interface. StyleSheetList インターフェイスは、順序付けられたスタイルシートのコレクションの抽象化を提供します。"
 type: docs
-weight: 750
+weight: 2750
 url: /ja/net/aspose.svg.dom.css/istylesheetlist/
 ---
 ## IStyleSheetList interface
 
-StyleSheetList インターフェイスは、スタイル シートの順序付けられたコレクションの抽象化を提供します。
+StyleSheetList インターフェイスは、順序付けられたスタイルシートのコレクションの抽象化を提供します。
 
 ```csharp
-public interface IStyleSheetList : IEnumerable<IStyleSheet>
+public interface IStyleSheetList : IEnumerable<ICSSStyleSheet>
 ```
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/istylesheetlist/item/) { get; } | http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html. に従って、メソッド item(int index) によってスタイル シートを取得するために使用されます。 |
-| [Length](../../aspose.svg.dom.css/istylesheetlist/length/) { get; } | リスト内のスタイルシートの数。有効な子スタイルシート インデックスの範囲は、0 から長さ 1 までです。 |
+| [Item](../../aspose.svg.dom.css/istylesheetlist/item/) { get; } | http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html に従い、item(int index) メソッドでスタイルシートを取得するために使用されます。 |
+| [Length](../../aspose.svg.dom.css/istylesheetlist/length/) { get; } | リスト内の StyleSheets の数です。有効な子スタイルシートインデックスの範囲は 0 から length-1（含む）です。 |
 
-### 関連項目
+### 参照
 
-* interface [IStyleSheet](../istylesheet/)
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* interface [ICSSStyleSheet](../icssstylesheet/)
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

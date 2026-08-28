@@ -1,7 +1,7 @@
 ---
-title: Document.Context
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. 現在のブラウジング コンテキストを取得します
+title: "Document.Context"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document Context プロパティ。現在の閲覧コンテキストを取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom/document/context/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.dom/document/context/
 public IBrowsingContext Context { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-コンテキスト.
+コンテキスト。
 
-### 関連項目
+### 参照
 
 * interface [IBrowsingContext](../../ibrowsingcontext/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

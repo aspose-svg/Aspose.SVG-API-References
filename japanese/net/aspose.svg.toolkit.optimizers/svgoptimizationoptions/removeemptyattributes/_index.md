@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveEmptyAttributes
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGOptimizationOptions 財産. 空の値を持つ属性を削除するオプションを取得または設定しますデフォルトではtrueです
+title: "SVGOptimizationOptions.RemoveEmptyAttributes"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGOptimizationOptions RemoveEmptyAttributes プロパティ。空の値を持つ属性を削除するオプションを取得または設定します。デフォルトは true です。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptyattributes/
 ---
 ## SVGOptimizationOptions.RemoveEmptyAttributes property
 
-空の値を持つ属性を削除するオプションを取得または設定します。デフォルトでは「true」です。
+空の値を持つ属性を削除するオプションを取得または設定します。デフォルトは 'true' です。
 
 ```csharp
 public bool RemoveEmptyAttributes { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGOptimizationOptions](../)
-* 名前空間 [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

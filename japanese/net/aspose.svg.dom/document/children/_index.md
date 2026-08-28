@@ -1,7 +1,7 @@
 ---
-title: Document.Children
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. 子要素を返します
+title: "Document.Children"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document Children プロパティ。子要素を返します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.dom/document/children/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.dom/document/children/
 public HTMLCollection Children { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-子供たち.
+子要素。
 
-### 関連項目
+### 参照
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

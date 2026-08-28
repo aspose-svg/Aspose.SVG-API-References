@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.EmptyCells
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の emptycells プロパティの定義を参照してください
+title: "ICSS2Properties.EmptyCells"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties EmptyCells プロパティ。CSS2 の empty-cells プロパティ定義を参照してください。"
 type: docs
 weight: 450
 url: /ja/net/aspose.svg.dom.css/icss2properties/emptycells/
 ---
 ## ICSS2Properties.EmptyCells property
 
-CSS2 の empty-cells プロパティの定義を参照してください。
+CSS2 の empty-cells プロパティの定義をご覧ください。
 
 ```csharp
 public string EmptyCells { get; set; }
@@ -16,12 +16,10 @@ public string EmptyCells { get; set; }
 
 ### 戻り値
 
-空のセル プロパティ
+empty-cells プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

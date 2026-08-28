@@ -1,14 +1,14 @@
 ---
-title: Color.ToRgbaHexString
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. RRGGBBAA. で指定された 16 進数の色を返します
+title: "Color.ToRgbaHexString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color ToRgbaHexString メソッド。RRGGBBAA で指定された十六進カラー文字列を返します。"
 type: docs
 weight: 390
 url: /ja/net/aspose.svg.drawing/color/torgbahexstring/
 ---
 ## Color.ToRgbaHexString method
 
-#RRGGBBAA. で指定された 16 進数の色を返します。
+16 進数カラーが #RRGGBBAA で指定されたものを返します。
 
 ```csharp
 public string ToRgbaHexString()
@@ -16,12 +16,10 @@ public string ToRgbaHexString()
 
 ### 戻り値
 
-16 進数のカラー文字列。
+十六進カラー文字列です。
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

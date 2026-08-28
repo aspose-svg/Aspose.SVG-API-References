@@ -1,28 +1,26 @@
 ---
-title: Document.Location
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. ドキュメントの場所
+title: "Document.Location"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document Location プロパティ。ドキュメントの場所です。"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg.dom/document/location/
 ---
 ## Document.Location property
 
-ドキュメントの場所。
+文書の位置。
 
 ```csharp
 public Location Location { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-場所.
+位置。
 
-### 関連項目
+### 参照
 
 * class [Location](../../../aspose.svg.window/location/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

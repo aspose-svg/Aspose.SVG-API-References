@@ -1,45 +1,44 @@
 ---
-title: Class ResponseMessage
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.ResponseMessage クラス. 応答メッセージを表します
+title: "ResponseMessage クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.ResponseMessage クラス。レスポンスメッセージを表します"
 type: docs
-weight: 2440
+weight: 4510
 url: /ja/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
 
-応答メッセージを表します。
+レスポンス メッセージを表します。
 
 ```csharp
 public class ResponseMessage : IDisposable
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | の新しいインスタンスを初期化します`ResponseMessage` class. |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | `ResponseMessage` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | 応答コンテンツを取得または設定します。 |
-| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Cookie コレクションを取得または設定します。 |
+| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | レスポンスコンテンツを取得または設定します。 |
+| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | クッキーコレクションを取得または設定します。 |
 | [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | ヘッダーを取得します。 |
-| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | このメッセージが成功したかどうかを示す値を取得します。 |
-| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | 関連付けられた要求を取得または設定します。 |
-| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | ステータス コードを取得または設定します。 |
+| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | このメッセージが成功かどうかを示す値を取得します。 |
+| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | 関連するリクエストを取得または設定します。 |
+| [ResponseUri](../../aspose.svg.net/responsemessage/responseuri/) { get; set; } | レスポンス URI を取得または設定します。 |
+| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | ステータスコードを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | アンマネージ リソースの解放、解放、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
+| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

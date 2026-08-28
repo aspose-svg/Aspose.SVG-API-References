@@ -1,14 +1,14 @@
 ---
-title: Url.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: Url 方法. を返しますStringこのインスタンスを表す.
+title: "Url.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Url ToString メソッド。このインスタンスを表す String を返します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.svg/url/tostring/
 ---
 ## Url.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表す String を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

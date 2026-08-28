@@ -1,14 +1,14 @@
 ---
-title: Interface ISolidBrush
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Drawing.ISolidBrush インターフェース. 単一色のブラシ インターフェイスを定義します
+title: "ISolidBrush インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Drawing.ISolidBrush interface. 単一色のブラシインターフェイスを定義します。"
 type: docs
-weight: 1480
+weight: 3510
 url: /ja/net/aspose.svg.drawing/isolidbrush/
 ---
 ## ISolidBrush interface
 
-単一色のブラシ インターフェイスを定義します
+単一色のブラシインターフェイスを定義します
 
 ```csharp
 public interface ISolidBrush : IBrush
@@ -20,10 +20,8 @@ public interface ISolidBrush : IBrush
 | --- | --- |
 | [Color](../../aspose.svg.drawing/isolidbrush/color/) { get; } | ブラシの色を取得します。 |
 
-### 関連項目
+### 参照
 
 * interface [IBrush](../ibrush/)
-* 名前空間 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

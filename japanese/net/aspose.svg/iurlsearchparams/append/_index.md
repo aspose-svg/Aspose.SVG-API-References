@@ -1,28 +1,26 @@
 ---
-title: IUrlSearchParams.Append
-second_title: Aspose.SVG for .NET API リファレンス
-description: IUrlSearchParams 方法. という名前の新しい名前と値のペアを追加します名前そして値は価値 .
+title: "IUrlSearchParams.Append"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IUrlSearchParams の Append メソッド。名前が name、値が value の新しい名前と値のペアを追加します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
 
-という名前の新しい名前と値のペアを追加します。`名前`そして値は`価値` .
+名前が `name` で値が `value` の新しい名前-値ペアを追加します。
 
 ```csharp
 public void Append(string name, string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | 新しい名前と値のペアの名前。 |
-| value | String | 新しい名前と値のペアの値。 |
+| 名前 | String | 新しい名前と値のペアの名前です。 |
+| value | String | 新しい名前と値のペアの値です。 |
 
-### 関連項目
+### 参照
 
 * interface [IUrlSearchParams](../)
-* 名前空間 [Aspose.Svg](../../iurlsearchparams/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

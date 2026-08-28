@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Elevation
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の標高プロパティの定義を参照してください
+title: "ICSS2Properties.Elevation"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Elevation プロパティ。CSS2 の elevation プロパティ定義を参照してください"
 type: docs
 weight: 440
 url: /ja/net/aspose.svg.dom.css/icss2properties/elevation/
 ---
 ## ICSS2Properties.Elevation property
 
-CSS2 の標高プロパティの定義を参照してください。
+CSS2 の elevation プロパティの定義をご覧ください。
 
 ```csharp
 public string Elevation { get; set; }
@@ -16,12 +16,10 @@ public string Elevation { get; set; }
 
 ### 戻り値
 
-標高プロパティ
+elevation プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

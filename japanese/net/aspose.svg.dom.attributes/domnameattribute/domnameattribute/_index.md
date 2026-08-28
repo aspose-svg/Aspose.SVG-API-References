@@ -1,27 +1,25 @@
 ---
-title: DOMNameAttribute.DOMNameAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMNameAttribute コンストラクタ. の新しいインスタンスを初期化しますDOMNameAttribute class.
+title: "DOMNameAttribute"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMNameAttribute コンストラクタ。DOMNameAttribute クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
 
-の新しいインスタンスを初期化します[`DOMNameAttribute`](../) class.
+[`DOMNameAttribute`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public DOMNameAttribute(string name)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | DOM 名。 |
+| 名前 | String | DOM 名です。 |
 
-### 関連項目
+### 参照
 
 * class [DOMNameAttribute](../)
-* 名前空間 [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

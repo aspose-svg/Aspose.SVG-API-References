@@ -1,14 +1,14 @@
 ---
-title: HttpMethod.GetHashCode
-second_title: Aspose.SVG for .NET API リファレンス
-description: HttpMethod 方法. このインスタンスのハッシュ コードを返します
+title: "HttpMethod.GetHashCode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "HttpMethod GetHashCode メソッド。このインスタンスのハッシュコードを返します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.net/httpmethod/gethashcode/
 ---
 ## HttpMethod.GetHashCode method
 
-このインスタンスのハッシュ コードを返します。
+このインスタンスのハッシュコードを返します。
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### 戻り値
 
-このインスタンスのハッシュ コード。ハッシュ アルゴリズムやハッシュ テーブルなどのデータ構造での使用に適しています。
+ハッシュテーブルなどのハッシュアルゴリズムやデータ構造で使用できる、このインスタンスのハッシュコードです。
 
-### 関連項目
+### 参照
 
 * class [HttpMethod](../)
-* 名前空間 [Aspose.Svg.Net](../../httpmethod/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

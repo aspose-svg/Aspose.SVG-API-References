@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetCounterValue
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 方法. このメソッドはカウンター値を取得するために使用されますこの CSS 値にカウンター値が含まれていない場合DOMException が発生します Counter インターフェイスを使用して対応するスタイル プロパティを変更できます
+title: "CSSPrimitiveValue.GetCounterValue"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue GetCounterValue メソッド。このメソッドは Counter 値を取得するために使用されます。この CSS 値にカウンタ値が含まれていない場合、DOMException がスローされます。対応するスタイルプロパティの変更は Counter インターフェイスを使用して行うことができます。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/getcountervalue/
 ---
 ## CSSPrimitiveValue.GetCounterValue method
 
-このメソッドは、カウンター値を取得するために使用されます。この CSS 値にカウンター値が含まれていない場合、DOMException が発生します。 Counter インターフェイスを使用して、対応するスタイル プロパティを変更できます。
+このメソッドは Counter 値を取得するために使用されます。この CSS 値にカウンタ値が含まれていない場合、DOMException がスローされます。対応するスタイルプロパティの変更は Counter インターフェイスを使用して行うことができます。
 
 ```csharp
 public abstract Counter GetCounterValue()
@@ -18,11 +18,9 @@ public abstract Counter GetCounterValue()
 
 カウンタ値を返します
 
-### 関連項目
+### 参照
 
 * class [Counter](../../counter/)
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

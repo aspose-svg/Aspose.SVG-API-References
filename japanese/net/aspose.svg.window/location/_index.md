@@ -1,53 +1,45 @@
 ---
-title: Class Location
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Window.Location クラス. Location オブジェクトはDocument のブラウジング コンテキストのアクティブなドキュメントのアドレスの表現を提供し履歴オブジェクトのエントリを追加または置換することによってブラウジング コンテキストのセッション履歴の現在のエントリを変更できるようにします
+title: "Location クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Window.Location クラス。Location オブジェクトは、ドキュメントの閲覧コンテキスト内でアクティブなドキュメントのアドレスを表現し、履歴オブジェクトにエントリを追加または置換することで、閲覧コンテキストのセッション履歴の現在のエントリを変更できるようにします。"
 type: docs
-weight: 3850
+weight: 5950
 url: /ja/net/aspose.svg.window/location/
 ---
 ## Location class
 
-Location オブジェクトは、Document のブラウジング コンテキストのアクティブなドキュメントのアドレスの表現を提供し、履歴オブジェクトのエントリを追加または置換することによって、ブラウジング コンテキストのセッション履歴の現在のエントリを変更できるようにします。
+Location オブジェクトは、ドキュメントの閲覧コンテキスト内でアクティブなドキュメントのアドレスを表現し、履歴オブジェクトにエントリを追加または置換することで、閲覧コンテキストのセッション履歴の現在のエントリを変更できるようにします。
 
 ```csharp
-public sealed class Location : Url
+public sealed class Location : DOMObject
 ```
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Hash](../../aspose.svg/url/hash/) { get; set; } | 指定された URL ハッシュ セグメントの文字列表現を取得または設定します。 |
-| [Host](../../aspose.svg/url/host/) { get; set; } | 指定された URL ホストの文字列表現を取得または設定します。 |
-| [Hostname](../../aspose.svg/url/hostname/) { get; set; } | 指定された URL ホスト名の文字列表現を取得または設定します。 |
-| [Href](../../aspose.svg/url/href/) { get; set; } | 指定された URL インスタンスのシリアル化された表現を取得または設定します。 |
-| [Origin](../../aspose.svg/url/origin/) { get; } | 指定された URL オリジンの文字列表現を取得します。 |
-| [Password](../../aspose.svg/url/password/) { get; set; } | 指定された URL パスワードの文字列表現を取得または設定します。 |
-| [Pathname](../../aspose.svg/url/pathname/) { get; set; } | 指定された URL パスの文字列表現を取得または設定します。 |
-| [Port](../../aspose.svg/url/port/) { get; set; } | 指定された URL ポートの文字列表現を取得または設定します。 |
-| [Protocol](../../aspose.svg/url/protocol/) { get; set; } | 指定された URL スキーマの文字列表現を取得または設定します。 |
-| [Search](../../aspose.svg/url/search/) { get; set; } | 指定された URL 検索セグメントの文字列表現を取得または設定します。 |
-| [SearchParams](../../aspose.svg/url/searchparams/) { get; } | 関連を取得します[`IUrlSearchParams`](../../aspose.svg/iurlsearchparams/)object. |
-| [Username](../../aspose.svg/url/username/) { get; set; } | 指定された URL ユーザー名の文字列表現を取得または設定します。 |
+| [Hash](../../aspose.svg.window/location/hash/) { get; set; } | Location オブジェクトの URL のフラグメントを返します（空でない場合は先頭の # を含みます）。設定可能で、フラグメントを変更した同じ URL にナビゲートします（先頭の # は無視されます）。 |
+| [Host](../../aspose.svg.window/location/host/) { get; set; } | Location オブジェクトの URL のホストとポートを返します（スキームのデフォルトポートと異なる場合）。設定可能で、ホストとポートを変更した同じ URL にナビゲートします。 |
+| [Hostname](../../aspose.svg.window/location/hostname/) { get; set; } | Location オブジェクトの URL のホストを返します。設定可能で、ホストを変更した同じ URL にナビゲートします。 |
+| [Href](../../aspose.svg.window/location/href/) { get; set; } | Location オブジェクトの URL を返します。設定可能で、指定された URL にナビゲートします。 |
+| [Origin](../../aspose.svg.window/location/origin/) { get; } | Location オブジェクトの URL のオリジンを返します。 |
+| [Pathname](../../aspose.svg.window/location/pathname/) { get; set; } | Location オブジェクトの URL のパスを返します。設定可能で、パスを変更した同じ URL にナビゲートします。 |
+| [Port](../../aspose.svg.window/location/port/) { get; set; } | Location オブジェクトの URL のポートを返します。設定可能で、ポートを変更した同じ URL にナビゲートします。 |
+| [Protocol](../../aspose.svg.window/location/protocol/) { get; set; } | Location オブジェクトの URL のスキームを返します。設定可能で、スキームを変更した同じ URL にナビゲートします。 |
+| [Search](../../aspose.svg.window/location/search/) { get; set; } | Location オブジェクトの URL のクエリを返します（空でない場合は先頭の ? を含みます）。設定可能で、クエリを変更した同じ URL にナビゲートします（先頭の ? は無視されます）。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Assign](../../aspose.svg.window/location/assign/)(string) | 指定されたページに移動します。 |
-| override [Equals](../../aspose.svg/url/equals/)(object) | 指定されたObject 、このインスタンスと等しい. |
-| override [GetHashCode](../../aspose.svg/url/gethashcode/)() | このインスタンスのハッシュ コードを返します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| [Reload](../../aspose.svg.window/location/reload/)() | 現在のページをリロードします。 |
-| [Replace](../../aspose.svg.window/location/replace/)(string) | セッション履歴から現在のページを削除し、指定されたページに移動します。 |
-| [ToJson](../../aspose.svg/url/tojson/)() | を返しますStringこのインスタンスを表す. |
-| override [ToString](../../aspose.svg/url/tostring/)() | を返しますStringこのインスタンスを表す. |
+| [Assign](../../aspose.svg.window/location/assign/)(*string*) | 指定されたページにナビゲートします。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| [Reload](../../aspose.svg.window/location/reload/)() | 現在のページを再読み込みします。 |
+| [Replace](../../aspose.svg.window/location/replace/)(*string*) | 現在のページをセッション履歴から削除し、指定されたページにナビゲートします。 |
+| override [ToString](../../aspose.svg.window/location/tostring/)() | Location オブジェクトの URL を返します。 |
 
-### 関連項目
+### 参照
 
-* class [Url](../../aspose.svg/url/)
-* 名前空間 [Aspose.Svg.Window](../../aspose.svg.window/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* class [DOMObject](../../aspose.svg.dom/domobject/)
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

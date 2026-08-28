@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendPositions
-second_title: Aspose.SVG for .NET API リファレンス
-description: IGradientBrush 財産. グラデーションのカスタム減衰を定義するブレンド位置を取得します
+title: "IGradientBrush.BlendPositions"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IGradientBrush BlendPositions プロパティ。グラデーションのカスタムフェードオフを定義するブレンド位置を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.drawing/igradientbrush/blendpositions/
 ---
 ## IGradientBrush.BlendPositions property
 
-グラデーションのカスタム減衰を定義するブレンド位置を取得します。
+グラデーションのカスタムフォールオフを定義するブレンド位置を取得または設定します。
 
 ```csharp
-public float[] BlendPositions { get; }
+public float[] BlendPositions { get; set; }
 ```
 
 ### 戻り値
 
 ブレンド位置。
 
-### 関連項目
+### 参照
 
 * interface [IGradientBrush](../)
-* 名前空間 [Aspose.Svg.Drawing](../../igradientbrush/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

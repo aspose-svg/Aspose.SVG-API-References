@@ -1,27 +1,25 @@
 ---
-title: Attr.NodeName
-second_title: Aspose.SVG for .NET API リファレンス
-description: Attr 財産. タイプに応じたこのノードの名前.
+title: "Attr.NodeName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Attr NodeName プロパティ。 このノードの名前はそのタイプに応じて決まります。"
 type: docs
-weight: 50
+weight: 40
 url: /ja/net/aspose.svg.dom/attr/nodename/
 ---
 ## Attr.NodeName property
 
-タイプに応じたこのノードの名前.
+このノードの名前（タイプに応じて）。
 
 ```csharp
 public override string NodeName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 ノードの名前。
 
-### 関連項目
+### 参照
 
 * class [Attr](../)
-* 名前空間 [Aspose.Svg.Dom](../../attr/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Unit.UnitType
-second_title: Aspose.SVG for .NET API リファレンス
-description: Unit 財産. のユニット タイプを取得しますUnit .
+title: "Unit.UnitType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Unit UnitType プロパティ。Unit の単位タイプを取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
 
-のユニット タイプを取得します。[`Unit`](../) .
+[`Unit`](../) の単位タイプを取得します。
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ユニットのタイプ.
+単位のタイプです。
 
-### 関連項目
+### 参照
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

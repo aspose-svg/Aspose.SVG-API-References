@@ -1,7 +1,7 @@
 ---
-title: ContentTypeHeaderValue.CharSet
-second_title: Aspose.SVG for .NET API リファレンス
-description: ContentTypeHeaderValue 財産. コンテンツの文字セットを取得または設定します
+title: "ContentTypeHeaderValue.CharSet"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ContentTypeHeaderValue CharSet プロパティ。Gets or sets the character-set for content"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net.headers/contenttypeheadervalue/charset/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.net.headers/contenttypeheadervalue/charset/
 public string CharSet { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-文字セット.
+The character set.
 
-### 関連項目
+### 参照
 
 * class [ContentTypeHeaderValue](../)
-* 名前空間 [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

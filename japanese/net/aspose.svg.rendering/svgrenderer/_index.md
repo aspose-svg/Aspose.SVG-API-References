@@ -1,9 +1,9 @@
 ---
-title: Class SvgRenderer
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.SvgRenderer クラス. SVG ドキュメント レンダラーを表します
+title: "SvgRenderer クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.SvgRenderer クラス。SVG ドキュメントレンダラを表します。"
 type: docs
-weight: 3030
+weight: 5100
 url: /ja/net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class
@@ -14,30 +14,28 @@ SVG ドキュメント レンダラーを表します。
 public class SvgRenderer : Renderer<SVGDocument>
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [SvgRenderer](svgrenderer/)() | デフォルトのコンストラクター。 |
+| [SvgRenderer](svgrenderer/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, params SVGDocument[]) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(IDevice, CancellationToken, params SVGDocument[]) | 複数をレンダリングする方法を定義します[`SVGDocument`](../../aspose.svg/svgdocument/)特定の[`IDevice`](../idevice/)、キャンセル トークンを使用して操作のキャンセルを要求します。 |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, int, params SVGDocument[]) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, int) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, TimeSpan) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(IDevice, TimeSpan, params SVGDocument[]) | 複数をレンダリングする方法を定義します[`SVGDocument`](../../aspose.svg/svgdocument/)具体的に[`IDevice`](../idevice/) . |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/)*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), params SVGDocument[]*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(*[IDevice](../idevice/), CancellationToken, params SVGDocument[]*) | 複数の[`SVGDocument`](../../aspose.svg/svgdocument/)s を特定の[`IDevice`](../idevice/) にレンダリングするメソッドを定義し、キャンセルトークンを使用して操作のキャンセルを要求します。 |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), int, params SVGDocument[]*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), int*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), TimeSpan*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(*[IDevice](../idevice/), TimeSpan, params SVGDocument[]*) | 特定の[`IDevice`](../idevice/) に複数の[`SVGDocument`](../../aspose.svg/svgdocument/)s をレンダリングするメソッドを定義します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGDocument](../../aspose.svg/svgdocument/)
-* class [Renderer&lt;TDocument&gt;](../renderer-1/)
-* 名前空間 [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* class [Renderer&lt;TSource&gt;](../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

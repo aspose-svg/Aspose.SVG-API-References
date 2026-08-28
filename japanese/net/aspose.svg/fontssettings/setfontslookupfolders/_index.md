@@ -1,48 +1,46 @@
 ---
-title: FontsSettings.SetFontsLookupFolders
-second_title: Aspose.SVG for .NET API リファレンス
-description: FontsSettings 方法. フォントの選択時に使用されるフォルダーの配列を設定します
+title: "FontsSettings.SetFontsLookupFolders"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "FontsSettings SetFontsLookupFolders メソッド。フォント選択時に使用されるフォルダーの配列を設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg/fontssettings/setfontslookupfolders/
 ---
-## SetFontsLookupFolders(string[]) {#setfontslookupfolders}
+## SetFontsLookupFolders(*string[]*) {#setfontslookupfolders}
 
-フォントの選択時に使用されるフォルダーの配列を設定します。
+フォント選択時に使用されるフォルダーの配列を設定します。
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| fontsFolders | String[] | フォントフォルダー。 |
+| fontsFolders | String[] | フォント フォルダーです。 |
 
-### 関連項目
+### 参照
 
 * class [FontsSettings](../)
-* 名前空間 [Aspose.Svg](../../fontssettings/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolders(string[], bool) {#setfontslookupfolders_1}
+## SetFontsLookupFolders(*string[], bool*) {#setfontslookupfolders_1}
 
-フォントの選択時に使用されるフォルダーの配列を設定します。
+フォント選択時に使用されるフォルダーの配列を設定します。
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| fontsFolders | String[] | フォントフォルダー。 |
-| recursive | Boolean | に設定した場合`真実`ネストされたすべてのディレクトリが使用されます。デフォルト値は`間違い`. |
+| fontsFolders | String[] | フォント フォルダーです。 |
+| recursive | Boolean | `true` に設定すると、すべてのネストされたディレクトリが使用されます。デフォルト値は `false` です。 |
 
-### 関連項目
+### 参照
 
 * class [FontsSettings](../)
-* 名前空間 [Aspose.Svg](../../fontssettings/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

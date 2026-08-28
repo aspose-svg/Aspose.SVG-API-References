@@ -1,27 +1,25 @@
 ---
-title: Entity.XmlVersion
-second_title: Aspose.SVG for .NET API リファレンス
-description: Entity 財産. テキスト宣言の一部としてこのエンティティが外部の解析済みエンティティである場合にこのエンティティのバージョン番号を指定する属性それ以外の場合は null です
+title: "Entity.XmlVersion"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Entity XmlVersion プロパティ。テキスト宣言の一部として、このエンティティが外部パースドエンティティである場合のバージョン番号を指定する属性です。そうでない場合は null です。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom/entity/xmlversion/
 ---
 ## Entity.XmlVersion property
 
-テキスト宣言の一部として、このエンティティが外部の解析済みエンティティである場合に、このエンティティのバージョン番号を指定する属性。それ以外の場合は null です。
+外部解析済みエンティティの場合、テキスト宣言の一部としてこのエンティティのバージョン番号を指定する属性です。そうでない場合は null になります。
 
 ```csharp
 public string XmlVersion { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-XML バージョン。
+XML バージョンです。
 
-### 関連項目
+### 参照
 
 * class [Entity](../)
-* 名前空間 [Aspose.Svg.Dom](../../entity/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

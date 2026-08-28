@@ -1,24 +1,22 @@
 ---
-title: ImageRenderingOptions.Format
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageRenderingOptions 財産. 設定または取得ImageFormat.デフォルトではこのプロパティはPng .
+title: "ImageRenderingOptions.Format"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageRenderingOptions Format プロパティ。ImageFormat を設定または取得します。デフォルトではこのプロパティは Png です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.rendering.image/imagerenderingoptions/format/
 ---
 ## ImageRenderingOptions.Format property
 
-設定または取得[`ImageFormat`](../../imageformat/).デフォルトでは、このプロパティはPng .
+[`ImageFormat`](../../imageformat/) を設定または取得します。デフォルトではこのプロパティは Png です。
 
 ```csharp
 public ImageFormat Format { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

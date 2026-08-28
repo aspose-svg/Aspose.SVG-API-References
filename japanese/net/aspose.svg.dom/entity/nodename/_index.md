@@ -1,27 +1,25 @@
 ---
-title: Entity.NodeName
-second_title: Aspose.SVG for .NET API リファレンス
-description: Entity 財産. タイプに応じたこのノードの名前.
+title: "Entity.NodeName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Entity NodeName プロパティ。このノードのタイプに応じた名前です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom/entity/nodename/
 ---
 ## Entity.NodeName property
 
-タイプに応じたこのノードの名前.
+このノードの名前（タイプに応じて）。
 
 ```csharp
 public override string NodeName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 ノードの名前。
 
-### 関連項目
+### 参照
 
 * class [Entity](../)
-* 名前空間 [Aspose.Svg.Dom](../../entity/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

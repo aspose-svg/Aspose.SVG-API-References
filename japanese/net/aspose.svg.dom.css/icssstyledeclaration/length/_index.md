@@ -1,23 +1,21 @@
 ---
-title: ICSSStyleDeclaration.Length
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSStyleDeclaration 財産. この宣言ブロックで明示的に設定されたプロパティの数有効なインデックスの範囲は0 から長さ 1 までです
+title: "ICSSStyleDeclaration.Length"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSStyleDeclaration Length プロパティ。この宣言ブロックで明示的に設定されたプロパティの数です。有効なインデックスの範囲は 0 から length-1 までです。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.css/icssstyledeclaration/length/
 ---
 ## ICSSStyleDeclaration.Length property
 
-この宣言ブロックで明示的に設定されたプロパティの数。有効なインデックスの範囲は、0 から長さ 1 までです。
+この宣言ブロックで明示的に設定されたプロパティの数です。有効なインデックスの範囲は 0 から length-1（含む）です。
 
 ```csharp
 public int Length { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

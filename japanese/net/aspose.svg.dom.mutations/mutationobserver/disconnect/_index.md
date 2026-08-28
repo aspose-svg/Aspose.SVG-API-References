@@ -1,23 +1,21 @@
 ---
-title: MutationObserver.Disconnect
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserver 方法. オブザーバーがミューテーションを監視するのを停止します observe メソッドが再度使用されるまでオブザーバーのコールバックは呼び出されません.
+title: "MutationObserver.Disconnect"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserver Disconnect メソッド。オブザーバがあらゆる変異の監視を停止します。observe メソッドが再度使用されるまで、オブザーバのコールバックは呼び出されません。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.mutations/mutationobserver/disconnect/
 ---
 ## MutationObserver.Disconnect method
 
-オブザーバーがミューテーションを監視するのを停止します。 observe() メソッドが再度使用されるまで、オブザーバーのコールバックは呼び出されません.
+オブザーバーが変異の監視を停止します。observe() メソッドが再度使用されるまで、オブザーバーのコールバックは呼び出されません。
 
 ```csharp
 public void Disconnect()
 ```
 
-### 関連項目
+### 参照
 
 * class [MutationObserver](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

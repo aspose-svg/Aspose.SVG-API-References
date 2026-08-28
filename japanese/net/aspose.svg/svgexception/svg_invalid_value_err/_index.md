@@ -1,23 +1,21 @@
 ---
-title: SVGException.SVG_INVALID_VALUE_ERR
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGException 分野. 無効な値が操作に渡された場合または属性に割り当てられた場合に発生します
+title: "SVGException.SVG_INVALID_VALUE_ERR"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGException SVG_INVALID_VALUE_ERR フィールド。操作に無効な値が渡されたり属性に割り当てられたときに発生します"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg/svgexception/svg_invalid_value_err/
 ---
 ## SVGException.SVG_INVALID_VALUE_ERR field
 
-無効な値が操作に渡された場合、または属性に割り当てられた場合に発生します。
+操作に無効な値が渡されたり属性に割り当てられたときにスローされます。
 
 ```csharp
 public const ushort SVG_INVALID_VALUE_ERR;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGException](../)
-* 名前空間 [Aspose.Svg](../../svgexception/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

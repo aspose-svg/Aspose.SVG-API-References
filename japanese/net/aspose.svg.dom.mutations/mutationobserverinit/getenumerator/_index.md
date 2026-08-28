@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.GetEnumerator
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 方法. を反復処理する列挙子を返しますMutationObserverInit elements.
+title: "MutationObserverInit.GetEnumerator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit GetEnumerator メソッド。MutationObserverInit 要素を反復処理する列挙子を返します。"
 type: docs
 weight: 190
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/getenumerator/
 ---
 ## MutationObserverInit.GetEnumerator method
 
-を反復処理する列挙子を返します。[`MutationObserverInit`](../) elements.
+`[`MutationObserverInit`](../)` 要素を反復処理する列挙子を返します。
 
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
@@ -16,12 +16,10 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### 戻り値
 
-アンIEnumeratorを反復処理するために使用できるオブジェクト[`MutationObserverInit`](../) elements.
+`[`MutationObserverInit`](../)` 要素を反復処理できる IEnumerator オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

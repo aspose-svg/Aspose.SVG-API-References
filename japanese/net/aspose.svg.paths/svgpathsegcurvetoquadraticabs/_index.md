@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegCurvetoQuadraticAbs
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Paths.SVGPathSegCurvetoQuadraticAbs クラス. SVGPathSegCurvetoQuadraticAbs インターフェイスは絶対二次ベジエ曲線Q パス データ コマンドに対応します
+title: "SVGPathSegCurvetoQuadraticAbs クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Paths.SVGPathSegCurvetoQuadraticAbs クラス。SVGPathSegCurvetoQuadraticAbs インターフェイスは、絶対的な二次ベジエ曲線 curveto Q パスデータコマンドに対応します。"
 type: docs
-weight: 2570
+weight: 4640
 url: /ja/net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/
 ---
 ## SVGPathSegCurvetoQuadraticAbs class
 
-SVGPathSegCurvetoQuadraticAbs インターフェイスは、「絶対二次ベジエ曲線」(Q) パス データ コマンドに対応します。
+SVGPathSegCurvetoQuadraticAbs インターフェイスは、"absolute quadratic Bézier curveto" (Q) パスデータコマンドに対応します。
 
 ```csharp
 public class SVGPathSegCurvetoQuadraticAbs : SVGPathSeg
@@ -18,24 +18,22 @@ public class SVGPathSegCurvetoQuadraticAbs : SVGPathSeg
 
 | 名前 | 説明 |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | このインターフェイスで定義された定数の 1 つによって指定されたパス セグメントのタイプ。 |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | パス セグメントのタイプ。対応する 1 文字のコマンド名で指定します。 |
-| [X](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/x/) { get; set; } | このパス セグメントの終点の絶対 X 座標。 |
-| [X1](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/x1/) { get; set; } | 最初の制御点の絶対 X 座標. |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/y/) { get; set; } | このパス セグメントの終点の絶対 Y 座標。 |
-| [Y1](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/y1/) { get; set; } | 最初の制御点の絶対 Y 座標. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | このインターフェイスで定義された定数のいずれかによって指定されるパス セグメントのタイプです。 |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | パスセグメントのタイプは、対応する1文字のコマンド名で指定されます。 |
+| [X](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/x/) { get; set; } | このパスセグメントの終点の絶対X座標。 |
+| [X1](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/x1/) { get; set; } | 最初の制御点の絶対X座標。 |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/y/) { get; set; } | このパスセグメントの終点の絶対Y座標。 |
+| [Y1](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/y1/) { get; set; } | 最初の制御点の絶対Y座標。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
 
-### 関連項目
+### 参照
 
 * class [SVGPathSeg](../svgpathseg/)
-* 名前空間 [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

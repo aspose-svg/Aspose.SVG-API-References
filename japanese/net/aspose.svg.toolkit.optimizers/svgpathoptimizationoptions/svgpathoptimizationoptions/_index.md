@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.SVGPathOptimizationOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathOptimizationOptions コンストラクタ. の新しいインスタンスを初期化しますSVGPathOptimizationOptions class.
+title: "SVGPathOptimizationOptions"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathOptimizationOptions コンストラクタ。SVGPathOptimizationOptions クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions constructor
 
-の新しいインスタンスを初期化します[`SVGPathOptimizationOptions`](../) class.
+[`SVGPathOptimizationOptions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SVGPathOptimizationOptions()
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGPathOptimizationOptions](../)
-* 名前空間 [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: IWindow.Self
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 財産. Window オブジェクトのブラウジング コンテキストの WindowProxy オブジェクトを返します
+title: "IWindow.Self"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Self プロパティ。Window オブジェクトの閲覧コンテキストである WindowProxy オブジェクトを返します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.svg.window/iwindow/self/
 ---
 ## IWindow.Self property
 
-Window オブジェクトのブラウジング コンテキストの WindowProxy オブジェクトを返します。
+Window オブジェクトのブラウジングコンテキストの WindowProxy オブジェクトを返します。
 
 ```csharp
 public IWindow Self { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

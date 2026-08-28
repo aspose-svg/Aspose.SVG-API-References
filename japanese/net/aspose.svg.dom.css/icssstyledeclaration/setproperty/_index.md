@@ -1,50 +1,48 @@
 ---
-title: ICSSStyleDeclaration.SetProperty
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSStyleDeclaration 方法. この宣言ブロック内でデフォルト優先度のプロパティ値を設定するために使用されます デフォルト優先度は重要ではありませんつまりString.Empty
+title: "ICSSStyleDeclaration.SetProperty"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSStyleDeclaration SetProperty メソッド。この宣言ブロック内でデフォルトの優先度でプロパティ値を設定するために使用します。デフォルトの優先度は重要ではありません（例：String.Empty）。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom.css/icssstyledeclaration/setproperty/
 ---
-## SetProperty(string, string) {#setproperty}
+## SetProperty(*string, string*) {#setproperty}
 
-この宣言ブロック内でデフォルト優先度のプロパティ値を設定するために使用されます。 デフォルト優先度は「重要」ではありません。つまり、String.Empty
+この宣言ブロック内でデフォルトの優先度でプロパティ値を設定するために使用します。デフォルトの優先度は \"important\" ではなく、つまり String.Empty です。
 
 ```csharp
 public void SetProperty(string propertyName, string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| propertyName | String | プロパティの名前。 |
+| propertyName | String | プロパティの名前です。 |
 | value | String | 値。 |
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetProperty(string, string, string) {#setproperty_1}
+## SetProperty(*string, string, string*) {#setproperty_1}
 
-この宣言ブロック内でプロパティ値と優先順位を設定するために使用されます。
+この宣言ブロック内でプロパティ値と優先度を設定するために使用します。
 
 ```csharp
 public void SetProperty(string propertyName, string value, string priority)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| propertyName | String | プロパティの名前。 |
+| propertyName | String | プロパティの名前です。 |
 | value | String | 値。 |
-| priority | String | 優先順位。 |
+| 優先度 | String | 優先度。 |
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

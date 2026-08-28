@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.CurrentTranslate
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGSVGElement 財産. 最も外側の svg 要素ではユーザーの倍率を考慮した対応する変換係数 最も外側の svg 要素ではないsvg要素でアクセスした場合この属性がどのような動作をするかは未定義です
+title: "SVGSVGElement.CurrentTranslate"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGSVGElement CurrentTranslate プロパティ。最外層の svg 要素では、ユーザーの拡大縮小を考慮した対応する平行移動係数を示します。最外層の svg 要素でない svg 要素にアクセスした場合、この属性がどのように動作するかは未定義です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/svgsvgelement/currenttranslate/
 ---
 ## SVGSVGElement.CurrentTranslate property
 
-最も外側の svg 要素では、ユーザーの「倍率」を考慮した対応する変換係数。 最も外側の svg 要素ではない「svg」要素でアクセスした場合、この属性がどのような動作をするかは未定義です。
+最外層の svg 要素において、ユーザーの \"magnification\" を考慮した対応する平行移動係数です。最外層でない ‘svg’ 要素でこの属性にアクセスした場合、その動作は未定義です。
 
 ```csharp
 public SVGPoint CurrentTranslate { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-現在の翻訳.
+現在の平行移動です。
 
-### 関連項目
+### 参照
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgsvgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

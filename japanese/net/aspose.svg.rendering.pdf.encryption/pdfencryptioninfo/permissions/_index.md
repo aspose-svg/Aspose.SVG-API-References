@@ -1,28 +1,26 @@
 ---
-title: PdfEncryptionInfo.Permissions
-second_title: Aspose.SVG for .NET API リファレンス
-description: PdfEncryptionInfo 財産. アクセス許可を取得または設定します
+title: "PdfEncryptionInfo.Permissions"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PdfEncryptionInfo Permissions プロパティ。権限を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
 ---
 ## PdfEncryptionInfo.Permissions property
 
-アクセス許可を取得または設定します。
+権限を取得または設定します。
 
 ```csharp
 public PdfPermissions Permissions { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-パーミッション.
+権限。
 
-### 関連項目
+### 参照
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * class [PdfEncryptionInfo](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

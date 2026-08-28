@@ -1,23 +1,21 @@
 ---
-title: Event.AtTargetPhase
-second_title: Aspose.SVG for .NET API リファレンス
-description: Event 分野. 現在のイベント フェーズはキャプチャ フェーズです
+title: "Event.AtTargetPhase"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Event AtTargetPhase フィールド。現在のイベントフェーズはキャプチャフェーズです。"
 type: docs
 weight: 150
 url: /ja/net/aspose.svg.dom.events/event/attargetphase/
 ---
 ## Event.AtTargetPhase field
 
-現在のイベント フェーズはキャプチャ フェーズです。
+現在のイベントフェーズはキャプチャフェーズです。
 
 ```csharp
 public const ushort AtTargetPhase;
 ```
 
-### 関連項目
+### 参照
 
 * class [Event](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../event/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

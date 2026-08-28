@@ -1,33 +1,31 @@
 ---
-title: Document.CreateProcessingInstruction
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 指定された名前とデータ文字列を指定して ProcessingInstruction ノードを作成します
+title: "Document.CreateProcessingInstruction"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateProcessingInstruction メソッド。指定された名前とデータ文字列から ProcessingInstruction ノードを作成します。"
 type: docs
 weight: 920
 url: /ja/net/aspose.svg.dom/document/createprocessinginstruction/
 ---
 ## Document.CreateProcessingInstruction method
 
-指定された名前とデータ文字列を指定して ProcessingInstruction ノードを作成します。
+指定された名前とデータ文字列を使用して ProcessingInstruction ノードを作成します。
 
 ```csharp
 public ProcessingInstruction CreateProcessingInstruction(string target, string data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| target | String | ターゲット。 |
-| data | String | 指示データ。 |
+| target | String | 対象です。 |
+| データ | String | 命令データです。 |
 
 ### 戻り値
 
-[`ProcessingInstruction`](../../processinginstruction/) .
+この [`ProcessingInstruction`](../../processinginstruction/)。
 
-### 関連項目
+### 参照
 
 * class [ProcessingInstruction](../../processinginstruction/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

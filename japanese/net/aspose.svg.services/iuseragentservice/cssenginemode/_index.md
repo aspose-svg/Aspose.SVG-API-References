@@ -1,7 +1,7 @@
 ---
-title: IUserAgentService.CSSEngineMode
-second_title: Aspose.SVG for .NET API リファレンス
-description: IUserAgentService 財産. CSS エンジンが動作するモードを取得または設定します
+title: "IUserAgentService.CSSEngineMode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IUserAgentService CSSEngineMode プロパティ。CSS エンジンが動作するモードを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.services/iuseragentservice/cssenginemode/
@@ -14,15 +14,13 @@ CSS エンジンが動作するモードを取得または設定します。
 public CSSEngineMode CSSEngineMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-エンジンモード.
+エンジンモードです。
 
-### 関連項目
+### 参照
 
 * enum [CSSEngineMode](../../../aspose.svg.dom.css/cssenginemode/)
 * interface [IUserAgentService](../)
-* 名前空間 [Aspose.Svg.Services](../../iuseragentservice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

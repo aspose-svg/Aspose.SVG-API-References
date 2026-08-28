@@ -1,38 +1,36 @@
 ---
-title: Document.CreateEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. を作成しますEvent実装でサポートされているタイプの.
+title: "Document.CreateEvent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateEvent メソッド。実装がサポートするタイプの Event を作成します"
 type: docs
 weight: 880
 url: /ja/net/aspose.svg.dom/document/createevent/
 ---
 ## Document.CreateEvent method
 
-を作成します[`Event`](../../../aspose.svg.dom.events/event/)実装でサポートされているタイプの.
+実装がサポートするタイプの [`Event`](../../../aspose.svg.dom.events/event/) を作成します。
 
 ```csharp
 public Event CreateEvent(string eventType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| eventType | String | eventType パラメータは、[`Event`](../../../aspose.svg.dom.events/event/)作成するインターフェイス. [`Event`](../../../aspose.svg.dom.events/event/)指定されたインターフェイスは実装によってサポートされています。このメソッドは will new を返します[`Event`](../../../aspose.svg.dom.events/event/)要求されたインターフェイス タイプの. [`Event`](../../../aspose.svg.dom.events/event/)経由で発送されます[`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/)適切な方法[`InitEvent`](../../../aspose.svg.dom.events/event/initevent/) メソッドは、作成後に初期化するために呼び出す必要があります。[`Event`](../../../aspose.svg.dom.events/event/) s values. |
+| eventType | String | eventType パラメータは作成する [`Event`](../../../aspose.svg.dom.events/event/) インターフェイスのタイプを指定します。指定された [`Event`](../../../aspose.svg.dom.events/event/) インターフェイスが実装でサポートされている場合、このメソッドは要求されたインターフェイスタイプの新しい [`Event`](../../../aspose.svg.dom.events/event/) を返します。[`Event`](../../../aspose.svg.dom.events/event/) を [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/) メソッドでディスパッチする場合、作成後に適切な [`InitEvent`](../../../aspose.svg.dom.events/event/initevent/) メソッドを呼び出して [`Event`](../../../aspose.svg.dom.events/event/) の値を初期化する必要があります。 |
 
 ### 戻り値
 
-新しく作成された[`Event`](../../../aspose.svg.dom.events/event/)
+新しく作成された [`Event`](../../../aspose.svg.dom.events/event/)
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: 実装が次の型をサポートしていない場合に発生します[`Event`](../../../aspose.svg.dom.events/event/)インターフェースが要求されました |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: 要求された [`Event`](../../../aspose.svg.dom.events/event/) インターフェイスのタイプが実装でサポートされていない場合に発生します |
 
-### 関連項目
+### 参照
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

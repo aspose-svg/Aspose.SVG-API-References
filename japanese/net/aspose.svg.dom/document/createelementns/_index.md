@@ -1,7 +1,7 @@
 ---
-title: Document.CreateElementNS
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 指定された修飾名と名前空間 URI の要素を作成します
+title: "Document.CreateElementNS"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document CreateElementNS メソッド。指定された修飾名と namespace URI の要素を作成します。"
 type: docs
 weight: 860
 url: /ja/net/aspose.svg.dom/document/createelementns/
@@ -14,20 +14,18 @@ url: /ja/net/aspose.svg.dom/document/createelementns/
 public Element CreateElementNS(string namespaceURI, string qualifiedName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| namespaceURI | String | 名前空間 URI。 |
-| qualifiedName | String | 資格者の名前。 |
+| namespaceURI | String | namespace URIです。 |
+| qualifiedName | String | qualifiedName の名前です。 |
 
 ### 戻り値
 
-[`Element`](../../element/) .
+この [`Element`](../../element/).
 
-### 関連項目
+### 参照
 
 * class [Element](../../element/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

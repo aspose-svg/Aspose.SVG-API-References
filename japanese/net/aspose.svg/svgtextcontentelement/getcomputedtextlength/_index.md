@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.GetComputedTextLength
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTextContentElement 方法. この要素内のすべての文字をレンダリングすることによるすべてのアドバンス値の合計これにはグリフ 水平または垂直 のアドバンス値プロパティkerningletterspacingおよびwordの効果が含まれます tspan 要素の属性 dx および dy による調整非レンダリング環境の場合ユーザー エージェントはグリフ メトリックについて合理的な仮定を行うものとします
+title: "SVGTextContentElement.GetComputedTextLength"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTextContentElement GetComputedTextLength メソッド。この要素内のすべての文字をレンダリングした際の全てのアドバンス値の合計で、グリフの水平または垂直のアドバンス値、kerning、letter-spacing、word-spacing プロパティの効果、tspan 要素の属性 dx と dy による調整を含みます。レンダリングを行わない環境では、ユーザーエージェントはグリフメトリックについて合理的な仮定を行うものとします。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg/svgtextcontentelement/getcomputedtextlength/
 ---
 ## SVGTextContentElement.GetComputedTextLength method
 
-この要素内のすべての文字をレンダリングすることによるすべてのアドバンス値の合計。これにはグリフ (水平または垂直) のアドバンス値、プロパティ「kerning」、「letter-spacing」、および「word-」の効果が含まれます。 'tspan' 要素の属性 'dx' および 'dy' による調整。非レンダリング環境の場合、ユーザー エージェントは、グリフ メトリックについて合理的な仮定を行うものとします。
+この要素内のすべての文字をレンダリングする際の総アドバンス値の合計で、グリフのアドバンス値（水平または垂直）、プロパティ ‘kerning’、‘letter-spacing’、‘word-spacing’ の効果、および ‘tspan’ 要素の属性 ‘dx’ と ‘dy’ による調整を含みます。非レンダリング環境では、ユーザーエージェントはグリフメトリックについて合理的な仮定を行うものとします。
 
 ```csharp
 public float GetComputedTextLength()
@@ -16,12 +16,10 @@ public float GetComputedTextLength()
 
 ### 戻り値
 
-テキストの前進距離。
+テキストのアドバンス距離です。
 
-### 関連項目
+### 参照
 
 * class [SVGTextContentElement](../)
-* 名前空間 [Aspose.Svg](../../svgtextcontentelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

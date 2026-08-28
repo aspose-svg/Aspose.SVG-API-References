@@ -1,27 +1,25 @@
 ---
-title: Text.IsElementContentWhitespace
-second_title: Aspose.SVG for .NET API リファレンス
-description: Text 財産. このテキスト ノードに要素コンテンツの空白が含まれているかどうかを返します
+title: "Text.IsElementContentWhitespace"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Text IsElementContentWhitespace プロパティ。このテキストノードが要素コンテンツの空白（しばしば無視可能な空白と呼ばれる）を含むかどうかを返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 
-このテキスト ノードに要素コンテンツの空白が含まれているかどうかを返します。
+このテキストノードが要素コンテンツの空白（しばしば「無視できる空白」と呼ばれる）を含むかどうかを返します。
 
 ```csharp
 public bool IsElementContentWhitespace { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが要素コンテンツの空白の場合。さもないと、`間違い` .
+`true` このインスタンスが要素コンテンツの空白である場合; それ以外の場合は `false`。
 
-### 関連項目
+### 参照
 
 * class [Text](../)
-* 名前空間 [Aspose.Svg.Dom](../../text/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

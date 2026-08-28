@@ -1,28 +1,26 @@
 ---
-title: ImageRenderingOptions.Text
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageRenderingOptions 財産. を取得しますTextOptionsテキストレンダリングの設定に使用されるオブジェクト.
+title: "ImageRenderingOptions.Text"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageRenderingOptions Text プロパティ。テキストレンダリングの構成に使用される TextOptions オブジェクトを取得します。"
 type: docs
-weight: 60
+weight: 50
 url: /ja/net/aspose.svg.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property
 
-を取得します[`TextOptions`](../../textoptions/)テキストレンダリングの設定に使用されるオブジェクト.
+[`TextOptions`](../../textoptions/) オブジェクトを取得します。このオブジェクトはテキストレンダリングの構成に使用されます。
 
 ```csharp
 public TextOptions Text { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`TextOptions`](../../textoptions/)object.
+この [`TextOptions`](../../textoptions/) オブジェクト。
 
-### 関連項目
+### 参照
 
 * class [TextOptions](../../textoptions/)
 * class [ImageRenderingOptions](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

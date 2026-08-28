@@ -1,28 +1,26 @@
 ---
-title: SVGCursorElement.X
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGCursorElement 財産. 指定されたカーソル要素の属性xに対応します
+title: "SVGCursorElement.X"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGCursorElement X プロパティ。Corresponds to attribute x on the given cursor element"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg/svgcursorelement/x/
 ---
 ## SVGCursorElement.X property
 
-指定された「カーソル」要素の属性「x」に対応します。
+指定された ‘cursor’ 要素の属性 ‘x’ に対応します。
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「カーソル」要素の属性「x」。
+The attribute ‘x’ of the given ‘cursor’ element.
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCursorElement](../)
-* 名前空間 [Aspose.Svg](../../svgcursorelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

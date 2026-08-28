@@ -1,23 +1,21 @@
 ---
-title: SVGSVGElement.UnpauseAnimations
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGSVGElement 方法. SVG ドキュメント フラグメント内で定義されている現在実行中のアニメーションの一時停止を解除 つまり一時停止解除 し一時停止された時点からアニメーション クロックを継続させます
+title: "SVGSVGElement.UnpauseAnimations"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGSVGElement の UnpauseAnimations メソッド。SVG ドキュメントフラグメント内で定義された現在実行中のアニメーションを再開（一時停止を解除）し、アニメーションクロックが一時停止された時点から継続するようにします。"
 type: docs
 weight: 240
 url: /ja/net/aspose.svg/svgsvgelement/unpauseanimations/
 ---
 ## SVGSVGElement.UnpauseAnimations method
 
-SVG ドキュメント フラグメント内で定義されている現在実行中のアニメーションの一時停止を解除 (つまり、一時停止解除) し、一時停止された時点からアニメーション クロックを継続させます。
+SVG ドキュメントフラグメント内で定義された現在実行中のアニメーションの一時停止を解除（すなわち unpause）し、アニメーションクロックが一時停止された時点から再開されます。
 
 ```csharp
 public void UnpauseAnimations()
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGSVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgsvgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

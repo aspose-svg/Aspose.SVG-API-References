@@ -1,28 +1,26 @@
 ---
-title: Url.SearchParams
-second_title: Aspose.SVG for .NET API リファレンス
-description: Url 財産. 関連を取得しますIUrlSearchParamsobject.
+title: "Url.SearchParams"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Url SearchParams プロパティ。関連付けられた IUrlSearchParams オブジェクトを取得します"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg/url/searchparams/
 ---
 ## Url.SearchParams property
 
-関連を取得します[`IUrlSearchParams`](../../iurlsearchparams/)object.
+関連付けられた [`IUrlSearchParams`](../../iurlsearchparams/) オブジェクトを取得します。
 
 ```csharp
 public IUrlSearchParams SearchParams { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`IUrlSearchParams`](../../iurlsearchparams/)object.
+[`IUrlSearchParams`](../../iurlsearchparams/) object.
 
-### 関連項目
+### 参照
 
 * interface [IUrlSearchParams](../../iurlsearchparams/)
 * class [Url](../)
-* 名前空間 [Aspose.Svg](../../url/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

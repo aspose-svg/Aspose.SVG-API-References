@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.MaskUnits
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMaskElement 財産. 指定されたマスク要素の属性maskUnitsに対応します SVGUnitTypes. で定義された定数の 1 つを取ります
+title: "SVGMaskElement.MaskUnits"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMaskElement MaskUnits プロパティ。指定されたマスク要素の属性 maskUnits に対応します。SVGUnitTypes で定義された定数のいずれかを取ります。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg/svgmaskelement/maskunits/
 ---
 ## SVGMaskElement.MaskUnits property
 
-指定された「マスク」要素の属性「maskUnits」に対応します。 SVGUnitTypes. で定義された定数の 1 つを取ります
+指定された ‘mask’ 要素の属性 ‘maskUnits’ に対応します。SVGUnitTypes で定義された定数のいずれかを取ります。
 
 ```csharp
 public SVGAnimatedEnumeration MaskUnits { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「マスク」要素の属性「maskUnits」。
+指定された ‘mask’ 要素の属性 ‘maskUnits’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGMaskElement](../)
-* 名前空間 [Aspose.Svg](../../svgmaskelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

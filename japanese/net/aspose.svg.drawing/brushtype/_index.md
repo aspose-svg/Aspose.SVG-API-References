@@ -1,14 +1,14 @@
 ---
-title: Enum BrushType
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Drawing.BrushType 列挙. ブラシの種類を指定します
+title: "BrushType 列挙体"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Drawing.BrushType 列挙体。ブラシのタイプを指定します。"
 type: docs
-weight: 1380
+weight: 3380
 url: /ja/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration
 
-ブラシの種類を指定します。
+ブラシのタイプを指定します。
 
 ```csharp
 public enum BrushType
@@ -16,15 +16,13 @@ public enum BrushType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Solid | `0` | タイプは ISOolidBrush |
-| Texture | `1` | タイプは ITextureBrush |
+| Solid | `0` | タイプは ISolidBrush です |
+| Texture | `1` | タイプは ITextureBrush です |
 | LinearGradient | `2` | タイプは ILinearGradientBrush です |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

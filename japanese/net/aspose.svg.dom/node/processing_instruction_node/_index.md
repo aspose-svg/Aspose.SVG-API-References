@@ -1,23 +1,21 @@
 ---
-title: Node.PROCESSING_INSTRUCTION_NODE
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 分野. 処理命令 node
+title: "Node.PROCESSING_INSTRUCTION_NODE"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node PROCESSING_INSTRUCTION_NODE フィールド。処理命令ノード"
 type: docs
-weight: 420
+weight: 400
 url: /ja/net/aspose.svg.dom/node/processing_instruction_node/
 ---
 ## Node.PROCESSING_INSTRUCTION_NODE field
 
-処理命令 node
+処理命令ノード
 
 ```csharp
 public const ushort PROCESSING_INSTRUCTION_NODE;
 ```
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

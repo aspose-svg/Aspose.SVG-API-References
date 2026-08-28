@@ -1,34 +1,29 @@
 ---
-title: SplinePathBuilder.Build
-second_title: Aspose.SVG for .NET API リファレンス
-description: SplinePathBuilder 方法. トレース ポイントのリストからパス セグメントを構築します
+title: "SplinePathBuilder.Build"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SplinePathBuilder Build メソッド。Centripetal CatmullRom スプラインをベジェ曲線に変換して、点のシーケンスを通る滑らかなパスを構築します。このメソッドは各点で自然で滑らかな遷移を保証し、提供されたトレースに密接に従う SVG パスを生成します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.imagevectorization/splinepathbuilder/build/
 ---
 ## SplinePathBuilder.Build method
 
-トレース ポイントのリストからパス セグメントを構築します。
+遠心的 Catmull–Rom スプラインをベジェ曲線に変換して、点のシーケンスを通る滑らかなパスを構築します。このメソッドは各点で自然で滑らかな遷移を保証し、提供されたトレースに密着した SVG パスを作成します。
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| trace | IEnumerable`1 | トレースポイントのリスト |
-| path | SVGPathElement | パス セグメントが追加される SVG パス要素。 |
+| トレース | IEnumerable`1 | 滑らかなパスに補間される点のシーケンスです。 |
 
 ### 戻り値
 
-パス セグメントのリスト[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+ベジェ曲線コマンドと座標で構成され、Centripetal Catmull–Rom スプラインを近似する SVG パスデータを表す文字列です。
 
-### 関連項目
+### 参照
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * class [SplinePathBuilder](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

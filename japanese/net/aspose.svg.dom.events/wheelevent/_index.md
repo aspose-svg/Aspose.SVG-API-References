@@ -1,79 +1,77 @@
 ---
-title: Class WheelEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Events.WheelEvent クラス. WheelEvent インターフェイスはホイール イベントに関連する特定のコンテキスト情報を提供します WheelEvent インターフェイスのインスタンスを作成するにはWheelEvent コンストラクターを使用してオプションの WheelEventInit 辞書を渡します
+title: "WheelEvent クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Events.WheelEvent クラス。WheelEvent インターフェイスは、ホイールイベントに関連する特定のコンテキスト情報を提供します。WheelEvent インターフェイスのインスタンスを作成するには、オプションの WheelEventInit 辞書を渡して WheelEvent コンストラクタを使用します。"
 type: docs
-weight: 1010
+weight: 3010
 url: /ja/net/aspose.svg.dom.events/wheelevent/
 ---
 ## WheelEvent class
 
-WheelEvent インターフェイスは、ホイール イベントに関連する特定のコンテキスト情報を提供します。 WheelEvent インターフェイスのインスタンスを作成するには、WheelEvent コンストラクターを使用して、オプションの WheelEventInit 辞書を渡します。
+WheelEvent インターフェイスは、ホイールイベントに関連する特定のコンテキスト情報を提供します。WheelEvent インターフェイスのインスタンスを作成するには、WheelEvent コンストラクタを使用し、オプションの WheelEventInit 辞書を渡します。
 
 ```csharp
 public class WheelEvent : MouseEvent
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [WheelEvent](wheelevent/#constructor)(string) | の新しいインスタンスを初期化します`WheelEvent` class. |
-| [WheelEvent](wheelevent/#constructor_1)(string, IDictionary&lt;string, object&gt;) | の新しいインスタンスを初期化します`WheelEvent` class. |
+| [WheelEvent](wheelevent/#constructor)(*string*) | `WheelEvent` クラスの新しいインスタンスを初期化します。 |
+| [WheelEvent](wheelevent/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) | `WheelEvent` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [AltKey](../../aspose.svg.dom.events/mouseevent/altkey/) { get; } | altKey 属性を参照してください。 |
-| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | イベントがバブリング イベントかどうかを示すために使用されます。イベントがバブルできる場合、値は true、それ以外の場合、値は false. |
-| [Button](../../aspose.svg.dom.events/mouseevent/button/) { get; } | マウス ボタンを押したり離したりすることによって発生するマウス イベントの間、ボタンを使用して、どのポインター デバイス ボタンの状態が変化したかを示す必要があります。 |
-| [Buttons](../../aspose.svg.dom.events/mouseevent/buttons/) { get; } | マウス イベントの間、現在押されているマウス ボタンの組み合わせを示すためにボタンを使用する必要があります。 |
-| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | イベントのデフォルト アクションを防止できるかどうかを示すために使用されます。デフォルト アクションを防止できる場合、値は true であり、それ以外の場合、値は false. です。 |
-| [ClientX](../../aspose.svg.dom.events/mouseevent/clientx/) { get; } | イベントに関連付けられたビューポートを基準とした、イベントが発生した水平座標。 |
-| [ClientY](../../aspose.svg.dom.events/mouseevent/clienty/) { get; } | イベントに関連付けられたビューポートを基準とした、イベントが発生した垂直座標。 |
+| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | イベントがバブリングイベントかどうかを示すために使用します。イベントがバブリングできる場合は true、そうでない場合は false です。 |
+| [Button](../../aspose.svg.dom.events/mouseevent/button/) { get; } | マウスボタンの押下または解放によって発生するマウスイベントでは、どのポインターデバイスのボタンが状態変化したかを示すために button を使用しなければなりません。 |
+| [Buttons](../../aspose.svg.dom.events/mouseevent/buttons/) { get; } | すべてのマウスイベントにおいて、現在押されているマウスボタンの組み合わせをビットマスクで表すために buttons を使用しなければなりません。 |
+| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | イベントのデフォルトアクションを防止できるかどうかを示すために使用します。デフォルトアクションが防止できる場合は true、そうでない場合は false です。 |
+| [ClientX](../../aspose.svg.dom.events/mouseevent/clientx/) { get; } | イベントが発生した水平座標（イベントに関連付けられたビューポートに対する相対座標）。 |
+| [ClientY](../../aspose.svg.dom.events/mouseevent/clienty/) { get; } | イベントが発生した垂直座標（イベントに関連付けられたビューポートに対する相対座標）。 |
 | [CtrlKey](../../aspose.svg.dom.events/mouseevent/ctrlkey/) { get; } | ctrlKey 属性を参照してください。 |
-| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | を示すために使用されます[`IEventTarget`](../ieventtarget/)だれの[`IEventListener`](../ieventlistener/) は現在処理中です. これは、キャプチャとバブリング中に特に役立ちます. |
-| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | cancelable 属性値が true のときに preventDefault() が呼び出された場合は true を返し、それ以外の場合は false を返します。 |
-| [DeltaMode](../../aspose.svg.dom.events/wheelevent/deltamode/) { get; } | deltaMode 属性には、デルタ値の測定単位の指示が含まれています。デフォルト値は DOM_DELTA_PIXEL (ピクセル). です。 |
-| [DeltaX](../../aspose.svg.dom.events/wheelevent/deltax/) { get; } | wheel イベントのデフォルト アクションがスクロールであるユーザー エージェントでは、値は、イベントがキャンセルされない場合にスクロールされる x 軸に沿った測定値 (ピクセル、ライン、またはページ単位) でなければなりません。それ以外の場合、これは x 軸を中心としたホイール デバイスの動きの実装固有の測定値 (ピクセル、ライン、またはページ単位) です。 |
-| [DeltaY](../../aspose.svg.dom.events/wheelevent/deltay/) { get; } | wheel イベントのデフォルト アクションがスクロールであるユーザー エージェントでは、値は、イベントがキャンセルされない場合にスクロールされる y 軸に沿った測定値 (ピクセル、ライン、またはページ単位) でなければなりません。それ以外の場合、これは、y 軸を中心としたホイール デバイスの動きの実装固有の測定値 (ピクセル、ライン、またはページ単位) です。 |
-| [DeltaZ](../../aspose.svg.dom.events/wheelevent/deltaz/) { get; } | wheel イベントのデフォルト アクションがスクロールであるユーザー エージェントでは、値は、イベントがキャンセルされない場合にスクロールされる z 軸に沿った測定値 (ピクセル、ライン、またはページ単位) でなければなりません。それ以外の場合、これは z 軸を中心としたホイール デバイスの動きの実装固有の測定値 (ピクセル、ライン、またはページ単位) です。 |
-| [Detail](../../aspose.svg.dom.events/uievent/detail/) { get; } | イベントのタイプに応じて、イベントに関する詳細情報を指定します。 |
-| [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | イベントフローのどのフェーズが現在評価されているかを示すために使用されます. |
-| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | isTrusted 属性は、初期化された値を返す必要があります。イベントが作成されたら、属性を false. に初期化する必要があります。 |
+| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | 現在処理中の [`IEventListener`](../ieventlistener/) を持つ [`IEventTarget`](../ieventtarget/) を示すために使用します。キャプチャおよびバブリング時に特に有用です。 |
+| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | cancelable 属性が true のときに preventDefault() が呼び出された場合は true を返し、そうでない場合は false を返します。 |
+| [DeltaMode](../../aspose.svg.dom.events/wheelevent/deltamode/) { get; } | deltaMode 属性は、デルタ値の測定単位を示します。デフォルト値は DOM_DELTA_PIXEL（ピクセル）です。 |
+| [DeltaX](../../aspose.svg.dom.events/wheelevent/deltax/) { get; } | ホイールイベントのデフォルト動作がスクロールであるユーザーエージェントでは、イベントがキャンセルされない場合にスクロールされる x 軸方向の測定値（ピクセル、行、またはページ単位）でなければなりません。そうでない場合、これは x 軸周りのホイールデバイスの動きを示す実装固有の測定値（ピクセル、行、またはページ単位）です。 |
+| [DeltaY](../../aspose.svg.dom.events/wheelevent/deltay/) { get; } | ホイールイベントのデフォルト動作がスクロールであるユーザーエージェントでは、イベントがキャンセルされない場合にスクロールされる y 軸方向の測定値（ピクセル、行、またはページ単位）でなければなりません。そうでない場合、これは y 軸周りのホイールデバイスの動きを示す実装固有の測定値（ピクセル、行、またはページ単位）です。 |
+| [DeltaZ](../../aspose.svg.dom.events/wheelevent/deltaz/) { get; } | ホイールイベントのデフォルト動作がスクロールであるユーザーエージェントでは、イベントがキャンセルされない場合にスクロールされる z 軸方向の測定値（ピクセル、行、またはページ単位）でなければなりません。そうでない場合、これは z 軸周りのホイールデバイスの動きを示す実装固有の測定値（ピクセル、行、またはページ単位）です。 |
+| [Detail](../../aspose.svg.dom.events/uievent/detail/) { get; } | イベントのタイプに応じて、Event に関する詳細情報を指定します。 |
+| [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | 現在評価されているイベントフローのフェーズを示すために使用します。 |
+| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | isTrusted 属性は初期化された値を返す必要があります。イベント作成時にこの属性は false に初期化されます。 |
 | [MetaKey](../../aspose.svg.dom.events/mouseevent/metakey/) { get; } | metaKey 属性を参照してください。 |
-| [RelatedTarget](../../aspose.svg.dom.events/mouseevent/relatedtarget/) { get; } | イベントのタイプに応じて、UI イベントに関連するセカンダリ EventTarget を識別するために使用されます。 |
-| [ScreenX](../../aspose.svg.dom.events/mouseevent/screenx/) { get; } | 画面座標系の原点を基準とした、イベントが発生した水平座標。 |
-| [ScreenY](../../aspose.svg.dom.events/mouseevent/screeny/) { get; } | 画面座標系の原点を基準とした、イベントが発生した垂直座標。 |
+| [RelatedTarget](../../aspose.svg.dom.events/mouseevent/relatedtarget/) { get; } | イベントの種類に応じて、UI イベントに関連する二次的な EventTarget を識別するために使用されます。 |
+| [ScreenX](../../aspose.svg.dom.events/mouseevent/screenx/) { get; } | イベントが発生した水平座標（画面座標系の原点からの相対位置）です。 |
+| [ScreenY](../../aspose.svg.dom.events/mouseevent/screeny/) { get; } | イベントが発生した垂直座標（画面座標系の原点からの相対位置）です。 |
 | [ShiftKey](../../aspose.svg.dom.events/mouseevent/shiftkey/) { get; } | shiftKey 属性を参照してください。 |
-| [Target](../../aspose.svg.dom.events/event/target/) { get; } | を示すために使用されます[`IEventTarget`](../ieventtarget/)イベントが最初にディスパッチされた先. |
-| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | イベントが作成された時刻 (エポックからのミリ秒単位) を指定するために使用されます。 、値 0 が返されます。 エポック時間の例は、システムの開始時間または 1970 年 1 月 1 日の 0:0:0 UTC です。 |
-| [Type](../../aspose.svg.dom.events/event/type/) { get; } | イベントの名前 (大文字と小文字を区別しない)。名前は XML 名でなければなりません. |
-| [View](../../aspose.svg.dom.events/uievent/view/) { get; } | ビュー属性は、イベントが生成されたウィンドウを識別します. この属性の初期化されていない値は null でなければなりません. |
+| [Target](../../aspose.svg.dom.events/event/target/) { get; } | イベントが元々ディスパッチされた [`IEventTarget`](../ieventtarget/) を示すために使用します。 |
+| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | イベントが作成された時刻（エポックからのミリ秒）を指定するために使用します。一部のシステムがこの情報を提供しない場合、timeStamp の値はすべてのイベントで利用できないことがあります。利用できない場合は 0 が返されます。エポック時刻の例としてはシステム起動時や 1970年1月1日 0:0:0 UTC があります。 |
+| [Type](../../aspose.svg.dom.events/event/type/) { get; } | イベントの名前（大文字小文字を区別しません）。名前は XML 名である必要があります。 |
+| [View](../../aspose.svg.dom.events/uievent/view/) { get; } | view 属性は、イベントが生成されたウィンドウを識別します。属性の未初期化値は null である必要があります。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
-| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(string, bool, bool) | [`InitEvent`](../event/initevent/)メソッドは、の値を初期化するために使用されます[`Event`](../event/) the で作成[`IDocumentEvent`](../idocumentevent/)インターフェイス. |
-| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | イベントがキャンセル可能な場合、[`PreventDefault`](../event/preventdefault/)メソッドは、イベントがキャンセルされることを示すために使用されます。 は、イベントの結果として実装によって通常実行されるデフォルト アクションが発生しないことを意味します。 |
-| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | このメソッドを呼び出すと、イベントが現在のイベントリスナーの後に登録されたイベントリスナーに到達するのを防ぎ、ツリーでディスパッチされたときに、イベントが他のオブジェクトに到達するのを防ぎます. |
-| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | [`StopPropagation`](../event/stoppropagation/)メソッドが使用され、イベント フロー中にイベントがさらに伝播するのを防ぎます。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(*string, bool, bool*) | [`InitEvent`](../event/initevent/) メソッドは、[`IDocumentEvent`](../idocumentevent/) インターフェイスを介して作成された [`Event`](../event/) の値を初期化するために使用されます。 |
+| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | イベントがキャンセル可能な場合、[`PreventDefault`](../event/preventdefault/) メソッドはイベントがキャンセルされることを示すために使用され、実装が通常行うデフォルトアクションが実行されなくなります。 |
+| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | このメソッドを呼び出すと、現在のリスナーの後に登録されたイベントリスナーにイベントが到達するのを防ぎ、ツリー内でディスパッチされた場合は他のオブジェクトへの到達も防止します。 |
+| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | [`StopPropagation`](../event/stoppropagation/) メソッドは、イベントフロー中のイベントのさらなる伝播を防止するために使用されます。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [DOM_DELTA_LINE](../../aspose.svg.dom.events/wheelevent/dom_delta_line/) | デルタの測定単位は、個々のテキスト行でなければなりません。これは、多くのフォーム コントロールの場合です。 |
-| const [DOM_DELTA_PAGE](../../aspose.svg.dom.events/wheelevent/dom_delta_page/) | デルタの測定単位は、単一の画面または境界のあるページとして定義されたページでなければなりません. |
-| const [DOM_DELTA_PIXEL](../../aspose.svg.dom.events/wheelevent/dom_delta_pixel/) | デルタの測定単位はピクセルでなければなりません。これは、ほとんどのオペレーティング システムおよび実装構成で最も一般的なケースです。 |
+| const [DOM_DELTA_LINE](../../aspose.svg.dom.events/wheelevent/dom_delta_line/) | デルタの測定単位は個々のテキスト行でなければなりません。これは多くのフォームコントロールで当てはまります。 |
+| const [DOM_DELTA_PAGE](../../aspose.svg.dom.events/wheelevent/dom_delta_page/) | デルタの測定単位はページでなければなりません。単一の画面として定義するか、区切られたページとして定義します。 |
+| const [DOM_DELTA_PIXEL](../../aspose.svg.dom.events/wheelevent/dom_delta_pixel/) | デルタの測定単位はピクセルでなければなりません。これはほとんどのオペレーティングシステムおよび実装構成で最も一般的なケースです。 |
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../mouseevent/)
-* 名前空間 [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

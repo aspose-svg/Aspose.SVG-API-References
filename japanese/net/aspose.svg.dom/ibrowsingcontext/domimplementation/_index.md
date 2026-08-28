@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.DOMImplementation
-second_title: Aspose.SVG for .NET API リファレンス
-description: IBrowsingContext 財産. DOM 実装を取得します
+title: "IBrowsingContext.DOMImplementation"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IB BrowsingContext DOMImplementation プロパティ。DOM 実装を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
@@ -14,15 +14,13 @@ DOM 実装を取得します。
 public IDOMImplementation DOMImplementation { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-DOM 実装。
+DOM 実装です。
 
-### 関連項目
+### 参照
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* 名前空間 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

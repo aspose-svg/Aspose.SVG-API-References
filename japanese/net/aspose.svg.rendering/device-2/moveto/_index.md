@@ -1,27 +1,25 @@
 ---
-title: Device2.MoveTo
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. 現在の点をパラメーター pt の座標に移動し接続する線分を省略して新しいサブパスを開始します 現在のパスの以前のパス構築方法もMoveToだった場合新しいMoveToがそれをオーバーライドします 前のMoveTo操作の痕跡がパスに残っていません.
+title: "Device-2.MoveTo"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device MoveTo メソッド。現在の点をパラメータ pt の座標へ移動させ、接続線分を省略して新しいサブパスを開始します。現在のパス内で前のパス構築メソッドが MoveTo でも、新しい MoveTo がそれを上書きし、以前の MoveTo 操作の痕跡はパスに残りません"
 type: docs
-weight: 190
+weight: 220
 url: /ja/net/aspose.svg.rendering/device-2/moveto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.MoveTo method
+## Device<TGraphicContext,TRenderingOptions>.MoveTo method
 
-現在の点をパラメーター pt の座標に移動し、接続する線分を省略して、新しいサブパスを開始します。 現在のパスの以前のパス構築方法も「MoveTo」だった場合、新しい「MoveTo」がそれをオーバーライドします。 前の「MoveTo」操作の痕跡がパスに残っていません.
+パラメータ pt の座標に現在の点を移動させ、接続線セグメントを省略することで新しいサブパスを開始します。現在のパスで前のパス構築メソッドが "MoveTo" でも、新しい "MoveTo" がそれを上書きします。パス内に前の "MoveTo" 操作の痕跡は残りません。
 
 ```csharp
-public abstract void MoveTo(PointF pt)
+public virtual void MoveTo(PointF pt)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| pt | PointF | パスの移動先のポイント。 |
+| pt | PointF | パスを移動させる点。 |
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

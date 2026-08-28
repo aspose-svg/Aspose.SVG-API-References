@@ -1,23 +1,21 @@
 ---
-title: PdfRenderingOptions.JpegQuality
-second_title: Aspose.SVG for .NET API リファレンス
-description: PdfRenderingOptions 財産. 画像の JPEG 圧縮の品質を指定します JPEG 圧縮が使用されている場合 デフォルトは 95 です
+title: "PdfRenderingOptions.JpegQuality"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "PdfRenderingOptions JpegQuality プロパティ。JPEG 圧縮が使用される場合の画像の JPEG 圧縮品質を指定します。デフォルトは 95 です"
 type: docs
-weight: 50
+weight: 60
 url: /ja/net/aspose.svg.rendering.pdf/pdfrenderingoptions/jpegquality/
 ---
 ## PdfRenderingOptions.JpegQuality property
 
-画像の JPEG 圧縮の品質を指定します (JPEG 圧縮が使用されている場合)。 デフォルトは 95 です。
+画像の JPEG 圧縮品質を指定します（JPEG 圧縮が使用される場合）。デフォルトは 95 です。
 
 ```csharp
 public int JpegQuality { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [PdfRenderingOptions](../)
-* 名前空間 [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

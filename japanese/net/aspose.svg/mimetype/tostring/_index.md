@@ -1,14 +1,14 @@
 ---
-title: MimeType.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: MimeType 方法. を返しますStringMime type. を表す
+title: "MimeType.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MimeType ToString メソッド。Mime タイプを表す文字列を返します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg/mimetype/tostring/
 ---
 ## MimeType.ToString method
 
-を返しますStringMime type. を表す
+Mime タイプを表す文字列を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * class [MimeType](../)
-* 名前空間 [Aspose.Svg](../../mimetype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

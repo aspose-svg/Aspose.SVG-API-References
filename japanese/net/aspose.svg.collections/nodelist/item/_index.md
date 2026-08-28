@@ -1,14 +1,14 @@
 ---
-title: NodeList.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: NodeList 財産. メソッドはコレクション内の index 番目のアイテムを返します index がリスト内のノード数以上の場合null が返されます
+title: "NodeList.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "NodeList Item プロパティ。メソッドはコレクション内のインデックス番目の項目を返します。インデックスがリスト内のノード数以上の場合は null を返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.collections/nodelist/item/
 ---
 ## NodeList indexer
 
-メソッドは、コレクション内の index 番目のアイテムを返します。 index がリスト内のノード数以上の場合、null が返されます。
+メソッドはコレクション内の index 番目の項目を返します。index がリスト内のノード数以上の場合、null を返します。
 
 ```csharp
 public abstract Node this[int index] { get; }
@@ -16,17 +16,15 @@ public abstract Node this[int index] { get; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| index | インデックス。 |
+| インデックス | インデックス。 |
 
 ### 戻り値
 
 ノードを返します。
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeList](../)
-* 名前空間 [Aspose.Svg.Collections](../../nodelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

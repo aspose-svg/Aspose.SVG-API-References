@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.RefY
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMarkerElement 財産. 指定されたマーカー要素の属性refYに対応します
+title: "SVGMarkerElement.RefY"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMarkerElement RefY プロパティ。指定されたマーカー要素の属性 refY に対応します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg/svgmarkerelement/refy/
 ---
 ## SVGMarkerElement.RefY property
 
-指定された「マーカー」要素の属性「refY」に対応します。
+指定された ‘marker’ 要素の属性 ‘refY’ に対応します。
 
 ```csharp
 public SVGAnimatedLength RefY { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「マーカー」要素の属性「refY」。
+指定された ‘marker’ 要素の属性 ‘refY’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* 名前空間 [Aspose.Svg](../../svgmarkerelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

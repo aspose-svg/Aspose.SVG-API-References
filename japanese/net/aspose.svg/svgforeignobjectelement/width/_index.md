@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.Width
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGForeignObjectElement 財産. 指定されたforeignObject要素の属性幅に対応します
+title: "SVGForeignObjectElement.Width"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGForeignObjectElement Width プロパティ。指定された foreignObject 要素の属性 width に対応します"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg/svgforeignobjectelement/width/
 ---
 ## SVGForeignObjectElement.Width property
 
-指定された「foreignObject」要素の属性「幅」に対応します。
+指定された ‘foreignObject’ 要素の属性 ‘width’ に対応します。
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「foreignObject」要素の属性「幅」。
+指定された ‘foreignObject’ 要素の属性 ‘width’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* 名前空間 [Aspose.Svg](../../svgforeignobjectelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,28 @@
 ---
-title: Element.Element
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element コンストラクタ. の新しいインスタンスを初期化しますElementクラスこのコンストラクターを直接呼び出さないでくださいCreateElementまたCreateElementNS .
+title: "Element"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element コンストラクタ。Element クラスの新しいインスタンスを初期化します。このコンストラクタは直接呼び出さず、CreateElement または CreateElementNS を使用してください。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom/element/element/
 ---
 ## Element constructor
 
-の新しいインスタンスを初期化します[`Element`](../)クラス。このコンストラクターを直接呼び出さないでください。[`CreateElement`](../../document/createelement/)また[`CreateElementNS`](../../document/createelementns/) .
+`[`Element`](../)` クラスの新しいインスタンスを初期化します。このコンストラクタは直接呼び出さず、[`CreateElement`](../../document/createelement/) または [`CreateElementNS`](../../document/createelementns/) を使用してください。
 
 ```csharp
-public Element(IElementInit elementInit)
+public Element(QualifiedName qualifiedName, Document document)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| elementInit | IElementInit | 要素の初期化情報。 |
+| qualifiedName | QualifiedName | 修飾名です。 |
+| ドキュメント | ドキュメント | 関連付けられたドキュメントです。 |
 
-### 関連項目
+### 参照
 
-* interface [IElementInit](../../ielementinit/)
+* class [QualifiedName](../../qualifiedname/)
+* class [Document](../../document/)
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

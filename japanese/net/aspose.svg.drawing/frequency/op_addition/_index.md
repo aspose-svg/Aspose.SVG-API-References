@@ -1,39 +1,37 @@
 ---
-title: Frequency.op_Addition
-second_title: Aspose.SVG for .NET API リファレンス
-description: Frequency 方法. 演算子 . を実装します
+title: "Frequency.op_Addition"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Frequency op_Addition メソッド。演算子を実装します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/frequency/op_addition/
 ---
 ## Frequency Addition operator
 
-演算子 +. を実装します
+演算子 + を実装します。
 
 ```csharp
 public static Frequency operator +(Frequency a, Frequency b)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| a | Frequency | パラメータ |
-| b | Frequency | パラメータ b. |
+| a | Frequency | パラメーター a。 |
+| b | Frequency | パラメーター b。 |
 
 ### 戻り値
 
-演算子の結果。
+演算子の結果です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 引数が null です |
-| ArgumentException | 引数の型が異なります or 引数の解像度が異なります or |
+| ArgumentNullException | 引数が null です。 |
+| ArgumentException | 引数の型が異なるか、引数の解決が異なるか、または |
 
-### 関連項目
+### 参照
 
 * class [Frequency](../)
-* 名前空間 [Aspose.Svg.Drawing](../../frequency/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

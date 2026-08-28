@@ -1,7 +1,7 @@
 ---
-title: ResponseMessage.Headers
-second_title: Aspose.SVG for .NET API リファレンス
-description: ResponseMessage 財産. ヘッダーを取得します
+title: "ResponseMessage.Headers"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ResponseMessage Headers プロパティ。ヘッダーを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.net/responsemessage/headers/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.net/responsemessage/headers/
 public ResponseHeaders Headers { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ヘッダー.
+ヘッダー。
 
-### 関連項目
+### 参照
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* 名前空間 [Aspose.Svg.Net](../../responsemessage/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

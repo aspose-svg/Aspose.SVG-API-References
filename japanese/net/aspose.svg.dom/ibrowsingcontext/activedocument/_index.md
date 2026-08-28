@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.ActiveDocument
-second_title: Aspose.SVG for .NET API リファレンス
-description: IBrowsingContext 財産. 現在のドキュメントを取得します
+title: "IBrowsingContext.ActiveDocument"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IB BrowsingContext ActiveDocument プロパティ。現在のドキュメントを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom/ibrowsingcontext/activedocument/
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.dom/ibrowsingcontext/activedocument/
 public Document ActiveDocument { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-アクティブなドキュメント。
+アクティブなドキュメントです。
 
-### 関連項目
+### 参照
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* 名前空間 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

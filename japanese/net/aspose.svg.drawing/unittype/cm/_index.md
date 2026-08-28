@@ -1,23 +1,21 @@
 ---
-title: UnitType.Cm
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 測定単位はセンチメートルです
+title: "UnitType.Cm"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Cm フィールド。測定はセンチメートルです。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.drawing/unittype/cm/
 ---
 ## UnitType.Cm field
 
-測定単位はセンチメートルです
+測定はセンチメートルです
 
 ```csharp
 public static readonly UnitType Cm;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

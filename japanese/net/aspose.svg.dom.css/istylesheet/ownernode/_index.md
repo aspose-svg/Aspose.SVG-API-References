@@ -1,24 +1,22 @@
 ---
-title: IStyleSheet.OwnerNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: IStyleSheet 財産. このスタイル シートをドキュメントに関連付けるノード HTML の場合これは対応する LINK または STYLE 要素である可能性があります XML の場合はリンク処理命令の可能性があります他のスタイル シートに含まれるスタイル シートの場合この属性の値は null. です
+title: "IStyleSheet.OwnerNode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IStyleSheet OwnerNode プロパティ。 このスタイルシートをドキュメントに関連付けるノードです。 HTML の場合、対応する LINK または STYLE 要素になることがあります。 XML の場合、リンク処理命令になることがあります。 他のスタイルシートにインクルードされているスタイルシートの場合、この属性の値は null です。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.css/istylesheet/ownernode/
 ---
 ## IStyleSheet.OwnerNode property
 
-このスタイル シートをドキュメントに関連付けるノード。 HTML の場合、これは対応する LINK または STYLE 要素である可能性があります。 XML の場合は、リンク処理命令の可能性があります。他のスタイル シートに含まれるスタイル シートの場合、この属性の値は null. です。
+このスタイルシートをドキュメントに関連付けるノードです。HTML の場合、対応する LINK または STYLE 要素になることがあります。XML の場合、リンク処理命令になることがあります。他のスタイルシートにインクルードされているスタイルシートの場合、この属性の値は null です。
 
 ```csharp
 public Node OwnerNode { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IStyleSheet](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../istylesheet/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

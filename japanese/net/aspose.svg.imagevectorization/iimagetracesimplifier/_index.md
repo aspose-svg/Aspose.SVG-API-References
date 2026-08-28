@@ -1,14 +1,14 @@
 ---
-title: Interface IImageTraceSimplifier
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ImageVectorization.IImageTraceSimplifier インターフェース. IImageTraceSimplifier インターフェイスはトレース内のポイントの削減を担当します
+title: "IImageTraceSimplifier インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ImageVectorization.IImageTraceSimplifier インターフェイス。IImageTraceSimplifier インターフェイスはトレース内の点の削減を担当します"
 type: docs
-weight: 2090
+weight: 4160
 url: /ja/net/aspose.svg.imagevectorization/iimagetracesimplifier/
 ---
 ## IImageTraceSimplifier interface
 
-IImageTraceSimplifier インターフェイスは、トレース内のポイントの削減を担当します。
+IImageTraceSimplifier インターフェイスはトレース内のポイントの削減を担当します。
 
 ```csharp
 public interface IImageTraceSimplifier
@@ -18,11 +18,9 @@ public interface IImageTraceSimplifier
 
 | 名前 | 説明 |
 | --- | --- |
-| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify/)(IEnumerable&lt;PointF&gt;) | トレースのポイント数を減らします。 |
+| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify/)(*IEnumerable&lt;PointF&gt;*) | トレース内の点の数を削減します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

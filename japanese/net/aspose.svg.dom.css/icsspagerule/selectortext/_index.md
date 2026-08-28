@@ -1,27 +1,25 @@
 ---
-title: ICSSPageRule.SelectorText
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSPageRule 財産. ルールのページ セレクターの解析可能なテキスト表現
+title: "ICSSPageRule.SelectorText"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSPageRule SelectorText プロパティ。ルールのページセレクタの解析可能なテキスト表現です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/icsspagerule/selectortext/
 ---
 ## ICSSPageRule.SelectorText property
 
-ルールのページ セレクターの解析可能なテキスト表現。
+ルールのページセレクタの解析可能なテキスト表現です。
 
 ```csharp
 public string SelectorText { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-セレクターのテキスト。
+セレクタテキスト。
 
-### 関連項目
+### 参照
 
 * interface [ICSSPageRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

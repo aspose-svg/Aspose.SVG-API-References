@@ -1,27 +1,25 @@
 ---
-title: SVGPathSeg.PathSegTypeAsLetter
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathSeg 財産. パス セグメントのタイプ対応する 1 文字のコマンド名で指定します
+title: "SVGPathSeg.PathSegTypeAsLetter"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathSeg PathSegTypeAsLetter プロパティ。対応する1文字コマンド名で指定されたパスセグメントのタイプ"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.paths/svgpathseg/pathsegtypeasletter/
 ---
 ## SVGPathSeg.PathSegTypeAsLetter property
 
-パス セグメントのタイプ。対応する 1 文字のコマンド名で指定します。
+パスセグメントのタイプは、対応する1文字のコマンド名で指定されます。
 
 ```csharp
 public string PathSegTypeAsLetter { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-パス セグメントのタイプ。
+パスセグメントのタイプです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSeg](../)
-* 名前空間 [Aspose.Svg.Paths](../../svgpathseg/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

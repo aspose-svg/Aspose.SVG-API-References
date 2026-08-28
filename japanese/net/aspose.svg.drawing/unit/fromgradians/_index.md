@@ -1,32 +1,30 @@
 ---
-title: Unit.FromGradians
-second_title: Aspose.SVG for .NET API リファレンス
-description: Unit 方法. を返しますAnglegradians. で表されるオブジェクト
+title: "Unit.FromGradians"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Unit FromGradians メソッド。グラディアンで表される Angle オブジェクトを返します"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg.drawing/unit/fromgradians/
 ---
 ## Unit.FromGradians method
 
-を返します[`Angle`](../../angle/)gradians. で表されるオブジェクト
+グラディアンで表される [`Angle`](../../angle/) オブジェクトを返します。
 
 ```csharp
 public static Angle FromGradians(double value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | value | Double | 値。 |
 
 ### 戻り値
 
-を返します[`Angle`](../../angle/)物体。
+[`Angle`](../../angle/) オブジェクトを返します。
 
-### 関連項目
+### 参照
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

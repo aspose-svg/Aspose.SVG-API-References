@@ -1,9 +1,9 @@
 ---
-title: Class Time
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Drawing.Time クラス. 時間単位を表します
+title: "Time クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Drawing.Time クラス。時間単位を表します。"
 type: docs
-weight: 1590
+weight: 3650
 url: /ja/net/aspose.svg.drawing/time/
 ---
 ## Time class
@@ -18,32 +18,30 @@ public sealed class Time : Dimension
 
 | 名前 | 説明 |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | のユニット タイプを取得します。[`Unit`](../unit/) . |
+| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | 単位のタイプを取得します [`Unit`](../unit/). |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(Numeric) | 現在のインスタンスを同じ型の別のオブジェクトと比較し、現在のインスタンスが他のオブジェクトと並べ替え順序で前、後、または同じ位置にあるかどうかを示す整数を返します。 |
-| override [Equals](../../aspose.svg.drawing/unit/equals/)(object) | 指定されたObject 、このインスタンスと等しい. |
-| override [Equals](../../aspose.svg.drawing/numeric/equals/)(Unit) | 指定された[`Unit`](../unit/) 、このインスタンスと等しい. |
-| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | このインスタンスのハッシュ コードを返します。 |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | 単位値を取得します。 |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(UnitType) | 指定された値に変換された値を取得します[`UnitType`](../unittype/) . |
-| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | を返しますStringこのインスタンスを表す. |
-| [operator +](../../aspose.svg.drawing/time/op_addition/) | 演算子 +. を実装します |
-| [operator ==](../../aspose.svg.drawing/time/op_equality/) | 演算子 ==. を実装します |
-| [operator &gt;](../../aspose.svg.drawing/time/op_greaterthan/) | 演算子 &gt;. を実装します。 |
-| [operator &gt;=](../../aspose.svg.drawing/time/op_greaterthanorequal/) | 演算子を実装 &gt;=. |
-| [operator !=](../../aspose.svg.drawing/time/op_inequality/) | 演算子 !=. を実装します |
-| [operator &lt;](../../aspose.svg.drawing/time/op_lessthan/) | 演算子 &lt;. を実装します |
-| [operator &lt;=](../../aspose.svg.drawing/time/op_lessthanorequal/) | 演算子 &lt;=. を実装します |
-| [operator -](../../aspose.svg.drawing/time/op_subtraction/) | 演算子を実装します -. |
+| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(*[Numeric](../numeric/)*) | 現在のインスタンスを同じ型の別のオブジェクトと比較し、現在のインスタンスがソート順で前に来るか、後に来るか、または同じ位置にあるかを示す整数を返します。 |
+| override [Equals](../../aspose.svg.drawing/unit/equals/)(*object*) | 指定された Object がこのインスタンスと等しいかどうかを判断します。 |
+| override [Equals](../../aspose.svg.drawing/numeric/equals/)(*[Unit](../unit/)*) | 指定された [`Unit`](../unit/) がこのインスタンスと等しいかどうかを判断します。 |
+| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | このインスタンスのハッシュコードを返します。 |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | 単位の値を取得します。 |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(*[UnitType](../unittype/)*) | 指定された [`UnitType`](../unittype/) に変換された値を取得します。 |
+| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | このインスタンスを表す String を返します。 |
+| [operator +](../../aspose.svg.drawing/time/op_addition/) | 演算子 + を実装します。 |
+| [operator ==](../../aspose.svg.drawing/time/op_equality/) | 演算子 == を実装します。 |
+| [operator >](../../aspose.svg.drawing/time/op_greaterthan/) | 演算子 &gt; を実装します。 |
+| [operator >=](../../aspose.svg.drawing/time/op_greaterthanorequal/) | &gt;= 演算子を実装します。 |
+| [operator !=](../../aspose.svg.drawing/time/op_inequality/) | != 演算子を実装します。 |
+| [operator <](../../aspose.svg.drawing/time/op_lessthan/) | &lt; 演算子を実装します。 |
+| [operator <=](../../aspose.svg.drawing/time/op_lessthanorequal/) | &lt;= 演算子を実装します。 |
+| [operator -](../../aspose.svg.drawing/time/op_subtraction/) | - 演算子を実装します。 |
 
-### 関連項目
+### 参照
 
 * class [Dimension](../dimension/)
-* 名前空間 [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: IDocumentView.DefaultView
-second_title: Aspose.SVG for .NET API リファレンス
-description: IDocumentView 財産. このドキュメントのデフォルトの AbstractViewまたは利用できない場合は null.
+title: "IDocumentView.DefaultView"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IDocumentView DefaultView プロパティ。この Document のデフォルト AbstractView、または利用可能なものがない場合は null です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.views/idocumentview/defaultview/
 ---
 ## IDocumentView.DefaultView property
 
-このドキュメントのデフォルトの AbstractView、または利用できない場合は null.
+この Document のデフォルト AbstractView、利用できない場合は null。
 
 ```csharp
 public IAbstractView DefaultView { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-デフォルトのビュー。
+デフォルトビューです。
 
-### 関連項目
+### 参照
 
 * interface [IAbstractView](../../iabstractview/)
 * interface [IDocumentView](../)
-* 名前空間 [Aspose.Svg.Dom.Views](../../idocumentview/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

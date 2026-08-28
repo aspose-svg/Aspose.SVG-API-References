@@ -1,55 +1,53 @@
 ---
-title: MimeType.Equals
-second_title: Aspose.SVG for .NET API リファレンス
-description: MimeType 方法. 現在のオブジェクトが同じタイプの別のオブジェクトと等しいかどうかを示します.
+title: "MimeType.Equals"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MimeType Equals メソッド。現在のオブジェクトが同じ型の別のオブジェクトと等しいかどうかを示します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg/mimetype/equals/
 ---
-## Equals(MimeType) {#equals}
+## Equals(*[MimeType](../)*) {#equals}
 
-現在のオブジェクトが同じタイプの別のオブジェクトと等しいかどうかを示します.
+現在のオブジェクトが同じ型の別のオブジェクトと等しいかどうかを示します。
 
 ```csharp
 public bool Equals(MimeType other)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| other | MimeType | このオブジェクトと比較するオブジェクト。 |
+| other | MimeType | このオブジェクトと比較するためのオブジェクトです。 |
 
 ### 戻り値
 
-現在のオブジェクトが*other*パラメータ;それ以外の場合は false.
+*other* パラメータと現在のオブジェクトが等しい場合は true、そうでない場合は false です。
 
-### 関連項目
+### 参照
 
 * class [MimeType](../)
-* 名前空間 [Aspose.Svg](../../mimetype/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-指定されたObject電流に等しいObject .
+指定されたオブジェクトが現在のオブジェクトと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObject現在のものと比較するObject. |
+| obj | オブジェクト | 現在の Object と比較する Object。 |
 
 ### 戻り値
 
-指定された場合は trueObject電流に等しいObject ;それ以外の場合は false.
+指定された Object が現在の Object と等しい場合は true、そうでなければ false。
 
-### 関連項目
+### 参照
 
 * class [MimeType](../)
-* 名前空間 [Aspose.Svg](../../mimetype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

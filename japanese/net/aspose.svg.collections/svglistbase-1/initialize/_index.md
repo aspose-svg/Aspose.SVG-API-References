@@ -1,37 +1,35 @@
 ---
-title: SVGListBase1.Initialize
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGListBase 方法. リストから既存の現在のアイテムをすべてクリアしリストを再初期化してパラメーターで指定された単一のアイテムを保持します
+title: "SVGListBase-1.Initialize"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGListBase Initialize メソッド。リスト内の既存のすべての項目をクリアし、パラメータで指定された単一の項目を保持するようにリストを再初期化します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.collections/svglistbase-1/initialize/
 ---
-## SVGListBase&lt;T&gt;.Initialize method
+## SVGListBase<T>.Initialize method
 
-リストから既存の現在のアイテムをすべてクリアし、リストを再初期化して、パラメーターで指定された単一のアイテムを保持します。
+リストから既存のすべての項目をクリアし、パラメータで指定された単一の項目を保持するようにリストを再初期化します。
 
 ```csharp
 public T Initialize(T newItem)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| newItem | T | リストの唯一のメンバーになるアイテム。 |
+| newItem | T | リストの唯一のメンバーになるべき項目です。 |
 
 ### 戻り値
 
-リストに挿入されるアイテム。
+リストに挿入される項目です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). リストを変更できない場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。リストを変更できないときに発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

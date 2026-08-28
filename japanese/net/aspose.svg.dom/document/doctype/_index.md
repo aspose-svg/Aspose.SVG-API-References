@@ -1,28 +1,26 @@
 ---
-title: Document.Doctype
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. このドキュメントに関連付けられたドキュメント タイプ宣言
+title: "Document.Doctype"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document Doctype プロパティ。このドキュメントに関連付けられた文書型宣言です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom/document/doctype/
 ---
 ## Document.Doctype property
 
-このドキュメントに関連付けられたドキュメント タイプ宣言。
+この文書に関連付けられた文書型宣言 (Document Type Declaration)。
 
 ```csharp
 public DocumentType Doctype { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメント タイプ.
+ドキュメントタイプです。
 
-### 関連項目
+### 参照
 
 * class [DocumentType](../../documenttype/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

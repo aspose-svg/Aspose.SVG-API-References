@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegLinetoHorizontalAbs
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Paths.SVGPathSegLinetoHorizontalAbs クラス. SVGPathSegLinetoHorizontalAbs インターフェイスは絶対水平ラインH パス データ コマンドに対応します
+title: "SVGPathSegLinetoHorizontalAbs クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Paths.SVGPathSegLinetoHorizontalAbs クラス。SVGPathSegLinetoHorizontalAbs インターフェイスは、絶対水平 lineto H パスデータコマンドに対応します"
 type: docs
-weight: 2620
+weight: 4690
 url: /ja/net/aspose.svg.paths/svgpathseglinetohorizontalabs/
 ---
 ## SVGPathSegLinetoHorizontalAbs class
 
-SVGPathSegLinetoHorizontalAbs インターフェイスは、「絶対水平ライン」(H) パス データ コマンドに対応します。
+SVGPathSegLinetoHorizontalAbs インターフェイスは、"absolute horizontal lineto" (H) パスデータコマンドに対応します。
 
 ```csharp
 public class SVGPathSegLinetoHorizontalAbs : SVGPathSeg
@@ -18,21 +18,19 @@ public class SVGPathSegLinetoHorizontalAbs : SVGPathSeg
 
 | 名前 | 説明 |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | このインターフェイスで定義された定数の 1 つによって指定されたパス セグメントのタイプ。 |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | パス セグメントのタイプ。対応する 1 文字のコマンド名で指定します。 |
-| [X](../../aspose.svg.paths/svgpathseglinetohorizontalabs/x/) { get; set; } | このパス セグメントの終点の絶対 X 座標。 |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | このインターフェイスで定義された定数のいずれかによって指定されるパス セグメントのタイプです。 |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | パスセグメントのタイプは、対応する1文字のコマンド名で指定されます。 |
+| [X](../../aspose.svg.paths/svgpathseglinetohorizontalabs/x/) { get; set; } | このパスセグメントの終点の絶対X座標。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | 管理されていないリソースと、オプションで管理されているリソースを解放します。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは、ECMAScript オブジェクトを取得するために使用されますType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | アンマネージドリソースと、オプションでマネージドリソースを解放します。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | このメソッドは ECMAScript オブジェクトの型を取得するために使用されます。 |
 
-### 関連項目
+### 参照
 
 * class [SVGPathSeg](../svgpathseg/)
-* 名前空間 [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

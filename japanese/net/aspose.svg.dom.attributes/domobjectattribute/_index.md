@@ -1,29 +1,33 @@
 ---
-title: Class DOMObjectAttribute
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Attributes.DOMObjectAttribute クラス. オブジェクトがこの属性でマークされていることを指定しますこの属性は W3C によって定義されています
+title: "DOMObjectAttribute クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Attributes.DOMObjectAttribute クラス。この属性でマークされたオブジェクトが W3C によって定義されていることを指定します。"
 type: docs
-weight: 420
+weight: 2420
 url: /ja/net/aspose.svg.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class
 
-オブジェクトがこの属性でマークされていることを指定します。この属性は W3C によって定義されています。
+この属性でマークされたオブジェクトが W3C によって定義されていることを指定します。
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMObjectAttribute : Attribute
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DOMObjectAttribute](domobjectattribute/)() | デフォルトのコンストラクター。 |
+| [DOMObjectAttribute](domobjectattribute/)() | デフォルトコンストラクタです。 |
 
-### 関連項目
+## プロパティ
 
-* 名前空間 [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* 組み立て [Aspose.SVG](../../)
+| 名前 | 説明 |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### 参照
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

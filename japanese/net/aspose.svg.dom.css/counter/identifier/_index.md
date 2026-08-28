@@ -1,27 +1,25 @@
 ---
-title: Counter.Identifier
-second_title: Aspose.SVG for .NET API リファレンス
-description: Counter 財産. この属性はカウンターの識別子に使用されます
+title: "Counter.Identifier"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Counter Identifier プロパティ。この属性はカウンタの識別子として使用されます"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/counter/identifier/
 ---
 ## Counter.Identifier property
 
-この属性は、カウンターの識別子に使用されます。
+この属性はカウンターの識別子に使用されます。
 
 ```csharp
 public string Identifier { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-カウンター識別子.
+カウンタの識別子です。
 
-### 関連項目
+### 参照
 
 * class [Counter](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../counter/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

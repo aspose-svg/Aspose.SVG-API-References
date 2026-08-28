@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_RAD
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値は角度 rad です値は getFloatValue メソッドを使用して取得できます
+title: "CSSPrimitiveValue.CSS_RAD"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_RAD フィールド。値は角度 rad です。値は getFloatValue メソッドを使用して取得できます。"
 type: docs
-weight: 340
+weight: 350
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_rad/
 ---
 ## CSSPrimitiveValue.CSS_RAD field
 
-値は角度 (rad) です。値は getFloatValue メソッドを使用して取得できます。
+この値は角度（rad）です。 この値は getFloatValue メソッドを使用して取得できます。
 
 ```csharp
 public const ushort CSS_RAD;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

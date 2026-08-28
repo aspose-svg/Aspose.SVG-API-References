@@ -1,60 +1,58 @@
 ---
-title: IViewCSS.GetComputedStyle
-second_title: Aspose.SVG for .NET API リファレンス
-description: IViewCSS 方法. このメソッドはCSS2. で定義されているように計算されたスタイルを取得するために使用されます
+title: "IViewCSS.GetComputedStyle"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IViewCSS GetComputedStyle メソッド。このメソッドは、CSS2 で定義されたように計算されたスタイルを取得するために使用します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/iviewcss/getcomputedstyle/
 ---
-## GetComputedStyle(Element) {#getcomputedstyle}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/)*) {#getcomputedstyle}
 
-このメソッドは、CSS2. で定義されているように、計算されたスタイルを取得するために使用されます。
+このメソッドは CSS2 で定義されているように、計算されたスタイルを取得するために使用されます。
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| element | Element | スタイルを計算する要素。このパラメーターを null にすることはできません。 |
+| 要素 | Element | 計算されるスタイルを持つ要素。このパラメータは null にできません。 |
 
 ### 戻り値
 
 計算されたスタイル
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../iviewcss/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetComputedStyle(Element, string) {#getcomputedstyle_1}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/), string*) {#getcomputedstyle_1}
 
-このメソッドは、CSS2. で定義されているように、計算されたスタイルを取得するために使用されます。
+このメソッドは CSS2 で定義されているように、計算されたスタイルを取得するために使用されます。
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoElement)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| element | Element | スタイルを計算する要素。このパラメーターを null にすることはできません。 |
-| pseudoElement | String | 疑似要素。 |
+| 要素 | Element | 計算されるスタイルを持つ要素。このパラメータは null にできません。 |
+| pseudoElement | String | 擬似要素。 |
 
 ### 戻り値
 
 計算されたスタイル
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../iviewcss/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

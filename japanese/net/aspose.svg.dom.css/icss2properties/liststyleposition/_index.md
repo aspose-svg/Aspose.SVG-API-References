@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.ListStylePosition
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の liststyleposition プロパティ定義を参照してください
+title: "ICSS2Properties.ListStylePosition"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties ListStylePosition プロパティです。CSS2 の list-style-position プロパティ定義を参照してください。"
 type: docs
-weight: 610
+weight: 640
 url: /ja/net/aspose.svg.dom.css/icss2properties/liststyleposition/
 ---
 ## ICSS2Properties.ListStylePosition property
 
-CSS2 の list-style-position プロパティ定義を参照してください。
+CSS2 の list-style-position プロパティ定義をご覧ください。
 
 ```csharp
 public string ListStylePosition { get; set; }
@@ -18,10 +18,8 @@ public string ListStylePosition { get; set; }
 
 list-style-position プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

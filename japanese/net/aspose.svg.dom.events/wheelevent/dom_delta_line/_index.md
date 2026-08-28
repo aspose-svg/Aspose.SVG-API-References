@@ -1,23 +1,21 @@
 ---
-title: WheelEvent.DOM_DELTA_LINE
-second_title: Aspose.SVG for .NET API リファレンス
-description: WheelEvent 分野. デルタの測定単位は個々のテキスト行でなければなりませんこれは多くのフォーム コントロールの場合です
+title: "WheelEvent.DOM_DELTA_LINE"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "WheelEvent DOM_DELTA_LINE フィールド。delta の測定単位はテキストの個別行である必要があります（MUST）。これは多くのフォームコントロールで当てはまります。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom.events/wheelevent/dom_delta_line/
 ---
 ## WheelEvent.DOM_DELTA_LINE field
 
-デルタの測定単位は、個々のテキスト行でなければなりません。これは、多くのフォーム コントロールの場合です。
+デルタの測定単位は個々のテキスト行でなければなりません。これは多くのフォームコントロールで当てはまります。
 
 ```csharp
 public const ulong DOM_DELTA_LINE;
 ```
 
-### 関連項目
+### 参照
 
 * class [WheelEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../wheelevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

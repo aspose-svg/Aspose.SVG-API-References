@@ -1,23 +1,21 @@
 ---
-title: SVGValueType.Dispose
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGValueType 方法. 管理されていないリソースとオプションで管理されているリソースを解放します
+title: "SVGValueType.Dispose"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGValueType Dispose メソッド。アンマネージド リソースと、オプションでマネージド リソースを解放します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.datatypes/svgvaluetype/dispose/
 ---
 ## SVGValueType.Dispose method
 
-管理されていないリソースと、オプションで管理されているリソースを解放します。
+アンマネージドリソースと、オプションでマネージドリソースを解放します。
 
 ```csharp
 public void Dispose()
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGValueType](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgvaluetype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

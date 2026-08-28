@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.DataSize
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITrueTypeFont 財産. フォント データのサイズをバイト単位で返します
+title: "ITrueTypeFont.DataSize"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITrueTypeFont DataSize プロパティ。フォントデータのサイズ（バイト単位）を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.drawing/itruetypefont/datasize/
 ---
 ## ITrueTypeFont.DataSize property
 
-フォント データのサイズをバイト単位で返します
+フォントデータのサイズ（バイト単位）を取得します。
 
 ```csharp
 public float DataSize { get; }
@@ -16,12 +16,10 @@ public float DataSize { get; }
 
 ### 戻り値
 
-フォントデータのサイズ
+フォントデータのサイズ（バイト単位）。
 
-### 関連項目
+### 参照
 
 * interface [ITrueTypeFont](../)
-* 名前空間 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

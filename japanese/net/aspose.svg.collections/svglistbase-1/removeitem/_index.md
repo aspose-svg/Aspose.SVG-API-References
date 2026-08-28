@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.RemoveItem
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGListBase 方法. リストから既存の項目を削除します
+title: "SVGListBase-1.RemoveItem"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGListBase RemoveItem メソッド。リストから既存の項目を削除します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg.collections/svglistbase-1/removeitem/
 ---
-## SVGListBase&lt;T&gt;.RemoveItem method
+## SVGListBase<T>.RemoveItem method
 
 リストから既存の項目を削除します。
 
@@ -14,25 +14,23 @@ url: /ja/net/aspose.svg.collections/svglistbase-1/removeitem/
 public T RemoveItem(ulong index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| index | UInt64 | 削除するアイテムのインデックス。最初の項目は番号 0 です。 |
+| インデックス | UInt64 | 削除される項目のインデックスです。最初の項目は番号0です。 |
 
 ### 戻り値
 
-削除されたアイテム。
+削除された項目です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). リストを変更できない場合に発生します。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). インデックス番号が numberOfItems 以上の場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。リストを変更できないときに発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/)。インデックス番号が numberOfItems 以上の場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

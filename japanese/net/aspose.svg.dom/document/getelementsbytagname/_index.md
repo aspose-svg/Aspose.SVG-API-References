@@ -1,32 +1,36 @@
 ---
-title: Document.GetElementsByTagName
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 方法. 指定されたタグ名を持ちドキュメントに含まれているすべての要素の NodeList をドキュメント順で返します
+title: "Document.GetElementsByTagName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document GetElementsByTagName メソッド。 このメソッドは、指定されたタグ名を持つ要素の HTMLCollection を返します。"
 type: docs
 weight: 980
 url: /ja/net/aspose.svg.dom/document/getelementsbytagname/
 ---
 ## Document.GetElementsByTagName method
 
-指定されたタグ名を持ち、ドキュメントに含まれているすべての要素の NodeList をドキュメント順で返します。
+このメソッドは、指定されたタグ名を持つ要素の [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) を返します。
+
+ルートノードを含む完全なドキュメントが検索されます。返される [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) はライブであり、再度このメソッドを呼び出さなくても DOM ツリーと自動的に同期するように自動で更新されます。
 
 ```csharp
 public HTMLCollection GetElementsByTagName(string tagname)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| tagname | String | タグ名。 |
+| tagname | String | 要素の名前を表す文字列です。特別な文字列 "*" はすべての要素を表します。 |
 
 ### 戻り値
 
-ノードを返します。
+ツリー内に出現する順序で見つかった要素のライブ [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) です。
 
-### 関連項目
+## 備考
+
+公式の [spec](https://dom.spec.whatwg.org/#dom-document-getelementsbytagname) を参照してください。
+
+### 参照
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

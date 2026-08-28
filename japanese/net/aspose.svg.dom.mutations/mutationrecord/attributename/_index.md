@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.AttributeName
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationRecord 財産. 変更された属性のローカル名を返しそれ以外の場合は null を返します
+title: "MutationRecord.AttributeName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationRecord AttributeName プロパティ。変更された属性のローカル名を返し、そうでない場合は null を返します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.mutations/mutationrecord/attributename/
 ---
 ## MutationRecord.AttributeName property
 
-変更された属性のローカル名を返し、それ以外の場合は null を返します。
+変更された属性のローカル名を返し、そうでない場合は null を返します。
 
 ```csharp
 public string AttributeName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-属性の名前。
+属性の名前です。
 
-### 関連項目
+### 参照
 
 * class [MutationRecord](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

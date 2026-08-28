@@ -1,28 +1,26 @@
 ---
-title: SVGImageElement.PreserveAspectRatio
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGImageElement 財産. 指定されたイメージ要素の属性preserveAspectRatioに対応します
+title: "SVGImageElement.PreserveAspectRatio"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGImageElement PreserveAspectRatio プロパティ。指定された画像要素の属性 preserveAspectRatio に対応します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg/svgimageelement/preserveaspectratio/
 ---
 ## SVGImageElement.PreserveAspectRatio property
 
-指定された「イメージ」要素の属性「preserveAspectRatio」に対応します。
+指定された ‘image’ 要素の属性 ‘preserveAspectRatio’ に対応します。
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-縦横比を維持します。
+保持されたアスペクト比。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGImageElement](../)
-* 名前空間 [Aspose.Svg](../../svgimageelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

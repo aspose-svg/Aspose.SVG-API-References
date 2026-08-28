@@ -1,28 +1,26 @@
 ---
-title: IWindow.Document
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 財産. document 属性は Window オブジェクトの最新の Document オブジェクトを返さなければなりません.
+title: "IWindow.Document"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Document プロパティ。document 属性は、Window オブジェクトの最新の Document オブジェクトを返す必要があります。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.window/iwindow/document/
 ---
 ## IWindow.Document property
 
-document 属性は Window オブジェクトの最新の Document オブジェクトを返さなければなりません.
+document 属性は Window オブジェクトの最新の Document オブジェクトを返す必要があります。
 
 ```csharp
 public Document Document { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメント.
+ドキュメント。
 
-### 関連項目
+### 参照
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

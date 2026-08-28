@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGAnimatedPoints
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ISVGAnimatedPoints インターフェース. SVGAnimatedPoints インターフェイスは座標値のリストを保持しその属性をアニメーション化する機能をサポートするpoints属性を持つ要素をサポートします さらにXML DOM 例 getAttribute メソッド呼び出しを使用する はpoints. に加えられた変更を反映します
+title: "ISSVGAnimatedPoints インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ISVGAnimatedPoints インターフェイス。SVGAnimatedPoints インターフェイスは、座標値のリストを保持する points 属性を持ち、その属性をアニメーション化できる要素をサポートします。さらに、XML DOM を介して取得した元の要素の points 属性（例: getAttribute メソッド呼び出し）は、points に対する変更を反映します。"
 type: docs
-weight: 2000
+weight: 4070
 url: /ja/net/aspose.svg/isvganimatedpoints/
 ---
 ## ISVGAnimatedPoints interface
 
-SVGAnimatedPoints インターフェイスは、座標値のリストを保持し、その属性をアニメーション化する機能をサポートする「points」属性を持つ要素をサポートします。 さらに、XML DOM (例: getAttribute() メソッド呼び出しを使用する) は、points. に加えられた変更を反映します。
+SVGAnimatedPoints インターフェイスは、座標値のリストを保持する ‘points’ 属性を持ち、その属性をアニメーション化できる要素をサポートします。さらに、XML DOM を介して取得した元の要素の ‘points’ 属性（例：getAttribute() メソッド呼び出しを使用）は、points に加えられた変更を反映します。
 
 ```csharp
 public interface ISVGAnimatedPoints
@@ -18,12 +18,10 @@ public interface ISVGAnimatedPoints
 
 | 名前 | 説明 |
 | --- | --- |
-| [AnimatedPoints](../../aspose.svg/isvganimatedpoints/animatedpoints/) { get; } | 「ポイント」属性の現在のアニメーション コンテンツへのアクセスを提供します。指定された属性またはプロパティがアニメーション化されている場合、属性またはプロパティの現在のアニメーション化された値が含まれます。指定された属性またはプロパティが現在アニメーション化されていない場合、points. と同じ値が含まれます。 |
-| [Points](../../aspose.svg/isvganimatedpoints/points/) { get; } | 「ポイント」属性のベース (静的) コンテンツへのアクセスを提供します。 |
+| [AnimatedPoints](../../aspose.svg/isvganimatedpoints/animatedpoints/) { get; } | ‘points’ 属性の現在のアニメーション化された内容へのアクセスを提供します。指定された属性またはプロパティがアニメーション化されている場合、その属性またはプロパティの現在のアニメーション値が含まれます。アニメーション化されていない場合は、points と同じ値が含まれます。 |
+| [Points](../../aspose.svg/isvganimatedpoints/points/) { get; } | ‘points’属性の基本（すなわち静的）内容へのアクセスを提供します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg](../../aspose.svg/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

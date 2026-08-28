@@ -1,23 +1,21 @@
 ---
-title: ContentHeaders.ContentHeaders
-second_title: Aspose.SVG for .NET API リファレンス
-description: ContentHeaders コンストラクタ. の新しいインスタンスを初期化しますContentHeaders class.
+title: "ContentHeaders"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ContentHeaders コンストラクタ。ContentHeaders クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/contentheaders/contentheaders/
 ---
 ## ContentHeaders constructor
 
-の新しいインスタンスを初期化します[`ContentHeaders`](../) class.
+[`ContentHeaders`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ContentHeaders()
 ```
 
-### 関連項目
+### 参照
 
 * class [ContentHeaders](../)
-* 名前空間 [Aspose.Svg.Net](../../contentheaders/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,48 +1,46 @@
 ---
-title: MouseEvent.MouseEvent
-second_title: Aspose.SVG for .NET API リファレンス
-description: MouseEvent コンストラクタ. の新しいインスタンスを初期化しますMouseEvent class.
+title: "MouseEvent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MouseEvent コンストラクタ。MouseEvent クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.events/mouseevent/mouseevent/
 ---
-## MouseEvent(string) {#constructor}
+## MouseEvent(*string*) {#constructor}
 
-の新しいインスタンスを初期化します[`MouseEvent`](../) class.
+[`MouseEvent`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public MouseEvent(string type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | イベントの種類。 |
+| type | String | イベントのタイプ。 |
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MouseEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## MouseEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`MouseEvent`](../) class.
+[`MouseEvent`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public MouseEvent(string type, IDictionary<string, object> eventInitDict)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | String | イベントの種類。 |
+| type | String | イベントのタイプ。 |
 | eventInitDict | IDictionary`2 | イベント初期化ディクショナリ。 |
 
-### 関連項目
+### 参照
 
 * class [MouseEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../mouseevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

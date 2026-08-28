@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Right
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の正しいプロパティ定義を参照してください
+title: "ICSS2Properties.Right"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties Right プロパティ。CSS2 の right プロパティ定義を参照してください。"
 type: docs
-weight: 980
+weight: 1010
 url: /ja/net/aspose.svg.dom.css/icss2properties/right/
 ---
 ## ICSS2Properties.Right property
 
-CSS2 の正しいプロパティ定義を参照してください。
+CSS2 の right プロパティ定義をご覧ください。
 
 ```csharp
 public string Right { get; set; }
@@ -16,12 +16,10 @@ public string Right { get; set; }
 
 ### 戻り値
 
-権利財産
+right プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

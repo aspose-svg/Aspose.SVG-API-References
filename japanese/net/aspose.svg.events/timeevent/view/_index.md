@@ -1,28 +1,26 @@
 ---
-title: TimeEvent.View
-second_title: Aspose.SVG for .NET API リファレンス
-description: TimeEvent 財産. ビュー属性はイベントが生成された AbstractView DOM2VIEWS を識別します
+title: "TimeEvent.View"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "TimeEvent View プロパティ。view 属性は、イベントが生成された AbstractView (DOM2VIEWS) を識別します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.events/timeevent/view/
 ---
 ## TimeEvent.View property
 
-ビュー属性は、イベントが生成された AbstractView [DOM2VIEWS] を識別します。
+view 属性は、イベントが生成された AbstractView [DOM2VIEWS] を識別します。
 
 ```csharp
 public IAbstractView View { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-現在のビュー。
+現在のビューです。
 
-### 関連項目
+### 参照
 
 * interface [IAbstractView](../../../aspose.svg.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* 名前空間 [Aspose.Svg.Events](../../timeevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

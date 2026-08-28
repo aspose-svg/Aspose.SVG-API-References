@@ -1,14 +1,14 @@
 ---
-title: Interface IElementCSSInlineStyle
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.IElementCSSInlineStyle インターフェース. 要素に添付されたインライン スタイル情報はstyle 属性を通じて公開されますこれはHTML 要素 または同じ方法で STYLE 属性を使用する他のスキーマまたは DTD の要素 の STYLE 属性の内容を表します
+title: "IElementCSSInlineStyle インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.IElementCSSInlineStyle インターフェイス。要素に付随するインラインスタイル情報は style 属性を通じて公開されます。これは HTML 要素や、同様に STYLE 属性を使用する他のスキーマや DTD の要素の STYLE 属性の内容を表します。"
 type: docs
-weight: 710
+weight: 2710
 url: /ja/net/aspose.svg.dom.css/ielementcssinlinestyle/
 ---
 ## IElementCSSInlineStyle interface
 
-要素に添付されたインライン スタイル情報は、style 属性を通じて公開されます。これは、HTML 要素 (または同じ方法で STYLE 属性を使用する他のスキーマまたは DTD の要素) の STYLE 属性の内容を表します。
+要素に付随するインラインスタイル情報は style 属性を通じて公開されます。これは HTML 要素（または同様に STYLE 属性を使用する他のスキーマや DTD の要素）の STYLE 属性の内容を表します。
 
 ```csharp
 public interface IElementCSSInlineStyle
@@ -18,11 +18,9 @@ public interface IElementCSSInlineStyle
 
 | 名前 | 説明 |
 | --- | --- |
-| [Style](../../aspose.svg.dom.css/ielementcssinlinestyle/style/) { get; } | Represents 作成者がスタイル情報を特定の要素に直接適用できるようにするスタイル属性を表します. |
+| [Style](../../aspose.svg.dom.css/ielementcssinlinestyle/style/) { get; } | この属性は、作者が特定の要素に直接スタイル情報を適用できるスタイル属性を表します。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

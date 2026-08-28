@@ -1,35 +1,33 @@
 ---
-title: Class ProtocolMessageFilter
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter クラス. リソース プロトコルによるメッセージ フィルタの実装を表します
+title: "ProtocolMessageFilter クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter クラス。リソースプロトコルによるメッセージフィルタの実装を表します。"
 type: docs
-weight: 2330
+weight: 4400
 url: /ja/net/aspose.svg.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class
 
-リソース プロトコルによるメッセージ フィルタの実装を表します。
+リソースプロトコルによるメッセージフィルタの実装を表します。
 
 ```csharp
 public class ProtocolMessageFilter : MessageFilter
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter/)(params string[]) | の新しいインスタンスを初期化します`ProtocolMessageFilter` class. |
+| [ProtocolMessageFilter](protocolmessagefilter/)(*params string[]*) | `ProtocolMessageFilter` クラスの新しいインスタンスを初期化します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(INetworkOperationContext) | 派生クラスでオーバーライドされると、コンテキストがフィルター基準を満たすかどうかをテストします。 |
+| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | 派生クラスでオーバーライドされた場合、Context がフィルター基準を満たすかどうかをテストします。 |
 
-### 関連項目
+### 参照
 
 * class [MessageFilter](../../aspose.svg.net/messagefilter/)
-* 名前空間 [Aspose.Svg.Net.MessageFilters](../../aspose.svg.net.messagefilters/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../)

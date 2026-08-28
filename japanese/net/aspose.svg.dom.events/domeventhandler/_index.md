@@ -1,9 +1,9 @@
 ---
-title: Delegate DOMEventHandler
-second_title: Aspose.SVG for .NET API リファレンス
-description: イベント処理のコールバックを表します
+title: "DOMEventHandler デリゲート"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "イベント処理のコールバックを表します。"
 type: docs
-weight: 890
+weight: 2890
 url: /ja/net/aspose.svg.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate
@@ -14,15 +14,13 @@ url: /ja/net/aspose.svg.dom.events/domeventhandler/
 public delegate void DOMEventHandler(object sender, Event e);
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| sender | Object | 送り主。 |
-| e | Event | イベント引数。 |
+| 送信者 | オブジェクト | 送信者です。 |
+| e | イベント | イベントの引数です。 |
 
-### 関連項目
+### 参照
 
 * class [Event](../event/)
-* 名前空間 [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

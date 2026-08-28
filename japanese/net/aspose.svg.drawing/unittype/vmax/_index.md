@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vmax
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 測定値はビューポート の大きい方の寸法の 1 を基準にしています 試してください
+title: "UnitType.Vmax"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Vmax フィールド。測定はビューポートの大きい方の次元の 1 に相対的です。試してみてください。"
 type: docs
 weight: 280
 url: /ja/net/aspose.svg.drawing/unittype/vmax/
 ---
 ## UnitType.Vmax field
 
-測定値は、ビューポート* の大きい方の寸法の 1% を基準にしています 試してください
+測定はビューポートの*大きい寸法の1%に相対的です 試す
 
 ```csharp
 public static readonly UnitType Vmax;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

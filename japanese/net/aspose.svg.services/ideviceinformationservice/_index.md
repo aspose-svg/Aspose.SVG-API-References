@@ -1,17 +1,17 @@
 ---
-title: Interface IDeviceInformationService
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Services.IDeviceInformationService インターフェース. 環境が記述されているインターフェースDocumentユーザーに提示されます.
+title: "IDeviceInformationService インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Services.IDeviceInformationService インターフェイス。Document がユーザーに提示される環境を記述するインターフェイスです。"
 type: docs
-weight: 3710
+weight: 5840
 url: /ja/net/aspose.svg.services/ideviceinformationservice/
 ---
 ## IDeviceInformationService interface
 
-環境が記述されているインターフェース。[`Document`](../../aspose.svg.dom/document/)ユーザーに提示されます.
+``[`Document`](../../aspose.svg.dom/document/)`` がユーザーに提示される環境を記述するインターフェイスです。
 
 ```csharp
-public interface IDeviceInformationService : IService
+public interface IDeviceInformationService
 ```
 
 ## プロパティ
@@ -23,10 +23,7 @@ public interface IDeviceInformationService : IService
 | [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution/) { get; set; } | 垂直解像度を取得または設定します。 |
 | [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize/) { get; set; } | ウィンドウのサイズを取得または設定します。 |
 
-### 関連項目
+### 参照
 
-* interface [IService](../iservice/)
-* 名前空間 [Aspose.Svg.Services](../../aspose.svg.services/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

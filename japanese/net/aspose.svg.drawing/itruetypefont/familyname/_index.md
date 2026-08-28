@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.FamilyName
-second_title: Aspose.SVG for .NET API リファレンス
-description: ITrueTypeFont 財産. フォント ファミリーの名前を取得します
+title: "ITrueTypeFont.FamilyName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ITrueTypeFont FamilyName プロパティ。フォントファミリの名前を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.drawing/itruetypefont/familyname/
 ---
 ## ITrueTypeFont.FamilyName property
 
-フォント ファミリーの名前を取得します。
+フォントファミリーの名前を取得します。
 
 ```csharp
 public string FamilyName { get; }
@@ -16,12 +16,10 @@ public string FamilyName { get; }
 
 ### 戻り値
 
-フォントの姓
+フォントのファミリ名。
 
-### 関連項目
+### 参照
 
 * interface [ITrueTypeFont](../)
-* 名前空間 [Aspose.Svg.Drawing](../../itruetypefont/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

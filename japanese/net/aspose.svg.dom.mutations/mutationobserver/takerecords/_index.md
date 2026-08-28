@@ -1,28 +1,26 @@
 ---
-title: MutationObserver.TakeRecords
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserver 方法. メソッドはレコード キューのコピーを返しレコード キューを空にします
+title: "MutationObserver.TakeRecords"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserver TakeRecords メソッド。メソッドはレコードキューのコピーを返し、その後レコードキューを空にします。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom.mutations/mutationobserver/takerecords/
 ---
 ## MutationObserver.TakeRecords method
 
-メソッドはレコード キューのコピーを返し、レコード キューを空にします。
+このメソッドはレコードキューのコピーを返し、その後キューを空にします。
 
 ```csharp
-public IEnumerable<MutationRecord> TakeRecords()
+public IList<MutationRecord> TakeRecords()
 ```
 
 ### 戻り値
 
-レコード キューのコピー。
+レコードキューのコピー。
 
-### 関連項目
+### 参照
 
 * class [MutationRecord](../../mutationrecord/)
 * class [MutationObserver](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

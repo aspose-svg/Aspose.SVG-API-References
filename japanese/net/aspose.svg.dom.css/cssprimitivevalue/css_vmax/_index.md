@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_VMAX
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値はビューポートの幅または高さのどちらか大きい方のパーセンテージです
+title: "CSSPrimitiveValue.CSS_VMAX"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_VMAX フィールド。値はビューポートの幅または高さのうち大きい方のパーセンテージです。"
 type: docs
-weight: 430
+weight: 440
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_vmax/
 ---
 ## CSSPrimitiveValue.CSS_VMAX field
 
-値は、ビューポートの幅または高さのどちらか大きい方のパーセンテージです。
+この値はビューポートの幅または高さのパーセンテージで、より大きい方です。
 
 ```csharp
 public const ushort CSS_VMAX;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

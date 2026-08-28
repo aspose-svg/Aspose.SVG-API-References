@@ -1,23 +1,21 @@
 ---
-title: ImageTraceSmoother.Extent
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageTraceSmoother 財産. クエリ ポイントによって考慮される領域のセットの範囲を取得します 1  20 の範囲内である必要がありますこれより高い値または低い値はこの範囲の最小値および最大値に合わせて調整されます
+title: "ImageTraceSmoother.Extent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageTraceSmoother Extent プロパティ。クエリポイントで考慮される領域の範囲を取得または設定します。範囲は 1 から 20 まででなければなりません。これより大きいまたは小さい値は、この範囲の最小値または最大値に合わせて調整されます。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.imagevectorization/imagetracesmoother/extent/
 ---
 ## ImageTraceSmoother.Extent property
 
-クエリ ポイントによって考慮される領域のセットの範囲を取得します。 1 ～ 20 の範囲内である必要があります。これより高い値または低い値は、この範囲の最小値および最大値に合わせて調整されます。
+クエリポイントで考慮される領域の範囲を取得または設定します。範囲は 1 から 20 まででなければなりません。これより高いまたは低い値は、範囲の最小値と最大値に合わせて調整されます。
 
 ```csharp
 public int Extent { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [ImageTraceSmoother](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

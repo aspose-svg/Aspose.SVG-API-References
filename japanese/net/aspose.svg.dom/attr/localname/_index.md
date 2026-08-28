@@ -1,27 +1,25 @@
 ---
-title: Attr.LocalName
-second_title: Aspose.SVG for .NET API リファレンス
-description: Attr 財産. このノードの修飾名のローカル部分を返します ELEMENT_NODE および ATTRIBUTE_NODE 以外のタイプのノードおよび Document.createElement などの DOM レベル 1 メソッドで作成されたノードの場合これは常に null です
+title: "Attr.LocalName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Attr LocalName プロパティ。このノードの修飾名のローカル部分を返します。ELEMENT_NODE および ATTRIBUTE_NODE 以外のタイプのノードや、Document.createElement のような DOM Level 1 メソッドで作成されたノードに対しては、常に null が返されます。"
 type: docs
-weight: 20
+weight: 10
 url: /ja/net/aspose.svg.dom/attr/localname/
 ---
 ## Attr.LocalName property
 
-このノードの修飾名のローカル部分を返します。 ELEMENT_NODE および ATTRIBUTE_NODE 以外のタイプのノード、および Document.createElement() などの DOM レベル 1 メソッドで作成されたノードの場合、これは常に null です。
+このノードの修飾名のローカル部分を返します。ELEMENT_NODE と ATTRIBUTE_NODE 以外のタイプのノードや、Document.createElement() のような DOM Level 1 メソッドで作成されたノードの場合、常に null が返されます。
 
 ```csharp
 public override string LocalName { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ローカルの名前。
+ローカルの名前です。
 
-### 関連項目
+### 参照
 
 * class [Attr](../)
-* 名前空間 [Aspose.Svg.Dom](../../attr/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

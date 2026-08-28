@@ -1,23 +1,21 @@
 ---
-title: Node.ENTITY_REFERENCE_NODE
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 分野. エンティティ参照 node
+title: "Node.ENTITY_REFERENCE_NODE"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node ENTITY_REFERENCE_NODE フィールド。エンティティ参照ノードです。"
 type: docs
-weight: 400
+weight: 380
 url: /ja/net/aspose.svg.dom/node/entity_reference_node/
 ---
 ## Node.ENTITY_REFERENCE_NODE field
 
-エンティティ参照 node
+エンティティ参照ノード
 
 ```csharp
 public const ushort ENTITY_REFERENCE_NODE;
 ```
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

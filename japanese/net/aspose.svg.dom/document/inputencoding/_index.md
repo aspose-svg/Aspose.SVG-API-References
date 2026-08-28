@@ -1,7 +1,7 @@
 ---
-title: Document.InputEncoding
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document 財産. ドキュメントのエンコーディングを取得します
+title: "Document.InputEncoding"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document InputEncoding プロパティ。ドキュメントのエンコーディングを取得します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.svg.dom/document/inputencoding/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.dom/document/inputencoding/
 public string InputEncoding { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメントのエンコーディング。
+ドキュメントのエンコーディングです。
 
-### 関連項目
+### 参照
 
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

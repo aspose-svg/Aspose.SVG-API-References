@@ -1,55 +1,53 @@
 ---
-title: HttpMethod.Equals
-second_title: Aspose.SVG for .NET API リファレンス
-description: HttpMethod 方法. 現在のオブジェクトが同じタイプの別のオブジェクトと等しいかどうかを示します.
+title: "HttpMethod.Equals"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "HttpMethod Equals メソッド。現在のオブジェクトが同じ型の別のオブジェクトと等しいかどうかを示します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.net/httpmethod/equals/
 ---
-## Equals(HttpMethod) {#equals}
+## Equals(*[HttpMethod](../)*) {#equals}
 
-現在のオブジェクトが同じタイプの別のオブジェクトと等しいかどうかを示します.
+現在のオブジェクトが同じ型の別のオブジェクトと等しいかどうかを示します。
 
 ```csharp
 public bool Equals(HttpMethod other)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| other | HttpMethod | このオブジェクトと比較するオブジェクト。 |
+| other | HttpMethod | このオブジェクトと比較するためのオブジェクトです。 |
 
 ### 戻り値
 
-現在のオブジェクトが*other*パラメータ;それ以外の場合は false.
+*other* パラメータと現在のオブジェクトが等しい場合は true、そうでない場合は false です。
 
-### 関連項目
+### 参照
 
 * class [HttpMethod](../)
-* 名前空間 [Aspose.Svg.Net](../../httpmethod/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-指定されたObject 、このインスタンスと等しい.
+指定された Object がこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | オブジェクト | このインスタンスと比較するオブジェクトです。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い` .
+指定されたオブジェクトがこのインスタンスと等しい場合は `true`、そうでない場合は `false` です。
 
-### 関連項目
+### 参照
 
 * class [HttpMethod](../)
-* 名前空間 [Aspose.Svg.Net](../../httpmethod/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

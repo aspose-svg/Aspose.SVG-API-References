@@ -1,32 +1,30 @@
 ---
-title: UnitType.op_Inequality
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 方法. 指定された 2 つのUnitType値が等しくありません.
+title: "UnitType.op_Inequality"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType op_Inequality メソッド。指定された 2 つの UnitType 値が等しくないかどうかを判定します。"
 type: docs
 weight: 370
 url: /ja/net/aspose.svg.drawing/unittype/op_inequality/
 ---
 ## UnitType Inequality operator
 
-指定された 2 つの[`UnitType`](../)値が等しくありません.
+指定された 2 つの [`UnitType`](../) 値が等しくないかどうかを判定します。
 
 ```csharp
 public static bool operator !=(UnitType first, UnitType second)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| first | UnitType | 最初[`UnitType`](../)比較する値。 |
-| second | UnitType | 二番目[`UnitType`](../)比較する値。 |
+| first | UnitType | 比較する最初の [`UnitType`](../) 値。 |
+| second | UnitType | 比較する2番目の [`UnitType`](../) 値。 |
 
 ### 戻り値
 
-`真実`両方の場合[`UnitType`](../)等しくありません。さもないと、`間違い` .
+`true` は、両方の [`UnitType`](../) が等しくない場合に返されます。それ以外の場合は `false`。
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

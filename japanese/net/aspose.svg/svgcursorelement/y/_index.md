@@ -1,28 +1,26 @@
 ---
-title: SVGCursorElement.Y
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGCursorElement 財産. 指定されたcursor要素の属性yに対応します
+title: "SVGCursorElement.Y"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGCursorElement Y プロパティ。Corresponds to attribute y on the given cursor element"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg/svgcursorelement/y/
 ---
 ## SVGCursorElement.Y property
 
-指定された「cursor」要素の属性「y」に対応します。
+指定された ‘cursor’ 要素の属性 ‘y’ に対応します。
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「カーソル」要素の属性「y」。
+The attribute ‘y’ of the given ‘cursor’ element.
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCursorElement](../)
-* 名前空間 [Aspose.Svg](../../svgcursorelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

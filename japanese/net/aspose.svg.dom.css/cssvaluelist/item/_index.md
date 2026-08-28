@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSValueList 財産. を取得しますCSSValue指定されたインデックスで.
+title: "CSSValueList.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSValueList Item プロパティ。指定されたインデックスの CSSValue を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.css/cssvaluelist/item/
 ---
 ## CSSValueList indexer
 
-を取得します[`CSSValue`](../../cssvalue/)指定されたインデックスで.
+指定されたインデックスの [`CSSValue`](../../cssvalue/) を取得します。
 
 ```csharp
 public CSSValue this[int index] { get; }
@@ -16,17 +16,15 @@ public CSSValue this[int index] { get; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| index | インデックス。 |
+| インデックス | インデックス。 |
 
-### プロパティ値
+### Property Value
 
-[`CSSValue`](../../cssvalue/) .
+この [`CSSValue`](../../cssvalue/)。
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

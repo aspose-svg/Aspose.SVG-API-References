@@ -1,30 +1,28 @@
 ---
-title: Device2.DrawImage
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. 指定した画像を描画します
+title: "Device-2.DrawImage"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device DrawImage メソッド。指定された画像を描画します"
 type: docs
-weight: 110
+weight: 140
 url: /ja/net/aspose.svg.rendering/device-2/drawimage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DrawImage method
+## Device<TGraphicContext,TRenderingOptions>.DrawImage method
 
-指定した画像を描画します。
+指定された画像を描画します。
 
 ```csharp
-public abstract void DrawImage(byte[] data, ImageType type, RectangleF rect)
+public virtual void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | イメージを表すバイト配列。 |
-| type | ImageType | 画像タイプ。 |
-| rect | RectangleF | 描画する位置とサイズを決定する長方形。 |
+| データ | Byte[] | 画像を表すバイト配列です。 |
+| imageFormat | WebImageFormat | 画像形式です。 |
+| rect | RectangleF | 描画位置とサイズを決定する矩形です。 |
 
-### 関連項目
+### 参照
 
-* enum [ImageType](../../imagetype/)
+* enum [WebImageFormat](../../../aspose.svg.drawing/webimageformat/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

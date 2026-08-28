@@ -1,42 +1,40 @@
 ---
-title: Class ImageTraceSimplifier
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.ImageVectorization.ImageTraceSimplifier クラス. ImageTraceSimplifier クラスは一連のトレース ポイントによって近似される曲線内のポイントの数を減らす責任があります
+title: "ImageTraceSimplifier クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.ImageVectorization.ImageTraceSimplifier クラス。ImageTraceSimplifier クラスは、トレースポイントの系列で近似された曲線のポイント数を削減する役割を担います。"
 type: docs
-weight: 2120
+weight: 4190
 url: /ja/net/aspose.svg.imagevectorization/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier class
 
-ImageTraceSimplifier クラスは、一連のトレース ポイントによって近似される曲線内のポイントの数を減らす責任があります。
+ImageTraceSimplifier クラスは、トレースポイントの系列で近似された曲線の点数を削減する役割を担います。
 
 ```csharp
 public class ImageTraceSimplifier : IImageTraceSimplifier
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ImageTraceSimplifier](imagetracesimplifier/#constructor)() | の新しいインスタンスを初期化します`ImageTraceSimplifier` class. |
-| [ImageTraceSimplifier](imagetracesimplifier/#constructor_1)(float) | の新しいインスタンスを初期化します`ImageTraceSimplifier` class. |
+| [ImageTraceSimplifier](imagetracesimplifier/#constructor)() | `ImageTraceSimplifier` クラスの新しいインスタンスを初期化します。 |
+| [ImageTraceSimplifier](imagetracesimplifier/#constructor_1)(*float*) | `ImageTraceSimplifier` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance/) { get; set; } | 許容値は、ポイントがトレースから除外される最大許容誤差を決定します。 0 から 4 の範囲である必要があります。これより高い値または低い値は、この範囲の最小値および最大値に合わせて調整されます。 デフォルト値は 0.3 です。 |
+| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance/) { get; set; } | 許容誤差の値は、トレースから点を除去できる最大誤差許容範囲を決定します。範囲は 0 から 4 まででなければなりません。この範囲の最小値または最大値を超える場合は、それぞれ最小値または最大値に合わせられます。デフォルト値は 0.3 です。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Simplify](../../aspose.svg.imagevectorization/imagetracesimplifier/simplify/)(IEnumerable&lt;PointF&gt;) | トレース ポイントのリストからポイントの数を減らします。 |
+| [Simplify](../../aspose.svg.imagevectorization/imagetracesimplifier/simplify/)(*IEnumerable&lt;PointF&gt;*) | トレースポイントのリスト内の点の数を削減します。 |
 
-### 関連項目
+### 参照
 
 * interface [IImageTraceSimplifier](../iimagetracesimplifier/)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

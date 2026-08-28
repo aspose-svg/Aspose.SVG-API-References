@@ -1,42 +1,40 @@
 ---
-title: Aspose.Svg.Paths
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Svg.Paths名前空間は 塗りつぶしまたはストロークできる形状のアウトラインの表現のクラスを記述します. パスはクリッピング パスとしても使用できアニメーションを記述します またはテキストを配置します.
+title: "Aspose.Svg.Paths"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Svg.Paths 名前空間は、塗りつぶしやストロークが可能な形状のアウトラインを表現するクラスを記述します。パスは、アニメーションやテキストの位置指定を表すクリッピングパスとしても使用できます。"
 type: docs
-weight: 230
+weight: 250
 url: /ja/net/aspose.svg.paths/
 ---
-**Aspose.Svg.Dom.Svg.Paths**名前空間は、 塗りつぶしまたはストロークできる形状のアウトラインの表現のクラスを記述します. パスはクリッピング パスとしても使用でき、アニメーションを記述します またはテキストを配置します.
+**Aspose.Svg.Dom.Svg.Paths** 名前空間は、塗りつぶしやストロークが可能な形状の輪郭を表現するクラスを説明します。パスはクリッピングパスとして、アニメーションの記述やテキストの配置にも使用できます。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [SVGPathSeg](./svgpathseg/) | SVGPathSeg インターフェイスは、パス データ仕様内の単一のコマンドに対応する基本インターフェイスです。 |
-| [SVGPathSegArcAbs](./svgpathsegarcabs/) | SVGPathSegArcAbs インターフェイスは、「absolute arcto」(A) パス データ コマンドに対応します。 |
-| [SVGPathSegArcRel](./svgpathsegarcrel/) | SVGPathSegArcRel インターフェースは、"relative arcto" (a) パス データ コマンドに対応します。 |
-| [SVGPathSegClosePath](./svgpathsegclosepath/) | SVGPathSegClosePath インターフェイスは、「closepath」(z) パス データ コマンドに対応します。 |
-| [SVGPathSegCurvetoCubicAbs](./svgpathsegcurvetocubicabs/) | SVGPathSegCurvetoCubicAbs インターフェイスは、「絶対立方ベジエ曲線」(C) パス データ コマンドに対応します。 |
-| [SVGPathSegCurvetoCubicRel](./svgpathsegcurvetocubicrel/) | SVGPathSegCurvetoCubicRel インターフェイスは、「相対 3 次ベジエ曲線」(c) パス データ コマンドに対応します。 |
-| [SVGPathSegCurvetoCubicSmoothAbs](./svgpathsegcurvetocubicsmoothabs/) | SVGPathSegCurvetoCubicSmoothAbs インターフェースは、「絶対滑らかな 3 次曲線」(S) パス データ コマンドに対応します。 |
-| [SVGPathSegCurvetoCubicSmoothRel](./svgpathsegcurvetocubicsmoothrel/) | SVGPathSegCurvetoCubicSmoothRel インターフェイスは、「相対スムーズ キュービック カーブト」(s) パス データ コマンドに対応します。 |
-| [SVGPathSegCurvetoQuadraticAbs](./svgpathsegcurvetoquadraticabs/) | SVGPathSegCurvetoQuadraticAbs インターフェイスは、「絶対二次ベジエ曲線」(Q) パス データ コマンドに対応します。 |
-| [SVGPathSegCurvetoQuadraticRel](./svgpathsegcurvetoquadraticrel/) | SVGPathSegCurvetoQuadraticRel インターフェイスは、「相対二次ベジェ曲線」(q) パス データ コマンドに対応します。 |
-| [SVGPathSegCurvetoQuadraticSmoothAbs](./svgpathsegcurvetoquadraticsmoothabs/) | SVGPathSegCurvetoQuadraticSmoothAbs インターフェースは、「絶対滑らかな 3 次曲線」(T) パス データ コマンドに対応します。 |
-| [SVGPathSegCurvetoQuadraticSmoothRel](./svgpathsegcurvetoquadraticsmoothrel/) | SVGPathSegCurvetoQuadraticSmoothRel インターフェイスは、「相対スムーズ キュービック カーブ」(t) パス データ コマンドに対応します。 |
-| [SVGPathSegLinetoAbs](./svgpathseglinetoabs/) | SVGPathSegLinetoAbs インターフェイスは、「absolute lineto」(L) パス データ コマンドに対応します。 |
-| [SVGPathSegLinetoHorizontalAbs](./svgpathseglinetohorizontalabs/) | SVGPathSegLinetoHorizontalAbs インターフェイスは、「絶対水平ライン」(H) パス データ コマンドに対応します。 |
-| [SVGPathSegLinetoHorizontalRel](./svgpathseglinetohorizontalrel/) | SVGPathSegLinetoHorizontalRel インターフェイスは、「相対水平ライン」(h) パス データ コマンドに対応します。 |
-| [SVGPathSegLinetoRel](./svgpathseglinetorel/) | SVGPathSegLinetoRel インターフェイスは、「相対 lineto」(l) パス データ コマンドに対応します。 |
-| [SVGPathSegLinetoVerticalAbs](./svgpathseglinetoverticalabs/) | SVGPathSegLinetoVerticalAbs インターフェイスは、「絶対垂直線」(V) パス データ コマンドに対応します。 |
-| [SVGPathSegLinetoVerticalRel](./svgpathseglinetoverticalrel/) | SVGPathSegLinetoVerticalRel インターフェイスは、「相対垂直線」(v) パス データ コマンドに対応します。 |
-| [SVGPathSegList](./svgpathseglist/) | このインターフェイスは、SVGPathSeg オブジェクトのリストを定義します。 |
-| [SVGPathSegMovetoAbs](./svgpathsegmovetoabs/) | SVGPathSegMovetoAbs インターフェイスは、「absolute moveto」(M) パス データ コマンドに対応します。 |
-| [SVGPathSegMovetoRel](./svgpathsegmovetorel/) | SVGPathSegMovetoRel インターフェイスは、「相対 moveto」(m) パス データ コマンドに対応します。 |
-## インターフェース
+| [SVGPathSeg](./svgpathseg/) | SVGPathSeg インターフェイスは、パス データ仕様内の単一コマンドに対応する基本インターフェイスです。 |
+| [SVGPathSegArcAbs](./svgpathsegarcabs/) | SVGPathSegArcAbs インターフェイスは、"absolute arcto" (A) パスデータコマンドに対応します。 |
+| [SVGPathSegArcRel](./svgpathsegarcrel/) | SVGPathSegArcRel インターフェイスは、"relative arcto" (a) パスデータコマンドに対応します。 |
+| [SVGPathSegClosePath](./svgpathsegclosepath/) | SVGPathSegClosePath インターフェイスは、"closepath" (z) パスデータコマンドに対応します。 |
+| [SVGPathSegCurvetoCubicAbs](./svgpathsegcurvetocubicabs/) | SVGPathSegCurvetoCubicAbs インターフェイスは、"absolute cubic Bézier curveto" (C) パスデータコマンドに対応します。 |
+| [SVGPathSegCurvetoCubicRel](./svgpathsegcurvetocubicrel/) | SVGPathSegCurvetoCubicRel インターフェイスは、"relative cubic Bézier curveto" (c) パスデータコマンドに対応します。 |
+| [SVGPathSegCurvetoCubicSmoothAbs](./svgpathsegcurvetocubicsmoothabs/) | SVGPathSegCurvetoCubicSmoothAbs インターフェイスは、"absolute smooth cubic curveto" (S) パスデータコマンドに対応します。 |
+| [SVGPathSegCurvetoCubicSmoothRel](./svgpathsegcurvetocubicsmoothrel/) | SVGPathSegCurvetoCubicSmoothRel インターフェイスは、"relative smooth cubic curveto" (s) パスデータコマンドに対応します。 |
+| [SVGPathSegCurvetoQuadraticAbs](./svgpathsegcurvetoquadraticabs/) | SVGPathSegCurvetoQuadraticAbs インターフェイスは、"absolute quadratic Bézier curveto" (Q) パスデータコマンドに対応します。 |
+| [SVGPathSegCurvetoQuadraticRel](./svgpathsegcurvetoquadraticrel/) | SVGPathSegCurvetoQuadraticRel インターフェイスは、"relative quadratic Bézier curveto" (q) パスデータコマンドに対応します。 |
+| [SVGPathSegCurvetoQuadraticSmoothAbs](./svgpathsegcurvetoquadraticsmoothabs/) | SVGPathSegCurvetoQuadraticSmoothAbs インターフェイスは、"absolute smooth cubic curveto" (T) パスデータコマンドに対応します。 |
+| [SVGPathSegCurvetoQuadraticSmoothRel](./svgpathsegcurvetoquadraticsmoothrel/) | SVGPathSegCurvetoQuadraticSmoothRel インターフェイスは、"relative smooth cubic curveto" (t) パスデータコマンドに対応します。 |
+| [SVGPathSegLinetoAbs](./svgpathseglinetoabs/) | SVGPathSegLinetoAbs インターフェイスは、"absolute lineto" (L) パスデータコマンドに対応します。 |
+| [SVGPathSegLinetoHorizontalAbs](./svgpathseglinetohorizontalabs/) | SVGPathSegLinetoHorizontalAbs インターフェイスは、"absolute horizontal lineto" (H) パスデータコマンドに対応します。 |
+| [SVGPathSegLinetoHorizontalRel](./svgpathseglinetohorizontalrel/) | SVGPathSegLinetoHorizontalRel インターフェイスは、"relative horizontal lineto" (h) パスデータコマンドに対応します。 |
+| [SVGPathSegLinetoRel](./svgpathseglinetorel/) | SVGPathSegLinetoRel インターフェイスは、"relative lineto" (l) パスデータコマンドに対応します。 |
+| [SVGPathSegLinetoVerticalAbs](./svgpathseglinetoverticalabs/) | SVGPathSegLinetoVerticalAbs インターフェイスは、"absolute vertical lineto" (V) パスデータコマンドに対応します。 |
+| [SVGPathSegLinetoVerticalRel](./svgpathseglinetoverticalrel/) | SVGPathSegLinetoVerticalRel インターフェイスは、"relative vertical lineto" (v) パスデータコマンドに対応します。 |
+| [SVGPathSegList](./svgpathseglist/) | このインターフェイスは SVGPathSeg オブジェクトのリストを定義します。 |
+| [SVGPathSegMovetoAbs](./svgpathsegmovetoabs/) | SVGPathSegMovetoAbs インターフェイスは、"absolute moveto" (M) パスデータコマンドに対応します。 |
+| [SVGPathSegMovetoRel](./svgpathsegmovetorel/) | SVGPathSegMovetoRel インターフェイスは、"relative moveto" (m) パスデータコマンドに対応します。 |
+## インターフェイス
 
-| インターフェース | 説明 |
+| インターフェイス | 説明 |
 | --- | --- |
-| [ISVGAnimatedPathData](./isvganimatedpathdata/) | SVGAnimatedPathData インターフェイスは、SVG パス データを保持する「d」属性を持つ要素をサポートし、その属性をアニメーション化する機能をサポートします。 |
-
-
+| [ISVGAnimatedPathData](./isvganimatedpathdata/) | SVGAnimatedPathData インターフェイスは、SVG パスデータを保持する ‘d’ 属性を持つ要素をサポートし、その属性をアニメーション化する機能もサポートします。 |

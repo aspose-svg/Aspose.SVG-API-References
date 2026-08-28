@@ -1,31 +1,29 @@
 ---
-title: IWindow.Confirm
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 方法. 指定されたメッセージとともにモーダル OK/キャンセル プロンプトを表示しユーザーがそれを閉じるのを待ちユーザーが OK をクリックした場合は true を返しユーザーが キャンセル をクリックした場合は false を返します
+title: "IWindow.Confirm"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Confirm メソッド。指定されたメッセージでモーダルの OK/Cancel プロンプトを表示し、ユーザーがそれを閉じるのを待ち、ユーザーが OK をクリックした場合は true、Cancel をクリックした場合は false を返します。"
 type: docs
-weight: 110
+weight: 140
 url: /ja/net/aspose.svg.window/iwindow/confirm/
 ---
 ## IWindow.Confirm method
 
-指定されたメッセージとともにモーダル OK/キャンセル プロンプトを表示し、ユーザーがそれを閉じるのを待ち、ユーザーが [OK] をクリックした場合は true を返し、ユーザーが [キャンセル] をクリックした場合は false を返します。
+指定されたメッセージでモーダルの OK/Cancel プロンプトを表示し、ユーザーがそれを閉じるまで待機し、ユーザーが OK をクリックした場合は true、Cancel をクリックした場合は false を返します。
 
 ```csharp
 public bool Confirm(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
+| メッセージ | String | メッセージ。 |
 
 ### 戻り値
 
-ユーザーが [OK] をクリックした場合は true を返し、ユーザーが [キャンセル] をクリックした場合は false を返します。
+ユーザーが OK をクリックした場合は true、Cancel をクリックした場合は false を返します。
 
-### 関連項目
+### 参照
 
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

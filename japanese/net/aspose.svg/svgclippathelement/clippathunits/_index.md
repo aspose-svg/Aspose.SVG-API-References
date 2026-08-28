@@ -1,28 +1,26 @@
 ---
-title: SVGClipPathElement.ClipPathUnits
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGClipPathElement 財産. 指定されたclipPath要素の属性clipPathUnitsに対応します SVGUnitTypes. で定義された定数の 1 つを取ります
+title: "SVGClipPathElement.ClipPathUnits"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGClipPathElement ClipPathUnits プロパティ。対象の clipPath 要素の clipPathUnits 属性に対応します。SVGUnitTypes で定義された定数のいずれかを取ります。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/svgclippathelement/clippathunits/
 ---
 ## SVGClipPathElement.ClipPathUnits property
 
-指定された「clipPath」要素の属性「clipPathUnits」に対応します。 SVGUnitTypes. で定義された定数の 1 つを取ります
+指定された ‘clipPath’ 要素の属性 ‘clipPathUnits’ に対応します。SVGUnitTypes で定義された定数のいずれかを取ります。
 
 ```csharp
 public SVGAnimatedEnumeration ClipPathUnits { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された「clipPath」要素の属性「clipPathUnits」。
+対象の ‘clipPath’ 要素の属性 ‘clipPathUnits’ です。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGClipPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgclippathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

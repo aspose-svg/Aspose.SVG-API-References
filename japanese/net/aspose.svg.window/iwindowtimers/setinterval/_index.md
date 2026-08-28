@@ -1,33 +1,31 @@
 ---
-title: IWindowTimers.SetInterval
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindowTimers 方法. タイムアウト ミリ秒ごとにハンドラを実行するためのタイムアウトをスケジュールしますすべての引数はhandler. に直接渡されます
+title: "IWindowTimers.SetInterval"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindowTimers SetInterval メソッド。タイムアウトミリ秒ごとにハンドラを実行するタイムアウトをスケジュールします。すべての引数はハンドラにそのまま渡されます。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.window/iwindowtimers/setinterval/
 ---
 ## IWindowTimers.SetInterval method
 
-タイムアウト ミリ秒ごとにハンドラを実行するためのタイムアウトをスケジュールします。すべての引数は、handler. に直接渡されます。
+timeout ミリ秒ごとにハンドラを実行するタイムアウトをスケジュールします。すべての引数はハンドラにそのまま渡されます。
 
 ```csharp
 public int SetInterval(object handler, int timeout, params object[] args)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| handler | Object | ハンドラー。 |
-| timeout | Int32 | タイムアウト。 |
-| args | Object[] | 引数。 |
+| ハンドラ | オブジェクト | ハンドラです。 |
+| タイムアウト | Int32 | タイムアウトです。 |
+| args | Object[] | 引数です。 |
 
 ### 戻り値
 
-ハンドル
+ハンドルです。
 
-### 関連項目
+### 参照
 
 * interface [IWindowTimers](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindowtimers/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

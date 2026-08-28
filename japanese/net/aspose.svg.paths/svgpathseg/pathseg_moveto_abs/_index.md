@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_MOVETO_ABS
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathSeg 分野. absolute movetoM パス データ コマンドに対応します
+title: "SVGPathSeg.PATHSEG_MOVETO_ABS"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathSeg PATHSEG_MOVETO_ABS フィールド。絶対的な moveto M パスデータコマンドに対応します"
 type: docs
 weight: 200
 url: /ja/net/aspose.svg.paths/svgpathseg/pathseg_moveto_abs/
 ---
 ## SVGPathSeg.PATHSEG_MOVETO_ABS field
 
-「absolute moveto」(M) パス データ コマンドに対応します。
+「絶対移動」(M) パスデータコマンドに対応します。
 
 ```csharp
 public const ushort PATHSEG_MOVETO_ABS;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGPathSeg](../)
-* 名前空間 [Aspose.Svg.Paths](../../svgpathseg/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

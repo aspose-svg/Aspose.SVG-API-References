@@ -1,24 +1,22 @@
 ---
-title: IXPathNamespace.OwnerElement
-second_title: Aspose.SVG for .NET API リファレンス
-description: IXPathNamespace 財産. Element要求されたときに名前空間がスコープ内にあったもの 返された名前空間ノードでこれは変更されずその要素の名前空間が範囲外になりこのノードが XPath によってそこに 検出されなくなるような が文書で変更された場合でも.
+title: "IXPathNamespace.OwnerElement"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IXPathNamespace OwnerElement プロパティ。要求されたときに名前空間がスコープ内にあった要素です。ドキュメントが変更され、名前空間がその要素からスコープ外になり、このノードが XPath で見つからなくなっても、返された名前空間ノード上では変更されません。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.xpath/ixpathnamespace/ownerelement/
 ---
 ## IXPathNamespace.OwnerElement property
 
-[`Element`](../../../aspose.svg.dom/element/)要求されたときに名前空間がスコープ内にあったもの。 返された名前空間ノードでこれは変更されず、その要素の名前空間が範囲外になり、このノードが XPath によってそこに 検出されなくなるような が文書で変更された場合でも、.
+要求されたときに名前空間がスコープ内にあった [`Element`](../../../aspose.svg.dom/element/)。ドキュメントが変更され、名前空間がその要素からスコープ外になり、このノードが XPath で見つからなくなっても、返された名前空間ノード上では変更されません。
 
 ```csharp
 public Element OwnerElement { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IXPathNamespace](../)
-* 名前空間 [Aspose.Svg.Dom.XPath](../../ixpathnamespace/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

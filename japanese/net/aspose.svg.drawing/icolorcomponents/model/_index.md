@@ -1,7 +1,7 @@
 ---
-title: IColorComponents.Model
-second_title: Aspose.SVG for .NET API リファレンス
-description: IColorComponents 財産. カラー モデルを返します
+title: "IColorComponents.Model"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IColorComponents Model プロパティ。色モデルを返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.drawing/icolorcomponents/model/
@@ -14,11 +14,9 @@ url: /ja/net/aspose.svg.drawing/icolorcomponents/model/
 public ColorModel Model { get; }
 ```
 
-### 関連項目
+### 参照
 
 * enum [ColorModel](../../colormodel/)
 * interface [IColorComponents](../)
-* 名前空間 [Aspose.Svg.Drawing](../../icolorcomponents/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

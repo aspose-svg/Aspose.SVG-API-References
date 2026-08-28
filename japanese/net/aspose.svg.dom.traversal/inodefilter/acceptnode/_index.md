@@ -1,32 +1,30 @@
 ---
-title: INodeFilter.AcceptNode
-second_title: Aspose.SVG for .NET API リファレンス
-description: INodeFilter 方法. 指定されたノードが TreeWalker または NodeIterator の論理ビューに表示されるかどうかをテストしますこの関数 はTreeWalker および NodeIterator の実装によって呼び出されます通常 ユーザー コードから直接呼び出されることはありません ただし同じ フィルターを使用して独自のアプリケーション ロジックをガイドする場合はそうすることができます
+title: "INodeFilter.AcceptNode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "INodeFilter AcceptNode メソッド。指定されたノードが TreeWalker または NodeIterator の論理ビューで可視かどうかをテストします。この関数は TreeWalker と NodeIterator の実装によって呼び出され、通常はユーザーコードから直接呼び出されません。ただし、同じフィルタを使用して独自のアプリケーションロジックを導く場合は呼び出すことも可能です"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.traversal/inodefilter/acceptnode/
 ---
 ## INodeFilter.AcceptNode method
 
-指定されたノードが TreeWalker または NodeIterator の論理ビューに表示されるかどうかをテストします。この関数 は、TreeWalker および NodeIterator の実装によって呼び出されます。通常、 ユーザー コードから直接呼び出されることはありません。 (ただし、同じ フィルターを使用して独自のアプリケーション ロジックをガイドする場合は、そうすることができます。)
+指定されたノードが TreeWalker または NodeIterator の論理ビューで可視かどうかをテストします。この関数は TreeWalker と NodeIterator の実装によって呼び出され、通常はユーザーコードから直接呼び出されません。（同じフィルタを使用して独自のアプリケーションロジックを導く場合は、呼び出すことも可能です。）
 
 ```csharp
 public short AcceptNode(Node n)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| n | Node | ノードを使用して、フィルターを通過するかどうかを確認します。 |
+| n | ノード | フィルタを通過するかどうかを確認するノード。 |
 
 ### 戻り値
 
-上で定義したように、ノードが受け入れられるか、 拒否されるか、スキップされるかを決定する定数。
+上記で定義されたように、ノードが受け入れられるか、拒否されるか、スキップされるかを決定する定数。
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../inodefilter/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

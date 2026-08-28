@@ -1,7 +1,7 @@
 ---
-title: DOMTreatNullAsAttribute.Value
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMTreatNullAsAttribute 財産. 値を取得または設定します
+title: "DOMTreatNullAsAttribute.Value"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMTreatNullAsAttribute Value プロパティ。値を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
@@ -14,14 +14,12 @@ url: /ja/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
 public object Value { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-値.
+値。
 
-### 関連項目
+### 参照
 
 * class [DOMTreatNullAsAttribute](../)
-* 名前空間 [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

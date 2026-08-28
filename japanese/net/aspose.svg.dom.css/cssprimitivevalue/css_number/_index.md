@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_NUMBER
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSPrimitiveValue 分野. 値は単純な数値です値は getFloatValue メソッドを使用して取得できます
+title: "CSSPrimitiveValue.CSS_NUMBER"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSPrimitiveValue CSS_NUMBER フィールド。値は単純な数値です。値は getFloatValue メソッドを使用して取得できます。"
 type: docs
-weight: 290
+weight: 300
 url: /ja/net/aspose.svg.dom.css/cssprimitivevalue/css_number/
 ---
 ## CSSPrimitiveValue.CSS_NUMBER field
 
-値は単純な数値です。値は getFloatValue メソッドを使用して取得できます。
+この値は単純な数値です。 この値は getFloatValue メソッドを使用して取得できます。
 
 ```csharp
 public const ushort CSS_NUMBER;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSPrimitiveValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

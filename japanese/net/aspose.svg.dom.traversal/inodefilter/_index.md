@@ -1,20 +1,20 @@
 ---
-title: Interface INodeFilter
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Traversal.INodeFilter インターフェース. フィルターはノードをフィルターで除外する方法を知っているオブジェクトです NodeIterator または TreeWalker に NodeFilter が指定されている場合次の ノードを返す前にフィルターを適用しますフィルターがノードを受け入れるように指示する場合トラバーサル ロジックは it を返しますそれ以外の場合トラバーサルは次のノードを探し拒否された ノードが存在しないふりをします.
+title: "INodeFilter インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Traversal.INodeFilter インターフェイス。フィルタはノードを除外する方法を知っているオブジェクトです。NodeIterator または TreeWalker に NodeFilter が与えられた場合、次のノードを返す前にフィルタを適用します。フィルタがノードを受け入れると、トラバーサルロジックはそのノードを返します。そうでなければ、トラバーサルは次のノードを探し、拒否されたノードが存在しなかったかのように振る舞います。"
 type: docs
-weight: 1240
+weight: 3240
 url: /ja/net/aspose.svg.dom.traversal/inodefilter/
 ---
 ## INodeFilter interface
 
-フィルターは、ノードを「フィルターで除外」する方法を知っているオブジェクトです。 NodeIterator または TreeWalker に NodeFilter が指定されている場合、次の ノードを返す前にフィルターを適用します。フィルターがノードを受け入れるように指示する場合、トラバーサル ロジックは it を返します。それ以外の場合、トラバーサルは次のノードを探し、拒否された ノードが存在しないふりをします.
+フィルタはノードを「除外」する方法を知っているオブジェクトです。NodeIterator または TreeWalker に NodeFilter が与えられた場合、次のノードを返す前にフィルタを適用します。フィルタがノードを受け入れると判断すれば、走査ロジックはそのノードを返します。そうでなければ、走査は次のノードを探し、拒否されたノードが存在しなかったかのように振る舞います。
 
-DOM はフィルターを提供しません。 NodeFilter は、ユーザーが独自のフィルターを提供するために実装できる単なる インターフェイスです。
+DOM はフィルタを提供しません。NodeFilter は、ユーザーが独自のフィルタを実装できるインターフェイスにすぎません。
 
-NodeFilters は、ノード からノードへのトラバース方法を知る必要はなく、 がトラバースされるデータ構造について何も知る必要もありません。 が知っていなければならないことは単一のノードを評価することだけなので、これによりフィルターの作成が非常に簡単になります。 1 つの フィルターをさまざまな種類のトラバーサルで使用でき、 コードの再利用が促進されます.
+NodeFilter はノード間の走査方法や、走査対象のデータ構造について知る必要はありません。これにより、フィルタの作成が非常に簡単になります。なぜなら、フィルタが行う唯一のことは単一ノードを評価することだからです。1 つのフィルタはさまざまな種類の走査で使用でき、コードの再利用を促進します。
 
-も参照してください。[ドキュメント オブジェクト モデル (DOM) レベル 2 トラバーサルおよび範囲指定](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM レベル 2
+また、[Document object Model (DOM) Level 2 Traversal and Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113) も参照してください。@since DOM Level 2
 
 ```csharp
 public interface INodeFilter
@@ -24,11 +24,9 @@ public interface INodeFilter
 
 | 名前 | 説明 |
 | --- | --- |
-| [AcceptNode](../../aspose.svg.dom.traversal/inodefilter/acceptnode/)(Node) | 指定されたノードが TreeWalker または NodeIterator の論理ビューに表示されるかどうかをテストします。この関数 は、TreeWalker および NodeIterator の実装によって呼び出されます。通常、 ユーザー コードから直接呼び出されることはありません。 (ただし、同じ フィルターを使用して独自のアプリケーション ロジックをガイドする場合は、そうすることができます。) |
+| [AcceptNode](../../aspose.svg.dom.traversal/inodefilter/acceptnode/)(*[Node](../../aspose.svg.dom/node/)*) | 指定されたノードが TreeWalker または NodeIterator の論理ビューで可視かどうかをテストします。この関数は TreeWalker と NodeIterator の実装によって呼び出され、通常はユーザーコードから直接呼び出されません。（同じフィルタを使用して独自のアプリケーションロジックを導く場合は、呼び出すことも可能です。） |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../)

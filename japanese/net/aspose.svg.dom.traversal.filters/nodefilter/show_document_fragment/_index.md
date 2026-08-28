@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_DOCUMENT_FRAGMENT
-second_title: Aspose.SVG for .NET API リファレンス
-description: NodeFilter 分野. DocumentFragment ノードを表示します
+title: "NodeFilter.SHOW_DOCUMENT_FRAGMENT"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "NodeFilter SHOW_DOCUMENT_FRAGMENT フィールド。DocumentFragment ノードを表示します"
 type: docs
 weight: 110
 url: /ja/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment/
@@ -14,10 +14,8 @@ DocumentFragment ノードを表示します。
 public const long SHOW_DOCUMENT_FRAGMENT;
 ```
 
-### 関連項目
+### 参照
 
 * class [NodeFilter](../)
-* 名前空間 [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

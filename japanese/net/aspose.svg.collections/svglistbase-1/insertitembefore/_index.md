@@ -1,38 +1,36 @@
 ---
-title: SVGListBase1.InsertItemBefore
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGListBase 方法. リストの指定された位置に新しい項目を挿入します最初の項目は番号 0. です
+title: "SVGListBase-1.InsertItemBefore"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGListBase InsertItemBefore メソッド。指定された位置に新しい項目をリストに挿入します。最初の項目は番号0です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.collections/svglistbase-1/insertitembefore/
 ---
-## SVGListBase&lt;T&gt;.InsertItemBefore method
+## SVGListBase<T>.InsertItemBefore method
 
-リストの指定された位置に新しい項目を挿入します。最初の項目は番号 0. です。
+指定された位置に新しい項目をリストに挿入します。最初の項目は番号 0 です。
 
 ```csharp
 public T InsertItemBefore(T newItem, ulong index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| newItem | T | リストに挿入されるアイテム。 |
-| index | UInt64 | 新しいアイテムが挿入される前のアイテムのインデックス。最初の項目は番号 0 です。インデックスが 0 の場合、新しい項目がリストの先頭に挿入されます。インデックスが numberOfItems 以上の場合、新しい項目がリストの最後に追加されます。 |
+| newItem | T | リストに挿入される項目。 |
+| インデックス | UInt64 | 新しい項目を挿入する前の項目のインデックスです。最初の項目は番号0です。インデックスが0と等しい場合、新しい項目はリストの先頭に挿入されます。インデックスが numberOfItems 以上の場合、新しい項目はリストの末尾に追加されます。 |
 
 ### 戻り値
 
-挿入されたアイテム。
+挿入された項目。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). リストを変更できない場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。リストを変更できないときに発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

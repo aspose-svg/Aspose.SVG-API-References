@@ -1,24 +1,22 @@
 ---
-title: Document.OnInvalid
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document イベント. OnInvalid イベントのイベント ハンドラーを取得または設定します
+title: "Document.OnInvalid"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document OnInvalid イベント。OnInvalid イベントのハンドラを取得または設定します"
 type: docs
 weight: 430
 url: /ja/net/aspose.svg.dom/document/oninvalid/
 ---
 ## Document.OnInvalid event
 
-OnInvalid イベントのイベント ハンドラーを取得または設定します。
+OnInvalid イベントのハンドラを取得または設定します。
 
 ```csharp
 public event DOMEventHandler OnInvalid;
 ```
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

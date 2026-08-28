@@ -1,31 +1,29 @@
 ---
-title: DOMTokenList.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMTokenList 財産. インデックスによってリスト内の項目を返しますインデックスがリストの長さ以上の場合は null を返します
+title: "DOMTokenList.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMTokenList Item プロパティ。インデックスでリストの項目を返します。インデックスがリストの長さ以上の場合は null を返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.collections/domtokenlist/item/
 ---
 ## DOMTokenList indexer
 
-インデックスによってリスト内の項目を返します。インデックスがリストの長さ以上の場合は null を返します。
+インデックスでリスト内の項目を返します。インデックスがリストの長さ以上の場合は null を返します。
 
 ```csharp
-public string this[ulong index] { get; }
+public string this[uint index] { get; }
 ```
 
 | パラメータ | 説明 |
 | --- | --- |
-| index | インデックス。 |
+| インデックス | インデックス。 |
 
 ### 戻り値
 
 リスト内のトークンを表す文字列。
 
-### 関連項目
+### 参照
 
 * class [DOMTokenList](../)
-* 名前空間 [Aspose.Svg.Collections](../../domtokenlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

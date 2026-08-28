@@ -1,32 +1,30 @@
 ---
-title: IParentNode.QuerySelectorAll
-second_title: Aspose.SVG for .NET API リファレンス
-description: IParentNode 方法. セレクターに一致するノードのすべての要素の子孫を返します
+title: "IParentNode.QuerySelectorAll"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IParentNode QuerySelectorAll メソッド。セレクタに一致するノードのすべての要素子孫を返します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom/iparentnode/queryselectorall/
 ---
 ## IParentNode.QuerySelectorAll method
 
-セレクターに一致するノードのすべての要素の子孫を返します。
+セレクターに一致する node のすべての要素子孫を返します。
 
 ```csharp
 public NodeList QuerySelectorAll(string selectors)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| selectors | String | セレクター。 |
+| セレクタ | String | セレクタ。 |
 
 ### 戻り値
 
-コンテキスト オブジェクトに対してセレクター文字列セレクターのスコープ マッチを実行した静的な結果を返します。
+コンテキストオブジェクトに対して、スコープマッチのセレクタ文字列 selectors を実行した静的結果を返します。
 
-### 関連項目
+### 参照
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * interface [IParentNode](../)
-* 名前空間 [Aspose.Svg.Dom](../../iparentnode/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

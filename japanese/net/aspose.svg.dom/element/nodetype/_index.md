@@ -1,27 +1,25 @@
 ---
-title: Element.NodeType
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 財産. 基礎となるオブジェクトのタイプを表すコード.
+title: "Element.NodeType"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element NodeType プロパティ。基底オブジェクトのタイプを表すコードです。"
 type: docs
 weight: 150
 url: /ja/net/aspose.svg.dom/element/nodetype/
 ---
 ## Element.NodeType property
 
-基礎となるオブジェクトのタイプを表すコード.
+基になるオブジェクトのタイプを表すコード。
 
 ```csharp
 public override ushort NodeType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 ノードのタイプを表すコード。
 
-### 関連項目
+### 参照
 
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

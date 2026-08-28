@@ -1,55 +1,53 @@
 ---
-title: MimeType.op_Implicit
-second_title: Aspose.SVG for .NET API リファレンス
-description: MimeType 方法. からの暗黙的な変換を実行しますStringにMimeType .
+title: "MimeType.op_Implicit"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MimeType op_Implicit メソッド。String から MimeType への暗黙的な変換を実行します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg/mimetype/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 
-からの暗黙的な変換を実行しますStringに[`MimeType`](../) .
+String から [`MimeType`](../) への暗黙的な変換を実行します。
 
 ```csharp
 public static implicit operator MimeType(string @string)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| string | String | 文字列。 |
+| string | String | 文字列です。 |
 
 ### 戻り値
 
-変換の結果。
+変換の結果です。
 
-### 関連項目
+### 参照
 
 * class [MimeType](../)
-* 名前空間 [Aspose.Svg](../../mimetype/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## implicit operator {#op_implicit_1}
 
-からの暗黙的な変換を実行します[`MimeType`](../)にString .
+[`MimeType`](../) から String への暗黙的な変換を実行します。
 
 ```csharp
 public static implicit operator string(MimeType type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| type | MimeType | MIME タイプ。 |
+| type | MimeType | MIME タイプです。 |
 
 ### 戻り値
 
-変換の結果。
+変換の結果です。
 
-### 関連項目
+### 参照
 
 * class [MimeType](../)
-* 名前空間 [Aspose.Svg](../../mimetype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

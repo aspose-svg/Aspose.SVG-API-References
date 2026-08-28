@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.Location
-second_title: Aspose.SVG for .NET API リファレンス
-description: KeyboardEvent 財産. location 属性にはデバイス上のキーの論理的な場所の表示が含まれています
+title: "KeyboardEvent.Location"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "KeyboardEvent Location プロパティ。location 属性はデバイス上のキーの論理的な位置を示す指標を含みます。"
 type: docs
 weight: 70
 url: /ja/net/aspose.svg.dom.events/keyboardevent/location/
 ---
 ## KeyboardEvent.Location property
 
-location 属性には、デバイス上のキーの論理的な場所の表示が含まれています。
+location 属性は、デバイス上のキーの論理的な位置を示す情報を含みます。
 
 ```csharp
 public ulong Location { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-場所.
+位置。
 
-### 関連項目
+### 参照
 
 * class [KeyboardEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

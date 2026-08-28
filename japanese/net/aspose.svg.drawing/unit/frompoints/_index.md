@@ -1,32 +1,30 @@
 ---
-title: Unit.FromPoints
-second_title: Aspose.SVG for .NET API リファレンス
-description: Unit 方法. を返しますLengthポイントで表されるオブジェクト.
+title: "Unit.FromPoints"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Unit FromPoints メソッド。ポイントで表される Length オブジェクトを返します"
 type: docs
 weight: 180
 url: /ja/net/aspose.svg.drawing/unit/frompoints/
 ---
 ## Unit.FromPoints method
 
-を返します[`Length`](../../length/)ポイントで表されるオブジェクト.
+ポイントで表される [`Length`](../../length/) オブジェクトを返します。
 
 ```csharp
 public static Length FromPoints(double value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | value | Double | 値。 |
 
 ### 戻り値
 
-を返します[`Length`](../../length/)物体。
+[`Length`](../../length/) オブジェクトを返します。
 
-### 関連項目
+### 参照
 
 * class [Length](../../length/)
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

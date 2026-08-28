@@ -1,23 +1,21 @@
 ---
-title: ICSSMarginRule.Name
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSMarginRule 財産. name 属性はmargin rule の名前を返さなければなりません名前に  文字は含まれません
+title: "ICSSMarginRule.Name"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSMarginRule Name プロパティ。name 属性はマージン at-rule の名前を返す必要があります。名前には @ 文字は含まれません。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/icssmarginrule/name/
 ---
 ## ICSSMarginRule.Name property
 
-name 属性は、margin @-rule の名前を返さなければなりません。名前に @ 文字は含まれません。
+name 属性はマージンの at-rule の名前を返す必要があります。名前には @ 文字は含まれません。
 
 ```csharp
 public string Name { get; }
 ```
 
-### 関連項目
+### 参照
 
 * interface [ICSSMarginRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icssmarginrule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: Configuration.Configuration
-second_title: Aspose.SVG for .NET API リファレンス
-description: Configuration コンストラクタ. の新しいインスタンスを初期化しますConfiguration class.
+title: "構成"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Configuration コンストラクタ。Configuration クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg/configuration/configuration/
 ---
 ## Configuration constructor
 
-の新しいインスタンスを初期化します[`Configuration`](../) class.
+[`Configuration`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Configuration()
 ```
 
-### 関連項目
+### 参照
 
 * class [Configuration](../)
-* 名前空間 [Aspose.Svg](../../configuration/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

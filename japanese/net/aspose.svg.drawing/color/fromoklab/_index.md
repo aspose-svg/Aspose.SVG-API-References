@@ -1,33 +1,31 @@
 ---
-title: Color.FromOklab
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. OKLAB モデルの要求された明度AB 値を持つ新しい色を返します
+title: "Color.FromOklab"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color FromOklab メソッド。OKLAB モデルの要求された明度 A B 値を持つ新しい Color を返します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg.drawing/color/fromoklab/
 ---
 ## Color.FromOklab method
 
-OKLAB モデルの要求された明度、A、B 値を持つ新しい色を返します。
+OKLAB モデル用の要求された lightness、A、B の値を持つ新しい Color を返します。
 
 ```csharp
 public static Color FromOklab(float lightness, float a, float b)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| lightness | Single | 色の明度成分を表す float。 |
-| a | Single | 色の A コンポーネントを表す float。 |
-| b | Single | 色の B コンポーネントを表す float。 |
+| 明度 | Single | 色の明度成分を表す浮動小数点数です。 |
+| a | Single | 色の A 成分を表す float。 |
+| b | Single | 色の B 成分を表す float。 |
 
 ### 戻り値
 
-の新しいインスタンス[`Color`](../)クラス
+[`Color`](../) クラスの新しいインスタンスです
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

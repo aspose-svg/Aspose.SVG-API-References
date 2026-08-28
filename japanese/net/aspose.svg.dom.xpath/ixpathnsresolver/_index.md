@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathNSResolver
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.XPath.IXPathNSResolver インターフェース. XPathNSResolverインターフェイス許可プレフィックス の文字列 適切にバインドされる式名前空間URI文字列 IXPathEvaluator の実装を構築できますIXPathNSResolverノードからまたはインターフェースは 任意のアプリケーションによって実装される可能性があります.
+title: "IXPathNSResolver Interface"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.XPath.IXPathNSResolver interface. The XPathNSResolver interface permit prefix strings in the expression to be properly bound to namespaceURI strings. IXPathEvaluator can construct an implementation of IXPathNSResolver from a node or the interface may be implemented by any application"
 type: docs
-weight: 1330
+weight: 3330
 url: /ja/net/aspose.svg.dom.xpath/ixpathnsresolver/
 ---
 ## IXPathNSResolver interface
 
-`XPathNSResolver`インターフェイス許可`プレフィックス` の文字列 適切にバインドされる式`名前空間URI`文字列。 [`IXPathEvaluator`](../ixpathevaluator/) の実装を構築できます`IXPathNSResolver`ノードから、またはインターフェースは 任意のアプリケーションによって実装される可能性があります.
+The `XPathNSResolver` interface permit `prefix` strings in the expression to be properly bound to `namespaceURI` strings. [`IXPathEvaluator`](../ixpathevaluator/) can construct an implementation of `IXPathNSResolver` from a node, or the interface may be implemented by any application.
 
 ```csharp
 public interface IXPathNSResolver
@@ -18,11 +18,9 @@ public interface IXPathNSResolver
 
 | 名前 | 説明 |
 | --- | --- |
-| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(string) | 指定された名前空間プレフィックスに関連付けられた名前空間 URI を検索します。 XPath エバリュエーターは、これを`ヌル`または空の 引数。これを実行した結果は未定義です. |
+| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(*string*) | Look up the namespace URI associated to the given namespace prefix. The XPath evaluator must never call this with a `null` or empty argument, because the result of doing this is undefined. |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

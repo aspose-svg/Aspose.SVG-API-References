@@ -1,27 +1,25 @@
 ---
-title: ICSSCharsetRule.Encoding
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSSCharsetRule 財産. この charset ルールで使用されるエンコード情報
+title: "ICSSCharsetRule.Encoding"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSSCharsetRule Encoding property. この文字セットルールで使用されるエンコーディング情報です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.dom.css/icsscharsetrule/encoding/
 ---
 ## ICSSCharsetRule.Encoding property
 
-この @charset ルールで使用されるエンコード情報。
+この @charset ルールで使用されるエンコーディング情報。
 
 ```csharp
 public string Encoding { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-エンコーディング.
+エンコーディングです。
 
-### 関連項目
+### 参照
 
 * interface [ICSSCharsetRule](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icsscharsetrule/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

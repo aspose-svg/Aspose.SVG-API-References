@@ -1,32 +1,30 @@
 ---
-title: Node.InsertBefore
-second_title: Aspose.SVG for .NET API リファレンス
-description: Node 方法. 既存の子ノード child の前にノードを挿入します child が null の場合child のリストの最後に node を挿入します child が DocumentFragment オブジェクトの場合すべての子が同じ順序で child の前に挿入されます子がすでにツリーにある場合は最初に削除されます.
+title: "Node.InsertBefore"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Node InsertBefore メソッド。指定された子ノード child の前にノードを挿入します。child が null の場合、ノードは子リストの末尾に挿入されます。child が DocumentFragment オブジェクトの場合、そのすべての子が同じ順序で child の前に挿入されます。子ノードがすでにツリー内にある場合、まずそれが削除されます。"
 type: docs
-weight: 220
+weight: 200
 url: /ja/net/aspose.svg.dom/node/insertbefore/
 ---
 ## Node.InsertBefore method
 
-既存の子ノード child の前にノードを挿入します。 child が null の場合、child のリストの最後に node を挿入します。 child が DocumentFragment オブジェクトの場合、すべての子が同じ順序で child の前に挿入されます。子がすでにツリーにある場合は、最初に削除されます.
+既存の子ノード child の前にノードを挿入します。child が null の場合、子リストの末尾にノードを挿入します。child が DocumentFragment オブジェクトの場合、そのすべての子が同じ順序で child の前に挿入されます。子がすでにツリーに存在する場合、まず削除されます。
 
 ```csharp
 public Node InsertBefore(Node node, Node child)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| node | Node | 新しい子。 |
-| child | Node | レファレンスの子。 |
+| node | ノード | 新しい子ノードです。 |
+| child | ノード | 参照子ノードです。 |
 
 ### 戻り値
 
 挿入されたノードを返します
 
-### 関連項目
+### 参照
 
 * class [Node](../)
-* 名前空間 [Aspose.Svg.Dom](../../node/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

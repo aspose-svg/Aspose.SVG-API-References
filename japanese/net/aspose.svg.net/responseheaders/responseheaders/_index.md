@@ -1,23 +1,21 @@
 ---
-title: ResponseHeaders.ResponseHeaders
-second_title: Aspose.SVG for .NET API リファレンス
-description: ResponseHeaders コンストラクタ. の新しいインスタンスを初期化しますRequestHeaders class.
+title: "ResponseHeaders"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ResponseHeaders コンストラクタ。RequestHeaders クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
 
-の新しいインスタンスを初期化します[`RequestHeaders`](../../requestheaders/) class.
+[`RequestHeaders`](../../requestheaders/) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ResponseHeaders()
 ```
 
-### 関連項目
+### 参照
 
 * class [ResponseHeaders](../)
-* 名前空間 [Aspose.Svg.Net](../../responseheaders/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

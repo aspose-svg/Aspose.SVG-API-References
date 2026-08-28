@@ -1,28 +1,26 @@
 ---
-title: SVGElement.Style
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGElement 財産. 指定された要素の属性スタイルに対応しますユーザー エージェントが CSS によるスタイリングをサポートしていない場合この属性は常に null. の値を持つ必要があります
+title: "SVGElement.Style"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGElement Style プロパティ。対象要素の属性 style に対応します。ユーザーエージェントが CSS によるスタイリングをサポートしない場合、この属性は常に null の値を持たなければなりません。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg/svgelement/style/
 ---
 ## SVGElement.Style property
 
-指定された要素の属性「スタイル」に対応します。ユーザー エージェントが CSS によるスタイリングをサポートしていない場合、この属性は常に null. の値を持つ必要があります。
+指定された要素の属性 ‘style’ に対応します。ユーザーエージェントが CSS によるスタイリングをサポートしていない場合、この属性は常に null の値を持たなければなりません。
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-スタイル.
+スタイル。
 
-### 関連項目
+### 参照
 
 * interface [ICSSStyleDeclaration](../../../aspose.svg.dom.css/icssstyledeclaration/)
 * class [SVGElement](../)
-* 名前空間 [Aspose.Svg](../../svgelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

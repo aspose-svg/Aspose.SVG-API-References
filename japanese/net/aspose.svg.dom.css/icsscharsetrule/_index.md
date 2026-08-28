@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSCharsetRule
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.Css.ICSSCharsetRule インターフェース. CSSCharsetRule インターフェイスはCSS スタイル シートの charset ルールを表します encoding 属性の値はDOM オブジェクト内のテキスト データのエンコーディングには影響しませんこのエンコーディングは常に UTF16 ですスタイルシートが読み込まれるとencoding 属性の値は charset ルールで見つかった値になります元のドキュメントに charset がなかった場合CSSCharsetRule は作成されません encoding 属性の値はスタイル シートのシリアル化で使用されるエンコーディングのヒントとしても使用できます
+title: "ICSSCharsetRule インターフェイス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.Css.ICSSCharsetRule インターフェイス。CSSCharsetRule インターフェイスは CSS スタイルシート内の文字セットルールを表します。encoding 属性の値は DOM オブジェクト内のテキストデータのエンコーディングに影響せず、このエンコーディングは常に UTF-16 です。スタイルシートがロードされた後、encoding 属性の値は文字セットルールで見つかった値になります。元のドキュメントに文字セットが無い場合、CSSCharsetRule は作成されません。encoding 属性の値は、スタイルシートのシリアライズ時に使用されるエンコーディングのヒントとしても使用されることがあります。"
 type: docs
-weight: 530
+weight: 2530
 url: /ja/net/aspose.svg.dom.css/icsscharsetrule/
 ---
 ## ICSSCharsetRule interface
 
-CSSCharsetRule インターフェイスは、CSS スタイル シートの @charset ルールを表します。 encoding 属性の値は、DOM オブジェクト内のテキスト データのエンコーディングには影響しません。このエンコーディングは常に UTF-16 です。スタイルシートが読み込まれると、encoding 属性の値は @charset ルールで見つかった値になります。元のドキュメントに @charset がなかった場合、CSSCharsetRule は作成されません。 encoding 属性の値は、スタイル シートのシリアル化で使用されるエンコーディングのヒントとしても使用できます。
+CSSCharsetRule インターフェイスは CSS スタイルシート内の @charset ルールを表します。encoding 属性の値は DOM オブジェクト内のテキストデータのエンコーディングには影響せず、このエンコーディングは常に UTF-16 です。スタイルシートが読み込まれた後、encoding 属性の値は @charset ルールで見つかった値になります。元のドキュメントに @charset がなかった場合、CSSCharsetRule は作成されません。encoding 属性の値は、スタイルシートのシリアライズ時に使用されるエンコーディングのヒントとしても使用されることがあります。
 
 ```csharp
 public interface ICSSCharsetRule : ICSSRule
@@ -18,12 +18,10 @@ public interface ICSSCharsetRule : ICSSRule
 
 | 名前 | 説明 |
 | --- | --- |
-| [Encoding](../../aspose.svg.dom.css/icsscharsetrule/encoding/) { get; set; } | この @charset ルールで使用されるエンコード情報。 |
+| [Encoding](../../aspose.svg.dom.css/icsscharsetrule/encoding/) { get; set; } | この @charset ルールで使用されるエンコーディング情報。 |
 
-### 関連項目
+### 参照
 
 * interface [ICSSRule](../icssrule/)
-* 名前空間 [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

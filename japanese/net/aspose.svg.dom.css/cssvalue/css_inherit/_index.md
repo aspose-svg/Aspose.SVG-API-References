@@ -1,23 +1,21 @@
 ---
-title: CSSValue.CSS_INHERIT
-second_title: Aspose.SVG for .NET API リファレンス
-description: CSSValue 分野. 値が継承されcssText にinheritが含まれています
+title: "CSSValue.CSS_INHERIT"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "CSSValue CSS_INHERIT フィールド。値は継承され、cssText には inherit が含まれます。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom.css/cssvalue/css_inherit/
 ---
 ## CSSValue.CSS_INHERIT field
 
-値が継承され、cssText に「inherit」が含まれています。
+この値は継承され、cssText に "inherit" が含まれています。
 
 ```csharp
 public const ushort CSS_INHERIT;
 ```
 
-### 関連項目
+### 参照
 
 * class [CSSValue](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../cssvalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

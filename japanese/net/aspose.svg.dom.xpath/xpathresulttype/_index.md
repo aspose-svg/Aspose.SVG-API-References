@@ -1,14 +1,14 @@
 ---
-title: Enum XPathResultType
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Dom.XPath.XPathResultType 列挙. 結果のタイプを示す unsigned short特定の タイプが指定されている場合必要かつ可能な場合は XPath 型変換を使用して対応する 型として結果が返されます
+title: "XPathResultType 列挙体"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Dom.XPath.XPathResultType 列挙体。結果がどのタイプであるかを示す符号なし短整数です。特定のタイプが指定された場合、必要に応じて XPath の型変換を使用して、対応するタイプとして結果が返されます。"
 type: docs
-weight: 1360
+weight: 3360
 url: /ja/net/aspose.svg.dom.xpath/xpathresulttype/
 ---
 ## XPathResultType enumeration
 
-結果のタイプを示す unsigned short。特定の `タイプ`が指定されている場合、必要かつ可能な場合は XPath 型変換を使用して、対応する 型として結果が返されます。
+これは結果のタイプを示す符号なし短整数です。特定の `type` が指定された場合、必要に応じて XPath の型変換を使用し、対応する型として結果が返されます。
 
 ```csharp
 public enum XPathResultType
@@ -16,22 +16,20 @@ public enum XPathResultType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Any | `0` | このコードは特定のタイプを表していません。 XPath 式 の評価では、この型は生成されません。この型が要求された場合、評価は、式の評価から自然に生じる型が何であれ、 を返します。自然な 結果がノードセットである場合`どれでも`タイプが要求された後、`UnorderedNodeIterator` は常に結果の型です。ノード セットのその他の表現は、 明示的に要求する必要があります. |
-| Number | `1` | 結果は、[XPath 1.0] で定義されている数値です。ドキュメントの変更によって番号が無効になる ことはありませんが、再評価によって同じ番号が得られない可能性があります. |
-| String | `2` | 結果は、[XPath 1.0] で定義されている文字列です。ドキュメントの変更は文字列を 無効にしませんが、文字列が 現在のドキュメントに対応しなくなることを意味する場合があります. |
-| Boolean | `3` | [XPath 1.0] で定義されているように、結果はブール値です。ドキュメントの変更は ブール値を無効にしませんが、再評価が同じブール値を生成しないことを意味する場合があります. |
-| UnorderedNodeIterator | `4` | 結果は、[XPath 1.0] で定義されたノード セットであり、繰り返しアクセスされます。 は、特定の順序でノードを生成しない場合があります。ドキュメントを変更すると、 反復が無効になります。これは、結果がノード セットであり、かつ`どれでも` タイプが要求されています。 |
-| OrderedNodeIterator | `5` | 結果は、[XPath 1.0] で定義されたノード セットであり、繰り返しアクセスされます。 は、ドキュメント順のノードを生成します。ドキュメントの変更により反復が無効になります. |
-| UnorderedNodeSnapshot | `6` | 結果は、[XPath 1.0] で定義されたノード セットであり、特定の順序ではないノードのスナップショット リストとしてアクセスされます。ドキュメントの変更は スナップショットを無効にしませんが、再評価によって同じスナップショット が生成されず、スナップショット内のノードがドキュメントから変更、移動、または削除された可能性があることを意味する場合があります. |
-| OrderedNodeSnapshot | `7` | 結果は、[XPath 1.0] で定義されたノード セットであり、元のドキュメント順のノードのスナップショット リストとしてアクセスされます。ドキュメントの変更は スナップショットを無効にしませんが、再評価によって同じスナップショット が生成されず、スナップショット内のノードがドキュメントから変更、移動、または削除された可能性があることを意味する場合があります. |
-| AnyUnorderedNode | `8` | 結果は [XPath 1.0] で定義されたノード セットであり、単一のノード としてアクセスされます。`ヌル`ノード セットが空の場合。ドキュメントの変更によってノードが無効になることはありませんが、結果のノードが現在のドキュメントに対応しなくなる可能性があります。 これは、結果セット内の ノードが見つかったら実装を停止できるため、最適化を可能にする便利な機能です。実際の結果に複数のノードがある場合、 返された単一のノードは、ドキュメント順で最初ではない可能性があります. |
-| FirstOrderedNode | `9` | 結果は [XPath 1.0] で定義されたノード セットであり、単一のノード としてアクセスされます。`ヌル`ノード セットが空の場合。ドキュメントの変更によってノードが無効になることはありませんが、結果のノードが現在のドキュメントに対応しなくなる可能性があります。 これは、結果セットのドキュメント順で 最初のノードが見つかると実装が停止できるため、最適化を可能にする便利な機能です。実際の結果に ノードが複数ある場合は、返される単一のノードがドキュメント順の最初になります。 |
+| Any | `0` | このコードは特定のタイプを表しません。XPath 式の評価でこのタイプが生成されることはありません。このタイプが要求された場合、評価は式の評価から自然に得られる任意のタイプを返します。`Any` タイプが要求されたときに自然な結果がノードセットである場合、常に `UnorderedNodeIterator` が結果のタイプになります。ノードセットの他の表現は明示的に要求する必要があります。 |
+| Number | `1` | 結果は [XPath 1.0] で定義された数値です。ドキュメントの変更はその数値を無効にしませんが、再評価すると同じ数値が得られない可能性があります。 |
+| String | `2` | The result is a string as defined by [XPath 1.0]. Document modification does not invalidate the string, but may mean that the string no longer corresponds to the current document. |
+| Boolean | `3` | The result is a boolean as defined by [XPath 1.0]. Document modification does not invalidate the boolean, but may mean that reevaluation would not yield the same boolean. |
+| UnorderedNodeIterator | `4` | The result is a node set as defined by [XPath 1.0] that will be accessed iteratively, which may not produce nodes in a particular order. Document modification invalidates the iteration. This is the default type returned if the result is a node set and `Any` type is requested. |
+| OrderedNodeIterator | `5` | The result is a node set as defined by [XPath 1.0] that will be accessed iteratively, which will produce document-ordered nodes. Document modification invalidates the iteration. |
+| UnorderedNodeSnapshot | `6` | The result is a node set as defined by [XPath 1.0] that will be accessed as a snapshot list of nodes that may not be in a particular order. Document modification does not invalidate the snapshot but may mean that reevaluation would not yield the same snapshot and nodes in the snapshot may have been altered, moved, or removed from the document. |
+| OrderedNodeSnapshot | `7` | The result is a node set as defined by [XPath 1.0] that will be accessed as a snapshot list of nodes that will be in original document order. Document modification does not invalidate the snapshot but may mean that reevaluation would not yield the same snapshot and nodes in the snapshot may have been altered, moved, or removed from the document. |
+| AnyUnorderedNode | `8` | The result is a node set as defined by [XPath 1.0] and will be accessed as a single node, which may be `null` if the node set is empty. Document modification does not invalidate the node, but may mean that the result node no longer corresponds to the current document. This is a convenience that permits optimization since the implementation can stop once any node in the resulting set has been found. If there is more than one node in the actual result, the single node returned might not be the first in document order. |
+| FirstOrderedNode | `9` | The result is a node set as defined by [XPath 1.0] and will be accessed as a single node, which may be `null` if the node set is empty. Document modification does not invalidate the node, but may mean that the result node no longer corresponds to the current document. This is a convenience that permits optimization since the implementation can stop once the first node in document order of the resulting set has been found. If there are more than one node in the actual result, the single node returned will be the first in document order. |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

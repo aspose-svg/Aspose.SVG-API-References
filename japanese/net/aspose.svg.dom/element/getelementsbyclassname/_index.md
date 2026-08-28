@@ -1,32 +1,34 @@
 ---
-title: Element.GetElementsByClassName
-second_title: Aspose.SVG for .NET API リファレンス
-description: Element 方法. 引数で指定されたすべてのクラスを持つドキュメント内のすべての要素を含むライブ NodeList オブジェクトを返します http//www.w3.org/TR/dom/
+title: "Element.GetElementsByClassName"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Element GetElementsByClassName メソッド。引数で指定されたすべてのクラスを持つ要素を含む HTMLCollection オブジェクトを返します。"
 type: docs
 weight: 280
 url: /ja/net/aspose.svg.dom/element/getelementsbyclassname/
 ---
 ## Element.GetElementsByClassName method
 
-引数で指定されたすべてのクラスを持つドキュメント内のすべての要素を含むライブ NodeList オブジェクトを返します。 http://www.w3.org/TR/dom/
+引数で指定されたすべてのクラスを持つ [`element`](../) 内のすべての要素を含む [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) オブジェクトを返します。
 
 ```csharp
 public HTMLCollection GetElementsByClassName(string classNames)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| classNames | String | クラス (クラス名) を表す一意のスペースで区切られたトークンの順序付けられていないセットを含む文字列 string |
+| classNames | String | クラス（クラス名）を表す、スペースで区切られた一意のトークンの順序なし集合を含む文字列 |
 
 ### 戻り値
 
-[`Element`](../) .
+見つかった要素のライブ `HTMLCollection`(../../../aspose.svg.collections/htmlcollection/)です。
 
-### 関連項目
+## 備考
+
+公式の [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbyclassname) を参照してください。
+
+### 参照
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* 名前空間 [Aspose.Svg.Dom](../../element/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

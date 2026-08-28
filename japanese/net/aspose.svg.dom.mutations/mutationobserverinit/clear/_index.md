@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.Clear
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 方法. からすべての要素を削除しますMutationObserverInitコレクション.
+title: "MutationObserverInit.Clear"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit Clear メソッド。MutationObserverInit コレクションからすべての要素を削除します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/clear/
 ---
 ## MutationObserverInit.Clear method
 
-からすべての要素を削除します[`MutationObserverInit`](../)コレクション.
+[`MutationObserverInit`](../) コレクションからすべての要素を削除します。
 
 ```csharp
 public void Clear()
 ```
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Window
-second_title: Aspose.SVG for .NET API リファレンス
-description: IBrowsingContext 財産. WindowProxy オブジェクトを取得します
+title: "IBrowsingContext.Window"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IBrowsingContext Window プロパティ。WindowProxy オブジェクトを取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.dom/ibrowsingcontext/window/
@@ -14,15 +14,13 @@ WindowProxy オブジェクトを取得します。
 public IWindow Window { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ウィンドウ.
+ウィンドウです。
 
-### 関連項目
+### 参照
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * interface [IBrowsingContext](../)
-* 名前空間 [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: DOMTokenList.GetEnumerator
-second_title: Aspose.SVG for .NET API リファレンス
-description: DOMTokenList 方法. コレクションを反復処理する列挙子を返します
+title: "DOMTokenList.GetEnumerator"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "DOMTokenList GetEnumerator メソッド。コレクションを反復処理する列挙子を返します"
 type: docs
 weight: 60
 url: /ja/net/aspose.svg.collections/domtokenlist/getenumerator/
@@ -16,12 +16,10 @@ public IEnumerator<string> GetEnumerator()
 
 ### 戻り値
 
-アンIEnumeratorコレクションを反復処理するために使用できるオブジェクト。
+コレクションを反復処理するために使用できる IEnumerator オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [DOMTokenList](../)
-* 名前空間 [Aspose.Svg.Collections](../../domtokenlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

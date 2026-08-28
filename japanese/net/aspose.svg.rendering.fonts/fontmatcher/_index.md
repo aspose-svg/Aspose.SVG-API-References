@@ -1,14 +1,14 @@
 ---
-title: Class FontMatcher
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.Fonts.FontMatcher クラス. このクラスを使用するとフォント マッチング アルゴリズムの一部を制御できます
+title: "FontMatcher クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.Fonts.FontMatcher クラス。このクラスはフォントマッチング アルゴリズムの一部を制御できるようにします"
 type: docs
-weight: 2770
+weight: 4850
 url: /ja/net/aspose.svg.rendering.fonts/fontmatcher/
 ---
 ## FontMatcher class
 
-このクラスを使用すると、フォント マッチング アルゴリズムの一部を制御できます。
+このクラスは、フォントマッチングアルゴリズムの一部を制御できるようにします。
 
 ```csharp
 public abstract class FontMatcher
@@ -18,11 +18,9 @@ public abstract class FontMatcher
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [MatchFontFallback](../../aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/)(FontMatchingProperties, uint) | このメソッドは、適切なフォントがフォント ルックアップ フォルダーに見つからない場合に呼び出されます。*fontMatchingProperties*レンダリングできる*charCode*、 また`ヌル`そのようなフォントが利用できない場合. |
+| abstract [MatchFontFallback](../../aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/)(*[FontMatchingProperties](../fontmatchingproperties/), int*) | フォント検索フォルダーに適切なフォントが見つからない場合にこのメソッドが呼び出されます。*fontMatchingProperties* に基づいて *charCode* をレンダリングできる真のタイプのフォントを返すか、該当フォントが利用できない場合は `null` を返す必要があります。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Rendering.Fonts](../../aspose.svg.rendering.fonts/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: Margin.Right
-second_title: Aspose.SVG for .NET API リファレンス
-description: Margin 財産. 権利を取得または設定します
+title: "Margin.Right"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Margin Right プロパティ。右側を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.drawing/margin/right/
 ---
 ## Margin.Right property
 
-権利を取得または設定します。
+右端を取得または設定します。
 
 ```csharp
 public LengthOrAuto Right { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-右.
+右側です。
 
-### 関連項目
+### 参照
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* 名前空間 [Aspose.Svg.Drawing](../../margin/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

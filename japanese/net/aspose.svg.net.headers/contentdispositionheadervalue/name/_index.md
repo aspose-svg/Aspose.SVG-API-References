@@ -1,27 +1,25 @@
 ---
-title: ContentDispositionHeaderValue.Name
-second_title: Aspose.SVG for .NET API リファレンス
-description: ContentDispositionHeaderValue 財産. コンテンツの本文部分の名前
+title: "ContentDispositionHeaderValue.Name"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ContentDispositionHeaderValue Name プロパティ。コンテンツ本体部分の名前"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.net.headers/contentdispositionheadervalue/name/
 ---
 ## ContentDispositionHeaderValue.Name property
 
-コンテンツの本文部分の名前。
+コンテンツ本文パートの名前です。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-名前.
+名前。
 
-### 関連項目
+### 参照
 
 * class [ContentDispositionHeaderValue](../)
-* 名前空間 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

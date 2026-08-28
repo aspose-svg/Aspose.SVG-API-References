@@ -1,23 +1,21 @@
 ---
-title: MessageHandlerCollection.MessageHandlerCollection
-second_title: Aspose.SVG for .NET API リファレンス
-description: MessageHandlerCollection コンストラクタ. デフォルトのコンストラクター
+title: "MessageHandlerCollection"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MessageHandlerCollection コンストラクタ。 デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/messagehandlercollection/messagehandlercollection/
 ---
 ## MessageHandlerCollection constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public MessageHandlerCollection()
 ```
 
-### 関連項目
+### 参照
 
 * class [MessageHandlerCollection](../)
-* 名前空間 [Aspose.Svg.Net](../../messagehandlercollection/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

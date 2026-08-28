@@ -1,27 +1,25 @@
 ---
-title: IWindow.Name
-second_title: Aspose.SVG for .NET API リファレンス
-description: IWindow 財産. Window オブジェクトの name 属性は取得時にブラウジング コンテキストの現在の名前を返し設定時にブラウジング コンテキストの名前を新しい値に設定する必要があります
+title: "IWindow.Name"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IWindow Name プロパティ。Window オブジェクトの name 属性は、取得時に現在の閲覧コンテキストの名前を返し、設定時に閲覧コンテキストの名前を新しい値に設定します。"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.svg.window/iwindow/name/
 ---
 ## IWindow.Name property
 
-Window オブジェクトの name 属性は、取得時にブラウジング コンテキストの現在の名前を返し、設定時にブラウジング コンテキストの名前を新しい値に設定する必要があります。
+Window オブジェクトの name 属性は、取得時に現在のブラウジングコンテキストの名前を返し、設定時にはブラウジングコンテキストの名前を新しい値に設定しなければなりません。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-名前.
+名前。
 
-### 関連項目
+### 参照
 
 * interface [IWindow](../)
-* 名前空間 [Aspose.Svg.Window](../../iwindow/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

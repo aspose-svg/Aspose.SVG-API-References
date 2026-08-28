@@ -1,14 +1,14 @@
 ---
-title: GlyphInfo.ToString
-second_title: Aspose.SVG for .NET API リファレンス
-description: GlyphInfo 方法. を返しますStringこのインスタンスを表す.
+title: "GlyphInfo.ToString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "GlyphInfo ToString メソッド。このインスタンスを表す文字列を返します"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.rendering/glyphinfo/tostring/
 ---
 ## GlyphInfo.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表す String を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
-### 関連項目
+### 参照
 
 * struct [GlyphInfo](../)
-* 名前空間 [Aspose.Svg.Rendering](../../glyphinfo/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

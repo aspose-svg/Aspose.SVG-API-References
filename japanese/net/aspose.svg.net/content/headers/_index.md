@@ -1,7 +1,7 @@
 ---
-title: Content.Headers
-second_title: Aspose.SVG for .NET API リファレンス
-description: Content 財産. HTTP コンテンツ ヘッダーを取得します
+title: "Content.Headers"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Content Headers プロパティ。HTTP コンテンツヘッダーを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/content/headers/
@@ -14,15 +14,13 @@ HTTP コンテンツ ヘッダーを取得します。
 public ContentHeaders Headers { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ヘッダー.
+ヘッダー。
 
-### 関連項目
+### 参照
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* 名前空間 [Aspose.Svg.Net](../../content/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

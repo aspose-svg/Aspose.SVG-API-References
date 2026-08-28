@@ -1,23 +1,21 @@
 ---
-title: BezierPathBuilder.ErrorThreshold
-second_title: Aspose.SVG for .NET API リファレンス
-description: BezierPathBuilder 財産. エラーしきい値を取得または設定します このパラメーターは適合曲線に対する点の最大偏差を定義します デフォルトでは 30 です
+title: "BezierPathBuilder.ErrorThreshold"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "BezierPathBuilder ErrorThreshold プロパティ。エラーしきい値を取得または設定します。このパラメータは、点がフィットした曲線からの最大偏差を定義します。デフォルトは 30 です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/
 ---
 ## BezierPathBuilder.ErrorThreshold property
 
-エラーしきい値を取得または設定します。 このパラメーターは、適合曲線に対する点の最大偏差を定義します。 デフォルトでは 30 です。
+エラースレッショルドを取得または設定します。このパラメータは点とフィットした曲線との最大偏差を定義します。デフォルトは 30 です。
 
 ```csharp
 public float ErrorThreshold { get; set; }
 ```
 
-### 関連項目
+### 参照
 
 * class [BezierPathBuilder](../)
-* 名前空間 [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

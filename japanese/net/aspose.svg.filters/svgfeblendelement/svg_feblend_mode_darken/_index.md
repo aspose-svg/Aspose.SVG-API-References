@@ -1,7 +1,7 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_DARKEN
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGFEBlendElement 分野. 値 darken に対応します
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_DARKEN"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGFEBlendElement SVG_FEBLEND_MODE_DARKEN フィールド。値 darken に対応します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_darken/
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_darken/
 public const ushort SVG_FEBLEND_MODE_DARKEN;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGFEBlendElement](../)
-* 名前空間 [Aspose.Svg.Filters](../../svgfeblendelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

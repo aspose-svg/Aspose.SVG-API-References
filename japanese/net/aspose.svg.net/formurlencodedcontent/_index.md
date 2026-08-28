@@ -1,24 +1,24 @@
 ---
-title: Class FormUrlEncodedContent
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.FormUrlEncodedContent クラス. application/xwwwformurlencoded MIME タイプを使用してエンコードされた名前/値のタプルのコンテナー
+title: "FormUrlEncodedContent クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.FormUrlEncodedContent クラス。application/x-www-form-urlencoded MIME タイプでエンコードされた name/value タプルのコンテナです"
 type: docs
-weight: 2250
+weight: 4320
 url: /ja/net/aspose.svg.net/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent class
 
-application/x-www-form-urlencoded MIME タイプを使用してエンコードされた名前/値のタプルのコンテナー。
+application/x-www-form-urlencoded MIME タイプでエンコードされた名前/値のタプルを格納するコンテナです。
 
 ```csharp
 public class FormUrlEncodedContent : ByteArrayContent
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [FormUrlEncodedContent](formurlencodedcontent/)(IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;) | の新しいインスタンスを初期化します`FormUrlEncodedContent` class. |
+| [FormUrlEncodedContent](formurlencodedcontent/)(*IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;*) | `FormUrlEncodedContent` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -30,15 +30,13 @@ public class FormUrlEncodedContent : ByteArrayContent
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | アンマネージ リソースの解放、解放、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | HTTP コンテンツをシリアル化し、コンテンツを表すバイト配列を返します。 |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | HTTP コンテンツをシリアル化し、コンテンツを表すストリームを返します。 |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | HTTP コンテンツをシリアル化し、コンテンツを表す文字列を返します。 |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | HTTP コンテンツをシリアライズし、コンテンツを表すバイト配列を返します。 |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | HTTP コンテンツをシリアライズし、コンテンツを表すストリームを返します。 |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | HTTP コンテンツをシリアライズし、コンテンツを表す文字列を返します。 |
 
-### 関連項目
+### 参照
 
 * class [ByteArrayContent](../bytearraycontent/)
-* 名前空間 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

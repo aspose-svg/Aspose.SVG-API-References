@@ -1,23 +1,21 @@
 ---
-title: SVGMarkerElement.SVG_MARKER_ORIENT_AUTO
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMarkerElement 分野. 属性orientの値はautoです
+title: "SVGMarkerElement.SVG_MARKER_ORIENT_AUTO"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMarkerElement SVG_MARKER_ORIENT_AUTO フィールド。属性 orient の値は auto です。"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg/svgmarkerelement/svg_marker_orient_auto/
 ---
 ## SVGMarkerElement.SVG_MARKER_ORIENT_AUTO field
 
-属性「orient」の値は「auto」です。
+属性 ‘orient’ の値は 'auto' です。
 
 ```csharp
 public const ushort SVG_MARKER_ORIENT_AUTO;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGMarkerElement](../)
-* 名前空間 [Aspose.Svg](../../svgmarkerelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

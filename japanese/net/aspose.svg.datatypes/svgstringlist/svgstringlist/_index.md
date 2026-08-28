@@ -1,43 +1,41 @@
 ---
-title: SVGStringList.SVGStringList
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGStringList コンストラクタ. の新しいインスタンスを初期化しますSVGStringList class.
+title: "SVGStringList"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGStringList コンストラクタ。 SVGStringList クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-の新しいインスタンスを初期化します[`SVGStringList`](../) class.
+[`SVGStringList`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SVGStringList()
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGStringList](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgstringlist/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&lt;string&gt;*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`SVGStringList`](../) class.
+[`SVGStringList`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | 列挙可能。 |
+| 列挙可能 | IEnumerable`1 | 列挙可能です。 |
 
-### 関連項目
+### 参照
 
 * class [SVGStringList](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgstringlist/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

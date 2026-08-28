@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.IterateNext
-second_title: Aspose.SVG for .NET API リファレンス
-description: IXPathResult 方法. ノード セットから次のノードを繰り返して返しますヌルこれ以上ノードがない場合.
+title: "IXPathResult.IterateNext"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IXPathResult IterateNext メソッド。ノードセットから次のノードを反復取得し、ノードがもう無い場合は null を返します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.svg.dom.xpath/ixpathresult/iteratenext/
 ---
 ## IXPathResult.IterateNext method
 
-ノード セットから次のノードを繰り返して返します。`ヌル`これ以上ノードがない場合.
+ノードセットから次のノードを反復取得し、ノードがもうない場合は `null` を返します。
 
 ```csharp
 public Node IterateNext()
@@ -20,16 +20,14 @@ public Node IterateNext()
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: 次の場合に発生します`結果タイプ` ではありません`UnorderedNodeIterator`タイプまたは`OrderedNodeIterator`タイプ。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: 結果が返されてから、ドキュメントは 変更されました。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: `resultType` が `UnorderedNodeIterator` 型でも `OrderedNodeIterator` 型でもない場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: 結果が返された後にドキュメントが変更されました。 |
 
-### 関連項目
+### 参照
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* 名前空間 [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

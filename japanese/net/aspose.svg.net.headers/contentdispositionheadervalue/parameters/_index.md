@@ -1,28 +1,26 @@
 ---
-title: ContentDispositionHeaderValue.Parameters
-second_title: Aspose.SVG for .NET API リファレンス
-description: ContentDispositionHeaderValue 財産. パラメータのコレクションを取得
+title: "ContentDispositionHeaderValue.Parameters"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ContentDispositionHeaderValue Parameters プロパティ。パラメータのコレクションを取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.net.headers/contentdispositionheadervalue/parameters/
 ---
 ## ContentDispositionHeaderValue.Parameters property
 
-パラメータのコレクションを取得
+パラメーターのコレクションを取得します
 
 ```csharp
 public ICollection<NameValueHeaderValue> Parameters { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-パラメータ.
+パラメータ。
 
-### 関連項目
+### 参照
 
 * class [NameValueHeaderValue](../../namevalueheadervalue/)
 * class [ContentDispositionHeaderValue](../)
-* 名前空間 [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

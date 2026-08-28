@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.OutlineWidth
-second_title: Aspose.SVG for .NET API リファレンス
-description: ICSS2Properties 財産. CSS2 の Outlinewidth プロパティの定義を参照してください
+title: "ICSS2Properties.OutlineWidth"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ICSS2Properties OutlineWidth プロパティ。CSS2 の outline-width プロパティ定義を参照してください。"
 type: docs
-weight: 780
+weight: 810
 url: /ja/net/aspose.svg.dom.css/icss2properties/outlinewidth/
 ---
 ## ICSS2Properties.OutlineWidth property
 
-CSS2 の Outline-width プロパティの定義を参照してください。
+CSS2 の outline-width プロパティ定義をご覧ください。
 
 ```csharp
 public string OutlineWidth { get; set; }
@@ -16,12 +16,10 @@ public string OutlineWidth { get; set; }
 
 ### 戻り値
 
-アウトライン幅プロパティ
+outline-width プロパティ
 
-### 関連項目
+### 参照
 
 * interface [ICSS2Properties](../)
-* 名前空間 [Aspose.Svg.Dom.Css](../../icss2properties/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

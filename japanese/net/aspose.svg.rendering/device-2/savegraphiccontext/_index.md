@@ -1,23 +1,21 @@
 ---
-title: Device2.SaveGraphicContext
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 方法. グラフィックス コンテキスト全体のコピーをスタックにプッシュします
+title: "Device-2.SaveGraphicContext"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device SaveGraphicContext メソッド。グラフィックス コンテキスト全体のコピーをスタックにプッシュします"
 type: docs
-weight: 210
+weight: 240
 url: /ja/net/aspose.svg.rendering/device-2/savegraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.SaveGraphicContext method
 
-グラフィックス コンテキスト全体のコピーをスタックにプッシュします。
+グラフィック コンテキスト全体のコピーをスタックにプッシュします。
 
 ```csharp
 public virtual void SaveGraphicContext()
 ```
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

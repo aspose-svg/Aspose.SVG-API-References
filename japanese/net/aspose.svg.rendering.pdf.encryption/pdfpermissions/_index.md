@@ -1,14 +1,14 @@
 ---
-title: Enum PdfPermissions
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Rendering.Pdf.Encryption.PdfPermissions 列挙. この列挙型はPDF に対するユーザーの権限を表します
+title: "PdfPermissions 列挙体"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Rendering.Pdf.Encryption.PdfPermissions 列挙体。この列挙体は PDF のユーザー権限を表します。"
 type: docs
-weight: 2930
+weight: 5000
 url: /ja/net/aspose.svg.rendering.pdf.encryption/pdfpermissions/
 ---
 ## PdfPermissions enumeration
 
-この列挙型は、PDF に対するユーザーの権限を表します。
+この列挙型は PDF に対するユーザーの権限を表します。
 
 ```csharp
 [Flags]
@@ -17,20 +17,18 @@ public enum PdfPermissions
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| PrintDocument | `4` | (リビジョン 2 のセキュリティ ハンドラ) ドキュメントを印刷します。 (リビジョン 3 以上のセキュリティ ハンドラ) ドキュメントを印刷します (PrintingQuality も設定されているかどうかによっては、最高の品質レベルではない可能性があります)。 |
-| ModifyContent | `8` | ModifyTextAnnotations、FillForm、および 11. によって制御される操作以外の操作によってドキュメントの内容を変更します。 |
-| ExtractContent | `10` | リビジョン 2 のセキュリティ ハンドラ (障害のあるユーザーへのアクセシビリティをサポートするため、またはその他の目的で) テキストとグラフィックスの抽出を含む、ドキュメントからテキストとグラフィックスをコピーまたは抽出します。 (リビジョン 3 以降のセキュリティ ハンドラ) コピーまたは、 ExtractContentWithDisabilities. によって制御される操作以外の操作によって、ドキュメントからテキストとグラフィックを抽出します。 |
-| ModifyTextAnnotations | `20` | テキスト注釈を追加または変更し、インタラクティブ フォーム フィールドに入力します。ModifyContent も設定されている場合は、インタラクティブ フォーム フィールド (署名フィールドを含む) を作成または変更します。 |
-| FillForm | `100` | (リビジョン 3 以上のセキュリティ ハンドラー) ModifyTextAnnotations がクリアであっても、既存のインタラクティブ フォーム フィールド (署名フィールドを含む) に入力します。 |
-| ExtractContentWithDisabilities | `200` | (リビジョン 3 以降のセキュリティ ハンドラー) テキストとグラフィックを抽出します (障害を持つユーザーのアクセシビリティをサポートするため、またはその他の目的で)。 |
-| AssembleDocument | `400` | (リビジョン 3 以上のセキュリティ ハンドラー) ドキュメントを組み立てます (ページの挿入、回転、または削除、ブックマークまたはサムネイル イメージの作成)。 |
-| PrintingQuality | `800` | (リビジョン 3 以上のセキュリティ ハンドラー) PDF コンテンツの忠実なデジタル コピーを生成できる表現でドキュメントを印刷します。 -外観のレベル表現、おそらく品質が低下しています. |
+| PrintDocument | `4` | (リビジョン 2 のセキュリティハンドラ) 文書を印刷します。(リビジョン 3 以上のセキュリティハンドラ) 文書を印刷します（PrintingQuality が設定されているかどうかに応じて、最高品質でない場合があります）。 |
+| ModifyContent | `8` | ModifyTextAnnotations、FillForm、および 11 で制御される操作以外の操作で文書の内容を変更します。 |
+| ExtractContent | `10` | (リビジョン 2 のセキュリティハンドラ) 文書からテキストやグラフィックをコピーまたは抽出します（障害を持つユーザーへのアクセシビリティ支援やその他の目的のためにテキストやグラフィックを抽出することを含みます）。(リビジョン 3 以上のセキュリティハンドラ) ExtractContentWithDisabilities で制御される操作以外の操作で文書からテキストやグラフィックをコピーまたは抽出します。 |
+| ModifyTextAnnotations | `20` | テキスト注釈を追加または変更し、インタラクティブなフォームフィールドに入力し、さらに ModifyContent が設定されている場合はインタラクティブなフォームフィールド（署名フィールドを含む）を作成または変更します。 |
+| FillForm | `100` | (リビジョン 3 以上のセキュリティハンドラ) ModifyTextAnnotations がクリアされていても、既存のインタラクティブなフォームフィールド（署名フィールドを含む）に入力します。 |
+| ExtractContentWithDisabilities | `200` | (リビジョン 3 以上のセキュリティハンドラ) テキストやグラフィックを抽出します（障害を持つユーザーへのアクセシビリティ支援やその他の目的のため）。 |
+| AssembleDocument | `400` | (リビジョン 3 以上のセキュリティハンドラ) ModifyContent がクリアされていても、文書を組み立てます（ページの挿入、回転、削除やブックマーク・サムネイル画像の作成）。 |
+| PrintingQuality | `800` | (リビジョン 3 以上のセキュリティハンドラ) PDF コンテンツの忠実なデジタルコピーを生成できる表現に文書を印刷します。このビットがクリアされ（かつビット 3 が設定されている）場合、印刷は外観の低レベル表現に制限され、品質が低下する可能性があります。 |
 
-### 関連項目
+### 参照
 
-* 名前空間 [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../)

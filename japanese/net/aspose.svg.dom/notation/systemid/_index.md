@@ -1,27 +1,25 @@
 ---
-title: Notation.SystemId
-second_title: Aspose.SVG for .NET API リファレンス
-description: Notation 財産. この表記のシステム識別子システム ID が指定されていない場合これはヌルですこれは絶対 URI である場合とそうでない場合があります
+title: "Notation.SystemId"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Notation SystemId property. この表記のシステム識別子です。システム識別子が指定されていない場合は null です。絶対 URI の場合もありますし、そうでない場合もあります。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.dom/notation/systemid/
 ---
 ## Notation.SystemId property
 
-この表記のシステム識別子。システム ID が指定されていない場合、これはヌルです。これは、絶対 URI である場合とそうでない場合があります。
+この表記のシステム識別子。システム識別子が指定されていない場合、null です。絶対 URI の場合もありますし、そうでない場合もあります。
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-システム識別子.
+システム識別子。
 
-### 関連項目
+### 参照
 
 * class [Notation](../)
-* 名前空間 [Aspose.Svg.Dom](../../notation/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

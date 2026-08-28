@@ -1,32 +1,30 @@
 ---
-title: Unit.FromCentimeters
-second_title: Aspose.SVG for .NET API リファレンス
-description: Unit 方法. を返しますLengthセンチメートルで表されるオブジェクト.
+title: "Unit.FromCentimeters"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Unit FromCentimeters メソッド。センチメートルで表される Length オブジェクトを返します"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg.drawing/unit/fromcentimeters/
 ---
 ## Unit.FromCentimeters method
 
-を返します[`Length`](../../length/)センチメートルで表されるオブジェクト.
+センチメートルで表される [`Length`](../../length/) オブジェクトを返します。
 
 ```csharp
 public static Length FromCentimeters(double value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | value | Double | 値。 |
 
 ### 戻り値
 
-を返します[`Length`](../../length/)物体。
+[`Length`](../../length/) オブジェクトを返します。
 
-### 関連項目
+### 参照
 
 * class [Length](../../length/)
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

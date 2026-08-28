@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.Type
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationRecord 財産. 属性の変更の場合はattributesCharacterData ノードの変更の場合はcharacterDataノードのツリーの変更の場合はchildListを返します
+title: "MutationRecord.Type"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationRecord Type プロパティ。属性の変異だった場合は attributes を返し、CharacterData ノードへの変異だった場合は characterData を返し、ノードツリーへの変異だった場合は childList を返します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.svg.dom.mutations/mutationrecord/type/
 ---
 ## MutationRecord.Type property
 
-属性の変更の場合は「attributes」、CharacterData ノードの変更の場合は「characterData」、ノードのツリーの変更の場合は「childList」を返します。
+"attributes" は属性変異の場合に返され、"characterData" は CharacterData ノードへの変異の場合に返され、"childList" はノードツリーへの変異の場合に返されます。
 
 ```csharp
 public string Type { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-タイプ.
+タイプです。
 
-### 関連項目
+### 参照
 
 * class [MutationRecord](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

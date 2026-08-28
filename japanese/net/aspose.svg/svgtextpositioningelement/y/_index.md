@@ -1,28 +1,26 @@
 ---
-title: SVGTextPositioningElement.Y
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTextPositioningElement 財産. 指定された要素の属性 y に対応します
+title: "SVGTextPositioningElement.Y"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTextPositioningElement Y プロパティ。指定された要素の属性 y に対応します"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg/svgtextpositioningelement/y/
 ---
 ## SVGTextPositioningElement.Y property
 
-指定された要素の属性 'y' に対応します。
+指定された要素の属性 ‘y’ に対応します。
 
 ```csharp
 public SVGAnimatedLengthList Y { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-指定された要素の属性「y」.
+指定された要素の属性 ‘y’。
 
-### 関連項目
+### 参照
 
 * class [SVGAnimatedLengthList](../../../aspose.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* 名前空間 [Aspose.Svg](../../svgtextpositioningelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

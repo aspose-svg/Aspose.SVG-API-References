@@ -1,31 +1,29 @@
 ---
-title: IUrlSearchParams.Has
-second_title: Aspose.SVG for .NET API リファレンス
-description: IUrlSearchParams 方法. という名前の名前と値のペアがあるかどうかを確認します名前リスト内.
+title: "IUrlSearchParams.Has"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IUrlSearchParams Has メソッド。リスト内に名前が name の name-value ペアがあるかどうかを確認します"
 type: docs
 weight: 50
 url: /ja/net/aspose.svg/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
 
-という名前の名前と値のペアがあるかどうかを確認します。`名前`リスト内.
+リストに名前が `name` の名前-値ペアがあるかどうかを確認します。
 
 ```csharp
 public bool Has(string name)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| name | String | 名前と値のペアを検索するために使用されるキー。 |
+| 名前 | String | name-value ペアを検索するために使用されるキー。 |
 
 ### 戻り値
 
-`真実`という名前の名前と値のペアがある場合`名前`リスト内の 、および`間違い`さもないと。
+`True` は、リスト内に名前が `name` の name-value ペアがある場合で、`false` はそれ以外の場合です。
 
-### 関連項目
+### 参照
 
 * interface [IUrlSearchParams](../)
-* 名前空間 [Aspose.Svg](../../iurlsearchparams/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGPathElement 方法. スタンドアロンで親のない SVGPathSegCurvetoQuadraticSmoothAbs オブジェクトを返します
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGPathElement CreateSVGPathSegCurvetoQuadraticSmoothAbs メソッド。スタンドアロンで親のない SVGPathSegCurvetoQuadraticSmoothAbs オブジェクトを返します"
 type: docs
 weight: 120
 url: /ja/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothabs/
@@ -15,20 +15,18 @@ public SVGPathSegCurvetoQuadraticSmoothAbs CreateSVGPathSegCurvetoQuadraticSmoot
     float y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | このパス セグメントの終点の絶対 X 座標。 |
-| y | Single | このパス セグメントの終点の絶対 Y 座標。 |
+| x | Single | このパスセグメントの終点の絶対X座標。 |
+| y | Single | このパスセグメントの終点の絶対Y座標。 |
 
 ### 戻り値
 
-スタンドアロンで親のない SVGPathSegCurvetoQuadraticSmoothAbs オブジェクト。
+スタンドアロンで親のない SVGPathSegCurvetoQuadraticSmoothAbs オブジェクトです。
 
-### 関連項目
+### 参照
 
 * class [SVGPathSegCurvetoQuadraticSmoothAbs](../../../aspose.svg.paths/svgpathsegcurvetoquadraticsmoothabs/)
 * class [SVGPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

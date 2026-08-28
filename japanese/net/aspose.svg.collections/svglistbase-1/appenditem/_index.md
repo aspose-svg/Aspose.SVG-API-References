@@ -1,37 +1,35 @@
 ---
-title: SVGListBase1.AppendItem
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGListBase 方法. リストの最後に新しい項目を挿入します
+title: "SVGListBase-1.AppendItem"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGListBase AppendItem メソッド。リストの末尾に新しい項目を挿入します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.svg.collections/svglistbase-1/appenditem/
 ---
-## SVGListBase&lt;T&gt;.AppendItem method
+## SVGListBase<T>.AppendItem method
 
-リストの最後に新しい項目を挿入します。
+リストの末尾に新しい項目を挿入します。
 
 ```csharp
 public T AppendItem(T newItem)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| newItem | T | 挿入するアイテム。最初の項目は番号 0 です。 |
+| newItem | T | 挿入される項目です。最初の項目は番号0です。 |
 
 ### 戻り値
 
-挿入されたアイテム。
+挿入された項目。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). リストを変更できない場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。リストを変更できないときに発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

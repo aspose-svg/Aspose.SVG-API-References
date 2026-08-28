@@ -1,9 +1,9 @@
 ---
-title: Class MultipartContent
-second_title: Aspose.SVG for .NET API リファレンス
-description: Aspose.Svg.Net.MultipartContent クラス. multipart/ コンテンツを表します
+title: "MultipartContent クラス"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Aspose.Svg.Net.MultipartContent クラス。マルチパート/ コンテンツを表します"
 type: docs
-weight: 2390
+weight: 4460
 url: /ja/net/aspose.svg.net/multipartcontent/
 ---
 ## MultipartContent class
@@ -14,13 +14,13 @@ multipart/* コンテンツを表します。
 public class MultipartContent : Content, IEnumerable<Content>
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [MultipartContent](multipartcontent/#constructor)() | の新しいインスタンスを作成します`MultipartContent` class. |
-| [MultipartContent](multipartcontent/#constructor_1)(string) | の新しいインスタンスを作成します`MultipartContent`subtype. を持つクラス |
-| [MultipartContent](multipartcontent/#constructor_2)(string, string) | の新しいインスタンスを作成します`MultipartContent`サブタイプと境界を持つクラス. |
+| [MultipartContent](multipartcontent/#constructor)() | `MultipartContent` クラスの新しいインスタンスを作成します。 |
+| [MultipartContent](multipartcontent/#constructor_1)(*string*) | `MultipartContent` クラスの新しいインスタンスをサブタイプ付きで作成します。 |
+| [MultipartContent](multipartcontent/#constructor_2)(*string, string*) | `MultipartContent` クラスの新しいインスタンスをサブタイプと境界付きで作成します。 |
 
 ## プロパティ
 
@@ -32,17 +32,15 @@ public class MultipartContent : Content, IEnumerable<Content>
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [Add](../../aspose.svg.net/multipartcontent/add/)(Content) | 新しいコンテンツを`MultipartContent` |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | アンマネージ リソースの解放、解放、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
+| virtual [Add](../../aspose.svg.net/multipartcontent/add/)(*[Content](../content/)*) | `MultipartContent` に新しいコンテンツを追加します |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | アンマネージド リソースの解放、リリース、またはリセットに関連するアプリケーション定義のタスクを実行します。 |
 | [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | コレクションを反復処理する列挙子を返します。 |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | HTTP コンテンツをシリアル化し、コンテンツを表すバイト配列を返します。 |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | HTTP コンテンツをシリアル化し、コンテンツを表すストリームを返します。 |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | HTTP コンテンツをシリアル化し、コンテンツを表す文字列を返します。 |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | HTTP コンテンツをシリアライズし、コンテンツを表すバイト配列を返します。 |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | HTTP コンテンツをシリアライズし、コンテンツを表すストリームを返します。 |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | HTTP コンテンツをシリアライズし、コンテンツを表す文字列を返します。 |
 
-### 関連項目
+### 参照
 
 * class [Content](../content/)
-* 名前空間 [Aspose.Svg.Net](../../aspose.svg.net/)
-* 組み立て [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

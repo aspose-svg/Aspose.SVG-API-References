@@ -1,32 +1,30 @@
 ---
-title: SVGMatrix.Translate
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGMatrix 方法. 現在の行列に並進変換を後置乗算し結果の行列を返します
+title: "SVGMatrix.Translate"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGMatrix Translate メソッド。現在のマトリックスに平行移動変換を後置乗算し、結果のマトリックスを返します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.svg.datatypes/svgmatrix/translate/
 ---
 ## SVGMatrix.Translate method
 
-現在の行列に並進変換を後置乗算し、結果の行列を返します。
+現在の行列に平行移動変換を後置乗算し、結果の行列を返します。
 
 ```csharp
 public SVGMatrix Translate(float x, float y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | X 軸に沿って移動する距離。 |
-| y | Single | Y 軸に沿って移動する距離。 |
+| x | Single | x 軸に沿って平行移動する距離。 |
+| y | Single | y 軸に沿って平行移動する距離。 |
 
 ### 戻り値
 
-結果のマトリックス。
+結果の行列。
 
-### 関連項目
+### 参照
 
 * class [SVGMatrix](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svgmatrix/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

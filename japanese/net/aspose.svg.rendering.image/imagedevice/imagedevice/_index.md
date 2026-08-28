@@ -1,135 +1,133 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageDevice コンストラクタ. の新しいインスタンスを初期化しますImageDevice class.
+title: "ImageDevice"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageDevice コンストラクタ。ImageDevice クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
-## ImageDevice(ICreateStreamProvider) {#constructor}
+## ImageDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-の新しいインスタンスを初期化します[`ImageDevice`](../) class.
+[`ImageDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | ストリーム プロバイダー。 |
+| streamProvider | ICreateStreamProvider | ストリームプロバイダーです。 |
 
-### 関連項目
+### 参照
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ImageDevice`](../)レンダリング オプションとストリーム プロバイダーによるクラス.
+レンダリングオプションとストリームプロバイダーによって、[`ImageDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | ImageRenderingOptions | レンダリング オプション。 |
-| streamProvider | ICreateStreamProvider | を実装するオブジェクト[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/)インターフェース |
+| options | ImageRenderingOptions | レンダリングオプションです。 |
+| streamProvider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) インターフェイスを実装するオブジェクト |
 
-### 関連項目
+### 参照
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(string) {#constructor_5}
+## ImageDevice(*string*) {#constructor_5}
 
-の新しいインスタンスを初期化します[`ImageDevice`](../) class.
+[`ImageDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(string file)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| file | String | 出力ファイル名。 |
+| file | String | 出力ファイル名です。 |
 
-### 関連項目
+### 参照
 
 * class [ImageDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), string*) {#constructor_3}
 
-の新しいインスタンスを初期化します[`ImageDevice`](../)レンダリング オプションと出力ファイル名によるクラス.
+レンダリングオプションと出力ファイル名によって、[`ImageDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | ImageRenderingOptions | レンダリング オプション。 |
-| file | String | 出力ファイル名。 |
+| options | ImageRenderingOptions | レンダリングオプションです。 |
+| file | String | 出力ファイル名です。 |
 
-### 関連項目
+### 参照
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(Stream) {#constructor_4}
+## ImageDevice(*Stream*) {#constructor_4}
 
-の新しいインスタンスを初期化します[`ImageDevice`](../) class.
+[`ImageDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ストリーム。 |
+| ストリーム | Stream | ストリームです。 |
 
-### 関連項目
+### 参照
 
 * class [ImageDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), Stream*) {#constructor_2}
 
-の新しいインスタンスを初期化します[`ImageDevice`](../)オプションと出力ストリームをレンダリングすることによるクラス.
+レンダリングオプションと出力ストリームによって、[`ImageDevice`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| options | ImageRenderingOptions | レンダリング オプション。 |
-| stream | Stream | 出力ストリーム。 |
+| options | ImageRenderingOptions | レンダリングオプションです。 |
+| ストリーム | Stream | 出力ストリームです。 |
 
-### 関連項目
+### 参照
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

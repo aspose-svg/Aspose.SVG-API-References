@@ -1,55 +1,53 @@
 ---
-title: MutationObserverInit.Remove
-second_title: Aspose.SVG for .NET API リファレンス
-description: MutationObserverInit 方法. 指定されたキーと値のペアをMutationObserverInitコレクション.
+title: "MutationObserverInit.Remove"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "MutationObserverInit Remove メソッド。指定されたキー/値のペアを MutationObserverInit コレクションから削除します。"
 type: docs
 weight: 200
 url: /ja/net/aspose.svg.dom.mutations/mutationobserverinit/remove/
 ---
-## Remove(KeyValuePair&lt;string, object&gt;) {#remove}
+## Remove(*KeyValuePair&lt;string, object&gt;*) {#remove}
 
-指定されたキーと値のペアを[`MutationObserverInit`](../)コレクション.
+`[`MutationObserverInit`](../)` コレクションから指定されたキー/値のペアを削除します。
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 削除するアイテム。 |
+| item | KeyValuePair`2 | 削除する項目。 |
 
 ### 戻り値
 
-正常に削除された場合は true。それ以外の場合は false。
+正常に削除された場合は true、そうでなければ false。
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Remove(string) {#remove_1}
+## Remove(*string*) {#remove_1}
 
-指定されたキーに関連付けられた値を[`MutationObserverInit`](../)コレクション.
+`[`MutationObserverInit`](../)` コレクションから指定されたキーに関連付けられた値を削除します。
 
 ```csharp
 public bool Remove(string key)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| key | String | 削除する要素のキー。 |
+| キー | String | 削除する要素のキー。 |
 
 ### 戻り値
 
-要素が正常に検出されて削除された場合は true。それ以外の場合は false。
+要素が正常に見つかり削除された場合は true、そうでなければ false。
 
-### 関連項目
+### 参照
 
 * class [MutationObserverInit](../)
-* 名前空間 [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

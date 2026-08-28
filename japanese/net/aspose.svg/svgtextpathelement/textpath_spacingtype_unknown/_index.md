@@ -1,23 +1,21 @@
 ---
-title: SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGTextPathElement 分野. 列挙型が事前定義されたタイプではない値に設定されましたこの型の新しい値を定義しようとしたり既存の値をこの型に切り替えようとしたりすることは無効です.
+title: "SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGTextPathElement TEXTPATH_SPACINGTYPE_UNKNOWN フィールド。列挙は事前定義されたタイプのいずれでもない値に設定されました。このタイプの新しい値を定義しようとしたり、既存の値をこのタイプに切り替えようとすることは無効です。"
 type: docs
 weight: 100
 url: /ja/net/aspose.svg/svgtextpathelement/textpath_spacingtype_unknown/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN field
 
-列挙型が事前定義されたタイプではない値に設定されました。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとしたりすることは無効です.
+列挙は事前定義された型のいずれでもない値に設定されました。この型の新しい値を定義しようとしたり、既存の値をこの型に切り替えようとすることは無効です。
 
 ```csharp
 public const ushort TEXTPATH_SPACINGTYPE_UNKNOWN;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGTextPathElement](../)
-* 名前空間 [Aspose.Svg](../../svgtextpathelement/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

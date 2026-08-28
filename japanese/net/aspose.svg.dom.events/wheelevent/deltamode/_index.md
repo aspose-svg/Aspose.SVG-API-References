@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaMode
-second_title: Aspose.SVG for .NET API リファレンス
-description: WheelEvent 財産. deltaMode 属性にはデルタ値の測定単位の指示が含まれていますデフォルト値は DOM_DELTA_PIXEL ピクセル. です
+title: "WheelEvent.DeltaMode"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "WheelEvent DeltaMode プロパティ。deltaMode 属性は delta 値の測定単位を示します。デフォルト値は DOM_DELTA_PIXEL ピクセルです。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.events/wheelevent/deltamode/
 ---
 ## WheelEvent.DeltaMode property
 
-deltaMode 属性には、デルタ値の測定単位の指示が含まれています。デフォルト値は DOM_DELTA_PIXEL (ピクセル). です。
+deltaMode 属性は、デルタ値の測定単位を示します。デフォルト値は DOM_DELTA_PIXEL（ピクセル）です。
 
 ```csharp
 public ulong DeltaMode { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-デルタモード.
+delta モード。
 
-### 関連項目
+### 参照
 
 * class [WheelEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../wheelevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

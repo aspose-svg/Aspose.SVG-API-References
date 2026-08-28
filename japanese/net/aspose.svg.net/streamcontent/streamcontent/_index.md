@@ -1,27 +1,25 @@
 ---
-title: StreamContent.StreamContent
-second_title: Aspose.SVG for .NET API リファレンス
-description: StreamContent コンストラクタ. の新しいインスタンスを初期化しますStreamContent class.
+title: "StreamContent"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "StreamContent コンストラクタ。StreamContent クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.net/streamcontent/streamcontent/
 ---
 ## StreamContent constructor
 
-の新しいインスタンスを初期化します[`StreamContent`](../) class.
+[`StreamContent`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StreamContent(Stream content)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | content | Stream | コンテンツ。 |
 
-### 関連項目
+### 参照
 
 * class [StreamContent](../)
-* 名前空間 [Aspose.Svg.Net](../../streamcontent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

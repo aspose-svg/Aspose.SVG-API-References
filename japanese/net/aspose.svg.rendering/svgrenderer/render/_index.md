@@ -1,56 +1,54 @@
 ---
-title: SvgRenderer.Render
-second_title: Aspose.SVG for .NET API リファレンス
-description: SvgRenderer 方法. 複数をレンダリングする方法を定義しますSVGDocument具体的にIDevice .
+title: "SvgRenderer.Render"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SvgRenderer Render メソッド。複数の SVGDocument を特定の IDevice にレンダリングするメソッドを定義します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.rendering/svgrenderer/render/
 ---
-## Render(IDevice, TimeSpan, params SVGDocument[]) {#render_6}
+## Render(*[IDevice](../../idevice/), TimeSpan, params SVGDocument[]*) {#render_6}
 
-複数をレンダリングする方法を定義します[`SVGDocument`](../../../aspose.svg/svgdocument/)具体的に[`IDevice`](../../idevice/) .
+複数の [`SVGDocument`](../../../aspose.svg/svgdocument/)s を特定の [`IDevice`](../../idevice/) にレンダリングするメソッドを定義します。
 
 ```csharp
-public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] documents)
+public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] sources)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| timeout | TimeSpan | あTimeSpan待機するミリ秒数を表す、またはTimeSpanこれは、無期限に待機する -1 ミリ秒を表します。 |
-| documents | SVGDocument[] | レンダリングするドキュメント。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| タイムアウト | TimeSpan | 待機するミリ秒数を表す TimeSpan、または無期限に待機することを表す -1 ミリ秒の TimeSpan です。 |
+| ソース | SVGDocument[] | レンダリングする SVG ドキュメント。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SvgRenderer](../)
-* 名前空間 [Aspose.Svg.Rendering](../../svgrenderer/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, CancellationToken, params SVGDocument[]) {#render_5}
+## Render(*[IDevice](../../idevice/), CancellationToken, params SVGDocument[]*) {#render_5}
 
-複数をレンダリングする方法を定義します[`SVGDocument`](../../../aspose.svg/svgdocument/)特定の[`IDevice`](../../idevice/)、キャンセル トークンを使用して操作のキャンセルを要求します。
+複数の [`SVGDocument`](../../../aspose.svg/svgdocument/)s を特定の [`IDevice`](../../idevice/) にレンダリングするメソッドを定義し、操作のキャンセルを要求するためにキャンセルトークンを使用します。
 
 ```csharp
 public override void Render(IDevice device, CancellationToken cancellationToken, 
-    params SVGDocument[] documents)
+    params SVGDocument[] sources)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| device | IDevice | 出力デバイス。 |
-| cancellationToken | CancellationToken | タスクが完了するのを待っている間に監視するキャンセル トークン。 |
-| documents | SVGDocument[] | レンダリングするドキュメント。 |
+| デバイス | IDevice | 出力デバイスです。 |
+| cancellationToken | CancellationToken | タスクの完了を待機中に監視するキャンセルトークン。 |
+| ソース | SVGDocument[] | レンダリングする SVG ドキュメント。 |
 
-### 関連項目
+### 参照
 
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SvgRenderer](../)
-* 名前空間 [Aspose.Svg.Rendering](../../svgrenderer/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

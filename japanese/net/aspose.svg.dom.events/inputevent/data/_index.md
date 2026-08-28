@@ -1,27 +1,25 @@
 ---
-title: InputEvent.Data
-second_title: Aspose.SVG for .NET API リファレンス
-description: InputEvent 財産. データは入力メソッドによって生成された文字の値を保持しますこれは単一の Unicode 文字または空でない一連の Unicode 文字 Unicode である場合があります UAX15 で定義されている Unicode 正規化フォーム NFC で定義されているように文字を正規化する必要がありますこの属性には空の文字列が含まれる場合があります.
+title: "InputEvent.Data"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "InputEvent Data プロパティ。data は入力メソッドによって生成された文字の値を保持します。これは単一の Unicode 文字、または空でない Unicode 文字列になる可能性があります。文字は UAX15 で定義された Unicode 正規化形式 NFC に従って正規化されるべきです。この属性は空文字列を含む可能性があります。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.dom.events/inputevent/data/
 ---
 ## InputEvent.Data property
 
-データは、入力メソッドによって生成された文字の値を保持します。これは、単一の Unicode 文字または空でない一連の Unicode 文字 [Unicode] である場合があります。 [UAX15] で定義されている Unicode 正規化フォーム NFC で定義されているように、文字を正規化する必要があります。この属性には、空の文字列が含まれる場合があります.
+data は、入力方式によって生成された文字の値を保持します。これは単一の Unicode 文字または空でない Unicode 文字列 [Unicode] である可能性があります。文字は、[UAX15] で定義された Unicode 正規化形式 NFC に従って正規化されるべきです。この属性は空文字列を含むことがあります。
 
 ```csharp
 public string Data { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-イベントデータ.
+イベントデータです。
 
-### 関連項目
+### 参照
 
 * class [InputEvent](../)
-* 名前空間 [Aspose.Svg.Dom.Events](../../inputevent/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

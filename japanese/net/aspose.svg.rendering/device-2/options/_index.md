@@ -1,12 +1,12 @@
 ---
-title: Device2.Options
-second_title: Aspose.SVG for .NET API リファレンス
-description: Device 財産. レンダリング オプションを取得します
+title: "Device-2.Options"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Device Options プロパティ。レンダリングオプションを取得します"
 type: docs
-weight: 20
+weight: 30
 url: /ja/net/aspose.svg.rendering/device-2/options/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property
+## Device<TGraphicContext,TRenderingOptions>.Options property
 
 レンダリング オプションを取得します。
 
@@ -14,10 +14,8 @@ url: /ja/net/aspose.svg.rendering/device-2/options/
 public TRenderingOptions Options { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* 名前空間 [Aspose.Svg.Rendering](../../device-2/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: Unit.FromKiloHertz
-second_title: Aspose.SVG for .NET API リファレンス
-description: Unit 方法. を返しますFrequencyキロヘルツで表されるオブジェクト.
+title: "Unit.FromKiloHertz"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Unit FromKiloHertz メソッド。キロヘルツで表される Frequency オブジェクトを返します"
 type: docs
 weight: 130
 url: /ja/net/aspose.svg.drawing/unit/fromkilohertz/
 ---
 ## Unit.FromKiloHertz method
 
-を返します[`Frequency`](../../frequency/)キロヘルツで表されるオブジェクト.
+キロヘルツで表される [`Frequency`](../../frequency/) オブジェクトを返します。
 
 ```csharp
 public static Frequency FromKiloHertz(double value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
 | value | Double | 値。 |
 
 ### 戻り値
 
-を返します[`Frequency`](../../frequency/)物体。
+[`Frequency`](../../frequency/) オブジェクトを返します。
 
-### 関連項目
+### 参照
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unit/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

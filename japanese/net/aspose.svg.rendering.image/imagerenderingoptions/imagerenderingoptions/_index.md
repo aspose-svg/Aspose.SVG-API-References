@@ -1,44 +1,42 @@
 ---
-title: ImageRenderingOptions.ImageRenderingOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageRenderingOptions コンストラクタ. の新しいインスタンスを初期化しますImageRenderingOptionsクラスPngデフォルトの画像フォーマットとして使用されます.
+title: "ImageRenderingOptions"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageRenderingOptions コンストラクタ。ImageRenderingOptions クラスの新しいインスタンスを初期化します。デフォルトの画像形式として Png が使用されます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
 
-の新しいインスタンスを初期化します[`ImageRenderingOptions`](../)クラス;Pngデフォルトの画像フォーマットとして使用されます.
+[`ImageRenderingOptions`](../) クラスの新しいインスタンスを初期化します。デフォルトの画像形式として Png が使用されます。
 
 ```csharp
 public ImageRenderingOptions()
 ```
 
-### 関連項目
+### 参照
 
 * class [ImageRenderingOptions](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageRenderingOptions(ImageFormat) {#constructor_1}
+## ImageRenderingOptions(*[ImageFormat](../../imageformat/)*) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ImageRenderingOptions`](../)指定された画像形式のクラス.
+指定された画像形式で [`ImageRenderingOptions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageRenderingOptions(ImageFormat format)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| format | ImageFormat | 出力画像形式。 |
+| 形式 | ImageFormat | 出力画像形式です。 |
 
-### 関連項目
+### 参照
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* 名前空間 [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

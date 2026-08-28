@@ -1,31 +1,29 @@
 ---
-title: Color.ToNaturalColorString
-second_title: Aspose.SVG for .NET API リファレンス
-description: Color 方法. 色からの距離 パーセント を指定する数値を含む色文字を使用して自然色 NCol で指定された色を返します
+title: "Color.ToNaturalColorString"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Color ToNaturalColorString メソッド。色文字と数値を使用して、色からの距離をパーセンテージで指定する Natural colors NCol 指定色を返します。"
 type: docs
 weight: 380
 url: /ja/net/aspose.svg.drawing/color/tonaturalcolorstring/
 ---
 ## Color.ToNaturalColorString method
 
-色からの距離 (パーセント) を指定する数値を含む色文字を使用して、自然色 (NCol) で指定された色を返します。
+色文字と数値で距離（パーセンテージ）を指定して、自然色 (NCol) の指定色を返します。
 
 ```csharp
 public string ToNaturalColorString(int digits)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| digits | Int32 | 色成分の丸め精度を設定します。 |
+| digits | Int32 | 色コンポーネントの丸め精度を設定します。 |
 
 ### 戻り値
 
-ナチュラル カラー (NCol) 文字列
+Natural colors (NCol) の文字列
 
-### 関連項目
+### 参照
 
 * class [Color](../)
-* 名前空間 [Aspose.Svg.Drawing](../../color/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: Document.OnMouseOut
-second_title: Aspose.SVG for .NET API リファレンス
-description: Document イベント. OnMouseOut イベントのイベント ハンドラーを取得または設定します
+title: "Document.OnMouseOut"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Document OnMouseOut イベント。OnMouseOut イベントのハンドラを取得または設定します。"
 type: docs
 weight: 550
 url: /ja/net/aspose.svg.dom/document/onmouseout/
 ---
 ## Document.OnMouseOut event
 
-OnMouseOut イベントのイベント ハンドラーを取得または設定します。
+OnMouseOut イベントのハンドラを取得または設定します。
 
 ```csharp
 public event DOMEventHandler OnMouseOut;
 ```
 
-### 関連項目
+### 参照
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* 名前空間 [Aspose.Svg.Dom](../../document/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

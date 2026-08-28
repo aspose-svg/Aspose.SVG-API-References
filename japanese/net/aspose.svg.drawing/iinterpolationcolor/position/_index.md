@@ -1,27 +1,25 @@
 ---
-title: IInterpolationColor.Position
-second_title: Aspose.SVG for .NET API リファレンス
-description: IInterpolationColor 財産. 色位置を取得します
+title: "IInterpolationColor.Position"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "IInterpolationColor Position プロパティ。カラーの位置を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.svg.drawing/iinterpolationcolor/position/
 ---
 ## IInterpolationColor.Position property
 
-色位置を取得します。
+カラー位置を取得または設定します。
 
 ```csharp
-public float Position { get; }
+public float Position { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-位置.
+位置です。
 
-### 関連項目
+### 参照
 
 * interface [IInterpolationColor](../)
-* 名前空間 [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

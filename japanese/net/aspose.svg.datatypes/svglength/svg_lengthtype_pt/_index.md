@@ -1,23 +1,21 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_PT
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGLength 分野. CSS2 で定義されている pt 単位を使用して値が指定されました
+title: "SVGLength.SVG_LENGTHTYPE_PT"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGLength SVG_LENGTHTYPE_PT フィールド。 値は CSS2 で定義された pt 単位を使用して指定されました。"
 type: docs
 weight: 160
 url: /ja/net/aspose.svg.datatypes/svglength/svg_lengthtype_pt/
 ---
 ## SVGLength.SVG_LENGTHTYPE_PT field
 
-CSS2 で定義されている pt 単位を使用して値が指定されました。
+CSS2 で定義された pt 単位を使用して値が指定されました。
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_PT;
 ```
 
-### 関連項目
+### 参照
 
 * class [SVGLength](../)
-* 名前空間 [Aspose.Svg.DataTypes](../../svglength/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

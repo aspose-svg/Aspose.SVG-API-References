@@ -1,23 +1,21 @@
 ---
-title: UnitType.Rad
-second_title: Aspose.SVG for .NET API リファレンス
-description: UnitType 分野. 単位はラジアンです
+title: "UnitType.Rad"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "UnitType Rad フィールド。測定はラジアンです。"
 type: docs
 weight: 220
 url: /ja/net/aspose.svg.drawing/unittype/rad/
 ---
 ## UnitType.Rad field
 
-単位はラジアンです。
+測定はラジアンです。
 
 ```csharp
 public static readonly UnitType Rad;
 ```
 
-### 関連項目
+### 参照
 
 * class [UnitType](../)
-* 名前空間 [Aspose.Svg.Drawing](../../unittype/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

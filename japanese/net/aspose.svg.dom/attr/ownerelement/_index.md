@@ -1,24 +1,22 @@
 ---
-title: Attr.OwnerElement
-second_title: Aspose.SVG for .NET API リファレンス
-description: Attr 財産. このアトリビュートがアタッチされている Element ノードまたはこのアトリビュートが使用されていない場合は null
+title: "Attr.OwnerElement"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "Attr OwnerElement プロパティ。この属性が付属している Element ノード、使用されていない場合は null です。"
 type: docs
-weight: 80
+weight: 70
 url: /ja/net/aspose.svg.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 
-このアトリビュートがアタッチされている Element ノード、またはこのアトリビュートが使用されていない場合は null。
+この属性が付属している Element ノード、または属性が使用されていない場合は null。
 
 ```csharp
 public Element OwnerElement { get; }
 ```
 
-### 関連項目
+### 参照
 
 * class [Element](../../element/)
 * class [Attr](../)
-* 名前空間 [Aspose.Svg.Dom](../../attr/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

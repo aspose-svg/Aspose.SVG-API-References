@@ -1,44 +1,42 @@
 ---
-title: ImageSaveOptions.ImageSaveOptions
-second_title: Aspose.SVG for .NET API リファレンス
-description: ImageSaveOptions コンストラクタ. の新しいインスタンスを初期化しますImageSaveOptionsクラスPngデフォルトの画像フォーマットとして使用されます.
+title: "ImageSaveOptions"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "ImageSaveOptions コンストラクタ。ImageSaveOptions クラスの新しいインスタンスを初期化します。デフォルトの画像形式として Png が使用されます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.saving/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}
 
-の新しいインスタンスを初期化します[`ImageSaveOptions`](../)クラス;Pngデフォルトの画像フォーマットとして使用されます.
+[`ImageSaveOptions`](../) クラスの新しいインスタンスを初期化します。デフォルトの画像形式として Png が使用されます。
 
 ```csharp
 public ImageSaveOptions()
 ```
 
-### 関連項目
+### 参照
 
 * class [ImageSaveOptions](../)
-* 名前空間 [Aspose.Svg.Saving](../../imagesaveoptions/)
-* 組み立て [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageSaveOptions(ImageFormat) {#constructor_1}
+## ImageSaveOptions(*[ImageFormat](../../../aspose.svg.rendering.image/imageformat/)*) {#constructor_1}
 
-画像フォーマット[`ImageFormat`](../../../aspose.svg.rendering.image/imageformat/)initialization に基づく
+初期化に基づく画像形式 [`ImageFormat`](../../../aspose.svg.rendering.image/imageformat/)
 
 ```csharp
 public ImageSaveOptions(ImageFormat format)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメータ | 型 | 説明 |
 | --- | --- | --- |
-| format | ImageFormat | 画像フォーマット |
+| 形式 | ImageFormat | 画像形式 |
 
-### 関連項目
+### 参照
 
 * enum [ImageFormat](../../../aspose.svg.rendering.image/imageformat/)
 * class [ImageSaveOptions](../)
-* 名前空間 [Aspose.Svg.Saving](../../imagesaveoptions/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.Item
-second_title: Aspose.SVG for .NET API リファレンス
-description: SVGListBase 財産. リストのインデックス番目の項目を返します
+title: "SVGListBase-1.Item"
+second_title: ".NET 用 Aspose.SVG API リファレンス"
+description: "SVGListBase Item プロパティ。リストのインデックス番目の項目を返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.svg.collections/svglistbase-1/item/
 ---
-## SVGListBase&lt;T&gt; indexer
+## SVGListBase<T> indexer
 
-リストのインデックス番目の項目を返します。
+リスト内の index 番目の項目を返します。
 
 ```csharp
 public T this[ulong index] { get; set; }
@@ -16,27 +16,25 @@ public T this[ulong index] { get; set; }
 
 | パラメータ | 説明 |
 | --- | --- |
-| index | リスト内のインデックス。 |
+| インデックス | リスト内のインデックスです。 |
 
 ### 戻り値
 
-リスト内の index 番目の位置に格納されているオブジェクト。
+リストのインデックス番目の位置に格納されているオブジェクトです。
 
-### プロパティ値
+### Property Value
 
-リストに格納されているアイテムのタイプ.
+リストに格納されている項目の型です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). リストを変更できない場合に発生します。 |
-| [DOMException](../../../aspose.svg.dom/domexception/) | コード[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). インデックス番号が numberOfItems 以上の場合に発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/)。リストを変更できないときに発生します。 |
+| [DOMException](../../../aspose.svg.dom/domexception/) | コード [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/)。インデックス番号が numberOfItems 以上の場合に発生します。 |
 
-### 関連項目
+### 参照
 
 * class [SVGListBase&lt;T&gt;](../)
-* 名前空間 [Aspose.Svg.Collections](../../svglistbase-1/)
-* 組み立て [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
