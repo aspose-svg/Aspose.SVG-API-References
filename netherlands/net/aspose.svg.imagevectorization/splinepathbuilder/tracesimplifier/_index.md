@@ -1,14 +1,14 @@
 ---
-title: SplinePathBuilder.TraceSimplifier
-second_title: Aspose.SVG voor .NET API-referentie
-description: SplinePathBuilder eigendom. Haalt de traceervereenvoudiger op of stelt deze in.
+title: "SplinePathBuilder.TraceSimplifier"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SplinePathBuilder Trace Simplifier property. Haalt de trace-vereenvoudiger op of stelt deze in"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/
 ---
 ## SplinePathBuilder.TraceSimplifier property
 
-Haalt de traceervereenvoudiger op of stelt deze in.
+Haalt of stelt de trace simplifier in.
 
 ```csharp
 public IImageTraceSimplifier TraceSimplifier { get; set; }
@@ -18,7 +18,5 @@ public IImageTraceSimplifier TraceSimplifier { get; set; }
 
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

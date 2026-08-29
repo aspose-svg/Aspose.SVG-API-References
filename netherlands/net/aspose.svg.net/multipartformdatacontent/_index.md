@@ -1,49 +1,47 @@
 ---
-title: Class MultipartFormDataContent
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Net.MultipartFormDataContent klas. Inhoud weergeven voor coderingsalgoritme voor meerdelige/formuliergegevens
+title: "MultipartFormDataContent Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Net.MultipartFormDataContent klasse. Vertegenwoordigt inhoud voor het multipart/form-data coderingsalgoritme"
 type: docs
-weight: 2400
+weight: 4470
 url: /nl/net/aspose.svg.net/multipartformdatacontent/
 ---
 ## MultipartFormDataContent class
 
-Inhoud weergeven voor coderingsalgoritme voor meerdelige/formuliergegevens
+Stelt inhoud voor het multipart/form-data-coderingsalgoritme.
 
 ```csharp
 public class MultipartFormDataContent : MultipartContent
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [MultipartFormDataContent](multipartformdatacontent/#constructor)() | Initialiseert een nieuw exemplaar van het`MultipartFormDataContent` klasse. |
-| [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(string) | Initialiseert een nieuw exemplaar van het`MultipartFormDataContent` klasse. |
+| [MultipartFormDataContent](multipartformdatacontent/#constructor)() | Initialiseert een nieuw exemplaar van de `MultipartFormDataContent` klasse. |
+| [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(*string*) | Initialiseert een nieuw exemplaar van de `MultipartFormDataContent` klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | Haalt de HTTP-contentheaders op. |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | Haalt de HTTP-inhoudsheaders op. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| override [Add](../../aspose.svg.net/multipartformdatacontent/add/#add)(Content) | Voeg de inhoud toe aan het`MultipartFormDataContent` klasse |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_1)(Content, string) | Voeg de inhoud toe aan het`MultipartFormDataContent` klasse met veldnaam parameter |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_2)(Content, string, string) | Voeg de inhoud toe aan het`MultipartFormDataContent` klasse met veld- en bestandsnaam parameter |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | Voert door de toepassing gedefinieerde taken uit die verband houden met het vrijmaken, vrijgeven of resetten van onbeheerde bronnen. |
-| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | Retourneert een enumerator die een verzameling herhaalt. |
+| override [Add](../../aspose.svg.net/multipartformdatacontent/add/#add)(*[Content](../content/)*) | Voeg de inhoud toe aan de `MultipartFormDataContent` klasse |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_1)(*[Content](../content/), string*) | Voeg de inhoud toe aan de `MultipartFormDataContent` klasse met veldnaamparameter |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add/#add_2)(*[Content](../content/), string, string*) | Voeg de inhoud toe aan de `MultipartFormDataContent` klasse met veld- en bestandsnaamparameter |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | Voert door de applicatie gedefinieerde taken uit die verband houden met het vrijgeven, loslaten of opnieuw instellen van niet-beheerde bronnen. |
+| [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator/)() | Retourneert een enumerator die door een collectie iterereert. |
 | [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Serialiseer de HTTP-inhoud en retourneer een byte-array die de inhoud vertegenwoordigt. |
 | [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | Serialiseer de HTTP-inhoud en retourneer een stream die de inhoud vertegenwoordigt. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Serialiseer de HTTP-inhoud en retourneer een tekenreeks die de inhoud vertegenwoordigt. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Serialiseer de HTTP-inhoud en retourneer een string die de inhoud vertegenwoordigt. |
 
 ### Zie ook
 
 * class [MultipartContent](../multipartcontent/)
-* naamruimte [Aspose.Svg.Net](../../aspose.svg.net/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

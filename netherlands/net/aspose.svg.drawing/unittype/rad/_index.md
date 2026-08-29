@@ -1,7 +1,7 @@
 ---
-title: UnitType.Rad
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is in radialen.
+title: "UnitType.Rad"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType Rad-veld. Meting is in radialen"
 type: docs
 weight: 220
 url: /nl/net/aspose.svg.drawing/unittype/rad/
@@ -17,7 +17,5 @@ public static readonly UnitType Rad;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_LessThanOrEqual
-second_title: Aspose.SVG voor .NET API-referentie
-description: Resolution methode. Implementeert de operator .
+title: "Resolution.op_LessThanOrEqual"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Resolution op_LessThanOrEqual-methode. Implementeert de operator"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.drawing/resolution/op_lessthanorequal/
@@ -19,21 +19,19 @@ public static bool operator <=(Resolution a, Resolution b)
 | a | Resolution | De parameter a. |
 | b | Resolution | De parameter b. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentException | Argumenten zijn er in verschillende soorten |
-| ArgumentNullException | Een argument is nul |
+| ArgumentException | Argumenten hebben verschillende types |
+| ArgumentNullException | Een argument is null |
 
 ### Zie ook
 
 * class [Resolution](../)
-* naamruimte [Aspose.Svg.Drawing](../../resolution/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

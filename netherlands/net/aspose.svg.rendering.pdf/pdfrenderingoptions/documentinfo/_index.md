@@ -1,14 +1,14 @@
 ---
-title: PdfRenderingOptions.DocumentInfo
-second_title: Aspose.SVG voor .NET API-referentie
-description: PdfRenderingOptions eigendom. Bevat informatie over het PDFuitvoerdocument.
+title: "PdfRenderingOptions.DocumentInfo"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PdfRenderingOptions DocumentInfo-eigenschap. Bevat informatie over het gegenereerde PDF-document"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo/
 ---
 ## PdfRenderingOptions.DocumentInfo property
 
-Bevat informatie over het PDF-uitvoerdocument.
+Bevat informatie over het uitvoer‑PDF‑document.
 
 ```csharp
 public PdfDocumentInfo DocumentInfo { get; }
@@ -18,7 +18,5 @@ public PdfDocumentInfo DocumentInfo { get; }
 
 * class [PdfDocumentInfo](../../pdfdocumentinfo/)
 * class [PdfRenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

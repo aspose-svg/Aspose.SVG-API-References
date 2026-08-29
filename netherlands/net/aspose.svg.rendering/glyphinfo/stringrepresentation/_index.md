@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.StringRepresentation
-second_title: Aspose.SVG voor .NET API-referentie
-description: GlyphInfo eigendom. Haalt de tekenreeksrepresentatie van deze glyph op.
+title: "GlyphInfo.StringRepresentation"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GlyphInfo StringRepresentation eigenschap. Haalt de stringrepresentatie van dit glyph op"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
 ---
 ## GlyphInfo.StringRepresentation property
 
-Haalt de tekenreeksrepresentatie van deze glyph op.
+Haalt de tekenreeksrepresentatie van dit glyph op.
 
 ```csharp
 public string StringRepresentation { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-EENString dat vertegenwoordigt deze glyph.
+Een String die dit glyph vertegenwoordigt.
 
 ### Zie ook
 
 * struct [GlyphInfo](../)
-* naamruimte [Aspose.Svg.Rendering](../../glyphinfo/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

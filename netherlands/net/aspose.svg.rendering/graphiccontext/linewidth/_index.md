@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.LineWidth
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt de dikte in van paden die moeten worden omlijnd.
+title: "GraphicContext.LineWidth"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext LineWidth-eigenschap. Stelt in of haalt de dikte van paden op die getekend worden"
 type: docs
 weight: 120
 url: /nl/net/aspose.svg.rendering/graphiccontext/linewidth/
 ---
 ## GraphicContext.LineWidth property
 
-Stelt de dikte in van paden die moeten worden omlijnd.
+Stelt de dikte van paden in die getekend moeten worden, of haalt deze op.
 
 ```csharp
 public virtual float LineWidth { get; set; }
@@ -17,7 +17,5 @@ public virtual float LineWidth { get; set; }
 ### Zie ook
 
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

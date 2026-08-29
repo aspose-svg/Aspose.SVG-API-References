@@ -1,14 +1,14 @@
 ---
-title: Element.GetElementsByTagNameNS
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element methode. Retourneert een NodeList van alle onderliggende elementen met een gegeven lokale naam en naamruimteURI in documentvolgorde.
+title: "Element.GetElementsByTagNameNS"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element GetElementsByTagNameNS-methode. Retourneert een HTMLCollection-object dat alle elementen met een opgegeven lokale naam en namespace-URI-string bevat, in documentvolgorde."
 type: docs
 weight: 300
 url: /nl/net/aspose.svg.dom/element/getelementsbytagnamens/
 ---
 ## Element.GetElementsByTagNameNS method
 
-Retourneert een NodeList van alle onderliggende elementen met een gegeven lokale naam en naamruimte-URI in documentvolgorde.
+Retourneert een [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) object dat alle [`elements`](../) bevat met een opgegeven lokale naam en namespace-URI-string, in documentvolgorde.
 
 ```csharp
 public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localName)
@@ -16,18 +16,20 @@ public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localNa
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| namespaceURI | String | De naamruimte-URI. |
-| localName | String | Naam van de plaatselijke. |
+| namespaceURI | String | De weergave van de namespace-URI-string. |
+| localName | String | Stringrepresentatie van de lokale naam. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert elementen
+Een live [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) van gevonden elementen.
+
+## Opmerkingen
+
+Raadpleeg de officiële [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagnamens).
 
 ### Zie ook
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

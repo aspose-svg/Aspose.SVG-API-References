@@ -1,27 +1,25 @@
 ---
-title: Event.StopPropagation
-second_title: Aspose.SVG voor .NET API-referentie
-description: Event methode. DeStopPropagation methode wordt gebruikt om verdere verspreiding van een gebeurtenis tijdens de gebeurtenisstroom te voorkomen.
+title: "Event.StopPropagation"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Event StopPropagation methode. De StopPropagation-methode wordt gebruikt om verdere verspreiding van een gebeurtenis tijdens de gebeurtenisstroom te voorkomen"
 type: docs
 weight: 140
 url: /nl/net/aspose.svg.dom.events/event/stoppropagation/
 ---
 ## Event.StopPropagation method
 
-De`StopPropagation` methode wordt gebruikt om verdere verspreiding van een gebeurtenis tijdens de gebeurtenisstroom te voorkomen.
+De `StopPropagation`-methode wordt gebruikt om verdere verspreiding van een gebeurtenis tijdens de gebeurtenisstroom te voorkomen.
 
 ```csharp
 public void StopPropagation()
 ```
 
-### Opmerkingen
+## Opmerkingen
 
-Als deze methode wordt aangeroepen door een[`IEventListener`](../../ieventlistener/) de gebeurtenis stopt met voortplanten door de boom. De gebeurtenis wordt verzonden naar alle luisteraars op de huidige[`IEventTarget`](../../ieventtarget/) voordat de gebeurtenisstroom stopt. Deze methode kan tijdens elke fase van de gebeurtenisstroom worden gebruikt.
+Als deze methode wordt aangeroepen door een [`IEventListener`](../../ieventlistener/) zal de gebeurtenis stoppen met zich voort te planten door de boom. De gebeurtenis zal de verzending naar alle luisteraars op de huidige [`IEventTarget`](../../ieventtarget/) voltooien voordat de gebeurtenisstroom stopt. Deze methode kan tijdens elke fase van de gebeurtenisstroom worden gebruikt.
 
 ### Zie ook
 
 * class [Event](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../event/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

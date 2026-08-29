@@ -1,14 +1,14 @@
 ---
-title: Url.Url
-second_title: Aspose.SVG voor .NET API-referentie
-description: Url constructeur. Initialiseert een nieuw exemplaar van hetUrl met de opgegeven URL.
+title: "Url"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Url-constructor. Initialiseert een nieuw exemplaar van de Url met de opgegeven URL."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/url/url/
 ---
-## Url(string) {#constructor}
+## Url(*string*) {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`Url`](../) met de opgegeven URL.
+Initialiseert een nieuw exemplaar van de [`Url`](../) met de opgegeven URL.
 
 ```csharp
 public Url(string url)
@@ -16,25 +16,25 @@ public Url(string url)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| url | String | De URL die moet worden verwerkt. |
+| url | String | De URL om te verwerken. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| Error | TypeError: verhoogd als`url` kan niet worden geparseerd als geldige URL. |
+| Fout | TypeError: opgegooid als `url` niet als geldige URL kan worden geparseerd. |
 
 ### Zie ook
 
 * class [Url](../)
-* naamruimte [Aspose.Svg](../../url/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Url(string, string) {#constructor_1}
+## Url(*string, string*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`Url`](../) met de opgegeven URL en basis-URL.
+Initialiseert een nieuw exemplaar van de [`Url`](../) met de opgegeven URL en basis-URL.
 
 ```csharp
 public Url(string url, string baseUrl)
@@ -42,19 +42,17 @@ public Url(string url, string baseUrl)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| url | String | De URL die moet worden verwerkt. |
+| url | String | De URL om te verwerken. |
 | baseUrl | String | De basis-URL. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| Error | TypeError: verhoogd als`url` of`basisUrl` kan niet worden geparseerd als geldige URL. |
+| Fout | TypeError: opgegooid als `url` of `baseUrl` niet als geldige URL kan worden geparseerd. |
 
 ### Zie ook
 
 * class [Url](../)
-* naamruimte [Aspose.Svg](../../url/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

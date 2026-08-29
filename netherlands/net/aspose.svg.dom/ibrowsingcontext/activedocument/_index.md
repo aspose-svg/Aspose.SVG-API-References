@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.ActiveDocument
-second_title: Aspose.SVG voor .NET API-referentie
-description: IBrowsingContext eigendom. Haalt het huidige document op.
+title: "IBrowsingContext.ActiveDocument"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IBrowsingContext ActiveDocument eigenschap. Haalt het huidige document op."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/ibrowsingcontext/activedocument/
@@ -14,7 +14,7 @@ Haalt het huidige document op.
 public Document ActiveDocument { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het actieve document.
 
@@ -22,7 +22,5 @@ Het actieve document.
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* naamruimte [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

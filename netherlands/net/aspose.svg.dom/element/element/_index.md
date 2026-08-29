@@ -1,28 +1,28 @@
 ---
-title: Element.Element
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element constructeur. Initialiseert een nieuw exemplaar van hetElementklas. Noem deze constructor niet rechtstreeks gebruikCreateElement ofCreateElementNS .
+title: "Element"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Elementconstructor. Initialiseert een nieuw exemplaar van de Element-klasse. Roep deze constructor niet direct aan, gebruik CreateElement of CreateElementNS"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/element/element/
 ---
 ## Element constructor
 
-Initialiseert een nieuw exemplaar van het[`Element`](../)klas. Noem deze constructor niet rechtstreeks, gebruik[`CreateElement`](../../document/createelement/) of[`CreateElementNS`](../../document/createelementns/) .
+Initialiseert een nieuw exemplaar van de [`Element`](../) klasse. Roep deze constructor niet direct aan, gebruik [`CreateElement`](../../document/createelement/) of [`CreateElementNS`](../../document/createelementns/).
 
 ```csharp
-public Element(IElementInit elementInit)
+public Element(QualifiedName qualifiedName, Document document)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| elementInit | IElementInit | De elementinitialisatie-info. |
+| qualifiedName | QualifiedName | De gekwalificeerde naam. |
+| document | Document | Het gekoppelde document. |
 
 ### Zie ook
 
-* interface [IElementInit](../../ielementinit/)
+* class [QualifiedName](../../qualifiedname/)
+* class [Document](../../document/)
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

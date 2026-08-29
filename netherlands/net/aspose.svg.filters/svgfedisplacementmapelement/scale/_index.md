@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.Scale
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEDisplacementMapElement eigendom. Komt overeen met attribuut scale op het gegeven feDisplacementMapelement.
+title: "SVGFEDisplacementMapElement.Scale"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEDisplacementMapElement Scale eigenschap. Komt overeen met attribuut scale op het opgegeven feDisplacementMap element"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.filters/svgfedisplacementmapelement/scale/
 ---
 ## SVGFEDisplacementMapElement.Scale property
 
-Komt overeen met attribuut 'scale' op het gegeven 'feDisplacementMap'-element.
+Komt overeen met attribuut ‘scale’ op het opgegeven ‘feDisplacementMap’-element.
 
 ```csharp
 public SVGAnimatedNumber Scale { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'scale' van het gegeven 'feDisplacementMap' element.
+Het attribuut ‘scale’ van het opgegeven ‘feDisplacementMap’ element.
 
 ### Zie ook
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDisplacementMapElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

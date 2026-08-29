@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.CreateSVGMatrix
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGSVGElement methode. Maakt een SVGMatrixobject buiten de documentstructuren. Het object wordt geïnitialiseerd naar de identiteitsmatrix.
+title: "SVGSVGElement.CreateSVGMatrix"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGSVGElement CreateSVGMatrix-methode. Maakt een SVGMatrix‑object buiten enige documentbomen. Het object wordt geïnitialiseerd als de identiteitsmatrix."
 type: docs
 weight: 140
 url: /nl/net/aspose.svg/svgsvgelement/createsvgmatrix/
 ---
 ## SVGSVGElement.CreateSVGMatrix method
 
-Maakt een SVGMatrix-object buiten de documentstructuren. Het object wordt geïnitialiseerd naar de identiteitsmatrix.
+Maakt een SVGMatrix‑object aan buiten enige documentbomen. Het object wordt geïnitialiseerd met de identiteitsmatrix.
 
 ```csharp
 public SVGMatrix CreateSVGMatrix()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Een SVGMatrix-object.
+Een SVGMatrix‑object.
 
 ### Zie ook
 
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* naamruimte [Aspose.Svg](../../svgsvgelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

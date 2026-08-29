@@ -1,14 +1,14 @@
 ---
-title: IEventTarget.AddEventListener
-second_title: Aspose.SVG voor .NET API-referentie
-description: IEventTarget methode. Met deze methode kunnen gebeurtenislisteners worden geregistreerd op het gebeurtenisdoel.
+title: "IEventTarget.AddEventListener"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IEventTarget AddEventListener-methode. Deze methode maakt de registratie van event listeners op het eventdoel mogelijk."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.events/ieventtarget/addeventlistener/
 ---
-## AddEventListener(string, IEventListener) {#addeventlistener}
+## AddEventListener(*string, [IEventListener](../../ieventlistener/)*) {#addeventlistener}
 
-Met deze methode kunnen gebeurtenislisteners worden geregistreerd op het gebeurtenisdoel.
+Deze methode maakt de registratie van event listeners op het event‑doel mogelijk.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
@@ -16,27 +16,27 @@ public void AddEventListener(string type, IEventListener listener)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| type | String | Het gebeurtenistype waarvoor de gebruiker zich registreert |
-| listener | IEventListener | Neemt een interface die door de gebruiker is geïmplementeerd en die de methoden bevat die moeten worden aangeroepen wanneer de gebeurtenis plaatsvindt. |
+| type | String | Het gebeurtenistype waarvoor de gebruiker registreert |
+| listener | IEventListener | Neemt een door de gebruiker geïmplementeerde interface die de methoden bevat die moeten worden aangeroepen wanneer het event plaatsvindt. |
 
-### Opmerkingen
+## Opmerkingen
 
-Als een[`IEventListener`](../../ieventlistener/) wordt toegevoegd aan een[`EventTarget`](../../../aspose.svg.dom/eventtarget/) terwijl het een gebeurtenis verwerkt, wordt het niet geactiveerd door de huidige acties, maar kan het worden geactiveerd tijdens een latere fase van de gebeurtenisstroom, zoals de bubbling-fase.
+Als een [`IEventListener`](../../ieventlistener/) wordt toegevoegd aan een [`EventTarget`](../../../aspose.svg.dom/eventtarget/) terwijl deze een gebeurtenis verwerkt, wordt deze niet geactiveerd door de huidige acties, maar kan later in de gebeurtenisstroom, bijvoorbeeld tijdens de bubbling-fase, worden geactiveerd.
 
-Als er meerdere identieke gebeurtenislisteners op hetzelfde zijn geregistreerd[`EventTarget`](../../../aspose.svg.dom/eventtarget/)met dezelfde parameters worden de dubbele exemplaren weggegooid. Ze veroorzaken niet de[`IEventListener`](../../ieventlistener/) om twee keer te worden aangeroepen en aangezien ze worden weggegooid, hoeven ze niet te worden verwijderd met de [`RemoveEventListener`](../removeeventlistener/) methode.
+Als meerdere identieke Event Listeners op dezelfde [`EventTarget`](../../../aspose.svg.dom/eventtarget/) met dezelfde parameters worden geregistreerd, worden de dubbele exemplaren verwijderd. Ze zorgen er niet voor dat de [`IEventListener`](../../ieventlistener/) twee keer wordt aangeroepen en omdat ze worden verwijderd, hoeven ze niet te worden verwijderd met de [`RemoveEventListener`](../removeeventlistener/) methode.
 
 ### Zie ook
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## AddEventListener(string, IEventListener, bool) {#addeventlistener_1}
+## AddEventListener(*string, [IEventListener](../../ieventlistener/), bool*) {#addeventlistener_1}
 
-Met deze methode kunnen gebeurtenislisteners worden geregistreerd op het gebeurtenisdoel.
+Deze methode maakt de registratie van event listeners op het event‑doel mogelijk.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)
@@ -44,21 +44,19 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| type | String | Het gebeurtenistype waarvoor de gebruiker zich registreert |
-| listener | IEventListener | Neemt een interface die door de gebruiker is geïmplementeerd en die de methoden bevat die moeten worden aangeroepen wanneer de gebeurtenis plaatsvindt. |
-| useCapture | Boolean | Indien waar, geeft useCapture aan dat de gebruiker het vastleggen wil starten. Nadat het vastleggen is gestart, worden alle gebeurtenissen van het opgegeven type verzonden naar de geregistreerde [`IEventListener`](../../ieventlistener/) voordat ze worden verzonden naar gebeurtenisdoelen eronder in de boom. Gebeurtenissen die omhoog borrelen door de boom zullen geen[`IEventListener`](../../ieventlistener/) aangewezen om capture te gebruiken. |
+| type | String | Het gebeurtenistype waarvoor de gebruiker registreert |
+| listener | IEventListener | Neemt een door de gebruiker geïmplementeerde interface die de methoden bevat die moeten worden aangeroepen wanneer het event plaatsvindt. |
+| useCapture | Boolean | Als true, geeft useCapture aan dat de gebruiker capture wil starten. Na het starten van capture worden alle events van het opgegeven type eerst verzonden naar de geregistreerde [`IEventListener`](../../ieventlistener/) voordat ze worden verzonden naar eventuele Event Targets onder hen in de boom. Events die omhoog bubbelen door de boom zullen geen [`IEventListener`](../../ieventlistener/) activeren die is aangewezen om capture te gebruiken. |
 
-### Opmerkingen
+## Opmerkingen
 
-Als een[`IEventListener`](../../ieventlistener/) wordt toegevoegd aan een[`EventTarget`](../../../aspose.svg.dom/eventtarget/) terwijl het een gebeurtenis verwerkt, wordt het niet geactiveerd door de huidige acties, maar kan het worden geactiveerd tijdens een latere fase van de gebeurtenisstroom, zoals de bubbling-fase.
+Als een [`IEventListener`](../../ieventlistener/) wordt toegevoegd aan een [`EventTarget`](../../../aspose.svg.dom/eventtarget/) terwijl deze een gebeurtenis verwerkt, wordt deze niet geactiveerd door de huidige acties, maar kan later in de gebeurtenisstroom, bijvoorbeeld tijdens de bubbling-fase, worden geactiveerd.
 
-Als er meerdere identieke gebeurtenislisteners op hetzelfde zijn geregistreerd[`EventTarget`](../../../aspose.svg.dom/eventtarget/)met dezelfde parameters worden de dubbele exemplaren weggegooid. Ze veroorzaken niet de[`IEventListener`](../../ieventlistener/) om twee keer te worden aangeroepen en aangezien ze worden weggegooid, hoeven ze niet te worden verwijderd met de [`RemoveEventListener`](../removeeventlistener/) methode.
+Als meerdere identieke Event Listeners op dezelfde [`EventTarget`](../../../aspose.svg.dom/eventtarget/) met dezelfde parameters worden geregistreerd, worden de dubbele exemplaren verwijderd. Ze zorgen er niet voor dat de [`IEventListener`](../../ieventlistener/) twee keer wordt aangeroepen en omdat ze worden verwijderd, hoeven ze niet te worden verwijderd met de [`RemoveEventListener`](../removeeventlistener/) methode.
 
 ### Zie ook
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

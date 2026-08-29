@@ -1,27 +1,25 @@
 ---
-title: FileCreateStreamProvider.Name
-second_title: Aspose.SVG voor .NET API-referentie
-description: FileCreateStreamProvider eigendom. Krijgt of stelt de naam in.
+title: "FileCreateStreamProvider.Name"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "FileCreateStreamProvider Name-eigenschap. Haalt de naam op of stelt deze in."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.io/filecreatestreamprovider/name/
 ---
 ## FileCreateStreamProvider.Name property
 
-Krijgt of stelt de naam in.
+Haalt op of stelt de naam in.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De naam.
 
 ### Zie ook
 
 * class [FileCreateStreamProvider](../)
-* naamruimte [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

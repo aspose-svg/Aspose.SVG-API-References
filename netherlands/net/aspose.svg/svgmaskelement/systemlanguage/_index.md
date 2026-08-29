@@ -1,20 +1,20 @@
 ---
-title: SVGMaskElement.SystemLanguage
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGMaskElement eigendom. Komt overeen met attribuut systemLanguage op het gegeven element.
+title: "SVGMaskElement.SystemLanguage"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGMaskElement SystemLanguage-eigenschap. Komt overeen met attribuut systemLanguage van het opgegeven element."
 type: docs
 weight: 60
 url: /nl/net/aspose.svg/svgmaskelement/systemlanguage/
 ---
 ## SVGMaskElement.SystemLanguage property
 
-Komt overeen met attribuut 'systemLanguage' op het gegeven element.
+Komt overeen met het attribuut ‘systemLanguage’ van het opgegeven element.
 
 ```csharp
 public SVGStringList SystemLanguage { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De systeemtaal.
 
@@ -22,7 +22,5 @@ De systeemtaal.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGMaskElement](../)
-* naamruimte [Aspose.Svg](../../svgmaskelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: RenderingOptions.Css
-second_title: Aspose.SVG voor .NET API-referentie
-description: RenderingOptions eigendom. Krijgt eenCssOptions object dat wordt gebruikt voor de configuratie van verwerking van csseigenschappen.
+title: "RenderingOptions.Css"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "RenderingOptions Css eigenschap. Haalt een CssOptions-object op dat wordt gebruikt voor de configuratie van de verwerking van css-eigenschappen."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.rendering/renderingoptions/css/
 ---
 ## RenderingOptions.Css property
 
-Krijgt een[`CssOptions`](../../cssoptions/) object dat wordt gebruikt voor de configuratie van verwerking van css-eigenschappen.
+Haalt een [`CssOptions`](../../cssoptions/) object op dat wordt gebruikt voor de configuratie van de verwerking van css-eigenschappen.
 
 ```csharp
 public CssOptions Css { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De[`CssOptions`](../../cssoptions/) object.
+Het [`CssOptions`](../../cssoptions/) object.
 
 ### Zie ook
 
 * class [CssOptions](../../cssoptions/)
 * class [RenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

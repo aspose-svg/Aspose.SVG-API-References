@@ -1,7 +1,7 @@
 ---
-title: Element.RemoveAttribute
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element methode. Verwijdert een attribuut op naam.
+title: "Element.RemoveAttribute"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element RemoveAttribute-methode. Verwijdert een attribuut op naam"
 type: docs
 weight: 370
 url: /nl/net/aspose.svg.dom/element/removeattribute/
@@ -11,17 +11,15 @@ url: /nl/net/aspose.svg.dom/element/removeattribute/
 Verwijdert een attribuut op naam.
 
 ```csharp
-public void RemoveAttribute(string name)
+public void RemoveAttribute(string qualifiedName)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | De attribuutnaam. |
+| qualifiedName | String | De attribuutnaam. |
 
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

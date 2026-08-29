@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnInput
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnInputgebeurtenis.
+title: "IGlobalEventHandlers.OnInput"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnInput event. Haalt of stelt de eventhandler in voor OnInput event"
 type: docs
 weight: 150
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/oninput/
 ---
 ## IGlobalEventHandlers.OnInput event
 
-Haalt of stelt gebeurtenishandler in voor OnInput-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnInput event.
 
 ```csharp
 public event DOMEventHandler OnInput;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnInput;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,41 +1,39 @@
 ---
-title: Class FileProtocolMessageHandler
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Net.MessageHandlers.FileProtocolMessageHandler klas. Vertegenwoordigt debestand protocol berichtbehandelaar.
+title: "FileProtocolMessageHandler Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Net.MessageHandlers.FileProtocolMessageHandler klasse. Vertegenwoordigt de file-protocol berichtafhandelaar"
 type: docs
-weight: 2360
+weight: 4430
 url: /nl/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler class
 
-Vertegenwoordigt de`bestand:` protocol berichtbehandelaar.
+Stelt de `file:`‑protocolberichtverwerker voor.
 
 ```csharp
 public class FileProtocolMessageHandler : MessageHandler
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [FileProtocolMessageHandler](fileprotocolmessagehandler/)() | Initialiseert een nieuw exemplaar van het`FileProtocolMessageHandler` klasse. |
+| [FileProtocolMessageHandler](fileprotocolmessagehandler/)() | Initialiseert een nieuw exemplaar van de `FileProtocolMessageHandler` klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | Haalt de filterlijst op die overeenkomt met het opgegeven handlertype. |
+| [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | Haalt de filterlijst op die overeenkomt met het opgegeven handler‑type. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/)(INetworkOperationContext) | Wanneer overschreven in een afgeleide klasse wordt gebruikt om de berichtafhandeling te implementeren. |
+| override [Invoke](../../aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | Wordt gebruikt om de berichtafhandeling te implementeren wanneer deze wordt overschreven in een afgeleide klasse. |
 
 ### Zie ook
 
 * class [MessageHandler](../../aspose.svg.net/messagehandler/)
-* naamruimte [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../)

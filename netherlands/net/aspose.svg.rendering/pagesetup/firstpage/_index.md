@@ -1,20 +1,20 @@
 ---
-title: PageSetup.FirstPage
-second_title: Aspose.SVG voor .NET API-referentie
-description: PageSetup eigendom. Haalt de configuratie van de eerste pagina op of stelt deze in.
+title: "PageSetup.FirstPage"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PageSetup FirstPage-eigenschap. Haalt op of stelt de configuratie van de eerste pagina in."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.rendering/pagesetup/firstpage/
 ---
 ## PageSetup.FirstPage property
 
-Haalt de configuratie van de eerste pagina op of stelt deze in.
+Haalt op of stelt de eerste paginaconfiguratie in.
 
 ```csharp
 public Page FirstPage { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De eerste pagina.
 
@@ -22,7 +22,5 @@ De eerste pagina.
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* naamruimte [Aspose.Svg.Rendering](../../pagesetup/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Element.Prefix
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element eigendom. Het naamruimtevoorvoegsel van dit knooppunt of null als het niet is gespecificeerd. Als het is gedefinieerd als null heeft het instellen ervan geen effect
+title: "Element.Prefix"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element Prefix property. Het namespace‑prefix van dit knooppunt of null als het niet is gespecificeerd. Wanneer het is gedefinieerd als null, heeft het instellen geen effect."
 type: docs
 weight: 170
 url: /nl/net/aspose.svg.dom/element/prefix/
 ---
 ## Element.Prefix property
 
-Het naamruimtevoorvoegsel van dit knooppunt, of null als het niet is gespecificeerd. Als het is gedefinieerd als null, heeft het instellen ervan geen effect
+Het namespace-voorvoegsel van dit knooppunt, of null als het niet is gespecificeerd. Wanneer het is gedefinieerd als null, heeft het instellen ervan geen effect
 
 ```csharp
 public override string Prefix { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het naamruimtevoorvoegsel van dit knooppunt.
+Het namespace‑prefix van dit knooppunt.
 
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

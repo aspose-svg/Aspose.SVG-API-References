@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetIntValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSPrimitiveValue methode. Deze methode wordt gebruikt om een intwaarde in een gespecificeerde eenheid te verkrijgen. Als deze CSSwaarde geen intwaarde bevat of niet kan worden geconverteerd naar de opgegeven eenheid wordt een DOMException gegenereerd.
+title: "CSSPrimitiveValue.GetIntValue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSPrimitiveValue GetIntValue methode. Deze methode wordt gebruikt om een int-waarde op te halen in een opgegeven eenheid. Als deze CSS-waarde geen int-waarde bevat of niet kan worden geconverteerd naar de opgegeven eenheid, wordt er een DOMException opgegooid."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom.css/cssprimitivevalue/getintvalue/
 ---
 ## CSSPrimitiveValue.GetIntValue method
 
-Deze methode wordt gebruikt om een int-waarde in een gespecificeerde eenheid te verkrijgen. Als deze CSS-waarde geen int-waarde bevat of niet kan worden geconverteerd naar de opgegeven eenheid, wordt een DOMException gegenereerd.
+Deze methode wordt gebruikt om een int-waarde op te halen in een opgegeven eenheid. Als deze CSS-waarde geen int-waarde bevat of niet kan worden omgezet naar de opgegeven eenheid, wordt een DOMException opgegooid.
 
 ```csharp
 public abstract int GetIntValue(ushort unitType)
@@ -18,14 +18,12 @@ public abstract int GetIntValue(ushort unitType)
 | --- | --- | --- |
 | unitType | UInt16 | Type van de eenheid. |
 
-### Winstwaarde
+### Retourwaarde
 
 Retourneert waarde
 
 ### Zie ook
 
 * class [CSSPrimitiveValue](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

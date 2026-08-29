@@ -1,28 +1,26 @@
 ---
-title: ImageRenderingOptions.Text
-second_title: Aspose.SVG voor .NET API-referentie
-description: ImageRenderingOptions eigendom. Krijgt eenTextOptions object dat wordt gebruikt voor configuratie van tekstweergave.
+title: "ImageRenderingOptions.Text"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ImageRenderingOptions Text eigenschap. Haalt een TextOptions-object op dat wordt gebruikt voor de configuratie van tekstweergave."
 type: docs
-weight: 60
+weight: 50
 url: /nl/net/aspose.svg.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property
 
-Krijgt een[`TextOptions`](../../textoptions/) object dat wordt gebruikt voor configuratie van tekstweergave.
+Haalt een [`TextOptions`](../../textoptions/) object op dat wordt gebruikt voor de configuratie van tekstweergave.
 
 ```csharp
 public TextOptions Text { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De[`TextOptions`](../../textoptions/) object.
+Het [`TextOptions`](../../textoptions/) object.
 
 ### Zie ook
 
 * class [TextOptions](../../textoptions/)
 * class [ImageRenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

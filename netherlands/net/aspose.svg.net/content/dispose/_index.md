@@ -1,14 +1,14 @@
 ---
-title: Content.Dispose
-second_title: Aspose.SVG voor .NET API-referentie
-description: Content methode. Voert door de toepassing gedefinieerde taken uit die verband houden met het vrijmaken vrijgeven of resetten van onbeheerde bronnen.
+title: "Content.Dispose"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Content Dispose-methode. Voert door de toepassing gedefinieerde taken uit die verband houden met het vrijgeven, loslaten of opnieuw instellen van niet-beheerde bronnen"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.net/content/dispose/
 ---
 ## Content.Dispose method
 
-Voert door de toepassing gedefinieerde taken uit die verband houden met het vrijmaken, vrijgeven of resetten van onbeheerde bronnen.
+Voert door de applicatie gedefinieerde taken uit die verband houden met het vrijgeven, loslaten of opnieuw instellen van niet-beheerde bronnen.
 
 ```csharp
 public void Dispose()
@@ -17,7 +17,5 @@ public void Dispose()
 ### Zie ook
 
 * class [Content](../)
-* naamruimte [Aspose.Svg.Net](../../content/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

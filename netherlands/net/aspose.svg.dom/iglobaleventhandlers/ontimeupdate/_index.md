@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnTimeUpdate
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnTimeUpdategebeurtenis.
+title: "IGlobalEventHandlers.OnTimeUpdate"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnTimeUpdate event. Haalt of stelt de eventhandler in voor OnTimeUpdate event"
 type: docs
 weight: 470
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/ontimeupdate/
 ---
 ## IGlobalEventHandlers.OnTimeUpdate event
 
-Haalt of stelt gebeurtenishandler in voor OnTimeUpdate-gebeurtenis.
+Haalt op of stelt de gebeurtenisafhandelaar in voor het OnTimeUpdate‑evenement.
 
 ```csharp
 public event DOMEventHandler OnTimeUpdate;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnTimeUpdate;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

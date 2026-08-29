@@ -1,14 +1,14 @@
 ---
-title: Color.ToNaturalColorString
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Retourneert een door natuurlijke kleuren NCol gespecificeerde kleur met behulp van een kleurletter met een cijfer om de afstand in procenten van de kleur op te geven.
+title: "Color.ToNaturalColorString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color ToNaturalColorString-methode. Retourneert een Natural colors NCol gespecificeerde kleur met een kleurletter en een getal om de afstand in procenten van de kleur te specificeren"
 type: docs
 weight: 380
 url: /nl/net/aspose.svg.drawing/color/tonaturalcolorstring/
 ---
 ## Color.ToNaturalColorString method
 
-Retourneert een door natuurlijke kleuren (NCol) gespecificeerde kleur met behulp van een kleurletter met een cijfer om de afstand (in procenten) van de kleur op te geven.
+Retourneert een Natural colors (NCol) gespecificeerde kleur met een kleurletter en een getal om de afstand (in procent) van de kleur te specificeren.
 
 ```csharp
 public string ToNaturalColorString(int digits)
@@ -16,16 +16,14 @@ public string ToNaturalColorString(int digits)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| digits | Int32 | Stelt de afrondingsprecisie voor kleurcomponenten in. |
+| digits | Int32 | Stelt de afrondingsprecisie in voor kleurcomponenten. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een tekenreeks met natuurlijke kleuren (NCol).
+Een Natural colors (NCol) tekenreeks
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

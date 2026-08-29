@@ -1,14 +1,14 @@
 ---
-title: EventTarget.RemoveEventListener
-second_title: Aspose.SVG voor .NET API-referentie
-description: EventTarget methode. Met deze methode kunnen gebeurtenislisteners uit het gebeurtenisdoel worden verwijderd. Als eenIEventListener wordt verwijderd uit eenEventTarget terwijl het een gebeurtenis verwerkt wordt het niet geactiveerd door de huidige acties. Gebeurtenislisteners kunnen nooit worden aangeroepen nadat ze zijn verwijderd.
+title: "EventTarget.RemoveEventListener"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "EventTarget RemoveEventListener‑methode. Deze methode maakt het verwijderen van event‑listeners van het event‑target mogelijk. Als een IEventListener wordt verwijderd van een EventTarget terwijl deze een gebeurtenis verwerkt, wordt deze niet geactiveerd door de huidige acties. Event‑listeners kunnen nooit meer worden aangeroepen nadat ze zijn verwijderd"
 type: docs
-weight: 40
+weight: 50
 url: /nl/net/aspose.svg.dom/eventtarget/removeeventlistener/
 ---
-## RemoveEventListener(string, DOMEventHandler, bool) {#removeeventlistener}
+## RemoveEventListener(*string, [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/), bool*) {#removeeventlistener}
 
-Met deze methode kunnen gebeurtenislisteners uit het gebeurtenisdoel worden verwijderd. Als een[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd uit een[`EventTarget`](../) terwijl het een gebeurtenis verwerkt, wordt het niet geactiveerd door de huidige acties. Gebeurtenislisteners kunnen nooit worden aangeroepen nadat ze zijn verwijderd.
+Deze methode maakt het verwijderen van event‑listeners van het event‑target mogelijk. Als een [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd van een [`EventTarget`](../) terwijl deze een gebeurtenis verwerkt, wordt deze niet geactiveerd door de huidige acties. Event‑listeners kunnen nooit meer worden aangeroepen nadat ze zijn verwijderd.
 
 ```csharp
 public void RemoveEventListener(string type, DOMEventHandler handler, bool useCapture)
@@ -16,22 +16,22 @@ public void RemoveEventListener(string type, DOMEventHandler handler, bool useCa
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| type | String | Specificeert het gebeurtenistype van het[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd. |
-| handler | DOMEventHandler | De[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) parameter geeft de[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) verwijderd worden. |
-| useCapture | Boolean | Geeft aan of de EventListener die wordt verwijderd, al dan niet is geregistreerd als vastleggende luisteraar. Als een luisteraar twee keer is geregistreerd, één met vastleggen en één zonder, moet elke luisteraar afzonderlijk worden verwijderd. Het verwijderen van een vastleggende luisteraar heeft geen invloed op een niet-vastleggende versie van dezelfde luisteraar, en vice versa. |
+| type | String | Specificeert het gebeurtenistype van de te verwijderen [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/). |
+| handler | DOMEventHandler | De [`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/)‑parameter geeft de te verwijderen [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) aan. |
+| useCapture | Boolean | Specificeert of de te verwijderen EventListener als een capture-listener is geregistreerd of niet. Als een listener twee keer is geregistreerd, één met capture en één zonder, moet elke afzonderlijk worden verwijderd. Het verwijderen van een capture-listener heeft geen invloed op een niet-capture versie van dezelfde listener, en omgekeerd. |
 
 ### Zie ook
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [EventTarget](../)
-* naamruimte [Aspose.Svg.Dom](../../eventtarget/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RemoveEventListener(string, IEventListener) {#removeeventlistener_1}
+## RemoveEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)*) {#removeeventlistener_1}
 
-Met deze methode kunnen gebeurtenislisteners uit het gebeurtenisdoel worden verwijderd. Als een[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd uit een[`EventTarget`](../) terwijl het een gebeurtenis verwerkt, wordt het niet geactiveerd door de huidige acties. Gebeurtenislisteners kunnen nooit worden aangeroepen nadat ze zijn verwijderd.
+Deze methode maakt het verwijderen van event‑listeners van het event‑target mogelijk. Als een [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd van een [`EventTarget`](../) terwijl deze een gebeurtenis verwerkt, wordt deze niet geactiveerd door de huidige acties. Event‑listeners kunnen nooit meer worden aangeroepen nadat ze zijn verwijderd.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener)
@@ -39,21 +39,21 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| type | String | Specificeert het gebeurtenistype van het[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd. |
-| listener | IEventListener | De[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) parameter geeft de[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) verwijderd worden. |
+| type | String | Specificeert het gebeurtenistype van de te verwijderen [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/). |
+| listener | IEventListener | De [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) parameter geeft de [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) aan die verwijderd moet worden. |
 
 ### Zie ook
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* naamruimte [Aspose.Svg.Dom](../../eventtarget/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_2}
+## RemoveEventListener(*string, [IEventListener](../../../aspose.svg.dom.events/ieventlistener/), bool*) {#removeeventlistener_2}
 
-Met deze methode kunnen gebeurtenislisteners uit het gebeurtenisdoel worden verwijderd. Als een[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd uit een[`EventTarget`](../) terwijl het een gebeurtenis verwerkt, wordt het niet geactiveerd door de huidige acties. Gebeurtenislisteners kunnen nooit worden aangeroepen nadat ze zijn verwijderd.
+Deze methode maakt het verwijderen van event‑listeners van het event‑target mogelijk. Als een [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd van een [`EventTarget`](../) terwijl deze een gebeurtenis verwerkt, wordt deze niet geactiveerd door de huidige acties. Event‑listeners kunnen nooit meer worden aangeroepen nadat ze zijn verwijderd.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener, bool useCapture)
@@ -61,15 +61,13 @@ public void RemoveEventListener(string type, IEventListener listener, bool useCa
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| type | String | Specificeert het gebeurtenistype van het[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd. |
-| listener | IEventListener | De[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) parameter geeft de[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) verwijderd worden. |
-| useCapture | Boolean | Geeft aan of de EventListener die wordt verwijderd, al dan niet is geregistreerd als vastleggende luisteraar. Als een luisteraar twee keer is geregistreerd, één met vastleggen en één zonder, moet elke luisteraar afzonderlijk worden verwijderd. Het verwijderen van een vastleggende luisteraar heeft geen invloed op een niet-vastleggende versie van dezelfde luisteraar, en vice versa. |
+| type | String | Specificeert het gebeurtenistype van de te verwijderen [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/). |
+| listener | IEventListener | De [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) parameter geeft de [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) aan die verwijderd moet worden. |
+| useCapture | Boolean | Specificeert of de te verwijderen EventListener als een capture-listener is geregistreerd of niet. Als een listener twee keer is geregistreerd, één met capture en één zonder, moet elke afzonderlijk worden verwijderd. Het verwijderen van een capture-listener heeft geen invloed op een niet-capture versie van dezelfde listener, en omgekeerd. |
 
 ### Zie ook
 
 * interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* naamruimte [Aspose.Svg.Dom](../../eventtarget/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Enum StencilType
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.ImageVectorization.StencilType opsomming. DeStencilType enum definieert stenciltypes.
+title: "StencilType-enumeratie"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.ImageVectorization.StencilType‑enum. De StencilType‑enum definieert stencil‑typen"
 type: docs
-weight: 2180
+weight: 4250
 url: /nl/net/aspose.svg.imagevectorization/stenciltype/
 ---
 ## StencilType enumeration
 
-De`StencilType` enum definieert stenciltypes.
+De `StencilType`‑enum definieert stencil‑typen.
 
 ```csharp
 public enum StencilType
@@ -18,13 +18,11 @@ public enum StencilType
 
 | Naam | Waarde | Beschrijving |
 | --- | --- | --- |
-| None | `0` | Het stencileffect wordt niet toegepast. |
-| MonoColor | `1` | Er wordt slechts één kleur gebruikt voor het weergeven van stencillijnen. |
-| Auto | `2` | De kleuren voor het renderen van stencillijnen worden automatisch gedetecteerd. |
+| None | `0` | Het stencil‑effect wordt niet toegepast. |
+| MonoColor | `1` | Er wordt slechts één kleur gebruikt voor het renderen van stencil‑lijnen. |
+| Auto | `2` | De kleuren voor het renderen van stencil‑lijnen worden automatisch gedetecteerd. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

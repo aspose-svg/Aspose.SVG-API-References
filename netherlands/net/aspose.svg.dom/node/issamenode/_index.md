@@ -1,14 +1,16 @@
 ---
-title: Node.IsSameNode
-second_title: Aspose.SVG voor .NET API-referentie
-description: Node methode. Geeft terug of dit knooppunt hetzelfde knooppunt is als het opgegeven knooppunt. Deze methode biedt een manier om te bepalen of twee Nodereferenties die door de implementatie worden geretourneerd naar hetzelfde object verwijzen. Wanneer twee Nodereferenties verwijzingen zijn naar hetzelfde object zelfs via een proxy kunnen de referenties volledig onderling uitwisselbaar worden gebruikt zodat alle attributen dezelfde waarden hebben en het aanroepen van dezelfde DOMmethode voor beide referenties altijd exact hetzelfde effect heeft.
+title: "Node.IsSameNode"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Node IsSameNode method. De methode is een verouderde alias voor de strikte gelijkheidsoperator. Dat betekent dat het test of twee knopen hetzelfde zijn, oftewel of ze naar hetzelfde object verwijzen."
 type: docs
-weight: 250
+weight: 230
 url: /nl/net/aspose.svg.dom/node/issamenode/
 ---
 ## Node.IsSameNode method
 
-Geeft terug of dit knooppunt hetzelfde knooppunt is als het opgegeven knooppunt. Deze methode biedt een manier om te bepalen of twee Node-referenties die door de implementatie worden geretourneerd, naar hetzelfde object verwijzen. Wanneer twee Node-referenties verwijzingen zijn naar hetzelfde object, zelfs via een proxy, kunnen de referenties volledig onderling uitwisselbaar worden gebruikt, zodat alle attributen dezelfde waarden hebben en het aanroepen van dezelfde DOM-methode voor beide referenties altijd exact hetzelfde effect heeft.
+Methode is een verouderde alias voor de === strikte gelijkheidsoperator. Dat wil zeggen, het test of twee knooppunten identiek zijn (met andere woorden, of ze naar hetzelfde object verwijzen).
+
+Opmerking: Het is niet nodig om `IsSameNode` te gebruiken; gebruik in plaats daarvan de === strikte gelijkheidsoperator.
 
 ```csharp
 public bool IsSameNode(Node otherNode)
@@ -16,16 +18,14 @@ public bool IsSameNode(Node otherNode)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| otherNode | Node | Het andere knooppunt. |
+| otherNode | Node | De knoop om tegen te testen. |
 
-### Winstwaarde
+### Retourwaarde
 
-`WAAR`if [is hetzelfde knooppunt] [de opgegeven andere]; anders,`vals` .
+Een booleaanse waarde die true is als beide knopen strikt gelijk zijn, false anders.
 
 ### Zie ook
 
 * class [Node](../)
-* naamruimte [Aspose.Svg.Dom](../../node/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

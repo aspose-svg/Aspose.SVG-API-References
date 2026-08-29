@@ -1,29 +1,23 @@
 ---
-title: Aspose.Svg.IO
-second_title: Aspose.SVG voor .NET API-referentie
-description: Naast standaard IO inputoutput tools de Aspose.Svg.IO naamruimte bevat hulpklassen en interfaces.
+title: "Aspose.Svg.IO"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Naast de standaard IO‑in‑en‑uitvoertools bevat de Aspose.Svg.IO-namespace hulpklassen en interfaces."
 type: docs
-weight: 180
+weight: 200
 url: /nl/net/aspose.svg.io/
 ---
-Naast standaard IO (input-output) tools de **Aspose.Svg.IO** naamruimte bevat hulpklassen en interfaces.
+Naast de standaard IO (input-output) hulpmiddelen bevat de **Aspose.Svg.IO** namespace helperklassen en interfaces.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [FileCreateStreamProvider](./filecreatestreamprovider/) | VertegenwoordigtFileStream implementatie voor het leveren van streams aan de rendering-apparaten. |
-| [LocalFileSystemStorage](./localfilesystemstorage/) | Een bestandssysteemopslag. |
-| [OutputStream](./outputstream/) | Een surrogaatstroom omhult de echte uitvoerstroom en regelt de toegang ertoe. [`OutputStream`](../aspose.svg.io/outputstream/) bevat URI-gegevens die de locatie van de uitvoerstroom beschrijven. |
-| [OutputStreamContext](./outputstreamcontext/) | Een context voor initialisatie van de uitvoerstroom. |
+| [FileCreateStreamProvider](./filecreatestreamprovider/) | Stelt de FileStream-implementatie voor die streams levert aan de renderapparaten. |
 ## Interfaces
 
-| Koppel | Beschrijving |
+| Interface | Beschrijving |
 | --- | --- |
-| [IBlob](./iblob/) | Een Blob-object verwijst naar een bytereeks en heeft een kenmerk size dat het totale aantal bytes in de bytereeks is, en een typekenmerk, een ASCII-gecodeerde tekenreeks in kleine letters die het mediatype van de bytereeks vertegenwoordigt . |
-| [ICreateStreamProvider](./icreatestreamprovider/) | Vertegenwoordigt een interface die kan worden geïmplementeerd door klassen die streams leveren aan de weergaveapparaten. |
-| [IFile](./ifile/) | Een File-object is een Blob-object met een naamattribuut, dat een tekenreeks is; het kan via een constructor binnen de webapplicatie worden aangemaakt, of is een verwijzing naar een bytereeks uit een bestand uit het onderliggende (OS) bestandssysteem. |
-| [IFileList](./ifilelist/) | Vertegenwoordigen de interface voor lijst met bestanden. |
-| [IOutputStorage](./ioutputstorage/) | Zorgt voor het creëren en beheren van uitvoerstromen[`OutputStream`](../aspose.svg.io/outputstream/) . |
-
-
+| [IBlob](./iblob/) | Een Blob‑object verwijst naar een byte‑reeks en heeft een size‑attribuut dat het totale aantal bytes in de reeks aangeeft, en een type‑attribuut, dat een ASCII‑gecodeerde tekenreeks in kleine letters is die het mediatype van de byte‑reeks weergeeft. |
+| [ICreateStreamProvider](./icreatestreamprovider/) | Stelt een interface voor die kan worden geïmplementeerd door klassen die streams leveren aan de renderapparaten. |
+| [IFile](./ifile/) | Een File‑object is een Blob‑object met een name‑attribuut, dat een tekenreeks is; het kan binnen de webapplicatie via een constructor worden gemaakt, of is een verwijzing naar een byte‑reeks uit een bestand van het onderliggende (OS)‑bestandssysteem. |
+| [IFileList](./ifilelist/) | Stel de interface voor voor een lijst met bestanden. |

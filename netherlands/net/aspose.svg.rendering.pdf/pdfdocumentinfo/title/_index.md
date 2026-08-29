@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Title
-second_title: Aspose.SVG voor .NET API-referentie
-description: PdfDocumentInfo eigendom. De titel van het document.
+title: "PdfDocumentInfo.Title"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PdfDocumentInfo Title-eigenschap. De titel van het document"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.rendering.pdf/pdfdocumentinfo/title/
@@ -17,7 +17,5 @@ public string Title { get; set; }
 ### Zie ook
 
 * class [PdfDocumentInfo](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

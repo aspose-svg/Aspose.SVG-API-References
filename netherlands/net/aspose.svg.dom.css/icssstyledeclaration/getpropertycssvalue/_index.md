@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.GetPropertyCSSValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSStyleDeclaration methode. Wordt gebruikt om de objectrepresentatie van de waarde van een CSSeigenschap op te halen als deze expliciet is ingesteld binnen dit declaratieblok. Deze methode retourneert null als de eigenschap een verkorte eigenschap is. Afgekorte eigenschapswaarden kunnen alleen worden geopend en gewijzigd als tekenreeksen met behulp van de getPropertyValue en setPropertymethoden.
+title: "ICSSStyleDeclaration.GetPropertyCSSValue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSStyleDeclaration GetPropertyCSSValue methode. Wordt gebruikt om de objectrepresentatie van de waarde van een CSS-eigenschap op te halen als deze expliciet is ingesteld binnen dit declaratieblok. Deze methode retourneert null als de eigenschap een verkorte eigenschap is. Waarden van verkorte eigenschappen kunnen alleen als strings worden benaderd en gewijzigd met behulp van de getPropertyValue- en setProperty-methoden."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom.css/icssstyledeclaration/getpropertycssvalue/
 ---
 ## ICSSStyleDeclaration.GetPropertyCSSValue method
 
-Wordt gebruikt om de objectrepresentatie van de waarde van een CSS-eigenschap op te halen als deze expliciet is ingesteld binnen dit declaratieblok. Deze methode retourneert null als de eigenschap een verkorte eigenschap is. Afgekorte eigenschapswaarden kunnen alleen worden geopend en gewijzigd als tekenreeksen met behulp van de getPropertyValue- en setProperty-methoden.
+Gebruikt om de objectrepresentatie van de waarde van een CSS-eigenschap op te halen als deze expliciet is ingesteld binnen dit declaratieblok. Deze methode retourneert null als de eigenschap een verkorte eigenschap is. Waarden van verkorte eigenschappen kunnen alleen als strings worden benaderd en gewijzigd, met behulp van de getPropertyValue- en setProperty-methoden.
 
 ```csharp
 public CSSValue GetPropertyCSSValue(string propertyName)
@@ -16,17 +16,15 @@ public CSSValue GetPropertyCSSValue(string propertyName)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| propertyName | String | Naam van het pand. |
+| propertyName | String | Naam van de eigenschap. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert eigenschapswaarde
+Retourneert de eigenschapswaarde.
 
 ### Zie ook
 
 * class [CSSValue](../../cssvalue/)
 * interface [ICSSStyleDeclaration](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGSVGElement.AnimationsPaused
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGSVGElement methode. Retourneert waar als dit SVGdocumentfragment zich in een onderbroken status bevindt.
+title: "SVGSVGElement.AnimationsPaused"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGSVGElement AnimationsPaused-methode. Retourneert true als dit SVG-documentfragment zich in een gepauzeerde toestand bevindt."
 type: docs
 weight: 100
 url: /nl/net/aspose.svg/svgsvgelement/animationspaused/
 ---
 ## SVGSVGElement.AnimationsPaused method
 
-Retourneert waar als dit SVG-documentfragment zich in een onderbroken status bevindt.
+Geeft true terug als dit SVG‑documentfragment zich in een gepauzeerde toestand bevindt.
 
 ```csharp
 public bool AnimationsPaused()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Booleaanse waarde die aangeeft of dit SVG-documentfragment zich in een onderbroken status bevindt.
+Boolean die aangeeft of dit SVG-documentfragment zich in een gepauzeerde toestand bevindt.
 
 ### Zie ook
 
 * class [SVGSVGElement](../)
-* naamruimte [Aspose.Svg](../../svgsvgelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,29 +1,35 @@
 ---
-title: Class MessageHandlerCollection
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Net.MessageHandlerCollection klas. Vertegenwoordigt verzameling van deMessageHandler .
+title: "MessageHandlerCollection Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Net.MessageHandlerCollection klasse. Vertegenwoordigt een collectie van de MessageHandler"
 type: docs
-weight: 2350
+weight: 4420
 url: /nl/net/aspose.svg.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
 
-Vertegenwoordigt verzameling van de[`MessageHandler`](../messagehandler/) .
+Vertegenwoordigt een collectie van de [`MessageHandler`](../messagehandler/).
 
 ```csharp
 public class MessageHandlerCollection : Collection<MessageHandler>
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [MessageHandlerCollection](messagehandlercollection/)() | De standaard constructeur. |
+| [MessageHandlerCollection](messagehandlercollection/)() | De standaardconstructor. |
+
+## Eigenschappen
+
+| Naam | Beschrijving |
+| --- | --- |
+| [Count](../../system.collections.objectmodel/collection-1/count/) { get; } |  |
+| [Item](../../system.collections.objectmodel/collection-1/item/) { get; set; } |  |
+| [Items](../../system.collections.objectmodel/collection-1/items/) { get; } |  |
 
 ### Zie ook
 
 * class [MessageHandler](../messagehandler/)
-* naamruimte [Aspose.Svg.Net](../../aspose.svg.net/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

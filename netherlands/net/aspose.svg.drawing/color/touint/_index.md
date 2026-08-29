@@ -1,27 +1,25 @@
 ---
-title: Color.ToUint
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Codeert de Color ARGBcomponenten in unsigned int.
+title: "Color.ToUint"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color ToUint-methode. Encodeert de ARGB-componenten van de Color naar een unsigned int."
 type: docs
 weight: 440
 url: /nl/net/aspose.svg.drawing/color/touint/
 ---
 ## Color.ToUint method
 
-Codeert de Color ARGB-componenten in unsigned int.
+Encodeert de ARGB-componenten van de kleur naar een unsigned int.
 
 ```csharp
 public uint ToUint()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Gecodeerde niet-ondertekende int.
+Geëncodeerde unsigned int.
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

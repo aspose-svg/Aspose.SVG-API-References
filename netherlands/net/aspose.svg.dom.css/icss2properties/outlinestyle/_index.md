@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.OutlineStyle
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de eigenschapsdefinitie van de omtrekstijl in CSS2.
+title: "ICSS2Properties.OutlineStyle"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties OutlineStyle eigenschap. Zie de definitie van de outline-style eigenschap in CSS2"
 type: docs
-weight: 770
+weight: 800
 url: /nl/net/aspose.svg.dom.css/icss2properties/outlinestyle/
 ---
 ## ICSS2Properties.OutlineStyle property
 
-Zie de eigenschapsdefinitie van de omtrekstijl in CSS2.
+Zie de definitie van de outline-style eigenschap in CSS2.
 
 ```csharp
 public string OutlineStyle { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-eigendom in schetsstijl
+outline-style eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGGeometryElement.GetEquivalentPath
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGGeometryElement methode. Retourneert een nieuwe instantie van deSVGPathSegList wat vertegenwoordigtSVGGeometryElement als padsegmenten.
+title: "SVGGeometryElement.GetEquivalentPath"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGGeometryElement GetEquivalentPath-methode. Retourneert een nieuw exemplaar van de SVGPathSegList die SVGGeometryElement als padsegmenten weergeeft."
 type: docs
-weight: 20
+weight: 30
 url: /nl/net/aspose.svg/svggeometryelement/getequivalentpath/
 ---
 ## SVGGeometryElement.GetEquivalentPath method
 
-Retourneert een nieuwe instantie van de[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) wat vertegenwoordigt[`SVGGeometryElement`](../) als padsegmenten.
+Retourneert een nieuw exemplaar van de [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) die [`SVGGeometryElement`](../) als padsegmenten weergeeft.
 
 ```csharp
 public SVGPathSegList GetEquivalentPath()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuwe instantie van de[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
+Een nieuw exemplaar van de [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
 
 ### Zie ook
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGGeometryElement](../)
-* naamruimte [Aspose.Svg](../../svggeometryelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

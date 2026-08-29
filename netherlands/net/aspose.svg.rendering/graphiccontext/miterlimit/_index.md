@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.MiterLimit
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt de maximale lengte in van versteklijnverbindingen voor omlijnde paden of haalt deze op. Deze parameter beperkt de lengte van spikes die worden geproduceerd wanneer lijnsegmenten onder scherpe hoeken samenkomen.
+title: "GraphicContext.MiterLimit"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext MiterLimit eigenschap. Stelt de maximale lengte van afgeschuinde lijnverbindingen voor getekende paden in of haalt deze op. Deze parameter beperkt de lengte van puntige uitsteeksels die ontstaan wanneer lijnsegmenten samenkomen onder scherpe hoeken."
 type: docs
 weight: 130
 url: /nl/net/aspose.svg.rendering/graphiccontext/miterlimit/
 ---
 ## GraphicContext.MiterLimit property
 
-Stelt de maximale lengte in van versteklijnverbindingen voor omlijnde paden of haalt deze op. Deze parameter beperkt de lengte van "spikes" die worden geproduceerd wanneer lijnsegmenten onder scherpe hoeken samenkomen.
+Stelt de maximale lengte van afgeschuinde lijnverbindingen voor getekende paden in, of haalt deze op. Deze parameter beperkt de lengte van \"spikes\" die ontstaan wanneer lijnsegmenten bij scherpe hoeken samenkomen.
 
 ```csharp
 public virtual float MiterLimit { get; set; }
@@ -17,7 +17,5 @@ public virtual float MiterLimit { get; set; }
 ### Zie ook
 
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

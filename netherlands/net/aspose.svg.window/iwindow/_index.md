@@ -1,14 +1,14 @@
 ---
-title: Interface IWindow
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Window.IWindow koppel. Het vensterobject stelt een venster voor dat een DOMdocument bevat.
+title: "IWindow-interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Window.IWindow-interface. Het window-object vertegenwoordigt een venster dat een DOM-document bevat"
 type: docs
-weight: 3820
+weight: 5920
 url: /nl/net/aspose.svg.window/iwindow/
 ---
 ## IWindow interface
 
-Het vensterobject stelt een venster voor dat een DOM-document bevat.
+Het window-object vertegenwoordigt een venster dat een DOM-document bevat.
 
 ```csharp
 public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEventHandlers, 
@@ -19,23 +19,27 @@ public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEven
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Document](../../aspose.svg.window/iwindow/document/) { get; } | Het documentattribuut moet het nieuwste documentobject van het Window-object retourneren. |
-| [FrameElement](../../aspose.svg.window/iwindow/frameelement/) { get; } | Het frameElement-object van een document. |
-| [Location](../../aspose.svg.window/iwindow/location/) { get; } | Het location attribuut van de Window-interface moet het Location-object retourneren voor het Document van dat Window-object. |
-| [Name](../../aspose.svg.window/iwindow/name/) { get; set; } | Het naamattribuut van het Window-object moet bij het ophalen de huidige naam van de browsercontext retourneren en bij het instellen de naam van de browsecontext op de nieuwe waarde instellen. |
-| [Opener](../../aspose.svg.window/iwindow/opener/) { get; } | Het opener IDL-attribuut op het Window-object moet bij het ophalen het WindowProxy-object retourneren van de browsecontext van waaruit de huidige browsecontext is gemaakt (de opener browsingcontext), als er een is, als deze nog beschikbaar is en als de huidige browsercontext heeft zijn opener niet verloochend; anders moet het null retourneren. Als bij het instellen de nieuwe waarde null is, moet de huidige browsercontext de opener verloochenen; als de nieuwe waarde iets anders is, moet de user-agent de [[DefineOwnProperty]] interne methode van het Window-object aanroepen, waarbij de eigenschapsnaam "opener" wordt doorgegeven als de eigenschapssleutel, en de eigenschapsbeschrijving { [[Value]]: waarde , [[Writable]]: true, [[Enumerable]]: true, [[Configurable]]: true } als eigenschapsdescriptor, waarbij waarde de nieuwe waarde is. |
-| [Parent](../../aspose.svg.window/iwindow/parent/) { get; } | Het bovenliggende IDL-attribuut op het Window-object van een document in een browsercontext b moet het WindowProxy-object van de bovenliggende browsecontext retourneren, als die er is (dwz als b een onderliggende browsercontext is), of het WindowProxy-object van de browsecontext context b zelf, anders (dwz als het een browsercontext op het hoogste niveau is of een vrijstaande geneste browsecontext). |
-| [Self](../../aspose.svg.window/iwindow/self/) { get; } | Retourneert het WindowProxy-object van de browsercontext van het Window-object. |
-| [Top](../../aspose.svg.window/iwindow/top/) { get; } | Het top IDL-attribuut op het Window-object van een document in een browsercontext b moet het WindowProxy-object van zijn browsercontext op het hoogste niveau retourneren (wat zijn eigen WindowProxy-object zou zijn als het zelf een browsecontext op het hoogste niveau was), als het heeft er één of anders zijn eigen WindowProxy-object (bijvoorbeeld als het een losgekoppelde geneste browsecontext was). |
-| [Window](../../aspose.svg.window/iwindow/window/) { get; } | Retourneert het WindowProxy-object van de browsercontext van het Window-object. |
+| [Document](../../aspose.svg.window/iwindow/document/) { get; } | Het documentattribuut moet het nieuwste Document-object van het Window-object teruggeven. |
+| [FrameElement](../../aspose.svg.window/iwindow/frameelement/) { get; } | Het frameElement-object van een Document. |
+| [LocalStorage](../../aspose.svg.window/iwindow/localstorage/) { get; } | Geeft een Storage-object terug dat u in staat stelt sleutel/waarde-paren op te slaan in de user agent. |
+| [Location](../../aspose.svg.window/iwindow/location/) { get; } | Het location-attribuut van de Window-interface moet het Location-object voor het Document van dat Window-object teruggeven. |
+| [Name](../../aspose.svg.window/iwindow/name/) { get; set; } | Het name-attribuut van het Window-object moet bij het opvragen de huidige naam van de browsing context teruggeven, en bij het instellen de naam van de browsing context op de nieuwe waarde zetten. |
+| [Opener](../../aspose.svg.window/iwindow/opener/) { get; } | Het opener IDL-attribuut op het Window-object moet bij het opvragen het WindowProxy-object van de browsing context waaruit de huidige browsing context is gemaakt (de opener‑browsing‑context), als die bestaat, nog beschikbaar is en de huidige browsing context zijn opener niet heeft afgewezen; anders moet het null teruggeven. Bij het instellen, als de nieuwe waarde null is, moet de huidige browsing context zijn opener afwijzen; als de nieuwe waarde iets anders is, moet de user agent de interne methode [[DefineOwnProperty]] van het Window-object aanroepen, waarbij de eigenschapsnaam "opener" als sleutel wordt doorgegeven, en de Property Descriptor { [[Value]]: value, [[Writable]]: true, [[Enumerable]]: true, [[Configurable]]: true } als eigenschapsdescriptor, waarbij value de nieuwe waarde is. |
+| [Parent](../../aspose.svg.window/iwindow/parent/) { get; } | Het parent IDL-attribuut op het Window-object van een Document in een browsing context b moet het WindowProxy-object van de bovenliggende browsing context teruggeven, als die bestaat (d.w.z. als b een child‑browsing‑context is), of anders het WindowProxy-object van de browsing context b zelf (d.w.z. als het een top‑level browsing context of een losgekoppelde geneste browsing context is). |
+| [Self](../../aspose.svg.window/iwindow/self/) { get; } | Geeft het WindowProxy-object van de browsing context van het Window-object terug. |
+| [Top](../../aspose.svg.window/iwindow/top/) { get; } | Het top IDL-attribuut op het Window-object van een Document in een browsing context b moet het WindowProxy-object van zijn top‑level browsing context teruggeven (wat zijn eigen WindowProxy-object zou zijn als het zelf een top‑level browsing context was), als die er één heeft, of anders zijn eigen WindowProxy-object (bijv. als het een losgekoppelde geneste browsing context was). |
+| [Window](../../aspose.svg.window/iwindow/window/) { get; } | Geeft het WindowProxy-object van de browsing context van het Window-object terug. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Alert](../../aspose.svg.window/iwindow/alert/)(string) | Geeft een modale waarschuwing weer met het gegeven bericht en wacht tot de gebruiker het verwerpt |
-| [Confirm](../../aspose.svg.window/iwindow/confirm/)(string) | Toont een modale OK/Annuleren-prompt met het gegeven bericht, wacht tot de gebruiker het negeert en retourneert true als de gebruiker op OK klikt en false als de gebruiker op Annuleren klikt. |
-| [Prompt](../../aspose.svg.window/iwindow/prompt/)(string, string) | Geeft een modale tekstveldprompt weer met het gegeven bericht, wacht tot de gebruiker het negeert en retourneert de waarde die de gebruiker heeft ingevoerd. Als de gebruiker de prompt annuleert, retourneert hij in plaats daarvan null. Als het tweede argument aanwezig is, wordt de opgegeven waarde als standaard gebruikt. |
+| [Alert](../../aspose.svg.window/iwindow/alert/)(*string*) | Toont een modale waarschuwing met het opgegeven bericht en wacht tot de gebruiker deze sluit. |
+| [Atob](../../aspose.svg.window/iwindow/atob/)(*string*) | Neemt de invoergegevens in de vorm van een Unicode‑string die base64‑gecodeerde binaire data bevat, decodeert deze en geeft een string terug die bestaat uit tekens in het bereik U+0000 tot U+00FF, elk een binair byte met waarden 0x00 tot 0xFF weergevend, overeenkomstig die binaire data. |
+| [Btoa](../../aspose.svg.window/iwindow/btoa/)(*string*) | Neemt de invoergegevens, in de vorm van een Unicode‑string die alleen tekens bevat in het bereik U+0000 tot U+00FF, elk een binair byte met waarden 0x00 tot 0xFF respectievelijk, en zet deze om naar de base64‑representatie, die wordt geretourneerd. |
+| [Confirm](../../aspose.svg.window/iwindow/confirm/)(*string*) | Toont een modale OK/Annuleren‑prompt met het opgegeven bericht, wacht tot de gebruiker deze sluit, en retourneert true als de gebruiker op OK klikt en false als de gebruiker op Annuleren klikt. |
+| [MatchMedia](../../aspose.svg.window/iwindow/matchmedia/)(*string*) | Retourneert een nieuw MediaQueryList‑object dat vervolgens kan worden gebruikt om te bepalen of het document overeenkomt met de media‑query‑string, en om het document te monitoren om te detecteren wanneer het overeenkomt (of stopt met overeenkomen) met die media‑query. Zie de CSSOM View Module‑specificatie: [https://www.w3.org/TR/cssom-view/#extensions-to-the-window-interface](https://www.w3.org/TR/cssom-view/#extensions-to-the-window-interface) |
+| [Prompt](../../aspose.svg.window/iwindow/prompt/)(*string, string*) | Toont een modale tekstveld‑prompt met het opgegeven bericht, wacht tot de gebruiker deze sluit, en retourneert de waarde die de gebruiker heeft ingevoerd. Als de gebruiker de prompt annuleert, wordt null geretourneerd. Als het tweede argument aanwezig is, wordt de opgegeven waarde als standaard gebruikt. |
 
 ### Zie ook
 
@@ -44,7 +48,5 @@ public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEven
 * interface [IGlobalEventHandlers](../../aspose.svg.dom/iglobaleventhandlers/)
 * interface [IWindowEventHandlers](../iwindoweventhandlers/)
 * interface [IWindowTimers](../iwindowtimers/)
-* naamruimte [Aspose.Svg.Window](../../aspose.svg.window/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

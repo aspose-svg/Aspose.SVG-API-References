@@ -1,14 +1,14 @@
 ---
-title: Interface ITransformableBrush
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Drawing.ITransformableBrush koppel. Declareert methoden voor het verkrijgen van transformatiematrix en wrapmodus.
+title: "ITransformableBrush Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Drawing.ITransformableBrush interface. Declareert methoden voor het verkrijgen van de transformatie‑matrix en wrap‑modus"
 type: docs
-weight: 1500
+weight: 3530
 url: /nl/net/aspose.svg.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface
 
-Declareert methoden voor het verkrijgen van transformatiematrix en wrap-modus.
+Declareert methoden voor het verkrijgen van de transformatie-matrix en wrap-modus.
 
 ```csharp
 public interface ITransformableBrush : IBrush
@@ -18,13 +18,11 @@ public interface ITransformableBrush : IBrush
 
 | Naam | Beschrijving |
 | --- | --- |
-| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; } | Verkrijg de transformatie. De transformatie definieert een lokale geometrische transformatie voor dit penseel. |
-| [WrapMode](../../aspose.svg.drawing/itransformablebrush/wrapmode/) { get; } | Haalt of stelt de wrap-modus in. De omloopmodus geeft aan hoe een textuur of verloop wordt betegeld wanneer deze kleiner is dan het gebied dat wordt gevuld. |
+| [SpreadMode](../../aspose.svg.drawing/itransformablebrush/spreadmode/) { get; set; } | Haalt de SpreadMode-modus op of stelt deze in. SpreadMode-modus specificeert hoe een textuur of verloop wordt getegeld wanneer deze kleiner is dan het gebied dat wordt gevuld. |
+| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; set; } | Haal de transformatie op. De transformatie definieert een lokale geometrische transformatie voor deze kwast. |
 
 ### Zie ook
 
 * interface [IBrush](../ibrush/)
-* naamruimte [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

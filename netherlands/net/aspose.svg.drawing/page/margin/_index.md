@@ -1,20 +1,20 @@
 ---
-title: Page.Margin
-second_title: Aspose.SVG voor .NET API-referentie
-description: Page eigendom. Haalt of stelt de paginamarge in.
+title: "Page.Margin"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Page Margin-eigenschap. Haalt de paginamarge op of stelt deze in"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.drawing/page/margin/
 ---
 ## Page.Margin property
 
-Haalt of stelt de paginamarge in.
+Haalt op of stelt de paginamarge in.
 
 ```csharp
 public Margin Margin { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De marge.
 
@@ -22,7 +22,5 @@ De marge.
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* naamruimte [Aspose.Svg.Drawing](../../page/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

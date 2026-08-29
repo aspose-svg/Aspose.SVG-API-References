@@ -1,14 +1,14 @@
 ---
-title: Class TextOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Image.TextOptions klas. Vertegenwoordigt opties voor tekstweergave voorImageDevice .
+title: "TextOptions Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.Image.TextOptions klasse. Vertegenwoordigt tekstrenderopties voor ImageDevice"
 type: docs
-weight: 2870
+weight: 4950
 url: /nl/net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class
 
-Vertegenwoordigt opties voor tekstweergave voor[`ImageDevice`](../imagedevice/) .
+Stelt tekstweergave‑opties voor [`ImageDevice`](../imagedevice/) weer.
 
 ```csharp
 public class TextOptions
@@ -18,11 +18,9 @@ public class TextOptions
 
 | Naam | Beschrijving |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint/) { get; set; } | Zet of krijgtTextRenderingHint wat de kwaliteit van de tekstweergave beïnvloedt. Standaard is deze eigenschapSystemDefault . |
+| [UseHinting](../../aspose.svg.rendering.image/textoptions/usehinting/) { get; set; } | Specificeert of tekst‑hinting moet worden gebruikt. Standaard is hinting uitgeschakeld. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: XpsRenderingOptions.XpsRenderingOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: XpsRenderingOptions constructeur. De standaard constructeur.
+title: "XpsRenderingOptions"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "XpsRenderingOptions constructor. De standaardconstructor"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering.xps/xpsrenderingoptions/xpsrenderingoptions/
 ---
 ## XpsRenderingOptions constructor
 
-De standaard constructeur.
+De standaardconstructor.
 
 ```csharp
 public XpsRenderingOptions()
@@ -17,7 +17,5 @@ public XpsRenderingOptions()
 ### Zie ook
 
 * class [XpsRenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering.Xps](../../xpsrenderingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

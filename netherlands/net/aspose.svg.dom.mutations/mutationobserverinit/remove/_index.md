@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Remove
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationObserverInit methode. Verwijdert het opgegeven sleutel/waardepaar uit hetMutationObserverInitcollectie.
+title: "MutationObserverInit.Remove"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationObserverInit Remove-methode. Verwijdert het opgegeven sleutel/waarde-paar uit de MutationObserverInit-collectie."
 type: docs
 weight: 200
 url: /nl/net/aspose.svg.dom.mutations/mutationobserverinit/remove/
 ---
-## Remove(KeyValuePair&lt;string, object&gt;) {#remove}
+## Remove(*KeyValuePair&lt;string, object&gt;*) {#remove}
 
-Verwijdert het opgegeven sleutel/waarde-paar uit het[`MutationObserverInit`](../)collectie.
+Verwijdert het opgegeven sleutel/waarde-paar uit de [`MutationObserverInit`](../)-collectie.
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -16,23 +16,23 @@ public bool Remove(KeyValuePair<string, object> item)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Het item dat moet worden verwijderd. |
+| item | KeyValuePair`2 | Het te verwijderen item. |
 
-### Winstwaarde
+### Retourwaarde
 
-Waar indien succesvol verwijderd; anders, vals.
+True als succesvol verwijderd; anders false.
 
 ### Zie ook
 
 * class [MutationObserverInit](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Remove(string) {#remove_1}
+## Remove(*string*) {#remove_1}
 
-Verwijdert de waarde die is gekoppeld aan de opgegeven sleutel uit het[`MutationObserverInit`](../)collectie.
+Verwijdert de waarde die is gekoppeld aan de opgegeven sleutel uit de [`MutationObserverInit`](../)-collectie.
 
 ```csharp
 public bool Remove(string key)
@@ -40,16 +40,14 @@ public bool Remove(string key)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| key | String | De sleutel van het te verwijderen element. |
+| sleutel | String | De sleutel van het te verwijderen element. |
 
-### Winstwaarde
+### Retourwaarde
 
-Waar als het element met succes is gevonden en verwijderd; anders, vals.
+True als het element succesvol wordt gevonden en verwijderd; anders false.
 
 ### Zie ook
 
 * class [MutationObserverInit](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

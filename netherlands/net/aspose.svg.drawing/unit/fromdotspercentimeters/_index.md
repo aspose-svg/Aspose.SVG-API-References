@@ -1,14 +1,14 @@
 ---
-title: Unit.FromDotsPerCentimeters
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenResolution object dat wordt weergegeven in dots per centimeter.
+title: "Unit.FromDotsPerCentimeters"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromDotsPerCentimeters-methode. Retourneert een Resolution-object dat wordt weergegeven in dots per centimeters"
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.drawing/unit/fromdotspercentimeters/
 ---
 ## Unit.FromDotsPerCentimeters method
 
-Geeft als resultaat een[`Resolution`](../../resolution/) object dat wordt weergegeven in dots per centimeter.
+Retourneert een [`Resolution`](../../resolution/) object dat wordt weergegeven in dots per centimeters.
 
 ```csharp
 public static Resolution FromDotsPerCentimeters(double value)
@@ -16,17 +16,15 @@ public static Resolution FromDotsPerCentimeters(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Resolution`](../../resolution/) voorwerp.
+Retourneert een [`Resolution`](../../resolution/) object.
 
 ### Zie ook
 
 * class [Resolution](../../resolution/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

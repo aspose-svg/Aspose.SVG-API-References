@@ -1,28 +1,26 @@
 ---
-title: PdfEncryptionInfo.EncryptionAlgorithm
-second_title: Aspose.SVG voor .NET API-referentie
-description: PdfEncryptionInfo eigendom. Haalt de coderingsmodus op of stelt deze in.
+title: "PdfEncryptionInfo.EncryptionAlgorithm"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PdfEncryptionInfo EncryptionAlgorithm eigenschap. Haalt de encryptiemodus op of stelt deze in."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/
 ---
 ## PdfEncryptionInfo.EncryptionAlgorithm property
 
-Haalt de coderingsmodus op of stelt deze in.
+Haalt op of stelt de encryptiemodus in.
 
 ```csharp
 public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het versleutelingsalgoritme.
+Het encryptie-algoritme.
 
 ### Zie ook
 
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

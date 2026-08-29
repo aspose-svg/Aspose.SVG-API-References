@@ -1,14 +1,14 @@
 ---
-title: CssOptions.MediaType
-second_title: Aspose.SVG voor .NET API-referentie
-description: CssOptions eigendom. Krijgt of zetMediaType die zal worden gebruikt voor het oplossen van mediaquerys tijdens het renderen. Standaardwaarde isAfdrukken .
+title: "CssOptions.MediaType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CssOptions MediaType-eigenschap. Haalt op of stelt MediaType in dat wordt gebruikt voor de resolutie van mediavragen tijdens het renderen. Standaardwaarde is Print."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering/cssoptions/mediatype/
 ---
 ## CssOptions.MediaType property
 
-Krijgt of zet[`MediaType`](../../mediatype/) die zal worden gebruikt voor het oplossen van mediaquery's tijdens het renderen. Standaardwaarde is`Afdrukken` .
+Haalt op of stelt [`MediaType`](../../mediatype/) in dat wordt gebruikt voor de resolutie van mediavragen tijdens het renderen. Standaardwaarde is `Print`.
 
 ```csharp
 public MediaType MediaType { get; set; }
@@ -18,7 +18,5 @@ public MediaType MediaType { get; set; }
 
 * enum [MediaType](../../mediatype/)
 * class [CssOptions](../)
-* naamruimte [Aspose.Svg.Rendering](../../cssoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

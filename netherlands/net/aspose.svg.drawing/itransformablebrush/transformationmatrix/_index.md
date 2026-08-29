@@ -1,27 +1,26 @@
 ---
-title: ITransformableBrush.TransformationMatrix
-second_title: Aspose.SVG voor .NET API-referentie
-description: ITransformableBrush eigendom. Verkrijg de transformatie. De transformatie definieert een lokale geometrische transformatie voor dit penseel.
+title: "ITransformableBrush.TransformationMatrix"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ITransformableBrush TransformationMatrix eigenschap. Haal de transformatie op. De transformatie definieert een lokale geometrische transformatie voor deze kwast."
 type: docs
-weight: 10
+weight: 20
 url: /nl/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-Verkrijg de transformatie. De transformatie definieert een lokale geometrische transformatie voor dit penseel.
+Haal de transformatie op. De transformatie definieert een lokale geometrische transformatie voor deze kwast.
 
 ```csharp
-public Matrix TransformationMatrix { get; }
+public IMatrix TransformationMatrix { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Transformeer matrix
+Transformatie-matrix
 
 ### Zie ook
 
+* interface [IMatrix](../../imatrix/)
 * interface [ITransformableBrush](../)
-* naamruimte [Aspose.Svg.Drawing](../../itransformablebrush/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

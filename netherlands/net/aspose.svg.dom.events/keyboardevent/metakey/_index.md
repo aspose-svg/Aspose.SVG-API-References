@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.MetaKey
-second_title: Aspose.SVG voor .NET API-referentie
-description: KeyboardEvent eigendom. waar als de meta Meta key modifier actief was.
+title: "KeyboardEvent.MetaKey"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "KeyboardEvent MetaKey eigenschap. true als de meta Meta-toetsmodifier actief was"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.dom.events/keyboardevent/metakey/
 ---
 ## KeyboardEvent.MetaKey property
 
-waar als de meta (Meta) key modifier actief was.
+true als de meta (Meta) toetsmodifier actief was.
 
 ```csharp
 public bool MetaKey { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als Meta; anders,`vals` .
+`true` als Meta; anders `false`.
 
 ### Zie ook
 
 * class [KeyboardEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

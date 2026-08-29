@@ -1,14 +1,14 @@
 ---
-title: Unit.FromSeconds
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenTime object dat wordt weergegeven in seconden.
+title: "Unit.FromSeconds"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromSeconds-methode. Retourneert een Time-object dat wordt weergegeven in seconden"
 type: docs
 weight: 210
 url: /nl/net/aspose.svg.drawing/unit/fromseconds/
 ---
 ## Unit.FromSeconds method
 
-Geeft als resultaat een[`Time`](../../time/) object dat wordt weergegeven in seconden.
+Retourneert een [`Time`](../../time/) object dat wordt weergegeven in seconden.
 
 ```csharp
 public static Time FromSeconds(double value)
@@ -16,17 +16,15 @@ public static Time FromSeconds(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Time`](../../time/) voorwerp.
+Retourneert een [`Time`](../../time/) object.
 
 ### Zie ook
 
 * class [Time](../../time/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

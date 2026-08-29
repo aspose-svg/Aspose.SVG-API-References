@@ -1,27 +1,26 @@
 ---
-title: Device2.Fill
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Vult het hele gebied dat wordt ingesloten door het huidige pad. Als het pad uit meerdere nietverbonden subpaden bestaat vult het de binnenkant van alle subpaden samen beschouwd. Deze methode beëindigt het huidige pad.
+title: "Device-2.Fill"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device Fill-methode. Vult het gehele gebied dat wordt omsloten door het huidige pad. Als het pad bestaat uit meerdere losgekoppelde subpaden, vult het de binnenkanten van alle subpaden samen. Deze methode beëindigt het huidige pad."
 type: docs
-weight: 150
+weight: 180
 url: /nl/net/aspose.svg.rendering/device-2/fill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Fill method
+## Device<TGraphicContext,TRenderingOptions>.Fill method
 
-Vult het hele gebied dat wordt ingesloten door het huidige pad. Als het pad uit meerdere niet-verbonden subpaden bestaat, vult het de binnenkant van alle subpaden, samen beschouwd. Deze methode beëindigt het huidige pad.
+Vult het gehele gebied dat door het huidige pad wordt omsloten. Als het pad bestaat uit meerdere losse subpaden, vult het de binnenkant van alle subpaden samen. Deze methode beëindigt het huidige pad.
 
 ```csharp
-public abstract void Fill(FillMode mode)
+public virtual void Fill(FillRule rule)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| mode | FillMode | De vulmodus geeft aan hoe het inwendige van een gesloten pad wordt gevuld |
+| regel | FillRule | Vullingsregel specificeert hoe het interieur van een gesloten pad wordt gevuld |
 
 ### Zie ook
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

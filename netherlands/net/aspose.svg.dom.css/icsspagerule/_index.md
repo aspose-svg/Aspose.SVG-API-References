@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSPageRule
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.ICSSPageRule koppel. De CSSPageRuleinterface vertegenwoordigt een pageregel binnen een CSSstijlpagina. De pageregel wordt gebruikt om de afmetingen oriëntatie marges enz. van een paginavak voor gewisselde media te specificeren.
+title: "ICSSPageRule Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.ICSSPageRule interface. De CSSPageRule‑interface vertegenwoordigt een paginaregel binnen een CSS‑stijlblad. De paginaregel wordt gebruikt om de afmetingen, oriëntatie, marges enz. van een paginabox voor gepagineerde media te specificeren."
 type: docs
-weight: 610
+weight: 2610
 url: /nl/net/aspose.svg.dom.css/icsspagerule/
 ---
 ## ICSSPageRule interface
 
-De CSSPageRule-interface vertegenwoordigt een @page-regel binnen een CSS-stijlpagina. De @page-regel wordt gebruikt om de afmetingen, oriëntatie, marges, enz. van een paginavak voor gewisselde media te specificeren.
+De CSSPageRule interface vertegenwoordigt een @page-regel binnen een CSS-stylesheet. De @page-regel wordt gebruikt om de afmetingen, oriëntatie, marges, enz. van een pagina‑box voor paginagestuurde media te specificeren.
 
 ```csharp
 public interface ICSSPageRule : ICSSRule
@@ -18,13 +18,11 @@ public interface ICSSPageRule : ICSSRule
 
 | Naam | Beschrijving |
 | --- | --- |
-| [SelectorText](../../aspose.svg.dom.css/icsspagerule/selectortext/) { get; set; } | De ontleedbare tekstweergave van de paginakiezer voor de regel. |
-| [Style](../../aspose.svg.dom.css/icsspagerule/style/) { get; } | Het declaratieblok van deze regel. |
+| [SelectorText](../../aspose.svg.dom.css/icsspagerule/selectortext/) { get; set; } | De parseerbare tekstuele weergave van de paginaselector voor de regel. |
+| [Style](../../aspose.svg.dom.css/icsspagerule/style/) { get; } | Het declaratie‑blok van deze regel. |
 
 ### Zie ook
 
 * interface [ICSSRule](../icssrule/)
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

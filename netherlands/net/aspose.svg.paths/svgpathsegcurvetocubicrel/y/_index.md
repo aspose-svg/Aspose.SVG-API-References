@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegCurvetoCubicRel.Y
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathSegCurvetoCubicRel eigendom. De relatieve Ycoördinaat voor het eindpunt van dit baansegment.
+title: "SVGPathSegCurvetoCubicRel.Y"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathSegCurvetoCubicRel Y eigenschap. De relatieve Y-coördinaat voor het eindpunt van dit padsegment"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.paths/svgpathsegcurvetocubicrel/y/
 ---
 ## SVGPathSegCurvetoCubicRel.Y property
 
-De relatieve Y-coördinaat voor het eindpunt van dit baansegment.
+De relatieve Y‑coördinaat voor het eindpunt van dit padsegment.
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De relatieve Y-coördinaat
+De relatieve Y‑coördinaat
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Verhoogd bij een poging om de waarde van een alleen-lezen kenmerk te wijzigen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Opgevoerd bij een poging om de waarde van een alleen‑lezen attribuut te wijzigen. |
 
 ### Zie ook
 
 * class [SVGPathSegCurvetoCubicRel](../)
-* naamruimte [Aspose.Svg.Paths](../../svgpathsegcurvetocubicrel/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

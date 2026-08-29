@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Width
-second_title: Aspose.SVG voor .NET API-referentie
-description: GlyphInfo eigendom. Krijgt de breedte van de glyph in punten.
+title: "GlyphInfo.Width"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GlyphInfo Width eigenschap. Haalt de breedte van het glyph op in punten"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property
 
-Krijgt de breedte van de glyph, in punten.
+Haalt de breedte van het glyph op, in punten.
 
 ```csharp
 public float Width { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Breedte in punten.
 
 ### Zie ook
 
 * struct [GlyphInfo](../)
-* naamruimte [Aspose.Svg.Rendering](../../glyphinfo/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

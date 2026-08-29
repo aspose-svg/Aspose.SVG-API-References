@@ -1,14 +1,14 @@
 ---
-title: Rect.Bottom
-second_title: Aspose.SVG voor .NET API-referentie
-description: Rect eigendom. Dit attribuut wordt gebruikt voor de onderkant van de rect.
+title: "Rect.Bottom"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Rect Bottom property. Dit attribuut wordt gebruikt voor de onderkant van de rect"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.css/rect/bottom/
 ---
 ## Rect.Bottom property
 
-Dit attribuut wordt gebruikt voor de onderkant van de rect.
+Dit attribuut wordt gebruikt voor de onderkant van de rechthoek.
 
 ```csharp
 public CSSPrimitiveValue Bottom { get; }
@@ -18,7 +18,5 @@ public CSSPrimitiveValue Bottom { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../rect/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ILinkStyle.Sheet
-second_title: Aspose.SVG voor .NET API-referentie
-description: ILinkStyle eigendom. Haalt het bijbehorende stijlblad op.
+title: "ILinkStyle.Sheet"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ILinkStyle Sheet property. Haalt het gekoppelde stijlblad op"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.css/ilinkstyle/sheet/
 ---
 ## ILinkStyle.Sheet property
 
-Haalt het bijbehorende stijlblad op.
+Haalt het bijbehorende stylesheet op.
 
 ```csharp
 public IStyleSheet Sheet { get; }
@@ -18,7 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../istylesheet/)
 * interface [ILinkStyle](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../ilinkstyle/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

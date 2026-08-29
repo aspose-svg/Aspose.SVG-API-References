@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnLoadedMetadata
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnLoadedMetadatagebeurtenis.
+title: "IGlobalEventHandlers.OnLoadedMetadata"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnLoadedMetadata gebeurtenis. Haalt op of stelt de event handler in voor de OnLoadedMetadata gebeurtenis."
 type: docs
 weight: 220
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onloadedmetadata/
 ---
 ## IGlobalEventHandlers.OnLoadedMetadata event
 
-Haalt of stelt gebeurtenishandler in voor OnLoadedMetadata-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnLoadedMetadata event.
 
 ```csharp
 public event DOMEventHandler OnLoadedMetadata;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoadedMetadata;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

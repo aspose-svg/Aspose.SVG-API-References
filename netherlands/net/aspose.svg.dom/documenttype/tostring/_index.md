@@ -1,27 +1,25 @@
 ---
-title: DocumentType.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentType methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "DocumentType.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentType ToString method. Retourneert een String die deze instantie weergeeft"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.dom/documenttype/tostring/
 ---
 ## DocumentType.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [DocumentType](../)
-* naamruimte [Aspose.Svg.Dom](../../documenttype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

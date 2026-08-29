@@ -1,14 +1,14 @@
 ---
-title: UnitType.Rem
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is relatief ten opzichte van lettergrootte van het hoofdelement.
+title: "UnitType.Rem"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType Rem-veld. Meting is relatief ten opzichte van de font-size van het root-element"
 type: docs
 weight: 240
 url: /nl/net/aspose.svg.drawing/unittype/rem/
 ---
 ## UnitType.Rem field
 
-Meting is relatief ten opzichte van lettergrootte van het hoofdelement.
+Meting is relatief ten opzichte van de font-size van het root-element.
 
 ```csharp
 public static readonly UnitType Rem;
@@ -17,7 +17,5 @@ public static readonly UnitType Rem;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

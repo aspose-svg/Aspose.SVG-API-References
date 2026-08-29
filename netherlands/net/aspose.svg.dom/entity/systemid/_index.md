@@ -1,27 +1,25 @@
 ---
-title: Entity.SystemId
-second_title: Aspose.SVG voor .NET API-referentie
-description: Entity eigendom. De systeemID die aan de entiteit is gekoppeld indien gespecificeerd en anders null. Dit kan een absolute URI zijn of niet.
+title: "Entity.SystemId"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Entity SystemId property. De systeemidentifier die aan de entiteit is gekoppeld, indien gespecificeerd, anders null. Dit kan een absolute URI zijn of niet"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom/entity/systemid/
 ---
 ## Entity.SystemId property
 
-De systeem-ID die aan de entiteit is gekoppeld, indien gespecificeerd, en anders null. Dit kan een absolute URI zijn of niet.
+De systeemidentifier die aan de entiteit is gekoppeld indien gespecificeerd, anders null. Dit kan een absolute URI zijn of niet.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De systeem-ID.
+De systeemidentifier.
 
 ### Zie ook
 
 * class [Entity](../)
-* naamruimte [Aspose.Svg.Dom](../../entity/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

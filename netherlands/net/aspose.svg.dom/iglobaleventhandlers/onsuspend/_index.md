@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnSuspend
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt gebeurtenishandler op of stelt deze in voor OnSuspendgebeurtenis.
+title: "IGlobalEventHandlers.OnSuspend"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnSuspend‑evenement. Haalt op of stelt de gebeurtenishandler in voor het OnSuspend‑evenement"
 type: docs
 weight: 460
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onsuspend/
 ---
 ## IGlobalEventHandlers.OnSuspend event
 
-Haalt gebeurtenishandler op of stelt deze in voor OnSuspend-gebeurtenis.
+Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSuspend‑evenement.
 
 ```csharp
 public event DOMEventHandler OnSuspend;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSuspend;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

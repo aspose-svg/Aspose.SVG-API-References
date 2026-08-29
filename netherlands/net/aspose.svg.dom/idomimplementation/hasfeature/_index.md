@@ -1,27 +1,25 @@
 ---
-title: IDOMImplementation.HasFeature
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDOMImplementation methode. Test of de DOMimplementatie een specifieke functie en versie implementeert zoals gespecificeerd in DOMfuncties.
+title: "IDOMImplementation.HasFeature"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDOMImplementation HasFeature‑methode. Test of de DOM‑implementatie een specifieke functie en versie ondersteunt zoals gespecificeerd in DOM‑features."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom/idomimplementation/hasfeature/
 ---
 ## IDOMImplementation.HasFeature method
 
-Test of de DOM-implementatie een specifieke functie en versie implementeert, zoals gespecificeerd in DOM-functies.
+Test of de DOM‑implementatie een specifieke functie en versie implementeert, zoals gespecificeerd in DOM Features.
 
 ```csharp
 public bool HasFeature()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-`WAAR` als de opgegeven functie een functie heeft; anders,`vals` .
+`true` als de opgegeven functie aanwezig is; anders `false`.
 
 ### Zie ook
 
 * interface [IDOMImplementation](../)
-* naamruimte [Aspose.Svg.Dom](../../idomimplementation/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

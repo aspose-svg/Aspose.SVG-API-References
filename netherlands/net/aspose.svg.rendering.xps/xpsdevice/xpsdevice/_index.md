@@ -1,14 +1,14 @@
 ---
-title: XpsDevice.XpsDevice
-second_title: Aspose.SVG voor .NET API-referentie
-description: XpsDevice constructeur. Initialiseert een nieuw exemplaar van hetXpsDevice klasse.
+title: "XpsDevice"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "XpsDevice constructor. Initialiseert een nieuw exemplaar van de XpsDevice‑klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
-## XpsDevice(ICreateStreamProvider) {#constructor}
+## XpsDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`XpsDevice`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`XpsDevice`](../) klasse.
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -22,14 +22,14 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`XpsDevice`](../) klasse door weergaveopties en streamprovider.
+Initialiseert een nieuw exemplaar van de [`XpsDevice`](../) klasse met renderopties en streamprovider.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Weergave opties. |
-| streamProvider | ICreateStreamProvider | Object dat de[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) koppel |
+| options | XpsRenderingOptions | Renderopties. |
+| streamProvider | ICreateStreamProvider | Object dat de [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface implementeert |
 
 ### Zie ook
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(string) {#constructor_5}
+## XpsDevice(*string*) {#constructor_5}
 
-Initialiseert een nieuw exemplaar van het[`XpsDevice`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`XpsDevice`](../) klasse.
 
 ```csharp
 public XpsDevice(string file)
@@ -65,14 +65,14 @@ public XpsDevice(string file)
 ### Zie ook
 
 * class [XpsDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), string*) {#constructor_3}
 
-Initialiseert een nieuw exemplaar van het[`XpsDevice`](../) klasse door weergaveopties en uitvoerbestandsnaam.
+Initialiseert een nieuw exemplaar van de [`XpsDevice`](../) klasse met renderopties en outputbestandsnaam.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Weergave opties. |
+| options | XpsRenderingOptions | Renderopties. |
 | file | String | De naam van het uitvoerbestand. |
 
 ### Zie ook
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(Stream) {#constructor_4}
+## XpsDevice(*Stream*) {#constructor_4}
 
-Initialiseert een nieuw exemplaar van het[`XpsDevice`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`XpsDevice`](../) klasse.
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -102,19 +102,19 @@ public XpsDevice(Stream stream)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| stream | Stream | De stroom. |
+| stream | Stream | De stream. |
 
 ### Zie ook
 
 * class [XpsDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
+## XpsDevice(*[XpsRenderingOptions](../../xpsrenderingoptions/), Stream*) {#constructor_2}
 
-Initialiseert een nieuw exemplaar van het[`XpsDevice`](../) klasse door opties en uitvoerstroom weer te geven.
+Initialiseert een nieuw exemplaar van de [`XpsDevice`](../) klasse met renderopties en outputstream.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -122,14 +122,12 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Weergave opties. |
+| options | XpsRenderingOptions | Renderopties. |
 | stream | Stream | De uitvoerstroom. |
 
 ### Zie ook
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

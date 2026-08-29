@@ -1,7 +1,7 @@
 ---
-title: IDevice.DrawImage
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDevice methode. Tekent de opgegeven afbeelding.
+title: "IDevice.DrawImage"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDevice DrawImage methode. Tekent de opgegeven afbeelding"
 type: docs
 weight: 100
 url: /nl/net/aspose.svg.rendering/idevice/drawimage/
@@ -11,20 +11,18 @@ url: /nl/net/aspose.svg.rendering/idevice/drawimage/
 Tekent de opgegeven afbeelding.
 
 ```csharp
-public void DrawImage(byte[] data, ImageType type, RectangleF rect)
+public void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| data | Byte[] | Een reeks bytes die de afbeelding vertegenwoordigen. |
-| type | ImageType | Beeldtype. |
+| data | Byte[] | Een array van bytes die de afbeelding vertegenwoordigt. |
+| imageFormat | WebImageFormat | Afbeeldingsformaat. |
 | rect | RectangleF | Een rechthoek die de positie en grootte bepaalt om te tekenen. |
 
 ### Zie ook
 
-* enum [ImageType](../../imagetype/)
+* enum [WebImageFormat](../../../aspose.svg.drawing/webimageformat/)
 * interface [IDevice](../)
-* naamruimte [Aspose.Svg.Rendering](../../idevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

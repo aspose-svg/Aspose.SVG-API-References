@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicAbs
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathElement methode. Retourneert een zelfstandig ouderloos SVGPathSegCurvetoCubicAbsobject.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicAbs"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicAbs methode. Retourneert een zelfstandige, ouderloze SVGPathSegCurvetoCubicAbs object"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicAbs method
 
-Retourneert een zelfstandig, ouderloos SVGPathSegCurvetoCubicAbs-object.
+Retourneert een zelfstandige, ouderloze SVGPathSegCurvetoCubicAbs object.
 
 ```csharp
 public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float y, float x1, 
@@ -24,15 +24,13 @@ public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float 
 | x2 | Single | De absolute X-coördinaat voor het tweede controlepunt. |
 | y2 | Single | De absolute Y-coördinaat voor het tweede controlepunt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een zelfstandig, ouderloos SVGPathSegCurvetoCubicAbs-object.
+Een zelfstandige, ouderloze SVGPathSegCurvetoCubicAbs object.
 
 ### Zie ook
 
 * class [SVGPathSegCurvetoCubicAbs](../../../aspose.svg.paths/svgpathsegcurvetocubicabs/)
 * class [SVGPathElement](../)
-* naamruimte [Aspose.Svg](../../svgpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

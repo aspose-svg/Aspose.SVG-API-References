@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.CSS_GRAD
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSPrimitiveValue veld. De waarde is een hoek gradiënt. De waarde kan worden verkregen met behulp van de methode getFloatValue.
+title: "CSSPrimitiveValue.CSS_GRAD"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSPrimitiveValue CSS_GRAD veld. De waarde is een hoek in graden. De waarde kan worden verkregen door de getFloatValue-methode te gebruiken."
 type: docs
-weight: 220
+weight: 230
 url: /nl/net/aspose.svg.dom.css/cssprimitivevalue/css_grad/
 ---
 ## CSSPrimitiveValue.CSS_GRAD field
 
-De waarde is een hoek (gradiënt). De waarde kan worden verkregen met behulp van de methode getFloatValue.
+De waarde is een hoek (grad). De waarde kan worden verkregen met de methode getFloatValue.
 
 ```csharp
 public const ushort CSS_GRAD;
@@ -17,7 +17,5 @@ public const ushort CSS_GRAD;
 ### Zie ook
 
 * class [CSSPrimitiveValue](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

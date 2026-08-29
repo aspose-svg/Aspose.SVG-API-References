@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedLengthList
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.DataTypes.SVGAnimatedLengthList klas. Wordt gebruikt voor kenmerken van het type SVGLengthList die kunnen worden geanimeerd.
+title: "SVGAnimatedLengthList Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.DataTypes.SVGAnimatedLengthList klasse. Gebruikt voor attributen van het type SVGLengthList die geanimeerd kunnen worden."
 type: docs
-weight: 140
+weight: 2130
 url: /nl/net/aspose.svg.datatypes/svganimatedlengthlist/
 ---
 ## SVGAnimatedLengthList class
 
-Wordt gebruikt voor kenmerken van het type SVGLengthList die kunnen worden geanimeerd.
+Gebruikt voor attributen van het type SVGLengthList die geanimeerd kunnen worden.
 
 ```csharp
 public class SVGAnimatedLengthList : SVGAnimatedValue<SVGLengthList>
@@ -21,19 +21,17 @@ public class SVGAnimatedLengthList : SVGAnimatedValue<SVGLengthList>
 | virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Geeft onbeheerde en - optioneel - beheerde bronnen vrij. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedlengthlist/tostring/)() | Geeft als resultaat eenString die deze instantie vertegenwoordigt. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Vrijgeeft niet‑beheerde en - optioneel - beheerde bronnen. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedlengthlist/tostring/)() | Retourneert een String die deze instantie vertegenwoordigt. |
 
 ### Zie ook
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGLengthList](../svglengthlist/)
-* naamruimte [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

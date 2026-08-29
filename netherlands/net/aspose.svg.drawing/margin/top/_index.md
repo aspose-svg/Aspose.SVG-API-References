@@ -1,28 +1,26 @@
 ---
-title: Margin.Top
-second_title: Aspose.SVG voor .NET API-referentie
-description: Margin eigendom. Krijgt of zet de top.
+title: "Margin.Top"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Margin Top eigenschap. Haalt of stelt de bovenkant in."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.drawing/margin/top/
 ---
 ## Margin.Top property
 
-Krijgt of zet de top.
+Haalt op of stelt de bovenkant in.
 
 ```csharp
 public LengthOrAuto Top { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De top.
+De bovenkant.
 
 ### Zie ook
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* naamruimte [Aspose.Svg.Drawing](../../margin/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

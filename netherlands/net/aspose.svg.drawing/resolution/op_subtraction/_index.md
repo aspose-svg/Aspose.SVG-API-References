@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Subtraction
-second_title: Aspose.SVG voor .NET API-referentie
-description: Resolution methode. Implementeert de operator .
+title: "Resolution.op_Subtraction"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Resolution op_Subtraction-methode. Implementeert de operator -"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.drawing/resolution/op_subtraction/
@@ -19,21 +19,19 @@ public static Resolution operator -(Resolution a, Resolution b)
 | a | Resolution | De parameter a. |
 | b | Resolution | De parameter b. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | Argumenten zijn nul |
+| ArgumentNullException | Argumenten zijn null |
 | ArgumentException | Argumenten hebben verschillende typen of Argumenten hebben verschillende resoluties of |
 
 ### Zie ook
 
 * class [Resolution](../)
-* naamruimte [Aspose.Svg.Drawing](../../resolution/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IDocumentTraversal.CreateTreeWalker
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDocumentTraversal methode. Maak een nieuwe TreeWalker over de subboom die is geroot op het gespecificeerde knooppunt.
+title: "IDocumentTraversal.CreateTreeWalker"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDocumentTraversal CreateTreeWalker-methode. Maak een nieuwe TreeWalker over de subboom die is geworteld bij de opgegeven node"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.traversal/idocumenttraversal/createtreewalker/
 ---
-## CreateTreeWalker(Node) {#createtreewalker}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/)*) {#createtreewalker}
 
-Maak een nieuwe TreeWalker over de subboom die is geroot op het gespecificeerde knooppunt.
+Maak een nieuwe TreeWalker over de subboom die is geworteld bij de opgegeven knoop.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
@@ -16,25 +16,25 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| root | Node | node die zal dienen als de root voor the TreeWalker. De vlaggen whatToShow en de NodeFilter worden niet in aanmerking genomen bij het instellen van deze waarde; elk knooppunttype wordt geaccepteerd als de root. De currentNode van de TreeWalker is geïnitialiseerd op deze node, of deze nu zichtbaar is of niet. De root functioneert als een stoppunt voor traversal methoden die omhoog kijken in de documentstructuur, zoals parentNode en nextNode. De root mag niet null zijn. |
+| root | Node | knoop die dient als de wortel voor de TreeWalker. De whatToShow‑vlaggen en de NodeFilter worden niet in aanmerking genomen bij het instellen van deze waarde; elk knooptype wordt geaccepteerd als wortel. De currentNode van de TreeWalker wordt op deze knoop geïnitialiseerd, ongeacht of deze zichtbaar is. De wortel fungeert als een stoppunt voor traversalmethoden die omhoog kijken in de documentstructuur, zoals parentNode en nextNode. De wortel mag niet null zijn. |
 
-### Winstwaarde
+### Retourwaarde
 
-De nieuw gecreëerde TreeWalker.
+De nieuw aangemaakte TreeWalker.
 
 ### Zie ook
 
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* naamruimte [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long) {#createtreewalker_1}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long*) {#createtreewalker_1}
 
-Maak een nieuwe TreeWalker over de subboom die is geroot op het gespecificeerde knooppunt.
+Maak een nieuwe TreeWalker over de subboom die is geworteld bij de opgegeven knoop.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
@@ -42,26 +42,26 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| root | Node | node die zal dienen als de root voor the TreeWalker. De vlaggen whatToShow en de NodeFilter worden niet in aanmerking genomen bij het instellen van deze waarde; elk knooppunttype wordt geaccepteerd als de root. De currentNode van de TreeWalker is geïnitialiseerd op deze node, of deze nu zichtbaar is of niet. De root functioneert als een stoppunt voor traversal methoden die omhoog kijken in de documentstructuur, zoals parentNode en nextNode. De root mag niet null zijn. |
-| whatToShow | Int64 | vlag specificeert welke knooppunttypes mogen verschijnen in de logische weergave van de boom gepresenteerd door de boomloper. Zie de beschrijving van NodeFilter voor de set van mogelijke SHOW_-waarden. Deze vlaggen kunnen worden gecombineerd met OR. |
+| root | Node | knoop die dient als de wortel voor de TreeWalker. De whatToShow‑vlaggen en de NodeFilter worden niet in aanmerking genomen bij het instellen van deze waarde; elk knooptype wordt geaccepteerd als wortel. De currentNode van de TreeWalker wordt op deze knoop geïnitialiseerd, ongeacht of deze zichtbaar is. De wortel fungeert als een stoppunt voor traversalmethoden die omhoog kijken in de documentstructuur, zoals parentNode en nextNode. De wortel mag niet null zijn. |
+| whatToShow | Int64 | vlag specificeert welke knooptypen kunnen verschijnen in de logische weergave van de boom die wordt gepresenteerd door de tree-walker. Zie de beschrijving van NodeFilter voor de set van mogelijke SHOW_-waarden. Deze vlaggen kunnen worden gecombineerd met OR. |
 
-### Winstwaarde
+### Retourwaarde
 
-De nieuw gecreëerde TreeWalker.
+De nieuw aangemaakte TreeWalker.
 
 ### Zie ook
 
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* naamruimte [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[Node](../../../aspose.svg.dom/node/), long, [INodeFilter](../../inodefilter/)*) {#createtreewalker_2}
 
-Maak een nieuwe TreeWalker over de subboom die is geroot op het gespecificeerde knooppunt.
+Maak een nieuwe TreeWalker over de subboom die is geworteld bij de opgegeven knoop.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
@@ -69,13 +69,13 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| root | Node | node die zal dienen als de root voor the TreeWalker. De vlaggen whatToShow en de NodeFilter worden niet in aanmerking genomen bij het instellen van deze waarde; elk knooppunttype wordt geaccepteerd als de root. De currentNode van de TreeWalker is geïnitialiseerd op deze node, of deze nu zichtbaar is of niet. De root functioneert als een stoppunt voor traversal methoden die omhoog kijken in de documentstructuur, zoals parentNode en nextNode. De root mag niet null zijn. |
-| whatToShow | Int64 | vlag specificeert welke knooppunttypes mogen verschijnen in de logische weergave van de boom gepresenteerd door de boomloper. Zie de beschrijving van NodeFilter voor de set van mogelijke SHOW_-waarden. Deze vlaggen kunnen worden gecombineerd met OR. |
-| filter | INodeFilter | NodeFilter te gebruiken met this TreeWalker, of null om aan te geven dat er geen filter is. |
+| root | Node | knoop die dient als de wortel voor de TreeWalker. De whatToShow‑vlaggen en de NodeFilter worden niet in aanmerking genomen bij het instellen van deze waarde; elk knooptype wordt geaccepteerd als wortel. De currentNode van de TreeWalker wordt op deze knoop geïnitialiseerd, ongeacht of deze zichtbaar is. De wortel fungeert als een stoppunt voor traversalmethoden die omhoog kijken in de documentstructuur, zoals parentNode en nextNode. De wortel mag niet null zijn. |
+| whatToShow | Int64 | vlag specificeert welke knooptypen kunnen verschijnen in de logische weergave van de boom die wordt gepresenteerd door de tree-walker. Zie de beschrijving van NodeFilter voor de set van mogelijke SHOW_-waarden. Deze vlaggen kunnen worden gecombineerd met OR. |
+| filter | INodeFilter | NodeFilter die gebruikt wordt met deze TreeWalker, of null om aan te geven dat er geen filter is. |
 
-### Winstwaarde
+### Retourwaarde
 
-De nieuw gecreëerde TreeWalker.
+De nieuw aangemaakte TreeWalker.
 
 ### Zie ook
 
@@ -83,7 +83,5 @@ De nieuw gecreëerde TreeWalker.
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* naamruimte [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

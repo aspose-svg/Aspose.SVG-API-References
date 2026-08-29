@@ -1,27 +1,25 @@
 ---
-title: Element.InnerHTML
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element eigendom. Retourneert een HTML of XMLfragment dat de inhoud van het element vertegenwoordigt. Kan worden ingesteld om de inhoud van het element te vervangen door knooppunten die zijn geparseerd uit de opgegeven tekenreeks.
+title: "Element.InnerHTML"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element InnerHTML eigenschap. Retourneert een fragment van HTML of XML dat de inhoud van het element weergeeft. Kan worden ingesteld om de inhoud van het element te vervangen door knooppunten die uit de opgegeven tekenreeks zijn geparseerd."
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.dom/element/innerhtml/
 ---
 ## Element.InnerHTML property
 
-Retourneert een HTML- of XML-fragment dat de inhoud van het element vertegenwoordigt. Kan worden ingesteld om de inhoud van het element te vervangen door knooppunten die zijn geparseerd uit de opgegeven tekenreeks.
+Retourneert een fragment van HTML of XML dat de inhoud van het element weergeeft. Kan worden ingesteld om de inhoud van het element te vervangen door knooppunten die uit de opgegeven tekenreeks zijn geparseerd.
 
 ```csharp
 public string InnerHTML { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De innerlijke HTML.
+De inner HTML.
 
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

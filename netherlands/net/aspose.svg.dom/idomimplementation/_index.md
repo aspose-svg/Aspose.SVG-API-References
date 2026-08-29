@@ -1,31 +1,29 @@
 ---
-title: Interface IDOMImplementation
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.IDOMImplementation koppel. De DOMImplementatieinterface biedt een aantal methoden voor het uitvoeren van bewerkingen die onafhankelijk zijn van een bepaalde instantie van het documentobjectmodel.
+title: "IDOMImplementation Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.IDOMImplementation‑interface. De DOMImplementation‑interface biedt een aantal methoden voor het uitvoeren van bewerkingen die onafhankelijk zijn van een specifieke instantie van het documentobjectmodel."
 type: docs
-weight: 1040
+weight: 3040
 url: /nl/net/aspose.svg.dom/idomimplementation/
 ---
 ## IDOMImplementation interface
 
-De DOMImplementatie-interface biedt een aantal methoden voor het uitvoeren van bewerkingen die onafhankelijk zijn van een bepaalde instantie van het documentobjectmodel.
+De DOMImplementation‑interface biedt een aantal methoden voor het uitvoeren van bewerkingen die onafhankelijk zijn van een specifieke instantie van het documentobjectmodel.
 
 ```csharp
 public interface IDOMImplementation
 ```
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument/)(string, string, DocumentType) | Creëert een DOM-documentobject van het gespecificeerde type met zijn documentelement. |
-| [CreateDocumentType](../../aspose.svg.dom/idomimplementation/createdocumenttype/)(string, string, string) | Maakt een leeg DocumentType-knooppunt. Entiteitsverklaringen en notaties worden niet beschikbaar gesteld. Entiteitsreferentie-uitbreidingen en standaardattribuuttoevoegingen komen niet voor. |
-| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument/)(string) | Retourneert een document, met een reeds opgebouwde basisboom inclusief een titelelement, tenzij het titelargument is weggelaten. |
-| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature/)() | Test of de DOM-implementatie een specifieke functie en versie implementeert, zoals gespecificeerd in DOM-functies. |
+| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument/)(*string, string, [DocumentType](../documenttype/)*) | Maakt een DOM‑Documentobject van het opgegeven type met zijn document‑element. |
+| [CreateDocumentType](../../aspose.svg.dom/idomimplementation/createdocumenttype/)(*string, string, string*) | Maakt een lege DocumentType‑knoop. Entiteit‑declaraties en notaties worden niet beschikbaar gesteld. Entiteit‑referentie‑expansies en standaard‑attribuut‑toevoegingen vinden niet plaats. |
+| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument/)(*string*) | Retourneert een document, met een basisboom die al is geconstrueerd inclusief een title‑element, tenzij het title‑argument is weggelaten. |
+| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature/)() | Test of de DOM‑implementatie een specifieke functie en versie implementeert, zoals gespecificeerd in DOM Features. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

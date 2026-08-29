@@ -1,28 +1,26 @@
 ---
-title: SVGImageElement.Width
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGImageElement eigendom. Komt overeen met attribuut width op het gegeven imageelement.
+title: "SVGImageElement.Width"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGImageElement Width eigenschap. Komt overeen met attribuut width op het opgegeven afbeeldingselement"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg/svgimageelement/width/
 ---
 ## SVGImageElement.Width property
 
-Komt overeen met attribuut 'width' op het gegeven 'image'-element.
+Komt overeen met attribuut ‘width’ op het opgegeven ‘image’-element.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Komt overeen met attribuut 'width' op het gegeven 'image'-element.
+Komt overeen met attribuut ‘width’ op het opgegeven ‘image’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGImageElement](../)
-* naamruimte [Aspose.Svg](../../svgimageelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

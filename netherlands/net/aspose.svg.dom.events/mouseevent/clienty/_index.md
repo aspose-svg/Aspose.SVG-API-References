@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ClientY
-second_title: Aspose.SVG voor .NET API-referentie
-description: MouseEvent eigendom. De verticale coördinaat waarop de gebeurtenis plaatsvond ten opzichte van de viewport die aan de gebeurtenis is gekoppeld.
+title: "MouseEvent.ClientY"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MouseEvent ClientY property. De verticale coördinaat waarop het evenement plaatsvond ten opzichte van de viewport die aan het evenement is gekoppeld."
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom.events/mouseevent/clienty/
 ---
 ## MouseEvent.ClientY property
 
-De verticale coördinaat waarop de gebeurtenis plaatsvond ten opzichte van de viewport die aan de gebeurtenis is gekoppeld.
+De verticale coördinaat waarop het evenement plaatsvond ten opzichte van de viewport die aan het evenement is gekoppeld.
 
 ```csharp
 public long ClientY { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De klant y.
+De client‑y.
 
 ### Zie ook
 
 * class [MouseEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../mouseevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

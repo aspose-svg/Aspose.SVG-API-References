@@ -1,27 +1,25 @@
 ---
-title: Color.GetLuminosity
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Retourneert een helderheid van de kleur.
+title: "Color.GetLuminosity"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color GetLuminosity-methode. Retourneert een luminositeit van de Color"
 type: docs
 weight: 340
 url: /nl/net/aspose.svg.drawing/color/getluminosity/
 ---
 ## Color.GetLuminosity method
 
-Retourneert een helderheid van de kleur.
+Retourneert een luminantie van de kleur.
 
 ```csharp
 public float GetLuminosity()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Een helderheid van de kleur.
+Een luminositeit van de Color.
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

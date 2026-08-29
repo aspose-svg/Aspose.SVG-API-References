@@ -1,27 +1,25 @@
 ---
-title: Url.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: Url methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "Url.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Url ToString-methode. Retourneert een String die dit exemplaar vertegenwoordigt."
 type: docs
 weight: 170
 url: /nl/net/aspose.svg/url/tostring/
 ---
 ## Url.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [Url](../)
-* naamruimte [Aspose.Svg](../../url/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IDevice.Flush
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDevice methode. Spoelt alle gegevens naar uitvoerstroom.
+title: "IDevice.Flush"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDevice Flush-methode. Flush alle gegevens naar de uitvoerstroom"
 type: docs
 weight: 160
 url: /nl/net/aspose.svg.rendering/idevice/flush/
 ---
 ## IDevice.Flush method
 
-Spoelt alle gegevens naar uitvoerstroom.
+Leegt alle gegevens naar de uitvoerstroom.
 
 ```csharp
 public void Flush()
@@ -17,7 +17,5 @@ public void Flush()
 ### Zie ook
 
 * interface [IDevice](../)
-* naamruimte [Aspose.Svg.Rendering](../../idevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

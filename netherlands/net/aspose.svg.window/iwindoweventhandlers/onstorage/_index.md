@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnStorage
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindowEventHandlers evenement. Krijgt of stelt gebeurtenishandler in
+title: "IWindowEventHandlers.OnStorage"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindowEventHandlers OnStorage-event. Haalt of stelt de eventhandler in."
 type: docs
 weight: 110
 url: /nl/net/aspose.svg.window/iwindoweventhandlers/onstorage/
 ---
 ## IWindowEventHandlers.OnStorage event
 
-Krijgt of stelt gebeurtenishandler in
+Haalt de event‑handler op of stelt deze in
 
 ```csharp
 public event DOMEventHandler OnStorage;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnStorage;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* naamruimte [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

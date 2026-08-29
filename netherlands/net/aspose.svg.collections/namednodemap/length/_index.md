@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.Length
-second_title: Aspose.SVG voor .NET API-referentie
-description: NamedNodeMap eigendom. Het aantal knooppunten op deze kaart.
+title: "NamedNodeMap.Length"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NamedNodeMap Length eigenschap. Het aantal knooppunten in deze map"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.collections/namednodemap/length/
 ---
 ## NamedNodeMap.Length property
 
-Het aantal knooppunten op deze kaart.
+Het aantal knooppunten in deze map.
 
 ```csharp
 public int Length { get; }
@@ -17,7 +17,5 @@ public int Length { get; }
 ### Zie ook
 
 * class [NamedNodeMap](../)
-* naamruimte [Aspose.Svg.Collections](../../namednodemap/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

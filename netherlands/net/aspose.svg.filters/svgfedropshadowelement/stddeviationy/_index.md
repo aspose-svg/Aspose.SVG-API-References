@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.StdDeviationY
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEDropShadowElement eigendom. Komt overeen met attribuut stdDeviation op het gegeven feDropShadow element. Bevat de Ycomponent mogelijk automatisch berekend van attribuut stdDeviation.
+title: "SVGFEDropShadowElement.StdDeviationY"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEDropShadowElement StdDeviationY eigenschap. Komt overeen met attribuut stdDeviation op het opgegeven feDropShadow element. Bevat de Y-component, mogelijk automatisch berekend, van attribuut stdDeviation"
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.filters/svgfedropshadowelement/stddeviationy/
 ---
 ## SVGFEDropShadowElement.StdDeviationY property
 
-Komt overeen met attribuut 'stdDeviation' op het gegeven 'feDropShadow' element. Bevat de Y-component (mogelijk automatisch berekend) van attribuut 'stdDeviation'.
+Komt overeen met attribuut ‘stdDeviation’ op het opgegeven ‘feDropShadow’-element. Bevat de Y-component (mogelijk automatisch berekend) van attribuut ‘stdDeviation’.
 
 ```csharp
 public SVGAnimatedNumber StdDeviationY { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'stdDeviationY' van het gegeven 'feDropShadow' element.
+Het attribuut ‘stdDeviationY’ van het opgegeven ‘feDropShadow’ element.
 
 ### Zie ook
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

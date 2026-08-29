@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.LineCap
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt de code in of haalt deze op die de vorm van de eindpunten specificeert voor elk open pad dat wordt omlijnd.
+title: "GraphicContext.LineCap"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext LineCap-eigenschap. Stelt in of haalt de code op die de vorm van de eindpunten specificeert voor elk open pad dat getekend wordt"
 type: docs
-weight: 70
+weight: 80
 url: /nl/net/aspose.svg.rendering/graphiccontext/linecap/
 ---
 ## GraphicContext.LineCap property
 
-Stelt de code in of haalt deze op die de vorm van de eindpunten specificeert voor elk open pad dat wordt omlijnd.
+Stelt de code in die de vorm van de eindpunten specificeert voor elk geopend pad dat wordt getekend, of haalt deze op.
 
 ```csharp
-public virtual LineCap LineCap { get; set; }
+public virtual StrokeLineCap LineCap { get; set; }
 ```
 
 ### Zie ook
 
+* enum [StrokeLineCap](../../../aspose.svg.drawing/strokelinecap/)
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

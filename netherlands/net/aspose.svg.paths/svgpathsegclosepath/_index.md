@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegClosePath
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Paths.SVGPathSegClosePath klas. De SVGPathSegClosePathinterface komt overeen met een closepath z padgegevenscommando.
+title: "SVGPathSegClosePath klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Paths.SVGPathSegClosePath klasse. De SVGPathSegClosePath interface komt overeen met een closepath z padgegevenscommando"
 type: docs
-weight: 2520
+weight: 4590
 url: /nl/net/aspose.svg.paths/svgpathsegclosepath/
 ---
 ## SVGPathSegClosePath class
 
-De SVGPathSegClosePath-interface komt overeen met een "closepath" (z) padgegevenscommando.
+De SVGPathSegClosePath-interface komt overeen met een "closepath" (z) pad‑dataopdracht.
 
 ```csharp
 public class SVGPathSegClosePath : SVGPathSeg
@@ -18,20 +18,18 @@ public class SVGPathSegClosePath : SVGPathSeg
 
 | Naam | Beschrijving |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Het type padsegment zoals gespecificeerd door een van de constanten die op deze interface zijn gedefinieerd. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Het type padsegment, gespecificeerd door de overeenkomstige opdrachtnaam van één teken. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Het type van het padsegment zoals gespecificeerd door een van de constanten die op deze interface zijn gedefinieerd. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Het type van het padsegment, gespecificeerd door de overeenkomstige één‑karakter commando‑naam. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Geeft onbeheerde en - optioneel - beheerde bronnen vrij. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Vrijgeeft niet‑beheerde en - optioneel - beheerde bronnen. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
 
 ### Zie ook
 
 * class [SVGPathSeg](../svgpathseg/)
-* naamruimte [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

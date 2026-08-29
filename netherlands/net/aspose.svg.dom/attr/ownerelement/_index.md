@@ -1,14 +1,14 @@
 ---
-title: Attr.OwnerElement
-second_title: Aspose.SVG voor .NET API-referentie
-description: Attr eigendom. Het elementknooppunt waaraan dit attribuut is gekoppeld of null als dit attribuut niet in gebruik is.
+title: "Attr.OwnerElement"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Attr OwnerElement‑eigenschap. Het Element‑knooppunt waaraan dit attribuut is gekoppeld, of null als dit attribuut niet in gebruik is."
 type: docs
-weight: 80
+weight: 70
 url: /nl/net/aspose.svg.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 
-Het elementknooppunt waaraan dit attribuut is gekoppeld of null als dit attribuut niet in gebruik is.
+Het Element-knooppunt waaraan dit attribuut is gekoppeld of null als dit attribuut niet in gebruik is.
 
 ```csharp
 public Element OwnerElement { get; }
@@ -18,7 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../element/)
 * class [Attr](../)
-* naamruimte [Aspose.Svg.Dom](../../attr/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.Evaluate
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document methode. Evalueert een XPathexpressietekenreeks en retourneert indien mogelijk een resultaat van het opgegeven type.
+title: "Document.Evaluate"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document Evaluate‑methode. Evalueert een XPath‑expressiestring en retourneert een resultaat van het opgegeven type indien mogelijk."
 type: docs
 weight: 950
 url: /nl/net/aspose.svg.dom/document/evaluate/
 ---
 ## Document.Evaluate method
 
-Evalueert een XPath-expressietekenreeks en retourneert indien mogelijk een resultaat van het opgegeven type.
+Evalueert een XPath-expressiestring en retourneert een resultaat van het opgegeven type indien mogelijk.
 
 ```csharp
 public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolver resolver, 
@@ -17,13 +17,13 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| expression | String | De tekenreeks voor de XPath-expressie die moet worden geparseerd en geëvalueerd. |
-| contextNode | Node | De context is het contextknooppunt voor de evaluatie van deze XPath-expressie. |
-| resolver | IXPathNSResolver | De resolver staat vertaling toe van alle prefixen, inclusief het xml -naamruimtevoorvoegsel, binnen de XPath-expressie in geschikte naamruimte-URI's. |
+| expression | String | De XPath‑expressiestring die geparseerd en geëvalueerd moet worden. |
+| contextNode | Node | De context is de contextknoop voor de evaluatie van deze XPath-expressie. |
+| resolver | IXPathNSResolver | De resolver staat vertaling van alle prefixes toe, inclusief de xml-namespaceprefix, binnen de XPath-expressie naar de juiste namespace-URI's. |
 | type | XPathResultType | Als een specifiek type is opgegeven, wordt het resultaat geretourneerd als het overeenkomstige type. |
 | result | Object | Het resultaat specificeert een specifiek resultaatobject dat door deze methode kan worden hergebruikt en geretourneerd. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de evaluatie van de XPath-expressie.
 
@@ -34,7 +34,5 @@ Het resultaat van de evaluatie van de XPath-expressie.
 * interface [IXPathNSResolver](../../../aspose.svg.dom.xpath/ixpathnsresolver/)
 * enum [XPathResultType](../../../aspose.svg.dom.xpath/xpathresulttype/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

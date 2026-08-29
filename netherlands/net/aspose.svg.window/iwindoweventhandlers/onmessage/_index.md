@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnMessage
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindowEventHandlers evenement. Krijgt of stelt gebeurtenishandler in
+title: "IWindowEventHandlers.OnMessage"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindowEventHandlers OnMessage event. Haalt de event handler op of stelt deze in"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.window/iwindoweventhandlers/onmessage/
 ---
 ## IWindowEventHandlers.OnMessage event
 
-Krijgt of stelt gebeurtenishandler in
+Haalt de event‑handler op of stelt deze in
 
 ```csharp
 public event DOMEventHandler OnMessage;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMessage;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* naamruimte [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

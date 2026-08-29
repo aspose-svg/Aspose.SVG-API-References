@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.Method
-second_title: Aspose.SVG voor .NET API-referentie
-description: RequestMessage eigendom. Haalt of stelt deHttpMethod .
+title: "RequestMessage.Method"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "RequestMessage Method eigenschap. Haalt op of stelt de HttpMethod in"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.net/requestmessage/method/
 ---
 ## RequestMessage.Method property
 
-Haalt of stelt de[`HttpMethod`](../../httpmethod/) .
+Haalt op of stelt de [`HttpMethod`](../../httpmethod/) in.
 
 ```csharp
 public HttpMethod Method { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De[`HttpMethod`](../../httpmethod/) .
+De [`HttpMethod`](../../httpmethod/).
 
 ### Zie ook
 
 * class [HttpMethod](../../httpmethod/)
 * class [RequestMessage](../)
-* naamruimte [Aspose.Svg.Net](../../requestmessage/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

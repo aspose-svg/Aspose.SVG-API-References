@@ -1,27 +1,25 @@
 ---
-title: SVGSVGElement.CurrentScale
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGSVGElement eigendom. Op een buitenste svgelement geeft dit attribuut de huidige schaalfactor aan ten opzichte van de initiële weergave om rekening te houden met vergrotings en panbewerkingen van de gebruiker zoals beschreven onder Vergroting en panning. DOMattributen currentScale en currentTranslate zijn gelijk aan de 2x3 matrix abcdef  currentScale 0 0 currentScale currentTranslate.x currentTranslate.y. Als vergroting is ingeschakeld dwz zoomAndPanmagnify dan is het effect alsof er een extra transformatie is geplaatst op het buitenste niveau van het SVGdocumentfragment dwz buiten het buitenste svgelement. Bij toegang op een svgelement dat geen buitenste svgelement is is het ongedefinieerd welk gedrag dit attribuut heeft.
+title: "SVGSVGElement.CurrentScale"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGSVGElement CurrentScale‑eigenschap. Op een buitenste svg‑element geeft dit attribuut de huidige schaalfactor weer ten opzichte van de initiële weergave, rekening houdend met gebruikersvergroting en pan‑operaties zoals beschreven onder Vergroting en pannen. DOM‑attributen currentScale en currentTranslate zijn gelijk aan de 2x3‑matrix a b c d e f  currentScale 0 0 currentScale currentTranslate.x currentTranslate.y. Als vergroting is ingeschakeld, d.w.z. zoomAndPanmagnify, is het effect alsof er een extra transformatie wordt geplaatst op het buitenste niveau van het SVG‑documentfragment, d.w.z. buiten het buitenste svg‑element. Wanneer dit wordt benaderd op een svg‑element dat geen buitenste svg‑element is, is het gedrag van dit attribuut ongedefinieerd."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svgsvgelement/currentscale/
 ---
 ## SVGSVGElement.CurrentScale property
 
-Op een buitenste svg-element geeft dit attribuut de huidige schaalfactor aan ten opzichte van de initiële weergave om rekening te houden met vergrotings- en panbewerkingen van de gebruiker, zoals beschreven onder Vergroting en panning. DOM-attributen currentScale en currentTranslate zijn gelijk aan de 2x3 matrix [abcdef] = [currentScale 0 0 currentScale currentTranslate.x currentTranslate.y]. Als "vergroting" is ingeschakeld (dwz zoomAndPan="magnify"), dan is het effect alsof er een extra transformatie is geplaatst op het buitenste niveau van het SVG-documentfragment (dwz buiten het buitenste svg-element). Bij toegang op een 'svg'-element dat geen buitenste svg-element is, is het ongedefinieerd welk gedrag dit attribuut heeft.
+Op een buitenste svg‑element geeft dit attribuut de huidige schaalfactor weer ten opzichte van de initiële weergave, rekening houdend met gebruikersvergroting en pan‑bewerkingen, zoals beschreven onder Vergroting en pannen. DOM‑attributen currentScale en currentTranslate zijn equivalent aan de 2x3‑matrix [a b c d e f] = [currentScale 0 0 currentScale currentTranslate.x currentTranslate.y]. Als \"magnification\" is ingeschakeld (d.w.z. zoomAndPan=\"magnify\"), dan is het effect alsof er een extra transformatie op het buitenste niveau van het SVG‑documentfragment is geplaatst (d.w.z. buiten het buitenste svg‑element). Wanneer dit wordt opgevraagd op een ‘svg’-element dat geen buitenste svg‑element is, is het gedrag van dit attribuut ongedefinieerd.
 
 ```csharp
 public float CurrentScale { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De huidige schaal.
 
 ### Zie ook
 
 * class [SVGSVGElement](../)
-* naamruimte [Aspose.Svg](../../svgsvgelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

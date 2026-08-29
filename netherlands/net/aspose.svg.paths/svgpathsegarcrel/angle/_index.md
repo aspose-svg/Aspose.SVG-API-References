@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegArcRel.Angle
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathSegArcRel eigendom. De rotatiehoek in graden voor de xas van de ellips ten opzichte van de xas van het gebruikerscoördinatensysteem.
+title: "SVGPathSegArcRel.Angle"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathSegArcRel Angle eigenschap. De rotatiehoek in graden voor de x-as van de ellips ten opzichte van de x-as van het gebruikerscoördinatensysteem"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.paths/svgpathsegarcrel/angle/
@@ -14,20 +14,18 @@ De rotatiehoek in graden voor de x-as van de ellips ten opzichte van de x-as van
 public float Angle { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De rotatiehoek
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Verhoogd bij een poging om de waarde van een alleen-lezen kenmerk te wijzigen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Opgevoerd bij een poging om de waarde van een alleen‑lezen attribuut te wijzigen. |
 
 ### Zie ook
 
 * class [SVGPathSegArcRel](../)
-* naamruimte [Aspose.Svg.Paths](../../svgpathsegarcrel/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

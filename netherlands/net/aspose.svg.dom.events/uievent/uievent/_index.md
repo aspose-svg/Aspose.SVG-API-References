@@ -1,14 +1,14 @@
 ---
-title: UIEvent.UIEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: UIEvent constructeur. Initialiseert een nieuw exemplaar van hetUIEvent klasse.
+title: "UIEvent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UIEvent-constructeur. Initialiseert een nieuw exemplaar van de UIEvent-klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.events/uievent/uievent/
 ---
-## UIEvent(string) {#constructor}
+## UIEvent(*string*) {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`UIEvent`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`UIEvent`](../) klasse.
 
 ```csharp
 public UIEvent(string type)
@@ -21,14 +21,14 @@ public UIEvent(string type)
 ### Zie ook
 
 * class [UIEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../uievent/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## UIEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## UIEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`UIEvent`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`UIEvent`](../) klasse.
 
 ```csharp
 public UIEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public UIEvent(string type, IDictionary<string, object> eventInitDict)
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
 | type | String | Het gebeurtenistype. |
-| eventInitDict | IDictionary`2 | De gebeurtenis initialiseert woordenboek. |
+| eventInitDict | IDictionary`2 | Het gebeurtenis‑initialisatie‑woordenboek. |
 
 ### Zie ook
 
 * class [UIEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../uievent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IParentNode.FirstElementChild
-second_title: Aspose.SVG voor .NET API-referentie
-description: IParentNode eigendom. Retourneert het eerste kind dat een element is en anders null.
+title: "IParentNode.FirstElementChild"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IParentNode FirstElementChild-eigenschap. Retourneert het eerste kind dat een element is en anders null"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom/iparentnode/firstelementchild/
@@ -14,15 +14,13 @@ Retourneert het eerste kind dat een element is, en anders null.
 public Element FirstElementChild { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het eerste element kind.
+Het eerste elementkind.
 
 ### Zie ook
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* naamruimte [Aspose.Svg.Dom](../../iparentnode/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

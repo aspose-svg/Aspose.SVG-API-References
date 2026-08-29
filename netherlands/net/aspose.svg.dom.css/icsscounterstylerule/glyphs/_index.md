@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Glyphs
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSCounterStyleRule eigendom. Krijgt de glyphs.
+title: "ICSSCounterStyleRule.Glyphs"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSCounterStyleRule Glyphs eigenschap. Haalt de glyphs op"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom.css/icsscounterstylerule/glyphs/
 ---
 ## ICSSCounterStyleRule.Glyphs property
 
-Krijgt de glyphs.
+Haalt de glyphs op.
 
 ```csharp
 public string Glyphs { get; }
@@ -17,7 +17,5 @@ public string Glyphs { get; }
 ### Zie ook
 
 * interface [ICSSCounterStyleRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.CreateSVGRect
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGSVGElement methode. Maakt een SVGRectobject buiten de documentstructuren. Het object wordt zo geïnitialiseerd dat alle waarden worden ingesteld op 0 gebruikerseenheden.
+title: "SVGSVGElement.CreateSVGRect"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGSVGElement CreateSVGRect-methode. Maakt een SVGRect‑object buiten enige documentbomen. Het object wordt geïnitialiseerd zodat alle waarden op 0 gebruikers‑eenheden zijn ingesteld."
 type: docs
 weight: 170
 url: /nl/net/aspose.svg/svgsvgelement/createsvgrect/
 ---
 ## SVGSVGElement.CreateSVGRect method
 
-Maakt een SVGRect-object buiten de documentstructuren. Het object wordt zo geïnitialiseerd dat alle waarden worden ingesteld op 0 gebruikerseenheden.
+Maakt een SVGRect‑object aan buiten enige documentbomen. Het object wordt geïnitialiseerd zodat alle waarden op 0 gebruikers‑eenheden worden gezet.
 
 ```csharp
 public SVGRect CreateSVGRect()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Een SVGRect-object.
+Een SVGRect‑object.
 
 ### Zie ook
 
 * class [SVGRect](../../../aspose.svg.datatypes/svgrect/)
 * class [SVGSVGElement](../)
-* naamruimte [Aspose.Svg](../../svgsvgelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

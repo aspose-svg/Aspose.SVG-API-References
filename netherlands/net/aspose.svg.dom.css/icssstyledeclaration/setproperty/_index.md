@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.SetProperty
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSStyleDeclaration methode. Wordt gebruikt om een eigenschapswaarde in te stellen met standaardprioriteit binnen dit declaratieblok. Standaardprioriteit is niet belangrijk dwz String.Empty
+title: "ICSSStyleDeclaration.SetProperty"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSStyleDeclaration SetProperty-methode. Gebruikt om een eigenschapswaarde in te stellen met de standaardprioriteit binnen dit declaratieblok. Standaardprioriteit is niet belangrijk, bijv. String.Empty."
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.dom.css/icssstyledeclaration/setproperty/
 ---
-## SetProperty(string, string) {#setproperty}
+## SetProperty(*string, string*) {#setproperty}
 
-Wordt gebruikt om een eigenschapswaarde in te stellen met standaardprioriteit binnen dit declaratieblok. Standaardprioriteit is niet "belangrijk", dwz String.Empty
+Gebruikt om een eigenschapswaarde in te stellen met de standaardprioriteit binnen dit declaratieblok. Standaardprioriteit is niet \"important\", d.w.z. String.Empty
 
 ```csharp
 public void SetProperty(string propertyName, string value)
@@ -16,20 +16,20 @@ public void SetProperty(string propertyName, string value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| propertyName | String | Naam van het pand. |
-| value | String | De waarde. |
+| propertyName | String | Naam van de eigenschap. |
+| waarde | String | De waarde. |
 
 ### Zie ook
 
 * interface [ICSSStyleDeclaration](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetProperty(string, string, string) {#setproperty_1}
+## SetProperty(*string, string, string*) {#setproperty_1}
 
-Wordt gebruikt om een eigenschapswaarde en prioriteit in te stellen binnen dit declaratieblok.
+Gebruikt om een eigenschapswaarde en prioriteit in te stellen binnen dit declaratieblok.
 
 ```csharp
 public void SetProperty(string propertyName, string value, string priority)
@@ -37,14 +37,12 @@ public void SetProperty(string propertyName, string value, string priority)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| propertyName | String | Naam van het pand. |
-| value | String | De waarde. |
-| priority | String | De prioriteit. |
+| propertyName | String | Naam van de eigenschap. |
+| waarde | String | De waarde. |
+| prioriteit | String | De prioriteit. |
 
 ### Zie ook
 
 * interface [ICSSStyleDeclaration](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

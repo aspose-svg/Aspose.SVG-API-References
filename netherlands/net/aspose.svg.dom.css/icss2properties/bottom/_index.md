@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Bottom
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de onderste eigenschapsdefinitie in CSS2.
+title: "ICSS2Properties.Bottom"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties Bottom eigenschap. Zie de definitie van de bottom eigenschap in CSS2"
 type: docs
 weight: 300
 url: /nl/net/aspose.svg.dom.css/icss2properties/bottom/
 ---
 ## ICSS2Properties.Bottom property
 
-Zie de onderste eigenschapsdefinitie in CSS2.
+Zie de bottom eigenschapdefinitie in CSS2.
 
 ```csharp
 public string Bottom { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-onderste eigenschap
+bottom eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

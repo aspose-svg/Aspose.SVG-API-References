@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.Result
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFECompositeElement eigendom. Komt overeen met attribuut result op het gegeven filterelement.
+title: "SVGFECompositeElement.Result"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFECompositeElement Result eigenschap. Komt overeen met attribuut result op het opgegeven filter element"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.filters/svgfecompositeelement/result/
 ---
 ## SVGFECompositeElement.Result property
 
-Komt overeen met attribuut 'result' op het gegeven 'filter'-element.
+Komt overeen met attribuut ‘result’ op het opgegeven ‘filter’-element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'result' van het gegeven 'filter' element.
+Het attribuut ‘result’ van het opgegeven ‘filter’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFECompositeElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGException.SVGException
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGException constructeur. Initialiseert een nieuw exemplaar van hetSVGException klasse.
+title: "SVGException"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGException constructor. Initialiseert een nieuw exemplaar van de SVGException-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-Initialiseert een nieuw exemplaar van het[`SVGException`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`SVGException`](../) klasse.
 
 ```csharp
 public SVGException(ushort code)
@@ -21,7 +21,5 @@ public SVGException(ushort code)
 ### Zie ook
 
 * class [SVGException](../)
-* naamruimte [Aspose.Svg](../../svgexception/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: DOMTokenList.Value
-second_title: Aspose.SVG voor .NET API-referentie
-description: DOMTokenList eigendom. Haalt de waarde van een overeenkomstig attribuut op of stelt deze in.
+title: "DOMTokenList.Value"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DOMTokenList Value-eigenschap. Haalt de waarde op of stelt deze in van een overeenkomstig attribuut"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.collections/domtokenlist/value/
@@ -14,14 +14,12 @@ Haalt de waarde van een overeenkomstig attribuut op of stelt deze in.
 public string Value { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De waarde van een overeenkomstig attribuut.
 
 ### Zie ook
 
 * class [DOMTokenList](../)
-* naamruimte [Aspose.Svg.Collections](../../domtokenlist/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

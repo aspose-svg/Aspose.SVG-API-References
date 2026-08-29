@@ -1,7 +1,7 @@
 ---
-title: UnitType.S
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is in seconden.
+title: "UnitType.S"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType S veld. Meting is in seconden"
 type: docs
 weight: 250
 url: /nl/net/aspose.svg.drawing/unittype/s/
@@ -17,7 +17,5 @@ public static readonly UnitType S;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

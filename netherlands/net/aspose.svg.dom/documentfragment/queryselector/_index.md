@@ -1,14 +1,14 @@
 ---
-title: DocumentFragment.QuerySelector
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentFragment methode. Retourneert het eerste element in het document dat overeenkomt met selector
+title: "DocumentFragment.QuerySelector"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentFragment QuerySelector methode. Retourneert het eerste Element in het document dat overeenkomt met de selector."
 type: docs
 weight: 120
 url: /nl/net/aspose.svg.dom/documentfragment/queryselector/
 ---
 ## DocumentFragment.QuerySelector method
 
-Retourneert het eerste element in het document dat overeenkomt met selector
+Retourneert het eerste Element in het document dat aan de selector voldoet
 
 ```csharp
 public Element QuerySelector(string selector)
@@ -16,17 +16,15 @@ public Element QuerySelector(string selector)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| selector | String | De kiezer. |
+| selector | String | De selector. |
 
-### Winstwaarde
+### Retourwaarde
 
-Het bijpassende element
+Het overeenkomende element
 
 ### Zie ook
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* naamruimte [Aspose.Svg.Dom](../../documentfragment/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathElement methode. Retourneert een zelfstandig ouderloos SVGPathSegCurvetoQuadraticSmoothRelobject.
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathElement CreateSVGPathSegCurvetoQuadraticSmoothRel methode. Retourneert een zelfstandige, ouderloze SVGPathSegCurvetoQuadraticSmoothRel object"
 type: docs
 weight: 130
 url: /nl/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel method
 
-Retourneert een zelfstandig, ouderloos SVGPathSegCurvetoQuadraticSmoothRel-object.
+Retourneert een zelfstandige, ouderloze SVGPathSegCurvetoQuadraticSmoothRel object.
 
 ```csharp
 public SVGPathSegCurvetoQuadraticSmoothRel CreateSVGPathSegCurvetoQuadraticSmoothRel(float x, 
@@ -17,18 +17,16 @@ public SVGPathSegCurvetoQuadraticSmoothRel CreateSVGPathSegCurvetoQuadraticSmoot
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| x | Single | De relatieve X-coördinaat voor het eindpunt van dit padsegment. |
-| y | Single | De relatieve Y-coördinaat voor het eindpunt van dit padsegment. |
+| x | Single | De relatieve X‑coördinaat voor het eindpunt van dit padsegment. |
+| y | Single | De relatieve Y‑coördinaat voor het eindpunt van dit padsegment. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een zelfstandig, ouderloos SVGPathSegCurvetoQuadraticSmoothRel-object.
+Een zelfstandige, ouderloze SVGPathSegCurvetoQuadraticSmoothRel object.
 
 ### Zie ook
 
 * class [SVGPathSegCurvetoQuadraticSmoothRel](../../../aspose.svg.paths/svgpathsegcurvetoquadraticsmoothrel/)
 * class [SVGPathElement](../)
-* naamruimte [Aspose.Svg](../../svgpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

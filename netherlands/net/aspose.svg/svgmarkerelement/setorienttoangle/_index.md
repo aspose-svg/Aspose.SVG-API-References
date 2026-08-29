@@ -1,14 +1,14 @@
 ---
-title: SVGMarkerElement.SetOrientToAngle
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGMarkerElement methode. Stelt de waarde van attribuut orient in op de gegeven hoek.
+title: "SVGMarkerElement.SetOrientToAngle"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGMarkerElement SetOrientToAngle methode. Stelt de waarde van attribuut orient in op de opgegeven hoek"
 type: docs
 weight: 100
 url: /nl/net/aspose.svg/svgmarkerelement/setorienttoangle/
 ---
 ## SVGMarkerElement.SetOrientToAngle method
 
-Stelt de waarde van attribuut 'orient' in op de gegeven hoek.
+Stelt de waarde van het attribuut ‘orient’ in op de opgegeven hoek.
 
 ```csharp
 public void SetOrientToAngle(SVGAngle angle)
@@ -16,19 +16,17 @@ public void SetOrientToAngle(SVGAngle angle)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| angle | SVGAngle | De hoekwaarde die moet worden gebruikt voor attribuut 'orient'. |
+| angle | SVGAngle | De hoekwaarde te gebruiken voor attribuut ‘orient’. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Verhoogd bij een poging om de waarde van een alleen-lezen kenmerk te wijzigen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Opgevoerd bij een poging om de waarde van een alleen‑lezen attribuut te wijzigen. |
 
 ### Zie ook
 
 * class [SVGAngle](../../../aspose.svg.datatypes/svgangle/)
 * class [SVGMarkerElement](../)
-* naamruimte [Aspose.Svg](../../svgmarkerelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

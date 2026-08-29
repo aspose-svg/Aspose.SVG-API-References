@@ -1,14 +1,14 @@
 ---
-title: ImageRenderingOptions.Format
-second_title: Aspose.SVG voor .NET API-referentie
-description: ImageRenderingOptions eigendom. Zet of krijgtImageFormat . Standaard is deze eigenschapPng .
+title: "ImageRenderingOptions.Format"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ImageRenderingOptions Format eigenschap. Stelt ImageFormat in of haalt deze op. Standaard is deze eigenschap Png."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.rendering.image/imagerenderingoptions/format/
 ---
 ## ImageRenderingOptions.Format property
 
-Zet of krijgt[`ImageFormat`](../../imageformat/) . Standaard is deze eigenschapPng .
+Stelt [`ImageFormat`](../../imageformat/) in of haalt deze op. Standaard is deze eigenschap Png.
 
 ```csharp
 public ImageFormat Format { get; set; }
@@ -18,7 +18,5 @@ public ImageFormat Format { get; set; }
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

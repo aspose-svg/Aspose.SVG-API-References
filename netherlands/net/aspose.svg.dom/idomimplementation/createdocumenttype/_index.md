@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateDocumentType
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDOMImplementation methode. Maakt een leeg DocumentTypeknooppunt. Entiteitsverklaringen en notaties worden niet beschikbaar gesteld. Entiteitsreferentieuitbreidingen en standaardattribuuttoevoegingen komen niet voor.
+title: "IDOMImplementation.CreateDocumentType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDOMImplementation CreateDocumentType‑methode. Maakt een lege DocumentType‑node. Entiteit‑declaraties en notaties worden niet beschikbaar gemaakt. Expansies van entiteitsreferenties en toevoegingen van standaard‑attributen vinden niet plaats."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom/idomimplementation/createdocumenttype/
 ---
 ## IDOMImplementation.CreateDocumentType method
 
-Maakt een leeg DocumentType-knooppunt. Entiteitsverklaringen en notaties worden niet beschikbaar gesteld. Entiteitsreferentie-uitbreidingen en standaardattribuuttoevoegingen komen niet voor.
+Maakt een lege DocumentType‑knoop. Entiteit‑declaraties en notaties worden niet beschikbaar gesteld. Entiteit‑referentie‑expansies en standaard‑attribuut‑toevoegingen vinden niet plaats.
 
 ```csharp
 public DocumentType CreateDocumentType(string qualifiedName, string publicId, string systemId)
@@ -17,18 +17,16 @@ public DocumentType CreateDocumentType(string qualifiedName, string publicId, st
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
 | qualifiedName | String | Naam van de gekwalificeerde. |
-| publicId | String | Het openbare ID. |
-| systemId | String | Het systeem-ID. |
+| publicId | String | De openbare id. |
+| systemId | String | De systeem-id. |
 
-### Winstwaarde
+### Retourwaarde
 
-De[`DocumentType`](../../documenttype/).
+De [`DocumentType`](../../documenttype/).
 
 ### Zie ook
 
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* naamruimte [Aspose.Svg.Dom](../../idomimplementation/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

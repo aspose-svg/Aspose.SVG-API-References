@@ -1,24 +1,22 @@
 ---
-title: Aspose.Svg.Rendering.Pdf
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Rendering.Pdfnaamruimte biedt specifieke apparaatklasse en enkele weergaveopties klassen verantwoordelijk voor weergave naar een pdfdocument.
+title: "Aspose.Svg.Rendering.Pdf"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.Rendering.Pdf namespace biedt een specifieke device class evenals enkele rendering options classes die verantwoordelijk zijn voor het renderen naar een pdf-document."
 type: docs
-weight: 270
+weight: 290
 url: /nl/net/aspose.svg.rendering.pdf/
 ---
-De **Aspose.Svg.Rendering.Pdf**naamruimte biedt specifieke apparaatklasse en enkele weergaveopties klassen verantwoordelijk voor weergave naar een pdf-document.
+De **Aspose.Svg.Rendering.Pdf** namespace biedt een specifieke apparaatklasse evenals enkele renderoptieklassen die verantwoordelijk zijn voor het renderen naar een pdf‑document.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [PdfDevice](./pdfdevice/) | Vertegenwoordigt weergave naar een pdf-document. |
-| [PdfDocumentInfo](./pdfdocumentinfo/) | Vertegenwoordigt de informatie over het PDF-document. |
-| [PdfRenderingOptions](./pdfrenderingoptions/) | Vertegenwoordigt weergaveopties voor[`PdfDevice`](../aspose.svg.rendering.pdf/pdfdevice/) . |
-## Opsomming
+| [PdfDevice](./pdfdevice/) | Stelt het renderen naar een pdf-document voor. |
+| [PdfDocumentInfo](./pdfdocumentinfo/) | Stelt de informatie over het PDF-document voor. |
+| [PdfRenderingOptions](./pdfrenderingoptions/) | Stelt renderopties voor [`PdfDevice`](../aspose.svg.rendering.pdf/pdfdevice/) voor. |
+## Enumeratie
 
-| Opsomming | Beschrijving |
+| Enumeratie | Beschrijving |
 | --- | --- |
-| [FormFieldBehaviour](./formfieldbehaviour/) | Deze opsomming wordt gebruikt om het gedrag van formuliervelden in het PDF-uitvoerdocument te specificeren. |
-
-
+| [FormFieldBehaviour](./formfieldbehaviour/) | Deze enumeratie wordt gebruikt om het gedrag van formuliervelden in het gegenereerde PDF-document te specificeren. |

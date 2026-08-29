@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Equality
-second_title: Aspose.SVG voor .NET API-referentie
-description: Resolution methode. Implementeert de operator .
+title: "Resolution.op_Equality"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Resolution op_Equality-methode. Implementeert de operator"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.drawing/resolution/op_equality/
@@ -19,14 +19,12 @@ public static bool operator ==(Resolution a, Resolution b)
 | a | Resolution | De parameter a. |
 | b | Resolution | De parameter b. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Zie ook
 
 * class [Resolution](../)
-* naamruimte [Aspose.Svg.Drawing](../../resolution/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

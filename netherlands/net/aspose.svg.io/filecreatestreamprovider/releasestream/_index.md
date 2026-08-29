@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.ReleaseStream
-second_title: Aspose.SVG voor .NET API-referentie
-description: FileCreateStreamProvider methode. Geeft de stream vrij.
+title: "FileCreateStreamProvider.ReleaseStream"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "FileCreateStreamProvider ReleaseStream-methode. Vrijt de stream."
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.io/filecreatestreamprovider/releasestream/
@@ -16,12 +16,10 @@ public void ReleaseStream(Stream stream)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| stream | Stream | De stream wordt vrijgegeven. |
+| stream | Stream | De stream die wordt vrijgegeven. |
 
 ### Zie ook
 
 * class [FileCreateStreamProvider](../)
-* naamruimte [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

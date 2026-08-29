@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnChange
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnChangegebeurtenis.
+title: "IGlobalEventHandlers.OnChange"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnChange event. Haalt of stelt de eventhandler in voor OnChange event"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onchange/
 ---
 ## IGlobalEventHandlers.OnChange event
 
-Haalt of stelt gebeurtenishandler in voor OnChange-gebeurtenis.
+Haalt op of stelt de event‑handler in voor het OnChange‑event.
 
 ```csharp
 public event DOMEventHandler OnChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

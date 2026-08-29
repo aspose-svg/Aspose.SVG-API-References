@@ -1,27 +1,25 @@
 ---
-title: ITrueTypeFont.GetData
-second_title: Aspose.SVG voor .NET API-referentie
-description: ITrueTypeFont methode. Open de stream met lettertypegegevens. De beller is verantwoordelijk voor het verwijderen van de stream.
+title: "ITrueTypeFont.GetData"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ITrueTypeFont GetData‑methode. Opent de stream met de lettertype‑data. De aanroeper is verantwoordelijk voor het vrijgeven van de stream."
 type: docs
-weight: 60
+weight: 70
 url: /nl/net/aspose.svg.drawing/itruetypefont/getdata/
 ---
 ## ITrueTypeFont.GetData method
 
-Open de stream met lettertypegegevens. De beller is verantwoordelijk voor het verwijderen van de stream.
+Opent de stream met de lettertypegegevens. De aanroeper is verantwoordelijk voor het vrijgeven van de stream.
 
 ```csharp
 public Stream GetData()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Stream met de lettertypegegevens
+De stream met de lettertype‑data.
 
 ### Zie ook
 
 * interface [ITrueTypeFont](../)
-* naamruimte [Aspose.Svg.Drawing](../../itruetypefont/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

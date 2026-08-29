@@ -1,27 +1,25 @@
 ---
-title: Device2.LineTo
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Voegt een recht lijnstuk toe vanaf het huidige punt aan het punt pt. Het nieuwe huidige punt is pt.
+title: "Device-2.LineTo"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device LineTo-methode. Voegt een recht lijnsegment toe van het huidige punt naar het punt pt. Het nieuwe huidige punt is pt"
 type: docs
-weight: 180
+weight: 210
 url: /nl/net/aspose.svg.rendering/device-2/lineto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.LineTo method
+## Device<TGraphicContext,TRenderingOptions>.LineTo method
 
-Voegt een recht lijnstuk toe vanaf het huidige punt aan het punt (pt). Het nieuwe huidige punt is pt.
+Voegt een rechte lijnsegment toe vanaf het huidige punt naar het punt (pt). Het nieuwe huidige punt is pt.
 
 ```csharp
-public abstract void LineTo(PointF pt)
+public virtual void LineTo(PointF pt)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| pt | PointF | Punt waar de lijn naartoe moet worden gemaakt. |
+| pt | PointF | Punt waar de lijn naartoe moet worden getekend. |
 
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ICSSStyleRule.Style
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSStyleRule eigendom. Het declaratieblok van deze regelset.
+title: "ICSSStyleRule.Style"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSStyleRule Style eigenschap. Het declaratieblok van deze regelset."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.css/icssstylerule/style/
@@ -18,7 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSStyleRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssstylerule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

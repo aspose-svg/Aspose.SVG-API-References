@@ -1,14 +1,14 @@
 ---
-title: MimeType.op_Inequality
-second_title: Aspose.SVG voor .NET API-referentie
-description: MimeType methode. Vergelijkt twee Mimetypen en retourneert een booleaanse waarde die aangeeft of de twee overeenkomen.
+title: "MimeType.op_Inequality"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MimeType op_Inequality-methode. Vergelijkt twee MIME-types en retourneert een boolean die aangeeft of de twee overeenkomen"
 type: docs
 weight: 100
 url: /nl/net/aspose.svg/mimetype/op_inequality/
 ---
 ## MimeType Inequality operator
 
-Vergelijkt twee Mime-typen en retourneert een booleaanse waarde die aangeeft of de twee overeenkomen.
+Vergelijkt twee MIME-types en retourneert een boolean die aangeeft of de twee overeenkomen.
 
 ```csharp
 public static bool operator !=(MimeType a, MimeType b)
@@ -16,17 +16,15 @@ public static bool operator !=(MimeType a, MimeType b)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| a | MimeType | De eerste Mime om te vergelijken. |
-| b | MimeType | De tweede Mime om te vergelijken. |
+| a | MimeType | De eerste MIME om te vergelijken. |
+| b | MimeType | De tweede MIME om te vergelijken. |
 
-### Winstwaarde
+### Retourwaarde
 
-WAAR als beide prioriteiten niet gelijk zijn, andersvals .
+Waar als beide prioriteiten niet gelijk zijn, anders onwaar.
 
 ### Zie ook
 
 * class [MimeType](../)
-* naamruimte [Aspose.Svg](../../mimetype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

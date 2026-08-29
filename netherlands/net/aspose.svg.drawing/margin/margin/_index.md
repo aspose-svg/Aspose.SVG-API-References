@@ -1,14 +1,14 @@
 ---
-title: Margin.Margin
-second_title: Aspose.SVG voor .NET API-referentie
-description: Margin constructeur. Initialiseert een nieuw exemplaar van hetMargin klasse.
+title: "Margin"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Margin constructor. Initialiseert een nieuw exemplaar van de Margin-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`Margin`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`Margin`](../) klasse.
 
 ```csharp
 public Margin()
@@ -17,14 +17,14 @@ public Margin()
 ### Zie ook
 
 * class [Margin](../)
-* naamruimte [Aspose.Svg.Drawing](../../margin/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int) {#constructor_3}
+## Margin(*int*) {#constructor_3}
 
-Initialiseert een nieuw exemplaar van het[`Margin`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`Margin`](../) klasse.
 
 ```csharp
 public Margin(int anyMargin)
@@ -37,14 +37,14 @@ public Margin(int anyMargin)
 ### Zie ook
 
 * class [Margin](../)
-* naamruimte [Aspose.Svg.Drawing](../../margin/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length) {#constructor_1}
+## Margin(*[Length](../../length/)*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`Margin`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`Margin`](../) klasse.
 
 ```csharp
 public Margin(Length anyMargin)
@@ -58,14 +58,14 @@ public Margin(Length anyMargin)
 
 * class [Length](../../length/)
 * class [Margin](../)
-* naamruimte [Aspose.Svg.Drawing](../../margin/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int, int, int, int) {#constructor_4}
+## Margin(*int, int, int, int*) {#constructor_4}
 
-Initialiseert een nieuw exemplaar van het[`Margin`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`Margin`](../) klasse.
 
 ```csharp
 public Margin(int left, int top, int right, int bottom)
@@ -73,22 +73,22 @@ public Margin(int left, int top, int right, int bottom)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| left | Int32 | De linker maat. |
-| top | Int32 | De topmaat. |
-| right | Int32 | De goede maat. |
-| bottom | Int32 | De onderste maat. |
+| left | Int32 | De linkergrootte. |
+| top | Int32 | De bovenste grootte. |
+| rechts | Int32 | De rechtergrootte. |
+| bottom | Int32 | De ondergrootte. |
 
 ### Zie ook
 
 * class [Margin](../)
-* naamruimte [Aspose.Svg.Drawing](../../margin/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length, Length, Length, Length) {#constructor_2}
+## Margin(*[Length](../../length/), [Length](../../length/), [Length](../../length/), [Length](../../length/)*) {#constructor_2}
 
-Initialiseert een nieuw exemplaar van het[`Margin`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`Margin`](../) klasse.
 
 ```csharp
 public Margin(Length left, Length top, Length right, Length bottom)
@@ -96,16 +96,14 @@ public Margin(Length left, Length top, Length right, Length bottom)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| left | Length | De linker maat. |
-| top | Length | De topmaat. |
-| right | Length | De goede maat. |
-| bottom | Length | De onderste maat. |
+| left | Length | De linkergrootte. |
+| top | Length | De bovenste grootte. |
+| rechts | Length | De rechtergrootte. |
+| bottom | Length | De ondergrootte. |
 
 ### Zie ook
 
 * class [Length](../../length/)
 * class [Margin](../)
-* naamruimte [Aspose.Svg.Drawing](../../margin/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

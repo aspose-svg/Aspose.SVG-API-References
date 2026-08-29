@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.FirstElementChild
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentFragment eigendom. Retourneert het eerste onderliggende elementknooppunt van dit element. null als dit element geen onderliggende elementen heeft.
+title: "DocumentFragment.FirstElementChild"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentFragment FirstElementChild eigenschap. Retourneert het eerste kind-elementknooppunt van dit element. null als dit element geen kindelementen heeft."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom/documentfragment/firstelementchild/
 ---
 ## DocumentFragment.FirstElementChild property
 
-Retourneert het eerste onderliggende elementknooppunt van dit element. null als dit element geen onderliggende elementen heeft.
+Geeft het eerste kind‑elementknooppunt van dit element terug. null als dit element geen kind‑elementen heeft.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het eerste element kind.
+Het eerste elementkind.
 
 ### Zie ook
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* naamruimte [Aspose.Svg.Dom](../../documentfragment/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

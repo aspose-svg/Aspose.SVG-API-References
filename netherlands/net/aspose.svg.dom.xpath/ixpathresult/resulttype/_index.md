@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.ResultType
-second_title: Aspose.SVG voor .NET API-referentie
-description: IXPathResult eigendom. Een code die het type resultaat vertegenwoordigt zoals gedefinieerd door de http//www.w3.org/TR/DOMLevel3XPath/xpath.htmlXPathResult XPathResultType opsomming.
+title: "IXPathResult.ResultType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IXPathResult ResultType property. Een code die het type van dit resultaat weergeeft zoals gedefinieerd door de http//www.w3.org/TR/DOM-Level-3-XPath/xpath.htmlXPathResult XPathResultType enum"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom.xpath/ixpathresult/resulttype/
 ---
 ## IXPathResult.ResultType property
 
-Een code die het type resultaat vertegenwoordigt, zoals gedefinieerd door de http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype/) opsomming.
+Een code die het type van dit resultaat weergeeft, zoals gedefinieerd door de http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype/) enum.
 
 ```csharp
 public XPathResultType ResultType { get; }
@@ -18,7 +18,5 @@ public XPathResultType ResultType { get; }
 
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathResult](../)
-* naamruimte [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

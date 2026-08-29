@@ -1,27 +1,25 @@
 ---
-title: ITrueTypeFont.SubFamilyName
-second_title: Aspose.SVG voor .NET API-referentie
-description: ITrueTypeFont eigendom. De Font Subfamilynaam onderscheidt het font in een groep met dezelfde Font Familynaam. Aangenomen wordt dat dit betrekking heeft op stijl cursief schuin en gewicht licht vet zwart enz.. Een lettertype zonder bijzondere verschillen in gewicht of stijl bijv. gemiddeld gewicht niet cursief en fsSelection bit 6 ingesteld moet de tekenreeks Normaal op deze positie hebben opgeslagen.
+title: "ITrueTypeFont.SubFamilyName"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ITrueTypeFont SubFamilyName-eigenschap. De subfamilienaam onderscheidt het lettertype in een groep met dezelfde familienaam. Dit wordt verondersteld om stijl, cursief, schuin en gewicht licht, vet, zwart enz. aan te duiden. Een lettertype zonder specifieke verschillen in gewicht of stijl moet de tekenreeks Regular hebben."
 type: docs
-weight: 40
+weight: 50
 url: /nl/net/aspose.svg.drawing/itruetypefont/subfamilyname/
 ---
 ## ITrueTypeFont.SubFamilyName property
 
-De Font Subfamily-naam onderscheidt het font in een groep met dezelfde Font Family-naam. Aangenomen wordt dat dit betrekking heeft op stijl (cursief, schuin) en gewicht (licht, vet, zwart, enz.). Een lettertype zonder bijzondere verschillen in gewicht of stijl (bijv. gemiddeld gewicht, niet cursief en fsSelection bit 6 ingesteld) moet de tekenreeks "Normaal" op deze positie hebben opgeslagen.
+De subfamilienaam onderscheidt het lettertype in een groep met dezelfde familienaam. Dit wordt verondersteld om stijl (cursief, schuin) en gewicht (licht, vet, zwart, enz.) aan te duiden. Een lettertype zonder specifieke verschillen in gewicht of stijl moet de tekenreeks "Regular" hebben.
 
 ```csharp
 public string SubFamilyName { get; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Subfamilienaam van lettertype
+De subfamilienaam van het lettertype.
 
 ### Zie ook
 
 * interface [ITrueTypeFont](../)
-* naamruimte [Aspose.Svg.Drawing](../../itruetypefont/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

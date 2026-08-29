@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.Item
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGListBase eigendom. Retourneert het geïndexeerde item in de lijst.
+title: "SVGListBase-1.Item"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGListBase Item-eigenschap. Retourneert het item op de opgegeven index in de lijst."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.collections/svglistbase-1/item/
 ---
-## SVGListBase&lt;T&gt; indexer
+## SVGListBase<T> indexer
 
-Retourneert het geïndexeerde item in de lijst.
+Retourneert het index‑de item in de lijst.
 
 ```csharp
 public T this[ulong index] { get; set; }
@@ -16,27 +16,25 @@ public T this[ulong index] { get; set; }
 
 | Parameter | Beschrijving |
 | --- | --- |
-| index | Indexeren in de lijst. |
+| index | Index in de lijst. |
 
-### Winstwaarde
+### Retourwaarde
 
-Het opgeslagen object op de indexste positie in de lijst.
+Het opgeslagen object op de opgegeven indexpositie in de lijst.
 
-### Eigendoms-waarde
+### Property Value
 
-Het type item dat is opgeslagen in de lijst.
+Het type item dat in de lijst is opgeslagen.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Verhoogd wanneer de lijst niet kan worden gewijzigd. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Code[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Wordt verhoogd als het indexnummer groter is dan of gelijk is aan numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Wordt opgegooid wanneer de lijst niet kan worden gewijzigd. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Wordt opgegooid als het indexnummer groter dan of gelijk aan numberOfItems is. |
 
 ### Zie ook
 
 * class [SVGListBase&lt;T&gt;](../)
-* naamruimte [Aspose.Svg.Collections](../../svglistbase-1/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

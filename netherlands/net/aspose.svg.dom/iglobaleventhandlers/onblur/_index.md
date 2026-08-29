@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnBlur
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnBlurgebeurtenis.
+title: "IGlobalEventHandlers.OnBlur"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnBlur event. Haalt of stelt de eventhandler in voor OnBlur event"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onblur/
 ---
 ## IGlobalEventHandlers.OnBlur event
 
-Haalt of stelt gebeurtenishandler in voor OnBlur-gebeurtenis.
+Haalt op of stelt de event‑handler in voor het OnBlur‑event.
 
 ```csharp
 public event DOMEventHandler OnBlur;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnBlur;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

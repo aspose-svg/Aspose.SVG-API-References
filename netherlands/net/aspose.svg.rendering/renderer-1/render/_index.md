@@ -1,167 +1,165 @@
 ---
-title: Renderer1.Render
-second_title: Aspose.SVG voor .NET API-referentie
-description: Renderer methode. Definieert methode voor renderenTDocument in opgegevenIDevice .
+title: "Renderer-1.Render"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Renderer Render-methode. Definieert een methode voor het renderen van TSource naar het opgegeven IDevice"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_3}
+## Render(*[IDevice](../../idevice/), TSource*) {#render_3}
 
-Definieert methode voor renderen!:TDocument in opgegeven[`IDevice`](../../idevice/) .
+Definieert een methode voor het renderen van *TSource* naar het opgegeven [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document)
+public void Render(IDevice device, TSource source)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| device | IDevice | Het uitvoerapparaat. |
-| document | TDocument | Het document. |
+| apparaat | IDevice | Het uitvoerapparaat. |
+| bron | TSource | De bron om te renderen. |
 
 ### Zie ook
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer-1/)
-* montage [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_5}
+## Render(*[IDevice](../../idevice/), TSource, TimeSpan*) {#render_5}
 
-Definieert methode voor renderen!:TDocument in opgegeven[`IDevice`](../../idevice/) .
+Definieert een methode voor het renderen van *TSource* naar het opgegeven [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document, TimeSpan timeout)
+public void Render(IDevice device, TSource source, TimeSpan timeout)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| device | IDevice | Het uitvoerapparaat. |
-| document | TDocument | Het document. |
-| timeout | TimeSpan | ATimeSpan dat staat voor het aantal milliseconden dat moet worden gewacht, of aTimeSpan dat staat voor -1 milliseconde om voor onbepaalde tijd te wachten. |
+| apparaat | IDevice | Het uitvoerapparaat. |
+| bron | TSource | De bron om te renderen. |
+| timeout | TimeSpan | Een TimeSpan die het aantal milliseconden vertegenwoordigt om te wachten, of een TimeSpan die -1 milliseconde vertegenwoordigt om onbeperkt te wachten. |
 
 ### Zie ook
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer-1/)
-* montage [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_4}
+## Render(*[IDevice](../../idevice/), TSource, int*) {#render_4}
 
-Definieert methode voor renderen!:TDocument in opgegeven[`IDevice`](../../idevice/) .
+Definieert een methode voor het renderen van *TSource* naar het opgegeven [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document, int timeout)
+public void Render(IDevice device, TSource source, int timeout)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| device | IDevice | Het uitvoerapparaat. |
-| document | TDocument | Het document. |
-| timeout | Int32 | Een aantal milliseconden dat staat voor het aantal milliseconden dat moet worden gewacht, of -1 milliseconde om voor onbepaalde tijd te wachten. |
+| apparaat | IDevice | Het uitvoerapparaat. |
+| bron | TSource | De bron om te renderen. |
+| timeout | Int32 | Een aantal milliseconden dat het aantal milliseconden vertegenwoordigt om te wachten, of -1 milliseconde om onbeperkt te wachten. |
 
 ### Zie ook
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer-1/)
-* montage [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_6}
+## Render(*[IDevice](../../idevice/), params TSource[]*) {#render_6}
 
-Definieert methode voor het renderen van meerdere!:TDocument s in specifiek[`IDevice`](../../idevice/) .
+Definieert een methode voor het renderen van meerdere *TSource*s naar een specifiek [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, params TDocument[] documents)
+public void Render(IDevice device, params TSource[] sources)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| device | IDevice | Het uitvoerapparaat. |
-| documents | TDocument[] | De te renderen documenten. |
+| apparaat | IDevice | Het uitvoerapparaat. |
+| bronnen | TSource[] | De bronnen om te renderen. |
 
 ### Zie ook
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer-1/)
-* montage [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, int, params TDocument[]) {#render}
+## Render(*[IDevice](../../idevice/), int, params TSource[]*) {#render}
 
-Definieert methode voor het renderen van meerdere!:TDocument s in specifiek[`IDevice`](../../idevice/) .
+Definieert een methode voor het renderen van meerdere *TSource*s naar een specifiek [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, int timeout, params TDocument[] documents)
+public void Render(IDevice device, int timeout, params TSource[] sources)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| device | IDevice | Het uitvoerapparaat. |
-| timeout | Int32 | Een aantal milliseconden dat staat voor het aantal milliseconden dat moet worden gewacht, of -1 milliseconde om voor onbepaalde tijd te wachten. |
-| documents | TDocument[] | De te renderen documenten. |
+| apparaat | IDevice | Het uitvoerapparaat. |
+| timeout | Int32 | Een aantal milliseconden dat het aantal milliseconden vertegenwoordigt om te wachten, of -1 milliseconde om onbeperkt te wachten. |
+| bronnen | TSource[] | De bronnen om te renderen. |
 
 ### Zie ook
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer-1/)
-* montage [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
+## Render(*[IDevice](../../idevice/), TimeSpan, params TSource[]*) {#render_2}
 
-Definieert methode voor het renderen van meerdere!:TDocument s in specifiek[`IDevice`](../../idevice/) .
+Definieert een methode voor het renderen van meerdere *TSource*s naar een specifiek [`IDevice`](../../idevice/).
 
 ```csharp
-public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
+public abstract void Render(IDevice device, TimeSpan timeout, params TSource[] sources)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| device | IDevice | Het uitvoerapparaat. |
-| timeout | TimeSpan | ATimeSpan dat staat voor het aantal milliseconden dat moet worden gewacht, of aTimeSpan dat staat voor -1 milliseconde om voor onbepaalde tijd te wachten. |
-| documents | TDocument[] | De te renderen documenten. |
+| apparaat | IDevice | Het uitvoerapparaat. |
+| timeout | TimeSpan | Een TimeSpan die het aantal milliseconden vertegenwoordigt om te wachten, of een TimeSpan die -1 milliseconde vertegenwoordigt om onbeperkt te wachten. |
+| bronnen | TSource[] | De bronnen om te renderen. |
 
 ### Zie ook
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer-1/)
-* montage [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+## Render(*[IDevice](../../idevice/), CancellationToken, params TSource[]*) {#render_1}
 
-Definieert een methode voor het renderen van meervouden!:TDocument s in een specifiek[`IDevice`](../../idevice/) , een annuleringstoken gebruiken om annulering van de bewerking aan te vragen.
+Definieert een methode voor het renderen van meerdere *TSource*s naar een specifiek [`IDevice`](../../idevice/), met behulp van een cancellation token om annulering van de bewerking aan te vragen.
 
 ```csharp
 public abstract void Render(IDevice device, CancellationToken cancellationToken, 
-    params TDocument[] documents)
+    params TSource[] sources)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| device | IDevice | Het uitvoerapparaat. |
-| cancellationToken | CancellationToken | ACancellationToken observeren terwijl u wacht tot de taak is voltooid. |
-| documents | TDocument[] | De te renderen documenten. |
+| apparaat | IDevice | Het uitvoerapparaat. |
+| cancellationToken | CancellationToken | Een CancellationToken om te observeren terwijl men wacht tot de taak is voltooid. |
+| bronnen | TSource[] | De bronnen om te renderen. |
 
 ### Zie ook
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer-1/)
-* montage [Aspose.SVG](../../../)
-
-
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

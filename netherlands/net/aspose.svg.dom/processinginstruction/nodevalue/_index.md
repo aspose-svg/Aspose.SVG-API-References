@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.NodeValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: ProcessingInstruction eigendom. De waarde van dit knooppunt afhankelijk van het type.
+title: "ProcessingInstruction.NodeValue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ProcessingInstruction NodeValue-eigenschap. De waarde van dit knooppunt afhankelijk van zijn type"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom/processinginstruction/nodevalue/
@@ -14,14 +14,12 @@ De waarde van dit knooppunt, afhankelijk van het type.
 public override string NodeValue { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De knooppuntwaarde.
 
 ### Zie ook
 
 * class [ProcessingInstruction](../)
-* naamruimte [Aspose.Svg.Dom](../../processinginstruction/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

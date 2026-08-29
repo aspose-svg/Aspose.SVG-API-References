@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Index
-second_title: Aspose.SVG voor .NET API-referentie
-description: GlyphInfo eigendom. Haalt de index van deze glyph op in het font.
+title: "GlyphInfo.Index"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GlyphInfo Index eigenschap. Haalt de index van dit glyph op in het lettertype"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering/glyphinfo/index/
 ---
 ## GlyphInfo.Index property
 
-Haalt de index van deze glyph op in het font.
+Haalt de index van dit glyph in het lettertype op.
 
 ```csharp
 public uint Index { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Index van de glyph.
+Index van het glyph.
 
 ### Zie ook
 
 * struct [GlyphInfo](../)
-* naamruimte [Aspose.Svg.Rendering](../../glyphinfo/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

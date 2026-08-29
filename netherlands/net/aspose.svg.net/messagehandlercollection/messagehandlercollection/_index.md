@@ -1,14 +1,14 @@
 ---
-title: MessageHandlerCollection.MessageHandlerCollection
-second_title: Aspose.SVG voor .NET API-referentie
-description: MessageHandlerCollection constructeur. De standaard constructeur.
+title: "MessageHandlerCollection"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MessageHandlerCollection constructor. De standaardconstructor"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net/messagehandlercollection/messagehandlercollection/
 ---
 ## MessageHandlerCollection constructor
 
-De standaard constructeur.
+De standaardconstructor.
 
 ```csharp
 public MessageHandlerCollection()
@@ -17,7 +17,5 @@ public MessageHandlerCollection()
 ### Zie ook
 
 * class [MessageHandlerCollection](../)
-* naamruimte [Aspose.Svg.Net](../../messagehandlercollection/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

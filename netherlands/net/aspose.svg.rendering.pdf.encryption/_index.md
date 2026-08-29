@@ -1,23 +1,21 @@
 ---
-title: Aspose.Svg.Rendering.Pdf.Encryption
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Rendering.Pdf.Encryption naamruimte bevat gegevensklassen die pdfcoderingsdetails beschrijven zoals wachtwoord coderingsalgoritme enzovoort.
+title: "Aspose.Svg.Rendering.Pdf.Encryption"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.Rendering.Pdf.Encryption‑namespace bevat dataklassen die pdf‑encryptiedetails beschrijven, zoals wachtwoord‑encryptie‑algoritme enzovoort."
 type: docs
-weight: 280
+weight: 300
 url: /nl/net/aspose.svg.rendering.pdf.encryption/
 ---
-De **Aspose.Svg.Rendering.Pdf.Encryption** naamruimte bevat gegevensklassen die pdf-coderingsdetails beschrijven, zoals wachtwoord, coderingsalgoritme enzovoort.
+De **Aspose.Svg.Rendering.Pdf.Encryption** namespace bevat dataklassen die pdf‑versleutelingsdetails beschrijven, zoals wachtwoord, versleutelingsalgoritme enzovoort.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [PdfEncryptionInfo](./pdfencryptioninfo/) | Bevat details voor een pdf-encryptie. |
-## Opsomming
+| [PdfEncryptionInfo](./pdfencryptioninfo/) | Bevat details voor een pdf‑encryptie. |
+## Enumeratie
 
-| Opsomming | Beschrijving |
+| Enumeratie | Beschrijving |
 | --- | --- |
-| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | Opsomming van versleutelingsmodus. Beschrijf met algoritme en sleutellengte. Deze opsomming is uitgebreid om de functionaliteit verder te kunnen vergroten. Deze opsomming implementeert het "Base-to-Core"-patroon. |
-| [PdfPermissions](./pdfpermissions/) | Deze opsomming vertegenwoordigt de machtigingen van de gebruiker voor een pdf. |
-
-
+| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | Encryptiemodus‑enum. Beschrijft het gebruik van algoritme en sleutellengte. Deze enum wordt uitgebreid om de functionaliteit verder te vergroten. Deze enum implementeert het \"Base-to-Core\"‑patroon. |
+| [PdfPermissions](./pdfpermissions/) | Deze enum vertegenwoordigt de gebruikersrechten voor een pdf. |

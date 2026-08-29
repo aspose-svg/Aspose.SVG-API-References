@@ -1,27 +1,25 @@
 ---
-title: NameValueHeaderValue.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: NameValueHeaderValue methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "NameValueHeaderValue.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NameValueHeaderValue ToString-methode. Retourneert een String die deze instantie vertegenwoordigt"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.net.headers/namevalueheadervalue/tostring/
 ---
 ## NameValueHeaderValue.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [NameValueHeaderValue](../)
-* naamruimte [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

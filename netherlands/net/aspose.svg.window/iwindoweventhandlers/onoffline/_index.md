@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnOffline
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindowEventHandlers evenement. Krijgt of stelt gebeurtenishandler in
+title: "IWindowEventHandlers.OnOffline"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindowEventHandlers OnOffline-event. Haalt of stelt de eventhandler in."
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.window/iwindoweventhandlers/onoffline/
 ---
 ## IWindowEventHandlers.OnOffline event
 
-Krijgt of stelt gebeurtenishandler in
+Haalt de event‑handler op of stelt deze in
 
 ```csharp
 public event DOMEventHandler OnOffline;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnOffline;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* naamruimte [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,57 +1,55 @@
 ---
-title: Class PdfDevice.PdfGraphicContext
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Pdf.PdfDevicePdfGraphicContext klas. Bevat huidige grafische besturingsparameters voor het PdfDevice. Deze parameters bepalen het globale raamwerk waarbinnen de grafische operators uitvoeren.
+title: "PdfDevice.PdfGraphicContext Class"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.Pdf.PdfDevicePdfGraphicContext class. Bevat de huidige grafische controle‑parameters voor de PdfDevice. Deze parameters definiëren het globale kader waarbinnen de grafische operatoren worden uitgevoerd"
 type: docs
-weight: 2960
+weight: 5030
 url: /nl/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext class
 
-Bevat huidige grafische besturingsparameters voor het PdfDevice. Deze parameters bepalen het globale raamwerk waarbinnen de grafische operators uitvoeren.
+Bevat de huidige grafische controle‑parameters voor de PdfDevice. Deze parameters definiëren het globale kader waarbinnen de grafische operatoren worden uitgevoerd.
 
 ```csharp
 public class PdfGraphicContext : GraphicContext
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [PdfGraphicContext](pdfgraphiccontext/)() | De standaard constructeur. |
+| [PdfGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/.ctor)() | De standaardconstructor. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Stelt tekenafstand in of haalt deze op. |
-| override [FillBrush](../../aspose.svg.rendering.pdf/pdfgraphiccontext/fillbrush/) { get; set; } | Stelt het penseelobject in of haalt het op dat wordt gebruikt om de binnenkant van paden te vullen. |
-| virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Stelt het True Type Font-object in of haalt het op dat wordt gebruikt voor het weergeven van tekst. |
-| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Stelt de lettergrootte in of haalt deze op. |
-| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle/) { get; set; } | Stelt tekstletterstijl in of haalt deze op. |
-| override [LineCap](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linecap/) { get; set; } | Stelt de code in of haalt deze op die de vorm van de eindpunten specificeert voor elk open pad dat wordt omlijnd. |
-| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Stelt de faseoffset van het huidige lijnstreeppatroon in of haalt deze op. |
-| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Stelt de beschrijving in van het streepjespatroon dat moet worden gebruikt wanneer paden worden omlijnd. |
-| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle/) { get; set; } | Sets van krijgen de stijl van stippellijnen van een omlijnd pad. |
-| override [LineJoin](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linejoin/) { get; set; } | Stelt de code in of haalt deze op die de vorm van verbindingen tussen verbonden segmenten van een gestreken pad specificeert. |
-| override [LineWidth](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linewidth/) { get; set; } | Stelt de dikte in van paden die moeten worden omlijnd. |
-| override [MiterLimit](../../aspose.svg.rendering.pdf/pdfgraphiccontext/miterlimit/) { get; set; } | Stelt de maximale lengte in van versteklijnverbindingen voor omlijnde paden of haalt deze op. Deze parameter beperkt de lengte van "spikes" die worden geproduceerd wanneer lijnsegmenten onder scherpe hoeken samenkomen. |
-| override [StrokeBrush](../../aspose.svg.rendering.pdf/pdfgraphiccontext/strokebrush/) { get; set; } | Stelt het penseelobject in of haalt het op dat wordt gebruikt voor omlijnde paden. |
-| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo/) { get; } | Krijgt een[`TextInfo`](../../aspose.svg.rendering/textinfo/) object dat informatie bevat over gerenderde tekst. |
-| override [TransformationMatrix](../../aspose.svg.rendering.pdf/pdfgraphiccontext/transformationmatrix/) { get; set; } | Stelt transformatiematrix in of haalt deze op. |
+| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Stelt de tekenafstand in of haalt deze op. |
+| [CurrentElement](../../aspose.svg.rendering/graphiccontext/currentelement/) { get; } | Haalt het momenteel verwerkte element op. |
+| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush/) { get; set; } | Stelt het penseelobject in dat wordt gebruikt om de binnenkanten van paden te vullen, of haalt het op. |
+| virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Stelt het TrueType‑lettertypeobject in dat wordt gebruikt voor het renderen van tekst, of haalt het op. |
+| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Stelt de tekstlettergrootte in of haalt deze op. |
+| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle/) { get; set; } | Stelt de tekstletterstijl in of haalt deze op. |
+| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap/) { get; set; } | Stelt de code in die de vorm van de eindpunten specificeert voor elk geopend pad dat wordt getekend, of haalt deze op. |
+| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Stelt de fase‑offset in van het huidige streepjes‑patroon van de lijn, of haalt deze op. |
+| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Stelt de beschrijving in van het streepjes‑patroon dat moet worden gebruikt wanneer paden worden getekend, of haalt deze op. Kan worden ingesteld op `null` of een lege array om uitgeschakeld te zijn. |
+| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin/) { get; set; } | Stelt de code in die de vorm van de verbindingen tussen verbonden segmenten van een getekend pad specificeert, of haalt deze op. |
+| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth/) { get; set; } | Stelt de dikte van paden in die getekend moeten worden, of haalt deze op. |
+| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit/) { get; set; } | Stelt de maximale lengte van afgeschuinde lijnverbindingen voor getekende paden in, of haalt deze op. Deze parameter beperkt de lengte van \"spikes\" die ontstaan wanneer lijnsegmenten bij scherpe hoeken samenkomen. |
+| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush/) { get; set; } | Stelt het penseelobject in dat wordt gebruikt voor getekende paden, of haalt dit op. |
+| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo/) { get; } | Haalt een [`TextInfo`](../../aspose.svg.rendering/textinfo/) object op dat informatie bevat over gerenderde tekst. |
+| virtual [TransformationMatrix](../../aspose.svg.rendering/graphiccontext/transformationmatrix/) { get; set; } | Stelt de transformatie‑matrix in, of haalt deze op. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| override [Clone](../../aspose.svg.rendering.pdf/pdfgraphiccontext/clone/)() | Maakt een nieuwe instantie van een klasse met dezelfde eigenschapswaarden als een bestaande instantie. |
-| override [Transform](../../aspose.svg.rendering.pdf/pdfgraphiccontext/transform/)(Matrix) | Pas de huidige transformatiematrix aan door de gespecificeerde matrix te vermenigvuldigen. |
+| virtual [Clone](../../aspose.svg.rendering/graphiccontext/clone/)() | Maakt een nieuw exemplaar van de GraphicContext‑klasse aan met dezelfde eigenschapswaarden als een bestaand exemplaar. |
+| virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform/)(*[IMatrix](../../aspose.svg.drawing/imatrix/)*) | Wijzig de huidige transformatie‑matrix door de opgegeven matrix te vermenigvuldigen. |
 
 ### Zie ook
 
 * class [GraphicContext](../../aspose.svg.rendering/graphiccontext/)
 * class [PdfDevice](../pdfdevice/)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

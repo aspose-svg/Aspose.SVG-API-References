@@ -1,7 +1,7 @@
 ---
-title: Element.Remove
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element methode. Verwijdert deze instantie.
+title: "Element.Remove"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element Remove-methode. Verwijdert deze instantie"
 type: docs
 weight: 360
 url: /nl/net/aspose.svg.dom/element/remove/
@@ -17,7 +17,5 @@ public void Remove()
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

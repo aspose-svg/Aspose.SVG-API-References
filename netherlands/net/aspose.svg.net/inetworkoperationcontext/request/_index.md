@@ -1,20 +1,20 @@
 ---
-title: INetworkOperationContext.Request
-second_title: Aspose.SVG voor .NET API-referentie
-description: INetworkOperationContext eigendom. Ontvangt of stelt het verzoekbericht in.
+title: "INetworkOperationContext.Request"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "INetworkOperationContext Request‑eigenschap. Haalt het verzoekbericht op of stelt het in"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net/inetworkoperationcontext/request/
 ---
 ## INetworkOperationContext.Request property
 
-Ontvangt of stelt het verzoekbericht in.
+Haalt op of stelt het verzoekbericht in.
 
 ```csharp
 public RequestMessage Request { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het verzoekbericht.
 
@@ -22,7 +22,5 @@ Het verzoekbericht.
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* naamruimte [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

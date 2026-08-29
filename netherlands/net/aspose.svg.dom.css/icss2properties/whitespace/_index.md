@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.WhiteSpace
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de definitie van witruimteeigenschappen in CSS2.
+title: "ICSS2Properties.WhiteSpace"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties WhiteSpace eigenschap. Zie de definitie van de white-space eigenschap in CSS2"
 type: docs
-weight: 1180
+weight: 1210
 url: /nl/net/aspose.svg.dom.css/icss2properties/whitespace/
 ---
 ## ICSS2Properties.WhiteSpace property
 
-Zie de definitie van witruimte-eigenschappen in CSS2.
+Zie de definitie van de eigenschap white-space in CSS2.
 
 ```csharp
 public string WhiteSpace { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-witruimte eigenschap
+white-space eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

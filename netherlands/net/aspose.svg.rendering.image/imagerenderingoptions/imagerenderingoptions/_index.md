@@ -1,14 +1,14 @@
 ---
-title: ImageRenderingOptions.ImageRenderingOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: ImageRenderingOptions constructeur. Initialiseert een nieuw exemplaar van hetImageRenderingOptions klasPng wordt gebruikt als standaard afbeeldingsformaat.
+title: "ImageRenderingOptions"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ImageRenderingOptions constructor. Initialiseert een nieuw exemplaar van de ImageRenderingOptions-klasse. Png wordt gebruikt als standaard afbeeldingsformaat."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`ImageRenderingOptions`](../) klas;Png wordt gebruikt als standaard afbeeldingsformaat.
+Initialiseert een nieuw exemplaar van de [`ImageRenderingOptions`](../) klasse; Png wordt gebruikt als standaard afbeeldingsformaat.
 
 ```csharp
 public ImageRenderingOptions()
@@ -17,14 +17,14 @@ public ImageRenderingOptions()
 ### Zie ook
 
 * class [ImageRenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageRenderingOptions(ImageFormat) {#constructor_1}
+## ImageRenderingOptions(*[ImageFormat](../../imageformat/)*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`ImageRenderingOptions`](../) klasse met gespecificeerd afbeeldingsformaat.
+Initialiseert een nieuw exemplaar van de [`ImageRenderingOptions`](../) klasse met het opgegeven afbeeldingsformaat.
 
 ```csharp
 public ImageRenderingOptions(ImageFormat format)
@@ -32,13 +32,11 @@ public ImageRenderingOptions(ImageFormat format)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| format | ImageFormat | Het uitvoerbeeldformaat. |
+| formaat | ImageFormat | Het uitvoerafbeeldingsformaat. |
 
 ### Zie ook
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

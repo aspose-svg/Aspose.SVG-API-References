@@ -1,14 +1,14 @@
 ---
-title: Unit.FromMilliseconds
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenTime object dat wordt weergegeven in milliseconden.
+title: "Unit.FromMilliseconds"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromMilliseconds-methode. Retourneert een Time-object dat wordt weergegeven in milliseconden"
 type: docs
 weight: 150
 url: /nl/net/aspose.svg.drawing/unit/frommilliseconds/
 ---
 ## Unit.FromMilliseconds method
 
-Geeft als resultaat een[`Time`](../../time/) object dat wordt weergegeven in milliseconden.
+Retourneert een [`Time`](../../time/) object dat wordt weergegeven in milliseconden.
 
 ```csharp
 public static Time FromMilliseconds(double value)
@@ -16,17 +16,15 @@ public static Time FromMilliseconds(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Time`](../../time/) voorwerp.
+Retourneert een [`Time`](../../time/) object.
 
 ### Zie ook
 
 * class [Time](../../time/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

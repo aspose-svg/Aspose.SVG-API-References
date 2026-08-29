@@ -1,27 +1,25 @@
 ---
-title: Dimension.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: Dimension methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "Dimension.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Dimension ToString-methode. Retourneert een String die dit exemplaar vertegenwoordigt"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.drawing/dimension/tostring/
 ---
 ## Dimension.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [Dimension](../)
-* naamruimte [Aspose.Svg.Drawing](../../dimension/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

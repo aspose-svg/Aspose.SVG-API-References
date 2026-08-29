@@ -1,43 +1,41 @@
 ---
-title: Class BezierPathBuilder
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.ImageVectorization.BezierPathBuilder klas. DeSplinePathBuilder class is verantwoordelijk voor het bouwen van padsegmentenSVGPathSeg uit de lijst met traceerpunten. Deze padbouwer is gebaseerd op het gebruik van de methode van de kleinste kwadraten om Béziercontrolepunten te vinden voor het traceren van punten.
+title: "BezierPathBuilder-klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.ImageVectorization.BezierPathBuilder class. De BezierPathBuilder-klasse is verantwoordelijk voor het construeren van een Bezier-pad uit een gegeven set punten. Het benadert een trace van punten met een Bezier-curve en optimaliseert het aantal segmenten om nauwkeurig overeen te komen met de originele trace, terwijl de complexiteit wordt geminimaliseerd."
 type: docs
-weight: 2080
+weight: 4150
 url: /nl/net/aspose.svg.imagevectorization/bezierpathbuilder/
 ---
 ## BezierPathBuilder class
 
-De[`SplinePathBuilder`](../splinepathbuilder/) class is verantwoordelijk voor het bouwen van padsegmenten[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) uit de lijst met traceerpunten. Deze padbouwer is gebaseerd op het gebruik van de methode van de kleinste kwadraten om Bézier-controlepunten te vinden voor het traceren van punten.
+De `BezierPathBuilder`-klasse is verantwoordelijk voor het construeren van een Bezier-pad uit een gegeven set punten. Het benadert een trace van punten met een Bezier-curve, optimaliseert het aantal segmenten om nauwkeurig overeen te komen met de originele trace, terwijl de complexiteit wordt geminimaliseerd.
 
 ```csharp
 public class BezierPathBuilder : IPathBuilder
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [BezierPathBuilder](bezierpathbuilder/)() | Initialiseert een nieuw exemplaar van het`BezierPathBuilder` klasse. |
+| [BezierPathBuilder](bezierpathbuilder/)() | Initialiseert een nieuw exemplaar van de `BezierPathBuilder`-klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [ErrorThreshold](../../aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/) { get; set; } | Haalt de foutdrempel op of stelt deze in. Deze parameter definieert de maximale afwijking van punten ten opzichte van de aangepaste curve. Standaard is deze 30. |
-| [MaxIterations](../../aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/) { get; set; } | Haalt de foutdrempel op of stelt deze in. Deze parameter definieert het aantal iteraties voor de benaderingsmethode met de kleinste kwadraten. Standaard is dit 30. |
-| [TraceSmoother](../../aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/) { get; set; } | Krijgt of stelt de trace vloeiender in. |
+| [ErrorThreshold](../../aspose.svg.imagevectorization/bezierpathbuilder/errorthreshold/) { get; set; } | Haalt of stelt de foutdrempel in. Deze parameter definieert de maximale afwijking van punten ten opzichte van de aangepaste curve. Standaard is deze 30. |
+| [MaxIterations](../../aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/) { get; set; } | Haalt of stelt de foutdrempel in. Deze parameter definieert het aantal iteraties voor de kleinste-kwadraten benaderingsmethode. Standaard is deze 30. |
+| [TraceSmoother](../../aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/) { get; set; } | Haalt of stelt de trace smoother in. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Bouwt padsegmenten op uit de lijst met traceerpunten. |
+| [Build](../../aspose.svg.imagevectorization/bezierpathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | Construeert een geoptimaliseerd Bezier-pad uit een reeks trace-punten. De methode benadert de gegeven trace met een Bezier-curve, gebruikmakend van een combinatie van lijn- en curve-segmenten. Het streeft ernaar het aantal segmenten te minimaliseren terwijl het pad nauwkeurig aansluit op de originele trace. |
 
 ### Zie ook
 
 * interface [IPathBuilder](../ipathbuilder/)
-* naamruimte [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

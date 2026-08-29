@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.FontSize
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt de lettergrootte in of haalt deze op.
+title: "GraphicContext.FontSize"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext FontSize-eigenschap. Stelt in of haalt de tekengrootte op"
 type: docs
-weight: 50
+weight: 60
 url: /nl/net/aspose.svg.rendering/graphiccontext/fontsize/
 ---
 ## GraphicContext.FontSize property
 
-Stelt de lettergrootte in of haalt deze op.
+Stelt de tekstlettergrootte in of haalt deze op.
 
 ```csharp
 public virtual float FontSize { get; set; }
@@ -17,7 +17,5 @@ public virtual float FontSize { get; set; }
 ### Zie ook
 
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

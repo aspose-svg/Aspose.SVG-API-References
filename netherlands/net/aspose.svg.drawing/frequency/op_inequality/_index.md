@@ -1,7 +1,7 @@
 ---
-title: Frequency.op_Inequality
-second_title: Aspose.SVG voor .NET API-referentie
-description: Frequency methode. Implementeert de operator .
+title: "Frequency.op_Inequality"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Frequency op_Inequality methode. Implementeert de operator"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.drawing/frequency/op_inequality/
@@ -19,14 +19,12 @@ public static bool operator !=(Frequency a, Frequency b)
 | a | Frequency | De parameter a. |
 | b | Frequency | De parameter b. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Zie ook
 
 * class [Frequency](../)
-* naamruimte [Aspose.Svg.Drawing](../../frequency/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

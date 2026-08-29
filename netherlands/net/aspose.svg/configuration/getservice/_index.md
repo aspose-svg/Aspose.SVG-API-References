@@ -1,33 +1,53 @@
 ---
-title: Configuration.GetService
-second_title: Aspose.SVG voor .NET API-referentie
-description: Configuration methode. Krijgt de gevraagde service.
+title: "Configuration.GetService"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Configuration GetService-methode. Haalt de aangevraagde service op"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg/configuration/getservice/
 ---
-## Configuration.GetService&lt;TService&gt; method
+## GetService(*Type*) {#getservice}
 
-Krijgt de gevraagde service.
+Haalt de gevraagde service op.
 
 ```csharp
-public TService GetService<TService>()
-    where TService : class, IService
+public object GetService(Type serviceType)
+```
+
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| serviceType | Type | Het type service om op te halen. |
+
+### Retourwaarde
+
+Een instantie van de service als deze gevonden kon worden, of null als deze niet gevonden kon worden
+
+### Zie ook
+
+* class [Configuration](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## GetService<T>() {#getservice_1}
+
+Haalt de gevraagde service op.
+
+```csharp
+public T GetService<T>()
 ```
 
 | Parameter | Beschrijving |
 | --- | --- |
-| TService | Het type service dat moet worden opgehaald. |
+| T | Het type service om op te halen. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een exemplaar van de service als deze kan worden gevonden, ofnul als het niet gevonden kan worden
+Een instantie van de service als deze gevonden kon worden, of null als deze niet gevonden kon worden
 
 ### Zie ook
 
-* interface [IService](../../../aspose.svg.services/iservice/)
 * class [Configuration](../)
-* naamruimte [Aspose.Svg](../../configuration/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

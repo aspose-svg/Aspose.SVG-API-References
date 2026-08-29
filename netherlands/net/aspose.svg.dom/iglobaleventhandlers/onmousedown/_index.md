@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnMouseDown
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnMouseDowngebeurtenis.
+title: "IGlobalEventHandlers.OnMouseDown"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnMouseDown gebeurtenis. Haalt op of stelt de event handler in voor de OnMouseDown gebeurtenis."
 type: docs
 weight: 240
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onmousedown/
 ---
 ## IGlobalEventHandlers.OnMouseDown event
 
-Haalt of stelt gebeurtenishandler in voor OnMouseDown-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnMouseDown event.
 
 ```csharp
 public event DOMEventHandler OnMouseDown;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseDown;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

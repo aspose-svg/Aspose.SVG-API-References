@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_SPACING
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGTextContentElement veld. Komt overeen met de waarde afstand.
+title: "SVGTextContentElement.LENGTHADJUST_SPACING"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGTextContentElement LENGTHADJUST_SPACING veld. Komt overeen met de waarde spacing"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg/svgtextcontentelement/lengthadjust_spacing/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACING field
 
-Komt overeen met de waarde 'afstand'.
+Komt overeen met waarde 'spacing'.
 
 ```csharp
 public const ushort LENGTHADJUST_SPACING;
@@ -17,7 +17,5 @@ public const ushort LENGTHADJUST_SPACING;
 ### Zie ook
 
 * class [SVGTextContentElement](../)
-* naamruimte [Aspose.Svg](../../svgtextcontentelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

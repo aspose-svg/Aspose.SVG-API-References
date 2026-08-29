@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.SetSkewX
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGTransform methode. Stelt het transformatietype in op SVG_TRANSFORM_SKEWX waarbij de parameterhoek de hoeveelheid scheefheid definieert.
+title: "SVGTransform.SetSkewX"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGTransform SetSkewX methode. Stelt het transformatietype in op SVG_TRANSFORM_SKEWX met parameter angle die de hoeveelheid scheefstand definieert."
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.datatypes/svgtransform/setskewx/
 ---
 ## SVGTransform.SetSkewX method
 
-Stelt het transformatietype in op SVG_TRANSFORM_SKEWX, waarbij de parameterhoek de hoeveelheid scheefheid definieert.
+Stelt het transformatietype in op SVG_TRANSFORM_SKEWX, met parameter angle die de mate van scheefstand definieert.
 
 ```csharp
 public void SetSkewX(float angle)
@@ -16,18 +16,16 @@ public void SetSkewX(float angle)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| angle | Single | De schuine hoek. |
+| angle | Single | De scheefstandhoek. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Verhoogd bij een poging om de waarde van een alleen-lezen kenmerk te wijzigen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Opgevoerd bij een poging om de waarde van een alleen‑lezen attribuut te wijzigen. |
 
 ### Zie ook
 
 * class [SVGTransform](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgtransform/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

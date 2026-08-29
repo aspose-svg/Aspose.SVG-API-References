@@ -1,14 +1,14 @@
 ---
-title: EventTarget.Dispose
-second_title: Aspose.SVG voor .NET API-referentie
-description: EventTarget methode. Voert door de toepassing gedefinieerde taken uit die verband houden met het vrijmaken vrijgeven of resetten van onbeheerde bronnen.
+title: "EventTarget.Dispose"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "EventTarget Dispose‑methode. Voert toepassingsgedefinieerde taken uit die verband houden met het vrijgeven, loslaten of opnieuw instellen van niet‑beheerde bronnen"
 type: docs
-weight: 30
+weight: 40
 url: /nl/net/aspose.svg.dom/eventtarget/dispose/
 ---
 ## EventTarget.Dispose method
 
-Voert door de toepassing gedefinieerde taken uit die verband houden met het vrijmaken, vrijgeven of resetten van onbeheerde bronnen.
+Voert door de applicatie gedefinieerde taken uit die verband houden met het vrijgeven, loslaten of opnieuw instellen van niet-beheerde bronnen.
 
 ```csharp
 public void Dispose()
@@ -17,7 +17,5 @@ public void Dispose()
 ### Zie ook
 
 * class [EventTarget](../)
-* naamruimte [Aspose.Svg.Dom](../../eventtarget/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.DispositionType
-second_title: Aspose.SVG voor .NET API-referentie
-description: ContentDispositionHeaderValue eigendom. Dispositietype ophalen of instellen
+title: "ContentDispositionHeaderValue.DispositionType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ContentDispositionHeaderValue DispositionType-eigenschap. Haalt of stelt het dispositiontype in."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/
 ---
 ## ContentDispositionHeaderValue.DispositionType property
 
-Dispositietype ophalen of instellen
+Haal op of stel het disposition‑type in.
 
 ```csharp
 public string DispositionType { get; set; }
@@ -17,7 +17,5 @@ public string DispositionType { get; set; }
 ### Zie ook
 
 * class [ContentDispositionHeaderValue](../)
-* naamruimte [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

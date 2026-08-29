@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.SetIntValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSPrimitiveValue methode. Een methode om de intwaarde in te stellen met een gespecificeerde eenheid. Als de eigenschap die aan deze waarde is gekoppeld de opgegeven eenheid of de intwaarde niet kan accepteren blijft de waarde ongewijzigd en wordt er een DOMException gegenereerd.
+title: "CSSPrimitiveValue.SetIntValue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSPrimitiveValue SetIntValue-methode. Een methode om de int‑waarde in te stellen met een opgegeven eenheid. Als de eigenschap die aan deze waarde is gekoppeld de opgegeven eenheid of de int‑waarde niet kan accepteren, blijft de waarde ongewijzigd en wordt er een DOMException opgegooid."
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.dom.css/cssprimitivevalue/setintvalue/
 ---
 ## CSSPrimitiveValue.SetIntValue method
 
-Een methode om de int-waarde in te stellen met een gespecificeerde eenheid. Als de eigenschap die aan deze waarde is gekoppeld de opgegeven eenheid of de int-waarde niet kan accepteren, blijft de waarde ongewijzigd en wordt er een DOMException gegenereerd.
+Een methode om de int-waarde in te stellen met een opgegeven eenheid. Als de eigenschap die aan deze waarde is gekoppeld de opgegeven eenheid of de int-waarde niet kan accepteren, blijft de waarde ongewijzigd en wordt er een DOMException opgegooid.
 
 ```csharp
 public abstract void SetIntValue(ushort unitType, int intValue)
@@ -17,12 +17,10 @@ public abstract void SetIntValue(ushort unitType, int intValue)
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
 | unitType | UInt16 | Type van de eenheid. |
-| intValue | Int32 | De int-waarde. |
+| intValue | Int32 | De int‑waarde. |
 
 ### Zie ook
 
 * class [CSSPrimitiveValue](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

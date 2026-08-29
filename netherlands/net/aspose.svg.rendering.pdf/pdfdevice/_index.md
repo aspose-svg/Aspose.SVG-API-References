@@ -1,29 +1,29 @@
 ---
-title: Class PdfDevice
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Pdf.PdfDevice klas. Vertegenwoordigt weergave naar een pdfdocument.
+title: "PdfDevice Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.Pdf.PdfDevice klasse. Vertegenwoordigt rendering naar een pdf-document"
 type: docs
-weight: 2950
+weight: 5020
 url: /nl/net/aspose.svg.rendering.pdf/pdfdevice/
 ---
 ## PdfDevice class
 
-Vertegenwoordigt weergave naar een pdf-document.
+Stelt het renderen naar een pdf-document voor.
 
 ```csharp
 public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [PdfDevice](pdfdevice/#constructor)(ICreateStreamProvider) | Initialiseert een nieuw exemplaar van het`PdfDevice` klasse. |
-| [PdfDevice](pdfdevice/#constructor_4)(Stream) | Initialiseert een nieuw exemplaar van het`PdfDevice` klasse. |
-| [PdfDevice](pdfdevice/#constructor_5)(string) | Initialiseert een nieuw exemplaar van het`PdfDevice` klasse. |
-| [PdfDevice](pdfdevice/#constructor_1)(PdfRenderingOptions, ICreateStreamProvider) | Initialiseert een nieuw exemplaar van het`PdfDevice` klasse door weergaveopties en streamprovider. |
-| [PdfDevice](pdfdevice/#constructor_2)(PdfRenderingOptions, Stream) | Initialiseert een nieuw exemplaar van het`PdfDevice` klasse door opties en uitvoerstroom weer te geven. |
-| [PdfDevice](pdfdevice/#constructor_3)(PdfRenderingOptions, string) | Initialiseert een nieuw exemplaar van het`PdfDevice` klasse door weergaveopties en uitvoerbestandsnaam. |
+| [PdfDevice](pdfdevice/#constructor)(*[ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | Initialiseert een nieuw exemplaar van de `PdfDevice` klasse. |
+| [PdfDevice](pdfdevice/#constructor_4)(*Stream*) | Initialiseert een nieuw exemplaar van de `PdfDevice` klasse. |
+| [PdfDevice](pdfdevice/#constructor_5)(*string*) | Initialiseert een nieuw exemplaar van de `PdfDevice` klasse. |
+| [PdfDevice](pdfdevice/#constructor_1)(*[PdfRenderingOptions](../pdfrenderingoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | Initialiseert een nieuw exemplaar van de `PdfDevice` klasse met renderopties en streamprovider. |
+| [PdfDevice](pdfdevice/#constructor_2)(*[PdfRenderingOptions](../pdfrenderingoptions/), Stream*) | Initialiseert een nieuw exemplaar van de `PdfDevice` klasse met renderopties en outputstream. |
+| [PdfDevice](pdfdevice/#constructor_3)(*[PdfRenderingOptions](../pdfrenderingoptions/), string*) | Initialiseert een nieuw exemplaar van de `PdfDevice` klasse met renderopties en outputbestandsnaam. |
 
 ## Eigenschappen
 
@@ -31,46 +31,47 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 | --- | --- |
 | [GraphicContext](../../aspose.svg.rendering/device-2/graphiccontext/) { get; } |  |
 | [Options](../../aspose.svg.rendering/device-2/options/) { get; } |  |
+| virtual [Configuration](../../aspose.svg.rendering/device-2/configuration/) { get; } |  |
+| [OutputStream](../../aspose.svg.rendering/device-2/outputstream/) { get; } |  |
+| [StreamProvider](../../aspose.svg.rendering/device-2/streamprovider/) { get; } |  |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| override [AddRect](../../aspose.svg.rendering.pdf/pdfdevice/addrect/)(RectangleF) | Voegt een rechthoek toe aan het huidige pad als een volledig subpad. |
-| override [BeginDocument](../../aspose.svg.rendering.pdf/pdfdevice/begindocument/)(Document) | Begint met het renderen van het document. |
-| override [BeginElement](../../aspose.svg.rendering.pdf/pdfdevice/beginelement/)(Element, RectangleF) | Begint met renderen van het element. |
-| override [BeginPage](../../aspose.svg.rendering.pdf/pdfdevice/beginpage/)(SizeF) | Begint met renderen van de nieuwe pagina. |
-| override [Clip](../../aspose.svg.rendering.pdf/pdfdevice/clip/)(FillMode) | Wijzigt het huidige uitknippad door het te kruisen met het huidige pad, waarbij de FillMode-regel wordt gebruikt om het te vullen gebied te bepalen. Deze methode beëindigt het huidige pad. |
-| override [ClosePath](../../aspose.svg.rendering.pdf/pdfdevice/closepath/)() | Sluit het huidige subpad door een recht lijnstuk toe te voegen vanaf het huidige punt naar het beginpunt van het subpad. Als het huidige subpad al gesloten is, doet "ClosePath" niets. Deze operator beëindigt het huidige subpad. Door nog een segment aan het huidige pad toe te voegen, begint een nieuw subpad, , zelfs als het nieuwe segment begint bij het eindpunt dat wordt bereikt door de "ClosePath"-methode. |
-| override [CubicBezierTo](../../aspose.svg.rendering.pdf/pdfdevice/cubicbezierto/)(PointF, PointF, PointF) | Voegt een kubieke Bézier-curve toe aan het huidige pad. De curve loopt van het huidige punt naar het punt pt2, met pt1 en pt2 als de Bézier-controlepunten. Het nieuwe huidige punt is pt3. |
+| virtual [AddRect](../../aspose.svg.rendering/device-2/addrect/)(*RectangleF*) |  |
+| virtual [BeginDocument](../../aspose.svg.rendering/device-2/begindocument/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [BeginElement](../../aspose.svg.rendering/device-2/beginelement/)(*[Element](../../aspose.svg.dom/element/), RectangleF*) |  |
+| virtual [BeginPage](../../aspose.svg.rendering/device-2/beginpage/)(*SizeF*) |  |
+| virtual [Clip](../../aspose.svg.rendering/device-2/clip/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [ClosePath](../../aspose.svg.rendering/device-2/closepath/)() |  |
+| virtual [CubicBezierTo](../../aspose.svg.rendering/device-2/cubicbezierto/)(*PointF, PointF, PointF*) |  |
 | [Dispose](../../aspose.svg.rendering/device-2/dispose/)() |  |
-| override [DrawImage](../../aspose.svg.rendering.pdf/pdfdevice/drawimage/)(byte[], ImageType, RectangleF) | Tekent de opgegeven afbeelding. |
-| override [EndDocument](../../aspose.svg.rendering.pdf/pdfdevice/enddocument/)() | Beëindigt de weergave van het document. |
-| override [EndElement](../../aspose.svg.rendering.pdf/pdfdevice/endelement/)(Element) | Beëindigt het renderen van het element. |
-| override [EndPage](../../aspose.svg.rendering.pdf/pdfdevice/endpage/)() | Beëindigt het renderen van de huidige pagina. |
-| override [Fill](../../aspose.svg.rendering.pdf/pdfdevice/fill/)(FillMode) | Vult het hele gebied dat wordt ingesloten door het huidige pad. Als het pad uit meerdere niet-verbonden subpaden bestaat, vult het de binnenkant van alle subpaden, samen beschouwd. Deze methode beëindigt het huidige pad. |
-| override [FillText](../../aspose.svg.rendering.pdf/pdfdevice/filltext/)(string, PointF) | Vult de opgegeven tekenreeks op de opgegeven locatie. |
-| override [Flush](../../aspose.svg.rendering.pdf/pdfdevice/flush/)() | Spoelt alle gegevens naar uitvoerstroom. |
-| override [LineTo](../../aspose.svg.rendering.pdf/pdfdevice/lineto/)(PointF) | Voegt een recht lijnstuk toe vanaf het huidige punt aan het punt (pt). Het nieuwe huidige punt is pt. |
-| override [MoveTo](../../aspose.svg.rendering.pdf/pdfdevice/moveto/)(PointF) | Begint een nieuw subpad door het huidige punt te verplaatsen naar de coördinaten van de parameter pt, waarbij elk verbindingslijnsegment wordt weggelaten. Als de vorige padconstructiemethode in het huidige pad ook "MoveTo" was, overschrijft de nieuwe "MoveTo" deze; geen overblijfsel van de vorige "MoveTo"-bewerking blijft in het pad. |
-| override [RestoreGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice/restoregraphiccontext/)() | Herstelt de volledige grafische context naar de vorige waarde door deze uit de stapel te halen. |
-| override [SaveGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice/savegraphiccontext/)() | Duwt een kopie van de volledige grafische context naar de stapel. |
-| override [Stroke](../../aspose.svg.rendering.pdf/pdfdevice/stroke/)() | Trekt een lijn langs het huidige pad. De gestreepte lijn volgt elk recht of gebogen segment in het pad, gecentreerd op het segment met evenwijdige zijden. Elk van de subpaden van het pad wordt afzonderlijk behandeld. Deze methode beëindigt het huidige pad. |
-| override [StrokeAndFill](../../aspose.svg.rendering.pdf/pdfdevice/strokeandfill/)(FillMode) | Lijnt en vult het huidige pad. Deze methode beëindigt het huidige pad. |
-| override [StrokeText](../../aspose.svg.rendering.pdf/pdfdevice/stroketext/)(string, PointF) | Lijnt de gespecificeerde tekstreeks uit op de gespecificeerde locatie. |
+| virtual [DrawImage](../../aspose.svg.rendering/device-2/drawimage/)(*byte[], [WebImageFormat](../../aspose.svg.drawing/webimageformat/), RectangleF*) |  |
+| virtual [EndDocument](../../aspose.svg.rendering/device-2/enddocument/)() |  |
+| virtual [EndElement](../../aspose.svg.rendering/device-2/endelement/)(*[Element](../../aspose.svg.dom/element/)*) |  |
+| virtual [EndPage](../../aspose.svg.rendering/device-2/endpage/)() |  |
+| virtual [Fill](../../aspose.svg.rendering/device-2/fill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [FillText](../../aspose.svg.rendering/device-2/filltext/)(*string, PointF*) |  |
+| virtual [Flush](../../aspose.svg.rendering/device-2/flush/)() |  |
+| virtual [LineTo](../../aspose.svg.rendering/device-2/lineto/)(*PointF*) |  |
+| virtual [MoveTo](../../aspose.svg.rendering/device-2/moveto/)(*PointF*) |  |
+| virtual [RestoreGraphicContext](../../aspose.svg.rendering/device-2/restoregraphiccontext/)() |  |
+| virtual [SaveGraphicContext](../../aspose.svg.rendering/device-2/savegraphiccontext/)() |  |
+| virtual [Stroke](../../aspose.svg.rendering/device-2/stroke/)() |  |
+| virtual [StrokeAndFill](../../aspose.svg.rendering/device-2/strokeandfill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [StrokeText](../../aspose.svg.rendering/device-2/stroketext/)(*string, PointF*) |  |
 
 ## Andere leden
 
 | Naam | Beschrijving |
 | --- | --- |
-| class [PdfGraphicContext](pdfdevice.pdfgraphiccontext/) | Bevat huidige grafische besturingsparameters voor het PdfDevice. Deze parameters bepalen het globale raamwerk waarbinnen de grafische operators uitvoeren. |
+| class [PdfGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext) | Bevat de huidige grafische controle‑parameters voor de PdfDevice. Deze parameters definiëren het globale kader waarbinnen de grafische operatoren worden uitgevoerd. |
 
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../../aspose.svg.rendering/device-2/)
 * class [PdfGraphicContext](../pdfdevice.pdfgraphiccontext/)
 * class [PdfRenderingOptions](../pdfrenderingoptions/)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

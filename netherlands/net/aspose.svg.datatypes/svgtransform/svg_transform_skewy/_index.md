@@ -1,7 +1,7 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_SKEWY
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGTransform veld. Een skewY transformatie.
+title: "SVGTransform.SVG_TRANSFORM_SKEWY"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGTransform SVG_TRANSFORM_SKEWY veld. Een skewY-transformatie"
 type: docs
 weight: 150
 url: /nl/net/aspose.svg.datatypes/svgtransform/svg_transform_skewy/
@@ -17,7 +17,5 @@ public const ushort SVG_TRANSFORM_SKEWY;
 ### Zie ook
 
 * class [SVGTransform](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgtransform/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

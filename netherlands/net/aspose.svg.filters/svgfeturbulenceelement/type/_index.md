@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Type
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFETurbulenceElement eigendom. Komt overeen met attribuut type op het gegeven feTurbulenceelement. Neemt een van de SVG_TURBULENCE_TYPE_constanten die in deze interface zijn gedefinieerd.
+title: "SVGFETurbulenceElement.Type"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFETurbulenceElement Type eigenschap. Komt overeen met attribuut type op het opgegeven feTurbulence-element. Neemt een van de SVG_TURBULENCE_TYPE_-constanten die op deze interface zijn gedefinieerd"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.filters/svgfeturbulenceelement/type/
 ---
 ## SVGFETurbulenceElement.Type property
 
-Komt overeen met attribuut 'type' op het gegeven 'feTurbulence'-element. Neemt een van de SVG_TURBULENCE_TYPE_*-constanten die in deze interface zijn gedefinieerd.
+Komt overeen met attribuut ‘type’ op het opgegeven ‘feTurbulence’-element. Neemt een van de SVG_TURBULENCE_TYPE_* constanten die op deze interface zijn gedefinieerd.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'type' van het gegeven 'feTurbulence' element.
+Het attribuut ‘type’ van het opgegeven ‘feTurbulence’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFETurbulenceElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

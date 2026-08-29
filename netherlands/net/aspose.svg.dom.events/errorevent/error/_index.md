@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.Error
-second_title: Aspose.SVG voor .NET API-referentie
-description: ErrorEvent eigendom. Het foutattribuut moet de waarde teruggeven waarop het geïnitialiseerd is. Wanneer het object wordt gemaakt moet dit attribuut worden geïnitialiseerd op null. Waar van toepassing wordt het ingesteld op het object dat de fout vertegenwoordigt bijvoorbeeld het uitzonderingsobject in het geval van een nietafgevangen DOMuitzondering.
+title: "ErrorEvent.Error"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ErrorEvent Error eigenschap. Het foutattribuut moet de waarde teruggeven waarmee het is geïnitialiseerd. Wanneer het object wordt gemaakt, moet dit attribuut worden geïnitialiseerd op null. Waar passend wordt het ingesteld op het object dat de fout vertegenwoordigt, bijv. het exceptie‑object in het geval van een niet‑afgevangen DOM‑exceptie."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom.events/errorevent/error/
 ---
 ## ErrorEvent.Error property
 
-Het foutattribuut moet de waarde teruggeven waarop het geïnitialiseerd is. Wanneer het object wordt gemaakt, moet dit attribuut worden geïnitialiseerd op null. Waar van toepassing wordt het ingesteld op het object dat de fout vertegenwoordigt (bijvoorbeeld het uitzonderingsobject in het geval van een niet-afgevangen DOM-uitzondering).
+Het attribuut error moet de waarde retourneren waarmee het is geïnitialiseerd. Wanneer het object wordt aangemaakt, moet dit attribuut worden geïnitialiseerd op null. Waar passend wordt het ingesteld op het object dat de fout vertegenwoordigt (bijv. het exceptie‑object in het geval van een niet‑afgevangen DOM‑exceptie).
 
 ```csharp
 public object Error { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De fout.
 
 ### Zie ook
 
 * class [ErrorEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../errorevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

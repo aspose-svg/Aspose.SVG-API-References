@@ -1,23 +1,21 @@
 ---
-title: Device2.ClosePath
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Sluit het huidige subpad door een recht lijnstuk toe te voegen vanaf het huidige punt naar het beginpunt van het subpad. Als het huidige subpad al gesloten is doet ClosePath niets. Deze operator beëindigt het huidige subpad. Door nog een segment aan het huidige pad toe te voegen begint een nieuw subpad  zelfs als het nieuwe segment begint bij het eindpunt dat wordt bereikt door de ClosePathmethode.
+title: "Device-2.ClosePath"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device ClosePath-methode. Sluit het huidige subpad door een rechte lijnsegment toe te voegen van het huidige punt naar het startpunt van het subpad. Als het huidige subpad al gesloten is, doet ClosePath niets. Deze operator beëindigt het huidige subpad. Het toevoegen van een ander segment aan het huidige pad start een nieuw subpad, zelfs als het nieuwe segment begint bij het eindpunt dat bereikt wordt door de ClosePath-methode."
 type: docs
-weight: 80
+weight: 110
 url: /nl/net/aspose.svg.rendering/device-2/closepath/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.ClosePath method
+## Device<TGraphicContext,TRenderingOptions>.ClosePath method
 
-Sluit het huidige subpad door een recht lijnstuk toe te voegen vanaf het huidige punt naar het beginpunt van het subpad. Als het huidige subpad al gesloten is, doet "ClosePath" niets. Deze operator beëindigt het huidige subpad. Door nog een segment aan het huidige pad toe te voegen, begint een nieuw subpad, , zelfs als het nieuwe segment begint bij het eindpunt dat wordt bereikt door de "ClosePath"-methode.
+Sluit het huidige subpad door een rechte lijnsegment toe te voegen van het huidige punt naar het startpunt van het subpad. Als het huidige subpad al gesloten is, doet \"ClosePath\" niets. Deze operator beëindigt het huidige subpad. Het toevoegen van een ander segment aan het huidige pad start een nieuw subpad, zelfs als het nieuwe segment begint bij het eindpunt dat door de \"ClosePath\"‑methode is bereikt.
 
 ```csharp
-public abstract void ClosePath()
+public virtual void ClosePath()
 ```
 
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

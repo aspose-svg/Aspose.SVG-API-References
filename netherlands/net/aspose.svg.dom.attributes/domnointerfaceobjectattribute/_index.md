@@ -1,29 +1,33 @@
 ---
-title: Class DOMNoInterfaceObjectAttribute
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute klas. Als het uitgebreide kenmerk NoInterfaceObject op een interface verschijnt geeft dit aan dat er geen interfaceobject zal bestaan voor de interface in de ECMAScriptbinding.
+title: "DOMNoInterfaceObjectAttribute Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute klasse. Als het NoInterfaceObject uitgebreide attribuut op een interface verschijnt, geeft dit aan dat er geen interface‑object zal bestaan voor de interface in de ECMAScript‑binding"
 type: docs
-weight: 400
+weight: 2400
 url: /nl/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class
 
-Als het uitgebreide kenmerk [NoInterfaceObject] op een interface verschijnt, geeft dit aan dat er geen interface-object zal bestaan voor de interface in de ECMAScript-binding.
+Als het uitgebreide attribuut [NoInterfaceObject] op een interface verschijnt, geeft dit aan dat er geen interface‑object zal bestaan voor de interface in de ECMAScript‑binding.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNoInterfaceObjectAttribute : Attribute
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | De standaard constructeur. |
+| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | De standaardconstructor. |
+
+## Eigenschappen
+
+| Naam | Beschrijving |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

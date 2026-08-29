@@ -1,14 +1,14 @@
 ---
-title: Size.Size
-second_title: Aspose.SVG voor .NET API-referentie
-description: Size constructeur. Initialiseert een nieuw exemplaar van hetSize klasse.
+title: "Size"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Size constructor. Initialiseert een nieuw exemplaar van de Size-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`Size`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`Size`](../)-klasse.
 
 ```csharp
 public Size()
@@ -17,14 +17,14 @@ public Size()
 ### Zie ook
 
 * class [Size](../)
-* naamruimte [Aspose.Svg.Drawing](../../size/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(int, int) {#constructor_2}
+## Size(*int, int*) {#constructor_2}
 
-Initialiseert een nieuw exemplaar van het[`Size`](../) class en specificeer een Hoogte en Breedte in pixels.
+Initialiseert een nieuw exemplaar van de [`Size`](../)-klasse en specificeert een hoogte en breedte in pixels.
 
 ```csharp
 public Size(int width, int height)
@@ -38,14 +38,14 @@ public Size(int width, int height)
 ### Zie ook
 
 * class [Size](../)
-* naamruimte [Aspose.Svg.Drawing](../../size/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(Length, Length) {#constructor_1}
+## Size(*[Length](../../length/), [Length](../../length/)*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`Size`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`Size`](../)-klasse.
 
 ```csharp
 public Size(Length width, Length height)
@@ -60,7 +60,5 @@ public Size(Length width, Length height)
 
 * class [Length](../../length/)
 * class [Size](../)
-* naamruimte [Aspose.Svg.Drawing](../../size/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

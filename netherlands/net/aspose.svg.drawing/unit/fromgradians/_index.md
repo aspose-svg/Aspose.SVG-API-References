@@ -1,14 +1,14 @@
 ---
-title: Unit.FromGradians
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenAngleobject dat wordt weergegeven in decimalen.
+title: "Unit.FromGradians"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromGradians-methode. Retourneert een Angle-object dat wordt weergegeven in gradians"
 type: docs
 weight: 100
 url: /nl/net/aspose.svg.drawing/unit/fromgradians/
 ---
 ## Unit.FromGradians method
 
-Geeft als resultaat een[`Angle`](../../angle/)object dat wordt weergegeven in decimalen.
+Retourneert een [`Angle`](../../angle/) object dat wordt weergegeven in gradians.
 
 ```csharp
 public static Angle FromGradians(double value)
@@ -16,17 +16,15 @@ public static Angle FromGradians(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Angle`](../../angle/) voorwerp.
+Retourneert een [`Angle`](../../angle/) object.
 
 ### Zie ook
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

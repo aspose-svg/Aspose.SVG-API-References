@@ -1,27 +1,25 @@
 ---
-title: Document.StrictErrorChecking
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document eigendom. Een attribuut dat specificeert of foutcontrole wordt afgedwongen of niet. Indien ingesteld op false is de implementatie vrij om niet elk mogelijk foutgeval te testen dat normaal is gedefinieerd voor DOMbewerkingen en geen DOMException op te roepen voor DOMbewerkingen of fouten te rapporteren tijdens het gebruik van Document.normalizeDocument. In geval van een fout is het gedrag ongedefinieerd. Dit kenmerk is standaard waar.
+title: "Document.StrictErrorChecking"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document StrictErrorChecking eigenschap. Een attribuut dat aangeeft of foutcontrole wordt afgedwongen of niet. Wanneer ingesteld op false, mag de implementatie elke mogelijke foutsituatie die normaal gedefinieerd is voor DOM‑operaties niet testen en geen DOMException werpen bij DOM‑operaties of fouten rapporteren tijdens het gebruik van Document.normalizeDocument. In geval van een fout is het gedrag ongedefinieerd. Dit attribuut is standaard true."
 type: docs
 weight: 240
 url: /nl/net/aspose.svg.dom/document/stricterrorchecking/
 ---
 ## Document.StrictErrorChecking property
 
-Een attribuut dat specificeert of foutcontrole wordt afgedwongen of niet. Indien ingesteld op false, is de implementatie vrij om niet elk mogelijk foutgeval te testen dat normaal is gedefinieerd voor DOM-bewerkingen, en geen DOMException op te roepen voor DOM-bewerkingen of fouten te rapporteren tijdens het gebruik van Document.normalizeDocument(). In geval van een fout is het gedrag ongedefinieerd. Dit kenmerk is standaard waar.
+Een attribuut dat aangeeft of foutcontrole wordt afgedwongen of niet. Wanneer ingesteld op false, mag de implementatie elke mogelijke fout niet testen die normaal gedefinieerd is voor DOM‑operaties, en geen DOMException werpen bij DOM‑operaties of fouten melden tijdens het gebruik van Document.normalizeDocument(). In geval van een fout is het gedrag ongedefinieerd. Dit attribuut is standaard true.
 
 ```csharp
 public bool StrictErrorChecking { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` indien strikte foutcontrole; anders,`vals` .
+`true` als strikte foutcontrole; anders `false`.
 
 ### Zie ook
 
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

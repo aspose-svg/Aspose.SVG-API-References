@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.LineJoin
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt de code in of haalt deze op die de vorm van verbindingen tussen verbonden segmenten van een gestreken pad specificeert.
+title: "GraphicContext.LineJoin"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext LineJoin-eigenschap. Stelt in of haalt de code op die de vorm van de verbindingen tussen verbonden segmenten van een getekend pad specificeert"
 type: docs
 weight: 110
 url: /nl/net/aspose.svg.rendering/graphiccontext/linejoin/
 ---
 ## GraphicContext.LineJoin property
 
-Stelt de code in of haalt deze op die de vorm van verbindingen tussen verbonden segmenten van een gestreken pad specificeert.
+Stelt de code in die de vorm van de verbindingen tussen verbonden segmenten van een getekend pad specificeert, of haalt deze op.
 
 ```csharp
-public virtual LineJoin LineJoin { get; set; }
+public virtual StrokeLineJoin LineJoin { get; set; }
 ```
 
 ### Zie ook
 
+* enum [StrokeLineJoin](../../../aspose.svg.drawing/strokelinejoin/)
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

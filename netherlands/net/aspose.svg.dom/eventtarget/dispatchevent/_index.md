@@ -1,14 +1,14 @@
 ---
-title: EventTarget.DispatchEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: EventTarget methode. Met deze methode kunnen gebeurtenissen worden verzonden naar het gebeurtenismodel van de implementatie.
+title: "EventTarget.DispatchEvent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "EventTarget DispatchEvent‑methode. Verzendt een Event naar de opgegeven IEventTarget synchronisch en roept de getroffen EventListeners in de juiste volgorde aan. De normale regels voor event‑verwerking, inclusief de capture‑ en optionele bubbling‑fase, zijn ook van toepassing op handmatig met DispatchEvent verzonden events."
 type: docs
-weight: 20
+weight: 30
 url: /nl/net/aspose.svg.dom/eventtarget/dispatchevent/
 ---
 ## EventTarget.DispatchEvent method
 
-Met deze methode kunnen gebeurtenissen worden verzonden naar het gebeurtenismodel van de implementatie.
+Verzendt een Event naar de opgegeven [`IEventTarget`](../../../aspose.svg.dom.events/ieventtarget/), (synchronisch) en roept de getroffen EventListeners in de juiste volgorde aan. De normale regels voor event‑verwerking (inclusief de capture‑ en optionele bubbling‑fase) zijn ook van toepassing op handmatig met [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/) verzonden events.
 
 ```csharp
 public bool DispatchEvent(Event @event)
@@ -16,27 +16,25 @@ public bool DispatchEvent(Event @event)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| event | Event | Specificeert het gebeurtenistype, het gedrag en de contextuele informatie die moet worden gebruikt bij het verwerken van de gebeurtenis. |
+| event | Evenement | Specificeert het gebeurtenistype, gedrag en contextuele informatie die bij het verwerken van het event worden gebruikt. |
 
-### Winstwaarde
+### Retourwaarde
 
-De geretourneerde waarde van`DispatchEvent` geeft aan of een van de luisteraars die de gebeurtenis hebben afgehandeld, heeft aangeroepen[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) . Als[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) heette de waarde is false, anders is de waarde true.
+De retourwaarde van `DispatchEvent` geeft aan of een van de listeners die het event hebben afgehandeld, [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) hebben aangeroepen. Als [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) is aangeroepen, is de waarde false; anders is de waarde true.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
 | [DOMException](../../domexception/) |  |
 
-### Opmerkingen
+## Opmerkingen
 
-Gebeurtenissen die op deze manier worden verzonden, hebben hetzelfde vastleggings- en bubbelgedrag als gebeurtenissen die rechtstreeks door de implementatie worden verzonden. Het doel van de gebeurtenis is de[`EventTarget`](../) waarop`DispatchEvent` heet.
+Events die op deze manier worden verzonden, hebben hetzelfde capture‑ en bubbling‑gedrag als events die rechtstreeks door de implementatie worden verzonden. Het doel van het event is de [`EventTarget`](../) waarop `DispatchEvent` wordt aangeroepen.
 
 ### Zie ook
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [EventTarget](../)
-* naamruimte [Aspose.Svg.Dom](../../eventtarget/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,34 +1,34 @@
 ---
-title: Numeric.GetValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: Numeric methode. Krijgt de eenheidswaarde.
+title: "Numeric.GetValue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Numeric GetValue-methode. Haalt de eenheidswaarde op."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.drawing/numeric/getvalue/
 ---
 ## GetValue() {#getvalue}
 
-Krijgt de eenheidswaarde.
+Haalt de eenheidswaarde op.
 
 ```csharp
 public double GetValue()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
 De objectwaarde.
 
 ### Zie ook
 
 * class [Numeric](../)
-* naamruimte [Aspose.Svg.Drawing](../../numeric/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
-Krijgt de waarde geconverteerd naar de opgegeven waarde[`UnitType`](../../unittype/) .
+Haalt de waarde op die is geconverteerd naar het opgegeven [`UnitType`](../../unittype/).
 
 ```csharp
 public double GetValue(UnitType unitType)
@@ -38,21 +38,19 @@ public double GetValue(UnitType unitType)
 | --- | --- | --- |
 | unitType | UnitType | Type van de eenheid. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert waarde die is geconverteerd naar opgegeven type.
+Retourneert een waarde die wordt geconverteerd naar het opgegeven type.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | eenheidstype |
+| ArgumentNullException | unitType |
 
 ### Zie ook
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* naamruimte [Aspose.Svg.Drawing](../../numeric/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,39 +1,37 @@
 ---
-title: Aspose.Svg.Net
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Netnaamruimte wordt gepresenteerd door klassen en interfaces die verantwoordelijk zijn voor eenvoudige netwerkverwerking.
+title: "Aspose.Svg.Net"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.Net-namespace wordt gepresenteerd door klassen en interfaces die verantwoordelijk zijn voor het vergemakkelijken van eenvoudige netwerkverwerking."
 type: docs
-weight: 190
+weight: 210
 url: /nl/net/aspose.svg.net/
 ---
-De **Aspose.Svg.Net**naamruimte wordt gepresenteerd door klassen en interfaces die verantwoordelijk zijn voor eenvoudige netwerkverwerking.
+De **Aspose.Svg.Net** namespace wordt gepresenteerd door klassen en interfaces die verantwoordelijk zijn voor het vergemakkelijken van eenvoudige netwerkverwerking.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [ByteArrayContent](./bytearraycontent/) | Vertegenwoordigt inhoud op basis van een byte-array. |
-| [Content](./content/) | Vertegenwoordigt een basisklasse voor een HTTP-entiteitslichaam en inhoudskoppen. |
+| [ByteArrayContent](./bytearraycontent/) | Stelt inhoud voor op basis van een byte-array. |
+| [Content](./content/) | Stelt een basisklasse voor een HTTP-entiteitbody en inhoudsheaders voor. |
 | [ContentHeaders](./contentheaders/) | Bevat de headers die aan een inhoud zijn gekoppeld. |
-| [FormUrlEncodedContent](./formurlencodedcontent/) | Een container voor naam/waarde-tupels gecodeerd met het MIME-type application/x-www-form-urlencoded. |
-| [HttpMethod](./httpmethod/) | Vertegenwoordigt de hulpprogrammaklasse voor het ophalen en vergelijken van standaard HTTP-methoden. |
-| [MessageFilter](./messagefilter/) | Vertegenwoordigt abstracte basisklasse voor verschillende filterklassen die worden gebruikt om berichten op te vragen |
-| [MessageHandler](./messagehandler/) | Vertegenwoordigt een basistype voor berichtbehandelaars. |
-| [MessageHandlerCollection](./messagehandlercollection/) | Vertegenwoordigt verzameling van de[`MessageHandler`](../aspose.svg.net/messagehandler/) . |
-| [MultipartContent](./multipartcontent/) | Vertegenwoordigt een meerdelige/* inhoud. |
-| [MultipartFormDataContent](./multipartformdatacontent/) | Inhoud weergeven voor coderingsalgoritme voor meerdelige/formuliergegevens |
-| [RequestHeaders](./requestheaders/) | Bevat protocolkoppen die zijn gekoppeld aan een verzoek. |
-| [RequestMessage](./requestmessage/) | Vertegenwoordigt een verzoekbericht. |
-| [ResponseHeaders](./responseheaders/) | Bevat protocolheaders die zijn gekoppeld aan een antwoord. |
-| [ResponseMessage](./responsemessage/) | Vertegenwoordigt een antwoordbericht. |
-| [StreamContent](./streamcontent/) | Vertegenwoordigt inhoud op basis van een stream. |
-| [StringContent](./stringcontent/) | Vertegenwoordigt inhoud op basis van een tekenreeks. |
-| [UrlResolver](./urlresolver/) | Vertegenwoordigt hulpprogrammaklasse voor het oplossen van absolute URL door een Uniform Resource Identifier (URI). |
+| [FormUrlEncodedContent](./formurlencodedcontent/) | Een container voor naam/waarde-tuplets gecodeerd met het MIME-type application/x-www-form-urlencoded. |
+| [HttpMethod](./httpmethod/) | Stelt een hulpprogrammaklasse voor het ophalen en vergelijken van standaard HTTP-methoden voor. |
+| [MessageFilter](./messagefilter/) | Stelt een abstracte basisklasse voor verschillende filterklassen die worden gebruikt om berichten te doorzoeken voor |
+| [MessageHandler](./messagehandler/) | Stelt een basistype voor berichtafhandelaars voor. |
+| [MessageHandlerCollection](./messagehandlercollection/) | Stelt een collectie van de [`MessageHandler`](../aspose.svg.net/messagehandler/) voor. |
+| [MultipartContent](./multipartcontent/) | Stelt een multipart/*-inhoud voor. |
+| [MultipartFormDataContent](./multipartformdatacontent/) | Stelt inhoud voor het multipart/form-data-coderingsalgoritme. |
+| [RequestHeaders](./requestheaders/) | Bevat protocolheaders die bij een verzoek horen. |
+| [RequestMessage](./requestmessage/) | Stelt een verzoekbericht voor. |
+| [ResponseHeaders](./responseheaders/) | Bevat protocolheaders die bij een respons horen. |
+| [ResponseMessage](./responsemessage/) | Stelt een responsbericht voor. |
+| [StreamContent](./streamcontent/) | Stelt inhoud voor op basis van een stream. |
+| [StringContent](./stringcontent/) | Stelt inhoud voor op basis van een string. |
+| [UrlResolver](./urlresolver/) | Stelt een hulpprogrammaklasse voor om een absolute URL op te lossen via een Uniform Resource Identifier (URI). |
 ## Interfaces
 
-| Koppel | Beschrijving |
+| Interface | Beschrijving |
 | --- | --- |
 | [INetwork](./inetwork/) | Biedt een interface voor netwerkservices. |
 | [INetworkOperationContext](./inetworkoperationcontext/) | Biedt contextuele informatie voor de netwerkservices. |
-
-

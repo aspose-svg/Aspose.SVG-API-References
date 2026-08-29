@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSCharsetRule
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.ICSSCharsetRule koppel. De CSSCharsetRuleinterface vertegenwoordigt een charsetregel in een CSSstijlblad. De waarde van het coderingsattribuut heeft geen invloed op de codering van tekstgegevens in de DOMobjecten deze codering is altijd UTF16. Nadat een stylesheet is geladen is de waarde van het coderingsattribuut de waarde die wordt gevonden in de charsetregel. Als er geen charset in het originele document was wordt er geen CSSCharsetRule gemaakt. De waarde van het coderingsattribuut kan ook worden gebruikt als hint voor de codering die wordt gebruikt bij de serialisatie van het stijlblad.
+title: "ICSSCharsetRule Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.ICSSCharsetRule interface. De CSSCharsetRule interface vertegenwoordigt een charset-regel in een CSS-stijlblad. De waarde van het encoding-attribuut heeft geen invloed op de codering van tekstgegevens in de DOM-objecten; deze codering is altijd UTF-16. Nadat een stijlblad is geladen, is de waarde van het encoding-attribuut de waarde die in de charset-regel is gevonden. Als er geen charset in het oorspronkelijke document aanwezig was, wordt er geen CSSCharsetRule aangemaakt. De waarde van het encoding-attribuut kan ook worden gebruikt als hint voor de codering die wordt gebruikt bij het serialiseren van het stijlblad."
 type: docs
-weight: 530
+weight: 2530
 url: /nl/net/aspose.svg.dom.css/icsscharsetrule/
 ---
 ## ICSSCharsetRule interface
 
-De CSSCharsetRule-interface vertegenwoordigt een @charset-regel in een CSS-stijlblad. De waarde van het coderingsattribuut heeft geen invloed op de codering van tekstgegevens in de DOM-objecten; deze codering is altijd UTF-16. Nadat een stylesheet is geladen, is de waarde van het coderingsattribuut de waarde die wordt gevonden in de @charset-regel. Als er geen @charset in het originele document was, wordt er geen CSSCharsetRule gemaakt. De waarde van het coderingsattribuut kan ook worden gebruikt als hint voor de codering die wordt gebruikt bij de serialisatie van het stijlblad.
+De CSSCharsetRule interface vertegenwoordigt een @charset‑regel in een CSS‑stylesheet. De waarde van het encoding‑attribuut heeft geen invloed op de codering van tekstgegevens in de DOM‑objecten; deze codering is altijd UTF-16. Nadat een stylesheet is geladen, is de waarde van het encoding‑attribuut gelijk aan de waarde die in de @charset‑regel is gevonden. Als er geen @charset in het oorspronkelijke document stond, wordt er geen CSSCharsetRule aangemaakt. De waarde van het encoding‑attribuut kan ook worden gebruikt als hint voor de codering die bij het serialiseren van de stylesheet wordt gebruikt.
 
 ```csharp
 public interface ICSSCharsetRule : ICSSRule
@@ -23,7 +23,5 @@ public interface ICSSCharsetRule : ICSSRule
 ### Zie ook
 
 * interface [ICSSRule](../icssrule/)
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

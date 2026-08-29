@@ -1,27 +1,25 @@
 ---
-title: Url.Port
-second_title: Aspose.SVG voor .NET API-referentie
-description: Url eigendom. Haalt een tekenreeksweergave op of stelt deze in voor de opgegeven URLpoort.
+title: "Url.Port"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Url Port eigenschap. Haalt een tekenreeksrepresentatie op of stelt deze in voor de opgegeven URL-poort."
 type: docs
 weight: 90
 url: /nl/net/aspose.svg/url/port/
 ---
 ## Url.Port property
 
-Haalt een tekenreeksweergave op of stelt deze in voor de opgegeven URL-poort.
+Haalt op of stelt een tekenreeksrepresentatie in voor de opgegeven URL‑poort.
 
 ```csharp
 public string Port { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De poort.
 
 ### Zie ook
 
 * class [Url](../)
-* naamruimte [Aspose.Svg](../../url/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

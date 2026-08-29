@@ -1,14 +1,14 @@
 ---
-title: Interface IBlob
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.IO.IBlob koppel. Een Blobobject verwijst naar een bytereeks en heeft een kenmerk size dat het totale aantal bytes in de bytereeks is en een typekenmerk een ASCIIgecodeerde tekenreeks in kleine letters die het mediatype van de bytereeks vertegenwoordigt .
+title: "IBlob Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.IO.IBlob interface. Een Blob-object verwijst naar een byte‑reeks en heeft een size‑attribuut dat het totale aantal bytes in de byte‑reeks aangeeft, en een type‑attribuut dat een ASCII‑gecodeerde string in kleine letters is die het mediatype van de byte‑reeks weergeeft."
 type: docs
-weight: 1920
+weight: 4030
 url: /nl/net/aspose.svg.io/iblob/
 ---
 ## IBlob interface
 
-Een Blob-object verwijst naar een bytereeks en heeft een kenmerk size dat het totale aantal bytes in de bytereeks is, en een typekenmerk, een ASCII-gecodeerde tekenreeks in kleine letters die het mediatype van de bytereeks vertegenwoordigt .
+Een Blob‑object verwijst naar een byte‑reeks en heeft een size‑attribuut dat het totale aantal bytes in de reeks aangeeft, en een type‑attribuut, dat een ASCII‑gecodeerde tekenreeks in kleine letters is die het mediatype van de byte‑reeks weergeeft.
 
 ```csharp
 public interface IBlob
@@ -18,18 +18,16 @@ public interface IBlob
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Size](../../aspose.svg.io/iblob/size/) { get; } | Retourneert de grootte van de bytereeks in aantal bytes. Bij ophalen moeten conforme user-agents het totale aantal bytes retourneren dat kan worden gelezen door een FileReader of FileReaderSync-object, of 0 als de blob geen bytes heeft om te lezen . |
-| [Type](../../aspose.svg.io/iblob/type/) { get; } | De ASCII-gecodeerde tekenreeks in kleine letters die het mediatype van de blob vertegenwoordigt. Bij het ophalen moeten user-agents het type van een blob retourneren als een ASCII-gecodeerde tekenreeks in kleine letters, zodat wanneer deze wordt geconverteerd naar een byte reeks, is het een ontleedbaar MIME-type, of de lege tekenreeks – 0 bytes – als het type niet kan worden bepaald. |
+| [Size](../../aspose.svg.io/iblob/size/) { get; } | Retourneert de grootte van de byte‑reeks in aantal bytes. Bij ophalen moeten conforme gebruikersagenten het totale aantal bytes teruggeven dat gelezen kan worden door een FileReader‑ of FileReaderSync‑object, of 0 als de Blob geen bytes bevat om te lezen. |
+| [Type](../../aspose.svg.io/iblob/type/) { get; } | De ASCII‑gecodeerde string in kleine letters die het mediatype van de Blob weergeeft. Bij ophalen moeten gebruikersagenten het type van een Blob retourneren als een ASCII‑gecodeerde string in kleine letters, zodanig dat wanneer deze wordt omgezet naar een byte‑reeks, het een parseerbaar MIME‑type is, of de lege string – 0 bytes – als het type niet kan worden bepaald. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Slice](../../aspose.svg.io/iblob/slice/)(ulong, ulong, string) | Retourneert een nieuw Blob-object met bytes variërend van de optionele startparameter tot maar niet inclusief de optionele eindparameter en met een typekenmerk dat de waarde is van de optionele parameter contentType. |
+| [Slice](../../aspose.svg.io/iblob/slice/)(*ulong, ulong, string*) | Retourneert een nieuw Blob-object met bytes die variëren van de optionele start‑parameter tot, maar exclusief, de optionele eind‑parameter, en met een type‑attribuut dat de waarde van de optionele contentType‑parameter is. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.IO](../../aspose.svg.io/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

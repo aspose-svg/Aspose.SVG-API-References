@@ -1,7 +1,7 @@
 ---
-title: MutationObserverInit.Item
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationObserverInit eigendom. Haalt het element op of stelt het in met de opgegeven sleutel.
+title: "MutationObserverInit.Item"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationObserverInit Item-eigenschap. Haalt het element op met de opgegeven sleutel of stelt het in."
 type: docs
 weight: 100
 url: /nl/net/aspose.svg.dom.mutations/mutationobserverinit/item/
@@ -16,16 +16,14 @@ public object this[string key] { get; set; }
 
 | Parameter | Beschrijving |
 | --- | --- |
-| key | De sleutel van het element dat moet worden opgehaald of ingesteld. |
+| sleutel | De sleutel van het element om op te halen of in te stellen. |
 
-### Winstwaarde
+### Retourwaarde
 
 De waarde die is gekoppeld aan de opgegeven sleutel.
 
 ### Zie ook
 
 * class [MutationObserverInit](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

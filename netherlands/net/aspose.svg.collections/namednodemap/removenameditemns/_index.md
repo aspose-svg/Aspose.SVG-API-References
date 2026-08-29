@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.RemoveNamedItemNS
-second_title: Aspose.SVG voor .NET API-referentie
-description: NamedNodeMap methode. Verwijdert een knooppunt gespecificeerd door lokale naam en naamruimteURI.
+title: "NamedNodeMap.RemoveNamedItemNS"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NamedNodeMap RemoveNamedItemNS methode. Verwijdert een knooppunt dat is gespecificeerd door lokale naam en namespace-URI."
 type: docs
-weight: 70
+weight: 60
 url: /nl/net/aspose.svg.collections/namednodemap/removenameditemns/
 ---
 ## NamedNodeMap.RemoveNamedItemNS method
 
-Verwijdert een knooppunt gespecificeerd door lokale naam en naamruimte-URI.
+Verwijdert een knooppunt gespecificeerd door lokale naam en namespace-URI.
 
 ```csharp
 public Attr RemoveNamedItemNS(string namespaceURI, string localName)
@@ -16,18 +16,16 @@ public Attr RemoveNamedItemNS(string namespaceURI, string localName)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| namespaceURI | String | De naamruimte-URI. |
-| localName | String | Naam van de plaatselijke. |
+| namespaceURI | String | De namespace‑URI. |
+| localName | String | Naam van de lokale. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert knooppunt.
+Retourneert een knooppunt.
 
 ### Zie ook
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* naamruimte [Aspose.Svg.Collections](../../namednodemap/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

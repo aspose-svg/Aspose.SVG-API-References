@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.CharacterData
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationObserverInit eigendom. Stel in op waar als er mutaties in de gegevens van het doelwit moeten worden waargenomen. Kan worden weggelaten als characterDataOldValue is opgegeven
+title: "MutationObserverInit.CharacterData"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationObserverInit CharacterData-eigenschap. Stel in op true als mutaties in de gegevens van het doel moeten worden waargenomen. Kan worden weggelaten als characterDataOldValue is gespecificeerd."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom.mutations/mutationobserverinit/characterdata/
 ---
 ## MutationObserverInit.CharacterData property
 
-Stel in op waar als er mutaties in de gegevens van het doelwit moeten worden waargenomen. Kan worden weggelaten als characterDataOldValue is opgegeven
+Stel in op true als mutaties aan de gegevens van het doel moeten worden waargenomen. Kan worden weggelaten als characterDataOldValue is gespecificeerd.
 
 ```csharp
 public bool CharacterData { get; set; }
@@ -17,7 +17,5 @@ public bool CharacterData { get; set; }
 ### Zie ook
 
 * class [MutationObserverInit](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

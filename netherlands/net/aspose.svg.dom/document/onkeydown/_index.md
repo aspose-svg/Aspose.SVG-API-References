@@ -1,14 +1,14 @@
 ---
-title: Document.OnKeyDown
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document evenement. Haalt of stelt gebeurtenishandler in voor OnKeyDowngebeurtenis.
+title: "Document.OnKeyDown"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document OnKeyDown event. Haalt of stelt de gebeurtenishandler in voor de OnKeyDown event"
 type: docs
 weight: 440
 url: /nl/net/aspose.svg.dom/document/onkeydown/
 ---
 ## Document.OnKeyDown event
 
-Haalt of stelt gebeurtenishandler in voor OnKeyDown-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnKeyDown event.
 
 ```csharp
 public event DOMEventHandler OnKeyDown;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnKeyDown;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

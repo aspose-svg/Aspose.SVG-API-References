@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Method
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGTextPathElement eigendom. Komt overeen met attribuut method op het gegeven textPathelement.
+title: "SVGTextPathElement.Method"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGTextPathElement Method eigenschap. Komt overeen met attribuut method op het opgegeven textPath-element"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg/svgtextpathelement/method/
 ---
 ## SVGTextPathElement.Method property
 
-Komt overeen met attribuut 'method' op het gegeven 'textPath'-element.
+Komt overeen met attribuut ‘method’ op het opgegeven ‘textPath’-element.
 
 ```csharp
 public SVGAnimatedEnumeration Method { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'method' van het gegeven 'textPath' element.
+Het attribuut ‘method’ van het opgegeven ‘textPath’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* naamruimte [Aspose.Svg](../../svgtextpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

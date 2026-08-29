@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Result
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEDropShadowElement eigendom. Komt overeen met attribuut result op het gegeven feDropShadowelement.
+title: "SVGFEDropShadowElement.Result"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEDropShadowElement Result-eigenschap. Komt overeen met attribuut result op het opgegeven feDropShadow‑element"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.filters/svgfedropshadowelement/result/
 ---
 ## SVGFEDropShadowElement.Result property
 
-Komt overeen met attribuut 'result' op het gegeven 'feDropShadow'-element.
+Komt overeen met attribuut ‘result’ op het opgegeven ‘feDropShadow’-element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'result' van het gegeven 'feDropShadow' element.
+Het attribuut ‘result’ van het opgegeven ‘feDropShadow’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDropShadowElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

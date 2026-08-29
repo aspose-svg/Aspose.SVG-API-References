@@ -1,14 +1,14 @@
 ---
-title: Node.LookupNamespaceURI
-second_title: Aspose.SVG voor .NET API-referentie
-description: Node methode. Zoek de naamruimteURI op die is gekoppeld aan het opgegeven voorvoegsel beginnend vanaf dit knooppunt.
+title: "Node.LookupNamespaceURI"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Node LookupNamespaceURI methode. Zoek de namespace-URI die aan het opgegeven prefix is gekoppeld, beginnend vanaf dit knooppunt"
 type: docs
-weight: 260
+weight: 240
 url: /nl/net/aspose.svg.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method
 
-Zoek de naamruimte-URI op die is gekoppeld aan het opgegeven voorvoegsel, beginnend vanaf dit knooppunt.
+Zoek de namespace-URI die aan het opgegeven voorvoegsel is gekoppeld, beginnend bij dit knooppunt.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
@@ -16,16 +16,14 @@ public string LookupNamespaceURI(string prefix)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| prefix | String | Het voorvoegsel. |
+| voorvoegsel | String | Het voorvoegsel. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert naamruimte-URI
+Retourneert namespace-URI
 
 ### Zie ook
 
 * class [Node](../)
-* naamruimte [Aspose.Svg.Dom](../../node/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

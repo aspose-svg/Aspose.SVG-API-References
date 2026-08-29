@@ -1,14 +1,14 @@
 ---
-title: Class RGBColor
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.RGBColor klas. De RGBColorinterface wordt gebruikt om elke RGBkleurwaarde weer te geven. Deze interface weerspiegelt de waarden in de onderliggende stijleigenschap. Wijzigingen aan de CSSPrimitiveValueobjecten wijzigen dus de eigenschap style.
+title: "RGBColor‑klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.RGBColor‑klasse. De RGBColor‑interface wordt gebruikt om elke RGB‑kleurwaarde weer te geven. Deze interface weerspiegelt de waarden in de onderliggende stijl‑eigenschap. Daarom wijzigen aanpassingen aan de CSSPrimitiveValue‑objecten de stijl‑eigenschap."
 type: docs
-weight: 770
+weight: 2770
 url: /nl/net/aspose.svg.dom.css/rgbcolor/
 ---
 ## RGBColor class
 
-De RGBColor-interface wordt gebruikt om elke RGB-kleurwaarde weer te geven. Deze interface weerspiegelt de waarden in de onderliggende stijleigenschap. Wijzigingen aan de CSSPrimitiveValue-objecten wijzigen dus de eigenschap style.
+De RGBColor interface wordt gebruikt om elke RGB‑kleurwaarde te vertegenwoordigen. Deze interface weerspiegelt de waarden in de onderliggende stijl‑eigenschap. Daarom wijzigen aanpassingen aan de CSSPrimitiveValue‑objecten de stijl‑eigenschap.
 
 ```csharp
 public class RGBColor : DOMObject
@@ -18,22 +18,20 @@ public class RGBColor : DOMObject
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Alpha](../../aspose.svg.dom.css/rgbcolor/alpha/) { get; } | Dit attribuut wordt gebruikt voor de alfawaarde van de RGB-kleur. |
-| [Blue](../../aspose.svg.dom.css/rgbcolor/blue/) { get; } | Dit attribuut wordt gebruikt voor de blauwwaarde van de RGB-kleur. |
-| [Green](../../aspose.svg.dom.css/rgbcolor/green/) { get; } | Dit attribuut wordt gebruikt voor de groenwaarde van de RGB-kleur. |
-| [Red](../../aspose.svg.dom.css/rgbcolor/red/) { get; } | Dit attribuut wordt gebruikt voor de roodwaarde van de RGB-kleur. |
+| [Alpha](../../aspose.svg.dom.css/rgbcolor/alpha/) { get; } | Haalt de alfa‑componentwaarde van deze Color‑klasse op. |
+| [Blue](../../aspose.svg.dom.css/rgbcolor/blue/) { get; } | Haalt de blauwe componentwaarde van deze Color‑klasse op. |
+| [Green](../../aspose.svg.dom.css/rgbcolor/green/) { get; } | Haalt de groene componentwaarde van deze Color‑klasse op. |
+| [Red](../../aspose.svg.dom.css/rgbcolor/red/) { get; } | Haalt de rode componentwaarde van deze Color‑klasse op. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| [ToNative](../../aspose.svg.dom.css/rgbcolor/tonative/)() | Converteert naar het oorspronkelijke kleurobject. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| [ToNative](../../aspose.svg.dom.css/rgbcolor/tonative/)() | Converteert naar het native kleurobject. |
 
 ### Zie ook
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

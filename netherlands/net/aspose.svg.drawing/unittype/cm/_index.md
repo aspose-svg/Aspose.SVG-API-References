@@ -1,7 +1,7 @@
 ---
-title: UnitType.Cm
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is in centimeters
+title: "UnitType.Cm"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType Cm-veld. Meting is in centimeters"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.drawing/unittype/cm/
@@ -17,7 +17,5 @@ public static readonly UnitType Cm;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Document.Origin
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document eigendom. Haalt de oorsprong van het document op.
+title: "Document.Origin"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document Origin eigenschap. Haalt de document‑oorsprong op."
 type: docs
 weight: 200
 url: /nl/net/aspose.svg.dom/document/origin/
@@ -14,14 +14,12 @@ Haalt de oorsprong van het document op.
 public string Origin { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De oorsprong.
 
 ### Zie ook
 
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

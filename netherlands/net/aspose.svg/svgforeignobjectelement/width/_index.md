@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.Width
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGForeignObjectElement eigendom. Komt overeen met attribuut width op het opgegeven foreignObjectelement.
+title: "SVGForeignObjectElement.Width"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGForeignObjectElement Width eigenschap. Komt overeen met attribuut width van het opgegeven foreignObject-element"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg/svgforeignobjectelement/width/
 ---
 ## SVGForeignObjectElement.Width property
 
-Komt overeen met attribuut 'width' op het opgegeven 'foreignObject'-element.
+Komt overeen met het attribuut ‘width’ op het opgegeven ‘foreignObject’-element.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'width' van het gegeven 'foreignObject' element.
+Het attribuut ‘width’ van het opgegeven ‘foreignObject’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* naamruimte [Aspose.Svg](../../svgforeignobjectelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

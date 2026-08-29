@@ -1,30 +1,27 @@
 ---
-title: Interface INetworkService
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Services.INetworkService koppel. Biedt een interface voor netwerkbewerkingen.
+title: "INetworkService Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Services.INetworkService interface. Biedt een interface voor netwerkbewerkingen."
 type: docs
-weight: 3720
+weight: 5850
 url: /nl/net/aspose.svg.services/inetworkservice/
 ---
 ## INetworkService interface
 
-Biedt een interface voor netwerkbewerkingen.
+Biedt een interface voor de netwerkbewerkingen.
 
 ```csharp
-public interface INetworkService : IService
+public interface INetworkService
 ```
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | Krijgt een lijst van[`MessageHandler`](../../aspose.svg.net/messagehandler/) instanties die kunnen worden aangeroepen als een[`RequestMessage`](../../aspose.svg.net/requestmessage/) voert uit. |
-| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | Haalt de URL-resolver op of stelt deze in. |
+| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | Haalt een lijst op van [`MessageHandler`](../../aspose.svg.net/messagehandler/) instanties die worden aangeroepen terwijl een [`RequestMessage`](../../aspose.svg.net/requestmessage/) wordt uitgevoerd. |
+| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | Haalt op of stelt de URL-resolver in. |
 
 ### Zie ook
 
-* interface [IService](../iservice/)
-* naamruimte [Aspose.Svg.Services](../../aspose.svg.services/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

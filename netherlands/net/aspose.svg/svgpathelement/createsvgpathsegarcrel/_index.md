@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegArcRel
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathElement methode. Retourneert een zelfstandig ouderloos SVGPathSegArcRelobject.
+title: "SVGPathElement.CreateSVGPathSegArcRel"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathElement CreateSVGPathSegArcRel methode. Retourneert een zelfstandige, ouderloze SVGPathSegArcRel object"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg/svgpathelement/createsvgpathsegarcrel/
 ---
 ## SVGPathElement.CreateSVGPathSegArcRel method
 
-Retourneert een zelfstandig, ouderloos SVGPathSegArcRel-object.
+Retourneert een zelfstandige, ouderloze SVGPathSegArcRel object.
 
 ```csharp
 public SVGPathSegArcRel CreateSVGPathSegArcRel(float x, float y, float r1, float r2, float angle, 
@@ -17,23 +17,21 @@ public SVGPathSegArcRel CreateSVGPathSegArcRel(float x, float y, float r1, float
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| x | Single | De relatieve X-coördinaat voor het eindpunt van dit padsegment. |
-| y | Single | De relatieve Y-coördinaat voor het eindpunt van dit padsegment. |
-| r1 | Single | De straal van de x-as voor de ellips (dwz r1). |
-| r2 | Single | De straal van de y-as voor de ellips (dwz r2). |
+| x | Single | De relatieve X‑coördinaat voor het eindpunt van dit padsegment. |
+| y | Single | De relatieve Y‑coördinaat voor het eindpunt van dit padsegment. |
+| r1 | Single | De x-as radius voor de ellips (d.w.z. r1). |
+| r2 | Single | De y-as radius voor de ellips (d.w.z. r2). |
 | angle | Single | De rotatiehoek in graden voor de x-as van de ellips ten opzichte van de x-as van het gebruikerscoördinatensysteem. |
-| largeArcFlag | Boolean | De waarde van de parameter large-arc-flag. |
-| sweepFlag | Boolean | De waarde van de parameter large-arc-flag. |
+| largeArcFlag | Boolean | De waarde van de large-arc-flag parameter. |
+| sweepFlag | Boolean | De waarde van de large-arc-flag parameter. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een zelfstandig, ouderloos SVGPathSegArcRel-object.
+Een zelfstandige, ouderloze SVGPathSegArcRel object.
 
 ### Zie ook
 
 * class [SVGPathSegArcRel](../../../aspose.svg.paths/svgpathsegarcrel/)
 * class [SVGPathElement](../)
-* naamruimte [Aspose.Svg](../../svgpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.IsComposing
-second_title: Aspose.SVG voor .NET API-referentie
-description: KeyboardEvent eigendom. waar als de sleutelgebeurtenis plaatsvindt als onderdeel van een compositiesessie dwz na een compositiestartgebeurtenis en vóór de overeenkomstige compositieeindgebeurtenis. De nietgeïnitialiseerde waarde van dit kenmerk MOET onwaar zijn.
+title: "KeyboardEvent.IsComposing"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "KeyboardEvent IsComposing eigenschap. true als het toetsaanduiding plaatsvindt als onderdeel van een compositiesessie, d.w.z. na een compositionstart‑event en vóór het overeenkomstige compositionend‑event. De niet‑geïnitialiseerde waarde van dit attribuut MOET false zijn."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom.events/keyboardevent/iscomposing/
 ---
 ## KeyboardEvent.IsComposing property
 
-waar als de sleutelgebeurtenis plaatsvindt als onderdeel van een compositiesessie, dwz na een compositiestartgebeurtenis en vóór de overeenkomstige compositieeindgebeurtenis. De niet-geïnitialiseerde waarde van dit kenmerk MOET onwaar zijn.
+true als de toetsenbordgebeurtenis plaatsvindt als onderdeel van een compositiesessie, d.w.z. na een compositionstart‑gebeurtenis en vóór de bijbehorende compositionend‑gebeurtenis. De niet‑geïnitialiseerde waarde van dit attribuut MOET false zijn.
 
 ```csharp
 public bool IsComposing { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als deze instantie aan het samenstellen is; anders,`vals` .
+`true` als deze instantie aan het componeren is; anders, `false`.
 
 ### Zie ook
 
 * class [KeyboardEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

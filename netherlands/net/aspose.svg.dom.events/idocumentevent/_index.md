@@ -1,32 +1,30 @@
 ---
-title: Interface IDocumentEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Events.IDocumentEvent koppel. DeIDocumentEvent interface biedt een mechanisme waarmee de gebruiker eenEvent van een type dat wordt ondersteund door de implementatie.
+title: "IDocumentEvent Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Events.IDocumentEvent interface. De IDocumentEvent interface biedt een mechanisme waarmee de gebruiker een Event van een type kan maken dat door de implementatie wordt ondersteund"
 type: docs
-weight: 940
+weight: 2940
 url: /nl/net/aspose.svg.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface
 
-De`IDocumentEvent` interface biedt een mechanisme waarmee de gebruiker een[`Event`](../event/) van een type dat wordt ondersteund door de implementatie.
+De `IDocumentEvent` interface biedt een mechanisme waarmee de gebruiker een [`Event`](../event/) van een type kan maken dat door de implementatie wordt ondersteund.
 
 ```csharp
 public interface IDocumentEvent
 ```
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(string) | Creëert een[`Event`](../event/) van een type dat wordt ondersteund door de implementatie. |
+| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(*string*) | Maakt een [`Event`](../event/) van een type dat door de implementatie wordt ondersteund. |
 
-### Opmerkingen
+## Opmerkingen
 
-Verwacht wordt dat de`IDocumentEvent` interface zal worden geïmplementeerd op hetzelfde object dat the implementeert[`Document`](../../aspose.svg.dom/document/) interface in een implementatie die het Event-model ondersteunt.
+Er wordt verwacht dat de `IDocumentEvent` interface wordt geïmplementeerd op hetzelfde object dat de [`Document`](../../aspose.svg.dom/document/) interface implementeert in een implementatie die het Event‑model ondersteunt.
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

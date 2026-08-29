@@ -1,28 +1,26 @@
 ---
-title: Device2.EndElement
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Beëindigt de weergave van het knooppunt.
+title: "Device-2.EndElement"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device EndElement-methode. Beëindigt het renderen van het knooppunt"
 type: docs
-weight: 130
+weight: 160
 url: /nl/net/aspose.svg.rendering/device-2/endelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
+## Device<TGraphicContext,TRenderingOptions>.EndElement method
 
-Beëindigt de weergave van het knooppunt.
+Beëindigt het renderen van het knooppunt.
 
 ```csharp
-public abstract void EndElement(Element element)
+public virtual void EndElement(Element element)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| element | Element | De[`Element`](../../../aspose.svg.dom/element/). |
+| element | Element | De [`Element`](../../../aspose.svg.dom/element/). |
 
 ### Zie ook
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

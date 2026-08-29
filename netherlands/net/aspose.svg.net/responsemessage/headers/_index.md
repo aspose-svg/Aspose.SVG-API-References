@@ -1,7 +1,7 @@
 ---
-title: ResponseMessage.Headers
-second_title: Aspose.SVG voor .NET API-referentie
-description: ResponseMessage eigendom. Haalt de headers op.
+title: "ResponseMessage.Headers"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ResponseMessage Headers-eigenschap. Haalt de headers op"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.net/responsemessage/headers/
@@ -14,15 +14,13 @@ Haalt de headers op.
 public ResponseHeaders Headers { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De koppen.
+De headers.
 
 ### Zie ook
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* naamruimte [Aspose.Svg.Net](../../responsemessage/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

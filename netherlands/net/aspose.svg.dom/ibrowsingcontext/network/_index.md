@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Network
-second_title: Aspose.SVG voor .NET API-referentie
-description: IBrowsingContext eigendom. Haalt de netwerkservices op.
+title: "IBrowsingContext.Network"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IBrowsingContext Network eigenschap. Haalt de netwerkservices op."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom/ibrowsingcontext/network/
@@ -14,15 +14,13 @@ Haalt de netwerkservices op.
 public INetwork Network { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De netwerkdiensten.
+De netwerkservices.
 
 ### Zie ook
 
 * interface [INetwork](../../../aspose.svg.net/inetwork/)
 * interface [IBrowsingContext](../)
-* naamruimte [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

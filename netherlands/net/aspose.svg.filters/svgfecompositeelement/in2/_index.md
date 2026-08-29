@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.In2
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFECompositeElement eigendom. Komt overeen met attribuut in2 op het gegeven feComposite element.
+title: "SVGFECompositeElement.In2"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFECompositeElement In2 eigenschap. Komt overeen met attribuut in2 op het opgegeven feComposite element"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.filters/svgfecompositeelement/in2/
 ---
 ## SVGFECompositeElement.In2 property
 
-Komt overeen met attribuut 'in2' op het gegeven 'feComposite' element.
+Komt overeen met attribuut ‘in2’ op het opgegeven ‘feComposite’-element.
 
 ```csharp
 public SVGAnimatedString In2 { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'in2' op het gegeven 'feComposite' element.
+Het attribuut ‘in2’ op het opgegeven ‘feComposite’ element.
 
 ### Zie ook
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFECompositeElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

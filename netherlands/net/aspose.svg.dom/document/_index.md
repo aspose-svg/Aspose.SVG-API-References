@@ -1,14 +1,14 @@
 ---
-title: Class Document
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Document klas. Het document vertegenwoordigt het volledige HTML XML of SVGdocument. Conceptueel is het de root van de documentstructuur en biedt het de primaire toegang tot de documentgegevens.
+title: "Documentklasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Document class. Het Document vertegenwoordigt het volledige HTML‑, XML‑ of SVG‑document. Conceptueel is het de wortel van de documentboom en biedt het primaire toegang tot de gegevens van het document."
 type: docs
-weight: 810
+weight: 2810
 url: /nl/net/aspose.svg.dom/document/
 ---
 ## Document class
 
-Het document vertegenwoordigt het volledige HTML-, XML- of SVG-document. Conceptueel is het de root van de documentstructuur en biedt het de primaire toegang tot de documentgegevens.
+De Document vertegenwoordigt het volledige HTML-, XML- of SVG-document. Conceptueel is het de wortel van de documentboom en biedt het primaire toegang tot de gegevens van het document.
 
 ```csharp
 public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal, 
@@ -19,169 +19,181 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 
 | Naam | Beschrijving |
 | --- | --- |
-| virtual [Attributes](../../aspose.svg.dom/node/attributes/) { get; } | Een NamedNodeMap met de attributen van dit knooppunt (als het een Element is) of anders nul. |
-| override [BaseURI](../../aspose.svg.dom/document/baseuri/) { get; } | De absolute basis-URI van dit knooppunt of null als de implementatie geen absolute URI kon verkrijgen. |
+| override [BaseURI](../../aspose.svg.dom/document/baseuri/) { get; } | De absolute basis‑URI van dit knooppunt of null als de implementatie geen absolute URI kon verkrijgen. |
 | [CharacterSet](../../aspose.svg.dom/document/characterset/) { get; } | Haalt de codering van het document op. |
 | [Charset](../../aspose.svg.dom/document/charset/) { get; } | Haalt de codering van het document op. |
-| [ChildElementCount](../../aspose.svg.dom/document/childelementcount/) { get; } | Retourneert het huidige aantal elementknooppunten dat kinderen zijn van dit element. 0 als dit element geen onderliggende knooppunten heeft die van nodeType 1. zijn |
-| [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | Een NodeList die alle kinderen van deze node bevat. Als er geen kinderen zijn, is dit een NodeList die geen nodes bevat.. |
+| [ChildElementCount](../../aspose.svg.dom/document/childelementcount/) { get; } | Geeft het huidige aantal elementknooppunten terug die kinderen zijn van dit element. 0 als dit element geen kindknooppunten heeft van nodeType 1. |
+| [ChildNodes](../../aspose.svg.dom/node/childnodes/) { get; } | Retourneert een live [`NodeList`](../../aspose.svg.collections/nodelist/) van kindknooppunten van het opgegeven element waarbij het eerste kindknooppunt index 0 krijgt. Kindknooppunten omvatten elementen, tekst en commentaren. |
 | [Children](../../aspose.svg.dom/document/children/) { get; } | Geeft de onderliggende elementen terug. |
 | [ContentType](../../aspose.svg.dom/document/contenttype/) { get; } | Haalt het inhoudstype van het document op. |
-| [Context](../../aspose.svg.dom/document/context/) { get; } | Haalt de huidige browsercontext op. |
-| [DefaultView](../../aspose.svg.dom/document/defaultview/) { get; } | Het defaultView IDL-attribuut van de documentinterface, bij ophalen, moet het WindowProxy-object van de browsercontext van dit document retourneren, als dit document een bijbehorende browsecontext heeft, of anders null. |
-| [Doctype](../../aspose.svg.dom/document/doctype/) { get; } | De documenttypeverklaring die aan dit document is gekoppeld. |
-| [DocumentElement](../../aspose.svg.dom/document/documentelement/) { get; } | Dit is een handig attribuut dat directe toegang geeft tot het onderliggende knooppunt dat het documentelement van het document is. |
-| [DocumentURI](../../aspose.svg.dom/document/documenturi/) { get; } | De locatie van het document of null indien niet gedefinieerd of als het document is gemaakt met DOMImplementation.createDocument. |
-| [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | Het eerste kind van dit knooppunt. Als zo'n knooppunt niet bestaat, retourneert dit null. |
-| [FirstElementChild](../../aspose.svg.dom/document/firstelementchild/) { get; } | Retourneert het eerste onderliggende elementknooppunt van dit element. null als dit element geen onderliggende elementen heeft. |
-| [Implementation](../../aspose.svg.dom/document/implementation/) { get; } | Het DOMImplementatieobject dat dit document afhandelt. |
+| [Context](../../aspose.svg.dom/document/context/) { get; } | Haalt de huidige browse‑context op. |
+| [DefaultView](../../aspose.svg.dom/document/defaultview/) { get; } | Het defaultView‑IDL‑attribuut van de Document‑interface moet bij opvragen dit Document‑browse‑context‑WindowProxy‑object retourneren, als dit Document een gekoppelde browse‑context heeft, anders null. |
+| [Doctype](../../aspose.svg.dom/document/doctype/) { get; } | De Document Type Declaration die aan dit document is gekoppeld. |
+| [DocumentElement](../../aspose.svg.dom/document/documentelement/) { get; } | Dit is een gebruiksgemak‑attribuut dat directe toegang biedt tot het kindknooppunt dat het document‑element van het document is. |
+| [DocumentURI](../../aspose.svg.dom/document/documenturi/) { get; } | De locatie van het document of null als ongedefinieerd of als het Document is gemaakt met DOMImplementation.createDocument. |
+| [FirstChild](../../aspose.svg.dom/node/firstchild/) { get; } | Retourneert het eerste kind van de node in de boom, of null als de node geen kinderen heeft. |
+| [FirstElementChild](../../aspose.svg.dom/document/firstelementchild/) { get; } | Geeft het eerste kind‑elementknooppunt van dit element terug. null als dit element geen kind‑elementen heeft. |
+| [Implementation](../../aspose.svg.dom/document/implementation/) { get; } | Het DOMImplementation-object dat dit document verwerkt. |
 | [InputEncoding](../../aspose.svg.dom/document/inputencoding/) { get; } | Haalt de codering van het document op. |
-| [LastChild](../../aspose.svg.dom/node/lastchild/) { get; } | Het laatste kind van dit knooppunt. Als zo'n knooppunt niet bestaat, retourneert dit null. |
-| [LastElementChild](../../aspose.svg.dom/document/lastelementchild/) { get; } | Geeft het laatste onderliggende elementknooppunt van dit element terug. null als dit element geen onderliggende elementen heeft. |
-| virtual [LocalName](../../aspose.svg.dom/node/localname/) { get; } | Retourneert het lokale deel van de gekwalificeerde naam van dit knooppunt. Voor knooppunten van een ander type dan ELEMENT_NODE en ATTRIBUTE_NODE en knooppunten gemaakt met een DOM Level 1-methode, zoals Document.createElement(), is dit altijd null. |
+| [LastChild](../../aspose.svg.dom/node/lastchild/) { get; } | Retourneert het laatste kind van de node. Als de ouder een element is, is het kind doorgaans een elementknooppunt, een tekstknooppunt of een commentaarknooppunt. Het retourneert null als er geen kindelementen zijn. |
+| [LastElementChild](../../aspose.svg.dom/document/lastelementchild/) { get; } | Retourneert het laatste kind-elementknooppunt van dit element. null als dit element geen kindelementen heeft. |
+| virtual [LocalName](../../aspose.svg.dom/node/localname/) { get; } | Retourneert het lokale deel van de gekwalificeerde naam van dit knooppunt. Voor knooppunten van elk type behalve [`ELEMENT_NODE`](../node/element_node/) en [`ATTRIBUTE_NODE`](../node/attribute_node/) en knooppunten die zijn gemaakt met een DOM Level 1-methode, zoals [`CreateElement`](./createelement/), is dit altijd null. |
 | [Location](../../aspose.svg.dom/document/location/) { get; } | De locatie van het document. |
-| virtual [NamespaceURI](../../aspose.svg.dom/node/namespaceuri/) { get; } | De naamruimte-URI van dit knooppunt, of null als deze niet is gespecificeerd. |
-| [NextElementSibling](../../aspose.svg.dom/document/nextelementsibling/) { get; } | Retourneert het volgende elementknooppunt van dit element. null als dit element geen element-zusterknooppunten heeft die na dit element in de documentstructuur komen. |
-| [NextSibling](../../aspose.svg.dom/node/nextsibling/) { get; } | Het knooppunt dat onmiddellijk volgt op dit knooppunt. Als zo'n knooppunt niet bestaat, retourneert dit null. |
+| virtual [NamespaceURI](../../aspose.svg.dom/node/namespaceuri/) { get; } | Retourneert de namespace-URI van het element, of null als het element zich niet in een namespace bevindt. |
+| [NextElementSibling](../../aspose.svg.dom/document/nextelementsibling/) { get; } | Retourneert het volgende sibling‑elementknooppunt van dit element. null als dit element geen element‑sibling‑knooppunten heeft die na dit knooppunt in de documentboom komen. |
+| [NextSibling](../../aspose.svg.dom/node/nextsibling/) { get; } | Retourneert het knooppunt dat direct volgt op het opgegeven knooppunt in de ouder's [`ChildNodes`](../node/childnodes/), of retourneert null als het opgegeven knooppunt het laatste kind is in het bovenliggende element. |
 | override [NodeName](../../aspose.svg.dom/document/nodename/) { get; } | De naam van dit knooppunt, afhankelijk van het type. |
 | override [NodeType](../../aspose.svg.dom/document/nodetype/) { get; } | Een code die het type van het onderliggende object vertegenwoordigt. |
-| virtual [NodeValue](../../aspose.svg.dom/node/nodevalue/) { get; set; } | De waarde van dit knooppunt, afhankelijk van het type. |
+| virtual [NodeValue](../../aspose.svg.dom/node/nodevalue/) { get; set; } | Retourneert of stelt de waarde van het huidige knooppunt in. |
 | [Origin](../../aspose.svg.dom/document/origin/) { get; } | Haalt de oorsprong van het document op. |
-| override [OwnerDocument](../../aspose.svg.dom/document/ownerdocument/) { get; } | Haalt het eigenaarsdocument op. |
-| [ParentElement](../../aspose.svg.dom/node/parentelement/) { get; } | Haalt de ouder op[`Element`](../element/) van dit knooppunt. |
-| [ParentNode](../../aspose.svg.dom/node/parentnode/) { get; } | De ouder van dit knooppunt. Alle knooppunten, behalve Attr, Document, DocumentFragment, Entity en Notation kunnen een ouder hebben. Als een knooppunt echter net is gemaakt en nog niet aan de boom is toegevoegd, of als het uit de boom is verwijderd, is dit null. |
-| virtual [Prefix](../../aspose.svg.dom/node/prefix/) { get; set; } | Het naamruimtevoorvoegsel van dit knooppunt, of null als het niet is gespecificeerd. Als het is gedefinieerd als null, heeft het instellen ervan geen effect |
-| [PreviousElementSibling](../../aspose.svg.dom/document/previouselementsibling/) { get; } | Retourneert het vorige elementknooppunt van dit element. null als dit element geen element-zusterknooppunten heeft die vóór dit element in de documentstructuur komen. |
-| [PreviousSibling](../../aspose.svg.dom/node/previoussibling/) { get; } | Het knooppunt dat onmiddellijk aan dit knooppunt voorafgaat. Als zo'n knooppunt niet bestaat, retourneert dit null. |
-| [ReadyState](../../aspose.svg.dom/document/readystate/) { get; } | Retourneert de gereedheid van het document. Het "laden" terwijl het document wordt geladen, "interactief" zodra het klaar is met parseren maar nog steeds subbronnen laadt, en "voltooid" zodra het is geladen. |
-| [StrictErrorChecking](../../aspose.svg.dom/document/stricterrorchecking/) { get; set; } | Een attribuut dat specificeert of foutcontrole wordt afgedwongen of niet. Indien ingesteld op false, is de implementatie vrij om niet elk mogelijk foutgeval te testen dat normaal is gedefinieerd voor DOM-bewerkingen, en geen DOMException op te roepen voor DOM-bewerkingen of fouten te rapporteren tijdens het gebruik van Document.normalizeDocument(). In geval van een fout is het gedrag ongedefinieerd. Dit kenmerk is standaard waar. |
-| [StyleSheets](../../aspose.svg.dom/document/stylesheets/) { get; } | Een lijst met alle stijlbladen die expliciet zijn gekoppeld aan of ingebed in een document. Voor HTML-documenten omvat dit externe stijlbladen, opgenomen via het HTML LINK-element, en inline STYLE-elementen. |
-| virtual [TextContent](../../aspose.svg.dom/node/textcontent/) { get; set; } | Dit attribuut retourneert de tekstinhoud van dit knooppunt en zijn afstammelingen. Als het is gedefinieerd als null, heeft het instellen ervan geen effect. Bij het instellen worden alle mogelijke kinderen die dit knooppunt heeft verwijderd en, als de nieuwe tekenreeks niet leeg of null is, vervangen door een enkel tekstknooppunt dat de tekenreeks bevat waarop dit kenmerk is ingesteld. |
-| [XmlStandalone](../../aspose.svg.dom/document/xmlstandalone/) { get; set; } | Een attribuut dat specificeert, als onderdeel van de XML-declaratie, of dit document op zichzelf staat. Dit is niet waar wanneer niet gespecificeerd. |
-| [XmlVersion](../../aspose.svg.dom/document/xmlversion/) { get; set; } | Een attribuut dat, als onderdeel van de XML-declaratie, het versienummer van dit document specificeert. Als er geen declaratie is en als dit document de functie "XML" ondersteunt, is de waarde "1.0". Als dit document de "XML"-functie niet ondersteunt, is de waarde altijd null. |
+| override [OwnerDocument](../../aspose.svg.dom/document/ownerdocument/) { get; } | Haalt het eigenaar‑document op. |
+| [ParentElement](../../aspose.svg.dom/node/parentelement/) { get; } | Retourneert de ouder van het DOM-knooppunt [`Element`](../element/), of null als het knooppunt geen ouder heeft, of als de ouder geen DOM-Element is. |
+| [ParentNode](../../aspose.svg.dom/node/parentnode/) { get; } | Retourneert de ouder van het opgegeven knooppunt in de DOM-boom. |
+| virtual [Prefix](../../aspose.svg.dom/node/prefix/) { get; set; } | Retourneert het namespace-voorvoegsel van het opgegeven element, of null als er geen voorvoegsel is opgegeven. |
+| [PreviousElementSibling](../../aspose.svg.dom/document/previouselementsibling/) { get; } | Retourneert het vorige sibling‑elementknooppunt van dit element. null als dit element geen element‑sibling‑knooppunten heeft die vóór dit knooppunt in de documentboom komen. |
+| [PreviousSibling](../../aspose.svg.dom/node/previoussibling/) { get; } | Retourneert het knooppunt dat direct voorafgaat aan het opgegeven knooppunt in de [`ChildNodes`](../node/childnodes/) lijst van de ouder, of null als het opgegeven knooppunt het eerste in die lijst is. |
+| [ReadyState](../../aspose.svg.dom/document/readystate/) { get; } | Retourneert de gereedheid van het document. "loading" terwijl het Document laadt, "interactive" zodra het klaar is met parseren maar nog sub‑resources laadt, en "complete" zodra het volledig is geladen. |
+| [StrictErrorChecking](../../aspose.svg.dom/document/stricterrorchecking/) { get; set; } | Een attribuut dat aangeeft of foutcontrole wordt afgedwongen of niet. Wanneer ingesteld op false, mag de implementatie elke mogelijke fout niet testen die normaal gedefinieerd is voor DOM‑operaties, en geen DOMException werpen bij DOM‑operaties of fouten melden tijdens het gebruik van Document.normalizeDocument(). In geval van een fout is het gedrag ongedefinieerd. Dit attribuut is standaard true. |
+| [StyleSheets](../../aspose.svg.dom/document/stylesheets/) { get; } | Een lijst met alle stijlbladen die expliciet zijn gekoppeld aan of ingebed in een document. Voor HTML‑documenten omvat dit externe stijlbladen, opgenomen via het HTML‑LINK‑element, en inline STYLE‑elementen. |
+| virtual [TextContent](../../aspose.svg.dom/node/textcontent/) { get; set; } | Stelt de tekstinhoud van het knooppunt en zijn afstammelingen voor. |
+| [XmlStandalone](../../aspose.svg.dom/document/xmlstandalone/) { get; set; } | Een attribuut dat, als onderdeel van de XML‑declaratie, aangeeft of dit document zelfstandig is. Dit is false wanneer niet gespecificeerd. |
+| [XmlVersion](../../aspose.svg.dom/document/xmlversion/) { get; set; } | Een attribuut dat, als onderdeel van de XML‑declaratie, het versienummer van dit document aangeeft. Als er geen declaratie is en dit document de "XML"‑functie ondersteunt, is de waarde "1.0". Als dit document de "XML"‑functie niet ondersteunt, is de waarde altijd null. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, IEventListener) | Met deze methode kunnen gebeurtenislisteners worden geregistreerd op het gebeurtenisdoel. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, DOMEventHandler, bool) | Met deze methode kunnen gebeurtenislisteners worden geregistreerd op het gebeurtenisdoel. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(string, IEventListener, bool) | Met deze methode kunnen gebeurtenislisteners worden geregistreerd op het gebeurtenisdoel. |
-| [AppendChild](../../aspose.svg.dom/node/appendchild/)(Node) | Voegt het knooppunt newChild toe aan het einde van de lijst met kinderen van dit knooppunt. Als de newChild al in de stamboom staat, wordt deze eerst verwijderd. |
-| [CloneNode](../../aspose.svg.dom/node/clonenode/)() | Retourneert een duplicaat van dit knooppunt, dwz dient als generieke kopieerconstructor voor knooppunten. Het gedupliceerde knooppunt heeft geen ouder (parentNode is null) en geen gebruikersgegevens. |
-| [CloneNode](../../aspose.svg.dom/node/clonenode/)(bool) | Retourneert een duplicaat van dit knooppunt, dwz dient als generieke kopieerconstructor voor knooppunten. Het gedupliceerde knooppunt heeft geen ouder (parentNode is null) en geen gebruikersgegevens. |
-| [CreateAttribute](../../aspose.svg.dom/document/createattribute/)(string) | Creëert een Attr van de opgegeven naam. |
-| [CreateAttributeNS](../../aspose.svg.dom/document/createattributens/)(string, string) | Maakt een kenmerk van de gegeven gekwalificeerde naam en naamruimte-URI. |
-| [CreateCDATASection](../../aspose.svg.dom/document/createcdatasection/)(string) | Maakt een CDATASection-knooppunt waarvan de waarde de opgegeven tekenreeks is. |
-| [CreateComment](../../aspose.svg.dom/document/createcomment/)(string) | Creëert een commentaarknooppunt op basis van de opgegeven tekenreeks. |
-| [CreateDocumentFragment](../../aspose.svg.dom/document/createdocumentfragment/)() | Maakt een leeg DocumentFragment-object aan. |
-| [CreateDocumentType](../../aspose.svg.dom/document/createdocumenttype/)(string, string, string, string) | Creëert een DocumentType-knooppunt. |
-| [CreateElement](../../aspose.svg.dom/document/createelement/)(string) | Creëert een element van het gespecificeerde type. Merk op dat de geretourneerde instantie de Element-interface implementeert, dus attributen kunnen rechtstreeks op het geretourneerde object worden gespecificeerd. |
-| [CreateElementNS](../../aspose.svg.dom/document/createelementns/)(string, string) | Maakt een element van de opgegeven gekwalificeerde naam en naamruimte-URI. |
-| [CreateEntityReference](../../aspose.svg.dom/document/createentityreference/)(string) | Maakt een EntityReference-object. Bovendien, als de entiteit waarnaar wordt verwezen bekend is, wordt de onderliggende lijst van het EntityReference-knooppunt hetzelfde gemaakt als die van het corresponderende Entity-knooppunt. |
-| [CreateEvent](../../aspose.svg.dom/document/createevent/)(string) | Creëert een[`Event`](../../aspose.svg.dom.events/event/) van een type dat wordt ondersteund door de implementatie. |
-| [CreateExpression](../../aspose.svg.dom/document/createexpression/)(string, IXPathNSResolver) | Maakt een geparseerde XPath-expressie met opgeloste naamruimten. Dit is handig wanneer een expressie opnieuw wordt gebruikt in een toepassing, aangezien het mogelijk maakt om de uitdrukkingsreeks in een efficiëntere interne vorm te compileren en alle naamruimtevoorvoegsels die binnen de uitdrukking voorkomen vooraf op te lossen. |
-| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator/#createnodeiterator)(Node) | Maak een nieuwe NodeIterator over de substructuur die is geworteld in het gespecificeerde knooppunt. |
-| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator/#createnodeiterator_1)(Node, long) | Maak een nieuwe NodeIterator over de substructuur die is geworteld in het gespecificeerde knooppunt. |
-| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator/#createnodeiterator_2)(Node, long, INodeFilter) | Maak een nieuwe NodeIterator over de substructuur die is geworteld in het gespecificeerde knooppunt. |
-| [CreateNSResolver](../../aspose.svg.dom/document/creatensresolver/)(Node) | Past elk DOM-knooppunt aan om naamruimten op te lossen, zodat een XPath-expressie gemakkelijk kan worden geëvalueerd ten opzichte van de context van het knooppunt waar het in het document verscheen. Deze adapter werkt zoals de DOM Level 3-methode`opzoekenNaamruimteURI` op knooppunten bij het oplossen van de namespaceURI van een bepaald voorvoegsel met behulp van de huidige informatie die beschikbaar is in de hiërarchie van het knooppunt op het moment dat lookupNamespaceURI wordt aangeroepen, waarbij ook het impliciete xml-voorvoegsel correct wordt opgelost. |
-| [CreateProcessingInstruction](../../aspose.svg.dom/document/createprocessinginstruction/)(string, string) | Maakt een ProcessingInstruction-knooppunt met de opgegeven naam en gegevensreeksen. |
-| [CreateTextNode](../../aspose.svg.dom/document/createtextnode/)(string) | Maakt een tekstknooppunt op basis van de opgegeven tekenreeks. |
-| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker/#createtreewalker)(Node) | Maak een nieuwe TreeWalker over de subboom die is geroot op het gespecificeerde knooppunt. |
-| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker/#createtreewalker_1)(Node, long) | Maak een nieuwe TreeWalker over de subboom die is geroot op het gespecificeerde knooppunt. |
-| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker/#createtreewalker_2)(Node, long, INodeFilter) | Maak een nieuwe TreeWalker over de subboom die is geroot op het gespecificeerde knooppunt. |
-| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | Met deze methode kunnen gebeurtenissen worden verzonden naar het gebeurtenismodel van de implementatie. |
-| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Voert door de toepassing gedefinieerde taken uit die verband houden met het vrijmaken, vrijgeven of resetten van onbeheerde bronnen. |
-| [Evaluate](../../aspose.svg.dom/document/evaluate/)(string, Node, IXPathNSResolver, XPathResultType, object) | Evalueert een XPath-expressietekenreeks en retourneert indien mogelijk een resultaat van het opgegeven type. |
-| [GetElementById](../../aspose.svg.dom/document/getelementbyid/)(string) | Geeft het element terug dat een ID-attribuut heeft met de gegeven waarde. Als een dergelijk element niet bestaat, wordt null geretourneerd. Als meer dan één element een ID-attribuut met die waarde heeft, is wat wordt geretourneerd ongedefinieerd. |
-| [GetElementsByClassName](../../aspose.svg.dom/document/getelementsbyclassname/)(string) | Retourneert een live NodeList-object met alle elementen in het document waarvan alle klassen zijn opgegeven in argument. http://www.w3.org/TR/dom/ |
-| [GetElementsByTagName](../../aspose.svg.dom/document/getelementsbytagname/)(string) | Retourneert een NodeList van alle Elementen in documentvolgorde met een gegeven tagnaam en zijn opgenomen in het document. |
-| [GetElementsByTagNameNS](../../aspose.svg.dom/document/getelementsbytagnamens/)(string, string) | Retourneert een NodeList van alle elementen met een gegeven lokale naam en naamruimte-URI in documentvolgorde. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| virtual [HasAttributes](../../aspose.svg.dom/node/hasattributes/)() | Geeft terug of dit knooppunt (als het een element is) attributen heeft |
-| [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | Geeft terug of dit knooppunt kinderen heeft. |
-| [ImportNode](../../aspose.svg.dom/document/importnode/)(Node, bool) | Importeert een knooppunt uit een ander document naar dit document, zonder het bronknooppunt uit het originele document te wijzigen of te verwijderen; deze methode maakt een nieuwe kopie van het bronknooppunt. |
-| [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(Node, Node) | Voegt het knooppunt in vóór het bestaande onderliggende knooppunt. Als kind null is, voegt u een knooppunt in aan het einde van de lijst met kinderen. Als kind een DocumentFragment-object is, worden alle kinderen in dezelfde volgorde ingevoegd vóór kind. Als het kind al in de boom zit, wordt het eerst verwijderd. |
-| [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(string) | Deze methode controleert of de opgegeven naamruimte-URI de standaard naamruimte is of niet. |
-| [IsEqualNode](../../aspose.svg.dom/node/isequalnode/)(Node) | Test of twee knooppunten gelijk zijn. Deze methode test op gelijkheid van knooppunten, niet gelijkheid (dwz of de twee knooppunten verwijzingen naar hetzelfde object zijn), wat kan worden getest met Node.isSameNode(). Alle knooppunten die hetzelfde zijn, zullen ook gelijk zijn, hoewel het omgekeerde misschien niet waar is. |
-| [IsSameNode](../../aspose.svg.dom/node/issamenode/)(Node) | Geeft terug of dit knooppunt hetzelfde knooppunt is als het opgegeven knooppunt. Deze methode biedt een manier om te bepalen of twee Node-referenties die door de implementatie worden geretourneerd, naar hetzelfde object verwijzen. Wanneer twee Node-referenties verwijzingen zijn naar hetzelfde object, zelfs via een proxy, kunnen de referenties volledig onderling uitwisselbaar worden gebruikt, zodat alle attributen dezelfde waarden hebben en het aanroepen van dezelfde DOM-methode voor beide referenties altijd exact hetzelfde effect heeft. |
-| [LookupNamespaceURI](../../aspose.svg.dom/node/lookupnamespaceuri/)(string) | Zoek de naamruimte-URI op die is gekoppeld aan het opgegeven voorvoegsel, beginnend vanaf dit knooppunt. |
-| [LookupPrefix](../../aspose.svg.dom/node/lookupprefix/)(string) | Zoek het voorvoegsel op dat is gekoppeld aan de opgegeven naamruimte-URI, beginnend bij dit knooppunt. De standaard naamruimtedeclaraties worden door deze methode genegeerd. Zie Namespace Prefix Lookup voor meer informatie over het algoritme dat door deze methode wordt gebruikt. |
-| [Navigate](../../aspose.svg.dom/document/navigate/#navigate)(RequestMessage) | Laadt het document op basis van het opgegeven verzoekobject en vervangt de vorige inhoud. |
-| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_4)(string) | Laadt het document op de gespecificeerde Uniform Resource Locator (URL) in de huidige instantie en vervangt de vorige inhoud. |
-| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_1)(Url) | Laadt het document op de gespecificeerde Uniform Resource Locator (URL) in de huidige instantie en vervangt de vorige inhoud. |
-| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_3)(Stream, string) | Laadt het document vanuit gespecificeerde inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. Het laden van documenten begint vanaf de huidige positie in de stroom. |
-| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_2)(Stream, Url) | Laadt het document vanuit gespecificeerde inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. Het laden van documenten begint vanaf de huidige positie in de stroom. |
-| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_6)(string, string) | Laadt het document vanuit gespecificeerde inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. |
-| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_5)(string, Url) | Laadt het document vanuit gespecificeerde inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. |
-| [Normalize](../../aspose.svg.dom/node/normalize/)() | Zet alle tekstknooppunten in de volledige diepte van de subboom onder dit knooppunt, inclusief attribuutknooppunten, in een "normale" vorm waar alleen structuur (bijv. elementen, opmerkingen, verwerkingsinstructies, CDATA-secties en entiteitsreferenties) tekst scheidt knooppunten, dwz er zijn geen aangrenzende tekstknooppunten of lege tekstknooppunten. Dit kan worden gebruikt om ervoor te zorgen dat de DOM-weergave van een document hetzelfde is alsof het is opgeslagen en opnieuw geladen, en is handig wanneer bewerkingen (zoals XPointer [XPointer]-lookups) die afhankelijk zijn van een bepaalde documentboomstructuur, moeten worden uitgevoerd. worden gebruikt. Als de parameter "normalize-characters" van het DOMConfiguration-object dat aan het Node.ownerDocument is gekoppeld, waar is, zal deze methode ook de tekens van de tekstknooppunten volledig normaliseren. |
-| [QuerySelector](../../aspose.svg.dom/document/queryselector/)(string) | Retourneert het eerste element in het document dat overeenkomt met selector |
-| [QuerySelectorAll](../../aspose.svg.dom/document/queryselectorall/)(string) | Retourneert een NodeList van alle elementen in het document, die overeenkomen met selector |
-| [RemoveChild](../../aspose.svg.dom/node/removechild/)(Node) | Verwijdert het onderliggende knooppunt aangegeven door oldChild uit de lijst met onderliggende items en retourneert het. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, IEventListener) | Met deze methode kunnen gebeurtenislisteners uit het gebeurtenisdoel worden verwijderd. Als een[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd uit een[`EventTarget`](../eventtarget/) terwijl het een gebeurtenis verwerkt, wordt het niet geactiveerd door de huidige acties. Gebeurtenislisteners kunnen nooit worden aangeroepen nadat ze zijn verwijderd. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, DOMEventHandler, bool) | Met deze methode kunnen gebeurtenislisteners uit het gebeurtenisdoel worden verwijderd. Als een[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd uit een[`EventTarget`](../eventtarget/) terwijl het een gebeurtenis verwerkt, wordt het niet geactiveerd door de huidige acties. Gebeurtenislisteners kunnen nooit worden aangeroepen nadat ze zijn verwijderd. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(string, IEventListener, bool) | Met deze methode kunnen gebeurtenislisteners uit het gebeurtenisdoel worden verwijderd. Als een[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd uit een[`EventTarget`](../eventtarget/) terwijl het een gebeurtenis verwerkt, wordt het niet geactiveerd door de huidige acties. Gebeurtenislisteners kunnen nooit worden aangeroepen nadat ze zijn verwijderd. |
-| virtual [RenderTo](../../aspose.svg.dom/document/renderto/)(IDevice) | Deze methode wordt gebruikt om de inhoud van het huidige document weer te geven op een opgegeven grafisch apparaat. |
-| [ReplaceChild](../../aspose.svg.dom/node/replacechild/)(Node, Node) | Vervangt het onderliggende knooppunt oldChild door newChild in de lijst met onderliggende items en retourneert het oldChild-knooppunt. Als newChild een DocumentFragment-object is, wordt oldChild vervangen door alle DocumentFragment-kinderen, die in dezelfde volgorde worden ingevoegd. Als de newChild al in de stamboom staat, wordt deze eerst verwijderd. |
-| override [ToString](../../aspose.svg.dom/node/tostring/)() | Geeft als resultaat eenString die deze instantie vertegenwoordigt. |
-| [Write](../../aspose.svg.dom/document/write/)(params string[]) | Schrijf een tekstreeks naar een documentstroom geopend door open(). Merk op dat de functie een document zal produceren dat niet noodzakelijkerwijs wordt aangestuurd door een DTD en daarom kan zijn een ongeldig resultaat opleveren in de context van het document. |
-| [WriteLn](../../aspose.svg.dom/document/writeln/)(params string[]) | Schrijf een tekstreeks gevolgd door een teken voor een nieuwe regel naar een document stroom geopend door open(). Merk op dat de functie will een document produceert dat niet noodzakelijkerwijs wordt aangestuurd door een DTD en kan daarom een ongeldig resultaat opleveren in de context van the document |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/)*) | Stelt een functie in die wordt aangeroepen telkens wanneer het opgegeven evenement aan het doel wordt geleverd. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [DOMEventHandler](../../aspose.svg.dom.events/domeventhandler/), bool*) | Stelt een functie in die wordt aangeroepen telkens wanneer het opgegeven evenement aan het doel wordt geleverd. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/), bool*) | Stelt een functie in die wordt aangeroepen telkens wanneer het opgegeven evenement aan het doel wordt geleverd. |
+| [AppendChild](../../aspose.svg.dom/node/appendchild/)(*[Node](../node/)*) | Voegt een knooppunt toe aan het einde van de lijst met kinderen van een opgegeven ouderknooppunt. Als het opgegeven kind een verwijzing is naar een bestaand knooppunt in het document, verplaatst [`AppendChild`](../node/appendchild/) het van zijn huidige positie naar de nieuwe positie (er is geen vereiste om het knooppunt uit zijn ouderknooppunt te verwijderen voordat het aan een ander knooppunt wordt toegevoegd). |
+| [CloneNode](../../aspose.svg.dom/node/clonenode/)() | Retourneert een duplicaat van het knooppunt waarop deze methode werd aangeroepen. |
+| [CloneNode](../../aspose.svg.dom/node/clonenode/)(*bool*) | Retourneert een duplicaat van het knooppunt waarop deze methode werd aangeroepen. De parameter bepaalt of de in een knooppunt aanwezige subboom ook wordt gekloond al dan niet. |
+| [CreateAttribute](../../aspose.svg.dom/document/createattribute/)(*string*) | Deze methode maakt een nieuw attribuutknooppunt aan en retourneert het. Het gemaakte object is een knooppunt dat de [`Attr`](../attr/)‑klasse implementeert. De DOM dwingt niet af welk type attributen op deze manier aan een bepaald element kan worden toegevoegd. |
+| [CreateAttributeNS](../../aspose.svg.dom/document/createattributens/)(*string, string*) | Deze methode maakt een nieuw attribuutknooppunt aan en retourneert het. Het gemaakte object is een knooppunt dat de [`Attr`](../attr/)‑klasse implementeert. De DOM dwingt niet af welk type attributen op deze manier aan een bepaald element kan worden toegevoegd. |
+| [CreateCDATASection](../../aspose.svg.dom/document/createcdatasection/)(*string*) | Maakt een CDATASection‑knooppunt waarvan de waarde de opgegeven tekenreeks is. |
+| [CreateComment](../../aspose.svg.dom/document/createcomment/)(*string*) | Maakt een Comment‑knooppunt aan met de opgegeven tekenreeks. |
+| [CreateDocumentFragment](../../aspose.svg.dom/document/createdocumentfragment/)() | Maakt een nieuw leeg [`DocumentFragment`](../documentfragment/) aan waarin DOM‑knooppunten kunnen worden toegevoegd om een off‑screen DOM‑boom op te bouwen. |
+| [CreateDocumentType](../../aspose.svg.dom/document/createdocumenttype/)(*string, string, string, string*) | De methode retourneert een [`DocumentType`](../documenttype/)‑object dat ofwel kan worden gebruikt met [`CreateDocument`](../idomimplementation/createdocument/) bij het aanmaken van een document, of in het document kan worden geplaatst via methoden zoals [`InsertBefore`](../node/insertbefore/) of [`ReplaceChild`](../node/replacechild/). |
+| [CreateElement](../../aspose.svg.dom/document/createelement/)(*string*) | Maakt het HTML‑element aan dat wordt gespecificeerd door localName, of een HTMLUnknownElement als localName niet wordt herkend. |
+| [CreateElementNS](../../aspose.svg.dom/document/createelementns/)(*string, string*) | Maakt een element aan met de opgegeven gekwalificeerde naam en namespace‑URI. |
+| [CreateEntityReference](../../aspose.svg.dom/document/createentityreference/)(*string*) | Maakt een EntityReference‑object aan. Bovendien, als de verwezen entiteit bekend is, wordt de kindlijst van het EntityReference‑knooppunt gelijkgesteld aan die van het overeenkomstige Entity‑knooppunt. |
+| [CreateEvent](../../aspose.svg.dom/document/createevent/)(*string*) | Maakt een [`Event`](../../aspose.svg.dom.events/event/) aan van een type dat door de implementatie wordt ondersteund. |
+| [CreateExpression](../../aspose.svg.dom/document/createexpression/)(*string, [IXPathNSResolver](../../aspose.svg.dom.xpath/ixpathnsresolver/)*) | Maakt een geparseerde XPath-expressie met opgeloste namespaces. Dit is nuttig wanneer een expressie opnieuw zal worden gebruikt in een toepassing, omdat het mogelijk maakt de expressiestring te compileren naar een efficiëntere interne vorm en alle namespace‑prefixen die in de expressie voorkomen vooraf op te lossen. |
+| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator/#createnodeiterator)(*[Node](../node/)*) | Maak een nieuwe NodeIterator aan over de subboom die is geworteld in het opgegeven knooppunt. |
+| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator/#createnodeiterator_1)(*[Node](../node/), long*) | Maak een nieuwe NodeIterator aan over de subboom die is geworteld in het opgegeven knooppunt. |
+| [CreateNodeIterator](../../aspose.svg.dom/document/createnodeiterator/#createnodeiterator_2)(*[Node](../node/), long, [INodeFilter](../../aspose.svg.dom.traversal/inodefilter/)*) | Maak een nieuwe NodeIterator aan over de subboom die is geworteld in het opgegeven knooppunt. |
+| [CreateNSResolver](../../aspose.svg.dom/document/creatensresolver/)(*[Node](../node/)*) | Past elke DOM‑knoop aan om namespaces op te lossen zodat een XPath-expressie gemakkelijk kan worden geëvalueerd ten opzichte van de context van de knoop waarin deze in het document verscheen. Deze adapter werkt zoals de DOM Level 3‑methode `lookupNamespaceURI` op knopen bij het oplossen van de namespaceURI van een gegeven prefix met behulp van de huidige informatie die beschikbaar is in de hiërarchie van de knoop op het moment dat lookupNamespaceURI wordt aangeroepen, en lost ook de impliciete xml‑prefix correct op. |
+| [CreateProcessingInstruction](../../aspose.svg.dom/document/createprocessinginstruction/)(*string, string*) | Maakt een ProcessingInstruction‑knooppunt aan met de opgegeven naam‑ en gegevens‑strings. |
+| [CreateTextNode](../../aspose.svg.dom/document/createtextnode/)(*string*) | Maakt een Text‑knooppunt aan met de opgegeven tekenreeks. |
+| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker/#createtreewalker)(*[Node](../node/)*) | Maak een nieuwe TreeWalker over de subboom die is geworteld bij de opgegeven knoop. |
+| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker/#createtreewalker_1)(*[Node](../node/), long*) | Maak een nieuwe TreeWalker over de subboom die is geworteld bij de opgegeven knoop. |
+| [CreateTreeWalker](../../aspose.svg.dom/document/createtreewalker/#createtreewalker_2)(*[Node](../node/), long, [INodeFilter](../../aspose.svg.dom.traversal/inodefilter/)*) | Maak een nieuwe TreeWalker over de subboom die is geworteld bij de opgegeven knoop. |
+| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(*[Event](../../aspose.svg.dom.events/event/)*) | Verzendt een Event naar het opgegeven [`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/), (synchroon) en roept de betrokken EventListeners in de juiste volgorde aan. De normale regels voor eventverwerking (inclusief de capture‑ en optionele bubbling‑fase) zijn ook van toepassing op handmatig verzonden events met [`DispatchEvent`](../../aspose.svg.dom.events/ieventtarget/dispatchevent/). |
+| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Voert door de applicatie gedefinieerde taken uit die verband houden met het vrijgeven, loslaten of opnieuw instellen van niet-beheerde bronnen. |
+| [Evaluate](../../aspose.svg.dom/document/evaluate/)(*string, [Node](../node/), [IXPathNSResolver](../../aspose.svg.dom.xpath/ixpathnsresolver/), [XPathResultType](../../aspose.svg.dom.xpath/xpathresulttype/), object*) | Evalueert een XPath-expressiestring en retourneert een resultaat van het opgegeven type indien mogelijk. |
+| [GetElementById](../../aspose.svg.dom/document/getelementbyid/)(*string*) | Deze methode retourneert een [`Element`](../element/) object dat het element vertegenwoordigt waarvan de id‑eigenschap overeenkomt met de opgegeven tekenreeks. Aangezien element‑ID's uniek moeten zijn indien opgegeven, zijn ze een handige manier om snel toegang te krijgen tot een specifiek element. |
+| [GetElementsByClassName](../../aspose.svg.dom/document/getelementsbyclassname/)(*string*) | Deze methode retourneert een array‑achtig object van alle kindelementen die alle opgegeven klassenaam(en) hebben. |
+| [GetElementsByTagName](../../aspose.svg.dom/document/getelementsbytagname/)(*string*) | Deze methode retourneert een [`HTMLCollection`](../../aspose.svg.collections/htmlcollection/) van elementen met de opgegeven tagnaam. |
+| [GetElementsByTagNameNS](../../aspose.svg.dom/document/getelementsbytagnamens/)(*string, string*) | Retourneert een lijst van elementen met de opgegeven tagnaam die tot de opgegeven namespace behoren. Het volledige document wordt doorzocht, inclusief de root‑knoop. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| [HasChildNodes](../../aspose.svg.dom/node/haschildnodes/)() | Retourneert een booleaanse waarde die aangeeft of het gegeven [`Node`](../node/) kindknooppunten heeft of niet. |
+| [ImportNode](../../aspose.svg.dom/document/importnode/)(*[Node](../node/), bool*) | Importeert een knoop van een ander document naar dit document, zonder de bronknoop uit het oorspronkelijke document te wijzigen of te verwijderen; deze methode maakt een nieuwe kopie van de bronknoop. |
+| [InsertBefore](../../aspose.svg.dom/node/insertbefore/)(*[Node](../node/), [Node](../node/)*) | Voegt het knooppunt in vóór het bestaande kindknooppunt child. Als child null is, wordt het knooppunt aan het einde van de lijst met kinderen ingevoegd. Als child een DocumentFragment-object is, worden al zijn kinderen, in dezelfde volgorde, vóór child ingevoegd. Als het kind al in de boom aanwezig is, wordt het eerst verwijderd. |
+| [IsDefaultNamespace](../../aspose.svg.dom/node/isdefaultnamespace/)(*string*) | Deze methode controleert of de opgegeven namespaceURI de standaardnamespace is of niet. |
+| [IsEqualNode](../../aspose.svg.dom/node/isequalnode/)(*[Node](../node/)*) | Test of twee knooppunten gelijk zijn. Deze methode test op gelijkheid van knooppunten, niet op identiek zijn (d.w.z. of de twee knooppunten verwijzingen naar hetzelfde object zijn), wat kan worden getest met Node.isSameNode(). Alle knooppunten die identiek zijn, zijn ook gelijk, hoewel het omgekeerde niet altijd waar is. |
+| [IsSameNode](../../aspose.svg.dom/node/issamenode/)(*[Node](../node/)*) | Methode is een verouderde alias voor de === strikte gelijkheidsoperator. Dat wil zeggen, het test of twee knooppunten identiek zijn (met andere woorden, of ze naar hetzelfde object verwijzen). |
+| [LookupNamespaceURI](../../aspose.svg.dom/node/lookupnamespaceuri/)(*string*) | Zoek de namespace-URI die aan het opgegeven voorvoegsel is gekoppeld, beginnend bij dit knooppunt. |
+| [LookupPrefix](../../aspose.svg.dom/node/lookupprefix/)(*string*) | Zoek het voorvoegsel dat aan de opgegeven namespace-URI is gekoppeld, beginnend bij dit knooppunt. De standaardnamespace-declaraties worden door deze methode genegeerd. Zie Namespace Prefix Lookup voor details over het algoritme dat door deze methode wordt gebruikt. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate)(*[RequestMessage](../../aspose.svg.net/requestmessage/)*) | Laadt het document op basis van het opgegeven request‑object, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_8)(*string*) | Laadt het document op de opgegeven Uniform Resource Locator (URL) in de huidige instantie, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_2)(*[Url](../../aspose.svg/url/)*) | Laadt het document op de opgegeven Uniform Resource Locator (URL) in de huidige instantie, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_1)(*[RequestMessage](../../aspose.svg.net/requestmessage/), CancellationToken*) | Laadt het document op basis van het opgegeven request‑object, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_6)(*Stream, string*) | Laadt het document vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. Het laden van het document start vanaf de huidige positie in de stream. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_4)(*Stream, [Url](../../aspose.svg/url/)*) | Laadt het document vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. Het laden van het document start vanaf de huidige positie in de stream. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_13)(*string, CancellationToken*) | Laadt het document op de opgegeven Uniform Resource Locator (URL) in de huidige instantie, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_11)(*string, string*) | Laadt het document vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_9)(*string, [Url](../../aspose.svg/url/)*) | Laadt het document vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_3)(*[Url](../../aspose.svg/url/), CancellationToken*) | Laadt het document op de opgegeven Uniform Resource Locator (URL) in de huidige instantie, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_7)(*Stream, string, CancellationToken*) | Laadt het document vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. Het laden van het document start vanaf de huidige positie in de stream. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_5)(*Stream, [Url](../../aspose.svg/url/), CancellationToken*) | Laadt het document vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. Het laden van het document start vanaf de huidige positie in de stream. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_12)(*string, string, CancellationToken*) | Laadt het document vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. |
+| [Navigate](../../aspose.svg.dom/document/navigate/#navigate_10)(*string, [Url](../../aspose.svg/url/), CancellationToken*) | Laadt het document vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen, waarbij de vorige inhoud wordt vervangen. |
+| [NavigateAsync](../../aspose.svg.dom/document/navigateasync/#navigateasync)(*[RequestMessage](../../aspose.svg.net/requestmessage/), CancellationToken*) | Laadt het document asynchroon op basis van het opgegeven request‑object. |
+| [NavigateAsync](../../aspose.svg.dom/document/navigateasync/#navigateasync_6)(*string, CancellationToken*) | Laadt het document asynchroon op de opgegeven Uniform Resource Locator (URL) in de huidige instantie. |
+| [NavigateAsync](../../aspose.svg.dom/document/navigateasync/#navigateasync_1)(*[Url](../../aspose.svg/url/), CancellationToken*) | Laadt het document asynchroon op de opgegeven Uniform Resource Locator (URL) in de huidige instantie. |
+| [NavigateAsync](../../aspose.svg.dom/document/navigateasync/#navigateasync_3)(*Stream, string, CancellationToken*) | Laadt het document asynchroon vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen. |
+| [NavigateAsync](../../aspose.svg.dom/document/navigateasync/#navigateasync_2)(*Stream, [Url](../../aspose.svg/url/), CancellationToken*) | Laadt het document asynchroon vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen. |
+| [NavigateAsync](../../aspose.svg.dom/document/navigateasync/#navigateasync_5)(*string, string, CancellationToken*) | Laadt het document asynchroon vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen. |
+| [NavigateAsync](../../aspose.svg.dom/document/navigateasync/#navigateasync_4)(*string, [Url](../../aspose.svg/url/), CancellationToken*) | Laadt het document asynchroon vanuit de opgegeven inhoud en gebruikt baseUri om relatieve bronnen op te lossen. |
+| [Normalize](../../aspose.svg.dom/node/normalize/)() | Doe alle Text-knooppunten op de volledige diepte van de subboom onder dit Node, inclusief attribuutknooppunten, in een "normale" vorm waarbij alleen de structuur (bijv. elementen, opmerkingen, verwerkingsinstructies, CDATA-secties en entiteitsreferenties) Text-knooppunten scheidt, d.w.z. er zijn geen aangrenzende Text-knooppunten noch lege Text-knooppunten. Dit kan worden gebruikt om te garanderen dat de DOM-weergave van een document hetzelfde is als wanneer het zou worden opgeslagen en opnieuw geladen, en is nuttig wanneer bewerkingen (zoals XPointer [XPointer] opzoekingen) die afhankelijk zijn van een specifieke documentboomstructuur moeten worden gebruikt. Als de parameter "normalize-characters" van het DOMConfiguration-object dat is gekoppeld aan Node.ownerDocument waar is, normaliseert deze methode ook volledig de tekens van de Text-knooppunten. |
+| [QuerySelector](../../aspose.svg.dom/document/queryselector/)(*string*) | Retourneert het eerste Element in het document dat aan de selector voldoet |
+| [QuerySelectorAll](../../aspose.svg.dom/document/queryselectorall/)(*string*) | Retourneert een NodeList van alle Elements in het document die aan de selector voldoen |
+| [RemoveChild](../../aspose.svg.dom/node/removechild/)(*[Node](../node/)*) | Verwijdert een kindknooppunt uit de DOM en retourneert het verwijderde knooppunt. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/)*) | Deze methode maakt het verwijderen van event listeners van het eventdoel mogelijk. Als een [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd van een [`EventTarget`](../eventtarget/) terwijl deze een gebeurtenis verwerkt, zal deze niet worden geactiveerd door de huidige acties. Event Listeners kunnen nooit worden aangeroepen nadat ze zijn verwijderd. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [DOMEventHandler](../../aspose.svg.dom.events/domeventhandler/), bool*) | Deze methode maakt het verwijderen van event listeners van het eventdoel mogelijk. Als een [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd van een [`EventTarget`](../eventtarget/) terwijl deze een gebeurtenis verwerkt, zal deze niet worden geactiveerd door de huidige acties. Event Listeners kunnen nooit worden aangeroepen nadat ze zijn verwijderd. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/)(*string, [IEventListener](../../aspose.svg.dom.events/ieventlistener/), bool*) | Deze methode maakt het verwijderen van event listeners van het eventdoel mogelijk. Als een [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) wordt verwijderd van een [`EventTarget`](../eventtarget/) terwijl deze een gebeurtenis verwerkt, zal deze niet worden geactiveerd door de huidige acties. Event Listeners kunnen nooit worden aangeroepen nadat ze zijn verwijderd. |
+| virtual [RenderTo](../../aspose.svg.dom/document/renderto/)(*[IDevice](../../aspose.svg.rendering/idevice/)*) | Deze methode wordt gebruikt om de inhoud van het huidige document te renderen naar een opgegeven grafisch apparaat. |
+| [ReplaceChild](../../aspose.svg.dom/node/replacechild/)(*[Node](../node/), [Node](../node/)*) | Vervangt het kindknooppunt oldChild door newChild in de lijst van kinderen, en retourneert het oldChild-knooppunt. Als newChild een DocumentFragment-object is, wordt oldChild vervangen door alle kinderen van de DocumentFragment, die in dezelfde volgorde worden ingevoegd. Als newChild al in de boom aanwezig is, wordt het eerst verwijderd. |
+| override [ToString](../../aspose.svg.dom/node/tostring/)() | Retourneert een String die deze instantie vertegenwoordigt. |
+| [Write](../../aspose.svg.dom/document/write/)(*params string[]*) | Schrijf een tekenreeks tekst naar een documentstroom die is geopend met open(). Merk op dat de functie een document kan produceren dat niet noodzakelijkerwijs wordt aangestuurd door een DTD en daarom een ongeldig resultaat kan opleveren in de context van het document. |
+| [WriteLn](../../aspose.svg.dom/document/writeln/)(*params string[]*) | Schrijf een tekenreeks tekst, gevolgd door een regeleinde‑teken, naar een documentstroom die is geopend met open(). Merk op dat de functie een document kan produceren dat niet noodzakelijkerwijs wordt aangestuurd door een DTD en daarom een ongeldig resultaat kan opleveren in de context van het document. |
 
 ## Evenementen
 
 | Naam | Beschrijving |
 | --- | --- |
-| event [OnAbort](../../aspose.svg.dom/document/onabort/) | Haalt of stelt gebeurtenishandler in voor OnAbort-gebeurtenis. |
-| event [OnBlur](../../aspose.svg.dom/document/onblur/) | Haalt of stelt gebeurtenishandler in voor OnBlur-gebeurtenis. |
-| event [OnCancel](../../aspose.svg.dom/document/oncancel/) | Haalt of stelt gebeurtenishandler in voor OnCancel-gebeurtenis. |
-| event [OnCanplay](../../aspose.svg.dom/document/oncanplay/) | Haalt of stelt gebeurtenishandler in voor OnCanplay-gebeurtenis. |
-| event [OnCanPlayThrough](../../aspose.svg.dom/document/oncanplaythrough/) | Haalt of stelt gebeurtenishandler in voor OnCanPlayThrough-gebeurtenis. |
-| event [OnChange](../../aspose.svg.dom/document/onchange/) | Haalt of stelt gebeurtenishandler in voor OnChange-gebeurtenis. |
-| event [OnClick](../../aspose.svg.dom/document/onclick/) | Haalt of stelt gebeurtenishandler in voor OnClick-gebeurtenis. |
-| event [OnCueChange](../../aspose.svg.dom/document/oncuechange/) | Haalt of stelt gebeurtenishandler in voor OnCueChange-gebeurtenis. |
-| event [OnDblClick](../../aspose.svg.dom/document/ondblclick/) | Haalt of stelt gebeurtenishandler in voor OnDblClick-gebeurtenis. |
-| event [OnDurationChange](../../aspose.svg.dom/document/ondurationchange/) | Haalt of stelt gebeurtenishandler in voor OnDurationChange-gebeurtenis. |
-| event [OnEmptied](../../aspose.svg.dom/document/onemptied/) | Haalt of stelt gebeurtenishandler in voor OnEmptied-gebeurtenis. |
-| event [OnEnded](../../aspose.svg.dom/document/onended/) | Haalt of stelt gebeurtenishandler in voor OnEnded-gebeurtenis. |
-| event [OnError](../../aspose.svg.dom/document/onerror/) | Haalt of stelt gebeurtenishandler in voor OnError-gebeurtenis. |
-| event [OnFocus](../../aspose.svg.dom/document/onfocus/) | Krijgt of stelt gebeurtenishandler in voor OnFocus-gebeurtenis. |
-| event [OnInput](../../aspose.svg.dom/document/oninput/) | Haalt of stelt gebeurtenishandler in voor OnInput-gebeurtenis. |
-| event [OnInvalid](../../aspose.svg.dom/document/oninvalid/) | Haalt of stelt gebeurtenishandler in voor OnInvalid-gebeurtenis. |
-| event [OnKeyDown](../../aspose.svg.dom/document/onkeydown/) | Haalt of stelt gebeurtenishandler in voor OnKeyDown-gebeurtenis. |
-| event [OnKeyPress](../../aspose.svg.dom/document/onkeypress/) | Krijgt of stelt gebeurtenishandler in voor OnKeyPress-gebeurtenis. |
-| event [OnKeyUp](../../aspose.svg.dom/document/onkeyup/) | Haalt of stelt gebeurtenishandler in voor OnKeyUp-gebeurtenis. |
-| event [OnLoad](../../aspose.svg.dom/document/onload/) | Haalt of stelt gebeurtenishandler in voor OnLoad-gebeurtenis. |
-| event [OnLoadedData](../../aspose.svg.dom/document/onloadeddata/) | Haalt of stelt gebeurtenishandler in voor OnLoadedData-gebeurtenis. |
-| event [OnLoadedMetadata](../../aspose.svg.dom/document/onloadedmetadata/) | Haalt of stelt gebeurtenishandler in voor OnLoadedMetadata-gebeurtenis. |
-| event [OnLoadStart](../../aspose.svg.dom/document/onloadstart/) | Haalt of stelt gebeurtenishandler in voor OnLoadStart-gebeurtenis. |
-| event [OnMouseDown](../../aspose.svg.dom/document/onmousedown/) | Haalt of stelt gebeurtenishandler in voor OnMouseDown-gebeurtenis. |
-| event [OnMouseEnter](../../aspose.svg.dom/document/onmouseenter/) | Haalt gebeurtenishandler op of stelt deze in voor OnMouseEnter-gebeurtenis. |
-| event [OnMouseLeave](../../aspose.svg.dom/document/onmouseleave/) | Haalt of stelt gebeurtenishandler in voor OnMouseLeave-gebeurtenis. |
-| event [OnMouseMove](../../aspose.svg.dom/document/onmousemove/) | Haalt of stelt gebeurtenishandler in voor OnMouseMove-gebeurtenis. |
-| event [OnMouseOut](../../aspose.svg.dom/document/onmouseout/) | Haalt of stelt gebeurtenishandler in voor OnMouseOut-gebeurtenis. |
-| event [OnMouseOver](../../aspose.svg.dom/document/onmouseover/) | Haalt of stelt gebeurtenishandler in voor OnMouseOver-gebeurtenis. |
-| event [OnMouseUp](../../aspose.svg.dom/document/onmouseup/) | Haalt of stelt gebeurtenishandler in voor OnMouseUp-gebeurtenis. |
-| event [OnMouseWheel](../../aspose.svg.dom/document/onmousewheel/) | Haalt of stelt gebeurtenishandler in voor OnMouseWheel-gebeurtenis. |
-| event [OnPause](../../aspose.svg.dom/document/onpause/) | Haalt of stelt gebeurtenishandler in voor OnPause-gebeurtenis. |
-| event [OnPlay](../../aspose.svg.dom/document/onplay/) | Krijgt of stelt gebeurtenishandler in voor OnPlay-gebeurtenis. |
-| event [OnPlaying](../../aspose.svg.dom/document/onplaying/) | Haalt of stelt gebeurtenishandler in voor OnPlaying-gebeurtenis. |
-| event [OnProgress](../../aspose.svg.dom/document/onprogress/) | Haalt of stelt gebeurtenishandler in voor OnProgress-gebeurtenis. |
-| event [OnRateChange](../../aspose.svg.dom/document/onratechange/) | Haalt of stelt gebeurtenishandler in voor OnRateChange-gebeurtenis. |
-| event [OnReadyStateChange](../../aspose.svg.dom/document/onreadystatechange/) | Haalt of stelt gebeurtenishandler in voor OnReadyStateChange-gebeurtenis. |
-| event [OnReset](../../aspose.svg.dom/document/onreset/) | Haalt of stelt gebeurtenishandler in voor OnReset-gebeurtenis. |
-| event [OnResize](../../aspose.svg.dom/document/onresize/) | Haalt of stelt gebeurtenishandler in voor OnResize-gebeurtenis. |
-| event [OnScroll](../../aspose.svg.dom/document/onscroll/) | Haalt of stelt gebeurtenishandler in voor OnScroll-gebeurtenis. |
-| event [OnSeeked](../../aspose.svg.dom/document/onseeked/) | Haalt of stelt gebeurtenishandler in voor OnSeeked-gebeurtenis. |
-| event [OnSeeking](../../aspose.svg.dom/document/onseeking/) | Haalt of stelt gebeurtenishandler in voor OnSeeking-gebeurtenis. |
-| event [OnSelect](../../aspose.svg.dom/document/onselect/) | Haalt of stelt gebeurtenishandler in voor OnSelect-gebeurtenis. |
-| event [OnShow](../../aspose.svg.dom/document/onshow/) | Haalt of stelt gebeurtenishandler in voor OnShow-gebeurtenis. |
-| event [OnStalled](../../aspose.svg.dom/document/onstalled/) | Krijgt of stelt gebeurtenishandler in voor OnStalled-gebeurtenis. |
-| event [OnSubmit](../../aspose.svg.dom/document/onsubmit/) | Haalt of stelt gebeurtenishandler in voor OnSubmit-gebeurtenis. |
-| event [OnSuspend](../../aspose.svg.dom/document/onsuspend/) | Haalt gebeurtenishandler op of stelt deze in voor OnSuspend-gebeurtenis. |
-| event [OnTimeUpdate](../../aspose.svg.dom/document/ontimeupdate/) | Haalt of stelt gebeurtenishandler in voor OnTimeUpdate-gebeurtenis. |
-| event [OnToggle](../../aspose.svg.dom/document/ontoggle/) | Haalt of stelt gebeurtenishandler in voor OnToggle-gebeurtenis. |
-| event [OnVolumeChange](../../aspose.svg.dom/document/onvolumechange/) | Haalt of stelt gebeurtenishandler in voor OnVolumeChange-gebeurtenis. |
-| event [OnWaiting](../../aspose.svg.dom/document/onwaiting/) | Haalt of stelt gebeurtenishandler in voor OnWaiting-gebeurtenis. |
+| event [OnAbort](../../aspose.svg.dom/document/onabort/) | Haalt op of stelt de event‑handler in voor het OnAbort‑event. |
+| event [OnBlur](../../aspose.svg.dom/document/onblur/) | Haalt op of stelt de event‑handler in voor het OnBlur‑event. |
+| event [OnCancel](../../aspose.svg.dom/document/oncancel/) | Haalt op of stelt de event‑handler in voor het OnCancel‑event. |
+| event [OnCanplay](../../aspose.svg.dom/document/oncanplay/) | Haalt op of stelt de event‑handler in voor het OnCanplay‑event. |
+| event [OnCanPlayThrough](../../aspose.svg.dom/document/oncanplaythrough/) | Haalt op of stelt de event‑handler in voor het OnCanPlayThrough‑event. |
+| event [OnChange](../../aspose.svg.dom/document/onchange/) | Haalt op of stelt de event‑handler in voor het OnChange‑event. |
+| event [OnClick](../../aspose.svg.dom/document/onclick/) | Haalt op of stelt de event‑handler in voor het OnClick‑event. |
+| event [OnCueChange](../../aspose.svg.dom/document/oncuechange/) | Haalt op of stelt de event‑handler in voor het OnCueChange‑event. |
+| event [OnDblClick](../../aspose.svg.dom/document/ondblclick/) | Haalt op of stelt de event‑handler in voor het OnDblClick‑event. |
+| event [OnDurationChange](../../aspose.svg.dom/document/ondurationchange/) | Haalt op of stelt de event‑handler in voor het OnDurationChange‑event. |
+| event [OnEmptied](../../aspose.svg.dom/document/onemptied/) | Haalt op of stelt de event‑handler in voor het OnEmptied‑event. |
+| event [OnEnded](../../aspose.svg.dom/document/onended/) | Haalt op of stelt de event‑handler in voor het OnEnded‑event. |
+| event [OnError](../../aspose.svg.dom/document/onerror/) | Haalt op of stelt de event‑handler in voor het OnError‑event. |
+| event [OnFocus](../../aspose.svg.dom/document/onfocus/) | Haalt op of stelt de eventhandler in voor het OnFocus event. |
+| event [OnInput](../../aspose.svg.dom/document/oninput/) | Haalt op of stelt de eventhandler in voor het OnInput event. |
+| event [OnInvalid](../../aspose.svg.dom/document/oninvalid/) | Haalt op of stelt de eventhandler in voor het OnInvalid event. |
+| event [OnKeyDown](../../aspose.svg.dom/document/onkeydown/) | Haalt op of stelt de eventhandler in voor het OnKeyDown event. |
+| event [OnKeyPress](../../aspose.svg.dom/document/onkeypress/) | Haalt op of stelt de eventhandler in voor het OnKeyPress event. |
+| event [OnKeyUp](../../aspose.svg.dom/document/onkeyup/) | Haalt op of stelt de eventhandler in voor het OnKeyUp event. |
+| event [OnLoad](../../aspose.svg.dom/document/onload/) | Haalt op of stelt de eventhandler in voor het OnLoad event. |
+| event [OnLoadedData](../../aspose.svg.dom/document/onloadeddata/) | Haalt op of stelt de eventhandler in voor het OnLoadedData event. |
+| event [OnLoadedMetadata](../../aspose.svg.dom/document/onloadedmetadata/) | Haalt op of stelt de eventhandler in voor het OnLoadedMetadata event. |
+| event [OnLoadStart](../../aspose.svg.dom/document/onloadstart/) | Haalt op of stelt de eventhandler in voor het OnLoadStart event. |
+| event [OnMouseDown](../../aspose.svg.dom/document/onmousedown/) | Haalt op of stelt de eventhandler in voor het OnMouseDown event. |
+| event [OnMouseEnter](../../aspose.svg.dom/document/onmouseenter/) | Haalt op of stelt de eventhandler in voor het OnMouseEnter event. |
+| event [OnMouseLeave](../../aspose.svg.dom/document/onmouseleave/) | Haalt op of stelt de eventhandler in voor het OnMouseLeave event. |
+| event [OnMouseMove](../../aspose.svg.dom/document/onmousemove/) | Haalt op of stelt de eventhandler in voor het OnMouseMove event. |
+| event [OnMouseOut](../../aspose.svg.dom/document/onmouseout/) | Haalt op of stelt de eventhandler in voor het OnMouseOut event. |
+| event [OnMouseOver](../../aspose.svg.dom/document/onmouseover/) | Haalt op of stelt de eventhandler in voor het OnMouseOver event. |
+| event [OnMouseUp](../../aspose.svg.dom/document/onmouseup/) | Haalt op of stelt de eventhandler in voor het OnMouseUp event. |
+| event [OnMouseWheel](../../aspose.svg.dom/document/onmousewheel/) | Haalt op of stelt de eventhandler in voor het OnMouseWheel event. |
+| event [OnPause](../../aspose.svg.dom/document/onpause/) | Haalt op of stelt de eventhandler in voor het OnPause event. |
+| event [OnPlay](../../aspose.svg.dom/document/onplay/) | Haalt op of stelt de eventhandler in voor het OnPlay event. |
+| event [OnPlaying](../../aspose.svg.dom/document/onplaying/) | Haalt op of stelt de eventhandler in voor het OnPlaying event. |
+| event [OnProgress](../../aspose.svg.dom/document/onprogress/) | Haalt op of stelt de eventhandler in voor het OnProgress event. |
+| event [OnRateChange](../../aspose.svg.dom/document/onratechange/) | Haalt op of stelt de eventhandler in voor het OnRateChange event. |
+| event [OnReadyStateChange](../../aspose.svg.dom/document/onreadystatechange/) | Haalt of stelt de event‑handler in voor het OnReadyStateChange‑event. |
+| event [OnReset](../../aspose.svg.dom/document/onreset/) | Haalt op of stelt de eventhandler in voor het OnReset event. |
+| event [OnResize](../../aspose.svg.dom/document/onresize/) | Haalt op of stelt de eventhandler in voor het OnResize event. |
+| event [OnScroll](../../aspose.svg.dom/document/onscroll/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnScroll‑evenement. |
+| event [OnSeeked](../../aspose.svg.dom/document/onseeked/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSeeked‑evenement. |
+| event [OnSeeking](../../aspose.svg.dom/document/onseeking/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSeeking‑evenement. |
+| event [OnSelect](../../aspose.svg.dom/document/onselect/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSelect‑evenement. |
+| event [OnShow](../../aspose.svg.dom/document/onshow/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnShow‑evenement. |
+| event [OnStalled](../../aspose.svg.dom/document/onstalled/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnStalled‑evenement. |
+| event [OnSubmit](../../aspose.svg.dom/document/onsubmit/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSubmit‑evenement. |
+| event [OnSuspend](../../aspose.svg.dom/document/onsuspend/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSuspend‑evenement. |
+| event [OnTimeUpdate](../../aspose.svg.dom/document/ontimeupdate/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnTimeUpdate‑evenement. |
+| event [OnToggle](../../aspose.svg.dom/document/ontoggle/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnToggle‑evenement. |
+| event [OnVolumeChange](../../aspose.svg.dom/document/onvolumechange/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnVolumeChange‑evenement. |
+| event [OnWaiting](../../aspose.svg.dom/document/onwaiting/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnWaiting‑evenement. |
 
 ### Zie ook
 
@@ -193,7 +205,5 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 * interface [INonElementParentNode](../inonelementparentnode/)
 * interface [IParentNode](../iparentnode/)
 * interface [IXPathEvaluator](../../aspose.svg.dom.xpath/ixpathevaluator/)
-* naamruimte [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

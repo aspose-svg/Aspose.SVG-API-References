@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.Y
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGForeignObjectElement eigendom. Komt overeen met attribuut y op het opgegeven foreignObjectelement.
+title: "SVGForeignObjectElement.Y"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGForeignObjectElement Y eigenschap. Komt overeen met attribuut y van het opgegeven foreignObject-element"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg/svgforeignobjectelement/y/
 ---
 ## SVGForeignObjectElement.Y property
 
-Komt overeen met attribuut 'y' op het opgegeven 'foreignObject'-element.
+Komt overeen met het attribuut ‘y’ op het opgegeven ‘foreignObject’-element.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'y' van het gegeven 'foreignObject' element.
+Het attribuut ‘y’ van het opgegeven ‘foreignObject’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* naamruimte [Aspose.Svg](../../svgforeignobjectelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

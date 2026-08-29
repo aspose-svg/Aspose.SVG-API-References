@@ -1,14 +1,14 @@
 ---
-title: PdfDevice.PdfDevice
-second_title: Aspose.SVG voor .NET API-referentie
-description: PdfDevice constructeur. Initialiseert een nieuw exemplaar van hetPdfDevice klasse.
+title: "PdfDevice"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PdfDevice constructor. Initialiseert een nieuw exemplaar van de PdfDevice-klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice(ICreateStreamProvider) {#constructor}
+## PdfDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`PdfDevice`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`PdfDevice`](../) klasse.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -22,14 +22,14 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`PdfDevice`](../) klasse door weergaveopties en streamprovider.
+Initialiseert een nieuw exemplaar van de [`PdfDevice`](../) klasse met renderopties en streamprovider.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Weergave opties. |
-| streamProvider | ICreateStreamProvider | Object dat de[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) koppel |
+| options | PdfRenderingOptions | Renderopties. |
+| streamProvider | ICreateStreamProvider | Object dat de [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface implementeert |
 
 ### Zie ook
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(string) {#constructor_5}
+## PdfDevice(*string*) {#constructor_5}
 
-Initialiseert een nieuw exemplaar van het[`PdfDevice`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`PdfDevice`](../) klasse.
 
 ```csharp
 public PdfDevice(string file)
@@ -65,14 +65,14 @@ public PdfDevice(string file)
 ### Zie ook
 
 * class [PdfDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#constructor_3}
 
-Initialiseert een nieuw exemplaar van het[`PdfDevice`](../) klasse door weergaveopties en uitvoerbestandsnaam.
+Initialiseert een nieuw exemplaar van de [`PdfDevice`](../) klasse met renderopties en de naam van het uitvoerbestand.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Weergave opties. |
+| options | PdfRenderingOptions | Renderopties. |
 | file | String | De naam van het uitvoerbestand. |
 
 ### Zie ook
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(Stream) {#constructor_4}
+## PdfDevice(*Stream*) {#constructor_4}
 
-Initialiseert een nieuw exemplaar van het[`PdfDevice`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`PdfDevice`](../) klasse.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -102,19 +102,19 @@ public PdfDevice(Stream stream)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| stream | Stream | De stroom. |
+| stream | Stream | De stream. |
 
 ### Zie ook
 
 * class [PdfDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#constructor_2}
 
-Initialiseert een nieuw exemplaar van het[`PdfDevice`](../) klasse door opties en uitvoerstroom weer te geven.
+Initialiseert een nieuw exemplaar van de [`PdfDevice`](../) klasse met renderopties en uitvoerstroom.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -122,14 +122,12 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Weergave opties. |
+| options | PdfRenderingOptions | Renderopties. |
 | stream | Stream | De uitvoerstroom. |
 
 ### Zie ook
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

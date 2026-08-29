@@ -1,14 +1,14 @@
 ---
-title: XpsDevice.XpsGraphicContext.XpsGraphicContext
-second_title: Aspose.SVG voor .NET API-referentie
-description: XpsGraphicContext constructeur. De standaard constructeur.
+title: "XpsDevice.XpsGraphicContext.XpsGraphicContext"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "XpsGraphicContext constructor. De standaardconstructor"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/xpsgraphiccontext/
 ---
 ## XpsDevice.XpsGraphicContext constructor
 
-De standaard constructeur.
+De standaardconstructor.
 
 ```csharp
 public XpsGraphicContext()
@@ -17,7 +17,5 @@ public XpsGraphicContext()
 ### Zie ook
 
 * class [XpsGraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering.Xps](../../xpsdevice.xpsgraphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

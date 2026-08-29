@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.OldValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationRecord eigendom. De geretourneerde waarde is afhankelijk van het type. Voor attributen is dit de waarde van het gewijzigde attribuut vóór de wijziging. Voor characterData zijn dit de gegevens van het gewijzigde knooppunt vóór de wijziging. Voor childList is dit null.
+title: "MutationRecord.OldValue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationRecord OldValue eigenschap. De retourwaarde hangt af van het type. Voor attributen is het de waarde van het gewijzigde attribuut vóór de wijziging. Voor characterData is het de gegevens van het gewijzigde knooppunt vóór de wijziging. Voor childList is het null"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom.mutations/mutationrecord/oldvalue/
 ---
 ## MutationRecord.OldValue property
 
-De geretourneerde waarde is afhankelijk van het type. Voor "attributen" is dit de waarde van het gewijzigde attribuut vóór de wijziging. Voor "characterData" zijn dit de gegevens van het gewijzigde knooppunt vóór de wijziging. Voor "childList" is dit null.
+De retourwaarde hangt af van het type. Voor "attributes" is het de waarde van het gewijzigde attribuut vóór de wijziging. Voor "characterData" is het de data van het gewijzigde knooppunt vóór de wijziging. Voor "childList" is het null.
 
 ```csharp
 public string OldValue { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De oude waarde.
 
 ### Zie ook
 
 * class [MutationRecord](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

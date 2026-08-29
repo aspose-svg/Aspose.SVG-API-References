@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.BaseVal
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGAnimatedValue eigendom. De basiswaarde van het gegeven attribuut voordat animaties worden toegepast.
+title: "SVGAnimatedValue-1.BaseVal"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGAnimatedValue BaseVal-eigenschap. De basiswaarde van het opgegeven attribuut voordat animaties worden toegepast."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.datatypes/svganimatedvalue-1/baseval/
 ---
-## SVGAnimatedValue&lt;T&gt;.BaseVal property
+## SVGAnimatedValue<T>.BaseVal property
 
-De basiswaarde van het gegeven attribuut voordat animaties worden toegepast.
+De basiswaarde van het opgegeven attribuut vóór het toepassen van animaties.
 
 ```csharp
 public T BaseVal { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als [basiswaarde]; anders,`vals` .
+`true` als [basiswaarde]; anders, `false`.
 
 ### Zie ook
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

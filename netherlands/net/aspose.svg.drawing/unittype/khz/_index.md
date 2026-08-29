@@ -1,7 +1,7 @@
 ---
-title: UnitType.KHz
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is in kiloHertz.
+title: "UnitType.KHz"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType KHz veld. Meting is in kilohertz"
 type: docs
 weight: 140
 url: /nl/net/aspose.svg.drawing/unittype/khz/
@@ -17,7 +17,5 @@ public static readonly UnitType KHz;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

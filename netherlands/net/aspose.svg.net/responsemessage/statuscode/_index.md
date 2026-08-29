@@ -1,27 +1,25 @@
 ---
-title: ResponseMessage.StatusCode
-second_title: Aspose.SVG voor .NET API-referentie
-description: ResponseMessage eigendom. Krijgt of stelt de statuscode in.
+title: "ResponseMessage.StatusCode"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ResponseMessage StatusCode-eigenschap. Haalt op of stelt de statuscode in"
 type: docs
-weight: 70
+weight: 80
 url: /nl/net/aspose.svg.net/responsemessage/statuscode/
 ---
 ## ResponseMessage.StatusCode property
 
-Krijgt of stelt de statuscode in.
+Haalt de statuscode op of stelt deze in.
 
 ```csharp
 public HttpStatusCode StatusCode { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De statuscode.
 
 ### Zie ook
 
 * class [ResponseMessage](../)
-* naamruimte [Aspose.Svg.Net](../../responsemessage/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

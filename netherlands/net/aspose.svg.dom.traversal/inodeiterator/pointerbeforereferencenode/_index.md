@@ -1,27 +1,25 @@
 ---
-title: INodeIterator.PointerBeforeReferenceNode
-second_title: Aspose.SVG voor .NET API-referentie
-description: INodeIterator eigendom. De waarde van deze vlag bepaalt of de kinderen van entiteit referentieknooppunten zichtbaar zijn voor de iterator. Indien onwaar zullen zij en hun afstammelingen worden afgewezen. Merk op dat deze weigering voorrang heeft op whatToShow en het filter. Merk ook op dat dit momenteel de enige situatie is waarin NodeIterators een volledige subboom kunnen verwerpen in plaats van afzonderlijke knooppunten overslaan. Om een weergave te maken van het document met entiteitsreferenties uitgebreid en het entiteitsreferentieknooppunt zelf niet bloot te leggen use de whatToShowvlaggen naar verberg de entiteitsreferentie node en stel expandEntityReferences in op true bij het maken van de iterator. Om een weergave te maken van het document met entiteitsreferentie knooppunten maar zonder entiteitsuitbreiding gebruikt u de whatToShowvlaggen om het entiteitsreferentieknooppunt weer te geven en set expandEntityReferences naar false.
+title: "INodeIterator.PointerBeforeReferenceNode"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "INodeIterator PointerBeforeReferenceNode-eigenschap. De waarde van deze vlag bepaalt of de kinderen van entiteitsreferentienodes zichtbaar zijn voor de iterator. Als false worden zij en hun afstammelingen afgewezen. Merk op dat deze afwijzing voorrang heeft op whatToShow en de filter. Ook merk op dat dit momenteel de enige situatie is waarin NodeIterators een volledige subboom kunnen afwijzen in plaats van individuele knooppunten over te slaan. Om een weergave van het document te produceren waarbij entiteitsreferenties zijn uitgebreid en de entiteitsreferentieknoop zelf niet wordt blootgesteld, gebruik de whatToShow‑vlaggen om de entiteitsreferentieknoop te verbergen en stel expandEntityReferences in op true bij het maken van de iterator. Om een weergave van het document te produceren met entiteitsreferentieknooppunten maar zonder entiteitsexpansie, gebruik de whatToShow‑vlaggen om de entiteitsreferentieknoop te tonen en stel expandEntityReferences in op false."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode/
 ---
 ## INodeIterator.PointerBeforeReferenceNode property
 
-De waarde van deze vlag bepaalt of de kinderen van entiteit referentieknooppunten zichtbaar zijn voor de iterator. Indien onwaar, zullen zij en hun afstammelingen worden afgewezen. Merk op dat deze weigering voorrang heeft op whatToShow en het filter. Merk ook op dat dit momenteel de enige situatie is waarin NodeIterators een volledige subboom kunnen verwerpen in plaats van afzonderlijke knooppunten overslaan. Om een weergave te maken van het document met entiteitsreferenties uitgebreid en het entiteitsreferentieknooppunt zelf niet bloot te leggen, use de whatToShow-vlaggen naar verberg de entiteitsreferentie node en stel expandEntityReferences in op true bij het maken van de iterator. Om een weergave te maken van het document met entiteitsreferentie -knooppunten maar zonder entiteitsuitbreiding, gebruikt u de whatToShow-vlaggen om het entiteitsreferentieknooppunt weer te geven en set expandEntityReferences naar false.
+De waarde van deze vlag bepaalt of de kinderen van entiteitsreferentieknooppunten zichtbaar zijn voor de iterator. Als false, worden zij en hun afstammelingen afgewezen. Merk op dat deze afwijzing voorrang heeft boven whatToShow en de filter. Merk ook op dat dit momenteel de enige situatie is waarin NodeIterators een volledige subboom kunnen afwijzen in plaats van individuele knooppunten over te slaan. Om een weergave van het document te produceren waarin entiteitsreferenties zijn uitgebreid en het entiteitsreferentieknooppunt zelf niet wordt blootgesteld, gebruik de whatToShow vlaggen om het entiteitsreferentieknooppunt te verbergen en stel expandEntityReferences in op true bij het maken van de iterator. Om een weergave van het document te produceren met entiteitsreferentieknooppunten maar zonder entiteitsexpansie, gebruik de whatToShow vlaggen om het entiteitsreferentieknooppunt te tonen en stel expandEntityReferences in op false.
 
 ```csharp
 public bool PointerBeforeReferenceNode { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR`if [entiteitsreferenties uitvouwen]; anders,`vals` .
+`true` als [expand entity references]; anders, `false`.
 
 ### Zie ook
 
 * interface [INodeIterator](../)
-* naamruimte [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

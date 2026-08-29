@@ -1,34 +1,32 @@
 ---
-title: SVGLength.ValueAsString
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGLength eigendom. De waarde als tekenreekswaarde in de eenheden uitgedrukt door unitType. Als u dit kenmerk instelt worden value valueInSpecifiedUnits en unitType automatisch bijgewerkt om deze instelling weer te geven.
+title: "SVGLength.ValueAsString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGLength ValueAsString eigenschap. De waarde als een tekenreeks in de eenheden die door unitType worden uitgedrukt. Het instellen van dit attribuut zorgt ervoor dat value, valueInSpecifiedUnits en unitType automatisch worden bijgewerkt om deze instelling weer te geven."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.datatypes/svglength/valueasstring/
 ---
 ## SVGLength.ValueAsString property
 
-De waarde als tekenreekswaarde, in de eenheden uitgedrukt door unitType. Als u dit kenmerk instelt, worden value, valueInSpecifiedUnits en unitType automatisch bijgewerkt om deze instelling weer te geven.
+De waarde als een tekenreeks, in de eenheden die door unitType worden uitgedrukt. Het instellen van dit attribuut zal ervoor zorgen dat value, valueInSpecifiedUnits en unitType automatisch worden bijgewerkt om deze instelling weer te geven.
 
 ```csharp
 public string ValueAsString { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De waarde als string.
+De waarde als tekenreeks.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err/) Wordt verhoogd als de toegewezen tekenreeks niet kan worden geparseerd als een geldige lengte. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Verhoogd wanneer de lengte overeenkomt met een alleen-lezen kenmerk of wanneer het object zelf alleen-lezen is. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err/) Wordt opgegooid als de toegewezen tekenreeks niet kan worden geparseerd als een geldige lengte. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Opgetreden wanneer de lengte overeenkomt met een alleen-lezen attribuut of wanneer het object zelf alleen-lezen is. |
 
 ### Zie ook
 
 * class [SVGLength](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svglength/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

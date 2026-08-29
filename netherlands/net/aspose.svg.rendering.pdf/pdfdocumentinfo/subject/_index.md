@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Aspose.SVG voor .NET API-referentie
-description: PdfDocumentInfo eigendom. Het onderwerp van het document.
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PdfDocumentInfo Subject eigenschap. Het onderwerp van het document."
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.rendering.pdf/pdfdocumentinfo/subject/
@@ -17,7 +17,5 @@ public string Subject { get; set; }
 ### Zie ook
 
 * class [PdfDocumentInfo](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

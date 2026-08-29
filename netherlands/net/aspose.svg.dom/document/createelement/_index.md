@@ -1,14 +1,14 @@
 ---
-title: Document.CreateElement
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document methode. Creëert een element van het gespecificeerde type. Merk op dat de geretourneerde instantie de Elementinterface implementeert dus attributen kunnen rechtstreeks op het geretourneerde object worden gespecificeerd.
+title: "Document.CreateElement"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document CreateElement‑methode. Maakt het HTML‑element dat is opgegeven door localName of een HTMLUnknownElement als localName niet wordt herkend."
 type: docs
 weight: 850
 url: /nl/net/aspose.svg.dom/document/createelement/
 ---
 ## Document.CreateElement method
 
-Creëert een element van het gespecificeerde type. Merk op dat de geretourneerde instantie de Element-interface implementeert, dus attributen kunnen rechtstreeks op het geretourneerde object worden gespecificeerd.
+Maakt het HTML‑element aan dat wordt gespecificeerd door localName, of een HTMLUnknownElement als localName niet wordt herkend.
 
 ```csharp
 public Element CreateElement(string localName)
@@ -16,17 +16,15 @@ public Element CreateElement(string localName)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| localName | String | Naam van het label. |
+| localName | String | Een string die het type element specificeert dat moet worden gemaakt. De nodeName van het gemaakte element wordt geïnitialiseerd met de waarde van localName. Gebruik geen gekwalificeerde namen (zoals \"html:a\") met deze methode. Wanneer aangeroepen op een HTML‑document, zet createElement() localName om naar kleine letters voordat het element wordt gemaakt. |
 
-### Winstwaarde
+### Retourwaarde
 
-De[`Element`](../../element/) .
+Het nieuwe [`Element`](../../element/).
 
 ### Zie ook
 
 * class [Element](../../element/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

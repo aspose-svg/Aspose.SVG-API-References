@@ -1,14 +1,14 @@
 ---
-title: Interface ILinearGradientBrush
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Drawing.ILinearGradientBrush koppel. Definieert penseelinterface met een lineair verloop.
+title: "ILinearGradientBrush Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Drawing.ILinearGradientBrush interface. Definieert een interface voor een penseel met een lineaire gradiënt"
 type: docs
-weight: 1470
+weight: 3490
 url: /nl/net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface
 
-Definieert penseelinterface met een lineair verloop.
+Definieert een interface voor een penseel met een lineaire gradient.
 
 ```csharp
 public interface ILinearGradientBrush : IGradientBrush
@@ -18,17 +18,11 @@ public interface ILinearGradientBrush : IGradientBrush
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; } | Haalt de hoek op, gemeten in graden met de klok mee vanaf de x-as, van de oriëntatielijn van het verloop. |
-| [EndColor](../../aspose.svg.drawing/ilineargradientbrush/endcolor/) { get; } | Verkrijg de eindkleur van het lineaire verloop. |
-| [EndPoint](../../aspose.svg.drawing/ilineargradientbrush/endpoint/) { get; } | Verkrijg het startpunt van de lineaire gradiënt. |
-| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; } | Verkrijg een rechthoekig gebied dat de begin- en eindpunten van het verloop definieert. |
-| [StartColor](../../aspose.svg.drawing/ilineargradientbrush/startcolor/) { get; } | Verkrijg de startkleur van het lineaire verloop. |
-| [StartPoint](../../aspose.svg.drawing/ilineargradientbrush/startpoint/) { get; } | Verkrijg het startpunt van de lineaire gradiënt. |
+| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; set; } | Haalt de hoek op of stelt deze in, gemeten in graden met de klok mee vanaf de x-as, van de oriëntatielijn van de gradiënt. |
+| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; set; } | Haalt op of stelt het rechthoekige gebied in dat de begin- en eindpunten van de gradient definieert. |
 
 ### Zie ook
 
 * interface [IGradientBrush](../igradientbrush/)
-* naamruimte [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

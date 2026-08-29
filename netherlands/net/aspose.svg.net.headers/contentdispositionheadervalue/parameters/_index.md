@@ -1,20 +1,20 @@
 ---
-title: ContentDispositionHeaderValue.Parameters
-second_title: Aspose.SVG voor .NET API-referentie
-description: ContentDispositionHeaderValue eigendom. Verzameling van paremeters ophalen
+title: "ContentDispositionHeaderValue.Parameters"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ContentDispositionHeaderValue Parameters-eigenschap. Haalt de collectie van parameters op."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.net.headers/contentdispositionheadervalue/parameters/
 ---
 ## ContentDispositionHeaderValue.Parameters property
 
-Verzameling van paremeters ophalen
+Haal collectie van parameters op.
 
 ```csharp
 public ICollection<NameValueHeaderValue> Parameters { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De parameters.
 
@@ -22,7 +22,5 @@ De parameters.
 
 * class [NameValueHeaderValue](../../namevalueheadervalue/)
 * class [ContentDispositionHeaderValue](../)
-* naamruimte [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

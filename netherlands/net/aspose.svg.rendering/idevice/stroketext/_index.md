@@ -1,14 +1,14 @@
 ---
-title: IDevice.StrokeText
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDevice methode. Lijnt de gespecificeerde tekstreeks uit op de gespecificeerde locatie.
+title: "IDevice.StrokeText"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDevice StrokeText methode. Tekent de opgegeven tekenreeks op de opgegeven locatie"
 type: docs
 weight: 230
 url: /nl/net/aspose.svg.rendering/idevice/stroketext/
 ---
 ## IDevice.StrokeText method
 
-Lijnt de gespecificeerde tekstreeks uit op de gespecificeerde locatie.
+Tekent de opgegeven tekenreeks op de opgegeven locatie.
 
 ```csharp
 public void StrokeText(string text, PointF pt)
@@ -16,13 +16,11 @@ public void StrokeText(string text, PointF pt)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| text | String | String om te strijken. |
+| tekst | String | Tekenreeks om te tekenen. |
 | pt | PointF | Punt dat de coördinaten specificeert waar de tekst moet beginnen. |
 
 ### Zie ook
 
 * interface [IDevice](../)
-* naamruimte [Aspose.Svg.Rendering](../../idevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

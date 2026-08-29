@@ -1,7 +1,7 @@
 ---
-title: SVGPathSeg.PATHSEG_CLOSEPATH
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathSeg veld. Komt overeen met een closepath z padgegevenscommando.
+title: "SVGPathSeg.PATHSEG_CLOSEPATH"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathSeg PATHSEG_CLOSEPATH veld. Komt overeen met een closepath z padgegevensopdracht"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.paths/svgpathseg/pathseg_closepath/
@@ -17,7 +17,5 @@ public const ushort PATHSEG_CLOSEPATH;
 ### Zie ook
 
 * class [SVGPathSeg](../)
-* naamruimte [Aspose.Svg.Paths](../../svgpathseg/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

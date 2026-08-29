@@ -1,14 +1,14 @@
 ---
-title: BezierPathBuilder.BezierPathBuilder
-second_title: Aspose.SVG voor .NET API-referentie
-description: BezierPathBuilder constructeur. Initialiseert een nieuw exemplaar van hetBezierPathBuilder klasse.
+title: "BezierPathBuilder"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "BezierPathBuilder constructor. Initialiseert een nieuw exemplaar van de BezierPathBuilder-klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.imagevectorization/bezierpathbuilder/bezierpathbuilder/
 ---
 ## BezierPathBuilder constructor
 
-Initialiseert een nieuw exemplaar van het[`BezierPathBuilder`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`BezierPathBuilder`](../) klasse.
 
 ```csharp
 public BezierPathBuilder()
@@ -17,7 +17,5 @@ public BezierPathBuilder()
 ### Zie ook
 
 * class [BezierPathBuilder](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

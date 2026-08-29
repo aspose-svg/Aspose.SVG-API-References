@@ -1,14 +1,14 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Aspose.SVG voor .NET API-referentie
-description: PdfDocumentInfo eigendom. Trefwoorden geassocieerd met het document.
+title: "PdfDocumentInfo.Keywords"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PdfDocumentInfo Keywords-eigenschap. Trefwoorden die aan het document zijn gekoppeld"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.rendering.pdf/pdfdocumentinfo/keywords/
 ---
 ## PdfDocumentInfo.Keywords property
 
-Trefwoorden geassocieerd met het document.
+Trefwoorden die aan het document zijn gekoppeld.
 
 ```csharp
 public string Keywords { get; set; }
@@ -17,7 +17,5 @@ public string Keywords { get; set; }
 ### Zie ook
 
 * class [PdfDocumentInfo](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

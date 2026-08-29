@@ -1,14 +1,14 @@
 ---
-title: Document.OnCancel
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document evenement. Haalt of stelt gebeurtenishandler in voor OnCancelgebeurtenis.
+title: "Document.OnCancel"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document OnCancel‑gebeurtenis. Haalt of stelt de gebeurtenishandler voor de OnCancel‑gebeurtenis in."
 type: docs
 weight: 300
 url: /nl/net/aspose.svg.dom/document/oncancel/
 ---
 ## Document.OnCancel event
 
-Haalt of stelt gebeurtenishandler in voor OnCancel-gebeurtenis.
+Haalt op of stelt de event‑handler in voor het OnCancel‑event.
 
 ```csharp
 public event DOMEventHandler OnCancel;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnCancel;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizer.Optimize
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGOptimizer methode. OptimaliseertSVGDocument door een set standaard optimalisatieopties toe te passen.
+title: "SVGOptimizer.Optimize"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGOptimizer Optimize methode. Optimaliseert SVGDocument door een reeks standaard optimalisatie‑opties toe te passen."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.toolkit.optimizers/svgoptimizer/optimize/
 ---
-## Optimize(SVGDocument) {#optimize}
+## Optimize(*[SVGDocument](../../../aspose.svg/svgdocument/)*) {#optimize}
 
-Optimaliseert[`SVGDocument`](../../../aspose.svg/svgdocument/) door een set standaard optimalisatie-opties toe te passen.
+Optimaliseert [`SVGDocument`](../../../aspose.svg/svgdocument/) door een reeks standaard optimalisatie‑opties toe te passen.
 
 ```csharp
 public static void Optimize(SVGDocument document)
@@ -22,14 +22,14 @@ public static void Optimize(SVGDocument document)
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizer](../)
-* naamruimte [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Optimize(SVGDocument, SVGOptimizationOptions) {#optimize_1}
+## Optimize(*[SVGDocument](../../../aspose.svg/svgdocument/), [SVGOptimizationOptions](../../svgoptimizationoptions/)*) {#optimize_1}
 
-Optimaliseert[`SVGDocument`](../../../aspose.svg/svgdocument/) door een reeks gespecificeerde optimalisatie-opties toe te passen.
+Optimaliseert [`SVGDocument`](../../../aspose.svg/svgdocument/) door een reeks opgegeven optimalisatie‑opties toe te passen.
 
 ```csharp
 public static void Optimize(SVGDocument document, SVGOptimizationOptions options)
@@ -45,7 +45,5 @@ public static void Optimize(SVGDocument document, SVGOptimizationOptions options
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizationOptions](../../svgoptimizationoptions/)
 * class [SVGOptimizer](../)
-* naamruimte [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

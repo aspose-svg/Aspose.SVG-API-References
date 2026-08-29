@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.GraphicContext
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext constructeur. Initialiseert een nieuw exemplaar van hetGraphicContext klasse.
+title: "GraphicContext"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext-constructeur. Initialiseert een nieuwe instantie van de GraphicContext-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering/graphiccontext/graphiccontext/
 ---
 ## GraphicContext constructor
 
-Initialiseert een nieuw exemplaar van het[`GraphicContext`](../) klasse.
+Initialiseert een nieuwe instantie van de [`GraphicContext`](../) klasse.
 
 ```csharp
 public GraphicContext()
@@ -17,7 +17,5 @@ public GraphicContext()
 ### Zie ook
 
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateDocument
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDOMImplementation methode. Creëert een DOMdocumentobject van het gespecificeerde type met zijn documentelement.
+title: "IDOMImplementation.CreateDocument"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDOMImplementation CreateDocument‑methode. Maakt een DOM‑Documentobject van het opgegeven type met zijn document‑element."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/idomimplementation/createdocument/
 ---
 ## IDOMImplementation.CreateDocument method
 
-Creëert een DOM-documentobject van het gespecificeerde type met zijn documentelement.
+Maakt een DOM‑Documentobject van het opgegeven type met zijn document‑element.
 
 ```csharp
 public Document CreateDocument(string namespaceURI, string qualifiedName, DocumentType doctype)
@@ -16,20 +16,18 @@ public Document CreateDocument(string namespaceURI, string qualifiedName, Docume
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| namespaceURI | String | De naamruimte-URI. |
+| namespaceURI | String | De namespace‑URI. |
 | qualifiedName | String | Naam van de gekwalificeerde. |
-| doctype | DocumentType | Het doctype. |
+| doctype | DocumentType | De doctype. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retour document.
+Retourneert document.
 
 ### Zie ook
 
 * class [Document](../../document/)
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* naamruimte [Aspose.Svg.Dom](../../idomimplementation/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

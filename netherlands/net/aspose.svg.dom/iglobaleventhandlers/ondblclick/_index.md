@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnDblClick
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnDblClickgebeurtenis.
+title: "IGlobalEventHandlers.OnDblClick"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnDblClick event. Haalt of stelt de eventhandler in voor OnDblClick event"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/ondblclick/
 ---
 ## IGlobalEventHandlers.OnDblClick event
 
-Haalt of stelt gebeurtenishandler in voor OnDblClick-gebeurtenis.
+Haalt op of stelt de event‑handler in voor het OnDblClick‑event.
 
 ```csharp
 public event DOMEventHandler OnDblClick;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnDblClick;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

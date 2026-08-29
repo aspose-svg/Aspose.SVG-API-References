@@ -1,14 +1,14 @@
 ---
-title: DOMException.DOMException
-second_title: Aspose.SVG voor .NET API-referentie
-description: DOMException constructeur. Initialiseert een nieuw exemplaar van hetDOMException klasse.
+title: "DOMException"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DOMException constructor. Initialiseert een nieuw exemplaar van de DOMException-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/domexception/domexception/
 ---
-## DOMException(string) {#constructor}
+## DOMException(*string*) {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`DOMException`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`DOMException`](../) klasse.
 
 ```csharp
 public DOMException(string message)
@@ -16,19 +16,19 @@ public DOMException(string message)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| message | String | De foutmelding. |
+| bericht | String | Het foutbericht. |
 
 ### Zie ook
 
 * class [DOMException](../)
-* naamruimte [Aspose.Svg.Dom](../../domexception/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## DOMException(string, string) {#constructor_1}
+## DOMException(*string, string*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`DOMException`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`DOMException`](../) klasse.
 
 ```csharp
 public DOMException(string name, string message)
@@ -36,13 +36,11 @@ public DOMException(string name, string message)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | De naam van de fout. |
-| message | String | De foutmelding. |
+| naam | String | De foutnaam. |
+| bericht | String | Het foutbericht. |
 
 ### Zie ook
 
 * class [DOMException](../)
-* naamruimte [Aspose.Svg.Dom](../../domexception/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

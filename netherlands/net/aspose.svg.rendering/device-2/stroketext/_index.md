@@ -1,28 +1,26 @@
 ---
-title: Device2.StrokeText
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Lijnt de gespecificeerde tekstreeks uit op de gespecificeerde locatie.
+title: "Device-2.StrokeText"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device StrokeText-methode. Tekent de opgegeven tekstreeks op de opgegeven locatie"
 type: docs
-weight: 240
+weight: 270
 url: /nl/net/aspose.svg.rendering/device-2/stroketext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method
+## Device<TGraphicContext,TRenderingOptions>.StrokeText method
 
-Lijnt de gespecificeerde tekstreeks uit op de gespecificeerde locatie.
+Tekent de opgegeven tekenreeks op de opgegeven locatie.
 
 ```csharp
-public abstract void StrokeText(string text, PointF pt)
+public virtual void StrokeText(string text, PointF pt)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| text | String | String om te strijken. |
+| tekst | String | Tekenreeks om te tekenen. |
 | pt | PointF | Punt dat de coördinaten specificeert waar de tekst moet beginnen. |
 
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

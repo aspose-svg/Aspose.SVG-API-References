@@ -1,27 +1,25 @@
 ---
-title: NodeFilter.GetPlatformType
-second_title: Aspose.SVG voor .NET API-referentie
-description: NodeFilter methode. Deze methode wordt gebruikt om het ECMAScriptobject op te halenType .
+title: "NodeFilter.GetPlatformType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NodeFilter GetPlatformType method. Deze methode wordt gebruikt om het ECMAScript-objecttype op te halen"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.traversal.filters/nodefilter/getplatformtype/
 ---
 ## NodeFilter.GetPlatformType method
 
-Deze methode wordt gebruikt om het ECMAScript-object op te halenType .
+Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen.
 
 ```csharp
 public override Type GetPlatformType()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Het ECMAScript-objectType .
+Het ECMAScript-objecttype.
 
 ### Zie ook
 
 * class [NodeFilter](../)
-* naamruimte [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

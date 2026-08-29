@@ -1,14 +1,14 @@
 ---
-title: SVGStringList.SVGStringList
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGStringList constructeur. Initialiseert een nieuw exemplaar van hetSVGStringList klasse.
+title: "SVGStringList"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGStringList constructor. Initialiseert een nieuwe instantie van de SVGStringList-klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`SVGStringList`](../) klasse.
+Initialiseert een nieuwe instantie van de [`SVGStringList`](../) klasse.
 
 ```csharp
 public SVGStringList()
@@ -17,14 +17,14 @@ public SVGStringList()
 ### Zie ook
 
 * class [SVGStringList](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgstringlist/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&lt;string&gt;*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`SVGStringList`](../) klasse.
+Initialiseert een nieuwe instantie van de [`SVGStringList`](../) klasse.
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
@@ -32,12 +32,10 @@ public SVGStringList(IEnumerable<string> enumerable)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | De telbare. |
+| enumerable | IEnumerable`1 | De enumerable. |
 
 ### Zie ook
 
 * class [SVGStringList](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgstringlist/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Slope
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGComponentTransferFunctionElement eigendom. Komt overeen met attribuut slope op het gegeven element.
+title: "SVGComponentTransferFunctionElement.Slope"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGComponentTransferFunctionElement Slope-eigenschap. Komt overeen met attribuut slope op het opgegeven element"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 
-Komt overeen met attribuut 'slope' op het gegeven element.
+Komt overeen met attribuut ‘slope’ op het opgegeven element.
 
 ```csharp
 public SVGAnimatedNumber Slope { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'slope' van het gegeven element.
+Het attribuut ‘slope’ van het opgegeven element.
 
 ### Zie ook
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* naamruimte [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

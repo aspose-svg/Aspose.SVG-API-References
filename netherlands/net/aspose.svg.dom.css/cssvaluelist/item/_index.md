@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.Item
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSValueList eigendom. Krijgt deCSSValue op de opgegeven index.
+title: "CSSValueList.Item"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSValueList Item-eigenschap. Haalt de CSSValue op op de opgegeven index."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom.css/cssvaluelist/item/
 ---
 ## CSSValueList indexer
 
-Krijgt de[`CSSValue`](../../cssvalue/) op de opgegeven index.
+Haalt de [`CSSValue`](../../cssvalue/) op op de opgegeven index.
 
 ```csharp
 public CSSValue this[int index] { get; }
@@ -18,15 +18,13 @@ public CSSValue this[int index] { get; }
 | --- | --- |
 | index | De index. |
 
-### Eigendoms-waarde
+### Property Value
 
-De[`CSSValue`](../../cssvalue/) .
+De [`CSSValue`](../../cssvalue/).
 
 ### Zie ook
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

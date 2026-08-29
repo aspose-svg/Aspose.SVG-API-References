@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnVolumeChange
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnVolumeChangegebeurtenis.
+title: "IGlobalEventHandlers.OnVolumeChange"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnVolumeChange gebeurtenis. Haalt of stelt de event handler in voor de OnVolumeChange gebeurtenis"
 type: docs
 weight: 490
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onvolumechange/
 ---
 ## IGlobalEventHandlers.OnVolumeChange event
 
-Haalt of stelt gebeurtenishandler in voor OnVolumeChange-gebeurtenis.
+Haalt op of stelt de gebeurtenisafhandelaar in voor het OnVolumeChange‑evenement.
 
 ```csharp
 public event DOMEventHandler OnVolumeChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnVolumeChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

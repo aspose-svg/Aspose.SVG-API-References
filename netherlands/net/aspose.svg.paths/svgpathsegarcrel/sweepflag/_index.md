@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcRel.SweepFlag
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathSegArcRel eigendom. De waarde van de parameter sweepflag.
+title: "SVGPathSegArcRel.SweepFlag"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathSegArcRel SweepFlag eigenschap. De waarde van de sweep-flag parameter"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.paths/svgpathsegarcrel/sweepflag/
 ---
 ## SVGPathSegArcRel.SweepFlag property
 
-De waarde van de parameter sweep-flag.
+De waarde van de sweep-flag parameter.
 
 ```csharp
 public bool SweepFlag { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De sweep-vlagparameter.
+De sweep-flag parameter.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Verhoogd bij een poging om de waarde van een alleen-lezen kenmerk te wijzigen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Opgevoerd bij een poging om de waarde van een alleen‑lezen attribuut te wijzigen. |
 
 ### Zie ook
 
 * class [SVGPathSegArcRel](../)
-* naamruimte [Aspose.Svg.Paths](../../svgpathsegarcrel/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

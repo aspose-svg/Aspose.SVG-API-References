@@ -1,14 +1,14 @@
 ---
-title: Color.FromHwba
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Retourneert een nieuwe kleur met de gevraagde waarden voor tint witheid en zwartheid.
+title: "Color.FromHwba"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color FromHwba-methode. Retourneert een nieuwe Color met de gevraagde tint, witheid en zwartheid waarden"
 type: docs
 weight: 100
 url: /nl/net/aspose.svg.drawing/color/fromhwba/
 ---
 ## Color.FromHwba method
 
-Retourneert een nieuwe kleur met de gevraagde waarden voor tint, witheid en zwartheid.
+Retourneert een nieuwe Color met de gevraagde hue, whiteness, blackness waarden.
 
 ```csharp
 public static Color FromHwba(float hue, float whiteness, float blackness, float alpha)
@@ -17,18 +17,16 @@ public static Color FromHwba(float hue, float whiteness, float blackness, float 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
 | hue | Single | Een float die de tintcomponent van de kleur vertegenwoordigt. |
-| whiteness | Single | Een float die de witheidscomponent van de kleur vertegenwoordigt. |
-| blackness | Single | Een float die de zwartheidscomponent van de kleur vertegenwoordigt. |
-| alpha | Single | Een float die de alfacomponent van de kleur vertegenwoordigt. |
+| witheid | Single | Een float die de witheidscomponent van de kleur vertegenwoordigt. |
+| zwartheid | Single | Een float die de zwartheidscomponent van de kleur weergeeft. |
+| alfa | Single | Een float die de alfacomponent van de kleur vertegenwoordigt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuw exemplaar van de[`Color`](../) klas
+Een nieuw exemplaar van de [`Color`](../) klasse
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

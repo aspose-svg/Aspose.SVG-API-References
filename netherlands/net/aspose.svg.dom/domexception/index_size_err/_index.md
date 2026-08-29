@@ -1,7 +1,7 @@
 ---
-title: DOMException.INDEX_SIZE_ERR
-second_title: Aspose.SVG voor .NET API-referentie
-description: DOMException veld. Als index of grootte negatief is of groter dan de toegestane waarde.
+title: "DOMException.INDEX_SIZE_ERR"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DOMException INDEX_SIZE_ERR veld. Als index of grootte negatief is of groter dan de toegestane waarde"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.dom/domexception/index_size_err/
@@ -17,7 +17,5 @@ public const ushort INDEX_SIZE_ERR;
 ### Zie ook
 
 * class [DOMException](../)
-* naamruimte [Aspose.Svg.Dom](../../domexception/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

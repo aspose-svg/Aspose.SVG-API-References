@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.In1
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEDisplacementMapElement eigendom. Komt overeen met attribuut in op het gegeven feDisplacementMapelement.
+title: "SVGFEDisplacementMapElement.In1"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEDisplacementMapElement In1 eigenschap. Komt overeen met attribuut in op het opgegeven feDisplacementMap element"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.filters/svgfedisplacementmapelement/in1/
 ---
 ## SVGFEDisplacementMapElement.In1 property
 
-Komt overeen met attribuut 'in' op het gegeven 'feDisplacementMap'-element.
+Komt overeen met attribuut ‘in’ op het opgegeven ‘feDisplacementMap’-element.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'in' van het gegeven 'feDisplacementMap' element.
+Het attribuut ‘in’ van het opgegeven ‘feDisplacementMap’ element.
 
 ### Zie ook
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDisplacementMapElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

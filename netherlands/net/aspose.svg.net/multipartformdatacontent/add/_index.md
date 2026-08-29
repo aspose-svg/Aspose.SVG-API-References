@@ -1,14 +1,14 @@
 ---
-title: MultipartFormDataContent.Add
-second_title: Aspose.SVG voor .NET API-referentie
-description: MultipartFormDataContent methode. Voeg de inhoud toe aan hetMultipartFormDataContent klasse
+title: "MultipartFormDataContent.Add"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MultipartFormDataContent Add-methode. Voeg de inhoud toe aan de MultipartFormDataContent‑klasse."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.net/multipartformdatacontent/add/
 ---
-## Add(Content) {#add}
+## Add(*[Content](../../content/)*) {#add}
 
-Voeg de inhoud toe aan het[`MultipartFormDataContent`](../) klasse
+Voeg de inhoud toe aan de [`MultipartFormDataContent`](../) klasse.
 
 ```csharp
 public override void Add(Content content)
@@ -16,20 +16,20 @@ public override void Add(Content content)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | Content | De inhoud. |
+| inhoud | Content | De inhoud. |
 
 ### Zie ook
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* naamruimte [Aspose.Svg.Net](../../multipartformdatacontent/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string) {#add_1}
+## Add(*[Content](../../content/), string*) {#add_1}
 
-Voeg de inhoud toe aan het[`MultipartFormDataContent`](../) klasse met veldnaam parameter
+Voeg de inhoud toe aan de [`MultipartFormDataContent`](../) klasse met veldnaam‑parameter.
 
 ```csharp
 public void Add(Content content, string name)
@@ -37,21 +37,21 @@ public void Add(Content content, string name)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | Content | De inhoud. |
-| name | String | De veldnaam. |
+| inhoud | Content | De inhoud. |
+| naam | String | De veldnaam. |
 
 ### Zie ook
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* naamruimte [Aspose.Svg.Net](../../multipartformdatacontent/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Add(Content, string, string) {#add_2}
+## Add(*[Content](../../content/), string, string*) {#add_2}
 
-Voeg de inhoud toe aan het[`MultipartFormDataContent`](../) klasse met veld- en bestandsnaam parameter
+Voeg de inhoud toe aan de [`MultipartFormDataContent`](../) klasse met veld‑ en bestandsnaam‑parameter.
 
 ```csharp
 public void Add(Content content, string name, string fileName)
@@ -59,15 +59,13 @@ public void Add(Content content, string name, string fileName)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | Content | De inhoud. |
-| name | String | De veldnaam. |
+| inhoud | Content | De inhoud. |
+| naam | String | De veldnaam. |
 | fileName | String | De bestandsnaam. |
 
 ### Zie ook
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* naamruimte [Aspose.Svg.Net](../../multipartformdatacontent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

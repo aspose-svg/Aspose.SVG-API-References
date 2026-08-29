@@ -1,14 +1,14 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_PERCENTAGE
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGLength veld. Er is een procentuele waarde opgegeven.
+title: "SVGLength.SVG_LENGTHTYPE_PERCENTAGE"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGLength SVG_LENGTHTYPE_PERCENTAGE veld. Er werd een percentagewaarde opgegeven."
 type: docs
 weight: 150
 url: /nl/net/aspose.svg.datatypes/svglength/svg_lengthtype_percentage/
 ---
 ## SVGLength.SVG_LENGTHTYPE_PERCENTAGE field
 
-Er is een procentuele waarde opgegeven.
+Er werd een procentuele waarde gespecificeerd.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_PERCENTAGE;
@@ -17,7 +17,5 @@ public const ushort SVG_LENGTHTYPE_PERCENTAGE;
 ### Zie ook
 
 * class [SVGLength](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svglength/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

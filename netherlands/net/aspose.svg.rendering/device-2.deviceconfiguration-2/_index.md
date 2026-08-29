@@ -1,12 +1,12 @@
 ---
-title: Class DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions klas. Vertegenwoordigt configuratieobject voor apparaten.
+title: "DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions klasse. Vertegenwoordigt configuratieobject voor apparaten"
 type: docs
-weight: 2750
+weight: 4830
 url: /nl/net/aspose.svg.rendering/device-2.deviceconfiguration-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> class
 
 Vertegenwoordigt configuratieobject voor apparaten.
 
@@ -16,24 +16,22 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
     where TRenderingOptions : RenderingOptions
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [DeviceConfiguration](deviceconfiguration/)() | De standaard constructeur. |
+| [DeviceConfiguration](../../aspose.svg.rendering/device-2.deviceconfiguration-2/.ctor)() | De standaardconstructor. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy/) { get; set; } | Haalt de strategie voor het schrijven van de pagina op of stelt deze in. |
+| [PageWritingStrategy](../../aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy) { get; set; } | Haalt op of stelt de paginabeschrijvingsstrategie in. |
 
 ### Zie ook
 
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* naamruimte [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

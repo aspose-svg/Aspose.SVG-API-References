@@ -1,14 +1,14 @@
 ---
-title: Page.Page
-second_title: Aspose.SVG voor .NET API-referentie
-description: Page constructeur. Initialiseert een nieuw exemplaar van hetPage klasse.
+title: "Page"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Page-constructeur. Initialiseert een nieuwe instantie van de Page-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.drawing/page/page/
 ---
-## Page(Size, Margin) {#constructor_3}
+## Page(*[Size](../../size/), [Margin](../../margin/)*) {#constructor_3}
 
-Initialiseert een nieuw exemplaar van het[`Page`](../) klasse.
+Initialiseert een nieuwe instantie van de [`Page`](../)-klasse.
 
 ```csharp
 public Page(Size size, Margin margin)
@@ -16,22 +16,22 @@ public Page(Size size, Margin margin)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| size | Size | Het paginaformaat. |
-| margin | Margin | De marge. |
+| grootte | Size | De paginagrootte. |
+| marge | Margin | De marge. |
 
 ### Zie ook
 
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* naamruimte [Aspose.Svg.Drawing](../../page/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Size) {#constructor_2}
+## Page(*[Size](../../size/)*) {#constructor_2}
 
-Initialiseert een nieuw exemplaar van het[`Page`](../) klasse.
+Initialiseert een nieuwe instantie van de [`Page`](../)-klasse.
 
 ```csharp
 public Page(Size size)
@@ -39,20 +39,20 @@ public Page(Size size)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| size | Size | Het paginaformaat. |
+| grootte | Size | De paginagrootte. |
 
 ### Zie ook
 
 * class [Size](../../size/)
 * class [Page](../)
-* naamruimte [Aspose.Svg.Drawing](../../page/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Margin) {#constructor_1}
+## Page(*[Margin](../../margin/)*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`Page`](../) klasse.
+Initialiseert een nieuwe instantie van de [`Page`](../)-klasse.
 
 ```csharp
 public Page(Margin margin)
@@ -60,20 +60,20 @@ public Page(Margin margin)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| margin | Margin | De marge. |
+| marge | Margin | De marge. |
 
 ### Zie ook
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* naamruimte [Aspose.Svg.Drawing](../../page/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Page() {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`Page`](../) klasse.
+Initialiseert een nieuwe instantie van de [`Page`](../)-klasse.
 
 ```csharp
 public Page()
@@ -82,7 +82,5 @@ public Page()
 ### Zie ook
 
 * class [Page](../)
-* naamruimte [Aspose.Svg.Drawing](../../page/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

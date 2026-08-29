@@ -1,14 +1,14 @@
 ---
-title: IStyleSheet.Media
-second_title: Aspose.SVG voor .NET API-referentie
-description: IStyleSheet eigendom. De beoogde bestemmingsmedia voor stijlinformatie.
+title: "IStyleSheet.Media"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IStyleSheet Media property. Het beoogde bestemmings‑media voor stijl‑informatie"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom.css/istylesheet/media/
 ---
 ## IStyleSheet.Media property
 
-De beoogde bestemmingsmedia voor stijlinformatie.
+Het beoogde bestemmingsmedium voor stijl‑informatie.
 
 ```csharp
 public IMediaList Media { get; }
@@ -18,7 +18,5 @@ public IMediaList Media { get; }
 
 * interface [IMediaList](../../imedialist/)
 * interface [IStyleSheet](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../istylesheet/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

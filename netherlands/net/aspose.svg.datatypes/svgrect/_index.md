@@ -1,14 +1,14 @@
 ---
-title: Class SVGRect
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.DataTypes.SVGRect klas. Vertegenwoordigt rechthoekige geometrie. Rechthoeken worden gedefinieerd als bestaand uit een xy coördinatenpaar dat een minimale Xwaarde een minimale Ywaarde en een breedte en hoogte identificeert die gewoonlijk beperkt zijn tot nietnegatief.
+title: "SVGRect Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.DataTypes.SVGRect klasse. Vertegenwoordigt rechthoekige geometrie. Rechthoeken worden gedefinieerd als bestaande uit een xy-coördinaatpaar dat een minimale X-waarde, een minimale Y-waarde en een breedte en hoogte identificeert, die meestal beperkt zijn tot niet‑negatief."
 type: docs
-weight: 300
+weight: 2290
 url: /nl/net/aspose.svg.datatypes/svgrect/
 ---
 ## SVGRect class
 
-Vertegenwoordigt rechthoekige geometrie. Rechthoeken worden gedefinieerd als bestaand uit een (x,y) coördinatenpaar dat een minimale X-waarde, een minimale Y-waarde en een breedte en hoogte identificeert, die gewoonlijk beperkt zijn tot niet-negatief.
+Stelt rechthoekige geometrie voor. Rechthoeken worden gedefinieerd als bestaande uit een (x,y)-coördinaatpaar dat een minimale X-waarde, een minimale Y-waarde, en een breedte en hoogte identificeert, die meestal beperkt zijn tot niet-negatief.
 
 ```csharp
 public class SVGRect : SVGValueType
@@ -23,18 +23,16 @@ public class SVGRect : SVGValueType
 | [X](../../aspose.svg.datatypes/svgrect/x/) { get; set; } | De X-coördinaat van de rechthoek, in gebruikerseenheden. |
 | [Y](../../aspose.svg.datatypes/svgrect/y/) { get; set; } | De Y-coördinaat van de rechthoek, in gebruikerseenheden. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Geeft onbeheerde en - optioneel - beheerde bronnen vrij. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| override [ToString](../../aspose.svg.datatypes/svgrect/tostring/)() | Geeft als resultaat eenString die deze instantie vertegenwoordigt. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Vrijgeeft niet‑beheerde en - optioneel - beheerde bronnen. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| override [ToString](../../aspose.svg.datatypes/svgrect/tostring/)() | Retourneert een String die deze instantie vertegenwoordigt. |
 
 ### Zie ook
 
 * class [SVGValueType](../svgvaluetype/)
-* naamruimte [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

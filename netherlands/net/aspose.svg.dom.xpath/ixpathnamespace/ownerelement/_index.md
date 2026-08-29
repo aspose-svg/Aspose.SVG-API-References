@@ -1,14 +1,14 @@
 ---
-title: IXPathNamespace.OwnerElement
-second_title: Aspose.SVG voor .NET API-referentie
-description: IXPathNamespace eigendom. DeElementwaarop de naamruimte binnen het bereik viel toen deze werd aangevraagd. Dit verandert niet op een geretourneerd naamruimteknooppunt zelfs niet als het document zodanig verandert dat de naamruimte buiten het bereik van dat element valt en dit knooppunt daar niet meer wordt gevonden door XPath.
+title: "IXPathNamespace.OwnerElement"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IXPathNamespace OwnerElement eigenschap. Het Element waarop de namespace van toepassing was toen deze werd opgevraagd. Dit verandert niet op een geretourneerde namespace‑knooppunt, zelfs niet als het document verandert waardoor de namespace buiten het bereik van dat element valt en dit knooppunt niet langer door XPath daar wordt gevonden."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.xpath/ixpathnamespace/ownerelement/
 ---
 ## IXPathNamespace.OwnerElement property
 
-De[`Element`](../../../aspose.svg.dom/element/)waarop de naamruimte binnen het bereik viel toen deze werd aangevraagd. Dit verandert niet op een geretourneerd naamruimteknooppunt, zelfs niet als het document zodanig verandert dat de naamruimte buiten het bereik van dat element valt en dit knooppunt daar niet meer wordt gevonden door XPath.
+The [`Element`](../../../aspose.svg.dom/element/) waarop de namespace van toepassing was toen deze werd opgevraagd. Dit verandert niet op een geretourneerd namespace‑knooppunt, zelfs niet als het document verandert waardoor de namespace buiten het bereik van dat element valt en dit knooppunt niet langer door XPath daar wordt gevonden.
 
 ```csharp
 public Element OwnerElement { get; }
@@ -18,7 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IXPathNamespace](../)
-* naamruimte [Aspose.Svg.Dom.XPath](../../ixpathnamespace/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

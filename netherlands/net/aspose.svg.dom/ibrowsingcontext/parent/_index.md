@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Parent
-second_title: Aspose.SVG voor .NET API-referentie
-description: IBrowsingContext eigendom. Haalt de bovenliggende context op indien aanwezig.
+title: "IBrowsingContext.Parent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IBrowsingContext Parent eigenschap. Haalt de bovenliggende context op, indien aanwezig."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom/ibrowsingcontext/parent/
@@ -14,14 +14,12 @@ Haalt de bovenliggende context op, indien aanwezig.
 public IBrowsingContext Parent { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De ouder.
 
 ### Zie ook
 
 * interface [IBrowsingContext](../)
-* naamruimte [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

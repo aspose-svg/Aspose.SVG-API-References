@@ -1,14 +1,14 @@
 ---
-title: SVGPathOptimizationOptions.FloatPrecision
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathOptimizationOptions eigendom. Haalt of stelt de optie in om een floatprecision drijvendekommawaarde af te ronden op een gespecificeerd aantal decimale cijfers. Het is standaard 3.
+title: "SVGPathOptimizationOptions.FloatPrecision"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathOptimizationOptions FloatPrecision eigenschap. Haalt of stelt de optie in om een zwevend-kommagetal met drijvende precisie af te ronden op een opgegeven aantal fractionele cijfers. Standaard is dit 3."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/
 ---
 ## SVGPathOptimizationOptions.FloatPrecision property
 
-Haalt of stelt de optie in om een float-precision drijvende-kommawaarde af te ronden op een gespecificeerd aantal decimale cijfers. Het is standaard '3'.
+Haalt of stelt de optie in om een zwevend‑kommagetal met float‑precisie af te ronden op een opgegeven aantal fractionele cijfers. Standaard is dit '3'.
 
 ```csharp
 public int FloatPrecision { get; set; }
@@ -17,7 +17,5 @@ public int FloatPrecision { get; set; }
 ### Zie ook
 
 * class [SVGPathOptimizationOptions](../)
-* naamruimte [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

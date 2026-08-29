@@ -1,34 +1,32 @@
 ---
-title: ITreeWalker.CurrentNode
-second_title: Aspose.SVG voor .NET API-referentie
-description: ITreeWalker eigendom. Het knooppunt waarop de TreeWalker momenteel is gepositioneerd. Wijzigingen aan de DOMstructuur kunnen ertoe leiden dat het huidige knooppunt niet langer wordt geaccepteerd door het bijbehorende filter van de TreeWalker. currentNode kan ook expliciet worden ingesteld op elk knooppunt of het nu is of niet binnen de substructuur gespecificeerd door het rootknooppunt of zou worden geaccepteerd door het filter en whatToShowvlaggen. Verdere verplaatsing vindt plaats ten opzichte van currentNode zelfs als het geen deel uitmaakt van de huidige weergave door de filters toe te passen in de gevraagde richting als geen traversal mogelijk is wordt currentNode niet gewijzigd.
+title: "ITreeWalker.CurrentNode"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ITreeWalker CurrentNode-eigenschap. Het knooppunt waarop de TreeWalker momenteel is gepositioneerd. Wijzigingen in de DOM-boom kunnen ertoe leiden dat het huidige knooppunt niet langer wordt geaccepteerd door het bijbehorende filter van de TreeWalker. currentNode kan ook expliciet worden ingesteld op elk knooppunt, ongeacht of het zich binnen de door het rootknooppunt gespecificeerde subboom bevindt of al dan niet wordt geaccepteerd door het filter en de whatToShow‑vlaggen. Verdere traversals vinden plaats ten opzichte van currentNode, zelfs als het niet deel uitmaakt van de huidige weergave, door de filters in de gevraagde richting toe te passen; als er geen traversals mogelijk zijn, wordt currentNode niet gewijzigd."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.traversal/itreewalker/currentnode/
 ---
 ## ITreeWalker.CurrentNode property
 
-Het knooppunt waarop de TreeWalker momenteel is gepositioneerd. Wijzigingen aan de DOM-structuur kunnen ertoe leiden dat het huidige knooppunt niet langer wordt geaccepteerd door het bijbehorende filter van de TreeWalker. currentNode kan ook expliciet worden ingesteld op elk knooppunt, of het nu is of niet binnen de substructuur gespecificeerd door het root-knooppunt of zou worden geaccepteerd door het filter en whatToShow-vlaggen. Verdere verplaatsing vindt plaats ten opzichte van currentNode, zelfs als het geen deel uitmaakt van de huidige weergave, door de filters toe te passen in de gevraagde richting; als geen traversal mogelijk is, wordt currentNode niet gewijzigd.
+De node waarop de TreeWalker momenteel is gepositioneerd. Wijzigingen in de DOM-boom kunnen ertoe leiden dat de huidige node niet langer wordt geaccepteerd door het bijbehorende filter van de TreeWalker. currentNode kan ook expliciet worden ingesteld op elke node, ongeacht of deze zich binnen de door de rootnode gespecificeerde subboom bevindt of al dan niet wordt geaccepteerd door het filter en de whatToShow‑vlaggen. Verdere traversals vinden plaats ten opzichte van currentNode, zelfs als deze niet deel uitmaakt van de huidige weergave, door de filters in de gevraagde richting toe te passen; als er geen traversals mogelijk zijn, wordt currentNode niet gewijzigd.
 
 ```csharp
 public Node CurrentNode { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het huidige knooppunt.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Verhoogd als er een poging wordt gedaan om currentNode in te stellen op null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Opgetreden wanneer een poging wordt gedaan om currentNode op null in te stellen. |
 
 ### Zie ook
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* naamruimte [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

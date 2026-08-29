@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedRect
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.DataTypes.SVGAnimatedRect klas. Wordt gebruikt voor kenmerken van het type SVGRect die kunnen worden geanimeerd.
+title: "SVGAnimatedRect Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.DataTypes.SVGAnimatedRect klasse. Gebruikt voor attributen van het type SVGRect die geanimeerd kunnen worden"
 type: docs
-weight: 180
+weight: 2170
 url: /nl/net/aspose.svg.datatypes/svganimatedrect/
 ---
 ## SVGAnimatedRect class
 
-Wordt gebruikt voor kenmerken van het type SVGRect die kunnen worden geanimeerd.
+Gebruikt voor attributen van het type SVGRect die geanimeerd kunnen worden.
 
 ```csharp
 public class SVGAnimatedRect : SVGAnimatedValue<SVGRect>
@@ -21,19 +21,17 @@ public class SVGAnimatedRect : SVGAnimatedValue<SVGRect>
 | virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Geeft onbeheerde en - optioneel - beheerde bronnen vrij. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedrect/tostring/)() | Geeft als resultaat eenString die deze instantie vertegenwoordigt. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Vrijgeeft niet‑beheerde en - optioneel - beheerde bronnen. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedrect/tostring/)() | Retourneert een String die deze instantie vertegenwoordigt. |
 
 ### Zie ook
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGRect](../svgrect/)
-* naamruimte [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

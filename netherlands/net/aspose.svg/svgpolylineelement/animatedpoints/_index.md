@@ -1,20 +1,20 @@
 ---
-title: SVGPolylineElement.AnimatedPoints
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPolylineElement eigendom. Geeft toegang tot de huidige geanimeerde inhoud van het attribuut punten. Als het gegeven attribuut of eigenschap wordt geanimeerd bevat dit de huidige geanimeerde waarde van het attribuut of de eigenschap. Als het gegeven attribuut of eigenschap momenteel niet wordt geanimeerd bevat het dezelfde waarde als punten.
+title: "SVGPolylineElement.AnimatedPoints"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPolylineElement AnimatedPoints eigenschap. Biedt toegang tot de huidige geanimeerde inhoud van het points-attribuut. Als het opgegeven attribuut of de eigenschap wordt geanimeerd, bevat het de huidige geanimeerde waarde van het attribuut of de eigenschap. Als het opgegeven attribuut of de eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als points."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svgpolylineelement/animatedpoints/
 ---
 ## SVGPolylineElement.AnimatedPoints property
 
-Geeft toegang tot de huidige geanimeerde inhoud van het attribuut 'punten'. Als het gegeven attribuut of eigenschap wordt geanimeerd, bevat dit de huidige geanimeerde waarde van het attribuut of de eigenschap. Als het gegeven attribuut of eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als punten.
+Biedt toegang tot de huidige geanimeerde inhoud van het ‘points’-attribuut. Als het opgegeven attribuut of de eigenschap wordt geanimeerd, bevat het de huidige geanimeerde waarde van het attribuut of de eigenschap. Als het opgegeven attribuut of de eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als points.
 
 ```csharp
 public SVGPointList AnimatedPoints { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De geanimeerde punten.
 
@@ -22,7 +22,5 @@ De geanimeerde punten.
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * class [SVGPolylineElement](../)
-* naamruimte [Aspose.Svg](../../svgpolylineelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

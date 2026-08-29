@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnBeforeUnload
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindowEventHandlers evenement. Krijgt of stelt gebeurtenishandler in
+title: "IWindowEventHandlers.OnBeforeUnload"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindowEventHandlers OnBeforeUnload-event. Haalt of stelt de eventhandler in."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.window/iwindoweventhandlers/onbeforeunload/
 ---
 ## IWindowEventHandlers.OnBeforeUnload event
 
-Krijgt of stelt gebeurtenishandler in
+Haalt de event‑handler op of stelt deze in
 
 ```csharp
 public event DOMEventHandler OnBeforeUnload;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnBeforeUnload;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* naamruimte [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

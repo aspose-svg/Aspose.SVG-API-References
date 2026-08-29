@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Saving.SaveOptions klas. Dit is een abstracte basisklasse voor klassen waarmee de gebruiker aanvullende opties kan specificeren bij het opslaan van een document in een bepaald formaat.
+title: "SaveOptions Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Saving.SaveOptions class. Dit is een abstracte basisklasse voor klassen die de gebruiker in staat stellen extra opties op te geven bij het opslaan van een document in een bepaald formaat."
 type: docs
-weight: 3680
+weight: 5810
 url: /nl/net/aspose.svg.saving/saveoptions/
 ---
 ## SaveOptions class
 
-Dit is een abstracte basisklasse voor klassen waarmee de gebruiker aanvullende opties kan specificeren bij het opslaan van een document in een bepaald formaat.
+Dit is een abstracte basisklasse voor klassen die de gebruiker in staat stellen extra opties op te geven bij het opslaan van een document in een bepaald formaat.
 
 ```csharp
 public abstract class SaveOptions
@@ -18,11 +18,9 @@ public abstract class SaveOptions
 
 | Naam | Beschrijving |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Krijgt een[`ResourceHandlingOptions`](../resourcehandlingoptions/) object dat wordt gebruikt voor de configuratie van het omgaan met bronnen. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Haalt een [`ResourceHandlingOptions`](../resourcehandlingoptions/) object op dat wordt gebruikt voor de configuratie van de afhandeling van bronnen. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

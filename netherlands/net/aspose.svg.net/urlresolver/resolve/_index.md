@@ -1,14 +1,14 @@
 ---
-title: UrlResolver.Resolve
-second_title: Aspose.SVG voor .NET API-referentie
-description: UrlResolver methode. Lost de absolute URI op uit de basis en relatieve URIs.
+title: "UrlResolver.Resolve"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UrlResolver Resolve-methode. Bepaalt de absolute URI vanuit de basis- en relatieve URI's"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.net/urlresolver/resolve/
 ---
 ## UrlResolver.Resolve method
 
-Lost de absolute URI op uit de basis- en relatieve URI's.
+Lost de absolute URI op vanuit de basis- en relatieve URI's.
 
 ```csharp
 public virtual Url Resolve(string baseUri, string relativeUri)
@@ -19,7 +19,7 @@ public virtual Url Resolve(string baseUri, string relativeUri)
 | baseUri | String | De basis-URI. |
 | relativeUri | String | De relatieve URI. |
 
-### Winstwaarde
+### Retourwaarde
 
 De absolute URI
 
@@ -27,7 +27,5 @@ De absolute URI
 
 * class [Url](../../../aspose.svg/url/)
 * class [UrlResolver](../)
-* naamruimte [Aspose.Svg.Net](../../urlresolver/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGTransform.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGTransform methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "SVGTransform.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGTransform ToString-methode. Retourneert een String die deze instantie vertegenwoordigt"
 type: docs
 weight: 100
 url: /nl/net/aspose.svg.datatypes/svgtransform/tostring/
 ---
 ## SVGTransform.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [SVGTransform](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgtransform/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

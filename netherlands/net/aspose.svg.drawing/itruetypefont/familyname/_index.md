@@ -1,27 +1,25 @@
 ---
-title: ITrueTypeFont.FamilyName
-second_title: Aspose.SVG voor .NET API-referentie
-description: ITrueTypeFont eigendom. Haal de naam van de lettertypefamilie op.
+title: "ITrueTypeFont.FamilyName"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ITrueTypeFont FamilyName‑eigenschap. Haalt de naam van de lettertype‑familie op."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.drawing/itruetypefont/familyname/
 ---
 ## ITrueTypeFont.FamilyName property
 
-Haal de naam van de lettertypefamilie op.
+Haalt de naam van de lettertypefamilie op.
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Achternaam van lettertype
+De familienaam van het lettertype.
 
 ### Zie ook
 
 * interface [ITrueTypeFont](../)
-* naamruimte [Aspose.Svg.Drawing](../../itruetypefont/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

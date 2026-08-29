@@ -1,14 +1,14 @@
 ---
-title: DOMObject.DOMObject
-second_title: Aspose.SVG voor .NET API-referentie
-description: DOMObject constructeur. De standaard constructeur.
+title: "DOMObject"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DOMObject‑constructor. De standaardconstructor"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/domobject/domobject/
 ---
 ## DOMObject constructor
 
-De standaard constructeur.
+De standaardconstructor.
 
 ```csharp
 public DOMObject()
@@ -17,7 +17,5 @@ public DOMObject()
 ### Zie ook
 
 * class [DOMObject](../)
-* naamruimte [Aspose.Svg.Dom](../../domobject/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

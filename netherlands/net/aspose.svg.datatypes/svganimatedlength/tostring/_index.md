@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedLength.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGAnimatedLength methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "SVGAnimatedLength.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGAnimatedLength ToString-methode. Retourneert een String die deze instantie vertegenwoordigt."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.datatypes/svganimatedlength/tostring/
 ---
 ## SVGAnimatedLength.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svganimatedlength/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

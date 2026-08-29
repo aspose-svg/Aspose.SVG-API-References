@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.Item
-second_title: Aspose.SVG voor .NET API-referentie
-description: NamedNodeMap eigendom. Geeft het indexde item op de kaart terug. Als index groter is dan of gelijk is aan het aantal knooppunten in deze kaart retourneert dit null.
+title: "NamedNodeMap.Item"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NamedNodeMap Item eigenschap. Retourneert het index-de item in de map. Als index groter dan of gelijk is aan het aantal knooppunten in deze map, retourneert dit null."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.collections/namednodemap/item/
 ---
 ## NamedNodeMap indexer (1 of 2)
 
-Geeft het index-de item op de kaart terug. Als index groter is dan of gelijk is aan het aantal knooppunten in deze kaart, retourneert dit null.
+Retourneert het index-de item in de map. Als index groter dan of gelijk is aan het aantal knooppunten in deze map, retourneert dit null.
 
 ```csharp
 public Attr this[int index] { get; }
@@ -18,26 +18,26 @@ public Attr this[int index] { get; }
 | --- | --- |
 | index | De index. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert node.
+Retourneert een knooppunt.
 
-### Eigendoms-waarde
+### Property Value
 
-De[`Attr`](../../../aspose.svg.dom/attr/) .
+De [`Attr`](../../../aspose.svg.dom/attr/).
 
 ### Zie ook
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* naamruimte [Aspose.Svg.Collections](../../namednodemap/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## NamedNodeMap indexer (2 of 2)
 
-Krijgt de[`Attr`](../../../aspose.svg.dom/attr/) met de opgegeven naam.
+Haalt de [`Attr`](../../../aspose.svg.dom/attr/) op met de opgegeven naam.
 
 ```csharp
 public Attr this[string name] { get; }
@@ -45,21 +45,19 @@ public Attr this[string name] { get; }
 
 | Parameter | Beschrijving |
 | --- | --- |
-| name | De attribuutnaam. |
+| naam | De attribuutnaam. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert node.
+Retourneert een knooppunt.
 
-### Eigendoms-waarde
+### Property Value
 
-De[`Attr`](../../../aspose.svg.dom/attr/) .
+De [`Attr`](../../../aspose.svg.dom/attr/).
 
 ### Zie ook
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* naamruimte [Aspose.Svg.Collections](../../namednodemap/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

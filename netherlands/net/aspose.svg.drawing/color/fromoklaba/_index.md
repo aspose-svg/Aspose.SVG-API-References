@@ -1,14 +1,14 @@
 ---
-title: Color.FromOklaba
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Retourneert een nieuwe kleur met de gevraagde lichtheid A B alphawaarden voor OKLABmodel.
+title: "Color.FromOklaba"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color FromOklaba-methode. Retourneert een nieuwe Color met de gevraagde lichtheids‑A‑B‑alfa‑waarden voor het OKLAB‑model"
 type: docs
 weight: 170
 url: /nl/net/aspose.svg.drawing/color/fromoklaba/
 ---
 ## Color.FromOklaba method
 
-Retourneert een nieuwe kleur met de gevraagde lichtheid, A, B, alpha-waarden voor OKLAB-model.
+Retourneert een nieuwe Color met de gevraagde lightness, A, B, alpha waarden voor het OKLAB-model.
 
 ```csharp
 public static Color FromOklaba(float lightness, float a, float b, float alpha)
@@ -16,19 +16,17 @@ public static Color FromOklaba(float lightness, float a, float b, float alpha)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| lightness | Single | Een float die de lichtheidscomponent van de kleur vertegenwoordigt. |
-| a | Single | Een float die de A-component van de kleur vertegenwoordigt. |
-| b | Single | Een float die de B-component van de kleur vertegenwoordigt. |
-| alpha | Single | Een float die de alfacomponent van de kleur vertegenwoordigt. |
+| lichtheid | Single | Een float die de lichtheidcomponent van de kleur vertegenwoordigt. |
+| a | Single | Een float die het A-component van de kleur vertegenwoordigt. |
+| b | Single | Een float die het B-component van de kleur vertegenwoordigt. |
+| alfa | Single | Een float die de alfacomponent van de kleur vertegenwoordigt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuw exemplaar van de[`Color`](../) klas
+Een nieuw exemplaar van de [`Color`](../) klasse
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

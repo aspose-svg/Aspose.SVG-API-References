@@ -1,7 +1,7 @@
 ---
-title: Color.WithAlpha
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Maakt een kopie van de kleur met opgegeven alfacomponent.
+title: "Color.WithAlpha"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color WithAlpha-methode. Maakt een kopie van de Color met het opgegeven alfa-component"
 type: docs
 weight: 450
 url: /nl/net/aspose.svg.drawing/color/withalpha/
@@ -16,16 +16,14 @@ public Color WithAlpha(float alpha)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| alpha | Single | Waarde van de alfacomponent |
+| alfa | Single | Waarde van het alfa-component |
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuw exemplaar van de[`Color`](../) klas
+Een nieuw exemplaar van de [`Color`](../) klasse
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

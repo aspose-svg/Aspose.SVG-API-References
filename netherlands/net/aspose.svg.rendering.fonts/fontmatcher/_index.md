@@ -1,28 +1,26 @@
 ---
-title: Class FontMatcher
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Fonts.FontMatcher klas. Met deze klasse kunt u bepaalde delen van het algoritme voor het matchen van lettertypen beheren.
+title: "FontMatcher Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.Fonts.FontMatcher klasse. Deze klasse stelt u in staat enkele delen van het lettertype‑matchingalgoritme te beheersen"
 type: docs
-weight: 2770
+weight: 4850
 url: /nl/net/aspose.svg.rendering.fonts/fontmatcher/
 ---
 ## FontMatcher class
 
-Met deze klasse kunt u bepaalde delen van het algoritme voor het matchen van lettertypen beheren.
+Deze klasse stelt je in staat enkele delen van het font‑matching‑algoritme te beheersen.
 
 ```csharp
 public abstract class FontMatcher
 ```
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| abstract [MatchFontFallback](../../aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/)(FontMatchingProperties, uint) | Deze methode wordt aangeroepen als er geen geschikt lettertype is gevonden in de opzoekmappen voor lettertypen. Het zou True Type-lettertype moeten retourneren op basis van de*fontMatchingProperties* die kan renderen*charCode* , of`nul` als een dergelijk lettertype niet beschikbaar is. |
+| abstract [MatchFontFallback](../../aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/)(*[FontMatchingProperties](../fontmatchingproperties/), int*) | Deze methode wordt aangeroepen als er geen geschikt lettertype wordt gevonden in de lettertype‑zoekmappen. Het moet een true‑type lettertype retourneren op basis van de *fontMatchingProperties* die *charCode* kan renderen, of `null` als zo'n lettertype niet beschikbaar is. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering.Fonts](../../aspose.svg.rendering.fonts/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../)

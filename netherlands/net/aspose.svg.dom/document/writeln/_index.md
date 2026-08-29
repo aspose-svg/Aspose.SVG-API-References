@@ -1,14 +1,14 @@
 ---
-title: Document.WriteLn
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document methode. Schrijf een tekstreeks gevolgd door een teken voor een nieuwe regel naar een document stroom geopend door open. Merk op dat de functie will een document produceert dat niet noodzakelijkerwijs wordt aangestuurd door een DTD en kan daarom een ongeldig resultaat opleveren in de context van the document
+title: "Document.WriteLn"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document WriteLn-methode. Schrijft een tekenreeks gevolgd door een regeleinde-teken naar een documentstroom die geopend is met open. Merk op dat de functie een document kan produceren dat niet noodzakelijk wordt aangestuurd door een DTD en daardoor een ongeldig resultaat kan opleveren in de context van het document."
 type: docs
-weight: 1060
+weight: 1070
 url: /nl/net/aspose.svg.dom/document/writeln/
 ---
 ## Document.WriteLn method
 
-Schrijf een tekstreeks gevolgd door een teken voor een nieuwe regel naar een document stroom geopend door open(). Merk op dat de functie will een document produceert dat niet noodzakelijkerwijs wordt aangestuurd door een DTD en kan daarom een ongeldig resultaat opleveren in de context van the document
+Schrijf een tekenreeks tekst, gevolgd door een regeleinde‑teken, naar een documentstroom die is geopend met open(). Merk op dat de functie een document kan produceren dat niet noodzakelijkerwijs wordt aangestuurd door een DTD en daarom een ongeldig resultaat kan opleveren in de context van het document.
 
 ```csharp
 public void WriteLn(params string[] texts)
@@ -16,12 +16,10 @@ public void WriteLn(params string[] texts)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| texts | String[] | De tekenreeks die moet worden geparseerd in een structuur in het documentstructuurmodel . |
+| teksten | String[] | De string die moet worden geparseerd in een bepaalde structuur in het documentstructuurmodel. |
 
 ### Zie ook
 
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

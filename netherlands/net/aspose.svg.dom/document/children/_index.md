@@ -1,7 +1,7 @@
 ---
-title: Document.Children
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document eigendom. Geeft de onderliggende elementen terug.
+title: "Document.Children"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document Children‑eigenschap. Retourneert de kindelementen."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom/document/children/
@@ -14,7 +14,7 @@ Geeft de onderliggende elementen terug.
 public HTMLCollection Children { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De kinderen.
 
@@ -22,7 +22,5 @@ De kinderen.
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

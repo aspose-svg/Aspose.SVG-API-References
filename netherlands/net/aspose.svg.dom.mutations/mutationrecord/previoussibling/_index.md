@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.PreviousSibling
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationRecord eigendom. Retourneert het vorige broertje van de toegevoegde of verwijderde knooppunten of null.
+title: "MutationRecord.PreviousSibling"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationRecord PreviousSibling eigenschap. Retourneert de vorige sibling van de toegevoegde of verwijderde knooppunten of null"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom.mutations/mutationrecord/previoussibling/
 ---
 ## MutationRecord.PreviousSibling property
 
-Retourneert het vorige broertje van de toegevoegde of verwijderde knooppunten, of null.
+Retourneert de vorige sibling van de toegevoegde of verwijderde knooppunten, of null.
 
 ```csharp
 public Node PreviousSibling { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De vorige broer of zus.
+De vorige sibling.
 
 ### Zie ook
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

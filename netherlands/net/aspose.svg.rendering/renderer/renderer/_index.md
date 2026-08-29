@@ -1,14 +1,14 @@
 ---
-title: Renderer.Renderer
-second_title: Aspose.SVG voor .NET API-referentie
-description: Renderer constructeur. De standaard constructeur.
+title: "Renderer"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Renderer constructor. De standaardconstructor"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering/renderer/renderer/
 ---
 ## Renderer constructor
 
-De standaard constructeur.
+De standaardconstructor.
 
 ```csharp
 public Renderer()
@@ -17,7 +17,5 @@ public Renderer()
 ### Zie ook
 
 * class [Renderer](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

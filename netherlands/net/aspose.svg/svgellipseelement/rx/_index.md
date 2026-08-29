@@ -1,28 +1,26 @@
 ---
-title: SVGEllipseElement.Rx
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGEllipseElement eigendom. Komt overeen met attribuut cx op het gegeven circle element.
+title: "SVGEllipseElement.Rx"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGEllipseElement Rx eigenschap. Komt overeen met attribuut cx op het opgegeven cirkel-element"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg/svgellipseelement/rx/
 ---
 ## SVGEllipseElement.Rx property
 
-Komt overeen met attribuut 'cx' op het gegeven 'circle' element.
+Komt overeen met attribuut ‘cx’ op het opgegeven ‘circle’-element.
 
 ```csharp
 public SVGAnimatedLength Rx { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'rx' van het gegeven 'circle' element.
+Het attribuut ‘rx’ van het opgegeven ‘circle’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* naamruimte [Aspose.Svg](../../svgellipseelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

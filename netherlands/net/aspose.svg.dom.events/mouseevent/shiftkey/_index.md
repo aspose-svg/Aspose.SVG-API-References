@@ -1,7 +1,7 @@
 ---
-title: MouseEvent.ShiftKey
-second_title: Aspose.SVG voor .NET API-referentie
-description: MouseEvent eigendom. Verwijs naar het shiftKeyattribuut.
+title: "MouseEvent.ShiftKey"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MouseEvent ShiftKey property. Zie het shiftKey‑attribuut."
 type: docs
 weight: 120
 url: /nl/net/aspose.svg.dom.events/mouseevent/shiftkey/
@@ -14,14 +14,12 @@ Verwijs naar het shiftKey-attribuut.
 public bool ShiftKey { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als [shift-toets]; anders,`vals` .
+`true` als [shift key]; anders `false`.
 
 ### Zie ook
 
 * class [MouseEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../mouseevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

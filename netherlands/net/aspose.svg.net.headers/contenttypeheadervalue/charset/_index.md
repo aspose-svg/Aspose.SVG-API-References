@@ -1,27 +1,25 @@
 ---
-title: ContentTypeHeaderValue.CharSet
-second_title: Aspose.SVG voor .NET API-referentie
-description: ContentTypeHeaderValue eigendom. Haalt de tekenset voor inhoud op of stelt deze in.
+title: "ContentTypeHeaderValue.CharSet"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ContentTypeHeaderValue CharSet-eigenschap. Haalt of stelt de tekenset voor inhoud in."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net.headers/contenttypeheadervalue/charset/
 ---
 ## ContentTypeHeaderValue.CharSet property
 
-Haalt de tekenset voor inhoud op of stelt deze in.
+Krijgt of stelt de tekenset in voor de inhoud.
 
 ```csharp
 public string CharSet { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De tekenset.
 
 ### Zie ook
 
 * class [ContentTypeHeaderValue](../)
-* naamruimte [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

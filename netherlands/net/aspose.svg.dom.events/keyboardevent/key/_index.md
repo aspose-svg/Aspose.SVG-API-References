@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.Key
-second_title: Aspose.SVG voor .NET API-referentie
-description: KeyboardEvent eigendom. De toets bevat de toetswaarde van de ingedrukte toets. Als de waarde een gedrukte weergave heeft MOET het een nietlege Unicodetekenreeks zijn conform het algoritme voor het bepalen van de sleutelwaarde die in deze specificatie is gedefinieerd. Als de waarde een controlesleutel is die geen gedrukte weergave heeft MOET het een van de sleutelwaarden zijn die zijn gedefinieerd in de set sleutelwaarden zoals bepaald door het algoritme voor het bepalen van de sleutelwaarde. Implementaties die geen sleutel kunnen identificeren MOETEN de sleutelwaarde Unidentified. gebruiken
+title: "KeyboardEvent.Key"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "KeyboardEvent Key eigenschap. De key bevat de sleutelwaarde van de ingedrukte toets. Als de waarde een afgedrukte weergave heeft, moet het een niet-lege Unicode‑tekenreeks zijn die voldoet aan het algoritme voor het bepalen van de sleutelwaarde zoals gedefinieerd in deze specificatie. Als de waarde een controle‑toets is die geen afgedrukte weergave heeft, moet het een van de sleutelwaarden zijn die gedefinieerd zijn in de set sleutelwaarden zoals bepaald door het algoritme voor het bepalen van de sleutelwaarde. Implementaties die niet in staat zijn een toets te identificeren, MUST de sleutelwaarde Unidentified gebruiken."
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom.events/keyboardevent/key/
 ---
 ## KeyboardEvent.Key property
 
-De toets bevat de toetswaarde van de ingedrukte toets. Als de waarde een gedrukte weergave heeft, MOET het een niet-lege Unicode-tekenreeks zijn, conform het algoritme voor het bepalen van de sleutelwaarde die in deze specificatie is gedefinieerd. Als de waarde een controlesleutel is die geen gedrukte weergave heeft, MOET het een van de sleutelwaarden zijn die zijn gedefinieerd in de set sleutelwaarden, zoals bepaald door het algoritme voor het bepalen van de sleutelwaarde. Implementaties die geen sleutel kunnen identificeren, MOETEN de sleutelwaarde Unidentified. gebruiken
+De toets bevat de toetswaarde van de ingedrukte toets. Als de waarde een afgedrukte weergave heeft, MOET het een niet-lege Unicode‑tekenreeks zijn, die voldoet aan het algoritme voor het bepalen van de toetswaarde zoals gedefinieerd in deze specificatie. Als de waarde een controle‑toets is die geen afgedrukte weergave heeft, MOET het een van de in de set toetswaarden gedefinieerde toetswaarden zijn, zoals bepaald door het algoritme voor het bepalen van de toetswaarde. Implementaties die niet in staat zijn een toets te identificeren MOETEN de toetswaarde Unidentified gebruiken.
 
 ```csharp
 public string Key { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De sleutelwaarde.
 
 ### Zie ook
 
 * class [KeyboardEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

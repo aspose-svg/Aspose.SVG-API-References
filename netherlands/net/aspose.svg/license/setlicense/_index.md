@@ -1,14 +1,14 @@
 ---
-title: License.SetLicense
-second_title: Aspose.SVG voor .NET API-referentie
-description: License methode. Licentie voor de component.
+title: "License.SetLicense"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "License SetLicense-methode. Licentieert het component"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg/license/setlicense/
 ---
-## SetLicense(string) {#setlicense_1}
+## SetLicense(*string*) {#setlicense_1}
 
-Licentie voor de component.
+Licentieert de component.
 
 ```csharp
 public void SetLicense(string licenseName)
@@ -16,35 +16,35 @@ public void SetLicense(string licenseName)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| licenseName | String | Kan een volledige of korte bestandsnaam zijn of de naam van een ingesloten bron. Gebruik een lege string om over te schakelen naar de evaluatiemodus. |
+| licenseName | String | Kan een volledige of korte bestandsnaam of de naam van een ingebedde resource zijn. Gebruik een lege tekenreeks om over te schakelen naar evaluatiemodus. |
 
-### Opmerkingen
+## Opmerkingen
 
 Probeert de licentie te vinden op de volgende locaties:
 
 1. Expliciet pad.
 
-2. De map die de Aspose component-assembly bevat.
+2. De map die de Aspose‑componentassembly bevat.
 
 3. De map die de aanroepende assembly van de client bevat.
 
-4. De map die de entry (opstart)-assembly bevat.
+4. De map die de entry‑ (opstart‑)assembly bevat.
 
-5. Een ingesloten bron in de aanroepende assembly van de client.
+5. Een ingebedde resource in de aanroepende assembly van de client.
 
-**Opmerking:**Probeert op het .NET Compact Framework de licentie alleen op deze locaties te vinden:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Expliciet pad.
 
-2. Een ingesloten bron in de aanroepende assembly van de client.
+2. Een ingebedde resource in de aanroepende assembly van de client.
 
-2. De map die het JAR-bestand van de Aspose-component bevat.
+2. De map die het Aspose‑component‑JAR‑bestand bevat.
 
-3. De map die het aanroepende JAR-bestand van de client bevat.
+3. De map die het JAR‑bestand van de aanroepende client bevat.
 
-### Voorbeelden
+## Voorbeelden
 
-In dit voorbeeld wordt geprobeerd een licentiebestand met de naam MyLicense.lic te vinden in de map die bevat de component, in de map die de aanroepende assembly bevat, in de map van de entry-assembly en vervolgens in de ingebedde bronnen van de aanroepende assembly.
+In dit voorbeeld wordt geprobeerd een licentiebestand met de naam MyLicense.lic te vinden in de map die de component bevat, in de map die de aanroepende assembly bevat, in de map van de entry-assembly en vervolgens in de ingebedde resources van de aanroepende assembly.
 
 ```csharp
 [C#]
@@ -53,7 +53,7 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-het component jar-bestand:
+het component‑jar‑bestand:
 
 ```csharp
 License license = new License();
@@ -63,14 +63,14 @@ license.setLicense("MyLicense.lic");
 ### Zie ook
 
 * class [License](../)
-* naamruimte [Aspose.Svg](../../license/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetLicense(Stream) {#setlicense}
+## SetLicense(*Stream*) {#setlicense}
 
-Licentie voor de component.
+Licentieert de component.
 
 ```csharp
 public void SetLicense(Stream stream)
@@ -80,11 +80,11 @@ public void SetLicense(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Een stream die de licentie bevat. |
 
-### Opmerkingen
+## Opmerkingen
 
-Gebruik deze methode om een licentie van een stream te laden.
+Gebruik deze methode om een licentie uit een stream te laden.
 
-### Voorbeelden
+## Voorbeelden
 
 ```csharp
 [C#]
@@ -96,7 +96,5 @@ license.SetLicense(myStream);
 ### Zie ook
 
 * class [License](../)
-* naamruimte [Aspose.Svg](../../license/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

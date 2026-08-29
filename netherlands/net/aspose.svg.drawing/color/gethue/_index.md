@@ -1,7 +1,7 @@
 ---
-title: Color.GetHue
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Retourneert een tint van de kleur.
+title: "Color.GetHue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color GetHue-methode. Retourneert een tint van de Color"
 type: docs
 weight: 330
 url: /nl/net/aspose.svg.drawing/color/gethue/
@@ -14,14 +14,12 @@ Retourneert een tint van de kleur.
 public float GetHue()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Een tint van de kleur.
+Een tint van de Color.
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

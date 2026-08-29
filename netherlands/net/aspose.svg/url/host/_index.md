@@ -1,27 +1,25 @@
 ---
-title: Url.Host
-second_title: Aspose.SVG voor .NET API-referentie
-description: Url eigendom. Haalt een tekenreeksrepresentatie op of stelt deze in voor de opgegeven URLhost.
+title: "Url.Host"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Url Host-eigenschap. Haalt op of stelt een tekenreeksrepresentatie in voor de opgegeven URL-host."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg/url/host/
 ---
 ## Url.Host property
 
-Haalt een tekenreeksrepresentatie op of stelt deze in voor de opgegeven URL-host.
+Haalt op of stelt een tekenreeksrepresentatie in voor de opgegeven URL-host.
 
 ```csharp
 public string Host { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De host.
 
 ### Zie ook
 
 * class [Url](../)
-* naamruimte [Aspose.Svg](../../url/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

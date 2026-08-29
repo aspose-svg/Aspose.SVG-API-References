@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnMouseMove
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnMouseMovegebeurtenis.
+title: "IGlobalEventHandlers.OnMouseMove"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnMouseMove event. Haalt of stelt de eventhandler in voor OnMouseMove event"
 type: docs
 weight: 270
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onmousemove/
 ---
 ## IGlobalEventHandlers.OnMouseMove event
 
-Haalt of stelt gebeurtenishandler in voor OnMouseMove-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnMouseMove event.
 
 ```csharp
 public event DOMEventHandler OnMouseMove;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseMove;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnScroll
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnScrollgebeurtenis.
+title: "IGlobalEventHandlers.OnScroll"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnScroll‑evenement. Haalt op of stelt de gebeurtenishandler in voor het OnScroll‑evenement"
 type: docs
 weight: 390
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onscroll/
 ---
 ## IGlobalEventHandlers.OnScroll event
 
-Haalt of stelt gebeurtenishandler in voor OnScroll-gebeurtenis.
+Haalt op of stelt de gebeurtenisafhandelaar in voor het OnScroll‑evenement.
 
 ```csharp
 public event DOMEventHandler OnScroll;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnScroll;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

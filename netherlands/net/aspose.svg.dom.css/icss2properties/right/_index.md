@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Right
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de juiste eigenschapsdefinitie in CSS2.
+title: "ICSS2Properties.Right"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties Right eigenschap. Zie de definitie van de right eigenschap in CSS2"
 type: docs
-weight: 980
+weight: 1010
 url: /nl/net/aspose.svg.dom.css/icss2properties/right/
 ---
 ## ICSS2Properties.Right property
 
-Zie de juiste eigenschapsdefinitie in CSS2.
+Zie de definitie van de eigenschap right in CSS2.
 
 ```csharp
 public string Right { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-juiste eigendom
+right eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

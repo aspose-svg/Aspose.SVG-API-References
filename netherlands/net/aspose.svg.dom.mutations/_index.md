@@ -1,20 +1,18 @@
 ---
-title: Aspose.Svg.Dom.Mutations
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Dom.Mutaties biedt de mogelijkheid om DOMmutaties te observeren en specifieke callbackinformatie te krijgen.
+title: "Aspose.Svg.Dom.Mutations"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.Dom.Mutations biedt de mogelijkheid om DOM-mutaties te observeren en specifieke callback‑informatie te verkrijgen."
 type: docs
-weight: 90
+weight: 110
 url: /nl/net/aspose.svg.dom.mutations/
 ---
-De **Aspose.Svg.Dom.Mutaties** biedt de mogelijkheid om DOM-mutaties te observeren en specifieke callback-informatie te krijgen.
+De **Aspose.Svg.Dom.Mutations** biedt de mogelijkheid om DOM‑mutaties te observeren en specifieke callback‑informatie te verkrijgen.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [MutationCallback](./mutationcallback/) | Vertegenwoordigt de methode die een mutatiegebeurtenis zal afhandelen. |
-| [MutationObserver](./mutationobserver/) | EEN[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) object kan worden gebruikt om mutaties in de boom van waar te nemen[`Node`](../aspose.svg.dom/node/) . |
-| [MutationObserverInit](./mutationobserverinit/) | Deze klasse vertegenwoordigt een verzameling opties die wordt gebruikt om te configureren[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) . |
-| [MutationRecord](./mutationrecord/) | Een MutationRecord vertegenwoordigt een individuele DOM-mutatie. Het is het object waaraan wordt doorgegeven[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) S[`MutationCallback`](../aspose.svg.dom.mutations/mutationcallback/) . |
-
-
+| [MutationCallback](./mutationcallback/) | Stelt de methode voor die mutatie‑gebeurtenissen zal afhandelen. |
+| [MutationObserver](./mutationobserver/) | Een [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) object kan worden gebruikt om mutaties in de boom van [`Node`](../aspose.svg.dom/node/) te observeren. |
+| [MutationObserverInit](./mutationobserverinit/) | Deze klasse stelt een optieverzameling voor die wordt gebruikt om [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) te configureren. |
+| [MutationRecord](./mutationrecord/) | Een MutationRecord stelt een individuele DOM-mutatie voor. Het is het object dat wordt doorgegeven aan de [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/)'s [`MutationCallback`](../aspose.svg.dom.mutations/mutationcallback/). |

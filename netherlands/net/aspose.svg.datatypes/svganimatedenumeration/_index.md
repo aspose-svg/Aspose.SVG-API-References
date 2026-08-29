@@ -1,14 +1,14 @@
 ---
-title: Class SVGAnimatedEnumeration
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.DataTypes.SVGAnimatedEnumeration klas. Wordt gebruikt voor attributen waarvan de waarde een constante moet zijn uit een bepaalde opsomming en die kan worden geanimeerd.
+title: "SVGAnimatedEnumeration Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.DataTypes.SVGAnimatedEnumeration klasse. Gebruikt voor attributen waarvan de waarde een constante uit een specifieke enumeratie moet zijn en die geanimeerd kan worden"
 type: docs
-weight: 110
+weight: 2100
 url: /nl/net/aspose.svg.datatypes/svganimatedenumeration/
 ---
 ## SVGAnimatedEnumeration class
 
-Wordt gebruikt voor attributen waarvan de waarde een constante moet zijn uit een bepaalde opsomming en die kan worden geanimeerd.
+Gebruikt voor attributen waarvan de waarde een constante uit een bepaalde enumeratie moet zijn en die geanimeerd kunnen worden.
 
 ```csharp
 public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
@@ -21,18 +21,16 @@ public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 | virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Geeft onbeheerde en - optioneel - beheerde bronnen vrij. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring/)() | Geeft als resultaat eenString die deze instantie vertegenwoordigt. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Vrijgeeft niet‑beheerde en - optioneel - beheerde bronnen. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring/)() | Retourneert een String die deze instantie vertegenwoordigt. |
 
 ### Zie ook
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
-* naamruimte [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

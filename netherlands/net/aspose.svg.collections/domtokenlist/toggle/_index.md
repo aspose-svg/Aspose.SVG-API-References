@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Toggle
-second_title: Aspose.SVG voor .NET API-referentie
-description: DOMTokenList methode. Verwijdert het token uit de lijst als het bestaat of voegt het toe aan de lijst als het niet bestaat.
+title: "DOMTokenList.Toggle"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DOMTokenList Toggle-methode. Verwijdert het token uit de lijst als het bestaat, of voegt het token toe aan de lijst als het niet bestaat"
 type: docs
 weight: 100
 url: /nl/net/aspose.svg.collections/domtokenlist/toggle/
 ---
-## Toggle(string) {#toggle}
+## Toggle(*string*) {#toggle}
 
-Verwijdert het token uit de lijst als het bestaat, of voegt het toe aan de lijst als het niet bestaat.
+Verwijdert de token uit de lijst als deze bestaat, of voegt de token toe aan de lijst als deze niet bestaat.
 
 ```csharp
 public bool Toggle(string token)
@@ -16,41 +16,39 @@ public bool Toggle(string token)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| token | String | Het token dat u wilt wisselen. |
+| token | String | Het token dat je wilt togglen. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een Booleaanse waarde die aangeeft of het token in de lijst staat na het gesprek.
+Een Boolean die aangeeft of token zich in de lijst bevindt na de aanroep.
 
 ### Zie ook
 
 * class [DOMTokenList](../)
-* naamruimte [Aspose.Svg.Collections](../../domtokenlist/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Toggle(string, bool?) {#toggle_1}
+## Toggle(*string, bool*) {#toggle_1}
 
-Verwijdert het token uit de lijst als het bestaat, of voegt het toe aan de lijst als het niet bestaat.
+Verwijdert de token uit de lijst als deze bestaat, of voegt de token toe aan de lijst als deze niet bestaat.
 
 ```csharp
-public bool Toggle(string token, bool? force)
+public bool Toggle(string token, bool force)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| token | String | Het token dat u wilt wisselen. |
-| force | Nullable`1 | Een Booleaanse waarde die, indien opgenomen, de schakelaar verandert in een eenrichtingsbewerking. Indien ingesteld op false, wordt het token alleen verwijderd, maar niet toegevoegd. Indien ingesteld op waar, wordt het token alleen toegevoegd, maar niet verwijderd. |
+| token | String | Het token dat je wilt togglen. |
+| force | Boolean | Een Boolean die, indien opgenomen, de toggle verandert in een eenrichtingsoperatie. Als deze op false wordt gezet, wordt het token alleen verwijderd, maar niet toegevoegd. Als deze op true wordt gezet, wordt het token alleen toegevoegd, maar niet verwijderd. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een Booleaanse waarde die aangeeft of het token in de lijst staat na het gesprek.
+Een Boolean die aangeeft of token zich in de lijst bevindt na de aanroep.
 
 ### Zie ook
 
 * class [DOMTokenList](../)
-* naamruimte [Aspose.Svg.Collections](../../domtokenlist/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

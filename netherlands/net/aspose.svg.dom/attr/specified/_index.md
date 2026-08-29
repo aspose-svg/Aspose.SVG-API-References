@@ -1,27 +1,25 @@
 ---
-title: Attr.Specified
-second_title: Aspose.SVG voor .NET API-referentie
-description: Attr eigendom. Waar als dit attribuut expliciet een waarde heeft gekregen in het instantiedocument anders onwaar.
+title: "Attr.Specified"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Attr Specified‑eigenschap. True als dit attribuut expliciet een waarde heeft gekregen in het instantiedocument, anders false."
 type: docs
-weight: 110
+weight: 90
 url: /nl/net/aspose.svg.dom/attr/specified/
 ---
 ## Attr.Specified property
 
-Waar als dit attribuut expliciet een waarde heeft gekregen in het instantiedocument, anders onwaar.
+Waar als dit attribuut expliciet een waarde kreeg in het instantiedocument, onwaar anders.
 
 ```csharp
 public bool Specified { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` indien gespecificeerd; anders,`vals` .
+`true` indien gespecificeerd; anders `false`.
 
 ### Zie ook
 
 * class [Attr](../)
-* naamruimte [Aspose.Svg.Dom](../../attr/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

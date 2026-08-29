@@ -1,14 +1,14 @@
 ---
-title: Class FontsSettings
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.FontsSettings klas. Vertegenwoordigt instellingen voor het verwerken van lettertypen.
+title: "FontsSettings klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.FontsSettings klasse. Vertegenwoordigt instellingen voor lettertypeverwerking"
 type: docs
-weight: 1900
+weight: 3990
 url: /nl/net/aspose.svg/fontssettings/
 ---
 ## FontsSettings class
 
-Vertegenwoordigt instellingen voor het verwerken van lettertypen.
+Stelt de instellingen voor lettertype‑verwerking voor.
 
 ```csharp
 public class FontsSettings
@@ -18,21 +18,19 @@ public class FontsSettings
 
 | Naam | Beschrijving |
 | --- | --- |
-| [FontMatcher](../../aspose.svg/fontssettings/fontmatcher/) { get; set; } | Haalt de klasse op of stelt deze in waarmee u sommige delen van het algoritme voor het matchen van lettertypen kunt besturen. |
+| [FontMatcher](../../aspose.svg/fontssettings/fontmatcher/) { get; set; } | Haalt op of stelt de klasse in die u in staat stelt enkele delen van het lettertype‑matchingalgoritme te beheersen. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [GetFontsLookupFolders](../../aspose.svg/fontssettings/getfontslookupfolders/)() | Haalt een kopie op van de array die mappen met lettertypen bevat. Lettertypen die in deze mappen worden gevonden, worden gebruikt voor het weergeven van tekens. |
-| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder)(string) | Stelt de map in die wordt gebruikt tijdens de selectie van lettertypen. |
-| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(string, bool) | Stelt de map in die wordt gebruikt tijdens de selectie van lettertypen. |
-| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders)(string[]) | Stelt een reeks mappen in die worden gebruikt tijdens de selectie van lettertypen. |
-| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(string[], bool) | Stelt een reeks mappen in die worden gebruikt tijdens de selectie van lettertypen. |
+| [GetFontsLookupFolders](../../aspose.svg/fontssettings/getfontslookupfolders/)() | Haalt een kopie op van de array die lettertype‑mappen bevat. Lettertypen die in deze mappen worden gevonden, worden gebruikt voor het renderen van tekens. |
+| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder)(*string*) | Stelt de map in die wordt gebruikt tijdens de lettertype‑selectie. |
+| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(*string, bool*) | Stelt de map in die wordt gebruikt tijdens de lettertype‑selectie. |
+| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders)(*string[]*) | Stelt een array van mappen in die worden gebruikt tijdens de lettertype‑selectie. |
+| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(*string[], bool*) | Stelt een array van mappen in die worden gebruikt tijdens de lettertype‑selectie. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg](../../aspose.svg/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: Angle.op_GreaterThanOrEqual
-second_title: Aspose.SVG voor .NET API-referentie
-description: Angle methode. Implementeert de operator .
+title: "Angle.op_GreaterThanOrEqual"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Angle op_GreaterThanOrEqual-methode. Implementeert de operator"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.drawing/angle/op_greaterthanorequal/
@@ -19,21 +19,19 @@ public static bool operator >=(Angle a, Angle b)
 | a | Angle | De parameter a. |
 | b | Angle | De parameter b. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentException | Argumenten zijn er in verschillende soorten |
-| ArgumentNullException | Een argument is nul |
+| ArgumentException | Argumenten hebben verschillende types |
+| ArgumentNullException | Een argument is null |
 
 ### Zie ook
 
 * class [Angle](../)
-* naamruimte [Aspose.Svg.Drawing](../../angle/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

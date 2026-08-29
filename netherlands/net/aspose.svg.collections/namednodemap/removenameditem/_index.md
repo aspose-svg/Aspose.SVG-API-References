@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.RemoveNamedItem
-second_title: Aspose.SVG voor .NET API-referentie
-description: NamedNodeMap methode. Verwijdert een knooppunt gespecificeerd door name.
+title: "NamedNodeMap.RemoveNamedItem"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NamedNodeMap RemoveNamedItem methode. Verwijdert een knooppunt dat is gespecificeerd door naam"
 type: docs
-weight: 60
+weight: 50
 url: /nl/net/aspose.svg.collections/namednodemap/removenameditem/
 ---
 ## NamedNodeMap.RemoveNamedItem method
 
-Verwijdert een knooppunt gespecificeerd door name.
+Verwijdert een knooppunt gespecificeerd door naam.
 
 ```csharp
 public Attr RemoveNamedItem(string name)
@@ -16,17 +16,15 @@ public Attr RemoveNamedItem(string name)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | De elementnaam. |
+| naam | String | De elementnaam. |
 
-### Winstwaarde
+### Retourwaarde
 
-Knooppunt verwijderd.
+Verwijderd knooppunt.
 
 ### Zie ook
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* naamruimte [Aspose.Svg.Collections](../../namednodemap/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

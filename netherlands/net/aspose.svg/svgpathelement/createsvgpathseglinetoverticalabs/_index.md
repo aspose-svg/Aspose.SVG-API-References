@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoVerticalAbs
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathElement methode. Retourneert een zelfstandig ouderloos SVGPathSegLinetoVerticalAbsobject.
+title: "SVGPathElement.CreateSVGPathSegLinetoVerticalAbs"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathElement CreateSVGPathSegLinetoVerticalAbs methode. Retourneert een zelfstandige, ouderloze SVGPathSegLinetoVerticalAbs object"
 type: docs
 weight: 180
 url: /nl/net/aspose.svg/svgpathelement/createsvgpathseglinetoverticalabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoVerticalAbs method
 
-Retourneert een zelfstandig, ouderloos SVGPathSegLinetoVerticalAbs-object.
+Retourneert een zelfstandige, ouderloze SVGPathSegLinetoVerticalAbs object.
 
 ```csharp
 public SVGPathSegLinetoVerticalAbs CreateSVGPathSegLinetoVerticalAbs(float y)
@@ -18,15 +18,13 @@ public SVGPathSegLinetoVerticalAbs CreateSVGPathSegLinetoVerticalAbs(float y)
 | --- | --- | --- |
 | y | Single | De absolute Y-coördinaat voor het eindpunt van dit padsegment. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een zelfstandig, ouderloos SVGPathSegLinetoVerticalAbs-object.
+Een zelfstandige, ouderloze SVGPathSegLinetoVerticalAbs object.
 
 ### Zie ook
 
 * class [SVGPathSegLinetoVerticalAbs](../../../aspose.svg.paths/svgpathseglinetoverticalabs/)
 * class [SVGPathElement](../)
-* naamruimte [Aspose.Svg](../../svgpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

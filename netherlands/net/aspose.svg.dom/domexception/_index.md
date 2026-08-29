@@ -1,70 +1,75 @@
 ---
-title: Class DOMException
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.DOMException klas. De DOMExceptioninterface vertegenwoordigt een abnormale gebeurtenis uitzondering genoemd die optreedt als gevolg van het aanroepen van een methode of het openen van een eigenschap van een webAPI. Dit is eigenlijk hoe foutcondities worden beschreven in webAPIs.
+title: "DOMException klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.DOMException klasse. De DOMException-interface vertegenwoordigt een abnormale gebeurtenis die een uitzondering wordt genoemd en optreedt als gevolg van het aanroepen van een methode of het benaderen van een eigenschap van een web‑API. Dit is in wezen hoe foutcondities worden beschreven in web‑API's."
 type: docs
-weight: 790
+weight: 2790
 url: /nl/net/aspose.svg.dom/domexception/
 ---
 ## DOMException class
 
-De DOMException-interface vertegenwoordigt een abnormale gebeurtenis (uitzondering genoemd) die optreedt als gevolg van het aanroepen van een methode of het openen van een eigenschap van een web-API. Dit is eigenlijk hoe foutcondities worden beschreven in web-API's.
+De DOMException interface vertegenwoordigt een abnormale gebeurtenis (een uitzondering genoemd) die optreedt als gevolg van het aanroepen van een methode of het benaderen van een eigenschap van een web-API. Dit is in wezen hoe foutcondities worden beschreven in web-API's.
 
 ```csharp
 public class DOMException : PlatformException
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [DOMException](domexception/#constructor)(string) | Initialiseert een nieuw exemplaar van het`DOMException` klasse. |
-| [DOMException](domexception/#constructor_1)(string, string) | Initialiseert een nieuw exemplaar van het`DOMException` klasse. |
+| [DOMException](domexception/#constructor)(*string*) | Initialiseert een nieuw exemplaar van de `DOMException` klasse. |
+| [DOMException](domexception/#constructor_1)(*string, string*) | Initialiseert een nieuw exemplaar van de `DOMException` klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Code](../../aspose.svg.dom/domexception/code/) { get; } | Retourneert een waarde die een van de foutcodeconstanten bevat, of 0 als er geen overeenkomen. Dit veld wordt om historische redenen gebruikt. |
-| override [Message](../../aspose.svg.dom/domexception/message/) { get; } | Retourneert een tekenreeks die een bericht of beschrijving vertegenwoordigt die is gekoppeld aan de opgegeven foutnaam. |
-| [Name](../../aspose.svg.dom/domexception/name/) { get; } | Retourneert een tekenreeks die een van de tekenreeksen bevat die zijn gekoppeld aan een foutnaam. |
+| [Code](../../aspose.svg.dom/domexception/code/) { get; } | Retourneert een waarde die een van de foutcode‑constanten bevat, of 0 als geen overeenkomt. Dit veld wordt om historische redenen gebruikt. |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
+| override [Message](../../aspose.svg.dom/domexception/message/) { get; } | Retourneert een tekenreeks die een bericht of beschrijving weergeeft die bij de opgegeven foutnaam hoort. |
+| [Name](../../aspose.svg.dom/domexception/name/) { get; } | Retourneert een tekenreeks die een van de tekenreeksen bevat die aan een foutnaam zijn gekoppeld. |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
 ## Velden
 
 | Naam | Beschrijving |
 | --- | --- |
-| const [ABORT_ERR](../../aspose.svg.dom/domexception/abort_err/) | De bewerking is afgebroken. |
+| const [ABORT_ERR](../../aspose.svg.dom/domexception/abort_err/) | De bewerking werd afgebroken. |
 | const [DATA_CLONE_ERR](../../aspose.svg.dom/domexception/data_clone_err/) | Het object kan niet worden gekloond. |
 | const [DOMSTRING_SIZE_ERR](../../aspose.svg.dom/domexception/domstring_size_err/) | Als het opgegeven tekstbereik niet in een DOMString past. |
-| const [HIERARCHY_REQUEST_ERR](../../aspose.svg.dom/domexception/hierarchy_request_err/) | Als een knooppunt ergens is ingevoegd, hoort het niet thuis. |
+| const [HIERARCHY_REQUEST_ERR](../../aspose.svg.dom/domexception/hierarchy_request_err/) | Als een Node ergens wordt ingevoegd waar deze niet thuishoort. |
 | const [INDEX_SIZE_ERR](../../aspose.svg.dom/domexception/index_size_err/) | Als index of grootte negatief is, of groter dan de toegestane waarde. |
-| const [INUSE_ATTRIBUTE_ERR](../../aspose.svg.dom/domexception/inuse_attribute_err/) | Als er wordt geprobeerd een attribuut toe te voegen dat al elders in gebruik is. |
-| const [INVALID_ACCESS_ERR](../../aspose.svg.dom/domexception/invalid_access_err/) | Als een parameter of een bewerking niet wordt ondersteund door het onderliggende object. |
-| const [INVALID_CHARACTER_ERR](../../aspose.svg.dom/domexception/invalid_character_err/) | Als een ongeldig of ongeldig teken is opgegeven, zoals in een XML-naam. |
-| const [INVALID_EXPRESSION_ERR](../../aspose.svg.dom/domexception/invalid_expression_err/) | De expressie bevat een syntaxisfout of is anderszins geen legale expressie volgens de regels van de specific XPathEvaluator of bevat gespecialiseerde uitbreidingsfuncties of variabelen die niet worden ondersteund door deze implementatie. |
-| const [INVALID_MODIFICATION_ERR](../../aspose.svg.dom/domexception/invalid_modification_err/) | Als er wordt geprobeerd het type van het onderliggende object te wijzigen. |
-| const [INVALID_NODE_TYPE_ERR](../../aspose.svg.dom/domexception/invalid_node_type_err/) | Het opgegeven knooppunt is onjuist of heeft een onjuiste voorouder voor deze bewerking. |
-| const [INVALID_STATE_ERR](../../aspose.svg.dom/domexception/invalid_state_err/) | Als er wordt geprobeerd een object te gebruiken dat niet (meer) bruikbaar is. |
-| const [NAMESPACE_ERR](../../aspose.svg.dom/domexception/namespace_err/) | Als er wordt geprobeerd een object te maken of te wijzigen op een manier die onjuist is met betrekking tot naamruimten. |
-| const [NETWORK_ERR](../../aspose.svg.dom/domexception/network_err/) | Er is een netwerkfout opgetreden. |
-| const [NOT_FOUND_ERR](../../aspose.svg.dom/domexception/not_found_err/) | Als een poging wordt gedaan om naar een knooppunt te verwijzen in een context waar het niet bestaat. |
+| const [INUSE_ATTRIBUTE_ERR](../../aspose.svg.dom/domexception/inuse_attribute_err/) | Als geprobeerd wordt een attribuut toe te voegen dat elders al in gebruik is. |
+| const [INVALID_ACCESS_ERR](../../aspose.svg.dom/domexception/invalid_access_err/) | Als een parameter of bewerking niet wordt ondersteund door het onderliggende object. |
+| const [INVALID_CHARACTER_ERR](../../aspose.svg.dom/domexception/invalid_character_err/) | Als een ongeldig of illegaal teken wordt opgegeven, bijvoorbeeld in een XML‑naam. |
+| const [INVALID_EXPRESSION_ERR](../../aspose.svg.dom/domexception/invalid_expression_err/) | De expressie bevat een syntaxisfout of is anderszins geen geldige expressie volgens de regels van de specifieke XPathEvaluator, of bevat gespecialiseerde extensiefuncties of variabelen die niet door deze implementatie worden ondersteund. |
+| const [INVALID_MODIFICATION_ERR](../../aspose.svg.dom/domexception/invalid_modification_err/) | Als geprobeerd wordt het type van het onderliggende object te wijzigen. |
+| const [INVALID_NODE_TYPE_ERR](../../aspose.svg.dom/domexception/invalid_node_type_err/) | De opgegeven node is onjuist of heeft een onjuiste ouder voor deze bewerking. |
+| const [INVALID_STATE_ERR](../../aspose.svg.dom/domexception/invalid_state_err/) | Als geprobeerd wordt een object te gebruiken dat niet, of niet langer, bruikbaar is. |
+| const [NAMESPACE_ERR](../../aspose.svg.dom/domexception/namespace_err/) | Als geprobeerd wordt een object te maken of te wijzigen op een manier die onjuist is met betrekking tot namespaces. |
+| const [NETWORK_ERR](../../aspose.svg.dom/domexception/network_err/) | Er trad een netwerkfout op. |
+| const [NOT_FOUND_ERR](../../aspose.svg.dom/domexception/not_found_err/) | Als geprobeerd wordt een Node te refereren in een context waar deze niet bestaat. |
 | const [NOT_SUPPORTED_ERR](../../aspose.svg.dom/domexception/not_supported_err/) | Als de implementatie het gevraagde type object of bewerking niet ondersteunt. |
-| const [NO_DATA_ALLOWED_ERR](../../aspose.svg.dom/domexception/no_data_allowed_err/) | Als gegevens zijn opgegeven voor een knooppunt dat geen gegevens ondersteunt. |
-| const [NO_MODIFICATION_ALLOWED_ERR](../../aspose.svg.dom/domexception/no_modification_allowed_err/) | Als er wordt geprobeerd een object te wijzigen waar wijzigingen niet zijn toegestaan. |
+| const [NO_DATA_ALLOWED_ERR](../../aspose.svg.dom/domexception/no_data_allowed_err/) | Als gegevens worden opgegeven voor een Node die geen gegevens ondersteunt. |
+| const [NO_MODIFICATION_ALLOWED_ERR](../../aspose.svg.dom/domexception/no_modification_allowed_err/) | Als geprobeerd wordt een object te wijzigen waar wijzigingen niet zijn toegestaan. |
 | const [QUOTA_EXCEEDED_ERR](../../aspose.svg.dom/domexception/quota_exceeded_err/) | Het quotum is overschreden. |
 | const [SECURITY_ERR](../../aspose.svg.dom/domexception/security_err/) | De bewerking is onveilig. |
-| const [SYNTAX_ERR](../../aspose.svg.dom/domexception/syntax_err/) | Als een ongeldige of ongeldige tekenreeks is opgegeven. |
-| const [TIMEOUT_ERR](../../aspose.svg.dom/domexception/timeout_err/) | Er is een time-out opgetreden voor de bewerking. |
-| const [TYPE_ERR](../../aspose.svg.dom/domexception/type_err/) | De uitdrukking kan niet worden geconverteerd om het opgegeven type te retourneren. |
+| const [SYNTAX_ERR](../../aspose.svg.dom/domexception/syntax_err/) | Als een ongeldige of illegale tekenreeks is opgegeven. |
+| const [TIMEOUT_ERR](../../aspose.svg.dom/domexception/timeout_err/) | De bewerking heeft een time‑out. |
+| const [TYPE_ERR](../../aspose.svg.dom/domexception/type_err/) | De expressie kan niet worden geconverteerd om het opgegeven type te retourneren. |
 | const [TYPE_MISMATCH_ERR](../../aspose.svg.dom/domexception/type_mismatch_err/) | Als het type van een object niet compatibel is met het verwachte type van de parameter die aan het object is gekoppeld. |
 | const [URL_MISMATCH_ERR](../../aspose.svg.dom/domexception/url_mismatch_err/) | De opgegeven URL komt niet overeen met een andere URL. |
-| const [VALIDATION_ERR](../../aspose.svg.dom/domexception/validation_err/) | Als een aanroep van een methode zoals insertBefore of removeChild de Node ongeldig zou maken met betrekking tot "gedeeltelijke geldigheid", zou deze uitzondering worden gegenereerd en zou de bewerking niet worden uitgevoerd. Deze code wordt gebruikt in [DOM Level 3 Validation]. Raadpleeg deze specificatie voor meer informatie. |
-| const [WRONG_DOCUMENT_ERR](../../aspose.svg.dom/domexception/wrong_document_err/) | Als een Node wordt gebruikt in een ander document dan degene die het heeft gemaakt (dat ondersteunt het niet). |
+| const [VALIDATION_ERR](../../aspose.svg.dom/domexception/validation_err/) | Als een aanroep van een methode zoals insertBefore of removeChild de Node ongeldig zou maken met betrekking tot "partial validity", wordt deze uitzondering opgegooid en wordt de bewerking niet uitgevoerd. Deze code wordt gebruikt in [DOM Level 3 Validation]. Raadpleeg deze specificatie voor meer informatie. |
+| const [WRONG_DOCUMENT_ERR](../../aspose.svg.dom/domexception/wrong_document_err/) | Als een Node wordt gebruikt in een ander document dan het document dat het heeft aangemaakt (dat het niet ondersteunt). |
 
 ### Zie ook
 
 * class [PlatformException](../../aspose.svg/platformexception/)
-* naamruimte [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

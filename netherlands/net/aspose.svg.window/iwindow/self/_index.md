@@ -1,14 +1,14 @@
 ---
-title: IWindow.Self
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindow eigendom. Retourneert het WindowProxyobject van de browsercontext van het Windowobject.
+title: "IWindow.Self"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindow Self eigenschap. Retourneert het Window‑object van de browsing‑context, een WindowProxy‑object."
 type: docs
-weight: 70
+weight: 80
 url: /nl/net/aspose.svg.window/iwindow/self/
 ---
 ## IWindow.Self property
 
-Retourneert het WindowProxy-object van de browsercontext van het Window-object.
+Geeft het WindowProxy-object van de browsing context van het Window-object terug.
 
 ```csharp
 public IWindow Self { get; }
@@ -17,7 +17,5 @@ public IWindow Self { get; }
 ### Zie ook
 
 * interface [IWindow](../)
-* naamruimte [Aspose.Svg.Window](../../iwindow/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

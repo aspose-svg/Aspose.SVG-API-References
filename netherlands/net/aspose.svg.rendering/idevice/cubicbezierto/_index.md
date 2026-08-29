@@ -1,14 +1,14 @@
 ---
-title: IDevice.CubicBezierTo
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDevice methode. Voegt een kubieke Béziercurve toe aan het huidige pad. De curve strekt zich uit van het huidige punt tot het punt pt3 met pt1 en pt2 als de Béziercontrolepunten. Het nieuwe huidige punt is pt3.
+title: "IDevice.CubicBezierTo"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDevice CubicBezierTo-methode. Voegt een kubieke Bézier-curve toe aan het huidige pad. De curve loopt van het huidige punt naar het punt pt3 met pt1 en pt2 als Bézier-controlepunten. Het nieuwe huidige punt is pt3"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.rendering/idevice/cubicbezierto/
 ---
 ## IDevice.CubicBezierTo method
 
-Voegt een kubieke Bézier-curve toe aan het huidige pad. De curve strekt zich uit van het huidige punt tot het punt pt3, met pt1 en pt2 als de Bézier-controlepunten. Het nieuwe huidige punt is pt3.
+Voegt een kubieke Bézier‑curve toe aan het huidige pad. De curve loopt van het huidige punt naar punt pt3, waarbij pt1 en pt2 worden gebruikt als Bézier‑controlepunten. Het nieuwe huidige punt is pt3.
 
 ```csharp
 public void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
@@ -23,7 +23,5 @@ public void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ### Zie ook
 
 * interface [IDevice](../)
-* naamruimte [Aspose.Svg.Rendering](../../idevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

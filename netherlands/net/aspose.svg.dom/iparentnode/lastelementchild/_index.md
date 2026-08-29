@@ -1,7 +1,7 @@
 ---
-title: IParentNode.LastElementChild
-second_title: Aspose.SVG voor .NET API-referentie
-description: IParentNode eigendom. Retourneert het laatste kind dat een element is en anders null.
+title: "IParentNode.LastElementChild"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IParentNode LastElementChild-eigenschap. Retourneert het laatste kind dat een element is en anders null"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom/iparentnode/lastelementchild/
@@ -14,15 +14,13 @@ Retourneert het laatste kind dat een element is, en anders null.
 public Element LastElementChild { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het laatste element kind.
+Het laatste kind-element.
 
 ### Zie ook
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* naamruimte [Aspose.Svg.Dom](../../iparentnode/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

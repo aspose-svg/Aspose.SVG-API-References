@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSValueList
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.ICSSValueList koppel. De interface biedt de abstractie van een geordende verzameling CSSwaarden.
+title: "ICSSValueList Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.ICSSValueList interface. De interface biedt de abstractie van een geordende collectie van CSS-waarden"
 type: docs
-weight: 680
+weight: 2680
 url: /nl/net/aspose.svg.dom.css/icssvaluelist/
 ---
 ## ICSSValueList interface
 
-De interface biedt de abstractie van een geordende verzameling CSS-waarden.
+De interface biedt de abstractie van een geordende collectie van CSS‑waarden.
 
 ```csharp
 public interface ICSSValueList
@@ -18,12 +18,10 @@ public interface ICSSValueList
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/icssvaluelist/item/) { get; } | Methode retourneert de[`CSSValue`](../cssvalue/) op de gespecificeerde index. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
-| [Length](../../aspose.svg.dom.css/icssvaluelist/length/) { get; } | Het aantal CSS-waarden in de lijst. |
+| [Item](../../aspose.svg.dom.css/icssvaluelist/item/) { get; } | Methode retourneert de [`CSSValue`](../cssvalue/) op de opgegeven index. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
+| [Length](../../aspose.svg.dom.css/icssvaluelist/length/) { get; } | Het aantal CSSValues in de lijst. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Enum Compression
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Image.Compression opsomming. Specificeert de mogelijke compressieschemas voor Tagged Image File Format TIFF bitmapafbeeldingen.
+title: "Compressie Enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.Image.Compression enum. Specificeert de mogelijke compressieschema's voor Tagged Image File Format TIFF bitmap-afbeeldingen"
 type: docs
-weight: 2820
+weight: 4900
 url: /nl/net/aspose.svg.rendering.image/compression/
 ---
 ## Compression enumeration
 
-Specificeert de mogelijke compressieschema's voor Tagged Image File Format (TIFF) bitmapafbeeldingen.
+Specificeert de mogelijke compressieschema's voor Tagged Image File Format (TIFF) bitmap‑afbeeldingen.
 
 ```csharp
 public enum Compression
@@ -22,11 +22,9 @@ public enum Compression
 | CCITT3 | `3` | Het CCITT3-compressieschema wordt gebruikt. |
 | CCITT4 | `4` | Het CCITT4-compressieschema wordt gebruikt. |
 | Rle | `5` | Het RLE-compressieschema wordt gebruikt. |
-| None | `6` | De afbeelding in Tagged Image File Format (TIFF) is niet gecomprimeerd. |
+| None | `6` | De Tagged Image File Format (TIFF)-afbeelding is niet gecomprimeerd. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

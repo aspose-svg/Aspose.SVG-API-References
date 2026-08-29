@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.LineDashOffset
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt de faseoffset van het huidige lijnstreeppatroon in of haalt deze op.
+title: "GraphicContext.LineDashOffset"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext LineDashOffset eigenschap. Stelt de faseverschuiving van het huidige streepjespatroon in of haalt deze op"
 type: docs
-weight: 80
+weight: 90
 url: /nl/net/aspose.svg.rendering/graphiccontext/linedashoffset/
 ---
 ## GraphicContext.LineDashOffset property
 
-Stelt de faseoffset van het huidige lijnstreeppatroon in of haalt deze op.
+Stelt de fase‑offset in van het huidige streepjes‑patroon van de lijn, of haalt deze op.
 
 ```csharp
 public virtual float LineDashOffset { get; set; }
@@ -17,7 +17,5 @@ public virtual float LineDashOffset { get; set; }
 ### Zie ook
 
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

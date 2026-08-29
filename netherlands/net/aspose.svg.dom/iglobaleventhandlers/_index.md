@@ -1,14 +1,14 @@
 ---
-title: Interface IGlobalEventHandlers
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.IGlobalEventHandlers koppel. Vertegenwoordigt de interface die moet worden overgenomen door alle elementen die worden ondersteund door systeemgebeurtenissen
+title: "IGlobalEventHandlers-interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.IGlobalEventHandlers-interface. Stelt een interface voor die moet worden geërfd door elk element dat systeem‑eventafhandeling ondersteunt."
 type: docs
-weight: 1070
+weight: 3050
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/
 ---
 ## IGlobalEventHandlers interface
 
-Vertegenwoordigt de interface die moet worden overgenomen door alle elementen die worden ondersteund door systeemgebeurtenissen
+Stelt een interface voor die moet worden geërfd door elk element dat systeem‑eventafhandeling ondersteunt.
 
 ```csharp
 public interface IGlobalEventHandlers
@@ -18,60 +18,58 @@ public interface IGlobalEventHandlers
 
 | Naam | Beschrijving |
 | --- | --- |
-| event [OnAbort](../../aspose.svg.dom/iglobaleventhandlers/onabort/) | Haalt of stelt gebeurtenishandler in voor OnAbort-gebeurtenis. |
-| event [OnBlur](../../aspose.svg.dom/iglobaleventhandlers/onblur/) | Haalt of stelt gebeurtenishandler in voor OnBlur-gebeurtenis. |
-| event [OnCancel](../../aspose.svg.dom/iglobaleventhandlers/oncancel/) | Haalt of stelt gebeurtenishandler in voor OnCancel-gebeurtenis. |
-| event [OnCanplay](../../aspose.svg.dom/iglobaleventhandlers/oncanplay/) | Haalt of stelt gebeurtenishandler in voor OnCanplay-gebeurtenis. |
-| event [OnCanPlayThrough](../../aspose.svg.dom/iglobaleventhandlers/oncanplaythrough/) | Haalt of stelt gebeurtenishandler in voor OnCanPlayThrough-gebeurtenis. |
-| event [OnChange](../../aspose.svg.dom/iglobaleventhandlers/onchange/) | Haalt of stelt gebeurtenishandler in voor OnChange-gebeurtenis. |
-| event [OnClick](../../aspose.svg.dom/iglobaleventhandlers/onclick/) | Haalt of stelt gebeurtenishandler in voor OnClick-gebeurtenis. |
-| event [OnCueChange](../../aspose.svg.dom/iglobaleventhandlers/oncuechange/) | Haalt of stelt gebeurtenishandler in voor OnCueChange-gebeurtenis. |
-| event [OnDblClick](../../aspose.svg.dom/iglobaleventhandlers/ondblclick/) | Haalt of stelt gebeurtenishandler in voor OnDblClick-gebeurtenis. |
-| event [OnDurationChange](../../aspose.svg.dom/iglobaleventhandlers/ondurationchange/) | Haalt of stelt gebeurtenishandler in voor OnDurationChange-gebeurtenis. |
-| event [OnEmptied](../../aspose.svg.dom/iglobaleventhandlers/onemptied/) | Haalt of stelt gebeurtenishandler in voor OnEmptied-gebeurtenis. |
-| event [OnEnded](../../aspose.svg.dom/iglobaleventhandlers/onended/) | Haalt of stelt gebeurtenishandler in voor OnEnded-gebeurtenis. |
-| event [OnError](../../aspose.svg.dom/iglobaleventhandlers/onerror/) | Haalt of stelt gebeurtenishandler in voor OnError-gebeurtenis. |
-| event [OnFocus](../../aspose.svg.dom/iglobaleventhandlers/onfocus/) | Krijgt of stelt gebeurtenishandler in voor OnFocus-gebeurtenis. |
-| event [OnInput](../../aspose.svg.dom/iglobaleventhandlers/oninput/) | Haalt of stelt gebeurtenishandler in voor OnInput-gebeurtenis. |
-| event [OnInvalid](../../aspose.svg.dom/iglobaleventhandlers/oninvalid/) | Haalt of stelt gebeurtenishandler in voor OnInvalid-gebeurtenis. |
-| event [OnKeyDown](../../aspose.svg.dom/iglobaleventhandlers/onkeydown/) | Haalt of stelt gebeurtenishandler in voor OnKeyDown-gebeurtenis. |
-| event [OnKeyPress](../../aspose.svg.dom/iglobaleventhandlers/onkeypress/) | Krijgt of stelt gebeurtenishandler in voor OnKeyPress-gebeurtenis. |
-| event [OnKeyUp](../../aspose.svg.dom/iglobaleventhandlers/onkeyup/) | Haalt of stelt gebeurtenishandler in voor OnKeyUp-gebeurtenis. |
-| event [OnLoad](../../aspose.svg.dom/iglobaleventhandlers/onload/) | Haalt of stelt gebeurtenishandler in voor OnLoad-gebeurtenis. |
-| event [OnLoadedData](../../aspose.svg.dom/iglobaleventhandlers/onloadeddata/) | Haalt of stelt gebeurtenishandler in voor OnLoadedData-gebeurtenis. |
-| event [OnLoadedMetadata](../../aspose.svg.dom/iglobaleventhandlers/onloadedmetadata/) | Haalt of stelt gebeurtenishandler in voor OnLoadedMetadata-gebeurtenis. |
-| event [OnLoadStart](../../aspose.svg.dom/iglobaleventhandlers/onloadstart/) | Haalt of stelt gebeurtenishandler in voor OnLoadStart-gebeurtenis. |
-| event [OnMouseDown](../../aspose.svg.dom/iglobaleventhandlers/onmousedown/) | Haalt of stelt gebeurtenishandler in voor OnMouseDown-gebeurtenis. |
-| event [OnMouseEnter](../../aspose.svg.dom/iglobaleventhandlers/onmouseenter/) | Haalt gebeurtenishandler op of stelt deze in voor OnMouseEnter-gebeurtenis. |
-| event [OnMouseLeave](../../aspose.svg.dom/iglobaleventhandlers/onmouseleave/) | Haalt of stelt gebeurtenishandler in voor OnMouseLeave-gebeurtenis. |
-| event [OnMouseMove](../../aspose.svg.dom/iglobaleventhandlers/onmousemove/) | Haalt of stelt gebeurtenishandler in voor OnMouseMove-gebeurtenis. |
-| event [OnMouseOut](../../aspose.svg.dom/iglobaleventhandlers/onmouseout/) | Haalt of stelt gebeurtenishandler in voor OnMouseOut-gebeurtenis. |
-| event [OnMouseOver](../../aspose.svg.dom/iglobaleventhandlers/onmouseover/) | Haalt of stelt gebeurtenishandler in voor OnMouseOver-gebeurtenis. |
-| event [OnMouseUp](../../aspose.svg.dom/iglobaleventhandlers/onmouseup/) | Haalt of stelt gebeurtenishandler in voor OnMouseUp-gebeurtenis. |
-| event [OnMouseWheel](../../aspose.svg.dom/iglobaleventhandlers/onmousewheel/) | Haalt of stelt gebeurtenishandler in voor OnMouseWheel-gebeurtenis. |
-| event [OnPause](../../aspose.svg.dom/iglobaleventhandlers/onpause/) | Haalt of stelt gebeurtenishandler in voor OnPause-gebeurtenis. |
-| event [OnPlay](../../aspose.svg.dom/iglobaleventhandlers/onplay/) | Krijgt of stelt gebeurtenishandler in voor OnPlay-gebeurtenis. |
-| event [OnPlaying](../../aspose.svg.dom/iglobaleventhandlers/onplaying/) | Haalt of stelt gebeurtenishandler in voor OnPlaying-gebeurtenis. |
-| event [OnProgress](../../aspose.svg.dom/iglobaleventhandlers/onprogress/) | Haalt of stelt gebeurtenishandler in voor OnProgress-gebeurtenis. |
-| event [OnRateChange](../../aspose.svg.dom/iglobaleventhandlers/onratechange/) | Haalt of stelt gebeurtenishandler in voor OnRateChange-gebeurtenis. |
-| event [OnReset](../../aspose.svg.dom/iglobaleventhandlers/onreset/) | Haalt of stelt gebeurtenishandler in voor OnReset-gebeurtenis. |
-| event [OnResize](../../aspose.svg.dom/iglobaleventhandlers/onresize/) | Haalt of stelt gebeurtenishandler in voor OnResize-gebeurtenis. |
-| event [OnScroll](../../aspose.svg.dom/iglobaleventhandlers/onscroll/) | Haalt of stelt gebeurtenishandler in voor OnScroll-gebeurtenis. |
-| event [OnSeeked](../../aspose.svg.dom/iglobaleventhandlers/onseeked/) | Haalt of stelt gebeurtenishandler in voor OnSeeked-gebeurtenis. |
-| event [OnSeeking](../../aspose.svg.dom/iglobaleventhandlers/onseeking/) | Haalt of stelt gebeurtenishandler in voor OnSeeking-gebeurtenis. |
-| event [OnSelect](../../aspose.svg.dom/iglobaleventhandlers/onselect/) | Haalt of stelt gebeurtenishandler in voor OnSelect-gebeurtenis. |
-| event [OnShow](../../aspose.svg.dom/iglobaleventhandlers/onshow/) | Haalt of stelt gebeurtenishandler in voor OnShow-gebeurtenis. |
-| event [OnStalled](../../aspose.svg.dom/iglobaleventhandlers/onstalled/) | Krijgt of stelt gebeurtenishandler in voor OnStalled-gebeurtenis. |
-| event [OnSubmit](../../aspose.svg.dom/iglobaleventhandlers/onsubmit/) | Haalt of stelt gebeurtenishandler in voor OnSubmit-gebeurtenis. |
-| event [OnSuspend](../../aspose.svg.dom/iglobaleventhandlers/onsuspend/) | Haalt gebeurtenishandler op of stelt deze in voor OnSuspend-gebeurtenis. |
-| event [OnTimeUpdate](../../aspose.svg.dom/iglobaleventhandlers/ontimeupdate/) | Haalt of stelt gebeurtenishandler in voor OnTimeUpdate-gebeurtenis. |
-| event [OnToggle](../../aspose.svg.dom/iglobaleventhandlers/ontoggle/) | Haalt of stelt gebeurtenishandler in voor OnToggle-gebeurtenis. |
-| event [OnVolumeChange](../../aspose.svg.dom/iglobaleventhandlers/onvolumechange/) | Haalt of stelt gebeurtenishandler in voor OnVolumeChange-gebeurtenis. |
-| event [OnWaiting](../../aspose.svg.dom/iglobaleventhandlers/onwaiting/) | Haalt of stelt gebeurtenishandler in voor OnWaiting-gebeurtenis. |
+| event [OnAbort](../../aspose.svg.dom/iglobaleventhandlers/onabort/) | Haalt op of stelt de event‑handler in voor het OnAbort‑event. |
+| event [OnBlur](../../aspose.svg.dom/iglobaleventhandlers/onblur/) | Haalt op of stelt de event‑handler in voor het OnBlur‑event. |
+| event [OnCancel](../../aspose.svg.dom/iglobaleventhandlers/oncancel/) | Haalt op of stelt de event‑handler in voor het OnCancel‑event. |
+| event [OnCanplay](../../aspose.svg.dom/iglobaleventhandlers/oncanplay/) | Haalt op of stelt de event‑handler in voor het OnCanplay‑event. |
+| event [OnCanPlayThrough](../../aspose.svg.dom/iglobaleventhandlers/oncanplaythrough/) | Haalt op of stelt de event‑handler in voor het OnCanPlayThrough‑event. |
+| event [OnChange](../../aspose.svg.dom/iglobaleventhandlers/onchange/) | Haalt op of stelt de event‑handler in voor het OnChange‑event. |
+| event [OnClick](../../aspose.svg.dom/iglobaleventhandlers/onclick/) | Haalt op of stelt de event‑handler in voor het OnClick‑event. |
+| event [OnCueChange](../../aspose.svg.dom/iglobaleventhandlers/oncuechange/) | Haalt op of stelt de event‑handler in voor het OnCueChange‑event. |
+| event [OnDblClick](../../aspose.svg.dom/iglobaleventhandlers/ondblclick/) | Haalt op of stelt de event‑handler in voor het OnDblClick‑event. |
+| event [OnDurationChange](../../aspose.svg.dom/iglobaleventhandlers/ondurationchange/) | Haalt op of stelt de event‑handler in voor het OnDurationChange‑event. |
+| event [OnEmptied](../../aspose.svg.dom/iglobaleventhandlers/onemptied/) | Haalt op of stelt de event‑handler in voor het OnEmptied‑event. |
+| event [OnEnded](../../aspose.svg.dom/iglobaleventhandlers/onended/) | Haalt op of stelt de event‑handler in voor het OnEnded‑event. |
+| event [OnError](../../aspose.svg.dom/iglobaleventhandlers/onerror/) | Haalt op of stelt de event‑handler in voor het OnError‑event. |
+| event [OnFocus](../../aspose.svg.dom/iglobaleventhandlers/onfocus/) | Haalt op of stelt de eventhandler in voor het OnFocus event. |
+| event [OnInput](../../aspose.svg.dom/iglobaleventhandlers/oninput/) | Haalt op of stelt de eventhandler in voor het OnInput event. |
+| event [OnInvalid](../../aspose.svg.dom/iglobaleventhandlers/oninvalid/) | Haalt op of stelt de eventhandler in voor het OnInvalid event. |
+| event [OnKeyDown](../../aspose.svg.dom/iglobaleventhandlers/onkeydown/) | Haalt op of stelt de eventhandler in voor het OnKeyDown event. |
+| event [OnKeyPress](../../aspose.svg.dom/iglobaleventhandlers/onkeypress/) | Haalt op of stelt de eventhandler in voor het OnKeyPress event. |
+| event [OnKeyUp](../../aspose.svg.dom/iglobaleventhandlers/onkeyup/) | Haalt op of stelt de eventhandler in voor het OnKeyUp event. |
+| event [OnLoad](../../aspose.svg.dom/iglobaleventhandlers/onload/) | Haalt op of stelt de eventhandler in voor het OnLoad event. |
+| event [OnLoadedData](../../aspose.svg.dom/iglobaleventhandlers/onloadeddata/) | Haalt op of stelt de eventhandler in voor het OnLoadedData event. |
+| event [OnLoadedMetadata](../../aspose.svg.dom/iglobaleventhandlers/onloadedmetadata/) | Haalt op of stelt de eventhandler in voor het OnLoadedMetadata event. |
+| event [OnLoadStart](../../aspose.svg.dom/iglobaleventhandlers/onloadstart/) | Haalt op of stelt de eventhandler in voor het OnLoadStart event. |
+| event [OnMouseDown](../../aspose.svg.dom/iglobaleventhandlers/onmousedown/) | Haalt op of stelt de eventhandler in voor het OnMouseDown event. |
+| event [OnMouseEnter](../../aspose.svg.dom/iglobaleventhandlers/onmouseenter/) | Haalt op of stelt de eventhandler in voor het OnMouseEnter event. |
+| event [OnMouseLeave](../../aspose.svg.dom/iglobaleventhandlers/onmouseleave/) | Haalt op of stelt de eventhandler in voor het OnMouseLeave event. |
+| event [OnMouseMove](../../aspose.svg.dom/iglobaleventhandlers/onmousemove/) | Haalt op of stelt de eventhandler in voor het OnMouseMove event. |
+| event [OnMouseOut](../../aspose.svg.dom/iglobaleventhandlers/onmouseout/) | Haalt op of stelt de eventhandler in voor het OnMouseOut event. |
+| event [OnMouseOver](../../aspose.svg.dom/iglobaleventhandlers/onmouseover/) | Haalt op of stelt de eventhandler in voor het OnMouseOver event. |
+| event [OnMouseUp](../../aspose.svg.dom/iglobaleventhandlers/onmouseup/) | Haalt op of stelt de eventhandler in voor het OnMouseUp event. |
+| event [OnMouseWheel](../../aspose.svg.dom/iglobaleventhandlers/onmousewheel/) | Haalt op of stelt de eventhandler in voor het OnMouseWheel event. |
+| event [OnPause](../../aspose.svg.dom/iglobaleventhandlers/onpause/) | Haalt op of stelt de eventhandler in voor het OnPause event. |
+| event [OnPlay](../../aspose.svg.dom/iglobaleventhandlers/onplay/) | Haalt op of stelt de eventhandler in voor het OnPlay event. |
+| event [OnPlaying](../../aspose.svg.dom/iglobaleventhandlers/onplaying/) | Haalt op of stelt de eventhandler in voor het OnPlaying event. |
+| event [OnProgress](../../aspose.svg.dom/iglobaleventhandlers/onprogress/) | Haalt op of stelt de eventhandler in voor het OnProgress event. |
+| event [OnRateChange](../../aspose.svg.dom/iglobaleventhandlers/onratechange/) | Haalt op of stelt de eventhandler in voor het OnRateChange event. |
+| event [OnReset](../../aspose.svg.dom/iglobaleventhandlers/onreset/) | Haalt op of stelt de eventhandler in voor het OnReset event. |
+| event [OnResize](../../aspose.svg.dom/iglobaleventhandlers/onresize/) | Haalt op of stelt de eventhandler in voor het OnResize event. |
+| event [OnScroll](../../aspose.svg.dom/iglobaleventhandlers/onscroll/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnScroll‑evenement. |
+| event [OnSeeked](../../aspose.svg.dom/iglobaleventhandlers/onseeked/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSeeked‑evenement. |
+| event [OnSeeking](../../aspose.svg.dom/iglobaleventhandlers/onseeking/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSeeking‑evenement. |
+| event [OnSelect](../../aspose.svg.dom/iglobaleventhandlers/onselect/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSelect‑evenement. |
+| event [OnShow](../../aspose.svg.dom/iglobaleventhandlers/onshow/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnShow‑evenement. |
+| event [OnStalled](../../aspose.svg.dom/iglobaleventhandlers/onstalled/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnStalled‑evenement. |
+| event [OnSubmit](../../aspose.svg.dom/iglobaleventhandlers/onsubmit/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSubmit‑evenement. |
+| event [OnSuspend](../../aspose.svg.dom/iglobaleventhandlers/onsuspend/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSuspend‑evenement. |
+| event [OnTimeUpdate](../../aspose.svg.dom/iglobaleventhandlers/ontimeupdate/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnTimeUpdate‑evenement. |
+| event [OnToggle](../../aspose.svg.dom/iglobaleventhandlers/ontoggle/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnToggle‑evenement. |
+| event [OnVolumeChange](../../aspose.svg.dom/iglobaleventhandlers/onvolumechange/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnVolumeChange‑evenement. |
+| event [OnWaiting](../../aspose.svg.dom/iglobaleventhandlers/onwaiting/) | Haalt op of stelt de gebeurtenisafhandelaar in voor het OnWaiting‑evenement. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

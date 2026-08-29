@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.CurrentTranslate
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGSVGElement eigendom. Op een buitenste svgelement de overeenkomstige vertaalfactor die rekening houdt met de vergroting van de gebruiker. Bij toegang tot een svgelement dat geen buitenste svgelement is is het ongedefinieerd welk gedrag dit attribuut heeft.
+title: "SVGSVGElement.CurrentTranslate"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGSVGElement CurrentTranslate‑eigenschap. Op een buitenste svg‑element is dit de overeenkomstige translatiefactor die rekening houdt met gebruikersvergroting. Wanneer deze wordt benaderd op een svg‑element dat geen buitenste svg‑element is, is het gedrag van dit attribuut ongedefinieerd."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg/svgsvgelement/currenttranslate/
 ---
 ## SVGSVGElement.CurrentTranslate property
 
-Op een buitenste svg-element, de overeenkomstige vertaalfactor die rekening houdt met de "vergroting" van de gebruiker. Bij toegang tot een 'svg'-element dat geen buitenste svg-element is, is het ongedefinieerd welk gedrag dit attribuut heeft.
+Op een buitenste svg‑element is dit de bijbehorende translatiefactor die rekening houdt met gebruikers‑\"magnification\". Wanneer dit wordt opgevraagd op een ‘svg’-element dat geen buitenste svg‑element is, is het gedrag van dit attribuut ongedefinieerd.
 
 ```csharp
 public SVGPoint CurrentTranslate { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De huidige vertaling.
+De huidige translatie.
 
 ### Zie ook
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* naamruimte [Aspose.Svg](../../svgsvgelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

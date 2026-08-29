@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.Rotate
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGMatrix methode. Vermenigvuldigt een rotatietransformatie na de huidige matrix en retourneert de resulterende matrix.
+title: "SVGMatrix.Rotate"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGMatrix Rotate methode. Post-multiplieert een rotatie‑transformatie op de huidige matrix en retourneert de resulterende matrix"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.datatypes/svgmatrix/rotate/
 ---
 ## SVGMatrix.Rotate method
 
-Vermenigvuldigt een rotatietransformatie na de huidige matrix en retourneert de resulterende matrix.
+Post-multiplieert een rotatie-transformatie op de huidige matrix en retourneert de resulterende matrix.
 
 ```csharp
 public SVGMatrix Rotate(float angle)
@@ -16,16 +16,14 @@ public SVGMatrix Rotate(float angle)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| angle | Single | Draaihoek. |
+| angle | Single | Rotatiehoek. |
 
-### Winstwaarde
+### Retourwaarde
 
 De resulterende matrix.
 
 ### Zie ook
 
 * class [SVGMatrix](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgmatrix/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: UnitType.op_Explicit
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType methode. Voert een expliciete conversie uit vanUnitType naarString .
+title: "UnitType.op_Explicit"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType op_Explicit methode. Voert een expliciete conversie uit van UnitType naar String"
 type: docs
 weight: 350
 url: /nl/net/aspose.svg.drawing/unittype/op_explicit/
 ---
 ## UnitType Explicit operator
 
-Voert een expliciete conversie uit van[`UnitType`](../) naarString .
+Voert een expliciete conversie uit van [`UnitType`](../) naar String.
 
 ```csharp
 public static explicit operator string(UnitType value)
@@ -16,16 +16,14 @@ public static explicit operator string(UnitType value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | UnitType | De waarde. |
+| waarde | UnitType | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de conversie.
 
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

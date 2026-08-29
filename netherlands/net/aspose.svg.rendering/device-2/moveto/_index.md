@@ -1,17 +1,17 @@
 ---
-title: Device2.MoveTo
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Begint een nieuw subpad door het huidige punt te verplaatsen naar de coördinaten van de parameter pt waarbij elk verbindingslijnsegment wordt weggelaten. Als de vorige padconstructiemethode in het huidige pad ook MoveTo was overschrijft de nieuwe MoveTo deze geen overblijfsel van de vorige MoveTobewerking blijft in het pad.
+title: "Device-2.MoveTo"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device MoveTo-methode. Begint een nieuw subpad door het huidige punt te verplaatsen naar de coördinaten van de parameter pt, waarbij elk verbindingslijnsegment wordt weggelaten. Als de vorige padconstructiemethode in het huidige pad ook MoveTo was, overschrijft de nieuwe MoveTo deze; er blijft geen spoor van de vorige MoveTo-operatie in het pad over."
 type: docs
-weight: 190
+weight: 220
 url: /nl/net/aspose.svg.rendering/device-2/moveto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.MoveTo method
+## Device<TGraphicContext,TRenderingOptions>.MoveTo method
 
-Begint een nieuw subpad door het huidige punt te verplaatsen naar de coördinaten van de parameter pt, waarbij elk verbindingslijnsegment wordt weggelaten. Als de vorige padconstructiemethode in het huidige pad ook "MoveTo" was, overschrijft de nieuwe "MoveTo" deze; geen overblijfsel van de vorige "MoveTo"-bewerking blijft in het pad.
+Begint een nieuw subpad door het huidige punt te verplaatsen naar de coördinaten van de parameter pt, zonder een verbindingslijnsegment. Als de vorige padconstructiemethode in het huidige pad ook "MoveTo" was, overschrijft de nieuwe "MoveTo" deze; er blijft geen spoor van de vorige "MoveTo"-bewerking in het pad.
 
 ```csharp
-public abstract void MoveTo(PointF pt)
+public virtual void MoveTo(PointF pt)
 ```
 
 | Parameter | Type | Beschrijving |
@@ -21,7 +21,5 @@ public abstract void MoveTo(PointF pt)
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

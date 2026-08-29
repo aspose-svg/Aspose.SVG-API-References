@@ -1,14 +1,14 @@
 ---
-title: Node.DOCUMENT_FRAGMENT_NODE
-second_title: Aspose.SVG voor .NET API-referentie
-description: Node veld. Een documentfragment node
+title: "Node.DOCUMENT_FRAGMENT_NODE"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Node DOCUMENT_FRAGMENT_NODE-veld. Een documentfragmentknoop"
 type: docs
-weight: 350
+weight: 330
 url: /nl/net/aspose.svg.dom/node/document_fragment_node/
 ---
 ## Node.DOCUMENT_FRAGMENT_NODE field
 
-Een documentfragment node
+Een documentfragmentknooppunt
 
 ```csharp
 public const ushort DOCUMENT_FRAGMENT_NODE;
@@ -17,7 +17,5 @@ public const ushort DOCUMENT_FRAGMENT_NODE;
 ### Zie ook
 
 * class [Node](../)
-* naamruimte [Aspose.Svg.Dom](../../node/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

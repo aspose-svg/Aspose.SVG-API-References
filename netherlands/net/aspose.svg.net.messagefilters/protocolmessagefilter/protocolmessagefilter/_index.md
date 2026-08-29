@@ -1,14 +1,14 @@
 ---
-title: ProtocolMessageFilter.ProtocolMessageFilter
-second_title: Aspose.SVG voor .NET API-referentie
-description: ProtocolMessageFilter constructeur. Initialiseert een nieuw exemplaar van hetProtocolMessageFilter klasse.
+title: "ProtocolMessageFilter"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ProtocolMessageFilter constructor. Initialiseert een nieuw exemplaar van de ProtocolMessageFilter-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net.messagefilters/protocolmessagefilter/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter constructor
 
-Initialiseert een nieuw exemplaar van het[`ProtocolMessageFilter`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`ProtocolMessageFilter`](../) klasse.
 
 ```csharp
 public ProtocolMessageFilter(params string[] protocols)
@@ -16,12 +16,10 @@ public ProtocolMessageFilter(params string[] protocols)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| protocols | String[] | De protocollen. |
+| protocollen | String[] | De protocollen. |
 
 ### Zie ook
 
 * class [ProtocolMessageFilter](../)
-* naamruimte [Aspose.Svg.Net.MessageFilters](../../protocolmessagefilter/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../../)

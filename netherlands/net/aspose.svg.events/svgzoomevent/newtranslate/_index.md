@@ -1,14 +1,14 @@
 ---
-title: SVGZoomEvent.NewTranslate
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGZoomEvent eigendom. De vertaalwaarden die van kracht zullen zijn nadat de zoombewerking is verwerkt. Het SVGPointobject is alleenlezen.
+title: "SVGZoomEvent.NewTranslate"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGZoomEvent NewTranslate-eigenschap. De translatiewaarden die van kracht zullen zijn nadat de zoombewerking is verwerkt. Het SVGPoint-object is alleen-lezen."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.events/svgzoomevent/newtranslate/
 ---
 ## SVGZoomEvent.NewTranslate property
 
-De vertaalwaarden die van kracht zullen zijn nadat de zoombewerking is verwerkt. Het SVGPoint-object is alleen-lezen.
+De translatie‑waarden die van kracht zullen zijn nadat de zoombewerking is verwerkt. Het SVGPoint‑object is alleen-lezen.
 
 ```csharp
 public SVGPoint NewTranslate { get; }
@@ -18,7 +18,5 @@ public SVGPoint NewTranslate { get; }
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGZoomEvent](../)
-* naamruimte [Aspose.Svg.Events](../../svgzoomevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

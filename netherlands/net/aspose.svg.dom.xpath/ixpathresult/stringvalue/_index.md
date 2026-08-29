@@ -1,7 +1,7 @@
 ---
-title: IXPathResult.StringValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: IXPathResult eigendom. De waarde van dit tekenreeksresultaat.
+title: "IXPathResult.StringValue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IXPathResult StringValue eigenschap. De waarde van dit stringresultaat"
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.dom.xpath/ixpathresult/stringvalue/
@@ -16,14 +16,12 @@ public string StringValue { get; }
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: verhoogd als`resultaatType` is niet `Snaar` type. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: opgegooid als `resultType` geen `String`-type is. |
 
 ### Zie ook
 
 * interface [IXPathResult](../)
-* naamruimte [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

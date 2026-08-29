@@ -1,14 +1,14 @@
 ---
-title: Color.FromCmyka
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Retourneert een nieuwe kleur met de gevraagde waarden voor cyaan magenta geel sleutel zwart alfa.
+title: "Color.FromCmyka"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color FromCmyka-methode. Retourneert een nieuwe Color met de gevraagde cyaan, magenta, geel, key, zwart en alfa-waarden"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.drawing/color/fromcmyka/
 ---
 ## Color.FromCmyka method
 
-Retourneert een nieuwe kleur met de gevraagde waarden voor cyaan, magenta, geel, sleutel (zwart), alfa.
+Retourneert een nieuwe Color met de gevraagde cyan, magenta, yellow, key (black), alpha waarden.
 
 ```csharp
 public static Color FromCmyka(float cyan, float magenta, float yellow, float key, float alpha)
@@ -16,20 +16,18 @@ public static Color FromCmyka(float cyan, float magenta, float yellow, float key
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| cyan | Single | Een vlotter die de cyaancomponent van de kleur vertegenwoordigt. |
-| magenta | Single | Een float die de magenta component van de kleur vertegenwoordigt. |
-| yellow | Single | Een vlotter die de gele component van de kleur vertegenwoordigt. |
-| key | Single | Een float die het belangrijkste onderdeel van de kleur vertegenwoordigt. |
-| alpha | Single | Een float die de alfacomponent van de kleur vertegenwoordigt. |
+| cyaan | Single | Een float die de cyaancomponent van de kleur weergeeft. |
+| magenta | Single | Een float die de magentacomponent van de kleur weergeeft. |
+| geel | Single | Een float die de geelcomponent van de kleur weergeeft. |
+| sleutel | Single | Een float die de key-component van de kleur weergeeft. |
+| alfa | Single | Een float die de alfacomponent van de kleur vertegenwoordigt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuw exemplaar van de[`Color`](../) klas
+Een nieuw exemplaar van de [`Color`](../) klasse
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

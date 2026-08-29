@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.StrokeBrush
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt het penseelobject in of haalt het op dat wordt gebruikt voor omlijnde paden.
+title: "GraphicContext.StrokeBrush"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext StrokeBrush-eigenschap. Stelt het penseelobject in of haalt het op dat wordt gebruikt voor gestreepte paden."
 type: docs
 weight: 140
 url: /nl/net/aspose.svg.rendering/graphiccontext/strokebrush/
 ---
 ## GraphicContext.StrokeBrush property
 
-Stelt het penseelobject in of haalt het op dat wordt gebruikt voor omlijnde paden.
+Stelt het penseelobject in dat wordt gebruikt voor getekende paden, of haalt dit op.
 
 ```csharp
 public virtual IBrush StrokeBrush { get; set; }
@@ -18,7 +18,5 @@ public virtual IBrush StrokeBrush { get; set; }
 
 * interface [IBrush](../../../aspose.svg.drawing/ibrush/)
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

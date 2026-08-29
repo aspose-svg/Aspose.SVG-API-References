@@ -1,14 +1,14 @@
 ---
-title: Element.HasAttributeNS
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element methode. Retourneert waar wanneer een attribuut met een gegeven lokale naam en naamruimteURI is opgegeven voor dit element of een standaardwaarde heeft anders onwaar.
+title: "Element.HasAttributeNS"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element HasAttributeNS methode. Retourneert true wanneer een attribuut met een opgegeven lokale naam en namespace-URI op dit element is gespecificeerd of een standaardwaarde heeft, anders false."
 type: docs
 weight: 320
 url: /nl/net/aspose.svg.dom/element/hasattributens/
 ---
 ## Element.HasAttributeNS method
 
-Retourneert waar wanneer een attribuut met een gegeven lokale naam en naamruimte-URI is opgegeven voor dit element of een standaardwaarde heeft, anders onwaar.
+Retourneert true wanneer een attribuut met een opgegeven lokale naam en namespace-URI is gespecificeerd op dit element of een standaardwaarde heeft, anders false.
 
 ```csharp
 public bool HasAttributeNS(string namespaceURI, string localName)
@@ -16,17 +16,15 @@ public bool HasAttributeNS(string namespaceURI, string localName)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| namespaceURI | String | De naamruimte-URI. |
-| localName | String | Naam van de plaatselijke. |
+| namespaceURI | String | De namespace‑URI. |
+| localName | String | Naam van de lokale. |
 
-### Winstwaarde
+### Retourwaarde
 
-`WAAR` if [heeft kenmerk NS] [de opgegeven naamruimte-URI]; anders,`vals` .
+`true` als [has attribute NS] [the specified namespace URI]; anders, `false`.
 
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

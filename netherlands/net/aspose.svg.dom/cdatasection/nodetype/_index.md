@@ -1,7 +1,7 @@
 ---
-title: CDATASection.NodeType
-second_title: Aspose.SVG voor .NET API-referentie
-description: CDATASection eigendom. Een code die het type van het onderliggende object vertegenwoordigt.
+title: "CDATASection.NodeType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CDATASection NodeType eigenschap. Een code die het type van het onderliggende object vertegenwoordigt"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom/cdatasection/nodetype/
@@ -14,14 +14,12 @@ Een code die het type van het onderliggende object vertegenwoordigt.
 public override ushort NodeType { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het type van het knooppunt.
 
 ### Zie ook
 
 * class [CDATASection](../)
-* naamruimte [Aspose.Svg.Dom](../../cdatasection/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

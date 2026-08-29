@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateHTMLDocument
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDOMImplementation methode. Retourneert een document met een reeds opgebouwde basisboom inclusief een titelelement tenzij het titelargument is weggelaten.
+title: "IDOMImplementation.CreateHTMLDocument"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDOMImplementation CreateHTMLDocument‑methode. Retourneert een document met een basisboom die al is opgebouwd, inclusief een title‑element, tenzij het title‑argument wordt weggelaten."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom/idomimplementation/createhtmldocument/
 ---
 ## IDOMImplementation.CreateHTMLDocument method
 
-Retourneert een document, met een reeds opgebouwde basisboom inclusief een titelelement, tenzij het titelargument is weggelaten.
+Retourneert een document, met een basisboom die al is geconstrueerd inclusief een title‑element, tenzij het title‑argument is weggelaten.
 
 ```csharp
 public Document CreateHTMLDocument(string title)
@@ -16,17 +16,15 @@ public Document CreateHTMLDocument(string title)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| title | String | De titel. |
+| title | String | De title. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retour document.
+Retourneert document.
 
 ### Zie ook
 
 * class [Document](../../document/)
 * interface [IDOMImplementation](../)
-* naamruimte [Aspose.Svg.Dom](../../idomimplementation/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,25 @@
 ---
-title: ILinearGradientBrush.Rect
-second_title: Aspose.SVG voor .NET API-referentie
-description: ILinearGradientBrush eigendom. Verkrijg een rechthoekig gebied dat de begin en eindpunten van het verloop definieert.
+title: "ILinearGradientBrush.Rect"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ILinearGradientBrush Rect eigenschap. Haalt op of stelt het rechthoekige gebied in dat de begin- en eindpunten van de gradiënt definieert"
 type: docs
-weight: 40
+weight: 20
 url: /nl/net/aspose.svg.drawing/ilineargradientbrush/rect/
 ---
 ## ILinearGradientBrush.Rect property
 
-Verkrijg een rechthoekig gebied dat de begin- en eindpunten van het verloop definieert.
+Haalt op of stelt het rechthoekige gebied in dat de begin- en eindpunten van de gradient definieert.
 
 ```csharp
-public RectangleF Rect { get; }
+public RectangleF Rect { get; set; }
 ```
+
+### Retourwaarde
+
+Het rechthoekige gebied dat de start- en eindpunten van de gradiënt definieert.
 
 ### Zie ook
 
 * interface [ILinearGradientBrush](../)
-* naamruimte [Aspose.Svg.Drawing](../../ilineargradientbrush/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

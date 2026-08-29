@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.Length
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGListBase eigendom. Het aantal items in de lijst.
+title: "SVGListBase-1.Length"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGListBase Length-eigenschap. Het aantal items in de lijst"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.collections/svglistbase-1/length/
 ---
-## SVGListBase&lt;T&gt;.Length property
+## SVGListBase<T>.Length property
 
 Het aantal items in de lijst.
 
@@ -14,14 +14,12 @@ Het aantal items in de lijst.
 public ulong Length { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het aantal items.
 
 ### Zie ook
 
 * class [SVGListBase&lt;T&gt;](../)
-* naamruimte [Aspose.Svg.Collections](../../svglistbase-1/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnSelect
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnSelectgebeurtenis.
+title: "IGlobalEventHandlers.OnSelect"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnSelect gebeurtenis. Haalt of stelt de event handler in voor de OnSelect gebeurtenis"
 type: docs
 weight: 420
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onselect/
 ---
 ## IGlobalEventHandlers.OnSelect event
 
-Haalt of stelt gebeurtenishandler in voor OnSelect-gebeurtenis.
+Haalt op of stelt de gebeurtenisafhandelaar in voor het OnSelect‑evenement.
 
 ```csharp
 public event DOMEventHandler OnSelect;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSelect;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

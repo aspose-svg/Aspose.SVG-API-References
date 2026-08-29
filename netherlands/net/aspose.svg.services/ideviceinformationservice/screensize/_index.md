@@ -1,20 +1,20 @@
 ---
-title: IDeviceInformationService.ScreenSize
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDeviceInformationService eigendom. Hiermee wordt de grootte van het scherm opgehaald of ingesteld.
+title: "IDeviceInformationService.ScreenSize"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDeviceInformationService ScreenSize eigenschap. Haalt de grootte van het scherm op of stelt deze in."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.services/ideviceinformationservice/screensize/
 ---
 ## IDeviceInformationService.ScreenSize property
 
-Hiermee wordt de grootte van het scherm opgehaald of ingesteld.
+Haalt op of stelt de grootte van het scherm in.
 
 ```csharp
 public Size ScreenSize { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De grootte van het scherm.
 
@@ -22,7 +22,5 @@ De grootte van het scherm.
 
 * class [Size](../../../aspose.svg.drawing/size/)
 * interface [IDeviceInformationService](../)
-* naamruimte [Aspose.Svg.Services](../../ideviceinformationservice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

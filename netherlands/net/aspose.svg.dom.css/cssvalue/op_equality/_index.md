@@ -1,7 +1,7 @@
 ---
-title: CSSValue.op_Equality
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSValue methode. Implementeert de operator .
+title: "CSSValue.op_Equality"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSValue op_Equality methode. Implementeert de operator"
 type: docs
 weight: 110
 url: /nl/net/aspose.svg.dom.css/cssvalue/op_equality/
@@ -16,17 +16,15 @@ public static bool operator ==(CSSValue left, CSSValue right)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| left | CSSValue | Het linker element. |
-| right | CSSValue | Het juiste onderdeel. |
+| left | CSSValue | Het linkerelement. |
+| rechts | CSSValue | Het rechterelement. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Zie ook
 
 * class [CSSValue](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssvalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

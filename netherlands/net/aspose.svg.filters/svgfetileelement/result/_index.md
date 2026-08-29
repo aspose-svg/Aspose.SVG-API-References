@@ -1,28 +1,26 @@
 ---
-title: SVGFETileElement.Result
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFETileElement eigendom. Komt overeen met attribuut result op het gegeven filterelement.
+title: "SVGFETileElement.Result"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFETileElement Result-eigenschap. Komt overeen met attribuut result op het opgegeven filterelement."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.filters/svgfetileelement/result/
 ---
 ## SVGFETileElement.Result property
 
-Komt overeen met attribuut 'result' op het gegeven 'filter'-element.
+Komt overeen met attribuut ‘result’ op het opgegeven ‘filter’-element.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'result' van het gegeven 'filter' element.
+Het attribuut ‘result’ van het opgegeven ‘filter’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFETileElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfetileelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

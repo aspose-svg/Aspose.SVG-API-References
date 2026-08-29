@@ -1,14 +1,14 @@
 ---
-title: SVGException.SVG_MATRIX_NOT_INVERTABLE
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGException veld. Wordt verhoogd wanneer wordt geprobeerd een matrix om te keren die niet inverteerbaar is.
+title: "SVGException.SVG_MATRIX_NOT_INVERTABLE"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGException SVG_MATRIX_NOT_INVERTABLE-veld. Wordt opgegooid wanneer een poging wordt gedaan om een matrix die niet inverteerbaar is, te inverteren"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg/svgexception/svg_matrix_not_invertable/
 ---
 ## SVGException.SVG_MATRIX_NOT_INVERTABLE field
 
-Wordt verhoogd wanneer wordt geprobeerd een matrix om te keren die niet inverteerbaar is.
+Opgegooid wanneer een poging wordt gedaan om een matrix te inverteren die niet inverteerbaar is.
 
 ```csharp
 public const ushort SVG_MATRIX_NOT_INVERTABLE;
@@ -17,7 +17,5 @@ public const ushort SVG_MATRIX_NOT_INVERTABLE;
 ### Zie ook
 
 * class [SVGException](../)
-* naamruimte [Aspose.Svg](../../svgexception/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

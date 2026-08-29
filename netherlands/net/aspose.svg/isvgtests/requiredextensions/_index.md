@@ -1,20 +1,20 @@
 ---
-title: ISVGTests.RequiredExtensions
-second_title: Aspose.SVG voor .NET API-referentie
-description: ISVGTests eigendom. Komt overeen met attribuut requiredExtensions op het gegeven element.
+title: "ISVGTests.RequiredExtensions"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ISVGTests RequiredExtensions-eigenschap. Komt overeen met het attribuut requiredExtensions op het opgegeven element."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/isvgtests/requiredextensions/
 ---
 ## ISVGTests.RequiredExtensions property
 
-Komt overeen met attribuut 'requiredExtensions' op het gegeven element.
+Komt overeen met het attribuut ‘requiredExtensions’ van het opgegeven element.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De vereiste extensies.
 
@@ -22,7 +22,5 @@ De vereiste extensies.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* naamruimte [Aspose.Svg](../../isvgtests/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,29 +1,27 @@
 ---
-title: Interface IDocumentCSS
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.IDocumentCSS koppel. Deze interface vertegenwoordigt een document met een CSSweergave.
+title: "IDocumentCSS Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.IDocumentCSS interface. Deze interface vertegenwoordigt een document met een CSS-weergave"
 type: docs
-weight: 690
+weight: 2690
 url: /nl/net/aspose.svg.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface
 
-Deze interface vertegenwoordigt een document met een CSS-weergave.
+Deze interface vertegenwoordigt een document met een CSS‑view.
 
 ```csharp
 public interface IDocumentCSS : IDocumentStyle
 ```
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(Element, string) | Deze methode wordt gebruikt om de override-stijldeclaratie op te halen voor een gespecificeerd element en een gespecificeerd pseudo-element. |
+| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(*[Element](../../aspose.svg.dom/element/), string*) | Deze methode wordt gebruikt om de override‑stijldefinitie op te halen voor een opgegeven element en een opgegeven pseudo‑element. |
 
 ### Zie ook
 
 * interface [IDocumentStyle](../idocumentstyle/)
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)
