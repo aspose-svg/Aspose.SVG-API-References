@@ -1,7 +1,7 @@
 ---
-title: SVGPathSeg.PATHSEG_ARC_ABS
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSeg поле. Соответствует команде данных пути absolute arcto A.
+title: "SVGPathSeg.PATHSEG_ARC_ABS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGPathSeg PATHSEG_ARC_ABS. Соответствует абсолютной команде arcto A данных пути."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_arc_abs/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_arc_abs/
 public const ushort PATHSEG_ARC_ABS;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSeg](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathseg/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

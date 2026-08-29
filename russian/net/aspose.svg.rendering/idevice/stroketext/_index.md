@@ -1,14 +1,14 @@
 ---
-title: IDevice.StrokeText
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Перемещает указанную текстовую строку в указанном месте.
+title: "IDevice.StrokeText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice StrokeText. Обводит указанную строку текста в заданном месте."
 type: docs
 weight: 230
 url: /ru/net/aspose.svg.rendering/idevice/stroketext/
 ---
 ## IDevice.StrokeText method
 
-Перемещает указанную текстовую строку в указанном месте.
+Обводит указанный текст в заданном месте.
 
 ```csharp
 public void StrokeText(string text, PointF pt)
@@ -16,13 +16,11 @@ public void StrokeText(string text, PointF pt)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Строка для поглаживания. |
-| pt | PointF | Точка, указывающая координаты начала текста. |
+| текст | String | Строка для обводки. |
+| pt | PointF | Точка, указывающая координаты, где начать текст. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

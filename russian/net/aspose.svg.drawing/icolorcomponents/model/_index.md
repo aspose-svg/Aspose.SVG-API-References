@@ -1,7 +1,7 @@
 ---
-title: IColorComponents.Model
-second_title: Справочник по Aspose.SVG для .NET API
-description: IColorComponents свойство. Возвращает цветовую модель.
+title: "IColorComponents.Model"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IColorComponents Model свойство. Возвращает цветовую модель"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/icolorcomponents/model/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.drawing/icolorcomponents/model/
 public ColorModel Model { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [ColorModel](../../colormodel/)
 * interface [IColorComponents](../)
-* пространство имен [Aspose.Svg.Drawing](../../icolorcomponents/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

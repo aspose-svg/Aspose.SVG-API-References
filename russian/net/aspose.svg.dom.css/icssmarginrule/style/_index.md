@@ -1,24 +1,22 @@
 ---
-title: ICSSMarginRule.Style
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSMarginRule свойство. Блок объявления этого правила.
+title: "ICSSMarginRule.Style"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSSMarginRule Style свойство. Блок объявлений этого правила."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icssmarginrule/style/
 ---
 ## ICSSMarginRule.Style property
 
-Блок объявления этого правила.
+Блок объявлений этого правила.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSMarginRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssmarginrule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

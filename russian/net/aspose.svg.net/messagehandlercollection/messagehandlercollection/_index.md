@@ -1,7 +1,7 @@
 ---
-title: MessageHandlerCollection.MessageHandlerCollection
-second_title: Справочник по Aspose.SVG для .NET API
-description: MessageHandlerCollection строитель. Конструктор по умолчанию.
+title: "MessageHandlerCollection"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор MessageHandlerCollection. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/messagehandlercollection/messagehandlercollection/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.net/messagehandlercollection/messagehandlercollection/
 public MessageHandlerCollection()
 ```
 
-### Смотрите также
+### См. также
 
 * class [MessageHandlerCollection](../)
-* пространство имен [Aspose.Svg.Net](../../messagehandlercollection/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

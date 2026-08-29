@@ -1,23 +1,21 @@
 ---
-title: SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMarkerElement поле. Значением атрибута markerUnits является strokeWidth.
+title: "SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_MARKERUNITS_STROKEWIDTH класса SVGMarkerElement. Значение атрибута markerUnits равно strokeWidth"
 type: docs
 weight: 120
 url: /ru/net/aspose.svg/svgmarkerelement/svg_markerunits_strokewidth/
 ---
 ## SVGMarkerElement.SVG_MARKERUNITS_STROKEWIDTH field
 
-Значением атрибута 'markerUnits' является 'strokeWidth'.
+Значение атрибута ‘markerUnits’ равно 'strokeWidth'.
 
 ```csharp
 public const ushort SVG_MARKERUNITS_STROKEWIDTH;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGMarkerElement](../)
-* пространство имен [Aspose.Svg](../../svgmarkerelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

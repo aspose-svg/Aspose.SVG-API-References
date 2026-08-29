@@ -1,27 +1,25 @@
 ---
-title: Entity.XmlEncoding
-second_title: Справочник по Aspose.SVG для .NET API
-description: Entity свойство. Атрибут указывающий как часть текстового объявления кодировку этого объекта когда он является внешним анализируемым объектом. В противном случае это null.
+title: "Entity.XmlEncoding"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Entity XmlEncoding property. Атрибут, указывающий в рамках текстового объявления кодировку этой сущности, когда она является внешней разобранной сущностью. В остальных случаях значение null"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/entity/xmlencoding/
 ---
 ## Entity.XmlEncoding property
 
-Атрибут, указывающий, как часть текстового объявления, кодировку этого объекта, когда он является внешним анализируемым объектом. В противном случае это null.
+Атрибут, указывающий, как часть текстового объявления, кодировку этой сущности, когда это внешняя разобранная сущность. В остальных случаях значение null.
 
 ```csharp
 public string XmlEncoding { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Кодировка XML.
+XML‑кодировка.
 
-### Смотрите также
+### См. также
 
 * class [Entity](../)
-* пространство имен [Aspose.Svg.Dom](../../entity/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

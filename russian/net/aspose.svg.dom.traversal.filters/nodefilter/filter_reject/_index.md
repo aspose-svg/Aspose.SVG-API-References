@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.FILTER_REJECT
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeFilter поле. Отклонить узел. Методы навигации определенные для NodeIterator или TreeWalker не будут возвращать этот узел. Для TreeWalker дочерние элементы этого узла также будут отклонены. NodeIterators рассматривает это как синоним для FILTER_SKIP.
+title: "NodeFilter.FILTER_REJECT"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле NodeFilter FILTER_REJECT. Отклонять узел. Методы навигации, определённые для NodeIterator или TreeWalker, не будут возвращать этот узел. Для TreeWalker также будут отклоняться дочерние узлы этого узла. NodeIterators рассматривают это как синоним FILTER_SKIP."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/filter_reject/
 ---
 ## NodeFilter.FILTER_REJECT field
 
-Отклонить узел. Методы навигации, определенные для NodeIterator или TreeWalker, не будут возвращать этот узел. Для TreeWalker дочерние элементы этого узла также будут отклонены. NodeIterators рассматривает это как синоним для FILTER_SKIP.
+Отклонить узел. Навигационные методы, определённые для NodeIterator или TreeWalker, не вернут этот узел. Для TreeWalker также будут отклонены дочерние узлы этого узла. NodeIterators рассматривают это как синоним FILTER_SKIP.
 
 ```csharp
 public const short FILTER_REJECT;
 ```
 
-### Смотрите также
+### См. также
 
 * class [NodeFilter](../)
-* пространство имен [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

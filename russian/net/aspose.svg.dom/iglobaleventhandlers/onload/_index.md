@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnLoad
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnLoad.
+title: "IGlobalEventHandlers.OnLoad"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnLoad. Получает или задает обработчик события для события OnLoad"
 type: docs
 weight: 200
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onload/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onload/
 public event DOMEventHandler OnLoad;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSSMediaRule.InsertRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSMediaRule метод. Используется для вставки нового правила в медиаблок.
+title: "ICSSMediaRule.InsertRule"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод InsertRule элемента ICSSMediaRule. Используется для вставки нового правила в блок media."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.css/icssmediarule/insertrule/
 ---
 ## ICSSMediaRule.InsertRule method
 
-Используется для вставки нового правила в медиаблок.
+Используется для вставки нового правила в медиа‑блок.
 
 ```csharp
 public long InsertRule(string rule, long index)
@@ -16,17 +16,15 @@ public long InsertRule(string rule, long index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rule | String | Правило СМИ. |
+| правило | String | Правило media. |
 | index | Int64 | Индекс. |
 
 ### Возвращаемое значение
 
-Вставленный указатель.
+Вставленный индекс.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSMediaRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

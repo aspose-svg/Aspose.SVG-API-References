@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.NumOctaves
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFETurbulenceElement свойство. Соответствует атрибуту numOctaves данного элемента feTurbulence.
+title: "SVGFETurbulenceElement.NumOctaves"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFETurbulenceElement NumOctaves property. Соответствует атрибуту numOctaves в данном элементе feTurbulence"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/numoctaves/
 ---
 ## SVGFETurbulenceElement.NumOctaves property
 
-Соответствует атрибуту numOctaves данного элемента feTurbulence.
+Соответствует атрибуту ‘numOctaves’ в данном элементе ‘feTurbulence’.
 
 ```csharp
 public SVGAnimatedInteger NumOctaves { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'numOctaves' данного элемента 'feTurbulence'.
+Атрибут ‘numOctaves’ данного элемента ‘feTurbulence’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedInteger](../../../aspose.svg.datatypes/svganimatedinteger/)
 * class [SVGFETurbulenceElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

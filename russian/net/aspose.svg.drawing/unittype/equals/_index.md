@@ -1,14 +1,14 @@
 ---
-title: UnitType.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType метод. Определяет является ли указанныйObject  равно этому экземпляру.
+title: "UnitType.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод UnitType Equals. Определяет, равен ли указанный объект этому экземпляру"
 type: docs
 weight: 310
 url: /ru/net/aspose.svg.drawing/unittype/equals/
 ---
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Определяет, является ли указанныйObject , равно этому экземпляру.
+Определяет, равен ли указанный объект текущему экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,23 +16,23 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Объект | Объект для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(UnitType) {#equals}
+## Equals(*[UnitType](../)*) {#equals}
 
-Определяет, является ли указанный[`UnitType`](../) , равно этому экземпляру.
+Определяет, равен ли указанный [`UnitType`](../) этому экземпляру.
 
 ```csharp
 public bool Equals(UnitType other)
@@ -44,12 +44,10 @@ public bool Equals(UnitType other)
 
 ### Возвращаемое значение
 
-`истинный` если указанный[`UnitType`](../) равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true`, если указанный [`UnitType`](../) равен этому экземпляру; в противном случае `false`.
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

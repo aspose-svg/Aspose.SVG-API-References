@@ -1,20 +1,20 @@
 ---
-title: Class SVGAnimatedAngle
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedAngle сорт. Используется для атрибутов угла базового типа данных которые можно анимировать.
+title: "Класс SVGAnimatedAngle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.DataTypes.SVGAnimatedAngle. Используется для атрибутов базового типа данных angle, которые могут быть анимированы"
 type: docs
-weight: 90
+weight: 2080
 url: /ru/net/aspose.svg.datatypes/svganimatedangle/
 ---
 ## SVGAnimatedAngle class
 
-Используется для атрибутов угла базового типа данных, которые можно анимировать.
+Используется для атрибутов базового типа данных angle, которые могут быть анимированы.
 
 ```csharp
 public class SVGAnimatedAngle : SVGAnimatedValue<SVGAngle>
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,15 +25,13 @@ public class SVGAnimatedAngle : SVGAnimatedValue<SVGAngle>
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedangle/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedangle/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGAngle](../svgangle/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: FontsSettings.SetFontsLookupFolders
-second_title: Справочник по Aspose.SVG для .NET API
-description: FontsSettings метод. Задает массив папок используемых при выборе шрифтов.
+title: "FontsSettings.SetFontsLookupFolders"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод FontsSettings SetFontsLookupFolders. Устанавливает массив папок, используемых при выборе шрифтов."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/fontssettings/setfontslookupfolders/
 ---
-## SetFontsLookupFolders(string[]) {#setfontslookupfolders}
+## SetFontsLookupFolders(*string[]*) {#setfontslookupfolders}
 
-Задает массив папок, используемых при выборе шрифтов.
+Устанавливает массив папок, используемых при выборе шрифтов.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders)
@@ -16,19 +16,19 @@ public void SetFontsLookupFolders(string[] fontsFolders)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontsFolders | String[] | Папки со шрифтами. |
+| fontsFolders | String[] | Папки шрифтов. |
 
-### Смотрите также
+### См. также
 
 * class [FontsSettings](../)
-* пространство имен [Aspose.Svg](../../fontssettings/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolders(string[], bool) {#setfontslookupfolders_1}
+## SetFontsLookupFolders(*string[], bool*) {#setfontslookupfolders_1}
 
-Задает массив папок, используемых при выборе шрифтов.
+Устанавливает массив папок, используемых при выборе шрифтов.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
@@ -36,13 +36,11 @@ public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontsFolders | String[] | Папки со шрифтами. |
-| recursive | Boolean | Если установлено`истинный` будут использоваться все вложенные каталоги. Значение по умолчанию`ЛОЖЬ`. |
+| fontsFolders | String[] | Папки шрифтов. |
+| recursive | Boolean | Если установлено в `true`, будут использованы все вложенные каталоги. Значение по умолчанию — `false`. |
 
-### Смотрите также
+### См. также
 
 * class [FontsSettings](../)
-* пространство имен [Aspose.Svg](../../fontssettings/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

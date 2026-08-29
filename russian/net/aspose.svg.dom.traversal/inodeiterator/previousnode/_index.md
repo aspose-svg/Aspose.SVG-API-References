@@ -1,7 +1,7 @@
 ---
-title: INodeIterator.PreviousNode
-second_title: Справочник по Aspose.SVG для .NET API
-description: INodeIterator метод. Возвращает предыдущий узел в наборе и перемещает позицию NodeIterator назад в наборе.
+title: "INodeIterator.PreviousNode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод INodeIterator PreviousNode. Возвращает предыдущий узел в наборе и перемещает позицию NodeIterator назад в наборе."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.traversal/inodeiterator/previousnode/
@@ -16,19 +16,17 @@ public Node PreviousNode()
 
 ### Возвращаемое значение
 
-Предыдущий узел в итерируемом наборе, или null, если в этом наборе больше нет элементов.
+Предыдущий узел в наборе, по которому производится итерация, или null, если в этом наборе больше нет элементов.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: возникает, если этот метод вызывается после вызова метода detach . |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: Возникает, если этот метод вызывается после вызова метода detach. |
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeIterator](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

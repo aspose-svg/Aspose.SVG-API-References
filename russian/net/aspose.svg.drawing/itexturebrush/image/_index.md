@@ -1,7 +1,7 @@
 ---
-title: ITextureBrush.Image
-second_title: Справочник по Aspose.SVG для .NET API
-description: ITextureBrush свойство. Получает или задает изображение используемое кистью.
+title: "ITextureBrush.Image"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Image интерфейса ITextureBrush. Получает или задает изображение, используемое кистью"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/itexturebrush/image/
@@ -18,10 +18,8 @@ public byte[] Image { get; }
 
 Данные изображения.
 
-### Смотрите также
+### См. также
 
 * interface [ITextureBrush](../)
-* пространство имен [Aspose.Svg.Drawing](../../itexturebrush/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

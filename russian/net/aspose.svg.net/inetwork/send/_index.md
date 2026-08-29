@@ -1,14 +1,14 @@
 ---
-title: INetwork.Send
-second_title: Справочник по Aspose.SVG для .NET API
-description: INetwork метод. ОтправляетRequestMessage сообщение.
+title: "INetwork.Send"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод INetwork Send. Отправляет сообщение RequestMessage."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/inetwork/send/
 ---
 ## INetwork.Send method
 
-Отправляет[`RequestMessage`](../../requestmessage/) сообщение.
+Отправляет сообщение [`RequestMessage`](../../requestmessage/) .
 
 ```csharp
 public ResponseMessage Send(RequestMessage message)
@@ -16,18 +16,16 @@ public ResponseMessage Send(RequestMessage message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | RequestMessage | Сообщение для отправки. |
+| сообщение | RequestMessage | Сообщение для отправки. |
 
 ### Возвращаемое значение
 
-А[`ResponseMessage`](../../responsemessage/) сообщение
+Сообщение [`ResponseMessage`](../../responsemessage/)
 
-### Смотрите также
+### См. также
 
 * class [ResponseMessage](../../responsemessage/)
 * class [RequestMessage](../../requestmessage/)
 * interface [INetwork](../)
-* пространство имен [Aspose.Svg.Net](../../inetwork/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

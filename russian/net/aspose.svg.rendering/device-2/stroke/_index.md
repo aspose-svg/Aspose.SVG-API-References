@@ -1,23 +1,21 @@
 ---
-title: Device2.Stroke
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Проводит линию по текущему пути. Заштрихованная линия следует за каждым прямым или изогнутым сегментом пути центрируется на сегменте со сторонами параллельными ему. Каждый из подпутей пути обрабатывается отдельно. Этот метод завершает текущий путь.
+title: "Device-2.Stroke"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device Stroke method. Обводит линию вдоль текущего пути. Обводимая линия следует каждому прямому или изогнутому сегменту пути, центрируясь на сегменте со сторонами, параллельными ему. Каждый подпуть пути обрабатывается отдельно. Этот метод завершает текущий путь."
 type: docs
-weight: 220
+weight: 250
 url: /ru/net/aspose.svg.rendering/device-2/stroke/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Stroke method
+## Device<TGraphicContext,TRenderingOptions>.Stroke method
 
-Проводит линию по текущему пути. Заштрихованная линия следует за каждым прямым или изогнутым сегментом пути, центрируется на сегменте со сторонами, параллельными ему. Каждый из подпутей пути обрабатывается отдельно. Этот метод завершает текущий путь.
+Обводит линию вдоль текущего пути. Обводимая линия следует каждому прямому или изогнутому сегменту пути, центрируясь на сегменте со сторонами, параллельными ему. Каждый подпуть пути обрабатывается отдельно. Этот метод завершает текущий путь.
 
 ```csharp
-public abstract void Stroke()
+public virtual void Stroke()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

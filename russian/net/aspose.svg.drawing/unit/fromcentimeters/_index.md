@@ -1,14 +1,14 @@
 ---
-title: Unit.FromCentimeters
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit метод. ВозвращаетLength объект представленный в сантиметрах.
+title: "Unit.FromCentimeters"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Unit FromCentimeters. Возвращает объект Length, представленный в сантиметрах"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/unit/fromcentimeters/
 ---
 ## Unit.FromCentimeters method
 
-Возвращает[`Length`](../../length/) объект, представленный в сантиметрах.
+Возвращает объект [`Length`](../../length/) , представленный в сантиметрах.
 
 ```csharp
 public static Length FromCentimeters(double value)
@@ -16,17 +16,15 @@ public static Length FromCentimeters(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение. |
+| значение | Double | Значение. |
 
 ### Возвращаемое значение
 
-Возвращает[`Length`](../../length/) объект.
+Возвращает объект [`Length`](../../length/).
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

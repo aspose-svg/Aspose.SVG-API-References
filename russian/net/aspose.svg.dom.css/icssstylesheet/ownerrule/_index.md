@@ -1,24 +1,22 @@
 ---
-title: ICSSStyleSheet.OwnerRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSStyleSheet свойство. Если эта таблица стилей получена из правила import атрибут ownerRule будет содержать CSSImportRule. В этом случае атрибут ownerNode в интерфейсе StyleSheet будет иметь значение null. Если таблица стилей получена из элемента или инструкции обработки атрибут ownerRule будет иметь значение null а атрибут ownerNode будет содержать Node.
+title: "ICSSStyleSheet.OwnerRule"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство OwnerRule интерфейса ICSSStyleSheet. Если эта таблица стилей получена из правила импорта, атрибут ownerRule будет содержать CSSImportRule. В этом случае атрибут ownerNode в интерфейсе StyleSheet будет равен null. Если таблица стилей получена из элемента или инструкции обработки, атрибут ownerRule будет равен null, а атрибут ownerNode будет содержать Node"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icssstylesheet/ownerrule/
 ---
 ## ICSSStyleSheet.OwnerRule property
 
-Если эта таблица стилей получена из правила @import, атрибут ownerRule будет содержать CSSImportRule. В этом случае атрибут ownerNode в интерфейсе StyleSheet будет иметь значение null. Если таблица стилей получена из элемента или инструкции обработки, атрибут ownerRule будет иметь значение null, а атрибут ownerNode будет содержать Node.
+Если эта таблица стилей получена из правила @import, атрибут ownerRule будет содержать CSSImportRule. В этом случае атрибут ownerNode в интерфейсе StyleSheet будет равен null. Если таблица стилей получена из элемента или инструкции обработки, атрибут ownerRule будет равен null, а атрибут ownerNode будет содержать Node.
 
 ```csharp
 public ICSSRule OwnerRule { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSStyleSheet](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

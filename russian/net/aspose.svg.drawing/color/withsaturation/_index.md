@@ -1,14 +1,14 @@
 ---
-title: Color.WithSaturation
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Создает копию цвета с указанной насыщенностью.
+title: "Color.WithSaturation"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color WithSaturation. Создаёт копию объекта Color с указанной насыщенностью"
 type: docs
 weight: 480
 url: /ru/net/aspose.svg.drawing/color/withsaturation/
 ---
 ## Color.WithSaturation method
 
-Создает копию цвета с указанной насыщенностью.
+Создаёт копию цвета Color с указанной saturation.
 
 ```csharp
 public Color WithSaturation(float saturation)
@@ -16,16 +16,14 @@ public Color WithSaturation(float saturation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| saturation | Single | Значение насыщения. |
+| saturation | Single | Значение насыщенности. |
 
 ### Возвращаемое значение
 
-&gt;Новый экземпляр[`Color`](../) сорт.
+&gt;Новый экземпляр класса [`Color`](../).
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: UnitType.Deg
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в градусах.
+title: "UnitType.Deg"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Deg. Измерение в градусах"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.drawing/unittype/deg/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/deg/
 public static readonly UnitType Deg;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

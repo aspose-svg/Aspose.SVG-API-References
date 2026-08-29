@@ -1,14 +1,14 @@
 ---
-title: Document.CreateProcessingInstruction
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает узел ProcessingInstruction с заданным именем и строками данных.
+title: "Document.CreateProcessingInstruction"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateProcessingInstruction. Создает узел ProcessingInstruction, используя указанные строки имени и данных"
 type: docs
 weight: 920
 url: /ru/net/aspose.svg.dom/document/createprocessinginstruction/
 ---
 ## Document.CreateProcessingInstruction method
 
-Создает узел ProcessingInstruction с заданным именем и строками данных.
+Создаёт узел ProcessingInstruction, используя указанные строки имени и данных.
 
 ```csharp
 public ProcessingInstruction CreateProcessingInstruction(string target, string data)
@@ -16,18 +16,16 @@ public ProcessingInstruction CreateProcessingInstruction(string target, string d
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| target | String | Цель. |
-| data | String | Данные инструкции. |
+| цель | String | Цель. |
+| данные | String | Данные инструкции. |
 
 ### Возвращаемое значение
 
-[`ProcessingInstruction`](../../processinginstruction/) .
+Элемент [`ProcessingInstruction`](../../processinginstruction/).
 
-### Смотрите также
+### См. также
 
 * class [ProcessingInstruction](../../processinginstruction/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

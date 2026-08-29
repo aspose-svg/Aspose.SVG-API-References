@@ -1,14 +1,14 @@
 ---
-title: Event.Event
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event строитель. Инициализирует новый экземплярEvent класс.
+title: "Событие"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор Event. Инициализирует новый экземпляр класса Event."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/event/event/
 ---
-## Event(string) {#constructor}
+## Event(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`Event`](../) класс.
+Инициализирует новый экземпляр класса [`Event`](../).
 
 ```csharp
 public Event(string type)
@@ -18,17 +18,17 @@ public Event(string type)
 | --- | --- | --- |
 | type | String | Тип события. |
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Event(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## Event(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Инициализирует новый экземпляр[`Event`](../) класс.
+Инициализирует новый экземпляр класса [`Event`](../).
 
 ```csharp
 public Event(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public Event(string type, IDictionary<string, object> eventInitDict)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события. |
-| eventInitDict | IDictionary`2 | Событие инициализирует словарь. |
+| eventInitDict | IDictionary`2 | Словарь инициализации события. |
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

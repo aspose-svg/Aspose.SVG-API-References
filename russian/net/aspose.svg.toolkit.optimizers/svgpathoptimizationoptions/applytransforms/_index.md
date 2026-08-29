@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.ApplyTransforms
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathOptimizationOptions свойство. Получает или задает параметр применения преобразований к сегментам пути. По умолчанию это ложь.
+title: "SVGPathOptimizationOptions.ApplyTransforms"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathOptimizationOptions ApplyTransforms. Получает или задает параметр, определяющий применение преобразований к сегментам Path. По умолчанию false."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/
 ---
 ## SVGPathOptimizationOptions.ApplyTransforms property
 
-Получает или задает параметр применения преобразований к сегментам пути. По умолчанию это «ложь».
+Получает или задает параметр, определяющий применение преобразований к сегментам Path. По умолчанию 'false'.
 
 ```csharp
 public bool ApplyTransforms { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

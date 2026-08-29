@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_RGBCOLOR
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой цвет RGB. Значение можно получить с помощью метода GetRGBColorValue.
+title: "CSSPrimitiveValue.CSS_RGBCOLOR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_RGBCOLOR поле. Значение представляет собой цвет RGB. Значение можно получить, используя метод GetRGBColorValue."
 type: docs
-weight: 370
+weight: 380
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_rgbcolor/
 ---
 ## CSSPrimitiveValue.CSS_RGBCOLOR field
 
-Значение представляет собой цвет RGB. Значение можно получить с помощью метода GetRGBColorValue.
+Значение — это цвет RGB. Значение можно получить, используя метод GetRGBColorValue.
 
 ```csharp
 public const ushort CSS_RGBCOLOR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

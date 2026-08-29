@@ -1,7 +1,7 @@
 ---
-title: GraphicContext.TransformationMatrix
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. Устанавливает или получает матрицу преобразования.
+title: "GraphicContext.TransformationMatrix"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext TransformationMatrix. Устанавливает или получает матрицу преобразования."
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.rendering/graphiccontext/transformationmatrix/
@@ -11,13 +11,12 @@ url: /ru/net/aspose.svg.rendering/graphiccontext/transformationmatrix/
 Устанавливает или получает матрицу преобразования.
 
 ```csharp
-public virtual Matrix TransformationMatrix { get; set; }
+public virtual IMatrix TransformationMatrix { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

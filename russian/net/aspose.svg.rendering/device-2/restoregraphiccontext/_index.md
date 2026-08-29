@@ -1,12 +1,12 @@
 ---
-title: Device2.RestoreGraphicContext
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Восстанавливает весь графический контекст до его прежнего значения извлекая его из стека.
+title: "Device-2.RestoreGraphicContext"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Device RestoreGraphicContext. Восстанавливает весь графический контекст до его прежнего значения, извлекая его из стека"
 type: docs
-weight: 200
+weight: 230
 url: /ru/net/aspose.svg.rendering/device-2/restoregraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.RestoreGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.RestoreGraphicContext method
 
 Восстанавливает весь графический контекст до его прежнего значения, извлекая его из стека.
 
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering/device-2/restoregraphiccontext/
 public virtual void RestoreGraphicContext()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

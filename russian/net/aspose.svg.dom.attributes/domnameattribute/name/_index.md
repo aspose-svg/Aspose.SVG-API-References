@@ -1,7 +1,7 @@
 ---
-title: DOMNameAttribute.Name
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMNameAttribute свойство. Получает имя DOM.
+title: "DOMNameAttribute.Name"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Name класса DOMNameAttribute. Получает имя DOM"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.attributes/domnameattribute/name/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom.attributes/domnameattribute/name/
 public string Name { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя.
 
-### Смотрите также
+### См. также
 
 * class [DOMNameAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Element.SetAttributeNodeNS
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Добавляет новый атрибут. Если атрибут с таким локальным именем и этим URI пространства имен уже присутствует в элементе он заменяется новым.
+title: "Element.SetAttributeNodeNS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element SetAttributeNodeNS. Добавляет новый атрибут. Если атрибут с таким локальным именем и URI пространства имён уже присутствует в элементе, он заменяется новым."
 type: docs
 weight: 420
 url: /ru/net/aspose.svg.dom/element/setattributenodens/
 ---
 ## Element.SetAttributeNodeNS method
 
-Добавляет новый атрибут. Если атрибут с таким локальным именем и этим URI пространства имен уже присутствует в элементе, он заменяется новым.
+Добавляет новый атрибут. Если атрибут с таким локальным именем и URI пространства имён уже присутствует в элементе, он заменяется новым.
 
 ```csharp
 public Attr SetAttributeNodeNS(Attr newAttr)
@@ -22,11 +22,9 @@ public Attr SetAttributeNodeNS(Attr newAttr)
 
 Возвращает атрибут
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

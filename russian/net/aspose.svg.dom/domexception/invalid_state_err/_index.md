@@ -1,23 +1,21 @@
 ---
-title: DOMException.INVALID_STATE_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Если делается попытка использовать объект который не является или больше не может использоваться.
+title: "DOMException.INVALID_STATE_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException INVALID_STATE_ERR. Если попытка использовать объект, который недоступен или более не пригоден"
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.dom/domexception/invalid_state_err/
 ---
 ## DOMException.INVALID_STATE_ERR field
 
-Если делается попытка использовать объект, который не является или больше не может использоваться.
+Если попытка использовать объект, который не является или больше не является пригодным.
 
 ```csharp
 public const ushort INVALID_STATE_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

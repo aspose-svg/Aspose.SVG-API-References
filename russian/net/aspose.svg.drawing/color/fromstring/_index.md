@@ -1,14 +1,14 @@
 ---
-title: Color.FromString
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Разбирает строку содержащую цвет CSS и возвращает новый цвет.
+title: "Color.FromString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromString. Разбирает строку, содержащую CSS‑цвет, и возвращает новый Color."
 type: docs
 weight: 220
 url: /ru/net/aspose.svg.drawing/color/fromstring/
 ---
 ## Color.FromString method
 
-Разбирает строку, содержащую цвет CSS, и возвращает новый цвет.
+Разбирает строку, содержащую CSS-цвет, и возвращает новый Color.
 
 ```csharp
 public static Color FromString(string color)
@@ -16,16 +16,14 @@ public static Color FromString(string color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | String | Строка, содержащая цвет в формате RGB, HEX, HSL, HSV, HWB, CMYK, NCOL, LCH, OKLCH, LAB или OKLAB. |
+| цвет | String | Строка, содержащая цвет в формате RGB, HEX, HSL, HSV, HWB, CMYK, NCOL, LCH, OKLCH, LAB или OKLAB. |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

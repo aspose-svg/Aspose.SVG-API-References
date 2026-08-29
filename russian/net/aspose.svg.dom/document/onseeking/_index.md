@@ -1,24 +1,22 @@
 ---
-title: Document.OnSeeking
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnSeeking.
+title: "Document.OnSeeking"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnSeeking. Получает или задаёт обработчик события OnSeeking"
 type: docs
 weight: 690
 url: /ru/net/aspose.svg.dom/document/onseeking/
 ---
 ## Document.OnSeeking event
 
-Получает или задает обработчик события OnSeeking.
+Получает или задает обработчик события для события OnSeeking.
 
 ```csharp
 public event DOMEventHandler OnSeeking;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

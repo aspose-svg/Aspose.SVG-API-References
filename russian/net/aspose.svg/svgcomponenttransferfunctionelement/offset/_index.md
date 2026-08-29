@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Offset
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement свойство. Соответствует смещению атрибута данного элемента.
+title: "SVGComponentTransferFunctionElement.Offset"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Offset класса SVGComponentTransferFunctionElement. Соответствует атрибуту offset в данном элементе."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/offset/
 ---
 ## SVGComponentTransferFunctionElement.Offset property
 
-Соответствует смещению атрибута данного элемента.
+Соответствует атрибуту ‘offset’ в данном элементе.
 
 ```csharp
 public SVGAnimatedNumber Offset { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «смещение» данного элемента.
+Атрибут ‘offset’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

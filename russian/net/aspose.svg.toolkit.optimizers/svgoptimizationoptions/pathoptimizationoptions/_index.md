@@ -1,24 +1,22 @@
 ---
-title: SVGOptimizationOptions.PathOptimizationOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGOptimizationOptions свойство. Получает или задает параметрSVGPathOptimizationOptions . Если этот параметр равен нулю то оптимизация элемента пути не будет выполняться.
+title: "SVGOptimizationOptions.PathOptimizationOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGOptimizationOptions PathOptimizationOptions. Получает или задает параметр SVGPathOptimizationOptions. Если этот параметр равен null, оптимизация элементов пути не будет выполнена."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/
 ---
 ## SVGOptimizationOptions.PathOptimizationOptions property
 
-Получает или задает параметр[`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/) . Если этот параметр равен нулю, то оптимизация элемента пути не будет выполняться.
+Получает или задает параметр [`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/). Если этот параметр равен null, оптимизация элементов пути не будет выполнена.
 
 ```csharp
 public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathOptimizationOptions](../../svgpathoptimizationoptions/)
 * class [SVGOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

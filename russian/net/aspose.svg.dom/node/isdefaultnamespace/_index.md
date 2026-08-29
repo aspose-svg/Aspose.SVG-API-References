@@ -1,14 +1,14 @@
 ---
-title: Node.IsDefaultNamespace
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node метод. Этот метод проверяет является ли указанный namespaceURI пространством имен по умолчанию или нет.
+title: "Node.IsDefaultNamespace"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Node IsDefaultNamespace. Этот метод проверяет, является ли указанный namespaceURI пространством имён по умолчанию или нет."
 type: docs
-weight: 230
+weight: 210
 url: /ru/net/aspose.svg.dom/node/isdefaultnamespace/
 ---
 ## Node.IsDefaultNamespace method
 
-Этот метод проверяет, является ли указанный namespaceURI пространством имен по умолчанию или нет.
+Этот метод проверяет, является ли указанный namespaceURI пространством имён по умолчанию.
 
 ```csharp
 public bool IsDefaultNamespace(string namespaceURI)
@@ -16,16 +16,14 @@ public bool IsDefaultNamespace(string namespaceURI)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
+| namespaceURI | String | URI пространства имён. |
 
 ### Возвращаемое значение
 
-`истинный` if [является пространством имен по умолчанию] [указанный URI пространства имен]; в противном случае,`ЛОЖЬ` .
+`true` если [is default namespace] [указанный URI пространства имён]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

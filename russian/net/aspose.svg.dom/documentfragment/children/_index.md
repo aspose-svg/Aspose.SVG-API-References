@@ -1,7 +1,7 @@
 ---
-title: DocumentFragment.Children
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentFragment свойство. Возвращает дочерние элементы текущего элемента.
+title: "DocumentFragment.Children"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство DocumentFragment Children. Возвращает дочерние элементы текущего элемента"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/documentfragment/children/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom/documentfragment/children/
 public HTMLCollection Children { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Детская коллекция
+Коллекция дочерних элементов
 
-### Смотрите также
+### См. также
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [DocumentFragment](../)
-* пространство имен [Aspose.Svg.Dom](../../documentfragment/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

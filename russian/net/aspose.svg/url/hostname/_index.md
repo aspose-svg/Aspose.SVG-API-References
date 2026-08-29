@@ -1,27 +1,25 @@
 ---
-title: Url.Hostname
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url свойство. Получает или задает строковое представление для указанного имени узла URL.
+title: "Url.Hostname"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Url Hostname. Получает или задает строковое представление указанного имени хоста URL"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/url/hostname/
 ---
 ## Url.Hostname property
 
-Получает или задает строковое представление для указанного имени узла URL.
+Получает или задает строковое представление указанного имени хоста URL.
 
 ```csharp
 public string Hostname { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя хоста.
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

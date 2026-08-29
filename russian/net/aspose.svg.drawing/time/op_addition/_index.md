@@ -1,7 +1,7 @@
 ---
-title: Time.op_Addition
-second_title: Справочник по Aspose.SVG для .NET API
-description: Time метод. Реализует оператор .
+title: "Time.op_Addition"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод op_Addition структуры Time. Реализует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/time/op_addition/
@@ -16,8 +16,8 @@ public static Time operator +(Time a, Time b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Time | Параметр а. |
-| b | Time | Параметр б. |
+| a | Time | Параметр a. |
+| b | Time | Параметр b. |
 
 ### Возвращаемое значение
 
@@ -27,13 +27,11 @@ public static Time operator +(Time a, Time b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргументы пусты |
-| ArgumentException | Аргументы имеют разные типы или Аргументы имеют разное разрешение или |
+| ArgumentNullException | Аргументы равны null |
+| ArgumentException | Аргументы имеют разные типы или аргументы имеют разное разрешение или |
 
-### Смотрите также
+### См. также
 
 * class [Time](../)
-* пространство имен [Aspose.Svg.Drawing](../../time/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

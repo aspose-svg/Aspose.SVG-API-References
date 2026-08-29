@@ -1,7 +1,7 @@
 ---
-title: ResponseMessage.Headers
-second_title: Справочник по Aspose.SVG для .NET API
-description: ResponseMessage свойство. Получает заголовки.
+title: "ResponseMessage.Headers"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ResponseMessage Headers свойство. Получает заголовки"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.net/responsemessage/headers/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.net/responsemessage/headers/
 public ResponseHeaders Headers { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Заголовки.
 
-### Смотрите также
+### См. также
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* пространство имен [Aspose.Svg.Net](../../responsemessage/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

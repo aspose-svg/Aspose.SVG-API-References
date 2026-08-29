@@ -1,27 +1,25 @@
 ---
-title: Element.OuterHTML
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. Возвращает фрагмент HTML или XML представляющий элемент и его содержимое. Может быть установлено чтобы заменить элемент узлами проанализированными из заданной строки.
+title: "Element.OuterHTML"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element OuterHTML. Возвращает фрагмент HTML или XML, представляющий элемент и его содержимое. Может быть установлено для замены элемента узлами, разобранными из заданной строки"
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.dom/element/outerhtml/
 ---
 ## Element.OuterHTML property
 
-Возвращает фрагмент HTML или XML, представляющий элемент и его содержимое. Может быть установлено, чтобы заменить элемент узлами, проанализированными из заданной строки.
+Возвращает фрагмент HTML или XML, представляющий элемент и его содержимое. Можно установить, чтобы заменить элемент узлами, разобранными из заданной строки.
 
 ```csharp
 public string OuterHTML { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Внешний HTML.
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

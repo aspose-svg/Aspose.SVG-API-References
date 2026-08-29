@@ -1,28 +1,26 @@
 ---
-title: Aspose.Svg.Dom.Attributes
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Attributes пространство имен содержит унифицированные классы атрибутов которые определяют или квалифицируют свойства или поведение любого объекта узла элемента и т. д..
+title: "Aspose.Svg.Dom.Attributes"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имен Aspose.Svg.Dom.Attributes содержит унифицированные классы атрибутов, которые определяют или уточняют любой элемент узла объекта ... функцию или поведение."
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.svg.dom.attributes/
 ---
-**Aspose.Svg.Dom.Attributes** пространство имен содержит унифицированные классы атрибутов, которые определяют или квалифицируют свойства или поведение любого объекта (узла, элемента и т. д.).
+Пространство имён **Aspose.Svg.Dom.Attributes** содержит унифицированные классы атрибутов, которые определяют или уточняют любые свойства или поведение объектов (узла, элемента и т.д.).
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [DOMConstructorAttribute](./domconstructorattribute/) | Задает конструктор, определенный W3C. |
-| [DOMNameAttribute](./domnameattribute/) | Указывает официальное имя объекта DOM, как оно определено W3C. |
-| [DOMNamedPropertyGetterAttribute](./domnamedpropertygetterattribute/) | Указывает, что метод будет использоваться как получатель именованного свойства. |
-| [DOMNoInterfaceObjectAttribute](./domnointerfaceobjectattribute/) | Если в интерфейсе появляется расширенный атрибут [NoInterfaceObject], это означает, что объект интерфейса не будет существовать для интерфейса в привязке ECMAScript. |
-| [DOMNullableAttribute](./domnullableattribute/) | Указывает, что объекту DOM может быть присвоено нулевое значение. |
-| [DOMObjectAttribute](./domobjectattribute/) | Указывает, что объект помечен этим атрибутом, определенным W3C. |
+| [DOMConstructorAttribute](./domconstructorattribute/) | Указывает конструктор, определённый W3C. |
+| [DOMNameAttribute](./domnameattribute/) | Указывает официальное имя объекта DOM, как определено W3C. |
+| [DOMNamedPropertyGetterAttribute](./domnamedpropertygetterattribute/) | Указывает, что метод будет использоваться как именованный геттер свойства. |
+| [DOMNoInterfaceObjectAttribute](./domnointerfaceobjectattribute/) | Если расширенный атрибут [NoInterfaceObject] появляется в интерфейсе, это указывает, что объект интерфейса не будет существовать для данного интерфейса в привязке ECMAScript. |
+| [DOMNullableAttribute](./domnullableattribute/) | Указывает, что объект DOM может быть присвоен значение null. |
+| [DOMObjectAttribute](./domobjectattribute/) | Указывает, что объект, помеченный этим атрибутом, определён W3C. |
 | [DOMTreatNullAsAttribute](./domtreatnullasattribute/) | Указывает, что null значения члена будет рассматриваться как указанное значение. |
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [Accessors](./accessors/) | Представляет перечисление средств доступа к членам, определенное W3C. |
-
-
+| [Accessors](./accessors/) | Представляет перечисление аксессоров членов, определённое W3C. |

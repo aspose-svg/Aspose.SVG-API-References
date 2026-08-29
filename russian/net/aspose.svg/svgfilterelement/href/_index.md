@@ -1,28 +1,26 @@
 ---
-title: SVGFilterElement.Href
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFilterElement свойство. Соответствует атрибуту xlinkhref данного элемента.
+title: "SVGFilterElement.Href"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Href класса SVGFilterElement. Соответствует атрибуту xlinkhref данного элемента"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgfilterelement/href/
 ---
 ## SVGFilterElement.Href property
 
-Соответствует атрибуту 'xlink:href' данного элемента.
+Соответствует атрибуту ‘xlink:href’ у указанного элемента.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-'xlink:href' данного элемента.
+‘xlink:href’ заданного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFilterElement](../)
-* пространство имен [Aspose.Svg](../../svgfilterelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcRel.SweepFlag
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegArcRel свойство. Значение параметра флага развертки.
+title: "SVGPathSegArcRel.SweepFlag"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathSegArcRel SweepFlag. Значение параметра sweep-flag"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.paths/svgpathsegarcrel/sweepflag/
 ---
 ## SVGPathSegArcRel.SweepFlag property
 
-Значение параметра флага развертки.
+Значение параметра sweep-flag.
 
 ```csharp
 public bool SweepFlag { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Параметр флага развертки.
+Параметр sweep-flag.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegArcRel](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegarcrel/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

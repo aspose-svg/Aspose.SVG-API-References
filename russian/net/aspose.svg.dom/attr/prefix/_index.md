@@ -1,27 +1,25 @@
 ---
-title: Attr.Prefix
-second_title: Справочник по Aspose.SVG для .NET API
-description: Attr свойство. Префикс пространства имен этого узла или нуль если он не указан. Когда он определен как нуль его установка не имеет никакого эффекта
+title: "Attr.Prefix"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Attr Prefix. Префикс пространства имён этого узла или null, если он не указан. Когда он определён как null, установка значения не оказывает эффекта."
 type: docs
-weight: 90
+weight: 80
 url: /ru/net/aspose.svg.dom/attr/prefix/
 ---
 ## Attr.Prefix property
 
-Префикс пространства имен этого узла или нуль, если он не указан. Когда он определен как нуль, его установка не имеет никакого эффекта
+Префикс пространства имён этого узла, или null, если он не указан. Когда он задан как null, попытка установить его не оказывает эффекта.
 
 ```csharp
 public override string Prefix { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Префикс.
 
-### Смотрите также
+### См. также
 
 * class [Attr](../)
-* пространство имен [Aspose.Svg.Dom](../../attr/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

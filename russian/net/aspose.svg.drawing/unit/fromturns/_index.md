@@ -1,14 +1,14 @@
 ---
-title: Unit.FromTurns
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit метод. ВозвращаетAngle объект представленный по очереди.
+title: "Unit.FromTurns"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Unit FromTurns. Возвращает объект Angle, представленный в оборотах"
 type: docs
 weight: 220
 url: /ru/net/aspose.svg.drawing/unit/fromturns/
 ---
 ## Unit.FromTurns method
 
-Возвращает[`Angle`](../../angle/) объект, представленный по очереди.
+Возвращает объект [`Angle`](../../angle/) , представленный в оборотах.
 
 ```csharp
 public static Angle FromTurns(double value)
@@ -16,17 +16,15 @@ public static Angle FromTurns(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение. |
+| значение | Double | Значение. |
 
 ### Возвращаемое значение
 
-Возвращает[`Angle`](../../angle/) объект.
+Возвращает объект [`Angle`](../../angle/) .
 
-### Смотрите также
+### См. также
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

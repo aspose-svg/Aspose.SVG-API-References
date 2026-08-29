@@ -1,24 +1,22 @@
 ---
-title: IDevice.Options
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice свойство. Получает параметры рендеринга.
+title: "IDevice.Options"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IDevice Options. Возвращает параметры рендеринга"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering/idevice/options/
 ---
 ## IDevice.Options property
 
-Получает параметры рендеринга.
+Получает параметры отрисовки.
 
 ```csharp
 public RenderingOptions Options { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [RenderingOptions](../../renderingoptions/)
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

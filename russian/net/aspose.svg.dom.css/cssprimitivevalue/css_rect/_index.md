@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_RECT
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой прямоугольную функцию. Значение можно получить с помощью метода GetRectValue.
+title: "CSSPrimitiveValue.CSS_RECT"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле CSS_RECT класса CSSPrimitiveValue. Значение — функция rect. Значение можно получить, используя метод GetRectValue."
 type: docs
-weight: 350
+weight: 360
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_rect/
 ---
 ## CSSPrimitiveValue.CSS_RECT field
 
-Значение представляет собой прямоугольную функцию. Значение можно получить с помощью метода GetRectValue.
+Значение — это функция rect. Значение можно получить, используя метод GetRectValue.
 
 ```csharp
 public const ushort CSS_RECT;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

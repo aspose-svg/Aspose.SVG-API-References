@@ -1,7 +1,7 @@
 ---
-title: License.License
-second_title: Справочник по Aspose.SVG для .NET API
-description: License строитель. Инициализирует новый экземпляр этого класса.
+title: "Лицензия"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор License. Инициализирует новый экземпляр этого класса"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/license/license/
@@ -14,9 +14,9 @@ url: /ru/net/aspose.svg/license/license/
 public License()
 ```
 
-### Примеры
+## Примеры
 
-В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей  компонент в папке, содержащей вызывающую сборку, в папке входной сборки, а затем во встроенных ресурсах вызывающей сборки.
+В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке основной сборки, а затем во встроенных ресурсах вызывающей сборки.
 
 ```csharp
 [C#]
@@ -32,10 +32,8 @@ License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### Смотрите также
+### См. также
 
 * class [License](../)
-* пространство имен [Aspose.Svg](../../license/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Element.TagName
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. Имя элемента.
+title: "Element.TagName"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element TagName. Имя элемента."
 type: docs
-weight: 210
+weight: 200
 url: /ru/net/aspose.svg.dom/element/tagname/
 ---
 ## Element.TagName property
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/element/tagname/
 public string TagName { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя элемента.
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

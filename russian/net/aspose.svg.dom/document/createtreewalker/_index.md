@@ -1,14 +1,14 @@
 ---
-title: Document.CreateTreeWalker
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
+title: "Document.CreateTreeWalker"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateTreeWalker. Создаёт новый TreeWalker над поддеревом, корнем которого является указанный узел."
 type: docs
 weight: 940
 url: /ru/net/aspose.svg.dom/document/createtreewalker/
 ---
-## CreateTreeWalker(Node) {#createtreewalker}
+## CreateTreeWalker(*[Node](../../node/)*) {#createtreewalker}
 
-Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
+Создайте новый TreeWalker над поддеревом, корневым в указанном узле.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
@@ -16,7 +16,7 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
+| корень | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, видим он или нет. Корень служит точкой остановки для методов обхода, которые поднимаются вверх по структуре документа, таких как parentNode и nextNode. Корень не должен быть null. |
 
 ### Возвращаемое значение
 
@@ -26,21 +26,21 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень равен null. |
 
-### Смотрите также
+### См. также
 
 * interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
 * class [Node](../../node/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long) {#createtreewalker_1}
+## CreateTreeWalker(*[Node](../../node/), long*) {#createtreewalker_1}
 
-Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
+Создайте новый TreeWalker над поддеревом, корневым в указанном узле.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
@@ -48,8 +48,8 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
-| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представленного обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью оператора ИЛИ. |
+| корень | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, видим он или нет. Корень служит точкой остановки для методов обхода, которые поднимаются вверх по структуре документа, таких как parentNode и nextNode. Корень не должен быть null. |
+| whatToShow | Int64 | Флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представленного tree-walker‑ом. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью OR. |
 
 ### Возвращаемое значение
 
@@ -59,21 +59,21 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень равен null. |
 
-### Смотрите также
+### См. также
 
 * interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
 * class [Node](../../node/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[Node](../../node/), long, [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter/)*) {#createtreewalker_2}
 
-Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
+Создайте новый TreeWalker над поддеревом, корневым в указанном узле.
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
@@ -81,9 +81,9 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
-| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представленного обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью оператора ИЛИ. |
-| filter | INodeFilter | NodeFilter для использования с this TreeWalker или null, чтобы указать отсутствие фильтра. |
+| корень | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, видим он или нет. Корень служит точкой остановки для методов обхода, которые поднимаются вверх по структуре документа, таких как parentNode и nextNode. Корень не должен быть null. |
+| whatToShow | Int64 | Флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представленного tree-walker‑ом. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью OR. |
+| filter | INodeFilter | NodeFilter, используемый с этим TreeWalker, или null, указывающий отсутствие фильтра. |
 
 ### Возвращаемое значение
 
@@ -93,15 +93,13 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень равен null. |
 
-### Смотрите также
+### См. также
 
 * interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
 * class [Node](../../node/)
 * interface [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: StencilConfiguration.Color
-second_title: Справочник по Aspose.SVG для .NET API
-description: StencilConfiguration свойство. Получает или задает цвет для отрисовки линий трафарета для типа MonoColor.
+title: "StencilConfiguration.Color"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Color класса StencilConfiguration. Возвращает или задает цвет для отрисовки линий трафарета для типа MonoColor."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.imagevectorization/stencilconfiguration/color/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.imagevectorization/stencilconfiguration/color/
 public Color Color { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Color](../../../aspose.svg.drawing/color/)
 * class [StencilConfiguration](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

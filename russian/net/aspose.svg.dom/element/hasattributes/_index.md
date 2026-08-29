@@ -1,27 +1,25 @@
 ---
-title: Element.HasAttributes
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Возвращает имеет ли этот узел если это элемент какиелибо атрибуты
+title: "Element.HasAttributes"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element HasAttributes. Возвращает, имеет ли этот узел, если он является элементом, какие-либо атрибуты"
 type: docs
 weight: 330
 url: /ru/net/aspose.svg.dom/element/hasattributes/
 ---
 ## Element.HasAttributes method
 
-Возвращает, имеет ли этот узел (если это элемент) какие-либо атрибуты
+Возвращает, имеет ли этот узел (если это элемент) какие‑либо атрибуты
 
 ```csharp
-public override bool HasAttributes()
+public bool HasAttributes()
 ```
 
 ### Возвращаемое значение
 
-логическое значение`истинный` если этот узел имеет какие-либо атрибуты,`ЛОЖЬ` иначе.
+логическое `true`, если у этого узла есть атрибуты, `false` в противном случае.
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

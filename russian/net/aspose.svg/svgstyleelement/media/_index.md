@@ -1,33 +1,31 @@
 ---
-title: SVGStyleElement.Media
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGStyleElement свойство. Соответствует атрибуту media данного элемента.
+title: "SVGStyleElement.Media"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Media класса SVGStyleElement. Соответствует атрибуту media в указанном элементе."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgstyleelement/media/
 ---
 ## SVGStyleElement.Media property
 
-Соответствует атрибуту 'media' данного элемента.
+Соответствует атрибуту ‘media’ в данном элементе.
 
 ```csharp
 public string Media { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «медиа» для данного элемента.
+Атрибут ‘media’ в указанном элементе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGStyleElement](../)
-* пространство имен [Aspose.Svg](../../svgstyleelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

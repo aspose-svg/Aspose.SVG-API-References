@@ -1,23 +1,21 @@
 ---
-title: ICSSCounterStyleRule.Name
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSCounterStyleRule свойство. Получает имя.
+title: "ICSSCounterStyleRule.Name"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Name интерфейса ICSSCounterStyleRule. Возвращает имя"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.css/icsscounterstylerule/name/
 ---
 ## ICSSCounterStyleRule.Name property
 
-Получает имя.
+Возвращает имя.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSCounterStyleRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

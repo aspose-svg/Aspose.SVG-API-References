@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Dy
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDropShadowElement свойство. Соответствует атрибуту dy в данном элементе feDropShadow.
+title: "SVGFEDropShadowElement.Dy"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEDropShadowElement Dy свойство. Соответствует атрибуту dy в данном элементе feDropShadow"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfedropshadowelement/dy/
 ---
 ## SVGFEDropShadowElement.Dy property
 
-Соответствует атрибуту dy в данном элементе feDropShadow.
+Соответствует атрибуту ‘dy’ указанного элемента ‘feDropShadow’.
 
 ```csharp
 public SVGAnimatedNumber Dy { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут dy данного элемента feDropShadow.
+Атрибут ‘dy’ данного элемента ‘feDropShadow’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

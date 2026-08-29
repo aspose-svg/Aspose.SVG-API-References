@@ -1,14 +1,14 @@
 ---
-title: Class PdfDevice
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.Pdf.PdfDevice сорт. Представляет рендеринг в документ PDF.
+title: "Класс PdfDevice"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Rendering.Pdf.PdfDevice. Представляет рендеринг в PDF‑документ"
 type: docs
-weight: 2950
+weight: 5020
 url: /ru/net/aspose.svg.rendering.pdf/pdfdevice/
 ---
 ## PdfDevice class
 
-Представляет рендеринг в документ PDF.
+Представляет рендеринг в PDF‑документ.
 
 ```csharp
 public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
@@ -18,59 +18,60 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 
 | Имя | Описание |
 | --- | --- |
-| [PdfDevice](pdfdevice/#constructor)(ICreateStreamProvider) | Инициализирует новый экземпляр`PdfDevice` класс. |
-| [PdfDevice](pdfdevice/#constructor_4)(Stream) | Инициализирует новый экземпляр`PdfDevice` класс. |
-| [PdfDevice](pdfdevice/#constructor_5)(string) | Инициализирует новый экземпляр`PdfDevice` класс. |
-| [PdfDevice](pdfdevice/#constructor_1)(PdfRenderingOptions, ICreateStreamProvider) | Инициализирует новый экземпляр`PdfDevice` класс по параметрам рендеринга и потоковому провайдеру. |
-| [PdfDevice](pdfdevice/#constructor_2)(PdfRenderingOptions, Stream) | Инициализирует новый экземпляр`PdfDevice` класс по параметрам рендеринга и выходному потоку. |
-| [PdfDevice](pdfdevice/#constructor_3)(PdfRenderingOptions, string) | Инициализирует новый экземпляр`PdfDevice` класс по параметрам рендеринга и имени выходного файла. |
+| [PdfDevice](pdfdevice/#constructor)(*[ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | Инициализирует новый экземпляр класса `PdfDevice`. |
+| [PdfDevice](pdfdevice/#constructor_4)(*Stream*) | Инициализирует новый экземпляр класса `PdfDevice`. |
+| [PdfDevice](pdfdevice/#constructor_5)(*string*) | Инициализирует новый экземпляр класса `PdfDevice`. |
+| [PdfDevice](pdfdevice/#constructor_1)(*[PdfRenderingOptions](../pdfrenderingoptions/), [ICreateStreamProvider](../../aspose.svg.io/icreatestreamprovider/)*) | Инициализирует новый экземпляр класса `PdfDevice` с параметрами рендеринга и поставщиком потока. |
+| [PdfDevice](pdfdevice/#constructor_2)(*[PdfRenderingOptions](../pdfrenderingoptions/), Stream*) | Инициализирует новый экземпляр класса `PdfDevice` с параметрами рендеринга и выходным потоком. |
+| [PdfDevice](pdfdevice/#constructor_3)(*[PdfRenderingOptions](../pdfrenderingoptions/), string*) | Инициализирует новый экземпляр класса `PdfDevice` с параметрами рендеринга и именем выходного файла. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [GraphicContext](../../aspose.svg.rendering/device-2/graphiccontext/) { get; } |  |
 | [Options](../../aspose.svg.rendering/device-2/options/) { get; } |  |
+| virtual [Configuration](../../aspose.svg.rendering/device-2/configuration/) { get; } |  |
+| [OutputStream](../../aspose.svg.rendering/device-2/outputstream/) { get; } |  |
+| [StreamProvider](../../aspose.svg.rendering/device-2/streamprovider/) { get; } |  |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [AddRect](../../aspose.svg.rendering.pdf/pdfdevice/addrect/)(RectangleF) | Добавляет прямоугольник к текущему пути в качестве полного подпути. |
-| override [BeginDocument](../../aspose.svg.rendering.pdf/pdfdevice/begindocument/)(Document) | Начинает визуализацию документа. |
-| override [BeginElement](../../aspose.svg.rendering.pdf/pdfdevice/beginelement/)(Element, RectangleF) | Начинает визуализацию элемента. |
-| override [BeginPage](../../aspose.svg.rendering.pdf/pdfdevice/beginpage/)(SizeF) | Начинает рендеринг новой страницы. |
-| override [Clip](../../aspose.svg.rendering.pdf/pdfdevice/clip/)(FillMode) | Изменяет текущий путь отсечения, пересекая его с текущим путем, используя правило FillMode для определения области для заполнения. Этот метод завершает текущий путь. |
-| override [ClosePath](../../aspose.svg.rendering.pdf/pdfdevice/closepath/)() | Закрывает текущий подконтур, добавляя отрезок прямой линии от текущей точки до начальной точки подконтура. Если текущий подпуть уже закрыт, "ClosePath" ничего не делает. Этот оператор завершает текущий подпуть. При добавлении другого сегмента к текущему пути начинается новый подпуть, , даже если новый сегмент начинается в конечной точке, достигнутой методом ClosePath. |
-| override [CubicBezierTo](../../aspose.svg.rendering.pdf/pdfdevice/cubicbezierto/)(PointF, PointF, PointF) | Добавляет кубическую кривую Безье к текущему пути. Кривая продолжается от текущей точки до точки pt2, , используя pt1 и pt2 в качестве контрольных точек Безье. Новая текущая точка - pt3. |
+| virtual [AddRect](../../aspose.svg.rendering/device-2/addrect/)(*RectangleF*) |  |
+| virtual [BeginDocument](../../aspose.svg.rendering/device-2/begindocument/)(*[Document](../../aspose.svg.dom/document/)*) |  |
+| virtual [BeginElement](../../aspose.svg.rendering/device-2/beginelement/)(*[Element](../../aspose.svg.dom/element/), RectangleF*) |  |
+| virtual [BeginPage](../../aspose.svg.rendering/device-2/beginpage/)(*SizeF*) |  |
+| virtual [Clip](../../aspose.svg.rendering/device-2/clip/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [ClosePath](../../aspose.svg.rendering/device-2/closepath/)() |  |
+| virtual [CubicBezierTo](../../aspose.svg.rendering/device-2/cubicbezierto/)(*PointF, PointF, PointF*) |  |
 | [Dispose](../../aspose.svg.rendering/device-2/dispose/)() |  |
-| override [DrawImage](../../aspose.svg.rendering.pdf/pdfdevice/drawimage/)(byte[], ImageType, RectangleF) | Рисует указанное изображение. |
-| override [EndDocument](../../aspose.svg.rendering.pdf/pdfdevice/enddocument/)() | Завершает визуализацию документа. |
-| override [EndElement](../../aspose.svg.rendering.pdf/pdfdevice/endelement/)(Element) | Завершает визуализацию элемента. |
-| override [EndPage](../../aspose.svg.rendering.pdf/pdfdevice/endpage/)() | Завершает визуализацию текущей страницы. |
-| override [Fill](../../aspose.svg.rendering.pdf/pdfdevice/fill/)(FillMode) | Заполняет всю область, ограниченную текущим путем. Если путь состоит из нескольких несвязанных подпутей, он заполняет внутренности всех подпутей, рассматриваемых вместе. Этот метод завершает текущий путь. |
-| override [FillText](../../aspose.svg.rendering.pdf/pdfdevice/filltext/)(string, PointF) | Заполняет указанную текстовую строку в указанном месте. |
-| override [Flush](../../aspose.svg.rendering.pdf/pdfdevice/flush/)() | Сбрасывает все данные в выходной поток. |
-| override [LineTo](../../aspose.svg.rendering.pdf/pdfdevice/lineto/)(PointF) | Добавляет отрезок прямой от текущей точки до точки (pt). Новая текущая точка - pt. |
-| override [MoveTo](../../aspose.svg.rendering.pdf/pdfdevice/moveto/)(PointF) | Начинает новый подпуть, перемещая текущую точку в координаты параметра pt, опуская любой соединительный отрезок. Если предыдущий метод построения пути в текущем пути также был "MoveTo", новый "MoveTo" переопределяет его; в пути не осталось следов предыдущей операции "MoveTo". |
-| override [RestoreGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice/restoregraphiccontext/)() | Восстанавливает весь графический контекст до его прежнего значения, извлекая его из стека. |
-| override [SaveGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice/savegraphiccontext/)() | Помещает копию всего графического контекста в стек. |
-| override [Stroke](../../aspose.svg.rendering.pdf/pdfdevice/stroke/)() | Проводит линию по текущему пути. Заштрихованная линия следует за каждым прямым или изогнутым сегментом пути, центрируется на сегменте со сторонами, параллельными ему. Каждый из подпутей пути обрабатывается отдельно. Этот метод завершает текущий путь. |
-| override [StrokeAndFill](../../aspose.svg.rendering.pdf/pdfdevice/strokeandfill/)(FillMode) | Штрихует и заполняет текущий путь. Этот метод завершает текущий путь. |
-| override [StrokeText](../../aspose.svg.rendering.pdf/pdfdevice/stroketext/)(string, PointF) | Перемещает указанную текстовую строку в указанном месте. |
+| virtual [DrawImage](../../aspose.svg.rendering/device-2/drawimage/)(*byte[], [WebImageFormat](../../aspose.svg.drawing/webimageformat/), RectangleF*) |  |
+| virtual [EndDocument](../../aspose.svg.rendering/device-2/enddocument/)() |  |
+| virtual [EndElement](../../aspose.svg.rendering/device-2/endelement/)(*[Element](../../aspose.svg.dom/element/)*) |  |
+| virtual [EndPage](../../aspose.svg.rendering/device-2/endpage/)() |  |
+| virtual [Fill](../../aspose.svg.rendering/device-2/fill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [FillText](../../aspose.svg.rendering/device-2/filltext/)(*string, PointF*) |  |
+| virtual [Flush](../../aspose.svg.rendering/device-2/flush/)() |  |
+| virtual [LineTo](../../aspose.svg.rendering/device-2/lineto/)(*PointF*) |  |
+| virtual [MoveTo](../../aspose.svg.rendering/device-2/moveto/)(*PointF*) |  |
+| virtual [RestoreGraphicContext](../../aspose.svg.rendering/device-2/restoregraphiccontext/)() |  |
+| virtual [SaveGraphicContext](../../aspose.svg.rendering/device-2/savegraphiccontext/)() |  |
+| virtual [Stroke](../../aspose.svg.rendering/device-2/stroke/)() |  |
+| virtual [StrokeAndFill](../../aspose.svg.rendering/device-2/strokeandfill/)(*[FillRule](../../aspose.svg.drawing/fillrule/)*) |  |
+| virtual [StrokeText](../../aspose.svg.rendering/device-2/stroketext/)(*string, PointF*) |  |
 
 ## Другие члены
 
 | Имя | Описание |
 | --- | --- |
-| class [PdfGraphicContext](pdfdevice.pdfgraphiccontext/) | Содержит текущие параметры управления графикой для PdfDevice. Эти параметры определяют глобальную структуру, в которой выполняются графические операторы. |
+| class [PdfGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext) | Содержит текущие параметры управления графикой для PdfDevice. Эти параметры определяют глобальную структуру, в которой выполняются графические операторы. |
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../../aspose.svg.rendering/device-2/)
 * class [PdfGraphicContext](../pdfdevice.pdfgraphiccontext/)
 * class [PdfRenderingOptions](../pdfrenderingoptions/)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

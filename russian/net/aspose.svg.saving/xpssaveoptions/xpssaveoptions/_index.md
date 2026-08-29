@@ -1,7 +1,7 @@
 ---
-title: XpsSaveOptions.XpsSaveOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: XpsSaveOptions строитель. Конструктор по умолчанию.
+title: "XpsSaveOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор XpsSaveOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.saving/xpssaveoptions/xpssaveoptions/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.saving/xpssaveoptions/xpssaveoptions/
 public XpsSaveOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XpsSaveOptions](../)
-* пространство имен [Aspose.Svg.Saving](../../xpssaveoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.FirstElementChild
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentFragment свойство. Возвращает первый узел дочернего элемента этого элемента. null если у этого элемента нет дочерних элементов.
+title: "DocumentFragment.FirstElementChild"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "DocumentFragment FirstElementChild property. Возвращает первый дочерний узел‑элемент этого элемента. null, если у этого элемента нет дочерних элементов."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/documentfragment/firstelementchild/
 ---
 ## DocumentFragment.FirstElementChild property
 
-Возвращает первый узел дочернего элемента этого элемента. null, если у этого элемента нет дочерних элементов.
+Возвращает первый дочерний узел-элемент этого элемента. null, если у этого элемента нет дочерних элементов.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Первый дочерний элемент.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* пространство имен [Aspose.Svg.Dom](../../documentfragment/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

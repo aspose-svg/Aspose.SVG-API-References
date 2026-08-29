@@ -1,14 +1,14 @@
 ---
-title: Color.ToUint
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Кодирует компоненты Color ARGB в беззнаковое целое число.
+title: "Color.ToUint"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color ToUint. Кодирует компоненты ARGB цвета в беззнаковое целое."
 type: docs
 weight: 440
 url: /ru/net/aspose.svg.drawing/color/touint/
 ---
 ## Color.ToUint method
 
-Кодирует компоненты Color ARGB в беззнаковое целое число.
+Кодирует компоненты ARGB цвета Color в тип unsigned int.
 
 ```csharp
 public uint ToUint()
@@ -18,10 +18,8 @@ public uint ToUint()
 
 Закодированное беззнаковое целое.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

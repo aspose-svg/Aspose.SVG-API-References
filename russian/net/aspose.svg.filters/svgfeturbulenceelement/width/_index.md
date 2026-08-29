@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFETurbulenceElement свойство. Соответствует атрибуту ширина данного элемента фильтр.
+title: "SVGFETurbulenceElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFETurbulenceElement Width property. Соответствует атрибуту width в данном элементе фильтра"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/width/
 ---
 ## SVGFETurbulenceElement.Width property
 
-Соответствует атрибуту «ширина» данного элемента «фильтр».
+Соответствует атрибуту ‘width’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «ширина» данного элемента «фильтр».
+Атрибут ‘width’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFETurbulenceElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

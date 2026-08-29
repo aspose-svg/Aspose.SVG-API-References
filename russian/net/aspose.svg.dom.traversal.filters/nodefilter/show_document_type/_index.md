@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.SHOW_DOCUMENT_TYPE
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeFilter поле. Показать узлы типа документа.
+title: "NodeFilter.SHOW_DOCUMENT_TYPE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле NodeFilter SHOW_DOCUMENT_TYPE. Показывать узлы DocumentType"
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_type/
 ---
 ## NodeFilter.SHOW_DOCUMENT_TYPE field
 
-Показать узлы типа документа.
+Показать узлы DocumentType.
 
 ```csharp
 public const long SHOW_DOCUMENT_TYPE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [NodeFilter](../)
-* пространство имен [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

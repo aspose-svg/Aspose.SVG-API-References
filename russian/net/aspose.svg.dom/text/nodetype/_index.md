@@ -1,7 +1,7 @@
 ---
-title: Text.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Text свойство. Код представляющий тип базового объекта.
+title: "Text.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Text NodeType. Код, представляющий тип базового объекта"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/text/nodetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/text/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип узла.
 
-### Смотрите также
+### См. также
 
 * class [Text](../)
-* пространство имен [Aspose.Svg.Dom](../../text/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

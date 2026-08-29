@@ -1,7 +1,7 @@
 ---
-title: DOMTokenList.Value
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMTokenList свойство. Получает или задает значение соответствующего атрибута.
+title: "DOMTokenList.Value"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство DOMTokenList Value. Получает или задает значение соответствующего атрибута."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.collections/domtokenlist/value/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.collections/domtokenlist/value/
 public string Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение соответствующего атрибута.
 
-### Смотрите также
+### См. также
 
 * class [DOMTokenList](../)
-* пространство имен [Aspose.Svg.Collections](../../domtokenlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

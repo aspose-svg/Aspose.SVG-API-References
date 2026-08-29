@@ -1,7 +1,7 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR_DODGE
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEBlendElement поле. Соответствует значению color_dodge.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR_DODGE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FEBLEND_MODE_COLOR_DODGE класса SVGFEBlendElement. Соответствует значению color_dodge."
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color_dodge/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color_dodge/
 public const ushort SVG_FEBLEND_MODE_COLOR_DODGE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEBlendElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeblendelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

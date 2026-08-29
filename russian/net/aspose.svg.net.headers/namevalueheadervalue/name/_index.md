@@ -1,7 +1,7 @@
 ---
-title: NameValueHeaderValue.Name
-second_title: Справочник по Aspose.SVG для .NET API
-description: NameValueHeaderValue свойство. Получает имя параметра.
+title: "NameValueHeaderValue.Name"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Name класса NameValueHeaderValue. Получает имя параметра"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net.headers/namevalueheadervalue/name/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.net.headers/namevalueheadervalue/name/
 public string Name { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя.
 
-### Смотрите также
+### См. также
 
 * class [NameValueHeaderValue](../)
-* пространство имен [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: TextInfo.GlyphInfos
-second_title: Справочник по Aspose.SVG для .NET API
-description: TextInfo свойство. Получает информацию о визуализированных глифах.
+title: "TextInfo.GlyphInfos"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство TextInfo GlyphInfos. Возвращает информацию о отрисованных глифах."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/textinfo/glyphinfos/
 ---
 ## TextInfo.GlyphInfos property
 
-Получает информацию о визуализированных глифах.
+Получает информацию о отрисованных глифах.
 
 ```csharp
 public IList<GlyphInfo> GlyphInfos { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-АIList который содержит информацию о визуализированных глифах.
+IList, содержащий информацию о отрисованных глифах.
 
-### Смотрите также
+### См. также
 
 * struct [GlyphInfo](../../glyphinfo/)
 * class [TextInfo](../)
-* пространство имен [Aspose.Svg.Rendering](../../textinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

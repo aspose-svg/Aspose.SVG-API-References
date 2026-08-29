@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.GetPropertyCSSValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSStyleDeclaration метод. Используется для получения объектного представления значения свойства CSS если оно было явно установлено в этом блоке объявления. Этот метод возвращает null если свойство является сокращенным свойством. К сокращенным значениям свойств можно получить доступ и изменить их только как строки используя методы getPropertyValue и setProperty.
+title: "ICSSStyleDeclaration.GetPropertyCSSValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSSStyleDeclaration GetPropertyCSSValue метод. Используется для получения объектного представления значения свойства CSS, если оно было явно задано в этом блоке объявлений. Этот метод возвращает null, если свойство является сокращённым. Значения сокращённых свойств могут быть доступны и изменяться только как строки с помощью методов getPropertyValue и setProperty."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.css/icssstyledeclaration/getpropertycssvalue/
 ---
 ## ICSSStyleDeclaration.GetPropertyCSSValue method
 
-Используется для получения объектного представления значения свойства CSS, если оно было явно установлено в этом блоке объявления. Этот метод возвращает null, если свойство является сокращенным свойством. К сокращенным значениям свойств можно получить доступ и изменить их только как строки, используя методы getPropertyValue и setProperty.
+Используется для получения объектного представления значения CSS‑свойства, если оно было явно задано в этом декларативном блоке. Этот метод возвращает null, если свойство является сокращённым (shorthand). Значения сокращённых свойств могут быть доступны и изменяться только как строки с помощью методов getPropertyValue и setProperty.
 
 ```csharp
 public CSSValue GetPropertyCSSValue(string propertyName)
@@ -16,17 +16,15 @@ public CSSValue GetPropertyCSSValue(string propertyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| propertyName | String | Название свойства. |
+| propertyName | String | Имя свойства. |
 
 ### Возвращаемое значение
 
-Возвращает значение свойства
+Возвращает значение свойства.
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../../cssvalue/)
 * interface [ICSSStyleDeclaration](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

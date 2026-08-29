@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.Directory
-second_title: Справочник по Aspose.SVG для .NET API
-description: FileCreateStreamProvider свойство. Получает или задает каталог.
+title: "FileCreateStreamProvider.Directory"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "FileCreateStreamProvider Directory свойство. Получает или задаёт директорию"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.io/filecreatestreamprovider/directory/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.io/filecreatestreamprovider/directory/
 public string Directory { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Каталог.
+Директория.
 
-### Смотрите также
+### См. также
 
 * class [FileCreateStreamProvider](../)
-* пространство имен [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

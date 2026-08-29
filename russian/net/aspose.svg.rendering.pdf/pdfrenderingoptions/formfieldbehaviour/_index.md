@@ -1,24 +1,22 @@
 ---
-title: PdfRenderingOptions.FormFieldBehaviour
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfRenderingOptions свойство. Определяет поведение полей формы в выходном PDFдокументе.
+title: "PdfRenderingOptions.FormFieldBehaviour"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PdfRenderingOptions FormFieldBehaviour. Определяет поведение полей формы в выходном PDF‑документе"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering.pdf/pdfrenderingoptions/formfieldbehaviour/
 ---
 ## PdfRenderingOptions.FormFieldBehaviour property
 
-Определяет поведение полей формы в выходном PDF-документе.
+Указывает поведение полей формы в выходном PDF‑документе.
 
 ```csharp
 public FormFieldBehaviour FormFieldBehaviour { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [FormFieldBehaviour](../../formfieldbehaviour/)
 * class [PdfRenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

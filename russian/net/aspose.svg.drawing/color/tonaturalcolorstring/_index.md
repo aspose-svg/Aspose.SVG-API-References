@@ -1,14 +1,14 @@
 ---
-title: Color.ToNaturalColorString
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает указанный цвет Natural colors NCol используя букву цвета с числом чтобы указать расстояние в процентах от цвета.
+title: "Color.ToNaturalColorString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color ToNaturalColorString. Возвращает строку Natural colors NCol, указывающую цвет с помощью буквенного обозначения и числа, задающего расстояние в процентах от исходного цвета."
 type: docs
 weight: 380
 url: /ru/net/aspose.svg.drawing/color/tonaturalcolorstring/
 ---
 ## Color.ToNaturalColorString method
 
-Возвращает указанный цвет Natural colors (NCol), используя букву цвета с числом, чтобы указать расстояние (в процентах) от цвета.
+Возвращает цвет, заданный Natural colors (NCol), используя буквенное обозначение цвета с числом, указывающим расстояние (в процентах) от исходного цвета.
 
 ```csharp
 public string ToNaturalColorString(int digits)
@@ -20,12 +20,10 @@ public string ToNaturalColorString(int digits)
 
 ### Возвращаемое значение
 
-Строка натуральных цветов (NCol)
+Строка Natural colors (NCol)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

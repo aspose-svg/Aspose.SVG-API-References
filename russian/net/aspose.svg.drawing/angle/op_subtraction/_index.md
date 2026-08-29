@@ -1,7 +1,7 @@
 ---
-title: Angle.op_Subtraction
-second_title: Справочник по Aspose.SVG для .NET API
-description: Angle метод. Реализует оператор .
+title: "Angle.op_Subtraction"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Angle op_Subtraction. Реализует оператор -"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/angle/op_subtraction/
@@ -16,8 +16,8 @@ public static Angle operator -(Angle a, Angle b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Angle | Параметр а. |
-| b | Angle | Параметр б. |
+| a | Angle | Параметр a. |
+| b | Angle | Параметр b. |
 
 ### Возвращаемое значение
 
@@ -27,13 +27,11 @@ public static Angle operator -(Angle a, Angle b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргументы пусты |
-| ArgumentException | Аргументы имеют разные типы или Аргументы имеют разное разрешение или |
+| ArgumentNullException | Аргументы равны null |
+| ArgumentException | Аргументы имеют разные типы или аргументы имеют разные разрешения или |
 
-### Смотрите также
+### См. также
 
 * class [Angle](../)
-* пространство имен [Aspose.Svg.Drawing](../../angle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

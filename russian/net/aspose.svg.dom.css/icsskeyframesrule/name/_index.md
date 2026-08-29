@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframesRule.Name
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSKeyframesRule свойство. Этот атрибут является именем ключевых кадров используемых свойством имяанимации.
+title: "ICSSKeyframesRule.Name"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Name интерфейса ICSSKeyframesRule. Этот атрибут представляет имя keyframes, используемое свойством animation-name."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icsskeyframesrule/name/
 ---
 ## ICSSKeyframesRule.Name property
 
-Этот атрибут является именем ключевых кадров, используемых свойством 'имя-анимации'.
+Этот атрибут является именем ключевых кадров, используемым свойством ‘animation-name’.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSKeyframesRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

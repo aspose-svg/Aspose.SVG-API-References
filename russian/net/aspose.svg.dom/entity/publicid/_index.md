@@ -1,27 +1,25 @@
 ---
-title: Entity.PublicId
-second_title: Справочник по Aspose.SVG для .NET API
-description: Entity свойство. Общедоступный идентификатор связанный с объектом если он указан и null в противном случае.
+title: "Entity.PublicId"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Entity PublicId property. Публичный идентификатор, связанный с сущностью, если указан, иначе null"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/entity/publicid/
 ---
 ## Entity.PublicId property
 
-Общедоступный идентификатор, связанный с объектом, если он указан, и null в противном случае.
+Публичный идентификатор, связанный с сущностью, если указан, иначе null.
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Общедоступный идентификатор.
+Публичный идентификатор.
 
-### Смотрите также
+### См. также
 
 * class [Entity](../)
-* пространство имен [Aspose.Svg.Dom](../../entity/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

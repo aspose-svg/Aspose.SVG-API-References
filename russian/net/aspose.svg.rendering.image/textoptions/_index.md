@@ -1,28 +1,26 @@
 ---
-title: Class TextOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.Image.TextOptions сорт. Представляет параметры рендеринга текста дляImageDevice .
+title: "Класс TextOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Rendering.Image.TextOptions. Представляет параметры рендеринга текста для ImageDevice"
 type: docs
-weight: 2870
+weight: 4950
 url: /ru/net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class
 
-Представляет параметры рендеринга текста для[`ImageDevice`](../imagedevice/) .
+Представляет параметры отрисовки текста для [`ImageDevice`](../imagedevice/).
 
 ```csharp
 public class TextOptions
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint/) { get; set; } | Устанавливает или получаетTextRenderingHint что влияет на качество рендеринга текста. По умолчанию это свойствоSystemDefault . |
+| [UseHinting](../../aspose.svg.rendering.image/textoptions/usehinting/) { get; set; } | Указывает, использовать ли подсказки текста. По умолчанию подсказки отключены. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.LineCap
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. Устанавливает или получает код определяющий форму конечных точек для любого открытого пути который обведен.
+title: "GraphicContext.LineCap"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext LineCap. Устанавливает или получает код, определяющий форму конечных точек любого открытого пути, который обрисовывается."
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.svg.rendering/graphiccontext/linecap/
 ---
 ## GraphicContext.LineCap property
 
-Устанавливает или получает код, определяющий форму конечных точек для любого открытого пути, который обведен.
+Устанавливает или получает код, определяющий форму конечных точек любого открытого пути, который обводится.
 
 ```csharp
-public virtual LineCap LineCap { get; set; }
+public virtual StrokeLineCap LineCap { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
+* enum [StrokeLineCap](../../../aspose.svg.drawing/strokelinecap/)
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

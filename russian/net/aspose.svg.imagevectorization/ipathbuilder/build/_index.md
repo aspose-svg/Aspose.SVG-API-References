@@ -1,34 +1,29 @@
 ---
-title: IPathBuilder.Build
-second_title: Справочник по Aspose.SVG для .NET API
-description: IPathBuilder метод. Строит сегменты пути из списка точек трассировки.
+title: "IPathBuilder.Build"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Build интерфейса IPathBuilder. Оптимизирует заданную трассу в сегмент SVG‑пути, используя минимальное количество команд линий и кривых Безье для точного представления."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/ipathbuilder/build/
 ---
 ## IPathBuilder.Build method
 
-Строит сегменты пути из списка точек трассировки.
+Оптимизирует заданную трассировку в сегмент SVG‑пути, используя минимальное количество команд линий и кривых Безье для точного представления.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Список точек трассировки. |
-| path | SVGPathElement | Элемент пути SVG, куда будут добавляться сегменты пути. |
+| трасса | IEnumerable`1 | Последовательность точек, описывающих трассу, которую необходимо оптимизировать в SVG‑путь. |
 
 ### Возвращаемое значение
 
-Список сегментов пути[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+Строка, представляющая сегмент пути SVG, эффективно приближающая оригинальный след с минимальным количеством команд линий и кривых Безье.
 
-### Смотрите также
+### См. также
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * interface [IPathBuilder](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../ipathbuilder/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

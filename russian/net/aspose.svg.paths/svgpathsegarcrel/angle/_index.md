@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcRel.Angle
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegArcRel свойство. Угол поворота оси x эллипса относительно оси x пользовательской системы координат в градусах.
+title: "SVGPathSegArcRel.Angle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathSegArcRel Angle. Угол вращения в градусах для оси x эллипса относительно оси x пользовательской системы координат"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.paths/svgpathsegarcrel/angle/
 ---
 ## SVGPathSegArcRel.Angle property
 
-Угол поворота оси x эллипса относительно оси x пользовательской системы координат в градусах.
+Угол поворота в градусах оси x эллипса относительно оси x системы координат пользователя.
 
 ```csharp
 public float Angle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Угол поворота
+Угол вращения
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegArcRel](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegarcrel/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

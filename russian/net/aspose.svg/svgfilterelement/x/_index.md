@@ -1,28 +1,26 @@
 ---
-title: SVGFilterElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFilterElement свойство. Соответствует атрибуту x данного элемента фильтр.
+title: "SVGFilterElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFilterElement X. Соответствует атрибуту x данного элемента filter."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgfilterelement/x/
 ---
 ## SVGFilterElement.X property
 
-Соответствует атрибуту «x» данного элемента «фильтр».
+Соответствует атрибуту ‘x’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «x» данного элемента «фильтр».
+Атрибут ‘x’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFilterElement](../)
-* пространство имен [Aspose.Svg](../../svgfilterelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

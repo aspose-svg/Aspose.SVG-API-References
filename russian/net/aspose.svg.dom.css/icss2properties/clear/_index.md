@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Clear
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. четкое определение свойства в CSS2.
+title: "ICSS2Properties.Clear"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Clear интерфейса ICSS2Properties. См. определение свойства clear в CSS2"
 type: docs
 weight: 320
 url: /ru/net/aspose.svg.dom.css/icss2properties/clear/
 ---
 ## ICSS2Properties.Clear property
 
-См. четкое определение свойства в CSS2.
+Смотрите определение свойства clear в CSS2.
 
 ```csharp
 public string Clear { get; set; }
@@ -16,12 +16,10 @@ public string Clear { get; set; }
 
 ### Возвращаемое значение
 
-чистая собственность
+свойство clear
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

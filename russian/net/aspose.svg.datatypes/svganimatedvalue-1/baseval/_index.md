@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.BaseVal
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAnimatedValue свойство. Базовое значение данного атрибута до применения любых анимаций.
+title: "SVGAnimatedValue-1.BaseVal"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BaseVal класса SVGAnimatedValue. Базовое значение данного атрибута до применения анимаций."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.datatypes/svganimatedvalue-1/baseval/
 ---
-## SVGAnimatedValue&lt;T&gt;.BaseVal property
+## SVGAnimatedValue<T>.BaseVal property
 
-Базовое значение данного атрибута до применения любых анимаций.
+Базовое значение указанного атрибута до применения любых анимаций.
 
 ```csharp
 public T BaseVal { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [базовое значение]; в противном случае,`ЛОЖЬ` .
+`true` если [base value]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

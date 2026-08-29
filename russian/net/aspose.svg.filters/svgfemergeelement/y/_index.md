@@ -1,28 +1,26 @@
 ---
-title: SVGFEMergeElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEMergeElement свойство. Соответствует атрибуту y данного элемента filter.
+title: "SVGFEMergeElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y элемента SVGFEMergeElement. Соответствует атрибуту y в данном элементе filter."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.filters/svgfemergeelement/y/
 ---
 ## SVGFEMergeElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'filter'.
+Соответствует атрибуту ‘y’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента 'filter'.
+Атрибут ‘y’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEMergeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfemergeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

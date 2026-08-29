@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_VW
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой процент от полной ширины окна просмотра.
+title: "CSSPrimitiveValue.CSS_VW"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле CSS_VW класса CSSPrimitiveValue. Значение — процент от полной ширины области просмотра."
 type: docs
-weight: 450
+weight: 460
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_vw/
 ---
 ## CSSPrimitiveValue.CSS_VW field
 
-Значение представляет собой процент от полной ширины окна просмотра.
+Значение — это процент от полной ширины области просмотра.
 
 ```csharp
 public const ushort CSS_VW;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

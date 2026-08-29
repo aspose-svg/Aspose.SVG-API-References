@@ -1,9 +1,9 @@
 ---
-title: Location.Reload
-second_title: Справочник по Aspose.SVG для .NET API
-description: Location метод. Перезагружает текущую страницу.
+title: "Location.Reload"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Location Reload. Перезагружает текущую страницу"
 type: docs
-weight: 20
+weight: 110
 url: /ru/net/aspose.svg.window/location/reload/
 ---
 ## Location.Reload method
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.window/location/reload/
 public void Reload()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Location](../)
-* пространство имен [Aspose.Svg.Window](../../location/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

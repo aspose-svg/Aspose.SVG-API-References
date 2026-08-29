@@ -1,14 +1,14 @@
 ---
-title: Interface IEventListener
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Events.IEventListener интерфейс. IEventListenerинтерфейс является основным методом обработки событий. Пользователи реализуютIEventListener интерфейс и зарегистрировать своего слушателя наEventTarget используяAddEventListener method. Пользователи также должны удалить своиIEventListener от егоEventTarget после того как они завершили использование слушателя.
+title: "Интерфейс IEventListener"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Dom.Events.IEventListener. Интерфейс IEventListener является основным способом обработки событий. Пользователи реализуют интерфейс IEventListener и регистрируют свой слушатель на объекте EventTarget, используя метод AddEventListener. Пользователи также должны удалить свой IEventListener из его EventTarget после завершения использования слушателя."
 type: docs
-weight: 950
+weight: 2950
 url: /ru/net/aspose.svg.dom.events/ieventlistener/
 ---
 ## IEventListener interface
 
-`IEventListener`интерфейс является основным методом обработки событий. Пользователи реализуют`IEventListener` интерфейс и зарегистрировать своего слушателя на[`EventTarget`](../../aspose.svg.dom/eventtarget/) используя[`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener/) method. Пользователи также должны удалить свои`IEventListener` от его[`EventTarget`](../../aspose.svg.dom/eventtarget/) после того, как они завершили использование слушателя.
+Интерфейс `IEventListener` является основным способом обработки событий. Пользователи реализуют интерфейс `IEventListener` и регистрируют свой слушатель на [`EventTarget`](../../aspose.svg.dom/eventtarget/) с помощью метода [`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener/). Пользователи также должны удалить свой `IEventListener` из его [`EventTarget`](../../aspose.svg.dom/eventtarget/) после завершения использования слушателя.
 
 ```csharp
 public interface IEventListener
@@ -18,15 +18,13 @@ public interface IEventListener
 
 | Имя | Описание |
 | --- | --- |
-| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent/)(Event) | Этот метод вызывается всякий раз, когда происходит событие того типа, для которого`IEventListener` интерфейс был зарегистрирован. |
+| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent/)(*[Event](../event/)*) | Этот метод вызывается каждый раз, когда происходит событие типа, для которого был зарегистрирован интерфейс `IEventListener`. |
 
-### Примечания
+## Замечания
 
-Когда узел копируется с помощью метода cloneNode, прослушиватели событий, прикрепленные к исходному узлу, не присоединяются к скопированному узлу. Если пользователь хочет, чтобы те же прослушиватели событий были добавлены во вновь созданную копию, пользователь должен добавить их вручную.
+При копировании узла (Node) с помощью метода cloneNode обработчики событий, прикреплённые к исходному узлу, не прикрепляются к скопированному узлу. Если пользователь хочет, чтобы те же обработчики событий были добавлены к вновь созданной копии, пользователь должен добавить их вручную.
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: IUserAgentService.FontsSettings
-second_title: Справочник по Aspose.SVG для .NET API
-description: IUserAgentService свойство. ПолучаетHtml.FontsSettings объект который используется для настройки обработки шрифтов.
+title: "IUserAgentService.FontsSettings"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство FontsSettings сервиса IUserAgentService. Возвращает объект Html.FontsSettings, который используется для настройки обработки шрифтов."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.services/iuseragentservice/fontssettings/
 ---
 ## IUserAgentService.FontsSettings property
 
-Получает!:Html.FontsSettings объект, который используется для настройки обработки шрифтов.
+Получает объект !:Html.FontsSettings, который используется для настройки обработки шрифтов.
 
 ```csharp
 public FontsSettings FontsSettings { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-!:Html.FontsSettings настройки.
+Настройки !:Html.FontsSettings.
 
-### Смотрите также
+### См. также
 
 * class [FontsSettings](../../../aspose.svg/fontssettings/)
 * interface [IUserAgentService](../)
-* пространство имен [Aspose.Svg.Services](../../iuseragentservice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

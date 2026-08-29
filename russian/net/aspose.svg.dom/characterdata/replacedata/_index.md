@@ -1,14 +1,14 @@
 ---
-title: CharacterData.ReplaceData
-second_title: Справочник по Aspose.SVG для .NET API
-description: CharacterData метод. Заменить символы начинающиеся с указанного 16битного смещения указанной строкой.
+title: "CharacterData.ReplaceData"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CharacterData ReplaceData. Заменяет символы, начиная с указанного смещения в 16‑битных единицах, заданной строкой"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom/characterdata/replacedata/
 ---
 ## CharacterData.ReplaceData method
 
-Заменить символы, начинающиеся с указанного 16-битного смещения, указанной строкой.
+Заменяет символы, начиная с указанного смещения в 16‑битных единицах, указанной строкой.
 
 ```csharp
 public virtual void ReplaceData(int offset, int count, string data)
@@ -17,13 +17,11 @@ public virtual void ReplaceData(int offset, int count, string data)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | offset | Int32 | Смещение. |
-| count | Int32 | Счет. |
-| data | String | Данные контента. |
+| count | Int32 | Количество. |
+| данные | String | Содержимое данных. |
 
-### Смотрите также
+### См. также
 
 * class [CharacterData](../)
-* пространство имен [Aspose.Svg.Dom](../../characterdata/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

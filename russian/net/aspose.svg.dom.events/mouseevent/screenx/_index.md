@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ScreenX
-second_title: Справочник по Aspose.SVG для .NET API
-description: MouseEvent свойство. Горизонтальная координата в которой произошло событие относительно начала системы координат экрана.
+title: "MouseEvent.ScreenX"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MouseEvent ScreenX. Горизонтальная координата, в которой произошло событие, относительно начала системы координат экрана."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom.events/mouseevent/screenx/
 ---
 ## MouseEvent.ScreenX property
 
-Горизонтальная координата, в которой произошло событие, относительно начала системы координат экрана.
+Горизонтальная координата, в которой произошло событие относительно начала системы координат экрана.
 
 ```csharp
 public long ScreenX { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Экран x.
+Координата X экрана.
 
-### Смотрите также
+### См. также
 
 * class [MouseEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../mouseevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

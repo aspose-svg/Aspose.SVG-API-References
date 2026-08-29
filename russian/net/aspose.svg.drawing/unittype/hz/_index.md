@@ -1,7 +1,7 @@
 ---
-title: UnitType.Hz
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в герцах.
+title: "UnitType.Hz"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Hz. Измерение в герцах"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.drawing/unittype/hz/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/hz/
 public static readonly UnitType Hz;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

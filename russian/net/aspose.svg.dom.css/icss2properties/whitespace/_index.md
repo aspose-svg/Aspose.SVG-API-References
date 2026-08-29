@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.WhiteSpace
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства пробела в CSS2.
+title: "ICSS2Properties.WhiteSpace"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство WhiteSpace интерфейса ICSS2Properties. См. определение свойства white-space в CSS2"
 type: docs
-weight: 1180
+weight: 1210
 url: /ru/net/aspose.svg.dom.css/icss2properties/whitespace/
 ---
 ## ICSS2Properties.WhiteSpace property
 
-См. определение свойства пробела в CSS2.
+Смотрите определение свойства white-space в CSS2.
 
 ```csharp
 public string WhiteSpace { get; set; }
@@ -16,12 +16,10 @@ public string WhiteSpace { get; set; }
 
 ### Возвращаемое значение
 
-свойство пробела
+свойство white-space
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

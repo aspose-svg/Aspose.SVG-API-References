@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegClosePath
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathElement метод. Возвращает автономный объект SVGPathSegClosePath без родителей.
+title: "SVGPathElement.CreateSVGPathSegClosePath"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPathElement CreateSVGPathSegClosePath метод. Возвращает отдельный объект SVGPathSegClosePath без родителя"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgpathelement/createsvgpathsegclosepath/
 ---
 ## SVGPathElement.CreateSVGPathSegClosePath method
 
-Возвращает автономный объект SVGPathSegClosePath без родителей.
+Возвращает отдельный, безродительский объект SVGPathSegClosePath.
 
 ```csharp
 public SVGPathSegClosePath CreateSVGPathSegClosePath()
@@ -16,13 +16,11 @@ public SVGPathSegClosePath CreateSVGPathSegClosePath()
 
 ### Возвращаемое значение
 
-Автономный объект SVGPathSegClosePath без родителей.
+Отдельный, безродительский объект SVGPathSegClosePath.
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegClosePath](../../../aspose.svg.paths/svgpathsegclosepath/)
 * class [SVGPathElement](../)
-* пространство имен [Aspose.Svg](../../svgpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

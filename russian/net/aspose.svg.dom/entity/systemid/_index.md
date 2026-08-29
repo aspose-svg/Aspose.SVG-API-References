@@ -1,27 +1,25 @@
 ---
-title: Entity.SystemId
-second_title: Справочник по Aspose.SVG для .NET API
-description: Entity свойство. Системный идентификатор связанный с сущностью если он указан и null в противном случае. Это может быть абсолютный URI или нет.
+title: "Entity.SystemId"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Entity SystemId property. Системный идентификатор, связанный с сущностью, если он указан, иначе null. Это может быть абсолютный URI или нет"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom/entity/systemid/
 ---
 ## Entity.SystemId property
 
-Системный идентификатор, связанный с сущностью, если он указан, и null в противном случае. Это может быть абсолютный URI или нет.
+Системный идентификатор, связанный с сущностью, если указан, иначе null. Это может быть абсолютный URI или нет.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Идентификатор системы.
+Системный идентификатор.
 
-### Смотрите также
+### См. также
 
 * class [Entity](../)
-* пространство имен [Aspose.Svg.Dom](../../entity/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

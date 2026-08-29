@@ -1,23 +1,21 @@
 ---
-title: Attr.NamespaceURI
-second_title: Справочник по Aspose.SVG для .NET API
-description: Attr свойство. URI пространства имен этого узла или null если он не указан.
+title: "Attr.NamespaceURI"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Attr NamespaceURI. URI пространства имён этого узла или null, если не указано"
 type: docs
-weight: 40
+weight: 30
 url: /ru/net/aspose.svg.dom/attr/namespaceuri/
 ---
 ## Attr.NamespaceURI property
 
-URI пространства имен этого узла или null, если он не указан.
+URI пространства имён этого узла, или null, если оно не указано.
 
 ```csharp
 public override string NamespaceURI { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Attr](../)
-* пространство имен [Aspose.Svg.Dom](../../attr/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

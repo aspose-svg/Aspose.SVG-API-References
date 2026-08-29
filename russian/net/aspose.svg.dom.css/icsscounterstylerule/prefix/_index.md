@@ -1,23 +1,21 @@
 ---
-title: ICSSCounterStyleRule.Prefix
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSCounterStyleRule свойство. Получает префикс.
+title: "ICSSCounterStyleRule.Prefix"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Prefix интерфейса ICSSCounterStyleRule. Возвращает префикс"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.css/icsscounterstylerule/prefix/
 ---
 ## ICSSCounterStyleRule.Prefix property
 
-Получает префикс.
+Возвращает префикс.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSCounterStyleRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

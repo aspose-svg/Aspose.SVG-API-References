@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.Result
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEOffsetElement свойство. Соответствует атрибуту результат данного элемента фильтр.
+title: "SVGFEOffsetElement.Result"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Result элемента SVGFEOffsetElement. Соответствует атрибуту result в данном элементе фильтра"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.filters/svgfeoffsetelement/result/
 ---
 ## SVGFEOffsetElement.Result property
 
-Соответствует атрибуту «результат» данного элемента «фильтр».
+Соответствует атрибуту ‘result’ указанного элемента ‘filter’.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «результат» данного элемента «фильтр».
+Атрибут ‘result’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEOffsetElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

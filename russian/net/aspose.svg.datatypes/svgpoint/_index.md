@@ -1,20 +1,20 @@
 ---
-title: Class SVGPoint
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGPoint сорт. Многие интерфейсы SVG DOM ссылаются на объекты класса SVGPoint. SVGPoint  это пара координат x y. При использовании в матричных операциях SVGPoint рассматривается как вектор вида x y 1 Если объект SVGRect обозначен как доступный только для чтения то попытка присвоить один из его атрибутов приведет к привести к возникновению исключения.
+title: "SVGPoint Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.DataTypes.SVGPoint класс. Многие интерфейсы SVG DOM ссылаются на объекты класса SVGPoint. SVGPoint представляет собой пару координат x y. При использовании в матричных операциях SVGPoint рассматривается как вектор формы x y 1. Если объект SVGRect помечен как только для чтения, попытка изменить один из его атрибутов приведёт к выбросу исключения."
 type: docs
-weight: 270
+weight: 2260
 url: /ru/net/aspose.svg.datatypes/svgpoint/
 ---
 ## SVGPoint class
 
-Многие интерфейсы SVG DOM ссылаются на объекты класса SVGPoint. SVGPoint — это пара координат (x, y). При использовании в матричных операциях SVGPoint рассматривается как вектор вида: [x] [y] [1] Если объект SVGRect обозначен как доступный только для чтения, то попытка присвоить один из его атрибутов приведет к привести к возникновению исключения.
+Многие интерфейсы SVG DOM ссылаются на объекты класса SVGPoint. SVGPoint представляет собой пару координат (x, y). При использовании в матричных операциях SVGPoint рассматривается как вектор вида: [x] [y] [1]. Если объект SVGRect помечен как только для чтения, попытка присвоить значение одному из его атрибутов приведёт к выбросу исключения.
 
 ```csharp
 public class SVGPoint : SVGValueType
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,15 +25,13 @@ public class SVGPoint : SVGValueType
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| [MatrixTransform](../../aspose.svg.datatypes/svgpoint/matrixtransform/)(SVGMatrix) | Применяет матричное преобразование 2x3 к этому объекту SVGPoint и возвращает новый, преобразованный объект SVGPoint: newpoint = matrix* thispoint |
-| override [ToString](../../aspose.svg.datatypes/svgpoint/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| [MatrixTransform](../../aspose.svg.datatypes/svgpoint/matrixtransform/)(*[SVGMatrix](../svgmatrix/)*) | Применяет 2x3 матричное преобразование к этому объекту SVGPoint и возвращает новый, преобразованный объект SVGPoint: newpoint = matrix* thispoint |
+| override [ToString](../../aspose.svg.datatypes/svgpoint/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGValueType](../svgvaluetype/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

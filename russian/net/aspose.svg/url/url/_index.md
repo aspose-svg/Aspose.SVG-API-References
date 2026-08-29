@@ -1,14 +1,14 @@
 ---
-title: Url.Url
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url строитель. Инициализирует новый экземплярUrl с указанным URL.
+title: "Url"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор Url. Инициализирует новый экземпляр Url с указанным URL."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/url/url/
 ---
-## Url(string) {#constructor}
+## Url(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`Url`](../) с указанным URL.
+Инициализирует новый экземпляр [`Url`](../) с указанным URL.
 
 ```csharp
 public Url(string url)
@@ -22,19 +22,19 @@ public Url(string url)
 
 | исключение | условие |
 | --- | --- |
-| Error | TypeError: возникает, если`URL` не может быть проанализирован как действительный URL. |
+| Ошибка | TypeError: возникает, если `url` не может быть разобран как корректный URL. |
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Url(string, string) {#constructor_1}
+## Url(*string, string*) {#constructor_1}
 
-Инициализирует новый экземпляр[`Url`](../) с указанным URL и базовым URL.
+Инициализирует новый экземпляр [`Url`](../) с указанным URL и базовым URL.
 
 ```csharp
 public Url(string url, string baseUrl)
@@ -49,12 +49,10 @@ public Url(string url, string baseUrl)
 
 | исключение | условие |
 | --- | --- |
-| Error | TypeError: возникает, если`URL` или`базовый URL` не может быть проанализирован как действительный URL. |
+| Ошибка | TypeError: возникает, если `url` или `baseUrl` не могут быть разобраны как корректный URL. |
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

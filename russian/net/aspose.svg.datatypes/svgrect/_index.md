@@ -1,20 +1,20 @@
 ---
-title: Class SVGRect
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGRect сорт. Представляет прямоугольную геометрию. Прямоугольники определяются как состоящие из пары координат xy определяющей минимальное значение X минимальное значение Y а также ширину и высоту которые обычно не должны быть отрицательными.
+title: "SVGRect Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.DataTypes.SVGRect класс. Представляет прямоугольную геометрию. Прямоугольники определяются как состоящие из пары координат xy, указывающих минимальное значение X, минимальное значение Y, а также ширину и высоту, которые обычно ограничены неотрицательными значениями."
 type: docs
-weight: 300
+weight: 2290
 url: /ru/net/aspose.svg.datatypes/svgrect/
 ---
 ## SVGRect class
 
-Представляет прямоугольную геометрию. Прямоугольники определяются как состоящие из пары координат (x,y), определяющей минимальное значение X, минимальное значение Y, а также ширину и высоту, которые обычно не должны быть отрицательными.
+Представляет прямоугольную геометрию. Прямоугольники определяются как состоящие из пары координат (x,y), указывающих минимальное значение X, минимальное значение Y, а также ширину и высоту, которые обычно ограничены неотрицательными значениями.
 
 ```csharp
 public class SVGRect : SVGValueType
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -27,14 +27,12 @@ public class SVGRect : SVGValueType
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| override [ToString](../../aspose.svg.datatypes/svgrect/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| override [ToString](../../aspose.svg.datatypes/svgrect/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGValueType](../svgvaluetype/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

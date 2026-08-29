@@ -1,7 +1,7 @@
 ---
-title: Document.OnInvalid
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnInvalid.
+title: "Document.OnInvalid"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnInvalid. Получает или задаёт обработчик события OnInvalid."
 type: docs
 weight: 430
 url: /ru/net/aspose.svg.dom/document/oninvalid/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/oninvalid/
 public event DOMEventHandler OnInvalid;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

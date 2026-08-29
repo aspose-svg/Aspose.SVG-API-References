@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicAbs
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathElement метод. Возвращает автономный объект SVGPathSegCurvetoCubicAbs без родителей.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicAbs"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGPathElement CreateSVGPathSegCurvetoCubicAbs. Возвращает автономный объект SVGPathSegCurvetoCubicAbs без родителя."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicAbs method
 
-Возвращает автономный объект SVGPathSegCurvetoCubicAbs без родителей.
+Возвращает отдельный, безродительский объект SVGPathSegCurvetoCubicAbs.
 
 ```csharp
 public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float y, float x1, 
@@ -17,22 +17,20 @@ public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Абсолютная координата X для конечной точки этого сегмента пути. |
-| y | Single | Абсолютная координата Y для конечной точки этого сегмента пути. |
-| x1 | Single | Абсолютная координата X для первой контрольной точки. |
-| y1 | Single | Абсолютная координата Y для первой контрольной точки. |
-| x2 | Single | Абсолютная координата X для второй контрольной точки. |
-| y2 | Single | Абсолютная координата Y для второй контрольной точки. |
+| x | Single | Абсолютная координата X конечной точки этого сегмента пути. |
+| y | Single | Абсолютная координата Y конечной точки этого сегмента пути. |
+| x1 | Single | Абсолютная координата X первой контрольной точки. |
+| y1 | Single | Абсолютная координата Y первой контрольной точки. |
+| x2 | Single | Абсолютная координата X второй контрольной точки. |
+| y2 | Single | Абсолютная координата Y второй контрольной точки. |
 
 ### Возвращаемое значение
 
-Автономный объект SVGPathSegCurvetoCubicAbs без родителей.
+Автономный объект SVGPathSegCurvetoCubicAbs без родителя.
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoCubicAbs](../../../aspose.svg.paths/svgpathsegcurvetocubicabs/)
 * class [SVGPathElement](../)
-* пространство имен [Aspose.Svg](../../svgpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

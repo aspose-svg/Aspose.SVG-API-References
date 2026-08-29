@@ -1,7 +1,7 @@
 ---
-title: ICSSStyleRule.SelectorText
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSStyleRule свойство. Текстовое представление селектора для набора правил. Реализация могла удалить незначительные пробелы при разборе селектора.
+title: "ICSSStyleRule.SelectorText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSSStyleRule SelectorText свойство. Текстовое представление селектора для набора правил. Реализация могла удалить незначительные пробелы при разборе селектора."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icssstylerule/selectortext/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.css/icssstylerule/selectortext/
 public string SelectorText { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssstylerule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGUseElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGUseElement свойство. Соответствует атрибуту x данного элемента use.
+title: "SVGUseElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство X SVGUseElement. Соответствует атрибуту x в данном элементе use"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svguseelement/x/
 ---
 ## SVGUseElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'use'.
+Соответствует атрибуту ‘x’ в данном элементе ‘use’
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Соответствует атрибуту 'x' данного элемента 'use'.
+Соответствует атрибуту ‘x’ в данном элементе ‘use’
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGUseElement](../)
-* пространство имен [Aspose.Svg](../../svguseelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

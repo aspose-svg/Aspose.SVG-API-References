@@ -1,27 +1,26 @@
 ---
-title: IDevice.Clip
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Изменяет текущий путь отсечения пересекая его с текущим путем используя правило FillMode для определения области для заполнения. Этот метод завершает текущий путь.
+title: "IDevice.Clip"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice Clip. Изменяет текущий путь отсечения, пересекающий его с текущим путем с использованием FillRule для определения области заполнения. Этот метод завершает текущий путь."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.rendering/idevice/clip/
 ---
 ## IDevice.Clip method
 
-Изменяет текущий путь отсечения, пересекая его с текущим путем, используя правило FillMode для определения области для заполнения. Этот метод завершает текущий путь.
+Изменяет текущий путь отсечения, пересекает его с текущим путем, используя FillRule для определения области заполнения. Этот метод завершает текущий путь.
 
 ```csharp
-public void Clip(FillMode mode)
+public void Clip(FillRule rule)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mode | FillMode | Режим заполнения указывает, как обрезается внутренняя часть замкнутого контура. |
+| правило | FillRule | Правило заполнения определяет, как внутреннее пространство замкнутого пути отсекается. |
 
-### Смотрите также
+### См. также
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

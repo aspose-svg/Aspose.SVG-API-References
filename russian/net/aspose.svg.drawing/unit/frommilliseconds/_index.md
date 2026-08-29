@@ -1,14 +1,14 @@
 ---
-title: Unit.FromMilliseconds
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit метод. ВозвращаетTime объект представленный в миллисекундах.
+title: "Unit.FromMilliseconds"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Unit FromMilliseconds. Возвращает объект Time, представленный в миллисекундах"
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.drawing/unit/frommilliseconds/
 ---
 ## Unit.FromMilliseconds method
 
-Возвращает[`Time`](../../time/) объект, представленный в миллисекундах.
+Возвращает объект [`Time`](../../time/) , представленный в миллисекундах.
 
 ```csharp
 public static Time FromMilliseconds(double value)
@@ -16,17 +16,15 @@ public static Time FromMilliseconds(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение. |
+| значение | Double | Значение. |
 
 ### Возвращаемое значение
 
-Возвращает[`Time`](../../time/) объект.
+Возвращает объект [`Time`](../../time/) .
 
-### Смотрите также
+### См. также
 
 * class [Time](../../time/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

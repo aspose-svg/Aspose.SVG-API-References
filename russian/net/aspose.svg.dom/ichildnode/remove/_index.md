@@ -1,23 +1,21 @@
 ---
-title: IChildNode.Remove
-second_title: Справочник по Aspose.SVG для .NET API
-description: IChildNode метод. Удаляет текущий узел из родительского.
+title: "IChildNode.Remove"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IChildNode Remove method. Удаляет текущий узел из родителя"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/ichildnode/remove/
 ---
 ## IChildNode.Remove method
 
-Удаляет текущий узел из родительского.
+Удаляет текущий узел у родителя.
 
 ```csharp
 public void Remove()
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IChildNode](../)
-* пространство имен [Aspose.Svg.Dom](../../ichildnode/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

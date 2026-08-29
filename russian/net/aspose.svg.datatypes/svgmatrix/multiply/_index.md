@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.Multiply
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMatrix метод. Выполняет умножение матриц. Эта матрица постумножается на другую матрицу возвращая результирующую новую матрицу.
+title: "SVGMatrix.Multiply"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Multiply класса SVGMatrix. Выполняет умножение матриц. Эта матрица пост‑умножается на другую матрицу, возвращая полученную новую матрицу."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.datatypes/svgmatrix/multiply/
 ---
 ## SVGMatrix.Multiply method
 
-Выполняет умножение матриц. Эта матрица постумножается на другую матрицу, возвращая результирующую новую матрицу.
+Выполняет умножение матриц. Эта матрица умножается справа на другую матрицу, возвращая полученную новую матрицу.
 
 ```csharp
 public SVGMatrix Multiply(SVGMatrix secondMatrix)
@@ -16,16 +16,14 @@ public SVGMatrix Multiply(SVGMatrix secondMatrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| secondMatrix | SVGMatrix | Матрица, которая постумножается на эту матрицу. |
+| secondMatrix | SVGMatrix | Матрица, которая пост‑умножается к этой матрице. |
 
 ### Возвращаемое значение
 
 Полученная матрица.
 
-### Смотрите также
+### См. также
 
 * class [SVGMatrix](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgmatrix/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

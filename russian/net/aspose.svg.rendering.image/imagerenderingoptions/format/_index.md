@@ -1,24 +1,22 @@
 ---
-title: ImageRenderingOptions.Format
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageRenderingOptions свойство. Устанавливает или получаетImageFormat . По умолчанию это свойствоPng .
+title: "ImageRenderingOptions.Format"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ImageRenderingOptions Format. Устанавливает или получает ImageFormat. По умолчанию это свойство равно Png."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering.image/imagerenderingoptions/format/
 ---
 ## ImageRenderingOptions.Format property
 
-Устанавливает или получает[`ImageFormat`](../../imageformat/) . По умолчанию это свойствоPng .
+Устанавливает или получает [`ImageFormat`](../../imageformat/). По умолчанию это свойство равно Png.
 
 ```csharp
 public ImageFormat Format { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

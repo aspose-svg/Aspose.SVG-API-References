@@ -1,24 +1,22 @@
 ---
-title: DocumentFragment.PreviousElementSibling
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentFragment свойство. Возвращает предыдущий узел родственного элемента этого элемента. null если этот элемент не имеет родственных узлов предшествующих ему в дереве документа.
+title: "DocumentFragment.PreviousElementSibling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "DocumentFragment PreviousElementSibling property. Возвращает предыдущий соседний узел‑элемент этого элемента. null, если у этого элемента нет соседних узлов‑элементов, идущих перед ним в дереве документа."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom/documentfragment/previouselementsibling/
 ---
 ## DocumentFragment.PreviousElementSibling property
 
-Возвращает предыдущий узел родственного элемента этого элемента. null, если этот элемент не имеет родственных узлов, предшествующих ему в дереве документа.
+Возвращает предыдущий соседний элементный узел этого элемента. null, если у этого элемента нет соседних элементных узлов, идущих перед ним в дереве документа.
 
 ```csharp
 public Element PreviousElementSibling { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* пространство имен [Aspose.Svg.Dom](../../documentfragment/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

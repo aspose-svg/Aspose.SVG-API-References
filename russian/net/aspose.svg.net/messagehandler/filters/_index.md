@@ -1,7 +1,7 @@
 ---
-title: MessageHandler.Filters
-second_title: Справочник по Aspose.SVG для .NET API
-description: MessageHandler свойство. Получает список фильтров соответствующих указанному типу обработчика.
+title: "MessageHandler.Filters"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Filters класса MessageHandler. Возвращает список фильтров, соответствующих указанному типу обработчика."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/messagehandler/filters/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.net/messagehandler/filters/
 public Collection<MessageFilter> Filters { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Фильтры.
 
-### Смотрите также
+### См. также
 
 * class [MessageFilter](../../messagefilter/)
 * class [MessageHandler](../)
-* пространство имен [Aspose.Svg.Net](../../messagehandler/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

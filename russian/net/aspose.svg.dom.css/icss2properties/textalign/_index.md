@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextAlign
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства textalign в CSS2.
+title: "ICSS2Properties.TextAlign"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство TextAlign в ICSS2Properties. См. определение свойства text-align в CSS2"
 type: docs
-weight: 1070
+weight: 1100
 url: /ru/net/aspose.svg.dom.css/icss2properties/textalign/
 ---
 ## ICSS2Properties.TextAlign property
 
-См. определение свойства text-align в CSS2.
+Смотрите определение свойства text-align в CSS2.
 
 ```csharp
 public string TextAlign { get; set; }
@@ -16,12 +16,10 @@ public string TextAlign { get; set; }
 
 ### Возвращаемое значение
 
-свойство выравнивания текста
+свойство text-align
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetRectValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue метод. Этот метод используется для получения значения Rect. Если это значение CSS не содержит прямоугольного значения возникает исключение DOMException. Модификация соответствующего свойства стиля может быть достигнута с помощью интерфейса Rect.
+title: "CSSPrimitiveValue.GetRectValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue GetRectValue метод. Этот метод используется для получения значения Rect. Если это CSS‑значение не содержит значения rect, генерируется DOMException. Изменение соответствующего свойства стиля может быть выполнено с помощью интерфейса Rect."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/getrectvalue/
 ---
 ## CSSPrimitiveValue.GetRectValue method
 
-Этот метод используется для получения значения Rect. Если это значение CSS не содержит прямоугольного значения, возникает исключение DOMException. Модификация соответствующего свойства стиля может быть достигнута с помощью интерфейса Rect.
+Этот метод используется для получения значения Rect. Если данное CSS‑значение не содержит значения rect, генерируется DOMException. Изменение соответствующего свойства стиля может быть выполнено с помощью интерфейса Rect.
 
 ```csharp
 public abstract Rect GetRectValue()
@@ -16,13 +16,11 @@ public abstract Rect GetRectValue()
 
 ### Возвращаемое значение
 
-Возвращает прямоугольное значение
+Возвращает значение Rect
 
-### Смотрите также
+### См. также
 
 * class [Rect](../../rect/)
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

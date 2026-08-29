@@ -1,7 +1,7 @@
 ---
-title: Document.OnKeyPress
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnKeyPress.
+title: "Document.OnKeyPress"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnKeyPress. Получает или задает обработчик события для события OnKeyPress."
 type: docs
 weight: 450
 url: /ru/net/aspose.svg.dom/document/onkeypress/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onkeypress/
 public event DOMEventHandler OnKeyPress;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

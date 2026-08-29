@@ -1,23 +1,31 @@
 ---
-title: Node.PreviousSibling
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node свойство. Узел непосредственно предшествующий этому узлу. Если такого узла нет возвращается null.
+title: "Node.PreviousSibling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Node PreviousSibling. Возвращает узел, непосредственно предшествующий указанному, в списке ChildNodes его родителя, или null, если указанный узел является первым в этом списке."
 type: docs
-weight: 160
+weight: 150
 url: /ru/net/aspose.svg.dom/node/previoussibling/
 ---
 ## Node.PreviousSibling property
 
-Узел, непосредственно предшествующий этому узлу. Если такого узла нет, возвращается null.
+Возвращает узел, непосредственно предшествующий указанному, в списке [`ChildNodes`](../childnodes/) его родителя, или null, если указанный узел является первым в этом списке.
 
 ```csharp
 public Node PreviousSibling { get; }
 ```
 
-### Смотрите также
+### Property Value
+
+Объект [`Node`](../), представляющий предыдущего соседа текущего узла, или null, если их нет.
+
+## Замечания
+
+Ссылка:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-previoussibling).
+
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

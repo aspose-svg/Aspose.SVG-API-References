@@ -1,7 +1,7 @@
 ---
-title: Document.Origin
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Получает источник документа.
+title: "Document.Origin"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document Origin. Получает происхождение документа"
 type: docs
 weight: 200
 url: /ru/net/aspose.svg.dom/document/origin/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/document/origin/
 public string Origin { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Происхождение.
 
-### Смотрите также
+### См. также
 
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

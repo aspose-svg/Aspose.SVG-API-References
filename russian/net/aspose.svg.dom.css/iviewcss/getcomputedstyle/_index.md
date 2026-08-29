@@ -1,14 +1,14 @@
 ---
-title: IViewCSS.GetComputedStyle
-second_title: Справочник по Aspose.SVG для .NET API
-description: IViewCSS метод. Этот метод используется для получения вычисляемого стиля как он определен в CSS2.
+title: "IViewCSS.GetComputedStyle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetComputedStyle интерфейса IViewCSS. Этот метод используется для получения вычисленного стиля, как он определён в CSS2."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/iviewcss/getcomputedstyle/
 ---
-## GetComputedStyle(Element) {#getcomputedstyle}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/)*) {#getcomputedstyle}
 
-Этот метод используется для получения вычисляемого стиля, как он определен в CSS2.
+Этот метод используется для получения вычисленного стиля, как он определён в CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element)
@@ -16,25 +16,25 @@ public ICSSStyleDeclaration GetComputedStyle(Element element)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | Элемент, стиль которого необходимо вычислить. Этот параметр не может быть нулевым. |
+| элемент | Element | Элемент, стиль которого необходимо вычислить. Этот параметр не может быть null. |
 
 ### Возвращаемое значение
 
-Вычисляемый стиль
+Вычисленный стиль
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../iviewcss/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetComputedStyle(Element, string) {#getcomputedstyle_1}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/), string*) {#getcomputedstyle_1}
 
-Этот метод используется для получения вычисляемого стиля, как он определен в CSS2.
+Этот метод используется для получения вычисленного стиля, как он определён в CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoElement)
@@ -42,19 +42,17 @@ public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoEleme
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | Элемент, стиль которого необходимо вычислить. Этот параметр не может быть нулевым. |
+| элемент | Element | Элемент, стиль которого необходимо вычислить. Этот параметр не может быть null. |
 | pseudoElement | String | Псевдоэлемент. |
 
 ### Возвращаемое значение
 
-Вычисляемый стиль
+Вычисленный стиль
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../iviewcss/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

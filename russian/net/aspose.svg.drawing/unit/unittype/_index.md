@@ -1,28 +1,26 @@
 ---
-title: Unit.UnitType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit свойство. Получает тип единицы измеренияUnit .
+title: "Unit.UnitType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Unit UnitType. Получает тип единицы Unit"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
 
-Получает тип единицы измерения[`Unit`](../) .
+Получает тип единицы [`Unit`](../).
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип юнита.
+Тип единицы.
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

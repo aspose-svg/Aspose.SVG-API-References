@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Height
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFETurbulenceElement свойство. Соответствует атрибуту высота данного элемента фильтра.
+title: "SVGFETurbulenceElement.Height"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Height элемента SVGFETurbulenceElement. Соответствует атрибуту height в данном элементе фильтра."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/height/
 ---
 ## SVGFETurbulenceElement.Height property
 
-Соответствует атрибуту "высота" данного элемента "фильтра".
+Соответствует атрибуту ‘height’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «высота» данного элемента «фильтр».
+Атрибут ‘height’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFETurbulenceElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

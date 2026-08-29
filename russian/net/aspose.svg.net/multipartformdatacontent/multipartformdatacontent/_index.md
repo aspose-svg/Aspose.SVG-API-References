@@ -1,30 +1,30 @@
 ---
-title: MultipartFormDataContent.MultipartFormDataContent
-second_title: Справочник по Aspose.SVG для .NET API
-description: MultipartFormDataContent строитель. Инициализирует новый экземплярMultipartFormDataContent класс.
+title: "MultipartFormDataContent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор MultipartFormDataContent. Инициализирует новый экземпляр класса MultipartFormDataContent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/multipartformdatacontent/multipartformdatacontent/
 ---
 ## MultipartFormDataContent() {#constructor}
 
-Инициализирует новый экземпляр[`MultipartFormDataContent`](../) класс.
+Инициализирует новый экземпляр класса [`MultipartFormDataContent`](../).
 
 ```csharp
 public MultipartFormDataContent()
 ```
 
-### Смотрите также
+### См. также
 
 * class [MultipartFormDataContent](../)
-* пространство имен [Aspose.Svg.Net](../../multipartformdatacontent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartFormDataContent(string) {#constructor_1}
+## MultipartFormDataContent(*string*) {#constructor_1}
 
-Инициализирует новый экземпляр[`MultipartFormDataContent`](../) класс.
+Инициализирует новый экземпляр класса [`MultipartFormDataContent`](../).
 
 ```csharp
 public MultipartFormDataContent(string boundary)
@@ -34,10 +34,8 @@ public MultipartFormDataContent(string boundary)
 | --- | --- | --- |
 | boundary | String | Граница. |
 
-### Смотрите также
+### См. также
 
 * class [MultipartFormDataContent](../)
-* пространство имен [Aspose.Svg.Net](../../multipartformdatacontent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

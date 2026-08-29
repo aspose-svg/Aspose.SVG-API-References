@@ -1,23 +1,21 @@
 ---
-title: SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_LINEAR
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement поле. Соответствует значению линейный.
+title: "SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_LINEAR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FECOMPONENTTRANSFER_TYPE_LINEAR класса SVGComponentTransferFunctionElement. Соответствует значению linear."
 type: docs
 weight: 110
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_linear/
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_LINEAR field
 
-Соответствует значению «линейный».
+Соответствует значению 'linear'.
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_LINEAR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

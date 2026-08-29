@@ -1,7 +1,7 @@
 ---
-title: IFile.Name
-second_title: Справочник по Aspose.SVG для .NET API
-description: IFile свойство. Имя файла. При получении должно возвращаться имя файла в виде строки.
+title: "IFile.Name"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IFile Name property. Имя файла. При получении должно возвращать имя файла в виде строки"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.io/ifile/name/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.io/ifile/name/
 public string Name { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IFile](../)
-* пространство имен [Aspose.Svg.IO](../../ifile/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

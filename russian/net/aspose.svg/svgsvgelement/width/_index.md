@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement свойство. Соответствует атрибуту ширина данного элемента svg.
+title: "SVGSVGElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGSVGElement Width. Соответствует атрибуту width указанного элемента svg."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgsvgelement/width/
 ---
 ## SVGSVGElement.Width property
 
-Соответствует атрибуту «ширина» данного элемента «svg».
+Соответствует атрибуту ‘width’ заданного элемента ‘svg’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Соответствует атрибуту «ширина» данного элемента «svg».
+Соответствует атрибуту ‘width’ заданного элемента ‘svg’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

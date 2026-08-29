@@ -1,14 +1,14 @@
 ---
-title: CSSValue.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSValue метод. Определяет является ли указанныйObject равен этому экземпляру.
+title: "CSSValue.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CSSValue Equals. Определяет, равен ли указанный объект этому экземпляру."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/cssvalue/equals/
 ---
 ## CSSValue.Equals method
 
-Определяет, является ли указанныйObject равен этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,22 +16,20 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Объект | Объект для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| NullReferenceException | *obj* параметр равен нулю. |
+| NullReferenceException | Параметр *obj* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

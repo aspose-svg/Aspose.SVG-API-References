@@ -1,23 +1,21 @@
 ---
-title: HttpProtocolMessageHandler.HttpProtocolMessageHandler
-second_title: Справочник по Aspose.SVG для .NET API
-description: HttpProtocolMessageHandler строитель. Инициализирует новый экземплярHttpProtocolMessageHandler класс.
+title: "HttpProtocolMessageHandler"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор HttpProtocolMessageHandler. Инициализирует новый экземпляр класса HttpProtocolMessageHandler"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler constructor
 
-Инициализирует новый экземпляр[`HttpProtocolMessageHandler`](../) класс.
+Инициализирует новый экземпляр класса [`HttpProtocolMessageHandler`](../).
 
 ```csharp
 public HttpProtocolMessageHandler()
 ```
 
-### Смотрите также
+### См. также
 
 * class [HttpProtocolMessageHandler](../)
-* пространство имен [Aspose.Svg.Net.MessageHandlers](../../httpprotocolmessagehandler/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

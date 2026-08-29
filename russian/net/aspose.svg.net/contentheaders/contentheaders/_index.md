@@ -1,23 +1,21 @@
 ---
-title: ContentHeaders.ContentHeaders
-second_title: Справочник по Aspose.SVG для .NET API
-description: ContentHeaders строитель. Инициализирует новый экземплярContentHeaders класс.
+title: "ContentHeaders"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ContentHeaders. Инициализирует новый экземпляр класса ContentHeaders"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/contentheaders/contentheaders/
 ---
 ## ContentHeaders constructor
 
-Инициализирует новый экземпляр[`ContentHeaders`](../) класс.
+Инициализирует новый экземпляр класса [`ContentHeaders`](../).
 
 ```csharp
 public ContentHeaders()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ContentHeaders](../)
-* пространство имен [Aspose.Svg.Net](../../contentheaders/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

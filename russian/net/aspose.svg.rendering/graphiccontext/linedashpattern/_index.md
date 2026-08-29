@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.LineDashPattern
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. Задает или получает описание шаблона пунктира который будет использоваться при обводке контуров.
+title: "GraphicContext.LineDashPattern"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext LineDashPattern. Устанавливает или получает описание шаблона пунктирной линии, используемого при обрисовке путей. Может быть установлено в null или пустой массив для отключения."
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.svg.rendering/graphiccontext/linedashpattern/
 ---
 ## GraphicContext.LineDashPattern property
 
-Задает или получает описание шаблона пунктира, который будет использоваться при обводке контуров.
+Устанавливает или получает описание шаблона пунктиров, используемого при обводке путей. Может быть установлено в `null` или пустой массив для отключения.
 
 ```csharp
 public virtual float[] LineDashPattern { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

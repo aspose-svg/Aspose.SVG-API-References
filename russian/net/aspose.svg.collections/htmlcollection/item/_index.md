@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.Item
-second_title: Справочник по Aspose.SVG для .NET API
-description: HTMLCollection свойство. Возвращает индексный элемент коллекции. Если индекс больше или равен количеству узлов в списке возвращается null.
+title: "HTMLCollection.Item"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Item у HTMLCollection. Возвращает элемент с индексом в коллекции. Если индекс больше или равен количеству узлов в списке, возвращается null"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.collections/htmlcollection/item/
 ---
 ## HTMLCollection indexer
 
-Возвращает индексный элемент коллекции. Если индекс больше или равен количеству узлов в списке, возвращается null.
+Возвращает элемент с индексом index в коллекции. Если index больше или равен количеству узлов в списке, возвращается null.
 
 ```csharp
 public abstract Element this[int index] { get; }
@@ -22,15 +22,13 @@ public abstract Element this[int index] { get; }
 
 Возвращает элемент.
 
-### Стоимость имущества
+### Property Value
 
-[`Element`](../../../aspose.svg.dom/element/) .
+Элемент [`Element`](../../../aspose.svg.dom/element/).
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* пространство имен [Aspose.Svg.Collections](../../htmlcollection/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

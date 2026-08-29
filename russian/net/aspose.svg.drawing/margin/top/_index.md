@@ -1,28 +1,26 @@
 ---
-title: Margin.Top
-second_title: Справочник по Aspose.SVG для .NET API
-description: Margin свойство. Получает или устанавливает верхнюю часть.
+title: "Margin.Top"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Margin Top. Получает или задаёт верх"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/margin/top/
 ---
 ## Margin.Top property
 
-Получает или устанавливает верхнюю часть.
+Получает или задает верхний параметр.
 
 ```csharp
 public LengthOrAuto Top { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Топ.
+Верх.
 
-### Смотрите также
+### См. также
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

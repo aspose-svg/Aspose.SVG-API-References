@@ -1,14 +1,14 @@
 ---
-title: CharacterData.InsertData
-second_title: Справочник по Aspose.SVG для .NET API
-description: CharacterData метод. Вставить строку с указанным 16битным смещением.
+title: "CharacterData.InsertData"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CharacterData InsertData. Вставляет строку в указанное смещение в 16‑битных единицах"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/characterdata/insertdata/
 ---
 ## CharacterData.InsertData method
 
-Вставить строку с указанным 16-битным смещением.
+Вставляет строку по указанному смещению в 16‑битных единицах.
 
 ```csharp
 public virtual void InsertData(int offset, string data)
@@ -17,12 +17,10 @@ public virtual void InsertData(int offset, string data)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | offset | Int32 | Смещение. |
-| data | String | Данные контента. |
+| данные | String | Содержимое данных. |
 
-### Смотрите также
+### См. также
 
 * class [CharacterData](../)
-* пространство имен [Aspose.Svg.Dom](../../characterdata/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.CreateDocumentFragment
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает пустой объект DocumentFragment.
+title: "Document.CreateDocumentFragment"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateDocumentFragment. Создает новый пустой DocumentFragment, в который можно добавить узлы DOM для построения скрытого дерева DOM."
 type: docs
 weight: 830
 url: /ru/net/aspose.svg.dom/document/createdocumentfragment/
 ---
 ## Document.CreateDocumentFragment method
 
-Создает пустой объект DocumentFragment.
+Создает новый пустой [`DocumentFragment`](../../documentfragment/), в который можно добавить узлы DOM для построения скрытого дерева DOM.
 
 ```csharp
 public DocumentFragment CreateDocumentFragment()
@@ -16,13 +16,11 @@ public DocumentFragment CreateDocumentFragment()
 
 ### Возвращаемое значение
 
-[`DocumentFragment`](../../documentfragment/) .
+Элемент [`DocumentFragment`](../../documentfragment/).
 
-### Смотрите также
+### См. также
 
 * class [DocumentFragment](../../documentfragment/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

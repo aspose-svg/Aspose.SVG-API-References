@@ -1,14 +1,14 @@
 ---
-title: Color.FromLaba
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает новый цвет с запрошенными значениями светлоты A B альфа.
+title: "Color.FromLaba"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromLaba. Возвращает новый Color с запрошенными значениями светлоты, A, B и alpha"
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.drawing/color/fromlaba/
 ---
 ## Color.FromLaba method
 
-Возвращает новый цвет с запрошенными значениями светлоты, A, B, альфа.
+Возвращает новый Color с запрошенными значениями lightness, A, B, alpha.
 
 ```csharp
 public static Color FromLaba(float lightness, float a, float b, float alpha)
@@ -16,19 +16,17 @@ public static Color FromLaba(float lightness, float a, float b, float alpha)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lightness | Single | Поплавок, представляющий компонент яркости цвета. |
-| a | Single | Поплавок, представляющий компонент A цвета. |
-| b | Single | Поплавок, представляющий компонент B цвета. |
-| alpha | Single | Поплавок, представляющий альфа-компонент цвета. |
+| светлота | Single | Число с плавающей запятой, представляющее компонент светлоты цвета. |
+| a | Single | float, представляющий компонент A цвета. |
+| b | Single | float, представляющий компонент B цвета. |
+| альфа | Single | Число с плавающей запятой, представляющее альфа‑компонент цвета. |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_CDATA_SECTION
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeFilter поле. Показать узлы CDATASection.
+title: "NodeFilter.SHOW_CDATA_SECTION"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле NodeFilter SHOW_CDATA_SECTION. Показывать узлы CDATASection"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_cdata_section/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_cdata_section/
 public const long SHOW_CDATA_SECTION;
 ```
 
-### Смотрите также
+### См. также
 
 * class [NodeFilter](../)
-* пространство имен [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

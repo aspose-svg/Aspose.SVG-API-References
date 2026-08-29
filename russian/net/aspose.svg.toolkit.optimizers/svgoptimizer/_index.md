@@ -1,14 +1,14 @@
 ---
-title: Class SVGOptimizer
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Toolkit.Optimizers.SVGOptimizer сорт. SVGOptimizer  статический класс предназначенный для оптимизации документов SVG. Под оптимизацией мы понимаем удаление неиспользуемых или невидимых элементов и их атрибутов объединение групп и уменьшение размера сегментов пути.
+title: "Класс SVGOptimizer"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Toolkit.Optimizers.SVGOptimizer. SVGOptimizer — статический класс, предназначенный для оптимизации SVG‑документов. Под оптимизацией мы подразумеваем удаление неиспользуемых или невидимых элементов и их атрибутов, объединение групп и уменьшение размера сегментов пути."
 type: docs
-weight: 3790
+weight: 5890
 url: /ru/net/aspose.svg.toolkit.optimizers/svgoptimizer/
 ---
 ## SVGOptimizer class
 
-SVGOptimizer — статический класс, предназначенный для оптимизации документов SVG. Под оптимизацией мы понимаем удаление неиспользуемых или невидимых элементов и их атрибутов, объединение групп и уменьшение размера сегментов пути.
+SVGOptimizer — статический класс, предназначенный для оптимизации SVG‑документов. Под оптимизацией мы подразумеваем удаление неиспользуемых или невидимых элементов и их атрибутов, объединение групп и уменьшение размера сегментов путей.
 
 ```csharp
 public static class SVGOptimizer
@@ -18,12 +18,10 @@ public static class SVGOptimizer
 
 | Имя | Описание |
 | --- | --- |
-| static [Optimize](../../aspose.svg.toolkit.optimizers/svgoptimizer/optimize/#optimize)(SVGDocument) | Оптимизирует[`SVGDocument`](../../aspose.svg/svgdocument/) путем применения набора параметров оптимизации по умолчанию. |
-| static [Optimize](../../aspose.svg.toolkit.optimizers/svgoptimizer/optimize/#optimize_1)(SVGDocument, SVGOptimizationOptions) | Оптимизирует[`SVGDocument`](../../aspose.svg/svgdocument/) путем применения набора указанных опций оптимизации. |
+| static [Optimize](../../aspose.svg.toolkit.optimizers/svgoptimizer/optimize/#optimize)(*[SVGDocument](../../aspose.svg/svgdocument/)*) | Оптимизирует [`SVGDocument`](../../aspose.svg/svgdocument/) с помощью набора параметров оптимизации по умолчанию. |
+| static [Optimize](../../aspose.svg.toolkit.optimizers/svgoptimizer/optimize/#optimize_1)(*[SVGDocument](../../aspose.svg/svgdocument/), [SVGOptimizationOptions](../svgoptimizationoptions/)*) | Оптимизирует [`SVGDocument`](../../aspose.svg/svgdocument/) с помощью набора указанных параметров оптимизации. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../)

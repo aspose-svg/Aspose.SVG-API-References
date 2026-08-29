@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.PointsAtX
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFESpotLightElement свойство. Соответствует атрибуту pointsAtX данного элемента feSpotLight.
+title: "SVGFESpotLightElement.PointsAtX"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PointsAtX элемента SVGFESpotLightElement. Соответствует атрибуту pointsAtX в данном элементе feSpotLight."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfespotlightelement/pointsatx/
 ---
 ## SVGFESpotLightElement.PointsAtX property
 
-Соответствует атрибуту pointsAtX данного элемента feSpotLight.
+Соответствует атрибуту ‘pointsAtX’ в данном элементе ‘feSpotLight’.
 
 ```csharp
 public SVGAnimatedNumber PointsAtX { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут pointsAtX данного элемента feSpotLight.
+Атрибут ‘pointsAtX’ данного элемента ‘feSpotLight’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

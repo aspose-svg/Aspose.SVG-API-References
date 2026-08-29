@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Spacing
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTextPathElement свойство. Соответствует атрибуту spacing данного элемента textPath.
+title: "SVGTextPathElement.Spacing"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGTextPathElement Spacing. Соответствует атрибуту spacing в данном элементе textPath."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgtextpathelement/spacing/
 ---
 ## SVGTextPathElement.Spacing property
 
-Соответствует атрибуту 'spacing' данного элемента 'textPath'.
+Соответствует атрибуту ‘spacing’ у данного элемента ‘textPath’
 
 ```csharp
 public SVGAnimatedEnumeration Spacing { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Интервал атрибута данного элемента textPath.
+Атрибут ‘spacing’ данного элемента ‘textPath’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* пространство имен [Aspose.Svg](../../svgtextpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

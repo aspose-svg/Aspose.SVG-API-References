@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.Height
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPatternElement свойство. Соответствует атрибуту высота данного элемента шаблона.
+title: "SVGPatternElement.Height"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Height SVGPatternElement. Соответствует атрибуту height данного элемента pattern."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgpatternelement/height/
 ---
 ## SVGPatternElement.Height property
 
-Соответствует атрибуту "высота" данного элемента "шаблона".
+Соответствует атрибуту ‘height’ в указанном элементе ‘pattern’.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «высота» данного элемента «шаблона».
+Атрибут ‘height’ данного элемента ‘pattern’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* пространство имен [Aspose.Svg](../../svgpatternelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.AddedNodes
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationRecord свойство. Вернуть добавленные узлы.
+title: "MutationRecord.AddedNodes"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MutationRecord AddedNodes. Возвращает добавленные узлы"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
 ---
 ## MutationRecord.AddedNodes property
 
-Вернуть добавленные узлы.
+Верните добавленные узлы.
 
 ```csharp
 public NodeList AddedNodes { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Добавленные узлы.
 
-### Смотрите также
+### См. также
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

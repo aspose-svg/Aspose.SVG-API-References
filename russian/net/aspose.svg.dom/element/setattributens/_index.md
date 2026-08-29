@@ -1,14 +1,14 @@
 ---
-title: Element.SetAttributeNS
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Добавляет новый атрибут. Если атрибут с тем же локальным именем и URI пространства имен уже присутствует в элементе его префикс изменяется на префиксную часть квалифицированного имени а его значение изменяется на параметр значения.
+title: "Element.SetAttributeNS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element SetAttributeNS. Добавляет новый атрибут. Если атрибут с тем же локальным именем и URI пространства имён уже присутствует в элементе, его префикс изменяется на префикс из qualifiedName, а его значение изменяется на параметр value"
 type: docs
 weight: 430
 url: /ru/net/aspose.svg.dom/element/setattributens/
 ---
 ## Element.SetAttributeNS method
 
-Добавляет новый атрибут. Если атрибут с тем же локальным именем и URI пространства имен уже присутствует в элементе, его префикс изменяется на префиксную часть квалифицированного имени, а его значение изменяется на параметр значения.
+Добавляет новый атрибут. Если атрибут с тем же локальным именем и URI пространства имён уже присутствует в элементе, его префикс изменяется на префикс из qualifiedName, а значение изменяется на значение параметра value.
 
 ```csharp
 public void SetAttributeNS(string namespaceURI, string qualifiedName, string value)
@@ -16,14 +16,12 @@ public void SetAttributeNS(string namespaceURI, string qualifiedName, string val
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
+| namespaceURI | String | URI пространства имён. |
 | qualifiedName | String | Имя квалифицированного. |
-| value | String | Значение. |
+| значение | String | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

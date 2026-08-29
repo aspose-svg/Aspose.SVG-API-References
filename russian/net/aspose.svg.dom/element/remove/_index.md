@@ -1,7 +1,7 @@
 ---
-title: Element.Remove
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Удаляет этот экземпляр.
+title: "Element.Remove"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element Remove. Удаляет этот экземпляр."
 type: docs
 weight: 360
 url: /ru/net/aspose.svg.dom/element/remove/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom/element/remove/
 public void Remove()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

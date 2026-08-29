@@ -1,41 +1,39 @@
 ---
-title: Class SVGPathSegCurvetoCubicSmoothRel
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Paths.SVGPathSegCurvetoCubicSmoothRel сорт. Интерфейс SVGPathSegCurvetoCubicSmoothRel соответствует команде данных пути относительно гладкой кубической кривой к s.
+title: "SVGPathSegCurvetoCubicSmoothRel Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Paths.SVGPathSegCurvetoCubicSmoothRel класс. Интерфейс SVGPathSegCurvetoCubicSmoothRel соответствует относительной команде плавного кубического изгиба s в данных пути"
 type: docs
-weight: 2560
+weight: 4630
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/
 ---
 ## SVGPathSegCurvetoCubicSmoothRel class
 
-Интерфейс SVGPathSegCurvetoCubicSmoothRel соответствует команде данных пути "относительно гладкой кубической кривой к" (s).
+Интерфейс SVGPathSegCurvetoCubicSmoothRel соответствует команде данных пути «относительный плавный кубический кривой» (s).
 
 ```csharp
 public class SVGPathSegCurvetoCubicSmoothRel : SVGPathSeg
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Тип сегмента пути, указанный одной из констант, определённых в этом интерфейсе. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Тип сегмента пути, указанный соответствующим односимвольным именем команды. |
 | [X](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x/) { get; set; } | Относительная координата X конечной точки этого сегмента пути. |
-| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x2/) { get; set; } | Относительная координата X для второй контрольной точки. |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y/) { get; set; } | Относительная координата Y для конечной точки этого сегмента пути. |
-| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/) { get; set; } | Относительная координата Y для второй контрольной точки. |
+| [X2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/x2/) { get; set; } | Относительная координата X второй контрольной точки. |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y/) { get; set; } | Относительная координата Y конечной точки этого сегмента пути. |
+| [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/) { get; set; } | Относительная координата Y второй контрольной точки. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSeg](../svgpathseg/)
-* пространство имен [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

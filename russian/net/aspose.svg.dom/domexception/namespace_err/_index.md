@@ -1,23 +1,21 @@
 ---
-title: DOMException.NAMESPACE_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Если предпринимается попытка создать или изменить объект способом неверным в отношении пространств имен.
+title: "DOMException.NAMESPACE_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException NAMESPACE_ERR. Если попытка создать или изменить объект способом, некорректным с точки зрения пространств имён"
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.dom/domexception/namespace_err/
 ---
 ## DOMException.NAMESPACE_ERR field
 
-Если предпринимается попытка создать или изменить объект способом, неверным в отношении пространств имен.
+Если попытка создать или изменить объект способом, некорректным с точки зрения пространств имён.
 
 ```csharp
 public const ushort NAMESPACE_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: PdfEncryptionInfo.EncryptionAlgorithm
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfEncryptionInfo свойство. Получает или задает режим шифрования.
+title: "PdfEncryptionInfo.EncryptionAlgorithm"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PdfEncryptionInfo EncryptionAlgorithm. Получает или задает режим шифрования."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalg
 public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Алгоритм шифрования.
 
-### Смотрите также
+### См. также
 
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

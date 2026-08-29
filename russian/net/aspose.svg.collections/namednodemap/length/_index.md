@@ -1,23 +1,21 @@
 ---
-title: NamedNodeMap.Length
-second_title: Справочник по Aspose.SVG для .NET API
-description: NamedNodeMap свойство. Количество узлов на этой карте.
+title: "NamedNodeMap.Length"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Length в NamedNodeMap. Количество узлов в этой карте"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.collections/namednodemap/length/
 ---
 ## NamedNodeMap.Length property
 
-Количество узлов на этой карте.
+Количество узлов в этой карте.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NamedNodeMap](../)
-* пространство имен [Aspose.Svg.Collections](../../namednodemap/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MinHeight
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства minheight в CSS2.
+title: "ICSS2Properties.MinHeight"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MinHeight интерфейса ICSS2Properties. См. определение свойства min-height в CSS2"
 type: docs
-weight: 720
+weight: 750
 url: /ru/net/aspose.svg.dom.css/icss2properties/minheight/
 ---
 ## ICSS2Properties.MinHeight property
 
-См. определение свойства min-height в CSS2.
+Смотрите определение свойства min-height в CSS2.
 
 ```csharp
 public string MinHeight { get; set; }
@@ -16,12 +16,10 @@ public string MinHeight { get; set; }
 
 ### Возвращаемое значение
 
-свойство минимальной высоты
+свойство min-height
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Notation.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Notation свойство. Код представляющий тип базового объекта.
+title: "Notation.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Notation NodeType. Код, представляющий тип базового объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/notation/nodetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/notation/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип узла.
 
-### Смотрите также
+### См. также
 
 * class [Notation](../)
-* пространство имен [Aspose.Svg.Dom](../../notation/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

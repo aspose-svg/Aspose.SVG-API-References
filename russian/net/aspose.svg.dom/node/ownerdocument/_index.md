@@ -1,24 +1,34 @@
 ---
-title: Node.OwnerDocument
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node свойство. Объект документа связанный с этим узлом. Это также объект Document используемый для создания новых узлов. Когда этот узел является документом или типом документа который еще не используется ни с одним документом это значение равно null.
+title: "Node.OwnerDocument"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Node OwnerDocument. Возвращает объект верхнего уровня документа узла."
 type: docs
-weight: 120
+weight: 110
 url: /ru/net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-Объект документа, связанный с этим узлом. Это также объект Document, используемый для создания новых узлов. Когда этот узел является документом или типом документа, который еще не используется ни с одним документом, это значение равно null.
+Возвращает объект документа верхнего уровня узла.
 
 ```csharp
 public virtual Document OwnerDocument { get; }
 ```
 
-### Смотрите также
+### Property Value
+
+Объект [`Document`](../../document/), являющийся верхнеуровневым объектом, в котором создаются все дочерние узлы.
+
+Если это свойство используется на узле, который сам является документом, значение равно null.
+
+## Замечания
+
+Ссылка:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
+
+### См. также
 
 * class [Document](../../document/)
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

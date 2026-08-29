@@ -1,167 +1,165 @@
 ---
-title: Renderer1.Render
-second_title: Справочник по Aspose.SVG для .NET API
-description: Renderer метод. Определяет метод рендерингаTDocument в указанныеIDevice .
+title: "Renderer-1.Render"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Renderer Render. Определяет метод для рендеринга TSource в указанный IDevice"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_3}
+## Render(*[IDevice](../../idevice/), TSource*) {#render_3}
 
-Определяет метод рендеринга!:TDocument в указанные[`IDevice`](../../idevice/) .
+Определяет метод для рендеринга *TSource* в указанный [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document)
+public void Render(IDevice device, TSource source)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Выходное устройство. |
-| document | TDocument | Документ. |
+| устройство | IDevice | Выходное устройство. |
+| источник | TSource | Источник для рендеринга. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
-* сборка [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_5}
+## Render(*[IDevice](../../idevice/), TSource, TimeSpan*) {#render_5}
 
-Определяет метод рендеринга!:TDocument в указанные[`IDevice`](../../idevice/) .
+Определяет метод для рендеринга *TSource* в указанный [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document, TimeSpan timeout)
+public void Render(IDevice device, TSource source, TimeSpan timeout)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Выходное устройство. |
-| document | TDocument | Документ. |
-| timeout | TimeSpan | АTimeSpan который представляет количество миллисекунд ожидания, илиTimeSpan что представляет собой -1 миллисекунду ожидания на неопределенный срок. |
+| устройство | IDevice | Выходное устройство. |
+| источник | TSource | Источник для рендеринга. |
+| timeout | TimeSpan | Объект TimeSpan, представляющий количество миллисекунд ожидания, или объект TimeSpan, представляющий -1 миллисекунду для бесконечного ожидания. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
-* сборка [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_4}
+## Render(*[IDevice](../../idevice/), TSource, int*) {#render_4}
 
-Определяет метод рендеринга!:TDocument в указанные[`IDevice`](../../idevice/) .
+Определяет метод для рендеринга *TSource* в указанный [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, TDocument document, int timeout)
+public void Render(IDevice device, TSource source, int timeout)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Выходное устройство. |
-| document | TDocument | Документ. |
-| timeout | Int32 | Число миллисекунд, которое представляет собой количество миллисекунд ожидания или -1 миллисекунду для бесконечного ожидания. |
+| устройство | IDevice | Выходное устройство. |
+| источник | TSource | Источник для рендеринга. |
+| timeout | Int32 | Количество миллисекунд, представляющее количество миллисекунд ожидания, или -1 миллисекунда для бесконечного ожидания. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
-* сборка [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_6}
+## Render(*[IDevice](../../idevice/), params TSource[]*) {#render_6}
 
-Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice/) .
+Определяет метод для рендеринга нескольких *TSource*s в конкретный [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, params TDocument[] documents)
+public void Render(IDevice device, params TSource[] sources)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Выходное устройство. |
-| documents | TDocument[] | Документы для оформления. |
+| устройство | IDevice | Выходное устройство. |
+| источники | TSource[] | Источники для рендеринга. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
-* сборка [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, int, params TDocument[]) {#render}
+## Render(*[IDevice](../../idevice/), int, params TSource[]*) {#render}
 
-Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice/) .
+Определяет метод для рендеринга нескольких *TSource*s в конкретный [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, int timeout, params TDocument[] documents)
+public void Render(IDevice device, int timeout, params TSource[] sources)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Выходное устройство. |
-| timeout | Int32 | Число миллисекунд, которое представляет собой количество миллисекунд ожидания или -1 миллисекунду для бесконечного ожидания. |
-| documents | TDocument[] | Документы для оформления. |
+| устройство | IDevice | Выходное устройство. |
+| timeout | Int32 | Количество миллисекунд, представляющее количество миллисекунд ожидания, или -1 миллисекунда для бесконечного ожидания. |
+| источники | TSource[] | Источники для рендеринга. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
-* сборка [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
+## Render(*[IDevice](../../idevice/), TimeSpan, params TSource[]*) {#render_2}
 
-Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice/) .
+Определяет метод для рендеринга нескольких *TSource*s в конкретный [`IDevice`](../../idevice/).
 
 ```csharp
-public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
+public abstract void Render(IDevice device, TimeSpan timeout, params TSource[] sources)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Выходное устройство. |
-| timeout | TimeSpan | АTimeSpan который представляет количество миллисекунд ожидания, илиTimeSpan что представляет собой -1 миллисекунду ожидания на неопределенный срок. |
-| documents | TDocument[] | Документы для оформления. |
+| устройство | IDevice | Выходное устройство. |
+| timeout | TimeSpan | Объект TimeSpan, представляющий количество миллисекунд ожидания, или объект TimeSpan, представляющий -1 миллисекунду для бесконечного ожидания. |
+| источники | TSource[] | Источники для рендеринга. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
-* сборка [Aspose.SVG](../../../)
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+## Render(*[IDevice](../../idevice/), CancellationToken, params TSource[]*) {#render_1}
 
-Определяет метод рендеринга нескольких!:TDocument в конкретный[`IDevice`](../../idevice/) , используя токен отмены для запроса отмены операции.
+Определяет метод для рендеринга нескольких *TSource*s в конкретный [`IDevice`](../../idevice/), используя токен отмены для запроса отмены операции.
 
 ```csharp
 public abstract void Render(IDevice device, CancellationToken cancellationToken, 
-    params TDocument[] documents)
+    params TSource[] sources)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Выходное устройство. |
-| cancellationToken | CancellationToken | АCancellationToken наблюдать, ожидая завершения задачи. |
-| documents | TDocument[] | Документы для оформления. |
+| устройство | IDevice | Выходное устройство. |
+| cancellationToken | CancellationToken | Токен CancellationToken, наблюдаемый во время ожидания завершения задачи. |
+| источники | TSource[] | Источники для рендеринга. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../idevice/)
-* class [Renderer&lt;TDocument&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
-* сборка [Aspose.SVG](../../../)
-
-
+* class [Renderer&lt;TSource&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Interface IDocumentStyle
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.IDocumentStyle интерфейс. Интерфейс DocumentStyle предоставляет механизм с помощью которого таблицы стилей встроенные в документ могут быть извлечены. Ожидается что экземпляр интерфейса DocumentStyle может быть получен с помощью методов приведения конкретных привязок к экземпляру интерфейса Document.
+title: "Интерфейс IDocumentStyle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.IDocumentStyle интерфейс. Интерфейс DocumentStyle предоставляет механизм, с помощью которого можно получить таблицы стилей, встроенные в документ. Ожидается, что экземпляр интерфейса DocumentStyle может быть получен с помощью методов приведения, специфичных для привязки, к экземпляру интерфейса Document."
 type: docs
-weight: 700
+weight: 2700
 url: /ru/net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface
 
-Интерфейс DocumentStyle предоставляет механизм, с помощью которого таблицы стилей, встроенные в документ, могут быть извлечены. Ожидается, что экземпляр интерфейса DocumentStyle может быть получен с помощью методов приведения конкретных привязок к экземпляру интерфейса Document.
+Интерфейс DocumentStyle предоставляет механизм получения таблиц стилей, встроенных в документ. Ожидается, что экземпляр интерфейса DocumentStyle можно получить с помощью методов приведения, специфичных для привязки, к экземпляру интерфейса Document.
 
 ```csharp
 public interface IDocumentStyle
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | Список, содержащий все таблицы стилей, явно связанные с документом или встроенные в него. Для HTML-документов сюда входят внешние таблицы стилей, включаемые через HTML-элемент LINK, и встроенные элементы STYLE. |
+| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | Список, содержащий все таблицы стилей, явно подключённые или встроенные в документ. Для HTML‑документов это включает внешние таблицы стилей, подключённые через элемент HTML LINK, и встроенные элементы STYLE. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

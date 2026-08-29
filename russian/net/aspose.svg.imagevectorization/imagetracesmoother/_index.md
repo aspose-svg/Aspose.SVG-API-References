@@ -1,14 +1,14 @@
 ---
-title: Class ImageTraceSmoother
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.ImageVectorization.ImageTraceSmoother сорт. Класс ImageTraceSimplifier отвечает за сглаживание количества точек на кривой аппроксимируемой серией точек трассировки. Этот класс реализует метод ближайшего соседа.
+title: "Класс ImageTraceSmoother"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.ImageVectorization.ImageTraceSmoother. Класс ImageTraceSimplifier отвечает за сглаживание количества точек в кривой, приближённой серией точек трассировки. Этот класс реализует подход ближайшего соседа."
 type: docs
-weight: 2130
+weight: 4200
 url: /ru/net/aspose.svg.imagevectorization/imagetracesmoother/
 ---
 ## ImageTraceSmoother class
 
-Класс ImageTraceSimplifier отвечает за сглаживание количества точек на кривой, аппроксимируемой серией точек трассировки. Этот класс реализует метод ближайшего соседа.
+Класс ImageTraceSimplifier отвечает за сглаживание количества точек в кривой, аппроксимируемой серией точек трассировки. Этот класс реализует подход ближайшего соседа.
 
 ```csharp
 public class ImageTraceSmoother : IImageTraceSmoother
@@ -18,25 +18,23 @@ public class ImageTraceSmoother : IImageTraceSmoother
 
 | Имя | Описание |
 | --- | --- |
-| [ImageTraceSmoother](imagetracesmoother/#constructor)() | Инициализирует новый экземпляр`ImageTraceSmoother` класс. |
-| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(int) | Инициализирует новый экземпляр`ImageTraceSmoother` класс. |
+| [ImageTraceSmoother](imagetracesmoother/#constructor)() | Инициализирует новый экземпляр класса `ImageTraceSmoother`. |
+| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(*int*) | Инициализирует новый экземпляр класса `ImageTraceSmoother`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent/) { get; set; } | Получает наборы протяженности области, рассматриваемой точкой запроса. Должен быть в диапазоне от 1 до 20. Любые большие или меньшие значения будут выравниваться с минимальным и максимальным значениями этого диапазона соответственно. |
+| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent/) { get; set; } | Получает или задает размер области, рассматриваемой запросом точки. Должно быть в диапазоне от 1 до 20. Любые более высокие или более низкие значения будут скорректированы до минимального и максимального значений этого диапазона соответственно. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(IEnumerable&lt;PointF&gt;) | Сглаживает трассировку. |
+| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(*IEnumerable&lt;PointF&gt;*) | Сглаживает трассировку. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageTraceSmoother](../iimagetracesmoother/)
-* пространство имен [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

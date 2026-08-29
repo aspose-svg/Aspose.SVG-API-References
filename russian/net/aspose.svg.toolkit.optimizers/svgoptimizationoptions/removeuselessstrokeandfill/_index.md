@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveUselessStrokeAndFill
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGOptimizationOptions свойство. Gets устанавливает возможность удаления неиспользуемых атрибутов обводки и заливки. По умолчанию это истина.
+title: "SVGOptimizationOptions.RemoveUselessStrokeAndFill"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGOptimizationOptions RemoveUselessStrokeAndFill. Получает или задает параметр, определяющий удаление неиспользуемых атрибутов stroke и fill. По умолчанию true."
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeuselessstrokeandfill/
 ---
 ## SVGOptimizationOptions.RemoveUselessStrokeAndFill property
 
-Gets устанавливает возможность удаления неиспользуемых атрибутов обводки и заливки. По умолчанию это «истина».
+Получает или задает параметр, позволяющий удалять неиспользуемые атрибуты stroke и fill. По умолчанию значение 'true'.
 
 ```csharp
 public bool RemoveUselessStrokeAndFill { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

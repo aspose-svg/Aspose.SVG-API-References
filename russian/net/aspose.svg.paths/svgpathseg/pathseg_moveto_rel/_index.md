@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_MOVETO_REL
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSeg поле. Соответствует команде данных пути относительного перемещения m.
+title: "SVGPathSeg.PATHSEG_MOVETO_REL"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPathSeg PATHSEG_MOVETO_REL поле. Соответствует относительной команде moveto m в данных пути"
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_moveto_rel/
 ---
 ## SVGPathSeg.PATHSEG_MOVETO_REL field
 
-Соответствует команде данных пути "относительного перемещения" (m).
+Соответствует команде данных пути "relative moveto" (m).
 
 ```csharp
 public const ushort PATHSEG_MOVETO_REL;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSeg](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathseg/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

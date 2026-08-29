@@ -1,23 +1,21 @@
 ---
-title: EventTarget.Dispose
-second_title: Справочник по Aspose.SVG для .NET API
-description: EventTarget метод. Выполняет определяемые приложением задачи связанные с освобождением высвобождением или сбросом неуправляемых ресурсов.
+title: "EventTarget.Dispose"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод EventTarget Dispose. Выполняет определённые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.svg.dom/eventtarget/dispose/
 ---
 ## EventTarget.Dispose method
 
-Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов.
+Выполняет задачи, определённые приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов.
 
 ```csharp
 public void Dispose()
 ```
 
-### Смотрите также
+### См. также
 
 * class [EventTarget](../)
-* пространство имен [Aspose.Svg.Dom](../../eventtarget/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: IAbstractView.Document
-second_title: Справочник по Aspose.SVG для .NET API
-description: IAbstractView свойство. Исходный DocumentView для которого это AbstractView.
+title: "IAbstractView.Document"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IAbstractView Document. Исходный DocumentView, для которого это является AbstractView."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.views/iabstractview/document/
 ---
 ## IAbstractView.Document property
 
-Исходный DocumentView, для которого это AbstractView.
+Исходный DocumentView, из которого это является AbstractView.
 
 ```csharp
 public IDocumentView Document { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Документ.
 
-### Смотрите также
+### См. также
 
 * interface [IDocumentView](../../idocumentview/)
 * interface [IAbstractView](../)
-* пространство имен [Aspose.Svg.Dom.Views](../../iabstractview/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

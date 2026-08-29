@@ -1,9 +1,9 @@
 ---
-title: Interface ISVGZoomAndPan
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.ISVGZoomAndPan интерфейс. Интерфейс SVGZoomAndPan определяет атрибут zoomAndPan и связанные константы.
+title: "Интерфейс ISVGZoomAndPan"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.ISVGZoomAndPan. Интерфейс SVGZoomAndPan определяет атрибут zoomAndPan и связанные константы"
 type: docs
-weight: 2060
+weight: 4130
 url: /ru/net/aspose.svg/isvgzoomandpan/
 ---
 ## ISVGZoomAndPan interface
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg/isvgzoomandpan/
 public interface ISVGZoomAndPan
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | Соответствует атрибуту zoomAndPan данного элемента. Значение должно быть одной из констант SVG_ZOOMANDPAN_*, определенных в этом интерфейсе. |
+| [ZoomAndPan](../../aspose.svg/isvgzoomandpan/zoomandpan/) { get; set; } | Соответствует атрибуту ‘zoomAndPan’ заданного элемента. Значение должно быть одной из констант SVG_ZOOMANDPAN_*, определённых в этом интерфейсе. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg](../../aspose.svg/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

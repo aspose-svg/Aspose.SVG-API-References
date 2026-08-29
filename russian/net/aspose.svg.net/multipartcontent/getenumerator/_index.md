@@ -1,14 +1,14 @@
 ---
-title: MultipartContent.GetEnumerator
-second_title: Справочник по Aspose.SVG для .NET API
-description: MultipartContent метод. Возвращает перечислитель который перебирает коллекцию.
+title: "MultipartContent.GetEnumerator"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetEnumerator класса MultipartContent. Возвращает перечислитель, который перебирает коллекцию."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.net/multipartcontent/getenumerator/
 ---
 ## MultipartContent.GetEnumerator method
 
-Возвращает перечислитель, который перебирает коллекцию.
+Возвращает перечислитель, который проходит по коллекции.
 
 ```csharp
 public IEnumerator<Content> GetEnumerator()
@@ -16,13 +16,11 @@ public IEnumerator<Content> GetEnumerator()
 
 ### Возвращаемое значение
 
-АнIEnumerator объект, который можно использовать для перебора коллекции.
+Объект IEnumerator, который можно использовать для перебора элементов коллекции.
 
-### Смотрите также
+### См. также
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* пространство имен [Aspose.Svg.Net](../../multipartcontent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

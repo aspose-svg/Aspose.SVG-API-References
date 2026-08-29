@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.Item
-second_title: Справочник по Aspose.SVG для .NET API
-description: NamedNodeMap свойство. Возвращает индексный элемент на карте. Если индекс больше или равен количеству узлов на этой карте возвращается null.
+title: "NamedNodeMap.Item"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Item в NamedNodeMap. Возвращает элемент с указанным индексом в карте. Если индекс больше или равен количеству узлов в этой карте, возвращается null."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.collections/namednodemap/item/
 ---
 ## NamedNodeMap indexer (1 of 2)
 
-Возвращает индексный элемент на карте. Если индекс больше или равен количеству узлов на этой карте, возвращается null.
+Возвращает элемент с указанным индексом в карте. Если индекс больше или равен количеству узлов в этой карте, возвращается null.
 
 ```csharp
 public Attr this[int index] { get; }
@@ -22,22 +22,22 @@ public Attr this[int index] { get; }
 
 Возвращает узел.
 
-### Стоимость имущества
+### Property Value
 
-[`Attr`](../../../aspose.svg.dom/attr/) .
+Элемент [`Attr`](../../../aspose.svg.dom/attr/).
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* пространство имен [Aspose.Svg.Collections](../../namednodemap/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## NamedNodeMap indexer (2 of 2)
 
-Получает[`Attr`](../../../aspose.svg.dom/attr/) с указанным именем.
+Получает [`Attr`](../../../aspose.svg.dom/attr/) с указанным именем.
 
 ```csharp
 public Attr this[string name] { get; }
@@ -51,15 +51,13 @@ public Attr this[string name] { get; }
 
 Возвращает узел.
 
-### Стоимость имущества
+### Property Value
 
-[`Attr`](../../../aspose.svg.dom/attr/) .
+Элемент [`Attr`](../../../aspose.svg.dom/attr/).
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* пространство имен [Aspose.Svg.Collections](../../namednodemap/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

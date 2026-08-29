@@ -1,27 +1,25 @@
 ---
-title: Text.IsElementContentWhitespace
-second_title: Справочник по Aspose.SVG для .NET API
-description: Text свойство. Возвращает содержит ли этот текстовый узел пробелы в содержимом элемента часто оскорбительно называемые игнорируемыми пробелами.
+title: "Text.IsElementContentWhitespace"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Text IsElementContentWhitespace. Возвращает, содержит ли этот текстовый узел пробелы содержимого элемента, часто ошибочно называемые игнорируемыми пробелами"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 
-Возвращает, содержит ли этот текстовый узел пробелы в содержимом элемента, часто оскорбительно называемые «игнорируемыми пробелами».
+Возвращает, содержит ли этот текстовый узел пробельные символы содержимого элемента, часто ошибочно называемые «игнорируемыми пробелами».
 
 ```csharp
 public bool IsElementContentWhitespace { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр является пробелом содержимого элемента; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр является пробелом содержимого элемента; в противном случае `false`.
 
-### Смотрите также
+### См. также
 
 * class [Text](../)
-* пространство имен [Aspose.Svg.Dom](../../text/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

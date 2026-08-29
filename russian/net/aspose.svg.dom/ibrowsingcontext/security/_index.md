@@ -1,28 +1,26 @@
 ---
-title: IBrowsingContext.Security
-second_title: Справочник по Aspose.SVG для .NET API
-description: IBrowsingContext свойство. Получает флаг песочницы.
+title: "IBrowsingContext.Security"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IBrowsingContext Security property. Получает флаг песочницы"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/ibrowsingcontext/security/
 ---
 ## IBrowsingContext.Security property
 
-Получает флаг песочницы.
+Получает флаг изоляции (sandboxing).
 
 ```csharp
 public Sandbox Security { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ценная бумага.
+Безопасность.
 
-### Смотрите также
+### См. также
 
 * enum [Sandbox](../../../aspose.svg/sandbox/)
 * interface [IBrowsingContext](../)
-* пространство имен [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

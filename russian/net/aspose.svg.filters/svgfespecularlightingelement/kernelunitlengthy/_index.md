@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.KernelUnitLengthY
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFESpecularLightingElement свойство. Соответствует атрибуту kernelUnitLength данного элемента feSpecularLighting.
+title: "SVGFESpecularLightingElement.KernelUnitLengthY"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFESpecularLightingElement KernelUnitLengthY свойство. Соответствует атрибуту kernelUnitLength в данном элементе feSpecularLighting"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.filters/svgfespecularlightingelement/kernelunitlengthy/
 ---
 ## SVGFESpecularLightingElement.KernelUnitLengthY property
 
-Соответствует атрибуту 'kernelUnitLength' данного элемента 'feSpecularLighting'.
+Соответствует атрибуту ‘kernelUnitLength’ в данном элементе ‘feSpecularLighting’.
 
 ```csharp
 public SVGAnimatedNumber KernelUnitLengthY { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'kernelUnitLength' данного элемента 'feSpecularLighting'.
+Атрибут ‘kernelUnitLength’ данного ‘feSpecularLighting’ элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

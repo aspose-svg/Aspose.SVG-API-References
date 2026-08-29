@@ -1,24 +1,22 @@
 ---
-title: GraphicContext.StrokeBrush
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. Устанавливает или получает объекткисть который используется для обведенных контуров.
+title: "GraphicContext.StrokeBrush"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext StrokeBrush. Устанавливает или получает объект кисти, используемый для обводки путей"
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.rendering/graphiccontext/strokebrush/
 ---
 ## GraphicContext.StrokeBrush property
 
-Устанавливает или получает объект-кисть, который используется для обведенных контуров.
+Устанавливает или получает объект кисти, который используется для обведенных путей.
 
 ```csharp
 public virtual IBrush StrokeBrush { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IBrush](../../../aspose.svg.drawing/ibrush/)
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

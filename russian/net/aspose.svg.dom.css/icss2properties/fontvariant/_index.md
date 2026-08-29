@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.FontVariant
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства fontvariant в CSS2.
+title: "ICSS2Properties.FontVariant"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство FontVariant в ICSS2Properties. См. определение свойства font-variant в CSS2"
 type: docs
 weight: 530
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontvariant/
@@ -16,12 +16,10 @@ public string FontVariant { get; set; }
 
 ### Возвращаемое значение
 
-свойство варианта шрифта
+свойство font-variant
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: DocumentFragment.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentFragment свойство. Код представляющий тип базового объекта.
+title: "DocumentFragment.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "DocumentFragment NodeType property. Код, представляющий тип базового объекта."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom/documentfragment/nodetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/documentfragment/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип узла.
 
-### Смотрите также
+### См. также
 
 * class [DocumentFragment](../)
-* пространство имен [Aspose.Svg.Dom](../../documentfragment/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

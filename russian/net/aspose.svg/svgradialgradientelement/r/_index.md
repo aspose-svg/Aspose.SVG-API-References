@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.R
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRadialGradientElement свойство. Соответствует атрибуту r данного элемента radialGradient.
+title: "SVGRadialGradientElement.R"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGRadialGradientElement R. Соответствует атрибуту r в данном элементе radialGradient"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgradialgradientelement/r/
 ---
 ## SVGRadialGradientElement.R property
 
-Соответствует атрибуту 'r' данного элемента 'radialGradient'.
+Соответствует атрибуту ‘r’ в данном элементе ‘radialGradient’.
 
 ```csharp
 public SVGAnimatedLength R { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'r' данного элемента 'radialGradient'.
+Атрибут ‘r’ данного элемента ‘radialGradient’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* пространство имен [Aspose.Svg](../../svgradialgradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

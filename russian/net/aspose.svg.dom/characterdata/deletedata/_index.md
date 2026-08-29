@@ -1,14 +1,14 @@
 ---
-title: CharacterData.DeleteData
-second_title: Справочник по Aspose.SVG для .NET API
-description: CharacterData метод. Удалить диапазон 16битных единиц из узла.
+title: "CharacterData.DeleteData"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CharacterData DeleteData. Удаляет диапазон 16‑битных единиц из узла"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/characterdata/deletedata/
 ---
 ## CharacterData.DeleteData method
 
-Удалить диапазон 16-битных единиц из узла.
+Удаляет диапазон 16‑битных единиц из узла.
 
 ```csharp
 public virtual void DeleteData(int offset, int count)
@@ -17,12 +17,10 @@ public virtual void DeleteData(int offset, int count)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | offset | Int32 | Смещение. |
-| count | Int32 | Счет. |
+| count | Int32 | Количество. |
 
-### Смотрите также
+### См. также
 
 * class [CharacterData](../)
-* пространство имен [Aspose.Svg.Dom](../../characterdata/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

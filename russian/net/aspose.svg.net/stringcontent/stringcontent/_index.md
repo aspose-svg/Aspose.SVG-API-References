@@ -1,14 +1,14 @@
 ---
-title: StringContent.StringContent
-second_title: Справочник по Aspose.SVG для .NET API
-description: StringContent строитель. Инициализирует новый экземплярStringContent класс.
+title: "StringContent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор StringContent. Инициализирует новый экземпляр класса StringContent"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/stringcontent/stringcontent/
 ---
-## StringContent(string) {#constructor}
+## StringContent(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`StringContent`](../) класс.
+Инициализирует новый экземпляр класса [`StringContent`](../).
 
 ```csharp
 public StringContent(string content)
@@ -16,19 +16,19 @@ public StringContent(string content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Контент. |
+| content | String | Содержимое. |
 
-### Смотрите также
+### См. также
 
 * class [StringContent](../)
-* пространство имен [Aspose.Svg.Net](../../stringcontent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding) {#constructor_1}
+## StringContent(*string, Encoding*) {#constructor_1}
 
-Инициализирует новый экземпляр[`StringContent`](../) класс.
+Инициализирует новый экземпляр класса [`StringContent`](../).
 
 ```csharp
 public StringContent(string content, Encoding encoding)
@@ -36,20 +36,20 @@ public StringContent(string content, Encoding encoding)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Контент. |
-| encoding | Encoding | Кодировка. |
+| content | String | Содержимое. |
+| кодировка | Кодировка | Кодировка. |
 
-### Смотрите также
+### См. также
 
 * class [StringContent](../)
-* пространство имен [Aspose.Svg.Net](../../stringcontent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding, string) {#constructor_2}
+## StringContent(*string, Encoding, string*) {#constructor_2}
 
-Инициализирует новый экземпляр[`StringContent`](../) класс.
+Инициализирует новый экземпляр класса [`StringContent`](../).
 
 ```csharp
 public StringContent(string content, Encoding encoding, string mediaType)
@@ -57,14 +57,12 @@ public StringContent(string content, Encoding encoding, string mediaType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Контент. |
-| encoding | Encoding | Кодировка. |
-| mediaType | String | Тип носителя. |
+| content | String | Содержимое. |
+| кодировка | Кодировка | Кодировка. |
+| mediaType | String | Тип медиа. |
 
-### Смотрите также
+### См. также
 
 * class [StringContent](../)
-* пространство имен [Aspose.Svg.Net](../../stringcontent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

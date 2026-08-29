@@ -1,24 +1,22 @@
 ---
-title: IWindowEventHandlers.OnPageHide
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindowEventHandlers событие. Получает или задает обработчик события
+title: "IWindowEventHandlers.OnPageHide"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IWindowEventHandlers OnPageHide. Получает или задает обработчик события"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/onpagehide/
 ---
 ## IWindowEventHandlers.OnPageHide event
 
-Получает или задает обработчик события
+Получает или задаёт обработчик события
 
 ```csharp
 public event DOMEventHandler OnPageHide;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* пространство имен [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

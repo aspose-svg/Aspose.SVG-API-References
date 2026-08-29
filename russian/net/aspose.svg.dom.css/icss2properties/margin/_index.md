@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Margin
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства поля в CSS2.
+title: "ICSS2Properties.Margin"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Margin интерфейса ICSS2Properties. См. определение свойства margin в CSS2"
 type: docs
-weight: 630
+weight: 660
 url: /ru/net/aspose.svg.dom.css/icss2properties/margin/
 ---
 ## ICSS2Properties.Margin property
 
-См. определение свойства поля в CSS2.
+См. определение свойства margin в CSS2.
 
 ```csharp
 public string Margin { get; set; }
@@ -16,12 +16,10 @@ public string Margin { get; set; }
 
 ### Возвращаемое значение
 
-маржинальное свойство
+свойство margin
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

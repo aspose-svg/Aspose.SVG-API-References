@@ -1,27 +1,25 @@
 ---
-title: MimeType.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: MimeType свойство. Получает тип носителя.
+title: "MimeType.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MimeType Type. Получает тип медиа"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/mimetype/type/
 ---
 ## MimeType.Type property
 
-Получает тип носителя.
+Возвращает тип медиа.
 
 ```csharp
 public string Type { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип носителя.
+Тип медиа.
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

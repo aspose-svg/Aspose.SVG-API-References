@@ -1,7 +1,7 @@
 ---
-title: DOMException.DOMSTRING_SIZE_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Если указанный диапазон текста не помещается в DOMString.
+title: "DOMException.DOMSTRING_SIZE_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException DOMSTRING_SIZE_ERR. Если указанный диапазон текста не помещается в DOMString"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/domexception/domstring_size_err/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom/domexception/domstring_size_err/
 public const ushort DOMSTRING_SIZE_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

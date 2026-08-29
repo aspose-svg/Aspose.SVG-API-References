@@ -1,27 +1,31 @@
 ---
-title: Node.Prefix
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node свойство. Префикс пространства имен этого узла или нуль если он не указан. Когда он определен как нуль его установка не имеет никакого эффекта
+title: "Node.Prefix"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Node Prefix. Возвращает префикс пространства имён указанного элемента или null, если префикс не задан"
 type: docs
-weight: 150
+weight: 140
 url: /ru/net/aspose.svg.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-Префикс пространства имен этого узла или нуль, если он не указан. Когда он определен как нуль, его установка не имеет никакого эффекта
+Возвращает префикс пространства имён указанного элемента или null, если префикс не указан.
 
 ```csharp
 public virtual string Prefix { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Префикс.
+Свойство возвращает связанный префикс пространства имён.
 
-### Смотрите также
+## Замечания
+
+Ссылка:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
+
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

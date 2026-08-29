@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.MarginBottom
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства marginbottom в CSS2.
+title: "ICSS2Properties.MarginBottom"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MarginBottom интерфейса ICSS2Properties. См. определение свойства margin-bottom в CSS2"
 type: docs
-weight: 640
+weight: 670
 url: /ru/net/aspose.svg.dom.css/icss2properties/marginbottom/
 ---
 ## ICSS2Properties.MarginBottom property
@@ -16,12 +16,10 @@ public string MarginBottom { get; set; }
 
 ### Возвращаемое значение
 
-нижняя граница
+margin-bottom
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

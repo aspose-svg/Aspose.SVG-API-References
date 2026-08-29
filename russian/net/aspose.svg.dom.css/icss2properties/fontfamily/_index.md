@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontFamily
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства семейства шрифтов в CSS2.
+title: "ICSS2Properties.FontFamily"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство FontFamily в ICSS2Properties. См. определение свойства font-family в CSS2"
 type: docs
 weight: 480
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontfamily/
 ---
 ## ICSS2Properties.FontFamily property
 
-См. определение свойства семейства шрифтов в CSS2.
+Смотрите определение свойства font-family в CSS2.
 
 ```csharp
 public string FontFamily { get; set; }
@@ -16,12 +16,10 @@ public string FontFamily { get; set; }
 
 ### Возвращаемое значение
 
-свойство семейства шрифтов
+свойство font-family
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

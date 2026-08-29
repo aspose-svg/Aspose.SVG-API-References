@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BackgroundImage
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства backgroundimage в CSS2.
+title: "ICSS2Properties.BackgroundImage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BackgroundImage интерфейса ICSS2Properties. См. определение свойства background-image в CSS2"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.css/icss2properties/backgroundimage/
@@ -16,12 +16,10 @@ public string BackgroundImage { get; set; }
 
 ### Возвращаемое значение
 
-свойство фонового изображения
+свойство background-image
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

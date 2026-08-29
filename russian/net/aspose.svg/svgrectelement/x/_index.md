@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRectElement свойство. Соответствует атрибуту x данного элемента rect.
+title: "SVGRectElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство X SVGRectElement. Соответствует атрибуту x в данном элементе rect"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgrectelement/x/
 ---
 ## SVGRectElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'rect'.
+Соответствует атрибуту ‘x’ в данном элементе ‘rect’
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'x' данного элемента 'rect'.
+Атрибут ‘x’ данного элемента ‘rect’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* пространство имен [Aspose.Svg](../../svgrectelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

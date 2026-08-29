@@ -1,9 +1,9 @@
 ---
-title: Class SVGSaveOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Saving.SVGSaveOptions сорт. Представляет параметры сохранения SVG.
+title: "Класс SVGSaveOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Saving.SVGSaveOptions. Представляет параметры сохранения SVG"
 type: docs
-weight: 3670
+weight: 5790
 url: /ru/net/aspose.svg.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class
@@ -20,17 +20,15 @@ public class SVGSaveOptions : SaveOptions
 | --- | --- |
 | [SVGSaveOptions](svgsaveoptions/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Получает[`ResourceHandlingOptions`](../resourcehandlingoptions/) объект, который используется для настройки обработки ресурсов. |
-| [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext/) { get; set; } | Получает или задает, заменяются ли текстовые элементы путями. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Получает объект [`ResourceHandlingOptions`](../resourcehandlingoptions/), используемый для настройки обработки ресурсов. |
+| [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext/) { get; set; } | Получает или задает, заменяются ли текстовые элементы на контуры. |
 
-### Смотрите также
+### См. также
 
 * class [SaveOptions](../saveoptions/)
-* пространство имен [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

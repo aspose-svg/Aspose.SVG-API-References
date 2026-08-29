@@ -1,7 +1,7 @@
 ---
-title: Frequency.op_Subtraction
-second_title: Справочник по Aspose.SVG для .NET API
-description: Frequency метод. Реализует оператор .
+title: "Frequency.op_Subtraction"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Frequency op_Subtraction метод. Реализует оператор -"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/frequency/op_subtraction/
@@ -16,8 +16,8 @@ public static Frequency operator -(Frequency a, Frequency b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Frequency | Параметр а. |
-| b | Frequency | Параметр б. |
+| a | Frequency | Параметр a. |
+| b | Frequency | Параметр b. |
 
 ### Возвращаемое значение
 
@@ -27,13 +27,11 @@ public static Frequency operator -(Frequency a, Frequency b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргументы пусты |
-| ArgumentException | Аргументы имеют разные типы или Аргументы имеют разное разрешение или |
+| ArgumentNullException | Аргументы равны null |
+| ArgumentException | Аргументы имеют разные типы или аргументы имеют разные разрешения или |
 
-### Смотрите также
+### См. также
 
 * class [Frequency](../)
-* пространство имен [Aspose.Svg.Drawing](../../frequency/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

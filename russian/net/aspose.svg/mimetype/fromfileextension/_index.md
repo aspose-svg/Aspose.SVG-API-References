@@ -1,14 +1,14 @@
 ---
-title: MimeType.FromFileExtension
-second_title: Справочник по Aspose.SVG для .NET API
-description: MimeType метод. Создает новый тип MIME на основе расширения файла.
+title: "MimeType.FromFileExtension"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод MimeType FromFileExtension. Создаёт новый MIME-тип на основе расширения файла"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/mimetype/fromfileextension/
 ---
 ## MimeType.FromFileExtension method
 
-Создает новый тип MIME на основе расширения файла.
+Создаёт новый тип MIME на основе расширения файла.
 
 ```csharp
 public static MimeType FromFileExtension(string fileName)
@@ -20,12 +20,10 @@ public static MimeType FromFileExtension(string fileName)
 
 ### Возвращаемое значение
 
-Новый экземпляр типа MIME
+Новый экземпляр MIME-типa
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

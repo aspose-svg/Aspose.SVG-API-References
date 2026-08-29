@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEColorMatrixElement свойство. Соответствует атрибуту type данного элемента feColorMatrix. Принимает одну из констант SVG_FECOLORMATRIX_TYPE_ определенных в этом интерфейсе.
+title: "SVGFEColorMatrixElement.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEColorMatrixElement Type. Соответствует атрибуту type в данном элементе feColorMatrix. Принимает одно из констант SVG_FECOLORMATRIX_TYPE_, определённых в этом интерфейсе"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.filters/svgfecolormatrixelement/type/
 ---
 ## SVGFEColorMatrixElement.Type property
 
-Соответствует атрибуту type данного элемента feColorMatrix. Принимает одну из констант SVG_FECOLORMATRIX_TYPE_*, определенных в этом интерфейсе.
+Соответствует атрибуту ‘type’ указанного элемента ‘feColorMatrix’. Принимает одну из констант SVG_FECOLORMATRIX_TYPE_*, определённых в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип атрибута данного элемента feColorMatrix.
+Атрибут ‘type’ данного элемента ‘feColorMatrix’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEColorMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

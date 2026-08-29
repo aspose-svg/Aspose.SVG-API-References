@@ -1,20 +1,20 @@
 ---
-title: SVGPathSegCurvetoQuadraticAbs.Y1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegCurvetoQuadraticAbs свойство. Абсолютная координата Y для первой контрольной точки.
+title: "SVGPathSegCurvetoQuadraticAbs.Y1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathSegCurvetoQuadraticAbs Y1. Абсолютная координата Y первой контрольной точки"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/y1/
 ---
 ## SVGPathSegCurvetoQuadraticAbs.Y1 property
 
-Абсолютная координата Y для первой контрольной точки.
+Абсолютная координата Y первой контрольной точки.
 
 ```csharp
 public float Y1 { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Абсолютная координата Y
 
@@ -22,12 +22,10 @@ public float Y1 { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoQuadraticAbs](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegcurvetoquadraticabs/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

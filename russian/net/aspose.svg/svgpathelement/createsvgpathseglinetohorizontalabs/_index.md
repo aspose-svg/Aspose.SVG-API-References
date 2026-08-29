@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathElement метод. Возвращает автономный объект SVGPathSegLinetoHorizontalAbs без родителей.
+title: "SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGPathElement CreateSVGPathSegLinetoHorizontalAbs. Возвращает автономный объект SVGPathSegLinetoHorizontalAbs без родителя."
 type: docs
 weight: 150
 url: /ru/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs method
 
-Возвращает автономный объект SVGPathSegLinetoHorizontalAbs без родителей.
+Возвращает отдельный, безродительский объект SVGPathSegLinetoHorizontalAbs.
 
 ```csharp
 public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x)
@@ -16,17 +16,15 @@ public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Абсолютная координата X для конечной точки этого сегмента пути. |
+| x | Single | Абсолютная координата X конечной точки этого сегмента пути. |
 
 ### Возвращаемое значение
 
-Автономный объект SVGPathSegLinetoHorizontalAbs без родителей.
+Автономный объект SVGPathSegLinetoHorizontalAbs без родителя.
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegLinetoHorizontalAbs](../../../aspose.svg.paths/svgpathseglinetohorizontalabs/)
 * class [SVGPathElement](../)
-* пространство имен [Aspose.Svg](../../svgpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

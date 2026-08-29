@@ -1,23 +1,21 @@
 ---
-title: TypeInfo.DERIVATION_EXTENSION
-second_title: Справочник по Aspose.SVG для .NET API
-description: TypeInfo поле. Если схема документа представляет собой XMLсхему XMLсхема часть 1 эта константа представляет происхождение по расширению.
+title: "TypeInfo.DERIVATION_EXTENSION"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "TypeInfo DERIVATION_EXTENSION field. Если схема документа является XML Schema XML Schema Part 1, эта константа представляет наследование посредством расширения"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/typeinfo/derivation_extension/
 ---
 ## TypeInfo.DERIVATION_EXTENSION field
 
-Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет происхождение по расширению.
+Если схема документа является XML Schema [XML Schema Part 1], эта константа представляет наследование посредством расширения.
 
 ```csharp
 public const ulong DERIVATION_EXTENSION;
 ```
 
-### Смотрите также
+### См. также
 
 * class [TypeInfo](../)
-* пространство имен [Aspose.Svg.Dom](../../typeinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

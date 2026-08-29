@@ -1,24 +1,22 @@
 ---
-title: RenderingOptions.HorizontalResolution
-second_title: Справочник по Aspose.SVG для .NET API
-description: RenderingOptions свойство. Устанавливает или получает разрешение по горизонтали для внутренних используемых при обработке фильтров изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi.
+title: "RenderingOptions.HorizontalResolution"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство RenderingOptions HorizontalResolution. Устанавливает или получает горизонтальное разрешение для внутренних процессов, используемых при обработке изображений фильтрами в пикселях на дюйм. По умолчанию это свойство равно 300 dpi."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering/renderingoptions/horizontalresolution/
 ---
 ## RenderingOptions.HorizontalResolution property
 
-Устанавливает или получает разрешение по горизонтали для внутренних (используемых при обработке фильтров) изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi.
+Устанавливает или получает горизонтальное разрешение внутренних (используемых при обработке фильтров) изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi.
 
 ```csharp
 public virtual Resolution HorizontalResolution { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * class [RenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

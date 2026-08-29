@@ -1,14 +1,14 @@
 ---
-title: Url.ToJson
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url метод. ВозвращаетString который представляет этот экземпляр.
+title: "Url.ToJson"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Url ToJson. Возвращает String, представляющий этот экземпляр"
 type: docs
 weight: 160
 url: /ru/net/aspose.svg/url/tojson/
 ---
 ## Url.ToJson method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public string ToJson()
@@ -16,12 +16,10 @@ public string ToJson()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

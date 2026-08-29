@@ -1,39 +1,38 @@
 ---
-title: Interface ITrueTypeFont
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.ITrueTypeFont интерфейс. Объявляет методы работы со шрифтом TrueType.
+title: "ITrueTypeFont интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Drawing.ITrueTypeFont interface. Объявляет методы для работы с шрифтами TrueType."
 type: docs
-weight: 1510
+weight: 3540
 url: /ru/net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
 
-Объявляет методы работы со шрифтом TrueType.
+Объявляет методы работы с шрифтами TrueType.
 
 ```csharp
 public interface ITrueTypeFont
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Возвращает размер данных шрифта в байтах |
-| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Получить название семейства шрифтов. |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Это должно быть сочетание "FamilyName" и "SubFamilyName". Исключение: если шрифт «Обычный», как указано в «SubFamilyName», используйте только имя семейства, содержащееся в «FamilyName». Исключением из приведенного выше определения полного имени шрифта являются строки платформы Microsoft. для шрифтов CFF OpenType: в этом случае строка полного имени шрифта должна быть идентична PostScript FontName в имени CFF INDEX. |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Имя подсемейства шрифтов отличает шрифт в группе с таким же именем семейства шрифтов. Предполагается, что это стиль адреса (курсив, наклон) и насыщенность (светлый, полужирный, черный и т. д.). Шрифт без особых различий в жирности или стиле (например, средний жирность, не курсив и установлен бит 6 fsSelection) должен иметь строку «Обычный», сохраненную в этой позиции. |
+| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Получает размер данных шрифта в байтах. |
+| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Получает название семейства шрифта. |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Полное название шрифта обычно представляется как комбинация названий семейства и подсемейства. |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | Получает стиль шрифта, который объединяет значения правила font-face и данные из шрифта. |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Подназвание Subfamily различает шрифт в группе с одинаковым названием семейства. Предполагается, что оно описывает стиль (italic, oblique) и толщину (light, bold, black и т.д.). Шрифт без особых различий по толщине или стилю должен иметь строку "Regular". |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | Возвращает подъем в пунктах. |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Открыть поток с данными шрифта. Вызывающий отвечает за удаление потока. |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | Возвращает спуск в пунктах. |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(*float*) | Получает высоту восхождения шрифта в пунктах, используя указанный размер шрифта. |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Открывает поток с данными шрифта. Вызывающий код отвечает за освобождение потока. |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(*float*) | Получает глубину спуска шрифта в пунктах, используя указанный размер шрифта. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

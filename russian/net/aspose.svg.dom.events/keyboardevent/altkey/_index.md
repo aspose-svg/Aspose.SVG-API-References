@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.AltKey
-second_title: Справочник по Aspose.SVG для .NET API
-description: KeyboardEvent свойство. true если модификатор клавиши Alt альтернативный или Option был активен. Неинициализированное значение этого атрибута ДОЛЖНО быть ложным.
+title: "KeyboardEvent.AltKey"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство KeyboardEvent AltKey. true, если модификатор клавиши Alt (альтернатива) или Option был активен. Неинициализированное значение этого атрибута ДОЛЖНО быть false."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.events/keyboardevent/altkey/
 ---
 ## KeyboardEvent.AltKey property
 
-true, если модификатор клавиши Alt (альтернативный) (или «Option») был активен. Неинициализированное значение этого атрибута ДОЛЖНО быть ложным.
+true, если модификатор клавиши Alt (alternative) (или \"Option\") был активен. Неинициализированное значение этого атрибута ДОЛЖНО быть false.
 
 ```csharp
 public bool AltKey { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если Альт; в противном случае,`ЛОЖЬ` .
+`true` если Alt; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [KeyboardEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

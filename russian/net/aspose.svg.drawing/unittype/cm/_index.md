@@ -1,7 +1,7 @@
 ---
-title: UnitType.Cm
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в сантиметрах
+title: "UnitType.Cm"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Cm. Измерение в сантиметрах"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/unittype/cm/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/cm/
 public static readonly UnitType Cm;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

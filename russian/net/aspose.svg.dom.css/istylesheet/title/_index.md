@@ -1,23 +1,21 @@
 ---
-title: IStyleSheet.Title
-second_title: Справочник по Aspose.SVG для .NET API
-description: IStyleSheet свойство. Консультативный заголовок.
+title: "IStyleSheet.Title"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IStyleSheet Title свойство. Информативный заголовок."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.css/istylesheet/title/
 ---
 ## IStyleSheet.Title property
 
-Консультативный заголовок.
+Рекомендованное название.
 
 ```csharp
 public string Title { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IStyleSheet](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../istylesheet/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

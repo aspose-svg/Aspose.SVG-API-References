@@ -1,14 +1,14 @@
 ---
-title: Class DOMConstructorAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Attributes.DOMConstructorAttribute сорт. Задает конструктор определенный W3C.
+title: "Класс DOMConstructorAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Dom.Attributes.DOMConstructorAttribute. Указывает конструктор, определённый W3C."
 type: docs
-weight: 370
+weight: 2370
 url: /ru/net/aspose.svg.dom.attributes/domconstructorattribute/
 ---
 ## DOMConstructorAttribute class
 
-Задает конструктор, определенный W3C.
+Указывает конструктор, определённый W3C.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -21,9 +21,13 @@ public sealed class DOMConstructorAttribute : Attribute
 | --- | --- |
 | [DOMConstructorAttribute](domconstructorattribute/)() | Конструктор по умолчанию. |
 
-### Смотрите также
+## Свойства
 
-* пространство имен [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* сборка [Aspose.SVG](../../)
+| Имя | Описание |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### См. также
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

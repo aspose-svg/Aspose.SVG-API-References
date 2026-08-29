@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.RequiredExtensions
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPatternElement свойство. Соответствует атрибуту requiredExtensions данного элемента.
+title: "SVGPatternElement.RequiredExtensions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство RequiredExtensions SVGPatternElement. Соответствует атрибуту requiredExtensions данного элемента."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/svgpatternelement/requiredextensions/
 ---
 ## SVGPatternElement.RequiredExtensions property
 
-Соответствует атрибуту «requiredExtensions» данного элемента.
+Соответствует атрибуту ‘requiredExtensions’ данного элемента.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Требуемые расширения.
 
-### Смотрите также
+### См. также
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGPatternElement](../)
-* пространство имен [Aspose.Svg](../../svgpatternelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

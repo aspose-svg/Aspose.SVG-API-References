@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.Values
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEColorMatrixElement свойство. Соответствует значениям атрибута данного элемента feColorMatrix.
+title: "SVGFEColorMatrixElement.Values"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEColorMatrixElement Values. Соответствует атрибуту values в данном элементе feColorMatrix"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.filters/svgfecolormatrixelement/values/
 ---
 ## SVGFEColorMatrixElement.Values property
 
-Соответствует значениям атрибута данного элемента feColorMatrix.
+Соответствует атрибуту ‘values’ указанного элемента ‘feColorMatrix’.
 
 ```csharp
 public SVGAnimatedNumberList Values { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значения атрибута данного элемента feColorMatrix.
+Атрибут ‘values’ данного элемента ‘feColorMatrix’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGFEColorMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

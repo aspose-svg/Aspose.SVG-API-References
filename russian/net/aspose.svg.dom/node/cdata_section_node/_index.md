@@ -1,23 +1,21 @@
 ---
-title: Node.CDATA_SECTION_NODE
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node поле. Раздел cdata node
+title: "Node.CDATA_SECTION_NODE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле Node CDATA_SECTION_NODE. Узел секции CDATA."
 type: docs
-weight: 330
+weight: 310
 url: /ru/net/aspose.svg.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
 
-Раздел cdata node
+Узел секции CDATA
 
 ```csharp
 public const ushort CDATA_SECTION_NODE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

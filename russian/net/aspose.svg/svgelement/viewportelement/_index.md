@@ -1,27 +1,25 @@
 ---
-title: SVGElement.ViewportElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGElement свойство. Элемент который устанавливает текущее окно просмотра. Часто ближайший предок элемент svg. Null если данный элемент является самым внешним элементом svg.
+title: "SVGElement.ViewportElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ViewportElement SVGElement. Элемент, установивший текущий viewport. Обычно это ближайший предок‑элемент svg. Null, если указанный элемент является самым внешним элементом svg."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgelement/viewportelement/
 ---
 ## SVGElement.ViewportElement property
 
-Элемент, который устанавливает текущее окно просмотра. Часто ближайший предок элемент 'svg'. Null, если данный элемент является самым внешним элементом svg.
+Элемент, определяющий текущий viewport. Часто это ближайший предок‑элемент ‘svg’. Null, если данный элемент является самым внешним элементом svg.
 
 ```csharp
 public SVGElement ViewportElement { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Элемент окна просмотра.
+Элемент viewport.
 
-### Смотрите также
+### См. также
 
 * class [SVGElement](../)
-* пространство имен [Aspose.Svg](../../svgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

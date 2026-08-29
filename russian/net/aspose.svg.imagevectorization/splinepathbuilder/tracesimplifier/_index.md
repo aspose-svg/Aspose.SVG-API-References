@@ -1,24 +1,22 @@
 ---
-title: SplinePathBuilder.TraceSimplifier
-second_title: Справочник по Aspose.SVG для .NET API
-description: SplinePathBuilder свойство. Получает или задает средство упрощения трассировки.
+title: "SplinePathBuilder.TraceSimplifier"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Trace Simplifier класса SplinePathBuilder. Получает или задает упрощатель трассировки."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/
 ---
 ## SplinePathBuilder.TraceSimplifier property
 
-Получает или задает средство упрощения трассировки.
+Получает или задает упрощатель трассы.
 
 ```csharp
 public IImageTraceSimplifier TraceSimplifier { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

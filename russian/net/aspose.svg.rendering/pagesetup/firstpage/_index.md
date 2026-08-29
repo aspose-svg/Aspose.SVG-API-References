@@ -1,7 +1,7 @@
 ---
-title: PageSetup.FirstPage
-second_title: Справочник по Aspose.SVG для .NET API
-description: PageSetup свойство. Получает или задает конфигурацию первой страницы.
+title: "PageSetup.FirstPage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PageSetup FirstPage. Получает или задаёт конфигурацию первой страницы"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering/pagesetup/firstpage/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.rendering/pagesetup/firstpage/
 public Page FirstPage { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Первая страница.
 
-### Смотрите также
+### См. также
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* пространство имен [Aspose.Svg.Rendering](../../pagesetup/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

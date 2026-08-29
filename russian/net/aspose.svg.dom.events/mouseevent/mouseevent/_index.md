@@ -1,14 +1,14 @@
 ---
-title: MouseEvent.MouseEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: MouseEvent строитель. Инициализирует новый экземплярMouseEvent класс.
+title: "MouseEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор MouseEvent. Инициализирует новый экземпляр класса MouseEvent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/mouseevent/mouseevent/
 ---
-## MouseEvent(string) {#constructor}
+## MouseEvent(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`MouseEvent`](../) класс.
+Инициализирует новый экземпляр класса [`MouseEvent`](../).
 
 ```csharp
 public MouseEvent(string type)
@@ -18,17 +18,17 @@ public MouseEvent(string type)
 | --- | --- | --- |
 | type | String | Тип события. |
 
-### Смотрите также
+### См. также
 
 * class [MouseEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../mouseevent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MouseEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## MouseEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Инициализирует новый экземпляр[`MouseEvent`](../) класс.
+Инициализирует новый экземпляр класса [`MouseEvent`](../).
 
 ```csharp
 public MouseEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public MouseEvent(string type, IDictionary<string, object> eventInitDict)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события. |
-| eventInitDict | IDictionary`2 | Событие инициализирует словарь. |
+| eventInitDict | IDictionary`2 | Словарь инициализации события. |
 
-### Смотрите также
+### См. также
 
 * class [MouseEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../mouseevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

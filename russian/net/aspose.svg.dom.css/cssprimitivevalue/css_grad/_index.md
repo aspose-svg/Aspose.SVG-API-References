@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_GRAD
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой угол град. Значение можно получить с помощью метода getFloatValue.
+title: "CSSPrimitiveValue.CSS_GRAD"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_GRAD поле. Значение представляет собой угол в градусах (grad). Значение можно получить, используя метод getFloatValue."
 type: docs
-weight: 220
+weight: 230
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_grad/
 ---
 ## CSSPrimitiveValue.CSS_GRAD field
 
-Значение представляет собой угол (град). Значение можно получить с помощью метода getFloatValue.
+Значение — угол (grad). Значение можно получить с помощью метода getFloatValue.
 
 ```csharp
 public const ushort CSS_GRAD;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

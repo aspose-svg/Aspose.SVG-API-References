@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Border
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства границы в CSS2.
+title: "ICSS2Properties.Border"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Border в ICSS2Properties. См. определение свойства border в CSS2"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.css/icss2properties/border/
 ---
 ## ICSS2Properties.Border property
 
-См. определение свойства границы в CSS2.
+См. определение свойства border в CSS2.
 
 ```csharp
 public string Border { get; set; }
@@ -16,12 +16,10 @@ public string Border { get; set; }
 
 ### Возвращаемое значение
 
-пограничная собственность
+свойство border
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

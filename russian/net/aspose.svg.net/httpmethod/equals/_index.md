@@ -1,12 +1,12 @@
 ---
-title: HttpMethod.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: HttpMethod метод. Указывает равен ли текущий объект другому объекту того же типа.
+title: "HttpMethod.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод HttpMethod Equals. Указывает, равен ли текущий объект другому объекту того же типа"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.net/httpmethod/equals/
 ---
-## Equals(HttpMethod) {#equals}
+## Equals(*[HttpMethod](../)*) {#equals}
 
 Указывает, равен ли текущий объект другому объекту того же типа.
 
@@ -16,23 +16,23 @@ public bool Equals(HttpMethod other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | HttpMethod | Объект для сравнения с этим объектом. |
+| другой | HttpMethod | Объект для сравнения с этим объектом. |
 
 ### Возвращаемое значение
 
-true, если текущий объект равен*other* параметр; в противном случае false.
+true если текущий объект равен параметру *other*; иначе false.
 
-### Смотрите также
+### См. также
 
 * class [HttpMethod](../)
-* пространство имен [Aspose.Svg.Net](../../httpmethod/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Определяет, является ли указанныйObject , равно этому экземпляру.
+Определяет, равен ли указанный объект текущему экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Объект | Объект для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [HttpMethod](../)
-* пространство имен [Aspose.Svg.Net](../../httpmethod/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

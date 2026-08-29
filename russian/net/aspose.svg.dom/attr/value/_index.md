@@ -1,27 +1,25 @@
 ---
-title: Attr.Value
-second_title: Справочник по Aspose.SVG для .NET API
-description: Attr свойство. При извлечении значение атрибута возвращается в виде строки.
+title: "Attr.Value"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Attr Value. При получении значение атрибута возвращается как строка."
 type: docs
-weight: 130
+weight: 110
 url: /ru/net/aspose.svg.dom/attr/value/
 ---
 ## Attr.Value property
 
-При извлечении значение атрибута возвращается в виде строки.
+При получении значение атрибута возвращается как строка.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение.
 
-### Смотрите также
+### См. также
 
 * class [Attr](../)
-* пространство имен [Aspose.Svg.Dom](../../attr/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

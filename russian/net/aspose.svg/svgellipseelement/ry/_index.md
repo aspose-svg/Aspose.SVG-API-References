@@ -1,28 +1,26 @@
 ---
-title: SVGEllipseElement.Ry
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGEllipseElement свойство. Соответствует атрибуту ry данного элемента circle.
+title: "SVGEllipseElement.Ry"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Ry элемента SVGEllipseElement. Соответствует атрибуту ry данного элемента circle"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgellipseelement/ry/
 ---
 ## SVGEllipseElement.Ry property
 
-Соответствует атрибуту 'ry' данного элемента 'circle'.
+Соответствует атрибуту ‘ry’ у данного элемента ‘circle’
 
 ```csharp
 public SVGAnimatedLength Ry { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'ry' данного элемента 'circle'.
+Атрибут ‘ry’ данного элемента ‘circle’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* пространство имен [Aspose.Svg](../../svgellipseelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

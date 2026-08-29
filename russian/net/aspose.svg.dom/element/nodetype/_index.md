@@ -1,7 +1,7 @@
 ---
-title: Element.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. Код представляющий тип базового объекта.
+title: "Element.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element NodeType. Код, представляющий тип базового объекта."
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.dom/element/nodetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/element/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Код, представляющий тип узла.
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

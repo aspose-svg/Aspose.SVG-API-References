@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.VerticalAlign
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства вертикального выравнивания в CSS2.
+title: "ICSS2Properties.VerticalAlign"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство VerticalAlign интерфейса ICSS2Properties. См. определение свойства vertical-align в CSS2"
 type: docs
-weight: 1140
+weight: 1170
 url: /ru/net/aspose.svg.dom.css/icss2properties/verticalalign/
 ---
 ## ICSS2Properties.VerticalAlign property
 
-См. определение свойства вертикального выравнивания в CSS2.
+Смотрите определение свойства vertical-align в CSS2.
 
 ```csharp
 public string VerticalAlign { get; set; }
@@ -16,12 +16,10 @@ public string VerticalAlign { get; set; }
 
 ### Возвращаемое значение
 
-свойство вертикального выравнивания
+свойство vertical-align
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

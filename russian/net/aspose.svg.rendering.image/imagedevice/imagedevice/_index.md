@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageDevice строитель. Инициализирует новый экземплярImageDevice класс.
+title: "ImageDevice"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ImageDevice. Инициализирует новый экземпляр класса ImageDevice."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
-## ImageDevice(ICreateStreamProvider) {#constructor}
+## ImageDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Инициализирует новый экземпляр[`ImageDevice`](../) класс.
+Инициализирует новый экземпляр класса [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Провайдер потока. |
+| streamProvider | ICreateStreamProvider | Поставщик потока. |
 
-### Смотрите также
+### См. также
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Инициализирует новый экземпляр[`ImageDevice`](../) класс по параметрам рендеринга и потоковому провайдеру.
+Инициализирует новый экземпляр класса [`ImageDevice`](../) с параметрами рендеринга и провайдером потока.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Варианты рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) интерфейс |
+| options | ImageRenderingOptions | Параметры рендеринга. |
+| streamProvider | ICreateStreamProvider | Объект, реализующий интерфейс [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/). |
 
-### Смотрите также
+### См. также
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(string) {#constructor_5}
+## ImageDevice(*string*) {#constructor_5}
 
-Инициализирует новый экземпляр[`ImageDevice`](../) класс.
+Инициализирует новый экземпляр класса [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(string file)
@@ -62,17 +62,17 @@ public ImageDevice(string file)
 | --- | --- | --- |
 | file | String | Имя выходного файла. |
 
-### Смотрите также
+### См. также
 
 * class [ImageDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), string*) {#constructor_3}
 
-Инициализирует новый экземпляр[`ImageDevice`](../) класс по параметрам рендеринга и имени выходного файла.
+Инициализирует новый экземпляр класса [`ImageDevice`](../) с параметрами рендеринга и именем выходного файла.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Варианты рендеринга. |
+| options | ImageRenderingOptions | Параметры рендеринга. |
 | file | String | Имя выходного файла. |
 
-### Смотрите также
+### См. также
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(Stream) {#constructor_4}
+## ImageDevice(*Stream*) {#constructor_4}
 
-Инициализирует новый экземпляр[`ImageDevice`](../) класс.
+Инициализирует новый экземпляр класса [`ImageDevice`](../).
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -104,17 +104,17 @@ public ImageDevice(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Поток. |
 
-### Смотрите также
+### См. также
 
 * class [ImageDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), Stream*) {#constructor_2}
 
-Инициализирует новый экземпляр[`ImageDevice`](../) класс по параметрам рендеринга и выходному потоку.
+Инициализирует новый экземпляр класса [`ImageDevice`](../) с параметрами рендеринга и выходным потоком.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
@@ -122,14 +122,12 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Варианты рендеринга. |
+| options | ImageRenderingOptions | Параметры рендеринга. |
 | stream | Stream | Выходной поток. |
 
-### Смотрите также
+### См. также
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

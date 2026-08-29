@@ -1,7 +1,7 @@
 ---
-title: UnitType.Rem
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение относительно размера шрифта корневого элемента.
+title: "UnitType.Rem"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Rem. Измерение относительно font-size корневого элемента"
 type: docs
 weight: 240
 url: /ru/net/aspose.svg.drawing/unittype/rem/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/rem/
 public static readonly UnitType Rem;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: UnitType.KHz
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в килогерцах.
+title: "UnitType.KHz"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType KHz. Измерение в килогерцах."
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.drawing/unittype/khz/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/khz/
 public static readonly UnitType KHz;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

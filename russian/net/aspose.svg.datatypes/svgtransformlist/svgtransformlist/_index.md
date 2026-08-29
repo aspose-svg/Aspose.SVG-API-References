@@ -1,30 +1,30 @@
 ---
-title: SVGTransformList.SVGTransformList
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTransformList строитель. Инициализирует новый экземплярSVGTransformList класс.
+title: "SVGTransformList"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор SVGTransformList. Инициализирует новый экземпляр класса SVGTransformList"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
 ## SVGTransformList() {#constructor}
 
-Инициализирует новый экземпляр[`SVGTransformList`](../) класс.
+Инициализирует новый экземпляр класса [`SVGTransformList`](../).
 
 ```csharp
 public SVGTransformList()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGTransformList](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
+## SVGTransformList(*IEnumerable&lt;SVGTransform&gt;*) {#constructor_1}
 
-Инициализирует новый экземпляр[`SVGTransformList`](../) класс.
+Инициализирует новый экземпляр класса [`SVGTransformList`](../).
 
 ```csharp
 public SVGTransformList(IEnumerable<SVGTransform> enumerable)
@@ -32,13 +32,11 @@ public SVGTransformList(IEnumerable<SVGTransform> enumerable)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Перечислимое. |
+| перечислимый | IEnumerable`1 | Перечислимый. |
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../../svgtransform/)
 * class [SVGTransformList](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

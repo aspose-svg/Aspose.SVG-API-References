@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.In1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEOffsetElement свойство. Соответствует атрибуту in данного элемента feOffset.
+title: "SVGFEOffsetElement.In1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство In1 элемента SVGFEOffsetElement. Соответствует атрибуту in в данном элементе feOffset"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.filters/svgfeoffsetelement/in1/
 ---
 ## SVGFEOffsetElement.In1 property
 
-Соответствует атрибуту 'in' данного элемента 'feOffset'.
+Соответствует атрибуту ‘in’ в данном элементе ‘feOffset’.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'in' данного элемента 'feOffset'.
+Атрибут ‘in’ данного элемента ‘feOffset’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEOffsetElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

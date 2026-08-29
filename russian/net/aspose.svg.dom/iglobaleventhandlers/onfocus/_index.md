@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnFocus
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnFocus.
+title: "IGlobalEventHandlers.OnFocus"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IGlobalEventHandlers OnFocus событие. Получает или задает обработчик события для OnFocus события"
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onfocus/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onfocus/
 public event DOMEventHandler OnFocus;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

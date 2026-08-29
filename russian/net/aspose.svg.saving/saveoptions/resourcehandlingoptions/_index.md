@@ -1,28 +1,26 @@
 ---
-title: SaveOptions.ResourceHandlingOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: SaveOptions свойство. ПолучаетResourceHandlingOptions объект который используется для настройки обработки ресурсов.
+title: "SaveOptions.ResourceHandlingOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SaveOptions ResourceHandlingOptions. Возвращает объект ResourceHandlingOptions, который используется для конфигурации обработки ресурсов."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.saving/saveoptions/resourcehandlingoptions/
 ---
 ## SaveOptions.ResourceHandlingOptions property
 
-Получает[`ResourceHandlingOptions`](../../resourcehandlingoptions/) объект, который используется для настройки обработки ресурсов.
+Возвращает объект [`ResourceHandlingOptions`](../../resourcehandlingoptions/), который используется для конфигурации обработки ресурсов.
 
 ```csharp
 public ResourceHandlingOptions ResourceHandlingOptions { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`ResourceHandlingOptions`](../../resourcehandlingoptions/) объект.
+Объект [`ResourceHandlingOptions`](../../resourcehandlingoptions/).
 
-### Смотрите также
+### См. также
 
 * class [ResourceHandlingOptions](../../resourcehandlingoptions/)
 * class [SaveOptions](../)
-* пространство имен [Aspose.Svg.Saving](../../saveoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

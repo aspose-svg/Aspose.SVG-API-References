@@ -1,14 +1,14 @@
 ---
-title: ProtocolMessageFilter.ProtocolMessageFilter
-second_title: Справочник по Aspose.SVG для .NET API
-description: ProtocolMessageFilter строитель. Инициализирует новый экземплярProtocolMessageFilter класс.
+title: "ProtocolMessageFilter"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ProtocolMessageFilter. Инициализирует новый экземпляр класса ProtocolMessageFilter"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net.messagefilters/protocolmessagefilter/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter constructor
 
-Инициализирует новый экземпляр[`ProtocolMessageFilter`](../) класс.
+Инициализирует новый экземпляр класса [`ProtocolMessageFilter`](../).
 
 ```csharp
 public ProtocolMessageFilter(params string[] protocols)
@@ -16,12 +16,10 @@ public ProtocolMessageFilter(params string[] protocols)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| protocols | String[] | Протоколы. |
+| протоколы | String[] | Протоколы. |
 
-### Смотрите также
+### См. также
 
 * class [ProtocolMessageFilter](../)
-* пространство имен [Aspose.Svg.Net.MessageFilters](../../protocolmessagefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../../)

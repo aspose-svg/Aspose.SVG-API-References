@@ -1,9 +1,9 @@
 ---
-title: Attr.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Attr свойство. Код представляющий тип базового объекта.
+title: "Attr.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Attr NodeType. Код, представляющий тип базового объекта"
 type: docs
-weight: 60
+weight: 50
 url: /ru/net/aspose.svg.dom/attr/nodetype/
 ---
 ## Attr.NodeType property
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/attr/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип узла.
 
-### Смотрите также
+### См. также
 
 * class [Attr](../)
-* пространство имен [Aspose.Svg.Dom](../../attr/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

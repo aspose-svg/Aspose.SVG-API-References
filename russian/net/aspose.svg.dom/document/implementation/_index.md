@@ -1,7 +1,7 @@
 ---
-title: Document.Implementation
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Объект DOMImplementation который обрабатывает этот документ.
+title: "Document.Implementation"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document Implementation. Объект DOMImplementation, который обрабатывает этот документ"
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.dom/document/implementation/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/implementation/
 public IDOMImplementation Implementation { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

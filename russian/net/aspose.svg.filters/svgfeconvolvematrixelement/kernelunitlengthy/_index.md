@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.KernelUnitLengthY
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEConvolveMatrixElement свойство. Соответствует атрибуту kernelUnitLength данного элемента feConvolveMatrix.
+title: "SVGFEConvolveMatrixElement.KernelUnitLengthY"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство KernelUnitLengthY элемента SVGFEConvolveMatrixElement. Соответствует атрибуту kernelUnitLength в данном элементе feConvolveMatrix"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/kernelunitlengthy/
 ---
 ## SVGFEConvolveMatrixElement.KernelUnitLengthY property
 
-Соответствует атрибуту 'kernelUnitLength' данного элемента 'feConvolveMatrix'.
+Соответствует атрибуту ‘kernelUnitLength’ в данном элементе ‘feConvolveMatrix’.
 
 ```csharp
 public SVGAnimatedNumber KernelUnitLengthY { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'kernelUnitLength' данного элемента 'feConvolveMatrix'.
+Атрибут ‘kernelUnitLength’ данного ‘feConvolveMatrix’ элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

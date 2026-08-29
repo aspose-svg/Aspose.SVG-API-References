@@ -1,23 +1,21 @@
 ---
-title: Color.Red
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color свойство. Представляет красный компонент цвета
+title: "Color.Red"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Color Red. Представляет красный компонент цвета"
 type: docs
 weight: 270
 url: /ru/net/aspose.svg.drawing/color/red/
 ---
 ## Color.Red property
 
-Представляет красный компонент цвета
+Представляет красный компонент цвета.
 
 ```csharp
 public float Red { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

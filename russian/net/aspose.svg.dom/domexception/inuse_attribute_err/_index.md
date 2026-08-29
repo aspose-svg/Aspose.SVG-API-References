@@ -1,23 +1,21 @@
 ---
-title: DOMException.INUSE_ATTRIBUTE_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. При попытке добавить атрибут который уже используется в другом месте.
+title: "DOMException.INUSE_ATTRIBUTE_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException INUSE_ATTRIBUTE_ERR. Если попытка добавить атрибут, который уже используется в другом месте"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom/domexception/inuse_attribute_err/
 ---
 ## DOMException.INUSE_ATTRIBUTE_ERR field
 
-При попытке добавить атрибут, который уже используется в другом месте.
+Если попытка добавить атрибут, который уже используется в другом месте.
 
 ```csharp
 public const ushort INUSE_ATTRIBUTE_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

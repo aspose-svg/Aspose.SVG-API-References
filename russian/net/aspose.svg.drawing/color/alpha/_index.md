@@ -1,23 +1,21 @@
 ---
-title: Color.Alpha
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color свойство. Представляет альфакомпонент цвета.
+title: "Color.Alpha"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Color Alpha. Представляет альфа‑компонент цвета."
 type: docs
 weight: 240
 url: /ru/net/aspose.svg.drawing/color/alpha/
 ---
 ## Color.Alpha property
 
-Представляет альфа-компонент цвета.
+Представляет альфа‑компонент цвета.
 
 ```csharp
 public float Alpha { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

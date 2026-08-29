@@ -1,28 +1,26 @@
 ---
-title: SVGFEDistantLightElement.Azimuth
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDistantLightElement свойство. Соответствует атрибуту азимут данного элемента feDistantLight.
+title: "SVGFEDistantLightElement.Azimuth"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Azimuth элемента SVGFEDistantLightElement. Соответствует атрибуту azimuth в данном элементе feDistantLight."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.filters/svgfedistantlightelement/azimuth/
 ---
 ## SVGFEDistantLightElement.Azimuth property
 
-Соответствует атрибуту азимут данного элемента feDistantLight.
+Соответствует атрибуту ‘azimuth’ в данном элементе ‘feDistantLight’.
 
 ```csharp
 public SVGAnimatedNumber Azimuth { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «азимут» данного элемента «feDistantLight».
+Атрибут ‘azimuth’ данного элемента ‘feDistantLight’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDistantLightElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedistantlightelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

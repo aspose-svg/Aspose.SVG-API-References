@@ -1,14 +1,14 @@
 ---
-title: Color.ToName
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает название цвета если оно соответствует цвету в списке именованных цветов CSS или пустую строку.
+title: "Color.ToName"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color ToName. Возвращает название цвета, если оно совпадает с цветом из списка именованных цветов CSS, иначе пустую строку"
 type: docs
 weight: 370
 url: /ru/net/aspose.svg.drawing/color/toname/
 ---
 ## Color.ToName method
 
-Возвращает название цвета, если оно соответствует цвету в списке именованных цветов CSS, или пустую строку.
+Возвращает имя цвета, если оно совпадает с цветом из списка именованных цветов CSS, иначе возвращает пустую строку.
 
 ```csharp
 public string ToName()
@@ -18,10 +18,8 @@ public string ToName()
 
 Название цвета.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

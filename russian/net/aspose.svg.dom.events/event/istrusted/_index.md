@@ -1,27 +1,25 @@
 ---
-title: Event.IsTrusted
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event свойство. Атрибут isTrusted должен возвращать значение которым он был инициализирован. При создании события атрибут должен быть инициализирован значением false.
+title: "Event.IsTrusted"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Event IsTrusted. Атрибут isTrusted должен возвращать значение, с которым он был инициализирован. При создании события атрибут должен быть инициализирован значением false."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom.events/event/istrusted/
 ---
 ## Event.IsTrusted property
 
-Атрибут isTrusted должен возвращать значение, которым он был инициализирован. При создании события атрибут должен быть инициализирован значением false.
+Атрибут isTrusted должен возвращать значение, к которому он был инициализирован. При создании события атрибут должен быть инициализирован значением false.
 
 ```csharp
 public bool IsTrusted { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный`если этому экземпляру доверяют; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр доверенный; в противном случае `false`.
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: Event.Cancelable
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event свойство. Используется для указания того можно ли предотвратить событие по умолчанию. Если действие по умолчанию можно предотвратить значение равно true в противном случае значение равно false.
+title: "Event.Cancelable"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Event Cancelable. Используется для указания, может ли действие по умолчанию события быть предотвращено. Если действие по умолчанию может быть предотвращено, значение true, иначе значение false."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.events/event/cancelable/
 ---
 ## Event.Cancelable property
 
-Используется для указания того, можно ли предотвратить событие по умолчанию. Если действие по умолчанию можно предотвратить, значение равно true, в противном случае значение равно false.
+Используется для указания, может ли действие события быть предотвращено. Если действие может быть предотвращено, значение true, иначе false.
 
 ```csharp
 public bool Cancelable { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

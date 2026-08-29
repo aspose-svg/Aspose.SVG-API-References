@@ -1,24 +1,22 @@
 ---
-title: Document.OnSelect
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnSelect.
+title: "Document.OnSelect"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnSelect. Получает или задает обработчик события для события OnSelect"
 type: docs
 weight: 700
 url: /ru/net/aspose.svg.dom/document/onselect/
 ---
 ## Document.OnSelect event
 
-Получает или задает обработчик события OnSelect.
+Получает или задает обработчик события для события OnSelect.
 
 ```csharp
 public event DOMEventHandler OnSelect;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

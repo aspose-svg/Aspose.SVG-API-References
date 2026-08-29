@@ -1,23 +1,21 @@
 ---
-title: FontMatchingProperties.FontFamilies
-second_title: Справочник по Aspose.SVG для .NET API
-description: FontMatchingProperties свойство. Получает коллекцию семейств шрифтов.
+title: "FontMatchingProperties.FontFamilies"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство FontFamilies класса FontMatchingProperties. Возвращает коллекцию семейств шрифтов"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontfamilies/
 ---
 ## FontMatchingProperties.FontFamilies property
 
-Получает коллекцию семейств шрифтов.
+Возвращает коллекцию семейств шрифтов.
 
 ```csharp
 public IEnumerable<string> FontFamilies { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontMatchingProperties](../)
-* пространство имен [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

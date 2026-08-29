@@ -1,14 +1,14 @@
 ---
-title: Frequency.op_LessThan
-second_title: Справочник по Aspose.SVG для .NET API
-description: Frequency метод. Реализует оператор .
+title: "Frequency.op_LessThan"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Frequency op_LessThan метод. Реализует оператор"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.drawing/frequency/op_lessthan/
 ---
 ## Frequency LessThan operator
 
-Реализует оператор &lt;.
+Реализует оператор <.
 
 ```csharp
 public static bool operator <(Frequency a, Frequency b)
@@ -16,8 +16,8 @@ public static bool operator <(Frequency a, Frequency b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Frequency | Параметр а. |
-| b | Frequency | Параметр б. |
+| a | Frequency | Параметр a. |
+| b | Frequency | Параметр b. |
 
 ### Возвращаемое значение
 
@@ -27,13 +27,11 @@ public static bool operator <(Frequency a, Frequency b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы бывают разных типов |
-| ArgumentNullException | Аргумент недействителен |
+| ArgumentException | Аргументы имеют разные типы |
+| ArgumentNullException | Аргумент равен null |
 
-### Смотрите также
+### См. также
 
 * class [Frequency](../)
-* пространство имен [Aspose.Svg.Drawing](../../frequency/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

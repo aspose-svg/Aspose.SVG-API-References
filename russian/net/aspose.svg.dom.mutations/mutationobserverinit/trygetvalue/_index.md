@@ -1,7 +1,7 @@
 ---
-title: MutationObserverInit.TryGetValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserverInit метод. Получает значение связанное с указанным ключом.
+title: "MutationObserverInit.TryGetValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод TryGetValue класса MutationObserverInit. Получает значение, связанное с указанным ключом."
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/trygetvalue/
@@ -16,17 +16,15 @@ public bool TryGetValue(string key, out object value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ значения, которое нужно получить. |
-| value | Object& | Когда этот метод возвращает значение, содержит значение, связанное с указанным ключом, если ключ найден; в противном случае ноль. |
+| ключ | String | Ключ значения для получения. |
+| значение | Object& | После возврата этого метода содержит значение, связанное с указанным ключом, если ключ найден; в противном случае — null. |
 
 ### Возвращаемое значение
 
-Верно, если[`MutationObserverInit`](../) содержать указанный ключ; в противном случае ложно.
+True, если коллекция [`MutationObserverInit`](../) содержит указанный ключ; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [MutationObserverInit](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGUseElement.Height
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGUseElement свойство. Соответствует атрибуту высота данного элемента использования.
+title: "SVGUseElement.Height"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Height SVGUseElement. Соответствует атрибуту height в данном элементе use"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svguseelement/height/
 ---
 ## SVGUseElement.Height property
 
-Соответствует атрибуту "высота" данного элемента "использования".
+Соответствует атрибуту ‘height’ в данном элементе ‘use’
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Соответствует атрибуту "высота" данного элемента "использования".
+Соответствует атрибуту ‘height’ в данном элементе ‘use’
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGUseElement](../)
-* пространство имен [Aspose.Svg](../../svguseelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

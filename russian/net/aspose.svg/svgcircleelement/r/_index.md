@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.R
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGCircleElement свойство. Соответствует атрибуту r данного элемента circle.
+title: "SVGCircleElement.R"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGCircleElement R. Соответствует атрибуту r в данном элементе circle."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgcircleelement/r/
 ---
 ## SVGCircleElement.R property
 
-Соответствует атрибуту 'r' данного элемента 'circle'.
+Соответствует атрибуту ‘r’ в данном элементе ‘circle’.
 
 ```csharp
 public SVGAnimatedLength R { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'r' данного элемента 'circle'.
+Атрибут ‘r’ данного элемента ‘circle’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* пространство имен [Aspose.Svg](../../svgcircleelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

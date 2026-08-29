@@ -1,7 +1,7 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_RAD
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAngle поле. Тип единицы измерения  радианы.
+title: "SVGAngle.SVG_ANGLETYPE_RAD"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGAngle SVG_ANGLETYPE_RAD. Тип единицы измерения — радианы."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.datatypes/svgangle/svg_angletype_rad/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.datatypes/svgangle/svg_angletype_rad/
 public const ushort SVG_ANGLETYPE_RAD;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgangle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

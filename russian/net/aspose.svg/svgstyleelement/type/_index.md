@@ -1,33 +1,31 @@
 ---
-title: SVGStyleElement.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGStyleElement свойство. Соответствует типу атрибута данного элемента.
+title: "SVGStyleElement.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Type класса SVGStyleElement. Соответствует атрибуту type в указанном элементе."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgstyleelement/type/
 ---
 ## SVGStyleElement.Type property
 
-Соответствует типу атрибута данного элемента.
+Соответствует атрибуту ‘type’ в данном элементе.
 
 ```csharp
 public string Type { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип атрибута данного элемента.
+Атрибут ‘type’ в указанном элементе.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGStyleElement](../)
-* пространство имен [Aspose.Svg](../../svgstyleelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

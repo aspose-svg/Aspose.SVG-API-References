@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateDocumentType
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDOMImplementation метод. Создает пустой узел DocumentType. Объявления сущностей и нотации недоступны. Расширения ссылок на сущности и добавления атрибутов по умолчанию не происходят.
+title: "IDOMImplementation.CreateDocumentType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDOMImplementation CreateDocumentType. Создаёт пустой узел DocumentType. Объявления сущностей и обозначения недоступны. Расширения ссылок на сущности и добавление атрибутов по умолчанию не происходят"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/idomimplementation/createdocumenttype/
 ---
 ## IDOMImplementation.CreateDocumentType method
 
-Создает пустой узел DocumentType. Объявления сущностей и нотации недоступны. Расширения ссылок на сущности и добавления атрибутов по умолчанию не происходят.
+Создаёт пустой узел DocumentType. Объявления сущностей и обозначения не доступны. Расширения ссылок на сущности и добавление атрибутов по умолчанию не происходят.
 
 ```csharp
 public DocumentType CreateDocumentType(string qualifiedName, string publicId, string systemId)
@@ -18,17 +18,15 @@ public DocumentType CreateDocumentType(string qualifiedName, string publicId, st
 | --- | --- | --- |
 | qualifiedName | String | Имя квалифицированного. |
 | publicId | String | Публичный идентификатор. |
-| systemId | String | Идентификатор системы. |
+| systemId | String | Системный идентификатор. |
 
 ### Возвращаемое значение
 
-[`DocumentType`](../../documenttype/).
+Элемент [`DocumentType`](../../documenttype/).
 
-### Смотрите также
+### См. также
 
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* пространство имен [Aspose.Svg.Dom](../../idomimplementation/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: MimeType.MimeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: MimeType строитель. Инициализирует новый экземпляр типа MIME на основе сериализованного строкового значения.
+title: "MimeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор MimeType. Инициализирует новый экземпляр MIME-типa на основе сериализованного строкового значения"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/mimetype/mimetype/
@@ -16,12 +16,10 @@ public MimeType(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

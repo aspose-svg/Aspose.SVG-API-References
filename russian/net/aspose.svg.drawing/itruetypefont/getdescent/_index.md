@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.GetDescent
-second_title: Справочник по Aspose.SVG для .NET API
-description: ITrueTypeFont метод. Возвращает спуск в пунктах.
+title: "ITrueTypeFont.GetDescent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ITrueTypeFont GetDescent. Получает спуск шрифта в пунктах, используя указанный размер шрифта."
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.svg.drawing/itruetypefont/getdescent/
 ---
 ## ITrueTypeFont.GetDescent method
 
-Возвращает спуск в пунктах.
+Получает глубину спуска шрифта в пунктах, используя указанный размер шрифта.
 
 ```csharp
 public float GetDescent(float fontSize)
@@ -20,12 +20,10 @@ public float GetDescent(float fontSize)
 
 ### Возвращаемое значение
 
-Спуск в баллах.
+Спуск шрифта в пунктах.
 
-### Смотрите также
+### См. также
 
 * interface [ITrueTypeFont](../)
-* пространство имен [Aspose.Svg.Drawing](../../itruetypefont/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

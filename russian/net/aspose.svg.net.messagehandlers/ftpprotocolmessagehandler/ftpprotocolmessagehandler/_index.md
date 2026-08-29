@@ -1,23 +1,21 @@
 ---
-title: FtpProtocolMessageHandler.FtpProtocolMessageHandler
-second_title: Справочник по Aspose.SVG для .NET API
-description: FtpProtocolMessageHandler строитель. Инициализирует новый экземплярFtpProtocolMessageHandler класс.
+title: "FtpProtocolMessageHandler"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор FtpProtocolMessageHandler. Инициализирует новый экземпляр класса FtpProtocolMessageHandler"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler constructor
 
-Инициализирует новый экземпляр[`FtpProtocolMessageHandler`](../) класс.
+Инициализирует новый экземпляр класса [`FtpProtocolMessageHandler`](../).
 
 ```csharp
 public FtpProtocolMessageHandler()
 ```
 
-### Смотрите также
+### См. также
 
 * class [FtpProtocolMessageHandler](../)
-* пространство имен [Aspose.Svg.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

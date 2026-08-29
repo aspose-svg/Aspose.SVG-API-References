@@ -1,14 +1,14 @@
 ---
-title: SVGStringList.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGStringList метод. ВозвращаетString который представляет этот экземпляр.
+title: "SVGStringList.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGStringList ToString. Возвращает строку, представляющую этот экземпляр"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.datatypes/svgstringlist/tostring/
 ---
 ## SVGStringList.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [SVGStringList](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgstringlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

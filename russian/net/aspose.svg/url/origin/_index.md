@@ -1,27 +1,25 @@
 ---
-title: Url.Origin
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url свойство. Получает строковое представление для указанного источника URL.
+title: "Url.Origin"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Url Origin. Получает строковое представление указанного происхождения URL"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/url/origin/
 ---
 ## Url.Origin property
 
-Получает строковое представление для указанного источника URL.
+Получает строковое представление указанного происхождения URL.
 
 ```csharp
 public string Origin { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Происхождение.
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

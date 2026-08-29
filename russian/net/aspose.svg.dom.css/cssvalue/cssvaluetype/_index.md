@@ -1,7 +1,7 @@
 ---
-title: CSSValue.CSSValueType
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSValue свойство. Код определяющий тип значения.
+title: "CSSValue.CSSValueType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство CSSValue CSSValueType. Код, определяющий тип значения."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/cssvalue/cssvaluetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom.css/cssvalue/cssvaluetype/
 public ushort CSSValueType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип значения CSS.
+Тип CSS‑значения.
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

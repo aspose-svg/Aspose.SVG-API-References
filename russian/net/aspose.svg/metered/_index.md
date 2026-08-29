@@ -1,14 +1,14 @@
 ---
-title: Class Metered
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Metered сорт. Предоставляет методы для установки измеренного ключа.
+title: "Класс Metered"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Metered. Предоставляет методы для установки метрированного ключа."
 type: docs
-weight: 2200
+weight: 4270
 url: /ru/net/aspose.svg/metered/
 ---
 ## Metered class
 
-Предоставляет методы для установки измеренного ключа.
+Предоставляет методы для установки измеряемого ключа.
 
 ```csharp
 public class Metered
@@ -24,13 +24,14 @@ public class Metered
 
 | Имя | Описание |
 | --- | --- |
-| [SetMeteredKey](../../aspose.svg/metered/setmeteredkey/)(string, string) | Устанавливает лимитный открытый и закрытый ключ. Если вы покупаете лимитную лицензию, при запуске приложения должен вызываться этот API, обычно этого достаточно. Однако, если всегда не удается загрузить данные о потреблении и время превышает 24 часа, лицензия будет установлена в ознакомительный статус, во избежание такого случая, вы должны регулярно проверять статус лицензии, если это ознакомительный статус, снова вызывать этот API. |
-| static [GetConsumptionCredit](../../aspose.svg/metered/getconsumptioncredit/)() | Получает потребительский кредит |
+| [SetMeteredKey](../../aspose.svg/metered/setmeteredkey/)(*string, string*) | Устанавливает публичный и приватный метрированный ключ. Если вы приобретаете метрированную лицензию, при запуске приложения следует вызвать этот API; обычно этого достаточно. Однако если постоянно не удаётся загрузить данные о потреблении и проходит более 24 часов, лицензия будет переключена в режим оценки. Чтобы избежать этого, регулярно проверяйте статус лицензии; если он находится в режиме оценки, вызовите этот API снова. |
+| static [GetConsumptionCredit](../../aspose.svg/metered/getconsumptioncredit/)() | Получает кредит потребления |
 | static [GetConsumptionQuantity](../../aspose.svg/metered/getconsumptionquantity/)() | Получает размер файла потребления |
+| static [IsMeteredLicensed](../../aspose.svg/metered/ismeteredlicensed/)() | Проверьте, лицензировано ли metered |
 
-### Примеры
+## Примеры
 
-В этом примере будет предпринята попытка установить лимитированный открытый и закрытый ключ
+В этом примере будет предпринята попытка установить публичный и приватный ключ metered
 
 ```csharp
 [C#]
@@ -52,9 +53,7 @@ Metered matered = new Metered();
 matered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg](../../aspose.svg/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

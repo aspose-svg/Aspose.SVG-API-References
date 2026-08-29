@@ -1,27 +1,25 @@
 ---
-title: Counter.Separator
-second_title: Справочник по Aspose.SVG для .NET API
-description: Counter свойство. Этот атрибут используется для разделителя вложенных счетчиков.
+title: "Counter.Separator"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Separator элемента Counter. Этот атрибут используется в качестве разделителя вложенных счётчиков."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/counter/separator/
 ---
 ## Counter.Separator property
 
-Этот атрибут используется для разделителя вложенных счетчиков.
+Этот атрибут используется для разделителя вложенных счётчиков.
 
 ```csharp
 public string Separator { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Разделитель счетчиков.
+Разделитель счётчика.
 
-### Смотрите также
+### См. также
 
 * class [Counter](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../counter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

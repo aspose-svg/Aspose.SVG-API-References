@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_ENTITY_REFERENCE
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeFilter поле. Показать узлы EntityReference.
+title: "NodeFilter.SHOW_ENTITY_REFERENCE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле NodeFilter SHOW_ENTITY_REFERENCE. Показывать узлы EntityReference"
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_entity_reference/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_entity_reference/
 public const long SHOW_ENTITY_REFERENCE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [NodeFilter](../)
-* пространство имен [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

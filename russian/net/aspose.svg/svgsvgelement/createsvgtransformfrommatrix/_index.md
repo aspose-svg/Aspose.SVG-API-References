@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGTransformFromMatrix
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement метод. Создает объект SVGTransform вне какихлибо деревьев документов. Объект инициализируется заданным матричным преобразованием т. е. SVG_TRANSFORM_MATRIX. Значения из матрицы параметров копируются параметр матрицы не принимается как SVGTransformmatrix.
+title: "SVGSVGElement.CreateSVGTransformFromMatrix"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGSVGElement CreateSVGTransformFromMatrix. Создаёт объект SVGTransform вне любых деревьев документа. Объект инициализируется заданным матричным преобразованием, т.е. SVG_TRANSFORM_MATRIX. Значения из параметра matrix копируются; параметр matrix не принимается как SVGTransformmatrix."
 type: docs
 weight: 190
 url: /ru/net/aspose.svg/svgsvgelement/createsvgtransformfrommatrix/
 ---
 ## SVGSVGElement.CreateSVGTransformFromMatrix method
 
-Создает объект SVGTransform вне каких-либо деревьев документов. Объект инициализируется заданным матричным преобразованием (т. е. SVG_TRANSFORM_MATRIX). Значения из матрицы параметров копируются, параметр матрицы не принимается как SVGTransform::matrix.
+Создаёт объект SVGTransform вне любых деревьев документа. Объект инициализируется заданным матричным преобразованием (т.е. SVG_TRANSFORM_MATRIX). Значения из параметра matrix копируются, параметр matrix не принимается в качестве SVGTransform::matrix.
 
 ```csharp
 public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
@@ -16,18 +16,16 @@ public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | SVGMatrix | Матрица преобразования. |
+| matrix | SVGMatrix | Трансформационная матрица. |
 
 ### Возвращаемое значение
 
 Объект SVGTransform.
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

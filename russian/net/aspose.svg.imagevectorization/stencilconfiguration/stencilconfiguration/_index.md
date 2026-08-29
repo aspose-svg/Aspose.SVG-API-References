@@ -1,23 +1,21 @@
 ---
-title: StencilConfiguration.StencilConfiguration
-second_title: Справочник по Aspose.SVG для .NET API
-description: StencilConfiguration строитель. Инициализирует новый экземплярStencilConfiguration класс.
+title: "StencilConfiguration"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор StencilConfiguration. Инициализирует новый экземпляр класса StencilConfiguration."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/stencilconfiguration/stencilconfiguration/
 ---
 ## StencilConfiguration constructor
 
-Инициализирует новый экземпляр[`StencilConfiguration`](../) класс.
+Инициализирует новый экземпляр класса [`StencilConfiguration`](../).
 
 ```csharp
 public StencilConfiguration()
 ```
 
-### Смотрите также
+### См. также
 
 * class [StencilConfiguration](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

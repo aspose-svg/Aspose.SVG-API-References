@@ -1,23 +1,21 @@
 ---
-title: ResponseHeaders.ResponseHeaders
-second_title: Справочник по Aspose.SVG для .NET API
-description: ResponseHeaders строитель. Инициализирует новый экземплярRequestHeaders класс.
+title: "ResponseHeaders"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ResponseHeaders конструктор. Инициализирует новый экземпляр класса RequestHeaders"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
 
-Инициализирует новый экземпляр[`RequestHeaders`](../../requestheaders/) класс.
+Инициализирует новый экземпляр класса [`RequestHeaders`](../../requestheaders/).
 
 ```csharp
 public ResponseHeaders()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResponseHeaders](../)
-* пространство имен [Aspose.Svg.Net](../../responseheaders/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

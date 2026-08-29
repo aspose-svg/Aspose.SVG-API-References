@@ -1,23 +1,21 @@
 ---
-title: IDevice.EndPage
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Завершает визуализацию текущей страницы.
+title: "IDevice.EndPage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice EndPage. Завершает рендеринг текущей страницы"
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.rendering/idevice/endpage/
 ---
 ## IDevice.EndPage method
 
-Завершает визуализацию текущей страницы.
+Завершает отрисовку текущей страницы.
 
 ```csharp
 public void EndPage()
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

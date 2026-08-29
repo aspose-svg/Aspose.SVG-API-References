@@ -1,7 +1,7 @@
 ---
-title: Document.ContentType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Получает тип содержимого документа.
+title: "Document.ContentType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document ContentType. Получает тип содержимого документа."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom/document/contenttype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/document/contenttype/
 public string ContentType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип содержимого.
 
-### Смотрите также
+### См. также
 
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

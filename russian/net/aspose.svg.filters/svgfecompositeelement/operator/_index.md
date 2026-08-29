@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.Operator
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFECompositeElement свойство. Соответствует атрибуту оператор данного элемента feComposite. Принимает одну из констант SVG_FECOMPOSITE_OPERATOR_ определенных в этом интерфейсе.
+title: "SVGFECompositeElement.Operator"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Operator SVGFECompositeElement. Соответствует атрибуту operator в данном элементе feComposite. Принимает одну из констант SVG_FECOMPOSITE_OPERATOR_, определённых в этом интерфейсе"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.filters/svgfecompositeelement/operator/
 ---
 ## SVGFECompositeElement.Operator property
 
-Соответствует атрибуту «оператор» данного элемента «feComposite». Принимает одну из констант SVG_FECOMPOSITE_OPERATOR_*, определенных в этом интерфейсе.
+Соответствует атрибуту ‘operator’ в данном элементе ‘feComposite’. Принимает одну из констант SVG_FECOMPOSITE_OPERATOR_* , определённых в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration Operator { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «оператор» данного элемента «feComposite».
+Атрибут ‘operator’ в данном элементе ‘feComposite’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFECompositeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

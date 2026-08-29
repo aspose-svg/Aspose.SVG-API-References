@@ -1,28 +1,26 @@
 ---
-title: IDocumentView.DefaultView
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDocumentView свойство. Абстрактное представление по умолчанию для этого документа или значение null если оно недоступно.
+title: "IDocumentView.DefaultView"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IDocumentView DefaultView. Значение по умолчанию AbstractView для данного Document или null, если недоступно."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.views/idocumentview/defaultview/
 ---
 ## IDocumentView.DefaultView property
 
-Абстрактное представление по умолчанию для этого документа или значение null, если оно недоступно.
+Представление AbstractView по умолчанию для этого Document, или null, если недоступно.
 
 ```csharp
 public IAbstractView DefaultView { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Представление по умолчанию.
+Стандартный вид.
 
-### Смотрите также
+### См. также
 
 * interface [IAbstractView](../../iabstractview/)
 * interface [IDocumentView](../)
-* пространство имен [Aspose.Svg.Dom.Views](../../idocumentview/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

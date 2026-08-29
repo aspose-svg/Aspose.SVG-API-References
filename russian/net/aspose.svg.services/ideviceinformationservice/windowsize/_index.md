@@ -1,7 +1,7 @@
 ---
-title: IDeviceInformationService.WindowSize
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDeviceInformationService свойство. Получает или задает размер окна.
+title: "IDeviceInformationService.WindowSize"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IDeviceInformationService WindowSize. Получает или задает размер окна."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.services/ideviceinformationservice/windowsize/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.services/ideviceinformationservice/windowsize/
 public Size WindowSize { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер окна.
 
-### Смотрите также
+### См. также
 
 * class [Size](../../../aspose.svg.drawing/size/)
 * interface [IDeviceInformationService](../)
-* пространство имен [Aspose.Svg.Services](../../ideviceinformationservice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

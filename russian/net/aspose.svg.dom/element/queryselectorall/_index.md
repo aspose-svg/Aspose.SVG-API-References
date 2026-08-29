@@ -1,14 +1,14 @@
 ---
-title: Element.QuerySelectorAll
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Возвращает NodeList всех элементов в документе которые соответствуют selector
+title: "Element.QuerySelectorAll"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element QuerySelectorAll. Возвращает NodeList всех Elements в документе, которые соответствуют selector."
 type: docs
 weight: 350
 url: /ru/net/aspose.svg.dom/element/queryselectorall/
 ---
 ## Element.QuerySelectorAll method
 
-Возвращает NodeList всех элементов в документе, которые соответствуют selector
+Возвращает NodeList всех Elements в документе, которые соответствуют селектору
 
 ```csharp
 public NodeList QuerySelectorAll(string selector)
@@ -22,11 +22,9 @@ public NodeList QuerySelectorAll(string selector)
 
 [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/)
 
-### Смотрите также
+### См. также
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

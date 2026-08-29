@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.ArcBuildingThreshold
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathOptimizationOptions свойство. Получает или задает значение параметра используемое в качестве пороговой ошибки для замены сегментов Безье сегментами дуги. По умолчанию это 2.5.
+title: "SVGPathOptimizationOptions.ArcBuildingThreshold"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathOptimizationOptions ArcBuildingThreshold. Получает или задает значение параметра, используемого в качестве пороговой ошибки при замене сегментов Безье на дуговые сегменты. По умолчанию равно 2.5."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/
 ---
 ## SVGPathOptimizationOptions.ArcBuildingThreshold property
 
-Получает или задает значение параметра, используемое в качестве пороговой ошибки для замены сегментов Безье сегментами дуги. По умолчанию это «2.5».
+Получает или задает значение параметра, используемого в качестве пороговой ошибки при замене сегментов Безье на дуговые сегменты. По умолчанию '2.5'.
 
 ```csharp
 public float ArcBuildingThreshold { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

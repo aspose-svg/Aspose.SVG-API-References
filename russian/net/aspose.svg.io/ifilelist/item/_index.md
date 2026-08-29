@@ -1,14 +1,14 @@
 ---
-title: IFileList.Item
-second_title: Справочник по Aspose.SVG для .NET API
-description: IFileList свойство. Возвращает индексный файл в списке.
+title: "IFileList.Item"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IFileList Item свойство. Возвращает файл с индексом в списке"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.io/ifilelist/item/
 ---
 ## IFileList indexer
 
-Возвращает индексный файл в списке.
+Возвращает файл с индексом в списке.
 
 ```csharp
 public IFile this[int index] { get; }
@@ -22,11 +22,9 @@ public IFile this[int index] { get; }
 
 Файл.
 
-### Смотрите также
+### См. также
 
 * interface [IFile](../../ifile/)
 * interface [IFileList](../)
-* пространство имен [Aspose.Svg.IO](../../ifilelist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

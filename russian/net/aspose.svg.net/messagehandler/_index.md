@@ -1,9 +1,9 @@
 ---
-title: Class MessageHandler
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.MessageHandler сорт. Представляет базовый тип для обработчиков сообщений.
+title: "Класс MessageHandler"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.MessageHandler. Представляет базовый тип для обработчиков сообщений"
 type: docs
-weight: 2340
+weight: 4410
 url: /ru/net/aspose.svg.net/messagehandler/
 ---
 ## MessageHandler class
@@ -14,7 +14,7 @@ url: /ru/net/aspose.svg.net/messagehandler/
 public abstract class MessageHandler
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -24,11 +24,9 @@ public abstract class MessageHandler
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(INetworkOperationContext) | При переопределении в производном классе используется для реализации обработки сообщений. |
+| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | При переопределении в производном классе используется для реализации обработки сообщений. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net](../../aspose.svg.net/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

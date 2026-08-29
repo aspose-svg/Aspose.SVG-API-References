@@ -1,7 +1,7 @@
 ---
-title: DOMNamedPropertyGetterAttribute.DOMNamedPropertyGetterAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMNamedPropertyGetterAttribute строитель. Конструктор по умолчанию.
+title: "DOMNamedPropertyGetterAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMNamedPropertyGetterAttribute. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/domnamedpropertygetterattribute/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/domnamedp
 public DOMNamedPropertyGetterAttribute()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMNamedPropertyGetterAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domnamedpropertygetterattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

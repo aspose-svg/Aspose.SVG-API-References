@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.Result
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEColorMatrixElement свойство. Соответствует атрибуту результат данного элемента фильтр.
+title: "SVGFEColorMatrixElement.Result"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEColorMatrixElement Result. Соответствует атрибуту result в данном элементе фильтра"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfecolormatrixelement/result/
 ---
 ## SVGFEColorMatrixElement.Result property
 
-Соответствует атрибуту «результат» данного элемента «фильтр».
+Соответствует атрибуту ‘result’ указанного элемента ‘filter’.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «результат» данного элемента «фильтр».
+Атрибут ‘result’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEColorMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Element.AttachShadow
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Создает теневой корень и прикрепляет его к текущему элементу.
+title: "Element.AttachShadow"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element AttachShadow. Создаёт теневую корневую часть и присоединяет её к текущему элементу."
 type: docs
-weight: 230
+weight: 220
 url: /ru/net/aspose.svg.dom/element/attachshadow/
 ---
 ## Element.AttachShadow method
 
-Создает теневой корень и прикрепляет его к текущему элементу.
+Создаёт shadow root и присоединяет его к текущему элементу.
 
 ```csharp
 public ShadowRoot AttachShadow(ShadowRootMode mode)
@@ -20,21 +20,19 @@ public ShadowRoot AttachShadow(ShadowRootMode mode)
 
 ### Возвращаемое значение
 
-Созданный[`ShadowRoot`](../../shadowroot/).
+Создан [`ShadowRoot`](../../shadowroot/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| Error | NotSupportedError: Элемент не поддерживает теневое дерево. |
-| Error | InvalidStateError: Элемент уже имеет теневое дерево. |
+| Ошибка | NotSupportedError: Элемент не поддерживает теневое дерево. |
+| Ошибка | InvalidStateError: У элемента уже есть теневое дерево. |
 
-### Смотрите также
+### См. также
 
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

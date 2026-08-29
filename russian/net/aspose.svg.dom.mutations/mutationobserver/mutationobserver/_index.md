@@ -1,14 +1,14 @@
 ---
-title: MutationObserver.MutationObserver
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserver строитель. Создает объект MutationObserver и устанавливает егоMutationCallback для обратного звонка. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того как узлы зарегистрированы вObserveNode IMutationObserverInit метод мутировали.
+title: "MutationObserver"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор MutationObserver. Создаёт объект MutationObserver и задаёт его MutationCallback в callback. Callback вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того, как узлы, зарегистрированные методом Observe, были изменены."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.mutations/mutationobserver/mutationobserver/
 ---
 ## MutationObserver constructor
 
-Создает объект MutationObserver и устанавливает его[`MutationCallback`](../../mutationcallback/) для обратного звонка. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того, как узлы зарегистрированы в!:Observe(Node, IMutationObserverInit) метод, мутировали.
+Создаёт объект MutationObserver и задаёт его [`MutationCallback`](../../mutationcallback/) в callback. Callback вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того, как узлы, зарегистрированные методом [`Observe`](../observe/), были изменены.
 
 ```csharp
 public MutationObserver(MutationCallback callback)
@@ -16,13 +16,11 @@ public MutationObserver(MutationCallback callback)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| callback | MutationCallback | Обратный звонок. |
+| callback | MutationCallback | Callback. |
 
-### Смотрите также
+### См. также
 
 * delegate [MutationCallback](../../mutationcallback/)
 * class [MutationObserver](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

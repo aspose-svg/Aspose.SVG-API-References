@@ -1,28 +1,26 @@
 ---
-title: SVGAnimationElement.TargetElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAnimationElement свойство. Анимируемый элемент.
+title: "SVGAnimationElement.TargetElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство TargetElement класса SVGAnimationElement. Элемент, который анимируется"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svganimationelement/targetelement/
 ---
 ## SVGAnimationElement.TargetElement property
 
-Анимируемый элемент.
+Элемент, который анимируется.
 
 ```csharp
 public SVGElement TargetElement { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Целевой элемент.
 
-### Смотрите также
+### См. также
 
 * class [SVGElement](../../svgelement/)
 * class [SVGAnimationElement](../)
-* пространство имен [Aspose.Svg](../../svganimationelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

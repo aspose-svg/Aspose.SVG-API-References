@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGForeignObjectElement свойство. Соответствует атрибуту y данного элемента foreignObject.
+title: "SVGForeignObjectElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGForeignObjectElement Y. Соответствует атрибуту y данного элемента foreignObject"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgforeignobjectelement/y/
 ---
 ## SVGForeignObjectElement.Y property
 
-Соответствует атрибуту «y» данного элемента «foreignObject».
+Соответствует атрибуту ‘y’ в данном элементе ‘foreignObject’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента 'foreignObject'.
+Атрибут ‘y’ данного элемента ‘foreignObject’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* пространство имен [Aspose.Svg](../../svgforeignobjectelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.SubFamilyName
-second_title: Справочник по Aspose.SVG для .NET API
-description: ITrueTypeFont свойство. Имя подсемейства шрифтов отличает шрифт в группе с таким же именем семейства шрифтов. Предполагается что это стиль адреса курсив наклон и насыщенность светлый полужирный черный и т. д.. Шрифт без особых различий в жирности или стиле например средний жирность не курсив и установлен бит 6 fsSelection должен иметь строку Обычный сохраненную в этой позиции.
+title: "ITrueTypeFont.SubFamilyName"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SubFamilyName интерфейса ITrueTypeFont. Имя подсемейства различает шрифт в группе с тем же именем семейства. Предполагается, что оно описывает стиль italic, oblique и вес light, bold, black и т.д. Шрифт без особых различий в весе или стиле должен иметь строку Regular"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.svg.drawing/itruetypefont/subfamilyname/
 ---
 ## ITrueTypeFont.SubFamilyName property
 
-Имя подсемейства шрифтов отличает шрифт в группе с таким же именем семейства шрифтов. Предполагается, что это стиль адреса (курсив, наклон) и насыщенность (светлый, полужирный, черный и т. д.). Шрифт без особых различий в жирности или стиле (например, средний жирность, не курсив и установлен бит 6 fsSelection) должен иметь строку «Обычный», сохраненную в этой позиции.
+Подназвание Subfamily различает шрифт в группе с одинаковым названием семейства. Предполагается, что оно описывает стиль (italic, oblique) и толщину (light, bold, black и т.д.). Шрифт без особых различий по толщине или стилю должен иметь строку "Regular".
 
 ```csharp
 public string SubFamilyName { get; }
@@ -16,12 +16,10 @@ public string SubFamilyName { get; }
 
 ### Возвращаемое значение
 
-Название подсемейства шрифта
+Имя подсемейства шрифта.
 
-### Смотрите также
+### См. также
 
 * interface [ITrueTypeFont](../)
-* пространство имен [Aspose.Svg.Drawing](../../itruetypefont/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEMorphologyElement свойство. Соответствует атрибуту y данного элемента filter.
+title: "SVGFEMorphologyElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y элемента SVGFEMorphologyElement. Соответствует атрибуту y в данном элементе фильтра"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.filters/svgfemorphologyelement/y/
 ---
 ## SVGFEMorphologyElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'filter'.
+Соответствует атрибуту ‘y’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента 'filter'.
+Атрибут ‘y’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEMorphologyElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

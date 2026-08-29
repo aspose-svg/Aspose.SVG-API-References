@@ -1,20 +1,20 @@
 ---
-title: Class SVGAnimatedPreserveAspectRatio
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio сорт. Используется для атрибутов типа SVGPreserveAspectRatio которые можно анимировать.
+title: "SVGAnimatedPreserveAspectRatio Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.DataTypes.SVGAnimatedPreserveAspectRatio. Используется для атрибутов типа SVGPreserveAspectRatio, которые могут быть анимированы."
 type: docs
-weight: 170
+weight: 2160
 url: /ru/net/aspose.svg.datatypes/svganimatedpreserveaspectratio/
 ---
 ## SVGAnimatedPreserveAspectRatio class
 
-Используется для атрибутов типа SVGPreserveAspectRatio, которые можно анимировать.
+Используется для атрибутов типа SVGPreserveAspectRatio, которые могут быть анимированы.
 
 ```csharp
 public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspectRatio>
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,15 +25,13 @@ public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspect
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGPreserveAspectRatio](../svgpreserveaspectratio/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

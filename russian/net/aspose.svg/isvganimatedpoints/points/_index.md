@@ -1,28 +1,26 @@
 ---
-title: ISVGAnimatedPoints.Points
-second_title: Справочник по Aspose.SVG для .NET API
-description: ISVGAnimatedPoints свойство. Предоставляет доступ к базовому т.е. статическому содержимому атрибута точки.
+title: "ISVGAnimatedPoints.Points"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ISVGAnimatedPoints Points. Обеспечивает доступ к базовому, т.е. статическому содержимому атрибута points"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/isvganimatedpoints/points/
 ---
 ## ISVGAnimatedPoints.Points property
 
-Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута «точки».
+Обеспечивает доступ к базовому (т.е. статическому) содержимому атрибута ‘points’.
 
 ```csharp
 public SVGPointList Points { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Содержимое атрибута «точки»
+Содержимое атрибута ‘points’
 
-### Смотрите также
+### См. также
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * interface [ISVGAnimatedPoints](../)
-* пространство имен [Aspose.Svg](../../isvganimatedpoints/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: StencilConfiguration.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: StencilConfiguration свойство. Получает или задаетStencilType .
+title: "StencilConfiguration.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Type класса StencilConfiguration. Возвращает или задает StencilType."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.imagevectorization/stencilconfiguration/type/
 ---
 ## StencilConfiguration.Type property
 
-Получает или задает[`StencilType`](../../stenciltype/) .
+Возвращает или задает [`StencilType`](../../stenciltype/).
 
 ```csharp
 public StencilType Type { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [StencilType](../../stenciltype/)
 * class [StencilConfiguration](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

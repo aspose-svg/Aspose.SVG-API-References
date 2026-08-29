@@ -1,21 +1,19 @@
 ---
-title: Aspose.Svg.Collections
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Collections пространство имен состоит из классов для представления хранения и управления узлами и элементами.
+title: "Aspose.Svg.Collections"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имен Aspose.Svg.Collections состоит из классов, представляющих, хранящих и манипулирующих узлами и элементами"
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.svg.collections/
 ---
-**Aspose.Svg.Collections** пространство имен состоит из классов для представления, хранения и управления узлами и элементами.
+Пространство имён **Aspose.Svg.Collections** состоит из классов для представления, хранения и манипулирования узлами и элементами.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [DOMTokenList](./domtokenlist/) | Класс DOMTokenList представляет набор токенов, разделенных пробелами. Он индексируется, начиная с 0, как и объекты массива JavaScript. DOMTokenList всегда чувствителен к регистру. |
-| [HTMLCollection](./htmlcollection/) | [`HTMLCollection`](../aspose.svg.collections/htmlcollection/) представляет собой общий набор[`Element`](../aspose.svg.dom/element/) . |
-| [NamedNodeMap](./namednodemap/) | Представляет коллекции атрибутов, доступ к которым можно получить по имени. |
-| [NodeList](./nodelist/) | NodeList обеспечивает абстракцию упорядоченного набора узлов, не определяя и не ограничивая реализацию этого набора. |
-| [SVGListBase&lt;T&gt;](./svglistbase-1/) | Этот интерфейс определяет базовый список всех списков SVG. |
-
-
+| [DOMTokenList](./domtokenlist/) | Класс DOMTokenList представляет набор токенов, разделённых пробелами. Он индексируется, начиная с 0, как объекты массива JavaScript. DOMTokenList всегда чувствителен к регистру. |
+| [HTMLCollection](./htmlcollection/) | [`HTMLCollection`](../aspose.svg.collections/htmlcollection/) представляет обобщённую коллекцию [`Element`](../aspose.svg.dom/element/). |
+| [NamedNodeMap](./namednodemap/) | Представляет коллекции атрибутов, к которым можно получить доступ по имени. |
+| [NodeList](./nodelist/) | NodeList предоставляет абстракцию упорядоченной коллекции узлов, не определяя и не ограничивая способ реализации этой коллекции. |
+| [SVGListBase<T>](./svglistbase-1/) | Этот интерфейс определяет базовый список всех списков SVG. |

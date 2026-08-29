@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaMode
-second_title: Справочник по Aspose.SVG для .NET API
-description: WheelEvent свойство. Атрибут deltaMode содержит указание на единицы измерения для дельтазначений. Значение по умолчанию  DOM_DELTA_PIXEL в пикселях.
+title: "WheelEvent.DeltaMode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство WheelEvent DeltaMode. Атрибут deltaMode содержит указание единиц измерения значений delta. Значение по умолчанию — пиксели DOM_DELTA_PIXEL."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.events/wheelevent/deltamode/
 ---
 ## WheelEvent.DeltaMode property
 
-Атрибут deltaMode содержит указание на единицы измерения для дельта-значений. Значение по умолчанию — DOM_DELTA_PIXEL (в пикселях).
+Атрибут deltaMode содержит указание единиц измерения для значений дельты. Значение по умолчанию — DOM_DELTA_PIXEL (пиксели).
 
 ```csharp
 public ulong DeltaMode { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Дельта-режим.
+Режим delta.
 
-### Смотрите также
+### См. также
 
 * class [WheelEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../wheelevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

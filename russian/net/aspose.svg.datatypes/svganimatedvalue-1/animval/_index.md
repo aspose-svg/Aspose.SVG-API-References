@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.AnimVal
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAnimatedValue свойство. Если данный атрибут или свойство анимируется содержит текущее анимированное значение атрибута или свойства. Если данный атрибут или свойство в настоящее время не анимируются содержит то же значение что и baseVal.
+title: "SVGAnimatedValue-1.AnimVal"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство AnimVal класса SVGAnimatedValue. Если данный атрибут или свойство анимируется, содержит текущее анимированное значение атрибута или свойства. Если данный атрибут или свойство в данный момент не анимируется, содержит то же значение, что и baseVal."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svganimatedvalue-1/animval/
 ---
-## SVGAnimatedValue&lt;T&gt;.AnimVal property
+## SVGAnimatedValue<T>.AnimVal property
 
-Если данный атрибут или свойство анимируется, содержит текущее анимированное значение атрибута или свойства. Если данный атрибут или свойство в настоящее время не анимируются, содержит то же значение, что и baseVal.
+Если указанный атрибут или свойство анимируется, содержит текущее анимированное значение атрибута или свойства. Если указанный атрибут или свойство в данный момент не анимируется, содержит то же значение, что и baseVal.
 
 ```csharp
 public virtual T AnimVal { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [значение анимации]; в противном случае,`ЛОЖЬ` .
+`true` если [anim value]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

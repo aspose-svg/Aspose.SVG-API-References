@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGNumber
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement метод. Создает объект SVGNumber вне какихлибо деревьев документов. Объект инициализируется нулевым значением.
+title: "SVGSVGElement.CreateSVGNumber"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CreateSVGNumber элемента SVGSVGElement. Создаёт объект SVGNumber вне любых деревьев документа. Объект инициализируется значением нуля."
 type: docs
 weight: 150
 url: /ru/net/aspose.svg/svgsvgelement/createsvgnumber/
 ---
 ## SVGSVGElement.CreateSVGNumber method
 
-Создает объект SVGNumber вне каких-либо деревьев документов. Объект инициализируется нулевым значением.
+Создаёт объект SVGNumber вне любых деревьев документа. Объект инициализируется значением ноль.
 
 ```csharp
 public SVGNumber CreateSVGNumber()
@@ -18,11 +18,9 @@ public SVGNumber CreateSVGNumber()
 
 Объект SVGNumber.
 
-### Смотрите также
+### См. также
 
 * class [SVGNumber](../../../aspose.svg.datatypes/svgnumber/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

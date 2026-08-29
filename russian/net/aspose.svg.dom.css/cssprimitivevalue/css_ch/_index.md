@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_CH
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой длину ch. Значение можно получить с помощью метода getFloatValue.
+title: "CSSPrimitiveValue.CSS_CH"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_CH поле. Значение представляет длину в единицах ch. Значение можно получить, используя метод getFloatValue."
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_ch/
 ---
 ## CSSPrimitiveValue.CSS_CH field
 
-Значение представляет собой длину (ch). Значение можно получить с помощью метода getFloatValue.
+Значение — длина (ch). Значение можно получить с помощью метода getFloatValue.
 
 ```csharp
 public const ushort CSS_CH;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

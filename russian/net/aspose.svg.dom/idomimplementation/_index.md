@@ -1,14 +1,14 @@
 ---
-title: Interface IDOMImplementation
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.IDOMImplementation интерфейс. Интерфейс DOMImplementation предоставляет ряд методов для выполнения операций которые не зависят от какоголибо конкретного экземпляра объектной модели документа.
+title: "Интерфейс IDOMImplementation"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Dom.IDOMImplementation. Интерфейс DOMImplementation предоставляет ряд методов для выполнения операций, независимых от конкретного экземпляра модели объекта документа."
 type: docs
-weight: 1040
+weight: 3040
 url: /ru/net/aspose.svg.dom/idomimplementation/
 ---
 ## IDOMImplementation interface
 
-Интерфейс DOMImplementation предоставляет ряд методов для выполнения операций, которые не зависят от какого-либо конкретного экземпляра объектной модели документа.
+Интерфейс DOMImplementation предоставляет ряд методов для выполнения операций, независимых от конкретного экземпляра модели объектного документа.
 
 ```csharp
 public interface IDOMImplementation
@@ -18,14 +18,12 @@ public interface IDOMImplementation
 
 | Имя | Описание |
 | --- | --- |
-| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument/)(string, string, DocumentType) | Создает объект документа DOM указанного типа с его элементом документа. |
-| [CreateDocumentType](../../aspose.svg.dom/idomimplementation/createdocumenttype/)(string, string, string) | Создает пустой узел DocumentType. Объявления сущностей и нотации недоступны. Расширения ссылок на сущности и добавления атрибутов по умолчанию не происходят. |
-| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument/)(string) | Возвращает документ с уже построенным базовым деревом, включая элемент title, если аргумент title не опущен. |
-| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature/)() | Проверить, реализует ли реализация DOM определенную функцию и версию, как указано в DOM Features. |
+| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument/)(*string, string, [DocumentType](../documenttype/)*) | Создаёт объект DOM Document указанного типа с его элементом документа. |
+| [CreateDocumentType](../../aspose.svg.dom/idomimplementation/createdocumenttype/)(*string, string, string*) | Создаёт пустой узел DocumentType. Объявления сущностей и обозначения не доступны. Расширения ссылок на сущности и добавление атрибутов по умолчанию не происходят. |
+| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument/)(*string*) | Возвращает документ с уже построенным базовым деревом, включающим элемент title, если аргумент title не указан. |
+| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature/)() | Проверьте, реализует ли реализация DOM определённую возможность и версию, как указано в DOM Features. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

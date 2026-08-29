@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Amplitude
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement свойство. Соответствует атрибуту амплитуда данного элемента.
+title: "SVGComponentTransferFunctionElement.Amplitude"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Amplitude элемента SVGComponentTransferFunctionElement. Соответствует атрибуту amplitude в данном элементе."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/amplitude/
 ---
 ## SVGComponentTransferFunctionElement.Amplitude property
 
-Соответствует атрибуту «амплитуда» данного элемента.
+Соответствует атрибуту ‘amplitude’ в данном элементе.
 
 ```csharp
 public SVGAnimatedNumber Amplitude { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «амплитуда» данного элемента.
+Атрибут ‘amplitude’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.FarthestViewportElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGraphicsElement свойство. Самый дальний предок элемента svg. Null если текущий элемент является самым внешним элементом svg.
+title: "SVGGraphicsElement.FarthestViewportElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGGraphicsElement FarthestViewportElement. Самый дальний предок‑элемент svg. Null, если текущий элемент является самым внешним элементом svg."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svggraphicselement/farthestviewportelement/
 ---
 ## SVGGraphicsElement.FarthestViewportElement property
 
-Самый дальний предок элемента 'svg'. Null, если текущий элемент является самым внешним элементом svg.
+Самый дальний предок‑элемент ‘svg’. Null, если текущий элемент является самым внешним элементом svg.
 
 ```csharp
 public SVGElement FarthestViewportElement { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Самый дальний элемент окна просмотра.
+Самый дальний элемент области просмотра.
 
-### Смотрите также
+### См. также
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* пространство имен [Aspose.Svg](../../svggraphicselement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

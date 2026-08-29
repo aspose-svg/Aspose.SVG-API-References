@@ -1,24 +1,22 @@
 ---
-title: PageSetup.AtPagePriority
-second_title: Справочник по Aspose.SVG для .NET API
-description: PageSetup свойство. Получает или устанавливаетAtPagePriority который будет определять порядок применения объявлений размера страницы. По умолчанию параметры переопределяют cssстраница правила .
+title: "PageSetup.AtPagePriority"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PageSetup AtPagePriority. Получает или задаёт AtPagePriority, который определяет порядок применения объявлений размеров страниц. По умолчанию параметры переопределяют правила CSS‑страниц"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering/pagesetup/atpagepriority/
 ---
 ## PageSetup.AtPagePriority property
 
-Получает или устанавливает[`AtPagePriority`](../../atpagepriority/) который будет определять порядок применения объявлений размера страницы. По умолчанию параметры переопределяют css`@страница` правила .
+Получает или задаёт [`AtPagePriority`](../../atpagepriority/), который определяет порядок применения объявлений размеров страниц. По умолчанию параметры переопределяют правила CSS `@page`.
 
 ```csharp
 public AtPagePriority AtPagePriority { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [AtPagePriority](../../atpagepriority/)
 * class [PageSetup](../)
-* пространство имен [Aspose.Svg.Rendering](../../pagesetup/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

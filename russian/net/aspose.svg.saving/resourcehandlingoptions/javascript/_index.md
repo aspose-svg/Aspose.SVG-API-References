@@ -1,24 +1,22 @@
 ---
-title: ResourceHandlingOptions.JavaScript
-second_title: Справочник по Aspose.SVG для .NET API
-description: ResourceHandlingOptions свойство. Получает или задает перечисление представляющее способ обработки скриптов. В настоящее времяSave Ignore Discard иEmbed значения поддерживаются. Значение по умолчаниюSave .
+title: "ResourceHandlingOptions.JavaScript"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство JavaScript класса ResourceHandlingOptions. Получает или задает перечисление, представляющее способ обработки скриптов. В настоящее время поддерживаются значения Save, Ignore, Discard и Embed. Значение по умолчанию — Save"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.saving/resourcehandlingoptions/javascript/
 ---
 ## ResourceHandlingOptions.JavaScript property
 
-Получает или задает перечисление, представляющее способ обработки скриптов. В настоящее времяSave ,Ignore ,Discard иEmbed значения поддерживаются. Значение по умолчаниюSave .
+Получает или задает перечисление, которое представляет способ обработки скриптов. В настоящее время поддерживаются значения Save, Ignore, Discard и Embed. Значение по умолчанию — Save.
 
 ```csharp
 public ResourceHandling JavaScript { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [ResourceHandling](../../resourcehandling/)
 * class [ResourceHandlingOptions](../)
-* пространство имен [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Intercept
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement свойство. Соответствует атрибуту перехват данного элемента.
+title: "SVGComponentTransferFunctionElement.Intercept"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Intercept класса SVGComponentTransferFunctionElement. Соответствует атрибуту intercept в данном элементе."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/intercept/
 ---
 ## SVGComponentTransferFunctionElement.Intercept property
 
-Соответствует атрибуту «перехват» данного элемента.
+Соответствует атрибуту ‘intercept’ в данном элементе.
 
 ```csharp
 public SVGAnimatedNumber Intercept { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «перехват» данного элемента.
+Атрибут ‘intercept’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

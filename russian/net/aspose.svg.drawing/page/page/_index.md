@@ -1,14 +1,14 @@
 ---
-title: Page.Page
-second_title: Справочник по Aspose.SVG для .NET API
-description: Page строитель. Инициализирует новый экземплярPage класс.
+title: "Page"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор Page. Инициализирует новый экземпляр класса Page"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/page/page/
 ---
-## Page(Size, Margin) {#constructor_3}
+## Page(*[Size](../../size/), [Margin](../../margin/)*) {#constructor_3}
 
-Инициализирует новый экземпляр[`Page`](../) класс.
+Инициализирует новый экземпляр класса [`Page`](../).
 
 ```csharp
 public Page(Size size, Margin margin)
@@ -16,22 +16,22 @@ public Page(Size size, Margin margin)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | Size | Размер страницы. |
-| margin | Margin | Маржа. |
+| размер | Size | Размер страницы. |
+| отступ | Margin | Отступ. |
 
-### Смотрите также
+### См. также
 
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* пространство имен [Aspose.Svg.Drawing](../../page/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Size) {#constructor_2}
+## Page(*[Size](../../size/)*) {#constructor_2}
 
-Инициализирует новый экземпляр[`Page`](../) класс.
+Инициализирует новый экземпляр класса [`Page`](../).
 
 ```csharp
 public Page(Size size)
@@ -39,20 +39,20 @@ public Page(Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | Size | Размер страницы. |
+| размер | Size | Размер страницы. |
 
-### Смотрите также
+### См. также
 
 * class [Size](../../size/)
 * class [Page](../)
-* пространство имен [Aspose.Svg.Drawing](../../page/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Margin) {#constructor_1}
+## Page(*[Margin](../../margin/)*) {#constructor_1}
 
-Инициализирует новый экземпляр[`Page`](../) класс.
+Инициализирует новый экземпляр класса [`Page`](../).
 
 ```csharp
 public Page(Margin margin)
@@ -60,29 +60,27 @@ public Page(Margin margin)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| margin | Margin | Маржа. |
+| отступ | Margin | Отступ. |
 
-### Смотрите также
+### См. также
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* пространство имен [Aspose.Svg.Drawing](../../page/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Page() {#constructor}
 
-Инициализирует новый экземпляр[`Page`](../) класс.
+Инициализирует новый экземпляр класса [`Page`](../).
 
 ```csharp
 public Page()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Page](../)
-* пространство имен [Aspose.Svg.Drawing](../../page/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

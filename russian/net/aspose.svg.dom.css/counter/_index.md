@@ -1,37 +1,35 @@
 ---
-title: Class Counter
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.Counter сорт. Интерфейс счетчика используется для представления любого значения счетчика или функции счетчика. Этот интерфейс отражает значения в базовом свойстве стиля.
+title: "Класс Counter"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Dom.Css.Counter. Интерфейс Counter используется для представления любого значения функции counter или counters. Этот интерфейс отражает значения в базовом свойстве стиля"
 type: docs
-weight: 510
+weight: 2510
 url: /ru/net/aspose.svg.dom.css/counter/
 ---
 ## Counter class
 
-Интерфейс счетчика используется для представления любого значения счетчика или функции счетчика. Этот интерфейс отражает значения в базовом свойстве стиля.
+Интерфейс Counter используется для представления любого значения функции counter или counters. Этот интерфейс отражает значения в базовом свойстве стиля.
 
 ```csharp
 public class Counter : DOMObject
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Identifier](../../aspose.svg.dom.css/counter/identifier/) { get; } | Этот атрибут используется для идентификатора счетчика. |
+| [Identifier](../../aspose.svg.dom.css/counter/identifier/) { get; } | Этот атрибут используется для идентификатора счётчика. |
 | [ListStyle](../../aspose.svg.dom.css/counter/liststyle/) { get; } | Этот атрибут используется для стиля списка. |
-| [Separator](../../aspose.svg.dom.css/counter/separator/) { get; } | Этот атрибут используется для разделителя вложенных счетчиков. |
+| [Separator](../../aspose.svg.dom.css/counter/separator/) { get; } | Этот атрибут используется для разделителя вложенных счётчиков. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
 
-### Смотрите также
+### См. также
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

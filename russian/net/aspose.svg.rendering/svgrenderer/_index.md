@@ -1,14 +1,14 @@
 ---
-title: Class SvgRenderer
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.SvgRenderer сорт. Представляет средство визуализации документа SVG.
+title: "SvgRenderer Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Rendering.SvgRenderer класс. Представляет рендерер SVG‑документов"
 type: docs
-weight: 3030
+weight: 5100
 url: /ru/net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class
 
-Представляет средство визуализации документа SVG.
+Представляет рендерер SVG‑документов.
 
 ```csharp
 public class SvgRenderer : Renderer<SVGDocument>
@@ -24,20 +24,18 @@ public class SvgRenderer : Renderer<SVGDocument>
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, params SVGDocument[]) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(IDevice, CancellationToken, params SVGDocument[]) | Определяет метод рендеринга нескольких[`SVGDocument`](../../aspose.svg/svgdocument/) в конкретный[`IDevice`](../idevice/) , используя токен отмены для запроса отмены операции. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, int, params SVGDocument[]) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, int) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, TimeSpan) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(IDevice, TimeSpan, params SVGDocument[]) | Определяет метод для рендеринга нескольких[`SVGDocument`](../../aspose.svg/svgdocument/) в конкретные[`IDevice`](../idevice/) . |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/)*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), params SVGDocument[]*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(*[IDevice](../idevice/), CancellationToken, params SVGDocument[]*) | Определяет метод для рендеринга нескольких [`SVGDocument`](../../aspose.svg/svgdocument/)s в конкретное [`IDevice`](../idevice/), используя токен отмены для запроса отмены операции. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), int, params SVGDocument[]*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), int*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), TimeSpan*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(*[IDevice](../idevice/), TimeSpan, params SVGDocument[]*) | Определяет метод для рендеринга нескольких [`SVGDocument`](../../aspose.svg/svgdocument/)s в конкретное [`IDevice`](../idevice/). |
 
-### Смотрите также
+### См. также
 
 * class [SVGDocument](../../aspose.svg/svgdocument/)
-* class [Renderer&lt;TDocument&gt;](../renderer-1/)
-* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* сборка [Aspose.SVG](../../)
-
-
+* class [Renderer&lt;TSource&gt;](../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

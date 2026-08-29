@@ -1,14 +1,14 @@
 ---
-title: IEventTarget.RemoveEventListener
-second_title: Справочник по Aspose.SVG для .NET API
-description: IEventTarget метод. Этот метод позволяет удалить прослушиватели событий из цели события. ЕслиIEventListener удаляется изEventTarget пока он обрабатывает событие он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
+title: "IEventTarget.RemoveEventListener"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IEventTarget RemoveEventListener. Этот метод позволяет удалять обработчики событий из целевого объекта события. Если IEventListener удаляется из EventTarget во время обработки события, он не будет вызван текущими действиями. Обработчики событий никогда не могут быть вызваны после удаления."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.events/ieventtarget/removeeventlistener/
 ---
-## RemoveEventListener(string, IEventListener) {#removeeventlistener}
+## RemoveEventListener(*string, [IEventListener](../../ieventlistener/)*) {#removeeventlistener}
 
-Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../ieventlistener/) удаляется из[`EventTarget`](../../../aspose.svg.dom/eventtarget/) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
+Этот метод позволяет удалять обработчики событий из целевого объекта события. Если [`IEventListener`](../../ieventlistener/) удаляется из [`EventTarget`](../../../aspose.svg.dom/eventtarget/) во время обработки события, он не будет вызван текущими действиями. Обработчики событий никогда не могут быть вызваны после удаления.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener)
@@ -16,21 +16,21 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | String | Определяет тип события[`IEventListener`](../../ieventlistener/) удаляются. |
-| listener | IEventListener | [`IEventListener`](../../ieventlistener/) параметр указывает[`IEventListener`](../../ieventlistener/) быть удалены. |
+| type | String | Указывает тип события у удаляемого [`IEventListener`](../../ieventlistener/). |
+| listener | IEventListener | Параметр [`IEventListener`](../../ieventlistener/) указывает, какой [`IEventListener`](../../ieventlistener/) следует удалить. |
 
-### Смотрите также
+### См. также
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_1}
+## RemoveEventListener(*string, [IEventListener](../../ieventlistener/), bool*) {#removeeventlistener_1}
 
-Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../ieventlistener/) удаляется из[`EventTarget`](../../../aspose.svg.dom/eventtarget/) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
+Этот метод позволяет удалять обработчики событий из целевого объекта события. Если [`IEventListener`](../../ieventlistener/) удаляется из [`EventTarget`](../../../aspose.svg.dom/eventtarget/) во время обработки события, он не будет вызван текущими действиями. Обработчики событий никогда не могут быть вызваны после удаления.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener, bool useCapture)
@@ -38,15 +38,13 @@ public void RemoveEventListener(string type, IEventListener listener, bool useCa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | String | Определяет тип события[`IEventListener`](../../ieventlistener/) удаляются. |
-| listener | IEventListener | [`IEventListener`](../../ieventlistener/) параметр указывает[`IEventListener`](../../ieventlistener/) быть удалены. |
-| useCapture | Boolean | Указывает, был ли удаленный EventListener зарегистрирован как прослушиватель захвата или нет. Если прослушиватель был зарегистрирован дважды, один с захватом и один без, каждый из них должен быть удален отдельно. того же слушателя и наоборот. |
+| type | String | Указывает тип события у удаляемого [`IEventListener`](../../ieventlistener/). |
+| listener | IEventListener | Параметр [`IEventListener`](../../ieventlistener/) указывает, какой [`IEventListener`](../../ieventlistener/) следует удалить. |
+| useCapture | Boolean | Указывает, был ли удаляемый EventListener зарегистрирован как захватывающий обработчик или нет. Если обработчик был зарегистрирован дважды, один с захватом и один без, каждый из них необходимо удалять отдельно. Удаление захватывающего обработчика не влияет на незахватывающую версию того же обработчика и наоборот. |
 
-### Смотрите также
+### См. также
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

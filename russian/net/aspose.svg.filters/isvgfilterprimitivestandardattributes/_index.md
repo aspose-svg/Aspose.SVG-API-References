@@ -1,32 +1,30 @@
 ---
-title: Interface ISVGFilterPrimitiveStandardAttributes
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Filters.ISVGFilterPrimitiveStandardAttributes интерфейс. Этот интерфейс определяет набор DOMатрибутов которые являются общими для интерфейсов фильтрующих примитивов.
+title: "ISVGFilterPrimitiveStandardAttributes Интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Filters.ISVGFilterPrimitiveStandardAttributes интерфейс. Этот интерфейс определяет набор DOM-атрибутов, общих для всех интерфейсов примитивов фильтра."
 type: docs
-weight: 1640
+weight: 3730
 url: /ru/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface
 
-Этот интерфейс определяет набор DOM-атрибутов, которые являются общими для интерфейсов фильтрующих примитивов.
+Этот интерфейс определяет набор атрибутов DOM, общих для всех интерфейсов примитивов фильтра.
 
 ```csharp
 public interface ISVGFilterPrimitiveStandardAttributes
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | Соответствует атрибуту "высота" данного элемента "фильтра". |
-| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | Соответствует атрибуту «результат» данного элемента «фильтр». |
-| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | Соответствует атрибуту «ширина» данного элемента «фильтр». |
-| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | Соответствует атрибуту «x» данного элемента «фильтр». |
-| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | Соответствует атрибуту 'y' данного элемента 'filter'. |
+| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | Соответствует атрибуту ‘height’ в данном элементе ‘filter’. |
+| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | Соответствует атрибуту ‘result’ указанного элемента ‘filter’. |
+| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | Соответствует атрибуту ‘width’ в данном элементе ‘filter’. |
+| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | Соответствует атрибуту ‘x’ в данном элементе ‘filter’. |
+| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | Соответствует атрибуту ‘y’ в данном элементе ‘filter’. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Filters](../../aspose.svg.filters/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Filters](../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../)

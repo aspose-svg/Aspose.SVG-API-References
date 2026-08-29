@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BackgroundAttachment
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства backgroundattachment в CSS2.
+title: "ICSS2Properties.BackgroundAttachment"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ICSS2Properties BackgroundAttachment. См. определение свойства background-attachment в CSS2"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/icss2properties/backgroundattachment/
@@ -18,10 +18,8 @@ public string BackgroundAttachment { get; set; }
 
 свойство background-attachment
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

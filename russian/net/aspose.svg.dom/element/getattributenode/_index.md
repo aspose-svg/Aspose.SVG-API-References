@@ -1,32 +1,30 @@
 ---
-title: Element.GetAttributeNode
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Извлекает узел атрибута по имени.
+title: "Element.GetAttributeNode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element GetAttributeNode. Получает узел атрибута по имени"
 type: docs
 weight: 250
 url: /ru/net/aspose.svg.dom/element/getattributenode/
 ---
 ## Element.GetAttributeNode method
 
-Извлекает узел атрибута по имени.
+Получает узел атрибута по имени.
 
 ```csharp
-public Attr GetAttributeNode(string name)
+public Attr GetAttributeNode(string qualifiedName)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя атрибута. |
+| qualifiedName | String | Имя атрибута. |
 
 ### Возвращаемое значение
 
 Возвращает значение атрибута
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

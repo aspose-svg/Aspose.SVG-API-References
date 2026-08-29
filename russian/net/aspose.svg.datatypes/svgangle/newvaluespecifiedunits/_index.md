@@ -1,14 +1,14 @@
 ---
-title: SVGAngle.NewValueSpecifiedUnits
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAngle метод. Сбросить значение как число с соответствующим unitType тем самым заменив значения для всех атрибутов объекта.
+title: "SVGAngle.NewValueSpecifiedUnits"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGAngle NewValueSpecifiedUnits. Сбрасывает значение как число с соответствующим unitType, тем самым заменяя значения всех атрибутов объекта."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.datatypes/svgangle/newvaluespecifiedunits/
 ---
 ## SVGAngle.NewValueSpecifiedUnits method
 
-Сбросить значение как число с соответствующим unitType, тем самым заменив значения для всех атрибутов объекта.
+Сбросить значение как число с соответствующим unitType, тем самым заменив значения всех атрибутов объекта.
 
 ```csharp
 public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUnits)
@@ -23,13 +23,11 @@ public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUni
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) Возникает, если unitType имеет значение SVG_ANGLETYPE_UNKNOWN или не является допустимой константой типа единицы измерения (одной из других констант SVG_ANGLETYPE_*, определенных в этом интерфейсе). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Возникает, когда угол соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) Выдается, если unitType имеет значение SVG_ANGLETYPE_UNKNOWN или не является допустимой константой типа единицы измерения (одной из остальных констант SVG_ANGLETYPE_*, определённых в этом интерфейсе). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Выдается, когда угол соответствует только для чтения атрибуту или когда сам объект только для чтения. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgangle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

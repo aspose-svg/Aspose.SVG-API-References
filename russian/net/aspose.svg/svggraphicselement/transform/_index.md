@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.Transform
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGraphicsElement свойство. Соответствует атрибуту преобразование данного элемента.
+title: "SVGGraphicsElement.Transform"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Transform элемента SVGGraphicsElement. Соответствует атрибуту transform у данного элемента."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svggraphicselement/transform/
 ---
 ## SVGGraphicsElement.Transform property
 
-Соответствует атрибуту «преобразование» данного элемента.
+Соответствует атрибуту ‘transform’ у указанного элемента.
 
 ```csharp
 public SVGAnimatedTransformList Transform { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Преобразование элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGGraphicsElement](../)
-* пространство имен [Aspose.Svg](../../svggraphicselement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

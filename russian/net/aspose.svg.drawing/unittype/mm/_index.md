@@ -1,7 +1,7 @@
 ---
-title: UnitType.Mm
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в миллиметрах
+title: "UnitType.Mm"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Mm. Измерение в миллиметрах"
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.drawing/unittype/mm/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/mm/
 public static readonly UnitType Mm;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

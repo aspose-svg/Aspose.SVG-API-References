@@ -1,23 +1,25 @@
 ---
-title: ILinearGradientBrush.Rect
-second_title: Справочник по Aspose.SVG для .NET API
-description: ILinearGradientBrush свойство. Получить прямоугольную область определяющую начальную и конечную точки градиента.
+title: "ILinearGradientBrush.Rect"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ILinearGradientBrush Rect. Получает или задает прямоугольную область, определяющую начальные и конечные точки градиента"
 type: docs
-weight: 40
+weight: 20
 url: /ru/net/aspose.svg.drawing/ilineargradientbrush/rect/
 ---
 ## ILinearGradientBrush.Rect property
 
-Получить прямоугольную область, определяющую начальную и конечную точки градиента.
+Получает или задает прямоугольный регион, определяющий начальные и конечные точки градиента.
 
 ```csharp
-public RectangleF Rect { get; }
+public RectangleF Rect { get; set; }
 ```
 
-### Смотрите также
+### Возвращаемое значение
+
+Прямоугольная область, определяющая начальные и конечные точки градиента.
+
+### См. также
 
 * interface [ILinearGradientBrush](../)
-* пространство имен [Aspose.Svg.Drawing](../../ilineargradientbrush/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

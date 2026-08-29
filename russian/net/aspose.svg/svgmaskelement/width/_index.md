@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMaskElement свойство. Соответствует атрибуту ширина данного элемента маска. Принимает одну из констант определенных в SVGUnitTypes.
+title: "SVGMaskElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Width элемента SVGMaskElement. Соответствует атрибуту width данного элемента mask. Принимает одну из констант, определённых в SVGUnitTypes."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/svgmaskelement/width/
 ---
 ## SVGMaskElement.Width property
 
-Соответствует атрибуту «ширина» данного элемента «маска». Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту ‘width’ у данного элемента ‘mask’. Принимает одну из констант, определённых в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «ширина» данного элемента «маска».
+Атрибут ‘width’ данного элемента ‘mask’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* пространство имен [Aspose.Svg](../../svgmaskelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

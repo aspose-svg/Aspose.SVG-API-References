@@ -1,28 +1,26 @@
 ---
-title: Document.Doctype
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Объявление типа документа связанное с этим документом.
+title: "Document.Doctype"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document Doctype. Объявление типа документа, связанное с этим документом"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom/document/doctype/
 ---
 ## Document.Doctype property
 
-Объявление типа документа, связанное с этим документом.
+Объявление типа документа (Document Type Declaration), связанное с этим документом.
 
 ```csharp
 public DocumentType Doctype { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип документа.
 
-### Смотрите также
+### См. также
 
 * class [DocumentType](../../documenttype/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

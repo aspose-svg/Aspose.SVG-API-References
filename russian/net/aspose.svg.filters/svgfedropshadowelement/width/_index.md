@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDropShadowElement свойство. Соответствует атрибуту width данного элемента feDropShadow.
+title: "SVGFEDropShadowElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEDropShadowElement Width свойство. Соответствует атрибуту width в данном элементе feDropShadow"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.filters/svgfedropshadowelement/width/
 ---
 ## SVGFEDropShadowElement.Width property
 
-Соответствует атрибуту 'width' данного элемента feDropShadow.
+Соответствует атрибуту ‘width’ указанного элемента ‘feDropShadow’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ширина атрибута данного элемента feDropShadow.
+Атрибут ‘width’ данного элемента ‘feDropShadow’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDropShadowElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.CreateAttributeNS
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает атрибут с заданным полным именем и URI пространства имен.
+title: "Document.CreateAttributeNS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateAttributeNS. Этот метод создает новый узел атрибута и возвращает его. Созданный объект является узлом, реализующим класс Attr. DOM не накладывает ограничений на тип атрибутов, которые могут быть добавлены к конкретному элементу таким способом"
 type: docs
 weight: 800
 url: /ru/net/aspose.svg.dom/document/createattributens/
 ---
 ## Document.CreateAttributeNS method
 
-Создает атрибут с заданным полным именем и URI пространства имен.
+Этот метод создает новый узел атрибута и возвращает его. Созданный объект является узлом, реализующим класс [`Attr`](../../attr/). DOM не ограничивает, какие атрибуты могут быть добавлены к конкретному элементу таким способом.
 
 ```csharp
 public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
@@ -16,18 +16,16 @@ public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
-| qualifiedName | String | Имя квалифицированного. |
+| namespaceURI | String | URI пространства имен атрибута. |
+| qualifiedName | String | является строкой, содержащей имя атрибута. |
 
 ### Возвращаемое значение
 
-[`Attr`](../../attr/) .
+Элемент [`Attr`](../../attr/).
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../attr/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

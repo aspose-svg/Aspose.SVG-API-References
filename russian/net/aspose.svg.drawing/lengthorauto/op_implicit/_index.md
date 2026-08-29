@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.op_Implicit
-second_title: Справочник по Aspose.SVG для .NET API
-description: LengthOrAuto метод. Выполняет неявное преобразование изLength кLengthOrAuto .
+title: "LengthOrAuto.op_Implicit"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод op_Implicit класса LengthOrAuto. Выполняет неявное преобразование из Length в LengthOrAuto"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/lengthorauto/op_implicit/
 ---
 ## LengthOrAuto Implicit operator
 
-Выполняет неявное преобразование из[`Length`](../length/) к[`LengthOrAuto`](../) .
+Выполняет неявное преобразование из [`Length`](../length/) в [`LengthOrAuto`](../).
 
 ```csharp
 public static implicit operator LengthOrAuto(Length length)
@@ -16,17 +16,15 @@ public static implicit operator LengthOrAuto(Length length)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| length | Length | Значение. |
+| длина | Length | Значение. |
 
 ### Возвращаемое значение
 
 Результат преобразования.
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* пространство имен [Aspose.Svg.Drawing](../../lengthorauto/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

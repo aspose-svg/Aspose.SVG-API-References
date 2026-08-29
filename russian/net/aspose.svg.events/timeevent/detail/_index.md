@@ -1,27 +1,25 @@
 ---
-title: TimeEvent.Detail
-second_title: Справочник по Aspose.SVG для .NET API
-description: TimeEvent свойство. Указывает некоторую подробную информацию о событии в зависимости от типа события. Для этого типа события указывает номер повтора анимации.
+title: "TimeEvent.Detail"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "TimeEvent Detail свойство. Указывает некоторую детальную информацию о событии в зависимости от его типа. Для этого типа события указывает номер повторения анимации."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.events/timeevent/detail/
 ---
 ## TimeEvent.Detail property
 
-Указывает некоторую подробную информацию о событии в зависимости от типа события. Для этого типа события указывает номер повтора анимации.
+Указывает некоторую детальную информацию о событии, в зависимости от его типа. Для этого типа события указывает номер повторения анимации.
 
 ```csharp
 public long Detail { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Деталь.
 
-### Смотрите также
+### См. также
 
 * class [TimeEvent](../)
-* пространство имен [Aspose.Svg.Events](../../timeevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

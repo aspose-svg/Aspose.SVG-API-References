@@ -1,14 +1,14 @@
 ---
-title: Class LengthOrAuto
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.LengthOrAuto сорт. Представляет контейнер для длины хранения или авто единиц..
+title: "Класс LengthOrAuto"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Drawing.LengthOrAuto. Представляет контейнер для хранения длины или автоматических единиц"
 type: docs
-weight: 1530
+weight: 3560
 url: /ru/net/aspose.svg.drawing/lengthorauto/
 ---
 ## LengthOrAuto class
 
-Представляет контейнер для длины хранения или «авто» единиц..
+Представляет контейнер для хранения длины или единиц 'auto'..
 
 ```csharp
 public class LengthOrAuto : Unit
@@ -18,32 +18,30 @@ public class LengthOrAuto : Unit
 
 | Имя | Описание |
 | --- | --- |
-| [LengthOrAuto](lengthorauto/#constructor)() | Инициализирует новый экземпляр`LengthOrAuto` class и устанавливает состояние «auto». |
-| [LengthOrAuto](lengthorauto/#constructor_1)(Length) | Инициализирует новый экземпляр`LengthOrAuto`класс и устанавливает состояние «длина». |
+| [LengthOrAuto](lengthorauto/#constructor)() | Инициализирует новый экземпляр класса `LengthOrAuto` и устанавливает состояние в 'auto'. |
+| [LengthOrAuto](lengthorauto/#constructor_1)(*[Length](../length/)*) | Инициализирует новый экземпляр класса `LengthOrAuto` и устанавливает состояние в 'lenght'. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [IsAuto](../../aspose.svg.drawing/lengthorauto/isauto/) { get; } | Получает значение, указывающее, находится ли этот экземпляр в состоянии 'auto'. |
+| [IsAuto](../../aspose.svg.drawing/lengthorauto/isauto/) { get; } | Возвращает значение, указывающее, находится ли этот экземпляр в состоянии 'auto'. |
 | [Length](../../aspose.svg.drawing/lengthorauto/length/) { get; set; } | Получает или задает длину. |
-| [UnitType](../../aspose.svg.drawing/lengthorauto/unittype/) { get; } | Получает тип единицы измерения[`Unit`](../unit/) . |
+| [UnitType](../../aspose.svg.drawing/lengthorauto/unittype/) { get; } | Получает тип единицы измерения [`Unit`](../unit/). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unit/equals/)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
-| override [Equals](../../aspose.svg.drawing/lengthorauto/equals/#equals)(Unit) | Определяет, является ли указанный[`Unit`](../unit/) , равно этому экземпляру. |
-| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | Возвращает хэш-код для этого экземпляра. |
-| [SetAuto](../../aspose.svg.drawing/lengthorauto/setauto/)() | Сбрасывает контейнер в состояние «авто». |
-| override [ToString](../../aspose.svg.drawing/lengthorauto/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
-| [implicit operator](../../aspose.svg.drawing/lengthorauto/op_implicit/) | Выполняет неявное преобразование из[`Length`](./length/) к`LengthOrAuto` . |
+| override [Equals](../../aspose.svg.drawing/unit/equals/)(*object*) | Определяет, равен ли указанный объект текущему экземпляру. |
+| override [Equals](../../aspose.svg.drawing/lengthorauto/equals/#equals)(*[Unit](../unit/)*) | Определяет, равна ли указанная [`Unit`](../unit/) этому экземпляру. |
+| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | Возвращает хеш‑код для этого экземпляра. |
+| [SetAuto](../../aspose.svg.drawing/lengthorauto/setauto/)() | Сбрасывает контейнер в состояние 'auto'. |
+| override [ToString](../../aspose.svg.drawing/lengthorauto/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
+| [implicit operator](../../aspose.svg.drawing/lengthorauto/op_implicit/) | Выполняет неявное преобразование из [`Length`](./length/) в `LengthOrAuto`. |
 
-### Смотрите также
+### См. также
 
 * class [Unit](../unit/)
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

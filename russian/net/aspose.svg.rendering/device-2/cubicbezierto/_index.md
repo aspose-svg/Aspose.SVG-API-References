@@ -1,17 +1,17 @@
 ---
-title: Device2.CubicBezierTo
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Добавляет кубическую кривую Безье к текущему пути. Кривая продолжается от текущей точки до точки pt2  используя pt1 и pt2 в качестве контрольных точек Безье. Новая текущая точка  pt3.
+title: "Device-2.CubicBezierTo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Device CubicBezierTo. Добавляет кубическую кривую Безье к текущему пути. Кривая проходит от текущей точки к точке pt2, используя pt1 и pt2 в качестве контрольных точек Безье. Новая текущая точка — pt3."
 type: docs
-weight: 90
+weight: 120
 url: /ru/net/aspose.svg.rendering/device-2/cubicbezierto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.CubicBezierTo method
+## Device<TGraphicContext,TRenderingOptions>.CubicBezierTo method
 
-Добавляет кубическую кривую Безье к текущему пути. Кривая продолжается от текущей точки до точки pt2, , используя pt1 и pt2 в качестве контрольных точек Безье. Новая текущая точка - pt3.
+Добавляет кубическую кривую Bézier к текущему пути. Кривая проходит от текущей точки к точке pt2, используя pt1 и pt2 в качестве контрольных точек Bézier. Новая текущая точка — pt3.
 
 ```csharp
-public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
+public virtual void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ```
 
 | Параметр | Тип | Описание |
@@ -20,10 +20,8 @@ public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 | pt2 | PointF | Координаты второй точки |
 | pt3 | PointF | Координаты третьей точки |
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

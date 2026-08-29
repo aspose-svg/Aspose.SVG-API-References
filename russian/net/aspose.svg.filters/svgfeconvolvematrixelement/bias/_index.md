@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Bias
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEConvolveMatrixElement свойство. Соответствует атрибуту bias данного элемента feConvolveMatrix.
+title: "SVGFEConvolveMatrixElement.Bias"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Bias элемента SVGFEConvolveMatrixElement. Соответствует атрибуту bias в данном элементе feConvolveMatrix"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/bias/
 ---
 ## SVGFEConvolveMatrixElement.Bias property
 
-Соответствует атрибуту 'bias' данного элемента 'feConvolveMatrix'.
+Соответствует атрибуту ‘bias’ в данном элементе ‘feConvolveMatrix’.
 
 ```csharp
 public SVGAnimatedNumber Bias { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'bias' данного элемента feConvolveMatrix.
+Атрибут ‘bias’ данного элемента ‘feConvolveMatrix’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

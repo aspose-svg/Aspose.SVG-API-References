@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Height
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDropShadowElement свойство. Соответствует атрибуту высота данного элемента feDropShadow.
+title: "SVGFEDropShadowElement.Height"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Height элемента SVGFEDropShadowElement. Соответствует атрибуту height в данном элементе feDropShadow."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfedropshadowelement/height/
 ---
 ## SVGFEDropShadowElement.Height property
 
-Соответствует атрибуту «высота» данного элемента «feDropShadow».
+Соответствует атрибуту ‘height’ указанного элемента ‘feDropShadow’.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «высота» данного элемента «feDropShadow».
+Атрибут ‘height’ данного элемента ‘feDropShadow’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDropShadowElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

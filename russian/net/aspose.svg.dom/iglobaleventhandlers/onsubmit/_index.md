@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnSubmit
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnSubmit.
+title: "IGlobalEventHandlers.OnSubmit"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IGlobalEventHandlers OnSubmit событие. Получает или задает обработчик события для OnSubmit события"
 type: docs
 weight: 450
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onsubmit/
 ---
 ## IGlobalEventHandlers.OnSubmit event
 
-Получает или задает обработчик события OnSubmit.
+Получает или задает обработчик события для события OnSubmit.
 
 ```csharp
 public event DOMEventHandler OnSubmit;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

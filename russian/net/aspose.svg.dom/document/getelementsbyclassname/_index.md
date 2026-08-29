@@ -1,14 +1,16 @@
 ---
-title: Document.GetElementsByClassName
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Возвращает активный объект NodeList содержащий все элементы документа имеющие все классы указанные в аргументе. http//www.w3.org/TR/dom/
+title: "Document.GetElementsByClassName"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document GetElementsByClassName. Этот метод возвращает объект, похожий на массив, всех дочерних элементов, которые имеют все указанные имена классов"
 type: docs
 weight: 970
 url: /ru/net/aspose.svg.dom/document/getelementsbyclassname/
 ---
 ## Document.GetElementsByClassName method
 
-Возвращает активный объект NodeList, содержащий все элементы документа, имеющие все классы, указанные в аргументе. http://www.w3.org/TR/dom/
+Этот метод возвращает объект, похожий на массив, всех дочерних элементов, которые имеют все указанные имена классов.
+
+При вызове на объекте документа производится поиск по всему документу, включая корневой узел. Вы также можете вызвать этот метод на любом элементе; он вернёт только элементы, которые являются потомками указанного корневого элемента с заданным именем(именами) класса.
 
 ```csharp
 public HTMLCollection GetElementsByClassName(string classNames)
@@ -16,17 +18,19 @@ public HTMLCollection GetElementsByClassName(string classNames)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| classNames | String | Строковая строка, содержащая неупорядоченный набор уникальных разделенных пробелами токенов, представляющих классы (имена классов). |
+| classNames | String | Строка, содержащая неупорядоченный набор уникальных токенов, разделённых пробелами, представляющих классы (имена классов) |
 
 ### Возвращаемое значение
 
-[`Element`](../../element/) .
+Живая [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) найденных элементов.
 
-### Смотрите также
+## Замечания
+
+Обратитесь к официальному [spec](https://dom.spec.whatwg.org/#dom-document-getelementsbyclassname).
+
+### См. также
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

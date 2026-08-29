@@ -1,9 +1,9 @@
 ---
-title: Class NameValueHeaderValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.Headers.NameValueHeaderValue сорт. Представляет пару имя/значение описывающую значение заголовка.
+title: "Класс NameValueHeaderValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.Headers.NameValueHeaderValue. Представляет пару имя/значение, описывающую значение заголовка"
 type: docs
-weight: 2280
+weight: 4350
 url: /ru/net/aspose.svg.net.headers/namevalueheadervalue/
 ---
 ## NameValueHeaderValue class
@@ -14,7 +14,7 @@ url: /ru/net/aspose.svg.net.headers/namevalueheadervalue/
 public class NameValueHeaderValue
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,11 +25,9 @@ public class NameValueHeaderValue
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

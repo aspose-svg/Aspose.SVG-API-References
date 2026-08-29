@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGRect
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement метод. Создает объект SVGRect вне какихлибо деревьев документов. Объект инициализируется таким образом что все значения установлены на 0 пользовательских единиц.
+title: "SVGSVGElement.CreateSVGRect"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGSVGElement CreateSVGRect. Создаёт объект SVGRect вне любых деревьев документа. Объект инициализируется так, что все значения устанавливаются в 0 пользовательских единиц."
 type: docs
 weight: 170
 url: /ru/net/aspose.svg/svgsvgelement/createsvgrect/
 ---
 ## SVGSVGElement.CreateSVGRect method
 
-Создает объект SVGRect вне каких-либо деревьев документов. Объект инициализируется таким образом, что все значения установлены на 0 пользовательских единиц.
+Создаёт объект SVGRect вне любых деревьев документа. Объект инициализируется так, что все значения установлены в 0 пользовательских единиц.
 
 ```csharp
 public SVGRect CreateSVGRect()
@@ -18,11 +18,9 @@ public SVGRect CreateSVGRect()
 
 Объект SVGRect.
 
-### Смотрите также
+### См. также
 
 * class [SVGRect](../../../aspose.svg.datatypes/svgrect/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

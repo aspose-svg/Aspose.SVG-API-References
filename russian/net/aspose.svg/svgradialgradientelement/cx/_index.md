@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.Cx
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRadialGradientElement свойство. Соответствует атрибуту cx данного элемента radialGradient.
+title: "SVGRadialGradientElement.Cx"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGRadialGradientElement Cx. Соответствует атрибуту cx в данном элементе radialGradient"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgradialgradientelement/cx/
 ---
 ## SVGRadialGradientElement.Cx property
 
-Соответствует атрибуту 'cx' данного элемента 'radialGradient'.
+Соответствует атрибуту ‘cx’ в данном элементе ‘radialGradient’.
 
 ```csharp
 public SVGAnimatedLength Cx { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'cx' данного элемента 'radialGradient'.
+Атрибут ‘cx’ данного элемента ‘radialGradient’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* пространство имен [Aspose.Svg](../../svgradialgradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

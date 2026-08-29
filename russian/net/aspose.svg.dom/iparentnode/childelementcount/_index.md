@@ -1,27 +1,25 @@
 ---
-title: IParentNode.ChildElementCount
-second_title: Справочник по Aspose.SVG для .NET API
-description: IParentNode свойство. Атрибут childElementCount должен возвращать количество дочерних элементов объекта контекста которые являются элементами.
+title: "IParentNode.ChildElementCount"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IParentNode ChildElementCount. Атрибут childElementCount должен возвращать количество дочерних элементов контекстного объекта, которые являются элементами"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/iparentnode/childelementcount/
 ---
 ## IParentNode.ChildElementCount property
 
-Атрибут childElementCount должен возвращать количество дочерних элементов объекта контекста, которые являются элементами.
+Атрибут childElementCount должен возвращать количество дочерних элементов контекстного объекта, которые являются элементами.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество дочерних элементов.
 
-### Смотрите также
+### См. также
 
 * interface [IParentNode](../)
-* пространство имен [Aspose.Svg.Dom](../../iparentnode/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

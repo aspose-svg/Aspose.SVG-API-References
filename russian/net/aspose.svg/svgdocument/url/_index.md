@@ -1,7 +1,7 @@
 ---
-title: SVGDocument.URL
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGDocument свойство. Полный URI документа.
+title: "SVGDocument.URL"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGDocument URL. Полный URI документа"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgdocument/url/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg/svgdocument/url/
 public string URL { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 URL.
 
-### Смотрите также
+### См. также
 
 * class [SVGDocument](../)
-* пространство имен [Aspose.Svg](../../svgdocument/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

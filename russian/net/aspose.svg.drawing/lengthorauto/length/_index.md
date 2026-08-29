@@ -1,7 +1,7 @@
 ---
-title: LengthOrAuto.Length
-second_title: Справочник по Aspose.SVG для .NET API
-description: LengthOrAuto свойство. Получает или задает длину.
+title: "LengthOrAuto.Length"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Length класса LengthOrAuto. Получает или задает длину"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/lengthorauto/length/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.drawing/lengthorauto/length/
 public Length Length { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Длина.
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* пространство имен [Aspose.Svg.Drawing](../../lengthorauto/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: Aspose.Svg.Rendering.Pdf.Encryption
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.Pdf.Encryption namespace содержит классы данных  описывающие детали шифрования PDF такие как пароль алгоритм шифрования и т. д.
+title: "Aspose.Svg.Rendering.Pdf.Encryption"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имен Aspose.Svg.Rendering.Pdf.Encryption содержит классы данных, описывающие детали шифрования PDF, такие как алгоритм шифрования пароля и т.д."
 type: docs
-weight: 280
+weight: 300
 url: /ru/net/aspose.svg.rendering.pdf.encryption/
 ---
-**Aspose.Svg.Rendering.Pdf.Encryption** namespace содержит классы данных , описывающие детали шифрования PDF, такие как пароль, алгоритм шифрования и т. д.
+Пространство имён **Aspose.Svg.Rendering.Pdf.Encryption** содержит классы данных, описывающие детали шифрования PDF, такие как пароль, алгоритм шифрования и т.д.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [PdfEncryptionInfo](./pdfencryptioninfo/) | Содержит детали для шифрования PDF. |
-## перечисление
+| [PdfEncryptionInfo](./pdfencryptioninfo/) | Содержит детали шифрования PDF. |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | Перечисление режима шифрования. Опишите с помощью алгоритма и длины ключа. Это перечисление расширено, чтобы можно было еще больше расширить функциональность. Это перечисление реализует шаблон "Base-to-Core". |
-| [PdfPermissions](./pdfpermissions/) | Это перечисление представляет права пользователя для pdf. |
-
-
+| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | Перечисление режимов шифрования. Описывает использование алгоритма и длины ключа. Это перечисление расширяется, чтобы можно было дальше увеличивать функциональность. Это перечисление реализует шаблон "Base-to-Core". |
+| [PdfPermissions](./pdfpermissions/) | Это перечисление представляет разрешения пользователя для PDF. |

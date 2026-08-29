@@ -1,14 +1,14 @@
 ---
-title: DOMException.DOMException
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException строитель. Инициализирует новый экземплярDOMException класс.
+title: "DOMException"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMException. Инициализирует новый экземпляр класса DOMException"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/domexception/domexception/
 ---
-## DOMException(string) {#constructor}
+## DOMException(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`DOMException`](../) класс.
+Инициализирует новый экземпляр класса [`DOMException`](../).
 
 ```csharp
 public DOMException(string message)
@@ -16,19 +16,19 @@ public DOMException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об ошибке. |
+| сообщение | String | Сообщение об ошибке. |
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## DOMException(string, string) {#constructor_1}
+## DOMException(*string, string*) {#constructor_1}
 
-Инициализирует новый экземпляр[`DOMException`](../) класс.
+Инициализирует новый экземпляр класса [`DOMException`](../).
 
 ```csharp
 public DOMException(string name, string message)
@@ -37,12 +37,10 @@ public DOMException(string name, string message)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя ошибки. |
-| message | String | Сообщение об ошибке. |
+| сообщение | String | Сообщение об ошибке. |
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

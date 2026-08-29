@@ -1,24 +1,22 @@
 ---
-title: Document.OnDurationChange
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnDurationChange.
+title: "Document.OnDurationChange"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnDurationChange. Получает или задает обработчик события для события OnDurationChange."
 type: docs
 weight: 370
 url: /ru/net/aspose.svg.dom/document/ondurationchange/
 ---
 ## Document.OnDurationChange event
 
-Получает или задает обработчик события OnDurationChange.
+Получает или задаёт обработчик события OnDurationChange.
 
 ```csharp
 public event DOMEventHandler OnDurationChange;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

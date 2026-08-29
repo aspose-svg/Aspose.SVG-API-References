@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BorderBottomStyle
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства borderbottomstyle в CSS2.
+title: "ICSS2Properties.BorderBottomStyle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BorderBottomStyle в ICSS2Properties. См. определение свойства border-bottom-style в CSS2"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderbottomstyle/
@@ -16,12 +16,10 @@ public string BorderBottomStyle { get; set; }
 
 ### Возвращаемое значение
 
-свойство границы нижнего стиля
+свойство border-bottom-style
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

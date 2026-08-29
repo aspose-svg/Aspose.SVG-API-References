@@ -1,28 +1,26 @@
 ---
-title: ContentTypeHeaderValue.MediaType
-second_title: Справочник по Aspose.SVG для .NET API
-description: ContentTypeHeaderValue свойство. Получает или задает тип носителя для контента.
+title: "ContentTypeHeaderValue.MediaType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ContentTypeHeaderValue MediaType. Получает или задает медиа-тип для содержимого"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net.headers/contenttypeheadervalue/mediatype/
 ---
 ## ContentTypeHeaderValue.MediaType property
 
-Получает или задает тип носителя для контента.
+Получает или задает тип медиа для содержимого.
 
 ```csharp
 public MimeType MediaType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип носителя.
+Тип медиа.
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../../../aspose.svg/mimetype/)
 * class [ContentTypeHeaderValue](../)
-* пространство имен [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

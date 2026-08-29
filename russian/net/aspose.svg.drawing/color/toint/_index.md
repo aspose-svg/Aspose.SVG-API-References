@@ -1,14 +1,14 @@
 ---
-title: Color.ToInt
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Кодирует компоненты Color ARGB в int.
+title: "Color.ToInt"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color ToInt. Кодирует компоненты ARGB цвета в int."
 type: docs
 weight: 360
 url: /ru/net/aspose.svg.drawing/color/toint/
 ---
 ## Color.ToInt method
 
-Кодирует компоненты Color ARGB в int.
+Кодирует компоненты ARGB цвета Color в тип int.
 
 ```csharp
 public int ToInt()
@@ -16,12 +16,10 @@ public int ToInt()
 
 ### Возвращаемое значение
 
-Закодировано внутр.
+Закодированное int.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

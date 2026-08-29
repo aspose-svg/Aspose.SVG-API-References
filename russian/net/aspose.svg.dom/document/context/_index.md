@@ -1,7 +1,7 @@
 ---
-title: Document.Context
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Получает текущий контекст просмотра.
+title: "Document.Context"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document Context. Возвращает текущий контекст просмотра"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/document/context/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom/document/context/
 public IBrowsingContext Context { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Контекст.
 
-### Смотрите также
+### См. также
 
 * interface [IBrowsingContext](../../ibrowsingcontext/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

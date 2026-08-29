@@ -1,7 +1,7 @@
 ---
-title: Counter.ListStyle
-second_title: Справочник по Aspose.SVG для .NET API
-description: Counter свойство. Этот атрибут используется для стиля списка.
+title: "Counter.ListStyle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Counter ListStyle. Этот атрибут используется для стиля списка."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/counter/liststyle/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom.css/counter/liststyle/
 public string ListStyle { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор стиля списка.
 
-### Смотрите также
+### См. также
 
 * class [Counter](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../counter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: UnitType.In
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в дюймах
+title: "UnitType.In"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType In. Измерение в дюймах"
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.drawing/unittype/in/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/in/
 public static readonly UnitType In;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

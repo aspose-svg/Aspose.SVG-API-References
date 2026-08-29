@@ -1,7 +1,7 @@
 ---
-title: Document.OnProgress
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnProgress.
+title: "Document.OnProgress"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnProgress. Получает или задает обработчик события для события OnProgress."
 type: docs
 weight: 620
 url: /ru/net/aspose.svg.dom/document/onprogress/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onprogress/
 public event DOMEventHandler OnProgress;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

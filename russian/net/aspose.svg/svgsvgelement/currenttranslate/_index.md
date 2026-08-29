@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.CurrentTranslate
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement свойство. Для самого внешнего элемента svg соответствующий коэффициент перевода учитывающий пользовательское увеличение.
+title: "SVGSVGElement.CurrentTranslate"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGSVGElement CurrentTranslate. На внешнем (outermost) элементе svg соответствует коэффициенту трансляции, учитывающему масштабирование пользователем. При доступе к этому свойству на элементе svg, который не является внешним, поведение атрибута не определено."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgsvgelement/currenttranslate/
 ---
 ## SVGSVGElement.CurrentTranslate property
 
-Для самого внешнего элемента svg соответствующий коэффициент перевода, учитывающий пользовательское «увеличение».
+На внешнем (самом наружном) элементе svg соответствующий коэффициент трансляции, учитывающий увеличение пользователя "magnification". При доступе к элементу ‘svg’, который не является внешним элементом svg, поведение этого атрибута не определено.
 
 ```csharp
 public SVGPoint CurrentTranslate { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Текущий перевод.
+Текущая трансляция.
 
-### Смотрите также
+### См. также
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

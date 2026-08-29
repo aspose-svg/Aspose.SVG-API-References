@@ -1,14 +1,14 @@
 ---
-title: EventTarget.DispatchEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: EventTarget метод. Этот метод позволяет отправлять события в модель событий реализации.
+title: "EventTarget.DispatchEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод EventTarget DispatchEvent. Синхронно отправляет событие указанному IEventTarget, вызывая затронутые EventListeners в правильном порядке. Обычные правила обработки событий, включая фазу захвата и необязательную фазу всплытия, также применяются к событиям, отправленным вручную с помощью DispatchEvent."
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.svg.dom/eventtarget/dispatchevent/
 ---
 ## EventTarget.DispatchEvent method
 
-Этот метод позволяет отправлять события в модель событий реализации.
+Отправляет событие указанному [`IEventTarget`](../../../aspose.svg.dom.events/ieventtarget/), (синхронно) вызывая затронутые EventListeners в правильном порядке. Обычные правила обработки событий (включая фазу захвата и необязательную фазу всплытия) также применяются к событиям, отправленным вручную с помощью [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/).
 
 ```csharp
 public bool DispatchEvent(Event @event)
@@ -16,11 +16,11 @@ public bool DispatchEvent(Event @event)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| event | Event | Задает тип события, поведение и контекстную информацию, которые будут использоваться при обработке события. |
+| событие | Событие | Указывает тип события, его поведение и контекстную информацию, используемые при обработке события. |
 
 ### Возвращаемое значение
 
-Возвращаемое значение`DispatchEvent` указывает, был ли какой-либо из слушателей, обработавших событие, вызванное[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) . Если[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) было вызвано, значение ложно, иначе значение истинно.
+Возвращаемое значение `DispatchEvent` указывает, вызвал ли какой‑либо из обработчиков, обработавших событие, [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/). Если [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) был вызван, значение равно false, иначе значение равно true.
 
 ### Исключения
 
@@ -28,15 +28,13 @@ public bool DispatchEvent(Event @event)
 | --- | --- |
 | [DOMException](../../domexception/) |  |
 
-### Примечания
+## Замечания
 
-События, отправленные таким образом, будут иметь такое же поведение при захвате и воспроизведении, что и события, отправленные непосредственно реализацией. Целью события является[`EventTarget`](../) на которой`DispatchEvent` называется .
+События, отправленные таким образом, будут иметь такое же поведение захвата и всплытия, как события, отправленные напрямую реализацией. Целевым объектом события является [`EventTarget`](../), на котором вызывается `DispatchEvent`.
 
-### Смотрите также
+### См. также
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [EventTarget](../)
-* пространство имен [Aspose.Svg.Dom](../../eventtarget/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

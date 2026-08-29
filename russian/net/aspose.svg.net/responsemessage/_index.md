@@ -1,14 +1,14 @@
 ---
-title: Class ResponseMessage
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.ResponseMessage сорт. Представляет ответное сообщение.
+title: "Класс ResponseMessage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.ResponseMessage. Представляет ответное сообщение"
 type: docs
-weight: 2440
+weight: 4510
 url: /ru/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
 
-Представляет ответное сообщение.
+Представляет сообщение ответа.
 
 ```csharp
 public class ResponseMessage : IDisposable
@@ -18,28 +18,27 @@ public class ResponseMessage : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | Инициализирует новый экземпляр`ResponseMessage` класс. |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | Инициализирует новый экземпляр класса `ResponseMessage`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | Получает или задает содержимое ответа. |
-| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Получает или задает коллекцию файлов cookie. |
+| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | Получает или задаёт содержимое ответа. |
+| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Получает или задает коллекцию cookie. |
 | [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | Получает заголовки. |
-| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | Получает значение, указывающее, успешно ли получено это сообщение. |
+| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | Получает значение, указывающее, является ли это сообщение успешным. |
 | [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | Получает или задает связанный запрос. |
+| [ResponseUri](../../aspose.svg.net/responsemessage/responseuri/) { get; set; } | Получает или задает URI ответа. |
 | [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | Получает или задает код состояния. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
+| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | Выполняет задачи, определённые приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net](../../aspose.svg.net/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

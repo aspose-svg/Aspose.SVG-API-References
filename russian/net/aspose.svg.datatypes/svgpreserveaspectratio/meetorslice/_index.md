@@ -1,33 +1,31 @@
 ---
-title: SVGPreserveAspectRatio.MeetOrSlice
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPreserveAspectRatio свойство. Тип значения встреча или разрез указанный одной из констант SVG_MEETORSLICE_ определенных в этом интерфейсе.
+title: "SVGPreserveAspectRatio.MeetOrSlice"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPreserveAspectRatio MeetOrSlice свойство. Тип значения meet-or-slice, как указано одним из констант SVG_MEETORSLICE_, определённых в этом интерфейсе"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.datatypes/svgpreserveaspectratio/meetorslice/
 ---
 ## SVGPreserveAspectRatio.MeetOrSlice property
 
-Тип значения «встреча или разрез», указанный одной из констант SVG_MEETORSLICE_*, определенных в этом интерфейсе.
+Тип значения meet-or-slice, как указано одной из констант SVG_MEETORSLICE_*, определённых в этом интерфейсе.
 
 ```csharp
 public ushort MeetOrSlice { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип встречи или среза
+Тип meet-or-slice
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает, когда объект соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Вызывается, когда объект соответствует только для чтения атрибуту или когда сам объект только для чтения. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPreserveAspectRatio](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,53 @@
 ---
-title: Configuration.GetService
-second_title: Справочник по Aspose.SVG для .NET API
-description: Configuration метод. Получает запрошенную услугу.
+title: "Configuration.GetService"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetService класса Configuration. Получает запрошенный сервис"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/configuration/getservice/
 ---
-## Configuration.GetService&lt;TService&gt; method
+## GetService(*Type*) {#getservice}
 
-Получает запрошенную услугу.
+Получает запрошенный сервис.
 
 ```csharp
-public TService GetService<TService>()
-    where TService : class, IService
+public object GetService(Type serviceType)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| serviceType | Тип | Тип сервиса для получения. |
+
+### Возвращаемое значение
+
+Экземпляр сервиса, если он был найден, или null, если не найден
+
+### См. также
+
+* class [Configuration](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## GetService<T>() {#getservice_1}
+
+Получает запрошенный сервис.
+
+```csharp
+public T GetService<T>()
 ```
 
 | Параметр | Описание |
 | --- | --- |
-| TService | Тип службы для получения. |
+| T | Тип сервиса для получения. |
 
 ### Возвращаемое значение
 
-Экземпляр службы, если его удалось найти, илинулевой если не удалось найти
+Экземпляр сервиса, если он был найден, или null, если не найден
 
-### Смотрите также
+### См. также
 
-* interface [IService](../../../aspose.svg.services/iservice/)
 * class [Configuration](../)
-* пространство имен [Aspose.Svg](../../configuration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

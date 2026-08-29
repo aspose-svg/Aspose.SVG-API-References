@@ -1,12 +1,12 @@
 ---
-title: Device2.DeviceConfiguration2.DeviceConfiguration
-second_title: Справочник по Aspose.SVG для .NET API
-description: DeviceConfiguration строитель. Конструктор по умолчанию.
+title: "Device-2.DeviceConfiguration-2.DeviceConfiguration"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DeviceConfiguration. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/device-2.deviceconfiguration-2/deviceconfiguration/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; constructor
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> constructor
 
 Конструктор по умолчанию.
 
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering/device-2.deviceconfiguration-2/deviceconfigura
 public DeviceConfiguration()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2.deviceconfiguration-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ImageVectorizerConfiguration.Stencil
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageVectorizerConfiguration свойство. Получает или задает конфигурацию эффекта трафарета. По умолчанию эффект трафарета не применяется.
+title: "ImageVectorizerConfiguration.Stencil"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Stencil класса ImageVectorizerConfiguration. Возвращает или задает конфигурацию эффекта трафарета. По умолчанию эффект трафарета не применяется."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/stencil/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/stencil/
 public StencilConfiguration Stencil { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [StencilConfiguration](../../stencilconfiguration/)
 * class [ImageVectorizerConfiguration](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

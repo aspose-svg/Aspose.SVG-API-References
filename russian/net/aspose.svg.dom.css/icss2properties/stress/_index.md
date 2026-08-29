@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Stress
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства напряжения в CSS2.
+title: "ICSS2Properties.Stress"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Stress интерфейса ICSS2Properties. См. определение свойства stress в CSS2"
 type: docs
-weight: 1050
+weight: 1080
 url: /ru/net/aspose.svg.dom.css/icss2properties/stress/
 ---
 ## ICSS2Properties.Stress property
 
-См. определение свойства напряжения в CSS2.
+Смотрите определение свойства stress в CSS2.
 
 ```csharp
 public string Stress { get; set; }
@@ -16,12 +16,10 @@ public string Stress { get; set; }
 
 ### Возвращаемое значение
 
-стрессовое свойство
+свойство stress
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

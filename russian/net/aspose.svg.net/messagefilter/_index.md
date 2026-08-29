@@ -1,14 +1,14 @@
 ---
-title: Class MessageFilter
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.MessageFilter сорт. Представляет абстрактный базовый класс для различных классов фильтров используемых для запроса messages
+title: "Класс MessageFilter"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.MessageFilter. Представляет абстрактный базовый класс для различных классов фильтров, используемых для запросов сообщений"
 type: docs
-weight: 2320
+weight: 4390
 url: /ru/net/aspose.svg.net/messagefilter/
 ---
 ## MessageFilter class
 
-Представляет абстрактный базовый класс для различных классов фильтров, используемых для запроса messages
+Представляет абстрактный базовый класс для различных классов фильтров, используемых для запросов сообщений.
 
 ```csharp
 public abstract class MessageFilter
@@ -18,11 +18,9 @@ public abstract class MessageFilter
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Match](../../aspose.svg.net/messagefilter/match/)(INetworkOperationContext) | При переопределении в производном классе проверяет, удовлетворяет ли контекст критериям фильтра. |
+| abstract [Match](../../aspose.svg.net/messagefilter/match/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | При переопределении в производном классе проверяет, удовлетворяет ли Context критериям фильтра. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net](../../aspose.svg.net/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

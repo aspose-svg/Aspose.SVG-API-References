@@ -1,20 +1,20 @@
 ---
-title: Class SVGAnimatedTransformList
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedTransformList сорт. Используется для различных атрибутов которые определяют набор преобразований таких как атрибут преобразование который доступен для многих элементов SVG и который можно анимировать.
+title: "SVGAnimatedTransformList Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.DataTypes.SVGAnimatedTransformList класс. Используется для различных атрибутов, которые задают набор преобразований, таких как атрибут transform, доступный для многих элементов SVG и который может быть анимирован"
 type: docs
-weight: 200
+weight: 2190
 url: /ru/net/aspose.svg.datatypes/svganimatedtransformlist/
 ---
 ## SVGAnimatedTransformList class
 
-Используется для различных атрибутов, которые определяют набор преобразований, таких как атрибут «преобразование», который доступен для многих элементов SVG и который можно анимировать.
+Используется для различных атрибутов, задающих набор преобразований, таких как атрибут ‘transform’, доступный для многих элементов SVG, и которые могут быть анимированы.
 
 ```csharp
 public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,15 +25,13 @@ public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedtransformlist/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedtransformlist/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGTransformList](../svgtransformlist/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

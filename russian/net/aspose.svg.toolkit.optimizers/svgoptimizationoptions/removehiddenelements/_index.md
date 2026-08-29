@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveHiddenElements
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGOptimizationOptions свойство. Получает или задает параметр для удаления элементов невидимых во время рендеринга. По умолчанию это истина.
+title: "SVGOptimizationOptions.RemoveHiddenElements"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGOptimizationOptions RemoveHiddenElements. Получает или задает параметр, позволяющий удалять элементы, которые не видимы при рендеринге. По умолчанию true."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removehiddenelements/
 ---
 ## SVGOptimizationOptions.RemoveHiddenElements property
 
-Получает или задает параметр для удаления элементов, невидимых во время рендеринга. По умолчанию это «истина».
+Получает или задает параметр, позволяющий удалять элементы, которые не видимы при рендеринге. По умолчанию значение 'true'.
 
 ```csharp
 public bool RemoveHiddenElements { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

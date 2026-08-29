@@ -1,14 +1,14 @@
 ---
-title: Document.CreateDocumentType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает узел DocumentType.
+title: "Document.CreateDocumentType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateDocumentType. Метод возвращает объект DocumentType, который может быть использован с CreateDocument при создании документа или может быть вставлен в документ с помощью методов, таких как InsertBefore или ReplaceChild."
 type: docs
 weight: 840
 url: /ru/net/aspose.svg.dom/document/createdocumenttype/
 ---
 ## Document.CreateDocumentType method
 
-Создает узел DocumentType.
+Метод возвращает объект [`DocumentType`](../../documenttype/), который может быть использован с [`CreateDocument`](../../idomimplementation/createdocument/) при создании документа или может быть вставлен в документ с помощью методов, таких как [`InsertBefore`](../../node/insertbefore/) или [`ReplaceChild`](../../node/replacechild/).
 
 ```csharp
 public DocumentType CreateDocumentType(string name, string publicId, string systemId, 
@@ -17,20 +17,18 @@ public DocumentType CreateDocumentType(string name, string publicId, string syst
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Название типа документа. |
-| publicId | String | Публичный идентификатор. |
-| systemId | String | Идентификатор системы. |
+| name | String | Это DOMString, содержащий квалифицированное имя, например svg:svg. |
+| publicId | String | Это DOMString, содержащий PUBLIC‑идентификатор. |
+| systemId | String | Это DOMString, содержащий SYSTEM‑идентификатор. |
 | internalSubset | String | Внутреннее подмножество. |
 
 ### Возвращаемое значение
 
-[`DocumentType`](../../documenttype/) .
+Элемент [`DocumentType`](../../documenttype/).
 
-### Смотрите также
+### См. также
 
 * class [DocumentType](../../documenttype/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

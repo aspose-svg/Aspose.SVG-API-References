@@ -1,31 +1,29 @@
 ---
-title: Element.GetAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Извлекает значение атрибута по имени.
+title: "Element.GetAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element GetAttribute. Получает значение атрибута по имени"
 type: docs
-weight: 240
+weight: 230
 url: /ru/net/aspose.svg.dom/element/getattribute/
 ---
 ## Element.GetAttribute method
 
-Извлекает значение атрибута по имени.
+Получает значение атрибута по имени.
 
 ```csharp
-public string GetAttribute(string name)
+public string GetAttribute(string qualifiedName)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя атрибута для извлечения. |
+| qualifiedName | String | Имя атрибута для получения. |
 
 ### Возвращаемое значение
 
 Возвращает значение атрибута
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

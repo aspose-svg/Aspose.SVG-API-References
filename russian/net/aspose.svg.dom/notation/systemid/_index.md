@@ -1,27 +1,25 @@
 ---
-title: Notation.SystemId
-second_title: Справочник по Aspose.SVG для .NET API
-description: Notation свойство. Системный идентификатор этой нотации. Если идентификатор системы не был указан это значение равно null. Это может быть абсолютный URI или нет.
+title: "Notation.SystemId"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Notation SystemId. Системный идентификатор этой нотации. Если системный идентификатор не указан, значение равно null. Может быть абсолютным URI или нет"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/notation/systemid/
 ---
 ## Notation.SystemId property
 
-Системный идентификатор этой нотации. Если идентификатор системы не был указан, это значение равно null. Это может быть абсолютный URI или нет.
+Системный идентификатор этой нотации. Если системный идентификатор не был указан, значение равно null. Это может быть абсолютный URI или нет.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Идентификатор системы.
+Системный идентификатор.
 
-### Смотрите также
+### См. также
 
 * class [Notation](../)
-* пространство имен [Aspose.Svg.Dom](../../notation/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

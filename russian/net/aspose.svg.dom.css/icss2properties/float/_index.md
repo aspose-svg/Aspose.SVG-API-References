@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Float
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства float в CSS2.
+title: "ICSS2Properties.Float"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Float в ICSS2Properties. См. определение свойства float в CSS2"
 type: docs
 weight: 460
 url: /ru/net/aspose.svg.dom.css/icss2properties/float/
 ---
 ## ICSS2Properties.Float property
 
-См. определение свойства float в CSS2.
+Смотрите определение свойства float в CSS2.
 
 ```csharp
 public string Float { get; set; }
@@ -16,12 +16,10 @@ public string Float { get; set; }
 
 ### Возвращаемое значение
 
-плавающее свойство
+свойство float
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

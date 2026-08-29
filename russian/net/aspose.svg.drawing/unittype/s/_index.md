@@ -1,7 +1,7 @@
 ---
-title: UnitType.S
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в секундах.
+title: "UnitType.S"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType S. Измерение в секундах."
 type: docs
 weight: 250
 url: /ru/net/aspose.svg.drawing/unittype/s/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/s/
 public static readonly UnitType S;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

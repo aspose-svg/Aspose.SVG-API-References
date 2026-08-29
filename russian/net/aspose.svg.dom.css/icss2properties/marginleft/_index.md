@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.MarginLeft
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства marginleft в CSS2.
+title: "ICSS2Properties.MarginLeft"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSS2Properties MarginLeft свойство. См. определение свойства margin-left в CSS2"
 type: docs
-weight: 650
+weight: 680
 url: /ru/net/aspose.svg.dom.css/icss2properties/marginleft/
 ---
 ## ICSS2Properties.MarginLeft property
@@ -18,10 +18,8 @@ public string MarginLeft { get; set; }
 
 свойство margin-left
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

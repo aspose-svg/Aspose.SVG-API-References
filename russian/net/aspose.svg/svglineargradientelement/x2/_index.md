@@ -1,28 +1,26 @@
 ---
-title: SVGLinearGradientElement.X2
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGLinearGradientElement свойство. Соответствует атрибуту x2 данного элемента linearGradient.
+title: "SVGLinearGradientElement.X2"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство X2 элемента SVGLinearGradientElement. Соответствует атрибуту x2 указанного элемента linearGradient"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svglineargradientelement/x2/
 ---
 ## SVGLinearGradientElement.X2 property
 
-Соответствует атрибуту «x2» данного элемента «linearGradient».
+Соответствует атрибуту ‘x2’ в указанном элементе ‘linearGradient’.
 
 ```csharp
 public SVGAnimatedLength X2 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «x2» данного элемента «linearGradient».
+Атрибут ‘x2’ указанного элемента ‘linearGradient’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* пространство имен [Aspose.Svg](../../svglineargradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

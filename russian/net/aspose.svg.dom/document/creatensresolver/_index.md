@@ -1,14 +1,14 @@
 ---
-title: Document.CreateNSResolver
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Адаптирует любой узел DOM для разрешения пространств имен чтобы выражение XPath можно было легко оценить относительно контекста узла в котором оно появилось в документе. Этот адаптер работает как метод DOM Level 3.lookupNamespaceURI на узлах при разрешении namespaceURI из заданного префикса используя текущую информацию доступную в иерархии узла в момент вызова time lookupNamespaceURI также правильно разрешая неявный префикс xml.
+title: "Document.CreateNSResolver"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateNSResolver. Приводит любой DOM‑узел к возможности разрешать пространства имён, чтобы выражение XPath можно было легко оценить относительно контекста узла, где оно появилось в документе. Этот адаптер работает как метод DOM Level 3 lookupNamespaceURI у узлов, разрешая namespaceURI из заданного префикса, используя текущую информацию, доступную в иерархии узлов в момент вызова lookupNamespaceURI, а также корректно разрешая неявный префикс xml."
 type: docs
 weight: 910
 url: /ru/net/aspose.svg.dom/document/creatensresolver/
 ---
 ## Document.CreateNSResolver method
 
-Адаптирует любой узел DOM для разрешения пространств имен, чтобы выражение XPath можно было легко оценить относительно контекста узла, в котором оно появилось в документе. Этот адаптер работает как метод DOM Level 3.`lookupNamespaceURI` на узлах при разрешении namespaceURI из заданного префикса, используя текущую информацию, доступную в иерархии узла в момент вызова time lookupNamespaceURI, также правильно разрешая неявный префикс xml.
+Адаптирует любой DOM‑узел для разрешения пространств имён, чтобы XPath‑выражение можно было легко вычислять относительно контекста узла, где оно появилось в документе. Этот адаптер работает как метод DOM Level 3 `lookupNamespaceURI` у узлов, разрешая namespaceURI из заданного префикса, используя текущую информацию, доступную в иерархии узла в момент вызова lookupNamespaceURI, а также корректно разрешая неявный префикс xml.
 
 ```csharp
 public IXPathNSResolver CreateNSResolver(Node nodeResolver)
@@ -16,18 +16,16 @@ public IXPathNSResolver CreateNSResolver(Node nodeResolver)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| nodeResolver | Node | Узел, который будет использоваться в качестве контекста для разрешения пространства имен. |
+| nodeResolver | Node | Узел, который будет использоваться в качестве контекста для разрешения пространств имён. |
 
 ### Возвращаемое значение
 
-[`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver/) который разрешает пространства имен относительно определений в области действия для указанного узла.
+[`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver/) which resolves namespaces with respect to the definitions in scope for a specified node.
 
-### Смотрите также
+### См. также
 
 * interface [IXPathNSResolver](../../../aspose.svg.dom.xpath/ixpathnsresolver/)
 * class [Node](../../node/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEPointLightElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEPointLightElement свойство. Соответствует атрибуту x данного элемента fePointLight.
+title: "SVGFEPointLightElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство X элемента SVGFEPointLightElement. Соответствует атрибуту x в данном элементе fePointLight"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.filters/svgfepointlightelement/x/
 ---
 ## SVGFEPointLightElement.X property
 
-Соответствует атрибуту «x» данного элемента «fePointLight».
+Соответствует атрибуту ‘x’ в данном элементе ‘fePointLight’.
 
 ```csharp
 public SVGAnimatedNumber X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'x' данного элемента 'fePointLight'.
+Атрибут ‘x’ данного элемента ‘fePointLight’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEPointLightElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfepointlightelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

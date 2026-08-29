@@ -1,23 +1,21 @@
 ---
-title: IDevice.EndDocument
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Завершает визуализацию документа.
+title: "IDevice.EndDocument"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice EndDocument. Завершает отрисовку документа"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.rendering/idevice/enddocument/
 ---
 ## IDevice.EndDocument method
 
-Завершает визуализацию документа.
+Завершает отрисовку документа.
 
 ```csharp
 public void EndDocument()
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Device2.StrokeText
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Перемещает указанную текстовую строку в указанном месте.
+title: "Device-2.StrokeText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Device StrokeText. Выводит указанный текст в указанном месте."
 type: docs
-weight: 240
+weight: 270
 url: /ru/net/aspose.svg.rendering/device-2/stroketext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method
+## Device<TGraphicContext,TRenderingOptions>.StrokeText method
 
-Перемещает указанную текстовую строку в указанном месте.
+Обводит указанный текст в заданном месте.
 
 ```csharp
-public abstract void StrokeText(string text, PointF pt)
+public virtual void StrokeText(string text, PointF pt)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Строка для поглаживания. |
-| pt | PointF | Точка, указывающая координаты начала текста. |
+| текст | String | Строка для обводки. |
+| pt | PointF | Точка, указывающая координаты, где начать текст. |
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

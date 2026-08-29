@@ -1,27 +1,25 @@
 ---
-title: Url.Port
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url свойство. Получает или задает строковое представление для указанного порта URL.
+title: "Url.Port"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Url Port. Получает или задает строковое представление указанного порта URL"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg/url/port/
 ---
 ## Url.Port property
 
-Получает или задает строковое представление для указанного порта URL.
+Получает или задает строковое представление указанного порта URL.
 
 ```csharp
 public string Port { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Порт.
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

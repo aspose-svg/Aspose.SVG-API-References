@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.Cx
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGCircleElement свойство. Соответствует атрибуту cx данного элемента circle.
+title: "SVGCircleElement.Cx"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGCircleElement Cx. Соответствует атрибуту cx в данном элементе circle."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgcircleelement/cx/
 ---
 ## SVGCircleElement.Cx property
 
-Соответствует атрибуту 'cx' данного элемента 'circle'.
+Соответствует атрибуту ‘cx’ в данном элементе ‘circle’.
 
 ```csharp
 public SVGAnimatedLength Cx { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'cx' данного элемента 'circle'.
+Атрибут ‘cx’ данного элемента ‘circle’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* пространство имен [Aspose.Svg](../../svgcircleelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

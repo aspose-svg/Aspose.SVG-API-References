@@ -1,28 +1,26 @@
 ---
-title: INetworkService.UrlResolver
-second_title: Справочник по Aspose.SVG для .NET API
-description: INetworkService свойство. Получает или задает преобразователь URL.
+title: "INetworkService.UrlResolver"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство INetworkService UrlResolver. Получает или задает разрешитель URL."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.services/inetworkservice/urlresolver/
 ---
 ## INetworkService.UrlResolver property
 
-Получает или задает преобразователь URL.
+Получает или задает разрешитель URL.
 
 ```csharp
 public UrlResolver UrlResolver { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Преобразователь URL.
+Разрешитель URL.
 
-### Смотрите также
+### См. также
 
 * class [UrlResolver](../../../aspose.svg.net/urlresolver/)
 * interface [INetworkService](../)
-* пространство имен [Aspose.Svg.Services](../../inetworkservice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: FocusEvent.RelatedTarget
-second_title: Справочник по Aspose.SVG для .NET API
-description: FocusEvent свойство. Используется для идентификации вторичной цели EventTarget связанной с событием Focus в зависимости от типа события.
+title: "FocusEvent.RelatedTarget"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство FocusEvent RelatedTarget. Используется для идентификации вторичного EventTarget, связанного с событием Focus, в зависимости от типа события."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.events/focusevent/relatedtarget/
 ---
 ## FocusEvent.RelatedTarget property
 
-Используется для идентификации вторичной цели EventTarget, связанной с событием Focus, в зависимости от типа события.
+Используется для идентификации вторичного EventTarget, связанного с событием Focus, в зависимости от типа события.
 
 ```csharp
 public EventTarget RelatedTarget { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Связанная цель.
+Связанный объект.
 
-### Смотрите также
+### См. также
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [FocusEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../focusevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

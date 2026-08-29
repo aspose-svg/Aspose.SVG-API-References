@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.SpeakHeader
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства speakheader в CSS2.
+title: "ICSS2Properties.SpeakHeader"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SpeakHeader в ICSS2Properties. См. определение свойства speak-header в CSS2"
 type: docs
-weight: 1010
+weight: 1040
 url: /ru/net/aspose.svg.dom.css/icss2properties/speakheader/
 ---
 ## ICSS2Properties.SpeakHeader property
 
-См. определение свойства speak-header в CSS2.
+Смотрите определение свойства speak-header в CSS2.
 
 ```csharp
 public string SpeakHeader { get; set; }
@@ -16,12 +16,10 @@ public string SpeakHeader { get; set; }
 
 ### Возвращаемое значение
 
-свойство заголовка выступления
+свойство speak-header
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

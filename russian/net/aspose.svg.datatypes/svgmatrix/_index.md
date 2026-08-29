@@ -1,20 +1,20 @@
 ---
-title: Class SVGMatrix
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGMatrix сорт. Многие графические операции SVG используют матрицы 2x3 вида ace bdf  которые при преобразовании в матрицу 3x3 для целей матричной арифметики становятся ace bdf 0 0 1
+title: "Класс SVGMatrix"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.DataTypes.SVGMatrix. Многие графические операции SVG используют 2x3 матрицы вида a c e b d f, которые при расширении до 3x3 матрицы для целей арифметики матриц становятся a c e b d f 0 0 1."
 type: docs
-weight: 240
+weight: 2230
 url: /ru/net/aspose.svg.datatypes/svgmatrix/
 ---
 ## SVGMatrix class
 
-Многие графические операции SVG используют матрицы 2x3 вида: [ace] [bdf] , которые при преобразовании в матрицу 3x3 для целей матричной арифметики становятся: [ace] [bdf] [0 0 1]
+Многие графические операции SVG используют 2x3 матрицы вида: [a c e] [b d f], которые при расширении до 3x3 матрицы для целей матричной арифметики становятся: [a c e] [b d f] [0 0 1]
 
 ```csharp
 public class SVGMatrix : SVGValueType
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -29,21 +29,19 @@ public class SVGMatrix : SVGValueType
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply/)(SVGMatrix) | Выполняет умножение матриц. Эта матрица постумножается на другую матрицу, возвращая результирующую новую матрицу. |
-| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate/)(float) | Умножает преобразование вращения на текущую матрицу и возвращает результирующую матрицу. |
-| [Scale](../../aspose.svg.datatypes/svgmatrix/scale/)(float) | Пост-умножает преобразование равномерного масштаба на текущую матрицу и возвращает результирующую матрицу. |
-| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform/)(float, float) | Пост-умножает преобразование неравномерного масштаба на текущую матрицу и возвращает результирующую матрицу. |
-| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx/)(float) | Пост-умножает преобразование skewX на текущую матрицу и возвращает результирующую матрицу. |
-| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy/)(float) | пост-умножает преобразование skewY на текущую матрицу и возвращает результирующую матрицу. |
-| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
-| [Translate](../../aspose.svg.datatypes/svgmatrix/translate/)(float, float) | Пост-умножает трансляционное преобразование на текущую матрицу и возвращает результирующую матрицу. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply/)(*SVGMatrix*) | Выполняет умножение матриц. Эта матрица умножается справа на другую матрицу, возвращая полученную новую матрицу. |
+| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate/)(*float*) | Умножает текущую матрицу справа на преобразование вращения и возвращает полученную матрицу. |
+| [Scale](../../aspose.svg.datatypes/svgmatrix/scale/)(*float*) | Умножает текущую матрицу справа на преобразование равномерного масштабирования и возвращает полученную матрицу. |
+| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform/)(*float, float*) | Применяет постмультипликацию преобразования неравномерного масштабирования к текущей матрице и возвращает полученную матрицу. |
+| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx/)(*float*) | Применяет постмультипликацию преобразования skewX к текущей матрице и возвращает полученную матрицу. |
+| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy/)(*float*) | Применяет постмультипликацию преобразования skewY к текущей матрице и возвращает полученную матрицу. |
+| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
+| [Translate](../../aspose.svg.datatypes/svgmatrix/translate/)(*float, float*) | Применяет постмультипликацию преобразования перемещения к текущей матрице и возвращает полученную матрицу. |
 
-### Смотрите также
+### См. также
 
 * class [SVGValueType](../svgvaluetype/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

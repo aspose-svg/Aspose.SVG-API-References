@@ -1,23 +1,21 @@
 ---
-title: SVGPathSeg.PATHSEG_ARC_REL
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSeg поле. Соответствует относительной arcto a команде данных пути.
+title: "SVGPathSeg.PATHSEG_ARC_REL"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPathSeg PATHSEG_ARC_REL поле. Соответствует относительной команде arcto a в данных пути"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_arc_rel/
 ---
 ## SVGPathSeg.PATHSEG_ARC_REL field
 
-Соответствует "относительной arcto" (a) команде данных пути.
+Соответствует команде данных пути "relative arcto" (a).
 
 ```csharp
 public const ushort PATHSEG_ARC_REL;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSeg](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathseg/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

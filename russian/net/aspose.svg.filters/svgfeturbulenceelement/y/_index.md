@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFETurbulenceElement свойство. Соответствует атрибуту y данного элемента filter.
+title: "SVGFETurbulenceElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFETurbulenceElement Y property. Соответствует атрибуту y в данном элементе фильтра"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/y/
 ---
 ## SVGFETurbulenceElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'filter'.
+Соответствует атрибуту ‘y’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента 'filter'.
+Атрибут ‘y’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFETurbulenceElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

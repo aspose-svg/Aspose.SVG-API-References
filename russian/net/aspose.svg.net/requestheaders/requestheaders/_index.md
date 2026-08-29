@@ -1,7 +1,7 @@
 ---
-title: RequestHeaders.RequestHeaders
-second_title: Справочник по Aspose.SVG для .NET API
-description: RequestHeaders строитель. Конструктор по умолчанию.
+title: "RequestHeaders"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор RequestHeaders. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/requestheaders/requestheaders/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.net/requestheaders/requestheaders/
 public RequestHeaders()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RequestHeaders](../)
-* пространство имен [Aspose.Svg.Net](../../requestheaders/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

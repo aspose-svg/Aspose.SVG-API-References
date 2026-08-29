@@ -1,28 +1,26 @@
 ---
-title: SVGElement.Style
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGElement свойство. Соответствует атрибуту стиль данного элемента. Если пользовательский агент не поддерживает стилизацию с помощью CSS этот атрибут всегда должен иметь значение null.
+title: "SVGElement.Style"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Style SVGElement. Соответствует атрибуту style у указанного элемента. Если пользовательский агент не поддерживает стилизацию с помощью CSS, то этот атрибут всегда должен иметь значение null."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgelement/style/
 ---
 ## SVGElement.Style property
 
-Соответствует атрибуту «стиль» данного элемента. Если пользовательский агент не поддерживает стилизацию с помощью CSS, этот атрибут всегда должен иметь значение null.
+Соответствует атрибуту ‘style’ данного элемента. Если пользовательский агент не поддерживает стилизацию с помощью CSS, то этот атрибут всегда должен иметь значение null.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Стиль.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../../../aspose.svg.dom.css/icssstyledeclaration/)
 * class [SVGElement](../)
-* пространство имен [Aspose.Svg](../../svgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

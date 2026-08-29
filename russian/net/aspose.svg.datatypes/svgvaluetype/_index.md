@@ -1,9 +1,9 @@
 ---
-title: Class SVGValueType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGValueType сорт. Тип SVGValueType используется для представления базового типа значения SVG.
+title: "SVGValueType Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.DataTypes.SVGValueType класс. Тип SVGValueType используется для представления базового типа значения SVG"
 type: docs
-weight: 340
+weight: 2330
 url: /ru/net/aspose.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class
@@ -18,13 +18,11 @@ public abstract class SVGValueType : DOMObject, IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
 
-### Смотрите также
+### См. также
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,30 +1,30 @@
 ---
-title: MultipartContent.MultipartContent
-second_title: Справочник по Aspose.SVG для .NET API
-description: MultipartContent строитель. Создать новый экземплярMultipartContent класс.
+title: "MultipartContent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор MultipartContent. Создаёт новый экземпляр класса MultipartContent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-Создать новый экземпляр[`MultipartContent`](../) класс.
+Создать новый экземпляр класса [`MultipartContent`](../).
 
 ```csharp
 public MultipartContent()
 ```
 
-### Смотрите также
+### См. также
 
 * class [MultipartContent](../)
-* пространство имен [Aspose.Svg.Net](../../multipartcontent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string) {#constructor_1}
+## MultipartContent(*string*) {#constructor_1}
 
-Создать новый экземпляр[`MultipartContent`](../) класс с подтипом.
+Создать новый экземпляр класса [`MultipartContent`](../) с подтипом.
 
 ```csharp
 public MultipartContent(string subtype)
@@ -32,19 +32,19 @@ public MultipartContent(string subtype)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| subtype | String | Подтип |
+| подтип | String | Подтип. |
 
-### Смотрите также
+### См. также
 
 * class [MultipartContent](../)
-* пространство имен [Aspose.Svg.Net](../../multipartcontent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string, string) {#constructor_2}
+## MultipartContent(*string, string*) {#constructor_2}
 
-Создать новый экземпляр[`MultipartContent`](../) класс с подтипом и границей.
+Создать новый экземпляр класса [`MultipartContent`](../) с подтипом и границей.
 
 ```csharp
 public MultipartContent(string subtype, string boundary)
@@ -52,19 +52,17 @@ public MultipartContent(string subtype, string boundary)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| subtype | String | Подтип |
-| boundary | String | Граница |
+| подтип | String | Подтип. |
+| boundary | String | Граница. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргумент не может быть нулевым или пустой строкой. |
+| ArgumentException | Аргумент не может быть null или пустой строкой. |
 
-### Смотрите также
+### См. также
 
 * class [MultipartContent](../)
-* пространство имен [Aspose.Svg.Net](../../multipartcontent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

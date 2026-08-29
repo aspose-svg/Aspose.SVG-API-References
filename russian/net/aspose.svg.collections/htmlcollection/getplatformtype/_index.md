@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.GetPlatformType
-second_title: Справочник по Aspose.SVG для .NET API
-description: HTMLCollection метод. Этот метод используется для получения объекта ECMAScript.Type .
+title: "HTMLCollection.GetPlatformType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetPlatformType у HTMLCollection. Этот метод используется для получения типа объекта ECMAScript"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.collections/htmlcollection/getplatformtype/
 ---
 ## HTMLCollection.GetPlatformType method
 
-Этот метод используется для получения объекта ECMAScript.Type .
+Этот метод используется для получения типа объекта ECMAScript.
 
 ```csharp
 public override Type GetPlatformType()
@@ -16,12 +16,10 @@ public override Type GetPlatformType()
 
 ### Возвращаемое значение
 
-Объект ECMAScriptType .
+Тип объекта ECMAScript.
 
-### Смотрите также
+### См. также
 
 * class [HTMLCollection](../)
-* пространство имен [Aspose.Svg.Collections](../../htmlcollection/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

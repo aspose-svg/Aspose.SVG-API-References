@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement свойство. Соответствует атрибуту x данного элемента svg.
+title: "SVGSVGElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGSVGElement X. Соответствует атрибуту x заданного SVG‑элемента."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/svgsvgelement/x/
 ---
 ## SVGSVGElement.X property
 
-Соответствует атрибуту «x» данного элемента «svg».
+Соответствует атрибуту ‘x’ заданного элемента ‘svg’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Соответствует атрибуту «x» данного элемента «svg».
+Соответствует атрибуту ‘x’ заданного элемента ‘svg’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

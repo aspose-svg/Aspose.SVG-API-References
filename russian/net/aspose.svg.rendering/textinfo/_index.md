@@ -1,28 +1,26 @@
 ---
-title: Class TextInfo
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.TextInfo сорт. Содержит информацию о отображаемом тексте.
+title: "Класс TextInfo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Rendering.TextInfo class. Содержит информацию о отрисованном тексте"
 type: docs
-weight: 3040
+weight: 5110
 url: /ru/net/aspose.svg.rendering/textinfo/
 ---
 ## TextInfo class
 
-Содержит информацию о отображаемом тексте.
+Содержит информацию о отрендеренном тексте.
 
 ```csharp
 public class TextInfo
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | Получает информацию о визуализированных глифах. |
+| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | Получает информацию о отрисованных глифах. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

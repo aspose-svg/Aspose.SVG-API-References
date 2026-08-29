@@ -1,9 +1,9 @@
 ---
-title: Enum CSSEngineMode
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.CSSEngineMode перечисление. Указывает режим CSSEngine
+title: "Перечисление CSSEngineMode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.CSSEngineMode перечисление. Указывает режим CSSEngine"
 type: docs
-weight: 470
+weight: 2470
 url: /ru/net/aspose.svg.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration
@@ -15,16 +15,14 @@ url: /ru/net/aspose.svg.dom.css/cssenginemode/
 public enum CSSEngineMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Default | `0` | Механизм CSS будет работать как обычно. |
-| NotStrict | `1` | CSS-парсер будет работать в не строгом режиме. Все незадокументированные свойства будут проанализированы, и к ним можно будет получить доступ через[`ICSSStyleDeclaration`](../icssstyledeclaration/) . |
+| Default | `0` | CSS engine будет работать как обычно. |
+| NotStrict | `1` | CSS parser будет работать в нестрогом режиме. Все недокументированные свойства будут проанализированы и могут быть доступны через [`ICSSStyleDeclaration`](../icssstyledeclaration/). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.In1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFESpecularLightingElement свойство. Соответствует атрибуту in данного элемента feSpecularLighting.
+title: "SVGFESpecularLightingElement.In1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFESpecularLightingElement In1 свойство. Соответствует атрибуту in в данном элементе feSpecularLighting"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfespecularlightingelement/in1/
 ---
 ## SVGFESpecularLightingElement.In1 property
 
-Соответствует атрибуту "in" данного элемента "feSpecularLighting".
+Соответствует атрибуту ‘in’ в данном элементе ‘feSpecularLighting’.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'in' данного элемента 'feSpecularLighting'.
+Атрибут ‘in’ данного ‘feSpecularLighting’ элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFESpecularLightingElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

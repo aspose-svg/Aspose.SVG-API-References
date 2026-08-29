@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_VMAX
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой процент от ширины или высоты окна просмотра в зависимости от того что больше.
+title: "CSSPrimitiveValue.CSS_VMAX"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_VMAX поле. Значение представляет процент от ширины или высоты области просмотра, в зависимости от того, что больше."
 type: docs
-weight: 430
+weight: 440
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_vmax/
 ---
 ## CSSPrimitiveValue.CSS_VMAX field
 
-Значение представляет собой процент от ширины или высоты окна просмотра, в зависимости от того, что больше.
+Значение — это процент от ширины или высоты области просмотра, в зависимости от того, что больше.
 
 ```csharp
 public const ushort CSS_VMAX;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

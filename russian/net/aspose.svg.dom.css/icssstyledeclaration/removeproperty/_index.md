@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.RemoveProperty
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSStyleDeclaration метод. Используется для удаления свойства CSS если оно было явно задано в этом блоке объявления.
+title: "ICSSStyleDeclaration.RemoveProperty"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод RemoveProperty интерфейса ICSSStyleDeclaration. Используется для удаления свойства CSS, если оно было явно задано в этом блоке объявлений."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.css/icssstyledeclaration/removeproperty/
 ---
 ## ICSSStyleDeclaration.RemoveProperty method
 
-Используется для удаления свойства CSS, если оно было явно задано в этом блоке объявления.
+Используется для удаления CSS‑свойства, если оно было явно задано в этом декларативном блоке.
 
 ```csharp
 public string RemoveProperty(string propertyName)
@@ -16,16 +16,14 @@ public string RemoveProperty(string propertyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| propertyName | String | Название свойства. |
+| propertyName | String | Имя свойства. |
 
 ### Возвращаемое значение
 
-Возвращает значение свойства
+Возвращает значение свойства.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

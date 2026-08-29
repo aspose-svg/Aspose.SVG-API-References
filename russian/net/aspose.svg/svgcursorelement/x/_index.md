@@ -1,28 +1,26 @@
 ---
-title: SVGCursorElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGCursorElement свойство. Соответствует атрибуту x данного элемента cursor.
+title: "SVGCursorElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGCursorElement X. Соответствует атрибуту x на данном элементе курсора"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgcursorelement/x/
 ---
 ## SVGCursorElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'cursor'.
+Соответствует атрибуту ‘x’ в данном элементе ‘cursor’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'x' данного элемента 'cursor'.
+Атрибут ‘x’ данного элемента ‘cursor’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCursorElement](../)
-* пространство имен [Aspose.Svg](../../svgcursorelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

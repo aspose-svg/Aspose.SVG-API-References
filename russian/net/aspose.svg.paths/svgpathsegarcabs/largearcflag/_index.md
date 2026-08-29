@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcAbs.LargeArcFlag
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegArcAbs свойство. Значение параметра флага большой дуги.
+title: "SVGPathSegArcAbs.LargeArcFlag"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathSegArcAbs LargeArcFlag. Значение параметра large-arc-flag"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.paths/svgpathsegarcabs/largearcflag/
 ---
 ## SVGPathSegArcAbs.LargeArcFlag property
 
-Значение параметра флага большой дуги.
+Значение параметра large-arc-flag.
 
 ```csharp
 public bool LargeArcFlag { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Параметр флага большой дуги
+Параметр large-arc-flag
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegArcAbs](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegarcabs/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

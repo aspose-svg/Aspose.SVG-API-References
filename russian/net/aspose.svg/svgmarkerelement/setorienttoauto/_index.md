@@ -1,14 +1,14 @@
 ---
-title: SVGMarkerElement.SetOrientToAuto
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMarkerElement метод. Устанавливает значение атрибута ориентация на авто.
+title: "SVGMarkerElement.SetOrientToAuto"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGMarkerElement SetOrientToAuto. Устанавливает значение атрибута orient в auto"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg/svgmarkerelement/setorienttoauto/
 ---
 ## SVGMarkerElement.SetOrientToAuto method
 
-Устанавливает значение атрибута 'ориентация' на 'авто'.
+Устанавливает значение атрибута ‘orient’ в 'auto'.
 
 ```csharp
 public void SetOrientToAuto()
@@ -18,12 +18,10 @@ public void SetOrientToAuto()
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGMarkerElement](../)
-* пространство имен [Aspose.Svg](../../svgmarkerelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

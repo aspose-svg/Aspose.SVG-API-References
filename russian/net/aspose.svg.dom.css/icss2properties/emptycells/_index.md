@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.EmptyCells
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства пустых ячеек в CSS2.
+title: "ICSS2Properties.EmptyCells"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство EmptyCells интерфейса ICSS2Properties. См. определение свойства empty-cells в CSS2"
 type: docs
 weight: 450
 url: /ru/net/aspose.svg.dom.css/icss2properties/emptycells/
 ---
 ## ICSS2Properties.EmptyCells property
 
-См. определение свойства пустых ячеек в CSS2.
+Смотрите определение свойства empty-cells в CSS2.
 
 ```csharp
 public string EmptyCells { get; set; }
@@ -16,12 +16,10 @@ public string EmptyCells { get; set; }
 
 ### Возвращаемое значение
 
-свойство пустых ячеек
+свойство empty-cells
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

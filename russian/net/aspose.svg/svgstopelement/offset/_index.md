@@ -1,28 +1,26 @@
 ---
-title: SVGStopElement.Offset
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGStopElement свойство. Соответствует атрибуту offset данного элемента radialGradient.
+title: "SVGStopElement.Offset"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGStopElement Offset. Соответствует атрибуту offset на данном элементе radialGradient"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgstopelement/offset/
 ---
 ## SVGStopElement.Offset property
 
-Соответствует атрибуту 'offset' данного элемента 'radialGradient'.
+Соответствует атрибуту ‘offset’ в данном элементе ‘radialGradient’.
 
 ```csharp
 public SVGAnimatedNumber Offset { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'смещение' данного элемента 'radialGradient'.
+Атрибут ‘offset’ данного элемента ‘radialGradient’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGStopElement](../)
-* пространство имен [Aspose.Svg](../../svgstopelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

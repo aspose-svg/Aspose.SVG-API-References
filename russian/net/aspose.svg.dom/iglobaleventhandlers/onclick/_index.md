@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnClick
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnClick.
+title: "IGlobalEventHandlers.OnClick"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnClick. Получает или задаёт обработчик события для события OnClick"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onclick/
 ---
 ## IGlobalEventHandlers.OnClick event
 
-Получает или задает обработчик события OnClick.
+Получает или задаёт обработчик события OnClick.
 
 ```csharp
 public event DOMEventHandler OnClick;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

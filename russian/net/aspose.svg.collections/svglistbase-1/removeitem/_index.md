@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.RemoveItem
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGListBase метод. Удаляет существующий элемент из списка.
+title: "SVGListBase-1.RemoveItem"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод RemoveItem класса SVGListBase. Удаляет существующий элемент из списка"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.collections/svglistbase-1/removeitem/
 ---
-## SVGListBase&lt;T&gt;.RemoveItem method
+## SVGListBase<T>.RemoveItem method
 
 Удаляет существующий элемент из списка.
 
@@ -16,23 +16,21 @@ public T RemoveItem(ulong index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | UInt64 | Индекс элемента, который необходимо удалить. Первый элемент имеет номер 0. |
+| index | UInt64 | Индекс элемента, который будет удалён. Первый элемент имеет номер 0. |
 
 ### Возвращаемое значение
 
-Удаленный элемент.
+Удалённый элемент.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает, когда список нельзя изменить. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Код[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Возникает, если номер индекса больше или равен numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает, когда список нельзя изменить. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Возникает, если номер индекса больше или равен numberOfItems. |
 
-### Смотрите также
+### См. также
 
 * class [SVGListBase&lt;T&gt;](../)
-* пространство имен [Aspose.Svg.Collections](../../svglistbase-1/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

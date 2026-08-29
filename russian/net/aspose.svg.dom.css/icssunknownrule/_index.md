@@ -1,23 +1,21 @@
 ---
-title: Interface ICSSUnknownRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.ICSSUnknownRule интерфейс. Интерфейс CSSUnknownRule представляет правило at не поддерживаемое этим пользовательским агентом.
+title: "ICSSUnknownRule интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.ICSSUnknownRule интерфейс. Интерфейс CSSUnknownRule представляет at-rule, не поддерживаемый этим пользовательским агентом."
 type: docs
-weight: 670
+weight: 2670
 url: /ru/net/aspose.svg.dom.css/icssunknownrule/
 ---
 ## ICSSUnknownRule interface
 
-Интерфейс CSSUnknownRule представляет правило at, не поддерживаемое этим пользовательским агентом.
+Интерфейс CSSUnknownRule представляет at‑rule, не поддерживаемый этим пользовательским агентом.
 
 ```csharp
 public interface ICSSUnknownRule : ICSSRule
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSRule](../icssrule/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

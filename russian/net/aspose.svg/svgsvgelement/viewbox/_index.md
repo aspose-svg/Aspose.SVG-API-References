@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.ViewBox
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement свойство. Соответствует атрибуту viewBox данного элемента.
+title: "SVGSVGElement.ViewBox"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGSVGElement ViewBox. Соответствует атрибуту viewBox заданного элемента."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgsvgelement/viewbox/
 ---
 ## SVGSVGElement.ViewBox property
 
-Соответствует атрибуту viewBox данного элемента.
+Соответствует атрибуту ‘viewBox’ заданного элемента.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-ViewBox данного элемента.
+‘viewBox’ заданного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

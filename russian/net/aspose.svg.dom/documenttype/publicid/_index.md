@@ -1,27 +1,25 @@
 ---
-title: DocumentType.PublicId
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentType свойство. Общедоступный идентификатор внешнего подмножества.
+title: "DocumentType.PublicId"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство DocumentType PublicId. Публичный идентификатор внешнего подмножества"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom/documenttype/publicid/
 ---
 ## DocumentType.PublicId property
 
-Общедоступный идентификатор внешнего подмножества.
+Публичный идентификатор внешнего подмножества.
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Общедоступный идентификатор.
+Публичный идентификатор.
 
-### Смотрите также
+### См. также
 
 * class [DocumentType](../)
-* пространство имен [Aspose.Svg.Dom](../../documenttype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Margin.Bottom
-second_title: Справочник по Aspose.SVG для .NET API
-description: Margin свойство. Получает или задает нижнюю часть.
+title: "Margin.Bottom"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Margin Bottom. Получает или задает нижнее значение"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/margin/bottom/
 ---
 ## Margin.Bottom property
 
-Получает или задает нижнюю часть.
+Получает или задает нижний отступ.
 
 ```csharp
 public LengthOrAuto Bottom { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Дно.
+Нижняя часть.
 
-### Смотрите также
+### См. также
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

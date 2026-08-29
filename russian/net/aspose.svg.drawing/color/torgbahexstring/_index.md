@@ -1,14 +1,14 @@
 ---
-title: Color.ToRgbaHexString
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает шестнадцатеричный цвет указанный с помощью RRGGBBAA.
+title: "Color.ToRgbaHexString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color ToRgbaHexString. Возвращает шестнадцатеричный цвет, указанный в формате RRGGBBAA."
 type: docs
 weight: 390
 url: /ru/net/aspose.svg.drawing/color/torgbahexstring/
 ---
 ## Color.ToRgbaHexString method
 
-Возвращает шестнадцатеричный цвет, указанный с помощью: #RRGGBBAA.
+Возвращает шестнадцатеричный цвет, указанный как: #RRGGBBAA.
 
 ```csharp
 public string ToRgbaHexString()
@@ -18,10 +18,8 @@ public string ToRgbaHexString()
 
 Шестнадцатеричная строка цвета.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.Z
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFESpotLightElement свойство. Соответствует атрибуту z данного элемента feSpotLight.
+title: "SVGFESpotLightElement.Z"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Z элемента SVGFESpotLightElement. Соответствует атрибуту z в данном элементе feSpotLight."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.filters/svgfespotlightelement/z/
 ---
 ## SVGFESpotLightElement.Z property
 
-Соответствует атрибуту 'z' данного элемента feSpotLight.
+Соответствует атрибуту ‘z’ в данном элементе ‘feSpotLight’.
 
 ```csharp
 public SVGAnimatedNumber Z { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'z' данного элемента 'feSpotLight'.
+Атрибут ‘z’ данного элемента ‘feSpotLight’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

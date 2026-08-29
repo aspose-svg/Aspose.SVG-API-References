@@ -1,9 +1,9 @@
 ---
-title: Interface IDocumentCSS
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.IDocumentCSS интерфейс. Этот интерфейс представляет документ с представлением CSS.
+title: "IDocumentCSS интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.IDocumentCSS интерфейс. Этот интерфейс представляет документ с CSS‑видом."
 type: docs
-weight: 690
+weight: 2690
 url: /ru/net/aspose.svg.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface
@@ -18,12 +18,10 @@ public interface IDocumentCSS : IDocumentStyle
 
 | Имя | Описание |
 | --- | --- |
-| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(Element, string) | Этот метод используется для получения объявления стиля переопределения для указанного элемента и указанного псевдоэлемента. |
+| [GetOverrideStyle](../../aspose.svg.dom.css/idocumentcss/getoverridestyle/)(*[Element](../../aspose.svg.dom/element/), string*) | Этот метод используется для получения переопределённого объявления стиля для указанного элемента и указанного псевдо‑элемента. |
 
-### Смотрите также
+### См. также
 
 * interface [IDocumentStyle](../idocumentstyle/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

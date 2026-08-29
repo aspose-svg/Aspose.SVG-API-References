@@ -1,30 +1,30 @@
 ---
-title: ImageTraceSmoother.ImageTraceSmoother
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageTraceSmoother строитель. Инициализирует новый экземплярImageTraceSmoother класс.
+title: "ImageTraceSmoother"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ImageTraceSmoother. Инициализирует новый экземпляр класса ImageTraceSmoother"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
 ## ImageTraceSmoother() {#constructor}
 
-Инициализирует новый экземпляр[`ImageTraceSmoother`](../) класс.
+Инициализирует новый экземпляр класса [`ImageTraceSmoother`](../).
 
 ```csharp
 public ImageTraceSmoother()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageTraceSmoother](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSmoother(int) {#constructor_1}
+## ImageTraceSmoother(*int*) {#constructor_1}
 
-Инициализирует новый экземпляр[`ImageTraceSmoother`](../) класс.
+Инициализирует новый экземпляр класса [`ImageTraceSmoother`](../).
 
 ```csharp
 public ImageTraceSmoother(int severity)
@@ -32,12 +32,10 @@ public ImageTraceSmoother(int severity)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| severity | Int32 | Серьезность |
+| серьёзность | Int32 | Серьёзность |
 
-### Смотрите также
+### См. также
 
 * class [ImageTraceSmoother](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

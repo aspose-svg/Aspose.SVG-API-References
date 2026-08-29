@@ -1,28 +1,26 @@
 ---
-title: Margin.Right
-second_title: Справочник по Aspose.SVG для .NET API
-description: Margin свойство. Получает или устанавливает право.
+title: "Margin.Right"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Margin Right. Получает или задает правое значение"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.drawing/margin/right/
 ---
 ## Margin.Right property
 
-Получает или устанавливает право.
+Получает или задает правый параметр.
 
 ```csharp
 public LengthOrAuto Right { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Право.
+Правая часть.
 
-### Смотрите также
+### См. также
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: Class SVGAnimatedLengthList
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedLengthList сорт. Используется для атрибутов типа SVGLengthList которые можно анимировать.
+title: "Класс SVGAnimatedLengthList"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.DataTypes.SVGAnimatedLengthList. Используется для атрибутов типа SVGLengthList, которые могут быть анимированы"
 type: docs
-weight: 140
+weight: 2130
 url: /ru/net/aspose.svg.datatypes/svganimatedlengthlist/
 ---
 ## SVGAnimatedLengthList class
 
-Используется для атрибутов типа SVGLengthList, которые можно анимировать.
+Используется для атрибутов типа SVGLengthList, которые могут быть анимированы.
 
 ```csharp
 public class SVGAnimatedLengthList : SVGAnimatedValue<SVGLengthList>
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,15 +25,13 @@ public class SVGAnimatedLengthList : SVGAnimatedValue<SVGLengthList>
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedlengthlist/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedlengthlist/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGLengthList](../svglengthlist/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetTotalLength
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGeometryElement метод. Возвращает вычисленное агентом пользователя значение общей длины пути с использованием алгоритма расстояния вдоль пути агента пользователя в виде расстояния в текущей системе координат пользователя.
+title: "SVGGeometryElement.GetTotalLength"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGGeometryElement GetTotalLength. Возвращает вычисленное пользовательским агентом значение общей длины пути, используя алгоритм distance-along-a-path пользовательского агента, в виде расстояния в текущей пользовательской системе координат."
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.svg/svggeometryelement/gettotallength/
 ---
 ## SVGGeometryElement.GetTotalLength method
 
-Возвращает вычисленное агентом пользователя значение общей длины пути с использованием алгоритма расстояния вдоль пути агента пользователя в виде расстояния в текущей системе координат пользователя.
+Возвращает вычисленное пользовательским агентом значение общей длины пути с использованием алгоритма distance-along-a-path, выраженное как расстояние в текущей пользовательской системе координат.
 
 ```csharp
 public float GetTotalLength()
@@ -18,10 +18,8 @@ public float GetTotalLength()
 
 Общая длина пути.
 
-### Смотрите также
+### См. также
 
 * class [SVGGeometryElement](../)
-* пространство имен [Aspose.Svg](../../svggeometryelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

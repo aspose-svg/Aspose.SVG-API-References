@@ -1,30 +1,28 @@
 ---
-title: Interface ICSSMarginRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.ICSSMarginRule интерфейс. Интерфейс CSSMarginRule представляет маржу по правилу.
+title: "ICSSMarginRule интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.ICSSMarginRule интерфейс. Интерфейс CSSMarginRule представляет правило margin at-rule."
 type: docs
-weight: 590
+weight: 2590
 url: /ru/net/aspose.svg.dom.css/icssmarginrule/
 ---
 ## ICSSMarginRule interface
 
-Интерфейс CSSMarginRule представляет маржу по правилу.
+Интерфейс CSSMarginRule представляет правило отступа.
 
 ```csharp
 public interface ICSSMarginRule : ICSSRule
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | Атрибут name должен возвращать имя правила поля. Символ @ не входит в имя. |
-| [Style](../../aspose.svg.dom.css/icssmarginrule/style/) { get; } | Блок объявления этого правила. |
+| [Name](../../aspose.svg.dom.css/icssmarginrule/name/) { get; } | Атрибут name должен возвращать имя правила margin at-rule. Символ @ не включается в имя. |
+| [Style](../../aspose.svg.dom.css/icssmarginrule/style/) { get; } | Блок объявлений этого правила. |
 
-### Смотрите также
+### См. также
 
 * interface [ICSSRule](../icssrule/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGDocument.RenderTo
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGDocument метод. Этот метод используется для печати содержимого текущего документа на указанное устройство.
+title: "SVGDocument.RenderTo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод RenderTo класса SVGDocument. Этот метод используется для печати содержимого текущего документа на указанное устройство."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg/svgdocument/renderto/
@@ -16,13 +16,11 @@ public override void RenderTo(IDevice device)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Пользовательское устройство. |
+| устройство | IDevice | Устройство пользователя. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../../aspose.svg.rendering/idevice/)
 * class [SVGDocument](../)
-* пространство имен [Aspose.Svg](../../svgdocument/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: SVGAngle.Value
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAngle свойство. Значение угла в виде числа с плавающей запятой в градусах. Установка этого атрибута приведет к автоматическому обновлению valueInSpecifiedUnits и valueAsString в соответствии с этим параметром.
+title: "SVGAngle.Value"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGAngle Value. Значение угла как число с плавающей точкой в градусах. Установка этого атрибута приведёт к автоматическому обновлению valueInSpecifiedUnits и valueAsString, чтобы отразить эту настройку"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.datatypes/svgangle/value/
 ---
 ## SVGAngle.Value property
 
-Значение угла в виде числа с плавающей запятой в градусах. Установка этого атрибута приведет к автоматическому обновлению valueInSpecifiedUnits и valueAsString в соответствии с этим параметром.
+Значение угла как число с плавающей запятой, в градусах. Установка этого атрибута приведёт к автоматическому обновлению valueInSpecifiedUnits и valueAsString, чтобы отразить эту настройку.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение.
 
@@ -22,12 +22,10 @@ public float Value { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Возникает, когда угол соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Выдается, когда угол соответствует только для чтения атрибуту или когда сам объект только для чтения. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgangle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

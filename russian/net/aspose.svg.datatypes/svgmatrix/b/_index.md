@@ -1,7 +1,7 @@
 ---
-title: SVGMatrix.B
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMatrix свойство. Компонент B матрицы.
+title: "SVGMatrix.B"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGMatrix B. Компонента B матрицы."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.datatypes/svgmatrix/b/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.svg.datatypes/svgmatrix/b/
 public float B { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Компонент B матрицы.
 
@@ -22,12 +22,10 @@ public float B { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGMatrix](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgmatrix/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

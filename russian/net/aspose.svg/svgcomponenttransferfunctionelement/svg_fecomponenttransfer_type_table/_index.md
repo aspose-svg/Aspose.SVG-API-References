@@ -1,23 +1,21 @@
 ---
-title: SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_TABLE
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement поле. Соответствует значению таблица.
+title: "SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_TABLE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FECOMPONENTTRANSFER_TYPE_TABLE элемента SVGComponentTransferFunctionElement. Соответствует значению table."
 type: docs
 weight: 120
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_table/
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_TABLE field
 
-Соответствует значению "таблица".
+Соответствует значению 'table'.
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_TABLE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

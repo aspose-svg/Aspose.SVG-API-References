@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Domain
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGDocument свойство. Доменное имя сервера который обслуживал документ или пустая строка если сервер не может быть идентифицирован по доменному имени.
+title: "SVGDocument.Domain"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Domain класса SVGDocument. Имя домена сервера, который предоставил документ, или null‑строка, если сервер нельзя определить по имени домена."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgdocument/domain/
 ---
 ## SVGDocument.Domain property
 
-Доменное имя сервера, который обслуживал документ, или пустая строка, если сервер не может быть идентифицирован по доменному имени.
+Имя домена сервера, который предоставил документ, или пустая строка, если сервер нельзя идентифицировать по имени домена.
 
 ```csharp
 public string Domain { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Домен.
 
-### Смотрите также
+### См. также
 
 * class [SVGDocument](../)
-* пространство имен [Aspose.Svg](../../svgdocument/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

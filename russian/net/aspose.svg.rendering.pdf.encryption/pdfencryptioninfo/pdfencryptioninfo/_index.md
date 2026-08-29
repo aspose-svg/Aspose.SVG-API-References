@@ -1,14 +1,14 @@
 ---
-title: PdfEncryptionInfo.PdfEncryptionInfo
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfEncryptionInfo строитель. Инициализирует новый экземплярPdfEncryptionInfo класс.
+title: "PdfEncryptionInfo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "PdfEncryptionInfo конструктор. Инициализирует новый экземпляр класса PdfEncryptionInfo"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo constructor
 
-Инициализирует новый экземпляр[`PdfEncryptionInfo`](../) класс.
+Инициализирует новый экземпляр класса [`PdfEncryptionInfo`](../).
 
 ```csharp
 public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissions permissions, 
@@ -22,12 +22,10 @@ public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissio
 | permissions | PdfPermissions | Разрешения. |
 | encryptionAlgorithm | PdfEncryptionAlgorithm | Алгоритм шифрования. |
 
-### Смотрите также
+### См. также
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

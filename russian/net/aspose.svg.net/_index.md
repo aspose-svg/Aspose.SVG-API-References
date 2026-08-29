@@ -1,39 +1,37 @@
 ---
-title: Aspose.Svg.Net
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Netпространство имен представлено классами и интерфейсами которые отвечают за упрощение сетевой обработки.
+title: "Aspose.Svg.Net"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имён Aspose.Svg.Net представлено классами и интерфейсами, которые отвечают за упрощённую обработку сети"
 type: docs
-weight: 190
+weight: 210
 url: /ru/net/aspose.svg.net/
 ---
-**Aspose.Svg.Net**пространство имен представлено классами и интерфейсами, которые отвечают за упрощение сетевой обработки.
+Пространство имён **Aspose.Svg.Net** представлено классами и интерфейсами, которые отвечают за упрощённую обработку сетевых операций.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [ByteArrayContent](./bytearraycontent/) | Представляет содержимое на основе массива байтов. |
-| [Content](./content/) | Представляет базовый класс для тела объекта HTTP и заголовков содержимого. |
+| [ByteArrayContent](./bytearraycontent/) | Представляет контент, основанный на массиве байтов. |
+| [Content](./content/) | Представляет базовый класс для тела HTTP‑сущности и заголовков контента. |
 | [ContentHeaders](./contentheaders/) | Содержит заголовки, связанные с контентом. |
-| [FormUrlEncodedContent](./formurlencodedcontent/) | Контейнер для кортежей имени/значения, закодированных с использованием MIME-типа application/x-www-form-urlencoded. |
-| [HttpMethod](./httpmethod/) | Представляет служебный класс для получения и сравнения стандартных методов HTTP. |
-| [MessageFilter](./messagefilter/) | Представляет абстрактный базовый класс для различных классов фильтров, используемых для запроса messages |
+| [FormUrlEncodedContent](./formurlencodedcontent/) | Контейнер для пар имя/значение, закодированных с использованием MIME‑типа application/x-www-form-urlencoded. |
+| [HttpMethod](./httpmethod/) | Представляет вспомогательный класс для получения и сравнения стандартных HTTP‑методов. |
+| [MessageFilter](./messagefilter/) | Представляет абстрактный базовый класс для различных классов фильтров, используемых для запросов сообщений. |
 | [MessageHandler](./messagehandler/) | Представляет базовый тип для обработчиков сообщений. |
-| [MessageHandlerCollection](./messagehandlercollection/) | Представляет коллекцию[`MessageHandler`](../aspose.svg.net/messagehandler/) . |
-| [MultipartContent](./multipartcontent/) | Представляет содержимое multipart/*. |
-| [MultipartFormDataContent](./multipartformdatacontent/) | Представлять содержимое для алгоритма кодирования multipart/form-data |
+| [MessageHandlerCollection](./messagehandlercollection/) | Представляет коллекцию [`MessageHandler`](../aspose.svg.net/messagehandler/). |
+| [MultipartContent](./multipartcontent/) | Представляет контент multipart/*. |
+| [MultipartFormDataContent](./multipartformdatacontent/) | Представляет контент для алгоритма кодирования multipart/form-data |
 | [RequestHeaders](./requestheaders/) | Содержит заголовки протокола, связанные с запросом. |
 | [RequestMessage](./requestmessage/) | Представляет сообщение запроса. |
 | [ResponseHeaders](./responseheaders/) | Содержит заголовки протокола, связанные с ответом. |
-| [ResponseMessage](./responsemessage/) | Представляет ответное сообщение. |
-| [StreamContent](./streamcontent/) | Представляет содержимое на основе потока. |
-| [StringContent](./stringcontent/) | Представляет содержимое на основе строки. |
-| [UrlResolver](./urlresolver/) | Представляет служебный класс для разрешения абсолютного URL-адреса с помощью универсального идентификатора ресурса (URI). |
+| [ResponseMessage](./responsemessage/) | Представляет сообщение ответа. |
+| [StreamContent](./streamcontent/) | Представляет контент, основанный на потоке. |
+| [StringContent](./stringcontent/) | Представляет контент, основанный на строке. |
+| [UrlResolver](./urlresolver/) | Представляет вспомогательный класс для разрешения абсолютного URL по унифицированному идентификатору ресурса (URI). |
 ## Интерфейсы
 
 | Интерфейс | Описание |
 | --- | --- |
-| [INetwork](./inetwork/) | Предоставляет интерфейс для сетевых служб. |
-| [INetworkOperationContext](./inetworkoperationcontext/) | Предоставляет контекстную информацию для сетевых служб. |
-
-
+| [INetwork](./inetwork/) | Предоставляет интерфейс для сетевых сервисов. |
+| [INetworkOperationContext](./inetworkoperationcontext/) | Предоставляет контекстную информацию для сетевых сервисов. |

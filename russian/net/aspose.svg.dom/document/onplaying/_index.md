@@ -1,7 +1,7 @@
 ---
-title: Document.OnPlaying
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnPlaying.
+title: "Document.OnPlaying"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnPlaying. Получает или задает обработчик события для события OnPlaying."
 type: docs
 weight: 610
 url: /ru/net/aspose.svg.dom/document/onplaying/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onplaying/
 public event DOMEventHandler OnPlaying;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

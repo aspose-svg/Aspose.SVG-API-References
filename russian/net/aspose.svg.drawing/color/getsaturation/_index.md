@@ -1,14 +1,14 @@
 ---
-title: Color.GetSaturation
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает насыщенность цвета.
+title: "Color.GetSaturation"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color GetSaturation. Возвращает насыщенность цвета."
 type: docs
 weight: 350
 url: /ru/net/aspose.svg.drawing/color/getsaturation/
 ---
 ## Color.GetSaturation method
 
-Возвращает насыщенность цвета.
+Возвращает saturation цвета Color.
 
 ```csharp
 public float GetSaturation()
@@ -18,10 +18,8 @@ public float GetSaturation()
 
 Насыщенность цвета.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

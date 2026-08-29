@@ -1,20 +1,20 @@
 ---
-title: SVGAngle.ValueAsString
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAngle свойство. Значение угла как строковое значение в единицах выраженных unitType. Установка этого атрибута приведет к автоматическому обновлению value valueInSpecifiedUnits и unitType чтобы отразить этот параметр.
+title: "SVGAngle.ValueAsString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGAngle ValueAsString. Значение угла как строка в единицах, указанных unitType. Установка этого атрибута приведёт к автоматическому обновлению value, valueInSpecifiedUnits и unitType, чтобы отразить эту настройку."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.datatypes/svgangle/valueasstring/
 ---
 ## SVGAngle.ValueAsString property
 
-Значение угла как строковое значение в единицах, выраженных unitType. Установка этого атрибута приведет к автоматическому обновлению value, valueInSpecifiedUnits и unitType, чтобы отразить этот параметр.
+Значение угла как строка, в единицах, указанных в unitType. Установка этого атрибута приведёт к автоматическому обновлению value, valueInSpecifiedUnits и unitType, чтобы отразить эту настройку.
 
 ```csharp
 public string ValueAsString { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение в виде строки.
 
@@ -22,13 +22,11 @@ public string ValueAsString { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err/) Возникает, если назначенная строка не может быть проанализирована как допустимый угол. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Возникает, когда угол соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err/) генерируется, если назначенная строка не может быть разобрана как допустимый угол. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Выдается, когда угол соответствует только для чтения атрибуту или когда сам объект только для чтения. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgangle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

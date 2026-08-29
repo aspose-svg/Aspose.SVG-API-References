@@ -1,7 +1,7 @@
 ---
-title: Document.OnFocus
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnFocus.
+title: "Document.OnFocus"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnFocus. Получает или задает обработчик события для события OnFocus"
 type: docs
 weight: 410
 url: /ru/net/aspose.svg.dom/document/onfocus/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onfocus/
 public event DOMEventHandler OnFocus;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

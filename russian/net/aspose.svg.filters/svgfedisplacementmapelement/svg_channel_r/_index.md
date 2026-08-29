@@ -1,7 +1,7 @@
 ---
-title: SVGFEDisplacementMapElement.SVG_CHANNEL_R
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDisplacementMapElement поле. Соответствует значению R.
+title: "SVGFEDisplacementMapElement.SVG_CHANNEL_R"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEDisplacementMapElement SVG_CHANNEL_R поле. Соответствует значению R"
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.filters/svgfedisplacementmapelement/svg_channel_r/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.filters/svgfedisplacementmapelement/svg_channel_r/
 public const ushort SVG_CHANNEL_R;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEDisplacementMapElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

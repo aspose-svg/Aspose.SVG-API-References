@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PlayDuring
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства playduring в CSS2.
+title: "ICSS2Properties.PlayDuring"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PlayDuring в ICSS2Properties. См. определение свойства play-during в CSS2"
 type: docs
-weight: 940
+weight: 970
 url: /ru/net/aspose.svg.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property
 
-См. определение свойства play-during в CSS2.
+Смотрите определение свойства play-during в CSS2.
 
 ```csharp
 public string PlayDuring { get; set; }
@@ -16,12 +16,10 @@ public string PlayDuring { get; set; }
 
 ### Возвращаемое значение
 
-игровое свойство
+свойство play-during
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

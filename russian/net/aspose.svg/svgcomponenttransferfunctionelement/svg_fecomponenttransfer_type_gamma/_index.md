@@ -1,23 +1,21 @@
 ---
-title: SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_GAMMA
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement поле. Соответствует значению гамма.
+title: "SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_GAMMA"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FECOMPONENTTRANSFER_TYPE_GAMMA элемента SVGComponentTransferFunctionElement. Соответствует значению gamma."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_gamma/
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_GAMMA field
 
-Соответствует значению «гамма».
+Соответствует значению 'gamma'.
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_GAMMA;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

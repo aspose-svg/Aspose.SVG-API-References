@@ -1,24 +1,22 @@
 ---
-title: Element.Attributes
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. NamedNodeMap содержащий атрибуты этого узла если это элемент или null в противном случае.
+title: "Element.Attributes"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element Attributes. NamedNodeMap, содержащий атрибуты этого узла, если он является Element, иначе null"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/element/attributes/
 ---
 ## Element.Attributes property
 
-NamedNodeMap, содержащий атрибуты этого узла (если это элемент) или null в противном случае.
+NamedNodeMap, содержащий атрибуты этого узла (если это Element), или null в противном случае.
 
 ```csharp
-public override NamedNodeMap Attributes { get; }
+public NamedNodeMap Attributes { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NamedNodeMap](../../../aspose.svg.collections/namednodemap/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

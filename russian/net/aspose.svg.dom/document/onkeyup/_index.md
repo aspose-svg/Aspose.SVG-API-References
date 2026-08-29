@@ -1,7 +1,7 @@
 ---
-title: Document.OnKeyUp
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnKeyUp.
+title: "Document.OnKeyUp"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnKeyUp. Получает или задает обработчик события OnKeyUp"
 type: docs
 weight: 460
 url: /ru/net/aspose.svg.dom/document/onkeyup/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onkeyup/
 public event DOMEventHandler OnKeyUp;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

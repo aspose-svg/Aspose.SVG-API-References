@@ -1,14 +1,14 @@
 ---
-title: Color.FromHsl
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает новый цвет с запрошенными значениями оттенка насыщенности насыщенности.
+title: "Color.FromHsl"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromHsl. Возвращает новый Color с запрошенными значениями оттенка, насыщенности и насыщенности."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/color/fromhsl/
 ---
 ## Color.FromHsl method
 
-Возвращает новый цвет с запрошенными значениями оттенка, насыщенности, насыщенности.
+Возвращает новый Color с запрошенными значениями hue, saturation, saturation.
 
 ```csharp
 public static Color FromHsl(float hue, float saturation, float lightness)
@@ -16,18 +16,16 @@ public static Color FromHsl(float hue, float saturation, float lightness)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hue | Single | Поплавок, представляющий компонент оттенка цвета. |
-| saturation | Single | Поплавок, представляющий компонент насыщенности цвета. |
-| lightness | Single | Поплавок, представляющий компонент яркости цвета. |
+| hue | Single | Число с плавающей запятой, представляющее компонент тона цвета. |
+| saturation | Single | Число с плавающей точкой, представляющее компонент насыщенности цвета. |
+| светлота | Single | Число с плавающей запятой, представляющее компонент светлоты цвета. |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

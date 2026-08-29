@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEBlendElement поле. Соответствует значению цвет.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGFEBlendElement SVG_FEBLEND_MODE_COLOR. Соответствует значению color"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR field
 
-Соответствует значению "цвет".
+Соответствует значению 'color'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_COLOR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEBlendElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeblendelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

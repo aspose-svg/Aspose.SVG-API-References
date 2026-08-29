@@ -1,32 +1,30 @@
 ---
-title: Enum Accessors
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Attributes.Accessors перечисление. Представляет перечисление средств доступа к членам определенное W3C.
+title: "Accessors перечисление"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Attributes.Accessors перечисление. Представляет перечисление доступа к членам, определённое W3C"
 type: docs
-weight: 360
+weight: 2360
 url: /ru/net/aspose.svg.dom.attributes/accessors/
 ---
 ## Accessors enumeration
 
-Представляет перечисление средств доступа к членам, определенное W3C.
+Представляет перечисление аксессоров членов, определённое W3C.
 
 ```csharp
 [Flags]
 public enum Accessors : byte
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | None | `0` | Указывает, что свойство не имеет особого значения. |
-| Getter | `1` | Указывает, что свойство или метод должны обрабатываться как метод получения. |
-| Setter | `2` | Указывает, что свойство или метод должны обрабатываться как установщик. |
-| Deleter | `4` | Указывает, что свойство или метод должны обрабатываться с помощью удаления. |
+| Getter | `1` | Указывает, что свойство или метод должен обрабатываться как геттер. |
+| Setter | `2` | Указывает, что свойство или метод должен обрабатываться как сеттер. |
+| Deleter | `4` | Указывает, что свойство или метод должен обрабатываться оператором delete. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

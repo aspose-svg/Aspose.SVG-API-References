@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.In1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDropShadowElement свойство. Соответствует атрибуту in данного элемента feDropShadow.
+title: "SVGFEDropShadowElement.In1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство In1 элемента SVGFEDropShadowElement. Соответствует атрибуту in в данном элементе feDropShadow."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.filters/svgfedropshadowelement/in1/
 ---
 ## SVGFEDropShadowElement.In1 property
 
-Соответствует атрибуту 'in' данного элемента feDropShadow.
+Соответствует атрибуту ‘in’ указанного элемента ‘feDropShadow’.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'in' данного элемента feDropShadow.
+Атрибут ‘in’ данного элемента ‘feDropShadow’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDropShadowElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

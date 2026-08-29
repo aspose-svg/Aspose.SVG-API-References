@@ -1,28 +1,26 @@
 ---
-title: IWindow.Document
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindow свойство. Атрибут документа должен возвращать самый новый объект Document объекта Window.
+title: "IWindow.Document"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IWindow Document. Атрибут document должен возвращать самый новый объект Document окна."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.window/iwindow/document/
 ---
 ## IWindow.Document property
 
-Атрибут документа должен возвращать самый новый объект Document объекта Window.
+Атрибут document должен возвращать самый новый объект Document окна Window.
 
 ```csharp
 public Document Document { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Документ.
 
-### Смотрите также
+### См. также
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IWindow](../)
-* пространство имен [Aspose.Svg.Window](../../iwindow/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

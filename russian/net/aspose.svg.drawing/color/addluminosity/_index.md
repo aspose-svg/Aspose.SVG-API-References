@@ -1,14 +1,14 @@
 ---
-title: Color.AddLuminosity
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Создает копию цвета с суммой его яркости и значения дельты.
+title: "Color.AddLuminosity"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color AddLuminosity. Создает копию Color с суммой её яркости и значением дельты."
 type: docs
 weight: 280
 url: /ru/net/aspose.svg.drawing/color/addluminosity/
 ---
 ## Color.AddLuminosity method
 
-Создает копию цвета с суммой его яркости и значения дельты.
+Создаёт копию Color с суммой её яркости и значения дельты.
 
 ```csharp
 public Color AddLuminosity(float delta)
@@ -16,16 +16,14 @@ public Color AddLuminosity(float delta)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| delta | Single | Значение светимости |
+| delta | Single | Значение яркости |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

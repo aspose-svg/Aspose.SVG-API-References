@@ -1,27 +1,25 @@
 ---
-title: Counter.Identifier
-second_title: Справочник по Aspose.SVG для .NET API
-description: Counter свойство. Этот атрибут используется для идентификатора счетчика.
+title: "Counter.Identifier"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Counter Identifier. Этот атрибут используется для идентификатора счётчика."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/counter/identifier/
 ---
 ## Counter.Identifier property
 
-Этот атрибут используется для идентификатора счетчика.
+Этот атрибут используется для идентификатора счётчика.
 
 ```csharp
 public string Identifier { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Идентификатор счетчика.
+Идентификатор счётчика.
 
-### Смотрите также
+### См. также
 
 * class [Counter](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../counter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

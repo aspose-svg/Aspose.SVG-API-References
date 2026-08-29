@@ -1,7 +1,7 @@
 ---
-title: UnitType.Dpi
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в точках на дюйм.
+title: "UnitType.Dpi"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Dpi. Измерение в точках на дюйм"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.drawing/unittype/dpi/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/dpi/
 public static readonly UnitType Dpi;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

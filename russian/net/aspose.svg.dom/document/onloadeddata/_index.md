@@ -1,7 +1,7 @@
 ---
-title: Document.OnLoadedData
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnLoadedData.
+title: "Document.OnLoadedData"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnLoadedData. Получает или задаёт обработчик события OnLoadedData"
 type: docs
 weight: 480
 url: /ru/net/aspose.svg.dom/document/onloadeddata/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onloadeddata/
 public event DOMEventHandler OnLoadedData;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

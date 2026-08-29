@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.Height
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDisplacementMapElement свойство. Соответствует атрибуту высота данного элемента фильтра.
+title: "SVGFEDisplacementMapElement.Height"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEDisplacementMapElement Height свойство. Соответствует атрибуту height указанного элемента фильтра"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.filters/svgfedisplacementmapelement/height/
 ---
 ## SVGFEDisplacementMapElement.Height property
 
-Соответствует атрибуту "высота" данного элемента "фильтра".
+Соответствует атрибуту ‘height’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «высота» данного элемента «фильтр».
+Атрибут ‘height’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDisplacementMapElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

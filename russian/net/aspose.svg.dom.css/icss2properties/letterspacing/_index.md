@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.LetterSpacing
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства межбуквенного интервала в CSS2.
+title: "ICSS2Properties.LetterSpacing"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство LetterSpacing интерфейса ICSS2Properties. Смотрите определение свойства letter-spacing в CSS2"
 type: docs
-weight: 570
+weight: 600
 url: /ru/net/aspose.svg.dom.css/icss2properties/letterspacing/
 ---
 ## ICSS2Properties.LetterSpacing property
 
-См. определение свойства межбуквенного интервала в CSS2.
+См. определение свойства letter-spacing в CSS2.
 
 ```csharp
 public string LetterSpacing { get; set; }
@@ -16,12 +16,10 @@ public string LetterSpacing { get; set; }
 
 ### Возвращаемое значение
 
-свойство межбуквенного интервала
+Свойство letter-spacing
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

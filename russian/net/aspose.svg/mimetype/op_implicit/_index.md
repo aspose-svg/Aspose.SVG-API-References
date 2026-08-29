@@ -1,14 +1,14 @@
 ---
-title: MimeType.op_Implicit
-second_title: Справочник по Aspose.SVG для .NET API
-description: MimeType метод. Выполняет неявное преобразование изString кMimeType .
+title: "MimeType.op_Implicit"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод MimeType op_Implicit. Выполняет неявное преобразование из String в MimeType"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg/mimetype/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 
-Выполняет неявное преобразование изString к[`MimeType`](../) .
+Выполняет неявное преобразование из String в [`MimeType`](../).
 
 ```csharp
 public static implicit operator MimeType(string @string)
@@ -22,17 +22,17 @@ public static implicit operator MimeType(string @string)
 
 Результат преобразования.
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## implicit operator {#op_implicit_1}
 
-Выполняет неявное преобразование из[`MimeType`](../) кString .
+Выполняет неявное преобразование из [`MimeType`](../) в String.
 
 ```csharp
 public static implicit operator string(MimeType type)
@@ -40,16 +40,14 @@ public static implicit operator string(MimeType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | MimeType | Тип мима. |
+| type | MimeType | MIME-тип. |
 
 ### Возвращаемое значение
 
 Результат преобразования.
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

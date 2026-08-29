@@ -1,12 +1,12 @@
 ---
-title: MimeType.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: MimeType метод. Указывает равен ли текущий объект другому объекту того же типа.
+title: "MimeType.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод MimeType Equals. Указывает, равен ли текущий объект другому объекту того же типа."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/mimetype/equals/
 ---
-## Equals(MimeType) {#equals}
+## Equals(*[MimeType](../)*) {#equals}
 
 Указывает, равен ли текущий объект другому объекту того же типа.
 
@@ -16,23 +16,23 @@ public bool Equals(MimeType other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | MimeType | Объект для сравнения с этим объектом. |
+| другой | MimeType | Объект для сравнения с этим объектом. |
 
 ### Возвращаемое значение
 
-true, если текущий объект равен*other* параметр; в противном случае false.
+true если текущий объект равен параметру *other*; иначе false.
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Определяет, является ли указанныйObject равен текущемуObject .
+Определяет, равен ли указанный объект текущему объекту.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object сравнить с нынешнимObject. |
+| obj | Объект | Объект для сравнения с текущим объектом. |
 
 ### Возвращаемое значение
 
-true, если указаноObject равен текущемуObject ; в противном случае false.
+`true` если указанный объект равен текущему объекту; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

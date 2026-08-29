@@ -1,9 +1,9 @@
 ---
-title: Element.ShadowRoot
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. Возвращает shadowRoot хранящийся в этом элементе или null если он закрыт.
+title: "Element.ShadowRoot"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element ShadowRoot. Возвращает shadowRoot, хранящийся в этом элементе, или null, если он закрыт"
 type: docs
-weight: 200
+weight: 190
 url: /ru/net/aspose.svg.dom/element/shadowroot/
 ---
 ## Element.ShadowRoot property
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom/element/shadowroot/
 public ShadowRoot ShadowRoot { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-ShadowRoot.
+Теневой shadowRoot.
 
-### Смотрите также
+### См. также
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnProgress
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnProgress.
+title: "IGlobalEventHandlers.OnProgress"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnProgress. Получает или задает обработчик события для OnProgress"
 type: docs
 weight: 350
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onprogress/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onprogress/
 public event DOMEventHandler OnProgress;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

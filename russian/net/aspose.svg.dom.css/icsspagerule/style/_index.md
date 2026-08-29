@@ -1,24 +1,22 @@
 ---
-title: ICSSPageRule.Style
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSPageRule свойство. Блок объявления этого правила.
+title: "ICSSPageRule.Style"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство стиля ICSSPageRule. Блок объявлений этого правила"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icsspagerule/style/
 ---
 ## ICSSPageRule.Style property
 
-Блок объявления этого правила.
+Блок объявлений этого правила.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSPageRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

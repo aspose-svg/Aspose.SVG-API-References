@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Content
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства содержимого в CSS2.
+title: "ICSS2Properties.Content"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Content в ICSS2Properties. См. определение свойства content в CSS2"
 type: docs
 weight: 350
 url: /ru/net/aspose.svg.dom.css/icss2properties/content/
 ---
 ## ICSS2Properties.Content property
 
-См. определение свойства содержимого в CSS2.
+Смотрите определение свойства content в CSS2.
 
 ```csharp
 public string Content { get; set; }
@@ -16,12 +16,10 @@ public string Content { get; set; }
 
 ### Возвращаемое значение
 
-свойство содержания
+свойство content
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

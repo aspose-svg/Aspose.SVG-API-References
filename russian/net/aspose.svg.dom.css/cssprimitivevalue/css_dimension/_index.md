@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_DIMENSION
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой число с неизвестной размерностью. Значение можно получить с помощью метода getFloatValue.
+title: "CSSPrimitiveValue.CSS_DIMENSION"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_DIMENSION поле. Значение — число с неизвестной размерностью. Значение можно получить, используя метод getFloatValue."
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_dimension/
 ---
 ## CSSPrimitiveValue.CSS_DIMENSION field
 
-Значение представляет собой число с неизвестной размерностью. Значение можно получить с помощью метода getFloatValue.
+Значение — число с неизвестным измерением. Значение можно получить с помощью метода getFloatValue.
 
 ```csharp
 public const ushort CSS_DIMENSION;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

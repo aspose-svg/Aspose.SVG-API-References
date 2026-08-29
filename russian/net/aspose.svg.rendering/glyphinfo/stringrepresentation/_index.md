@@ -1,7 +1,7 @@
 ---
-title: GlyphInfo.StringRepresentation
-second_title: Справочник по Aspose.SVG для .NET API
-description: GlyphInfo свойство. Получает строковое представление этого глифа.
+title: "GlyphInfo.StringRepresentation"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GlyphInfo StringRepresentation. Возвращает строковое представление этого глифа"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
 public string StringRepresentation { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-АString который представляет этот глиф.
+String, представляющая этот глиф.
 
-### Смотрите также
+### См. также
 
 * struct [GlyphInfo](../)
-* пространство имен [Aspose.Svg.Rendering](../../glyphinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

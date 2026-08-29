@@ -1,7 +1,7 @@
 ---
-title: Color.Green
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color свойство. Представляет зеленый компонент цвета.
+title: "Color.Green"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Color Green. Представляет зеленый компонент цвета."
 type: docs
 weight: 260
 url: /ru/net/aspose.svg.drawing/color/green/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/color/green/
 public float Green { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_PAD
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGradientElement поле. Соответствует значению pad.
+title: "SVGGradientElement.SVG_SPREADMETHOD_PAD"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGGradientElement SVG_SPREADMETHOD_PAD. Соответствует значению pad"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svggradientelement/svg_spreadmethod_pad/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg/svggradientelement/svg_spreadmethod_pad/
 public const ushort SVG_SPREADMETHOD_PAD;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGGradientElement](../)
-* пространство имен [Aspose.Svg](../../svggradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

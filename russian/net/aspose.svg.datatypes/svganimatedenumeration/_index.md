@@ -1,20 +1,20 @@
 ---
-title: Class SVGAnimatedEnumeration
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedEnumeration сорт. Используется для атрибутов значение которых должно быть константой из определенного перечисления и которые можно анимировать.
+title: "SVGAnimatedEnumeration Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.DataTypes.SVGAnimatedEnumeration класс. Используется для атрибутов, значение которых должно быть константой из определённого перечисления и которые могут быть анимированы"
 type: docs
-weight: 110
+weight: 2100
 url: /ru/net/aspose.svg.datatypes/svganimatedenumeration/
 ---
 ## SVGAnimatedEnumeration class
 
-Используется для атрибутов, значение которых должно быть константой из определенного перечисления и которые можно анимировать.
+Используется для атрибутов, значение которых должно быть константой из определённого перечисления и которые могут быть анимированы.
 
 ```csharp
 public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,14 +25,12 @@ public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

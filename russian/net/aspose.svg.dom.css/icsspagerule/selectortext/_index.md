@@ -1,27 +1,25 @@
 ---
-title: ICSSPageRule.SelectorText
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSPageRule свойство. Поддающееся разбору текстовое представление селектора страниц для правила.
+title: "ICSSPageRule.SelectorText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SelectorText интерфейса ICSSPageRule. Парсимое текстовое представление селектора страницы для правила."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icsspagerule/selectortext/
 ---
 ## ICSSPageRule.SelectorText property
 
-Поддающееся разбору текстовое представление селектора страниц для правила.
+Разбираемое текстовое представление селектора страницы для правила.
 
 ```csharp
 public string SelectorText { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Текст селектора.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSPageRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

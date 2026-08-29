@@ -1,23 +1,21 @@
 ---
-title: DOMException.INVALID_CHARACTER_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Если указан недопустимый или недопустимый символ например в имени XML.
+title: "DOMException.INVALID_CHARACTER_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException INVALID_CHARACTER_ERR. Если указан недопустимый или нелегальный символ, например в имени XML"
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.dom/domexception/invalid_character_err/
 ---
 ## DOMException.INVALID_CHARACTER_ERR field
 
-Если указан недопустимый или недопустимый символ, например, в имени XML.
+Если указано недопустимое или незаконное символ, например в имени XML.
 
 ```csharp
 public const ushort INVALID_CHARACTER_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

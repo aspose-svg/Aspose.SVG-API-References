@@ -1,7 +1,7 @@
 ---
-title: XpsRenderingOptions.XpsRenderingOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: XpsRenderingOptions строитель. Конструктор по умолчанию.
+title: "XpsRenderingOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "XpsRenderingOptions конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.xps/xpsrenderingoptions/xpsrenderingoptions/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering.xps/xpsrenderingoptions/xpsrenderingoptions/
 public XpsRenderingOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XpsRenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsrenderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

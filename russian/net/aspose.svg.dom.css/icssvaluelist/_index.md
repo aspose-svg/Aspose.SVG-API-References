@@ -1,29 +1,27 @@
 ---
-title: Interface ICSSValueList
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.ICSSValueList интерфейс. Интерфейс обеспечивает абстракцию упорядоченного набора значений CSS.
+title: "ICSSValueList интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.ICSSValueList интерфейс. Этот интерфейс предоставляет абстракцию упорядоченной коллекции CSS‑значений."
 type: docs
-weight: 680
+weight: 2680
 url: /ru/net/aspose.svg.dom.css/icssvaluelist/
 ---
 ## ICSSValueList interface
 
-Интерфейс обеспечивает абстракцию упорядоченного набора значений CSS.
+Интерфейс предоставляет абстракцию упорядоченной коллекции значений CSS.
 
 ```csharp
 public interface ICSSValueList
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/icssvaluelist/item/) { get; } | Метод возвращает[`CSSValue`](../cssvalue/) по указанному индексу. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
+| [Item](../../aspose.svg.dom.css/icssvaluelist/item/) { get; } | Метод возвращает [`CSSValue`](../cssvalue/) по указанному индексу. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
 | [Length](../../aspose.svg.dom.css/icssvaluelist/length/) { get; } | Количество CSSValues в списке. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

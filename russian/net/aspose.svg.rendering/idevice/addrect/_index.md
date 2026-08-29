@@ -1,14 +1,14 @@
 ---
-title: IDevice.AddRect
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Добавляет прямоугольник к текущему пути в качестве полного подпути.
+title: "IDevice.AddRect"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice AddRect. Добавляет прямоугольник к текущему пути как отдельный подпуть"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering/idevice/addrect/
 ---
 ## IDevice.AddRect method
 
-Добавляет прямоугольник к текущему пути в качестве полного подпути.
+Добавляет прямоугольник к текущему пути как отдельный подпуть.
 
 ```csharp
 public void AddRect(RectangleF rect)
@@ -18,10 +18,8 @@ public void AddRect(RectangleF rect)
 | --- | --- | --- |
 | rect | RectangleF | Прямоугольник для рисования. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

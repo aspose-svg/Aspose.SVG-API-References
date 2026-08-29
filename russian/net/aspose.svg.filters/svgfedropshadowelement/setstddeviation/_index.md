@@ -1,14 +1,14 @@
 ---
-title: SVGFEDropShadowElement.SetStdDeviation
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDropShadowElement метод. Устанавливает значения для атрибута stdDeviation.
+title: "SVGFEDropShadowElement.SetStdDeviation"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEDropShadowElement SetStdDeviation метод. Устанавливает значения атрибута stdDeviation"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.filters/svgfedropshadowelement/setstddeviation/
 ---
 ## SVGFEDropShadowElement.SetStdDeviation method
 
-Устанавливает значения для атрибута 'stdDeviation'.
+Устанавливает значения атрибута ‘stdDeviation’.
 
 ```csharp
 public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
@@ -16,19 +16,17 @@ public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stdDeviationX | Single | Компонент X атрибута 'stdDeviation'. |
-| stdDeviationY | Single | Компонент Y атрибута 'stdDeviation'. |
+| stdDeviationX | Single | X-компонент атрибута ‘stdDeviation’. |
+| stdDeviationY | Single | Y‑компонент атрибута ‘stdDeviation’. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGFEDropShadowElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

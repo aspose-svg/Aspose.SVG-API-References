@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_S
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой время с. Значение можно получить с помощью метода getFloatValue.
+title: "CSSPrimitiveValue.CSS_S"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_S поле. Значение представляет собой время в секундах (s). Значение можно получить, используя метод getFloatValue."
 type: docs
-weight: 380
+weight: 390
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_s/
 ---
 ## CSSPrimitiveValue.CSS_S field
 
-Значение представляет собой время (с). Значение можно получить с помощью метода getFloatValue.
+Значение — это время (s). Значение можно получить, используя метод getFloatValue.
 
 ```csharp
 public const ushort CSS_S;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

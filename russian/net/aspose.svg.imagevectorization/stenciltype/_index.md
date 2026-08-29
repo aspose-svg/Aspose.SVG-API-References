@@ -1,30 +1,28 @@
 ---
-title: Enum StencilType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.ImageVectorization.StencilType перечисление. StencilType enum определяет типы трафаретов.
+title: "Перечисление StencilType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Перечисление Aspose.Svg.ImageVectorization.StencilType. Перечисление StencilType определяет типы трафаретов"
 type: docs
-weight: 2180
+weight: 4250
 url: /ru/net/aspose.svg.imagevectorization/stenciltype/
 ---
 ## StencilType enumeration
 
-`StencilType` enum определяет типы трафаретов.
+Перечисление `StencilType` определяет типы трафаретов.
 
 ```csharp
 public enum StencilType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Эффект трафарета не будет применен. |
-| MonoColor | `1` | Для рендеринга линий трафарета используется только один цвет. |
-| Auto | `2` | Цвета для рендеринга линий трафарета определяются автоматически. |
+| None | `0` | Эффект трафарета не будет применён. |
+| MonoColor | `1` | Для отрисовки линий трафарета используется только один цвет. |
+| Auto | `2` | Цвета для отрисовки линий трафарета определяются автоматически. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

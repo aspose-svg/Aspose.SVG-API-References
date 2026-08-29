@@ -1,14 +1,14 @@
 ---
-title: IXPathEvaluator.Evaluate
-second_title: Справочник по Aspose.SVG для .NET API
-description: IXPathEvaluator метод. Вычисляет строку выражения XPath и возвращает результат указанного типа если это возможно.
+title: "IXPathEvaluator.Evaluate"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IXPathEvaluator Evaluate. Выполняет оценку строки XPath‑выражения и, если возможно, возвращает результат указанного типа."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.xpath/ixpathevaluator/evaluate/
 ---
 ## IXPathEvaluator.Evaluate method
 
-Вычисляет строку выражения XPath и возвращает результат указанного типа, если это возможно.
+Выполняет оценку строки XPath‑выражения и возвращает результат указанного типа, если это возможно.
 
 ```csharp
 public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolver resolver, 
@@ -17,34 +17,32 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| expression | String | Строка выражения XPath для анализа и оценки. |
-| contextNode | Node | `контекст` является контекстным узлом для оценки этого выражения XPath. Если[`IXPathEvaluator`](../) был получен путем литья [`Document`](../../../aspose.svg.dom/document/) то он должен принадлежать тому же документу и должен быть [`Document`](../../../aspose.svg.dom/document/) ,[`Element`](../../../aspose.svg.dom/element/) ,[`Attr`](../../../aspose.svg.dom/attr/) ,[`Text`](../../../aspose.svg.dom/text/) , [`CDATASection`](../../../aspose.svg.dom/cdatasection/) ,[`Comment`](../../../aspose.svg.dom/comment/) ,[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) , илиXPathNamespace узел. Если узел контекста является[`Text`](../../../aspose.svg.dom/text/) или [`CDATASection`](../../../aspose.svg.dom/cdatasection/)тогда контекст интерпретируется как весь логический текстовый узел , видимый XPath, если узел не пуст, и в этом случае он не может служить контекстом XPath. |
-| resolver | IXPathNSResolver | `резольвер` разрешает перевод всех префиксов, включая `XML` префикс пространства имен в выражении XPath в соответствующие URI пространства имен. Если это указано как`нулевой` , любой префикс пространства имен в выражении приведет к в[`DOMException`](../../../aspose.svg.dom/domexception/) бросают с кодом`NAMESPACE_ERR`. |
-| type | XPathResultType | Если конкретный`тип` указан, то результат будет возвращен как соответствующего типа. Для результатов XPath 1.0 это должно быть одно из значений [`XPathResultType`](../../xpathresulttype/) перечисление |
-| result | Object | `результат` указывает конкретный объект результата, который может быть повторно использован и возвращен этим методом. Если это указано как`нулевой`или реализация не повторно использует указанный результат, будет создан и возвращен новый объект результата. Для результатов XPath 1.0 этот объект будет иметь тип[`IXPathResult`](../../ixpathresult/). |
+| expression | String | Строка XPath‑выражения, которую нужно разобрать и оценить. |
+| contextNode | Node | Параметр `context` — это контекстный узел для оценки данного XPath‑выражения. Если [`IXPathEvaluator`](../) был получен путём приведения типа [`Document`](../../../aspose.svg.dom/document/), то этот узел должен принадлежать тому же документу и быть одним из следующих типов: [`Document`](../../../aspose.svg.dom/document/), [`Element`](../../../aspose.svg.dom/element/), [`Attr`](../../../aspose.svg.dom/attr/), [`Text`](../../../aspose.svg.dom/text/), [`CDATASection`](../../../aspose.svg.dom/cdatasection/), [`Comment`](../../../aspose.svg.dom/comment/), [`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) или узел XPathNamespace. Если контекстный узел является [`Text`](../../../aspose.svg.dom/text/) или [`CDATASection`](../../../aspose.svg.dom/cdatasection/), то контекст интерпретируется как весь логический текстовый узел, как видит его XPath, если только узел не пуст, в этом случае он не может служить контекстом XPath. |
+| resolver | IXPathNSResolver | Параметр `resolver` позволяет переводить все префиксы, включая префикс пространства имён `xml`, внутри XPath‑выражения в соответствующие URI пространств имён. Если он указан как `null`, любой префикс пространства имён внутри выражения приведёт к выбросу [`DOMException`](../../../aspose.svg.dom/domexception/) с кодом `NAMESPACE_ERR`. |
+| type | XPathResultType | Если указано конкретное `type`, результат будет возвращён в соответствующем типе. Для результатов XPath 1.0 это должно быть одно из значений перечисления [`XPathResultType`](../../xpathresulttype/). |
+| result | Object | `result` указывает конкретный объект результата, который может быть переиспользован и возвращён этим методом. Если он указан как `null` или реализация не переиспользует указанный объект, будет создан и возвращён новый объект результата. Для результатов XPath 1.0 этот объект будет типа [`IXPathResult`](../../ixpathresult/). |
 
 ### Возвращаемое значение
 
-Результат вычисления выражения XPath. Для результатов XPath 1.0 этот объект будет иметь тип[`IXPathResult`](../../ixpathresult/).
+Результат вычисления XPath‑выражения. Для результатов XPath 1.0 этот объект будет типа [`IXPathResult`](../../ixpathresult/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: Возникает, если выражение недопустимо в соответствии с правилами[`IXPathEvaluator`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: Возникает, если результат не может быть преобразован для возврата указанного типа . |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: Возникает, если выражение содержит префиксы пространств имен , которые не могут быть разрешены указанным[`IXPathNSResolver`](../../ixpathnsresolver/). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: узел взят из документа, который не поддерживается этим[`IXPathEvaluator`](../). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Тип узла не разрешен в качестве узла контекста XPath , или тип запроса не разрешен этим[`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_EXPRESSION_ERR: вызывается, если выражение недопустимо согласно правилам [`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: Возникает, если результат нельзя преобразовать к указанному типу. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NAMESPACE_ERR: вызывается, если выражение содержит префиксы пространств имён, которые не могут быть разрешены указанным [`IXPathNSResolver`](../../ixpathnsresolver/). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: Узел принадлежит документу, который не поддерживается этим [`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Узел не является типом, допускаемым в качестве контекстного узла XPath, или запрашиваемый тип не поддерживается этим [`IXPathEvaluator`](../). |
 
-### Смотрите также
+### См. также
 
 * interface [IXPathResult](../../ixpathresult/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathNSResolver](../../ixpathnsresolver/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathEvaluator](../)
-* пространство имен [Aspose.Svg.Dom.XPath](../../ixpathevaluator/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

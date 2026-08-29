@@ -1,28 +1,26 @@
 ---
-title: SVGPolygonElement.Points
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPolygonElement свойство. Предоставляет доступ к базовому т.е. статическому содержимому атрибута точки.
+title: "SVGPolygonElement.Points"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Points класса SVGPolygonElement. Предоставляет доступ к базовому, то есть статическому содержимому атрибута points."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgpolygonelement/points/
 ---
 ## SVGPolygonElement.Points property
 
-Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута «точки».
+Обеспечивает доступ к базовому (т.е. статическому) содержимому атрибута ‘points’.
 
 ```csharp
 public SVGPointList Points { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Содержимое атрибута «точки»
+Содержимое атрибута ‘points’
 
-### Смотрите также
+### См. также
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * class [SVGPolygonElement](../)
-* пространство имен [Aspose.Svg](../../svgpolygonelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

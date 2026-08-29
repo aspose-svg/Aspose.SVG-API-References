@@ -1,20 +1,20 @@
 ---
-title: Interface IDeviceInformationService
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Services.IDeviceInformationService интерфейс. Интерфейс описывающий среду в которойDocument представляется пользователю.
+title: "IDeviceInformationService Интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Services.IDeviceInformationService интерфейс. Интерфейс, описывающий окружение, в котором Document представляется пользователю"
 type: docs
-weight: 3710
+weight: 5840
 url: /ru/net/aspose.svg.services/ideviceinformationservice/
 ---
 ## IDeviceInformationService interface
 
-Интерфейс, описывающий среду, в которой[`Document`](../../aspose.svg.dom/document/) представляется пользователю.
+Интерфейс, описывающий окружение, в котором [`Document`](../../aspose.svg.dom/document/) представляется пользователю.
 
 ```csharp
-public interface IDeviceInformationService : IService
+public interface IDeviceInformationService
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -23,10 +23,7 @@ public interface IDeviceInformationService : IService
 | [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution/) { get; set; } | Получает или задает вертикальное разрешение. |
 | [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize/) { get; set; } | Получает или задает размер окна. |
 
-### Смотрите также
+### См. также
 
-* interface [IService](../iservice/)
-* пространство имен [Aspose.Svg.Services](../../aspose.svg.services/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

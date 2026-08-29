@@ -1,7 +1,7 @@
 ---
-title: Length.op_Addition
-second_title: Справочник по Aspose.SVG для .NET API
-description: Length метод. Реализует оператор .
+title: "Length.op_Addition"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Length op_Addition. Реализует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/length/op_addition/
@@ -16,8 +16,8 @@ public static Length operator +(Length a, Length b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Length | Параметр а. |
-| b | Length | Параметр б. |
+| a | Length | Параметр a. |
+| b | Length | Параметр b. |
 
 ### Возвращаемое значение
 
@@ -27,13 +27,11 @@ public static Length operator +(Length a, Length b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Аргументы пусты |
-| ArgumentException | Аргументы имеют разные типы или Аргументы имеют разное разрешение или |
+| ArgumentNullException | Аргументы равны null |
+| ArgumentException | Аргументы имеют разные типы или аргументы имеют разное разрешение или |
 
-### Смотрите также
+### См. также
 
 * class [Length](../)
-* пространство имен [Aspose.Svg.Drawing](../../length/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

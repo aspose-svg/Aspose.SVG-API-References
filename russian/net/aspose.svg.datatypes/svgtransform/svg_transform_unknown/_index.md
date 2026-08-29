@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_UNKNOWN
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTransform поле. Тип юнита не является одним из предопределенных типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
+title: "SVGTransform.SVG_TRANSFORM_UNKNOWN"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGTransform SVG_TRANSFORM_UNKNOWN. Тип единицы не является одним из предопределённых типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип."
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.datatypes/svgtransform/svg_transform_unknown/
 ---
 ## SVGTransform.SVG_TRANSFORM_UNKNOWN field
 
-Тип юнита не является одним из предопределенных типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
+Тип единицы не является одним из предопределённых типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
 
 ```csharp
 public const ushort SVG_TRANSFORM_UNKNOWN;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgtransform/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

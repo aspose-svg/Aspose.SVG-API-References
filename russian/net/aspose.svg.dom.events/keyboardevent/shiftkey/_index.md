@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.ShiftKey
-second_title: Справочник по Aspose.SVG для .NET API
-description: KeyboardEvent свойство. true если модификатор клавиши Shift Shift был активен.
+title: "KeyboardEvent.ShiftKey"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство KeyboardEvent ShiftKey. true, если модификатор клавиши Shift был активен."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom.events/keyboardevent/shiftkey/
 ---
 ## KeyboardEvent.ShiftKey property
 
-true, если модификатор клавиши Shift (Shift) был активен.
+true, если модификатор клавиши shift (Shift) был активен.
 
 ```csharp
 public bool ShiftKey { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если Сдвиг; в противном случае,`ЛОЖЬ` .
+`true` если Shift; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [KeyboardEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

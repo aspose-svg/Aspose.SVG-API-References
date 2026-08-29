@@ -1,23 +1,21 @@
 ---
-title: IMediaList.MediaText
-second_title: Справочник по Aspose.SVG для .NET API
-description: IMediaList свойство. Анализируемое текстовое представление списка мультимедиа. Это список медиафайлов разделенных запятыми.
+title: "IMediaList.MediaText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MediaText интерфейса IMediaList. Парсимое текстовое представление списка медиа. Это список медиа, разделённый запятыми"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/imedialist/mediatext/
 ---
 ## IMediaList.MediaText property
 
-Анализируемое текстовое представление списка мультимедиа. Это список медиафайлов, разделенных запятыми.
+Разбираемое текстовое представление списка носителей. Это список носителей, разделённых запятыми.
 
 ```csharp
 public string MediaText { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IMediaList](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../imedialist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

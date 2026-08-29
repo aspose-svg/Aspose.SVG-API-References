@@ -1,9 +1,9 @@
 ---
-title: Class ContentHeaders
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.ContentHeaders сорт. Содержит заголовки связанные с контентом.
+title: "Класс ContentHeaders"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.ContentHeaders. Содержит заголовки, связанные с содержимым"
 type: docs
-weight: 2240
+weight: 4310
 url: /ru/net/aspose.svg.net/contentheaders/
 ---
 ## ContentHeaders class
@@ -18,17 +18,21 @@ public class ContentHeaders : WebHeaderCollection
 
 | Имя | Описание |
 | --- | --- |
-| [ContentHeaders](contentheaders/)() | Инициализирует новый экземпляр`ContentHeaders` класс. |
+| [ContentHeaders](contentheaders/)() | Инициализирует новый экземпляр класса `ContentHeaders`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
 | [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | Получает значение заголовка Content-Type. |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 индексатора) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net](../../aspose.svg.net/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

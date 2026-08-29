@@ -1,23 +1,18 @@
 ---
-title: Aspose.Svg.Services
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Services пространство имен содержит интерфейсы в качестве протоколов для реализации службы.
+title: "Aspose.Svg.Services"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имён Aspose.Svg.Services содержит интерфейсы, выступающие в роли протоколов для реализаций сервисов."
 type: docs
-weight: 310
+weight: 340
 url: /ru/net/aspose.svg.services/
 ---
-**Aspose.Svg.Services** пространство имен содержит интерфейсы в качестве протоколов для реализации службы.
+Пространство имён **Aspose.Svg.Services** содержит интерфейсы, выступающие в роли протоколов для реализаций сервисов.
 
 ## Интерфейсы
 
 | Интерфейс | Описание |
 | --- | --- |
-| [IDeviceInformationService](./ideviceinformationservice/) | Интерфейс, описывающий среду, в которой[`Document`](../aspose.svg.dom/document/) представляется пользователю. |
+| [IDeviceInformationService](./ideviceinformationservice/) | Интерфейс, описывающий окружение, в котором [`Document`](../aspose.svg.dom/document/) представляется пользователю. |
 | [INetworkService](./inetworkservice/) | Предоставляет интерфейс для сетевых операций. |
-| [IRuntimeService](./iruntimeservice/) | Эта служба используется для настройки свойств, связанных со средой выполнения. |
-| [IService](./iservice/) | Определяет базовый интерфейс для реализации службы. |
-| [IServiceContainer](./iservicecontainer/) | Предоставляет контейнер для сервисов. |
-| [IServiceProvider](./iserviceprovider/) | Предоставляет неизменяемый контейнер для сервисов. |
-| [IUserAgentService](./iuseragentservice/) | Интерфейс, описывающий среду пользовательского агента. |
-
-
+| [IRuntimeService](./iruntimeservice/) | Этот сервис используется для настройки свойств, связанных с временем выполнения. |
+| [IUserAgentService](./iuseragentservice/) | Интерфейс, описывающий окружение пользовательского агента. |

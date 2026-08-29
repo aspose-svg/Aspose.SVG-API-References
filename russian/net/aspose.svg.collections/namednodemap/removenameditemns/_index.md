@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.RemoveNamedItemNS
-second_title: Справочник по Aspose.SVG для .NET API
-description: NamedNodeMap метод. Удаляет узел указанный локальным именем и URI пространства имен.
+title: "NamedNodeMap.RemoveNamedItemNS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод RemoveNamedItemNS в NamedNodeMap. Удаляет узел, указанный по локальному имени и URI пространства имён."
 type: docs
-weight: 70
+weight: 60
 url: /ru/net/aspose.svg.collections/namednodemap/removenameditemns/
 ---
 ## NamedNodeMap.RemoveNamedItemNS method
 
-Удаляет узел, указанный локальным именем и URI пространства имен.
+Удаляет узел, указанный по локальному имени и URI пространства имён.
 
 ```csharp
 public Attr RemoveNamedItemNS(string namespaceURI, string localName)
@@ -16,18 +16,16 @@ public Attr RemoveNamedItemNS(string namespaceURI, string localName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
-| localName | String | Имя местного. |
+| namespaceURI | String | URI пространства имён. |
+| localName | String | Локальное имя. |
 
 ### Возвращаемое значение
 
 Возвращает узел.
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* пространство имен [Aspose.Svg.Collections](../../namednodemap/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

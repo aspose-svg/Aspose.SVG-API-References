@@ -1,7 +1,7 @@
 ---
-title: EntityReference.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: EntityReference свойство. Код представляющий тип базового объекта.
+title: "EntityReference.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство EntityReference NodeType. Код, представляющий тип базового объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/entityreference/nodetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/entityreference/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип узла.
 
-### Смотрите также
+### См. также
 
 * class [EntityReference](../)
-* пространство имен [Aspose.Svg.Dom](../../entityreference/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

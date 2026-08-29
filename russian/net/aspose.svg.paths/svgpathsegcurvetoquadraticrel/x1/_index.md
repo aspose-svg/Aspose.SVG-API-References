@@ -1,20 +1,20 @@
 ---
-title: SVGPathSegCurvetoQuadraticRel.X1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegCurvetoQuadraticRel свойство. Относительная координата X для первой контрольной точки.
+title: "SVGPathSegCurvetoQuadraticRel.X1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathSegCurvetoQuadraticRel X1. Относительная координата X первой контрольной точки"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetoquadraticrel/x1/
 ---
 ## SVGPathSegCurvetoQuadraticRel.X1 property
 
-Относительная координата X для первой контрольной точки.
+Относительная координата X первой контрольной точки.
 
 ```csharp
 public float X1 { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Относительная координата X
 
@@ -22,12 +22,10 @@ public float X1 { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoQuadraticRel](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegcurvetoquadraticrel/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

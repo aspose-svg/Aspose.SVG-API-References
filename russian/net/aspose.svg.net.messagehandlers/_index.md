@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.MessageHandlers
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.MessageHandlers пространство имен is представлено классами  обработчиками сообщений разных протоколов.
+title: "Aspose.Svg.Net.MessageHandlers"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имен Aspose.Svg.Net.MessageHandlers представлено классами — обработчиками сообщений различных протоколов."
 type: docs
-weight: 220
+weight: 240
 url: /ru/net/aspose.svg.net.messagehandlers/
 ---
-**Aspose.Svg.Net.MessageHandlers** пространство имен is представлено классами — обработчиками сообщений разных протоколов.
+Пространство имён **Aspose.Svg.Net.MessageHandlers** представлено классами — обработчиками сообщений различных протоколов.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Представляет`файл:` обработчик сообщений протокола. |
-| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Представляет`FTP:` обработчик сообщений протокола. |
-| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Представляет`http:` обработчик сообщений протокола. |
-
-
+| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Представляет обработчик сообщений протокола `file:`. |
+| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Представляет обработчик сообщений протокола `ftp:`. |
+| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Представляет обработчик сообщений протокола `http:`. |

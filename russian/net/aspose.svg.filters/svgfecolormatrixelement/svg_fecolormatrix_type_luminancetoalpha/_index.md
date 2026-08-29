@@ -1,7 +1,7 @@
 ---
-title: SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEColorMatrixElement поле. Соответствует значению luminanceToAlpha.
+title: "SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEColorMatrixElement SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA поле. Соответствует значению luminanceToAlpha"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_luminancetoalpha/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_l
 public const ushort SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEColorMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.GraphicContext
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext строитель. Инициализирует новый экземплярGraphicContext класс.
+title: "GraphicContext"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор GraphicContext. Инициализирует новый экземпляр класса GraphicContext."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/graphiccontext/graphiccontext/
 ---
 ## GraphicContext constructor
 
-Инициализирует новый экземпляр[`GraphicContext`](../) класс.
+Инициализирует новый экземпляр класса [`GraphicContext`](../).
 
 ```csharp
 public GraphicContext()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

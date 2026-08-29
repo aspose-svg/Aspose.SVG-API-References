@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BorderLeft
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства borderleft в CSS2.
+title: "ICSS2Properties.BorderLeft"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSS2Properties BorderLeft свойство. См. определение свойства border-left в CSS2"
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderleft/
@@ -16,12 +16,10 @@ public string BorderLeft { get; set; }
 
 ### Возвращаемое значение
 
-собственность на левой границе
+свойство border-left
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

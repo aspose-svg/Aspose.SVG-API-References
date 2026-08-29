@@ -1,14 +1,14 @@
 ---
-title: Document.CreateCDATASection
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает узел CDATASection значением которого является указанная строка.
+title: "Document.CreateCDATASection"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateCDATASection. Создает узел CDATASection, значение которого равно указанной строке"
 type: docs
 weight: 810
 url: /ru/net/aspose.svg.dom/document/createcdatasection/
 ---
 ## Document.CreateCDATASection method
 
-Создает узел CDATASection, значением которого является указанная строка.
+Создаёт узел CDATASection, значение которого равно указанной строке.
 
 ```csharp
 public CDATASection CreateCDATASection(string data)
@@ -16,17 +16,15 @@ public CDATASection CreateCDATASection(string data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | String | Данные CDATA. |
+| данные | String | Данные CDATA. |
 
 ### Возвращаемое значение
 
-[`CDATASection`](../../cdatasection/) .
+Элемент [`CDATASection`](../../cdatasection/).
 
-### Смотрите также
+### См. также
 
 * class [CDATASection](../../cdatasection/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

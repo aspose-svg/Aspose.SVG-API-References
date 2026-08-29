@@ -1,17 +1,17 @@
 ---
-title: DOMTokenList.Item
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMTokenList свойство. Возвращает элемент в списке по его индексу или null если индекс больше или равен длине списка.
+title: "DOMTokenList.Item"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство DOMTokenList Item. Возвращает элемент списка по его индексу или null, если индекс больше или равен длине списка."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.collections/domtokenlist/item/
 ---
 ## DOMTokenList indexer
 
-Возвращает элемент в списке по его индексу или null, если индекс больше или равен длине списка.
+Возвращает элемент списка по его индексу или null, если индекс больше или равен длине списка.
 
 ```csharp
-public string this[ulong index] { get; }
+public string this[uint index] { get; }
 ```
 
 | Параметр | Описание |
@@ -22,10 +22,8 @@ public string this[ulong index] { get; }
 
 Строка, представляющая токен в списке.
 
-### Смотрите также
+### См. также
 
 * class [DOMTokenList](../)
-* пространство имен [Aspose.Svg.Collections](../../domtokenlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

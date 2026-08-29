@@ -1,14 +1,14 @@
 ---
-title: ITreeWalker.NextNode
-second_title: Справочник по Aspose.SVG для .NET API
-description: ITreeWalker метод. Перемещает TreeWalker на следующий видимый узел в порядке document относительно текущего узла и возвращает новый узел. Если текущий узел не имеет следующего узла или если поиск nextNode пытается сделать шаг вверх от узла root TreeWalker возвращает значение null и сохраняет текущий узел.
+title: "ITreeWalker.NextNode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ITreeWalker NextNode. Перемещает TreeWalker к следующему видимому узлу в порядке документа относительно текущего узла и возвращает новый узел. Если у текущего узла нет следующего узла или если поиск nextNode пытается подняться выше корневого узла TreeWalker, возвращает null и сохраняет текущий узел."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.traversal/itreewalker/nextnode/
 ---
 ## ITreeWalker.NextNode method
 
-Перемещает TreeWalker на следующий видимый узел в порядке document относительно текущего узла и возвращает новый узел. Если текущий узел не имеет следующего узла или если поиск nextNode пытается сделать шаг вверх от узла root TreeWalker, возвращает значение null и сохраняет текущий узел.
+Перемещает TreeWalker к следующему видимому узлу в порядке следования документа относительно текущего узла и возвращает новый узел. Если у текущего узла нет следующего узла или поиск nextNode пытается подняться выше корневого узла TreeWalker, возвращает null и сохраняет текущий узел.
 
 ```csharp
 public Node NextNode()
@@ -16,13 +16,11 @@ public Node NextNode()
 
 ### Возвращаемое значение
 
-Новый узел или null, если текущий узел не имеет следующего узла в логическом представлении TreeWalker.
+Новый узел, или null, если у текущего узла нет следующего узла в логическом представлении TreeWalker.
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

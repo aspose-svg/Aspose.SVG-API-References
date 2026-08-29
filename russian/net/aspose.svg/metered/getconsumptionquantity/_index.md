@@ -1,7 +1,7 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Справочник по Aspose.SVG для .NET API
-description: Metered метод. Получает размер файла потребления
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Metered GetConsumptionQuantity. Получает размер файла потребления"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/metered/getconsumptionquantity/
@@ -16,12 +16,10 @@ public static decimal GetConsumptionQuantity()
 
 ### Возвращаемое значение
 
-объем потребления
+количество потребления
 
-### Смотрите также
+### См. также
 
 * class [Metered](../)
-* пространство имен [Aspose.Svg](../../metered/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

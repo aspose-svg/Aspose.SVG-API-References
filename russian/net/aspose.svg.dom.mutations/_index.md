@@ -1,20 +1,18 @@
 ---
-title: Aspose.Svg.Dom.Mutations
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Mutations предоставляет возможность наблюдать мутации DOM и получать конкретную информацию об обратном вызове.
+title: "Aspose.Svg.Dom.Mutations"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Mutations предоставляет возможность наблюдать за изменениями DOM и получать конкретную информацию о обратных вызовах."
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/aspose.svg.dom.mutations/
 ---
-**Aspose.Svg.Dom.Mutations** предоставляет возможность наблюдать мутации DOM и получать конкретную информацию об обратном вызове.
+Пространство имён **Aspose.Svg.Dom.Mutations** предоставляет возможность наблюдать за мутациями DOM и получать конкретную информацию обратных вызовов.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [MutationCallback](./mutationcallback/) | Представляет метод, который будет обрабатывать события мутации. |
-| [MutationObserver](./mutationobserver/) | А[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) объект можно использовать для наблюдения за мутациями в дереве[`Node`](../aspose.svg.dom/node/) . |
-| [MutationObserverInit](./mutationobserverinit/) | Этот класс представляет набор опций, который используется для настройки[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) . |
-| [MutationRecord](./mutationrecord/) | MutationRecord представляет собой индивидуальную мутацию DOM. Это объект, который передается[`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) с[`MutationCallback`](../aspose.svg.dom.mutations/mutationcallback/) . |
-
-
+| [MutationObserver](./mutationobserver/) | Объект [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/) можно использовать для наблюдения за изменениями в дереве [`Node`](../aspose.svg.dom/node/). |
+| [MutationObserverInit](./mutationobserverinit/) | Этот класс представляет коллекцию параметров, используемую для настройки [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/). |
+| [MutationRecord](./mutationrecord/) | Объект MutationRecord представляет отдельную мутацию DOM. Это объект, который передаётся в [`MutationObserver`](../aspose.svg.dom.mutations/mutationobserver/)'s [`MutationCallback`](../aspose.svg.dom.mutations/mutationcallback/). |

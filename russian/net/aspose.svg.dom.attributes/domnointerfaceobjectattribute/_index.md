@@ -1,14 +1,14 @@
 ---
-title: Class DOMNoInterfaceObjectAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute сорт. Если в интерфейсе появляется расширенный атрибут NoInterfaceObject это означает что объект интерфейса не будет существовать для интерфейса в привязке ECMAScript.
+title: "Класс DOMNoInterfaceObjectAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute. Если расширенный атрибут NoInterfaceObject присутствует в интерфейсе, это указывает, что объект интерфейса не будет существовать для данного интерфейса в привязке ECMAScript."
 type: docs
-weight: 400
+weight: 2400
 url: /ru/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class
 
-Если в интерфейсе появляется расширенный атрибут [NoInterfaceObject], это означает, что объект интерфейса не будет существовать для интерфейса в привязке ECMAScript.
+Если расширенный атрибут [NoInterfaceObject] появляется в интерфейсе, это указывает, что объект интерфейса не будет существовать для данного интерфейса в привязке ECMAScript.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -21,9 +21,13 @@ public sealed class DOMNoInterfaceObjectAttribute : Attribute
 | --- | --- |
 | [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | Конструктор по умолчанию. |
 
-### Смотрите также
+## Свойства
 
-* пространство имен [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* сборка [Aspose.SVG](../../)
+| Имя | Описание |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### См. также
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

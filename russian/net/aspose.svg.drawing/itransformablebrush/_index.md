@@ -1,30 +1,28 @@
 ---
-title: Interface ITransformableBrush
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.ITransformableBrush интерфейс. Описывает методы получения матрицы преобразования и режима переноса.
+title: "Интерфейс ITransformableBrush"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Drawing.ITransformableBrush. Объявляет методы для получения матрицы преобразования и режима обтекания."
 type: docs
-weight: 1500
+weight: 3530
 url: /ru/net/aspose.svg.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface
 
-Описывает методы получения матрицы преобразования и режима переноса.
+Объявляет методы получения матрицы преобразования и режима обтекания.
 
 ```csharp
 public interface ITransformableBrush : IBrush
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; } | Получить трансформацию. Преобразование определяет локальное геометрическое преобразование для этой кисти. |
-| [WrapMode](../../aspose.svg.drawing/itransformablebrush/wrapmode/) { get; } | Получает или задает режим переноса. Режим обтекания определяет, как текстура или градиент укладываются , когда они меньше, чем заполняемая область. |
+| [SpreadMode](../../aspose.svg.drawing/itransformablebrush/spreadmode/) { get; set; } | Получает или задает режим SpreadMode. Режим SpreadMode определяет, как текстура или градиент заполняются плиткой, когда они меньше области заполнения. |
+| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; set; } | Получить преобразование. Преобразование определяет локальное геометрическое преобразование для этой кисти. |
 
-### Смотрите также
+### См. также
 
 * interface [IBrush](../ibrush/)
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BackgroundPosition
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства backgroundposition в CSS2.
+title: "ICSS2Properties.BackgroundPosition"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BackgroundPosition интерфейса ICSS2Properties. См. определение свойства background-position в CSS2"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.css/icss2properties/backgroundposition/
@@ -18,10 +18,8 @@ public string BackgroundPosition { get; set; }
 
 свойство background-position
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

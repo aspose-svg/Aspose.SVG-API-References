@@ -1,7 +1,7 @@
 ---
-title: Document.Location
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Расположение документа.
+title: "Document.Location"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document Location. Расположение документа."
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.dom/document/location/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom/document/location/
 public Location Location { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Местоположение.
+Расположение.
 
-### Смотрите также
+### См. также
 
 * class [Location](../../../aspose.svg.window/location/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.In1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDiffuseLightingElement свойство. Соответствует атрибуту in данного элемента feDiffuseLighting.
+title: "SVGFEDiffuseLightingElement.In1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство In1 элемента SVGFEDiffuseLightingElement. Соответствует атрибуту in данного элемента feDiffuseLighting"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfediffuselightingelement/in1/
 ---
 ## SVGFEDiffuseLightingElement.In1 property
 
-Соответствует атрибуту "in" данного элемента "feDiffuseLighting".
+Соответствует атрибуту ‘in’ в данном элементе ‘feDiffuseLighting’.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут "in" данного элемента "feDiffuseLighting".
+Атрибут ‘in’ данного элемента ‘feDiffuseLighting’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDiffuseLightingElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGMarkerElement.SetOrientToAngle
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMarkerElement метод. Устанавливает значение атрибута ориентация на заданный угол.
+title: "SVGMarkerElement.SetOrientToAngle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGMarkerElement SetOrientToAngle метод. Устанавливает значение атрибута orient в заданный угол"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg/svgmarkerelement/setorienttoangle/
 ---
 ## SVGMarkerElement.SetOrientToAngle method
 
-Устанавливает значение атрибута 'ориентация' на заданный угол.
+Устанавливает значение атрибута ‘orient’ в заданный угол.
 
 ```csharp
 public void SetOrientToAngle(SVGAngle angle)
@@ -16,19 +16,17 @@ public void SetOrientToAngle(SVGAngle angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | SVGAngle | Значение угла, используемое для атрибута 'ориентация'. |
+| angle | SVGAngle | Значение угла, используемое для атрибута ‘orient’. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../../../aspose.svg.datatypes/svgangle/)
 * class [SVGMarkerElement](../)
-* пространство имен [Aspose.Svg](../../svgmarkerelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

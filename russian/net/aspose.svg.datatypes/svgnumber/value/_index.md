@@ -1,20 +1,20 @@
 ---
-title: SVGNumber.Value
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGNumber свойство. Значение данного атрибута.
+title: "SVGNumber.Value"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Value класса SVGNumber. Значение данного атрибута."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svgnumber/value/
 ---
 ## SVGNumber.Value property
 
-Значение данного атрибута.
+Значение указанного атрибута.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение.
 
@@ -22,12 +22,10 @@ public float Value { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGNumber](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgnumber/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

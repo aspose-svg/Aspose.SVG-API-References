@@ -1,46 +1,44 @@
 ---
-title: Class TypeInfo
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.TypeInfo сорт. TypeInfo представляет тип на который ссылаются узлы Element или Attr указанные в схемах связанных с документом.
+title: "Класс TypeInfo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.TypeInfo class. TypeInfo представляет тип, на который ссылаются узлы Element или Attr, указанные в схемах, связанных с документом."
 type: docs
-weight: 1280
+weight: 3280
 url: /ru/net/aspose.svg.dom/typeinfo/
 ---
 ## TypeInfo class
 
-TypeInfo представляет тип, на который ссылаются узлы Element или Attr, указанные в схемах, связанных с документом.
+TypeInfo представляет тип, на который ссылаются узлы Element или Attr, указанный в схемах, связанных с документом.
 
 ```csharp
 public class TypeInfo : DOMObject
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [TypeName](../../aspose.svg.dom/typeinfo/typename/) { get; } | Имя типа, объявленного для связанного элемента или атрибута, или null, если неизвестно. |
-| [TypeNamespace](../../aspose.svg.dom/typeinfo/typenamespace/) { get; } | Получает пространство имен типа. Пространство имен типа, объявленного для связанного элемента или атрибута, или null, если у элемента нет объявления или если информация о пространстве имен недоступна. |
+| [TypeNamespace](../../aspose.svg.dom/typeinfo/typenamespace/) { get; } | Получает пространство имён типа. Пространство имён типа, объявленного для связанного элемента или атрибута, или null, если элемент не имеет объявления или если информация о пространстве имён недоступна. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom/)(string, string, ulong) | Этот метод возвращает значение, если существует производное определение ссылочного типа, т. е. TypeInfo, для которого вызывается метод, и другое определение типа, т. е. то, которое передается в качестве параметров. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom/)(*string, string, ulong*) | Этот метод возвращает, существует ли наследование между определением ссылочного типа, т.е. TypeInfo, на котором вызывается метод, и другим определением типа, т.е. переданным в параметрах. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [DERIVATION_EXTENSION](../../aspose.svg.dom/typeinfo/derivation_extension/) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет происхождение по расширению. |
-| const [DERIVATION_LIST](../../aspose.svg.dom/typeinfo/derivation_list/) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет список. |
-| const [DERIVATION_RESTRICTION](../../aspose.svg.dom/typeinfo/derivation_restriction/) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет происхождение по ограничению, если задействованы сложные типы, или ограничение, если задействованы простые типы. |
-| const [DERIVATION_UNION](../../aspose.svg.dom/typeinfo/derivation_union/) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет объединение, если задействованы простые типы. |
+| const [DERIVATION_EXTENSION](../../aspose.svg.dom/typeinfo/derivation_extension/) | Если схема документа является XML Schema [XML Schema Part 1], эта константа представляет наследование посредством расширения. |
+| const [DERIVATION_LIST](../../aspose.svg.dom/typeinfo/derivation_list/) | Если схема документа является XML Schema [XML Schema Part 1], эта константа представляет список. |
+| const [DERIVATION_RESTRICTION](../../aspose.svg.dom/typeinfo/derivation_restriction/) | Если схема документа является XML Schema [XML Schema Part 1], эта константа представляет наследование посредством ограничения, если задействованы сложные типы, или ограничение, если задействованы простые типы. |
+| const [DERIVATION_UNION](../../aspose.svg.dom/typeinfo/derivation_union/) | Если схема документа является XML Schema [XML Schema Part 1], эта константа представляет объединение, если задействованы простые типы. |
 
-### Смотрите также
+### См. также
 
 * class [DOMObject](../domobject/)
-* пространство имен [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

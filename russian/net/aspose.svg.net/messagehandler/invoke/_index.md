@@ -1,7 +1,7 @@
 ---
-title: MessageHandler.Invoke
-second_title: Справочник по Aspose.SVG для .NET API
-description: MessageHandler метод. При переопределении в производном классе используется для реализации обработки сообщений.
+title: "MessageHandler.Invoke"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Invoke класса MessageHandler. При переопределении в производном классе используется для реализации обработки сообщений."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net/messagehandler/invoke/
@@ -18,11 +18,9 @@ public abstract void Invoke(INetworkOperationContext context)
 | --- | --- | --- |
 | context | INetworkOperationContext | Контекст. |
 
-### Смотрите также
+### См. также
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageHandler](../)
-* пространство имен [Aspose.Svg.Net](../../messagehandler/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

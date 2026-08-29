@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.ActiveDocument
-second_title: Справочник по Aspose.SVG для .NET API
-description: IBrowsingContext свойство. Получает текущий документ.
+title: "IBrowsingContext.ActiveDocument"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IBrowsingContext ActiveDocument property. Получает текущий документ"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/ibrowsingcontext/activedocument/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom/ibrowsingcontext/activedocument/
 public Document ActiveDocument { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Активный документ.
+Текущий документ.
 
-### Смотрите также
+### См. также
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* пространство имен [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_SCALE
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTransform поле. Преобразование масштаб.
+title: "SVGTransform.SVG_TRANSFORM_SCALE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGTransform SVG_TRANSFORM_SCALE. Масштабирующая трансформация."
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.datatypes/svgtransform/svg_transform_scale/
 ---
 ## SVGTransform.SVG_TRANSFORM_SCALE field
 
-Преобразование «масштаб(…)».
+Трансформация 'scale(…)'.
 
 ```csharp
 public const ushort SVG_TRANSFORM_SCALE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgtransform/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Url.Pathname
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url свойство. Получает или задает строковое представление для указанного пути URL.
+title: "Url.Pathname"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Url Pathname. Получает или задает строковое представление указанного пути URL"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg/url/pathname/
 ---
 ## Url.Pathname property
 
-Получает или задает строковое представление для указанного пути URL.
+Получает или задает строковое представление указанного пути URL.
 
 ```csharp
 public string Pathname { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя пути.
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement свойство. Соответствует типу атрибута данного элемента. Принимает одну из констант SVG_FECOMPONENTTRANSFER_TYPE_ определенных в этом интерфейсе.
+title: "SVGComponentTransferFunctionElement.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Type элемента SVGComponentTransferFunctionElement. Соответствует атрибуту type в данном элементе. Принимает одно из значений констант SVG_FECOMPONENTTRANSFER_TYPE_, определённых в этом интерфейсе."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/type/
 ---
 ## SVGComponentTransferFunctionElement.Type property
 
-Соответствует типу атрибута данного элемента. Принимает одну из констант SVG_FECOMPONENTTRANSFER_TYPE_*, определенных в этом интерфейсе.
+Соответствует атрибуту ‘type’ в данном элементе. Принимает одну из констант SVG_FECOMPONENTTRANSFER_TYPE_*, определённых в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип атрибута данного элемента.
+Атрибут ‘type’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

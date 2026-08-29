@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Bottom
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение нижнего свойства в CSS2.
+title: "ICSS2Properties.Bottom"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Bottom интерфейса ICSS2Properties. См. определение свойства bottom в CSS2"
 type: docs
 weight: 300
 url: /ru/net/aspose.svg.dom.css/icss2properties/bottom/
 ---
 ## ICSS2Properties.Bottom property
 
-См. определение нижнего свойства в CSS2.
+Смотрите определение свойства bottom в CSS2.
 
 ```csharp
 public string Bottom { get; set; }
@@ -16,12 +16,10 @@ public string Bottom { get; set; }
 
 ### Возвращаемое значение
 
-нижнее свойство
+свойство bottom
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

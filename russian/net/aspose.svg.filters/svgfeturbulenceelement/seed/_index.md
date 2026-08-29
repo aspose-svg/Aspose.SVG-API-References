@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Seed
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFETurbulenceElement свойство. Соответствует атрибуту seed данного элемента feTurbulence.
+title: "SVGFETurbulenceElement.Seed"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFETurbulenceElement Seed property. Соответствует атрибуту seed в данном элементе feTurbulence"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/seed/
 ---
 ## SVGFETurbulenceElement.Seed property
 
-Соответствует атрибуту "seed" данного элемента "feTurbulence".
+Соответствует атрибуту ‘seed’ в данном элементе ‘feTurbulence’.
 
 ```csharp
 public SVGAnimatedNumber Seed { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'seed' данного элемента 'feTurbulence'.
+Атрибут ‘seed’ данного элемента ‘feTurbulence’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

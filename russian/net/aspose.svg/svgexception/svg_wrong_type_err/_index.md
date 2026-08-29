@@ -1,23 +1,21 @@
 ---
-title: SVGException.SVG_WRONG_TYPE_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGException поле. Возникает когда в операцию передается объект неправильного типа.
+title: "SVGException.SVG_WRONG_TYPE_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGException SVG_WRONG_TYPE_ERR. Возникает, когда объект неправильного типа передаётся в операцию."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgexception/svg_wrong_type_err/
 ---
 ## SVGException.SVG_WRONG_TYPE_ERR field
 
-Возникает, когда в операцию передается объект неправильного типа.
+Выбрасывается, когда в операцию передан объект неверного типа.
 
 ```csharp
 public const ushort SVG_WRONG_TYPE_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGException](../)
-* пространство имен [Aspose.Svg](../../svgexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

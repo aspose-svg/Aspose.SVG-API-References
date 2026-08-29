@@ -1,7 +1,7 @@
 ---
-title: NodeList.Length
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeList свойство. Количество узлов в списке.
+title: "NodeList.Length"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Length у NodeList. Количество узлов в списке"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.collections/nodelist/length/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.collections/nodelist/length/
 public abstract int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NodeList](../)
-* пространство имен [Aspose.Svg.Collections](../../nodelist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

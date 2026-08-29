@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.VoiceFamily
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства voicefamily в CSS2.
+title: "ICSS2Properties.VoiceFamily"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство VoiceFamily интерфейса ICSS2Properties. См. определение свойства voice-family в CSS2"
 type: docs
-weight: 1160
+weight: 1190
 url: /ru/net/aspose.svg.dom.css/icss2properties/voicefamily/
 ---
 ## ICSS2Properties.VoiceFamily property
 
-См. определение свойства voice-family в CSS2.
+Смотрите определение свойства voice-family в CSS2.
 
 ```csharp
 public string VoiceFamily { get; set; }
@@ -16,12 +16,10 @@ public string VoiceFamily { get; set; }
 
 ### Возвращаемое значение
 
-голос-семейная собственность
+свойство voice-family
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

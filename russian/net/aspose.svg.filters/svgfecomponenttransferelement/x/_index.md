@@ -1,28 +1,26 @@
 ---
-title: SVGFEComponentTransferElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEComponentTransferElement свойство. Соответствует атрибуту x данного элемента фильтр.
+title: "SVGFEComponentTransferElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство X элемента SVGFEComponentTransferElement. Соответствует атрибуту x в данном элементе фильтра"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.filters/svgfecomponenttransferelement/x/
 ---
 ## SVGFEComponentTransferElement.X property
 
-Соответствует атрибуту «x» данного элемента «фильтр».
+Соответствует атрибуту ‘x’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «x» данного элемента «фильтр».
+Атрибут ‘x’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEComponentTransferElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecomponenttransferelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

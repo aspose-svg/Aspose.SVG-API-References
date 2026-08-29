@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.RemoveIndentsAndLineBreaks
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGOptimizationOptions свойство. Получает или задает параметр удаления отступов и разрывов строк. По умолчанию это истина.
+title: "SVGOptimizationOptions.RemoveIndentsAndLineBreaks"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGOptimizationOptions RemoveIndentsAndLineBreaks. Получает или задает параметр, позволяющий удалять отступы строк и разрывы. По умолчанию true."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeindentsandlinebreaks/
 ---
 ## SVGOptimizationOptions.RemoveIndentsAndLineBreaks property
 
-Получает или задает параметр удаления отступов и разрывов строк. По умолчанию это «истина».
+Получает или задает параметр, позволяющий удалять отступы строк и разрывы. По умолчанию значение 'true'.
 
 ```csharp
 public bool RemoveIndentsAndLineBreaks { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

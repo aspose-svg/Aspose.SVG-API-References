@@ -1,27 +1,26 @@
 ---
-title: Device2.StrokeAndFill
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Штрихует и заполняет текущий путь. Этот метод завершает текущий путь.
+title: "Device-2.StrokeAndFill"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device StrokeAndFill method. Обводит и заполняет текущий путь. Этот метод завершает текущий путь."
 type: docs
-weight: 230
+weight: 260
 url: /ru/net/aspose.svg.rendering/device-2/strokeandfill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeAndFill method
+## Device<TGraphicContext,TRenderingOptions>.StrokeAndFill method
 
-Штрихует и заполняет текущий путь. Этот метод завершает текущий путь.
+Обводит и заполняет текущий путь. Этот метод завершает текущий путь.
 
 ```csharp
-public abstract void StrokeAndFill(FillMode mode)
+public virtual void StrokeAndFill(FillRule rule)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mode | FillMode | Режим заполнения указывает, как заполняется внутренняя часть замкнутого контура. |
+| правило | FillRule | Правило заполнения определяет, как внутреннее пространство замкнутого пути заполняется. |
 
-### Смотрите также
+### См. также
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

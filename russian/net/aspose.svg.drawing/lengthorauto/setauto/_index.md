@@ -1,23 +1,21 @@
 ---
-title: LengthOrAuto.SetAuto
-second_title: Справочник по Aspose.SVG для .NET API
-description: LengthOrAuto метод. Сбрасывает контейнер в состояние авто.
+title: "LengthOrAuto.SetAuto"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SetAuto класса LengthOrAuto. Сбрасывает контейнер в состояние auto"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.drawing/lengthorauto/setauto/
 ---
 ## LengthOrAuto.SetAuto method
 
-Сбрасывает контейнер в состояние «авто».
+Сбрасывает контейнер в состояние 'auto'.
 
 ```csharp
 public void SetAuto()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LengthOrAuto](../)
-* пространство имен [Aspose.Svg.Drawing](../../lengthorauto/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

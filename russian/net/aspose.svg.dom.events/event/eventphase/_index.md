@@ -1,23 +1,21 @@
 ---
-title: Event.EventPhase
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event свойство. Используется для указания того какая фаза потока событий оценивается в данный момент.
+title: "Event.EventPhase"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Event EventPhase. Используется для указания, какая фаза потока событий в данный момент оценивается."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.events/event/eventphase/
 ---
 ## Event.EventPhase property
 
-Используется для указания того, какая фаза потока событий оценивается в данный момент.
+Используется для указания, какая фаза потока событий в данный момент оценивается.
 
 ```csharp
 public ushort EventPhase { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

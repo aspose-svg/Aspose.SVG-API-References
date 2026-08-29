@@ -1,27 +1,25 @@
 ---
-title: Comment.NodeValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: Comment свойство. Значение этого узла в зависимости от его типа.
+title: "Comment.NodeValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Comment NodeValue. Значение этого узла в зависимости от его типа"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/comment/nodevalue/
 ---
 ## Comment.NodeValue property
 
-Значение этого узла в зависимости от его типа.
+Значение этого узла, в зависимости от его типа.
 
 ```csharp
 public override string NodeValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение узла.
 
-### Смотрите также
+### См. также
 
 * class [Comment](../)
-* пространство имен [Aspose.Svg.Dom](../../comment/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

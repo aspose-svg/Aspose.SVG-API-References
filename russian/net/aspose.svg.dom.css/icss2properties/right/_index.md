@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Right
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. правильное определение свойства в CSS2.
+title: "ICSS2Properties.Right"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Right интерфейса ICSS2Properties. См. определение свойства right в CSS2"
 type: docs
-weight: 980
+weight: 1010
 url: /ru/net/aspose.svg.dom.css/icss2properties/right/
 ---
 ## ICSS2Properties.Right property
 
-См. правильное определение свойства в CSS2.
+Смотрите определение свойства right в CSS2.
 
 ```csharp
 public string Right { get; set; }
@@ -16,12 +16,10 @@ public string Right { get; set; }
 
 ### Возвращаемое значение
 
-право собственности
+свойство right
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

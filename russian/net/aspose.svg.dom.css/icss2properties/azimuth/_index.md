@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Azimuth
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства азимута в CSS2.
+title: "ICSS2Properties.Azimuth"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Azimuth в ICSS2Properties. См. определение свойства azimuth в CSS2"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icss2properties/azimuth/
 ---
 ## ICSS2Properties.Azimuth property
 
-См. определение свойства азимута в CSS2.
+См. определение свойства azimuth в CSS2.
 
 ```csharp
 public string Azimuth { get; set; }
@@ -16,12 +16,10 @@ public string Azimuth { get; set; }
 
 ### Возвращаемое значение
 
-Свойство азимута
+Свойство azimuth
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

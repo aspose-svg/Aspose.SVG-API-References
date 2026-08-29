@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.MarkerOffset
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства markeroffset в CSS2.
+title: "ICSS2Properties.MarkerOffset"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ICSS2Properties MarkerOffset. См. определение свойства marker-offset в CSS2"
 type: docs
-weight: 680
+weight: 710
 url: /ru/net/aspose.svg.dom.css/icss2properties/markeroffset/
 ---
 ## ICSS2Properties.MarkerOffset property
@@ -16,12 +16,10 @@ public string MarkerOffset { get; set; }
 
 ### Возвращаемое значение
 
-свойство смещения маркера
+свойство marker-offset
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.Fy
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRadialGradientElement свойство. Соответствует атрибуту fy данного элемента radialGradient.
+title: "SVGRadialGradientElement.Fy"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Fy класса SVGRadialGradientElement. Соответствует атрибуту fy в указанном элементе radialGradient."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgradialgradientelement/fy/
 ---
 ## SVGRadialGradientElement.Fy property
 
-Соответствует атрибуту 'fy' данного элемента 'radialGradient'.
+Соответствует атрибуту ‘fy’ в данном элементе ‘radialGradient’.
 
 ```csharp
 public SVGAnimatedLength Fy { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'fy' данного элемента 'radialGradient'.
+Атрибут ‘fy’ указанного элемента ‘radialGradient’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* пространство имен [Aspose.Svg](../../svgradialgradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

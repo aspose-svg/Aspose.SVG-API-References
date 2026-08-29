@@ -1,24 +1,22 @@
 ---
-title: Event.Target
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event свойство. Используется для обозначенияIEventTarget которому изначально было отправлено событие.
+title: "Event.Target"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Event Target. Используется для указания IEventTarget, к которому событие было первоначально отправлено."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.events/event/target/
 ---
 ## Event.Target property
 
-Используется для обозначения[`IEventTarget`](../../ieventtarget/) которому изначально было отправлено событие.
+Используется для указания [`IEventTarget`](../../ieventtarget/) к которому событие было первоначально отправлено.
 
 ```csharp
 public EventTarget Target { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IDeviceInformationService.VerticalResolution
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDeviceInformationService свойство. Получает или задает вертикальное разрешение.
+title: "IDeviceInformationService.VerticalResolution"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IDeviceInformationService VerticalResolution. Получает или задает вертикальное разрешение."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.services/ideviceinformationservice/verticalresolution/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.services/ideviceinformationservice/verticalresolution/
 public Resolution VerticalResolution { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Вертикальное разрешение.
 
-### Смотрите также
+### См. также
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* пространство имен [Aspose.Svg.Services](../../ideviceinformationservice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

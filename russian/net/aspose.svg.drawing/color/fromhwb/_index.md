@@ -1,14 +1,14 @@
 ---
-title: Color.FromHwb
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает новый цвет с запрошенными значениями оттенка белизны черноты.
+title: "Color.FromHwb"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromHwb. Возвращает новый Color с запрошенными значениями оттенка, белизны и черноты."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.drawing/color/fromhwb/
 ---
 ## Color.FromHwb method
 
-Возвращает новый цвет с запрошенными значениями оттенка, белизны, черноты.
+Возвращает новый Color с запрошенными значениями hue, whiteness, blackness.
 
 ```csharp
 public static Color FromHwb(float hue, float whiteness, float blackness)
@@ -16,18 +16,16 @@ public static Color FromHwb(float hue, float whiteness, float blackness)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hue | Single | Поплавок, представляющий компонент оттенка цвета. |
-| whiteness | Single | Поплавок, представляющий компонент белизны цвета. |
-| blackness | Single | Поплавок, представляющий компонент черного цвета. |
+| hue | Single | Число с плавающей запятой, представляющее компонент тона цвета. |
+| белизна | Single | Число с плавающей запятой, представляющее компонент белизны цвета. |
+| чернота | Single | Число с плавающей точкой, представляющее компонент черноты цвета. |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: WheelEvent.DOM_DELTA_PAGE
-second_title: Справочник по Aspose.SVG для .NET API
-description: WheelEvent поле. Единицами измерения для дельты ДОЛЖНЫ быть страницы определенные либо как один экран либо как разграниченная страница.
+title: "WheelEvent.DOM_DELTA_PAGE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле WheelEvent DOM_DELTA_PAGE. Единицы измерения для delta ДОЛЖНЫ быть страницами, определяемыми как один экран или как отдельная страница."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom.events/wheelevent/dom_delta_page/
 ---
 ## WheelEvent.DOM_DELTA_PAGE field
 
-Единицами измерения для дельты ДОЛЖНЫ быть страницы, определенные либо как один экран, либо как разграниченная страница.
+Единицы измерения дельты ДОЛЖНЫ быть страницами, определяемыми как один экран или как отдельная страница.
 
 ```csharp
 public const ulong DOM_DELTA_PAGE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [WheelEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../wheelevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

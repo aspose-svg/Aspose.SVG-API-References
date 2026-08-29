@@ -1,14 +1,14 @@
 ---
-title: SVGException.SVGException
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGException строитель. Инициализирует новый экземплярSVGException класс.
+title: "SVGException"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор SVGException. Инициализирует новый экземпляр класса SVGException."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-Инициализирует новый экземпляр[`SVGException`](../) класс.
+Инициализирует новый экземпляр класса [`SVGException`](../).
 
 ```csharp
 public SVGException(ushort code)
@@ -16,12 +16,10 @@ public SVGException(ushort code)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| code | UInt16 | Код ошибки. |
+| код | UInt16 | Код ошибки. |
 
-### Смотрите также
+### См. также
 
 * class [SVGException](../)
-* пространство имен [Aspose.Svg](../../svgexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

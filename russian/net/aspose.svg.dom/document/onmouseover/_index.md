@@ -1,7 +1,7 @@
 ---
-title: Document.OnMouseOver
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnMouseOver.
+title: "Document.OnMouseOver"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnMouseOver. Получает или задает обработчик события для события OnMouseOver."
 type: docs
 weight: 560
 url: /ru/net/aspose.svg.dom/document/onmouseover/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onmouseover/
 public event DOMEventHandler OnMouseOver;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

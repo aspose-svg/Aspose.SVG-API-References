@@ -1,14 +1,14 @@
 ---
-title: Unit.FromPicas
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit метод. ВозвращаетLength объект представленный в picas.
+title: "Unit.FromPicas"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Unit FromPicas. Возвращает объект Length, представленный в писах"
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.drawing/unit/frompicas/
 ---
 ## Unit.FromPicas method
 
-Возвращает[`Length`](../../length/) объект, представленный в picas.
+Возвращает объект [`Length`](../../length/), представленный в писах.
 
 ```csharp
 public static Length FromPicas(double value)
@@ -16,17 +16,15 @@ public static Length FromPicas(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение. |
+| значение | Double | Значение. |
 
 ### Возвращаемое значение
 
-Возвращает[`Length`](../../length/) объект.
+Возвращает объект [`Length`](../../length/).
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: GlyphInfo.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: GlyphInfo метод. ВозвращаетString который представляет этот экземпляр.
+title: "GlyphInfo.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GlyphInfo ToString. Возвращает String, представляющий этот экземпляр"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.rendering/glyphinfo/tostring/
 ---
 ## GlyphInfo.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * struct [GlyphInfo](../)
-* пространство имен [Aspose.Svg.Rendering](../../glyphinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

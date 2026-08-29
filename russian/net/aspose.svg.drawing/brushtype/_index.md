@@ -1,30 +1,28 @@
 ---
-title: Enum BrushType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.BrushType перечисление. Определяет тип кисти.
+title: "Перечисление BrushType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Перечисление Aspose.Svg.Drawing.BrushType. Указывает тип кисти"
 type: docs
-weight: 1380
+weight: 3380
 url: /ru/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration
 
-Определяет тип кисти.
+Указывает тип кисти.
 
 ```csharp
 public enum BrushType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Solid | `0` | Тип ISolidBrush |
-| Texture | `1` | Тип ITextureBrush |
-| LinearGradient | `2` | Тип ILinearGradientBrush |
+| Solid | `0` | Тип — ISolidBrush |
+| Texture | `1` | Тип — ITextureBrush |
+| LinearGradient | `2` | Тип — ILinearGradientBrush |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

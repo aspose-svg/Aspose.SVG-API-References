@@ -1,14 +1,14 @@
 ---
-title: SVGAnimatedNumberList.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAnimatedNumberList метод. ВозвращаетString который представляет этот экземпляр.
+title: "SVGAnimatedNumberList.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGAnimatedNumberList ToString. Возвращает строку, представляющую этот экземпляр."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svganimatednumberlist/tostring/
 ---
 ## SVGAnimatedNumberList.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumberList](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svganimatednumberlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Values
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserverInit свойство. Получает коллекцию содержащую значения вMutationObserverInitколлекция.
+title: "MutationObserverInit.Values"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Values класса MutationObserverInit. Возвращает коллекцию, содержащую значения из коллекции MutationObserverInit."
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/values/
 ---
 ## MutationObserverInit.Values property
 
-Получает коллекцию, содержащую значения в[`MutationObserverInit`](../)коллекция.
+Возвращает коллекцию, содержащую значения из коллекции [`MutationObserverInit`](../).
 
 ```csharp
 public ICollection<object> Values { get; }
@@ -18,10 +18,8 @@ public ICollection<object> Values { get; }
 
 Коллекция, содержащая значения.
 
-### Смотрите также
+### См. также
 
 * class [MutationObserverInit](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

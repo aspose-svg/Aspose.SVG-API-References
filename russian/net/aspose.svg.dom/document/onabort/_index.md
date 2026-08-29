@@ -1,24 +1,22 @@
 ---
-title: Document.OnAbort
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnAbort.
+title: "Document.OnAbort"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnAbort. Получает или задаёт обработчик события для OnAbort"
 type: docs
 weight: 280
 url: /ru/net/aspose.svg.dom/document/onabort/
 ---
 ## Document.OnAbort event
 
-Получает или задает обработчик события OnAbort.
+Получает или задаёт обработчик события OnAbort.
 
 ```csharp
 public event DOMEventHandler OnAbort;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

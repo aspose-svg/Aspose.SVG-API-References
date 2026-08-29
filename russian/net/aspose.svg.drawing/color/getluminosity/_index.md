@@ -1,14 +1,14 @@
 ---
-title: Color.GetLuminosity
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает яркость цвета.
+title: "Color.GetLuminosity"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color GetLuminosity. Возвращает яркость Color"
 type: docs
 weight: 340
 url: /ru/net/aspose.svg.drawing/color/getluminosity/
 ---
 ## Color.GetLuminosity method
 
-Возвращает яркость цвета.
+Возвращает luminosity цвета Color.
 
 ```csharp
 public float GetLuminosity()
@@ -16,12 +16,10 @@ public float GetLuminosity()
 
 ### Возвращаемое значение
 
-Сияние Цвета.
+Яркость Color.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

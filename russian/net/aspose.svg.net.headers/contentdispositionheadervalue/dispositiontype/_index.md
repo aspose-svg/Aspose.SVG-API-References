@@ -1,23 +1,21 @@
 ---
-title: ContentDispositionHeaderValue.DispositionType
-second_title: Справочник по Aspose.SVG для .NET API
-description: ContentDispositionHeaderValue свойство. Получить или установить тип размещения
+title: "ContentDispositionHeaderValue.DispositionType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ContentDispositionHeaderValue DispositionType. Получает или задает тип диспозиции"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/
 ---
 ## ContentDispositionHeaderValue.DispositionType property
 
-Получить или установить тип размещения
+Получить или задать тип размещения
 
 ```csharp
 public string DispositionType { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ContentDispositionHeaderValue](../)
-* пространство имен [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

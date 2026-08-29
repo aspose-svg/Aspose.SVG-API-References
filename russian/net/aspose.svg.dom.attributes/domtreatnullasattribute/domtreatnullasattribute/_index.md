@@ -1,14 +1,14 @@
 ---
-title: DOMTreatNullAsAttribute.DOMTreatNullAsAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMTreatNullAsAttribute строитель. Инициализирует новый экземплярDOMTreatNullAsAttribute класс.
+title: "DOMTreatNullAsAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMTreatNullAsAttribute. Инициализирует новый экземпляр класса DOMTreatNullAsAttribute"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.attributes/domtreatnullasattribute/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute constructor
 
-Инициализирует новый экземпляр[`DOMTreatNullAsAttribute`](../) класс.
+Инициализирует новый экземпляр класса [`DOMTreatNullAsAttribute`](../).
 
 ```csharp
 public DOMTreatNullAsAttribute(Type type, object value)
@@ -16,13 +16,11 @@ public DOMTreatNullAsAttribute(Type type, object value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | Type | Тип объекта. |
-| value | Object | Стоимость объекта. |
+| type | Тип | Тип объекта. |
+| значение | Объект | Значение объекта. |
 
-### Смотрите также
+### См. также
 
 * class [DOMTreatNullAsAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

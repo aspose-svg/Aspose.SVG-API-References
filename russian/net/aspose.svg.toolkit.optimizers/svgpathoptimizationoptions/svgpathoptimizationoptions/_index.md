@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.SVGPathOptimizationOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathOptimizationOptions строитель. Инициализирует новый экземплярSVGPathOptimizationOptions класс.
+title: "SVGPathOptimizationOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор SVGPathOptimizationOptions. Инициализирует новый экземпляр класса SVGPathOptimizationOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions constructor
 
-Инициализирует новый экземпляр[`SVGPathOptimizationOptions`](../) класс.
+Инициализирует новый экземпляр класса [`SVGPathOptimizationOptions`](../).
 
 ```csharp
 public SVGPathOptimizationOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

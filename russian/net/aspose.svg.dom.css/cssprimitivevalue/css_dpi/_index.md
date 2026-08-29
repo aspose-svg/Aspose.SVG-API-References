@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_DPI
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение  количество точек на дюйм dpi.
+title: "CSSPrimitiveValue.CSS_DPI"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_DPI поле. Значение представляет количество точек на дюйм (dpi)."
 type: docs
 weight: 180
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_dpi/
 ---
 ## CSSPrimitiveValue.CSS_DPI field
 
-Значение — количество точек на дюйм (dpi).
+Значение — точек на дюйм (dpi).
 
 ```csharp
 public const ushort CSS_DPI;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

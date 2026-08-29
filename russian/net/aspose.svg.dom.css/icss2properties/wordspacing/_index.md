@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.WordSpacing
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства межсловного интервала в CSS2.
+title: "ICSS2Properties.WordSpacing"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство WordSpacing интерфейса ICSS2Properties. См. определение свойства word-spacing в CSS2"
 type: docs
-weight: 1210
+weight: 1240
 url: /ru/net/aspose.svg.dom.css/icss2properties/wordspacing/
 ---
 ## ICSS2Properties.WordSpacing property
 
-См. определение свойства межсловного интервала в CSS2.
+Смотрите определение свойства word-spacing в CSS2.
 
 ```csharp
 public string WordSpacing { get; set; }
@@ -16,12 +16,10 @@ public string WordSpacing { get; set; }
 
 ### Возвращаемое значение
 
-свойство межсловного интервала
+свойство word-spacing
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

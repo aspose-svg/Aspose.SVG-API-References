@@ -1,14 +1,14 @@
 ---
-title: Numeric.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: Numeric метод. Определяет является ли указанныйUnit  равно этому экземпляру.
+title: "Numeric.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Numeric Equals. Определяет, равна ли указанная Unit этому экземпляру"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/numeric/equals/
 ---
 ## Numeric.Equals method
 
-Определяет, является ли указанный[`Unit`](../../unit/) , равно этому экземпляру.
+Определяет, равна ли указанная [`Unit`](../../unit/) этому экземпляру.
 
 ```csharp
 public override bool Equals(Unit other)
@@ -20,13 +20,11 @@ public override bool Equals(Unit other)
 
 ### Возвращаемое значение
 
-`истинный` если указанный[`Unit`](../../unit/) равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true`, если указанная [`Unit`](../../unit/) равна этому экземпляру; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Unit](../../unit/)
 * class [Numeric](../)
-* пространство имен [Aspose.Svg.Drawing](../../numeric/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

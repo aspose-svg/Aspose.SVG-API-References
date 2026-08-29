@@ -1,23 +1,21 @@
 ---
-title: IMediaList.Item
-second_title: Справочник по Aspose.SVG для .NET API
-description: IMediaList свойство. Возвращает индекс в списке. Если индекс больше или равен количеству носителей в списке возвращается null. Индекс СМИ.
+title: "IMediaList.Item"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Item интерфейса IMediaList. Возвращает элемент с указанным индексом в списке. Если индекс больше или равен количеству медиа в списке, возвращает null. Индекс медиа"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/imedialist/item/
 ---
 ## IMediaList indexer
 
-Возвращает индекс в списке. Если индекс больше или равен количеству носителей в списке, возвращается null. Индекс СМИ.
+Возвращает элемент с указанным индексом в списке. Если индекс больше или равен количеству носителей в списке, возвращается null. Индекс носителя.
 
 ```csharp
 public string this[int index] { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IMediaList](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../imedialist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

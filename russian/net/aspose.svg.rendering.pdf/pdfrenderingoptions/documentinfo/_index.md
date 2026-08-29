@@ -1,24 +1,22 @@
 ---
-title: PdfRenderingOptions.DocumentInfo
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfRenderingOptions свойство. Содержит информацию о выходном PDFдокументе.
+title: "PdfRenderingOptions.DocumentInfo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PdfRenderingOptions DocumentInfo. Содержит информацию о выходном PDF‑документе"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo/
 ---
 ## PdfRenderingOptions.DocumentInfo property
 
-Содержит информацию о выходном PDF-документе.
+Содержит информацию о выходном PDF‑документе.
 
 ```csharp
 public PdfDocumentInfo DocumentInfo { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfDocumentInfo](../../pdfdocumentinfo/)
 * class [PdfRenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

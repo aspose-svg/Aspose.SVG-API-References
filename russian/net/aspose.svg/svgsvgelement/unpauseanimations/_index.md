@@ -1,23 +1,21 @@
 ---
-title: SVGSVGElement.UnpauseAnimations
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement метод. Разблокирует т. е. возобновляет паузу текущую анимацию которая определена во фрагменте документа SVG в результате чего часы анимации продолжаются с того момента когда они были приостановлены.
+title: "SVGSVGElement.UnpauseAnimations"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGSVGElement UnpauseAnimations. Снимает приостановку, т.е. возобновляет текущие анимации, определённые во фрагменте SVG‑документа, заставляя часы анимации продолжить работу с момента их приостановки."
 type: docs
 weight: 240
 url: /ru/net/aspose.svg/svgsvgelement/unpauseanimations/
 ---
 ## SVGSVGElement.UnpauseAnimations method
 
-Разблокирует (т. е. возобновляет паузу) текущую анимацию, которая определена во фрагменте документа SVG, в результате чего часы анимации продолжаются с того момента, когда они были приостановлены.
+Снимает приостановку (т. е. возобновляет) текущие запущенные анимации, определённые во фрагменте SVG‑документа, заставляя часы анимации продолжать работу с момента её приостановки.
 
 ```csharp
 public void UnpauseAnimations()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

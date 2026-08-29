@@ -1,23 +1,21 @@
 ---
-title: SVGZoomEvent.PreviousScale
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGZoomEvent свойство. Масштабный коэффициент от предыдущих операций масштабирования который был установлен до выполнения операции масштабирования.
+title: "SVGZoomEvent.PreviousScale"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGZoomEvent PreviousScale свойство. Коэффициент масштабирования из предыдущих операций масштабирования, который был установлен до начала операции масштабирования"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.events/svgzoomevent/previousscale/
 ---
 ## SVGZoomEvent.PreviousScale property
 
-Масштабный коэффициент от предыдущих операций масштабирования, который был установлен до выполнения операции масштабирования.
+Коэффициент масштабирования из предыдущих операций масштабирования, который был установлен до начала текущей операции.
 
 ```csharp
 public float PreviousScale { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGZoomEvent](../)
-* пространство имен [Aspose.Svg.Events](../../svgzoomevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

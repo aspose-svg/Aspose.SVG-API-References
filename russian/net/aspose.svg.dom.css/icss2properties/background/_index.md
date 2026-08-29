@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Background
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства фона в CSS2.
+title: "ICSS2Properties.Background"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Background интерфейса ICSS2Properties. См. определение свойства background в CSS2"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icss2properties/background/
 ---
 ## ICSS2Properties.Background property
 
-См. определение свойства фона в CSS2.
+См. определение свойства background в CSS2.
 
 ```csharp
 public string Background { get; set; }
@@ -16,12 +16,10 @@ public string Background { get; set; }
 
 ### Возвращаемое значение
 
-фоновое свойство
+свойство background
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

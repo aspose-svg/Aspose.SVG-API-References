@@ -1,7 +1,7 @@
 ---
-title: Color.Convert
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает компоненты цвета в формате указанной цветовой модели.
+title: "Color.Convert"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color Convert. Возвращает компоненты цвета в формате указанной цветовой модели"
 type: docs
 weight: 290
 url: /ru/net/aspose.svg.drawing/color/convert/
@@ -20,14 +20,12 @@ public IColorComponents Convert(ColorModel model)
 
 ### Возвращаемое значение
 
-Новый экземпляр[`IColorComponents`](../../icolorcomponents/) интерфейс
+Новый экземпляр интерфейса [`IColorComponents`](../../icolorcomponents/)
 
-### Смотрите также
+### См. также
 
 * interface [IColorComponents](../../icolorcomponents/)
 * enum [ColorModel](../../colormodel/)
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

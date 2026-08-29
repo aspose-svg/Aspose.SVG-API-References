@@ -1,23 +1,21 @@
 ---
-title: SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFETurbulenceElement поле. Соответствует значению турбулентность.
+title: "SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFETurbulenceElement SVG_TURBULENCE_TYPE_TURBULENCE field. Соответствует значению turbulence"
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbulence/
 ---
 ## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE field
 
-Соответствует значению «турбулентность».
+Соответствует значению 'turbulence'.
 
 ```csharp
 public const ushort SVG_TURBULENCE_TYPE_TURBULENCE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFETurbulenceElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

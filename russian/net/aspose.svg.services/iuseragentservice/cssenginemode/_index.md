@@ -1,28 +1,26 @@
 ---
-title: IUserAgentService.CSSEngineMode
-second_title: Справочник по Aspose.SVG для .NET API
-description: IUserAgentService свойство. Получает или задает режим в котором работает механизм CSS.
+title: "IUserAgentService.CSSEngineMode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство CSSEngineMode сервиса IUserAgentService. Получает или задает режим, в котором работает CSS‑движок"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.services/iuseragentservice/cssenginemode/
 ---
 ## IUserAgentService.CSSEngineMode property
 
-Получает или задает режим, в котором работает механизм CSS.
+Получает или задает режим работы CSS‑движка.
 
 ```csharp
 public CSSEngineMode CSSEngineMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Режим двигателя.
+Режим движка.
 
-### Смотрите также
+### См. также
 
 * enum [CSSEngineMode](../../../aspose.svg.dom.css/cssenginemode/)
 * interface [IUserAgentService](../)
-* пространство имен [Aspose.Svg.Services](../../iuseragentservice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

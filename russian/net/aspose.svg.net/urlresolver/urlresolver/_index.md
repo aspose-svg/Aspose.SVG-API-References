@@ -1,7 +1,7 @@
 ---
-title: UrlResolver.UrlResolver
-second_title: Справочник по Aspose.SVG для .NET API
-description: UrlResolver строитель. Конструктор по умолчанию.
+title: "UrlResolver"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор UrlResolver. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/urlresolver/urlresolver/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.net/urlresolver/urlresolver/
 public UrlResolver()
 ```
 
-### Смотрите также
+### См. также
 
 * class [UrlResolver](../)
-* пространство имен [Aspose.Svg.Net](../../urlresolver/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

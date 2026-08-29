@@ -1,23 +1,21 @@
 ---
-title: Device2.EndDocument
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Завершает визуализацию документа.
+title: "Device-2.EndDocument"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Device EndDocument. Завершает рендеринг документа"
 type: docs
-weight: 120
+weight: 150
 url: /ru/net/aspose.svg.rendering/device-2/enddocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndDocument method
+## Device<TGraphicContext,TRenderingOptions>.EndDocument method
 
-Завершает визуализацию документа.
+Завершает отрисовку документа.
 
 ```csharp
 public virtual void EndDocument()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

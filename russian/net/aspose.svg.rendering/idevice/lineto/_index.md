@@ -1,14 +1,14 @@
 ---
-title: IDevice.LineTo
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Добавляет отрезок прямой от текущей точки до точки pt. Новая текущая точка  pt.
+title: "IDevice.LineTo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice LineTo. Добавляет прямой отрезок от текущей точки к точке pt. Новая текущая точка — pt."
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.rendering/idevice/lineto/
 ---
 ## IDevice.LineTo method
 
-Добавляет отрезок прямой от текущей точки до точки (pt). Новая текущая точка - pt.
+Добавляет прямой отрезок линии от текущей точки к точке (pt). Новая текущая точка — pt.
 
 ```csharp
 public void LineTo(PointF pt)
@@ -16,12 +16,10 @@ public void LineTo(PointF pt)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pt | PointF | Точка, до которой нужно создать линию. |
+| pt | PointF | Точка, к которой следует создать линию. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

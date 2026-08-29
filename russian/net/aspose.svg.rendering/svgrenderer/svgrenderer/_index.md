@@ -1,7 +1,7 @@
 ---
-title: SvgRenderer.SvgRenderer
-second_title: Справочник по Aspose.SVG для .NET API
-description: SvgRenderer строитель. Конструктор по умолчанию.
+title: "SvgRenderer"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор SvgRenderer. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/svgrenderer/svgrenderer/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering/svgrenderer/svgrenderer/
 public SvgRenderer()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SvgRenderer](../)
-* пространство имен [Aspose.Svg.Rendering](../../svgrenderer/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

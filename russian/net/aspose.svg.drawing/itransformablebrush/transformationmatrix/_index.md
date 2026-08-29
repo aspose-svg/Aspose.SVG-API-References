@@ -1,27 +1,26 @@
 ---
-title: ITransformableBrush.TransformationMatrix
-second_title: Справочник по Aspose.SVG для .NET API
-description: ITransformableBrush свойство. Получить трансформацию. Преобразование определяет локальное геометрическое преобразование для этой кисти.
+title: "ITransformableBrush.TransformationMatrix"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ITransformableBrush TransformationMatrix. Получить преобразование. Преобразование определяет локальное геометрическое преобразование для этой кисти"
 type: docs
-weight: 10
+weight: 20
 url: /ru/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-Получить трансформацию. Преобразование определяет локальное геометрическое преобразование для этой кисти.
+Получить преобразование. Преобразование определяет локальное геометрическое преобразование для этой кисти.
 
 ```csharp
-public Matrix TransformationMatrix { get; }
+public IMatrix TransformationMatrix { get; set; }
 ```
 
 ### Возвращаемое значение
 
 Матрица преобразования
 
-### Смотрите также
+### См. также
 
+* interface [IMatrix](../../imatrix/)
 * interface [ITransformableBrush](../)
-* пространство имен [Aspose.Svg.Drawing](../../itransformablebrush/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

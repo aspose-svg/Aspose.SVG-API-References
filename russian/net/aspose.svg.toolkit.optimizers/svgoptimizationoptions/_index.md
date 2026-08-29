@@ -1,14 +1,14 @@
 ---
-title: Class SVGOptimizationOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Toolkit.Optimizers.SVGOptimizationOptions сорт. SVGOptimizationOptions  это класс для хранения параметров оптимизации документов SVG.
+title: "Класс SVGOptimizationOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Toolkit.Optimizers.SVGOptimizationOptions. SVGOptimizationOptions — класс для хранения параметров оптимизации SVG‑документов."
 type: docs
-weight: 3780
+weight: 5880
 url: /ru/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/
 ---
 ## SVGOptimizationOptions class
 
-SVGOptimizationOptions — это класс для хранения параметров оптимизации документов SVG.
+SVGOptimizationOptions — класс для хранения параметров оптимизации SVG‑документов.
 
 ```csharp
 public class SVGOptimizationOptions
@@ -18,29 +18,27 @@ public class SVGOptimizationOptions
 
 | Имя | Описание |
 | --- | --- |
-| [SVGOptimizationOptions](svgoptimizationoptions/)() | Инициализирует новый экземпляр`SVGOptimizationOptions` класс. |
+| [SVGOptimizationOptions](svgoptimizationoptions/)() | Инициализирует новый экземпляр класса `SVGOptimizationOptions`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [CleanListOfValues](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/cleanlistofvalues/) { get; set; } | Получает или задает параметр для округления до 3 знаков после запятой числовых значений списка в атрибутах. По умолчанию это «истина». |
-| [CollapseGroups](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/collapsegroups/) { get; set; } | Получает или задает параметр для свертывания избыточных групп. По умолчанию это «истина». |
-| [PathOptimizationOptions](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/) { get; set; } | Получает или задает параметр[`SVGPathOptimizationOptions`](../svgpathoptimizationoptions/) . Если этот параметр равен нулю, то оптимизация элемента пути не будет выполняться. |
-| [RemoveDescriptions](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removedescriptions/) { get; set; } | Получает или задает параметр для удаления только содержимого редакторов или пустых элементов. По умолчанию это «истина». |
-| [RemoveEmptyAttributes](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptyattributes/) { get; set; } | Получает или задает параметр для удаления атрибутов с пустыми значениями. По умолчанию это «истина». |
-| [RemoveEmptyContainers](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptycontainers/) { get; set; } | Получает или задает параметр удаления пустых контейнеров. По умолчанию это «истина». |
-| [RemoveEmptyText](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptytext/) { get; set; } | Получает или задает параметр для удаления пустых элементов Text. По умолчанию это «истина». |
-| [RemoveHiddenElements](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removehiddenelements/) { get; set; } | Получает или задает параметр для удаления элементов, невидимых во время рендеринга. По умолчанию это «истина». |
-| [RemoveIndentsAndLineBreaks](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeindentsandlinebreaks/) { get; set; } | Получает или задает параметр удаления отступов и разрывов строк. По умолчанию это «истина». |
-| [RemoveMetadata](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removemetadata/) { get; set; } | Получает или задает параметр удаления метаданных. По умолчанию это «истина». |
-| [RemoveUnusedDefs](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunuseddefs/) { get; set; } | Gets устанавливает возможность удаления содержимого определений, которые не отображаются напрямую без идентификаторов. По умолчанию это «истина». |
-| [RemoveUnusedNamespaces](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunusednamespaces/) { get; set; } | Получает или задает параметр для удаления объявления неиспользуемых пространств имен из элемента SVG , которые не используются в элементах или атрибутах. По умолчанию это «истина». |
-| [RemoveUselessStrokeAndFill](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeuselessstrokeandfill/) { get; set; } | Gets устанавливает возможность удаления неиспользуемых атрибутов обводки и заливки. По умолчанию это «истина». |
+| [CleanListOfValues](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/cleanlistofvalues/) { get; set; } | Получает или задает параметр округления числовых значений списков в атрибутах до 3 знаков после запятой. По умолчанию 'true'. |
+| [CollapseGroups](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/collapsegroups/) { get; set; } | Получает или задает параметр сжатия лишних групп. По умолчанию 'true'. |
+| [PathOptimizationOptions](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/) { get; set; } | Получает или задает параметр [`SVGPathOptimizationOptions`](../svgpathoptimizationoptions/). Если этот параметр равен null, оптимизация элементов пути не будет выполнена. |
+| [RemoveDescriptions](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removedescriptions/) { get; set; } | Получает или задает параметр, позволяющий удалять только содержимое редактора или пустые элементы. По умолчанию значение 'true'. |
+| [RemoveEmptyAttributes](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptyattributes/) { get; set; } | Получает или задает параметр, позволяющий удалять атрибуты с пустыми значениями. По умолчанию значение 'true'. |
+| [RemoveEmptyContainers](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptycontainers/) { get; set; } | Получает или задает параметр, позволяющий удалять пустые контейнеры. По умолчанию значение 'true'. |
+| [RemoveEmptyText](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptytext/) { get; set; } | Получает или задает параметр, позволяющий удалять пустые элементы Text. По умолчанию значение 'true'. |
+| [RemoveHiddenElements](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removehiddenelements/) { get; set; } | Получает или задает параметр, позволяющий удалять элементы, которые не видимы при рендеринге. По умолчанию значение 'true'. |
+| [RemoveIndentsAndLineBreaks](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeindentsandlinebreaks/) { get; set; } | Получает или задает параметр, позволяющий удалять отступы строк и разрывы. По умолчанию значение 'true'. |
+| [RemoveMetadata](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removemetadata/) { get; set; } | Получает или задает параметр, позволяющий удалять метаданные. По умолчанию значение 'true'. |
+| [RemoveUnusedDefs](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunuseddefs/) { get; set; } | Получает или задает параметр, позволяющий удалять содержимое defs, которые не отображаются напрямую без идентификаторов. По умолчанию значение 'true'. |
+| [RemoveUnusedNamespaces](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunusednamespaces/) { get; set; } | Получает или задает параметр, позволяющий удалять объявление неиспользуемых пространств имён из элемента SVG, которые не используются в элементах или атрибутах. По умолчанию значение 'true'. |
+| [RemoveUselessStrokeAndFill](../../aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeuselessstrokeandfill/) { get; set; } | Получает или задает параметр, позволяющий удалять неиспользуемые атрибуты stroke и fill. По умолчанию значение 'true'. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../)

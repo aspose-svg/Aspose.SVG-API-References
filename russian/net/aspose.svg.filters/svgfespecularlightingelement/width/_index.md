@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFESpecularLightingElement свойство. Соответствует атрибуту ширина данного элемента фильтр.
+title: "SVGFESpecularLightingElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFESpecularLightingElement Width свойство. Соответствует атрибуту width в данном элементе фильтра"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.filters/svgfespecularlightingelement/width/
 ---
 ## SVGFESpecularLightingElement.Width property
 
-Соответствует атрибуту «ширина» данного элемента «фильтр».
+Соответствует атрибуту ‘width’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «ширина» данного элемента «фильтр».
+Атрибут ‘width’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFESpecularLightingElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

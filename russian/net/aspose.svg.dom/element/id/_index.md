@@ -1,27 +1,25 @@
 ---
-title: Element.Id
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. Идентификатор элемента. См. определение атрибута id в HTML 4.01. .
+title: "Element.Id"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element Id. Идентификатор элемента. См. определение атрибута id в HTML 4.01"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom/element/id/
 ---
 ## Element.Id property
 
-Идентификатор элемента. См. определение атрибута id в HTML 4.01. .
+Идентификатор элемента. См. определение атрибута id в HTML 4.01.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор.
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,30 +1,30 @@
 ---
-title: PlatformException.PlatformException
-second_title: Справочник по Aspose.SVG для .NET API
-description: PlatformException строитель. Инициализирует новый экземплярPlatformException класс.
+title: "PlatformException"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор PlatformException. Инициализирует новый экземпляр класса PlatformException."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}
 
-Инициализирует новый экземпляр[`PlatformException`](../) класс.
+Инициализирует новый экземпляр класса [`PlatformException`](../).
 
 ```csharp
 public PlatformException()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PlatformException](../)
-* пространство имен [Aspose.Svg](../../platformexception/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string) {#constructor_1}
+## PlatformException(*string*) {#constructor_1}
 
-Инициализирует новый экземпляр[`PlatformException`](../) класс с указанным сообщением об ошибке.
+Инициализирует новый экземпляр класса [`PlatformException`](../) с указанным сообщением об ошибке.
 
 ```csharp
 public PlatformException(string message)
@@ -32,19 +32,19 @@ public PlatformException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение, описывающее ошибку. |
+| сообщение | String | Сообщение, описывающее ошибку. |
 
-### Смотрите также
+### См. также
 
 * class [PlatformException](../)
-* пространство имен [Aspose.Svg](../../platformexception/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string, Exception) {#constructor_2}
+## PlatformException(*string, Exception*) {#constructor_2}
 
-Инициализирует новый экземпляр[`PlatformException`](../) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр класса [`PlatformException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной данного исключения.
 
 ```csharp
 public PlatformException(string message, Exception innerException)
@@ -52,13 +52,11 @@ public PlatformException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об ошибке, объясняющее причину исключения. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка, если внутреннее исключение не указано. |
+| сообщение | String | Сообщение об ошибке, объясняющее причину исключения. |
+| innerException | Исключение | Исключение, являющееся причиной текущего исключения, или null‑ссылка, если внутреннее исключение не указано. |
 
-### Смотрите также
+### См. также
 
 * class [PlatformException](../)
-* пространство имен [Aspose.Svg](../../platformexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

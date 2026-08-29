@@ -1,28 +1,26 @@
 ---
-title: Content.Headers
-second_title: Справочник по Aspose.SVG для .NET API
-description: Content свойство. Получает заголовки содержимого HTTP.
+title: "Content.Headers"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Content Headers свойство. Получает заголовки HTTP‑контента"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/content/headers/
 ---
 ## Content.Headers property
 
-Получает заголовки содержимого HTTP.
+Получает заголовки HTTP‑содержимого.
 
 ```csharp
 public ContentHeaders Headers { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Заголовки.
 
-### Смотрите также
+### См. также
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* пространство имен [Aspose.Svg.Net](../../content/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

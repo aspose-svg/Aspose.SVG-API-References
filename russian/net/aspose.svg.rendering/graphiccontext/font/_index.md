@@ -1,24 +1,22 @@
 ---
-title: GraphicContext.Font
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. Задает или получает объект шрифта истинного типа который используется для рендеринга текста.
+title: "GraphicContext.Font"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext Font. Устанавливает или получает объект TrueType‑шрифта, используемый для отрисовки текста"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.svg.rendering/graphiccontext/font/
 ---
 ## GraphicContext.Font property
 
-Задает или получает объект шрифта истинного типа, который используется для рендеринга текста.
+Устанавливает или получает объект шрифта TrueType, используемый для рендеринга текста.
 
 ```csharp
 public virtual ITrueTypeFont Font { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITrueTypeFont](../../../aspose.svg.drawing/itruetypefont/)
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

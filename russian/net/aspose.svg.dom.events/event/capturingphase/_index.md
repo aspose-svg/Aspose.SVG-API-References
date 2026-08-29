@@ -1,23 +1,21 @@
 ---
-title: Event.CapturingPhase
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event поле. Событие в настоящее время оценивается на целиIEventTarget .
+title: "Event.CapturingPhase"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле Event CapturingPhase. Событие в данный момент оценивается у целевого IEventTarget."
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.dom.events/event/capturingphase/
 ---
 ## Event.CapturingPhase field
 
-Событие в настоящее время оценивается на цели[`IEventTarget`](../../ieventtarget/) .
+Событие в данный момент оценивается у целевого [`IEventTarget`](../../ieventtarget/).
 
 ```csharp
 public const ushort CapturingPhase;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

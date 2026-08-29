@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEOffsetElement свойство. Соответствует атрибуту x данного элемента фильтр.
+title: "SVGFEOffsetElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEOffsetElement X. Соответствует атрибуту x в данном элементе filter."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.filters/svgfeoffsetelement/x/
 ---
 ## SVGFEOffsetElement.X property
 
-Соответствует атрибуту «x» данного элемента «фильтр».
+Соответствует атрибуту ‘x’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «x» данного элемента «фильтр».
+Атрибут ‘x’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEOffsetElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

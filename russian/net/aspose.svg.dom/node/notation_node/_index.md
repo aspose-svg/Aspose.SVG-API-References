@@ -1,23 +1,21 @@
 ---
-title: Node.NOTATION_NODE
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node поле. Нотация node
+title: "Node.NOTATION_NODE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле Node NOTATION_NODE. Узел нотации."
 type: docs
-weight: 410
+weight: 390
 url: /ru/net/aspose.svg.dom/node/notation_node/
 ---
 ## Node.NOTATION_NODE field
 
-Нотация node
+Узел нотации
 
 ```csharp
 public const ushort NOTATION_NODE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
