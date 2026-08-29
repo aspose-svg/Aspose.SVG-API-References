@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateHTMLDocument
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDOMImplementation метод. Возвращает документ с уже построенным базовым деревом включая элемент title если аргумент title не опущен.
+title: "IDOMImplementation.CreateHTMLDocument"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDOMImplementation CreateHTMLDocument. Возвращает документ с уже построенным базовым деревом, включающим элемент title, если аргумент title не опущен"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/idomimplementation/createhtmldocument/
 ---
 ## IDOMImplementation.CreateHTMLDocument method
 
-Возвращает документ с уже построенным базовым деревом, включая элемент title, если аргумент title не опущен.
+Возвращает документ с уже построенным базовым деревом, включающим элемент title, если аргумент title не указан.
 
 ```csharp
 public Document CreateHTMLDocument(string title)
@@ -16,17 +16,15 @@ public Document CreateHTMLDocument(string title)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | String | Название. |
+| title | String | Заголовок. |
 
 ### Возвращаемое значение
 
 Возвращает документ.
 
-### Смотрите также
+### См. также
 
 * class [Document](../../document/)
 * interface [IDOMImplementation](../)
-* пространство имен [Aspose.Svg.Dom](../../idomimplementation/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

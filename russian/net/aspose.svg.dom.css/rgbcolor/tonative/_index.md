@@ -1,14 +1,14 @@
 ---
-title: RGBColor.ToNative
-second_title: Справочник по Aspose.SVG для .NET API
-description: RGBColor метод. Преобразует объект в собственный цвет.
+title: "RGBColor.ToNative"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "RGBColor ToNative method. Преобразует в нативный объект цвета"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.css/rgbcolor/tonative/
 ---
 ## RGBColor.ToNative method
 
-Преобразует объект в собственный цвет.
+Преобразует в нативный объект цвета.
 
 ```csharp
 public Color ToNative()
@@ -16,12 +16,10 @@ public Color ToNative()
 
 ### Возвращаемое значение
 
-Color объект.
+Объект Color.
 
-### Смотрите также
+### См. также
 
 * class [RGBColor](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../rgbcolor/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

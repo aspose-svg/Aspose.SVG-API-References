@@ -1,7 +1,7 @@
 ---
-title: HttpMethod.Put
-second_title: Справочник по Aspose.SVG для .NET API
-description: HttpMethod свойство. Представляет метод протокола HTTP PUT.
+title: "HttpMethod.Put"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство HttpMethod Put. Представляет метод протокола HTTP PUT"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.net/httpmethod/put/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.net/httpmethod/put/
 public static HttpMethod Put { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Метод протокола HTTP PUT.
 
-### Смотрите также
+### См. также
 
 * class [HttpMethod](../)
-* пространство имен [Aspose.Svg.Net](../../httpmethod/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

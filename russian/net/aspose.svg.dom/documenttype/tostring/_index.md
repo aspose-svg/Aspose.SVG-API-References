@@ -1,14 +1,14 @@
 ---
-title: DocumentType.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentType метод. ВозвращаетString который представляет этот экземпляр.
+title: "DocumentType.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод DocumentType ToString. Возвращает строку, представляющую данный экземпляр"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom/documenttype/tostring/
 ---
 ## DocumentType.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [DocumentType](../)
-* пространство имен [Aspose.Svg.Dom](../../documenttype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

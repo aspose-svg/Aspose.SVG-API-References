@@ -1,7 +1,7 @@
 ---
-title: PdfDevice.PdfGraphicContext.PdfGraphicContext
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfGraphicContext строитель. Конструктор по умолчанию.
+title: "PdfDevice.PdfGraphicContext.PdfGraphicContext"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор PdfGraphicContext. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/pdfgraphiccontext/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/pdfgraphiccont
 public PdfGraphicContext()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfGraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

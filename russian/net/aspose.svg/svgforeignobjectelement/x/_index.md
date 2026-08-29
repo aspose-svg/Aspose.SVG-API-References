@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGForeignObjectElement свойство. Соответствует атрибуту x данного элемента foreignObject.
+title: "SVGForeignObjectElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGForeignObjectElement X. Соответствует атрибуту x данного элемента foreignObject"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgforeignobjectelement/x/
 ---
 ## SVGForeignObjectElement.X property
 
-Соответствует атрибуту «x» данного элемента «foreignObject».
+Соответствует атрибуту ‘x’ в данном элементе ‘foreignObject’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «x» данного элемента «foreignObject».
+Атрибут ‘x’ данного элемента ‘foreignObject’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* пространство имен [Aspose.Svg](../../svgforeignobjectelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IDevice.FillText
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Заполняет указанную текстовую строку в указанном месте.
+title: "IDevice.FillText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice FillText. Заполняет указанный текст в заданном месте"
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.rendering/idevice/filltext/
 ---
 ## IDevice.FillText method
 
-Заполняет указанную текстовую строку в указанном месте.
+Заполняет указанную строку текста в указанном месте.
 
 ```csharp
 public void FillText(string text, PointF pt)
@@ -16,13 +16,11 @@ public void FillText(string text, PointF pt)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Строка для заполнения. |
-| pt | PointF | Точка, указывающая координаты текста. |
+| текст | String | Строка для заполнения. |
+| pt | PointF | Точка, задающая координаты текста. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: StreamContent.StreamContent
-second_title: Справочник по Aspose.SVG для .NET API
-description: StreamContent строитель. Инициализирует новый экземплярStreamContent класс.
+title: "StreamContent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор StreamContent. Инициализирует новый экземпляр класса StreamContent"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/streamcontent/streamcontent/
 ---
 ## StreamContent constructor
 
-Инициализирует новый экземпляр[`StreamContent`](../) класс.
+Инициализирует новый экземпляр класса [`StreamContent`](../).
 
 ```csharp
 public StreamContent(Stream content)
@@ -16,12 +16,10 @@ public StreamContent(Stream content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | Stream | Контент. |
+| content | Stream | Содержимое. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContent](../)
-* пространство имен [Aspose.Svg.Net](../../streamcontent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

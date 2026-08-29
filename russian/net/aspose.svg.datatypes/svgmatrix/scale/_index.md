@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.Scale
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMatrix метод. Постумножает преобразование равномерного масштаба на текущую матрицу и возвращает результирующую матрицу.
+title: "SVGMatrix.Scale"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGMatrix Scale. Выполняет постмультипликацию равномерной масштабной трансформации к текущей матрице и возвращает получившуюся матрицу"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.datatypes/svgmatrix/scale/
 ---
 ## SVGMatrix.Scale method
 
-Пост-умножает преобразование равномерного масштаба на текущую матрицу и возвращает результирующую матрицу.
+Умножает текущую матрицу справа на преобразование равномерного масштабирования и возвращает полученную матрицу.
 
 ```csharp
 public SVGMatrix Scale(float scaleFactor)
@@ -16,16 +16,14 @@ public SVGMatrix Scale(float scaleFactor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scaleFactor | Single | Масштабный коэффициент как по X, так и по Y. |
+| scaleFactor | Single | Коэффициент масштабирования по осям X и Y. |
 
 ### Возвращаемое значение
 
 Полученная матрица.
 
-### Смотрите также
+### См. также
 
 * class [SVGMatrix](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgmatrix/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

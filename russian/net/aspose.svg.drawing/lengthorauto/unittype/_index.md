@@ -1,28 +1,26 @@
 ---
-title: LengthOrAuto.UnitType
-second_title: Справочник по Aspose.SVG для .NET API
-description: LengthOrAuto свойство. Получает тип единицы измеренияUnit .
+title: "LengthOrAuto.UnitType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство UnitType класса LengthOrAuto. Получает тип единицы измерения Unit"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.drawing/lengthorauto/unittype/
 ---
 ## LengthOrAuto.UnitType property
 
-Получает тип единицы измерения[`Unit`](../../unit/) .
+Получает тип единицы измерения [`Unit`](../../unit/).
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип юнита.
+Тип единицы.
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../../unittype/)
 * class [LengthOrAuto](../)
-* пространство имен [Aspose.Svg.Drawing](../../lengthorauto/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

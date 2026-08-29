@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BackgroundRepeat
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства backgroundrepeat в CSS2.
+title: "ICSS2Properties.BackgroundRepeat"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BackgroundRepeat интерфейса ICSS2Properties. См. определение свойства background-repeat в CSS2"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom.css/icss2properties/backgroundrepeat/
@@ -18,10 +18,8 @@ public string BackgroundRepeat { get; set; }
 
 свойство background-repeat
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

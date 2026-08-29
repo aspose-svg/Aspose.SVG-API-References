@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEGaussianBlurElement свойство. Соответствует атрибуту width данного элемента filter.
+title: "SVGFEGaussianBlurElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEGaussianBlurElement Width. Соответствует атрибуту width в данном элементе filter"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.filters/svgfegaussianblurelement/width/
 ---
 ## SVGFEGaussianBlurElement.Width property
 
-Соответствует атрибуту «width» данного элемента «filter».
+Соответствует атрибуту �width� в данном элементе �filter�.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «Ширина» данного элемента «Фильтр».
+Атрибут �width� данного �filter� элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

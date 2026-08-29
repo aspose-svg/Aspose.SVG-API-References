@@ -1,23 +1,21 @@
 ---
-title: CSSValue.CSS_PRIMITIVE_VALUE
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSValue поле. Значение является примитивным значением и экземпляр интерфейса CSSPrimitiveValue можно получить с помощью методов приведения специфичных для привязки для этого экземпляра интерфейса CSSValue.
+title: "CSSValue.CSS_PRIMITIVE_VALUE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле CSSValue CSS_PRIMITIVE_VALUE. Значение является примитивным, и экземпляр интерфейса CSSPrimitiveValue можно получить, используя специфичные для привязки методы приведения типов к этому экземпляру интерфейса CSSValue."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom.css/cssvalue/css_primitive_value/
 ---
 ## CSSValue.CSS_PRIMITIVE_VALUE field
 
-Значение является примитивным значением, и экземпляр интерфейса CSSPrimitiveValue можно получить с помощью методов приведения, специфичных для привязки, для этого экземпляра интерфейса CSSValue.
+Значение является примитивным, и экземпляр интерфейса CSSPrimitiveValue можно получить, используя специфичные для привязки методы приведения типов к этому экземпляру интерфейса CSSValue.
 
 ```csharp
 public const ushort CSS_PRIMITIVE_VALUE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

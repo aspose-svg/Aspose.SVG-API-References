@@ -1,7 +1,7 @@
 ---
-title: DOMException.ABORT_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Операция была прервана.
+title: "DOMException.ABORT_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException ABORT_ERR. Операция была прервана"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/domexception/abort_err/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom/domexception/abort_err/
 public const ushort ABORT_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_LIGHTEN
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEBlendElement поле. Соответствует значению осветлить.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_LIGHTEN"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FEBLEND_MODE_LIGHTEN класса SVGFEBlendElement. Соответствует значению lighten."
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_lighten/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_LIGHTEN field
 
-Соответствует значению «осветлить».
+Соответствует значению 'lighten'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_LIGHTEN;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEBlendElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeblendelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: DOMException.TYPE_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Выражение не может быть преобразовано для возврата указанного типа.
+title: "DOMException.TYPE_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException TYPE_ERR. Выражение не может быть преобразовано к возвращаемому указанному типу"
 type: docs
 weight: 270
 url: /ru/net/aspose.svg.dom/domexception/type_err/
 ---
 ## DOMException.TYPE_ERR field
 
-Выражение не может быть преобразовано для возврата указанного типа.
+Выражение нельзя преобразовать к возвращаемому указанному типу.
 
 ```csharp
 public const ushort TYPE_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

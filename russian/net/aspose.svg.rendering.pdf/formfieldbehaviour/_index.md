@@ -1,29 +1,27 @@
 ---
-title: Enum FormFieldBehaviour
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.Pdf.FormFieldBehaviour перечисление. Это перечисление используется для указания поведения полей формы в выходном PDFдокументе.
+title: "Перечисление FormFieldBehaviour"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "**Aspose.Svg.Rendering.Pdf.FormFieldBehaviour** перечисление. Это перечисление используется для указания поведения полей формы в результирующем PDF‑документе."
 type: docs
-weight: 2940
+weight: 5010
 url: /ru/net/aspose.svg.rendering.pdf/formfieldbehaviour/
 ---
 ## FormFieldBehaviour enumeration
 
-Это перечисление используется для указания поведения полей формы в выходном PDF-документе.
+Это перечисление используется для указания поведения полей формы в результирующем PDF‑документе.
 
 ```csharp
 public enum FormFieldBehaviour
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Interactive | `0` | Выходной PDF-документ будет содержать поля интерактивной формы. |
-| Flattened | `1` | Выходной PDF-документ будет содержать плоские поля формы. |
+| Interactive | `0` | В результирующем PDF‑документе будут содержаться интерактивные поля формы. |
+| Flattened | `1` | В результирующем PDF‑документе будут содержаться уплощённые поля формы. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

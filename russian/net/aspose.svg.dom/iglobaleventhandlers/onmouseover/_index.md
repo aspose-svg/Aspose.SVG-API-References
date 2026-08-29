@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnMouseOver
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnMouseOver.
+title: "IGlobalEventHandlers.OnMouseOver"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IGlobalEventHandlers событие OnMouseOver. Получает или задает обработчик события для события OnMouseOver"
 type: docs
 weight: 290
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onmouseover/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onmouseover/
 public event DOMEventHandler OnMouseOver;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

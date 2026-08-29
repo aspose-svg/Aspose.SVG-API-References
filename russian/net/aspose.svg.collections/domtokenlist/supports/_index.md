@@ -1,7 +1,7 @@
 ---
-title: DOMTokenList.Supports
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMTokenList метод. Возвращает true если данный токен находится в поддерживаемых токенах связанного атрибута.
+title: "DOMTokenList.Supports"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод DOMTokenList Supports. Возвращает true, если указанный токен присутствует в поддерживаемых токенах связанных атрибутов."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.collections/domtokenlist/supports/
@@ -16,16 +16,14 @@ public bool Supports(string token)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| token | String | Токен для запроса. |
+| токен | String | Токен для запроса. |
 
 ### Возвращаемое значение
 
-Логическое значение, указывающее, был ли найден токен.
+Булево, указывающее, найден ли токен.
 
-### Смотрите также
+### См. также
 
 * class [DOMTokenList](../)
-* пространство имен [Aspose.Svg.Collections](../../domtokenlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

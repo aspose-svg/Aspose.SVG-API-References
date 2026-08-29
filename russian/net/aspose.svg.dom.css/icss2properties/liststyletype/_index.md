@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.ListStyleType
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства типа списка в CSS2.
+title: "ICSS2Properties.ListStyleType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ListStyleType в ICSS2Properties. См. определение свойства list-style-type в CSS2"
 type: docs
-weight: 620
+weight: 650
 url: /ru/net/aspose.svg.dom.css/icss2properties/liststyletype/
 ---
 ## ICSS2Properties.ListStyleType property
 
-См. определение свойства типа списка в CSS2.
+См. определение свойства list-style-type в CSS2.
 
 ```csharp
 public string ListStyleType { get; set; }
@@ -16,12 +16,10 @@ public string ListStyleType { get; set; }
 
 ### Возвращаемое значение
 
-свойство типа списка
+свойство list-style-type
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

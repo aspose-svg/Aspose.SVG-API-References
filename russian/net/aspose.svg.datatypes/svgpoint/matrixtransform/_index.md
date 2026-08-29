@@ -1,14 +1,14 @@
 ---
-title: SVGPoint.MatrixTransform
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPoint метод. Применяет матричное преобразование 2x3 к этому объекту SVGPoint и возвращает новый преобразованный объект SVGPoint newpoint  matrix thispoint
+title: "SVGPoint.MatrixTransform"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGPoint MatrixTransform. Применяет 2x3 матричное преобразование к этому объекту SVGPoint и возвращает новый преобразованный объект SVGPoint newpoint  matrix thispoint"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.datatypes/svgpoint/matrixtransform/
 ---
 ## SVGPoint.MatrixTransform method
 
-Применяет матричное преобразование 2x3 к этому объекту SVGPoint и возвращает новый, преобразованный объект SVGPoint: newpoint = matrix* thispoint
+Применяет 2x3 матричное преобразование к этому объекту SVGPoint и возвращает новый, преобразованный объект SVGPoint: newpoint = matrix* thispoint
 
 ```csharp
 public SVGPoint MatrixTransform(SVGMatrix matrix)
@@ -22,11 +22,9 @@ public SVGPoint MatrixTransform(SVGMatrix matrix)
 
 Новый объект SVGPoint.
 
-### Смотрите также
+### См. также
 
 * class [SVGMatrix](../../svgmatrix/)
 * class [SVGPoint](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgpoint/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

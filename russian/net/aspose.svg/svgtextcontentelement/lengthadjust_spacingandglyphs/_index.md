@@ -1,7 +1,7 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTextContentElement поле. Соответствует значению spacingAndGlyphs.
+title: "SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле LENGTHADJUST_SPACINGANDGLYPHS элемента SVGTextContentElement. Соответствует значению spacingAndGlyphs."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
 public const ushort LENGTHADJUST_SPACINGANDGLYPHS;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGTextContentElement](../)
-* пространство имен [Aspose.Svg](../../svgtextcontentelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

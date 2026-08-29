@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnEmptied
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnEmptied.
+title: "IGlobalEventHandlers.OnEmptied"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnEmptied. Получает или задает обработчик события для события OnEmptied"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onemptied/
 ---
 ## IGlobalEventHandlers.OnEmptied event
 
-Получает или задает обработчик события OnEmptied.
+Получает или задаёт обработчик события OnEmptied.
 
 ```csharp
 public event DOMEventHandler OnEmptied;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

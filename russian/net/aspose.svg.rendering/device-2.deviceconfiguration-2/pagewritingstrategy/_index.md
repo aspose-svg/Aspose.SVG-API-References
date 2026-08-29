@@ -1,28 +1,26 @@
 ---
-title: Device2.DeviceConfiguration2.PageWritingStrategy
-second_title: Справочник по Aspose.SVG для .NET API
-description: DeviceConfiguration свойство. Получает или задает стратегию записи страницы.
+title: "Device-2.DeviceConfiguration-2.PageWritingStrategy"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство DeviceConfiguration PageWritingStrategy. Возвращает или задает стратегию записи страниц."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy property
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions>.PageWritingStrategy property
 
-Получает или задает стратегию записи страницы.
+Получает или задает стратегию записи страниц.
 
 ```csharp
 public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrategy { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Стратегия написания страницы.
+Стратегия записи страниц.
 
-### Смотрите также
+### См. также
 
 * enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](../../device-2.pagewritingstrategy-2/)
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2.deviceconfiguration-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

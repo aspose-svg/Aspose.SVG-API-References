@@ -1,23 +1,21 @@
 ---
-title: BezierPathBuilder.MaxIterations
-second_title: Справочник по Aspose.SVG для .NET API
-description: BezierPathBuilder свойство. Получает или задает порог ошибки. Этот параметр определяет количество итераций для метода аппроксимации наименьших квадратов. По умолчанию 30.
+title: "BezierPathBuilder.MaxIterations"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BezierPathBuilder MaxIterations. Возвращает или задает порог ошибки. Этот параметр определяет количество итераций для метода наименьших квадратов. По умолчанию равно 30"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.imagevectorization/bezierpathbuilder/maxiterations/
 ---
 ## BezierPathBuilder.MaxIterations property
 
-Получает или задает порог ошибки. Этот параметр определяет количество итераций для метода аппроксимации наименьших квадратов. По умолчанию 30.
+Получает или задает порог ошибки. Этот параметр определяет количество итераций метода наименьших квадратов. По умолчанию он равен 30.
 
 ```csharp
 public int MaxIterations { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BezierPathBuilder](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

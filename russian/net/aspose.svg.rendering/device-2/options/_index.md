@@ -1,23 +1,21 @@
 ---
-title: Device2.Options
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device свойство. Получает параметры рендеринга.
+title: "Device-2.Options"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device Options property. Получает параметры рендеринга."
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.svg.rendering/device-2/options/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property
+## Device<TGraphicContext,TRenderingOptions>.Options property
 
-Получает параметры рендеринга.
+Получает параметры отрисовки.
 
 ```csharp
 public TRenderingOptions Options { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

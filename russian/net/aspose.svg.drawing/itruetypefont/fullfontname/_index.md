@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.FullFontName
-second_title: Справочник по Aspose.SVG для .NET API
-description: ITrueTypeFont свойство. Это должно быть сочетание FamilyName и SubFamilyName. Исключение если шрифт Обычный как указано в SubFamilyName используйте только имя семейства содержащееся в FamilyName. Исключением из приведенного выше определения полного имени шрифта являются строки платформы Microsoft. для шрифтов CFF OpenType в этом случае строка полного имени шрифта должна быть идентична PostScript FontName в имени CFF INDEX.
+title: "ITrueTypeFont.FullFontName"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ITrueTypeFont FullFontName. Полное имя шрифта обычно представляется как комбинация названий семейства и подсемейства."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-Это должно быть сочетание "FamilyName" и "SubFamilyName". Исключение: если шрифт «Обычный», как указано в «SubFamilyName», используйте только имя семейства, содержащееся в «FamilyName». Исключением из приведенного выше определения полного имени шрифта являются строки платформы Microsoft. для шрифтов CFF OpenType: в этом случае строка полного имени шрифта должна быть идентична PostScript FontName в имени CFF INDEX.
+Полное название шрифта обычно представляется как комбинация названий семейства и подсемейства.
 
 ```csharp
 public string FullFontName { get; }
@@ -16,12 +16,10 @@ public string FullFontName { get; }
 
 ### Возвращаемое значение
 
-Полное название шрифта
+Полное имя шрифта.
 
-### Смотрите также
+### См. также
 
 * interface [ITrueTypeFont](../)
-* пространство имен [Aspose.Svg.Drawing](../../itruetypefont/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

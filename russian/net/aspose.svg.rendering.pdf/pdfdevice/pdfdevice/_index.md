@@ -1,14 +1,14 @@
 ---
-title: PdfDevice.PdfDevice
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfDevice строитель. Инициализирует новый экземплярPdfDevice класс.
+title: "PdfDevice"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор PdfDevice. Инициализирует новый экземпляр класса PdfDevice."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice(ICreateStreamProvider) {#constructor}
+## PdfDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Инициализирует новый экземпляр[`PdfDevice`](../) класс.
+Инициализирует новый экземпляр класса [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Провайдер потока. |
+| streamProvider | ICreateStreamProvider | Поставщик потока. |
 
-### Смотрите также
+### См. также
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Инициализирует новый экземпляр[`PdfDevice`](../) класс по параметрам рендеринга и потоковому провайдеру.
+Инициализирует новый экземпляр класса [`PdfDevice`](../) с параметрами рендеринга и поставщиком потока.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Варианты рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) интерфейс |
+| options | PdfRenderingOptions | Параметры рендеринга. |
+| streamProvider | ICreateStreamProvider | Объект, реализующий интерфейс [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/). |
 
-### Смотрите также
+### См. также
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(string) {#constructor_5}
+## PdfDevice(*string*) {#constructor_5}
 
-Инициализирует новый экземпляр[`PdfDevice`](../) класс.
+Инициализирует новый экземпляр класса [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(string file)
@@ -62,17 +62,17 @@ public PdfDevice(string file)
 | --- | --- | --- |
 | file | String | Имя выходного файла. |
 
-### Смотрите также
+### См. также
 
 * class [PdfDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#constructor_3}
 
-Инициализирует новый экземпляр[`PdfDevice`](../) класс по параметрам рендеринга и имени выходного файла.
+Инициализирует новый экземпляр класса [`PdfDevice`](../) с параметрами рендеринга и именем выходного файла.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Варианты рендеринга. |
+| options | PdfRenderingOptions | Параметры рендеринга. |
 | file | String | Имя выходного файла. |
 
-### Смотрите также
+### См. также
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(Stream) {#constructor_4}
+## PdfDevice(*Stream*) {#constructor_4}
 
-Инициализирует новый экземпляр[`PdfDevice`](../) класс.
+Инициализирует новый экземпляр класса [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -104,17 +104,17 @@ public PdfDevice(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Поток. |
 
-### Смотрите также
+### См. также
 
 * class [PdfDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#constructor_2}
 
-Инициализирует новый экземпляр[`PdfDevice`](../) класс по параметрам рендеринга и выходному потоку.
+Инициализирует новый экземпляр класса [`PdfDevice`](../) с параметрами рендеринга и выходным потоком.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -122,14 +122,12 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Варианты рендеринга. |
+| options | PdfRenderingOptions | Параметры рендеринга. |
 | stream | Stream | Выходной поток. |
 
-### Смотрите также
+### См. также
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

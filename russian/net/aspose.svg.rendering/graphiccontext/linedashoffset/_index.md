@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.LineDashOffset
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. Устанавливает или получает смещение фазы текущего шаблона пунктирной линии.
+title: "GraphicContext.LineDashOffset"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext LineDashOffset. Устанавливает или получает фазовый сдвиг текущего шаблона штриховки линии."
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.svg.rendering/graphiccontext/linedashoffset/
 ---
 ## GraphicContext.LineDashOffset property
 
-Устанавливает или получает смещение фазы текущего шаблона пунктирной линии.
+Устанавливает или получает фазовый сдвиг текущего шаблона пунктирной линии.
 
 ```csharp
 public virtual float LineDashOffset { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

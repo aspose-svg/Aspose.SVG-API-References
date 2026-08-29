@@ -1,27 +1,25 @@
 ---
-title: IWindow.Name
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindow свойство. Атрибут name объекта Window должен при получении возвращать текущее имя контекста просмотра а при настройке устанавливать имя контекста просмотра в новое значение.
+title: "IWindow.Name"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IWindow Name. Атрибут name объекта Window при чтении должен возвращать текущее имя контекста просмотра, а при установке задавать имя контекста просмотра новому значению."
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.svg.window/iwindow/name/
 ---
 ## IWindow.Name property
 
-Атрибут name объекта Window должен при получении возвращать текущее имя контекста просмотра, а при настройке устанавливать имя контекста просмотра в новое значение.
+Атрибут name объекта Window при чтении должен возвращать текущее имя контекста просмотра, а при установке — задавать имя контекста просмотра новым значением.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя.
 
-### Смотрите также
+### См. также
 
 * interface [IWindow](../)
-* пространство имен [Aspose.Svg.Window](../../iwindow/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

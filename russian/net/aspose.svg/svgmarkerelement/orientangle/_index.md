@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.OrientAngle
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMarkerElement свойство. Соответствует атрибуту ориентация данного элемента маркер. Если markerUnits равно SVG_MARKER_ORIENT_ANGLE значение угла для атрибута ориентация в противном случае он будет равен нулю.
+title: "SVGMarkerElement.OrientAngle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGMarkerElement OrientAngle свойство. Соответствует атрибуту orient в данном элементе marker. Если markerUnits равно SVG_MARKER_ORIENT_ANGLE, то значение угла для атрибута orient, иначе будет установлено в ноль"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgmarkerelement/orientangle/
 ---
 ## SVGMarkerElement.OrientAngle property
 
-Соответствует атрибуту «ориентация» данного элемента «маркер». Если markerUnits равно SVG_MARKER_ORIENT_ANGLE, значение угла для атрибута 'ориентация'; в противном случае он будет равен нулю.
+Соответствует атрибуту ‘orient’ в данном элементе ‘marker’. Если markerUnits имеет значение SVG_MARKER_ORIENT_ANGLE, используется значение угла для атрибута ‘orient’; в противном случае будет установлено значение ноль.
 
 ```csharp
 public SVGAnimatedAngle OrientAngle { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «ориентация» данного элемента «маркер».
+Атрибут ‘orient’ данного элемента ‘marker’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedAngle](../../../aspose.svg.datatypes/svganimatedangle/)
 * class [SVGMarkerElement](../)
-* пространство имен [Aspose.Svg](../../svgmarkerelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

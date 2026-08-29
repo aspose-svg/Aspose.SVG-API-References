@@ -1,14 +1,14 @@
 ---
-title: Document.CreateComment
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает узел Comment с заданной строкой.
+title: "Document.CreateComment"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateComment. Создаёт узел Comment, используя указанную строку."
 type: docs
 weight: 820
 url: /ru/net/aspose.svg.dom/document/createcomment/
 ---
 ## Document.CreateComment method
 
-Создает узел Comment с заданной строкой.
+Создаёт узел Comment, используя указанную строку.
 
 ```csharp
 public Comment CreateComment(string data)
@@ -16,17 +16,15 @@ public Comment CreateComment(string data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | String | Данные комментариев. |
+| данные | String | Данные комментария. |
 
 ### Возвращаемое значение
 
-[`Comment`](../../comment/) .
+Эта [`Comment`](../../comment/).
 
-### Смотрите также
+### См. также
 
 * class [Comment](../../comment/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

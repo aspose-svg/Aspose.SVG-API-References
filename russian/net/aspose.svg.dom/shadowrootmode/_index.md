@@ -1,9 +1,9 @@
 ---
-title: Enum ShadowRootMode
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.ShadowRootMode перечисление. Режимы в которых может работать ShadowRoot.
+title: "ShadowRootMode Перечисление"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.ShadowRootMode перечисление. Режимы, в которых может работать ShadowRoot."
 type: docs
-weight: 1190
+weight: 3190
 url: /ru/net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
@@ -14,16 +14,14 @@ url: /ru/net/aspose.svg.dom/shadowrootmode/
 public enum ShadowRootMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Open | `0` | "открытый" режим. |
-| Closed | `1` | "закрытый" режим. |
+| Open | `0` | "open" режим. |
+| Closed | `1` | "closed" режим. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

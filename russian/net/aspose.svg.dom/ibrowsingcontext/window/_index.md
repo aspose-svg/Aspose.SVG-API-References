@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Window
-second_title: Справочник по Aspose.SVG для .NET API
-description: IBrowsingContext свойство. Получает объект WindowProxy.
+title: "IBrowsingContext.Window"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IBrowsingContext Window property. Получает объект WindowProxy"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom/ibrowsingcontext/window/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom/ibrowsingcontext/window/
 public IWindow Window { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Окно.
 
-### Смотрите также
+### См. также
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * interface [IBrowsingContext](../)
-* пространство имен [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

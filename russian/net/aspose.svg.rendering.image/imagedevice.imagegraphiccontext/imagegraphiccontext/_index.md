@@ -1,7 +1,7 @@
 ---
-title: ImageDevice.ImageGraphicContext.ImageGraphicContext
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageGraphicContext строитель. Конструктор по умолчанию.
+title: "ImageDevice.ImageGraphicContext.ImageGraphicContext"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ImageGraphicContext. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/imagegraphiccontext/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/imagegra
 public ImageGraphicContext()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageGraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagedevice.imagegraphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

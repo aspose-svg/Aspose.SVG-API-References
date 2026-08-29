@@ -1,7 +1,7 @@
 ---
-title: PdfSaveOptions.PdfSaveOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfSaveOptions строитель. Конструктор по умолчанию.
+title: "PdfSaveOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор PdfSaveOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.saving/pdfsaveoptions/pdfsaveoptions/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.saving/pdfsaveoptions/pdfsaveoptions/
 public PdfSaveOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfSaveOptions](../)
-* пространство имен [Aspose.Svg.Saving](../../pdfsaveoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ImageTraceSmoother.Smooth
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageTraceSmoother метод. Сглаживает трассировку.
+title: "ImageTraceSmoother.Smooth"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Smooth класса ImageTraceSmoother. Сглаживает трассу."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.imagevectorization/imagetracesmoother/smooth/
@@ -16,16 +16,14 @@ public virtual IEnumerable<PointF> Smooth(IEnumerable<PointF> trace)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Список точек трассировки. |
+| трасса | IEnumerable`1 | Список точек трассы. |
 
 ### Возвращаемое значение
 
-Список сглаженных точек трассировки.
+Список сглаженных точек трассы.
 
-### Смотрите также
+### См. также
 
 * class [ImageTraceSmoother](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: UIEvent.Detail
-second_title: Справочник по Aspose.SVG для .NET API
-description: UIEvent свойство. Указывает некоторую подробную информацию о событии в зависимости от типа события.
+title: "UIEvent.Detail"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство UIEvent Detail. Указывает некоторую детальную информацию о событии в зависимости от типа события."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.events/uievent/detail/
 ---
 ## UIEvent.Detail property
 
-Указывает некоторую подробную информацию о событии в зависимости от типа события.
+Указывает некоторую детальную информацию о событии, в зависимости от типа события.
 
 ```csharp
 public long Detail { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Подробные данные.
+Детальные данные.
 
-### Смотрите также
+### См. также
 
 * class [UIEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../uievent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

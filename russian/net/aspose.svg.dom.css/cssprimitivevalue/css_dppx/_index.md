@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_DPPX
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение  количество точек на единицу пикселей dppx.
+title: "CSSPrimitiveValue.CSS_DPPX"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_DPPX поле. Значение представляет собой единицу «точек на пиксель» (dppx)."
 type: docs
 weight: 190
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_dppx/
 ---
 ## CSSPrimitiveValue.CSS_DPPX field
 
-Значение — количество точек на единицу пикселей (dppx).
+Значение — точек на единицу ‘px’ (dppx).
 
 ```csharp
 public const ushort CSS_DPPX;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

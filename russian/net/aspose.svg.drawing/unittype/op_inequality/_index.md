@@ -1,14 +1,14 @@
 ---
-title: UnitType.op_Inequality
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType метод. Определяет являются ли два указанныхUnitType значения не равны.
+title: "UnitType.op_Inequality"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод UnitType op_Inequality. Определяет, не равны ли два указанных значения UnitType"
 type: docs
 weight: 370
 url: /ru/net/aspose.svg.drawing/unittype/op_inequality/
 ---
 ## UnitType Inequality operator
 
-Определяет, являются ли два указанных[`UnitType`](../) значения не равны.
+Определяет, не равны ли два указанных значения [`UnitType`](../).
 
 ```csharp
 public static bool operator !=(UnitType first, UnitType second)
@@ -16,17 +16,15 @@ public static bool operator !=(UnitType first, UnitType second)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| first | UnitType | Первый[`UnitType`](../) значение для сравнения. |
-| second | UnitType | Второй[`UnitType`](../) значение для сравнения. |
+| first | UnitType | Первое значение [`UnitType`](../) для сравнения. |
+| second | UnitType | Второе значение [`UnitType`](../) для сравнения. |
 
 ### Возвращаемое значение
 
-`истинный` если оба[`UnitType`](../) не равны; в противном случае,`ЛОЖЬ` .
+`true` если оба значения [`UnitType`](../) не равны; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

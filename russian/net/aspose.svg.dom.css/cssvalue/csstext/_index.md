@@ -1,27 +1,27 @@
 ---
-title: CSSValue.CSSText
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSValue свойство. Строковое представление текущего значения.
+title: "CSSValue.CSSText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство CSSValue CSSText. Свойство CSSText интерфейса CSSValue представляет текущее вычисленное значение CSS‑свойства."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
 
-Строковое представление текущего значения.
+Свойство CSSText интерфейса [`CSSValue`](../) представляет текущее вычисленное значение CSS‑свойства.
+
+Примечание: Это свойство было частью попытки создать типизированную объектную модель CSS. Эта попытка была прекращена, и большинство браузеров её не реализуют.
 
 ```csharp
 public abstract string CSSText { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Текст CSS.
+DOMString, представляющая текущее значение CSS свойства.
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

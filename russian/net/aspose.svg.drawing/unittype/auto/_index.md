@@ -1,7 +1,7 @@
 ---
-title: UnitType.Auto
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение не определено.
+title: "UnitType.Auto"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Auto. Измерение не определено"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/unittype/auto/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/auto/
 public static readonly UnitType Auto;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

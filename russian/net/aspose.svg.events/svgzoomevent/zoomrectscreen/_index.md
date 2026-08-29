@@ -1,7 +1,7 @@
 ---
-title: SVGZoomEvent.ZoomRectScreen
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGZoomEvent свойство. Указанный прямоугольник масштабирования в единицах экрана. Объект SVGRect доступен только для чтения.
+title: "SVGZoomEvent.ZoomRectScreen"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGZoomEvent ZoomRectScreen свойство. Указанный прямоугольник масштабирования в единицах экрана. Объект SVGRect только для чтения"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.events/svgzoomevent/zoomrectscreen/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.events/svgzoomevent/zoomrectscreen/
 public SVGRect ZoomRectScreen { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGRect](../../../aspose.svg.datatypes/svgrect/)
 * class [SVGZoomEvent](../)
-* пространство имен [Aspose.Svg.Events](../../svgzoomevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

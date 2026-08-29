@@ -1,14 +1,14 @@
 ---
-title: Interface INetwork
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.INetwork интерфейс. Предоставляет интерфейс для сетевых служб.
+title: "Интерфейс INetwork"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Net.INetwork. Предоставляет интерфейс для сетевых сервисов"
 type: docs
-weight: 2300
+weight: 4370
 url: /ru/net/aspose.svg.net/inetwork/
 ---
 ## INetwork interface
 
-Предоставляет интерфейс для сетевых служб.
+Предоставляет интерфейс для сетевых сервисов.
 
 ```csharp
 public interface INetwork : IDisposable
@@ -18,11 +18,9 @@ public interface INetwork : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Send](../../aspose.svg.net/inetwork/send/)(RequestMessage) | Отправляет[`RequestMessage`](../requestmessage/) сообщение. |
+| [Send](../../aspose.svg.net/inetwork/send/)(*[RequestMessage](../requestmessage/)*) | Отправляет сообщение [`RequestMessage`](../requestmessage/). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net](../../aspose.svg.net/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

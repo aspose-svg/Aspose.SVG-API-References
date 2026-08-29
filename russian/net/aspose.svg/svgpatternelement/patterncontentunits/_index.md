@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternContentUnits
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPatternElement свойство. Соответствует атрибуту patternContentUnits данного элемента pattern. Принимает одну из констант определенных в SVGUnitTypes.
+title: "SVGPatternElement.PatternContentUnits"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PatternContentUnits элемента SVGPatternElement. Соответствует атрибуту patternContentUnits данного элемента pattern. Принимает одну из констант, определённых в SVGUnitTypes."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgpatternelement/patterncontentunits/
 ---
 ## SVGPatternElement.PatternContentUnits property
 
-Соответствует атрибуту «patternContentUnits» данного элемента «pattern». Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту ‘patternContentUnits’ в указанном элементе ‘pattern’. Принимает одну из констант, определённых в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration PatternContentUnits { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'patternContentUnits' данного элемента 'pattern'.
+Атрибут ‘patternContentUnits’ данного элемента ‘pattern’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGPatternElement](../)
-* пространство имен [Aspose.Svg](../../svgpatternelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

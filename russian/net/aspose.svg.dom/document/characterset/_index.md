@@ -1,7 +1,7 @@
 ---
-title: Document.CharacterSet
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Получает кодировку документа.
+title: "Document.CharacterSet"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document CharacterSet. Возвращает кодировку документа."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/document/characterset/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/document/characterset/
 public string CharacterSet { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Кодировка документа.
 
-### Смотрите также
+### См. также
 
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

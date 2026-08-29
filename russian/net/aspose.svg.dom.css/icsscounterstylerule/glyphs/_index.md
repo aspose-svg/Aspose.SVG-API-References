@@ -1,23 +1,21 @@
 ---
-title: ICSSCounterStyleRule.Glyphs
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSCounterStyleRule свойство. Получает глифы.
+title: "ICSSCounterStyleRule.Glyphs"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Glyphs интерфейса ICSSCounterStyleRule. Возвращает глифы"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/icsscounterstylerule/glyphs/
 ---
 ## ICSSCounterStyleRule.Glyphs property
 
-Получает глифы.
+Возвращает глифы.
 
 ```csharp
 public string Glyphs { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSCounterStyleRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

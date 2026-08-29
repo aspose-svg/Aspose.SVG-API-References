@@ -1,28 +1,26 @@
 ---
-title: SVGViewElement.ViewTarget
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGViewElement свойство. Соответствует атрибуту viewTarget данного элемента представление. Список значений DOMString содержащих имена перечисленные в атрибуте viewTarget. Каждое из значений DOMString может быть связано с соответствующим элементом с помощью вызова метода getElementById.
+title: "SVGViewElement.ViewTarget"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGViewElement ViewTarget. Соответствует атрибуту viewTarget данного view‑элемента. Список значений DOMString, содержащих имена, указанные в атрибуте viewTarget. Каждое значение DOMString может быть связано с соответствующим элементом с помощью вызова метода getElementById."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgviewelement/viewtarget/
 ---
 ## SVGViewElement.ViewTarget property
 
-Соответствует атрибуту «viewTarget» данного элемента «представление». Список значений DOMString, содержащих имена, перечисленные в атрибуте viewTarget. Каждое из значений DOMString может быть связано с соответствующим элементом с помощью вызова метода getElementById().
+Соответствует атрибуту ‘viewTarget’ в указанном элементе ‘view’. Список значений DOMString, содержащих имена, указанные в атрибуте ‘viewTarget’. Каждое значение DOMString может быть связано с соответствующим элементом с помощью вызова метода getElementById().
 
 ```csharp
 public SVGStringList ViewTarget { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут viewTarget данного элемента view.
+Атрибут ‘viewTarget’ данного ‘view’ элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGViewElement](../)
-* пространство имен [Aspose.Svg](../../svgviewelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

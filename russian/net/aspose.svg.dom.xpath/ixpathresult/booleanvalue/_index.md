@@ -1,7 +1,7 @@
 ---
-title: IXPathResult.BooleanValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: IXPathResult свойство. Значение этого логического результата.
+title: "IXPathResult.BooleanValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IXPathResult BooleanValue. Значение этого логического результата."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.xpath/ixpathresult/booleanvalue/
@@ -18,12 +18,10 @@ public bool BooleanValue { get; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: возникает, если`тип результата` не `логический` тип. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: вызывается, если `resultType` не имеет тип `Boolean`. |
 
-### Смотрите также
+### См. также
 
 * interface [IXPathResult](../)
-* пространство имен [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: DocumentFragment.InnerHTML
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentFragment свойство. Возвращает фрагмент HTML или XML представляющий содержимое элемента. Можно установить чтобы заменить содержимое элемента узлами проанализированными из заданной строки.
+title: "DocumentFragment.InnerHTML"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "DocumentFragment InnerHTML property. Возвращает фрагмент HTML или XML, представляющий содержимое элемента. Может быть установлен для замены содержимого элемента узлами, разобранными из заданной строки."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/documentfragment/innerhtml/
 ---
 ## DocumentFragment.InnerHTML property
 
-Возвращает фрагмент HTML или XML, представляющий содержимое элемента. Можно установить, чтобы заменить содержимое элемента узлами, проанализированными из заданной строки.
+Возвращает фрагмент HTML или XML, представляющий содержимое элемента. Можно установить, чтобы заменить содержимое элемента узлами, разобранными из заданной строки.
 
 ```csharp
 public string InnerHTML { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Внутренний HTML.
 
-### Смотрите также
+### См. также
 
 * class [DocumentFragment](../)
-* пространство имен [Aspose.Svg.Dom](../../documentfragment/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

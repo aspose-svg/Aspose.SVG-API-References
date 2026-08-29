@@ -1,28 +1,26 @@
 ---
-title: Class SaveOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Saving.SaveOptions сорт. Это абстрактный базовый класс для классов которые позволяют пользователю указывать дополнительные параметры при сохранении документа в определенном формате.
+title: "Класс SaveOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Saving.SaveOptions. Это абстрактный базовый класс для классов, позволяющих пользователю задавать дополнительные параметры при сохранении документа в определённый формат"
 type: docs
-weight: 3680
+weight: 5810
 url: /ru/net/aspose.svg.saving/saveoptions/
 ---
 ## SaveOptions class
 
-Это абстрактный базовый класс для классов, которые позволяют пользователю указывать дополнительные параметры при сохранении документа в определенном формате.
+Это абстрактный базовый класс для классов, позволяющих пользователю указывать дополнительные параметры при сохранении документа в определённый формат.
 
 ```csharp
 public abstract class SaveOptions
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Получает[`ResourceHandlingOptions`](../resourcehandlingoptions/) объект, который используется для настройки обработки ресурсов. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Получает объект [`ResourceHandlingOptions`](../resourcehandlingoptions/), используемый для настройки обработки ресурсов. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

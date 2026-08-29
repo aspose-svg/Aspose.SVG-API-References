@@ -1,23 +1,21 @@
 ---
-title: ResponseMessage.Cookies
-second_title: Справочник по Aspose.SVG для .NET API
-description: ResponseMessage свойство. Получает или задает коллекцию файлов cookie.
+title: "ResponseMessage.Cookies"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ResponseMessage Cookies. Получает или задает коллекцию cookie"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.net/responsemessage/cookies/
 ---
 ## ResponseMessage.Cookies property
 
-Получает или задает коллекцию файлов cookie.
+Получает или задает коллекцию cookie.
 
 ```csharp
 public CookieCollection Cookies { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResponseMessage](../)
-* пространство имен [Aspose.Svg.Net](../../responsemessage/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

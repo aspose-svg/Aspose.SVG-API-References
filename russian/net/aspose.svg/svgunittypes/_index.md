@@ -1,9 +1,9 @@
 ---
-title: Enum SVGUnitTypes
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.SVGUnitTypes перечисление. Перечисление SVGUnitTypes определяет часто используемый набор констант и является базовым интерфейсом используемым SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement и SVGFilterElement.
+title: "Перечисление SVGUnitTypes"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Перечисление Aspose.Svg.SVGUnitTypes. Перечисление SVGUnitTypes определяет часто используемый набор констант и является базовым интерфейсом, используемым элементами SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement и SVGFilterElement."
 type: docs
-weight: 3570
+weight: 5640
 url: /ru/net/aspose.svg/svgunittypes/
 ---
 ## SVGUnitTypes enumeration
@@ -14,17 +14,15 @@ url: /ru/net/aspose.svg/svgunittypes/
 public enum SVGUnitTypes
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| SVG_UNIT_TYPE_UNKNOWN | `0` | Тип не является одним из предопределенных типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип. |
+| SVG_UNIT_TYPE_UNKNOWN | `0` | Тип не является одним из предопределённых типов. Недопустимо пытаться определить новое значение этого типа или попытаться переключить существующее значение на этот тип. |
 | SVG_UNIT_TYPE_USERSPACEONUSE | `1` | Соответствует значению 'userSpaceOnUse'. |
 | SVG_UNIT_TYPE_OBJECTBOUNDINGBOX | `2` | Соответствует значению 'objectBoundingBox'. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg](../../aspose.svg/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

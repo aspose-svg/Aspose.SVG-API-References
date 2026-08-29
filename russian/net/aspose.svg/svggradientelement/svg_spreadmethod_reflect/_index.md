@@ -1,23 +1,21 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_REFLECT
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGradientElement поле. Соответствует значению отражать.
+title: "SVGGradientElement.SVG_SPREADMETHOD_REFLECT"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGGradientElement SVG_SPREADMETHOD_REFLECT. Соответствует значению reflect"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svggradientelement/svg_spreadmethod_reflect/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_REFLECT field
 
-Соответствует значению «отражать».
+Соответствует значению 'reflect'.
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_REFLECT;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGGradientElement](../)
-* пространство имен [Aspose.Svg](../../svggradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

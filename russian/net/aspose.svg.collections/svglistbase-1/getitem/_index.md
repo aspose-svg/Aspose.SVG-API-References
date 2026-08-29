@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.GetItem
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGListBase метод. Возвращает указанный элемент из списка.
+title: "SVGListBase-1.GetItem"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetItem класса SVGListBase. Возвращает указанный элемент из списка"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.collections/svglistbase-1/getitem/
 ---
-## SVGListBase&lt;T&gt;.GetItem method
+## SVGListBase<T>.GetItem method
 
 Возвращает указанный элемент из списка.
 
@@ -16,7 +16,7 @@ public T GetItem(ulong index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | UInt64 | Индекс элемента из списка, который должен быть возвращен. Первый элемент имеет номер 0. |
+| index | UInt64 | Индекс элемента из списка, который будет возвращён. Первый элемент имеет номер 0. |
 
 ### Возвращаемое значение
 
@@ -26,12 +26,10 @@ public T GetItem(ulong index)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Код[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Возникает, если номер индекса больше или равен numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Возникает, если номер индекса больше или равен numberOfItems. |
 
-### Смотрите также
+### См. также
 
 * class [SVGListBase&lt;T&gt;](../)
-* пространство имен [Aspose.Svg.Collections](../../svglistbase-1/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

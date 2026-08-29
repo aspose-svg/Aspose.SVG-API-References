@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoRel
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathElement метод. Возвращает автономный объект SVGPathSegLinetoRel без родителей.
+title: "SVGPathElement.CreateSVGPathSegLinetoRel"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPathElement CreateSVGPathSegLinetoRel метод. Возвращает отдельный объект SVGPathSegLinetoRel без родителя"
 type: docs
 weight: 170
 url: /ru/net/aspose.svg/svgpathelement/createsvgpathseglinetorel/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoRel method
 
-Возвращает автономный объект SVGPathSegLinetoRel без родителей.
+Возвращает отдельный, безродительский объект SVGPathSegLinetoRel.
 
 ```csharp
 public SVGPathSegLinetoRel CreateSVGPathSegLinetoRel(float x, float y)
@@ -16,18 +16,16 @@ public SVGPathSegLinetoRel CreateSVGPathSegLinetoRel(float x, float y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Относительная координата X для конечной точки этого сегмента пути. |
-| y | Single | Относительная координата Y для конечной точки этого сегмента пути. |
+| x | Single | Относительная координата X конечной точки этого сегмента пути. |
+| y | Single | Относительная координата Y конечной точки этого сегмента пути. |
 
 ### Возвращаемое значение
 
-Автономный объект SVGPathSegLinetoRel без родителей.
+Отдельный, безродительский объект SVGPathSegLinetoRel.
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegLinetoRel](../../../aspose.svg.paths/svgpathseglinetorel/)
 * class [SVGPathElement](../)
-* пространство имен [Aspose.Svg](../../svgpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

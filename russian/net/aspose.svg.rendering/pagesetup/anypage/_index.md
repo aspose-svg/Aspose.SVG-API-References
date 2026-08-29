@@ -1,7 +1,7 @@
 ---
-title: PageSetup.AnyPage
-second_title: Справочник по Aspose.SVG для .NET API
-description: PageSetup свойство. Получает или задает конфигурацию всех страниц в последовательности страниц.
+title: "PageSetup.AnyPage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PageSetup AnyPage. Получает или задаёт конфигурацию всех страниц в последовательности страниц"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/pagesetup/anypage/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.rendering/pagesetup/anypage/
 public Page AnyPage { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Любая страница.
 
-### Смотрите также
+### См. также
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* пространство имен [Aspose.Svg.Rendering](../../pagesetup/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ProcessingInstruction.NodeValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: ProcessingInstruction свойство. Значение этого узла в зависимости от его типа.
+title: "ProcessingInstruction.NodeValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ProcessingInstruction NodeValue. Значение этого узла в зависимости от его типа"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/processinginstruction/nodevalue/
 ---
 ## ProcessingInstruction.NodeValue property
 
-Значение этого узла в зависимости от его типа.
+Значение этого узла, в зависимости от его типа.
 
 ```csharp
 public override string NodeValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение узла.
 
-### Смотрите также
+### См. также
 
 * class [ProcessingInstruction](../)
-* пространство имен [Aspose.Svg.Dom](../../processinginstruction/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_IN
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFECompositeElement поле. Соответствует значению in.
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_IN"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FECOMPOSITE_OPERATOR_IN SVGFECompositeElement. Соответствует значению in"
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_in/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_i
 public const ushort SVG_FECOMPOSITE_OPERATOR_IN;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFECompositeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

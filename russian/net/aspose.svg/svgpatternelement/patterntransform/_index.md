@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternTransform
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPatternElement свойство. Соответствует атрибуту patternTransform данного элемента pattern.
+title: "SVGPatternElement.PatternTransform"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PatternTransform SVGPatternElement. Соответствует атрибуту patternTransform данного элемента pattern."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgpatternelement/patterntransform/
 ---
 ## SVGPatternElement.PatternTransform property
 
-Соответствует атрибуту «patternTransform» данного элемента «pattern».
+Соответствует атрибуту ‘patternTransform’ в указанном элементе ‘pattern’.
 
 ```csharp
 public SVGAnimatedTransformList PatternTransform { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'patternTransform' данного элемента 'pattern'.
+Атрибут ‘patternTransform’ данного элемента ‘pattern’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGPatternElement](../)
-* пространство имен [Aspose.Svg](../../svgpatternelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

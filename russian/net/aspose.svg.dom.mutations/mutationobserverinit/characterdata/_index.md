@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.CharacterData
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserverInit свойство. Установите значение true если должны наблюдаться мутации данных цели. Может быть опущен если указано значение characterDataOldValue
+title: "MutationObserverInit.CharacterData"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство CharacterData класса MutationObserverInit. Установите значение true, если необходимо наблюдать за изменениями данных цели. Можно опустить, если указано characterDataOldValue."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/characterdata/
 ---
 ## MutationObserverInit.CharacterData property
 
-Установите значение true, если должны наблюдаться мутации данных цели. Может быть опущен, если указано значение characterDataOldValue
+Установите значение true, если необходимо наблюдать за изменениями данных цели. Может быть опущено, если указано characterDataOldValue.
 
 ```csharp
 public bool CharacterData { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [MutationObserverInit](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

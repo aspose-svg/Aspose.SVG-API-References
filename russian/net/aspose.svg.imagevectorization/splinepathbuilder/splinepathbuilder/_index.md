@@ -1,30 +1,30 @@
 ---
-title: SplinePathBuilder.SplinePathBuilder
-second_title: Справочник по Aspose.SVG для .NET API
-description: SplinePathBuilder строитель. Инициализирует новый экземплярSplinePathBuilder класс.
+title: "SplinePathBuilder"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор SplinePathBuilder. Инициализирует новый экземпляр класса SplinePathBuilder."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/splinepathbuilder/splinepathbuilder/
 ---
 ## SplinePathBuilder() {#constructor}
 
-Инициализирует новый экземпляр[`SplinePathBuilder`](../) класс.
+Инициализирует новый экземпляр класса [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SplinePathBuilder](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SplinePathBuilder(float) {#constructor_2}
+## SplinePathBuilder(*float*) {#constructor_2}
 
-Инициализирует новый экземпляр[`SplinePathBuilder`](../) класс.
+Инициализирует новый экземпляр класса [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder(float tension)
@@ -32,19 +32,19 @@ public SplinePathBuilder(float tension)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tension | Single | Напряженность. |
+| tension | Single | Натяжение. |
 
-### Смотрите также
+### См. также
 
 * class [SplinePathBuilder](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SplinePathBuilder(IImageTraceSmoother, IImageTraceSimplifier, float) {#constructor_1}
+## SplinePathBuilder(*[IImageTraceSmoother](../../iimagetracesmoother/), [IImageTraceSimplifier](../../iimagetracesimplifier/), float*) {#constructor_1}
 
-Инициализирует новый экземпляр[`SplinePathBuilder`](../) класс.
+Инициализирует новый экземпляр класса [`SplinePathBuilder`](../).
 
 ```csharp
 public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifier traceSimplifier, 
@@ -53,16 +53,14 @@ public SplinePathBuilder(IImageTraceSmoother traceSmoother, IImageTraceSimplifie
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| traceSmoother | IImageTraceSmoother | След более гладкий. |
-| traceSimplifier | IImageTraceSimplifier | Упроститель трассировки. |
-| tension | Single | Напряженность. |
+| traceSmoother | IImageTraceSmoother | Сглаживатель трассировки. |
+| traceSimplifier | IImageTraceSimplifier | Упрощатель трассировки. |
+| tension | Single | Натяжение. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * interface [IImageTraceSimplifier](../../iimagetracesimplifier/)
 * class [SplinePathBuilder](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

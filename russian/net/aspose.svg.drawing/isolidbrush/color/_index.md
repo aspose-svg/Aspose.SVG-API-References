@@ -1,7 +1,7 @@
 ---
-title: ISolidBrush.Color
-second_title: Справочник по Aspose.SVG для .NET API
-description: ISolidBrush свойство. Получить цвет кисти.
+title: "ISolidBrush.Color"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ISolidBrush Color. Получить цвет кисти"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/isolidbrush/color/
@@ -18,10 +18,8 @@ public Color Color { get; }
 
 Цвет кисти
 
-### Смотрите также
+### См. также
 
 * interface [ISolidBrush](../)
-* пространство имен [Aspose.Svg.Drawing](../../isolidbrush/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

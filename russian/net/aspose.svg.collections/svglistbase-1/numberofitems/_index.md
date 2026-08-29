@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.NumberOfItems
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGListBase свойство. Количество элементов в списке.
+title: "SVGListBase-1.NumberOfItems"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство NumberOfItems класса SVGListBase. Количество элементов в списке"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.collections/svglistbase-1/numberofitems/
 ---
-## SVGListBase&lt;T&gt;.NumberOfItems property
+## SVGListBase<T>.NumberOfItems property
 
 Количество элементов в списке.
 
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.collections/svglistbase-1/numberofitems/
 public ulong NumberOfItems { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество предметов.
+Количество элементов.
 
-### Смотрите также
+### См. также
 
 * class [SVGListBase&lt;T&gt;](../)
-* пространство имен [Aspose.Svg.Collections](../../svglistbase-1/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegCurvetoCubicAbs.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegCurvetoCubicAbs свойство. Абсолютная координата Y конечной точки этого сегмента пути.
+title: "SVGPathSegCurvetoCubicAbs.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y SVGPathSegCurvetoCubicAbs. Абсолютная координата Y конечной точки этого сегмента пути"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetocubicabs/y/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.svg.paths/svgpathsegcurvetocubicabs/y/
 public float Y { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Абсолютная координата Y
 
@@ -22,12 +22,10 @@ public float Y { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoCubicAbs](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegcurvetocubicabs/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

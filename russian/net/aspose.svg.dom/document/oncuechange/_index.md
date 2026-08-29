@@ -1,24 +1,22 @@
 ---
-title: Document.OnCueChange
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnCueChange.
+title: "Document.OnCueChange"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnCueChange. Получает или задает обработчик события для события OnCueChange"
 type: docs
 weight: 350
 url: /ru/net/aspose.svg.dom/document/oncuechange/
 ---
 ## Document.OnCueChange event
 
-Получает или задает обработчик события OnCueChange.
+Получает или задаёт обработчик события OnCueChange.
 
 ```csharp
 public event DOMEventHandler OnCueChange;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

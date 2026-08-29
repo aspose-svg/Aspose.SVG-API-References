@@ -1,14 +1,14 @@
 ---
-title: Location.Assign
-second_title: Справочник по Aspose.SVG для .NET API
-description: Location метод. Переходит на указанную страницу.
+title: "Location.Assign"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Location Assign. Переходит к указанной странице"
 type: docs
-weight: 10
+weight: 100
 url: /ru/net/aspose.svg.window/location/assign/
 ---
 ## Location.Assign method
 
-Переходит на указанную страницу.
+Переходит к указанной странице.
 
 ```csharp
 public void Assign(string url)
@@ -16,12 +16,10 @@ public void Assign(string url)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | String | URL-адрес для навигации. |
+| url | String | URL для перехода. |
 
-### Смотрите также
+### См. также
 
 * class [Location](../)
-* пространство имен [Aspose.Svg.Window](../../location/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class HttpProtocolMessageHandler
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.MessageHandlers.HttpProtocolMessageHandler сорт. Представляетhttp обработчик сообщений протокола.
+title: "Класс HttpProtocolMessageHandler"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.MessageHandlers.HttpProtocolMessageHandler. Представляет обработчик сообщений протокола HTTP"
 type: docs
-weight: 2380
+weight: 4450
 url: /ru/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class
 
-Представляет`http:` обработчик сообщений протокола.
+Представляет обработчик сообщений протокола `http:`.
 
 ```csharp
 public class HttpProtocolMessageHandler : MessageHandler
@@ -18,9 +18,9 @@ public class HttpProtocolMessageHandler : MessageHandler
 
 | Имя | Описание |
 | --- | --- |
-| [HttpProtocolMessageHandler](httpprotocolmessagehandler/)() | Инициализирует новый экземпляр`HttpProtocolMessageHandler` класс. |
+| [HttpProtocolMessageHandler](httpprotocolmessagehandler/)() | Инициализирует новый экземпляр класса `HttpProtocolMessageHandler`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -30,12 +30,10 @@ public class HttpProtocolMessageHandler : MessageHandler
 
 | Имя | Описание |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/httpprotocolmessagehandler/invoke/)(INetworkOperationContext) | При переопределении в производном классе используется для реализации обработки сообщений. |
+| override [Invoke](../../aspose.svg.net.messagehandlers/httpprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | При переопределении в производном классе используется для реализации обработки сообщений. |
 
-### Смотрите также
+### См. также
 
 * class [MessageHandler](../../aspose.svg.net/messagehandler/)
-* пространство имен [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../)

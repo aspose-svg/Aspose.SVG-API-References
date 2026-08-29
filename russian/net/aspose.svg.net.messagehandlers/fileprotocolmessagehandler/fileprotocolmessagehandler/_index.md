@@ -1,23 +1,21 @@
 ---
-title: FileProtocolMessageHandler.FileProtocolMessageHandler
-second_title: Справочник по Aspose.SVG для .NET API
-description: FileProtocolMessageHandler строитель. Инициализирует новый экземплярFileProtocolMessageHandler класс.
+title: "FileProtocolMessageHandler"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор FileProtocolMessageHandler. Инициализирует новый экземпляр класса FileProtocolMessageHandler"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler constructor
 
-Инициализирует новый экземпляр[`FileProtocolMessageHandler`](../) класс.
+Инициализирует новый экземпляр класса [`FileProtocolMessageHandler`](../).
 
 ```csharp
 public FileProtocolMessageHandler()
 ```
 
-### Смотрите также
+### См. также
 
 * class [FileProtocolMessageHandler](../)
-* пространство имен [Aspose.Svg.Net.MessageHandlers](../../fileprotocolmessagehandler/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ImageVectorizerConfiguration.PathBuilder
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageVectorizerConfiguration свойство. Получает или задает построитель сегментов пути SVG.
+title: "ImageVectorizerConfiguration.PathBuilder"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PathBuilder класса ImageVectorizerConfiguration. Возвращает или задает построитель сегментов пути SVG."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuil
 public IPathBuilder PathBuilder { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IPathBuilder](../../ipathbuilder/)
 * class [ImageVectorizerConfiguration](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.StdDeviationX
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDropShadowElement свойство. Соответствует атрибуту stdDeviation данного элемента feDropShadow. Содержит компонент X атрибута stdDeviation.
+title: "SVGFEDropShadowElement.StdDeviationX"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEDropShadowElement StdDeviationX свойство. Соответствует атрибуту stdDeviation в данном элементе feDropShadow. Содержит X-компонент атрибута stdDeviation"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.filters/svgfedropshadowelement/stddeviationx/
 ---
 ## SVGFEDropShadowElement.StdDeviationX property
 
-Соответствует атрибуту 'stdDeviation' данного элемента feDropShadow. Содержит компонент X атрибута 'stdDeviation'.
+Соответствует атрибуту ‘stdDeviation’ указанного элемента ‘feDropShadow’. Содержит X‑компонент атрибута ‘stdDeviation’.
 
 ```csharp
 public SVGAnimatedNumber StdDeviationX { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'stdDeviationX' данного элемента 'feDropShadow'.
+Атрибут ‘stdDeviationX’ данного элемента ‘feDropShadow’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

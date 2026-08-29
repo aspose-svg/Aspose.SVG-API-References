@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Events.IDocumentEvent интерфейс. IDocumentEvent Интерфейс предоставляет механизм с помощью которого пользователь может создатьEvent типа поддерживаемого реализацией.
+title: "Интерфейс IDocumentEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Dom.Events.IDocumentEvent. Интерфейс IDocumentEvent предоставляет механизм, с помощью которого пользователь может создать событие типа, поддерживаемого реализацией"
 type: docs
-weight: 940
+weight: 2940
 url: /ru/net/aspose.svg.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface
 
-`IDocumentEvent` Интерфейс предоставляет механизм, с помощью которого пользователь может создать[`Event`](../event/) типа, поддерживаемого реализацией.
+Интерфейс `IDocumentEvent` предоставляет механизм, с помощью которого пользователь может создать [`Event`](../event/) типа, поддерживаемого реализацией.
 
 ```csharp
 public interface IDocumentEvent
@@ -18,15 +18,13 @@ public interface IDocumentEvent
 
 | Имя | Описание |
 | --- | --- |
-| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(string) | Создает[`Event`](../event/) типа, поддерживаемого реализацией. |
+| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(*string*) | Создаёт [`Event`](../event/) типа, поддерживаемого реализацией. |
 
-### Примечания
+## Замечания
 
-Ожидается, что`IDocumentEvent` интерфейс будет реализован на том же объекте, который реализует the [`Document`](../../aspose.svg.dom/document/) интерфейс в реализации, поддерживающей модель событий.
+Ожидается, что интерфейс `IDocumentEvent` будет реализован в том же объекте, который реализует интерфейс [`Document`](../../aspose.svg.dom/document/) в реализации, поддерживающей модель событий.
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

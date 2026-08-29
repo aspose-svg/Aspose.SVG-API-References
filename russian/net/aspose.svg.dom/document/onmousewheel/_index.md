@@ -1,7 +1,7 @@
 ---
-title: Document.OnMouseWheel
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnMouseWheel.
+title: "Document.OnMouseWheel"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnMouseWheel. Получает или задаёт обработчик события OnMouseWheel."
 type: docs
 weight: 580
 url: /ru/net/aspose.svg.dom/document/onmousewheel/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onmousewheel/
 public event DOMEventHandler OnMouseWheel;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

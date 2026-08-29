@@ -1,14 +1,14 @@
 ---
-title: Unit.FromRadians
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit метод. ВозвращаетAngle объект представленный в радианах.
+title: "Unit.FromRadians"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Unit FromRadians. Возвращает объект Angle, представленный в радианах"
 type: docs
 weight: 200
 url: /ru/net/aspose.svg.drawing/unit/fromradians/
 ---
 ## Unit.FromRadians method
 
-Возвращает[`Angle`](../../angle/) объект, представленный в радианах.
+Возвращает объект [`Angle`](../../angle/), представленный в радианах.
 
 ```csharp
 public static Angle FromRadians(double value)
@@ -16,17 +16,15 @@ public static Angle FromRadians(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение. |
+| значение | Double | Значение. |
 
 ### Возвращаемое значение
 
-Возвращает[`Angle`](../../angle/) объект.
+Возвращает объект [`Angle`](../../angle/) .
 
-### Смотрите также
+### См. также
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

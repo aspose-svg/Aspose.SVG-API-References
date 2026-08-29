@@ -1,14 +1,14 @@
 ---
-title: Class DOMNullableAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Attributes.DOMNullableAttribute сорт. Указывает что объекту DOM может быть присвоено нулевое значение.
+title: "Класс DOMNullableAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Dom.Attributes.DOMNullableAttribute. Указывает, что объект DOM может принимать значение null."
 type: docs
-weight: 410
+weight: 2410
 url: /ru/net/aspose.svg.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class
 
-Указывает, что объекту DOM может быть присвоено нулевое значение.
+Указывает, что объект DOM может быть присвоен значение null.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -21,9 +21,13 @@ public sealed class DOMNullableAttribute : Attribute
 | --- | --- |
 | [DOMNullableAttribute](domnullableattribute/)() | Конструктор по умолчанию. |
 
-### Смотрите также
+## Свойства
 
-* пространство имен [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* сборка [Aspose.SVG](../../)
+| Имя | Описание |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### См. также
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

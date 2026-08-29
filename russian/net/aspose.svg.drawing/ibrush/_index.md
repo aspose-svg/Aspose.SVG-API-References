@@ -1,9 +1,9 @@
 ---
-title: Interface IBrush
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.IBrush интерфейс. Объявляет метод получения типа кисти.
+title: "IBrush Интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Drawing.IBrush интерфейс. Объявляет метод получения типа кисти"
 type: docs
-weight: 1430
+weight: 3440
 url: /ru/net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface
@@ -11,18 +11,16 @@ url: /ru/net/aspose.svg.drawing/ibrush/
 Объявляет метод получения типа кисти.
 
 ```csharp
-public interface IBrush
+public interface IBrush : IDisposable
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Получить тип кисти; |
+| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Получает тип кисти как [`BrushType`](../brushtype/). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

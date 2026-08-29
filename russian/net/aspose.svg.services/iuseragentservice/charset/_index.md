@@ -1,7 +1,7 @@
 ---
-title: IUserAgentService.CharSet
-second_title: Справочник по Aspose.SVG для .NET API
-description: IUserAgentService свойство. Получает или задает основной набор символов для документа.
+title: "IUserAgentService.CharSet"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство CharSet сервиса IUserAgentService. Получает или задает основной набор символов для документа."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.services/iuseragentservice/charset/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.services/iuseragentservice/charset/
 public string CharSet { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Набор символов.
 
-### Смотрите также
+### См. также
 
 * interface [IUserAgentService](../)
-* пространство имен [Aspose.Svg.Services](../../iuseragentservice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

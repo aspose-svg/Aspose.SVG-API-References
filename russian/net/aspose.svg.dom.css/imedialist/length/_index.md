@@ -1,23 +1,21 @@
 ---
-title: IMediaList.Length
-second_title: Справочник по Aspose.SVG для .NET API
-description: IMediaList свойство. Количество носителей в списке. Диапазон допустимых носителей от 0 до длины 1 включительно.
+title: "IMediaList.Length"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Length интерфейса IMediaList. Количество медиа в списке. Диапазон допустимых медиа от 0 до length-1 включительно"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/imedialist/length/
 ---
 ## IMediaList.Length property
 
-Количество носителей в списке. Диапазон допустимых носителей: от 0 до длины 1 включительно.
+Количество носителей в списке. Диапазон допустимых индексов носителей от 0 до length‑1 включительно.
 
 ```csharp
 public long Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IMediaList](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../imedialist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IParentNode.QuerySelector
-second_title: Справочник по Aspose.SVG для .NET API
-description: IParentNode метод. Возвращает первый элемент который является потомком узла соответствующего селекторам.
+title: "IParentNode.QuerySelector"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IParentNode QuerySelector. Возвращает первый элемент, являющийся потомком узла и соответствующий селекторам"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/iparentnode/queryselector/
 ---
 ## IParentNode.QuerySelector method
 
-Возвращает первый элемент, который является потомком узла, соответствующего селекторам.
+Возвращает первый элемент, который является потомком узла и соответствует селекторам.
 
 ```csharp
 public Element QuerySelector(string selectors)
@@ -16,17 +16,15 @@ public Element QuerySelector(string selectors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| selectors | String | Селекторы. |
+| селекторы | String | Селекторы. |
 
 ### Возвращаемое значение
 
-Возвращает первый совпадающий элемент.
+Возвращает первый найденный элемент.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* пространство имен [Aspose.Svg.Dom](../../iparentnode/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

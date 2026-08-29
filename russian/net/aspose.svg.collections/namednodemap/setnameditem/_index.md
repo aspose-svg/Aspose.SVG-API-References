@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.SetNamedItem
-second_title: Справочник по Aspose.SVG для .NET API
-description: NamedNodeMap метод. Добавляет узел используя его атрибут nodeName. Если узел с таким именем уже присутствует на этой карте он заменяется новым. Замена узла сама по себе не имеет никакого эффекта.
+title: "NamedNodeMap.SetNamedItem"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SetNamedItem в NamedNodeMap. Добавляет узел, используя его атрибут nodeName. Если узел с таким именем уже присутствует в этой карте, он заменяется новым. Замена узла самим собой не оказывает эффекта."
 type: docs
-weight: 80
+weight: 70
 url: /ru/net/aspose.svg.collections/namednodemap/setnameditem/
 ---
 ## NamedNodeMap.SetNamedItem method
 
-Добавляет узел, используя его атрибут nodeName. Если узел с таким именем уже присутствует на этой карте, он заменяется новым. Замена узла сама по себе не имеет никакого эффекта.
+Добавляет узел, используя его атрибут nodeName. Если узел с таким именем уже присутствует в этой карте, он заменяется новым. Замена узла самим собой не оказывает эффекта.
 
 ```csharp
 public Attr SetNamedItem(Attr attr)
@@ -28,11 +28,9 @@ public Attr SetNamedItem(Attr attr)
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* пространство имен [Aspose.Svg.Collections](../../namednodemap/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

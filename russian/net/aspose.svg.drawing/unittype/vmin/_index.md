@@ -1,23 +1,21 @@
 ---
-title: UnitType.Vmin
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение относительно 1  меньшего измерения области просмотра Попробуйте
+title: "UnitType.Vmin"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Vmin. Измерение относительно 1 меньшей размерности вьюпортов. Попробуйте"
 type: docs
 weight: 290
 url: /ru/net/aspose.svg.drawing/unittype/vmin/
 ---
 ## UnitType.Vmin field
 
-Измерение относительно 1 % меньшего измерения области просмотра* Попробуйте
+Измерение относительно 1% от *меньшего* измерения области просмотра Попробуйте
 
 ```csharp
 public static readonly UnitType Vmin;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

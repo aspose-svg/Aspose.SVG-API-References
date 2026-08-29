@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfDocumentInfo свойство. Тема документа.
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Subject класса PdfDocumentInfo. Тема документа."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.rendering.pdf/pdfdocumentinfo/subject/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering.pdf/pdfdocumentinfo/subject/
 public string Subject { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfDocumentInfo](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

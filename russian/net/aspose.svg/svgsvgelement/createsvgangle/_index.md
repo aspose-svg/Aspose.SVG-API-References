@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGAngle
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement метод. Создает объект SVGAngle вне какихлибо деревьев документов. Объект инициализируется значением 0 градусов безразмерно.
+title: "SVGSVGElement.CreateSVGAngle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGSVGElement CreateSVGAngle. Создаёт объект SVGAngle вне любых деревьев документа. Объект инициализируется значением 0 градусов без единицы измерения."
 type: docs
 weight: 120
 url: /ru/net/aspose.svg/svgsvgelement/createsvgangle/
 ---
 ## SVGSVGElement.CreateSVGAngle method
 
-Создает объект SVGAngle вне каких-либо деревьев документов. Объект инициализируется значением 0 градусов (безразмерно).
+Создаёт объект SVGAngle вне любых деревьев документа. Объект инициализируется значением 0 градусов (без единицы измерения).
 
 ```csharp
 public SVGAngle CreateSVGAngle()
@@ -18,11 +18,9 @@ public SVGAngle CreateSVGAngle()
 
 Объект SVGAngle.
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../../../aspose.svg.datatypes/svgangle/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

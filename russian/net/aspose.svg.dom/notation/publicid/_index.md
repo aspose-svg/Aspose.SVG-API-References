@@ -1,27 +1,25 @@
 ---
-title: Notation.PublicId
-second_title: Справочник по Aspose.SVG для .NET API
-description: Notation свойство. Общедоступный идентификатор этой нотации. Если общедоступный идентификатор не был указан это значение null.
+title: "Notation.PublicId"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Notation PublicId. Публичный идентификатор этой нотации. Если публичный идентификатор не указан, значение равно null"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/notation/publicid/
 ---
 ## Notation.PublicId property
 
-Общедоступный идентификатор этой нотации. Если общедоступный идентификатор не был указан, это значение null.
+Публичный идентификатор этой нотации. Если публичный идентификатор не был указан, значение равно null.
 
 ```csharp
 public string PublicId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Общедоступный идентификатор.
+Публичный идентификатор.
 
-### Смотрите также
+### См. также
 
 * class [Notation](../)
-* пространство имен [Aspose.Svg.Dom](../../notation/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

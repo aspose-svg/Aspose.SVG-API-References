@@ -1,7 +1,7 @@
 ---
-title: DOMTreatNullAsAttribute.Value
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMTreatNullAsAttribute свойство. Получает или задает значение.
+title: "DOMTreatNullAsAttribute.Value"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Value класса DOMTreatNullAsAttribute. Получает или задает значение"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
 public object Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение.
 
-### Смотрите также
+### См. также
 
 * class [DOMTreatNullAsAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

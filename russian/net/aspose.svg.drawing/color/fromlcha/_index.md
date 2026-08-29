@@ -1,14 +1,14 @@
 ---
-title: Color.FromLcha
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает новый цвет с запрошенными значениями яркости цветности оттенка и альфаканала.
+title: "Color.FromLcha"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromLcha. Возвращает новый Color с запрошенными значениями яркости, хромы, оттенка и альфа‑компонента."
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.drawing/color/fromlcha/
 ---
 ## Color.FromLcha method
 
-Возвращает новый цвет с запрошенными значениями яркости, цветности, оттенка и альфа-канала.
+Возвращает новый Color с запрошенными значениями luminance, chroma, hue, alpha.
 
 ```csharp
 public static Color FromLcha(float luminance, float chroma, float hue, float alpha)
@@ -16,19 +16,17 @@ public static Color FromLcha(float luminance, float chroma, float hue, float alp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| luminance | Single | Поплавок, представляющий компонент яркости цвета. |
-| chroma | Single | Поплавок, представляющий компонент цветности цвета. |
-| hue | Single | Поплавок, представляющий компонент оттенка цвета. |
-| alpha | Single | Поплавок, представляющий альфа-компонент цвета. |
+| luminance | Single | Число с плавающей запятой, представляющее компонент яркости цвета. |
+| chroma | Single | Число с плавающей запятой, представляющее компонент хромы цвета. |
+| hue | Single | Число с плавающей запятой, представляющее компонент тона цвета. |
+| альфа | Single | Число с плавающей запятой, представляющее альфа‑компонент цвета. |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

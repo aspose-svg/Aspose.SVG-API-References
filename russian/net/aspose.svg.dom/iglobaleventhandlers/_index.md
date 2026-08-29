@@ -1,14 +1,14 @@
 ---
-title: Interface IGlobalEventHandlers
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.IGlobalEventHandlers интерфейс. Представляет интерфейс который должен наследоваться всеми элементами для которых поддерживается обработка системных событий
+title: "Интерфейс IGlobalEventHandlers"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Dom.IGlobalEventHandlers. Представляет интерфейс, который должен наследоваться всеми элементами, поддерживающими системную обработку событий."
 type: docs
-weight: 1070
+weight: 3050
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/
 ---
 ## IGlobalEventHandlers interface
 
-Представляет интерфейс, который должен наследоваться всеми элементами, для которых поддерживается обработка системных событий
+Представляет интерфейс, который должен наследоваться всеми элементами, поддерживающими обработку системных событий.
 
 ```csharp
 public interface IGlobalEventHandlers
@@ -18,19 +18,19 @@ public interface IGlobalEventHandlers
 
 | Имя | Описание |
 | --- | --- |
-| event [OnAbort](../../aspose.svg.dom/iglobaleventhandlers/onabort/) | Получает или задает обработчик события OnAbort. |
-| event [OnBlur](../../aspose.svg.dom/iglobaleventhandlers/onblur/) | Получает или задает обработчик события OnBlur. |
-| event [OnCancel](../../aspose.svg.dom/iglobaleventhandlers/oncancel/) | Получает или задает обработчик события OnCancel. |
-| event [OnCanplay](../../aspose.svg.dom/iglobaleventhandlers/oncanplay/) | Получает или задает обработчик события OnCanplay. |
-| event [OnCanPlayThrough](../../aspose.svg.dom/iglobaleventhandlers/oncanplaythrough/) | Получает или задает обработчик события OnCanPlayThrough. |
-| event [OnChange](../../aspose.svg.dom/iglobaleventhandlers/onchange/) | Получает или задает обработчик события OnChange. |
-| event [OnClick](../../aspose.svg.dom/iglobaleventhandlers/onclick/) | Получает или задает обработчик события OnClick. |
-| event [OnCueChange](../../aspose.svg.dom/iglobaleventhandlers/oncuechange/) | Получает или задает обработчик события OnCueChange. |
-| event [OnDblClick](../../aspose.svg.dom/iglobaleventhandlers/ondblclick/) | Получает или задает обработчик события OnDblClick. |
-| event [OnDurationChange](../../aspose.svg.dom/iglobaleventhandlers/ondurationchange/) | Получает или задает обработчик события OnDurationChange. |
-| event [OnEmptied](../../aspose.svg.dom/iglobaleventhandlers/onemptied/) | Получает или задает обработчик события OnEmptied. |
-| event [OnEnded](../../aspose.svg.dom/iglobaleventhandlers/onended/) | Получает или задает обработчик события OnEnded. |
-| event [OnError](../../aspose.svg.dom/iglobaleventhandlers/onerror/) | Получает или задает обработчик события OnError. |
+| event [OnAbort](../../aspose.svg.dom/iglobaleventhandlers/onabort/) | Получает или задаёт обработчик события OnAbort. |
+| event [OnBlur](../../aspose.svg.dom/iglobaleventhandlers/onblur/) | Получает или задаёт обработчик события OnBlur. |
+| event [OnCancel](../../aspose.svg.dom/iglobaleventhandlers/oncancel/) | Получает или задаёт обработчик события OnCancel. |
+| event [OnCanplay](../../aspose.svg.dom/iglobaleventhandlers/oncanplay/) | Получает или задаёт обработчик события OnCanplay. |
+| event [OnCanPlayThrough](../../aspose.svg.dom/iglobaleventhandlers/oncanplaythrough/) | Получает или задаёт обработчик события OnCanPlayThrough. |
+| event [OnChange](../../aspose.svg.dom/iglobaleventhandlers/onchange/) | Получает или задаёт обработчик события OnChange. |
+| event [OnClick](../../aspose.svg.dom/iglobaleventhandlers/onclick/) | Получает или задаёт обработчик события OnClick. |
+| event [OnCueChange](../../aspose.svg.dom/iglobaleventhandlers/oncuechange/) | Получает или задаёт обработчик события OnCueChange. |
+| event [OnDblClick](../../aspose.svg.dom/iglobaleventhandlers/ondblclick/) | Получает или задаёт обработчик события OnDblClick. |
+| event [OnDurationChange](../../aspose.svg.dom/iglobaleventhandlers/ondurationchange/) | Получает или задаёт обработчик события OnDurationChange. |
+| event [OnEmptied](../../aspose.svg.dom/iglobaleventhandlers/onemptied/) | Получает или задаёт обработчик события OnEmptied. |
+| event [OnEnded](../../aspose.svg.dom/iglobaleventhandlers/onended/) | Получает или задаёт обработчик события OnEnded. |
+| event [OnError](../../aspose.svg.dom/iglobaleventhandlers/onerror/) | Получает или задаёт обработчик события OnError. |
 | event [OnFocus](../../aspose.svg.dom/iglobaleventhandlers/onfocus/) | Получает или задает обработчик события OnFocus. |
 | event [OnInput](../../aspose.svg.dom/iglobaleventhandlers/oninput/) | Получает или задает обработчик события OnInput. |
 | event [OnInvalid](../../aspose.svg.dom/iglobaleventhandlers/oninvalid/) | Получает или задает обработчик события OnInvalid. |
@@ -56,22 +56,20 @@ public interface IGlobalEventHandlers
 | event [OnRateChange](../../aspose.svg.dom/iglobaleventhandlers/onratechange/) | Получает или задает обработчик события OnRateChange. |
 | event [OnReset](../../aspose.svg.dom/iglobaleventhandlers/onreset/) | Получает или задает обработчик события OnReset. |
 | event [OnResize](../../aspose.svg.dom/iglobaleventhandlers/onresize/) | Получает или задает обработчик события OnResize. |
-| event [OnScroll](../../aspose.svg.dom/iglobaleventhandlers/onscroll/) | Получает или задает обработчик события OnScroll. |
-| event [OnSeeked](../../aspose.svg.dom/iglobaleventhandlers/onseeked/) | Получает или задает обработчик события OnSeeked. |
-| event [OnSeeking](../../aspose.svg.dom/iglobaleventhandlers/onseeking/) | Получает или задает обработчик события OnSeeking. |
-| event [OnSelect](../../aspose.svg.dom/iglobaleventhandlers/onselect/) | Получает или задает обработчик события OnSelect. |
-| event [OnShow](../../aspose.svg.dom/iglobaleventhandlers/onshow/) | Получает или задает обработчик события OnShow. |
-| event [OnStalled](../../aspose.svg.dom/iglobaleventhandlers/onstalled/) | Получает или задает обработчик события OnStalled. |
-| event [OnSubmit](../../aspose.svg.dom/iglobaleventhandlers/onsubmit/) | Получает или задает обработчик события OnSubmit. |
-| event [OnSuspend](../../aspose.svg.dom/iglobaleventhandlers/onsuspend/) | Получает или задает обработчик события OnSuspend. |
-| event [OnTimeUpdate](../../aspose.svg.dom/iglobaleventhandlers/ontimeupdate/) | Получает или задает обработчик события OnTimeUpdate. |
-| event [OnToggle](../../aspose.svg.dom/iglobaleventhandlers/ontoggle/) | Получает или задает обработчик события OnToggle. |
-| event [OnVolumeChange](../../aspose.svg.dom/iglobaleventhandlers/onvolumechange/) | Получает или задает обработчик события OnVolumeChange. |
-| event [OnWaiting](../../aspose.svg.dom/iglobaleventhandlers/onwaiting/) | Получает или задает обработчик события OnWaiting. |
+| event [OnScroll](../../aspose.svg.dom/iglobaleventhandlers/onscroll/) | Получает или задает обработчик события для события OnScroll. |
+| event [OnSeeked](../../aspose.svg.dom/iglobaleventhandlers/onseeked/) | Получает или задает обработчик события для события OnSeeked. |
+| event [OnSeeking](../../aspose.svg.dom/iglobaleventhandlers/onseeking/) | Получает или задает обработчик события для события OnSeeking. |
+| event [OnSelect](../../aspose.svg.dom/iglobaleventhandlers/onselect/) | Получает или задает обработчик события для события OnSelect. |
+| event [OnShow](../../aspose.svg.dom/iglobaleventhandlers/onshow/) | Получает или задает обработчик события для события OnShow. |
+| event [OnStalled](../../aspose.svg.dom/iglobaleventhandlers/onstalled/) | Получает или задает обработчик события для события OnStalled. |
+| event [OnSubmit](../../aspose.svg.dom/iglobaleventhandlers/onsubmit/) | Получает или задает обработчик события для события OnSubmit. |
+| event [OnSuspend](../../aspose.svg.dom/iglobaleventhandlers/onsuspend/) | Получает или задает обработчик события для события OnSuspend. |
+| event [OnTimeUpdate](../../aspose.svg.dom/iglobaleventhandlers/ontimeupdate/) | Получает или задает обработчик события для события OnTimeUpdate. |
+| event [OnToggle](../../aspose.svg.dom/iglobaleventhandlers/ontoggle/) | Получает или задает обработчик события для события OnToggle. |
+| event [OnVolumeChange](../../aspose.svg.dom/iglobaleventhandlers/onvolumechange/) | Получает или задает обработчик события для события OnVolumeChange. |
+| event [OnWaiting](../../aspose.svg.dom/iglobaleventhandlers/onwaiting/) | Получает или задает обработчик события для события OnWaiting. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

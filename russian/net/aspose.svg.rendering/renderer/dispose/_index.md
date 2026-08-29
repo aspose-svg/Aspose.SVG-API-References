@@ -1,23 +1,21 @@
 ---
-title: Renderer.Dispose
-second_title: Справочник по Aspose.SVG для .NET API
-description: Renderer метод. Освобождает неуправляемые и необязательно управляемые ресурсы.
+title: "Renderer.Dispose"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Renderer Dispose. Освобождает неуправляемые и - при необходимости - управляемые ресурсы"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering/renderer/dispose/
 ---
 ## Renderer.Dispose method
 
-Освобождает неуправляемые и (необязательно) управляемые ресурсы.
+Освобождает неуправляемые и — при необходимости — управляемые ресурсы.
 
 ```csharp
 public void Dispose()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Renderer](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderer/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

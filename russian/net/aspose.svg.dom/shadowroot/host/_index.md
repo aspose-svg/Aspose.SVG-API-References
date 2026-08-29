@@ -1,24 +1,22 @@
 ---
-title: ShadowRoot.Host
-second_title: Справочник по Aspose.SVG для .NET API
-description: ShadowRoot свойство. Host  это элемент содержащий этот ShadowRoot.
+title: "ShadowRoot.Host"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ShadowRoot Host. Host — это элемент, который содержит данный ShadowRoot"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/shadowroot/host/
 ---
 ## ShadowRoot.Host property
 
-Host — это элемент, содержащий этот ShadowRoot.
+Host — элемент, содержащий этот ShadowRoot.
 
 ```csharp
 public Element Host { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Element](../../element/)
 * class [ShadowRoot](../)
-* пространство имен [Aspose.Svg.Dom](../../shadowroot/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

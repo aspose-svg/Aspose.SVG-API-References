@@ -1,14 +1,14 @@
 ---
-title: Numeric.GetValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: Numeric метод. Получает значение единицы измерения.
+title: "Numeric.GetValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Numeric GetValue. Получает базовое значение"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.drawing/numeric/getvalue/
 ---
 ## GetValue() {#getvalue}
 
-Получает значение единицы измерения.
+Получает значение единицы.
 
 ```csharp
 public double GetValue()
@@ -18,17 +18,17 @@ public double GetValue()
 
 Значение объекта.
 
-### Смотрите также
+### См. также
 
 * class [Numeric](../)
-* пространство имен [Aspose.Svg.Drawing](../../numeric/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
-Получает значение, преобразованное в указанное[`UnitType`](../../unittype/) .
+Получает значение, преобразованное к указанному [`UnitType`](../../unittype/).
 
 ```csharp
 public double GetValue(UnitType unitType)
@@ -36,11 +36,11 @@ public double GetValue(UnitType unitType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unitType | UnitType | Тип агрегата. |
+| unitType | UnitType | Тип единицы. |
 
 ### Возвращаемое значение
 
-Возвращает значение, преобразованное в указанный тип.
+Возвращает значение, преобразованное к указанному типу.
 
 ### Исключения
 
@@ -48,11 +48,9 @@ public double GetValue(UnitType unitType)
 | --- | --- |
 | ArgumentNullException | unitType |
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* пространство имен [Aspose.Svg.Drawing](../../numeric/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

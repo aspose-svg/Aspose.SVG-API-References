@@ -1,7 +1,7 @@
 ---
-title: GlyphInfo.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: GlyphInfo свойство. Получает ширину глифа в пунктах.
+title: "GlyphInfo.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GlyphInfo Width. Возвращает ширину глифа в пунктах"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering/glyphinfo/width/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.rendering/glyphinfo/width/
 public float Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина в пунктах.
 
-### Смотрите также
+### См. также
 
 * struct [GlyphInfo](../)
-* пространство имен [Aspose.Svg.Rendering](../../glyphinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

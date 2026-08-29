@@ -1,27 +1,25 @@
 ---
-title: CSSPrimitiveValue.PrimitiveType
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue свойство. Тип значения определенный указанными выше константами.
+title: "CSSPrimitiveValue.PrimitiveType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PrimitiveType класса CSSPrimitiveValue. Тип значения, определённый константами, указанными выше."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/primitivetype/
 ---
 ## CSSPrimitiveValue.PrimitiveType property
 
-Тип значения, определенный указанными выше константами.
+Тип значения, определённый константами, указанными выше.
 
 ```csharp
 public ushort PrimitiveType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип примитива.
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

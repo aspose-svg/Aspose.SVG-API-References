@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnMouseEnter
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnMouseEnter.
+title: "IGlobalEventHandlers.OnMouseEnter"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnMouseEnter. Получает или задает обработчик события для OnMouseEnter"
 type: docs
 weight: 250
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onmouseenter/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onmouseenter/
 public event DOMEventHandler OnMouseEnter;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

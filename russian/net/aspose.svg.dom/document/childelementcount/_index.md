@@ -1,23 +1,21 @@
 ---
-title: Document.ChildElementCount
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Возвращает текущее количество узлов элемента которые являются дочерними элементами этого элемента. 0 если у этого элемента нет дочерних узлов с nodeType 1.
+title: "Document.ChildElementCount"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document ChildElementCount. Возвращает текущее количество узлов‑элементов, являющихся дочерними для этого элемента. 0, если у этого элемента нет дочерних узлов типа nodeType 1."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/document/childelementcount/
 ---
 ## Document.ChildElementCount property
 
-Возвращает текущее количество узлов элемента, которые являются дочерними элементами этого элемента. 0, если у этого элемента нет дочерних узлов с nodeType 1.
+Возвращает текущее количество узлов-элементов, являющихся дочерними для этого элемента. 0, если у этого элемента нет дочерних узлов типа nodeType 1.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

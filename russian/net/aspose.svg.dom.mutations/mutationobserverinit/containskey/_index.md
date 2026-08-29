@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.ContainsKey
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserverInit метод. ОпределяетMutationObserverInit коллекция содержит указанный ключ.
+title: "MutationObserverInit.ContainsKey"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ContainsKey класса MutationObserverInit. Определяет, содержит ли коллекция MutationObserverInit указанный ключ."
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/containskey/
 ---
 ## MutationObserverInit.ContainsKey method
 
-Определяет,[`MutationObserverInit`](../) коллекция содержит указанный ключ.
+Определяет, содержит ли коллекция [`MutationObserverInit`](../) указанный ключ.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,16 +16,14 @@ public bool ContainsKey(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ для проверки. |
+| ключ | String | Ключ для проверки. |
 
 ### Возвращаемое значение
 
-Верно, если[`MutationObserverInit`](../) содержать указанный ключ; в противном случае ложно.
+True, если коллекция [`MutationObserverInit`](../) содержит указанный ключ; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [MutationObserverInit](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

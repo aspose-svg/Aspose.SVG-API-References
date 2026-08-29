@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEConvolveMatrixElement свойство. Соответствует атрибуту ширина данного элемента фильтр.
+title: "SVGFEConvolveMatrixElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Width элемента SVGFEConvolveMatrixElement. Соответствует атрибуту width в данном элементе фильтра"
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/width/
 ---
 ## SVGFEConvolveMatrixElement.Width property
 
-Соответствует атрибуту «ширина» данного элемента «фильтр».
+Соответствует атрибуту ‘width’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «ширина» данного элемента «фильтр».
+Атрибут ‘width’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEConvolveMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

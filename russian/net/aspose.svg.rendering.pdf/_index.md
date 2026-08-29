@@ -1,24 +1,22 @@
 ---
-title: Aspose.Svg.Rendering.Pdf
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.Pdfnamespace предоставляет конкретный класс устройства а также несколько параметров рендеринга class отвечающих за рендеринг в pdfдокумент.
+title: "Aspose.Svg.Rendering.Pdf"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имён Aspose.Svg.Rendering.Pdf предоставляет конкретный класс устройства, а также несколько классов параметров рендеринга, отвечающих за рендеринг в PDF‑документе."
 type: docs
-weight: 270
+weight: 290
 url: /ru/net/aspose.svg.rendering.pdf/
 ---
-**Aspose.Svg.Rendering.Pdf**namespace предоставляет конкретный класс устройства, а также несколько параметров рендеринга, class отвечающих за рендеринг в pdf-документ.
+Пространство имён **Aspose.Svg.Rendering.Pdf** предоставляет конкретный класс устройства, а также несколько классов параметров рендеринга, отвечающих за вывод в PDF‑документ.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [PdfDevice](./pdfdevice/) | Представляет рендеринг в документ PDF. |
-| [PdfDocumentInfo](./pdfdocumentinfo/) | Представляет информацию о документе PDF. |
-| [PdfRenderingOptions](./pdfrenderingoptions/) | Представляет параметры рендеринга для[`PdfDevice`](../aspose.svg.rendering.pdf/pdfdevice/) . |
-## перечисление
+| [PdfDevice](./pdfdevice/) | Представляет рендеринг в PDF‑документ. |
+| [PdfDocumentInfo](./pdfdocumentinfo/) | Представляет информацию о PDF‑документе. |
+| [PdfRenderingOptions](./pdfrenderingoptions/) | Представляет параметры рендеринга для [`PdfDevice`](../aspose.svg.rendering.pdf/pdfdevice/). |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [FormFieldBehaviour](./formfieldbehaviour/) | Это перечисление используется для указания поведения полей формы в выходном PDF-документе. |
-
-
+| [FormFieldBehaviour](./formfieldbehaviour/) | Это перечисление используется для указания поведения полей формы в результирующем PDF‑документе. |

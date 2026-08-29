@@ -1,7 +1,7 @@
 ---
-title: Element.RemoveAttributeNode
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Удаляет указанный узел атрибута.
+title: "Element.RemoveAttributeNode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element RemoveAttributeNode. Удаляет указанный узел атрибута"
 type: docs
 weight: 380
 url: /ru/net/aspose.svg.dom/element/removeattributenode/
@@ -22,11 +22,9 @@ public Attr RemoveAttributeNode(Attr oldAttr)
 
 Возвращает атрибут
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

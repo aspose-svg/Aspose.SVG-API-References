@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PreserveAspectRatio
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPatternElement свойство. Соответствует атрибуту preserveAspectRatio данного элемента.
+title: "SVGPatternElement.PreserveAspectRatio"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PreserveAspectRatio SVGPatternElement. Соответствует атрибуту preserveAspectRatio данного элемента."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgpatternelement/preserveaspectratio/
 ---
 ## SVGPatternElement.PreserveAspectRatio property
 
-Соответствует атрибуту preserveAspectRatio данного элемента.
+Соответствует атрибуту ‘preserveAspectRatio’ заданного элемента.
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-'preserveAspectRatio' данного элемента.
+‘preserveAspectRatio’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGPatternElement](../)
-* пространство имен [Aspose.Svg](../../svgpatternelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: NodeFilter.SHOW_COMMENT
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeFilter поле. Показать узлы комментариев.
+title: "NodeFilter.SHOW_COMMENT"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле NodeFilter SHOW_COMMENT. Показывать узлы Comment"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_comment/
 ---
 ## NodeFilter.SHOW_COMMENT field
 
-Показать узлы комментариев.
+Показать узлы Comment.
 
 ```csharp
 public const long SHOW_COMMENT;
 ```
 
-### Смотрите также
+### См. также
 
 * class [NodeFilter](../)
-* пространство имен [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

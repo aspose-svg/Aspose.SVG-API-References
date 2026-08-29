@@ -1,14 +1,14 @@
 ---
-title: Unit.FromGradians
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit метод. ВозвращаетAngleобъект представленный в градусах.
+title: "Unit.FromGradians"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Unit FromGradians. Возвращает объект Angle, представленный в градах"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.drawing/unit/fromgradians/
 ---
 ## Unit.FromGradians method
 
-Возвращает[`Angle`](../../angle/)объект, представленный в градусах.
+Возвращает объект [`Angle`](../../angle/), представленный в градах.
 
 ```csharp
 public static Angle FromGradians(double value)
@@ -16,17 +16,15 @@ public static Angle FromGradians(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение. |
+| значение | Double | Значение. |
 
 ### Возвращаемое значение
 
-Возвращает[`Angle`](../../angle/) объект.
+Возвращает объект [`Angle`](../../angle/) .
 
-### Смотрите также
+### См. также
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

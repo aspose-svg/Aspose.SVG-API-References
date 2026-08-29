@@ -1,30 +1,30 @@
 ---
-title: Margin.Margin
-second_title: Справочник по Aspose.SVG для .NET API
-description: Margin строитель. Инициализирует новый экземплярMargin класс.
+title: "Margin"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор Margin. Инициализирует новый экземпляр класса Margin"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
 
-Инициализирует новый экземпляр[`Margin`](../) класс.
+Инициализирует новый экземпляр класса [`Margin`](../).
 
 ```csharp
 public Margin()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int) {#constructor_3}
+## Margin(*int*) {#constructor_3}
 
-Инициализирует новый экземпляр[`Margin`](../) класс.
+Инициализирует новый экземпляр класса [`Margin`](../).
 
 ```csharp
 public Margin(int anyMargin)
@@ -32,19 +32,19 @@ public Margin(int anyMargin)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| anyMargin | Int32 | Любой размер маржи. |
+| anyMargin | Int32 | Любой размер отступа. |
 
-### Смотрите также
+### См. также
 
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length) {#constructor_1}
+## Margin(*[Length](../../length/)*) {#constructor_1}
 
-Инициализирует новый экземпляр[`Margin`](../) класс.
+Инициализирует новый экземпляр класса [`Margin`](../).
 
 ```csharp
 public Margin(Length anyMargin)
@@ -52,20 +52,20 @@ public Margin(Length anyMargin)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| anyMargin | Length | Любой размер маржи. |
+| anyMargin | Length | Любой размер отступа. |
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int, int, int, int) {#constructor_4}
+## Margin(*int, int, int, int*) {#constructor_4}
 
-Инициализирует новый экземпляр[`Margin`](../) класс.
+Инициализирует новый экземпляр класса [`Margin`](../).
 
 ```csharp
 public Margin(int left, int top, int right, int bottom)
@@ -73,22 +73,22 @@ public Margin(int left, int top, int right, int bottom)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Int32 | Левый размер. |
-| top | Int32 | Верхний размер. |
-| right | Int32 | Правильный размер. |
-| bottom | Int32 | Нижний размер. |
+| левый | Int32 | Размер слева. |
+| top | Int32 | Размер сверху. |
+| право | Int32 | Размер справа. |
+| bottom | Int32 | Размер снизу. |
 
-### Смотрите также
+### См. также
 
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length, Length, Length, Length) {#constructor_2}
+## Margin(*[Length](../../length/), [Length](../../length/), [Length](../../length/), [Length](../../length/)*) {#constructor_2}
 
-Инициализирует новый экземпляр[`Margin`](../) класс.
+Инициализирует новый экземпляр класса [`Margin`](../).
 
 ```csharp
 public Margin(Length left, Length top, Length right, Length bottom)
@@ -96,16 +96,14 @@ public Margin(Length left, Length top, Length right, Length bottom)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Length | Левый размер. |
-| top | Length | Верхний размер. |
-| right | Length | Правильный размер. |
-| bottom | Length | Нижний размер. |
+| левый | Length | Размер слева. |
+| top | Length | Размер сверху. |
+| право | Length | Размер справа. |
+| bottom | Length | Размер снизу. |
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

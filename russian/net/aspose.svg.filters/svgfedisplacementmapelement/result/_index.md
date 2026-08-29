@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.Result
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDisplacementMapElement свойство. Соответствует атрибуту результат данного элемента фильтр.
+title: "SVGFEDisplacementMapElement.Result"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEDisplacementMapElement Result свойство. Соответствует атрибуту result указанного элемента фильтра"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.filters/svgfedisplacementmapelement/result/
 ---
 ## SVGFEDisplacementMapElement.Result property
 
-Соответствует атрибуту «результат» данного элемента «фильтр».
+Соответствует атрибуту ‘result’ указанного элемента ‘filter’.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «результат» данного элемента «фильтр».
+Атрибут ‘result’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEDisplacementMapElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

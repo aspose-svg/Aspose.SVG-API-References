@@ -1,14 +1,14 @@
 ---
-title: Node.LookupNamespaceURI
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node метод. Найдите URI пространства имен связанный с данным префиксом начиная с этого узла.
+title: "Node.LookupNamespaceURI"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Node LookupNamespaceURI. Ищет URI пространства имён, связанный с заданным префиксом, начиная с этого узла."
 type: docs
-weight: 260
+weight: 240
 url: /ru/net/aspose.svg.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method
 
-Найдите URI пространства имен, связанный с данным префиксом, начиная с этого узла.
+Ищет URI пространства имён, связанный с указанным префиксом, начиная с этого узла.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
@@ -16,16 +16,14 @@ public string LookupNamespaceURI(string prefix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| prefix | String | Префикс. |
+| префикс | String | Префикс. |
 
 ### Возвращаемое значение
 
-Возвращает URI пространства имен
+Возвращает URI пространства имён.
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

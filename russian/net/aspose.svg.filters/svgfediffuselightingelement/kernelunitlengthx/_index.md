@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.KernelUnitLengthX
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDiffuseLightingElement свойство. Соответствует атрибуту kernelUnitLength данного элемента feDiffuseLighting.
+title: "SVGFEDiffuseLightingElement.KernelUnitLengthX"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство KernelUnitLengthX элемента SVGFEDiffuseLightingElement. Соответствует атрибуту kernelUnitLength данного элемента feDiffuseLighting"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.filters/svgfediffuselightingelement/kernelunitlengthx/
 ---
 ## SVGFEDiffuseLightingElement.KernelUnitLengthX property
 
-Соответствует атрибуту 'kernelUnitLength' данного элемента 'feDiffuseLighting'.
+Соответствует атрибуту ‘kernelUnitLength’ в данном элементе ‘feDiffuseLighting’.
 
 ```csharp
 public SVGAnimatedNumber KernelUnitLengthX { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'kernelUnitLength' данного элемента 'feDiffuseLighting'.
+Атрибут ‘kernelUnitLength’ данного элемента ‘feDiffuseLighting’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

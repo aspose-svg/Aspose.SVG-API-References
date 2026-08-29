@@ -1,7 +1,7 @@
 ---
-title: ShadowRoot.Mode
-second_title: Справочник по Aspose.SVG для .NET API
-description: ShadowRoot свойство. Режим в котором работает этот ShadowRoot.
+title: "ShadowRoot.Mode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ShadowRoot Mode. Режим, в котором работает данный ShadowRoot"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/shadowroot/mode/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/shadowroot/mode/
 public ShadowRootMode Mode { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [ShadowRoot](../)
-* пространство имен [Aspose.Svg.Dom](../../shadowroot/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

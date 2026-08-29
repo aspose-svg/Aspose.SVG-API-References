@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.GetPropertyValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSStyleDeclaration метод. Используется для получения значения свойства CSS если оно было явно задано в этом блоке объявления.
+title: "ICSSStyleDeclaration.GetPropertyValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetPropertyValue интерфейса ICSSStyleDeclaration. Используется для получения значения свойства CSS, если оно было явно задано в этом блоке объявлений"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom.css/icssstyledeclaration/getpropertyvalue/
 ---
 ## ICSSStyleDeclaration.GetPropertyValue method
 
-Используется для получения значения свойства CSS, если оно было явно задано в этом блоке объявления.
+Используется для получения значения CSS‑свойства, если оно было явно задано в этом декларативном блоке.
 
 ```csharp
 public string GetPropertyValue(string propertyName)
@@ -16,16 +16,14 @@ public string GetPropertyValue(string propertyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| propertyName | String | Название свойства. |
+| propertyName | String | Имя свойства. |
 
 ### Возвращаемое значение
 
-Возвращает значение свойства
+Возвращает значение свойства.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

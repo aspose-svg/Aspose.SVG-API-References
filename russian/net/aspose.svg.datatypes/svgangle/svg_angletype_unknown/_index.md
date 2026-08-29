@@ -1,23 +1,21 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_UNKNOWN
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAngle поле. Тип юнита не является одним из предопределенных типов юнитов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
+title: "SVGAngle.SVG_ANGLETYPE_UNKNOWN"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGAngle SVG_ANGLETYPE_UNKNOWN. Тип единицы измерения не является одним из предопределённых типов. Недопустимо пытаться определить новое значение этого типа или переключать существующее значение на этот тип."
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.datatypes/svgangle/svg_angletype_unknown/
 ---
 ## SVGAngle.SVG_ANGLETYPE_UNKNOWN field
 
-Тип юнита не является одним из предопределенных типов юнитов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
+Тип единицы измерения не относится к предопределённым типам. Недопустимо пытаться определить новое значение этого типа или переключать существующее значение на этот тип.
 
 ```csharp
 public const ushort SVG_ANGLETYPE_UNKNOWN;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgangle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: IElementTraversal.ChildElementCount
-second_title: Справочник по Aspose.SVG для .NET API
-description: IElementTraversal свойство. Возвращает текущее количество узлов элемента которые являются дочерними элементами этого элемента. 0 если у этого элемента нет дочерних узлов с nodeType 1.
+title: "IElementTraversal.ChildElementCount"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IElementTraversal ChildElementCount. Возвращает текущее количество узлов‑элементов, являющихся дочерними для данного элемента. 0, если у этого элемента нет дочерних узлов типа nodeType 1."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.traversal/ielementtraversal/childelementcount/
 ---
 ## IElementTraversal.ChildElementCount property
 
-Возвращает текущее количество узлов элемента, которые являются дочерними элементами этого элемента. 0, если у этого элемента нет дочерних узлов с nodeType 1.
+Возвращает текущее количество узлов-элементов, являющихся дочерними для этого элемента. 0, если у этого элемента нет дочерних узлов типа nodeType 1.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество дочерних элементов.
 
-### Смотрите также
+### См. также
 
 * interface [IElementTraversal](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

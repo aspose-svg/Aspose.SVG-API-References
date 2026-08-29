@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnToggle
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnToggle.
+title: "IGlobalEventHandlers.OnToggle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnToggle. Получает или задаёт обработчик события для события OnToggle"
 type: docs
 weight: 480
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/ontoggle/
 ---
 ## IGlobalEventHandlers.OnToggle event
 
-Получает или задает обработчик события OnToggle.
+Получает или задает обработчик события для события OnToggle.
 
 ```csharp
 public event DOMEventHandler OnToggle;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

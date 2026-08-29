@@ -1,28 +1,26 @@
 ---
-title: IWindow.FrameElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindow свойство. Объект frameElement документа.
+title: "IWindow.FrameElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IWindow FrameElement. Объект frameElement документа."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.window/iwindow/frameelement/
 ---
 ## IWindow.FrameElement property
 
-Объект frameElement документа.
+Объект frameElement документа Document.
 
 ```csharp
 public Element FrameElement { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Элемент кадра.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IWindow](../)
-* пространство имен [Aspose.Svg.Window](../../iwindow/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IDevice.BeginPage
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Начинает рендеринг новой страницы.
+title: "IDevice.BeginPage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice BeginPage. Начинает рендеринг новой страницы."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.rendering/idevice/beginpage/
 ---
 ## IDevice.BeginPage method
 
-Начинает рендеринг новой страницы.
+Начинает отрисовку новой страницы.
 
 ```csharp
 public void BeginPage(SizeF size)
@@ -16,12 +16,10 @@ public void BeginPage(SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | SizeF | Размер страницы. |
+| размер | SizeF | Размер страницы. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

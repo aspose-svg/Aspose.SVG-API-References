@@ -1,28 +1,26 @@
 ---
-title: SVGImageElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGImageElement свойство. Соответствует атрибуту y данного элемента image.
+title: "SVGImageElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y класса SVGImageElement. Соответствует атрибуту y заданного элемента изображения"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgimageelement/y/
 ---
 ## SVGImageElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'image'.
+Соответствует атрибуту ‘y’ у указанного элемента ‘image’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Соответствует атрибуту 'y' данного элемента 'image'.
+Соответствует атрибуту ‘y’ у указанного элемента ‘image’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGImageElement](../)
-* пространство имен [Aspose.Svg](../../svgimageelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

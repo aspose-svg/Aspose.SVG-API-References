@@ -1,23 +1,21 @@
 ---
-title: Event.StopImmediatePropagation
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event метод. Вызов этого метода не позволяет событию достичь какихлибо прослушивателей событий зарегистрированных после текущего а при отправке в дерево также предотвращает достижение событием какихлибо других объектов.
+title: "Event.StopImmediatePropagation"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Event StopImmediatePropagation. Вызов этого метода предотвращает доставку события любым слушателям событий, зарегистрированным после текущего, а при распространении в дереве также предотвращает доставку события другим объектам."
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.dom.events/event/stopimmediatepropagation/
 ---
 ## Event.StopImmediatePropagation method
 
-Вызов этого метода не позволяет событию достичь каких-либо прослушивателей событий, зарегистрированных после текущего, а при отправке в дерево также предотвращает достижение событием каких-либо других объектов.
+Вызов этого метода предотвращает доставку события к любым обработчикам, зарегистрированным после текущего, а при распространении в дереве также предотвращает доставку события к другим объектам.
 
 ```csharp
 public void StopImmediatePropagation()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

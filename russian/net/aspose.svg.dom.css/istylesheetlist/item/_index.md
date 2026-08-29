@@ -1,14 +1,14 @@
 ---
-title: IStyleSheetList.Item
-second_title: Справочник по Aspose.SVG для .NET API
-description: IStyleSheetList свойство. Используется для извлечения таблицы стилей по элементу метода int index в соответствии с http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/stylesheets.html.
+title: "IStyleSheetList.Item"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Item интерфейса IStyleSheetList. Используется для получения таблицы стилей методом itemint по индексу в соответствии с http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-Используется для извлечения таблицы стилей по элементу метода (int index) в соответствии с http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html.
+Используется для получения таблицы стилей методом item(int index) в соответствии с http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html.
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
@@ -20,17 +20,15 @@ public ICSSStyleSheet this[int index] { get; }
 
 ### Возвращаемое значение
 
-Экземпляр таблицы стилей CSS.
+Экземпляр CSS таблицы стилей.
 
-### Стоимость имущества
+### Property Value
 
-[`ICSSStyleSheet`](../../icssstylesheet/) .
+Объект [`ICSSStyleSheet`](../../icssstylesheet/).
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [IStyleSheetList](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

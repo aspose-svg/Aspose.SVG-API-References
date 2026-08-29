@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Справочник по Aspose.SVG для .NET API
-description: Metered метод. Получает потребительский кредит
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Metered GetConsumptionCredit. Получает кредит потребления"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-Получает потребительский кредит
+Получает кредит потребления
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -16,12 +16,10 @@ public static decimal GetConsumptionCredit()
 
 ### Возвращаемое значение
 
-объем потребления
+количество потребления
 
-### Смотрите также
+### См. также
 
 * class [Metered](../)
-* пространство имен [Aspose.Svg](../../metered/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

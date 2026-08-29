@@ -1,28 +1,26 @@
 ---
-title: IGradientBrush.InterpolationColors
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGradientBrush свойство. Получить цвета интерполяции определяющие многоцветный линейный градиент.
+title: "IGradientBrush.InterpolationColors"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IGradientBrush InterpolationColors. Получает или задает цвета интерполяции, определяющие многоцветный линейный градиент."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/igradientbrush/interpolationcolors/
 ---
 ## IGradientBrush.InterpolationColors property
 
-Получить цвета интерполяции, определяющие многоцветный линейный градиент.
+Получает или задаёт цвета интерполяции, определяющие многокрасный линейный градиент.
 
 ```csharp
-public IInterpolationColor[] InterpolationColors { get; }
+public IInterpolationColor[] InterpolationColors { get; set; }
 ```
 
 ### Возвращаемое значение
 
-Интерполяционные цвета.
+Цвета интерполяции.
 
-### Смотрите также
+### См. также
 
 * interface [IInterpolationColor](../../iinterpolationcolor/)
 * interface [IGradientBrush](../)
-* пространство имен [Aspose.Svg.Drawing](../../igradientbrush/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

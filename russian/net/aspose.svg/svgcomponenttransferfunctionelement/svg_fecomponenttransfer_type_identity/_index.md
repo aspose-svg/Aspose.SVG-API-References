@@ -1,7 +1,7 @@
 ---
-title: SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement поле. Соответствует значению identity.
+title: "SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY элемента SVGComponentTransferFunctionElement. Соответствует значению identity."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_identity/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttrans
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

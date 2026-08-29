@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Slope
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement свойство. Соответствует атрибуту наклон данного элемента.
+title: "SVGComponentTransferFunctionElement.Slope"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Slope класса SVGComponentTransferFunctionElement. Соответствует атрибуту slope в данном элементе."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 
-Соответствует атрибуту «наклон» данного элемента.
+Соответствует атрибуту ‘slope’ в данном элементе.
 
 ```csharp
 public SVGAnimatedNumber Slope { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «наклон» данного элемента.
+Атрибут ‘slope’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

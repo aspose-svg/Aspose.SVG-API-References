@@ -1,42 +1,40 @@
 ---
-title: Class Dimension
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.Dimension сорт. Предоставляет базовый класс для измерений. Общий термин размер относится к числу с присоединенной к нему единицей и обозначаетсяUnitType .
+title: "Класс Dimension"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Drawing.Dimension. Предоставляет базовый класс для измерений. Общий термин «dimension» относится к числу с прикреплённой единицей измерения и обозначается типом UnitType"
 type: docs
-weight: 1410
+weight: 3410
 url: /ru/net/aspose.svg.drawing/dimension/
 ---
 ## Dimension class
 
-Предоставляет базовый класс для измерений. Общий термин «размер» относится к числу с присоединенной к нему единицей и обозначается[`UnitType`](../unittype/) .
+Предоставляет базовый класс для измерений. Общий термин «dimension» относится к числу с прикреплённой единицей измерения и обозначается [`UnitType`](../unittype/).
 
 ```csharp
 public abstract class Dimension : Numeric
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | Получает тип единицы измерения[`Unit`](../unit/) . |
+| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | Получает тип единицы измерения [`Unit`](../unit/). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(Numeric) | Сравнивает текущий экземпляр с другим объектом того же типа и возвращает целое число, указывающее, предшествует ли текущий экземпляр, следует за ним или находится в той же позиции в порядке сортировки, что и другой объект. |
-| override [Equals](../../aspose.svg.drawing/unit/equals/)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
-| override [Equals](../../aspose.svg.drawing/numeric/equals/)(Unit) | Определяет, является ли указанный[`Unit`](../unit/) , равно этому экземпляру. |
-| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | Возвращает хэш-код для этого экземпляра. |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | Получает значение единицы измерения. |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(UnitType) | Получает значение, преобразованное в указанное[`UnitType`](../unittype/) . |
-| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [CompareTo](../../aspose.svg.drawing/numeric/compareto/)(*[Numeric](../numeric/)*) | Сравнивает текущий экземпляр с другим объектом того же типа и возвращает целое число, указывающее, предшествует ли текущий экземпляр, следует за ним или находится в той же позиции в порядке сортировки, что и другой объект. |
+| override [Equals](../../aspose.svg.drawing/unit/equals/)(*object*) | Определяет, равен ли указанный объект текущему экземпляру. |
+| override [Equals](../../aspose.svg.drawing/numeric/equals/)(*[Unit](../unit/)*) | Определяет, равна ли указанная [`Unit`](../unit/) этому экземпляру. |
+| override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode/)() | Возвращает хеш‑код для этого экземпляра. |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)() | Получает значение единицы. |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue/)(*[UnitType](../unittype/)*) | Получает значение, преобразованное к указанному [`UnitType`](../unittype/). |
+| override [ToString](../../aspose.svg.drawing/dimension/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [Unit](../unit/)
 * class [Numeric](../numeric/)
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

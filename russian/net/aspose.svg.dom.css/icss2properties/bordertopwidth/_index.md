@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderTopWidth
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства bordertopwidth в CSS2.
+title: "ICSS2Properties.BorderTopWidth"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BorderTopWidth интерфейса ICSS2Properties. См. определение свойства border-top-width в CSS2"
 type: docs
 weight: 280
 url: /ru/net/aspose.svg.dom.css/icss2properties/bordertopwidth/
 ---
 ## ICSS2Properties.BorderTopWidth property
 
-См. определение свойства border-top-width в CSS2.
+Смотрите определение свойства border-top-width в CSS2.
 
 ```csharp
 public string BorderTopWidth { get; set; }
@@ -18,10 +18,8 @@ public string BorderTopWidth { get; set; }
 
 свойство border-top-width
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

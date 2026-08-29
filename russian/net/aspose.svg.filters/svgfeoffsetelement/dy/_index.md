@@ -1,28 +1,26 @@
 ---
-title: SVGFEOffsetElement.Dy
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEOffsetElement свойство. Соответствует атрибуту dy в данном элементе feOffset.
+title: "SVGFEOffsetElement.Dy"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEOffsetElement Dy. Соответствует атрибуту dy в данном элементе feOffset."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfeoffsetelement/dy/
 ---
 ## SVGFEOffsetElement.Dy property
 
-Соответствует атрибуту dy в данном элементе feOffset.
+Соответствует атрибуту ‘dy’ в данном элементе ‘feOffset’.
 
 ```csharp
 public SVGAnimatedNumber Dy { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут dy данного элемента feOffset.
+Атрибут ‘dy’ данного элемента ‘feOffset’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEOffsetElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeoffsetelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

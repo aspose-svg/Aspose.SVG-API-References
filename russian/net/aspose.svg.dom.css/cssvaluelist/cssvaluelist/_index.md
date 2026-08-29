@@ -1,30 +1,30 @@
 ---
-title: CSSValueList.CSSValueList
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSValueList строитель. Инициализирует новый экземплярCSSValueList класс.
+title: "CSSValueList"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор CSSValueList. Инициализирует новый экземпляр класса CSSValueList."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 
-Инициализирует новый экземпляр[`CSSValueList`](../) класс.
+Инициализирует новый экземпляр класса [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList()
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSValueList](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
+## CSSValueList(*IEnumerable&lt;CSSValue&gt;*) {#constructor_2}
 
-Инициализирует новый экземпляр[`CSSValueList`](../) класс.
+Инициализирует новый экземпляр класса [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList(IEnumerable<CSSValue> values)
@@ -32,20 +32,20 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| values | IEnumerable`1 | Ценности. |
+| значения | IEnumerable`1 | Значения. |
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(params CSSValue[]) {#constructor_1}
+## CSSValueList(*params CSSValue[]*) {#constructor_1}
 
-Инициализирует новый экземпляр[`CSSValueList`](../) класс.
+Инициализирует новый экземпляр класса [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList(params CSSValue[] values)
@@ -53,13 +53,11 @@ public CSSValueList(params CSSValue[] values)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| values | CSSValue[] | Ценности. |
+| значения | CSSValue[] | Значения. |
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

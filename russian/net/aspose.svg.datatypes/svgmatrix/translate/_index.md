@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.Translate
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGMatrix метод. Постумножает трансляционное преобразование на текущую матрицу и возвращает результирующую матрицу.
+title: "SVGMatrix.Translate"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGMatrix Translate. Выполняет постмультипликацию трансформации перемещения к текущей матрице и возвращает получившуюся матрицу"
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.datatypes/svgmatrix/translate/
 ---
 ## SVGMatrix.Translate method
 
-Пост-умножает трансляционное преобразование на текущую матрицу и возвращает результирующую матрицу.
+Применяет постмультипликацию преобразования перемещения к текущей матрице и возвращает полученную матрицу.
 
 ```csharp
 public SVGMatrix Translate(float x, float y)
@@ -16,17 +16,15 @@ public SVGMatrix Translate(float x, float y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Расстояние для перемещения по оси x. |
-| y | Single | Расстояние для перемещения по оси Y. |
+| x | Single | Расстояние перемещения вдоль оси X. |
+| y | Single | Расстояние смещения вдоль оси y. |
 
 ### Возвращаемое значение
 
 Полученная матрица.
 
-### Смотрите также
+### См. также
 
 * class [SVGMatrix](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgmatrix/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

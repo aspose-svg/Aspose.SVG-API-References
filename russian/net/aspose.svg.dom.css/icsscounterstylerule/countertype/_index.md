@@ -1,27 +1,25 @@
 ---
-title: ICSSCounterStyleRule.CounterType
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSCounterStyleRule свойство. Получает тип счетчика.
+title: "ICSSCounterStyleRule.CounterType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство CounterType интерфейса ICSSCounterStyleRule. Возвращает тип счётчика"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icsscounterstylerule/countertype/
 ---
 ## ICSSCounterStyleRule.CounterType property
 
-Получает тип счетчика.
+Возвращает тип счётчика.
 
 ```csharp
 public string CounterType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип счетчика.
+Тип счётчика.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSCounterStyleRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

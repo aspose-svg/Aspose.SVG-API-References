@@ -1,12 +1,12 @@
 ---
-title: License.SetLicense
-second_title: Справочник по Aspose.SVG для .NET API
-description: License метод. Лицензирует компонент.
+title: "License.SetLicense"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод License SetLicense. Лицензирует компонент."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/license/setlicense/
 ---
-## SetLicense(string) {#setlicense_1}
+## SetLicense(*string*) {#setlicense_1}
 
 Лицензирует компонент.
 
@@ -16,9 +16,9 @@ public void SetLicense(string licenseName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| licenseName | String | Может быть полным или коротким именем файла или имя встроенного ресурса. Используйте пустую строку для переключения в режим оценки. |
+| licenseName | String | Может быть полным или коротким именем файла или именем встроенного ресурса. Используйте пустую строку, чтобы переключиться в режим оценки. |
 
-### Примечания
+## Замечания
 
 Пытается найти лицензию в следующих местах:
 
@@ -28,23 +28,23 @@ public void SetLicense(string licenseName)
 
 3. Папка, содержащая вызывающую сборку клиента.
 
-4. Папка, содержащая входную (загрузочную) сборку.
+4. Папка, содержащая входную (запускную) сборку.
 
 5. Встроенный ресурс в вызывающей сборке клиента.
 
-**Примечание:**В .NET Compact Framework пытается найти лицензию только в следующих местах:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Явный путь.
 
 2. Встроенный ресурс в вызывающей сборке клиента.
 
-2. Папка, содержащая JAR-файл компонента Aspose.
+2. Папка, содержащая JAR‑файл компонента Aspose.
 
-3. Папка, содержащая JAR-файл вызывающего клиента.
+3. Папка, содержащая JAR‑файл вызывающего клиента.
 
-### Примеры
+## Примеры
 
-В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей  компонент в папке, содержащей вызывающую сборку, в папке входной сборки, а затем во встроенных ресурсах вызывающей сборки.
+В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке основной сборки, а затем во встроенных ресурсах вызывающей сборки.
 
 ```csharp
 [C#]
@@ -60,15 +60,15 @@ License license = new License();
 license.setLicense("MyLicense.lic");
 ```
 
-### Смотрите также
+### См. также
 
 * class [License](../)
-* пространство имен [Aspose.Svg](../../license/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetLicense(Stream) {#setlicense}
+## SetLicense(*Stream*) {#setlicense}
 
 Лицензирует компонент.
 
@@ -80,11 +80,11 @@ public void SetLicense(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Поток, содержащий лицензию. |
 
-### Примечания
+## Замечания
 
 Используйте этот метод для загрузки лицензии из потока.
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
@@ -93,10 +93,8 @@ License license = new License();
 license.SetLicense(myStream);
 ```
 
-### Смотрите также
+### См. также
 
 * class [License](../)
-* пространство имен [Aspose.Svg](../../license/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

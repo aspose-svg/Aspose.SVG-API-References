@@ -1,14 +1,14 @@
 ---
-title: Interface IWindowTimers
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Window.IWindowTimers интерфейс. Позволяет авторам планировать обратные вызовы на основе таймера.
+title: "Интерфейс IWindowTimers"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Window.IWindowTimers. Позволяет разработчикам планировать обратные вызовы, основанные на таймерах"
 type: docs
-weight: 3840
+weight: 5940
 url: /ru/net/aspose.svg.window/iwindowtimers/
 ---
 ## IWindowTimers interface
 
-Позволяет авторам планировать обратные вызовы на основе таймера.
+Позволяет авторам планировать обратные вызовы, основанные на таймерах.
 
 ```csharp
 public interface IWindowTimers
@@ -18,14 +18,12 @@ public interface IWindowTimers
 
 | Имя | Описание |
 | --- | --- |
-| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval/)(int) | Отменяет тайм-аут, установленный с помощью setInterval(), идентифицированный handle |
-| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout/)(int) | Отменяет тайм-аут, установленный с помощью setTimeout(), идентифицированный дескриптором. |
-| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval/)(object, int, params object[]) | Планирует тайм-аут для запуска обработчика каждые миллисекунды тайм-аута. Любые аргументы передаются непосредственно обработчику. |
-| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout/)(object, int, params object[]) | Планирует тайм-аут для запуска обработчика после тайм-аута в миллисекундах. Любые аргументы передаются непосредственно обработчику. |
+| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval/)(*int*) | Отменяет таймаут, установленный с помощью setInterval(), идентифицированный дескриптором handle |
+| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout/)(*int*) | Отменяет таймаут, установленный с помощью setTimeout(), идентифицированный дескриптором handle. |
+| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval/)(*object, int, params object[]*) | Запускает таймаут, вызывающий обработчик каждые timeout миллисекунд. Все аргументы передаются напрямую обработчику. |
+| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout/)(*object, int, params object[]*) | Запускает таймаут, вызывающий обработчик через timeout миллисекунд. Все аргументы передаются напрямую обработчику. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Window](../../aspose.svg.window/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Window](../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../)

@@ -1,33 +1,31 @@
 ---
-title: Device2.BeginElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Начинает визуализацию узла.
+title: "Device-2.BeginElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Device BeginElement. Начинает отрисовку узла."
 type: docs
-weight: 50
+weight: 80
 url: /ru/net/aspose.svg.rendering/device-2/beginelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginElement method
+## Device<TGraphicContext,TRenderingOptions>.BeginElement method
 
-Начинает визуализацию узла.
+Начинает отрисовку узла.
 
 ```csharp
-public abstract bool BeginElement(Element element, RectangleF rect)
+public virtual bool BeginElement(Element element, RectangleF rect)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | [`Element`](../../../aspose.svg.dom/element/). |
-| rect | RectangleF | Ограничительная рамка узла. |
+| element | Element | Элемент [`Element`](../../../aspose.svg.dom/element/). |
+| rect | RectangleF | Граничный прямоугольник узла. |
 
 ### Возвращаемое значение
 
-Возвращает [true], если элемент должен быть обработан.
+Возвращает [true], если элемент следует обработать.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

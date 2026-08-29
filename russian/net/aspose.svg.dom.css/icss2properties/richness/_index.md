@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Richness
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства богатства в CSS2.
+title: "ICSS2Properties.Richness"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ICSS2Properties Richness. См. определение свойства richness в CSS2"
 type: docs
-weight: 970
+weight: 1000
 url: /ru/net/aspose.svg.dom.css/icss2properties/richness/
 ---
 ## ICSS2Properties.Richness property
 
-См. определение свойства богатства в CSS2.
+Смотрите определение свойства richness в CSS2.
 
 ```csharp
 public string Richness { get; set; }
@@ -16,12 +16,10 @@ public string Richness { get; set; }
 
 ### Возвращаемое значение
 
-собственность богатства
+свойство richness
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

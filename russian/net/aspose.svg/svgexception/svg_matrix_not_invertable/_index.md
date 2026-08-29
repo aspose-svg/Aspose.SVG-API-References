@@ -1,23 +1,21 @@
 ---
-title: SVGException.SVG_MATRIX_NOT_INVERTABLE
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGException поле. Возникает при попытке инвертировать необратимую матрицу.
+title: "SVGException.SVG_MATRIX_NOT_INVERTABLE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGException SVG_MATRIX_NOT_INVERTABLE. Возникает, когда пытаются инвертировать матрицу, которая не обратима."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgexception/svg_matrix_not_invertable/
 ---
 ## SVGException.SVG_MATRIX_NOT_INVERTABLE field
 
-Возникает при попытке инвертировать необратимую матрицу.
+Выбрасывается, когда предпринимается попытка обратить матрицу, которая не обратима.
 
 ```csharp
 public const ushort SVG_MATRIX_NOT_INVERTABLE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGException](../)
-* пространство имен [Aspose.Svg](../../svgexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

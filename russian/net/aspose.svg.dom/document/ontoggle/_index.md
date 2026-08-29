@@ -1,24 +1,22 @@
 ---
-title: Document.OnToggle
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnToggle.
+title: "Document.OnToggle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnToggle. Получает или задает обработчик события для события OnToggle"
 type: docs
 weight: 760
 url: /ru/net/aspose.svg.dom/document/ontoggle/
 ---
 ## Document.OnToggle event
 
-Получает или задает обработчик события OnToggle.
+Получает или задает обработчик события для события OnToggle.
 
 ```csharp
 public event DOMEventHandler OnToggle;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

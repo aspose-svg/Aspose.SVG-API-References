@@ -1,14 +1,14 @@
 ---
-title: Element.QuerySelector
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Возвращает первый элемент в документе соответствующий selector
+title: "Element.QuerySelector"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element QuerySelector. Возвращает первый Element в документе, который соответствует селектору"
 type: docs
 weight: 340
 url: /ru/net/aspose.svg.dom/element/queryselector/
 ---
 ## Element.QuerySelector method
 
-Возвращает первый элемент в документе, соответствующий selector
+Возвращает первый Element в документе, который соответствует селектору
 
 ```csharp
 public Element QuerySelector(string selector)
@@ -22,10 +22,8 @@ public Element QuerySelector(string selector)
 
 Соответствующий элемент
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

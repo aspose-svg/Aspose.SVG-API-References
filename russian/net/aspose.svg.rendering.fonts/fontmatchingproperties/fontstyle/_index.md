@@ -1,23 +1,21 @@
 ---
-title: FontMatchingProperties.FontStyle
-second_title: Справочник по Aspose.SVG для .NET API
-description: FontMatchingProperties свойство. Получает значение стиля шрифта. Это свойство может иметь такие значения normal italic oblique.
+title: "FontMatchingProperties.FontStyle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство FontStyle класса FontMatchingProperties. Возвращает значение стиля шрифта. Это свойство может принимать такие значения: normal, italic, oblique"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontstyle/
 ---
 ## FontMatchingProperties.FontStyle property
 
-Получает значение стиля шрифта. Это свойство может иметь такие значения: normal, italic, oblique.
+Возвращает значение стиля шрифта. Это свойство может принимать следующие значения: normal, italic, oblique.
 
 ```csharp
 public string FontStyle { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontMatchingProperties](../)
-* пространство имен [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

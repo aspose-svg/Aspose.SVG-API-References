@@ -1,23 +1,21 @@
 ---
-title: Event.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event свойство. Имя события без учета регистра. Имя должно быть именем XML.
+title: "Event.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Event Type. Имя события без учёта регистра. Имя должно быть XML‑именем."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom.events/event/type/
 ---
 ## Event.Type property
 
-Имя события (без учета регистра). Имя должно быть именем XML.
+Имя события (без учёта регистра). Имя должно быть XML‑именем.
 
 ```csharp
 public string Type { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

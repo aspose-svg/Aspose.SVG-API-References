@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.RequiredFeatures
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPatternElement свойство. Соответствует атрибуту requiredFeatures данного элемента.
+title: "SVGPatternElement.RequiredFeatures"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство RequiredFeatures SVGPatternElement. Соответствует атрибуту requiredFeatures данного элемента."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg/svgpatternelement/requiredfeatures/
 ---
 ## SVGPatternElement.RequiredFeatures property
 
-Соответствует атрибуту «requiredFeatures» данного элемента.
+Соответствует атрибуту ‘requiredFeatures’ данного элемента.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Необходимые функции.
+Требуемые функции.
 
-### Смотрите также
+### См. также
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGPatternElement](../)
-* пространство имен [Aspose.Svg](../../svgpatternelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

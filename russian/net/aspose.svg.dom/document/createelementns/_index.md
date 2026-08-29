@@ -1,14 +1,14 @@
 ---
-title: Document.CreateElementNS
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает элемент с заданным полным именем и URI пространства имен.
+title: "Document.CreateElementNS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateElementNS. Создаёт элемент с заданным квалифицированным именем и URI пространства имён"
 type: docs
 weight: 860
 url: /ru/net/aspose.svg.dom/document/createelementns/
 ---
 ## Document.CreateElementNS method
 
-Создает элемент с заданным полным именем и URI пространства имен.
+Создаёт элемент с заданным квалифицированным именем и URI пространства имён.
 
 ```csharp
 public Element CreateElementNS(string namespaceURI, string qualifiedName)
@@ -16,18 +16,16 @@ public Element CreateElementNS(string namespaceURI, string qualifiedName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
+| namespaceURI | String | URI пространства имён. |
 | qualifiedName | String | Имя квалифицированного. |
 
 ### Возвращаемое значение
 
-[`Element`](../../element/) .
+Элемент [`Element`](../../element/).
 
-### Смотрите также
+### См. также
 
 * class [Element](../../element/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

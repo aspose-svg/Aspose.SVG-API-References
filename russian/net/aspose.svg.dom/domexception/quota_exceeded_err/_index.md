@@ -1,23 +1,21 @@
 ---
-title: DOMException.QUOTA_EXCEEDED_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Превышена квота.
+title: "DOMException.QUOTA_EXCEEDED_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException QUOTA_EXCEEDED_ERR. Квота превышена"
 type: docs
 weight: 230
 url: /ru/net/aspose.svg.dom/domexception/quota_exceeded_err/
 ---
 ## DOMException.QUOTA_EXCEEDED_ERR field
 
-Превышена квота.
+Квота превышена.
 
 ```csharp
 public const ushort QUOTA_EXCEEDED_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

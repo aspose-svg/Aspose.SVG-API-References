@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderTopColor
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства bordertopcolor в CSS2.
+title: "ICSS2Properties.BorderTopColor"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BorderTopColor интерфейса ICSS2Properties. Смотрите определение свойства border-top-color в CSS2"
 type: docs
 weight: 260
 url: /ru/net/aspose.svg.dom.css/icss2properties/bordertopcolor/
 ---
 ## ICSS2Properties.BorderTopColor property
 
-См. определение свойства border-top-color в CSS2.
+Смотрите определение свойства border-top-color в CSS2.
 
 ```csharp
 public string BorderTopColor { get; set; }
@@ -16,12 +16,10 @@ public string BorderTopColor { get; set; }
 
 ### Возвращаемое значение
 
-свойство border-top-color
+Свойство border-top-color
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

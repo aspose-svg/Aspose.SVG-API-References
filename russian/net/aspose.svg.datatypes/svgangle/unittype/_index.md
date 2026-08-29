@@ -1,27 +1,25 @@
 ---
-title: SVGAngle.UnitType
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAngle свойство. Тип значения указанный одной из констант SVG_ANGLETYPE_ определенных в этом интерфейсе.
+title: "SVGAngle.UnitType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGAngle UnitType. Тип значения, указанный одной из констант SVG_ANGLETYPE_, определённых в этом интерфейсе."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svgangle/unittype/
 ---
 ## SVGAngle.UnitType property
 
-Тип значения, указанный одной из констант SVG_ANGLETYPE_*, определенных в этом интерфейсе.
+Тип значения, указанный одним из констант SVG_ANGLETYPE_*, определённых в этом интерфейсе.
 
 ```csharp
 public ushort UnitType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип юнита.
+Тип единицы.
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgangle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

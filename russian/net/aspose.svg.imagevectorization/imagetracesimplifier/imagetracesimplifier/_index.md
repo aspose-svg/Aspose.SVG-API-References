@@ -1,30 +1,30 @@
 ---
-title: ImageTraceSimplifier.ImageTraceSimplifier
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageTraceSimplifier строитель. Инициализирует новый экземплярImageTraceSimplifier класс.
+title: "ImageTraceSimplifier"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ImageTraceSimplifier. Инициализирует новый экземпляр класса ImageTraceSimplifier."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/imagetracesimplifier/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier() {#constructor}
 
-Инициализирует новый экземпляр[`ImageTraceSimplifier`](../) класс.
+Инициализирует новый экземпляр класса [`ImageTraceSimplifier`](../).
 
 ```csharp
 public ImageTraceSimplifier()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageTraceSimplifier](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSimplifier(float) {#constructor_1}
+## ImageTraceSimplifier(*float*) {#constructor_1}
 
-Инициализирует новый экземпляр[`ImageTraceSimplifier`](../) класс.
+Инициализирует новый экземпляр класса [`ImageTraceSimplifier`](../).
 
 ```csharp
 public ImageTraceSimplifier(float tolerance)
@@ -32,12 +32,10 @@ public ImageTraceSimplifier(float tolerance)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tolerance | Single | Терпимость |
+| допуск | Single | Допуск |
 
-### Смотрите также
+### См. также
 
 * class [ImageTraceSimplifier](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

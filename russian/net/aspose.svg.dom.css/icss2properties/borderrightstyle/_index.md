@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BorderRightStyle
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства borderrightstyle в CSS2.
+title: "ICSS2Properties.BorderRightStyle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSS2Properties BorderRightStyle свойство. См. определение свойства border-right-style в CSS2"
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderrightstyle/
@@ -16,12 +16,10 @@ public string BorderRightStyle { get; set; }
 
 ### Возвращаемое значение
 
-свойство пограничного стиля
+border-right-style свойство
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ContentTypeHeaderValue.CharSet
-second_title: Справочник по Aspose.SVG для .NET API
-description: ContentTypeHeaderValue свойство. Получает или задает набор символов для содержимого.
+title: "ContentTypeHeaderValue.CharSet"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ContentTypeHeaderValue CharSet. Получает или задает набор символов для содержимого"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net.headers/contenttypeheadervalue/charset/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.net.headers/contenttypeheadervalue/charset/
 public string CharSet { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Набор символов.
 
-### Смотрите также
+### См. также
 
 * class [ContentTypeHeaderValue](../)
-* пространство имен [Aspose.Svg.Net.Headers](../../contenttypeheadervalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

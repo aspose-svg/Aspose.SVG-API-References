@@ -1,14 +1,14 @@
 ---
-title: RequestMessage.RequestMessage
-second_title: Справочник по Aspose.SVG для .NET API
-description: RequestMessage строитель. Инициализирует новый экземплярRequestMessage класс.
+title: "RequestMessage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор RequestMessage. Инициализирует новый экземпляр класса RequestMessage"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/requestmessage/requestmessage/
 ---
-## RequestMessage(string) {#constructor_1}
+## RequestMessage(*string*) {#constructor_1}
 
-Инициализирует новый экземпляр[`RequestMessage`](../) класс.
+Инициализирует новый экземпляр класса [`RequestMessage`](../).
 
 ```csharp
 public RequestMessage(string address)
@@ -18,17 +18,17 @@ public RequestMessage(string address)
 | --- | --- | --- |
 | address | String | Адрес запроса. |
 
-### Смотрите также
+### См. также
 
 * class [RequestMessage](../)
-* пространство имен [Aspose.Svg.Net](../../requestmessage/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RequestMessage(Url) {#constructor}
+## RequestMessage(*[Url](../../../aspose.svg/url/)*) {#constructor}
 
-Инициализирует новый экземпляр[`RequestMessage`](../) класс.
+Инициализирует новый экземпляр класса [`RequestMessage`](../).
 
 ```csharp
 public RequestMessage(Url uri)
@@ -36,13 +36,11 @@ public RequestMessage(Url uri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uri | Url | URL-адрес запроса. |
+| uri | Url | URL запроса. |
 
-### Смотрите также
+### См. также
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* пространство имен [Aspose.Svg.Net](../../requestmessage/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

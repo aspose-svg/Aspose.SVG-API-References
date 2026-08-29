@@ -1,23 +1,21 @@
 ---
-title: Device2.Flush
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Сбрасывает все данные в выходной поток.
+title: "Device-2.Flush"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device Flush method. Сбрасывает все данные в выходной поток."
 type: docs
-weight: 170
+weight: 200
 url: /ru/net/aspose.svg.rendering/device-2/flush/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Flush method
+## Device<TGraphicContext,TRenderingOptions>.Flush method
 
-Сбрасывает все данные в выходной поток.
+Сбрасывает все данные в поток вывода.
 
 ```csharp
 public virtual void Flush()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

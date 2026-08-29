@@ -1,14 +1,14 @@
 ---
-title: Document.CreateElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает элемент указанного типа. Обратите внимание что возвращаемый экземпляр реализует интерфейс Element поэтому атрибуты можно указывать непосредственно в возвращаемом объекте.
+title: "Document.CreateElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateElement. Создаёт HTML‑элемент, указанный в localName, или HTMLUnknownElement, если localName не распознан."
 type: docs
 weight: 850
 url: /ru/net/aspose.svg.dom/document/createelement/
 ---
 ## Document.CreateElement method
 
-Создает элемент указанного типа. Обратите внимание, что возвращаемый экземпляр реализует интерфейс Element, поэтому атрибуты можно указывать непосредственно в возвращаемом объекте.
+Создаёт HTML‑элемент, указанный в localName, или HTMLUnknownElement, если localName не распознан.
 
 ```csharp
 public Element CreateElement(string localName)
@@ -16,17 +16,15 @@ public Element CreateElement(string localName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| localName | String | Имя тега. |
+| localName | String | Строка, указывающая тип создаваемого элемента. nodeName созданного элемента инициализируется значением localName. Не используйте квалифицированные имена (например, "html:a") с этим методом. При вызове в HTML‑документе createElement() преобразует localName в нижний регистр перед созданием элемента. |
 
 ### Возвращаемое значение
 
-[`Element`](../../element/) .
+Новый [`Element`](../../element/).
 
-### Смотрите также
+### См. также
 
 * class [Element](../../element/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

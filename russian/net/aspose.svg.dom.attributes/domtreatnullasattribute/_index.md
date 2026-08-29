@@ -1,9 +1,9 @@
 ---
-title: Class DOMTreatNullAsAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Attributes.DOMTreatNullAsAttribute сорт. Указывает что null значения члена будет рассматриваться как указанное значение.
+title: "DOMTreatNullAsAttribute класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Attributes.DOMTreatNullAsAttribute класс. Указывает, что null значения члена будет рассматриваться как указанное значение"
 type: docs
-weight: 430
+weight: 2430
 url: /ru/net/aspose.svg.dom.attributes/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute class
@@ -19,18 +19,17 @@ public sealed class DOMTreatNullAsAttribute : Attribute
 
 | Имя | Описание |
 | --- | --- |
-| [DOMTreatNullAsAttribute](domtreatnullasattribute/)(Type, object) | Инициализирует новый экземпляр`DOMTreatNullAsAttribute` класс. |
+| [DOMTreatNullAsAttribute](domtreatnullasattribute/)(*Type, object*) | Инициализирует новый экземпляр класса `DOMTreatNullAsAttribute`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Type](../../aspose.svg.dom.attributes/domtreatnullasattribute/type/) { get; set; } | Получает или задает значение типа. |
+| [Type](../../aspose.svg.dom.attributes/domtreatnullasattribute/type/) { get; set; } | Получает или задает тип значения. |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 | [Value](../../aspose.svg.dom.attributes/domtreatnullasattribute/value/) { get; set; } | Получает или задает значение. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

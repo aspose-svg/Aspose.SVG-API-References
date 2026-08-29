@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BorderCollapse
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства bordercollapse в CSS2.
+title: "ICSS2Properties.BorderCollapse"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BorderCollapse в ICSS2Properties. См. определение свойства border-collapse в CSS2"
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.dom.css/icss2properties/bordercollapse/
@@ -16,12 +16,10 @@ public string BorderCollapse { get; set; }
 
 ### Возвращаемое значение
 
-свойство границы коллапса
+свойство border-collapse
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

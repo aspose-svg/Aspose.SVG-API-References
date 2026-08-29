@@ -1,27 +1,25 @@
 ---
-title: ITextureBrush.Opacity
-second_title: Справочник по Aspose.SVG для .NET API
-description: ITextureBrush свойство. Получить значение непрозрачности в матрице преобразования цвета.
+title: "ITextureBrush.Opacity"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ITextureBrush Opacity. Получает значение непрозрачности в матрице цветового преобразования"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.drawing/itexturebrush/opacity/
 ---
 ## ITextureBrush.Opacity property
 
-Получить значение непрозрачности в матрице преобразования цвета.
+Получить значение непрозрачности в матрице цветового преобразования.
 
 ```csharp
-public float Opacity { get; }
+public float Opacity { get; set; }
 ```
 
 ### Возвращаемое значение
 
 Непрозрачность.
 
-### Смотрите также
+### См. также
 
 * interface [ITextureBrush](../)
-* пространство имен [Aspose.Svg.Drawing](../../itexturebrush/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEGaussianBlurElement свойство. Соответствует атрибуту x данного элемента filter.
+title: "SVGFEGaussianBlurElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEGaussianBlurElement X. Соответствует атрибуту x в данном элементе filter"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.filters/svgfegaussianblurelement/x/
 ---
 ## SVGFEGaussianBlurElement.X property
 
-Соответствует атрибуту "x" данного элемента "filter".
+Соответствует атрибуту �x� в данном элементе �filter�.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут "x" данного элемента "filter".
+Атрибут �x� данного �filter� элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

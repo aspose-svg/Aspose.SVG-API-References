@@ -1,23 +1,21 @@
 ---
-title: UnitType.Q
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в четвертях миллиметра
+title: "UnitType.Q"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Q. Измерение в четвертьмиллиметрах."
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.drawing/unittype/q/
 ---
 ## UnitType.Q field
 
-Измерение в четвертях миллиметра
+Измерение в четвертных миллиметрах.
 
 ```csharp
 public static readonly UnitType Q;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

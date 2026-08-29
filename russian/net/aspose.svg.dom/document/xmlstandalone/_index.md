@@ -1,27 +1,25 @@
 ---
-title: Document.XmlStandalone
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Атрибут указывающий как часть объявления XML является ли этот документ автономным. Это неверно если не указано.
+title: "Document.XmlStandalone"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document XmlStandalone. Атрибут, указывающий в составе декларации XML, является ли этот документ автономным. Значение ложно, если не указано"
 type: docs
 weight: 260
 url: /ru/net/aspose.svg.dom/document/xmlstandalone/
 ---
 ## Document.XmlStandalone property
 
-Атрибут, указывающий, как часть объявления XML, является ли этот документ автономным. Это неверно, если не указано.
+Атрибут, указывающий, как часть декларации XML, является ли документ автономным. Если не указано, значение false.
 
 ```csharp
 public bool XmlStandalone { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если XML автономный; в противном случае,`ЛОЖЬ` .
+`true` если XML автономный; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

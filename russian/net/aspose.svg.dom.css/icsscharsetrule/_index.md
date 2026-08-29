@@ -1,29 +1,27 @@
 ---
-title: Interface ICSSCharsetRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.ICSSCharsetRule интерфейс. Интерфейс CSSCharsetRule представляет правило charset в таблице стилей CSS. Значение атрибута encoding не влияет на кодировку текстовых данных в объектах DOM эта кодировка всегда UTF16. После загрузки таблицы стилей значением атрибута encoding является значение найденное в правиле charset. Если в исходном документе не было charset CSSCharsetRule не создается. Значение атрибута encoding может также использоваться как подсказка для кодировки используемой при сериализации таблицы стилей.
+title: "ICSSCharsetRule Interface"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.ICSSCharsetRule interface. Интерфейс CSSCharsetRule представляет правило набора символов в таблице стилей CSS. Значение атрибута encoding не влияет на кодировку текстовых данных в объектах DOM, эта кодировка всегда UTF-16. После загрузки таблицы стилей значение атрибута encoding равно значению, найденному в правиле charset. Если в исходном документе не было charset, то CSSCharsetRule не создаётся. Значение атрибута encoding также может использоваться как подсказка для кодировки, используемой при сериализации таблицы стилей."
 type: docs
-weight: 530
+weight: 2530
 url: /ru/net/aspose.svg.dom.css/icsscharsetrule/
 ---
 ## ICSSCharsetRule interface
 
-Интерфейс CSSCharsetRule представляет правило @charset в таблице стилей CSS. Значение атрибута encoding не влияет на кодировку текстовых данных в объектах DOM; эта кодировка всегда UTF-16. После загрузки таблицы стилей значением атрибута encoding является значение, найденное в правиле @charset. Если в исходном документе не было @charset, CSSCharsetRule не создается. Значение атрибута encoding может также использоваться как подсказка для кодировки, используемой при сериализации таблицы стилей.
+Интерфейс CSSCharsetRule представляет правило @charset в таблице стилей CSS. Значение атрибута encoding не влияет на кодировку текстовых данных в объектах DOM; эта кодировка всегда UTF-16. После загрузки таблицы стилей значение атрибута encoding равно значению, найденному в правиле @charset. Если в оригинальном документе не было @charset, то CSSCharsetRule не создаётся. Значение атрибута encoding также может использоваться как подсказка для кодировки, применяемой при сериализации таблицы стилей.
 
 ```csharp
 public interface ICSSCharsetRule : ICSSRule
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Encoding](../../aspose.svg.dom.css/icsscharsetrule/encoding/) { get; set; } | Информация о кодировке, используемая в этом правиле @charset. |
 
-### Смотрите также
+### См. также
 
 * interface [ICSSRule](../icssrule/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

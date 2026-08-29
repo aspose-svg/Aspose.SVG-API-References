@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.Target
-second_title: Справочник по Aspose.SVG для .NET API
-description: ProcessingInstruction свойство. Цель этой инструкции обработки.
+title: "ProcessingInstruction.Target"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ProcessingInstruction Target property. Цель этой инструкции обработки"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/processinginstruction/target/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/processinginstruction/target/
 public string Target { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цель.
 
-### Смотрите также
+### См. также
 
 * class [ProcessingInstruction](../)
-* пространство имен [Aspose.Svg.Dom](../../processinginstruction/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

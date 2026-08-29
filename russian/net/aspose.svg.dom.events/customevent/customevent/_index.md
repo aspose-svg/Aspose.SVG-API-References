@@ -1,14 +1,14 @@
 ---
-title: CustomEvent.CustomEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: CustomEvent строитель. Инициализирует новый экземплярCustomEvent класс.
+title: "CustomEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор CustomEvent. Инициализирует новый экземпляр класса CustomEvent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/customevent/customevent/
 ---
-## CustomEvent(string) {#constructor}
+## CustomEvent(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`CustomEvent`](../) класс.
+Инициализирует новый экземпляр класса [`CustomEvent`](../).
 
 ```csharp
 public CustomEvent(string type)
@@ -18,17 +18,17 @@ public CustomEvent(string type)
 | --- | --- | --- |
 | type | String | Тип события. |
 
-### Смотрите также
+### См. также
 
 * class [CustomEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../customevent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CustomEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## CustomEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Инициализирует новый экземпляр[`CustomEvent`](../) класс.
+Инициализирует новый экземпляр класса [`CustomEvent`](../).
 
 ```csharp
 public CustomEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public CustomEvent(string type, IDictionary<string, object> eventInitDict)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события. |
-| eventInitDict | IDictionary`2 | Событие инициализирует словарь. |
+| eventInitDict | IDictionary`2 | Словарь инициализации события. |
 
-### Смотрите также
+### См. также
 
 * class [CustomEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../customevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

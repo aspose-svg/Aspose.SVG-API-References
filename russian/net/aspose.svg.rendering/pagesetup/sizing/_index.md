@@ -1,24 +1,22 @@
 ---
-title: PageSetup.Sizing
-second_title: Справочник по Aspose.SVG для .NET API
-description: PageSetup свойство. Получает или задает тип размера.
+title: "PageSetup.Sizing"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PageSetup Sizing. Получает или задаёт тип масштабирования"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.rendering/pagesetup/sizing/
 ---
 ## PageSetup.Sizing property
 
-Получает или задает тип размера.
+Получает или задает тип масштабирования.
 
 ```csharp
 public SizingType Sizing { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [SizingType](../../sizingtype/)
 * class [PageSetup](../)
-* пространство имен [Aspose.Svg.Rendering](../../pagesetup/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

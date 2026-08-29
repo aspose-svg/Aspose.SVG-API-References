@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.DOMImplementation
-second_title: Справочник по Aspose.SVG для .NET API
-description: IBrowsingContext свойство. Получает реализацию DOM.
+title: "IBrowsingContext.DOMImplementation"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IBrowsingContext DOMImplementation property. Получает реализацию DOM"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
 public IDOMImplementation DOMImplementation { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Реализация DOM.
 
-### Смотрите также
+### См. также
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* пространство имен [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

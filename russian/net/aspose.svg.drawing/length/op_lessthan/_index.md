@@ -1,14 +1,14 @@
 ---
-title: Length.op_LessThan
-second_title: Справочник по Aspose.SVG для .NET API
-description: Length метод. Реализует оператор .
+title: "Length.op_LessThan"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Length op_LessThan. Реализует оператор"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.drawing/length/op_lessthan/
 ---
 ## Length LessThan operator
 
-Реализует оператор &lt;.
+Реализует оператор <.
 
 ```csharp
 public static bool operator <(Length a, Length b)
@@ -16,8 +16,8 @@ public static bool operator <(Length a, Length b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Length | Параметр а. |
-| b | Length | Параметр б. |
+| a | Length | Параметр a. |
+| b | Length | Параметр b. |
 
 ### Возвращаемое значение
 
@@ -27,13 +27,11 @@ public static bool operator <(Length a, Length b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы бывают разных типов |
-| ArgumentNullException | Аргумент недействителен |
+| ArgumentException | Аргументы имеют разные типы |
+| ArgumentNullException | Аргумент равен null |
 
-### Смотрите также
+### См. также
 
 * class [Length](../)
-* пространство имен [Aspose.Svg.Drawing](../../length/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

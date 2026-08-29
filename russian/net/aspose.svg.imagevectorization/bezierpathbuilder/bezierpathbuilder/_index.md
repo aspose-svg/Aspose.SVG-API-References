@@ -1,23 +1,21 @@
 ---
-title: BezierPathBuilder.BezierPathBuilder
-second_title: Справочник по Aspose.SVG для .NET API
-description: BezierPathBuilder строитель. Инициализирует новый экземплярBezierPathBuilder класс.
+title: "BezierPathBuilder"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор BezierPathBuilder. Инициализирует новый экземпляр класса BezierPathBuilder."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/bezierpathbuilder/bezierpathbuilder/
 ---
 ## BezierPathBuilder constructor
 
-Инициализирует новый экземпляр[`BezierPathBuilder`](../) класс.
+Инициализирует новый экземпляр класса [`BezierPathBuilder`](../).
 
 ```csharp
 public BezierPathBuilder()
 ```
 
-### Смотрите также
+### См. также
 
 * class [BezierPathBuilder](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

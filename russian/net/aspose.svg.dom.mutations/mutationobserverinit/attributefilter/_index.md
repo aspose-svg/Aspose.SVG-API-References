@@ -1,23 +1,21 @@
 ---
-title: MutationObserverInit.AttributeFilter
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserverInit свойство. Установите список локальных имен атрибутов без пространства имен если не все мутации атрибутов необходимо наблюдать а атрибуты имеют значение true или опущены.
+title: "MutationObserverInit.AttributeFilter"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство AttributeFilter класса MutationObserverInit. Устанавливается в список локальных имен атрибутов без пространства имён, если не нужно наблюдать все изменения атрибутов и параметр attributes имеет значение true или опущен"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/attributefilter/
 ---
 ## MutationObserverInit.AttributeFilter property
 
-Установите список локальных имен атрибутов (без пространства имен), если не все мутации атрибутов необходимо наблюдать, а атрибуты имеют значение true или опущены.
+Устанавливается в список локальных имён атрибутов (без пространства имён), если не все мутации атрибутов нужно наблюдать, и параметр attributes установлен в true или опущен.
 
 ```csharp
 public IList<string> AttributeFilter { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [MutationObserverInit](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

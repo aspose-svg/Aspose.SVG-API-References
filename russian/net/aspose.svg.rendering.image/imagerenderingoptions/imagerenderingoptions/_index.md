@@ -1,30 +1,30 @@
 ---
-title: ImageRenderingOptions.ImageRenderingOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageRenderingOptions строитель. Инициализирует новый экземплярImageRenderingOptions сортPng будет использоваться как формат изображения по умолчанию.
+title: "ImageRenderingOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ImageRenderingOptions. Инициализирует новый экземпляр класса ImageRenderingOptions. По умолчанию в качестве формата изображения будет использоваться Png."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
 
-Инициализирует новый экземпляр[`ImageRenderingOptions`](../) сорт;Png будет использоваться как формат изображения по умолчанию.
+Инициализирует новый экземпляр класса [`ImageRenderingOptions`](../); по умолчанию в качестве формата изображения будет использоваться Png.
 
 ```csharp
 public ImageRenderingOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageRenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageRenderingOptions(ImageFormat) {#constructor_1}
+## ImageRenderingOptions(*[ImageFormat](../../imageformat/)*) {#constructor_1}
 
-Инициализирует новый экземпляр[`ImageRenderingOptions`](../) класс с указанным форматом изображения.
+Инициализирует новый экземпляр класса [`ImageRenderingOptions`](../) с указанным форматом изображения.
 
 ```csharp
 public ImageRenderingOptions(ImageFormat format)
@@ -32,13 +32,11 @@ public ImageRenderingOptions(ImageFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | ImageFormat | Формат выходного изображения. |
+| формат | ImageFormat | Формат выходного изображения. |
 
-### Смотрите также
+### См. также
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

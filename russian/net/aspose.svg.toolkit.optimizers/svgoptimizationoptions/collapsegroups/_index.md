@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.CollapseGroups
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGOptimizationOptions свойство. Получает или задает параметр для свертывания избыточных групп. По умолчанию это истина.
+title: "SVGOptimizationOptions.CollapseGroups"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGOptimizationOptions CollapseGroups. Получает или задает параметр, позволяющий сворачивать избыточные группы. По умолчанию true."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/collapsegroups/
 ---
 ## SVGOptimizationOptions.CollapseGroups property
 
-Получает или задает параметр для свертывания избыточных групп. По умолчанию это «истина».
+Получает или задает параметр сжатия лишних групп. По умолчанию 'true'.
 
 ```csharp
 public bool CollapseGroups { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

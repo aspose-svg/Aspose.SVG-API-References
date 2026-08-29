@@ -1,14 +1,14 @@
 ---
-title: MutationObserver.Observe
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserver метод. Указывает пользовательскому агенту наблюдать за заданной целью узлом и сообщать о любых мутациях на основе критериев заданных опциями объект. Аргумент options позволяет устанавливать параметры наблюдения за мутациями через элементы объекта.
+title: "MutationObserver.Observe"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод MutationObserver Observe. Инструктирует пользовательский агент наблюдать за заданным целевым узлом и сообщать о любых изменениях в соответствии с критериями, указанными в объекте options. Аргумент options позволяет задавать параметры наблюдения за изменениями через члены объекта."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.mutations/mutationobserver/observe/
 ---
-## Observe(Node) {#observe}
+## Observe(*[Node](../../../aspose.svg.dom/node/)*) {#observe}
 
-Указывает пользовательскому агенту наблюдать за заданной целью (узлом) и сообщать о любых мутациях на основе критериев, заданных опциями (объект). Аргумент options позволяет устанавливать параметры наблюдения за мутациями через элементы объекта.
+Инструктирует пользовательский агент наблюдать за заданной целью (узлом) и сообщать о любых мутациях в соответствии с критериями, заданными параметром options (объект). Аргумент options позволяет задавать параметры наблюдения за мутациями через члены объекта.
 
 ```csharp
 public void Observe(Node target)
@@ -16,20 +16,20 @@ public void Observe(Node target)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| target | Node | Цель для наблюдения. |
+| цель | Node | Целевой объект для observe. |
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserver](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Observe(Node, MutationObserverInit) {#observe_1}
+## Observe(*[Node](../../../aspose.svg.dom/node/), [MutationObserverInit](../../mutationobserverinit/)*) {#observe_1}
 
-Указывает пользовательскому агенту наблюдать за заданной целью (узлом) и сообщать о любых мутациях на основе критериев, заданных опциями (объект). Аргумент options позволяет устанавливать параметры наблюдения за мутациями через элементы объекта.
+Инструктирует пользовательский агент наблюдать за заданной целью (узлом) и сообщать о любых мутациях в соответствии с критериями, заданными параметром options (объект). Аргумент options позволяет задавать параметры наблюдения за мутациями через члены объекта.
 
 ```csharp
 public void Observe(Node target, MutationObserverInit options)
@@ -37,15 +37,13 @@ public void Observe(Node target, MutationObserverInit options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| target | Node | Цель для наблюдения. |
-| options | MutationObserverInit | Варианты наблюдателя. |
+| цель | Node | Целевой объект для observe. |
+| options | MutationObserverInit | Параметры наблюдателя. |
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationObserverInit](../../mutationobserverinit/)
 * class [MutationObserver](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class HttpMethod
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.HttpMethod сорт. Представляет служебный класс для получения и сравнения стандартных методов HTTP.
+title: "Класс HttpMethod"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.HttpMethod. Представляет вспомогательный класс для получения и сравнения стандартных HTTP‑методов"
 type: docs
-weight: 2290
+weight: 4360
 url: /ru/net/aspose.svg.net/httpmethod/
 ---
 ## HttpMethod class
 
-Представляет служебный класс для получения и сравнения стандартных методов HTTP.
+Представляет вспомогательный класс для получения и сравнения стандартных HTTP‑методов.
 
 ```csharp
 public class HttpMethod : IEquatable<HttpMethod>
@@ -18,32 +18,30 @@ public class HttpMethod : IEquatable<HttpMethod>
 
 | Имя | Описание |
 | --- | --- |
-| [HttpMethod](httpmethod/)(string) | Инициализирует новый экземпляр`HttpMethod` класс с определенным методом HTTP. |
+| [HttpMethod](httpmethod/)(*string*) | Инициализирует новый экземпляр класса `HttpMethod` с конкретным HTTP‑методом. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| static [Delete](../../aspose.svg.net/httpmethod/delete/) { get; } | Представляет метод протокола HTTP DELETE. |
-| static [Get](../../aspose.svg.net/httpmethod/get/) { get; } | Представляет метод протокола HTTP GET. |
-| static [Post](../../aspose.svg.net/httpmethod/post/) { get; } | Представляет метод протокола HTTP POST. |
+| static [Delete](../../aspose.svg.net/httpmethod/delete/) { get; } | Представляет протокольный метод HTTP DELETE. |
+| static [Get](../../aspose.svg.net/httpmethod/get/) { get; } | Представляет протокольный метод HTTP GET. |
+| static [Post](../../aspose.svg.net/httpmethod/post/) { get; } | Представляет протокольный метод HTTP POST. |
 | static [Put](../../aspose.svg.net/httpmethod/put/) { get; } | Представляет метод протокола HTTP PUT. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Equals](../../aspose.svg.net/httpmethod/equals/#equals)(HttpMethod) | Указывает, равен ли текущий объект другому объекту того же типа. |
-| override [Equals](../../aspose.svg.net/httpmethod/equals/#equals_1)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
-| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode/)() | Возвращает хэш-код для этого экземпляра. |
-| override [ToString](../../aspose.svg.net/httpmethod/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Equals](../../aspose.svg.net/httpmethod/equals/#equals)(*HttpMethod*) | Указывает, равен ли текущий объект другому объекту того же типа. |
+| override [Equals](../../aspose.svg.net/httpmethod/equals/#equals_1)(*object*) | Определяет, равен ли указанный объект текущему экземпляру. |
+| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode/)() | Возвращает хеш‑код для этого экземпляра. |
+| override [ToString](../../aspose.svg.net/httpmethod/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 | [operator ==](../../aspose.svg.net/httpmethod/op_equality/) | Реализует оператор равенства. |
-| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit/) | Выполняет явное преобразование изString к`HttpMethod` . |
+| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit/) | Выполняет явное преобразование из String в `HttpMethod`. |
 | [operator !=](../../aspose.svg.net/httpmethod/op_inequality/) | Реализует оператор равенства. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net](../../aspose.svg.net/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

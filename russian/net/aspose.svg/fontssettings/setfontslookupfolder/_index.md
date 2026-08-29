@@ -1,12 +1,12 @@
 ---
-title: FontsSettings.SetFontsLookupFolder
-second_title: Справочник по Aspose.SVG для .NET API
-description: FontsSettings метод. Устанавливает папку используемую при выборе шрифтов.
+title: "FontsSettings.SetFontsLookupFolder"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод FontsSettings SetFontsLookupFolder. Устанавливает папку, используемую при выборе шрифтов."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/fontssettings/setfontslookupfolder/
 ---
-## SetFontsLookupFolder(string) {#setfontslookupfolder}
+## SetFontsLookupFolder(*string*) {#setfontslookupfolder}
 
 Устанавливает папку, используемую при выборе шрифтов.
 
@@ -16,17 +16,17 @@ public void SetFontsLookupFolder(string fontsFolder)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontsFolder | String | Папка со шрифтами. |
+| fontsFolder | String | Папка шрифтов. |
 
-### Смотрите также
+### См. также
 
 * class [FontsSettings](../)
-* пространство имен [Aspose.Svg](../../fontssettings/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolder(string, bool) {#setfontslookupfolder_1}
+## SetFontsLookupFolder(*string, bool*) {#setfontslookupfolder_1}
 
 Устанавливает папку, используемую при выборе шрифтов.
 
@@ -36,13 +36,11 @@ public void SetFontsLookupFolder(string fontsFolder, bool recursive)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontsFolder | String | Папка со шрифтами. |
-| recursive | Boolean | Если установлено`истинный` будут использоваться все вложенные каталоги. Значение по умолчанию`ЛОЖЬ`. |
+| fontsFolder | String | Папка шрифтов. |
+| recursive | Boolean | Если установлено в `true`, будут использованы все вложенные каталоги. Значение по умолчанию — `false`. |
 
-### Смотрите также
+### См. также
 
 * class [FontsSettings](../)
-* пространство имен [Aspose.Svg](../../fontssettings/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

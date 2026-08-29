@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_DOCUMENT_FRAGMENT
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeFilter поле. Показать узлы DocumentFragment.
+title: "NodeFilter.SHOW_DOCUMENT_FRAGMENT"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле NodeFilter SHOW_DOCUMENT_FRAGMENT. Показывать узлы DocumentFragment"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment/
 public const long SHOW_DOCUMENT_FRAGMENT;
 ```
 
-### Смотрите также
+### См. также
 
 * class [NodeFilter](../)
-* пространство имен [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

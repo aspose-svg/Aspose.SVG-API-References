@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.AltKey
-second_title: Справочник по Aspose.SVG для .NET API
-description: MouseEvent свойство. Обратитесь к атрибуту altKey.
+title: "MouseEvent.AltKey"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MouseEvent AltKey. Смотрите атрибут altKey."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.events/mouseevent/altkey/
 ---
 ## MouseEvent.AltKey property
 
-Обратитесь к атрибуту altKey.
+См. атрибут altKey.
 
 ```csharp
 public bool AltKey { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [клавиша Alt]; в противном случае,`ЛОЖЬ` .
+`true`, если [alt key]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [MouseEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../mouseevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.GetData
-second_title: Справочник по Aspose.SVG для .NET API
-description: ITrueTypeFont метод. Открыть поток с данными шрифта. Вызывающий отвечает за удаление потока.
+title: "ITrueTypeFont.GetData"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ITrueTypeFont GetData. Открывает поток с данными шрифта. Вызывающий код отвечает за освобождение потока."
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.svg.drawing/itruetypefont/getdata/
 ---
 ## ITrueTypeFont.GetData method
 
-Открыть поток с данными шрифта. Вызывающий отвечает за удаление потока.
+Открывает поток с данными шрифта. Вызывающий код отвечает за освобождение потока.
 
 ```csharp
 public Stream GetData()
@@ -16,12 +16,10 @@ public Stream GetData()
 
 ### Возвращаемое значение
 
-Поток с данными шрифта
+Поток с данными шрифта.
 
-### Смотрите также
+### См. также
 
 * interface [ITrueTypeFont](../)
-* пространство имен [Aspose.Svg.Drawing](../../itruetypefont/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

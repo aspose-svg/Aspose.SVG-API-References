@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ClientY
-second_title: Справочник по Aspose.SVG для .NET API
-description: MouseEvent свойство. Вертикальная координата в которой произошло событие относительно окна просмотра связанного с событием.
+title: "MouseEvent.ClientY"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MouseEvent ClientY. Вертикальная координата, в которой произошло событие, относительно области просмотра, связанной с событием."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.events/mouseevent/clienty/
 ---
 ## MouseEvent.ClientY property
 
-Вертикальная координата, в которой произошло событие, относительно окна просмотра, связанного с событием.
+Вертикальная координата, в которой произошло событие относительно области просмотра, связанной с событием.
 
 ```csharp
 public long ClientY { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Клиент y.
+Координата y в клиенте.
 
-### Смотрите также
+### См. также
 
 * class [MouseEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../mouseevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

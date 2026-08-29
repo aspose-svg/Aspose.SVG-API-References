@@ -1,12 +1,12 @@
 ---
-title: DOMTokenList.Toggle
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMTokenList метод. Удаляет токен из списка если он существует или добавляет токен в список если его нет.
+title: "DOMTokenList.Toggle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод DOMTokenList Toggle. Удаляет токен из списка, если он существует, или добавляет токен в список, если его нет."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.collections/domtokenlist/toggle/
 ---
-## Toggle(string) {#toggle}
+## Toggle(*string*) {#toggle}
 
 Удаляет токен из списка, если он существует, или добавляет токен в список, если его нет.
 
@@ -16,41 +16,39 @@ public bool Toggle(string token)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| token | String | Токен, который вы хотите переключить. |
+| токен | String | Токен, который вы хотите переключить. |
 
 ### Возвращаемое значение
 
-Логическое значение, указывающее, находится ли токен в списке после вызова.
+Булево значение, указывающее, находится ли токен в списке после вызова.
 
-### Смотрите также
+### См. также
 
 * class [DOMTokenList](../)
-* пространство имен [Aspose.Svg.Collections](../../domtokenlist/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Toggle(string, bool?) {#toggle_1}
+## Toggle(*string, bool*) {#toggle_1}
 
 Удаляет токен из списка, если он существует, или добавляет токен в список, если его нет.
 
 ```csharp
-public bool Toggle(string token, bool? force)
+public bool Toggle(string token, bool force)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| token | String | Токен, который вы хотите переключить. |
-| force | Nullable`1 | Логическое значение, которое, если оно включено, превращает переключатель в одностороннюю операцию. Если установлено значение false, то токен будет только удален, но не добавлен. Если установлено значение true, то токен будет только добавлен, но не удален. |
+| токен | String | Токен, который вы хотите переключить. |
+| force | Boolean | Булево значение, которое, если указано, превращает переключение в одностороннюю операцию. Если установлено в false, токен будет только удалён, но не добавлен. Если установлено в true, токен будет только добавлен, но не удалён. |
 
 ### Возвращаемое значение
 
-Логическое значение, указывающее, находится ли токен в списке после вызова.
+Булево значение, указывающее, находится ли токен в списке после вызова.
 
-### Смотрите также
+### См. также
 
 * class [DOMTokenList](../)
-* пространство имен [Aspose.Svg.Collections](../../domtokenlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

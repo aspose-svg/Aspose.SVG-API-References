@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.ListStylePosition
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства liststyleposition в CSS2.
+title: "ICSS2Properties.ListStylePosition"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSS2Properties ListStylePosition свойство. См. определение свойства list-style-position в CSS2"
 type: docs
-weight: 610
+weight: 640
 url: /ru/net/aspose.svg.dom.css/icss2properties/liststyleposition/
 ---
 ## ICSS2Properties.ListStylePosition property
@@ -16,12 +16,10 @@ public string ListStylePosition { get; set; }
 
 ### Возвращаемое значение
 
-свойство позиции стиля списка
+свойство list-style-position
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

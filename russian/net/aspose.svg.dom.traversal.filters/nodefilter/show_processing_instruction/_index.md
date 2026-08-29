@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_PROCESSING_INSTRUCTION
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeFilter поле. Показать узлы ProcessingInstruction.
+title: "NodeFilter.SHOW_PROCESSING_INSTRUCTION"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле NodeFilter SHOW_PROCESSING_INSTRUCTION. Показывать узлы ProcessingInstruction"
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_processing_instruction/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_processing_instruc
 public const long SHOW_PROCESSING_INSTRUCTION;
 ```
 
-### Смотрите также
+### См. также
 
 * class [NodeFilter](../)
-* пространство имен [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

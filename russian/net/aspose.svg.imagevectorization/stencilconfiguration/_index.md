@@ -1,14 +1,14 @@
 ---
-title: Class StencilConfiguration
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.ImageVectorization.StencilConfiguration сорт. StencilConfiguration класс определяет конфигурацию параметров эффекта трафарета.
+title: "Класс StencilConfiguration"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.ImageVectorization.StencilConfiguration. Класс StencilConfiguration определяет конфигурацию параметров эффекта трафарета."
 type: docs
-weight: 2170
+weight: 4240
 url: /ru/net/aspose.svg.imagevectorization/stencilconfiguration/
 ---
 ## StencilConfiguration class
 
-`StencilConfiguration` класс определяет конфигурацию параметров эффекта трафарета.
+Класс `StencilConfiguration` определяет конфигурацию параметров эффекта трафарета.
 
 ```csharp
 public class StencilConfiguration
@@ -18,18 +18,16 @@ public class StencilConfiguration
 
 | Имя | Описание |
 | --- | --- |
-| [StencilConfiguration](stencilconfiguration/)() | Инициализирует новый экземпляр`StencilConfiguration` класс. |
+| [StencilConfiguration](stencilconfiguration/)() | Инициализирует новый экземпляр класса `StencilConfiguration`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | Получает или задает цвет для отрисовки линий трафарета для типа MonoColor. |
-| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | Получает или задает[`StencilType`](../stenciltype/) . |
+| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | Получает или задает [`StencilType`](../stenciltype/). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

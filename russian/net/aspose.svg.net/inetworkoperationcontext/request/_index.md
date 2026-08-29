@@ -1,7 +1,7 @@
 ---
-title: INetworkOperationContext.Request
-second_title: Справочник по Aspose.SVG для .NET API
-description: INetworkOperationContext свойство. Получает или задает сообщение запроса.
+title: "INetworkOperationContext.Request"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Request интерфейса INetworkOperationContext. Получает или задает сообщение запроса."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/inetworkoperationcontext/request/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.net/inetworkoperationcontext/request/
 public RequestMessage Request { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Сообщение запроса.
 
-### Смотрите также
+### См. также
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* пространство имен [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

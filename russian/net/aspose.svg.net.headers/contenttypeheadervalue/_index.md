@@ -1,9 +1,9 @@
 ---
-title: Class ContentTypeHeaderValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.Headers.ContentTypeHeaderValue сорт. Представляет значение заголовка ContentType.
+title: "Класс ContentTypeHeaderValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.Headers.ContentTypeHeaderValue. Представляет значение заголовка Content-Type"
 type: docs
-weight: 2270
+weight: 4340
 url: /ru/net/aspose.svg.net.headers/contenttypeheadervalue/
 ---
 ## ContentTypeHeaderValue class
@@ -14,12 +14,12 @@ url: /ru/net/aspose.svg.net.headers/contenttypeheadervalue/
 public class ContentTypeHeaderValue : NameValueHeaderValue
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [CharSet](../../aspose.svg.net.headers/contenttypeheadervalue/charset/) { get; set; } | Получает или задает набор символов для содержимого. |
-| [MediaType](../../aspose.svg.net.headers/contenttypeheadervalue/mediatype/) { get; set; } | Получает или задает тип носителя для контента. |
+| [MediaType](../../aspose.svg.net.headers/contenttypeheadervalue/mediatype/) { get; set; } | Получает или задает тип медиа для содержимого. |
 | [Name](../../aspose.svg.net.headers/namevalueheadervalue/name/) { get; } | Получает имя параметра. |
 | [Value](../../aspose.svg.net.headers/namevalueheadervalue/value/) { get; set; } | Получает или задает значение параметра. |
 
@@ -27,12 +27,10 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [NameValueHeaderValue](../namevalueheadervalue/)
-* пространство имен [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathElement метод. Возвращает автономный объект SVGPathSegCurvetoQuadraticSmoothAbs без родителей.
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGPathElement CreateSVGPathSegCurvetoQuadraticSmoothAbs. Возвращает самостоятельный, безродительский объект SVGPathSegCurvetoQuadraticSmoothAbs."
 type: docs
 weight: 120
 url: /ru/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs method
 
-Возвращает автономный объект SVGPathSegCurvetoQuadraticSmoothAbs без родителей.
+Возвращает отдельный, безродительский объект SVGPathSegCurvetoQuadraticSmoothAbs.
 
 ```csharp
 public SVGPathSegCurvetoQuadraticSmoothAbs CreateSVGPathSegCurvetoQuadraticSmoothAbs(float x, 
@@ -17,18 +17,16 @@ public SVGPathSegCurvetoQuadraticSmoothAbs CreateSVGPathSegCurvetoQuadraticSmoot
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Абсолютная координата X для конечной точки этого сегмента пути. |
-| y | Single | Абсолютная координата Y для конечной точки этого сегмента пути. |
+| x | Single | Абсолютная координата X конечной точки этого сегмента пути. |
+| y | Single | Абсолютная координата Y конечной точки этого сегмента пути. |
 
 ### Возвращаемое значение
 
-Автономный объект SVGPathSegCurvetoQuadraticSmoothAbs без родителей.
+Самостоятельный, безродительский объект SVGPathSegCurvetoQuadraticSmoothAbs.
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoQuadraticSmoothAbs](../../../aspose.svg.paths/svgpathsegcurvetoquadraticsmoothabs/)
 * class [SVGPathElement](../)
-* пространство имен [Aspose.Svg](../../svgpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

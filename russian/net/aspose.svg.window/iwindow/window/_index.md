@@ -1,9 +1,9 @@
 ---
-title: IWindow.Window
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindow свойство. Возвращает объект WindowProxy контекста просмотра объекта Window.
+title: "IWindow.Window"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IWindow Window. Возвращает объект WindowProxy контекста просмотра объекта Window."
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.svg.window/iwindow/window/
 ---
 ## IWindow.Window property
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.window/iwindow/window/
 public IWindow Window { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IWindow](../)
-* пространство имен [Aspose.Svg.Window](../../iwindow/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

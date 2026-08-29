@@ -1,27 +1,25 @@
 ---
-title: DOMTreatNullAsAttribute.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMTreatNullAsAttribute свойство. Получает или задает значение типа.
+title: "DOMTreatNullAsAttribute.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Type класса DOMTreatNullAsAttribute. Получает или задает значение типа"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.attributes/domtreatnullasattribute/type/
 ---
 ## DOMTreatNullAsAttribute.Type property
 
-Получает или задает значение типа.
+Получает или задает тип значения.
 
 ```csharp
 public Type Type { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип.
 
-### Смотрите также
+### См. также
 
 * class [DOMTreatNullAsAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

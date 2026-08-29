@@ -1,14 +1,14 @@
 ---
-title: Color.GetHue
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает оттенок цвета.
+title: "Color.GetHue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color GetHue. Возвращает оттенок Color."
 type: docs
 weight: 330
 url: /ru/net/aspose.svg.drawing/color/gethue/
 ---
 ## Color.GetHue method
 
-Возвращает оттенок цвета.
+Возвращает Hue цвета Color.
 
 ```csharp
 public float GetHue()
@@ -16,12 +16,10 @@ public float GetHue()
 
 ### Возвращаемое значение
 
-Оттенок цвета.
+Оттенок Color.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEImageElement.Href
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEImageElement свойство. Соответствует атрибуту xlinkhref данного элемента.
+title: "SVGFEImageElement.Href"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Href элемента SVGFEImageElement. Соответствует атрибуту xlinkhref в данном элементе."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfeimageelement/href/
 ---
 ## SVGFEImageElement.Href property
 
-Соответствует атрибуту 'xlink:href' данного элемента.
+Соответствует атрибуту ‘xlink:href’ у указанного элемента.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-'xlink:href' данного элемента.
+‘xlink:href’ заданного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEImageElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeimageelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

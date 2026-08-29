@@ -1,23 +1,21 @@
 ---
-title: UnitType.Ex
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение относительно высоты строчной буквы x в шрифте родительского элемента.
+title: "UnitType.Ex"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Ex. Измерение относительно высоты строчной буквы x шрифта родительского элемента."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.drawing/unittype/ex/
 ---
 ## UnitType.Ex field
 
-Измерение относительно высоты строчной буквы x в шрифте родительского элемента.
+Измерение относительно высоты строчной буквы x шрифта родительского элемента.
 
 ```csharp
 public static readonly UnitType Ex;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

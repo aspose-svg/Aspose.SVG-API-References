@@ -1,17 +1,15 @@
 ---
-title: Aspose.Svg.Net.MessageFilters
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.MessageFilters пространство имен предоставляет классы  которые реализуют абстракцию фильтра сообщений.
+title: "Aspose.Svg.Net.MessageFilters"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имён Aspose.Svg.Net.MessageFilters предоставляет классы, реализующие абстракцию фильтра сообщений."
 type: docs
-weight: 210
+weight: 230
 url: /ru/net/aspose.svg.net.messagefilters/
 ---
-**Aspose.Svg.Net.MessageFilters** пространство имен предоставляет классы , которые реализуют абстракцию фильтра сообщений.
+Пространство имён **Aspose.Svg.Net.MessageFilters** предоставляет классы, реализующие абстракцию фильтра сообщений.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [ProtocolMessageFilter](./protocolmessagefilter/) | Представляет реализацию фильтра сообщений ресурсным протоколом. |
-
-
+| [ProtocolMessageFilter](./protocolmessagefilter/) | Представляет реализацию фильтра сообщений протоколом ресурса. |

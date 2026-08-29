@@ -1,14 +1,14 @@
 ---
-title: Interface IImageTraceSmoother
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.ImageVectorization.IImageTraceSmoother интерфейс. За сглаживание трассировки отвечает интерфейс IImageTraceSmoother.
+title: "Интерфейс IImageTraceSmoother"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.ImageVectorization.IImageTraceSmoother. Интерфейс IImageTraceSmoother отвечает за сглаживание трассы"
 type: docs
-weight: 2100
+weight: 4170
 url: /ru/net/aspose.svg.imagevectorization/iimagetracesmoother/
 ---
 ## IImageTraceSmoother interface
 
-За сглаживание трассировки отвечает интерфейс IImageTraceSmoother.
+Интерфейс IImageTraceSmoother отвечает за сглаживание трассировки.
 
 ```csharp
 public interface IImageTraceSmoother
@@ -18,11 +18,9 @@ public interface IImageTraceSmoother
 
 | Имя | Описание |
 | --- | --- |
-| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth/)(IEnumerable&lt;PointF&gt;) | Сглаживает трассировку. |
+| [Smooth](../../aspose.svg.imagevectorization/iimagetracesmoother/smooth/)(*IEnumerable&lt;PointF&gt;*) | Сглаживает трассу. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Url.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url метод. Определяет является ли указанныйObject  равно этому экземпляру.
+title: "Url.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Url Equals. Определяет, равен ли указанный Object этому экземпляру"
 type: docs
 weight: 140
 url: /ru/net/aspose.svg/url/equals/
 ---
 ## Url.Equals method
 
-Определяет, является ли указанныйObject , равно этому экземпляру.
+Определяет, равен ли указанный объект текущему экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Объект | Объект для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

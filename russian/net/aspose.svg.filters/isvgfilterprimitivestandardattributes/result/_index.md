@@ -1,28 +1,26 @@
 ---
-title: ISVGFilterPrimitiveStandardAttributes.Result
-second_title: Справочник по Aspose.SVG для .NET API
-description: ISVGFilterPrimitiveStandardAttributes свойство. Соответствует атрибуту результат данного элемента фильтр.
+title: "ISVGFilterPrimitiveStandardAttributes.Result"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Result интерфейса ISSVGFilterPrimitiveStandardAttributes. Соответствует атрибуту result в данном элементе filter."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/result/
 ---
 ## ISVGFilterPrimitiveStandardAttributes.Result property
 
-Соответствует атрибуту «результат» данного элемента «фильтр».
+Соответствует атрибуту ‘result’ указанного элемента ‘filter’.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «результат» данного элемента «фильтр».
+Атрибут ‘result’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * interface [ISVGFilterPrimitiveStandardAttributes](../)
-* пространство имен [Aspose.Svg.Filters](../../isvgfilterprimitivestandardattributes/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

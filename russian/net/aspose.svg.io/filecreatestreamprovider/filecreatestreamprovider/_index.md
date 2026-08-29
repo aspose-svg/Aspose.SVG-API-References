@@ -1,30 +1,30 @@
 ---
-title: FileCreateStreamProvider.FileCreateStreamProvider
-second_title: Справочник по Aspose.SVG для .NET API
-description: FileCreateStreamProvider строитель. Инициализирует новый экземплярFileCreateStreamProvider класс.
+title: "FileCreateStreamProvider"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "FileCreateStreamProvider конструктор. Инициализирует новый экземпляр класса FileCreateStreamProvider"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}
 
-Инициализирует новый экземпляр[`FileCreateStreamProvider`](../) класс.
+Инициализирует новый экземпляр класса [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider()
 ```
 
-### Смотрите также
+### См. также
 
 * class [FileCreateStreamProvider](../)
-* пространство имен [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FileCreateStreamProvider(string) {#constructor_1}
+## FileCreateStreamProvider(*string*) {#constructor_1}
 
-Инициализирует новый экземпляр[`FileCreateStreamProvider`](../) класс.
+Инициализирует новый экземпляр класса [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider(string name)
@@ -34,17 +34,17 @@ public FileCreateStreamProvider(string name)
 | --- | --- | --- |
 | name | String | Имя файла. |
 
-### Смотрите также
+### См. также
 
 * class [FileCreateStreamProvider](../)
-* пространство имен [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FileCreateStreamProvider(string, string) {#constructor_2}
+## FileCreateStreamProvider(*string, string*) {#constructor_2}
 
-Инициализирует новый экземпляр[`FileCreateStreamProvider`](../) класс.
+Инициализирует новый экземпляр класса [`FileCreateStreamProvider`](../).
 
 ```csharp
 public FileCreateStreamProvider(string directory, string name)
@@ -52,13 +52,11 @@ public FileCreateStreamProvider(string directory, string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| directory | String | Каталог. |
+| директория | String | Директория. |
 | name | String | Имя файла. |
 
-### Смотрите также
+### См. также
 
 * class [FileCreateStreamProvider](../)
-* пространство имен [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

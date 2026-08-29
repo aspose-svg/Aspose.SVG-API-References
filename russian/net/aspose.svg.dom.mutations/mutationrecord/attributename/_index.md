@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.AttributeName
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationRecord свойство. Возвращает локальное имя измененного атрибута и null в противном случае.
+title: "MutationRecord.AttributeName"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MutationRecord AttributeName. Возвращает локальное имя изменённого атрибута, иначе null."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/attributename/
 ---
 ## MutationRecord.AttributeName property
 
-Возвращает локальное имя измененного атрибута и null в противном случае.
+Возвращает локальное имя изменённого атрибута, иначе null.
 
 ```csharp
 public string AttributeName { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя атрибута.
 
-### Смотрите также
+### См. также
 
 * class [MutationRecord](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

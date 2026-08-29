@@ -1,7 +1,7 @@
 ---
-title: SVGSaveOptions.SVGSaveOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSaveOptions строитель. Конструктор по умолчанию.
+title: "SVGSaveOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор SVGSaveOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.saving/svgsaveoptions/svgsaveoptions/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.saving/svgsaveoptions/svgsaveoptions/
 public SVGSaveOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGSaveOptions](../)
-* пространство имен [Aspose.Svg.Saving](../../svgsaveoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

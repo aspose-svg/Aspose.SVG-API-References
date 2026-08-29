@@ -1,28 +1,26 @@
 ---
-title: IWindow.Location
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindow свойство. Атрибут местоположения интерфейса Window должен возвращать объект Location для документа этого объекта Window.
+title: "IWindow.Location"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IWindow Location. Атрибут location интерфейса Window должен возвращать объект Location для документа данного окна."
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.svg.window/iwindow/location/
 ---
 ## IWindow.Location property
 
-Атрибут местоположения интерфейса Window должен возвращать объект Location для документа этого объекта Window.
+Атрибут location интерфейса Window должен возвращать объект Location для документа объекта Window.
 
 ```csharp
 public Location Location { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Местоположение.
+Расположение.
 
-### Смотрите также
+### См. также
 
 * class [Location](../../location/)
 * interface [IWindow](../)
-* пространство имен [Aspose.Svg.Window](../../iwindow/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

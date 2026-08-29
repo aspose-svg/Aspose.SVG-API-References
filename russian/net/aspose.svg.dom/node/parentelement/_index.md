@@ -1,24 +1,32 @@
 ---
-title: Node.ParentElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node свойство. Получает родителяElement этого узла.
+title: "Node.ParentElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Node ParentElement. Возвращает родительский Element узла DOM или null, если у узла нет родителя или его родитель не является элементом DOM."
 type: docs
-weight: 130
+weight: 120
 url: /ru/net/aspose.svg.dom/node/parentelement/
 ---
 ## Node.ParentElement property
 
-Получает родителя[`Element`](../../element/) этого узла.
+Возвращает родительский [`Element`](../../element/) узла DOM, или null, если у узла нет родителя, либо его родитель не является элементом DOM.
 
 ```csharp
 public Element ParentElement { get; }
 ```
 
-### Смотрите также
+### Property Value
+
+Элемент [`Element`](../../element/), который является родительским элементом текущего узла, или null, если его нет.
+
+## Замечания
+
+Ссылка:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-parentnode).
+
+### См. также
 
 * class [Element](../../element/)
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

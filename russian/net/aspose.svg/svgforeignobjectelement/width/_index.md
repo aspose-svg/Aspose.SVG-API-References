@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGForeignObjectElement свойство. Соответствует атрибуту width данного элемента foreignObject.
+title: "SVGForeignObjectElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGForeignObjectElement Width. Соответствует атрибуту width данного элемента foreignObject"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgforeignobjectelement/width/
 ---
 ## SVGForeignObjectElement.Width property
 
-Соответствует атрибуту «width» данного элемента «foreignObject».
+Соответствует атрибуту ‘width’ в данном элементе ‘foreignObject’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «ширина» данного элемента «foreignObject».
+Атрибут ‘width’ данного элемента ‘foreignObject’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* пространство имен [Aspose.Svg](../../svgforeignobjectelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

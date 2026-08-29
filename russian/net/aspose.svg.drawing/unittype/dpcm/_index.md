@@ -1,7 +1,7 @@
 ---
-title: UnitType.Dpcm
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в точках на сантиметр.
+title: "UnitType.Dpcm"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Dpcm. Измерение в точках на сантиметр"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/unittype/dpcm/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/dpcm/
 public static readonly UnitType Dpcm;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

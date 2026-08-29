@@ -1,30 +1,28 @@
 ---
-title: Interface ICSSKeyframeRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.ICSSKeyframeRule интерфейс. Интерфейс CSSKeyframeRule представляет правило стиля для одного ключа.
+title: "Интерфейс ICSSKeyframeRule"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.ICSSKeyframeRule интерфейс. Интерфейс CSSKeyframeRule представляет правило стиля для одного ключа."
 type: docs
-weight: 570
+weight: 2570
 url: /ru/net/aspose.svg.dom.css/icsskeyframerule/
 ---
 ## ICSSKeyframeRule interface
 
-Интерфейс CSSKeyframeRule представляет правило стиля для одного ключа.
+Интерфейс CSSKeyframeRule представляет правило стиля для отдельного ключевого кадра.
 
 ```csharp
 public interface ICSSKeyframeRule : ICSSRule
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [KeyText](../../aspose.svg.dom.css/icsskeyframerule/keytext/) { get; } | Этот атрибут представляет селектор ключевых кадров в виде списка процентных значений, разделенных запятыми. Ключевые слова «от» и «до» соответствуют «0%» и «100%» соответственно. |
+| [KeyText](../../aspose.svg.dom.css/icsskeyframerule/keytext/) { get; } | Этот атрибут представляет селектор ключевого кадра как список процентных значений, разделённых запятыми. Ключевые слова ‘from’ и ‘to’ соответствуют ‘0%’ и ‘100%’ соответственно. |
 | [Style](../../aspose.svg.dom.css/icsskeyframerule/style/) { get; } | Этот атрибут представляет стиль, связанный с этим ключевым кадром. |
 
-### Смотрите также
+### См. также
 
 * interface [ICSSRule](../icssrule/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,28 +1,28 @@
 ---
-title: Element.Element
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element строитель. Инициализирует новый экземплярElementсорт. Не вызывайте этот конструктор напрямую используйтеCreateElement илиCreateElementNS .
+title: "Element"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор Element. Инициализирует новый экземпляр класса Element. Не вызывайте этот конструктор напрямую, используйте CreateElement или CreateElementNS"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/element/element/
 ---
 ## Element constructor
 
-Инициализирует новый экземпляр[`Element`](../)сорт. Не вызывайте этот конструктор напрямую, используйте[`CreateElement`](../../document/createelement/) или[`CreateElementNS`](../../document/createelementns/) .
+Инициализирует новый экземпляр класса [`Element`](../). Не вызывайте этот конструктор напрямую, используйте [`CreateElement`](../../document/createelement/) или [`CreateElementNS`](../../document/createelementns/).
 
 ```csharp
-public Element(IElementInit elementInit)
+public Element(QualifiedName qualifiedName, Document document)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| elementInit | IElementInit | Информация об инициализации элемента. |
+| qualifiedName | QualifiedName | Квалифицированное имя. |
+| документ | Документ | Связанный документ. |
 
-### Смотрите также
+### См. также
 
-* interface [IElementInit](../../ielementinit/)
+* class [QualifiedName](../../qualifiedname/)
+* class [Document](../../document/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

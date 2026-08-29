@@ -1,14 +1,14 @@
 ---
-title: IDocumentTraversal.CreateNodeIterator
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDocumentTraversal метод. Создать новый NodeIterator поверх поддерева с корнем в указанном узле .
+title: "IDocumentTraversal.CreateNodeIterator"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDocumentTraversal CreateNodeIterator. Создает новый NodeIterator над поддеревом, корнем которого является указанный узел"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.traversal/idocumenttraversal/createnodeiterator/
 ---
-## CreateNodeIterator(Node) {#createnodeiterator}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/)*) {#createnodeiterator}
 
-Создать новый NodeIterator поверх поддерева с корнем в указанном узле .
+Создаёт новый NodeIterator для поддерева, корнем которого является указанный узел.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root)
@@ -16,31 +16,31 @@ public INodeIterator CreateNodeIterator(Node root)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет повторяться вместе со своими дочерними элементами. Итератор изначально располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть нулевым. |
+| корень | Node | узел, который будет итеративно обрабатываться вместе со своими дочерними элементами. Итератор изначально позиционируется непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они заданы, не учитываются при установке этой позиции. Корень не должен быть null. |
 
 ### Возвращаемое значение
 
-Недавно созданный NodeIterator.
+Новый созданный NodeIterator.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень равен null. |
 
-### Смотрите также
+### См. также
 
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateNodeIterator(Node, long) {#createnodeiterator_1}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/), long*) {#createnodeiterator_1}
 
-Создать новый NodeIterator поверх поддерева с корнем в указанном узле .
+Создаёт новый NodeIterator для поддерева, корнем которого является указанный узел.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow)
@@ -48,32 +48,32 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет повторяться вместе со своими дочерними элементами. Итератор изначально располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть нулевым. |
-| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представляемого итератором. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью ИЛИ. |
+| корень | Node | узел, который будет итеративно обрабатываться вместе со своими дочерними элементами. Итератор изначально позиционируется непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они заданы, не учитываются при установке этой позиции. Корень не должен быть null. |
+| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, предоставляемого итератором. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью OR. |
 
 ### Возвращаемое значение
 
-Недавно созданный NodeIterator.
+Новый созданный NodeIterator.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень равен null. |
 
-### Смотрите также
+### См. также
 
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IDocumentTraversal](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CreateNodeIterator(Node, long, INodeFilter) {#createnodeiterator_2}
+## CreateNodeIterator(*[Node](../../../aspose.svg.dom/node/), long, [INodeFilter](../../inodefilter/)*) {#createnodeiterator_2}
 
-Создать новый NodeIterator поверх поддерева с корнем в указанном узле .
+Создаёт новый NodeIterator для поддерева, корнем которого является указанный узел.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter filter)
@@ -81,27 +81,25 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет повторяться вместе со своими дочерними элементами. Итератор изначально располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть нулевым. |
-| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представляемого итератором. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью ИЛИ. |
-| filter | INodeFilter | NodeFilter для использования с this TreeWalker или null, чтобы указать отсутствие фильтра. |
+| корень | Node | узел, который будет итеративно обрабатываться вместе со своими дочерними элементами. Итератор изначально позиционируется непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они заданы, не учитываются при установке этой позиции. Корень не должен быть null. |
+| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, предоставляемого итератором. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью OR. |
+| filter | INodeFilter | NodeFilter, используемый с этим TreeWalker, или null, указывающий отсутствие фильтра. |
 
 ### Возвращаемое значение
 
-Недавно созданный NodeIterator.
+Новый созданный NodeIterator.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень равен null. |
 
-### Смотрите также
+### См. также
 
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

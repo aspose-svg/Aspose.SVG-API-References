@@ -1,28 +1,26 @@
 ---
-title: Page.Margin
-second_title: Справочник по Aspose.SVG для .NET API
-description: Page свойство. Получает или задает поля страницы.
+title: "Page.Margin"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Page Margin. Получает или задает отступ страницы"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/page/margin/
 ---
 ## Page.Margin property
 
-Получает или задает поля страницы.
+Получает или задает отступ страницы.
 
 ```csharp
 public Margin Margin { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Маржа.
+Отступ.
 
-### Смотрите также
+### См. также
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* пространство имен [Aspose.Svg.Drawing](../../page/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: MutationObserverInit.Item
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserverInit свойство. Получает или задает элемент с указанным ключом.
+title: "MutationObserverInit.Item"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Item класса MutationObserverInit. Получает или задает элемент с указанным ключом."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/item/
@@ -16,16 +16,14 @@ public object this[string key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Ключ элемента, который нужно получить или установить. |
+| ключ | Ключ элемента для получения или установки. |
 
 ### Возвращаемое значение
 
 Значение, связанное с указанным ключом.
 
-### Смотрите также
+### См. также
 
 * class [MutationObserverInit](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

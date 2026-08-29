@@ -1,23 +1,21 @@
 ---
-title: IColorComponents.Alpha
-second_title: Справочник по Aspose.SVG для .NET API
-description: IColorComponents свойство. Возвращает альфакомпонент.
+title: "IColorComponents.Alpha"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IColorComponents Alpha свойство. Возвращает альфа‑компонент"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/icolorcomponents/alpha/
 ---
 ## IColorComponents.Alpha property
 
-Возвращает альфа-компонент.
+Возвращает альфа‑компонент.
 
 ```csharp
 public float Alpha { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IColorComponents](../)
-* пространство имен [Aspose.Svg.Drawing](../../icolorcomponents/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

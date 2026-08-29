@@ -1,23 +1,21 @@
 ---
-title: Device2.EndPage
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Завершает визуализацию текущей страницы.
+title: "Device-2.EndPage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device EndPage method. Завершает рендеринг текущей страницы."
 type: docs
-weight: 140
+weight: 170
 url: /ru/net/aspose.svg.rendering/device-2/endpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndPage method
+## Device<TGraphicContext,TRenderingOptions>.EndPage method
 
-Завершает визуализацию текущей страницы.
+Завершает отрисовку текущей страницы.
 
 ```csharp
 public virtual void EndPage()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

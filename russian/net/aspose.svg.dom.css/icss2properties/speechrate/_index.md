@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.SpeechRate
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства скорости речи в CSS2.
+title: "ICSS2Properties.SpeechRate"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ICSS2Properties SpeechRate. См. определение свойства speech-rate в CSS2"
 type: docs
-weight: 1040
+weight: 1070
 url: /ru/net/aspose.svg.dom.css/icss2properties/speechrate/
 ---
 ## ICSS2Properties.SpeechRate property
 
-См. определение свойства скорости речи в CSS2.
+Смотрите определение свойства speech-rate в CSS2.
 
 ```csharp
 public string SpeechRate { get; set; }
@@ -16,12 +16,10 @@ public string SpeechRate { get; set; }
 
 ### Возвращаемое значение
 
-свойство скорости речи
+свойство speech-rate
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

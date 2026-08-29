@@ -1,28 +1,26 @@
 ---
-title: ISVGTests.RequiredExtensions
-second_title: Справочник по Aspose.SVG для .NET API
-description: ISVGTests свойство. Соответствует атрибуту requiredExtensions данного элемента.
+title: "ISVGTests.RequiredExtensions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство RequiredExtensions класса ISVGTests. Соответствует атрибуту requiredExtensions данного элемента."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/isvgtests/requiredextensions/
 ---
 ## ISVGTests.RequiredExtensions property
 
-Соответствует атрибуту «requiredExtensions» данного элемента.
+Соответствует атрибуту ‘requiredExtensions’ данного элемента.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Требуемые расширения.
 
-### Смотрите также
+### См. также
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* пространство имен [Aspose.Svg](../../isvgtests/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

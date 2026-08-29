@@ -1,29 +1,27 @@
 ---
-title: Enum MediaType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.MediaType перечисление. Определяет возможные типы мультимедиа используемые во время рендеринга.
+title: "Перечисление MediaType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Rendering.MediaType enum. Указывает возможные типы медиа, используемые при рендеринге"
 type: docs
-weight: 2890
+weight: 4960
 url: /ru/net/aspose.svg.rendering/mediatype/
 ---
 ## MediaType enumeration
 
-Определяет возможные типы мультимедиа, используемые во время рендеринга.
+Указывает возможные типы медиа, используемые во время рендеринга.
 
 ```csharp
 public enum MediaType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Print | `0` | `Распечатать` медиа используется во время рендеринга. |
-| Screen | `1` | `Экран` медиа используется во время рендеринга. |
+| Print | `0` | Медиа `Print` используется при рендеринге. |
+| Screen | `1` | Медиа `Screen` используется при рендеринге. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

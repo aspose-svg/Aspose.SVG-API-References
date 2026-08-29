@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnKeyDown
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnKeyDown.
+title: "IGlobalEventHandlers.OnKeyDown"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IGlobalEventHandlers OnKeyDown событие. Получает или задает обработчик события для OnKeyDown события"
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onkeydown/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onkeydown/
 public event DOMEventHandler OnKeyDown;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

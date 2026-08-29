@@ -1,28 +1,26 @@
 ---
-title: RenderingOptions.Css
-second_title: Справочник по Aspose.SVG для .NET API
-description: RenderingOptions свойство. ПолучаетCssOptions объект который используется для настройки обработки свойств css.
+title: "RenderingOptions.Css"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство RenderingOptions Css. Возвращает объект CssOptions, который используется для настройки обработки свойств css."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering/renderingoptions/css/
 ---
 ## RenderingOptions.Css property
 
-Получает[`CssOptions`](../../cssoptions/) объект, который используется для настройки обработки свойств css.
+Получает объект [`CssOptions`](../../cssoptions/), который используется для настройки обработки свойств css.
 
 ```csharp
 public CssOptions Css { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`CssOptions`](../../cssoptions/) объект.
+Объект [`CssOptions`](../../cssoptions/).
 
-### Смотрите также
+### См. также
 
 * class [CssOptions](../../cssoptions/)
 * class [RenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: Node.ATTRIBUTE_NODE
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node поле. Атрибут node
+title: "Node.ATTRIBUTE_NODE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле Node ATTRIBUTE_NODE. Узел-атрибут."
 type: docs
-weight: 320
+weight: 300
 url: /ru/net/aspose.svg.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
 
-Атрибут node
+Узел атрибута
 
 ```csharp
 public const ushort ATTRIBUTE_NODE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPatternElement свойство. Соответствует атрибуту y данного элемента pattern.
+title: "SVGPatternElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y элемента SVGPatternElement. Соответствует атрибуту y данного элемента pattern."
 type: docs
 weight: 130
 url: /ru/net/aspose.svg/svgpatternelement/y/
 ---
 ## SVGPatternElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'pattern'.
+Соответствует атрибуту ‘y’ в данном элементе ‘pattern’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента 'pattern'.
+Атрибут ‘y’ данного элемента ‘pattern’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* пространство имен [Aspose.Svg](../../svgpatternelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

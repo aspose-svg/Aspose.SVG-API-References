@@ -1,12 +1,12 @@
 ---
-title: Device2.SaveGraphicContext
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Помещает копию всего графического контекста в стек.
+title: "Device-2.SaveGraphicContext"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device SaveGraphicContext method. Помещает копию всего графического контекста в стек."
 type: docs
-weight: 210
+weight: 240
 url: /ru/net/aspose.svg.rendering/device-2/savegraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.SaveGraphicContext method
 
 Помещает копию всего графического контекста в стек.
 
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering/device-2/savegraphiccontext/
 public virtual void SaveGraphicContext()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

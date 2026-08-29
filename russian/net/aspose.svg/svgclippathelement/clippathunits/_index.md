@@ -1,28 +1,26 @@
 ---
-title: SVGClipPathElement.ClipPathUnits
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGClipPathElement свойство. Соответствует атрибуту clipPathUnits данного элемента clipPath. Принимает одну из констант определенных в SVGUnitTypes.
+title: "SVGClipPathElement.ClipPathUnits"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ClipPathUnits элемента SVGClipPathElement. Соответствует атрибуту clipPathUnits указанного элемента clipPath. Принимает одну из констант, определённых в SVGUnitTypes"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgclippathelement/clippathunits/
 ---
 ## SVGClipPathElement.ClipPathUnits property
 
-Соответствует атрибуту clipPathUnits данного элемента clipPath. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту ‘clipPathUnits’ указанного элемента ‘clipPath’. Принимает одну из констант, определённых в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration ClipPathUnits { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут clipPathUnits данного элемента clipPath.
+Атрибут ‘clipPathUnits’ указанного элемента ‘clipPath’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGClipPathElement](../)
-* пространство имен [Aspose.Svg](../../svgclippathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

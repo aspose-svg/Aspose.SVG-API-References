@@ -1,14 +1,14 @@
 ---
-title: IWindow.Alert
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindow метод. Отображает модальное предупреждение с заданным сообщением и ждет пока пользователь его закроет
+title: "IWindow.Alert"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IWindow Alert. Отображает модальное предупреждение с заданным сообщением и ждёт, пока пользователь его закроет."
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.svg.window/iwindow/alert/
 ---
 ## IWindow.Alert method
 
-Отображает модальное предупреждение с заданным сообщением и ждет, пока пользователь его закроет
+Отображает модальное окно alert с указанным сообщением и ждёт, пока пользователь его закроет.
 
 ```csharp
 public void Alert(string message)
@@ -16,12 +16,10 @@ public void Alert(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение. |
+| сообщение | String | Сообщение. |
 
-### Смотрите также
+### См. также
 
 * interface [IWindow](../)
-* пространство имен [Aspose.Svg.Window](../../iwindow/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

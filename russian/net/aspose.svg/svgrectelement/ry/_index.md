@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Ry
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRectElement свойство. Соответствует атрибуту ry данного элемента rect.
+title: "SVGRectElement.Ry"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Ry класса SVGRectElement. Соответствует атрибуту ry в данном элементе rect."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgrectelement/ry/
 ---
 ## SVGRectElement.Ry property
 
-Соответствует атрибуту 'ry' данного элемента 'rect'.
+Соответствует атрибуту ‘ry’ в данном элементе ‘rect’
 
 ```csharp
 public SVGAnimatedLength Ry { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'ry' данного элемента 'rect'.
+Атрибут ‘ry’ данного элемента ‘rect’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* пространство имен [Aspose.Svg](../../svgrectelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Url.Protocol
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url свойство. Получает или задает строковое представление для указанной схемы URL.
+title: "Url.Protocol"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Url Protocol. Получает или задает строковое представление указанной схемы URL"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg/url/protocol/
 ---
 ## Url.Protocol property
 
-Получает или задает строковое представление для указанной схемы URL.
+Получает или задает строковое представление указанной схемы URL.
 
 ```csharp
 public string Protocol { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Протокол.
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,32 +1,30 @@
 ---
-title: Interface ITraversal
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Traversal.ITraversal интерфейс. Итераторы используются для перехода через набор узлов например набор узлов в списке узлов поддерево документа управляемое конкретным узлом результаты запроса или любой другой набор узлов . Набор итерируемых узлов определяется реализацией NodeIterator. DOM уровня 2 определяет одиночную реализацию NodeIterator для обхода поддерева документа в порядке документа. Экземпляры этих итераторов создаются путем вызова DocumentTraversal .createNodeIterator.
+title: "Интерфейс ITraversal"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Dom.Traversal.ITraversal. Итераторы используются для прохода по набору узлов, например набору узлов в NodeList, поддереву документа, управляемому определённым Node, результатам запроса или любому другому набору узлов. Набор узлов, по которым будет происходить итерация, определяется реализацией NodeIterator. DOM Level 2 определяет единственную реализацию NodeIterator для обхода документа в порядке следования узлов поддерева. Экземпляры этих итераторов создаются вызовом DocumentTraversal.createNodeIterator"
 type: docs
-weight: 1260
+weight: 3260
 url: /ru/net/aspose.svg.dom.traversal/itraversal/
 ---
 ## ITraversal interface
 
-Итераторы используются для перехода через набор узлов, например, набор узлов в списке узлов, поддерево документа, управляемое конкретным узлом, результаты запроса или любой другой набор узлов . Набор итерируемых узлов определяется реализацией NodeIterator. DOM уровня 2 определяет одиночную реализацию NodeIterator для обхода поддерева документа в порядке документа. Экземпляры этих итераторов создаются путем вызова DocumentTraversal .createNodeIterator().
+Итераторы используются для последовательного перебора набора узлов, например набора узлов в NodeList, поддерева документа, управляемого определённым Node, результатов запроса или любого другого набора узлов. Набор узлов для перебора определяется реализацией NodeIterator. DOM Level 2 определяет единую реализацию NodeIterator для обхода поддерева документа в порядке документа. Экземпляры этих итераторов создаются вызовом DocumentTraversal .createNodeIterator().
 
-См. также[Модель объекта документа (DOM) Уровень 2 Спецификация обхода и диапазона](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @с уровня DOM 2
+Смотрите также [Document object Model (DOM) Level 2 Traversal and Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM Level 2
 
 ```csharp
 public interface ITraversal : IDisposable
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Filter](../../aspose.svg.dom.traversal/itraversal/filter/) { get; } | NodeFilter, используемый для просмотра узлов. |
-| [Root](../../aspose.svg.dom.traversal/itraversal/root/) { get; } | Корневой узел NodeIterator, указанный при создании it . |
-| [WhatToShow](../../aspose.svg.dom.traversal/itraversal/whattoshow/) { get; } | Этот атрибут определяет, какие типы узлов представлены через итератор . Доступный набор констант определяется в интерфейсе NodeFilter. Узлы, не принятые whatToShow, будут пропущены, но их дочерние узлы все еще могут рассматриваться. Обратите внимание, что этот пропуск имеет приоритет над фильтром, , если он есть. |
+| [Filter](../../aspose.svg.dom.traversal/itraversal/filter/) { get; } | NodeFilter, используемый для фильтрации узлов. |
+| [Root](../../aspose.svg.dom.traversal/itraversal/root/) { get; } | Корневой узел NodeIterator, указанный при его создании. |
+| [WhatToShow](../../aspose.svg.dom.traversal/itraversal/whattoshow/) { get; } | Этот атрибут определяет, какие типы узлов представлены через итератор. Доступный набор констант определён в интерфейсе NodeFilter. Узлы, не принятые whatToShow, будут пропущены, но их дочерние элементы могут всё равно учитываться. Обратите внимание, что такое пропускание имеет приоритет над фильтром, если он присутствует. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../)

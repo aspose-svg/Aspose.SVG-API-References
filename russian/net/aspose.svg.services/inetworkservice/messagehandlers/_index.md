@@ -1,28 +1,26 @@
 ---
-title: INetworkService.MessageHandlers
-second_title: Справочник по Aspose.SVG для .NET API
-description: INetworkService свойство. Получает списокMessageHandler экземпляры которые будут вызываться какRequestMessage выполняет.
+title: "INetworkService.MessageHandlers"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство INetworkService MessageHandlers. Получает список экземпляров MessageHandler, которые будут вызываться при выполнении RequestMessage."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.services/inetworkservice/messagehandlers/
 ---
 ## INetworkService.MessageHandlers property
 
-Получает список[`MessageHandler`](../../../aspose.svg.net/messagehandler/) экземпляры, которые будут вызываться как[`RequestMessage`](../../../aspose.svg.net/requestmessage/) выполняет.
+Получает список экземпляров [`MessageHandler`](../../../aspose.svg.net/messagehandler/), которые будут вызываться при выполнении [`RequestMessage`](../../../aspose.svg.net/requestmessage/).
 
 ```csharp
 public MessageHandlerCollection MessageHandlers { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Обработчики сообщений.
 
-### Смотрите также
+### См. также
 
 * class [MessageHandlerCollection](../../../aspose.svg.net/messagehandlercollection/)
 * interface [INetworkService](../)
-* пространство имен [Aspose.Svg.Services](../../inetworkservice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

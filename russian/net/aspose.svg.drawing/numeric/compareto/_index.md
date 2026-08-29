@@ -1,7 +1,7 @@
 ---
-title: Numeric.CompareTo
-second_title: Справочник по Aspose.SVG для .NET API
-description: Numeric метод. Сравнивает текущий экземпляр с другим объектом того же типа и возвращает целое число указывающее предшествует ли текущий экземпляр следует за ним или находится в той же позиции в порядке сортировки что и другой объект.
+title: "Numeric.CompareTo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Numeric CompareTo. Сравнивает текущий экземпляр с другим объектом того же типа и возвращает целое число, указывающее, предшествует ли текущий экземпляр, следует за ним или находится в той же позиции в порядке сортировки, что и другой объект"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/numeric/compareto/
@@ -16,7 +16,7 @@ public int CompareTo(Numeric other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Numeric | Другой объект для сравнения. |
+| другой | Numeric | Другой объект для сравнения. |
 
 ### Возвращаемое значение
 
@@ -29,10 +29,8 @@ public int CompareTo(Numeric other)
 | ArgumentNullException | другой |
 | ArgumentException |  |
 
-### Смотрите также
+### См. также
 
 * class [Numeric](../)
-* пространство имен [Aspose.Svg.Drawing](../../numeric/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

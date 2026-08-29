@@ -1,14 +1,14 @@
 ---
-title: Time.op_GreaterThan
-second_title: Справочник по Aspose.SVG для .NET API
-description: Time метод. Реализует оператор .
+title: "Time.op_GreaterThan"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Time op_GreaterThan метод. Реализует оператор"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/time/op_greaterthan/
 ---
 ## Time GreaterThan operator
 
-Реализует оператор &gt;.
+Реализует оператор >.
 
 ```csharp
 public static bool operator >(Time a, Time b)
@@ -16,8 +16,8 @@ public static bool operator >(Time a, Time b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Time | Параметр а. |
-| b | Time | Параметр б. |
+| a | Time | Параметр a. |
+| b | Time | Параметр b. |
 
 ### Возвращаемое значение
 
@@ -27,13 +27,11 @@ public static bool operator >(Time a, Time b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы бывают разных типов |
-| ArgumentNullException | Аргумент недействителен |
+| ArgumentException | Аргументы имеют разные типы |
+| ArgumentNullException | Аргумент равен null |
 
-### Смотрите также
+### См. также
 
 * class [Time](../)
-* пространство имен [Aspose.Svg.Drawing](../../time/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

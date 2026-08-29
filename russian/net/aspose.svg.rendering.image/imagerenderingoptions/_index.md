@@ -1,14 +1,14 @@
 ---
-title: Class ImageRenderingOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.Image.ImageRenderingOptions сорт. Представляет параметры рендеринга дляImageDevice . Эти параметры используются для указания формата выходного изображения сжатия разрешения и т. д.
+title: "Класс ImageRenderingOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Rendering.Image.ImageRenderingOptions. Представляет параметры отрисовки для ImageDevice. Эти параметры используются для указания формата выходного изображения, сжатия, разрешения и т.д."
 type: docs
-weight: 2860
+weight: 4940
 url: /ru/net/aspose.svg.rendering.image/imagerenderingoptions/
 ---
 ## ImageRenderingOptions class
 
-Представляет параметры рендеринга для[`ImageDevice`](../imagedevice/) . Эти параметры используются для указания формата выходного изображения, сжатия, разрешения и т. д.
+Представляет параметры отрисовки для [`ImageDevice`](../imagedevice/). Эти параметры используются для указания формата выходного изображения, сжатия, разрешения и т.д.
 
 ```csharp
 public class ImageRenderingOptions : RenderingOptions
@@ -18,27 +18,25 @@ public class ImageRenderingOptions : RenderingOptions
 
 | Имя | Описание |
 | --- | --- |
-| [ImageRenderingOptions](imagerenderingoptions/#constructor)() | Инициализирует новый экземпляр`ImageRenderingOptions` сорт;Png будет использоваться как формат изображения по умолчанию. |
-| [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(ImageFormat) | Инициализирует новый экземпляр`ImageRenderingOptions` класс с указанным форматом изображения. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor)() | Инициализирует новый экземпляр класса `ImageRenderingOptions`; в качестве формата изображения по умолчанию будет использоваться PNG. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(*[ImageFormat](../imageformat/)*) | Инициализирует новый экземпляр класса `ImageRenderingOptions` с указанным форматом изображения. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Получает или устанавливаетColor который заполнит фон каждой страницы. Значение по умолчаниюTransparent . |
-| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Устанавливает или получает формат файла изображения с тегами (TIFF)[`Compression`](../compression/) . По умолчанию это свойствоLZW . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Получает[`CssOptions`](../../aspose.svg.rendering/cssoptions/) объект, который используется для настройки обработки свойств css. |
-| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Устанавливает или получает[`ImageFormat`](../imageformat/) . По умолчанию это свойствоPng . |
-| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Задает или получает разрешение по горизонтали для вывода и внутреннего (используемого при обработке фильтрами) изображения в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Получает объект настройки страницы, который используется для вывода конфигурации набора страниц. |
-| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | Получает или задает качество рендеринга для этой графики. |
-| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Получает[`TextOptions`](../textoptions/) объект, который используется для настройки рендеринга текста. |
-| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Задает или получает разрешение по вертикали для выходного и внутреннего (используемого при обработке фильтрами) изображения в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Получает или задает Color, который будет заполнять фон каждой страницы. Значение по умолчанию — Transparent. |
+| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Устанавливает или получает параметр сжатия Tagged Image File Format (TIFF) [`Compression`](../compression/). По умолчанию это свойство имеет значение LZW. |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Получает объект [`CssOptions`](../../aspose.svg.rendering/cssoptions/), используемый для настройки обработки свойств CSS. |
+| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Устанавливает или получает [`ImageFormat`](../imageformat/). По умолчанию это свойство имеет значение PNG. |
+| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Устанавливает или получает горизонтальное разрешение для выходных и внутренних (используемых при обработке фильтров) изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Получает объект настройки страницы, используемый для конфигурации выходного набора страниц. |
+| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Получает объект [`TextOptions`](../textoptions/), который используется для настройки отрисовки текста. |
+| [UseAntialiasing](../../aspose.svg.rendering.image/imagerenderingoptions/useantialiasing/) { get; set; } | Указывает, использовать ли сглаживание. По умолчанию сглаживание включено. |
+| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Устанавливает или получает вертикальное разрешение для выходных и внутренних (используемых при обработке фильтров) изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
 
-### Смотрите также
+### См. также
 
 * class [RenderingOptions](../../aspose.svg.rendering/renderingoptions/)
-* пространство имен [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

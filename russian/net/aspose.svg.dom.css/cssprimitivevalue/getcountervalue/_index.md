@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetCounterValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue метод. Этот метод используется для получения значения счетчика. Если это значение CSS не содержит значения счетчика возникает исключение DOMException. Модификацию соответствующего свойства стиля можно выполнить с помощью интерфейса счетчика.
+title: "CSSPrimitiveValue.GetCounterValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue GetCounterValue method. Этот метод используется для получения значения Counter. Если это CSS‑значение не содержит значения Counter, генерируется DOMException. Изменение соответствующего свойства стиля может быть выполнено с помощью интерфейса Counter."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/getcountervalue/
 ---
 ## CSSPrimitiveValue.GetCounterValue method
 
-Этот метод используется для получения значения счетчика. Если это значение CSS не содержит значения счетчика, возникает исключение DOMException. Модификацию соответствующего свойства стиля можно выполнить с помощью интерфейса счетчика.
+Этот метод используется для получения значения Counter. Если данное CSS‑значение не содержит значения счётчика, генерируется DOMException. Изменение соответствующего свойства стиля может быть выполнено с помощью интерфейса Counter.
 
 ```csharp
 public abstract Counter GetCounterValue()
@@ -16,13 +16,11 @@ public abstract Counter GetCounterValue()
 
 ### Возвращаемое значение
 
-Возвращает значение счетчика
+Возвращает значение Counter
 
-### Смотрите также
+### См. также
 
 * class [Counter](../../counter/)
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

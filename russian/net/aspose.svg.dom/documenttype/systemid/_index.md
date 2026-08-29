@@ -1,7 +1,7 @@
 ---
-title: DocumentType.SystemId
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentType свойство. Системный идентификатор внешнего подмножества. Это может быть абсолютный URI или нет.
+title: "DocumentType.SystemId"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство DocumentType SystemId. Системный идентификатор внешнего подмножества. Может быть абсолютным URI или нет"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/documenttype/systemid/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/documenttype/systemid/
 public string SystemId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Идентификатор системы.
+Системный идентификатор.
 
-### Смотрите также
+### См. также
 
 * class [DocumentType](../)
-* пространство имен [Aspose.Svg.Dom](../../documenttype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

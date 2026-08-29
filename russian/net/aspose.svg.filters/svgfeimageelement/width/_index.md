@@ -1,28 +1,26 @@
 ---
-title: SVGFEImageElement.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEImageElement свойство. Соответствует атрибуту ширина данного элемента фильтр.
+title: "SVGFEImageElement.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Width элемента SVGFEImageElement. Соответствует атрибуту width в данном элементе filter."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.filters/svgfeimageelement/width/
 ---
 ## SVGFEImageElement.Width property
 
-Соответствует атрибуту «ширина» данного элемента «фильтр».
+Соответствует атрибуту ‘width’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «ширина» данного элемента «фильтр».
+Атрибут ‘width’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEImageElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeimageelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

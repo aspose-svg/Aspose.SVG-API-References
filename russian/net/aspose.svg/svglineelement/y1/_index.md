@@ -1,28 +1,26 @@
 ---
-title: SVGLineElement.Y1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGLineElement свойство. Соответствует атрибуту y1 данного элемента line.
+title: "SVGLineElement.Y1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y1 элемента SVGLineElement. Соответствует атрибуту y1 у данного линейного элемента."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svglineelement/y1/
 ---
 ## SVGLineElement.Y1 property
 
-Соответствует атрибуту 'y1' данного элемента 'line'.
+Соответствует атрибуту ‘y1’ указанного элемента ‘line’.
 
 ```csharp
 public SVGAnimatedLength Y1 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y1' данного элемента 'line'.
+Атрибут ‘y1’ данного элемента ‘line’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* пространство имен [Aspose.Svg](../../svglineelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

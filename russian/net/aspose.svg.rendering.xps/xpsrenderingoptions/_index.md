@@ -1,14 +1,14 @@
 ---
-title: Class XpsRenderingOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.Xps.XpsRenderingOptions сорт. Представляет параметры рендеринга дляXpsDevice .
+title: "XpsRenderingOptions класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Rendering.Xps.XpsRenderingOptions класс. Представляет параметры рендеринга для XpsDevice"
 type: docs
-weight: 3070
+weight: 5140
 url: /ru/net/aspose.svg.rendering.xps/xpsrenderingoptions/
 ---
 ## XpsRenderingOptions class
 
-Представляет параметры рендеринга для[`XpsDevice`](../xpsdevice/) .
+Представляет параметры рендеринга для [`XpsDevice`](../xpsdevice/).
 
 ```csharp
 public class XpsRenderingOptions : RenderingOptions
@@ -20,20 +20,18 @@ public class XpsRenderingOptions : RenderingOptions
 | --- | --- |
 | [XpsRenderingOptions](xpsrenderingoptions/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Получает или устанавливаетColor который заполнит фон каждой страницы. Значение по умолчаниюTransparent . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Получает[`CssOptions`](../../aspose.svg.rendering/cssoptions/) объект, который используется для настройки обработки свойств css. |
-| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution/) { get; set; } | Устанавливает или получает разрешение по горизонтали для внутренних (используемых при обработке фильтров) изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Получает объект настройки страницы, который используется для вывода конфигурации набора страниц. |
-| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution/) { get; set; } | Задает или получает разрешение по вертикали для внутренних (используемых при обработке фильтров) изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Получает или задает Color, который будет заполнять фон каждой страницы. Значение по умолчанию — Transparent. |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Получает объект [`CssOptions`](../../aspose.svg.rendering/cssoptions/), используемый для настройки обработки свойств CSS. |
+| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution/) { get; set; } | Устанавливает или получает горизонтальное разрешение внутренних (используемых при обработке фильтров) изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Получает объект настройки страницы, используемый для конфигурации выходного набора страниц. |
+| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution/) { get; set; } | Устанавливает или получает вертикальное разрешение внутренних (используемых при обработке фильтров) изображений в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
 
-### Смотрите также
+### См. также
 
 * class [RenderingOptions](../../aspose.svg.rendering/renderingoptions/)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../aspose.svg.rendering.xps/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../)

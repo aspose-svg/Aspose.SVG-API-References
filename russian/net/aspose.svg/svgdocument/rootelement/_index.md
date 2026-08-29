@@ -1,28 +1,26 @@
 ---
-title: SVGDocument.RootElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGDocument свойство. Корень svg в иерархии документов.
+title: "SVGDocument.RootElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство RootElement класса SVGDocument. Корневой svg в иерархии документа."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgdocument/rootelement/
 ---
 ## SVGDocument.RootElement property
 
-Корень 'svg' в иерархии документов.
+Корневой элемент ‘svg’ в иерархии документа.
 
 ```csharp
 public SVGSVGElement RootElement { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Корневой элемент.
 
-### Смотрите также
+### См. также
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGDocument](../)
-* пространство имен [Aspose.Svg](../../svgdocument/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

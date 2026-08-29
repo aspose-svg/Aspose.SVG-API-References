@@ -1,23 +1,21 @@
 ---
-title: Node.ELEMENT_NODE
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node поле. Элемент node
+title: "Node.ELEMENT_NODE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле Node ELEMENT_NODE. Элементный узел"
 type: docs
-weight: 380
+weight: 360
 url: /ru/net/aspose.svg.dom/node/element_node/
 ---
 ## Node.ELEMENT_NODE field
 
-Элемент node
+Узел элемента
 
 ```csharp
 public const ushort ELEMENT_NODE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

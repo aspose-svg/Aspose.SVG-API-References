@@ -1,24 +1,22 @@
 ---
-title: IElementCSSInlineStyle.Style
-second_title: Справочник по Aspose.SVG для .NET API
-description: IElementCSSInlineStyle свойство. Представляет Представляет атрибут стиля который позволяет автору напрямую применять информацию о стиле к определенному элементу.
+title: "IElementCSSInlineStyle.Style"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IElementCSSInlineStyle Style свойство. Представляет атрибут стиля, который позволяет автору напрямую применять стилистическую информацию к конкретному элементу."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/ielementcssinlinestyle/style/
 ---
 ## IElementCSSInlineStyle.Style property
 
-Представляет Представляет атрибут стиля, который позволяет автору напрямую применять информацию о стиле к определенному элементу.
+Представляет атрибут стиля, который позволяет автору напрямую применять информацию о стиле к конкретному элементу.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [IElementCSSInlineStyle](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../ielementcssinlinestyle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

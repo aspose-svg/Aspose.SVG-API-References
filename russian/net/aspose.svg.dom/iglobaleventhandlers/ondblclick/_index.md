@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnDblClick
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnDblClick.
+title: "IGlobalEventHandlers.OnDblClick"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IGlobalEventHandlers событие OnDblClick. Получает или задает обработчик события для события OnDblClick"
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/ondblclick/
 ---
 ## IGlobalEventHandlers.OnDblClick event
 
-Получает или задает обработчик события OnDblClick.
+Получает или задаёт обработчик события OnDblClick.
 
 ```csharp
 public event DOMEventHandler OnDblClick;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

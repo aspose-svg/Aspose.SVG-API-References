@@ -1,14 +1,14 @@
 ---
-title: Unit.FromHertz
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit метод. ВозвращаетFrequency объект представленный в герцах.
+title: "Unit.FromHertz"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Unit FromHertz. Возвращает объект Frequency, представленный в герцах"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.drawing/unit/fromhertz/
 ---
 ## Unit.FromHertz method
 
-Возвращает[`Frequency`](../../frequency/) объект, представленный в герцах.
+Возвращает объект [`Frequency`](../../frequency/), представленный в герцах.
 
 ```csharp
 public static Frequency FromHertz(double value)
@@ -16,17 +16,15 @@ public static Frequency FromHertz(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение. |
+| значение | Double | Значение. |
 
 ### Возвращаемое значение
 
-Возвращает[`Frequency`](../../frequency/) объект.
+Возвращает объект [`Frequency`](../../frequency/).
 
-### Смотрите также
+### См. также
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

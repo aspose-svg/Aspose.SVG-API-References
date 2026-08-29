@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.K4
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFECompositeElement свойство. Соответствует атрибуту k4 данного элемента feComposite.
+title: "SVGFECompositeElement.K4"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство K4 SVGFECompositeElement. Соответствует атрибуту k4 в данном элементе feComposite"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.filters/svgfecompositeelement/k4/
 ---
 ## SVGFECompositeElement.K4 property
 
-Соответствует атрибуту «k4» данного элемента «feComposite».
+Соответствует атрибуту ‘k4’ в данном элементе ‘feComposite’.
 
 ```csharp
 public SVGAnimatedNumber K4 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «k4» данного элемента «feComposite».
+Атрибут ‘k4’ в данном элементе ‘feComposite’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFECompositeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

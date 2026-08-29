@@ -1,24 +1,22 @@
 ---
-title: ResourceHandlingOptions.ResourceUrlRestriction
-second_title: Справочник по Aspose.SVG для .NET API
-description: ResourceHandlingOptions свойство. Получает или устанавливает ограничение применяемое к URLадресам обрабатываемых ресурсов таких как css js изображения и т. д. Значение по умолчаниюSameHost .
+title: "ResourceHandlingOptions.ResourceUrlRestriction"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ResourceUrlRestriction класса ResourceHandlingOptions. Получает или задает ограничение, применяемое к URL обрабатываемых ресурсов, таких как css, js, изображения и т.д. Значение по умолчанию — SameHost"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/
 ---
 ## ResourceHandlingOptions.ResourceUrlRestriction property
 
-Получает или устанавливает ограничение, применяемое к URL-адресам обрабатываемых ресурсов, таких как css, js, изображения и т. д. Значение по умолчанию:SameHost .
+Получает или задает ограничение, применяемое к URL обрабатываемых ресурсов, таких как css, js, изображения и т.д. Значение по умолчанию — SameHost.
 
 ```csharp
 public UrlRestriction ResourceUrlRestriction { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [UrlRestriction](../../urlrestriction/)
 * class [ResourceHandlingOptions](../)
-* пространство имен [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Pitch
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства шага в CSS2.
+title: "ICSS2Properties.Pitch"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ICSS2Properties Pitch. См. определение свойства pitch в CSS2"
 type: docs
-weight: 920
+weight: 950
 url: /ru/net/aspose.svg.dom.css/icss2properties/pitch/
 ---
 ## ICSS2Properties.Pitch property
 
-См. определение свойства шага в CSS2.
+Смотрите определение свойства pitch в CSS2.
 
 ```csharp
 public string Pitch { get; set; }
@@ -16,12 +16,10 @@ public string Pitch { get; set; }
 
 ### Возвращаемое значение
 
-свойство шага
+свойство pitch
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

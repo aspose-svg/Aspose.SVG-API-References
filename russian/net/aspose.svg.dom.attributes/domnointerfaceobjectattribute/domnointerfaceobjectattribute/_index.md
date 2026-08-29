@@ -1,7 +1,7 @@
 ---
-title: DOMNoInterfaceObjectAttribute.DOMNoInterfaceObjectAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMNoInterfaceObjectAttribute строитель. Конструктор по умолчанию.
+title: "DOMNoInterfaceObjectAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMNoInterfaceObjectAttribute. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/domnointerfaceobjectattribute/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/domnointerf
 public DOMNoInterfaceObjectAttribute()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMNoInterfaceObjectAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domnointerfaceobjectattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

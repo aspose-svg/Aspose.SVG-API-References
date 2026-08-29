@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: ProcessingInstruction свойство. Код представляющий тип базового объекта.
+title: "ProcessingInstruction.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ProcessingInstruction NodeType property. Код, представляющий тип базового объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/processinginstruction/nodetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/processinginstruction/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип узла.
 
-### Смотрите также
+### См. также
 
 * class [ProcessingInstruction](../)
-* пространство имен [Aspose.Svg.Dom](../../processinginstruction/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

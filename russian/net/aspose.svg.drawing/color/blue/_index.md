@@ -1,7 +1,7 @@
 ---
-title: Color.Blue
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color свойство. Представляет синий компонент цвета.
+title: "Color.Blue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Color Blue. Представляет синий компонент цвета"
 type: docs
 weight: 250
 url: /ru/net/aspose.svg.drawing/color/blue/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/color/blue/
 public float Blue { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

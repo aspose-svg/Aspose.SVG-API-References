@@ -1,39 +1,37 @@
 ---
-title: Class SVGPathSegMovetoRel
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Paths.SVGPathSegMovetoRel сорт. Интерфейс SVGPathSegMovetoRel соответствует команде данных пути относительного перемещения m.
+title: "Класс SVGPathSegMovetoRel"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Paths.SVGPathSegMovetoRel. Интерфейс SVGPathSegMovetoRel соответствует относительной команде данных пути перемещения m."
 type: docs
-weight: 2690
+weight: 4760
 url: /ru/net/aspose.svg.paths/svgpathsegmovetorel/
 ---
 ## SVGPathSegMovetoRel class
 
-Интерфейс SVGPathSegMovetoRel соответствует команде данных пути «относительного перемещения» (m).
+Интерфейс SVGPathSegMovetoRel соответствует команде данных пути "relative moveto" (m).
 
 ```csharp
 public class SVGPathSegMovetoRel : SVGPathSeg
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Тип сегмента пути, указанный одной из констант, определённых в этом интерфейсе. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Тип сегмента пути, указанный соответствующим односимвольным именем команды. |
 | [X](../../aspose.svg.paths/svgpathsegmovetorel/x/) { get; set; } | Относительная координата X конечной точки этого сегмента пути. |
-| [Y](../../aspose.svg.paths/svgpathsegmovetorel/y/) { get; set; } | Относительная координата Y для конечной точки этого сегмента пути. |
+| [Y](../../aspose.svg.paths/svgpathsegmovetorel/y/) { get; set; } | Относительная координата Y конечной точки этого сегмента пути. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSeg](../svgpathseg/)
-* пространство имен [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_SKEWY
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTransform поле. Преобразование skewY.
+title: "SVGTransform.SVG_TRANSFORM_SKEWY"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGTransform SVG_TRANSFORM_SKEWY. Трансформация skewY."
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.datatypes/svgtransform/svg_transform_skewy/
 ---
 ## SVGTransform.SVG_TRANSFORM_SKEWY field
 
-Преобразование 'skewY(…)'.
+Трансформация 'skewY(…)'.
 
 ```csharp
 public const ushort SVG_TRANSFORM_SKEWY;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgtransform/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

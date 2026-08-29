@@ -1,14 +1,14 @@
 ---
-title: ICSSKeyframesRule.DeleteRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSKeyframesRule метод. Метод deleteRule удаляет CSSKeyframeRule с переданным ключом. Если правила с этим ключом не существует метод ничего не делает
+title: "ICSSKeyframesRule.DeleteRule"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод DeleteRule интерфейса ICSSKeyframesRule. Метод deleteRule удаляет CSSKeyframeRule с переданным ключом. Если правило с этим ключом не существует, метод ничего не делает."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.css/icsskeyframesrule/deleterule/
 ---
 ## ICSSKeyframesRule.DeleteRule method
 
-Метод deleteRule удаляет CSSKeyframeRule с переданным ключом. Если правила с этим ключом не существует, метод ничего не делает
+Метод deleteRule удаляет CSSKeyframeRule с переданным ключом. Если правило с этим ключом не существует, метод ничего не делает.
 
 ```csharp
 public void DeleteRule(string key)
@@ -16,12 +16,10 @@ public void DeleteRule(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ, описывающий удаляемое правило. Ключ должен разрешаться в число от 0 до 1, иначе правило игнорируется. |
+| ключ | String | Ключ, описывающий правило, которое следует удалить. Ключ должен соответствовать числу от 0 до 1, иначе правило игнорируется. |
 
-### Смотрите также
+### См. также
 
 * interface [ICSSKeyframesRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

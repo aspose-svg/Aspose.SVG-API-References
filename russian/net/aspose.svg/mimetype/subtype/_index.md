@@ -1,27 +1,25 @@
 ---
-title: MimeType.SubType
-second_title: Справочник по Aspose.SVG для .NET API
-description: MimeType свойство. Получает тип дополнительного носителя.
+title: "MimeType.SubType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MimeType SubType. Получает подтип медиа"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/mimetype/subtype/
 ---
 ## MimeType.SubType property
 
-Получает тип дополнительного носителя.
+Возвращает подтип медиа.
 
 ```csharp
 public string SubType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип дополнительного носителя.
+Подтип медиа.
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

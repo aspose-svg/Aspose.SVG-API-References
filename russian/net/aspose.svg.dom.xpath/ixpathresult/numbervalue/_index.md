@@ -1,7 +1,7 @@
 ---
-title: IXPathResult.NumberValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: IXPathResult свойство. Значение этого числового результата.
+title: "IXPathResult.NumberValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство NumberValue класса IXPathResult. Значение этого числового результата."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.xpath/ixpathresult/numbervalue/
@@ -18,12 +18,10 @@ public double NumberValue { get; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: возникает, если`тип результата` не `Число` тип. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: вызывается, если `resultType` не имеет тип `Number`. |
 
-### Смотрите также
+### См. также
 
 * interface [IXPathResult](../)
-* пространство имен [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

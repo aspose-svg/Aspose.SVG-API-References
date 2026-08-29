@@ -1,14 +1,14 @@
 ---
-title: Angle.op_LessThanOrEqual
-second_title: Справочник по Aspose.SVG для .NET API
-description: Angle метод. Реализует оператор .
+title: "Angle.op_LessThanOrEqual"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Angle op_LessThanOrEqual. Реализует оператор"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.drawing/angle/op_lessthanorequal/
 ---
 ## Angle LessThanOrEqual operator
 
-Реализует оператор &lt;=.
+Реализует оператор <=.
 
 ```csharp
 public static bool operator <=(Angle a, Angle b)
@@ -16,8 +16,8 @@ public static bool operator <=(Angle a, Angle b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Angle | Параметр а. |
-| b | Angle | Параметр б. |
+| a | Angle | Параметр a. |
+| b | Angle | Параметр b. |
 
 ### Возвращаемое значение
 
@@ -27,13 +27,11 @@ public static bool operator <=(Angle a, Angle b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы бывают разных типов |
-| ArgumentNullException | Аргумент недействителен |
+| ArgumentException | Аргументы имеют разные типы |
+| ArgumentNullException | Аргумент равен null |
 
-### Смотрите также
+### См. также
 
 * class [Angle](../)
-* пространство имен [Aspose.Svg.Drawing](../../angle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

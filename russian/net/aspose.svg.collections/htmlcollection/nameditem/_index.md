@@ -1,7 +1,7 @@
 ---
-title: HTMLCollection.NamedItem
-second_title: Справочник по Aspose.SVG для .NET API
-description: HTMLCollection метод. Возвращает элемент в коллекции соответствующий указанному имени.
+title: "HTMLCollection.NamedItem"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод NamedItem у HTMLCollection. Возвращает элемент в коллекции, соответствующий заданному имени"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.collections/htmlcollection/nameditem/
@@ -22,11 +22,9 @@ public Element NamedItem(string name)
 
 Соответствующий элемент
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* пространство имен [Aspose.Svg.Collections](../../htmlcollection/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

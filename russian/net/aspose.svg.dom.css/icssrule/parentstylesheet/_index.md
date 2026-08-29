@@ -1,7 +1,7 @@
 ---
-title: ICSSRule.ParentStyleSheet
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSRule свойство. Таблица стилей содержащая это правило.
+title: "ICSSRule.ParentStyleSheet"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ParentStyleSheet интерфейса ICSSRule. Таблица стилей, содержащая это правило"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/icssrule/parentstylesheet/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom.css/icssrule/parentstylesheet/
 public ICSSStyleSheet ParentStyleSheet { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssrule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

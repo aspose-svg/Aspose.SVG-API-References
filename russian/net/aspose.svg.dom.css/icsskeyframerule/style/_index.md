@@ -1,7 +1,7 @@
 ---
-title: ICSSKeyframeRule.Style
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSKeyframeRule свойство. Этот атрибут представляет стиль связанный с этим ключевым кадром.
+title: "ICSSKeyframeRule.Style"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Style интерфейса ICSSKeyframeRule. Этот атрибут представляет стиль, связанный с этим keyframe."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icsskeyframerule/style/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom.css/icsskeyframerule/style/
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Стиль.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSKeyframeRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

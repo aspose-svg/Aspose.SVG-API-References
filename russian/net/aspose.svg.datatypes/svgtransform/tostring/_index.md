@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTransform метод. ВозвращаетString который представляет этот экземпляр.
+title: "SVGTransform.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGTransform ToString. Возвращает строку, представляющую этот экземпляр"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.datatypes/svgtransform/tostring/
 ---
 ## SVGTransform.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgtransform/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

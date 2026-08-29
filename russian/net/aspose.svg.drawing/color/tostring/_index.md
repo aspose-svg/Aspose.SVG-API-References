@@ -1,14 +1,14 @@
 ---
-title: Color.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает строку состоящую из значений компонента RGBA.
+title: "Color.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color ToString. Возвращает строку, содержащую значения компонентов RGBA."
 type: docs
 weight: 430
 url: /ru/net/aspose.svg.drawing/color/tostring/
 ---
 ## Color.ToString method
 
-Возвращает строку, состоящую из значений компонента RGBA.
+Возвращает строку, состоящую из значений компонентов RGBA.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строка, читаемая человеком.
+Человекочитаемая строка.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

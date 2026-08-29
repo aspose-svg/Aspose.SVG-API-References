@@ -1,23 +1,21 @@
 ---
-title: SVGOptimizationOptions.CleanListOfValues
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGOptimizationOptions свойство. Получает или задает параметр для округления до 3 знаков после запятой числовых значений списка в атрибутах. По умолчанию это истина.
+title: "SVGOptimizationOptions.CleanListOfValues"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGOptimizationOptions CleanListOfValues. Получает или задает параметр, округляющий числовые значения списков в атрибутах до 3 знаков после запятой. По умолчанию true."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/cleanlistofvalues/
 ---
 ## SVGOptimizationOptions.CleanListOfValues property
 
-Получает или задает параметр для округления до 3 знаков после запятой числовых значений списка в атрибутах. По умолчанию это «истина».
+Получает или задает параметр округления числовых значений списков в атрибутах до 3 знаков после запятой. По умолчанию 'true'.
 
 ```csharp
 public bool CleanListOfValues { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

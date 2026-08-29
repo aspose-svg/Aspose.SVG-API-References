@@ -1,9 +1,9 @@
 ---
-title: Document.RenderTo
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Этот метод используется для рендеринга содержимого текущего документа на указанное графическое устройство.
+title: "Document.RenderTo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document RenderTo. Этот метод используется для отрисовки содержимого текущего документа на указанное графическое устройство."
 type: docs
-weight: 1040
+weight: 1050
 url: /ru/net/aspose.svg.dom/document/renderto/
 ---
 ## Document.RenderTo method
@@ -16,13 +16,11 @@ public virtual void RenderTo(IDevice device)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Пользовательское устройство. |
+| устройство | IDevice | Устройство пользователя. |
 
-### Смотрите также
+### См. также
 
 * interface [IDevice](../../../aspose.svg.rendering/idevice/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

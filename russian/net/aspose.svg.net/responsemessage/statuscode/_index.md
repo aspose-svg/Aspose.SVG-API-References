@@ -1,9 +1,9 @@
 ---
-title: ResponseMessage.StatusCode
-second_title: Справочник по Aspose.SVG для .NET API
-description: ResponseMessage свойство. Получает или задает код состояния.
+title: "ResponseMessage.StatusCode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ResponseMessage StatusCode свойство. Получает или задаёт код состояния"
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.svg.net/responsemessage/statuscode/
 ---
 ## ResponseMessage.StatusCode property
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.net/responsemessage/statuscode/
 public HttpStatusCode StatusCode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Код состояния.
 
-### Смотрите также
+### См. также
 
 * class [ResponseMessage](../)
-* пространство имен [Aspose.Svg.Net](../../responsemessage/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

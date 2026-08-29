@@ -1,7 +1,7 @@
 ---
-title: IImageTraceSimplifier.Simplify
-second_title: Справочник по Aspose.SVG для .NET API
-description: IImageTraceSimplifier метод. Уменьшает количество точек в трассе.
+title: "IImageTraceSimplifier.Simplify"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Simplify интерфейса IImageTraceSimplifier. Уменьшает количество точек в трассировке."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/iimagetracesimplifier/simplify/
@@ -16,16 +16,14 @@ public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Список точек трассировки. |
+| трасса | IEnumerable`1 | Список точек трассы. |
 
 ### Возвращаемое значение
 
-Сокращенный список точек трассировки.
+Уменьшенный список точек трассировки.
 
-### Смотрите также
+### См. также
 
 * interface [IImageTraceSimplifier](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../iimagetracesimplifier/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

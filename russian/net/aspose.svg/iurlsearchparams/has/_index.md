@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Has
-second_title: Справочник по Aspose.SVG для .NET API
-description: IUrlSearchParams метод. Проверяет существует ли пара имязначение имя которойимя в списке.
+title: "IUrlSearchParams.Has"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Has IUrlSearchParams. Проверяет, существует ли в списке пара имя‑значение, у которой имя равно name."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
 
-Проверяет, существует ли пара имя-значение, имя которой`имя` в списке.
+Проверяет, существует ли в списке пара имя‑значение, имя которой `name`.
 
 ```csharp
 public bool Has(string name)
@@ -16,16 +16,14 @@ public bool Has(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Ключ, который будет использоваться для поиска пары имя-значение. |
+| name | String | Ключ, который будет использоваться для поиска пары имя‑значение. |
 
 ### Возвращаемое значение
 
-`Истинный` если существует пара имя-значение, имя которой`имя` в списке и`ЛОЖЬ` в противном случае.
+`True`, если в списке существует пара имя‑значение, у которой имя равно `name`, иначе `false`.
 
-### Смотрите также
+### См. также
 
 * interface [IUrlSearchParams](../)
-* пространство имен [Aspose.Svg](../../iurlsearchparams/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

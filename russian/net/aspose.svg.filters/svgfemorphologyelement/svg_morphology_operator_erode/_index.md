@@ -1,23 +1,21 @@
 ---
-title: SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEMorphologyElement поле. Соответствует значению разрушение.
+title: "SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_MORPHOLOGY_OPERATOR_ERODE элемента SVGFEMorphologyElement. Соответствует значению erode"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_erode/
 ---
 ## SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE field
 
-Соответствует значению 'разрушение'.
+Соответствует значению 'erode'.
 
 ```csharp
 public const ushort SVG_MORPHOLOGY_OPERATOR_ERODE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEMorphologyElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

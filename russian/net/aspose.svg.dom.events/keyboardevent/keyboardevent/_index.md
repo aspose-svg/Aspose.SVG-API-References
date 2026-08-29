@@ -1,14 +1,14 @@
 ---
-title: KeyboardEvent.KeyboardEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: KeyboardEvent строитель. Инициализирует новый экземплярKeyboardEvent класс.
+title: "KeyboardEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор KeyboardEvent. Инициализирует новый экземпляр класса KeyboardEvent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/keyboardevent/keyboardevent/
 ---
-## KeyboardEvent(string) {#constructor}
+## KeyboardEvent(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`KeyboardEvent`](../) класс.
+Инициализирует новый экземпляр класса [`KeyboardEvent`](../).
 
 ```csharp
 public KeyboardEvent(string type)
@@ -18,17 +18,17 @@ public KeyboardEvent(string type)
 | --- | --- | --- |
 | type | String | Тип события. |
 
-### Смотрите также
+### См. также
 
 * class [KeyboardEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## KeyboardEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## KeyboardEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Инициализирует новый экземпляр[`KeyboardEvent`](../) класс.
+Инициализирует новый экземпляр класса [`KeyboardEvent`](../).
 
 ```csharp
 public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события. |
-| eventInitDict | IDictionary`2 | Событие инициализирует словарь. |
+| eventInitDict | IDictionary`2 | Словарь инициализации события. |
 
-### Смотрите также
+### См. также
 
 * class [KeyboardEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

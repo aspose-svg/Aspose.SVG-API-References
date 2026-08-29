@@ -1,14 +1,14 @@
 ---
-title: Class ProtocolMessageFilter
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter сорт. Представляет реализацию фильтра сообщений ресурсным протоколом.
+title: "Класс ProtocolMessageFilter"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter. Представляет реализацию фильтра сообщений по протоколу ресурса"
 type: docs
-weight: 2330
+weight: 4400
 url: /ru/net/aspose.svg.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class
 
-Представляет реализацию фильтра сообщений ресурсным протоколом.
+Представляет реализацию фильтра сообщений протоколом ресурса.
 
 ```csharp
 public class ProtocolMessageFilter : MessageFilter
@@ -18,18 +18,16 @@ public class ProtocolMessageFilter : MessageFilter
 
 | Имя | Описание |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter/)(params string[]) | Инициализирует новый экземпляр`ProtocolMessageFilter` класс. |
+| [ProtocolMessageFilter](protocolmessagefilter/)(*params string[]*) | Инициализирует новый экземпляр класса `ProtocolMessageFilter`. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(INetworkOperationContext) | При переопределении в производном классе проверяет, удовлетворяет ли контекст критериям фильтра. |
+| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | При переопределении в производном классе проверяет, удовлетворяет ли Context критериям фильтра. |
 
-### Смотрите также
+### См. также
 
 * class [MessageFilter](../../aspose.svg.net/messagefilter/)
-* пространство имен [Aspose.Svg.Net.MessageFilters](../../aspose.svg.net.messagefilters/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../)

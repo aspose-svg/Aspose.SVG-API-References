@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizer.Vectorize
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageVectorizer метод. Векторизирует растровое изображение из указанного файла.
+title: "ImageVectorizer.Vectorize"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ImageVectorizer Vectorize. Векторизует растровое изображение из указанного файла"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
-## Vectorize(string) {#vectorize_2}
+## Vectorize(*string*) {#vectorize_1}
 
-Векторизирует растровое изображение из указанного файла.
+Векторизует растровое изображение из указанного файла.
 
 ```csharp
 public SVGDocument Vectorize(string imageFile)
@@ -22,18 +22,18 @@ public SVGDocument Vectorize(string imageFile)
 
 SVG-документ.
 
-### Смотрите также
+### См. также
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Vectorize(Stream) {#vectorize_1}
+## Vectorize(*Stream*) {#vectorize}
 
-Векторизирует растровое изображение из указанного потока.
+Векторизует растровое изображение из указанного потока.
 
 ```csharp
 public SVGDocument Vectorize(Stream imageStream)
@@ -47,36 +47,9 @@ public SVGDocument Vectorize(Stream imageStream)
 
 SVG-документ.
 
-### Смотрите также
+### См. также
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* сборка [Aspose.SVG](../../../)
-
----
-
-## Vectorize(Bitmap) {#vectorize}
-
-Векторизует растровое изображение.
-
-```csharp
-public SVGDocument Vectorize(Bitmap image)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| image | Bitmap | Растровое изображение. |
-
-### Возвращаемое значение
-
-SVG-документ.
-
-### Смотрите также
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageVectorizer](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

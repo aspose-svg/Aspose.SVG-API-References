@@ -1,14 +1,14 @@
 ---
-title: Interface INonElementParentNode
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.INonElementParentNode интерфейс. определяетIParentNode которые не относятся к типу Element.
+title: "Интерфейс INonElementParentNode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.INonElementParentNode interface. Определяет IParentNode, которые не являются типом Element."
 type: docs
-weight: 1090
+weight: 3070
 url: /ru/net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
 
-определяет[`IParentNode`](../iparentnode/) которые не относятся к типу Element.
+Определяет [`IParentNode`](../iparentnode/), который не является типом Element.
 
 ```csharp
 public interface INonElementParentNode
@@ -18,11 +18,9 @@ public interface INonElementParentNode
 
 | Имя | Описание |
 | --- | --- |
-| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(string) | Возвращает первый элемент среди потомков узла, идентификатор которого равен elementId. |
+| [GetElementById](../../aspose.svg.dom/inonelementparentnode/getelementbyid/)(*string*) | Возвращает первый элемент среди потомков узла, чей ID равен elementId. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

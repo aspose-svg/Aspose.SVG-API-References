@@ -1,14 +1,14 @@
 ---
-title: Color.FromInt
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает новый цвет с запрошенным значением ARGB.
+title: "Color.FromInt"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromInt. Возвращает новый объект Color с запрошенным значением ARGB"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.drawing/color/fromint/
 ---
 ## Color.FromInt method
 
-Возвращает новый цвет с запрошенным значением ARGB.
+Возвращает новый Color с запрошенным значением ARGB.
 
 ```csharp
 public static Color FromInt(int argb)
@@ -20,12 +20,10 @@ public static Color FromInt(int argb)
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

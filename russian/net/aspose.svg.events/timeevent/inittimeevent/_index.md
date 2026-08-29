@@ -1,14 +1,14 @@
 ---
-title: TimeEvent.InitTimeEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: TimeEvent метод. Метод initTimeEvent используется для инициализации значения TimeEvent созданного через интерфейс DocumentEvent. Этот метод может быть вызван только до того как TimeEvent будет отправлен с помощью метода dispatchEvent хотя при необходимости он может вызываться несколько раз на этом этапе. При многократном вызове последний вызов имеет приоритет.
+title: "TimeEvent.InitTimeEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "TimeEvent InitTimeEvent метод. Метод initTimeEvent используется для инициализации значения TimeEvent, созданного через интерфейс DocumentEvent. Этот метод может быть вызван только до того, как TimeEvent будет отправлен через метод dispatchEvent, хотя при необходимости его можно вызвать несколько раз в течение этой фазы. Если вызвать его несколько раз, последующий вызов имеет приоритет."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.events/timeevent/inittimeevent/
 ---
 ## TimeEvent.InitTimeEvent method
 
-Метод initTimeEvent используется для инициализации значения TimeEvent, созданного через интерфейс DocumentEvent. Этот метод может быть вызван только до того, как TimeEvent будет отправлен с помощью метода dispatchEvent, хотя при необходимости он может вызываться несколько раз на этом этапе. При многократном вызове последний вызов имеет приоритет.
+Метод initTimeEvent используется для инициализации значения TimeEvent, созданного через интерфейс DocumentEvent. Этот метод может быть вызван только до того, как TimeEvent будет отправлен с помощью метода dispatchEvent, хотя при необходимости его можно вызвать несколько раз в этом этапе. Если вызвано несколько раз, приоритет имеет последний вызов.
 
 ```csharp
 public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
@@ -17,14 +17,12 @@ public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | typeArg | String | Указывает тип события. |
-| viewArg | IAbstractView | Определяет AbstractView события. |
-| detailArg | Int64 | Определяет детали события. |
+| viewArg | IAbstractView | Указывает AbstractView события. |
+| detailArg | Int64 | Указывает detail события. |
 
-### Смотрите также
+### См. также
 
 * interface [IAbstractView](../../../aspose.svg.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* пространство имен [Aspose.Svg.Events](../../timeevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

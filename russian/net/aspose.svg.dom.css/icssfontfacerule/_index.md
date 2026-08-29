@@ -1,9 +1,9 @@
 ---
-title: Interface ICSSFontFaceRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.ICSSFontFaceRule интерфейс. Интерфейс CSSFontFaceRule представляет правило fontface в таблице стилей CSS. Правило fontface используется для хранения набора описаний шрифтов.
+title: "Интерфейс ICSSFontFaceRule"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Dom.Css.ICSSFontFaceRule. Интерфейс CSSFontFaceRule представляет правило font-face в таблице стилей CSS. Правило font-face используется для хранения набора описаний шрифтов."
 type: docs
-weight: 550
+weight: 2550
 url: /ru/net/aspose.svg.dom.css/icssfontfacerule/
 ---
 ## ICSSFontFaceRule interface
@@ -14,16 +14,14 @@ url: /ru/net/aspose.svg.dom.css/icssfontfacerule/
 public interface ICSSFontFaceRule : ICSSRule
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Style](../../aspose.svg.dom.css/icssfontfacerule/style/) { get; } | Блок объявления этого правила. |
+| [Style](../../aspose.svg.dom.css/icssfontfacerule/style/) { get; } | Блок объявлений этого правила. |
 
-### Смотрите также
+### См. также
 
 * interface [ICSSRule](../icssrule/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

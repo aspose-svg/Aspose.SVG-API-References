@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnCueChange
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnCueChange.
+title: "IGlobalEventHandlers.OnCueChange"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IGlobalEventHandlers событие OnCueChange. Получает или задает обработчик события для события OnCueChange"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/oncuechange/
 ---
 ## IGlobalEventHandlers.OnCueChange event
 
-Получает или задает обработчик события OnCueChange.
+Получает или задаёт обработчик события OnCueChange.
 
 ```csharp
 public event DOMEventHandler OnCueChange;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

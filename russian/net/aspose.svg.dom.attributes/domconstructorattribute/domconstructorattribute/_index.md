@@ -1,7 +1,7 @@
 ---
-title: DOMConstructorAttribute.DOMConstructorAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMConstructorAttribute строитель. Конструктор по умолчанию.
+title: "DOMConstructorAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMConstructorAttribute. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.attributes/domconstructorattribute/domconstructorattribute/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.attributes/domconstructorattribute/domconstructoratt
 public DOMConstructorAttribute()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMConstructorAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domconstructorattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

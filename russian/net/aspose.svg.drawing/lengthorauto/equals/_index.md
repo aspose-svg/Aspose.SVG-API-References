@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: LengthOrAuto метод. Определяет является ли указанныйUnit  равно этому экземпляру.
+title: "LengthOrAuto.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод LengthOrAuto Equals. Определяет, равен ли указанный Unit этому экземпляру"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/lengthorauto/equals/
 ---
 ## LengthOrAuto.Equals method
 
-Определяет, является ли указанный[`Unit`](../../unit/) , равно этому экземпляру.
+Определяет, равна ли указанная [`Unit`](../../unit/) этому экземпляру.
 
 ```csharp
 public override bool Equals(Unit other)
@@ -20,13 +20,11 @@ public override bool Equals(Unit other)
 
 ### Возвращаемое значение
 
-`истинный` если указанный[`Unit`](../../unit/) равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true`, если указанная [`Unit`](../../unit/) равна этому экземпляру; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Unit](../../unit/)
 * class [LengthOrAuto](../)
-* пространство имен [Aspose.Svg.Drawing](../../lengthorauto/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

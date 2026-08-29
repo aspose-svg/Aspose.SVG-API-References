@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Quotes
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства quotes в CSS2.
+title: "ICSS2Properties.Quotes"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Quotes интерфейса ICSS2Properties. См. определение свойства quotes в CSS2"
 type: docs
-weight: 960
+weight: 990
 url: /ru/net/aspose.svg.dom.css/icss2properties/quotes/
 ---
 ## ICSS2Properties.Quotes property
 
-См. определение свойства quotes в CSS2.
+Смотрите определение свойства quotes в CSS2.
 
 ```csharp
 public string Quotes { get; set; }
@@ -16,12 +16,10 @@ public string Quotes { get; set; }
 
 ### Возвращаемое значение
 
-кавычки свойство
+свойство quotes
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: UnitType.Ch
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение относительно ширины 0 ноль.
+title: "UnitType.Ch"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Ch. Измерение относительно ширины цифры 0."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/unittype/ch/
 ---
 ## UnitType.Ch field
 
-Измерение относительно ширины "0" (ноль).
+Измерение относительно ширины символа "0" (ноль).
 
 ```csharp
 public static readonly UnitType Ch;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

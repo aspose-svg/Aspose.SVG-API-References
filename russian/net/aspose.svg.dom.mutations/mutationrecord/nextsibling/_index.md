@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.NextSibling
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationRecord свойство. Возвращает следующего родственного узла добавленных или удаленных узлов или null.
+title: "MutationRecord.NextSibling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MutationRecord NextSibling. Возвращает следующего соседа добавленных или удалённых узлов или null"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/nextsibling/
 ---
 ## MutationRecord.NextSibling property
 
-Возвращает следующего родственного узла добавленных или удаленных узлов или null.
+Верните следующий соседний узел добавленных или удалённых узлов, либо null.
 
 ```csharp
 public Node NextSibling { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Следующий брат.
+Следующий сосед.
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

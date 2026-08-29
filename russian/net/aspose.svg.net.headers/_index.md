@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.Headers
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.Заголовки предоставляет несколько классов данных для  описывающих содержимое заголовка в сети.
+title: "Aspose.Svg.Net.Headers"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Net.Headers предоставляет несколько классов данных для описания содержимого заголовков в сетевых взаимодействиях."
 type: docs
-weight: 200
+weight: 220
 url: /ru/net/aspose.svg.net.headers/
 ---
-**Aspose.Svg.Net.Заголовки** предоставляет несколько классов данных для , описывающих содержимое заголовка в сети.
+Пространство имён **Aspose.Svg.Net.Headers** предоставляет несколько классов данных для описания содержимого заголовков в сетевых взаимодействиях.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [ContentDispositionHeaderValue](./contentdispositionheadervalue/) | Представляет значение заголовка Content-Disposition. |
 | [ContentTypeHeaderValue](./contenttypeheadervalue/) | Представляет значение заголовка Content-Type. |
 | [NameValueHeaderValue](./namevalueheadervalue/) | Представляет пару имя/значение, описывающую значение заголовка. |
-
-

@@ -1,23 +1,21 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGradientElement поле. Тип не является одним из предопределенных типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
+title: "SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGGradientElement SVG_SPREADMETHOD_UNKNOWN. Тип не является одним из предопределённых типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg/svggradientelement/svg_spreadmethod_unknown/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_UNKNOWN field
 
-Тип не является одним из предопределенных типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
+Тип не является одним из предопределённых типов. Недопустимо пытаться определить новое значение этого типа или попытаться переключить существующее значение на этот тип.
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_UNKNOWN;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGGradientElement](../)
-* пространство имен [Aspose.Svg](../../svggradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

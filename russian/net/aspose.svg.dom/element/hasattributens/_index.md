@@ -1,14 +1,14 @@
 ---
-title: Element.HasAttributeNS
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Возвращает значение true если атрибут с заданным локальным именем и URI пространства имен указан в этом элементе или имеет значение по умолчанию в противном случае  значение false.
+title: "Element.HasAttributeNS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element HasAttributeNS. Возвращает true, если на этом элементе указан атрибут с заданным локальным именем и URI пространства имён или имеет значение по умолчанию, иначе false."
 type: docs
 weight: 320
 url: /ru/net/aspose.svg.dom/element/hasattributens/
 ---
 ## Element.HasAttributeNS method
 
-Возвращает значение true, если атрибут с заданным локальным именем и URI пространства имен указан в этом элементе или имеет значение по умолчанию, в противном случае — значение false.
+Возвращает true, когда атрибут с заданным локальным именем и URI пространства имён указан на этом элементе или имеет значение по умолчанию, иначе возвращает false.
 
 ```csharp
 public bool HasAttributeNS(string namespaceURI, string localName)
@@ -16,17 +16,15 @@ public bool HasAttributeNS(string namespaceURI, string localName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
-| localName | String | Имя местного. |
+| namespaceURI | String | URI пространства имён. |
+| localName | String | Локальное имя. |
 
 ### Возвращаемое значение
 
-`истинный` если [имеет атрибут NS] [указанный URI пространства имен]; в противном случае,`ЛОЖЬ` .
+`true` если [has attribute NS] [the specified namespace URI]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

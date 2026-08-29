@@ -1,38 +1,36 @@
 ---
-title: Interface ICSSKeyframesRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.ICSSKeyframesRule интерфейс. Интерфейс CSSKeyframesRule представляет полный набор ключевых кадров для одной анимации
+title: "Интерфейс ICSSKeyframesRule"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.ICSSKeyframesRule интерфейс. Интерфейс CSSKeyframesRule представляет полный набор ключевых кадров для одной анимации."
 type: docs
-weight: 580
+weight: 2580
 url: /ru/net/aspose.svg.dom.css/icsskeyframesrule/
 ---
 ## ICSSKeyframesRule interface
 
-Интерфейс CSSKeyframesRule представляет полный набор ключевых кадров для одной анимации
+Интерфейс CSSKeyframesRule представляет полный набор ключевых кадров для одной анимации.
 
 ```csharp
 public interface ICSSKeyframesRule : ICSSRule
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [CSSRules](../../aspose.svg.dom.css/icsskeyframesrule/cssrules/) { get; } | Этот атрибут дает доступ к ключевым кадрам в списке |
-| [Name](../../aspose.svg.dom.css/icsskeyframesrule/name/) { get; } | Этот атрибут является именем ключевых кадров, используемых свойством 'имя-анимации'. |
+| [CSSRules](../../aspose.svg.dom.css/icsskeyframesrule/cssrules/) { get; } | Этот атрибут предоставляет доступ к ключевым кадрам в списке. |
+| [Name](../../aspose.svg.dom.css/icsskeyframesrule/name/) { get; } | Этот атрибут является именем ключевых кадров, используемым свойством ‘animation-name’. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AppendRule](../../aspose.svg.dom.css/icsskeyframesrule/appendrule/)(string) | Метод appendRule добавляет переданное CSSKeyframeRule в список по переданному ключу key |
-| [DeleteRule](../../aspose.svg.dom.css/icsskeyframesrule/deleterule/)(string) | Метод deleteRule удаляет CSSKeyframeRule с переданным ключом. Если правила с этим ключом не существует, метод ничего не делает |
-| [FindRule](../../aspose.svg.dom.css/icsskeyframesrule/findrule/)(string) | Метод findRule возвращает правило с ключом, совпадающим с переданным ключом. Если такого правила не существует, возвращается нулевое значение |
+| [AppendRule](../../aspose.svg.dom.css/icsskeyframesrule/appendrule/)(*string*) | Метод appendRule добавляет переданный CSSKeyframeRule в список по переданному ключу. |
+| [DeleteRule](../../aspose.svg.dom.css/icsskeyframesrule/deleterule/)(*string*) | Метод deleteRule удаляет CSSKeyframeRule с переданным ключом. Если правило с этим ключом не существует, метод ничего не делает. |
+| [FindRule](../../aspose.svg.dom.css/icsskeyframesrule/findrule/)(*string*) | Метод findRule возвращает правило с ключом, совпадающим с переданным ключом. Если такого правила нет, возвращается значение null. |
 
-### Смотрите также
+### См. также
 
 * interface [ICSSRule](../icssrule/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

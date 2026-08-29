@@ -1,28 +1,26 @@
 ---
-title: ICSSKeyframesRule.CSSRules
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSKeyframesRule свойство. Этот атрибут дает доступ к ключевым кадрам в списке
+title: "ICSSKeyframesRule.CSSRules"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ICSSKeyframesRule CSSRules. Этот атрибут предоставляет доступ к ключевым кадрам в списке."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icsskeyframesrule/cssrules/
 ---
 ## ICSSKeyframesRule.CSSRules property
 
-Этот атрибут дает доступ к ключевым кадрам в списке
+Этот атрибут предоставляет доступ к ключевым кадрам в списке.
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правила CSS.
+CSS‑правила.
 
-### Смотрите также
+### См. также
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSKeyframesRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

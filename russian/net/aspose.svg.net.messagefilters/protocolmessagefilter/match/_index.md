@@ -1,14 +1,14 @@
 ---
-title: ProtocolMessageFilter.Match
-second_title: Справочник по Aspose.SVG для .NET API
-description: ProtocolMessageFilter метод. При переопределении в производном классе проверяет удовлетворяет ли контекст критериям фильтра.
+title: "ProtocolMessageFilter.Match"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ProtocolMessageFilter Match. При переопределении в производном классе проверяет, удовлетворяет ли Context критериям фильтра"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net.messagefilters/protocolmessagefilter/match/
 ---
 ## ProtocolMessageFilter.Match method
 
-При переопределении в производном классе проверяет, удовлетворяет ли контекст критериям фильтра.
+При переопределении в производном классе проверяет, удовлетворяет ли Context критериям фильтра.
 
 ```csharp
 public override bool Match(INetworkOperationContext context)
@@ -20,13 +20,11 @@ public override bool Match(INetworkOperationContext context)
 
 ### Возвращаемое значение
 
-истинный если объект Context удовлетворяет критериям фильтра; в противном случае,ЛОЖЬ .
+true, если объект Context удовлетворяет критериям фильтра; иначе — false.
 
-### Смотрите также
+### См. также
 
 * interface [INetworkOperationContext](../../../aspose.svg.net/inetworkoperationcontext/)
 * class [ProtocolMessageFilter](../)
-* пространство имен [Aspose.Svg.Net.MessageFilters](../../protocolmessagefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../../)

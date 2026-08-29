@@ -1,14 +1,14 @@
 ---
-title: Device2.BeginDocument
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Начинает визуализацию документа.
+title: "Device-2.BeginDocument"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Device BeginDocument. Начинает отрисовку документа."
 type: docs
-weight: 40
+weight: 70
 url: /ru/net/aspose.svg.rendering/device-2/begindocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginDocument method
+## Device<TGraphicContext,TRenderingOptions>.BeginDocument method
 
-Начинает визуализацию документа.
+Начинает отрисовку документа.
 
 ```csharp
 public virtual void BeginDocument(Document document)
@@ -16,13 +16,11 @@ public virtual void BeginDocument(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ. |
+| документ | Документ | Документ. |
 
-### Смотрите также
+### См. также
 
 * class [Document](../../../aspose.svg.dom/document/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Page.Size
-second_title: Справочник по Aspose.SVG для .NET API
-description: Page свойство. Получает или задает размер страницы.
+title: "Page.Size"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Page Size. Получает или задает размер страницы"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/page/size/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.drawing/page/size/
 public Size Size { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер.
 
-### Смотрите также
+### См. также
 
 * class [Size](../../size/)
 * class [Page](../)
-* пространство имен [Aspose.Svg.Drawing](../../page/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

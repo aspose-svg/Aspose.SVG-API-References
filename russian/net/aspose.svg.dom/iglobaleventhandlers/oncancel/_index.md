@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnCancel
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnCancel.
+title: "IGlobalEventHandlers.OnCancel"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnCancel. Получает или задает обработчик события для OnCancel"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/oncancel/
 ---
 ## IGlobalEventHandlers.OnCancel event
 
-Получает или задает обработчик события OnCancel.
+Получает или задаёт обработчик события OnCancel.
 
 ```csharp
 public event DOMEventHandler OnCancel;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

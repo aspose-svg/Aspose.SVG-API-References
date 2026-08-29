@@ -1,28 +1,26 @@
 ---
-title: SVGFEDisplacementMapElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDisplacementMapElement свойство. Соответствует атрибуту y данного элемента filter.
+title: "SVGFEDisplacementMapElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEDisplacementMapElement Y. Соответствует атрибуту y в данном элементе filter."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.filters/svgfedisplacementmapelement/y/
 ---
 ## SVGFEDisplacementMapElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'filter'.
+Соответствует атрибуту ‘y’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента 'filter'.
+Атрибут ‘y’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDisplacementMapElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfedisplacementmapelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

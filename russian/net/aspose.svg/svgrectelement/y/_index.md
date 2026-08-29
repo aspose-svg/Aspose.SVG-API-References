@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRectElement свойство. Соответствует атрибуту y данного элемента rect.
+title: "SVGRectElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y SVGRectElement. Соответствует атрибуту y в данном элементе rect"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgrectelement/y/
 ---
 ## SVGRectElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'rect'.
+Соответствует атрибуту ‘y’ в данном элементе ‘rect’
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента 'rect'.
+Атрибут ‘y’ данного элемента ‘rect’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* пространство имен [Aspose.Svg](../../svgrectelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

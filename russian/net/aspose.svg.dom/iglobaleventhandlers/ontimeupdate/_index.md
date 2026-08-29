@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnTimeUpdate
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnTimeUpdate.
+title: "IGlobalEventHandlers.OnTimeUpdate"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IGlobalEventHandlers событие OnTimeUpdate. Получает или задает обработчик события для события OnTimeUpdate"
 type: docs
 weight: 470
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/ontimeupdate/
 ---
 ## IGlobalEventHandlers.OnTimeUpdate event
 
-Получает или задает обработчик события OnTimeUpdate.
+Получает или задает обработчик события для события OnTimeUpdate.
 
 ```csharp
 public event DOMEventHandler OnTimeUpdate;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

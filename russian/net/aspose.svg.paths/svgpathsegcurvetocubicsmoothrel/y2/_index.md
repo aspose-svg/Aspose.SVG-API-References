@@ -1,20 +1,20 @@
 ---
-title: SVGPathSegCurvetoCubicSmoothRel.Y2
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegCurvetoCubicSmoothRel свойство. Относительная координата Y для второй контрольной точки.
+title: "SVGPathSegCurvetoCubicSmoothRel.Y2"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPathSegCurvetoCubicSmoothRel Y2 свойство. Относительная координата Y для второй управляющей точки"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/
 ---
 ## SVGPathSegCurvetoCubicSmoothRel.Y2 property
 
-Относительная координата Y для второй контрольной точки.
+Относительная координата Y второй контрольной точки.
 
 ```csharp
 public float Y2 { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Относительная координата Y.
 
@@ -22,12 +22,10 @@ public float Y2 { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoCubicSmoothRel](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegcurvetocubicsmoothrel/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

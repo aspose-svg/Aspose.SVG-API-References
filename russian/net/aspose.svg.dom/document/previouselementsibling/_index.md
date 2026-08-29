@@ -1,24 +1,22 @@
 ---
-title: Document.PreviousElementSibling
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Возвращает предыдущий узел родственного элемента этого элемента. null если этот элемент не имеет родственных узлов предшествующих ему в дереве документа.
+title: "Document.PreviousElementSibling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document PreviousElementSibling. Возвращает узел предыдущего соседнего элемента данного элемента. null, если у этого элемента нет соседних элементных узлов, предшествующих ему в дереве документа"
 type: docs
 weight: 220
 url: /ru/net/aspose.svg.dom/document/previouselementsibling/
 ---
 ## Document.PreviousElementSibling property
 
-Возвращает предыдущий узел родственного элемента этого элемента. null, если этот элемент не имеет родственных узлов, предшествующих ему в дереве документа.
+Возвращает предыдущий соседний элементный узел этого элемента. null, если у этого элемента нет соседних элементных узлов, идущих перед ним в дереве документа.
 
 ```csharp
 public Element PreviousElementSibling { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Element](../../element/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface ICreateStreamProvider
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.IO.ICreateStreamProvider интерфейс. Представляет интерфейс который может быть реализован классами передающими потоки на устройства рендеринга.
+title: "Интерфейс ICreateStreamProvider"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.IO.ICreateStreamProvider. Представляет интерфейс, который может быть реализован классами, предоставляющими потоки устройствам рендеринга"
 type: docs
-weight: 1930
+weight: 4040
 url: /ru/net/aspose.svg.io/icreatestreamprovider/
 ---
 ## ICreateStreamProvider interface
 
-Представляет интерфейс, который может быть реализован классами, передающими потоки на устройства рендеринга.
+Представляет интерфейс, который может быть реализован классами, предоставляющими потоки устройствам рендеринга.
 
 ```csharp
 public interface ICreateStreamProvider : IDisposable
@@ -18,13 +18,11 @@ public interface ICreateStreamProvider : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream/#getstream)(string, string) | Предоставляет поток для рендеринга. |
-| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream/#getstream_1)(string, string, int) | Предоставляет поток для рендеринга. |
-| [ReleaseStream](../../aspose.svg.io/icreatestreamprovider/releasestream/)(Stream) | Освобождает поток. |
+| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream/#getstream)(*string, string*) | Предоставляет поток для рендеринга. |
+| [GetStream](../../aspose.svg.io/icreatestreamprovider/getstream/#getstream_1)(*string, string, int*) | Предоставляет поток для рендеринга. |
+| [ReleaseStream](../../aspose.svg.io/icreatestreamprovider/releasestream/)(*Stream*) | Освобождает поток. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.IO](../../aspose.svg.io/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

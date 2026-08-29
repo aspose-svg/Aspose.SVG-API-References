@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.TextDecoration
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства textdecoration в CSS2.
+title: "ICSS2Properties.TextDecoration"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство TextDecoration в ICSS2Properties. См. определение свойства text-decoration в CSS2"
 type: docs
-weight: 1080
+weight: 1110
 url: /ru/net/aspose.svg.dom.css/icss2properties/textdecoration/
 ---
 ## ICSS2Properties.TextDecoration property
 
-См. определение свойства text-decoration в CSS2.
+Смотрите определение свойства text-decoration в CSS2.
 
 ```csharp
 public string TextDecoration { get; set; }
@@ -16,12 +16,10 @@ public string TextDecoration { get; set; }
 
 ### Возвращаемое значение
 
-свойство оформления текста
+свойство text-decoration
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

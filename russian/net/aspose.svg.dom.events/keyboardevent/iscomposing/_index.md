@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.IsComposing
-second_title: Справочник по Aspose.SVG для .NET API
-description: KeyboardEvent свойство. true если ключевое событие происходит как часть сеанса композиции т. е. после события начало композиции и перед соответствующим событием конец композиции. Неинициализированное значение этого атрибута ДОЛЖНО быть ложным.
+title: "KeyboardEvent.IsComposing"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство KeyboardEvent IsComposing. true, если событие клавиши происходит в рамках сессии композиции, то есть после события compositionstart и до соответствующего события compositionend. Неинициализированное значение этого атрибута ДОЛЖНО быть false."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.events/keyboardevent/iscomposing/
 ---
 ## KeyboardEvent.IsComposing property
 
-true, если ключевое событие происходит как часть сеанса композиции, т. е. после события «начало композиции» и перед соответствующим событием «конец композиции». Неинициализированное значение этого атрибута ДОЛЖНО быть ложным.
+true, если событие клавиши происходит в рамках сессии композиции, то есть после события compositionstart и до соответствующего события compositionend. Неинициализированное значение этого атрибута ДОЛЖНО быть false.
 
 ```csharp
 public bool IsComposing { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр составляет; в противном случае,`ЛОЖЬ` .
+`true`, если данный экземпляр находится в процессе композиции; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [KeyboardEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

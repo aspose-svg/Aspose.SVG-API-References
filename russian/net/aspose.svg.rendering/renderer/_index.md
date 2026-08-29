@@ -1,14 +1,14 @@
 ---
-title: Class Renderer
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.Renderer сорт. Представляет базовый класс для всех средств визуализации и реализации интерфейса IDisposable.
+title: "Renderer класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Rendering.Renderer класс. Представляет базовый класс для всех рендереров и реализует интерфейс IDisposable."
 type: docs
-weight: 2990
+weight: 5060
 url: /ru/net/aspose.svg.rendering/renderer/
 ---
 ## Renderer class
 
-Представляет базовый класс для всех средств визуализации и реализации интерфейса IDisposable.
+Представляет базовый класс для всех рендереров и реализует интерфейс IDisposable.
 
 ```csharp
 public class Renderer : IDisposable
@@ -24,11 +24,9 @@ public class Renderer : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

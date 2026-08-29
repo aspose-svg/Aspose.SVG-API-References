@@ -1,7 +1,7 @@
 ---
-title: ResponseHeaders.ContentType
-second_title: Справочник по Aspose.SVG для .NET API
-description: ResponseHeaders свойство. Получает значение заголовка ContentType.
+title: "ResponseHeaders.ContentType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ContentType класса ResponseHeaders. Возвращает значение заголовка Content-Type."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net/responseheaders/contenttype/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.net/responseheaders/contenttype/
 public ContentTypeHeaderValue ContentType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип содержимого.
 
-### Смотрите также
+### См. также
 
 * class [ContentTypeHeaderValue](../../../aspose.svg.net.headers/contenttypeheadervalue/)
 * class [ResponseHeaders](../)
-* пространство имен [Aspose.Svg.Net](../../responseheaders/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

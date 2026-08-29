@@ -1,14 +1,14 @@
 ---
-title: NameValueHeaderValue.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: NameValueHeaderValue метод. ВозвращаетString который представляет этот экземпляр.
+title: "NameValueHeaderValue.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ToString класса NameValueHeaderValue. Возвращает строку, представляющую этот экземпляр"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.net.headers/namevalueheadervalue/tostring/
 ---
 ## NameValueHeaderValue.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [NameValueHeaderValue](../)
-* пространство имен [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_HZ
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой частоту Гц. Значение можно получить с помощью метода getFloatValue.
+title: "CSSPrimitiveValue.CSS_HZ"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле CSS_HZ класса CSSPrimitiveValue. Значение — частота в герцах (Hz). Значение можно получить, используя метод getFloatValue."
 type: docs
-weight: 230
+weight: 240
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_hz/
 ---
 ## CSSPrimitiveValue.CSS_HZ field
 
-Значение представляет собой частоту (Гц). Значение можно получить с помощью метода getFloatValue.
+Значение — частота (Hz). Значение можно получить с помощью метода getFloatValue.
 
 ```csharp
 public const ushort CSS_HZ;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

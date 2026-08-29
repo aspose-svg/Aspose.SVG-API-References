@@ -1,28 +1,26 @@
 ---
-title: SVGFEMergeNodeElement.In1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEMergeNodeElement свойство. Соответствует атрибуту in данного элемента feMergeNode.
+title: "SVGFEMergeNodeElement.In1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство In1 элемента SVGFEMergeNodeElement. Соответствует атрибуту in в данном элементе feMergeNode"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.filters/svgfemergenodeelement/in1/
 ---
 ## SVGFEMergeNodeElement.In1 property
 
-Соответствует атрибуту "in" данного элемента "feMergeNode".
+Соответствует атрибуту ‘in’ в данном элементе ‘feMergeNode’.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'in' данного элемента 'feMergeNode'.
+Атрибут ‘in’ данного элемента ‘feMergeNode’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEMergeNodeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfemergenodeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

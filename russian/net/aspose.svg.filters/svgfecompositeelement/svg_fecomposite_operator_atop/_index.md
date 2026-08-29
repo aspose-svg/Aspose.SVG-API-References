@@ -1,23 +1,21 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ATOP
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFECompositeElement поле. Соответствует значению поверх.
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ATOP"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FECOMPOSITE_OPERATOR_ATOP SVGFECompositeElement. Соответствует значению atop"
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_atop/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ATOP field
 
-Соответствует значению "поверх".
+Соответствует значению 'atop'.
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_ATOP;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFECompositeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

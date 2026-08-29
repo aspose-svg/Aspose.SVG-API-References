@@ -1,28 +1,26 @@
 ---
-title: Margin.Left
-second_title: Справочник по Aspose.SVG для .NET API
-description: Margin свойство. Получает или задает значение слева.
+title: "Margin.Left"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Margin Left. Получает или задает левое значение"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/margin/left/
 ---
 ## Margin.Left property
 
-Получает или задает значение слева.
+Получает или задает левый отступ.
 
 ```csharp
 public LengthOrAuto Left { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Левый.
+Левая часть.
 
-### Смотрите также
+### См. также
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* пространство имен [Aspose.Svg.Drawing](../../margin/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

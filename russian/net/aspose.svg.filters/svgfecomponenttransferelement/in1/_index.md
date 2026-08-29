@@ -1,28 +1,26 @@
 ---
-title: SVGFEComponentTransferElement.In1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEComponentTransferElement свойство. Соответствует атрибуту in данного элемента feComponentTransfer.
+title: "SVGFEComponentTransferElement.In1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство In1 элемента SVGFEComponentTransferElement. Соответствует атрибуту in в данном элементе feComponentTransfer"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfecomponenttransferelement/in1/
 ---
 ## SVGFEComponentTransferElement.In1 property
 
-Соответствует атрибуту 'in' данного элемента 'feComponentTransfer'.
+Соответствует атрибуту ‘in’ в данном элементе ‘feComponentTransfer’.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'in' данного элемента 'feComponentTransfer'.
+Атрибут ‘in’ данного элемента ‘feComponentTransfer’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEComponentTransferElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecomponenttransferelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

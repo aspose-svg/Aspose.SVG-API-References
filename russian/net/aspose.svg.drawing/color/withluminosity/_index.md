@@ -1,14 +1,14 @@
 ---
-title: Color.WithLuminosity
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Создает копию цвета с указанной яркостью.
+title: "Color.WithLuminosity"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color WithLuminosity. Создаёт копию объекта Color с указанной яркостью"
 type: docs
 weight: 470
 url: /ru/net/aspose.svg.drawing/color/withluminosity/
 ---
 ## Color.WithLuminosity method
 
-Создает копию цвета с указанной яркостью.
+Создаёт копию цвета Color с указанной luminosity.
 
 ```csharp
 public Color WithLuminosity(float luminosity)
@@ -16,16 +16,14 @@ public Color WithLuminosity(float luminosity)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| luminosity | Single | Значение светимости |
+| яркость | Single | Значение яркости |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт.
+Новый экземпляр класса [`Color`](../).
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

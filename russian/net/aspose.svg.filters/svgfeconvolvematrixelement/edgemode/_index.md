@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.EdgeMode
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEConvolveMatrixElement свойство. Соответствует атрибуту edgeMode данного элемента feConvolveMatrix.
+title: "SVGFEConvolveMatrixElement.EdgeMode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство EdgeMode элемента SVGFEConvolveMatrixElement. Соответствует атрибуту edgeMode в данном элементе feConvolveMatrix"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/edgemode/
 ---
 ## SVGFEConvolveMatrixElement.EdgeMode property
 
-Соответствует атрибуту "edgeMode" данного элемента "feConvolveMatrix".
+Соответствует атрибуту ‘edgeMode’ в данном элементе ‘feConvolveMatrix’.
 
 ```csharp
 public SVGAnimatedEnumeration EdgeMode { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут edgeMode данного элемента feConvolveMatrix.
+Атрибут ‘edgeMode’ данного элемента ‘feConvolveMatrix’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEConvolveMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

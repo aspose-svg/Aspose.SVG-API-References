@@ -1,23 +1,21 @@
 ---
-title: ImageVectorizerConfiguration.ImageVectorizerConfiguration
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageVectorizerConfiguration строитель. Инициализирует новый экземплярImageVectorizerConfiguration класс.
+title: "ImageVectorizerConfiguration"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ImageVectorizerConfiguration. Инициализирует новый экземпляр класса ImageVectorizerConfiguration."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/imagevectorizerconfiguration/
 ---
 ## ImageVectorizerConfiguration constructor
 
-Инициализирует новый экземпляр[`ImageVectorizerConfiguration`](../) класс.
+Инициализирует новый экземпляр класса [`ImageVectorizerConfiguration`](../).
 
 ```csharp
 public ImageVectorizerConfiguration()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageVectorizerConfiguration](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

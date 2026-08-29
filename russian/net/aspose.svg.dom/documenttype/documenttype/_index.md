@@ -1,14 +1,14 @@
 ---
-title: DocumentType.DocumentType
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentType строитель. Инициализирует новый экземплярDocumentType класс.
+title: "DocumentType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DocumentType. Инициализирует новый экземпляр класса DocumentType"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
 
-Инициализирует новый экземпляр[`DocumentType`](../) класс.
+Инициализирует новый экземпляр класса [`DocumentType`](../).
 
 ```csharp
 public DocumentType(string name, string publicId, string systemId, string internalSubset, 
@@ -19,15 +19,13 @@ public DocumentType(string name, string publicId, string systemId, string intern
 | --- | --- | --- |
 | name | String | Имя сущности. |
 | publicId | String | Публичный идентификатор. |
-| systemId | String | Идентификатор системы. |
+| systemId | String | Системный идентификатор. |
 | internalSubset | String | Внутреннее подмножество. |
-| doc | Document | Документ. |
+| док | Документ | Документ. |
 
-### Смотрите также
+### См. также
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* пространство имен [Aspose.Svg.Dom](../../documenttype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

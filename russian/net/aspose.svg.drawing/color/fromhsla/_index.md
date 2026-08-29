@@ -1,14 +1,14 @@
 ---
-title: Color.FromHsla
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает новый цвет с запрошенными значениями оттенка насыщенности насыщенности альфаканала.
+title: "Color.FromHsla"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromHsla. Возвращает новый Color с запрошенными значениями оттенка, насыщенности и альфа."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.drawing/color/fromhsla/
 ---
 ## Color.FromHsla method
 
-Возвращает новый цвет с запрошенными значениями оттенка, насыщенности, насыщенности, альфа-канала.
+Возвращает новый Color с запрошенными значениями hue, saturation, saturation, alpha.
 
 ```csharp
 public static Color FromHsla(float hue, float saturation, float lightness, float alpha)
@@ -16,19 +16,17 @@ public static Color FromHsla(float hue, float saturation, float lightness, float
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hue | Single | Поплавок, представляющий компонент оттенка цвета. |
-| saturation | Single | Поплавок, представляющий компонент насыщенности цвета. |
-| lightness | Single | Поплавок, представляющий компонент яркости цвета. |
-| alpha | Single | Поплавок, представляющий альфа-компонент цвета. |
+| hue | Single | Число с плавающей запятой, представляющее компонент тона цвета. |
+| saturation | Single | Число с плавающей точкой, представляющее компонент насыщенности цвета. |
+| светлота | Single | Число с плавающей запятой, представляющее компонент светлоты цвета. |
+| альфа | Single | Число с плавающей запятой, представляющее альфа‑компонент цвета. |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class Page
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.Page сорт. Представляет объект страницы используемый для страницы вывода конфигурации. Значение пробела для размера страницы A4 210x297 мм
+title: "Класс Page"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Drawing.Page. Представляет объект страницы, используемый для конфигурации выходной страницы. Значение лакуны для размера страницы — A4210x297mm"
 type: docs
-weight: 1560
+weight: 3590
 url: /ru/net/aspose.svg.drawing/page/
 ---
 ## Page class
 
-Представляет объект страницы, используемый для страницы вывода конфигурации. Значение пробела для размера страницы: A4 (210x297 мм)
+Представляет объект страницы, используемый для конфигурации выводимой страницы. Значение по умолчанию для размера страницы — A4 (210x297 мм).
 
 ```csharp
 public class Page
@@ -18,21 +18,19 @@ public class Page
 
 | Имя | Описание |
 | --- | --- |
-| [Page](page/#constructor)() | Инициализирует новый экземпляр`Page` класс. |
-| [Page](page/#constructor_1)(Margin) | Инициализирует новый экземпляр`Page` класс. |
-| [Page](page/#constructor_2)(Size) | Инициализирует новый экземпляр`Page` класс. |
-| [Page](page/#constructor_3)(Size, Margin) | Инициализирует новый экземпляр`Page` класс. |
+| [Page](page/#constructor)() | Инициализирует новый экземпляр класса `Page`. |
+| [Page](page/#constructor_1)(*[Margin](../margin/)*) | Инициализирует новый экземпляр класса `Page`. |
+| [Page](page/#constructor_2)(*[Size](../size/)*) | Инициализирует новый экземпляр класса `Page`. |
+| [Page](page/#constructor_3)(*[Size](../size/), [Margin](../margin/)*) | Инициализирует новый экземпляр класса `Page`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Margin](../../aspose.svg.drawing/page/margin/) { get; set; } | Получает или задает поля страницы. |
+| [Margin](../../aspose.svg.drawing/page/margin/) { get; set; } | Получает или задает отступ страницы. |
 | [Size](../../aspose.svg.drawing/page/size/) { get; set; } | Получает или задает размер страницы. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: Class MimeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.MimeType сорт. Представляет типы интернетмедиа
+title: "MimeType Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.MimeType class. Представляет типы интернет-медиа."
 type: docs
-weight: 2210
+weight: 4280
 url: /ru/net/aspose.svg/mimetype/
 ---
 ## MimeType class
 
-Представляет типы интернет-медиа
+Представляет типы медиа в интернете.
 
 ```csharp
 public class MimeType : IEquatable<MimeType>
@@ -18,31 +18,29 @@ public class MimeType : IEquatable<MimeType>
 
 | Имя | Описание |
 | --- | --- |
-| [MimeType](mimetype/)(string) | Инициализирует новый экземпляр типа MIME на основе сериализованного строкового значения. |
+| [MimeType](mimetype/)(*string*) | Инициализирует новый экземпляр типа MIME на основе сериализованного строкового значения. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [SubType](../../aspose.svg/mimetype/subtype/) { get; } | Получает тип дополнительного носителя. |
-| [Type](../../aspose.svg/mimetype/type/) { get; } | Получает тип носителя. |
+| [SubType](../../aspose.svg/mimetype/subtype/) { get; } | Возвращает подтип медиа. |
+| [Type](../../aspose.svg/mimetype/type/) { get; } | Возвращает тип медиа. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension/)(string) | Создает новый тип MIME на основе расширения файла. |
-| [Equals](../../aspose.svg/mimetype/equals/#equals)(MimeType) | Указывает, равен ли текущий объект другому объекту того же типа. |
-| override [Equals](../../aspose.svg/mimetype/equals/#equals_1)(object) | Определяет, является ли указанныйObject равен текущемуObject . |
-| override [GetHashCode](../../aspose.svg/mimetype/gethashcode/)() | Возвращает хэш-код для этого экземпляра. |
-| override [ToString](../../aspose.svg/mimetype/tostring/)() | ВозвращаетString который представляет тип Mime. |
+| static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension/)(*string*) | Создаёт новый тип MIME на основе расширения файла. |
+| [Equals](../../aspose.svg/mimetype/equals/#equals)(*MimeType*) | Указывает, равен ли текущий объект другому объекту того же типа. |
+| override [Equals](../../aspose.svg/mimetype/equals/#equals_1)(*object*) | Определяет, равен ли указанный объект текущему объекту. |
+| override [GetHashCode](../../aspose.svg/mimetype/gethashcode/)() | Возвращает хеш‑код для этого экземпляра. |
+| override [ToString](../../aspose.svg/mimetype/tostring/)() | Возвращает строку, представляющую тип Mime. |
 | [operator ==](../../aspose.svg/mimetype/op_equality/) | Сравнивает два типа Mime и возвращает логическое значение, указывающее, совпадают ли они. |
-| [implicit operator](../../aspose.svg/mimetype/op_implicit/#op_implicit) | Выполняет неявное преобразование изString к`MimeType` . (2 operators) |
+| [implicit operator](../../aspose.svg/mimetype/op_implicit/#op_implicit) | Выполняет неявное преобразование из String в `MimeType`. (2 оператора) |
 | [operator !=](../../aspose.svg/mimetype/op_inequality/) | Сравнивает два типа Mime и возвращает логическое значение, указывающее, совпадают ли они. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg](../../aspose.svg/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

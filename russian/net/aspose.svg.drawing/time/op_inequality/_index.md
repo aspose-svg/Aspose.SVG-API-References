@@ -1,7 +1,7 @@
 ---
-title: Time.op_Inequality
-second_title: Справочник по Aspose.SVG для .NET API
-description: Time метод. Реализует оператор .
+title: "Time.op_Inequality"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Time op_Inequality метод. Реализует оператор"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/time/op_inequality/
@@ -16,17 +16,15 @@ public static bool operator !=(Time a, Time b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Time | Параметр а. |
-| b | Time | Параметр б. |
+| a | Time | Параметр a. |
+| b | Time | Параметр b. |
 
 ### Возвращаемое значение
 
 Результат оператора.
 
-### Смотрите также
+### См. также
 
 * class [Time](../)
-* пространство имен [Aspose.Svg.Drawing](../../time/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGRect.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRect свойство. Координата ширины прямоугольника в пользовательских единицах.
+title: "SVGRect.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Width класса SVGRect. Координата ширины прямоугольника в пользовательских единицах"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.datatypes/svgrect/width/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.svg.datatypes/svgrect/width/
 public float Width { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Координата ширины прямоугольника в пользовательских единицах.
 
@@ -22,12 +22,10 @@ public float Width { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Возникает, когда прямоугольник соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Выдается, когда прямоугольник соответствует атрибуту только для чтения или когда сам объект только для чтения. |
 
-### Смотрите также
+### См. также
 
 * class [SVGRect](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgrect/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Node.TEXT_NODE
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node поле. Текстовый узел
+title: "Node.TEXT_NODE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле Node TEXT_NODE. Текстовый узел"
 type: docs
-weight: 430
+weight: 410
 url: /ru/net/aspose.svg.dom/node/text_node/
 ---
 ## Node.TEXT_NODE field
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom/node/text_node/
 public const ushort TEXT_NODE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

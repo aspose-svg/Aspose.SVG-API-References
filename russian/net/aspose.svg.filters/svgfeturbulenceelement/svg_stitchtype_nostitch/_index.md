@@ -1,7 +1,7 @@
 ---
-title: SVGFETurbulenceElement.SVG_STITCHTYPE_NOSTITCH
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFETurbulenceElement поле. Соответствует значению noStitch.
+title: "SVGFETurbulenceElement.SVG_STITCHTYPE_NOSTITCH"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFETurbulenceElement SVG_STITCHTYPE_NOSTITCH field. Соответствует значению noStitch"
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/svg_stitchtype_nostitch/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/svg_stitchtype_nostitch/
 public const ushort SVG_STITCHTYPE_NOSTITCH;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFETurbulenceElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

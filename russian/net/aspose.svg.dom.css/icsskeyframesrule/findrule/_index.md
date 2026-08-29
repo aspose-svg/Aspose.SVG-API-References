@@ -1,14 +1,14 @@
 ---
-title: ICSSKeyframesRule.FindRule
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSKeyframesRule метод. Метод findRule возвращает правило с ключом совпадающим с переданным ключом. Если такого правила не существует возвращается нулевое значение
+title: "ICSSKeyframesRule.FindRule"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод FindRule интерфейса ICSSKeyframesRule. Метод findRule возвращает правило с ключом, совпадающим с переданным ключом. Если такого правила нет, возвращается значение null."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.css/icsskeyframesrule/findrule/
 ---
 ## ICSSKeyframesRule.FindRule method
 
-Метод findRule возвращает правило с ключом, совпадающим с переданным ключом. Если такого правила не существует, возвращается нулевое значение
+Метод findRule возвращает правило с ключом, совпадающим с переданным ключом. Если такого правила нет, возвращается значение null.
 
 ```csharp
 public ICSSKeyframeRule FindRule(string key)
@@ -16,17 +16,15 @@ public ICSSKeyframeRule FindRule(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ, описывающий правило поиска. Ключ должен разрешаться в число от 0 до 1, иначе правило игнорируется. |
+| ключ | String | Ключ, описывающий правило для поиска. Ключ должен соответствовать числу от 0 до 1, иначе правило игнорируется. |
 
 ### Возвращаемое значение
 
 Найденное правило
 
-### Смотрите также
+### См. также
 
 * interface [ICSSKeyframeRule](../../icsskeyframerule/)
 * interface [ICSSKeyframesRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

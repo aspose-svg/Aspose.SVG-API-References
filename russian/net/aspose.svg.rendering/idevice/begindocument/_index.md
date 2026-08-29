@@ -1,14 +1,14 @@
 ---
-title: IDevice.BeginDocument
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Начинает визуализацию документа.
+title: "IDevice.BeginDocument"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice BeginDocument. Начинает рендеринг документа."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering/idevice/begindocument/
 ---
 ## IDevice.BeginDocument method
 
-Начинает визуализацию документа.
+Начинает отрисовку документа.
 
 ```csharp
 public void BeginDocument(Document document)
@@ -16,13 +16,11 @@ public void BeginDocument(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ. |
+| документ | Документ | Документ. |
 
-### Смотрите также
+### См. также
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

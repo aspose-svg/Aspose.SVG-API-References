@@ -1,24 +1,22 @@
 ---
-title: ResourceHandlingOptions.PageUrlRestriction
-second_title: Справочник по Aspose.SVG для .NET API
-description: ResourceHandlingOptions свойство. Получает или задает ограничение применяемое к URLадресам обрабатываемых страниц. Значение по умолчаниюRootAndSubFolders .
+title: "ResourceHandlingOptions.PageUrlRestriction"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PageUrlRestriction класса ResourceHandlingOptions. Получает или задает ограничение, применяемое к URL обрабатываемых страниц. Значение по умолчанию — RootAndSubFolders"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/
 ---
 ## ResourceHandlingOptions.PageUrlRestriction property
 
-Получает или задает ограничение, применяемое к URL-адресам обрабатываемых страниц. Значение по умолчаниюRootAndSubFolders .
+Получает или задает ограничение, применяемое к URL обрабатываемых страниц. Значение по умолчанию — RootAndSubFolders.
 
 ```csharp
 public UrlRestriction PageUrlRestriction { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [UrlRestriction](../../urlrestriction/)
 * class [ResourceHandlingOptions](../)
-* пространство имен [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

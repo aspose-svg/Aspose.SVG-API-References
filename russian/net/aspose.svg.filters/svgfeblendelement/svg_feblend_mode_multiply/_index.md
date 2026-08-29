@@ -1,23 +1,21 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_MULTIPLY
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEBlendElement поле. Соответствует значению умножить.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_MULTIPLY"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FEBLEND_MODE_MULTIPLY класса SVGFEBlendElement. Соответствует значению multiply."
 type: docs
 weight: 190
 url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_multiply/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_MULTIPLY field
 
-Соответствует значению «умножить».
+Соответствует значению 'multiply'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_MULTIPLY;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEBlendElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeblendelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

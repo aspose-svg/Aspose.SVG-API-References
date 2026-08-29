@@ -1,28 +1,26 @@
 ---
-title: INodeIterator.ReferenceNode
-second_title: Справочник по Aspose.SVG для .NET API
-description: INodeIterator свойство. Текущий опорный узел.
+title: "INodeIterator.ReferenceNode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство INodeIterator ReferenceNode. Текущий узел ссылки"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.traversal/inodeiterator/referencenode/
 ---
 ## INodeIterator.ReferenceNode property
 
-Текущий опорный узел.
+Текущий узел‑ссылка.
 
 ```csharp
 public Node ReferenceNode { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Эталонный узел.
+Узел ссылки.
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeIterator](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

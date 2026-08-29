@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.MarginRight
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства marginright в CSS2.
+title: "ICSS2Properties.MarginRight"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MarginRight интерфейса ICSS2Properties. Смотрите определение свойства margin-right в CSS2"
 type: docs
-weight: 660
+weight: 690
 url: /ru/net/aspose.svg.dom.css/icss2properties/marginright/
 ---
 ## ICSS2Properties.MarginRight property
@@ -16,12 +16,10 @@ public string MarginRight { get; set; }
 
 ### Возвращаемое значение
 
-Значение поля справа
+Значение margin-right
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OVER
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFECompositeElement поле. Соответствует значению больше.
+title: "SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OVER"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_FECOMPOSITE_OPERATOR_OVER элемента SVGFECompositeElement. Соответствует значению over"
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_over/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_OVER field
 
-Соответствует значению «больше».
+Соответствует значению 'over'.
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_OVER;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFECompositeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegArcRel.R1
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegArcRel свойство. Радиус оси x для эллипса т.е. r1.
+title: "SVGPathSegArcRel.R1"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPathSegArcRel R1 property. Радиус по оси X для эллипса, то есть r1"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.paths/svgpathsegarcrel/r1/
 ---
 ## SVGPathSegArcRel.R1 property
 
-Радиус оси x для эллипса (т.е. r1).
+Радиус по оси x эллипса (т.е. r1).
 
 ```csharp
 public float R1 { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Радиус оси x
+Радиус по оси X
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegArcRel](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegarcrel/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

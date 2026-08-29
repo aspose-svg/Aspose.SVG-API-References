@@ -1,24 +1,22 @@
 ---
-title: Document.DefaultView
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. IDLатрибут defaultView интерфейса Document при получении должен возвращать объект WindowProxy контекста просмотра этого документа  если этот документ имеет связанный контекст просмотра или null в противном случае.
+title: "Document.DefaultView"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document DefaultView. Атрибут IDL defaultView интерфейса Document при получении должен возвращать объект WindowProxy контекста просмотра этого документа, если у документа есть связанный контекст просмотра, иначе — null."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom/document/defaultview/
 ---
 ## Document.DefaultView property
 
-IDL-атрибут defaultView интерфейса Document при получении должен возвращать объект WindowProxy контекста просмотра этого документа, , если этот документ имеет связанный контекст просмотра, или null в противном случае.
+IDL-атрибут defaultView интерфейса Document при получении должен возвращать объект WindowProxy контекста просмотра этого Document, если у этого Document есть связанный контекст просмотра, иначе null.
 
 ```csharp
 public IWindow DefaultView { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: MessageFilter.Match
-second_title: Справочник по Aspose.SVG для .NET API
-description: MessageFilter метод. При переопределении в производном классе проверяет удовлетворяет ли контекст критериям фильтра.
+title: "MessageFilter.Match"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Match класса MessageFilter. При переопределении в производном классе проверяет, удовлетворяет ли Context критериям фильтра."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/messagefilter/match/
 ---
 ## MessageFilter.Match method
 
-При переопределении в производном классе проверяет, удовлетворяет ли контекст критериям фильтра.
+При переопределении в производном классе проверяет, удовлетворяет ли Context критериям фильтра.
 
 ```csharp
 public abstract bool Match(INetworkOperationContext context)
@@ -20,13 +20,11 @@ public abstract bool Match(INetworkOperationContext context)
 
 ### Возвращаемое значение
 
-истинный если объект Context удовлетворяет критериям фильтра; в противном случае,ЛОЖЬ.
+true, если объект Context удовлетворяет критериям фильтра; иначе — false.
 
-### Смотрите также
+### См. также
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageFilter](../)
-* пространство имен [Aspose.Svg.Net](../../messagefilter/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

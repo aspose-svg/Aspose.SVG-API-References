@@ -1,7 +1,7 @@
 ---
-title: DOMNullableAttribute.DOMNullableAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMNullableAttribute строитель. Конструктор по умолчанию.
+title: "DOMNullableAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMNullableAttribute. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.attributes/domnullableattribute/domnullableattribute/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.attributes/domnullableattribute/domnullableattribute
 public DOMNullableAttribute()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMNullableAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domnullableattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

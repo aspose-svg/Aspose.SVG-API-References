@@ -1,7 +1,7 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_PERCENTAGE
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGLength поле. Было указано процентное значение.
+title: "SVGLength.SVG_LENGTHTYPE_PERCENTAGE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGLength SVG_LENGTHTYPE_PERCENTAGE. Было указано процентное значение."
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.datatypes/svglength/svg_lengthtype_percentage/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.datatypes/svglength/svg_lengthtype_percentage/
 public const ushort SVG_LENGTHTYPE_PERCENTAGE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGLength](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svglength/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

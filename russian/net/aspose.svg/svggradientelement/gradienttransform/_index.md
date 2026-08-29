@@ -1,28 +1,26 @@
 ---
-title: SVGGradientElement.GradientTransform
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGradientElement свойство. Соответствует атрибуту gradientTransform данного элемента.
+title: "SVGGradientElement.GradientTransform"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGGradientElement GradientTransform. Соответствует атрибуту gradientTransform на данном элементе."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svggradientelement/gradienttransform/
 ---
 ## SVGGradientElement.GradientTransform property
 
-Соответствует атрибуту 'gradientTransform' данного элемента.
+Соответствует атрибуту ‘gradientTransform’ в данном элементе.
 
 ```csharp
 public SVGAnimatedTransformList GradientTransform { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'gradientTransform' данного элемента.
+Атрибут ‘gradientTransform’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGGradientElement](../)
-* пространство имен [Aspose.Svg](../../svggradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_IDENT
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение является идентификатором. Значение можно получить с помощью метода getStringValue.
+title: "CSSPrimitiveValue.CSS_IDENT"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue CSS_IDENT поле. Значение представляет собой идентификатор. Значение можно получить, используя метод getStringValue."
 type: docs
-weight: 240
+weight: 250
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_ident/
 ---
 ## CSSPrimitiveValue.CSS_IDENT field
 
-Значение является идентификатором. Значение можно получить с помощью метода getStringValue.
+Значение — идентификатор. Значение можно получить с помощью метода getStringValue.
 
 ```csharp
 public const ushort CSS_IDENT;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

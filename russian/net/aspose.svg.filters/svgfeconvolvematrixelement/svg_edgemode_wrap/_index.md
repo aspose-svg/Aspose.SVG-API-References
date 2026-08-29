@@ -1,23 +1,21 @@
 ---
-title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEConvolveMatrixElement поле. Соответствует значению обтекание.
+title: "SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVG_EDGEMODE_WRAP элемента SVGFEConvolveMatrixElement. Соответствует значению wrap"
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_wrap/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP field
 
-Соответствует значению "обтекание".
+Соответствует значению 'wrap'.
 
 ```csharp
 public const ushort SVG_EDGEMODE_WRAP;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEConvolveMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

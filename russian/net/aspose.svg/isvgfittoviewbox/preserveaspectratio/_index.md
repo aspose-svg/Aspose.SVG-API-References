@@ -1,28 +1,26 @@
 ---
-title: ISVGFitToViewBox.PreserveAspectRatio
-second_title: Справочник по Aspose.SVG для .NET API
-description: ISVGFitToViewBox свойство. Соответствует атрибуту preserveAspectRatio данного элемента.
+title: "ISVGFitToViewBox.PreserveAspectRatio"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PreserveAspectRatio интерфейса ISVGFitToViewBox. Соответствует атрибуту preserveAspectRatio указанного элемента"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/isvgfittoviewbox/preserveaspectratio/
 ---
 ## ISVGFitToViewBox.PreserveAspectRatio property
 
-Соответствует атрибуту preserveAspectRatio данного элемента.
+Соответствует атрибуту ‘preserveAspectRatio’ заданного элемента.
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-'preserveAspectRatio' данного элемента.
+‘preserveAspectRatio’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * interface [ISVGFitToViewBox](../)
-* пространство имен [Aspose.Svg](../../isvgfittoviewbox/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ErrorEvent.ErrorEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: ErrorEvent строитель. Инициализирует новый экземплярErrorEvent класс.
+title: "ErrorEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ErrorEvent. Инициализирует новый экземпляр класса ErrorEvent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent(Exception) {#constructor_1}
+## ErrorEvent(*Exception*) {#constructor_1}
 
-Инициализирует новый экземпляр[`ErrorEvent`](../) класс.
+Инициализирует новый экземпляр класса [`ErrorEvent`](../).
 
 ```csharp
 public ErrorEvent(Exception exception)
@@ -16,19 +16,19 @@ public ErrorEvent(Exception exception)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| exception | Exception | Исключение. |
+| исключение | Исключение | Исключение. |
 
-### Смотрите также
+### См. также
 
 * class [ErrorEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../errorevent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
+## ErrorEvent(*IDictionary&lt;string, object&gt;*) {#constructor}
 
-Инициализирует новый экземпляр[`ErrorEvent`](../) класс.
+Инициализирует новый экземпляр класса [`ErrorEvent`](../).
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)
@@ -38,10 +38,8 @@ public ErrorEvent(IDictionary<string, object> eventInitDict)
 | --- | --- | --- |
 | eventInitDict | IDictionary`2 | Объект инициализации события. |
 
-### Смотрите также
+### См. также
 
 * class [ErrorEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../errorevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

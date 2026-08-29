@@ -1,14 +1,14 @@
 ---
-title: IWindowTimers.SetTimeout
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindowTimers метод. Планирует таймаут для запуска обработчика после таймаута в миллисекундах. Любые аргументы передаются непосредственно обработчику.
+title: "IWindowTimers.SetTimeout"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IWindowTimers SetTimeout. Планирует таймаут для выполнения обработчика handler через timeout миллисекунд. Любые аргументы передаются напрямую обработчику"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.window/iwindowtimers/settimeout/
 ---
 ## IWindowTimers.SetTimeout method
 
-Планирует тайм-аут для запуска обработчика после тайм-аута в миллисекундах. Любые аргументы передаются непосредственно обработчику.
+Запускает таймаут, вызывающий обработчик через timeout миллисекунд. Все аргументы передаются напрямую обработчику.
 
 ```csharp
 public int SetTimeout(object handler, int timeout, params object[] args)
@@ -16,18 +16,16 @@ public int SetTimeout(object handler, int timeout, params object[] args)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| handler | Object | Обработчик. |
-| timeout | Int32 | Тайм-аут. |
+| handler | Объект | Обработчик. |
+| timeout | Int32 | Таймаут. |
 | args | Object[] | Аргументы. |
 
 ### Возвращаемое значение
 
-Рукоять
+Дескриптор
 
-### Смотрите также
+### См. также
 
 * interface [IWindowTimers](../)
-* пространство имен [Aspose.Svg.Window](../../iwindowtimers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

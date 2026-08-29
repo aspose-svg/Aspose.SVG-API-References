@@ -1,14 +1,14 @@
 ---
-title: DOMObject.GetPlatformType
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMObject метод. Этот метод используется для получения объекта ECMAScript.Type .
+title: "DOMObject.GetPlatformType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод DOMObject GetPlatformType. Этот метод используется для получения типа ECMAScript‑объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/domobject/getplatformtype/
 ---
 ## DOMObject.GetPlatformType method
 
-Этот метод используется для получения объекта ECMAScript.Type .
+Этот метод используется для получения типа ECMAScript‑объекта.
 
 ```csharp
 public virtual Type GetPlatformType()
@@ -16,12 +16,10 @@ public virtual Type GetPlatformType()
 
 ### Возвращаемое значение
 
-Объект ECMAScriptType .
+Объект ECMAScript.
 
-### Смотрите также
+### См. также
 
 * class [DOMObject](../)
-* пространство имен [Aspose.Svg.Dom](../../domobject/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

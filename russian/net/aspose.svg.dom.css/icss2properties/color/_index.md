@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Color
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства цвета в CSS2.
+title: "ICSS2Properties.Color"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSS2Properties Color свойство. См. определение свойства color в CSS2"
 type: docs
 weight: 340
 url: /ru/net/aspose.svg.dom.css/icss2properties/color/
 ---
 ## ICSS2Properties.Color property
 
-См. определение свойства цвета в CSS2.
+Смотрите определение свойства color в CSS2.
 
 ```csharp
 public string Color { get; set; }
@@ -16,12 +16,10 @@ public string Color { get; set; }
 
 ### Возвращаемое значение
 
-свойство цвета
+свойство color
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

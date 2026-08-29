@@ -1,14 +1,14 @@
 ---
-title: WheelEvent.WheelEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: WheelEvent строитель. Инициализирует новый экземплярWheelEvent класс.
+title: "WheelEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор WheelEvent. Инициализирует новый экземпляр класса WheelEvent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/wheelevent/wheelevent/
 ---
-## WheelEvent(string) {#constructor}
+## WheelEvent(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`WheelEvent`](../) класс.
+Инициализирует новый экземпляр класса [`WheelEvent`](../).
 
 ```csharp
 public WheelEvent(string type)
@@ -18,17 +18,17 @@ public WheelEvent(string type)
 | --- | --- | --- |
 | type | String | Тип события. |
 
-### Смотрите также
+### См. также
 
 * class [WheelEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../wheelevent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## WheelEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## WheelEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Инициализирует новый экземпляр[`WheelEvent`](../) класс.
+Инициализирует новый экземпляр класса [`WheelEvent`](../).
 
 ```csharp
 public WheelEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public WheelEvent(string type, IDictionary<string, object> eventInitDict)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события. |
-| eventInitDict | IDictionary`2 | Событие инициализирует словарь. |
+| eventInitDict | IDictionary`2 | Словарь инициализации события. |
 
-### Смотрите также
+### См. также
 
 * class [WheelEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../wheelevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: MutationRecord.PreviousSibling
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationRecord свойство. Возвращает предыдущий одноуровневый узел добавленных или удаленных узлов или null.
+title: "MutationRecord.PreviousSibling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MutationRecord PreviousSibling. Возвращает предыдущий сосед добавленных или удалённых узлов или null"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/previoussibling/
 ---
 ## MutationRecord.PreviousSibling property
 
-Возвращает предыдущий одноуровневый узел добавленных или удаленных узлов или null.
+Возвращает предыдущий соседний узел добавленных или удалённых узлов, либо null.
 
 ```csharp
 public Node PreviousSibling { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Предыдущий брат.
+Предыдущий сосед.
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

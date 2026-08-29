@@ -1,28 +1,26 @@
 ---
-title: ISVGFilterPrimitiveStandardAttributes.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: ISVGFilterPrimitiveStandardAttributes свойство. Соответствует атрибуту ширина данного элемента фильтр.
+title: "ISVGFilterPrimitiveStandardAttributes.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Width интерфейса ISVGFilterPrimitiveStandardAttributes. Соответствует атрибуту width в данном элементе фильтра."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/width/
 ---
 ## ISVGFilterPrimitiveStandardAttributes.Width property
 
-Соответствует атрибуту «ширина» данного элемента «фильтр».
+Соответствует атрибуту ‘width’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «ширина» данного элемента «фильтр».
+Атрибут ‘width’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * interface [ISVGFilterPrimitiveStandardAttributes](../)
-* пространство имен [Aspose.Svg.Filters](../../isvgfilterprimitivestandardattributes/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Class SVGPointList
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGPointList сорт. Этот интерфейс определяет список объектов SVGPoint.
+title: "SVGPointList Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.DataTypes.SVGPointList класс. Этот интерфейс определяет список объектов SVGPoint"
 type: docs
-weight: 280
+weight: 2270
 url: /ru/net/aspose.svg.datatypes/svgpointlist/
 ---
 ## SVGPointList class
@@ -14,7 +14,7 @@ url: /ru/net/aspose.svg.datatypes/svgpointlist/
 public class SVGPointList : SVGListBase<SVGPoint>
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -26,23 +26,21 @@ public class SVGPointList : SVGListBase<SVGPoint>
 
 | Имя | Описание |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(SVGPoint) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*[SVGPoint](../svgpoint/)*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(SVGPoint) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(SVGPoint, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(SVGPoint, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgpointlist/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGPoint](../svgpoint/)*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| override [ToString](../../aspose.svg.datatypes/svgpointlist/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
 * class [SVGPoint](../svgpoint/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: GlyphInfo.Index
-second_title: Справочник по Aspose.SVG для .NET API
-description: GlyphInfo свойство. Получает индекс этого глифа в шрифте.
+title: "GlyphInfo.Index"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GlyphInfo Index. Возвращает индекс этого глифа в шрифте"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/glyphinfo/index/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.rendering/glyphinfo/index/
 public uint Index { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Индекс глифа.
 
-### Смотрите также
+### См. также
 
 * struct [GlyphInfo](../)
-* пространство имен [Aspose.Svg.Rendering](../../glyphinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

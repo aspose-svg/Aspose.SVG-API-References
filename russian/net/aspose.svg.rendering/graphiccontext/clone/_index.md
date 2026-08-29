@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.Clone
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext метод. Создает новый экземпляр класса GraphicContext с теми же значениями свойств что и существующий экземпляр.
+title: "GraphicContext.Clone"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GraphicContext Clone. Создаёт новый экземпляр класса GraphicContext с теми же значениями свойств, что и у существующего экземпляра."
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.rendering/graphiccontext/clone/
 ---
 ## GraphicContext.Clone method
 
-Создает новый экземпляр класса GraphicContext с теми же значениями свойств, что и существующий экземпляр.
+Создаёт новый экземпляр класса **GraphicContext** с теми же значениями свойств, что и у существующего экземпляра.
 
 ```csharp
 public virtual GraphicContext Clone()
@@ -16,12 +16,10 @@ public virtual GraphicContext Clone()
 
 ### Возвращаемое значение
 
-Экземпляр графического контекста
+Экземпляр GraphicContext.
 
-### Смотрите также
+### См. также
 
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

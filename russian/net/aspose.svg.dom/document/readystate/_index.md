@@ -1,23 +1,21 @@
 ---
-title: Document.ReadyState
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Возвращает готовность документа. Загрузка во время загрузки документа интерактивная после завершения синтаксического анализа но попрежнему загружающая подресурсы и завершение после загрузки.
+title: "Document.ReadyState"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document ReadyState. Возвращает состояние готовности документа. loading — пока документ загружается, interactive — после завершения парсинга, но пока продолжается загрузка подресурсов, complete — после полной загрузки."
 type: docs
 weight: 230
 url: /ru/net/aspose.svg.dom/document/readystate/
 ---
 ## Document.ReadyState property
 
-Возвращает готовность документа. «Загрузка» во время загрузки документа, «интерактивная» после завершения синтаксического анализа, но по-прежнему загружающая подресурсы, и «завершение» после загрузки.
+Возвращает готовность документа. "loading" — пока документ загружается, "interactive" — после завершения разбора, но пока загружаются подресурсы, и "complete" — после полной загрузки.
 
 ```csharp
 public string ReadyState { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

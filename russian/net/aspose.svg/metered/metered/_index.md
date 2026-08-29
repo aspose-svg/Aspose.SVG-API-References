@@ -1,7 +1,7 @@
 ---
-title: Metered.Metered
-second_title: Справочник по Aspose.SVG для .NET API
-description: Metered строитель. Инициализирует новый экземпляр этого класса.
+title: "Metered"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор Metered. Инициализирует новый экземпляр этого класса"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/metered/metered/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg/metered/metered/
 public Metered()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Metered](../)
-* пространство имен [Aspose.Svg](../../metered/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

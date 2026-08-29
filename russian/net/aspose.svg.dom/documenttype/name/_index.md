@@ -1,27 +1,25 @@
 ---
-title: DocumentType.Name
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentType свойство. Имя DTD т. е. имя непосредственно следующее за ключевым словом DOCTYPE.
+title: "DocumentType.Name"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство DocumentType Name. Имя DTD, т.е. имя, непосредственно следующее за ключевым словом DOCTYPE"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/documenttype/name/
 ---
 ## DocumentType.Name property
 
-Имя DTD; т. е. имя, непосредственно следующее за ключевым словом DOCTYPE.
+Имя DTD; то есть имя, сразу следующее за ключевым словом DOCTYPE.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя узла.
 
-### Смотрите также
+### См. также
 
 * class [DocumentType](../)
-* пространство имен [Aspose.Svg.Dom](../../documenttype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

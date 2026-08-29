@@ -1,29 +1,27 @@
 ---
-title: Interface ISolidBrush
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.ISolidBrush интерфейс. Определяет интерфейс кисти одного цвета
+title: "Интерфейс ISolidBrush"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Drawing.ISolidBrush. Определяет интерфейс кисти одного цвета"
 type: docs
-weight: 1480
+weight: 3510
 url: /ru/net/aspose.svg.drawing/isolidbrush/
 ---
 ## ISolidBrush interface
 
-Определяет интерфейс кисти одного цвета
+Определяет интерфейс кисти одного цвета.
 
 ```csharp
 public interface ISolidBrush : IBrush
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Color](../../aspose.svg.drawing/isolidbrush/color/) { get; } | Получить цвет кисти. |
 
-### Смотрите также
+### См. также
 
 * interface [IBrush](../ibrush/)
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

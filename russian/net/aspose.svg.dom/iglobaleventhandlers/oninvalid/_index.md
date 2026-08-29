@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnInvalid
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnInvalid.
+title: "IGlobalEventHandlers.OnInvalid"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnInvalid. Получает или задает обработчик события для OnInvalid"
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/oninvalid/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/iglobaleventhandlers/oninvalid/
 public event DOMEventHandler OnInvalid;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

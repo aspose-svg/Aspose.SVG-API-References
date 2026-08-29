@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.Left
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства left в CSS2.
+title: "ICSS2Properties.Left"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ICSS2Properties Left. См. определение свойства left в CSS2"
 type: docs
-weight: 560
+weight: 590
 url: /ru/net/aspose.svg.dom.css/icss2properties/left/
 ---
 ## ICSS2Properties.Left property
@@ -16,12 +16,10 @@ public string Left { get; set; }
 
 ### Возвращаемое значение
 
-оставленное имущество
+свойство left
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

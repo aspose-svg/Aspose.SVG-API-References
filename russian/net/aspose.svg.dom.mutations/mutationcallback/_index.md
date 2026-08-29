@@ -1,9 +1,9 @@
 ---
-title: Delegate MutationCallback
-second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет метод который будет обрабатывать события мутации.
+title: "MutationCallback делегат"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Представляет метод, который будет обрабатывать события мутации"
 type: docs
-weight: 1110
+weight: 3100
 url: /ru/net/aspose.svg.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate
@@ -16,14 +16,12 @@ public delegate void MutationCallback(IList<MutationRecord> mutations, MutationO
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mutations | IList`1 | Список записей о мутациях. |
-| observer | MutationObserver | Наблюдатель за мутациями. |
+| мутации | IList`1 | Список записей мутации. |
+| наблюдатель | MutationObserver | Наблюдатель мутации. |
 
-### Смотрите также
+### См. также
 
 * class [MutationRecord](../mutationrecord/)
 * class [MutationObserver](../mutationobserver/)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

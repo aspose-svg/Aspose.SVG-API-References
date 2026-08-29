@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateDocument
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDOMImplementation метод. Создает объект документа DOM указанного типа с его элементом документа.
+title: "IDOMImplementation.CreateDocument"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDOMImplementation CreateDocument. Создаёт объект DOM Document указанного типа с его элементом документа"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/idomimplementation/createdocument/
 ---
 ## IDOMImplementation.CreateDocument method
 
-Создает объект документа DOM указанного типа с его элементом документа.
+Создаёт объект DOM Document указанного типа с его элементом документа.
 
 ```csharp
 public Document CreateDocument(string namespaceURI, string qualifiedName, DocumentType doctype)
@@ -16,7 +16,7 @@ public Document CreateDocument(string namespaceURI, string qualifiedName, Docume
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
+| namespaceURI | String | URI пространства имён. |
 | qualifiedName | String | Имя квалифицированного. |
 | doctype | DocumentType | Тип документа. |
 
@@ -24,12 +24,10 @@ public Document CreateDocument(string namespaceURI, string qualifiedName, Docume
 
 Возвращает документ.
 
-### Смотрите также
+### См. также
 
 * class [Document](../../document/)
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* пространство имен [Aspose.Svg.Dom](../../idomimplementation/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

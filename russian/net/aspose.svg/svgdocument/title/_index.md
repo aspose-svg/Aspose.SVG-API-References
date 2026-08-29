@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Title
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGDocument свойство. Заголовок документа указанный в подэлементе title корневого элемента svg т. е.Вот название... 
+title: "SVGDocument.Title"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGDocument Title. Заголовок документа, указанный в подэлементе title корневого элемента svg, т.е. Здесь заголовок"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgdocument/title/
 ---
 ## SVGDocument.Title property
 
-Заголовок документа, указанный в подэлементе title корневого элемента svg (т. е.Вот название... )
+Заголовок документа, указанный в подэлементе ‘title’ корневого элемента ‘svg’ (например, Here is the title...).
 
 ```csharp
 public string Title { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Название документа.
+Заголовок документа.
 
-### Смотрите также
+### См. также
 
 * class [SVGDocument](../)
-* пространство имен [Aspose.Svg](../../svgdocument/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

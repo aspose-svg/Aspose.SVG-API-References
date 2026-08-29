@@ -1,28 +1,26 @@
 ---
-title: Configuration.Security
-second_title: Справочник по Aspose.SVG для .NET API
-description: Configuration свойство. Получает или задает флаг песочницы конфигурации.
+title: "Configuration.Security"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Configuration Security. Это свойство позволяет задать ряд ограничений на содержимое, загружаемое во фрейм, например блокировать формы и скрипты. См. статью о песочнице."
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.svg/configuration/security/
 ---
 ## Configuration.Security property
 
-Получает или задает флаг песочницы конфигурации.
+Это свойство позволяет задать ряд ограничений на содержимое, загружаемое во фрейм, например, блокировать формы и скрипты. См. статью о [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing).
 
 ```csharp
 public Sandbox Security { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ценная бумага.
+Набор флагов [`Sandbox`](../../sandbox/) представляет собой набор из нуля или более флагов, которые используются для ограничения возможностей потенциально ненадёжных ресурсов.
 
-### Смотрите также
+### См. также
 
 * enum [Sandbox](../../sandbox/)
 * class [Configuration](../)
-* пространство имен [Aspose.Svg](../../configuration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

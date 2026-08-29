@@ -1,30 +1,30 @@
 ---
-title: Size.Size
-second_title: Справочник по Aspose.SVG для .NET API
-description: Size строитель. Инициализирует новый экземплярSize класс.
+title: "Size"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Size конструктор. Инициализирует новый экземпляр класса Size"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-Инициализирует новый экземпляр[`Size`](../) класс.
+Инициализирует новый экземпляр класса [`Size`](../).
 
 ```csharp
 public Size()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Size](../)
-* пространство имен [Aspose.Svg.Drawing](../../size/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(int, int) {#constructor_2}
+## Size(*int, int*) {#constructor_2}
 
-Инициализирует новый экземпляр[`Size`](../) class и укажите высоту и ширину в пикселях.
+Инициализирует новый экземпляр класса [`Size`](../) и задаёт высоту и ширину в пикселях.
 
 ```csharp
 public Size(int width, int height)
@@ -35,17 +35,17 @@ public Size(int width, int height)
 | width | Int32 | Ширина. |
 | height | Int32 | Высота. |
 
-### Смотрите также
+### См. также
 
 * class [Size](../)
-* пространство имен [Aspose.Svg.Drawing](../../size/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(Length, Length) {#constructor_1}
+## Size(*[Length](../../length/), [Length](../../length/)*) {#constructor_1}
 
-Инициализирует новый экземпляр[`Size`](../) класс.
+Инициализирует новый экземпляр класса [`Size`](../).
 
 ```csharp
 public Size(Length width, Length height)
@@ -56,11 +56,9 @@ public Size(Length width, Length height)
 | width | Length | Ширина. |
 | height | Length | Высота. |
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [Size](../)
-* пространство имен [Aspose.Svg.Drawing](../../size/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

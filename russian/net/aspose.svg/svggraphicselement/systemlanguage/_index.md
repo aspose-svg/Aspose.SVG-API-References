@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.SystemLanguage
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGraphicsElement свойство. Соответствует атрибуту systemLanguage данного элемента.
+title: "SVGGraphicsElement.SystemLanguage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SystemLanguage элемента SVGGraphicsElement. Соответствует атрибуту systemLanguage у данного элемента."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svggraphicselement/systemlanguage/
 ---
 ## SVGGraphicsElement.SystemLanguage property
 
-Соответствует атрибуту systemLanguage данного элемента.
+Соответствует атрибуту ‘systemLanguage’ данного элемента.
 
 ```csharp
 public SVGStringList SystemLanguage { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Язык системы.
+Системный язык.
 
-### Смотрите также
+### См. также
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGGraphicsElement](../)
-* пространство имен [Aspose.Svg](../../svggraphicselement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

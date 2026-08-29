@@ -1,7 +1,7 @@
 ---
-title: Comment.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: Comment свойство. Код представляющий тип базового объекта.
+title: "Comment.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Comment NodeType. Код, представляющий тип базового объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/comment/nodetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/comment/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип узла.
 
-### Смотрите также
+### См. также
 
 * class [Comment](../)
-* пространство имен [Aspose.Svg.Dom](../../comment/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

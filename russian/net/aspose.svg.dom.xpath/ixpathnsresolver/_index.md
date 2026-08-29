@@ -1,14 +1,14 @@
 ---
-title: Interface IXPathNSResolver
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.XPath.IXPathNSResolver интерфейс. XPathNSResolver разрешение на интерфейспрефикс строки в выражение которое должно быть правильно привязано кпространство именURI струны. IXPathEvaluator может построить реализацию IXPathNSResolver с узла или интерфейс может быть реализован любым приложением.
+title: "IXPathNSResolver интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.XPath.IXPathNSResolver интерфейс. Интерфейс XPathNSResolver позволяет строкам префиксов в выражении правильно связывать с строками namespaceURI. IXPathEvaluator может создать реализацию IXPathNSResolver из узла, либо интерфейс может быть реализован любым приложением."
 type: docs
-weight: 1330
+weight: 3330
 url: /ru/net/aspose.svg.dom.xpath/ixpathnsresolver/
 ---
 ## IXPathNSResolver interface
 
-`XPathNSResolver` разрешение на интерфейс`префикс` строки в выражение, которое должно быть правильно привязано к`пространство именURI` струны. [`IXPathEvaluator`](../ixpathevaluator/) может построить реализацию `IXPathNSResolver` с узла, или интерфейс может быть реализован любым приложением.
+Интерфейс `XPathNSResolver` позволяет строкам `prefix` в выражении правильно связывать с строками `namespaceURI`. [`IXPathEvaluator`](../ixpathevaluator/) может создать реализацию `IXPathNSResolver` из узла, либо интерфейс может быть реализован любым приложением.
 
 ```csharp
 public interface IXPathNSResolver
@@ -18,11 +18,9 @@ public interface IXPathNSResolver
 
 | Имя | Описание |
 | --- | --- |
-| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(string) | Найдите URI пространства имен, связанный с данным префиксом пространства имен. Оценщик XPath никогда не должен вызывать это с`нулевой` или пустой аргумент , потому что результат этого не определен. |
+| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(*string*) | Найдите URI пространства имён, связанный с заданным префиксом пространства имён. Оценщик XPath никогда не должен вызывать это с аргументом `null` или пустым, потому что результат такого вызова не определён. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.SingleNodeValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: IXPathResult свойство. Значение этого единственного результата узла которое может бытьнулевой .
+title: "IXPathResult.SingleNodeValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IXPathResult SingleNodeValue. Значение этого результата единственного узла, которое может быть null."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.xpath/ixpathresult/singlenodevalue/
 ---
 ## IXPathResult.SingleNodeValue property
 
-Значение этого единственного результата узла, которое может быть`нулевой` .
+Значение этого результата единственного узла, которое может быть `null`.
 
 ```csharp
 public Node SingleNodeValue { get; }
@@ -18,13 +18,11 @@ public Node SingleNodeValue { get; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: возникает, если resultType не равен `AnyUnorderedNode` тип или`ПервыйЗаказанныйУзел` тип. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: вызывается, если resultType не имеет тип `AnyUnorderedNode` или тип `FirstOrderedNode`. |
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathResult](../)
-* пространство имен [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

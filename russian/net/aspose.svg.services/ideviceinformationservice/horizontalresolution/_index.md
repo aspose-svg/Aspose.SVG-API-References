@@ -1,7 +1,7 @@
 ---
-title: IDeviceInformationService.HorizontalResolution
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDeviceInformationService свойство. Получает или задает горизонтальное разрешение.
+title: "IDeviceInformationService.HorizontalResolution"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IDeviceInformationService HorizontalResolution. Получает или задает горизонтальное разрешение."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.services/ideviceinformationservice/horizontalresolution/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.services/ideviceinformationservice/horizontalresolution/
 public Resolution HorizontalResolution { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Горизонтальное разрешение.
 
-### Смотрите также
+### См. также
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* пространство имен [Aspose.Svg.Services](../../ideviceinformationservice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

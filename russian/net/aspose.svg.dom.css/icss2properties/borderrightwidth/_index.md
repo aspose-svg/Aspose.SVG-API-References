@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BorderRightWidth
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства borderrightwidth в CSS2.
+title: "ICSS2Properties.BorderRightWidth"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство BorderRightWidth интерфейса ICSS2Properties. См. определение свойства border-right-width в CSS2"
 type: docs
 weight: 220
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderrightwidth/
@@ -16,12 +16,10 @@ public string BorderRightWidth { get; set; }
 
 ### Возвращаемое значение
 
-свойство ширины правой границы
+свойство border-right-width
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

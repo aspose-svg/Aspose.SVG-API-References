@@ -1,43 +1,43 @@
 ---
-title: Class Configuration
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Configuration сорт. Представляет объект контекста конфигурации который используется для настройки параметров среды для приложения.
+title: "Класс Configuration"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Configuration class. Представляет объект контекста конфигурации, который используется для настройки параметров среды приложения"
 type: docs
-weight: 60
+weight: 2050
 url: /ru/net/aspose.svg/configuration/
 ---
 ## Configuration class
 
-Представляет объект контекста конфигурации, который используется для настройки параметров среды для приложения.
+Представляет объект контекста конфигурации, который используется для настройки параметров среды приложения.
 
 ```csharp
-public class Configuration : IServiceContainer
+public class Configuration : IDisposable, IServiceProvider
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [Configuration](configuration/)() | Инициализирует новый экземпляр`Configuration` класс. |
+| [Configuration](configuration/)() | Инициализирует новый экземпляр класса `Configuration`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Security](../../aspose.svg/configuration/security/) { get; set; } | Получает или задает флаг песочницы конфигурации. |
+| [Security](../../aspose.svg/configuration/security/) { get; set; } | Это свойство позволяет задать ряд ограничений на содержимое, загружаемое во фрейм, например, блокировать формы и скрипты. См. статью о [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddService&lt;TService&gt;](../../aspose.svg/configuration/addservice/)(TService) | Добавляет указанный сервис в конфигурацию. |
-| [Dispose](../../aspose.svg/configuration/dispose/)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
-| [GetService&lt;TService&gt;](../../aspose.svg/configuration/getservice/)() | Получает запрошенную услугу. |
+| static [Create](../../aspose.svg/configuration/create/#create)() | Создайте и настройте экземпляр объекта Configuration. |
+| static [Create](../../aspose.svg/configuration/create/#create_1)(*Action&lt;IConfigurationBuilder&gt;*) | Создайте и настройте экземпляр объекта Configuration. |
+| [Dispose](../../aspose.svg/configuration/dispose/)() | Выполняет задачи, определённые приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
+| [GetService](../../aspose.svg/configuration/getservice/#getservice)(*Type*) | Получает запрошенный сервис. |
+| [GetService<T>](../../aspose.svg/configuration/getservice/#getservice_1)() | Получает запрошенный сервис. |
+| static [SetExtension](../../aspose.svg/configuration/setextension/)(*[IConfigurationExtension](../iconfigurationextension/)*) | Устанавливает расширение для конфигурации. |
 
-### Смотрите также
+### См. также
 
-* interface [IServiceContainer](../../aspose.svg.services/iservicecontainer/)
-* пространство имен [Aspose.Svg](../../aspose.svg/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

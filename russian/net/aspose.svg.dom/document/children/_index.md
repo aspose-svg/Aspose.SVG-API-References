@@ -1,7 +1,7 @@
 ---
-title: Document.Children
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document свойство. Возвращает дочерние элементы.
+title: "Document.Children"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Document Children. Возвращает дочерние элементы"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/document/children/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.dom/document/children/
 public HTMLCollection Children { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Дети.
+Дочерние элементы.
 
-### Смотрите также
+### См. также
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

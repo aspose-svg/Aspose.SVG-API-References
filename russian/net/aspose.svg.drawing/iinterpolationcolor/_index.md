@@ -1,29 +1,27 @@
 ---
-title: Interface IInterpolationColor
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Drawing.IInterpolationColor интерфейс. Описывает методы получения цвета интерполяции.
+title: "Интерфейс IInterpolationColor"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Drawing.IInterpolationColor. Объявляет методы для получения цвета интерполяции"
 type: docs
-weight: 1460
+weight: 3480
 url: /ru/net/aspose.svg.drawing/iinterpolationcolor/
 ---
 ## IInterpolationColor interface
 
-Описывает методы получения цвета интерполяции.
+Объявляет методы получения интерполяционного цвета.
 
 ```csharp
 public interface IInterpolationColor
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.svg.drawing/iinterpolationcolor/color/) { get; } | Получить цвет, представляющий цвета для использования в соответствующих позициях вдоль градиента. |
-| [Position](../../aspose.svg.drawing/iinterpolationcolor/position/) { get; } | Получает позицию цвета. |
+| [Color](../../aspose.svg.drawing/iinterpolationcolor/color/) { get; set; } | Получает или задает цвет, представляющий цвета, используемые в соответствующих позициях вдоль градиента. |
+| [Position](../../aspose.svg.drawing/iinterpolationcolor/position/) { get; set; } | Получает или задает позицию цвета. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

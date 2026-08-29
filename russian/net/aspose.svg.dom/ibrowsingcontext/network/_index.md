@@ -1,28 +1,26 @@
 ---
-title: IBrowsingContext.Network
-second_title: Справочник по Aspose.SVG для .NET API
-description: IBrowsingContext свойство. Получает сетевые службы.
+title: "IBrowsingContext.Network"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IBrowsingContext Network property. Получает сетевые сервисы"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/ibrowsingcontext/network/
 ---
 ## IBrowsingContext.Network property
 
-Получает сетевые службы.
+Получает сетевые сервисы.
 
 ```csharp
 public INetwork Network { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Сетевые службы.
+Сетевые сервисы.
 
-### Смотрите также
+### См. также
 
 * interface [INetwork](../../../aspose.svg.net/inetwork/)
 * interface [IBrowsingContext](../)
-* пространство имен [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

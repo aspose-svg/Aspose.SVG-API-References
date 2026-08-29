@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.SetTranslate
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTransform метод. Устанавливает тип преобразования SVG_TRANSFORM_TRANSLATE с параметрами tx и ty определяющими суммы перевода.
+title: "SVGTransform.SetTranslate"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGTransform SetTranslate. Устанавливает тип преобразования в SVG_TRANSFORM_TRANSLATE с параметрами tx и ty, определяющими величины переноса."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.datatypes/svgtransform/settranslate/
 ---
 ## SVGTransform.SetTranslate method
 
-Устанавливает тип преобразования SVG_TRANSFORM_TRANSLATE с параметрами tx и ty, определяющими суммы перевода.
+Устанавливает тип преобразования в SVG_TRANSFORM_TRANSLATE, с параметрами tx и ty, определяющими величины трансляции.
 
 ```csharp
 public void SetTranslate(float tx, float ty)
@@ -16,19 +16,17 @@ public void SetTranslate(float tx, float ty)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tx | Single | Сумма перевода в X. |
-| ty | Single | Сумма перевода в Y. |
+| tx | Single | Величина переноса по X. |
+| ty | Single | Величина переноса по Y. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgtransform/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

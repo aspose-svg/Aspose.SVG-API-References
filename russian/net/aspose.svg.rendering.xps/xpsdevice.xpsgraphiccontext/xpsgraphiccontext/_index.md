@@ -1,7 +1,7 @@
 ---
-title: XpsDevice.XpsGraphicContext.XpsGraphicContext
-second_title: Справочник по Aspose.SVG для .NET API
-description: XpsGraphicContext строитель. Конструктор по умолчанию.
+title: "XpsDevice.XpsGraphicContext.XpsGraphicContext"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор XpsGraphicContext. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/xpsgraphiccontext/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/xpsgraphiccont
 public XpsGraphicContext()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XpsGraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice.xpsgraphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

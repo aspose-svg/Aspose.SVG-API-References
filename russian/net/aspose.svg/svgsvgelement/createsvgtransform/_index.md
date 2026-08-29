@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGTransform
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement метод. Создает объект SVGTransform вне какихлибо деревьев документов. Объект инициализируется преобразованием матрицы идентичности SVG_TRANSFORM_MATRIX.
+title: "SVGSVGElement.CreateSVGTransform"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CreateSVGTransform класса SVGSVGElement. Создаёт объект SVGTransform вне любых деревьев документа. Объект инициализируется преобразованием матрицы единичного преобразования SVG_TRANSFORM_MATRIX."
 type: docs
 weight: 180
 url: /ru/net/aspose.svg/svgsvgelement/createsvgtransform/
 ---
 ## SVGSVGElement.CreateSVGTransform method
 
-Создает объект SVGTransform вне каких-либо деревьев документов. Объект инициализируется преобразованием матрицы идентичности (SVG_TRANSFORM_MATRIX).
+Создаёт объект SVGTransform вне любых деревьев документа. Объект инициализируется преобразованием единичной матрицы (SVG_TRANSFORM_MATRIX).
 
 ```csharp
 public SVGTransform CreateSVGTransform()
@@ -18,11 +18,9 @@ public SVGTransform CreateSVGTransform()
 
 Объект SVGTransform.
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

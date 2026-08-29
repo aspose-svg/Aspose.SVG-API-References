@@ -1,23 +1,21 @@
 ---
-title: IUrlSearchParams.Sort
-second_title: Справочник по Aspose.SVG для .NET API
-description: IUrlSearchParams метод. Сортирует все пары имязначение если они есть по их именам.
+title: "IUrlSearchParams.Sort"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Sort интерфейса IUrlSearchParams. Сортирует все пары имя‑значение (если они есть) по их именам."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/iurlsearchparams/sort/
 ---
 ## IUrlSearchParams.Sort method
 
-Сортирует все пары "имя-значение", если они есть, по их именам.
+Сортирует все пары имя‑значение, если они есть, по их именам.
 
 ```csharp
 public void Sort()
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IUrlSearchParams](../)
-* пространство имен [Aspose.Svg](../../iurlsearchparams/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

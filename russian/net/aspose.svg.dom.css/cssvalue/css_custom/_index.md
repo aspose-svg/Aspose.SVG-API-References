@@ -1,23 +1,21 @@
 ---
-title: CSSValue.CSS_CUSTOM
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSValue поле. Значение является пользовательским значением.
+title: "CSSValue.CSS_CUSTOM"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле CSSValue CSS_CUSTOM. Значение является пользовательским"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom.css/cssvalue/css_custom/
 ---
 ## CSSValue.CSS_CUSTOM field
 
-Значение является пользовательским значением.
+Значение является пользовательским.
 
 ```csharp
 public const ushort CSS_CUSTOM;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

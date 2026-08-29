@@ -1,12 +1,12 @@
 ---
-title: Device2.GraphicContext
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device свойство. Получает графический контекст
+title: "Device-2.GraphicContext"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device GraphicContext property. Получает графический контекст."
 type: docs
-weight: 10
+weight: 20
 url: /ru/net/aspose.svg.rendering/device-2/graphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.GraphicContext property
+## Device<TGraphicContext,TRenderingOptions>.GraphicContext property
 
 Получает графический контекст
 
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.rendering/device-2/graphiccontext/
 public TGraphicContext GraphicContext { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

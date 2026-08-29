@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Overflow
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства переполнения в CSS2.
+title: "ICSS2Properties.Overflow"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Overflow в ICSS2Properties. См. определение свойства overflow в CSS2"
 type: docs
-weight: 790
+weight: 820
 url: /ru/net/aspose.svg.dom.css/icss2properties/overflow/
 ---
 ## ICSS2Properties.Overflow property
 
-См. определение свойства переполнения в CSS2.
+Смотрите определение свойства overflow в CSS2.
 
 ```csharp
 public string Overflow { get; set; }
@@ -16,12 +16,10 @@ public string Overflow { get; set; }
 
 ### Возвращаемое значение
 
-свойство переполнения
+свойство overflow
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Color.WithHue
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Создает копию цвета с указанным оттенком.
+title: "Color.WithHue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color WithHue. Создаёт копию Color с указанным оттенком."
 type: docs
 weight: 460
 url: /ru/net/aspose.svg.drawing/color/withhue/
 ---
 ## Color.WithHue method
 
-Создает копию цвета с указанным оттенком.
+Создаёт копию цвета Color с указанным Hue.
 
 ```csharp
 public Color WithHue(float hue)
@@ -20,12 +20,10 @@ public Color WithHue(float hue)
 
 ### Возвращаемое значение
 
-&gt;Новый экземпляр[`Color`](../) сорт.
+&gt;Новый экземпляр класса [`Color`](../).
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

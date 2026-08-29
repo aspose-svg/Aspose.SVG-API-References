@@ -1,23 +1,21 @@
 ---
-title: Event.BubblingPhase
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event поле. Текущей фазой события является фаза всплытия.
+title: "Event.BubblingPhase"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле Event BubblingPhase. Текущая фаза события — фаза всплытия."
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.dom.events/event/bubblingphase/
 ---
 ## Event.BubblingPhase field
 
-Текущей фазой события является фаза всплытия.
+Текущая фаза события — фаза всплытия.
 
 ```csharp
 public const ushort BubblingPhase;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

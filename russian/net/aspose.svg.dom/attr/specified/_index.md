@@ -1,27 +1,25 @@
 ---
-title: Attr.Specified
-second_title: Справочник по Aspose.SVG для .NET API
-description: Attr свойство. Истинно если этому атрибуту было явно присвоено значение в документе экземпляра в противном случае  ложь.
+title: "Attr.Specified"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Attr Specified. True, если этому атрибуту явно было присвоено значение в экземпляре документа, иначе false."
 type: docs
-weight: 110
+weight: 90
 url: /ru/net/aspose.svg.dom/attr/specified/
 ---
 ## Attr.Specified property
 
-Истинно, если этому атрибуту было явно присвоено значение в документе экземпляра, в противном случае - ложь.
+True, если этому атрибуту явно было присвоено значение в документе‑экземпляре, иначе false.
 
 ```csharp
 public bool Specified { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если указано; в противном случае,`ЛОЖЬ` .
+`true` если указано; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [Attr](../)
-* пространство имен [Aspose.Svg.Dom](../../attr/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

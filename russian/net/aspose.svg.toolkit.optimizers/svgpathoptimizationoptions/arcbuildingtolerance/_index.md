@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.ArcBuildingTolerance
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathOptimizationOptions свойство. Получает или задает значение параметра используемое в процентах от радиуса для замены сегментов Безье сегментами дуги. По умолчанию это 05.
+title: "SVGPathOptimizationOptions.ArcBuildingTolerance"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathOptimizationOptions ArcBuildingTolerance. Получает или задает значение параметра, используемого в качестве процента радиуса при замене сегментов Безье на дуговые сегменты. По умолчанию равно 0.5."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/
 ---
 ## SVGPathOptimizationOptions.ArcBuildingTolerance property
 
-Получает или задает значение параметра, используемое в процентах от радиуса для замены сегментов Безье сегментами дуги. По умолчанию это «0,5».
+Получает или задает значение параметра, используемого в качестве процента радиуса при замене сегментов Безье на дуговые сегменты. По умолчанию '0.5'.
 
 ```csharp
 public float ArcBuildingTolerance { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

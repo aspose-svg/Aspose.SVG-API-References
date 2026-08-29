@@ -1,7 +1,7 @@
 ---
-title: Document.OnMouseUp
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnMouseUp.
+title: "Document.OnMouseUp"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnMouseUp. Получает или задает обработчик события для события OnMouseUp."
 type: docs
 weight: 570
 url: /ru/net/aspose.svg.dom/document/onmouseup/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onmouseup/
 public event DOMEventHandler OnMouseUp;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

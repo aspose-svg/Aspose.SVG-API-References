@@ -1,23 +1,21 @@
 ---
-title: PdfRenderingOptions.PdfRenderingOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfRenderingOptions строитель. Инициализирует новый экземплярPdfRenderingOptions класс.
+title: "PdfRenderingOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор PdfRenderingOptions. Инициализирует новый экземпляр класса PdfRenderingOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.pdf/pdfrenderingoptions/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions constructor
 
-Инициализирует новый экземпляр[`PdfRenderingOptions`](../) класс.
+Инициализирует новый экземпляр класса [`PdfRenderingOptions`](../).
 
 ```csharp
 public PdfRenderingOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfRenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Interface IElementCSSInlineStyle
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.IElementCSSInlineStyle интерфейс. Информация о встроенном стиле прикрепленная к элементам отображается через атрибут стиля. Это представляет содержимое атрибута STYLE для элементов HTML или элементов в других схемах или DTD которые используют атрибут STYLE таким же образом.
+title: "IElementCSSInlineStyle интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Css.IElementCSSInlineStyle интерфейс. Инлайн‑информация о стиле, привязанная к элементам, доступна через атрибут style. Это представляет содержимое атрибута STYLE для HTML‑элементов или элементов в других схемах или DTD, которые используют атрибут STYLE одинаково."
 type: docs
-weight: 710
+weight: 2710
 url: /ru/net/aspose.svg.dom.css/ielementcssinlinestyle/
 ---
 ## IElementCSSInlineStyle interface
 
-Информация о встроенном стиле, прикрепленная к элементам, отображается через атрибут стиля. Это представляет содержимое атрибута STYLE для элементов HTML (или элементов в других схемах или DTD, которые используют атрибут STYLE таким же образом).
+Инлайн‑информация о стиле, прикреплённая к элементам, доступна через атрибут style. Это представляет содержимое атрибута STYLE для HTML‑элементов (или элементов в других схемах или DTD, которые используют атрибут STYLE аналогичным образом).
 
 ```csharp
 public interface IElementCSSInlineStyle
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Style](../../aspose.svg.dom.css/ielementcssinlinestyle/style/) { get; } | Представляет Представляет атрибут стиля, который позволяет автору напрямую применять информацию о стиле к определенному элементу. |
+| [Style](../../aspose.svg.dom.css/ielementcssinlinestyle/style/) { get; } | Представляет атрибут стиля, который позволяет автору напрямую применять информацию о стиле к конкретному элементу. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

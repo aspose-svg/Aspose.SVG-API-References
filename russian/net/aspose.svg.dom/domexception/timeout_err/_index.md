@@ -1,23 +1,21 @@
 ---
-title: DOMException.TIMEOUT_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Время ожидания операции истекло.
+title: "DOMException.TIMEOUT_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException TIMEOUT_ERR. Операция превысила время ожидания"
 type: docs
 weight: 260
 url: /ru/net/aspose.svg.dom/domexception/timeout_err/
 ---
 ## DOMException.TIMEOUT_ERR field
 
-Время ожидания операции истекло.
+Время выполнения операции истекло.
 
 ```csharp
 public const ushort TIMEOUT_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: SVGElement.Id
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGElement свойство. Значение атрибута id для данного элемента или пустая строка если id отсутствует.
+title: "SVGElement.Id"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Id SVGElement. Значение атрибута id у данного элемента или пустая строка, если атрибут id отсутствует."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgelement/id/
 ---
 ## SVGElement.Id property
 
-Значение атрибута 'id' для данного элемента или пустая строка, если 'id' отсутствует.
+Значение атрибута ‘id’ данного элемента, или пустая строка, если атрибут ‘id’ отсутствует.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор.
 
@@ -22,12 +22,10 @@ public string Id { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Код NO_MODIFICATION_ALLOWED_ERR. Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код NO_MODIFICATION_ALLOWED_ERR. Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGElement](../)
-* пространство имен [Aspose.Svg](../../svgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

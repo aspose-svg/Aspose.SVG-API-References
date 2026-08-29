@@ -1,24 +1,22 @@
 ---
-title: Element.ClassList
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. Возвращает активный DOMTokenList который содержит токены полученные в результате разбора атрибута класс.
+title: "Element.ClassList"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element ClassList. Возвращает живой DOMTokenList, содержащий токены, полученные при разборе атрибута class"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/element/classlist/
 ---
 ## Element.ClassList property
 
-Возвращает активный DOMTokenList, который содержит токены, полученные в результате разбора атрибута "класс".
+Возвращает живой DOMTokenList, содержащий токены, полученные при разборе атрибута "class".
 
 ```csharp
 public DOMTokenList ClassList { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMTokenList](../../../aspose.svg.collections/domtokenlist/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

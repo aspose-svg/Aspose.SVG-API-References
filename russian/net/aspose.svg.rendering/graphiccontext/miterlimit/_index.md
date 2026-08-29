@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.MiterLimit
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. Устанавливает или получает максимальную длину соединения линий под углом для обведенных путей. Этот параметр ограничивает длину выступов возникающих при соединении сегментов под острыми углами.
+title: "GraphicContext.MiterLimit"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext MiterLimit. Устанавливает или получает максимальную длину срезов соединений линий для обводки путей. Этот параметр ограничивает длину заострений, образующихся при соединении отрезков под острыми углами."
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.rendering/graphiccontext/miterlimit/
 ---
 ## GraphicContext.MiterLimit property
 
-Устанавливает или получает максимальную длину соединения линий под углом для обведенных путей. Этот параметр ограничивает длину «выступов», возникающих при соединении сегментов под острыми углами.
+Устанавливает или получает максимальную длину срезов (mitered) соединений линий для обведенных путей. Этот параметр ограничивает длину «шипов», образующихся, когда сегменты линий соединяются под острыми углами.
 
 ```csharp
 public virtual float MiterLimit { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

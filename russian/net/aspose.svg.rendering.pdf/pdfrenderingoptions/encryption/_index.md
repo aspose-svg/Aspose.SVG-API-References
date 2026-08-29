@@ -1,24 +1,22 @@
 ---
-title: PdfRenderingOptions.Encryption
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfRenderingOptions свойство. Получает или задает сведения о шифровании. Если не установлено то шифрование выполняться не будет.
+title: "PdfRenderingOptions.Encryption"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PdfRenderingOptions Encryption. Получает или задаёт детали шифрования. Если не задано, шифрование не будет выполнено"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering.pdf/pdfrenderingoptions/encryption/
 ---
 ## PdfRenderingOptions.Encryption property
 
-Получает или задает сведения о шифровании. Если не установлено, то шифрование выполняться не будет.
+Получает или задает детали шифрования. Если не задано, шифрование не будет выполнено.
 
 ```csharp
 public PdfEncryptionInfo Encryption { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfEncryptionInfo](../../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/)
 * class [PdfRenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

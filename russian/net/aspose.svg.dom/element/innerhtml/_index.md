@@ -1,27 +1,25 @@
 ---
-title: Element.InnerHTML
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. Возвращает фрагмент HTML или XML представляющий содержимое элемента. Можно установить чтобы заменить содержимое элемента узлами проанализированными из заданной строки.
+title: "Element.InnerHTML"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element InnerHTML. Возвращает фрагмент HTML или XML, представляющий содержимое элемента. Может быть установлено для замены содержимого элемента узлами, разобранными из заданной строки."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom/element/innerhtml/
 ---
 ## Element.InnerHTML property
 
-Возвращает фрагмент HTML или XML, представляющий содержимое элемента. Можно установить, чтобы заменить содержимое элемента узлами, проанализированными из заданной строки.
+Возвращает фрагмент HTML или XML, представляющий содержимое элемента. Можно установить, чтобы заменить содержимое элемента узлами, разобранными из заданной строки.
 
 ```csharp
 public string InnerHTML { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Внутренний HTML.
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

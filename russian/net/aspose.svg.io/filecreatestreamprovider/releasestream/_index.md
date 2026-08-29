@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.ReleaseStream
-second_title: Справочник по Aspose.SVG для .NET API
-description: FileCreateStreamProvider метод. Освобождает поток.
+title: "FileCreateStreamProvider.ReleaseStream"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "FileCreateStreamProvider ReleaseStream метод. Освобождает поток"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.io/filecreatestreamprovider/releasestream/
@@ -16,12 +16,10 @@ public void ReleaseStream(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток выпускается. |
+| stream | Stream | Поток, который освобождается. |
 
-### Смотрите также
+### См. также
 
 * class [FileCreateStreamProvider](../)
-* пространство имен [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

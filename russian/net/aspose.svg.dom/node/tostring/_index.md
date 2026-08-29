@@ -1,14 +1,14 @@
 ---
-title: Node.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node метод. ВозвращаетString который представляет этот экземпляр.
+title: "Node.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Node ToString. Возвращает строку, представляющую этот экземпляр."
 type: docs
-weight: 310
+weight: 290
 url: /ru/net/aspose.svg.dom/node/tostring/
 ---
 ## Node.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

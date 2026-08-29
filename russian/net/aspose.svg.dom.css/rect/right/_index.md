@@ -1,24 +1,22 @@
 ---
-title: Rect.Right
-second_title: Справочник по Aspose.SVG для .NET API
-description: Rect свойство. Этот атрибут используется справа от прямоугольника.
+title: "Rect.Right"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Rect Right. Этот атрибут используется для правой части прямоугольника."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/rect/right/
 ---
 ## Rect.Right property
 
-Этот атрибут используется справа от прямоугольника.
+Этот атрибут используется для правой границы rect.
 
 ```csharp
 public CSSPrimitiveValue Right { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../rect/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

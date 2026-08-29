@@ -1,28 +1,26 @@
 ---
-title: Interface ILinkStyle
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.ILinkStyle интерфейс. Интерфейс LinkStyle предоставляет механизм с помощью которого таблица стилей может быть извлечена из узла ответственного за ее связывание с документом. Экземпляр интерфейса LinkStyle можно получить с помощью методов приведения конкретных привязок к экземпляру связывающего узла HTMLLinkElement HTMLStyleElement или ProcessingInstruction в уровне DOM 2.
+title: "Интерфейс ILinkStyle"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Dom.Css.ILinkStyle. Интерфейс LinkStyle предоставляет механизм, позволяющий получить таблицу стилей из узла, отвечающего за её связывание с документом. Экземпляр интерфейса LinkStyle можно получить с помощью методов приведения типов, специфичных для привязки, к экземпляру узла‑связывателя HTMLLinkElement, HTMLStyleElement или ProcessingInstruction в DOM Level 2"
 type: docs
-weight: 720
+weight: 2720
 url: /ru/net/aspose.svg.dom.css/ilinkstyle/
 ---
 ## ILinkStyle interface
 
-Интерфейс LinkStyle предоставляет механизм, с помощью которого таблица стилей может быть извлечена из узла, ответственного за ее связывание с документом. Экземпляр интерфейса LinkStyle можно получить с помощью методов приведения конкретных привязок к экземпляру связывающего узла (HTMLLinkElement, HTMLStyleElement или ProcessingInstruction в уровне DOM 2).
+Интерфейс LinkStyle предоставляет механизм получения таблицы стилей из узла, отвечающего за её связывание с документом. Экземпляр интерфейса LinkStyle можно получить с помощью методов приведения, специфичных для привязки, к экземпляру узла‑связывающего (HTMLLinkElement, HTMLStyleElement или ProcessingInstruction в DOM Level 2).
 
 ```csharp
 public interface ILinkStyle
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Sheet](../../aspose.svg.dom.css/ilinkstyle/sheet/) { get; } | Получает связанную таблицу стилей. |
+| [Sheet](../../aspose.svg.dom.css/ilinkstyle/sheet/) { get; } | Получает связанный лист стилей. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

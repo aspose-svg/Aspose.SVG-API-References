@@ -1,14 +1,14 @@
 ---
-title: Color.ToRgbHexString
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает шестнадцатеричный цвет указанный с помощью RRGGBB.
+title: "Color.ToRgbHexString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color ToRgbHexString. Возвращает шестнадцатеричный цвет, указанный в формате RRGGBB."
 type: docs
 weight: 410
 url: /ru/net/aspose.svg.drawing/color/torgbhexstring/
 ---
 ## Color.ToRgbHexString method
 
-Возвращает шестнадцатеричный цвет, указанный с помощью: #RRGGBB.
+Возвращает шестнадцатеричный цвет, указанный как: #RRGGBB.
 
 ```csharp
 public string ToRgbHexString()
@@ -16,12 +16,10 @@ public string ToRgbHexString()
 
 ### Возвращаемое значение
 
-Шестнадцатеричная строка цвета.
+Строка шестнадцатеричного цвета.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

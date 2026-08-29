@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Height
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRectElement свойство. Соответствует атрибуту высота данного элемента прямоугольник.
+title: "SVGRectElement.Height"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Height SVGRectElement. Соответствует атрибуту height в данном элементе rect"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgrectelement/height/
 ---
 ## SVGRectElement.Height property
 
-Соответствует атрибуту "высота" данного элемента "прямоугольник".
+Соответствует атрибуту ‘height’ в данном элементе ‘rect’
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «высота» данного «прямоугольного» элемента.
+Атрибут ‘height’ данного элемента ‘rect’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* пространство имен [Aspose.Svg](../../svgrectelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

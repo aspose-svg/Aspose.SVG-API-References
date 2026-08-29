@@ -1,14 +1,14 @@
 ---
-title: Text.SplitText
-second_title: Справочник по Aspose.SVG для .NET API
-description: Text метод. Разбивает этот узел на два узла по указанному смещению сохраняя оба узла в дереве как братья и сестры.
+title: "Text.SplitText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Text SplitText. Разделяет этот узел на два узла в указанном смещении, оставляя оба в дереве как соседние."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom/text/splittext/
 ---
 ## Text.SplitText method
 
-Разбивает этот узел на два узла по указанному смещению, сохраняя оба узла в дереве как братья и сестры.
+Разбивает этот узел на два узла в указанном смещении, оставляя оба в дереве как соседние узлы.
 
 ```csharp
 public Text SplitText(int offset)
@@ -20,12 +20,10 @@ public Text SplitText(int offset)
 
 ### Возвращаемое значение
 
-[`Text`](../) .
+Элемент [`Text`](../).
 
-### Смотрите также
+### См. также
 
 * class [Text](../)
-* пространство имен [Aspose.Svg.Dom](../../text/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: Event.DefaultPrevented
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event свойство. Возвращает значение true если функция preventDefault была вызвана когда значение отменяемого атрибута равно true и значение false в противном случае.
+title: "Event.DefaultPrevented"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Event DefaultPrevented. Возвращает true, если метод preventDefault был вызван, когда атрибут cancelable имеет значение true, и false в противном случае."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.events/event/defaultprevented/
 ---
 ## Event.DefaultPrevented property
 
-Возвращает значение true, если функция preventDefault() была вызвана, когда значение отменяемого атрибута равно true, и значение false в противном случае.
+Возвращает true, если был вызван preventDefault() при значении атрибута cancelable, равном true, и false в противном случае.
 
 ```csharp
 public bool DefaultPrevented { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [по умолчанию запрещено]; в противном случае,`ЛОЖЬ` .
+`true` если [default prevented]; в противном случае `false`.
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

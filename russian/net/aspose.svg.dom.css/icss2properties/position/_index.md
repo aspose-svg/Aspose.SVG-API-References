@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Position
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства position в CSS2.
+title: "ICSS2Properties.Position"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Position интерфейса ICSS2Properties. См. определение свойства position в CSS2"
 type: docs
-weight: 950
+weight: 980
 url: /ru/net/aspose.svg.dom.css/icss2properties/position/
 ---
 ## ICSS2Properties.Position property
 
-См. определение свойства position в CSS2.
+Смотрите определение свойства position в CSS2.
 
 ```csharp
 public string Position { get; set; }
@@ -16,12 +16,10 @@ public string Position { get; set; }
 
 ### Возвращаемое значение
 
-свойство позиции
+свойство position
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

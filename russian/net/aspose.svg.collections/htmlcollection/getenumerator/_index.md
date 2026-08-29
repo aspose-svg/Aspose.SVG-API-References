@@ -1,7 +1,7 @@
 ---
-title: HTMLCollection.GetEnumerator
-second_title: Справочник по Aspose.SVG для .NET API
-description: HTMLCollection метод. Получает перечислитель.
+title: "HTMLCollection.GetEnumerator"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetEnumerator у HTMLCollection. Получает перечислитель"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.collections/htmlcollection/getenumerator/
@@ -16,13 +16,11 @@ public abstract IEnumerator<Element> GetEnumerator()
 
 ### Возвращаемое значение
 
-АнIEnumerator объект, который можно использовать для перебора коллекции.
+Объект IEnumerator, который можно использовать для перебора элементов коллекции.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* пространство имен [Aspose.Svg.Collections](../../htmlcollection/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Element.RemoveAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Удаляет атрибут по имени.
+title: "Element.RemoveAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element RemoveAttribute. Удаляет атрибут по имени"
 type: docs
 weight: 370
 url: /ru/net/aspose.svg.dom/element/removeattribute/
@@ -11,17 +11,15 @@ url: /ru/net/aspose.svg.dom/element/removeattribute/
 Удаляет атрибут по имени.
 
 ```csharp
-public void RemoveAttribute(string name)
+public void RemoveAttribute(string qualifiedName)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя атрибута. |
+| qualifiedName | String | Имя атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

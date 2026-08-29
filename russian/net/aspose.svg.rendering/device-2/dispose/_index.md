@@ -1,23 +1,21 @@
 ---
-title: Device2.Dispose
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Выполняет определяемые приложением задачи связанные с освобождением высвобождением или сбросом неуправляемых ресурсов.
+title: "Device-2.Dispose"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device Dispose method. Выполняет задачи, определённые приложением, связанные со освобождением, высвобождением или сбросом неуправляемых ресурсов."
 type: docs
-weight: 100
+weight: 130
 url: /ru/net/aspose.svg.rendering/device-2/dispose/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Dispose method
+## Device<TGraphicContext,TRenderingOptions>.Dispose method
 
-Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов.
+Выполняет задачи, определённые приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов.
 
 ```csharp
 public void Dispose()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

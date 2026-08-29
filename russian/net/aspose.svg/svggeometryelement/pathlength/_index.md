@@ -1,28 +1,26 @@
 ---
-title: SVGGeometryElement.PathLength
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGeometryElement свойство. Соответствует атрибуту pathLength данного элемента.
+title: "SVGGeometryElement.PathLength"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGGeometryElement PathLength. Соответствует атрибуту pathLength данного элемента."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svggeometryelement/pathlength/
 ---
 ## SVGGeometryElement.PathLength property
 
-Соответствует атрибуту pathLength данного элемента.
+Соответствует атрибуту pathLength на данном элементе.
 
 ```csharp
 public SVGAnimatedNumber PathLength { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Атрибут pathLength данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGGeometryElement](../)
-* пространство имен [Aspose.Svg](../../svggeometryelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

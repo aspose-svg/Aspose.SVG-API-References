@@ -1,14 +1,14 @@
 ---
-title: CSSValue.GetHashCode
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSValue метод. Возвращает хэшкод для этого экземпляра.
+title: "CSSValue.GetHashCode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CSSValue GetHashCode. Возвращает хеш-код для этого экземпляра"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.css/cssvalue/gethashcode/
 ---
 ## CSSValue.GetHashCode method
 
-Возвращает хэш-код для этого экземпляра.
+Возвращает хеш‑код для этого экземпляра.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Хэш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хэш-таблица.
+Хеш‑код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хеш‑таблица.
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

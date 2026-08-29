@@ -1,23 +1,21 @@
 ---
-title: SVGTransform.SVG_TRANSFORM_ROTATE
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTransform поле. Преобразование повернуть.
+title: "SVGTransform.SVG_TRANSFORM_ROTATE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGTransform SVG_TRANSFORM_ROTATE. Поворотная трансформация."
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.datatypes/svgtransform/svg_transform_rotate/
 ---
 ## SVGTransform.SVG_TRANSFORM_ROTATE field
 
-Преобразование «повернуть(…)».
+Трансформация 'rotate(…)'.
 
 ```csharp
 public const ushort SVG_TRANSFORM_ROTATE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGTransform](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgtransform/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

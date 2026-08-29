@@ -1,14 +1,14 @@
 ---
-title: SVGNumber.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGNumber метод. ВозвращаетString который представляет этот экземпляр.
+title: "SVGNumber.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ToString класса SVGNumber. Возвращает строку, представляющую этот экземпляр."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.datatypes/svgnumber/tostring/
 ---
 ## SVGNumber.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [SVGNumber](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgnumber/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

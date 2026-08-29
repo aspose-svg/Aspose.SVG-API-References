@@ -1,23 +1,21 @@
 ---
-title: CSSPrimitiveValue.CSS_URI
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue поле. Значение представляет собой URI. Значение можно получить с помощью метода getStringValue.
+title: "CSSPrimitiveValue.CSS_URI"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле CSS_URI класса CSSPrimitiveValue. Значение — URI. Значение можно получить, используя метод getStringValue."
 type: docs
-weight: 410
+weight: 420
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_uri/
 ---
 ## CSSPrimitiveValue.CSS_URI field
 
-Значение представляет собой URI. Значение можно получить с помощью метода getStringValue.
+Значение — это URI. Значение можно получить, используя метод getStringValue.
 
 ```csharp
 public const ushort CSS_URI;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

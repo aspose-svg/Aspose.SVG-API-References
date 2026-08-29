@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.SetIntValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue метод. Метод установки значения int с указанными единицами измерения. Если свойство связанное с этим значением не может принять указанную единицу измерения или значение int значение останется неизменным и будет возбуждено исключение DOMException.
+title: "CSSPrimitiveValue.SetIntValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue SetIntValue метод. Метод для установки целочисленного значения с указанной единицей измерения. Если свойство, к которому привязано это значение, не может принять указанную единицу или целочисленное значение, значение останется неизменным и будет сгенерировано DOMException."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/setintvalue/
 ---
 ## CSSPrimitiveValue.SetIntValue method
 
-Метод установки значения int с указанными единицами измерения. Если свойство, связанное с этим значением, не может принять указанную единицу измерения или значение int, значение останется неизменным и будет возбуждено исключение DOMException.
+Метод для установки значения типа int с указанной единицей. Если свойство, связанное с этим значением, не может принять указанную единицу или значение типа int, значение останется неизменным, и будет выброшено DOMException.
 
 ```csharp
 public abstract void SetIntValue(ushort unitType, int intValue)
@@ -16,13 +16,11 @@ public abstract void SetIntValue(ushort unitType, int intValue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unitType | UInt16 | Тип агрегата. |
-| intValue | Int32 | Значение int. |
+| unitType | UInt16 | Тип единицы. |
+| intValue | Int32 | Целочисленное значение. |
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: MimeType.op_Equality
-second_title: Справочник по Aspose.SVG для .NET API
-description: MimeType метод. Сравнивает два типа Mime и возвращает логическое значение указывающее совпадают ли они.
+title: "MimeType.op_Equality"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод MimeType op_Equality. Сравнивает два типа Mime и возвращает логическое значение, указывающее, совпадают ли они."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg/mimetype/op_equality/
@@ -21,12 +21,10 @@ public static bool operator ==(MimeType a, MimeType b)
 
 ### Возвращаемое значение
 
-Истинный если оба приоритета равны, иначеЛОЖЬ .
+True, если оба приоритета равны, иначе false.
 
-### Смотрите также
+### См. также
 
 * class [MimeType](../)
-* пространство имен [Aspose.Svg](../../mimetype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

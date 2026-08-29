@@ -1,9 +1,9 @@
 ---
-title: Interface INetworkService
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Services.INetworkService интерфейс. Предоставляет интерфейс для сетевых операций.
+title: "INetworkService Интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Services.INetworkService интерфейс. Предоставляет интерфейс для сетевых операций"
 type: docs
-weight: 3720
+weight: 5850
 url: /ru/net/aspose.svg.services/inetworkservice/
 ---
 ## INetworkService interface
@@ -11,20 +11,17 @@ url: /ru/net/aspose.svg.services/inetworkservice/
 Предоставляет интерфейс для сетевых операций.
 
 ```csharp
-public interface INetworkService : IService
+public interface INetworkService
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | Получает список[`MessageHandler`](../../aspose.svg.net/messagehandler/) экземпляры, которые будут вызываться как[`RequestMessage`](../../aspose.svg.net/requestmessage/) выполняет. |
-| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | Получает или задает преобразователь URL. |
+| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | Получает список экземпляров [`MessageHandler`](../../aspose.svg.net/messagehandler/), которые будут вызываться при выполнении [`RequestMessage`](../../aspose.svg.net/requestmessage/). |
+| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | Получает или задает разрешитель URL. |
 
-### Смотрите также
+### См. также
 
-* interface [IService](../iservice/)
-* пространство имен [Aspose.Svg.Services](../../aspose.svg.services/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: DOMNameAttribute.DOMNameAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMNameAttribute строитель. Инициализирует новый экземплярDOMNameAttribute класс.
+title: "DOMNameAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMNameAttribute. Инициализирует новый экземпляр класса DOMNameAttribute"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
 
-Инициализирует новый экземпляр[`DOMNameAttribute`](../) класс.
+Инициализирует новый экземпляр класса [`DOMNameAttribute`](../).
 
 ```csharp
 public DOMNameAttribute(string name)
@@ -18,10 +18,8 @@ public DOMNameAttribute(string name)
 | --- | --- | --- |
 | name | String | Имя DOM. |
 
-### Смотрите также
+### См. также
 
 * class [DOMNameAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

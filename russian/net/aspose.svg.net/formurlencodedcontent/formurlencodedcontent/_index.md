@@ -1,14 +1,14 @@
 ---
-title: FormUrlEncodedContent.FormUrlEncodedContent
-second_title: Справочник по Aspose.SVG для .NET API
-description: FormUrlEncodedContent строитель. Инициализирует новый экземплярFormUrlEncodedContent класс.
+title: "FormUrlEncodedContent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор FormUrlEncodedContent. Инициализирует новый экземпляр класса FormUrlEncodedContent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/formurlencodedcontent/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent constructor
 
-Инициализирует новый экземпляр[`FormUrlEncodedContent`](../) класс.
+Инициализирует новый экземпляр класса [`FormUrlEncodedContent`](../).
 
 ```csharp
 public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValueCollection)
@@ -16,12 +16,10 @@ public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValue
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| nameValueCollection | IEnumerable`1 | Коллекция значений имени. |
+| nameValueCollection | IEnumerable`1 | Коллекция пар имя‑значение. |
 
-### Смотрите также
+### См. также
 
 * class [FormUrlEncodedContent](../)
-* пространство имен [Aspose.Svg.Net](../../formurlencodedcontent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

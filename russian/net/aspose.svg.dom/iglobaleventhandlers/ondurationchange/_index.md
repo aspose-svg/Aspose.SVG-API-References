@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnDurationChange
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnDurationChange.
+title: "IGlobalEventHandlers.OnDurationChange"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IGlobalEventHandlers событие OnDurationChange. Получает или задает обработчик события для события OnDurationChange"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/ondurationchange/
 ---
 ## IGlobalEventHandlers.OnDurationChange event
 
-Получает или задает обработчик события OnDurationChange.
+Получает или задаёт обработчик события OnDurationChange.
 
 ```csharp
 public event DOMEventHandler OnDurationChange;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

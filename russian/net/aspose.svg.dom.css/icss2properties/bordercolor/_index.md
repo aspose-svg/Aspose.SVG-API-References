@@ -1,7 +1,7 @@
 ---
-title: ICSS2Properties.BorderColor
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства bordercolor в CSS2.
+title: "ICSS2Properties.BorderColor"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSS2Properties BorderColor свойство. См. определение свойства border-color в CSS2"
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.dom.css/icss2properties/bordercolor/
@@ -16,12 +16,10 @@ public string BorderColor { get; set; }
 
 ### Возвращаемое значение
 
-свойство цвета границы
+свойство border-color
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IWindowTimers.ClearInterval
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindowTimers метод. Отменяет таймаут установленный с помощью setInterval идентифицированный handle
+title: "IWindowTimers.ClearInterval"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IWindowTimers ClearInterval. Отменяет таймаут, установленный с помощью setInterval, идентифицированный дескриптором handle"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.window/iwindowtimers/clearinterval/
 ---
 ## IWindowTimers.ClearInterval method
 
-Отменяет тайм-аут, установленный с помощью setInterval(), идентифицированный handle
+Отменяет таймаут, установленный с помощью setInterval(), идентифицированный дескриптором handle
 
 ```csharp
 public void ClearInterval(int handle)
@@ -16,12 +16,10 @@ public void ClearInterval(int handle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| handle | Int32 | Рукоять. |
+| handle | Int32 | Дескриптор. |
 
-### Смотрите также
+### См. также
 
 * interface [IWindowTimers](../)
-* пространство имен [Aspose.Svg.Window](../../iwindowtimers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

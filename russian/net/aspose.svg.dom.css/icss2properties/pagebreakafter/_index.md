@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PageBreakAfter
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства pagebreakafter в CSS2.
+title: "ICSS2Properties.PageBreakAfter"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PageBreakAfter в ICSS2Properties. См. определение свойства page-break-after в CSS2"
 type: docs
-weight: 860
+weight: 890
 url: /ru/net/aspose.svg.dom.css/icss2properties/pagebreakafter/
 ---
 ## ICSS2Properties.PageBreakAfter property
 
-См. определение свойства page-break-after в CSS2.
+Смотрите определение свойства page-break-after в CSS2.
 
 ```csharp
 public string PageBreakAfter { get; set; }
@@ -16,12 +16,10 @@ public string PageBreakAfter { get; set; }
 
 ### Возвращаемое значение
 
-свойство разрыва страницы после
+свойство page-break-after
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

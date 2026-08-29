@@ -1,14 +1,14 @@
 ---
-title: NodeList.GetEnumerator
-second_title: Справочник по Aspose.SVG для .NET API
-description: NodeList метод. Возвращает перечислитель который выполняет итерацию по коллекции.
+title: "NodeList.GetEnumerator"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetEnumerator у NodeList. Возвращает перечислитель, который перебирает коллекцию"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.collections/nodelist/getenumerator/
 ---
 ## NodeList.GetEnumerator method
 
-Возвращает перечислитель, который выполняет итерацию по коллекции.
+Возвращает перечислитель, который проходит по коллекции.
 
 ```csharp
 public abstract IEnumerator<Node> GetEnumerator()
@@ -16,13 +16,11 @@ public abstract IEnumerator<Node> GetEnumerator()
 
 ### Возвращаемое значение
 
-АIEnumerator который можно использовать для перебора коллекции.
+Перечислитель IEnumerator, который можно использовать для перебора коллекции.
 
-### Смотрите также
+### См. также
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeList](../)
-* пространство имен [Aspose.Svg.Collections](../../nodelist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

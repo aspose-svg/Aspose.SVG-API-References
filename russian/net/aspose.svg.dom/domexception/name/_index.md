@@ -1,7 +1,7 @@
 ---
-title: DOMException.Name
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException свойство. Возвращает строку содержащую одну из строк связанных с именем ошибки.
+title: "DOMException.Name"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Name класса DOMException. Возвращает строку, содержащую одно из значений, связанных с именем ошибки"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/domexception/name/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/domexception/name/
 public string Name { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя ошибки.
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

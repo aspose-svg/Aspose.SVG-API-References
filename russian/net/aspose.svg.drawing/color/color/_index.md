@@ -1,30 +1,30 @@
 ---
-title: Color.Color
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color строитель. Инициализирует новый экземплярColor class. По умолчанию черный цвет.
+title: "Color"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор Color. Инициализирует новый экземпляр класса Color. По умолчанию цвет — чёрный"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/color/color/
 ---
 ## Color() {#constructor}
 
-Инициализирует новый экземпляр[`Color`](../) class. По умолчанию черный цвет.
+Инициализирует новый экземпляр класса [`Color`](../). По умолчанию цвет — чёрный.
 
 ```csharp
 public Color()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float) {#constructor_5}
+## Color(*float, float, float*) {#constructor_5}
 
-Инициализирует новый экземпляр[`Color`](../) class. Все компоненты цвета должны быть в диапазоне 0-1.
+Инициализирует новый экземпляр класса [`Color`](../). Все компоненты цвета должны находиться в диапазоне 0‑1.
 
 ```csharp
 public Color(float red, float green, float blue)
@@ -32,21 +32,21 @@ public Color(float red, float green, float blue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| red | Single | Красная составляющая цвета. |
-| green | Single | Зеленая составляющая цвета. |
-| blue | Single | Синяя составляющая цвета. |
+| красный | Single | Красный компонент цвета. |
+| зелёный | Single | Зелёный компонент цвета. |
+| синий | Single | Синий компонент цвета. |
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float, float) {#constructor_6}
+## Color(*float, float, float, float*) {#constructor_6}
 
-Инициализирует новый экземпляр[`Color`](../) class. Все компоненты цвета должны быть в диапазоне 0-1.
+Инициализирует новый экземпляр класса [`Color`](../). Все компоненты цвета должны находиться в диапазоне 0‑1.
 
 ```csharp
 public Color(float red, float green, float blue, float alpha)
@@ -54,22 +54,22 @@ public Color(float red, float green, float blue, float alpha)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| red | Single | Красная составляющая цвета. |
-| green | Single | Зеленая составляющая цвета. |
-| blue | Single | Синяя составляющая цвета. |
-| alpha | Single | Альфа-компонент цвета. |
+| красный | Single | Красный компонент цвета. |
+| зелёный | Single | Зелёный компонент цвета. |
+| синий | Single | Синий компонент цвета. |
+| альфа | Single | Альфа‑компонент цвета. |
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte) {#constructor_1}
+## Color(*byte, byte, byte*) {#constructor_1}
 
-Инициализирует новый экземпляр[`Color`](../)class. Все компоненты цвета должны быть в диапазоне 0-255.
+Инициализирует новый экземпляр класса [`Color`](../). Все компоненты цвета должны находиться в диапазоне 0‑255.
 
 ```csharp
 public Color(byte red, byte green, byte blue)
@@ -77,21 +77,21 @@ public Color(byte red, byte green, byte blue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| red | Byte | Красная составляющая цвета. |
-| green | Byte | Зеленая составляющая цвета. |
-| blue | Byte | Синяя составляющая цвета. |
+| красный | Byte | Красный компонент цвета. |
+| зелёный | Byte | Зелёный компонент цвета. |
+| синий | Byte | Синий компонент цвета. |
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte, byte) {#constructor_2}
+## Color(*byte, byte, byte, byte*) {#constructor_2}
 
-Инициализирует новый экземпляр[`Color`](../)class. Все компоненты цвета должны быть в диапазоне 0-255.
+Инициализирует новый экземпляр класса [`Color`](../). Все компоненты цвета должны находиться в диапазоне 0‑255.
 
 ```csharp
 public Color(byte red, byte green, byte blue, byte alpha)
@@ -99,22 +99,22 @@ public Color(byte red, byte green, byte blue, byte alpha)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| red | Byte | Байт, представляющий красный компонент цвета. |
-| green | Byte | Байт, представляющий зеленый компонент цвета. |
-| blue | Byte | Байт, представляющий синий компонент цвета. |
-| alpha | Byte | Байт, представляющий альфа-компонент цвета. |
+| красный | Byte | Байт, представляющий красный компонент цвета. |
+| зелёный | Byte | Байт, представляющий зелёный компонент цвета. |
+| синий | Byte | Байт, представляющий синий компонент цвета. |
+| альфа | Byte | Байт, представляющий альфа‑компонент цвета. |
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int) {#constructor_3}
+## Color(*int, int, int*) {#constructor_3}
 
-Инициализирует новый экземпляр[`Color`](../)class. Все компоненты цвета должны быть в диапазоне 0-255.
+Инициализирует новый экземпляр класса [`Color`](../). Все компоненты цвета должны находиться в диапазоне 0‑255.
 
 ```csharp
 public Color(int red, int green, int blue)
@@ -122,21 +122,21 @@ public Color(int red, int green, int blue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| red | Int32 | Красная составляющая цвета. |
-| green | Int32 | Зеленая составляющая цвета. |
-| blue | Int32 | Синяя составляющая цвета. |
+| красный | Int32 | Красный компонент цвета. |
+| зелёный | Int32 | Зелёный компонент цвета. |
+| синий | Int32 | Синий компонент цвета. |
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int, int) {#constructor_4}
+## Color(*int, int, int, int*) {#constructor_4}
 
-Инициализирует новый экземпляр[`Color`](../)class. Все компоненты цвета должны быть в диапазоне 0-255.
+Инициализирует новый экземпляр класса [`Color`](../). Все компоненты цвета должны находиться в диапазоне 0‑255.
 
 ```csharp
 public Color(int red, int green, int blue, int alpha)
@@ -144,15 +144,13 @@ public Color(int red, int green, int blue, int alpha)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| red | Int32 | Красная составляющая цвета. |
-| green | Int32 | Зеленая составляющая цвета. |
-| blue | Int32 | Синяя составляющая цвета. |
-| alpha | Int32 | Альфа-компонент цвета. |
+| красный | Int32 | Красный компонент цвета. |
+| зелёный | Int32 | Зелёный компонент цвета. |
+| синий | Int32 | Синий компонент цвета. |
+| альфа | Int32 | Альфа‑компонент цвета. |
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

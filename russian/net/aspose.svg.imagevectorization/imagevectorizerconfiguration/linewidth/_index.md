@@ -1,23 +1,21 @@
 ---
-title: ImageVectorizerConfiguration.LineWidth
-second_title: Справочник по Aspose.SVG для .NET API
-description: ImageVectorizerConfiguration свойство. Получает или задает ширину линии. На значение этого параметра влияет масштаб графики. Значение по умолчанию 1.
+title: "ImageVectorizerConfiguration.LineWidth"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство LineWidth класса ImageVectorizerConfiguration. Возвращает или задает ширину линии. Значение этого параметра зависит от масштаба графики. Значение по умолчанию — 1."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/linewidth/
 ---
 ## ImageVectorizerConfiguration.LineWidth property
 
-Получает или задает ширину линии. На значение этого параметра влияет масштаб графики. Значение по умолчанию: 1.
+Получает или задает ширину линии. Значение этого параметра зависит от масштаба графики. Значение по умолчанию — 1.
 
 ```csharp
 public float LineWidth { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageVectorizerConfiguration](../)
-* пространство имен [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

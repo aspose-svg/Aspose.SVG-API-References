@@ -1,23 +1,21 @@
 ---
-title: SVGTextContentElement.LENGTHADJUST_UNKNOWN
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTextContentElement поле. Перечисление было установлено на значение которое не является одним из предопределенных типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
+title: "SVGTextContentElement.LENGTHADJUST_UNKNOWN"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле LENGTHADJUST_UNKNOWN элемента SVGTextContentElement. Перечисление было установлено в значение, которое не является одним из предопределённых типов. Недопустимо пытаться определить новое значение этого типа или переключить существующее значение на этот тип."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/svgtextcontentelement/lengthadjust_unknown/
 ---
 ## SVGTextContentElement.LENGTHADJUST_UNKNOWN field
 
-Перечисление было установлено на значение, которое не является одним из предопределенных типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
+Перечисление было установлено в значение, которое не является одним из предопределённых типов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип.
 
 ```csharp
 public const ushort LENGTHADJUST_UNKNOWN;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGTextContentElement](../)
-* пространство имен [Aspose.Svg](../../svgtextcontentelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

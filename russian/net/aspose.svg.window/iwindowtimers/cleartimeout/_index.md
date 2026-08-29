@@ -1,14 +1,14 @@
 ---
-title: IWindowTimers.ClearTimeout
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindowTimers метод. Отменяет таймаут установленный с помощью setTimeout идентифицированный дескриптором.
+title: "IWindowTimers.ClearTimeout"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IWindowTimers ClearTimeout. Отменяет таймаут, установленный с помощью setTimeout, идентифицированный дескриптором handle"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.window/iwindowtimers/cleartimeout/
 ---
 ## IWindowTimers.ClearTimeout method
 
-Отменяет тайм-аут, установленный с помощью setTimeout(), идентифицированный дескриптором.
+Отменяет таймаут, установленный с помощью setTimeout(), идентифицированный дескриптором handle.
 
 ```csharp
 public void ClearTimeout(int handle)
@@ -16,12 +16,10 @@ public void ClearTimeout(int handle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| handle | Int32 | Рукоять. |
+| handle | Int32 | Дескриптор. |
 
-### Смотрите также
+### См. также
 
 * interface [IWindowTimers](../)
-* пространство имен [Aspose.Svg.Window](../../iwindowtimers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

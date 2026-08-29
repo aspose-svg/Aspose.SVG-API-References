@@ -1,7 +1,7 @@
 ---
-title: Length.op_Equality
-second_title: Справочник по Aspose.SVG для .NET API
-description: Length метод. Реализует оператор .
+title: "Length.op_Equality"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Length op_Equality. Реализует оператор"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/length/op_equality/
@@ -16,17 +16,15 @@ public static bool operator ==(Length a, Length b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Length | Параметр а. |
-| b | Length | Параметр б. |
+| a | Length | Параметр a. |
+| b | Length | Параметр b. |
 
 ### Возвращаемое значение
 
 Результат оператора.
 
-### Смотрите также
+### См. также
 
 * class [Length](../)
-* пространство имен [Aspose.Svg.Drawing](../../length/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

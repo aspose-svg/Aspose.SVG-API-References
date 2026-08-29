@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingRight
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства paddingright в CSS2.
+title: "ICSS2Properties.PaddingRight"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ICSS2Properties PaddingRight. См. определение свойства padding-right в CSS2"
 type: docs
-weight: 830
+weight: 860
 url: /ru/net/aspose.svg.dom.css/icss2properties/paddingright/
 ---
 ## ICSS2Properties.PaddingRight property
 
-См. определение свойства padding-right в CSS2.
+Смотрите определение свойства padding-right в CSS2.
 
 ```csharp
 public string PaddingRight { get; set; }
@@ -18,10 +18,8 @@ public string PaddingRight { get; set; }
 
 свойство padding-right
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

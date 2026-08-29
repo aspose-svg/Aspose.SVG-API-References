@@ -1,23 +1,31 @@
 ---
-title: Node.LastChild
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node свойство. Последний дочерний элемент этого узла. Если такого узла нет возвращается null.
+title: "Node.LastChild"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Node LastChild. Возвращает последний дочерний элемент узла. Если его родитель — элемент, то дочерний элемент обычно является элементом, текстовым узлом или узлом комментария. Возвращает null, если дочерних элементов нет."
 type: docs
-weight: 50
+weight: 40
 url: /ru/net/aspose.svg.dom/node/lastchild/
 ---
 ## Node.LastChild property
 
-Последний дочерний элемент этого узла. Если такого узла нет, возвращается null.
+Возвращает последний дочерний узел. Если его родитель — элемент, то дочерний узел обычно является элементом, текстовым узлом или узлом комментария. Возвращает null, если нет дочерних элементов.
 
 ```csharp
 public Node LastChild { get; }
 ```
 
-### Смотрите также
+### Property Value
+
+Объект [`Node`](../), который является последним дочерним элементом узла, или null, если дочерних элементов нет.
+
+## Замечания
+
+Ссылка:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-lastchild).
+
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetPointAtLength
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGeometryElement метод. Возвращает координату xy в пользовательском пространстве которая является единицами расстояния вдоль пути используя алгоритм пользовательского агента расстояния вдоль пути.
+title: "SVGGeometryElement.GetPointAtLength"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGGeometryElement GetPointAtLength. Возвращает координаты xy в пользовательском пространстве, измеренные в единицах расстояния вдоль пути с использованием алгоритма distance-along-a-path пользовательского агента."
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.svg/svggeometryelement/getpointatlength/
 ---
 ## SVGGeometryElement.GetPointAtLength method
 
-Возвращает координату (x,y) в пользовательском пространстве, которая является единицами расстояния вдоль пути, используя алгоритм пользовательского агента расстояния вдоль пути.
+Возвращает координату (x,y) в пользовательском пространстве, измеренную в единицах расстояния вдоль пути, используя алгоритм distance-along-a-path пользовательского агента.
 
 ```csharp
 public SVGPoint GetPointAtLength(float distance)
@@ -16,17 +16,15 @@ public SVGPoint GetPointAtLength(float distance)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| distance | Single | Расстояние вдоль пути относительно начала пути в виде расстояния в текущей пользовательской системе координат. |
+| расстояние | Single | Расстояние вдоль пути, относительно начала пути, в виде расстояния в текущей пользовательской системе координат. |
 
 ### Возвращаемое значение
 
-Возвращаемая точка в пространстве пользователя.
+Возвращаемая точка в пользовательском пространстве.
 
-### Смотрите также
+### См. также
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGGeometryElement](../)
-* пространство имен [Aspose.Svg](../../svggeometryelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

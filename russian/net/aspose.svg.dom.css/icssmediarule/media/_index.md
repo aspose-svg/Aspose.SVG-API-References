@@ -1,24 +1,22 @@
 ---
-title: ICSSMediaRule.Media
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSSMediaRule свойство. Список типов мультимедиа для этого правила.
+title: "ICSSMediaRule.Media"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Media элемента ICSSMediaRule. Список типов media для этого правила."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icssmediarule/media/
 ---
 ## ICSSMediaRule.Media property
 
-Список типов мультимедиа для этого правила.
+Список типов носителей для этого правила.
 
 ```csharp
 public IMediaList Media { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IMediaList](../../imedialist/)
 * interface [ICSSMediaRule](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

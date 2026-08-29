@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicRel
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathElement метод. Возвращает автономный объект SVGPathSegCurvetoCubicRel без родителей.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicRel"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGPathElement CreateSVGPathSegCurvetoCubicRel. Возвращает автономный объект SVGPathSegCurvetoCubicRel без родителя."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicRel method
 
-Возвращает автономный объект SVGPathSegCurvetoCubicRel без родителей.
+Возвращает отдельный, безродительский объект SVGPathSegCurvetoCubicRel.
 
 ```csharp
 public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float y, float x1, 
@@ -17,22 +17,20 @@ public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Относительная координата X для конечной точки этого сегмента пути. |
-| y | Single | Относительная координата Y для конечной точки этого сегмента пути. |
-| x1 | Single | Относительная координата X для первой контрольной точки. |
-| y1 | Single | Относительная координата Y для первой контрольной точки. |
-| x2 | Single | Относительная координата X для второй контрольной точки. |
-| y2 | Single | Относительная координата Y для второй контрольной точки. |
+| x | Single | Относительная координата X конечной точки этого сегмента пути. |
+| y | Single | Относительная координата Y конечной точки этого сегмента пути. |
+| x1 | Single | Относительная координата X первой контрольной точки. |
+| y1 | Single | Относительная координата Y первой контрольной точки. |
+| x2 | Single | Относительная координата X второй контрольной точки. |
+| y2 | Single | Относительная координата Y второй контрольной точки. |
 
 ### Возвращаемое значение
 
-Автономный объект SVGPathSegCurvetoCubicRel без родителей.
+Автономный объект SVGPathSegCurvetoCubicRel без родителя.
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoCubicRel](../../../aspose.svg.paths/svgpathsegcurvetocubicrel/)
 * class [SVGPathElement](../)
-* пространство имен [Aspose.Svg](../../svgpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

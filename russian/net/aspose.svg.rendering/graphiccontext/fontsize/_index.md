@@ -1,23 +1,21 @@
 ---
-title: GraphicContext.FontSize
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. Задает или получает размер шрифта текста.
+title: "GraphicContext.FontSize"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext FontSize. Устанавливает или получает размер шрифта текста."
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.svg.rendering/graphiccontext/fontsize/
 ---
 ## GraphicContext.FontSize property
 
-Задает или получает размер шрифта текста.
+Устанавливает или получает размер шрифта текста.
 
 ```csharp
 public virtual float FontSize { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

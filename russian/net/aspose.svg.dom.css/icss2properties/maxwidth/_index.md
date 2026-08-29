@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MaxWidth
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства maxwidth в CSS2.
+title: "ICSS2Properties.MaxWidth"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MaxWidth интерфейса ICSS2Properties. См. определение свойства max-width в CSS2"
 type: docs
-weight: 710
+weight: 740
 url: /ru/net/aspose.svg.dom.css/icss2properties/maxwidth/
 ---
 ## ICSS2Properties.MaxWidth property
 
-См. определение свойства max-width в CSS2.
+Смотрите определение свойства max-width в CSS2.
 
 ```csharp
 public string MaxWidth { get; set; }
@@ -16,12 +16,10 @@ public string MaxWidth { get; set; }
 
 ### Возвращаемое значение
 
-свойство максимальной ширины
+свойство max-width
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

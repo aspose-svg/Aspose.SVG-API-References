@@ -1,28 +1,26 @@
 ---
-title: IElementTraversal.NextElementSibling
-second_title: Справочник по Aspose.SVG для .NET API
-description: IElementTraversal свойство. Возвращает следующий узел одноуровневого элемента этого элемента. null если у этого элемента нет узловсестер следующих за этим в дереве документа.
+title: "IElementTraversal.NextElementSibling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IElementTraversal NextElementSibling. Возвращает следующий узел‑элемент‑сосед данного элемента. null, если у этого элемента нет узлов‑элементов‑соседей, идущих после него в дереве документа."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.traversal/ielementtraversal/nextelementsibling/
 ---
 ## IElementTraversal.NextElementSibling property
 
-Возвращает следующий узел одноуровневого элемента этого элемента. null, если у этого элемента нет узлов-сестер, следующих за этим в дереве документа.
+Возвращает следующий соседний элементный узел этого элемента. null, если у этого элемента нет соседних элементных узлов, идущих после него в дереве документа.
 
 ```csharp
 public Element NextElementSibling { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Следующий братский элемент.
+The next element sibling.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

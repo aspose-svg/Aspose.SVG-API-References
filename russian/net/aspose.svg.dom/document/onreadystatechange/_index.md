@@ -1,24 +1,22 @@
 ---
-title: Document.OnReadyStateChange
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnReadyStateChange.
+title: "Document.OnReadyStateChange"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnReadyStateChange. Получает или задает обработчик события для события OnReadyStateChange."
 type: docs
 weight: 640
 url: /ru/net/aspose.svg.dom/document/onreadystatechange/
 ---
 ## Document.OnReadyStateChange event
 
-Получает или задает обработчик события OnReadyStateChange.
+Получает или задаёт обработчик события OnReadyStateChange.
 
 ```csharp
 public event DOMEventHandler OnReadyStateChange;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

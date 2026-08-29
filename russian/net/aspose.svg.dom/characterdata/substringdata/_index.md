@@ -1,7 +1,7 @@
 ---
-title: CharacterData.SubstringData
-second_title: Справочник по Aspose.SVG для .NET API
-description: CharacterData метод. Извлекает диапазон данных из узла.
+title: "CharacterData.SubstringData"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CharacterData SubstringData. Извлекает диапазон данных из узла"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/characterdata/substringdata/
@@ -17,16 +17,14 @@ public virtual string SubstringData(int offset, int count)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | offset | Int32 | Смещение. |
-| count | Int32 | Счет. |
+| count | Int32 | Количество. |
 
 ### Возвращаемое значение
 
 Текстовые данные
 
-### Смотрите также
+### См. также
 
 * class [CharacterData](../)
-* пространство имен [Aspose.Svg.Dom](../../characterdata/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

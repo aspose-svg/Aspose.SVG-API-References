@@ -1,23 +1,21 @@
 ---
-title: Event.Bubbles
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event свойство. Используется для указания того является ли событие всплывающим событием. Если событие может всплывать значение равно true иначе значение false.
+title: "Event.Bubbles"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Event Bubbles. Используется для указания, является ли событие всплывающим. Если событие может всплывать, значение true, иначе значение false."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.events/event/bubbles/
 ---
 ## Event.Bubbles property
 
-Используется для указания того, является ли событие всплывающим событием. Если событие может всплывать, значение равно true, иначе значение false.
+Используется для указания, является ли событие всплывающим. Если событие может всплывать, значение true, иначе false.
 
 ```csharp
 public bool Bubbles { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

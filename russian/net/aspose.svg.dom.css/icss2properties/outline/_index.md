@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Outline
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства структуры в CSS2.
+title: "ICSS2Properties.Outline"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Outline интерфейса ICSS2Properties. См. определение свойства outline в CSS2"
 type: docs
-weight: 750
+weight: 780
 url: /ru/net/aspose.svg.dom.css/icss2properties/outline/
 ---
 ## ICSS2Properties.Outline property
 
-См. определение свойства структуры в CSS2.
+Смотрите определение свойства outline в CSS2.
 
 ```csharp
 public string Outline { get; set; }
@@ -16,12 +16,10 @@ public string Outline { get; set; }
 
 ### Возвращаемое значение
 
-контур свойства
+свойство outline
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

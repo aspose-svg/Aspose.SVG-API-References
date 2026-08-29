@@ -1,28 +1,26 @@
 ---
-title: ISVGFitToViewBox.ViewBox
-second_title: Справочник по Aspose.SVG для .NET API
-description: ISVGFitToViewBox свойство. Соответствует атрибуту viewBox данного элемента.
+title: "ISVGFitToViewBox.ViewBox"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство ViewBox интерфейса ISVGFitToViewBox. Соответствует атрибуту viewBox указанного элемента"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/isvgfittoviewbox/viewbox/
 ---
 ## ISVGFitToViewBox.ViewBox property
 
-Соответствует атрибуту viewBox данного элемента.
+Соответствует атрибуту ‘viewBox’ заданного элемента.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-ViewBox данного элемента.
+‘viewBox’ заданного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * interface [ISVGFitToViewBox](../)
-* пространство имен [Aspose.Svg](../../isvgfittoviewbox/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

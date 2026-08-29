@@ -1,9 +1,9 @@
 ---
-title: Class SVGPathSegList
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Paths.SVGPathSegList сорт. Этот интерфейс определяет список объектов SVGPathSeg.
+title: "Класс SVGPathSegList"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Paths.SVGPathSegList. Этот интерфейс определяет список объектов SVGPathSeg."
 type: docs
-weight: 2670
+weight: 4740
 url: /ru/net/aspose.svg.paths/svgpathseglist/
 ---
 ## SVGPathSegList class
@@ -18,10 +18,10 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 
 | Имя | Описание |
 | --- | --- |
-| [SVGPathSegList](svgpathseglist/#constructor)() | Инициализирует новый экземпляр`SVGPathSegList` класс. |
-| [SVGPathSegList](svgpathseglist/#constructor_1)(IEnumerable&lt;SVGPathSeg&gt;) | Инициализирует новый экземпляр`SVGPathSegList` класс. |
+| [SVGPathSegList](svgpathseglist/#constructor)() | Инициализирует новый экземпляр класса `SVGPathSegList`. |
+| [SVGPathSegList](svgpathseglist/#constructor_1)(*IEnumerable&lt;SVGPathSeg&gt;*) | Инициализирует новый экземпляр класса `SVGPathSegList`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -33,22 +33,20 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 
 | Имя | Описание |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(SVGPathSeg) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*[SVGPathSeg](../svgpathseg/)*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(SVGPathSeg) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(SVGPathSeg, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(SVGPathSeg, ulong) |  |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGPathSeg](../svgpathseg/)*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGPathSeg](../svgpathseg/), ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*[SVGPathSeg](../svgpathseg/), ulong*) |  |
 
-### Смотрите также
+### См. также
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
 * class [SVGPathSeg](../svgpathseg/)
-* пространство имен [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

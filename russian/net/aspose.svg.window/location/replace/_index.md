@@ -1,14 +1,14 @@
 ---
-title: Location.Replace
-second_title: Справочник по Aspose.SVG для .NET API
-description: Location метод. Удаляет текущую страницу из истории сеансов и переходит к указанной странице.
+title: "Location.Replace"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Location Replace. Удаляет текущую страницу из истории сеанса и переходит к указанной странице"
 type: docs
-weight: 30
+weight: 120
 url: /ru/net/aspose.svg.window/location/replace/
 ---
 ## Location.Replace method
 
-Удаляет текущую страницу из истории сеансов и переходит к указанной странице.
+Удаляет текущую страницу из истории сеанса и переходит к указанной странице.
 
 ```csharp
 public void Replace(string url)
@@ -16,12 +16,10 @@ public void Replace(string url)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | String | URL-адрес для навигации. |
+| url | String | Строка URL для перехода. |
 
-### Смотрите также
+### См. также
 
 * class [Location](../)
-* пространство имен [Aspose.Svg.Window](../../location/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

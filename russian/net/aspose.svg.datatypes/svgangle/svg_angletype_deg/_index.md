@@ -1,23 +1,21 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_DEG
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAngle поле. Тип единицы измерения был явно установлен в градусах.
+title: "SVGAngle.SVG_ANGLETYPE_DEG"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGAngle SVG_ANGLETYPE_DEG. Тип единицы измерения был явно установлен в градусы."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.datatypes/svgangle/svg_angletype_deg/
 ---
 ## SVGAngle.SVG_ANGLETYPE_DEG field
 
-Тип единицы измерения был явно установлен в градусах.
+Тип единицы измерения был явно установлен в градусы.
 
 ```csharp
 public const ushort SVG_ANGLETYPE_DEG;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGAngle](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgangle/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Numeric.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: Numeric метод. ВозвращаетString который представляет этот экземпляр.
+title: "Numeric.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Numeric ToString. Возвращает строку, представляющую данный экземпляр"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/numeric/tostring/
 ---
 ## Numeric.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [Numeric](../)
-* пространство имен [Aspose.Svg.Drawing](../../numeric/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

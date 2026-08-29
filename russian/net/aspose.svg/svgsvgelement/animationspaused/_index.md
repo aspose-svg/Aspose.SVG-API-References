@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.AnimationsPaused
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement метод. Возвращает true если этот фрагмент документа SVG находится в состоянии паузы.
+title: "SVGSVGElement.AnimationsPaused"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGSVGElement AnimationsPaused. Возвращает true, если этот фрагмент SVG‑документа находится в приостановленном состоянии."
 type: docs
 weight: 100
 url: /ru/net/aspose.svg/svgsvgelement/animationspaused/
 ---
 ## SVGSVGElement.AnimationsPaused method
 
-Возвращает true, если этот фрагмент документа SVG находится в состоянии паузы.
+Возвращает true, если данный фрагмент SVG‑документа находится в состоянии паузы.
 
 ```csharp
 public bool AnimationsPaused()
@@ -16,12 +16,10 @@ public bool AnimationsPaused()
 
 ### Возвращаемое значение
 
-Логическое значение, указывающее, находится ли этот фрагмент документа SVG в состоянии паузы.
+Булево значение, указывающее, находится ли этот фрагмент SVG‑документа в приостановленном состоянии.
 
-### Смотрите также
+### См. также
 
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

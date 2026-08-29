@@ -1,44 +1,42 @@
 ---
-title: Class SVGPathSegArcRel
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Paths.SVGPathSegArcRel сорт. Интерфейс SVGPathSegArcRel соответствует команде данных пути относительный arcto a.
+title: "SVGPathSegArcRel Класс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Paths.SVGPathSegArcRel класс. Интерфейс SVGPathSegArcRel соответствует относительной командой арка a в данных пути"
 type: docs
-weight: 2510
+weight: 4580
 url: /ru/net/aspose.svg.paths/svgpathsegarcrel/
 ---
 ## SVGPathSegArcRel class
 
-Интерфейс SVGPathSegArcRel соответствует команде данных пути "относительный arcto" (a).
+Интерфейс SVGPathSegArcRel соответствует команде данных пути «относительный арк» (a).
 
 ```csharp
 public class SVGPathSegArcRel : SVGPathSeg
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Angle](../../aspose.svg.paths/svgpathsegarcrel/angle/) { get; set; } | Угол поворота оси x эллипса относительно оси x пользовательской системы координат в градусах. |
-| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcrel/largearcflag/) { get; set; } | Значение параметра флага большой дуги. |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
-| [R1](../../aspose.svg.paths/svgpathsegarcrel/r1/) { get; set; } | Радиус оси x для эллипса (т.е. r1). |
-| [R2](../../aspose.svg.paths/svgpathsegarcrel/r2/) { get; set; } | Радиус оси Y для эллипса (т.е. r2). |
-| [SweepFlag](../../aspose.svg.paths/svgpathsegarcrel/sweepflag/) { get; set; } | Значение параметра флага развертки. |
+| [Angle](../../aspose.svg.paths/svgpathsegarcrel/angle/) { get; set; } | Угол поворота в градусах оси x эллипса относительно оси x системы координат пользователя. |
+| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcrel/largearcflag/) { get; set; } | Значение параметра large-arc-flag. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Тип сегмента пути, указанный одной из констант, определённых в этом интерфейсе. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Тип сегмента пути, указанный соответствующим односимвольным именем команды. |
+| [R1](../../aspose.svg.paths/svgpathsegarcrel/r1/) { get; set; } | Радиус по оси x эллипса (т.е. r1). |
+| [R2](../../aspose.svg.paths/svgpathsegarcrel/r2/) { get; set; } | Радиус по оси y эллипса (т.е. r2). |
+| [SweepFlag](../../aspose.svg.paths/svgpathsegarcrel/sweepflag/) { get; set; } | Значение параметра sweep-flag. |
 | [X](../../aspose.svg.paths/svgpathsegarcrel/x/) { get; set; } | Относительная координата X конечной точки этого сегмента пути. |
-| [Y](../../aspose.svg.paths/svgpathsegarcrel/y/) { get; set; } | Относительная координата Y для конечной точки этого сегмента пути. |
+| [Y](../../aspose.svg.paths/svgpathsegarcrel/y/) { get; set; } | Относительная координата Y конечной точки этого сегмента пути. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSeg](../svgpathseg/)
-* пространство имен [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

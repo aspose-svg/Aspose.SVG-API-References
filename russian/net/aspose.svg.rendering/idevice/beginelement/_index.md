@@ -1,14 +1,14 @@
 ---
-title: IDevice.BeginElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Начинает визуализацию элемента.
+title: "IDevice.BeginElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice BeginElement. Начинает рендеринг элемента."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.rendering/idevice/beginelement/
 ---
 ## IDevice.BeginElement method
 
-Начинает визуализацию элемента.
+Начинает отрисовку элемента.
 
 ```csharp
 public bool BeginElement(Element element, RectangleF rect)
@@ -16,18 +16,16 @@ public bool BeginElement(Element element, RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | [`Element`](../../../aspose.svg.dom/element/). |
-| rect | RectangleF | Ограничительная рамка узла. |
+| element | Element | Элемент [`Element`](../../../aspose.svg.dom/element/). |
+| rect | RectangleF | Граничный прямоугольник узла. |
 
 ### Возвращаемое значение
 
-Возвращает [true], если элемент должен быть обработан.
+Возвращает [true], если элемент следует обработать.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

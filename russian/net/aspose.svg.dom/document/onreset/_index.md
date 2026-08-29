@@ -1,7 +1,7 @@
 ---
-title: Document.OnReset
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnReset.
+title: "Document.OnReset"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnReset. Получает или задает обработчик события для события OnReset"
 type: docs
 weight: 650
 url: /ru/net/aspose.svg.dom/document/onreset/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onreset/
 public event DOMEventHandler OnReset;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,31 +1,29 @@
 ---
-title: Enum ResourceHandling
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Saving.ResourceHandling перечисление. Это перечисление представляет параметры обработки ресурсов.
+title: "Перечисление ResourceHandling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Перечисление Aspose.Svg.Saving.ResourceHandling. Это перечисление представляет варианты обработки ресурсов."
 type: docs
-weight: 3640
+weight: 5740
 url: /ru/net/aspose.svg.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration
 
-Это перечисление представляет параметры обработки ресурсов.
+Этот перечислимый тип представляет параметры обработки ресурсов.
 
 ```csharp
 public enum ResourceHandling
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Save | `0` | Ресурс будет сохранен как файл. |
+| Save | `0` | Ресурс будет сохранён как файл. |
 | Embed | `1` | Ресурс будет встроен в владельца. |
-| Discard | `2` | Ресурс будет удален. |
-| Ignore | `3` | Ресурс не будет сохранен. |
+| Discard | `2` | Ресурс будет отброшен. |
+| Ignore | `3` | Ресурс не будет сохранён. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

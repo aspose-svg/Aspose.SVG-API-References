@@ -1,7 +1,7 @@
 ---
-title: IEventTarget.DispatchEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: IEventTarget метод. Этот метод позволяет отправлять события в модель событий реализации.
+title: "IEventTarget.DispatchEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IEventTarget DispatchEvent. Этот метод позволяет отправлять события в модель событий реализации."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.events/ieventtarget/dispatchevent/
@@ -16,11 +16,11 @@ public bool DispatchEvent(Event @event)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| event | Event | Задает тип события, поведение и контекстную информацию, которые будут использоваться при обработке события. |
+| событие | Событие | Указывает тип события, его поведение и контекстную информацию, используемые при обработке события. |
 
 ### Возвращаемое значение
 
-Возвращаемое значение[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) указывает, был ли какой-либо из слушателей, обработавших событие, вызванное[`PreventDefault`](../../event/preventdefault/) . Если[`PreventDefault`](../../event/preventdefault/) было вызвано, значение ложно, иначе значение истинно.
+Возвращаемое значение [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) указывает, вызвали ли какие-либо обработчики, обработавшие событие, [`PreventDefault`](../../event/preventdefault/). Если [`PreventDefault`](../../event/preventdefault/) был вызван, значение равно false, в противном случае — true.
 
 ### Исключения
 
@@ -28,15 +28,13 @@ public bool DispatchEvent(Event @event)
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
-### Примечания
+## Замечания
 
-События, отправленные таким образом, будут иметь такое же поведение при захвате и воспроизведении, что и события, отправленные непосредственно реализацией. Целью события является[`EventTarget`](../../../aspose.svg.dom/eventtarget/) на которой[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) называется .
+События, отправленные таким образом, будут иметь такое же поведение захвата и всплытия, как события, отправляемые напрямую реализацией. Целевым объектом события является [`EventTarget`](../../../aspose.svg.dom/eventtarget/), на котором вызывается [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/).
 
-### Смотрите также
+### См. также
 
 * class [Event](../../event/)
 * interface [IEventTarget](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../ieventtarget/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

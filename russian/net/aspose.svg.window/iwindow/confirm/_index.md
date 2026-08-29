@@ -1,14 +1,14 @@
 ---
-title: IWindow.Confirm
-second_title: Справочник по Aspose.SVG для .NET API
-description: IWindow метод. Отображает модальное приглашение OK/Cancel с данным сообщением ожидает пока пользователь отклонит его и возвращает true если пользователь нажимает OK и false если пользователь нажимает Cancel.
+title: "IWindow.Confirm"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IWindow Confirm. Отображает модальное окно с запросом ОК/Отмена с заданным сообщением, ждёт, пока пользователь закроет его, и возвращает true, если пользователь нажал ОК, и false, если пользователь нажал Отмена."
 type: docs
-weight: 110
+weight: 140
 url: /ru/net/aspose.svg.window/iwindow/confirm/
 ---
 ## IWindow.Confirm method
 
-Отображает модальное приглашение OK/Cancel с данным сообщением, ожидает, пока пользователь отклонит его, и возвращает true, если пользователь нажимает OK, и false, если пользователь нажимает Cancel.
+Отображает модальное окно с запросом ОК/Отмена с указанным сообщением, ждёт, пока пользователь закроет его, и возвращает true, если пользователь нажал ОК, и false, если нажал Отмена.
 
 ```csharp
 public bool Confirm(string message)
@@ -16,16 +16,14 @@ public bool Confirm(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение. |
+| сообщение | String | Сообщение. |
 
 ### Возвращаемое значение
 
-Возвращает true, если пользователь нажимает OK, и false, если пользователь нажимает Cancel.
+Возвращает true, если пользователь нажал ОК, и false, если пользователь нажал Отмена.
 
-### Смотрите также
+### См. также
 
 * interface [IWindow](../)
-* пространство имен [Aspose.Svg.Window](../../iwindow/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: Class SVGAnimatedNumber
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.DataTypes.SVGAnimatedNumber сорт. Используется для атрибутов номера базового типа которые можно анимировать.
+title: "Класс SVGAnimatedNumber"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.DataTypes.SVGAnimatedNumber. Используется для атрибутов базового типа number, которые могут быть анимированы"
 type: docs
-weight: 150
+weight: 2140
 url: /ru/net/aspose.svg.datatypes/svganimatednumber/
 ---
 ## SVGAnimatedNumber class
 
-Используется для атрибутов номера базового типа, которые можно анимировать.
+Используется для атрибутов базового типа number, которые могут быть анимированы.
 
 ```csharp
 public class SVGAnimatedNumber : SVGAnimatedValue<float>
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,14 +25,12 @@ public class SVGAnimatedNumber : SVGAnimatedValue<float>
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| override [ToString](../../aspose.svg.datatypes/svganimatednumber/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| override [ToString](../../aspose.svg.datatypes/svganimatednumber/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
-* пространство имен [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

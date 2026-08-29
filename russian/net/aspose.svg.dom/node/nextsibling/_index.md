@@ -1,23 +1,31 @@
 ---
-title: Node.NextSibling
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node свойство. Узел следующий непосредственно за этим узлом. Если такого узла нет возвращается null.
+title: "Node.NextSibling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Node NextSibling. Возвращает узел, непосредственно следующий за указанным в массиве ChildNodes их родителя, или возвращает null, если указанный узел является последним дочерним элементом в родительском элементе."
 type: docs
-weight: 80
+weight: 70
 url: /ru/net/aspose.svg.dom/node/nextsibling/
 ---
 ## Node.NextSibling property
 
-Узел, следующий непосредственно за этим узлом. Если такого узла нет, возвращается null.
+Возвращает узел, непосредственно следующий за указанным в массиве [`ChildNodes`](../childnodes/) их родителя, или возвращает null, если указанный узел является последним дочерним элементом в родительском элементе.
 
 ```csharp
 public Node NextSibling { get; }
 ```
 
-### Смотрите также
+### Property Value
+
+Объект [`Node`](../), представляющий следующего соседа текущего узла, или null, если их нет.
+
+## Замечания
+
+Ссылка:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nextsibling).
+
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

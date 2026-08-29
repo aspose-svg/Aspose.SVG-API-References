@@ -1,14 +1,14 @@
 ---
-title: IDevice.EndElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: IDevice метод. Завершает визуализацию элемента.
+title: "IDevice.EndElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IDevice EndElement. Завершает отрисовку элемента"
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.rendering/idevice/endelement/
 ---
 ## IDevice.EndElement method
 
-Завершает визуализацию элемента.
+Завершает отрисовку элемента.
 
 ```csharp
 public void EndElement(Element element)
@@ -16,13 +16,11 @@ public void EndElement(Element element)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | [`Element`](../../../aspose.svg.dom/element/). |
+| element | Element | Элемент [`Element`](../../../aspose.svg.dom/element/). |
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IDevice](../)
-* пространство имен [Aspose.Svg.Rendering](../../idevice/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

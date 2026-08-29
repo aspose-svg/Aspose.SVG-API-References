@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Divisor
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEConvolveMatrixElement свойство. Соответствует атрибуту divisor данного элемента feConvolveMatrix.
+title: "SVGFEConvolveMatrixElement.Divisor"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Divisor элемента SVGFEConvolveMatrixElement. Соответствует атрибуту divisor в данном элементе feConvolveMatrix"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/divisor/
 ---
 ## SVGFEConvolveMatrixElement.Divisor property
 
-Соответствует атрибуту divisor данного элемента feConvolveMatrix.
+Соответствует атрибуту ‘divisor’ в данном элементе ‘feConvolveMatrix’.
 
 ```csharp
 public SVGAnimatedNumber Divisor { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'делитель' данного элемента 'feConvolveMatrix'.
+Атрибут ‘divisor’ данного элемента ‘feConvolveMatrix’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

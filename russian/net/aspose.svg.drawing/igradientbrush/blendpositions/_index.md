@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendPositions
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGradientBrush свойство. Получить позиции смешивания которые определяют пользовательский спад для градиента.
+title: "IGradientBrush.BlendPositions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IGradientBrush BlendPositions. Получает или задает позиции смешения, определяющие пользовательское затухание градиента."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/igradientbrush/blendpositions/
 ---
 ## IGradientBrush.BlendPositions property
 
-Получить позиции смешивания, которые определяют пользовательский спад для градиента.
+Получает или задаёт позиции смешивания, определяющие пользовательское затухание градиента.
 
 ```csharp
-public float[] BlendPositions { get; }
+public float[] BlendPositions { get; set; }
 ```
 
 ### Возвращаемое значение
 
-Смешайте позиции.
+Позиции смешения.
 
-### Смотрите также
+### См. также
 
 * interface [IGradientBrush](../)
-* пространство имен [Aspose.Svg.Drawing](../../igradientbrush/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

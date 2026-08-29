@@ -1,28 +1,26 @@
 ---
-title: SVGPathElement.PathSegList
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathElement свойство. Предоставляет доступ к базовому т.е. статическому содержимому атрибута d в форме которая полностью соответствует синтаксису SVG. Таким образом если в атрибуте d указаны команды absolute moveto M и absolute arcto A то pathSegList будет иметь две записи SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS.
+title: "SVGPathElement.PathSegList"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathElement PathSegList. Предоставляет доступ к базовому, т.е. статическому содержимому атрибута d в форме, полностью соответствующей синтаксису SVG. Таким образом, если атрибут d содержит абсолютную команду moveto M и абсолютную команду arcto A, то pathSegList будет иметь две записи: SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgpathelement/pathseglist/
 ---
 ## SVGPathElement.PathSegList property
 
-Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута 'd' в форме, которая полностью соответствует синтаксису SVG. Таким образом, если в атрибуте 'd' указаны команды "absolute moveto (M)" и "absolute arcto (A)", то pathSegList будет иметь две записи: SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS.
+Обеспечивает доступ к базовому (т.е. статическому) содержимому атрибута ‘d’ в форме, полностью соответствующей синтаксису SVG. Таким образом, если атрибут ‘d’ содержит команду "абсолютного перемещения (M)" и команду "абсолютного арка (A)", то pathSegList будет иметь две записи: SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS.
 
 ```csharp
 public SVGPathSegList PathSegList { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Список сегментов пути.
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* пространство имен [Aspose.Svg](../../svgpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

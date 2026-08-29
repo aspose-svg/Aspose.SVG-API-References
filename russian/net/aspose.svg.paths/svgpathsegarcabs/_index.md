@@ -1,30 +1,30 @@
 ---
-title: Class SVGPathSegArcAbs
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Paths.SVGPathSegArcAbs сорт. Интерфейс SVGPathSegArcAbs соответствует команде данных пути absolute arcto A.
+title: "Класс SVGPathSegArcAbs"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Paths.SVGPathSegArcAbs class. Интерфейс SVGPathSegArcAbs соответствует абсолютной команде данных пути arcto A."
 type: docs
-weight: 2500
+weight: 4570
 url: /ru/net/aspose.svg.paths/svgpathsegarcabs/
 ---
 ## SVGPathSegArcAbs class
 
-Интерфейс SVGPathSegArcAbs соответствует команде данных пути "absolute arcto" (A).
+Интерфейс SVGPathSegArcAbs соответствует команде данных пути «абсолютный арк» (A).
 
 ```csharp
 public class SVGPathSegArcAbs : SVGPathSeg
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Angle](../../aspose.svg.paths/svgpathsegarcabs/angle/) { get; set; } | Угол поворота оси x эллипса относительно оси x пользовательской системы координат в градусах. |
-| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcabs/largearcflag/) { get; set; } | Значение параметра флага большой дуги. |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
-| [R1](../../aspose.svg.paths/svgpathsegarcabs/r1/) { get; set; } | Радиус оси x для эллипса (т.е. r1). |
-| [R2](../../aspose.svg.paths/svgpathsegarcabs/r2/) { get; set; } | Радиус оси Y для эллипса (т.е. r2). |
-| [SweepFlag](../../aspose.svg.paths/svgpathsegarcabs/sweepflag/) { get; set; } | Значение параметра флага развертки. |
+| [Angle](../../aspose.svg.paths/svgpathsegarcabs/angle/) { get; set; } | Угол поворота в градусах оси x эллипса относительно оси x системы координат пользователя. |
+| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcabs/largearcflag/) { get; set; } | Значение параметра large-arc-flag. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Тип сегмента пути, указанный одной из констант, определённых в этом интерфейсе. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Тип сегмента пути, указанный соответствующим односимвольным именем команды. |
+| [R1](../../aspose.svg.paths/svgpathsegarcabs/r1/) { get; set; } | Радиус по оси x эллипса (т.е. r1). |
+| [R2](../../aspose.svg.paths/svgpathsegarcabs/r2/) { get; set; } | Радиус по оси y эллипса (т.е. r2). |
+| [SweepFlag](../../aspose.svg.paths/svgpathsegarcabs/sweepflag/) { get; set; } | Значение параметра sweep-flag. |
 | [X](../../aspose.svg.paths/svgpathsegarcabs/x/) { get; set; } | Абсолютная координата X конечной точки этого сегмента пути. |
 | [Y](../../aspose.svg.paths/svgpathsegarcabs/y/) { get; set; } | Абсолютная координата Y конечной точки этого сегмента пути. |
 
@@ -32,13 +32,11 @@ public class SVGPathSegArcAbs : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSeg](../svgpathseg/)
-* пространство имен [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

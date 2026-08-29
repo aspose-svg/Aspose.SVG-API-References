@@ -1,23 +1,21 @@
 ---
-title: Element.NextElementSibling
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element свойство. Возвращает следующий узел одноуровневого элемента этого элемента. null если у этого элемента нет узловсестер следующих за этим в дереве документа.
+title: "Element.NextElementSibling"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Element NextElementSibling. Возвращает следующий соседний элемент‑узел данного элемента. null, если у этого элемента нет соседних элемент‑узлов, которые идут после него в дереве документа."
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.dom/element/nextelementsibling/
 ---
 ## Element.NextElementSibling property
 
-Возвращает следующий узел одноуровневого элемента этого элемента. null, если у этого элемента нет узлов-сестер, следующих за этим в дереве документа.
+Возвращает следующий соседний элементный узел этого элемента. null, если у этого элемента нет соседних элементных узлов, идущих после него в дереве документа.
 
 ```csharp
 public Element NextElementSibling { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

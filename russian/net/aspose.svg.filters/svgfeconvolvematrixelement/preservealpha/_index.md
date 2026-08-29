@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.PreserveAlpha
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEConvolveMatrixElement свойство. Соответствует атрибуту preserveAlpha данного элемента feConvolveMatrix.
+title: "SVGFEConvolveMatrixElement.PreserveAlpha"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEConvolveMatrixElement PreserveAlpha property. Соответствует атрибуту preserveAlpha в данном элементе feConvolveMatrix"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/preservealpha/
 ---
 ## SVGFEConvolveMatrixElement.PreserveAlpha property
 
-Соответствует атрибуту preserveAlpha данного элемента feConvolveMatrix.
+Соответствует атрибуту ‘preserveAlpha’ в данном элементе ‘feConvolveMatrix’.
 
 ```csharp
 public SVGAnimatedBoolean PreserveAlpha { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут preserveAlpha данного элемента feConvolveMatrix.
+Атрибут ‘preserveAlpha’ данного ‘feConvolveMatrix’ элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedBoolean](../../../aspose.svg.datatypes/svganimatedboolean/)
 * class [SVGFEConvolveMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

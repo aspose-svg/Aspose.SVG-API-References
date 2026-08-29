@@ -1,27 +1,25 @@
 ---
-title: Entity.NotationName
-second_title: Справочник по Aspose.SVG для .NET API
-description: Entity свойство. Для неразобранных сущностей имя нотации для сущности. Для проанализированных сущностей это null.
+title: "Entity.NotationName"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Entity NotationName property. Для неразобранных сущностей — имя обозначения сущности. Для разобранных сущностей значение null"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/entity/notationname/
 ---
 ## Entity.NotationName property
 
-Для неразобранных сущностей имя нотации для сущности. Для проанализированных сущностей это null.
+Для неразобранных сущностей — имя нотации для сущности. Для разобранных сущностей значение null.
 
 ```csharp
 public string NotationName { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Имя нотации.
+Имя обозначения.
 
-### Смотрите также
+### См. также
 
 * class [Entity](../)
-* пространство имен [Aspose.Svg.Dom](../../entity/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class MutationObserver
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Mutations.MutationObserver сорт. АMutationObserver объект можно использовать для наблюдения за мутациями в деревеNode .
+title: "Класс MutationObserver"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Mutations.MutationObserver class. Объект MutationObserver может использоваться для наблюдения за мутациями дерева Node."
 type: docs
-weight: 1120
+weight: 3110
 url: /ru/net/aspose.svg.dom.mutations/mutationobserver/
 ---
 ## MutationObserver class
 
-А`MutationObserver` объект можно использовать для наблюдения за мутациями в дереве[`Node`](../../aspose.svg.dom/node/) .
+Объект `MutationObserver` может использоваться для наблюдения за мутациями дерева [`Node`](../../aspose.svg.dom/node/).
 
 ```csharp
 public class MutationObserver : DOMObject
@@ -18,22 +18,20 @@ public class MutationObserver : DOMObject
 
 | Имя | Описание |
 | --- | --- |
-| [MutationObserver](mutationobserver/)(MutationCallback) | Создает объект MutationObserver и устанавливает его[`MutationCallback`](../mutationcallback/) для обратного звонка. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того, как узлы зарегистрированы в!:Observe(Node, IMutationObserverInit) метод, мутировали. |
+| [MutationObserver](mutationobserver/)(*[MutationCallback](../mutationcallback/)*) | Создаёт объект MutationObserver и задаёт его [`MutationCallback`](../mutationcallback/) как callback. Callback вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того, как узлы, зарегистрированные методом [`Observe`](./observe/), были изменены. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Disconnect](../../aspose.svg.dom.mutations/mutationobserver/disconnect/)() | Запрещает наблюдателю наблюдать за любыми мутациями. Пока метод наблюдать() не будет использован снова, обратный вызов наблюдателя не будет вызван. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe)(Node) | Указывает пользовательскому агенту наблюдать за заданной целью (узлом) и сообщать о любых мутациях на основе критериев, заданных опциями (объект). Аргумент options позволяет устанавливать параметры наблюдения за мутациями через элементы объекта. |
-| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe_1)(Node, MutationObserverInit) | Указывает пользовательскому агенту наблюдать за заданной целью (узлом) и сообщать о любых мутациях на основе критериев, заданных опциями (объект). Аргумент options позволяет устанавливать параметры наблюдения за мутациями через элементы объекта. |
-| [TakeRecords](../../aspose.svg.dom.mutations/mutationobserver/takerecords/)() | Метод возвращает копию очереди записей, а затем очищает очередь записей. |
+| [Disconnect](../../aspose.svg.dom.mutations/mutationobserver/disconnect/)() | Останавливает наблюдатель от отслеживания любых мутаций. Пока метод observe() не будет вызван снова, callback наблюдателя не будет вызываться. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe)(*[Node](../../aspose.svg.dom/node/)*) | Инструктирует пользовательский агент наблюдать за заданной целью (узлом) и сообщать о любых мутациях в соответствии с критериями, заданными параметром options (объект). Аргумент options позволяет задавать параметры наблюдения за мутациями через члены объекта. |
+| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe/#observe_1)(*[Node](../../aspose.svg.dom/node/), [MutationObserverInit](../mutationobserverinit/)*) | Инструктирует пользовательский агент наблюдать за заданной целью (узлом) и сообщать о любых мутациях в соответствии с критериями, заданными параметром options (объект). Аргумент options позволяет задавать параметры наблюдения за мутациями через члены объекта. |
+| [TakeRecords](../../aspose.svg.dom.mutations/mutationobserver/takerecords/)() | Метод возвращает копию очереди записей и затем очищает очередь записей. |
 
-### Смотрите также
+### См. также
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

@@ -1,23 +1,21 @@
 ---
-title: SVGTextPathElement.TEXTPATH_SPACINGTYPE_AUTO
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTextPathElement поле. Соответствует значению auto.
+title: "SVGTextPathElement.TEXTPATH_SPACINGTYPE_AUTO"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGTextPathElement TEXTPATH_SPACINGTYPE_AUTO. Соответствует значению auto"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg/svgtextpathelement/textpath_spacingtype_auto/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_AUTO field
 
-Соответствует значению 'auto'.
+Соответствует значению 'auto'
 
 ```csharp
 public const ushort TEXTPATH_SPACINGTYPE_AUTO;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGTextPathElement](../)
-* пространство имен [Aspose.Svg](../../svgtextpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

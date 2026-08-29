@@ -1,28 +1,26 @@
 ---
-title: SVGFEColorMatrixElement.X
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEColorMatrixElement свойство. Соответствует атрибуту x данного элемента фильтр.
+title: "SVGFEColorMatrixElement.X"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEColorMatrixElement X. Соответствует атрибуту x в данном элементе фильтра"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.filters/svgfecolormatrixelement/x/
 ---
 ## SVGFEColorMatrixElement.X property
 
-Соответствует атрибуту «x» данного элемента «фильтр».
+Соответствует атрибуту ‘x’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «x» данного элемента «фильтр».
+Атрибут ‘x’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEColorMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecolormatrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

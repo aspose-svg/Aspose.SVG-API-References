@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.NearestViewportElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGraphicsElement свойство. Элемент который устанавливает текущее окно просмотра. Часто ближайший предок элемент svg. Null если текущий элемент является самым внешним элементом svg.
+title: "SVGGraphicsElement.NearestViewportElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGGraphicsElement NearestViewportElement. Элемент, установивший текущий viewport. Обычно это ближайший предок‑элемент svg. Null, если текущий элемент является самым внешним элементом svg."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svggraphicselement/nearestviewportelement/
 ---
 ## SVGGraphicsElement.NearestViewportElement property
 
-Элемент, который устанавливает текущее окно просмотра. Часто ближайший предок элемент 'svg'. Null, если текущий элемент является самым внешним элементом svg.
+Элемент, задающий текущий viewport. Чаще всего ближайший предок‑элемент ‘svg’. Null, если текущий элемент является самым внешним элементом svg.
 
 ```csharp
 public SVGElement NearestViewportElement { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ближайший элемент окна просмотра.
+Ближайший элемент viewport.
 
-### Смотрите также
+### См. также
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* пространство имен [Aspose.Svg](../../svggraphicselement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

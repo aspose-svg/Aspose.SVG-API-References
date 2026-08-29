@@ -1,7 +1,7 @@
 ---
-title: DOMException.SECURITY_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Операция небезопасна.
+title: "DOMException.SECURITY_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException SECURITY_ERR. Операция небезопасна"
 type: docs
 weight: 240
 url: /ru/net/aspose.svg.dom/domexception/security_err/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom/domexception/security_err/
 public const ushort SECURITY_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

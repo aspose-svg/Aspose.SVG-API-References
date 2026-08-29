@@ -1,7 +1,7 @@
 ---
-title: CharacterData.Data
-second_title: Справочник по Aspose.SVG для .NET API
-description: CharacterData свойство. Символьные данные узла реализующего этот интерфейс.
+title: "CharacterData.Data"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство CharacterData Data. Символьные данные узла, реализующего этот интерфейс"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/characterdata/data/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/characterdata/data/
 public virtual string Data { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Данные.
 
-### Смотрите также
+### См. также
 
 * class [CharacterData](../)
-* пространство имен [Aspose.Svg.Dom](../../characterdata/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

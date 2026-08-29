@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Inequality
-second_title: Справочник по Aspose.SVG для .NET API
-description: Resolution метод. Реализует оператор .
+title: "Resolution.op_Inequality"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Resolution op_Inequality. Реализует оператор"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.drawing/resolution/op_inequality/
@@ -16,17 +16,15 @@ public static bool operator !=(Resolution a, Resolution b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Resolution | Параметр а. |
-| b | Resolution | Параметр б. |
+| a | Resolution | Параметр a. |
+| b | Resolution | Параметр b. |
 
 ### Возвращаемое значение
 
 Результат оператора.
 
-### Смотрите также
+### См. также
 
 * class [Resolution](../)
-* пространство имен [Aspose.Svg.Drawing](../../resolution/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

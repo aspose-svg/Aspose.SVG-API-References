@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.GetNamedItemNS
-second_title: Справочник по Aspose.SVG для .NET API
-description: NamedNodeMap метод. Извлекает узел указанный локальным именем и URI пространства имен.
+title: "NamedNodeMap.GetNamedItemNS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetNamedItemNS в NamedNodeMap. Получает узел, указанный по локальному имени и URI пространства имён."
 type: docs
-weight: 50
+weight: 40
 url: /ru/net/aspose.svg.collections/namednodemap/getnameditemns/
 ---
 ## NamedNodeMap.GetNamedItemNS method
 
-Извлекает узел, указанный локальным именем и URI пространства имен.
+Получает узел, указанный по локальному имени и URI пространства имён.
 
 ```csharp
 public Attr GetNamedItemNS(string namespaceURI, string localName)
@@ -16,18 +16,16 @@ public Attr GetNamedItemNS(string namespaceURI, string localName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
-| localName | String | Имя местного. |
+| namespaceURI | String | URI пространства имён. |
+| localName | String | Локальное имя. |
 
 ### Возвращаемое значение
 
 Возвращает узел.
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* пространство имен [Aspose.Svg.Collections](../../namednodemap/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

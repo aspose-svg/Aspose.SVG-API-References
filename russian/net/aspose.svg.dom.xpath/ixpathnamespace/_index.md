@@ -1,28 +1,26 @@
 ---
-title: Interface IXPathNamespace
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.XPath.IXPathNamespace интерфейс. Интерфейс XPathNamespace возвращается интерфейсами XPathResult для представления типа узла пространства имен XPath которого нет в DOM.
+title: "Интерфейс IXPathNamespace"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Dom.XPath.IXPathNamespace. Интерфейс XPathNamespace возвращается интерфейсами XPathResult для представления типа узла пространства имён XPath, которого не хватает в DOM."
 type: docs
-weight: 1340
+weight: 3340
 url: /ru/net/aspose.svg.dom.xpath/ixpathnamespace/
 ---
 ## IXPathNamespace interface
 
-Интерфейс XPathNamespace возвращается интерфейсами XPathResult для представления типа узла пространства имен XPath, которого нет в DOM.
+Интерфейс XPathNamespace возвращается интерфейсами XPathResult для представления типа узла пространства имён XPath, которого не хватает в DOM.
 
 ```csharp
 public interface IXPathNamespace
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement/) { get; } | [`Element`](../../aspose.svg.dom/element/)для которого пространство имен находилось в области действия, когда оно было запрошено. Это не меняется в возвращаемом узле пространства имен, даже если документ изменяется так , что пространство имен выходит за пределы области действия этого элемента, и XPath больше не находит этот узел там. |
+| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement/) { get; } | Элемент [`Element`](../../aspose.svg.dom/element/), в контексте которого пространство имён было в области действия при запросе. Это не меняется у возвращённого узла пространства имён, даже если документ изменяется так, что пространство имён выходит из области действия у этого элемента и этот узел больше не находится там через XPath. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../)

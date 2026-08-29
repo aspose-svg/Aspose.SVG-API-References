@@ -1,9 +1,9 @@
 ---
-title: ICSS2Properties.ListStyleImage
-second_title: Справочник по Aspose.SVG для .NET API
-description: ICSS2Properties свойство. См. определение свойства liststyleimage в CSS2.
+title: "ICSS2Properties.ListStyleImage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "ICSS2Properties ListStyleImage свойство. См. определение свойства list-style-image в CSS2"
 type: docs
-weight: 600
+weight: 630
 url: /ru/net/aspose.svg.dom.css/icss2properties/liststyleimage/
 ---
 ## ICSS2Properties.ListStyleImage property
@@ -16,12 +16,10 @@ public string ListStyleImage { get; set; }
 
 ### Возвращаемое значение
 
-свойство изображения в стиле списка
+list-style-image свойство
 
-### Смотрите также
+### См. также
 
 * interface [ICSS2Properties](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../icss2properties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

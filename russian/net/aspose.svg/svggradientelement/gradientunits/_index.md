@@ -1,28 +1,26 @@
 ---
-title: SVGGradientElement.GradientUnits
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGradientElement свойство. Соответствует атрибуту gradientUnits данного элемента. Принимает одну из констант определенных в SVGUnitTypes.
+title: "SVGGradientElement.GradientUnits"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGGradientElement GradientUnits. Соответствует атрибуту gradientUnits данного элемента. Принимает одну из констант, определённых в SVGUnitTypes"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svggradientelement/gradientunits/
 ---
 ## SVGGradientElement.GradientUnits property
 
-Соответствует атрибуту 'gradientUnits' данного элемента. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту ‘gradientUnits’ в данном элементе. Принимает одну из констант, определённых в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration GradientUnits { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'gradientUnits' данного элемента.
+Атрибут ‘gradientUnits’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGGradientElement](../)
-* пространство имен [Aspose.Svg](../../svggradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

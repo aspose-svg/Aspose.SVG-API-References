@@ -1,27 +1,25 @@
 ---
-title: SVGLength.UnitType
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGLength свойство. Тип значения указанный одной из констант SVG_LENGTHTYPE_ определенных в этом интерфейсе.
+title: "SVGLength.UnitType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство UnitType класса SVGLength. Тип значения, указанный одной из констант SVG_LENGTHTYPE_, определённых в этом интерфейсе"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svglength/unittype/
 ---
 ## SVGLength.UnitType property
 
-Тип значения, указанный одной из констант SVG_LENGTHTYPE_*, определенных в этом интерфейсе.
+Тип значения, указанный одним из констант SVG_LENGTHTYPE_*, определённых в этом интерфейсе.
 
 ```csharp
 public ushort UnitType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип юнита.
+Тип единицы.
 
-### Смотрите также
+### См. также
 
 * class [SVGLength](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svglength/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

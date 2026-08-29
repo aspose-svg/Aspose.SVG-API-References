@@ -1,28 +1,26 @@
 ---
-title: SVGAElement.Target
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGAElement свойство. Соответствует атрибуту target данного элемента a.
+title: "SVGAElement.Target"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Target класса SVGAElement. Соответствует атрибуту target указанного элемента a"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgaelement/target/
 ---
 ## SVGAElement.Target property
 
-Соответствует атрибуту 'target' данного элемента 'a'.
+Соответствует атрибуту ‘target’ в данном элементе ‘a’
 
 ```csharp
 public SVGAnimatedString Target { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'цель' данного элемента 'a'.
+Атрибут ‘target’ данного элемента ‘a’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGAElement](../)
-* пространство имен [Aspose.Svg](../../svgaelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

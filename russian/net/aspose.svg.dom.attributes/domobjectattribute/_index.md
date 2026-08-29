@@ -1,14 +1,14 @@
 ---
-title: Class DOMObjectAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Attributes.DOMObjectAttribute сорт. Указывает что объект помечен этим атрибутом определенным W3C.
+title: "Класс DOMObjectAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Dom.Attributes.DOMObjectAttribute. Указывает, что объект, помеченный этим атрибутом, определён W3C."
 type: docs
-weight: 420
+weight: 2420
 url: /ru/net/aspose.svg.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class
 
-Указывает, что объект помечен этим атрибутом, определенным W3C.
+Указывает, что объект, помеченный этим атрибутом, определён W3C.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -21,9 +21,13 @@ public sealed class DOMObjectAttribute : Attribute
 | --- | --- |
 | [DOMObjectAttribute](domobjectattribute/)() | Конструктор по умолчанию. |
 
-### Смотрите также
+## Свойства
 
-* пространство имен [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* сборка [Aspose.SVG](../../)
+| Имя | Описание |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
+### См. также
 
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

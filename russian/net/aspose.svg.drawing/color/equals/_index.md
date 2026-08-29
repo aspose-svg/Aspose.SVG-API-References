@@ -1,14 +1,14 @@
 ---
-title: Color.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Определяет является ли указанныйColor равен этому экземпляру.
+title: "Color.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color Equals. Определяет, равен ли указанный Color этому экземпляру."
 type: docs
 weight: 300
 url: /ru/net/aspose.svg.drawing/color/equals/
 ---
 ## Color.Equals method
 
-Определяет, является ли указанный[`Color`](../) равен этому экземпляру.
+Определяет, равен ли указанный [`Color`](../) этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Объект | Объект для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ`.
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

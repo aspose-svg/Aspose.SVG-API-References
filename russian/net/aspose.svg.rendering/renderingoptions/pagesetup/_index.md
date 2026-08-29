@@ -1,28 +1,26 @@
 ---
-title: RenderingOptions.PageSetup
-second_title: Справочник по Aspose.SVG для .NET API
-description: RenderingOptions свойство. Получает объект настройки страницы который используется для вывода конфигурации набора страниц.
+title: "RenderingOptions.PageSetup"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство RenderingOptions PageSetup. Возвращает объект настройки страницы, который используется для конфигурации вывода набора страниц."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.rendering/renderingoptions/pagesetup/
 ---
 ## RenderingOptions.PageSetup property
 
-Получает объект настройки страницы, который используется для вывода конфигурации набора страниц.
+Получает объект настройки страницы, используемый для конфигурации выходного набора страниц.
 
 ```csharp
 public PageSetup PageSetup { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Настройка страницы.
 
-### Смотрите также
+### См. также
 
 * class [PageSetup](../../pagesetup/)
 * class [RenderingOptions](../)
-* пространство имен [Aspose.Svg.Rendering](../../renderingoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

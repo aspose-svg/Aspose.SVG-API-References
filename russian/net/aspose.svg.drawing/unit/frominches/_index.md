@@ -1,14 +1,14 @@
 ---
-title: Unit.FromInches
-second_title: Справочник по Aspose.SVG для .NET API
-description: Unit метод. ВозвращаетLength объект представленный в дюймах.
+title: "Unit.FromInches"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Unit FromInches. Возвращает объект Length, представленный в дюймах"
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.drawing/unit/frominches/
 ---
 ## Unit.FromInches method
 
-Возвращает[`Length`](../../length/) объект, представленный в дюймах.
+Возвращает объект [`Length`](../../length/) , представленный в дюймах.
 
 ```csharp
 public static Length FromInches(double value)
@@ -16,17 +16,15 @@ public static Length FromInches(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение. |
+| значение | Double | Значение. |
 
 ### Возвращаемое значение
 
-Возвращает[`Length`](../../length/) объект.
+Возвращает объект [`Length`](../../length/).
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [Unit](../)
-* пространство имен [Aspose.Svg.Drawing](../../unit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

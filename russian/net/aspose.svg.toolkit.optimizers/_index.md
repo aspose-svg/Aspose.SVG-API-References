@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Toolkit.Optimizers
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Toolkit.Оптимизаторы namespace содержит классы для оптимизации документов SVG. Процесс оптимизации включает удаление неиспользуемых или невидимых элементов и их атрибутов объединение групп и уменьшение размера сегментов пути.
+title: "Aspose.Svg.Toolkit.Optimizers"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Пространство имён Aspose.Svg.Toolkit.Optimizers содержит классы для оптимизации SVG‑документов. Процесс оптимизации включает удаление неиспользуемых или невидимых элементов и их атрибутов, объединение групп и уменьшение размера сегментов путей."
 type: docs
-weight: 320
+weight: 350
 url: /ru/net/aspose.svg.toolkit.optimizers/
 ---
-**Aspose.Svg.Toolkit.Оптимизаторы** namespace содержит классы для оптимизации документов SVG. Процесс оптимизации включает удаление неиспользуемых или невидимых элементов и их атрибутов, объединение групп и уменьшение размера сегментов пути.
+Пространство имён **Aspose.Svg.Toolkit.Optimizers** содержит классы для оптимизации SVG‑документов. Процесс оптимизации включает удаление неиспользуемых или невидимых элементов и их атрибутов, объединение групп и уменьшение размера сегментов путей.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [SVGOptimizationOptions](./svgoptimizationoptions/) | SVGOptimizationOptions — это класс для хранения параметров оптимизации документов SVG. |
-| [SVGOptimizer](./svgoptimizer/) | SVGOptimizer — статический класс, предназначенный для оптимизации документов SVG. Под оптимизацией мы понимаем удаление неиспользуемых или невидимых элементов и их атрибутов, объединение групп и уменьшение размера сегментов пути. |
-| [SVGPathOptimizationOptions](./svgpathoptimizationoptions/) | SVGPathOptimizationOptions — это класс для хранения параметров оптимизации сегментов элементов пути SVG. |
-
-
+| [SVGOptimizationOptions](./svgoptimizationoptions/) | SVGOptimizationOptions — класс для хранения параметров оптимизации SVG‑документов. |
+| [SVGOptimizer](./svgoptimizer/) | SVGOptimizer — статический класс, предназначенный для оптимизации SVG‑документов. Под оптимизацией мы подразумеваем удаление неиспользуемых или невидимых элементов и их атрибутов, объединение групп и уменьшение размера сегментов путей. |
+| [SVGPathOptimizationOptions](./svgpathoptimizationoptions/) | SVGPathOptimizationOptions — класс для хранения параметров оптимизации сегментов элементов пути SVG. |

@@ -1,7 +1,7 @@
 ---
-title: SVGPoint.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPoint свойство. Координата Y.
+title: "SVGPoint.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y класса SVGPoint. Координата Y"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.datatypes/svgpoint/y/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.svg.datatypes/svgpoint/y/
 public float Y { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Координата Y.
 
@@ -22,12 +22,10 @@ public float Y { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает, если объект SVGPoint доступен только для чтения или соответствует атрибуту DOM, который доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Выдается, если объект SVGPoint только для чтения или соответствует атрибуту DOM, который только для чтения. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPoint](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgpoint/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

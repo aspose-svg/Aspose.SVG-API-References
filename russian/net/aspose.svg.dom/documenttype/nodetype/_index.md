@@ -1,7 +1,7 @@
 ---
-title: DocumentType.NodeType
-second_title: Справочник по Aspose.SVG для .NET API
-description: DocumentType свойство. Код представляющий тип базового объекта.
+title: "DocumentType.NodeType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство DocumentType NodeType. Код, представляющий тип базового объекта"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/documenttype/nodetype/
@@ -14,14 +14,12 @@ url: /ru/net/aspose.svg.dom/documenttype/nodetype/
 public override ushort NodeType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип узла.
 
-### Смотрите также
+### См. также
 
 * class [DocumentType](../)
-* пространство имен [Aspose.Svg.Dom](../../documenttype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

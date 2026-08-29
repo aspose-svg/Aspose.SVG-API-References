@@ -1,24 +1,22 @@
 ---
-title: IGlobalEventHandlers.OnSeeking
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnSeeking.
+title: "IGlobalEventHandlers.OnSeeking"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnSeeking. Получает или задает обработчик события для OnSeeking"
 type: docs
 weight: 410
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onseeking/
 ---
 ## IGlobalEventHandlers.OnSeeking event
 
-Получает или задает обработчик события OnSeeking.
+Получает или задает обработчик события для события OnSeeking.
 
 ```csharp
 public event DOMEventHandler OnSeeking;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

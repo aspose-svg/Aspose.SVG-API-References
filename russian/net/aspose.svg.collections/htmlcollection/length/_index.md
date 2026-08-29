@@ -1,7 +1,7 @@
 ---
-title: HTMLCollection.Length
-second_title: Справочник по Aspose.SVG для .NET API
-description: HTMLCollection свойство. Количество узлов в списке.
+title: "HTMLCollection.Length"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Length у HTMLCollection. Количество узлов в списке"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.collections/htmlcollection/length/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.collections/htmlcollection/length/
 public abstract int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [HTMLCollection](../)
-* пространство имен [Aspose.Svg.Collections](../../htmlcollection/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

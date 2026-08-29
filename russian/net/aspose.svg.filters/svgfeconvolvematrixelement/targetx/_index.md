@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.TargetX
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEConvolveMatrixElement свойство. Соответствует атрибуту targetX данного элемента feConvolveMatrix.
+title: "SVGFEConvolveMatrixElement.TargetX"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGFEConvolveMatrixElement TargetX property. Соответствует атрибуту targetX в данном элементе feConvolveMatrix"
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/targetx/
 ---
 ## SVGFEConvolveMatrixElement.TargetX property
 
-Соответствует атрибуту targetX данного элемента feConvolveMatrix.
+Соответствует атрибуту ‘targetX’ в данном элементе ‘feConvolveMatrix’.
 
 ```csharp
 public SVGAnimatedInteger TargetX { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут targetX данного элемента feConvolveMatrix.
+Атрибут ‘targetX’ данного ‘feConvolveMatrix’ элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedInteger](../../../aspose.svg.datatypes/svganimatedinteger/)
 * class [SVGFEConvolveMatrixElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

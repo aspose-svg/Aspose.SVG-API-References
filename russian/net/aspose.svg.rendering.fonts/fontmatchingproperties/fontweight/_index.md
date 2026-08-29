@@ -1,23 +1,21 @@
 ---
-title: FontMatchingProperties.FontWeight
-second_title: Справочник по Aspose.SVG для .NET API
-description: FontMatchingProperties свойство. Получает значение веса шрифта.
+title: "FontMatchingProperties.FontWeight"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство FontWeight класса FontMatchingProperties. Возвращает значение толщины шрифта"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontweight/
 ---
 ## FontMatchingProperties.FontWeight property
 
-Получает значение веса шрифта.
+Возвращает значение толщины шрифта.
 
 ```csharp
 public int FontWeight { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontMatchingProperties](../)
-* пространство имен [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

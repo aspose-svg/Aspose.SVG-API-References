@@ -1,14 +1,14 @@
 ---
-title: Document.CreateExpression
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает проанализированное выражение XPath с разрешенными пространствами имен. Это полезно  когда выражение будет повторно использоваться в приложении поскольку позволяет скомпилировать строку выражения в более эффективную внутреннюю форму и предварительно разрешить все префиксы пространства имен которые встречаются в выражении.
+title: "Document.CreateExpression"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateExpression. Создаёт разобранное XPath‑выражение с разрешёнными пространствами имён. Это полезно, когда выражение будет переиспользоваться в приложении, поскольку позволяет скомпилировать строку выражения во более эффективную внутреннюю форму и предварительно разрешить все префиксы пространств имён, встречающиеся в выражении."
 type: docs
 weight: 890
 url: /ru/net/aspose.svg.dom/document/createexpression/
 ---
 ## Document.CreateExpression method
 
-Создает проанализированное выражение XPath с разрешенными пространствами имен. Это полезно , когда выражение будет повторно использоваться в приложении, поскольку позволяет скомпилировать строку выражения в более эффективную внутреннюю форму и предварительно разрешить все префиксы пространства имен, которые встречаются в выражении.
+Создаёт разобранное XPath‑выражение с разрешёнными пространствами имён. Это полезно, когда выражение будет переиспользоваться в приложении, поскольку позволяет компилировать строку выражения в более эффективную внутреннюю форму и предварительно разрешать все префиксы пространств имён, встречающиеся в выражении.
 
 ```csharp
 public IXPathExpression CreateExpression(string expression, IXPathNSResolver resolver)
@@ -16,26 +16,24 @@ public IXPathExpression CreateExpression(string expression, IXPathNSResolver res
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| expression | String | Строка выражения XPath для анализа. |
-| resolver | IXPathNSResolver | `резольвер` разрешает перевод всех префиксов, включая`XML` префикс пространства имен в выражении XPath в соответствующие URI пространства имен. Если это указано как`нулевой` , любой префикс пространства имен в выражении приведет к[`DOMException`](../../domexception/) быть брошенным с кодом`NAMESPACE_ERR`. |
+| expression | String | Строка XPath‑выражения, которую нужно разобрать. |
+| resolver | IXPathNSResolver | Параметр `resolver` позволяет переводить все префиксы, включая префикс пространства имён `xml`, внутри XPath‑выражения в соответствующие URI пространств имён. Если он указан как `null`, любой префикс пространства имён внутри выражения приведёт к выбросу [`DOMException`](../../domexception/) с кодом `NAMESPACE_ERR`. |
 
 ### Возвращаемое значение
 
-Скомпилированная форма выражения XPath.
+Скомпилированная форма XPath‑выражения.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception/) | INVALID_EXPRESSION_ERR: Возникает, если выражение не является допустимым в соответствии с правилами[`IXPathEvaluator`](../../../aspose.svg.dom.xpath/ixpathevaluator/). |
-| [DOMException](../../domexception/) | NAMESPACE_ERR: Возникает, если выражение содержит префиксы пространства имен , которые не могут быть разрешены указанным[`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver/). |
+| [DOMException](../../domexception/) | INVALID_EXPRESSION_ERR: Возникает, если выражение не является допустимым согласно правилам [`IXPathEvaluator`](../../../aspose.svg.dom.xpath/ixpathevaluator/). |
+| [DOMException](../../domexception/) | NAMESPACE_ERR: Возникает, если выражение содержит префиксы пространств имён, которые не могут быть разрешены указанным [`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver/). |
 
-### Смотрите также
+### См. также
 
 * interface [IXPathExpression](../../../aspose.svg.dom.xpath/ixpathexpression/)
 * interface [IXPathNSResolver](../../../aspose.svg.dom.xpath/ixpathnsresolver/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.Fx
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGRadialGradientElement свойство. Соответствует атрибуту fx данного элемента radialGradient.
+title: "SVGRadialGradientElement.Fx"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Fx класса SVGRadialGradientElement. Соответствует атрибуту fx в указанном элементе radialGradient."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgradialgradientelement/fx/
 ---
 ## SVGRadialGradientElement.Fx property
 
-Соответствует атрибуту fx данного элемента 'radialGradient'.
+Соответствует атрибуту ‘fx’ в данном элементе ‘radialGradient’.
 
 ```csharp
 public SVGAnimatedLength Fx { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'fx' данного элемента 'radialGradient'.
+Атрибут ‘fx’ указанного элемента ‘radialGradient’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* пространство имен [Aspose.Svg](../../svgradialgradientelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

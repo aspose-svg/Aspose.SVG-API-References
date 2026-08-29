@@ -1,27 +1,25 @@
 ---
-title: SVGException.Code
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGException свойство. Код определяющий причину по которой запрошенная операция не может быть выполнена. Значение этого члена будет одной из констант в кодовой группе SVGException.
+title: "SVGException.Code"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGException Code. Код, идентифицирующий причину, по которой запрошенная операция не могла быть выполнена. Значение этого члена будет одной из констант группы кодов SVGException."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgexception/code/
 ---
 ## SVGException.Code property
 
-Код, определяющий причину, по которой запрошенная операция не может быть выполнена. Значение этого члена будет одной из констант в кодовой группе SVGException.
+Код, идентифицирующий причину, по которой запрошенную операцию нельзя выполнить. Значение этого члена будет одной из констант в группе кодов SVGException.
 
 ```csharp
 public ushort Code { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Код ошибки.
 
-### Смотрите также
+### См. также
 
 * class [SVGException](../)
-* пространство имен [Aspose.Svg](../../svgexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

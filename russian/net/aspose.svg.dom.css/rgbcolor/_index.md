@@ -1,39 +1,37 @@
 ---
-title: Class RGBColor
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Css.RGBColor сорт. Интерфейс RGBColor используется для представления любого значения цвета RGB. Этот интерфейс отражает значения в базовом свойстве стиля. Следовательно изменения внесенные в объекты CSSPrimitiveValue изменяют свойство стиля.
+title: "Класс RGBColor"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Dom.Css.RGBColor. Интерфейс RGBColor используется для представления любого значения цвета RGB. Этот интерфейс отражает значения в базовом свойстве стиля. Поэтому изменения, внесённые в объекты CSSPrimitiveValue, изменяют свойство стиля."
 type: docs
-weight: 770
+weight: 2770
 url: /ru/net/aspose.svg.dom.css/rgbcolor/
 ---
 ## RGBColor class
 
-Интерфейс RGBColor используется для представления любого значения цвета RGB. Этот интерфейс отражает значения в базовом свойстве стиля. Следовательно, изменения, внесенные в объекты CSSPrimitiveValue, изменяют свойство стиля.
+Интерфейс RGBColor используется для представления любого значения цвета RGB. Этот интерфейс отражает значения в базовом свойстве стиля. Таким образом, изменения, внесённые в объекты CSSPrimitiveValue, изменяют свойство стиля.
 
 ```csharp
 public class RGBColor : DOMObject
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Alpha](../../aspose.svg.dom.css/rgbcolor/alpha/) { get; } | Этот атрибут используется для альфа-значения цвета RGB. |
-| [Blue](../../aspose.svg.dom.css/rgbcolor/blue/) { get; } | Этот атрибут используется для синего значения цвета RGB. |
-| [Green](../../aspose.svg.dom.css/rgbcolor/green/) { get; } | Этот атрибут используется для зеленого значения цвета RGB. |
-| [Red](../../aspose.svg.dom.css/rgbcolor/red/) { get; } | Этот атрибут используется для красного значения цвета RGB. |
+| [Alpha](../../aspose.svg.dom.css/rgbcolor/alpha/) { get; } | Возвращает значение альфа‑компоненты этого класса Color. |
+| [Blue](../../aspose.svg.dom.css/rgbcolor/blue/) { get; } | Возвращает значение синей компоненты этого класса Color. |
+| [Green](../../aspose.svg.dom.css/rgbcolor/green/) { get; } | Возвращает значение зелёной компоненты этого класса Color. |
+| [Red](../../aspose.svg.dom.css/rgbcolor/red/) { get; } | Возвращает значение красной компоненты этого класса Color. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| [ToNative](../../aspose.svg.dom.css/rgbcolor/tonative/)() | Преобразует объект в собственный цвет. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| [ToNative](../../aspose.svg.dom.css/rgbcolor/tonative/)() | Преобразует в нативный объект цвета. |
 
-### Смотрите также
+### См. также
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* пространство имен [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathElement метод. Возвращает автономный объект SVGPathSegCurvetoCubicSmoothAbs без родителей.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicSmoothAbs метод. Возвращает отдельный объект SVGPathSegCurvetoCubicSmoothAbs без родителя"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothAbs method
 
-Возвращает автономный объект SVGPathSegCurvetoCubicSmoothAbs без родителей.
+Возвращает отдельный, безродительский объект SVGPathSegCurvetoCubicSmoothAbs.
 
 ```csharp
 public SVGPathSegCurvetoCubicSmoothAbs CreateSVGPathSegCurvetoCubicSmoothAbs(float x, float y, 
@@ -17,20 +17,18 @@ public SVGPathSegCurvetoCubicSmoothAbs CreateSVGPathSegCurvetoCubicSmoothAbs(flo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Абсолютная координата X для конечной точки этого сегмента пути. |
-| y | Single | Абсолютная координата Y для конечной точки этого сегмента пути. |
-| x2 | Single | Абсолютная координата X для второй контрольной точки. |
-| y2 | Single | Абсолютная координата Y для второй контрольной точки. |
+| x | Single | Абсолютная координата X конечной точки этого сегмента пути. |
+| y | Single | Абсолютная координата Y конечной точки этого сегмента пути. |
+| x2 | Single | Абсолютная координата X второй контрольной точки. |
+| y2 | Single | Абсолютная координата Y второй контрольной точки. |
 
 ### Возвращаемое значение
 
-Автономный объект SVGPathSegCurvetoCubicSmoothAbs без родителей.
+Отдельный, безродительский объект SVGPathSegCurvetoCubicSmoothAbs.
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoCubicSmoothAbs](../../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/)
 * class [SVGPathElement](../)
-* пространство имен [Aspose.Svg](../../svgpathelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

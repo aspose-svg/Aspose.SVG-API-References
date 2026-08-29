@@ -1,7 +1,7 @@
 ---
-title: DOMObject.DOMObject
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMObject строитель. Конструктор по умолчанию.
+title: "DOMObject"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMObject. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/domobject/domobject/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom/domobject/domobject/
 public DOMObject()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMObject](../)
-* пространство имен [Aspose.Svg.Dom](../../domobject/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: IInterpolationColor.Position
-second_title: Справочник по Aspose.SVG для .NET API
-description: IInterpolationColor свойство. Получает позицию цвета.
+title: "IInterpolationColor.Position"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Position интерфейса IInterpolationColor. Получает или задает позицию цвета"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/iinterpolationcolor/position/
 ---
 ## IInterpolationColor.Position property
 
-Получает позицию цвета.
+Получает или задает позицию цвета.
 
 ```csharp
-public float Position { get; }
+public float Position { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Позиция.
 
-### Смотрите также
+### См. также
 
 * interface [IInterpolationColor](../)
-* пространство имен [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

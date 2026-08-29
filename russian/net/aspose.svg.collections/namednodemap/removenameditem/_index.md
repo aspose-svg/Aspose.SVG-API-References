@@ -1,9 +1,9 @@
 ---
-title: NamedNodeMap.RemoveNamedItem
-second_title: Справочник по Aspose.SVG для .NET API
-description: NamedNodeMap метод. Удаляет узел указанный по имени.
+title: "NamedNodeMap.RemoveNamedItem"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод RemoveNamedItem в NamedNodeMap. Удаляет узел, указанный по имени"
 type: docs
-weight: 60
+weight: 50
 url: /ru/net/aspose.svg.collections/namednodemap/removenameditem/
 ---
 ## NamedNodeMap.RemoveNamedItem method
@@ -20,13 +20,11 @@ public Attr RemoveNamedItem(string name)
 
 ### Возвращаемое значение
 
-Удаленный узел.
+Узел удалён.
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* пространство имен [Aspose.Svg.Collections](../../namednodemap/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: TypeInfo.DERIVATION_UNION
-second_title: Справочник по Aspose.SVG для .NET API
-description: TypeInfo поле. Если схема документа представляет собой XMLсхему XMLсхема часть 1 эта константа представляет объединение если задействованы простые типы.
+title: "TypeInfo.DERIVATION_UNION"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "TypeInfo DERIVATION_UNION field. Если схема документа является XML Schema XML Schema Part 1, эта константа представляет объединение, если задействованы простые типы"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/typeinfo/derivation_union/
 ---
 ## TypeInfo.DERIVATION_UNION field
 
-Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет объединение, если задействованы простые типы.
+Если схема документа является XML Schema [XML Schema Part 1], эта константа представляет объединение, если задействованы простые типы.
 
 ```csharp
 public const ulong DERIVATION_UNION;
 ```
 
-### Смотрите также
+### См. также
 
 * class [TypeInfo](../)
-* пространство имен [Aspose.Svg.Dom](../../typeinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

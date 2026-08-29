@@ -1,23 +1,21 @@
 ---
-title: RequestMessage.Dispose
-second_title: Справочник по Aspose.SVG для .NET API
-description: RequestMessage метод. Выполняет определяемые приложением задачи связанные с освобождением высвобождением или сбросом неуправляемых ресурсов.
+title: "RequestMessage.Dispose"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Dispose класса RequestMessage. Выполняет задачи, определённые приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.net/requestmessage/dispose/
 ---
 ## RequestMessage.Dispose method
 
-Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов.
+Выполняет задачи, определённые приложением, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов.
 
 ```csharp
 public void Dispose()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RequestMessage](../)
-* пространство имен [Aspose.Svg.Net](../../requestmessage/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

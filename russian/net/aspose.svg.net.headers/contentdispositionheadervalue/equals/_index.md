@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.Equals
-second_title: Справочник по Aspose.SVG для .NET API
-description: ContentDispositionHeaderValue метод. Определяет является ли указанныйObject равен этому экземпляру.
+title: "ContentDispositionHeaderValue.Equals"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ContentDispositionHeaderValue Equals. Определяет, равен ли указанный объект этому экземпляру"
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/equals/
 ---
 ## ContentDispositionHeaderValue.Equals method
 
-Определяет, является ли указанныйObject равен этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Объект | Объект для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ`.
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [ContentDispositionHeaderValue](../)
-* пространство имен [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: IElementTraversal.FirstElementChild
-second_title: Справочник по Aspose.SVG для .NET API
-description: IElementTraversal свойство. Возвращает первый узел дочернего элемента этого элемента. null если у этого элемента нет дочерних элементов.
+title: "IElementTraversal.FirstElementChild"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IElementTraversal FirstElementChild. Возвращает первый дочерний элемент данного элемента. null, если у этого элемента нет дочерних элементов."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.traversal/ielementtraversal/firstelementchild/
 ---
 ## IElementTraversal.FirstElementChild property
 
-Возвращает первый узел дочернего элемента этого элемента. null, если у этого элемента нет дочерних элементов.
+Возвращает первый дочерний узел-элемент этого элемента. null, если у этого элемента нет дочерних элементов.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Первый дочерний элемент.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

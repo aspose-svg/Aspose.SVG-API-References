@@ -1,14 +1,14 @@
 ---
-title: Color.WithAlpha
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Создает копию цвета с указанным альфакомпонентом.
+title: "Color.WithAlpha"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color WithAlpha. Создаёт копию Color с указанным альфа‑компонентом"
 type: docs
 weight: 450
 url: /ru/net/aspose.svg.drawing/color/withalpha/
 ---
 ## Color.WithAlpha method
 
-Создает копию цвета с указанным альфа-компонентом.
+Создаёт копию цвета Color с указанным альфа‑компонентом.
 
 ```csharp
 public Color WithAlpha(float alpha)
@@ -16,16 +16,14 @@ public Color WithAlpha(float alpha)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| alpha | Single | Значение альфа-компонента |
+| альфа | Single | Значение Alpha компонента |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

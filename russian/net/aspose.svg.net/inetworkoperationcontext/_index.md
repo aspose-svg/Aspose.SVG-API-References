@@ -1,29 +1,27 @@
 ---
-title: Interface INetworkOperationContext
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.INetworkOperationContext интерфейс. Предоставляет контекстную информацию для сетевых служб.
+title: "Интерфейс INetworkOperationContext"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Интерфейс Aspose.Svg.Net.INetworkOperationContext. Предоставляет контекстную информацию для сетевых сервисов"
 type: docs
-weight: 2310
+weight: 4380
 url: /ru/net/aspose.svg.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface
 
-Предоставляет контекстную информацию для сетевых служб.
+Предоставляет контекстную информацию для сетевых сервисов.
 
 ```csharp
 public interface INetworkOperationContext
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | Получает или задает сообщение запроса. |
-| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | Получает или задает ответное сообщение. |
+| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | Получает или задает сообщение ответа. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net](../../aspose.svg.net/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

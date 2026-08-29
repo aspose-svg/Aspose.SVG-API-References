@@ -1,28 +1,26 @@
 ---
-title: IParentNode.LastElementChild
-second_title: Справочник по Aspose.SVG для .NET API
-description: IParentNode свойство. Возвращает последний дочерний элемент в противном случае  null.
+title: "IParentNode.LastElementChild"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IParentNode LastElementChild. Возвращает последний дочерний элемент, если он является элементом, иначе null"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/iparentnode/lastelementchild/
 ---
 ## IParentNode.LastElementChild property
 
-Возвращает последний дочерний элемент, в противном случае — null.
+Возвращает последний дочерний узел, который является элементом, иначе null.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Последний дочерний элемент.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* пространство имен [Aspose.Svg.Dom](../../iparentnode/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: SVGLength.ValueInSpecifiedUnits
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGLength свойство. Значение в виде значения с плавающей запятой в единицах выраженных unitType. Установка этого атрибута приведет к автоматическому обновлению value и valueAsString в соответствии с этим параметром.
+title: "SVGLength.ValueInSpecifiedUnits"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGLength ValueInSpecifiedUnits. Значение в виде числа с плавающей точкой в единицах, указанных unitType. Установка этого атрибута приведёт к автоматическому обновлению value и valueAsString, чтобы отразить эту настройку."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.datatypes/svglength/valueinspecifiedunits/
 ---
 ## SVGLength.ValueInSpecifiedUnits property
 
-Значение в виде значения с плавающей запятой в единицах, выраженных unitType. Установка этого атрибута приведет к автоматическому обновлению value и valueAsString в соответствии с этим параметром.
+Значение в виде числа с плавающей точкой, в единицах, указанных в unitType. Установка этого атрибута автоматически обновит value и valueAsString, чтобы отразить изменение.
 
 ```csharp
 public float ValueInSpecifiedUnits { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение в указанных единицах.
 
@@ -22,12 +22,10 @@ public float ValueInSpecifiedUnits { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Возникает, когда длина соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Возникает, когда длина соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
 
-### Смотрите также
+### См. также
 
 * class [SVGLength](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svglength/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

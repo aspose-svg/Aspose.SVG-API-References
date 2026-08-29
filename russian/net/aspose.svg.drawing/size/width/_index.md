@@ -1,28 +1,26 @@
 ---
-title: Size.Width
-second_title: Справочник по Aspose.SVG для .NET API
-description: Size свойство. Получает или задает горизонтальную составляющую этогоSize .
+title: "Size.Width"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Size Width. Получает или задаёт горизонтальную компоненту этого Size"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/size/width/
 ---
 ## Size.Width property
 
-Получает или задает горизонтальную составляющую этого[`Size`](../) .
+Получает или задаёт горизонтальную компоненту этого [`Size`](../).
 
 ```csharp
 public Length Width { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Горизонтальная составляющая этого[`Size`](../) .
+Горизонтальная компонента этого [`Size`](../).
 
-### Смотрите также
+### См. также
 
 * class [Length](../../length/)
 * class [Size](../)
-* пространство имен [Aspose.Svg.Drawing](../../size/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: PageSetup.LeftPage
-second_title: Справочник по Aspose.SVG для .NET API
-description: PageSetup свойство. Получает конфигурацию нечетной страницы.
+title: "PageSetup.LeftPage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PageSetup LeftPage. Возвращает конфигурацию нечётной страницы"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering/pagesetup/leftpage/
 ---
 ## PageSetup.LeftPage property
 
-Получает конфигурацию нечетной страницы.
+Получает конфигурацию нечётной страницы.
 
 ```csharp
 public Page LeftPage { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* пространство имен [Aspose.Svg.Rendering](../../pagesetup/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

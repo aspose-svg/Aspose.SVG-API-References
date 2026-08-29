@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.AttributeNamespace
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationRecord свойство. Возвращает пространство имен измененного атрибута иначе null.
+title: "MutationRecord.AttributeNamespace"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MutationRecord AttributeNamespace. Возвращает пространство имён изменённого атрибута, иначе null."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/attributenamespace/
 ---
 ## MutationRecord.AttributeNamespace property
 
-Возвращает пространство имен измененного атрибута, иначе null.
+Возвращает пространство имён изменённого атрибута, иначе null.
 
 ```csharp
 public string AttributeNamespace { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пространство имен атрибутов.
+Пространство имён атрибута.
 
-### Смотрите также
+### См. также
 
 * class [MutationRecord](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

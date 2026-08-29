@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationRecord свойство. Возвращает атрибуты если это была мутация атрибута characterData если это была мутация узла CharacterData и childList если это была мутация дерева узлов.
+title: "MutationRecord.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MutationRecord Type. Возвращает attributes, если это была мутация атрибута, characterData, если это была мутация узла CharacterData, и childList, если это была мутация дерева узлов."
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/type/
 ---
 ## MutationRecord.Type property
 
-Возвращает «атрибуты», если это была мутация атрибута, «characterData», если это была мутация узла CharacterData, и «childList», если это была мутация дерева узлов.
+Возвращает "attributes", если это была мутация атрибута, "characterData", если это была мутация узла CharacterData, и "childList", если это была мутация дерева узлов.
 
 ```csharp
 public string Type { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип.
 
-### Смотрите также
+### См. также
 
 * class [MutationRecord](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

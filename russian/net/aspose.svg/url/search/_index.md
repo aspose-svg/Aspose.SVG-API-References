@@ -1,27 +1,25 @@
 ---
-title: Url.Search
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url свойство. Получает или задает строковое представление для указанного сегмента поиска URL.
+title: "Url.Search"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Url Search. Получает или задает строковое представление указанного сегмента поиска URL"
 type: docs
 weight: 110
 url: /ru/net/aspose.svg/url/search/
 ---
 ## Url.Search property
 
-Получает или задает строковое представление для указанного сегмента поиска URL.
+Получает или задает строковое представление указанного сегмента поиска URL.
 
 ```csharp
 public string Search { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Поиск.
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

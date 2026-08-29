@@ -1,7 +1,7 @@
 ---
-title: PdfEncryptionInfo.Permissions
-second_title: Справочник по Aspose.SVG для .NET API
-description: PdfEncryptionInfo свойство. Получает или задает разрешения.
+title: "PdfEncryptionInfo.PPermissions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "PdfEncryptionInfo Permissions свойство. Получает или задает разрешения"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
 public PdfPermissions Permissions { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Разрешения.
 
-### Смотрите также
+### См. также
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * class [PdfEncryptionInfo](../)
-* пространство имен [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Device2.FillText
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Заполняет указанную текстовую строку в указанном месте.
+title: "Device-2.FillText"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device FillText method. Заполняет указанный текст в заданном месте."
 type: docs
-weight: 160
+weight: 190
 url: /ru/net/aspose.svg.rendering/device-2/filltext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.FillText method
+## Device<TGraphicContext,TRenderingOptions>.FillText method
 
-Заполняет указанную текстовую строку в указанном месте.
+Заполняет указанную строку текста в указанном месте.
 
 ```csharp
-public abstract void FillText(string text, PointF pt)
+public virtual void FillText(string text, PointF pt)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Строка для заполнения. |
-| pt | PointF | Точка, указывающая координаты текста. |
+| текст | String | Строка для заполнения. |
+| pt | PointF | Точка, задающая координаты текста. |
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

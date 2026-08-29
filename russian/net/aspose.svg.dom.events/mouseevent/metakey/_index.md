@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.MetaKey
-second_title: Справочник по Aspose.SVG для .NET API
-description: MouseEvent свойство. Обратитесь к атрибуту metaKey.
+title: "MouseEvent.MetaKey"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MouseEvent MetaKey. Смотрите атрибут metaKey."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.events/mouseevent/metakey/
 ---
 ## MouseEvent.MetaKey property
 
-Обратитесь к атрибуту metaKey.
+См. атрибут metaKey.
 
 ```csharp
 public bool MetaKey { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [мета ключ]; в противном случае,`ЛОЖЬ` .
+`true`, если [meta key]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [MouseEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../mouseevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

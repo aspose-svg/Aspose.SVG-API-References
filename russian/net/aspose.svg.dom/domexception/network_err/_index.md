@@ -1,23 +1,21 @@
 ---
-title: DOMException.NETWORK_ERR
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMException поле. Произошла ошибка сети.
+title: "DOMException.NETWORK_ERR"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле DOMException NETWORK_ERR. Произошла сетевая ошибка"
 type: docs
 weight: 180
 url: /ru/net/aspose.svg.dom/domexception/network_err/
 ---
 ## DOMException.NETWORK_ERR field
 
-Произошла ошибка сети.
+Произошла сетевая ошибка.
 
 ```csharp
 public const ushort NETWORK_ERR;
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMException](../)
-* пространство имен [Aspose.Svg.Dom](../../domexception/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

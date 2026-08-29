@@ -1,14 +1,14 @@
 ---
-title: Color.FromGray
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает новый цвет с запрошенным значением серого.
+title: "Color.FromGray"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromGray. Возвращает новый объект Color с запрошенным значением серого."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.drawing/color/fromgray/
 ---
 ## Color.FromGray method
 
-Возвращает новый цвет с запрошенным значением серого.
+Возвращает новый Color с запрошенным значением gray.
 
 ```csharp
 public static Color FromGray(float gray)
@@ -16,16 +16,14 @@ public static Color FromGray(float gray)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| gray | Single | Число с плавающей запятой, представляющее значение серого цвета. |
+| серый | Single | Число с плавающей точкой, представляющее значение серого цвета. |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

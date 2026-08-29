@@ -1,14 +1,14 @@
 ---
-title: Color.FromOklab
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает новый цвет с запрошенными значениями светлоты A B для модели OKLAB.
+title: "Color.FromOklab"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color FromOklab. Возвращает новый Color с запрошенными значениями светлоты A B для модели OKLAB."
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.drawing/color/fromoklab/
 ---
 ## Color.FromOklab method
 
-Возвращает новый цвет с запрошенными значениями светлоты, A, B для модели OKLAB.
+Возвращает новый Color с запрошенными значениями lightness, A, B для модели OKLAB.
 
 ```csharp
 public static Color FromOklab(float lightness, float a, float b)
@@ -16,18 +16,16 @@ public static Color FromOklab(float lightness, float a, float b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lightness | Single | Поплавок, представляющий компонент яркости цвета. |
-| a | Single | Поплавок, представляющий компонент A цвета. |
-| b | Single | Поплавок, представляющий компонент B цвета. |
+| светлота | Single | Число с плавающей запятой, представляющее компонент светлоты цвета. |
+| a | Single | float, представляющий компонент A цвета. |
+| b | Single | float, представляющий компонент B цвета. |
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../) сорт
+Новый экземпляр класса [`Color`](../)
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

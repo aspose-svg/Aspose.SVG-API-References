@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.Cy
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGCircleElement свойство. Соответствует атрибуту cy данного элемента circle.
+title: "SVGCircleElement.Cy"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGCircleElement Cy. Соответствует атрибуту cy в данном элементе circle."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgcircleelement/cy/
 ---
 ## SVGCircleElement.Cy property
 
-Соответствует атрибуту 'cy' данного элемента 'circle'.
+Соответствует атрибуту ‘cy’ в данном элементе ‘circle’.
 
 ```csharp
 public SVGAnimatedLength Cy { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'cy' данного элемента 'circle'.
+Атрибут ‘cy’ данного элемента ‘circle’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* пространство имен [Aspose.Svg](../../svgcircleelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.In2
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFECompositeElement свойство. Соответствует атрибуту in2 данного элемента feComposite.
+title: "SVGFECompositeElement.In2"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFECompositeElement In2. Соответствует атрибуту in2 в данном элементе feComposite."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfecompositeelement/in2/
 ---
 ## SVGFECompositeElement.In2 property
 
-Соответствует атрибуту in2 данного элемента feComposite.
+Соответствует атрибуту ‘in2’ в данном элементе ‘feComposite’.
 
 ```csharp
 public SVGAnimatedString In2 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут in2 данного элемента feComposite.
+Атрибут ‘in2’ в данном элементе ‘feComposite’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFECompositeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

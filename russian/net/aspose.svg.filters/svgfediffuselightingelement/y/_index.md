@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEDiffuseLightingElement свойство. Соответствует атрибуту y данного элемента filter.
+title: "SVGFEDiffuseLightingElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y элемента SVGFEDiffuseLightingElement. Соответствует атрибуту y данного элемента фильтра"
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.filters/svgfediffuselightingelement/y/
 ---
 ## SVGFEDiffuseLightingElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'filter'.
+Соответствует атрибуту ‘y’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента 'filter'.
+Атрибут ‘y’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDiffuseLightingElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

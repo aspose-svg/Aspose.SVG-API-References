@@ -1,27 +1,25 @@
 ---
-title: IBrowsingContext.Parent
-second_title: Справочник по Aspose.SVG для .NET API
-description: IBrowsingContext свойство. Получает родительский контекст если он есть.
+title: "IBrowsingContext.Parent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "IBrowsingContext Parent property. Получает родительский контекст, если он существует"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/ibrowsingcontext/parent/
 ---
 ## IBrowsingContext.Parent property
 
-Получает родительский контекст, если он есть.
+Получает родительский контекст, если он существует.
 
 ```csharp
 public IBrowsingContext Parent { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Родитель.
 
-### Смотрите также
+### См. также
 
 * interface [IBrowsingContext](../)
-* пространство имен [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

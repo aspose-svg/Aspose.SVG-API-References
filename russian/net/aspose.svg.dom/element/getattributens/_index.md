@@ -1,14 +1,14 @@
 ---
-title: Element.GetAttributeNS
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Извлекает значение атрибута по локальному имени и URI пространства имен.
+title: "Element.GetAttributeNS"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element GetAttributeNS. Получает значение атрибута по локальному имени и URI пространства имён."
 type: docs
 weight: 270
 url: /ru/net/aspose.svg.dom/element/getattributens/
 ---
 ## Element.GetAttributeNS method
 
-Извлекает значение атрибута по локальному имени и URI пространства имен.
+Получает значение атрибута по локальному имени и URI пространства имён.
 
 ```csharp
 public string GetAttributeNS(string namespaceURI, string localName)
@@ -16,17 +16,15 @@ public string GetAttributeNS(string namespaceURI, string localName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceURI | String | URI пространства имен. |
-| localName | String | Имя местного. |
+| namespaceURI | String | URI пространства имён. |
+| localName | String | Локальное имя. |
 
 ### Возвращаемое значение
 
 Возвращает атрибут
 
-### Смотрите также
+### См. также
 
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

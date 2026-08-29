@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetEquivalentPath
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGGeometryElement метод. Возвращает новый экземпляр экземпляраSVGPathSegList который представляетSVGGeometryElement как сегменты пути.
+title: "SVGGeometryElement.GetEquivalentPath"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetEquivalentPath SVGGeometryElement. Возвращает новый экземпляр SVGPathSegList, представляющий SVGGeometryElement в виде сегментов пути."
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.svg/svggeometryelement/getequivalentpath/
 ---
 ## SVGGeometryElement.GetEquivalentPath method
 
-Возвращает новый экземпляр экземпляра[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) который представляет[`SVGGeometryElement`](../) как сегменты пути.
+Возвращает новый экземпляр [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/), который представляет [`SVGGeometryElement`](../) в виде сегментов пути.
 
 ```csharp
 public SVGPathSegList GetEquivalentPath()
@@ -16,13 +16,11 @@ public SVGPathSegList GetEquivalentPath()
 
 ### Возвращаемое значение
 
-Новый экземпляр экземпляра[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
+Новый экземпляр [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGGeometryElement](../)
-* пространство имен [Aspose.Svg](../../svggeometryelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

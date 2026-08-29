@@ -1,28 +1,26 @@
 ---
-title: SVGLineElement.X2
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGLineElement свойство. Соответствует атрибуту x2 данного элемента line.
+title: "SVGLineElement.X2"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство X2 элемента SVGLineElement. Соответствует атрибуту x2 у данного линейного элемента."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svglineelement/x2/
 ---
 ## SVGLineElement.X2 property
 
-Соответствует атрибуту 'x2' данного элемента 'line'.
+Соответствует атрибуту ‘x2’ указанного элемента ‘line’.
 
 ```csharp
 public SVGAnimatedLength X2 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'x2' данного элемента 'line'.
+Атрибут ‘x2’ данного элемента ‘line’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* пространство имен [Aspose.Svg](../../svglineelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

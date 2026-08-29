@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.CopyTo
-second_title: Справочник по Aspose.SVG для .NET API
-description: MutationObserverInit метод. КопируетMutationObserverInit элементов в существующий одномерный массив начиная с указанного индекса массива.
+title: "MutationObserverInit.CopyTo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CopyTo класса MutationObserverInit. Копирует элементы MutationObserverInit в существующий одномерный массив, начиная с указанного индекса массива"
 type: docs
 weight: 180
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/copyto/
 ---
 ## MutationObserverInit.CopyTo method
 
-Копирует[`MutationObserverInit`](../) элементов в существующий одномерный массив, начиная с указанного индекса массива.
+Копирует элементы [`MutationObserverInit`](../) в существующий одномерный массив, начиная с указанного индекса массива.
 
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
@@ -16,13 +16,11 @@ public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | KeyValuePair`2[] | Целевой массив. |
-| arrayIndex | Int32 | Индекс массива, с которого нужно начать. |
+| массив | KeyValuePair`2[] | Массив назначения. |
+| arrayIndex | Int32 | Индекс массива, с которого начинать. |
 
-### Смотрите также
+### См. также
 
 * class [MutationObserverInit](../)
-* пространство имен [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: Document.OnDblClick
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnDblClick.
+title: "Document.OnDblClick"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnDblClick. Получает или задаёт обработчик события OnDblClick"
 type: docs
 weight: 360
 url: /ru/net/aspose.svg.dom/document/ondblclick/
 ---
 ## Document.OnDblClick event
 
-Получает или задает обработчик события OnDblClick.
+Получает или задаёт обработчик события OnDblClick.
 
 ```csharp
 public event DOMEventHandler OnDblClick;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

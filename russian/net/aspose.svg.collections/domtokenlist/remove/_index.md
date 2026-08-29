@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Remove
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMTokenList метод. Удаляет указанные токены из списка.
+title: "DOMTokenList.Remove"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод DOMTokenList Remove. Удаляет указанные токены из списка."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.collections/domtokenlist/remove/
 ---
 ## DOMTokenList.Remove method
 
-Удаляет указанные токены из списка.
+Удаляет указанные токен(ы) из списка.
 
 ```csharp
 public void Remove(params string[] tokens)
@@ -16,12 +16,10 @@ public void Remove(params string[] tokens)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tokens | String[] | Представляет токены, которые вы хотите удалить из списка. |
+| токены | String[] | Представляет токен(ы), которые вы хотите удалить из списка. |
 
-### Смотрите также
+### См. также
 
 * class [DOMTokenList](../)
-* пространство имен [Aspose.Svg.Collections](../../domtokenlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

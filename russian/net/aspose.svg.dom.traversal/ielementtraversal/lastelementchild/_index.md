@@ -1,28 +1,26 @@
 ---
-title: IElementTraversal.LastElementChild
-second_title: Справочник по Aspose.SVG для .NET API
-description: IElementTraversal свойство. Возвращает последний узел дочернего элемента этого элемента. null если у этого элемента нет дочерних элементов.
+title: "IElementTraversal.LastElementChild"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство IElementTraversal LastElementChild. Возвращает последний дочерний элемент данного элемента. null, если у этого элемента нет дочерних элементов."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.traversal/ielementtraversal/lastelementchild/
 ---
 ## IElementTraversal.LastElementChild property
 
-Возвращает последний узел дочернего элемента этого элемента. null, если у этого элемента нет дочерних элементов.
+Возвращает последний дочерний элементный узел этого элемента. null, если у этого элемента нет дочерних элементов.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Последний дочерний элемент.
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IElementTraversal](../)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../ielementtraversal/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,26 @@
 ---
-title: Device2.Clip
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Изменяет текущий путь отсечения пересекая его с текущим путем используя правило FillMode для определения области для заполнения. Этот метод завершает текущий путь.
+title: "Device-2.Clip"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device Clip method. Модифицирует текущий путь отсечения, пересекает его с текущим путем, используя FillRule для определения области заполнения. Этот метод завершает текущий путь."
 type: docs
-weight: 70
+weight: 100
 url: /ru/net/aspose.svg.rendering/device-2/clip/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Clip method
+## Device<TGraphicContext,TRenderingOptions>.Clip method
 
-Изменяет текущий путь отсечения, пересекая его с текущим путем, используя правило FillMode для определения области для заполнения. Этот метод завершает текущий путь.
+Изменяет текущий путь отсечения, пересекает его с текущим путем, используя FillRule для определения области заполнения. Этот метод завершает текущий путь.
 
 ```csharp
-public abstract void Clip(FillMode mode)
+public virtual void Clip(FillRule rule)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mode | FillMode | Режим заполнения указывает, как обрезается внутренняя часть замкнутого контура. |
+| правило | FillRule | Правило заполнения определяет, как внутреннее пространство замкнутого пути отсекается. |
 
-### Смотрите также
+### См. также
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

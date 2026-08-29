@@ -1,7 +1,7 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_OVERLAY
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEBlendElement поле. Соответствует значению overlay.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_OVERLAY"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле SVGFEBlendElement SVG_FEBLEND_MODE_OVERLAY. Соответствует значению overlay"
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_overlay/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_overlay/
 public const ushort SVG_FEBLEND_MODE_OVERLAY;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGFEBlendElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeblendelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

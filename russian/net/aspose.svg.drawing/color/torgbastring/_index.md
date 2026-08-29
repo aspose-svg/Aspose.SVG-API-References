@@ -1,14 +1,14 @@
 ---
-title: Color.ToRgbaString
-second_title: Справочник по Aspose.SVG для .NET API
-description: Color метод. Возвращает строку содержащую цвет RGBA заданный следующим образом rgbaR G B A.
+title: "Color.ToRgbaString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Color ToRgbaString. Возвращает строку, содержащую RGBA‑цвет, заданный параметрами rgbaR G B A."
 type: docs
 weight: 400
 url: /ru/net/aspose.svg.drawing/color/torgbastring/
 ---
 ## Color.ToRgbaString method
 
-Возвращает строку, содержащую цвет RGBA, заданный следующим образом: rgba(R, G, B, A).
+Возвращает строку, содержащую RGBA‑цвет, указанный как: rgba(R, G, B, A).
 
 ```csharp
 public string ToRgbaString()
@@ -16,12 +16,10 @@ public string ToRgbaString()
 
 ### Возвращаемое значение
 
-Строка RGBA.
+Строка rgba.
 
-### Смотрите также
+### См. также
 
 * class [Color](../)
-* пространство имен [Aspose.Svg.Drawing](../../color/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

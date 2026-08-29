@@ -1,23 +1,21 @@
 ---
-title: UnitType.Dppx
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение в точках на пиксель.
+title: "UnitType.Dppx"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Dppx. Измерение в единицах точек на пиксель."
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.drawing/unittype/dppx/
 ---
 ## UnitType.Dppx field
 
-Измерение в точках на пиксель.
+Измерение в точках на единицу пикселей.
 
 ```csharp
 public static readonly UnitType Dppx;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

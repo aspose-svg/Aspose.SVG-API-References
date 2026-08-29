@@ -1,14 +1,14 @@
 ---
-title: InputEvent.InputEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: InputEvent строитель. Инициализирует новый экземплярInputEvent класс.
+title: "InputEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор InputEvent. Инициализирует новый экземпляр класса InputEvent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/inputevent/inputevent/
 ---
-## InputEvent(string) {#constructor}
+## InputEvent(*string*) {#constructor}
 
-Инициализирует новый экземпляр[`InputEvent`](../) класс.
+Инициализирует новый экземпляр класса [`InputEvent`](../).
 
 ```csharp
 public InputEvent(string type)
@@ -18,17 +18,17 @@ public InputEvent(string type)
 | --- | --- | --- |
 | type | String | Тип события. |
 
-### Смотрите также
+### См. также
 
 * class [InputEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../inputevent/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## InputEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## InputEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Инициализирует новый экземпляр[`InputEvent`](../) класс.
+Инициализирует новый экземпляр класса [`InputEvent`](../).
 
 ```csharp
 public InputEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public InputEvent(string type, IDictionary<string, object> eventInitDict)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события. |
-| eventInitDict | IDictionary`2 | Событие инициализирует словарь. |
+| eventInitDict | IDictionary`2 | Словарь инициализации события. |
 
-### Смотрите также
+### См. также
 
 * class [InputEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../inputevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

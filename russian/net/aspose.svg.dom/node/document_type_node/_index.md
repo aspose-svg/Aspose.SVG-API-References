@@ -1,23 +1,21 @@
 ---
-title: Node.DOCUMENT_TYPE_NODE
-second_title: Справочник по Aspose.SVG для .NET API
-description: Node поле. Тип документа node
+title: "Node.DOCUMENT_TYPE_NODE"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле Node DOCUMENT_TYPE_NODE. Узел типа документа."
 type: docs
-weight: 370
+weight: 350
 url: /ru/net/aspose.svg.dom/node/document_type_node/
 ---
 ## Node.DOCUMENT_TYPE_NODE field
 
-Тип документа node
+Узел типа документа
 
 ```csharp
 public const ushort DOCUMENT_TYPE_NODE;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Node](../)
-* пространство имен [Aspose.Svg.Dom](../../node/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

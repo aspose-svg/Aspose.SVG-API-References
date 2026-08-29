@@ -1,14 +1,14 @@
 ---
-title: SVGTextContentElement.GetNumberOfChars
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTextContentElement метод. Возвращает общее количество символов доступных для рендеринга в текущем элементе включая символы на которые есть ссылки из ссылки tref независимо от того будут ли они рендериться. По сути это эквивалентно длине атрибута NodetextContent из ядра DOM уровня 3 DOM3 раздел 1.4 если этот атрибут также расширяет элементы tref.
+title: "SVGTextContentElement.GetNumberOfChars"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод GetNumberOfChars элемента SVGTextContentElement. Возвращает общее количество символов, доступных для рендеринга в текущем элементе, включая символы, полученные из ссылки tref, независимо от того, будут ли они отрисованы. По сути это эквивалент длины атрибута NodetextContent из DOM Level 3 Core (раздел 1.4), если этот атрибут также разворачивает элементы tref."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgtextcontentelement/getnumberofchars/
 ---
 ## SVGTextContentElement.GetNumberOfChars method
 
-Возвращает общее количество символов, доступных для рендеринга в текущем элементе, включая символы, на которые есть ссылки из ссылки 'tref', независимо от того, будут ли они рендериться. По сути, это эквивалентно длине атрибута Node::textContent из ядра DOM уровня 3 ([DOM3], раздел 1.4), если этот атрибут также расширяет элементы 'tref'.
+Возвращает общее количество символов, доступных для рендеринга в текущем элементе, включая символы, полученные из ссылки ‘tref’, независимо от того, будут ли они отрисованы. По сути, это эквивалентно длине атрибута Node::textContent из DOM Level 3 Core ([DOM3], раздел 1.4), если этот атрибут также разворачивает элементы ‘tref’.
 
 ```csharp
 public long GetNumberOfChars()
@@ -16,12 +16,10 @@ public long GetNumberOfChars()
 
 ### Возвращаемое значение
 
-Общее количество персонажей.
+Общее количество символов.
 
-### Смотрите также
+### См. также
 
 * class [SVGTextContentElement](../)
-* пространство имен [Aspose.Svg](../../svgtextcontentelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,30 +1,28 @@
 ---
-title: Device2.DrawImage
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Рисует указанное изображение.
+title: "Device-2.DrawImage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Device DrawImage method. Рисует указанное изображение."
 type: docs
-weight: 110
+weight: 140
 url: /ru/net/aspose.svg.rendering/device-2/drawimage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DrawImage method
+## Device<TGraphicContext,TRenderingOptions>.DrawImage method
 
-Рисует указанное изображение.
+Отрисовывает указанное изображение.
 
 ```csharp
-public abstract void DrawImage(byte[] data, ImageType type, RectangleF rect)
+public virtual void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Массив байтов, представляющий изображение. |
-| type | ImageType | Тип изображения. |
-| rect | RectangleF | Прямоугольник, который определяет положение и размер для рисования. |
+| данные | Byte[] | Массив байтов, представляющих изображение. |
+| imageFormat | WebImageFormat | Формат изображения. |
+| rect | RectangleF | Прямоугольник, определяющий позицию и размер для рисования. |
 
-### Смотрите также
+### См. также
 
-* enum [ImageType](../../imagetype/)
+* enum [WebImageFormat](../../../aspose.svg.drawing/webimageformat/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

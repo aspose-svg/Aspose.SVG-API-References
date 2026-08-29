@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Offset
-second_title: Справочник по Aspose.SVG для .NET API
-description: GlyphInfo свойство. Получает смещение до следующего глифа в пунктах.
+title: "GlyphInfo.Offset"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GlyphInfo Offset. Возвращает смещение до следующего глифа в пунктах"
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering/glyphinfo/offset/
 ---
 ## GlyphInfo.Offset property
 
-Получает смещение до следующего глифа в пунктах.
+Получает смещение к следующему глифу в пунктах.
 
 ```csharp
 public float Offset { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Смещение в пунктах.
 
-### Смотрите также
+### См. также
 
 * struct [GlyphInfo](../)
-* пространство имен [Aspose.Svg.Rendering](../../glyphinfo/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

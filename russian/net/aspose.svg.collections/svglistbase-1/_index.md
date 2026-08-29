@@ -1,12 +1,12 @@
 ---
-title: Class SVGListBaseT
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Collections.SVGListBase1T сорт. Этот интерфейс определяет базовый список всех списков SVG.
+title: "Класс SVGListBaseT"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Collections.SVGListBase1T. Этот интерфейс определяет базовый список всех SVG‑списков"
 type: docs
-weight: 50
+weight: 2040
 url: /ru/net/aspose.svg.collections/svglistbase-1/
 ---
-## SVGListBase&lt;T&gt; class
+## SVGListBase<T> class
 
 Этот интерфейс определяет базовый список всех списков SVG.
 
@@ -18,11 +18,11 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 | --- | --- |
 | T | Тип элемента, хранящегося в списке. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } | Возвращает индексный элемент в списке. |
+| [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } | Возвращает элемент с индексом index в списке. |
 | [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } | Количество элементов в списке. |
 | [NumberOfItems](../../aspose.svg.collections/svglistbase-1/numberofitems/) { get; } | Количество элементов в списке. |
 
@@ -30,21 +30,19 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 
 | Имя | Описание |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(T) | Вставляет новый элемент в конец списка. |
-| [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() | Удаляет все существующие текущие элементы из списка, в результате чего список становится пустым. |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*T*) | Вставляет новый элемент в конец списка. |
+| [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() | Очищает все текущие элементы из списка, в результате получая пустой список. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и — при необходимости — управляемые ресурсы. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() | Получает перечислитель. |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) | Возвращает указанный элемент из списка. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(T) | Удаляет все существующие текущие элементы из списка и повторно инициализирует список для хранения одного элемента, указанного параметром. |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(T, ulong) | Вставляет новый элемент в список в указанной позиции. Первый элемент номер 0. |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) | Удаляет существующий элемент из списка. |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(T, ulong) | Заменяет существующий элемент в списке новым элементом. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) | Возвращает указанный элемент из списка. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Этот метод используется для получения типа ECMAScript‑объекта. |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*T*) | Очищает все текущие элементы из списка и переинициализирует список, чтобы содержать единственный элемент, указанный параметром. |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*T, ulong*) | Вставляет новый элемент в список в указанную позицию. Первый элемент имеет номер 0. |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) | Удаляет существующий элемент из списка. |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*T, ulong*) | Заменяет существующий элемент в списке новым элементом. |
 
-### Смотрите также
+### См. также
 
 * class [SVGValueType](../../aspose.svg.datatypes/svgvaluetype/)
-* пространство имен [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

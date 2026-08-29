@@ -1,14 +1,14 @@
 ---
-title: Document.CreateTextNode
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document метод. Создает узел Text с заданной строкой.
+title: "Document.CreateTextNode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Document CreateTextNode. Создает узел Text с указанной строкой."
 type: docs
 weight: 930
 url: /ru/net/aspose.svg.dom/document/createtextnode/
 ---
 ## Document.CreateTextNode method
 
-Создает узел Text с заданной строкой.
+Создаёт узел Text, используя указанную строку.
 
 ```csharp
 public Text CreateTextNode(string data)
@@ -16,17 +16,15 @@ public Text CreateTextNode(string data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | String | Текстовые данные. |
+| данные | String | Текстовые данные. |
 
 ### Возвращаемое значение
 
-[`Text`](../../text/) .
+Элемент [`Text`](../../text/).
 
-### Смотрите также
+### См. также
 
 * class [Text](../../text/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

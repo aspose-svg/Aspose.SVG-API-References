@@ -1,28 +1,26 @@
 ---
-title: GraphicContext.TextInfo
-second_title: Справочник по Aspose.SVG для .NET API
-description: GraphicContext свойство. ПолучаетTextInfo объект который содержит информацию о отображаемом тексте.
+title: "GraphicContext.TextInfo"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство GraphicContext TextInfo. Возвращает объект TextInfo, который содержит информацию о отрисованном тексте"
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property
 
-Получает[`TextInfo`](../../textinfo/) объект, который содержит информацию о отображаемом тексте.
+Возвращает объект [`TextInfo`](../../textinfo/), который содержит информацию о отрисованном тексте.
 
 ```csharp
 public virtual TextInfo TextInfo { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`TextInfo`](../../textinfo/) объект.
+Объект [`TextInfo`](../../textinfo/).
 
-### Смотрите также
+### См. также
 
 * class [TextInfo](../../textinfo/)
 * class [GraphicContext](../)
-* пространство имен [Aspose.Svg.Rendering](../../graphiccontext/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: Url.Href
-second_title: Справочник по Aspose.SVG для .NET API
-description: Url свойство. Получает или задает сериализованное представление для указанного экземпляра URL.
+title: "Url.Href"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Url Href. Получает или задает сериализованное представление указанного экземпляра URL"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/url/href/
 ---
 ## Url.Href property
 
-Получает или задает сериализованное представление для указанного экземпляра URL.
+Получает или задает сериализованное представление указанного экземпляра URL.
 
 ```csharp
 public string Href { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ссылка href.
+Href.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| Error | TypeError: возникает, если`ценить` не может быть проанализирован как действительный URL. |
+| Ошибка | TypeError: возникает, если `value` не может быть разобран как корректный URL. |
 
-### Смотрите также
+### См. также
 
 * class [Url](../)
-* пространство имен [Aspose.Svg](../../url/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGMatrix
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGSVGElement метод. Создает объект SVGMatrix вне какихлибо деревьев документов. Объект инициализируется единичной матрицей.
+title: "SVGSVGElement.CreateSVGMatrix"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод SVGSVGElement CreateSVGMatrix. Создаёт объект SVGMatrix вне любых деревьев документа. Объект инициализируется единичной матрицей."
 type: docs
 weight: 140
 url: /ru/net/aspose.svg/svgsvgelement/createsvgmatrix/
 ---
 ## SVGSVGElement.CreateSVGMatrix method
 
-Создает объект SVGMatrix вне каких-либо деревьев документов. Объект инициализируется единичной матрицей.
+Создаёт объект SVGMatrix вне любых деревьев документа. Объект инициализируется единичной матрицей.
 
 ```csharp
 public SVGMatrix CreateSVGMatrix()
@@ -18,11 +18,9 @@ public SVGMatrix CreateSVGMatrix()
 
 Объект SVGMatrix.
 
-### Смотрите также
+### См. также
 
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* пространство имен [Aspose.Svg](../../svgsvgelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Event.InitEvent
-second_title: Справочник по Aspose.SVG для .NET API
-description: Event метод. InitEvent метод используется для инициализации значенияEvent создано через the IDocumentEvent интерфейс.
+title: "Event.InitEvent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Event InitEvent. Метод InitEvent используется для инициализации значения события, созданного через интерфейс IDocumentEvent."
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.dom.events/event/initevent/
 ---
 ## Event.InitEvent method
 
-`InitEvent` метод используется для инициализации значения[`Event`](../) создано через the [`IDocumentEvent`](../../idocumentevent/) интерфейс.
+Метод `InitEvent` используется для инициализации значения [`Event`](../), созданного через интерфейс [`IDocumentEvent`](../../idocumentevent/).
 
 ```csharp
 public void InitEvent(string type, bool bubbles, bool cancelable)
@@ -17,17 +17,15 @@ public void InitEvent(string type, bool bubbles, bool cancelable)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события. |
-| bubbles | Boolean | если установлено`истинный` [пузыри]. |
-| cancelable | Boolean | если установлено`истинный` [отменяемо]. |
+| bubbles | Boolean | если установлено `true` [bubbles]. |
+| cancelable | Boolean | если установлено `true` [cancelable]. |
 
-### Примечания
+## Замечания
 
-Этот метод может быть вызван только до того, как событие будет отправлено через[`DispatchEvent`](../../ieventtarget/dispatchevent/) метод, , хотя при необходимости он может вызываться несколько раз в течение этой фазы. При многократном вызове последний вызов имеет приоритет. При вызове из подкласса интерфейса Event изменяются только значения, указанные в методе initEvent, все остальные атрибуты остаются без изменений.
+Этот метод может быть вызван только до того, как событие будет отправлено с помощью метода [`DispatchEvent`](../../ieventtarget/dispatchevent/), хотя при необходимости его можно вызвать несколько раз в течение этой фазы. При множественных вызовах приоритет имеет последнее вызов. Если метод вызывается из подкласса интерфейса Event, изменяются только значения, указанные в методе initEvent, все остальные атрибуты остаются без изменений.
 
-### Смотрите также
+### См. также
 
 * class [Event](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../event/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

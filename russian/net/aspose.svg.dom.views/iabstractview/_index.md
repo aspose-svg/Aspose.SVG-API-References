@@ -1,28 +1,26 @@
 ---
-title: Interface IAbstractView
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Dom.Views.IAbstractView интерфейс. Базовый интерфейс из которого должны быть получены все виды.
+title: "IAbstractView интерфейс"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Dom.Views.IAbstractView интерфейс. Базовый интерфейс, от которого должны наследоваться все представления"
 type: docs
-weight: 1290
+weight: 3290
 url: /ru/net/aspose.svg.dom.views/iabstractview/
 ---
 ## IAbstractView interface
 
-Базовый интерфейс, из которого должны быть получены все виды.
+Базовый интерфейс, от которого должны наследоваться все представления.
 
 ```csharp
 public interface IAbstractView
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Document](../../aspose.svg.dom.views/iabstractview/document/) { get; } | Исходный DocumentView, для которого это AbstractView. |
+| [Document](../../aspose.svg.dom.views/iabstractview/document/) { get; } | Исходный DocumentView, из которого это является AbstractView. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../)

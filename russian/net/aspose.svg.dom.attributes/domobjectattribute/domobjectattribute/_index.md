@@ -1,7 +1,7 @@
 ---
-title: DOMObjectAttribute.DOMObjectAttribute
-second_title: Справочник по Aspose.SVG для .NET API
-description: DOMObjectAttribute строитель. Конструктор по умолчанию.
+title: "DOMObjectAttribute"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор DOMObjectAttribute. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.attributes/domobjectattribute/domobjectattribute/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.dom.attributes/domobjectattribute/domobjectattribute/
 public DOMObjectAttribute()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DOMObjectAttribute](../)
-* пространство имен [Aspose.Svg.Dom.Attributes](../../domobjectattribute/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

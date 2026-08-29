@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.Result
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFEGaussianBlurElement свойство. Соответствует атрибуту результат данного элемента фильтр.
+title: "SVGFEGaussianBlurElement.Result"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFEGaussianBlurElement Result. Соответствует атрибуту result в данном элементе filter."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfegaussianblurelement/result/
 ---
 ## SVGFEGaussianBlurElement.Result property
 
-Соответствует атрибуту «результат» данного элемента «фильтр».
+Соответствует атрибуту �result� в данном элементе �filter�.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут "результат" данного элемента "фильтра".
+Атрибут �result� данного элемента �filter�.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEGaussianBlurElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

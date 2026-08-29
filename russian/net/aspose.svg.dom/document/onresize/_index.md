@@ -1,7 +1,7 @@
 ---
-title: Document.OnResize
-second_title: Справочник по Aspose.SVG для .NET API
-description: Document событие. Получает или задает обработчик события OnResize.
+title: "Document.OnResize"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие Document OnResize. Получает или задаёт обработчик события для OnResize"
 type: docs
 weight: 660
 url: /ru/net/aspose.svg.dom/document/onresize/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/document/onresize/
 public event DOMEventHandler OnResize;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* пространство имен [Aspose.Svg.Dom](../../document/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

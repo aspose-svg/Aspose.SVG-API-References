@@ -1,30 +1,30 @@
 ---
-title: SVGStringList.SVGStringList
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGStringList строитель. Инициализирует новый экземплярSVGStringList класс.
+title: "SVGStringList"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор SVGStringList. Инициализирует новый экземпляр класса SVGStringList"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-Инициализирует новый экземпляр[`SVGStringList`](../) класс.
+Инициализирует новый экземпляр класса [`SVGStringList`](../).
 
 ```csharp
 public SVGStringList()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGStringList](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgstringlist/)
-* сборка [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&lt;string&gt;*) {#constructor_1}
 
-Инициализирует новый экземпляр[`SVGStringList`](../) класс.
+Инициализирует новый экземпляр класса [`SVGStringList`](../).
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
@@ -32,12 +32,10 @@ public SVGStringList(IEnumerable<string> enumerable)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Перечислимое. |
+| перечислимый | IEnumerable`1 | Перечислимый. |
 
-### Смотрите также
+### См. также
 
 * class [SVGStringList](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgstringlist/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

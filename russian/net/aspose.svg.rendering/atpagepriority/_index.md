@@ -1,29 +1,27 @@
 ---
-title: Enum AtPagePriority
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.AtPagePriority перечисление. Определяет возможные порядки применения объявлений размера страницы.
+title: "AtPagePriority перечисление"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Rendering.AtPagePriority перечисление. Указывает возможные порядки применения объявлений размеров страниц."
 type: docs
-weight: 2710
+weight: 4780
 url: /ru/net/aspose.svg.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration
 
-Определяет возможные порядки применения объявлений размера страницы.
+Указывает возможные порядки применения объявлений размеров страниц.
 
 ```csharp
 public enum AtPagePriority
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| OptionsPriority | `0` | Указывает, что[`PageSetup`](../pagesetup/) ценности, заявленные в[`RenderingOptions`](../renderingoptions/) переопределит значения, определенные в css,`@страница` правила . |
-| CssPriority | `1` | Указывает, что`@страница` правила определенные в css, будут переопределять значения, определенные в[`PageSetup`](../pagesetup/) . |
+| OptionsPriority | `0` | Указывает, что значения [`PageSetup`](../pagesetup/), объявленные в [`RenderingOptions`](../renderingoptions/), переопределят значения, определённые в css правилом `@page`. |
+| CssPriority | `1` | Указывает, что правила `@page`, определённые в css, переопределят значения, определённые в [`PageSetup`](../pagesetup/). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

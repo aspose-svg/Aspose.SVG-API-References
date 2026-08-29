@@ -1,14 +1,14 @@
 ---
-title: CSSValue.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSValue метод. ВозвращаетString который представляет этот экземпляр.
+title: "CSSValue.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод CSSValue ToString. Возвращает строку, представляющую этот экземпляр."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.css/cssvalue/tostring/
 ---
 ## CSSValue.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+Строка, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [CSSValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssvalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetIntValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: CSSPrimitiveValue метод. Этот метод используется для получения значения int в указанных единицах измерения. Если это значение CSS не содержит значение int или не может быть преобразовано в указанную единицу измерения возникает исключение DOMException.
+title: "CSSPrimitiveValue.GetIntValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "CSSPrimitiveValue GetIntValue method. Этот метод используется для получения целочисленного значения в указанной единице измерения. Если это CSS‑значение не содержит целочисленного значения или не может быть преобразовано в указанную единицу, генерируется DOMException."
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/getintvalue/
 ---
 ## CSSPrimitiveValue.GetIntValue method
 
-Этот метод используется для получения значения int в указанных единицах измерения. Если это значение CSS не содержит значение int или не может быть преобразовано в указанную единицу измерения, возникает исключение DOMException.
+Этот метод используется для получения значения типа int в указанной единице измерения. Если данное CSS‑значение не содержит значения int или не может быть преобразовано в указанную единицу, генерируется DOMException.
 
 ```csharp
 public abstract int GetIntValue(ushort unitType)
@@ -16,16 +16,14 @@ public abstract int GetIntValue(ushort unitType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unitType | UInt16 | Тип агрегата. |
+| unitType | UInt16 | Тип единицы. |
 
 ### Возвращаемое значение
 
 Возвращает значение
 
-### Смотрите также
+### См. также
 
 * class [CSSPrimitiveValue](../)
-* пространство имен [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

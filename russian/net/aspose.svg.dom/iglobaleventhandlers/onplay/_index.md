@@ -1,7 +1,7 @@
 ---
-title: IGlobalEventHandlers.OnPlay
-second_title: Справочник по Aspose.SVG для .NET API
-description: IGlobalEventHandlers событие. Получает или задает обработчик события OnPlay.
+title: "IGlobalEventHandlers.OnPlay"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Событие IGlobalEventHandlers OnPlay. Получает или задает обработчик события для события OnPlay"
 type: docs
 weight: 330
 url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onplay/
@@ -14,11 +14,9 @@ url: /ru/net/aspose.svg.dom/iglobaleventhandlers/onplay/
 public event DOMEventHandler OnPlay;
 ```
 
-### Смотрите также
+### См. также
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* пространство имен [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

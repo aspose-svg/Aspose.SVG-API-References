@@ -1,23 +1,21 @@
 ---
-title: SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMIN
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPreserveAspectRatio поле. Соответствует значению xMidYMin для атрибута preserveAspectRatio.
+title: "SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMIN"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "SVGPreserveAspectRatio SVG_PRESERVEASPECTRATIO_XMIDYMIN поле. Соответствует значению xMidYMin для атрибута preserveAspectRatio"
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymin/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMIN field
 
-Соответствует значению «xMidYMin» для атрибута «preserveAspectRatio».
+Соответствует значению 'xMidYMin' для атрибута ‘preserveAspectRatio’.
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_XMIDYMIN;
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPreserveAspectRatio](../)
-* пространство имен [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

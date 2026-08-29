@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.ToString
-second_title: Справочник по Aspose.SVG для .NET API
-description: ContentDispositionHeaderValue метод. ВозвращаетString который представляет этот экземпляр.
+title: "ContentDispositionHeaderValue.ToString"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод ContentDispositionHeaderValue ToString. Возвращает строку, представляющую этот экземпляр"
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/tostring/
 ---
 ## ContentDispositionHeaderValue.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [ContentDispositionHeaderValue](../)
-* пространство имен [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

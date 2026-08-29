@@ -1,9 +1,9 @@
 ---
-title: Class ContentDispositionHeaderValue
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Net.Headers.ContentDispositionHeaderValue сорт. Представляет значение заголовка ContentDisposition.
+title: "Класс ContentDispositionHeaderValue"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Класс Aspose.Svg.Net.Headers.ContentDispositionHeaderValue. Представляет значение заголовка Content-Disposition"
 type: docs
-weight: 2260
+weight: 4330
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
@@ -18,27 +18,25 @@ public class ContentDispositionHeaderValue
 
 | Имя | Описание |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(string) | Создать новый экземпляр этого типа расположения. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | Создайте новый экземпляр этого типа размещения. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Получить или установить тип размещения |
-| [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | Имя сохраненного файла. |
-| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | Имя основной части контента. |
-| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | Получить набор параметров |
+| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Получить или задать тип размещения |
+| [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | Имя сохранённого файла. |
+| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | Имя части тела содержимого. |
+| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | Получить коллекцию параметров |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(object) | Определяет, является ли указанныйObject равен этому экземпляру. |
-| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(*object*) | Определяет, равен ли указанный объект этому экземпляру. |
+| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

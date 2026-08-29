@@ -1,14 +1,14 @@
 ---
-title: IColorComponents.ToColor
-second_title: Справочник по Aspose.SVG для .NET API
-description: IColorComponents метод. Преобразует компоненты цвета в объект Color.
+title: "IColorComponents.ToColor"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод IColorComponents ToColor. Преобразует компоненты цвета в объект Color"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.drawing/icolorcomponents/tocolor/
 ---
 ## IColorComponents.ToColor method
 
-Преобразует компоненты цвета в объект Color.
+Преобразует цветовые компоненты в объект Color.
 
 ```csharp
 public Color ToColor()
@@ -16,13 +16,11 @@ public Color ToColor()
 
 ### Возвращаемое значение
 
-Новый экземпляр[`Color`](../../color/) сорт
+Новый экземпляр класса [`Color`](../../color/)
 
-### Смотрите также
+### См. также
 
 * class [Color](../../color/)
 * interface [IColorComponents](../)
-* пространство имен [Aspose.Svg.Drawing](../../icolorcomponents/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

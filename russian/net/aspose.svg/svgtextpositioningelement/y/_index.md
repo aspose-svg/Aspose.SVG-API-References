@@ -1,28 +1,26 @@
 ---
-title: SVGTextPositioningElement.Y
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGTextPositioningElement свойство. Соответствует атрибуту y данного элемента.
+title: "SVGTextPositioningElement.Y"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Y элемента SVGTextPositioningElement. Соответствует атрибуту y данного элемента"
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgtextpositioningelement/y/
 ---
 ## SVGTextPositioningElement.Y property
 
-Соответствует атрибуту 'y' данного элемента.
+Соответствует атрибуту ‘y’ данного элемента.
 
 ```csharp
 public SVGAnimatedLengthList Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'y' данного элемента.
+Атрибут ‘y’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLengthList](../../../aspose.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* пространство имен [Aspose.Svg](../../svgtextpositioningelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

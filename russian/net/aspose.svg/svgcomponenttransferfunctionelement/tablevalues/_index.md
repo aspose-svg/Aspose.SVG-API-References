@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.TableValues
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGComponentTransferFunctionElement свойство. Соответствует атрибуту tableValues данного элемента.
+title: "SVGComponentTransferFunctionElement.TableValues"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство TableValues класса SVGComponentTransferFunctionElement. Соответствует атрибуту tableValues в данном элементе."
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/tablevalues/
 ---
 ## SVGComponentTransferFunctionElement.TableValues property
 
-Соответствует атрибуту tableValues данного элемента.
+Соответствует атрибуту ‘tableValues’ в данном элементе.
 
 ```csharp
 public SVGAnimatedNumberList TableValues { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип атрибута данного элемента.
+Атрибут ‘type’ данного элемента.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGComponentTransferFunctionElement](../)
-* пространство имен [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

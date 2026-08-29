@@ -1,28 +1,26 @@
 ---
-title: SVGFECompositeElement.Height
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFECompositeElement свойство. Соответствует атрибуту высота данного элемента фильтра.
+title: "SVGFECompositeElement.Height"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGFECompositeElement Height. Соответствует атрибуту height в данном элементе filter."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.filters/svgfecompositeelement/height/
 ---
 ## SVGFECompositeElement.Height property
 
-Соответствует атрибуту "высота" данного элемента "фильтра".
+Соответствует атрибуту ‘height’ в данном элементе ‘filter’.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут «высота» данного элемента «фильтр».
+Атрибут ‘height’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFECompositeElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfecompositeelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFilterElement.PrimitiveUnits
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFilterElement свойство. Соответствует атрибуту primitiveUnits данного элемента filter. Принимает одну из констант определенных в SVGUnitTypes.
+title: "SVGFilterElement.PrimitiveUnits"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство PrimitiveUnits класса SVGFilterElement. Соответствует атрибуту primitiveUnits указанного элемента filter. Принимает одну из констант, определённых в SVGUnitTypes"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgfilterelement/primitiveunits/
 ---
 ## SVGFilterElement.PrimitiveUnits property
 
-Соответствует атрибуту 'primitiveUnits' данного элемента 'filter'. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту ‘primitiveUnits’ в данном элементе ‘filter’. Принимает одну из констант, определённых в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration PrimitiveUnits { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Атрибут 'primitiveUnits' данного элемента 'filter'.
+Атрибут ‘primitiveUnits’ данного элемента ‘filter’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFilterElement](../)
-* пространство имен [Aspose.Svg](../../svgfilterelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

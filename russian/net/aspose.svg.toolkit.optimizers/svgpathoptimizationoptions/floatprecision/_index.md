@@ -1,23 +1,21 @@
 ---
-title: SVGPathOptimizationOptions.FloatPrecision
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathOptimizationOptions свойство. Получает или задает параметр для округления значения с плавающей запятой с плавающей запятой до указанного количества дробных цифр. По умолчанию это 3.
+title: "SVGPathOptimizationOptions.FloatPrecision"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство SVGPathOptimizationOptions FloatPrecision. Получает или задает параметр, определяющий округление значения с плавающей точкой одинарной точности до указанного количества знаков после запятой. По умолчанию равно 3."
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/
 ---
 ## SVGPathOptimizationOptions.FloatPrecision property
 
-Получает или задает параметр для округления значения с плавающей запятой с плавающей запятой до указанного количества дробных цифр. По умолчанию это «3».
+Получает или задает параметр округления значения с плавающей точкой одинарной точности до указанного количества знаков после запятой. По умолчанию '3'.
 
 ```csharp
 public int FloatPrecision { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SVGPathOptimizationOptions](../)
-* пространство имен [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

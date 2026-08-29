@@ -1,14 +1,14 @@
 ---
-title: UrlResolver.Resolve
-second_title: Справочник по Aspose.SVG для .NET API
-description: UrlResolver метод. Разрешает абсолютный URI из базового и относительного URI.
+title: "UrlResolver.Resolve"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Resolve класса UrlResolver. Возвращает абсолютный URI из базового и относительного URI."
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net/urlresolver/resolve/
 ---
 ## UrlResolver.Resolve method
 
-Разрешает абсолютный URI из базового и относительного URI.
+Разрешает абсолютный URI из базового и относительных URI.
 
 ```csharp
 public virtual Url Resolve(string baseUri, string relativeUri)
@@ -23,11 +23,9 @@ public virtual Url Resolve(string baseUri, string relativeUri)
 
 Абсолютный URI
 
-### Смотрите также
+### См. также
 
 * class [Url](../../../aspose.svg/url/)
 * class [UrlResolver](../)
-* пространство имен [Aspose.Svg.Net](../../urlresolver/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

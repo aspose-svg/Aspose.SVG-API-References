@@ -1,14 +1,14 @@
 ---
-title: ByteArrayContent.ByteArrayContent
-second_title: Справочник по Aspose.SVG для .NET API
-description: ByteArrayContent строитель. Инициализирует новый экземплярByteArrayContent класс.
+title: "ByteArrayContent"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Конструктор ByteArrayContent. Инициализирует новый экземпляр класса ByteArrayContent."
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/bytearraycontent/bytearraycontent/
 ---
 ## ByteArrayContent constructor
 
-Инициализирует новый экземпляр[`ByteArrayContent`](../) класс.
+Инициализирует новый экземпляр класса [`ByteArrayContent`](../).
 
 ```csharp
 public ByteArrayContent(byte[] content)
@@ -16,12 +16,10 @@ public ByteArrayContent(byte[] content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | Byte[] | Контент. |
+| content | Byte[] | Содержимое. |
 
-### Смотрите также
+### См. также
 
 * class [ByteArrayContent](../)
-* пространство имен [Aspose.Svg.Net](../../bytearraycontent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

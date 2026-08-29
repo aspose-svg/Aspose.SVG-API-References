@@ -1,23 +1,21 @@
 ---
-title: IInterpolationColor.Color
-second_title: Справочник по Aspose.SVG для .NET API
-description: IInterpolationColor свойство. Получить цвет представляющий цвета для использования в соответствующих позициях вдоль градиента.
+title: "IInterpolationColor.Color"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Color интерфейса IInterpolationColor. Получает или задает цвет, представляющий цвета, используемые в соответствующих позициях вдоль градиента"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/iinterpolationcolor/color/
 ---
 ## IInterpolationColor.Color property
 
-Получить цвет, представляющий цвета для использования в соответствующих позициях вдоль градиента.
+Получает или задает цвет, представляющий цвета, используемые в соответствующих позициях вдоль градиента.
 
 ```csharp
-public Color Color { get; }
+public Color Color { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IInterpolationColor](../)
-* пространство имен [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: InputEvent.IsComposing
-second_title: Справочник по Aspose.SVG для .NET API
-description: InputEvent свойство. true если входное событие происходит как часть сеанса композиции т. е. после события начало композиции и перед соответствующим событием конец композиции. Неинициализированное значение этого атрибута ДОЛЖНО быть ложным.
+title: "InputEvent.IsComposing"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство InputEvent IsComposing. true, если событие ввода происходит в рамках сессии композиции, т.е. после события compositionstart и до соответствующего события compositionend. Неинициализированное значение этого атрибута ДОЛЖНО быть false."
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.events/inputevent/iscomposing/
 ---
 ## InputEvent.IsComposing property
 
-true, если входное событие происходит как часть сеанса композиции, т. е. после события «начало композиции» и перед соответствующим событием «конец композиции». Неинициализированное значение этого атрибута ДОЛЖНО быть ложным.
+true, если событие ввода происходит в рамках сеанса композиции, т.е. после события compositionstart и до соответствующего события compositionend. Неинициализированное значение этого атрибута ДОЛЖНО быть false.
 
 ```csharp
 public bool IsComposing { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр составляет; в противном случае,`ЛОЖЬ` .
+`true`, если данный экземпляр находится в процессе композиции; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [InputEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../inputevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,24 +1,22 @@
 ---
-title: CssOptions.MediaType
-second_title: Справочник по Aspose.SVG для .NET API
-description: CssOptions свойство. Получает или устанавливаетMediaType который будет использоваться для разрешения медиазапросов во время рендеринга. Значение по умолчаниюРаспечатать .
+title: "CssOptions.MediaType"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство CssOptions MediaType. Получает или задаёт MediaType, который будет использоваться для разрешения медиа‑запросов во время рендеринга. Значение по умолчанию — Print"
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/cssoptions/mediatype/
 ---
 ## CssOptions.MediaType property
 
-Получает или устанавливает[`MediaType`](../../mediatype/) который будет использоваться для разрешения медиа-запросов во время рендеринга. Значение по умолчанию`Распечатать` .
+Получает или задаёт [`MediaType`](../../mediatype/), который будет использоваться для разрешения медиа‑запросов во время рендеринга. Значение по умолчанию — `Print`.
 
 ```csharp
 public MediaType MediaType { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [MediaType](../../mediatype/)
 * class [CssOptions](../)
-* пространство имен [Aspose.Svg.Rendering](../../cssoptions/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

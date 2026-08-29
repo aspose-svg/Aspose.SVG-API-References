@@ -1,27 +1,25 @@
 ---
-title: RequestMessage.Credentials
-second_title: Справочник по Aspose.SVG для .NET API
-description: RequestMessage свойство. Получает или задает данные аутентификации для запроса.
+title: "RequestMessage.Credentials"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Credentials класса RequestMessage. Получает или задает информацию об аутентификации для запроса"
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.net/requestmessage/credentials/
 ---
 ## RequestMessage.Credentials property
 
-Получает или задает данные аутентификации для запроса.
+Получает или задаёт информацию аутентификации для запроса.
 
 ```csharp
 public ICredentials Credentials { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Объект System.Net.ICredentials, содержащий учетные данные проверки подлинности, связанные с запросом. Значение по умолчанию — null.
+Объект System.Net.ICredentials, содержащий учетные данные аутентификации, связанные с запросом. По умолчанию null.
 
-### Смотрите также
+### См. также
 
 * class [RequestMessage](../)
-* пространство имен [Aspose.Svg.Net](../../requestmessage/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

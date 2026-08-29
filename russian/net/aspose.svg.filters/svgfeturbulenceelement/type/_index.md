@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Type
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGFETurbulenceElement свойство. Соответствует атрибуту type данного элемента feTurbulence. Принимает одну из констант SVG_TURBULENCE_TYPE_ определенных в этом интерфейсе.
+title: "SVGFETurbulenceElement.Type"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство Type элемента SVGFETurbulenceElement. Соответствует атрибуту type в данном элементе feTurbulence. Принимает одно из значений констант SVG_TURBULENCE_TYPE_, определённых в этом интерфейсе."
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/type/
 ---
 ## SVGFETurbulenceElement.Type property
 
-Соответствует атрибуту type данного элемента feTurbulence. Принимает одну из констант SVG_TURBULENCE_TYPE_*, определенных в этом интерфейсе.
+Соответствует атрибуту ‘type’ в данном элементе ‘feTurbulence’. Принимает одну из констант SVG_TURBULENCE_TYPE_*, определённых в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип атрибута данного элемента feTurbulence.
+Атрибут ‘type’ данного элемента ‘feTurbulence’.
 
-### Смотрите также
+### См. также
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFETurbulenceElement](../)
-* пространство имен [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

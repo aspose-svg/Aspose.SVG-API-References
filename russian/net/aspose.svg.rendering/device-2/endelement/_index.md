@@ -1,28 +1,26 @@
 ---
-title: Device2.EndElement
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Завершает визуализацию узла.
+title: "Device-2.EndElement"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Device EndElement. Завершает рендеринг узла"
 type: docs
-weight: 130
+weight: 160
 url: /ru/net/aspose.svg.rendering/device-2/endelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
+## Device<TGraphicContext,TRenderingOptions>.EndElement method
 
-Завершает визуализацию узла.
+Завершает отрисовку узла.
 
 ```csharp
-public abstract void EndElement(Element element)
+public virtual void EndElement(Element element)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | [`Element`](../../../aspose.svg.dom/element/). |
+| element | Element | Элемент [`Element`](../../../aspose.svg.dom/element/). |
 
-### Смотрите также
+### См. также
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

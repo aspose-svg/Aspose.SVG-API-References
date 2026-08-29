@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ShiftKey
-second_title: Справочник по Aspose.SVG для .NET API
-description: MouseEvent свойство. Обратитесь к атрибуту shiftKey.
+title: "MouseEvent.ShiftKey"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство MouseEvent ShiftKey. Смотрите атрибут shiftKey."
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.dom.events/mouseevent/shiftkey/
 ---
 ## MouseEvent.ShiftKey property
 
-Обратитесь к атрибуту shiftKey.
+См. атрибут shiftKey.
 
 ```csharp
 public bool ShiftKey { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [клавиша Shift]; в противном случае,`ЛОЖЬ` .
+`true` если [shift key]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [MouseEvent](../)
-* пространство имен [Aspose.Svg.Dom.Events](../../mouseevent/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

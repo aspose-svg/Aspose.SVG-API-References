@@ -1,7 +1,7 @@
 ---
-title: UnitType.Em
-second_title: Справочник по Aspose.SVG для .NET API
-description: UnitType поле. Измерение относительно высоты шрифта родительского элемента.
+title: "UnitType.Em"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Поле UnitType Em. Измерение относительно высоты шрифта родительского элемента"
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/unittype/em/
@@ -14,10 +14,8 @@ url: /ru/net/aspose.svg.drawing/unittype/em/
 public static readonly UnitType Em;
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitType](../)
-* пространство имен [Aspose.Svg.Drawing](../../unittype/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

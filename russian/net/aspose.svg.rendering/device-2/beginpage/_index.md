@@ -1,14 +1,14 @@
 ---
-title: Device2.BeginPage
-second_title: Справочник по Aspose.SVG для .NET API
-description: Device метод. Начинает рендеринг новой страницы.
+title: "Device-2.BeginPage"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Device BeginPage. Начинает отрисовку новой страницы."
 type: docs
-weight: 60
+weight: 90
 url: /ru/net/aspose.svg.rendering/device-2/beginpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginPage method
+## Device<TGraphicContext,TRenderingOptions>.BeginPage method
 
-Начинает рендеринг новой страницы.
+Начинает отрисовку новой страницы.
 
 ```csharp
 public virtual void BeginPage(SizeF size)
@@ -16,12 +16,10 @@ public virtual void BeginPage(SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | SizeF | Размер страницы. |
+| размер | SizeF | Размер страницы. |
 
-### Смотрите также
+### См. также
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* пространство имен [Aspose.Svg.Rendering](../../device-2/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

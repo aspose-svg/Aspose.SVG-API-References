@@ -1,20 +1,20 @@
 ---
-title: SVGPathSegCurvetoCubicRel.X2
-second_title: Справочник по Aspose.SVG для .NET API
-description: SVGPathSegCurvetoCubicRel свойство. Относительная координата X для второй контрольной точки.
+title: "SVGPathSegCurvetoCubicRel.X2"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Свойство X2 SVGPathSegCurvetoCubicRel. Относительная координата X второй управляющей точки"
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetocubicrel/x2/
 ---
 ## SVGPathSegCurvetoCubicRel.X2 property
 
-Относительная координата X для второй контрольной точки.
+Относительная координата X второй контрольной точки.
 
 ```csharp
 public float X2 { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Относительная координата X
 
@@ -22,12 +22,10 @@ public float X2 { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Код [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Возникает при попытке изменить значение только для чтения атрибута. |
 
-### Смотрите также
+### См. также
 
 * class [SVGPathSegCurvetoCubicRel](../)
-* пространство имен [Aspose.Svg.Paths](../../svgpathsegcurvetocubicrel/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

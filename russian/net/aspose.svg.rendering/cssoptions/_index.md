@@ -1,9 +1,9 @@
 ---
-title: Class CssOptions
-second_title: Справочник по Aspose.SVG для .NET API
-description: Aspose.Svg.Rendering.CssOptions сорт. Представляет параметры рендеринга CSS.
+title: "Класс CssOptions"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Aspose.Svg.Rendering.CssOptions class. Представляет параметры рендеринга css"
 type: docs
-weight: 2720
+weight: 4800
 url: /ru/net/aspose.svg.rendering/cssoptions/
 ---
 ## CssOptions class
@@ -14,15 +14,13 @@ url: /ru/net/aspose.svg.rendering/cssoptions/
 public class CssOptions
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype/) { get; set; } | Получает или устанавливает[`MediaType`](../mediatype/) который будет использоваться для разрешения медиа-запросов во время рендеринга. Значение по умолчанию`Распечатать` . |
+| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype/) { get; set; } | Получает или задает [`MediaType`](../mediatype/), который будет использоваться для разрешения медиа‑запросов во время рендеринга. Значение по умолчанию — `Print`. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* сборка [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

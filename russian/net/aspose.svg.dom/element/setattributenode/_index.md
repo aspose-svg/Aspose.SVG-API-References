@@ -1,7 +1,7 @@
 ---
-title: Element.SetAttributeNode
-second_title: Справочник по Aspose.SVG для .NET API
-description: Element метод. Добавляет новый узел атрибута. Если атрибут с таким именем nodeName уже присутствует в элементе он заменяется новым.
+title: "Element.SetAttributeNode"
+second_title: "Aspose.SVG для .NET справочник API"
+description: "Метод Element SetAttributeNode. Добавляет новый узел атрибута. Если атрибут с именем nodeName уже присутствует в элементе, он заменяется новым"
 type: docs
 weight: 410
 url: /ru/net/aspose.svg.dom/element/setattributenode/
@@ -22,11 +22,9 @@ public Attr SetAttributeNode(Attr newAttr)
 
 Возвращает атрибут
 
-### Смотрите также
+### См. также
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* пространство имен [Aspose.Svg.Dom](../../element/)
-* сборка [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
