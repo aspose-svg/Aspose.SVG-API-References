@@ -1,9 +1,9 @@
 ---
-title: Enum BrushType
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Drawing.BrushType opsomming. Specificeert het type penseel.
+title: "BrushType Enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Drawing.BrushType enum. Specificeert het type penseel"
 type: docs
-weight: 1380
+weight: 3380
 url: /nl/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration
@@ -24,7 +24,5 @@ public enum BrushType
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

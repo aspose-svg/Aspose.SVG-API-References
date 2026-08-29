@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.SetNamedItemNS
-second_title: Aspose.SVG voor .NET API-referentie
-description: NamedNodeMap methode. Voegt een knooppunt toe met zijn namespaceURI en localName. Als een knooppunt met die naamruimteURI en die lokale naam al aanwezig is in deze kaart wordt deze vervangen door de nieuwe. Het vervangen van een node op zichzelf heeft geen effect.
+title: "NamedNodeMap.SetNamedItemNS"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NamedNodeMap SetNamedItemNS methode. Voegt een knooppunt toe met behulp van zijn namespaceURI en localName. Als er al een knooppunt met die namespace-URI en die lokale naam in deze map aanwezig is, wordt het vervangen door het nieuwe. Een knooppunt door zichzelf vervangen heeft geen effect."
 type: docs
-weight: 90
+weight: 80
 url: /nl/net/aspose.svg.collections/namednodemap/setnameditemns/
 ---
 ## NamedNodeMap.SetNamedItemNS method
 
-Voegt een knooppunt toe met zijn namespaceURI en localName. Als een knooppunt met die naamruimte-URI en die lokale naam al aanwezig is in deze kaart, wordt deze vervangen door de nieuwe. Het vervangen van een node op zichzelf heeft geen effect.
+Voegt een knooppunt toe met behulp van zijn namespaceURI en localName. Als er al een knooppunt met die namespace‑URI en die lokale naam aanwezig is in deze map, wordt het vervangen door het nieuwe. Een knooppunt door zichzelf vervangen heeft geen effect.
 
 ```csharp
 public Attr SetNamedItemNS(Attr attr)
@@ -18,13 +18,13 @@ public Attr SetNamedItemNS(Attr attr)
 | --- | --- | --- |
 | attr | Attr | Het attribuut. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert node.
+Retourneert een knooppunt.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
@@ -32,7 +32,5 @@ Retourneert node.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* naamruimte [Aspose.Svg.Collections](../../namednodemap/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Subtree
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationObserverInit eigendom. Ingesteld op waar als mutaties niet alleen gericht moeten zijn maar ook de afstammelingen van het doelwit moeten worden geobserveerd
+title: "MutationObserverInit.Subtree"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationObserverInit Subtree-eigenschap. Stel in op true als mutaties niet alleen het doelwit, maar ook de afstammelingen van het doelwit moeten worden waargenomen."
 type: docs
 weight: 120
 url: /nl/net/aspose.svg.dom.mutations/mutationobserverinit/subtree/
 ---
 ## MutationObserverInit.Subtree property
 
-Ingesteld op waar als mutaties niet alleen gericht moeten zijn, maar ook de afstammelingen van het doelwit moeten worden geobserveerd
+Stel in op true als mutaties niet alleen aan het doel, maar ook aan de afstammelingen van het doel moeten worden waargenomen
 
 ```csharp
 public bool Subtree { get; set; }
@@ -17,7 +17,5 @@ public bool Subtree { get; set; }
 ### Zie ook
 
 * class [MutationObserverInit](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

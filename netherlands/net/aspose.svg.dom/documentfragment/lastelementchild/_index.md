@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.LastElementChild
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentFragment eigendom. Geeft het laatste onderliggende elementknooppunt van dit element terug. null als dit element geen onderliggende elementen heeft.
+title: "DocumentFragment.LastElementChild"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentFragment LastElementChild eigenschap. Retourneert het laatste kind-elementknooppunt van dit element. null als dit element geen kindelementen heeft."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom/documentfragment/lastelementchild/
 ---
 ## DocumentFragment.LastElementChild property
 
-Geeft het laatste onderliggende elementknooppunt van dit element terug. null als dit element geen onderliggende elementen heeft.
+Retourneert het laatste kind-elementknooppunt van dit element. null als dit element geen kindelementen heeft.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het laatste element kind.
+Het laatste kind-element.
 
 ### Zie ook
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* naamruimte [Aspose.Svg.Dom](../../documentfragment/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

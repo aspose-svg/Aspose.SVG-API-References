@@ -1,14 +1,14 @@
 ---
-title: FtpProtocolMessageHandler.FtpProtocolMessageHandler
-second_title: Aspose.SVG voor .NET API-referentie
-description: FtpProtocolMessageHandler constructeur. Initialiseert een nieuw exemplaar van hetFtpProtocolMessageHandler klasse.
+title: "FtpProtocolMessageHandler"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "FtpProtocolMessageHandler constructor. Initialiseert een nieuw exemplaar van de FtpProtocolMessageHandler-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler constructor
 
-Initialiseert een nieuw exemplaar van het[`FtpProtocolMessageHandler`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`FtpProtocolMessageHandler`](../)-klasse.
 
 ```csharp
 public FtpProtocolMessageHandler()
@@ -17,7 +17,5 @@ public FtpProtocolMessageHandler()
 ### Zie ook
 
 * class [FtpProtocolMessageHandler](../)
-* naamruimte [Aspose.Svg.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

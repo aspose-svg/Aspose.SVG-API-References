@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.PathOptimizationOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGOptimizationOptions eigendom. Haalt of stelt de optie inSVGPathOptimizationOptions . Als deze optie null is wordt padelementoptimalisatie niet uitgevoerd.
+title: "SVGOptimizationOptions.PathOptimizationOptions"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGOptimizationOptions PathOptimizationOptions eigenschap. Haalt of stelt de optie SVGPathOptimizationOptions in. Als deze optie null is, wordt pad-elementoptimalisatie niet uitgevoerd"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/
 ---
 ## SVGOptimizationOptions.PathOptimizationOptions property
 
-Haalt of stelt de optie in[`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/) . Als deze optie null is, wordt padelementoptimalisatie niet uitgevoerd.
+Haalt of stelt de optie [`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/) in. Als deze optie null is, wordt pad-elementoptimalisatie niet uitgevoerd.
 
 ```csharp
 public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
@@ -18,7 +18,5 @@ public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
 
 * class [SVGPathOptimizationOptions](../../svgpathoptimizationoptions/)
 * class [SVGOptimizationOptions](../)
-* naamruimte [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.CtrlKey
-second_title: Aspose.SVG voor .NET API-referentie
-description: KeyboardEvent eigendom. waar als de wijzigingstoets Control control actief was. De nietgeïnitialiseerde waarde van dit attribuut MOET onwaar zijn.
+title: "KeyboardEvent.CtrlKey"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "KeyboardEvent CtrlKey eigenschap. true als de Control‑toetsmodifier actief was. De niet‑geïnitieerde waarde van dit attribuut MUST be false"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom.events/keyboardevent/ctrlkey/
 ---
 ## KeyboardEvent.CtrlKey property
 
-waar als de wijzigingstoets Control (control) actief was. De niet-geïnitialiseerde waarde van dit attribuut MOET onwaar zijn.
+true als de Control‑ (control)‑toetsmodifier actief was. De niet‑geïnitialiseerde waarde van dit attribuut MOET false zijn.
 
 ```csharp
 public bool CtrlKey { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als controle; anders,`vals` .
+`true` als Control; anders `false`.
 
 ### Zie ook
 
 * class [KeyboardEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

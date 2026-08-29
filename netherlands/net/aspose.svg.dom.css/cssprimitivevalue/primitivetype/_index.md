@@ -1,27 +1,25 @@
 ---
-title: CSSPrimitiveValue.PrimitiveType
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSPrimitiveValue eigendom. Het type waarde zoals gedefinieerd door de hierboven gespecificeerde constanten.
+title: "CSSPrimitiveValue.PrimitiveType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSPrimitiveValue PrimitiveType eigenschap. Het type van de waarde zoals gedefinieerd door de hierboven gespecificeerde constanten."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.css/cssprimitivevalue/primitivetype/
 ---
 ## CSSPrimitiveValue.PrimitiveType property
 
-Het type waarde zoals gedefinieerd door de hierboven gespecificeerde constanten.
+Het type van de waarde zoals gedefinieerd door de hierboven gespecificeerde constanten.
 
 ```csharp
 public ushort PrimitiveType { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het type van de primitieve.
+Het type van de primitive.
 
 ### Zie ook
 
 * class [CSSPrimitiveValue](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

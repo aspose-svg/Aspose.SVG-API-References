@@ -1,27 +1,25 @@
 ---
-title: DocumentType.Name
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentType eigendom. De naam van DTD dwz de naam die onmiddellijk volgt op het trefwoord DOCTYPE.
+title: "DocumentType.Name"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentType Name property. De naam van de DTD, d.w.z. de naam die direct volgt op het DOCTYPE-trefwoord"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom/documenttype/name/
 ---
 ## DocumentType.Name property
 
-De naam van DTD; dwz de naam die onmiddellijk volgt op het trefwoord DOCTYPE.
+De naam van de DTD; dat wil zeggen, de naam die direct volgt op het DOCTYPE‑trefwoord.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De naam van het knooppunt.
+De knooppuntnaam.
 
 ### Zie ook
 
 * class [DocumentType](../)
-* naamruimte [Aspose.Svg.Dom](../../documenttype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

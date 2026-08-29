@@ -1,14 +1,14 @@
 ---
-title: Enum ResourceHandling
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Saving.ResourceHandling opsomming. Deze opsomming vertegenwoordigt opties voor het omgaan met bronnen.
+title: "ResourceHandling Enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Saving.ResourceHandling enum. Deze enum vertegenwoordigt opties voor het verwerken van bronnen"
 type: docs
-weight: 3640
+weight: 5740
 url: /nl/net/aspose.svg.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration
 
-Deze opsomming vertegenwoordigt opties voor het omgaan met bronnen.
+Deze enum stelt opties voor bronafhandeling voor.
 
 ```csharp
 public enum ResourceHandling
@@ -19,13 +19,11 @@ public enum ResourceHandling
 | Naam | Waarde | Beschrijving |
 | --- | --- | --- |
 | Save | `0` | Bron wordt opgeslagen als bestand. |
-| Embed | `1` | Bron wordt ingebed in eigenaar. |
-| Discard | `2` | Bron wordt weggegooid. |
+| Embed | `1` | Bron wordt ingebed in de eigenaar. |
+| Discard | `2` | Bron wordt verwijderd. |
 | Ignore | `3` | Bron wordt niet opgeslagen. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

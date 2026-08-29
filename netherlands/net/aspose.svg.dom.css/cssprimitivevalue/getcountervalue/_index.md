@@ -1,28 +1,26 @@
 ---
-title: CSSPrimitiveValue.GetCounterValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSPrimitiveValue methode. Deze methode wordt gebruikt om de tellerwaarde te verkrijgen. Als deze CSSwaarde geen tellerwaarde bevat wordt een DOMException gegenereerd. Wijziging van de overeenkomstige stijleigenschap kan worden bereikt met behulp van de tellerinterface.
+title: "CSSPrimitiveValue.GetCounterValue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSPrimitiveValue GetCounterValue methode. Deze methode wordt gebruikt om de Counter-waarde op te halen. Als deze CSS-waarde geen counter-waarde bevat, wordt er een DOMException opgegooid. Aanpassing van de bijbehorende stijl-eigenschap kan worden bereikt via de Counter-interface."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.css/cssprimitivevalue/getcountervalue/
 ---
 ## CSSPrimitiveValue.GetCounterValue method
 
-Deze methode wordt gebruikt om de tellerwaarde te verkrijgen. Als deze CSS-waarde geen tellerwaarde bevat, wordt een DOMException gegenereerd. Wijziging van de overeenkomstige stijleigenschap kan worden bereikt met behulp van de tellerinterface.
+Deze methode wordt gebruikt om de Counter-waarde op te halen. Als deze CSS-waarde geen counter-waarde bevat, wordt een DOMException opgegooid. Aanpassing van de overeenkomstige stijl-eigenschap kan worden bereikt met behulp van de Counter-interface.
 
 ```csharp
 public abstract Counter GetCounterValue()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert Tellerwaarde
+Retourneert Counter-waarde
 
 ### Zie ook
 
 * class [Counter](../../counter/)
 * class [CSSPrimitiveValue](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

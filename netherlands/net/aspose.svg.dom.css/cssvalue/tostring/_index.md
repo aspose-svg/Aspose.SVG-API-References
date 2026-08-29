@@ -1,27 +1,25 @@
 ---
-title: CSSValue.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSValue methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "CSSValue.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSValue ToString methode. Retourneert een String die deze instantie vertegenwoordigt."
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom.css/cssvalue/tostring/
 ---
 ## CSSValue.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [CSSValue](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssvalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

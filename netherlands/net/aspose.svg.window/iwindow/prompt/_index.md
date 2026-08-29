@@ -1,14 +1,14 @@
 ---
-title: IWindow.Prompt
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindow methode. Geeft een modale tekstveldprompt weer met het gegeven bericht wacht tot de gebruiker het negeert en retourneert de waarde die de gebruiker heeft ingevoerd. Als de gebruiker de prompt annuleert retourneert hij in plaats daarvan null. Als het tweede argument aanwezig is wordt de opgegeven waarde als standaard gebruikt.
+title: "IWindow.Prompt"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindow Prompt methode. Toont een modale tekstveldprompt met het opgegeven bericht, wacht tot de gebruiker deze sluit en retourneert de waarde die de gebruiker heeft ingevoerd. Als de gebruiker de prompt annuleert, wordt null geretourneerd. Als het tweede argument aanwezig is, wordt de opgegeven waarde als standaard gebruikt."
 type: docs
-weight: 120
+weight: 160
 url: /nl/net/aspose.svg.window/iwindow/prompt/
 ---
 ## IWindow.Prompt method
 
-Geeft een modale tekstveldprompt weer met het gegeven bericht, wacht tot de gebruiker het negeert en retourneert de waarde die de gebruiker heeft ingevoerd. Als de gebruiker de prompt annuleert, retourneert hij in plaats daarvan null. Als het tweede argument aanwezig is, wordt de opgegeven waarde als standaard gebruikt.
+Toont een modale tekstveld‑prompt met het opgegeven bericht, wacht tot de gebruiker deze sluit, en retourneert de waarde die de gebruiker heeft ingevoerd. Als de gebruiker de prompt annuleert, wordt null geretourneerd. Als het tweede argument aanwezig is, wordt de opgegeven waarde als standaard gebruikt.
 
 ```csharp
 public string Prompt(string message, string @default)
@@ -16,17 +16,15 @@ public string Prompt(string message, string @default)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| message | String | De boodschap. |
-| default | String | De standaard. |
+| bericht | String | Het bericht. |
+| standaard | String | De standaard. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert de waarde die de gebruiker heeft ingevoerd
+Retourneert de waarde die de gebruiker heeft ingevoerd.
 
 ### Zie ook
 
 * interface [IWindow](../)
-* naamruimte [Aspose.Svg.Window](../../iwindow/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

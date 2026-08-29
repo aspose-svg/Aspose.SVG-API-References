@@ -1,14 +1,14 @@
 ---
-title: Document.CreateEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document methode. Creëert eenEvent van een type dat wordt ondersteund door de implementatie.
+title: "Document.CreateEvent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document CreateEvent-methode. Maakt een Event van een type dat door de implementatie wordt ondersteund"
 type: docs
 weight: 880
 url: /nl/net/aspose.svg.dom/document/createevent/
 ---
 ## Document.CreateEvent method
 
-Creëert een[`Event`](../../../aspose.svg.dom.events/event/) van een type dat wordt ondersteund door de implementatie.
+Maakt een [`Event`](../../../aspose.svg.dom.events/event/) van een type dat door de implementatie wordt ondersteund.
 
 ```csharp
 public Event CreateEvent(string eventType)
@@ -16,23 +16,21 @@ public Event CreateEvent(string eventType)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| eventType | String | De parameter eventType specificeert het type van[`Event`](../../../aspose.svg.dom.events/event/) aan te maken interface.  Als de[`Event`](../../../aspose.svg.dom.events/event/) opgegeven interface wordt ondersteund door de implementatie deze methode will retourneert een nieuw[`Event`](../../../aspose.svg.dom.events/event/) van het aangevraagde interfacetype. Als de[`Event`](../../../aspose.svg.dom.events/event/)wordt verzonden via de[`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/) methode de juiste[`InitEvent`](../../../aspose.svg.dom.events/event/initevent/) De methode moet na het maken worden aangeroepen om het[`Event`](../../../aspose.svg.dom.events/event/) s waarden. |
+| eventType | String | De parameter eventType specificeert het type van de [`Event`](../../../aspose.svg.dom.events/event/) interface die moet worden aangemaakt. Als de opgegeven [`Event`](../../../aspose.svg.dom.events/event/) interface wordt ondersteund door de implementatie, zal deze methode een nieuwe [`Event`](../../../aspose.svg.dom.events/event/) van het gevraagde interface‑type retourneren. Als de [`Event`](../../../aspose.svg.dom.events/event/) moet worden verzonden via de [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/)‑methode, moet na het aanmaken de juiste [`InitEvent`](../../../aspose.svg.dom.events/event/initevent/)‑methode worden aangeroepen om de waarden van de [`Event`](../../../aspose.svg.dom.events/event/) te initialiseren. |
 
-### Winstwaarde
+### Retourwaarde
 
-De nieuw gemaakte[`Event`](../../../aspose.svg.dom.events/event/)
+De nieuw aangemaakte [`Event`](../../../aspose.svg.dom.events/event/)
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Verhoogd als de implementatie het type van niet ondersteunt[`Event`](../../../aspose.svg.dom.events/event/) interface gevraagd |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Opgeworpen als de implementatie het type van de gevraagde [`Event`](../../../aspose.svg.dom.events/event/) interface niet ondersteunt |
 
 ### Zie ook
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

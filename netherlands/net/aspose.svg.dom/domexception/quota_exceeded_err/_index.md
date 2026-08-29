@@ -1,7 +1,7 @@
 ---
-title: DOMException.QUOTA_EXCEEDED_ERR
-second_title: Aspose.SVG voor .NET API-referentie
-description: DOMException veld. Het quotum is overschreden.
+title: "DOMException.QUOTA_EXCEEDED_ERR"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DOMException QUOTA_EXCEEDED_ERR veld. De quota is overschreden"
 type: docs
 weight: 230
 url: /nl/net/aspose.svg.dom/domexception/quota_exceeded_err/
@@ -17,7 +17,5 @@ public const ushort QUOTA_EXCEEDED_ERR;
 ### Zie ook
 
 * class [DOMException](../)
-* naamruimte [Aspose.Svg.Dom](../../domexception/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

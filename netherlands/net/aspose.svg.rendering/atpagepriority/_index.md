@@ -1,14 +1,14 @@
 ---
-title: Enum AtPagePriority
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.AtPagePriority opsomming. Specificeert mogelijke volgordes voor het toepassen van paginaformaatdeclaraties.
+title: "AtPagePriority Enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.AtPagePriority enum. Specificeert mogelijke volgordes voor het toepassen van paginagrootte‑declaraties."
 type: docs
-weight: 2710
+weight: 4780
 url: /nl/net/aspose.svg.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration
 
-Specificeert mogelijke volgordes voor het toepassen van paginaformaatdeclaraties.
+Specificeert mogelijke volgordes voor het toepassen van paginagrootte‑declaraties.
 
 ```csharp
 public enum AtPagePriority
@@ -18,12 +18,10 @@ public enum AtPagePriority
 
 | Naam | Waarde | Beschrijving |
 | --- | --- | --- |
-| OptionsPriority | `0` | Specificeert dat[`PageSetup`](../pagesetup/) waarden aangegeven in[`RenderingOptions`](../renderingoptions/) overschrijft waarden gedefinieerd in css door`@bladzijde` reglement . |
-| CssPriority | `1` | Specificeert dat`@bladzijde` reglement gedefinieerd in css zal waarden overschrijven die zijn gedefinieerd in[`PageSetup`](../pagesetup/) . |
+| OptionsPriority | `0` | Specificeert dat waarden van [`PageSetup`](../pagesetup/) gedeclareerd in [`RenderingOptions`](../renderingoptions/) waarden gedefinieerd in CSS via `@page`‑regels zullen overschrijven. |
+| CssPriority | `1` | Specificeert dat `@page`‑regels gedefinieerd in CSS waarden gedefinieerd in [`PageSetup`](../pagesetup/) zullen overschrijven. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

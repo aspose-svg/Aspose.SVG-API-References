@@ -1,7 +1,7 @@
 ---
-title: Time.op_GreaterThan
-second_title: Aspose.SVG voor .NET API-referentie
-description: Time methode. Implementeert de operator .
+title: "Time.op_GreaterThan"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Time op_GreaterThan methode. Implementeert de operator"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.drawing/time/op_greaterthan/
@@ -19,21 +19,19 @@ public static bool operator >(Time a, Time b)
 | a | Time | De parameter a. |
 | b | Time | De parameter b. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentException | Argumenten zijn er in verschillende soorten |
-| ArgumentNullException | Een argument is nul |
+| ArgumentException | Argumenten hebben verschillende types |
+| ArgumentNullException | Een argument is null |
 
 ### Zie ook
 
 * class [Time](../)
-* naamruimte [Aspose.Svg.Drawing](../../time/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Element.AttachShadow
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element methode. Creëert een schaduwwortel en koppelt deze aan het huidige element.
+title: "Element.AttachShadow"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element AttachShadow-methode. Maakt een shadow root aan en koppelt deze aan het huidige element"
 type: docs
-weight: 230
+weight: 220
 url: /nl/net/aspose.svg.dom/element/attachshadow/
 ---
 ## Element.AttachShadow method
 
-Creëert een schaduwwortel en koppelt deze aan het huidige element.
+Maakt een shadow root aan en koppelt deze aan het huidige element.
 
 ```csharp
 public ShadowRoot AttachShadow(ShadowRootMode mode)
@@ -16,25 +16,23 @@ public ShadowRoot AttachShadow(ShadowRootMode mode)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| mode | ShadowRootMode | Modus waarin schaduwwortel wordt gemaakt. |
+| mode | ShadowRootMode | Modus waarin de shadow root wordt aangemaakt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Gemaakt[`ShadowRoot`](../../shadowroot/).
+Aangemaakt [`ShadowRoot`](../../shadowroot/).
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| Error | NotSupportedError: Element ondersteunt geen schaduwboom. |
-| Error | InvalidStateError: Element heeft al een schaduwboom. |
+| Fout | NotSupportedError: Element ondersteunt geen shadow tree. |
+| Fout | InvalidStateError: Element heeft al een shadow tree. |
 
 ### Zie ook
 
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

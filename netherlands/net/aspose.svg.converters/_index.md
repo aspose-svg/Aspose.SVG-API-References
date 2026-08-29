@@ -1,17 +1,15 @@
 ---
-title: Aspose.Svg.Converters
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Converters doel van de naamruimte is gemakkelijke toegang tot conversiemethoden. Het biedt een breed scala aan conversies naar de populaire formaten zoals PDF XPS afbeeldingsformaten enz. Meer specifieke conversie rendering opslaan gebruikerscases worden gepresenteerd door bekende en gedocumenteerde lowlevel APIfuncties in onderwerpgeoriënteerde naamruimten.
+title: "Aspose.Svg.Converters"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Het doel van de Aspose.Svg.Converters‑namespace is gemakkelijke toegang tot conversiemethoden. Ze biedt een breed scala aan conversies naar populaire formaten zoals PDF, XPS, beeldformaten, enz. Meer specifieke conversie‑rendering‑opslaagsituaties worden gepresenteerd door bekende en gedocumenteerde low‑level API‑functies in onderwerp‑gerichte namespaces"
 type: docs
-weight: 30
+weight: 40
 url: /nl/net/aspose.svg.converters/
 ---
-De **Aspose.Svg.Converters** doel van de naamruimte is gemakkelijke toegang tot conversiemethoden. Het biedt een breed scala aan conversies naar de populaire formaten, zoals PDF, XPS, afbeeldingsformaten, enz. Meer specifieke conversie (rendering, opslaan) gebruikerscases worden gepresenteerd door bekende en gedocumenteerde low-level API-functies in onderwerpgeoriënteerde naamruimten.
+Het doel van de **Aspose.Svg.Converters** naamruimte is gemakkelijke toegang tot conversiemethoden. Deze naamruimte biedt een breed scala aan conversies naar populaire formaten, zoals PDF, XPS, beeldformaten, enz. Specifiekere conversie‑ (rendering, opslaan) gebruikssituaties worden gepresenteerd door bekende en gedocumenteerde low‑level API‑functies in vakgerichte naamruimtes.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [Converter](./converter/) | Gedeelde façade alleen voor de meest voorkomende conversiescenario's. Het biedt een breed scala aan conversies naar de populaire formaten, zoals PDF, XPS, afbeeldingsformaten, enz. Meer specifieke conversie (rendering, opslaan) gebruikerscases worden gepresenteerd door bekende en gedocumenteerde low-level API-functies. |
-
-
+| [Converter](./converter/) | Gedeelde façade alleen voor de meest voorkomende conversiescenario's. Het biedt een breed scala aan conversies naar de populaire formaten, zoals PDF, XPS, beeldformaten, enz. Specifiekere conversie (renderen, opslaan) gebruikssituaties worden gepresenteerd door bekende en gedocumenteerde low‑level API‑functies. |

@@ -1,14 +1,14 @@
 ---
-title: MimeType.MimeType
-second_title: Aspose.SVG voor .NET API-referentie
-description: MimeType constructeur. Initialiseert een nieuwe instantie van het MIMEtype op basis van geserialiseerde tekenreekswaarde.
+title: "MimeType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MimeType-constructeur. Initialiseert een nieuwe instantie van een MIME-type op basis van een geserialiseerde tekenreekswaarde"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/mimetype/mimetype/
 ---
 ## MimeType constructor
 
-Initialiseert een nieuwe instantie van het MIME-type op basis van geserialiseerde tekenreekswaarde.
+Initialiseert een nieuw exemplaar van MIME-type op basis van een geserialiseerde tekenreekswaarde.
 
 ```csharp
 public MimeType(string value)
@@ -16,12 +16,10 @@ public MimeType(string value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | String | De waarde. |
+| waarde | String | De waarde. |
 
 ### Zie ook
 
 * class [MimeType](../)
-* naamruimte [Aspose.Svg](../../mimetype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

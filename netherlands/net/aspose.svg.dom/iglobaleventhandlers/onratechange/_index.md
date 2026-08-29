@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnRateChange
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnRateChangegebeurtenis.
+title: "IGlobalEventHandlers.OnRateChange"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnRateChange‑evenement. Haalt op of stelt de gebeurtenishandler in voor het OnRateChange‑evenement"
 type: docs
 weight: 360
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onratechange/
 ---
 ## IGlobalEventHandlers.OnRateChange event
 
-Haalt of stelt gebeurtenishandler in voor OnRateChange-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnRateChange event.
 
 ```csharp
 public event DOMEventHandler OnRateChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnRateChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFEDistantLightElement.Elevation
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEDistantLightElement eigendom. Komt overeen met attribuut elevatie op het gegeven feDistantLightelement.
+title: "SVGFEDistantLightElement.Elevation"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEDistantLightElement Elevation-eigenschap. Komt overeen met attribuut elevation op het opgegeven feDistantLight‑element"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.filters/svgfedistantlightelement/elevation/
 ---
 ## SVGFEDistantLightElement.Elevation property
 
-Komt overeen met attribuut 'elevatie' op het gegeven 'feDistantLight'-element.
+Komt overeen met attribuut ‘elevation’ op het opgegeven ‘feDistantLight’ element.
 
 ```csharp
 public SVGAnimatedNumber Elevation { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'elevatie' van het gegeven 'feDistantLight' element.
+Het attribuut ‘elevation’ van het opgegeven ‘feDistantLight’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDistantLightElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfedistantlightelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

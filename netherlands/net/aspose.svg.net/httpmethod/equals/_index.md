@@ -1,12 +1,12 @@
 ---
-title: HttpMethod.Equals
-second_title: Aspose.SVG voor .NET API-referentie
-description: HttpMethod methode. Geeft aan of het huidige object gelijk is aan een ander object van hetzelfde type.
+title: "HttpMethod.Equals"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "HttpMethod Equals-methode. Geeft aan of het huidige object gelijk is aan een ander object van hetzelfde type"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.net/httpmethod/equals/
 ---
-## Equals(HttpMethod) {#equals}
+## Equals(*[HttpMethod](../)*) {#equals}
 
 Geeft aan of het huidige object gelijk is aan een ander object van hetzelfde type.
 
@@ -16,23 +16,23 @@ public bool Equals(HttpMethod other)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| other | HttpMethod | Een object om te vergelijken met dit object. |
+| ander | HttpMethod | Een object om te vergelijken met dit object. |
 
-### Winstwaarde
+### Retourwaarde
 
-waar als het huidige object gelijk is aan de*other* parameter; anders, false.
+true als het huidige object gelijk is aan de *other* parameter; anders, false.
 
 ### Zie ook
 
 * class [HttpMethod](../)
-* naamruimte [Aspose.Svg.Net](../../httpmethod/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bepaalt of de opgegevenObject , is gelijk aan deze instantie.
+Bepaalt of het opgegeven Object gelijk is aan deze instantie.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| obj | Object | DeObject te vergelijken met dit exemplaar. |
+| obj | Object | Het Object om te vergelijken met deze instantie. |
 
-### Winstwaarde
+### Retourwaarde
 
-`WAAR` als de opgegevenObject is gelijk aan deze instantie; anders,`vals` .
+`true` als het opgegeven Object gelijk is aan deze instantie; anders, `false`.
 
 ### Zie ook
 
 * class [HttpMethod](../)
-* naamruimte [Aspose.Svg.Net](../../httpmethod/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

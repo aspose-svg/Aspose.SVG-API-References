@@ -1,7 +1,7 @@
 ---
-title: INodeIterator.ReferenceNode
-second_title: Aspose.SVG voor .NET API-referentie
-description: INodeIterator eigendom. Het huidige referentieknooppunt.
+title: "INodeIterator.ReferenceNode"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "INodeIterator ReferenceNode-eigenschap. De huidige referentienode"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.traversal/inodeiterator/referencenode/
@@ -14,15 +14,13 @@ Het huidige referentieknooppunt.
 public Node ReferenceNode { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het referentieknooppunt.
+De referentienode.
 
 ### Zie ook
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeIterator](../)
-* naamruimte [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

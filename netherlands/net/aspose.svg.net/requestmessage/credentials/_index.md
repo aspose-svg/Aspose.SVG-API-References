@@ -1,27 +1,25 @@
 ---
-title: RequestMessage.Credentials
-second_title: Aspose.SVG voor .NET API-referentie
-description: RequestMessage eigendom. Verkrijgt of stelt authenticatieinformatie in voor het verzoek.
+title: "RequestMessage.Credentials"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "RequestMessage Credentials-eigenschap. Haalt of stelt authenticatie-informatie voor het verzoek in."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.net/requestmessage/credentials/
 ---
 ## RequestMessage.Credentials property
 
-Verkrijgt of stelt authenticatie-informatie in voor het verzoek.
+Haalt op of stelt authenticatie‑informatie voor het verzoek in.
 
 ```csharp
 public ICredentials Credentials { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Een System.Net.ICredentials die de verificatiereferenties bevat die aan het verzoek zijn gekoppeld. De standaardwaarde is null.
+Een System.Net.ICredentials die de authenticatiegegevens bevat die aan het verzoek zijn gekoppeld. Standaard is null.
 
 ### Zie ook
 
 * class [RequestMessage](../)
-* naamruimte [Aspose.Svg.Net](../../requestmessage/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

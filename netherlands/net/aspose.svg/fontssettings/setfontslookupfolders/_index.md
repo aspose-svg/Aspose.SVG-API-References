@@ -1,14 +1,14 @@
 ---
-title: FontsSettings.SetFontsLookupFolders
-second_title: Aspose.SVG voor .NET API-referentie
-description: FontsSettings methode. Stelt een reeks mappen in die worden gebruikt tijdens de selectie van lettertypen.
+title: "FontsSettings.SetFontsLookupFolders"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "FontsSettings SetFontsLookupFolders methode. Stelt een array van mappen in die worden gebruikt tijdens de selectie van fonts."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg/fontssettings/setfontslookupfolders/
 ---
-## SetFontsLookupFolders(string[]) {#setfontslookupfolders}
+## SetFontsLookupFolders(*string[]*) {#setfontslookupfolders}
 
-Stelt een reeks mappen in die worden gebruikt tijdens de selectie van lettertypen.
+Stelt een array van mappen in die worden gebruikt tijdens de lettertype‑selectie.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders)
@@ -16,19 +16,19 @@ public void SetFontsLookupFolders(string[] fontsFolders)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| fontsFolders | String[] | De mappen met lettertypen. |
+| fontsFolders | String[] | De fontmappen. |
 
 ### Zie ook
 
 * class [FontsSettings](../)
-* naamruimte [Aspose.Svg](../../fontssettings/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolders(string[], bool) {#setfontslookupfolders_1}
+## SetFontsLookupFolders(*string[], bool*) {#setfontslookupfolders_1}
 
-Stelt een reeks mappen in die worden gebruikt tijdens de selectie van lettertypen.
+Stelt een array van mappen in die worden gebruikt tijdens de lettertype‑selectie.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
@@ -36,13 +36,11 @@ public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| fontsFolders | String[] | De mappen met lettertypen. |
-| recursive | Boolean | Indien ingesteld op`WAAR` alle geneste mappen worden gebruikt. Standaardwaarde is`vals`. |
+| fontsFolders | String[] | De fontmappen. |
+| recursive | Boolean | Indien ingesteld op `true` worden alle geneste mappen gebruikt. Standaardwaarde is `false`. |
 
 ### Zie ook
 
 * class [FontsSettings](../)
-* naamruimte [Aspose.Svg](../../fontssettings/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

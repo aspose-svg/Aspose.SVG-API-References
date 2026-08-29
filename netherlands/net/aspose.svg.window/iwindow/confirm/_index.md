@@ -1,14 +1,14 @@
 ---
-title: IWindow.Confirm
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindow methode. Toont een modale OK/Annulerenprompt met het gegeven bericht wacht tot de gebruiker het negeert en retourneert true als de gebruiker op OK klikt en false als de gebruiker op Annuleren klikt.
+title: "IWindow.Confirm"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindow Confirm methode. Toont een modale OK/Cancel prompt met het opgegeven bericht, wacht tot de gebruiker deze sluit en retourneert true als de gebruiker op OK klikt en false als de gebruiker op Annuleren klikt."
 type: docs
-weight: 110
+weight: 140
 url: /nl/net/aspose.svg.window/iwindow/confirm/
 ---
 ## IWindow.Confirm method
 
-Toont een modale OK/Annuleren-prompt met het gegeven bericht, wacht tot de gebruiker het negeert en retourneert true als de gebruiker op OK klikt en false als de gebruiker op Annuleren klikt.
+Toont een modale OK/Annuleren‑prompt met het opgegeven bericht, wacht tot de gebruiker deze sluit, en retourneert true als de gebruiker op OK klikt en false als de gebruiker op Annuleren klikt.
 
 ```csharp
 public bool Confirm(string message)
@@ -16,16 +16,14 @@ public bool Confirm(string message)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| message | String | De boodschap. |
+| bericht | String | Het bericht. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert waar als de gebruiker op OK klikt en onwaar als de gebruiker op Annuleren klikt
+Retourneert true als de gebruiker op OK klikt en false als de gebruiker op Annuleren klikt.
 
 ### Zie ook
 
 * interface [IWindow](../)
-* naamruimte [Aspose.Svg.Window](../../iwindow/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

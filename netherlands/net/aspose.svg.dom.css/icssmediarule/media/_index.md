@@ -1,14 +1,14 @@
 ---
-title: ICSSMediaRule.Media
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSMediaRule eigendom. Een lijst met mediatypen voor deze regel.
+title: "ICSSMediaRule.Media"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSMediaRule Media eigenschap. Een lijst van mediatypes voor deze regel"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.css/icssmediarule/media/
 ---
 ## ICSSMediaRule.Media property
 
-Een lijst met mediatypen voor deze regel.
+Een lijst van mediatypen voor deze regel.
 
 ```csharp
 public IMediaList Media { get; }
@@ -18,7 +18,5 @@ public IMediaList Media { get; }
 
 * interface [IMediaList](../../imedialist/)
 * interface [ICSSMediaRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssmediarule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

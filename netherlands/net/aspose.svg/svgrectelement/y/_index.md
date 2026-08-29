@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Y
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGRectElement eigendom. Komt overeen met attribuut y op het gegeven rect element.
+title: "SVGRectElement.Y"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGRectElement Y eigenschap. Komt overeen met attribuut y op het opgegeven rect-element"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg/svgrectelement/y/
 ---
 ## SVGRectElement.Y property
 
-Komt overeen met attribuut 'y' op het gegeven 'rect' element.
+Komt overeen met attribuut ‘y’ op het opgegeven ‘rect’-element.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'y' van het gegeven 'rect' element.
+Het attribuut ‘y’ van het opgegeven ‘rect’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* naamruimte [Aspose.Svg](../../svgrectelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

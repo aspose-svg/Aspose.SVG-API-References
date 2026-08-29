@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.ContainsKey
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationObserverInit methode. Bepaalt of deMutationObserverInit verzameling bevat een opgegeven sleutel.
+title: "MutationObserverInit.ContainsKey"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationObserverInit ContainsKey-methode. Bepaalt of de MutationObserverInit-collectie een opgegeven sleutel bevat."
 type: docs
 weight: 170
 url: /nl/net/aspose.svg.dom.mutations/mutationobserverinit/containskey/
 ---
 ## MutationObserverInit.ContainsKey method
 
-Bepaalt of de[`MutationObserverInit`](../) verzameling bevat een opgegeven sleutel.
+Bepaalt of de [`MutationObserverInit`](../)-collectie een opgegeven sleutel bevat.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,16 +16,14 @@ public bool ContainsKey(string key)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| key | String | De sleutel om te controleren. |
+| sleutel | String | De te controleren sleutel. |
 
-### Winstwaarde
+### Retourwaarde
 
-Klopt als de[`MutationObserverInit`](../) een gespecificeerde sleutel bevatten; anders, vals.
+True als de [`MutationObserverInit`](../) een opgegeven sleutel bevat; anders false.
 
 ### Zie ook
 
 * class [MutationObserverInit](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

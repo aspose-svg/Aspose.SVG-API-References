@@ -1,14 +1,14 @@
 ---
-title: IFileList.Item
-second_title: Aspose.SVG voor .NET API-referentie
-description: IFileList eigendom. Retourneert het indexste bestand in de lijst.
+title: "IFileList.Item"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IFileList Item-eigenschap. Retourneert het bestand op de opgegeven index in de lijst."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.io/ifilelist/item/
 ---
 ## IFileList indexer
 
-Retourneert het indexste bestand in de lijst.
+Retourneert het bestand op de index in de lijst.
 
 ```csharp
 public IFile this[int index] { get; }
@@ -18,7 +18,7 @@ public IFile this[int index] { get; }
 | --- | --- |
 | index | De index van het bestand. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het bestand.
 
@@ -26,7 +26,5 @@ Het bestand.
 
 * interface [IFile](../../ifile/)
 * interface [IFileList](../)
-* naamruimte [Aspose.Svg.IO](../../ifilelist/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

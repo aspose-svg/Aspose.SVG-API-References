@@ -1,14 +1,14 @@
 ---
-title: XpsSaveOptions.XpsSaveOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: XpsSaveOptions constructeur. De standaard constructeur.
+title: "XpsSaveOptions"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "XpsSaveOptions constructor. De standaardconstructor"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.saving/xpssaveoptions/xpssaveoptions/
 ---
 ## XpsSaveOptions constructor
 
-De standaard constructeur.
+De standaardconstructor.
 
 ```csharp
 public XpsSaveOptions()
@@ -17,7 +17,5 @@ public XpsSaveOptions()
 ### Zie ook
 
 * class [XpsSaveOptions](../)
-* naamruimte [Aspose.Svg.Saving](../../xpssaveoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

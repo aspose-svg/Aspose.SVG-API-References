@@ -1,14 +1,14 @@
 ---
-title: KeyboardEvent.DOM_KEY_LOCATION_RIGHT
-second_title: Aspose.SVG voor .NET API-referentie
-description: KeyboardEvent veld. De sleutelactivering is afkomstig van de juiste sleutellocatie wanneer er meer dan één mogelijke locatie voor deze sleutel is.
+title: "KeyboardEvent.DOM_KEY_LOCATION_RIGHT"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "KeyboardEvent DOM_KEY_LOCATION_RIGHT veld. De toetsactivatie kwam voort uit de rechtertoets‑locatie wanneer er meer dan één mogelijke locatie voor deze toets bestaat."
 type: docs
 weight: 130
 url: /nl/net/aspose.svg.dom.events/keyboardevent/dom_key_location_right/
 ---
 ## KeyboardEvent.DOM_KEY_LOCATION_RIGHT field
 
-De sleutelactivering is afkomstig van de juiste sleutellocatie (wanneer er meer dan één mogelijke locatie voor deze sleutel is).
+De toetsactivatie kwam voort uit de rechter‑toetslocatie (wanneer er meer dan één mogelijke locatie voor deze toets is).
 
 ```csharp
 public const ulong DOM_KEY_LOCATION_RIGHT;
@@ -17,7 +17,5 @@ public const ulong DOM_KEY_LOCATION_RIGHT;
 ### Zie ook
 
 * class [KeyboardEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.BorderRightColor
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de eigenschapsdefinitie borderrightcolor in CSS2.
+title: "ICSS2Properties.BorderRightColor"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties BorderRightColor eigenschap. Zie de definitie van de border-right-color eigenschap in CSS2"
 type: docs
 weight: 200
 url: /nl/net/aspose.svg.dom.css/icss2properties/borderrightcolor/
 ---
 ## ICSS2Properties.BorderRightColor property
 
-Zie de eigenschapsdefinitie border-right-color in CSS2.
+Zie de definitie van de border-right-color-eigenschap in CSS2.
 
 ```csharp
 public string BorderRightColor { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
 border-right-color eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

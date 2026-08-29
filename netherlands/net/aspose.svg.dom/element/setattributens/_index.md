@@ -1,14 +1,14 @@
 ---
-title: Element.SetAttributeNS
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element methode. Voegt een nieuw attribuut toe. Als er al een kenmerk met dezelfde lokale naam en naamruimteURI aanwezig is op het element wordt het voorvoegsel gewijzigd in het voorvoegselgedeelte van de QualifiedName en wordt de waarde gewijzigd in de waardeparameter.
+title: "Element.SetAttributeNS"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element SetAttributeNS-methode. Voegt een nieuw attribuut toe. Als er al een attribuut met dezelfde lokale naam en namespace-URI aanwezig is op het element, wordt het voorvoegsel gewijzigd in het voorvoegseldeel van de qualifiedName en wordt de waarde gewijzigd in de value-parameter."
 type: docs
 weight: 430
 url: /nl/net/aspose.svg.dom/element/setattributens/
 ---
 ## Element.SetAttributeNS method
 
-Voegt een nieuw attribuut toe. Als er al een kenmerk met dezelfde lokale naam en naamruimte-URI aanwezig is op het element, wordt het voorvoegsel gewijzigd in het voorvoegselgedeelte van de QualifiedName en wordt de waarde gewijzigd in de waardeparameter.
+Voegt een nieuw attribuut toe. Als een attribuut met dezelfde lokale naam en namespace-URI al aanwezig is op het element, wordt het voorvoegsel gewijzigd naar het voorvoegsel van de qualifiedName, en wordt de waarde gewijzigd naar de waardeparameter.
 
 ```csharp
 public void SetAttributeNS(string namespaceURI, string qualifiedName, string value)
@@ -16,14 +16,12 @@ public void SetAttributeNS(string namespaceURI, string qualifiedName, string val
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| namespaceURI | String | De naamruimte-URI. |
+| namespaceURI | String | De namespace‑URI. |
 | qualifiedName | String | Naam van de gekwalificeerde. |
-| value | String | De waarde. |
+| waarde | String | De waarde. |
 
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

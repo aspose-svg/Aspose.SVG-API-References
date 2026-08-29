@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.SpecularExponent
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFESpecularLightingElement eigendom. Komt overeen met attribuut specularExponent op het gegeven feSpecularLightingelement.
+title: "SVGFESpecularLightingElement.SpecularExponent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFESpecularLightingElement SpecularExponent-eigenschap. Komt overeen met attribuut specularExponent op het opgegeven feSpecularLighting-element"
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.filters/svgfespecularlightingelement/specularexponent/
 ---
 ## SVGFESpecularLightingElement.SpecularExponent property
 
-Komt overeen met attribuut 'specularExponent' op het gegeven 'feSpecularLighting'-element.
+Komt overeen met attribuut ‘specularExponent’ op het opgegeven ‘feSpecularLighting’ element.
 
 ```csharp
 public SVGAnimatedNumber SpecularExponent { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'specularExponent' van het gegeven 'feSpecularLighting' element.
+Het attribuut ‘specularExponent’ van het opgegeven ‘feSpecularLighting’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IStyleSheet.ParentStyleSheet
-second_title: Aspose.SVG voor .NET API-referentie
-description: IStyleSheet eigendom. Voor stylesheettalen die het concept van stylesheetopname ondersteunen vertegenwoordigt dit attribuut de includestylesheet als die bestaat. Als de stijlpagina een stijlpagina op het hoogste niveau is of als de taal van de stijlpagina opname niet ondersteunt is de waarde van dit attribuut null.
+title: "IStyleSheet.ParentStyleSheet"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IStyleSheet ParentStyleSheet property. Voor stylesheets‑talen die het concept van stylesheet‑inclusie ondersteunen, vertegenwoordigt dit attribuut het includerende stylesheet als dat bestaat. Als het stylesheet een top‑level stylesheet is of de stylesheet‑taal inclusie niet ondersteunt, is de waarde van dit attribuut null"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom.css/istylesheet/parentstylesheet/
 ---
 ## IStyleSheet.ParentStyleSheet property
 
-Voor stylesheettalen die het concept van stylesheetopname ondersteunen, vertegenwoordigt dit attribuut de include-stylesheet, als die bestaat. Als de stijlpagina een stijlpagina op het hoogste niveau is, of als de taal van de stijlpagina opname niet ondersteunt, is de waarde van dit attribuut null.
+Voor stijlblad‑talen die het concept van stijlblad‑inclusie ondersteunen, vertegenwoordigt dit attribuut het includerende stijlblad, indien aanwezig. Als het stijlblad een top‑level stijlblad is, of de stijlblad‑taal geen inclusie ondersteunt, is de waarde van dit attribuut null.
 
 ```csharp
 public IStyleSheet ParentStyleSheet { get; }
@@ -17,7 +17,5 @@ public IStyleSheet ParentStyleSheet { get; }
 ### Zie ook
 
 * interface [IStyleSheet](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../istylesheet/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

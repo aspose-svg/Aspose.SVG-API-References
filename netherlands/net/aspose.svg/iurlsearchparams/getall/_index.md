@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.GetAll
-second_title: Aspose.SVG voor .NET API-referentie
-description: IUrlSearchParams methode. Retourneert alle waarden waarvan de naam isnaam .
+title: "IUrlSearchParams.GetAll"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IUrlSearchParams GetAll-methode. Retourneert alle waarden waarvan de naam name is."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg/iurlsearchparams/getall/
 ---
 ## IUrlSearchParams.GetAll method
 
-Retourneert alle waarden waarvan de naam is`naam` .
+Retourneert alle waarden waarvan de naam `name` is.
 
 ```csharp
 public IList<string> GetAll(string name)
@@ -16,16 +16,14 @@ public IList<string> GetAll(string name)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | Sleutel die zal worden gebruikt om het naam-waardepaar te vinden. |
+| naam | String | Sleutel die wordt gebruikt om een naam-waarde-paar te vinden. |
 
-### Winstwaarde
+### Retourwaarde
 
-Lijst met alle waarden waarvan de naam is`naam`.
+Lijst met alle waarden waarvan de naam `name` is.
 
 ### Zie ook
 
 * interface [IUrlSearchParams](../)
-* naamruimte [Aspose.Svg](../../iurlsearchparams/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

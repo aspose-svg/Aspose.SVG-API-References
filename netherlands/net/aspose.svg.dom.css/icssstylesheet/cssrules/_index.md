@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleSheet.CSSRules
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSStyleSheet eigendom. De lijst met alle CSSregels in de stylesheet. Dit omvat zowel regelsets als atrules.
+title: "ICSSStyleSheet.CSSRules"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSStyleSheet CSSRules eigenschap. De lijst van alle CSS-regels die in het stijlblad zijn opgenomen. Dit omvat zowel regelsets als at-rules"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.css/icssstylesheet/cssrules/
 ---
 ## ICSSStyleSheet.CSSRules property
 
-De lijst met alle CSS-regels in de stylesheet. Dit omvat zowel regelsets als at-rules.
+De lijst van alle CSS-regels die in het stijlblad zijn opgenomen. Dit omvat zowel regelsets als at-rules.
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
@@ -18,7 +18,5 @@ public ICSSRuleList CSSRules { get; }
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSStyleSheet](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssstylesheet/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

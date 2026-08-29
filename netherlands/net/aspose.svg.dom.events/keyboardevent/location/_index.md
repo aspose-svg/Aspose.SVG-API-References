@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.Location
-second_title: Aspose.SVG voor .NET API-referentie
-description: KeyboardEvent eigendom. Het location attribuut bevat een indicatie van de logische locatie van de sleutel op het apparaat.
+title: "KeyboardEvent.Location"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "KeyboardEvent Location eigenschap. Het locatie‑attribuut bevat een indicatie van de logische locatie van de toets op het apparaat."
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.dom.events/keyboardevent/location/
 ---
 ## KeyboardEvent.Location property
 
-Het location attribuut bevat een indicatie van de logische locatie van de sleutel op het apparaat.
+Het attribuut location bevat een indicatie van de logische locatie van de toets op het apparaat.
 
 ```csharp
 public ulong Location { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De locatie.
 
 ### Zie ook
 
 * class [KeyboardEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

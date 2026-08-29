@@ -1,14 +1,14 @@
 ---
-title: Class MutationRecord
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Mutations.MutationRecord klas. Een MutationRecord vertegenwoordigt een individuele DOMmutatie. Het is het object waaraan wordt doorgegevenMutationObserver SMutationCallback .
+title: "MutationRecord Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Mutations.MutationRecord klasse. Een MutationRecord vertegenwoordigt een individuele DOM-mutatie. Het is het object dat wordt doorgegeven aan de MutationCallback van MutationObservers."
 type: docs
-weight: 1140
+weight: 3130
 url: /nl/net/aspose.svg.dom.mutations/mutationrecord/
 ---
 ## MutationRecord class
 
-Een MutationRecord vertegenwoordigt een individuele DOM-mutatie. Het is het object waaraan wordt doorgegeven[`MutationObserver`](../mutationobserver/) S[`MutationCallback`](../mutationcallback/) .
+Een MutationRecord vertegenwoordigt een individuele DOM-mutatie. Het is het object dat wordt doorgegeven aan de [`MutationObserver`](../mutationobserver/)'s [`MutationCallback`](../mutationcallback/).
 
 ```csharp
 public class MutationRecord : DOMObject
@@ -18,26 +18,24 @@ public class MutationRecord : DOMObject
 
 | Naam | Beschrijving |
 | --- | --- |
-| [AddedNodes](../../aspose.svg.dom.mutations/mutationrecord/addednodes/) { get; } | Retourneert de toegevoegde knooppunten. |
+| [AddedNodes](../../aspose.svg.dom.mutations/mutationrecord/addednodes/) { get; } | Geef de toegevoegde knooppunten terug. |
 | [AttributeName](../../aspose.svg.dom.mutations/mutationrecord/attributename/) { get; } | Retourneert de lokale naam van het gewijzigde attribuut, en anders null. |
-| [AttributeNamespace](../../aspose.svg.dom.mutations/mutationrecord/attributenamespace/) { get; } | Retourneert de naamruimte van het gewijzigde attribuut, en anders null. |
-| [NextSibling](../../aspose.svg.dom.mutations/mutationrecord/nextsibling/) { get; } | Retourneert het volgende broertje van de toegevoegde of verwijderde knooppunten, of null. |
-| [OldValue](../../aspose.svg.dom.mutations/mutationrecord/oldvalue/) { get; } | De geretourneerde waarde is afhankelijk van het type. Voor "attributen" is dit de waarde van het gewijzigde attribuut vóór de wijziging. Voor "characterData" zijn dit de gegevens van het gewijzigde knooppunt vóór de wijziging. Voor "childList" is dit null. |
-| [PreviousSibling](../../aspose.svg.dom.mutations/mutationrecord/previoussibling/) { get; } | Retourneert het vorige broertje van de toegevoegde of verwijderde knooppunten, of null. |
-| [RemovedNodes](../../aspose.svg.dom.mutations/mutationrecord/removednodes/) { get; } | Retourneert de verwijderde knooppunten. |
-| [Target](../../aspose.svg.dom.mutations/mutationrecord/target/) { get; } | Retourneert het knooppunt waarop de mutatie betrekking heeft, afhankelijk van het type. Voor "attributen" is dit het element waarvan het attribuut is gewijzigd. Voor "characterData" is dit het CharacterData-knooppunt. Voor "childList" is dit het knooppunt waarvan de kinderen zijn gewijzigd. |
-| [Type](../../aspose.svg.dom.mutations/mutationrecord/type/) { get; } | Retourneert "attributen" als het een attribuutmutatie was, "characterData" als het een mutatie was naar een CharacterData-knooppunt en "childList" als het een mutatie was naar de boom van knooppunten. |
+| [AttributeNamespace](../../aspose.svg.dom.mutations/mutationrecord/attributenamespace/) { get; } | Retourneert de namespace van het gewijzigde attribuut, en anders null. |
+| [NextSibling](../../aspose.svg.dom.mutations/mutationrecord/nextsibling/) { get; } | Geef de volgende sibling van de toegevoegde of verwijderde knooppunten terug, of null. |
+| [OldValue](../../aspose.svg.dom.mutations/mutationrecord/oldvalue/) { get; } | De retourwaarde hangt af van het type. Voor "attributes" is het de waarde van het gewijzigde attribuut vóór de wijziging. Voor "characterData" is het de data van het gewijzigde knooppunt vóór de wijziging. Voor "childList" is het null. |
+| [PreviousSibling](../../aspose.svg.dom.mutations/mutationrecord/previoussibling/) { get; } | Retourneert de vorige sibling van de toegevoegde of verwijderde knooppunten, of null. |
+| [RemovedNodes](../../aspose.svg.dom.mutations/mutationrecord/removednodes/) { get; } | Geef de verwijderde knooppunten terug. |
+| [Target](../../aspose.svg.dom.mutations/mutationrecord/target/) { get; } | Retourneert het knooppunt dat door de mutatie werd beïnvloed, afhankelijk van het type. Voor "attributes" is het het element waarvan het attribuut is gewijzigd. Voor "characterData" is het het CharacterData-knooppunt. Voor "childList" is het het knooppunt waarvan de kinderen zijn gewijzigd. |
+| [Type](../../aspose.svg.dom.mutations/mutationrecord/type/) { get; } | Retourneert "attributes" als het een attribuutmutatie was, "characterData" als het een mutatie van een CharacterData-knooppunt was en "childList" als het een mutatie van de knooptree was. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
 
 ### Zie ook
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

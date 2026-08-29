@@ -1,20 +1,20 @@
 ---
-title: SVGGraphicsElement.NearestViewportElement
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGGraphicsElement eigendom. Het element dat de huidige viewport tot stand heeft gebracht. Vaak het dichtstbijzijnde voorouder svg element. Null als het huidige element het buitenste svgelement is.
+title: "SVGGraphicsElement.NearestViewportElement"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGGraphicsElement NearestViewportElement eigenschap. Het element dat de huidige viewport heeft vastgesteld. Vaak het dichtstbijzijnde bovenliggende svg-element. Null als het huidige element het buitenste svg-element is"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg/svggraphicselement/nearestviewportelement/
 ---
 ## SVGGraphicsElement.NearestViewportElement property
 
-Het element dat de huidige viewport tot stand heeft gebracht. Vaak het dichtstbijzijnde voorouder 'svg' element. Null als het huidige element het buitenste svg-element is.
+Het element dat het huidige viewport heeft vastgesteld. Vaak het dichtstbijzijnde voorouder‑element ‘svg’. Null als het huidige element het buitenste svg‑element is.
 
 ```csharp
 public SVGElement NearestViewportElement { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het dichtstbijzijnde viewport-element.
 
@@ -22,7 +22,5 @@ Het dichtstbijzijnde viewport-element.
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* naamruimte [Aspose.Svg](../../svggraphicselement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

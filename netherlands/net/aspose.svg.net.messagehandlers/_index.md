@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.MessageHandlers
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Net.MessageHandlers naamruimte is gepresenteerd door klassen  berichtbehandelaars van verschillende protocollen.
+title: "Aspose.Svg.Net.MessageHandlers"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.Net.MessageHandlers-namespace wordt gepresenteerd door klassen – berichtverwerkers voor verschillende protocollen."
 type: docs
-weight: 220
+weight: 240
 url: /nl/net/aspose.svg.net.messagehandlers/
 ---
-De **Aspose.Svg.Net.MessageHandlers** naamruimte is gepresenteerd door klassen - berichtbehandelaars van verschillende protocollen.
+De **Aspose.Svg.Net.MessageHandlers** namespace wordt gepresenteerd door klassen – berichtverwerkers van verschillende protocollen.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Vertegenwoordigt de`bestand:` protocol berichtbehandelaar. |
-| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Vertegenwoordigt de`ftp:` protocol berichtbehandelaar. |
-| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Vertegenwoordigt de`http:` protocol berichtbehandelaar. |
-
-
+| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Stelt de `file:`‑protocolberichtverwerker voor. |
+| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Stelt de `ftp:`‑protocolberichtverwerker voor. |
+| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Stelt de `http:`‑protocolberichtverwerker voor. |

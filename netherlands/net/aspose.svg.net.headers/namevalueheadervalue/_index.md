@@ -1,14 +1,14 @@
 ---
-title: Class NameValueHeaderValue
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Net.Headers.NameValueHeaderValue klas. Vertegenwoordigt een naam/waardepaar dat een headerwaarde beschrijft.
+title: "NameValueHeaderValue Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Net.Headers.NameValueHeaderValue klasse. Vertegenwoordigt een naam/waarde‑paar dat een headerwaarde beschrijft"
 type: docs
-weight: 2280
+weight: 4350
 url: /nl/net/aspose.svg.net.headers/namevalueheadervalue/
 ---
 ## NameValueHeaderValue class
 
-Vertegenwoordigt een naam/waarde-paar dat een headerwaarde beschrijft.
+Stelt een naam/waarde‑paar voor dat een headerwaarde beschrijft.
 
 ```csharp
 public class NameValueHeaderValue
@@ -18,18 +18,16 @@ public class NameValueHeaderValue
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Name](../../aspose.svg.net.headers/namevalueheadervalue/name/) { get; } | Krijgt de parameternaam. |
-| [Value](../../aspose.svg.net.headers/namevalueheadervalue/value/) { get; set; } | Haalt de parameterwaarde op of stelt deze in. |
+| [Name](../../aspose.svg.net.headers/namevalueheadervalue/name/) { get; } | Haalt de parameternaam op. |
+| [Value](../../aspose.svg.net.headers/namevalueheadervalue/value/) { get; set; } | Haalt op of stelt de parameterwaarde in. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | Geeft als resultaat eenString die deze instantie vertegenwoordigt. |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | Retourneert een String die deze instantie vertegenwoordigt. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

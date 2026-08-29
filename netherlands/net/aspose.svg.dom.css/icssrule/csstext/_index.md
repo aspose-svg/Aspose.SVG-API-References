@@ -1,27 +1,25 @@
 ---
-title: ICSSRule.CSSText
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSRule eigendom. De ontleedbare tekstuele weergave van de regel. Dit weerspiegelt de huidige status van de regel en niet de oorspronkelijke waarde.
+title: "ICSSRule.CSSText"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSRule CSSText eigenschap. De parseerbare tekstuele weergave van de regel. Dit weerspiegelt de huidige staat van de regel en niet de oorspronkelijke waarde"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.css/icssrule/csstext/
 ---
 ## ICSSRule.CSSText property
 
-De ontleedbare tekstuele weergave van de regel. Dit weerspiegelt de huidige status van de regel en niet de oorspronkelijke waarde.
+De parseerbare tekstuele weergave van de regel. Dit weerspiegelt de huidige staat van de regel en niet de oorspronkelijke waarde.
 
 ```csharp
 public string CSSText { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De CSS-tekst.
 
 ### Zie ook
 
 * interface [ICSSRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssrule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathSegList.SVGPathSegList
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathSegList constructeur. Initialiseert een nieuw exemplaar van hetSVGPathSegList klasse.
+title: "SVGPathSegList"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathSegList constructor. Initialiseert een nieuw exemplaar van de SVGPathSegList-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.paths/svgpathseglist/svgpathseglist/
 ---
 ## SVGPathSegList() {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`SVGPathSegList`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`SVGPathSegList`](../)-klasse.
 
 ```csharp
 public SVGPathSegList()
@@ -17,14 +17,14 @@ public SVGPathSegList()
 ### Zie ook
 
 * class [SVGPathSegList](../)
-* naamruimte [Aspose.Svg.Paths](../../svgpathseglist/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGPathSegList(IEnumerable&lt;SVGPathSeg&gt;) {#constructor_1}
+## SVGPathSegList(*IEnumerable&lt;SVGPathSeg&gt;*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`SVGPathSegList`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`SVGPathSegList`](../)-klasse.
 
 ```csharp
 public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
@@ -32,13 +32,11 @@ public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | De telbare. |
+| enumerable | IEnumerable`1 | De enumerable. |
 
 ### Zie ook
 
 * class [SVGPathSeg](../../svgpathseg/)
 * class [SVGPathSegList](../)
-* naamruimte [Aspose.Svg.Paths](../../svgpathseglist/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

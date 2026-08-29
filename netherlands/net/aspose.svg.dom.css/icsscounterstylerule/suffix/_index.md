@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Suffix
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSCounterStyleRule eigendom. Krijgt het achtervoegsel.
+title: "ICSSCounterStyleRule.Suffix"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSCounterStyleRule Suffix eigenschap. Haalt de suffix op"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom.css/icsscounterstylerule/suffix/
 ---
 ## ICSSCounterStyleRule.Suffix property
 
-Krijgt het achtervoegsel.
+Haalt het achtervoegsel op.
 
 ```csharp
 public string Suffix { get; }
@@ -17,7 +17,5 @@ public string Suffix { get; }
 ### Zie ook
 
 * interface [ICSSCounterStyleRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

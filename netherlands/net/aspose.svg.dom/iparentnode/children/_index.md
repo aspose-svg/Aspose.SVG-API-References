@@ -1,7 +1,7 @@
 ---
-title: IParentNode.Children
-second_title: Aspose.SVG voor .NET API-referentie
-description: IParentNode eigendom. Geeft de onderliggende elementen terug.
+title: "IParentNode.Children"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IParentNode Children-eigenschap. Retourneert de kindelementen"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom/iparentnode/children/
@@ -14,7 +14,7 @@ Geeft de onderliggende elementen terug.
 public HTMLCollection Children { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De kinderen.
 
@@ -22,7 +22,5 @@ De kinderen.
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * interface [IParentNode](../)
-* naamruimte [Aspose.Svg.Dom](../../iparentnode/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

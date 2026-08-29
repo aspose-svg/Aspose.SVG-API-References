@@ -1,20 +1,20 @@
 ---
-title: Page.Size
-second_title: Aspose.SVG voor .NET API-referentie
-description: Page eigendom. Hiermee wordt het paginaformaat opgehaald of ingesteld.
+title: "Page.Size"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Page Size-eigenschap. Haalt de paginagrootte op of stelt deze in"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.drawing/page/size/
 ---
 ## Page.Size property
 
-Hiermee wordt het paginaformaat opgehaald of ingesteld.
+Haalt op of stelt de paginagrootte in.
 
 ```csharp
 public Size Size { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De grootte.
 
@@ -22,7 +22,5 @@ De grootte.
 
 * class [Size](../../size/)
 * class [Page](../)
-* naamruimte [Aspose.Svg.Drawing](../../page/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

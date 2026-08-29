@@ -1,35 +1,33 @@
 ---
-title: Class StencilConfiguration
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.ImageVectorization.StencilConfiguration klas. DeStencilConfiguration klasse definieert een configuratie van opties voor stencileffecten.
+title: "StencilConfiguration-klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.ImageVectorization.StencilConfiguration class. De StencilConfiguration‑klasse definieert een configuratie van stencil‑effectopties."
 type: docs
-weight: 2170
+weight: 4240
 url: /nl/net/aspose.svg.imagevectorization/stencilconfiguration/
 ---
 ## StencilConfiguration class
 
-De`StencilConfiguration` klasse definieert een configuratie van opties voor stencileffecten.
+De `StencilConfiguration`‑klasse definieert een configuratie van stencil‑effectopties.
 
 ```csharp
 public class StencilConfiguration
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [StencilConfiguration](stencilconfiguration/)() | Initialiseert een nieuw exemplaar van het`StencilConfiguration` klasse. |
+| [StencilConfiguration](stencilconfiguration/)() | Initialiseert een nieuw exemplaar van de `StencilConfiguration`-klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | Hiermee wordt de kleur voor het renderen van stencillijnen voor het type MonoColor opgehaald of ingesteld. |
-| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | Haalt of stelt de[`StencilType`](../stenciltype/) . |
+| [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | Haalt op of stelt de kleur in voor het renderen van stencil‑lijnen voor het MonoColor-type. |
+| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | Haalt op of stelt de [`StencilType`](../stenciltype/) in. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

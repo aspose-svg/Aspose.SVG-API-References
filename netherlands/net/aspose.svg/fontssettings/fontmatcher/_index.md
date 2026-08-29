@@ -1,14 +1,14 @@
 ---
-title: FontsSettings.FontMatcher
-second_title: Aspose.SVG voor .NET API-referentie
-description: FontsSettings eigendom. Haalt de klasse op of stelt deze in waarmee u sommige delen van het algoritme voor het matchen van lettertypen kunt besturen.
+title: "FontsSettings.FontMatcher"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "FontsSettings FontMatcher eigenschap. Haalt de klasse op of stelt deze in die u in staat stelt enkele delen van het font-matching algoritme te beheersen."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/fontssettings/fontmatcher/
 ---
 ## FontsSettings.FontMatcher property
 
-Haalt de klasse op of stelt deze in waarmee u sommige delen van het algoritme voor het matchen van lettertypen kunt besturen.
+Haalt op of stelt de klasse in die u in staat stelt enkele delen van het lettertype‑matchingalgoritme te beheersen.
 
 ```csharp
 public FontMatcher FontMatcher { get; set; }
@@ -18,7 +18,5 @@ public FontMatcher FontMatcher { get; set; }
 
 * class [FontMatcher](../../../aspose.svg.rendering.fonts/fontmatcher/)
 * class [FontsSettings](../)
-* naamruimte [Aspose.Svg](../../fontssettings/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: UnitType.Dpcm
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is in punten per centimeter.
+title: "UnitType.Dpcm"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType Dpcm-veld. Meting is in punten per centimeter"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.drawing/unittype/dpcm/
@@ -17,7 +17,5 @@ public static readonly UnitType Dpcm;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

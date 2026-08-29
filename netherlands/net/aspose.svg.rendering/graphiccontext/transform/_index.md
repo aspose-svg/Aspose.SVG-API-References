@@ -1,27 +1,26 @@
 ---
-title: GraphicContext.Transform
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext methode. Pas de huidige transformatiematrix aan door de gespecificeerde matrix te vermenigvuldigen.
+title: "GraphicContext.Transform"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext Transform-methode. Wijzig de huidige transformatie-matrix door de opgegeven matrix te vermenigvuldigen."
 type: docs
 weight: 180
 url: /nl/net/aspose.svg.rendering/graphiccontext/transform/
 ---
 ## GraphicContext.Transform method
 
-Pas de huidige transformatiematrix aan door de gespecificeerde matrix te vermenigvuldigen.
+Wijzig de huidige transformatie‑matrix door de opgegeven matrix te vermenigvuldigen.
 
 ```csharp
-public virtual void Transform(Matrix matrix)
+public virtual void Transform(IMatrix matrix)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| matrix | Matrix | Transformatiematrix. |
+| matrix | IMatrix | Transformatie-matrix. |
 
 ### Zie ook
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

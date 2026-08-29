@@ -1,7 +1,7 @@
 ---
-title: Document.Location
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document eigendom. De locatie van het document.
+title: "Document.Location"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document Location‑eigenschap. De locatie van het document."
 type: docs
 weight: 160
 url: /nl/net/aspose.svg.dom/document/location/
@@ -14,7 +14,7 @@ De locatie van het document.
 public Location Location { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De locatie.
 
@@ -22,7 +22,5 @@ De locatie.
 
 * class [Location](../../../aspose.svg.window/location/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

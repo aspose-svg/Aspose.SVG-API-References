@@ -1,7 +1,7 @@
 ---
-title: MimeType.SubType
-second_title: Aspose.SVG voor .NET API-referentie
-description: MimeType eigendom. Haalt het submediatype op.
+title: "MimeType.SubType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MimeType SubType-eigenschap. Haalt het submediatype op"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg/mimetype/subtype/
@@ -14,14 +14,12 @@ Haalt het submediatype op.
 public string SubType { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het submediatype.
 
 ### Zie ook
 
 * class [MimeType](../)
-* naamruimte [Aspose.Svg](../../mimetype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

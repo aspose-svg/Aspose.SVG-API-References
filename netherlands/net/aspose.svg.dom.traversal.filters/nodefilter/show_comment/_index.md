@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_COMMENT
-second_title: Aspose.SVG voor .NET API-referentie
-description: NodeFilter veld. Toon commentaarknooppunten.
+title: "NodeFilter.SHOW_COMMENT"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NodeFilter SHOW_COMMENT veld. Toon Comment knooppunten"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.dom.traversal.filters/nodefilter/show_comment/
@@ -17,7 +17,5 @@ public const long SHOW_COMMENT;
 ### Zie ook
 
 * class [NodeFilter](../)
-* naamruimte [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: MessageHandler.Filters
-second_title: Aspose.SVG voor .NET API-referentie
-description: MessageHandler eigendom. Haalt de filterlijst op die overeenkomt met het opgegeven handlertype.
+title: "MessageHandler.Filters"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MessageHandler Filters eigenschap. Haalt de filterlijst op die overeenkomt met het opgegeven handlertype"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net/messagehandler/filters/
 ---
 ## MessageHandler.Filters property
 
-Haalt de filterlijst op die overeenkomt met het opgegeven handlertype.
+Haalt de filterlijst op die overeenkomt met het opgegeven handler‑type.
 
 ```csharp
 public Collection<MessageFilter> Filters { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De filters.
 
@@ -22,7 +22,5 @@ De filters.
 
 * class [MessageFilter](../../messagefilter/)
 * class [MessageHandler](../)
-* naamruimte [Aspose.Svg.Net](../../messagehandler/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

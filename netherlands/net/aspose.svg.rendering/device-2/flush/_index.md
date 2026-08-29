@@ -1,14 +1,14 @@
 ---
-title: Device2.Flush
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Spoelt alle gegevens naar uitvoerstroom.
+title: "Device-2.Flush"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device Flush-methode. Verstuurt alle gegevens naar de uitvoerstroom."
 type: docs
-weight: 170
+weight: 200
 url: /nl/net/aspose.svg.rendering/device-2/flush/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Flush method
+## Device<TGraphicContext,TRenderingOptions>.Flush method
 
-Spoelt alle gegevens naar uitvoerstroom.
+Leegt alle gegevens naar de uitvoerstroom.
 
 ```csharp
 public virtual void Flush()
@@ -17,7 +17,5 @@ public virtual void Flush()
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_DOCUMENT_TYPE
-second_title: Aspose.SVG voor .NET API-referentie
-description: NodeFilter veld. Toon DocumentTypeknooppunten.
+title: "NodeFilter.SHOW_DOCUMENT_TYPE"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NodeFilter SHOW_DOCUMENT_TYPE veld. Toon DocumentType knooppunten"
 type: docs
 weight: 120
 url: /nl/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_type/
@@ -17,7 +17,5 @@ public const long SHOW_DOCUMENT_TYPE;
 ### Zie ook
 
 * class [NodeFilter](../)
-* naamruimte [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

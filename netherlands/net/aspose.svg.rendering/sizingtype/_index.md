@@ -1,14 +1,14 @@
 ---
-title: Enum SizingType
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.SizingType opsomming. Vertegenwoordigt de opsomming van typen paginagrootte.
+title: "SizingType Enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.SizingType enum. Vertegenwoordigt de enumeratie van paginagrootte‑typen"
 type: docs
-weight: 3020
+weight: 5090
 url: /nl/net/aspose.svg.rendering/sizingtype/
 ---
 ## SizingType enumeration
 
-Vertegenwoordigt de opsomming van typen paginagrootte.
+Stelt de enumeratie van paginagrootte‑typen voor.
 
 ```csharp
 public enum SizingType
@@ -18,14 +18,12 @@ public enum SizingType
 
 | Naam | Waarde | Beschrijving |
 | --- | --- | --- |
-| FitContent | `0` | Gegeven afmetingen van de pagina aanpassen aan de grootte van de inhoud die deze bevat. |
-| ScaleContent | `1` | Een inhoudsgrootte schalen in overeenstemming met de gegeven grootte van de pagina. |
-| Contain | `2` | De inhoudsgrootte aanpassen aan de paginagrootte terwijl de gewenste beeldverhouding zoveel mogelijk behouden blijft. |
-| Crop | `3` | De inhoud op de pagina plaatsen en alles bijsnijden dat buiten het opgegeven paginaformaat valt. |
+| FitContent | `0` | De opgegeven afmetingen van de pagina wijzigen zodat ze passen bij de grootte van de inhoud die ze bevat. |
+| ScaleContent | `1` | De grootte van de inhoud schalen in overeenstemming met de opgegeven paginagrootte. |
+| Contain | `2` | De inhoudsgrootte aanpassen aan de paginagrootte terwijl, voor zover mogelijk, de gewenste beeldverhouding behouden blijft. |
+| Crop | `3` | De inhoud op de pagina plaatsen en alles buiten de opgegeven paginagrootte bijsnijden. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

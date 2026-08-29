@@ -1,7 +1,7 @@
 ---
-title: Time.op_Subtraction
-second_title: Aspose.SVG voor .NET API-referentie
-description: Time methode. Implementeert de operator .
+title: "Time.op_Subtraction"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Time op_Subtraction methode. Implementeert de operator -"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.drawing/time/op_subtraction/
@@ -19,21 +19,19 @@ public static Time operator -(Time a, Time b)
 | a | Time | De parameter a. |
 | b | Time | De parameter b. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | Argumenten zijn nul |
+| ArgumentNullException | Argumenten zijn null |
 | ArgumentException | Argumenten hebben verschillende typen of Argumenten hebben verschillende resoluties of |
 
 ### Zie ook
 
 * class [Time](../)
-* naamruimte [Aspose.Svg.Drawing](../../time/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

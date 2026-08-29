@@ -1,14 +1,14 @@
 ---
-title: ResourceHandlingOptions.Default
-second_title: Aspose.SVG voor .NET API-referentie
-description: ResourceHandlingOptions eigendom. Hiermee wordt enum opgehaald of ingesteld wat de standaardmanier van bronnenverwerking vertegenwoordigt. MomenteelSave Ignore EnEmbed waarden worden ondersteund. Standaardwaarde isSave .
+title: "ResourceHandlingOptions.Default"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ResourceHandlingOptions Default eigenschap. Krijgt of stelt de enum in die de standaard manier van bronnenverwerking weergeeft. Momenteel worden de waarden Save, Ignore en Embed ondersteund. Standaardwaarde is Save"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.saving/resourcehandlingoptions/default/
 ---
 ## ResourceHandlingOptions.Default property
 
-Hiermee wordt enum opgehaald of ingesteld, wat de standaardmanier van bronnenverwerking vertegenwoordigt. MomenteelSave ,Ignore EnEmbed waarden worden ondersteund. Standaardwaarde isSave .
+Haalt op of stelt een enum in die de standaard manier van resource‑afhandeling vertegenwoordigt. Momenteel worden de waarden Save, Ignore en Embed ondersteund. Standaardwaarde is Save.
 
 ```csharp
 public ResourceHandling Default { get; set; }
@@ -18,7 +18,5 @@ public ResourceHandling Default { get; set; }
 
 * enum [ResourceHandling](../../resourcehandling/)
 * class [ResourceHandlingOptions](../)
-* naamruimte [Aspose.Svg.Saving](../../resourcehandlingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

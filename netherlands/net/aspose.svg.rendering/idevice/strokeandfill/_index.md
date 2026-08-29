@@ -1,27 +1,26 @@
 ---
-title: IDevice.StrokeAndFill
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDevice methode. Lijnt en vult het huidige pad. Deze methode beëindigt het huidige pad.
+title: "IDevice.StrokeAndFill"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDevice StrokeAndFill methode. Tekent en vult het huidige pad. Deze methode beëindigt het huidige pad."
 type: docs
 weight: 220
 url: /nl/net/aspose.svg.rendering/idevice/strokeandfill/
 ---
 ## IDevice.StrokeAndFill method
 
-Lijnt en vult het huidige pad. Deze methode beëindigt het huidige pad.
+Tekent en vult het huidige pad. Deze methode beëindigt het huidige pad.
 
 ```csharp
-public void StrokeAndFill(FillMode mode)
+public void StrokeAndFill(FillRule rule)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| mode | FillMode | De vulmodus geeft aan hoe het inwendige van een gesloten pad wordt gevuld. |
+| regel | FillRule | Vullingsregel specificeert hoe het interieur van een gesloten pad wordt gevuld. |
 
 ### Zie ook
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * interface [IDevice](../)
-* naamruimte [Aspose.Svg.Rendering](../../idevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

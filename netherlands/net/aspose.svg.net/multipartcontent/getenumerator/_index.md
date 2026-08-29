@@ -1,28 +1,26 @@
 ---
-title: MultipartContent.GetEnumerator
-second_title: Aspose.SVG voor .NET API-referentie
-description: MultipartContent methode. Retourneert een enumerator die een verzameling herhaalt.
+title: "MultipartContent.GetEnumerator"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MultipartContent GetEnumerator methode. Retourneert een enumerator die door een collectie iterereert"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.net/multipartcontent/getenumerator/
 ---
 ## MultipartContent.GetEnumerator method
 
-Retourneert een enumerator die een verzameling herhaalt.
+Retourneert een enumerator die door een collectie iterereert.
 
 ```csharp
 public IEnumerator<Content> GetEnumerator()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EenIEnumerator object dat kan worden gebruikt om door de collectie te itereren.
+Een IEnumerator-object dat kan worden gebruikt om door de collectie te itereren.
 
 ### Zie ook
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* naamruimte [Aspose.Svg.Net](../../multipartcontent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

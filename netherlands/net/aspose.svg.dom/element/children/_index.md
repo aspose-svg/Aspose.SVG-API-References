@@ -1,28 +1,26 @@
 ---
-title: Element.Children
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element eigendom. Retourneert de onderliggende elementen van het huidige element.
+title: "Element.Children"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element Children eigenschap. Retourneert de kindelementen van het huidige element."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom/element/children/
 ---
 ## Element.Children property
 
-Retourneert de onderliggende elementen van het huidige element.
+Retourneert de kindelementen van het huidige element.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De kindercollectie
+De children‑collectie.
 
 ### Zie ook
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

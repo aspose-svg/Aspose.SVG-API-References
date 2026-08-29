@@ -1,14 +1,14 @@
 ---
-title: Unit.FromQuarterMillimeters
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenLength object dat wordt weergegeven in kwartmillimeters.
+title: "Unit.FromQuarterMillimeters"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromQuarterMillimeters-methode. Retourneert een Length-object dat wordt weergegeven in quarter-millimeters"
 type: docs
 weight: 190
 url: /nl/net/aspose.svg.drawing/unit/fromquartermillimeters/
 ---
 ## Unit.FromQuarterMillimeters method
 
-Geeft als resultaat een[`Length`](../../length/) object dat wordt weergegeven in kwartmillimeters.
+Retourneert een [`Length`](../../length/) object dat wordt weergegeven in quarter-millimeters.
 
 ```csharp
 public static Length FromQuarterMillimeters(double value)
@@ -16,17 +16,15 @@ public static Length FromQuarterMillimeters(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Length`](../../length/) voorwerp.
+Retourneert een [`Length`](../../length/) object.
 
 ### Zie ook
 
 * class [Length](../../length/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

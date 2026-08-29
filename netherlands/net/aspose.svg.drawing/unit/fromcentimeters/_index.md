@@ -1,14 +1,14 @@
 ---
-title: Unit.FromCentimeters
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenLength object dat wordt weergegeven in centimeters.
+title: "Unit.FromCentimeters"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromCentimeters-methode. Retourneert een Length-object dat wordt weergegeven in centimeters"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.drawing/unit/fromcentimeters/
 ---
 ## Unit.FromCentimeters method
 
-Geeft als resultaat een[`Length`](../../length/) object dat wordt weergegeven in centimeters.
+Retourneert een [`Length`](../../length/) object dat wordt weergegeven in centimeters.
 
 ```csharp
 public static Length FromCentimeters(double value)
@@ -16,17 +16,15 @@ public static Length FromCentimeters(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Length`](../../length/) voorwerp.
+Retourneert een [`Length`](../../length/) object.
 
 ### Zie ook
 
 * class [Length](../../length/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

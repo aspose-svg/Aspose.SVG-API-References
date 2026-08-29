@@ -1,27 +1,25 @@
 ---
-title: Notation.SystemId
-second_title: Aspose.SVG voor .NET API-referentie
-description: Notation eigendom. De systeemID van deze notatie. Als de systeemID niet is opgegeven is dit null. Dit kan een absolute URI zijn of niet.
+title: "Notation.SystemId"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Notation SystemId property. De systeemidentificatie van deze notatie. Als de systeemidentificatie niet is opgegeven, is dit null. Dit kan een absolute URI zijn of niet"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom/notation/systemid/
 ---
 ## Notation.SystemId property
 
-De systeem-ID van deze notatie. Als de systeem-ID niet is opgegeven, is dit null. Dit kan een absolute URI zijn of niet.
+De systeemidentifier van deze notatie. Als de systeemidentifier niet is opgegeven, is dit null. Dit kan een absolute URI zijn of niet.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De systeem-ID.
+De systeemidentifier.
 
 ### Zie ook
 
 * class [Notation](../)
-* naamruimte [Aspose.Svg.Dom](../../notation/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

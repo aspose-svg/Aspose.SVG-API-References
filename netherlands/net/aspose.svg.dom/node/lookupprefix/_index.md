@@ -1,14 +1,14 @@
 ---
-title: Node.LookupPrefix
-second_title: Aspose.SVG voor .NET API-referentie
-description: Node methode. Zoek het voorvoegsel op dat is gekoppeld aan de opgegeven naamruimteURI beginnend bij dit knooppunt. De standaard naamruimtedeclaraties worden door deze methode genegeerd. Zie Namespace Prefix Lookup voor meer informatie over het algoritme dat door deze methode wordt gebruikt.
+title: "Node.LookupPrefix"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Node LookupPrefix‑methode. Zoekt het voorvoegsel dat aan de opgegeven namespace‑URI is gekoppeld, beginnend bij deze knoop. De standaard‑namespace‑declaraties worden door deze methode genegeerd. Zie Namespace Prefix Lookup voor details over het algoritme dat door deze methode wordt gebruikt."
 type: docs
-weight: 270
+weight: 250
 url: /nl/net/aspose.svg.dom/node/lookupprefix/
 ---
 ## Node.LookupPrefix method
 
-Zoek het voorvoegsel op dat is gekoppeld aan de opgegeven naamruimte-URI, beginnend bij dit knooppunt. De standaard naamruimtedeclaraties worden door deze methode genegeerd. Zie Namespace Prefix Lookup voor meer informatie over het algoritme dat door deze methode wordt gebruikt.
+Zoek het voorvoegsel dat aan de opgegeven namespace-URI is gekoppeld, beginnend bij dit knooppunt. De standaardnamespace-declaraties worden door deze methode genegeerd. Zie Namespace Prefix Lookup voor details over het algoritme dat door deze methode wordt gebruikt.
 
 ```csharp
 public string LookupPrefix(string namespaceURI)
@@ -16,16 +16,14 @@ public string LookupPrefix(string namespaceURI)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| namespaceURI | String | De naamruimte-URI. |
+| namespaceURI | String | De namespace‑URI. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert voorvoegsel
+Retourneert prefix
 
 ### Zie ook
 
 * class [Node](../)
-* naamruimte [Aspose.Svg.Dom](../../node/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

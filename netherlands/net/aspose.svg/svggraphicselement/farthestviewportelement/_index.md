@@ -1,20 +1,20 @@
 ---
-title: SVGGraphicsElement.FarthestViewportElement
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGGraphicsElement eigendom. Het verst verwijderde svgelement van de voorouder. Null als het huidige element het buitenste svgelement is.
+title: "SVGGraphicsElement.FarthestViewportElement"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGGraphicsElement FarthestViewportElement eigenschap. Het verst verwijderde bovenliggende svg-element. Null als het huidige element het buitenste svg-element is"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svggraphicselement/farthestviewportelement/
 ---
 ## SVGGraphicsElement.FarthestViewportElement property
 
-Het verst verwijderde 'svg'-element van de voorouder. Null als het huidige element het buitenste svg-element is.
+Het verste voorouder‑element ‘svg’. Null als het huidige element het buitenste svg‑element is.
 
 ```csharp
 public SVGElement FarthestViewportElement { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het verste viewport-element.
 
@@ -22,7 +22,5 @@ Het verste viewport-element.
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* naamruimte [Aspose.Svg](../../svggraphicselement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

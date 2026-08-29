@@ -1,27 +1,25 @@
 ---
-title: RequestMessage.PreAuthenticate
-second_title: Aspose.SVG voor .NET API-referentie
-description: RequestMessage eigendom. Haalt een waarde op of stelt een waarde in die aangeeft of er een autorisatieheader met het verzoek moet worden verzonden.
+title: "RequestMessage.PreAuthenticate"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "RequestMessage PreAuthenticate eigenschap. Haalt op of stelt een waarde in die aangeeft of er een Authorization-header met de aanvraag moet worden verzonden"
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.net/requestmessage/preauthenticate/
 ---
 ## RequestMessage.PreAuthenticate property
 
-Haalt een waarde op of stelt een waarde in die aangeeft of er een autorisatieheader met het verzoek moet worden verzonden.
+Haalt op of stelt een waarde in die aangeeft of een Authorization‑header met het verzoek moet worden verzonden.
 
 ```csharp
 public bool PreAuthenticate { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` om een HTTP-autorisatieheader met verzoeken te verzenden nadat authenticatie heeft plaatsgevonden; anders,`vals` . De standaardwaarde is`vals` .
+`true` om een HTTP Authorization-header met verzoeken te verzenden nadat authenticatie heeft plaatsgevonden; anders `false`. Standaard is `false`.
 
 ### Zie ook
 
 * class [RequestMessage](../)
-* naamruimte [Aspose.Svg.Net](../../requestmessage/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

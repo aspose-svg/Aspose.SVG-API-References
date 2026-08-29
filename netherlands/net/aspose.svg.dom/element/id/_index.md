@@ -1,27 +1,25 @@
 ---
-title: Element.Id
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element eigendom. De identificatie van het element. Zie de definitie van het idkenmerk in HTML 4.01.
+title: "Element.Id"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element Id-eigenschap. De identifier van het element. Zie de definitie van het id-attribuut in HTML 4.01"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.dom/element/id/
 ---
 ## Element.Id property
 
-De identificatie van het element. Zie de definitie van het id-kenmerk in HTML 4.01.
+De identifier van het element. Zie de definitie van het id‑attribuut in HTML 4.01.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De identifier.
 
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

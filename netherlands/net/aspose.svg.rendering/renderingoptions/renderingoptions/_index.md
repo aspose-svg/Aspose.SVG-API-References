@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.RenderingOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: RenderingOptions constructeur. Initialiseert een nieuw exemplaar van hetRenderingOptions klasse.
+title: "RenderingOptions"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "RenderingOptions-constructeur. Initialiseert een nieuw exemplaar van de RenderingOptions-klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering/renderingoptions/renderingoptions/
 ---
 ## RenderingOptions constructor
 
-Initialiseert een nieuw exemplaar van het[`RenderingOptions`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`RenderingOptions`](../)-klasse.
 
 ```csharp
 public RenderingOptions()
@@ -17,7 +17,5 @@ public RenderingOptions()
 ### Zie ook
 
 * class [RenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

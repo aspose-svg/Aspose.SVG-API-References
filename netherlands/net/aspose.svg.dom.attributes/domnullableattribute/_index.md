@@ -1,29 +1,33 @@
 ---
-title: Class DOMNullableAttribute
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Attributes.DOMNullableAttribute klas. Geeft aan dat een DOMobject een nulwaarde kan krijgen.
+title: "DOMNullableAttribute Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Attributes.DOMNullableAttribute klasse. Geeft aan dat een DOM‑object een null‑waarde kan krijgen"
 type: docs
-weight: 410
+weight: 2410
 url: /nl/net/aspose.svg.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class
 
-Geeft aan dat een DOM-object een nulwaarde kan krijgen.
+Specificeert dat een DOM‑object een null‑waarde kan krijgen.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
 public sealed class DOMNullableAttribute : Attribute
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [DOMNullableAttribute](domnullableattribute/)() | De standaard constructeur. |
+| [DOMNullableAttribute](domnullableattribute/)() | De standaardconstructor. |
+
+## Eigenschappen
+
+| Naam | Beschrijving |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.SetNamedItem
-second_title: Aspose.SVG voor .NET API-referentie
-description: NamedNodeMap methode. Voegt een knooppunt toe met behulp van het kenmerk nodeName. Als er al een knooppunt met die naam op deze kaart aanwezig is wordt het vervangen door het nieuwe. Het vervangen van een node op zichzelf heeft geen effect.
+title: "NamedNodeMap.SetNamedItem"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NamedNodeMap SetNamedItem methode. Voegt een knooppunt toe met behulp van zijn nodeName attribuut. Als een knooppunt met die naam al aanwezig is in deze map, wordt het vervangen door het nieuwe. Een knooppunt door zichzelf vervangen heeft geen effect."
 type: docs
-weight: 80
+weight: 70
 url: /nl/net/aspose.svg.collections/namednodemap/setnameditem/
 ---
 ## NamedNodeMap.SetNamedItem method
 
-Voegt een knooppunt toe met behulp van het kenmerk nodeName. Als er al een knooppunt met die naam op deze kaart aanwezig is, wordt het vervangen door het nieuwe. Het vervangen van een node op zichzelf heeft geen effect.
+Voegt een knooppunt toe met behulp van zijn nodeName‑attribuut. Als er al een knooppunt met die naam aanwezig is in deze map, wordt het vervangen door het nieuwe. Een knooppunt door zichzelf vervangen heeft geen effect.
 
 ```csharp
 public Attr SetNamedItem(Attr attr)
@@ -18,13 +18,13 @@ public Attr SetNamedItem(Attr attr)
 | --- | --- | --- |
 | attr | Attr | Het attribuut. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert node.
+Retourneert een knooppunt.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
@@ -32,7 +32,5 @@ Retourneert node.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* naamruimte [Aspose.Svg.Collections](../../namednodemap/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

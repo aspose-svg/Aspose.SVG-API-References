@@ -1,27 +1,25 @@
 ---
-title: Url.Search
-second_title: Aspose.SVG voor .NET API-referentie
-description: Url eigendom. Haalt een tekenreeksrepresentatie op of stelt deze in voor het opgegeven URLzoeksegment.
+title: "Url.Search"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Url Search-eigenschap. Haalt op of stelt een tekenreeksrepresentatie in voor het opgegeven URL-zoeksegment."
 type: docs
 weight: 110
 url: /nl/net/aspose.svg/url/search/
 ---
 ## Url.Search property
 
-Haalt een tekenreeksrepresentatie op of stelt deze in voor het opgegeven URL-zoeksegment.
+Haalt op of stelt een tekenreeksrepresentatie in voor het opgegeven URL‑zoeksegment.
 
 ```csharp
 public string Search { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De zoektocht.
+De zoekopdracht.
 
 ### Zie ook
 
 * class [Url](../)
-* naamruimte [Aspose.Svg](../../url/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

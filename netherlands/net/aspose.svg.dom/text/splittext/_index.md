@@ -1,14 +1,14 @@
 ---
-title: Text.SplitText
-second_title: Aspose.SVG voor .NET API-referentie
-description: Text methode. Verdeelt dit knooppunt in twee knooppunten op de gespecificeerde offset waarbij beide in de boom als broers en zussen blijven.
+title: "Text.SplitText"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Text SplitText methode. Splitst dit knooppunt in twee knooppunten op de opgegeven offset, waarbij beide als broers in de boom behouden blijven."
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.dom/text/splittext/
 ---
 ## Text.SplitText method
 
-Verdeelt dit knooppunt in twee knooppunten op de gespecificeerde offset, waarbij beide in de boom als broers en zussen blijven.
+Splitst dit knooppunt in twee knooppunten op de opgegeven offset, waarbij beide als broers in de boom blijven.
 
 ```csharp
 public Text SplitText(int offset)
@@ -18,14 +18,12 @@ public Text SplitText(int offset)
 | --- | --- | --- |
 | offset | Int32 | De offset. |
 
-### Winstwaarde
+### Retourwaarde
 
-De[`Text`](../) .
+De [`Text`](../).
 
 ### Zie ook
 
 * class [Text](../)
-* naamruimte [Aspose.Svg.Dom](../../text/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

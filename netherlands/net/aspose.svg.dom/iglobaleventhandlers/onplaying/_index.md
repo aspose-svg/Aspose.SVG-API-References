@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnPlaying
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnPlayinggebeurtenis.
+title: "IGlobalEventHandlers.OnPlaying"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnPlaying gebeurtenis. Haalt op of stelt de event handler in voor de OnPlaying gebeurtenis."
 type: docs
 weight: 340
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onplaying/
 ---
 ## IGlobalEventHandlers.OnPlaying event
 
-Haalt of stelt gebeurtenishandler in voor OnPlaying-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnPlaying event.
 
 ```csharp
 public event DOMEventHandler OnPlaying;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnPlaying;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

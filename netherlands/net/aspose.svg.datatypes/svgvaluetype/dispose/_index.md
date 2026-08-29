@@ -1,14 +1,14 @@
 ---
-title: SVGValueType.Dispose
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGValueType methode. Geeft onbeheerde en  optioneel  beheerde bronnen vrij.
+title: "SVGValueType.Dispose"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGValueType Dispose-methode. Vrijgeeft onbeheerde en - optioneel - beheerde resources"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.datatypes/svgvaluetype/dispose/
 ---
 ## SVGValueType.Dispose method
 
-Geeft onbeheerde en - optioneel - beheerde bronnen vrij.
+Vrijgeeft niet‑beheerde en - optioneel - beheerde bronnen.
 
 ```csharp
 public void Dispose()
@@ -17,7 +17,5 @@ public void Dispose()
 ### Zie ook
 
 * class [SVGValueType](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgvaluetype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

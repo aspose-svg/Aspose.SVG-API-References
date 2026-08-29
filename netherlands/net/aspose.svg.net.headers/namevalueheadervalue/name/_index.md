@@ -1,27 +1,25 @@
 ---
-title: NameValueHeaderValue.Name
-second_title: Aspose.SVG voor .NET API-referentie
-description: NameValueHeaderValue eigendom. Krijgt de parameternaam.
+title: "NameValueHeaderValue.Name"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NameValueHeaderValue Name-eigenschap. Haalt de parameternaam op"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net.headers/namevalueheadervalue/name/
 ---
 ## NameValueHeaderValue.Name property
 
-Krijgt de parameternaam.
+Haalt de parameternaam op.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De naam.
 
 ### Zie ook
 
 * class [NameValueHeaderValue](../)
-* naamruimte [Aspose.Svg.Net.Headers](../../namevalueheadervalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

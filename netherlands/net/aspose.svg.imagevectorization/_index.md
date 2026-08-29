@@ -1,35 +1,33 @@
 ---
-title: Aspose.Svg.ImageVectorization
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.ImageVectorizationnaamruimte bevat klassen voor het vectoriseren van rasterafbeeldingen en het converteren ervan naar SVGdocumenten. Dit proces omvat het reduceren van bitmaps tot geometrische vormen die zijn samengesteld uit padelementen en deze opslaan als SVG. De naamruimte bevat klassen voor het maken van padsegmenten het vereenvoudigen en vloeiend maken van traceerpunten en vectorisatieopties configureren.
+title: "Aspose.Svg.ImageVectorization"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.ImageVectorization namespace bevat klassen voor het vectoriseren van rasterafbeeldingen en het converteren ervan naar SVG‑documenten. Dit proces omvat het reduceren van bitmaps tot geometrische vormen die bestaan uit pad‑elementen en het opslaan ervan als SVG. De namespace omvat klassen voor het bouwen van padsegmenten, het vereenvoudigen en gladstrijken van traceerpunt­en, en het configureren van vectorisatie‑opties."
 type: docs
-weight: 170
+weight: 190
 url: /nl/net/aspose.svg.imagevectorization/
 ---
-De **Aspose.Svg.ImageVectorization**naamruimte bevat klassen voor het vectoriseren van rasterafbeeldingen en het converteren ervan naar SVG-documenten. Dit proces omvat het reduceren van bitmaps tot geometrische vormen die zijn samengesteld uit padelementen en deze opslaan als SVG. De naamruimte bevat klassen voor het maken van padsegmenten, het vereenvoudigen en vloeiend maken van traceerpunten, en vectorisatie-opties configureren.
+De **Aspose.Svg.ImageVectorization** naamruimte bevat klassen voor het vectoriseren van rasterafbeeldingen en het converteren ervan naar SVG‑documenten. Dit proces omvat het reduceren van bitmap‑afbeeldingen tot geometrische vormen die bestaan uit pad‑elementen en deze opslaan als SVG. De naamruimte omvat klassen voor het bouwen van padsegmenten, het vereenvoudigen en gladstrijken van traceerpunt­en, en het configureren van vectorisatie‑opties.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [BezierPathBuilder](./bezierpathbuilder/) | De[`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) class is verantwoordelijk voor het bouwen van padsegmenten[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) uit de lijst met traceerpunten. Deze padbouwer is gebaseerd op het gebruik van de methode van de kleinste kwadraten om Bézier-controlepunten te vinden voor het traceren van punten. |
-| [ImageTraceSimplifier](./imagetracesimplifier/) | De klasse ImageTraceSimplifier is verantwoordelijk voor het verminderen van het aantal punten in een curve die wordt benaderd door een reeks traceerpunten. |
-| [ImageTraceSmoother](./imagetracesmoother/) | De klasse ImageTraceSimplifier is verantwoordelijk voor het afvlakken van het aantal punten in een curve dat wordt benaderd door een reeks traceerpunten. Deze klasse implementeert de naaste-buurbenadering. |
-| [ImageVectorizer](./imagevectorizer/) | Deze klasse ImageVectorizer vectoriseert rasterafbeeldingen zoals PNG, JPG, GIF, BMP en etc... en retourneert SVGDocument. Onder vectorisatie verstaan we het proces van het reduceren van bitmaps tot geometrische vormen die zijn samengesteld uit padelementen en zijn opgeslagen als SVG. |
-| [ImageVectorizerConfiguration](./imagevectorizerconfiguration/) | De[`ImageVectorizerConfiguration`](../aspose.svg.imagevectorization/imagevectorizerconfiguration/) class definieert een configuratie van afbeeldingsvectorisatiemethoden en -opties. De configuratie wordt gebruikt om een ImageVectorizer te initialiseren en biedt de configuratie-opties voor het vectoriseren van afbeeldingen. |
-| [SplinePathBuilder](./splinepathbuilder/) | De[`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) class is verantwoordelijk voor het bouwen van padsegmenten[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) uit de lijst met traceerpunten. Deze padbouwer is gebaseerd op het toepassen van een Catmull-Roma-spline op een reeks afgevlakte en gereduceerde padpunten.. |
-| [StencilConfiguration](./stencilconfiguration/) | De[`StencilConfiguration`](../aspose.svg.imagevectorization/stencilconfiguration/) klasse definieert een configuratie van opties voor stencileffecten. |
+| [BezierPathBuilder](./bezierpathbuilder/) | De [`BezierPathBuilder`](../aspose.svg.imagevectorization/bezierpathbuilder/) klasse is verantwoordelijk voor het construeren van een Bezier‑pad uit een gegeven set punten. Het benadert een trace van punten met een Bezier‑curve, waarbij het aantal segmenten wordt geoptimaliseerd om nauwkeurig overeen te komen met de oorspronkelijke trace terwijl de complexiteit wordt geminimaliseerd. |
+| [ImageTraceSimplifier](./imagetracesimplifier/) | De ImageTraceSimplifier‑klasse is verantwoordelijk voor het verminderen van het aantal punten in een curve die wordt benaderd door een reeks traceerpunt­en. |
+| [ImageTraceSmoother](./imagetracesmoother/) | De ImageTraceSimplifier‑klasse is verantwoordelijk voor het gladstrijken van het aantal punten in een curve die wordt benaderd door een reeks traceerpunt­en. Deze klasse implementeert een nearest‑neighbor‑benadering. |
+| [ImageVectorizer](./imagevectorizer/) | Deze ImageVectorizer-klasse vectoriseert rasterafbeeldingen zoals PNG, JPG, GIF, BMP enzovoort... en retourneert een SVGDocument. Onder vectorisatie verstaan we het proces waarbij bitmap‑beelden worden gereduceerd tot geometrische vormen die bestaan uit pad‑elementen en als SVG worden opgeslagen. |
+| [ImageVectorizerConfiguration](./imagevectorizerconfiguration/) | De [`ImageVectorizerConfiguration`](../aspose.svg.imagevectorization/imagevectorizerconfiguration/)‑klasse definieert een configuratie van methoden en opties voor afbeeldingvectorisatie. De configuratie wordt gebruikt om een ImageVectorizer te initialiseren en biedt de configuratie‑opties voor het vectoriseren van afbeeldingen. |
+| [SplinePathBuilder](./splinepathbuilder/) | De [`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/)‑klasse is ontworpen om een glad pad te construeren door Centripetal Catmull–Rom‑splines om te zetten in Bézier‑curves. Hij biedt een methode om een pad te genereren dat soepel interpoleert tussen een reeks punten, waardoor een evenwicht ontstaat tussen nauwkeurigheid ten opzichte van de punten en de gladheid van de curve. |
+| [StencilConfiguration](./stencilconfiguration/) | De [`StencilConfiguration`](../aspose.svg.imagevectorization/stencilconfiguration/)‑klasse definieert een configuratie van stencil‑effectopties. |
 ## Interfaces
 
-| Koppel | Beschrijving |
+| Interface | Beschrijving |
 | --- | --- |
-| [IImageTraceSimplifier](./iimagetracesimplifier/) | De IImageTraceSimplifier-interface is verantwoordelijk voor het verminderen van punten in de tracering. |
-| [IImageTraceSmoother](./iimagetracesmoother/) | De IImageTraceSmoother-interface is verantwoordelijk voor het afvlakken van tracering. |
-| [IPathBuilder](./ipathbuilder/) | De IPathBuilder-interface is verantwoordelijk voor het bouwen van padsegmenten[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) uit de lijst met traceerpunten. |
-## Opsomming
+| [IImageTraceSimplifier](./iimagetracesimplifier/) | De IImageTraceSimplifier‑interface is verantwoordelijk voor het reduceren van punten in de trace. |
+| [IImageTraceSmoother](./iimagetracesmoother/) | De IImageTraceSmoother‑interface is verantwoordelijk voor het gladstrijken van de trace. |
+| [IPathBuilder](./ipathbuilder/) | De IPathBuilder‑interface is verantwoordelijk voor het bouwen van padsegmenten [`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) vanuit een lijst met trace‑punten. |
+## Enumeratie
 
-| Opsomming | Beschrijving |
+| Enumeratie | Beschrijving |
 | --- | --- |
-| [StencilType](./stenciltype/) | De[`StencilType`](../aspose.svg.imagevectorization/stenciltype/) enum definieert stenciltypes. |
-
-
+| [StencilType](./stenciltype/) | De [`StencilType`](../aspose.svg.imagevectorization/stenciltype/)‑enum definieert stencil‑typen. |

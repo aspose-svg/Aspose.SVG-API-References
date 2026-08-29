@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.CSS_EXS
-second_title: Aspose.SVG voor .NET API-referentie
-description: CSSPrimitiveValue veld. De waarde is een lengte exs. De waarde kan worden verkregen met behulp van de methode getFloatValue.
+title: "CSSPrimitiveValue.CSS_EXS"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CSSPrimitiveValue CSS_EXS veld. De waarde is een lengte exs. De waarde kan worden verkregen door de getFloatValue-methode te gebruiken."
 type: docs
 weight: 210
 url: /nl/net/aspose.svg.dom.css/cssprimitivevalue/css_exs/
 ---
 ## CSSPrimitiveValue.CSS_EXS field
 
-De waarde is een lengte (exs). De waarde kan worden verkregen met behulp van de methode getFloatValue.
+De waarde is een lengte (exs). De waarde kan worden verkregen met de methode getFloatValue.
 
 ```csharp
 public const ushort CSS_EXS;
@@ -17,7 +17,5 @@ public const ushort CSS_EXS;
 ### Zie ook
 
 * class [CSSPrimitiveValue](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

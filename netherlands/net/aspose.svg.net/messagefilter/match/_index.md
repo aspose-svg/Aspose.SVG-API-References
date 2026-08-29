@@ -1,14 +1,14 @@
 ---
-title: MessageFilter.Match
-second_title: Aspose.SVG voor .NET API-referentie
-description: MessageFilter methode. Test bij overschrijven in een afgeleide klasse of een context voldoet aan de filtercriteria.
+title: "MessageFilter.Match"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MessageFilter Match-methode. Wanneer overschreven in een afgeleide klasse test of een Context voldoet aan de filtercriteria."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net/messagefilter/match/
 ---
 ## MessageFilter.Match method
 
-Test bij overschrijven in een afgeleide klasse of een context voldoet aan de filtercriteria.
+Wanneer overschreven in een afgeleide klasse, test of een Context voldoet aan de filtercriteria.
 
 ```csharp
 public abstract bool Match(INetworkOperationContext context)
@@ -18,15 +18,13 @@ public abstract bool Match(INetworkOperationContext context)
 | --- | --- | --- |
 | context | INetworkOperationContext | De context. |
 
-### Winstwaarde
+### Retourwaarde
 
-WAAR of het Context-object voldoet aan de filtercriteria; anders,vals.
+true als het Context-object voldoet aan de filtercriteria; anders false.
 
 ### Zie ook
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageFilter](../)
-* naamruimte [Aspose.Svg.Net](../../messagefilter/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

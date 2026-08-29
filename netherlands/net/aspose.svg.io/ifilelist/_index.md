@@ -1,14 +1,14 @@
 ---
-title: Interface IFileList
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.IO.IFileList koppel. Vertegenwoordigen de interface voor lijst met bestanden.
+title: "IFileList Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.IO.IFileList interface. Vertegenwoordigt de interface voor een lijst met bestanden"
 type: docs
-weight: 1950
+weight: 4060
 url: /nl/net/aspose.svg.io/ifilelist/
 ---
 ## IFileList interface
 
-Vertegenwoordigen de interface voor lijst met bestanden.
+Stel de interface voor voor een lijst met bestanden.
 
 ```csharp
 public interface IFileList : IEnumerable<IFile>
@@ -18,13 +18,11 @@ public interface IFileList : IEnumerable<IFile>
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Item](../../aspose.svg.io/ifilelist/item/) { get; } | Retourneert het indexste bestand in de lijst. |
-| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | Retourlengte voor lijst met bestanden. |
+| [Item](../../aspose.svg.io/ifilelist/item/) { get; } | Retourneert het bestand op de index in de lijst. |
+| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | Retourneert de lengte van de lijst met bestanden. |
 
 ### Zie ook
 
 * interface [IFile](../ifile/)
-* naamruimte [Aspose.Svg.IO](../../aspose.svg.io/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

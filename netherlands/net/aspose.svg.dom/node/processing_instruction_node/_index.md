@@ -1,14 +1,14 @@
 ---
-title: Node.PROCESSING_INSTRUCTION_NODE
-second_title: Aspose.SVG voor .NET API-referentie
-description: Node veld. Een verwerkingsinstructie node
+title: "Node.PROCESSING_INSTRUCTION_NODE"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Node PROCESSING_INSTRUCTION_NODE veld. Een verwerkingsinstructie‑knooppunt"
 type: docs
-weight: 420
+weight: 400
 url: /nl/net/aspose.svg.dom/node/processing_instruction_node/
 ---
 ## Node.PROCESSING_INSTRUCTION_NODE field
 
-Een verwerkingsinstructie node
+Een verwerkingsinstructieknooppunt
 
 ```csharp
 public const ushort PROCESSING_INSTRUCTION_NODE;
@@ -17,7 +17,5 @@ public const ushort PROCESSING_INSTRUCTION_NODE;
 ### Zie ook
 
 * class [Node](../)
-* naamruimte [Aspose.Svg.Dom](../../node/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

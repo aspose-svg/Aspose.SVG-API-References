@@ -1,17 +1,17 @@
 ---
-title: Device2.AddRect
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Voegt een rechthoek toe aan het huidige pad als een volledig subpad.
+title: "Device-2.AddRect"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device AddRect-methode. Voegt een rechthoek toe aan het huidige pad als een volledige subpad"
 type: docs
-weight: 30
+weight: 60
 url: /nl/net/aspose.svg.rendering/device-2/addrect/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.AddRect method
+## Device<TGraphicContext,TRenderingOptions>.AddRect method
 
-Voegt een rechthoek toe aan het huidige pad als een volledig subpad.
+Voegt een rechthoek toe aan het huidige pad als een volledige subpad.
 
 ```csharp
-public abstract void AddRect(RectangleF rect)
+public virtual void AddRect(RectangleF rect)
 ```
 
 | Parameter | Type | Beschrijving |
@@ -21,7 +21,5 @@ public abstract void AddRect(RectangleF rect)
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

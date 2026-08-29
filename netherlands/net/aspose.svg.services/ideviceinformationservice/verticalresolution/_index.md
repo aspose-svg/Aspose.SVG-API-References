@@ -1,20 +1,20 @@
 ---
-title: IDeviceInformationService.VerticalResolution
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDeviceInformationService eigendom. Haalt of stelt de verticale resolutie in.
+title: "IDeviceInformationService.VerticalResolution"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDeviceInformationService VerticalResolution eigenschap. Haalt de verticale resolutie op of stelt deze in."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.services/ideviceinformationservice/verticalresolution/
 ---
 ## IDeviceInformationService.VerticalResolution property
 
-Haalt of stelt de verticale resolutie in.
+Haalt op of stelt de verticale resolutie in.
 
 ```csharp
 public Resolution VerticalResolution { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De verticale resolutie.
 
@@ -22,7 +22,5 @@ De verticale resolutie.
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* naamruimte [Aspose.Svg.Services](../../ideviceinformationservice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: PageSetup.AnyPage
-second_title: Aspose.SVG voor .NET API-referentie
-description: PageSetup eigendom. Haalt of stelt alle paginaconfiguratie in de paginareeks in.
+title: "PageSetup.AnyPage"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PageSetup AnyPage-eigenschap. Haalt op of stelt de configuratie van alle pagina's in de paginasequentie in."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.rendering/pagesetup/anypage/
 ---
 ## PageSetup.AnyPage property
 
-Haalt of stelt alle paginaconfiguratie in de paginareeks in.
+Haalt op of stelt alle paginaconfiguraties in de paginasequentie in.
 
 ```csharp
 public Page AnyPage { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Elke pagina.
 
@@ -22,7 +22,5 @@ Elke pagina.
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* naamruimte [Aspose.Svg.Rendering](../../pagesetup/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

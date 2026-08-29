@@ -1,28 +1,26 @@
 ---
-title: SVGTextContentElement.LengthAdjust
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGTextContentElement eigendom. Komt overeen met attribuut lengthAdjust op het gegeven element. De waarde moet een van de lengteaanpassingsconstanten zijn die op deze interface zijn gedefinieerd.
+title: "SVGTextContentElement.LengthAdjust"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGTextContentElement LengthAdjust-eigenschap. Komt overeen met attribuut lengthAdjust van het opgegeven element. De waarde moet een van de length adjust-constanten zijn die op deze interface zijn gedefinieerd."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svgtextcontentelement/lengthadjust/
 ---
 ## SVGTextContentElement.LengthAdjust property
 
-Komt overeen met attribuut 'lengthAdjust' op het gegeven element. De waarde moet een van de lengte-aanpassingsconstanten zijn die op deze interface zijn gedefinieerd.
+Komt overeen met attribuut ‘lengthAdjust’ op het opgegeven element. De waarde moet een van de length‑adjust‑constanten zijn die op deze interface zijn gedefinieerd.
 
 ```csharp
 public SVGAnimatedEnumeration LengthAdjust { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'lengthAdjust' van het gegeven element
+Het attribuut ‘lengthAdjust’ van het opgegeven element
 
 ### Zie ook
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextContentElement](../)
-* naamruimte [Aspose.Svg](../../svgtextcontentelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

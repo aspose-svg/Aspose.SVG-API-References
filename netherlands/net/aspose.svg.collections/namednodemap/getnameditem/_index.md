@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.GetNamedItem
-second_title: Aspose.SVG voor .NET API-referentie
-description: NamedNodeMap methode. Haalt een node op gespecificeerd door name.
+title: "NamedNodeMap.GetNamedItem"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NamedNodeMap GetNamedItem methode. Haalt een knooppunt op dat is gespecificeerd door naam"
 type: docs
-weight: 40
+weight: 30
 url: /nl/net/aspose.svg.collections/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method
 
-Haalt een node op gespecificeerd door name.
+Haalt een knooppunt op dat gespecificeerd is door naam.
 
 ```csharp
 public Attr GetNamedItem(string name)
@@ -16,17 +16,15 @@ public Attr GetNamedItem(string name)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | De naam van het knooppunt. |
+| naam | String | De knooppuntnaam. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert knooppunt.
+Retourneert een knooppunt.
 
 ### Zie ook
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* naamruimte [Aspose.Svg.Collections](../../namednodemap/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

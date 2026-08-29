@@ -1,20 +1,20 @@
 ---
-title: MutationObserver.TakeRecords
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationObserver methode. De methode retourneert een kopie van de recordwachtrij en leegt vervolgens de recordwachtrij.
+title: "MutationObserver.TakeRecords"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationObserver TakeRecords-methode. De methode retourneert een kopie van de recordwachtrij en maakt vervolgens de recordwachtrij leeg."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom.mutations/mutationobserver/takerecords/
 ---
 ## MutationObserver.TakeRecords method
 
-De methode retourneert een kopie van de recordwachtrij en leegt vervolgens de recordwachtrij.
+De methode retourneert een kopie van de record‑wachtrij en maakt vervolgens de record‑wachtrij leeg.
 
 ```csharp
-public IEnumerable<MutationRecord> TakeRecords()
+public IList<MutationRecord> TakeRecords()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
 De kopie van de recordwachtrij.
 
@@ -22,7 +22,5 @@ De kopie van de recordwachtrij.
 
 * class [MutationRecord](../../mutationrecord/)
 * class [MutationObserver](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

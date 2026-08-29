@@ -1,14 +1,14 @@
 ---
-title: PageSetup.AtPagePriority
-second_title: Aspose.SVG voor .NET API-referentie
-description: PageSetup eigendom. Krijgt of zetAtPagePriority die de volgorde van het toepassen van declaraties van het paginaformaat zal bepalen. Standaard overschrijven opties cssbladzijde reglement .
+title: "PageSetup.AtPagePriority"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PageSetup AtPagePriority-eigenschap. Haalt op of stelt AtPagePriority in dat de volgorde bepaalt waarin paginagrootte-declaraties worden toegepast. Standaard zullen opties css-paginaregels overschrijven."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.rendering/pagesetup/atpagepriority/
 ---
 ## PageSetup.AtPagePriority property
 
-Krijgt of zet[`AtPagePriority`](../../atpagepriority/) die de volgorde van het toepassen van declaraties van het paginaformaat zal bepalen. Standaard overschrijven opties css`@bladzijde` reglement .
+Haalt op of stelt [`AtPagePriority`](../../atpagepriority/) in dat de volgorde bepaalt waarin paginagrootte-declaraties worden toegepast. Standaard zullen opties css `@page`-regels overschrijven.
 
 ```csharp
 public AtPagePriority AtPagePriority { get; set; }
@@ -18,7 +18,5 @@ public AtPagePriority AtPagePriority { get; set; }
 
 * enum [AtPagePriority](../../atpagepriority/)
 * class [PageSetup](../)
-* naamruimte [Aspose.Svg.Rendering](../../pagesetup/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: CharacterData.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: CharacterData methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "CharacterData.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CharacterData ToString methode. Retourneert een String die deze instantie vertegenwoordigt"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.dom/characterdata/tostring/
 ---
 ## CharacterData.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [CharacterData](../)
-* naamruimte [Aspose.Svg.Dom](../../characterdata/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

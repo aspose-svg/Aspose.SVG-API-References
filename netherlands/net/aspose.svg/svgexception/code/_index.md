@@ -1,27 +1,25 @@
 ---
-title: SVGException.Code
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGException eigendom. Een code die aangeeft waarom de aangevraagde bewerking niet kon worden uitgevoerd. De waarde van dit lid is een van de constanten in de codegroep SVGException.
+title: "SVGException.Code"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGException Code-eigenschap. Een code die de reden identificeert waarom de gevraagde bewerking niet kon worden uitgevoerd. De waarde van dit lid zal een van de constanten in de SVGException-codegroep zijn"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg/svgexception/code/
 ---
 ## SVGException.Code property
 
-Een code die aangeeft waarom de aangevraagde bewerking niet kon worden uitgevoerd. De waarde van dit lid is een van de constanten in de codegroep SVGException.
+Een code die de reden identificeert waarom de gevraagde bewerking niet kon worden uitgevoerd. De waarde van dit lid zal een van de constanten in de SVGException‑codegroep zijn.
 
 ```csharp
 public ushort Code { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De foutcode.
 
 ### Zie ook
 
 * class [SVGException](../)
-* naamruimte [Aspose.Svg](../../svgexception/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

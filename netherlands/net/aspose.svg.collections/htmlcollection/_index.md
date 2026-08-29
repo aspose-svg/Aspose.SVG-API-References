@@ -1,14 +1,14 @@
 ---
-title: Class HTMLCollection
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Collections.HTMLCollection klas. DeHTMLCollection vertegenwoordigt een generieke verzameling vanElement .
+title: "HTMLCollection Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Collections.HTMLCollection class. De HTMLCollection vertegenwoordigt een algemene verzameling van Element"
 type: docs
-weight: 20
+weight: 2010
 url: /nl/net/aspose.svg.collections/htmlcollection/
 ---
 ## HTMLCollection class
 
-De`HTMLCollection` vertegenwoordigt een generieke verzameling van[`Element`](../../aspose.svg.dom/element/) .
+De `HTMLCollection` vertegenwoordigt een algemene verzameling van [`Element`](../../aspose.svg.dom/element/).
 
 ```csharp
 public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
@@ -18,22 +18,20 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 
 | Naam | Beschrijving |
 | --- | --- |
-| abstract [Item](../../aspose.svg.collections/htmlcollection/item/) { get; } | Retourneert het index-de item in de verzameling. Als index groter is dan of gelijk is aan het aantal knooppunten in de lijst, retourneert dit null. |
+| abstract [Item](../../aspose.svg.collections/htmlcollection/item/) { get; } | Retourneert het index‑de item in de collectie. Als index groter dan of gelijk is aan het aantal knooppunten in de lijst, retourneert dit null. |
 | abstract [Length](../../aspose.svg.collections/htmlcollection/length/) { get; } | Het aantal knooppunten in de lijst. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.svg.collections/htmlcollection/getenumerator/)() | Haalt de teller op. |
-| override [GetPlatformType](../../aspose.svg.collections/htmlcollection/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| [NamedItem](../../aspose.svg.collections/htmlcollection/nameditem/)(string) | Retourneert het item in de verzameling dat overeenkomt met de gespecificeerde naam. |
+| abstract [GetEnumerator](../../aspose.svg.collections/htmlcollection/getenumerator/)() | Verkrijgt de enumerator. |
+| override [GetPlatformType](../../aspose.svg.collections/htmlcollection/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| [NamedItem](../../aspose.svg.collections/htmlcollection/nameditem/)(*string*) | Retourneert het item in de collectie dat overeenkomt met de opgegeven naam. |
 
 ### Zie ook
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
 * class [Element](../../aspose.svg.dom/element/)
-* naamruimte [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

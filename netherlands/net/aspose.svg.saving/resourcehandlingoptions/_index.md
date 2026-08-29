@@ -1,14 +1,14 @@
 ---
-title: Class ResourceHandlingOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Saving.ResourceHandlingOptions klas. Vertegenwoordigt opties voor het verwerken van bronnen.
+title: "ResourceHandlingOptions Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Saving.ResourceHandlingOptions klasse. Vertegenwoordigt opties voor resource‑afhandeling"
 type: docs
-weight: 3650
+weight: 5760
 url: /nl/net/aspose.svg.saving/resourcehandlingoptions/
 ---
 ## ResourceHandlingOptions class
 
-Vertegenwoordigt opties voor het verwerken van bronnen.
+Stelt opties voor bronafhandeling voor.
 
 ```csharp
 public class ResourceHandlingOptions
@@ -18,15 +18,13 @@ public class ResourceHandlingOptions
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Default](../../aspose.svg.saving/resourcehandlingoptions/default/) { get; set; } | Hiermee wordt enum opgehaald of ingesteld, wat de standaardmanier van bronnenverwerking vertegenwoordigt. MomenteelSave ,Ignore EnEmbed waarden worden ondersteund. Standaardwaarde isSave . |
-| [JavaScript](../../aspose.svg.saving/resourcehandlingoptions/javascript/) { get; set; } | Hiermee wordt enum opgehaald of ingesteld dat de manier weergeeft waarop scripts worden afgehandeld. MomenteelSave ,Ignore ,Discard EnEmbed waarden worden ondersteund. Standaardwaarde isSave . |
-| [MaxHandlingDepth](../../aspose.svg.saving/resourcehandlingoptions/maxhandlingdepth/) { get; set; } | Haalt of stelt de maximale diepte in van pagina's die zullen worden behandeld. Diepte van 1 betekent dat alleen pagina's waarnaar rechtstreeks wordt verwezen vanuit het opgeslagen document, worden verwerkt. Als u deze eigenschap instelt op -1, worden alle pagina's verwerkt. Standaardwaarde is 0. |
-| [PageUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/) { get; set; } | Haalt of stelt een beperking in die wordt toegepast op URL's van behandelde pagina's. Standaardwaarde isRootAndSubFolders . |
-| [ResourceUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/) { get; set; } | Haalt of stelt beperking in die wordt toegepast op URL's van verwerkte bronnen zoals css, js, afbeeldingen enz. Standaardwaarde isSameHost . |
+| [Default](../../aspose.svg.saving/resourcehandlingoptions/default/) { get; set; } | Haalt op of stelt een enum in die de standaard manier van resource‑afhandeling vertegenwoordigt. Momenteel worden de waarden Save, Ignore en Embed ondersteund. Standaardwaarde is Save. |
+| [JavaScript](../../aspose.svg.saving/resourcehandlingoptions/javascript/) { get; set; } | Haalt op of stelt de enum in die de manier waarop scripts worden verwerkt weer. Momenteel worden de waarden Save, Ignore, Discard en Embed ondersteund. Standaardwaarde is Save. |
+| [MaxHandlingDepth](../../aspose.svg.saving/resourcehandlingoptions/maxhandlingdepth/) { get; set; } | Haalt op of stelt de maximale diepte van pagina's in die worden verwerkt. Een diepte van 1 betekent dat alleen pagina's die rechtstreeks vanuit het opgeslagen document worden gerefereerd, worden verwerkt. Het instellen van deze eigenschap op -1 leidt tot het verwerken van alle pagina's. Standaardwaarde is 0. |
+| [PageUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/) { get; set; } | Haalt op of stelt de beperking in die wordt toegepast op URL's van verwerkte pagina's. Standaardwaarde is RootAndSubFolders. |
+| [ResourceUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/) { get; set; } | Haalt op of stelt de beperking in die wordt toegepast op URL's van verwerkte bronnen zoals css, js, afbeeldingen enz. Standaardwaarde is SameHost. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

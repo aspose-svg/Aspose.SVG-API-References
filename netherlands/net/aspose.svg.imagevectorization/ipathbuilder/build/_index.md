@@ -1,34 +1,29 @@
 ---
-title: IPathBuilder.Build
-second_title: Aspose.SVG voor .NET API-referentie
-description: IPathBuilder methode. Bouwt padsegmenten op uit de lijst met traceerpunten.
+title: "IPathBuilder.Build"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IPathBuilder Build methode. Optimaliseert een gegeven trace naar een SVG-padsegment met het minste aantal lijn- en Bézier-curvecommando's voor een nauwkeurige weergave"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.imagevectorization/ipathbuilder/build/
 ---
 ## IPathBuilder.Build method
 
-Bouwt padsegmenten op uit de lijst met traceerpunten.
+Optimaliseert een gegeven trace naar een SVG‑padsegment, met gebruik van het minimale aantal lijn‑ en Bézier‑curve‑commando’s voor een nauwkeurige weergave.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| trace | IEnumerable`1 | De lijst met traceerpunten. |
-| path | SVGPathElement | Het SVG-padelement waar padsegmenten worden toegevoegd. |
+| trace | IEnumerable`1 | Een reeks punten die de trace omschrijven die geoptimaliseerd moet worden naar een SVG-pad. |
 
-### Winstwaarde
+### Retourwaarde
 
-De lijst met padsegmenten[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+Een tekenreeks die een SVG-padsegment vertegenwoordigt, waarbij de oorspronkelijke trace efficiënt wordt benaderd met minimale lijn- en Bézier-curve‑opdrachten.
 
 ### Zie ook
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * interface [IPathBuilder](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../ipathbuilder/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

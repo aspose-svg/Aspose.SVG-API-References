@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.PaddingTop
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de eigenschapsdefinitie van paddingtop in CSS2.
+title: "ICSS2Properties.PaddingTop"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties PaddingTop eigenschap. Zie de padding-top eigenschapdefinitie in CSS2"
 type: docs
-weight: 840
+weight: 870
 url: /nl/net/aspose.svg.dom.css/icss2properties/paddingtop/
 ---
 ## ICSS2Properties.PaddingTop property
 
-Zie de eigenschapsdefinitie van padding-top in CSS2.
+Zie de definitie van de padding-top eigenschap in CSS2.
 
 ```csharp
 public string PaddingTop { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
 padding-top eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

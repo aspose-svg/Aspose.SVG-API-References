@@ -1,14 +1,14 @@
 ---
-title: Document.CreateTextNode
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document methode. Maakt een tekstknooppunt op basis van de opgegeven tekenreeks.
+title: "Document.CreateTextNode"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document CreateTextNode methode. Maakt een Text‑knooppunt op basis van de opgegeven tekenreeks."
 type: docs
 weight: 930
 url: /nl/net/aspose.svg.dom/document/createtextnode/
 ---
 ## Document.CreateTextNode method
 
-Maakt een tekstknooppunt op basis van de opgegeven tekenreeks.
+Maakt een Text‑knooppunt aan met de opgegeven tekenreeks.
 
 ```csharp
 public Text CreateTextNode(string data)
@@ -18,15 +18,13 @@ public Text CreateTextNode(string data)
 | --- | --- | --- |
 | data | String | De tekstgegevens. |
 
-### Winstwaarde
+### Retourwaarde
 
-De[`Text`](../../text/) .
+De [`Text`](../../text/).
 
 ### Zie ook
 
 * class [Text](../../text/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

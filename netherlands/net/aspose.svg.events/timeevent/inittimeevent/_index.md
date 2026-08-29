@@ -1,14 +1,14 @@
 ---
-title: TimeEvent.InitTimeEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: TimeEvent methode. De methode initTimeEvent wordt gebruikt om de waarde te initialiseren van een TimeEvent die via de DocumentEventinterface is gemaakt. Deze methode mag alleen worden aangeroepen voordat de TimeEvent is verzonden via de methode dispatchEvent hoewel deze tijdens die fase indien nodig meerdere keren kan worden aangeroepen. Als u meerdere keren wordt aangeroepen heeft de laatste aanroep voorrang.
+title: "TimeEvent.InitTimeEvent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "TimeEvent InitTimeEvent-methode. De initTimeEvent-methode wordt gebruikt om de waarde van een TimeEvent te initialiseren die via de DocumentEvent-interface is gemaakt. Deze methode mag alleen worden aangeroepen voordat de TimeEvent is verzonden via de dispatchEvent-methode, hoewel hij tijdens die fase indien nodig meerdere keren kan worden aangeroepen. Als hij meerdere keren wordt aangeroepen, heeft de laatste aanroep voorrang."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.events/timeevent/inittimeevent/
 ---
 ## TimeEvent.InitTimeEvent method
 
-De methode initTimeEvent wordt gebruikt om de waarde te initialiseren van een TimeEvent die via de DocumentEvent-interface is gemaakt. Deze methode mag alleen worden aangeroepen voordat de TimeEvent is verzonden via de methode dispatchEvent, hoewel deze tijdens die fase indien nodig meerdere keren kan worden aangeroepen. Als u meerdere keren wordt aangeroepen, heeft de laatste aanroep voorrang.
+De initTimeEvent‑methode wordt gebruikt om de waarde van een TimeEvent te initialiseren die via de DocumentEvent‑interface is gemaakt. Deze methode mag alleen worden aangeroepen voordat de TimeEvent is verzonden via de dispatchEvent‑methode, hoewel hij indien nodig meerdere keren tijdens die fase kan worden aangeroepen. Als hij meerdere keren wordt aangeroepen, heeft de laatste aanroep voorrang.
 
 ```csharp
 public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
@@ -16,15 +16,13 @@ public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| typeArg | String | Specificeert het gebeurtenistype. |
-| viewArg | IAbstractView | Specificeert de AbstractView van de gebeurtenis. |
-| detailArg | Int64 | Specificeert de details van de gebeurtenis. |
+| typeArg | String | Specificeert het type van het evenement. |
+| viewArg | IAbstractView | Specificeert de AbstractView van het evenement. |
+| detailArg | Int64 | Specificeert de detailinformatie van het evenement. |
 
 ### Zie ook
 
 * interface [IAbstractView](../../../aspose.svg.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* naamruimte [Aspose.Svg.Events](../../timeevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

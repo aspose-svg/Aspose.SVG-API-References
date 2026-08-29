@@ -1,27 +1,25 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.SVG voor .NET API-referentie
-description: Metered methode. Krijgt consumptietegoed
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Metered GetConsumptionCredit-methode. Haalt het verbruikscrediet op"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-Krijgt consumptietegoed
+Haalt verbruikcredit op
 
 ```csharp
 public static decimal GetConsumptionCredit()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-consumptie hoeveelheid
+verbruikshoeveelheid
 
 ### Zie ook
 
 * class [Metered](../)
-* naamruimte [Aspose.Svg](../../metered/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

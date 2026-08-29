@@ -1,79 +1,77 @@
 ---
-title: Class WheelEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Events.WheelEvent klas. De WheelEventinterface biedt specifieke contextuele informatie over wielgebeurtenissen. Om een exemplaar van de WheelEventinterface te maken gebruikt u de WheelEventconstructor en geeft u een optioneel WheelEventInitwoordenboek door.
+title: "WheelEvent Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Events.WheelEvent klasse. De WheelEvent interface biedt specifieke contextuele informatie die verband houdt met wiel‑gebeurtenissen. Om een instantie van de WheelEvent interface te maken, gebruik de WheelEvent‑constructor met een optioneel WheelEventInit‑woordenboek"
 type: docs
-weight: 1010
+weight: 3010
 url: /nl/net/aspose.svg.dom.events/wheelevent/
 ---
 ## WheelEvent class
 
-De WheelEvent-interface biedt specifieke contextuele informatie over wielgebeurtenissen. Om een exemplaar van de WheelEvent-interface te maken, gebruikt u de WheelEvent-constructor en geeft u een optioneel WheelEventInit-woordenboek door.
+De WheelEvent‑interface biedt specifieke contextuele informatie die verband houdt met wiel‑gebeurtenissen. Om een instantie van de WheelEvent‑interface te maken, gebruik je de WheelEvent‑constructor en geef je een optionele WheelEventInit‑dictionary door.
 
 ```csharp
 public class WheelEvent : MouseEvent
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [WheelEvent](wheelevent/#constructor)(string) | Initialiseert een nieuw exemplaar van het`WheelEvent` klasse. |
-| [WheelEvent](wheelevent/#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initialiseert een nieuw exemplaar van het`WheelEvent` klasse. |
+| [WheelEvent](wheelevent/#constructor)(*string*) | Initialiseert een nieuwe instantie van de `WheelEvent` klasse. |
+| [WheelEvent](wheelevent/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) | Initialiseert een nieuwe instantie van de `WheelEvent` klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
 | [AltKey](../../aspose.svg.dom.events/mouseevent/altkey/) { get; } | Verwijs naar het altKey-attribuut. |
-| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | Wordt gebruikt om aan te geven of een evenement al dan niet een bruisend evenement is. Als de gebeurtenis kan bubbelen, is de waarde waar, anders is de waarde onwaar. |
-| [Button](../../aspose.svg.dom.events/mouseevent/button/) { get; } | Tijdens muisgebeurtenissen die worden veroorzaakt door het indrukken of loslaten van een muisknop, MOET de knop worden gebruikt om aan te geven welke aanwijzerknop van status is veranderd. |
-| [Buttons](../../aspose.svg.dom.events/mouseevent/buttons/) { get; } | Tijdens muisgebeurtenissen MOETEN knoppen worden gebruikt om aan te geven welke combinatie van muisknoppen momenteel wordt ingedrukt, uitgedrukt als een bitmasker. |
-| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | Wordt gebruikt om aan te geven of de standaardactie van een gebeurtenis kan worden voorkomen. Als de standaardactie kan worden voorkomen, is de waarde waar, anders is de waarde onwaar. |
-| [ClientX](../../aspose.svg.dom.events/mouseevent/clientx/) { get; } | De horizontale coördinaat waarop de gebeurtenis plaatsvond ten opzichte van de viewport die aan de gebeurtenis is gekoppeld. |
-| [ClientY](../../aspose.svg.dom.events/mouseevent/clienty/) { get; } | De verticale coördinaat waarop de gebeurtenis plaatsvond ten opzichte van de viewport die aan de gebeurtenis is gekoppeld. |
+| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | Wordt gebruikt om aan te geven of een gebeurtenis een bubbling‑gebeurtenis is of niet. Als de gebeurtenis kan bubbelen, is de waarde true, anders is de waarde false. |
+| [Button](../../aspose.svg.dom.events/mouseevent/button/) { get; } | Tijdens muisgebeurtenissen veroorzaakt door het indrukken of loslaten van een muisknop, button MUST worden gebruikt om aan te geven welke aanwijzerapparaatknop van toestand is veranderd. |
+| [Buttons](../../aspose.svg.dom.events/mouseevent/buttons/) { get; } | Tijdens alle muisgebeurtenissen, buttons MUST worden gebruikt om aan te geven welke combinatie van muisknoppen momenteel wordt ingedrukt, uitgedrukt als een bitmasker. |
+| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | Wordt gebruikt om aan te geven of de standaardactie van een gebeurtenis kan worden voorkomen. Als de standaardactie kan worden voorkomen, is de waarde true, anders is de waarde false. |
+| [ClientX](../../aspose.svg.dom.events/mouseevent/clientx/) { get; } | De horizontale coördinaat waarop het evenement plaatsvond ten opzichte van de viewport die aan het evenement is gekoppeld. |
+| [ClientY](../../aspose.svg.dom.events/mouseevent/clienty/) { get; } | De verticale coördinaat waarop het evenement plaatsvond ten opzichte van de viewport die aan het evenement is gekoppeld. |
 | [CtrlKey](../../aspose.svg.dom.events/mouseevent/ctrlkey/) { get; } | Verwijs naar het ctrlKey-attribuut. |
-| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | Wordt gebruikt om de[`IEventTarget`](../ieventtarget/) van wie[`IEventListener`](../ieventlistener/) s worden momenteel verwerkt. Dit is vooral handig tijdens het vastleggen en bellen. |
-| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | Retourneert waar als preventDefault() is aangeroepen terwijl de annuleerbare kenmerkwaarde waar is, en anders onwaar. |
-| [DeltaMode](../../aspose.svg.dom.events/wheelevent/deltamode/) { get; } | Het deltaMode-attribuut bevat een indicatie van de meeteenheden voor de deltawaarden. De standaardwaarde is DOM_DELTA_PIXEL (pixels). |
-| [DeltaX](../../aspose.svg.dom.events/wheelevent/deltax/) { get; } | In user agents waar scrollen de standaardactie van de wielgebeurtenis is, MOET de waarde de meting zijn langs de x-as (in pixels, lijnen of pagina's) om te scrollen in het geval dat de gebeurtenis niet wordt geannuleerd. Anders is dit een implementatiespecifieke meting (in pixels, lijnen of pagina's) van de beweging van een wielapparaat rond de x-as. |
-| [DeltaY](../../aspose.svg.dom.events/wheelevent/deltay/) { get; } | In user agents waar scrollen de standaardactie van de wielgebeurtenis is, MOET de waarde de meting zijn langs de y-as (in pixels, lijnen of pagina's) om te scrollen in het geval dat de gebeurtenis niet wordt geannuleerd. Anders is dit een implementatiespecifieke meting (in pixels, lijnen of pagina's) van de beweging van een wielapparaat rond de y-as. |
-| [DeltaZ](../../aspose.svg.dom.events/wheelevent/deltaz/) { get; } | In user agents waar scrollen de standaardactie van de wielgebeurtenis is, MOET de waarde de meting zijn langs de z-as (in pixels, lijnen of pagina's) om te scrollen in het geval dat de gebeurtenis niet wordt geannuleerd. Anders is dit een implementatiespecifieke meting (in pixels, lijnen of pagina's) van de beweging van een wielapparaat rond de z-as. |
-| [Detail](../../aspose.svg.dom.events/uievent/detail/) { get; } | Specificeert wat gedetailleerde informatie over de gebeurtenis, afhankelijk van het type gebeurtenis. |
+| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | Wordt gebruikt om het [`IEventTarget`](../ieventtarget/) aan te geven waarvan de [`IEventListener`](../ieventlistener/)s momenteel worden verwerkt. Dit is vooral nuttig tijdens capturing en bubbling. |
+| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | Retourneert true als preventDefault() werd aangeroepen terwijl de waarde van het attribuut cancelable true is, en anders false. |
+| [DeltaMode](../../aspose.svg.dom.events/wheelevent/deltamode/) { get; } | Het deltaMode‑attribuut bevat een indicatie van de meeteenheden voor de delta‑waarden. De standaardwaarde is DOM_DELTA_PIXEL (pixels). |
+| [DeltaX](../../aspose.svg.dom.events/wheelevent/deltax/) { get; } | In user agents waar de standaardactie van de wheel‑event is om te scrollen, moet de waarde de meting langs de x-as (in pixels, regels of pagina's) zijn die moet worden gescrold in het geval dat de gebeurtenis niet wordt geannuleerd. Anders is dit een implementatie‑specifieke meting (in pixels, regels of pagina's) van de beweging van een wielapparaat rond de x-as. |
+| [DeltaY](../../aspose.svg.dom.events/wheelevent/deltay/) { get; } | In user agents waar de standaardactie van de wheel‑event is om te scrollen, moet de waarde de meting langs de y-as (in pixels, regels of pagina's) zijn die moet worden gescrold in het geval dat de gebeurtenis niet wordt geannuleerd. Anders is dit een implementatie‑specifieke meting (in pixels, regels of pagina's) van de beweging van een wielapparaat rond de y-as. |
+| [DeltaZ](../../aspose.svg.dom.events/wheelevent/deltaz/) { get; } | In user agents waar de standaardactie van de wheel‑event is om te scrollen, moet de waarde de meting langs de z-as (in pixels, regels of pagina's) zijn die moet worden gescrold in het geval dat de gebeurtenis niet wordt geannuleerd. Anders is dit een implementatie‑specifieke meting (in pixels, regels of pagina's) van de beweging van een wielapparaat rond de z-as. |
+| [Detail](../../aspose.svg.dom.events/uievent/detail/) { get; } | Specificeert enige detailinformatie over de gebeurtenis, afhankelijk van het type gebeurtenis. |
 | [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | Wordt gebruikt om aan te geven welke fase van de gebeurtenisstroom momenteel wordt geëvalueerd. |
-| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | Het isTrusted-attribuut moet de waarde teruggeven waarnaar het geïnitialiseerd is. Wanneer een gebeurtenis wordt gemaakt, moet het attribuut worden geïnitialiseerd op false. |
+| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | Het attribuut isTrusted moet de waarde retourneren waarmee het is geïnitialiseerd. Wanneer een gebeurtenis wordt aangemaakt, moet het attribuut worden geïnitialiseerd op false. |
 | [MetaKey](../../aspose.svg.dom.events/mouseevent/metakey/) { get; } | Verwijs naar het metaKey-attribuut. |
-| [RelatedTarget](../../aspose.svg.dom.events/mouseevent/relatedtarget/) { get; } | Gebruikt om een secundair EventTarget te identificeren gerelateerd aan een UI-gebeurtenis, afhankelijk van het type gebeurtenis. |
-| [ScreenX](../../aspose.svg.dom.events/mouseevent/screenx/) { get; } | De horizontale coördinaat waarop de gebeurtenis plaatsvond ten opzichte van de oorsprong van het schermcoördinatensysteem. |
-| [ScreenY](../../aspose.svg.dom.events/mouseevent/screeny/) { get; } | De verticale coördinaat waarop de gebeurtenis plaatsvond ten opzichte van de oorsprong van het schermcoördinatensysteem. |
+| [RelatedTarget](../../aspose.svg.dom.events/mouseevent/relatedtarget/) { get; } | Wordt gebruikt om een secundaire EventTarget te identificeren die gerelateerd is aan een UI-evenement, afhankelijk van het type evenement. |
+| [ScreenX](../../aspose.svg.dom.events/mouseevent/screenx/) { get; } | De horizontale coördinaat waarop het evenement plaatsvond ten opzichte van de oorsprong van het schermcoördinatensysteem. |
+| [ScreenY](../../aspose.svg.dom.events/mouseevent/screeny/) { get; } | De verticale coördinaat waarop het evenement plaatsvond ten opzichte van de oorsprong van het schermcoördinatensysteem. |
 | [ShiftKey](../../aspose.svg.dom.events/mouseevent/shiftkey/) { get; } | Verwijs naar het shiftKey-attribuut. |
-| [Target](../../aspose.svg.dom.events/event/target/) { get; } | Wordt gebruikt om de[`IEventTarget`](../ieventtarget/) waarnaar het evenement oorspronkelijk is verzonden. |
-| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | Wordt gebruikt om de tijd (in milliseconden ten opzichte van het tijdperk) op te geven waarop de gebeurtenis is gemaakt. Vanwege het feit dat sommige systemen deze informatie mogelijk niet verstrekken, is de waarde van timeStamp mogelijk niet beschikbaar voor alle gebeurtenissen. Indien niet beschikbaar , wordt een waarde van 0 geretourneerd. Voorbeelden van epochetijd zijn de tijd van de systeemstart of 0:0:0 UTC 1 januari 1970. |
-| [Type](../../aspose.svg.dom.events/event/type/) { get; } | De naam van de gebeurtenis (niet hoofdlettergevoelig). De naam moet een XML-naam zijn. |
-| [View](../../aspose.svg.dom.events/uievent/view/) { get; } | Het attribuut view identificeert het venster van waaruit de gebeurtenis is gegenereerd. De niet-geïnitialiseerde waarde van dit attribuut MOET null zijn. |
+| [Target](../../aspose.svg.dom.events/event/target/) { get; } | Wordt gebruikt om de [`IEventTarget`](../ieventtarget/) aan te geven waarnaar de gebeurtenis oorspronkelijk werd verzonden. |
+| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | Wordt gebruikt om de tijd (in milliseconden ten opzichte van het epoch) op te geven waarop de gebeurtenis werd aangemaakt. Omdat sommige systemen deze informatie mogelijk niet leveren, kan de waarde van timeStamp voor sommige gebeurtenissen ontbreken. Wanneer deze niet beschikbaar is, wordt een waarde van 0 geretourneerd. Voorbeelden van epoch‑tijd zijn de tijd van het systeemstart of 0:0:0 UTC 1 januari 1970. |
+| [Type](../../aspose.svg.dom.events/event/type/) { get; } | De naam van de gebeurtenis (niet‑hoofdlettergevoelig). De naam moet een XML‑naam zijn. |
+| [View](../../aspose.svg.dom.events/uievent/view/) { get; } | Het attribuut view identificeert het Window waaruit het event is gegenereerd. De niet‑geïnitiseerde waarde van dit attribuut MOET null zijn. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(string, bool, bool) | De[`InitEvent`](../event/initevent/) methode wordt gebruikt om de waarde van een te initialiseren[`Event`](../event/) gemaakt door the [`IDocumentEvent`](../idocumentevent/) interface. |
-| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | Als een evenement kan worden geannuleerd, wordt de[`PreventDefault`](../event/preventdefault/) methode wordt gebruikt om aan te geven dat de gebeurtenis moet worden geannuleerd, wat betekent dat elke standaardactie die normaal gesproken door de implementatie wordt ondernomen als gevolg van de gebeurtenis, niet zal plaatsvinden. |
-| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | Het aanroepen van deze methode voorkomt dat de gebeurtenis gebeurtenislisteners bereikt die zijn geregistreerd na de huidige en wanneer deze in een boomstructuur wordt verzonden, wordt ook voorkomen dat de gebeurtenis andere objecten bereikt. |
-| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | De[`StopPropagation`](../event/stoppropagation/) methode wordt gebruikt om verdere verspreiding van een gebeurtenis tijdens de gebeurtenisstroom te voorkomen. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(*string, bool, bool*) | De [`InitEvent`](../event/initevent/)‑methode wordt gebruikt om de waarde van een [`Event`](../event/) te initialiseren die via de [`IDocumentEvent`](../idocumentevent/)‑interface is aangemaakt. |
+| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | Als een gebeurtenis annuleerbaar is, wordt de [`PreventDefault`](../event/preventdefault/)‑methode gebruikt om aan te geven dat de gebeurtenis moet worden geannuleerd, wat betekent dat elke standaardactie die normaal door de implementatie zou worden uitgevoerd als gevolg van de gebeurtenis niet zal plaatsvinden. |
+| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | Het aanroepen van deze methode voorkomt dat de gebeurtenis eventuele event‑listeners bereikt die na de huidige zijn geregistreerd en, wanneer deze in een boom wordt verzonden, voorkomt het ook dat de gebeurtenis andere objecten bereikt. |
+| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | De [`StopPropagation`](../event/stoppropagation/)‑methode wordt gebruikt om verdere verspreiding van een gebeurtenis tijdens de gebeurtenisstroom te voorkomen. |
 
 ## Velden
 
 | Naam | Beschrijving |
 | --- | --- |
-| const [DOM_DELTA_LINE](../../aspose.svg.dom.events/wheelevent/dom_delta_line/) | De meeteenheden voor de delta MOETEN afzonderlijke regels tekst zijn. Dit is het geval voor veel formulierbesturingselementen. |
+| const [DOM_DELTA_LINE](../../aspose.svg.dom.events/wheelevent/dom_delta_line/) | De meeteenheden voor de delta MOETEN individuele tekstregels zijn. Dit is het geval voor veel formulier‑besturingselementen. |
 | const [DOM_DELTA_PAGE](../../aspose.svg.dom.events/wheelevent/dom_delta_page/) | De meeteenheden voor de delta MOETEN pagina's zijn, gedefinieerd als een enkel scherm of als een afgebakende pagina. |
-| const [DOM_DELTA_PIXEL](../../aspose.svg.dom.events/wheelevent/dom_delta_pixel/) | De maateenheden voor de delta MOETEN pixels zijn. Dit is het meest typische geval in de meeste besturingssysteem- en implementatieconfiguraties. |
+| const [DOM_DELTA_PIXEL](../../aspose.svg.dom.events/wheelevent/dom_delta_pixel/) | De meeteenheden voor de delta MOETEN pixels zijn. Dit is het meest voorkomende geval in de meeste besturingssystemen en implementatie‑configuraties. |
 
 ### Zie ook
 
 * class [MouseEvent](../mouseevent/)
-* naamruimte [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

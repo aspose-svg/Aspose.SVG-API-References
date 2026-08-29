@@ -1,7 +1,7 @@
 ---
-title: UnitType.Pc
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is in picas
+title: "UnitType.Pc"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType Pc-veld. Meting is in pica's"
 type: docs
 weight: 170
 url: /nl/net/aspose.svg.drawing/unittype/pc/
@@ -17,7 +17,5 @@ public static readonly UnitType Pc;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: RequestHeaders.RequestHeaders
-second_title: Aspose.SVG voor .NET API-referentie
-description: RequestHeaders constructeur. De standaard constructeur.
+title: "RequestHeaders"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "RequestHeaders constructor. De standaardconstructor"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net/requestheaders/requestheaders/
 ---
 ## RequestHeaders constructor
 
-De standaard constructeur.
+De standaardconstructor.
 
 ```csharp
 public RequestHeaders()
@@ -17,7 +17,5 @@ public RequestHeaders()
 ### Zie ook
 
 * class [RequestHeaders](../)
-* naamruimte [Aspose.Svg.Net](../../requestheaders/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

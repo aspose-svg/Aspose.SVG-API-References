@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.PlayDuring
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Bekijk de eigenschapsdefinitie tijdens afspelen in CSS2.
+title: "ICSS2Properties.PlayDuring"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties PlayDuring eigenschap. Zie de play-during eigenschapdefinitie in CSS2"
 type: docs
-weight: 940
+weight: 970
 url: /nl/net/aspose.svg.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property
 
-Bekijk de eigenschapsdefinitie tijdens afspelen in CSS2.
+Zie de definitie van de play-during eigenschap in CSS2.
 
 ```csharp
 public string PlayDuring { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-speel-tijdens eigendom
+play-during eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

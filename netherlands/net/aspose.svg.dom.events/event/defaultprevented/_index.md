@@ -1,27 +1,25 @@
 ---
-title: Event.DefaultPrevented
-second_title: Aspose.SVG voor .NET API-referentie
-description: Event eigendom. Retourneert waar als preventDefault is aangeroepen terwijl de annuleerbare kenmerkwaarde waar is en anders onwaar.
+title: "Event.DefaultPrevented"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Event DefaultPrevented‑eigenschap. Retourneert true als preventDefault werd aangeroepen terwijl de annuleerbare‑attribuutwaarde true is, en anders false."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom.events/event/defaultprevented/
 ---
 ## Event.DefaultPrevented property
 
-Retourneert waar als preventDefault() is aangeroepen terwijl de annuleerbare kenmerkwaarde waar is, en anders onwaar.
+Retourneert true als preventDefault() werd aangeroepen terwijl de waarde van het attribuut cancelable true is, en anders false.
 
 ```csharp
 public bool DefaultPrevented { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als [standaard verhinderd]; anders,`vals` .
+`true` als [default prevented]; anders `false`.
 
 ### Zie ook
 
 * class [Event](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../event/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

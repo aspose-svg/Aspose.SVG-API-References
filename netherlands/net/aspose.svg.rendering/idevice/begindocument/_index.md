@@ -1,14 +1,14 @@
 ---
-title: IDevice.BeginDocument
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDevice methode. Begint met het renderen van het document.
+title: "IDevice.BeginDocument"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDevice BeginDocument methode. Begint met het renderen van het document"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.rendering/idevice/begindocument/
 ---
 ## IDevice.BeginDocument method
 
-Begint met het renderen van het document.
+Begint met renderen van het document.
 
 ```csharp
 public void BeginDocument(Document document)
@@ -22,7 +22,5 @@ public void BeginDocument(Document document)
 
 * class [Document](../../../aspose.svg.dom/document/)
 * interface [IDevice](../)
-* naamruimte [Aspose.Svg.Rendering](../../idevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

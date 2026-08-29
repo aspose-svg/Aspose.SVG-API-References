@@ -1,14 +1,14 @@
 ---
-title: Color.FromString
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Parseert tekenreeks die de CSSkleur bevat en retourneert een nieuwe kleur.
+title: "Color.FromString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color FromString-methode. Parseert een string die de CSS-kleur bevat en retourneert een nieuwe Color."
 type: docs
 weight: 220
 url: /nl/net/aspose.svg.drawing/color/fromstring/
 ---
 ## Color.FromString method
 
-Parseert tekenreeks die de CSS-kleur bevat en retourneert een nieuwe kleur.
+Parseert een string die de CSS-kleur bevat en retourneert een nieuwe Color.
 
 ```csharp
 public static Color FromString(string color)
@@ -16,16 +16,14 @@ public static Color FromString(string color)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| color | String | Een tekenreeks met de kleur in de indeling RGB, HEX, HSL, HSV, HWB, CMYK, NCOL, LCH, OKLCH, LAB of OKLAB |
+| kleur | String | Een string die de kleur bevat in het formaat RGB, HEX, HSL, HSV, HWB, CMYK, NCOL, LCH, OKLCH, LAB of OKLAB. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuw exemplaar van de[`Color`](../) klas
+Een nieuw exemplaar van de [`Color`](../) klasse
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

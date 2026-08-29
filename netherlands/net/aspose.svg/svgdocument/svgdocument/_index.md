@@ -1,14 +1,14 @@
 ---
-title: SVGDocument.SVGDocument
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGDocument constructeur. Initialiseert een nieuw exemplaar van hetSVGDocument klasse.
+title: "SVGDocument"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGDocument constructor. Initialiseert een nieuw exemplaar van de SVGDocument-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svgdocument/svgdocument/
 ---
 ## SVGDocument() {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse.
 
 ```csharp
 public SVGDocument()
@@ -17,14 +17,14 @@ public SVGDocument()
 ### Zie ook
 
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Configuration) {#constructor_1}
+## SVGDocument(*[Configuration](../../configuration/)*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse.
 
 ```csharp
 public SVGDocument(Configuration configuration)
@@ -32,20 +32,20 @@ public SVGDocument(Configuration configuration)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| configuration | Configuration | De configuratie. |
+| configuratie | Configuratie | De configuratie. |
 
 ### Zie ook
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string) {#constructor_10}
+## SVGDocument(*string*) {#constructor_10}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(string address)
@@ -58,14 +58,14 @@ public SVGDocument(string address)
 ### Zie ook
 
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Url) {#constructor_4}
+## SVGDocument(*[Url](../../url/)*) {#constructor_4}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(Url url)
@@ -79,14 +79,14 @@ public SVGDocument(Url url)
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Configuration) {#constructor_11}
+## SVGDocument(*string, [Configuration](../../configuration/)*) {#constructor_11}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(string address, Configuration configuration)
@@ -95,20 +95,20 @@ public SVGDocument(string address, Configuration configuration)
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
 | address | String | Het documentadres. Het wordt gecombineerd met het huidige mappad om een absolute URL te vormen. |
-| configuration | Configuration | De configuratie. |
+| configuratie | Configuratie | De configuratie. |
 
 ### Zie ook
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Url, Configuration) {#constructor_5}
+## SVGDocument(*[Url](../../url/), [Configuration](../../configuration/)*) {#constructor_5}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(Url url, Configuration configuration)
@@ -117,21 +117,21 @@ public SVGDocument(Url url, Configuration configuration)
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
 | url | Url | De document-URL. |
-| configuration | Configuration | De configuratie. |
+| configuratie | Configuratie | De configuratie. |
 
 ### Zie ook
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, string) {#constructor_8}
+## SVGDocument(*Stream, string*) {#constructor_8}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Het laden van documenten begint vanaf de huidige positie in de stream.
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen. Het laden van het document start vanaf de huidige positie in de stream.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri)
@@ -139,26 +139,26 @@ public SVGDocument(Stream content, string baseUri)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | Stream | De documentinhoud. |
-| baseUri | String | De basis-URI van het document. Het wordt gecombineerd met het huidige mappad om een absolute URL te vormen. |
+| inhoud | Stream | De documentinhoud. |
+| baseUri | String | De basis-URI van het document. Deze wordt gecombineerd met het pad van de huidige map om een absolute URL te vormen. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | `baseUri` is`nul`. |
+| ArgumentNullException | `baseUri` is `null`. |
 
 ### Zie ook
 
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, string, Configuration) {#constructor_9}
+## SVGDocument(*Stream, string, [Configuration](../../configuration/)*) {#constructor_9}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Het laden van documenten begint vanaf de huidige positie in de stream.
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen. Het laden van het document start vanaf de huidige positie in de stream.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri, Configuration configuration)
@@ -166,28 +166,28 @@ public SVGDocument(Stream content, string baseUri, Configuration configuration)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | Stream | De documentinhoud. |
-| baseUri | String | De basis-URI van het document. Het wordt gecombineerd met het huidige mappad om een absolute URL te vormen. |
-| configuration | Configuration | De configuratie. |
+| inhoud | Stream | De documentinhoud. |
+| baseUri | String | De basis-URI van het document. Deze wordt gecombineerd met het pad van de huidige map om een absolute URL te vormen. |
+| configuratie | Configuratie | De configuratie. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | `baseUri` is`nul`. |
+| ArgumentNullException | `baseUri` is `null`. |
 
 ### Zie ook
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, Url) {#constructor_6}
+## SVGDocument(*Stream, [Url](../../url/)*) {#constructor_6}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Het laden van documenten begint vanaf de huidige positie in de stream.
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen. Het laden van het document start vanaf de huidige positie in de stream.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri)
@@ -195,27 +195,27 @@ public SVGDocument(Stream content, Url baseUri)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | Stream | De documentinhoud. |
+| inhoud | Stream | De documentinhoud. |
 | baseUri | Url | De basis-URI van het document. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | `baseUri` is`nul`. |
+| ArgumentNullException | `baseUri` is `null`. |
 
 ### Zie ook
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(Stream, Url, Configuration) {#constructor_7}
+## SVGDocument(*Stream, [Url](../../url/), [Configuration](../../configuration/)*) {#constructor_7}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Het laden van documenten begint vanaf de huidige positie in de stream.
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen. Het laden van het document start vanaf de huidige positie in de stream.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri, Configuration configuration)
@@ -223,29 +223,29 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | Stream | De documentinhoud. |
+| inhoud | Stream | De documentinhoud. |
 | baseUri | Url | De basis-URI van het document. |
-| configuration | Configuration | De configuratie. |
+| configuratie | Configuratie | De configuratie. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | `baseUri` is`nul`. |
+| ArgumentNullException | `baseUri` is `null`. |
 
 ### Zie ook
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, string) {#constructor_14}
+## SVGDocument(*string, string*) {#constructor_14}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(string content, string baseUri)
@@ -253,26 +253,26 @@ public SVGDocument(string content, string baseUri)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | String | De documentinhoud. |
-| baseUri | String | De basis-URI van het document. Het wordt gecombineerd met het huidige mappad om een absolute URL te vormen. |
+| inhoud | String | De documentinhoud. |
+| baseUri | String | De basis-URI van het document. Deze wordt gecombineerd met het pad van de huidige map om een absolute URL te vormen. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | `baseUri` is`nul`. |
+| ArgumentNullException | `baseUri` is `null`. |
 
 ### Zie ook
 
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, string, Configuration) {#constructor_15}
+## SVGDocument(*string, string, [Configuration](../../configuration/)*) {#constructor_15}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(string content, string baseUri, Configuration configuration)
@@ -280,28 +280,28 @@ public SVGDocument(string content, string baseUri, Configuration configuration)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | String | De documentinhoud. |
-| baseUri | String | De basis-URI van het document. Het wordt gecombineerd met het huidige mappad om een absolute URL te vormen. |
-| configuration | Configuration | De configuratie. |
+| inhoud | String | De documentinhoud. |
+| baseUri | String | De basis-URI van het document. Deze wordt gecombineerd met het pad van de huidige map om een absolute URL te vormen. |
+| configuratie | Configuratie | De configuratie. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | `baseUri` is`nul`. |
+| ArgumentNullException | `baseUri` is `null`. |
 
 ### Zie ook
 
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Url) {#constructor_12}
+## SVGDocument(*string, [Url](../../url/)*) {#constructor_12}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(string content, Url baseUri)
@@ -309,27 +309,27 @@ public SVGDocument(string content, Url baseUri)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | String | De documentinhoud. |
+| inhoud | String | De documentinhoud. |
 | baseUri | Url | De basis-URI van het document. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | `baseUri` is`nul`. |
+| ArgumentNullException | `baseUri` is `null`. |
 
 ### Zie ook
 
 * class [Url](../../url/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(string, Url, Configuration) {#constructor_13}
+## SVGDocument(*string, [Url](../../url/), [Configuration](../../configuration/)*) {#constructor_13}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(string content, Url baseUri, Configuration configuration)
@@ -337,29 +337,29 @@ public SVGDocument(string content, Url baseUri, Configuration configuration)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| content | String | De documentinhoud. |
+| inhoud | String | De documentinhoud. |
 | baseUri | Url | De basis-URI van het document. |
-| configuration | Configuration | De configuratie. |
+| configuratie | Configuratie | De configuratie. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentNullException | `baseUri` is`nul`. |
+| ArgumentNullException | `baseUri` is `null`. |
 
 ### Zie ook
 
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(RequestMessage) {#constructor_2}
+## SVGDocument(*[RequestMessage](../../../aspose.svg.net/requestmessage/)*) {#constructor_2}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(RequestMessage request)
@@ -367,20 +367,20 @@ public SVGDocument(RequestMessage request)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| request | RequestMessage | De aanvraag. |
+| request | RequestMessage | Het verzoek. |
 
 ### Zie ook
 
 * class [RequestMessage](../../../aspose.svg.net/requestmessage/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGDocument(RequestMessage, Configuration) {#constructor_3}
+## SVGDocument(*[RequestMessage](../../../aspose.svg.net/requestmessage/), [Configuration](../../configuration/)*) {#constructor_3}
 
-Initialiseert een nieuw exemplaar van het[`SVGDocument`](../)klas. Constructor werkt synchroon, het wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Gebruik de methode om het document asynchroon te laden[`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overbelasting ervan. Of u kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in te stellen[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
+Initialiseert een nieuw exemplaar van de [`SVGDocument`](../) klasse. De constructor werkt synchroon, hij wacht op het laden van alle externe bronnen (afbeeldingen, scripts, enz.). Om het document asynchroon te laden, gebruik de methode [`Navigate`](../../../aspose.svg.dom/document/navigate/) of de overloads ervan. Of je kunt het laden van sommige externe bronnen uitschakelen door de juiste vlaggen in [`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) in te stellen.
 
 ```csharp
 public SVGDocument(RequestMessage request, Configuration configuration)
@@ -388,15 +388,13 @@ public SVGDocument(RequestMessage request, Configuration configuration)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| request | RequestMessage | De aanvraag. |
-| configuration | Configuration | De configuratie. |
+| request | RequestMessage | Het verzoek. |
+| configuratie | Configuratie | De configuratie. |
 
 ### Zie ook
 
 * class [RequestMessage](../../../aspose.svg.net/requestmessage/)
 * class [Configuration](../../configuration/)
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

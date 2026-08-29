@@ -1,14 +1,14 @@
 ---
-title: FileProtocolMessageHandler.Invoke
-second_title: Aspose.SVG voor .NET API-referentie
-description: FileProtocolMessageHandler methode. Wanneer overschreven in een afgeleide klasse wordt gebruikt om de berichtafhandeling te implementeren.
+title: "FileProtocolMessageHandler.Invoke"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "FileProtocolMessageHandler Invoke-methode. Wordt gebruikt om de berichtafhandeling te implementeren wanneer deze wordt overschreven in een afgeleide klasse"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/
 ---
 ## FileProtocolMessageHandler.Invoke method
 
-Wanneer overschreven in een afgeleide klasse wordt gebruikt om de berichtafhandeling te implementeren.
+Wordt gebruikt om de berichtafhandeling te implementeren wanneer deze wordt overschreven in een afgeleide klasse.
 
 ```csharp
 public override void Invoke(INetworkOperationContext context)
@@ -22,7 +22,5 @@ public override void Invoke(INetworkOperationContext context)
 
 * interface [INetworkOperationContext](../../../aspose.svg.net/inetworkoperationcontext/)
 * class [FileProtocolMessageHandler](../)
-* naamruimte [Aspose.Svg.Net.MessageHandlers](../../fileprotocolmessagehandler/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

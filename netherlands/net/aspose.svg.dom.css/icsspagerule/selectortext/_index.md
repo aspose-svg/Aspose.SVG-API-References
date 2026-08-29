@@ -1,27 +1,25 @@
 ---
-title: ICSSPageRule.SelectorText
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSPageRule eigendom. De ontleedbare tekstweergave van de paginakiezer voor de regel.
+title: "ICSSPageRule.SelectorText"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSPageRule SelectorText-eigenschap. De parseerbare tekstuele weergave van de paginaselector voor de regel."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.css/icsspagerule/selectortext/
 ---
 ## ICSSPageRule.SelectorText property
 
-De ontleedbare tekstweergave van de paginakiezer voor de regel.
+De parseerbare tekstuele weergave van de paginaselector voor de regel.
 
 ```csharp
 public string SelectorText { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De selectortekst.
 
 ### Zie ook
 
 * interface [ICSSPageRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

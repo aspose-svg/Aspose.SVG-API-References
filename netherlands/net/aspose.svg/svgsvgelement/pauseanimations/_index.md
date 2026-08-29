@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.PauseAnimations
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGSVGElement methode. Onderbreekt dwz pauzeert alle actieve animaties die zijn gedefinieerd in het SVGdocumentfragment dat overeenkomt met dit svgelement waardoor de animatieklok die overeenkomt met dit documentfragment stilstaat totdat de pauze wordt hervat.
+title: "SVGSVGElement.PauseAnimations"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGSVGElement PauseAnimations-methode. Onderbreekt, d.w.z. pauzeert alle momenteel draaiende animaties die zijn gedefinieerd binnen het SVG-documentfragment dat overeenkomt met dit svg-element, waardoor de animatieklok die bij dit documentfragment hoort stil blijft staan totdat deze wordt hervat."
 type: docs
 weight: 220
 url: /nl/net/aspose.svg/svgsvgelement/pauseanimations/
 ---
 ## SVGSVGElement.PauseAnimations method
 
-Onderbreekt (dwz pauzeert) alle actieve animaties die zijn gedefinieerd in het SVG-documentfragment dat overeenkomt met dit 'svg'-element, waardoor de animatieklok die overeenkomt met dit documentfragment stilstaat totdat de pauze wordt hervat.
+Pauzeert (d.w.z. onderbreekt) alle momenteel draaiende animaties die gedefinieerd zijn binnen het SVG‑documentfragment dat overeenkomt met dit ‘svg’-element, waardoor de animatieklok die bij dit documentfragment hoort stil blijft staan totdat deze wordt hervat.
 
 ```csharp
 public void PauseAnimations()
@@ -17,7 +17,5 @@ public void PauseAnimations()
 ### Zie ook
 
 * class [SVGSVGElement](../)
-* naamruimte [Aspose.Svg](../../svgsvgelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

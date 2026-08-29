@@ -1,27 +1,25 @@
 ---
-title: DocumentFragment.ChildElementCount
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentFragment eigendom. Retourneert het huidige aantal elementknooppunten dat kinderen zijn van dit element. 0 als dit element geen onderliggende knooppunten heeft die van nodeType 1. zijn
+title: "DocumentFragment.ChildElementCount"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentFragment ChildElementCount eigenschap. Retourneert het huidige aantal elementknooppunten die kinderen zijn van dit element. 0 als dit element geen kindknooppunten heeft van nodeType 1."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/documentfragment/childelementcount/
 ---
 ## DocumentFragment.ChildElementCount property
 
-Retourneert het huidige aantal elementknooppunten dat kinderen zijn van dit element. 0 als dit element geen onderliggende knooppunten heeft die van nodeType 1. zijn
+Geeft het huidige aantal elementknooppunten terug die kinderen zijn van dit element. 0 als dit element geen kindknooppunten heeft van nodeType 1.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het aantal onderliggende elementen.
+Het aantal kindelementen.
 
 ### Zie ook
 
 * class [DocumentFragment](../)
-* naamruimte [Aspose.Svg.Dom](../../documentfragment/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

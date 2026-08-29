@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnEmptied
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnEmptiedgebeurtenis.
+title: "IGlobalEventHandlers.OnEmptied"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnEmptied‑evenement. Haalt op of stelt de gebeurtenishandler in voor het OnEmptied‑evenement"
 type: docs
 weight: 110
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onemptied/
 ---
 ## IGlobalEventHandlers.OnEmptied event
 
-Haalt of stelt gebeurtenishandler in voor OnEmptied-gebeurtenis.
+Haalt op of stelt de event‑handler in voor het OnEmptied‑event.
 
 ```csharp
 public event DOMEventHandler OnEmptied;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnEmptied;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

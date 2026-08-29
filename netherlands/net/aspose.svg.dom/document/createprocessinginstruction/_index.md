@@ -1,14 +1,14 @@
 ---
-title: Document.CreateProcessingInstruction
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document methode. Maakt een ProcessingInstructionknooppunt met de opgegeven naam en gegevensreeksen.
+title: "Document.CreateProcessingInstruction"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document CreateProcessingInstruction-methode. Maakt een ProcessingInstruction-knooppunt aan op basis van de opgegeven naam- en gegevensreeksen"
 type: docs
 weight: 920
 url: /nl/net/aspose.svg.dom/document/createprocessinginstruction/
 ---
 ## Document.CreateProcessingInstruction method
 
-Maakt een ProcessingInstruction-knooppunt met de opgegeven naam en gegevensreeksen.
+Maakt een ProcessingInstruction‑knooppunt aan met de opgegeven naam‑ en gegevens‑strings.
 
 ```csharp
 public ProcessingInstruction CreateProcessingInstruction(string target, string data)
@@ -16,18 +16,16 @@ public ProcessingInstruction CreateProcessingInstruction(string target, string d
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| target | String | Het doelwit. |
+| doel | String | Het doel. |
 | data | String | De instructiegegevens. |
 
-### Winstwaarde
+### Retourwaarde
 
-De[`ProcessingInstruction`](../../processinginstruction/) .
+De [`ProcessingInstruction`](../../processinginstruction/).
 
 ### Zie ook
 
 * class [ProcessingInstruction](../../processinginstruction/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

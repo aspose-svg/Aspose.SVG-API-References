@@ -1,14 +1,14 @@
 ---
-title: MimeType.op_Implicit
-second_title: Aspose.SVG voor .NET API-referentie
-description: MimeType methode. Voert een impliciete conversie uit vanString naarMimeType .
+title: "MimeType.op_Implicit"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MimeType op_Implicit-methode. Voert een impliciete conversie uit van String naar MimeType"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg/mimetype/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 
-Voert een impliciete conversie uit vanString naar[`MimeType`](../) .
+Voert een impliciete conversie uit van String naar [`MimeType`](../).
 
 ```csharp
 public static implicit operator MimeType(string @string)
@@ -16,23 +16,23 @@ public static implicit operator MimeType(string @string)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| string | String | De snaar. |
+| string | String | De string. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de conversie.
 
 ### Zie ook
 
 * class [MimeType](../)
-* naamruimte [Aspose.Svg](../../mimetype/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## implicit operator {#op_implicit_1}
 
-Voert een impliciete conversie uit van[`MimeType`](../) naarString .
+Voert een impliciete conversie uit van [`MimeType`](../) naar String.
 
 ```csharp
 public static implicit operator string(MimeType type)
@@ -40,16 +40,14 @@ public static implicit operator string(MimeType type)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| type | MimeType | Het mime-type. |
+| type | MimeType | Het MIME-type. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de conversie.
 
 ### Zie ook
 
 * class [MimeType](../)
-* naamruimte [Aspose.Svg](../../mimetype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Device2.FillText
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Vult de opgegeven tekenreeks op de opgegeven locatie.
+title: "Device-2.FillText"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device FillText-methode. Vult de opgegeven tekenreeks op de opgegeven locatie."
 type: docs
-weight: 160
+weight: 190
 url: /nl/net/aspose.svg.rendering/device-2/filltext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.FillText method
+## Device<TGraphicContext,TRenderingOptions>.FillText method
 
 Vult de opgegeven tekenreeks op de opgegeven locatie.
 
 ```csharp
-public abstract void FillText(string text, PointF pt)
+public virtual void FillText(string text, PointF pt)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| text | String | String om te vullen. |
-| pt | PointF | Punt dat de coördinaten van de tekst specificeert. |
+| tekst | String | Te vullen tekenreeks. |
+| pt | PointF | Punt die de coördinaten van de tekst specificeert. |
 
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

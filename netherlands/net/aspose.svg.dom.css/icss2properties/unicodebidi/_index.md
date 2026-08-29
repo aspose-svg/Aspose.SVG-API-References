@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.UnicodeBidi
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de unicodebidi eigenschapsdefinitie in CSS2.
+title: "ICSS2Properties.UnicodeBidi"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties UnicodeBidi eigenschap. Zie de definitie van de unicode-bidi eigenschap in CSS2"
 type: docs
-weight: 1130
+weight: 1160
 url: /nl/net/aspose.svg.dom.css/icss2properties/unicodebidi/
 ---
 ## ICSS2Properties.UnicodeBidi property
 
-Zie de unicode-bidi eigenschapsdefinitie in CSS2.
+Zie de definitie van de eigenschap unicode-bidi in CSS2.
 
 ```csharp
 public string UnicodeBidi { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
 unicode-bidi eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

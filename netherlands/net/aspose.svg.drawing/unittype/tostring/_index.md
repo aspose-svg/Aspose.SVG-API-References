@@ -1,27 +1,25 @@
 ---
-title: UnitType.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType methode. Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+title: "UnitType.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType ToString-methode. Retourneert een String die deze instantie vertegenwoordigt"
 type: docs
 weight: 330
 url: /nl/net/aspose.svg.drawing/unittype/tostring/
 ---
 ## UnitType.ToString method
 
-Geeft als resultaat eenString die deze instantie vertegenwoordigt.
+Retourneert een String die deze instantie vertegenwoordigt.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

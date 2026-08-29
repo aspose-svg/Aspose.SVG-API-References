@@ -1,14 +1,14 @@
 ---
-title: Color.FromRgba
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Retourneert een nieuwe kleur met de gevraagde waarden voor ged groen blauw en alfa. Alle kleurcomponenten moeten in het bereik 0255 liggen.
+title: "Color.FromRgba"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color FromRgba-methode. Retourneert een nieuwe Color met de opgegeven rood, groen, blauw en alfa-waarden. Alle kleurcomponenten moeten in het bereik 0-255 liggen."
 type: docs
 weight: 210
 url: /nl/net/aspose.svg.drawing/color/fromrgba/
 ---
-## FromRgba(byte, byte, byte, byte) {#fromrgba}
+## FromRgba(*byte, byte, byte, byte*) {#fromrgba}
 
-Retourneert een nieuwe kleur met de gevraagde waarden voor ged, groen, blauw en alfa. Alle kleurcomponenten moeten in het bereik 0-255 liggen.
+Retourneert een nieuwe Color met de gevraagde ged, green, blue, alpha waarden. Alle kleurcomponenten moeten binnen het bereik 0-255 liggen.
 
 ```csharp
 public static Color FromRgba(byte red, byte green, byte blue, byte alpha)
@@ -16,26 +16,26 @@ public static Color FromRgba(byte red, byte green, byte blue, byte alpha)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| red | Byte | Een byte die de rode component van de kleur vertegenwoordigt. |
-| green | Byte | Een byte die de groene component van de kleur vertegenwoordigt. |
-| blue | Byte | Een byte die de blauwe component van de kleur vertegenwoordigt. |
-| alpha | Byte | Een byte die de alfacomponent van de kleur vertegenwoordigt. |
+| rood | Byte | Een byte die de rode component van de kleur vertegenwoordigt. |
+| groen | Byte | Een byte die de groene component van de kleur vertegenwoordigt. |
+| blauw | Byte | Een byte die de blauwe component van de kleur vertegenwoordigt. |
+| alfa | Byte | Een byte die de alfa-component van de kleur vertegenwoordigt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuw exemplaar van de[`Color`](../) klas
+Een nieuw exemplaar van de [`Color`](../) klasse
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FromRgba(int, int, int, int) {#fromrgba_1}
+## FromRgba(*int, int, int, int*) {#fromrgba_1}
 
-Retourneert een nieuwe kleur met de gevraagde waarden voor ged, groen, blauw en alfa. Alle kleurcomponenten moeten in het bereik 0-255 liggen.
+Retourneert een nieuwe Color met de gevraagde ged, green, blue, alpha waarden. Alle kleurcomponenten moeten binnen het bereik 0-255 liggen.
 
 ```csharp
 public static Color FromRgba(int red, int green, int blue, int alpha)
@@ -43,26 +43,26 @@ public static Color FromRgba(int red, int green, int blue, int alpha)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| red | Int32 | Een int die de rode component van de kleur vertegenwoordigt. |
-| green | Int32 | Een int die de groene component van de kleur vertegenwoordigt. |
-| blue | Int32 | Een int die de blauwe component van de kleur vertegenwoordigt. |
-| alpha | Int32 | Een int die de alfacomponent van de kleur vertegenwoordigt. |
+| rood | Int32 | Een int die de rode component van de kleur vertegenwoordigt. |
+| groen | Int32 | Een int die de groene component van de kleur vertegenwoordigt. |
+| blauw | Int32 | Een int die de blauwe component van de kleur vertegenwoordigt. |
+| alfa | Int32 | Een int die de alfa-component van de kleur vertegenwoordigt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuw exemplaar van de[`Color`](../) klas
+Een nieuw exemplaar van de [`Color`](../) klasse
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FromRgba(float, float, float, float) {#fromrgba_2}
+## FromRgba(*float, float, float, float*) {#fromrgba_2}
 
-Retourneert een nieuwe kleur met de gevraagde waarden voor ged, groen, blauw en alfa. Alle kleurcomponenten moeten in het bereik 0-1 liggen.
+Retourneert een nieuwe Color met de gevraagde ged, green, blue, alpha waarden. Alle kleurcomponenten moeten binnen het bereik 0-1 liggen.
 
 ```csharp
 public static Color FromRgba(float red, float green, float blue, float alpha)
@@ -70,19 +70,17 @@ public static Color FromRgba(float red, float green, float blue, float alpha)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| red | Single | Een vlotter die de rode component van de kleur vertegenwoordigt. |
-| green | Single | Een float die de groene component van de kleur vertegenwoordigt. |
-| blue | Single | Een float die de blauwe component van de kleur vertegenwoordigt. |
-| alpha | Single | Een float die de alfacomponent van de kleur vertegenwoordigt. |
+| rood | Single | Een float die de rode component van de kleur vertegenwoordigt. |
+| groen | Single | Een float die de groene component van de kleur vertegenwoordigt. |
+| blauw | Single | Een float die de blauwe component van de kleur vertegenwoordigt. |
+| alfa | Single | Een float die de alfacomponent van de kleur vertegenwoordigt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een nieuw exemplaar van de[`Color`](../) klas
+Een nieuw exemplaar van de [`Color`](../) klasse
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

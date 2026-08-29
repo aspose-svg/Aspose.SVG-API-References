@@ -1,28 +1,26 @@
 ---
-title: Device2.DeviceConfiguration2.PageWritingStrategy
-second_title: Aspose.SVG voor .NET API-referentie
-description: DeviceConfiguration eigendom. Haalt de strategie voor het schrijven van de pagina op of stelt deze in.
+title: "Device-2.DeviceConfiguration-2.PageWritingStrategy"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DeviceConfiguration PageWritingStrategy eigenschap. Haalt of stelt de pagina-schrijftstrategie in"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy property
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions>.PageWritingStrategy property
 
-Haalt de strategie voor het schrijven van de pagina op of stelt deze in.
+Haalt op of stelt de paginabeschrijvingsstrategie in.
 
 ```csharp
 public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrategy { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De strategie voor het schrijven van pagina's.
+De pagina-schrijftstrategie.
 
 ### Zie ook
 
 * enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](../../device-2.pagewritingstrategy-2/)
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2.deviceconfiguration-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

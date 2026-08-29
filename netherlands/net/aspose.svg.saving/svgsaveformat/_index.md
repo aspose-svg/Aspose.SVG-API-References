@@ -1,14 +1,14 @@
 ---
-title: Enum SVGSaveFormat
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Saving.SVGSaveFormat opsomming. Specificeert de indeling waarin het document wordt opgeslagen.
+title: "SVGSaveFormat Enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Saving.SVGSaveFormat enum. Specificeert het formaat waarin het document wordt opgeslagen"
 type: docs
-weight: 3660
+weight: 5780
 url: /nl/net/aspose.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration
 
-Specificeert de indeling waarin het document wordt opgeslagen.
+Specificeert het formaat waarin het document wordt opgeslagen.
 
 ```csharp
 public enum SVGSaveFormat
@@ -19,10 +19,9 @@ public enum SVGSaveFormat
 | Naam | Waarde | Beschrijving |
 | --- | --- | --- |
 | SVG | `0` | Document wordt opgeslagen als SVG. |
+| SVGZ | `1` | Document wordt opgeslagen als SVGZ. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

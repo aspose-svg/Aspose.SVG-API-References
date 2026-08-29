@@ -1,7 +1,7 @@
 ---
-title: SVGDocument.URL
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGDocument eigendom. De volledige URI van het document.
+title: "SVGDocument.URL"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGDocument URL‑eigenschap. De volledige URI van het document"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg/svgdocument/url/
@@ -14,14 +14,12 @@ De volledige URI van het document.
 public string URL { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De URL.
 
 ### Zie ook
 
 * class [SVGDocument](../)
-* naamruimte [Aspose.Svg](../../svgdocument/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

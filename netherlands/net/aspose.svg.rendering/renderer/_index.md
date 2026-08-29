@@ -1,34 +1,32 @@
 ---
-title: Class Renderer
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Renderer klas. Vertegenwoordigt een basisklasse voor alle renderers en implementeert IDisposable interface.
+title: "Renderer Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.Renderer klasse. Vertegenwoordigt een basisklasse voor alle renderers en implementeert de IDisposable‑interface."
 type: docs
-weight: 2990
+weight: 5060
 url: /nl/net/aspose.svg.rendering/renderer/
 ---
 ## Renderer class
 
-Vertegenwoordigt een basisklasse voor alle renderers en implementeert IDisposable interface.
+Stelt een basisklasse voor alle renderers voor en implementeert de IDisposable‑interface.
 
 ```csharp
 public class Renderer : IDisposable
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Renderer](renderer/)() | De standaard constructeur. |
+| [Renderer](renderer/)() | De standaardconstructor. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Geeft onbeheerde en - optioneel - beheerde bronnen vrij. |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Vrijgeeft niet‑beheerde en - optioneel - beheerde bronnen. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

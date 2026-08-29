@@ -1,34 +1,29 @@
 ---
-title: SplinePathBuilder.Build
-second_title: Aspose.SVG voor .NET API-referentie
-description: SplinePathBuilder methode. Bouwt padsegmenten op uit de lijst met traceerpunten.
+title: "SplinePathBuilder.Build"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SplinePathBuilder Build method. Construeert een vloeiend pad door een reeks punten door het omzetten van Centripetal CatmullRom-splines naar Bezier curves. Deze methode zorgt voor een natuurlijke en soepele overgang bij elk punt en creëert een SVG-pad dat nauwkeurig de opgegeven trace volgt."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.imagevectorization/splinepathbuilder/build/
 ---
 ## SplinePathBuilder.Build method
 
-Bouwt padsegmenten op uit de lijst met traceerpunten.
+Construeert een glad pad door een reeks punten door Centripetal Catmull–Rom splines om te zetten in Bezier-curves. Deze methode zorgt voor een natuurlijke en vloeiende overgang bij elk punt, en creëert een SVG-pad dat nauwkeurig de opgegeven trace volgt.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| trace | IEnumerable`1 | De lijst met traceerpunten |
-| path | SVGPathElement | Het SVG-padelement waar padsegmenten worden toegevoegd. |
+| trace | IEnumerable`1 | De reeks punten die moeten worden geïnterpoleerd tot een vloeiend pad. |
 
-### Winstwaarde
+### Retourwaarde
 
-De lijst met padsegmenten[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+Een string die de SVG path data vertegenwoordigt, bestaande uit Bezier curve-commando's en coördinaten die de Centripetal Catmull–Rom spline benaderen.
 
 ### Zie ook
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * class [SplinePathBuilder](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

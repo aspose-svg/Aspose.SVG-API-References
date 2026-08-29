@@ -1,14 +1,14 @@
 ---
-title: Class Counter
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.Counter klas. De tellerinterface wordt gebruikt om elke teller of tellerfunctiewaarde weer te geven. Deze interface weerspiegelt de waarden in de onderliggende stijleigenschap.
+title: "Counter Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.Counter klasse. De Counter interface wordt gebruikt om een teller- of tellersfunctie‑waarde te vertegenwoordigen. Deze interface weerspiegelt de waarden in de onderliggende stijl‑eigenschap."
 type: docs
-weight: 510
+weight: 2510
 url: /nl/net/aspose.svg.dom.css/counter/
 ---
 ## Counter class
 
-De tellerinterface wordt gebruikt om elke teller of tellerfunctiewaarde weer te geven. Deze interface weerspiegelt de waarden in de onderliggende stijleigenschap.
+De Counter interface wordt gebruikt om elke teller- of counters-functiewaarde te vertegenwoordigen. Deze interface weerspiegelt de waarden in de onderliggende stijl‑eigenschap.
 
 ```csharp
 public class Counter : DOMObject
@@ -18,20 +18,18 @@ public class Counter : DOMObject
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Identifier](../../aspose.svg.dom.css/counter/identifier/) { get; } | Dit attribuut wordt gebruikt voor de identificatie van de teller. |
+| [Identifier](../../aspose.svg.dom.css/counter/identifier/) { get; } | Dit attribuut wordt gebruikt voor de identifier van de teller. |
 | [ListStyle](../../aspose.svg.dom.css/counter/liststyle/) { get; } | Dit attribuut wordt gebruikt voor de stijl van de lijst. |
-| [Separator](../../aspose.svg.dom.css/counter/separator/) { get; } | Dit attribuut wordt gebruikt voor het scheidingsteken van de geneste tellers. |
+| [Separator](../../aspose.svg.dom.css/counter/separator/) { get; } | Dit attribuut wordt gebruikt voor de scheidingsteken van de geneste tellers. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
 
 ### Zie ook
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

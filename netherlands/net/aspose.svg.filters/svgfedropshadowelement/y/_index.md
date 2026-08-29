@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Y
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEDropShadowElement eigendom. Komt overeen met attribuut y op het gegeven feDropShadowelement.
+title: "SVGFEDropShadowElement.Y"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEDropShadowElement Y eigenschap. Komt overeen met attribuut y op het opgegeven feDropShadow element"
 type: docs
 weight: 100
 url: /nl/net/aspose.svg.filters/svgfedropshadowelement/y/
 ---
 ## SVGFEDropShadowElement.Y property
 
-Komt overeen met attribuut 'y' op het gegeven 'feDropShadow'-element.
+Komt overeen met attribuut ‘y’ op het opgegeven ‘feDropShadow’-element.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'y' van het gegeven 'feDropShadow' element.
+Het attribuut ‘y’ van het opgegeven ‘feDropShadow’ element.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDropShadowElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

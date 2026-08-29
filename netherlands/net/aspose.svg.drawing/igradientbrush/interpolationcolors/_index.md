@@ -1,28 +1,26 @@
 ---
-title: IGradientBrush.InterpolationColors
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGradientBrush eigendom. Verkrijg de interpolatiekleuren die een veelkleurig lineair verloop definiëren.
+title: "IGradientBrush.InterpolationColors"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGradientBrush InterpolationColors‑eigenschap. Haalt de interpolatie‑kleuren op of stelt ze in die een meerkleurige lineaire gradient definiëren."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.drawing/igradientbrush/interpolationcolors/
 ---
 ## IGradientBrush.InterpolationColors property
 
-Verkrijg de interpolatiekleuren die een veelkleurig lineair verloop definiëren.
+Krijgt of stelt de interpolatiekleurs in die een meerkleurige lineaire gradient definiëren.
 
 ```csharp
-public IInterpolationColor[] InterpolationColors { get; }
+public IInterpolationColor[] InterpolationColors { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Interpolatie kleuren.
+Interpolatie‑kleuren.
 
 ### Zie ook
 
 * interface [IInterpolationColor](../../iinterpolationcolor/)
 * interface [IGradientBrush](../)
-* naamruimte [Aspose.Svg.Drawing](../../igradientbrush/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

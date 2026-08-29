@@ -1,27 +1,25 @@
 ---
-title: SVGPathSeg.PathSegTypeAsLetter
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathSeg eigendom. Het type padsegment gespecificeerd door de overeenkomstige opdrachtnaam van één teken.
+title: "SVGPathSeg.PathSegTypeAsLetter"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathSeg PathSegTypeAsLetter eigenschap. Het type van het padsegment gespecificeerd door de overeenkomstige één‑karakter opdrachtnaam"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.paths/svgpathseg/pathsegtypeasletter/
 ---
 ## SVGPathSeg.PathSegTypeAsLetter property
 
-Het type padsegment, gespecificeerd door de overeenkomstige opdrachtnaam van één teken.
+Het type van het padsegment, gespecificeerd door de overeenkomstige één‑karakter commando‑naam.
 
 ```csharp
 public string PathSegTypeAsLetter { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het type padsegment.
+Het type van het padsegment.
 
 ### Zie ook
 
 * class [SVGPathSeg](../)
-* naamruimte [Aspose.Svg.Paths](../../svgpathseg/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

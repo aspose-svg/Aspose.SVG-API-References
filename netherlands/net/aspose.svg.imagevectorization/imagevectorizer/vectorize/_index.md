@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizer.Vectorize
-second_title: Aspose.SVG voor .NET API-referentie
-description: ImageVectorizer methode. Vectoriseert rasterafbeelding van het gespecificeerde bestand.
+title: "ImageVectorizer.Vectorize"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ImageVectorizer Vectorize-methode. Vectoriseert rasterafbeelding van het opgegeven bestand."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
-## Vectorize(string) {#vectorize_2}
+## Vectorize(*string*) {#vectorize_1}
 
-Vectoriseert rasterafbeelding van het gespecificeerde bestand.
+Vectoriseert rasterafbeelding vanuit het opgegeven bestand.
 
 ```csharp
 public SVGDocument Vectorize(string imageFile)
@@ -18,7 +18,7 @@ public SVGDocument Vectorize(string imageFile)
 | --- | --- | --- |
 | imageFile | String | Het pad naar het afbeeldingsbestand. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het SVG-document.
 
@@ -26,14 +26,14 @@ Het SVG-document.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Vectorize(Stream) {#vectorize_1}
+## Vectorize(*Stream*) {#vectorize}
 
-Vectoriseert rasterafbeelding van de opgegeven stream.
+Vectoriseert rasterafbeelding vanuit de opgegeven stream.
 
 ```csharp
 public SVGDocument Vectorize(Stream imageStream)
@@ -43,7 +43,7 @@ public SVGDocument Vectorize(Stream imageStream)
 | --- | --- | --- |
 | imageStream | Stream | De stream met afbeelding. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het SVG-document.
 
@@ -51,32 +51,5 @@ Het SVG-document.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* montage [Aspose.SVG](../../../)
-
----
-
-## Vectorize(Bitmap) {#vectorize}
-
-Vectoriseert bitmap.
-
-```csharp
-public SVGDocument Vectorize(Bitmap image)
-```
-
-| Parameter | Type | Beschrijving |
-| --- | --- | --- |
-| image | Bitmap | De bitmap. |
-
-### Winstwaarde
-
-Het SVG-document.
-
-### Zie ook
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageVectorizer](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

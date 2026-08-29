@@ -1,36 +1,37 @@
 ---
-title: Class Metered
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Metered klas. Biedt methoden om gemeten sleutel in te stellen.
+title: "Metered‑klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Metered‑klasse. Biedt methoden om de metered‑sleutel in te stellen"
 type: docs
-weight: 2200
+weight: 4270
 url: /nl/net/aspose.svg/metered/
 ---
 ## Metered class
 
-Biedt methoden om gemeten sleutel in te stellen.
+Biedt methoden om een gemeten sleutel in te stellen.
 
 ```csharp
 public class Metered
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Metered](metered/)() | Initialiseert een nieuwe instantie van deze klasse. |
+| [Metered](metered/)() | Initialiseert een nieuw exemplaar van deze klasse. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [SetMeteredKey](../../aspose.svg/metered/setmeteredkey/)(string, string) | Stelt gemeten publieke en private sleutel in. Als u een gemeten licentie aanschaft, moet deze API bij het starten van de applicatie worden aangeroepen, normaal gesproken is dit voldoende. Als het echter altijd niet lukt om verbruiksgegevens te uploaden en de 24 uur overschrijdt, wordt de licentie ingesteld op de evaluatiestatus, om een dergelijk geval te voorkomen, moet u regelmatig de licentiestatus controleren. Als het de evaluatiestatus is, roept u deze API opnieuw op. |
-| static [GetConsumptionCredit](../../aspose.svg/metered/getconsumptioncredit/)() | Krijgt consumptietegoed |
-| static [GetConsumptionQuantity](../../aspose.svg/metered/getconsumptionquantity/)() | Krijgt verbruiksbestandsgrootte |
+| [SetMeteredKey](../../aspose.svg/metered/setmeteredkey/)(*string, string*) | Stelt de metered openbare en privésleutel in. Als u een metered‑licentie aanschaft, moet deze API worden aangeroepen bij het starten van de applicatie; normaal gesproken is dat voldoende. Als het echter steeds mislukt om verbruiksgegevens te uploaden en de 24 uur overschrijdt, wordt de licentie op evaluatiestatus gezet. Om dit te voorkomen, dient u regelmatig de licentiestatus te controleren; als deze op evaluatiestatus staat, roept u deze API opnieuw aan. |
+| static [GetConsumptionCredit](../../aspose.svg/metered/getconsumptioncredit/)() | Haalt verbruikcredit op |
+| static [GetConsumptionQuantity](../../aspose.svg/metered/getconsumptionquantity/)() | Haalt verbruikbestandsgrootte op |
+| static [IsMeteredLicensed](../../aspose.svg/metered/ismeteredlicensed/)() | Controleer of metered is gelicentieerd |
 
-### Voorbeelden
+## Voorbeelden
 
-In dit voorbeeld wordt geprobeerd een gemeten openbare en privésleutel in te stellen
+In dit voorbeeld wordt geprobeerd om de openbare en privésleutel van metered in te stellen
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-het component jar-bestand:
+het component‑jar‑bestand:
 
 ```csharp
 Metered matered = new Metered();
@@ -54,7 +55,5 @@ matered.setMeteredKey("PublicKey", "PrivateKey");
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg](../../aspose.svg/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

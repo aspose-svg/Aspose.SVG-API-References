@@ -1,14 +1,14 @@
 ---
-title: UnitType.Equals
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType methode. Bepaalt of de opgegevenObject  is gelijk aan deze instantie.
+title: "UnitType.Equals"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType Equals-methode. Bepaalt of het opgegeven Object gelijk is aan deze instantie"
 type: docs
 weight: 310
 url: /nl/net/aspose.svg.drawing/unittype/equals/
 ---
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bepaalt of de opgegevenObject , is gelijk aan deze instantie.
+Bepaalt of het opgegeven Object gelijk is aan deze instantie.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,23 +16,23 @@ public override bool Equals(object obj)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| obj | Object | DeObject te vergelijken met dit exemplaar. |
+| obj | Object | Het Object om te vergelijken met deze instantie. |
 
-### Winstwaarde
+### Retourwaarde
 
-`WAAR` als de opgegevenObject is gelijk aan deze instantie; anders,`vals` .
+`true` als het opgegeven Object gelijk is aan deze instantie; anders, `false`.
 
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(UnitType) {#equals}
+## Equals(*[UnitType](../)*) {#equals}
 
-Bepaalt of de opgegeven[`UnitType`](../) , is gelijk aan deze instantie.
+Bepaalt of het opgegeven [`UnitType`](../) gelijk is aan deze instantie.
 
 ```csharp
 public bool Equals(UnitType other)
@@ -40,16 +40,14 @@ public bool Equals(UnitType other)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| other | UnitType | De[`UnitType`](../) te vergelijken met dit exemplaar. |
+| other | UnitType | De [`UnitType`](../) om te vergelijken met deze instantie. |
 
-### Winstwaarde
+### Retourwaarde
 
-`WAAR` als de opgegeven[`UnitType`](../) is gelijk aan deze instantie; anders,`vals` .
+`true` als het opgegeven [`UnitType`](../) gelijk is aan deze instantie; anders `false`.
 
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

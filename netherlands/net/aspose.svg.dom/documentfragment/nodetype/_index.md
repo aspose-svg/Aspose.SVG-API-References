@@ -1,7 +1,7 @@
 ---
-title: DocumentFragment.NodeType
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentFragment eigendom. Een code die het type van het onderliggende object vertegenwoordigt.
+title: "DocumentFragment.NodeType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentFragment NodeType eigenschap. Een code die het type van het onderliggende object vertegenwoordigt."
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.dom/documentfragment/nodetype/
@@ -14,14 +14,12 @@ Een code die het type van het onderliggende object vertegenwoordigt.
 public override ushort NodeType { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het type van het knooppunt.
 
 ### Zie ook
 
 * class [DocumentFragment](../)
-* naamruimte [Aspose.Svg.Dom](../../documentfragment/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

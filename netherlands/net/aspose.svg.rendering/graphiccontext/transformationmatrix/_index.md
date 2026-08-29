@@ -1,23 +1,22 @@
 ---
-title: GraphicContext.TransformationMatrix
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt transformatiematrix in of haalt deze op.
+title: "GraphicContext.TransformationMatrix"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext TransformationMatrix-eigenschap. Stelt in of haalt de transformatie-matrix op"
 type: docs
 weight: 160
 url: /nl/net/aspose.svg.rendering/graphiccontext/transformationmatrix/
 ---
 ## GraphicContext.TransformationMatrix property
 
-Stelt transformatiematrix in of haalt deze op.
+Stelt de transformatie‑matrix in, of haalt deze op.
 
 ```csharp
-public virtual Matrix TransformationMatrix { get; set; }
+public virtual IMatrix TransformationMatrix { get; set; }
 ```
 
 ### Zie ook
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

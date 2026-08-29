@@ -1,14 +1,14 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_EMS
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGLength veld. Er is een waarde opgegeven met behulp van de emeenheden die zijn gedefinieerd in CSS2.
+title: "SVGLength.SVG_LENGTHTYPE_EMS"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGLength SVG_LENGTHTYPE_EMS veld. Een waarde werd gespecificeerd met de em-eenheden gedefinieerd in CSS2."
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.datatypes/svglength/svg_lengthtype_ems/
 ---
 ## SVGLength.SVG_LENGTHTYPE_EMS field
 
-Er is een waarde opgegeven met behulp van de em-eenheden die zijn gedefinieerd in CSS2.
+Er werd een waarde gespecificeerd met de em‑eenheden gedefinieerd in CSS2.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_EMS;
@@ -17,7 +17,5 @@ public const ushort SVG_LENGTHTYPE_EMS;
 ### Zie ook
 
 * class [SVGLength](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svglength/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

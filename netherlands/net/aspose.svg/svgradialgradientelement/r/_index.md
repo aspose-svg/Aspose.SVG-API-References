@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.R
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGRadialGradientElement eigendom. Komt overeen met attribuut r op het opgegeven radialGradientelement.
+title: "SVGRadialGradientElement.R"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGRadialGradientElement R-eigenschap. Komt overeen met het attribuut r op het opgegeven radialGradient-element"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg/svgradialgradientelement/r/
 ---
 ## SVGRadialGradientElement.R property
 
-Komt overeen met attribuut 'r' op het opgegeven 'radialGradient'-element.
+Komt overeen met attribuut ‘r’ op het opgegeven ‘radialGradient’-element.
 
 ```csharp
 public SVGAnimatedLength R { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'r' van het gegeven 'radialGradient' element.
+Het attribuut ‘r’ van het opgegeven ‘radialGradient’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* naamruimte [Aspose.Svg](../../svgradialgradientelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.DOMImplementation
-second_title: Aspose.SVG voor .NET API-referentie
-description: IBrowsingContext eigendom. Haalt de DOMimplementatie op.
+title: "IBrowsingContext.DOMImplementation"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IBrowsingContext DOMImplementation eigenschap. Haalt de DOM-implementatie op."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom/ibrowsingcontext/domimplementation/
@@ -14,7 +14,7 @@ Haalt de DOM-implementatie op.
 public IDOMImplementation DOMImplementation { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De DOM-implementatie.
 
@@ -22,7 +22,5 @@ De DOM-implementatie.
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* naamruimte [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

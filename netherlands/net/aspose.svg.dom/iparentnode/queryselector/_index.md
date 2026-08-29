@@ -1,14 +1,14 @@
 ---
-title: IParentNode.QuerySelector
-second_title: Aspose.SVG voor .NET API-referentie
-description: IParentNode methode. Retourneert het eerste element dat een afstammeling is van een knooppunt dat overeenkomt met selectors.
+title: "IParentNode.QuerySelector"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IParentNode QuerySelector-methode. Retourneert het eerste element dat een afstammeling is van node die overeenkomt met selectors"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom/iparentnode/queryselector/
 ---
 ## IParentNode.QuerySelector method
 
-Retourneert het eerste element dat een afstammeling is van een knooppunt dat overeenkomt met selectors.
+Retourneert het eerste element dat een afstammeling is van node en overeenkomt met selectors.
 
 ```csharp
 public Element QuerySelector(string selectors)
@@ -16,9 +16,9 @@ public Element QuerySelector(string selectors)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| selectors | String | De kiezers. |
+| selectoren | String | De selectoren. |
 
-### Winstwaarde
+### Retourwaarde
 
 Retourneert het eerste overeenkomende element.
 
@@ -26,7 +26,5 @@ Retourneert het eerste overeenkomende element.
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* naamruimte [Aspose.Svg.Dom](../../iparentnode/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

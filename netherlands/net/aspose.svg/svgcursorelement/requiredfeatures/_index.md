@@ -1,20 +1,20 @@
 ---
-title: SVGCursorElement.RequiredFeatures
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGCursorElement eigendom. Komt overeen met attribuut requiredFeatures op het gegeven element.
+title: "SVGCursorElement.RequiredFeatures"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGCursorElement RequiredFeatures‑eigenschap. Komt overeen met het attribuut requiredFeatures op het opgegeven element."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg/svgcursorelement/requiredfeatures/
 ---
 ## SVGCursorElement.RequiredFeatures property
 
-Komt overeen met attribuut 'requiredFeatures' op het gegeven element.
+Komt overeen met het attribuut ‘requiredFeatures’ van het opgegeven element.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De vereiste functies.
 
@@ -22,7 +22,5 @@ De vereiste functies.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGCursorElement](../)
-* naamruimte [Aspose.Svg](../../svgcursorelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

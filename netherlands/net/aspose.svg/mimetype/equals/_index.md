@@ -1,12 +1,12 @@
 ---
-title: MimeType.Equals
-second_title: Aspose.SVG voor .NET API-referentie
-description: MimeType methode. Geeft aan of het huidige object gelijk is aan een ander object van hetzelfde type.
+title: "MimeType.Equals"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MimeType Equals methode. Geeft aan of het huidige object gelijk is aan een ander object van hetzelfde type"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg/mimetype/equals/
 ---
-## Equals(MimeType) {#equals}
+## Equals(*[MimeType](../)*) {#equals}
 
 Geeft aan of het huidige object gelijk is aan een ander object van hetzelfde type.
 
@@ -16,23 +16,23 @@ public bool Equals(MimeType other)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| other | MimeType | Een object om te vergelijken met dit object. |
+| ander | MimeType | Een object om te vergelijken met dit object. |
 
-### Winstwaarde
+### Retourwaarde
 
-waar als het huidige object gelijk is aan de*other* parameter; anders, false.
+true als het huidige object gelijk is aan de *other* parameter; anders, false.
 
 ### Zie ook
 
 * class [MimeType](../)
-* naamruimte [Aspose.Svg](../../mimetype/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bepaalt of de opgegevenObject is gelijk aan de stroomObject .
+Bepaalt of het opgegeven object gelijk is aan het huidige object.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| obj | Object | DeObject te vergelijken met de huidigeObject. |
+| obj | Object | Het Object om te vergelijken met het huidige Object. |
 
-### Winstwaarde
+### Retourwaarde
 
-waar als het opgegevenObject is gelijk aan de stroomObject ; anders, false.
+true als het opgegeven Object gelijk is aan het huidige Object; anders false.
 
 ### Zie ook
 
 * class [MimeType](../)
-* naamruimte [Aspose.Svg](../../mimetype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

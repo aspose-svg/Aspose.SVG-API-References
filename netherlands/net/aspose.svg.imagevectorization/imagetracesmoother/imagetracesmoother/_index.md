@@ -1,14 +1,14 @@
 ---
-title: ImageTraceSmoother.ImageTraceSmoother
-second_title: Aspose.SVG voor .NET API-referentie
-description: ImageTraceSmoother constructeur. Initialiseert een nieuw exemplaar van hetImageTraceSmoother klasse.
+title: "ImageTraceSmoother"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ImageTraceSmoother constructor. Initialiseert een nieuwe instantie van de ImageTraceSmoother klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
 ## ImageTraceSmoother() {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`ImageTraceSmoother`](../) klasse.
+Initialiseert een nieuwe instantie van de [`ImageTraceSmoother`](../) klasse.
 
 ```csharp
 public ImageTraceSmoother()
@@ -17,14 +17,14 @@ public ImageTraceSmoother()
 ### Zie ook
 
 * class [ImageTraceSmoother](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSmoother(int) {#constructor_1}
+## ImageTraceSmoother(*int*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`ImageTraceSmoother`](../) klasse.
+Initialiseert een nieuwe instantie van de [`ImageTraceSmoother`](../) klasse.
 
 ```csharp
 public ImageTraceSmoother(int severity)
@@ -32,12 +32,10 @@ public ImageTraceSmoother(int severity)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| severity | Int32 | De ernst |
+| ernst | Int32 | De ernst |
 
 ### Zie ook
 
 * class [ImageTraceSmoother](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

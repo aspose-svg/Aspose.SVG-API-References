@@ -1,14 +1,14 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_UNKNOWN
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEBlendElement veld. Het type is niet een van de vooraf gedefinieerde typen. Het is ongeldig om te proberen een nieuwe waarde van dit type te definiëren of om een bestaande waarde naar dit type om te schakelen.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_UNKNOWN"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEBlendElement SVG_FEBLEND_MODE_UNKNOWN veld. Het type is geen van de vooraf gedefinieerde types. Het is ongeldig om te proberen een nieuwe waarde van dit type te definiëren of om te proberen een bestaande waarde naar dit type te wijzigen"
 type: docs
 weight: 250
 url: /nl/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_unknown/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_UNKNOWN field
 
-Het type is niet een van de vooraf gedefinieerde typen. Het is ongeldig om te proberen een nieuwe waarde van dit type te definiëren of om een bestaande waarde naar dit type om te schakelen.
+Het type is niet een van de vooraf gedefinieerde types. Het is ongeldig om te proberen een nieuwe waarde van dit type te definiëren of om te proberen een bestaande waarde naar dit type te wijzigen.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_UNKNOWN;
@@ -17,7 +17,5 @@ public const ushort SVG_FEBLEND_MODE_UNKNOWN;
 ### Zie ook
 
 * class [SVGFEBlendElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfeblendelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

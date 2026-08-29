@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.FileName
-second_title: Aspose.SVG voor .NET API-referentie
-description: ErrorEvent eigendom. Het bestandsnaamattribuut moet de waarde teruggeven waarop het geïnitialiseerd is. Wanneer het object wordt gemaakt moet dit attribuut worden geïnitialiseerd naar de lege tekenreeks. Het vertegenwoordigt de absolute URL van het script waarin de fout oorspronkelijk optrad.
+title: "ErrorEvent.FileName"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ErrorEvent FileName eigenschap. Het filename-attribuut moet de waarde teruggeven waarmee het is geïnitialiseerd. Wanneer het object wordt aangemaakt, moet dit attribuut op een lege tekenreeks worden geïnitialiseerd. Het vertegenwoordigt de absolute URL van het script waarin de fout oorspronkelijk is opgetreden."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom.events/errorevent/filename/
 ---
 ## ErrorEvent.FileName property
 
-Het bestandsnaamattribuut moet de waarde teruggeven waarop het geïnitialiseerd is. Wanneer het object wordt gemaakt, moet dit attribuut worden geïnitialiseerd naar de lege tekenreeks. Het vertegenwoordigt de absolute URL van het script waarin de fout oorspronkelijk optrad.
+Het attribuut filename moet de waarde retourneren waarmee het is geïnitialiseerd. Wanneer het object wordt aangemaakt, moet dit attribuut worden geïnitialiseerd op een lege tekenreeks. Het vertegenwoordigt de absolute URL van het script waarin de fout oorspronkelijk optrad.
 
 ```csharp
 public string FileName { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De bestandsnaam.
 
 ### Zie ook
 
 * class [ErrorEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../errorevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

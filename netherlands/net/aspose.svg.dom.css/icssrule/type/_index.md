@@ -1,14 +1,14 @@
 ---
-title: ICSSRule.Type
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSRule eigendom. Het type regel zoals hierboven gedefinieerd. De verwachting is dat bindingspecifieke castingmethoden kunnen worden gebruikt om vanuit een instantie van de CSSRuleinterface naar de specifieke afgeleide interface te casten die wordt geïmpliceerd door het type.
+title: "ICSSRule.Type"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSRule Type eigenschap. Het type van de regel zoals hierboven gedefinieerd. De verwachting is dat bindingspecifieke castmethoden kunnen worden gebruikt om te casten van een instantie van de CSSRule-interface naar de specifieke afgeleide interface die door het type wordt geïmpliceerd."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom.css/icssrule/type/
 ---
 ## ICSSRule.Type property
 
-Het type regel, zoals hierboven gedefinieerd. De verwachting is dat binding-specifieke castingmethoden kunnen worden gebruikt om vanuit een instantie van de CSSRule-interface naar de specifieke afgeleide interface te casten die wordt geïmpliceerd door het type.
+Het type van de regel, zoals hierboven gedefinieerd. Er wordt verwacht dat bindingspecifieke castmethoden kunnen worden gebruikt om van een instantie van de CSSRule-interface naar de specifieke afgeleide interface die door het type wordt geïmpliceerd, te casten.
 
 ```csharp
 public short Type { get; }
@@ -17,7 +17,5 @@ public short Type { get; }
 ### Zie ook
 
 * interface [ICSSRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssrule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

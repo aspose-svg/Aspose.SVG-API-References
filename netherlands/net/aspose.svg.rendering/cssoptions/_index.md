@@ -1,14 +1,14 @@
 ---
-title: Class CssOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.CssOptions klas. Vertegenwoordigt cssrenderingopties.
+title: "CssOptions klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.CssOptions klasse. Vertegenwoordigt css-renderopties"
 type: docs
-weight: 2720
+weight: 4800
 url: /nl/net/aspose.svg.rendering/cssoptions/
 ---
 ## CssOptions class
 
-Vertegenwoordigt css-renderingopties.
+Stelt CSS‑renderopties voor.
 
 ```csharp
 public class CssOptions
@@ -18,11 +18,9 @@ public class CssOptions
 
 | Naam | Beschrijving |
 | --- | --- |
-| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype/) { get; set; } | Krijgt of zet[`MediaType`](../mediatype/) die zal worden gebruikt voor het oplossen van mediaquery's tijdens het renderen. Standaardwaarde is`Afdrukken` . |
+| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype/) { get; set; } | Haalt op of stelt [`MediaType`](../mediatype/) in die zal worden gebruikt voor de resolutie van mediavragen tijdens het renderen. Standaardwaarde is `Print`. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.AnimVal
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGAnimatedValue eigendom. Als het gegeven attribuut of eigenschap wordt geanimeerd bevat dit de huidige geanimeerde waarde van het attribuut of de eigenschap. Als het gegeven attribuut of eigenschap momenteel niet wordt geanimeerd bevat het dezelfde waarde als baseVal.
+title: "SVGAnimatedValue-1.AnimVal"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGAnimatedValue AnimVal-eigenschap. Als het opgegeven attribuut of de eigenschap wordt geanimeerd, bevat het de huidige geanimeerde waarde van het attribuut of de eigenschap. Als het opgegeven attribuut of de eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als baseVal."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.datatypes/svganimatedvalue-1/animval/
 ---
-## SVGAnimatedValue&lt;T&gt;.AnimVal property
+## SVGAnimatedValue<T>.AnimVal property
 
-Als het gegeven attribuut of eigenschap wordt geanimeerd, bevat dit de huidige geanimeerde waarde van het attribuut of de eigenschap. Als het gegeven attribuut of eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als baseVal.
+Als het opgegeven attribuut of de eigenschap wordt geanimeerd, bevat het de huidige geanimeerde waarde van het attribuut of de eigenschap. Als het opgegeven attribuut of de eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als baseVal.
 
 ```csharp
 public virtual T AnimVal { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als [anim-waarde]; anders,`vals` .
+`true` als [animatiewaarde]; anders, `false`.
 
 ### Zie ook
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

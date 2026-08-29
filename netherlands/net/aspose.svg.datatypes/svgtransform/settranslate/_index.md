@@ -1,14 +1,14 @@
 ---
-title: SVGTransform.SetTranslate
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGTransform methode. Stelt het transformatietype in op SVG_TRANSFORM_TRANSLATE met parameters tx en ty die de omzettingsbedragen definiëren.
+title: "SVGTransform.SetTranslate"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGTransform SetTranslate-methode. Stelt het transformatietype in op SVG_TRANSFORM_TRANSLATE met parameters tx en ty die de translatiewaarden definiëren"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.datatypes/svgtransform/settranslate/
 ---
 ## SVGTransform.SetTranslate method
 
-Stelt het transformatietype in op SVG_TRANSFORM_TRANSLATE, met parameters tx en ty die de omzettingsbedragen definiëren.
+Stelt het transformatietype in op SVG_TRANSFORM_TRANSLATE, met de parameters tx en ty die de translatiewaarden definiëren.
 
 ```csharp
 public void SetTranslate(float tx, float ty)
@@ -16,19 +16,17 @@ public void SetTranslate(float tx, float ty)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| tx | Single | Het omrekeningsbedrag in X. |
-| ty | Single | Het omrekeningsbedrag in Y. |
+| tx | Single | De translatiewaarde in X. |
+| ty | Single | De translatiewaarde in Y. |
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Verhoogd bij een poging om de waarde van een alleen-lezen kenmerk te wijzigen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Opgevoerd bij een poging om de waarde van een alleen‑lezen attribuut te wijzigen. |
 
 ### Zie ook
 
 * class [SVGTransform](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgtransform/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,34 +1,32 @@
 ---
-title: INodeIterator.NextNode
-second_title: Aspose.SVG voor .NET API-referentie
-description: INodeIterator methode. Retourneert het volgende knooppunt in de set en verhoogt de positie van de iterator in de set. Nadat een NodeIterator is gemaakt retourneert de eerste aanroep van nextNode het eerste knooppunt in de set.
+title: "INodeIterator.NextNode"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "INodeIterator NextNode-methode. Retourneert de volgende node in de verzameling en verschuift de positie van de iterator in de verzameling vooruit. Nadat een NodeIterator is aangemaakt, geeft de eerste aanroep van nextNode de eerste node in de verzameling terug."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom.traversal/inodeiterator/nextnode/
 ---
 ## INodeIterator.NextNode method
 
-Retourneert het volgende knooppunt in de set en verhoogt de positie van de iterator in de set. Nadat een NodeIterator is gemaakt, retourneert de eerste aanroep van nextNode() het eerste knooppunt in de set.
+Retourneert het volgende knooppunt in de set en verplaatst de positie van de iterator in de set vooruit. Nadat een NodeIterator is aangemaakt, retourneert de eerste oproep naar nextNode() het eerste knooppunt in de set.
 
 ```csharp
 public Node NextNode()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Het volgende knooppunt in de set dat wordt herhaald, or null als er geen leden meer in die set zijn.
+De volgende Node in de verzameling die wordt geïtereerd, of null als er geen leden meer in die verzameling zijn.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: Verhoogd als deze methode wordt aangeroepen nadat de methode detach is aangeroepen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | INVALID_STATE_ERR: Opgeworpen als deze methode wordt aangeroepen nadat de detach-methode is uitgevoerd. |
 
 ### Zie ook
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [INodeIterator](../)
-* naamruimte [Aspose.Svg.Dom.Traversal](../../inodeiterator/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

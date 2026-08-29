@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnMouseUp
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnMouseUpgebeurtenis.
+title: "IGlobalEventHandlers.OnMouseUp"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnMouseUp gebeurtenis. Haalt op of stelt de event handler in voor de OnMouseUp gebeurtenis."
 type: docs
 weight: 300
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onmouseup/
 ---
 ## IGlobalEventHandlers.OnMouseUp event
 
-Haalt of stelt gebeurtenishandler in voor OnMouseUp-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnMouseUp event.
 
 ```csharp
 public event DOMEventHandler OnMouseUp;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseUp;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

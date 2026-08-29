@@ -1,14 +1,14 @@
 ---
-title: Node.IsEqualNode
-second_title: Aspose.SVG voor .NET API-referentie
-description: Node methode. Test of twee knooppunten gelijk zijn. Deze methode test op gelijkheid van knooppunten niet gelijkheid dwz of de twee knooppunten verwijzingen naar hetzelfde object zijn wat kan worden getest met Node.isSameNode. Alle knooppunten die hetzelfde zijn zullen ook gelijk zijn hoewel het omgekeerde misschien niet waar is.
+title: "Node.IsEqualNode"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Node IsEqualNode methode. Testt of twee knooppunten gelijk zijn. Deze methode test op gelijkheid van knooppunten, niet op identiek zijn, d.w.z. of de twee knooppunten verwijzingen zijn naar hetzelfde object, wat kan worden getest met Node.isSameNode. Alle knooppunten die identiek zijn, zijn ook gelijk, hoewel het omgekeerde niet per se waar is."
 type: docs
-weight: 240
+weight: 220
 url: /nl/net/aspose.svg.dom/node/isequalnode/
 ---
 ## Node.IsEqualNode method
 
-Test of twee knooppunten gelijk zijn. Deze methode test op gelijkheid van knooppunten, niet gelijkheid (dwz of de twee knooppunten verwijzingen naar hetzelfde object zijn), wat kan worden getest met Node.isSameNode(). Alle knooppunten die hetzelfde zijn, zullen ook gelijk zijn, hoewel het omgekeerde misschien niet waar is.
+Test of twee knooppunten gelijk zijn. Deze methode test op gelijkheid van knooppunten, niet op identiek zijn (d.w.z. of de twee knooppunten verwijzingen naar hetzelfde object zijn), wat kan worden getest met Node.isSameNode(). Alle knooppunten die identiek zijn, zijn ook gelijk, hoewel het omgekeerde niet altijd waar is.
 
 ```csharp
 public bool IsEqualNode(Node otherNode)
@@ -18,14 +18,12 @@ public bool IsEqualNode(Node otherNode)
 | --- | --- | --- |
 | otherNode | Node | Het andere knooppunt. |
 
-### Winstwaarde
+### Retourwaarde
 
-`WAAR` if [is gelijk aan knoop] [de gespecificeerde arg]; anders,`vals` .
+`true` als [is equal node] [the specified arg]; anders, `false`.
 
 ### Zie ook
 
 * class [Node](../)
-* naamruimte [Aspose.Svg.Dom](../../node/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

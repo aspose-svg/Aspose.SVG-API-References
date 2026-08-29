@@ -1,14 +1,14 @@
 ---
-title: Struct GlyphInfo
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.GlyphInfo structuur. Bevat glyphgerelateerde informatie.
+title: "GlyphInfo Struct"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.GlyphInfo struct. Bevat glyph‑gerelateerde informatie."
 type: docs
-weight: 2790
+weight: 4870
 url: /nl/net/aspose.svg.rendering/glyphinfo/
 ---
 ## GlyphInfo structure
 
-Bevat glyph-gerelateerde informatie.
+Bevat informatie gerelateerd aan glyphs.
 
 ```csharp
 public struct GlyphInfo
@@ -18,20 +18,18 @@ public struct GlyphInfo
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | Haalt de index van deze glyph op in het font. |
-| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | Krijgt de offset naar de volgende glyph in punten. |
-| [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | Haalt de tekenreeksrepresentatie van deze glyph op. |
-| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | Krijgt de breedte van de glyph, in punten. |
+| [Index](../../aspose.svg.rendering/glyphinfo/index/) { get; } | Haalt de index van dit glyph in het lettertype op. |
+| [Offset](../../aspose.svg.rendering/glyphinfo/offset/) { get; } | Haalt de offset naar het volgende glyph in punten op. |
+| [StringRepresentation](../../aspose.svg.rendering/glyphinfo/stringrepresentation/) { get; } | Haalt de tekenreeksrepresentatie van dit glyph op. |
+| [Width](../../aspose.svg.rendering/glyphinfo/width/) { get; } | Haalt de breedte van het glyph op, in punten. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | Geeft als resultaat eenString die deze instantie vertegenwoordigt. |
+| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring/)() | Retourneert een String die deze instantie vertegenwoordigt. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

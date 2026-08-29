@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnLoadStart
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnLoadStartgebeurtenis.
+title: "IGlobalEventHandlers.OnLoadStart"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnLoadStart gebeurtenis. Haalt of stelt de event handler in voor de OnLoadStart gebeurtenis"
 type: docs
 weight: 230
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onloadstart/
 ---
 ## IGlobalEventHandlers.OnLoadStart event
 
-Haalt of stelt gebeurtenishandler in voor OnLoadStart-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnLoadStart event.
 
 ```csharp
 public event DOMEventHandler OnLoadStart;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoadStart;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

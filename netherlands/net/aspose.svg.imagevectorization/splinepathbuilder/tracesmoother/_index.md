@@ -1,14 +1,14 @@
 ---
-title: SplinePathBuilder.TraceSmoother
-second_title: Aspose.SVG voor .NET API-referentie
-description: SplinePathBuilder eigendom. Krijgt of stelt de trace vloeiender in.
+title: "SplinePathBuilder.TraceSmoother"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SplinePathBuilder TraceSmoother‑eigenschap. Haalt of stelt de trace‑verzachter in."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/
 ---
 ## SplinePathBuilder.TraceSmoother property
 
-Krijgt of stelt de trace vloeiender in.
+Haalt of stelt de trace smoother in.
 
 ```csharp
 public IImageTraceSmoother TraceSmoother { get; set; }
@@ -18,7 +18,5 @@ public IImageTraceSmoother TraceSmoother { get; set; }
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * class [SplinePathBuilder](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

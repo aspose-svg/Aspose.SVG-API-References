@@ -1,27 +1,25 @@
 ---
-title: HTMLCollection.GetPlatformType
-second_title: Aspose.SVG voor .NET API-referentie
-description: HTMLCollection methode. Deze methode wordt gebruikt om het ECMAScriptobject op te halenType .
+title: "HTMLCollection.GetPlatformType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "HTMLCollection GetPlatformType-methode. Deze methode wordt gebruikt om het ECMAScript-objecttype op te halen"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.collections/htmlcollection/getplatformtype/
 ---
 ## HTMLCollection.GetPlatformType method
 
-Deze methode wordt gebruikt om het ECMAScript-object op te halenType .
+Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen.
 
 ```csharp
 public override Type GetPlatformType()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Het ECMAScript-objectType .
+Het ECMAScript-objecttype.
 
 ### Zie ook
 
 * class [HTMLCollection](../)
-* naamruimte [Aspose.Svg.Collections](../../htmlcollection/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

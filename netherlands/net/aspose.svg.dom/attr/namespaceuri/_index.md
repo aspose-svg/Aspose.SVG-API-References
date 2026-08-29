@@ -1,14 +1,14 @@
 ---
-title: Attr.NamespaceURI
-second_title: Aspose.SVG voor .NET API-referentie
-description: Attr eigendom. De naamruimteURI van dit knooppunt of null als deze niet is gespecificeerd.
+title: "Attr.NamespaceURI"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Attr NamespaceURI eigenschap. De namespace-URI van dit knooppunt of null als deze niet is gespecificeerd"
 type: docs
-weight: 40
+weight: 30
 url: /nl/net/aspose.svg.dom/attr/namespaceuri/
 ---
 ## Attr.NamespaceURI property
 
-De naamruimte-URI van dit knooppunt, of null als deze niet is gespecificeerd.
+De namespace-URI van deze node, of null als deze niet is gespecificeerd.
 
 ```csharp
 public override string NamespaceURI { get; }
@@ -17,7 +17,5 @@ public override string NamespaceURI { get; }
 ### Zie ook
 
 * class [Attr](../)
-* naamruimte [Aspose.Svg.Dom](../../attr/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

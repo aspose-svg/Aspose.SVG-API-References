@@ -1,27 +1,25 @@
 ---
-title: ICSSCounterStyleRule.CounterType
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSCounterStyleRule eigendom. Krijgt het type van de teller.
+title: "ICSSCounterStyleRule.CounterType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSCounterStyleRule CounterType eigenschap. Haalt het type van de teller op"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.css/icsscounterstylerule/countertype/
 ---
 ## ICSSCounterStyleRule.CounterType property
 
-Krijgt het type van de teller.
+Haalt het type van de teller op.
 
 ```csharp
 public string CounterType { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het type van de teller.
 
 ### Zie ook
 
 * interface [ICSSCounterStyleRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

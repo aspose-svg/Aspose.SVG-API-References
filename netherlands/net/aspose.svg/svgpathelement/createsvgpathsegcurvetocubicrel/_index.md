@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicRel
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathElement methode. Retourneert een zelfstandig ouderloos SVGPathSegCurvetoCubicRelobject.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicRel"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicRel methode. Retourneert een zelfstandige, ouderloze SVGPathSegCurvetoCubicRel object"
 type: docs
 weight: 70
 url: /nl/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicRel method
 
-Retourneert een zelfstandig, ouderloos SVGPathSegCurvetoCubicRel-object.
+Retourneert een zelfstandige, ouderloze SVGPathSegCurvetoCubicRel object.
 
 ```csharp
 public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float y, float x1, 
@@ -17,22 +17,20 @@ public SVGPathSegCurvetoCubicRel CreateSVGPathSegCurvetoCubicRel(float x, float 
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| x | Single | De relatieve X-coördinaat voor het eindpunt van dit padsegment. |
-| y | Single | De relatieve Y-coördinaat voor het eindpunt van dit padsegment. |
+| x | Single | De relatieve X‑coördinaat voor het eindpunt van dit padsegment. |
+| y | Single | De relatieve Y‑coördinaat voor het eindpunt van dit padsegment. |
 | x1 | Single | De relatieve X-coördinaat voor het eerste controlepunt. |
 | y1 | Single | De relatieve Y-coördinaat voor het eerste controlepunt. |
 | x2 | Single | De relatieve X-coördinaat voor het tweede controlepunt. |
 | y2 | Single | De relatieve Y-coördinaat voor het tweede controlepunt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een zelfstandig, ouderloos SVGPathSegCurvetoCubicRel-object.
+Een zelfstandige, ouderloze SVGPathSegCurvetoCubicRel object.
 
 ### Zie ook
 
 * class [SVGPathSegCurvetoCubicRel](../../../aspose.svg.paths/svgpathsegcurvetocubicrel/)
 * class [SVGPathElement](../)
-* naamruimte [Aspose.Svg](../../svgpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

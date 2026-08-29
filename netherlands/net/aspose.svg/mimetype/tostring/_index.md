@@ -1,27 +1,25 @@
 ---
-title: MimeType.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: MimeType methode. Geeft als resultaat eenString dat staat voor Mimetype.
+title: "MimeType.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MimeType ToString-methode. Retourneert een String die het MIME-type vertegenwoordigt"
 type: docs
 weight: 70
 url: /nl/net/aspose.svg/mimetype/tostring/
 ---
 ## MimeType.ToString method
 
-Geeft als resultaat eenString dat staat voor Mime-type.
+Retourneert een string die het MIME-type weergeeft.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENString die deze instantie vertegenwoordigt.
+Een String die dit exemplaar vertegenwoordigt.
 
 ### Zie ook
 
 * class [MimeType](../)
-* naamruimte [Aspose.Svg](../../mimetype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

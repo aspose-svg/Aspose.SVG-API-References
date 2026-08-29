@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnEnded
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnEndedgebeurtenis.
+title: "IGlobalEventHandlers.OnEnded"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnEnded event. Haalt of stelt de eventhandler in voor OnEnded event"
 type: docs
 weight: 120
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onended/
 ---
 ## IGlobalEventHandlers.OnEnded event
 
-Haalt of stelt gebeurtenishandler in voor OnEnded-gebeurtenis.
+Haalt op of stelt de event‑handler in voor het OnEnded‑event.
 
 ```csharp
 public event DOMEventHandler OnEnded;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnEnded;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGRenderingIntent
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.ISVGRenderingIntent koppel. De SVGRenderingIntentinterface definieert de opgesomde lijst met mogelijke waarden voor renderingintentattributen of descriptors.
+title: "ISVGRenderingIntent-interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.ISVGRenderingIntent interface. De SVGRenderingIntent‑interface definieert de genummerde lijst van mogelijke waarden voor rendering‑intent‑attributen of -descriptors."
 type: docs
-weight: 2020
+weight: 4090
 url: /nl/net/aspose.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface
 
-De SVGRenderingIntent-interface definieert de opgesomde lijst met mogelijke waarden voor 'rendering-intent'-attributen of descriptors.
+De SVGRenderingIntent-interface definieert de genummerde lijst van mogelijke waarden voor ‘rendering-intent’-attributen of -descriptors.
 
 ```csharp
 public interface ISVGRenderingIntent
@@ -16,7 +16,5 @@ public interface ISVGRenderingIntent
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg](../../aspose.svg/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

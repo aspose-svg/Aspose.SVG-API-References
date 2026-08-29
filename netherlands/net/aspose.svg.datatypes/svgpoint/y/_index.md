@@ -1,7 +1,7 @@
 ---
-title: SVGPoint.Y
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPoint eigendom. De Ycoördinaat.
+title: "SVGPoint.Y"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPoint Y-eigenschap. De Y-coördinaat"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.datatypes/svgpoint/y/
@@ -14,20 +14,18 @@ De Y-coördinaat.
 public float Y { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De Y-coördinaat.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Verhoogd als het SVGPoint-object alleen-lezen is of overeenkomt met een DOM-attribuut dat alleen-lezen is. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Opgetreden als het SVGPoint-object alleen-lezen is, of overeenkomt met een DOM-attribuut dat alleen-lezen is. |
 
 ### Zie ook
 
 * class [SVGPoint](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgpoint/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ContentHeaders.ContentHeaders
-second_title: Aspose.SVG voor .NET API-referentie
-description: ContentHeaders constructeur. Initialiseert een nieuw exemplaar van hetContentHeaders klasse.
+title: "ContentHeaders"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ContentHeaders constructor. Initialiseert een nieuwe instantie van de ContentHeaders-klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net/contentheaders/contentheaders/
 ---
 ## ContentHeaders constructor
 
-Initialiseert een nieuw exemplaar van het[`ContentHeaders`](../) klasse.
+Initialiseert een nieuwe instantie van de [`ContentHeaders`](../) klasse.
 
 ```csharp
 public ContentHeaders()
@@ -17,7 +17,5 @@ public ContentHeaders()
 ### Zie ook
 
 * class [ContentHeaders](../)
-* naamruimte [Aspose.Svg.Net](../../contentheaders/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

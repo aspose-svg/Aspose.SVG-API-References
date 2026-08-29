@@ -1,7 +1,7 @@
 ---
-title: SVGSaveOptions.VectorizeText
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGSaveOptions eigendom. Haalt op of stelt in of tekstelementen worden vervangen door paden.
+title: "SVGSaveOptions.VectorizeText"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGSaveOptions VectorizeText eigenschap. Haalt op of stelt in of textelementen worden vervangen door paden"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.saving/svgsaveoptions/vectorizetext/
@@ -17,7 +17,5 @@ public bool VectorizeText { get; set; }
 ### Zie ook
 
 * class [SVGSaveOptions](../)
-* naamruimte [Aspose.Svg.Saving](../../svgsaveoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

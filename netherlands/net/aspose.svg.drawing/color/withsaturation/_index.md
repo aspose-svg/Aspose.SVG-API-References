@@ -1,14 +1,14 @@
 ---
-title: Color.WithSaturation
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Maakt een kopie van de kleur met gespecificeerde verzadiging.
+title: "Color.WithSaturation"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color WithSaturation-methode. Maakt een kopie van de Color met de opgegeven verzadiging"
 type: docs
 weight: 480
 url: /nl/net/aspose.svg.drawing/color/withsaturation/
 ---
 ## Color.WithSaturation method
 
-Maakt een kopie van de kleur met gespecificeerde verzadiging.
+Maakt een kopie van de kleur met opgegeven verzadiging.
 
 ```csharp
 public Color WithSaturation(float saturation)
@@ -18,14 +18,12 @@ public Color WithSaturation(float saturation)
 | --- | --- | --- |
 | saturation | Single | Waarde van verzadiging. |
 
-### Winstwaarde
+### Retourwaarde
 
-&gt;Een nieuw exemplaar van de[`Color`](../) klas.
+&gt;Een nieuw exemplaar van de [`Color`](../) klasse.
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

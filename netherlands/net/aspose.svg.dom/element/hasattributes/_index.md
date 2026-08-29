@@ -1,27 +1,25 @@
 ---
-title: Element.HasAttributes
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element methode. Geeft terug of dit knooppunt als het een element is attributen heeft
+title: "Element.HasAttributes"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element HasAttributes-methode. Retourneert of dit knooppunt, indien het een element is, attributen heeft"
 type: docs
 weight: 330
 url: /nl/net/aspose.svg.dom/element/hasattributes/
 ---
 ## Element.HasAttributes method
 
-Geeft terug of dit knooppunt (als het een element is) attributen heeft
+Retourneert of dit knooppunt (indien het een element is) attributen heeft.
 
 ```csharp
-public override bool HasAttributes()
+public bool HasAttributes()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-booleaans`WAAR` als dit knooppunt attributen heeft,`vals` anders.
+boolean `true` als dit knooppunt attributen heeft, `false` anders.
 
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

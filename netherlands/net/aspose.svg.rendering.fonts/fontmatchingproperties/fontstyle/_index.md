@@ -1,14 +1,14 @@
 ---
-title: FontMatchingProperties.FontStyle
-second_title: Aspose.SVG voor .NET API-referentie
-description: FontMatchingProperties eigendom. Haalt de waarde van de lettertypestijl op. Deze eigenschap kan dergelijke waarden hebben normaal cursief schuin.
+title: "FontMatchingProperties.FontStyle"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "FontMatchingProperties FontStyle eigenschap. Haalt de lettertype‑stijlwaarde op. Deze eigenschap kan de volgende waarden hebben normal italic oblique"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontstyle/
 ---
 ## FontMatchingProperties.FontStyle property
 
-Haalt de waarde van de lettertypestijl op. Deze eigenschap kan dergelijke waarden hebben: normaal, cursief, schuin.
+Haalt de lettertype‑stijlhouding op. Deze eigenschap kan de volgende waarden hebben: normal, italic, oblique.
 
 ```csharp
 public string FontStyle { get; }
@@ -17,7 +17,5 @@ public string FontStyle { get; }
 ### Zie ook
 
 * class [FontMatchingProperties](../)
-* naamruimte [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

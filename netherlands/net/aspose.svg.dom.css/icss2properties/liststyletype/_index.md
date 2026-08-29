@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.ListStyleType
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de eigenschapsdefinitie van het type lijststijl in CSS2.
+title: "ICSS2Properties.ListStyleType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties ListStyleType eigenschap. Zie de definitie van de list-style-type property in CSS2"
 type: docs
-weight: 620
+weight: 650
 url: /nl/net/aspose.svg.dom.css/icss2properties/liststyletype/
 ---
 ## ICSS2Properties.ListStyleType property
 
-Zie de eigenschapsdefinitie van het type lijststijl in CSS2.
+Zie de list-style-type eigenschapdefinitie in CSS2.
 
 ```csharp
 public string ListStyleType { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-eigenschap van het type lijststijl
+list-style-type property
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

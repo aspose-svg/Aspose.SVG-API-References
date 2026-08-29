@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.LineHeight
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de definitie van de regelhoogteeigenschap in CSS2.
+title: "ICSS2Properties.LineHeight"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties LineHeight eigenschap. Zie de definitie van de line-height property in CSS2"
 type: docs
-weight: 580
+weight: 610
 url: /nl/net/aspose.svg.dom.css/icss2properties/lineheight/
 ---
 ## ICSS2Properties.LineHeight property
 
-Zie de definitie van de regelhoogte-eigenschap in CSS2.
+Zie de line-height eigenschapdefinitie in CSS2.
 
 ```csharp
 public string LineHeight { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-regelhoogte eigenschap
+line-height property
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

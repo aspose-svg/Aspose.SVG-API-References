@@ -1,24 +1,34 @@
 ---
-title: Node.OwnerDocument
-second_title: Aspose.SVG voor .NET API-referentie
-description: Node eigendom. Het documentobject dat aan dit knooppunt is gekoppeld. Dit is ook het documentobject dat wordt gebruikt om nieuwe knooppunten te maken. Als dit knooppunt een document is of een documenttype dat nog niet met een document wordt gebruikt is dit null.
+title: "Node.OwnerDocument"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Node OwnerDocument-eigenschap. Retourneert het bovenliggende documentobject van de knoop."
 type: docs
-weight: 120
+weight: 110
 url: /nl/net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-Het documentobject dat aan dit knooppunt is gekoppeld. Dit is ook het documentobject dat wordt gebruikt om nieuwe knooppunten te maken. Als dit knooppunt een document is of een documenttype dat nog niet met een document wordt gebruikt, is dit null.
+Retourneert het bovenliggende documentobject van het knooppunt.
 
 ```csharp
 public virtual Document OwnerDocument { get; }
 ```
 
+### Property Value
+
+Een [`Document`](../../document/) dat het bovenliggende object is waarin alle kindknopen worden aangemaakt.
+
+Als deze eigenschap wordt gebruikt op een knoop die zelf een document is, is de waarde null.
+
+## Opmerkingen
+
+Referentie:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
+
 ### Zie ook
 
 * class [Document](../../document/)
 * class [Node](../)
-* naamruimte [Aspose.Svg.Dom](../../node/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

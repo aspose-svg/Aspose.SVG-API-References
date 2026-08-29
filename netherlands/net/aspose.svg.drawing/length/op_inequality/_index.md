@@ -1,7 +1,7 @@
 ---
-title: Length.op_Inequality
-second_title: Aspose.SVG voor .NET API-referentie
-description: Length methode. Implementeert de operator .
+title: "Length.op_Inequality"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Length op_Inequality methode. Implementeert de operator"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.drawing/length/op_inequality/
@@ -19,14 +19,12 @@ public static bool operator !=(Length a, Length b)
 | a | Length | De parameter a. |
 | b | Length | De parameter b. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het resultaat van de operator.
 
 ### Zie ook
 
 * class [Length](../)
-* naamruimte [Aspose.Svg.Drawing](../../length/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: StencilConfiguration.Type
-second_title: Aspose.SVG voor .NET API-referentie
-description: StencilConfiguration eigendom. Haalt of stelt deStencilType .
+title: "StencilConfiguration.Type"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "StencilConfiguration Type‑eigenschap. Haalt of stelt de StencilType in."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.imagevectorization/stencilconfiguration/type/
 ---
 ## StencilConfiguration.Type property
 
-Haalt of stelt de[`StencilType`](../../stenciltype/) .
+Haalt of stelt de [`StencilType`](../../stenciltype/) in.
 
 ```csharp
 public StencilType Type { get; set; }
@@ -18,7 +18,5 @@ public StencilType Type { get; set; }
 
 * enum [StencilType](../../stenciltype/)
 * class [StencilConfiguration](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

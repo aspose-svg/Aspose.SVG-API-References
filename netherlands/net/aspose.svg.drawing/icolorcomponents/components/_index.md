@@ -1,7 +1,7 @@
 ---
-title: IColorComponents.Components
-second_title: Aspose.SVG voor .NET API-referentie
-description: IColorComponents eigendom. Retourneert de kleurcomponenten als floatarray.
+title: "IColorComponents.Components"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IColorComponents Components eigenschap. Retourneert de kleurcomponenten als float-array"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.drawing/icolorcomponents/components/
@@ -17,7 +17,5 @@ public float[] Components { get; }
 ### Zie ook
 
 * interface [IColorComponents](../)
-* naamruimte [Aspose.Svg.Drawing](../../icolorcomponents/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Event.Target
-second_title: Aspose.SVG voor .NET API-referentie
-description: Event eigendom. Wordt gebruikt om deIEventTarget waarnaar het evenement oorspronkelijk is verzonden.
+title: "Event.Target"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Event Target property. Gebruikt om de IEventTarget aan te geven naar welk object het evenement oorspronkelijk is verzonden."
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.dom.events/event/target/
 ---
 ## Event.Target property
 
-Wordt gebruikt om de[`IEventTarget`](../../ieventtarget/) waarnaar het evenement oorspronkelijk is verzonden.
+Gebruikt om de [`IEventTarget`](../../ieventtarget/) aan te geven waarnaar het evenement oorspronkelijk is verzonden.
 
 ```csharp
 public EventTarget Target { get; }
@@ -18,7 +18,5 @@ public EventTarget Target { get; }
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [Event](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../event/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

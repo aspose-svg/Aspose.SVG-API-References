@@ -1,14 +1,14 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_NUMBER
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGLength veld. Er is geen eenheidstype opgegeven d.w.z. er is een eenheidsloze waarde opgegeven wat een waarde aangeeft in gebruikerseenheden.
+title: "SVGLength.SVG_LENGTHTYPE_NUMBER"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGLength SVG_LENGTHTYPE_NUMBER veld. Er werd geen eenheidstype opgegeven, d.w.z. een eenheidloze waarde werd gespecificeerd die een waarde in gebruikerseenheden aangeeft."
 type: docs
 weight: 130
 url: /nl/net/aspose.svg.datatypes/svglength/svg_lengthtype_number/
 ---
 ## SVGLength.SVG_LENGTHTYPE_NUMBER field
 
-Er is geen eenheidstype opgegeven (d.w.z. er is een eenheidsloze waarde opgegeven), wat een waarde aangeeft in gebruikerseenheden.
+Er werd geen eenheidstype opgegeven (d.w.z. een eenheidsloze waarde werd gespecificeerd), wat een waarde in gebruikers‑eenheden aangeeft.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_NUMBER;
@@ -17,7 +17,5 @@ public const ushort SVG_LENGTHTYPE_NUMBER;
 ### Zie ook
 
 * class [SVGLength](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svglength/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: SVGAnimationElement.RequiredExtensions
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGAnimationElement eigendom. Komt overeen met attribuut requiredExtensions op het gegeven element.
+title: "SVGAnimationElement.RequiredExtensions"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGAnimationElement RequiredExtensions-eigenschap. Komt overeen met het attribuut requiredExtensions op het gegeven element."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svganimationelement/requiredextensions/
 ---
 ## SVGAnimationElement.RequiredExtensions property
 
-Komt overeen met attribuut 'requiredExtensions' op het gegeven element.
+Komt overeen met het attribuut ‘requiredExtensions’ van het opgegeven element.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De vereiste extensies.
 
@@ -22,7 +22,5 @@ De vereiste extensies.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGAnimationElement](../)
-* naamruimte [Aspose.Svg](../../svganimationelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

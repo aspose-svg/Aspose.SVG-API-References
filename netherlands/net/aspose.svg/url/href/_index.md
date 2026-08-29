@@ -1,33 +1,31 @@
 ---
-title: Url.Href
-second_title: Aspose.SVG voor .NET API-referentie
-description: Url eigendom. Haalt een geserialiseerde weergave op of stelt deze in voor de opgegeven URLinstantie.
+title: "Url.Href"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Url Href-eigenschap. Haalt op of stelt een geserialiseerde representatie in voor de opgegeven URL-instantie."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg/url/href/
 ---
 ## Url.Href property
 
-Haalt een geserialiseerde weergave op of stelt deze in voor de opgegeven URL-instantie.
+Haalt op of stelt een geserialiseerde representatie in voor het opgegeven URL-exemplaar.
 
 ```csharp
 public string Href { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De href.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| Error | TypeError: verhoogd als`waarde` kan niet worden geparseerd als geldige URL. |
+| Fout | TypeError: opgegooid als `value` niet als geldige URL kan worden geparseerd. |
 
 ### Zie ook
 
 * class [Url](../)
-* naamruimte [Aspose.Svg](../../url/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

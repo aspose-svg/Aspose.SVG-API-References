@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothRel
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathElement methode. Retourneert een zelfstandig ouderloos SVGPathSegCurvetoCubicSmoothRelobject.
+title: "SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothRel"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathElement CreateSVGPathSegCurvetoCubicSmoothRel methode. Retourneert een zelfstandige, ouderloze SVGPathSegCurvetoCubicSmoothRel object"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicSmoothRel method
 
-Retourneert een zelfstandig, ouderloos SVGPathSegCurvetoCubicSmoothRel-object.
+Retourneert een zelfstandige, ouderloze SVGPathSegCurvetoCubicSmoothRel object.
 
 ```csharp
 public SVGPathSegCurvetoCubicSmoothRel CreateSVGPathSegCurvetoCubicSmoothRel(float x, float y, 
@@ -17,20 +17,18 @@ public SVGPathSegCurvetoCubicSmoothRel CreateSVGPathSegCurvetoCubicSmoothRel(flo
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| x | Single | De relatieve X-coördinaat voor het eindpunt van dit padsegment. |
-| y | Single | De relatieve Y-coördinaat voor het eindpunt van dit padsegment. |
+| x | Single | De relatieve X‑coördinaat voor het eindpunt van dit padsegment. |
+| y | Single | De relatieve Y‑coördinaat voor het eindpunt van dit padsegment. |
 | x2 | Single | De relatieve X-coördinaat voor het tweede controlepunt. |
 | y2 | Single | De relatieve Y-coördinaat voor het tweede controlepunt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een zelfstandig, ouderloos SVGPathSegCurvetoCubicSmoothRel-object.
+Een zelfstandig, ouderloos SVGPathSegCurvetoCubicSmoothRel object.
 
 ### Zie ook
 
 * class [SVGPathSegCurvetoCubicSmoothRel](../../../aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/)
 * class [SVGPathElement](../)
-* naamruimte [Aspose.Svg](../../svgpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

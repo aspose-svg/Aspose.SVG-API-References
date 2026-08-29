@@ -1,14 +1,14 @@
 ---
-title: DocumentType.DocumentType
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentType constructeur. Initialiseert een nieuw exemplaar van hetDocumentType klasse.
+title: "DocumentType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentType constructor. Initialiseert een nieuw exemplaar van de DocumentType-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
 
-Initialiseert een nieuw exemplaar van het[`DocumentType`](../) klasse.
+Initialiseert een nieuw exemplaar van the [`DocumentType`](../) klasse.
 
 ```csharp
 public DocumentType(string name, string publicId, string systemId, string internalSubset, 
@@ -17,17 +17,15 @@ public DocumentType(string name, string publicId, string systemId, string intern
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | De naam van de entiteit. |
-| publicId | String | Het openbare ID. |
-| systemId | String | Het systeem-ID. |
-| internalSubset | String | De interne deelverzameling. |
+| naam | String | De entiteitsnaam. |
+| publicId | String | De openbare id. |
+| systemId | String | De systeem-id. |
+| internalSubset | String | De interne subset. |
 | doc | Document | Het document. |
 
 ### Zie ook
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* naamruimte [Aspose.Svg.Dom](../../documenttype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

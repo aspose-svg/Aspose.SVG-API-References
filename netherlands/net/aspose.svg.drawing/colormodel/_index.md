@@ -1,14 +1,14 @@
 ---
-title: Enum ColorModel
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Drawing.ColorModel opsomming. Deze opsomming wordt gebruikt om het kleurmodel te selecteren voor het werken met kleurcomponenten.
+title: "ColorModel‑enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Drawing.ColorModel‑enum. Deze enumeratie wordt gebruikt om het kleurmodel te selecteren voor het werken met kleurcomponenten"
 type: docs
-weight: 1400
+weight: 3400
 url: /nl/net/aspose.svg.drawing/colormodel/
 ---
 ## ColorModel enumeration
 
-Deze opsomming wordt gebruikt om het kleurmodel te selecteren voor het werken met kleurcomponenten.
+Deze enumeratie wordt gebruikt om het kleurmodel te selecteren voor het werken met kleurcomponenten.
 
 ```csharp
 public enum ColorModel
@@ -18,19 +18,17 @@ public enum ColorModel
 
 | Naam | Waarde | Beschrijving |
 | --- | --- | --- |
-| Rgb | `0` | Kleur rood-groen-blauw model |
-| Hsl | `1` | kleurtoon-verzadiging-helderheid kleurmodel |
-| Hsv | `2` | Tint-verzadiging-waarde kleurmodel |
-| Hwb | `3` | Tint-witheid-zwartheid kleurmodel |
-| Cmyk | `4` | Cyaan-Magenta-Geel-Key kleurmodel |
-| Lab | `5` | Lichtheid-AB kleurmodel |
-| Oklab | `6` | Verbeterde lichtheid-AB-model |
-| Lch | `7` | Luminantie-Chroma-Hue kleurmodel |
-| Oklch | `8` | Verbeterd Luminantie-Chroma-Hue kleurmodel |
+| Rgb | `0` | Rood‑Groen‑Blauw‑kleurmodel |
+| Hsl | `1` | Tint‑Verzadiging‑Luminantie‑kleurmodel |
+| Hsv | `2` | Tint‑Verzadiging‑Waarde‑kleurmodel |
+| Hwb | `3` | Tint‑Wit‑Zwart‑kleurmodel |
+| Cmyk | `4` | Cyaan‑Magenta‑Geel‑Key‑kleurmodel |
+| Lab | `5` | Lichtheid‑A‑B‑kleurmodel |
+| Oklab | `6` | Verbeterd Lichtheid-A-B model |
+| Lch | `7` | Luminantie-Chroma-Tint kleurenmodel |
+| Oklch | `8` | Verbeterd Luminantie-Chroma-Tint kleurenmodel |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

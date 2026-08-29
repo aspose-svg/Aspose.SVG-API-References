@@ -1,20 +1,20 @@
 ---
-title: IDocumentView.DefaultView
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDocumentView eigendom. De standaard AbstractView voor dit document of null als er geen beschikbaar is.
+title: "IDocumentView.DefaultView"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDocumentView DefaultView eigenschap. De standaard AbstractView voor dit Document of null indien niet beschikbaar"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.views/idocumentview/defaultview/
 ---
 ## IDocumentView.DefaultView property
 
-De standaard AbstractView voor dit document, of null als er geen beschikbaar is.
+De standaard‑AbstractView voor dit Document, of null indien niet beschikbaar.
 
 ```csharp
 public IAbstractView DefaultView { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De standaardweergave.
 
@@ -22,7 +22,5 @@ De standaardweergave.
 
 * interface [IAbstractView](../../iabstractview/)
 * interface [IDocumentView](../)
-* naamruimte [Aspose.Svg.Dom.Views](../../idocumentview/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../../)

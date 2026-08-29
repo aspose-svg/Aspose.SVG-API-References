@@ -1,14 +1,14 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathElement methode. Retourneert een zelfstandig ouderloos SVGPathSegLinetoHorizontalAbsobject.
+title: "SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathElement CreateSVGPathSegLinetoHorizontalAbs methode. Retourneert een zelfstandige, ouderloze SVGPathSegLinetoHorizontalAbs object"
 type: docs
 weight: 150
 url: /nl/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs method
 
-Retourneert een zelfstandig, ouderloos SVGPathSegLinetoHorizontalAbs-object.
+Retourneert een zelfstandige, ouderloze SVGPathSegLinetoHorizontalAbs object.
 
 ```csharp
 public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x)
@@ -18,15 +18,13 @@ public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x
 | --- | --- | --- |
 | x | Single | De absolute X-coördinaat voor het eindpunt van dit padsegment. |
 
-### Winstwaarde
+### Retourwaarde
 
-Een zelfstandig, ouderloos SVGPathSegLinetoHorizontalAbs-object.
+Een zelfstandige, ouderloze SVGPathSegLinetoHorizontalAbs object.
 
 ### Zie ook
 
 * class [SVGPathSegLinetoHorizontalAbs](../../../aspose.svg.paths/svgpathseglinetohorizontalabs/)
 * class [SVGPathElement](../)
-* naamruimte [Aspose.Svg](../../svgpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

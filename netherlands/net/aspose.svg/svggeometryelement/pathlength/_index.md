@@ -1,28 +1,26 @@
 ---
-title: SVGGeometryElement.PathLength
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGGeometryElement eigendom. Komt overeen met attribuut pathLength op het gegeven element.
+title: "SVGGeometryElement.PathLength"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGGeometryElement PathLength-eigenschap. Komt overeen met het attribuut pathLength op het opgegeven element."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svggeometryelement/pathlength/
 ---
 ## SVGGeometryElement.PathLength property
 
-Komt overeen met attribuut pathLength op het gegeven element.
+Komt overeen met het attribuut pathLength op het opgegeven element.
 
 ```csharp
 public SVGAnimatedNumber PathLength { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut pathLength op het gegeven element.
+Het attribuut pathLength op het opgegeven element.
 
 ### Zie ook
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGGeometryElement](../)
-* naamruimte [Aspose.Svg](../../svggeometryelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

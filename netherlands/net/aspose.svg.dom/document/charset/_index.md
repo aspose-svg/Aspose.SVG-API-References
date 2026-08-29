@@ -1,7 +1,7 @@
 ---
-title: Document.Charset
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document eigendom. Haalt de codering van het document op.
+title: "Document.Charset"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document Charset eigenschap. Geeft de codering van het document terug"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom/document/charset/
@@ -14,14 +14,12 @@ Haalt de codering van het document op.
 public string Charset { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De codering van het document.
 
 ### Zie ook
 
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

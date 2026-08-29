@@ -1,14 +1,14 @@
 ---
-title: StencilConfiguration.Color
-second_title: Aspose.SVG voor .NET API-referentie
-description: StencilConfiguration eigendom. Hiermee wordt de kleur voor het renderen van stencillijnen voor het type MonoColor opgehaald of ingesteld.
+title: "StencilConfiguration.Color"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "StencilConfiguration Color‑eigenschap. Haalt of stelt de kleur in voor het renderen van stencil‑lijnen voor het MonoColor‑type."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.imagevectorization/stencilconfiguration/color/
 ---
 ## StencilConfiguration.Color property
 
-Hiermee wordt de kleur voor het renderen van stencillijnen voor het type MonoColor opgehaald of ingesteld.
+Haalt op of stelt de kleur in voor het renderen van stencil‑lijnen voor het MonoColor-type.
 
 ```csharp
 public Color Color { get; set; }
@@ -18,7 +18,5 @@ public Color Color { get; set; }
 
 * class [Color](../../../aspose.svg.drawing/color/)
 * class [StencilConfiguration](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

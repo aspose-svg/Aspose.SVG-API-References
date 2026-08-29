@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Prefix
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSCounterStyleRule eigendom. Krijgt het voorvoegsel.
+title: "ICSSCounterStyleRule.Prefix"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSCounterStyleRule Prefix eigenschap. Haalt de prefix op"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom.css/icsscounterstylerule/prefix/
 ---
 ## ICSSCounterStyleRule.Prefix property
 
-Krijgt het voorvoegsel.
+Haalt het voorvoegsel op.
 
 ```csharp
 public string Prefix { get; }
@@ -17,7 +17,5 @@ public string Prefix { get; }
 ### Zie ook
 
 * interface [ICSSCounterStyleRule](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

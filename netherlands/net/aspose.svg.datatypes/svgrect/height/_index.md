@@ -1,7 +1,7 @@
 ---
-title: SVGRect.Height
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGRect eigendom. De hoogtecoördinaat van de rechthoek in gebruikerseenheden.
+title: "SVGRect.Height"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGRect Height-eigenschap. De hoogtecoördinaat van de rechthoek in gebruikerseenheden"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.datatypes/svgrect/height/
@@ -14,20 +14,18 @@ De hoogtecoördinaat van de rechthoek, in gebruikerseenheden.
 public float Height { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De hoogtecoördinaat van de rechthoek, in gebruikerseenheden.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Verhoogd wanneer de rechthoek overeenkomt met een alleen-lezen kenmerk of wanneer het object zelf alleen-lezen is. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Opgetreden wanneer de rechthoek overeenkomt met een alleen-lezen attribuut of wanneer het object zelf alleen-lezen is. |
 
 ### Zie ook
 
 * class [SVGRect](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgrect/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

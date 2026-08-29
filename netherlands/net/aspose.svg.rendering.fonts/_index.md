@@ -1,18 +1,16 @@
 ---
-title: Aspose.Svg.Rendering.Fonts
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Rendering.Fonts naamruimte bevat klassen en methoden waarmee u bepaalde delen van het algoritme voor het matchen van lettertypen kunt besturen.
+title: "Aspose.Svg.Rendering.Fonts"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.Rendering.Fonts namespace bevat klassen en methoden die je in staat stellen enkele delen van het font‑matching‑algoritme te beheersen."
 type: docs
-weight: 250
+weight: 270
 url: /nl/net/aspose.svg.rendering.fonts/
 ---
-De **Aspose.Svg.Rendering.Fonts** naamruimte bevat klassen en methoden waarmee u bepaalde delen van het algoritme voor het matchen van lettertypen kunt besturen.
+De **Aspose.Svg.Rendering.Fonts** namespace bevat klassen en methoden die je in staat stellen enkele delen van het lettertype‑matchingsalgoritme te beheersen.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [FontMatcher](./fontmatcher/) | Met deze klasse kunt u bepaalde delen van het algoritme voor het matchen van lettertypen beheren. |
-| [FontMatchingProperties](./fontmatchingproperties/) | Deze klasse bevat eigenschappen die het overeenkomende lettertype beschrijven. |
-
-
+| [FontMatcher](./fontmatcher/) | Deze klasse stelt je in staat enkele delen van het font‑matching‑algoritme te beheersen. |
+| [FontMatchingProperties](./fontmatchingproperties/) | Deze klasse bevat eigenschappen die het te matchen font beschrijven. |

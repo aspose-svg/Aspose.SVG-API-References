@@ -1,28 +1,26 @@
 ---
-title: ITraversal.Root
-second_title: Aspose.SVG voor .NET API-referentie
-description: ITraversal eigendom. Het hoofdknooppunt van de NodeIterator zoals opgegeven toen it werd gemaakt.
+title: "ITraversal.Root"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ITraversal Root eigenschap. De root‑knoop van de NodeIterator zoals gespecificeerd bij het aanmaken."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.traversal/itraversal/root/
 ---
 ## ITraversal.Root property
 
-Het hoofdknooppunt van de NodeIterator, zoals opgegeven toen it werd gemaakt.
+De rootnode van de NodeIterator, zoals gespecificeerd toen deze werd aangemaakt.
 
 ```csharp
 public Node Root { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De wortel.
+De root.
 
 ### Zie ook
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITraversal](../)
-* naamruimte [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Spacing
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGTextPathElement eigendom. Komt overeen met attribuut spacing op het gegeven textPathelement.
+title: "SVGTextPathElement.Spacing"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGTextPathElement Spacing eigenschap. Komt overeen met het attribuut spacing op het opgegeven textPath-element."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg/svgtextpathelement/spacing/
 ---
 ## SVGTextPathElement.Spacing property
 
-Komt overeen met attribuut 'spacing' op het gegeven 'textPath'-element.
+Komt overeen met attribuut ‘spacing’ op het opgegeven ‘textPath’-element.
 
 ```csharp
 public SVGAnimatedEnumeration Spacing { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'spacing' van het gegeven 'textPath' element.
+Het attribuut ‘spacing’ van het opgegeven ‘textPath’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* naamruimte [Aspose.Svg](../../svgtextpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.RefY
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGMarkerElement eigendom. Komt overeen met attribuut refY op het gegeven markerelement.
+title: "SVGMarkerElement.RefY"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGMarkerElement RefY-eigenschap. Komt overeen met attribuut refY op het opgegeven marker-element"
 type: docs
 weight: 80
 url: /nl/net/aspose.svg/svgmarkerelement/refy/
 ---
 ## SVGMarkerElement.RefY property
 
-Komt overeen met attribuut 'refY' op het gegeven 'marker'-element.
+Komt overeen met het attribuut ‘refY’ op het opgegeven ‘marker’-element.
 
 ```csharp
 public SVGAnimatedLength RefY { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'refY' van het gegeven 'marker' element.
+Het attribuut ‘refY’ van het opgegeven ‘marker’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* naamruimte [Aspose.Svg](../../svgmarkerelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

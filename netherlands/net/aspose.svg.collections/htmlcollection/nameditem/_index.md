@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.NamedItem
-second_title: Aspose.SVG voor .NET API-referentie
-description: HTMLCollection methode. Retourneert het item in de verzameling dat overeenkomt met de gespecificeerde naam.
+title: "HTMLCollection.NamedItem"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "HTMLCollection NamedItem-methode. Retourneert het item in de collectie dat overeenkomt met de opgegeven naam"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.collections/htmlcollection/nameditem/
 ---
 ## HTMLCollection.NamedItem method
 
-Retourneert het item in de verzameling dat overeenkomt met de gespecificeerde naam.
+Retourneert het item in de collectie dat overeenkomt met de opgegeven naam.
 
 ```csharp
 public Element NamedItem(string name)
@@ -16,9 +16,9 @@ public Element NamedItem(string name)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | De elementnaam. |
+| naam | String | De elementnaam. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het overeenkomende element
 
@@ -26,7 +26,5 @@ Het overeenkomende element
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* naamruimte [Aspose.Svg.Collections](../../htmlcollection/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Attr.Value
-second_title: Aspose.SVG voor .NET API-referentie
-description: Attr eigendom. Bij het ophalen wordt de waarde van het attribuut geretourneerd als een tekenreeks.
+title: "Attr.Value"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Attr Value‑eigenschap. Bij ophalen wordt de waarde van het attribuut als een tekenreeks geretourneerd."
 type: docs
-weight: 130
+weight: 110
 url: /nl/net/aspose.svg.dom/attr/value/
 ---
 ## Attr.Value property
@@ -14,14 +14,12 @@ Bij het ophalen wordt de waarde van het attribuut geretourneerd als een tekenree
 public string Value { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De waarde.
 
 ### Zie ook
 
 * class [Attr](../)
-* naamruimte [Aspose.Svg.Dom](../../attr/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

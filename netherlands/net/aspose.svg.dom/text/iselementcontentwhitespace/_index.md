@@ -1,27 +1,25 @@
 ---
-title: Text.IsElementContentWhitespace
-second_title: Aspose.SVG voor .NET API-referentie
-description: Text eigendom. Retourneert of dit tekstknooppunt witruimte voor elementinhoud bevat vaak ten onrechte negeerbare witruimte genoemd.
+title: "Text.IsElementContentWhitespace"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Text IsElementContentWhitespace eigenschap. Geeft terug of dit tekstknooppunt elementinhoudspaties bevat, vaak abusief ignorable whitespace genoemd"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 
-Retourneert of dit tekstknooppunt witruimte voor elementinhoud bevat, vaak ten onrechte "negeerbare witruimte" genoemd.
+Retourneert of dit tekstknooppunt witruimte bevat die tot elementinhoud behoort, vaak abusief "ignorable whitespace" genoemd.
 
 ```csharp
 public bool IsElementContentWhitespace { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als deze instantie element inhoud witruimte is; anders,`vals` .
+`true` als deze instantie elementinhoudspaties is; anders `false`.
 
 ### Zie ook
 
 * class [Text](../)
-* naamruimte [Aspose.Svg.Dom](../../text/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

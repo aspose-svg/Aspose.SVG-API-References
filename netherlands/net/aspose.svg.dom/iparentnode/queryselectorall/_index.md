@@ -1,14 +1,14 @@
 ---
-title: IParentNode.QuerySelectorAll
-second_title: Aspose.SVG voor .NET API-referentie
-description: IParentNode methode. Retourneert alle afstammelingen van elementen van knooppunten die overeenkomen met selectors.
+title: "IParentNode.QuerySelectorAll"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IParentNode QuerySelectorAll-methode. Retourneert alle element-afstammelingen van node die overeenkomen met selectors"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom/iparentnode/queryselectorall/
 ---
 ## IParentNode.QuerySelectorAll method
 
-Retourneert alle afstammelingen van elementen van knooppunten die overeenkomen met selectors.
+Retourneert alle elementafstammelingen van node die overeenkomen met selectors.
 
 ```csharp
 public NodeList QuerySelectorAll(string selectors)
@@ -16,17 +16,15 @@ public NodeList QuerySelectorAll(string selectors)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| selectors | String | De kiezers. |
+| selectoren | String | De selectoren. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert het statische resultaat van het uitvoeren van scope-match a selectors string selectors tegen het contextobject.
+Retourneert het statische resultaat van het uitvoeren van scope-match op een selectors-string selectors tegen het contextobject.
 
 ### Zie ook
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * interface [IParentNode](../)
-* naamruimte [Aspose.Svg.Dom](../../iparentnode/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

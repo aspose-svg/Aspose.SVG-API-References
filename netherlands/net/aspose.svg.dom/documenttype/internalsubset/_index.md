@@ -1,7 +1,7 @@
 ---
-title: DocumentType.InternalSubset
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentType eigendom. De interne subset als een string of null als er geen is.
+title: "DocumentType.InternalSubset"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentType InternalSubset property. De interne subset als een string of null als er geen is"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom/documenttype/internalsubset/
@@ -14,14 +14,12 @@ De interne subset als een string, of null als er geen is.
 public string InternalSubset { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De interne subset.
 
 ### Zie ook
 
 * class [DocumentType](../)
-* naamruimte [Aspose.Svg.Dom](../../documenttype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

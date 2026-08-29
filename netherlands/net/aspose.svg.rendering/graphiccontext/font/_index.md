@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.Font
-second_title: Aspose.SVG voor .NET API-referentie
-description: GraphicContext eigendom. Stelt het True Type Fontobject in of haalt het op dat wordt gebruikt voor het weergeven van tekst.
+title: "GraphicContext.Font"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "GraphicContext Font-eigenschap. Stelt het TrueType-lettertypeobject in of haalt het op dat wordt gebruikt voor het renderen van tekst."
 type: docs
-weight: 40
+weight: 50
 url: /nl/net/aspose.svg.rendering/graphiccontext/font/
 ---
 ## GraphicContext.Font property
 
-Stelt het True Type Font-object in of haalt het op dat wordt gebruikt voor het weergeven van tekst.
+Stelt het TrueType‑lettertypeobject in dat wordt gebruikt voor het renderen van tekst, of haalt het op.
 
 ```csharp
 public virtual ITrueTypeFont Font { get; set; }
@@ -18,7 +18,5 @@ public virtual ITrueTypeFont Font { get; set; }
 
 * interface [ITrueTypeFont](../../../aspose.svg.drawing/itruetypefont/)
 * class [GraphicContext](../)
-* naamruimte [Aspose.Svg.Rendering](../../graphiccontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

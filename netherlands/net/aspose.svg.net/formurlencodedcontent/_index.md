@@ -1,44 +1,42 @@
 ---
-title: Class FormUrlEncodedContent
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Net.FormUrlEncodedContent klas. Een container voor naam/waardetupels gecodeerd met het MIMEtype application/xwwwformurlencoded.
+title: "FormUrlEncodedContent Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Net.FormUrlEncodedContent class. Een container voor naam/waarde-paren gecodeerd met het MIME-type application/x-www-form-urlencoded."
 type: docs
-weight: 2250
+weight: 4320
 url: /nl/net/aspose.svg.net/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent class
 
-Een container voor naam/waarde-tupels gecodeerd met het MIME-type application/x-www-form-urlencoded.
+Een container voor naam/waarde-tuplets gecodeerd met het MIME-type application/x-www-form-urlencoded.
 
 ```csharp
 public class FormUrlEncodedContent : ByteArrayContent
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [FormUrlEncodedContent](formurlencodedcontent/)(IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;) | Initialiseert een nieuw exemplaar van het`FormUrlEncodedContent` klasse. |
+| [FormUrlEncodedContent](formurlencodedcontent/)(*IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;*) | Initialiseert een nieuw exemplaar van de `FormUrlEncodedContent` klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | Haalt de HTTP-contentheaders op. |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | Haalt de HTTP-inhoudsheaders op. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | Voert door de toepassing gedefinieerde taken uit die verband houden met het vrijmaken, vrijgeven of resetten van onbeheerde bronnen. |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | Voert door de applicatie gedefinieerde taken uit die verband houden met het vrijgeven, loslaten of opnieuw instellen van niet-beheerde bronnen. |
 | [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Serialiseer de HTTP-inhoud en retourneer een byte-array die de inhoud vertegenwoordigt. |
 | [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | Serialiseer de HTTP-inhoud en retourneer een stream die de inhoud vertegenwoordigt. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Serialiseer de HTTP-inhoud en retourneer een tekenreeks die de inhoud vertegenwoordigt. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Serialiseer de HTTP-inhoud en retourneer een string die de inhoud vertegenwoordigt. |
 
 ### Zie ook
 
 * class [ByteArrayContent](../bytearraycontent/)
-* naamruimte [Aspose.Svg.Net](../../aspose.svg.net/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

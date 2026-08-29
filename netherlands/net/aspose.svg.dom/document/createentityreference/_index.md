@@ -1,14 +1,14 @@
 ---
-title: Document.CreateEntityReference
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document methode. Maakt een EntityReferenceobject. Bovendien als de entiteit waarnaar wordt verwezen bekend is wordt de onderliggende lijst van het EntityReferenceknooppunt hetzelfde gemaakt als die van het corresponderende Entityknooppunt.
+title: "Document.CreateEntityReference"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document CreateEntityReference-methode. Maakt een EntityReference‑object aan. Bovendien, als de verwezen entiteit bekend is, wordt de kindlijst van het EntityReference‑knooppunt gelijkgesteld aan die van het overeenkomstige Entity‑knooppunt."
 type: docs
 weight: 870
 url: /nl/net/aspose.svg.dom/document/createentityreference/
 ---
 ## Document.CreateEntityReference method
 
-Maakt een EntityReference-object. Bovendien, als de entiteit waarnaar wordt verwezen bekend is, wordt de onderliggende lijst van het EntityReference-knooppunt hetzelfde gemaakt als die van het corresponderende Entity-knooppunt.
+Maakt een EntityReference‑object aan. Bovendien, als de verwezen entiteit bekend is, wordt de kindlijst van het EntityReference‑knooppunt gelijkgesteld aan die van het overeenkomstige Entity‑knooppunt.
 
 ```csharp
 public EntityReference CreateEntityReference(string name)
@@ -16,17 +16,15 @@ public EntityReference CreateEntityReference(string name)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | De naam van de entiteit. |
+| naam | String | De entiteitsnaam. |
 
-### Winstwaarde
+### Retourwaarde
 
-De[`EntityReference`](../../entityreference/) .
+De [`EntityReference`](../../entityreference/).
 
 ### Zie ook
 
 * class [EntityReference](../../entityreference/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

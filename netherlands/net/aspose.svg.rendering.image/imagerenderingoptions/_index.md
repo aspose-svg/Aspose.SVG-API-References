@@ -1,44 +1,42 @@
 ---
-title: Class ImageRenderingOptions
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Image.ImageRenderingOptions klas. Vertegenwoordigt weergaveopties voorImageDevice . Deze optie wordt gebruikt om het uitvoerbeeldformaat compressie resolutie etc. te specificeren
+title: "ImageRenderingOptions‑klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Rendering.Image.ImageRenderingOptions‑klasse. Stelt render‑opties voor ImageDevice voor. Deze optie wordt gebruikt om het uitvoer‑afbeeldingsformaat, compressie, resolutie enz. op te geven."
 type: docs
-weight: 2860
+weight: 4940
 url: /nl/net/aspose.svg.rendering.image/imagerenderingoptions/
 ---
 ## ImageRenderingOptions class
 
-Vertegenwoordigt weergaveopties voor[`ImageDevice`](../imagedevice/) . Deze optie wordt gebruikt om het uitvoerbeeldformaat, compressie, resolutie etc. te specificeren
+Stelt render‑opties voor [`ImageDevice`](../imagedevice/) voor. Deze optie wordt gebruikt om het uitvoer‑afbeeldingsformaat, compressie, resolutie enz. op te geven.
 
 ```csharp
 public class ImageRenderingOptions : RenderingOptions
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [ImageRenderingOptions](imagerenderingoptions/#constructor)() | Initialiseert een nieuw exemplaar van het`ImageRenderingOptions` klas;Png wordt gebruikt als standaard afbeeldingsformaat. |
-| [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(ImageFormat) | Initialiseert een nieuw exemplaar van het`ImageRenderingOptions` klasse met gespecificeerd afbeeldingsformaat. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor)() | Initialiseert een nieuw exemplaar van de `ImageRenderingOptions`‑klasse; Png wordt gebruikt als standaard‑afbeeldingsformaat. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(*[ImageFormat](../imageformat/)*) | Initialiseert een nieuw exemplaar van de `ImageRenderingOptions`‑klasse met het opgegeven afbeeldingsformaat. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Krijgt of zetColor die de achtergrond van elke pagina zal vullen. Standaardwaarde isTransparent . |
-| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Stelt Tagged Image File Format (TIFF) in of haalt het op[`Compression`](../compression/) . Standaard is deze eigenschapLZW . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Krijgt een[`CssOptions`](../../aspose.svg.rendering/cssoptions/) object dat wordt gebruikt voor de configuratie van verwerking van css-eigenschappen. |
-| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Zet of krijgt[`ImageFormat`](../imageformat/) . Standaard is deze eigenschapPng . |
-| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Stelt de horizontale resolutie in voor output en interne (die worden gebruikt tijdens filterverwerking) afbeeldingen, in pixels per inch. Standaard is deze eigenschap 300 dpi. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Haalt een pagina-instellingsobject op dat wordt gebruikt voor configuratie-uitvoer paginaset. |
-| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | Hiermee wordt de weergavekwaliteit voor deze grafische kaart opgehaald of ingesteld. |
-| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Krijgt een[`TextOptions`](../textoptions/) object dat wordt gebruikt voor configuratie van tekstweergave. |
-| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Stelt verticale resolutie in voor output en interne (die worden gebruikt tijdens filterverwerking) afbeeldingen, in pixels per inch. Standaard is deze eigenschap 300 dpi. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Haalt op of stelt Color in die de achtergrond van elke pagina zal vullen. Standaardwaarde is Transparant. |
+| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Stelt in of haalt Tagged Image File Format (TIFF) [`Compression`](../compression/) op. Standaard is deze eigenschap LZW. |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Haalt een [`CssOptions`](../../aspose.svg.rendering/cssoptions/) object op dat wordt gebruikt voor de configuratie van de verwerking van CSS-eigenschappen. |
+| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Stelt in of haalt [`ImageFormat`](../imageformat/) op. Standaard is deze eigenschap Png. |
+| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Stelt in of haalt horizontale resolutie voor uitvoer‑ en interne (die worden gebruikt tijdens filterverwerking) afbeeldingen op, in pixels per inch. Standaard is deze eigenschap 300 dpi. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Haalt een paginainstellingsobject op dat wordt gebruikt voor de configuratie van de output-pagina-instelling. |
+| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Haalt een [`TextOptions`](../textoptions/)‑object op dat wordt gebruikt voor de configuratie van tekstweergave. |
+| [UseAntialiasing](../../aspose.svg.rendering.image/imagerenderingoptions/useantialiasing/) { get; set; } | Specificeert of anti‑aliasing moet worden gebruikt. Standaard is anti‑aliasing ingeschakeld. |
+| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Stelt in of haalt verticale resolutie voor uitvoer‑ en interne (die worden gebruikt tijdens filterverwerking) afbeeldingen op, in pixels per inch. Standaard is deze eigenschap 300 dpi. |
 
 ### Zie ook
 
 * class [RenderingOptions](../../aspose.svg.rendering/renderingoptions/)
-* naamruimte [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../)

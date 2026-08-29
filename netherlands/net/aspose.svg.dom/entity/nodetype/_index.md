@@ -1,7 +1,7 @@
 ---
-title: Entity.NodeType
-second_title: Aspose.SVG voor .NET API-referentie
-description: Entity eigendom. Een code die het type van het onderliggende object vertegenwoordigt.
+title: "Entity.NodeType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Entity NodeType property. Een code die het type van het onderliggende object vertegenwoordigt"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.dom/entity/nodetype/
@@ -14,14 +14,12 @@ Een code die het type van het onderliggende object vertegenwoordigt.
 public override ushort NodeType { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het type van het knooppunt.
 
 ### Zie ook
 
 * class [Entity](../)
-* naamruimte [Aspose.Svg.Dom](../../entity/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

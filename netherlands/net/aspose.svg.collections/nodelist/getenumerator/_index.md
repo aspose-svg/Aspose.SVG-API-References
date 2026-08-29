@@ -1,28 +1,26 @@
 ---
-title: NodeList.GetEnumerator
-second_title: Aspose.SVG voor .NET API-referentie
-description: NodeList methode. Retourneert een enumerator die de verzameling herhaalt.
+title: "NodeList.GetEnumerator"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "NodeList GetEnumerator-methode. Retourneert een enumerator die door de collectie iterereert"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.collections/nodelist/getenumerator/
 ---
 ## NodeList.GetEnumerator method
 
-Retourneert een enumerator die de verzameling herhaalt.
+Retourneert een enumerator die door de collectie iterereert.
 
 ```csharp
 public abstract IEnumerator<Node> GetEnumerator()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-EENIEnumerator die kan worden gebruikt om door de verzameling te itereren.
+Een IEnumerator die kan worden gebruikt om door de collectie te itereren.
 
 ### Zie ook
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [NodeList](../)
-* naamruimte [Aspose.Svg.Collections](../../nodelist/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

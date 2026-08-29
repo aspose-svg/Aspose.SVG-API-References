@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnKeyDown
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnKeyDowngebeurtenis.
+title: "IGlobalEventHandlers.OnKeyDown"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnKeyDown gebeurtenis. Haalt of stelt de event handler in voor de OnKeyDown gebeurtenis"
 type: docs
 weight: 170
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onkeydown/
 ---
 ## IGlobalEventHandlers.OnKeyDown event
 
-Haalt of stelt gebeurtenishandler in voor OnKeyDown-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnKeyDown event.
 
 ```csharp
 public event DOMEventHandler OnKeyDown;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnKeyDown;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

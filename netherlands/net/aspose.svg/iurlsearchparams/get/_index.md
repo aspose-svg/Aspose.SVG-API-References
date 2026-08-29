@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Get
-second_title: Aspose.SVG voor .NET API-referentie
-description: IUrlSearchParams methode. Retourneert de waarde van het eerste naamwaardepaar wiens naam isnaam .
+title: "IUrlSearchParams.Get"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IUrlSearchParams Get-methode. Retourneert de waarde van het eerste naam-waarde-paar waarvan de naam name is."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg/iurlsearchparams/get/
 ---
 ## IUrlSearchParams.Get method
 
-Retourneert de waarde van het eerste naam-waardepaar wiens naam is`naam` .
+Retourneert de waarde van het eerste naam-waarde-paar waarvan de naam `name` is.
 
 ```csharp
 public string Get(string name)
@@ -16,16 +16,14 @@ public string Get(string name)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| name | String | Sleutel die zal worden gebruikt om het naam-waardepaar te vinden. |
+| naam | String | Sleutel die wordt gebruikt om een naam-waarde-paar te vinden. |
 
-### Winstwaarde
+### Retourwaarde
 
-Waarde van het eerste naam-waardepaar waarvan de naam is`naam` of null als er geen is.
+Waarde van het eerste naam-waarde-paar waarvan de naam `name` is, of null als er geen bestaat.
 
 ### Zie ook
 
 * interface [IUrlSearchParams](../)
-* naamruimte [Aspose.Svg](../../iurlsearchparams/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IEventListener.HandleEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: IEventListener methode. Deze methode wordt aangeroepen wanneer er een gebeurtenis plaatsvindt van het type waarvoor deIEventListener interface is geregistreerd.
+title: "IEventListener.HandleEvent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IEventListener HandleEvent-methode. Deze methode wordt aangeroepen telkens wanneer een gebeurtenis van het type optreedt waarvoor de IEventListener-interface is geregistreerd."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.events/ieventlistener/handleevent/
 ---
 ## IEventListener.HandleEvent method
 
-Deze methode wordt aangeroepen wanneer er een gebeurtenis plaatsvindt van het type waarvoor de[`IEventListener`](../) interface is geregistreerd.
+Deze methode wordt aangeroepen telkens wanneer een gebeurtenis van het type optreedt waarvoor de [`IEventListener`](../) interface is geregistreerd.
 
 ```csharp
 public void HandleEvent(Event @event)
@@ -16,13 +16,11 @@ public void HandleEvent(Event @event)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| event | Event | De[`Event`](../../event/) bevat contextuele informatie over de gebeurtenis. Het bevat ook de[`StopPropagation`](../../event/stoppropagation/) En[`PreventDefault`](../../event/preventdefault/) methoden die worden gebruikt bij het bepalen van de gebeurtenisstroom en standaardactie. |
+| event | Event | De [`Event`](../../event/) bevat contextuele informatie over de gebeurtenis. Het bevat ook de [`StopPropagation`](../../event/stoppropagation/) en [`PreventDefault`](../../event/preventdefault/) methoden die worden gebruikt bij het bepalen van de stroom en de standaardactie van de gebeurtenis. |
 
 ### Zie ook
 
 * class [Event](../../event/)
 * interface [IEventListener](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../ieventlistener/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

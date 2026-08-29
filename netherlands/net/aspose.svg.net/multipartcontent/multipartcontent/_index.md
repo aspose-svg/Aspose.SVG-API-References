@@ -1,14 +1,14 @@
 ---
-title: MultipartContent.MultipartContent
-second_title: Aspose.SVG voor .NET API-referentie
-description: MultipartContent constructeur. Maak een nieuw exemplaar van hetMultipartContent klasse.
+title: "MultipartContent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MultipartContent constructor. Maak een nieuw exemplaar van de MultipartContent klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-Maak een nieuw exemplaar van het[`MultipartContent`](../) klasse.
+Maak een nieuw exemplaar van de [`MultipartContent`](../) klasse.
 
 ```csharp
 public MultipartContent()
@@ -17,14 +17,14 @@ public MultipartContent()
 ### Zie ook
 
 * class [MultipartContent](../)
-* naamruimte [Aspose.Svg.Net](../../multipartcontent/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string) {#constructor_1}
+## MultipartContent(*string*) {#constructor_1}
 
-Maak een nieuw exemplaar van het[`MultipartContent`](../) klasse met subtype.
+Maak een nieuw exemplaar van de [`MultipartContent`](../) klasse met subtype.
 
 ```csharp
 public MultipartContent(string subtype)
@@ -37,14 +37,14 @@ public MultipartContent(string subtype)
 ### Zie ook
 
 * class [MultipartContent](../)
-* naamruimte [Aspose.Svg.Net](../../multipartcontent/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string, string) {#constructor_2}
+## MultipartContent(*string, string*) {#constructor_2}
 
-Maak een nieuw exemplaar van het[`MultipartContent`](../) klasse met subtype en grens.
+Maak een nieuw exemplaar van de [`MultipartContent`](../) klasse met subtype en grens.
 
 ```csharp
 public MultipartContent(string subtype, string boundary)
@@ -57,14 +57,12 @@ public MultipartContent(string subtype, string boundary)
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| ArgumentException | Het argument mag niet null of lege tekenreeks zijn. |
+| ArgumentException | Het argument mag niet null of een lege tekenreeks zijn. |
 
 ### Zie ook
 
 * class [MultipartContent](../)
-* naamruimte [Aspose.Svg.Net](../../multipartcontent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

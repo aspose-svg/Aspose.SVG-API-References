@@ -1,14 +1,14 @@
 ---
-title: IDevice.ClosePath
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDevice methode. Sluit het huidige subpad door een recht lijnstuk toe te voegen vanaf het huidige punt naar het beginpunt van het subpad. Als het huidige subpad al gesloten is doet ClosePath niets. Deze operator beëindigt het huidige subpad. Door nog een segment aan het huidige pad toe te voegen begint een nieuw subpad  zelfs als het nieuwe segment begint bij het eindpunt dat wordt bereikt door de ClosePathmethode.
+title: "IDevice.ClosePath"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDevice ClosePath-methode. Sluit de huidige subpad door een rechte lijnsegment toe te voegen van het huidige punt naar het startpunt van de subpad. Als de huidige subpad al gesloten is, doet ClosePath niets. Deze operator beëindigt de huidige subpad. Het toevoegen van een ander segment aan het huidige pad start een nieuwe subpad, zelfs als het nieuwe segment begint bij het eindpunt dat door de ClosePath-methode is bereikt."
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.rendering/idevice/closepath/
 ---
 ## IDevice.ClosePath method
 
-Sluit het huidige subpad door een recht lijnstuk toe te voegen vanaf het huidige punt naar het beginpunt van het subpad. Als het huidige subpad al gesloten is, doet "ClosePath" niets. Deze operator beëindigt het huidige subpad. Door nog een segment aan het huidige pad toe te voegen, begint een nieuw subpad, , zelfs als het nieuwe segment begint bij het eindpunt dat wordt bereikt door de "ClosePath"-methode.
+Sluit het huidige subpad door een rechte lijnsegment toe te voegen van het huidige punt naar het startpunt van het subpad. Als het huidige subpad al gesloten is, doet \"ClosePath\" niets. Deze operator beëindigt het huidige subpad. Het toevoegen van een ander segment aan het huidige pad start een nieuw subpad, zelfs als het nieuwe segment begint bij het eindpunt dat door de \"ClosePath\"‑methode is bereikt.
 
 ```csharp
 public void ClosePath()
@@ -17,7 +17,5 @@ public void ClosePath()
 ### Zie ook
 
 * interface [IDevice](../)
-* naamruimte [Aspose.Svg.Rendering](../../idevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

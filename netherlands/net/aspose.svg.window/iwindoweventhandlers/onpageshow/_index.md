@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnPageShow
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindowEventHandlers evenement. Krijgt of stelt gebeurtenishandler in
+title: "IWindowEventHandlers.OnPageShow"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindowEventHandlers OnPageShow-event. Haalt of stelt de eventhandler in."
 type: docs
 weight: 90
 url: /nl/net/aspose.svg.window/iwindoweventhandlers/onpageshow/
 ---
 ## IWindowEventHandlers.OnPageShow event
 
-Krijgt of stelt gebeurtenishandler in
+Haalt de event‑handler op of stelt deze in
 
 ```csharp
 public event DOMEventHandler OnPageShow;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnPageShow;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* naamruimte [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

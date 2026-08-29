@@ -1,28 +1,26 @@
 ---
-title: Element.ShadowRoot
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element eigendom. Retourneert shadowRoot opgeslagen op dit element of null als het gesloten is.
+title: "Element.ShadowRoot"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element ShadowRoot-eigenschap. Retourneert de shadowRoot die op dit element is opgeslagen of null als deze gesloten is"
 type: docs
-weight: 200
+weight: 190
 url: /nl/net/aspose.svg.dom/element/shadowroot/
 ---
 ## Element.ShadowRoot property
 
-Retourneert shadowRoot opgeslagen op dit element of null als het gesloten is.
+Retourneert de shadowRoot die op dit element is opgeslagen, of null als deze gesloten is.
 
 ```csharp
 public ShadowRoot ShadowRoot { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De schaduwRoot.
+De shadowRoot.
 
 ### Zie ook
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

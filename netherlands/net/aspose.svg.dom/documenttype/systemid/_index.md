@@ -1,27 +1,25 @@
 ---
-title: DocumentType.SystemId
-second_title: Aspose.SVG voor .NET API-referentie
-description: DocumentType eigendom. De systeemID van de externe subset. Dit kan een absolute URI zijn of niet.
+title: "DocumentType.SystemId"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DocumentType SystemId property. De systeemidentificatie van de externe subset. Dit kan een absolute URI zijn of niet"
 type: docs
 weight: 70
 url: /nl/net/aspose.svg.dom/documenttype/systemid/
 ---
 ## DocumentType.SystemId property
 
-De systeem-ID van de externe subset. Dit kan een absolute URI zijn of niet.
+De systeemidentifier van de externe subset. Dit kan een absolute URI zijn of niet.
 
 ```csharp
 public string SystemId { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De systeem-ID.
+De systeemidentifier.
 
 ### Zie ook
 
 * class [DocumentType](../)
-* naamruimte [Aspose.Svg.Dom](../../documenttype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

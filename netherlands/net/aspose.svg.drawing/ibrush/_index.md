@@ -1,28 +1,26 @@
 ---
-title: Interface IBrush
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Drawing.IBrush koppel. Verklaart methode voor het verkrijgen van penseeltype.
+title: "IBrush-interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Drawing.IBrush interface. Declareert een methode voor het verkrijgen van het penseeltype"
 type: docs
-weight: 1430
+weight: 3440
 url: /nl/net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface
 
-Verklaart methode voor het verkrijgen van penseeltype.
+Declareert een methode voor het verkrijgen van het penseeltype.
 
 ```csharp
-public interface IBrush
+public interface IBrush : IDisposable
 ```
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Type penseel ophalen; |
+| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Haalt type van penseel op als [`BrushType`](../brushtype/). |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

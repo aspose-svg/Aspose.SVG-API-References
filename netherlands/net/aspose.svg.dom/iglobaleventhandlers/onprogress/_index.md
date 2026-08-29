@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnProgress
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnProgressgebeurtenis.
+title: "IGlobalEventHandlers.OnProgress"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnProgress gebeurtenis. Haalt op of stelt de event handler in voor de OnProgress gebeurtenis."
 type: docs
 weight: 350
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onprogress/
 ---
 ## IGlobalEventHandlers.OnProgress event
 
-Haalt of stelt gebeurtenishandler in voor OnProgress-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnProgress event.
 
 ```csharp
 public event DOMEventHandler OnProgress;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnProgress;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_UNSPECIFIED
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGAngle veld. Er is geen eenheidstype opgegeven dwz er is een eenheidsloze waarde opgegeven. Voor hoeken wordt een waarde zonder eenheid op dezelfde manier behandeld alsof er graden zijn opgegeven.
+title: "SVGAngle.SVG_ANGLETYPE_UNSPECIFIED"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGAngle SVG_ANGLETYPE_UNSPECIFIED veld. Er is geen eenheidstype opgegeven, d.w.z. er werd een eenheidsloze waarde gespecificeerd. Voor hoeken wordt een eenheidsloze waarde behandeld alsof graden waren opgegeven."
 type: docs
 weight: 120
 url: /nl/net/aspose.svg.datatypes/svgangle/svg_angletype_unspecified/
 ---
 ## SVGAngle.SVG_ANGLETYPE_UNSPECIFIED field
 
-Er is geen eenheidstype opgegeven (dwz er is een eenheidsloze waarde opgegeven). Voor hoeken wordt een waarde zonder eenheid op dezelfde manier behandeld alsof er graden zijn opgegeven.
+Er is geen eenheidstype opgegeven (d.w.z. er is een eenheidsloze waarde gespecificeerd). Voor hoeken wordt een eenheidsloze waarde behandeld alsof graden zijn opgegeven.
 
 ```csharp
 public const ushort SVG_ANGLETYPE_UNSPECIFIED;
@@ -17,7 +17,5 @@ public const ushort SVG_ANGLETYPE_UNSPECIFIED;
 ### Zie ook
 
 * class [SVGAngle](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgangle/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

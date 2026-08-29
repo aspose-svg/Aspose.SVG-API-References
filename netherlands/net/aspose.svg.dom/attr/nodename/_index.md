@@ -1,9 +1,9 @@
 ---
-title: Attr.NodeName
-second_title: Aspose.SVG voor .NET API-referentie
-description: Attr eigendom. De naam van dit knooppunt afhankelijk van het type.
+title: "Attr.NodeName"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Attr NodeName eigenschap. De naam van dit knooppunt afhankelijk van het type"
 type: docs
-weight: 50
+weight: 40
 url: /nl/net/aspose.svg.dom/attr/nodename/
 ---
 ## Attr.NodeName property
@@ -14,14 +14,12 @@ De naam van dit knooppunt, afhankelijk van het type.
 public override string NodeName { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De naam van het knooppunt.
 
 ### Zie ook
 
 * class [Attr](../)
-* naamruimte [Aspose.Svg.Dom](../../attr/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

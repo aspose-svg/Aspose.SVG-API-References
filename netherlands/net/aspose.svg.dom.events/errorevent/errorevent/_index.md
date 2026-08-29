@@ -1,14 +1,14 @@
 ---
-title: ErrorEvent.ErrorEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: ErrorEvent constructeur. Initialiseert een nieuw exemplaar van hetErrorEvent klasse.
+title: "ErrorEvent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ErrorEvent constructor. Initialiseert een nieuw exemplaar van de ErrorEvent-klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent(Exception) {#constructor_1}
+## ErrorEvent(*Exception*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`ErrorEvent`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`ErrorEvent`](../) klasse.
 
 ```csharp
 public ErrorEvent(Exception exception)
@@ -16,19 +16,19 @@ public ErrorEvent(Exception exception)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| exception | Exception | De uitzondering. |
+| exceptie | Exceptie | De exceptie. |
 
 ### Zie ook
 
 * class [ErrorEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../errorevent/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
+## ErrorEvent(*IDictionary&lt;string, object&gt;*) {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`ErrorEvent`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`ErrorEvent`](../) klasse.
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)
@@ -36,12 +36,10 @@ public ErrorEvent(IDictionary<string, object> eventInitDict)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| eventInitDict | IDictionary`2 | Het gebeurtenisinitialisatieobject. |
+| eventInitDict | IDictionary`2 | Het gebeurtenis-initialisatieobject. |
 
 ### Zie ook
 
 * class [ErrorEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../errorevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

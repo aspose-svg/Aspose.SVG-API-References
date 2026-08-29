@@ -1,9 +1,9 @@
 ---
-title: Class ContentHeaders
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Net.ContentHeaders klas. Bevat de headers die aan een inhoud zijn gekoppeld.
+title: "ContentHeaders Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Net.ContentHeaders klasse. Bevat de headers die aan een inhoud zijn gekoppeld"
 type: docs
-weight: 2240
+weight: 4310
 url: /nl/net/aspose.svg.net/contentheaders/
 ---
 ## ContentHeaders class
@@ -14,21 +14,25 @@ Bevat de headers die aan een inhoud zijn gekoppeld.
 public class ContentHeaders : WebHeaderCollection
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [ContentHeaders](contentheaders/)() | Initialiseert een nieuw exemplaar van het`ContentHeaders` klasse. |
+| [ContentHeaders](contentheaders/)() | Initialiseert een nieuwe instantie van de `ContentHeaders` klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | Haalt de waarde van de Content-Type-header op. |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | Haalt de Content-Type-headerwaarde op. |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 indexeerders) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Net](../../aspose.svg.net/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

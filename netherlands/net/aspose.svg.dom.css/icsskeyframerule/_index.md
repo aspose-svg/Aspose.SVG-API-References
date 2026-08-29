@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSKeyframeRule
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.ICSSKeyframeRule koppel. De interface CSSKeyframeRule vertegenwoordigt de stijlregel voor een enkele sleutel.
+title: "ICSSKeyframeRule Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.ICSSKeyframeRule interface. De CSSKeyframeRule‑interface vertegenwoordigt de stijlregel voor één sleutel."
 type: docs
-weight: 570
+weight: 2570
 url: /nl/net/aspose.svg.dom.css/icsskeyframerule/
 ---
 ## ICSSKeyframeRule interface
 
-De interface CSSKeyframeRule vertegenwoordigt de stijlregel voor een enkele sleutel.
+De CSSKeyframeRule interface vertegenwoordigt de stijlregel voor een enkele key.
 
 ```csharp
 public interface ICSSKeyframeRule : ICSSRule
@@ -18,13 +18,11 @@ public interface ICSSKeyframeRule : ICSSRule
 
 | Naam | Beschrijving |
 | --- | --- |
-| [KeyText](../../aspose.svg.dom.css/icsskeyframerule/keytext/) { get; } | Dit attribuut vertegenwoordigt de sleutelframekiezer als een door komma's gescheiden lijst met percentagewaarden. De zoekwoorden 'van' en 'tot' verwijzen naar respectievelijk '0%' en '100%'. |
-| [Style](../../aspose.svg.dom.css/icsskeyframerule/style/) { get; } | Dit attribuut vertegenwoordigt de stijl die aan dit keyframe is gekoppeld. |
+| [KeyText](../../aspose.svg.dom.css/icsskeyframerule/keytext/) { get; } | Dit attribuut vertegenwoordigt de keyframe‑selector als een door komma’s gescheiden lijst van procentwaarden. De sleutelwoorden ‘from’ en ‘to’ komen respectievelijk overeen met ‘0%’ en ‘100%’. |
+| [Style](../../aspose.svg.dom.css/icsskeyframerule/style/) { get; } | Dit attribuut vertegenwoordigt de stijl die aan deze keyframe is gekoppeld. |
 
 ### Zie ook
 
 * interface [ICSSRule](../icssrule/)
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

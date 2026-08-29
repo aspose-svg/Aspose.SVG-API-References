@@ -1,14 +1,14 @@
 ---
-title: Document.NextElementSibling
-second_title: Aspose.SVG voor .NET API-referentie
-description: Document eigendom. Retourneert het volgende elementknooppunt van dit element. null als dit element geen elementzusterknooppunten heeft die na dit element in de documentstructuur komen.
+title: "Document.NextElementSibling"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Document NextElementSibling eigenschap. Retourneert het volgende sibling‑element van dit element. null als dit element geen element‑siblings heeft die na dit element in de documentboom komen."
 type: docs
 weight: 170
 url: /nl/net/aspose.svg.dom/document/nextelementsibling/
 ---
 ## Document.NextElementSibling property
 
-Retourneert het volgende elementknooppunt van dit element. null als dit element geen element-zusterknooppunten heeft die na dit element in de documentstructuur komen.
+Retourneert het volgende sibling‑elementknooppunt van dit element. null als dit element geen element‑sibling‑knooppunten heeft die na dit knooppunt in de documentboom komen.
 
 ```csharp
 public Element NextElementSibling { get; }
@@ -18,7 +18,5 @@ public Element NextElementSibling { get; }
 
 * class [Element](../../element/)
 * class [Document](../)
-* naamruimte [Aspose.Svg.Dom](../../document/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

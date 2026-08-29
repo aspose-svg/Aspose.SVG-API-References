@@ -1,27 +1,25 @@
 ---
-title: Color.ToString
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Retourneert een tekenreeks die bestaat uit de RGBAcomponentwaarden.
+title: "Color.ToString"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color ToString-methode. Retourneert een string die bestaat uit de RGBA-componentwaarden."
 type: docs
 weight: 430
 url: /nl/net/aspose.svg.drawing/color/tostring/
 ---
 ## Color.ToString method
 
-Retourneert een tekenreeks die bestaat uit de RGBA-componentwaarden.
+Retourneert een string die bestaat uit de RGBA-componentwaarden.
 
 ```csharp
 public override string ToString()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Een door mensen leesbare string.
+Een voor mensen leesbare string.
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Window
-second_title: Aspose.SVG voor .NET API-referentie
-description: IBrowsingContext eigendom. Haalt het WindowProxyobject op.
+title: "IBrowsingContext.Window"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IBrowsingContext Window eigenschap. Haalt het WindowProxy-object op."
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom/ibrowsingcontext/window/
@@ -14,7 +14,7 @@ Haalt het WindowProxy-object op.
 public IWindow Window { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 Het venster.
 
@@ -22,7 +22,5 @@ Het venster.
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * interface [IBrowsingContext](../)
-* naamruimte [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

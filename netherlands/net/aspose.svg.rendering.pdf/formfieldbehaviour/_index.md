@@ -1,14 +1,14 @@
 ---
-title: Enum FormFieldBehaviour
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Rendering.Pdf.FormFieldBehaviour opsomming. Deze opsomming wordt gebruikt om het gedrag van formuliervelden in het PDFuitvoerdocument te specificeren.
+title: "FormFieldBehaviour Enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "**Aspose.Svg.Rendering.Pdf.FormFieldBehaviour** enum. Deze enumeratie wordt gebruikt om het gedrag van formuliervelden in het uitvoer‑PDF‑document te specificeren."
 type: docs
-weight: 2940
+weight: 5010
 url: /nl/net/aspose.svg.rendering.pdf/formfieldbehaviour/
 ---
 ## FormFieldBehaviour enumeration
 
-Deze opsomming wordt gebruikt om het gedrag van formuliervelden in het PDF-uitvoerdocument te specificeren.
+Deze enumeratie wordt gebruikt om het gedrag van formuliervelden in het gegenereerde PDF-document te specificeren.
 
 ```csharp
 public enum FormFieldBehaviour
@@ -18,12 +18,10 @@ public enum FormFieldBehaviour
 
 | Naam | Waarde | Beschrijving |
 | --- | --- | --- |
-| Interactive | `0` | Het PDF-uitvoerdocument bevat interactieve formuliervelden. |
-| Flattened | `1` | Het PDF-uitvoerdocument bevat afgevlakte formuliervelden. |
+| Interactive | `0` | Het uitvoer‑PDF‑document zal interactieve formuliervelden bevatten. |
+| Flattened | `1` | Het uitvoer‑PDF‑document zal afgevlakte formuliervelden bevatten. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

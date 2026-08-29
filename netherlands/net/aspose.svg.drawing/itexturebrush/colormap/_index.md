@@ -1,27 +1,25 @@
 ---
-title: ITextureBrush.ColorMap
-second_title: Aspose.SVG voor .NET API-referentie
-description: ITextureBrush eigendom. Het aantal elementen moet even zijn. Elk even element is oud van kleur. Elk oneven element is een nieuwe kleur.
+title: "ITextureBrush.ColorMap"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ITextureBrush ColorMap-eigenschap. Het aantal elementen moet even zijn. Elk even element is een oude kleur. Elk oneven element is een nieuwe kleur."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.drawing/itexturebrush/colormap/
 ---
 ## ITextureBrush.ColorMap property
 
-Het aantal elementen moet even zijn. Elk even element is oud van kleur. Elk oneven element is een nieuwe kleur.
+Het aantal elementen moet even zijn. Elk even element is de oude kleur. Elk oneven element is de nieuwe kleur.
 
 ```csharp
 public Color[] ColorMap { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De kleurenkaart.
 
 ### Zie ook
 
 * interface [ITextureBrush](../)
-* naamruimte [Aspose.Svg.Drawing](../../itexturebrush/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Aspose.Svg.Dom.Attributes
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Dom.Attributen naamruimte bevat verenigde attribuutklassen die specificeren of elk object knooppunt element ... kenmerk of gedrag kwalificeren.
+title: "Aspose.Svg.Dom.Attributes"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.Dom.Attributes‑namespace bevat geharmoniseerde attribuutklassen die elk object‑knooppunt‑element ... functie of gedrag specificeren of kwalificeren."
 type: docs
-weight: 60
+weight: 80
 url: /nl/net/aspose.svg.dom.attributes/
 ---
-De **Aspose.Svg.Dom.Attributen** naamruimte bevat verenigde attribuutklassen die specificeren of elk object (knooppunt, element, ...) kenmerk of gedrag kwalificeren.
+De **Aspose.Svg.Dom.Attributes** naamruimte bevat geharmoniseerde attribuutklassen die elke eigenschap of gedrag van een object (knooppunt, element, ...) specificeren of kwalificeren.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [DOMConstructorAttribute](./domconstructorattribute/) | Specificeert een constructor die wordt gedefinieerd door de W3C. |
-| [DOMNameAttribute](./domnameattribute/) | Specificeert de officiële DOM-objectnaam zoals gedefinieerd door de W3C. |
-| [DOMNamedPropertyGetterAttribute](./domnamedpropertygetterattribute/) | Geeft aan dat de methode zal worden gebruikt als benoemde eigenschapsgetter. |
-| [DOMNoInterfaceObjectAttribute](./domnointerfaceobjectattribute/) | Als het uitgebreide kenmerk [NoInterfaceObject] op een interface verschijnt, geeft dit aan dat er geen interface-object zal bestaan voor de interface in de ECMAScript-binding. |
-| [DOMNullableAttribute](./domnullableattribute/) | Geeft aan dat een DOM-object een nulwaarde kan krijgen. |
-| [DOMObjectAttribute](./domobjectattribute/) | Geeft aan dat het object is gemarkeerd met dit attribuut wordt gedefinieerd door de W3C. |
-| [DOMTreatNullAsAttribute](./domtreatnullasattribute/) | Geeft aan dat null van de lidwaarde wordt behandeld als opgegeven waarde. |
-## Opsomming
+| [DOMConstructorAttribute](./domconstructorattribute/) | Specificeert een constructor die door de W3C is gedefinieerd. |
+| [DOMNameAttribute](./domnameattribute/) | Specificeert de officiële DOM‑objectnaam zoals gedefinieerd door de W3C. |
+| [DOMNamedPropertyGetterAttribute](./domnamedpropertygetterattribute/) | Specificeert dat de methode zal worden gebruikt als benoemde eigenschapgetter. |
+| [DOMNoInterfaceObjectAttribute](./domnointerfaceobjectattribute/) | Als het uitgebreide attribuut [NoInterfaceObject] op een interface verschijnt, geeft dit aan dat er geen interface‑object zal bestaan voor de interface in de ECMAScript‑binding. |
+| [DOMNullableAttribute](./domnullableattribute/) | Specificeert dat een DOM‑object een null‑waarde kan krijgen. |
+| [DOMObjectAttribute](./domobjectattribute/) | Specificeert dat een object dat met dit attribuut is gemarkeerd, is gedefinieerd door de W3C. |
+| [DOMTreatNullAsAttribute](./domtreatnullasattribute/) | Geeft aan dat null van de ledenwaarde zal worden behandeld als de gespecificeerde waarde. |
+## Enumeratie
 
-| Opsomming | Beschrijving |
+| Enumeratie | Beschrijving |
 | --- | --- |
-| [Accessors](./accessors/) | Vertegenwoordigt de opsomming van lid-accessors die is gedefinieerd door de W3C. |
-
-
+| [Accessors](./accessors/) | Stelt de enumeratie van leden‑accessors voor die is gedefinieerd door de W3C. |

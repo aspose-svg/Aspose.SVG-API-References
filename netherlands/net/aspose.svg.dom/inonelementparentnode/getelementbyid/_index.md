@@ -1,14 +1,14 @@
 ---
-title: INonElementParentNode.GetElementById
-second_title: Aspose.SVG voor .NET API-referentie
-description: INonElementParentNode methode. Retourneert het eerste element binnen de afstammelingen van het knooppunt waarvan de ID elementId. is
+title: "INonElementParentNode.GetElementById"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "INonElementParentNode GetElementById-methode. Retourneert het eerste element binnen de afstammelingen van knooppunten waarvan de ID gelijk is aan elementId."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom/inonelementparentnode/getelementbyid/
 ---
 ## INonElementParentNode.GetElementById method
 
-Retourneert het eerste element binnen de afstammelingen van het knooppunt waarvan de ID elementId. is
+Retourneert het eerste element binnen de afstammelingen van de node waarvan de ID elementId is.
 
 ```csharp
 public Element GetElementById(string elementId)
@@ -16,9 +16,9 @@ public Element GetElementById(string elementId)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| elementId | String | De element-ID. |
+| elementId | String | De elementidentificatie. |
 
-### Winstwaarde
+### Retourwaarde
 
 Retourneert het eerste overeenkomende element.
 
@@ -26,7 +26,5 @@ Retourneert het eerste overeenkomende element.
 
 * class [Element](../../element/)
 * interface [INonElementParentNode](../)
-* naamruimte [Aspose.Svg.Dom](../../inonelementparentnode/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

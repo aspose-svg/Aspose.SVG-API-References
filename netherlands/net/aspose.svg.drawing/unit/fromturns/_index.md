@@ -1,14 +1,14 @@
 ---
-title: Unit.FromTurns
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenAngle object dat beurtelings wordt weergegeven.
+title: "Unit.FromTurns"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromTurns-methode. Retourneert een Angle-object dat wordt weergegeven in turns"
 type: docs
 weight: 220
 url: /nl/net/aspose.svg.drawing/unit/fromturns/
 ---
 ## Unit.FromTurns method
 
-Geeft als resultaat een[`Angle`](../../angle/) object dat beurtelings wordt weergegeven.
+Retourneert een [`Angle`](../../angle/) object dat wordt weergegeven in turns.
 
 ```csharp
 public static Angle FromTurns(double value)
@@ -16,17 +16,15 @@ public static Angle FromTurns(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Angle`](../../angle/) voorwerp.
+Retourneert een [`Angle`](../../angle/) object.
 
 ### Zie ook
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

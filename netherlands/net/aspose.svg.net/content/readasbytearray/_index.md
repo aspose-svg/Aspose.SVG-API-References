@@ -1,7 +1,7 @@
 ---
-title: Content.ReadAsByteArray
-second_title: Aspose.SVG voor .NET API-referentie
-description: Content methode. Serialiseer de HTTPinhoud en retourneer een bytearray die de inhoud vertegenwoordigt.
+title: "Content.ReadAsByteArray"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Content ReadAsByteArray-methode. Serialiseer de HTTP-inhoud en retourneer een byte-array die de inhoud weergeeft"
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.net/content/readasbytearray/
@@ -14,14 +14,12 @@ Serialiseer de HTTP-inhoud en retourneer een byte-array die de inhoud vertegenwo
 public byte[] ReadAsByteArray()
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-Geserialiseerde byte-array die de inhoud vertegenwoordigt
+Geserializeerde byte-array die de inhoud weergeeft
 
 ### Zie ook
 
 * class [Content](../)
-* naamruimte [Aspose.Svg.Net](../../content/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

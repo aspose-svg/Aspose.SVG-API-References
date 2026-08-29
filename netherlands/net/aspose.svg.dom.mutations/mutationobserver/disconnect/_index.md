@@ -1,14 +1,14 @@
 ---
-title: MutationObserver.Disconnect
-second_title: Aspose.SVG voor .NET API-referentie
-description: MutationObserver methode. Zorgt ervoor dat de waarnemer geen mutaties waarneemt. Totdat de methode observer opnieuw wordt gebruikt wordt de callback van de waarnemer niet aangeroepen.
+title: "MutationObserver.Disconnect"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MutationObserver Disconnect-methode. Stopt de observer met het observeren van mutaties. Totdat de observe-methode opnieuw wordt gebruikt, wordt de callback van de observer niet aangeroepen."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.mutations/mutationobserver/disconnect/
 ---
 ## MutationObserver.Disconnect method
 
-Zorgt ervoor dat de waarnemer geen mutaties waarneemt. Totdat de methode observer() opnieuw wordt gebruikt, wordt de callback van de waarnemer niet aangeroepen.
+Stopt de observer met het observeren van mutaties. Totdat de observe()‑methode opnieuw wordt gebruikt, wordt de callback van de observer niet aangeroepen.
 
 ```csharp
 public void Disconnect()
@@ -17,7 +17,5 @@ public void Disconnect()
 ### Zie ook
 
 * class [MutationObserver](../)
-* naamruimte [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

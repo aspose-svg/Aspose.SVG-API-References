@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnHashChange
-second_title: Aspose.SVG voor .NET API-referentie
-description: IWindowEventHandlers evenement. Krijgt of stelt gebeurtenishandler in
+title: "IWindowEventHandlers.OnHashChange"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IWindowEventHandlers OnHashChange-event. Haalt of stelt de eventhandler in."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.window/iwindoweventhandlers/onhashchange/
 ---
 ## IWindowEventHandlers.OnHashChange event
 
-Krijgt of stelt gebeurtenishandler in
+Haalt de event‑handler op of stelt deze in
 
 ```csharp
 public event DOMEventHandler OnHashChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnHashChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* naamruimte [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

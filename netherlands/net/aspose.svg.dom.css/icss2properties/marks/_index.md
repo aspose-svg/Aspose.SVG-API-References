@@ -1,27 +1,25 @@
 ---
-title: ICSS2Properties.Marks
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSS2Properties eigendom. Zie de definitie van de eigenschap marks in CSS2.
+title: "ICSS2Properties.Marks"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSS2Properties Marks eigenschap. Zie de definitie van de marks eigenschap in CSS2"
 type: docs
-weight: 690
+weight: 720
 url: /nl/net/aspose.svg.dom.css/icss2properties/marks/
 ---
 ## ICSS2Properties.Marks property
 
-Zie de definitie van de eigenschap marks in CSS2.
+Zie de marks eigenschapdefinitie in CSS2.
 
 ```csharp
 public string Marks { get; set; }
 ```
 
-### Winstwaarde
+### Retourwaarde
 
-merken eigendom
+marks eigenschap
 
 ### Zie ook
 
 * interface [ICSS2Properties](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icss2properties/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

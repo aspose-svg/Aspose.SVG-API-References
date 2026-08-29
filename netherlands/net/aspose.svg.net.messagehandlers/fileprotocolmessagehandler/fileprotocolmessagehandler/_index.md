@@ -1,14 +1,14 @@
 ---
-title: FileProtocolMessageHandler.FileProtocolMessageHandler
-second_title: Aspose.SVG voor .NET API-referentie
-description: FileProtocolMessageHandler constructeur. Initialiseert een nieuw exemplaar van hetFileProtocolMessageHandler klasse.
+title: "FileProtocolMessageHandler"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "FileProtocolMessageHandler constructor. Initialiseert een nieuw exemplaar van de FileProtocolMessageHandler-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler constructor
 
-Initialiseert een nieuw exemplaar van het[`FileProtocolMessageHandler`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`FileProtocolMessageHandler`](../)-klasse.
 
 ```csharp
 public FileProtocolMessageHandler()
@@ -17,7 +17,5 @@ public FileProtocolMessageHandler()
 ### Zie ook
 
 * class [FileProtocolMessageHandler](../)
-* naamruimte [Aspose.Svg.Net.MessageHandlers](../../fileprotocolmessagehandler/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

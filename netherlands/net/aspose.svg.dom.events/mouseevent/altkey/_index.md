@@ -1,7 +1,7 @@
 ---
-title: MouseEvent.AltKey
-second_title: Aspose.SVG voor .NET API-referentie
-description: MouseEvent eigendom. Verwijs naar het altKeyattribuut.
+title: "MouseEvent.AltKey"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "MouseEvent AltKey-eigenschap. Zie het altKey‑attribuut."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.events/mouseevent/altkey/
@@ -14,14 +14,12 @@ Verwijs naar het altKey-attribuut.
 public bool AltKey { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-`WAAR` als [alt-toets]; anders,`vals` .
+`true` als [alt key]; anders, `false`.
 
 ### Zie ook
 
 * class [MouseEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../mouseevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Enum SVGRenderingIntent
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.SVGRenderingIntent opsomming. De SVGRenderingIntentopsomming definieert de opgesomde lijst met mogelijke waarden voor renderingintentattributen of descriptors.
+title: "SVGRenderingIntent Enum"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.SVGRenderingIntent enum. De SVGRenderingIntent enumeratie definieert de lijst met mogelijke waarden voor rendering-intent attributen of descriptoren."
 type: docs
-weight: 3430
+weight: 5500
 url: /nl/net/aspose.svg/svgrenderingintent/
 ---
 ## SVGRenderingIntent enumeration
 
-De SVGRenderingIntent-opsomming definieert de opgesomde lijst met mogelijke waarden voor 'rendering-intent'-attributen of descriptors.
+De SVGRenderingIntent‑enumeratie definieert de opgesomde lijst van mogelijke waarden voor ‘rendering-intent’-attributen of -descriptors.
 
 ```csharp
 public enum SVGRenderingIntent
@@ -18,16 +18,14 @@ public enum SVGRenderingIntent
 
 | Naam | Waarde | Beschrijving |
 | --- | --- | --- |
-| RENDERING_INTENT_UNKNOWN | `0` | Het type is niet een van de vooraf gedefinieerde typen. Het is ongeldig om te proberen een nieuwe waarde van dit type te definiëren of om een bestaande waarde naar dit type om te schakelen. |
+| RENDERING_INTENT_UNKNOWN | `0` | Het type is niet een van de vooraf gedefinieerde types. Het is ongeldig om te proberen een nieuwe waarde van dit type te definiëren of om te proberen een bestaande waarde naar dit type te wijzigen. |
 | RENDERING_INTENT_AUTO | `1` | Komt overeen met een waarde van 'auto'. |
-| RENDERING_INTENT_PERCEPTUAL | `2` | Komt overeen met een waarde van 'perceptueel'. |
-| RENDERING_INTENT_RELATIVE_COLORIMETRIC | `3` | Komt overeen met een waarde van 'relatief-colorimetrisch'. |
-| RENDERING_INTENT_SATURATION | `4` | Komt overeen met een waarde van 'verzadiging'. |
-| RENDERING_INTENT_ABSOLUTE_COLORIMETRIC | `5` | Komt overeen met een waarde van 'absoluut-colorimetrisch'. |
+| RENDERING_INTENT_PERCEPTUAL | `2` | Komt overeen met een waarde van 'perceptual'. |
+| RENDERING_INTENT_RELATIVE_COLORIMETRIC | `3` | Komt overeen met een waarde van 'relative-colorimetric'. |
+| RENDERING_INTENT_SATURATION | `4` | Komt overeen met een waarde van 'saturation'. |
+| RENDERING_INTENT_ABSOLUTE_COLORIMETRIC | `5` | Komt overeen met een waarde van 'absolute-colorimetric'. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg](../../aspose.svg/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

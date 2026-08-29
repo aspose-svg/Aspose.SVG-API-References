@@ -1,28 +1,26 @@
 ---
-title: SVGPathElement.AnimatedPathSegList
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGPathElement eigendom. Biedt toegang tot de huidige geanimeerde inhoud van het dattribuut in een vorm die eenopeen overeenkomt met de SVGsyntaxis. Als het gegeven attribuut of eigenschap wordt geanimeerd bevat dit de huidige geanimeerde waarde van het attribuut of de eigenschap en zowel het object zelf als de inhoud ervan zijn alleenlezen. Als het gegeven attribuut of eigenschap momenteel niet wordt geanimeerd bevat het dezelfde waarde als pathSegList.
+title: "SVGPathElement.AnimatedPathSegList"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGPathElement AnimatedPathSegList eigenschap. Biedt toegang tot de huidige geanimeerde inhoud van het d-attribuut in een vorm die één-op-één overeenkomt met de SVG-syntax. Als het opgegeven attribuut of de eigenschap wordt geanimeerd, bevat het de huidige geanimeerde waarde van het attribuut of de eigenschap en zowel het object zelf als de inhoud zijn alleen-lezen. Als het opgegeven attribuut of de eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als pathSegList"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg/svgpathelement/animatedpathseglist/
 ---
 ## SVGPathElement.AnimatedPathSegList property
 
-Biedt toegang tot de huidige geanimeerde inhoud van het 'd'-attribuut in een vorm die een-op-een overeenkomt met de SVG-syntaxis. Als het gegeven attribuut of eigenschap wordt geanimeerd, bevat dit de huidige geanimeerde waarde van het attribuut of de eigenschap, en zowel het object zelf als de inhoud ervan zijn alleen-lezen. Als het gegeven attribuut of eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als pathSegList.
+Biedt toegang tot de huidige geanimeerde inhoud van het ‘d’-attribuut in een vorm die één-op-één overeenkomt met de syntaxis van SVG. Als het opgegeven attribuut of de eigenschap wordt geanimeerd, bevat het de huidige geanimeerde waarde van het attribuut of de eigenschap, en zowel het object zelf als de inhoud zijn alleen-lezen. Als het opgegeven attribuut of de eigenschap momenteel niet wordt geanimeerd, bevat het dezelfde waarde als pathSegList.
 
 ```csharp
 public SVGPathSegList AnimatedPathSegList { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De lijst met geanimeerde padsegmenten.
+De geanimeerde padsegmentlijst.
 
 ### Zie ook
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* naamruimte [Aspose.Svg](../../svgpathelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IDevice.BeginElement
-second_title: Aspose.SVG voor .NET API-referentie
-description: IDevice methode. Begint met renderen van het element.
+title: "IDevice.BeginElement"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IDevice BeginElement methode. Begint met het renderen van het element"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.rendering/idevice/beginelement/
@@ -16,18 +16,16 @@ public bool BeginElement(Element element, RectangleF rect)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| element | Element | De[`Element`](../../../aspose.svg.dom/element/). |
-| rect | RectangleF | Begrenzingskader van het knooppunt. |
+| element | Element | De [`Element`](../../../aspose.svg.dom/element/). |
+| rect | RectangleF | Omhullende doos van het knooppunt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert [true] als het element moet worden verwerkt.
+Retourneert [true] als het element verwerkt moet worden.
 
 ### Zie ook
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IDevice](../)
-* naamruimte [Aspose.Svg.Rendering](../../idevice/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

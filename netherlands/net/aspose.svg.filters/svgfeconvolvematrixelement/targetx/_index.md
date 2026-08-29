@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.TargetX
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEConvolveMatrixElement eigendom. Komt overeen met attribuut targetX op het gegeven feConvolveMatrixelement.
+title: "SVGFEConvolveMatrixElement.TargetX"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEConvolveMatrixElement TargetX eigenschap. Komt overeen met attribuut targetX op het opgegeven feConvolveMatrix element"
 type: docs
 weight: 130
 url: /nl/net/aspose.svg.filters/svgfeconvolvematrixelement/targetx/
 ---
 ## SVGFEConvolveMatrixElement.TargetX property
 
-Komt overeen met attribuut 'targetX' op het gegeven 'feConvolveMatrix'-element.
+Komt overeen met attribuut ‘targetX’ op het opgegeven ‘feConvolveMatrix’-element.
 
 ```csharp
 public SVGAnimatedInteger TargetX { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'targetX' van het gegeven 'feConvolveMatrix' element.
+Het attribuut ‘targetX’ van het opgegeven ‘feConvolveMatrix’ element.
 
 ### Zie ook
 
 * class [SVGAnimatedInteger](../../../aspose.svg.datatypes/svganimatedinteger/)
 * class [SVGFEConvolveMatrixElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

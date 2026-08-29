@@ -1,7 +1,7 @@
 ---
-title: UnitType.Ms
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is in milliseconden.
+title: "UnitType.Ms"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType Ms-veld. Meting is in milliseconden"
 type: docs
 weight: 160
 url: /nl/net/aspose.svg.drawing/unittype/ms/
@@ -17,7 +17,5 @@ public static readonly UnitType Ms;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

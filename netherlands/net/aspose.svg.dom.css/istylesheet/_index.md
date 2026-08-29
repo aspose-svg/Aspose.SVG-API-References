@@ -1,14 +1,14 @@
 ---
-title: Interface IStyleSheet
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.IStyleSheet koppel. De StyleSheetinterface is de abstracte basisinterface voor elk type stijlblad. Het vertegenwoordigt een enkel opmaakmodel dat is gekoppeld aan een gestructureerd document.
+title: "IStyleSheet Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.IStyleSheet interface. De StyleSheet interface is de abstracte basisinterface voor elk type stylesheet. Het vertegenwoordigt een enkele stylesheet die is gekoppeld aan een gestructureerd document"
 type: docs
-weight: 740
+weight: 2740
 url: /nl/net/aspose.svg.dom.css/istylesheet/
 ---
 ## IStyleSheet interface
 
-De StyleSheet-interface is de abstracte basisinterface voor elk type stijlblad. Het vertegenwoordigt een enkel opmaakmodel dat is gekoppeld aan een gestructureerd document.
+De StyleSheet interface is de abstracte basisinterface voor elk type stylesheet. Het vertegenwoordigt een enkele stylesheet die is gekoppeld aan een gestructureerd document.
 
 ```csharp
 public interface IStyleSheet
@@ -18,17 +18,15 @@ public interface IStyleSheet
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Disabled](../../aspose.svg.dom.css/istylesheet/disabled/) { get; set; } | false als het opmaakmodel op het document wordt toegepast. waar als het niet zo is. Het wijzigen van dit attribuut kan leiden tot een nieuwe stijlresolutie voor het document. Een stylesheet is alleen van toepassing als zowel een geschikte mediumdefinitie aanwezig is als het uitgeschakelde attribuut onwaar is. Dus als de media niet van toepassing zijn op de huidige user-agent, wordt het uitgeschakelde kenmerk genegeerd. |
-| [Href](../../aspose.svg.dom.css/istylesheet/href/) { get; } | Als de stylesheet een gekoppelde stylesheet is, is de waarde van het attribuut de locatie. Voor inline stijlbladen is de waarde van dit attribuut null. |
-| [Media](../../aspose.svg.dom.css/istylesheet/media/) { get; } | De beoogde bestemmingsmedia voor stijlinformatie. |
-| [OwnerNode](../../aspose.svg.dom.css/istylesheet/ownernode/) { get; } | Het knooppunt dat deze stijlpagina aan het document koppelt. Voor HTML kan dit het corresponderende LINK- of STYLE-element zijn. Voor XML kan dit de instructie voor koppelingsverwerking zijn. Voor stijlbladen die zijn opgenomen in andere stijlbladen, is de waarde van dit attribuut null. |
-| [ParentStyleSheet](../../aspose.svg.dom.css/istylesheet/parentstylesheet/) { get; } | Voor stylesheettalen die het concept van stylesheetopname ondersteunen, vertegenwoordigt dit attribuut de include-stylesheet, als die bestaat. Als de stijlpagina een stijlpagina op het hoogste niveau is, of als de taal van de stijlpagina opname niet ondersteunt, is de waarde van dit attribuut null. |
-| [Title](../../aspose.svg.dom.css/istylesheet/title/) { get; } | De titel van het advies. |
-| [Type](../../aspose.svg.dom.css/istylesheet/type/) { get; } | Dit specificeert de stijlbladtaal voor dit stijlblad. De stijlbladtaal wordt gespecificeerd als een inhoudstype (bijv. "tekst/css"). |
+| [Disabled](../../aspose.svg.dom.css/istylesheet/disabled/) { get; set; } | false als de stylesheet is toegepast op het document. true als dat niet het geval is. Het wijzigen van dit attribuut kan een nieuwe resolutie van stijl voor het document veroorzaken. Een stylesheet wordt alleen toegepast als zowel een geschikte mediumdefinitie aanwezig is als het disabled-attribuut false is. Dus, als het medium niet van toepassing is op de huidige user agent, wordt het disabled-attribuut genegeerd. |
+| [Href](../../aspose.svg.dom.css/istylesheet/href/) { get; } | Als het stijlblad een gekoppeld stijlblad is, is de waarde van zijn attribuut de locatie. Voor inline stijlbladen is de waarde van dit attribuut null. |
+| [Media](../../aspose.svg.dom.css/istylesheet/media/) { get; } | Het beoogde bestemmingsmedium voor stijl‑informatie. |
+| [OwnerNode](../../aspose.svg.dom.css/istylesheet/ownernode/) { get; } | Het knooppunt dat dit stijlblad aan het document koppelt. Voor HTML kan dit het overeenkomstige LINK‑ of STYLE‑element zijn. Voor XML kan dit de koppel‑verwerkingsinstructie zijn. Voor stijlbladen die door andere stijlbladen worden opgenomen, is de waarde van dit attribuut null. |
+| [ParentStyleSheet](../../aspose.svg.dom.css/istylesheet/parentstylesheet/) { get; } | Voor stijlblad‑talen die het concept van stijlblad‑inclusie ondersteunen, vertegenwoordigt dit attribuut het includerende stijlblad, indien aanwezig. Als het stijlblad een top‑level stijlblad is, of de stijlblad‑taal geen inclusie ondersteunt, is de waarde van dit attribuut null. |
+| [Title](../../aspose.svg.dom.css/istylesheet/title/) { get; } | De adviserende titel. |
+| [Type](../../aspose.svg.dom.css/istylesheet/type/) { get; } | Dit geeft de stijlbladtaal voor dit stijlblad aan. De stijlbladtaal wordt gespecificeerd als een content‑type (bijv. "text/css"). |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

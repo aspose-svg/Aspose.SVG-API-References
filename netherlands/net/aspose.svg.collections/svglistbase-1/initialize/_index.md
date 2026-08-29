@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.Initialize
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGListBase methode. Wist alle bestaande huidige items uit de lijst en initialiseert de lijst opnieuw om het enkele item te bevatten dat is gespecificeerd door de parameter.
+title: "SVGListBase-1.Initialize"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGListBase Initialize-methode. Verwijdert alle bestaande items uit de lijst en initialiseert de lijst opnieuw om het enkele item dat door de parameter is opgegeven te bevatten."
 type: docs
 weight: 80
 url: /nl/net/aspose.svg.collections/svglistbase-1/initialize/
 ---
-## SVGListBase&lt;T&gt;.Initialize method
+## SVGListBase<T>.Initialize method
 
-Wist alle bestaande huidige items uit de lijst en initialiseert de lijst opnieuw om het enkele item te bevatten dat is gespecificeerd door de parameter.
+Verwijdert alle bestaande huidige items uit de lijst en initialiseert de lijst opnieuw om het enkele item dat door de parameter is opgegeven te bevatten.
 
 ```csharp
 public T Initialize(T newItem)
@@ -18,20 +18,18 @@ public T Initialize(T newItem)
 | --- | --- | --- |
 | newItem | T | Het item dat het enige lid van de lijst moet worden. |
 
-### Winstwaarde
+### Retourwaarde
 
 Het item dat in de lijst wordt ingevoegd.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Verhoogd wanneer de lijst niet kan worden gewijzigd. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Wordt opgegooid wanneer de lijst niet kan worden gewijzigd. |
 
 ### Zie ook
 
 * class [SVGListBase&lt;T&gt;](../)
-* naamruimte [Aspose.Svg.Collections](../../svglistbase-1/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ResponseMessage.ResponseMessage
-second_title: Aspose.SVG voor .NET API-referentie
-description: ResponseMessage constructeur. Initialiseert een nieuw exemplaar van hetResponseMessage klasse.
+title: "ResponseMessage"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ResponseMessage constructor. Initialiseert een nieuwe instantie van de ResponseMessage-klasse"
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.net/responsemessage/responsemessage/
 ---
 ## ResponseMessage constructor
 
-Initialiseert een nieuw exemplaar van het[`ResponseMessage`](../) klasse.
+Initialiseert een nieuwe instantie van de [`ResponseMessage`](../) klasse.
 
 ```csharp
 public ResponseMessage(HttpStatusCode status)
@@ -21,7 +21,5 @@ public ResponseMessage(HttpStatusCode status)
 ### Zie ook
 
 * class [ResponseMessage](../)
-* naamruimte [Aspose.Svg.Net](../../responsemessage/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

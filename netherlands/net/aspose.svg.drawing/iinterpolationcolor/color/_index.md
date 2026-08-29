@@ -1,23 +1,21 @@
 ---
-title: IInterpolationColor.Color
-second_title: Aspose.SVG voor .NET API-referentie
-description: IInterpolationColor eigendom. Verkrijg de kleur die de kleuren vertegenwoordigt die moeten worden gebruikt op overeenkomstige posities langs een verloop.
+title: "IInterpolationColor.Color"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IInterpolationColor Color-eigenschap. Haalt de kleur op of stelt deze in die de kleuren vertegenwoordigt die op overeenkomstige posities langs een verloop moeten worden gebruikt."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.drawing/iinterpolationcolor/color/
 ---
 ## IInterpolationColor.Color property
 
-Verkrijg de kleur die de kleuren vertegenwoordigt die moeten worden gebruikt op overeenkomstige posities langs een verloop.
+Haalt op of stelt de kleur in die de kleuren vertegenwoordigt die op overeenkomstige posities langs een verloop worden gebruikt.
 
 ```csharp
-public Color Color { get; }
+public Color Color { get; set; }
 ```
 
 ### Zie ook
 
 * interface [IInterpolationColor](../)
-* naamruimte [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

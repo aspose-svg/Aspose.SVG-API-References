@@ -1,14 +1,14 @@
 ---
-title: Url.Equals
-second_title: Aspose.SVG voor .NET API-referentie
-description: Url methode. Bepaalt of de opgegevenObject  is gelijk aan deze instantie.
+title: "Url.Equals"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Url Equals-methode. Bepaalt of het opgegeven Object gelijk is aan deze instantie."
 type: docs
 weight: 140
 url: /nl/net/aspose.svg/url/equals/
 ---
 ## Url.Equals method
 
-Bepaalt of de opgegevenObject , is gelijk aan deze instantie.
+Bepaalt of het opgegeven Object gelijk is aan deze instantie.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| obj | Object | DeObject te vergelijken met dit exemplaar. |
+| obj | Object | Het Object om te vergelijken met deze instantie. |
 
-### Winstwaarde
+### Retourwaarde
 
-`WAAR` als de opgegevenObject is gelijk aan deze instantie; anders,`vals` .
+`true` als het opgegeven Object gelijk is aan deze instantie; anders, `false`.
 
 ### Zie ook
 
 * class [Url](../)
-* naamruimte [Aspose.Svg](../../url/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

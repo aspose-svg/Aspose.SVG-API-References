@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.Item
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSStyleDeclaration eigendom. Wordt gebruikt om de eigenschappen op te halen die expliciet zijn ingesteld in dit declaratieblok. De volgorde van de eigenschappen die met deze methode worden opgehaald hoeft niet de volgorde te zijn waarin ze zijn ingesteld. Deze methode kan worden gebruikt om alle eigenschappen in dit declaratieblok te herhalen.
+title: "ICSSStyleDeclaration.Item"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSStyleDeclaration Item-eigenschap. Gebruikt om de eigenschappen op te halen die expliciet zijn ingesteld in dit declaratieblok. De volgorde van de opgehaalde eigenschappen met deze methode hoeft niet overeen te komen met de volgorde waarin ze zijn ingesteld. Deze methode kan worden gebruikt om over alle eigenschappen in dit declaratieblok te itereren."
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom.css/icssstyledeclaration/item/
 ---
 ## ICSSStyleDeclaration indexer
 
-Wordt gebruikt om de eigenschappen op te halen die expliciet zijn ingesteld in dit declaratieblok. De volgorde van de eigenschappen die met deze methode worden opgehaald, hoeft niet de volgorde te zijn waarin ze zijn ingesteld. Deze methode kan worden gebruikt om alle eigenschappen in dit declaratieblok te herhalen.
+Gebruikt om de eigenschappen op te halen die expliciet zijn ingesteld in dit declaratieblok. De volgorde van de opgehaalde eigenschappen met deze methode hoeft niet overeen te komen met de volgorde waarin ze zijn ingesteld. Deze methode kan worden gebruikt om over alle eigenschappen in dit declaratieblok te itereren.
 
 ```csharp
 public string this[int index] { get; }
@@ -16,16 +16,14 @@ public string this[int index] { get; }
 
 | Parameter | Beschrijving |
 | --- | --- |
-| index | De eigendomsindex |
+| index | De eigenschapsindex |
 
-### Winstwaarde
+### Retourwaarde
 
 De CSS-waarde.
 
 ### Zie ook
 
 * interface [ICSSStyleDeclaration](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

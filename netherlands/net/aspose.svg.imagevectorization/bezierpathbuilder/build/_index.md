@@ -1,34 +1,29 @@
 ---
-title: BezierPathBuilder.Build
-second_title: Aspose.SVG voor .NET API-referentie
-description: BezierPathBuilder methode. Bouwt padsegmenten op uit de lijst met traceerpunten.
+title: "BezierPathBuilder.Build"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "BezierPathBuilder Build-methode. Bouwt een geoptimaliseerd Bezier-pad op basis van een reeks trace-punten. De methode benadert de gegeven trace met een Bezier-kromme door een combinatie van lijn- en krommesegmenten te gebruiken. Het streeft ernaar het aantal segmenten te minimaliseren terwijl het pad nauw aansluit bij de oorspronkelijke trace."
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.imagevectorization/bezierpathbuilder/build/
 ---
 ## BezierPathBuilder.Build method
 
-Bouwt padsegmenten op uit de lijst met traceerpunten.
+Construeert een geoptimaliseerd Bezier-pad uit een reeks trace-punten. De methode benadert de gegeven trace met een Bezier-curve, gebruikmakend van een combinatie van lijn- en curve-segmenten. Het streeft ernaar het aantal segmenten te minimaliseren terwijl het pad nauwkeurig aansluit op de originele trace.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| trace | IEnumerable`1 | De lijst met traceerpunten |
-| path | SVGPathElement | Het SVG-padelement waar padsegmenten worden toegevoegd. |
+| trace | IEnumerable`1 | De reeks punten die de te benaderen trace definiëren. |
 
-### Winstwaarde
+### Retourwaarde
 
-De lijst met padsegmenten[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+Een tekenreeks die de SVG-padgegevens vertegenwoordigt. Deze gegevens bestaan uit een reeks commando's en coördinaten die het Bezier-pad definiëren, waarbij de invoertrace nauwkeurig wordt benaderd met minimale complexiteit.
 
 ### Zie ook
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * class [BezierPathBuilder](../)
-* naamruimte [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

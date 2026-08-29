@@ -1,7 +1,7 @@
 ---
-title: UnitType.In
-second_title: Aspose.SVG voor .NET API-referentie
-description: UnitType veld. Meting is in inches
+title: "UnitType.In"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "UnitType In-veld. Meting is in duimen"
 type: docs
 weight: 120
 url: /nl/net/aspose.svg.drawing/unittype/in/
@@ -17,7 +17,5 @@ public static readonly UnitType In;
 ### Zie ook
 
 * class [UnitType](../)
-* naamruimte [Aspose.Svg.Drawing](../../unittype/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

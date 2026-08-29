@@ -1,44 +1,42 @@
 ---
-title: Aspose.Svg.Rendering
-second_title: Aspose.SVG voor .NET API-referentie
-description: De Aspose.Svg.Renderingnaamruimte bestaat uit talrijke rendererobjecten evenals geschikte lowlevel optieklassen die verantwoordelijk zijn voor documenten/bestanden weergeven in IDeviceimplementatie.
+title: "Aspose.Svg.Rendering"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "De Aspose.Svg.Rendering namespace bestaat uit talrijke renderer‑objecten evenals geschikte low‑level optieklassen die verantwoordelijk zijn voor het renderen van documenten/bestanden naar een IDevice‑implementatie."
 type: docs
-weight: 240
+weight: 260
 url: /nl/net/aspose.svg.rendering/
 ---
-De **Aspose.Svg.Rendering**naamruimte bestaat uit talrijke renderer-objecten evenals geschikte low-level optieklassen die verantwoordelijk zijn voor documenten/bestanden weergeven in IDevice-implementatie.
+De **Aspose.Svg.Rendering** namespace bestaat uit talrijke renderer‑objecten evenals geschikte low‑level optieklassen die verantwoordelijk zijn voor het renderen van documenten/bestanden naar een IDevice‑implementatie.
 
 ## Klassen
 
-| Klas | Beschrijving |
+| Klasse | Beschrijving |
 | --- | --- |
-| [CssOptions](./cssoptions/) | Vertegenwoordigt css-renderingopties. |
-| [Device](./device/) | Vertegenwoordigt een basisklasse voor het implementeren van weergaveapparaten die worden gebruikt om afbeeldingen in verschillende indelingen en omgevingen te tekenen. |
-| [Device&lt;TGraphicContext,TRenderingOptions&gt;](./device-2/) | Vertegenwoordigt basisklasse voor implementatie van bepaalde weergaveapparaten. |
-| [GraphicContext](./graphiccontext/) | Bevat huidige grafische besturingsparameters. Deze parameters definiëren het globale raamwerk waarbinnen de grafische operators uitvoeren. |
-| [PageSetup](./pagesetup/) | Vertegenwoordigt een pagina-instellingsobject dat wordt gebruikt voor configuratie-uitvoer paginaset. |
-| [Renderer](./renderer/) | Vertegenwoordigt een basisklasse voor alle renderers en implementeert IDisposable interface. |
-| [Renderer&lt;TDocument&gt;](./renderer-1/) | Vertegenwoordigt een abstracte klasse voor alle renderers. |
-| [RenderingOptions](./renderingoptions/) | Vertegenwoordigt weergave-opties. |
-| [SvgRenderer](./svgrenderer/) | Vertegenwoordigt SVG-documentrenderer. |
+| [CssOptions](./cssoptions/) | Stelt CSS‑renderopties voor. |
+| [Device](./device/) | Stelt een basisklasse voor voor het implementeren van renderapparaten die worden gebruikt om grafische elementen te tekenen in verschillende formaten en omgevingen. |
+| [Device<TGraphicContext,TRenderingOptions>](./device-2/) | Stelt de basisklasse voor de implementatie van specifieke renderapparaten voor. |
+| [GraphicContext](./graphiccontext/) | Bevat de huidige grafische controle‑parameters. Deze parameters definiëren het globale kader waarbinnen de grafische operatoren worden uitgevoerd. |
+| [PageSetup](./pagesetup/) | Stelt een paginainstellingsobject voor dat wordt gebruikt voor de configuratie van de uitvoer‑paginaset. |
+| [Renderer](./renderer/) | Stelt een basisklasse voor alle renderers voor en implementeert de IDisposable‑interface. |
+| [Renderer<TSource>](./renderer-1/) | De abstracte basisklasse voor alle renderers. |
+| [RenderingOptions](./renderingoptions/) | Stelt renderopties voor. |
+| [SvgRenderer](./svgrenderer/) | Stelt een SVG‑documentrenderer voor. |
 | [TextInfo](./textinfo/) | Bevat informatie over gerenderde tekst. |
-## Structuren
+## Structures
 
 | Structuur | Beschrijving |
 | --- | --- |
-| [GlyphInfo](./glyphinfo/) | Bevat glyph-gerelateerde informatie. |
+| [GlyphInfo](./glyphinfo/) | Bevat informatie gerelateerd aan glyphs. |
 ## Interfaces
 
-| Koppel | Beschrijving |
+| Interface | Beschrijving |
 | --- | --- |
-| [IDevice](./idevice/) | Definieert methoden en eigenschappen die aangepaste weergave van de grafische elementen zoals paden, tekst en afbeeldingen ondersteunen. |
-## Opsomming
+| [IDevice](./idevice/) | Definieert methoden en eigenschappen die aangepaste rendering van grafische elementen zoals paden, tekst en afbeeldingen ondersteunen. |
+## Enumeratie
 
-| Opsomming | Beschrijving |
+| Enumeratie | Beschrijving |
 | --- | --- |
-| [AtPagePriority](./atpagepriority/) | Specificeert mogelijke volgordes voor het toepassen van paginaformaatdeclaraties. |
-| [ImageType](./imagetype/) | Specificeert de bestandsindeling van de afbeelding |
+| [AtPagePriority](./atpagepriority/) | Specificeert mogelijke volgordes voor het toepassen van paginagrootte‑declaraties. |
+| [BooleanPathOp](./booleanpathop/) | Specificeert de booleaanse bewerking die wordt gebruikt bij het combineren van twee paden. |
 | [MediaType](./mediatype/) | Specificeert mogelijke mediatypen die tijdens het renderen worden gebruikt. |
-| [SizingType](./sizingtype/) | Vertegenwoordigt de opsomming van typen paginagrootte. |
-
-
+| [SizingType](./sizingtype/) | Stelt de enumeratie van paginagrootte‑typen voor. |

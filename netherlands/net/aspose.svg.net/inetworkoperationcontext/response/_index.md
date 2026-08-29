@@ -1,28 +1,26 @@
 ---
-title: INetworkOperationContext.Response
-second_title: Aspose.SVG voor .NET API-referentie
-description: INetworkOperationContext eigendom. Ontvangt of stelt het antwoordbericht in.
+title: "INetworkOperationContext.Response"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "INetworkOperationContext Response‑eigenschap. Haalt het responsbericht op of stelt het in"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.net/inetworkoperationcontext/response/
 ---
 ## INetworkOperationContext.Response property
 
-Ontvangt of stelt het antwoordbericht in.
+Haalt op of stelt het responsbericht in.
 
 ```csharp
 public ResponseMessage Response { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het antwoordbericht.
+Het responsbericht.
 
 ### Zie ook
 
 * class [ResponseMessage](../../responsemessage/)
 * interface [INetworkOperationContext](../)
-* naamruimte [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

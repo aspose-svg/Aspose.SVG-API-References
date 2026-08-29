@@ -1,14 +1,14 @@
 ---
-title: PdfRenderingOptions.Encryption
-second_title: Aspose.SVG voor .NET API-referentie
-description: PdfRenderingOptions eigendom. Verkrijgt of stelt coderingsdetails in. Indien niet ingesteld wordt er geen codering uitgevoerd.
+title: "PdfRenderingOptions.Encryption"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "PdfRenderingOptions Encryption-eigenschap. Haalt encryptiegegevens op of stelt ze in. Indien niet ingesteld, wordt er geen encryptie uitgevoerd."
 type: docs
 weight: 30
 url: /nl/net/aspose.svg.rendering.pdf/pdfrenderingoptions/encryption/
 ---
 ## PdfRenderingOptions.Encryption property
 
-Verkrijgt of stelt coderingsdetails in. Indien niet ingesteld, wordt er geen codering uitgevoerd.
+Haalt op of stelt encryptiedetails in. Indien niet ingesteld, wordt er geen encryptie uitgevoerd.
 
 ```csharp
 public PdfEncryptionInfo Encryption { get; set; }
@@ -18,7 +18,5 @@ public PdfEncryptionInfo Encryption { get; set; }
 
 * class [PdfEncryptionInfo](../../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/)
 * class [PdfRenderingOptions](../)
-* naamruimte [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

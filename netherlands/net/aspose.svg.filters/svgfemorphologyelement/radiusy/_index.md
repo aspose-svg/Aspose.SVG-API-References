@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.RadiusY
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGFEMorphologyElement eigendom. Komt overeen met attribuut radius op het gegeven feMorphologyelement.
+title: "SVGFEMorphologyElement.RadiusY"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGFEMorphologyElement RadiusY eigenschap. Komt overeen met attribuut radius op het opgegeven feMorphology-element"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.filters/svgfemorphologyelement/radiusy/
 ---
 ## SVGFEMorphologyElement.RadiusY property
 
-Komt overeen met attribuut 'radius' op het gegeven 'feMorphology'-element.
+Komt overeen met attribuut ‘radius’ op het opgegeven ‘feMorphology’-element.
 
 ```csharp
 public SVGAnimatedNumber RadiusY { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het attribuut 'radius' van het gegeven 'feMorphology' element.
+Het attribuut ‘radius’ van het opgegeven ‘feMorphology’-element.
 
 ### Zie ook
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEMorphologyElement](../)
-* naamruimte [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

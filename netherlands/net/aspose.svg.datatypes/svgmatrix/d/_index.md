@@ -1,33 +1,31 @@
 ---
-title: SVGMatrix.D
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGMatrix eigendom. De Dcomponent van de matrix.
+title: "SVGMatrix.D"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGMatrix D eigenschap. Het D-component van de matrix"
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.datatypes/svgmatrix/d/
 ---
 ## SVGMatrix.D property
 
-De D-component van de matrix.
+Het D-component van de matrix.
 
 ```csharp
 public float D { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De D-component van de matrix.
+Het D-component van de matrix.
 
 ### Uitzonderingen
 
-| uitzondering | voorwaarde |
+| exceptie | conditie |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | -code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Verhoogd bij een poging om de waarde van een alleen-lezen kenmerk te wijzigen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Opgevoerd bij een poging om de waarde van een alleen‑lezen attribuut te wijzigen. |
 
 ### Zie ook
 
 * class [SVGMatrix](../)
-* naamruimte [Aspose.Svg.DataTypes](../../svgmatrix/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

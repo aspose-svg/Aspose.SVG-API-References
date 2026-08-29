@@ -1,33 +1,31 @@
 ---
-title: Device2.BeginElement
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Begint de weergave van het knooppunt.
+title: "Device-2.BeginElement"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device BeginElement-methode. Begint met het renderen van het knooppunt"
 type: docs
-weight: 50
+weight: 80
 url: /nl/net/aspose.svg.rendering/device-2/beginelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginElement method
+## Device<TGraphicContext,TRenderingOptions>.BeginElement method
 
-Begint de weergave van het knooppunt.
+Begint met het renderen van het knooppunt.
 
 ```csharp
-public abstract bool BeginElement(Element element, RectangleF rect)
+public virtual bool BeginElement(Element element, RectangleF rect)
 ```
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| element | Element | De[`Element`](../../../aspose.svg.dom/element/). |
-| rect | RectangleF | Begrenzingskader van het knooppunt. |
+| element | Element | De [`Element`](../../../aspose.svg.dom/element/). |
+| rect | RectangleF | Omhullende doos van het knooppunt. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert [true] als het element moet worden verwerkt.
+Retourneert [true] als het element verwerkt moet worden.
 
 ### Zie ook
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

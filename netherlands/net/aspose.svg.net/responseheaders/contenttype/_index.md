@@ -1,28 +1,26 @@
 ---
-title: ResponseHeaders.ContentType
-second_title: Aspose.SVG voor .NET API-referentie
-description: ResponseHeaders eigendom. Haalt de waarde van de ContentTypeheader op.
+title: "ResponseHeaders.ContentType"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ResponseHeaders ContentType eigenschap. Haalt de Content-Type headerwaarde op"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.net/responseheaders/contenttype/
 ---
 ## ResponseHeaders.ContentType property
 
-Haalt de waarde van de Content-Type-header op.
+Haalt de Content-Type-headerwaarde op.
 
 ```csharp
 public ContentTypeHeaderValue ContentType { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het type inhoud.
+Het type van de inhoud.
 
 ### Zie ook
 
 * class [ContentTypeHeaderValue](../../../aspose.svg.net.headers/contenttypeheadervalue/)
 * class [ResponseHeaders](../)
-* naamruimte [Aspose.Svg.Net](../../responseheaders/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

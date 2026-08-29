@@ -1,14 +1,14 @@
 ---
-title: Interface ITrueTypeFont
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Drawing.ITrueTypeFont koppel. Verklaart methoden voor het werken met TrueTypelettertype.
+title: "ITrueTypeFont-interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Drawing.ITrueTypeFont-interface. Declareert methoden voor het werken met TrueType-lettertypen"
 type: docs
-weight: 1510
+weight: 3540
 url: /nl/net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
 
-Verklaart methoden voor het werken met TrueType-lettertype.
+Declareert methoden voor het werken met TrueType-lettertypen.
 
 ```csharp
 public interface ITrueTypeFont
@@ -18,22 +18,21 @@ public interface ITrueTypeFont
 
 | Naam | Beschrijving |
 | --- | --- |
-| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Retourneert de grootte van de lettertypegegevens in bytes |
-| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Haal de naam van de lettertypefamilie op. |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Dit moet een combinatie zijn van "FamilyName" en "SubFamilyName". Uitzondering: als het lettertype "Regular" is zoals aangegeven in "SubFamilyName", gebruik dan alleen de familienaam die in "FamilyName" staat. Een uitzondering op de bovenstaande definitie van volledige lettertypenaam is voor Microsoft-platformstrings voor CFF OpenType-lettertypen: in dit geval moet de volledige fontnaamstring identiek zijn aan de PostScript FontName in de CFF Name INDEX. |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | De Font Subfamily-naam onderscheidt het font in een groep met dezelfde Font Family-naam. Aangenomen wordt dat dit betrekking heeft op stijl (cursief, schuin) en gewicht (licht, vet, zwart, enz.). Een lettertype zonder bijzondere verschillen in gewicht of stijl (bijv. gemiddeld gewicht, niet cursief en fsSelection bit 6 ingesteld) moet de tekenreeks "Normaal" op deze positie hebben opgeslagen. |
+| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Haalt de grootte van de lettertypegegevens op in bytes. |
+| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Haalt de naam van de lettertypefamilie op. |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | De volledige lettertype-naam wordt over het algemeen weergegeven als een combinatie van familie- en subfamilienaam. |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | Haal de lettertype-stijl op die de waarden van de font-face-regel en gegevens uit het lettertype combineert. |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | De subfamilienaam onderscheidt het lettertype in een groep met dezelfde familienaam. Dit wordt verondersteld om stijl (cursief, schuin) en gewicht (licht, vet, zwart, enz.) aan te duiden. Een lettertype zonder specifieke verschillen in gewicht of stijl moet de tekenreeks "Regular" hebben. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | Geeft als resultaat de stijging, in punten. |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Open de stream met lettertypegegevens. De beller is verantwoordelijk voor het verwijderen van de stream. |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | Geeft als resultaat de daling, in punten. |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(*float*) | Haalt de stijging van het lettertype op in punten met de opgegeven lettertypegrootte. |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Opent de stream met de lettertypegegevens. De aanroeper is verantwoordelijk voor het vrijgeven van de stream. |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(*float*) | Haalt de daling van het lettertype op in punten met de opgegeven lettertypegrootte. |
 
 ### Zie ook
 
-* naamruimte [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

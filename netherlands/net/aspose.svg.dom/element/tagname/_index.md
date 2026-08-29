@@ -1,9 +1,9 @@
 ---
-title: Element.TagName
-second_title: Aspose.SVG voor .NET API-referentie
-description: Element eigendom. De naam van het element.
+title: "Element.TagName"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Element TagName eigenschap. De naam van het element."
 type: docs
-weight: 210
+weight: 200
 url: /nl/net/aspose.svg.dom/element/tagname/
 ---
 ## Element.TagName property
@@ -14,14 +14,12 @@ De naam van het element.
 public string TagName { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De naam van het element.
 
 ### Zie ook
 
 * class [Element](../)
-* naamruimte [Aspose.Svg.Dom](../../element/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

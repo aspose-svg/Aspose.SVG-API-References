@@ -1,14 +1,14 @@
 ---
-title: WheelEvent.WheelEvent
-second_title: Aspose.SVG voor .NET API-referentie
-description: WheelEvent constructeur. Initialiseert een nieuw exemplaar van hetWheelEvent klasse.
+title: "WheelEvent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "WheelEvent‑constructor. Initialiseert een nieuw exemplaar van de WheelEvent‑klasse."
 type: docs
 weight: 10
 url: /nl/net/aspose.svg.dom.events/wheelevent/wheelevent/
 ---
-## WheelEvent(string) {#constructor}
+## WheelEvent(*string*) {#constructor}
 
-Initialiseert een nieuw exemplaar van het[`WheelEvent`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`WheelEvent`](../) klasse.
 
 ```csharp
 public WheelEvent(string type)
@@ -21,14 +21,14 @@ public WheelEvent(string type)
 ### Zie ook
 
 * class [WheelEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../wheelevent/)
-* montage [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## WheelEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## WheelEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Initialiseert een nieuw exemplaar van het[`WheelEvent`](../) klasse.
+Initialiseert een nieuw exemplaar van de [`WheelEvent`](../) klasse.
 
 ```csharp
 public WheelEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public WheelEvent(string type, IDictionary<string, object> eventInitDict)
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
 | type | String | Het gebeurtenistype. |
-| eventInitDict | IDictionary`2 | De gebeurtenis initialiseert woordenboek. |
+| eventInitDict | IDictionary`2 | Het gebeurtenis‑initialisatie‑woordenboek. |
 
 ### Zie ook
 
 * class [WheelEvent](../)
-* naamruimte [Aspose.Svg.Dom.Events](../../wheelevent/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Unit.FromPoints
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenLength object dat wordt weergegeven in punten.
+title: "Unit.FromPoints"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromPoints-methode. Retourneert een Length-object dat wordt weergegeven in punten"
 type: docs
 weight: 180
 url: /nl/net/aspose.svg.drawing/unit/frompoints/
 ---
 ## Unit.FromPoints method
 
-Geeft als resultaat een[`Length`](../../length/) object dat wordt weergegeven in punten.
+Retourneert een [`Length`](../../length/) object dat wordt weergegeven in punten.
 
 ```csharp
 public static Length FromPoints(double value)
@@ -16,17 +16,15 @@ public static Length FromPoints(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Length`](../../length/) voorwerp.
+Retourneert een [`Length`](../../length/) object.
 
 ### Zie ook
 
 * class [Length](../../length/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

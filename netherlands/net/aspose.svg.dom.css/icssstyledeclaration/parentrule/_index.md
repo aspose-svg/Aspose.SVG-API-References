@@ -1,7 +1,7 @@
 ---
-title: ICSSStyleDeclaration.ParentRule
-second_title: Aspose.SVG voor .NET API-referentie
-description: ICSSStyleDeclaration eigendom. De CSSregel die dit declaratieblok bevat of null als deze CSSStyleDeclaration niet is gekoppeld aan een CSSRule.
+title: "ICSSStyleDeclaration.ParentRule"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ICSSStyleDeclaration ParentRule-eigenschap. De CSS-regel die dit declaratieblok bevat of null als deze CSSStyleDeclaration niet is gekoppeld aan een CSSRule."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg.dom.css/icssstyledeclaration/parentrule/
@@ -14,7 +14,7 @@ De CSS-regel die dit declaratieblok bevat of null als deze CSSStyleDeclaration n
 public ICSSRule ParentRule { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De bovenliggende regel.
 
@@ -22,7 +22,5 @@ De bovenliggende regel.
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSStyleDeclaration](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

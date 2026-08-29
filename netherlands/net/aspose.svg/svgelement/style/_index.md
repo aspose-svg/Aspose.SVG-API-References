@@ -1,20 +1,20 @@
 ---
-title: SVGElement.Style
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGElement eigendom. Komt overeen met attribuut style op het gegeven element. Als de user agent styling met CSS niet ondersteunt dan moet dit attribuut altijd de waarde null hebben.
+title: "SVGElement.Style"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGElement Style-eigenschap. Komt overeen met het style-attribuut op het opgegeven element. Als de user agent geen styling met CSS ondersteunt, moet dit attribuut altijd de waarde null hebben."
 type: docs
 weight: 40
 url: /nl/net/aspose.svg/svgelement/style/
 ---
 ## SVGElement.Style property
 
-Komt overeen met attribuut 'style' op het gegeven element. Als de user agent styling met CSS niet ondersteunt, dan moet dit attribuut altijd de waarde null hebben.
+Komt overeen met het attribuut ‘style’ van het opgegeven element. Als de user agent geen styling met CSS ondersteunt, moet dit attribuut altijd de waarde null hebben.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
 De stijl.
 
@@ -22,7 +22,5 @@ De stijl.
 
 * interface [ICSSStyleDeclaration](../../../aspose.svg.dom.css/icssstyledeclaration/)
 * class [SVGElement](../)
-* naamruimte [Aspose.Svg](../../svgelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

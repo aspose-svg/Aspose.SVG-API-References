@@ -1,14 +1,14 @@
 ---
-title: Device2.SaveGraphicContext
-second_title: Aspose.SVG voor .NET API-referentie
-description: Device methode. Duwt een kopie van de volledige grafische context naar de stapel.
+title: "Device-2.SaveGraphicContext"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Device SaveGraphicContext-methode. Plaatst een kopie van de volledige grafische context op de stack."
 type: docs
-weight: 210
+weight: 240
 url: /nl/net/aspose.svg.rendering/device-2/savegraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.SaveGraphicContext method
 
-Duwt een kopie van de volledige grafische context naar de stapel.
+Zet een kopie van de volledige grafische context op de stack.
 
 ```csharp
 public virtual void SaveGraphicContext()
@@ -17,7 +17,5 @@ public virtual void SaveGraphicContext()
 ### Zie ook
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* naamruimte [Aspose.Svg.Rendering](../../device-2/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

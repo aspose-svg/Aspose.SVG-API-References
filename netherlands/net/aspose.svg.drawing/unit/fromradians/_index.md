@@ -1,14 +1,14 @@
 ---
-title: Unit.FromRadians
-second_title: Aspose.SVG voor .NET API-referentie
-description: Unit methode. Geeft als resultaat eenAngle object dat wordt weergegeven in radialen.
+title: "Unit.FromRadians"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Unit FromRadians-methode. Retourneert een Angle-object dat wordt weergegeven in radians"
 type: docs
 weight: 200
 url: /nl/net/aspose.svg.drawing/unit/fromradians/
 ---
 ## Unit.FromRadians method
 
-Geeft als resultaat een[`Angle`](../../angle/) object dat wordt weergegeven in radialen.
+Retourneert een [`Angle`](../../angle/) object dat wordt weergegeven in radians.
 
 ```csharp
 public static Angle FromRadians(double value)
@@ -16,17 +16,15 @@ public static Angle FromRadians(double value)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| value | Double | De waarde. |
+| waarde | Double | De waarde. |
 
-### Winstwaarde
+### Retourwaarde
 
-Retourneert een[`Angle`](../../angle/) voorwerp.
+Retourneert een [`Angle`](../../angle/) object.
 
 ### Zie ook
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* naamruimte [Aspose.Svg.Drawing](../../unit/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

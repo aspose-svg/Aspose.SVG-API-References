@@ -1,14 +1,14 @@
 ---
-title: DOMException.NETWORK_ERR
-second_title: Aspose.SVG voor .NET API-referentie
-description: DOMException veld. Er is een netwerkfout opgetreden.
+title: "DOMException.NETWORK_ERR"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "DOMException NETWORK_ERR veld. Er trad een netwerkfout op"
 type: docs
 weight: 180
 url: /nl/net/aspose.svg.dom/domexception/network_err/
 ---
 ## DOMException.NETWORK_ERR field
 
-Er is een netwerkfout opgetreden.
+Er trad een netwerkfout op.
 
 ```csharp
 public const ushort NETWORK_ERR;
@@ -17,7 +17,5 @@ public const ushort NETWORK_ERR;
 ### Zie ook
 
 * class [DOMException](../)
-* naamruimte [Aspose.Svg.Dom](../../domexception/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

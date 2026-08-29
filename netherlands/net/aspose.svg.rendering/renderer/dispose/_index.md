@@ -1,14 +1,14 @@
 ---
-title: Renderer.Dispose
-second_title: Aspose.SVG voor .NET API-referentie
-description: Renderer methode. Geeft onbeheerde en  optioneel  beheerde bronnen vrij.
+title: "Renderer.Dispose"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Renderer Dispose methode. Vrijgeeft niet-beheerde en - optioneel - beheerde bronnen"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.rendering/renderer/dispose/
 ---
 ## Renderer.Dispose method
 
-Geeft onbeheerde en - optioneel - beheerde bronnen vrij.
+Vrijgeeft niet‑beheerde en - optioneel - beheerde bronnen.
 
 ```csharp
 public void Dispose()
@@ -17,7 +17,5 @@ public void Dispose()
 ### Zie ook
 
 * class [Renderer](../)
-* naamruimte [Aspose.Svg.Rendering](../../renderer/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

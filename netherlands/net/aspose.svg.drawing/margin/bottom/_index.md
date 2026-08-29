@@ -1,28 +1,26 @@
 ---
-title: Margin.Bottom
-second_title: Aspose.SVG voor .NET API-referentie
-description: Margin eigendom. Krijgt of zet de bodem.
+title: "Margin.Bottom"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Margin Bottom eigenschap. Haalt op of stelt de onderkant in"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.drawing/margin/bottom/
 ---
 ## Margin.Bottom property
 
-Krijgt of zet de bodem.
+Haalt op of stelt de onderkant in.
 
 ```csharp
 public LengthOrAuto Bottom { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De bodem.
+De onderkant.
 
 ### Zie ook
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* naamruimte [Aspose.Svg.Drawing](../../margin/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

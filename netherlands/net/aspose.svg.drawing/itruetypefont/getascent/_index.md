@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.GetAscent
-second_title: Aspose.SVG voor .NET API-referentie
-description: ITrueTypeFont methode. Geeft als resultaat de stijging in punten.
+title: "ITrueTypeFont.GetAscent"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ITrueTypeFont GetAscent-methode. Haalt de stijging van het lettertype op in punten met behulp van de opgegeven lettertypegrootte."
 type: docs
-weight: 50
+weight: 60
 url: /nl/net/aspose.svg.drawing/itruetypefont/getascent/
 ---
 ## ITrueTypeFont.GetAscent method
 
-Geeft als resultaat de stijging, in punten.
+Haalt de stijging van het lettertype op in punten met de opgegeven lettertypegrootte.
 
 ```csharp
 public float GetAscent(float fontSize)
@@ -16,16 +16,14 @@ public float GetAscent(float fontSize)
 
 | Parameter | Type | Beschrijving |
 | --- | --- | --- |
-| fontSize | Single | Grootte van het lettertype. |
+| lettergrootte | Single | De grootte van het lettertype. |
 
-### Winstwaarde
+### Retourwaarde
 
-De stijging in punten.
+De stijging van het lettertype in punten.
 
 ### Zie ook
 
 * interface [ITrueTypeFont](../)
-* naamruimte [Aspose.Svg.Drawing](../../itruetypefont/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

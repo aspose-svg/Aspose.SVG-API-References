@@ -1,28 +1,26 @@
 ---
-title: ResponseMessage.Content
-second_title: Aspose.SVG voor .NET API-referentie
-description: ResponseMessage eigendom. Haalt de antwoordinhoud op of stelt deze in.
+title: "ResponseMessage.Content"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "ResponseMessage Content-eigenschap. Haalt op of stelt de responsinhoud in"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.net/responsemessage/content/
 ---
 ## ResponseMessage.Content property
 
-Haalt de antwoordinhoud op of stelt deze in.
+Haalt of stelt de responsinhoud in.
 
 ```csharp
 public Content Content { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het lichaam.
+De body.
 
 ### Zie ook
 
 * class [Content](../../content/)
 * class [ResponseMessage](../)
-* naamruimte [Aspose.Svg.Net](../../responsemessage/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Color.WithHue
-second_title: Aspose.SVG voor .NET API-referentie
-description: Color methode. Maakt een kopie van de kleur met opgegeven tint.
+title: "Color.WithHue"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Color WithHue-methode. Maakt een kopie van de Color met de opgegeven tint."
 type: docs
 weight: 460
 url: /nl/net/aspose.svg.drawing/color/withhue/
@@ -18,14 +18,12 @@ public Color WithHue(float hue)
 | --- | --- | --- |
 | hue | Single | Waarde van tint. |
 
-### Winstwaarde
+### Retourwaarde
 
-&gt;Een nieuw exemplaar van de[`Color`](../) klas.
+&gt;Een nieuw exemplaar van de [`Color`](../) klasse.
 
 ### Zie ook
 
 * class [Color](../)
-* naamruimte [Aspose.Svg.Drawing](../../color/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

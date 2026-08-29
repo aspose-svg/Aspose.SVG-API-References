@@ -1,27 +1,31 @@
 ---
-title: Node.Prefix
-second_title: Aspose.SVG voor .NET API-referentie
-description: Node eigendom. Het naamruimtevoorvoegsel van dit knooppunt of null als het niet is gespecificeerd. Als het is gedefinieerd als null heeft het instellen ervan geen effect
+title: "Node.Prefix"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Node Prefix eigenschap. Retourneert het namespace‑voorvoegsel van het opgegeven element of null als er geen voorvoegsel is opgegeven"
 type: docs
-weight: 150
+weight: 140
 url: /nl/net/aspose.svg.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-Het naamruimtevoorvoegsel van dit knooppunt, of null als het niet is gespecificeerd. Als het is gedefinieerd als null, heeft het instellen ervan geen effect
+Retourneert het namespace-voorvoegsel van het opgegeven element, of null als er geen voorvoegsel is opgegeven.
 
 ```csharp
 public virtual string Prefix { get; set; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het voorvoegsel.
+De eigenschap retourneert het bijbehorende namespace‑voorvoegsel.
+
+## Opmerkingen
+
+Referentie:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
 
 ### Zie ook
 
 * class [Node](../)
-* naamruimte [Aspose.Svg.Dom](../../node/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

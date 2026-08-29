@@ -1,14 +1,14 @@
 ---
-title: IStyleSheet.Title
-second_title: Aspose.SVG voor .NET API-referentie
-description: IStyleSheet eigendom. De titel van het advies.
+title: "IStyleSheet.Title"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IStyleSheet Title property. De advies‑titel"
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom.css/istylesheet/title/
 ---
 ## IStyleSheet.Title property
 
-De titel van het advies.
+De adviserende titel.
 
 ```csharp
 public string Title { get; }
@@ -17,7 +17,5 @@ public string Title { get; }
 ### Zie ook
 
 * interface [IStyleSheet](../)
-* naamruimte [Aspose.Svg.Dom.Css](../../istylesheet/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

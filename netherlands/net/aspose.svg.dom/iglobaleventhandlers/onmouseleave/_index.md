@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnMouseLeave
-second_title: Aspose.SVG voor .NET API-referentie
-description: IGlobalEventHandlers evenement. Haalt of stelt gebeurtenishandler in voor OnMouseLeavegebeurtenis.
+title: "IGlobalEventHandlers.OnMouseLeave"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "IGlobalEventHandlers OnMouseLeave gebeurtenis. Haalt of stelt de event handler in voor de OnMouseLeave gebeurtenis"
 type: docs
 weight: 260
 url: /nl/net/aspose.svg.dom/iglobaleventhandlers/onmouseleave/
 ---
 ## IGlobalEventHandlers.OnMouseLeave event
 
-Haalt of stelt gebeurtenishandler in voor OnMouseLeave-gebeurtenis.
+Haalt op of stelt de eventhandler in voor het OnMouseLeave event.
 
 ```csharp
 public event DOMEventHandler OnMouseLeave;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseLeave;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* naamruimte [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

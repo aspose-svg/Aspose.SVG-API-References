@@ -1,14 +1,14 @@
 ---
-title: CharacterData.InsertData
-second_title: Aspose.SVG voor .NET API-referentie
-description: CharacterData methode. Voeg een tekenreeks in met de opgegeven 16bits eenheidsoffset.
+title: "CharacterData.InsertData"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "CharacterData InsertData methode. Voeg een tekenreeks in op de opgegeven 16-bit eenheidsoffset"
 type: docs
 weight: 50
 url: /nl/net/aspose.svg.dom/characterdata/insertdata/
 ---
 ## CharacterData.InsertData method
 
-Voeg een tekenreeks in met de opgegeven 16-bits eenheidsoffset.
+Voeg een tekenreeks in op de opgegeven 16-bit eenheidsoffset.
 
 ```csharp
 public virtual void InsertData(int offset, string data)
@@ -22,7 +22,5 @@ public virtual void InsertData(int offset, string data)
 ### Zie ook
 
 * class [CharacterData](../)
-* naamruimte [Aspose.Svg.Dom](../../characterdata/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

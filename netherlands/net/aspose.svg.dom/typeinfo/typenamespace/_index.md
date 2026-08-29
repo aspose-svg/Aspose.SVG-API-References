@@ -1,27 +1,25 @@
 ---
-title: TypeInfo.TypeNamespace
-second_title: Aspose.SVG voor .NET API-referentie
-description: TypeInfo eigendom. Haalt het type naamruimte op. De naamruimte van het type dat is gedeclareerd voor het bijbehorende element of attribuut of null als het element geen declaratie heeft of als er geen naamruimteinformatie beschikbaar is.
+title: "TypeInfo.TypeNamespace"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "TypeInfo TypeNamespace eigenschap. Haalt de type-namespace op. De namespace van het type dat is gedeclareerd voor het bijbehorende element of attribuut, of null als het element geen declaratie heeft of als er geen namespace-informatie beschikbaar is"
 type: docs
 weight: 20
 url: /nl/net/aspose.svg.dom/typeinfo/typenamespace/
 ---
 ## TypeInfo.TypeNamespace property
 
-Haalt het type naamruimte op. De naamruimte van het type dat is gedeclareerd voor het bijbehorende element of attribuut of null als het element geen declaratie heeft of als er geen naamruimte-informatie beschikbaar is.
+Haalt de type-namespace op. De namespace van het type dat is gedeclareerd voor het gekoppelde element of attribuut of null als het element geen declaratie heeft of als er geen namespace-informatie beschikbaar is.
 
 ```csharp
 public string TypeNamespace { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-Het type naamruimte.
+De type-namespace.
 
 ### Zie ook
 
 * class [TypeInfo](../)
-* naamruimte [Aspose.Svg.Dom](../../typeinfo/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

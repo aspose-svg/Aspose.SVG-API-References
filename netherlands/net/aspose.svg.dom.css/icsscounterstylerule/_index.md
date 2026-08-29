@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSCounterStyleRule
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.ICSSCounterStyleRule koppel. Met de counterstyleregel kunnen auteurs een aangepaste tellerstijl definiëren.
+title: "ICSSCounterStyleRule Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.ICSSCounterStyleRule interface. De counter-style regel stelt auteurs in staat een aangepaste tellerstijl te definiëren."
 type: docs
-weight: 540
+weight: 2540
 url: /nl/net/aspose.svg.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface
 
-Met de @counter-style-regel kunnen auteurs een aangepaste tellerstijl definiëren.
+De @counter-style‑regel stelt auteurs in staat om een aangepaste tellerstijl te definiëren.
 
 ```csharp
 public interface ICSSCounterStyleRule : ICSSRule
@@ -18,17 +18,15 @@ public interface ICSSCounterStyleRule : ICSSRule
 
 | Naam | Beschrijving |
 | --- | --- |
-| [CounterType](../../aspose.svg.dom.css/icsscounterstylerule/countertype/) { get; } | Krijgt het type van de teller. |
-| [Fallback](../../aspose.svg.dom.css/icsscounterstylerule/fallback/) { get; } | Krijgt de fallback. |
-| [Glyphs](../../aspose.svg.dom.css/icsscounterstylerule/glyphs/) { get; } | Krijgt de glyphs. |
-| [Name](../../aspose.svg.dom.css/icsscounterstylerule/name/) { get; } | Krijgt de naam. |
-| [Prefix](../../aspose.svg.dom.css/icsscounterstylerule/prefix/) { get; } | Krijgt het voorvoegsel. |
-| [Suffix](../../aspose.svg.dom.css/icsscounterstylerule/suffix/) { get; } | Krijgt het achtervoegsel. |
+| [CounterType](../../aspose.svg.dom.css/icsscounterstylerule/countertype/) { get; } | Haalt het type van de teller op. |
+| [Fallback](../../aspose.svg.dom.css/icsscounterstylerule/fallback/) { get; } | Haalt de fallback op. |
+| [Glyphs](../../aspose.svg.dom.css/icsscounterstylerule/glyphs/) { get; } | Haalt de glyphs op. |
+| [Name](../../aspose.svg.dom.css/icsscounterstylerule/name/) { get; } | Haalt de naam op. |
+| [Prefix](../../aspose.svg.dom.css/icsscounterstylerule/prefix/) { get; } | Haalt het voorvoegsel op. |
+| [Suffix](../../aspose.svg.dom.css/icsscounterstylerule/suffix/) { get; } | Haalt het achtervoegsel op. |
 
 ### Zie ook
 
 * interface [ICSSRule](../icssrule/)
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

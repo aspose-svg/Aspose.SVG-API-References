@@ -1,67 +1,65 @@
 ---
-title: Class Event
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Events.Event klas. DeEvent wordt gebruikt om contextuele informatie over een gebeurtenis te verstrekken aan de handler die de gebeurtenis verwerkt.
+title: "Event Klasse"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Events.Event‑klasse. Het Event wordt gebruikt om contextuele informatie over een event te verstrekken aan de handler die het event verwerkt."
 type: docs
-weight: 920
+weight: 2920
 url: /nl/net/aspose.svg.dom.events/event/
 ---
 ## Event class
 
-De`Event` wordt gebruikt om contextuele informatie over een gebeurtenis te verstrekken aan de handler die de gebeurtenis verwerkt.
+Het `Event` wordt gebruikt om contextuele informatie over een event te verstrekken aan de handler die het event verwerkt.
 
 ```csharp
 public class Event : DOMObject
 ```
 
-## Constructeurs
+## Constructors
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Event](event/#constructor)(string) | Initialiseert een nieuw exemplaar van het`Event` klasse. |
-| [Event](event/#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initialiseert een nieuw exemplaar van het`Event` klasse. |
+| [Event](event/#constructor)(*string*) | Initialiseert een nieuw exemplaar van de `Event`‑klasse. |
+| [Event](event/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) | Initialiseert een nieuw exemplaar van de `Event`‑klasse. |
 
 ## Eigenschappen
 
 | Naam | Beschrijving |
 | --- | --- |
-| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | Wordt gebruikt om aan te geven of een evenement al dan niet een bruisend evenement is. Als de gebeurtenis kan bubbelen, is de waarde waar, anders is de waarde onwaar. |
-| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | Wordt gebruikt om aan te geven of de standaardactie van een gebeurtenis kan worden voorkomen. Als de standaardactie kan worden voorkomen, is de waarde waar, anders is de waarde onwaar. |
-| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | Wordt gebruikt om de[`IEventTarget`](../ieventtarget/) van wie[`IEventListener`](../ieventlistener/) s worden momenteel verwerkt. Dit is vooral handig tijdens het vastleggen en bellen. |
-| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | Retourneert waar als preventDefault() is aangeroepen terwijl de annuleerbare kenmerkwaarde waar is, en anders onwaar. |
+| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | Wordt gebruikt om aan te geven of een gebeurtenis een bubbling‑gebeurtenis is of niet. Als de gebeurtenis kan bubbelen, is de waarde true, anders is de waarde false. |
+| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | Wordt gebruikt om aan te geven of de standaardactie van een gebeurtenis kan worden voorkomen. Als de standaardactie kan worden voorkomen, is de waarde true, anders is de waarde false. |
+| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | Wordt gebruikt om het [`IEventTarget`](../ieventtarget/) aan te geven waarvan de [`IEventListener`](../ieventlistener/)s momenteel worden verwerkt. Dit is vooral nuttig tijdens capturing en bubbling. |
+| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | Retourneert true als preventDefault() werd aangeroepen terwijl de waarde van het attribuut cancelable true is, en anders false. |
 | [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | Wordt gebruikt om aan te geven welke fase van de gebeurtenisstroom momenteel wordt geëvalueerd. |
-| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | Het isTrusted-attribuut moet de waarde teruggeven waarnaar het geïnitialiseerd is. Wanneer een gebeurtenis wordt gemaakt, moet het attribuut worden geïnitialiseerd op false. |
-| [Target](../../aspose.svg.dom.events/event/target/) { get; } | Wordt gebruikt om de[`IEventTarget`](../ieventtarget/) waarnaar het evenement oorspronkelijk is verzonden. |
-| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | Wordt gebruikt om de tijd (in milliseconden ten opzichte van het tijdperk) op te geven waarop de gebeurtenis is gemaakt. Vanwege het feit dat sommige systemen deze informatie mogelijk niet verstrekken, is de waarde van timeStamp mogelijk niet beschikbaar voor alle gebeurtenissen. Indien niet beschikbaar , wordt een waarde van 0 geretourneerd. Voorbeelden van epochetijd zijn de tijd van de systeemstart of 0:0:0 UTC 1 januari 1970. |
-| [Type](../../aspose.svg.dom.events/event/type/) { get; } | De naam van de gebeurtenis (niet hoofdlettergevoelig). De naam moet een XML-naam zijn. |
+| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | Het attribuut isTrusted moet de waarde retourneren waarmee het is geïnitialiseerd. Wanneer een gebeurtenis wordt aangemaakt, moet het attribuut worden geïnitialiseerd op false. |
+| [Target](../../aspose.svg.dom.events/event/target/) { get; } | Wordt gebruikt om de [`IEventTarget`](../ieventtarget/) aan te geven waarnaar de gebeurtenis oorspronkelijk werd verzonden. |
+| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | Wordt gebruikt om de tijd (in milliseconden ten opzichte van het epoch) op te geven waarop de gebeurtenis werd aangemaakt. Omdat sommige systemen deze informatie mogelijk niet leveren, kan de waarde van timeStamp voor sommige gebeurtenissen ontbreken. Wanneer deze niet beschikbaar is, wordt een waarde van 0 geretourneerd. Voorbeelden van epoch‑tijd zijn de tijd van het systeemstart of 0:0:0 UTC 1 januari 1970. |
+| [Type](../../aspose.svg.dom.events/event/type/) { get; } | De naam van de gebeurtenis (niet‑hoofdlettergevoelig). De naam moet een XML‑naam zijn. |
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halenType . |
-| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(string, bool, bool) | De[`InitEvent`](./initevent/) methode wordt gebruikt om de waarde van een te initialiseren`Event` gemaakt door the [`IDocumentEvent`](../idocumentevent/) interface. |
-| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | Als een evenement kan worden geannuleerd, wordt de[`PreventDefault`](./preventdefault/) methode wordt gebruikt om aan te geven dat de gebeurtenis moet worden geannuleerd, wat betekent dat elke standaardactie die normaal gesproken door de implementatie wordt ondernomen als gevolg van de gebeurtenis, niet zal plaatsvinden. |
-| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | Het aanroepen van deze methode voorkomt dat de gebeurtenis gebeurtenislisteners bereikt die zijn geregistreerd na de huidige en wanneer deze in een boomstructuur wordt verzonden, wordt ook voorkomen dat de gebeurtenis andere objecten bereikt. |
-| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | De[`StopPropagation`](./stoppropagation/) methode wordt gebruikt om verdere verspreiding van een gebeurtenis tijdens de gebeurtenisstroom te voorkomen. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript‑objecttype op te halen. |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(*string, bool, bool*) | De [`InitEvent`](./initevent/)‑methode wordt gebruikt om de waarde van een `Event` te initialiseren die via de [`IDocumentEvent`](../idocumentevent/)‑interface is aangemaakt. |
+| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | Als een event annuleerbaar is, wordt de [`PreventDefault`](./preventdefault/)‑methode gebruikt om aan te geven dat het event moet worden geannuleerd, wat betekent dat elke standaardactie die normaal door de implementatie zou worden uitgevoerd als gevolg van het event niet zal plaatsvinden. |
+| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | Het aanroepen van deze methode voorkomt dat de gebeurtenis eventuele event‑listeners bereikt die na de huidige zijn geregistreerd en, wanneer deze in een boom wordt verzonden, voorkomt het ook dat de gebeurtenis andere objecten bereikt. |
+| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | De [`StopPropagation`](./stoppropagation/)‑methode wordt gebruikt om verdere verspreiding van een event tijdens de event‑stroom te voorkomen. |
 
 ## Velden
 
 | Naam | Beschrijving |
 | --- | --- |
-| const [AtTargetPhase](../../aspose.svg.dom.events/event/attargetphase/) | De huidige gebeurtenisfase is de opnamefase. |
-| const [BubblingPhase](../../aspose.svg.dom.events/event/bubblingphase/) | De huidige gebeurtenisfase is de bubbling-fase. |
-| const [CapturingPhase](../../aspose.svg.dom.events/event/capturingphase/) | Het evenement wordt momenteel geëvalueerd op het doel[`IEventTarget`](../ieventtarget/) . |
-| const [NonePhase](../../aspose.svg.dom.events/event/nonephase/) | Gebeurtenissen die momenteel niet worden verzonden, bevinden zich in deze fase. |
+| const [AtTargetPhase](../../aspose.svg.dom.events/event/attargetphase/) | De huidige event‑fase is de capturerende fase. |
+| const [BubblingPhase](../../aspose.svg.dom.events/event/bubblingphase/) | De huidige event‑fase is de bubbelende fase. |
+| const [CapturingPhase](../../aspose.svg.dom.events/event/capturingphase/) | Het event wordt momenteel geëvalueerd op het doelwit [`IEventTarget`](../ieventtarget/). |
+| const [NonePhase](../../aspose.svg.dom.events/event/nonephase/) | Events die momenteel niet worden verzonden bevinden zich in deze fase. |
 
-### Opmerkingen
+## Opmerkingen
 
-Een object dat de`Event` wordt over het algemeen doorgegeven als de eerste parameter aan een gebeurtenishandler. Meer specifieke contextinformatie wordt doorgegeven aan gebeurtenishandlers door aanvullende interfaces af te leiden van`Event` die informatie bevatten die rechtstreeks verband houdt met het type gebeurtenis dat ze vergezellen. Deze afgeleide interfaces worden ook geïmplementeerd door het object dat wordt doorgegeven aan de gebeurtenislistener.
+Een object dat het `Event` implementeert, wordt doorgaans als eerste parameter aan een event‑handler doorgegeven. Meer specifieke contextinformatie wordt aan event‑handlers doorgegeven door aanvullende interfaces af te leiden van `Event` die informatie bevatten die direct betrekking heeft op het type event dat ze begeleiden. Deze afgeleide interfaces worden ook geïmplementeerd door het object dat aan de event‑listener wordt doorgegeven.
 
 ### Zie ook
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* naamruimte [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

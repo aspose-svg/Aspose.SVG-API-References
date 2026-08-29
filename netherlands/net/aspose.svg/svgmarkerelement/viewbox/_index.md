@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.ViewBox
-second_title: Aspose.SVG voor .NET API-referentie
-description: SVGMarkerElement eigendom. Komt overeen met attribuut viewBox op het gegeven element.
+title: "SVGMarkerElement.ViewBox"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "SVGMarkerElement ViewBox eigenschap. Komt overeen met attribuut viewBox van het opgegeven element"
 type: docs
 weight: 90
 url: /nl/net/aspose.svg/svgmarkerelement/viewbox/
 ---
 ## SVGMarkerElement.ViewBox property
 
-Komt overeen met attribuut 'viewBox' op het gegeven element.
+Komt overeen met het attribuut ‘viewBox’ op het opgegeven element.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De 'viewBox' van het opgegeven element.
+De ‘viewBox’ van het opgegeven element.
 
 ### Zie ook
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * class [SVGMarkerElement](../)
-* naamruimte [Aspose.Svg](../../svgmarkerelement/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

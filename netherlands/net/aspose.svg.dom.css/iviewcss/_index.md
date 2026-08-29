@@ -1,30 +1,28 @@
 ---
-title: Interface IViewCSS
-second_title: Aspose.SVG voor .NET API-referentie
-description: Aspose.Svg.Dom.Css.IViewCSS koppel. Deze interface vertegenwoordigt een CSSweergave.
+title: "IViewCSS Interface"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Aspose.Svg.Dom.Css.IViewCSS interface. Deze interface vertegenwoordigt een CSS-weergave"
 type: docs
-weight: 760
+weight: 2760
 url: /nl/net/aspose.svg.dom.css/iviewcss/
 ---
 ## IViewCSS interface
 
-Deze interface vertegenwoordigt een CSS-weergave.
+Deze interface vertegenwoordigt een CSS‑view.
 
 ```csharp
 public interface IViewCSS : IAbstractView
 ```
 
-## methoden
+## Methoden
 
 | Naam | Beschrijving |
 | --- | --- |
-| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle)(Element) | Deze methode wordt gebruikt om de berekende stijl te krijgen zoals deze is gedefinieerd in CSS2. |
-| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle_1)(Element, string) | Deze methode wordt gebruikt om de berekende stijl te krijgen zoals deze is gedefinieerd in CSS2. |
+| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle)(*[Element](../../aspose.svg.dom/element/)*) | Deze methode wordt gebruikt om de berekende stijl op te halen zoals gedefinieerd in CSS2. |
+| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle_1)(*[Element](../../aspose.svg.dom/element/), string*) | Deze methode wordt gebruikt om de berekende stijl op te halen zoals gedefinieerd in CSS2. |
 
 ### Zie ook
 
 * interface [IAbstractView](../../aspose.svg.dom.views/iabstractview/)
-* naamruimte [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* montage [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

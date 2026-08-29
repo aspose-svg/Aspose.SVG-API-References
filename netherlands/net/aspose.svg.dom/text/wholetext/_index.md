@@ -1,27 +1,25 @@
 ---
-title: Text.WholeText
-second_title: Aspose.SVG voor .NET API-referentie
-description: Text eigendom. Retourneert alle tekst van tekstknooppunten die logisch aangrenzend zijn aan dit knooppunt samengevoegd in documentvolgorde.
+title: "Text.WholeText"
+second_title: "Aspose.SVG voor .NET API‑referentie"
+description: "Text WholeText eigenschap. Retourneert alle tekst van Text‑knooppunten die logisch aangrenzend zijn aan dit knooppunt, samengevoegd in documentvolgorde."
 type: docs
 weight: 60
 url: /nl/net/aspose.svg.dom/text/wholetext/
 ---
 ## Text.WholeText property
 
-Retourneert alle tekst van tekstknooppunten die logisch aangrenzend zijn aan dit knooppunt, samengevoegd in documentvolgorde.
+Retourneert alle tekst van Text-knooppunten die logisch aangrenzend zijn aan dit knooppunt, aaneengeschakeld in documentvolgorde.
 
 ```csharp
 public string WholeText { get; }
 ```
 
-### Eigendoms-waarde
+### Property Value
 
-De hele tekst.
+De volledige tekst.
 
 ### Zie ook
 
 * class [Text](../)
-* naamruimte [Aspose.Svg.Dom](../../text/)
-* montage [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
