@@ -1,14 +1,14 @@
 ---
-title: Renderer.Renderer
-second_title: Aspose.SVG för .NET API Referens
-description: Renderer byggare. Default_Constructor
+title: "Renderer"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Renderer konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering/renderer/renderer/
 ---
 ## Renderer constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public Renderer()
@@ -17,7 +17,5 @@ public Renderer()
 ### Se även
 
 * class [Renderer](../)
-* namnutrymme [Aspose.Svg.Rendering](../../renderer/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

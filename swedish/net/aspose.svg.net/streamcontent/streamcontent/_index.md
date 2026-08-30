@@ -1,14 +1,14 @@
 ---
-title: StreamContent.StreamContent
-second_title: Aspose.SVG för .NET API Referens
-description: StreamContent byggare. Initierar en ny instans avStreamContent class.
+title: "StreamContent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "StreamContent-konstruktor. Initierar en ny instans av StreamContent-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/streamcontent/streamcontent/
 ---
 ## StreamContent constructor
 
-Initierar en ny instans av[`StreamContent`](../) class.
+Initierar en ny instans av [`StreamContent`](../)-klassen.
 
 ```csharp
 public StreamContent(Stream content)
@@ -16,12 +16,10 @@ public StreamContent(Stream content)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| content | Stream | Innehållet. |
+| innehåll | Stream | Innehållet. |
 
 ### Se även
 
 * class [StreamContent](../)
-* namnutrymme [Aspose.Svg.Net](../../streamcontent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.AltKey
-second_title: Aspose.SVG för .NET API Referens
-description: MouseEvent fast egendom. Se altKeyattributet.
+title: "MouseEvent.AltKey"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MouseEvent AltKey property. Se altKey‑attributet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.events/mouseevent/altkey/
 ---
 ## MouseEvent.AltKey property
 
-Se altKey-attributet.
+Se attributet altKey.
 
 ```csharp
 public bool AltKey { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [alt-tangenten]; annat,`falsk` .
+`true` om [Alt‑tangenten]; annars `false`.
 
 ### Se även
 
 * class [MouseEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../mouseevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

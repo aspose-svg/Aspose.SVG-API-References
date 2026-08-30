@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.MutationObserverInit
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit byggare. Initierar en ny instans avMutationObserverInit class.
+title: "MutationObserverInit"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit-konstruktor. Initierar en ny instans av klassen MutationObserverInit"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/mutationobserverinit/
 ---
 ## MutationObserverInit constructor
 
-Initierar en ny instans av[`MutationObserverInit`](../) class.
+Initierar en ny instans av klassen [`MutationObserverInit`](../).
 
 ```csharp
 public MutationObserverInit()
@@ -17,7 +17,5 @@ public MutationObserverInit()
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

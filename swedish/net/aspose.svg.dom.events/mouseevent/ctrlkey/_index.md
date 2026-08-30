@@ -1,7 +1,7 @@
 ---
-title: MouseEvent.CtrlKey
-second_title: Aspose.SVG för .NET API Referens
-description: MouseEvent fast egendom. Se attributet ctrlKey.
+title: "MouseEvent.CtrlKey"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MouseEvent CtrlKey property. Se ctrlKey‑attributet"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.dom.events/mouseevent/ctrlkey/
@@ -14,14 +14,12 @@ Se attributet ctrlKey.
 public bool CtrlKey { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om [kontrollnyckel]; annat,`falsk` .
+`true` om [Ctrl‑tangenten]; annars `false`.
 
 ### Se även
 
 * class [MouseEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../mouseevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

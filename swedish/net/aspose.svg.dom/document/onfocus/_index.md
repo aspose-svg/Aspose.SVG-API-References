@@ -1,14 +1,14 @@
 ---
-title: Document.OnFocus
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnFocushändelse.
+title: "Document.OnFocus"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnFocus‑händelse. Hämtar eller anger händelsehanterare för OnFocus‑händelsen."
 type: docs
 weight: 410
 url: /sv/net/aspose.svg.dom/document/onfocus/
 ---
 ## Document.OnFocus event
 
-Hämtar eller ställer in händelsehanterare för OnFocus-händelse.
+Hämtar eller anger händelsehanterare för OnFocus‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnFocus;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnFocus;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

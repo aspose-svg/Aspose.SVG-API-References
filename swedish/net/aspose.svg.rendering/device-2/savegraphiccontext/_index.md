@@ -1,14 +1,14 @@
 ---
-title: Device2.SaveGraphicContext
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Skickar en kopia av hela grafikkontexten till stacken.
+title: "Device-2.SaveGraphicContext"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device SaveGraphicContext-metoden. Lägger en kopia av hela grafikkontexten på stacken"
 type: docs
-weight: 210
+weight: 240
 url: /sv/net/aspose.svg.rendering/device-2/savegraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.SaveGraphicContext method
 
-Skickar en kopia av hela grafikkontexten till stacken.
+Pukar en kopia av hela grafikkontexten på stacken.
 
 ```csharp
 public virtual void SaveGraphicContext()
@@ -17,7 +17,5 @@ public virtual void SaveGraphicContext()
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

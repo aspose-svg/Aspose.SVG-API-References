@@ -1,23 +1,21 @@
 ---
-title: DOMTokenList.Length
-second_title: Aspose.SVG för .NET API Referens
-description: DOMTokenList fast egendom. Returnerar en ulong som representerar antalet tokens lagrade i den här listan.
+title: "DOMTokenList.Length"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMTokenList Length‑egenskap. Returnerar ett ulong‑värde som representerar antalet token som lagras i denna lista"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.collections/domtokenlist/length/
 ---
 ## DOMTokenList.Length property
 
-Returnerar en ulong som representerar antalet tokens lagrade i den här listan.
+Returnerar en ulong som representerar antalet token som lagras i denna lista.
 
 ```csharp
-public ulong Length { get; }
+public uint Length { get; }
 ```
 
 ### Se även
 
 * class [DOMTokenList](../)
-* namnutrymme [Aspose.Svg.Collections](../../domtokenlist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

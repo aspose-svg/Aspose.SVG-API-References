@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.In1
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEGaussianBlurElement fast egendom. Motsvarar attributet in på det givna elementet feGaussianBlur.
+title: "SVGFEGaussianBlurElement.In1"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEGaussianBlurElement In1-egenskap. Motsvarar attributet in på det angivna feGaussianBlur-elementet."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.filters/svgfegaussianblurelement/in1/
 ---
 ## SVGFEGaussianBlurElement.In1 property
 
-Motsvarar attributet �in� på det givna elementet �feGaussianBlur�.
+Motsvarar attributet �in� på det givna �feGaussianBlur� elementet.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet �in� för det givna elementet �feGaussianBlur�.
+Attributet �in� på det angivna �feGaussianBlur�-elementet.
 
 ### Se även
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEGaussianBlurElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

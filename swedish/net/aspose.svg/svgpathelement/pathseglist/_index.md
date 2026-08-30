@@ -1,28 +1,26 @@
 ---
-title: SVGPathElement.PathSegList
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathElement fast egendom. Ger tillgång till basinnehållet dvs. statiskt i dattributet i en form som matchar en för en med SVGs syntax. Således om dattributet har ett absolute moveto M och ett absolute arcto Akommando kommer pathSegList att ha två poster en SVG_PATHSEG_MOVETO_ABS och en SVG_PATHSEG_ARC_ABS.
+title: "SVGPathElement.PathSegList"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathElement PathSegList egenskap. Tillhandahåller åtkomst till basen, d.v.s. de statiska innehållen i d-attributet i ett format som matchar en-till-en med SVG:s syntax. Så om d-attributet har ett absolut moveto M och ett absolut arcto A-kommando så kommer pathSegList att ha två poster, ett SVG_PATHSEG_MOVETO_ABS och ett SVG_PATHSEG_ARC_ABS."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgpathelement/pathseglist/
 ---
 ## SVGPathElement.PathSegList property
 
-Ger tillgång till basinnehållet (dvs. statiskt) i 'd'-attributet i en form som matchar en för en med SVG:s syntax. Således, om 'd'-attributet har ett "absolute moveto (M)" och ett "absolute arcto (A)"-kommando, kommer pathSegList att ha två poster: en SVG_PATHSEG_MOVETO_ABS och en SVG_PATHSEG_ARC_ABS.
+Tillhandahåller åtkomst till de grundläggande (dvs. statiska) innehållen i ‘d’-attributet i ett format som matchar en‑till‑en med SVG:s syntax. Således, om ‘d’-attributet har ett \"absolut moveto (M)\" och ett \"absolut arcto (A)\"‑kommando, kommer pathSegList att ha två poster: ett SVG_PATHSEG_MOVETO_ABS och ett SVG_PATHSEG_ARC_ABS.
 
 ```csharp
 public SVGPathSegList PathSegList { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Sökvägssegmentlistan.
+Path segment-listan.
 
 ### Se även
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

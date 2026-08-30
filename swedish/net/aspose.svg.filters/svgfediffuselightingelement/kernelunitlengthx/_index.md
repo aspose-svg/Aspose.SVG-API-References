@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.KernelUnitLengthX
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEDiffuseLightingElement fast egendom. Motsvarar attributet kernelUnitLength på det givna feDiffuseLightingelementet.
+title: "SVGFEDiffuseLightingElement.KernelUnitLengthX"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEDiffuseLightingElement KernelUnitLengthX-egenskap. Motsvarar attributet kernelUnitLength på det angivna feDiffuseLighting-elementet."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.filters/svgfediffuselightingelement/kernelunitlengthx/
 ---
 ## SVGFEDiffuseLightingElement.KernelUnitLengthX property
 
-Motsvarar attributet 'kernelUnitLength' på det givna 'feDiffuseLighting'-elementet.
+Motsvarar attributet ‘kernelUnitLength’ på det givna ‘feDiffuseLighting’-elementet.
 
 ```csharp
 public SVGAnimatedNumber KernelUnitLengthX { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'kernelUnitLength' för det givna 'feDiffuseLighting'-elementet.
+Attributet ‘kernelUnitLength’ för det angivna ‘feDiffuseLighting’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

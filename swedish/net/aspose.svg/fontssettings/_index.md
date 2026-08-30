@@ -1,9 +1,9 @@
 ---
-title: Class FontsSettings
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.FontsSettings klass. Representerar inställningar för teckensnittshantering.
+title: "FontsSettings-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.FontsSettings klass. Representerar inställningar för teckensnittshantering."
 type: docs
-weight: 1900
+weight: 3990
 url: /sv/net/aspose.svg/fontssettings/
 ---
 ## FontsSettings class
@@ -16,23 +16,21 @@ public class FontsSettings
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FontMatcher](../../aspose.svg/fontssettings/fontmatcher/) { get; set; } | Hämtar eller ställer in klassen som låter dig styra vissa delar av teckensnittsmatchningsalgoritmen. |
+| [FontMatcher](../../aspose.svg/fontssettings/fontmatcher/) { get; set; } | Hämtar eller anger klassen som låter dig kontrollera vissa delar av algoritmen för teckensnittsmatchning. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GetFontsLookupFolders](../../aspose.svg/fontssettings/getfontslookupfolders/)() | Får en kopia av array som innehåller typsnittsmappar. Teckensnitt som finns i dessa mappar används för teckenrendering. |
-| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder)(string) | Ställer in mapp som används vid val av teckensnitt. |
-| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(string, bool) | Ställer in mapp som används vid val av teckensnitt. |
-| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders)(string[]) | Ställer in en rad mappar som används vid val av teckensnitt. |
-| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(string[], bool) | Ställer in en rad mappar som används vid val av teckensnitt. |
+| [GetFontsLookupFolders](../../aspose.svg/fontssettings/getfontslookupfolders/)() | Hämtar en kopia av en array som innehåller teckensnittsmappar. Teckensnitt som hittas i dessa mappar används för rendering av tecken. |
+| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder)(*string*) | Anger mapp som används vid teckensnittsurval. |
+| [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(*string, bool*) | Anger mapp som används vid teckensnittsurval. |
+| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders)(*string[]*) | Anger en array av mappar som används vid teckensnittsurval. |
+| [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(*string[], bool*) | Anger en array av mappar som används vid teckensnittsurval. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg](../../aspose.svg/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

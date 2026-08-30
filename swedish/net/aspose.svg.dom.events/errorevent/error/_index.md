@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.Error
-second_title: Aspose.SVG för .NET API Referens
-description: ErrorEvent fast egendom. Felattributet måste returnera värdet som det initierades till. När objektet skapas måste detta attribut initieras till null. Där så är lämpligt sätts det till objektet som representerar felet t.ex. undantagsobjektet i fallet med ett ouppfångat DOMundantag.
+title: "ErrorEvent.Error"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ErrorEvent Error egenskap. error-attributet måste returnera det värde det initierades med. När objektet skapas måste detta attribut initieras till null. När lämpligt sätts det till objektet som representerar felet, t.ex. undantagsobjektet i fallet med ett oavlyssnat DOM‑undantag."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.events/errorevent/error/
 ---
 ## ErrorEvent.Error property
 
-Felattributet måste returnera värdet som det initierades till. När objektet skapas måste detta attribut initieras till null. Där så är lämpligt sätts det till objektet som representerar felet (t.ex. undantagsobjektet i fallet med ett ouppfångat DOM-undantag).
+error-attributet måste returnera det värde det initierades med. När objektet skapas måste detta attribut initieras till null. När det är lämpligt sätts det till objektet som representerar felet (t.ex. undantagsobjektet i fallet med ett oavlyssnat DOM‑undantag).
 
 ```csharp
 public object Error { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Felet.
 
 ### Se även
 
 * class [ErrorEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../errorevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

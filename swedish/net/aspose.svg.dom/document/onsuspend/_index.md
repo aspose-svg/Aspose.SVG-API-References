@@ -1,14 +1,14 @@
 ---
-title: Document.OnSuspend
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnSuspendhändelse.
+title: "Document.OnSuspend"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnSuspend‑händelse. Hämtar eller anger händelsehanterare för OnSuspend‑händelse"
 type: docs
 weight: 740
 url: /sv/net/aspose.svg.dom/document/onsuspend/
 ---
 ## Document.OnSuspend event
 
-Hämtar eller ställer in händelsehanterare för OnSuspend-händelse.
+Hämtar eller anger händelsehanterare för OnSuspend‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnSuspend;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSuspend;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

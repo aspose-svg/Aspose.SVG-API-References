@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.MarkerHeight
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMarkerElement fast egendom. Motsvarar attributet markerHeight på det givna markerelementet.
+title: "SVGMarkerElement.MarkerHeight"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMarkerElement MarkerHeight‑egenskap. Motsvarar attributet markerHeight på det angivna marker‑elementet."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svgmarkerelement/markerheight/
 ---
 ## SVGMarkerElement.MarkerHeight property
 
-Motsvarar attributet 'markerHeight' på det givna 'marker'-elementet.
+Motsvarar attributet ‘markerHeight’ på det angivna ‘marker’-elementet.
 
 ```csharp
 public SVGAnimatedLength MarkerHeight { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'markerHeight' för det givna 'marker'-elementet.
+Attributet ‘markerHeight’ för det angivna ‘marker’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* namnutrymme [Aspose.Svg](../../svgmarkerelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

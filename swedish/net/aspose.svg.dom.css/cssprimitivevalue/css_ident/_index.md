@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_IDENT
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue fält. Värdet är en identifierare. Värdet kan erhållas genom att använda metoden getStringValue.
+title: "CSSPrimitiveValue.CSS_IDENT"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue CSS_IDENT fält. Värdet är en identifierare. Värdet kan erhållas genom att använda metoden getStringValue."
 type: docs
-weight: 240
+weight: 250
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/css_ident/
 ---
 ## CSSPrimitiveValue.CSS_IDENT field
@@ -17,7 +17,5 @@ public const ushort CSS_IDENT;
 ### Se även
 
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

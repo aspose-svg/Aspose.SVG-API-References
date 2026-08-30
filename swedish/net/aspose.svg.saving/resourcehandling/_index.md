@@ -1,31 +1,29 @@
 ---
-title: Enum ResourceHandling
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Saving.ResourceHandling uppräkning. Den här uppräkningen representerar resurshanteringsalternativ.
+title: "ResourceHandling Enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Saving.ResourceHandling enum. Denna enum representerar alternativ för resurshantering"
 type: docs
-weight: 3640
+weight: 5740
 url: /sv/net/aspose.svg.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration
 
-Den här uppräkningen representerar resurshanteringsalternativ.
+Denna enum representerar alternativ för resurshantering.
 
 ```csharp
 public enum ResourceHandling
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Save | `0` | Resurs kommer att sparas som fil. |
-| Embed | `1` | Resurs kommer att läggas in i ägaren. |
+| Save | `0` | Resursen kommer att sparas som fil. |
+| Embed | `1` | Resursen kommer att bäddas in i ägaren. |
 | Discard | `2` | Resursen kommer att kasseras. |
 | Ignore | `3` | Resursen kommer inte att sparas. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

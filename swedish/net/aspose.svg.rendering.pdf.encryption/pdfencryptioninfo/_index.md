@@ -1,14 +1,14 @@
 ---
-title: Class PdfEncryptionInfo
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionInfo klass. Innehåller detaljer för en pdfkryptering.
+title: "PdfEncryptionInfo‑klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.Pdf.Encryption.PdfEncryptionInfo class. Innehåller detaljer för en pdf‑kryptering."
 type: docs
-weight: 2920
+weight: 4990
 url: /sv/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo class
 
-Innehåller detaljer för en pdf-kryptering.
+Innehåller detaljer för en pdf‑kryptering.
 
 ```csharp
 public class PdfEncryptionInfo
@@ -16,22 +16,20 @@ public class PdfEncryptionInfo
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PdfEncryptionInfo](pdfencryptioninfo/)(string, string, PdfPermissions, PdfEncryptionAlgorithm) | Initierar en ny instans av`PdfEncryptionInfo` class. |
+| [PdfEncryptionInfo](pdfencryptioninfo/)(*string, string, [PdfPermissions](../pdfpermissions/), [PdfEncryptionAlgorithm](../pdfencryptionalgorithm/)*) | Initierar en ny instans av klassen `PdfEncryptionInfo`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [EncryptionAlgorithm](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/) { get; set; } | Hämtar eller ställer in krypteringsläget. |
-| [OwnerPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/) { get; set; } | Hämtar eller ställer in ägarlösenordet. |
-| [Permissions](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/) { get; set; } | Hämtar eller ställer in behörigheterna. |
-| [UserPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword/) { get; set; } | Hämtar eller ställer in användarlösenordet. |
+| [EncryptionAlgorithm](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/) { get; set; } | Hämtar eller anger krypteringsläget. |
+| [OwnerPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/) { get; set; } | Hämtar eller anger ägarlösenordet. |
+| [Permissions](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/) { get; set; } | Hämtar eller anger behörigheterna. |
+| [UserPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword/) { get; set; } | Hämtar eller anger användarlösenordet. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../)

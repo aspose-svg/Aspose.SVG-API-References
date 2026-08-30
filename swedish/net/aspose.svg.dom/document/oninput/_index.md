@@ -1,14 +1,14 @@
 ---
-title: Document.OnInput
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnInputhändelse.
+title: "Document.OnInput"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnInput‑händelse. Hämtar eller anger händelsehanterare för OnInput‑händelse"
 type: docs
 weight: 420
 url: /sv/net/aspose.svg.dom/document/oninput/
 ---
 ## Document.OnInput event
 
-Hämtar eller ställer in händelsehanterare för OnInput-händelse.
+Hämtar eller anger händelsehanterare för OnInput-händelse.
 
 ```csharp
 public event DOMEventHandler OnInput;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnInput;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

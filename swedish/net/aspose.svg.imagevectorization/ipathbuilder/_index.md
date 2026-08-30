@@ -1,14 +1,14 @@
 ---
-title: Interface IPathBuilder
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ImageVectorization.IPathBuilder gränssnitt. IPathBuildergränssnittet är ansvarigt för att bygga sökvägssegmentSVGPathSeg från listan över spårpunkter.
+title: "IPathBuilder-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ImageVectorization.IPathBuilder gränssnitt. IPathBuilder-gränssnittet ansvarar för att bygga sökvägssegment SVGPathSeg från listan över spårningspunkterna."
 type: docs
-weight: 2110
+weight: 4180
 url: /sv/net/aspose.svg.imagevectorization/ipathbuilder/
 ---
 ## IPathBuilder interface
 
-IPathBuilder-gränssnittet är ansvarigt för att bygga sökvägssegment[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) från listan över spårpunkter.
+IPathBuilder-gränssnittet ansvarar för att bygga sökvägssegment [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) från listan över spårningspunkterna.
 
 ```csharp
 public interface IPathBuilder
@@ -16,13 +16,11 @@ public interface IPathBuilder
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Bygger bansegment från listan över spårpunkter. |
+| [Build](../../aspose.svg.imagevectorization/ipathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | Optimerar ett givet spår till ett SVG-sökvägssegment, med minsta möjliga antal linje- och Bézierkurvkommandon för en exakt representation. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

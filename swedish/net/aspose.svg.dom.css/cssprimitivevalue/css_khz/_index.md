@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_KHZ
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue fält. Värdet är en frekvens kHz. Värdet kan erhållas genom att använda metoden getFloatValue.
+title: "CSSPrimitiveValue.CSS_KHZ"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue CSS_KHZ fält. Värdet är en frekvens i kHz. Värdet kan erhållas genom att använda metoden getFloatValue."
 type: docs
-weight: 260
+weight: 270
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/css_khz/
 ---
 ## CSSPrimitiveValue.CSS_KHZ field
@@ -17,7 +17,5 @@ public const ushort CSS_KHZ;
 ### Se även
 
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

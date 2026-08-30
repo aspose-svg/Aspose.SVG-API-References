@@ -1,27 +1,25 @@
 ---
-title: IWindow.Name
-second_title: Aspose.SVG för .NET API Referens
-description: IWindow fast egendom. Namnattributet för Windowobjektet måste när det hämtas returnera det aktuella namnet på webbläsarkontexten och vid inställning ställa in namnet på webbläsarkontexten till det nya värdet.
+title: "IWindow.Name"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindow Name-egenskap. Namnattributet för Window-objektet måste vid läsning returnera det aktuella namnet på surfkontexten och vid skrivning sätta namnet på surfkontexten till det nya värdet."
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.svg.window/iwindow/name/
 ---
 ## IWindow.Name property
 
-Namnattributet för Window-objektet måste, när det hämtas, returnera det aktuella namnet på webbläsarkontexten och, vid inställning, ställa in namnet på webbläsarkontexten till det nya värdet.
+name-attributet för Window-objektet måste, vid läsning, returnera det aktuella namnet på surfkontexten, och, vid skrivning, sätta namnet på surfkontexten till det nya värdet.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet.
 
 ### Se även
 
 * interface [IWindow](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindow/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

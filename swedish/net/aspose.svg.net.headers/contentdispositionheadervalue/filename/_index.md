@@ -1,7 +1,7 @@
 ---
-title: ContentDispositionHeaderValue.FileName
-second_title: Aspose.SVG för .NET API Referens
-description: ContentDispositionHeaderValue fast egendom. Namnet på den lagrade filen.
+title: "ContentDispositionHeaderValue.FileName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ContentDispositionHeaderValue FileName-egenskap. Namnet på den lagrade filen"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.net.headers/contentdispositionheadervalue/filename/
@@ -14,14 +14,12 @@ Namnet på den lagrade filen.
 public string FileName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på filen.
+Filens namn.
 
 ### Se även
 
 * class [ContentDispositionHeaderValue](../)
-* namnutrymme [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Angle.op_Inequality
-second_title: Aspose.SVG för .NET API Referens
-description: Angle metod. Implementerar operatorn .
+title: "Angle.op_Inequality"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Angle op_Inequality-metoden. Implementerar operatorn"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.drawing/angle/op_inequality/
@@ -26,7 +26,5 @@ Resultatet av operatorn.
 ### Se även
 
 * class [Angle](../)
-* namnutrymme [Aspose.Svg.Drawing](../../angle/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

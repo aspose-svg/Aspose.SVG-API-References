@@ -1,28 +1,26 @@
 ---
-title: SVGRadialGradientElement.Fy
-second_title: Aspose.SVG för .NET API Referens
-description: SVGRadialGradientElement fast egendom. Motsvarar attributet fy på det givna radialGradientelementet.
+title: "SVGRadialGradientElement.Fy"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGRadialGradientElement Fy-egenskap. Motsvarar attributet fy på det givna radialGradient-elementet"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/svgradialgradientelement/fy/
 ---
 ## SVGRadialGradientElement.Fy property
 
-Motsvarar attributet 'fy' på det givna 'radialGradient'-elementet.
+Motsvarar attributet ‘fy’ på det givna ‘radialGradient’-elementet.
 
 ```csharp
 public SVGAnimatedLength Fy { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'fy' för det givna 'radialGradient'-elementet.
+Attributet ‘fy’ på det givna ‘radialGradient’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* namnutrymme [Aspose.Svg](../../svgradialgradientelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

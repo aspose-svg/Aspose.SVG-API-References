@@ -1,14 +1,14 @@
 ---
-title: Document.OnRateChange
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnRateChangehändelse.
+title: "Document.OnRateChange"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnRateChange‑händelse. Hämtar eller anger händelsehanterare för OnRateChange‑händelsen."
 type: docs
 weight: 630
 url: /sv/net/aspose.svg.dom/document/onratechange/
 ---
 ## Document.OnRateChange event
 
-Hämtar eller ställer in händelsehanterare för OnRateChange-händelse.
+Hämtar eller anger händelsehanterare för OnRateChange-händelse.
 
 ```csharp
 public event DOMEventHandler OnRateChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnRateChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

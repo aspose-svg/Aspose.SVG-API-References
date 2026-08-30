@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderBottomWidth
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för borderbottomwidth i CSS2.
+title: "ICSS2Properties.BorderBottomWidth"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BorderBottomWidth-egenskap. Se definitionen av border-bottom-width-egenskapen i CSS2"
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.dom.css/icss2properties/borderbottomwidth/
 ---
 ## ICSS2Properties.BorderBottomWidth property
 
-Se egenskapsdefinitionen för border-bottom-width i CSS2.
+Se definitionen av egenskapen border-bottom-width i CSS2.
 
 ```csharp
 public string BorderBottomWidth { get; set; }
@@ -16,12 +16,10 @@ public string BorderBottomWidth { get; set; }
 
 ### Returvärde
 
-gräns-botten-bredd egenskap
+border-bottom-width-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

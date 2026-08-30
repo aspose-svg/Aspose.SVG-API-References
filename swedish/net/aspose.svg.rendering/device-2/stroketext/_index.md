@@ -1,28 +1,26 @@
 ---
-title: Device2.StrokeText
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Stryker den angivna textsträngen på den angivna platsen.
+title: "Device-2.StrokeText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device StrokeText‑metod. Ritar den angivna textsträngen på den angivna platsen"
 type: docs
-weight: 240
+weight: 270
 url: /sv/net/aspose.svg.rendering/device-2/stroketext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method
+## Device<TGraphicContext,TRenderingOptions>.StrokeText method
 
-Stryker den angivna textsträngen på den angivna platsen.
+Ritar den angivna textsträngen på den angivna platsen.
 
 ```csharp
-public abstract void StrokeText(string text, PointF pt)
+public virtual void StrokeText(string text, PointF pt)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | String | Sträng till stryk. |
-| pt | PointF | Punkt som anger koordinaterna där texten ska börja. |
+| text | String | Sträng att rita. |
+| pt | PointF | Punkt som specificerar koordinaterna där texten ska startas. |
 
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

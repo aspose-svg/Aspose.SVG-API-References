@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_NUMBER
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue fält. Värdet är ett enkelt tal. Värdet kan erhållas genom att använda metoden getFloatValue.
+title: "CSSPrimitiveValue.CSS_NUMBER"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue CSS_NUMBER-fält. Värdet är ett enkelt tal. Värdet kan erhållas genom att använda metoden getFloatValue."
 type: docs
-weight: 290
+weight: 300
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/css_number/
 ---
 ## CSSPrimitiveValue.CSS_NUMBER field
@@ -17,7 +17,5 @@ public const ushort CSS_NUMBER;
 ### Se även
 
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

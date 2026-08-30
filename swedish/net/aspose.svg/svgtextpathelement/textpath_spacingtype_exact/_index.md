@@ -1,14 +1,14 @@
 ---
-title: SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextPathElement fält. Motsvarar värdet exakt.
+title: "SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextPathElement TEXTPATH_SPACINGTYPE_EXACT‑fält. Motsvarar värdet exact."
 type: docs
 weight: 90
 url: /sv/net/aspose.svg/svgtextpathelement/textpath_spacingtype_exact/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT field
 
-Motsvarar värdet 'exakt'.
+Motsvarar värdet 'exact'.
 
 ```csharp
 public const ushort TEXTPATH_SPACINGTYPE_EXACT;
@@ -17,7 +17,5 @@ public const ushort TEXTPATH_SPACINGTYPE_EXACT;
 ### Se även
 
 * class [SVGTextPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

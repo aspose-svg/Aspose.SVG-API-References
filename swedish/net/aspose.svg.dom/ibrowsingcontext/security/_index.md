@@ -1,20 +1,20 @@
 ---
-title: IBrowsingContext.Security
-second_title: Aspose.SVG för .NET API Referens
-description: IBrowsingContext fast egendom. Får sandlådeflaggan.
+title: "IBrowsingContext.Security"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IBrowsingContext Security property. Hämtar sandbox-flaggan"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.dom/ibrowsingcontext/security/
 ---
 ## IBrowsingContext.Security property
 
-Får sandlådeflaggan.
+Hämtar sandlådeflaggan.
 
 ```csharp
 public Sandbox Security { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Säkerheten.
 
@@ -22,7 +22,5 @@ Säkerheten.
 
 * enum [Sandbox](../../../aspose.svg/sandbox/)
 * interface [IBrowsingContext](../)
-* namnutrymme [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

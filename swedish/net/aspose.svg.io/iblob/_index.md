@@ -1,14 +1,14 @@
 ---
-title: Interface IBlob
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.IO.IBlob gränssnitt. Ett Blobobjekt hänvisar till en bytesekvens och har ett storleksattribut som är det totala antalet byte i bytesekvensen och ett typattribut som är en ASCIIkodad sträng med gemener som representerar mediatypen för bytesekvensen .
+title: "IBlob gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.IO.IBlob gränssnitt. Ett Blob-objekt refererar till en byte-sekvens och har ett size‑attribut som är det totala antalet byte i sekvensen samt ett type‑attribut som är en ASCII‑kodad sträng i gemener som representerar mediatypen för byte‑sekvensen"
 type: docs
-weight: 1920
+weight: 4030
 url: /sv/net/aspose.svg.io/iblob/
 ---
 ## IBlob interface
 
-Ett Blob-objekt hänvisar till en bytesekvens och har ett storleksattribut som är det totala antalet byte i bytesekvensen och ett typattribut, som är en ASCII-kodad sträng med gemener som representerar mediatypen för bytesekvensen .
+Ett Blob‑objekt refererar till en byte‑sekvens och har ett size‑attribut som är det totala antalet byte i sekvensen samt ett type‑attribut, som är en ASCII‑kodad sträng i gemener som representerar mediatypen för byte‑sekvensen.
 
 ```csharp
 public interface IBlob
@@ -16,20 +16,18 @@ public interface IBlob
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Size](../../aspose.svg.io/iblob/size/) { get; } | Returnerar storleken på bytesekvensen i antal byte. När användaragenter hämtar måste överensstämmande användaragenter returnera det totala antalet byte som kan läsas av ett FileReader eller FileReaderSync-objekt, eller 0 om Bloben inte har några byte att läsa . |
-| [Type](../../aspose.svg.io/iblob/type/) { get; } | Den ASCII-kodade strängen med små bokstäver som representerar mediatypen för Blob. När användaragenter hämtar, måste användaragenter returnera typen av Blob som en ASCII-kodad sträng med gemener, så att när den konverteras till en byte sekvens är det en parserbar MIME-typ, eller den tomma strängen – 0 byte – om typen inte kan fastställas. |
+| [Size](../../aspose.svg.io/iblob/size/) { get; } | Returnerar storleken på byte‑sekvensen i antal byte. Vid hämtning måste kompatibla användaragenter returnera det totala antalet byte som kan läsas av ett FileReader‑ eller FileReaderSync‑objekt, eller 0 om Blob‑objektet inte har några byte att läsa. |
+| [Type](../../aspose.svg.io/iblob/type/) { get; } | Den ASCII‑kodade strängen i gemener som representerar Blob‑objektets mediatyp. Vid hämtning måste användaragenter returnera typen för en Blob som en ASCII‑kodad sträng i gemener, så att den vid konvertering till en byte‑sekvens blir en parsbar MIME‑typ, eller den tomma strängen – 0 byte – om typen inte kan bestämmas. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Slice](../../aspose.svg.io/iblob/slice/)(ulong, ulong, string) | Returnerar ett nytt Blob-objekt med bytes som sträcker sig från den valfria startparametern upp till men inte inklusive den valfria slutparametern, och med ett typattribut som är värdet för den valfria parametern contentType. |
+| [Slice](../../aspose.svg.io/iblob/slice/)(*ulong, ulong, string*) | Returnerar ett nytt Blob‑objekt med byte‑värden från den valfria start‑parametern upp till, men utan att inkludera, den valfria slut‑parametern, samt med ett type‑attribut som är värdet för den valfria contentType‑parametern. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.IO](../../aspose.svg.io/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

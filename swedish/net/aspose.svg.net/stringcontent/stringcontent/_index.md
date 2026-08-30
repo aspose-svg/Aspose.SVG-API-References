@@ -1,14 +1,14 @@
 ---
-title: StringContent.StringContent
-second_title: Aspose.SVG för .NET API Referens
-description: StringContent byggare. Initierar en ny instans avStringContent class.
+title: "StringContent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "StringContent-konstruktor. Initierar en ny instans av StringContent-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/stringcontent/stringcontent/
 ---
-## StringContent(string) {#constructor}
+## StringContent(*string*) {#constructor}
 
-Initierar en ny instans av[`StringContent`](../) class.
+Initierar en ny instans av [`StringContent`](../)-klassen.
 
 ```csharp
 public StringContent(string content)
@@ -16,19 +16,19 @@ public StringContent(string content)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| content | String | Innehållet. |
+| innehåll | String | Innehållet. |
 
 ### Se även
 
 * class [StringContent](../)
-* namnutrymme [Aspose.Svg.Net](../../stringcontent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding) {#constructor_1}
+## StringContent(*string, Encoding*) {#constructor_1}
 
-Initierar en ny instans av[`StringContent`](../) class.
+Initierar en ny instans av [`StringContent`](../)-klassen.
 
 ```csharp
 public StringContent(string content, Encoding encoding)
@@ -36,20 +36,20 @@ public StringContent(string content, Encoding encoding)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| content | String | Innehållet. |
-| encoding | Encoding | Kodningen. |
+| innehåll | String | Innehållet. |
+| kodning | Encoding | Kodningen. |
 
 ### Se även
 
 * class [StringContent](../)
-* namnutrymme [Aspose.Svg.Net](../../stringcontent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## StringContent(string, Encoding, string) {#constructor_2}
+## StringContent(*string, Encoding, string*) {#constructor_2}
 
-Initierar en ny instans av[`StringContent`](../) class.
+Initierar en ny instans av [`StringContent`](../)-klassen.
 
 ```csharp
 public StringContent(string content, Encoding encoding, string mediaType)
@@ -57,14 +57,12 @@ public StringContent(string content, Encoding encoding, string mediaType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| content | String | Innehållet. |
-| encoding | Encoding | Kodningen. |
-| mediaType | String | Typ av media. |
+| innehåll | String | Innehållet. |
+| kodning | Encoding | Kodningen. |
+| mediatyp | String | Typ av media. |
 
 ### Se även
 
 * class [StringContent](../)
-* namnutrymme [Aspose.Svg.Net](../../stringcontent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Numeric.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: Numeric metod. Returnerar enString som representerar denna instans.
+title: "Numeric.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Numeric ToString-metod. Returnerar en sträng som representerar denna instans"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.drawing/numeric/tostring/
 ---
 ## Numeric.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar den här instansen.
 
 ### Se även
 
 * class [Numeric](../)
-* namnutrymme [Aspose.Svg.Drawing](../../numeric/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: Time.op_Equality
-second_title: Aspose.SVG för .NET API Referens
-description: Time metod. Implementerar operatorn .
+title: "Time.op_Equality"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Time op_Equality metod. Implementerar operatorn"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/time/op_equality/
@@ -26,7 +26,5 @@ Resultatet av operatorn.
 ### Se även
 
 * class [Time](../)
-* namnutrymme [Aspose.Svg.Drawing](../../time/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

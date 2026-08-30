@@ -1,23 +1,33 @@
 ---
-title: Node.BaseURI
-second_title: Aspose.SVG för .NET API Referens
-description: Node fast egendom. Den absoluta basURI för denna nod eller noll om implementeringen inte kunde erhålla en absolut URI.
+title: "Node.BaseURI"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node BaseURI‑egenskap. Returnerar den absoluta bas‑URL:en för dokumentet som innehåller noden"
 type: docs
-weight: 20
+weight: 10
 url: /sv/net/aspose.svg.dom/node/baseuri/
 ---
 ## Node.BaseURI property
 
-Den absoluta bas-URI för denna nod eller noll om implementeringen inte kunde erhålla en absolut URI.
+Returnerar den absoluta bas-URL:en för dokumentet som innehåller noden.
+
+Bas‑URL:en används för att lösa relativa URL:er när webbläsaren behöver erhålla en absolut URL, till exempel vid bearbetning av HTML‑elementets img src‑attribut eller xlink:href‑ eller href‑attributen i SVG.
 
 ```csharp
 public virtual string BaseURI { get; }
 ```
 
+### Property Value
+
+BaseURI‑gettern returnerar detta nod‑dokumentets dokumentbas‑URL, serialiserad.
+
+## Anmärkningar
+
+Referens:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-baseuri).
+
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

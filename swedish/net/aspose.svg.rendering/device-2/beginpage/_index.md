@@ -1,14 +1,14 @@
 ---
-title: Device2.BeginPage
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Börjar renderingen av den nya sidan.
+title: "Device-2.BeginPage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device BeginPage‑metod. Påbörjar rendering av den nya sidan"
 type: docs
-weight: 60
+weight: 90
 url: /sv/net/aspose.svg.rendering/device-2/beginpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginPage method
+## Device<TGraphicContext,TRenderingOptions>.BeginPage method
 
-Börjar renderingen av den nya sidan.
+Påbörjar rendering av den nya sidan.
 
 ```csharp
 public virtual void BeginPage(SizeF size)
@@ -16,12 +16,10 @@ public virtual void BeginPage(SizeF size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size | SizeF | Sidans storlek. |
+| storlek | SizeF | Storlek på sidan. |
 
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

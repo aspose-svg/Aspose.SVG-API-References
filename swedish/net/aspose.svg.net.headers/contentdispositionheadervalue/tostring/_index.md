@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: ContentDispositionHeaderValue metod. Returnerar enString som representerar denna instans.
+title: "ContentDispositionHeaderValue.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ContentDispositionHeaderValue ToString-metod. Returnerar en sträng som representerar detta objekt"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.net.headers/contentdispositionheadervalue/tostring/
 ---
 ## ContentDispositionHeaderValue.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Returvärde
 
-Returnerar aString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ### Se även
 
 * class [ContentDispositionHeaderValue](../)
-* namnutrymme [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

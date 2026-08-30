@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.CopyTo
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit metod. KopierarMutationObserverInit element till en befintlig endimensionell array med början vid det angivna arrayindexet.
+title: "MutationObserverInit.CopyTo"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit CopyTo-metod. Kopierar MutationObserverInit-elementen till en befintlig endimensionell array som börjar vid det angivna array‑indexet."
 type: docs
 weight: 180
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/copyto/
 ---
 ## MutationObserverInit.CopyTo method
 
-Kopierar[`MutationObserverInit`](../) element till en befintlig endimensionell array, med början vid det angivna arrayindexet.
+Kopierar [`MutationObserverInit`](../)-elementen till en befintlig endimensionell array, med start vid det angivna array‑indexet.
 
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
@@ -16,13 +16,11 @@ public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| array | KeyValuePair`2[] | Destinationsmatris. |
-| arrayIndex | Int32 | Arrayindexet att börja på. |
+| array | KeyValuePair`2[] | Målararray. |
+| arrayIndex | Int32 | Arrayindexet att börja vid. |
 
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

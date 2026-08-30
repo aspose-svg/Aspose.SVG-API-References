@@ -1,7 +1,7 @@
 ---
-title: Document.InputEncoding
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Hämtar dokumentets kodning.
+title: "Document.InputEncoding"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document InputEncoding-egenskap. Hämtar dokumentets kodning"
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.dom/document/inputencoding/
@@ -14,14 +14,12 @@ Hämtar dokumentets kodning.
 public string InputEncoding { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Dokumentets kodning.
 
 ### Se även
 
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

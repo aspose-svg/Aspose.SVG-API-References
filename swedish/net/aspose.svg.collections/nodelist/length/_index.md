@@ -1,7 +1,7 @@
 ---
-title: NodeList.Length
-second_title: Aspose.SVG för .NET API Referens
-description: NodeList fast egendom. Antalet noder i listan.
+title: "NodeList.Length"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NodeList Length-egenskapen. Antalet noder i listan."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.collections/nodelist/length/
@@ -17,7 +17,5 @@ public abstract int Length { get; }
 ### Se även
 
 * class [NodeList](../)
-* namnutrymme [Aspose.Svg.Collections](../../nodelist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

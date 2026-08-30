@@ -1,14 +1,14 @@
 ---
-title: Document.PreviousElementSibling
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Returnerar föregående syskonelementnod för detta element. null om detta element inte har några element syskonnoder som kommer före detta i dokumentträdet.
+title: "Document.PreviousElementSibling"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document PreviousElementSibling property. Returnerar föregående syskon-elementnod för detta element. null om detta element inte har några element-syskonnoder som kommer före detta i dokumentträdet"
 type: docs
 weight: 220
 url: /sv/net/aspose.svg.dom/document/previouselementsibling/
 ---
 ## Document.PreviousElementSibling property
 
-Returnerar föregående syskonelementnod för detta element. null om detta element inte har några element syskonnoder som kommer före detta i dokumentträdet.
+Returnerar föregående syskon-elementnod för detta element. null om detta element inte har några element-syskon som kommer före detta i dokumentträdet.
 
 ```csharp
 public Element PreviousElementSibling { get; }
@@ -18,7 +18,5 @@ public Element PreviousElementSibling { get; }
 
 * class [Element](../../element/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

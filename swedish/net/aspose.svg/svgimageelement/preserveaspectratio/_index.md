@@ -1,28 +1,26 @@
 ---
-title: SVGImageElement.PreserveAspectRatio
-second_title: Aspose.SVG för .NET API Referens
-description: SVGImageElement fast egendom. Motsvarar attributet preserveAspectRatio på det givna imageelementet.
+title: "SVGImageElement.PreserveAspectRatio"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGImageElement PreserveAspectRatio egenskap. Motsvarar attributet preserveAspectRatio på det angivna bildelementet."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgimageelement/preserveaspectratio/
 ---
 ## SVGImageElement.PreserveAspectRatio property
 
-Motsvarar attributet 'preserveAspectRatio' på det givna 'image'-elementet.
+Motsvarar attributet ‘preserveAspectRatio’ på det angivna ‘image’-elementet.
 
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bevara bildförhållandet.
+Det bevarade bildförhållandet.
 
 ### Se även
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGImageElement](../)
-* namnutrymme [Aspose.Svg](../../svgimageelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

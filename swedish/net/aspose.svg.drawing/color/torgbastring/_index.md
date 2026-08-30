@@ -1,7 +1,7 @@
 ---
-title: Color.ToRgbaString
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en sträng som innehåller RGBAfärgen specificerad av rgbaR G B A.
+title: "Color.ToRgbaString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color ToRgbaString-metoden. Returnerar en sträng som innehåller RGBA-färgen specificerad av rgbaR G B A"
 type: docs
 weight: 400
 url: /sv/net/aspose.svg.drawing/color/torgbastring/
@@ -21,7 +21,5 @@ En rgba-sträng.
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

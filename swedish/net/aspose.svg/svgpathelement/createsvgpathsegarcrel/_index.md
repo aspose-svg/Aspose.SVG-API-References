@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegArcRel
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathElement metod. Returnerar ett fristående föräldralöst SVGPathSegArcRelobjekt.
+title: "SVGPathElement.CreateSVGPathSegArcRel"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathElement CreateSVGPathSegArcRel metod. Returnerar ett fristående, föräldralöst SVGPathSegArcRel-objekt"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg/svgpathelement/createsvgpathsegarcrel/
@@ -17,13 +17,13 @@ public SVGPathSegArcRel CreateSVGPathSegArcRel(float x, float y, float r1, float
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | Den relativa X-koordinaten för slutpunkten för detta vägsegment. |
-| y | Single | Den relativa Y-koordinaten för ändpunkten för detta vägsegment. |
-| r1 | Single | X-axelns radie för ellipsen (dvs r1). |
-| r2 | Single | Y-axelns radie för ellipsen (dvs r2). |
-| angle | Single | Rotationsvinkeln i grader för ellipsens x-axel i förhållande till x-axeln för användarens koordinatsystem. |
-| largeArcFlag | Boolean | Värdet för parametern large-arc-flagga. |
-| sweepFlag | Boolean | Värdet för parametern large-arc-flagga. |
+| x | Single | Den relativa X-koordinaten för slutpunkten av detta segment. |
+| y | Single | Den relativa Y-koordinaten för slutpunkten av detta segment. |
+| r1 | Single | x‑axelns radie för ellipsen (dvs. r1). |
+| r2 | Single | y‑axelns radie för ellipsen (dvs. r2). |
+| angle | Single | Rotationsvinkeln i grader för ellipsens x‑axel relativt x‑axeln i användarkoordinatsystemet. |
+| largeArcFlag | Boolean | Värdet för parametern large-arc-flag. |
+| sweepFlag | Boolean | Värdet för parametern large-arc-flag. |
 
 ### Returvärde
 
@@ -33,7 +33,5 @@ Ett fristående, föräldralöst SVGPathSegArcRel-objekt.
 
 * class [SVGPathSegArcRel](../../../aspose.svg.paths/svgpathsegarcrel/)
 * class [SVGPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

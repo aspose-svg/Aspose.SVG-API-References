@@ -1,14 +1,14 @@
 ---
-title: Document.CreateProcessingInstruction
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skapar en ProcessingInstructionnod med det angivna namnet och datasträngarna.
+title: "Document.CreateProcessingInstruction"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document CreateProcessingInstruction‑metod. Skapar en ProcessingInstruction‑nod med det angivna namn‑ och datasträngarna."
 type: docs
 weight: 920
 url: /sv/net/aspose.svg.dom/document/createprocessinginstruction/
 ---
 ## Document.CreateProcessingInstruction method
 
-Skapar en ProcessingInstruction-nod med det angivna namnet och datasträngarna.
+Skapar en ProcessingInstruction-nod med det angivna namn- och datatsträngarna.
 
 ```csharp
 public ProcessingInstruction CreateProcessingInstruction(string target, string data)
@@ -21,13 +21,11 @@ public ProcessingInstruction CreateProcessingInstruction(string target, string d
 
 ### Returvärde
 
-Den[`ProcessingInstruction`](../../processinginstruction/) .
+Den [`ProcessingInstruction`](../../processinginstruction/).
 
 ### Se även
 
 * class [ProcessingInstruction](../../processinginstruction/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: InputEvent.Data
-second_title: Aspose.SVG för .NET API Referens
-description: InputEvent fast egendom. Datan innehåller värdet av tecknen som genereras av en inmatningsmetod. Detta KAN vara ett enda Unicodetecken eller en icketom sekvens av Unicodetecken Unicode. Tecken SKA normaliseras enligt definitionen av Unicodenormaliseringsformen NFC definierad i UAX15. Det här attributet KAN innehålla den tomma strängen.
+title: "InputEvent.Data"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "InputEvent Data‑egenskap. Data innehåller värdet av de tecken som genererats av en inmatningsmetod. Detta KAN vara ett enskilt Unicode‑tecken eller en icke‑tom sekvens av Unicode‑tecken. Tecken SKA normaliseras enligt Unicode‑normaliseringsformen NFC som definierad i UAX15. Detta attribut KAN innehålla en tom sträng."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.events/inputevent/data/
 ---
 ## InputEvent.Data property
 
-Datan innehåller värdet av tecknen som genereras av en inmatningsmetod. Detta KAN vara ett enda Unicode-tecken eller en icke-tom sekvens av Unicode-tecken [Unicode]. Tecken SKA normaliseras enligt definitionen av Unicode-normaliseringsformen NFC, definierad i [UAX15]. Det här attributet KAN innehålla den tomma strängen.
+Data innehåller värdet för de tecken som genereras av en inmatningsmetod. Detta KAN vara ett enskilt Unicode-tecken eller en icke‑tom sekvens av Unicode-tecken [Unicode]. Tecken SKALL normaliseras enligt Unicode‑normaliseringsformen NFC, definierad i [UAX15]. Detta attribut KAN innehålla en tom sträng.
 
 ```csharp
 public string Data { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Händelsedata.
+Evenemangsdata.
 
 ### Se även
 
 * class [InputEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../inputevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

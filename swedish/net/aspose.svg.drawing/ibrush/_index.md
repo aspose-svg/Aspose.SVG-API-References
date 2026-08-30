@@ -1,28 +1,26 @@
 ---
-title: Interface IBrush
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.IBrush gränssnitt. Deklarerar metod för att få av borsttyp.
+title: "IBrush-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.IBrush-gränssnitt. Deklarerar metod för att hämta penseltyp"
 type: docs
-weight: 1430
+weight: 3440
 url: /sv/net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface
 
-Deklarerar metod för att få av borsttyp.
+Deklarerar en metod för att hämta penseltyp.
 
 ```csharp
-public interface IBrush
+public interface IBrush : IDisposable
 ```
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Skaffa typ av borste; |
+| [Type](../../aspose.svg.drawing/ibrush/type/) { get; } | Hämtar penseltyp som [`BrushType`](../brushtype/). |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

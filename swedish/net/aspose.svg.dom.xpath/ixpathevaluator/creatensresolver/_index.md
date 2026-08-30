@@ -1,14 +1,14 @@
 ---
-title: IXPathEvaluator.CreateNSResolver
-second_title: Aspose.SVG för .NET API Referens
-description: IXPathEvaluator metod. Anpassar valfri DOMnod för att lösa namnområden så att ett XPathuttryck enkelt kan utvärderas i förhållande till nodens kontext där det förekom i dokumentet. Denna adapter fungerar som DOM Level 3metodenlookupNamespaceURI på noder för att lösa namnutrymmetURI från ett givet prefix med den aktuella informationen som är tillgänglig i nodens hierarki vid den tidpunkt lookupNamespaceURI anropas vilket också korrekt löser det implicita xmlprefixet.
+title: "IXPathEvaluator.CreateNSResolver"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IXPathEvaluator CreateNSResolver-metod. Anpassar vilken DOM-nod som helst för att lösa namnrymder så att ett XPath-uttryck enkelt kan utvärderas i förhållande till kontexten för den nod där det förekom i dokumentet. Denna adapter fungerar som DOM Level 3‑metoden lookupNamespaceURI på noder för att lösa namespaceURI från ett givet prefix med den information som för närvarande finns i nodens hierarki när lookupNamespaceURI anropas, och löser även korrekt det implicita xml‑prefixet."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.xpath/ixpathevaluator/creatensresolver/
 ---
 ## IXPathEvaluator.CreateNSResolver method
 
-Anpassar valfri DOM-nod för att lösa namnområden så att ett XPath-uttryck enkelt kan utvärderas i förhållande till nodens kontext där det förekom i dokumentet. Denna adapter fungerar som DOM Level 3-metoden`lookupNamespaceURI` på noder för att lösa namnutrymmetURI från ett givet prefix med den aktuella informationen som är tillgänglig i nodens hierarki vid den tidpunkt lookupNamespaceURI anropas, vilket också korrekt löser det implicita xml-prefixet.
+Anpassar vilken DOM-nod som helst för att lösa namnrymder så att ett XPath-uttryck enkelt kan utvärderas i förhållande till kontexten för den nod där det förekom i dokumentet. Denna adapter fungerar som DOM Level 3-metoden `lookupNamespaceURI` på noder för att lösa namespaceURI från ett givet prefix med den aktuella informationen som finns i nodens hierarki när lookupNamespaceURI anropas, och löser även korrekt det implicita xml-prefixet.
 
 ```csharp
 public IXPathNSResolver CreateNSResolver(Node nodeResolver)
@@ -16,18 +16,16 @@ public IXPathNSResolver CreateNSResolver(Node nodeResolver)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| nodeResolver | Node | Noden som ska användas som en kontext för upplösning av namnutrymmet. |
+| nodeResolver | Node | Noden som ska användas som kontext för namnrymdslösning. |
 
 ### Returvärde
 
-[`IXPathNSResolver`](../../ixpathnsresolver/) som löser namnområden med avseende på definitions i omfånget för en specificerad nod.
+[`IXPathNSResolver`](../../ixpathnsresolver/) which resolves namespaces with respect to the definitions in scope for a specified node.
 
 ### Se även
 
 * interface [IXPathNSResolver](../../ixpathnsresolver/)
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [IXPathEvaluator](../)
-* namnutrymme [Aspose.Svg.Dom.XPath](../../ixpathevaluator/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

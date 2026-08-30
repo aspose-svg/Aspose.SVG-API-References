@@ -1,20 +1,20 @@
 ---
-title: MutationRecord.RemovedNodes
-second_title: Aspose.SVG för .NET API Referens
-description: MutationRecord fast egendom. Returnera noderna borttagna.
+title: "MutationRecord.RemovedNodes"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationRecord RemovedNodes egenskap. Returnerar de borttagna noderna"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.dom.mutations/mutationrecord/removednodes/
 ---
 ## MutationRecord.RemovedNodes property
 
-Returnera noderna borttagna.
+Returnera de borttagna noderna.
 
 ```csharp
 public NodeList RemovedNodes { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De borttagna noderna.
 
@@ -22,7 +22,5 @@ De borttagna noderna.
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

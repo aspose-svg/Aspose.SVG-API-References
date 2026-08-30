@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.ResultType
-second_title: Aspose.SVG för .NET API Referens
-description: IXPathResult fast egendom. En kod som representerar typen av detta resultat enligt definitionen av http//www.w3.org/TR/DOMLevel3XPath/xpath.htmlXPathResult XPathResultType enum.
+title: "IXPathResult.ResultType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IXPathResult ResultType-egenskap. En kod som representerar typen av detta resultat enligt http//www.w3.org/TR/DOM-Level-3-XPath/xpath.htmlXPathResult XPathResultType‑enum"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.xpath/ixpathresult/resulttype/
 ---
 ## IXPathResult.ResultType property
 
-En kod som representerar typen av detta resultat, enligt definitionen av http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype/) enum.
+En kod som representerar typen av detta resultat, enligt http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype/)‑enum.
 
 ```csharp
 public XPathResultType ResultType { get; }
@@ -18,7 +18,5 @@ public XPathResultType ResultType { get; }
 
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathResult](../)
-* namnutrymme [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

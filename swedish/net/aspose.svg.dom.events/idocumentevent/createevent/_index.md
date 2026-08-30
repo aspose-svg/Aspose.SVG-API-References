@@ -1,14 +1,14 @@
 ---
-title: IDocumentEvent.CreateEvent
-second_title: Aspose.SVG för .NET API Referens
-description: IDocumentEvent metod. Skapar enEvent av en typ som stöds av implementeringen.
+title: "IDocumentEvent.CreateEvent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDocumentEvent CreateEvent‑metod. Skapar en Event av en typ som stöds av implementationen."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.events/idocumentevent/createevent/
 ---
 ## IDocumentEvent.CreateEvent method
 
-Skapar en[`Event`](../../event/) av en typ som stöds av implementeringen.
+Skapar ett [`Event`](../../event/) av en typ som stöds av implementationen.
 
 ```csharp
 public Event CreateEvent(string eventType)
@@ -16,23 +16,21 @@ public Event CreateEvent(string eventType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| eventType | String | EventType-parametern anger typen av[`Event`](../../event/) gränssnitt som ska skapas.  Om[`Event`](../../event/)det angivna gränssnittet stöds av implementeringen denna metod kommer att returnera en new [`Event`](../../event/) av den begärda gränssnittstypen. Om[`Event`](../../event/)ska skickas via[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) metod lämplig [`InitEvent`](../../event/initevent/) metoden måste anropas efter skapandet för att initiera[`Event`](../../event/) s värden. |
+| eventType | String | Parametern eventType specificerar vilken typ av [`Event`](../../event/)‑gränssnitt som ska skapas. Om det angivna [`Event`](../../event/)‑gränssnittet stöds av implementationen kommer denna metod att returnera ett nytt [`Event`](../../event/) av den begärda gränssnittstypen. Om [`Event`](../../event/) ska skickas via metoden [`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent/) måste den lämpliga metoden [`InitEvent`](../../event/initevent/) anropas efter skapandet för att initiera värdena för [`Event`](../../event/). |
 
 ### Returvärde
 
-Den nyskapade[`Event`](../../event/)
+Det nyss skapade [`Event`](../../event/)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Ökas om implementeringen inte stöder typen av[`Event`](../../event/) gränssnitt begärt |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Uppstår om implementationen inte stöder den begärda typen av [`Event`](../../event/)‑gränssnitt. |
 
 ### Se även
 
 * class [Event](../../event/)
 * interface [IDocumentEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../idocumentevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PaddingRight
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se paddingrightegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.PaddingRight"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties PaddingRight egenskap. Se definitionen av egenskapen padding-right i CSS2"
 type: docs
-weight: 830
+weight: 860
 url: /sv/net/aspose.svg.dom.css/icss2properties/paddingright/
 ---
 ## ICSS2Properties.PaddingRight property
 
-Se padding-right-egenskapsdefinitionen i CSS2.
+Se egendefinitionen för padding-right i CSS2.
 
 ```csharp
 public string PaddingRight { get; set; }
@@ -16,12 +16,10 @@ public string PaddingRight { get; set; }
 
 ### Returvärde
 
-utfyllnadsrättsegendom
+padding-right egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

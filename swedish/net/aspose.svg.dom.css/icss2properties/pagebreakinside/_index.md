@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PageBreakInside
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för sidbrytning i CSS2.
+title: "ICSS2Properties.PageBreakInside"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties PageBreakInside egenskap. Se definitionen av page-break-inside egenskap i CSS2"
 type: docs
-weight: 880
+weight: 910
 url: /sv/net/aspose.svg.dom.css/icss2properties/pagebreakinside/
 ---
 ## ICSS2Properties.PageBreakInside property
 
-Se egenskapsdefinitionen för sidbrytning i CSS2.
+Se egendefinitionen för page-break-inside i CSS2.
 
 ```csharp
 public string PageBreakInside { get; set; }
@@ -16,12 +16,10 @@ public string PageBreakInside { get; set; }
 
 ### Returvärde
 
-page-break-in-egendom
+page-break-inside egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

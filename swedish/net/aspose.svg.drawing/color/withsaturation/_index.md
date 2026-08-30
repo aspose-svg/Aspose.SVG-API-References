@@ -1,7 +1,7 @@
 ---
-title: Color.WithSaturation
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Skapar en kopia av färgen med specificerad mättnad.
+title: "Color.WithSaturation"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color WithSaturation-metoden. Skapar en kopia av Color med angiven mättnad"
 type: docs
 weight: 480
 url: /sv/net/aspose.svg.drawing/color/withsaturation/
@@ -16,16 +16,14 @@ public Color WithSaturation(float saturation)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| saturation | Single | Värdet av mättnad. |
+| saturation | Single | Värde på mättnad. |
 
 ### Returvärde
 
-&gt;En ny instans av[`Color`](../) klass.
+&gt;En ny instans av klassen [`Color`](../).
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

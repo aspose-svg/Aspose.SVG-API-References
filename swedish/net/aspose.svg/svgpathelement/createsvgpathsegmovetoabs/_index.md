@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegMovetoAbs
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathElement metod. Returnerar ett fristående föräldralöst SVGPathSegMovetoAbsobjekt.
+title: "SVGPathElement.CreateSVGPathSegMovetoAbs"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathElement CreateSVGPathSegMovetoAbs metod. Returnerar ett fristående, föräldralöst SVGPathSegMovetoAbs objekt"
 type: docs
 weight: 200
 url: /sv/net/aspose.svg/svgpathelement/createsvgpathsegmovetoabs/
@@ -16,18 +16,16 @@ public SVGPathSegMovetoAbs CreateSVGPathSegMovetoAbs(float x, float y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | Den absoluta X-koordinaten för slutpunkten för detta vägsegment. |
-| y | Single | Den absoluta Y-koordinaten för slutpunkten för detta vägsegment. |
+| x | Single | Den absoluta X-koordinaten för slutpunkten av detta segment. |
+| y | Single | Den absoluta Y-koordinaten för slutpunkten av detta segment. |
 
 ### Returvärde
 
-Ett fristående, föräldralöst SVGPathSegMovetoAbs-objekt.
+Ett fristående, föräldralöst SVGPathSegMovetoAbs objekt.
 
 ### Se även
 
 * class [SVGPathSegMovetoAbs](../../../aspose.svg.paths/svgpathsegmovetoabs/)
 * class [SVGPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

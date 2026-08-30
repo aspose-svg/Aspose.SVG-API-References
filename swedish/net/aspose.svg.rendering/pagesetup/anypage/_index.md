@@ -1,28 +1,26 @@
 ---
-title: PageSetup.AnyPage
-second_title: Aspose.SVG för .NET API Referens
-description: PageSetup fast egendom. Hämtar eller ställer in alla sidkonfigurationer i sidsekvensen.
+title: "PageSetup.AnyPage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PageSetup AnyPage-egenskap. Hämtar eller ställer in konfigurationen för alla sidor i sidsekvensen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering/pagesetup/anypage/
 ---
 ## PageSetup.AnyPage property
 
-Hämtar eller ställer in alla sidkonfigurationer i sidsekvensen.
+Hämtar eller anger all sidkonfiguration i sidsekvensen.
 
 ```csharp
 public Page AnyPage { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Vilken sida som helst.
+Valfri sida.
 
 ### Se även
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* namnutrymme [Aspose.Svg.Rendering](../../pagesetup/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

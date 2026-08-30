@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentEvent
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Events.IDocumentEvent gränssnitt. DenIDocumentEvent gränssnitt tillhandahåller en mekanism genom vilken användaren kan skapa enEvent av en typ som stöds av implementeringen.
+title: "IDocumentEvent‑gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Events.IDocumentEvent‑gränssnitt. IDocumentEvent‑gränssnittet tillhandahåller en mekanism som gör det möjligt för användaren att skapa en händelse av en typ som stöds av implementationen."
 type: docs
-weight: 940
+weight: 2940
 url: /sv/net/aspose.svg.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface
 
-Den`IDocumentEvent` gränssnitt tillhandahåller en mekanism genom vilken användaren kan skapa en[`Event`](../event/) av en typ som stöds av implementeringen.
+`IDocumentEvent`‑gränssnittet tillhandahåller en mekanism som gör det möjligt för användaren att skapa en [`Event`](../event/) av en typ som stöds av implementationen.
 
 ```csharp
 public interface IDocumentEvent
@@ -16,17 +16,15 @@ public interface IDocumentEvent
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(string) | Skapar en[`Event`](../event/) av en typ som stöds av implementeringen. |
+| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent/)(*string*) | Skapar ett [`Event`](../event/) av en typ som stöds av implementationen. |
 
-### Anmärkningar
+## Anmärkningar
 
-Det förväntas att`IDocumentEvent` gränssnittet kommer att implementeras på samma objekt som implementerar the [`Document`](../../aspose.svg.dom/document/) gränssnitt i en implementering som stöder händelsemodellen.
+Det förväntas att gränssnittet `IDocumentEvent` kommer att implementeras på samma objekt som implementerar [`Document`](../../aspose.svg.dom/document/) gränssnittet i en implementation som stödjer Event-modellen.
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

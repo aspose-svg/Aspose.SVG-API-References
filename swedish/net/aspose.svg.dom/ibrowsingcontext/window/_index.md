@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Window
-second_title: Aspose.SVG för .NET API Referens
-description: IBrowsingContext fast egendom. Hämtar WindowProxyobjektet.
+title: "IBrowsingContext.Window"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IBrowsingContext Window property. Hämtar WindowProxy-objektet"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom/ibrowsingcontext/window/
@@ -14,7 +14,7 @@ Hämtar WindowProxy-objektet.
 public IWindow Window { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Fönstret.
 
@@ -22,7 +22,5 @@ Fönstret.
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * interface [IBrowsingContext](../)
-* namnutrymme [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

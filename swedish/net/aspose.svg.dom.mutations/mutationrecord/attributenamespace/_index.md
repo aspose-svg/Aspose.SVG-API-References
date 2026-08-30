@@ -1,27 +1,25 @@
 ---
-title: MutationRecord.AttributeNamespace
-second_title: Aspose.SVG för .NET API Referens
-description: MutationRecord fast egendom. Returnerar namnutrymmet för det ändrade attributet och null annars.
+title: "MutationRecord.AttributeNamespace"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationRecord AttributeNamespace egenskap. Returnerar namnutrymmet för det ändrade attributet och annars null."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.mutations/mutationrecord/attributenamespace/
 ---
 ## MutationRecord.AttributeNamespace property
 
-Returnerar namnutrymmet för det ändrade attributet och null annars.
+Returnerar namnutrymmet för det ändrade attributet, och null annars.
 
 ```csharp
 public string AttributeNamespace { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet namespace.
+Attributets namnrymd.
 
 ### Se även
 
 * class [MutationRecord](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

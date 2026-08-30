@@ -1,14 +1,14 @@
 ---
-title: UnitType.Turn
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Mätningen sker i varv.
+title: "UnitType.Turn"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Turn-fält. Mätning är i varv"
 type: docs
 weight: 260
 url: /sv/net/aspose.svg.drawing/unittype/turn/
 ---
 ## UnitType.Turn field
 
-Mätningen sker i varv.
+Mätning är i varv.
 
 ```csharp
 public static readonly UnitType Turn;
@@ -17,7 +17,5 @@ public static readonly UnitType Turn;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

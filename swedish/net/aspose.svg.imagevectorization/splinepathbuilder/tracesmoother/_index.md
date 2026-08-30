@@ -1,14 +1,14 @@
 ---
-title: SplinePathBuilder.TraceSmoother
-second_title: Aspose.SVG för .NET API Referens
-description: SplinePathBuilder fast egendom. Får eller gör spårningen jämnare.
+title: "SplinePathBuilder.TraceSmoother"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SplinePathBuilder Trace Smoother-egenskap. Hämtar eller anger trace smoother"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/
 ---
 ## SplinePathBuilder.TraceSmoother property
 
-Får eller gör spårningen jämnare.
+Hämtar eller anger spårutjämning.
 
 ```csharp
 public IImageTraceSmoother TraceSmoother { get; set; }
@@ -18,7 +18,5 @@ public IImageTraceSmoother TraceSmoother { get; set; }
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * class [SplinePathBuilder](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

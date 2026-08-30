@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentView
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Views.IDocumentView gränssnitt. DocumentViewgränssnittet implementeras av Documentobjekt i DOMimplementationer som stöder DOM Views. Den tillhandahåller ett attribut för att hämta standardvyn för ett dokument.
+title: "IDocumentView Gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Views.IDocumentView‑gränssnitt. DocumentView‑gränssnittet implementeras av Document‑objekt i DOM‑implementationer som stöder DOM‑Views. Det tillhandahåller ett attribut för att hämta standardvyn för ett dokument"
 type: docs
-weight: 1300
+weight: 3300
 url: /sv/net/aspose.svg.dom.views/idocumentview/
 ---
 ## IDocumentView interface
 
-DocumentView-gränssnittet implementeras av Document-objekt i DOM-implementationer som stöder DOM Views. Den tillhandahåller ett attribut för att hämta standardvyn för ett dokument.
+DocumentView‑gränssnittet implementeras av Document‑objekt i DOM‑implementationer som stöder DOM‑Views. Det tillhandahåller ett attribut för att hämta dokumentets standardvy.
 
 ```csharp
 public interface IDocumentView : IAbstractView
@@ -16,14 +16,12 @@ public interface IDocumentView : IAbstractView
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DefaultView](../../aspose.svg.dom.views/idocumentview/defaultview/) { get; } | Standard AbstractView för detta dokument, eller null om ingen tillgänglig. |
+| [DefaultView](../../aspose.svg.dom.views/idocumentview/defaultview/) { get; } | Standard‑AbstractView för detta dokument, eller null om ingen finns tillgänglig. |
 
 ### Se även
 
 * interface [IAbstractView](../iabstractview/)
-* namnutrymme [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Views](../../aspose.svg.dom.views/)
+* assembly [Aspose.SVG](../../)

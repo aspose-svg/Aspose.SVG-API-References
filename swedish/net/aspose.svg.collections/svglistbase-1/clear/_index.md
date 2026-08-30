@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.Clear
-second_title: Aspose.SVG för .NET API Referens
-description: SVGListBase metod. Rensar alla befintliga aktuella objekt från listan med resultatet blir en tom lista.
+title: "SVGListBase-1.Clear"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGListBase Clear-metod. Rensar alla befintliga objekt från listan så att resultatet blir en tom lista."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.collections/svglistbase-1/clear/
 ---
-## SVGListBase&lt;T&gt;.Clear method
+## SVGListBase<T>.Clear method
 
-Rensar alla befintliga aktuella objekt från listan, med resultatet blir en tom lista.
+Rensar alla befintliga aktuella objekt från listan, vilket resulterar i en tom lista.
 
 ```csharp
 public void Clear()
@@ -16,14 +16,12 @@ public void Clear()
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Koda[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Ökas när listan inte kan ändras. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Utlöst när listan inte kan modifieras. |
 
 ### Se även
 
 * class [SVGListBase&lt;T&gt;](../)
-* namnutrymme [Aspose.Svg.Collections](../../svglistbase-1/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

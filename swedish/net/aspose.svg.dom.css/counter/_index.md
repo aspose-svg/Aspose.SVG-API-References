@@ -1,14 +1,14 @@
 ---
-title: Class Counter
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.Counter klass. Räknargränssnittet används för att representera alla räknare eller räknarfunktionsvärden. Detta gränssnitt återspeglar värdena i den underliggande stilegenskapen.
+title: "Counter-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.Counter-klass. Counter-gränssnittet används för att representera ett räknar- eller räknarfunktionvärde. Detta gränssnitt speglar värdena i den underliggande stilegenskapen."
 type: docs
-weight: 510
+weight: 2510
 url: /sv/net/aspose.svg.dom.css/counter/
 ---
 ## Counter class
 
-Räknargränssnittet används för att representera alla räknare eller räknarfunktionsvärden. Detta gränssnitt återspeglar värdena i den underliggande stilegenskapen.
+Counter-gränssnittet används för att representera ett räknare‑ eller counters‑funktionsvärde. Detta gränssnitt speglar värdena i den underliggande stil‑egenskapen.
 
 ```csharp
 public class Counter : DOMObject
@@ -16,22 +16,20 @@ public class Counter : DOMObject
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Identifier](../../aspose.svg.dom.css/counter/identifier/) { get; } | Det här attributet används för räknarens identifierare. |
-| [ListStyle](../../aspose.svg.dom.css/counter/liststyle/) { get; } | Det här attributet används för listans stil. |
-| [Separator](../../aspose.svg.dom.css/counter/separator/) { get; } | Det här attributet används för separatorn för de kapslade räknarna. |
+| [Identifier](../../aspose.svg.dom.css/counter/identifier/) { get; } | Detta attribut används för identifieraren för räknaren. |
+| [ListStyle](../../aspose.svg.dom.css/counter/liststyle/) { get; } | Detta attribut används för listans stil. |
+| [Separator](../../aspose.svg.dom.css/counter/separator/) { get; } | Detta attribut används för avgränsaren för de nästlade räknarna. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
 
 ### Se även
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

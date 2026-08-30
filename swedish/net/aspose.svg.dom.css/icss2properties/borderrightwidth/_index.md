@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderRightWidth
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för borderrightwidth i CSS2.
+title: "ICSS2Properties.BorderRightWidth"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BorderRightWidth egenskap. Se definitionen av border-right-width egenskapen i CSS2"
 type: docs
 weight: 220
 url: /sv/net/aspose.svg.dom.css/icss2properties/borderrightwidth/
 ---
 ## ICSS2Properties.BorderRightWidth property
 
-Se egenskapsdefinitionen för border-right-width i CSS2.
+Se definitionen av egenskapen border-right-width i CSS2.
 
 ```csharp
 public string BorderRightWidth { get; set; }
@@ -16,12 +16,10 @@ public string BorderRightWidth { get; set; }
 
 ### Returvärde
 
-gräns-höger-bredd egendom
+border-right-width egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

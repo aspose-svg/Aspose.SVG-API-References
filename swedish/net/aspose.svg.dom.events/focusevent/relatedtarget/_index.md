@@ -1,20 +1,20 @@
 ---
-title: FocusEvent.RelatedTarget
-second_title: Aspose.SVG för .NET API Referens
-description: FocusEvent fast egendom. Används för att identifiera ett sekundärt EventTarget relaterat till en Focushändelse beroende på typen av händelse.
+title: "FocusEvent.RelatedTarget"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FocusEvent RelatedTarget-egenskap. Används för att identifiera ett sekundärt EventTarget relaterat till ett Focus‑händelse beroende på händelsetypen."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.events/focusevent/relatedtarget/
 ---
 ## FocusEvent.RelatedTarget property
 
-Används för att identifiera ett sekundärt EventTarget relaterat till en Focus-händelse, beroende på typen av händelse.
+Används för att identifiera ett sekundärt EventTarget relaterat till en fokus‑händelse, beroende på händelsetypen.
 
 ```csharp
 public EventTarget RelatedTarget { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Det relaterade målet.
 
@@ -22,7 +22,5 @@ Det relaterade målet.
 
 * class [EventTarget](../../../aspose.svg.dom/eventtarget/)
 * class [FocusEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../focusevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

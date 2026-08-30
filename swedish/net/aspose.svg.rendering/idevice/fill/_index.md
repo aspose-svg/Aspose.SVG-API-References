@@ -1,27 +1,26 @@
 ---
-title: IDevice.Fill
-second_title: Aspose.SVG för .NET API Referens
-description: IDevice metod. Fyller hela området som omges av den aktuella sökvägen. Om sökvägen består av flera frånkopplade undersökvägar fyller den insidan av alla undersökvägar betraktat tillsammans. Den här metoden avslutar aktuell väg.
+title: "IDevice.Fill"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDevice Fill-metoden. Fyller hela området som omsluts av den aktuella vägen. Om vägen består av flera separata delvägar fyller den insidan av alla delvägar tillsammans. Denna metod avslutar den aktuella vägen."
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.rendering/idevice/fill/
 ---
 ## IDevice.Fill method
 
-Fyller hela området som omges av den aktuella sökvägen. Om sökvägen består av flera frånkopplade undersökvägar, fyller den insidan av alla undersökvägar, betraktat tillsammans. Den här metoden avslutar aktuell väg.
+Fyller hela området som omsluts av den aktuella banan. Om banan består av flera separata delbanor fyller den insidan av alla delbanor, betraktade tillsammans. Denna metod avslutar den aktuella banan.
 
 ```csharp
-public void Fill(FillMode mode)
+public void Fill(FillRule rule)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| mode | FillMode | Fyllningsläge anger hur det inre av en stängd bana fylls |
+| regel | FillRule | Fyllningsregeln specificerar hur insidan av en sluten bana fylls. |
 
 ### Se även
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * interface [IDevice](../)
-* namnutrymme [Aspose.Svg.Rendering](../../idevice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

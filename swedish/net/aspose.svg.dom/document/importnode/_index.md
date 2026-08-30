@@ -1,7 +1,7 @@
 ---
-title: Document.ImportNode
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Importerar en nod från ett annat dokument till detta dokument utan att ändra eller ta bort källnoden från originaldokumentet denna metod skapar en ny kopia av källnoden.
+title: "Document.ImportNode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document ImportNode-metod. Importerar en nod från ett annat dokument till detta dokument utan att ändra eller ta bort källnoden från det ursprungliga dokumentet; den här metoden skapar en ny kopia av källnoden"
 type: docs
 weight: 1000
 url: /sv/net/aspose.svg.dom/document/importnode/
@@ -17,17 +17,15 @@ public Node ImportNode(Node importedNode, bool deep)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | importedNode | Node | Den importerade noden. |
-| deep | Boolean | om inställt på`Sann` [djup]. |
+| deep | Boolean | om satt till `true` [deep]. |
 
 ### Returvärde
 
-Den[`Node`](../../node/) .
+Den [`Node`](../../node/).
 
 ### Se även
 
 * class [Node](../../node/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

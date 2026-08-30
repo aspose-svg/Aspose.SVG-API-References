@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Bottom
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se den nedersta egenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Bottom"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Bottom-egenskap. Se definitionen av bottom-egenskapen i CSS2"
 type: docs
 weight: 300
 url: /sv/net/aspose.svg.dom.css/icss2properties/bottom/
 ---
 ## ICSS2Properties.Bottom property
 
-Se den nedersta egenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen bottom i CSS2.
 
 ```csharp
 public string Bottom { get; set; }
@@ -16,12 +16,10 @@ public string Bottom { get; set; }
 
 ### Returvärde
 
-bottenfastighet
+bottom-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Color.FromRgba
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en ny färg med de begärda ged gröna blå alfavärdena. Alla färgkomponenter måste vara i intervallet 0255.
+title: "Color.FromRgba"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color FromRgba-metoden. Returnerar ett nytt Color med de begärda röd, grön, blå och alfa-värdena. Alla färgkomponenter måste vara i intervallet 0-255"
 type: docs
 weight: 210
 url: /sv/net/aspose.svg.drawing/color/fromrgba/
 ---
-## FromRgba(byte, byte, byte, byte) {#fromrgba}
+## FromRgba(*byte, byte, byte, byte*) {#fromrgba}
 
-Returnerar en ny färg med de begärda ged, gröna, blå, alfavärdena. Alla färgkomponenter måste vara i intervallet 0-255.
+Returnerar en ny Color med de begärda ged, green, blue, alpha‑värdena. Alla färgkomponenter måste ligga i intervallet 0‑255.
 
 ```csharp
 public static Color FromRgba(byte red, byte green, byte blue, byte alpha)
@@ -16,26 +16,26 @@ public static Color FromRgba(byte red, byte green, byte blue, byte alpha)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Byte | En byte som representerar den röda komponenten i färgen. |
-| green | Byte | En byte som representerar den gröna komponenten i färgen. |
-| blue | Byte | En byte som representerar den blå komponenten i färgen. |
-| alpha | Byte | En byte som representerar färgens alfakomponent. |
+| röd | Byte | En byte som representerar den röda komponenten i färgen. |
+| grön | Byte | En byte som representerar den gröna komponenten i färgen. |
+| blå | Byte | En byte som representerar den blå komponenten i färgen. |
+| alfa | Byte | En byte som representerar alfa-komponenten i färgen. |
 
 ### Returvärde
 
-En ny instans av[`Color`](../) klass
+En ny instans av klassen [`Color`](../)
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FromRgba(int, int, int, int) {#fromrgba_1}
+## FromRgba(*int, int, int, int*) {#fromrgba_1}
 
-Returnerar en ny färg med de begärda ged, gröna, blå, alfavärdena. Alla färgkomponenter måste vara i intervallet 0-255.
+Returnerar en ny Color med de begärda ged, green, blue, alpha‑värdena. Alla färgkomponenter måste ligga i intervallet 0‑255.
 
 ```csharp
 public static Color FromRgba(int red, int green, int blue, int alpha)
@@ -43,26 +43,26 @@ public static Color FromRgba(int red, int green, int blue, int alpha)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Int32 | En int som representerar den röda komponenten i färgen. |
-| green | Int32 | En int som representerar den gröna komponenten i färgen. |
-| blue | Int32 | En int som representerar den blå komponenten i färgen. |
-| alpha | Int32 | En int som representerar färgens alfakomponent. |
+| röd | Int32 | En int som representerar den röda komponenten i färgen. |
+| grön | Int32 | En int som representerar den gröna komponenten i färgen. |
+| blå | Int32 | En int som representerar den blå komponenten i färgen. |
+| alfa | Int32 | En int som representerar alfa-komponenten i färgen. |
 
 ### Returvärde
 
-En ny instans av[`Color`](../) klass
+En ny instans av klassen [`Color`](../)
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FromRgba(float, float, float, float) {#fromrgba_2}
+## FromRgba(*float, float, float, float*) {#fromrgba_2}
 
-Returnerar en ny färg med de begärda ged, gröna, blå, alfavärdena. Alla färgkomponenter måste vara i intervallet 0-1.
+Returnerar en ny Color med de begärda ged, green, blue, alpha‑värdena. Alla färgkomponenter måste ligga i intervallet 0‑1.
 
 ```csharp
 public static Color FromRgba(float red, float green, float blue, float alpha)
@@ -70,19 +70,17 @@ public static Color FromRgba(float red, float green, float blue, float alpha)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Single | En flottör som representerar den röda komponenten i färgen. |
-| green | Single | En flottör som representerar den gröna komponenten i färgen. |
-| blue | Single | En flottör som representerar den blå komponenten i färgen. |
-| alpha | Single | En float som representerar alfakomponenten i färgen. |
+| röd | Single | En float som representerar den röda komponenten i färgen. |
+| grön | Single | En float som representerar den gröna komponenten i färgen. |
+| blå | Single | En float som representerar den blå komponenten i färgen. |
+| alfa | Single | En float som representerar alfa-komponenten i färgen. |
 
 ### Returvärde
 
-En ny instans av[`Color`](../) klass
+En ny instans av klassen [`Color`](../)
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

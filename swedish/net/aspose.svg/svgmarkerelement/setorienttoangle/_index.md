@@ -1,14 +1,14 @@
 ---
-title: SVGMarkerElement.SetOrientToAngle
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMarkerElement metod. Anger värdet för attributet orient till den givna vinkeln.
+title: "SVGMarkerElement.SetOrientToAngle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMarkerElement SetOrientToAngle‑metod. Sätter värdet på attributet orient till den angivna vinkeln."
 type: docs
 weight: 100
 url: /sv/net/aspose.svg/svgmarkerelement/setorienttoangle/
 ---
 ## SVGMarkerElement.SetOrientToAngle method
 
-Anger värdet för attributet 'orient' till den givna vinkeln.
+Sätter värdet för attributet ‘orient’ till den angivna vinkeln.
 
 ```csharp
 public void SetOrientToAngle(SVGAngle angle)
@@ -16,19 +16,17 @@ public void SetOrientToAngle(SVGAngle angle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | SVGAngle | Vinkelvärdet som ska användas för attributet 'orient'. |
+| angle | SVGAngle | Värdet på vinkeln att använda för attributet ‘orient’. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Höjd vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstått vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGAngle](../../../aspose.svg.datatypes/svgangle/)
 * class [SVGMarkerElement](../)
-* namnutrymme [Aspose.Svg](../../svgmarkerelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

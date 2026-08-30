@@ -1,14 +1,14 @@
 ---
-title: UrlResolver.Resolve
-second_title: Aspose.SVG för .NET API Referens
-description: UrlResolver metod. Löser den absoluta URI från basen och relativa URI.
+title: "UrlResolver.Resolve"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Metoden UrlResolver Resolve. Löser den absoluta URI:n från bas- och relativa URI:er"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.net/urlresolver/resolve/
 ---
 ## UrlResolver.Resolve method
 
-Löser den absoluta URI från basen och relativa URI.
+Löser den absoluta URI:n från bas‑ och relativa URI:er.
 
 ```csharp
 public virtual Url Resolve(string baseUri, string relativeUri)
@@ -16,18 +16,16 @@ public virtual Url Resolve(string baseUri, string relativeUri)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| baseUri | String | Bas-URI. |
-| relativeUri | String | Den relativa URI. |
+| baseUri | String | Bas-URI:n. |
+| relativeUri | String | Den relativa URI:n. |
 
 ### Returvärde
 
-Den absoluta URI
+Den absoluta URI:n
 
 ### Se även
 
 * class [Url](../../../aspose.svg/url/)
 * class [UrlResolver](../)
-* namnutrymme [Aspose.Svg.Net](../../urlresolver/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

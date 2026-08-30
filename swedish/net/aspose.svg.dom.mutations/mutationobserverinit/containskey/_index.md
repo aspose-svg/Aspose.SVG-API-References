@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.ContainsKey
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit metod. Bestämmer omMutationObserverInit samlingen innehåller en specificerad nyckel.
+title: "MutationObserverInit.ContainsKey"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit ContainsKey-metod. Avgör om MutationObserverInit-samlingen innehåller en angiven nyckel."
 type: docs
 weight: 170
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/containskey/
 ---
 ## MutationObserverInit.ContainsKey method
 
-Bestämmer om[`MutationObserverInit`](../) samlingen innehåller en specificerad nyckel.
+Avgör om [`MutationObserverInit`](../)-samlingen innehåller en angiven nyckel.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,16 +16,14 @@ public bool ContainsKey(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckeln att kontrollera. |
+| nyckel | String | Nyckeln att kontrollera. |
 
 ### Returvärde
 
-Sant om[`MutationObserverInit`](../) innehålla en specificerad nyckel; annars falskt.
+Sant om [`MutationObserverInit`](../) innehåller en angiven nyckel; annars falskt.
 
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

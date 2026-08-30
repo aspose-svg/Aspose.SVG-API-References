@@ -1,14 +1,14 @@
 ---
-title: Class DOMObjectAttribute
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Attributes.DOMObjectAttribute klass. Anger att objektet är markerat med detta attribut definieras av W3C.
+title: "DOMObjectAttribute klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Attributes.DOMObjectAttribute klass. Anger att objektet som är markerat med detta attribut definieras av W3C"
 type: docs
-weight: 420
+weight: 2420
 url: /sv/net/aspose.svg.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class
 
-Anger att objektet är markerat med detta attribut definieras av W3C.
+Specificerar att objektet som är markerat med detta attribut är definierat av W3C.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -17,13 +17,17 @@ public sealed class DOMObjectAttribute : Attribute
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DOMObjectAttribute](domobjectattribute/)() | Default_Constructor |
+| [DOMObjectAttribute](domobjectattribute/)() | Standardkonstruktorn. |
+
+## Egenskaper
+
+| Namn | Beskrivning |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

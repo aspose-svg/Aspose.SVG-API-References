@@ -1,14 +1,14 @@
 ---
-title: Document.OnMouseLeave
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnMouseLeavehändelse.
+title: "Document.OnMouseLeave"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnMouseLeave-händelse. Hämtar eller anger händelsehanterare för OnMouseLeave-händelse"
 type: docs
 weight: 530
 url: /sv/net/aspose.svg.dom/document/onmouseleave/
 ---
 ## Document.OnMouseLeave event
 
-Hämtar eller ställer in händelsehanterare för OnMouseLeave-händelse.
+Hämtar eller anger händelsehanterare för OnMouseLeave-händelse.
 
 ```csharp
 public event DOMEventHandler OnMouseLeave;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseLeave;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.CreateEntityReference
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skapar ett EntityReferenceobjekt. Dessutom om den refererade enheten är känd görs den underordnade listan för EntityReferencenoden densamma som den för motsvarande Entitynod.
+title: "Document.CreateEntityReference"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document CreateEntityReference‑metod. Skapar ett EntityReference‑objekt. Dessutom, om den refererade enheten är känd, görs barnlistan för EntityReference‑noden identisk med den för motsvarande Entity‑nod."
 type: docs
 weight: 870
 url: /sv/net/aspose.svg.dom/document/createentityreference/
 ---
 ## Document.CreateEntityReference method
 
-Skapar ett EntityReference-objekt. Dessutom, om den refererade enheten är känd, görs den underordnade listan för EntityReference-noden densamma som den för motsvarande Entity-nod.
+Skapar ett EntityReference‑objekt. Dessutom, om den refererade enheten är känd, görs barnlistan för EntityReference‑noden densamma som för motsvarande Entity‑nod.
 
 ```csharp
 public EntityReference CreateEntityReference(string name)
@@ -16,17 +16,15 @@ public EntityReference CreateEntityReference(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Entitetens namn. |
+| namn | String | Entitetsnamnet. |
 
 ### Returvärde
 
-Den[`EntityReference`](../../entityreference/) .
+Den [`EntityReference`](../../entityreference/).
 
 ### Se även
 
 * class [EntityReference](../../entityreference/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

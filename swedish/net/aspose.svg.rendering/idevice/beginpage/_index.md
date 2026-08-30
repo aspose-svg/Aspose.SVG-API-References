@@ -1,14 +1,14 @@
 ---
-title: IDevice.BeginPage
-second_title: Aspose.SVG för .NET API Referens
-description: IDevice metod. Börjar renderingen av den nya sidan.
+title: "IDevice.BeginPage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDevice BeginPage-metod. Påbörjar rendering av den nya sidan."
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.rendering/idevice/beginpage/
 ---
 ## IDevice.BeginPage method
 
-Börjar renderingen av den nya sidan.
+Påbörjar rendering av den nya sidan.
 
 ```csharp
 public void BeginPage(SizeF size)
@@ -16,12 +16,10 @@ public void BeginPage(SizeF size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size | SizeF | Sidans storlek. |
+| storlek | SizeF | Storlek på sidan. |
 
 ### Se även
 
 * interface [IDevice](../)
-* namnutrymme [Aspose.Svg.Rendering](../../idevice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

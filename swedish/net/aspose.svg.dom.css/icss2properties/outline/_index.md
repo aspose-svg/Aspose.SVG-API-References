@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Outline
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se dispositionsegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Outline"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Outline egenskap. Se definitionen av outline egenskap i CSS2"
 type: docs
-weight: 750
+weight: 780
 url: /sv/net/aspose.svg.dom.css/icss2properties/outline/
 ---
 ## ICSS2Properties.Outline property
 
-Se dispositionsegenskapsdefinitionen i CSS2.
+Se egendefinitionen för outline i CSS2.
 
 ```csharp
 public string Outline { get; set; }
@@ -16,12 +16,10 @@ public string Outline { get; set; }
 
 ### Returvärde
 
-skissera egendom
+outline egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

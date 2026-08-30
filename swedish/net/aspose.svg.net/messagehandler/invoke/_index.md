@@ -1,14 +1,14 @@
 ---
-title: MessageHandler.Invoke
-second_title: Aspose.SVG för .NET API Referens
-description: MessageHandler metod. När den åsidosätts i en härledd klass används för att implementera meddelandehanteringen.
+title: "MessageHandler.Invoke"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MessageHandler Invoke-metoden. När den åsidosätts i en avledd klass används den för att implementera meddelandehanteringen"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.net/messagehandler/invoke/
 ---
 ## MessageHandler.Invoke method
 
-När den åsidosätts i en härledd klass används för att implementera meddelandehanteringen.
+När den åsidosätts i en avledd klass används den för att implementera meddelandehanteringen.
 
 ```csharp
 public abstract void Invoke(INetworkOperationContext context)
@@ -16,13 +16,11 @@ public abstract void Invoke(INetworkOperationContext context)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| context | INetworkOperationContext | Sammanhanget. |
+| context | INetworkOperationContext | Kontexten. |
 
 ### Se även
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageHandler](../)
-* namnutrymme [Aspose.Svg.Net](../../messagehandler/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

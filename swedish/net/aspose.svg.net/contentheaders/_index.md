@@ -1,14 +1,14 @@
 ---
-title: Class ContentHeaders
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.ContentHeaders klass. Innehåller rubrikerna som är kopplade till ett innehåll.
+title: "ContentHeaders-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.ContentHeaders-klass. Innehåller rubrikerna som är associerade med ett innehåll"
 type: docs
-weight: 2240
+weight: 4310
 url: /sv/net/aspose.svg.net/contentheaders/
 ---
 ## ContentHeaders class
 
-Innehåller rubrikerna som är kopplade till ett innehåll.
+Innehåller huvuden som är associerade med ett innehåll.
 
 ```csharp
 public class ContentHeaders : WebHeaderCollection
@@ -16,19 +16,23 @@ public class ContentHeaders : WebHeaderCollection
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ContentHeaders](contentheaders/)() | Initierar en ny instans av`ContentHeaders` class. |
+| [ContentHeaders](contentheaders/)() | Initierar en ny instans av `ContentHeaders`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | Får värdet Content-Type header. |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| [ContentType](../../aspose.svg.net/contentheaders/contenttype/) { get; } | Hämtar värdet för Content-Type‑huvudet. |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 indexerare) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

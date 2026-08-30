@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.AttributeOldValue
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit fast egendom. Ställ in på sant om attribut är sant eller utelämnat och målets attributvärde innan mutationen behöver registreras.
+title: "MutationObserverInit.AttributeOldValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit AttributeOldValue-egenskap. Sätt till true om attributes är true eller utelämnad och riktar attributvärdet innan mutationen måste registreras."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/attributeoldvalue/
 ---
 ## MutationObserverInit.AttributeOldValue property
 
-Ställ in på sant om attribut är sant eller utelämnat och målets attributvärde innan mutationen behöver registreras.
+Ställ in till true om attribut är true eller utelämnat och målobjektets attributvärde före mutationen måste registreras.
 
 ```csharp
 public bool AttributeOldValue { get; set; }
@@ -17,7 +17,5 @@ public bool AttributeOldValue { get; set; }
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: UnitType.Rad
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Mätningen är i radianer.
+title: "UnitType.Rad"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Rad-fält. Mätning är i radianer"
 type: docs
 weight: 220
 url: /sv/net/aspose.svg.drawing/unittype/rad/
 ---
 ## UnitType.Rad field
 
-Mätningen är i radianer.
+Mätning är i radianer.
 
 ```csharp
 public static readonly UnitType Rad;
@@ -17,7 +17,5 @@ public static readonly UnitType Rad;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ContentDispositionHeaderValue.ContentDispositionHeaderValue
-second_title: Aspose.SVG för .NET API Referens
-description: ContentDispositionHeaderValue byggare. Skapa en ny instans av denna dispositionstyp.
+title: "ContentDispositionHeaderValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ContentDispositionHeaderValue-konstruktor. Skapa en ny instans av denna dispositionstyp"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net.headers/contentdispositionheadervalue/contentdispositionheadervalue/
@@ -21,7 +21,5 @@ public ContentDispositionHeaderValue(string dispositionType)
 ### Se även
 
 * class [ContentDispositionHeaderValue](../)
-* namnutrymme [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

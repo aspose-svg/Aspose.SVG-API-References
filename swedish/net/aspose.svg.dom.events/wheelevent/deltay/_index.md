@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaY
-second_title: Aspose.SVG för .NET API Referens
-description: WheelEvent fast egendom. I användaragenter där standardåtgärden för hjulhändelsen är att rulla MÅSTE värdet vara måttet längs yaxeln i pixlar linjer eller sidor som ska rullas i det fall händelsen inte avbryts. Annars är detta en implementeringsspecifik mätning i pixlar linjer eller sidor av rörelsen hos en hjulenhet runt yaxeln.
+title: "WheelEvent.DeltaY"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "WheelEvent DeltaY‑egenskap. I användaragenter där standardåtgärden för hjulhändelsen är att rulla måste värdet vara mätningen längs y‑axeln i pixlar, rader eller sidor som ska rullas om händelsen inte avbryts. Annars är detta en implementation‑specifik mätning i pixlar, rader eller sidor av rörelsen för en hjulenhet runt y‑axeln."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.events/wheelevent/deltay/
 ---
 ## WheelEvent.DeltaY property
 
-I användaragenter där standardåtgärden för hjulhändelsen är att rulla, MÅSTE värdet vara måttet längs y-axeln (i pixlar, linjer eller sidor) som ska rullas i det fall händelsen inte avbryts. Annars är detta en implementeringsspecifik mätning (i pixlar, linjer eller sidor) av rörelsen hos en hjulenhet runt y-axeln.
+I användaragenter där standardåtgärden för hjulhändelsen är att rulla, måste värdet vara mätningen längs y‑axeln (i pixlar, rader eller sidor) som ska rullas när händelsen inte avbryts. Annars är detta en implementation‑specifik mätning (i pixlar, rader eller sidor) av rörelsen hos en hjulenhet runt y‑axeln.
 
 ```csharp
 public double DeltaY { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-DeltaY-attributet.
+DeltaY‑attributet.
 
 ### Se även
 
 * class [WheelEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../wheelevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

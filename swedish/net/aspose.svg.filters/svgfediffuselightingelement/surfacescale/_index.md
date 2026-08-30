@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.SurfaceScale
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEDiffuseLightingElement fast egendom. Motsvarar attributet surfaceScale på det givna feDiffuseLightingelementet.
+title: "SVGFEDiffuseLightingElement.SurfaceScale"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEDiffuseLightingElement SurfaceScale-egenskap. Motsvarar attributet surfaceScale på det angivna feDiffuseLighting-elementet."
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.filters/svgfediffuselightingelement/surfacescale/
 ---
 ## SVGFEDiffuseLightingElement.SurfaceScale property
 
-Motsvarar attributet 'surfaceScale' på det givna 'feDiffuseLighting'-elementet.
+Motsvarar attributet ‘surfaceScale’ på det givna ‘feDiffuseLighting’-elementet.
 
 ```csharp
 public SVGAnimatedNumber SurfaceScale { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'surfaceScale' för det givna 'feDiffuseLighting'-elementet.
+Attributet ‘surfaceScale’ för det angivna ‘feDiffuseLighting’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

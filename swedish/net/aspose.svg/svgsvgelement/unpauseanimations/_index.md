@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.UnpauseAnimations
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement metod. Avbryter dvs återställer körande animeringar som är definierade i SVGdokumentfragmentet vilket gör att animeringsklockan fortsätter från den tidpunkt då den avbröts.
+title: "SVGSVGElement.UnpauseAnimations"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement UnpauseAnimations metod. Återupptar, dvs. avpausar pågående animationer som är definierade inom SVG-dokumentfragmentet, vilket gör att animationsklockan fortsätter från den tidpunkt den suspenderades."
 type: docs
 weight: 240
 url: /sv/net/aspose.svg/svgsvgelement/unpauseanimations/
 ---
 ## SVGSVGElement.UnpauseAnimations method
 
-Avbryter (dvs återställer) körande animeringar som är definierade i SVG-dokumentfragmentet, vilket gör att animeringsklockan fortsätter från den tidpunkt då den avbröts.
+Återupptar (dvs. avpausar) för närvarande körande animationer som är definierade inom SVG-dokumentfragmentet, vilket får animationsklockan att fortsätta från den tidpunkt då den suspenderades.
 
 ```csharp
 public void UnpauseAnimations()
@@ -17,7 +17,5 @@ public void UnpauseAnimations()
 ### Se även
 
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

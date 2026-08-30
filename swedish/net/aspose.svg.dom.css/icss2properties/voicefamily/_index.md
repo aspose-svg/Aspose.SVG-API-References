@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.VoiceFamily
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för röstfamiljen i CSS2.
+title: "ICSS2Properties.VoiceFamily"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties VoiceFamily egenskap. Se definitionen av voice-family egenskap i CSS2"
 type: docs
-weight: 1160
+weight: 1190
 url: /sv/net/aspose.svg.dom.css/icss2properties/voicefamily/
 ---
 ## ICSS2Properties.VoiceFamily property
 
-Se egenskapsdefinitionen för röstfamiljen i CSS2.
+Se definitionen av egenskapen voice-family i CSS2.
 
 ```csharp
 public string VoiceFamily { get; set; }
@@ -16,12 +16,10 @@ public string VoiceFamily { get; set; }
 
 ### Returvärde
 
-röstfamiljens egendom
+voice-family egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

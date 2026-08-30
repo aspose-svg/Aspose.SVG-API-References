@@ -1,14 +1,14 @@
 ---
-title: Element.HasAttributeNS
-second_title: Aspose.SVG för .NET API Referens
-description: Element metod. Returnerar sant när ett attribut med ett givet lokalt namn och namnområdesURI anges på detta element eller har ett standardvärde annars falskt.
+title: "Element.HasAttributeNS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element HasAttributeNS-metoden. Returnerar true när ett attribut med ett givet lokalt namn och namnrymds-URI är specificerat på detta element eller har ett standardvärde, annars false."
 type: docs
 weight: 320
 url: /sv/net/aspose.svg.dom/element/hasattributens/
 ---
 ## Element.HasAttributeNS method
 
-Returnerar sant när ett attribut med ett givet lokalt namn och namnområdes-URI anges på detta element eller har ett standardvärde, annars falskt.
+Returnerar true när ett attribut med ett givet lokalt namn och namnrymds‑URI är specificerat på detta element eller har ett standardvärde, annars false.
 
 ```csharp
 public bool HasAttributeNS(string namespaceURI, string localName)
@@ -16,17 +16,15 @@ public bool HasAttributeNS(string namespaceURI, string localName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceURI | String | Namnutrymmets URI. |
-| localName | String | Lokalens namn. |
+| namespaceURI | String | Namnrymd‑URI:n. |
+| localName | String | Namnet på den lokala. |
 
 ### Returvärde
 
-`Sann` if [har attributet NS] [den angivna namnrymdens URI]; annat,`falsk` .
+`true` om [has attribute NS] [den specificerade namnrymds-URI]; annars, `false`.
 
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

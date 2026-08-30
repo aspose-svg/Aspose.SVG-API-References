@@ -1,20 +1,20 @@
 ---
-title: ISVGTests.RequiredFeatures
-second_title: Aspose.SVG för .NET API Referens
-description: ISVGTests fast egendom. Motsvarar attributet requiredFeatures på det givna elementet.
+title: "ISVGTests.RequiredFeatures"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ISVGTests RequiredFeatures property. Motsvarar attributet requiredFeatures på det angivna elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/isvgtests/requiredfeatures/
 ---
 ## ISVGTests.RequiredFeatures property
 
-Motsvarar attributet 'requiredFeatures' på det givna elementet.
+Motsvarar attributet ‘requiredFeatures’ på det givna elementet.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De nödvändiga funktionerna.
 
@@ -22,7 +22,5 @@ De nödvändiga funktionerna.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* namnutrymme [Aspose.Svg](../../isvgtests/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

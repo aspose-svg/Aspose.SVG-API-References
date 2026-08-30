@@ -1,14 +1,14 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_EXS
-second_title: Aspose.SVG för .NET API Referens
-description: SVGLength fält. Ett värde specificerades med exenheterna definierade i CSS2.
+title: "SVGLength.SVG_LENGTHTYPE_EXS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGLength SVG_LENGTHTYPE_EXS-fält. Ett värde specificerades med ex-enheter som definieras i CSS2."
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.datatypes/svglength/svg_lengthtype_exs/
 ---
 ## SVGLength.SVG_LENGTHTYPE_EXS field
 
-Ett värde specificerades med ex-enheterna definierade i CSS2.
+Ett värde angavs med ex-enheterna som definieras i CSS2.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_EXS;
@@ -17,7 +17,5 @@ public const ushort SVG_LENGTHTYPE_EXS;
 ### Se även
 
 * class [SVGLength](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svglength/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

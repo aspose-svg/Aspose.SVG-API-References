@@ -1,14 +1,14 @@
 ---
-title: ProtocolMessageFilter.ProtocolMessageFilter
-second_title: Aspose.SVG för .NET API Referens
-description: ProtocolMessageFilter byggare. Initierar en ny instans avProtocolMessageFilter class.
+title: "ProtocolMessageFilter"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ProtocolMessageFilter-konstruktor. Initierar en ny instans av klassen ProtocolMessageFilter"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net.messagefilters/protocolmessagefilter/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter constructor
 
-Initierar en ny instans av[`ProtocolMessageFilter`](../) class.
+Initierar en ny instans av klassen [`ProtocolMessageFilter`](../).
 
 ```csharp
 public ProtocolMessageFilter(params string[] protocols)
@@ -16,12 +16,10 @@ public ProtocolMessageFilter(params string[] protocols)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| protocols | String[] | Protokollen. |
+| protokoll | String[] | Protokollen. |
 
 ### Se även
 
 * class [ProtocolMessageFilter](../)
-* namnutrymme [Aspose.Svg.Net.MessageFilters](../../protocolmessagefilter/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../../)

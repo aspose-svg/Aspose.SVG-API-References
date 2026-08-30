@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.SVG för .NET API Referens
-description: PdfDocumentInfo fast egendom. Namnet på personen som skapade dokumentet.
+title: "PdfDocumentInfo.Author"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfDocumentInfo Author egenskap. Namnet på personen som skapade dokumentet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering.pdf/pdfdocumentinfo/author/
@@ -17,7 +17,5 @@ public string Author { get; set; }
 ### Se även
 
 * class [PdfDocumentInfo](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

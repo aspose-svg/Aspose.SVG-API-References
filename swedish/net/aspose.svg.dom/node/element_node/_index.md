@@ -1,9 +1,9 @@
 ---
-title: Node.ELEMENT_NODE
-second_title: Aspose.SVG för .NET API Referens
-description: Node fält. En elementnod
+title: "Node.ELEMENT_NODE"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node ELEMENT_NODE-fält. En elementnod"
 type: docs
-weight: 380
+weight: 360
 url: /sv/net/aspose.svg.dom/node/element_node/
 ---
 ## Node.ELEMENT_NODE field
@@ -17,7 +17,5 @@ public const ushort ELEMENT_NODE;
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

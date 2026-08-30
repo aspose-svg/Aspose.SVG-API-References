@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Spacing
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextPathElement fast egendom. Motsvarar attributet mellanrum på det givna textPathelementet.
+title: "SVGTextPathElement.Spacing"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextPathElement Spacing‑egenskap. Motsvarar attributet spacing på det angivna textPath‑elementet."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgtextpathelement/spacing/
 ---
 ## SVGTextPathElement.Spacing property
 
-Motsvarar attributet 'mellanrum' på det givna 'textPath'-elementet.
+Motsvarar attributet ‘spacing’ på det angivna ‘textPath’-elementet.
 
 ```csharp
 public SVGAnimatedEnumeration Spacing { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'mellanrum' för det givna 'textPath'-elementet.
+Attributet ‘spacing’ för det angivna ‘textPath’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

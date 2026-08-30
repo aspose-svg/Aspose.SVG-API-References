@@ -1,14 +1,14 @@
 ---
-title: EventTarget.DispatchEvent
-second_title: Aspose.SVG för .NET API Referens
-description: EventTarget metod. Denna metod tillåter sändning av händelser till implementeringshändelsemodellen.
+title: "EventTarget.DispatchEvent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "EventTarget DispatchEvent-metoden. Skickar en händelse till det angivna IEventTarget synkront och anropar de påverkade EventListeners i rätt ordning. De normala händelsebehandlingsreglerna, inklusive fångst- och valfri bubbelfas, gäller också för händelser som skickas manuellt med DispatchEvent."
 type: docs
-weight: 20
+weight: 30
 url: /sv/net/aspose.svg.dom/eventtarget/dispatchevent/
 ---
 ## EventTarget.DispatchEvent method
 
-Denna metod tillåter sändning av händelser till implementeringshändelsemodellen.
+Skickar en händelse till det angivna [`IEventTarget`](../../../aspose.svg.dom.events/ieventtarget/), (synkront) och anropar de påverkade EventListeners i rätt ordning. De normala händelsebehandlingsreglerna (inklusive fångst- och valfri bubbelfas) gäller också för händelser som skickas manuellt med [`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent/).
 
 ```csharp
 public bool DispatchEvent(Event @event)
@@ -16,27 +16,25 @@ public bool DispatchEvent(Event @event)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| event | Event | Anger händelsetyp, beteende och kontextuell information som ska användas vid bearbetning av händelsen. |
+| händelse | Händelse | Anger händelsetypen, beteendet och kontextuell information som ska användas vid bearbetning av händelsen. |
 
 ### Returvärde
 
-Returvärdet för`DispatchEvent` indikerar om någon av lyssnarna som hanterade händelsen ringde[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) . Om[`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) kallades värdet är falskt, annars är värdet sant.
+Returvärdet för `DispatchEvent` indikerar om någon av lyssnarna som hanterade händelsen anropade [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/). Om [`PreventDefault`](../../../aspose.svg.dom.events/event/preventdefault/) anropades är värdet falskt, annars är värdet sant.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [DOMException](../../domexception/) |  |
 
-### Anmärkningar
+## Anmärkningar
 
-Händelser som skickas på detta sätt kommer att ha samma uppfångande och bubblande beteende som händelser som skickas direkt av implementeringen. Målet för händelsen är[`EventTarget`](../) på vilken`DispatchEvent` heter.
+Händelser som skickas på detta sätt kommer att ha samma fångst- och bubbelbeteende som händelser som skickas direkt av implementationen. Målet för händelsen är det [`EventTarget`](../) på vilket `DispatchEvent` anropas.
 
 ### Se även
 
 * class [Event](../../../aspose.svg.dom.events/event/)
 * class [EventTarget](../)
-* namnutrymme [Aspose.Svg.Dom](../../eventtarget/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

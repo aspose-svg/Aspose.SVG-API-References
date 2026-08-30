@@ -1,27 +1,25 @@
 ---
-title: MimeType.SubType
-second_title: Aspose.SVG för .NET API Referens
-description: MimeType fast egendom. Hämtar submediatypen.
+title: "MimeType.SubType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MimeType SubType-egenskap. Hämtar submediatypen"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/mimetype/subtype/
 ---
 ## MimeType.SubType property
 
-Hämtar submediatypen.
+Hämtar undermediatypen.
 
 ```csharp
 public string SubType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Submediatypen.
 
 ### Se även
 
 * class [MimeType](../)
-* namnutrymme [Aspose.Svg](../../mimetype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

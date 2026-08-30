@@ -1,14 +1,14 @@
 ---
-title: Document.CreateExpression
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skapar ett tolkat XPathuttryck med lösta namnutrymmen. Detta är användbart när ett uttryck ska återanvändas i en applikation eftersom det gör det möjligt att kompilera uttryckssträngen till en mer effektiv intern form och förlösa alla namnområdesprefix som förekommer i uttrycket.
+title: "Document.CreateExpression"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document CreateExpression‑metod. Skapar ett analyserat XPath‑uttryck med upplösta namnrymder. Detta är användbart när ett uttryck ska återanvändas i en applikation eftersom det möjliggör att kompilera uttrycksssträngen till en mer effektiv intern form och förupplösa alla namnrymdsprefix som förekommer i uttrycket."
 type: docs
 weight: 890
 url: /sv/net/aspose.svg.dom/document/createexpression/
 ---
 ## Document.CreateExpression method
 
-Skapar ett tolkat XPath-uttryck med lösta namnutrymmen. Detta är användbart när ett uttryck ska återanvändas i en applikation eftersom det gör det möjligt att kompilera uttryckssträngen till en mer effektiv intern form och förlösa alla namnområdesprefix som förekommer i uttrycket.
+Skapar ett analyserat XPath-uttryck med upplösta namnrymder. Detta är användbart när ett uttryck kommer att återanvändas i en applikation eftersom det möjliggör att kompilera uttrycksträngen till en mer effektiv intern form och förupplösa alla namnrymdsprefix som förekommer i uttrycket.
 
 ```csharp
 public IXPathExpression CreateExpression(string expression, IXPathNSResolver resolver)
@@ -16,8 +16,8 @@ public IXPathExpression CreateExpression(string expression, IXPathNSResolver res
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| expression | String | XPath-uttryckssträngen som ska tolkas. |
-| resolver | IXPathNSResolver | De`resolver` tillåter översättning av alla prefix, inklusive`xml` namnområdesprefix, inom XPath-uttrycket till lämpliga namnområdes-URI:er. Om detta anges som`null` , kommer alla namnområde prefix i uttrycket att resultera i[`DOMException`](../../domexception/) kastas med koden`NAMESPACE_ERR`. |
+| expression | String | XPath-uttrycksträngen som ska parsas. |
+| resolver | IXPathNSResolver | `resolver` tillåter översättning av alla prefix, inklusive `xml`‑namnrymdsprefixet, inom XPath‑uttrycket till lämpliga namnrymd‑URI:er. Om detta anges som `null` kommer vilket namnrymdsprefix som helst i uttrycket att resultera i att [`DOMException`](../../domexception/) kastas med koden `NAMESPACE_ERR`. |
 
 ### Returvärde
 
@@ -25,17 +25,15 @@ Den kompilerade formen av XPath-uttrycket.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../domexception/) | INVALID_EXPRESSION_ERR: Ökas om uttrycket inte är lagligt enligt reglerna i[`IXPathEvaluator`](../../../aspose.svg.dom.xpath/ixpathevaluator/). |
-| [DOMException](../../domexception/) | NAMESPACE_ERR: Ökas om uttrycket innehåller namnutrymmet prefix som inte kan lösas av den angivna[`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver/). |
+| [DOMException](../../domexception/) | INVALID_EXPRESSION_ERR: Uppstår om uttrycket inte är giltigt enligt reglerna för [`IXPathEvaluator`](../../../aspose.svg.dom.xpath/ixpathevaluator/). |
+| [DOMException](../../domexception/) | NAMESPACE_ERR: Uppstår om uttrycket innehåller namnrymdsprefix som inte kan lösas upp av den angivna [`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver/). |
 
 ### Se även
 
 * interface [IXPathExpression](../../../aspose.svg.dom.xpath/ixpathexpression/)
 * interface [IXPathNSResolver](../../../aspose.svg.dom.xpath/ixpathnsresolver/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

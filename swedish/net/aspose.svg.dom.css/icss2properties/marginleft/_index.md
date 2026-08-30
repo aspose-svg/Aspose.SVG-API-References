@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarginLeft
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för marginalvänster i CSS2.
+title: "ICSS2Properties.MarginLeft"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties MarginLeft-egenskap. Se definitionen av margin-left-egenskapen i CSS2"
 type: docs
-weight: 650
+weight: 680
 url: /sv/net/aspose.svg.dom.css/icss2properties/marginleft/
 ---
 ## ICSS2Properties.MarginLeft property
 
-Se egenskapsdefinitionen för marginal-vänster i CSS2.
+Se definitionen av egenskapen margin-left i CSS2.
 
 ```csharp
 public string MarginLeft { get; set; }
@@ -16,12 +16,10 @@ public string MarginLeft { get; set; }
 
 ### Returvärde
 
-marginal-vänster egendom
+margin-left-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGSVGElement.Width
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement fast egendom. Motsvarar attributet width på det givna svgelementet.
+title: "SVGSVGElement.Width"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement Width‑egenskap. Motsvarar attributet width på det givna svg‑elementet."
 type: docs
 weight: 60
 url: /sv/net/aspose.svg/svgsvgelement/width/
 ---
 ## SVGSVGElement.Width property
 
-Motsvarar attributet 'width' på det givna 'svg'-elementet.
+Motsvarar attributet ‘width’ på det givna ‘svg’-elementet.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Motsvarar attributet 'width' på det givna 'svg'-elementet.
+Motsvarar attributet ‘width’ på det givna ‘svg’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

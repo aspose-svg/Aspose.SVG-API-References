@@ -1,14 +1,14 @@
 ---
-title: Interface ILinearGradientBrush
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.ILinearGradientBrush gränssnitt. Definierar borstgränssnitt med en linjär gradient.
+title: "ILinearGradientBrush-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.ILinearGradientBrush-gränssnitt. Definierar ett gränssnitt för en pensel med en linjär gradient"
 type: docs
-weight: 1470
+weight: 3490
 url: /sv/net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface
 
-Definierar borstgränssnitt med en linjär gradient.
+Definierar ett gränssnitt för en pensel med linjär gradient.
 
 ```csharp
 public interface ILinearGradientBrush : IGradientBrush
@@ -16,19 +16,13 @@ public interface ILinearGradientBrush : IGradientBrush
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; } | Hämtar vinkeln, mätt i grader medurs från x-axeln, för gradientens orienteringslinje. |
-| [EndColor](../../aspose.svg.drawing/ilineargradientbrush/endcolor/) { get; } | Få slutfärgen för den linjära gradienten. |
-| [EndPoint](../../aspose.svg.drawing/ilineargradientbrush/endpoint/) { get; } | Få startpunkten för den linjära gradienten. |
-| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; } | Få ett rektangulärt område som definierar start- och slutpunkterna för gradienten. |
-| [StartColor](../../aspose.svg.drawing/ilineargradientbrush/startcolor/) { get; } | Få startfärgen för den linjära gradienten. |
-| [StartPoint](../../aspose.svg.drawing/ilineargradientbrush/startpoint/) { get; } | Få startpunkten för den linjära gradienten. |
+| [Angle](../../aspose.svg.drawing/ilineargradientbrush/angle/) { get; set; } | Hämtar eller anger vinkeln, mätt i grader medurs från x-axeln, för gradientens orienteringslinje. |
+| [Rect](../../aspose.svg.drawing/ilineargradientbrush/rect/) { get; set; } | Hämtar eller anger den rektangulära regionen som definierar start- och slutpunkterna för gradienten. |
 
 ### Se även
 
 * interface [IGradientBrush](../igradientbrush/)
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

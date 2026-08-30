@@ -1,29 +1,27 @@
 ---
-title: Enum ShadowRootMode
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.ShadowRootMode uppräkning. Lägen där ShadowRoot kan fungera.
+title: "ShadowRootMode Enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.ShadowRootMode enum. Lägen där ShadowRoot kan fungera"
 type: docs
-weight: 1190
+weight: 3190
 url: /sv/net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
 
-Lägen där ShadowRoot kan fungera.
+Lägen där ShadowRoot kan operera.
 
 ```csharp
 public enum ShadowRootMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Open | `0` | "öppet" läge. |
-| Closed | `1` | "stängt" läge. |
+| Open | `0` | "open" läge. |
+| Closed | `1` | "closed" läge. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

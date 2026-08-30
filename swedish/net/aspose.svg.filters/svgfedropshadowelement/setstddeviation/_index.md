@@ -1,14 +1,14 @@
 ---
-title: SVGFEDropShadowElement.SetStdDeviation
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEDropShadowElement metod. Ställer in värdena för attributet stdDeviation.
+title: "SVGFEDropShadowElement.SetStdDeviation"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEDropShadowElement SetStdDeviation-metod. Sätter värdena för attributet stdDeviation"
 type: docs
 weight: 110
 url: /sv/net/aspose.svg.filters/svgfedropshadowelement/setstddeviation/
 ---
 ## SVGFEDropShadowElement.SetStdDeviation method
 
-Ställer in värdena för attributet 'stdDeviation'.
+Ställer in värdena för attributet ‘stdDeviation’.
 
 ```csharp
 public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
@@ -16,19 +16,17 @@ public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stdDeviationX | Single | X-komponenten för attributet 'stdDeviation'. |
-| stdDeviationY | Single | Y-komponenten för attributet 'stdDeviation'. |
+| stdDeviationX | Single | X-komponenten av attributet ‘stdDeviation’. |
+| stdDeviationY | Single | Y-komponenten av attributet ‘stdDeviation’. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Höjd vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstått vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGFEDropShadowElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

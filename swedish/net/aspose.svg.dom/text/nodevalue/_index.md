@@ -1,27 +1,25 @@
 ---
-title: Text.NodeValue
-second_title: Aspose.SVG för .NET API Referens
-description: Text fast egendom. Värdet för denna nod beroende på dess typ.
+title: "Text.NodeValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Text NodeValue egenskap. Värdet för den här noden beroende på dess typ"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom/text/nodevalue/
 ---
 ## Text.NodeValue property
 
-Värdet för denna nod, beroende på dess typ.
+Värdet på denna nod, beroende på dess typ.
 
 ```csharp
 public override string NodeValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nodvärdet.
 
 ### Se även
 
 * class [Text](../)
-* namnutrymme [Aspose.Svg.Dom](../../text/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.Height
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMaskElement fast egendom. Motsvarar attributet höjd på det givna maskelementet. Tar en av konstanterna definierade i SVGUnitTypes.
+title: "SVGMaskElement.Height"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMaskElement Height-egenskap. Motsvarar attributet height på det angivna mask-elementet. Accepterar en av de konstanter som definieras i SVGUnitTypes"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svgmaskelement/height/
 ---
 ## SVGMaskElement.Height property
 
-Motsvarar attributet 'höjd' på det givna 'mask'-elementet. Tar en av konstanterna definierade i SVGUnitTypes.
+Motsvarar attributet ‘height’ på det angivna ‘mask’-elementet. Tar en av de konstanter som definieras i SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'height' för det givna 'mask'-elementet.
+Attributet ‘height’ på det angivna ‘mask’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* namnutrymme [Aspose.Svg](../../svgmaskelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

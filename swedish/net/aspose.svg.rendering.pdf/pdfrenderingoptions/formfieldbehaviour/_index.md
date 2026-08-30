@@ -1,14 +1,14 @@
 ---
-title: PdfRenderingOptions.FormFieldBehaviour
-second_title: Aspose.SVG för .NET API Referens
-description: PdfRenderingOptions fast egendom. Anger beteendet hos formulärfält i PDFdokumentet.
+title: "PdfRenderingOptions.FormFieldBehaviour"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfRenderingOptions FormFieldBehaviour‑egenskap. Anger beteendet för formulärfält i den genererade PDF‑dokumentet."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.rendering.pdf/pdfrenderingoptions/formfieldbehaviour/
 ---
 ## PdfRenderingOptions.FormFieldBehaviour property
 
-Anger beteendet hos formulärfält i PDF-dokumentet.
+Anger beteendet för formulärfält i PDF‑utdatafilen.
 
 ```csharp
 public FormFieldBehaviour FormFieldBehaviour { get; set; }
@@ -18,7 +18,5 @@ public FormFieldBehaviour FormFieldBehaviour { get; set; }
 
 * enum [FormFieldBehaviour](../../formfieldbehaviour/)
 * class [PdfRenderingOptions](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

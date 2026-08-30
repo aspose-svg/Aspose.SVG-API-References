@@ -1,20 +1,20 @@
 ---
-title: ICSSStyleDeclaration.ParentRule
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSStyleDeclaration fast egendom. CSSregeln som innehåller detta deklarationsblock eller null om denna CSSStyleDeclaration inte är kopplad till en CSSRule.
+title: "ICSSStyleDeclaration.ParentRule"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSStyleDeclaration ParentRule property. CSS-regeln som innehåller detta deklarationsblock eller null om detta CSSStyleDeclaration inte är bifogat till en CSSRule."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.css/icssstyledeclaration/parentrule/
 ---
 ## ICSSStyleDeclaration.ParentRule property
 
-CSS-regeln som innehåller detta deklarationsblock eller null om denna CSSStyleDeclaration inte är kopplad till en CSSRule.
+CSS-regeln som innehåller detta deklarationsblock eller null om detta CSSStyleDeclaration inte är kopplat till en CSSRule.
 
 ```csharp
 public ICSSRule ParentRule { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den överordnade regeln.
 
@@ -22,7 +22,5 @@ Den överordnade regeln.
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSStyleDeclaration](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

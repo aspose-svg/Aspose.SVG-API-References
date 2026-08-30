@@ -1,14 +1,14 @@
 ---
-title: Class Rect
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.Rect klass. Rectgränssnittet används för att representera alla rectvärden. Detta gränssnitt återspeglar värdena i den underliggande stilegenskapen. Därför ändrar modifieringar gjorda av CSSPrimitiveValueobjekten stilegenskapen.
+title: "Rect-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.Rect-klass. Rect-gränssnittet används för att representera ett rektangelvärde. Detta gränssnitt speglar värdena i den underliggande stilegenskapen. Därför ändrar modifieringar av CSSPrimitiveValue-objekten stilegenskapen."
 type: docs
-weight: 780
+weight: 2780
 url: /sv/net/aspose.svg.dom.css/rect/
 ---
 ## Rect class
 
-Rect-gränssnittet används för att representera alla rect-värden. Detta gränssnitt återspeglar värdena i den underliggande stilegenskapen. Därför ändrar modifieringar gjorda av CSSPrimitiveValue-objekten stilegenskapen.
+Rect-gränssnittet används för att representera vilket som helst rektangelvärde. Detta gränssnitt speglar värdena i den underliggande stil‑egenskapen. Därför ändrar modifieringar av CSSPrimitiveValue‑objekten stil‑egenskapen.
 
 ```csharp
 public class Rect : DOMObject
@@ -16,23 +16,21 @@ public class Rect : DOMObject
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Bottom](../../aspose.svg.dom.css/rect/bottom/) { get; } | Det här attributet används för botten av rect. |
-| [Left](../../aspose.svg.dom.css/rect/left/) { get; } | Det här attributet används till vänster om rect. |
-| [Right](../../aspose.svg.dom.css/rect/right/) { get; } | Det här attributet används för höger om rect. |
-| [Top](../../aspose.svg.dom.css/rect/top/) { get; } | Det här attributet används för toppen av rect. |
+| [Bottom](../../aspose.svg.dom.css/rect/bottom/) { get; } | Detta attribut används för rektangelns botten. |
+| [Left](../../aspose.svg.dom.css/rect/left/) { get; } | Detta attribut används för rektangelns vänsterkant. |
+| [Right](../../aspose.svg.dom.css/rect/right/) { get; } | Detta attribut används för rektangelns högra kant. |
+| [Top](../../aspose.svg.dom.css/rect/top/) { get; } | Detta attribut används för rektangelns topp. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
 
 ### Se även
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

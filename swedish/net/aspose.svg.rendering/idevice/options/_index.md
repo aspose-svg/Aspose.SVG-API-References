@@ -1,14 +1,14 @@
 ---
-title: IDevice.Options
-second_title: Aspose.SVG för .NET API Referens
-description: IDevice fast egendom. Får renderingsalternativ.
+title: "IDevice.Options"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDevice Options‑egenskap. Hämtar renderingsalternativ"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.rendering/idevice/options/
 ---
 ## IDevice.Options property
 
-Får renderingsalternativ.
+Hämtar renderingsalternativ.
 
 ```csharp
 public RenderingOptions Options { get; }
@@ -18,7 +18,5 @@ public RenderingOptions Options { get; }
 
 * class [RenderingOptions](../../renderingoptions/)
 * interface [IDevice](../)
-* namnutrymme [Aspose.Svg.Rendering](../../idevice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.SVG för .NET API Referens
-description: Metered metod. Får konsumtionskredit
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Metered GetConsumptionCredit metod. Hämtar konsumtionskredit"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-Får konsumtionskredit
+Hämtar förbrukningskredit
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -21,7 +21,5 @@ konsumtionsmängd
 ### Se även
 
 * class [Metered](../)
-* namnutrymme [Aspose.Svg](../../metered/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

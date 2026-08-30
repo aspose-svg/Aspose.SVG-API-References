@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.CleanListOfValues
-second_title: Aspose.SVG för .NET API Referens
-description: SVGOptimizationOptions fast egendom. Hämtar eller ställer in alternativet för avrundning till 3 decimaler av listnumeriska värden i attribut. Det är sant som standard.
+title: "SVGOptimizationOptions.CleanListOfValues"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGOptimizationOptions CleanListOfValues egenskap. Hämtar eller anger alternativet för att avrunda numeriska listvärden i attribut till 3 decimaler. Den är true som standard"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/cleanlistofvalues/
 ---
 ## SVGOptimizationOptions.CleanListOfValues property
 
-Hämtar eller ställer in alternativet för avrundning till 3 decimaler av listnumeriska värden i attribut. Det är "sant" som standard.
+Hämtar eller anger alternativet för avrundning till 3 decimaler av numeriska listvärden i attribut. Det är 'true' som standard.
 
 ```csharp
 public bool CleanListOfValues { get; set; }
@@ -17,7 +17,5 @@ public bool CleanListOfValues { get; set; }
 ### Se även
 
 * class [SVGOptimizationOptions](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

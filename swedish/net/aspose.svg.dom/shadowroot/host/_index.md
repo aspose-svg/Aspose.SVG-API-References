@@ -1,14 +1,14 @@
 ---
-title: ShadowRoot.Host
-second_title: Aspose.SVG för .NET API Referens
-description: ShadowRoot fast egendom. Host är ett element som innehåller denna ShadowRoot.
+title: "ShadowRoot.Host"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ShadowRoot Host-egenskap. Host är ett element som innehåller detta ShadowRoot"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/shadowroot/host/
 ---
 ## ShadowRoot.Host property
 
-Host är ett element som innehåller denna ShadowRoot.
+Host är ett element som innehåller detta ShadowRoot.
 
 ```csharp
 public Element Host { get; }
@@ -18,7 +18,5 @@ public Element Host { get; }
 
 * class [Element](../../element/)
 * class [ShadowRoot](../)
-* namnutrymme [Aspose.Svg.Dom](../../shadowroot/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

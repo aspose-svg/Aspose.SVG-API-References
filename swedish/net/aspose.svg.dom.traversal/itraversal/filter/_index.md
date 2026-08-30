@@ -1,20 +1,20 @@
 ---
-title: ITraversal.Filter
-second_title: Aspose.SVG för .NET API Referens
-description: ITraversal fast egendom. Nodfiltret som används för att screena noder.
+title: "ITraversal.Filter"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITraversal Filter egenskap. NodeFilter som används för att filtrera noder."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
 
-Nodfiltret som används för att screena noder.
+NodeFilter som används för att filtrera noder.
 
 ```csharp
 public INodeFilter Filter { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Filtret.
 
@@ -22,7 +22,5 @@ Filtret.
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* namnutrymme [Aspose.Svg.Dom.Traversal](../../itraversal/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

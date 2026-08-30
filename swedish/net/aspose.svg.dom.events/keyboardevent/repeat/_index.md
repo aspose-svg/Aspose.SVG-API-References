@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.Repeat
-second_title: Aspose.SVG för .NET API Referens
-description: KeyboardEvent fast egendom. sant om tangenten har tryckts in på ett ihållande sätt. Att hålla nere en tangent MÅSTE resultera i att händelsernas tangentnedtryckning upprepas före inmatning inmatning i denna ordning med en hastighet som bestäms av systemkonfigurationen. För mobila enheter som har långa tangenttryckningar MÅSTE den första tangenthändelsen med ett upprepningsattributvärde på sant fungera som en indikation på en lång tangenttryckning. Hur lång tid som knappen MÅSTE tryckas ned för att börja upprepa är konfigurationsberoende.
+title: "KeyboardEvent.Repeat"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "KeyboardEvent Repeat egenskap. true om tangenten har hållits ned på ett bestående sätt. Att hålla ner en tangent MÅSTE leda till att händelserna keydown, beforeinput och input upprepas i den ordningen med en frekvens som bestäms av systemkonfigurationen. För mobila enheter som har långtangenttryckningsbeteende måste det första tangent‑eventet med repeat‑attributvärdet true fungera som en indikation på ett långtangenttryck. Den tid som tangenten MÅSTE hållas ned för att börja upprepa är beroende av konfigurationen."
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.dom.events/keyboardevent/repeat/
 ---
 ## KeyboardEvent.Repeat property
 
-sant om tangenten har tryckts in på ett ihållande sätt. Att hålla nere en tangent MÅSTE resultera i att händelsernas tangentnedtryckning upprepas, före inmatning, inmatning i denna ordning, med en hastighet som bestäms av systemkonfigurationen. För mobila enheter som har långa tangenttryckningar, MÅSTE den första tangenthändelsen med ett upprepningsattributvärde på sant fungera som en indikation på en lång tangenttryckning. Hur lång tid som knappen MÅSTE tryckas ned för att börja upprepa är konfigurationsberoende.
+true om tangenten har hållits ned under en längre tid. Att hålla ner en tangent MÅSTE leda till att händelserna keydown, beforeinput, input upprepas i den ordningen, med en frekvens som bestäms av systemkonfigurationen. För mobila enheter som har långtangent‑beteende måste det första tangent‑eventet med repeat‑attributvärdet true fungera som en indikation på ett långtangent‑tryck. Den tid som tangenten MÅSTE hållas ned för att börja upprepa är konfigurationsberoende.
 
 ```csharp
 public bool Repeat { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om upprepa; annat,`falsk` .
+`true` om repeat; annars, `false`.
 
 ### Se även
 
 * class [KeyboardEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

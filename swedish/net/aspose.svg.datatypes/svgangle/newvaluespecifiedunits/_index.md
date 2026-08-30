@@ -1,14 +1,14 @@
 ---
-title: SVGAngle.NewValueSpecifiedUnits
-second_title: Aspose.SVG för .NET API Referens
-description: SVGAngle metod. Återställ värdet som ett tal med en associerad unitType och ersätt därmed värdena för alla attribut på objektet.
+title: "SVGAngle.NewValueSpecifiedUnits"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGAngle NewValueSpecifiedUnits‑metod. Återställer värdet som ett tal med en associerad unitType och ersätter därmed värdena för alla attribut på objektet."
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.datatypes/svgangle/newvaluespecifiedunits/
 ---
 ## SVGAngle.NewValueSpecifiedUnits method
 
-Återställ värdet som ett tal med en associerad unitType, och ersätt därmed värdena för alla attribut på objektet.
+Återställ värdet som ett tal med en associerad unitType, vilket ersätter värdena för alla attribut på objektet.
 
 ```csharp
 public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUnits)
@@ -21,15 +21,13 @@ public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUni
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) Ökas om unitType är SVG_ANGLETYPE_UNKNOWN eller inte är en giltig enhetstypkonstant (en av de andra SVG_ANGLETYPE_*-konstanterna som definieras i detta gränssnitt). |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Höjs när vinkeln motsvarar ett skrivskyddat attribut eller när själva objektet är skrivskyddat. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err/) Uppstår om unitType är SVG_ANGLETYPE_UNKNOWN eller inte är en giltig enhetstypkonstant (en av de andra SVG_ANGLETYPE_*‑konstanterna som definieras på detta gränssnitt). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Uppstår när vinkeln motsvarar ett skrivskyddat attribut eller när själva objektet är skrivskyddat. |
 
 ### Se även
 
 * class [SVGAngle](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgangle/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

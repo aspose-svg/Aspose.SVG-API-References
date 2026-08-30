@@ -1,14 +1,14 @@
 ---
-title: SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextPathElement fält. Uppräkningen sattes till ett värde som inte är en av fördefinierade typer. Det är ogiltigt att försöka definiera ett nytt värde av denna typ eller att försöka ändra ett befintligt värde till denna typ.
+title: "SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextPathElement TEXTPATH_SPACINGTYPE_UNKNOWN‑fält. Uppräkningen sattes till ett värde som inte är någon av de fördefinierade typerna. Det är ogiltigt att försöka definiera ett nytt värde av denna typ eller att försöka byta ett befintligt värde till denna typ."
 type: docs
 weight: 100
 url: /sv/net/aspose.svg/svgtextpathelement/textpath_spacingtype_unknown/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_UNKNOWN field
 
-Uppräkningen sattes till ett värde som inte är en av fördefinierade typer. Det är ogiltigt att försöka definiera ett nytt värde av denna typ eller att försöka ändra ett befintligt värde till denna typ.
+Uppräkningen sattes till ett värde som inte är en av de fördefinierade typerna. Det är ogiltigt att försöka definiera ett nytt värde av denna typ eller att försöka byta ett befintligt värde till denna typ.
 
 ```csharp
 public const ushort TEXTPATH_SPACINGTYPE_UNKNOWN;
@@ -17,7 +17,5 @@ public const ushort TEXTPATH_SPACINGTYPE_UNKNOWN;
 ### Se även
 
 * class [SVGTextPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

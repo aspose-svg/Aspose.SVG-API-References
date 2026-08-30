@@ -1,33 +1,31 @@
 ---
-title: Url.Href
-second_title: Aspose.SVG för .NET API Referens
-description: Url fast egendom. Hämtar eller ställer in en serialiserad representation för den angivna URLinstansen.
+title: "Url.Href"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url Href-egenskap. Hämtar eller anger en serialiserad representation för den angivna URL-instansen"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/url/href/
 ---
 ## Url.Href property
 
-Hämtar eller ställer in en serialiserad representation för den angivna URL-instansen.
+Hämtar eller anger en serialiserad representation för den angivna URL-instansen.
 
 ```csharp
 public string Href { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-The href.
+Href:en.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| Error | TypeError: höjt if`värde` kan inte tolkas som giltig URL. |
+| Fel | TypeError: kastas om `value` inte kan tolkas som en giltig URL. |
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

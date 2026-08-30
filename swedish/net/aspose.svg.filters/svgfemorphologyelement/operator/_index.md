@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.Operator
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEMorphologyElement fast egendom. Motsvarar attributet operator på det givna feMorphologyelementet. Tar en av SVG_MORPHOLOGY_OPERATOR_ konstanterna som definierats i detta gränssnitt.
+title: "SVGFEMorphologyElement.Operator"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEMorphologyElement Operator-egenskap. Motsvarar attributet operator på det angivna feMorphology-elementet. Accepterar en av SVG_MORPHOLOGY_OPERATOR_-konstanterna som definieras på detta gränssnitt"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.filters/svgfemorphologyelement/operator/
 ---
 ## SVGFEMorphologyElement.Operator property
 
-Motsvarar attributet 'operator' på det givna 'feMorphology'-elementet. Tar en av SVG_MORPHOLOGY_OPERATOR_* konstanterna som definierats i detta gränssnitt.
+Motsvarar attributet ‘operator’ på det angivna ‘feMorphology’-elementet. Accepterar en av SVG_MORPHOLOGY_OPERATOR_*-konstanterna som definieras i detta gränssnitt.
 
 ```csharp
 public SVGAnimatedEnumeration Operator { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'operator' för det givna 'feMorphology'-elementet.
+Attributet ‘operator’ för det angivna ‘feMorphology’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEMorphologyElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

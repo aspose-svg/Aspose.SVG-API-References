@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.FontSize
-second_title: Aspose.SVG för .NET API Referens
-description: GraphicContext fast egendom. Ställer in eller hämtar teckenstorlek för text.
+title: "GraphicContext.FontSize"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GraphicContext FontSize-egenskap. Ställer in eller hämtar textens teckenstorlek"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.svg.rendering/graphiccontext/fontsize/
 ---
 ## GraphicContext.FontSize property
 
-Ställer in eller hämtar teckenstorlek för text.
+Ställer in eller hämtar textens teckenstorlek.
 
 ```csharp
 public virtual float FontSize { get; set; }
@@ -17,7 +17,5 @@ public virtual float FontSize { get; set; }
 ### Se även
 
 * class [GraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering](../../graphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

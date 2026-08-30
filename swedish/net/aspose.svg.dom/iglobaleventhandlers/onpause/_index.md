@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnPause
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnPausehändelse.
+title: "IGlobalEventHandlers.OnPause"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnPause‑händelse. Hämtar eller anger händelsehanterare för OnPause‑händelsen"
 type: docs
 weight: 320
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/onpause/
 ---
 ## IGlobalEventHandlers.OnPause event
 
-Hämtar eller ställer in händelsehanterare för OnPause-händelse.
+Hämtar eller anger händelsehanterare för OnPause-händelse.
 
 ```csharp
 public event DOMEventHandler OnPause;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnPause;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,30 +1,28 @@
 ---
-title: Enum CSSEngineMode
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.CSSEngineMode uppräkning. Anger CSSEengine mode
+title: "CSSEngineMode-enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.CSSEngineMode enum. Anger CSSEngine-läge"
 type: docs
-weight: 470
+weight: 2470
 url: /sv/net/aspose.svg.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration
 
-Anger CSSEengine mode
+Anger CSSEngine‑läge
 
 ```csharp
 [Flags]
 public enum CSSEngineMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Default | `0` | CSS-motorn kommer att fungera som vanligt. |
-| NotStrict | `1` | CSS-parser kommer att fungera i inte strikt läge. Alla ej dokumenterade egenskaper kommer att analyseras och kan nås via[`ICSSStyleDeclaration`](../icssstyledeclaration/) . |
+| NotStrict | `1` | CSS‑parsern kommer att fungera i icke‑strikt läge. Alla odokumenterade egenskaper kommer att parsas och kan nås via [`ICSSStyleDeclaration`](../icssstyledeclaration/). |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Aspose.SVG för .NET API Referens
-description: ImageDevice byggare. Initierar en ny instans avImageDevice class.
+title: "ImageDevice"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageDevice‑konstruktör. Initierar en ny instans av ImageDevice‑klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
-## ImageDevice(ICreateStreamProvider) {#constructor}
+## ImageDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Initierar en ny instans av[`ImageDevice`](../) class.
+Initierar en ny instans av [`ImageDevice`](../)-klassen.
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -22,14 +22,14 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Initierar en ny instans av[`ImageDevice`](../) klass genom renderingsalternativ och strömleverantör.
+Initierar en ny instans av [`ImageDevice`](../)-klassen med renderingsalternativ och strömtillhandahållare.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Återgivningsalternativ. |
-| streamProvider | ICreateStreamProvider | Objekt som implementerar[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) gränssnitt |
+| alternativ | ImageRenderingOptions | Renderingsalternativ. |
+| streamProvider | ICreateStreamProvider | Objekt som implementerar gränssnittet [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/). |
 
 ### Se även
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(string) {#constructor_5}
+## ImageDevice(*string*) {#constructor_5}
 
-Initierar en ny instans av[`ImageDevice`](../) class.
+Initierar en ny instans av [`ImageDevice`](../)-klassen.
 
 ```csharp
 public ImageDevice(string file)
@@ -60,19 +60,19 @@ public ImageDevice(string file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| file | String | Utdatafilens namn. |
+| fil | String | Utdatafilens namn. |
 
 ### Se även
 
 * class [ImageDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), string*) {#constructor_3}
 
-Initierar en ny instans av[`ImageDevice`](../) klass genom att rendera alternativ och utdatafilnamn.
+Initierar en ny instans av [`ImageDevice`](../)-klassen med renderingsalternativ och utdatafilnamn.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Återgivningsalternativ. |
-| file | String | Utdatafilens namn. |
+| alternativ | ImageRenderingOptions | Renderingsalternativ. |
+| fil | String | Utdatafilens namn. |
 
 ### Se även
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(Stream) {#constructor_4}
+## ImageDevice(*Stream*) {#constructor_4}
 
-Initierar en ny instans av[`ImageDevice`](../) class.
+Initierar en ny instans av [`ImageDevice`](../)-klassen.
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -107,14 +107,14 @@ public ImageDevice(Stream stream)
 ### Se även
 
 * class [ImageDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), Stream*) {#constructor_2}
 
-Initierar en ny instans av[`ImageDevice`](../) klass genom att rendera alternativ och utdataström.
+Initierar en ny instans av [`ImageDevice`](../)-klassen med renderingsalternativ och utdataflöde.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
@@ -122,14 +122,12 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Återgivningsalternativ. |
-| stream | Stream | Utgångsströmmen. |
+| alternativ | ImageRenderingOptions | Renderingsalternativ. |
+| stream | Stream | Utdataströmmen. |
 
 ### Se även
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagedevice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

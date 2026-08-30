@@ -1,7 +1,7 @@
 ---
-title: ResponseMessage.Headers
-second_title: Aspose.SVG för .NET API Referens
-description: ResponseMessage fast egendom. Hämtar rubrikerna.
+title: "ResponseMessage.Headers"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ResponseMessage Headers‑egenskap. Hämtar rubrikerna"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.net/responsemessage/headers/
@@ -14,7 +14,7 @@ Hämtar rubrikerna.
 public ResponseHeaders Headers { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Rubrikerna.
 
@@ -22,7 +22,5 @@ Rubrikerna.
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../responsemessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.ReadyState
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Returnerar dokumentets beredskap. Ladda in medan dokumentet laddas interaktivt när det är färdigt att tolka men fortfarande laddar underresurser och komplett när det har laddats.
+title: "Document.ReadyState"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document ReadyState‑egenskap. Returnerar dokumentets beredskap. Laddning medan dokumentet är i läget interactive när det har slutfört parsning men fortfarande laddar underresurser och complete när det har laddats färdigt."
 type: docs
 weight: 230
 url: /sv/net/aspose.svg.dom/document/readystate/
 ---
 ## Document.ReadyState property
 
-Returnerar dokumentets beredskap. "Ladda in" medan dokumentet laddas, "interaktivt" när det är färdigt att tolka men fortfarande laddar underresurser, och "komplett" när det har laddats.
+Returnerar dokumentets lässtatus. "loading" medan dokumentet laddas, "interactive" när det har slutfört parsning men fortfarande laddar underresurser, och "complete" när det är helt laddat.
 
 ```csharp
 public string ReadyState { get; }
@@ -17,7 +17,5 @@ public string ReadyState { get; }
 ### Se även
 
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

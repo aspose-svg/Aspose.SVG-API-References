@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Count
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit fast egendom. Hämtar antalet nyckel/värdepar som finns iMutationObserverInitsamling.
+title: "MutationObserverInit.Count"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit Count-egenskap. Hämtar antalet nyckel/värde‑par som finns i MutationObserverInit-samlingen."
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/count/
 ---
 ## MutationObserverInit.Count property
 
-Hämtar antalet nyckel/värdepar som finns i[`MutationObserverInit`](../)samling.
+Hämtar antalet nyckel/värde‑par som finns i [`MutationObserverInit`](../)-samlingen.
 
 ```csharp
 public int Count { get; }
@@ -17,7 +17,5 @@ public int Count { get; }
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

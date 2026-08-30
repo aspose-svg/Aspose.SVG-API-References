@@ -1,9 +1,9 @@
 ---
-title: Class SvgRenderer
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.SvgRenderer klass. Representerar SVGdokumentrenderare.
+title: "SvgRenderer klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.SvgRenderer klass. Representerar SVG-dokumentrenderare"
 type: docs
-weight: 3030
+weight: 5100
 url: /sv/net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class
@@ -16,28 +16,26 @@ public class SvgRenderer : Renderer<SVGDocument>
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SvgRenderer](svgrenderer/)() | Default_Constructor |
+| [SvgRenderer](svgrenderer/)() | Standardkonstruktorn. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, params SVGDocument[]) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(IDevice, CancellationToken, params SVGDocument[]) | Definierar en metod för att rendera flera[`SVGDocument`](../../aspose.svg/svgdocument/) är i en specifik[`IDevice`](../idevice/) , med hjälp av en avbokningstoken för att begära avbrytning av operationen. |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, int, params SVGDocument[]) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, int) |  |
-| [Render](../../aspose.svg.rendering/renderer-1/render/)(IDevice, SVGDocument, TimeSpan) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(IDevice, TimeSpan, params SVGDocument[]) | Definierar metod för att rendera flera[`SVGDocument`](../../aspose.svg/svgdocument/) är i specifika[`IDevice`](../idevice/) . |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/)*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), params SVGDocument[]*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(*[IDevice](../idevice/), CancellationToken, params SVGDocument[]*) | Definierar en metod för att rendera flera [`SVGDocument`](../../aspose.svg/svgdocument/)s till en specifik [`IDevice`](../idevice/), med en avbokningstoken för att begära avbrytning av operationen. |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), int, params SVGDocument[]*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), int*) |  |
+| [Render](../../aspose.svg.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.svg/svgdocument/), TimeSpan*) |  |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_6)(*[IDevice](../idevice/), TimeSpan, params SVGDocument[]*) | Definierar en metod för att rendera flera [`SVGDocument`](../../aspose.svg/svgdocument/)s till en specifik [`IDevice`](../idevice/). |
 
 ### Se även
 
 * class [SVGDocument](../../aspose.svg/svgdocument/)
-* class [Renderer&lt;TDocument&gt;](../renderer-1/)
-* namnutrymme [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* class [Renderer&lt;TSource&gt;](../renderer-1/)
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

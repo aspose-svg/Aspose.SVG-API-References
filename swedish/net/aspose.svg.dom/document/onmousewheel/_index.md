@@ -1,14 +1,14 @@
 ---
-title: Document.OnMouseWheel
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnMouseWheelhändelse.
+title: "Document.OnMouseWheel"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnMouseWheel-händelse. Hämtar eller anger händelsehanterare för OnMouseWheel-händelsen"
 type: docs
 weight: 580
 url: /sv/net/aspose.svg.dom/document/onmousewheel/
 ---
 ## Document.OnMouseWheel event
 
-Hämtar eller ställer in händelsehanterare för OnMouseWheel-händelse.
+Hämtar eller anger händelsehanterare för OnMouseWheel-händelse.
 
 ```csharp
 public event DOMEventHandler OnMouseWheel;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseWheel;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

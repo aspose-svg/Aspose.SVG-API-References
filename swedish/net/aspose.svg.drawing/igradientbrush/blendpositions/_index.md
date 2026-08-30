@@ -1,27 +1,25 @@
 ---
-title: IGradientBrush.BlendPositions
-second_title: Aspose.SVG för .NET API Referens
-description: IGradientBrush fast egendom. Få blandningspositionerna som definierar en anpassad falloff för gradienten.
+title: "IGradientBrush.BlendPositions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGradientBrush BlendPositions-egenskapen. Hämtar eller anger blandningspositionerna som definierar ett anpassat avtagande för gradienten"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/igradientbrush/blendpositions/
 ---
 ## IGradientBrush.BlendPositions property
 
-Få blandningspositionerna som definierar en anpassad falloff för gradienten.
+Hämtar eller anger blandningspositionerna som definierar ett anpassat avtagande för gradienten.
 
 ```csharp
-public float[] BlendPositions { get; }
+public float[] BlendPositions { get; set; }
 ```
 
 ### Returvärde
 
-Blanda positioner.
+Blandningspositioner.
 
 ### Se även
 
 * interface [IGradientBrush](../)
-* namnutrymme [Aspose.Svg.Drawing](../../igradientbrush/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

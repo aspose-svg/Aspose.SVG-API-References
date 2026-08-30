@@ -1,14 +1,14 @@
 ---
-title: Element.SetAttributeNodeNS
-second_title: Aspose.SVG för .NET API Referens
-description: Element metod. Lägger till ett nytt attribut. Om ett attribut med det lokala namnet och den namnutrymmets URI redan finns i elementet ersätts det av det nya.
+title: "Element.SetAttributeNodeNS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element SetAttributeNodeNS-metod. Lägger till ett nytt attribut. Om ett attribut med samma lokala namn och samma namnrymds-URI redan finns i elementet ersätts det med det nya."
 type: docs
 weight: 420
 url: /sv/net/aspose.svg.dom/element/setattributenodens/
 ---
 ## Element.SetAttributeNodeNS method
 
-Lägger till ett nytt attribut. Om ett attribut med det lokala namnet och den namnutrymmets URI redan finns i elementet ersätts det av det nya.
+Lägger till ett nytt attribut. Om ett attribut med det lokala namnet och den namnrymds‑URI redan finns i elementet ersätts det med det nya.
 
 ```csharp
 public Attr SetAttributeNodeNS(Attr newAttr)
@@ -16,7 +16,7 @@ public Attr SetAttributeNodeNS(Attr newAttr)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| newAttr | Attr | Den nya attr. |
+| newAttr | Attr | Det nya attributet. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Returnerar attribut
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

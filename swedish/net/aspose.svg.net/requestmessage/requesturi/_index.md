@@ -1,28 +1,26 @@
 ---
-title: RequestMessage.RequestUri
-second_title: Aspose.SVG för .NET API Referens
-description: RequestMessage fast egendom. Hämtar eller ställer in begäran URI.
+title: "RequestMessage.RequestUri"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RequestMessage RequestUri‑egenskap. Hämtar eller anger begärans URI"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.net/requestmessage/requesturi/
 ---
 ## RequestMessage.RequestUri property
 
-Hämtar eller ställer in begäran URI.
+Hämtar eller anger begärans URI.
 
 ```csharp
 public Url RequestUri { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Begäran URI.
+Begärans URI.
 
 ### Se även
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../requestmessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

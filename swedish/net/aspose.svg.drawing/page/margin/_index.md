@@ -1,20 +1,20 @@
 ---
-title: Page.Margin
-second_title: Aspose.SVG för .NET API Referens
-description: Page fast egendom. Hämtar eller ställer in sidmarginalen.
+title: "Page.Margin"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Egenskapen Page Margin. Hämtar eller anger sidans marginal"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/page/margin/
 ---
 ## Page.Margin property
 
-Hämtar eller ställer in sidmarginalen.
+Hämtar eller anger sidmarginalen.
 
 ```csharp
 public Margin Margin { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Marginalen.
 
@@ -22,7 +22,5 @@ Marginalen.
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* namnutrymme [Aspose.Svg.Drawing](../../page/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

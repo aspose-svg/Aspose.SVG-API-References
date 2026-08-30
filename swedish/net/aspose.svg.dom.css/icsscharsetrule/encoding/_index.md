@@ -1,7 +1,7 @@
 ---
-title: ICSSCharsetRule.Encoding
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSCharsetRule fast egendom. Kodningsinformationen som används i denna charsetregel.
+title: "ICSSCharsetRule.Encoding"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSCharsetRule Encoding egenskap. Kodningsinformationen som används i denna teckenuppsättningsregel"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icsscharsetrule/encoding/
@@ -14,14 +14,12 @@ Kodningsinformationen som används i denna @charset-regel.
 public string Encoding { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kodningen.
 
 ### Se även
 
 * interface [ICSSCharsetRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsscharsetrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

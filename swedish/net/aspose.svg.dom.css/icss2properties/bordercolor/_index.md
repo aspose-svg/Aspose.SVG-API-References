@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderColor
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för kantfärg i CSS2.
+title: "ICSS2Properties.BorderColor"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BorderColor-egenskap. Se definitionen av border-color property i CSS2"
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.dom.css/icss2properties/bordercolor/
 ---
 ## ICSS2Properties.BorderColor property
 
-Se egenskapsdefinitionen för kantfärg i CSS2.
+Se definitionen av egenskapen border-color i CSS2.
 
 ```csharp
 public string BorderColor { get; set; }
@@ -16,12 +16,10 @@ public string BorderColor { get; set; }
 
 ### Returvärde
 
-border-color egenskap
+border-color property
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

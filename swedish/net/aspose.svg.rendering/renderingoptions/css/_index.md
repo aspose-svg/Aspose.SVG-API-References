@@ -1,28 +1,26 @@
 ---
-title: RenderingOptions.Css
-second_title: Aspose.SVG för .NET API Referens
-description: RenderingOptions fast egendom. Får enCssOptions objekt som används för konfiguration av cssegenskapsbearbetning.
+title: "RenderingOptions.Css"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RenderingOptions Css egenskap. Hämtar ett CssOptions-objekt som används för konfiguration av css-egenskapsbehandling"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.rendering/renderingoptions/css/
 ---
 ## RenderingOptions.Css property
 
-Får en[`CssOptions`](../../cssoptions/) objekt som används för konfiguration av css-egenskapsbearbetning.
+Hämtar ett [`CssOptions`](../../cssoptions/) objekt som används för konfiguration av css-egenskapsbehandling.
 
 ```csharp
 public CssOptions Css { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den[`CssOptions`](../../cssoptions/) objekt.
+Det [`CssOptions`](../../cssoptions/) objektet.
 
 ### Se även
 
 * class [CssOptions](../../cssoptions/)
 * class [RenderingOptions](../)
-* namnutrymme [Aspose.Svg.Rendering](../../renderingoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

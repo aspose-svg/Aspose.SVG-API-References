@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.FamilyName
-second_title: Aspose.SVG för .NET API Referens
-description: ITrueTypeFont fast egendom. Hämta namnet på teckensnittsfamiljen.
+title: "ITrueTypeFont.FamilyName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITrueTypeFont FamilyName property. Hämtar namnet på teckensnittsfamiljen"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/itruetypefont/familyname/
 ---
 ## ITrueTypeFont.FamilyName property
 
-Hämta namnet på teckensnittsfamiljen.
+Hämtar namnet på teckensnittsfamiljen.
 
 ```csharp
 public string FamilyName { get; }
@@ -16,12 +16,10 @@ public string FamilyName { get; }
 
 ### Returvärde
 
-Typsnittets efternamn
+Teckensnittsfamiljens namn.
 
 ### Se även
 
 * interface [ITrueTypeFont](../)
-* namnutrymme [Aspose.Svg.Drawing](../../itruetypefont/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

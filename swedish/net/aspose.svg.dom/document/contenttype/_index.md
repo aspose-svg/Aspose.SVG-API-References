@@ -1,27 +1,25 @@
 ---
-title: Document.ContentType
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Hämtar dokumentinnehållstypen.
+title: "Document.ContentType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document ContentType‑egenskap. Hämtar dokumentets innehållstyp"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom/document/contenttype/
 ---
 ## Document.ContentType property
 
-Hämtar dokumentinnehållstypen.
+Hämtar dokumentets innehållstyp.
 
 ```csharp
 public string ContentType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av innehåll.
+Typen av innehållet.
 
 ### Se även
 
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: RequestMessage.CookieContainer
-second_title: Aspose.SVG för .NET API Referens
-description: RequestMessage fast egendom. Hämtar eller ställer in den cookiebehållare som används för att lagra servercookies av hanteraren.
+title: "RequestMessage.CookieContainer"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RequestMessage CookieContainer-egenskap. Hämtar eller anger den cookiecontainer som används för att lagra servercookies av hanteraren"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.net/requestmessage/cookiecontainer/
 ---
 ## RequestMessage.CookieContainer property
 
-Hämtar eller ställer in den cookiebehållare som används för att lagra servercookies av hanteraren.
+Hämtar eller anger cookie‑behållaren som används för att lagra server‑cookies av hanteraren.
 
 ```csharp
 public CookieContainer CookieContainer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En System.Net.CookieContainer som innehåller cookies som är kopplade till denna begäran.
+En System.Net.CookieContainer som innehåller de cookies som är associerade med denna begäran.
 
 ### Se även
 
 * class [RequestMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../requestmessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

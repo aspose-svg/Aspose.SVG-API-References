@@ -1,14 +1,14 @@
 ---
-title: IMediaList.AppendMedium
-second_title: Aspose.SVG för .NET API Referens
-description: IMediaList metod. Lägger till mediet newMedium i slutet av listan. Om det nya mediet redan används tas det först bort.
+title: "IMediaList.AppendMedium"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IMediaList AppendMedium metod. Lägger till mediet newMedium i slutet av listan. Om newMedium redan används tas det först bort"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.css/imedialist/appendmedium/
 ---
 ## IMediaList.AppendMedium method
 
-Lägger till mediet newMedium i slutet av listan. Om det nya mediet redan används tas det först bort.
+Lägger till mediet newMedium i slutet av listan. Om newMedium redan används tas det först bort.
 
 ```csharp
 public void AppendMedium(string newMedium)
@@ -21,7 +21,5 @@ public void AppendMedium(string newMedium)
 ### Se även
 
 * interface [IMediaList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../imedialist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

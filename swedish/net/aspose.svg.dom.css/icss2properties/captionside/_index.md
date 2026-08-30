@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.CaptionSide
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen på bildtextsidan i CSS2.
+title: "ICSS2Properties.CaptionSide"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties CaptionSide-egenskap. Se definitionen av caption-side-egenskapen i CSS2"
 type: docs
 weight: 310
 url: /sv/net/aspose.svg.dom.css/icss2properties/captionside/
 ---
 ## ICSS2Properties.CaptionSide property
 
-Se egenskapsdefinitionen på bildtextsidan i CSS2.
+Se definitionen av egenskapen caption-side i CSS2.
 
 ```csharp
 public string CaptionSide { get; set; }
@@ -16,12 +16,10 @@ public string CaptionSide { get; set; }
 
 ### Returvärde
 
-egendom på bildtextsidan
+caption-side-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

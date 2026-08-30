@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnToggle
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnTogglehändelse.
+title: "IGlobalEventHandlers.OnToggle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnToggle händelse. Hämtar eller anger händelsehanterare för OnToggle händelse."
 type: docs
 weight: 480
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/ontoggle/
 ---
 ## IGlobalEventHandlers.OnToggle event
 
-Hämtar eller ställer in händelsehanterare för OnToggle-händelse.
+Hämtar eller anger händelsehanterare för OnToggle‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnToggle;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnToggle;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

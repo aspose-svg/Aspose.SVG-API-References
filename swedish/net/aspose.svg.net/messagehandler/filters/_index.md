@@ -1,7 +1,7 @@
 ---
-title: MessageHandler.Filters
-second_title: Aspose.SVG för .NET API Referens
-description: MessageHandler fast egendom. Hämtar filterlistan som motsvarar den angivna hanterartypen.
+title: "MessageHandler.Filters"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MessageHandler Filters-egenskapen. Hämtar filterlistan som motsvarar den angivna hanterartypen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/messagehandler/filters/
@@ -14,7 +14,7 @@ Hämtar filterlistan som motsvarar den angivna hanterartypen.
 public Collection<MessageFilter> Filters { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Filtren.
 
@@ -22,7 +22,5 @@ Filtren.
 
 * class [MessageFilter](../../messagefilter/)
 * class [MessageHandler](../)
-* namnutrymme [Aspose.Svg.Net](../../messagehandler/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

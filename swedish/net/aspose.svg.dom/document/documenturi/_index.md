@@ -1,27 +1,25 @@
 ---
-title: Document.DocumentURI
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Platsen för dokumentet eller null om odefinierat eller om dokumentet skapades med DOMImplementation.createDocument.
+title: "Document.DocumentURI"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document DocumentURI-egenskapen. Dokumentets plats eller null om odefinierad eller om dokumentet skapades med DOMImplementation.createDocument"
 type: docs
 weight: 110
 url: /sv/net/aspose.svg.dom/document/documenturi/
 ---
 ## Document.DocumentURI property
 
-Platsen för dokumentet eller null om odefinierat eller om dokumentet skapades med DOMImplementation.createDocument.
+Platsen för dokumentet eller null om den är odefinierad eller om dokumentet skapades med DOMImplementation.createDocument.
 
 ```csharp
 public string DocumentURI { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Dokumentets URI.
+Dokument‑URI:n.
 
 ### Se även
 
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

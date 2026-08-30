@@ -1,27 +1,26 @@
 ---
-title: Device2.Clip
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Modifierar den aktuella urklippsbanan genom att skära den med den aktuella sökvägen med hjälp av FillModeregeln för att bestämma regionen som ska fyllas. Den här metoden avslutar aktuell väg.
+title: "Device-2.Clip"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device Clip-metoden. Modifierar den aktuella klippningsvägen genom att skära den med den aktuella vägen med hjälp av FillRule för att bestämma området som ska fyllas. Denna metod avslutar den aktuella vägen"
 type: docs
-weight: 70
+weight: 100
 url: /sv/net/aspose.svg.rendering/device-2/clip/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Clip method
+## Device<TGraphicContext,TRenderingOptions>.Clip method
 
-Modifierar den aktuella urklippsbanan genom att skära den med den aktuella sökvägen, med hjälp av FillMode-regeln för att bestämma regionen som ska fyllas. Den här metoden avslutar aktuell väg.
+Modifierar den aktuella klippningsbanan genom att skära den med den aktuella banan, med hjälp av FillRule för att bestämma området som ska fyllas. Denna metod avslutar den aktuella banan.
 
 ```csharp
-public abstract void Clip(FillMode mode)
+public virtual void Clip(FillRule rule)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| mode | FillMode | Fyllningsläget anger hur det inre av en stängd bana klipps |
+| regel | FillRule | Fyllningsregeln specificerar hur insidan av en sluten bana klipps. |
 
 ### Se även
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

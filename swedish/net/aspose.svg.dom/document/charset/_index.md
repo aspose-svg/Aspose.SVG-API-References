@@ -1,7 +1,7 @@
 ---
-title: Document.Charset
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Hämtar dokumentets kodning.
+title: "Document.Charset"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document Charset‑egenskap. Hämtar dokumentets kodning"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom/document/charset/
@@ -14,14 +14,12 @@ Hämtar dokumentets kodning.
 public string Charset { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Dokumentets kodning.
 
 ### Se även
 
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

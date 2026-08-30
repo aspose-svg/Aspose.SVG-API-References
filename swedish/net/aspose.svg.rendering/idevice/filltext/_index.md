@@ -1,7 +1,7 @@
 ---
-title: IDevice.FillText
-second_title: Aspose.SVG för .NET API Referens
-description: IDevice metod. Fyller den angivna textsträngen på den angivna platsen.
+title: "IDevice.FillText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDevice FillText-metoden. Fyller den angivna textsträngen på den angivna platsen."
 type: docs
 weight: 150
 url: /sv/net/aspose.svg.rendering/idevice/filltext/
@@ -17,12 +17,10 @@ public void FillText(string text, PointF pt)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Sträng att fylla. |
-| pt | PointF | Punkt som anger koordinaterna för texten. |
+| pt | PointF | Punkt som specificerar textens koordinater. |
 
 ### Se även
 
 * interface [IDevice](../)
-* namnutrymme [Aspose.Svg.Rendering](../../idevice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

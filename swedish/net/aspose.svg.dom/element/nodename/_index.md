@@ -1,7 +1,7 @@
 ---
-title: Element.NodeName
-second_title: Aspose.SVG för .NET API Referens
-description: Element fast egendom. Namnet på denna nod beroende på dess typ.
+title: "Element.NodeName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element NodeName-egenskap. Namnet på denna nod beroende på dess typ."
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.dom/element/nodename/
@@ -14,14 +14,12 @@ Namnet på denna nod, beroende på dess typ.
 public override string NodeName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på noden.
+Nodens namn.
 
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

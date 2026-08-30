@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.PathBuilder
-second_title: Aspose.SVG för .NET API Referens
-description: ImageVectorizerConfiguration fast egendom. Hämtar eller ställer in SVGsökvägssegmentbyggaren.
+title: "ImageVectorizerConfiguration.PathBuilder"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageVectorizerConfiguration PathBuilder-egenskap. Hämtar eller anger byggaren för SVG-sökvägssegment"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder/
 ---
 ## ImageVectorizerConfiguration.PathBuilder property
 
-Hämtar eller ställer in SVG-sökvägssegmentbyggaren.
+Hämtar eller anger byggaren för SVG‑sökvägssegment.
 
 ```csharp
 public IPathBuilder PathBuilder { get; set; }
@@ -18,7 +18,5 @@ public IPathBuilder PathBuilder { get; set; }
 
 * interface [IPathBuilder](../../ipathbuilder/)
 * class [ImageVectorizerConfiguration](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

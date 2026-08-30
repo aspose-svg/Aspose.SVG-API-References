@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Azimuth
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se definitionen av azimutegenskapen i CSS2.
+title: "ICSS2Properties.Azimuth"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Azimuth egenskap. Se definitionen av azimuth egenskap i CSS2"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icss2properties/azimuth/
 ---
 ## ICSS2Properties.Azimuth property
 
-Se definitionen av azimutegenskapen i CSS2.
+Se definitionen av egenskapen azimuth i CSS2.
 
 ```csharp
 public string Azimuth { get; set; }
@@ -16,12 +16,10 @@ public string Azimuth { get; set; }
 
 ### Returvärde
 
-Azimutegenskapen
+Den azimuth egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

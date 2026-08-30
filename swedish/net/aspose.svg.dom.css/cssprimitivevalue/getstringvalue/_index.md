@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetStringValue
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue metod. Denna metod används för att få strängvärdet. Om CSSvärdet inte innehåller ett strängvärde höjs ett DOMException.
+title: "CSSPrimitiveValue.GetStringValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue GetStringValue-metoden. Denna metod används för att hämta strängvärdet. Om CSS‑värdet inte innehåller ett strängvärde kastas ett DOMException‑undantag"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/getstringvalue/
 ---
 ## CSSPrimitiveValue.GetStringValue method
 
-Denna metod används för att få strängvärdet. Om CSS-värdet inte innehåller ett strängvärde höjs ett DOMException.
+Denna metod används för att hämta strängvärdet. Om CSS-värdet inte innehåller ett strängvärde, kastas ett DOMException.
 
 ```csharp
 public abstract string GetStringValue()
@@ -21,7 +21,5 @@ Returnerar värde
 ### Se även
 
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

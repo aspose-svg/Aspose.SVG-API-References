@@ -1,14 +1,14 @@
 ---
-title: UnitType.KHz
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Måtten är i kiloHertz.
+title: "UnitType.KHz"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType KHz-fält. Mätning är i kiloHertz"
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.drawing/unittype/khz/
 ---
 ## UnitType.KHz field
 
-Måtten är i kiloHertz.
+Mätning är i kilohertz.
 
 ```csharp
 public static readonly UnitType KHz;
@@ -17,7 +17,5 @@ public static readonly UnitType KHz;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

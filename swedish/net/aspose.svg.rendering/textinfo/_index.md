@@ -1,9 +1,9 @@
 ---
-title: Class TextInfo
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.TextInfo klass. Innehåller information om renderad text.
+title: "TextInfo-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.TextInfo klass. Innehåller information om renderad text"
 type: docs
-weight: 3040
+weight: 5110
 url: /sv/net/aspose.svg.rendering/textinfo/
 ---
 ## TextInfo class
@@ -16,13 +16,11 @@ public class TextInfo
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | Får information om renderade glyfer. |
+| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos/) { get; } | Hämtar information om renderade glyfer. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

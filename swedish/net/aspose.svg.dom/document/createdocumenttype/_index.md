@@ -1,14 +1,14 @@
 ---
-title: Document.CreateDocumentType
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skapar en DocumentTypenod.
+title: "Document.CreateDocumentType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document CreateDocumentType-metod. Metoden returnerar ett DocumentType-objekt som antingen kan användas med CreateDocument vid dokumentets skapande eller kan placeras i dokumentet via metoder som InsertBefore eller ReplaceChild"
 type: docs
 weight: 840
 url: /sv/net/aspose.svg.dom/document/createdocumenttype/
 ---
 ## Document.CreateDocumentType method
 
-Skapar en DocumentType-nod.
+Metoden returnerar ett [`DocumentType`](../../documenttype/) objekt som antingen kan användas med [`CreateDocument`](../../idomimplementation/createdocument/) vid dokumentets skapande eller kan placeras i dokumentet via metoder som [`InsertBefore`](../../node/insertbefore/) eller [`ReplaceChild`](../../node/replacechild/).
 
 ```csharp
 public DocumentType CreateDocumentType(string name, string publicId, string systemId, 
@@ -17,20 +17,18 @@ public DocumentType CreateDocumentType(string name, string publicId, string syst
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Dokumenttypens namn. |
-| publicId | String | Det offentliga id. |
-| systemId | String | System-id. |
+| namn | String | Är en DOMString som innehåller det kvalificerade namnet, till exempel svg:svg. |
+| publicId | String | Är en DOMString som innehåller PUBLIC‑identifieraren. |
+| systemId | String | Är en DOMString som innehåller SYSTEM‑identifieraren. |
 | internalSubset | String | Den interna delmängden. |
 
 ### Returvärde
 
-Den[`DocumentType`](../../documenttype/) .
+Den [`DocumentType`](../../documenttype/).
 
 ### Se även
 
 * class [DocumentType](../../documenttype/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

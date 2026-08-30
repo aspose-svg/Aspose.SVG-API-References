@@ -1,7 +1,7 @@
 ---
-title: MutationRecord.NextSibling
-second_title: Aspose.SVG för .NET API Referens
-description: MutationRecord fast egendom. Returnera nästa syskon till de tillagda eller borttagna noderna eller null.
+title: "MutationRecord.NextSibling"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationRecord NextSibling egenskap. Returnerar nästa syskon till de tillagda eller borttagna noderna eller null."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.mutations/mutationrecord/nextsibling/
@@ -14,7 +14,7 @@ Returnera nästa syskon till de tillagda eller borttagna noderna, eller null.
 public Node NextSibling { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nästa syskon.
 
@@ -22,7 +22,5 @@ Nästa syskon.
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

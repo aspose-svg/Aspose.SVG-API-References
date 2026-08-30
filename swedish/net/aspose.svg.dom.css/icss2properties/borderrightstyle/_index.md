@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderRightStyle
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen i kanthögerstil i CSS2.
+title: "ICSS2Properties.BorderRightStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BorderRightStyle-egenskap. Se definitionen av border-right-style-egenskapen i CSS2"
 type: docs
 weight: 210
 url: /sv/net/aspose.svg.dom.css/icss2properties/borderrightstyle/
 ---
 ## ICSS2Properties.BorderRightStyle property
 
-Se egenskapsdefinitionen i kant-högerstil i CSS2.
+Se definitionen av egenskapen border-right-style i CSS2.
 
 ```csharp
 public string BorderRightStyle { get; set; }
@@ -16,12 +16,10 @@ public string BorderRightStyle { get; set; }
 
 ### Returvärde
 
-egendom i gränsrättsstil
+border-right-style-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

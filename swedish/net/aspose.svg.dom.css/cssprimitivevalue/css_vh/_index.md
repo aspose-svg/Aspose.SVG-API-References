@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_VH
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue fält. Värdet är en procentandel av hela visningsportens höjd.
+title: "CSSPrimitiveValue.CSS_VH"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue CSS_VH-fält. Värdet är en procentsats av hela vyportens höjd."
 type: docs
-weight: 420
+weight: 430
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/css_vh/
 ---
 ## CSSPrimitiveValue.CSS_VH field
@@ -17,7 +17,5 @@ public const ushort CSS_VH;
 ### Se även
 
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,25 @@
 ---
-title: ILinearGradientBrush.Rect
-second_title: Aspose.SVG för .NET API Referens
-description: ILinearGradientBrush fast egendom. Få ett rektangulärt område som definierar start och slutpunkterna för gradienten.
+title: "ILinearGradientBrush.Rect"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ILinearGradientBrush Rect-egenskapen. Hämtar eller anger den rektangulära regionen som definierar start- och slutpunkterna för gradienten"
 type: docs
-weight: 40
+weight: 20
 url: /sv/net/aspose.svg.drawing/ilineargradientbrush/rect/
 ---
 ## ILinearGradientBrush.Rect property
 
-Få ett rektangulärt område som definierar start- och slutpunkterna för gradienten.
+Hämtar eller anger den rektangulära regionen som definierar start- och slutpunkterna för gradienten.
 
 ```csharp
-public RectangleF Rect { get; }
+public RectangleF Rect { get; set; }
 ```
+
+### Returvärde
+
+Den rektangulära regionen som definierar gradientens start- och slutpunkter.
 
 ### Se även
 
 * interface [ILinearGradientBrush](../)
-* namnutrymme [Aspose.Svg.Drawing](../../ilineargradientbrush/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

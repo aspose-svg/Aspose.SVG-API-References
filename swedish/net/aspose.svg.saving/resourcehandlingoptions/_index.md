@@ -1,14 +1,14 @@
 ---
-title: Class ResourceHandlingOptions
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Saving.ResourceHandlingOptions klass. Representerar resurshanteringsalternativ.
+title: "ResourceHandlingOptions klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Saving.ResourceHandlingOptions klass. Representerar alternativ för resurshantering"
 type: docs
-weight: 3650
+weight: 5760
 url: /sv/net/aspose.svg.saving/resourcehandlingoptions/
 ---
 ## ResourceHandlingOptions class
 
-Representerar resurshanteringsalternativ.
+Representerar alternativ för resurshantering.
 
 ```csharp
 public class ResourceHandlingOptions
@@ -16,17 +16,15 @@ public class ResourceHandlingOptions
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Default](../../aspose.svg.saving/resourcehandlingoptions/default/) { get; set; } | Hämtar eller ställer in enum som representerar standardsättet för resurshantering. För närvarandeSave ,Ignore ochEmbed värden stöds. Standardvärdet ärSave . |
-| [JavaScript](../../aspose.svg.saving/resourcehandlingoptions/javascript/) { get; set; } | Hämtar eller ställer in enum som representerar hur skript hanteras. För närvarandeSave ,Ignore ,Discard ochEmbed värden stöds. Standardvärdet ärSave . |
-| [MaxHandlingDepth](../../aspose.svg.saving/resourcehandlingoptions/maxhandlingdepth/) { get; set; } | Hämtar eller ställer in maximalt djup för sidor som kommer att hanteras. Djup 1 innebär att endast sidor som direkt refereras från det sparade dokumentet kommer att hanteras. Att ställa in den här egenskapen till -1 kommer att leda till hantering av alla sidor. Standardvärdet är 0. |
-| [PageUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/) { get; set; } | Får eller ställer in begränsningar för webbadresser för hanterade sidor. Standardvärdet ärRootAndSubFolders . |
-| [ResourceUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/) { get; set; } | Hämtar eller ställer in begränsningar för webbadresser för hanterade resurser som css, js, bilder etc. Standardvärdet ärSameHost . |
+| [Default](../../aspose.svg.saving/resourcehandlingoptions/default/) { get; set; } | Hämtar eller anger en enum som representerar standardmetoden för resurshantering. För närvarande stöds värdena Save, Ignore och Embed. Standardvärdet är Save. |
+| [JavaScript](../../aspose.svg.saving/resourcehandlingoptions/javascript/) { get; set; } | Hämtar eller anger en enum som representerar hur skript hanteras. För närvarande stöds värdena Save, Ignore, Discard och Embed. Standardvärdet är Save. |
+| [MaxHandlingDepth](../../aspose.svg.saving/resourcehandlingoptions/maxhandlingdepth/) { get; set; } | Hämtar eller anger maximal djup för sidor som ska hanteras. Djupet 1 betyder att endast sidor som direkt refereras från det sparade dokumentet kommer att hanteras. Att sätta denna egenskap till -1 innebär att alla sidor hanteras. Standardvärdet är 0. |
+| [PageUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/) { get; set; } | Hämtar eller anger begränsning som tillämpas på URL:er för hanterade sidor. Standardvärdet är RootAndSubFolders. |
+| [ResourceUrlRestriction](../../aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/) { get; set; } | Hämtar eller anger begränsning som tillämpas på URL:er för hanterade resurser såsom css, js, bilder etc. Standardvärdet är SameHost. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

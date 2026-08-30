@@ -1,7 +1,7 @@
 ---
-title: SVGSVGElement.CreateSVGLength
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement metod. Skapar ett SVGLengthobjekt utanför alla dokumentträd. Objektet initieras till värdet 0 användarenheter.
+title: "SVGSVGElement.CreateSVGLength"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement CreateSVGLength-metoden. Skapar ett SVGLength-objekt utanför alla dokumentträd. Objektet initieras till värdet 0 användarenheter."
 type: docs
 weight: 130
 url: /sv/net/aspose.svg/svgsvgelement/createsvglength/
@@ -22,7 +22,5 @@ Ett SVGLength-objekt.
 
 * class [SVGLength](../../../aspose.svg.datatypes/svglength/)
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

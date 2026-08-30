@@ -1,7 +1,7 @@
 ---
-title: SVGSVGElement.CreateSVGTransform
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement metod. Skapar ett SVGTransformobjekt utanför alla dokumentträd. Objektet initieras till en identitetsmatristransform SVG_TRANSFORM_MATRIX.
+title: "SVGSVGElement.CreateSVGTransform"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement CreateSVGTransform metod. Skapar ett SVGTransform-objekt utanför alla dokumentträd. Objektet initieras till en identitetsmatristransform SVG_TRANSFORM_MATRIX"
 type: docs
 weight: 180
 url: /sv/net/aspose.svg/svgsvgelement/createsvgtransform/
@@ -22,7 +22,5 @@ Ett SVGTransform-objekt.
 
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

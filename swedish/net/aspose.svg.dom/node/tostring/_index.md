@@ -1,14 +1,14 @@
 ---
-title: Node.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: Node metod. Returnerar enString som representerar denna instans.
+title: "Node.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node ToString-metod. Returnerar en String som representerar detta objekt"
 type: docs
-weight: 310
+weight: 290
 url: /sv/net/aspose.svg.dom/node/tostring/
 ---
 ## Node.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar den här instansen.
 
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class StencilConfiguration
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ImageVectorization.StencilConfiguration klass. DenStencilConfiguration klass definierar en konfiguration av stencileffektalternativ.
+title: "StencilConfiguration-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ImageVectorization.StencilConfiguration klass. StencilConfiguration-klassen definierar en konfiguration av stencil-effektalternativ."
 type: docs
-weight: 2170
+weight: 4240
 url: /sv/net/aspose.svg.imagevectorization/stencilconfiguration/
 ---
 ## StencilConfiguration class
 
-Den`StencilConfiguration` klass definierar en konfiguration av stencileffektalternativ.
+`StencilConfiguration`-klassen definierar en konfiguration av stencil-effektalternativ.
 
 ```csharp
 public class StencilConfiguration
@@ -16,20 +16,18 @@ public class StencilConfiguration
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [StencilConfiguration](stencilconfiguration/)() | Initierar en ny instans av`StencilConfiguration` class. |
+| [StencilConfiguration](stencilconfiguration/)() | Initierar en ny instans av `StencilConfiguration`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | Hämtar eller ställer in färgen för rendering av stencillinjer för MonoColor-typen. |
-| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | Hämtar eller ställer in[`StencilType`](../stenciltype/) . |
+| [Color](../../aspose.svg.imagevectorization/stencilconfiguration/color/) { get; set; } | Hämtar eller anger färgen för rendering av stencil-linjer för MonoColor-typen. |
+| [Type](../../aspose.svg.imagevectorization/stencilconfiguration/type/) { get; set; } | Hämtar eller anger [`StencilType`](../stenciltype/). |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

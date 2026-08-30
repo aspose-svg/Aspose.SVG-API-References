@@ -1,34 +1,29 @@
 ---
-title: IPathBuilder.Build
-second_title: Aspose.SVG för .NET API Referens
-description: IPathBuilder metod. Bygger bansegment från listan över spårpunkter.
+title: "IPathBuilder.Build"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IPathBuilder Build-metoden. Optimerar en given spårning till ett SVG-sökvägssegment med så få linje- och Bézier-kurvkommandon som möjligt för exakt återgivning"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.imagevectorization/ipathbuilder/build/
 ---
 ## IPathBuilder.Build method
 
-Bygger bansegment från listan över spårpunkter.
+Optimerar ett givet spår till ett SVG-sökvägssegment, med minsta möjliga antal linje- och Bézierkurvkommandon för en exakt representation.
 
 ```csharp
-public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement path)
+public string Build(IEnumerable<PointF> trace)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Listan över spårpunkter. |
-| path | SVGPathElement | SVG-sökvägselementet där vägsegment kommer att läggas till. |
+| spår | IEnumerable`1 | En sekvens av punkter som beskriver spåret som ska optimeras till en SVG-sökväg. |
 
 ### Returvärde
 
-Listan över vägsegmenten[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg/).
+En sträng som representerar ett SVG-sökvägssegment, som effektivt approximerar den ursprungliga spårningen med minimala linje- och Bézier-kurvkommandon.
 
 ### Se även
 
-* class [SVGPathSeg](../../../aspose.svg.paths/svgpathseg/)
-* class [SVGPathElement](../../../aspose.svg/svgpathelement/)
 * interface [IPathBuilder](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../ipathbuilder/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

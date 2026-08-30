@@ -1,9 +1,9 @@
 ---
-title: CSSPrimitiveValue.CSS_PT
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue fält. Värdet är en längd pt. Värdet kan erhållas genom att använda metoden getFloatValue.
+title: "CSSPrimitiveValue.CSS_PT"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue CSS_PT-fältet. Värdet är en längd pt. Värdet kan erhållas genom att använda metoden getFloatValue"
 type: docs
-weight: 320
+weight: 330
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/css_pt/
 ---
 ## CSSPrimitiveValue.CSS_PT field
@@ -17,7 +17,5 @@ public const ushort CSS_PT;
 ### Se även
 
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

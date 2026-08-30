@@ -1,30 +1,28 @@
 ---
-title: Enum BrushType
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.BrushType uppräkning. Anger typen av borste.
+title: "BrushType-enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.BrushType-enum. Anger typen av pensel"
 type: docs
-weight: 1380
+weight: 3380
 url: /sv/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration
 
-Anger typen av borste.
+Anger penseltypen.
 
 ```csharp
 public enum BrushType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Solid | `0` | Typen är ISOlidBrush |
-| Texture | `1` | Typen är ITextureBrush |
-| LinearGradient | `2` | Typen är IlinearGradientBrush |
+| Solid | `0` | Typ är ISolidBrush |
+| Texture | `1` | Typ är ITextureBrush |
+| LinearGradient | `2` | Typ är ILinearGradientBrush |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

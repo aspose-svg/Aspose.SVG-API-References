@@ -1,14 +1,14 @@
 ---
-title: Margin.Margin
-second_title: Aspose.SVG för .NET API Referens
-description: Margin byggare. Initierar en ny instans avMargin class.
+title: "Margin"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Margin-konstruktor. Initierar en ny instans av Margin-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
 
-Initierar en ny instans av[`Margin`](../) class.
+Initierar en ny instans av [`Margin`](../)-klassen.
 
 ```csharp
 public Margin()
@@ -17,14 +17,14 @@ public Margin()
 ### Se även
 
 * class [Margin](../)
-* namnutrymme [Aspose.Svg.Drawing](../../margin/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int) {#constructor_3}
+## Margin(*int*) {#constructor_3}
 
-Initierar en ny instans av[`Margin`](../) class.
+Initierar en ny instans av [`Margin`](../)-klassen.
 
 ```csharp
 public Margin(int anyMargin)
@@ -37,14 +37,14 @@ public Margin(int anyMargin)
 ### Se även
 
 * class [Margin](../)
-* namnutrymme [Aspose.Svg.Drawing](../../margin/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length) {#constructor_1}
+## Margin(*[Length](../../length/)*) {#constructor_1}
 
-Initierar en ny instans av[`Margin`](../) class.
+Initierar en ny instans av [`Margin`](../)-klassen.
 
 ```csharp
 public Margin(Length anyMargin)
@@ -58,14 +58,14 @@ public Margin(Length anyMargin)
 
 * class [Length](../../length/)
 * class [Margin](../)
-* namnutrymme [Aspose.Svg.Drawing](../../margin/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(int, int, int, int) {#constructor_4}
+## Margin(*int, int, int, int*) {#constructor_4}
 
-Initierar en ny instans av[`Margin`](../) class.
+Initierar en ny instans av [`Margin`](../)-klassen.
 
 ```csharp
 public Margin(int left, int top, int right, int bottom)
@@ -73,22 +73,22 @@ public Margin(int left, int top, int right, int bottom)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| left | Int32 | Den vänstra storleken. |
-| top | Int32 | Den översta storleken. |
-| right | Int32 | Rätt storlek. |
-| bottom | Int32 | Bottenstorleken. |
+| vänster | Int32 | Den vänstra storleken. |
+| toppen | Int32 | Den övre storleken. |
+| höger | Int32 | Den högra storleken. |
+| botten | Int32 | Den nedre storleken. |
 
 ### Se även
 
 * class [Margin](../)
-* namnutrymme [Aspose.Svg.Drawing](../../margin/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Margin(Length, Length, Length, Length) {#constructor_2}
+## Margin(*[Length](../../length/), [Length](../../length/), [Length](../../length/), [Length](../../length/)*) {#constructor_2}
 
-Initierar en ny instans av[`Margin`](../) class.
+Initierar en ny instans av [`Margin`](../)-klassen.
 
 ```csharp
 public Margin(Length left, Length top, Length right, Length bottom)
@@ -96,16 +96,14 @@ public Margin(Length left, Length top, Length right, Length bottom)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| left | Length | Den vänstra storleken. |
-| top | Length | Den översta storleken. |
-| right | Length | Rätt storlek. |
-| bottom | Length | Bottenstorleken. |
+| vänster | Length | Den vänstra storleken. |
+| toppen | Length | Den övre storleken. |
+| höger | Length | Den högra storleken. |
+| botten | Length | Den nedre storleken. |
 
 ### Se även
 
 * class [Length](../../length/)
 * class [Margin](../)
-* namnutrymme [Aspose.Svg.Drawing](../../margin/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

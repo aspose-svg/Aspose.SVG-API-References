@@ -1,14 +1,14 @@
 ---
-title: Element.GetElementsByClassName
-second_title: Aspose.SVG för .NET API Referens
-description: Element metod. Returnerar ett levande NodeListobjekt som innehåller alla element i dokumentet som har alla klasser som anges i argument. http//www.w3.org/TR/dom/
+title: "Element.GetElementsByClassName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element GetElementsByClassName-metoden. Returnerar ett HTMLCollection-objekt som innehåller alla element inom elementet som har alla de klasser som anges i argumentet."
 type: docs
 weight: 280
 url: /sv/net/aspose.svg.dom/element/getelementsbyclassname/
 ---
 ## Element.GetElementsByClassName method
 
-Returnerar ett levande NodeList-objekt som innehåller alla element i dokumentet som har alla klasser som anges i argument. http://www.w3.org/TR/dom/
+Returnerar [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) objekt som innehåller alla element inom [`element`](../) som har alla de klasser som anges i argumentet.
 
 ```csharp
 public HTMLCollection GetElementsByClassName(string classNames)
@@ -16,17 +16,19 @@ public HTMLCollection GetElementsByClassName(string classNames)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| classNames | String | Strängsträngen som innehåller en oordnad uppsättning unika mellanslagsseparerade tokens som representerar klasser (klassnamn) |
+| classNames | String | Strängen som innehåller en oordnad uppsättning av unika mellanslagsskiljda token som representerar klasser (klassnamn) |
 
 ### Returvärde
 
-Den[`Element`](../) .
+En levande [`HTMLCollection`](../../../aspose.svg.collections/htmlcollection/) av hittade element.
+
+## Anmärkningar
+
+Se den officiella [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbyclassname).
 
 ### Se även
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

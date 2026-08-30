@@ -1,27 +1,25 @@
 ---
-title: LengthOrAuto.IsAuto
-second_title: Aspose.SVG för .NET API Referens
-description: LengthOrAuto fast egendom. Får ett värde som indikerar om denna instans är i auto.
+title: "LengthOrAuto.IsAuto"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "LengthOrAuto IsAuto‑egenskap. Hämtar ett värde som indikerar om detta objekt är i auto"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/lengthorauto/isauto/
 ---
 ## LengthOrAuto.IsAuto property
 
-Får ett värde som indikerar om denna instans är i 'auto'.
+Hämtar ett värde som indikerar om denna instans är i 'auto'.
 
 ```csharp
 public bool IsAuto { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är automatisk; annat,`falsk` .
+`true` om detta objekt är automatiskt; annars `false`.
 
 ### Se även
 
 * class [LengthOrAuto](../)
-* namnutrymme [Aspose.Svg.Drawing](../../lengthorauto/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

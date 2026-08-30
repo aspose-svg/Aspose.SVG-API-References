@@ -1,20 +1,20 @@
 ---
-title: Content.Headers
-second_title: Aspose.SVG för .NET API Referens
-description: Content fast egendom. Hämtar HTTPinnehållsrubriker.
+title: "Content.Headers"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Content Headers-egenskapen. Hämtar HTTP-innehållshuvudena"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/content/headers/
 ---
 ## Content.Headers property
 
-Hämtar HTTP-innehållsrubriker.
+Hämtar HTTP‑innehållshuvuden.
 
 ```csharp
 public ContentHeaders Headers { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Rubrikerna.
 
@@ -22,7 +22,5 @@ Rubrikerna.
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* namnutrymme [Aspose.Svg.Net](../../content/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

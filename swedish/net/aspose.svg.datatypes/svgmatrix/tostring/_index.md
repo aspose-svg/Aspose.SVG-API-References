@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMatrix metod. Returnerar enString som representerar denna instans.
+title: "SVGMatrix.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMatrix ToString-metod. Returnerar en String som representerar detta objekt"
 type: docs
 weight: 130
 url: /sv/net/aspose.svg.datatypes/svgmatrix/tostring/
 ---
 ## SVGMatrix.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar den här instansen.
 
 ### Se även
 
 * class [SVGMatrix](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgmatrix/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

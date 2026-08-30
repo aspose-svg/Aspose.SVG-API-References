@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Equality
-second_title: Aspose.SVG för .NET API Referens
-description: Resolution metod. Implementerar operatorn .
+title: "Resolution.op_Equality"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Resolution op_Equality-metoden. Implementerar operatorn"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/resolution/op_equality/
@@ -26,7 +26,5 @@ Resultatet av operatorn.
 ### Se även
 
 * class [Resolution](../)
-* namnutrymme [Aspose.Svg.Drawing](../../resolution/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

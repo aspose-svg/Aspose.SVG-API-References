@@ -1,14 +1,14 @@
 ---
-title: Page.Page
-second_title: Aspose.SVG för .NET API Referens
-description: Page byggare. Initierar en ny instans avPage class.
+title: "Page"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Konstruktorn Page. Initierar en ny instans av Page-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/page/page/
 ---
-## Page(Size, Margin) {#constructor_3}
+## Page(*[Size](../../size/), [Margin](../../margin/)*) {#constructor_3}
 
-Initierar en ny instans av[`Page`](../) class.
+Initierar en ny instans av [`Page`](../)-klassen.
 
 ```csharp
 public Page(Size size, Margin margin)
@@ -16,22 +16,22 @@ public Page(Size size, Margin margin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size | Size | Sidstorleken. |
-| margin | Margin | Marginalen. |
+| storlek | Size | Sidans storlek. |
+| marginal | Margin | Marginalen. |
 
 ### Se även
 
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* namnutrymme [Aspose.Svg.Drawing](../../page/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Size) {#constructor_2}
+## Page(*[Size](../../size/)*) {#constructor_2}
 
-Initierar en ny instans av[`Page`](../) class.
+Initierar en ny instans av [`Page`](../)-klassen.
 
 ```csharp
 public Page(Size size)
@@ -39,20 +39,20 @@ public Page(Size size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size | Size | Sidstorleken. |
+| storlek | Size | Sidans storlek. |
 
 ### Se även
 
 * class [Size](../../size/)
 * class [Page](../)
-* namnutrymme [Aspose.Svg.Drawing](../../page/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Page(Margin) {#constructor_1}
+## Page(*[Margin](../../margin/)*) {#constructor_1}
 
-Initierar en ny instans av[`Page`](../) class.
+Initierar en ny instans av [`Page`](../)-klassen.
 
 ```csharp
 public Page(Margin margin)
@@ -60,20 +60,20 @@ public Page(Margin margin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| margin | Margin | Marginalen. |
+| marginal | Margin | Marginalen. |
 
 ### Se även
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* namnutrymme [Aspose.Svg.Drawing](../../page/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Page() {#constructor}
 
-Initierar en ny instans av[`Page`](../) class.
+Initierar en ny instans av [`Page`](../)-klassen.
 
 ```csharp
 public Page()
@@ -82,7 +82,5 @@ public Page()
 ### Se även
 
 * class [Page](../)
-* namnutrymme [Aspose.Svg.Drawing](../../page/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

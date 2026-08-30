@@ -1,14 +1,14 @@
 ---
-title: ICSSCounterStyleRule.Name
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSCounterStyleRule fast egendom. Får namnet.
+title: "ICSSCounterStyleRule.Name"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSCounterStyleRule Name-egenskap. Hämtar namnet"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.css/icsscounterstylerule/name/
 ---
 ## ICSSCounterStyleRule.Name property
 
-Får namnet.
+Hämtar namnet.
 
 ```csharp
 public string Name { get; }
@@ -17,7 +17,5 @@ public string Name { get; }
 ### Se även
 
 * interface [ICSSCounterStyleRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsscounterstylerule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.BaseFrequencyX
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFETurbulenceElement fast egendom. Motsvarar attributet baseFrequency på det givna feTurbulenceelementet. Innehåller Xkomponenten av attributet baseFrequency.
+title: "SVGFETurbulenceElement.BaseFrequencyX"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFETurbulenceElement BaseFrequencyX egenskap. Motsvarar attributet baseFrequency på det givna feTurbulence-elementet. Innehåller X-komponenten av baseFrequency-attributet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.filters/svgfeturbulenceelement/basefrequencyx/
 ---
 ## SVGFETurbulenceElement.BaseFrequencyX property
 
-Motsvarar attributet 'baseFrequency' på det givna 'feTurbulence'-elementet. Innehåller X-komponenten av attributet 'baseFrequency'.
+Motsvarar attributet ‘baseFrequency’ på det angivna ‘feTurbulence’-elementet. Innehåller X-komponenten av attributet ‘baseFrequency’.
 
 ```csharp
 public SVGAnimatedNumber BaseFrequencyX { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'baseFrequency' för det givna 'feTurbulence'-elementet.
+Attributet ‘baseFrequency’ på det givna ‘feTurbulence’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

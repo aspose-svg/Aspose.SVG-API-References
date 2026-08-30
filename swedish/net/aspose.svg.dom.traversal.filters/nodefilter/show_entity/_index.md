@@ -1,14 +1,14 @@
 ---
-title: NodeFilter.SHOW_ENTITY
-second_title: Aspose.SVG för .NET API Referens
-description: NodeFilter fält. Visa enhetsnoder. Detta är endast meningsfullt när du skapar en iterator eller trädvandrare med en Entitynod som dess rot i det här fallet betyder det att Entity noden kommer att visas i den första positionen för genomgången. Eftersom entiteter inte är en del av dokumentträdet visas de inte när går över dokumentträdet.
+title: "NodeFilter.SHOW_ENTITY"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NodeFilter SHOW_ENTITY-fält. Visa Entity-noder. Detta är meningsfullt endast när man skapar en iterator eller tree-walker med en Entity-nod som rot; i detta fall betyder det att Entity-noden kommer att visas i den första positionen av traverseringen. Eftersom enheter inte är en del av dokumentträdet visas de inte när man traverserar dokumentträdet"
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.dom.traversal.filters/nodefilter/show_entity/
 ---
 ## NodeFilter.SHOW_ENTITY field
 
-Visa enhetsnoder. Detta är endast meningsfullt när du skapar en iterator eller trädvandrare med en Entity-nod som dess -rot; i det här fallet betyder det att Entity -noden kommer att visas i den första positionen för genomgången. Eftersom entiteter inte är en del av dokumentträdet, visas de inte när går över dokumentträdet.
+Visa Entity-noder. Detta är meningsfullt endast när man skapar en iterator eller träd‑vandrare med en Entity-nod som rot; i detta fall betyder det att Entity-noden kommer att visas i den första positionen av traverseringen. Eftersom Entity-noder inte är en del av dokumentträdet visas de inte när man traverserar dokumentträdet.
 
 ```csharp
 public const long SHOW_ENTITY;
@@ -17,7 +17,5 @@ public const long SHOW_ENTITY;
 ### Se även
 
 * class [NodeFilter](../)
-* namnutrymme [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

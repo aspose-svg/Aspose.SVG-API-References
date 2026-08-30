@@ -1,20 +1,20 @@
 ---
-title: ContentDispositionHeaderValue.Parameters
-second_title: Aspose.SVG för .NET API Referens
-description: ContentDispositionHeaderValue fast egendom. Hämta samling av parametrar
+title: "ContentDispositionHeaderValue.Parameters"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ContentDispositionHeaderValue Parameters-egenskap. Hämtar samling av parametrar"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.net.headers/contentdispositionheadervalue/parameters/
 ---
 ## ContentDispositionHeaderValue.Parameters property
 
-Hämta samling av parametrar
+Hämta samling av parametrar.
 
 ```csharp
 public ICollection<NameValueHeaderValue> Parameters { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Parametrarna.
 
@@ -22,7 +22,5 @@ Parametrarna.
 
 * class [NameValueHeaderValue](../../namevalueheadervalue/)
 * class [ContentDispositionHeaderValue](../)
-* namnutrymme [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

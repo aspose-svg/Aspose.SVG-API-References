@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.ImageGraphicContext.ImageGraphicContext
-second_title: Aspose.SVG för .NET API Referens
-description: ImageGraphicContext byggare. Default_Constructor
+title: "ImageDevice.ImageGraphicContext.ImageGraphicContext"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageGraphicContext‑konstruktör. Standardkonstruktören."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/imagegraphiccontext/
 ---
 ## ImageDevice.ImageGraphicContext constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public ImageGraphicContext()
@@ -17,7 +17,5 @@ public ImageGraphicContext()
 ### Se även
 
 * class [ImageGraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagedevice.imagegraphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

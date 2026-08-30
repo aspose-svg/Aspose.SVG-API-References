@@ -1,7 +1,7 @@
 ---
-title: NamedNodeMap.Length
-second_title: Aspose.SVG för .NET API Referens
-description: NamedNodeMap fast egendom. Antalet noder i denna karta.
+title: "NamedNodeMap.Length"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NamedNodeMap Length-egenskap. Antalet noder i denna karta"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.collections/namednodemap/length/
@@ -17,7 +17,5 @@ public int Length { get; }
 ### Se även
 
 * class [NamedNodeMap](../)
-* namnutrymme [Aspose.Svg.Collections](../../namednodemap/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ICSSPageRule.SelectorText
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSPageRule fast egendom. Den tolkbara textrepresentationen av sidväljaren för regeln.
+title: "ICSSPageRule.SelectorText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSPageRule SelectorText-egenskap. Den parsbara textrepresentationen av sidväljaren för regeln."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icsspagerule/selectortext/
 ---
 ## ICSSPageRule.SelectorText property
 
-Den tolkbara textrepresentationen av sidväljaren för regeln.
+Den parsbara textrepresentationen av sidväljaren för regeln.
 
 ```csharp
 public string SelectorText { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Väljartexten.
+Väljaretexten.
 
 ### Se även
 
 * interface [ICSSPageRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

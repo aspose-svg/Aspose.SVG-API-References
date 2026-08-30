@@ -1,30 +1,28 @@
 ---
-title: Interface IStyleSheetList
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.IStyleSheetList gränssnitt. StyleSheetListgränssnittet tillhandahåller abstraktionen av en ordnad samling stilmallar.
+title: "IStyleSheetList‑gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.IStyleSheetList‑gränssnitt. StyleSheetList‑gränssnittet ger en abstraktion av en ordnad samling av stilark."
 type: docs
-weight: 750
+weight: 2750
 url: /sv/net/aspose.svg.dom.css/istylesheetlist/
 ---
 ## IStyleSheetList interface
 
-StyleSheetList-gränssnittet tillhandahåller abstraktionen av en ordnad samling stilmallar.
+StyleSheetList‑gränssnittet tillhandahåller abstraktionen av en ordnad samling av stilmallar.
 
 ```csharp
-public interface IStyleSheetList : IEnumerable<IStyleSheet>
+public interface IStyleSheetList : IEnumerable<ICSSStyleSheet>
 ```
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/istylesheetlist/item/) { get; } | Används för att hämta en stilmall efter metodobjekt (int index) enligt http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html. |
-| [Length](../../aspose.svg.dom.css/istylesheetlist/length/) { get; } | Antalet StyleSheets i listan. Utbudet av giltiga underordnade stilmallsindex är 0 till och med längd-1. |
+| [Item](../../aspose.svg.dom.css/istylesheetlist/item/) { get; } | Används för att hämta ett stilark med metoden item(int index) enligt http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html. |
+| [Length](../../aspose.svg.dom.css/istylesheetlist/length/) { get; } | Antalet stilark i listan. Intervallet för giltiga underordnade stilarksindex är 0 till length‑1 inklusive. |
 
 ### Se även
 
-* interface [IStyleSheet](../istylesheet/)
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* interface [ICSSStyleSheet](../icssstylesheet/)
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

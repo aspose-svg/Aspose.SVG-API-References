@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.StringRepresentation
-second_title: Aspose.SVG för .NET API Referens
-description: GlyphInfo fast egendom. Hämtar strängrepresentationen av denna glyph.
+title: "GlyphInfo.StringRepresentation"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GlyphInfo StringRepresentation-egenskap. Hämtar strängrepresentationen av denna glyf"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.rendering/glyphinfo/stringrepresentation/
 ---
 ## GlyphInfo.StringRepresentation property
 
-Hämtar strängrepresentationen av denna glyph.
+Hämtar strängrepresentationen av detta tecken.
 
 ```csharp
 public string StringRepresentation { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-AString som representerar denna glyph.
+En sträng som representerar denna glyf.
 
 ### Se även
 
 * struct [GlyphInfo](../)
-* namnutrymme [Aspose.Svg.Rendering](../../glyphinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

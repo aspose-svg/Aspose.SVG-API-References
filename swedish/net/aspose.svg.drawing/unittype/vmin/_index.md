@@ -1,14 +1,14 @@
 ---
-title: UnitType.Vmin
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Måtten är relativt 1  av visningsportens mindre dimension Prova it
+title: "UnitType.Vmin"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Vmin‑fält. Måttet är relativt till 1 av visningsområdets mindre dimension. Prova det"
 type: docs
 weight: 290
 url: /sv/net/aspose.svg.drawing/unittype/vmin/
 ---
 ## UnitType.Vmin field
 
-Måtten är relativt 1 % av visningsportens* mindre dimension Prova it
+Mätning är relativ till 1 % av viewportens* mindre dimension Prova det
 
 ```csharp
 public static readonly UnitType Vmin;
@@ -17,7 +17,5 @@ public static readonly UnitType Vmin;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

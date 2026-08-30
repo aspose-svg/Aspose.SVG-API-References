@@ -1,14 +1,14 @@
 ---
-title: SVGZoomEvent.NewScale
-second_title: Aspose.SVG för .NET API Referens
-description: SVGZoomEvent fast egendom. Skalfaktorn som kommer att vara på plats efter att zoomoperationen har bearbetats.
+title: "SVGZoomEvent.NewScale"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGZoomEvent NewScale-egenskap. Skalfaktorn som kommer att vara i kraft efter att zoomoperationen har bearbetats."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.events/svgzoomevent/newscale/
 ---
 ## SVGZoomEvent.NewScale property
 
-Skalfaktorn som kommer att vara på plats efter att zoomoperationen har bearbetats.
+Skalfaktorn som kommer att vara i kraft efter att zoomoperationen har behandlats.
 
 ```csharp
 public float NewScale { get; }
@@ -17,7 +17,5 @@ public float NewScale { get; }
 ### Se även
 
 * class [SVGZoomEvent](../)
-* namnutrymme [Aspose.Svg.Events](../../svgzoomevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

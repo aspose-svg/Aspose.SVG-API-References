@@ -1,27 +1,25 @@
 ---
-title: ResponseMessage.IsSuccess
-second_title: Aspose.SVG för .NET API Referens
-description: ResponseMessage fast egendom. Får ett värde som indikerar om detta meddelande är framgångsrikt.
+title: "ResponseMessage.IsSuccess"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ResponseMessage IsSuccess-egenskap. Hämtar ett värde som indikerar om detta meddelande är lyckat"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.net/responsemessage/issuccess/
 ---
 ## ResponseMessage.IsSuccess property
 
-Får ett värde som indikerar om detta meddelande är framgångsrikt.
+Hämtar ett värde som indikerar om detta meddelande är lyckat.
 
 ```csharp
 public bool IsSuccess { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är framgångsrik; annat,`falsk` .
+`true` om denna instans är lyckad; annars `false`.
 
 ### Se även
 
 * class [ResponseMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../responsemessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

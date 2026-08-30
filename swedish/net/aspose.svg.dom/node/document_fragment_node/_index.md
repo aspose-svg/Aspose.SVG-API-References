@@ -1,14 +1,14 @@
 ---
-title: Node.DOCUMENT_FRAGMENT_NODE
-second_title: Aspose.SVG för .NET API Referens
-description: Node fält. Ett dokumentfragment node
+title: "Node.DOCUMENT_FRAGMENT_NODE"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node DOCUMENT_FRAGMENT_NODE‑fält. En dokumentfragmentnod"
 type: docs
-weight: 350
+weight: 330
 url: /sv/net/aspose.svg.dom/node/document_fragment_node/
 ---
 ## Node.DOCUMENT_FRAGMENT_NODE field
 
-Ett dokumentfragment node
+En dokumentfragmentnod
 
 ```csharp
 public const ushort DOCUMENT_FRAGMENT_NODE;
@@ -17,7 +17,5 @@ public const ushort DOCUMENT_FRAGMENT_NODE;
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

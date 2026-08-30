@@ -1,14 +1,14 @@
 ---
-title: UnitType.Q
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Mätningen är i kvartsmillimeter
+title: "UnitType.Q"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Q-fält. Mätning är i kvartmillimeter"
 type: docs
 weight: 210
 url: /sv/net/aspose.svg.drawing/unittype/q/
 ---
 ## UnitType.Q field
 
-Mätningen är i kvartsmillimeter
+Mätning är i kvart-millimeter
 
 ```csharp
 public static readonly UnitType Q;
@@ -17,7 +17,5 @@ public static readonly UnitType Q;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

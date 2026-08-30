@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.LineHeight
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se linjehöjdsegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.LineHeight"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties LineHeight-egenskap. Se definitionen av line-height property i CSS2"
 type: docs
-weight: 580
+weight: 610
 url: /sv/net/aspose.svg.dom.css/icss2properties/lineheight/
 ---
 ## ICSS2Properties.LineHeight property
 
-Se linjehöjdsegenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen line-height i CSS2.
 
 ```csharp
 public string LineHeight { get; set; }
@@ -16,12 +16,10 @@ public string LineHeight { get; set; }
 
 ### Returvärde
 
-linjehöjdsegenskap
+line-height egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

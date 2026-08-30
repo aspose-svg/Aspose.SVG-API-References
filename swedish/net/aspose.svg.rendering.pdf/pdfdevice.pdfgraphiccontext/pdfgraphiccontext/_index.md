@@ -1,14 +1,14 @@
 ---
-title: PdfDevice.PdfGraphicContext.PdfGraphicContext
-second_title: Aspose.SVG för .NET API Referens
-description: PdfGraphicContext byggare. Default_Constructor
+title: "PdfDevice.PdfGraphicContext.PdfGraphicContext"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfGraphicContext‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public PdfGraphicContext()
@@ -17,7 +17,5 @@ public PdfGraphicContext()
 ### Se även
 
 * class [PdfGraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

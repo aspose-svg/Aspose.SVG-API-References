@@ -1,14 +1,14 @@
 ---
-title: Color.Equals
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Bestämmer om den angivnaColor är lika med denna instans.
+title: "Color.Equals"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color Equals method. Avgör om den angivna Color är lika med detta objekt"
 type: docs
 weight: 300
 url: /sv/net/aspose.svg.drawing/color/equals/
 ---
 ## Color.Equals method
 
-Bestämmer om den angivna[`Color`](../) är lika med denna instans.
+Avgör om den angivna [`Color`](../) är lika med detta objekt.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Objekt | Objektet att jämföra med den här instansen. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk`.
+`sant` om det angivna objektet är lika med den här instansen; annars, `falskt`.
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

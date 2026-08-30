@@ -1,7 +1,7 @@
 ---
-title: DocumentType.PublicId
-second_title: Aspose.SVG för .NET API Referens
-description: DocumentType fast egendom. Den offentliga identifieraren för den externa delmängden.
+title: "DocumentType.PublicId"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DocumentType PublicId-egenskap. Den offentliga identifieraren för den externa delmängden"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom/documenttype/publicid/
@@ -14,14 +14,12 @@ Den offentliga identifieraren för den externa delmängden.
 public string PublicId { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den offentliga identifieraren.
 
 ### Se även
 
 * class [DocumentType](../)
-* namnutrymme [Aspose.Svg.Dom](../../documenttype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

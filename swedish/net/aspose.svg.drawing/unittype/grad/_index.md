@@ -1,14 +1,14 @@
 ---
-title: UnitType.Grad
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Måtten är i toningar.
+title: "UnitType.Grad"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Grad‑fält. Måttet är i gradianer"
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.drawing/unittype/grad/
 ---
 ## UnitType.Grad field
 
-Måtten är i toningar.
+Mätning är i gradianer.
 
 ```csharp
 public static readonly UnitType Grad;
@@ -17,7 +17,5 @@ public static readonly UnitType Grad;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: ICSSKeyframesRule.CSSRules
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSKeyframesRule fast egendom. Det här attributet ger åtkomst till nyckelbildrutorna i listan
+title: "ICSSKeyframesRule.CSSRules"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSKeyframesRule CSSRules-egenskap. Detta attribut ger åtkomst till keyframes i listan."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icsskeyframesrule/cssrules/
 ---
 ## ICSSKeyframesRule.CSSRules property
 
-Det här attributet ger åtkomst till nyckelbildrutorna i listan
+Detta attribut ger åtkomst till nyckelramarna i listan.
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 CSS-reglerna.
 
@@ -22,7 +22,5 @@ CSS-reglerna.
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSKeyframesRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

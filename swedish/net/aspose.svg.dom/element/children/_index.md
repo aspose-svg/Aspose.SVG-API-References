@@ -1,20 +1,20 @@
 ---
-title: Element.Children
-second_title: Aspose.SVG för .NET API Referens
-description: Element fast egendom. Returnerar de underordnade elementen för det aktuella elementet.
+title: "Element.Children"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element Children-egenskapen. Returnerar barn-elementen för det aktuella elementet."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom/element/children/
 ---
 ## Element.Children property
 
-Returnerar de underordnade elementen för det aktuella elementet.
+Returnerar barn-elementen för det aktuella elementet.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Barnsamlingen
 
@@ -22,7 +22,5 @@ Barnsamlingen
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: HTMLCollection.Length
-second_title: Aspose.SVG för .NET API Referens
-description: HTMLCollection fast egendom. Antalet noder i listan.
+title: "HTMLCollection.Length"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "HTMLCollection Length-egenskapen. Antalet noder i listan."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.collections/htmlcollection/length/
@@ -17,7 +17,5 @@ public abstract int Length { get; }
 ### Se även
 
 * class [HTMLCollection](../)
-* namnutrymme [Aspose.Svg.Collections](../../htmlcollection/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

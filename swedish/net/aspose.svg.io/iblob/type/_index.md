@@ -1,14 +1,14 @@
 ---
-title: IBlob.Type
-second_title: Aspose.SVG för .NET API Referens
-description: IBlob fast egendom. Den ASCIIkodade strängen med små bokstäver som representerar mediatypen för Blob. När användaragenter hämtar måste användaragenter returnera typen av Blob som en ASCIIkodad sträng med gemener så att när den konverteras till en byte sekvens är det en parserbar MIMEtyp eller den tomma strängen  0 byte  om typen inte kan fastställas.
+title: "IBlob.Type"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IBlob Type-egenskapen. Den ASCII‑kodade strängen i gemener som representerar Blob‑ens mediatyp. Vid hämtning måste användaragenter returnera typen av en Blob som en ASCII‑kodad sträng i gemener så att den, när den konverteras till en byte‑sekvens, är en parsbar MIME‑typ eller den tomma strängen (0 byte) om typen inte kan bestämmas"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.io/iblob/type/
 ---
 ## IBlob.Type property
 
-Den ASCII-kodade strängen med små bokstäver som representerar mediatypen för Blob. När användaragenter hämtar, måste användaragenter returnera typen av Blob som en ASCII-kodad sträng med gemener, så att när den konverteras till en byte sekvens är det en parserbar MIME-typ, eller den tomma strängen – 0 byte – om typen inte kan fastställas.
+Den ASCII‑kodade strängen i gemener som representerar Blob‑objektets mediatyp. Vid hämtning måste användaragenter returnera typen för en Blob som en ASCII‑kodad sträng i gemener, så att den vid konvertering till en byte‑sekvens blir en parsbar MIME‑typ, eller den tomma strängen – 0 byte – om typen inte kan bestämmas.
 
 ```csharp
 public string Type { get; }
@@ -17,7 +17,5 @@ public string Type { get; }
 ### Se även
 
 * interface [IBlob](../)
-* namnutrymme [Aspose.Svg.IO](../../iblob/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

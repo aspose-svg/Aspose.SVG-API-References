@@ -1,14 +1,14 @@
 ---
-title: Class Renderer
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.Renderer klass. Representerar en basklass för alla renderare och implemnter IDdisposable interface.
+title: "Renderer klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.Renderer klass. Representerar en basklass för alla renderare och implementerar IDisposable-gränssnittet"
 type: docs
-weight: 2990
+weight: 5060
 url: /sv/net/aspose.svg.rendering/renderer/
 ---
 ## Renderer class
 
-Representerar en basklass för alla renderare och implemnter IDdisposable interface.
+Representerar en basklass för alla renderare och implementerar IDisposable‑gränssnittet.
 
 ```csharp
 public class Renderer : IDisposable
@@ -16,19 +16,17 @@ public class Renderer : IDisposable
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Renderer](renderer/)() | Default_Constructor |
+| [Renderer](renderer/)() | Standardkonstruktorn. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnFocus
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnFocushändelse.
+title: "IGlobalEventHandlers.OnFocus"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnFocus händelse. Hämtar eller anger händelsehanterare för OnFocus händelse."
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/onfocus/
 ---
 ## IGlobalEventHandlers.OnFocus event
 
-Hämtar eller ställer in händelsehanterare för OnFocus-händelse.
+Hämtar eller anger händelsehanterare för OnFocus‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnFocus;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnFocus;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

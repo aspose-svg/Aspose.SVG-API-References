@@ -1,14 +1,14 @@
 ---
-title: DOMNameAttribute.DOMNameAttribute
-second_title: Aspose.SVG för .NET API Referens
-description: DOMNameAttribute byggare. Initierar en ny instans avDOMNameAttribute class.
+title: "DOMNameAttribute"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMNameAttribute-konstruktor. Skapar en ny instans av klassen DOMNameAttribute."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
 
-Initierar en ny instans av[`DOMNameAttribute`](../) class.
+Skapar en ny instans av klassen [`DOMNameAttribute`](../).
 
 ```csharp
 public DOMNameAttribute(string name)
@@ -16,12 +16,10 @@ public DOMNameAttribute(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | DOM-namnet. |
+| namn | String | DOM-namnet. |
 
 ### Se även
 
 * class [DOMNameAttribute](../)
-* namnutrymme [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnShow
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnShowhändelse.
+title: "Document.OnShow"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnShow‑händelse. Hämtar eller anger händelsehanterare för OnShow‑händelsen"
 type: docs
 weight: 710
 url: /sv/net/aspose.svg.dom/document/onshow/
 ---
 ## Document.OnShow event
 
-Hämtar eller ställer in händelsehanterare för OnShow-händelse.
+Hämtar eller anger händelsehanterare för OnShow‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnShow;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnShow;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

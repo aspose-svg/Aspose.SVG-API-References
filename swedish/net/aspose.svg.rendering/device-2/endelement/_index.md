@@ -1,28 +1,26 @@
 ---
-title: Device2.EndElement
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Avslutar renderingen av noden.
+title: "Device-2.EndElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device EndElement-metod. Avslutar rendering av noden"
 type: docs
-weight: 130
+weight: 160
 url: /sv/net/aspose.svg.rendering/device-2/endelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
+## Device<TGraphicContext,TRenderingOptions>.EndElement method
 
-Avslutar renderingen av noden.
+Avslutar rendering av noden.
 
 ```csharp
-public abstract void EndElement(Element element)
+public virtual void EndElement(Element element)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| element | Element | De[`Element`](../../../aspose.svg.dom/element/). |
+| element | Element | Den [`Element`](../../../aspose.svg.dom/element/). |
 
 ### Se även
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

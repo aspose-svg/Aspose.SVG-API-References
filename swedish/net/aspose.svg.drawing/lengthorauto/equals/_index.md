@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.Equals
-second_title: Aspose.SVG för .NET API Referens
-description: LengthOrAuto metod. Bestämmer om den angivnaUnit  är lika med denna instans.
+title: "LengthOrAuto.Equals"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "LengthOrAuto Equals‑metod. Avgör om den angivna Unit är lika med detta objekt"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.drawing/lengthorauto/equals/
 ---
 ## LengthOrAuto.Equals method
 
-Bestämmer om den angivna[`Unit`](../../unit/) , är lika med denna instans.
+Avgör om den angivna [`Unit`](../../unit/) är lika med den här instansen.
 
 ```csharp
 public override bool Equals(Unit other)
@@ -16,17 +16,15 @@ public override bool Equals(Unit other)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| other | Unit | De[`Unit`](../../unit/) att jämföra med det här exemplet. |
+| other | Unit | Den [`Unit`](../../unit/) som ska jämföras med den här instansen. |
 
 ### Returvärde
 
-`Sann` om det angivna[`Unit`](../../unit/) är lika med denna instans; annat,`falsk` .
+`true` om den angivna [`Unit`](../../unit/) är lika med den här instansen; annars `false`.
 
 ### Se även
 
 * class [Unit](../../unit/)
 * class [LengthOrAuto](../)
-* namnutrymme [Aspose.Svg.Drawing](../../lengthorauto/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

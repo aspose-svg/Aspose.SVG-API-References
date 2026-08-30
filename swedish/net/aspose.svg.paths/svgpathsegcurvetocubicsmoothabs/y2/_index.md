@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegCurvetoCubicSmoothAbs.Y2
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathSegCurvetoCubicSmoothAbs fast egendom. Den absoluta Ykoordinaten för den andra kontrollpunkten.
+title: "SVGPathSegCurvetoCubicSmoothAbs.Y2"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathSegCurvetoCubicSmoothAbs Y2 egenskap. Den absoluta Y-koordinaten för den andra kontrollpunkten"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/y2/
@@ -14,20 +14,18 @@ Den absoluta Y-koordinaten för den andra kontrollpunkten.
 public float Y2 { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den absoluta Y-koordinaten.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Höjd vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstått vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGPathSegCurvetoCubicSmoothAbs](../)
-* namnutrymme [Aspose.Svg.Paths](../../svgpathsegcurvetocubicsmoothabs/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

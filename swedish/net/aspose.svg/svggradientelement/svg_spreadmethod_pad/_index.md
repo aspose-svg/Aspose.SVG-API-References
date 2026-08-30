@@ -1,7 +1,7 @@
 ---
-title: SVGGradientElement.SVG_SPREADMETHOD_PAD
-second_title: Aspose.SVG för .NET API Referens
-description: SVGGradientElement fält. Motsvarar värdet pad.
+title: "SVGGradientElement.SVG_SPREADMETHOD_PAD"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGGradientElement SVG_SPREADMETHOD_PAD-fält. Motsvarar värdet pad."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/svggradientelement/svg_spreadmethod_pad/
@@ -17,7 +17,5 @@ public const ushort SVG_SPREADMETHOD_PAD;
 ### Se även
 
 * class [SVGGradientElement](../)
-* namnutrymme [Aspose.Svg](../../svggradientelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

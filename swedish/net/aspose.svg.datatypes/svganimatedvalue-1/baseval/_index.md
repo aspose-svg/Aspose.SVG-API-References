@@ -1,27 +1,25 @@
 ---
-title: SVGAnimatedValue1.BaseVal
-second_title: Aspose.SVG för .NET API Referens
-description: SVGAnimatedValue fast egendom. Basvärdet för det givna attributet innan några animeringar används.
+title: "SVGAnimatedValue-1.BaseVal"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGAnimatedValue BaseVal‑egenskapen. Grundvärdet för det angivna attributet innan några animationer tillämpas."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.datatypes/svganimatedvalue-1/baseval/
 ---
-## SVGAnimatedValue&lt;T&gt;.BaseVal property
+## SVGAnimatedValue<T>.BaseVal property
 
-Basvärdet för det givna attributet innan några animeringar används.
+Grundvärdet för det angivna attributet innan några animationer tillämpas.
 
 ```csharp
 public T BaseVal { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [basvärde]; annat,`falsk` .
+`true` om [base value]; annars, `false`.
 
 ### Se även
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svganimatedvalue-1/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

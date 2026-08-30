@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.HorizontalResolution
-second_title: Aspose.SVG för .NET API Referens
-description: RenderingOptions fast egendom. Ställer in eller får horisontell upplösning för interna som används under filterbearbetning bilder i pixlar per tum. Som standard är den här egenskapen 300 dpi.
+title: "RenderingOptions.HorizontalResolution"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RenderingOptions HorizontalResolution-egenskap. Anger eller hämtar horisontell upplösning för intern användning som används vid filterbehandling av bilder i pixlar per tum. Standardvärdet för denna egenskap är 300 dpi."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.rendering/renderingoptions/horizontalresolution/
 ---
 ## RenderingOptions.HorizontalResolution property
 
-Ställer in eller får horisontell upplösning för interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är den här egenskapen 300 dpi.
+Anger eller hämtar horisontell upplösning för interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är denna egenskap 300 dpi.
 
 ```csharp
 public virtual Resolution HorizontalResolution { get; set; }
@@ -18,7 +18,5 @@ public virtual Resolution HorizontalResolution { get; set; }
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * class [RenderingOptions](../)
-* namnutrymme [Aspose.Svg.Rendering](../../renderingoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

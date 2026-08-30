@@ -1,27 +1,25 @@
 ---
-title: DocumentFragment.OuterHTML
-second_title: Aspose.SVG för .NET API Referens
-description: DocumentFragment fast egendom. Returnerar ett fragment av HTML eller XML som representerar elementet och dess innehåll. Kan ställas in för att ersätta elementet med noder tolkade från den givna strängen.
+title: "DocumentFragment.OuterHTML"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DocumentFragment OuterHTML-egenskapen. Returnerar ett fragment av HTML eller XML som representerar elementet och dess innehåll. Kan sättas för att ersätta elementet med noder som parsas från den angivna strängen"
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.dom/documentfragment/outerhtml/
 ---
 ## DocumentFragment.OuterHTML property
 
-Returnerar ett fragment av HTML eller XML som representerar elementet och dess innehåll. Kan ställas in för att ersätta elementet med noder tolkade från den givna strängen.
+Returnerar ett fragment av HTML eller XML som representerar elementet och dess innehåll. Kan sättas för att ersätta elementet med noder som parsas från den givna strängen.
 
 ```csharp
 public string OuterHTML { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den yttre HTML.
+Den yttre HTML:n.
 
 ### Se även
 
 * class [DocumentFragment](../)
-* namnutrymme [Aspose.Svg.Dom](../../documentfragment/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

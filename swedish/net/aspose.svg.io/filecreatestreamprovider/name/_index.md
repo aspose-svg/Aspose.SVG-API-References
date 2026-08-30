@@ -1,27 +1,25 @@
 ---
-title: FileCreateStreamProvider.Name
-second_title: Aspose.SVG för .NET API Referens
-description: FileCreateStreamProvider fast egendom. Hämtar eller ställer in namnet.
+title: "FileCreateStreamProvider.Name"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FileCreateStreamProvider Name egenskap. Hämtar eller anger namnet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.io/filecreatestreamprovider/name/
 ---
 ## FileCreateStreamProvider.Name property
 
-Hämtar eller ställer in namnet.
+Hämtar eller anger namnet.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet.
 
 ### Se även
 
 * class [FileCreateStreamProvider](../)
-* namnutrymme [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

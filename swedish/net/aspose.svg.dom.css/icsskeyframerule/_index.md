@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSKeyframeRule
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.ICSSKeyframeRule gränssnitt. CSSKeyframeRulegränssnittet representerar stilregeln för en enda nyckel.
+title: "ICSSKeyframeRule‑gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.ICSSKeyframeRule‑gränssnitt. CSSKeyframeRule‑gränssnittet representerar stilregeln för en enskild nyckel."
 type: docs
-weight: 570
+weight: 2570
 url: /sv/net/aspose.svg.dom.css/icsskeyframerule/
 ---
 ## ICSSKeyframeRule interface
 
-CSSKeyframeRule-gränssnittet representerar stilregeln för en enda nyckel.
+CSSKeyframeRule-gränssnittet representerar stilregeln för en enskild nyckel.
 
 ```csharp
 public interface ICSSKeyframeRule : ICSSRule
@@ -16,15 +16,13 @@ public interface ICSSKeyframeRule : ICSSRule
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [KeyText](../../aspose.svg.dom.css/icsskeyframerule/keytext/) { get; } | Det här attributet representerar nyckelbildsväljaren som en kommaseparerad lista med procentvärden. Nyckelorden "från" och "till" mappas till "0%" respektive "100%". |
-| [Style](../../aspose.svg.dom.css/icsskeyframerule/style/) { get; } | Det här attributet representerar stilen som är associerad med denna nyckelbildruta. |
+| [KeyText](../../aspose.svg.dom.css/icsskeyframerule/keytext/) { get; } | Detta attribut representerar nyckelramväljaren som en kommaseparerad lista av procentvärden. Nyckelorden ‘from’ och ‘to’ motsvarar respektive ‘0%’ och ‘100%’. |
+| [Style](../../aspose.svg.dom.css/icsskeyframerule/style/) { get; } | Detta attribut representerar den stil som är associerad med denna nyckelram. |
 
 ### Se även
 
 * interface [ICSSRule](../icssrule/)
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

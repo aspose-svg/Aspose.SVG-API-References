@@ -1,14 +1,14 @@
 ---
-title: Document.StyleSheets
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. En lista som innehåller alla stilmallar som är explicit länkade till eller inbäddade i ett dokument. För HTMLdokument inkluderar detta externa stilmallar inkluderade via HTML LINKelementet och inline STYLEelement.
+title: "Document.StyleSheets"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document StyleSheets‑egenskapen. En lista som innehåller alla stilmallar som uttryckligen länkas in eller bäddas in i ett dokument. För HTML‑dokument inkluderar detta externa stilmallar som inkluderas via HTML‑LINK‑elementet och inbäddade STYLE‑element."
 type: docs
 weight: 250
 url: /sv/net/aspose.svg.dom/document/stylesheets/
 ---
 ## Document.StyleSheets property
 
-En lista som innehåller alla stilmallar som är explicit länkade till eller inbäddade i ett dokument. För HTML-dokument inkluderar detta externa stilmallar, inkluderade via HTML LINK-elementet, och inline STYLE-element.
+En lista som innehåller alla stilmallar som uttryckligen länkas in eller bäddas in i ett dokument. För HTML‑dokument inkluderar detta externa stilmallar, inkluderade via HTML‑LINK‑elementet, samt inbäddade STYLE‑element.
 
 ```csharp
 public IStyleSheetList StyleSheets { get; }
@@ -18,7 +18,5 @@ public IStyleSheetList StyleSheets { get; }
 
 * interface [IStyleSheetList](../../../aspose.svg.dom.css/istylesheetlist/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

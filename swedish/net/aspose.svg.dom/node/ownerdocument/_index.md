@@ -1,24 +1,34 @@
 ---
-title: Node.OwnerDocument
-second_title: Aspose.SVG för .NET API Referens
-description: Node fast egendom. Dokumentobjektet som är associerat med denna nod. Detta är också dokumentobjektet som används för att skapa nya noder. När denna nod är ett dokument eller en DocumentType som inte används med något dokument ännu är detta null.
+title: "Node.OwnerDocument"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node OwnerDocument‑egenskap. Returnerar nodens översta dokumentobjekt."
 type: docs
-weight: 120
+weight: 110
 url: /sv/net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-Dokumentobjektet som är associerat med denna nod. Detta är också dokumentobjektet som används för att skapa nya noder. När denna nod är ett dokument eller en DocumentType som inte används med något dokument ännu, är detta null.
+Returnerar top-nivå dokumentobjektet för noden.
 
 ```csharp
 public virtual Document OwnerDocument { get; }
 ```
 
+### Property Value
+
+Ett [`Document`](../../document/) som är det översta objektet där alla barnnoder skapas.
+
+Om denna egenskap används på en nod som själv är ett dokument, är värdet null.
+
+## Anmärkningar
+
+Referens:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
+
 ### Se även
 
 * class [Document](../../document/)
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IWindowTimers.SetInterval
-second_title: Aspose.SVG för .NET API Referens
-description: IWindowTimers metod. Schemalägger en timeout för att köra hanteraren varje timeout millisekunder. Eventuella argument skickas rakt igenom till hanteraren.
+title: "IWindowTimers.SetInterval"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindowTimers SetInterval method. Schemalägger en timeout för att köra handler var timeout millisekunder. Alla argument skickas vidare direkt till handler."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.window/iwindowtimers/setinterval/
 ---
 ## IWindowTimers.SetInterval method
 
-Schemalägger en timeout för att köra hanteraren varje timeout millisekunder. Eventuella argument skickas rakt igenom till hanteraren.
+Schemalägger en timeout för att köra handler var timeout‑millisekund. Alla argument vidarebefordras direkt till handlern.
 
 ```csharp
 public int SetInterval(object handler, int timeout, params object[] args)
@@ -16,7 +16,7 @@ public int SetInterval(object handler, int timeout, params object[] args)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| handler | Object | Hanteraren. |
+| handler | Objekt | Handlern. |
 | timeout | Int32 | Timeouten. |
 | args | Object[] | Argumenten. |
 
@@ -27,7 +27,5 @@ Handtaget
 ### Se även
 
 * interface [IWindowTimers](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindowtimers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

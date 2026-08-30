@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathElement metod. Returnerar ett fristående föräldralöst SVGPathSegLinetoHorizontalAbsobjekt.
+title: "SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathElement CreateSVGPathSegLinetoHorizontalAbs metod. Returnerar ett fristående, föräldralöst SVGPathSegLinetoHorizontalAbs-objekt"
 type: docs
 weight: 150
 url: /sv/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalabs/
@@ -16,7 +16,7 @@ public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | Den absoluta X-koordinaten för slutpunkten för detta vägsegment. |
+| x | Single | Den absoluta X-koordinaten för slutpunkten av detta segment. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Ett fristående, föräldralöst SVGPathSegLinetoHorizontalAbs-objekt.
 
 * class [SVGPathSegLinetoHorizontalAbs](../../../aspose.svg.paths/svgpathseglinetohorizontalabs/)
 * class [SVGPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathOptimizationOptions.ArcBuildingTolerance
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathOptimizationOptions fast egendom. Hämtar eller ställer in parametervärdet som används som procentandel av radien för att ersätta Beziersegment med bågsegment. Det är 05 som standard.
+title: "SVGPathOptimizationOptions.ArcBuildingTolerance"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathOptimizationOptions ArcBuildingTolerance-egenskapen. Hämtar eller anger parametervärdet som används som procentandel av radien för att ersätta Bezier-segment med bågsegment. Standardvärdet är 0,5."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/
 ---
 ## SVGPathOptimizationOptions.ArcBuildingTolerance property
 
-Hämtar eller ställer in parametervärdet som används som procentandel av radien för att ersätta Bezier-segment med bågsegment. Det är '0,5' som standard.
+Hämtar eller anger parametervärdet som används som procentandel av radien för att ersätta Bezier-segment med bågsegment. Standardvärdet är '0.5'.
 
 ```csharp
 public float ArcBuildingTolerance { get; set; }
@@ -17,7 +17,5 @@ public float ArcBuildingTolerance { get; set; }
 ### Se även
 
 * class [SVGPathOptimizationOptions](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

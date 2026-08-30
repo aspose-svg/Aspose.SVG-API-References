@@ -1,14 +1,14 @@
 ---
-title: Text.SplitText
-second_title: Aspose.SVG för .NET API Referens
-description: Text metod. Delar upp denna nod i två noder med angiven förskjutning och behåller båda i trädet som syskon.
+title: "Text.SplitText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Text SplitText metod. Delar den här noden i två noder vid den angivna förskjutningen och behåller båda i trädet som syskon"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.dom/text/splittext/
 ---
 ## Text.SplitText method
 
-Delar upp denna nod i två noder med angiven förskjutning, och behåller båda i trädet som syskon.
+Delar upp den här noden i två noder vid den angivna förskjutningen och behåller båda i trädet som syskon.
 
 ```csharp
 public Text SplitText(int offset)
@@ -16,16 +16,14 @@ public Text SplitText(int offset)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| offset | Int32 | Offset. |
+| offset | Int32 | Förskjutningen. |
 
 ### Returvärde
 
-Den[`Text`](../) .
+Den [`Text`](../).
 
 ### Se även
 
 * class [Text](../)
-* namnutrymme [Aspose.Svg.Dom](../../text/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Direction
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se riktningsegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Direction"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Direction egenskap. Se definitionen av direction egenskap i CSS2"
 type: docs
 weight: 420
 url: /sv/net/aspose.svg.dom.css/icss2properties/direction/
 ---
 ## ICSS2Properties.Direction property
 
-Se riktningsegenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen direction i CSS2.
 
 ```csharp
 public string Direction { get; set; }
@@ -16,12 +16,10 @@ public string Direction { get; set; }
 
 ### Returvärde
 
-riktning egendom
+direction egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

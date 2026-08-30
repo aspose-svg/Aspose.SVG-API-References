@@ -1,14 +1,14 @@
 ---
-title: Document.WriteLn
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skriv en textsträng följt av ett nyradstecken till en document ström som öppnas av open. Observera att funktionen kommer att producera ett dokument som inte nödvändigtvis drivs av en DTD och därför kan ge ett ogiltigt resultat i sammanhanget av document
+title: "Document.WriteLn"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document WriteLn‑metod. Skriver en textsträng följt av ett radbrytningstecken till en dokumentström som öppnats med open. Observera att funktionen kan producera ett dokument som inte nödvändigtvis styrs av en DTD och därför kan ge ett ogiltigt resultat i dokumentets sammanhang."
 type: docs
-weight: 1060
+weight: 1070
 url: /sv/net/aspose.svg.dom/document/writeln/
 ---
 ## Document.WriteLn method
 
-Skriv en textsträng följt av ett nyradstecken till en document -ström som öppnas av open(). Observera att funktionen kommer att producera ett dokument som inte nödvändigtvis drivs av en DTD och därför kan ge ett ogiltigt resultat i sammanhanget av document
+Skriv en textsträng följd av ett radbrytningstecken till ett dokumentflöde som öppnats med open(). Observera att funktionen kan producera ett dokument som inte nödvändigtvis styrs av en DTD och därför kan ge ett ogiltigt resultat i dokumentets sammanhang.
 
 ```csharp
 public void WriteLn(params string[] texts)
@@ -16,12 +16,10 @@ public void WriteLn(params string[] texts)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| texts | String[] | Strängen som ska tolkas till någon struktur i dokumentstrukturmodellen . |
+| texts | String[] | Strängen som ska parsas till någon struktur i dokumentstrukturmodellen. |
 
 ### Se även
 
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.RemoveNamedItemNS
-second_title: Aspose.SVG för .NET API Referens
-description: NamedNodeMap metod. Tar bort en nod specificerad av lokalt namn och namnrymds URI.
+title: "NamedNodeMap.RemoveNamedItemNS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NamedNodeMap RemoveNamedItemNS-metoden. Tar bort en nod som specificeras av lokalt namn och namnrymds-URI."
 type: docs
-weight: 70
+weight: 60
 url: /sv/net/aspose.svg.collections/namednodemap/removenameditemns/
 ---
 ## NamedNodeMap.RemoveNamedItemNS method
 
-Tar bort en nod specificerad av lokalt namn och namnrymds URI.
+Tar bort en nod som specificeras av lokalt namn och namnrymds‑URI.
 
 ```csharp
 public Attr RemoveNamedItemNS(string namespaceURI, string localName)
@@ -16,8 +16,8 @@ public Attr RemoveNamedItemNS(string namespaceURI, string localName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceURI | String | Namnutrymmets URI. |
-| localName | String | Lokalens namn. |
+| namespaceURI | String | Namnrymd‑URI:n. |
+| localName | String | Namnet på den lokala. |
 
 ### Returvärde
 
@@ -27,7 +27,5 @@ Returnerar nod.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namnutrymme [Aspose.Svg.Collections](../../namednodemap/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

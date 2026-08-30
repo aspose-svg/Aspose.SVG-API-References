@@ -1,14 +1,14 @@
 ---
-title: Class ProtocolMessageFilter
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter klass. Representerar implementering av meddelandefilter av resursprotokollet.
+title: "ProtocolMessageFilter-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.MessageFilters.ProtocolMessageFilter-klass. Representerar implementering av meddelandefilter via resursprotokollet"
 type: docs
-weight: 2330
+weight: 4400
 url: /sv/net/aspose.svg.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class
 
-Representerar implementering av meddelandefilter av resursprotokollet.
+Representerar implementering av meddelandefilter via resursprotokollet.
 
 ```csharp
 public class ProtocolMessageFilter : MessageFilter
@@ -16,20 +16,18 @@ public class ProtocolMessageFilter : MessageFilter
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter/)(params string[]) | Initierar en ny instans av`ProtocolMessageFilter` class. |
+| [ProtocolMessageFilter](protocolmessagefilter/)(*params string[]*) | Initierar en ny instans av klassen `ProtocolMessageFilter`. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(INetworkOperationContext) | När den åsidosätts i en härledd klass, testar den om en kontext uppfyller filterkriterierna. |
+| override [Match](../../aspose.svg.net.messagefilters/protocolmessagefilter/match/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | När den åsidosätts i en avledd klass testar den om ett Context uppfyller filterkriterierna. |
 
 ### Se även
 
 * class [MessageFilter](../../aspose.svg.net/messagefilter/)
-* namnutrymme [Aspose.Svg.Net.MessageFilters](../../aspose.svg.net.messagefilters/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageFilters](../../aspose.svg.net.messagefilters/)
+* assembly [Aspose.SVG](../../)

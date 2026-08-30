@@ -1,14 +1,14 @@
 ---
-title: ICSSRule.ParentStyleSheet
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSRule fast egendom. Stilmall som innehåller denna regel.
+title: "ICSSRule.ParentStyleSheet"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSRule ParentStyleSheet egenskap. Stilmallen som innehåller denna regel"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.css/icssrule/parentstylesheet/
 ---
 ## ICSSRule.ParentStyleSheet property
 
-Stilmall som innehåller denna regel.
+Stilmallen som innehåller denna regel.
 
 ```csharp
 public ICSSStyleSheet ParentStyleSheet { get; }
@@ -18,7 +18,5 @@ public ICSSStyleSheet ParentStyleSheet { get; }
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

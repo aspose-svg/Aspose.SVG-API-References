@@ -1,14 +1,14 @@
 ---
-title: ImageTraceSimplifier.Tolerance
-second_title: Aspose.SVG för .NET API Referens
-description: ImageTraceSimplifier fast egendom. Värdet på toleransen bestämmer den maximala feltoleransen som tillåts för en punkt som ska elimineras från spårning. Det måste vara i intervallet från 0 till 4. Eventuella högre eller lägre värden kommer att anpassas till minimi och maximivärdena för detta intervall. Standardvärdet är 03.
+title: "ImageTraceSimplifier.Tolerance"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageTraceSimplifier Tolerance‑egenskap. Toleransvärdet bestämmer den maximala felmarginal som får tillåtas för att en punkt ska elimineras från spåret. Den måste ligga i intervallet från 0 till 4. Alla högre eller lägre värden kommer att justeras till minimum- respektive maximumvärdena för detta intervall. Standardvärdet är 0.3."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.imagevectorization/imagetracesimplifier/tolerance/
 ---
 ## ImageTraceSimplifier.Tolerance property
 
-Värdet på toleransen bestämmer den maximala feltoleransen som tillåts för en punkt som ska elimineras från spårning. Det måste vara i intervallet från 0 till 4. Eventuella högre eller lägre värden kommer att anpassas till minimi- och maximivärdena för detta intervall. Standardvärdet är 0,3.
+Värdet på toleransen bestämmer den maximala felmarginal som tillåts för en punkt att elimineras från spårningen. Det måste ligga i intervallet från 0 till 4. Alla högre eller lägre värden kommer att justeras till minimum- och maximumvärdena i detta intervall, enligt detta. Standardvärdet är 0,3.
 
 ```csharp
 public float Tolerance { get; set; }
@@ -17,7 +17,5 @@ public float Tolerance { get; set; }
 ### Se även
 
 * class [ImageTraceSimplifier](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

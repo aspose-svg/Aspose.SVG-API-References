@@ -1,20 +1,20 @@
 ---
-title: IDeviceInformationService.VerticalResolution
-second_title: Aspose.SVG för .NET API Referens
-description: IDeviceInformationService fast egendom. Hämtar eller ställer in den vertikala upplösningen.
+title: "IDeviceInformationService.VerticalResolution"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDeviceInformationService VerticalResolution egenskap. Hämtar eller anger den vertikala upplösningen"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.services/ideviceinformationservice/verticalresolution/
 ---
 ## IDeviceInformationService.VerticalResolution property
 
-Hämtar eller ställer in den vertikala upplösningen.
+Hämtar eller anger den vertikala upplösningen.
 
 ```csharp
 public Resolution VerticalResolution { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den vertikala upplösningen.
 
@@ -22,7 +22,5 @@ Den vertikala upplösningen.
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* namnutrymme [Aspose.Svg.Services](../../ideviceinformationservice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

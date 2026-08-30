@@ -1,27 +1,25 @@
 ---
-title: UIEvent.Detail
-second_title: Aspose.SVG för .NET API Referens
-description: UIEvent fast egendom. Anger viss detaljinformation om händelsen beroende på typen av händelse.
+title: "UIEvent.Detail"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UIEvent Detail-egenskap. Anger viss detaljerad information om händelsen beroende på händelsetypen."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.events/uievent/detail/
 ---
 ## UIEvent.Detail property
 
-Anger viss detaljinformation om händelsen, beroende på typen av händelse.
+Anger viss detaljerad information om eventet, beroende på vilken typ av event det är.
 
 ```csharp
 public long Detail { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Detaljdata.
+Detaljinformationen.
 
 ### Se även
 
 * class [UIEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../uievent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

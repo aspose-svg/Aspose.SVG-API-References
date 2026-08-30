@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Background
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se bakgrundsegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Background"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Background egenskap. Se definitionen av background egenskapen i CSS2"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/icss2properties/background/
 ---
 ## ICSS2Properties.Background property
 
-Se bakgrundsegenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen background i CSS2.
 
 ```csharp
 public string Background { get; set; }
@@ -16,12 +16,10 @@ public string Background { get; set; }
 
 ### Returvärde
 
-bakgrundsegenskapen
+background egenskapen
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: DocumentFragment.NodeType
-second_title: Aspose.SVG för .NET API Referens
-description: DocumentFragment fast egendom. En kod som representerar typen av det underliggande objektet.
+title: "DocumentFragment.NodeType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DocumentFragment NodeType-egenskapen. En kod som representerar typen av det underliggande objektet"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.dom/documentfragment/nodetype/
@@ -14,14 +14,12 @@ En kod som representerar typen av det underliggande objektet.
 public override ushort NodeType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av nod.
+Typen av noden.
 
 ### Se även
 
 * class [DocumentFragment](../)
-* namnutrymme [Aspose.Svg.Dom](../../documentfragment/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

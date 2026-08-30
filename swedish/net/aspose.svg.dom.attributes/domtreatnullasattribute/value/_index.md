@@ -1,27 +1,25 @@
 ---
-title: DOMTreatNullAsAttribute.Value
-second_title: Aspose.SVG för .NET API Referens
-description: DOMTreatNullAsAttribute fast egendom. Hämtar eller ställer in värdet.
+title: "DOMTreatNullAsAttribute.Value"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMTreatNullAsAttribute Value-egenskap. Hämtar eller sätter värdet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.attributes/domtreatnullasattribute/value/
 ---
 ## DOMTreatNullAsAttribute.Value property
 
-Hämtar eller ställer in värdet.
+Hämtar eller anger värdet.
 
 ```csharp
 public object Value { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Värdet.
 
 ### Se även
 
 * class [DOMTreatNullAsAttribute](../)
-* namnutrymme [Aspose.Svg.Dom.Attributes](../../domtreatnullasattribute/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

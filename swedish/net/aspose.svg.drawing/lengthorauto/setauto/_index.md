@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.SetAuto
-second_title: Aspose.SVG för .NET API Referens
-description: LengthOrAuto metod. Återställer behållaren till status auto.
+title: "LengthOrAuto.SetAuto"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "LengthOrAuto SetAuto-metod. Återställer behållaren till auto-läge"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.drawing/lengthorauto/setauto/
 ---
 ## LengthOrAuto.SetAuto method
 
-Återställer behållaren till status "auto".
+Återställer behållaren till tillståndet 'auto'.
 
 ```csharp
 public void SetAuto()
@@ -17,7 +17,5 @@ public void SetAuto()
 ### Se även
 
 * class [LengthOrAuto](../)
-* namnutrymme [Aspose.Svg.Drawing](../../lengthorauto/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

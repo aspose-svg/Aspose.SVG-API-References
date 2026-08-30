@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.ActiveDocument
-second_title: Aspose.SVG för .NET API Referens
-description: IBrowsingContext fast egendom. Hämtar det aktuella dokumentet.
+title: "IBrowsingContext.ActiveDocument"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IBrowsingContext ActiveDocument property. Hämtar det aktuella dokumentet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/ibrowsingcontext/activedocument/
@@ -14,7 +14,7 @@ Hämtar det aktuella dokumentet.
 public Document ActiveDocument { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Det aktiva dokumentet.
 
@@ -22,7 +22,5 @@ Det aktiva dokumentet.
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* namnutrymme [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

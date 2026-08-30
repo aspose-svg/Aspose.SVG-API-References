@@ -1,20 +1,20 @@
 ---
-title: SVGMaskElement.RequiredFeatures
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMaskElement fast egendom. Motsvarar attributet requiredFeatures på det givna elementet.
+title: "SVGMaskElement.RequiredFeatures"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMaskElement RequiredFeatures egenskap. Motsvarar attributet requiredFeatures för det angivna elementet"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/svgmaskelement/requiredfeatures/
 ---
 ## SVGMaskElement.RequiredFeatures property
 
-Motsvarar attributet 'requiredFeatures' på det givna elementet.
+Motsvarar attributet ‘requiredFeatures’ på det givna elementet.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De nödvändiga funktionerna.
 
@@ -22,7 +22,5 @@ De nödvändiga funktionerna.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGMaskElement](../)
-* namnutrymme [Aspose.Svg](../../svgmaskelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

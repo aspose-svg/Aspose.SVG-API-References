@@ -1,14 +1,14 @@
 ---
-title: Element.NamespaceURI
-second_title: Aspose.SVG för .NET API Referens
-description: Element fast egendom. Namnutrymmets URI för denna nod eller null om den är ospecificerad.
+title: "Element.NamespaceURI"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element NamespaceURI egenskap. Namespace-URI:n för den här noden eller null om den inte är specificerad"
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.dom/element/namespaceuri/
 ---
 ## Element.NamespaceURI property
 
-Namnutrymmets URI för denna nod, eller null om den är ospecificerad.
+Namnrymd-URI:n för denna nod, eller null om den är ospecificerad.
 
 ```csharp
 public override string NamespaceURI { get; }
@@ -17,7 +17,5 @@ public override string NamespaceURI { get; }
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class FocusEvent
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Events.FocusEvent klass. FocusEventgränssnittet tillhandahåller specifik kontextuell information associerad med Focushändelser.
+title: "FocusEvent-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Events.FocusEvent-klass. FocusEvent‑gränssnittet tillhandahåller specifik kontextuell information som är associerad med fokus‑händelser."
 type: docs
-weight: 930
+weight: 2930
 url: /sv/net/aspose.svg.dom.events/focusevent/
 ---
 ## FocusEvent class
 
-FocusEvent-gränssnittet tillhandahåller specifik kontextuell information associerad med Focus-händelser.
+FocusEvent-gränssnittet tillhandahåller specifik kontextuell information som är associerad med fokus‑händelser.
 
 ```csharp
 public class FocusEvent : UIEvent
@@ -16,42 +16,40 @@ public class FocusEvent : UIEvent
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FocusEvent](focusevent/#constructor)(string) | Initierar en ny instans av`FocusEvent` class. |
-| [FocusEvent](focusevent/#constructor_1)(string, IDictionary&lt;string, object&gt;) | Initierar en ny instans av`FocusEvent` class. |
+| [FocusEvent](focusevent/#constructor)(*string*) | Initierar en ny instans av `FocusEvent`-klassen. |
+| [FocusEvent](focusevent/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) | Initierar en ny instans av `FocusEvent`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | Används för att indikera om en händelse är en bubblande händelse eller inte. Om händelsen kan bubbla är värdet sant, annars är värdet false. |
-| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | Används för att indikera om en händelse kan förhindras eller inte. Om standardåtgärden kan förhindras är värdet sant, annars är värdet false. |
-| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | Används för att indikera[`IEventTarget`](../ieventtarget/) vars[`IEventListener`](../ieventlistener/) s bearbetas för närvarande. Detta är särskilt användbart under fångst och bubbling. |
-| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | Returnerar true om preventDefault() anropades medan det annullerbara attributvärdet är sant, och annars false. |
-| [Detail](../../aspose.svg.dom.events/uievent/detail/) { get; } | Anger viss detaljinformation om händelsen, beroende på typen av händelse. |
-| [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | Används för att indikera vilken fas av händelseflödet som för närvarande utvärderas. |
-| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | isTrusted-attributet måste returnera värdet som det initierades till. När en händelse skapas måste attributet initieras till false. |
-| [RelatedTarget](../../aspose.svg.dom.events/focusevent/relatedtarget/) { get; } | Används för att identifiera ett sekundärt EventTarget relaterat till en Focus-händelse, beroende på typen av händelse. |
-| [Target](../../aspose.svg.dom.events/event/target/) { get; } | Används för att indikera[`IEventTarget`](../ieventtarget/) som händelsen ursprungligen skickades till. |
-| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | Används för att ange tidpunkten (i millisekunder i förhållande till epok) då händelsen skapades. På grund av det faktum att vissa system kanske inte tillhandahåller denna information, kanske värdet av timeStamp inte är tillgängligt för alla händelser. När inte tillgängligt , kommer ett värde på 0 att returneras. Exempel på epoktid är tidpunkten för systemets start eller 0:0:0 UTC 1 januari 1970. |
-| [Type](../../aspose.svg.dom.events/event/type/) { get; } | Namnet på händelsen (skiftlägeskänsligt). Namnet måste vara ett XML-namn. |
-| [View](../../aspose.svg.dom.events/uievent/view/) { get; } | View-attributet identifierar fönstret från vilket händelsen genererades. Det oinitierade värdet för detta attribut MÅSTE vara null. |
+| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | Används för att ange om en händelse är en bubblande händelse eller inte. Om händelsen kan bubbla är värdet true, annars är värdet false. |
+| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | Används för att ange om en händelse kan ha sin standardåtgärd förhindrad eller inte. Om standardåtgärden kan förhindras är värdet true, annars är värdet false. |
+| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | Används för att ange den [`IEventTarget`](../ieventtarget/) vars [`IEventListener`](../ieventlistener/)s för närvarande bearbetas. Detta är särskilt användbart under fångst och bubbla. |
+| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | Returnerar true om preventDefault() anropades medan cancelable-attributets värde är true, annars false. |
+| [Detail](../../aspose.svg.dom.events/uievent/detail/) { get; } | Anger viss detaljerad information om eventet, beroende på vilken typ av event det är. |
+| [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | Används för att ange vilken fas av händelseflödet som för närvarande utvärderas. |
+| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | isTrusted-attributet måste returnera det värde det initierades med. När en händelse skapas måste attributet initieras till false. |
+| [RelatedTarget](../../aspose.svg.dom.events/focusevent/relatedtarget/) { get; } | Används för att identifiera ett sekundärt EventTarget relaterat till en fokus‑händelse, beroende på händelsetypen. |
+| [Target](../../aspose.svg.dom.events/event/target/) { get; } | Används för att ange den [`IEventTarget`](../ieventtarget/) till vilken händelsen ursprungligen skickades. |
+| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | Används för att ange tiden (i millisekunder relativt till epoken) då händelsen skapades. På grund av att vissa system kanske inte tillhandahåller denna information kan värdet för timeStamp vara otillgängligt för vissa händelser. När det inte är tillgängligt returneras värdet 0. Exempel på epoktider är systemets starttid eller 0:0:0 UTC 1 januari 1970. |
+| [Type](../../aspose.svg.dom.events/event/type/) { get; } | Namnet på händelsen (skiftlägesokänsligt). Namnet måste vara ett XML‑namn. |
+| [View](../../aspose.svg.dom.events/uievent/view/) { get; } | Attributet view identifierar det fönster från vilket eventet genererades. Det oinitierade värdet för detta attribut MÅSTE vara null. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
-| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(string, bool, bool) | Den[`InitEvent`](../event/initevent/) metod används för att initiera värdet av en[`Event`](../event/) skapad genom [`IDocumentEvent`](../idocumentevent/) gränssnitt. |
-| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | Om en händelse kan avbrytas,[`PreventDefault`](../event/preventdefault/) metod används för att indikera att händelsen ska avbrytas, vilket betyder att någon standardåtgärd som normalt vidtas av implementeringen som ett resultat av händelsen inte kommer att inträffa. |
-| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | Att anropa den här metoden förhindrar händelsen från att nå alla händelseavlyssnare som är registrerade efter den aktuella och när den skickas i ett träd förhindras även händelsen från att nå andra objekt. |
-| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | Den[`StopPropagation`](../event/stoppropagation/) metod används för att förhindra ytterligare spridning av en händelse under händelseflödet. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(*string, bool, bool*) | Metoden [`InitEvent`](../event/initevent/) används för att initiera värdet av ett [`Event`](../event/) som skapats via gränssnittet [`IDocumentEvent`](../idocumentevent/). |
+| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | Om ett event är avbrytbart, används metoden [`PreventDefault`](../event/preventdefault/) för att ange att eventet ska avbrytas, vilket betyder att någon standardåtgärd som normalt utförs av implementationen som ett resultat av eventet inte kommer att inträffa. |
+| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | Att anropa den här metoden förhindrar att eventet når någon event listeners som registrerats efter den aktuella och när den dispatchas i ett träd förhindrar den också att eventet når andra objekt. |
+| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | Metoden [`StopPropagation`](../event/stoppropagation/) används för att förhindra vidare spridning av ett event under eventflödet. |
 
 ### Se även
 
 * class [UIEvent](../uievent/)
-* namnutrymme [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

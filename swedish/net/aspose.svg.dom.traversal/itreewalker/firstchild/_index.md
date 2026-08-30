@@ -1,14 +1,14 @@
 ---
-title: ITreeWalker.FirstChild
-second_title: Aspose.SVG för .NET API Referens
-description: ITreeWalker metod. Flyttar TreeWalker till den första synliga underordnade av den nuvarande noden och returnerar den nya noden. Om den aktuella noden har no synliga barn returnerar null och behåller noden current .
+title: "ITreeWalker.FirstChild"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITreeWalker FirstChild-metod. Flyttar TreeWalker till det första synliga barnet till den aktuella noden och returnerar den nya noden. Om den aktuella noden inte har synliga barn returneras null och den aktuella noden behålls."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.traversal/itreewalker/firstchild/
 ---
 ## ITreeWalker.FirstChild method
 
-Flyttar TreeWalker till den första synliga underordnade av den nuvarande noden och returnerar den nya noden. Om den aktuella noden har no synliga barn, returnerar null och behåller noden current .
+Flyttar TreeWalker till det första synliga barnet till den aktuella noden och returnerar den nya noden. Om den aktuella noden inte har några synliga barn returneras null och den aktuella noden behålls.
 
 ```csharp
 public Node FirstChild()
@@ -16,13 +16,11 @@ public Node FirstChild()
 
 ### Returvärde
 
-Den nya noden, eller null om den aktuella noden har inga synliga barn i TreeWalkers logiska vy.
+Den nya noden, eller null om den aktuella noden inte har synliga barn i TreeWalkers logiska vy.
 
 ### Se även
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* namnutrymme [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

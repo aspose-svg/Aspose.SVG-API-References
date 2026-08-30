@@ -1,27 +1,25 @@
 ---
-title: IInterpolationColor.Position
-second_title: Aspose.SVG för .NET API Referens
-description: IInterpolationColor fast egendom. Får färgpositionen.
+title: "IInterpolationColor.Position"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IInterpolationColor Position property. Hämtar eller anger färgpositionen"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/iinterpolationcolor/position/
 ---
 ## IInterpolationColor.Position property
 
-Får färgpositionen.
+Hämtar eller anger färgpositionen.
 
 ```csharp
-public float Position { get; }
+public float Position { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Positionen.
 
 ### Se även
 
 * interface [IInterpolationColor](../)
-* namnutrymme [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

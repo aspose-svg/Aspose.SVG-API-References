@@ -1,14 +1,14 @@
 ---
-title: SVGStyleElement.Sheet
-second_title: Aspose.SVG för .NET API Referens
-description: SVGStyleElement fast egendom. Hämtar tillhörande stilmall.
+title: "SVGStyleElement.Sheet"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGStyleElement Sheet egenskap. Hämtar den associerade stilmallen"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgstyleelement/sheet/
 ---
 ## SVGStyleElement.Sheet property
 
-Hämtar tillhörande stilmall.
+Hämtar den associerade stilmallen.
 
 ```csharp
 public IStyleSheet Sheet { get; }
@@ -18,7 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../../aspose.svg.dom.css/istylesheet/)
 * class [SVGStyleElement](../)
-* namnutrymme [Aspose.Svg](../../svgstyleelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

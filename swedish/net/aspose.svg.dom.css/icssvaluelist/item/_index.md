@@ -1,14 +1,14 @@
 ---
-title: ICSSValueList.Item
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSValueList fast egendom. Metoden returnerarCSSValue på det angivna indexet. http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/css.htmlCSSCSSValueList
+title: "ICSSValueList.Item"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSValueList Item-egenskap. Metoden returnerar CSSValue på det angivna indexet. http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.htmlCSS-CSSValueList"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icssvaluelist/item/
 ---
 ## ICSSValueList indexer
 
-Metoden returnerar[`CSSValue`](../../cssvalue/) på det angivna indexet. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
+Metoden returnerar [`CSSValue`](../../cssvalue/) på det angivna indexet. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
 
 ```csharp
 public CSSValue this[int index] { get; }
@@ -20,17 +20,15 @@ public CSSValue this[int index] { get; }
 
 ### Returvärde
 
-CSSValue.
+Den CSSValue.
 
-### Fastighetsvärde
+### Property Value
 
-Den[`CSSValue`](../../cssvalue/) .
+Den [`CSSValue`](../../cssvalue/).
 
 ### Se även
 
 * class [CSSValue](../../cssvalue/)
 * interface [ICSSValueList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssvaluelist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Device2.Flush
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Rensar all data till utdataström.
+title: "Device-2.Flush"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device Flush-metoden. Spolar alla data till utdataflödet"
 type: docs
-weight: 170
+weight: 200
 url: /sv/net/aspose.svg.rendering/device-2/flush/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Flush method
+## Device<TGraphicContext,TRenderingOptions>.Flush method
 
-Rensar all data till utdataström.
+Spolar alla data till utdataflödet.
 
 ```csharp
 public virtual void Flush()
@@ -17,7 +17,5 @@ public virtual void Flush()
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

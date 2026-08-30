@@ -1,14 +1,14 @@
 ---
-title: ResponseHeaders.ResponseHeaders
-second_title: Aspose.SVG för .NET API Referens
-description: ResponseHeaders byggare. Initierar en ny instans avRequestHeaders class.
+title: "ResponseHeaders"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ResponseHeaders-konstruktorn. Initierar en ny instans av klassen RequestHeaders"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
 
-Initierar en ny instans av[`RequestHeaders`](../../requestheaders/) class.
+Initierar en ny instans av klassen [`RequestHeaders`](../../requestheaders/).
 
 ```csharp
 public ResponseHeaders()
@@ -17,7 +17,5 @@ public ResponseHeaders()
 ### Se även
 
 * class [ResponseHeaders](../)
-* namnutrymme [Aspose.Svg.Net](../../responseheaders/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

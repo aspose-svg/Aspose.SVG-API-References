@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.FontStyle
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för teckensnittsstil i CSS2.
+title: "ICSS2Properties.FontStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties FontStyle-egenskap. Se definitionen av font-style property i CSS2"
 type: docs
 weight: 520
 url: /sv/net/aspose.svg.dom.css/icss2properties/fontstyle/
 ---
 ## ICSS2Properties.FontStyle property
 
-Se egenskapsdefinitionen för teckensnittsstil i CSS2.
+Se definitionen av egenskapen font-style i CSS2.
 
 ```csharp
 public string FontStyle { get; set; }
@@ -16,12 +16,10 @@ public string FontStyle { get; set; }
 
 ### Returvärde
 
-egenskap i typsnittsstil
+font-style property
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

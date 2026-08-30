@@ -1,20 +1,20 @@
 ---
-title: SVGAnimationElement.TargetElement
-second_title: Aspose.SVG för .NET API Referens
-description: SVGAnimationElement fast egendom. Elementet som animeras.
+title: "SVGAnimationElement.TargetElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGAnimationElement TargetElement‑egenskap. Elementet som animieras."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg/svganimationelement/targetelement/
 ---
 ## SVGAnimationElement.TargetElement property
 
-Elementet som animeras.
+Elementet som är under animation.
 
 ```csharp
 public SVGElement TargetElement { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Målelementet.
 
@@ -22,7 +22,5 @@ Målelementet.
 
 * class [SVGElement](../../svgelement/)
 * class [SVGAnimationElement](../)
-* namnutrymme [Aspose.Svg](../../svganimationelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

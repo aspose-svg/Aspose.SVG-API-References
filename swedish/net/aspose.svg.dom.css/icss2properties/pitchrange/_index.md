@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PitchRange
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se definitionen av pitchrangeegenskapen i CSS2.
+title: "ICSS2Properties.PitchRange"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties PitchRange-egenskap. Se definitionen av pitch-range-egenskapen i CSS2"
 type: docs
-weight: 930
+weight: 960
 url: /sv/net/aspose.svg.dom.css/icss2properties/pitchrange/
 ---
 ## ICSS2Properties.PitchRange property
 
-Se definitionen av pitch-range-egenskapen i CSS2.
+Se egendefinitionen för pitch-range i CSS2.
 
 ```csharp
 public string PitchRange { get; set; }
@@ -16,12 +16,10 @@ public string PitchRange { get; set; }
 
 ### Returvärde
 
-egendom med pitch-range
+pitch-range-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MarginBottom
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se marginalbottom egenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.MarginBottom"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties MarginBottom egenskap. Se definitionen av margin-bottom egenskap i CSS2"
 type: docs
-weight: 640
+weight: 670
 url: /sv/net/aspose.svg.dom.css/icss2properties/marginbottom/
 ---
 ## ICSS2Properties.MarginBottom property
 
-Se marginal-bottom egenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen margin-bottom i CSS2.
 
 ```csharp
 public string MarginBottom { get; set; }
@@ -16,12 +16,10 @@ public string MarginBottom { get; set; }
 
 ### Returvärde
 
-marginal-botten
+margin-bottom
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

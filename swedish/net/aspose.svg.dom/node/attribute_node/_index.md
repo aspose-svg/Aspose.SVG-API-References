@@ -1,14 +1,14 @@
 ---
-title: Node.ATTRIBUTE_NODE
-second_title: Aspose.SVG för .NET API Referens
-description: Node fält. En attribut node
+title: "Node.ATTRIBUTE_NODE"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node ATTRIBUTE_NODE‑fält. En attributnod"
 type: docs
-weight: 320
+weight: 300
 url: /sv/net/aspose.svg.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
 
-En attribut node
+En attributnod
 
 ```csharp
 public const ushort ATTRIBUTE_NODE;
@@ -17,7 +17,5 @@ public const ushort ATTRIBUTE_NODE;
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGPathOptimizationOptions.ArcBuildingThreshold
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathOptimizationOptions fast egendom. Hämtar eller ställer in parametervärdet som används som tröskelfel för att ersätta Beziersegment med bågsegment. Det är 2.5 som standard.
+title: "SVGPathOptimizationOptions.ArcBuildingThreshold"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathOptimizationOptions ArcBuildingThreshold-egenskapen. Hämtar eller anger parametervärdet som används som tröskelfel för att ersätta Bezier-segment med bågsegment. Standardvärdet är 2,5."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/
 ---
 ## SVGPathOptimizationOptions.ArcBuildingThreshold property
 
-Hämtar eller ställer in parametervärdet som används som tröskelfel för att ersätta Bezier-segment med bågsegment. Det är '2.5' som standard.
+Hämtar eller anger parametervärdet som används som tröskelfel för att ersätta Bezier-segment med bågsegment. Standardvärdet är '2.5'.
 
 ```csharp
 public float ArcBuildingThreshold { get; set; }
@@ -17,7 +17,5 @@ public float ArcBuildingThreshold { get; set; }
 ### Se även
 
 * class [SVGPathOptimizationOptions](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

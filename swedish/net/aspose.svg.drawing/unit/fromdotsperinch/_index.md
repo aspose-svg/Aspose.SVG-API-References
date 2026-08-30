@@ -1,14 +1,14 @@
 ---
-title: Unit.FromDotsPerInch
-second_title: Aspose.SVG för .NET API Referens
-description: Unit metod. Returnerar enResolution objekt som representeras i punkter per tum.
+title: "Unit.FromDotsPerInch"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Unit FromDotsPerInch metod. Returnerar ett Resolution-objekt som representeras i punkter per tum"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.drawing/unit/fromdotsperinch/
 ---
 ## Unit.FromDotsPerInch method
 
-Returnerar en[`Resolution`](../../resolution/) objekt som representeras i punkter per tum.
+Returnerar ett [`Resolution`](../../resolution/) objekt som representeras i punkter per tum.
 
 ```csharp
 public static Resolution FromDotsPerInch(double value)
@@ -20,13 +20,11 @@ public static Resolution FromDotsPerInch(double value)
 
 ### Returvärde
 
-Returnerar a[`Resolution`](../../resolution/) objekt.
+Returnerar ett [`Resolution`](../../resolution/) objekt.
 
 ### Se även
 
 * class [Resolution](../../resolution/)
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

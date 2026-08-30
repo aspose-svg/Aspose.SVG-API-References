@@ -1,14 +1,14 @@
 ---
-title: PageSetup.AtPagePriority
-second_title: Aspose.SVG för .NET API Referens
-description: PageSetup fast egendom. Hämtar eller sätterAtPagePriority som kommer att avgöra ordningen för tillämpning av sidstorleksdeklarationer. Som standard kommer alternativen att åsidosätta csssida regler .
+title: "PageSetup.AtPagePriority"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PageSetup AtPagePriority-egenskap. Hämtar eller ställer in AtPagePriority som bestämmer ordningen för tillämpning av sidstorleksdeklarationer. Som standard kommer alternativ att åsidosätta css-sidrutiner"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.rendering/pagesetup/atpagepriority/
 ---
 ## PageSetup.AtPagePriority property
 
-Hämtar eller sätter[`AtPagePriority`](../../atpagepriority/) som kommer att avgöra ordningen för tillämpning av sidstorleksdeklarationer. Som standard kommer alternativen att åsidosätta css`@sida` regler .
+Hämtar eller ställer in [`AtPagePriority`](../../atpagepriority/) som bestämmer ordningen för tillämpning av sidstorleksdeklarationer. Som standard kommer alternativ att åsidosätta css `@page`-regler.
 
 ```csharp
 public AtPagePriority AtPagePriority { get; set; }
@@ -18,7 +18,5 @@ public AtPagePriority AtPagePriority { get; set; }
 
 * enum [AtPagePriority](../../atpagepriority/)
 * class [PageSetup](../)
-* namnutrymme [Aspose.Svg.Rendering](../../pagesetup/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

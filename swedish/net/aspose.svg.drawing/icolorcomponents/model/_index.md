@@ -1,7 +1,7 @@
 ---
-title: IColorComponents.Model
-second_title: Aspose.SVG för .NET API Referens
-description: IColorComponents fast egendom. Returnerar färgmodellen.
+title: "IColorComponents.Model"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IColorComponents Model-egenskap. Returnerar färgmodellen"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.drawing/icolorcomponents/model/
@@ -18,7 +18,5 @@ public ColorModel Model { get; }
 
 * enum [ColorModel](../../colormodel/)
 * interface [IColorComponents](../)
-* namnutrymme [Aspose.Svg.Drawing](../../icolorcomponents/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

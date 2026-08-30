@@ -1,27 +1,25 @@
 ---
-title: InputEvent.IsComposing
-second_title: Aspose.SVG för .NET API Referens
-description: InputEvent fast egendom. true om ingångshändelsen inträffar som en del av en sammansättningssession dvs efter en sammansättningsstarthändelse och före motsvarande sammansättningssluthändelse. Det oinitierade värdet för detta attribut MÅSTE vara false.
+title: "InputEvent.IsComposing"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "InputEvent IsComposing‑egenskap. true om inmatningseventet inträffar som en del av en kompositionssession, d.v.s. efter ett compositionstart‑event och före motsvarande compositionend‑event. Det oinitierade värdet för detta attribut MÅSTE vara false"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.events/inputevent/iscomposing/
 ---
 ## InputEvent.IsComposing property
 
-true om ingångshändelsen inträffar som en del av en sammansättningssession, dvs efter en sammansättningsstarthändelse och före motsvarande sammansättningssluthändelse. Det oinitierade värdet för detta attribut MÅSTE vara false.
+Sant om inmatningshändelsen inträffar som en del av en kompositionssession, d.v.s. efter en compositionstart‑händelse och före motsvarande compositionend‑händelse. Det oinitialiserade värdet för detta attribut MÅSTE vara falskt.
 
 ```csharp
 public bool IsComposing { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans komponerar; annat,`falsk` .
+`true` om detta objekt är i komposition; annars, `false`.
 
 ### Se även
 
 * class [InputEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../inputevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

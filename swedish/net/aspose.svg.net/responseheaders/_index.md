@@ -1,14 +1,14 @@
 ---
-title: Class ResponseHeaders
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.ResponseHeaders klass. Innehåller protokollrubriker associerade med ett svar.
+title: "ResponseHeaders klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.ResponseHeaders klass. Innehåller protokollhuvuden som är associerade med ett svar"
 type: docs
-weight: 2430
+weight: 4500
 url: /sv/net/aspose.svg.net/responseheaders/
 ---
 ## ResponseHeaders class
 
-Innehåller protokollrubriker associerade med ett svar.
+Innehåller protokollhuvuden som är associerade med ett svar.
 
 ```csharp
 public class ResponseHeaders : WebHeaderCollection
@@ -16,19 +16,23 @@ public class ResponseHeaders : WebHeaderCollection
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ResponseHeaders](responseheaders/)() | Initierar en ny instans av[`RequestHeaders`](../requestheaders/) class. |
+| [ResponseHeaders](responseheaders/)() | Initierar en ny instans av [`RequestHeaders`](../requestheaders/) klass. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ContentType](../../aspose.svg.net/responseheaders/contenttype/) { get; } | Får värdet Content-Type header. |
+| override [AllKeys](../../system.net/webheadercollection/allkeys/) { get; } |  |
+| [ContentType](../../aspose.svg.net/responseheaders/contenttype/) { get; } | Hämtar värdet för Content-Type‑huvudet. |
+| override [Count](../../system.net/webheadercollection/count/) { get; } |  |
+| [Item](../../system.net/webheadercollection/item/) { get; set; } | (3 indexerare) |
+| [Item](../../system.collections.specialized/namevaluecollection/item/) { get; } |  |
+| override [Keys](../../system.net/webheadercollection/keys/) { get; } |  |
+| [IsReadOnly](../../system.collections.specialized/nameobjectcollectionbase/isreadonly/) { get; } |  |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

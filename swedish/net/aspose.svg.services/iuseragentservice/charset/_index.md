@@ -1,27 +1,25 @@
 ---
-title: IUserAgentService.CharSet
-second_title: Aspose.SVG för .NET API Referens
-description: IUserAgentService fast egendom. Hämtar eller ställer in den primära teckenuppsättningen för ett dokument.
+title: "IUserAgentService.CharSet"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IUserAgentService CharSet egenskap. Hämtar eller anger det primära teckenuppsättet för ett dokument."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.services/iuseragentservice/charset/
 ---
 ## IUserAgentService.CharSet property
 
-Hämtar eller ställer in den primära teckenuppsättningen för ett dokument.
+Hämtar eller anger det primära teckensetet för ett dokument.
 
 ```csharp
 public string CharSet { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Teckenuppsättningen.
 
 ### Se även
 
 * interface [IUserAgentService](../)
-* namnutrymme [Aspose.Svg.Services](../../iuseragentservice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

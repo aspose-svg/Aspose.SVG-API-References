@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.SubFamilyName
-second_title: Aspose.SVG för .NET API Referens
-description: ITrueTypeFont fast egendom. Teckensnittets underfamiljsnamn särskiljer teckensnittet i en grupp med samma teckensnittsfamiljsnamn. Detta antas ta upp stil kursiv snett och vikt lätt fet svart etc.. Ett teckensnitt utan speciella skillnader i vikt eller stil t.ex. medelvikt inte kursiv och fsSelection bit 6 set bör ha strängen Regular lagrad i denna position.
+title: "ITrueTypeFont.SubFamilyName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITrueTypeFont SubFamilyName property. Subfamiljenamnet särskiljer teckensnittet i en grupp med samma familjenamn. Detta antas omfatta stil som kursiv, sned, och vikt som lätt, fet, svart osv. Ett teckensnitt utan särskilda skillnader i vikt eller stil bör ha strängen Regular"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.svg.drawing/itruetypefont/subfamilyname/
 ---
 ## ITrueTypeFont.SubFamilyName property
 
-Teckensnittets underfamiljsnamn särskiljer teckensnittet i en grupp med samma teckensnittsfamiljsnamn. Detta antas ta upp stil (kursiv, snett) och vikt (lätt, fet, svart, etc.). Ett teckensnitt utan speciella skillnader i vikt eller stil (t.ex. medelvikt, inte kursiv och fsSelection bit 6 set) bör ha strängen "Regular" lagrad i denna position.
+Underfamiljenamnet särskiljer teckensnittet i en grupp med samma familjenamn. Detta antas hantera stil (italic, oblique) och vikt (light, bold, black, etc.). Ett teckensnitt utan särskilda skillnader i vikt eller stil bör ha strängen "Regular".
 
 ```csharp
 public string SubFamilyName { get; }
@@ -16,12 +16,10 @@ public string SubFamilyName { get; }
 
 ### Returvärde
 
-Typsnittets underfamiljsnamn
+Teckensnittets subfamiljenamn.
 
 ### Se även
 
 * interface [ITrueTypeFont](../)
-* namnutrymme [Aspose.Svg.Drawing](../../itruetypefont/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

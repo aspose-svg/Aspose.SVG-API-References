@@ -1,14 +1,14 @@
 ---
-title: Document.OnDblClick
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnDblClickhändelse.
+title: "Document.OnDblClick"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnDblClick‑händelse. Hämtar eller anger händelsehanterare för OnDblClick‑händelse"
 type: docs
 weight: 360
 url: /sv/net/aspose.svg.dom/document/ondblclick/
 ---
 ## Document.OnDblClick event
 
-Hämtar eller ställer in händelsehanterare för OnDblClick-händelse.
+Hämtar eller anger händelsehanterare för OnDblClick‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnDblClick;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnDblClick;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

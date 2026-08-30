@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnCanplay
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnCanplayhändelse.
+title: "IGlobalEventHandlers.OnCanplay"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnCanplay händelse. Hämtar eller anger händelsehanterare för OnCanplay händelse"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/oncanplay/
 ---
 ## IGlobalEventHandlers.OnCanplay event
 
-Hämtar eller ställer in händelsehanterare för OnCanplay-händelse.
+Hämtar eller anger händelsehanterare för OnCanplay‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnCanplay;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnCanplay;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

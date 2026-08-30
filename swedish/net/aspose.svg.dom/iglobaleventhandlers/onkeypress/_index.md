@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnKeyPress
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnKeyPresshändelse.
+title: "IGlobalEventHandlers.OnKeyPress"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnKeyPress‑händelse. Hämtar eller anger händelsehanterare för OnKeyPress‑händelse"
 type: docs
 weight: 180
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/onkeypress/
 ---
 ## IGlobalEventHandlers.OnKeyPress event
 
-Hämtar eller ställer in händelsehanterare för OnKeyPress-händelse.
+Hämtar eller anger händelsehanterare för OnKeyPress-händelse.
 
 ```csharp
 public event DOMEventHandler OnKeyPress;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnKeyPress;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

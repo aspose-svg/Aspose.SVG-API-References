@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGRenderingIntent
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ISVGRenderingIntent gränssnitt. SVGRenderingIntentgränssnittet definierar den uppräknade listan över möjliga värden för renderingintentattribut eller deskriptorer.
+title: "ISVGRenderingIntent-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ISVGRenderingIntent-gränssnitt. SVGRenderingIntent-gränssnittet definierar den uppräknade listan av möjliga värden för rendering-intent-attribut eller -beskrivningar."
 type: docs
-weight: 2020
+weight: 4090
 url: /sv/net/aspose.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface
 
-SVGRenderingIntent-gränssnittet definierar den uppräknade listan över möjliga värden för 'rendering-intent'-attribut eller deskriptorer.
+SVGRenderingIntent‑gränssnittet definierar den uppräknade listan av möjliga värden för ‘rendering-intent’-attribut eller -beskrivare.
 
 ```csharp
 public interface ISVGRenderingIntent
@@ -16,7 +16,5 @@ public interface ISVGRenderingIntent
 
 ### Se även
 
-* namnutrymme [Aspose.Svg](../../aspose.svg/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

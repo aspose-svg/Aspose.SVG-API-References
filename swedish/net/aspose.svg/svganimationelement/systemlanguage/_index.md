@@ -1,20 +1,20 @@
 ---
-title: SVGAnimationElement.SystemLanguage
-second_title: Aspose.SVG för .NET API Referens
-description: SVGAnimationElement fast egendom. Motsvarar attributet systemLanguage på det givna elementet.
+title: "SVGAnimationElement.SystemLanguage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGAnimationElement SystemLanguage egenskap. Motsvarar attributet systemLanguage på det angivna elementet."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svganimationelement/systemlanguage/
 ---
 ## SVGAnimationElement.SystemLanguage property
 
-Motsvarar attributet 'systemLanguage' på det givna elementet.
+Motsvarar attributet ‘systemLanguage’ på det givna elementet.
 
 ```csharp
 public SVGStringList SystemLanguage { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Systemspråket.
 
@@ -22,7 +22,5 @@ Systemspråket.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGAnimationElement](../)
-* namnutrymme [Aspose.Svg](../../svganimationelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

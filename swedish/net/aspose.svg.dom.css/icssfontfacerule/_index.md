@@ -1,9 +1,9 @@
 ---
-title: Interface ICSSFontFaceRule
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.ICSSFontFaceRule gränssnitt. CSSFontFaceRulegränssnittet representerar en fontfaceregel i en CSSstilmall. fontfaceregeln används för att hålla en uppsättning teckensnittsbeskrivningar.
+title: "ICSSFontFaceRule-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.ICSSFontFaceRule gränssnitt. CSSFontFaceRule-gränssnittet representerar en font-face-regel i en CSS-stilmall. Font-face-regeln används för att hålla en uppsättning fontbeskrivningar."
 type: docs
-weight: 550
+weight: 2550
 url: /sv/net/aspose.svg.dom.css/icssfontfacerule/
 ---
 ## ICSSFontFaceRule interface
@@ -16,14 +16,12 @@ public interface ICSSFontFaceRule : ICSSRule
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Style](../../aspose.svg.dom.css/icssfontfacerule/style/) { get; } | Deklarationsblocket för denna regel. |
 
 ### Se även
 
 * interface [ICSSRule](../icssrule/)
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

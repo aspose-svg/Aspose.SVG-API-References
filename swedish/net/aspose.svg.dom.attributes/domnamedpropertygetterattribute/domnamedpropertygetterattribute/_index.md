@@ -1,14 +1,14 @@
 ---
-title: DOMNamedPropertyGetterAttribute.DOMNamedPropertyGetterAttribute
-second_title: Aspose.SVG för .NET API Referens
-description: DOMNamedPropertyGetterAttribute byggare. Default_Constructor
+title: "DOMNamedPropertyGetterAttribute"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMNamedPropertyGetterAttribute-konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public DOMNamedPropertyGetterAttribute()
@@ -17,7 +17,5 @@ public DOMNamedPropertyGetterAttribute()
 ### Se även
 
 * class [DOMNamedPropertyGetterAttribute](../)
-* namnutrymme [Aspose.Svg.Dom.Attributes](../../domnamedpropertygetterattribute/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

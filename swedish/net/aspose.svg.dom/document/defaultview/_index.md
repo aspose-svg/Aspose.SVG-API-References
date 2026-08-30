@@ -1,14 +1,14 @@
 ---
-title: Document.DefaultView
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. StandardView IDLattributet för Documentgränssnittet när hämtas måste returnera detta dokuments webbläsarkontexts WindowProxyobjekt om detta dokument har en associerad webbläsarkontext eller null annars.
+title: "Document.DefaultView"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document DefaultView‑egenskap. defaultView‑IDL‑attributet för Document‑gränssnittet ska vid hämtning returnera detta Documents bläddringskontexts WindowProxy‑objekt om detta Document har ett associerat bläddringskontext, annars null."
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.dom/document/defaultview/
 ---
 ## Document.DefaultView property
 
-StandardView IDL-attributet för Document-gränssnittet, när hämtas, måste returnera detta dokuments webbläsarkontexts WindowProxy-objekt, om detta dokument har en associerad webbläsarkontext, eller null annars.
+defaultView‑IDL‑attributet för Document‑gränssnittet ska, vid läsning, returnera detta dokuments bläddringskontexts WindowProxy‑objekt, om detta dokument har ett associerat bläddringskontext, annars null.
 
 ```csharp
 public IWindow DefaultView { get; }
@@ -18,7 +18,5 @@ public IWindow DefaultView { get; }
 
 * interface [IWindow](../../../aspose.svg.window/iwindow/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

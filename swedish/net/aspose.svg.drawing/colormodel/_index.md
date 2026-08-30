@@ -1,36 +1,34 @@
 ---
-title: Enum ColorModel
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.ColorModel uppräkning. Denna uppräkning används för att välja färgmodell för att arbeta med färgkomponenter.
+title: "ColorModel‑enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.ColorModel‑enum. Denna uppräkning används för att välja färgmodell för arbete med färgkomponenter"
 type: docs
-weight: 1400
+weight: 3400
 url: /sv/net/aspose.svg.drawing/colormodel/
 ---
 ## ColorModel enumeration
 
-Denna uppräkning används för att välja färgmodell för att arbeta med färgkomponenter.
+Denna uppräkning används för att välja färgmodell för arbete med färgkomponenter.
 
 ```csharp
 public enum ColorModel
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Rgb | `0` | Röd-Grön-Blå färgmodell |
-| Hsl | `1` | Nyans-Mättnad-Luminositet färgmodell |
-| Hsv | `2` | Hue-Saturation-Value color model |
-| Hwb | `3` | Nyans-Vithet-Svart färgmodell |
-| Cmyk | `4` | Cyan-Magenta-Yellow-Key färgmodell |
-| Lab | `5` | Ljushet-AB färgmodell |
-| Oklab | `6` | Förbättrad lätthet-AB-modell |
-| Lch | `7` | Luminans-Chroma-Hue färgmodell |
-| Oklch | `8` | Förbättrad Luminans-Chroma-Hue färgmodell |
+| Hsl | `1` | Nyans-Mättnad-Luminans färgmodell |
+| Hsv | `2` | Nyans-Mättnad-Värde färgmodell |
+| Hwb | `3` | Nyans-Vithet-Mörkhet färgmodell |
+| Cmyk | `4` | Cyan-Magenta-Gul-Key färgmodell |
+| Lab | `5` | Ljushet-A-B färgmodell |
+| Oklab | `6` | Förbättrad Ljushet-A-B-modell |
+| Lch | `7` | Luminans‑Kroma‑Nyans färgmodell |
+| Oklch | `8` | Förbättrad Luminans‑Kroma‑Nyans färgmodell |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

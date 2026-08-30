@@ -1,9 +1,9 @@
 ---
-title: Class MessageHandler
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.MessageHandler klass. Representerar en bastyp för meddelandehanterare.
+title: "MessageHandler klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.MessageHandler klass. Representerar en basstyp för meddelandehanterare"
 type: docs
-weight: 2340
+weight: 4410
 url: /sv/net/aspose.svg.net/messagehandler/
 ---
 ## MessageHandler class
@@ -16,19 +16,17 @@ public abstract class MessageHandler
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | Hämtar filterlistan som motsvarar den angivna hanterartypen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(INetworkOperationContext) | När den åsidosätts i en härledd klass används för att implementera meddelandehanteringen. |
+| abstract [Invoke](../../aspose.svg.net/messagehandler/invoke/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | När den åsidosätts i en avledd klass används den för att implementera meddelandehanteringen. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: IUrlSearchParams.Has
-second_title: Aspose.SVG för .NET API Referens
-description: IUrlSearchParams metod. Kontrollerar om det finns ett namnvärdepar vars namn ärnamn i listan.
+title: "IUrlSearchParams.Has"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IUrlSearchParams Has‑metod. Kontrollerar om det finns ett namn‑värde‑par vars namn är name i listan."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
 
-Kontrollerar om det finns ett namn-värde-par vars namn är`namn` i listan.
+Kontrollerar om det finns ett namn‑värde‑par vars namn är `name` i listan.
 
 ```csharp
 public bool Has(string name)
@@ -16,16 +16,14 @@ public bool Has(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Nyckel som kommer att användas för att hitta namn-värde-par. |
+| namn | String | Nyckel som kommer att användas för att hitta namn‑värde‑par. |
 
 ### Returvärde
 
-`Sann` om det finns ett namn-värde-par vars namn är`namn` i listan, och`falsk` annat.
+`True` om det finns ett namn‑värde‑par vars namn är `name` i listan, och `false` annars.
 
 ### Se även
 
 * interface [IUrlSearchParams](../)
-* namnutrymme [Aspose.Svg](../../iurlsearchparams/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

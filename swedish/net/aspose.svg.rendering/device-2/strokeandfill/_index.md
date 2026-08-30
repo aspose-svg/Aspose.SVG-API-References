@@ -1,27 +1,26 @@
 ---
-title: Device2.StrokeAndFill
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Stryker och fyller strömvägen. Denna metod avslutar strömvägen.
+title: "Device-2.StrokeAndFill"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device StrokeAndFill-metoden. Konturerar och fyller den aktuella vägen. Denna metod avslutar den aktuella vägen"
 type: docs
-weight: 230
+weight: 260
 url: /sv/net/aspose.svg.rendering/device-2/strokeandfill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeAndFill method
+## Device<TGraphicContext,TRenderingOptions>.StrokeAndFill method
 
-Stryker och fyller strömvägen. Denna metod avslutar strömvägen.
+Ritar och fyller den aktuella banan. Denna metod avslutar den aktuella banan.
 
 ```csharp
-public abstract void StrokeAndFill(FillMode mode)
+public virtual void StrokeAndFill(FillRule rule)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| mode | FillMode | Fyllningsläge anger hur det inre av en stängd bana fylls. |
+| regel | FillRule | Fyllningsregeln specificerar hur insidan av en sluten bana fylls. |
 
 ### Se även
 
+* enum [FillRule](../../../aspose.svg.drawing/fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

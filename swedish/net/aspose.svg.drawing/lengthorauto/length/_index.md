@@ -1,20 +1,20 @@
 ---
-title: LengthOrAuto.Length
-second_title: Aspose.SVG för .NET API Referens
-description: LengthOrAuto fast egendom. Hämtar eller ställer in längden.
+title: "LengthOrAuto.Length"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "LengthOrAuto Length-egenskap. Hämtar eller anger längden"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.drawing/lengthorauto/length/
 ---
 ## LengthOrAuto.Length property
 
-Hämtar eller ställer in längden.
+Hämtar eller anger längden.
 
 ```csharp
 public Length Length { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Längden.
 
@@ -22,7 +22,5 @@ Längden.
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* namnutrymme [Aspose.Svg.Drawing](../../lengthorauto/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

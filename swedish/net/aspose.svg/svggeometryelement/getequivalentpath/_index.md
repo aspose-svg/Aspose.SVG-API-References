@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetEquivalentPath
-second_title: Aspose.SVG för .NET API Referens
-description: SVGGeometryElement metod. Returnerar en ny instans avSVGPathSegList som representerarSVGGeometryElement som vägsegment.
+title: "SVGGeometryElement.GetEquivalentPath"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGGeometryElement GetEquivalentPath‑metod. Returnerar en ny instans av SVGPathSegList som representerar SVGGeometryElement som segment av en bana."
 type: docs
-weight: 20
+weight: 30
 url: /sv/net/aspose.svg/svggeometryelement/getequivalentpath/
 ---
 ## SVGGeometryElement.GetEquivalentPath method
 
-Returnerar en ny instans av[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) som representerar[`SVGGeometryElement`](../) som vägsegment.
+Returnerar en ny instans av [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/) som representerar [`SVGGeometryElement`](../) som segment av en bana.
 
 ```csharp
 public SVGPathSegList GetEquivalentPath()
@@ -16,13 +16,11 @@ public SVGPathSegList GetEquivalentPath()
 
 ### Returvärde
 
-En ny instans av[`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
+En ny instans av [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist/).
 
 ### Se även
 
 * class [SVGPathSegList](../../../aspose.svg.paths/svgpathseglist/)
 * class [SVGGeometryElement](../)
-* namnutrymme [Aspose.Svg](../../svggeometryelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

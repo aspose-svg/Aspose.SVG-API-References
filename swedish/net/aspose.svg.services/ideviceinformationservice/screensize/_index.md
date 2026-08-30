@@ -1,20 +1,20 @@
 ---
-title: IDeviceInformationService.ScreenSize
-second_title: Aspose.SVG för .NET API Referens
-description: IDeviceInformationService fast egendom. Hämtar eller ställer in storleken på skärmen.
+title: "IDeviceInformationService.ScreenSize"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDeviceInformationService ScreenSize egenskap. Hämtar eller anger skärmstorleken"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.services/ideviceinformationservice/screensize/
 ---
 ## IDeviceInformationService.ScreenSize property
 
-Hämtar eller ställer in storleken på skärmen.
+Hämtar eller anger skärmens storlek.
 
 ```csharp
 public Size ScreenSize { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Storleken på skärmen.
 
@@ -22,7 +22,5 @@ Storleken på skärmen.
 
 * class [Size](../../../aspose.svg.drawing/size/)
 * interface [IDeviceInformationService](../)
-* namnutrymme [Aspose.Svg.Services](../../ideviceinformationservice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

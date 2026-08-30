@@ -1,20 +1,20 @@
 ---
-title: IUserAgentService.CSSEngineMode
-second_title: Aspose.SVG för .NET API Referens
-description: IUserAgentService fast egendom. Hämtar eller ställer in läge i vilket CSSmotorn fungerar.
+title: "IUserAgentService.CSSEngineMode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IUserAgentService CSSEngineMode egenskap. Hämtar eller anger läget som CSS-motorn arbetar i"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.services/iuseragentservice/cssenginemode/
 ---
 ## IUserAgentService.CSSEngineMode property
 
-Hämtar eller ställer in läge i vilket CSS-motorn fungerar.
+Hämtar eller anger läget som CSS‑motorn arbetar i.
 
 ```csharp
 public CSSEngineMode CSSEngineMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Motorläget.
 
@@ -22,7 +22,5 @@ Motorläget.
 
 * enum [CSSEngineMode](../../../aspose.svg.dom.css/cssenginemode/)
 * interface [IUserAgentService](../)
-* namnutrymme [Aspose.Svg.Services](../../iuseragentservice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframesRule.Name
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSKeyframesRule fast egendom. Det här attributet är namnet på nyckelbildrutorna som används av egenskapen animationname.
+title: "ICSSKeyframesRule.Name"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSKeyframesRule Name-egenskap. Detta attribut är namnet på de keyframes som används av animation-name-egenskapen."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/icsskeyframesrule/name/
 ---
 ## ICSSKeyframesRule.Name property
 
-Det här attributet är namnet på nyckelbildrutorna, som används av egenskapen 'animation-name'.
+Detta attribut är namnet på nyckelramarna, som används av egenskapen ‘animation-name’.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet.
 
 ### Se även
 
 * interface [ICSSKeyframesRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

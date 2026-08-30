@@ -1,14 +1,14 @@
 ---
-title: Class ImageTraceSmoother
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ImageVectorization.ImageTraceSmoother klass. Klassen ImageTraceSimplifier är ansvarig för att jämna ut antalet punkter i en kurva som approximeras av en serie av spårningspunkterna. Denna klass implementerar närmaste granne.
+title: "ImageTraceSmoother‑klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ImageVectorization.ImageTraceSmoother‑klass. ImageTraceSimplifier‑klassen ansvarar för att jämna ut antalet punkter i en kurva som approximeras av en serie spårpunkter. Denna klass implementerar närmaste-granne‑metoden."
 type: docs
-weight: 2130
+weight: 4200
 url: /sv/net/aspose.svg.imagevectorization/imagetracesmoother/
 ---
 ## ImageTraceSmoother class
 
-Klassen ImageTraceSimplifier är ansvarig för att jämna ut antalet punkter i en kurva som approximeras av en serie av spårningspunkterna. Denna klass implementerar närmaste granne.
+Klassen ImageTraceSimplifier ansvarar för att jämna ut antalet punkter i en kurva som approximeras av en serie spårpunkter. Denna klass implementerar närmaste-granne-metoden.
 
 ```csharp
 public class ImageTraceSmoother : IImageTraceSmoother
@@ -16,27 +16,25 @@ public class ImageTraceSmoother : IImageTraceSmoother
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImageTraceSmoother](imagetracesmoother/#constructor)() | Initierar en ny instans av`ImageTraceSmoother` class. |
-| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(int) | Initierar en ny instans av`ImageTraceSmoother` class. |
+| [ImageTraceSmoother](imagetracesmoother/#constructor)() | Initierar en ny instans av klassen `ImageTraceSmoother`. |
+| [ImageTraceSmoother](imagetracesmoother/#constructor_1)(*int*) | Initierar en ny instans av klassen `ImageTraceSmoother`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent/) { get; set; } | Hämtar uppsättning av omfattningen av regionen som beaktas av frågepunkten. Den måste vara i intervallet 1 till 20. Eventuella högre eller lägre värden kommer att anpassas till minimi- och maximivärdena för detta intervall. |
+| [Extent](../../aspose.svg.imagevectorization/imagetracesmoother/extent/) { get; set; } | Hämtar eller anger omfattningen av regionen som beaktas av frågepunkten. Den måste ligga i intervallet 1 till 20. Alla högre eller lägre värden justeras till respektive minimi- och maximivärde i detta intervall. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(IEnumerable&lt;PointF&gt;) | Jämnar ut spåret. |
+| virtual [Smooth](../../aspose.svg.imagevectorization/imagetracesmoother/smooth/)(*IEnumerable&lt;PointF&gt;*) | Jämnar ut spåret. |
 
 ### Se även
 
 * interface [IImageTraceSmoother](../iimagetracesmoother/)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

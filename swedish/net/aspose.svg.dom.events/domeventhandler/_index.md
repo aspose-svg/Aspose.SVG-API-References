@@ -1,14 +1,14 @@
 ---
-title: Delegate DOMEventHandler
-second_title: Aspose.SVG för .NET API Referens
-description: Representerar callback för händelsehantering.
+title: "DOMEventHandler-delegat"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Representerar återanropet för händelsehantering"
 type: docs
-weight: 890
+weight: 2890
 url: /sv/net/aspose.svg.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate
 
-Representerar callback för händelsehantering.
+Representerar återanropet för händelsehantering.
 
 ```csharp
 public delegate void DOMEventHandler(object sender, Event e);
@@ -16,13 +16,11 @@ public delegate void DOMEventHandler(object sender, Event e);
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sender | Object | Avsändaren. |
-| e | Event | Argumenten för händelsen. |
+| avsändare | Objekt | Avsändaren. |
+| e | Händelse | Händelseargumenten. |
 
 ### Se även
 
 * class [Event](../event/)
-* namnutrymme [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../)

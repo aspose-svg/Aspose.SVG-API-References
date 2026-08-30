@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Subtree
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit fast egendom. Ställ in på sant om mutationer till inte bara målet utan även målets avkomlingar ska observeras
+title: "MutationObserverInit.Subtree"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit Subtree-egenskap. Sätt till sant om mutationer inte bara på målet utan även på målets underordnade ska observeras."
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/subtree/
 ---
 ## MutationObserverInit.Subtree property
 
-Ställ in på sant om mutationer till inte bara målet utan även målets avkomlingar ska observeras
+Ställ in till true om mutationer inte bara på målobjektet utan även på målobjektets underordnade ska observeras
 
 ```csharp
 public bool Subtree { get; set; }
@@ -17,7 +17,5 @@ public bool Subtree { get; set; }
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

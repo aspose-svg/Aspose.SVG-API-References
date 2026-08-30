@@ -1,14 +1,14 @@
 ---
-title: DOMException.DOMException
-second_title: Aspose.SVG för .NET API Referens
-description: DOMException byggare. Initierar en ny instans avDOMException class.
+title: "DOMException"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMException-konstruktorn. Initierar en ny instans av DOMException-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/domexception/domexception/
 ---
-## DOMException(string) {#constructor}
+## DOMException(*string*) {#constructor}
 
-Initierar en ny instans av[`DOMException`](../) class.
+Initierar en ny instans av klassen [`DOMException`](../).
 
 ```csharp
 public DOMException(string message)
@@ -21,14 +21,14 @@ public DOMException(string message)
 ### Se även
 
 * class [DOMException](../)
-* namnutrymme [Aspose.Svg.Dom](../../domexception/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## DOMException(string, string) {#constructor_1}
+## DOMException(*string, string*) {#constructor_1}
 
-Initierar en ny instans av[`DOMException`](../) class.
+Initierar en ny instans av klassen [`DOMException`](../).
 
 ```csharp
 public DOMException(string name, string message)
@@ -36,13 +36,11 @@ public DOMException(string name, string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Felnamnet. |
+| namn | String | Felnamnet. |
 | message | String | Felmeddelandet. |
 
 ### Se även
 
 * class [DOMException](../)
-* namnutrymme [Aspose.Svg.Dom](../../domexception/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

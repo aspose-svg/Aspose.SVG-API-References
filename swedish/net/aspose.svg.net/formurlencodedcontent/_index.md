@@ -1,14 +1,14 @@
 ---
-title: Class FormUrlEncodedContent
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.FormUrlEncodedContent klass. En behållare för namn/värdetupler kodade med application/xwwwformurlencoded MIMEtyp.
+title: "FormUrlEncodedContent klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.FormUrlEncodedContent klass. En behållare för namn/värde‑par kodade med MIME‑typen application/x-www-form-urlencoded."
 type: docs
-weight: 2250
+weight: 4320
 url: /sv/net/aspose.svg.net/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent class
 
-En behållare för namn/värde-tupler kodade med application/x-www-form-urlencoded MIME-typ.
+En behållare för namn/värde‑par kodade med MIME-typen application/x-www-form-urlencoded.
 
 ```csharp
 public class FormUrlEncodedContent : ByteArrayContent
@@ -16,29 +16,27 @@ public class FormUrlEncodedContent : ByteArrayContent
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FormUrlEncodedContent](formurlencodedcontent/)(IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;) | Initierar en ny instans av`FormUrlEncodedContent` class. |
+| [FormUrlEncodedContent](formurlencodedcontent/)(*IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;*) | Initierar en ny instans av klassen `FormUrlEncodedContent`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Headers](../../aspose.svg.net/content/headers/) { get; } | Hämtar HTTP-innehållsrubriker. |
+| [Headers](../../aspose.svg.net/content/headers/) { get; } | Hämtar HTTP‑innehållshuvuden. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose/)() | Utför programdefinierade uppgifter associerade med att frigöra, frigöra eller återställa ohanterade resurser. |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Serialisera HTTP-innehållet och returnera en byte-array som representerar innehållet. |
+| [Dispose](../../aspose.svg.net/content/dispose/)() | Utför applikationsdefinierade uppgifter som är relaterade till att frigöra, släppa eller återställa ohanterade resurser. |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray/)() | Serialisera HTTP-innehållet och returnera en bytearray som representerar innehållet. |
 | [ReadAsStream](../../aspose.svg.net/content/readasstream/)() | Serialisera HTTP-innehållet och returnera en ström som representerar innehållet. |
 | [ReadAsString](../../aspose.svg.net/content/readasstring/)() | Serialisera HTTP-innehållet och returnera en sträng som representerar innehållet. |
 
 ### Se även
 
 * class [ByteArrayContent](../bytearraycontent/)
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

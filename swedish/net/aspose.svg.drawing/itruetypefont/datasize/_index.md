@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.DataSize
-second_title: Aspose.SVG för .NET API Referens
-description: ITrueTypeFont fast egendom. Returnerar storleken på teckensnittsdata i bytes
+title: "ITrueTypeFont.DataSize"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITrueTypeFont DataSize property. Hämtar storleken på teckensnittets data i byte"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/itruetypefont/datasize/
 ---
 ## ITrueTypeFont.DataSize property
 
-Returnerar storleken på teckensnittsdata i bytes
+Hämtar storleken på teckensnittsdata i byte.
 
 ```csharp
 public float DataSize { get; }
@@ -16,12 +16,10 @@ public float DataSize { get; }
 
 ### Returvärde
 
-Storleken på teckensnittsdata
+Storleken på teckensnittets data i byte.
 
 ### Se även
 
 * interface [ITrueTypeFont](../)
-* namnutrymme [Aspose.Svg.Drawing](../../itruetypefont/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Node.CDATA_SECTION_NODE
-second_title: Aspose.SVG för .NET API Referens
-description: Node fält. En cdatasektion node
+title: "Node.CDATA_SECTION_NODE"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node CDATA_SECTION_NODE‑fält. En CDATA‑sektionnod"
 type: docs
-weight: 330
+weight: 310
 url: /sv/net/aspose.svg.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
 
-En cdatasektion node
+En CDATA-sektionsnod
 
 ```csharp
 public const ushort CDATA_SECTION_NODE;
@@ -17,7 +17,5 @@ public const ushort CDATA_SECTION_NODE;
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

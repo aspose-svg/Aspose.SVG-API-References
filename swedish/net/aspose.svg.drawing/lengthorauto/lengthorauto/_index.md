@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.LengthOrAuto
-second_title: Aspose.SVG för .NET API Referens
-description: LengthOrAuto byggare. Initierar en ny instans avLengthOrAuto klass och ställer in tillståndet till auto.
+title: "LengthOrAuto"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "LengthOrAuto‑konstruktor. Initierar en ny instans av LengthOrAuto‑klassen och sätter tillståndet till auto"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
 
-Initierar en ny instans av[`LengthOrAuto`](../) klass och ställer in tillståndet till 'auto'.
+Initierar en ny instans av [`LengthOrAuto`](../)‑klassen och sätter tillståndet till 'auto'.
 
 ```csharp
 public LengthOrAuto()
@@ -17,14 +17,14 @@ public LengthOrAuto()
 ### Se även
 
 * class [LengthOrAuto](../)
-* namnutrymme [Aspose.Svg.Drawing](../../lengthorauto/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## LengthOrAuto(Length) {#constructor_1}
+## LengthOrAuto(*[Length](../../length/)*) {#constructor_1}
 
-Initierar en ny instans av[`LengthOrAuto`](../)klass och ställer in tillståndet till 'längd'.
+Initierar en ny instans av [`LengthOrAuto`](../)‑klassen och sätter tillståndet till 'lenght'.
 
 ```csharp
 public LengthOrAuto(Length length)
@@ -32,13 +32,11 @@ public LengthOrAuto(Length length)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| length | Length | Längden. |
+| längd | Length | Längden. |
 
 ### Se även
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* namnutrymme [Aspose.Svg.Drawing](../../lengthorauto/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

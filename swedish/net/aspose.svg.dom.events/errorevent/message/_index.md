@@ -1,27 +1,25 @@
 ---
-title: ErrorEvent.Message
-second_title: Aspose.SVG för .NET API Referens
-description: ErrorEvent fast egendom. Meddelandeattributet måste returnera värdet som det initierades till. När objektet skapas måste detta attribut initieras till den tomma strängen. Det representerar felmeddelandet.
+title: "ErrorEvent.Message"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ErrorEvent Message egenskap. message-attributet måste returnera det värde det initierades med. När objektet skapas måste detta attribut initieras till en tom sträng. Det representerar felmeddelandet."
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom.events/errorevent/message/
 ---
 ## ErrorEvent.Message property
 
-Meddelandeattributet måste returnera värdet som det initierades till. När objektet skapas måste detta attribut initieras till den tomma strängen. Det representerar felmeddelandet.
+message-attributet måste returnera det värde det initierades med. När objektet skapas måste detta attribut initieras till en tom sträng. Det representerar felmeddelandet.
 
 ```csharp
 public string Message { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Meddelandet.
 
 ### Se även
 
 * class [ErrorEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../errorevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

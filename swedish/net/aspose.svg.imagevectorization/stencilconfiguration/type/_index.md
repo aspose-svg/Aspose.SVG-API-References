@@ -1,14 +1,14 @@
 ---
-title: StencilConfiguration.Type
-second_title: Aspose.SVG för .NET API Referens
-description: StencilConfiguration fast egendom. Hämtar eller ställer inStencilType .
+title: "StencilConfiguration.Type"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "StencilConfiguration Type-egenskap. Hämtar eller anger StencilType"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.imagevectorization/stencilconfiguration/type/
 ---
 ## StencilConfiguration.Type property
 
-Hämtar eller ställer in[`StencilType`](../../stenciltype/) .
+Hämtar eller anger [`StencilType`](../../stenciltype/).
 
 ```csharp
 public StencilType Type { get; set; }
@@ -18,7 +18,5 @@ public StencilType Type { get; set; }
 
 * enum [StencilType](../../stenciltype/)
 * class [StencilConfiguration](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../stencilconfiguration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Unit.Equals
-second_title: Aspose.SVG för .NET API Referens
-description: Unit metod. Bestämmer om den angivnaUnit  är lika med denna instans.
+title: "Unit.Equals"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Metoden Unit Equals. Avgör om den angivna Unit är lika med detta objekt"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/unit/equals/
 ---
-## Equals(Unit) {#equals}
+## Equals(*[Unit](../)*) {#equals}
 
-Bestämmer om den angivna[`Unit`](../) , är lika med denna instans.
+Avgör om den angivna [`Unit`](../), är lika med detta objekt.
 
 ```csharp
 public virtual bool Equals(Unit other)
@@ -16,23 +16,23 @@ public virtual bool Equals(Unit other)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| other | Unit | De[`Unit`](../) att jämföra med det här exemplet. |
+| other | Unit | Den [`Unit`](../) att jämföra med detta objekt. |
 
 ### Returvärde
 
-`Sann` om det angivna[`Unit`](../) är lika med denna instans; annat,`falsk` .
+`true` om den angivna [`Unit`](../) är lika med detta objekt; annars `false`.
 
 ### Se även
 
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bestämmer om den angivnaObject , är lika med denna instans.
+Bestämmer om det angivna objektet är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +40,14 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Objekt | Objektet att jämföra med den här instansen. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`sant` om det angivna objektet är lika med den här instansen; annars, `falskt`.
 
 ### Se även
 
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

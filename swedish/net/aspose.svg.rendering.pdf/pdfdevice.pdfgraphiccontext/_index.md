@@ -1,14 +1,14 @@
 ---
-title: Class PdfDevice.PdfGraphicContext
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.Pdf.PdfDevicePdfGraphicContext klass. Innehåller aktuella grafikkontrollparametrar för PdfDevice. Dessa parametrar definierar det globala ramverket inom vilket grafikoperatorerna exekverar.
+title: "PdfDevice.PdfGraphicContext-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.Pdf.PdfDevicePdfGraphicContext-klass. Innehåller aktuella grafikstyrningsparametrar för PdfDevice. Dessa parametrar definierar den globala ramen inom vilken grafikoperatorerna körs"
 type: docs
-weight: 2960
+weight: 5030
 url: /sv/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext class
 
-Innehåller aktuella grafikkontrollparametrar för PdfDevice. Dessa parametrar definierar det globala ramverket inom vilket grafikoperatorerna exekverar.
+Innehåller aktuella grafikstyrningsparametrar för PdfDevice. Dessa parametrar definierar den globala ramen inom vilken grafikoperatorerna körs.
 
 ```csharp
 public class PdfGraphicContext : GraphicContext
@@ -16,42 +16,40 @@ public class PdfGraphicContext : GraphicContext
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PdfGraphicContext](pdfgraphiccontext/)() | Default_Constructor |
+| [PdfGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/.ctor)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Ställer in eller får teckenavstånd. |
-| override [FillBrush](../../aspose.svg.rendering.pdf/pdfgraphiccontext/fillbrush/) { get; set; } | Ställer in eller hämtar penselobjektet som används för att fylla banornas inre. |
-| virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Ställer in eller hämtar True Type-teckensnittsobjektet som används för att rendera text. |
-| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Ställer in eller hämtar teckenstorlek för text. |
-| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle/) { get; set; } | Ställer in eller hämtar texttypsnittsstil. |
-| override [LineCap](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linecap/) { get; set; } | Ställer in eller hämtar koden som anger formen på ändpunkterna för en öppen bana som ströks. |
-| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Ställer in eller hämtar fasförskjutningen av det aktuella linjestreckmönstret. |
-| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Ställer in eller hämtar beskrivningen av streckmönstret som ska användas när banor ströks. |
-| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle/) { get; set; } | Uppsättningar av får stilen för streckade linjer i en streckad bana. |
-| override [LineJoin](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linejoin/) { get; set; } | Ställer in eller hämtar koden som anger formen på fogar mellan anslutna segment av en streckad bana. |
-| override [LineWidth](../../aspose.svg.rendering.pdf/pdfgraphiccontext/linewidth/) { get; set; } | Ställer in eller hämtar tjockleken på banorna som ska sträckas. |
-| override [MiterLimit](../../aspose.svg.rendering.pdf/pdfgraphiccontext/miterlimit/) { get; set; } | Ställer in eller hämtar den maximala längden på geringslinjer för streckade banor. Den här parametern begränsar längden på "spikar" som produceras när linjesegment förenas i skarpa vinklar. |
-| override [StrokeBrush](../../aspose.svg.rendering.pdf/pdfgraphiccontext/strokebrush/) { get; set; } | Ställer in eller hämtar penselobjektet som används för streckade banor. |
-| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo/) { get; } | Får en[`TextInfo`](../../aspose.svg.rendering/textinfo/) objekt som innehåller information om renderad text. |
-| override [TransformationMatrix](../../aspose.svg.rendering.pdf/pdfgraphiccontext/transformationmatrix/) { get; set; } | Ställer in eller hämtar transformationsmatris. |
+| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Ställer in eller hämtar teckenavstånd. |
+| [CurrentElement](../../aspose.svg.rendering/graphiccontext/currentelement/) { get; } | Hämtar aktuellt bearbetat element. |
+| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush/) { get; set; } | Ställer in eller hämtar penselobjektet som används för att fylla insidan av banor. |
+| virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Ställer in eller hämtar TrueType‑teckensnittobjektet som används för att rendera text. |
+| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Ställer in eller hämtar textens teckenstorlek. |
+| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle/) { get; set; } | Ställer in eller hämtar textens teckenstil. |
+| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap/) { get; set; } | Ställer in eller hämtar koden som specificerar formen på ändpunkterna för någon öppen bana som strokas. |
+| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Ställer in eller hämtar fasförskjutningen för det aktuella streckmönstret. |
+| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Ställer in eller hämtar beskrivningen av streckmönstret som ska användas när banor strokas. Kan sättas till null eller en tom array för att inaktiveras. |
+| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin/) { get; set; } | Ställer in eller hämtar koden som specificerar formen på fogarna mellan anslutna segment av en strokad bana. |
+| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth/) { get; set; } | Ställer in eller hämtar tjockleken på banor som ska strokas. |
+| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit/) { get; set; } | Ställer in eller hämtar den maximala längden på snedställda linjeskarvar för strokade banor. Denna parameter begränsar längden på \"spikes\" som bildas när linjesegment möts i skarpa vinklar. |
+| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush/) { get; set; } | Ställer in eller hämtar penselobjektet som används för strokade banor. |
+| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo/) { get; } | Hämtar ett [`TextInfo`](../../aspose.svg.rendering/textinfo/)‑objekt som innehåller information om renderad text. |
+| virtual [TransformationMatrix](../../aspose.svg.rendering/graphiccontext/transformationmatrix/) { get; set; } | Ställer in eller hämtar transformationsmatris. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Clone](../../aspose.svg.rendering.pdf/pdfgraphiccontext/clone/)() | Skapar en ny instans av en klass med samma egenskapsvärden som en befintlig instans. |
-| override [Transform](../../aspose.svg.rendering.pdf/pdfgraphiccontext/transform/)(Matrix) | Ändra den aktuella transformationsmatrisen genom att multiplicera den angivna matrisen. |
+| virtual [Clone](../../aspose.svg.rendering/graphiccontext/clone/)() | Skapar en ny instans av en GraphicContext-klass med samma egenskapsvärden som en befintlig instans. |
+| virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform/)(*[IMatrix](../../aspose.svg.drawing/imatrix/)*) | Modifierar den aktuella transformationsmatrisen genom att multiplicera med den angivna matrisen. |
 
 ### Se även
 
 * class [GraphicContext](../../aspose.svg.rendering/graphiccontext/)
 * class [PdfDevice](../pdfdevice/)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../)

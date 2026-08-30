@@ -1,27 +1,25 @@
 ---
-title: Element.LastElementChild
-second_title: Aspose.SVG för .NET API Referens
-description: Element fast egendom. Returnerar den sista underordnade elementnoden för detta element. null om detta element inte har några underordnade element.
+title: "Element.LastElementChild"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element LastElementChild-egenskap. Returnerar den sista barn-elementnoden för detta element. null om detta element inte har några barn-element."
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.dom/element/lastelementchild/
 ---
 ## Element.LastElementChild property
 
-Returnerar den sista underordnade elementnoden för detta element. null om detta element inte har några underordnade element.
+Returnerar det sista barn-elementnodet för detta element. null om detta element inte har några barn-element.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det sista elementet child.
+Det sista elementbarnet.
 
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

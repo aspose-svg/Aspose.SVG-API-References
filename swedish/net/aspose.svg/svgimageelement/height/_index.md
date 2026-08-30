@@ -1,28 +1,26 @@
 ---
-title: SVGImageElement.Height
-second_title: Aspose.SVG för .NET API Referens
-description: SVGImageElement fast egendom. Motsvarar attributet höjd på det givna imageelementet.
+title: "SVGImageElement.Height"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGImageElement Height egenskap. Motsvarar attributet height på det angivna bildelementet."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svgimageelement/height/
 ---
 ## SVGImageElement.Height property
 
-Motsvarar attributet 'höjd' på det givna 'image'-elementet.
+Motsvarar attributet ‘height’ på det angivna ‘image’-elementet.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Motsvarar attributet 'höjd' på det givna 'image'-elementet.
+Motsvarar attributet ‘height’ på det angivna ‘image’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGImageElement](../)
-* namnutrymme [Aspose.Svg](../../svgimageelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Enum DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions uppräkning. Anger typer av strategier för att skriva sidor i utdataströmströmmar.
+title: "DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions Enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions enum. Anger typer av strategier för att skriva sidor till utdataflöden"
 type: docs
-weight: 2760
+weight: 4840
 url: /sv/net/aspose.svg.rendering/device-2.pagewritingstrategy-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration
+## Device<TGraphicContext,TRenderingOptions>.PageWritingStrategy<TGraphicContext,TRenderingOptions> enumeration
 
-Anger typer av strategier för att skriva sidor i utdataström\strömmar.
+Anger typer av strategier för att skriva sidor till utdataflöde\strömmar.
 
 ```csharp
 public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
@@ -16,19 +16,17 @@ public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
     where TRenderingOptions : RenderingOptions
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| SingleStream | `0` | Skriver alla sidor i en utdataström. |
-| MultipleStreams | `1` | Skriver varje sida till sin egen ström. |
+| SingleStream | `0` | Skriver alla sidor till ett utdataflöde. |
+| MultipleStreams | `1` | Skriver varje sida till ett eget flöde. |
 
 ### Se även
 
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* namnutrymme [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

@@ -1,27 +1,25 @@
 ---
-title: ResponseMessage.StatusCode
-second_title: Aspose.SVG för .NET API Referens
-description: ResponseMessage fast egendom. Hämtar eller ställer in statuskoden.
+title: "ResponseMessage.StatusCode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ResponseMessage StatusCode‑egenskap. Hämtar eller anger statuskoden"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.svg.net/responsemessage/statuscode/
 ---
 ## ResponseMessage.StatusCode property
 
-Hämtar eller ställer in statuskoden.
+Hämtar eller anger statuskoden.
 
 ```csharp
 public HttpStatusCode StatusCode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Statuskoden.
 
 ### Se även
 
 * class [ResponseMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../responsemessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

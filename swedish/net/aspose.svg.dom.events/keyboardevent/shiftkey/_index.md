@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.ShiftKey
-second_title: Aspose.SVG för .NET API Referens
-description: KeyboardEvent fast egendom. true om skift Shifttangentens modifierare var aktiv.
+title: "KeyboardEvent.ShiftKey"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "KeyboardEvent ShiftKey-egenskapen. true om skift-tangenten var aktiv."
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.dom.events/keyboardevent/shiftkey/
 ---
 ## KeyboardEvent.ShiftKey property
 
-true om skift- (Shift)-tangentens modifierare var aktiv.
+true om shift‑tangenten (Shift) var aktiv.
 
 ```csharp
 public bool ShiftKey { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om Skift; annat,`falsk` .
+`true` om Shift; annars `false`.
 
 ### Se även
 
 * class [KeyboardEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

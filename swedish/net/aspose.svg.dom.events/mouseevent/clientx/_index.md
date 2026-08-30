@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.ClientX
-second_title: Aspose.SVG för .NET API Referens
-description: MouseEvent fast egendom. Den horisontella koordinaten vid vilken händelsen inträffade i förhållande till visningsporten som är kopplad till händelsen.
+title: "MouseEvent.ClientX"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MouseEvent ClientX property. Den horisontella koordinaten där händelsen inträffade i förhållande till den viewport som är associerad med händelsen"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.dom.events/mouseevent/clientx/
 ---
 ## MouseEvent.ClientX property
 
-Den horisontella koordinaten vid vilken händelsen inträffade i förhållande till visningsporten som är kopplad till händelsen.
+Den horisontella koordinaten där händelsen inträffade i förhållande till den vyport som är associerad med händelsen.
 
 ```csharp
 public long ClientX { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Klienten x.
+Klient‑x.
 
 ### Se även
 
 * class [MouseEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../mouseevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

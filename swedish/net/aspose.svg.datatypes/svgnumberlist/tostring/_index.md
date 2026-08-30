@@ -1,14 +1,14 @@
 ---
-title: SVGNumberList.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: SVGNumberList metod. Returnerar enString som representerar denna instans.
+title: "SVGNumberList.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGNumberList ToString‑metoden. Returnerar en sträng som representerar detta objekt."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.datatypes/svgnumberlist/tostring/
 ---
 ## SVGNumberList.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar den här instansen.
 
 ### Se även
 
 * class [SVGNumberList](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgnumberlist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: CDATASection.NodeType
-second_title: Aspose.SVG för .NET API Referens
-description: CDATASection fast egendom. En kod som representerar typen av det underliggande objektet.
+title: "CDATASection.NodeType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CDATASection NodeType egenskap. En kod som representerar typen av det underliggande objektet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom/cdatasection/nodetype/
@@ -14,14 +14,12 @@ En kod som representerar typen av det underliggande objektet.
 public override ushort NodeType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av nod.
+Typen av noden.
 
 ### Se även
 
 * class [CDATASection](../)
-* namnutrymme [Aspose.Svg.Dom](../../cdatasection/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

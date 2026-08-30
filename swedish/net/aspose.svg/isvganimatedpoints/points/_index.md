@@ -1,28 +1,26 @@
 ---
-title: ISVGAnimatedPoints.Points
-second_title: Aspose.SVG för .NET API Referens
-description: ISVGAnimatedPoints fast egendom. Ger tillgång till basinnehållet dvs statiskt i attributet points.
+title: "ISVGAnimatedPoints.Points"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ISVGAnimatedPoints Points egenskap. Tillhandahåller åtkomst till de grundläggande, d.v.s. statiska, innehållen i points-attributet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/isvganimatedpoints/points/
 ---
 ## ISVGAnimatedPoints.Points property
 
-Ger tillgång till basinnehållet (dvs statiskt) i attributet 'points'.
+Tillhandahåller åtkomst till basen (dvs. statiska) innehållet i attributet ‘points’.
 
 ```csharp
 public SVGPointList Points { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Innehållet i "points"-attributet
+Innehållet i ‘points’-attributet
 
 ### Se även
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * interface [ISVGAnimatedPoints](../)
-* namnutrymme [Aspose.Svg](../../isvganimatedpoints/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGElement.OwnerSVGElement
-second_title: Aspose.SVG för .NET API Referens
-description: SVGElement fast egendom. Det närmaste förfaderns svgelement. Null om det givna elementet är det yttersta svgelementet.
+title: "SVGElement.OwnerSVGElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGElement OwnerSVGElement‑egenskap. Det närmaste förfäders‑svg‑elementet. Null om det angivna elementet är det yttersta svg‑elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
 
-Det närmaste förfaderns "svg"-element. Null om det givna elementet är det yttersta svg-elementet.
+Det närmaste förfäders‑elementet ‘svg’. Null om det givna elementet är det yttersta svg‑elementet.
 
 ```csharp
 public SVGSVGElement OwnerSVGElement { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Ägarens SVG-element.
+Ägande‑svg‑elementet.
 
 ### Se även
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

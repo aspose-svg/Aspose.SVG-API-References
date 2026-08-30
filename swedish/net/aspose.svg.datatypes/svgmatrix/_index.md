@@ -1,14 +1,14 @@
 ---
-title: Class SVGMatrix
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.DataTypes.SVGMatrix klass. Många av SVGs grafikoperationer använder 2x3matriser av formen ace bdf som när den expanderas till en 3x3matris för matrisaritmetik blir 000d_0d_0d_0d_0d_0d_0d_000d_0 0 1
+title: "SVGMatrix klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.DataTypes.SVGMatrix klass. Många av SVG:s grafikoperationer använder 2x3-matriser av formen a c e b d f som när de expanderas till en 3x3-matris för matrisaritmetik blir a c e b d f 0 0 1."
 type: docs
-weight: 240
+weight: 2230
 url: /sv/net/aspose.svg.datatypes/svgmatrix/
 ---
 ## SVGMatrix class
 
-Många av SVG:s grafikoperationer använder 2x3-matriser av formen: [ace] [bdf] som, när den expanderas till en 3x3-matris för matrisaritmetik, blir: 000d_0d_0d_0d_0d_0d_0d_000d_0 0 1]
+Många av SVG:s grafikoperationer använder 2x3‑matriser av formen: [a c e] [b d f] som, när de expanderas till en 3x3‑matris för matrisaritmetik, blir: [a c e] [b d f] [0 0 1]
 
 ```csharp
 public class SVGMatrix : SVGValueType
@@ -16,7 +16,7 @@ public class SVGMatrix : SVGValueType
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [A](../../aspose.svg.datatypes/svgmatrix/a/) { get; set; } | A-komponenten i matrisen. |
 | [B](../../aspose.svg.datatypes/svgmatrix/b/) { get; set; } | B-komponenten i matrisen. |
@@ -27,23 +27,21 @@ public class SVGMatrix : SVGValueType
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
-| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply/)(SVGMatrix) | Utför matrismultiplikation. Denna matris eftermultipliceras med en annan matris, vilket returnerar den resulterande nya matrisen. |
-| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate/)(float) | Eftermultiplicerar en rotationstransformation på den aktuella matrisen och returnerar den resulterande matrisen. |
-| [Scale](../../aspose.svg.datatypes/svgmatrix/scale/)(float) | Eftermultiplicerar en enhetlig skaltransformation på den aktuella matrisen och returnerar den resulterande matrisen. |
-| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform/)(float, float) | Postmultiplicerar en olikformig skaltransformation på den aktuella matrisen och returnerar den resulterande matrisen. |
-| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx/)(float) | Eftermultiplicerar en skewX-transformation på den aktuella matrisen och returnerar den resulterande matrisen. |
-| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy/)(float) | Eftermultiplicerar en skev transformation på den aktuella matrisen och returnerar den resulterande matrisen. |
-| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring/)() | Returnerar enString som representerar denna instans. |
-| [Translate](../../aspose.svg.datatypes/svgmatrix/translate/)(float, float) | Eftermultiplicerar en översättningstransformation på den aktuella matrisen och returnerar den resulterande matrisen. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
+| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply/)(*SVGMatrix*) | Utför matris‑multiplikation. Denna matris multipliceras post‑multiplikativt med en annan matris och returnerar den resulterande nya matrisen. |
+| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate/)(*float*) | Post‑multiplicerar en rotations‑transformation på den aktuella matrisen och returnerar den resulterande matrisen. |
+| [Scale](../../aspose.svg.datatypes/svgmatrix/scale/)(*float*) | Post‑multiplicerar en enhetlig skalförändring på den aktuella matrisen och returnerar den resulterande matrisen. |
+| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform/)(*float, float*) | Post‑multiplicerar en icke‑enhetlig skalförändring på den aktuella matrisen och returnerar den resulterande matrisen. |
+| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx/)(*float*) | Post‑multiplicerar en skewX‑transformation på den aktuella matrisen och returnerar den resulterande matrisen. |
+| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy/)(*float*) | Post‑multiplicerar en skewY‑transformation på den aktuella matrisen och returnerar den resulterande matrisen. |
+| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring/)() | Returnerar en sträng som representerar den här instansen. |
+| [Translate](../../aspose.svg.datatypes/svgmatrix/translate/)(*float, float*) | Post‑multiplicerar en translations‑transformation på den aktuella matrisen och returnerar den resulterande matrisen. |
 
 ### Se även
 
 * class [SVGValueType](../svgvaluetype/)
-* namnutrymme [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

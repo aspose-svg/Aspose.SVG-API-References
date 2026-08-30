@@ -1,14 +1,14 @@
 ---
-title: Class DOMNoInterfaceObjectAttribute
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute klass. Om det utökade attributet NoInterfaceObject visas på ett gränssnitt indikerar det att ett gränssnittsobjekt inte kommer att existera för gränssnittet i ECMAScriptbindningen.
+title: "DOMNoInterfaceObjectAttribute klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Attributes.DOMNoInterfaceObjectAttribute klass. Om det utökade attributet NoInterfaceObject förekommer på ett gränssnitt indikerar det att ett gränssnittsobjekt inte kommer att finnas för gränssnittet i ECMAScript‑bindningen"
 type: docs
-weight: 400
+weight: 2400
 url: /sv/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class
 
-Om det utökade attributet [NoInterfaceObject] visas på ett gränssnitt, indikerar det att ett gränssnittsobjekt inte kommer att existera för gränssnittet i ECMAScript-bindningen.
+Om det utökade attributet [NoInterfaceObject] visas på ett gränssnitt, indikerar det att ett gränssnittsobjekt inte kommer att finnas för gränssnittet i ECMAScript‑bindningen.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -17,13 +17,17 @@ public sealed class DOMNoInterfaceObjectAttribute : Attribute
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | Default_Constructor |
+| [DOMNoInterfaceObjectAttribute](domnointerfaceobjectattribute/)() | Standardkonstruktorn. |
+
+## Egenskaper
+
+| Namn | Beskrivning |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../)

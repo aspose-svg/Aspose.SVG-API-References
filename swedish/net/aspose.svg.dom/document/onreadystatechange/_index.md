@@ -1,14 +1,14 @@
 ---
-title: Document.OnReadyStateChange
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnReadyStateChangehändelse.
+title: "Document.OnReadyStateChange"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnReadyStateChange‑händelse. Hämtar eller anger händelsehanterare för OnReadyStateChange‑händelsen"
 type: docs
 weight: 640
 url: /sv/net/aspose.svg.dom/document/onreadystatechange/
 ---
 ## Document.OnReadyStateChange event
 
-Hämtar eller ställer in händelsehanterare för OnReadyStateChange-händelse.
+Hämtar eller anger händelsehanterare för OnReadyStateChange‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnReadyStateChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnReadyStateChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGGraphicsElement.GetScreenCTM
-second_title: Aspose.SVG för .NET API Referens
-description: SVGGraphicsElement metod. Returnerar transformationsmatrisen från nuvarande användarenheter dvs. efter applicering av transformattributet om det finns till den överordnade användaragentens meddelande om en pixel. För visningsenheter representerar detta idealiskt en fysisk skärmpixel. För andra enheter eller miljöer där fysiska pixelstorlekar inte är kända kan en algoritm som liknar CSS2definitionen av en pixel istället användas. Observera att null returneras om detta element inte är kopplat till dokumentträdet. Denna metod skulle ha fått ett mer passande namn som getClientCTM men namnet getScreenCTM behålls av historiska skäl.
+title: "SVGGraphicsElement.GetScreenCTM"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGGraphicsElement GetScreenCTM method. Returnerar transformationsmatrisen från aktuella användarenheter, d.v.s. efter tillämpning av attributet transform om det finns, till förälderns användaragents uppfattning av en pixel. För displayenheter representerar detta idealiskt en fysisk skärm‑pixel. För andra enheter eller miljöer där fysiska pixelformat är okända kan en algoritm liknande CSS2‑definitionen av en pixel användas istället. Observera att null returneras om detta element inte är kopplat till dokumentträdet. Denna metod skulle ha kunnat heta getClientCTM, men namnet getScreenCTM behålls av historiska skäl."
 type: docs
 weight: 90
 url: /sv/net/aspose.svg/svggraphicselement/getscreenctm/
 ---
 ## SVGGraphicsElement.GetScreenCTM method
 
-Returnerar transformationsmatrisen från nuvarande användarenheter (dvs. efter applicering av "transform"-attributet, om det finns) till den överordnade användaragentens meddelande om en "pixel". För visningsenheter representerar detta idealiskt en fysisk skärmpixel. För andra enheter eller miljöer där fysiska pixelstorlekar inte är kända, kan en algoritm som liknar CSS2-definitionen av en "pixel" istället användas. Observera att null returneras om detta element inte är kopplat till dokumentträdet. Denna metod skulle ha fått ett mer passande namn som getClientCTM, men namnet getScreenCTM behålls av historiska skäl.
+Returnerar transformationsmatrisen från aktuella användarenheter (dvs. efter tillämpning av attributet ‘transform’, om någon) till den överordnade användaragenterens definition av en \"pixel\". För visningsenheter representerar detta idealiskt en fysisk skärm‑pixel. För andra enheter eller miljöer där fysiska pixelformat är okända kan en algoritm liknande CSS2‑definitionen av en \"pixel\" användas istället. Observera att null returneras om detta element inte är kopplat till dokumentträdet. Denna metod skulle ha kunnat heta getClientCTM, men namnet getScreenCTM behålls av historiska skäl.
 
 ```csharp
 public SVGMatrix GetScreenCTM()
@@ -16,13 +16,11 @@ public SVGMatrix GetScreenCTM()
 
 ### Returvärde
 
-Ett SVGMatrix-objekt som definierar den givna transformationsmatrisen.
+Ett SVGMatrix‑objekt som definierar den angivna transformationsmatrisen.
 
 ### Se även
 
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGGraphicsElement](../)
-* namnutrymme [Aspose.Svg](../../svggraphicselement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

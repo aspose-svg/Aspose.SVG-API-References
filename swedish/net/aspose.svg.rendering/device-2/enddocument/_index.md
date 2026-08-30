@@ -1,14 +1,14 @@
 ---
-title: Device2.EndDocument
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Avslutar renderingen av dokumentet.
+title: "Device-2.EndDocument"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device EndDocument-metod. Avslutar rendering av dokumentet"
 type: docs
-weight: 120
+weight: 150
 url: /sv/net/aspose.svg.rendering/device-2/enddocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndDocument method
+## Device<TGraphicContext,TRenderingOptions>.EndDocument method
 
-Avslutar renderingen av dokumentet.
+Avslutar rendering av dokumentet.
 
 ```csharp
 public virtual void EndDocument()
@@ -17,7 +17,5 @@ public virtual void EndDocument()
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

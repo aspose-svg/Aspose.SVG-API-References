@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.EdgeMode
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEConvolveMatrixElement fast egendom. Motsvarar attributet edgeMode på det givna feConvolveMatrixelementet.
+title: "SVGFEConvolveMatrixElement.EdgeMode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEConvolveMatrixElement EdgeMode-egenskap. Motsvarar attributet edgeMode på det givna feConvolveMatrix-elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.filters/svgfeconvolvematrixelement/edgemode/
 ---
 ## SVGFEConvolveMatrixElement.EdgeMode property
 
-Motsvarar attributet 'edgeMode' på det givna 'feConvolveMatrix'-elementet.
+Motsvarar attributet ‘edgeMode’ på det angivna ‘feConvolveMatrix’-elementet.
 
 ```csharp
 public SVGAnimatedEnumeration EdgeMode { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'edgeMode' för det givna 'feConvolveMatrix'-elementet.
+Attributet ‘edgeMode’ på det givna ‘feConvolveMatrix’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEConvolveMatrixElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

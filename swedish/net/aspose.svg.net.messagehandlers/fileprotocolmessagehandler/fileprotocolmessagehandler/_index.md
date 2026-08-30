@@ -1,14 +1,14 @@
 ---
-title: FileProtocolMessageHandler.FileProtocolMessageHandler
-second_title: Aspose.SVG för .NET API Referens
-description: FileProtocolMessageHandler byggare. Initierar en ny instans avFileProtocolMessageHandler class.
+title: "FileProtocolMessageHandler"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FileProtocolMessageHandler-konstruktorn. Initierar en ny instans av FileProtocolMessageHandler-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler constructor
 
-Initierar en ny instans av[`FileProtocolMessageHandler`](../) class.
+Initierar en ny instans av [`FileProtocolMessageHandler`](../)-klassen.
 
 ```csharp
 public FileProtocolMessageHandler()
@@ -17,7 +17,5 @@ public FileProtocolMessageHandler()
 ### Se även
 
 * class [FileProtocolMessageHandler](../)
-* namnutrymme [Aspose.Svg.Net.MessageHandlers](../../fileprotocolmessagehandler/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.Item
-second_title: Aspose.SVG för .NET API Referens
-description: CSSValueList fast egendom. FårCSSValue vid angivet index.
+title: "CSSValueList.Item"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSValueList Item-egenskap. Hämtar CSSValue på det angivna indexet."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.css/cssvaluelist/item/
 ---
 ## CSSValueList indexer
 
-Får[`CSSValue`](../../cssvalue/) vid angivet index.
+Hämtar [`CSSValue`](../../cssvalue/) på det angivna indexet.
 
 ```csharp
 public CSSValue this[int index] { get; }
@@ -18,15 +18,13 @@ public CSSValue this[int index] { get; }
 | --- | --- |
 | index | Indexet. |
 
-### Fastighetsvärde
+### Property Value
 
-Den[`CSSValue`](../../cssvalue/) .
+Den [`CSSValue`](../../cssvalue/).
 
 ### Se även
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

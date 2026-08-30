@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.RemoveUnusedDefs
-second_title: Aspose.SVG för .NET API Referens
-description: SVGOptimizationOptions fast egendom. Gets of sets alternativet att ta bort innehållet i defs som inte visas direkt utan identifierare. Det är sant som standard.
+title: "SVGOptimizationOptions.RemoveUnusedDefs"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGOptimizationOptions RemoveUnusedDefs egenskap. Hämtar eller anger alternativet för att ta bort innehållet i defs som inte visas direkt utan identifierare. Den är sann som standard."
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeunuseddefs/
 ---
 ## SVGOptimizationOptions.RemoveUnusedDefs property
 
-Gets of sets alternativet att ta bort innehållet i defs som inte visas direkt utan identifierare. Det är "sant" som standard.
+Hämtar eller anger alternativet för att ta bort innehållet i defs som inte visas direkt utan identifierare. Det är 'true' som standard.
 
 ```csharp
 public bool RemoveUnusedDefs { get; set; }
@@ -17,7 +17,5 @@ public bool RemoveUnusedDefs { get; set; }
 ### Se även
 
 * class [SVGOptimizationOptions](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

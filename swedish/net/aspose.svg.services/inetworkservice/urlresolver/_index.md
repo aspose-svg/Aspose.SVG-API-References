@@ -1,28 +1,26 @@
 ---
-title: INetworkService.UrlResolver
-second_title: Aspose.SVG för .NET API Referens
-description: INetworkService fast egendom. Hämtar eller ställer in URLresolver.
+title: "INetworkService.UrlResolver"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "INetworkService UrlResolver egenskap. Hämtar eller anger URL‑upplösaren"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.services/inetworkservice/urlresolver/
 ---
 ## INetworkService.UrlResolver property
 
-Hämtar eller ställer in URL-resolver.
+Hämtar eller anger URL‑upplösaren.
 
 ```csharp
 public UrlResolver UrlResolver { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-URL-resolver.
+URL‑upplösaren.
 
 ### Se även
 
 * class [UrlResolver](../../../aspose.svg.net/urlresolver/)
 * interface [INetworkService](../)
-* namnutrymme [Aspose.Svg.Services](../../inetworkservice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

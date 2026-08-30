@@ -1,27 +1,25 @@
 ---
-title: ICSSRule.CSSText
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSRule fast egendom. Den tolkbara textrepresentationen av regeln. Detta återspeglar regelns nuvarande tillstånd och inte dess initiala värde.
+title: "ICSSRule.CSSText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSRule CSSText egenskap. Den parsbara textrepresentationen av regeln. Detta återspeglar regelns nuvarande tillstånd och inte dess ursprungliga värde"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icssrule/csstext/
 ---
 ## ICSSRule.CSSText property
 
-Den tolkbara textrepresentationen av regeln. Detta återspeglar regelns nuvarande tillstånd och inte dess initiala värde.
+Den parsbara textrepresentationen av regeln. Detta återspeglar regelns aktuella tillstånd och inte dess ursprungliga värde.
 
 ```csharp
 public string CSSText { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 CSS-texten.
 
 ### Se även
 
 * interface [ICSSRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

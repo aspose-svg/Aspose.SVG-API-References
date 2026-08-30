@@ -1,14 +1,14 @@
 ---
-title: Node.IsDefaultNamespace
-second_title: Aspose.SVG för .NET API Referens
-description: Node metod. Den här metoden kontrollerar om det angivna namnutrymmetURI är standardnamnutrymmet eller inte.
+title: "Node.IsDefaultNamespace"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node IsDefaultNamespace‑metod. Denna metod kontrollerar om den angivna namespaceURI är standard‑namnrymden eller inte."
 type: docs
-weight: 230
+weight: 210
 url: /sv/net/aspose.svg.dom/node/isdefaultnamespace/
 ---
 ## Node.IsDefaultNamespace method
 
-Den här metoden kontrollerar om det angivna namnutrymmet-URI är standardnamnutrymmet eller inte.
+Denna metod kontrollerar om den angivna namespaceURI är standardnamnutrymmet eller inte.
 
 ```csharp
 public bool IsDefaultNamespace(string namespaceURI)
@@ -16,16 +16,14 @@ public bool IsDefaultNamespace(string namespaceURI)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceURI | String | Namnutrymmets URI. |
+| namespaceURI | String | Namnrymd‑URI:n. |
 
 ### Returvärde
 
-`Sann` if [är standardnamnutrymme] [den angivna namnutrymmes-URI]; annat,`falsk` .
+`true` om [är standard‑namnrymd] [den angivna namnrymd‑URI:n]; annars `false`.
 
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

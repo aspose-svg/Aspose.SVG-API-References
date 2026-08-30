@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.Href
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPatternElement fast egendom. Motsvarar attributet xlinkhref på det givna elementet.
+title: "SVGPatternElement.Href"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPatternElement Href-egenskap. Motsvarar attributet xlinkhref på det givna elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgpatternelement/href/
 ---
 ## SVGPatternElement.Href property
 
-Motsvarar attributet 'xlink:href' på det givna elementet.
+Motsvarar attributet ‘xlink:href’ på det angivna elementet.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-'xlink:href' för det givna elementet.
+‘xlink:href’-värdet för det angivna elementet.
 
 ### Se även
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGPatternElement](../)
-* namnutrymme [Aspose.Svg](../../svgpatternelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: FocusEvent.FocusEvent
-second_title: Aspose.SVG för .NET API Referens
-description: FocusEvent byggare. Initierar en ny instans avFocusEvent class.
+title: "FocusEvent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FocusEvent‑konstruktor. Skapar en ny instans av FocusEvent-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.events/focusevent/focusevent/
 ---
-## FocusEvent(string) {#constructor}
+## FocusEvent(*string*) {#constructor}
 
-Initierar en ny instans av[`FocusEvent`](../) class.
+Skapar en ny instans av [`FocusEvent`](../)-klassen.
 
 ```csharp
 public FocusEvent(string type)
@@ -21,14 +21,14 @@ public FocusEvent(string type)
 ### Se även
 
 * class [FocusEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../focusevent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FocusEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## FocusEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Initierar en ny instans av[`FocusEvent`](../) class.
+Skapar en ny instans av [`FocusEvent`](../)-klassen.
 
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public FocusEvent(string type, IDictionary<string, object> eventInitDict)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | type | String | Händelsetypen. |
-| eventInitDict | IDictionary`2 | Händelsens initialiseringsordbok. |
+| eventInitDict | IDictionary`2 | Händelsens initieringsordbok. |
 
 ### Se även
 
 * class [FocusEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../focusevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

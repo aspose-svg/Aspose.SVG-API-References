@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.PatternTransform
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPatternElement fast egendom. Motsvarar attributet patternTransform på det givna patternelementet.
+title: "SVGPatternElement.PatternTransform"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPatternElement PatternTransform-egenskap. Motsvarar attributet patternTransform på det givna pattern-elementet"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg/svgpatternelement/patterntransform/
 ---
 ## SVGPatternElement.PatternTransform property
 
-Motsvarar attributet 'patternTransform' på det givna 'pattern'-elementet.
+Motsvarar attributet ‘patternTransform’ på det givna ‘pattern’-elementet.
 
 ```csharp
 public SVGAnimatedTransformList PatternTransform { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'patternTransform' för det givna 'pattern'-elementet.
+Attributet ‘patternTransform’ på det givna ‘pattern’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedTransformList](../../../aspose.svg.datatypes/svganimatedtransformlist/)
 * class [SVGPatternElement](../)
-* namnutrymme [Aspose.Svg](../../svgpatternelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

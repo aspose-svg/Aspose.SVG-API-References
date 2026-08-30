@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BackgroundAttachment
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för bakgrundsbilaga i CSS2.
+title: "ICSS2Properties.BackgroundAttachment"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BackgroundAttachment egenskap. Se definitionen av egenskapen background-attachment i CSS2"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.css/icss2properties/backgroundattachment/
 ---
 ## ICSS2Properties.BackgroundAttachment property
 
-Se egenskapsdefinitionen för bakgrundsbilaga i CSS2.
+Se definitionen av egenskapen background-attachment i CSS2.
 
 ```csharp
 public string BackgroundAttachment { get; set; }
@@ -16,12 +16,10 @@ public string BackgroundAttachment { get; set; }
 
 ### Returvärde
 
-egendom för bakgrundsbifogning
+background-attachment egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

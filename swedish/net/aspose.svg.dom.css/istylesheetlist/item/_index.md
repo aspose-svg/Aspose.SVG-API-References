@@ -1,14 +1,14 @@
 ---
-title: IStyleSheetList.Item
-second_title: Aspose.SVG för .NET API Referens
-description: IStyleSheetList fast egendom. Används för att hämta en stilmall efter metodobjekt int index enligt http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/stylesheets.html.
+title: "IStyleSheetList.Item"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IStyleSheetList Item-egenskap. Används för att hämta ett stylesheet med metoden itemint index enligt http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-Används för att hämta en stilmall efter metodobjekt (int index) enligt http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html.
+Används för att hämta ett stilark med metoden item(int index) enligt http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html.
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
@@ -16,21 +16,19 @@ public ICSSStyleSheet this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Stilmallsindex |
+| index | Style sheet-indexet |
 
 ### Returvärde
 
-CSS-stilmallsinstansen.
+CSS stylesheet-instansen.
 
-### Fastighetsvärde
+### Property Value
 
-Den[`ICSSStyleSheet`](../../icssstylesheet/) .
+Den [`ICSSStyleSheet`](../../icssstylesheet/).
 
 ### Se även
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [IStyleSheetList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../istylesheetlist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

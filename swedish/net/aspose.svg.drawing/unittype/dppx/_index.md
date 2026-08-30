@@ -1,14 +1,14 @@
 ---
-title: UnitType.Dppx
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Mätningen är i punkter per pixelenhet.
+title: "UnitType.Dppx"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Dppx-fält. Mätning är i punkter per pixel-enhet"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.drawing/unittype/dppx/
 ---
 ## UnitType.Dppx field
 
-Mätningen är i punkter per pixelenhet.
+Mätning är i punkter per pixelenhet.
 
 ```csharp
 public static readonly UnitType Dppx;
@@ -17,7 +17,5 @@ public static readonly UnitType Dppx;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

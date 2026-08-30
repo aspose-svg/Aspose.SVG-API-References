@@ -1,27 +1,25 @@
 ---
-title: SVGPathSeg.PathSegTypeAsLetter
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathSeg fast egendom. Typen av sökvägssegmentet specificerad av motsvarande ett teckens kommandonamn.
+title: "SVGPathSeg.PathSegTypeAsLetter"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathSeg PathSegTypeAsLetter egenskap. Typen av sökvägssegmentet som specificeras av det motsvarande enkarkommandonamnet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.paths/svgpathseg/pathsegtypeasletter/
 ---
 ## SVGPathSeg.PathSegTypeAsLetter property
 
-Typen av sökvägssegmentet, specificerad av motsvarande ett teckens kommandonamn.
+Typen av segmentet, specificerad av motsvarande enkars kommandonamn.
 
 ```csharp
 public string PathSegTypeAsLetter { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Typen av sökvägssegmentet.
 
 ### Se även
 
 * class [SVGPathSeg](../)
-* namnutrymme [Aspose.Svg.Paths](../../svgpathseg/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

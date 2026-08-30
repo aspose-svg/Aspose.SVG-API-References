@@ -1,14 +1,14 @@
 ---
-title: SVGPreserveAspectRatio.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPreserveAspectRatio metod. Returnerar enString som representerar denna instans.
+title: "SVGPreserveAspectRatio.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPreserveAspectRatio ToString-metod. Returnerar en String som representerar denna instans."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.datatypes/svgpreserveaspectratio/tostring/
 ---
 ## SVGPreserveAspectRatio.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar den här instansen.
 
 ### Se även
 
 * class [SVGPreserveAspectRatio](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

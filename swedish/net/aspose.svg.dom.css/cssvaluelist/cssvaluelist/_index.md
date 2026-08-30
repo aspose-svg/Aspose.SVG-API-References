@@ -1,14 +1,14 @@
 ---
-title: CSSValueList.CSSValueList
-second_title: Aspose.SVG för .NET API Referens
-description: CSSValueList byggare. Initierar en ny instans avCSSValueList class.
+title: "CSSValueList"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSValueList-konstruktorn. Initierar en ny instans av CSSValueList-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 
-Initierar en ny instans av[`CSSValueList`](../) class.
+Initierar en ny instans av klassen [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList()
@@ -17,14 +17,14 @@ public CSSValueList()
 ### Se även
 
 * class [CSSValueList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
+## CSSValueList(*IEnumerable&lt;CSSValue&gt;*) {#constructor_2}
 
-Initierar en ny instans av[`CSSValueList`](../) class.
+Initierar en ny instans av klassen [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList(IEnumerable<CSSValue> values)
@@ -38,14 +38,14 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CSSValueList(params CSSValue[]) {#constructor_1}
+## CSSValueList(*params CSSValue[]*) {#constructor_1}
 
-Initierar en ny instans av[`CSSValueList`](../) class.
+Initierar en ny instans av klassen [`CSSValueList`](../).
 
 ```csharp
 public CSSValueList(params CSSValue[] values)
@@ -59,7 +59,5 @@ public CSSValueList(params CSSValue[] values)
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssvaluelist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

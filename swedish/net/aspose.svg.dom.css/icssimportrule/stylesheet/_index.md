@@ -1,14 +1,14 @@
 ---
-title: ICSSImportRule.StyleSheet
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSImportRule fast egendom. Stilmall som refereras till av denna regel om den har laddats. Värdet på detta attribut är null om stilmallen ännu inte har laddats eller om den inte kommer att laddas t.ex. om formatmallen är för en mediatyp som inte stöds av användaragenten.
+title: "ICSSImportRule.StyleSheet"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSImportRule StyleSheet egenskap. Stilmallen som refereras av denna regel om den har laddats. Värdet för detta attribut är null om stilmallen ännu inte har laddats eller om den inte kommer att laddas, t.ex. om stilmallen är för en mediatyp som inte stöds av användaragenten"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.css/icssimportrule/stylesheet/
 ---
 ## ICSSImportRule.StyleSheet property
 
-Stilmall som refereras till av denna regel, om den har laddats. Värdet på detta attribut är null om stilmallen ännu inte har laddats eller om den inte kommer att laddas (t.ex. om formatmallen är för en mediatyp som inte stöds av användaragenten).
+Stilmallen som refereras av denna regel, om den har laddats. Värdet för detta attribut är null om stilmallen ännu inte har laddats eller om den inte kommer att laddas (t.ex. om stilmallen är för en medietyp som inte stöds av användaragenten).
 
 ```csharp
 public ICSSStyleSheet StyleSheet { get; }
@@ -18,7 +18,5 @@ public ICSSStyleSheet StyleSheet { get; }
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSImportRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssimportrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

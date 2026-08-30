@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Margin
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se marginalegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Margin"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Margin egenskap. Se definitionen av margin egenskapen i CSS2"
 type: docs
-weight: 630
+weight: 660
 url: /sv/net/aspose.svg.dom.css/icss2properties/margin/
 ---
 ## ICSS2Properties.Margin property
 
-Se marginalegenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen margin i CSS2.
 
 ```csharp
 public string Margin { get; set; }
@@ -16,12 +16,10 @@ public string Margin { get; set; }
 
 ### Returvärde
 
-marginalegenskap
+margin egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

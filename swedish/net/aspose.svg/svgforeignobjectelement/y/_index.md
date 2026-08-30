@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.Y
-second_title: Aspose.SVG för .NET API Referens
-description: SVGForeignObjectElement fast egendom. Motsvarar attributet y på det givna foreignObjectelementet.
+title: "SVGForeignObjectElement.Y"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGForeignObjectElement Y-egenskap. Motsvarar attributet y på det angivna foreignObject-elementet"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg/svgforeignobjectelement/y/
 ---
 ## SVGForeignObjectElement.Y property
 
-Motsvarar attributet 'y' på det givna 'foreignObject'-elementet.
+Motsvarar attributet ‘y’ på det angivna ‘foreignObject’-elementet.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'y' för det givna 'foreignObject'-elementet.
+Attributet ‘y’ för det angivna ‘foreignObject’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* namnutrymme [Aspose.Svg](../../svgforeignobjectelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

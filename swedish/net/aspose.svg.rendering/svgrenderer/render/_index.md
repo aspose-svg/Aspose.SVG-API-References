@@ -1,56 +1,54 @@
 ---
-title: SvgRenderer.Render
-second_title: Aspose.SVG för .NET API Referens
-description: SvgRenderer metod. Definierar metod för att rendera fleraSVGDocument är i specifikaIDevice .
+title: "SvgRenderer.Render"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SvgRenderer Render-metod. Definierar metod för rendering av flera SVGDocuments till en specifik IDevice."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.rendering/svgrenderer/render/
 ---
-## Render(IDevice, TimeSpan, params SVGDocument[]) {#render_6}
+## Render(*[IDevice](../../idevice/), TimeSpan, params SVGDocument[]*) {#render_6}
 
-Definierar metod för att rendera flera[`SVGDocument`](../../../aspose.svg/svgdocument/) är i specifika[`IDevice`](../../idevice/) .
+Definierar metod för rendering av flera [`SVGDocument`](../../../aspose.svg/svgdocument/) till en specifik [`IDevice`](../../idevice/).
 
 ```csharp
-public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] documents)
+public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] sources)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| device | IDevice | Utmatningsenheten. |
-| timeout | TimeSpan | ATimeSpan som representerar antalet millisekunder att vänta, eller aTimeSpan som representerar -1 millisekund för att vänta på obestämd tid. |
-| documents | SVGDocument[] | Dokumenten som ska återges. |
+| device | IDevice | Utdataenheten. |
+| timeout | TimeSpan | En TimeSpan som representerar antalet millisekunder att vänta, eller en TimeSpan som representerar -1 millisekund för att vänta på obestämd tid. |
+| källor | SVGDocument[] | SVG-dokumenten som ska renderas. |
 
 ### Se även
 
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SvgRenderer](../)
-* namnutrymme [Aspose.Svg.Rendering](../../svgrenderer/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, CancellationToken, params SVGDocument[]) {#render_5}
+## Render(*[IDevice](../../idevice/), CancellationToken, params SVGDocument[]*) {#render_5}
 
-Definierar en metod för att rendera flera[`SVGDocument`](../../../aspose.svg/svgdocument/) är i en specifik[`IDevice`](../../idevice/) , med hjälp av en avbokningstoken för att begära avbrytning av operationen.
+Definierar en metod för att rendera flera [`SVGDocument`](../../../aspose.svg/svgdocument/)s till en specifik [`IDevice`](../../idevice/), med en avbokningstoken för att begära avbrytning av operationen.
 
 ```csharp
 public override void Render(IDevice device, CancellationToken cancellationToken, 
-    params SVGDocument[] documents)
+    params SVGDocument[] sources)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| device | IDevice | Utmatningsenheten. |
-| cancellationToken | CancellationToken | En avbokningstoken att observera i väntan på att uppgiften ska slutföras. |
-| documents | SVGDocument[] | Dokumenten som ska återges. |
+| device | IDevice | Utdataenheten. |
+| cancellationToken | CancellationToken | En avbokningstoken att observera medan du väntar på att uppgiften ska slutföras. |
+| källor | SVGDocument[] | SVG-dokumenten som ska renderas. |
 
 ### Se även
 
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SvgRenderer](../)
-* namnutrymme [Aspose.Svg.Rendering](../../svgrenderer/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

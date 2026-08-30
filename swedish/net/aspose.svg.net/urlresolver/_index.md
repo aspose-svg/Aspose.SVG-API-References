@@ -1,14 +1,14 @@
 ---
-title: Class UrlResolver
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.UrlResolver klass. Representerar verktygsklass för att lösa absolut URL med en URI Uniform Resource Identifier.
+title: "UrlResolver klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.UrlResolver klass. Representerar en verktygsklass för att lösa upp en absolut URL med en Uniform Resource Identifier‑URI"
 type: docs
-weight: 2470
+weight: 4540
 url: /sv/net/aspose.svg.net/urlresolver/
 ---
 ## UrlResolver class
 
-Representerar verktygsklass för att lösa absolut URL med en URI (Uniform Resource Identifier).
+Representerar en verktygsklass för att lösa en absolut URL med en Uniform Resource Identifier (URI).
 
 ```csharp
 public class UrlResolver
@@ -16,19 +16,17 @@ public class UrlResolver
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [UrlResolver](urlresolver/)() | Default_Constructor |
+| [UrlResolver](urlresolver/)() | Standardkonstruktorn. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [Resolve](../../aspose.svg.net/urlresolver/resolve/)(string, string) | Löser den absoluta URI från basen och relativa URI. |
+| virtual [Resolve](../../aspose.svg.net/urlresolver/resolve/)(*string, string*) | Löser den absoluta URI:n från bas‑ och relativa URI:er. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

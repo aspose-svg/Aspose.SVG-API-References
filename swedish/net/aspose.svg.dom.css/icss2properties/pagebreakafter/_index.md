@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PageBreakAfter
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen pagebreakafter i CSS2.
+title: "ICSS2Properties.PageBreakAfter"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties PageBreakAfter egenskap. Se definitionen av page-break-after egenskap i CSS2"
 type: docs
-weight: 860
+weight: 890
 url: /sv/net/aspose.svg.dom.css/icss2properties/pagebreakafter/
 ---
 ## ICSS2Properties.PageBreakAfter property
 
-Se egenskapsdefinitionen page-break-after i CSS2.
+Se egendefinitionen för page-break-after i CSS2.
 
 ```csharp
 public string PageBreakAfter { get; set; }
@@ -16,12 +16,10 @@ public string PageBreakAfter { get; set; }
 
 ### Returvärde
 
-sidbrytning efter egendom
+page-break-after egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: PdfEncryptionInfo.Permissions
-second_title: Aspose.SVG för .NET API Referens
-description: PdfEncryptionInfo fast egendom. Hämtar eller ställer in behörigheterna.
+title: "PdfEncryptionInfo.Permissions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfEncryptionInfo Behörigheter-egenskap. Hämtar eller anger behörigheterna"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions/
 ---
 ## PdfEncryptionInfo.Permissions property
 
-Hämtar eller ställer in behörigheterna.
+Hämtar eller anger behörigheterna.
 
 ```csharp
 public PdfPermissions Permissions { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Behörigheterna.
 
@@ -22,7 +22,5 @@ Behörigheterna.
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * class [PdfEncryptionInfo](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../../)

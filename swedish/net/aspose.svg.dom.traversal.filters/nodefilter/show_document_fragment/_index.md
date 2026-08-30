@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_DOCUMENT_FRAGMENT
-second_title: Aspose.SVG för .NET API Referens
-description: NodeFilter fält. Visa DocumentFragmentnoder.
+title: "NodeFilter.SHOW_DOCUMENT_FRAGMENT"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NodeFilter SHOW_DOCUMENT_FRAGMENT-fältet. Visa DocumentFragment-noder"
 type: docs
 weight: 110
 url: /sv/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment/
@@ -17,7 +17,5 @@ public const long SHOW_DOCUMENT_FRAGMENT;
 ### Se även
 
 * class [NodeFilter](../)
-* namnutrymme [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

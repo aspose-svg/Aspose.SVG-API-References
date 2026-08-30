@@ -1,27 +1,25 @@
 ---
-title: Text.IsElementContentWhitespace
-second_title: Aspose.SVG för .NET API Referens
-description: Text fast egendom. Returnerar om denna textnod innehåller blanksteg för elementinnehåll ofta felaktigt kallad ignorerbart blanksteg.
+title: "Text.IsElementContentWhitespace"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Text IsElementContentWhitespace egenskap. Returnerar om denna textnod innehåller elementinnehållsblanksteg, ofta felaktigt kallat ignorerbart blanksteg"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 
-Returnerar om denna textnod innehåller blanksteg för elementinnehåll, ofta felaktigt kallad "ignorerbart blanksteg".
+Returnerar om denna textnod innehåller elementinnehålls‑blanksteg, ofta felaktigt kallade "ignorerbara blanksteg".
 
 ```csharp
 public bool IsElementContentWhitespace { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om den här instansen är blanksteg för elementinnehåll; annat,`falsk` .
+`true` om detta objekt är elementinnehållsblanksteg; annars `false`.
 
 ### Se även
 
 * class [Text](../)
-* namnutrymme [Aspose.Svg.Dom](../../text/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

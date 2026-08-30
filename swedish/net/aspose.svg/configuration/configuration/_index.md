@@ -1,14 +1,14 @@
 ---
-title: Configuration.Configuration
-second_title: Aspose.SVG för .NET API Referens
-description: Configuration byggare. Initierar en ny instans avConfiguration class.
+title: "Konfiguration"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Configuration-konstruktorn. Skapar en ny instans av Configuration-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/configuration/configuration/
 ---
 ## Configuration constructor
 
-Initierar en ny instans av[`Configuration`](../) class.
+Skapar en ny instans av [`Configuration`](../)-klassen.
 
 ```csharp
 public Configuration()
@@ -17,7 +17,5 @@ public Configuration()
 ### Se även
 
 * class [Configuration](../)
-* namnutrymme [Aspose.Svg](../../configuration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

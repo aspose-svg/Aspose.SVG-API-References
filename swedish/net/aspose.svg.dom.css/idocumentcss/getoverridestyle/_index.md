@@ -1,14 +1,14 @@
 ---
-title: IDocumentCSS.GetOverrideStyle
-second_title: Aspose.SVG för .NET API Referens
-description: IDocumentCSS metod. Denna metod används för att hämta åsidosättningsstilsdeklarationen för ett angivet element och ett specificerat pseudoelement.
+title: "IDocumentCSS.GetOverrideStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDocumentCSS GetOverrideStyle method. Denna metod används för att hämta överskrivningsstil-deklarationen för ett specificerat element och ett specificerat pseudo-element."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/idocumentcss/getoverridestyle/
 ---
 ## IDocumentCSS.GetOverrideStyle method
 
-Denna metod används för att hämta åsidosättningsstilsdeklarationen för ett angivet element och ett specificerat pseudoelement.
+Denna metod används för att hämta överlagrad stildeklaration för ett specificerat element och ett specificerat pseudo‑element.
 
 ```csharp
 public ICSSStyleDeclaration GetOverrideStyle(Element elt, string pseudoElt)
@@ -16,19 +16,17 @@ public ICSSStyleDeclaration GetOverrideStyle(Element elt, string pseudoElt)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| elt | Element | Elementet vars stil ska ändras. Denna parameter kan inte vara null. |
-| pseudoElt | String | Pseudoelementet eller null om inget. |
+| elt | Element | Elementet vars stil ska modifieras. Denna parameter får inte vara null. |
+| pseudoElt | String | Pseudo‑elementet eller null om inget. |
 
 ### Returvärde
 
-Åsidosättande stildeklaration
+Överskrivningsstil‑deklarationen
 
 ### Se även
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IDocumentCSS](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../idocumentcss/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

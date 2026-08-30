@@ -1,26 +1,24 @@
 ---
-title: Aspose.Svg.Dom.XPath
-second_title: Aspose.SVG för .NET API Referens
-description: Namnutrymmet innehåller metoder för att navigera genom element och attribut i ett XMLdokument.
+title: "Aspose.Svg.Dom.XPath"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Namnområdet Aspose.Svg.Dom.XPath innehåller metoder för att navigera genom element och attribut i ett XML-dokument"
 type: docs
-weight: 130
+weight: 150
 url: /sv/net/aspose.svg.dom.xpath/
 ---
-Namnutrymmet innehåller metoder för att navigera genom element och attribut i ett XML-dokument.
+Den **Aspose.Svg.Dom.XPath**-namnrymden innehåller metoder för att navigera genom element och attribut i ett XML-dokument.
 
 ## Gränssnitt
 
 | Gränssnitt | Beskrivning |
 | --- | --- |
-| [IXPathEvaluator](./ixpathevaluator/) | Utvärderingen av XPath-uttryck tillhandahålls av[`IXPathEvaluator`](../aspose.svg.dom.xpath/ixpathevaluator/) . |
-| [IXPathExpression](./ixpathexpression/) | Den`XPathExpression`gränssnittet representerar ett analyserat och löst XPath-uttryck. |
-| [IXPathNamespace](./ixpathnamespace/) | XPathNamespace-gränssnittet returneras av XPathResult-gränssnitt för att representera den XPath-namnområdesnodtyp som DOM saknar. |
-| [IXPathNSResolver](./ixpathnsresolver/) | Den`XPathNSResolver` gränssnittstillstånd`prefix` strängar i uttrycket som ska bindas korrekt till`namnutrymmeURI` strängar. [`IXPathEvaluator`](../aspose.svg.dom.xpath/ixpathevaluator/) kan konstruera en implementering av [`IXPathNSResolver`](../aspose.svg.dom.xpath/ixpathnsresolver/) från en nod, eller så kan gränssnittet implementeras av vilken applikation som helst. |
-| [IXPathResult](./ixpathresult/) | Den`XPathResult` gränssnittet representerar resultatet av utvärderingen av ett XPath 1.0-uttryck inom ramen för en viss nod. Eftersom utvärdering av ett XPath-uttryck kan resultera i olika resultattyper, gör detta objekt det möjligt att upptäcka och manipulera typen och värdet av resultatet. |
+| [IXPathEvaluator](./ixpathevaluator/) | Utvärderingen av XPath-uttryck tillhandahålls av [`IXPathEvaluator`](../aspose.svg.dom.xpath/ixpathevaluator/). |
+| [IXPathExpression](./ixpathexpression/) | Gränssnittet `XPathExpression` representerar ett analyserat och löst XPath-uttryck. |
+| [IXPathNamespace](./ixpathnamespace/) | Gränssnittet XPathNamespace returneras av XPathResult-gränssnitt för att representera XPath-namnrymdsnodtypen som DOM saknar. |
+| [IXPathNSResolver](./ixpathnsresolver/) | Gränssnittet `XPathNSResolver` tillåter `prefix`-strängar i uttrycket att korrekt bindas till `namespaceURI`-strängar. [`IXPathEvaluator`](../aspose.svg.dom.xpath/ixpathevaluator/) kan konstruera en implementation av [`IXPathNSResolver`](../aspose.svg.dom.xpath/ixpathnsresolver/) från en nod, eller så kan gränssnittet implementeras av vilken applikation som helst. |
+| [IXPathResult](./ixpathresult/) | Gränssnittet `XPathResult` representerar resultatet av utvärderingen av ett XPath 1.0-uttryck inom kontexten av en specifik nod. Eftersom utvärderingen av ett XPath-uttryck kan ge olika resultattyper, möjliggör detta objekt att upptäcka och manipulera typ och värde på resultatet. |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [XPathResultType](./xpathresulttype/) | En osignerad kortslutning som indikerar vilken typ av resultat detta är. Om en specifik `typ`anges, kommer resultatet att returneras som motsvarande -typ, med hjälp av XPath-typkonverteringar där så krävs och är möjligt. |
-
-
+| [XPathResultType](./xpathresulttype/) | En osignerad kortvariabel som indikerar vilken typ av resultat detta är. Om en specifik `type` anges, returneras resultatet som motsvarande typ, med XPath-typkonverteringar där det krävs och är möjligt. |

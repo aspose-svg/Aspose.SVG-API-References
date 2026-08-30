@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.MinWidth
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se minwidthegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.MinWidth"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties MinWidth-egenskap. Se definitionen av min-width-egenskapen i CSS2"
 type: docs
-weight: 730
+weight: 760
 url: /sv/net/aspose.svg.dom.css/icss2properties/minwidth/
 ---
 ## ICSS2Properties.MinWidth property
 
-Se min-width-egenskapsdefinitionen i CSS2.
+Se egendefinitionen för min-width i CSS2.
 
 ```csharp
 public string MinWidth { get; set; }
@@ -16,12 +16,10 @@ public string MinWidth { get; set; }
 
 ### Returvärde
 
-min-bredd egendom
+min-width-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

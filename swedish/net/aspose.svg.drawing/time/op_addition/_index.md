@@ -1,7 +1,7 @@
 ---
-title: Time.op_Addition
-second_title: Aspose.SVG för .NET API Referens
-description: Time metod. Implementerar operatorn .
+title: "Time.op_Addition"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Time op_Addition metod. Implementerar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/time/op_addition/
@@ -25,15 +25,13 @@ Resultatet av operatorn.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | Argumenten är ogiltiga |
-| ArgumentException | Argument har olika typer eller Argument har olika upplösning eller |
+| ArgumentNullException | Argumenten är null |
+| ArgumentException | Argumenten har olika typer eller Argumenten har olika upplösning eller |
 
 ### Se även
 
 * class [Time](../)
-* namnutrymme [Aspose.Svg.Drawing](../../time/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

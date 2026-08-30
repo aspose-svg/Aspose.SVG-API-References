@@ -1,14 +1,14 @@
 ---
-title: Class ResponseMessage
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.ResponseMessage klass. Representerar ett svarsmeddelande.
+title: "ResponseMessage-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.ResponseMessage-klass. Representerar ett svarmeddelande."
 type: docs
-weight: 2440
+weight: 4510
 url: /sv/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
 
-Representerar ett svarsmeddelande.
+Representerar ett svarmeddelande.
 
 ```csharp
 public class ResponseMessage : IDisposable
@@ -16,30 +16,29 @@ public class ResponseMessage : IDisposable
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | Initierar en ny instans av`ResponseMessage` class. |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | Initierar en ny instans av klassen `ResponseMessage`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | Hämtar eller ställer in svarsinnehållet. |
-| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Hämtar eller ställer in cookiesamlingen. |
+| [Content](../../aspose.svg.net/responsemessage/content/) { get; set; } | Hämtar eller anger svarsinnehållet. |
+| [Cookies](../../aspose.svg.net/responsemessage/cookies/) { get; set; } | Hämtar eller anger cookie-samlingen. |
 | [Headers](../../aspose.svg.net/responsemessage/headers/) { get; } | Hämtar rubrikerna. |
-| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | Får ett värde som indikerar om detta meddelande är framgångsrikt. |
-| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | Hämtar eller ställer in den associerade begäran. |
-| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | Hämtar eller ställer in statuskoden. |
+| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess/) { get; } | Hämtar ett värde som indikerar om detta meddelande är lyckat. |
+| [Request](../../aspose.svg.net/responsemessage/request/) { get; set; } | Hämtar eller anger den associerade begäran. |
+| [ResponseUri](../../aspose.svg.net/responsemessage/responseuri/) { get; set; } | Hämtar eller anger svar-URI:n. |
+| [StatusCode](../../aspose.svg.net/responsemessage/statuscode/) { get; set; } | Hämtar eller anger statuskoden. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | Utför programdefinierade uppgifter associerade med att frigöra, frigöra eller återställa ohanterade resurser. |
+| [Dispose](../../aspose.svg.net/responsemessage/dispose/)() | Utför applikationsdefinierade uppgifter som är relaterade till att frigöra, släppa eller återställa ohanterade resurser. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

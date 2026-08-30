@@ -1,14 +1,14 @@
 ---
-title: FontsSettings.SetFontsLookupFolders
-second_title: Aspose.SVG för .NET API Referens
-description: FontsSettings metod. Ställer in en rad mappar som används vid val av teckensnitt.
+title: "FontsSettings.SetFontsLookupFolders"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FontsSettings SetFontsLookupFolders‑metod. Anger en array av mappar som används vid teckensnittsurval."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg/fontssettings/setfontslookupfolders/
 ---
-## SetFontsLookupFolders(string[]) {#setfontslookupfolders}
+## SetFontsLookupFolders(*string[]*) {#setfontslookupfolders}
 
-Ställer in en rad mappar som används vid val av teckensnitt.
+Anger en array av mappar som används vid teckensnittsurval.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders)
@@ -16,19 +16,19 @@ public void SetFontsLookupFolders(string[] fontsFolders)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontsFolders | String[] | Teckensnittsmapparna. |
+| fontsFolders | String[] | Teckensnittsmapporna. |
 
 ### Se även
 
 * class [FontsSettings](../)
-* namnutrymme [Aspose.Svg](../../fontssettings/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetFontsLookupFolders(string[], bool) {#setfontslookupfolders_1}
+## SetFontsLookupFolders(*string[], bool*) {#setfontslookupfolders_1}
 
-Ställer in en rad mappar som används vid val av teckensnitt.
+Anger en array av mappar som används vid teckensnittsurval.
 
 ```csharp
 public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
@@ -36,13 +36,11 @@ public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontsFolders | String[] | Teckensnittsmapparna. |
-| recursive | Boolean | Om inställt på`Sann` alla kapslade kataloger kommer att användas. Standardvärdet är`falsk`. |
+| fontsFolders | String[] | Teckensnittsmapporna. |
+| recursive | Boolean | Om den är satt till `true` kommer alla nästlade kataloger att användas. Standardvärdet är `false`. |
 
 ### Se även
 
 * class [FontsSettings](../)
-* namnutrymme [Aspose.Svg](../../fontssettings/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

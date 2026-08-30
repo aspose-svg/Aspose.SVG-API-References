@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.Cy
-second_title: Aspose.SVG för .NET API Referens
-description: SVGCircleElement fast egendom. Motsvarar attributet cy på det givna cirkelelementet.
+title: "SVGCircleElement.Cy"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGCircleElement Cy-egenskapen. Motsvarar attributet cy på det angivna cirkelelementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgcircleelement/cy/
 ---
 ## SVGCircleElement.Cy property
 
-Motsvarar attributet 'cy' på det givna 'cirkel'-elementet.
+Motsvarar attributet ‘cy’ på det givna ‘circle’-elementet.
 
 ```csharp
 public SVGAnimatedLength Cy { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'cy' för det givna 'cirkel'-elementet.
+Attributet ‘cy’ för det angivna ‘circle’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* namnutrymme [Aspose.Svg](../../svgcircleelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

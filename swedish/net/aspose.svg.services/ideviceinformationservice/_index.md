@@ -1,32 +1,29 @@
 ---
-title: Interface IDeviceInformationService
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Services.IDeviceInformationService gränssnitt. Ett gränssnitt som beskrivs en miljö därDocument presenteras för användaren.
+title: "IDeviceInformationService Gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Services.IDeviceInformationService gränssnitt. Ett gränssnitt som beskriver en miljö där Document presenteras för användaren."
 type: docs
-weight: 3710
+weight: 5840
 url: /sv/net/aspose.svg.services/ideviceinformationservice/
 ---
 ## IDeviceInformationService interface
 
-Ett gränssnitt som beskrivs en miljö där[`Document`](../../aspose.svg.dom/document/) presenteras för användaren.
+Ett gränssnitt som beskriver en miljö där [`Document`](../../aspose.svg.dom/document/) presenteras för användaren.
 
 ```csharp
-public interface IDeviceInformationService : IService
+public interface IDeviceInformationService
 ```
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [HorizontalResolution](../../aspose.svg.services/ideviceinformationservice/horizontalresolution/) { get; set; } | Hämtar eller ställer in den horisontella upplösningen. |
-| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize/) { get; set; } | Hämtar eller ställer in storleken på skärmen. |
-| [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution/) { get; set; } | Hämtar eller ställer in den vertikala upplösningen. |
-| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize/) { get; set; } | Hämtar eller ställer in storleken på fönstret. |
+| [HorizontalResolution](../../aspose.svg.services/ideviceinformationservice/horizontalresolution/) { get; set; } | Hämtar eller anger den horisontella upplösningen. |
+| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize/) { get; set; } | Hämtar eller anger skärmens storlek. |
+| [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution/) { get; set; } | Hämtar eller anger den vertikala upplösningen. |
+| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize/) { get; set; } | Hämtar eller anger fönstrets storlek. |
 
 ### Se även
 
-* interface [IService](../iservice/)
-* namnutrymme [Aspose.Svg.Services](../../aspose.svg.services/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

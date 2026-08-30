@@ -1,14 +1,14 @@
 ---
-title: Document.OnSeeked
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnSeekedhändelse.
+title: "Document.OnSeeked"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnSeeked‑händelse. Hämtar eller anger händelsehanterare för OnSeeked‑händelsen"
 type: docs
 weight: 680
 url: /sv/net/aspose.svg.dom/document/onseeked/
 ---
 ## Document.OnSeeked event
 
-Hämtar eller ställer in händelsehanterare för OnSeeked-händelse.
+Hämtar eller anger händelsehanterare för OnSeeked‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnSeeked;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSeeked;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

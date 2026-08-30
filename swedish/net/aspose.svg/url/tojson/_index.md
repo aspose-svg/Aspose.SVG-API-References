@@ -1,14 +1,14 @@
 ---
-title: Url.ToJson
-second_title: Aspose.SVG för .NET API Referens
-description: Url metod. Returnerar enString som representerar denna instans.
+title: "Url.ToJson"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url ToJson-metod. Returnerar en String som representerar denna instans"
 type: docs
 weight: 160
 url: /sv/net/aspose.svg/url/tojson/
 ---
 ## Url.ToJson method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public string ToJson()
@@ -16,12 +16,10 @@ public string ToJson()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar den här instansen.
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

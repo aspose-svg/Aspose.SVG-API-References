@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.CSS_VMAX
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue fält. Värdet är en procentandel av visningsportens bredd eller höjd beroende på vilken som är störst.
+title: "CSSPrimitiveValue.CSS_VMAX"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue CSS_VMAX-fält. Värdet är en procentsats av vyportens bredd eller höjd, beroende på vilket som är störst."
 type: docs
-weight: 430
+weight: 440
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/css_vmax/
 ---
 ## CSSPrimitiveValue.CSS_VMAX field
 
-Värdet är en procentandel av visningsportens bredd eller höjd, beroende på vilken som är störst.
+Värdet är en procentandel av visningsportens bredd eller höjd, beroende på vilket som är störst.
 
 ```csharp
 public const ushort CSS_VMAX;
@@ -17,7 +17,5 @@ public const ushort CSS_VMAX;
 ### Se även
 
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

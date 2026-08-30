@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.PathOptimizationOptions
-second_title: Aspose.SVG för .NET API Referens
-description: SVGOptimizationOptions fast egendom. Hämtar eller ställer in alternativetSVGPathOptimizationOptions . Om det här alternativet är null kommer optimering av sökvägselement inte att utföras.
+title: "SVGOptimizationOptions.PathOptimizationOptions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGOptimizationOptions PathOptimizationOptions egenskap. Hämtar eller anger alternativet SVGPathOptimizationOptions. Om detta alternativ är null kommer optimering av path-element inte att utföras"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/
 ---
 ## SVGOptimizationOptions.PathOptimizationOptions property
 
-Hämtar eller ställer in alternativet[`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/) . Om det här alternativet är null, kommer optimering av sökvägselement inte att utföras.
+Hämtar eller anger alternativet [`SVGPathOptimizationOptions`](../../svgpathoptimizationoptions/). Om detta alternativ är null, kommer optimering av path-element inte att utföras.
 
 ```csharp
 public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
@@ -18,7 +18,5 @@ public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
 
 * class [SVGPathOptimizationOptions](../../svgpathoptimizationoptions/)
 * class [SVGOptimizationOptions](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

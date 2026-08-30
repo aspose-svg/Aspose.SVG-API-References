@@ -1,14 +1,14 @@
 ---
-title: Document.OnClick
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnClickhändelse.
+title: "Document.OnClick"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnClick-händelse. Hämtar eller anger händelsehanterare för OnClick-händelse"
 type: docs
 weight: 340
 url: /sv/net/aspose.svg.dom/document/onclick/
 ---
 ## Document.OnClick event
 
-Hämtar eller ställer in händelsehanterare för OnClick-händelse.
+Hämtar eller anger händelsehanterare för OnClick‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnClick;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnClick;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

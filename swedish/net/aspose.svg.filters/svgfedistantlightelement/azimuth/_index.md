@@ -1,28 +1,26 @@
 ---
-title: SVGFEDistantLightElement.Azimuth
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEDistantLightElement fast egendom. Motsvarar attributet azimuth på det givna feDistantLightelementet.
+title: "SVGFEDistantLightElement.Azimuth"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEDistantLightElement Azimuth‑egenskap. Motsvarar attributet azimuth på det angivna feDistantLight‑elementet."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.filters/svgfedistantlightelement/azimuth/
 ---
 ## SVGFEDistantLightElement.Azimuth property
 
-Motsvarar attributet 'azimuth' på det givna 'feDistantLight'-elementet.
+Motsvarar attributet ‘azimuth’ på det angivna ‘feDistantLight’-elementet.
 
 ```csharp
 public SVGAnimatedNumber Azimuth { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'azimuth' för det givna 'feDistantLight'-elementet.
+Attributet ‘azimuth’ för det angivna ‘feDistantLight’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDistantLightElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfedistantlightelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

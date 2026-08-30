@@ -1,14 +1,14 @@
 ---
-title: ICSSKeyframesRule.FindRule
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSKeyframesRule metod. Metoden findRule returnerar regeln med en nyckel som matchar den godkända nyckeln. Om det inte finns någon sådan regel returneras ett nollvärde
+title: "ICSSKeyframesRule.FindRule"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSKeyframesRule FindRule-metod. findRule-metoden returnerar regeln med en nyckel som matchar den angivna nyckeln. Om ingen sådan regel finns returneras ett null‑värde."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.dom.css/icsskeyframesrule/findrule/
 ---
 ## ICSSKeyframesRule.FindRule method
 
-Metoden findRule returnerar regeln med en nyckel som matchar den godkända nyckeln. Om det inte finns någon sådan regel returneras ett nollvärde
+Metoden findRule returnerar regeln med en nyckel som matchar den angivna nyckeln. Om ingen sådan regel finns returneras ett null‑värde.
 
 ```csharp
 public ICSSKeyframeRule FindRule(string key)
@@ -16,7 +16,7 @@ public ICSSKeyframeRule FindRule(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckeln som beskrev regeln att hitta. Nyckeln måste lösas till ett tal mellan 0 och 1, annars ignoreras regeln. |
+| nyckel | String | Nyckeln som beskriver regeln att hitta. Nyckeln måste motsvara ett tal mellan 0 och 1, annars ignoreras regeln. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Den hittade regeln
 
 * interface [ICSSKeyframeRule](../../icsskeyframerule/)
 * interface [ICSSKeyframesRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsskeyframesrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

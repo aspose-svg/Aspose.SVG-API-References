@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.AttributeFilter
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit fast egendom. Ställ in en lista med lokala attributnamn utan namnområde om inte alla attributmutationer behöver observeras och attribut är sanna eller utelämnade.
+title: "MutationObserverInit.AttributeFilter"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit AttributeFilter-egenskap. Ange en lista med attributens lokala namn utan namnrymd om inte alla attributmutationer behöver observeras och attributes är sant eller utelämnat."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/attributefilter/
 ---
 ## MutationObserverInit.AttributeFilter property
 
-Ställ in en lista med lokala attributnamn (utan namnområde) om inte alla attributmutationer behöver observeras och attribut är sanna eller utelämnade.
+Ställ in till en lista med attributens lokala namn (utan namnrymd) om inte alla attributmutationer behöver observeras och attribut är true eller utelämnat.
 
 ```csharp
 public IList<string> AttributeFilter { get; set; }
@@ -17,7 +17,5 @@ public IList<string> AttributeFilter { get; set; }
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

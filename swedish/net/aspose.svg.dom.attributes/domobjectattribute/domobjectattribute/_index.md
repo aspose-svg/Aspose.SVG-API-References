@@ -1,14 +1,14 @@
 ---
-title: DOMObjectAttribute.DOMObjectAttribute
-second_title: Aspose.SVG för .NET API Referens
-description: DOMObjectAttribute byggare. Default_Constructor
+title: "DOMObjectAttribute"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMObjectAttribute-konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.attributes/domobjectattribute/domobjectattribute/
 ---
 ## DOMObjectAttribute constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public DOMObjectAttribute()
@@ -17,7 +17,5 @@ public DOMObjectAttribute()
 ### Se även
 
 * class [DOMObjectAttribute](../)
-* namnutrymme [Aspose.Svg.Dom.Attributes](../../domobjectattribute/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

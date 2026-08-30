@@ -1,9 +1,9 @@
 ---
-title: Interface ITrueTypeFont
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.ITrueTypeFont gränssnitt. Deklarerar metoder för att arbeta med TrueTypeteckensnitt.
+title: "ITrueTypeFont-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.ITrueTypeFont-gränssnitt. Deklarerar metoder för att arbeta med TrueType-teckensnitt."
 type: docs
-weight: 1510
+weight: 3540
 url: /sv/net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
@@ -16,24 +16,23 @@ public interface ITrueTypeFont
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Returnerar storleken på teckensnittsdata i bytes |
-| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Hämta namnet på teckensnittsfamiljen. |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Detta bör vara en kombination av "FamilyName" och "SubFamilyName". Undantag: om teckensnittet är "Regular" som anges i "SubFamilyName", använd endast efternamnet i "FamilyName". Ett undantag från definitionen ovan av Fullständigt teckensnittsnamn är för Microsoft-plattformssträngar för CFF OpenType-teckensnitt: i det här fallet måste strängen Fullständigt teckensnittsnamn vara identisk med PostScript FontName i CFF Name INDEX. |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Teckensnittets underfamiljsnamn särskiljer teckensnittet i en grupp med samma teckensnittsfamiljsnamn. Detta antas ta upp stil (kursiv, snett) och vikt (lätt, fet, svart, etc.). Ett teckensnitt utan speciella skillnader i vikt eller stil (t.ex. medelvikt, inte kursiv och fsSelection bit 6 set) bör ha strängen "Regular" lagrad i denna position. |
+| [DataSize](../../aspose.svg.drawing/itruetypefont/datasize/) { get; } | Hämtar storleken på teckensnittsdata i byte. |
+| [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname/) { get; } | Hämtar namnet på teckensnittsfamiljen. |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname/) { get; } | Det fullständiga teckensnittsnamnet representeras vanligtvis som en kombination av familj- och underfamiljenamn. |
+| [Style](../../aspose.svg.drawing/itruetypefont/style/) { get; } | Hämta teckensnittsstilen som kombinerar värdena från font-face-regeln och data från teckensnittet. |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname/) { get; } | Underfamiljenamnet särskiljer teckensnittet i en grupp med samma familjenamn. Detta antas hantera stil (italic, oblique) och vikt (light, bold, black, etc.). Ett teckensnitt utan särskilda skillnader i vikt eller stil bör ha strängen "Regular". |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(float) | Returnerar stigningen i poäng. |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Öppna flödet med teckensnittsdata. Den som ringer är ansvarig för att slänga strömmen. |
-| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(float) | Returnerar nedstigningen i poäng. |
+| [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent/)(*float*) | Hämtar teckensnittets ascent i punkter med den angivna teckensnittsstorleken. |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata/)() | Öppnar strömmen med teckensnittsdata. Anroparen ansvarar för att disponera strömmen. |
+| [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent/)(*float*) | Hämtar teckensnittets descent i punkter med den angivna teckensnittsstorleken. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

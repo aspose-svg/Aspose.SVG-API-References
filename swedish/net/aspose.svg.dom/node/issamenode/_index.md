@@ -1,14 +1,16 @@
 ---
-title: Node.IsSameNode
-second_title: Aspose.SVG för .NET API Referens
-description: Node metod. Returnerar om denna nod är samma nod som den givna. Den här metoden ger ett sätt att avgöra om två nodreferenser som returneras av implementeringen refererar till samma objekt. När två nodreferenser är referenser till samma objekt även om genom en proxy kan referenserna användas helt utbytbart så att alla attribut har samma värden och att anropa samma DOMmetod på någon av referenserna har alltid exakt samma effekt.
+title: "Node.IsSameNode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node IsSameNode‑metod. Metoden är ett äldre alias för den strikta likhetsoperatorn. Den testar alltså om två noder är desamma, med andra ord om de refererar till samma objekt."
 type: docs
-weight: 250
+weight: 230
 url: /sv/net/aspose.svg.dom/node/issamenode/
 ---
 ## Node.IsSameNode method
 
-Returnerar om denna nod är samma nod som den givna. Den här metoden ger ett sätt att avgöra om två nodreferenser som returneras av implementeringen refererar till samma objekt. När två nodreferenser är referenser till samma objekt, även om genom en proxy, kan referenserna användas helt utbytbart, så att alla attribut har samma värden och att anropa samma DOM-metod på någon av referenserna har alltid exakt samma effekt.
+Metoden är ett äldre alias för den strikt lika operatorn ===. Det vill säga, den testar om två noder är identiska (med andra ord, om de refererar till samma objekt).
+
+Obs: Det finns inget behov av att använda `IsSameNode`; använd istället den strikta likhetsoperatorn ===.
 
 ```csharp
 public bool IsSameNode(Node otherNode)
@@ -16,16 +18,14 @@ public bool IsSameNode(Node otherNode)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| otherNode | Node | Den andra noden. |
+| otherNode | Node | Noden att testa mot. |
 
 ### Returvärde
 
-`Sann`om [är samma nod] [den angivna andra]; annat,`falsk` .
+Ett booleskt värde som är true om båda noderna är strikt lika, annars false.
 
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

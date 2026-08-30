@@ -1,27 +1,25 @@
 ---
-title: Counter.ListStyle
-second_title: Aspose.SVG för .NET API Referens
-description: Counter fast egendom. Det här attributet används för listans stil.
+title: "Counter.ListStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Counter ListStyle egenskap. Detta attribut används för listans stil"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/counter/liststyle/
 ---
 ## Counter.ListStyle property
 
-Det här attributet används för listans stil.
+Detta attribut används för listans stil.
 
 ```csharp
 public string ListStyle { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Liststilens identifierare.
 
 ### Se även
 
 * class [Counter](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../counter/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

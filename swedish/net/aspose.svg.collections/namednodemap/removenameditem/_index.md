@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.RemoveNamedItem
-second_title: Aspose.SVG för .NET API Referens
-description: NamedNodeMap metod. Tar bort en nod specificerad med namn.
+title: "NamedNodeMap.RemoveNamedItem"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NamedNodeMap RemoveNamedItem-metoden. Tar bort en nod som specificeras av namn"
 type: docs
-weight: 60
+weight: 50
 url: /sv/net/aspose.svg.collections/namednodemap/removenameditem/
 ---
 ## NamedNodeMap.RemoveNamedItem method
 
-Tar bort en nod specificerad med namn.
+Tar bort en nod som specificeras av namn.
 
 ```csharp
 public Attr RemoveNamedItem(string name)
@@ -16,7 +16,7 @@ public Attr RemoveNamedItem(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Elementets namn. |
+| namn | String | Elementnamnet. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Borttagen nod.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namnutrymme [Aspose.Svg.Collections](../../namednodemap/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

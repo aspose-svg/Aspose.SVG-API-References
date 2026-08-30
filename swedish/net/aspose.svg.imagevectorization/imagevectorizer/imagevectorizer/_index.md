@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizer.ImageVectorizer
-second_title: Aspose.SVG för .NET API Referens
-description: ImageVectorizer byggare. Initierar en ny instans avImageVectorizer class.
+title: "ImageVectorizer"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageVectorizer-konstruktor. Initierar en ny instans av ImageVectorizer-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.imagevectorization/imagevectorizer/imagevectorizer/
 ---
 ## ImageVectorizer() {#constructor}
 
-Initierar en ny instans av[`ImageVectorizer`](../) class.
+Initierar en ny instans av klassen [`ImageVectorizer`](../).
 
 ```csharp
 public ImageVectorizer()
@@ -17,14 +17,14 @@ public ImageVectorizer()
 ### Se även
 
 * class [ImageVectorizer](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageVectorizer(ImageVectorizerConfiguration) {#constructor_1}
+## ImageVectorizer(*[ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)*) {#constructor_1}
 
-Initierar en ny instans av[`ImageVectorizer`](../) class.
+Initierar en ny instans av klassen [`ImageVectorizer`](../).
 
 ```csharp
 public ImageVectorizer(ImageVectorizerConfiguration configuration)
@@ -32,13 +32,11 @@ public ImageVectorizer(ImageVectorizerConfiguration configuration)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| configuration | ImageVectorizerConfiguration | Konfigurationen. |
+| konfiguration | ImageVectorizerConfiguration | Konfigurationen. |
 
 ### Se även
 
 * class [ImageVectorizerConfiguration](../../imagevectorizerconfiguration/)
 * class [ImageVectorizer](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

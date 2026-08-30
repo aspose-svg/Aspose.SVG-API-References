@@ -1,9 +1,9 @@
 ---
-title: Class NodeList
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Collections.NodeList klass. NodeList tillhandahåller abstraktionen av en ordnad samling av noder utan att definiera eller begränsa hur denna samling implementeras.
+title: "NodeList-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Collections.NodeList-klass. NodeList tillhandahåller abstraktionen av en ordnad samling av noder utan att definiera eller begränsa hur denna samling implementeras."
 type: docs
-weight: 40
+weight: 2030
 url: /sv/net/aspose.svg.collections/nodelist/
 ---
 ## NodeList class
@@ -16,23 +16,21 @@ public abstract class NodeList : DOMObject, IEnumerable<Node>
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| abstract [Item](../../aspose.svg.collections/nodelist/item/) { get; } | Metod returnerar indexobjektet i samlingen. Om index är större än eller lika med antalet noder i listan, returnerar detta null. |
+| abstract [Item](../../aspose.svg.collections/nodelist/item/) { get; } | Metoden returnerar det index‑te objektet i samlingen. Om index är större än eller lika med antalet noder i listan, returneras null. |
 | abstract [Length](../../aspose.svg.collections/nodelist/length/) { get; } | Antalet noder i listan. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.svg.collections/nodelist/getenumerator/)() | Returnerar en uppräkning som itererar genom samlingen. |
-| override [GetPlatformType](../../aspose.svg.collections/nodelist/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
+| abstract [GetEnumerator](../../aspose.svg.collections/nodelist/getenumerator/)() | Returnerar en enumerator som itererar genom samlingen. |
+| override [GetPlatformType](../../aspose.svg.collections/nodelist/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objekttyp. |
 
 ### Se även
 
 * class [DOMObject](../../aspose.svg.dom/domobject/)
 * class [Node](../../aspose.svg.dom/node/)
-* namnutrymme [Aspose.Svg.Collections](../../aspose.svg.collections/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Collections](../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../)

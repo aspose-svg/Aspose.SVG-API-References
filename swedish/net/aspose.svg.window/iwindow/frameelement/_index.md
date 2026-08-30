@@ -1,28 +1,26 @@
 ---
-title: IWindow.FrameElement
-second_title: Aspose.SVG för .NET API Referens
-description: IWindow fast egendom. FrameElementobjektet för ett dokument.
+title: "IWindow.FrameElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindow FrameElement property. frameElement-objektet i ett Dokument"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.window/iwindow/frameelement/
 ---
 ## IWindow.FrameElement property
 
-FrameElement-objektet för ett dokument.
+frameElement-objektet för ett Document.
 
 ```csharp
 public Element FrameElement { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Ramelementet.
+Ram‑elementet.
 
 ### Se även
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IWindow](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindow/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: DOMNameAttribute.Name
-second_title: Aspose.SVG för .NET API Referens
-description: DOMNameAttribute fast egendom. Hämtar DOMnamnet.
+title: "DOMNameAttribute.Name"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMNameAttribute Name-egenskap. Hämtar DOM-namnet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.attributes/domnameattribute/name/
 ---
 ## DOMNameAttribute.Name property
 
-Hämtar DOM-namnet.
+Hämtar DOM‑namnet.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet.
 
 ### Se även
 
 * class [DOMNameAttribute](../)
-* namnutrymme [Aspose.Svg.Dom.Attributes](../../domnameattribute/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Attributes](../../../aspose.svg.dom.attributes/)
+* assembly [Aspose.SVG](../../../)

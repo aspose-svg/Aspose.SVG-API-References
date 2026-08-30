@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Keys
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit fast egendom. Får en samling som innehåller nycklarna iMutationObserverInitsamling.
+title: "MutationObserverInit.Keys"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit Keys-egenskapen. Hämtar en samling som innehåller nycklarna i MutationObserverInit‑samlingen."
 type: docs
 weight: 110
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/keys/
 ---
 ## MutationObserverInit.Keys property
 
-Får en samling som innehåller nycklarna i[`MutationObserverInit`](../)samling.
+Hämtar en samling som innehåller nycklarna i [`MutationObserverInit`](../)‑samlingen.
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -21,7 +21,5 @@ En samling som innehåller nycklarna.
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

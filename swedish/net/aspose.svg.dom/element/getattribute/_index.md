@@ -1,9 +1,9 @@
 ---
-title: Element.GetAttribute
-second_title: Aspose.SVG för .NET API Referens
-description: Element metod. Hämtar ett attributvärde efter namn.
+title: "Element.GetAttribute"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element GetAttribute metod. Hämtar ett attributvärde efter namn"
 type: docs
-weight: 240
+weight: 230
 url: /sv/net/aspose.svg.dom/element/getattribute/
 ---
 ## Element.GetAttribute method
@@ -11,21 +11,19 @@ url: /sv/net/aspose.svg.dom/element/getattribute/
 Hämtar ett attributvärde efter namn.
 
 ```csharp
-public string GetAttribute(string name)
+public string GetAttribute(string qualifiedName)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Namnet på attributet som ska hämtas. |
+| qualifiedName | String | Namnet på attributet som ska hämtas. |
 
 ### Returvärde
 
-Returnerar attribut värde
+Returnerar attributvärde
 
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

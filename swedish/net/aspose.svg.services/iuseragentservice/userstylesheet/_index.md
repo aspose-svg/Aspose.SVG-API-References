@@ -1,14 +1,14 @@
 ---
-title: IUserAgentService.UserStyleSheet
-second_title: Aspose.SVG för .NET API Referens
-description: IUserAgentService fast egendom. Tillåter att ange stilinformation för ett visst document
+title: "IUserAgentService.UserStyleSheet"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IUserAgentService UserStyleSheet egenskap. Tillåter att specificera stilinformation för ett specifikt dokument"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.svg.services/iuseragentservice/userstylesheet/
 ---
 ## IUserAgentService.UserStyleSheet property
 
-Tillåter att ange stilinformation för ett visst document
+Tillåter att ange stilinformation för ett specifikt dokument.
 
 ```csharp
 public string UserStyleSheet { get; set; }
@@ -17,7 +17,5 @@ public string UserStyleSheet { get; set; }
 ### Se även
 
 * interface [IUserAgentService](../)
-* namnutrymme [Aspose.Svg.Services](../../iuseragentservice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

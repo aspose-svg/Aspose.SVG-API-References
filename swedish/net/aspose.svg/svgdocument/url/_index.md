@@ -1,7 +1,7 @@
 ---
-title: SVGDocument.URL
-second_title: Aspose.SVG för .NET API Referens
-description: SVGDocument fast egendom. Dokumentets fullständiga URI.
+title: "SVGDocument.URL"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGDocument URL‑egenskap. Den kompletta URI:n för dokumentet"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg/svgdocument/url/
@@ -14,14 +14,12 @@ Dokumentets fullständiga URI.
 public string URL { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-URL.
+URL:en.
 
 ### Se även
 
 * class [SVGDocument](../)
-* namnutrymme [Aspose.Svg](../../svgdocument/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

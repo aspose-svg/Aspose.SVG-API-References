@@ -1,14 +1,14 @@
 ---
-title: Interface IFile
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.IO.IFile gränssnitt. Ett filobjekt är ett Blobobjekt med ett namnattribut vilket är en sträng den kan skapas i webbapplikationen via en konstruktor eller är en referens till en bytesekvens från en fil från det underliggande OS filsystemet.
+title: "IFile gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.IO.IFile gränssnitt. Ett File-objekt är ett Blob-objekt med ett namn-attribut som är en sträng; det kan skapas i webbapplikationen via en konstruktor eller är en referens till en byte-sekvens från en fil i det underliggande OS-filsystemet"
 type: docs
-weight: 1940
+weight: 4050
 url: /sv/net/aspose.svg.io/ifile/
 ---
 ## IFile interface
 
-Ett filobjekt är ett Blob-objekt med ett namnattribut, vilket är en sträng; den kan skapas i webbapplikationen via en konstruktor, eller är en referens till en bytesekvens från en fil från det underliggande (OS) filsystemet.
+Ett File‑objekt är ett Blob‑objekt med ett name‑attribut, som är en sträng; det kan skapas i webbapplikationen via en konstruktor, eller så är det en referens till en byte‑sekvens från en fil i det underliggande (OS)‑filsystemet.
 
 ```csharp
 public interface IFile : IBlob
@@ -16,15 +16,13 @@ public interface IFile : IBlob
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LastModified](../../aspose.svg.io/ifile/lastmodified/) { get; } | Det senaste ändringsdatumet för filen. Om användaragenter kan göra denna information tillgänglig, måste återställa en lång lång uppsättning till tiden då filen senast ändrades som antalet millisekunder sedan Unix-epoken. |
-| [Name](../../aspose.svg.io/ifile/name/) { get; } | Namnet på filen. När det hämtas måste detta returnera namnet på filen som en sträng. |
+| [LastModified](../../aspose.svg.io/ifile/lastmodified/) { get; } | Det senaste ändringsdatumet för filen. Vid hämtning, om användaragenter kan göra denna information tillgänglig, måste den returnera ett long long‑värde som är tiden då filen senast ändrades i antal millisekunder sedan Unix-epoken. |
+| [Name](../../aspose.svg.io/ifile/name/) { get; } | Filens namn. Vid hämtning måste detta returnera filens namn som en sträng. |
 
 ### Se även
 
 * interface [IBlob](../iblob/)
-* namnutrymme [Aspose.Svg.IO](../../aspose.svg.io/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

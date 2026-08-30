@@ -1,14 +1,14 @@
 ---
-title: Rect.Bottom
-second_title: Aspose.SVG för .NET API Referens
-description: Rect fast egendom. Det här attributet används för botten av rect.
+title: "Rect.Bottom"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Rect Bottom egenskap. Detta attribut används för rektangelns nedre kant"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/rect/bottom/
 ---
 ## Rect.Bottom property
 
-Det här attributet används för botten av rect.
+Detta attribut används för rektangelns botten.
 
 ```csharp
 public CSSPrimitiveValue Bottom { get; }
@@ -18,7 +18,5 @@ public CSSPrimitiveValue Bottom { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../rect/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

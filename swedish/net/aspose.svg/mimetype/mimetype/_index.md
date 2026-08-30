@@ -1,7 +1,7 @@
 ---
-title: MimeType.MimeType
-second_title: Aspose.SVG för .NET API Referens
-description: MimeType byggare. Initierar en ny instans av MIMEtyp baserat på serialiserat strängvärde.
+title: "MimeType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MimeType-konstruktor. Initierar en ny instans av MIME-typ baserad på serialiserat strängvärde"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/mimetype/mimetype/
@@ -21,7 +21,5 @@ public MimeType(string value)
 ### Se även
 
 * class [MimeType](../)
-* namnutrymme [Aspose.Svg](../../mimetype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

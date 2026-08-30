@@ -1,14 +1,14 @@
 ---
-title: Delegate MutationCallback
-second_title: Aspose.SVG för .NET API Referens
-description: Representerar metoden som kommer att hantera en mutationshändelser.
+title: "MutationCallback‑delegerad"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Representerar metoden som kommer att hantera mutations‑händelser"
 type: docs
-weight: 1110
+weight: 3100
 url: /sv/net/aspose.svg.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate
 
-Representerar metoden som kommer att hantera en mutationshändelser.
+Representerar metoden som kommer att hantera en mutationshändelse.
 
 ```csharp
 public delegate void MutationCallback(IList<MutationRecord> mutations, MutationObserver observer);
@@ -16,14 +16,12 @@ public delegate void MutationCallback(IList<MutationRecord> mutations, MutationO
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| mutations | IList`1 | Listan över mutationsposter. |
-| observer | MutationObserver | Mutationsobservatören. |
+| mutationer | IList`1 | Listan med mutationsposter. |
+| observatör | MutationObserver | Mutationsobservatören. |
 
 ### Se även
 
 * class [MutationRecord](../mutationrecord/)
 * class [MutationObserver](../mutationobserver/)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../)

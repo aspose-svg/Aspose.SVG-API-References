@@ -1,28 +1,26 @@
 ---
-title: ISVGFilterPrimitiveStandardAttributes.Y
-second_title: Aspose.SVG för .NET API Referens
-description: ISVGFilterPrimitiveStandardAttributes fast egendom. Motsvarar attributet y på det givna filterelementet.
+title: "ISVGFilterPrimitiveStandardAttributes.Y"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ISVGFilterPrimitiveStandardAttributes Y-egenskap. Motsvarar attributet y på det givna filterelementet"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/y/
 ---
 ## ISVGFilterPrimitiveStandardAttributes.Y property
 
-Motsvarar attributet 'y' på det givna 'filter'-elementet.
+Motsvarar attributet ‘y’ på det givna ‘filter’-elementet.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'y' för det givna 'filter'-elementet.
+Attributet ‘y’ för det angivna ‘filter’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * interface [ISVGFilterPrimitiveStandardAttributes](../)
-* namnutrymme [Aspose.Svg.Filters](../../isvgfilterprimitivestandardattributes/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathOptimizationOptions
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Toolkit.Optimizers.SVGPathOptimizationOptions klass. SVGPathOptimizationOptions är en klass för att lagra alternativ för att optimera segment av SVGsökvägselement.
+title: "SVGPathOptimizationOptions Klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Toolkit.Optimizers.SVGPathOptimizationOptions klass. SVGPathOptimizationOptions är en klass för att lagra alternativ för optimering av segment i SVG‑sökvägelement."
 type: docs
-weight: 3800
+weight: 5900
 url: /sv/net/aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions class
 
-SVGPathOptimizationOptions är en klass för att lagra alternativ för att optimera segment av SVG-sökvägselement.
+SVGPathOptimizationOptions är en klass för att lagra alternativ för optimering av segment i SVG‑banor.
 
 ```csharp
 public class SVGPathOptimizationOptions
@@ -16,23 +16,21 @@ public class SVGPathOptimizationOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | Initierar en ny instans av`SVGPathOptimizationOptions` class. |
+| [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | Initierar en ny instans av klassen `SVGPathOptimizationOptions`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ApplyTransforms](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/) { get; set; } | Hämtar eller ställer in alternativet att tillämpa transformationer på sökvägssegmenten. Det är "falskt" som standard. |
-| [ArcBuildingThreshold](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/) { get; set; } | Hämtar eller ställer in parametervärdet som används som tröskelfel för att ersätta Bezier-segment med bågsegment. Det är '2.5' som standard. |
-| [ArcBuildingTolerance](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/) { get; set; } | Hämtar eller ställer in parametervärdet som används som procentandel av radien för att ersätta Bezier-segment med bågsegment. Det är '0,5' som standard. |
-| [FloatPrecision](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/) { get; set; } | Hämtar eller ställer in alternativet att avrunda ett flyttalsvärde med flytprecision till ett angivet antal bråksiffror. Det är '3' som standard. |
-| [RemoveSpaceAfterFlags](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/) { get; set; } | Hämtar eller ställer in alternativet att ta bort extra utrymme efter 'arcto' kommandoflaggor. Det är "falskt" som standard. |
+| [ApplyTransforms](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/applytransforms/) { get; set; } | Hämtar eller anger alternativet för att tillämpa transformationer på Path-segmenten. Standardvärdet är 'false'. |
+| [ArcBuildingThreshold](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingthreshold/) { get; set; } | Hämtar eller anger parametervärdet som används som tröskelfel för att ersätta Bezier-segment med bågsegment. Standardvärdet är '2.5'. |
+| [ArcBuildingTolerance](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/arcbuildingtolerance/) { get; set; } | Hämtar eller anger parametervärdet som används som procentandel av radien för att ersätta Bezier-segment med bågsegment. Standardvärdet är '0.5'. |
+| [FloatPrecision](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/floatprecision/) { get; set; } | Hämtar eller anger alternativet för att avrunda ett flyttal med flytande precision till ett angivet antal decimaler. Standardvärdet är '3'. |
+| [RemoveSpaceAfterFlags](../../aspose.svg.toolkit.optimizers/svgpathoptimizationoptions/removespaceafterflags/) { get; set; } | Hämtar eller anger alternativet för att ta bort extra mellanslag efter 'arcto'-kommandoflaggor. Standardvärdet är 'false'. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../)

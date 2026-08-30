@@ -1,14 +1,14 @@
 ---
-title: FtpProtocolMessageHandler.FtpProtocolMessageHandler
-second_title: Aspose.SVG för .NET API Referens
-description: FtpProtocolMessageHandler byggare. Initierar en ny instans avFtpProtocolMessageHandler class.
+title: "FtpProtocolMessageHandler"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FtpProtocolMessageHandler-konstruktorn. Initierar en ny instans av FtpProtocolMessageHandler-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler constructor
 
-Initierar en ny instans av[`FtpProtocolMessageHandler`](../) class.
+Initierar en ny instans av [`FtpProtocolMessageHandler`](../)-klassen.
 
 ```csharp
 public FtpProtocolMessageHandler()
@@ -17,7 +17,5 @@ public FtpProtocolMessageHandler()
 ### Se även
 
 * class [FtpProtocolMessageHandler](../)
-* namnutrymme [Aspose.Svg.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../../)

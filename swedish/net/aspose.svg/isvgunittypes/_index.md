@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGUnitTypes
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ISVGUnitTypes gränssnitt. SVGUnitTypesgränssnittet definierar en vanlig uppsättning konstanter och är ett basgränssnitt som används av SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement och SVGFilterElement.
+title: "ISVGUnitTypes-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ISVGUnitTypes-gränssnitt. SVGUnitTypes-gränssnittet definierar en vanligt använd uppsättning konstanter och är ett basgränssnitt som används av SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement och SVGFilterElement."
 type: docs
-weight: 2050
+weight: 4120
 url: /sv/net/aspose.svg/isvgunittypes/
 ---
 ## ISVGUnitTypes interface
 
-SVGUnitTypes-gränssnittet definierar en vanlig uppsättning konstanter och är ett basgränssnitt som används av SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement och SVGFilterElement.
+SVGUnitTypes‑gränssnittet definierar en vanligt använd uppsättning konstanter och är ett basgränssnitt som används av SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement och SVGFilterElement.
 
 ```csharp
 public interface ISVGUnitTypes
@@ -16,7 +16,5 @@ public interface ISVGUnitTypes
 
 ### Se även
 
-* namnutrymme [Aspose.Svg](../../aspose.svg/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

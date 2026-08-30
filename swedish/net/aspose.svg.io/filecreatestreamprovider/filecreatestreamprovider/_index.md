@@ -1,14 +1,14 @@
 ---
-title: FileCreateStreamProvider.FileCreateStreamProvider
-second_title: Aspose.SVG för .NET API Referens
-description: FileCreateStreamProvider byggare. Initierar en ny instans avFileCreateStreamProvider class.
+title: "FileCreateStreamProvider"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FileCreateStreamProvider konstruktor. Initierar en ny instans av FileCreateStreamProvider-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}
 
-Initierar en ny instans av[`FileCreateStreamProvider`](../) class.
+Initierar en ny instans av [`FileCreateStreamProvider`](../)-klassen.
 
 ```csharp
 public FileCreateStreamProvider()
@@ -17,14 +17,14 @@ public FileCreateStreamProvider()
 ### Se även
 
 * class [FileCreateStreamProvider](../)
-* namnutrymme [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FileCreateStreamProvider(string) {#constructor_1}
+## FileCreateStreamProvider(*string*) {#constructor_1}
 
-Initierar en ny instans av[`FileCreateStreamProvider`](../) class.
+Initierar en ny instans av [`FileCreateStreamProvider`](../)-klassen.
 
 ```csharp
 public FileCreateStreamProvider(string name)
@@ -32,19 +32,19 @@ public FileCreateStreamProvider(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Filnamnet. |
+| namn | String | Filnamnet. |
 
 ### Se även
 
 * class [FileCreateStreamProvider](../)
-* namnutrymme [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## FileCreateStreamProvider(string, string) {#constructor_2}
+## FileCreateStreamProvider(*string, string*) {#constructor_2}
 
-Initierar en ny instans av[`FileCreateStreamProvider`](../) class.
+Initierar en ny instans av [`FileCreateStreamProvider`](../)-klassen.
 
 ```csharp
 public FileCreateStreamProvider(string directory, string name)
@@ -52,13 +52,11 @@ public FileCreateStreamProvider(string directory, string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| directory | String | Katalogen. |
-| name | String | Filnamnet. |
+| katalog | String | Katalogen. |
+| namn | String | Filnamnet. |
 
 ### Se även
 
 * class [FileCreateStreamProvider](../)
-* namnutrymme [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

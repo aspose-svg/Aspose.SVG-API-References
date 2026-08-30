@@ -1,14 +1,14 @@
 ---
-title: IMediaList.MediaText
-second_title: Aspose.SVG för .NET API Referens
-description: IMediaList fast egendom. Den tolkbara textrepresentationen av medialistan. Detta är en kommaseparerad lista över media.
+title: "IMediaList.MediaText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IMediaList MediaText egenskap. Den parsbara textrepresentationen av medialistan. Detta är en kommaseparerad lista med media"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.css/imedialist/mediatext/
 ---
 ## IMediaList.MediaText property
 
-Den tolkbara textrepresentationen av medialistan. Detta är en kommaseparerad lista över media.
+Den parsbara textrepresentationen av medialistan. Detta är en kommaseparerad lista med media.
 
 ```csharp
 public string MediaText { get; }
@@ -17,7 +17,5 @@ public string MediaText { get; }
 ### Se även
 
 * interface [IMediaList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../imedialist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

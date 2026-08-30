@@ -1,28 +1,26 @@
 ---
-title: SVGLinearGradientElement.Y1
-second_title: Aspose.SVG för .NET API Referens
-description: SVGLinearGradientElement fast egendom. Motsvarar attributet y1 på det givna elementet linearGradient.
+title: "SVGLinearGradientElement.Y1"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGLinearGradientElement Y1‑egenskap. Motsvarar attributet y1 på det angivna linearGradient‑elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svglineargradientelement/y1/
 ---
 ## SVGLinearGradientElement.Y1 property
 
-Motsvarar attributet 'y1' på det givna elementet 'linearGradient'.
+Motsvarar attributet ‘y1’ på det angivna ‘linearGradient’-elementet.
 
 ```csharp
 public SVGAnimatedLength Y1 { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'y1' för det givna elementet 'linearGradient'.
+Attributet ‘y1’ för det angivna ‘linearGradient’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* namnutrymme [Aspose.Svg](../../svglineargradientelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

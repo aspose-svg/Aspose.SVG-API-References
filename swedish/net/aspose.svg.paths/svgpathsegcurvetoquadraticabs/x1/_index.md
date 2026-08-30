@@ -1,7 +1,7 @@
 ---
-title: SVGPathSegCurvetoQuadraticAbs.X1
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathSegCurvetoQuadraticAbs fast egendom. Den absoluta Xkoordinaten för den första kontrollpunkten.
+title: "SVGPathSegCurvetoQuadraticAbs.X1"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathSegCurvetoQuadraticAbs X1 egenskap. Den absoluta X-koordinaten för den första kontrollpunkten"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/x1/
@@ -14,20 +14,18 @@ Den absoluta X-koordinaten för den första kontrollpunkten.
 public float X1 { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den absoluta X-koordinaten
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Höjd vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstått vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGPathSegCurvetoQuadraticAbs](../)
-* namnutrymme [Aspose.Svg.Paths](../../svgpathsegcurvetoquadraticabs/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

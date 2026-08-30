@@ -1,7 +1,7 @@
 ---
-title: SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEMorphologyElement fält. Motsvarar värdet erode.
+title: "SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEMorphologyElement SVG_MORPHOLOGY_OPERATOR_ERODE-fält. Motsvarar värdet erode"
 type: docs
 weight: 110
 url: /sv/net/aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_erode/
@@ -17,7 +17,5 @@ public const ushort SVG_MORPHOLOGY_OPERATOR_ERODE;
 ### Se även
 
 * class [SVGFEMorphologyElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

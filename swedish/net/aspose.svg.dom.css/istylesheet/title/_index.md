@@ -1,7 +1,7 @@
 ---
-title: IStyleSheet.Title
-second_title: Aspose.SVG för .NET API Referens
-description: IStyleSheet fast egendom. Den rådgivande titeln.
+title: "IStyleSheet.Title"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IStyleSheet Title-egenskap. Den rådgivande titeln"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom.css/istylesheet/title/
@@ -17,7 +17,5 @@ public string Title { get; }
 ### Se även
 
 * interface [IStyleSheet](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../istylesheet/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

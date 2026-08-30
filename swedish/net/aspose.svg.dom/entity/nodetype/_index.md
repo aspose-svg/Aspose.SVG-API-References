@@ -1,7 +1,7 @@
 ---
-title: Entity.NodeType
-second_title: Aspose.SVG för .NET API Referens
-description: Entity fast egendom. En kod som representerar typen av det underliggande objektet.
+title: "Entity.NodeType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Entity NodeType property. En kod som representerar typen av det underliggande objektet."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom/entity/nodetype/
@@ -14,14 +14,12 @@ En kod som representerar typen av det underliggande objektet.
 public override ushort NodeType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av nod.
+Typen av noden.
 
 ### Se även
 
 * class [Entity](../)
-* namnutrymme [Aspose.Svg.Dom](../../entity/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

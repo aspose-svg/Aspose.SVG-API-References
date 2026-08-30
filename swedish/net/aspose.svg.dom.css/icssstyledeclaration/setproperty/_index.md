@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.SetProperty
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSStyleDeclaration metod. Används för att ställa in ett egenskapsvärde med standardprioritet inom detta deklarationsblock. Standardprioritet är inte viktigt dvs String.Empty
+title: "ICSSStyleDeclaration.SetProperty"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSStyleDeclaration SetProperty method. Används för att sätta ett egenskapsvärde med standardprioritet inom detta deklarationsblock. Standardprioritet är inte viktig, t.ex. String.Empty."
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.dom.css/icssstyledeclaration/setproperty/
 ---
-## SetProperty(string, string) {#setproperty}
+## SetProperty(*string, string*) {#setproperty}
 
-Används för att ställa in ett egenskapsvärde med standardprioritet inom detta deklarationsblock. Standardprioritet är inte "viktigt", dvs String.Empty
+Används för att sätta ett egenskapsvärde med standardprioritet inom detta deklarationsblock. Standardprioriteten är inte "important", d.v.s. String.Empty.
 
 ```csharp
 public void SetProperty(string propertyName, string value)
@@ -16,20 +16,20 @@ public void SetProperty(string propertyName, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| propertyName | String | Fastighetens namn. |
+| propertyName | String | Namnet på egenskapen. |
 | value | String | Värdet. |
 
 ### Se även
 
 * interface [ICSSStyleDeclaration](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SetProperty(string, string, string) {#setproperty_1}
+## SetProperty(*string, string, string*) {#setproperty_1}
 
-Används för att ställa in ett egenskapsvärde och prioritet inom detta deklarationsblock.
+Används för att sätta ett egenskapsvärde och prioritet inom detta deklarationsblock.
 
 ```csharp
 public void SetProperty(string propertyName, string value, string priority)
@@ -37,14 +37,12 @@ public void SetProperty(string propertyName, string value, string priority)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| propertyName | String | Fastighetens namn. |
+| propertyName | String | Namnet på egenskapen. |
 | value | String | Värdet. |
-| priority | String | Prioriteten. |
+| prioritet | String | Prioriteten. |
 
 ### Se även
 
 * interface [ICSSStyleDeclaration](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

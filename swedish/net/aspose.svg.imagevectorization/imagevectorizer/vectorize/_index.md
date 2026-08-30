@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizer.Vectorize
-second_title: Aspose.SVG för .NET API Referens
-description: ImageVectorizer metod. Vektoriserar rasterbilden från den angivna filen.
+title: "ImageVectorizer.Vectorize"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageVectorizer Vectorize-metod. Vektoriserar rasterbild från den angivna filen"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
-## Vectorize(string) {#vectorize_2}
+## Vectorize(*string*) {#vectorize_1}
 
-Vektoriserar rasterbilden från den angivna filen.
+Vektorisar rasterbild från den angivna filen.
 
 ```csharp
 public SVGDocument Vectorize(string imageFile)
@@ -26,14 +26,14 @@ SVG-dokumentet.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Vectorize(Stream) {#vectorize_1}
+## Vectorize(*Stream*) {#vectorize}
 
-Vektoriserar rasterbild från den angivna strömmen.
+Vektorisar rasterbild från den angivna strömmen.
 
 ```csharp
 public SVGDocument Vectorize(Stream imageStream)
@@ -41,7 +41,7 @@ public SVGDocument Vectorize(Stream imageStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageStream | Stream | Strömmen med bild. |
+| imageStream | Stream | Strömmen med bilden. |
 
 ### Returvärde
 
@@ -51,32 +51,5 @@ SVG-dokumentet.
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [ImageVectorizer](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* hopsättning [Aspose.SVG](../../../)
-
----
-
-## Vectorize(Bitmap) {#vectorize}
-
-Vektoriserar bitmapp.
-
-```csharp
-public SVGDocument Vectorize(Bitmap image)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| image | Bitmap | Bitmappen. |
-
-### Returvärde
-
-SVG-dokumentet.
-
-### Se även
-
-* class [SVGDocument](../../../aspose.svg/svgdocument/)
-* class [ImageVectorizer](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagevectorizer/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

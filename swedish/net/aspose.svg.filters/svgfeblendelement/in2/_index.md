@@ -1,28 +1,26 @@
 ---
-title: SVGFEBlendElement.In2
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEBlendElement fast egendom. Motsvarar attributet in2 på det givna feBlendelementet.
+title: "SVGFEBlendElement.In2"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEBlendElement In2-egenskap. Motsvarar attributet in2 på det givna feBlend-elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.filters/svgfeblendelement/in2/
 ---
 ## SVGFEBlendElement.In2 property
 
-Motsvarar attributet 'in2' på det givna 'feBlend'-elementet.
+Motsvarar attributet ‘in2’ på det angivna ‘feBlend’-elementet.
 
 ```csharp
 public SVGAnimatedString In2 { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'in2' för det givna 'feBlend'-elementet.
+Attributet ‘in2’ för det angivna ‘feBlend’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEBlendElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeblendelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

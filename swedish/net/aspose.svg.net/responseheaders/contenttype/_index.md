@@ -1,28 +1,26 @@
 ---
-title: ResponseHeaders.ContentType
-second_title: Aspose.SVG för .NET API Referens
-description: ResponseHeaders fast egendom. Får värdet ContentType header.
+title: "ResponseHeaders.ContentType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ResponseHeaders ContentType-egenskapen. Hämtar värdet för Content-Type-huvudet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.net/responseheaders/contenttype/
 ---
 ## ResponseHeaders.ContentType property
 
-Får värdet Content-Type header.
+Hämtar värdet för Content-Type‑huvudet.
 
 ```csharp
 public ContentTypeHeaderValue ContentType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av innehåll.
+Typen av innehållet.
 
 ### Se även
 
 * class [ContentTypeHeaderValue](../../../aspose.svg.net.headers/contenttypeheadervalue/)
 * class [ResponseHeaders](../)
-* namnutrymme [Aspose.Svg.Net](../../responseheaders/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

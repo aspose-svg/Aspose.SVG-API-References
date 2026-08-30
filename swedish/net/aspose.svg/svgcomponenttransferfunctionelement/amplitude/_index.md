@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Amplitude
-second_title: Aspose.SVG för .NET API Referens
-description: SVGComponentTransferFunctionElement fast egendom. Motsvarar attributet amplitud på det givna elementet.
+title: "SVGComponentTransferFunctionElement.Amplitude"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGComponentTransferFunctionElement Amplitude-egenskap. Motsvarar attributet amplitude på det givna elementet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svgcomponenttransferfunctionelement/amplitude/
 ---
 ## SVGComponentTransferFunctionElement.Amplitude property
 
-Motsvarar attributet 'amplitud' på det givna elementet.
+Motsvarar attributet ‘amplitude’ på det givna elementet.
 
 ```csharp
 public SVGAnimatedNumber Amplitude { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'amplitud' för det givna elementet.
+Attributet ‘amplitude’ för det givna elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* namnutrymme [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

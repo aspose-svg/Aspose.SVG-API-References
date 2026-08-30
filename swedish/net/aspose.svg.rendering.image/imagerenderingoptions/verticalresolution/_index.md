@@ -1,14 +1,14 @@
 ---
-title: ImageRenderingOptions.VerticalResolution
-second_title: Aspose.SVG för .NET API Referens
-description: ImageRenderingOptions fast egendom. Ställer in eller får vertikal upplösning för utdata och interna som används under filterbearbetning bilder i pixlar per tum. Som standard är den här egenskapen 300 dpi.
+title: "ImageRenderingOptions.VerticalResolution"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageRenderingOptions VerticalResolution‑egenskap. Ställer in eller hämtar vertikal upplösning för utdata och intern som används under filterbehandling av bilder i pixlar per tum. Som standard är denna egenskap 300 dpi"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/
 ---
 ## ImageRenderingOptions.VerticalResolution property
 
-Ställer in eller får vertikal upplösning för utdata och interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är den här egenskapen 300 dpi.
+Anger eller hämtar vertikal upplösning för utdata‑ och interna (som används under filterbehandling) bilder, i pixlar per tum. Standardvärdet för denna egenskap är 300 dpi.
 
 ```csharp
 public override Resolution VerticalResolution { get; set; }
@@ -18,7 +18,5 @@ public override Resolution VerticalResolution { get; set; }
 
 * class [Resolution](../../../aspose.svg.drawing/resolution/)
 * class [ImageRenderingOptions](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

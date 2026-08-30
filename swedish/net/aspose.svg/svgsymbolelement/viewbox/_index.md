@@ -1,28 +1,26 @@
 ---
-title: SVGSymbolElement.ViewBox
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSymbolElement fast egendom. Motsvarar attributet viewBox på det givna elementet.
+title: "SVGSymbolElement.ViewBox"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSymbolElement ViewBox egenskap. Motsvarar attributet viewBox på det givna elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgsymbolelement/viewbox/
 ---
 ## SVGSymbolElement.ViewBox property
 
-Motsvarar attributet 'viewBox' på det givna elementet.
+Motsvarar attributet ‘viewBox’ på det givna elementet.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-'viewBox' för det givna elementet.
+‘viewBox’-värdet för det angivna elementet.
 
 ### Se även
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * class [SVGSymbolElement](../)
-* namnutrymme [Aspose.Svg](../../svgsymbolelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

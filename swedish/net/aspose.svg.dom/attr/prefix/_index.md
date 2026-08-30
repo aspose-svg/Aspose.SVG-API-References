@@ -1,27 +1,25 @@
 ---
-title: Attr.Prefix
-second_title: Aspose.SVG för .NET API Referens
-description: Attr fast egendom. Namnutrymmesprefixet för denna nod eller null om det är ospecificerat. När den är definierad som null har inställningen ingen effekt
+title: "Attr.Prefix"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Attr Prefix property. Namnutrymmesprefixet för denna nod eller null om det inte är specificerat. När det är definierat som null har en inställning ingen effekt"
 type: docs
-weight: 90
+weight: 80
 url: /sv/net/aspose.svg.dom/attr/prefix/
 ---
 ## Attr.Prefix property
 
-Namnutrymmesprefixet för denna nod, eller null om det är ospecificerat. När den är definierad som null har inställningen ingen effekt
+Namnrymdsprefixet för denna nod, eller null om det är ospecificerat. När det är definierat som null har en inställning ingen effekt.
 
 ```csharp
 public override string Prefix { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Prefixet.
 
 ### Se även
 
 * class [Attr](../)
-* namnutrymme [Aspose.Svg.Dom](../../attr/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

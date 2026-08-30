@@ -1,27 +1,25 @@
 ---
-title: KeyboardEvent.Key
-second_title: Aspose.SVG för .NET API Referens
-description: KeyboardEvent fast egendom. Tangenten håller nyckelvärdet för den nedtryckta tangenten. Om värdet har en utskriven representation MÅSTE det vara en icketom Unicodeteckensträng som överensstämmer med algoritmen för att bestämma nyckelvärdet som definieras i denna specifikation. Om värdet är en kontrollnyckel som inte har någon utskriven representation MÅSTE det vara ett av nyckelvärdena som definieras i nyckelvärdena som bestäms av algoritmen för att bestämma nyckelvärdet. Implementeringar som inte kan identifiera en nyckel MÅSTE använda nyckelvärdet Unidentified.
+title: "KeyboardEvent.Key"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "KeyboardEvent Key-egenskapen. Tangenten innehåller tangentvärdet för den nedtryckta tangenten. Om värdet har en tryckt representation SKA det vara en icke‑tom Unicode‑teckensekvens som följer algoritmen för att bestämma tangentvärdet som definieras i detta specifikation. Om värdet är en kontrolltangent som saknar tryckt representation SKA det vara ett av tangentvärdena som definieras i tangentvärdesuppsättningen enligt algoritmen för att bestämma tangentvärdet. Implementationer som inte kan identifiera en tangent SKA använda tangentvärdet Unidentified."
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom.events/keyboardevent/key/
 ---
 ## KeyboardEvent.Key property
 
-Tangenten håller nyckelvärdet för den nedtryckta tangenten. Om värdet har en utskriven representation MÅSTE det vara en icke-tom Unicode-teckensträng som överensstämmer med algoritmen för att bestämma nyckelvärdet som definieras i denna specifikation. Om värdet är en kontrollnyckel som inte har någon utskriven representation, MÅSTE det vara ett av nyckelvärdena som definieras i nyckelvärdena som bestäms av algoritmen för att bestämma nyckelvärdet. Implementeringar som inte kan identifiera en nyckel MÅSTE använda nyckelvärdet Unidentified.
+Nyckeln innehåller nyckelvärdet för den tryckta tangenten. Om värdet har en tryckt representation MÅSTE det vara en icke‑tom Unicode‑teckensekvens som följer algoritmen för att bestämma nyckelvärdet som definieras i denna specifikation. Om värdet är en kontrolltangent utan tryckt representation MÅSTE det vara ett av nyckelvärdena som definieras i nyckelvärdesuppsättningen, enligt algoritmen för att bestämma nyckelvärdet. Implementationer som inte kan identifiera en tangent MÅSTE använda nyckelvärdet Unidentified.
 
 ```csharp
 public string Key { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Nyckelvärdet.
+Tangentvärdet.
 
 ### Se även
 
 * class [KeyboardEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

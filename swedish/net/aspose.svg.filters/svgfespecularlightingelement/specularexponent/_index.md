@@ -1,28 +1,26 @@
 ---
-title: SVGFESpecularLightingElement.SpecularExponent
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFESpecularLightingElement fast egendom. Motsvarar attributet specularExponent på det givna feSpecularLightingelementet.
+title: "SVGFESpecularLightingElement.SpecularExponent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFESpecularLightingElement SpecularExponent egenskap. Motsvarar attributet specularExponent på det angivna feSpecularLighting-elementet"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.filters/svgfespecularlightingelement/specularexponent/
 ---
 ## SVGFESpecularLightingElement.SpecularExponent property
 
-Motsvarar attributet 'specularExponent' på det givna 'feSpecularLighting'-elementet.
+Motsvarar attributet ‘specularExponent’ på det givna ‘feSpecularLighting’-elementet.
 
 ```csharp
 public SVGAnimatedNumber SpecularExponent { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'specularExponent' för det givna 'feSpecularLighting'-elementet.
+Attributet ‘specularExponent’ för det angivna ‘feSpecularLighting’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfespecularlightingelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: IBrowsingContext.Network
-second_title: Aspose.SVG för .NET API Referens
-description: IBrowsingContext fast egendom. Hämtar nätverkstjänsterna.
+title: "IBrowsingContext.Network"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IBrowsingContext Network property. Hämtar nätverkstjänsterna"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom/ibrowsingcontext/network/
@@ -14,7 +14,7 @@ Hämtar nätverkstjänsterna.
 public INetwork Network { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nätverkstjänsterna.
 
@@ -22,7 +22,5 @@ Nätverkstjänsterna.
 
 * interface [INetwork](../../../aspose.svg.net/inetwork/)
 * interface [IBrowsingContext](../)
-* namnutrymme [Aspose.Svg.Dom](../../ibrowsingcontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

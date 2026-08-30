@@ -1,28 +1,26 @@
 ---
-title: SVGEllipseElement.Cx
-second_title: Aspose.SVG för .NET API Referens
-description: SVGEllipseElement fast egendom. Motsvarar attributet cx på det givna cirkelelementet.
+title: "SVGEllipseElement.Cx"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGEllipseElement Cx-egenskap. Motsvarar attributet cx på det angivna cirkelelementet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svgellipseelement/cx/
 ---
 ## SVGEllipseElement.Cx property
 
-Motsvarar attributet 'cx' på det givna 'cirkel'-elementet.
+Motsvarar attributet ‘cx’ på det givna ‘circle’-elementet.
 
 ```csharp
 public SVGAnimatedLength Cx { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'cx' för det givna 'circle'-elementet.
+Attributet ‘cx’ för det angivna ‘circle’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* namnutrymme [Aspose.Svg](../../svgellipseelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

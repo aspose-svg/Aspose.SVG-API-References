@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Volume
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se volymegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Volume"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Volume-egenskap. Se definitionen av egenskapen volume i CSS2"
 type: docs
-weight: 1170
+weight: 1200
 url: /sv/net/aspose.svg.dom.css/icss2properties/volume/
 ---
 ## ICSS2Properties.Volume property
 
-Se volymegenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen volume i CSS2.
 
 ```csharp
 public string Volume { get; set; }
@@ -16,12 +16,10 @@ public string Volume { get; set; }
 
 ### Returvärde
 
-volymegenskap
+volume egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: ICSSKeyframeRule.KeyText
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSKeyframeRule fast egendom. Det här attributet representerar nyckelbildsväljaren som en kommaseparerad lista med procentvärden. Nyckelorden från och till mappas till 0 respektive 100.
+title: "ICSSKeyframeRule.KeyText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSKeyframeRule KeyText-egenskap. Detta attribut representerar keyframe-väljaren som en kommaseparerad lista av procentvärden. Nyckelorden from och to motsvarar 0 respektive 100."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icsskeyframerule/keytext/
 ---
 ## ICSSKeyframeRule.KeyText property
 
-Det här attributet representerar nyckelbildsväljaren som en kommaseparerad lista med procentvärden. Nyckelorden "från" och "till" mappas till "0%" respektive "100%".
+Detta attribut representerar nyckelramväljaren som en kommaseparerad lista av procentvärden. Nyckelorden ‘from’ och ‘to’ motsvarar respektive ‘0%’ och ‘100%’.
 
 ```csharp
 public string KeyText { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nyckeltexten.
 
 ### Se även
 
 * interface [ICSSKeyframeRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

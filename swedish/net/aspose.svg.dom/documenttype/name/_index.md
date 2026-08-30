@@ -1,27 +1,25 @@
 ---
-title: DocumentType.Name
-second_title: Aspose.SVG för .NET API Referens
-description: DocumentType fast egendom. Namnet på DTD dvs namnet omedelbart efter DOCTYPEnyckelordet.
+title: "DocumentType.Name"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DocumentType Name egenskap. Namnet på DTD, dvs. namnet som omedelbart följer DOCTYPE‑nyckelordet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom/documenttype/name/
 ---
 ## DocumentType.Name property
 
-Namnet på DTD; dvs namnet omedelbart efter DOCTYPE-nyckelordet.
+Namnet på DTD; d.v.s. namnet som omedelbart följer DOCTYPE-nyckelordet.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Nodens namn.
+Nodnamnet.
 
 ### Se även
 
 * class [DocumentType](../)
-* namnutrymme [Aspose.Svg.Dom](../../documenttype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

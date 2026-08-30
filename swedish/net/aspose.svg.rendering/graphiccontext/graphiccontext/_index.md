@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.GraphicContext
-second_title: Aspose.SVG för .NET API Referens
-description: GraphicContext byggare. Initierar en ny instans avGraphicContext class.
+title: "GraphicContext"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GraphicContext-konstruktor. Initierar en ny instans av klassen GraphicContext"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering/graphiccontext/graphiccontext/
 ---
 ## GraphicContext constructor
 
-Initierar en ny instans av[`GraphicContext`](../) class.
+Initierar en ny instans av klassen [`GraphicContext`](../).
 
 ```csharp
 public GraphicContext()
@@ -17,7 +17,5 @@ public GraphicContext()
 ### Se även
 
 * class [GraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering](../../graphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)
